@@ -1,0 +1,2006 @@
+{
+  "id": "s05e03",
+  "season": 5,
+  "episode": 3,
+  "level": "B1",
+  "title": {
+    "it": "Vogliono che torni",
+    "en": "They Want Me to Come Back"
+  },
+  "grammar_focus": [
+    "g-congiuntivo-will"
+  ],
+  "vocab_theme": "Job offers, careers, international moves",
+  "vocab": [
+    {
+      "id": "v-offerta",
+      "lemma": "l'offerta",
+      "pos": "noun",
+      "en": "offer",
+      "example": "s05e03-1-011",
+      "target": {
+        "it": "offerta",
+        "en": "offer"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-proposta-di-lavoro",
+      "lemma": "la proposta di lavoro",
+      "pos": "noun",
+      "en": "job offer",
+      "example": "s05e03-1-014",
+      "target": {
+        "it": "proposta di lavoro",
+        "en": "offer"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-stipendio",
+      "lemma": "lo stipendio",
+      "pos": "noun",
+      "en": "salary",
+      "example": "s05e03-4-011",
+      "target": {
+        "it": "stipendio",
+        "en": "salary"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-trasferimento",
+      "lemma": "il trasferimento",
+      "pos": "noun",
+      "en": "move; transfer",
+      "example": "s05e03-4-010",
+      "target": {
+        "it": "trasferimento",
+        "en": "move"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-contratto",
+      "lemma": "il contratto",
+      "pos": "noun",
+      "en": "contract",
+      "example": "s05e03-1-021",
+      "target": {
+        "it": "contratto",
+        "en": "contract"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-sede",
+      "lemma": "la sede",
+      "pos": "noun",
+      "en": "headquarters; office",
+      "example": "s05e03-1-021",
+      "target": {
+        "it": "sede",
+        "en": "office"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-promozione",
+      "lemma": "la promozione",
+      "pos": "noun",
+      "en": "promotion",
+      "example": "s05e03-4-014",
+      "target": {
+        "it": "promozione",
+        "en": "promotion"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-volere-che",
+      "lemma": "volere che",
+      "pos": "expression",
+      "en": "to want (someone) to",
+      "example": "s05e03-3-002",
+      "target": {
+        "it": "vuole che",
+        "en": "wants"
+      }
+    },
+    {
+      "id": "v-sperare-che",
+      "lemma": "sperare che",
+      "pos": "expression",
+      "en": "to hope that",
+      "example": "s05e03-3-003",
+      "target": {
+        "it": "Spero che",
+        "en": "I hope"
+      }
+    },
+    {
+      "id": "v-preferire-che",
+      "lemma": "preferire che",
+      "pos": "expression",
+      "en": "to prefer that",
+      "example": "s05e03-4-024",
+      "target": {
+        "it": "preferisce che",
+        "en": "prefers"
+      }
+    },
+    {
+      "id": "v-desiderare-che",
+      "lemma": "desiderare che",
+      "pos": "verb",
+      "en": "to wish that",
+      "example": "s05e03-4-028",
+      "target": {
+        "it": "desidero che",
+        "en": "I want"
+      }
+    },
+    {
+      "id": "v-chiedere-che",
+      "lemma": "chiedere che",
+      "pos": "verb",
+      "en": "to ask that",
+      "example": "s05e03-1-017",
+      "target": {
+        "it": "chiede che",
+        "en": "asks"
+      }
+    },
+    {
+      "id": "v-direttore-marketing",
+      "lemma": "il direttore marketing",
+      "pos": "noun",
+      "en": "marketing director",
+      "example": "s05e03-1-026",
+      "target": {
+        "it": "Direttore marketing",
+        "en": "Marketing director"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-azienda",
+      "lemma": "l'azienda",
+      "pos": "noun",
+      "en": "company",
+      "example": "s05e03-1-008",
+      "target": {
+        "it": "azienda",
+        "en": "company"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-decisione",
+      "lemma": "la decisione",
+      "pos": "noun",
+      "en": "decision",
+      "example": "s05e03-6-008",
+      "target": {
+        "it": "decisione",
+        "en": "decision"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-segreto",
+      "lemma": "il segreto",
+      "pos": "noun",
+      "en": "secret",
+      "example": "s05e03-4-022",
+      "target": {
+        "it": "segreto",
+        "en": "secret"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-dubbio",
+      "lemma": "il dubbio",
+      "pos": "noun",
+      "en": "doubt",
+      "example": "s05e03-2-023",
+      "target": {
+        "it": "dubbio",
+        "en": "doubt"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-coraggio",
+      "lemma": "il coraggio",
+      "pos": "noun",
+      "en": "courage",
+      "example": "s05e03-4-032",
+      "target": {
+        "it": "coraggio",
+        "en": "Courage"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-paura",
+      "lemma": "la paura",
+      "pos": "noun",
+      "en": "fear",
+      "example": "s05e03-4-021",
+      "target": {
+        "it": "paura",
+        "en": "afraid"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-carriera",
+      "lemma": "la carriera",
+      "pos": "noun",
+      "en": "career",
+      "example": "s05e03-4-015",
+      "target": {
+        "it": "carriera",
+        "en": "career"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-occasione",
+      "lemma": "l'occasione",
+      "pos": "noun",
+      "en": "opportunity",
+      "example": "s05e03-4-015",
+      "target": {
+        "it": "occasione",
+        "en": "opportunity"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-auto-aziendale",
+      "lemma": "l'auto aziendale",
+      "pos": "noun",
+      "en": "company car",
+      "example": "s05e03-4-011",
+      "target": {
+        "it": "auto aziendale",
+        "en": "company car"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-consiglio",
+      "lemma": "il consiglio",
+      "pos": "noun",
+      "en": "(piece of) advice",
+      "example": "s05e03-4-027",
+      "target": {
+        "it": "consiglio",
+        "en": "advice"
+      },
+      "gender": "m"
+    }
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "location": "casa-carter",
+      "characters": [
+        "ben",
+        "chiara",
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-001",
+              "it": "Sono le sette e mezza a Via dei Tigli, e la cucina di casa Carter è già un caos gentile.",
+              "en": "It's seven thirty on Via dei Tigli, and the Carter kitchen is already a gentle chaos."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-1-002",
+              "it": "Papà, perché il caffè puzza tanto?",
+              "en": "Dad, why does coffee smell so strong?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-003",
+              "it": "Non lo so, Leo. Chiedi alla mamma.",
+              "en": "I don't know, Leo. Ask Mom."
+            }
+          ],
+          "style": "distracted"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-1-004",
+              "it": "Leo, la merenda è nello zaino. Ben, hai visto le mie chiavi?",
+              "en": "Leo, your snack is in your backpack. Ben, have you seen my keys?"
+            }
+          ],
+          "style": "fast, checking her bag"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-005",
+              "it": "Sul tavolo, credo.",
+              "en": "On the table, I think."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-006",
+              "it": "Ben apre il computer per controllare la posta, come ogni mattina.",
+              "en": "Ben opens his laptop to check his mail, like every morning."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-007",
+              "it": "Un momento...",
+              "en": "Hold on a second..."
+            }
+          ],
+          "style": "surprised"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-008",
+              "it": "C'è un'email dalla sua vecchia **azienda** di Chicago, quella dove ha lavorato per dodici anni.",
+              "en": "There's an email from his old **company** in Chicago, the one where he worked for twelve years.",
+              "focus": [
+                "v-azienda"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-009",
+              "it": "\"**Vogliamo che** lei torni a dirigere il reparto marketing.\"",
+              "en": "\"**We want** you to come back and run the marketing department.\"",
+              "focus": [
+                "v-volere-che"
+              ]
+            }
+          ],
+          "style": "reading, quiet"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-1-010",
+              "it": "Cosa dici?",
+              "en": "What did you say?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-011",
+              "it": "Niente, niente. È solo un'**offerta** di lavoro. Un vecchio collega.",
+              "en": "Nothing, nothing. It's just a job **offer**. An old colleague.",
+              "focus": [
+                "v-offerta"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-1-012",
+              "it": "Ok, dopo mi racconti. Devo correre, il treno delle otto non aspetta!",
+              "en": "Okay, tell me later. I have to run, the eight o'clock train doesn't wait!"
+            }
+          ],
+          "style": "already leaving"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-013",
+              "it": "Chiara esce di corsa. Ben resta a fissare lo schermo.",
+              "en": "Chiara rushes out. Ben is left staring at the screen."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-1-014",
+              "it": "Papà, che cos'è una \"**proposta di lavoro**\"?",
+              "en": "Dad, what's a \"job **offer**\"?",
+              "focus": [
+                "v-proposta-di-lavoro"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-015",
+              "it": "Hai letto lo schermo?",
+              "en": "Did you read the screen?"
+            }
+          ],
+          "style": "startled"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-1-016",
+              "it": "Ho letto \"proposta\". Che cos'è?",
+              "en": "I read \"offer\". What is it?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-017",
+              "it": "È quando un'azienda **chiede che** tu vada a lavorare per loro.",
+              "en": "It's when a company **asks** you to go work for them.",
+              "focus": [
+                "v-chiedere-che"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-1-018",
+              "it": "Come la maestra che chiede che io faccia i compiti?",
+              "en": "Like the teacher who asks that I do my homework?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-019",
+              "it": "Esatto. Bravo.",
+              "en": "Exactly. Good job."
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-020",
+              "it": "Ben rilegge l'email. **Vogliono raddoppiare** il suo **stipendio** e offrirgli una casa e un'**auto aziendale**.",
+              "en": "Ben reads the email again. **They want to double** his **salary** and offer him a house and a **company car**.",
+              "focus": [
+                "g-congiuntivo-will",
+                "v-stipendio",
+                "v-auto-aziendale"
+              ]
+            },
+            {
+              "id": "s05e03-1-021",
+              "it": "Il nuovo **contratto** inizia a marzo, nella **sede** di Chicago.",
+              "en": "The new **contract** starts in March, at the Chicago **office**.",
+              "focus": [
+                "v-contratto",
+                "v-sede"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-022",
+              "it": "Marzo...",
+              "en": "March..."
+            }
+          ],
+          "style": "to himself"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-1-023",
+              "it": "Papà, con chi parli?",
+              "en": "Dad, who are you talking to?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-024",
+              "it": "Con nessuno, Leo. Prendi lo zaino, sennò perdiamo la scuola.",
+              "en": "With no one, Leo. Get your backpack, or we'll be late for school."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-025",
+              "it": "Ma Ben non chiude il computer. Legge l'email un'altra volta, e un'altra ancora.",
+              "en": "But Ben doesn't close the laptop. He reads the email again, and again."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-026",
+              "it": "**Direttore marketing**. Il doppio dello stipendio.",
+              "en": "**Marketing director**. Double the salary.",
+              "focus": [
+                "v-direttore-marketing"
+              ]
+            }
+          ],
+          "style": "murmuring"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-1-027",
+              "it": "Papà, andiamo!",
+              "en": "Dad, let's go!"
+            }
+          ],
+          "style": "putting on his backpack"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-1-028",
+              "it": "Arrivo, arrivo.",
+              "en": "Coming, coming."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-1-029",
+              "it": "Ben chiude il computer, ma porta l'idea con sé fino alla porta di scuola.",
+              "en": "Ben closes the laptop, but he carries the thought with him all the way to the school gate."
+            }
+          ]
+        }
+      ],
+      "time": "mattina"
+    },
+    {
+      "n": 2,
+      "location": "via",
+      "characters": [
+        "ben",
+        "emma"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-2-001",
+              "it": "Ben accompagna Leo a scuola a piedi. Davanti a casa incontra Emma, che corre verso la stazione.",
+              "en": "Ben walks Leo to school on foot. In front of the house he runs into Emma, who is running toward the station."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-2-002",
+              "it": "Ciao papà, ciao Leo. Devo andare, il treno parte tra otto minuti.",
+              "en": "Bye Dad, bye Leo. I have to go, the train leaves in eight minutes."
+            }
+          ],
+          "style": "checking her phone"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-003",
+              "it": "Va bene, tesoro. In bocca al lupo per la scuola.",
+              "en": "Okay, sweetie. Good luck at school."
+            }
+          ],
+          "style": "distant"
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-2-004",
+              "it": "Papà, tutto bene? Hai una faccia strana.",
+              "en": "Dad, are you okay? You have a strange look on your face."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-005",
+              "it": "Sì sì, tutto bene. Ho solo un **dubbio** di lavoro.",
+              "en": "Yes yes, I'm fine. I just have a work **doubt**.",
+              "focus": [
+                "v-dubbio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-2-006",
+              "it": "Tu? Un dubbio di lavoro? Ma tu non hai un lavoro qui.",
+              "en": "You? A work doubt? But you don't have a job here."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-007",
+              "it": "Appunto. È complicato.",
+              "en": "Exactly. It's complicated."
+            }
+          ],
+          "style": "quickly"
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-2-008",
+              "it": "Boh. Comunque, la maestra di Leo vuole che i genitori firmino il modulo per la gita. Non dimenticare.",
+              "en": "Whatever. Anyway, Leo's teacher wants the parents to sign the field-trip form. Don't forget."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-009",
+              "it": "Certo, ci penso io.",
+              "en": "Sure, I'll take care of it."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-2-010",
+              "it": "\"Ci penso io\" è la frase di Chiara, non di Ben. Emma se ne accorge subito.",
+              "en": "\"I'll handle it\" is Chiara's line, not Ben's. Emma notices right away."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-2-011",
+              "it": "Da quando dici \"ci penso io\"?",
+              "en": "Since when do you say \"I'll handle it\"?"
+            }
+          ],
+          "style": "suspicious"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-012",
+              "it": "Da oggi. È una bella frase.",
+              "en": "Since today. It's a nice phrase."
+            }
+          ],
+          "style": "nervous"
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-2-013",
+              "it": "Sei strano, papà.",
+              "en": "You're being weird, Dad."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-2-014",
+              "it": "Emma corre verso la stazione. Leo tira la manica di Ben.",
+              "en": "Emma runs off toward the station. Leo tugs at Ben's sleeve."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-2-015",
+              "it": "Papà, perché sei strano?",
+              "en": "Dad, why are you being weird?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-016",
+              "it": "Non sono strano, Leo. Sto solo pensando.",
+              "en": "I'm not being weird, Leo. I'm just thinking."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-2-017",
+              "it": "A cosa?",
+              "en": "About what?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-018",
+              "it": "A una cosa grande. Molto grande.",
+              "en": "About something big. Very big."
+            }
+          ],
+          "style": "quiet"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-2-019",
+              "it": "Leo non capisce, ma annuisce comunque, come fa sempre.",
+              "en": "Leo doesn't understand, but he nods anyway, the way he always does."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-2-020",
+              "it": "Se è una cosa grande, forse serve un consiglio.",
+              "en": "If it's something big, maybe you need advice."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-2-021",
+              "it": "Grazie, Leo. Ci penso.",
+              "en": "Thanks, Leo. I'll think about it."
+            }
+          ],
+          "style": "smiling"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-2-022",
+              "it": "Il mio **consiglio** è: mangia un gelato prima di decidere. Aiuta sempre.",
+              "en": "My **advice** is: eat ice cream before deciding. It always helps.",
+              "focus": [
+                "v-consiglio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-2-023",
+              "it": "Ben ride, ma il **dubbio** non se ne va.",
+              "en": "Ben laughs, but the **doubt** doesn't go away.",
+              "focus": [
+                "v-dubbio"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "mattina"
+    },
+    {
+      "n": 3,
+      "location": "confessionale",
+      "characters": [
+        "ben"
+      ],
+      "turns": [
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-3-001",
+              "it": "Dodici anni fa ho lasciato Chicago per amore.",
+              "en": "Twelve years ago I left Chicago for love."
+            },
+            {
+              "id": "s05e03-3-002",
+              "it": "Ora Chicago **vuole che** io torni.",
+              "en": "Now Chicago **wants** me to come back.",
+              "focus": [
+                "v-volere-che"
+              ]
+            },
+            {
+              "id": "s05e03-3-003",
+              "it": "**Spero che** sia solo un'idea pazza, ma continuo a pensarci.",
+              "en": "**I hope** it's just a crazy idea, but I keep thinking about it.",
+              "focus": [
+                "v-sperare-che"
+              ]
+            },
+            {
+              "id": "s05e03-3-004",
+              "it": "Il **direttore marketing**. Il mio vecchio titolo, ma con il doppio dello stipendio.",
+              "en": "Marketing **director**. My old title, but with double the salary.",
+              "focus": [
+                "v-direttore-marketing"
+              ]
+            },
+            {
+              "id": "s05e03-3-005",
+              "it": "Un **trasferimento** del genere cambierebbe la vita di tutti, non solo la mia.",
+              "en": "A **move** like that would change everyone's life, not just mine.",
+              "focus": [
+                "v-trasferimento"
+              ]
+            },
+            {
+              "id": "s05e03-3-006",
+              "it": "Non l'ho detto a nessuno. Nemmeno a Chiara.",
+              "en": "I haven't told anyone. Not even Chiara."
+            },
+            {
+              "id": "s05e03-3-007",
+              "it": "Non **voglio che** lei **si preoccupi** prima che io abbia deciso qualcosa.",
+              "en": "I don't **want** her **to worry** before I've decided anything.",
+              "focus": [
+                "v-volere-che",
+                "g-congiuntivo-will"
+              ]
+            }
+          ],
+          "style": "to camera"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-3-008",
+              "it": "Il problema è che non riesco a decidere da solo.",
+              "en": "The problem is that I can't decide on my own."
+            },
+            {
+              "id": "s05e03-3-009",
+              "it": "Ho bisogno di parlarne con qualcuno, ma chi tiene un segreto meglio di me?",
+              "en": "I need to talk about it with someone, but who keeps a secret better than me?"
+            }
+          ],
+          "style": "sighs"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-3-010",
+              "it": "Nessuno. Ecco il problema.",
+              "en": "No one. That's the problem."
+            }
+          ],
+          "style": "laughs, nervous"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "location": "casa-ornella",
+      "characters": [
+        "ben",
+        "ornella"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-4-001",
+              "it": "Nel pomeriggio Ben porta la spesa a Ornella, come fa ogni martedì.",
+              "en": "In the afternoon Ben brings Ornella her shopping, as he does every Tuesday."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-002",
+              "it": "Grazie, Ben. Mi metta le uova in frigo, per favore.",
+              "en": "Thank you, Ben. Put the eggs in the fridge for me, please."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-4-003",
+              "it": "Ben esegue, ma Ornella nota subito che qualcosa non va.",
+              "en": "Ben does as asked, but Ornella notices right away that something is wrong."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-004",
+              "it": "Lei oggi ha una faccia strana. Sembra che abbia visto un fantasma.",
+              "en": "You have a strange look on your face today. You look like you've seen a ghost."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-005",
+              "it": "In un certo senso, sì. Un fantasma del passato.",
+              "en": "In a way, yes. A ghost from the past."
+            }
+          ],
+          "style": "sitting down"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-006",
+              "it": "Mi dica tutto. Ai miei tempi si parlava, non si teneva tutto dentro.",
+              "en": "Tell me everything. In my day people talked, they didn't keep everything inside."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-007",
+              "it": "La mia vecchia azienda mi ha scritto. Vogliono che torni a Chicago.",
+              "en": "My old company wrote to me. They want me to go back to Chicago."
+            }
+          ],
+          "style": "long pause"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-008",
+              "it": "A Chicago? Per sempre?",
+              "en": "To Chicago? For good?"
+            }
+          ],
+          "style": "surprised"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-009",
+              "it": "Sì. Un **trasferimento** vero, non un viaggio di lavoro.",
+              "en": "Yes. A real **move**, not a business trip.",
+              "focus": [
+                "v-trasferimento"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-010",
+              "it": "Un **trasferimento** intero, con tutta la famiglia?",
+              "en": "A whole **move**, with the whole family?",
+              "focus": [
+                "v-trasferimento"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-011",
+              "it": "Vogliono che diventi **direttore marketing**. Con lo **stipendio** raddoppiato, una casa e un'**auto aziendale**.",
+              "en": "They want me to become marketing **director**. With my **salary** doubled, a house and a **company car**.",
+              "focus": [
+                "v-direttore-marketing",
+                "v-stipendio",
+                "v-auto-aziendale"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-012",
+              "it": "E il **contratto**?",
+              "en": "And the **contract**?",
+              "focus": [
+                "v-contratto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-013",
+              "it": "Inizia a marzo. Nella **sede** centrale, non in una filiale.",
+              "en": "It starts in March. At head **office**, not at a branch.",
+              "focus": [
+                "v-sede"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-014",
+              "it": "Una vera **promozione**, allora.",
+              "en": "A real **promotion**, then.",
+              "focus": [
+                "v-promozione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-015",
+              "it": "Sì. Un'**occasione** che non capita due volte in una **carriera**.",
+              "en": "Yes. An **opportunity** that doesn't come twice in a **career**.",
+              "focus": [
+                "v-occasione",
+                "v-carriera"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-016",
+              "it": "E cosa ne pensa Chiara?",
+              "en": "And what does Chiara think about it?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-017",
+              "it": "Chiara non lo sa ancora.",
+              "en": "Chiara doesn't know yet."
+            }
+          ],
+          "style": "quiet"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-018",
+              "it": "Come, non lo sa? Ben, sono passati quanti giorni?",
+              "en": "What do you mean, she doesn't know? Ben, how many days has it been?"
+            }
+          ],
+          "style": "firm"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-019",
+              "it": "Tre giorni. Volevo prima **pensarci** da solo.",
+              "en": "Three days. I wanted to think it over on my own first.",
+              "focus": [
+                "g-congiuntivo-will"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-020",
+              "it": "Lei **teme che** Chiara dica di no, vero?",
+              "en": "You're afraid that Chiara will say no, aren't you?",
+              "focus": [
+                "g-congiuntivo-will"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-021",
+              "it": "Ho **paura** che dica di no. E ho paura che dica di sì.",
+              "en": "I'm **afraid** she'll say no. And I'm afraid she'll say yes.",
+              "focus": [
+                "v-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-022",
+              "it": "Capisco la sua **paura**, ma un **segreto** in una famiglia diventa sempre più pesante col tempo.",
+              "en": "I understand your **fear**, but a **secret** in a family always gets heavier with time.",
+              "focus": [
+                "v-paura",
+                "v-segreto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-023",
+              "it": "Lo so. Ma **preferirei che** fosse più semplice.",
+              "en": "I know. But **I'd prefer** it to be simpler.",
+              "focus": [
+                "g-congiuntivo-will"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-024",
+              "it": "La vita raramente **preferisce che** le cose siano semplici, caro mio.",
+              "en": "Life rarely **prefers** things to be simple, my dear.",
+              "focus": [
+                "v-preferire-che"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-025",
+              "it": "Lei ha sempre la frase giusta.",
+              "en": "You always have the right line."
+            }
+          ],
+          "style": "half-smiling"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-026",
+              "it": "Ai miei tempi si chiamava buon senso. Ora si chiama \"consiglio della vicina\".",
+              "en": "In my day it was called common sense. Now it's called \"the neighbour's advice\"."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-027",
+              "it": "E qual è il suo **consiglio**?",
+              "en": "And what's your **advice**?",
+              "focus": [
+                "v-consiglio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-028",
+              "it": "Il mio consiglio è semplice: **desidero che** lei ne parli con sua moglie, stasera stesso.",
+              "en": "My advice is simple: **I want** you to talk to your wife about it, tonight.",
+              "focus": [
+                "v-desiderare-che"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-029",
+              "it": "Stasera?",
+              "en": "Tonight?"
+            }
+          ],
+          "style": "nervous"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-030",
+              "it": "Stasera. Chiara non merita di essere l'ultima a sapere una cosa così grande.",
+              "en": "Tonight. Chiara doesn't deserve to be the last to know something this big."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-031",
+              "it": "Ha ragione. Ma ho una paura tremenda.",
+              "en": "You're right. But I'm terribly scared."
+            }
+          ],
+          "style": "sighs"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-032",
+              "it": "Il **coraggio** non è l'assenza di paura, Ben. È parlare comunque.",
+              "en": "**Courage** isn't the absence of fear, Ben. It's speaking up anyway.",
+              "focus": [
+                "v-coraggio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-4-033",
+              "it": "Va bene. Gliene parlo stasera. Glielo prometto.",
+              "en": "Fine. I'll talk to her about it tonight. I promise."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-4-034",
+              "it": "Bene. E ora vada, prima che le uova si rompano nella borsa.",
+              "en": "Good. Now go, before the eggs break in the bag."
+            }
+          ]
+        }
+      ],
+      "time": "pomeriggio"
+    },
+    {
+      "n": 5,
+      "location": "confessionale",
+      "characters": [
+        "ornella"
+      ],
+      "turns": [
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-5-001",
+              "it": "Da questa finestra ho visto arrivare Ben, spaventato e senza una parola d'italiano.",
+              "en": "From this window I watched Ben arrive, frightened and without a word of Italian."
+            },
+            {
+              "id": "s05e03-5-002",
+              "it": "Ora parla bene, cucina bene, e mi porta la spesa ogni martedì.",
+              "en": "Now he speaks well, cooks well, and brings me my shopping every Tuesday."
+            },
+            {
+              "id": "s05e03-5-003",
+              "it": "Ma oggi ha un problema più grande di una parola difficile.",
+              "en": "But today he has a bigger problem than a difficult word."
+            },
+            {
+              "id": "s05e03-5-004",
+              "it": "**Spero che** Ben capisca una cosa: i segreti tra marito e moglie non finiscono mai bene.",
+              "en": "**I hope** Ben understands one thing: secrets between husband and wife never end well.",
+              "focus": [
+                "v-sperare-che"
+              ]
+            },
+            {
+              "id": "s05e03-5-005",
+              "it": "Io e Gino non ci siamo mai nascosti niente, nemmeno nei momenti più difficili.",
+              "en": "Gino and I never hid anything from each other, not even in the hardest times."
+            },
+            {
+              "id": "s05e03-5-006",
+              "it": "**Spero che** stasera trovi il coraggio di parlare con Chiara.",
+              "en": "**I hope** he finds the courage to talk to Chiara tonight.",
+              "focus": [
+                "v-sperare-che"
+              ]
+            }
+          ],
+          "style": "to camera"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-5-007",
+              "it": "E se non ce la fa da solo... beh, ci sono sempre io alla finestra.",
+              "en": "And if he can't manage it alone... well, I'm always here at the window."
+            }
+          ],
+          "style": "small smile"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "location": "casa-carter",
+      "characters": [
+        "ben",
+        "chiara",
+        "emma",
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-001",
+              "it": "È sera. Chiara prepara la cena mentre racconta la sua giornata a ritmo veloce.",
+              "en": "It's evening. Chiara is making dinner while recounting her day at high speed."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-002",
+              "it": "Marchetti vuole che finiamo il progetto entro venerdì. Impossibile, gliel'ho detto.",
+              "en": "Marchetti wants us to finish the project by Friday. Impossible, I told him so."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-6-003",
+              "it": "Mamma, tu dici sempre \"impossibile\" e poi lo fai comunque.",
+              "en": "Mom, you always say \"impossible\" and then you do it anyway."
+            }
+          ],
+          "style": "setting the table"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-004",
+              "it": "Perché non ho scelta, tesoro. È il mio lavoro.",
+              "en": "Because I have no choice, sweetheart. It's my job."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-005",
+              "it": "Ben osserva Chiara, cercando le parole giuste.",
+              "en": "Ben watches Chiara, searching for the right words."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-6-006",
+              "it": "Chiara, posso parlarti di una cosa dopo cena?",
+              "en": "Chiara, can I talk to you about something after dinner?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-007",
+              "it": "Certo, amore. Leo, lavati le mani.",
+              "en": "Sure, love. Leo, wash your hands."
+            }
+          ],
+          "style": "distracted"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-6-008",
+              "it": "Papà ha una **decisione** grande da prendere. Me l'ha detto stamattina.",
+              "en": "Dad has a big **decision** to make. He told me this morning.",
+              "focus": [
+                "v-decisione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-009",
+              "it": "Che decisione?",
+              "en": "What decision?"
+            }
+          ],
+          "style": "surprised"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-6-010",
+              "it": "Niente, Leo esagera sempre.",
+              "en": "Nothing, Leo always exaggerates."
+            }
+          ],
+          "style": "quickly"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-6-011",
+              "it": "Non esagero! Hai detto \"una cosa grande, molto grande\".",
+              "en": "I'm not exaggerating! You said \"something big, very big\"."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-6-012",
+              "it": "Anche a me stamattina hai detto che avevi un dubbio di lavoro.",
+              "en": "You told me this morning too that you had a work doubt."
+            }
+          ],
+          "style": "suspicious"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-013",
+              "it": "Ben, cosa sta succedendo?",
+              "en": "Ben, what's going on?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-6-014",
+              "it": "È... è una cosa che voglio spiegarti con calma, non davanti a tutti.",
+              "en": "It's... it's something I want to explain to you calmly, not in front of everyone."
+            }
+          ],
+          "style": "caught"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-015",
+              "it": "Ora mi preoccupo davvero. Dimmelo subito.",
+              "en": "Now I'm really worried. Tell me right now."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-016",
+              "it": "Suona il campanello. È il momento peggiore possibile.",
+              "en": "The doorbell rings. It's the worst possible moment."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-6-017",
+              "it": "Arrivo io!",
+              "en": "I'll get it!"
+            }
+          ],
+          "style": "running to the door"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-018",
+              "it": "È Bianca, l'amica di Emma, con un libro da restituire.",
+              "en": "It's Bianca, Emma's friend, with a book to return."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-6-019",
+              "it": "Bianca, non è un buon momento.",
+              "en": "Bianca, this isn't a good time."
+            }
+          ],
+          "style": "annoyed"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-020",
+              "it": "Nel caos della porta, il momento passa. Chiara torna in cucina, distratta dalla pentola sul fuoco.",
+              "en": "In the chaos at the door, the moment passes. Chiara goes back to the kitchen, distracted by the pot on the stove."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-021",
+              "it": "Ben, allora? Cosa volevi dirmi?",
+              "en": "Ben, so? What did you want to tell me?"
+            }
+          ],
+          "style": "stirring, calmer"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-6-022",
+              "it": "Volevo solo dirti che... **preferisco che** stasera mangiamo presto. Domani Leo ha scuola.",
+              "en": "I just wanted to tell you that... **I'd prefer** we eat early tonight. Leo has school tomorrow.",
+              "focus": [
+                "v-preferire-che"
+              ]
+            }
+          ],
+          "style": "losing his nerve"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s05e03-6-023",
+              "it": "Tutto qui?",
+              "en": "Is that all?"
+            }
+          ],
+          "style": "puzzled"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-6-024",
+              "it": "Tutto qui.",
+              "en": "That's all."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-025",
+              "it": "Emma guarda suo padre con gli occhi stretti. Non gli crede per niente.",
+              "en": "Emma looks at her father with narrowed eyes. She doesn't believe him one bit."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s05e03-6-026",
+              "it": "Papà, tu nascondi qualcosa. Lo vedo.",
+              "en": "Dad, you're hiding something. I can see it."
+            }
+          ],
+          "style": "low voice"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-6-027",
+              "it": "Ne parliamo dopo, Emma. Per favore.",
+              "en": "We'll talk about it later, Emma. Please."
+            }
+          ],
+          "style": "whispering"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-6-028",
+              "it": "La cena continua, ma il segreto siede a tavola con loro, silenzioso e pesante.",
+              "en": "Dinner goes on, but the secret sits at the table with them, silent and heavy."
+            }
+          ]
+        }
+      ],
+      "time": "sera"
+    },
+    {
+      "n": 7,
+      "location": "confessionale",
+      "characters": [
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-7-001",
+              "it": "Oggi ho imparato una parola nuova: \"**proposta**\".",
+              "en": "Today I learned a new word: \"offer\".",
+              "focus": [
+                "v-proposta-di-lavoro"
+              ]
+            },
+            {
+              "id": "s05e03-7-002",
+              "it": "Significa quando qualcuno ti chiede di fare una cosa importante.",
+              "en": "It means when someone asks you to do something important."
+            },
+            {
+              "id": "s05e03-7-003",
+              "it": "Papà ha una proposta e non la dice a nessuno. Strano.",
+              "en": "Dad has an offer and he's not telling anyone. Weird."
+            },
+            {
+              "id": "s05e03-7-004",
+              "it": "I grandi fanno sempre così: hanno un segreto e poi dicono \"niente, niente\".",
+              "en": "Grown-ups always do that: they have a secret and then they say \"nothing, nothing\"."
+            }
+          ],
+          "style": "to camera"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-7-005",
+              "it": "Il mio **consiglio** era il gelato. Non credo che l'abbia mangiato.",
+              "en": "My **advice** was ice cream. I don't think he ate any.",
+              "focus": [
+                "v-consiglio"
+              ]
+            },
+            {
+              "id": "s05e03-7-006",
+              "it": "Se fossi papà, direi subito tutto a mamma. È più facile.",
+              "en": "If I were Dad, I'd tell Mom everything right away. It's easier."
+            }
+          ],
+          "style": "confidential"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s05e03-7-007",
+              "it": "Ma io ho otto anni, e i grandi non ascoltano mai chi ha otto anni.",
+              "en": "But I'm eight, and grown-ups never listen to eight-year-olds."
+            }
+          ],
+          "style": "shrugging"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "location": "via",
+      "characters": [
+        "ben",
+        "ornella"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-8-001",
+              "it": "Dopo cena Ben esce a buttare la spazzatura. La luce di Ornella è ancora accesa.",
+              "en": "After dinner Ben goes out to take out the trash. Ornella's light is still on."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-8-002",
+              "it": "Allora? Ha parlato con Chiara?",
+              "en": "So? Did you talk to Chiara?"
+            }
+          ],
+          "style": "at her window"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-8-003",
+              "it": "È suonato il campanello. Poi c'era la cena. Poi...",
+              "en": "The doorbell rang. Then there was dinner. Then..."
+            }
+          ],
+          "style": "sheepish"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-8-004",
+              "it": "Poi niente. Non ha parlato.",
+              "en": "Then nothing. You didn't talk."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-8-005",
+              "it": "Domani, glielo prometto. **Desidero** solo trovare il momento giusto.",
+              "en": "Tomorrow, I promise. **I** just **want** to find the right moment.",
+              "focus": [
+                "g-congiuntivo-will"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-8-006",
+              "it": "Ben, il momento giusto non esiste. Esiste solo il coraggio di parlare comunque.",
+              "en": "Ben, there's no such thing as the right moment. There's only the courage to speak anyway."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-8-007",
+              "it": "Perché lei ha sempre ragione?",
+              "en": "Why are you always right?"
+            }
+          ],
+          "style": "tired smile"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-8-008",
+              "it": "Perché ho settantotto anni e Lei ne ha quarantuno. È matematica, non magia.",
+              "en": "Because I'm seventy-eight and you're forty-one. It's mathematics, not magic."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-8-009",
+              "it": "Ben ride, poi torna serio.",
+              "en": "Ben laughs, then turns serious again."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-8-010",
+              "it": "Va bene. Domani sera, glielo dico. Vogliono una risposta entro venerdì, comunque.",
+              "en": "All right. Tomorrow night, I'll tell her. They want an answer by Friday, anyway."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-8-011",
+              "it": "Venerdì arriva in fretta, caro mio.",
+              "en": "Friday comes fast, my dear."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-8-012",
+              "it": "Ornella chiude la finestra. Ben resta un momento nel buio della via, con il sacchetto della spazzatura ancora in mano.",
+              "en": "Ornella closes the window. Ben stays for a moment in the dark of the street, still holding the trash bag."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-8-013",
+              "it": "Domani sera.",
+              "en": "Tomorrow night."
+            }
+          ],
+          "style": "to himself, quiet"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s05e03-8-014",
+              "it": "Dalla finestra sopra, si sente ancora la voce di Ornella.",
+              "en": "From the window above, Ornella's voice can still be heard."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s05e03-8-015",
+              "it": "E porti anche il sacchetto giallo, che domani passano per la plastica!",
+              "en": "And bring down the yellow bag too, they're collecting plastic tomorrow!"
+            }
+          ],
+          "style": "calling down"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s05e03-8-016",
+              "it": "Sissignora.",
+              "en": "Yes, ma'am."
+            }
+          ],
+          "style": "sighing, smiling"
+        }
+      ],
+      "time": "notte"
+    }
+  ]
+}

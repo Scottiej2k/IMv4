@@ -1,0 +1,3247 @@
+{
+  "chapter": "s05e03",
+  "model": "gemini-3.8-flash-tts",
+  "notes": "POST each chunk's 'request' to /v1beta/interactions in index order; join the WAV clips, adding a <long pause> of silence between scenes. See docs/tts-format.md.",
+  "chunks": [
+    {
+      "index": 0,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-1-001",
+        "s05e03-1-002"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sono le sette e mezza a Via dei Tigli, e la cucina di casa Carter è già un caos gentile.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, perché il caffè puzza tanto?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 1,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s05e03-1-003",
+        "s05e03-1-004",
+        "s05e03-1-005"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Non lo so, Leo. Chiedi alla mamma.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; distracted"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Leo, la merenda è nello zaino. Ben, hai visto le mie chiavi?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive; fast, checking her bag"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sul tavolo, credo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-1-006",
+        "s05e03-1-007",
+        "s05e03-1-008",
+        "s05e03-1-009"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben apre il computer per controllare la posta, come ogni mattina.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Un momento...",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; surprised"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "C'è un'email dalla sua vecchia azienda di Chicago, quella dove ha lavorato per dodici anni.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\"Vogliamo che lei torni a dirigere il reparto marketing.\"",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; reading, quiet"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-1-010",
+        "s05e03-1-011",
+        "s05e03-1-012"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Cosa dici?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Niente, niente. È solo un'offerta di lavoro. Un vecchio collega.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ok, dopo mi racconti. Devo correre, il treno delle otto non aspetta!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive; already leaving"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-1-013",
+        "s05e03-1-014"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Chiara esce di corsa. Ben resta a fissare lo schermo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, che cos'è una \"proposta di lavoro\"?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-1-015",
+        "s05e03-1-016",
+        "s05e03-1-017",
+        "s05e03-1-018",
+        "s05e03-1-019"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hai letto lo schermo?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; startled"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ho letto \"proposta\". Che cos'è?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "È quando un'azienda chiede che tu vada a lavorare per loro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come la maestra che chiede che io faccia i compiti?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Esatto. Bravo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; laughing"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-1-020",
+        "s05e03-1-021",
+        "s05e03-1-022"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben rilegge l'email. Vogliono raddoppiare il suo stipendio e offrirgli una casa e un'auto aziendale. Il nuovo contratto inizia a marzo, nella sede di Chicago.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Marzo...",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; to himself"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-1-023",
+        "s05e03-1-024"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Papà, con chi parli?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Con nessuno, Leo. Prendi lo zaino, sennò perdiamo la scuola.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 8,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-1-025",
+        "s05e03-1-026"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ma Ben non chiude il computer. Legge l'email un'altra volta, e un'altra ancora.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Direttore marketing. Il doppio dello stipendio.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; murmuring"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 9,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-1-027",
+        "s05e03-1-028"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Papà, andiamo!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious; putting on his backpack"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Arrivo, arrivo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 10,
+      "scene": 1,
+      "speakers": {
+        "single": "narrator"
+      },
+      "segment_ids": [
+        "s05e03-1-029"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben chiude il computer, ma porta l'idea con sé fino alla porta di scuola.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Sulafat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 11,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s05e03-2-001",
+        "s05e03-2-002"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben accompagna Leo a scuola a piedi. Davanti a casa incontra Emma, che corre verso la stazione.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ciao papà, ciao Leo. Devo andare, il treno parte tra otto minuti.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated; checking her phone"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 12,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s05e03-2-003",
+        "s05e03-2-004",
+        "s05e03-2-005",
+        "s05e03-2-006",
+        "s05e03-2-007",
+        "s05e03-2-008",
+        "s05e03-2-009"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Va bene, tesoro. In bocca al lupo per la scuola.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; distant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, tutto bene? Hai una faccia strana.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì sì, tutto bene. Ho solo un dubbio di lavoro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Tu? Un dubbio di lavoro? Ma tu non hai un lavoro qui.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Appunto. È complicato.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; quickly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Boh. Comunque, la maestra di Leo vuole che i genitori firmino il modulo per la gita. Non dimenticare.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Certo, ci penso io.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 13,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s05e03-2-010",
+        "s05e03-2-011"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "\"Ci penso io\" è la frase di Chiara, non di Ben. Emma se ne accorge subito.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Da quando dici \"ci penso io\"?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated; suspicious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 14,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s05e03-2-012",
+        "s05e03-2-013"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Da oggi. È una bella frase.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; nervous"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sei strano, papà.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 15,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-2-014",
+        "s05e03-2-015"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Emma corre verso la stazione. Leo tira la manica di Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, perché sei strano?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 16,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-2-016",
+        "s05e03-2-017",
+        "s05e03-2-018"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Non sono strano, Leo. Sto solo pensando.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "A cosa?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "A una cosa grande. Molto grande.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; quiet"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 17,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-2-019",
+        "s05e03-2-020"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Leo non capisce, ma annuisce comunque, come fa sempre.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Se è una cosa grande, forse serve un consiglio.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 18,
+      "scene": 2,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-2-021",
+        "s05e03-2-022"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Grazie, Leo. Ci penso.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; smiling"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il mio consiglio è: mangia un gelato prima di decidere. Aiuta sempre.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 19,
+      "scene": 2,
+      "speakers": {
+        "single": "narrator"
+      },
+      "segment_ids": [
+        "s05e03-2-023"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben ride, ma il dubbio non se ne va.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Sulafat"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 20,
+      "scene": 3,
+      "speakers": {
+        "single": "ben"
+      },
+      "segment_ids": [
+        "s05e03-3-001",
+        "s05e03-3-002",
+        "s05e03-3-003",
+        "s05e03-3-004",
+        "s05e03-3-005",
+        "s05e03-3-006",
+        "s05e03-3-007",
+        "s05e03-3-008",
+        "s05e03-3-009",
+        "s05e03-3-010"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dodici anni fa ho lasciato Chicago per amore. Ora Chicago vuole che io torni. Spero che sia solo un'idea pazza, ma continuo a pensarci. Il direttore marketing. Il mio vecchio titolo, ma con il doppio dello stipendio. Un trasferimento del genere cambierebbe la vita di tutti, non solo la mia. Non l'ho detto a nessuno. Nemmeno a Chiara. Non voglio che lei si preoccupi prima che io abbia deciso qualcosa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; to camera"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il problema è che non riesco a decidere da solo. Ho bisogno di parlarne con qualcuno, ma chi tiene un segreto meglio di me?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; sighs"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Nessuno. Ecco il problema.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; laughs, nervous"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Puck"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 21,
+      "scene": 4,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s05e03-4-001",
+        "s05e03-4-002",
+        "s05e03-4-003",
+        "s05e03-4-004"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nel pomeriggio Ben porta la spesa a Ornella, come fa ogni martedì.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Grazie, Ben. Mi metta le uova in frigo, per favore.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ben esegue, ma Ornella nota subito che qualcosa non va.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Lei oggi ha una faccia strana. Sembra che abbia visto un fantasma.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 22,
+      "scene": 4,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s05e03-4-005",
+        "s05e03-4-006",
+        "s05e03-4-007",
+        "s05e03-4-008",
+        "s05e03-4-009",
+        "s05e03-4-010",
+        "s05e03-4-011",
+        "s05e03-4-012",
+        "s05e03-4-013",
+        "s05e03-4-014",
+        "s05e03-4-015",
+        "s05e03-4-016",
+        "s05e03-4-017",
+        "s05e03-4-018",
+        "s05e03-4-019",
+        "s05e03-4-020",
+        "s05e03-4-021",
+        "s05e03-4-022",
+        "s05e03-4-023",
+        "s05e03-4-024",
+        "s05e03-4-025",
+        "s05e03-4-026",
+        "s05e03-4-027",
+        "s05e03-4-028",
+        "s05e03-4-029",
+        "s05e03-4-030",
+        "s05e03-4-031",
+        "s05e03-4-032",
+        "s05e03-4-033",
+        "s05e03-4-034"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "In un certo senso, sì. Un fantasma del passato.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; sitting down"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mi dica tutto. Ai miei tempi si parlava, non si teneva tutto dentro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "La mia vecchia azienda mi ha scritto. Vogliono che torni a Chicago.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; long pause"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "A Chicago? Per sempre?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured; surprised"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì. Un trasferimento vero, non un viaggio di lavoro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Un trasferimento intero, con tutta la famiglia?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Vogliono che diventi direttore marketing. Con lo stipendio raddoppiato, una casa e un'auto aziendale.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "E il contratto?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Inizia a marzo. Nella sede centrale, non in una filiale.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Una vera promozione, allora.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì. Un'occasione che non capita due volte in una carriera.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "E cosa ne pensa Chiara?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Chiara non lo sa ancora.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; quiet"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come, non lo sa? Ben, sono passati quanti giorni?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured; firm"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Tre giorni. Volevo prima pensarci da solo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Lei teme che Chiara dica di no, vero?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ho paura che dica di no. E ho paura che dica di sì.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Capisco la sua paura, ma un segreto in una famiglia diventa sempre più pesante col tempo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Lo so. Ma preferirei che fosse più semplice.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "La vita raramente preferisce che le cose siano semplici, caro mio.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Lei ha sempre la frase giusta.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; half-smiling"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ai miei tempi si chiamava buon senso. Ora si chiama \"consiglio della vicina\".",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "E qual è il suo consiglio?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il mio consiglio è semplice: desidero che lei ne parli con sua moglie, stasera stesso.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Stasera?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; nervous"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Stasera. Chiara non merita di essere l'ultima a sapere una cosa così grande.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ha ragione. Ma ho una paura tremenda.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; sighs"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il coraggio non è l'assenza di paura, Ben. È parlare comunque.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Va bene. Gliene parlo stasera. Glielo prometto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Bene. E ora vada, prima che le uova si rompano nella borsa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 23,
+      "scene": 5,
+      "speakers": {
+        "single": "ornella"
+      },
+      "segment_ids": [
+        "s05e03-5-001",
+        "s05e03-5-002",
+        "s05e03-5-003",
+        "s05e03-5-004",
+        "s05e03-5-005",
+        "s05e03-5-006",
+        "s05e03-5-007"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Da questa finestra ho visto arrivare Ben, spaventato e senza una parola d'italiano. Ora parla bene, cucina bene, e mi porta la spesa ogni martedì. Ma oggi ha un problema più grande di una parola difficile. Spero che Ben capisca una cosa: i segreti tra marito e moglie non finiscono mai bene. Io e Gino non ci siamo mai nascosti niente, nemmeno nei momenti più difficili. Spero che stasera trovi il coraggio di parlare con Chiara.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured; to camera"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "E se non ce la fa da solo... beh, ci sono sempre io alla finestra.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured; small smile"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Gacrux"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 24,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s05e03-6-001",
+        "s05e03-6-002"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È sera. Chiara prepara la cena mentre racconta la sua giornata a ritmo veloce.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Marchetti vuole che finiamo il progetto entro venerdì. Impossibile, gliel'ho detto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 25,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "emma",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s05e03-6-003",
+        "s05e03-6-004"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mamma, tu dici sempre \"impossibile\" e poi lo fai comunque.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated; setting the table"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché non ho scelta, tesoro. È il mio lavoro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Leda"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 26,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-6-005",
+        "s05e03-6-006"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben osserva Chiara, cercando le parole giuste.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Chiara, posso parlarti di una cosa dopo cena?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 27,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-6-007",
+        "s05e03-6-008",
+        "s05e03-6-009"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Certo, amore. Leo, lavati le mani.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive; distracted"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà ha una decisione grande da prendere. Me l'ha detto stamattina.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Che decisione?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive; surprised"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 28,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-6-010",
+        "s05e03-6-011"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Niente, Leo esagera sempre.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; quickly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Non esagero! Hai detto \"una cosa grande, molto grande\".",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 29,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "emma",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s05e03-6-012",
+        "s05e03-6-013"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Anche a me stamattina hai detto che avevi un dubbio di lavoro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated; suspicious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ben, cosa sta succedendo?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Leda"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 30,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s05e03-6-014",
+        "s05e03-6-015"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È... è una cosa che voglio spiegarti con calma, non davanti a tutti.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; caught"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ora mi preoccupo davvero. Dimmelo subito.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 31,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s05e03-6-016",
+        "s05e03-6-017",
+        "s05e03-6-018"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Suona il campanello. È il momento peggiore possibile.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Arrivo io!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious; running to the door"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "È Bianca, l'amica di Emma, con un libro da restituire.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 32,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "emma",
+        "Speaker2": "narrator"
+      },
+      "segment_ids": [
+        "s05e03-6-019",
+        "s05e03-6-020"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bianca, non è un buon momento.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated; annoyed"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Nel caos della porta, il momento passa. Chiara torna in cucina, distratta dalla pentola sul fuoco.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Leda"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 33,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-6-021",
+        "s05e03-6-022",
+        "s05e03-6-023",
+        "s05e03-6-024"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben, allora? Cosa volevi dirmi?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive; stirring, calmer"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Volevo solo dirti che... preferisco che stasera mangiamo presto. Domani Leo ha scuola.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; losing his nerve"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Tutto qui?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 40-year-old Italian woman from Milan, quick and decisive; puzzled"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Tutto qui.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 34,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s05e03-6-025",
+        "s05e03-6-026"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Emma guarda suo padre con gli occhi stretti. Non gli crede per niente.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, tu nascondi qualcosa. Lo vedo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 15-year-old girl, teenage, a bit exasperated; low voice"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 35,
+      "scene": 6,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "narrator"
+      },
+      "segment_ids": [
+        "s05e03-6-027",
+        "s05e03-6-028"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ne parliamo dopo, Emma. Per favore.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; whispering"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "La cena continua, ma il segreto siede a tavola con loro, silenzioso e pesante.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 36,
+      "scene": 7,
+      "speakers": {
+        "single": "leo"
+      },
+      "segment_ids": [
+        "s05e03-7-001",
+        "s05e03-7-002",
+        "s05e03-7-003",
+        "s05e03-7-004",
+        "s05e03-7-005",
+        "s05e03-7-006",
+        "s05e03-7-007"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Oggi ho imparato una parola nuova: \"proposta\". Significa quando qualcuno ti chiede di fare una cosa importante. Papà ha una proposta e non la dice a nessuno. Strano. I grandi fanno sempre così: hanno un segreto e poi dicono \"niente, niente\".",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious; to camera"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il mio consiglio era il gelato. Non credo che l'abbia mangiato. Se fossi papà, direi subito tutto a mamma. È più facile.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious; confidential"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ma io ho otto anni, e i grandi non ascoltano mai chi ha otto anni.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "natural conversational pace; 8-year-old boy, high and bright child's voice, curious; shrugging"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Laomedeia"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 37,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s05e03-8-001",
+        "s05e03-8-002"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dopo cena Ben esce a buttare la spazzatura. La luce di Ornella è ancora accesa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Allora? Ha parlato con Chiara?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured; at her window"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 38,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s05e03-8-003",
+        "s05e03-8-004",
+        "s05e03-8-005",
+        "s05e03-8-006",
+        "s05e03-8-007",
+        "s05e03-8-008"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È suonato il campanello. Poi c'era la cena. Poi...",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; sheepish"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Poi niente. Non ha parlato.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Domani, glielo prometto. Desidero solo trovare il momento giusto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ben, il momento giusto non esiste. Esiste solo il coraggio di parlare comunque.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché lei ha sempre ragione?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; tired smile"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché ho settantotto anni e Lei ne ha quarantuno. È matematica, non magia.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 39,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-8-009",
+        "s05e03-8-010"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ben ride, poi torna serio.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Va bene. Domani sera, glielo dico. Vogliono una risposta entro venerdì, comunque.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 40,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "ornella",
+        "Speaker2": "narrator"
+      },
+      "segment_ids": [
+        "s05e03-8-011",
+        "s05e03-8-012"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Venerdì arriva in fretta, caro mio.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ornella chiude la finestra. Ben resta un momento nel buio della via, con il sacchetto della spazzatura ancora in mano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Gacrux"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 41,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "narrator"
+      },
+      "segment_ids": [
+        "s05e03-8-013",
+        "s05e03-8-014"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Domani sera.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; to himself, quiet"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Dalla finestra sopra, si sente ancora la voce di Ornella.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 42,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "ornella",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s05e03-8-015",
+        "s05e03-8-016"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "E porti anche il sacchetto giallo, che domani passano per la plastica!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "natural conversational pace; 78-year-old woman, elegant, formal, measured; calling down"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sissignora.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "natural conversational pace; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; light American accent; sighing, smiling"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Gacrux"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
