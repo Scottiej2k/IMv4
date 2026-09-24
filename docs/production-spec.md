@@ -135,19 +135,24 @@ See `docs/tts-format.md`.
 
 ## 5. Workflow per chapter
 
-The writer never hand-writes JSON. It writes a plain-text draft (`docs/draft-format.md`), and scripts
-do all the bookkeeping.
+The writer never hand-writes JSON, and never writes a whole chapter in one go.
 
-1. `python3 scripts/make_brief.py <id>` builds the writer's prompt (`chapters/<id>/brief.md`): the
-   standing instructions (`prompts/writer-system.md`), the draft format, the world bible, and a
-   chapter brief with level rules, grammar ceiling, plan, characters and story so far.
-2. The model writes `chapters/<id>/draft.txt` in one pass. With an API key,
-   `python3 scripts/generate_chapter.py <id>` does this and steps 3–4 in one command.
-3. `python3 scripts/convert_draft.py <id>` turns the draft into `chapter.json` + `grammar.md`
-   (segment ids, turns, focus tags, vocab examples and targets, grammar-lesson citations), then
-   validates and builds every output.
-4. Hard errors get **one** targeted fix. Warnings are for review; don't loop on them.
-5. Review, then update `curriculum/lexicon.csv` and `bible/continuity-log.md`.
+1. **Scene by scene** (`scripts/pipeline.py`): the writer first returns the vocabulary block and an
+   outline (scenes, beats, a word budget per scene, which vocabulary each scene uses), then writes
+   each scene against its budget, then the grammar lesson. A scene under 75% of its budget is sent
+   back once to be expanded. With an API key, `python3 scripts/generate_chapter.py <id>` runs the
+   whole conversation; an agent or person can drive the same steps with `pipeline.py start/submit`.
+2. The prompts come from `scripts/make_brief.py`: standing instructions (`prompts/writer-system.md`),
+   the draft format (`docs/draft-format.md`), the world bible, and a chapter brief with level rules,
+   the grammar ceiling as concrete forbidden forms, **where things stand** (`bible/timeline.md`:
+   tu/Lei, secrets, who lives where), the plan, the characters and the story so far.
+3. The pipeline assembles `draft.txt` and runs `scripts/convert_draft.py` (ids, turns, focus tags,
+   vocab examples and targets, grammar citations, validation, all outputs) and
+   `scripts/grammar_rules.py` (flags forms of grammar not taught yet).
+4. Converter errors, grammar-ceiling flags and bold mismatches go back as **one** list of line fixes.
+   Remaining warnings are for review; don't loop on them.
+5. Review, then update `curriculum/lexicon.csv`, `bible/continuity-log.md` and, if the chapter
+   changes something lasting, `bible/timeline.md`.
 6. Commit the chapter as one commit: `s01e01: <title>`.
 
 ## 6. Quality

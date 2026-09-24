@@ -14,6 +14,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import grammar_rules  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 
 LEVEL_RULES = {
@@ -64,6 +67,15 @@ def season_arc_section(n):
     text = read("bible/season-arcs.md")
     m = re.search(rf"^## S{n} ·.*?(?=^## S\d+ ·|\Z)", text, re.M | re.S)
     return m.group(0).strip() if m else ""
+
+
+def timeline_facts(cid):
+    facts = []
+    for m in re.finditer(r"^\| (s\d{2}e\d{2}) \| (s\d{2}e\d{2})? ?\| (.+?) \|$", read("bible/timeline.md"), re.M):
+        start, until, fact = m.group(1), m.group(2), m.group(3)
+        if start <= cid and (not until or cid < until):
+            facts.append(fact)
+    return facts
 
 
 def continuity_entries():
@@ -146,11 +158,28 @@ def chapter_brief(cid):
     if later_levels:
         out += ["", "**Higher-level structures. Do not use** (at most a very common fixed phrase, if unavoidable): "
                 + "; ".join(later_levels[:40]) + ("; …and everything after." if len(later_levels) > 40 else ".")]
+    forms = grammar_rules.forbidden_forms_text(cid)
+    if forms:
+        out += ["", "**Concretely, these forms must not appear anywhere in the story** (a script checks for them):", "",
+                forms]
+    out.append("")
+
+    out += ["## Where things stand at this episode", "",
+            "These are facts at this point in the series. Respect them exactly (especially tu/Lei).", ""]
+    out += [f"- {f}" for f in timeline_facts(cid)]
     out.append("")
 
     out += ["## Characters in this episode", ""]
     for k in involved:
         out += [profiles[k]["text"], ""]
+
+    others = [k for k, p in profiles.items() if k not in involved and p["text"].startswith("###")]
+    if others:
+        out += ["Other main characters (they may appear briefly, in keeping with their profiles in the world bible):", ""]
+        for k in others:
+            first = re.search(r"\*\*(.+?)\*\*", profiles[k]["text"])
+            out.append(f"- {profiles[k]['name']} (`{k}`): {first.group(1) if first else ''}")
+        out.append("")
 
     out += ["## Speakers and places", "",
             "Speakers available (use the capitalised name; anyone else needs adding to config/voices.json first): "

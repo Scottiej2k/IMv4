@@ -57,6 +57,8 @@ From the story: [[Io sono Ben.]]
 - `**bold**` marks focus items: vocabulary items (any listed form) and examples of the grammar
   focus. **Bold the English equivalent too, with the same number of bold spans in the same order.**
   A bold span that matches no vocabulary form counts as a grammar-focus example.
+- Bold each vocabulary item **as its own span** (`è **americano**`, not `**è americano**`); a
+  vocabulary word inside a longer bold span doesn't count as that item.
 
 **Grammar lesson** (`@grammar` to the end of the file): Markdown. To quote the story, write the exact
 Italian sentence in double brackets, `[[Io sono Ben.]]`, without bold. The converter replaces it with

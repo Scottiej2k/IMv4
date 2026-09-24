@@ -32,10 +32,10 @@ grammar.md   (authored; cites story lines by id)
 | `docs/draft-format.md` | The plain-text format writers use (converted to `chapter.json` by script) |
 | `schema/chapter.schema.json` | JSON Schema every `chapter.json` must pass |
 | `config/voices.json` | One fixed TTS voice per character (single source of truth; provisional until auditioned) |
-| `bible/` | World bible: [premise & format](bible/world-bible.md), [cast](bible/characters.md), [locations](bible/locations.md), [season arcs](bible/season-arcs.md), [continuity log](bible/continuity-log.md) |
+| `bible/` | World bible: [premise & format](bible/world-bible.md), [cast](bible/characters.md), [locations](bible/locations.md), [season arcs](bible/season-arcs.md), [continuity log](bible/continuity-log.md), [timeline](bible/timeline.md) |
 | `curriculum/` | [Scope and sequence](curriculum/README.md), per-chapter plans (`seasons/`), [overview](curriculum/overview.md), [grammar index](curriculum/grammar-index.md), master lexicon |
 | `chapters/` | One folder per chapter, e.g. `chapters/s01e01/` |
-| `scripts/` | `make_brief.py` → `generate_chapter.py` → `convert_draft.py` → `build_chapter.py`; `build_curriculum.py` |
+| `scripts/` | `generate_chapter.py` (API) / `pipeline.py` (scene-by-scene steps) → `convert_draft.py` → `build_chapter.py`; plus `make_brief.py`, `grammar_rules.py`, `build_curriculum.py` |
 | `prompts/` | The writer's standing instructions |
 
 ## Status
