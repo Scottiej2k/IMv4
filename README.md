@@ -30,8 +30,8 @@ grammar.md   (authored; cites story lines by id)
 | `docs/production-spec.md` | The rules: chapter lengths, level targets, file formats, workflow |
 | `docs/tts-format.md` | How the Gemini 3.8 TTS scripts are structured and chunked |
 | `schema/chapter.schema.json` | JSON Schema every `chapter.json` must pass |
-| `config/voices.json` | One fixed TTS voice per character (single source of truth) |
-| `bible/` | World bible: setting, cast, speech profiles, season arcs, continuity log |
+| `config/voices.json` | One fixed TTS voice per character (single source of truth; provisional until auditioned) |
+| `bible/` | World bible: [premise & format](bible/world-bible.md), [cast](bible/characters.md), [locations](bible/locations.md), [season arcs](bible/season-arcs.md), [continuity log](bible/continuity-log.md) |
 | `curriculum/` | Scope and sequence, per-chapter plan, master lexicon |
 | `chapters/` | One folder per chapter, e.g. `chapters/s01e01/` |
 | `scripts/` | Build and validation scripts |
@@ -39,7 +39,7 @@ grammar.md   (authored; cites story lines by id)
 ## Status
 
 - [x] Production spec and repo scaffolding
-- [ ] World bible
+- [x] World bible (`bible/`)
 - [ ] Curriculum + master lexicon
 - [ ] Build/validation scripts
 - [ ] Pilot chapters (one A1, one B1)
