@@ -156,10 +156,10 @@
       "lemma": "il segreto",
       "pos": "noun",
       "en": "secret",
-      "example": "s05e03-2-007",
+      "example": "s05e03-1-029",
       "target": {
-        "it": "segreto",
-        "en": "secret"
+        "it": "un segreto",
+        "en": "a secret"
       },
       "gender": "m"
     },
@@ -203,10 +203,10 @@
       "lemma": "la decisione",
       "pos": "noun",
       "en": "decision",
-      "example": "s05e03-3-020",
+      "example": "s05e03-5-037",
       "target": {
-        "it": "decisione",
-        "en": "decision"
+        "it": "una decisione",
+        "en": "one decision"
       },
       "gender": "f"
     },
@@ -648,7 +648,7 @@
               "it": "Perché hai la faccia di uno che nasconde **un segreto** grosso così.",
               "en": "Because you have the face of someone hiding **a secret** this big.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-segreto"
               ]
             }
           ]
@@ -1010,7 +1010,7 @@
               "it": "Tre giorni fa ho ricevuto **una proposta di lavoro** dalla mia vecchia azienda di Chicago.",
               "en": "Three days ago I received **a job offer** from my old company in Chicago.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-proposta-di-lavoro"
               ]
             },
             {
@@ -1092,7 +1092,7 @@
               "it": "<sigh> Prendere **una decisione** così, da solo, davanti allo specchio del bagno, è facile.",
               "en": "Making **a decision** like this, alone, in front of the bathroom mirror, is easy.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-decisione"
               ]
             },
             {
@@ -1283,7 +1283,7 @@
               "it": "<sigh> Ornella, posso dirti una cosa? Ma deve restare **un segreto**, per adesso.",
               "en": "Ornella, can I tell you something? But it has to stay **a secret**, for now.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-segreto"
               ]
             }
           ],
@@ -1630,7 +1630,7 @@
               "it": "Ecco. Adesso porto anch'io **un segreto**, come una borsa della spesa troppo pesante da portare da sola.",
               "en": "There. Now I'm carrying **a secret** too, like a shopping bag too heavy to carry alone.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-segreto"
               ]
             },
             {
@@ -1818,7 +1818,7 @@
               "it": "È **un'occasione** importante per la carriera, certo, la più grande da quando sono partner.",
               "en": "It's an important **opportunity** for my career, sure, the biggest since I made partner.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-occasione"
               ]
             },
             {
@@ -2105,7 +2105,7 @@
               "it": "Almeno **una decisione** oggi l'ho presa senza pensarci una settimana intera.",
               "en": "At least I made **one decision** today without thinking about it for a whole week.",
               "focus": [
-                "g-congiuntivo-will"
+                "v-decisione"
               ]
             }
           ],
@@ -2608,7 +2608,7 @@
               "en": "And imagine they want **the move** of the whole family, with **a contract** already ready, a double **salary**.",
               "focus": [
                 "v-trasferimento",
-                "g-congiuntivo-will",
+                "v-contratto",
                 "v-stipendio"
               ]
             },
@@ -2617,7 +2617,7 @@
               "it": "Il tizio deve prendere **una decisione** in pochi mesi: **trasferirsi** o restare.",
               "en": "The guy has to make **a decision** in a few months: **relocate** or stay.",
               "focus": [
-                "g-congiuntivo-will",
+                "v-decisione",
                 "v-trasferirsi"
               ]
             }
@@ -2906,7 +2906,7 @@
               "it": "Ben la guarda, ha la frase pronta sulla lingua: \"Ho ricevuto **una proposta di lavoro** da Chicago.\"",
               "en": "Ben looks at her, the sentence ready on his tongue: \"I received **a job offer** from Chicago.\"",
               "focus": [
-                "g-congiuntivo-will"
+                "v-proposta-di-lavoro"
               ]
             },
             {
@@ -3206,6 +3206,7 @@
               "it": "Hai **un segreto**, Ben. Lo vedo. Non hai bisogno di **confessarlo** a me, se non vuoi.",
               "en": "You have a secret, Ben. I can see it. You don't need to confess it to me, if you don't want to.",
               "focus": [
+                "v-segreto",
                 "g-congiuntivo-will"
               ]
             }

@@ -163,6 +163,12 @@ def convert(cid):
             for j, span in enumerate(it_b):
                 vid = form_to_item.get(norm(span))
                 if vid is None:
+                    bare = norm(span)
+                    for a in ARTICLES:
+                        if bare.startswith(a):
+                            vid = form_to_item.get(bare[len(a):].strip())
+                            break
+                if vid is None:
                     unmatched.add(span)
                     if grammar_id not in focus:
                         focus.append(grammar_id)

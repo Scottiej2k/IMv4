@@ -1,5 +1,5 @@
 {
-  "_comment": "Single source of truth for TTS voices. See docs/tts-format.md. Voice picks are PROVISIONAL: they use Gemini's prebuilt voice names and must be auditioned in Italian before the pilot audio run. Children are voiced by adult prebuilt voices with an age style; audition carefully. 'name' is how the character is shown in story.md and parallel.md. When a new minor character gets lines, add them here with a voice from unused_prebuilt_voices (and remove it from that list).",
+  "_comment": "Single source of truth for TTS voices. See docs/tts-format.md. Voice picks are PROVISIONAL: they use Gemini's prebuilt voice names and must be auditioned in Italian before the pilot audio run. Children are voiced by adult prebuilt voices with an age style; audition carefully. 'name' is how the character is shown in story.md and parallel.md. When a new minor character gets lines, add them here with a voice from unused_prebuilt_voices (and remove it from that list). 'uomo', 'donna' and 'bambino' are generic voices for one-off minor speakers (a clerk, a classmate).",
   "model": "gemini-3.8-flash-tts",
   "level_styles": {
     "A1": "speaking slowly and very clearly, standard Italian pronunciation",
@@ -98,18 +98,42 @@
       "name": "Pietro",
       "voice": "Achernar",
       "style": "8-year-old boy, high child's voice, a confident little know-it-all"
+    },
+    "marina": {
+      "name": "Marina",
+      "voice": "Callirrhoe",
+      "style": "50-year-old woman, dry sense of humour, kind"
+    },
+    "samira": {
+      "name": "Samira",
+      "voice": "Aoede",
+      "style": "60-year-old woman, warm and formidable"
+    },
+    "sergio": {
+      "name": "Sergio",
+      "voice": "Orus",
+      "style": "55-year-old builders' foreman, unflappable"
+    },
+    "uomo": {
+      "name": "Un uomo",
+      "voice": "Charon",
+      "style": "an adult man, neutral (a passer-by or minor role)"
+    },
+    "donna": {
+      "name": "Una donna",
+      "voice": "Erinome",
+      "style": "an adult woman, neutral (a passer-by or minor role)"
+    },
+    "bambino": {
+      "name": "Un bambino",
+      "voice": "Fenrir",
+      "style": "a young child, high voice (a classmate or minor role)"
     }
   },
   "unused_prebuilt_voices": [
-    "Charon",
-    "Fenrir",
-    "Orus",
-    "Aoede",
-    "Callirrhoe",
     "Enceladus",
     "Umbriel",
     "Algieba",
-    "Erinome",
     "Rasalgethi",
     "Achird",
     "Sadaltager"

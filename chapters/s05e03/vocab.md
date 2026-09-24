@@ -39,10 +39,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **la sede**<br>(n., f) · headquarters, office | E vogliono che il contratto cominci a marzo, nella **sede** di Michigan Avenue. | And they want the contract to start in March, at the Michigan Avenue **office**. |
 | **la promozione**<br>(n., f) · promotion | Più responsabilità, forse una **promozione** vera, ma anche molti più viaggi. | More responsibility, maybe a real **promotion**, but also a lot more travel. |
 | **l'azienda**<br>(n., f) · company | La mia vecchia **azienda**. Quella di Chicago. Vogliono che io torni. | My old **company**. The one in Chicago. They want me to go back. |
-| **il segreto**<br>(n., m) · secret | È un **segreto**, e in questa strada i segreti di solito non durano più di due giorni. | It's a **secret**, and on this street secrets usually don't last more than two days. |
+| **il segreto**<br>(n., m) · secret | Perché hai la faccia di uno che nasconde **un segreto** grosso così. | Because you have the face of someone hiding **a secret** this big. |
 | **la carriera**<br>(n., f) · career | Niente, niente. Pensavo a **la carriera** che avevo prima, a Chicago. | Nothing, nothing. I was thinking about **the career** I had before, in Chicago. |
 | **l'occasione**<br>(n., f) · opportunity | A volte sì, un po'. Era una bella **occasione**, quel lavoro. | Sometimes, yes, a bit. It was a good **opportunity**, that job. |
-| **la decisione**<br>(n., f) · decision | Uno stipendio doppio, una casa già pronta, tutto pagato. È una **decisione** enorme, Ornella. Enorme. | Double the salary, a house already ready, everything paid. It's a huge **decision**, Ornella. Huge. |
+| **la decisione**<br>(n., f) · decision | Almeno **una decisione** oggi l'ho presa senza pensarci una settimana intera. | At least I made **one decision** today without thinking about it for a whole week. |
 | **il capo**<br>(n., m/f) · boss | Il tuo **capo** di nuovo? | Your **boss** again? |
 | **la verità**<br>(n., f) · truth | **La verità** in un matrimonio non può restare lontano troppo a lungo. Prima o poi torna a bussare alla porta. | **The truth** in a marriage can't stay far away too long. Sooner or later it comes knocking on the door. |
 | **il coraggio**<br>(n., m) · courage | Lo so, lo so. Mi serve solo... **il coraggio** giusto, al momento giusto. | I know, I know. I just need... **the right courage**, at the right moment. |

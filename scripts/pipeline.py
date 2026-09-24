@@ -27,6 +27,10 @@ import make_brief  # noqa: E402
 
 ROOT = bc.ROOT
 SHORT_SCENE = 0.75
+# Writers reliably undershoot a word budget by about a quarter, so scenes are asked for
+# ~30% more than their budget (and in lines, which models count better than words).
+ASK_FACTOR = 1.3
+WORDS_PER_LINE = {"A1": 6, "A2": 8, "B1": 11, "B2": 13}
 
 
 def italian_words(scene_text):
@@ -126,12 +130,17 @@ Requirements:
         sc = self.state["scenes"][k]
         n = len(self.state["scenes"])
         forbidden = "; ".join(r["what"] for r in grammar_rules.active_rules(self.cid))
+        ask = int(round(sc["words"] * ASK_FACTOR / 10) * 10)
+        lines = max(5, round(ask / WORDS_PER_LINE[self.plan["level"]]))
+        if sc["heading"].upper().startswith("# CONFESSIONALE"):
+            lines = max(5, round(ask / (WORDS_PER_LINE[self.plan["level"]] + 2)))
         p = f"""# Scene {k + 1} of {n}
 
 Write this scene now:
 {sc['heading']}
 Beats: {sc['beats']}
-Length: **about {sc['words']} Italian words.** Keep count as you go; length matters.
+Length: **about {ask} Italian words, roughly {lines} lines.** Keep count as you go; don't wrap up early.
+Mix: about three quarters dialogue, one quarter narration (setting, action, who is speaking).
 Vocabulary to use, each bolded at least once as its own span, with the matching English bolded: {sc['vocab']}
 Also bold clear examples of the grammar focus where they come up naturally.
 
@@ -241,11 +250,6 @@ Return only the scene: the heading line exactly as above, then its lines in the 
         for line in report.splitlines():
             if "ERROR" in line:
                 issues.append(line.strip().replace("ERROR   ", "- "))
-            m = re.search(r"\(draft line (\d+)\): (\d+) bold in Italian, (\d+) in English", line)
-            if m:
-                n = int(m.group(1))
-                issues.append(f"- line {n}: {m.group(2)} bold span(s) in Italian but {m.group(3)} in English "
-                              f"(they must match, in order)\n    {draft[n - 1].strip()}")
         for n, text, hits in grammar_rules.lint_draft(self.cid, "\n".join(draft)):
             what = "; ".join(f"{r['what']} ('{w}') is not taught until {r['intro']}" for r, w in hits)
             issues.append(f"- line {n}: {what}\n    {text}")

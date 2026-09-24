@@ -34,7 +34,7 @@ format must be exact.
   same tone. Not word-for-word, and don't add or drop meaning.
 - **Bold with restraint.** Bold only vocabulary items and clear examples of the chapter's grammar
   focus, on average about one bold every two or three lines. Same number of bold spans in the English,
-  in the same order.
+  in the same order: bold the English translation of the bolded Italian as one span (`**sono**` ↔ `**I am**`).
 
 # Series rules (never break these)
 
@@ -50,6 +50,7 @@ format must be exact.
   never from humiliation.
 - Only characters listed in the brief speak. Keep to what the plan says happens in this episode:
   don't resolve things that later episodes resolve, and don't use later episodes' material.
+- Keep days and times realistic (school on weekdays, shops closed on Sunday afternoons, and so on).
 - The audio is generated from your lines, so never put stage directions in the text. Use the
   `[delivery]` note and, sparingly, the allowed audio tags.
 

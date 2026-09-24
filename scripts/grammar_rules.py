@@ -24,8 +24,8 @@ ESSERE = r"(?:sono|sei|è|siamo|siete)"
 MOTION = (r"(?:andat[oaie]|venut[oaie]|arrivat[oaie]|partit[oaie]|uscit[oaie]|entrat[oaie]|tornat[oaie]|"
           r"stat[oaie]|nat[oaie]|mort[oaie]|rimast[oaie]|successo|caduto|caduta|cresciut[oaie]|diventat[oaie])")
 IMP_SUBJ = (r"(?:fossi|fosse|fossimo|foste|fossero|avessi|avesse|avessimo|aveste|avessero|facessi|facesse|"
-            r"dessi|desse|stessi|stesse|dicessi|dicesse|bevessi|\w{2,}(?:assi|asse|assimo|assero|essi|esse|"
-            r"essimo|essero|issi|isse|issimo|issero))")
+            r"dessi|desse|stessi|stesse|dicessi|dicesse|bevessi|\w{2,}(?:assi|asse|assero|essi|esse|essero|issi|isse|"
+            r"issero))")
 # Common words that look like imperfect-subjunctive forms but aren't.
 IMP_SUBJ_FALSE = {"passi", "bassi", "grassi", "classi", "sassi", "tassi", "interesse", "interessi", "processi",
                   "successi", "stessi", "messi", "spessi", "adesso", "promesse", "compromessi", "espressi",
