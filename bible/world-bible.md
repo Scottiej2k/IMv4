@@ -75,9 +75,10 @@ freely, and some episodes barely feature Ben. By B2, any pairing of characters c
 2. **Ben's mistakes are always corrected on the page.** When Ben gets something wrong, another
    character corrects it, or the narration points it out, in the same scene. A mistake is never a
    bolded focus item and never appears in the vocabulary list. Learners must never learn the error.
-3. **English in the story is minimal.** When a character switches to English (Chiara under stress,
-   Ben in frustration), the narration reports it in Italian (*dice in inglese*) rather than quoting
-   English lines. The rare exception is a single short word or two for comic effect.
+3. **Everything is in Italian.** All dialogue and narration are written in Italian, including
+   conversations between Ben and Chiara, with no comment on what language they'd "really" be
+   speaking. Characters occasionally drop in a single English word or short phrase to be helpful
+   (Ben: *"Come si dice… 'snack'?"*) or funny, never a full English sentence.
 4. **Tu and Lei:** family, friends, kids and peers use *tu*. Ornella, Roberto (at first), shopkeepers
    and officials use *Lei*. Switching from *Lei* to *tu* is a story event, marked on screen
    (*Diamoci del tu*).

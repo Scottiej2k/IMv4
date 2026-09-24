@@ -39,8 +39,8 @@ who won't let her help.
   having left and about not being there when her mother was ill.
 - **Wants:** to make the move "work" for everyone. **Needs:** to let people, her father especially,
   live their own lives.
-- **Speech profile:** fast, efficient Italian with lists and plans (*Primo… secondo… terzo…*). She
-  switches to English with Ben when stressed; the narration reports it, it isn't quoted. With Franco
+- **Speech profile:** fast, efficient Italian with lists and plans (*Primo… secondo… terzo…*). When
+  stressed she talks even faster and finishes Ben's sentences for him. With Franco
   she becomes a daughter again: short, sharp, loving. Catchphrase: *Ci penso io.* ("I'll handle it.")
 - **Keeps her surname Ferri** (Italian women do). The kids are Carter.
 
