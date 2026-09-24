@@ -1,0 +1,258 @@
+{
+  "season": 6,
+  "title": { "it": "Il parco", "en": "The Park" },
+  "level": "B2",
+  "months": "March–August, year 3",
+  "chapters": [
+    {
+      "id": "s06e01", "level": "B2",
+      "title": { "it": "Il platano", "en": "The Plane Tree" },
+      "grammar": { "id": "g-congiuntivo-trapassato", "name": "Congiuntivo trapassato", "scope": "formation (avessi fatto, fossi andato); after past main verbs for prior actions (pensavo che fosse già partito); full sequence of subjunctive tenses as an overview" },
+      "theme": "Nature, the park, local heritage",
+      "key_vocab": ["il platano", "il parco", "il verde", "l'aiuola", "il sentiero", "secolare", "tutelare", "il patrimonio", "il quartiere", "la radice"],
+      "a_plot": "Spring in the Parco dei Tigli: bocce, kids, the 200-year-old plane tree. Surveyors appear with measuring tapes. Franco thought the park had always been protected.",
+      "b_plot": "Chiara returns from Rome to good news: Studio Marchetti has been invited to bid for 'a big local project'. She doesn't know what it is yet.",
+      "arc": "Season premiere: the park arc is planted."
+    },
+    {
+      "id": "s06e02", "level": "B2",
+      "title": { "it": "Se l'avessimo saputo", "en": "If We Had Known" },
+      "grammar": { "id": "g-periodo-ipotetico-3", "name": "Hypothetical sentences, type 3 (unreal past)", "scope": "se + congiuntivo trapassato → condizionale passato; regrets and counterfactuals; colloquial imperfetto alternative (se lo sapevo, venivo) recognised" },
+      "theme": "Urban planning, public announcements",
+      "key_vocab": ["il progetto", "il centro commerciale", "l'area edificabile", "il piano regolatore", "l'assemblea pubblica", "il costruttore", "annunciare", "demolire", "se l'avessimo saputo", "la variante"],
+      "a_plot": "At a public meeting at the Centro civico, Lombarda Sviluppo presents its plan: a shopping centre where the park is. The room explodes. 'Se l'avessimo saputo prima...'",
+      "b_plot": "Roberto, now a councillor, learns the council approved a preliminary change to the town plan two years ago, before he was elected.",
+      "arc": "TENTPOLE: the plan is announced."
+    },
+    {
+      "id": "s06e03", "level": "B2",
+      "title": { "it": "Se fossimo stati più attenti", "en": "If We'd Been More Careful" },
+      "grammar": { "id": "g-periodo-ipotetico-misto", "name": "Mixed hypothetical sentences", "scope": "past condition → present consequence (se avessi studiato, ora sarei...); present condition → past consequence; all three types compared" },
+      "theme": "Consequences, responsibility, civic participation",
+      "key_vocab": ["la conseguenza", "la responsabilità", "partecipare", "l'indifferenza", "il comitato", "informarsi", "il consiglio comunale", "la delibera", "ora", "adesso"],
+      "a_plot": "The street holds a crisis meeting at Bar Tigli. Everyone blames everyone: if they'd been more involved, the park would be safe now.",
+      "b_plot": "Emma, 17, turns the question on the adults: if they'd voted in the last elections, she says, they wouldn't be here now.",
+      "arc": "The neighbourhood organises. Emma's activism begins."
+    },
+    {
+      "id": "s06e04", "level": "B2",
+      "title": { "it": "Pensavo che fosse finita", "en": "I Thought It Was Over" },
+      "grammar": { "id": "g-concordanza-congiuntivo", "name": "Sequence of tenses with the subjunctive", "scope": "main clause present/future → congiuntivo presente/passato; main clause past/conditional → congiuntivo imperfetto/trapassato; vorrei che + imperfetto" },
+      "theme": "Committees, organisation, petitions",
+      "key_vocab": ["la petizione", "le firme", "raccogliere", "il comitato", "il portavoce", "l'obiettivo", "la strategia", "la riunione", "il verbale", "vorrei che"],
+      "a_plot": "The 'Comitato Salviamo il Parco' is born. Roberto wants to be president and Ben wants to run the campaign. Old rivalries return.",
+      "b_plot": "Chiara discovers what Marchetti's 'big local project' is: the shopping centre on the park. She tells no one.",
+      "arc": "Chiara's secret begins."
+    },
+    {
+      "id": "s06e05", "level": "B2",
+      "title": { "it": "Il progetto è stato approvato", "en": "The Project Has Been Approved" },
+      "grammar": { "id": "g-passive-essere", "name": "The passive with essere", "scope": "essere + past participle in all tenses; agent with da; when Italian prefers the passive (news, administration)" },
+      "theme": "Construction, regulations, the legal process",
+      "key_vocab": ["approvare", "è stato approvato", "costruire", "il permesso di costruire", "la gara d'appalto", "l'impresa", "il cantiere", "il ricorso", "il TAR", "l'avvocato"],
+      "a_plot": "The committee meets a lawyer, a friend of Nadia's family. Everything has been approved, signed and stamped. The only way is an appeal to the TAR (administrative court).",
+      "b_plot": "Matteo, in the middle of it all, signs a lease for a second bar in Milan without telling Nadia.",
+      "arc": "Legal route begins. Matteo's secret."
+    },
+    {
+      "id": "s06e06", "level": "B2",
+      "title": { "it": "Va fatto subito", "en": "It Must Be Done Right Away" },
+      "grammar": { "id": "g-passive-venire-andare", "name": "Passive with venire and andare", "scope": "venire + participle (simple tenses only, dynamic); andare + participle (obligation: va fatto, vanno compilati); andare + participle with perdere/smarrire (è andato perso)" },
+      "theme": "Deadlines, obligations, paperwork",
+      "key_vocab": ["va fatto", "vanno consegnati", "viene firmato", "il termine", "la scadenza", "il modulo", "la marca da bollo", "protocollare", "la documentazione", "entro"],
+      "a_plot": "The appeal must be filed within 60 days. Everything must be done now: documents, signatures, fees. Roberto's love of paperwork finally becomes a superpower.",
+      "b_plot": "Leo and Pietro create a 'save the park' video for school, which goes viral in Borgoverde.",
+      "runner": "The marca da bollo: Ben's nemesis."
+    },
+    {
+      "id": "s06e07", "level": "B2",
+      "title": { "it": "Si vendono case", "en": "Houses for Sale" },
+      "grammar": { "id": "g-si-passivante", "name": "The si passivante", "scope": "si + third-person verb agreeing with the subject (si vendono case, si è costruito molto); contrast with impersonal si; in compound tenses" },
+      "theme": "The housing market, property values, gentrification",
+      "key_vocab": ["si vendono", "si affittano", "l'agenzia immobiliare", "il valore", "il mercato immobiliare", "la speculazione", "il mutuo", "il prezzo al metro quadro", "la periferia", "investire"],
+      "a_plot": "Estate agents appear on Via dei Tigli: with the shopping centre, 'houses will be worth more'. Some neighbours are tempted to sell. Ben and Chiara, who still pay their mortgage, have an uncomfortable conversation.",
+      "b_plot": "Irina (Ornella's carer) tells Ornella about the town she left in Ukraine and its park. Ornella decides to fight.",
+      "arc": "The fight gets complicated: not everyone wants the park."
+    },
+    {
+      "id": "s06e08", "level": "B2",
+      "title": { "it": "Ci si organizza", "en": "People Get Organised" },
+      "grammar": { "id": "g-si-advanced", "name": "Impersonal si: advanced", "scope": "si with reflexives (ci si), with adjectives (si è stanchi), with compound tenses (si è andati), with modals; si vs uno vs la gente" },
+      "theme": "Community organising, protests, volunteering",
+      "key_vocab": ["ci si organizza", "la manifestazione", "il presidio", "lo striscione", "il volantinaggio", "la mobilitazione", "il volontariato", "partecipare", "la solidarietà", "coinvolgere"],
+      "a_plot": "The street gets organised: banners, stands, a sit-in at the park every Saturday. Lucia teaches protest songs; Samira feeds everyone.",
+      "b_plot": "Emma and Tommaso are on opposite sides of a small conflict: Tommaso's band has been hired to play at the developer's promotional event.",
+      "arc": "Emma–Tommaso tension."
+    },
+    {
+      "id": "s06e09", "level": "B2",
+      "title": { "it": "Letto il verbale...", "en": "Having Read the Minutes..." },
+      "grammar": { "id": "g-participio-assoluto", "name": "Past participle clauses (participio assoluto)", "scope": "finita la riunione, letto il verbale, arrivati a casa; agreement; pronouns attached (vistolo); formal and written register" },
+      "theme": "Meetings, minutes, formal procedures",
+      "key_vocab": ["il verbale", "l'ordine del giorno", "la seduta", "la votazione", "all'unanimità", "approvato", "respinto", "la mozione", "il consigliere", "concluso"],
+      "a_plot": "Roberto proposes a motion in the town council to suspend the project. Written out in his meticulous minutes, the session reads like a thriller.",
+      "b_plot": "Franco attends his first council meeting ever and gets thrown out for heckling.",
+      "arc": "The council motion fails, narrowly."
+    },
+    {
+      "id": "s06e10", "level": "B2",
+      "title": { "it": "Avendo scoperto la verità", "en": "Having Found the Truth" },
+      "grammar": { "id": "g-gerundio-composto", "name": "Compound gerund and causal gerund", "scope": "avendo fatto, essendo arrivato; gerund for cause and time in formal prose; subject coherence" },
+      "theme": "Investigation, research, documents",
+      "key_vocab": ["indagare", "l'indagine", "la documentazione", "il registro", "l'archivio", "la visura", "scoprire", "la prova", "il conflitto di interessi", "il sospetto"],
+      "a_plot": "Emma and Tommaso (reconciled over the investigation) research the developer in public records and discover the land was sold by the council at a suspiciously low price.",
+      "b_plot": "Chiara, having seen the committee's work, can't sleep. She begins secretly redesigning the project.",
+      "arc": "Emma–Tommaso reconciled. Chiara's alternative plan begins."
+    },
+    {
+      "id": "s06e11", "level": "B2",
+      "title": { "it": "Dopo aver visto il parco", "en": "After Seeing the Park" },
+      "grammar": { "id": "g-infinito-passato", "name": "Past infinitive", "scope": "aver fatto, essere andato after dopo, dopo di, credere di, pensare di, ricordarsi di, essere sicuro di; with pronouns (averlo visto)" },
+      "theme": "Environment, climate, urban green spaces",
+      "key_vocab": ["l'ambiente", "il cambiamento climatico", "l'isola di calore", "il consumo di suolo", "la biodiversità", "l'inquinamento", "sostenibile", "piantare", "ridurre", "tutelare"],
+      "a_plot": "An environmental scientist from the University of Milan speaks at the Centro civico about heat islands and land consumption. The argument shifts from nostalgia to science.",
+      "b_plot": "Leo, after seeing a documentary, becomes a climate activist and lectures the family about the car.",
+      "runner": "Franco pretends not to be moved by the science."
+    },
+    {
+      "id": "s06e12", "level": "B2",
+      "title": { "it": "Secondo indiscrezioni", "en": "According to Rumours" },
+      "grammar": { "id": "g-condizionale-giornalistico", "name": "The journalistic conditional", "scope": "condizionale for unconfirmed reports (il sindaco avrebbe firmato, ci sarebbero dei problemi); secondo, stando a, pare che" },
+      "theme": "Journalism, leaks, reputation",
+      "key_vocab": ["secondo indiscrezioni", "avrebbe firmato", "la fonte", "lo scoop", "la smentita", "smentire", "confermare", "la fuga di notizie", "la reputazione", "lo scandalo"],
+      "a_plot": "*La Voce di Borgoverde*'s headline: 'Studio Marchetti would be designing the shopping centre. Among the architects, a resident of Via dei Tigli.' Chiara's secret is out.",
+      "b_plot": "The street's reaction: silence at the bar. Ben learns it from the newspaper.",
+      "arc": "TENTPOLE: Chiara's secret comes out."
+    },
+    {
+      "id": "s06e13", "level": "B2",
+      "title": { "it": "La raccolta firme", "en": "Collecting Signatures" },
+      "grammar": { "id": "g-nominalization", "name": "Nominalisation and formal style", "scope": "turning verbs into nouns (costruire → la costruzione; decidere → la decisione); nominal style in documents and petitions; formal vs spoken paraphrase" },
+      "theme": "Petitions, formal documents, public statements",
+      "key_vocab": ["la richiesta", "la sospensione", "la revisione", "la tutela", "la salvaguardia", "i sottoscritti", "chiedono", "il testo", "la raccolta firme", "consegnare"],
+      "a_plot": "The committee writes its official petition. Roberto writes it in impenetrable bureaucratic Italian; Emma rewrites it so people understand it. They need both.",
+      "b_plot": "Chiara and Ben don't speak. She sleeps at Franco's. Lucia mediates.",
+      "arc": "Ben–Chiara crisis."
+    },
+    {
+      "id": "s06e14", "level": "B2",
+      "title": { "it": "Nonostante tutto", "en": "Despite Everything" },
+      "grammar": { "id": "g-connectors-concessive", "name": "Concessive connectors", "scope": "nonostante, sebbene, benché, malgrado + subjunctive; eppure, tuttavia, ciononostante, anche se (indicative); per quanto + subjunctive" },
+      "theme": "Loyalty, conflict, forgiveness",
+      "key_vocab": ["nonostante", "sebbene", "malgrado", "tuttavia", "eppure", "la lealtà", "tradire", "il tradimento", "perdonare", "il chiarimento"],
+      "a_plot": "Chiara explains herself to the street at Bar Tigli: why she said nothing, and what she's secretly doing. Nonostante tutto, some forgive her and some don't.",
+      "b_plot": "Franco stands up for his daughter in front of everyone, 'sebbene' he disagrees with her.",
+      "arc": "Chiara–street reconciliation begins. Franco defends Chiara."
+    },
+    {
+      "id": "s06e15", "level": "B2",
+      "title": { "it": "Pertanto, chiediamo...", "en": "Therefore, We Request..." },
+      "grammar": { "id": "g-connectors-causal", "name": "Causal and consecutive connectors", "scope": "poiché, dal momento che, in quanto, giacché; pertanto, quindi, di conseguenza, perciò, cosicché, tanto che; building an argument" },
+      "theme": "Legal argument, appeals, courts",
+      "key_vocab": ["pertanto", "di conseguenza", "in quanto", "dal momento che", "il ricorso", "l'udienza", "il giudice", "la sentenza", "sospendere", "fondato"],
+      "a_plot": "The TAR hearing in Milan. The lawyer argues, the developer's lawyer argues back, and the street waits outside with thermoses of coffee.",
+      "b_plot": "Nadia finds the second-bar lease on Matteo's desk. 'Dal momento che non me l'hai detto...'",
+      "arc": "The hearing. Nadia discovers Matteo's secret."
+    },
+    {
+      "id": "s06e16", "level": "B2",
+      "title": { "it": "A patto che", "en": "On the Condition That" },
+      "grammar": { "id": "g-connectors-conditional", "name": "Conditional connectors", "scope": "purché, a patto che, a condizione che, qualora, nel caso in cui, a meno che (non), in caso di; negotiation language" },
+      "theme": "Negotiation, business partnerships, compromise",
+      "key_vocab": ["a patto che", "purché", "qualora", "nel caso in cui", "a meno che", "negoziare", "il compromesso", "la condizione", "il socio", "l'accordo"],
+      "a_plot": "Nadia and Matteo negotiate like two lawyers: the second bar can happen, 'a patto che' Matteo meets her conditions. The conditions are many.",
+      "b_plot": "The TAR suspends the project for 90 days, 'a meno che' the council approves an alternative. The committee has three months.",
+      "arc": "90-day countdown begins."
+    },
+    {
+      "id": "s06e17", "level": "B2",
+      "title": { "it": "In diretta", "en": "Live" },
+      "grammar": { "id": "g-register", "name": "Register: formal, neutral, informal", "scope": "shifting register for audience (TV interview vs bar vs committee); lexical pairs (cominciare/iniziare/avviare, dire/affermare/dichiarare); formal syntax vs spoken syntax" },
+      "theme": "Media, TV interviews, public image",
+      "key_vocab": ["in diretta", "il servizio", "l'intervistatore", "rilasciare un'intervista", "affermare", "dichiarare", "sottolineare", "il pubblico", "l'immagine", "la troupe"],
+      "a_plot": "A regional TV channel comes to Via dei Tigli. Who speaks? Roberto is too formal, Franco too blunt, Matteo too casual. Ben and Ornella together are perfect.",
+      "b_plot": "Emma, off camera, coaches everyone on how to talk to the TV. Tommaso films a behind-the-scenes version for social media.",
+      "runner": "Pavarotti the cat appears in every shot."
+    },
+    {
+      "id": "s06e18", "level": "B2",
+      "title": { "it": "Giù le mani dal parco!", "en": "Hands Off the Park!" },
+      "grammar": { "id": "g-persuasion-imperatives", "name": "Persuasion: slogans, imperatives, rhetorical questions", "scope": "formal and collective imperatives, infinitive imperatives in signs (non calpestare), rhetorical questions, repetition and tricolon" },
+      "theme": "Protest, public speaking, persuasion",
+      "key_vocab": ["il corteo", "lo slogan", "il megafono", "il cartello", "gridare", "la folla", "manifestare", "pacifico", "la voce", "unirsi"],
+      "a_plot": "The big protest march from Via dei Tigli to the town hall: the whole ensemble, 800 people and a megaphone. Ornella leads it in her wheelchair.",
+      "b_plot": "Franco gives an unplanned speech from the town hall steps about Anna, the park and his tram. It goes viral.",
+      "arc": "TENTPOLE: the protest."
+    },
+    {
+      "id": "s06e19", "level": "B2",
+      "title": { "it": "L'albero sotto cui", "en": "The Tree Under Which" },
+      "grammar": { "id": "g-relatives-b2", "name": "Advanced relative pronouns", "scope": "il cui / la cui / i cui (whose); preposition + il quale; relative clauses in formal writing; onde, laddove recognised" },
+      "theme": "Local history, memory, heritage protection",
+      "key_vocab": ["il cui", "la cui", "sotto il quale", "la storia locale", "la memoria", "la targa", "il monumento", "il vincolo", "la Soprintendenza", "storico"],
+      "a_plot": "Ornella and Franco reveal the plane tree's history: soldiers were hidden beneath it in 1944. If it's proven, the tree can be protected by law. The search for documents begins.",
+      "b_plot": "Irina and Ornella search Gino's old papers and find the proof.",
+      "arc": "The history of the tree becomes the legal key."
+    },
+    {
+      "id": "s06e20", "level": "B2",
+      "title": { "it": "Glielo faccio sapere", "en": "I'll Let Him Know" },
+      "grammar": { "id": "g-causatives-advanced", "name": "Causatives with pronouns", "scope": "fare/lasciare + infinitive with combined pronouns (glielo faccio fare, me lo lascia vedere, farsi + inf. in compound tenses: me lo sono fatto spiegare)" },
+      "theme": "Delegation, organising people, leadership",
+      "key_vocab": ["delegare", "affidare", "far sapere", "far fare", "lasciar fare", "il coordinatore", "il compito", "gestire", "il gruppo di lavoro", "fidarsi"],
+      "a_plot": "Chiara presents her secret alternative project to the committee: a public park with a small community centre and market, funded by the region. She needs everyone to do something.",
+      "b_plot": "Ben, running the bar alone again during Matteo's Milan preparations, learns to delegate, to Leo.",
+      "arc": "Chiara's alternative plan is revealed. Ben–Chiara reconcile."
+    },
+    {
+      "id": "s06e21", "level": "B2",
+      "title": { "it": "Prendersela", "en": "Taking It Badly" },
+      "grammar": { "id": "g-pronominal-advanced", "name": "Advanced pronominal verbs", "scope": "prendersela, cavarsela, farla finita, averla con qualcuno, metterci, passarsela, godersela, smetterla, spassarsela; forms in compound tenses" },
+      "theme": "Breakups, teenage emotions, friendship",
+      "key_vocab": ["prendersela", "averla con", "farla finita", "passarsela male", "lasciarsi", "la rottura", "il cuore spezzato", "consolare", "l'amica del cuore", "superare"],
+      "a_plot": "Emma and Tommaso break up. It's mutual and sensible, and it hurts like the end of the world.",
+      "b_plot": "Bianca, Leo and Ben each try to console Emma, badly. Lucia gets it right with a dance.",
+      "arc": "Emma–Tommaso break up."
+    },
+    {
+      "id": "s06e22", "level": "B2",
+      "title": { "it": "È stato lui a dirlo", "en": "He's the One Who Said It" },
+      "grammar": { "id": "g-emphasis-cleft", "name": "Emphasis: cleft sentences and focus", "scope": "è ... che / è stato ... a + infinitive; è qui che, è per questo che; fronting and dislocation for emphasis" },
+      "theme": "Blame, responsibility, credit",
+      "key_vocab": ["è stato lui a", "è per questo che", "la colpa", "il merito", "prendersi il merito", "incolpare", "ammettere", "la verità", "chi è stato", "responsabile"],
+      "a_plot": "The mayor claims credit for 'listening to citizens'. Who really saved the park? Everybody claims it was them, and Ornella settles it.",
+      "b_plot": "Matteo's second bar inspection fails. Who's to blame? Matteo, for once, says: 'È colpa mia.'",
+      "arc": "Matteo grows up."
+    },
+    {
+      "id": "s06e23", "level": "B2",
+      "title": { "it": "Aveva detto che sarebbe venuto", "en": "He'd Said He Would Come" },
+      "grammar": { "id": "g-future-in-past", "name": "The future in the past", "scope": "condizionale passato for a future seen from the past (ha detto che sarebbe venuto; sapevo che avrebbe vinto); contrast with English 'would'" },
+      "theme": "Promises, trust, reliability",
+      "key_vocab": ["aveva promesso", "sarebbe venuto", "mantenere una promessa", "la fiducia", "affidabile", "deludere", "l'attesa", "rimandare", "il rinvio", "la parola"],
+      "a_plot": "The regional official who promised to attend the final council vote doesn't come. The alternative plan might fail without the region's letter of support.",
+      "b_plot": "Franco promised Lucia he'd see a doctor about his breathlessness. He didn't. She finds out.",
+      "arc": "Final obstacle. Franco's health planted (it pays off in S7)."
+    },
+    {
+      "id": "s06e24", "level": "B2",
+      "title": { "it": "Il progetto alternativo", "en": "The Alternative Plan" },
+      "grammar": { "id": "g-presenting-proposals", "name": "Presenting and arguing a proposal", "scope": "structuring a presentation (in primo luogo, a tal proposito, ne consegue che, alla luce di); hedging and concession; handling objections" },
+      "theme": "Architecture, presentations, public decisions",
+      "key_vocab": ["la proposta", "alla luce di", "ne consegue che", "il rendering", "la planimetria", "il finanziamento", "i costi", "i benefici", "la fattibilità", "presentare"],
+      "a_plot": "Chiara presents the alternative plan to the town council. Marchetti is in the audience. She resigns from his studio publicly, at the end of her presentation.",
+      "b_plot": "The region's letter arrives by email at the last minute, sent to Roberto's spam folder. Leo finds it.",
+      "arc": "Chiara's presentation and resignation."
+    },
+    {
+      "id": "s06e25", "level": "B2",
+      "title": { "it": "La festa nel parco", "en": "The Party in the Park" },
+      "grammar": { "id": "g-review-b2a", "name": "Review: the B2 core", "scope": "Consolidation of subjunctive sequence, hypotheticals I–III and mixed, passive forms, si constructions, connectors and register" },
+      "theme": "Victory, community, celebration",
+      "key_vocab": ["la vittoria", "festeggiare", "salvato", "la comunità", "il brindisi", "lo studio", "aprire", "ricominciare", "la gratitudine", "insieme"],
+      "a_plot": "The council approves the alternative plan. The Festa dei Tigli is held in the saved park, under the plane tree.",
+      "b_plot": "Chiara announces she's opening her own studio in Borgoverde: 'Studio Ferri'. Her first client is the town.",
+      "arc": "SEASON FINALE: the park is saved; Chiara's own studio."
+    }
+  ]
+}

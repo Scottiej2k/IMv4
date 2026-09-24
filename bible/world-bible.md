@@ -91,7 +91,7 @@ freely, and some episodes barely feature Ben. By B2, any pairing of characters c
   roughly one episode a week.
 - **Season 1 opens on the first day of the Italian school year in September.** Emma starts
   *seconda liceo*; Leo starts *terza elementare*.
-- **Season 8 ends with Emma's *maturità* in June of year 4.**
+- **Season 8 ends with Emma's *maturità*, in July of year 4.**
 
 | Season | Months | Emma | Leo |
 |---|---|---|---|
@@ -102,7 +102,7 @@ freely, and some episodes barely feature Ben. By B2, any pairing of characters c
 | S5 | Sept–Feb, year 3 | 17, 4th year | 10 |
 | S6 | Mar–Aug, year 3 | 17–18 | 10–11 |
 | S7 | Sept–Feb, year 4 | 18, 5th year | 11, 1st year media |
-| S8 | Mar–June, year 4 | 18 (maturità) | 11–12 |
+| S8 | Mar–July, year 4 | 18 (maturità) | 11–12 |
 
 Real seasons and holidays anchor the calendar. These include the start of school, Ognissanti,
 Christmas and Befana, Carnevale, Easter and Pasquetta, 25 aprile, Ferragosto, and the neighbourhood

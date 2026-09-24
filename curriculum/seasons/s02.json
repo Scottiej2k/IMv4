@@ -1,0 +1,258 @@
+{
+  "season": 2,
+  "title": { "it": "Lavori in corso", "en": "Work in Progress" },
+  "level": "A2",
+  "months": "March–August, year 1",
+  "chapters": [
+    {
+      "id": "s02e01", "level": "A2",
+      "title": { "it": "Abbiamo comprato una casa", "en": "We Bought a House" },
+      "grammar": { "id": "g-pp-avere", "name": "Passato prossimo with avere", "scope": "formation with avere + regular past participles (-ato, -uto, -ito); ieri, la settimana scorsa" },
+      "theme": "Buying and renovating a house; the builders",
+      "key_vocab": ["comprare", "firmare", "decidere", "il notaio", "il contratto", "i lavori", "il muratore", "il progetto", "ieri", "la settimana scorsa"],
+      "a_plot": "The Carters have bought Via dei Tigli 14. Chiara has designed a new kitchen; Ben has hired the builders. Everyone recounts to Franco what they did, and Franco asks why nobody asked him.",
+      "b_plot": "Matteo tells Nadia what he did with the bar's money this month. Nadia checks the numbers.",
+      "arc": "Season premiere: the renovation arc begins."
+    },
+    {
+      "id": "s02e02", "level": "A2",
+      "title": { "it": "Chi ha rotto il muro?", "en": "Who Broke the Wall?" },
+      "grammar": { "id": "g-pp-irregular", "name": "Irregular past participles", "scope": "fatto, detto, preso, messo, visto, scritto, letto, aperto, chiuso, rotto, chiesto, risposto, perso, bevuto" },
+      "theme": "Tools, repairs, household problems",
+      "key_vocab": ["rompere", "aprire", "chiudere", "mettere", "perdere", "il muro", "il tubo", "il martello", "il rumore", "il guasto"],
+      "a_plot": "Day one of the works: the builders open the wrong wall, the water is off, and nobody admits to anything. Ben investigates.",
+      "b_plot": "Roberto has 'seen everything' and has written it all down in a notebook.",
+      "runner": "The builders' foreman, Sergio, says 'Nessun problema' before every problem."
+    },
+    {
+      "id": "s02e03", "level": "A2",
+      "title": { "it": "Siamo andati a Monza", "en": "We Went to Monza" },
+      "grammar": { "id": "g-pp-essere", "name": "Passato prossimo with essere", "scope": "verbs of motion and change (andare, venire, arrivare, partire, uscire, entrare, tornare, restare, nascere, morire, diventare); participle agreement" },
+      "theme": "Trips, arriving and leaving, a day out",
+      "key_vocab": ["andare", "arrivare", "partire", "tornare", "restare", "entrare", "la gita", "il parco", "la villa", "in bicicletta"],
+      "a_plot": "The Carters escape the dust of the renovation with a day in Monza: the Villa Reale park, bikes, and nobody arriving where they planned to.",
+      "b_plot": "Emma didn't go: she 'stayed home to study'. She actually went skateboarding with Tommaso. Ornella saw her leave."
+    },
+    {
+      "id": "s02e04", "level": "A2",
+      "title": { "it": "Mi sono svegliato tardi", "en": "I Woke Up Late" },
+      "grammar": { "id": "g-pp-reflexive", "name": "Passato prossimo of reflexive verbs", "scope": "reflexives always take essere; agreement (mi sono alzata); common reflexives in the past" },
+      "theme": "Daily routine gone wrong; excuses",
+      "key_vocab": ["svegliarsi", "dimenticarsi", "perdersi", "arrabbiarsi", "fermarsi", "sbagliarsi", "la scusa", "il ritardo", "la sveglia", "di corsa"],
+      "a_plot": "Ben oversleeps and misses the builders, Leo's school trip and a meeting with Roberto's committee. He has to explain himself to everyone.",
+      "b_plot": "Franco and Lucia tell Leo the story of how they met at the dance class ('Ci siamo conosciuti per caso...').",
+      "runner": "Excuses at school: Leo's 'my cat ate my homework' doesn't work (he doesn't have a cat)."
+    },
+    {
+      "id": "s02e05", "level": "A2",
+      "title": { "it": "Pasquetta", "en": "Easter Monday" },
+      "grammar": { "id": "g-time-expressions-past", "name": "Past time expressions", "scope": "fa, già, ancora (non), appena, sempre, mai with passato prossimo; scorso; position of adverbs with compound tenses" },
+      "theme": "Easter traditions, picnics, the countryside",
+      "key_vocab": ["la Pasqua", "la Pasquetta", "la colomba", "l'uovo di cioccolato", "il picnic", "la campagna", "già", "appena", "fa", "non ancora"],
+      "a_plot": "The whole ensemble's Easter Monday picnic by the lake. Who has already brought the food, who hasn't yet, who has just forgotten the blanket.",
+      "b_plot": "Nadia has been strange all day: she hasn't eaten Samira's food, which she never refuses. Samira notices.",
+      "arc": "Tentpole: the whole cast in one place. The pregnancy is planted."
+    },
+    {
+      "id": "s02e06", "level": "A2",
+      "title": { "it": "Lo sai?", "en": "Do You Know?" },
+      "grammar": { "id": "g-dop", "name": "Direct object pronouns", "scope": "mi, ti, lo, la, ci, vi, li, le; position before conjugated verbs and attached to infinitives; lo so / non lo so" },
+      "theme": "News, secrets, emotions",
+      "key_vocab": ["sapere", "dire", "la notizia", "il segreto", "incinta", "il bambino", "felice", "preoccupato", "sorpreso", "lo so"],
+      "a_plot": "Nadia is pregnant. She tells Matteo at the worst possible moment: during the Milan–Inter derby at the bar.",
+      "b_plot": "The news travels down Via dei Tigli in one afternoon. Everybody knows it, and nobody says they know it.",
+      "arc": "Tentpole: Nadia's pregnancy is revealed."
+    },
+    {
+      "id": "s02e07", "level": "A2",
+      "title": { "it": "L'hai vista?", "en": "Have You Seen It?" },
+      "grammar": { "id": "g-dop-pp", "name": "Object pronouns with passato prossimo", "scope": "l'ho visto/vista, li ho presi, le ho perse; agreement of the participle with lo/la/li/le" },
+      "theme": "Lost and found; looking for things",
+      "key_vocab": ["cercare", "trovare", "perdere", "le chiavi", "l'anello", "la borsa", "il portafoglio", "dappertutto", "sotto", "dietro"],
+      "a_plot": "Franco has lost Anna's ring. The whole family searches the house and the orto, and nobody has seen it.",
+      "b_plot": "Matteo panics about being a father and looks for 'the manual'. Nadia hides the books he bought.",
+      "runner": "Pavarotti the cat is found in the builders' cement bag.",
+      "arc": "Planted: Franco wants the ring for Lucia (it pays off with the S3 proposal)."
+    },
+    {
+      "id": "s02e08", "level": "A2",
+      "title": { "it": "Gli ho scritto un messaggio", "en": "I Wrote Him a Message" },
+      "grammar": { "id": "g-iop", "name": "Indirect object pronouns", "scope": "mi, ti, gli, le, Le, ci, vi, gli; verbs with indirect objects (dire, dare, scrivere, telefonare, regalare, chiedere, rispondere)" },
+      "theme": "Communication: phones, messages, the family WhatsApp group",
+      "key_vocab": ["scrivere", "telefonare", "rispondere", "chiedere", "mandare", "il gruppo", "la chat", "il vocale", "la risposta", "l'emoji"],
+      "a_plot": "Chiara creates a family WhatsApp group. Franco sends 40 voice messages a day; Ben replies with the wrong emoji.",
+      "b_plot": "Tommaso writes Emma a message and doesn't send it for three days. Bianca sends it for him.",
+      "runner": "Leo sends a voice message to the whole class parents' group by mistake."
+    },
+    {
+      "id": "s02e09", "level": "A2",
+      "title": { "it": "Mi manca Chicago", "en": "I Miss Chicago" },
+      "grammar": { "id": "g-piacere-past-similar", "name": "Piacere in the past; verbs like piacere", "scope": "mi è piaciuto/a/i/e; mancare, servire, sembrare, interessare, bastare, restare" },
+      "theme": "Homesickness, feelings, comparing lives",
+      "key_vocab": ["mancare", "servire", "sembrare", "bastare", "interessare", "la nostalgia", "il ricordo", "casa", "lontano", "gli amici"],
+      "a_plot": "Ben has a bad week: he misses Chicago, his friends, his job and feeling competent. It's Ornella, of all people, who notices.",
+      "b_plot": "Emma, who spent all of Season 1 wanting to go back, realises she doesn't miss Chicago as much as she thought.",
+      "arc": "Ben–Ornella friendship deepens."
+    },
+    {
+      "id": "s02e10", "level": "A2",
+      "title": { "it": "Ci vuole il permesso", "en": "You Need a Permit" },
+      "grammar": { "id": "g-ci-place", "name": "Ci (there); ci vuole / ci vogliono", "scope": "ci as 'there' (ci vado, ci sono stato); ci vuole / ci vogliono for time and things needed; ci metto" },
+      "theme": "Bureaucracy, offices, permits, waiting",
+      "key_vocab": ["il permesso", "l'ufficio tecnico", "la domanda", "il documento", "la fila", "lo sportello", "ci vuole", "ci vogliono", "aspettare", "la pratica"],
+      "a_plot": "The works stop: the committee (Roberto) says the new window needs a permit. Ben goes to the town hall's technical office, then again, then again.",
+      "b_plot": "Chiara discovers the permit problem in the family chat and sends Ben 14 messages from Milan.",
+      "runner": "Sergio the foreman: 'Nessun problema. Ci vogliono due settimane.' (It takes two months.)"
+    },
+    {
+      "id": "s02e11", "level": "A2",
+      "title": { "it": "Quanti ne vuoi?", "en": "How Many Do You Want?" },
+      "grammar": { "id": "g-ne", "name": "Ne (partitive)", "scope": "ne for quantities (ne voglio due, non ne ho); ne with passato prossimo (ne ho comprati tre)" },
+      "theme": "Recipes, quantities, the bar's orders and supplies",
+      "key_vocab": ["la farina", "le uova", "lo zucchero", "il burro", "il latte", "la ricetta", "la scorta", "ordinare", "abbastanza", "troppo"],
+      "a_plot": "Matteo orders supplies for the bar wrong: 300 croissants and no coffee. Ben helps him count, measure and fix it.",
+      "b_plot": "Samira teaches Nadia to make msemen for 'the baby's grandmother's recipe collection'. Lucia wants to teach her tiramisù on the same day.",
+      "runner": "Leo counts everything: 'Quante uova ci sono?' 'Ce ne sono dodici.'"
+    },
+    {
+      "id": "s02e12", "level": "A2",
+      "title": { "it": "Un lavoro per me", "en": "A Job for Me" },
+      "grammar": { "id": "g-stressed-pronouns", "name": "Stressed (tonic) pronouns", "scope": "me, te, lui, lei, Lei, noi, voi, loro after prepositions and for emphasis (per me, con te, anche lui, tocca a te)" },
+      "theme": "Work and jobs; behind the bar counter",
+      "key_vocab": ["il lavoro", "il turno", "il cliente", "il bancone", "servire", "lo stipendio", "il collega", "il capo", "per me", "tocca a te"],
+      "a_plot": "Matteo offers Ben a morning job at Bar Tigli. Ben behind the counter: the regulars test him, Ornella watches him, Franco refuses to be served by him.",
+      "b_plot": "Chiara is proud of Ben and worried about what her colleagues will think ('Mio marito fa il barista?'). She hates herself for thinking it.",
+      "arc": "Tentpole: Ben gets a job. He becomes the street's confidant."
+    },
+    {
+      "id": "s02e13", "level": "A2",
+      "title": { "it": "Ci conosciamo?", "en": "Do We Know Each Other?" },
+      "grammar": { "id": "g-reciprocal", "name": "Reciprocal verbs", "scope": "ci/vi/si + verb for 'each other' (ci vediamo, si conoscono, si sono sposati, ci scriviamo)" },
+      "theme": "Friendships and relationships, meeting people",
+      "key_vocab": ["conoscersi", "vedersi", "sentirsi", "incontrarsi", "salutarsi", "abbracciarsi", "l'amicizia", "l'appuntamento", "il fidanzato", "la coppia"],
+      "a_plot": "Emma and Tommaso start 'seeing each other' but keep it secret: they meet at the station, write to each other at night and say hello coldly on the street.",
+      "b_plot": "Lucia and Franco want to go public on Via dei Tigli. They walk arm in arm to the bar, where everyone is waiting.",
+      "runner": "Ben and Roberto greet each other with maximum politeness and minimum warmth."
+    },
+    {
+      "id": "s02e14", "level": "A2",
+      "title": { "it": "Non funziona niente", "en": "Nothing Works" },
+      "grammar": { "id": "g-negatives", "name": "Double negatives", "scope": "non... mai, più, niente/nulla, nessuno, ancora, neanche; nessun/nessuna + noun; negatives at the start of a sentence" },
+      "theme": "Complaints, problems, customer service",
+      "key_vocab": ["niente", "nessuno", "non... più", "neanche", "il reclamo", "funzionare", "rotto", "l'assistenza", "la garanzia", "il tecnico"],
+      "a_plot": "The renovation crisis: nothing works, nobody answers, the new oven has never worked. Ben calls customer service, in Italian, on hold for an hour.",
+      "b_plot": "Chiara, stressed by the works and by Milan, snaps at everyone. Franco tells her she's just like her mother. It's meant as a compliment.",
+      "runner": "Sergio doesn't come to work any more; nobody knows where he is."
+    },
+    {
+      "id": "s02e15", "level": "A2",
+      "title": { "it": "Diamoci del tu", "en": "Let's Use Tu" },
+      "grammar": { "id": "g-lei-formal", "name": "Formal and informal address", "scope": "Lei with verbs, pronouns and possessives (Suo, La, Le); tu vs Lei choices; formal greetings; 'darsi del tu' as a social event" },
+      "theme": "Politeness, formal and informal situations, etiquette",
+      "key_vocab": ["Lei", "La ringrazio", "Si accomodi", "signora", "dottore", "darsi del tu", "la cortesia", "l'educazione", "maleducato", "gentilissimo"],
+      "a_plot": "Ornella's birthday. Ben brings her a cake he made himself, and after eight months of 'Signora Galli', she says: 'Diamoci del tu, Ben.'",
+      "b_plot": "Leo uses 'tu' with Maestra Paola's headmaster and 'Lei' with his friend Pietro. A lesson in registers.",
+      "arc": "Tentpole: the Lei → tu moment with Ornella."
+    },
+    {
+      "id": "s02e16", "level": "A2",
+      "title": { "it": "Meglio l'Italia o l'America?", "en": "Italy or America: Which Is Better?" },
+      "grammar": { "id": "g-comparatives", "name": "Comparatives", "scope": "più/meno ... di / che; (così) ... come, (tanto) ... quanto; più di/che rules with nouns, adjectives, verbs" },
+      "theme": "Comparing countries, cultures, lifestyles",
+      "key_vocab": ["più", "meno", "come", "quanto", "grande", "piccolo", "caro", "economico", "lo stile di vita", "la differenza"],
+      "a_plot": "Leo's school presentation: 'L'Italia e l'America'. He interviews the family and every answer turns into an argument between Franco and Ben about which is better.",
+      "b_plot": "Matteo compares himself to every father he knows, and always comes out worse.",
+      "runner": "Is American coffee coffee? The debate at the bar lasts all episode."
+    },
+    {
+      "id": "s02e17", "level": "A2",
+      "title": { "it": "Il tiramisù più buono del mondo", "en": "The Best Tiramisù in the World" },
+      "grammar": { "id": "g-superlatives", "name": "Superlatives", "scope": "relative superlative (il più ... di); absolute -issimo; irregular forms migliore, peggiore, ottimo, pessimo, maggiore, minore" },
+      "theme": "Food, restaurants, competitions",
+      "key_vocab": ["il migliore", "il peggiore", "buonissimo", "ottimo", "la gara", "il giudice", "il premio", "il sapore", "dolce", "salato"],
+      "a_plot": "Matteo organises a tiramisù contest at the bar. Lucia enters with Anna's recipe, Samira with her own version, and Ben with a 'reinvented' one.",
+      "b_plot": "Franco is the judge, and must choose between his late wife's recipe made by his girlfriend and everyone else.",
+      "runner": "Ornella rates everything 'discreto', the highest compliment she gives."
+    },
+    {
+      "id": "s02e18", "level": "A2",
+      "title": { "it": "Piano piano", "en": "Slowly, Slowly" },
+      "grammar": { "id": "g-adverbs-mente", "name": "Adverbs: -mente; molto, tanto, troppo, poco", "scope": "forming adverbs in -mente; bene/male; molto/tanto/troppo/poco as adjectives (agreeing) vs adverbs (invariable)" },
+      "theme": "Sports, fitness, bocce",
+      "key_vocab": ["lentamente", "velocemente", "facilmente", "le bocce", "la partita", "giocare", "vincere", "perdere", "la squadra", "l'allenamento"],
+      "a_plot": "Franco's bocce team needs a fourth player for the spring tournament. The only one available is Ben.",
+      "b_plot": "Nadia's doctor tells her to slow down; she doesn't know how. Matteo tries to do everything for her, too fast and too much.",
+      "arc": "Ben–Franco: teammates."
+    },
+    {
+      "id": "s02e19", "level": "A2",
+      "title": { "it": "Da quanto tempo?", "en": "How Long?" },
+      "grammar": { "id": "g-da-duration", "name": "Duration: da, per, fa", "scope": "present + da for ongoing actions (abito qui da sei mesi); per + passato prossimo; fa; da quanto tempo...?" },
+      "theme": "Work history, CVs, experience",
+      "key_vocab": ["da quanto tempo", "da", "per", "il curriculum", "l'esperienza", "il colloquio", "l'azienda", "il settore", "cercare lavoro", "assumere"],
+      "a_plot": "Ben writes his first Italian CV for a marketing job in Milan, then wonders if he wants it. He has worked at the bar for two months.",
+      "b_plot": "Roberto has been president of the committee for twelve years. Marina asks him when he'll stop.",
+      "runner": "Ornella: 'Abito in questa strada da cinquantadue anni.'"
+    },
+    {
+      "id": "s02e20", "level": "A2",
+      "title": { "it": "La Festa dei Tigli", "en": "The Linden Festival" },
+      "grammar": { "id": "g-verbs-prepositions", "name": "Verbs + a / di + infinitive", "scope": "cominciare a, continuare a, imparare a, aiutare a; finire di, decidere di, cercare di, provare a, smettere di, ricordarsi di" },
+      "theme": "Organising events, volunteering, festivals",
+      "key_vocab": ["organizzare", "la festa", "il volontario", "lo stand", "la musica", "la lotteria", "decidere di", "cercare di", "aiutare a", "smettere di"],
+      "a_plot": "The committee forces Ben and Roberto to co-organise the Festa dei Tigli. Rival plans, a stolen sound system, and then, somehow, the best festa in years.",
+      "b_plot": "Emma and Tommaso try to spend the evening together without their fathers noticing.",
+      "arc": "Tentpole: the Festa dei Tigli, while the lindens bloom. Ben–Roberto: a first grudging respect."
+    },
+    {
+      "id": "s02e21", "level": "A2",
+      "title": { "it": "In Italia si fa così", "en": "In Italy, That's How It's Done" },
+      "grammar": { "id": "g-si-impersonal", "name": "Impersonal si", "scope": "si + third-person singular verb for general statements (si mangia, non si fa); si + plural noun agreement as a preview" },
+      "theme": "Customs, manners, unwritten rules",
+      "key_vocab": ["si mangia", "si dice", "non si fa", "l'abitudine", "la tradizione", "a tavola", "il galateo", "la regola", "normale", "strano"],
+      "a_plot": "Ben writes a list of 'Italian rules' for his cookbook: no cappuccino after 11, no pineapple on pizza, no leaving the table. Franco corrects every one, and adds ten more.",
+      "b_plot": "Samira and Lucia plan the baby shower (not an Italian tradition). What is done and not done in two cultures.",
+      "runner": "Leo breaks every rule on the list in one day."
+    },
+    {
+      "id": "s02e22", "level": "A2",
+      "title": { "it": "Qualcosa per l'estate", "en": "Something for the Summer" },
+      "grammar": { "id": "g-indefinites", "name": "Indefinite adjectives and pronouns", "scope": "qualcuno, qualcosa, ognuno, ogni, tutto/tutti, alcuni, qualche + singular, nessuno, altro, molti/pochi" },
+      "theme": "Summer holidays, the beach, packing",
+      "key_vocab": ["qualcosa", "qualcuno", "ogni", "tutti", "alcuni", "qualche", "le vacanze", "il mare", "la valigia", "l'ombrellone"],
+      "a_plot": "Summer plans: everyone wants something different. Chiara wants the mountains, Ben the beach, Emma to stay home (with Tommaso), and Leo to go everywhere.",
+      "b_plot": "The builders have gone on holiday. All of them. For all of August.",
+      "runner": "Qualcuno has eaten all the gelato. Everyone suspects someone."
+    },
+    {
+      "id": "s02e23", "level": "A2",
+      "title": { "it": "In farmacia", "en": "At the Pharmacy" },
+      "grammar": { "id": "g-bisogna-bisogno", "name": "Necessity: bisogna, avere bisogno di, è necessario", "scope": "bisogna + infinitive; avere bisogno di + noun/infinitive; è necessario/importante + infinitive; mi fa male / mi fanno male" },
+      "theme": "Health, the body, the pharmacy",
+      "key_vocab": ["la testa", "la pancia", "la schiena", "mi fa male", "la medicina", "la ricetta", "la crema", "la febbre", "il medico", "avere bisogno di"],
+      "a_plot": "Ben gets a terrible sunburn at the pool and has to go to the pharmacy, where Nadia is working. He tries to describe his symptoms; the whole queue helps.",
+      "b_plot": "Nadia's check-up. Matteo comes with 30 questions written down, and the doctor needs only five minutes.",
+      "runner": "Franco's remedy for everything: 'Bisogna mangiare.'"
+    },
+    {
+      "id": "s02e24", "level": "A2",
+      "title": { "it": "Nel muro", "en": "In the Wall" },
+      "grammar": { "id": "g-ordinals-years", "name": "Ordinal numbers, years, centuries", "scope": "primo–decimo and -esimo; saying years (nel 1975); decades; il Novecento; floors (al secondo piano)" },
+      "theme": "History, the past of the house and street",
+      "key_vocab": ["primo", "secondo", "terzo", "l'anno", "il secolo", "il Novecento", "la lettera", "vecchio", "antico", "la scoperta"],
+      "a_plot": "The last day of the works: inside the old kitchen wall the builders find a tin box with letters and photos from 1975. Whose are they?",
+      "b_plot": "Ornella recognises the handwriting: the house used to belong to a family she knew. She tells Ben and Leo the street's history, from the first houses in 1962.",
+      "arc": "Planted: the tin box connects to Anna and Franco's youth (it pays off in S3)."
+    },
+    {
+      "id": "s02e25", "level": "A2",
+      "title": { "it": "Ferragosto", "en": "Ferragosto" },
+      "grammar": { "id": "g-review-pp", "name": "Review: passato prossimo and pronouns", "scope": "Consolidation of passato prossimo (avere/essere, irregulars, reflexives) with direct/indirect pronouns, ci and ne; telling the story of a season" },
+      "theme": "Summer holiday, looking back, celebrations",
+      "key_vocab": ["Ferragosto", "la grigliata", "il brindisi", "finalmente", "com'è andata", "è successo", "insieme", "la cucina nuova", "l'estate", "ricordare"],
+      "a_plot": "The house is finally finished. The first dinner in the new kitchen: everyone tells the story of the renovation, each version different.",
+      "b_plot": "Late that night, Emma and Tommaso share their first kiss by the hedge, and Roberto sees it from his window.",
+      "arc": "SEASON FINALE: home completed; Emma and Tommaso are out in the open (to Roberto, at least)."
+    }
+  ]
+}

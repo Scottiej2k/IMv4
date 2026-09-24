@@ -1,0 +1,258 @@
+{
+  "season": 4,
+  "title": { "it": "Progetti", "en": "Plans" },
+  "level": "B1",
+  "months": "March–August, year 2",
+  "chapters": [
+    {
+      "id": "s04e01", "level": "B1",
+      "title": { "it": "Ci sposeremo a giugno", "en": "We'll Get Married in June" },
+      "grammar": { "id": "g-futuro-semplice", "name": "Futuro semplice: regular forms", "scope": "regular future of -are/-ere/-ire; -care/-gare, -ciare/-giare spellings; future for plans and predictions; present-for-future contrast" },
+      "theme": "Weddings, plans, the future",
+      "key_vocab": ["il matrimonio", "sposarsi", "la cerimonia", "gli invitati", "il ricevimento", "organizzare", "la data", "il testimone", "l'abito da sposa", "il fidanzamento"],
+      "a_plot": "The engagement party at Franco's. Everyone has plans for the wedding: Lucia's, Franco's, Chiara's and Samira's. They don't match.",
+      "b_plot": "Ben announces a plan of his own: he will start a business. Nobody hears him over the wedding talk.",
+      "arc": "Season premiere: the wedding arc and Ben's business arc begin."
+    },
+    {
+      "id": "s04e02", "level": "B1",
+      "title": { "it": "Cosa farai da grande?", "en": "What Will You Do When You Grow Up?" },
+      "grammar": { "id": "g-futuro-irregular", "name": "Futuro semplice: irregular forms", "scope": "sarò, avrò, andrò, verrò, vorrò, potrò, dovrò, saprò, vedrò, vivrò, farò, dirò, berrò, rimarrò, terrò" },
+      "theme": "Careers, ambitions, life plans",
+      "key_vocab": ["la carriera", "il sogno", "diventare", "l'università", "la professione", "l'ingegnere", "l'avvocato", "il musicista", "l'imprenditore", "da grande"],
+      "a_plot": "Career day at Leo's school: he says he will be 'barista like Dad'. Ben is touched, and worried.",
+      "b_plot": "Emma, at the liceo's orientation day, has no idea what she will do. Tommaso already knows: music conservatory.",
+      "runner": "Franco predicts every family member's future. Every prediction is terrible."
+    },
+    {
+      "id": "s04e03", "level": "B1",
+      "title": { "it": "Dove sarà?", "en": "Where Could He Be?" },
+      "grammar": { "id": "g-futuro-probability", "name": "Future of probability", "scope": "future for suppositions about the present (sarà a casa, avrà vent'anni); saranno le otto; contrast with forse / probabilmente" },
+      "theme": "Guessing, mysteries, suppositions",
+      "key_vocab": ["forse", "probabilmente", "chissà", "sarà", "avrà", "l'ipotesi", "sparire", "misterioso", "la traccia", "lo sconosciuto"],
+      "a_plot": "Lucia's son Gennaro was supposed to arrive from London for the engagement, and he isn't answering. Where will he be? Theories multiply at the bar.",
+      "b_plot": "A mysterious stranger has been sitting at Bar Tigli every morning for a week, taking notes. A food critic? An inspector? A rival?",
+      "arc": "Planted: the stranger is an inspector from the council (it pays off with the E15 permits)."
+    },
+    {
+      "id": "s04e04", "level": "B1",
+      "title": { "it": "Quando avrò finito", "en": "When I've Finished" },
+      "grammar": { "id": "g-futuro-anteriore", "name": "Futuro anteriore", "scope": "formation (avrò fatto, sarò arrivato); after quando/appena/dopo che; supposition about the past (avrà dimenticato)" },
+      "theme": "Deadlines, work projects, time management",
+      "key_vocab": ["la scadenza", "consegnare", "il cliente", "la riunione", "il progetto", "appena", "dopo che", "in tempo", "il capo", "la trasferta"],
+      "a_plot": "Marchetti gives Chiara the studio's biggest project: a building in Rome. It will mean three days a week away. 'Quando avrò finito, tornerò a casa.'",
+      "b_plot": "Gennaro finally arrives: he will have missed the train, lost his phone... he did both. He's charming and chaotic; Franco doesn't approve.",
+      "arc": "Chiara's Rome project begins."
+    },
+    {
+      "id": "s04e05", "level": "B1",
+      "title": { "it": "Al posto tuo", "en": "If I Were You" },
+      "grammar": { "id": "g-condizionale-forms", "name": "Condizionale presente: full forms and uses", "scope": "regular and irregular conditional; advice (dovresti), wishes (vorrei), polite requests, hypothetical opinions (al posto tuo / io farei)" },
+      "theme": "Advice, etiquette, wedding traditions",
+      "key_vocab": ["dovresti", "potresti", "al posto tuo", "io farei", "il consiglio", "la tradizione", "le bomboniere", "i confetti", "la lista nozze", "il galateo"],
+      "a_plot": "Everyone gives Lucia and Franco advice about the wedding. Ornella would do it 'as it was done once'; Samira would do it bigger; Emma would do it on Instagram.",
+      "b_plot": "Ben asks Nadia for advice about his business idea: cooking classes for foreigners, plus American brunch at the bar. She'd say... 'Dovresti fare un business plan.'",
+      "runner": "Confetti, the sugared almonds: how many, what colour, why?"
+    },
+    {
+      "id": "s04e06", "level": "B1",
+      "title": { "it": "Avrei dovuto dirtelo", "en": "I Should Have Told You" },
+      "grammar": { "id": "g-condizionale-passato", "name": "Condizionale passato", "scope": "formation (avrei fatto, sarei andato); regrets (avrei dovuto), missed opportunities; future in the past as a preview (ha detto che sarebbe venuto)" },
+      "theme": "Regrets, apologies, missed chances",
+      "key_vocab": ["avrei dovuto", "avrei voluto", "sarebbe stato", "il rimpianto", "chiedere scusa", "perdonare", "l'errore", "l'occasione", "troppo tardi", "rimediare"],
+      "a_plot": "Chiara accepted the Rome project without talking to Ben. Now she's in Rome and he's alone with the kids, the bar and the new business. 'Avresti dovuto chiedermelo.'",
+      "b_plot": "Franco tells Gennaro he should have visited his mother more often. Gennaro tells Franco he should have mentioned he was dating his mother.",
+      "arc": "Ben–Chiara strain."
+    },
+    {
+      "id": "s04e07", "level": "B1",
+      "title": { "it": "Il posto giusto", "en": "The Right Place" },
+      "grammar": { "id": "g-relatives-advanced", "name": "Relative pronouns: il quale, ciò che, quello che, chi", "scope": "il quale/la quale/i quali/le quali; ciò che / quello che; chi (whoever, he who); tutto ciò che" },
+      "theme": "Describing places, venues, requirements",
+      "key_vocab": ["il locale", "la sala", "la villa", "il giardino", "la capienza", "ciò che", "quello che", "chi", "il quale", "il preventivo"],
+      "a_plot": "The venue hunt: villas, restaurants, a hall. Nothing is 'ciò che vogliamo'. Then Leo asks: 'Why not the orto?'",
+      "b_plot": "Ben looks for 'the right place' for his cooking classes. The bar's kitchen is too small; the Centro civico has rules; Roberto has more rules.",
+      "arc": "Decision: the reception will be held in Franco's orto."
+    },
+    {
+      "id": "s04e08", "level": "B1",
+      "title": { "it": "Non l'avevo mai detto", "en": "I Had Never Said It" },
+      "grammar": { "id": "g-trapassato-prossimo", "name": "Trapassato prossimo", "scope": "formation (avevo fatto, ero andato); an action before another past action; già/mai/appena with trapassato" },
+      "theme": "Family pasts, backstory, divorce and second chances",
+      "key_vocab": ["il divorzio", "l'ex marito", "separarsi", "la seconda possibilità", "prima di allora", "già", "non ... mai", "il passato", "confessare", "ricominciare"],
+      "a_plot": "Gennaro tells Chiara what Lucia had gone through before she met Franco: the divorce, the years alone in Milan. Chiara sees Lucia differently.",
+      "b_plot": "Nadia reveals to Matteo that she had already applied for a job at a pharmacy in Milan before the baby. She had never told him.",
+      "arc": "Chiara–Lucia: full respect. Nadia–Matteo tension planted."
+    },
+    {
+      "id": "s04e09", "level": "B1",
+      "title": { "it": "Non ce la faccio più", "en": "I Can't Take It Any More" },
+      "grammar": { "id": "g-pronominal-verbs", "name": "Pronominal verbs", "scope": "farcela, andarsene, cavarsela, prendersela, smetterla, sentirsela, metterci; forms in present and past (ce l'ho fatta, se n'è andato)" },
+      "theme": "Stress, conflict, coping",
+      "key_vocab": ["farcela", "andarsene", "cavarsela", "prendersela", "smetterla", "sentirsela", "lo stress", "stanco morto", "sfogarsi", "la pazienza"],
+      "a_plot": "Ben, alone all week with the kids, the bar and his business plan, finally cracks. He walks out of the house and ends up at Franco's orto at midnight.",
+      "b_plot": "Franco, who never gives advice, gives Ben advice. It's about Anna, and it's good.",
+      "arc": "Ben–Franco: father and son."
+    },
+    {
+      "id": "s04e10", "level": "B1",
+      "title": { "it": "Me lo faccio fare", "en": "I'll Have It Done" },
+      "grammar": { "id": "g-fare-causative", "name": "Fare + infinitive (causative)", "scope": "fare fare, far vedere, far sapere; farsi + infinitive (farsi tagliare i capelli); pronouns with causatives" },
+      "theme": "Services, getting things done: tailor, florist, hairdresser",
+      "key_vocab": ["il sarto", "il fiorista", "il parrucchiere", "far vedere", "far sapere", "farsi fare", "l'appuntamento", "la prova", "l'orlo", "su misura"],
+      "a_plot": "Franco has a suit made for the wedding by the tailor who made his first one, 45 years ago. He also has his hair cut for the first time in a salon.",
+      "b_plot": "Lucia has everything done for her by professionals, except the wedding cake, which she makes herself and lets nobody see.",
+      "runner": "Ben: 'Mi faccio fare un logo!' (Emma designs it for free.)"
+    },
+    {
+      "id": "s04e11", "level": "B1",
+      "title": { "it": "Imparando si sbaglia", "en": "You Make Mistakes While Learning" },
+      "grammar": { "id": "g-gerundio-uses", "name": "Uses of the gerund", "scope": "gerund for manner, means, cause and time (sbagliando s'impara, camminando, essendo stanco); pronouns attached (parlandone); subject rules" },
+      "theme": "Teaching and learning, methods, mistakes",
+      "key_vocab": ["insegnare", "il metodo", "sbagliando s'impara", "la pratica", "l'errore", "migliorare", "l'allievo", "spiegare", "la pazienza", "provare"],
+      "a_plot": "Ben prepares his first cooking class for foreigners. How do you teach? He studies Alberto's methods, and his own mistakes as a learner.",
+      "b_plot": "Emma tutors Leo for his Italian test, and discovers she's a good teacher (and that she's now more Italian than American).",
+      "runner": "Franco's proverb: 'Sbagliando s'impara.'"
+    },
+    {
+      "id": "s04e12", "level": "B1",
+      "title": { "it": "La prima lezione", "en": "The First Class" },
+      "grammar": { "id": "g-infinitive-constructions", "name": "Infinitive constructions", "scope": "prima di + infinitive; dopo + infinito passato (dopo aver mangiato, dopo essere arrivati); senza + infinitive; invece di + infinitive" },
+      "theme": "Cooking class, cooking verbs, food from around the world",
+      "key_vocab": ["prima di", "dopo aver", "senza", "invece di", "impastare", "soffriggere", "rosolare", "assaggiare", "il grembiule", "la lezione di cucina"],
+      "a_plot": "Ben's first cooking class for foreigners at Bar Tigli: a Japanese engineer, a German couple and an American exchange student. It's a huge success. Then, in the tag, a small fire.",
+      "b_plot": "Franco watches from the door, pretending he's just passing by.",
+      "arc": "TENTPOLE: Ben's first professional success in Italy."
+    },
+    {
+      "id": "s04e13", "level": "B1",
+      "title": { "it": "Sempre più clienti", "en": "More and More Customers" },
+      "grammar": { "id": "g-comparisons-advanced", "name": "Advanced comparisons", "scope": "più ... di quanto / di quello che; meglio vs migliore, peggio vs peggiore; sempre più / sempre meno; più ... più" },
+      "theme": "Business, competition, customers",
+      "key_vocab": ["la concorrenza", "il cliente", "la recensione", "il prezzo", "la qualità", "sempre più", "meglio", "peggio", "di quanto", "la pubblicità"],
+      "a_plot": "A new trendy café opens in the piazza with 'American brunch' and lower prices. Ben's classes and Matteo's bar face their first real competition.",
+      "b_plot": "Emma and Tommaso compare everything: families, futures, music. 'Più ci penso, meno capisco.'",
+      "runner": "The online reviews for Bar Tigli, read aloud by Matteo."
+    },
+    {
+      "id": "s04e14", "level": "B1",
+      "title": { "it": "Ci si abitua", "en": "You Get Used to It" },
+      "grammar": { "id": "g-si-impersonal-reflexive", "name": "Impersonal si with reflexive verbs; si + adjectives", "scope": "ci si alza, ci si abitua; si è stanchi (plural adjective); impersonal si in compound tenses (si è mangiato bene)" },
+      "theme": "Work culture, adapting, Italian workplace habits",
+      "key_vocab": ["ci si abitua", "adattarsi", "l'abitudine", "la pausa pranzo", "il ponte", "le ferie", "lo straordinario", "il collega", "la mentalità", "puntuale"],
+      "a_plot": "Chiara in Rome is homesick for Borgoverde. In Rome people work differently, eat differently and speak differently. 'Ci si abitua,' says her Roman colleague.",
+      "b_plot": "Ben's German students ask him how you get used to Italy. He gives a speech he didn't know he had in him.",
+      "arc": "Chiara begins to question the Rome project."
+    },
+    {
+      "id": "s04e15", "level": "B1",
+      "title": { "it": "Gentile Ufficio", "en": "Dear Office" },
+      "grammar": { "id": "g-formal-writing", "name": "Formal emails and letters", "scope": "formal openings and closings (Gentile..., Egregio..., Cordiali saluti, In attesa di un Suo riscontro); polite conditional; formal Lei in writing" },
+      "theme": "Bureaucracy, permits, formal correspondence",
+      "key_vocab": ["gentile", "egregio", "cordiali saluti", "la richiesta", "l'autorizzazione", "l'allegato", "in attesa di", "il riscontro", "la normativa", "la SCIA"],
+      "a_plot": "The mysterious stranger from E3 was a council inspector: the cooking classes need an authorisation. Ben must write formal emails, and Roberto (of all people) helps him.",
+      "b_plot": "Emma writes a formal email to her headmistress asking for a summer exchange programme in Ireland.",
+      "arc": "Ben–Roberto: the first alliance."
+    },
+    {
+      "id": "s04e16", "level": "B1",
+      "title": { "it": "Lasciala andare", "en": "Let Her Go" },
+      "grammar": { "id": "g-lasciare-permettere", "name": "Lasciare + infinitive; permettere di", "scope": "lasciare fare, lasciar perdere, lasciami stare; permettere di / vietare di; pronouns with lasciare" },
+      "theme": "Parenting teenagers, freedom and trust",
+      "key_vocab": ["lasciare", "permettere", "vietare", "fidarsi", "la libertà", "lo scambio", "l'estero", "maggiorenne", "il permesso", "lasciar perdere"],
+      "a_plot": "Emma wants to spend the summer in Dublin on an exchange. Ben says 'lasciala andare'; Chiara, from Rome, says no.",
+      "b_plot": "Franco lets Leo drive the old tractor at a friend's farm, without telling anyone. Chiara finds out.",
+      "arc": "Emma's independence arc."
+    },
+    {
+      "id": "s04e17", "level": "B1",
+      "title": { "it": "La prima comunione", "en": "The First Communion" },
+      "grammar": { "id": "g-indirect-questions", "name": "Indirect questions", "scope": "mi chiedo se, non so cosa/chi/dove/come, dimmi perché; si vs se; indicative in indirect questions (the subjunctive comes later)" },
+      "theme": "Religion, ceremonies, traditions and beliefs",
+      "key_vocab": ["la comunione", "la parrocchia", "il catechismo", "credere", "la fede", "la cerimonia", "mi chiedo se", "non so perché", "la tradizione", "il pranzo"],
+      "a_plot": "Leo's First Communion, which Franco insisted on. Ben and Chiara aren't sure what they believe; Leo has many questions for Don Luigi.",
+      "b_plot": "The Communion lunch: 40 people and six courses. Samira brings food for 80.",
+      "arc": "TENTPOLE: the whole ensemble; Franco's joy."
+    },
+    {
+      "id": "s04e18", "level": "B1",
+      "title": { "it": "Contento di te", "en": "Pleased with You" },
+      "grammar": { "id": "g-adjectives-prepositions", "name": "Adjectives and nouns + prepositions", "scope": "contento di, capace di, pronto a, abituato a, stanco di, interessato a, bravo a/in, la voglia di, il bisogno di" },
+      "theme": "Emotions, character, relationships",
+      "key_vocab": ["contento di", "stanco di", "pronto a", "capace di", "abituato a", "orgoglioso di", "geloso di", "deluso da", "la voglia di", "la paura di"],
+      "a_plot": "Tommaso is accepted into a summer music course in Siena. Emma is proud of him and jealous of him; she has nothing of her own yet.",
+      "b_plot": "Matteo is 'stanco di' being the one who doesn't finish things. He challenges himself to complete one project: the bar's new terrace.",
+      "runner": "Ornella: 'Sono orgogliosa di te,' to Ben. He writes it in his notebook."
+    },
+    {
+      "id": "s04e19", "level": "B1",
+      "title": { "it": "Rifare tutto", "en": "Redo Everything" },
+      "grammar": { "id": "g-word-formation", "name": "Word formation: prefixes and suffixes", "scope": "prefixes ri-, s-, dis-, in-/im-; noun suffixes -zione, -mento, -tore/-trice, -ista, -ezza, -ità; forming words from verbs and adjectives" },
+      "theme": "Jobs and professions; building and making",
+      "key_vocab": ["rifare", "scontento", "disordinato", "impossibile", "la costruzione", "il cambiamento", "il lavoratore", "la farmacista", "la bellezza", "la difficoltà"],
+      "a_plot": "Matteo's terrace project goes wrong: he has to redo everything, and discovers he likes building. His father the tram driver was a builder too, before the trams.",
+      "b_plot": "Nadia is offered the job in Milan she had applied for (S4E8). She has to decide: stay at Farmacia Centrale or become the 'direttrice' of a new pharmacy.",
+      "arc": "Nadia's career decision."
+    },
+    {
+      "id": "s04e20", "level": "B1",
+      "title": { "it": "Costa un occhio della testa", "en": "It Costs an Arm and a Leg" },
+      "grammar": { "id": "g-idioms-body", "name": "Idioms with the body", "scope": "costare un occhio della testa, avere le mani bucate, in bocca al lupo, avere la testa fra le nuvole, a occhio e croce, non chiudere occhio, essere in gamba, prendere in giro" },
+      "theme": "Money and spending; wedding budget",
+      "key_vocab": ["costare un occhio della testa", "avere le mani bucate", "a occhio e croce", "in gamba", "prendere in giro", "la testa fra le nuvole", "il budget", "il risparmio", "il catering", "spendere"],
+      "a_plot": "The wedding budget explodes. Lucia has 'le mani bucate'; Franco has 'il braccino corto' (he's stingy). Chiara, from Rome, takes over the spreadsheet.",
+      "b_plot": "Leo collects idioms in a notebook, like his father, and uses them all at the wrong moments.",
+      "runner": "Ben translates idioms literally for his students, with disastrous results."
+    },
+    {
+      "id": "s04e21", "level": "B1",
+      "title": { "it": "I piatti li lavo io", "en": "I'll Do the Dishes" },
+      "grammar": { "id": "g-dislocation", "name": "Colloquial dislocation", "scope": "left dislocation with resumptive pronoun (il caffè lo prendo io, a Marco gli ho detto...); right dislocation (lo so, che hai ragione); ne and ci in dislocation" },
+      "theme": "Housework, chores, dividing tasks",
+      "key_vocab": ["le faccende", "lavare i piatti", "stirare", "passare l'aspirapolvere", "fare il bucato", "stendere", "la lavastoviglie", "tocca a", "i compiti di casa", "dividere"],
+      "a_plot": "Chiara returns from Rome to a house that functions perfectly without her. Who does what? She feels useless, the way Ben felt in S1.",
+      "b_plot": "Lucia and Franco divide the chores in their house. Franco has never ironed in his life.",
+      "arc": "Chiara decides to cut back on Rome."
+    },
+    {
+      "id": "s04e22", "level": "B1",
+      "title": { "it": "Anche se piove", "en": "Even If It Rains" },
+      "grammar": { "id": "g-conjunctions-b1", "name": "Conjunctions with the indicative", "scope": "anche se, dato che, poiché, visto che, mentre (contrast), eppure, comunque, dal momento che; linking reasons and contrasts" },
+      "theme": "Travel, exchange programmes, departures",
+      "key_vocab": ["anche se", "dato che", "poiché", "visto che", "eppure", "comunque", "la partenza", "il volo", "la famiglia ospitante", "l'avventura"],
+      "a_plot": "Emma leaves for Dublin, 'anche se' Chiara isn't ready. At Malpensa airport, the whole family, and Tommaso, who's leaving for Siena the next day.",
+      "b_plot": "Ben finds Emma's old notebook: songs about Chicago, then Borgoverde, then Tommaso.",
+      "arc": "Emma leaves for the summer."
+    },
+    {
+      "id": "s04e23", "level": "B1",
+      "title": { "it": "Domani pioverà?", "en": "Will It Rain Tomorrow?" },
+      "grammar": { "id": "g-future-review-weather", "name": "Future and present for the future; forecasts", "scope": "future vs present for scheduled events; the weather forecast language (previsioni: pioverà, ci saranno temporali, temperature in aumento)" },
+      "theme": "Weather forecasts, summer storms, contingency plans",
+      "key_vocab": ["le previsioni", "il temporale", "la grandine", "la temperatura", "in aumento", "sereno", "nuvoloso", "l'afa", "il piano B", "il tendone"],
+      "a_plot": "One week before the outdoor wedding, the forecast says storms. Franco checks the forecast 40 times a day. Ben and Roberto build a plan B together.",
+      "b_plot": "Gennaro and Chiara plan a surprise for the reception: a video with Anna's and Lucia's old photos from the dance class.",
+      "runner": "Ornella predicts the weather from her knee. She's more accurate than the app."
+    },
+    {
+      "id": "s04e24", "level": "B1",
+      "title": { "it": "Innanzitutto, grazie", "en": "First of All, Thank You" },
+      "grammar": { "id": "g-discourse-markers-speech", "name": "Structuring a speech", "scope": "innanzitutto, in primo luogo, inoltre, oltre a, per quanto riguarda, infine, per concludere; addressing an audience" },
+      "theme": "Speeches, toasts, public speaking",
+      "key_vocab": ["innanzitutto", "inoltre", "per quanto riguarda", "infine", "per concludere", "il discorso", "il testimone", "commuovere", "ringraziare", "il pubblico"],
+      "a_plot": "Franco asks Ben to be his best man. Ben must write the speech in Italian, the most important Italian text of his life so far.",
+      "b_plot": "Emma, back early from Dublin for the wedding, helps him write it, and cuts all his jokes.",
+      "arc": "Ben as Franco's testimone: full acceptance."
+    },
+    {
+      "id": "s04e25", "level": "B1",
+      "title": { "it": "Il matrimonio", "en": "The Wedding" },
+      "grammar": { "id": "g-review-b1a", "name": "Review: future, conditional, pronouns", "scope": "Consolidation of futuro semplice/anteriore, condizionale presente/passato, combined and pronominal forms, relative pronouns, speech structure" },
+      "theme": "Weddings, celebration, family",
+      "key_vocab": ["gli sposi", "la fede", "lo sposo", "la sposa", "il bouquet", "il primo ballo", "evviva gli sposi", "la torta nuziale", "il riso", "per sempre"],
+      "a_plot": "The wedding at San Vittore and the reception in the orto. Storm clouds, then sun. Ben's speech, the video of Anna and Lucia, and the first dance: a tango.",
+      "b_plot": "Nadia tells Matteo her decision about the Milan job (open ending for S5). Emma and Tommaso dance by the hedge.",
+      "arc": "SEASON FINALE: Franco and Lucia are married."
+    }
+  ]
+}

@@ -5,7 +5,8 @@ this document, but not neither.
 
 ## 1. Scope
 
-- **About 200 chapters**, A1 → B2, in 8 seasons of 25 episodes.
+- **200 chapters**, A1 → B2, in 8 seasons of 25 episodes: one new concept per chapter
+  (see `curriculum/README.md` for how the count was reached).
 - Every chapter = **lesson** (vocabulary + grammar, roughly 15–25 min) **plus a story of about 45 minutes'
   reading time at the learner's level**.
 - **Language:** strictly standard Italian. Colloquial phrases, figures of speech and idioms are welcome;
@@ -13,7 +14,7 @@ this document, but not neither.
 - **Setting:** a residential neighbourhood outside a major Italian city. Daily life is suburban;
   city dialogue comes naturally from trips, commutes and references to the nearby metro area.
 
-### Level plan (proposal, finalised in the curriculum)
+### Level plan
 
 | Level | Seasons | Chapters | Reading speed assumed | Story length (Italian words) |
 |---|---|---|---|---|
@@ -37,7 +38,7 @@ lexicon (`curriculum/lexicon.csv`).
 - **Recycling:** each focus item appears **at least 3 times** in its own chapter and comes back in at
   least 2 later chapters (tracked in the lexicon).
 - **Grammar ceiling:** a chapter may only use structures introduced up to that chapter
-  (`curriculum/chapters.json` lists them). Harder structures may appear as fixed phrases
+  (`curriculum/grammar-index.md` lists them in order). Harder structures may appear as fixed phrases
   (for example *vorrei* at A1) if they are glossed in the vocabulary list.
 - **Sentence length guide** (average words per sentence): A1 ≤ 8 · A2 ≤ 12 · B1 ≤ 16 · B2 free.
 
@@ -132,7 +133,7 @@ See `docs/tts-format.md`.
 
 ## 5. Workflow per chapter
 
-1. Check the chapter's row in `curriculum/chapters.json` (grammar, vocabulary theme, plot beats).
+1. Check the chapter's plan in `curriculum/seasons/sNN.json` (grammar, vocabulary theme, plot beats).
 2. Read the continuity log and the relevant character profiles.
 3. Write `chapter.json`, then `grammar.md`.
 4. Run the build: schema validation, lexicon coverage report, grammar-ceiling hints, generating all outputs.

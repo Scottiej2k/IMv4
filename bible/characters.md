@@ -185,6 +185,10 @@ skateboards and says little.
 | `don-luigi` | Don Luigi | Parish priest | The festa, the wedding |
 | `sindaca` | Sindaca Valeria Conti | Mayor of Borgoverde | Seasons 5–6 politics |
 | `ben-parents` | Doug & Linda Carter | Ben's parents from Ohio | The S3 visit, where Ben becomes the translator |
-| `okafor` | Grace & Daniel Okafor | New family from London | S7: the new newcomers, whom Ben mentors |
+| `grace` | Dr Grace Okafor | Doctor from London, working at the hospital in Monza; moves to Via dei Tigli 7 | S7–S8: the new newcomer, whom Ben mentors |
+| `daniel` | Daniel Okafor | Grace's son, two years older than Leo (13 in S7) | S7–S8: Leo's friend; learning Italian from zero |
+| `sergio` | Sergio | The builders' foreman | S2 renovation. Catchphrase: *Nessun problema.* |
+| `irina` | Irina | Ornella's Ukrainian carer, a nurse with a sense of humour | S5–S8 |
+| `mike` | Mike | Ben's old friend from Chicago | S5 visit |
 
 Minor characters get a voice in `config/voices.json` only once they have lines.

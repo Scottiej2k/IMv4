@@ -1,0 +1,258 @@
+{
+  "season": 8,
+  "title": { "it": "Maturità", "en": "Coming of Age" },
+  "level": "B2",
+  "months": "March–July, year 4",
+  "chapters": [
+    {
+      "id": "s08e01", "level": "B2",
+      "title": { "it": "Cento giorni", "en": "A Hundred Days" },
+      "grammar": { "id": "g-argumentative-essay", "name": "Structuring an argument", "scope": "thesis, antithesis, synthesis; argumentative connectors (innanzitutto, d'altra parte, in secondo luogo, ne deriva che, in conclusione); the Italian 'tema argomentativo'" },
+      "theme": "The maturità, exams, school traditions",
+      "key_vocab": ["la maturità", "la prima prova", "la tesi", "l'antitesi", "d'altra parte", "ne deriva che", "in conclusione", "argomentare", "la notte prima degli esami", "i cento giorni"],
+      "a_plot": "100 days before the maturità: Emma's class celebrates the traditional 'cento giorni'. Emma must also decide: Milan, Bologna or Chicago?",
+      "b_plot": "Ben's cookbook, 'Un americano in Via dei Tigli', gets a publisher. He has to write the final chapter.",
+      "arc": "Season premiere: Emma's decision arc and Ben's book arc."
+    },
+    {
+      "id": "s08e02", "level": "B2",
+      "title": { "it": "M'illumino d'immenso", "en": "I Am Illuminated by Immensity" },
+      "grammar": { "id": "g-text-analysis", "name": "Analysing poetry and literary texts", "scope": "vocabulary of analysis (il verso, la strofa, la metafora, l'enjambement, il tono, l'io lirico); commenting on a text; comparing interpretations" },
+      "theme": "Italian poetry: Leopardi, Ungaretti, Montale",
+      "key_vocab": ["la poesia", "il verso", "la strofa", "la metafora", "l'io lirico", "il tono", "interpretare", "commuovere", "l'infinito", "la solitudine"],
+      "a_plot": "Emma studies poetry with Ornella, who knows *L'infinito* by heart, and with Franco, who knows only football chants.",
+      "b_plot": "Tommaso writes music to a Montale poem for his conservatory audition. Emma helps. Something is back between them.",
+      "arc": "Emma–Tommaso: back together."
+    },
+    {
+      "id": "s08e03", "level": "B2",
+      "title": { "it": "Nel 1946 gli italiani votano", "en": "In 1946 Italians Vote" },
+      "grammar": { "id": "g-historical-present", "name": "The historical present and narrative style", "scope": "historical present in history writing and oral narration; switching tenses for vividness; dates and periods" },
+      "theme": "20th-century Italian history: the Republic, the economic boom",
+      "key_vocab": ["la Repubblica", "il referendum", "la Costituzione", "il dopoguerra", "il boom economico", "l'emigrazione", "gli anni di piombo", "la storia", "il voto alle donne", "la memoria"],
+      "a_plot": "Emma's history revision: Ornella, Franco and Lucia each tell a piece of 20th-century history they lived. It becomes a family oral history.",
+      "b_plot": "Leo's school project on 2 June (Festa della Repubblica) interviews Ornella, who voted in 1946... almost.",
+      "runner": "Ornella's age math: was she even born? (She was, barely.)"
+    },
+    {
+      "id": "s08e04", "level": "B2",
+      "title": { "it": "L'orale", "en": "The Oral Exam" },
+      "grammar": { "id": "g-oral-presentation", "name": "Oral presentations", "scope": "opening and structuring a talk; signposting (passo ora a, come accennato, vorrei soffermarmi su); handling questions; formal spoken register" },
+      "theme": "Presentations, public speaking, confidence",
+      "key_vocab": ["la presentazione", "passo ora a", "vorrei soffermarmi su", "come accennato", "la commissione", "il colloquio", "l'elaborato", "l'ansia", "rispondere", "la sicurezza"],
+      "a_plot": "Emma prepares her oral exam presentation: 'Due case, una lingua' (two homes, one language). She rehearses to the whole family at dinner.",
+      "b_plot": "Chiara presents her first big project for Studio Ferri: the new community centre in the saved park.",
+      "arc": "Chiara's studio's first big project."
+    },
+    {
+      "id": "s08e05", "level": "B2",
+      "title": { "it": "Che io sappia", "en": "As Far as I Know" },
+      "grammar": { "id": "g-congiuntivo-review-all", "name": "The subjunctive: complete review", "scope": "all four tenses and all triggers; fixed expressions (che io sappia, sia chiaro, costi quel che costi, cascasse il mondo); independent subjunctive (che venga pure!)" },
+      "theme": "Exam anxiety, stress, support",
+      "key_vocab": ["che io sappia", "sia chiaro", "costi quel che costi", "l'ansia da esame", "il ripasso", "lo stress", "il sostegno", "la notte bianca", "concentrarsi", "rilassarsi"],
+      "a_plot": "Emma's exam anxiety peaks. Every adult has advice, and all of it is subjunctive.",
+      "b_plot": "Daniel has his own exams (terza media) and a crisis of confidence in Italian. Ben tells him about S1.",
+      "arc": "Ben as mentor, full circle."
+    },
+    {
+      "id": "s08e06", "level": "B2",
+      "title": { "it": "Se avessi scelto diversamente", "en": "If I'd Chosen Differently" },
+      "grammar": { "id": "g-hypotheticals-review", "name": "Hypothetical sentences: complete review", "scope": "types I, II, III and mixed; se omitted in formal style (avessi saputo...); alternatives (in caso di, qualora, a meno che); spoken imperfetto forms recognised" },
+      "theme": "Life choices, paths not taken",
+      "key_vocab": ["scegliere", "la strada", "il bivio", "il rimpianto", "diversamente", "qualora", "avessi saputo", "il percorso", "la vocazione", "il destino"],
+      "a_plot": "Emma asks every adult: 'What would you have done if you'd chosen differently?' Chiara, Ben, Franco, Lucia and Grace all answer.",
+      "b_plot": "Matteo wonders what would have happened if he'd never bought the bar. Nadia tells him: they'd never have met.",
+      "arc": "Emma leans towards a decision."
+    },
+    {
+      "id": "s08e07", "level": "B2",
+      "title": { "it": "Uno studio di architettura", "en": "An Architecture Studio" },
+      "grammar": { "id": "g-register-journalistic", "name": "Journalistic register", "scope": "headlines, lead paragraphs, quotation verbs, passive and impersonal forms, nominal style in feature articles; writing a short article" },
+      "theme": "Architecture, design, press coverage",
+      "key_vocab": ["l'articolo", "il servizio", "il progetto architettonico", "la rigenerazione urbana", "l'intervista", "citare", "secondo quanto dichiarato", "l'inaugurazione", "la rivista", "il fotografo"],
+      "a_plot": "An architecture magazine features 'the park that a neighbourhood saved', with an interview with Chiara. She fears it will misrepresent the street.",
+      "b_plot": "Roberto is misquoted in the article and demands a formal correction, in his finest bureaucratic Italian.",
+      "runner": "Ben is described in the article as 'il marito americano'. He is offended; he's 'di Borgoverde'."
+    },
+    {
+      "id": "s08e08", "level": "B2",
+      "title": { "it": "Ai sensi dell'articolo 3", "en": "Pursuant to Article 3" },
+      "grammar": { "id": "g-register-legal", "name": "Legal and bureaucratic register", "scope": "fixed formulas (ai sensi di, in merito a, il sottoscritto, si fa presente che, entro e non oltre); passive and impersonal forms; decoding official documents" },
+      "theme": "Contracts, official documents, citizenship",
+      "key_vocab": ["ai sensi di", "in merito a", "il sottoscritto", "entro e non oltre", "la cittadinanza", "il giuramento", "la domanda", "il decreto", "la prefettura", "i requisiti"],
+      "a_plot": "Ben's Italian citizenship application (through marriage) is finally approved. The decree, the documents, and the oath at the town hall.",
+      "b_plot": "Roberto, now fluent in Ben-speak, explains the documents in plain Italian: a complete reversal of S1.",
+      "arc": "TENTPOLE: Ben becomes an Italian citizen."
+    },
+    {
+      "id": "s08e09", "level": "B2",
+      "title": { "it": "Come funziona", "en": "How It Works" },
+      "grammar": { "id": "g-register-technical", "name": "Technical and descriptive register", "scope": "describing processes and objects precisely (si procede a, viene inserito, è costituito da, serve a); impersonal and passive forms; precise verbs" },
+      "theme": "Technology, how things work, trams and machines",
+      "key_vocab": ["è costituito da", "funzionare", "il meccanismo", "il motore", "il freno", "la rotaia", "si procede", "il processo", "la manutenzione", "tecnico"],
+      "a_plot": "Franco takes Leo and Daniel to the tram depot where he worked. He explains how a 1928 'Carrelli' tram works, in the most precise Italian anyone has heard him speak.",
+      "b_plot": "Nadia explains to Matteo how the new coffee machine for the second bar works. He doesn't listen, and the machine explodes (a small explosion).",
+      "arc": "Franco's legacy to Leo."
+    },
+    {
+      "id": "s08e10", "level": "B2",
+      "title": { "it": "Un americano in Via dei Tigli", "en": "An American on Via dei Tigli" },
+      "grammar": { "id": "g-reviews-book-language", "name": "Reviews and book language", "scope": "writing and reading reviews; evaluative adjectives and adverbs; nuance in praise and criticism (non privo di, tutt'altro che, a tratti)" },
+      "theme": "Books, publishing, reviews",
+      "key_vocab": ["la presentazione del libro", "l'editore", "la recensione", "la dedica", "l'autografo", "tutt'altro che", "non privo di", "a tratti", "coinvolgente", "il lettore"],
+      "a_plot": "The book launch at Bar Tigli: 'Un americano in Via dei Tigli', a cookbook-memoir. Every neighbour finds themselves in it, and not everyone is happy about it.",
+      "b_plot": "Ornella writes Ben's first review for the local paper: 'Tutt'altro che perfetto. Perfetto così.'",
+      "arc": "TENTPOLE: Ben's book is launched."
+    },
+    {
+      "id": "s08e11", "level": "B2",
+      "title": { "it": "Ma dai, scherzavo!", "en": "Come On, I Was Joking!" },
+      "grammar": { "id": "g-humour-irony", "name": "Humour, irony and wordplay", "scope": "irony markers (figurati, come no, sì, certo...); understatement; wordplay and puns; tone and intonation in writing" },
+      "theme": "Comedy, Italian humour, teasing",
+      "key_vocab": ["scherzare", "l'ironia", "la battuta", "prendere in giro", "come no", "figurati", "il gioco di parole", "la barzelletta", "ridere", "offendersi"],
+      "a_plot": "Ben performs at an open mic comedy night in Milan, about being American in Italy. The Italian jokes land; the American ones don't.",
+      "b_plot": "Nadia's irony finally meets its match: baby Anna, now 3, has inherited it.",
+      "runner": "Franco doesn't laugh at anything, then laughs at the wrong thing."
+    },
+    {
+      "id": "s08e12", "level": "B2",
+      "title": { "it": "Si è messo a piovere", "en": "It Started Raining" },
+      "grammar": { "id": "g-verbal-periphrases", "name": "Verbal periphrases", "scope": "mettersi a, stare per, stare a + infinitive, finire per / col, andare + gerund (va migliorando), venire + gerund, continuare a, tornare a" },
+      "theme": "Change, growing up, time passing",
+      "key_vocab": ["mettersi a", "finire per", "stare a guardare", "va migliorando", "tornare a", "crescere", "cambiare", "la pubertà", "la voce", "l'altezza"],
+      "a_plot": "Leo, 12, has grown ten centimetres, his voice is changing, and he's started closing his door. Ben and Chiara notice their second child leaving childhood.",
+      "b_plot": "Franco and Leo's walks, which were once Franco teaching Leo, have turned into Leo teaching Franco (his phone).",
+      "arc": "Leo growing up."
+    },
+    {
+      "id": "s08e13", "level": "B2",
+      "title": { "it": "Vorrei chiederLe se fosse possibile", "en": "I Wanted to Ask You Whether It Would Be Possible" },
+      "grammar": { "id": "g-diplomacy-attenuation", "name": "Diplomacy and softening", "scope": "attenuation (volevo chiederLe, mi permetterei di, forse sarebbe il caso di, non vorrei sembrare...); indirect requests; softening disagreement" },
+      "theme": "Diplomacy, family negotiation, difficult conversations",
+      "key_vocab": ["mi permetto di", "forse sarebbe il caso", "non vorrei sembrare", "volevo chiederti", "la diplomazia", "delicato", "il tatto", "mediare", "evitare", "suggerire"],
+      "a_plot": "Emma decides: Politecnico di Milano (architecture) with an exchange semester in Chicago. Now she has to tell the family, diplomatically, since everyone wanted something else.",
+      "b_plot": "Lucia diplomatically tries to get Franco to stop driving. It takes the whole episode.",
+      "arc": "TENTPOLE: Emma's decision."
+    },
+    {
+      "id": "s08e14", "level": "B2",
+      "title": { "it": "Affermare, sostenere, ribadire", "en": "State, Maintain, Reiterate" },
+      "grammar": { "id": "g-lexical-precision", "name": "Lexical precision and synonyms", "scope": "replacing generic verbs (dire, fare, mettere, avere, cosa) with precise ones; synonyms and their register; avoiding repetition in writing" },
+      "theme": "Editing, writing well, style",
+      "key_vocab": ["affermare", "sostenere", "ribadire", "svolgere", "effettuare", "possedere", "collocare", "l'aspetto", "la questione", "lo stile"],
+      "a_plot": "The publisher's editor wants to 'correct' Ben's book, making his Italian more precise and less him. Ben and the editor fight over every verb.",
+      "b_plot": "Emma edits her essays using Ornella's red pen. Ornella is merciless.",
+      "runner": "Franco reviews the editor's corrections and agrees with Ben on every one."
+    },
+    {
+      "id": "s08e15", "level": "B2",
+      "title": { "it": "Cara Emma di domani", "en": "Dear Future Emma" },
+      "grammar": { "id": "g-personal-writing", "name": "Expressive personal writing", "scope": "the personal letter and diary; mixing tenses for reflection; imagery and emotion vocabulary; addressing a future self" },
+      "theme": "Letters, reflection, identity",
+      "key_vocab": ["cara", "ricordati", "spero che", "il diario", "la riflessione", "l'identità", "crescere", "le paure", "i sogni", "un giorno"],
+      "a_plot": "Emma writes a letter to her future self, echoing Anna's letter to Chiara (S3E18). Chiara gives Emma Anna's letter to read.",
+      "b_plot": "Ben writes the last chapter of his book: a letter to the Ben who arrived in S1.",
+      "arc": "Two letters: full circle for Anna's legacy."
+    },
+    {
+      "id": "s08e16", "level": "B2",
+      "title": { "it": "Un nodo alla gola", "en": "A Lump in the Throat" },
+      "grammar": { "id": "g-emotions-nuance", "name": "Nuanced emotional vocabulary", "scope": "shades of emotion (malinconia, nostalgia, sollievo, rimorso, rammarico, commozione); idioms (avere un nodo alla gola, avere il cuore in gola, toccare il cielo con un dito)" },
+      "theme": "Goodbyes, change, emotional moments",
+      "key_vocab": ["la malinconia", "il sollievo", "il rammarico", "la commozione", "un nodo alla gola", "il cuore in gola", "toccare il cielo con un dito", "salutare", "l'addio", "l'arrivederci"],
+      "a_plot": "Ornella announces she will move to Genoa to live with her niece after the summer. The street takes it very badly, then very well.",
+      "b_plot": "Tommaso is accepted at the conservatory in Florence. Emma and Tommaso face distance.",
+      "arc": "Ornella's farewell planted."
+    },
+    {
+      "id": "s08e17", "level": "B2",
+      "title": { "it": "Ecco, insomma, comunque", "en": "Well, Anyway, So" },
+      "grammar": { "id": "g-discourse-markers-spoken", "name": "Discourse markers in spoken Italian", "scope": "dunque, ecco, comunque, allora, cioè, diciamo, per così dire, tra l'altro, a proposito, del resto; managing conversation and changing topic" },
+      "theme": "Podcasts, interviews, spoken storytelling",
+      "key_vocab": ["ecco", "dunque", "comunque", "diciamo", "a proposito", "tra l'altro", "del resto", "il podcast", "la puntata", "l'ospite"],
+      "a_plot": "Emma and Daniel launch a podcast, 'Via dei Tigli', interviewing the neighbours. Episode one is Ornella: 90 minutes, no editing possible.",
+      "b_plot": "Matteo is a podcast guest and can't stop saying 'cioè'. Nadia counts: 147.",
+      "runner": "The podcast is secretly the frame for the season's final episodes."
+    },
+    {
+      "id": "s08e18", "level": "B2",
+      "title": { "it": "Il telegiornale", "en": "The TV News" },
+      "grammar": { "id": "g-media-comprehension", "name": "Understanding TV, film and news", "scope": "fast speech features, elisions and truncations (buon, gran, fin), news broadcast structure, film dialogue vs written Italian" },
+      "theme": "TV, film, media consumption",
+      "key_vocab": ["il telegiornale", "il conduttore", "il servizio", "l'inviato", "la puntata", "la serie", "i sottotitoli", "il doppiaggio", "il film", "la trasmissione"],
+      "a_plot": "A national TV news feature on 'the neighbourhood that saved its park', two years later. The family watches it together and critiques everything.",
+      "b_plot": "Ben watches a Fellini film without subtitles for the first time and understands (almost) everything.",
+      "runner": "Franco is recognised on the street as 'the tram speech man'."
+    },
+    {
+      "id": "s08e19", "level": "B2",
+      "title": { "it": "Il libro dei proverbi", "en": "The Book of Proverbs" },
+      "grammar": { "id": "g-idioms-review", "name": "Idioms and proverbs: review and use", "scope": "using idioms naturally and appropriately; register of idioms; transforming idioms creatively; knowing when not to use them" },
+      "theme": "Family wisdom, heritage, gifts",
+      "key_vocab": ["il modo di dire", "tramandare", "l'eredità", "la saggezza popolare", "il nipote", "il regalo", "rilegare", "le pagine", "il ricordo", "per sempre"],
+      "a_plot": "Franco's proverb book (S7E19) comes back from the printer: one bound copy per grandchild. Each reads the proverb he chose for them.",
+      "b_plot": "Ben realises Franco included a proverb for him too, under 'nipoti', not 'generi' (sons-in-law).",
+      "arc": "Franco–Ben: family, formally."
+    },
+    {
+      "id": "s08e20", "level": "B2",
+      "title": { "it": "La prima prova", "en": "The First Exam" },
+      "grammar": { "id": "g-summary-paraphrase", "name": "Summarising and paraphrasing", "scope": "techniques for summary (identifying main ideas, nominalisation, reporting verbs); paraphrasing with synonyms and restructuring; exam writing under time pressure" },
+      "theme": "Written exams, focus, the maturità",
+      "key_vocab": ["riassumere", "parafrasare", "il riassunto", "l'idea principale", "sintetizzare", "la consegna", "il tempo a disposizione", "l'aula", "il dizionario", "rileggere"],
+      "a_plot": "Mid-June: the maturità written exams. The episode follows Emma through the exam, and the whole family through the waiting.",
+      "b_plot": "The Festa dei Tigli committee decides to postpone the festa until after the orals, 'for Emma'. Roberto's idea.",
+      "arc": "TENTPOLE: the maturità written exams."
+    },
+    {
+      "id": "s08e21", "level": "B2",
+      "title": { "it": "Il colloquio", "en": "The Oral" },
+      "grammar": { "id": "g-defending-opinion", "name": "Defending a position orally", "scope": "responding to challenges (capisco il punto, ma...; mi permetta di precisare; non a caso; è vero che..., tuttavia); linking disciplines; staying composed" },
+      "theme": "The oral exam, confidence, identity",
+      "key_vocab": ["mi permetta di precisare", "capisco il punto", "non a caso", "collegare", "la commissione", "il presidente", "l'argomento", "approfondire", "difendere", "convincere"],
+      "a_plot": "Emma's oral exam: 'Due case, una lingua'. The commission challenges her; she answers with the story of her family, and of the street.",
+      "b_plot": "The family waits outside the school. Franco has brought a folding chair and sandwiches for everyone.",
+      "arc": "Emma's exam."
+    },
+    {
+      "id": "s08e22", "level": "B2",
+      "title": { "it": "Avrà passato?", "en": "Will She Have Passed?" },
+      "grammar": { "id": "g-probability-review", "name": "Review: future and probability", "scope": "futuro anteriore for supposition, condizionale for hearsay, congiuntivo for doubt; all ways of expressing probability together" },
+      "theme": "Waiting, uncertainty, patience",
+      "key_vocab": ["avrà passato", "chissà se", "i risultati", "il voto finale", "il tabellone", "la lode", "aspettare", "l'attesa", "la pazienza", "il sollievo"],
+      "a_plot": "Waiting for the results. Every family member supposes something different about Emma's mark.",
+      "b_plot": "Ornella's last weeks on the street: she gives away her things, each with a story.",
+      "arc": "Waiting. Ornella's goodbyes."
+    },
+    {
+      "id": "s08e23", "level": "B2",
+      "title": { "it": "Si dice così, ma", "en": "That's How You Say It, But" },
+      "grammar": { "id": "g-standard-vs-spoken", "name": "Standard norms vs real usage", "scope": "optional subjunctive in speech, lui/lei vs egli/ella, gli for loro, a me mi, che polivalente; knowing the norm and the reality; generational language" },
+      "theme": "How Italian is changing, generations",
+      "key_vocab": ["la norma", "l'uso", "la grammatica", "il purista", "la lingua parlata", "la lingua scritta", "l'evoluzione", "le generazioni", "corretto", "accettabile"],
+      "a_plot": "A grammar war at Sunday lunch: Ornella (purist) vs Leo and Daniel (TikTok Italian), with Ben as referee, the man who learned both.",
+      "b_plot": "Roberto writes a letter to the newspaper about 'the decline of the Italian language' and receives a reply from Emma.",
+      "runner": "'A me mi piace' — is it allowed?"
+    },
+    {
+      "id": "s08e24", "level": "B2",
+      "title": { "it": "Il discorso", "en": "The Speech" },
+      "grammar": { "id": "g-rhetoric-speech", "name": "Rhetoric and speech writing", "scope": "rhetorical devices (anaphora, tricolon, rhetorical questions, antithesis); rhythm; balancing formal and personal; writing for the ear" },
+      "theme": "Public speaking, gratitude, community",
+      "key_vocab": ["il discorso", "la retorica", "la ripetizione", "il ritmo", "rivolgersi a", "la gratitudine", "commuovere", "il pubblico", "la comunità", "le parole giuste"],
+      "a_plot": "The committee asks Ben to give the speech at the Festa dei Tigli. He writes it with help from Emma, Ornella, Roberto and Franco (who crosses out half of it).",
+      "b_plot": "Emma's results arrive on the morning of the festa. She keeps them secret all day, for the speech.",
+      "arc": "Build-up to the series finale."
+    },
+    {
+      "id": "s08e25", "level": "B2",
+      "title": { "it": "La Festa dei Tigli", "en": "The Linden Festival" },
+      "grammar": { "id": "g-review-b2-final", "name": "Final review: A1 to B2", "scope": "Consolidation of the whole course; the finale mirrors S1E1 and S1E25 language on purpose, so learners can feel how far they've come" },
+      "theme": "Community, belonging, full circle",
+      "key_vocab": ["benvenuti", "grazie", "casa", "la strada", "i vicini", "la festa", "il futuro", "ricordare", "appartenere", "arrivederci"],
+      "a_plot": "The Festa dei Tigli in the saved park, one long table down the street. Ben's speech, eloquent now, echoes his broken S1 toast. Emma announces her results: 100.",
+      "b_plot": "Ornella's farewell toast, and Franco's reply. The last confessionale is Ben's: 'Mi chiamo Ben. Sono di Borgoverde.'",
+      "arc": "SERIES FINALE."
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "season": 1,
+  "title": { "it": "Benvenuti", "en": "Welcome" },
+  "level": "A1",
+  "months": "September–February, year 1",
+  "chapters": [
+    {
+      "id": "s01e01", "level": "A1",
+      "title": { "it": "Il primo giorno", "en": "The First Day" },
+      "grammar": { "id": "g-essere-pronouns", "name": "Subject pronouns + essere", "scope": "io/tu/lui/lei/Lei/noi/voi/loro; present of essere; nationality adjectives; greetings ciao/buongiorno/buonasera/arrivederci; mi chiamo as a fixed phrase" },
+      "theme": "Greetings, introductions, nationalities",
+      "key_vocab": ["ciao", "buongiorno", "mi chiamo", "sono", "americano", "italiano", "il vicino", "la scuola", "piacere", "benvenuto"],
+      "a_plot": "Moving day on Via dei Tigli. Ben tries to introduce himself to every neighbour with the three sentences he has memorised; Ornella watches from her window, Roberto asks who he is and why the van is in *his* space.",
+      "b_plot": "Leo's first day at Scuola Rodari: he introduces himself to the class and to Pietro. Emma refuses to say more than 'ciao' to anyone.",
+      "runner": "Franco watches the move from across the street and says only 'Mah.'",
+      "arc": "Series premiere: establishes every household. The first confessionali: 'Mi chiamo Ben. Sono americano.'"
+    },
+    {
+      "id": "s01e02", "level": "A1",
+      "title": { "it": "Un caffè, per favore", "en": "A Coffee, Please" },
+      "grammar": { "id": "g-gender-number", "name": "Nouns: gender and number", "scope": "-o/-a/-e endings, regular plurals, common exceptions (il caffè, la foto, il problema); vorrei as a fixed phrase" },
+      "theme": "At the bar: coffee, pastries, drinks; ordering politely",
+      "key_vocab": ["il caffè", "il cappuccino", "il cornetto", "la brioche", "l'acqua", "il bicchiere", "vorrei", "per favore", "grazie", "il conto"],
+      "a_plot": "Ben's first morning at Bar Tigli: he orders a cappuccino at 4 p.m., asks for 'latte' and gets milk, and tries to sit down without paying first. Matteo is thrilled to have a new regular.",
+      "b_plot": "The first Sunday lunch at Franco's. Franco serves a four-course meal and Ben thinks the pasta is the main course.",
+      "runner": "Ben starts his notebook of new words.",
+      "arc": "Ben vs Franco begins: Franco calls him 'l'americano' for the first time."
+    },
+    {
+      "id": "s01e03", "level": "A1",
+      "title": { "it": "La casa nuova", "en": "The New House" },
+      "grammar": { "id": "g-articles-definite", "name": "Definite articles", "scope": "il, lo, la, l', i, gli, le and when to use each; articles with nouns introduced so far" },
+      "theme": "House and rooms, furniture, unpacking",
+      "key_vocab": ["la casa", "la cucina", "il bagno", "la camera", "il letto", "il tavolo", "la sedia", "la finestra", "la scatola", "il giardino"],
+      "a_plot": "Unpacking chaos: nothing fits, the kitchen is tiny, and every box is labelled in English. Chiara directs, Ben loses the box with the coffee maker.",
+      "b_plot": "Emma and Leo fight over the bigger bedroom. Leo labels everything in the house with sticky notes in Italian.",
+      "runner": "Ornella's cat Pavarotti moves in with the Carters for an afternoon.",
+      "arc": "The house is rented and too small, which sets up the S2 renovation."
+    },
+    {
+      "id": "s01e04", "level": "A1",
+      "title": { "it": "C'è un bar in piazza", "en": "There's a Bar in the Square" },
+      "grammar": { "id": "g-articles-indefinite-ce", "name": "Indefinite articles + c'è / ci sono", "scope": "un, uno, una, un'; c'è / ci sono; dov'è?" },
+      "theme": "Places in town: shops, services, the piazza",
+      "key_vocab": ["la piazza", "la chiesa", "la farmacia", "il panificio", "la stazione", "il supermercato", "il parco", "c'è", "ci sono", "dov'è"],
+      "a_plot": "Ben explores Borgoverde on foot with Leo, making a 'map' of what there is: a church, a pharmacy, a bakery, a station. They meet Nadia at the Farmacia Centrale.",
+      "b_plot": "Chiara's first commute into Milan; the train is late and her new boss, Marchetti, is not.",
+      "runner": "Roberto's first printed notice appears on the Carters' gate."
+    },
+    {
+      "id": "s01e05", "level": "A1",
+      "title": { "it": "Quanti anni hai?", "en": "How Old Are You?" },
+      "grammar": { "id": "g-avere", "name": "Avere + avere expressions", "scope": "present of avere; avere ... anni, fame, sete, freddo, caldo, sonno, paura, fretta, ragione" },
+      "theme": "Family members, age, physical needs",
+      "key_vocab": ["la famiglia", "il padre", "la madre", "il fratello", "la sorella", "il nonno", "avere fame", "avere sete", "avere paura", "avere ragione"],
+      "a_plot": "Sunday lunch again: Franco quizzes Ben about his family ('Quanti fratelli hai?'); Ben answers everything with 'Ho fame'.",
+      "b_plot": "Leo tells Ornella about his family and learns she has no grandchildren. He decides she needs one.",
+      "runner": "Matteo and Franco argue about football at the table: Milan vs Inter."
+    },
+    {
+      "id": "s01e06", "level": "A1",
+      "title": { "it": "Il modulo", "en": "The Form" },
+      "grammar": { "id": "g-numbers", "name": "Numbers 0–100", "scope": "cardinal numbers 0–100; phone numbers, addresses, ages; qual è il tuo numero?" },
+      "theme": "Personal information, forms, the town hall",
+      "key_vocab": ["il numero", "il telefono", "l'indirizzo", "il nome", "il cognome", "la data di nascita", "il modulo", "il municipio", "la firma", "l'ufficio"],
+      "a_plot": "Ben goes to the town hall to register the family's residence. Forms, numbers, the wrong office, and a clerk who only says 'Il prossimo!'",
+      "b_plot": "Emma has to give her number to classmates and panics about saying it in Italian; Bianca takes her phone and does it for her. Their friendship begins.",
+      "runner": "Ben's notebook: page 3, 'diciassette' underlined three times."
+    },
+    {
+      "id": "s01e07", "level": "A1",
+      "title": { "it": "Com'è Tommaso?", "en": "What's Tommaso Like?" },
+      "grammar": { "id": "g-adjectives", "name": "Adjectives: agreement and position", "scope": "four-form and two-form adjectives; agreement; position after the noun; bello/buono before nouns as fixed forms; molto + adjective" },
+      "theme": "Describing people: appearance and personality",
+      "key_vocab": ["alto", "basso", "simpatico", "antipatico", "gentile", "timido", "bello", "giovane", "vecchio", "i capelli"],
+      "a_plot": "Bianca interrogates Emma about the quiet boy on the train, who turns out to be Tommaso Colombo, the neighbour from behind the hedge.",
+      "b_plot": "Leo describes every neighbour to Ben for his 'map of people'. Roberto is 'alto e antipatico', Ornella is 'vecchia ma elegante'.",
+      "runner": "Franco describes Ben to Matteo as 'alto, americano, inutile'. Ben overhears the first two words."
+    },
+    {
+      "id": "s01e08", "level": "A1",
+      "title": { "it": "Halloween in Via dei Tigli", "en": "Halloween on Via dei Tigli" },
+      "grammar": { "id": "g-present-are", "name": "Present tense: -are verbs", "scope": "regular -are verbs (parlare, abitare, lavorare, mangiare, comprare, preparare, decorare); -care/-gare and -iare spelling" },
+      "theme": "Holidays and customs; everyday activities",
+      "key_vocab": ["parlare", "abitare", "lavorare", "mangiare", "comprare", "preparare", "decorare", "la festa", "la zucca", "il dolce"],
+      "a_plot": "Ben decorates the house for Halloween, American-size. The street is scandalised because it's Ognissanti, when Italians visit the cemetery. Franco explains the day by taking Ben with him to bring flowers to Anna.",
+      "b_plot": "Leo organises trick-or-treating; only Ornella and, secretly, Marina Colombo open their doors.",
+      "runner": "Roberto files a complaint about the inflatable pumpkin.",
+      "arc": "The first real Ben–Franco moment, at Anna's grave."
+    },
+    {
+      "id": "s01e09", "level": "A1",
+      "title": { "it": "Perché, papà?", "en": "Why, Dad?" },
+      "grammar": { "id": "g-questions-negation", "name": "Question words and negation", "scope": "chi, che cosa, dove, quando, come, perché, quanto/a/i/e, quale; non + verb; sì/no answers; intonation questions" },
+      "theme": "School life and asking for information",
+      "key_vocab": ["chi", "che cosa", "dove", "quando", "come", "perché", "quanto", "la maestra", "la lezione", "i compiti"],
+      "a_plot": "Leo's day of a thousand questions: at school with Maestra Paola, at the bar with Matteo, at the orto with Franco. Franco answers every one.",
+      "b_plot": "Chiara is questioned by Marchetti about her project, and by her team about America. She answers too fast in both languages.",
+      "runner": "Ben can't answer any of Leo's questions and writes them all in his notebook."
+    },
+    {
+      "id": "s01e10", "level": "A1",
+      "title": { "it": "La lezione di italiano", "en": "The Italian Lesson" },
+      "grammar": { "id": "g-present-ere-ire", "name": "Present tense: -ere and -ire verbs", "scope": "regular -ere (leggere, scrivere, prendere, vedere, vivere) and -ire (dormire, aprire, partire, sentire) verbs; -isc- verbs (capire, finire, preferire)" },
+      "theme": "Learning, classes, the Centro civico",
+      "key_vocab": ["leggere", "scrivere", "capire", "finire", "preferire", "aprire", "sentire", "il corso", "l'insegnante", "la parola"],
+      "a_plot": "Ben's first evening Italian class at the Centro civico with Alberto. During the break he opens the wrong door and finds Franco dancing a tango with Lucia.",
+      "b_plot": "Emma fails her first Italian test at the liceo ('Capisco tutto, ma non scrivo bene!'). Tommaso quietly lends her his notes.",
+      "arc": "SECRET ARC begins: Franco makes Ben promise not to tell anyone. It's the first thing Franco has ever asked him."
+    },
+    {
+      "id": "s01e11", "level": "A1",
+      "title": { "it": "Andiamo a Milano!", "en": "Let's Go to Milan!" },
+      "grammar": { "id": "g-irregular-fare-andare-venire", "name": "Irregular verbs: fare, andare, venire", "scope": "present forms; andare a/in + place; venire da; fare + common expressions (fare colazione, fare la spesa, fare una foto)" },
+      "theme": "Transport and going places: train, tickets, the city",
+      "key_vocab": ["andare", "venire", "fare", "il treno", "il biglietto", "il binario", "la metropolitana", "il centro", "fare una foto", "in ritardo"],
+      "a_plot": "Ben takes the kids into Milan for a Saturday: tickets, the wrong platform, the metro, the Duomo. Emma pretends not to know him.",
+      "b_plot": "Franco invents excuses to explain why he goes 'to the Centro civico' three evenings a week. Ben covers for him badly.",
+      "runner": "Leo photographs every pigeon in Piazza del Duomo."
+    },
+    {
+      "id": "s01e12", "level": "A1",
+      "title": { "it": "La mia famiglia", "en": "My Family" },
+      "grammar": { "id": "g-possessives", "name": "Possessive adjectives", "scope": "mio/tuo/suo/nostro/vostro/loro, agreement; no article with singular family nouns (mia madre) but article with loro and plurals" },
+      "theme": "Family tree, relatives, family photos",
+      "key_vocab": ["mio", "tuo", "suo", "nostro", "loro", "lo zio", "la zia", "il cugino", "la moglie", "il marito"],
+      "a_plot": "Leo's school project, 'La mia famiglia'. He interviews everyone and discovers the family tree is confusing: nonno Franco, zio Matteo, 'zia' Nadia (not married!).",
+      "b_plot": "Chiara finds photos of her mother Anna in Franco's house and cries; Lucia's scarf is on the chair and she doesn't notice. Ben does.",
+      "runner": "Franco asks Nadia when she and Matteo will get married. Nadia: 'Mai.'"
+    },
+    {
+      "id": "s01e13", "level": "A1",
+      "title": { "it": "Dove sono i regali?", "en": "Where Are the Presents?" },
+      "grammar": { "id": "g-prepositions-simple", "name": "Simple prepositions", "scope": "di, a, da, in, con, su, per, tra/fra; basic uses (place, origin, company, purpose)" },
+      "theme": "Christmas preparations, gifts, shopping",
+      "key_vocab": ["il Natale", "il regalo", "l'albero", "il presepe", "per", "con", "da", "tra", "il panettone", "la vigilia"],
+      "a_plot": "Christmas preparations: an American tree vs Franco's presepe; Ben hides the presents and forgets where.",
+      "b_plot": "Franco wants Lucia at Christmas Eve dinner and begs Ben for help. Ben's plan: to invite 'a friend from the Italian course'.",
+      "runner": "Matteo sells panettone at the bar and eats most of it."
+    },
+    {
+      "id": "s01e14", "level": "A1",
+      "title": { "it": "La vigilia", "en": "Christmas Eve" },
+      "grammar": { "id": "g-prepositions-articulated", "name": "Articulated prepositions", "scope": "a/di/da/in/su + article (al, del, dal, nel, sul...); location phrases (sul tavolo, nella cucina, al bar)" },
+      "theme": "Christmas Eve dinner, table, food at home",
+      "key_vocab": ["sul", "nel", "al", "dal", "del", "la tavola", "il piatto", "la forchetta", "il pesce", "la cena"],
+      "a_plot": "Christmas Eve dinner at Franco's. 'Ben's friend from the course' arrives, and Lucia is wonderful. Everyone loves her, and no one understands why Franco is so nervous.",
+      "b_plot": "Emma sees Tommaso at midnight mass; they talk for the first time without Bianca.",
+      "arc": "Lucia enters the family's life under a false identity."
+    },
+    {
+      "id": "s01e15", "level": "A1",
+      "title": { "it": "Il sei gennaio", "en": "The Sixth of January" },
+      "grammar": { "id": "g-time-dates", "name": "Time, days, months, dates", "scope": "che ore sono? / a che ora?; days of the week; months; dates (il 6 gennaio); seasons" },
+      "theme": "Calendar, holidays, appointments",
+      "key_vocab": ["che ore sono", "a che ora", "il giorno", "la settimana", "il mese", "l'anno", "gennaio", "lunedì", "la mattina", "la sera"],
+      "a_plot": "The Befana: Lucia comes to fill the kids' stockings. Chiara recognises the scarf and puts everything together: her father has a girlfriend, and Ben knew.",
+      "b_plot": "Ben tries to plan the family calendar for January in Italian; the whole family has conflicting times.",
+      "arc": "SECRET ARC explodes: Chiara is furious with Franco and with Ben."
+    },
+    {
+      "id": "s01e16", "level": "A1",
+      "title": { "it": "Le regole", "en": "The Rules" },
+      "grammar": { "id": "g-modals", "name": "Modal verbs: volere, potere, dovere", "scope": "present forms + infinitive; asking permission, expressing obligation and wishes" },
+      "theme": "Rules, permission, obligations; neighbourhood life",
+      "key_vocab": ["volere", "potere", "dovere", "il regolamento", "il parcheggio", "la spazzatura", "vietato", "permesso", "il cancello", "la siepe"],
+      "a_plot": "Roberto delivers 'Il Regolamento di Via dei Tigli' to Ben: where he can park, when he must put out the bins, what he can't do to the hedge. Ben decides to follow every rule perfectly, to spite him.",
+      "b_plot": "Chiara and Franco aren't speaking. Leo, Ben and Matteo try to make them talk: 'Dovete parlare!'",
+      "runner": "The recycling calendar: Ben puts the paper out on plastic day."
+    },
+    {
+      "id": "s01e17", "level": "A1",
+      "title": { "it": "Mi piace, non mi piace", "en": "I Like It, I Don't Like It" },
+      "grammar": { "id": "g-piacere", "name": "Piacere", "scope": "mi/ti/gli/le/ci/vi piace/piacciono; a me / anche a me / neanche a me; with nouns and infinitives" },
+      "theme": "Food preferences, hobbies, free time",
+      "key_vocab": ["mi piace", "mi piacciono", "anche a me", "a me no", "il tempo libero", "ballare", "cucinare", "la musica", "lo sport", "il cibo"],
+      "a_plot": "Chiara agrees to a lunch with Lucia 'to get to know her'. Everything Lucia likes, Chiara pretends not to like. Leo keeps score out loud.",
+      "b_plot": "Ben cooks an 'American dinner' for the Colombos as a peace offering. Roberto likes nothing; Marina likes everything, secretly.",
+      "arc": "Chiara–Lucia: the first thaw, a very small one."
+    },
+    {
+      "id": "s01e18", "level": "A1",
+      "title": { "it": "Mi sveglio alle sei", "en": "I Wake Up at Six" },
+      "grammar": { "id": "g-reflexive", "name": "Reflexive verbs", "scope": "svegliarsi, alzarsi, lavarsi, vestirsi, chiamarsi, sentirsi, divertirsi; reflexive pronouns; position" },
+      "theme": "Daily routine, morning and evening",
+      "key_vocab": ["svegliarsi", "alzarsi", "lavarsi", "vestirsi", "prepararsi", "addormentarsi", "la sveglia", "la doccia", "presto", "tardi"],
+      "a_plot": "Chiara has an early meeting in Milan and the Carter morning collapses: one bathroom, four people, no coffee. Ben's 'perfect morning plan' lasts eight minutes.",
+      "b_plot": "Franco's routine: up at 6, orto, bar, bocce. Leo spends a day copying it and falls asleep at the bocce court.",
+      "runner": "Pavarotti the cat sleeps on Ben's side of the bed."
+    },
+    {
+      "id": "s01e19", "level": "A1",
+      "title": { "it": "Esco con gli amici", "en": "I'm Going Out with Friends" },
+      "grammar": { "id": "g-irregular-stare-dare-dire-uscire", "name": "Irregular verbs: stare, dare, dire, uscire, bere", "scope": "present forms; come stai?; stare a casa; uscire con; dire di sì/no" },
+      "theme": "Going out, weekends, invitations",
+      "key_vocab": ["uscire", "stare", "dire", "dare", "bere", "l'invito", "il sabato sera", "la pizzeria", "insieme", "va bene"],
+      "a_plot": "Emma asks to go out on Saturday night with Bianca, 'and others'. Ben says yes, Chiara says no, and Franco (unexpectedly) takes Emma's side.",
+      "b_plot": "Ben goes out with Matteo for a 'guys' night' at the pizzeria. He drinks a cappuccino with his pizza, which is a scandal.",
+      "runner": "Tommaso is one of the 'others'."
+    },
+    {
+      "id": "s01e20", "level": "A1",
+      "title": { "it": "Questo o quello?", "en": "This One or That One?" },
+      "grammar": { "id": "g-demonstratives", "name": "Demonstratives: questo and quello", "scope": "questo/a/i/e; quello with article-like forms (quel, quello, quell', quei, quegli, quella, quelle); as pronouns" },
+      "theme": "Clothes, colours, costumes, shopping",
+      "key_vocab": ["questo", "quello", "il vestito", "la maglia", "i pantaloni", "le scarpe", "il colore", "rosso", "la taglia", "il costume"],
+      "a_plot": "Carnevale: Leo needs a costume for the school parade, and the whole family has an opinion. Ben and Leo go costume-shopping, 'questo o quello?'",
+      "b_plot": "Emma and Tommaso's first real conversation, throwing confetti at the Carnevale party at the Centro civico. Bianca pretends not to watch.",
+      "runner": "Franco dresses as nothing: 'Io sono vestito da pensionato.'"
+    },
+    {
+      "id": "s01e21", "level": "A1",
+      "title": { "it": "Al mercato", "en": "At the Market" },
+      "grammar": { "id": "g-partitive-quantities", "name": "Partitive and quantities; numbers 100+", "scope": "del/della/dei/delle; un po' di; un chilo di, un etto di, una bottiglia di; numbers above 100; prices in euros; quanto costa/costano?" },
+      "theme": "Food shopping, the market, prices",
+      "key_vocab": ["il mercato", "un chilo", "un etto", "un po' di", "la frutta", "la verdura", "il formaggio", "quanto costa", "euro", "lo sconto"],
+      "a_plot": "Franco takes Ben to the Tuesday market to teach him to shop 'properly'. Ben learns the etto, and learns you don't touch the fruit.",
+      "b_plot": "Matteo's newest scheme to save the bar: 'brunch all'americana' on Sundays, with Ben as consultant. They shop for 30 people.",
+      "arc": "Ben–Franco: the first time they have fun together."
+    },
+    {
+      "id": "s01e22", "level": "A1",
+      "title": { "it": "Conosci Lucia?", "en": "Do You Know Lucia?" },
+      "grammar": { "id": "g-sapere-conoscere", "name": "Sapere vs conoscere", "scope": "present forms; sapere + fact/infinitive (so nuotare); conoscere + person/place" },
+      "theme": "Skills and abilities; people and places you know",
+      "key_vocab": ["sapere", "conoscere", "nuotare", "guidare", "cucinare", "suonare", "la chitarra", "bene", "male", "un po'"],
+      "a_plot": "Chiara finally visits Lucia's dance class, alone. She discovers Lucia knew her mother Anna, who taught her a tiramisù recipe years ago.",
+      "b_plot": "The Sunday brunch is a success, but Ben doesn't know how to use the professional coffee machine, and Matteo doesn't know how to make pancakes.",
+      "runner": "Leo claims he 'knows' everyone in Borgoverde. He mostly does.",
+      "arc": "Chiara–Lucia: a real bond begins, through Anna."
+    },
+    {
+      "id": "s01e23", "level": "A1",
+      "title": { "it": "Che tempo fa?", "en": "What's the Weather Like?" },
+      "grammar": { "id": "g-frequency-adverbs", "name": "Adverbs of frequency and time expressions", "scope": "sempre, spesso, qualche volta, di solito, raramente, mai (non... mai); ogni giorno; prima/poi; weather expressions with fare/c'è/è" },
+      "theme": "Weather, seasons, habits",
+      "key_vocab": ["sempre", "spesso", "di solito", "qualche volta", "non... mai", "fa freddo", "piove", "nevica", "la nebbia", "l'ombrello"],
+      "a_plot": "Snow in Borgoverde, a rare event. The trains stop, school closes, and the whole street is stuck at home. Ben and Roberto dig out their cars side by side, in silence.",
+      "b_plot": "Chiara works from home and realises how rarely she is there. Leo and Emma list what Ben 'always' and 'never' does.",
+      "runner": "Franco: 'Nebbia a febbraio, freddo a marzo' (a proverb)."
+    },
+    {
+      "id": "s01e24", "level": "A1",
+      "title": { "it": "Stiamo preparando una festa", "en": "We're Preparing a Party" },
+      "grammar": { "id": "g-stare-gerundio", "name": "Stare + gerund", "scope": "present progressive: sto facendo, stai parlando; regular gerunds and fare/dire/bere" },
+      "theme": "Phone calls, messages, preparing a surprise",
+      "key_vocab": ["stare facendo", "il messaggio", "la chiamata", "la sorpresa", "la torta", "gli invitati", "pronto?", "adesso", "aspettare", "nascondere"],
+      "a_plot": "The family secretly prepares Franco's 72nd birthday. The episode plays out in phone calls: 'Cosa stai facendo?' 'Niente!'",
+      "b_plot": "Lucia and Chiara bake Anna's tiramisù together, from memory and from Lucia's recipe card.",
+      "runner": "Franco suspects something and spies on everyone from the orto."
+    },
+    {
+      "id": "s01e25", "level": "A1",
+      "title": { "it": "Buon compleanno, Franco", "en": "Happy Birthday, Franco" },
+      "grammar": { "id": "g-review-a1", "name": "A1 review: the present tense", "scope": "Consolidation of all A1 structures: essere/avere, regular and irregular present, reflexives, modals, piacere; a simple toast (un brindisi)" },
+      "theme": "Celebrations, toasts, feelings",
+      "key_vocab": ["il brindisi", "auguri", "la candela", "felice", "grazie di cuore", "insieme", "la famiglia", "il futuro", "salute", "benvenuto"],
+      "a_plot": "Franco's birthday dinner. Ben gives a toast in simple, heartfelt, imperfect Italian. Franco introduces Lucia to the whole family, properly this time.",
+      "b_plot": "Emma invites Tommaso; Roberto and Marina come too, since everyone is invited on Via dei Tigli. An uneasy truce.",
+      "arc": "SEASON FINALE: Franco raises his glass and says, for the first time, 'Grazie, Ben.'"
+    }
+  ]
+}

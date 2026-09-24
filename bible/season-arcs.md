@@ -5,7 +5,8 @@ story "needs" the grammar that season teaches: at A2 the characters start tellin
 B1 they start planning and imagining. The full grammar and vocabulary plan per chapter is in
 `curriculum/`; the grammar noted here is only the **spine** each season is built around.
 
-Episode numbers for tentpoles are targets and can move by one or two when the curriculum is laid out.
+Episode-by-episode plans live in `curriculum/seasons/sNN.json`. **Those files are authoritative**
+for episode numbers; this file keeps the arcs.
 
 | Season | Title | Level | Months | Grammar spine |
 |---|---|---|---|---|
@@ -16,7 +17,7 @@ Episode numbers for tentpoles are targets and can move by one or two when the cu
 | S5 | *Se potessi…* | B1 | Sept–Feb, yr 3 | Congiuntivo presente, hypotheticals I–II, trapassato |
 | S6 | *Il parco* | B2 | Mar–Aug, yr 3 | Past subjunctives, hypothetical III, passive, impersonal *si* |
 | S7 | *Nuovi arrivi* | B2 | Sept–Feb, yr 4 | Reported speech, sequence of tenses, passato remoto (reading) |
-| S8 | *Maturità* | B2 | Mar–June, yr 4 | Register, connectors, idiom, nuance, formal writing |
+| S8 | *Maturità* | B2 | Mar–July, yr 4 | Register, connectors, idiom, nuance, formal writing |
 
 ---
 
@@ -46,7 +47,7 @@ Episode numbers for tentpoles are targets and can move by one or two when the cu
 - **E2**: Ben's first coffee order at Bar Tigli, a disaster, and the first Sunday lunch at Franco's.
 - **E8**: Halloween meets Ognissanti. Ben decorates the house and the street is scandalised.
 - **E10**: Ben's first Italian lesson; he discovers Franco at the dance class.
-- **E13–14**: the first Italian Christmas. Lucia shows up on Christmas Eve, and at the Befana
+- **E14–15**: the first Italian Christmas. Lucia shows up on Christmas Eve, and at the Befana
   Chiara learns Ben knew all along.
 - **E20**: Carnevale. Leo's costume, and Emma and Tommaso's first real conversation.
 - **E25** *finale*: Franco's 72nd birthday dinner. Ben gives a toast in simple, heartfelt Italian;
@@ -137,8 +138,8 @@ Episode numbers for tentpoles are targets and can move by one or two when the cu
 - **E3**: the offer arrives.
 - **E13**: Christmas, with everyone privately assuming the Carters will leave.
 - **E20**: election night at Bar Tigli.
-- **E25** *finale*: Ben turns down Chicago (*"Casa mia è qui."*). Roberto is elected, and Ornella
-  comes home.
+- **E21**: Ornella comes home, to a ramp built by the street.
+- **E25** *finale*: Ben turns down Chicago (*"Casa mia è qui."*).
 
 ## S6 · *Il parco* (B2)
 
@@ -198,5 +199,6 @@ Episode numbers for tentpoles are targets and can move by one or two when the cu
 **Tentpoles**
 - **E10**: the book launch at Bar Tigli.
 - **E20**: the *maturità* written exams.
-- **E25** *series finale*: the Festa dei Tigli in June. Ben gives the speech, eloquent now, in a
-  callback to his S1 toast. Emma's results arrive, and everyone sits at the long table in the street.
+- **E25** *series finale*: the Festa dei Tigli, postponed to July this year so Emma can finish her
+  exams. Ben gives the speech, eloquent now, in a callback to his S1 toast. Emma announces her
+  results, and everyone sits at the long table in the street.
