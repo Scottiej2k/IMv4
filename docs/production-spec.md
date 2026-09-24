@@ -135,11 +135,19 @@ See `docs/tts-format.md`.
 
 ## 5. Workflow per chapter
 
-1. Check the chapter's plan in `curriculum/seasons/sNN.json` (grammar, vocabulary theme, plot beats).
-2. Read the continuity log and the relevant character profiles.
-3. Write `chapter.json`, then `grammar.md`.
-4. Run the build: schema validation, lexicon coverage report, grammar-ceiling hints, generating all outputs.
-5. Fix anything that fails, then update `curriculum/lexicon.csv` and `bible/continuity-log.md`.
+The writer never hand-writes JSON. It writes a plain-text draft (`docs/draft-format.md`), and scripts
+do all the bookkeeping.
+
+1. `python3 scripts/make_brief.py <id>` builds the writer's prompt (`chapters/<id>/brief.md`): the
+   standing instructions (`prompts/writer-system.md`), the draft format, the world bible, and a
+   chapter brief with level rules, grammar ceiling, plan, characters and story so far.
+2. The model writes `chapters/<id>/draft.txt` in one pass. With an API key,
+   `python3 scripts/generate_chapter.py <id>` does this and steps 3–4 in one command.
+3. `python3 scripts/convert_draft.py <id>` turns the draft into `chapter.json` + `grammar.md`
+   (segment ids, turns, focus tags, vocab examples and targets, grammar-lesson citations), then
+   validates and builds every output.
+4. Hard errors get **one** targeted fix. Warnings are for review; don't loop on them.
+5. Review, then update `curriculum/lexicon.csv` and `bible/continuity-log.md`.
 6. Commit the chapter as one commit: `s01e01: <title>`.
 
 ## 6. Quality
