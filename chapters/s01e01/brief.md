@@ -126,6 +126,8 @@ From the story: [[Io sono Ben.]]
 - `**bold**` marks focus items: vocabulary items (any listed form) and examples of the grammar
   focus. **Bold the English equivalent too, with the same number of bold spans in the same order.**
   A bold span that matches no vocabulary form counts as a grammar-focus example.
+- Bold each vocabulary item **as its own span** (`è **americano**`, not `**è americano**`); a
+  vocabulary word inside a longer bold span doesn't count as that item.
 
 **Grammar lesson** (`@grammar` to the end of the file): Markdown. To quote the story, write the exact
 Italian sentence in double brackets, `[[Io sono Ben.]]`, without bold. The converter replaces it with
@@ -311,6 +313,34 @@ Coming later at A1 (basic building blocks: use them where the story needs them, 
 
 **Higher-level structures. Do not use** (at most a very common fixed phrase, if unavoidable): Passato prossimo with avere; Irregular past participles; Passato prossimo with essere; Passato prossimo of reflexive verbs; Past time expressions; Direct object pronouns; Object pronouns with passato prossimo; Indirect object pronouns; Piacere in the past; verbs like piacere; Ci (there); ci vuole / ci vogliono; Ne (partitive); Stressed (tonic) pronouns; Reciprocal verbs; Double negatives; Formal and informal address; Comparatives; Superlatives; Adverbs: -mente; molto, tanto, troppo, poco; Duration: da, per, fa; Verbs + a / di + infinitive; Impersonal si; Indefinite adjectives and pronouns; Necessity: bisogna, avere bisogno di, è necessario; Ordinal numbers, years, centuries; Imperfetto: forms; Imperfetto for description; Imperfetto for habits and repeated actions; Imperfetto vs passato prossimo; Mentre; imperfetto progressive; Sapere and conoscere in past tenses; Informal imperative (tu); Negative imperative; voi imperative; Imperative with pronouns; Formal imperative (Lei); Combined pronouns; Conditional for politeness and wishes; Stare per + infinitive; Relative pronouns che and cui; Diminutives and augmentatives; Possessive pronouns; …and everything after.
 
+**Concretely, these forms must not appear anywhere in the story** (a script checks for them):
+
+- passato prossimo (avere + participle) (taught in s02e01): e.g. *ho mangiato, abbiamo visto, hai fatto*
+- passato prossimo (essere + participle) (taught in s02e03): e.g. *sono andato, è arrivata, siamo stati*
+- imperfetto (taught in s03e01): e.g. *era, c'era, avevo, facevo, andava, stavamo*
+- conditional (beyond the fixed phrase 'vorrei') (taught in s03e12): e.g. *potresti, sarebbe, mi piacerebbe, dovresti*
+- futuro semplice (taught in s04e01): e.g. *sarò, avrà, andremo, parlerai, farà*
+- condizionale passato (taught in s04e06): e.g. *avrei dovuto, sarebbe stato, avresti fatto*
+- trapassato prossimo (taught in s04e08): e.g. *avevo già mangiato, era partita, avevano deciso*
+- congiuntivo presente (taught in s05e01): e.g. *penso che sia, credo che abbia, voglio che tu vada*
+- subjunctive after emotions (taught in s05e04): e.g. *ho paura che dica, sono contento che venga, mi dispiace che sia*
+- congiuntivo passato (taught in s05e08): e.g. *penso che abbia visto, credo che sia partita*
+- congiuntivo imperfetto (taught in s05e10): e.g. *se fossi, volevo che tu venissi, magari avessi*
+- hypothetical 'se' + imperfect subjunctive (taught in s05e11): e.g. *se fossi in te, se avessi tempo, se potessi*
+- congiuntivo trapassato (taught in s06e01): e.g. *se avessi saputo, pensavo che fosse già partito*
+- passato remoto (taught in s07e06): e.g. *fu, ebbe, disse, parlò, andarono, nacque*
+
+## Where things stand at this episode
+
+These are facts at this point in the series. Respect them exactly (especially tu/Lei).
+
+- Ben, Chiara, Emma and Leo live at Via dei Tigli 14; Franco at no. 9; Ornella at no. 16; the Colombos (Roberto, Marina, Tommaso) at no. 11; Matteo and Nadia above Bar Tigli at no. 2.
+- Ben and Ornella use **Lei** with each other ("Signora Galli" / "Signor Carter").
+- Leo and Emma use **Lei** with Ornella and she uses **tu** with them.
+- Roberto and Ben use **Lei** with each other (Roberto on purpose).
+- Franco calls Ben *l'americano*; he never uses Ben's name before S1E25.
+- Only Franco and Lucia know they are seeing each other.
+
 ## Characters in this episode
 
 ### Chiara Ferri · `chiara` · 40
@@ -412,6 +442,13 @@ quartiere Via dei Tigli*. He lives at no. 11 with his wife **Marina** (recurring
   source of formal written and administrative language (notices, minutes, forms).
 
 **Pietro** (`pietro`): Leo's best friend. A know-it-all 8-year-old
+
+Other main characters (they may appear briefly, in keeping with their profiles in the world bible):
+
+- Lucia Bernardi (`lucia`): Franco's secret girlfriend, then not-so-secret, then fiancée.
+- Matteo Ferri (`matteo`): The dreamer with a coffee machine.
+- Nadia Benali (`nadia`): The grounded one.
+- Tommaso Colombo (`tommaso`): The quiet boy next to the hedge.
 
 ## Speakers and places
 

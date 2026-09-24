@@ -126,6 +126,8 @@ From the story: [[Io sono Ben.]]
 - `**bold**` marks focus items: vocabulary items (any listed form) and examples of the grammar
   focus. **Bold the English equivalent too, with the same number of bold spans in the same order.**
   A bold span that matches no vocabulary form counts as a grammar-focus example.
+- Bold each vocabulary item **as its own span** (`è **americano**`, not `**è americano**`); a
+  vocabulary word inside a longer bold span doesn't count as that item.
 
 **Grammar lesson** (`@grammar` to the end of the file): Markdown. To quote the story, write the exact
 Italian sentence in double brackets, `[[Io sono Ben.]]`, without bold. The converter replaces it with
@@ -337,6 +339,35 @@ You may use **all of A1, A2** grammar, plus what has been taught so far at B1:
 
 **Higher-level structures. Do not use** (at most a very common fixed phrase, if unavoidable): Congiuntivo trapassato; Hypothetical sentences, type 3 (unreal past); Mixed hypothetical sentences; Sequence of tenses with the subjunctive; The passive with essere; Passive with venire and andare; The si passivante; Impersonal si: advanced; Past participle clauses (participio assoluto); Compound gerund and causal gerund; Past infinitive; The journalistic conditional; Nominalisation and formal style; Concessive connectors; Causal and consecutive connectors; Conditional connectors; Register: formal, neutral, informal; Persuasion: slogans, imperatives, rhetorical questions; Advanced relative pronouns; Causatives with pronouns; Advanced pronominal verbs; Emphasis: cleft sentences and focus; The future in the past; Presenting and arguing a proposal; Reported speech: present reporting verb; Reported speech: tense shifts; Reported questions and commands; Sequence of tenses with the indicative; Sequence of tenses: the full system; Passato remoto: regular forms; Passato remoto: irregular forms; Passato remoto in literary narrative; Trapassato remoto and literary tenses; Expressing probability and uncertainty; Verbs + infinitive: with and without prepositions; Idioms with animals and nature; Altered nouns: nuance and false diminutives; Word formation: compounds and modern vocabulary; Features of spoken Italian; Narrative tenses together; …and everything after.
 
+**Concretely, these forms must not appear anywhere in the story** (a script checks for them):
+
+- subjunctive after emotions (taught in s05e04): e.g. *ho paura che dica, sono contento che venga, mi dispiace che sia*
+- congiuntivo passato (taught in s05e08): e.g. *penso che abbia visto, credo che sia partita*
+- congiuntivo imperfetto (taught in s05e10): e.g. *se fossi, volevo che tu venissi, magari avessi*
+- hypothetical 'se' + imperfect subjunctive (taught in s05e11): e.g. *se fossi in te, se avessi tempo, se potessi*
+- congiuntivo trapassato (taught in s06e01): e.g. *se avessi saputo, pensavo che fosse già partito*
+- passato remoto (taught in s07e06): e.g. *fu, ebbe, disse, parlò, andarono, nacque*
+
+## Where things stand at this episode
+
+These are facts at this point in the series. Respect them exactly (especially tu/Lei).
+
+- Ben, Chiara, Emma and Leo live at Via dei Tigli 14; Franco at no. 9; Ornella at no. 16; the Colombos (Roberto, Marina, Tommaso) at no. 11; Matteo and Nadia above Bar Tigli at no. 2.
+- Ben and Ornella use **tu** with each other (she proposed it on her birthday, S2E15).
+- Leo and Emma use **Lei** with Ornella and she uses **tu** with them.
+- Roberto and Ben use **Lei** with each other (Roberto on purpose).
+- Franco calls Ben by his name (first time: the S1E25 toast).
+- Franco and Lucia are an openly acknowledged couple.
+- The Carters own Via dei Tigli 14 (bought it at the start of Season 2).
+- Ben works the morning shift at Bar Tigli.
+- Emma and Tommaso are openly together.
+- Anna Yasmin Ferri Benali, Matteo and Nadia's daughter, was born in December of year 2.
+- Lucia lives with Franco at Via dei Tigli 9.
+- Ben runs cooking classes for foreigners at Bar Tigli (authorised from S4E15).
+- Franco and Lucia are married.
+- Nadia manages a pharmacy in Milan; Matteo runs the bar and looks after baby Anna.
+- Ben has had the Chicago job offer for three days; only Ornella knows.
+
 ## Characters in this episode
 
 ### Emma Carter · `emma` · 15
@@ -410,6 +441,15 @@ her window.
 - **Speech profile:** formal *Lei*, impeccable grammar, old-fashioned words (*codesto* only as a
   joke, *la ringrazio*, *mi faccia il piacere*). Catchphrase: *Ai miei tempi…* She is the natural
   source of imperfetto storytelling at A2.
+
+Other main characters (they may appear briefly, in keeping with their profiles in the world bible):
+
+- Franco Ferri (`franco`): The patriarch who won't admit he's lonely.
+- Lucia Bernardi (`lucia`): Franco's secret girlfriend, then not-so-secret, then fiancée.
+- Matteo Ferri (`matteo`): The dreamer with a coffee machine.
+- Nadia Benali (`nadia`): The grounded one.
+- Roberto Colombo (`roberto`): The rulebook.
+- Tommaso Colombo (`tommaso`): The quiet boy next to the hedge.
 
 ## Speakers and places
 
