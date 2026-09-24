@@ -79,6 +79,8 @@ The full definition is in `schema/chapter.schema.json`. In short:
 - **`vocab[]`:** focus items. Each has an `id`, `lemma`, part of speech, gender if it's a noun, an English
   gloss, and **`example`: the id of the story segment used as its example sentence** (so the vocabulary
   list and Anki cards always quote the real story).
+  **`target`** gives the exact bolded words for the item on each side (`{"it": "abita", "en": "lives"}`),
+  so a card bolds only its own word even if the sentence has other focus items.
 - **`scenes[]`**, each with a location, the characters present, and `turns[]`.
   - A **turn** is one speaker's uninterrupted stretch: `speaker` (a character id or `narrator`), an
     optional `style` (spoken delivery, used by TTS only), and `segments[]`.

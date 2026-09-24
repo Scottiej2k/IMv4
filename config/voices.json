@@ -1,5 +1,5 @@
 {
-  "_comment": "Single source of truth for TTS voices. See docs/tts-format.md. Voice picks are PROVISIONAL: they use Gemini's prebuilt voice names and must be auditioned in Italian before the pilot audio run. Children are voiced by adult prebuilt voices with an age style; audition carefully.",
+  "_comment": "Single source of truth for TTS voices. See docs/tts-format.md. Voice picks are PROVISIONAL: they use Gemini's prebuilt voice names and must be auditioned in Italian before the pilot audio run. Children are voiced by adult prebuilt voices with an age style; audition carefully. 'name' is how the character is shown in story.md and parallel.md. When a new minor character gets lines, add them here with a voice from unused_prebuilt_voices (and remove it from that list).",
   "model": "gemini-3.8-flash-tts",
   "level_styles": {
     "A1": "speaking slowly and very clearly, standard Italian pronunciation",
@@ -8,23 +8,110 @@
     "B2": ""
   },
   "voices": {
-    "narrator": { "voice": "Sulafat", "style": "warm, friendly storyteller, gently amused" },
-
-    "ben":      { "voice": "Puck",        "style": "41-year-old American man, upbeat and eager, noticeable American accent in Italian", "style_by_level": { "A1": "strong American accent, hesitant", "A2": "clear American accent", "B1": "light American accent", "B2": "slight American accent, confident" } },
-    "chiara":   { "voice": "Kore",        "style": "40-year-old Italian woman from Milan, quick and decisive" },
-    "emma":     { "voice": "Leda",        "style": "15-year-old girl, teenage, a bit exasperated" },
-    "leo":      { "voice": "Laomedeia",   "style": "8-year-old boy, high and bright child's voice, curious" },
-    "franco":   { "voice": "Algenib",     "style": "71-year-old man, gravelly, gruff and slow, secretly warm" },
-    "lucia":    { "voice": "Pulcherrima", "style": "60-year-old woman, expressive and theatrical, warm" },
-    "matteo":   { "voice": "Sadachbia",   "style": "36-year-old man, energetic and fast, enthusiastic" },
-    "nadia":    { "voice": "Despina",     "style": "34-year-old woman, calm, dry and precise" },
-    "ornella":  { "voice": "Gacrux",      "style": "78-year-old woman, elegant, formal, measured" },
-    "roberto":  { "voice": "Alnilam",     "style": "50-year-old man, formal, precise, faintly pompous" },
-    "tommaso":  { "voice": "Zubenelgenubi", "style": "15-year-old boy, teenage, quiet and laid-back" },
-
-    "bianca":        { "voice": "Autonoe",      "style": "15-year-old girl, chatty and dramatic" },
-    "maestra-paola": { "voice": "Vindemiatrix", "style": "primary-school teacher, gentle and patient" },
-    "alberto":       { "voice": "Iapetus",      "style": "Italian teacher, clear and enthusiastic" },
-    "marchetti":     { "voice": "Schedar",      "style": "charismatic Milanese architect, demanding" }
-  }
+    "narrator": {
+      "name": "Narratore",
+      "voice": "Sulafat",
+      "style": "warm, friendly storyteller, gently amused"
+    },
+    "ben": {
+      "name": "Ben",
+      "voice": "Puck",
+      "style": "41-year-old American man, upbeat and eager, noticeable American accent in Italian",
+      "style_by_level": {
+        "A1": "strong American accent, hesitant",
+        "A2": "clear American accent",
+        "B1": "light American accent",
+        "B2": "slight American accent, confident"
+      }
+    },
+    "chiara": {
+      "name": "Chiara",
+      "voice": "Kore",
+      "style": "40-year-old Italian woman from Milan, quick and decisive"
+    },
+    "emma": {
+      "name": "Emma",
+      "voice": "Leda",
+      "style": "15-year-old girl, teenage, a bit exasperated"
+    },
+    "leo": {
+      "name": "Leo",
+      "voice": "Laomedeia",
+      "style": "8-year-old boy, high and bright child's voice, curious"
+    },
+    "franco": {
+      "name": "Franco",
+      "voice": "Algenib",
+      "style": "71-year-old man, gravelly, gruff and slow, secretly warm"
+    },
+    "lucia": {
+      "name": "Lucia",
+      "voice": "Pulcherrima",
+      "style": "60-year-old woman, expressive and theatrical, warm"
+    },
+    "matteo": {
+      "name": "Matteo",
+      "voice": "Sadachbia",
+      "style": "36-year-old man, energetic and fast, enthusiastic"
+    },
+    "nadia": {
+      "name": "Nadia",
+      "voice": "Despina",
+      "style": "34-year-old woman, calm, dry and precise"
+    },
+    "ornella": {
+      "name": "Ornella",
+      "voice": "Gacrux",
+      "style": "78-year-old woman, elegant, formal, measured"
+    },
+    "roberto": {
+      "name": "Roberto",
+      "voice": "Alnilam",
+      "style": "50-year-old man, formal, precise, faintly pompous"
+    },
+    "tommaso": {
+      "name": "Tommaso",
+      "voice": "Zubenelgenubi",
+      "style": "15-year-old boy, teenage, quiet and laid-back"
+    },
+    "bianca": {
+      "name": "Bianca",
+      "voice": "Autonoe",
+      "style": "15-year-old girl, chatty and dramatic"
+    },
+    "maestra-paola": {
+      "name": "Maestra Paola",
+      "voice": "Vindemiatrix",
+      "style": "primary-school teacher, gentle and patient"
+    },
+    "alberto": {
+      "name": "Alberto",
+      "voice": "Iapetus",
+      "style": "Italian teacher, clear and enthusiastic"
+    },
+    "marchetti": {
+      "name": "Marchetti",
+      "voice": "Schedar",
+      "style": "charismatic Milanese architect, demanding"
+    },
+    "pietro": {
+      "name": "Pietro",
+      "voice": "Achernar",
+      "style": "8-year-old boy, high child's voice, a confident little know-it-all"
+    }
+  },
+  "unused_prebuilt_voices": [
+    "Charon",
+    "Fenrir",
+    "Orus",
+    "Aoede",
+    "Callirrhoe",
+    "Enceladus",
+    "Umbriel",
+    "Algieba",
+    "Erinome",
+    "Rasalgethi",
+    "Achird",
+    "Sadaltager"
+  ]
 }

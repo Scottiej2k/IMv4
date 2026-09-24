@@ -1,0 +1,31 @@
+{
+  "_comment": "Location ids (bible/locations.md) and the Italian heading shown in story.md / parallel.md.",
+  "locations": {
+    "casa-carter": "Casa Carter, Via dei Tigli 14",
+    "casa-franco": "Casa di Franco, Via dei Tigli 9",
+    "orto": "L'orto di Franco",
+    "bar-tigli": "Bar Tigli",
+    "casa-ornella": "Casa di Ornella, Via dei Tigli 16",
+    "casa-colombo": "Casa Colombo, Via dei Tigli 11",
+    "via": "Via dei Tigli",
+    "farmacia": "Farmacia Centrale",
+    "piazza": "Piazza della Chiesa",
+    "mercato": "Il mercato del martedì",
+    "supermercato": "Il supermercato",
+    "scuola-leo": "Scuola primaria Gianni Rodari",
+    "centro-civico": "Centro civico",
+    "parco": "Parco dei Tigli",
+    "stazione": "Stazione di Borgoverde",
+    "treno": "Sul treno",
+    "municipio": "Municipio di Borgoverde",
+    "confessionale": "Confessionale",
+    "liceo": "Liceo linguistico, Monza",
+    "monza": "Monza",
+    "studio-marchetti": "Studio Marchetti, Milano",
+    "milano-centro": "Milano, centro",
+    "navigli": "Milano, Navigli",
+    "milano-garibaldi": "Milano, Porta Garibaldi",
+    "san-siro": "Stadio di San Siro",
+    "ospedale": "Ospedale di Monza"
+  }
+}

@@ -41,6 +41,6 @@ grammar.md   (authored; cites story lines by id)
 - [x] Production spec and repo scaffolding
 - [x] World bible (`bible/`)
 - [x] Curriculum: 200 chapters planned ([overview](curriculum/overview.md))
-- [ ] Chapter build/validation scripts (curriculum validator done)
+- [x] Build and validation scripts (`scripts/build_curriculum.py`, `scripts/build_chapter.py`)
 - [ ] Pilot chapters (one A1, one B1)
 - [ ] Production
