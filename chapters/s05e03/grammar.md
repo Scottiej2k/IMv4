@@ -1,97 +1,97 @@
-# Subjunctive after will and desire
+# The subjunctive after will and desire
 
-## What it is
+## 1. What it is
 
-Italian has a special verb form, the **congiuntivo** (subjunctive), that shows up after verbs of
-wanting, hoping, preferring and asking — but only when the person doing the wanting and the person
-doing the action are two different people. If they're the same person, Italian just uses the
-infinitive, with no "che" at all. Getting this switch right is one of the most useful things you can
-learn at B1, because these verbs come up constantly: *volere*, *sperare*, *preferire*, *desiderare*,
-*chiedere*.
+In English, when you want someone else to do something, you often use a simple infinitive: "I want **you to call** me," "They asked **him to leave**." Italian can't do this. When the person who wants something is different from the person who has to do it, Italian switches the verb in the second clause into the **congiuntivo presente** (present subjunctive), introduced by **che**.
 
-## How it works
+Verbs of wishing, wanting and asking — **volere**, **sperare**, **preferire**, **desiderare**, **chiedere** — all work this way. They don't describe a fact; they describe a wish reaching out toward someone else's action, which Italian marks grammatically as uncertain, even when everyone in the room already knows the answer.
 
-**Same subject → infinitive.** No "che", no subjunctive:
+## 2. How it works
 
-- *Voglio tornare a Chicago.* (I want to go back to Chicago.)
-- *Spero di trovare una soluzione.* (I hope to find a solution.) — note *sperare* takes *di* before
-  an infinitive.
+**Same subject → infinitive.** If the person wanting and the person doing are the same, just use an infinitive, exactly like the simple form of these verbs:
 
-**Different subjects → che + congiuntivo presente:**
+- Voglio partire. (I want to leave.)
+- Spero di trovare una soluzione. (I hope to find a solution.) — note **di** before the infinitive with *sperare* and *chiedere*.
 
-| Person | -are (parlare) | -ere (chiedere) | -ire (partire) |
-|---|---|---|---|
-| io | parli | chieda | parta |
-| tu | parli | chieda | parta |
-| lui/lei | parli | chieda | parta |
-| noi | parliamo | chiediamo | partiamo |
-| voi | parliate | chiediate | partiate |
-| loro | parlino | chiedano | partano |
+**Different subject → che + congiuntivo presente.** If the two people are different, you need **che** and the subjunctive:
 
-The io/tu/lui/lei forms are identical, so subject pronouns often appear to avoid confusion (*che tu
-parta*, *che lui parta*).
+- Voglio **che tu parta**. (I want you to leave.)
+- Spero **che tu capisca**. (I hope you understand.)
 
-**Common irregulars:** *essere* → sia, sia, sia, siamo, siate, siano. *avere* → abbia, abbia, abbia,
-abbiamo, abbiate, abbiano. *andare* → vada, vada, vada, andiamo, andiate, vadano. *fare* → faccia,
-faccia, faccia, facciamo, facciate, facciano.
+### Congiuntivo presente: quick reference
 
-**The trigger verbs:**
+| | -are (parlare) | -ere (prendere) | -ire (partire) | -isc- (finire) |
+|---|---|---|---|---|
+| io/tu/lui-lei | parli | prenda | parta | finisca |
+| noi | parliamo | prendiamo | partiamo | finiamo |
+| voi | parliate | prendiate | partiate | finiate |
+| loro | parlino | prendano | partano | finiscano |
 
-| Verb | Same subject | Different subjects |
-|---|---|---|
-| volere | volere + infinito | volere che + congiuntivo |
-| sperare | sperare di + infinito | sperare che + congiuntivo |
-| preferire | preferire + infinito | preferire che + congiuntivo |
-| desiderare | desiderare + infinito | desiderare che + congiuntivo |
-| chiedere | chiedere di + infinito | chiedere che + congiuntivo |
+Notice: io, tu and lui/lei share the same form, so subject pronouns often appear just to avoid confusion (*che tu parta* vs *che lui parta*).
 
-## From the story
+Common irregulars you'll meet with these verbs: **essere** → sia, siamo, siate, siano; **avere** → abbia, abbiamo, abbiate, abbiano; **andare** → vada, andiamo, andiate, vadano; **fare** → faccia, facciamo, facciate, facciano; **dare** → dia, diamo, diate, diano.
 
-- “"**Vogliamo che** lei torni a dirigere il reparto marketing."” — "**We want** you to come back and run the marketing department." (`s05e03-1-009`) — the company (subject 1) wants Ben
-  (subject 2) to come back: different subjects, so *che* + congiuntivo (*torni*).
-- “È quando un'azienda **chiede che** tu vada a lavorare per loro.” — It's when a company **asks** you to go work for them. (`s05e03-1-017`) — *chiedere che* + congiuntivo
-  (*vada*), explained simply for Leo.
-- “Non **voglio che** lei **si preoccupi** prima che io abbia deciso qualcosa.” — I don't **want** her **to worry** before I've decided anything. (`s05e03-3-007`) — Ben doesn't want Chiara
-  to worry: two different subjects again, so *si preoccupi*, not *preoccuparsi*.
-- “**Spero che** sia solo un'idea pazza, ma continuo a pensarci.” — **I hope** it's just a crazy idea, but I keep thinking about it. (`s05e03-3-003`) — *sperare che* + congiuntivo (*sia*),
-  contrasted right after with an infinitive construction, *continuo a pensarci*.
-- “Lo so. Ma **preferirei che** fosse più semplice.” — I know. But **I'd prefer** it to be simpler. (`s05e03-4-023`) — *preferire* in the conditional, still followed by *che* +
-  congiuntivo, here the imperfetto congiuntivo (*fosse*), because the whole sentence is more
-  hypothetical in tone; you'll study this tense later, but recognising it here is useful.
-- “Il mio consiglio è semplice: **desidero che** lei ne parli con sua moglie, stasera stesso.” — My advice is simple: **I want** you to talk to your wife about it, tonight. (`s05e03-4-028`) — Ornella's advice: *desiderare che*
-  + congiuntivo (*parli*), a different subject from the one wishing.
-- “Marchetti vuole che finiamo il progetto entro venerdì. Impossibile, gliel'ho detto.” — Marchetti wants us to finish the project by Friday. Impossible, I told him so. (`s05e03-6-002`) — *volere che* + congiuntivo *noi*
-  (*finiamo*), identical in form to the indicative here, but the trigger tells you it's subjunctive.
+### Which preposition?
 
-## Common mistakes
+- **volere che** + subjunctive (no preposition): *Voglio che tu venga.*
+- **sperare che** + subjunctive: *Spero che tu venga.* (but *sperare di* + infinitive if same subject)
+- **preferire che** + subjunctive: *Preferisco che tu venga.*
+- **desiderare che** + subjunctive: *Desidero che tu venga.*
+- **chiedere che** + subjunctive: *Chiedo che tu venga.* (in speech, Italians often soften this to *chiedere di* + infinitive when possible, but *chiedere che* + subjunctive is fully correct and common in writing and formal requests.)
 
-- **Using the indicative after "che".** English speakers often say *voglio che tu vai* — wrong. It
-  must be *voglio che tu vada*.
-- **Forgetting the infinitive when the subject doesn't change.** Don't say *voglio che io vada*;
-  simply say *voglio andare*.
-- **Missing "di" or "che" after sperare and chiedere.** *Spero trovare* is wrong; it's *spero di
-  trovare* (same subject) or *spero che tu trovi* (different subjects).
-- **Mixing up the io/tu/lui forms.** Since they all look the same (*parli*, *abbia*, *sia*), learners
-  often add the wrong pronoun or none at all — add the subject pronoun for clarity when needed.
+## 3. From the story
 
-## Practice
+“La mia vecchia azienda, a Chicago, **vuole che** io torni a lavorare per loro.” — My old company, in Chicago, **wants me** to go back to work for them. (`s05e03-3-017`)
+Different subjects — the company wants, Ben must go back — so *torni* is subjunctive.
 
-1. Complete with the infinitive or congiuntivo: *Ben vuole ___ (tornare) a Chicago, ma Chiara non
-   vuole che lui ___ (tornare).*
-2. Rewrite using *sperare che*: *Ben spera di avere una risposta chiara. (Chiara / capire)*
-3. Choose the correct form: *Preferisco che tu (dici / dica) la verità.*
-4. Same subject or different subjects? *Leo desidera mangiare un gelato.*
-5. Translate: "They want him to become marketing director."
-6. Fill in: *Ornella chiede che Ben ___ (parlare) con Chiara stasera.*
-7. Correct the mistake: *Spero che lei sa la verità.*
-8. Complete: *Voglio ___ (dire) la verità, ma ho paura.*
+“Non per una visita di una settimana. **Vogliono che** mi trasferisca lì, con tutta la famiglia.” — Not for a one-week visit. **They want** me to move there, with the whole family. (`s05e03-3-018`)
+Same pattern with *trasferirsi*: the company's will, Ben's action.
 
-**Answer key:**
-1. tornare; torni
-2. Ben spera che Chiara capisca.
-3. dica
-4. Same subject (infinitive, no *che*).
-5. Vogliono che lui diventi direttore marketing.
-6. parli
-7. Spero che lei sappia la verità.
-8. dire
+“Ti prometto il silenzio, ma **spero che** tu dica la verità a Chiara stasera, non domani, non la settimana prossima.” — I promise you silence, but **I hope** you tell Chiara the truth tonight, not tomorrow, not next week. (`s05e03-3-034`)
+Ornella hopes for someone else's action — *sperare che* + subjunctive, not *sperare di*.
+
+“Il problema è che **preferisco che** la mia vita non cambi ogni sei mesi, Emma.” — The problem is that **I prefer** my life not to change every six months, Emma. (`s05e03-5-012`)
+Chiara's preference is about her own life, but grammatically the subject of *cambiare* is "la mia vita," a different subject from "io," so the subjunctive still applies.
+
+“Sabato c'è il concerto di quel gruppo indie a Milano, ai Navigli. **Voglio che** tu mi lasci andare con Bianca, da sole.” — On Saturday there's that indie band's concert in Milan, at the Navigli. **I want** you to let me go with Bianca, alone. (`s05e03-5-019`)
+Emma to her mother: a clean example of *volere che* pushing for someone else's permission.
+
+“È sempre diverso, con te. **Chiedo che** tu mi dia un po' di fiducia, ogni tanto, senza mille domande.” — It's always different, with you. **I'm asking** you to give me a little trust, sometimes, without a thousand questions. (`s05e03-5-023`)
+*Chiedere che* + subjunctive, asking for an action from someone else.
+
+“**Desidero che** tu sia felice, Emma, e libera di scegliere. Ma anche al sicuro. Le due cose insieme.” — **I want** you to be happy, Emma, and free to choose. But also safe. Both things together. (`s05e03-5-029`)
+*Essere* → *sia*, an irregular but very common subjunctive form.
+
+“Io? Uh... **preferisco che** tu faccia quello che ti rende felice, davvero.” — Me? Uh... **I prefer** you to do whatever makes you happy, really. (`s05e03-6-033`)
+*Fare* → *faccia*: notice the contrast with the same-subject infinitive right after it in the scene — Ben starts a sentence about himself with an infinitive, then switches to *che* + subjunctive the moment the subject changes to "tu."
+
+## 4. Common mistakes
+
+- **Using the infinitive with a different subject.** *Voglio che tu vieni* is wrong — English speakers often reach for the indicative because "I want that you come" sounds so odd in English that they skip *che* altogether, or keep the indicative *vieni* out of habit. It must be *venga*.
+- **Forgetting *che* is compulsory** with a second subject, even when the meaning is obvious: not *Voglio tu parta*, but *Voglio che tu parta*.
+- **Mixing up *sperare che* and *sperare di*.** Use *di* + infinitive only when the subject doesn't change: *Spero di partire* (I hope to leave) vs *Spero che tu parta* (I hope you leave).
+- **Regularizing irregular verbs**: *che lui vadi* instead of *vada*, or *che io abbi* instead of *abbia*.
+
+## 5. Practice
+
+Complete each sentence with the correct form.
+
+1. Il capo vuole che io _____ (finire) il progetto entro venerdì.
+2. Spero che voi _____ (essere) pronti per stasera.
+3. Preferisco _____ (decidere) da sola, questa volta. (same subject)
+4. I miei genitori desiderano che io _____ (avere) più coraggio.
+5. Chiediamo che l'azienda _____ (dare) una risposta chiara.
+6. Voglio che tu _____ (dire) la verità, non quello che pensi io voglia sentire.
+7. Speriamo di _____ (tornare) presto. (same subject)
+8. Ornella preferisce che Ben _____ (parlare) con Chiara stasera.
+
+### Answer key
+
+1. finisca
+2. siate
+3. decidere
+4. abbia
+5. dia
+6. dica
+7. tornare
+8. parli
