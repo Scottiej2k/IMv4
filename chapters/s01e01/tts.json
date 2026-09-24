@@ -1,0 +1,3809 @@
+{
+  "chapter": "s01e01",
+  "model": "gemini-3.8-flash-tts",
+  "notes": "POST each chunk's 'request' to /v1beta/interactions in index order; join the WAV clips, adding a <long pause> of silence between scenes. See docs/tts-format.md.",
+  "chunks": [
+    {
+      "index": 0,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-1-001",
+        "s01e01-1-002",
+        "s01e01-1-003"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È domenica mattina a Borgoverde. C'è un furgone davanti a Via dei Tigli 14.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ecco la nostra nuova casa!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; excited"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 1,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-1-004",
+        "s01e01-1-005"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sì, Ben. È la nostra casa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, quella signora guarda.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-1-006",
+        "s01e01-1-007"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perché?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; whispering"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché è Via dei Tigli, Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-1-008",
+        "s01e01-1-009"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ornella osserva tutto dalla finestra.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buongiorno, signora!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; loud, too formal"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ornella",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-1-010",
+        "s01e01-1-011",
+        "s01e01-1-012",
+        "s01e01-1-013",
+        "s01e01-1-014",
+        "s01e01-1-015"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Buongiorno. Lei chi è?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured; formal"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mi chiamo Ben Carter. Sono il nuovo vicino.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ah. Lei è americano?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì, sono americano. Mia moglie è italiana.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Gacrux"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-1-016",
+        "s01e01-1-017",
+        "s01e01-1-018"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Piacere, signora. Mi chiamo Chiara Ferri.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; smiling"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Piacere. Io sono Ornella. Benvenuti a Via dei Tigli.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "narrator"
+      },
+      "segment_ids": [
+        "s01e01-1-019",
+        "s01e01-1-020"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Grazie! Molto gentile!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; proud, too loud"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Franco guarda dalla sua casa, dall'altra parte della via.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "franco",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-1-021",
+        "s01e01-1-022",
+        "s01e01-1-023"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mah.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ciao, nonno!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; waving"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mah.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Algenib"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 8,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "roberto"
+      },
+      "segment_ids": [
+        "s01e01-1-024",
+        "s01e01-1-025"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Roberto arriva veloce, con la sua bicicletta.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Scusi! Questo è il mio posto!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous; annoyed"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Alnilam"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 9,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "roberto"
+      },
+      "segment_ids": [
+        "s01e01-1-026",
+        "s01e01-1-027",
+        "s01e01-1-028",
+        "s01e01-1-029",
+        "s01e01-1-030",
+        "s01e01-1-031",
+        "s01e01-1-032",
+        "s01e01-1-033",
+        "s01e01-1-034"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Come? Non capisco bene.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; confused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il furgone è nel mio posto. Chi è Lei?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mi chiamo Ben. Sono il nuovo vicino.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Io sono Roberto Colombo. Sono il presidente del comitato.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous; formal"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Piacere, signor Colombo! Scusi per il furgone.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; nervous"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Non è un problema piccolo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Alnilam"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 10,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "roberto"
+      },
+      "segment_ids": [
+        "s01e01-1-035",
+        "s01e01-1-036",
+        "s01e01-1-037"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Roberto, muoviamo il furgone tra un'ora. Va bene così?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; fast, efficient"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "...Va bene. Ma solo un'ora.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Alnilam"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 11,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-1-038",
+        "s01e01-1-039"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Emma scende dal furgone, con le cuffie.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Emma, saluta la signora Ornella!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 12,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "emma",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-1-040",
+        "s01e01-1-041",
+        "s01e01-1-042"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ciao.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; flat"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buongiorno, cara. Come ti chiami?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Emma.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Leda"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 13,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s01e01-1-043",
+        "s01e01-1-044",
+        "s01e01-1-045"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È molto timida.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, non sono timida. Non ho voglia di parlare.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; annoyed"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 14,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-1-046",
+        "s01e01-1-047",
+        "s01e01-1-048"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Leo corre verso Ornella, con un giocattolo in mano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ciao! Mi chiamo Leo! Ho otto anni. Sono americano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; loud"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 15,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ornella",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-1-049",
+        "s01e01-1-050",
+        "s01e01-1-051"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Piacere, Leo. Che bel bambino.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured; warm"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché Lei guarda sempre dalla finestra?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché questa è la mia via.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured; laughing"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Gacrux"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 16,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-1-052",
+        "s01e01-1-053"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È molto simpatica, Ornella.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; to Chiara, low"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì, ma osserva tutto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 17,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "franco",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-1-054",
+        "s01e01-1-055",
+        "s01e01-1-056"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mah!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm; from across the street"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Nonno, vieni qui!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "No. Sono occupato.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Algenib"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 18,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-1-057",
+        "s01e01-1-058"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Franco non è occupato. Franco guarda solo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Franco è sempre così, la prima volta.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 19,
+      "scene": 1,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-1-059",
+        "s01e01-1-060",
+        "s01e01-1-061"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Arrivederci, signora Ornella! A presto!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; determined"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Arrivederci, Ben. Benvenuto davvero.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Vedi? Sono già il vicino perfetto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; to Chiara"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 20,
+      "scene": 1,
+      "speakers": {
+        "single": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-1-062"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sei il vicino con il furgone nel posto sbagliato.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; dry"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Kore"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 21,
+      "scene": 2,
+      "speakers": {
+        "single": "ben"
+      },
+      "segment_ids": [
+        "s01e01-2-001",
+        "s01e01-2-002",
+        "s01e01-2-003",
+        "s01e01-2-004"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mi chiamo Ben. Sono americano. Oggi conosco tre parole nuove: vicino, scusi, benvenuto. Sono pronto per l'Italia.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Molto pronto. Forse.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; to camera, hopeful"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Puck"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 22,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "maestra-paola"
+      },
+      "segment_ids": [
+        "s01e01-3-001",
+        "s01e01-3-002",
+        "s01e01-3-003",
+        "s01e01-3-004",
+        "s01e01-3-005"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È lunedì. Primo giorno di scuola. Leo entra nella classe con Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buongiorno, bambini! Oggi c'è un nuovo compagno. Come ti chiami?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient; warm"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Vindemiatrix"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 23,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "maestra-paola"
+      },
+      "segment_ids": [
+        "s01e01-3-006",
+        "s01e01-3-007",
+        "s01e01-3-008",
+        "s01e01-3-009",
+        "s01e01-3-010",
+        "s01e01-3-011"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mi chiamo Leo Carter. Sono americano, ma abito qui.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; confident"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Benvenuto, Leo! Questa è la tua nuova scuola.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché la scuola è gialla?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Non lo so, Leo. È sempre stata gialla.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient; laughing"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Vindemiatrix"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 24,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "pietro"
+      },
+      "segment_ids": [
+        "s01e01-3-012",
+        "s01e01-3-013"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Un bambino alza la mano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Io sono Pietro. So tutto della scuola.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all; know-it-all"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Achernar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 25,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "pietro"
+      },
+      "segment_ids": [
+        "s01e01-3-014",
+        "s01e01-3-015",
+        "s01e01-3-016",
+        "s01e01-3-017"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Piacere, Pietro!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; excited"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Piacere. Tu sei il nuovo vicino di Ornella?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì! Come sai il nome di Ornella?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sono il nome... il famoso nome della via.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Achernar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 26,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "pietro"
+      },
+      "segment_ids": [
+        "s01e01-3-018",
+        "s01e01-3-019"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "\"So\" e \"sono\" sono parole diverse: Pietro voleva dire \"so\", non \"sono\".",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Scusa, volevo dire: so il nome di tutti.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all; correcting himself"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Achernar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 27,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "maestra-paola"
+      },
+      "segment_ids": [
+        "s01e01-3-020",
+        "s01e01-3-021",
+        "s01e01-3-022",
+        "s01e01-3-023"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Anch'io! Mi chiamo Leo, e questo è il mio amico Pietro!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Molto bene, ragazzi. Sedetevi, per favore.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché dobbiamo sederci?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché la scuola comincia ora, Leo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Vindemiatrix"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 28,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "pietro",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-3-024",
+        "s01e01-3-025",
+        "s01e01-3-026",
+        "s01e01-3-027",
+        "s01e01-3-028",
+        "s01e01-3-029"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Lei è molto severa, ma è brava.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all; whispering"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Anche mia sorella è severa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Tu sei fortunato. Io non ho fratelli.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Vuoi conoscere la mia famiglia? Siamo in quattro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì! Siamo amici adesso?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Siamo amici per sempre!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Achernar"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 29,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "maestra-paola",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-3-030",
+        "s01e01-3-031"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Leo, Pietro, silenzio, per favore.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buongiorno vuol dire \"good morning\". Lo so già!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; to Pietro, low"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Vindemiatrix"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 30,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "pietro",
+        "Speaker2": "leo"
+      },
+      "segment_ids": [
+        "s01e01-3-032",
+        "s01e01-3-033"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bravo! Sei intelligente per un americano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sono un americano molto intelligente.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; proud"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Achernar"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Laomedeia"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 31,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "maestra-paola"
+      },
+      "segment_ids": [
+        "s01e01-3-034",
+        "s01e01-3-035"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Alla fine della lezione, tutti salutano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Arrivederci, bambini! A domani!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; primary-school teacher, gentle and patient"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Vindemiatrix"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 32,
+      "scene": 3,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "pietro"
+      },
+      "segment_ids": [
+        "s01e01-3-036",
+        "s01e01-3-037"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Arrivederci, maestra! Arrivederci, Pietro!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Arrivederci, amico!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high child's voice, a confident little know-it-all"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Achernar"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 33,
+      "scene": 4,
+      "speakers": {
+        "single": "leo"
+      },
+      "segment_ids": [
+        "s01e01-4-001",
+        "s01e01-4-002",
+        "s01e01-4-003",
+        "s01e01-4-004"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mi chiamo Leo. Ho un nuovo amico: Pietro. Pietro sa tutto. Anche cose false. Perché in Italia la scuola è gialla?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Non lo so. Ma mi piace molto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious; to camera"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Laomedeia"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 34,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-5-001",
+        "s01e01-5-002",
+        "s01e01-5-003",
+        "s01e01-5-004",
+        "s01e01-5-005",
+        "s01e01-5-006"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È il pomeriggio. Ben è ancora davanti a casa. Il furgone non c'è più, ma Ben cammina per la via.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Allora... Mi chiamo Ben, sono americano, sono il vicino.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; to himself"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ben ripete le sue tre frasi a ogni persona. Roberto esce di casa, con una lista in mano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buonasera, signor Colombo!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; enthusiastic"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 35,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "roberto",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-5-007",
+        "s01e01-5-008",
+        "s01e01-5-009",
+        "s01e01-5-010",
+        "s01e01-5-011",
+        "s01e01-5-012",
+        "s01e01-5-013",
+        "s01e01-5-014"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Non è buonasera. Sono le quattro.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ah. Scusi. Buongiorno, allora.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; embarrassed"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Neanche. È pomeriggio. Si dice \"buon pomeriggio\"... ...ma in italiano non si usa molto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Capisco. Grazie mille!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ben, ho una lista per Lei. Regola numero uno: il furgone, mai nel mio posto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous; formal, with a list"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sono d'accordo, signor Colombo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Alnilam"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 36,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-5-015",
+        "s01e01-5-016"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ornella esce sul suo balcone, con un gatto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Roberto, lasci in pace il povero americano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 37,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "roberto",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-5-017",
+        "s01e01-5-018",
+        "s01e01-5-019"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Buongiorno, signora Ornella.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous; stiff"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "È pomeriggio, Roberto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "...Giusto. Buonasera.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 50-year-old man, formal, precise, faintly pompous; flustered"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Alnilam"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 38,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "narrator"
+      },
+      "segment_ids": [
+        "s01e01-5-020",
+        "s01e01-5-021"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ora sono io il maestro!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; laughing"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Franco esce dal suo orto, con dei pomodori.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 39,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "franco",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-5-022",
+        "s01e01-5-023",
+        "s01e01-5-024",
+        "s01e01-5-025",
+        "s01e01-5-026",
+        "s01e01-5-027"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mah.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buonasera, Franco!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; hopeful"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "...",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Questi sono per Chiara.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm; short"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Grazie! Sono pomodori molto belli.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Lo so.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Algenib"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 40,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-5-028",
+        "s01e01-5-029"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Franco torna a casa senza altre parole.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Franco parla poco, ma i pomodori parlano per lui.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 41,
+      "scene": 5,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "ornella"
+      },
+      "segment_ids": [
+        "s01e01-5-030",
+        "s01e01-5-031",
+        "s01e01-5-032",
+        "s01e01-5-033",
+        "s01e01-5-034",
+        "s01e01-5-035"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Cosa vuol dire, signora?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Vuol dire che Lei è già di famiglia.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Davvero?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; moved"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Per ora, solo un poco.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 78-year-old woman, elegant, formal, measured"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Oggi sono il vicino, il presidente mi conosce, e ho i pomodori di Franco. Molto bene, Ben. Molto bene.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; to himself, proud"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Gacrux"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 42,
+      "scene": 6,
+      "speakers": {
+        "single": "emma"
+      },
+      "segment_ids": [
+        "s01e01-6-001",
+        "s01e01-6-002",
+        "s01e01-6-003",
+        "s01e01-6-004"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mi chiamo Emma. Non sono una bambina. Non voglio nuovi amici qui. Ho già amici a Chicago. Papà dice \"ciao\" a tutti. È imbarazzante.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; bored"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Va bene. Forse un giorno dirò più di \"ciao\".",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; to camera, softer"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Leda"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 43,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-7-001",
+        "s01e01-7-002"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È sera. La famiglia Carter cena nella nuova casa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Allora, com'è la prima scuola, Leo?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; tired but happy"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 44,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-7-003",
+        "s01e01-7-004",
+        "s01e01-7-005",
+        "s01e01-7-006"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Molto bene! Ho un nuovo compagno. Si chiama Pietro. È il mio amico.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Che bello! E la maestra?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Si chiama maestra Paola. È molto simpatica.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 45,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s01e01-7-007",
+        "s01e01-7-008",
+        "s01e01-7-009"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "E io sono il vicino più famoso della via!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; proud"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sei il vicino più imbarazzante della via.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; flat"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Roberto è un po' severo, ma è giusto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 46,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-7-010",
+        "s01e01-7-011"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "E Ornella?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ornella è molto gentile. Ci ha detto \"benvenuti\".",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 47,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-7-012",
+        "s01e01-7-013",
+        "s01e01-7-014"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "E il nonno ha detto solo \"Mah\"!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mio padre è sempre così. Ma i pomodori... i pomodori sono un regalo grande.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; laughing"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 48,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "ben",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-7-015",
+        "s01e01-7-016"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perché? Sono solo pomodori.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché mio padre non regala niente a nessuno.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 49,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "emma",
+        "Speaker2": "chiara"
+      },
+      "segment_ids": [
+        "s01e01-7-017",
+        "s01e01-7-018"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Neanche a te?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; surprised, softer"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Anche a me, raramente.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Leda"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Kore"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 50,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "emma"
+      },
+      "segment_ids": [
+        "s01e01-7-019",
+        "s01e01-7-020"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Emma guarda la finestra, verso la casa di Franco.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Forse il nonno non è così difficile.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 15-year-old girl, teenage, a bit exasperated; quiet"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Leda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 51,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "leo",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-7-021",
+        "s01e01-7-022"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Domani porto Pietro qui. È il mio migliore amico!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 8-year-old boy, high and bright child's voice, curious"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Certo, campione! La nostra casa è la sua casa.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Laomedeia"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 52,
+      "scene": 7,
+      "speakers": {
+        "Speaker1": "chiara",
+        "Speaker2": "ben"
+      },
+      "segment_ids": [
+        "s01e01-7-023",
+        "s01e01-7-024",
+        "s01e01-7-025"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sei stato bravo oggi, Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; to Ben, warm"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Molto bravo, o bravo e basta?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 41-year-old American man, upbeat and eager, noticeable American accent in Italian; strong American accent, hesitant; happy"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Solo un po' bravo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 40-year-old Italian woman from Milan, quick and decisive; smiling"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Kore"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 53,
+      "scene": 8,
+      "speakers": {
+        "Speaker1": "narrator",
+        "Speaker2": "franco"
+      },
+      "segment_ids": [
+        "s01e01-8-001",
+        "s01e01-8-002",
+        "s01e01-8-003",
+        "s01e01-8-004",
+        "s01e01-8-005"
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "È notte. Franco è ancora nel suo orto. Guarda le luci accese in casa Carter.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Buonasera, americano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm; alone, to himself"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Nessuno lo sente. Franco sorride, un po'.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker1",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, friendly storyteller, gently amused"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mah.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "Speaker2",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation; 71-year-old man, gravelly, gruff and slow, secretly warm"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "Speaker1",
+                "voice": "Sulafat"
+              },
+              {
+                "speaker": "Speaker2",
+                "voice": "Algenib"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

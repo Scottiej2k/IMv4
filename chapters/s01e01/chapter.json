@@ -1,0 +1,2392 @@
+{
+  "id": "s01e01",
+  "season": 1,
+  "episode": 1,
+  "level": "A1",
+  "title": {
+    "it": "Il primo giorno",
+    "en": "The First Day"
+  },
+  "grammar_focus": [
+    "g-essere-pronouns"
+  ],
+  "vocab_theme": "Greetings, introductions, nationalities",
+  "vocab": [
+    {
+      "id": "v-ciao",
+      "lemma": "ciao",
+      "pos": "interjection",
+      "en": "hi; bye",
+      "example": "s01e01-1-047",
+      "target": {
+        "it": "Ciao",
+        "en": "Hi"
+      }
+    },
+    {
+      "id": "v-buongiorno",
+      "lemma": "buongiorno",
+      "pos": "interjection",
+      "en": "good morning",
+      "example": "s01e01-1-010",
+      "target": {
+        "it": "Buongiorno",
+        "en": "Good morning"
+      }
+    },
+    {
+      "id": "v-buonasera",
+      "lemma": "buonasera",
+      "pos": "interjection",
+      "en": "good evening",
+      "example": "s01e01-5-007",
+      "target": {
+        "it": "buonasera",
+        "en": "evening"
+      }
+    },
+    {
+      "id": "v-arrivederci",
+      "lemma": "arrivederci",
+      "pos": "interjection",
+      "en": "goodbye",
+      "example": "s01e01-1-060",
+      "target": {
+        "it": "Arrivederci",
+        "en": "Goodbye"
+      }
+    },
+    {
+      "id": "v-mi-chiamo",
+      "lemma": "mi chiamo",
+      "pos": "expression",
+      "en": "my name is",
+      "example": "s01e01-1-011",
+      "target": {
+        "it": "Mi chiamo",
+        "en": "My name is"
+      },
+      "note": "Chiamarsi changes with the person: mi chiamo (I), ti chiami (you, informal), si chiama (he/she, or you formal)."
+    },
+    {
+      "id": "v-sono",
+      "lemma": "sono",
+      "pos": "verb",
+      "en": "I am; they are",
+      "example": "s01e01-1-012",
+      "target": {
+        "it": "Sono",
+        "en": "I am"
+      },
+      "note": "Present tense of essere: io sono, tu sei, lui/lei/Lei è, noi siamo, voi siete, loro sono."
+    },
+    {
+      "id": "v-americano",
+      "lemma": "americano",
+      "pos": "adjective",
+      "en": "American",
+      "example": "s01e01-1-013",
+      "target": {
+        "it": "americano",
+        "en": "American"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-italiano",
+      "lemma": "italiano",
+      "pos": "adjective",
+      "en": "Italian",
+      "example": "s01e01-1-015",
+      "target": {
+        "it": "italiana",
+        "en": "Italian"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-vicino",
+      "lemma": "il vicino",
+      "pos": "noun",
+      "en": "neighbour",
+      "example": "s01e01-1-012",
+      "target": {
+        "it": "vicino",
+        "en": "neighbour"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-scuola",
+      "lemma": "la scuola",
+      "pos": "noun",
+      "en": "school",
+      "example": "s01e01-3-010",
+      "target": {
+        "it": "scuola",
+        "en": "school"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-piacere",
+      "lemma": "piacere",
+      "pos": "interjection",
+      "en": "nice to meet you",
+      "example": "s01e01-1-017",
+      "target": {
+        "it": "Piacere",
+        "en": "Nice to meet you"
+      }
+    },
+    {
+      "id": "v-benvenuto",
+      "lemma": "benvenuto",
+      "pos": "interjection",
+      "en": "welcome",
+      "example": "s01e01-1-060",
+      "target": {
+        "it": "Benvenuto",
+        "en": "Welcome"
+      }
+    },
+    {
+      "id": "v-scusi",
+      "lemma": "scusi",
+      "pos": "interjection",
+      "en": "excuse me (formal)",
+      "example": "s01e01-1-033",
+      "target": {
+        "it": "Scusi",
+        "en": "Sorry"
+      }
+    },
+    {
+      "id": "v-nome",
+      "lemma": "il nome",
+      "pos": "noun",
+      "en": "name",
+      "example": "s01e01-3-016",
+      "target": {
+        "it": "nome",
+        "en": "name"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-maestra",
+      "lemma": "la maestra",
+      "pos": "noun",
+      "en": "teacher",
+      "example": "s01e01-3-036",
+      "target": {
+        "it": "maestra",
+        "en": "teacher"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-compagno",
+      "lemma": "il compagno",
+      "pos": "noun",
+      "en": "classmate",
+      "example": "s01e01-3-004",
+      "target": {
+        "it": "compagno",
+        "en": "classmate"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-amico",
+      "lemma": "l'amico",
+      "pos": "noun",
+      "en": "friend",
+      "example": "s01e01-7-004",
+      "target": {
+        "it": "amico",
+        "en": "friend"
+      },
+      "gender": "m/f"
+    },
+    {
+      "id": "v-famiglia",
+      "lemma": "la famiglia",
+      "pos": "noun",
+      "en": "family",
+      "example": "s01e01-3-027",
+      "target": {
+        "it": "famiglia",
+        "en": "family"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-molto",
+      "lemma": "molto",
+      "pos": "adverb",
+      "en": "very",
+      "example": "s01e01-1-052",
+      "target": {
+        "it": "molto",
+        "en": "very"
+      }
+    },
+    {
+      "id": "v-bene",
+      "lemma": "bene",
+      "pos": "adverb",
+      "en": "well",
+      "example": "s01e01-1-026",
+      "target": {
+        "it": "bene",
+        "en": "well"
+      }
+    },
+    {
+      "id": "v-perche",
+      "lemma": "perché",
+      "pos": "conjunction",
+      "en": "why; because",
+      "example": "s01e01-7-015",
+      "target": {
+        "it": "Perché",
+        "en": "Why"
+      }
+    },
+    {
+      "id": "v-casa",
+      "lemma": "la casa",
+      "pos": "noun",
+      "en": "house",
+      "example": "s01e01-1-003",
+      "target": {
+        "it": "casa",
+        "en": "house"
+      },
+      "gender": "f"
+    }
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "location": "via",
+      "characters": [
+        "ben",
+        "chiara",
+        "emma",
+        "leo",
+        "ornella",
+        "roberto",
+        "franco"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-001",
+              "it": "È domenica mattina a Borgoverde.",
+              "en": "It's Sunday morning in Borgoverde."
+            },
+            {
+              "id": "s01e01-1-002",
+              "it": "C'è un furgone davanti a Via dei Tigli 14.",
+              "en": "There's a van in front of Via dei Tigli 14."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-003",
+              "it": "Ecco la nostra nuova **casa**!",
+              "en": "Here's our new **house**!",
+              "focus": [
+                "v-casa"
+              ]
+            }
+          ],
+          "style": "excited"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-1-004",
+              "it": "Sì, Ben. È la nostra **casa**.",
+              "en": "Yes, Ben. It's our **house**.",
+              "focus": [
+                "v-casa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-1-005",
+              "it": "Papà, quella signora guarda.",
+              "en": "Dad, that lady is watching."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-006",
+              "it": "**Perché**?",
+              "en": "**Why**?",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ],
+          "style": "whispering"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-1-007",
+              "it": "**Perché** è Via dei Tigli, Ben.",
+              "en": "**Because** it's Via dei Tigli, Ben.",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-008",
+              "it": "Ornella osserva tutto dalla finestra.",
+              "en": "Ornella watches everything from her window."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-009",
+              "it": "Buongiorno, signora!",
+              "en": "Good morning, madam!"
+            }
+          ],
+          "style": "loud, too formal"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-010",
+              "it": "**Buongiorno**. Lei chi è?",
+              "en": "**Good morning**. Who are you?",
+              "focus": [
+                "v-buongiorno"
+              ]
+            }
+          ],
+          "style": "formal"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-011",
+              "it": "**Mi chiamo** Ben Carter.",
+              "en": "**My name is** Ben Carter.",
+              "focus": [
+                "v-mi-chiamo"
+              ]
+            },
+            {
+              "id": "s01e01-1-012",
+              "it": "**Sono** il nuovo **vicino**.",
+              "en": "**I am** the new **neighbour**.",
+              "focus": [
+                "v-sono",
+                "v-vicino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-013",
+              "it": "Ah. Lei è **americano**?",
+              "en": "Ah. Are you **American**?",
+              "focus": [
+                "v-americano"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-014",
+              "it": "Sì, sono **americano**.",
+              "en": "Yes, I am **American**.",
+              "focus": [
+                "v-americano"
+              ]
+            },
+            {
+              "id": "s01e01-1-015",
+              "it": "Mia moglie è **italiana**.",
+              "en": "My wife is **Italian**.",
+              "focus": [
+                "v-italiano"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-1-016",
+              "it": "**Piacere**, signora. **Mi chiamo** Chiara Ferri.",
+              "en": "**Nice to meet you**, madam. **My name is** Chiara Ferri.",
+              "focus": [
+                "v-piacere",
+                "v-mi-chiamo"
+              ]
+            }
+          ],
+          "style": "smiling"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-017",
+              "it": "**Piacere**. Io sono Ornella.",
+              "en": "**Nice to meet you**. I am Ornella.",
+              "focus": [
+                "v-piacere"
+              ]
+            },
+            {
+              "id": "s01e01-1-018",
+              "it": "**Benvenuti** a Via dei Tigli.",
+              "en": "**Welcome** to Via dei Tigli.",
+              "focus": [
+                "v-benvenuto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-019",
+              "it": "Grazie! **Molto** gentile!",
+              "en": "Thank you! **Very** kind!",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ],
+          "style": "proud, too loud"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-020",
+              "it": "Franco guarda dalla sua casa, dall'altra parte della via.",
+              "en": "Franco watches from his house, across the street."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-1-021",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-1-022",
+              "it": "**Ciao**, nonno!",
+              "en": "**Hi**, grandpa!",
+              "focus": [
+                "v-ciao"
+              ]
+            }
+          ],
+          "style": "waving"
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-1-023",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-024",
+              "it": "Roberto arriva veloce, con la sua bicicletta.",
+              "en": "Roberto arrives quickly, on his bicycle."
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-1-025",
+              "it": "Scusi! Questo è il mio posto!",
+              "en": "Excuse me! This is my spot!"
+            }
+          ],
+          "style": "annoyed"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-026",
+              "it": "Come? Non capisco **bene**.",
+              "en": "What? I don't understand **well**.",
+              "focus": [
+                "v-bene"
+              ]
+            }
+          ],
+          "style": "confused"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-1-027",
+              "it": "Il furgone è nel mio posto.",
+              "en": "The van is in my spot."
+            },
+            {
+              "id": "s01e01-1-028",
+              "it": "**Chi è Lei**?",
+              "en": "**Who are you**?",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-029",
+              "it": "**Mi chiamo** Ben. **Sono** il nuovo **vicino**.",
+              "en": "**My name is** Ben. **I am** the new **neighbour**.",
+              "focus": [
+                "v-mi-chiamo",
+                "v-sono",
+                "v-vicino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-1-030",
+              "it": "Io **sono** Roberto Colombo.",
+              "en": "**I am** Roberto Colombo.",
+              "focus": [
+                "v-sono"
+              ]
+            },
+            {
+              "id": "s01e01-1-031",
+              "it": "**Sono** il presidente del comitato.",
+              "en": "**I am** the president of the committee.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ],
+          "style": "formal"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-032",
+              "it": "**Piacere**, signor Colombo!",
+              "en": "**Nice to meet you**, Mr. Colombo!",
+              "focus": [
+                "v-piacere"
+              ]
+            },
+            {
+              "id": "s01e01-1-033",
+              "it": "**Scusi** per il furgone.",
+              "en": "**Sorry** about the van.",
+              "focus": [
+                "v-scusi"
+              ]
+            }
+          ],
+          "style": "nervous"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-1-034",
+              "it": "Non è un problema piccolo.",
+              "en": "It's not a small problem."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-1-035",
+              "it": "Roberto, muoviamo il furgone tra un'ora.",
+              "en": "Roberto, we'll move the van in an hour."
+            },
+            {
+              "id": "s01e01-1-036",
+              "it": "Va **bene** così?",
+              "en": "Is that **okay**?",
+              "focus": [
+                "v-bene"
+              ]
+            }
+          ],
+          "style": "fast, efficient"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-1-037",
+              "it": "...Va bene. Ma solo un'ora.",
+              "en": "...Okay. But only one hour."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-038",
+              "it": "Emma scende dal furgone, con le cuffie.",
+              "en": "Emma gets out of the van, with headphones."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-039",
+              "it": "Emma, saluta la signora Ornella!",
+              "en": "Emma, say hi to Mrs. Ornella!"
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-1-040",
+              "it": "**Ciao**.",
+              "en": "**Hi**.",
+              "focus": [
+                "v-ciao"
+              ]
+            }
+          ],
+          "style": "flat"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-041",
+              "it": "**Buongiorno**, cara. Come ti chiami?",
+              "en": "**Good morning**, dear. What's your name?",
+              "focus": [
+                "v-buongiorno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-1-042",
+              "it": "Emma.",
+              "en": "Emma."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-043",
+              "it": "È **molto** timida.",
+              "en": "She's **very** shy.",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-1-044",
+              "it": "Papà, non sono timida.",
+              "en": "Dad, I'm not shy."
+            },
+            {
+              "id": "s01e01-1-045",
+              "it": "Non ho voglia di parlare.",
+              "en": "I don't feel like talking."
+            }
+          ],
+          "style": "annoyed"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-046",
+              "it": "Leo corre verso Ornella, con un giocattolo in mano.",
+              "en": "Leo runs toward Ornella, with a toy in his hand."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-1-047",
+              "it": "**Ciao**! **Mi chiamo** Leo!",
+              "en": "**Hi**! **My name is** Leo!",
+              "focus": [
+                "v-ciao",
+                "v-mi-chiamo"
+              ]
+            },
+            {
+              "id": "s01e01-1-048",
+              "it": "Ho otto anni. **Sono** americano.",
+              "en": "I'm eight years old. **I am** American.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ],
+          "style": "loud"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-049",
+              "it": "**Piacere**, Leo. Che bel bambino.",
+              "en": "**Nice to meet you**, Leo. What a nice boy.",
+              "focus": [
+                "v-piacere"
+              ]
+            }
+          ],
+          "style": "warm"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-1-050",
+              "it": "**Perché** Lei guarda sempre dalla finestra?",
+              "en": "**Why** do you always look from the window?",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-051",
+              "it": "**Perché** questa è la mia via.",
+              "en": "**Because** this is my street.",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-052",
+              "it": "È **molto** simpatica, Ornella.",
+              "en": "She's **very** nice, Ornella.",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ],
+          "style": "to Chiara, low"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-1-053",
+              "it": "Sì, ma osserva tutto.",
+              "en": "Yes, but she watches everything."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-1-054",
+              "it": "Mah!",
+              "en": "Mah!"
+            }
+          ],
+          "style": "from across the street"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-1-055",
+              "it": "Nonno, vieni qui!",
+              "en": "Grandpa, come here!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-1-056",
+              "it": "No. **Sono** occupato.",
+              "en": "No. **I am** busy.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-1-057",
+              "it": "Franco non è occupato. Franco guarda solo.",
+              "en": "Franco isn't busy. Franco is only watching."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-058",
+              "it": "Franco è sempre così, la prima volta.",
+              "en": "Franco is always like that, the first time."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-059",
+              "it": "**Arrivederci**, signora Ornella! A presto!",
+              "en": "**Goodbye**, Mrs. Ornella! See you soon!",
+              "focus": [
+                "v-arrivederci"
+              ]
+            }
+          ],
+          "style": "determined"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-1-060",
+              "it": "**Arrivederci**, Ben. **Benvenuto** davvero.",
+              "en": "**Goodbye**, Ben. **Welcome**, truly.",
+              "focus": [
+                "v-arrivederci",
+                "v-benvenuto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-1-061",
+              "it": "Vedi? **Sono** già il vicino perfetto.",
+              "en": "See? **I am** already the perfect neighbour.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ],
+          "style": "to Chiara"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-1-062",
+              "it": "Sei il vicino con il furgone nel posto sbagliato.",
+              "en": "You're the neighbour with the van in the wrong spot."
+            }
+          ],
+          "style": "dry"
+        }
+      ],
+      "time": "domenica mattina"
+    },
+    {
+      "n": 2,
+      "location": "confessionale",
+      "characters": [
+        "ben"
+      ],
+      "turns": [
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-2-001",
+              "it": "**Mi chiamo** Ben. Sono **americano**.",
+              "en": "**My name is** Ben. I am **American**.",
+              "focus": [
+                "v-mi-chiamo",
+                "v-americano"
+              ]
+            },
+            {
+              "id": "s01e01-2-002",
+              "it": "Oggi conosco tre parole nuove: **vicino**, **scusi**, **benvenuto**.",
+              "en": "Today I know three new words: **neighbour**, **excuse me**, **welcome**.",
+              "focus": [
+                "v-vicino",
+                "v-scusi",
+                "v-benvenuto"
+              ]
+            },
+            {
+              "id": "s01e01-2-003",
+              "it": "**Sono** pronto per l'Italia.",
+              "en": "**I am** ready for Italy.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-2-004",
+              "it": "**Molto** pronto. Forse.",
+              "en": "**Very** ready. Maybe.",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ],
+          "style": "to camera, hopeful"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "location": "scuola-leo",
+      "characters": [
+        "leo",
+        "pietro",
+        "maestra-paola"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-3-001",
+              "it": "È lunedì. Primo giorno di **scuola**.",
+              "en": "It's Monday. First day of **school**.",
+              "focus": [
+                "v-scuola"
+              ]
+            },
+            {
+              "id": "s01e01-3-002",
+              "it": "Leo entra nella classe con Ben.",
+              "en": "Leo enters the classroom with Ben."
+            }
+          ]
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-003",
+              "it": "**Buongiorno**, bambini!",
+              "en": "**Good morning**, children!",
+              "focus": [
+                "v-buongiorno"
+              ]
+            },
+            {
+              "id": "s01e01-3-004",
+              "it": "Oggi c'è un nuovo **compagno**.",
+              "en": "Today there's a new **classmate**.",
+              "focus": [
+                "v-compagno"
+              ]
+            },
+            {
+              "id": "s01e01-3-005",
+              "it": "Come ti chiami?",
+              "en": "What's your name?"
+            }
+          ],
+          "style": "warm"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-006",
+              "it": "**Mi chiamo** Leo Carter.",
+              "en": "**My name is** Leo Carter.",
+              "focus": [
+                "v-mi-chiamo"
+              ]
+            },
+            {
+              "id": "s01e01-3-007",
+              "it": "**Sono** americano, ma abito qui.",
+              "en": "**I am** American, but I live here.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ],
+          "style": "confident"
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-008",
+              "it": "**Benvenuto**, Leo!",
+              "en": "**Welcome**, Leo!",
+              "focus": [
+                "v-benvenuto"
+              ]
+            },
+            {
+              "id": "s01e01-3-009",
+              "it": "Questa è la tua nuova **scuola**.",
+              "en": "This is your new **school**.",
+              "focus": [
+                "v-scuola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-010",
+              "it": "**Perché** la **scuola** è gialla?",
+              "en": "**Why** is the **school** yellow?",
+              "focus": [
+                "v-perche",
+                "v-scuola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-011",
+              "it": "Non lo so, Leo. È sempre stata gialla.",
+              "en": "I don't know, Leo. It's always been yellow."
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-3-012",
+              "it": "Un bambino alza la mano.",
+              "en": "A boy raises his hand."
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-013",
+              "it": "Io **sono** Pietro. So tutto della **scuola**.",
+              "en": "I am Pietro. I know everything about the **school**.",
+              "focus": [
+                "v-sono",
+                "v-scuola"
+              ]
+            }
+          ],
+          "style": "know-it-all"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-014",
+              "it": "**Piacere**, Pietro!",
+              "en": "**Nice to meet you**, Pietro!",
+              "focus": [
+                "v-piacere"
+              ]
+            }
+          ],
+          "style": "excited"
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-015",
+              "it": "**Piacere**. Tu sei il nuovo **vicino** di Ornella?",
+              "en": "**Nice to meet you**. Are you Ornella's new **neighbour**?",
+              "focus": [
+                "v-piacere",
+                "v-vicino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-016",
+              "it": "Sì! Come sai il **nome** di Ornella?",
+              "en": "Yes! How do you know Ornella's **name**?",
+              "focus": [
+                "v-nome"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-017",
+              "it": "**Sono** il **nome**... il famoso **nome** della via.",
+              "en": "I am the... the famous name of the street. [Ben's mistake corrected below]",
+              "focus": [
+                "v-sono",
+                "v-nome"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-3-018",
+              "it": "\"So\" e \"sono\" sono parole diverse: Pietro voleva dire \"so\", non \"sono\".",
+              "en": "\"So\" and \"sono\" are different words: Pietro meant \"I know\", not \"I am\"."
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-019",
+              "it": "Scusa, volevo dire: so il **nome** di tutti.",
+              "en": "Sorry, I meant: I know everyone's **name**.",
+              "focus": [
+                "v-nome"
+              ]
+            }
+          ],
+          "style": "correcting himself"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-020",
+              "it": "Anch'io! **Mi chiamo** Leo, e questo è il mio **amico** Pietro!",
+              "en": "Me too! **My name is** Leo, and this is my **friend** Pietro!",
+              "focus": [
+                "v-mi-chiamo",
+                "v-amico"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-021",
+              "it": "**Molto bene**, ragazzi. Sedetevi, per favore.",
+              "en": "**Very well**, boys. Sit down, please.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-022",
+              "it": "**Perché** dobbiamo sederci?",
+              "en": "**Why** do we have to sit down?",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-023",
+              "it": "**Perché** la **scuola** comincia ora, Leo.",
+              "en": "**Because** school starts now, Leo.",
+              "focus": [
+                "v-perche",
+                "v-scuola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-024",
+              "it": "Lei è **molto** severa, ma è brava.",
+              "en": "She's **very** strict, but she's good.",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ],
+          "style": "whispering"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-025",
+              "it": "Anche mia sorella è severa.",
+              "en": "My sister is strict too."
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-026",
+              "it": "**Tu sei** fortunato. Io non ho fratelli.",
+              "en": "**You are** lucky. I don't have siblings.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-027",
+              "it": "Vuoi conoscere la mia **famiglia**? Siamo in quattro.",
+              "en": "Do you want to meet my **family**? There are four of us.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-028",
+              "it": "Sì! **Siamo amici** adesso?",
+              "en": "Yes! **Are we friends** now?",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-029",
+              "it": "**Siamo amici** per sempre!",
+              "en": "**We are friends** forever!",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-030",
+              "it": "Leo, Pietro, silenzio, per favore.",
+              "en": "Leo, Pietro, quiet, please."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-031",
+              "it": "**Buongiorno** vuol dire \"good morning\". Lo so già!",
+              "en": "\"Buongiorno\" means \"good morning\". I already know that!",
+              "focus": [
+                "v-buongiorno"
+              ]
+            }
+          ],
+          "style": "to Pietro, low"
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-032",
+              "it": "Bravo! Sei intelligente per un americano.",
+              "en": "Well done! You're smart for an American."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-033",
+              "it": "**Sono** un americano **molto** intelligente.",
+              "en": "**I am** a **very** intelligent American.",
+              "focus": [
+                "v-sono",
+                "v-molto"
+              ]
+            }
+          ],
+          "style": "proud"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-3-034",
+              "it": "Alla fine della lezione, tutti salutano.",
+              "en": "At the end of the lesson, everyone says goodbye."
+            }
+          ]
+        },
+        {
+          "speaker": "maestra-paola",
+          "segments": [
+            {
+              "id": "s01e01-3-035",
+              "it": "**Arrivederci**, bambini! A domani!",
+              "en": "**Goodbye**, children! See you tomorrow!",
+              "focus": [
+                "v-arrivederci"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-3-036",
+              "it": "**Arrivederci**, **maestra**! **Arrivederci**, Pietro!",
+              "en": "**Goodbye**, **teacher**! **Goodbye**, Pietro!",
+              "focus": [
+                "v-arrivederci",
+                "v-maestra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "pietro",
+          "segments": [
+            {
+              "id": "s01e01-3-037",
+              "it": "**Arrivederci**, **amico**!",
+              "en": "**Goodbye**, **friend**!",
+              "focus": [
+                "v-arrivederci",
+                "v-amico"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "lunedì mattina"
+    },
+    {
+      "n": 4,
+      "location": "confessionale",
+      "characters": [
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-4-001",
+              "it": "**Mi chiamo** Leo. Ho un nuovo **amico**: Pietro.",
+              "en": "**My name is** Leo. I have a new **friend**: Pietro.",
+              "focus": [
+                "v-mi-chiamo",
+                "v-amico"
+              ]
+            },
+            {
+              "id": "s01e01-4-002",
+              "it": "Pietro sa tutto. Anche cose false.",
+              "en": "Pietro knows everything. Even false things."
+            },
+            {
+              "id": "s01e01-4-003",
+              "it": "**Perché** in Italia la **scuola** è gialla?",
+              "en": "**Why** in Italy is the school yellow?",
+              "focus": [
+                "v-perche",
+                "v-scuola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-4-004",
+              "it": "Non lo so. Ma mi piace **molto**.",
+              "en": "I don't know. But I like it **a lot**.",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ],
+          "style": "to camera"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "location": "via",
+      "characters": [
+        "ben",
+        "ornella",
+        "roberto",
+        "franco"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-5-001",
+              "it": "È il pomeriggio. Ben è ancora davanti a casa.",
+              "en": "It's the afternoon. Ben is still in front of the house."
+            },
+            {
+              "id": "s01e01-5-002",
+              "it": "Il furgone non c'è più, ma Ben cammina per la via.",
+              "en": "The van is gone, but Ben walks around the street."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-003",
+              "it": "Allora... **Mi chiamo** Ben, sono **americano**, **sono** il **vicino**.",
+              "en": "So... **My name is** Ben, I am **American**, **I am** the **neighbour**.",
+              "focus": [
+                "v-mi-chiamo",
+                "v-americano",
+                "v-sono",
+                "v-vicino"
+              ]
+            }
+          ],
+          "style": "to himself"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-5-004",
+              "it": "Ben ripete le sue tre frasi a ogni persona.",
+              "en": "Ben repeats his three sentences to every person."
+            },
+            {
+              "id": "s01e01-5-005",
+              "it": "Roberto esce di casa, con una lista in mano.",
+              "en": "Roberto comes out of his house, with a list in hand."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-006",
+              "it": "**Buonasera**, signor Colombo!",
+              "en": "**Good evening**, Mr. Colombo!",
+              "focus": [
+                "v-buonasera"
+              ]
+            }
+          ],
+          "style": "enthusiastic"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-5-007",
+              "it": "Non è **buonasera**. Sono le quattro.",
+              "en": "It's not **evening**. It's four o'clock.",
+              "focus": [
+                "v-buonasera"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-008",
+              "it": "Ah. **Scusi**. **Buongiorno**, allora.",
+              "en": "Ah. **Sorry**. **Good morning**, then.",
+              "focus": [
+                "v-scusi",
+                "v-buongiorno"
+              ]
+            }
+          ],
+          "style": "embarrassed"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-5-009",
+              "it": "Neanche. È pomeriggio. Si dice \"buon pomeriggio\"...",
+              "en": "Not that either. It's afternoon. You say \"good afternoon\"..."
+            },
+            {
+              "id": "s01e01-5-010",
+              "it": "...ma in italiano non si usa **molto**.",
+              "en": "...but in Italian it's not used **much**.",
+              "focus": [
+                "v-molto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-011",
+              "it": "Capisco. Grazie **mille**!",
+              "en": "I understand. Thanks a **million**!",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-5-012",
+              "it": "Ben, ho una lista per Lei.",
+              "en": "Ben, I have a list for you."
+            },
+            {
+              "id": "s01e01-5-013",
+              "it": "Regola numero uno: il furgone, mai nel mio posto.",
+              "en": "Rule number one: the van, never in my spot."
+            }
+          ],
+          "style": "formal, with a list"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-014",
+              "it": "**Sono** d'accordo, signor Colombo.",
+              "en": "**I agree**, Mr. Colombo.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-5-015",
+              "it": "Ornella esce sul suo balcone, con un gatto.",
+              "en": "Ornella comes out on her balcony, with a cat."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-5-016",
+              "it": "Roberto, lasci in pace il povero americano.",
+              "en": "Roberto, leave the poor American alone."
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-5-017",
+              "it": "**Buongiorno**, signora Ornella.",
+              "en": "**Good morning**, Mrs. Ornella.",
+              "focus": [
+                "v-buongiorno"
+              ]
+            }
+          ],
+          "style": "stiff"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-5-018",
+              "it": "È pomeriggio, Roberto.",
+              "en": "It's afternoon, Roberto."
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e01-5-019",
+              "it": "...Giusto. **Buonasera**.",
+              "en": "...Right. **Good evening**.",
+              "focus": [
+                "v-buonasera"
+              ]
+            }
+          ],
+          "style": "flustered"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-020",
+              "it": "Ora **sono** io il maestro!",
+              "en": "Now **I am** the teacher!",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-5-021",
+              "it": "Franco esce dal suo **orto**, con dei pomodori.",
+              "en": "Franco comes out of his garden, with tomatoes.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-5-022",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-023",
+              "it": "**Buonasera**, Franco!",
+              "en": "**Good evening**, Franco!",
+              "focus": [
+                "v-buonasera"
+              ]
+            }
+          ],
+          "style": "hopeful"
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-5-024",
+              "it": "...",
+              "en": "..."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-5-025",
+              "it": "Questi sono per Chiara.",
+              "en": "These are for Chiara."
+            }
+          ],
+          "style": "short"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-026",
+              "it": "Grazie! **Sono** pomodori **molto** belli.",
+              "en": "Thanks! These are **very** nice tomatoes.",
+              "focus": [
+                "v-sono",
+                "v-molto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-5-027",
+              "it": "Lo so.",
+              "en": "I know."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-5-028",
+              "it": "Franco torna a casa senza altre parole.",
+              "en": "Franco goes back home without another word."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-5-029",
+              "it": "Franco parla poco, ma i pomodori parlano per lui.",
+              "en": "Franco doesn't talk much, but the tomatoes speak for him."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-030",
+              "it": "Cosa vuol dire, signora?",
+              "en": "What does that mean, madam?"
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-5-031",
+              "it": "Vuol dire che Lei **è** già di **famiglia**.",
+              "en": "It means you're already **part of the family**.",
+              "focus": [
+                "v-sono",
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-032",
+              "it": "Davvero?",
+              "en": "Really?"
+            }
+          ],
+          "style": "moved"
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e01-5-033",
+              "it": "Per ora, solo un poco.",
+              "en": "For now, just a little."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-5-034",
+              "it": "Oggi **sono** il **vicino**, il presidente mi conosce, e ho i pomodori di Franco.",
+              "en": "Today **I am** the **neighbour**, the president knows me, and I have Franco's tomatoes.",
+              "focus": [
+                "v-sono",
+                "v-vicino"
+              ]
+            },
+            {
+              "id": "s01e01-5-035",
+              "it": "**Molto bene**, Ben. **Molto bene**.",
+              "en": "**Very well**, Ben. **Very well**.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ],
+          "style": "to himself, proud"
+        }
+      ],
+      "time": "lunedì pomeriggio"
+    },
+    {
+      "n": 6,
+      "location": "confessionale",
+      "characters": [
+        "emma"
+      ],
+      "turns": [
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-6-001",
+              "it": "**Mi chiamo** Emma. Non **sono** una bambina.",
+              "en": "**My name is** Emma. I'm not a little kid.",
+              "focus": [
+                "v-mi-chiamo",
+                "v-sono"
+              ]
+            },
+            {
+              "id": "s01e01-6-002",
+              "it": "Non voglio nuovi **amici** qui. Ho già **amici** a Chicago.",
+              "en": "I don't want new **friends** here. I already have **friends** in Chicago.",
+              "focus": [
+                "v-amico"
+              ]
+            },
+            {
+              "id": "s01e01-6-003",
+              "it": "Papà dice \"ciao\" a tutti. È imbarazzante.",
+              "en": "Dad says \"hi\" to everyone. It's embarrassing."
+            }
+          ],
+          "style": "bored"
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-6-004",
+              "it": "Va bene. Forse un giorno dirò più di \"ciao\".",
+              "en": "Fine. Maybe one day I'll say more than \"hi\"."
+            }
+          ],
+          "style": "to camera, softer"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "location": "casa-carter",
+      "characters": [
+        "ben",
+        "chiara",
+        "emma",
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-7-001",
+              "it": "È sera. La **famiglia** Carter cena nella nuova **casa**.",
+              "en": "It's evening. The Carter **family** has dinner in the new **house**.",
+              "focus": [
+                "v-famiglia",
+                "v-casa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-002",
+              "it": "Allora, com'è la prima **scuola**, Leo?",
+              "en": "So, how was your first day of **school**, Leo?",
+              "focus": [
+                "v-scuola"
+              ]
+            }
+          ],
+          "style": "tired but happy"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-7-003",
+              "it": "**Molto bene**! Ho un nuovo **compagno**.",
+              "en": "**Very good**! I have a new **classmate**.",
+              "focus": [
+                "g-essere-pronouns",
+                "v-compagno"
+              ]
+            },
+            {
+              "id": "s01e01-7-004",
+              "it": "Si chiama Pietro. **È** il mio **amico**.",
+              "en": "His name is Pietro. **He's** my **friend**.",
+              "focus": [
+                "v-sono",
+                "v-amico"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-005",
+              "it": "Che **bello**! E la **maestra**?",
+              "en": "How **nice**! And the **teacher**?",
+              "focus": [
+                "g-essere-pronouns",
+                "v-maestra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-7-006",
+              "it": "Si chiama **maestra** Paola. **È molto** simpatica.",
+              "en": "Her name is **teacher** Paola. **She's very** nice.",
+              "focus": [
+                "v-maestra",
+                "g-essere-pronouns"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-7-007",
+              "it": "E io **sono** il **vicino** più famoso della via!",
+              "en": "And I am the most famous **neighbour** on the street!",
+              "focus": [
+                "v-sono",
+                "v-vicino"
+              ]
+            }
+          ],
+          "style": "proud"
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-7-008",
+              "it": "Sei il vicino più imbarazzante della via.",
+              "en": "You're the most embarrassing neighbour on the street."
+            }
+          ],
+          "style": "flat"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-7-009",
+              "it": "Roberto **è** un po' severo, ma **è** giusto.",
+              "en": "Roberto **is** a bit strict, but he's fair.",
+              "focus": [
+                "v-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-010",
+              "it": "E Ornella?",
+              "en": "And Ornella?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-7-011",
+              "it": "Ornella **è molto** gentile. Ci ha detto \"**benvenuti**\".",
+              "en": "Ornella **is very** kind. She told us \"**welcome**\".",
+              "focus": [
+                "g-essere-pronouns",
+                "v-benvenuto"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-7-012",
+              "it": "E il nonno ha detto solo \"Mah\"!",
+              "en": "And grandpa only said \"Mah\"!"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-013",
+              "it": "**Mio padre è** sempre così.",
+              "en": "**My father is** always like that.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            },
+            {
+              "id": "s01e01-7-014",
+              "it": "Ma i pomodori... i pomodori sono un regalo grande.",
+              "en": "But the tomatoes... the tomatoes are a big gift."
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-7-015",
+              "it": "**Perché**? Sono solo pomodori.",
+              "en": "**Why**? They're just tomatoes.",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-016",
+              "it": "**Perché** mio padre non regala niente a nessuno.",
+              "en": "**Because** my father doesn't give gifts to anyone.",
+              "focus": [
+                "v-perche"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-7-017",
+              "it": "Neanche a te?",
+              "en": "Not even to you?"
+            }
+          ],
+          "style": "surprised, softer"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-018",
+              "it": "Anche a me, raramente.",
+              "en": "Even to me, rarely."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-7-019",
+              "it": "Emma guarda la finestra, verso la casa di Franco.",
+              "en": "Emma looks at the window, toward Franco's house."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e01-7-020",
+              "it": "Forse il nonno non è così difficile.",
+              "en": "Maybe grandpa isn't so difficult."
+            }
+          ],
+          "style": "quiet"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e01-7-021",
+              "it": "Domani porto Pietro qui. **È** il mio migliore **amico**!",
+              "en": "Tomorrow I'll bring Pietro here. He's my best **friend**!",
+              "focus": [
+                "v-sono",
+                "v-amico"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-7-022",
+              "it": "Certo, campione! La nostra **casa** è la sua **casa**.",
+              "en": "Sure, champ! Our **house** is his **house**.",
+              "focus": [
+                "v-casa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-023",
+              "it": "**Sei stato bravo** oggi, Ben.",
+              "en": "**You did well** today, Ben.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            }
+          ],
+          "style": "to Ben, warm"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e01-7-024",
+              "it": "**Molto** bravo, o **bravo** e basta?",
+              "en": "**Very** good, or just good?",
+              "focus": [
+                "v-molto",
+                "g-essere-pronouns"
+              ]
+            }
+          ],
+          "style": "happy"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e01-7-025",
+              "it": "Solo un po' bravo.",
+              "en": "Just a little good."
+            }
+          ],
+          "style": "smiling"
+        }
+      ],
+      "time": "lunedì sera"
+    },
+    {
+      "n": 8,
+      "location": "via",
+      "characters": [
+        "franco"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-8-001",
+              "it": "È notte. Franco è ancora nel suo **orto**.",
+              "en": "It's night. Franco is still in his garden.",
+              "focus": [
+                "g-essere-pronouns"
+              ]
+            },
+            {
+              "id": "s01e01-8-002",
+              "it": "Guarda le luci accese in casa Carter.",
+              "en": "He looks at the lit windows of the Carter house."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-8-003",
+              "it": "**Buonasera**, americano.",
+              "en": "**Good evening**, American.",
+              "focus": [
+                "v-buonasera"
+              ]
+            }
+          ],
+          "style": "alone, to himself"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e01-8-004",
+              "it": "Nessuno lo sente. Franco sorride, un po'.",
+              "en": "Nobody hears him. Franco smiles, a little."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e01-8-005",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        }
+      ],
+      "time": "lunedì notte"
+    }
+  ]
+}
