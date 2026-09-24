@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/scottiej2k/imv4/schema/chapter.schema.json",
+  "title": "IMv4 chapter source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "season", "episode", "level", "title", "grammar_focus", "vocab_theme", "vocab", "scenes"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^s\\d{2}e\\d{2}$" },
+    "season": { "type": "integer", "minimum": 1 },
+    "episode": { "type": "integer", "minimum": 1 },
+    "level": { "enum": ["A1", "A2", "B1", "B2"] },
+    "title": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["it", "en"],
+      "properties": { "it": { "type": "string" }, "en": { "type": "string" } }
+    },
+    "grammar_focus": {
+      "description": "Grammar point ids from curriculum/chapters.json, e.g. 'g-essere-present'.",
+      "type": "array",
+      "items": { "type": "string", "pattern": "^g-[a-z0-9-]+$" },
+      "minItems": 1
+    },
+    "vocab_theme": { "type": "string" },
+    "vocab": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/vocabItem" }
+    },
+    "scenes": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/scene" }
+    }
+  },
+  "$defs": {
+    "vocabItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "lemma", "pos", "en", "example"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^v-[a-z0-9-]+$" },
+        "lemma": { "type": "string", "description": "Dictionary form, or the full phrase for expressions." },
+        "pos": { "enum": ["noun", "verb", "adjective", "adverb", "pronoun", "preposition", "conjunction", "determiner", "interjection", "expression", "number"] },
+        "gender": { "enum": ["m", "f", "m/f"] },
+        "plural": { "type": "string", "description": "Only when irregular." },
+        "en": { "type": "string" },
+        "example": { "type": "string", "pattern": "^s\\d{2}e\\d{2}-\\d+-\\d{3}$", "description": "Segment id quoted as the example sentence." },
+        "note": { "type": "string" }
+      }
+    },
+    "scene": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["n", "location", "characters", "turns"],
+      "properties": {
+        "n": { "type": "integer", "minimum": 1 },
+        "location": { "type": "string", "description": "Location id from the world bible." },
+        "time": { "type": "string" },
+        "characters": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "turns": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/turn" } }
+      }
+    },
+    "turn": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["speaker", "segments"],
+      "properties": {
+        "speaker": { "type": "string", "description": "Character id from config/voices.json, or 'narrator'." },
+        "style": { "type": "string", "description": "Spoken delivery for this turn (TTS only), e.g. 'annoyed, whispering'." },
+        "segments": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/segment" } }
+      }
+    },
+    "segment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "it", "en"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^s\\d{2}e\\d{2}-\\d+-\\d{3}$" },
+        "it": { "type": "string", "description": "Italian. **bold** marks focus items; audio tags like <laugh> allowed." },
+        "en": { "type": "string", "description": "English. **bold** marks the translation of the focus items." },
+        "focus": { "type": "array", "items": { "type": "string", "pattern": "^(v|g)-[a-z0-9-]+$" } }
+      }
+    }
+  }
+}

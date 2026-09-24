@@ -1,0 +1,13 @@
+{
+  "_comment": "Single source of truth for TTS voices. Filled in during the world-bible phase. See docs/tts-format.md.",
+  "model": "gemini-3.8-flash-tts",
+  "level_styles": {
+    "A1": "speaking slowly and very clearly, standard Italian pronunciation",
+    "A2": "speaking a little slower than normal, clearly",
+    "B1": "natural conversational pace",
+    "B2": ""
+  },
+  "voices": {
+    "narrator": { "voice": "TBD", "style": "calm, friendly storyteller" }
+  }
+}
