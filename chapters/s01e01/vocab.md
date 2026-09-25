@@ -8,50 +8,50 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **mi chiamo**<br>(expr.) · my name is | Ciao! **Mi chiamo** Leo! | Hi! **My name is** Leo! |
-| **piacere**<br>(expr.) · nice to meet you | Bene, bene. **Piacere**, Leo. | Good, good. **Nice to meet you**, Leo. |
-| **come si chiama**<br>(expr.) · what's your name (formal) | **Come si chiama** Lei, bambino? | **What is your name**, little boy? |
-| **come ti chiami**<br>(expr.) · what's your name (informal) | Di': "**Come ti chiami**?" | Say: "**What's your name**?" |
+| **mi chiamo**<br>(expr.) · my name is | **Mi chiamo** Ben Carter. | **My name is** Ben Carter. |
+| **piacere**<br>(expr.) · pleased to meet you | Sì. Ben Carter. **Piacere**. | Yes. Ben Carter. **Pleased to meet you**. |
 
 ## Verbs
 
 | Parola | Italiano | English |
 |---|---|---|
-| **essere**<br>(v.) · to be | Allora. Io **sono** pronto. | So. I **am** ready. |
+| **essere**<br>(v.) · to be | Sì, Leo. Io **sono** americano. | Yes, Leo. I **am** American. |
 
 ## Nouns
 
 | Parola | Italiano | English |
 |---|---|---|
-| **il vicino**<br>(n., m) · neighbour | Sono il nuovo **vicino**. | I'm the new **neighbour**. |
-| **la scuola**<br>(n., f) · school | Benvenuto nella nostra **scuola**. | Welcome to our **school**. |
+| **il vicino**<br>(n., m) · neighbour | Sì, sono il nuovo **vicino**. | Yes, I’m the new **neighbour**. |
+| **la scuola**<br>(n., f) · school | Sì. La **scuola** è qui. | Yes. The **school** is here. |
+| **il signore**<br>(n., m) · gentleman; sir | Chiara, questo **signore** è il vicino? | Chiara, is this **gentleman** the neighbour? |
+| **la signora**<br>(n., f) · lady; ma’am | Mamma, la **signora** è alla finestra. | Mom, the **lady** is at the window. |
+| **la famiglia**<br>(n., f) · family | Sì. **La famiglia** è pronta. | Yes. **The family** is ready. |
+| **la casa**<br>(n., f) · house; home | Le scatole sono della vostra **casa**? | Are the boxes for your **house**? |
+| **il nome**<br>(n., m) · name | Il mio **nome** è Emma. | My **name** is Emma. |
+| **l’amico**<br>(n., m) · friend | Sono il tuo **amico**? | Am I your **friend**? |
+| **la classe**<br>(n., f) · class | La **classe** è grande. | The **class** is big. |
+| **il maestro**<br>(n., m) · teacher | Leo, questa è la tua **maestra**. | Leo, this is your **teacher**. |
+| **il furgone**<br>(n., m) · van | Bene. E questo **furgone**? | Good. And this **van**? |
+| **il posto**<br>(n., m) · space; spot | È un **posto** speciale. | It’s a special **spot**. |
+| **il gatto**<br>(n., m) · cat | «E questo è il **gatto**». | “And this is the **cat**.” |
+| **la finestra**<br>(n., f) · window | Dalla **finestra**, arriva una voce gentile. | A kind voice comes from the **window**. |
+| **il quaderno**<br>(n., m) · notebook | Pietro, aiuti Leo con il **quaderno**? | Pietro, will you help Leo with the **notebook**? |
 
 ## Adjectives
 
 | Parola | Italiano | English |
 |---|---|---|
-| **americano**<br>(adj.) · American | Io sono **americano**! Di Chicago! | I am **American**! From Chicago! |
-| **italiano**<br>(adj.) · Italian | Chiara dice che l'**italiano** è difficile per me. | Chiara says that **Italian** is hard for me. |
-| **nuovo**<br>(adj.) · new | Sono il **nuovo** vicino. | I'm the **new** neighbour. |
-
-## Pronouns
-
-| Parola | Italiano | English |
-|---|---|---|
-| **io**<br>(pron.) · I | Allora. **Io** sono pronto. | So. **I** am ready. |
-| **tu**<br>(pron.) · you (informal) | **Tu** hai un cane, a Chicago? | **Do you** have a dog, in Chicago? |
-| **lui**<br>(pron.) · he | Roberto, **lui** è nuovo. | Roberto, **he** is new. |
-| **lei**<br>(pron.) · she; you (formal)<br>_Lowercase lei is "she"; capitalized Lei is formal "you"._ | No, no. Con me, "**Lei**". | No, no. With me, "**you**" (formal). |
-| **noi**<br>(pron.) · we | No, no, con energia! Come **noi**! | No, no, with energy! Like **us**! |
-| **voi**<br>(pron.) · you (plural) | **Voi** siete una bella famiglia, davvero. | **You** are a lovely family, really. |
-| **loro**<br>(pron.) · they | Non sono sconosciuti! **Loro** sono i vicini! | They're not strangers! **They** are the neighbours! |
+| **americano**<br>(adj., m/f) · American | Sì, italiana e **americana**. | Yes, Italian and **American**. |
+| **italiano**<br>(adj., m/f) · Italian | Sì, **italiana** e americana. | Yes, **Italian** and American. |
+| **benvenuto**<br>(adj., m) · welcome | **Benvenuto**? È per me? | **Welcome**? Is that for me? |
 
 ## Interjections
 
 | Parola | Italiano | English |
 |---|---|---|
-| **ciao**<br>(interj.) · hi; bye | **Ciao**! Mi chiamo Leo! | **Hi**! My name is Leo! |
-| **buongiorno**<br>(interj.) · good morning | Hi! Hi! Anche "**buongiorno**"? | Hi! Hi! Also "**good morning**"? |
-| **buonasera**<br>(interj.) · good evening | **Buonasera** a tutti. Buon riposo. | **Good evening** everyone. Rest well. |
-| **arrivederci**<br>(interj.) · goodbye | Bene. **Arrivederci**, signor Carter. | Good. **Goodbye**, Mr. Carter. |
-| **benvenuto**<br>(interj.) · welcome | Piacere. **Benvenuto** in Via dei Tigli. | Nice to meet you. **Welcome** to Via dei Tigli. |
+| **ciao**<br>(interj.) · hi; bye | **Ciao**, Emma. Senza discorso. | **Bye**, Emma. No speech. |
+| **buongiorno**<br>(interj.) · good morning | Allora, **buongiorno**, signor Franco! | Then, **good morning**, Mr. Franco! |
+| **buonasera**<br>(interj.) · good evening | **Buonasera**, ragazzi. | **Good evening**, children. |
+| **arrivederci**<br>(interj.) · goodbye | **Arrivederci**, mamma di Leo. | **Goodbye**, Leo’s mom. |
+| **grazie**<br>(interj.) · thank you | **Grazie**. Il mio primo giorno è bello. | **Thank you**. My first day is nice. |
+| **mah**<br>(interj.) · well; I don’t know | **Mah**. | **Well**. |
