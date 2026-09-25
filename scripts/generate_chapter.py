@@ -1,23 +1,29 @@
 #!/usr/bin/env python3
-"""Generate a chapter with the Claude API, scene by scene (see scripts/pipeline.py).
+"""Generate a chapter scene by scene (see scripts/pipeline.py) with the Claude API or OpenRouter.
 
 The whole chapter is one conversation: outline → one turn per scene → grammar lesson →
 at most one round of line fixes. The system prompt is cached, and so is the growing
 conversation, so each turn pays full price only for its new text.
 
-Requires:  pip install anthropic   and   ANTHROPIC_API_KEY in the environment.
+Claude models (claude-…): pip install anthropic, and ANTHROPIC_API_KEY in the environment.
+OpenRouter models (any slug with a '/', e.g. openai/gpt-6-luna): no packages needed. The key comes
+from OPENROUTER_API_KEY if set; otherwise the request is sent without one, for environments whose
+proxy adds the Authorization header for openrouter.ai.
 
 Usage:
+  python3 scripts/generate_chapter.py s01e01 --model openai/gpt-6-luna
   python3 scripts/generate_chapter.py s01e01                        # default model: claude-sonnet-5
   python3 scripts/generate_chapter.py s01e01 --model claude-opus-5-5 --effort high
   python3 scripts/generate_chapter.py s01e01 --force                # start over
 """
 import argparse
+import json
+import os
 import sys
 import time
+import urllib.error
+import urllib.request
 from pathlib import Path
-
-import anthropic
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from pipeline import Pipeline  # noqa: E402
@@ -28,6 +34,7 @@ PRICES = {"claude-sonnet-5": (2.0, 10.0), "claude-opus-5-5": (4.0, 20.0), "claud
 
 
 def call(client, model, effort, system, messages):
+    import anthropic
     kwargs = dict(
         model=model,
         max_tokens=32000,
@@ -70,6 +77,49 @@ def call(client, model, effort, system, messages):
     return msg
 
 
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+
+
+def call_openrouter(model, effort, system, messages):
+    """One chat-completions request to OpenRouter. Returns (text, usage dict with 'cost' in USD)."""
+    body = {
+        "model": model,
+        "max_tokens": 32000,
+        "messages": [{"role": "system", "content": system}] + messages,
+        "reasoning": {"effort": {"xhigh": "high", "max": "high"}.get(effort, effort)},
+        "usage": {"include": True},
+    }
+    headers = {"Content-Type": "application/json", "X-Title": "IMv4 Italian course"}
+    if os.environ.get("OPENROUTER_API_KEY"):
+        headers["Authorization"] = f"Bearer {os.environ['OPENROUTER_API_KEY']}"
+    data = json.dumps(body).encode()
+    for attempt in range(4):
+        req = urllib.request.Request(OPENROUTER_URL, data=data, headers=headers, method="POST")
+        try:
+            with urllib.request.urlopen(req, timeout=900) as resp:
+                out = json.loads(resp.read())
+            break
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode(errors="replace")[:300]
+            if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+                print(f"  OpenRouter {e.code}; retrying")
+                time.sleep(2 ** attempt * 10)
+                continue
+            raise RuntimeError(f"OpenRouter error {e.code}: {detail}")
+        except urllib.error.URLError:
+            if attempt < 3:
+                print("  connection error; retrying")
+                time.sleep(2 ** attempt * 5)
+                continue
+            raise
+    if "error" in out:
+        raise RuntimeError(f"OpenRouter error: {out['error']}")
+    choice = out["choices"][0]
+    if choice.get("finish_reason") == "length":
+        print("  warning: a reply hit max_tokens and may be cut off")
+    return choice["message"]["content"] or "", out.get("usage", {})
+
+
 def cost(model, usage):
     pin, pout = PRICES.get(model, (0, 0))
     cached = getattr(usage, "cache_read_input_tokens", 0) or 0
@@ -87,23 +137,35 @@ def main():
 
     pipe = Pipeline(args.chapter)
     pipe.start(force=args.force)
-    client = anthropic.Anthropic()
+    openrouter = "/" in args.model
+    client = None
+    if not openrouter:
+        import anthropic
+        client = anthropic.Anthropic()
     messages, total, out_tokens = [], 0.0, 0
 
-    print(f"{args.chapter}: writing with {args.model} (effort {args.effort})")
+    print(f"{args.chapter}: writing with {args.model} via {'OpenRouter' if openrouter else 'Claude API'} "
+          f"(effort {args.effort})")
     prompt = pipe.next_prompt()
     while prompt is not None:
         print(f"- {prompt.splitlines()[0][:70]}")
         messages.append({"role": "user", "content": prompt})
-        msg = call(client, args.model, args.effort, pipe.system, messages)
-        messages.append({"role": "assistant", "content": msg.content})  # thinking blocks passed back unchanged
-        total += cost(args.model, msg.usage)
-        out_tokens += msg.usage.output_tokens
-        pipe.submit("".join(b.text for b in msg.content if b.type == "text"))
+        if openrouter:
+            text, usage = call_openrouter(args.model, args.effort, pipe.system, messages)
+            messages.append({"role": "assistant", "content": text})
+            total += float(usage.get("cost") or 0)
+            out_tokens += int(usage.get("completion_tokens") or 0)
+        else:
+            msg = call(client, args.model, args.effort, pipe.system, messages)
+            messages.append({"role": "assistant", "content": msg.content})  # thinking blocks passed back unchanged
+            total += cost(args.model, msg.usage)
+            out_tokens += msg.usage.output_tokens
+            text = "".join(b.text for b in msg.content if b.type == "text")
+        pipe.submit(text)
         prompt = pipe.next_prompt()
 
     print(f"{args.chapter}: done · {len(messages) // 2} calls · {out_tokens} output tokens · "
-          f"estimated cost ${total:.2f}")
+          f"{'cost' if openrouter else 'estimated cost'} ${total:.3f}")
 
 
 if __name__ == "__main__":
