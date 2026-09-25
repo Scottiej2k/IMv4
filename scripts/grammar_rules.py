@@ -47,7 +47,10 @@ RULES = [
      "re": r"\b(?:ero|eri|era|eravamo|eravate|erano|c'era|c'erano|avevo|avevi|aveva|avevamo|avevate|avevano|"
            r"facevo|faceva|facevano|dicevo|diceva|stavo|stava|stavano|andavo|andava|andavano|volevo|voleva|"
            r"potevo|poteva|dovevo|doveva|sapevo|sapeva|pensavo|pensava|sembrava|\w{3,}(?:avamo|avate|avano|"
-           r"evamo|evate|evano|ivamo|ivate|ivano))\b"},
+           r"evamo|evate|evano|ivamo|ivate|ivano))\b",
+     # Present-tense verbs that only look like the imperfect (S1E2: "arrivano" flagged).
+     "exclude": {"arrivano", "derivano", "coltivano", "attivano", "motivano", "privano", "ravvivano",
+                 "lavano", "scavano", "aggravano", "levano", "sollevano", "allevano", "rilevano", "elevano"}},
     {"concept": "g-conditional-polite", "what": "conditional (beyond the fixed phrase 'vorrei')",
      "examples": "potresti, sarebbe, mi piacerebbe, dovresti",
      "re": r"\b(?:sarei|saresti|sarebbe|saremmo|sareste|sarebbero|avrei|avresti|avrebbe|avremmo|avreste|"
