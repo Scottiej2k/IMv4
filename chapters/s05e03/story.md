@@ -4,518 +4,1228 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Bar Tigli · mattina presto
+## 1. Casa Carter, Via dei Tigli 14 · martedì mattina, prima di scuola
 
-Sono le sette del mattino al Bar Tigli, e il bar è ancora vuoto. Ben pulisce il bancone e controlla il telefono, per abitudine.
+È martedì mattina e **la neve** cade lenta sui tetti di Via dei Tigli. In casa Carter, però, nessuno guarda fuori dalla finestra. In cucina c'è il rumore del cucchiaio nel caffè e delle scarpe di Emma.
 
-*Ben:* Un'altra email dalla banca... no, aspetta.
+*Chiara:* Emma! Il treno è alle sette e quarantotto, non alle otto!
 
-Ben legge, e smette di respirare.
+*Emma:* Mamma, lo so. Il treno **parte** alle sette e quarantotto tutte le mattine.
 
-*Ben:* "Gentile signor Carter, le scriviamo per una **proposta di lavoro**." La mia vecchia **azienda**. Quella di Chicago. Vogliono che io torni. Vogliono che diventi di nuovo direttore marketing, alla sede centrale.
+*Chiara:* E tu tutte le mattine arrivi con il fiato corto.
 
-*Ben:* **L'offerta** raddoppia il mio vecchio **stipendio**. Il doppio, non il dieci per cento. Il doppio. Una casa in affitto già pagata. Una macchina dell'azienda. E vogliono che **il contratto** cominci a marzo, nella **sede** di Michigan Avenue. La mia vecchia sede. L'ufficio al dodicesimo piano, con la vista sul lago.
+*Emma:* Arrivo con il fiato corto perché tu mi chiami alle sette e quarantadue.
 
-Ben resta immobile, il telefono in mano, senza muoversi per un lungo momento.
+Emma prende la tazza del latte con una mano e con l'altra cerca il telefono.
 
-*Ben:* Marzo. Tra cinque mesi. Cinque mesi non sono niente. Cinque mesi sono tutto.
+*Chiara:* Leo! Sei vestito o sei ancora in pigiama?
 
-La porta del bar si apre di colpo.
+*Leo:* Sono vestito! Ma non trovo lo zaino!
 
-*Matteo:* Ben! Ho un'idea fantastica, forse la migliore di sempre!
+*Chiara:* Come "non trovo lo zaino"? Ieri sera dov'era?
 
-Ben nasconde subito il telefono sotto il grembiule.
+*Leo:* Ieri sera era... da qualche parte.
 
-*Ben:* Che idea, Matteo?
+Leo compare sulla porta, con una scarpa sola ai piedi.
 
-*Matteo:* Guarda questa macchina del caffè, l'ho vista online stanotte. Costa un occhio della testa, ma fa il doppio dei caffè in metà tempo. Possiamo **raddoppiare** i clienti del sabato mattina!
+*Chiara:* Ci penso io. Sempre io.
 
-*Ben:* Bello, Matteo. Molto bello.
+Ben è davanti al bancone, immobile, con il telefono in mano. Sullo schermo c'è la stessa **email** aperta da tre giorni.
 
-*Matteo:* Non hai neanche guardato la foto, Ben.
+*Ben:* "Caro Ben..."
 
-*Ben:* Ho guardato, ho guardato.
+*Chiara:* Ben? Mi passi il latte?
 
-*Matteo:* Hai guardato il pavimento.
+Ben non sente. Guarda lo schermo senza parlare.
 
-Matteo si avvicina e osserva Ben con attenzione.
+*Chiara:* Ben! Il latte!
 
-*Matteo:* Ben. Che c'è nel telefono, esattamente?
+*Ben:* Sì! Il latte! Eccolo.
 
-*Ben:* Niente! Perché me lo chiedi?
+Prende il cartone e, senza guardare, apre la credenza e ci mette dentro il latte. Poi prende la zuccheriera e la mette nel frigorifero.
 
-*Matteo:* Perché hai la faccia di uno che nasconde **un segreto** grosso così.
+*Emma:* Papà. Che cosa stai facendo?
 
-Ben ride, un po' troppo forte.
+*Ben:* Sto... preparando la colazione?
 
-*Ben:* Nessun segreto, Matteo! È solo... Un'email della mia vecchia azienda, di Chicago. Niente di speciale.
+*Emma:* Il latte va nel frigo. Non con i biscotti.
 
-*Matteo:* La fabbrica di dolci? Quella dove lavoravi prima di venire qui?
+*Ben:* Ah. Eh. Certo. Lo sapevo.
 
-*Ben:* Non era una fabbrica di dolci. Era un'azienda alimentare, con un ufficio marketing.
+*Leo:* Papà, perché lo zucchero sta al freddo?
 
-*Matteo:* Ah, sì, scusa, confondo sempre. E cosa vuole questa azienda, dopo tanti anni?
+*Ben:* Perché... è una ricetta nuova. Una ricetta americana.
 
-*Ben:* Niente di importante. Solo il mio vecchio **capo** che chiede come sto.
+*Leo:* Ah! E come si chiama?
 
-*Matteo:* Che gentile, dopo tutto questo tempo.
+*Ben:* Si chiama... "colazione distratta".
 
-*Ben:* Sì. Molto gentile.
+*Leo:* Mi piace! La facciamo sempre?
 
-Matteo prende due tazzine e comincia a preparare i caffè, senza fretta.
+*Ben:* No. Speriamo di no.
 
-*Matteo:* Sai, io **spero che** un giorno anche il Bar Tigli abbia una **promozione** vera. Tipo, "il miglior bar della zona", con un articolo sul giornale di Borgoverde.
+Leo ride e batte le mani. Per lui è come un premio. Chiara prende la tazza, guarda Ben e si ferma un secondo.
 
-*Ben:* Ce l'hai già, quella fama, Matteo. Nadia me lo dice sempre.
+*Chiara:* Ben, sei **nervoso** stamattina?
 
-*Matteo:* Nadia dice sempre cose gentili. È il suo lavoro, ormai, in farmacia a Milano. Ma tu, invece? Ti manca mai la tua vecchia carriera americana?
+*Ben:* Io? **Nervoso**? No. Sto benissimo. **Perfetto**.
 
-Ben guarda fuori dalla finestra, verso Via dei Tigli, in silenzio per un momento.
+*Chiara:* Hai messo il latte nella credenza.
 
-*Ben:* **In fondo**, non è così facile lasciare una vita e cominciarne un'altra.
+*Ben:* È colpa della **neve**. Mi confonde.
 
-*Matteo:* Cosa dici? Non ti seguo.
+*Chiara:* La **neve** confonde tutti, Ben. Ma non manda il latte a vivere con i biscotti.
 
-*Ben:* Niente, niente. Pensavo a **la carriera** che avevo prima, a Chicago.
+*Emma:* Questa è bella. Mamma, questa è bella.
 
-*Matteo:* Ti manca, quella vita?
+*Chiara:* Grazie, Emma. Allora, il **dibattito**? Hai scelto l'argomento?
 
-*Ben:* A volte sì, un po'. Era una bella **occasione**, quel lavoro.
+*Emma:* Sì. L'ho **scelto** ieri sera in treno.
 
-*Matteo:* Ma qui hai il bar, hai le lezioni di cucina, hai Franco che ti sopporta quasi sempre.
+*Chiara:* E qual è?
 
-*Ben:* "Quasi sempre" è già un piccolo miracolo, con tuo padre.
+*Emma:* "Meglio **restare** o **partire**?"
 
-*Matteo:* Vero. Ma lui ti chiama per nome, ormai. Non è poco.
+In cucina c'è silenzio per due secondi. Ben smette di respirare.
 
-Il telefono di Ben vibra di nuovo, sotto il grembiule.
+*Chiara:* Bella domanda. Davvero.
 
-*Ben:* È Chiara.
+*Emma:* È la prima che mi è venuta in mente.
 
-Ben legge il messaggio: "Tutto bene stamattina? A stasera, amore." Ben guarda il messaggio a lungo, più del necessario.
+*Chiara:* E tu che cosa pensi? Meglio **restare** o **partire**?
 
-*Matteo:* Tutto bene, con Chiara?
+*Emma:* Boh. Dipende. Tipo, con una vita qui... **resti**.
 
-*Ben:* Sì, sì. Tutto benissimo.
+Ben ascolta quella frase con il bicchiere a mezz'aria.
 
-Ben mette via il telefono e prende il grembiule pulito, ma la mano gli trema appena.
+*Emma:* Senza niente qui... **parti**.
 
-*Matteo:* Allora, la macchina del caffè? Ne parliamo dopo?
+*Leo:* Io **parto** per Chicago!
 
-*Ben:* Dopo, Matteo. Adesso apriamo, arrivano i clienti.
+Tutti si girano verso Leo. Leo sta mangiando un biscotto con calma.
+
+*Chiara:* Leo, perché Chicago?
+
+*Leo:* Perché a Chicago **la neve** è più alta. L'ha detto papà.
+
+*Ben:* Io non ho detto questo. Cioè, sì. Ma non così.
+
+*Leo:* L'hai detto ieri, in macchina.
+
+*Ben:* Ieri... parlavamo della **neve**. Solo della **neve**.
+
+*Chiara:* Ben, ti senti bene? Sei pallido.
+
+*Ben:* Sto bene. È che...
+
+Ben apre la bocca. Guarda Chiara. Sembra che stia per dire qualcosa di importante.
+
+*Chiara:* È che...?
+
+*Leo:* Ho dimenticato la merenda! Torno subito!
+
+Leo esce di corsa dalla cucina e la porta si chiude con un colpo. Ben chiude la bocca. Il momento è passato.
+
+*Chiara:* Che cosa volevi dire?
+
+*Ben:* Niente. Che il caffè è buono. Il caffè è molto buono.
+
+Ben alza gli occhi dal tavolo e la guarda.
+
+*Chiara:* Va bene. Ma **voglio che** tu mi dica una cosa.
+
+*Ben:* Cosa?
+
+*Chiara:* **Voglio che** tu mi guardi negli occhi quando parli con me.
+
+*Ben:* Ti sto guardando. Ti guardo sempre.
+
+*Chiara:* No. Stamattina guardi il telefono.
+
+Emma prende lo zaino e le cuffie e si avvicina alla porta.
+
+*Emma:* Raga, io **parto**. Il treno non aspetta.
+
+*Chiara:* Emma, il pranzo! È nel frigo, in una busta blu.
+
+*Emma:* Ok. Ciao. Papà, ciao. Mangia qualcosa, dai.
+
+*Ben:* Ciao, tesoro. Buona giornata.
+
+Emma esce. Chiara prende il cappotto e le chiavi, poi si gira di nuovo.
+
+*Chiara:* Ben, ascoltami. Ti osservo da tre giorni.
+
+*Ben:* Tre giorni? Come tre giorni?
+
+*Chiara:* Da lunedì sei strano. Metti le cose nel posto sbagliato. Non ridi.
+
+*Ben:* Rido. Ho riso ieri.
+
+*Chiara:* Ieri sera no. Ieri sera hai guardato il muro per mezz'ora.
+
+*Ben:* Il muro è interessante. È un bel muro.
+
+*Chiara:* Non cambiare discorso.
+
+Chiara si avvicina e gli mette una mano sulla spalla.
+
+*Chiara:* Ma io **preferisco che** tu me lo dica. Subito, però.
+
+*Ben:* Lo so. E ci sto pensando. Ci penso da tre giorni.
+
+*Chiara:* Allora c'è qualcosa.
+
+*Ben:* C'è qualcosa. Ma non adesso. Stasera.
+
+*Chiara:* Stasera sono a Milano fino alle sette.
+
+*Ben:* Dopo cena, allora. Ti **spiego** tutto dopo cena.
+
+Chiara lo guarda a lungo. Poi annuisce, lentamente.
+
+*Chiara:* Dopo cena. E non voglio scuse.
+
+*Ben:* Niente scuse. Parola mia.
+
+*Chiara:* E **non voglio che** la cena salti perché Leo ha perso lo zaino.
+
+*Ben:* Questo non te lo posso promettere.
+
+Chiara apre la porta e il freddo entra in cucina. Chiara sorride per la prima volta. Prende la borsa ed esce. La porta si chiude. In casa resta solo Ben, con la cucina in disordine. Fuori **la neve** cade sempre, lenta e silenziosa. Ben prende il telefono, si siede al tavolo e apre di nuovo l'**email**.
+
+*Ben:* "Caro Ben, la nostra **azienda** ha una **sede** nuova a Chicago." "E il consiglio **chiede che** tu **torni** come **direttore** del marketing."
+
+*Ben:* "**Chiede che** tu **torni**." Ecco la frase. È tutta qui.
+
+Ben appoggia il telefono sul tavolo e guarda la cucina.
+
+*Ben:* "**Vogliono che** io **torni**. **Vogliono che** io **torni** a Chicago." "Lo **stipendio** è il doppio. La **sede** è a dieci minuti da casa mia." Diamine.
+
+In tre giorni Ben ha letto questa **email** più di venti volte. L'ha **nascosta** a tutti. Non è stato difficile: nessuno guarda il suo telefono.
+
+*Ben:* Però è un **segreto** pesante. Da solo non riesco a portarlo.
+
+Sul tavolo c'è un foglio e una penna, quelli che Ben usa per le ricette.
+
+*Ben:* Allora. Prima cosa: il **futuro** in Italia. Seconda cosa: il **futuro** a Chicago. E in mezzo ci sono io, che devo **decidere** e che non riesco a **scegliere**.
+
+Il telefono vibra sul tavolo. È un numero di Chicago con il prefisso internazionale.
+
+*Ben:* Una **telefonata**. Adesso. Proprio adesso. No. Oggi no.
+
+Lascia suonare. Alla decima vibrazione, la **telefonata** finisce. Ben respira, chiude gli occhi e resta immobile nella cucina vuota. Poi guarda l'**offerta** sul tavolo e dice una cosa a voce alta, da solo.
+
+*Ben:* La **proposta** di lavoro è perfetta. Io non sono perfetto.
+
+Ma la cosa più difficile non è la proposta. È dirlo a Chiara.
 
 ## 2. Confessionale
 
-> *Ben:* Okay. Devo dirlo ad alta voce, almeno una volta, prima di impazzire. Tre giorni fa ho ricevuto **una proposta di lavoro** dalla mia vecchia azienda di Chicago. **L'offerta** raddoppia il mio **stipendio**. Non un piccolo aumento. Il doppio esatto. E vogliono che io torni a fare **la carriera** che avevo prima, con un ufficio vero, con un titolo vero.
+> *Ben:* Ok. Allora. Devo dire una cosa e non so da dove cominciare. Comincio dall'inizio. Tre giorni fa è arrivata un'**email**. Da Chicago. Dalla mia vecchia **azienda**.
 
-> *Ben:* Tre giorni. E non l'ho detto a nessuno, neanche a Matteo, anche se lui pensa di aver capito tutto. Non l'ho detto a Chiara. Non l'ho detto a Franco. Non l'ho detto a Leo, che racconterebbe tutto alla scuola in un'ora. È un **segreto**, e in questa strada i segreti di solito non durano più di due giorni. Questo dura già da tre. Un record, forse.
+Ben prende il telefono e lo mette davanti alla telecamera, anche se nessuno può leggere.
 
-> *Ben:* Il problema non sono i soldi, anche se sono tanti soldi. **In fondo**, so già cosa dovrei fare. Il problema è che non ho ancora **il coraggio** di dire questa frase ad alta voce, davanti a lei.
+> *Ben:* Leggo le parti importanti, così facciamo prima. "Caro Ben, la nostra **sede** ha bisogno di te come **direttore** del marketing." **Direttore**. Io. Il **direttore** del marketing. Nella **proposta di lavoro** c'è scritto tutto, parola per parola. Lo **stipendio** **raddoppia**. **Raddoppia**! Il doppio di quello che **guadagno** adesso. E non è tutto. Casa. Macchina. Il **trasferimento** pagato dalla **azienda**. **Chiedono che** io cominci a marzo. **Chiedono che** io firmi un **contratto** di tre anni. Un **contratto** di tre anni. Tre. Non tre settimane. Tre anni. Ecco l'**offerta**. Tutta qui, in quaranta parole di inglese.
 
-> *Ben:* Prendere **una decisione** così, da solo, davanti allo specchio del bagno, è facile. Prenderla insieme a Chiara, stasera, a tavola, davanti ai bambini, è un'altra storia.
+Ben appoggia il telefono e respira. Guarda la telecamera per qualche secondo.
 
-> *Ben:* Mi serve solo ancora un po' di tempo, prima di **tornare** a essere uno che ha sempre una risposta pronta. Solo oggi. Solo fino a stasera. Poi parlo, lo prometto.
+> *Ben:* Adesso la **verità**. La **verità** è che io **desidero che** la mia famiglia **resti** qui. Io non **desidero che** Emma e Leo **si trasferiscano**. Non **desidero che** Emma cambi scuola di nuovo. E non **voglio che** Chiara lasci il suo studio. È la sua **promozione**, non la mia. Però loro **si trasferirebbero**. Per me. Per un lavoro. E questo è il **trasferimento** che mi fa paura. Non quello di Chicago. Quello di casa mia.
 
-## 3. Parco dei Tigli · pomeriggio
+> *Ben:* Io sono **nervoso** da tre giorni. Tre giorni interi. Chi l'ha capito? Nessuno. Be', Emma. Emma l'ha capito subito. Emma mi guarda e capisce tutto. No, non posso dirlo così. Emma mi guarda e capisce. È la cosa più bella e la cosa più fastidiosa del mondo. Chiara invece no. Chiara è **nervosa** anche lei, ma per il lavoro suo. Io **nascondo** questa storia da tre giorni e nessuno mi ha chiesto niente. Un **segreto** è facile quando nessuno ti guarda. E qui tutti guardano sempre. Tranne me. Il mio **futuro** qui è piccolo. Ma è mio, e lo conosco. Il mio **futuro** a Chicago è grande. Ma non è mio. È scritto da altre persone. Quindi devo **decidere**. E devo **decidere** in fretta, perché loro vogliono una risposta.
 
-Il pomeriggio, Ben porta Leo al parco prima di tornare a casa.
+> *Ben:* Il problema è che io **preferisco che** Chiara lo sappia prima di tutti. Prima di Franco. Prima di Matteo. Prima di tutta la Via dei Tigli. E invece sono qui, davanti a una telecamera, a dirlo a voi.
 
-*Leo:* Papà, guarda quel cane! Posso andare a salutarlo?
+> *Ben:* Stasera. Stasera dopo cena glielo dico. **Desidero che** sia stasera. Però lo dicevo anche ieri sera. E lunedì sera.
 
-*Ben:* Vai pure, ma resta vicino, eh. Non troppo lontano.
+> *Ben:* Quindi niente. Non ho ancora detto niente a nessuno.
 
-*Leo:* Promesso!
+> *Ben:* Fine della confessione. Torno a lavorare. Ci sono tre caffè da buttare.
 
-Leo corre via verso il cane. Ornella arriva dall'altra parte del vialetto, con la sua borsa della spesa.
+## 3. Bar Tigli · martedì, tarda mattinata
 
-*Ornella:* Buonasera, Ben. Bella giornata, oggi.
+Nel Bar Tigli ci sono due pensionati, un cane e un americano che non sta bene. Sono le dieci e mezza. Fuori **la neve** si è fermata, ma il marciapiede è ancora bianco. Ben asciuga lo stesso bicchiere da dieci minuti.
 
-*Ben:* Bellissima! Il sole, l'aria... perfetta, davvero perfetta!
+*Matteo:* Ben, quel bicchiere è asciutto da un pezzo.
 
-Ornella si ferma e lo guarda con attenzione, come studia sempre tutti quelli che passano davanti a casa sua.
+*Ben:* Ah. Sì. Scusa.
 
-*Ornella:* Ben. Da tre giorni hai la faccia di uno che ha visto un fantasma al mercato.
+*Matteo:* E hai buttato tre caffè. Tre. Li ho contati.
 
-*Ben:* Ma no, sto benissimo, davvero, solo un po' stanco.
+*Ben:* Tre? Non me ne sono accorto.
 
-*Ornella:* Sei un pessimo bugiardo, lo sai? Lo sei sempre stato, fin dal primo giorno.
+*Matteo:* Appunto. Di solito tu te ne accorgi di tutto. Sei quello che saluta tutti per nome.
 
-Ornella si siede sulla panchina e batte la mano sul posto accanto a sé.
+*Ben:* Oggi saluto meno.
 
-*Ornella:* Siediti. Non ti alzi finché non mi dici la verità.
+*Matteo:* Oggi saluti meno e asciughi più. Sei **nervoso**.
 
-Ben si siede, guarda Leo che corre in cerchio con il cane, e sospira.
+*Ben:* Non sono **nervoso**. Sono... riflessivo.
 
-*Ben:* Ornella, posso dirti una cosa? Ma deve restare **un segreto**, per adesso.
+*Matteo:* Ah, riflessivo. Bello. E su che cosa rifletti, se posso chiedere?
 
-*Ornella:* Con me i segreti restano segreti. Chiedi a chiunque in questa strada, se non mi credi.
+*Ben:* Sulla vita. Sul **futuro**. Su niente.
 
-*Ben:* La mia vecchia azienda, a Chicago, **vuole che** io torni a lavorare per loro. Non per una visita di una settimana. **Vogliono che** mi trasferisca lì, con tutta la famiglia.
+*Matteo:* Hai elencato tre cose e l'ultima era "niente".
 
-*Ornella:* **Il trasferimento**... a Chicago. Tutti quanti. Capisco.
+Matteo prende una tazzina e la mette sotto la macchina del caffè.
 
-*Ben:* Uno stipendio doppio, una casa già pronta, tutto pagato. È una **decisione** enorme, Ornella. Enorme.
+*Matteo:* Comunque, bevi questo. È il quarto. Gli altri tre li hai buttati.
 
-*Ornella:* E cosa **preferisci** tu, in tutto questo? Non cosa preferisce l'azienda.
+*Ben:* Grazie, Matteo.
 
-*Ben:* Non lo so ancora, sinceramente. Una parte di me **desidera che** tutto resti esattamente com'è. Un'altra parte pensa a quanto era bello, prima, avere un lavoro dove sapevo sempre cosa fare. Qui, dopo cinque anni, faccio ancora fatica con i congiuntivi, Ornella.
+In quel momento la porta si apre e entra Nadia, con Anna in braccio. Anna ha un cappellino rosso e le guance rosse per il freddo.
 
-*Ornella:* Fai fatica con i congiuntivi anche a Chicago, se ricordo bene, solo in un'altra lingua.
+*Nadia:* Buongiorno! Matteo, ho dieci minuti. Il treno **parte** alle undici e dieci.
 
-*Ben:* Touché.
+*Matteo:* Ciao, amore. Anna, vieni dal papà.
 
-*Ornella:* E Chiara? Lei cosa dice di tutto questo?
+Nadia passa la bambina a Matteo, che se la mette subito sul braccio sinistro.
 
-*Ben:* Chiara non lo sa ancora niente. Nessuno lo sa, tranne te, adesso, in questo momento.
+*Matteo:* Ciao, piccolina. Come stai? Hai mangiato?
 
-Ornella resta zitta per un momento, e per la prima volta sembra un po' spaventata, non solo curiosa.
+*Nadia:* Ha mangiato alle nove e ha già fame di nuovo. Come te.
 
-*Ornella:* Sai, questa strada senza la tua famiglia sarebbe molto diversa da come la conosco. Ma non posso **chiedere che** tu resti solo per me, per una vecchia che guarda dalla finestra. Non sarebbe giusto.
+*Ben:* Ciao, Nadia. Come va in farmacia?
 
-*Ben:* Ornella, tu non sei "una vecchia che guarda dalla finestra". Lo sai, vero?
+*Nadia:* Ben! Tutto bene, grazie. Anzi, oggi ho una riunione importante.
 
-*Ornella:* Sì, sì, va bene, adesso non commuoverti anche tu. Ascoltami bene, piuttosto. Ti prometto il silenzio, ma **spero che** tu dica la verità a Chiara stasera, non domani, non la settimana prossima. **La verità** in un matrimonio non può restare **lontano** troppo a lungo. Prima o poi torna a bussare alla porta.
+*Ben:* Ah sì? Con chi?
 
-*Ben:* Lo so, lo so. Mi serve solo... **il coraggio** giusto, al momento giusto.
+*Nadia:* Con il **direttore** nuovo. Vuole parlare con me prima di mezzogiorno.
 
-*Ornella:* Il coraggio non arriva mai al momento giusto, caro mio. Si prende e basta, come una medicina amara.
+Ben mette giù la tazzina senza averla bevuta.
 
-Leo torna di corsa, senza fiato, con un'espressione seria e importante.
+*Ben:* Il **direttore**? E che cosa vuole da te?
 
-*Leo:* Papà! Il cane si chiamava Fortuna, ma il suo padrone dice che lei "non porta mai fortuna" alle partite di calcio!
+*Nadia:* Boh. Forse una **promozione**. Forse **chiede che** io faccia un corso a Milano. So che c'è una **occasione** nuova in azienda. Un reparto tutto nuovo.
 
-*Ben:* Aspetta, cosa? Non capisco.
+*Matteo:* Una **occasione** o un altro corso? Perché i corsi non si pagano da soli.
 
-*Leo:* È come dire "il pesce si chiama Nuoto ma non sa nuotare"! Che confusione, l'italiano, davvero!
+*Nadia:* Matteo, non ricominciare.
 
-*Ornella:* Leo, tesoro, a volte anche noi italiani ci confondiamo con i nostri stessi nomi.
+*Matteo:* Io non ricomincio niente. Dico solo che tu **guadagni** già più di me.
 
-*Leo:* Anche tu, Ornella?
+*Nadia:* E allora? Che problema c'è?
 
-*Ornella:* Anch'io, qualche volta.
+*Matteo:* Nessun problema. È una cosa buona. Io **resto** qui con Anna, tu **guadagni** bene. Tutto a posto.
 
-*Ben:* Vieni, campione. Andiamo a casa, che tra poco arriva la mamma dal treno.
+Matteo lo dice sorridendo, ma il sorriso non arriva agli occhi.
 
-Ornella guarda Ben allontanarsi con Leo per mano, e resta sulla panchina ancora un po', pensierosa.
+*Nadia:* Matteo, io **preferisco che** Anna stia con te. Non la lascerei mai con una babysitter. Ma **preferisco** anche lavorare. Sono due cose diverse, non due cose in guerra.
+
+*Matteo:* Lo so. Hai ragione. Sono solo stanco.
+
+Ben ascolta tutto con le mani sul bancone, immobile.
+
+*Ben:* Nadia, scusa. Posso fare una domanda stupida?
+
+*Nadia:* Prego.
+
+*Ben:* Secondo te, uno cambia lavoro per lo **stipendio** o per altro?
+
+*Nadia:* Dipende. Il **contratto** conta. La **sede** conta. Ma conta anche quello che vuoi fare della tua vita. Quello conta di più.
+
+*Matteo:* Ecco. Lei dice sempre le cose giuste. Sempre. Anche quando non le chiedi.
+
+*Nadia:* Grazie, amore. Credo.
+
+Ben prende un tovagliolo e comincia a piegarlo. Lo piega male, tre volte.
+
+*Ben:* E uno che riceve un'**offerta**... cioè, un lavoro in un'altra città?
+
+*Nadia:* In un'altra città italiana?
+
+*Ben:* Sì. Italiana. O no. Non importa.
+
+*Nadia:* E con uno **stipendio** che **raddoppia**?
+
+*Ben:* Come lo sai che **raddoppia**?
+
+Nadia e Matteo si guardano. Poi guardano Ben.
+
+*Nadia:* Perché l'hai detto tu, Ben. Hai detto "che **raddoppia**".
+
+*Ben:* Ah. Sì. L'ho detto io. È un esempio. Un esempio di **stipendio**.
+
+*Matteo:* Un esempio con la parola "**raddoppia**" dentro. Molto preciso.
+
+Ben piega di nuovo il tovagliolo. Adesso il tovagliolo è un quadratino minuscolo.
+
+*Nadia:* Ben, tu hai un'**offerta** di lavoro, vero?
+
+*Ben:* No! Cioè, non io. Un amico. Un amico che vive in Italia.
+
+*Nadia:* Ah. E questo amico ha un **contratto** con una **sede** lontana?
+
+*Ben:* Sì. No. Boh. Senti, è complicato.
+
+*Matteo:* Ben, io ti conosco da cinque anni.
+
+*Ben:* Cinque anni e mezzo.
+
+*Matteo:* Cinque anni e mezzo. E in cinque anni e mezzo non ti ho mai sentito dire "un amico".
+
+*Ben:* Allora diciamo "un collega".
+
+*Matteo:* Peggio. Molto peggio.
+
+Anna batte le mani sul tavolino del seggiolone e ride, senza capire niente.
+
+*Matteo:* Ben, ascoltami bene. **Spero che** tu non mi stia **nascondendo** qualcosa.
+
+*Ben:* Io? **Nascondere**? A te? Ma no. Ma scherzi?
+
+*Matteo:* Vedi, quando dici così, muovi le mani in un modo strano.
+
+*Ben:* Le mani le muovo sempre. Sono italiano dentro.
+
+*Nadia:* Questo è vero. Però è anche vero che muovi le mani ancora di più quando menti.
+
+*Ben:* Io non mento! Io... ho un progetto!
+
+*Matteo:* Ah! Un progetto. Racconta.
+
+*Ben:* Dunque. Un corso di cucina. A Milano. Con una **sede** mia.
+
+*Matteo:* Una **sede** tua? Ma tu cucini qui, nel mio bar.
+
+*Ben:* Appunto. Ma un giorno potrei **trasferirmi** a Milano. Cioè, il corso.
+
+*Matteo:* Il corso **si trasferisce**?
+
+*Ben:* Sì. No. Il corso resta. Senti, mi sono confuso.
+
+*Nadia:* Ben, quando ti confondi così, di solito è perché stai **decidendo** qualcosa di grande.
+
+*Ben:* Sto solo **scegliendo** il nome del corso.
+
+*Nadia:* E come si chiama?
+
+*Ben:* "Cucina americana per italiani coraggiosi".
+
+Matteo scoppia a ridere. Nadia lo segue. Anche Anna ride, perché ridono tutti.
+
+*Matteo:* Ok, questa è bella. Questa è proprio bella.
+
+Nadia guarda l'orologio e si alza di colpo.
+
+*Nadia:* Oddio! Il treno! **Parto** adesso o **parto** domani.
+
+*Matteo:* Vai, vai. Anna sta con me.
+
+*Nadia:* Ciao, tesoro. La mamma torna stasera.
+
+Nadia bacia Matteo sulla guancia e corre verso la porta.
+
+*Nadia:* Ben, in bocca al lupo per il tuo amico!
+
+*Ben:* Crepi il lupo.
+
+La porta si chiude. Matteo mette Anna sul tappeto con due giochi.
+
+*Matteo:* Allora. Quel famoso amico ha una **sede** nuova e uno **stipendio** che **raddoppia**.
+
+*Ben:* È solo un esempio.
+
+*Matteo:* Ok. Un esempio. E questo amico deve **decidere** in fretta?
+
+*Ben:* Sì. Entro marzo.
+
+Matteo si ferma con lo straccio in mano.
+
+*Matteo:* Marzo.
+
+*Ben:* L'ho detto di nuovo, vero?
+
+*Matteo:* Sì. L'hai detto di nuovo.
+
+Matteo passa lo straccio sul bancone senza guardarlo.
+
+*Matteo:* Ben, io non ti chiedo niente. Non è casa mia.
+
+*Ben:* Grazie.
+
+*Matteo:* Però ti do un **consiglio**, e non è un **consiglio** da bar.
+
+*Ben:* Dimmi.
+
+*Matteo:* La **verità** non invecchia bene. Più aspetti, più diventa pesante.
+
+Ben appoggia i gomiti sul bancone. Per la prima volta, non risponde subito.
+
+*Ben:* Lo so.
+
+*Matteo:* E un'altra cosa. Tu dici "è vero" troppo velocemente.
+
+*Ben:* Come?
+
+*Matteo:* Quando dici "è vero", lo dici con la faccia di uno che ha paura di non convincermi. E quando uno ha paura di non convincere, è perché non è vero. O perché è vero e pesa.
+
+Ben guarda il suo caffè freddo. Non beve. Non asciuga niente.
+
+*Ben:* Grazie, Matteo.
+
+*Matteo:* Di niente. E adesso torna a lavorare, che il bar non si gestisce da solo.
+
+*Ben:* Matteo, una cosa sola.
+
+*Matteo:* Dimmi.
+
+*Ben:* A Nadia non **raccontare** questa storia. Almeno per oggi.
+
+*Matteo:* A Nadia **preferisco che** tu la **racconti** tu, quando sei pronto. Però io non ho detto di non aver capito niente.
+
+*Ben:* Lo so che l'hai capito.
+
+*Matteo:* Allora siamo d'accordo. Tu fai l'americano distratto e io faccio il barista che non vede.
+
+Matteo gli dà un colpo sulla spalla e va da Anna, che sta mangiando un gioco. Ben resta solo con il bancone, il caffè freddo e una **decisione** da prendere.
 
 ## 4. Confessionale
 
-> *Ornella:* Ecco. Adesso porto anch'io **un segreto**, come una borsa della spesa troppo pesante da portare da sola. Ben mi ha detto **la verità** questo pomeriggio, al parco, e io gli ho promesso di non dire niente a nessuno. Una promessa è una promessa, anche quando pesa più del previsto.
+> *Ornella:* Io abito in Via dei Tigli sedici da cinquant'anni. Da questa finestra vedo tutto.
 
-> *Ornella:* Senza quella famiglia, questa strada non sarebbe più la stessa, credetemi. Chi mi farebbe più cento domande al giorno come Leo? "Perché il cielo è blu di notte, Ornella? Perché i piccioni non hanno paura delle macchine?" Chi si affaccerebbe più alla finestra come Emma, con quella musica che io non capisco ma che mi fa compagnia ogni sera?
+Ornella è seduta vicino alla finestra, con le mani in grembo. Fuori **la neve** copre i tetti.
 
-> *Ornella:* Non ho nessun diritto di **volere che** restino qui, per me. La loro vita è loro, non mia. Eppure, **in fondo**, lo desidero con tutto il cuore, e non me ne vergogno.
+> *Ornella:* Vedo chi arriva, chi **parte**, chi porta fuori il cane la mattina presto. E vedo anche chi **nasconde** qualcosa. Quello si vede sempre. Ben **nasconde** qualcosa da lunedì, e non è bravo a farlo. Ieri mattina è venuto a portarmi la spesa, come tutte le settimane. Però per venti minuti ha parlato solo di Chicago. A un certo punto ha detto: "Non dica niente a mia moglie, per favore". Un **segreto**, quindi. Un **segreto** mio e suo. E io che cosa dovevo fare? Ho detto sì. Ma io **preferisco che** le cose si dicano in faccia. Sempre. Io **preferisco che** un uomo parli con sua moglie, invece di parlare con una signora di settantotto anni. **Spero che** lo faccia stasera. **Spero che** torni a casa e lo dica. Perché la **verità** che non si **racconta** subito diventa, con il tempo, una piccola bugia. E le piccole bugie, in una casa, crescono come le piante. Ai miei tempi le decisioni importanti si prendevano a tavola, dopo cena, tutti insieme. Qui, oggi, si prendono da soli, con il telefono in mano, guardando un muro. E poi si sta male per tre giorni, come sta male lui. Io gli ho dato un **consiglio**, ieri, in cucina. Un **consiglio** solo. Gli ho detto: la **verità** è come il caffè. Va bevuta calda. **Spero che** il signor Carter **resti** qui, in Via dei Tigli. **Spero che** **resti** con Chiara, con i bambini, con la sua cucina piena di pentole strane. Ma la **scelta** non è mia. La **scelta** è sua e di sua moglie. Io da questa finestra vedo tutto, ma non **decido** niente. È il vantaggio di avere settantotto anni: non devi più **raccontare** niente a nessuno.
 
-> *Ornella:* Non gliel'ho detto a Ben, naturalmente. Non sta a me **confessare** certe cose a un uomo già così confuso. Gli ho solo detto quello che dovevo dirgli: che **spero che** stasera trovi il coraggio giusto per parlare con Chiara. A volte basta una sola persona che crede in te per far **tornare** il coraggio quando manca.
+> *Ornella:* Però una cosa ve la dico. Se lui non parla stasera, io lo dico a Chiara domani.
 
-> *Ornella:* Stasera, da questa finestra, guarderò le luci di casa Carter più a lungo del solito, aspettando.
+> *Ornella:* Non è una minaccia. È una promessa.
 
-## 5. Sul treno · sera
+## 5. Casa di Ornella, Via dei Tigli 16 · martedì pomeriggio
 
-Sul treno da Monza, Chiara ed Emma tornano a casa insieme, per una volta.
+Alle quattro del pomeriggio Ben suona il campanello di Via dei Tigli sedici. In una mano ha una busta della spesa, nell'altra due mele. Sulla giacca ha ancora la neve.
 
-*Chiara:* Che giornata, Emma. Che giornata infinita, davvero.
+*Ornella:* Ben! Non è il giorno della spesa.
 
-*Emma:* Il tuo **capo** di nuovo?
+*Ben:* Lo so. Oggi avevo voglia di camminare.
 
-*Chiara:* Il mio capo vuole darmi un progetto nuovo, grande, con un cliente importante a Torino. Significa treni ogni settimana, forse anche qualche notte fuori casa, per mesi.
+*Ornella:* Con questa neve? Entra, entra, che fuori fa freddo.
 
-*Emma:* E tu cosa vuoi fare? Sembri già stanca solo a parlarne.
+Ben entra, si pulisce le scarpe sullo zerbino e appoggia la busta sul tavolo.
 
-*Chiara:* Non lo so ancora, sinceramente. Il mio capo **vuole che** io decida entro venerdì. È **un'occasione** importante per la carriera, certo, la più grande da quando sono partner. Ma io non so se la voglio davvero. Non a questo prezzo.
+*Ben:* Le mele sono per te. Due. Quelle gialle che ti piacciono.
 
-*Emma:* Perché no? Sembra perfetto per te. Tu ami organizzare, fare liste, comandare tutti quanti.
+*Ornella:* Le mele le prendo. Il pane no, ho già il pane.
 
-*Chiara:* Grazie, molto gentile da parte tua. Il problema è che **preferisco che** la mia vita non cambi ogni sei mesi, Emma. Prima Chicago, poi Borgoverde, poi la casa nuova da finire, poi la nonna che non c'è più... **La carriera** di tuo padre che cambia ogni tanto direzione, tua sorella che cresce troppo in fretta... Voglio solo un anno normale, Emma. Uno solo, senza sorprese.
+*Ben:* Non ho portato il pane. Ho imparato.
 
-Emma guarda fuori dal finestrino per un momento, poi si volta verso sua madre, decisa.
+*Ornella:* Bene. Allora possiamo sederci.
 
-*Emma:* Mamma, posso chiederti una cosa, allora, visto che parliamo di decisioni difficili?
+Ornella versa il caffè in due tazze piccole e le mette sul tavolo. Poi si siede di fronte a Ben e aspetta, con le mani in grembo.
 
-*Chiara:* Certo, dimmi tutto.
+*Ornella:* Siediti anche tu. E adesso mi **racconti** perché hai quella faccia.
 
-*Emma:* Sabato c'è il concerto di quel gruppo indie a Milano, ai Navigli. **Voglio che** tu mi lasci andare con Bianca, da sole.
+*Ben:* Che faccia?
 
-*Chiara:* Da sole? Alle undici di sera, a Milano, senza un adulto?
+*Ornella:* La faccia di uno che **nasconde** qualcosa. La conosco bene, sai.
 
-*Emma:* Mamma, ho quasi sedici anni. Prendo il treno da sola tutti i giorni per andare a scuola a Monza.
+*Ben:* Sì. **Nascondo** qualcosa.
 
-*Chiara:* Quello è diverso, è di giorno, è per andare al liceo, con Tommaso e Bianca.
+*Ornella:* Allora vuotiamo il sacco. Prima il caffè, poi il **segreto**.
 
-*Emma:* È sempre diverso, con te. **Chiedo che** tu mi dia un po' di fiducia, ogni tanto, senza mille domande. Non voglio **rischiare** niente di grave, mamma. Voglio solo sentire un concerto con la mia migliore amica.
+*Ben:* Ornella, posso **raccontarti** una cosa? Ma devi promettermi che non la dici a nessuno.
 
-*Chiara:* Il mondo è pieno di pericoli, Emma. Non voglio pensare a te sola, di notte, **lontano** da casa.
+*Ornella:* Io non prometto niente. Però so tenere la bocca chiusa da cinquant'anni.
 
-*Emma:* Sempre la stessa storia con te. Tra un anno vado all'università, mamma, forse anche lontano. E poi cosa farai?
+*Ben:* Va bene. Te la **racconto** lo stesso.
 
-Chiara resta in silenzio, colpita da quella frase più di quanto voglia ammettere.
+Ben prende il telefono dalla tasca e cerca l'**email** con le dita un po' rigide. La trova, la apre e mette il telefono sul tavolo, girato verso Ornella.
 
-*Chiara:* Il tuo futuro arriva sempre troppo in fretta, per una madre. Troppo in fretta. **Desidero che** tu sia felice, Emma, e libera di scegliere. Ma anche al sicuro. Le due cose insieme.
+*Ornella:* Leggo io?
 
-*Emma:* Lo so, mamma. Ma **il futuro** non aspetta nessuno, e neanche io. Voglio solo un piccolo pezzo di indipendenza, non tutto il mondo insieme.
+*Ben:* Leggi tu. È meglio. Così non mi senti sbagliare le parole.
 
-Il treno rallenta, quasi alla stazione di Borgoverde.
+*Ornella:* "Caro Ben... la nostra **azienda**..."
 
-*Chiara:* Va bene. Ma con una condizione: Bianca torna con te sull'ultimo treno, e mi mandi un messaggio ogni ora.
+*Ben:* La mia **azienda** di Chicago. Quella dove ho lavorato dodici anni.
 
-*Emma:* Davvero? Grazie, mamma, grazie mille!
+*Ornella:* "...la nostra **azienda** apre una **sede** nuova nel centro di Chicago..."
 
-*Chiara:* E se qualcosa non va, chiami subito, non aspetti "per non disturbare". Promesso?
+*Ornella:* Una **sede** nuova. Ho capito.
 
-*Emma:* Promesso, promesso, giuro.
+*Ben:* Continua. La parte interessante viene dopo.
 
-*Chiara:* Almeno **una decisione** oggi l'ho presa senza pensarci una settimana intera.
+*Ornella:* "...e **chiede che** tu **torni** come **direttore** del marketing."
 
-*Emma:* Vedi? A volte basta fidarsi un po', invece di **cambiare vita** ogni volta che qualcosa va storto.
+Ornella appoggia il telefono sul tavolo con delicatezza, come un oggetto di vetro.
 
-*Chiara:* Grazie del consiglio, filosofa. Adesso aiutami a decidere anche il progetto di Torino.
+*Ornella:* Ah. Ecco. Adesso la faccia è spiegata.
 
-*Emma:* Quello no, mamma. Quella decisione è tutta tua.
+*Ben:* **Chiedono che** io **torni**. **Chiedono che** io **torni** a Chicago, dopo cinque anni.
 
-Il treno entra in stazione, e le due scendono, ancora ridendo, sotto le luci della sera.
+*Ornella:* E tu **vuoi** **tornare**?
 
-## 6. Casa Carter, Via dei Tigli 14 · cena
+*Ben:* Io non **voglio** niente. Aspetta, c'è il resto.
 
-A casa Carter, la famiglia è a tavola per cena, con la pasta al pomodoro di Ben.
+Ben prende il telefono e scorre in basso con il pollice.
 
-*Leo:* Fatto strano di oggi! Sapete come si dice "valigia" in inglese?
+*Ben:* Ecco. Questa è la **proposta di lavoro** vera e propria. Quattro pagine.
 
-*Emma:* "Suitcase", Leo. Lo sappiamo tutti.
+*Ornella:* Quattro pagine per dire "vieni a lavorare da noi". Ai miei tempi erano due righe.
 
-*Leo:* Sì, ma sapete che in America **la valigia** si "fa", non si "prepara"? "To pack a suitcase"!
+*Ben:* Ai tuoi tempi non c'erano le risorse umane.
 
-*Ben:* Sì, esatto, "pack"! Bravissimo, Leo!
+*Ornella:* E si stava meglio. Leggi.
 
-Ben posa la forchetta un po' troppo di scatto.
+*Ben:* "Lo **stipendio** è il doppio del tuo ultimo **stipendio**."
 
-*Chiara:* Tutto bene, amore? Sembri un fantasma stasera.
+*Ornella:* Il doppio.
 
-*Ben:* Tutto benissimo! Solo stanco, il bar era pieno oggi.
+*Ben:* Lo **stipendio** **raddoppia**. **Raddoppia** davvero, senza scherzi.
 
-Emma, senza notare la tensione, cambia argomento con entusiasmo.
+*Ornella:* E quanto **guadagnavi**, se si può sapere?
 
-*Emma:* Comunque, ho una notizia. Mamma mi lascia andare a Milano sabato, con Bianca, da sole.
+*Ben:* Molto. Più di mio padre. Più di Matteo e Nadia insieme, credo.
 
-*Ben:* Ottimo, ottimo. Divertitevi.
+*Ornella:* E allora adesso **guadagneresti** il doppio di quello.
 
-*Emma:* Papà, non hai neanche chiesto dove andiamo.
+*Ben:* Sì. Più casa e più macchina. Il **trasferimento** lo paga l'**azienda**.
 
-*Ben:* Scusa, scusa. Dove andate?
+*Ornella:* Il **trasferimento** pagato. E il **contratto**?
 
-*Emma:* Ai Navigli, per il concerto. Te l'ho già detto due volte a cena.
+*Ben:* **Contratto** di tre anni. Indeterminato dopo.
 
-*Ben:* Certo, certo, i Navigli. Bellissimo posto.
+*Ornella:* Tre anni. E la data?
 
-*Chiara:* Ben, non ci sei proprio, stasera.
+*Ben:* **Chiedono che** io cominci a marzo.
 
-*Leo:* Anche a me lasci andare da solo, mamma?
+*Ornella:* Marzo. Tra cinque mesi.
 
-*Chiara:* Tu hai otto anni, Leo. Da solo dove, esattamente?
+Ornella prende la sua tazza e beve un sorso. Poi la rimette giù, senza fretta.
 
-*Leo:* Al parco? Cinque minuti?
+*Ornella:* Allora. La **verità**.
 
-*Chiara:* Vediamo tra qualche anno, campione.
+*Ben:* La **verità** è questa, Ornella. Io **desidero che** tutto **resti** come adesso. **Desidero che** la mia famiglia **resti** qui, in questa casa, in questa strada.
 
-Chiara appoggia la forchetta e sospira, guardando tutti.
+*Ornella:* E loro che cosa **desiderano**?
 
-*Chiara:* A proposito di decisioni: devo dirvi una cosa, così mi aiutate a pensare. Il mio **capo** vuole darmi la direzione di un progetto grande a Torino. Più responsabilità, forse una **promozione** vera, ma anche molti più viaggi. Cosa fareste voi, al posto mio?
+*Ben:* Non lo so. Perché non gliel'ho chiesto. Perché non sanno niente.
 
-*Emma:* Io lo prenderei subito. **L'occasione** così non torna due volte, mamma.
+*Ornella:* Ah. Ecco il **segreto**.
 
-*Leo:* Io **voglio che** tu resti sempre a casa la sera, per la buonanotte.
+*Ben:* Non **voglio che** Chiara lasci il suo studio. Ha appena avuto la **promozione**. **Voglio che** lei continui a fare l'architetto a Milano. **Voglio che** sia felice.
 
-*Chiara:* Grazie, Leo. **Desidero che** questa famiglia resti sempre così unita, qualunque cosa succeda.
+*Ornella:* Questo si chiama amore, non **trasferimento**.
 
-*Emma:* **Sperare che** tutto resti sempre uguale non ti aiuta a crescere, mamma. Tu me lo dici sempre.
+*Ben:* Sì. Ma non risolve il problema.
 
-*Chiara:* Ah, adesso citi me contro me stessa.
+Ben gira la tazza tra le dita. Il caffè è già freddo.
 
-Ben ascolta la conversazione, sempre più a disagio, mescolando il cibo nel piatto senza mangiare.
+*Ben:* E io **preferisco che** i bambini crescano qui. Leo parla italiano con l'accento, ma parla. **Preferisco che** Leo vada a scuola con Pietro e che Emma prenda il treno con Tommaso.
 
-*Chiara:* E tu, Ben? Cosa ne pensi? Prendo il progetto o no?
+*Ornella:* Quindi hai già **scelto**.
 
-*Ben:* Io? Uh... **preferisco che** tu faccia quello che ti rende felice, davvero.
+*Ben:* No! Non è vero. Io non ho **scelto** niente.
 
-*Chiara:* Molto utile, grazie.
+*Ornella:* Però hai appena **scelto** tre volte in due minuti.
 
-*Ben:* No, dico sul serio. A volte bisogna **rischiare**, cambiare, anche se fa paura. A volte un'**azienda** ti offre una cosa, e tu non sai se dire sì o no.
+Ben apre la bocca e poi la chiude. Ornella ha ragione e lui lo sa.
 
-C'è un silenzio breve. Chiara lo guarda con curiosità.
+*Ben:* Il problema non è quello che **preferisco** io. Il problema è la **scelta**. La **scelta** è di tutti. Di Chiara, di Emma, di Leo. Non solo mia.
 
-*Chiara:* Parli in generale, o parli di qualcosa in particolare?
+*Ornella:* E invece tu l'hai tenuta in tasca per tre giorni. Da solo.
 
-*Ben:* In generale! Certo, in generale.
+*Ben:* Sì. Ho **nascosto** una **decisione** che non è solo mia.
 
-*Chiara:* Va bene, allora dimmi in generale: cosa farebbe, questo tizio immaginario?
+*Ornella:* E adesso? Che cosa vuoi fare?
 
-*Ben:* Be'... immagina che **la sede** dell'azienda sia lontana, in un'altra città, in un altro Paese. E immagina che vogliano **il trasferimento** di tutta la famiglia, con **un contratto** già pronto, uno **stipendio** doppio. Il tizio deve prendere **una decisione** in pochi mesi: **trasferirsi** o restare.
+*Ben:* **Desidero che** tutto si sistemi da solo. Ma non succede.
 
-*Emma:* E cosa vuole fare, questo tizio?
+*Ornella:* No. Non succede mai. Te lo dico per esperienza.
 
-*Ben:* Non lo so! È solo un'idea per un articolo che ho letto, tutto qui.
+Ornella si alza, prende la caffettiera e la rimette sul fuoco.
 
-*Leo:* Io penso che il tizio debba **tornare** dai suoi vecchi amici, se gli mancano tanto.
+*Ornella:* Facciamo un altro caffè. Questo è freddo e questa conversazione è lunga.
 
-*Chiara:* Interessante che tu ci pensi tanto, per un semplice articolo.
+*Ben:* Ornella, io ho una paura enorme.
 
-*Ben:* **Nascondo** qualcosa? No, no, per niente, è solo curiosità.
+*Ornella:* Lo vedo.
 
-Il telefono di Ben vibra sul tavolo. Sullo schermo si legge "Chicago - Recruiting". Ben lo prende subito e lo mette a faccia in giù, troppo in fretta.
+*Ben:* Non è paura di Chicago. È paura di dirglielo.
 
-*Chiara:* Chi è?
+*Ornella:* Perché?
 
-*Ben:* Nessuno, un numero sbagliato, credo.
+*Ben:* Perché se glielo dico, la cosa diventa vera. Adesso è solo un'**email**.
 
-Chiara alza un sopracciglio, ma non insiste, per ora.
+*Ornella:* Ben, una **email** è già una cosa vera. Una **email** è una **offerta** vera.
 
-*Emma:* Papà, sei stranissimo stasera. Prima il fatto della valigia, adesso questo.
+*Ben:* Lo so. E c'è anche una **telefonata** che non ho risposto. Due volte.
 
-*Ben:* Io? Ma no! Sono normalissimo! Anzi, ho un'idea fantastica. Che ne dite se **raddoppiamo** il tiramisù, stasera? Doppia porzione per tutti!
+*Ornella:* Una **telefonata** da Chicago.
 
-*Leo:* Sì! Raddoppiamo tutto!
+*Ben:* Da Chicago. Stamattina e ieri. Sempre lo stesso numero.
 
-La distrazione funziona, e per un momento tutti ridono e dimenticano la domanda.
+*Ornella:* E tu non hai risposto.
 
-*Chiara:* Va bene, va bene, raddoppiamo il dolce.
+*Ben:* Non ho risposto perché non so cosa dire. In inglese lo saprei. In italiano no.
 
-*Leo:* Fatto strano numero due! In America, il tiramisù non esiste quasi, lo sapevate?
+*Ornella:* In italiano si dice: "Buongiorno, un momento, devo parlare con mia moglie".
 
-*Emma:* Non è vero, Leo, esiste, solo che è più brutto.
+Ben ride, ma è una risata corta, che finisce subito.
 
-*Ben:* Ehi, io ho mangiato ottimo tiramisù in America, prima di venire qui.
+*Ben:* Vedi? Tu hai sempre la frase giusta. Io ho solo il **futuro** in mano e non so dove metterlo.
 
-*Chiara:* Sì, comprato al supermercato, in una scatola di plastica.
+*Ornella:* Il **futuro** non si mette da nessuna parte. Il **futuro** si **spiega** alle persone che ami.
 
-*Ben:* Va bene, va bene, avete vinto voi, il tiramisù italiano vince sempre.
+*Ben:* **Spiegare**. Bella parola. Difficile.
 
-Più tardi, mentre sparecchiano insieme, Chiara si avvicina a Ben, a bassa voce.
+*Ornella:* Difficile, sì. Ma tu sai **spiegare** bene. L'hai fatto per cinque anni con tutto il vicinato.
 
-*Chiara:* **Chiedo che** tu mi dica la verità, Ben, se c'è qualcosa. Non mi piace indovinare. Non voglio **cambiare vita** all'improvviso, senza sapere niente prima.
+*Ben:* Ho spiegato la torta di zucca a Franco. Ci è voluta un'ora.
 
-*Ben:* Non è niente che riguardi **il futuro** di questa famiglia in modo brutto, Chiara. Te lo prometto.
+*Ornella:* Ecco. Allora spiegherai anche questa.
 
-*Chiara:* Ben, tutto bene? Davvero? Da tre giorni sei diverso.
+Ornella porta le due tazze nuove sul tavolo e si siede di nuovo.
 
-Ben la guarda, ha la frase pronta sulla lingua: "Ho ricevuto **una proposta di lavoro** da Chicago." Ma poi guarda Leo che gioca con il cucchiaio, ed Emma che ride al telefono con Bianca, e si ferma.
+*Ornella:* Adesso ascoltami bene, Ben. Io ti do un **consiglio**.
 
-*Ben:* Sì, sì. Tutto bene.
+*Ben:* Sono qui per questo.
 
-## 7. L'orto di Franco · notte
+*Ornella:* Io **spero che** tu glielo **dica** stasera. **Spero che** tu **torni** a casa e trovi il momento giusto.
 
-È notte fonda. Ben non riesce a dormire ed esce in giardino, verso l'orto di Franco. Trova Franco lì, con una torcia, che copre i pomodori con dei teli, contro il freddo.
+*Ben:* Stasera.
 
-*Ben:* Franco? Sono le undici passate. Cosa fai qui fuori?
+*Ornella:* Stasera. Dopo cena, a tavola, quando i bambini sono di sopra.
 
-*Franco:* I pomodori non sanno che ore sono, Ben. Sentono solo il freddo che arriva.
+*Ben:* E se lei si arrabbia perché ho aspettato tre giorni?
 
-*Ben:* Anch'io non riuscivo a dormire.
+*Ornella:* Si arrabbierà. È normale. Ma è meglio una moglie arrabbiata di un **segreto** in casa.
 
-*Franco:* Si vede dalla faccia. Hai la faccia di chi pensa troppo.
+Ben annuisce lentamente e guarda fuori dalla finestra. La neve ha coperto il giardino.
 
-Ben si siede su una sedia da giardino, vicino a Franco, e resta zitto per un momento.
+*Ben:* E invece potrei aspettare ancora un po'? Una settimana. Solo una settimana.
 
-*Franco:* Anche Anna non dormiva mai bene, quando qualcosa la preoccupava. Girava per casa tutta la notte.
+*Ornella:* No.
 
-*Ben:* E tu, invece?
+*Ben:* Perché no?
 
-*Franco:* Io dormo sempre bene. Il segreto è la stanchezza vera, non i pensieri. Lavora tutto il giorno nell'orto, e la notte arriva da sola.
+*Ornella:* Perché fra una settimana avrai una scusa nuova. E fra due settimane un'altra.
 
-*Ben:* Devo provare, allora.
+*Ben:* Non è detto.
 
-*Franco:* Prova prima con i pomodori. Vediamo se ti va meglio dei tuoi biscotti americani.
+*Ornella:* È detto. Lo dico io.
 
-*Ben:* Franco, posso chiederti una cosa? Perché la gente **torna** sempre in certi posti?
+Ornella appoggia la tazza con un piccolo rumore secco.
 
-*Franco:* Perché le radici tirano, anche quando sei **lontano** da anni. Io sono nato in questa strada. Ci sono tornato dopo l'esercito, dopo tutto. Non me ne sono mai più andato.
+*Ornella:* Ben, tu sei un brav'uomo, ma in questo momento sei un codardo.
 
-*Ben:* E non ti sei mai pentito di essere rimasto qui, invece di partire?
+*Ben:* Grazie. Molto gentile.
 
-*Franco:* Una volta, tanti anni fa, un'**azienda** di Torino mi offrì un lavoro migliore. Più soldi, una **promozione**. Volevano **il trasferimento** di tutta la famiglia, io, Anna, i bambini piccoli. Dovevamo **trasferirci** entro l'estate.
+*Ornella:* Non è un insulto. È una constatazione. Anch'io sono stata codarda, due o tre volte nella vita.
 
-*Ben:* E cosa hai fatto?
+*Ben:* E poi?
 
-*Franco:* Non ho preso **la decisione**. Ho lasciato decidere il tempo al posto mio, e il tempo ha scelto di restare. Ancora oggi, a volte, mi chiedo com'era **il futuro** che non ho vissuto.
+*Ornella:* E poi ho parlato. E ho scoperto che la paura era più grande prima.
 
-Franco sistema un ultimo telo, poi si volta finalmente verso Ben.
+Ben finisce il caffè in due sorsi, come una medicina.
 
-*Franco:* Perché me lo chiedi, adesso, di notte, nel mio orto?
+*Ben:* Va bene. Stasera. Glielo dico stasera.
 
-Ben apre la bocca. La frase è pronta: "Anche a me hanno offerto..."
+*Ornella:* Come? Non ho sentito bene.
 
-*Ben:* Niente, niente. Pensavo solo a... a **cambiare vita**, in generale. A come si fa.
+*Ben:* Stasera glielo dico. A Chiara. Dopo cena.
 
-*Franco:* Hai **un segreto**, Ben. Lo vedo. Non hai bisogno di **confessarlo** a me, se non vuoi.
+*Ornella:* Ancora una volta.
 
-*Ben:* Grazie, Franco. Non è ancora il momento giusto.
+*Ben:* Ornella!
 
-*Franco:* **In fondo**, ognuno ha il diritto di **nascondere** qualcosa, per un po'. Anch'io l'ho fatto, con Lucia, ricordi?
+*Ornella:* Ancora una volta, Ben. Le promesse si dicono forte.
 
-*Ben:* Come dimenticarlo. Mi hai chiesto io di tenere il tuo segreto, per mesi.
+*Ben:* Stasera **racconto** tutto a Chiara. Le **spiego** l'**offerta**, la **proposta di lavoro**, lo **stipendio**, tutto. E poi **decidiamo** insieme. Tutti e quattro, a tavola.
 
-*Franco:* E l'hai fatto bene, devo dire. Non è stato facile per te, lo so.
+*Ornella:* Ecco. Così mi piace.
 
-*Ben:* Un po' di pratica adesso mi torna utile, si direbbe.
+Ben si alza, prende la busta vuota e il cappello.
 
-*Franco:* Chi c'è dietro il tuo, di segreto? La banca? Il fisco?
+*Ben:* Ornella, una cosa. Non dire niente a nessuno, per favore. Nemmeno a Matteo.
 
-*Ben:* Niente di così serio, tranquillo.
+*Ornella:* Io non dico niente. Ma non voglio essere il tuo **segreto**, Ben.
 
-*Franco:* Ma ti dico una cosa, e poi torno ai miei pomodori. Un uomo che ha paura di **rischiare** non scopre mai di cosa è fatto davvero. La verità, prima o poi, esce sempre. Meglio deciderla tu, quando esce, che farla decidere al caso.
+*Ben:* Non lo sei. Sei la persona che mi ha fatto parlare.
 
-Franco raccoglie la torcia e si avvia verso casa, senza aggiungere altro.
+*Ornella:* Allora vai. E domani mattina, quando ti vedo al bar, voglio vedere un'altra faccia.
 
-*Ben:* Grazie, Franco. Più di quanto tu creda.
+*Ben:* Vedrai la faccia di uno che non **nasconde** più niente.
 
-Ben resta ancora un momento nell'orto, guarda le luci della sua casa, e finalmente si alza, deciso.
+*Ornella:* **Spero che** sia vero. E **spero che** tu **resti** con noi, in Via dei Tigli.
 
-## 8. Confessionale
+*Ben:* Anch'io lo **spero**. Ma questa è la **occasione** della mia vita. È per questo che è difficile.
 
-> *Ben:* Va bene. Basta scuse. Basta **nascondere** questa cosa dietro un piatto di tiramisù. Stasera lo dico a Chiara, punto. Sono tre giorni che faccio finta di niente, e la finzione comincia a farmi male allo stomaco. Tutto. **La proposta di lavoro**, **l'offerta**, il numero esatto sullo stipendio, tutto quanto.
+*Ornella:* Non è l'**occasione** della tua vita, Ben. È un lavoro.
 
-> *Ben:* Ho già cominciato a fare **la valigia** nella testa, ed è ridicolo, perché non ho ancora deciso niente. Vedo già l'ufficio, il mio vecchio **capo**, **la sede** su Michigan Avenue, con **il contratto** già pronto sulla scrivania.
+Ben si ferma sul pianerottolo e la guarda. Nessuno gli ha mai detto una cosa così semplice.
 
-> *Ben:* **In fondo**, ho paura di entrambe le risposte, se devo essere onesto con me stesso. Ho paura della sua risposta, in un senso o nell'altro: "sì, andiamo" oppure "no, restiamo qui". Franco ha ragione. Un uomo che non ha **il coraggio** di rischiare non scopre mai niente di nuovo su di sé. E poi, non posso continuare a **raddoppiare** dolci ogni volta che qualcuno mi fa una domanda difficile.
+*Ben:* Grazie, Ornella.
 
-> *Ben:* **Il futuro** di questa famiglia non torna indietro da solo, non decide da solo. Devo **confessare** tutto, adesso. Vado a cercare Chiara. Questa è **la decisione** giusta, finalmente. E qualunque cosa succeda, so già che domani vorrò **tornare** a essere semplicemente Ben, il padre, il marito, il barista del sabato.
+*Ornella:* Prego. E adesso vai, che la neve non aspetta.
 
-> *Ben:* Okay. Basta parlare da solo. È ora di parlare con lei, davvero.
+Ornella chiude la porta piano. Ben scende le scale con il telefono in mano. Il telefono vibra di nuovo. È il numero di Chicago. Ben guarda lo schermo per tre secondi.
 
-## 9. Via dei Tigli · notte
+*Ben:* Stasera. Prima Chiara.
 
-Ben esce in strada un momento, per respirare aria fresca prima di salire da Chiara. La luce di casa Ornella è ancora accesa. Una finestra si apre sopra di lui.
+## 6. Confessionale
 
-*Ornella:* Allora? L'hai trovato, **il coraggio**, o è ancora in vacanza da qualche parte?
+> *Emma:* Ok, sono sul treno e ho venti minuti. Vi racconto una cosa.
 
-*Ben:* Ornella! Sono le undici passate, dovresti dormire.
+Emma è seduta vicino al finestrino. Fuori **la neve** copre i campi tra Monza e Borgoverde.
 
-*Ornella:* Dormo poco, di notte. Guardo la strada. È il mio lavoro, ormai, da cinquant'anni.
+> *Emma:* Il tema del **dibattito** è "Meglio **restare** o **partire**?"
 
-*Ben:* Quasi. L'ho trovato quasi, il coraggio.
+> *Emma:* E io l'ho **scelto** io. Nessuno me l'ha imposto. Boh. Mi sembrava giusto. Tipo, io sono l'unica della classe che **è partita** davvero. Sono **partita** da Chicago a quattordici anni e sono **tornata** qui.
 
-*Ornella:* "Quasi" non basta, Ben. O ce l'hai, o non ce l'hai, come i pomodori di Franco: maturi o no.
+> *Emma:* Cioè, prima sono **partita**, poi sono **tornata**, e adesso non so più quale delle due parole è casa mia. Quindi per me il **futuro** è una domanda aperta. Sempre. Il **futuro** però non è il problema di oggi. Il problema di oggi è papà. Papà è **nervoso** da tre giorni e lui non è mai **nervoso**. Papà è quello che ride alle sette del mattino, che saluta il cane dei vicini. E invece in questi giorni mette il latte nella credenza. Cose così.
 
-*Ben:* Grazie del paragone incoraggiante.
+> *Emma:* Sì, ok, anche io faccio cose strane. Ma non a colazione. Papà **nasconde** qualcosa. E **nasconde** male, perché quando mente canta.
 
-*Ornella:* Non ringraziarmi ancora. Aspetta di vedere come va, prima.
+> *Emma:* E stamattina, in cucina, stava cantando. Una canzone dei Beatles, tipo. Quindi in casa c'è un **segreto**. Non so quale, ma c'è. Io **spero che** esca fuori entro venerdì, perché odio le cose a metà. E comunque io **voglio che** mamma e papà mi dicano la **verità**. Anche se è brutta. Perché l'ultima volta che in casa c'era un **segreto**... be', ecco, è stata la volta di Chicago.
 
-*Ben:* Sempre ottimista, tu.
+> *Emma:* E da qualche giorno la parola "Chicago" è tornata in casa mia. Tipo, papà l'ha detta tre volte ieri. Tre. Senza motivo. E stamattina Leo ha detto che a Chicago la neve è più alta.
 
-*Ornella:* Sono realista, Ben, non pessimista. C'è differenza, e a settantotto anni la conosco bene. Una cosa, però: non scendere già con **la valigia** in mano, prima ancora di aver fatto la domanda giusta a Chiara.
+> *Emma:* Non so perché, ma questa cosa mi fa paura. E comunque, quando arriverà un'**occasione** grande per papà, **preferisco che** me la dica. Subito.
 
-*Ben:* Non ho nessuna valigia, Ornella, tranquilla.
+> *Emma:* Vabbè. Devo studiare. Ciao, raga.
 
-*Ornella:* **In fondo**, lo sai anche tu che la valigia si fa dopo la decisione, non prima.
+## 7. Casa Carter, Via dei Tigli 14 · martedì sera, dopo cena
 
-Dal giardino di Ornella arriva un rumore improvviso: un vaso che cade, un miagolio soddisfatto.
+Sono le nove e un quarto di sera. In Via dei Tigli **la neve** si è fermata e la strada è silenziosa. In casa Carter i piatti sono lavati e i bambini sono di sopra. Ben è in cucina con un panno in mano, ma non sta asciugando niente. La porta d'ingresso si apre. Entra Chiara, con il cappotto pieno di neve e la borsa del lavoro.
 
-*Ornella:* Pavarotti! Quel gatto crede ancora che questo giardino sia suo, dopo tutti questi anni.
+*Chiara:* Eccomi. Che traffico. Il treno era in ritardo di venti minuti.
 
-*Ben:* Forse ha ragione lui. Anche a lui piace tornare sempre negli stessi posti.
+*Ben:* Ciao. Ti preparo qualcosa di caldo?
 
-*Ornella:* Vedi? Persino un gatto lo capisce. Solo tu, stasera, hai bisogno di un piccolo spintone. Va'. Sali da tua moglie prima che perda anche il coraggio che hai trovato. Io e Pavarotti restiamo di guardia qui sotto.
+*Chiara:* No, grazie. Ho mangiato un panino in stazione. I bambini?
 
-*Ben:* Va bene. Vado.
+*Ben:* Leo dorme da venti minuti. Emma studia in camera con la musica alta.
 
-*Ornella:* E Ben? Qualunque cosa succeda, **il segreto** con me è finito stasera, non prima. Sono già stanca di portarlo.
+*Chiara:* "Studia". Certo.
 
-Ben sorride, saluta con la mano, e **torna** dentro casa, verso Chiara, verso qualunque cosa lo aspetti.
+Chiara appoggia la borsa sul tavolo, si toglie il cappotto e si siede.
+
+*Chiara:* Com'è andata la tua giornata?
+
+*Ben:* Bene. Benissimo. Tutto bene.
+
+*Chiara:* Hai detto tre volte bene nella stessa frase.
+
+*Ben:* È che è andata proprio bene. Al bar, con Matteo. E poi ho portato la spesa a Ornella.
+
+*Chiara:* Ornella. Come sta?
+
+*Ben:* Bene. Come sempre. Abbiamo parlato del più e del meno.
+
+*Chiara:* Del più e del meno. Con Ornella. Per due ore.
+
+*Ben:* Non due ore. Due ore e mezza.
+
+Chiara si gira verso di lui e lo guarda con attenzione.
+
+*Chiara:* Ben, ti sei seduto? Sei in piedi da quando sono entrata.
+
+*Ben:* Sto bene in piedi.
+
+*Chiara:* Nessuno sta bene in piedi in cucina alle nove di sera.
+
+Ben appoggia il panno, tira fuori una sedia e si siede di fronte a lei.
+
+*Ben:* Ecco. Seduto.
+
+*Chiara:* Grazie. Adesso dimmi che cosa c'è.
+
+*Ben:* Niente. Cioè...
+
+*Chiara:* Cioè?
+
+*Ben:* Volevo **raccontarti** una cosa. Ma non stasera. Domani.
+
+Chiara appoggia i gomiti sul tavolo e le mani sotto il mento.
+
+*Chiara:* Ben, io ti **preferisco** quando parli subito. Quando **preferisci** aspettare, di solito è qualcosa di grosso.
+
+*Ben:* Non è grosso. È medio.
+
+*Chiara:* Medio. Una categoria nuova.
+
+*Ben:* Sì. Ho inventato una categoria.
+
+Ridono insieme per due secondi. Poi il silenzio torna nella cucina.
+
+*Chiara:* Ti racconto la mia giornata, allora. Forse ti aiuta.
+
+*Ben:* Sì. Racconta.
+
+*Chiara:* Stamattina ho parlato con Marchetti. Della **promozione**.
+
+Ben alza la testa di colpo.
+
+*Ben:* La **promozione**? Quale **promozione**?
+
+*Chiara:* Quella che aspetto da settembre. Diventare socia dello studio, non solo dipendente.
+
+*Ben:* E lui che ha detto?
+
+*Chiara:* Ha detto che ne parliamo a gennaio. Con i numeri. Ma ha detto "sì" con la faccia.
+
+*Ben:* Chiara, è fantastico. Davvero. Sono contento per te.
+
+*Chiara:* Grazie. Sono cinque anni che lavoro per questa cosa.
+
+Chiara prende la tazza vuota dal tavolo e la mette nel lavandino. Poi si gira di nuovo.
+
+*Chiara:* Ecco perché stasera ti dico una cosa.
+
+*Ben:* Cosa?
+
+*Chiara:* Io **preferisco che** tu mi dica le cose quando succedono. Non dopo.
+
+*Ben:* Lo so.
+
+*Chiara:* Io **preferisco che** ci diciamo tutto. Anche le cose noiose. Anche quando uno ha avuto una brutta giornata al bar.
+
+*Ben:* Sì. Anch'io lo **preferisco**.
+
+*Chiara:* Perché quando tu mi **nascondi** qualcosa, io lo sento. E mi sento sola.
+
+Questa frase colpisce Ben come una porta che si chiude.
+
+*Ben:* Non voglio che tu ti senta sola. Mai.
+
+*Chiara:* Allora parlami.
+
+Ben guarda il tavolo, poi la finestra, poi le sue mani.
+
+*Ben:* Va bene. Ecco. Tre giorni fa...
+
+Si ferma. Chiara aspetta, senza muoversi.
+
+*Ben:* Tre giorni fa... ho comprato un libro nuovo.
+
+*Chiara:* Un libro.
+
+*Ben:* Sì. Un libro di cucina. Solo che costava troppo e non te l'ho detto.
+
+*Chiara:* Ben, non mi interessa quanto costa un libro.
+
+*Ben:* Visto? È una cosa media. Come dicevo.
+
+Chiara si alza e mette la tazza nell'armadio. Il rumore della tazza è un po' troppo forte.
+
+*Chiara:* Ok. Allora domani. Ma domani voglio sentire la **verità** intera, non la versione ridotta.
+
+*Ben:* La **verità** intera. Te lo prometto.
+
+*Chiara:* Perché io **voglio che** questa famiglia funzioni. E **voglio che** funzioni con te dentro, non con te fuori.
+
+*Ben:* Anch'io **voglio che** funzioni.
+
+*Chiara:* Allora smettila di **nascondere** le cose. Anche quelle medie.
+
+*Ben:* Va bene.
+
+Chiara prende il bicchiere dell'acqua e beve un sorso lungo.
+
+*Chiara:* Comunque, sai una cosa? Oggi in studio ho pensato al **futuro**.
+
+*Ben:* Al **futuro**? E che cosa hai pensato?
+
+*Chiara:* Che sto bene. Che finalmente sto bene qui. Milano, la casa, i bambini a scuola.
+
+*Ben:* Anch'io sto bene qui.
+
+*Chiara:* Lo so. Per questo non capisco questa tua faccia da tre giorni.
+
+*Ben:* Hai visto **la neve** oggi? Trenta centimetri.
+
+*Chiara:* Stai cambiando discorso con **la neve**.
+
+*Ben:* **La neve** è un argomento serio.
+
+*Chiara:* Ben.
+
+*Ben:* Sì?
+
+*Chiara:* Domani. Non dimenticarlo.
+
+Chiara prende la borsa e sale le scale. Si ferma a metà gradino.
+
+*Chiara:* Ben, una cosa. Oggi Marchetti mi ha chiesto se volevo **partire** per un progetto a Roma.
+
+*Ben:* E tu?
+
+*Chiara:* Ho detto no. Ho detto che voglio **restare** a Milano. Almeno per ora.
+
+*Ben:* Hai detto **restare**? Hai detto proprio **restare**?
+
+*Chiara:* Sì, perché?
+
+*Ben:* Niente. Mi piace quella parola.
+
+*Chiara:* Buonanotte, strano.
+
+Chiara sale e la porta della camera si chiude piano. In cucina resta solo Ben, seduto davanti al tavolo vuoto. Aspetta un minuto intero per essere sicuro che lei sia di sopra. Poi tira fuori il telefono e riapre l'email. Le parole sono sempre le stesse.
+
+*Ben:* "**Chiedono che** io cominci a marzo." **Chiedono che** io cominci a marzo e io non riesco a dirlo a mia moglie.
+
+Ben legge la riga dopo, quella che non ha mai letto ad alta voce.
+
+*Ben:* "Caro Ben, questa è l'**occasione** della tua vita. Ti aspettiamo."
+
+Il telefono vibra nella sua mano. Sul video compare lo stesso numero di Chicago.
+
+*Ben:* Una **telefonata**. Adesso. Alle nove e mezza di sera in Italia.
+
+Ben mette il pollice sul tasto verde. Poi lo toglie. Poi ce lo rimette.
+
+*Ben:* Se rispondo, questa cosa diventa vera.
+
+Il telefono smette di vibrare da solo. Sullo schermo appare "1 chiamata persa". Ben appoggia il telefono sul tavolo, con la faccia verso il basso.
+
+*Ben:* Domani. Domani le **racconto** tutto. Le **spiego** l'**offerta**, la **proposta**, lo **stipendio**, la **sede**, la **promozione** sua, tutto. E poi insieme **decidiamo**. E insieme **scegliamo**.
+
+Ben spegne la luce della cucina e resta un momento al buio.
+
+*Ben:* La **scelta**. È tutta qui la **scelta**.
+
+Poi sale le scale, piano, per non svegliare nessuno. Ma prima di entrare in camera, si ferma sul pianerottolo e **spera** una cosa sola.
+
+*Ben:* **Spero che** lei capisca. **Spero che** lei **desideri** la stessa cosa che **desidero** io.
+
+In camera, Chiara dorme già con la luce accesa e un libro aperto sul petto. Fuori, sulla strada, **la neve** comincia di nuovo a cadere, lenta e silenziosa.
+
+## 8. Bar Tigli · mercoledì mattina
+
+Mercoledì mattina, sette e mezza. Fuori **la neve** è alta quindici centimetri e il marciapiede è ghiacciato. Ben alza la saracinesca del Bar Tigli con le mani fredde. Dentro è tutto buio, tutto fermo, tutto come ieri sera.
+
+*Ben:* Ok. Caffè. Prima il caffè.
+
+Accende le luci, mette su la macchina del caffè e si gira verso il bancone. Davanti al bancone, seduta al suo solito posto, c'è Ornella.
+
+*Ben:* Ornella! Ma sono le sette e mezza!
+
+*Ornella:* Buongiorno anche a te.
+
+*Ben:* Tu non vieni mai prima delle nove. Mai. In cinque anni.
+
+*Ornella:* Oggi avevo una cosa da chiedere.
+
+*Ben:* Una cosa da chiedere. Capisco.
+
+*Ornella:* Vuoi farmi un caffè o vuoi farmi parlare a vuoto?
+
+*Ben:* Caffè. Subito.
+
+Ben mette la tazzina sotto la macchina e la lascia lì, senza guardarla.
+
+*Ornella:* Senza zucchero, come sempre.
+
+*Ben:* Lo so. Come sempre.
+
+La macchina fa il suo rumore, quello di tutte le mattine. Ornella prende la tazzina con due mani e la tiene davanti a sé, senza bere.
+
+*Ornella:* Allora?
+
+*Ben:* Allora cosa?
+
+*Ornella:* Ben.
+
+*Ben:* Ornella, sono le sette e mezza.
+
+*Ornella:* E io ho settantotto anni, quindi non abbiamo tempo da perdere.
+
+Ben appoggia il panno sul bancone. Guarda la porta, con la faccia di uno che vuole uscire.
+
+*Ben:* Non gliel'ho detto.
+
+*Ornella:* Come?
+
+*Ben:* Non gliel'ho detto. Ieri sera non sono riuscito.
+
+Ornella non dice niente. Beve un sorso di caffè, molto lentamente.
+
+*Ben:* Ho provato tre volte. Tre volte ho aperto la bocca.
+
+*Ornella:* E tre volte l'hai chiusa.
+
+*Ben:* Sì. Le ho detto che avevo comprato un libro di cucina.
+
+*Ornella:* Un libro di cucina.
+
+*Ben:* Costoso. Troppo costoso.
+
+*Ornella:* E tu **speri** che quella donna ti creda?
+
+*Ben:* No. Infatti non mi ha creduto.
+
+*Ornella:* Bene. Almeno è intelligente.
+
+Ben si passa una mano tra i capelli. Ha ancora il cappotto addosso.
+
+*Ben:* Ornella, io lo so che cosa dovevo fare. Lo so benissimo.
+
+*Ornella:* Allora perché non l'hai fatto?
+
+*Ben:* Perché stavo bene. Per un'ora intera, ieri sera, stavo bene. Chiara ha parlato del suo studio, dei bambini, del **futuro**. E io non volevo rovinare tutto.
+
+*Ornella:* Capisco.
+
+*Ben:* Davvero?
+
+*Ornella:* No. Non capisco niente. Non è vero niente.
+
+Ben si blocca con lo straccio a mezz'aria.
+
+*Ornella:* Tu non stavi bene, Ben. Tu stavi tranquillo. Sono due cose diverse. Uno sta bene quando dice le cose. Sta tranquillo quando le **nasconde**.
+
+*Ben:* Hai ragione. Come sempre.
+
+*Ornella:* Non è sempre. Ma in questo caso sì.
+
+Ornella finisce il caffè e mette la tazzina sul piattino con un colpo preciso.
+
+*Ornella:* Adesso ascoltami, perché parlo una volta sola.
+
+*Ben:* Ti ascolto.
+
+*Ornella:* Io **spero che** domani mattina tu mi **racconti** che Chiara lo sa.
+
+*Ben:* Domani mattina.
+
+*Ornella:* Tu mi **racconti** che Chiara lo sa, e io bevo il mio caffè e non dico niente.
+
+*Ben:* È un **consiglio** o un ultimatum?
+
+*Ornella:* È un **consiglio**. Ma è anche l'ultimo.
+
+Ornella prende la borsa e si aggiusta il cappotto.
+
+*Ornella:* E adesso ci sono io che ti chiedo una cosa.
+
+*Ben:* Dimmi.
+
+*Ornella:* **Voglio che** tu risponda a quella **telefonata**. Non alla prima. Alla terza.
+
+*Ben:* Come fai a sapere della **telefonata**?
+
+*Ornella:* Perché ieri, mentre parlavi con me, il telefono ti ha vibrato cinque volte in tasca.
+
+*Ben:* Non ci ho fatto caso.
+
+*Ornella:* Io ci faccio caso a tutto. È il mio lavoro da cinquant'anni.
+
+Ben guarda il telefono sul bancone, girato verso il basso.
+
+*Ben:* E che cosa dovrei dirgli, a quelli di Chicago?
+
+*Ornella:* Di aspettare. In italiano si dice così: "Aspettate".
+
+*Ben:* Solo quello?
+
+*Ornella:* Solo quello. Non serve una frase elegante. Serve una **decisione**.
+
+Ben prende il telefono e lo gira. Sullo schermo c'è scritto "3 chiamate perse".
+
+*Ben:* Tre **telefonate**. Tutte da Chicago.
+
+*Ornella:* Ecco.
+
+E in quel momento il telefono comincia a vibrare di nuovo, proprio nella mano di Ben. Sullo schermo compare il prefisso internazionale, quello lungo, quello che Ben conosce a memoria.
+
+*Ben:* È loro. Di nuovo.
+
+*Ornella:* Dammi il telefono.
+
+*Ben:* Ornella, no. Non puoi.
+
+*Ornella:* Dammi il telefono, Ben.
+
+Ben le passa il telefono come un ragazzo che consegna i compiti. Ornella preme il tasto verde e se lo mette all'orecchio.
+
+*Ornella:* Good morning. Bar Tigli, Borgoverde.
+
+C'è un secondo di silenzio. Poi Ornella ascolta, senza cambiare espressione.
+
+*Ornella:* One moment, please. Sì, un attimo.
+
+Ornella allontana il telefono dall'orecchio e lo tende verso Ben.
+
+*Ornella:* È per te. Una signora molto gentile.
+
+*Ben:* Ornella, tu sei...
+
+*Ornella:* Insistente. Lo so.
+
+La porta del bar si apre e entra Matteo, con la neve sulle spalle e il berretto in mano.
+
+*Matteo:* Buongiorno. Ornella! Alle sette e tre quarti!
+
+*Ornella:* Buongiorno, Matteo.
+
+Matteo guarda Ben, che ha il telefono all'orecchio e la faccia bianca.
+
+*Matteo:* Ben, chi è al telefono?
+
+*Ben:* La pubblicità.
+
+*Matteo:* La pubblicità alle sette e tre quarti?
+
+*Ben:* Sono americani. Fanno presto.
+
+Matteo guarda Ornella, che si sta già rimettendo la sciarpa.
+
+*Matteo:* Ornella, e lei chi è?
+
+*Ornella:* Una **pubblicità** molto insistente.
+
+Ornella esce nel freddo. La porta si chiude e resta solo il rumore della macchina del caffè. Ben è ancora con il telefono all'orecchio. Matteo lo guarda e non dice niente.
+
+*Ben:* Sì. Sì, sono io. Un momento, per favore.
+
+Ben copre di nuovo il microfono e guarda Matteo.
+
+*Ben:* Matteo, mi dispiace. Ti devo **raccontare** una cosa.
+
+*Matteo:* Lo so. Sono cinque anni che aspetto questa frase. Fai la tua **telefonata**. Poi mi **spieghi** tutto.
+
+*Ben:* Grazie.
+
+Matteo va dietro il bancone e comincia a preparare il caffè per tutti.
+
+*Matteo:* E poi la chiami Chiara, vero?
+
+*Ben:* Sì. Poi chiamo Chiara.
+
+*Matteo:* Bene.
+
+Fuori, dalla vetrina, si vede Ornella che attraversa la strada con passi piccoli e sicuri. Ben la guarda, poi guarda il telefono, poi guarda Matteo.
+
+*Ben:* Sì. Grazie. Vi richiamo io. Domani.
+
+Riattacca e appoggia il telefono sul bancone, con la faccia verso l'alto, per la prima volta in tre giorni.
+
+*Ben:* Ok.
+
+*Matteo:* Caffè?
+
+*Ben:* Caffè. Doppio.
+
+*Matteo:* Come lo **stipendio**?
+
+*Ben:* Che cosa?
+
+*Matteo:* Scherzo, Ben. Scherzo. Per ora.
+
+Matteo mette la tazzina davanti a Ben, poi ne mette una anche per sé.
+
+*Matteo:* Ma sappi una cosa. Il bar non si **trasferisce**. E nemmeno io.
+
+*Ben:* E nemmeno l'**offerta** si **trasferisce**, per adesso. L'ho appena rimandata.
+
+Matteo alza la tazzina. Ben alza la sua. Si guardano e bevono insieme.
+
+*Matteo:* Allora. Da dove cominciamo?
+
+*Ben:* Dalla **sede**. Dalla **sede** di Chicago, primo piano.
+
+Fuori **la neve** continua a cadere, ma dentro il Bar Tigli comincia a fare caldo.

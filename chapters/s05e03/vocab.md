@@ -8,49 +8,55 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **la proposta di lavoro**<br>(expr.) · job offer | "Gentile signor Carter, le scriviamo per una **proposta di lavoro**." | "Dear Mr. Carter, we are writing to you about a **job offer**." |
-| **volere che**<br>(expr.) · to want (someone) to | Io **voglio che** tu resti sempre a casa la sera, per la buonanotte. | I **want** you to always be home in the evening, for goodnight. |
-| **sperare che**<br>(expr.) · to hope that | Sai, io **spero che** un giorno anche il Bar Tigli abbia una promozione vera. | You know, I **hope that** one day Bar Tigli gets a real promotion too. |
-| **preferire che**<br>(expr.) · to prefer that | Io? Uh... **preferisco che** tu faccia quello che ti rende felice, davvero. | Me? Uh... **I prefer** you to do whatever makes you happy, really. |
-| **desiderare che**<br>(expr.) · to wish that | Grazie, Leo. **Desidero che** questa famiglia resti sempre così unita, qualunque cosa succeda. | Thanks, Leo. **I wish** this family stays this close, whatever happens. |
-| **chiedere che**<br>(expr.) · to ask that | **Chiedo che** tu mi dica la verità, Ben, se c'è qualcosa. Non mi piace indovinare. | **I'm asking** you to tell me the truth, Ben, if there's something. I don't like guessing. |
-| **cambiare vita**<br>(expr.) · to change one's life | Non voglio **cambiare vita** all'improvviso, senza sapere niente prima. | I don't want to **have my life change** suddenly, without knowing anything first. |
-| **in fondo**<br>(expr.) · deep down, after all | **In fondo**, non è così facile lasciare una vita e cominciarne un'altra. | **Deep down**, it's not so easy to leave one life and start another. |
+| **la proposta di lavoro**<br>(expr.) · the job offer | La **proposta** di lavoro è perfetta. Io non sono perfetto. | The **job offer** is perfect. I'm not perfect. |
+| **volere che**<br>(expr.) · to want (someone) to | Anch'io **voglio che** funzioni. | I **want** it to work too. |
+| **sperare che**<br>(expr.) · to hope that | Ben, ascoltami bene. **Spero che** tu non mi stia nascondendo qualcosa. | Ben, listen to me carefully. **I hope** you're not hiding something from me. |
+| **preferire che**<br>(expr.) · to prefer that | Ma io **preferisco che** tu me lo dica. Subito, però. | But **I'd prefer** you to tell me. Right away, though. |
+| **desiderare che**<br>(expr.) · to wish that | Stasera. Stasera dopo cena glielo dico. **Desidero che** sia stasera. | Tonight. Tonight after dinner I'll tell her. I **wish** it would be tonight. |
+| **chiedere che**<br>(expr.) · to ask (someone) to | **Chiedono che** io cominci a marzo. | **They're asking that** I start in March. |
 
 ## Verbs
 
 | Parola | Italiano | English |
 |---|---|---|
-| **raddoppiare**<br>(v.) · to double | Possiamo **raddoppiare** i clienti del sabato mattina! | We can **double** our Saturday morning customers! |
-| **rischiare**<br>(v.) · to risk | No, dico sul serio. A volte bisogna **rischiare**, cambiare, anche se fa paura. | No, I mean it. Sometimes you have to **take a risk**, change, even if it's scary. |
-| **trasferirsi**<br>(v.) · to move, relocate | Il tizio deve prendere una decisione in pochi mesi: **trasferirsi** o restare. | The guy has to make a decision in a few months: **relocate** or stay. |
-| **nascondere**<br>(v.) · to hide | **Nascondo** qualcosa? No, no, per niente, è solo curiosità. | Am **I hiding** something? No, no, not at all, it's just curiosity. |
-| **confessare**<br>(v.) · to confess | Non gliel'ho detto a Ben, naturalmente. Non sta a me **confessare** certe cose a un uomo già così confuso. | I didn't tell Ben that, of course. It's not my place to **confess** such things to a man already so confused. |
-| **tornare**<br>(v.) · to go back, return | Franco, posso chiederti una cosa? Perché la gente **torna** sempre in certi posti? | Franco, can I ask you something? Why do people always **go back** to certain places? |
+| **trasferirsi**<br>(v.) · to move (to another city) | E nemmeno l'offerta si **trasferisce**, per adesso. L'ho appena rimandata. | And the offer isn't **moving** either, for now. I've just postponed it. |
+| **decidere**<br>(v.) · to decide | E poi insieme **decidiamo**. E insieme scegliamo. | And then together we **decide**. And together we choose. |
+| **scegliere**<br>(v.) · to choose | Quindi hai già **scelto**. | So you've already **chosen**. |
+| **restare**<br>(v.) · to stay | "Meglio **restare** o partire?" | "Is it better to **stay** or to leave?" |
+| **partire**<br>(v.) · to leave, to set off | "Meglio restare o **partire**?" | "Is it better to stay or to **leave**?" |
+| **tornare**<br>(v.) · to come back, to return | E tu vuoi **tornare**? | And do you want to **come back**? |
+| **nascondere**<br>(v.) · to hide | Io? **Nascondere**? A te? Ma no. Ma scherzi? | Me? **Hiding**? From you? No way. Are you kidding? |
+| **raccontare**<br>(v.) · to tell, to recount | Va bene. Te la **racconto** lo stesso. | All right. I'll **tell** you anyway. |
+| **spiegare**<br>(v.) · to explain | **Spiegare**. Bella parola. Difficile. | **To explain**. Nice word. Difficult. |
+| **guadagnare**<br>(v.) · to earn | Lo stipendio raddoppia. Raddoppia! Il doppio di quello che **guadagno** adesso. | The salary doubles. Doubles! Double what I **earn** now. |
+| **raddoppiare**<br>(v.) · to double | Come lo sai che **raddoppia**? | How do you know it **doubles**? |
 
 ## Nouns
 
 | Parola | Italiano | English |
 |---|---|---|
-| **l'offerta**<br>(n., f) · offer | **L'offerta** raddoppia il mio stipendio. Non un piccolo aumento. Il doppio esatto. | **The offer** doubles my salary. Not a small raise. Exactly double. |
-| **lo stipendio**<br>(n., m) · salary | L'offerta raddoppia il mio **stipendio**. Non un piccolo aumento. Il doppio esatto. | The offer doubles my **salary**. Not a small raise. Exactly double. |
-| **il trasferimento**<br>(n., m) · move, relocation | **Il trasferimento**... a Chicago. Tutti quanti. Capisco. | **The move**... to Chicago. All of you. I understand. |
-| **il contratto**<br>(n., m) · contract | E vogliono che **il contratto** cominci a marzo, nella sede di Michigan Avenue. | And they want **the contract** to start in March, at the Michigan Avenue office. |
-| **la sede**<br>(n., f) · headquarters, office | E vogliono che il contratto cominci a marzo, nella **sede** di Michigan Avenue. | And they want the contract to start in March, at the Michigan Avenue **office**. |
-| **la promozione**<br>(n., f) · promotion | Più responsabilità, forse una **promozione** vera, ma anche molti più viaggi. | More responsibility, maybe a real **promotion**, but also a lot more travel. |
-| **l'azienda**<br>(n., f) · company | La mia vecchia **azienda**. Quella di Chicago. Vogliono che io torni. | My old **company**. The one in Chicago. They want me to go back. |
-| **il segreto**<br>(n., m) · secret | Perché hai la faccia di uno che nasconde **un segreto** grosso così. | Because you have the face of someone hiding **a secret** this big. |
-| **la carriera**<br>(n., f) · career | Niente, niente. Pensavo a **la carriera** che avevo prima, a Chicago. | Nothing, nothing. I was thinking about **the career** I had before, in Chicago. |
-| **l'occasione**<br>(n., f) · opportunity | A volte sì, un po'. Era una bella **occasione**, quel lavoro. | Sometimes, yes, a bit. It was a good **opportunity**, that job. |
-| **la decisione**<br>(n., f) · decision | Almeno **una decisione** oggi l'ho presa senza pensarci una settimana intera. | At least I made **one decision** today without thinking about it for a whole week. |
-| **il capo**<br>(n., m/f) · boss | Il tuo **capo** di nuovo? | Your **boss** again? |
-| **la verità**<br>(n., f) · truth | **La verità** in un matrimonio non può restare lontano troppo a lungo. Prima o poi torna a bussare alla porta. | **The truth** in a marriage can't stay far away too long. Sooner or later it comes knocking on the door. |
-| **il coraggio**<br>(n., m) · courage | Lo so, lo so. Mi serve solo... **il coraggio** giusto, al momento giusto. | I know, I know. I just need... **the right courage**, at the right moment. |
-| **il futuro**<br>(n., m) · future | Lo so, mamma. Ma **il futuro** non aspetta nessuno, e neanche io. | I know, mom. But **the future** doesn't wait for anyone, and neither do I. |
-| **la valigia**<br>(n., f) · suitcase | Sì, ma sapete che in America **la valigia** si "fa", non si "prepara"? "To pack a suitcase"! | Yes, but did you know that in America you "pack" **the suitcase**, you don't "prepare" it? "To pack a suitcase"! |
+| **l'offerta**<br>(n., f) · the offer | Ben, tu hai un'**offerta** di lavoro, vero? | Ben, you have a **job offer**, don't you? |
+| **lo stipendio**<br>(n., m) · the salary, the pay | E con uno **stipendio** che raddoppia? | And with a **salary** that doubles? |
+| **il trasferimento**<br>(n., m) · the move, the transfer | Il **trasferimento** pagato. E il contratto? | The **move** paid for. And the contract? |
+| **il contratto**<br>(n., m) · the contract | Il trasferimento pagato. E il **contratto**? | The move paid for. And the **contract**? |
+| **la sede**<br>(n., f) · the office, the headquarters | Una **sede** nuova. Ho capito. | A new **office**. I see. |
+| **la promozione**<br>(n., f) · the promotion | La **promozione**? Quale promozione? | The **promotion**? Which promotion? |
+| **l'azienda**<br>(n., f) · the company | "Caro Ben... la nostra **azienda**..." | "Dear Ben... our **company**..." |
+| **il direttore**<br>(n., m) · the director, the manager | **Direttore**. Io. Il direttore del marketing. | **Director**. Me. The marketing director. |
+| **l'email**<br>(n., f) · the email | Comincio dall'inizio. Tre giorni fa è arrivata un'**email**. | I'll start from the beginning. Three days ago an **email** arrived. |
+| **la telefonata**<br>(n., f) · the phone call | Una **telefonata** da Chicago. | A **phone call** from Chicago. |
+| **la decisione**<br>(n., f) · the decision | Sì. Ho nascosto una **decisione** che non è solo mia. | Yes. I've hidden a **decision** that isn't only mine. |
+| **la scelta**<br>(n., f) · the choice | La **scelta**. È tutta qui la scelta. | The **choice**. That's the whole choice. |
+| **il segreto**<br>(n., m) · the secret | Ah. Ecco il **segreto**. | Ah. There's the **secret**. |
+| **la verità**<br>(n., f) · the truth | La **verità** intera. Te lo prometto. | The whole **truth**. I promise you. |
+| **il futuro**<br>(n., m) · the future | Sulla vita. Sul **futuro**. Su niente. | About life. About the **future**. About nothing. |
+| **il consiglio**<br>(n., m) · the advice, the tip | È un **consiglio** o un ultimatum? | Is that **advice** or an ultimatum? |
+| **l'occasione**<br>(n., f) · the opportunity, the chance | Non è l'**occasione** della tua vita, Ben. È un lavoro. | It isn't the **opportunity** of your life, Ben. It's a job. |
+| **la neve**<br>(n., f) · the snow | È colpa della **neve**. Mi confonde. | It's the **snow**'s fault. It confuses me. |
+| **il dibattito**<br>(n., m) · the debate | Grazie, Emma. Allora, il **dibattito**? Hai scelto l'argomento? | Thanks, Emma. So, the **debate**? Have you chosen the topic? |
 
 ## Adjectives
 
 | Parola | Italiano | English |
 |---|---|---|
-| **lontano**<br>(adj.) · far | Perché le radici tirano, anche quando sei **lontano** da anni. | Because roots pull at you, even when you've been **far** away for years. |
+| **nervoso**<br>(adj.) · nervous | Ben, sei **nervoso** stamattina? | Ben, are you **nervous** this morning? |
