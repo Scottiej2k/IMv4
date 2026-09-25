@@ -25,9 +25,13 @@ format must be exact.
   three. End scenes on a button; end the episode on a short, funny tag.
 - **It reads like a book, not a script.** Present-tense narration through A2 (past tenses only once
   the grammar ceiling allows them). Description, gestures and reactions sit between the lines of
-  speech: the place, the light, a face, a sound. Vary dialogue tags (*dice, chiede, risponde,
-  esclama, sorride*) and often use none: in a quick exchange the reader knows who is speaking.
-  Never tag every line.
+  speech: the place, the light, a face, a sound.
+- **The reader always knows who is speaking.** Start a new paragraph for each new speaker. When a
+  character speaks for the first time in a scene, after a third person has spoken, or after a
+  stretch of narration, name them: with a tag (*dice Chiara*, *chiede Leo*, *risponde Franco*) or
+  with an action of theirs in the same paragraph (*Chiara chiude gli occhi. «…»*). Leave tags out
+  only in a quick back-and-forth between two people already named. A character's first thought in
+  a scene gets *pensa Ben* (or *pensa* with their name). Vary the tags; never tag every line.
 - **Dialogue-heavy, but not all dialogue:** about 60–75% of the words are inside « » or thoughts,
   25–40% narration. Writers tend to drop narration; don't.
 - **Thoughts replace talking heads.** A character's private reactions and asides (what a sitcom

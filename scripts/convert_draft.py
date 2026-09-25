@@ -129,6 +129,31 @@ def parse(text, errors):
     return vocab, scenes, "\n".join(grammar_lines).strip(), extra_grammar
 
 
+def split_by_speaker(paragraphs):
+    """Book convention: a new paragraph whenever a different character speaks or thinks. Writers
+    don't reliably do this (S1E1/S1E2: 116 of 137 paragraphs mixed speakers), so it's done here.
+    Narration right before a character's first line moves with them if it names them."""
+    out = []
+    for p in paragraphs:
+        cur, cur_sp = [], None
+        for seg in p["segments"]:
+            chars = [w for w, _, _ in seg["voice"] if w != "narrator"]
+            if chars and cur_sp and chars[0] != cur_sp:
+                name = bc.speaker_name(chars[0])
+                lead = []
+                while cur and not any(w != "narrator" for w, _, _ in cur[-1]["voice"]) and name in cur[-1]["it"]:
+                    lead.insert(0, cur.pop())
+                if cur:
+                    out.append({"segments": cur})
+                cur = lead
+            cur.append(seg)
+            if chars:
+                cur_sp = chars[-1]
+        if cur:
+            out.append({"segments": cur})
+    return out
+
+
 def item_id(lemma, used):
     base = norm(lemma)
     for a in ARTICLES:
@@ -211,8 +236,7 @@ def convert(cid):
                 paragraphs.append({"para": ln["para"], "segments": [seg]})
         if not paragraphs:
             errors.append(f"scene {i} ({sc['location']}) has no lines")
-        for p in paragraphs:
-            del p["para"]
+        paragraphs = split_by_speaker(paragraphs)
         scene = {"n": i, "location": sc["location"], "characters": sc["characters"], "paragraphs": paragraphs}
         if sc["time"]:
             scene["time"] = sc["time"]

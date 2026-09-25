@@ -147,10 +147,12 @@ Requirements:
         ask = int(round(sc["words"] * self.ask_factor / 10) * 10)
         lines = max(5, round(ask / WORDS_PER_LINE[self.plan["level"]]))
         # Writers drop narration unless given a share; a book needs it between the speech.
-        mix = ("Write it as a book, in the draft format: paragraphs separated by blank lines, speech as "
-               "«…»{id}, thoughts as _…_{id}, dialogue tags varied or left out. About two thirds of the words "
-               "inside «…» and thoughts, one third narration (place, gestures, faces, sounds), spread "
-               "between the speech rather than bunched.")
+        mix = ("Write it as a book, in the draft format: a new paragraph (blank line) for each new speaker, "
+               "speech as «…»{id}, thoughts as _…_{id}. The reader must always know who is speaking: name "
+               "each character with a tag (dice Chiara) or an action of theirs when they first speak, after "
+               "someone else spoke, or after narration; untagged lines only in a quick back-and-forth "
+               "between two named people. About two thirds of the words inside «…» and thoughts, one third "
+               "narration (place, gestures, faces, sounds), spread between the speech.")
         p = f"""# Scene {k + 1} of {n}
 
 Write this scene now:
