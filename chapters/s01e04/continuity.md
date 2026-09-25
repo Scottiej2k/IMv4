@@ -1,0 +1,5 @@
+### s01e04 · C'è un bar in piazza
+- **Happened:** Chiara's first day at Studio Marchetti: the 8:10 train is late, so she arrives 20 minutes late. Ben and Leo map Borgoverde, finding piazza, church, fountain, municipio, parco, panificio and farmacia; Roberto leaves a Comitato cartello on the Carters' gate.
+- **New facts:** Chiara's boss is Marchetti; Studio Marchetti is in Milan, Isola; project "PROGETTO ISOLA". Borgoverde station has one binario; the Saturday 8:10 train arrives 8:30. Nadia is pharmacist at Farmacia Centrale, Via Verdi; supermercato in Via Roma. Roberto Colombo is at number 11; Pavarotti is Signora Galli's cat; Leo calls the map "mappaverde".
+- **Changed:** Ben and Leo now know the piazza area; their map includes Bar Tigli though it is not in piazza. Chiara knows Marchetti's punctuality rule; Roberto has spoken to Ben/Leo about the Comitato cartello.
+- **Planted:** Ben copied the Comitato cartello's formal wording; map still lacks supermercato/stazione. Marchetti's "Essere in orario" and Project Isola remain open.

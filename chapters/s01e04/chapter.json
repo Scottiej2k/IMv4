@@ -1,0 +1,6347 @@
+{
+  "id": "s01e04",
+  "season": 1,
+  "episode": 4,
+  "level": "A1",
+  "title": {
+    "it": "C'è un bar in piazza",
+    "en": "There's a Bar in the Square"
+  },
+  "grammar_focus": [
+    "g-articles-indefinite-ce"
+  ],
+  "vocab_theme": "Places in town: shops, services, the piazza",
+  "vocab": [
+    {
+      "id": "v-piazza",
+      "lemma": "la piazza",
+      "pos": "noun",
+      "en": "square",
+      "example": "s01e04-3-006",
+      "target": {
+        "it": "piazza",
+        "en": "square"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-chiesa",
+      "lemma": "la chiesa",
+      "pos": "noun",
+      "en": "church",
+      "example": "s01e04-3-010",
+      "target": {
+        "it": "chiesa",
+        "en": "church"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-farmacia",
+      "lemma": "la farmacia",
+      "pos": "noun",
+      "en": "pharmacy",
+      "example": "s01e04-1-029",
+      "target": {
+        "it": "farmacia",
+        "en": "pharmacy"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-panificio",
+      "lemma": "il panificio",
+      "pos": "noun",
+      "en": "bakery",
+      "example": "s01e04-3-034",
+      "target": {
+        "it": "panificio",
+        "en": "bakery"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-stazione",
+      "lemma": "la stazione",
+      "pos": "noun",
+      "en": "station",
+      "example": "s01e04-3-053",
+      "target": {
+        "it": "stazione",
+        "en": "station"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-supermercato",
+      "lemma": "il supermercato",
+      "pos": "noun",
+      "en": "supermarket",
+      "example": "s01e04-2-011",
+      "target": {
+        "it": "supermercato",
+        "en": "supermarket"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-parco",
+      "lemma": "il parco",
+      "pos": "noun",
+      "en": "park",
+      "example": "s01e04-3-023",
+      "target": {
+        "it": "parco",
+        "en": "park"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-bar",
+      "lemma": "il bar",
+      "pos": "noun",
+      "en": "bar, café",
+      "example": "s01e04-1-034",
+      "target": {
+        "it": "bar",
+        "en": "bar"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-mappa",
+      "lemma": "la mappa",
+      "pos": "noun",
+      "en": "map",
+      "example": "s01e04-1-061",
+      "target": {
+        "it": "mappa",
+        "en": "map"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-strada",
+      "lemma": "la strada",
+      "pos": "noun",
+      "en": "street, road",
+      "example": "s01e04-1-042",
+      "target": {
+        "it": "strada",
+        "en": "street"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-negozio",
+      "lemma": "il negozio",
+      "pos": "noun",
+      "en": "shop",
+      "example": "s01e04-3-029",
+      "target": {
+        "it": "negozio",
+        "en": "shop"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-centro",
+      "lemma": "il centro",
+      "pos": "noun",
+      "en": "centre, town centre",
+      "example": "s01e04-4-013",
+      "target": {
+        "it": "centro",
+        "en": "centre"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-treno",
+      "lemma": "il treno",
+      "pos": "noun",
+      "en": "train",
+      "example": "s01e04-5-003",
+      "target": {
+        "it": "treno",
+        "en": "train"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-in-ritardo",
+      "lemma": "in ritardo",
+      "pos": "expression",
+      "en": "late, delayed",
+      "example": "s01e04-6-008",
+      "target": {
+        "it": "in ritardo",
+        "en": "late"
+      }
+    },
+    {
+      "id": "v-cartello",
+      "lemma": "il cartello",
+      "pos": "noun",
+      "en": "sign, notice",
+      "example": "s01e04-4-029",
+      "target": {
+        "it": "cartello",
+        "en": "sign"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-cancello",
+      "lemma": "il cancello",
+      "pos": "noun",
+      "en": "gate",
+      "example": "s01e04-9-021",
+      "target": {
+        "it": "cancello",
+        "en": "gate"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-binario",
+      "lemma": "il binario",
+      "pos": "noun",
+      "en": "platform, track",
+      "example": "s01e04-6-014",
+      "target": {
+        "it": "binario",
+        "en": "platform"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-capo",
+      "lemma": "il capo",
+      "pos": "noun",
+      "en": "boss",
+      "example": "s01e04-5-014",
+      "target": {
+        "it": "capo",
+        "en": "boss"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-fontana",
+      "lemma": "la fontana",
+      "pos": "noun",
+      "en": "fountain",
+      "example": "s01e04-3-012",
+      "target": {
+        "it": "fontana",
+        "en": "fountain"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-municipio",
+      "lemma": "il municipio",
+      "pos": "noun",
+      "en": "town hall",
+      "example": "s01e04-1-038",
+      "target": {
+        "it": "municipio",
+        "en": "town hall"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-c-e",
+      "lemma": "c'è",
+      "pos": "verb",
+      "en": "there is",
+      "example": "s01e04-1-029",
+      "target": {
+        "it": "c'è",
+        "en": "is there"
+      }
+    },
+    {
+      "id": "v-ci-sono",
+      "lemma": "ci sono",
+      "pos": "verb",
+      "en": "there are",
+      "example": "s01e04-1-039",
+      "target": {
+        "it": "ci sono",
+        "en": "are there"
+      }
+    },
+    {
+      "id": "v-dov-e",
+      "lemma": "dov'è",
+      "pos": "adverb",
+      "en": "where is",
+      "example": "s01e04-2-011",
+      "target": {
+        "it": "Dov'è",
+        "en": "Where's"
+      }
+    },
+    {
+      "id": "v-passeggiata",
+      "lemma": "la passeggiata",
+      "pos": "noun",
+      "en": "walk, stroll",
+      "example": "s01e04-3-003",
+      "target": {
+        "it": "passeggiata",
+        "en": "walk"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-pane",
+      "lemma": "il pane",
+      "pos": "noun",
+      "en": "bread",
+      "example": "s01e04-4-048",
+      "target": {
+        "it": "pane",
+        "en": "bread"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-medicina",
+      "lemma": "la medicina",
+      "pos": "noun",
+      "en": "medicine",
+      "example": "s01e04-3-049",
+      "target": {
+        "it": "medicina",
+        "en": "medicine"
+      },
+      "gender": "f"
+    }
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "location": "casa-carter",
+      "characters": [
+        "ben",
+        "chiara",
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-001",
+              "it": "È sabato mattina a Casa Carter. In cucina **c'è** un po' di confusione.",
+              "en": "It's Saturday morning at Casa Carter. In the kitchen **there's** a bit of chaos.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-002",
+              "it": "**Dov'è** la mia borsa? **Dov'è** il telefono?",
+              "en": "**Where's** my bag? **Where's** my phone?",
+              "focus": [
+                "v-dov-e"
+              ]
+            }
+          ],
+          "style": "fast, nervous"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-003",
+              "it": "Sul tavolo. Sempre sul tavolo.",
+              "en": "On the table. Always on the table."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-004",
+              "it": "Chiara prende la borsa. Guarda l'orologio. Guarda il telefono.",
+              "en": "Chiara takes her bag. She looks at the clock. She looks at her phone."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-005",
+              "it": "Il **treno** è alle otto e dieci. È tardi.",
+              "en": "The **train** is at 8:10. It's late.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-006",
+              "it": "Come si dice... la parte della **stazione** dove tu aspetti il treno?",
+              "en": "How do you say... the part of the **station** where you wait for the train?",
+              "focus": [
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-007",
+              "it": "Il **binario**.",
+              "en": "The **platform**.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-008",
+              "it": "Chiara si mette il cappotto. Parla veloce.",
+              "en": "Chiara puts on her coat. She talks fast."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-009",
+              "it": "Binario. Grazie. E il **capo**? Come si dice \"boss\"?",
+              "en": "Platform. Thanks. And the **boss**? How do you say \"boss\"?",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-010",
+              "it": "Il **capo**. Il mio **capo** è Marchetti. Primo giorno. Non posso essere **in ritardo**.",
+              "en": "The **boss**. My **boss** is Marchetti. First day. I can't be **late**.",
+              "focus": [
+                "v-capo",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-011",
+              "it": "Leo entra in cucina con una matita in mano.",
+              "en": "Leo comes into the kitchen with a pencil in his hand."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-012",
+              "it": "Papà, che cos'è una **mappa**?",
+              "en": "Dad, what's a **map**?",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "curious"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-013",
+              "it": "Una **mappa** è... una foto della città. Ma con le parole.",
+              "en": "A **map** is... a photo of the city. But with words.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-014",
+              "it": "Leo pensa. Leo ama le parole.",
+              "en": "Leo thinks. Leo loves words."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-015",
+              "it": "Una foto con le parole. Strano.",
+              "en": "A photo with words. Strange."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-016",
+              "it": "Ben, tu e Leo oggi che cosa fate?",
+              "en": "Ben, what are you and Leo doing today?"
+            }
+          ],
+          "style": "putting on her shoes"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-017",
+              "it": "Noi facciamo una **mappa** di Borgoverde.",
+              "en": "We're making a **map** of Borgoverde.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-018",
+              "it": "Bene. Ciao!",
+              "en": "Good. Bye!"
+            }
+          ],
+          "style": "fast, at the door"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-019",
+              "it": "Ciao. In bocca al lupo!",
+              "en": "Bye. Good luck!"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-1-020",
+              "it": "Crepi. Ciao a tutti.",
+              "en": "Thanks. Bye, everyone."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-021",
+              "it": "La porta si chiude. Chiara corre verso la **stazione**.",
+              "en": "The door closes. Chiara runs toward the **station**.",
+              "focus": [
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-022",
+              "it": "Papà, perché una **mappa**?",
+              "en": "Dad, why a map?",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-023",
+              "it": "Perché noi non conosciamo la città. **Dov'è** il **supermercato**? Non so. **Dov'è** il **parco**? Non so.",
+              "en": "Because we don't know the city. **Where's** the **supermarket**? I don't know. **Where's** the **park**? I don't know.",
+              "focus": [
+                "v-dov-e",
+                "v-supermercato",
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-024",
+              "it": "Ah. E allora?",
+              "en": "Ah. And so?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-025",
+              "it": "Allora oggi noi facciamo una **passeggiata**. Con la **mappa**. Io e te.",
+              "en": "So today we're taking a **walk**. With the **map**. You and me.",
+              "focus": [
+                "v-passeggiata",
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "grand, like a campaign"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-026",
+              "it": "Ben prende il quaderno. Sul quaderno scrive una parola grande: MAPPA.",
+              "en": "Ben takes the notebook. In the notebook he writes one big word: MAP."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-027",
+              "it": "Io e te! **Perfetto**!",
+              "en": "You and me! **Perfect**!",
+              "focus": [
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-028",
+              "it": "**C'è** una **piazza** a Borgoverde? **C'è** una **chiesa**? Noi lo scopriamo.",
+              "en": "**Is there** a **square** in Borgoverde? **Is there** a **church**? We find out.",
+              "focus": [
+                "v-c-e",
+                "v-piazza",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-029",
+              "it": "E **c'è** una **farmacia**?",
+              "en": "And **is there** a **pharmacy**?",
+              "focus": [
+                "v-c-e",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-030",
+              "it": "Sì, certo. **C'è** una **farmacia**.",
+              "en": "Yes, of course. **There's** a **pharmacy**.",
+              "focus": [
+                "v-c-e",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-031",
+              "it": "E **c'è** un **panificio**? Io voglio il **pane**.",
+              "en": "And **is there** a **bakery**? I want **bread**.",
+              "focus": [
+                "v-c-e",
+                "v-panificio",
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-032",
+              "it": "**C'è** un **panificio**, sì. E **c'è** anche la **stazione**.",
+              "en": "**There's** a **bakery**, yes. And **there's** also the **station**.",
+              "focus": [
+                "v-c-e",
+                "v-panificio",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-033",
+              "it": "Leo alza le mani. Vuole dire una cosa importante.",
+              "en": "Leo raises his hands. He wants to say something important."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-034",
+              "it": "E **c'è** un **bar**?",
+              "en": "And **is there** a **bar**?",
+              "focus": [
+                "v-c-e",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-035",
+              "it": "Sì. **C'è** un **bar**. Ma noi cerchiamo la **piazza**, la **chiesa**, la **farmacia**, il **panificio**, la **stazione**, il **supermercato**, il **parco**...",
+              "en": "Yes. **There's** a **bar**. But we're looking for the **square**, the **church**, the **pharmacy**, the **bakery**, the **station**, the **supermarket**, the **park**...",
+              "focus": [
+                "v-c-e",
+                "v-bar",
+                "v-piazza",
+                "v-chiesa",
+                "v-farmacia",
+                "v-panificio",
+                "v-stazione",
+                "v-supermercato",
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-036",
+              "it": "Ben conta con le dita. Le dita non bastano.",
+              "en": "Ben counts on his fingers. His fingers aren't enough."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-037",
+              "it": "E il **municipio**?",
+              "en": "And the **town hall**?",
+              "focus": [
+                "v-municipio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-038",
+              "it": "Bravo! **C'è** anche il **municipio**.",
+              "en": "Good! **There's** also the **town hall**.",
+              "focus": [
+                "v-c-e",
+                "v-municipio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-039",
+              "it": "E **ci sono** i **cancelli**?",
+              "en": "And **are there** **gates**?",
+              "focus": [
+                "v-ci-sono",
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-040",
+              "it": "I **cancelli**? Leo, **ci sono** tanti **cancelli** in una città.",
+              "en": "**Gates**? Leo, **there are** lots of **gates** in a city.",
+              "focus": [
+                "v-cancello",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-041",
+              "it": "Leo conta le cose: uno, due, tre. Le dita sono poche.",
+              "en": "Leo counts the things: one, two, three. His fingers aren't enough."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-042",
+              "it": "E la **strada**? **C'è** la **strada**?",
+              "en": "And the **street**? **Is there** the **street**?",
+              "focus": [
+                "v-strada",
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-043",
+              "it": "Sì. Grandi **strade**, piccole **strade**. Il **centro** è pieno di **strade**.",
+              "en": "Yes. Big **streets**, small **streets**. The **centre** is full of **streets**.",
+              "focus": [
+                "v-strada",
+                "v-centro"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-044",
+              "it": "Papà, **ci sono** le **strade** con i nomi?",
+              "en": "Dad, **are there** **streets** with names?",
+              "focus": [
+                "v-ci-sono",
+                "v-strada"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-045",
+              "it": "Sì. Noi abitiamo in Via dei Tigli. Via dei Tigli è una **strada**.",
+              "en": "Yes. We live on Via dei Tigli. Via dei Tigli is a **street**.",
+              "focus": [
+                "v-strada"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-046",
+              "it": "Ben scrive sul quaderno: strada, piazza, chiesa. Leo guarda.",
+              "en": "Ben writes in the notebook: street, square, church. Leo watches."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-047",
+              "it": "E **ci sono** i **treni**?",
+              "en": "And **are there** trains?",
+              "focus": [
+                "v-ci-sono",
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-048",
+              "it": "Sì, **ci sono** i **treni**. La **stazione** è vicina.",
+              "en": "Yes, **there are** trains. The **station** is near.",
+              "focus": [
+                "v-ci-sono",
+                "v-treno",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-049",
+              "it": "I **treni** sono veloci?",
+              "en": "Are the trains fast?",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-050",
+              "it": "A volte. A volte sono **in ritardo**.",
+              "en": "Sometimes. Sometimes they're **late**.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-051",
+              "it": "Ah. Allora la **mappa** è meglio di un GPS.",
+              "en": "Ah. So the **map** is better than a GPS.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-052",
+              "it": "Sì! La **mappa** è meglio.",
+              "en": "Yes! The **map** is better.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "proud"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-053",
+              "it": "Leo prende la matita. Disegna un cerchio sul foglio.",
+              "en": "Leo takes the pencil. He draws a circle on the sheet."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-054",
+              "it": "Papà, **dov'è** la **farmacia**? **Dov'è** il **supermercato**?",
+              "en": "Dad, **where's** the **pharmacy**? **Where's** the **supermarket**?",
+              "focus": [
+                "v-dov-e",
+                "v-farmacia",
+                "v-supermercato"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-055",
+              "it": "Non so. Per questo facciamo la **mappa**.",
+              "en": "I don't know. That's why we're making the **map**.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-056",
+              "it": "Ah! E **dov'è** il **bar**?",
+              "en": "Ah! And **where's** the **bar**?",
+              "focus": [
+                "v-dov-e",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-057",
+              "it": "Il **bar** è in fondo alla **strada**. Noi conosciamo bene il **bar**.",
+              "en": "The **bar** is at the end of the **street**. We know the **bar** well.",
+              "focus": [
+                "v-bar",
+                "v-strada"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-058",
+              "it": "Il **bar** è il primo. Perché nel **bar** **ci sono** i cornetti.",
+              "en": "The **bar** is first. Because in the **bar** **there are** croissants.",
+              "focus": [
+                "v-bar",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-059",
+              "it": "Allora... la **piazza** è la prima cosa. La **piazza** e la **chiesa**.",
+              "en": "So... the **square** is the first thing. The **square** and the **church**.",
+              "focus": [
+                "v-piazza",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-060",
+              "it": "Leo disegna un quadrato. Poi un altro cerchio. Poi una linea.",
+              "en": "Leo draws a square. Then another circle. Then a line."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-061",
+              "it": "Ma la **mappa** serve?",
+              "en": "But is the **map** useful?",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-062",
+              "it": "Ben non risponde. Ben mette il quaderno nella tasca.",
+              "en": "Ben doesn't answer. Ben puts the notebook in his pocket."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-1-063",
+              "it": "**Perfetto**! Noi andiamo!",
+              "en": "**Perfect**! Let's go!",
+              "focus": [
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ],
+          "style": "bright"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-1-064",
+              "it": "...**Perfetto**. Ma la **mappa** serve?",
+              "en": "...**Perfect**. But is the **map** useful?",
+              "focus": [
+                "g-articles-indefinite-ce",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-1-065",
+              "it": "Ben è già sulla porta. Leo prende la matita e segue il papà.",
+              "en": "Ben is already at the door. Leo takes his pencil and follows his dad."
+            }
+          ]
+        }
+      ],
+      "time": "sabato mattina"
+    },
+    {
+      "n": 2,
+      "location": "confessionale",
+      "characters": [
+        "ben"
+      ],
+      "turns": [
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-2-001",
+              "it": "Ciao. Sono Ben.",
+              "en": "Hi. I'm Ben."
+            },
+            {
+              "id": "s01e04-2-002",
+              "it": "Oggi parlo di una cosa importante: la **mappa**.",
+              "en": "Today I'm talking about an important thing: the **map**.",
+              "focus": [
+                "v-mappa"
+              ]
+            },
+            {
+              "id": "s01e04-2-003",
+              "it": "Una città nuova è come... un lavoro nuovo. Tu vuoi un piano.",
+              "en": "A new city is like... a new job. You want a plan."
+            }
+          ],
+          "style": "warm, to camera"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-2-004",
+              "it": "Ben apre il quaderno e lo mostra alla telecamera.",
+              "en": "Ben opens the notebook and shows it to the camera."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-2-005",
+              "it": "Questo è il mio quaderno. La parola di oggi è **mappa**.",
+              "en": "This is my notebook. Today's word is **map**.",
+              "focus": [
+                "v-mappa"
+              ]
+            },
+            {
+              "id": "s01e04-2-006",
+              "it": "Su Via dei Tigli **c'è** la mia casa. Al numero quattordici.",
+              "en": "On Via dei Tigli **there's** my house. At number fourteen.",
+              "focus": [
+                "v-c-e"
+              ]
+            },
+            {
+              "id": "s01e04-2-007",
+              "it": "E **c'è** la casa di Franco. **C'è** la casa della signora Galli.",
+              "en": "And **there's** Franco's house. **There's** Signora Galli's house.",
+              "focus": [
+                "v-c-e"
+              ]
+            },
+            {
+              "id": "s01e04-2-008",
+              "it": "E **c'è** il **bar**. Il **bar** è la cosa più importante.",
+              "en": "And **there's** the **bar**. The **bar** is the most important thing.",
+              "focus": [
+                "v-c-e",
+                "v-bar"
+              ]
+            },
+            {
+              "id": "s01e04-2-009",
+              "it": "Ma **dov'è** la **piazza**? Non lo so.",
+              "en": "But **where's** the **square**? I don't know.",
+              "focus": [
+                "v-dov-e",
+                "v-piazza"
+              ]
+            },
+            {
+              "id": "s01e04-2-010",
+              "it": "**Dov'è** la **chiesa**? Non lo so.",
+              "en": "**Where's** the **church**? I don't know.",
+              "focus": [
+                "v-dov-e",
+                "v-chiesa"
+              ]
+            },
+            {
+              "id": "s01e04-2-011",
+              "it": "**Dov'è** il **supermercato**? Mah.",
+              "en": "**Where's** the **supermarket**? Hmm.",
+              "focus": [
+                "v-dov-e",
+                "v-supermercato"
+              ]
+            },
+            {
+              "id": "s01e04-2-012",
+              "it": "E **ci sono** tante strade. Troppe strade.",
+              "en": "And **there are** lots of streets. Too many streets.",
+              "focus": [
+                "v-ci-sono"
+              ]
+            },
+            {
+              "id": "s01e04-2-013",
+              "it": "Allora oggi io e Leo facciamo una **passeggiata**.",
+              "en": "So today Leo and I are taking a **walk**.",
+              "focus": [
+                "v-passeggiata"
+              ]
+            },
+            {
+              "id": "s01e04-2-014",
+              "it": "Una **passeggiata** con la **mappa**. Una **passeggiata** e una **mappa**.",
+              "en": "A **walk** with the **map**. A **walk** and a **map**.",
+              "focus": [
+                "v-passeggiata",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-2-015",
+              "it": "**Perfetto**. Tutto sotto controllo.",
+              "en": "**Perfect**. Everything under control.",
+              "focus": [
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ],
+          "style": "proud"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-2-016",
+              "it": "Ben chiude il quaderno. Poi lo apre di nuovo.",
+              "en": "Ben closes the notebook. Then he opens it again."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-2-017",
+              "it": "...Ma **dov'è** il **supermercato**?",
+              "en": "...But **where's** the **supermarket**?",
+              "focus": [
+                "v-dov-e",
+                "v-supermercato"
+              ]
+            },
+            {
+              "id": "s01e04-2-018",
+              "it": "Va bene. Lo scopriamo oggi. Con la **mappa**.",
+              "en": "All right. We find out today. With the **map**.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "quieter"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "location": "piazza",
+      "characters": [
+        "ben",
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-001",
+              "it": "Ben e Leo camminano su Via dei Tigli. La **strada** è lunga e tranquilla.",
+              "en": "Ben and Leo walk along Via dei Tigli. The **street** is long and quiet.",
+              "focus": [
+                "v-strada"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-002",
+              "it": "Leo, guarda. Noi camminiamo. Questa è una **passeggiata**.",
+              "en": "Leo, look. We're walking. This is a **walk**.",
+              "focus": [
+                "v-passeggiata"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-003",
+              "it": "Una **passeggiata** con la **mappa**.",
+              "en": "A **walk** with the **map**.",
+              "focus": [
+                "v-passeggiata",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-004",
+              "it": "Sì. Una **passeggiata** e una **mappa**.",
+              "en": "Yes. A **walk** and a **map**.",
+              "focus": [
+                "v-passeggiata",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-005",
+              "it": "Dopo dieci minuti la **strada** finisce. Davanti a loro **c'è** la **piazza**.",
+              "en": "After ten minutes the **street** ends. In front of them **there's** the **square**.",
+              "focus": [
+                "v-strada",
+                "v-c-e",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-006",
+              "it": "Oh! Papà! **C'è** una **piazza**!",
+              "en": "Oh! Dad! **There's** a **square**!",
+              "focus": [
+                "v-c-e",
+                "v-piazza"
+              ]
+            }
+          ],
+          "style": "gasping"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-007",
+              "it": "**C'è** una **piazza**. Bravo, Leo.",
+              "en": "**There's** a **square**. Good, Leo.",
+              "focus": [
+                "v-c-e",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-008",
+              "it": "La **piazza** è grande e grigia. **C'è** una **chiesa** con un campanile.",
+              "en": "The **square** is big and grey. **There's** a **church** with a bell tower.",
+              "focus": [
+                "v-piazza",
+                "v-c-e",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-009",
+              "it": "**C'è** una **chiesa**!",
+              "en": "**There's** a **church**!",
+              "focus": [
+                "v-c-e",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-010",
+              "it": "Sì. Una **chiesa** antica.",
+              "en": "Yes. An old **church**.",
+              "focus": [
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-011",
+              "it": "E **c'è** una **fontana**! Guarda, l'acqua!",
+              "en": "And **there's** a **fountain**! Look, the water!",
+              "focus": [
+                "v-c-e",
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-012",
+              "it": "Una **fontana** piccola. Molto... bella.",
+              "en": "A small **fountain**. Very... nice.",
+              "focus": [
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-013",
+              "it": "Papà, \"molto bella\"? In italiano si dice \"bella\".",
+              "en": "Dad, \"molto bella\"? In Italian you say \"bella\"."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-014",
+              "it": "Ah. Bene. Grazie.",
+              "en": "Ah. Good. Thanks."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-015",
+              "it": "Leo conta con le dita. Uno, due, tre.",
+              "en": "Leo counts on his fingers. One, two, three."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-016",
+              "it": "**C'è** una **chiesa**, **c'è** una **fontana**, e... che cos'è quello?",
+              "en": "**There's** a **church**, **there's** a **fountain**, and... what's that?",
+              "focus": [
+                "v-c-e",
+                "v-chiesa",
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-017",
+              "it": "Quello è il **municipio**. La casa della città.",
+              "en": "That's the **town hall**. The house of the city.",
+              "focus": [
+                "v-municipio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-018",
+              "it": "Il **municipio**. E **c'è** un **cartello**!",
+              "en": "The **town hall**. And **there's** a **sign**!",
+              "focus": [
+                "v-municipio",
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-019",
+              "it": "Sì. Un **cartello** con le parole.",
+              "en": "Yes. A **sign** with words.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-020",
+              "it": "Il **cartello** è sopra il **cancello** del **parco**.",
+              "en": "The **sign** is above the **gate** of the **park**.",
+              "focus": [
+                "v-cartello",
+                "v-cancello",
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-021",
+              "it": "E questo è un **cancello**.",
+              "en": "And this is a **gate**.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-022",
+              "it": "Un **cancello** del **parco**. **C'è** un **parco** qui, Leo!",
+              "en": "A **gate** of the **park**. **There's** a **park** here, Leo!",
+              "focus": [
+                "v-cancello",
+                "v-parco",
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-023",
+              "it": "Un **parco**! **Ci sono** gli alberi?",
+              "en": "A **park**! **Are there** trees?",
+              "focus": [
+                "v-parco",
+                "v-ci-sono"
+              ]
+            }
+          ],
+          "style": "excited"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-024",
+              "it": "Sì. Nel **parco** **ci sono** gli alberi.",
+              "en": "Yes. In the **park** **there are** trees.",
+              "focus": [
+                "v-parco",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-025",
+              "it": "Leo guarda dentro il **cancello**. Vede gli alberi e una panchina.",
+              "en": "Leo looks inside the **gate**. He sees trees and a bench.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-026",
+              "it": "**Ci sono** gli alberi. E **c'è** una panchina.",
+              "en": "**There are** trees. And **there's** a bench.",
+              "focus": [
+                "v-ci-sono",
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-027",
+              "it": "Perfetto. Allora, nel **parco** **c'è** la panchina.",
+              "en": "Perfect. So, in the **park** **there's** the bench.",
+              "focus": [
+                "v-parco",
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-028",
+              "it": "Ben scrive sul quaderno: piazza, chiesa, fontana, municipio, parco.",
+              "en": "Ben writes in the notebook: square, church, fountain, town hall, park."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-029",
+              "it": "Papà, e **c'è** un **negozio** in **piazza**?",
+              "en": "Dad, and **is there** a **shop** in the **square**?",
+              "focus": [
+                "v-c-e",
+                "v-negozio",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-030",
+              "it": "Guardiamo.",
+              "en": "Let's look."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-031",
+              "it": "Sul lato della **piazza** **c'è** una porta con un **cartello** piccolo.",
+              "en": "On the side of the **square** **there's** a door with a small **sign**.",
+              "focus": [
+                "v-piazza",
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-032",
+              "it": "Che cos'è?",
+              "en": "What is it?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-033",
+              "it": "È un **panificio**! Un **negozio** di **pane**.",
+              "en": "It's a **bakery**! A **shop** of **bread**.",
+              "focus": [
+                "v-panificio",
+                "v-negozio",
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-034",
+              "it": "Un **panificio**! Io voglio il **pane**!",
+              "en": "A **bakery**! I want **bread**!",
+              "focus": [
+                "v-panificio",
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-035",
+              "it": "Entrano nel **panificio**. Dentro c'è un signore con un grembiule.",
+              "en": "They go into the **bakery**. Inside there's a man with an apron.",
+              "focus": [
+                "v-panificio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-036",
+              "it": "Buongiorno. Un **pane**, per favore.",
+              "en": "Good morning. One **bread**, please.",
+              "focus": [
+                "v-pane"
+              ]
+            }
+          ],
+          "style": "careful"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-037",
+              "it": "Il signore dà a Ben un **pane** caldo. Ben paga.",
+              "en": "The man gives Ben a warm **bread**. Ben pays.",
+              "focus": [
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-038",
+              "it": "Grazie! Il **pane** è caldo!",
+              "en": "Thank you! The **bread** is warm!",
+              "focus": [
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-039",
+              "it": "Il **pane** del **panificio** è buono. Scrivo: panificio.",
+              "en": "The **bread** from the **bakery** is good. I write: bakery.",
+              "focus": [
+                "v-pane",
+                "v-panificio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-040",
+              "it": "Ben scrive sul quaderno. Leo legge la parola.",
+              "en": "Ben writes in the notebook. Leo reads the word."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-041",
+              "it": "Pa-ni-fi-cio. Con la \"ci\".",
+              "en": "Ba-ke-ry. With the \"ci\"."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-042",
+              "it": "Panificio.",
+              "en": "Bakery."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-043",
+              "it": "No, papà. Panificio. La \"ci\" è dolce.",
+              "en": "No, dad. Panificio. The \"ci\" is soft."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-044",
+              "it": "Panificio. Così?",
+              "en": "Bakery. Like this?"
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-045",
+              "it": "Sì! Bravo!",
+              "en": "Yes! Good!"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-046",
+              "it": "Camminano intorno alla **fontana**. L'acqua fa un rumore tranquillo.",
+              "en": "They walk around the **fountain**. The water makes a quiet sound.",
+              "focus": [
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-047",
+              "it": "Papà, **dov'è** il **supermercato**?",
+              "en": "Dad, **where's** the **supermarket**?",
+              "focus": [
+                "v-dov-e",
+                "v-supermercato"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-048",
+              "it": "Mah. Non lo so.",
+              "en": "Hmm. I don't know."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-049",
+              "it": "E **dov'è** la **medicina**?",
+              "en": "And **where's** the **medicine**?",
+              "focus": [
+                "v-dov-e",
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-050",
+              "it": "La **medicina**? Leo, la **medicina** è nella **farmacia**.",
+              "en": "**Medicine**? Leo, **medicine** is in the **pharmacy**.",
+              "focus": [
+                "v-medicina",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-051",
+              "it": "E **dov'è** la **farmacia**?",
+              "en": "And **where's** the **pharmacy**?",
+              "focus": [
+                "v-dov-e",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-052",
+              "it": "Non lo so. Lo scopriamo oggi.",
+              "en": "I don't know. We find out today."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-053",
+              "it": "E **dov'è** la **stazione**?",
+              "en": "And **where's** the **station**?",
+              "focus": [
+                "v-dov-e",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-054",
+              "it": "La **stazione** è vicina a casa. Lo so.",
+              "en": "The **station** is near home. That I know.",
+              "focus": [
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-055",
+              "it": "Si siedono su una panchina vicino alla **fontana**. Ben apre il quaderno.",
+              "en": "They sit on a bench near the **fountain**. Ben opens the notebook.",
+              "focus": [
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-056",
+              "it": "Allora. La **mappa**. Disegna tu, Leo.",
+              "en": "So. The **map**. You draw, Leo.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-057",
+              "it": "Io disegno la **piazza** e la **chiesa**.",
+              "en": "I'm drawing the **square** and the **church**.",
+              "focus": [
+                "v-piazza",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-058",
+              "it": "E la **fontana**?",
+              "en": "And the **fountain**?",
+              "focus": [
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-059",
+              "it": "Sì. La **fontana** è un cerchio.",
+              "en": "Yes. The **fountain** is a circle.",
+              "focus": [
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-060",
+              "it": "Leo disegna un cerchio grande. Poi un quadrato. Poi una linea lunga.",
+              "en": "Leo draws a big circle. Then a square. Then a long line."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-061",
+              "it": "E il **parco**?",
+              "en": "And the **park**?",
+              "focus": [
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-062",
+              "it": "Il **parco** è verde. Ma io ho una matita nera.",
+              "en": "The **park** is green. But I have a black pencil.",
+              "focus": [
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-063",
+              "it": "Va bene. Il **parco** è un rettangolo.",
+              "en": "All right. The **park** is a rectangle.",
+              "focus": [
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-064",
+              "it": "Papà, e il **bar**?",
+              "en": "Dad, and the **bar**?",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-065",
+              "it": "Il **bar** è in Via dei Tigli. Non è in **piazza**.",
+              "en": "The **bar** is on Via dei Tigli. It's not in the **square**.",
+              "focus": [
+                "v-bar",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-066",
+              "it": "Ma il **bar** è importante!",
+              "en": "But the **bar** is important!",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-067",
+              "it": "Sì, il **bar** è importante. Ma la **mappa** è della **piazza**.",
+              "en": "Yes, the **bar** is important. But the **map** is of the **square**.",
+              "focus": [
+                "v-bar",
+                "v-mappa",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-068",
+              "it": "Nel **bar** **ci sono** i cornetti. I cornetti sono importanti.",
+              "en": "In the **bar** **there are** croissants. Croissants are important.",
+              "focus": [
+                "v-bar",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-069",
+              "it": "Va bene, va bene. Il **bar** è importante.",
+              "en": "All right, all right. The **bar** is important.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-070",
+              "it": "Leo disegna una tazzina piccola in un angolo del foglio.",
+              "en": "Leo draws a small cup in a corner of the sheet."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-071",
+              "it": "Ecco il **bar**. Con il caffè.",
+              "en": "Here's the **bar**. With the coffee.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-072",
+              "it": "Ma il **bar** non è in **piazza**!",
+              "en": "But the **bar** isn't in the **square**!",
+              "focus": [
+                "v-bar",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-073",
+              "it": "Lo so. Ma la **mappa** è sbagliata senza il **bar**.",
+              "en": "I know. But the **map** is wrong without the **bar**.",
+              "focus": [
+                "v-mappa",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-074",
+              "it": "Ben guarda il foglio. Poi guarda la **piazza**. Poi guarda Leo.",
+              "en": "Ben looks at the sheet. Then he looks at the **square**. Then he looks at Leo.",
+              "focus": [
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-075",
+              "it": "La **mappa** è sbagliata senza il **bar**?",
+              "en": "The **map** is wrong without the **bar**?",
+              "focus": [
+                "v-mappa",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-076",
+              "it": "Sì. Il **bar** è la cosa più importante della **strada**.",
+              "en": "Yes. The **bar** is the most important thing on the **street**.",
+              "focus": [
+                "v-bar",
+                "v-strada"
+              ]
+            }
+          ],
+          "style": "serious"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-077",
+              "it": "...Va bene. Mettiamo il **bar**.",
+              "en": "...All right. Let's put the **bar** in.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-078",
+              "it": "**Perfetto**!",
+              "en": "**Perfect**!",
+              "focus": [
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-079",
+              "it": "Leo disegna la tazzina più grande. Adesso è chiaro: c'è un **bar** sulla **mappa**.",
+              "en": "Leo draws the cup bigger. Now it's clear: there's a **bar** on the **map**.",
+              "focus": [
+                "v-bar",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-080",
+              "it": "Adesso la **mappa** è giusta?",
+              "en": "Now is the **map** right?",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-081",
+              "it": "No. Adesso è meglio. Ma **dov'è** il **supermercato**?",
+              "en": "No. Now it's better. But **where's** the **supermarket**?",
+              "focus": [
+                "v-dov-e",
+                "v-supermercato"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-082",
+              "it": "Oggi non lo sappiamo.",
+              "en": "Today we don't know."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-083",
+              "it": "E **dov'è** la **medicina**?",
+              "en": "And **where's** the **medicine**?",
+              "focus": [
+                "v-dov-e",
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-084",
+              "it": "La **medicina** è nella **farmacia**. E la **farmacia**... andiamo a cercarla.",
+              "en": "**Medicine** is in the **pharmacy**. And the **pharmacy**... let's go and look for it.",
+              "focus": [
+                "v-medicina",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-085",
+              "it": "Si alzano dalla panchina. Leo prende il **pane** e la **mappa**.",
+              "en": "They get up from the bench. Leo takes the **bread** and the **map**.",
+              "focus": [
+                "v-pane",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-086",
+              "it": "Papà, il **pane** è caldo.",
+              "en": "Dad, the **bread** is warm.",
+              "focus": [
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-087",
+              "it": "Sì. Il **pane** del **panificio** è caldo e buono.",
+              "en": "Yes. The **bread** from the **bakery** is warm and good.",
+              "focus": [
+                "v-pane",
+                "v-panificio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-088",
+              "it": "E il **bar** ha i cornetti.",
+              "en": "And the **bar** has croissants.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-089",
+              "it": "Leo, basta con il **bar**!",
+              "en": "Leo, enough with the **bar**!",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-090",
+              "it": "**C'è** il **bar** sulla **mappa**. Ora **c'è** tutto.",
+              "en": "**There's** the **bar** on the **map**. Now **there's** everything.",
+              "focus": [
+                "v-c-e",
+                "v-bar",
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-091",
+              "it": "Quasi tutto. **Ci sono** ancora la **farmacia**, il **supermercato** e la **stazione**.",
+              "en": "Almost everything. **There are** still the **pharmacy**, the **supermarket** and the **station**.",
+              "focus": [
+                "v-ci-sono",
+                "v-farmacia",
+                "v-supermercato",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-092",
+              "it": "Escono dalla **piazza**. Davanti al **municipio** **c'è** un **cartello** nuovo.",
+              "en": "They leave the **square**. In front of the **town hall** **there's** a new **sign**.",
+              "focus": [
+                "v-piazza",
+                "v-municipio",
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-093",
+              "it": "Papà, guarda. Un altro **cartello**.",
+              "en": "Dad, look. Another **sign**.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-094",
+              "it": "Leggo io. È... un **cartello** del Comitato.",
+              "en": "I'll read it. It's... a **sign** from the Committee.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-095",
+              "it": "Che cosa dice?",
+              "en": "What does it say?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-096",
+              "it": "Non lo so. Ma è un **cartello** molto... formale.",
+              "en": "I don't know. But it's a very... formal **sign**.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-097",
+              "it": "Ci sono parole strane.",
+              "en": "There are strange words."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-098",
+              "it": "Sì. Parole strane. Le scrivo sul quaderno.",
+              "en": "Yes. Strange words. I'll write them in the notebook."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-3-099",
+              "it": "Ben copia le parole del **cartello**. Leo mangia un pezzo di **pane**.",
+              "en": "Ben copies the words from the **sign**. Leo eats a piece of **bread**.",
+              "focus": [
+                "v-cartello",
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-100",
+              "it": "Papà, andiamo alla **farmacia**?",
+              "en": "Dad, shall we go to the **pharmacy**?",
+              "focus": [
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-101",
+              "it": "Sì. Andiamo alla **farmacia**.",
+              "en": "Yes. Let's go to the **pharmacy**.",
+              "focus": [
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-3-102",
+              "it": "E dopo il **bar**?",
+              "en": "And afterwards the **bar**?",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-3-103",
+              "it": "Dopo, il **bar**.",
+              "en": "Afterwards, the **bar**.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "sighing"
+        }
+      ],
+      "time": "sabato mattina"
+    },
+    {
+      "n": 4,
+      "location": "farmacia",
+      "characters": [
+        "ben",
+        "leo",
+        "nadia"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-001",
+              "it": "La **farmacia** è in una **strada** vicino alla **piazza**. **C'è** una croce verde sopra la porta.",
+              "en": "The **pharmacy** is on a **street** near the **square**. **There's** a green cross above the door.",
+              "focus": [
+                "v-farmacia",
+                "v-strada",
+                "v-piazza",
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-002",
+              "it": "Papà, **c'è** una croce verde!",
+              "en": "Dad, **there's** a green cross!",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-003",
+              "it": "Sì. La croce verde è la **farmacia**.",
+              "en": "Yes. The green cross is the **pharmacy**.",
+              "focus": [
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-004",
+              "it": "Allora **c'è** la **farmacia** sulla **mappa**!",
+              "en": "So **there's** the **pharmacy** on the **map**!",
+              "focus": [
+                "v-c-e",
+                "v-farmacia",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-005",
+              "it": "Bravo. Scrivo: **farmacia**.",
+              "en": "Good. I write: **pharmacy**.",
+              "focus": [
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-006",
+              "it": "Ben scrive sul quaderno. Leo guarda la porta.",
+              "en": "Ben writes in the notebook. Leo looks at the door."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-007",
+              "it": "Entriamo?",
+              "en": "Shall we go in?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-008",
+              "it": "Sì. Entriamo. Ma con calma.",
+              "en": "Yes. Let's go in. But slowly."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-009",
+              "it": "Dentro la **farmacia** c'è una signora dietro il banco. È Nadia.",
+              "en": "Inside the **pharmacy** there's a woman behind the counter. It's Nadia.",
+              "focus": [
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-010",
+              "it": "Buongiorno, signor Carter. Buongiorno, Leo.",
+              "en": "Good morning, Mr Carter. Good morning, Leo."
+            }
+          ],
+          "style": "dry, friendly"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-011",
+              "it": "Buongiorno, Nadia! Tu lavori qui?",
+              "en": "Good morning, Nadia! You work here?"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-012",
+              "it": "Sì. Io sono la farmacista. Questa è la **farmacia** del **centro**.",
+              "en": "Yes. I'm the pharmacist. This is the **pharmacy** of the **centre**.",
+              "focus": [
+                "v-farmacia",
+                "v-centro"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-013",
+              "it": "La **farmacia** del **centro**. Capito.",
+              "en": "The **pharmacy** of the **centre**. Got it.",
+              "focus": [
+                "v-farmacia",
+                "v-centro"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-014",
+              "it": "Leo si alza sulle punte dei piedi. Guarda gli scaffali.",
+              "en": "Leo stands on tiptoe. He looks at the shelves."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-015",
+              "it": "Nadia, **c'è** la **medicina** qui?",
+              "en": "Nadia, **is there** **medicine** here?",
+              "focus": [
+                "v-c-e",
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-016",
+              "it": "Sì. Qui **c'è** la **medicina**. E **ci sono** tante cose.",
+              "en": "Yes. Here **there's** **medicine**. And **there are** lots of things.",
+              "focus": [
+                "v-c-e",
+                "v-medicina",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-017",
+              "it": "**Ci sono** le **medicine** per i gatti?",
+              "en": "**Are there** **medicines** for cats?",
+              "focus": [
+                "v-ci-sono",
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-018",
+              "it": "Per i gatti **c'è** una **medicina** speciale. Perché?",
+              "en": "For cats **there's** a special **medicine**. Why?",
+              "focus": [
+                "v-c-e",
+                "v-medicina"
+              ]
+            }
+          ],
+          "style": "deadpan"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-019",
+              "it": "Per Pavarotti. Il gatto della signora Galli.",
+              "en": "For Pavarotti. Signora Galli's cat."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-020",
+              "it": "Ah. Pavarotti. Il gatto più grasso di Borgoverde.",
+              "en": "Ah. Pavarotti. The fattest cat in Borgoverde."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-021",
+              "it": "Sì! È molto grasso!",
+              "en": "Yes! He's very fat!"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-022",
+              "it": "Allora **c'è** una **medicina** per lui. Ma la **medicina** non è un gioco, Leo.",
+              "en": "Then **there's** a **medicine** for him. But **medicine** isn't a game, Leo.",
+              "focus": [
+                "v-c-e",
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-023",
+              "it": "Va bene. Niente **medicina** per Pavarotti.",
+              "en": "All right. No **medicine** for Pavarotti.",
+              "focus": [
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-024",
+              "it": "Ben apre il quaderno e lo mette sul banco.",
+              "en": "Ben opens the notebook and puts it on the counter."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-025",
+              "it": "Nadia, una domanda. **Dov'è** il supermercato?",
+              "en": "Nadia, a question. **Where's** the supermarket?",
+              "focus": [
+                "v-dov-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-026",
+              "it": "Il supermercato è in Via Roma. È grande. **C'è** anche un negozio di frutta.",
+              "en": "The supermarket is on Via Roma. It's big. **There's** also a fruit shop.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-027",
+              "it": "Via Roma. E **dov'è** la **stazione**?",
+              "en": "Via Roma. And **where's** the **station**?",
+              "focus": [
+                "v-dov-e",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-028",
+              "it": "La **stazione** è in fondo a Via Roma. **C'è** un **cartello** grande.",
+              "en": "The **station** is at the end of Via Roma. **There's** a big **sign**.",
+              "focus": [
+                "v-stazione",
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-029",
+              "it": "Un **cartello**. Bene. Scrivo.",
+              "en": "A **sign**. Good. I'll write.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-030",
+              "it": "Ben scrive: supermercato, negozio, stazione. Nadia guarda il quaderno.",
+              "en": "Ben writes: supermarket, shop, station. Nadia looks at the notebook."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-031",
+              "it": "Che cos'è questo?",
+              "en": "What's this?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-032",
+              "it": "È la mia **mappa** di Borgoverde.",
+              "en": "It's my **map** of Borgoverde.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-033",
+              "it": "Una **mappa**. Vuoi una **mappa** di Borgoverde?",
+              "en": "A **map**. You want a **map** of Borgoverde?",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "interested"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-034",
+              "it": "Sì! **C'è** una **mappa** in **farmacia**?",
+              "en": "Yes! **Is there** a **map** in the **pharmacy**?",
+              "focus": [
+                "v-c-e",
+                "v-mappa",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-035",
+              "it": "No. Ma c'è internet.",
+              "en": "No. But there's the internet."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-036",
+              "it": "Il papà non ama internet. Ama il quaderno.",
+              "en": "Dad doesn't love the internet. He loves the notebook."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-037",
+              "it": "Ah. Capisco.",
+              "en": "Ah. I see."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-038",
+              "it": "Nadia prende un **cartello** piccolo dal banco. È la lista delle cose della **piazza**.",
+              "en": "Nadia picks up a small **sign** from the counter. It's the list of things in the **square**.",
+              "focus": [
+                "v-cartello",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-039",
+              "it": "Guarda. Questo è un **cartello** del Comitato. **C'è** la **chiesa**. **Ci sono** la **fontana** e il municipio.",
+              "en": "Look. This is a **sign** from the Committee. **There's** the **church**. **There are** the **fountain** and the town hall.",
+              "focus": [
+                "v-cartello",
+                "v-c-e",
+                "v-chiesa",
+                "v-ci-sono",
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-040",
+              "it": "Sì! La **chiesa** e la **fontana**!",
+              "en": "Yes! The **church** and the **fountain**!",
+              "focus": [
+                "v-chiesa",
+                "v-fontana"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-041",
+              "it": "E **c'è** anche il parco?",
+              "en": "And **is there** also the park?",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-042",
+              "it": "Il parco non è in **piazza**. Il parco è vicino alla **chiesa**, ma è un altro posto.",
+              "en": "The park isn't in the **square**. The park is near the **church**, but it's another place.",
+              "focus": [
+                "v-piazza",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-043",
+              "it": "Ah. Allora la **mappa** è sbagliata.",
+              "en": "Ah. So the **map** is wrong.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-044",
+              "it": "La **mappa** è un lavoro lungo.",
+              "en": "A **map** is long work.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-045",
+              "it": "Nadia indica una riga del **cartello**.",
+              "en": "Nadia points to a line of the **sign**.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-046",
+              "it": "E qui **c'è** scritto: \"**negozio** di **pane**\". Il **panificio** della **piazza**.",
+              "en": "And here it says: \"**bread** **shop**\". The **bakery** of the **square**.",
+              "focus": [
+                "v-c-e",
+                "v-negozio",
+                "v-pane",
+                "v-panificio",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-047",
+              "it": "Sì, il **panificio**. Noi abbiamo il **pane**!",
+              "en": "Yes, the **bakery**. We have **bread**!",
+              "focus": [
+                "v-panificio",
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-048",
+              "it": "Il **pane** è caldo!",
+              "en": "The **bread** is warm!",
+              "focus": [
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-049",
+              "it": "Il **pane** di quel **negozio** è il migliore del **centro**. Ma questo non lo dico io.",
+              "en": "The **bread** from that **shop** is the best in the **centre**. But that's not me saying it.",
+              "focus": [
+                "v-pane",
+                "v-negozio",
+                "v-centro"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-050",
+              "it": "No? E chi lo dice?",
+              "en": "No? And who says it?"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-051",
+              "it": "Matteo. Lui è di parte.",
+              "en": "Matteo. He's biased."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-052",
+              "it": "Leo ride. Poi guarda il **cartello** con attenzione.",
+              "en": "Leo laughs. Then he looks at the **sign** carefully.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-053",
+              "it": "Nadia, e **c'è** il **bar** sul **cartello**?",
+              "en": "Nadia, and **is there** the **bar** on the **sign**?",
+              "focus": [
+                "v-c-e",
+                "v-bar",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-054",
+              "it": "No. Il **bar** non è in **piazza**. Il **bar** è in Via dei Tigli.",
+              "en": "No. The **bar** isn't in the **square**. The **bar** is on Via dei Tigli.",
+              "focus": [
+                "v-bar",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-055",
+              "it": "Il **bar** è importante.",
+              "en": "The **bar** is important.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-056",
+              "it": "Certo. Il **bar** è importantissimo.",
+              "en": "Sure. The **bar** is very important.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "deadpan"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-057",
+              "it": "Leo vuole il **bar** sulla **mappa**.",
+              "en": "Leo wants the **bar** on the **map**.",
+              "focus": [
+                "v-bar",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-058",
+              "it": "**Certo**. Geniale. Una **mappa** con il **bar** di Matteo.",
+              "en": "**Sure**. Brilliant. A **map** with Matteo's **bar**.",
+              "focus": [
+                "g-articles-indefinite-ce",
+                "v-mappa",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-059",
+              "it": "Nadia rimette il **cartello** sul banco.",
+              "en": "Nadia puts the **sign** back on the counter.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-060",
+              "it": "Nadia, un'altra domanda. **C'è** una farmacia in **piazza**?",
+              "en": "Nadia, another question. **Is there** a pharmacy in the **square**?",
+              "focus": [
+                "v-c-e",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-061",
+              "it": "No. La **farmacia** è qui. In Via Verdi.",
+              "en": "No. The **pharmacy** is here. On Via Verdi.",
+              "focus": [
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-062",
+              "it": "Ah. Allora... una farmacia.",
+              "en": "Ah. So... a pharmacy."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-063",
+              "it": "Un**a** **farmacia**, signor Carter. Con la \"a\". È femminile.",
+              "en": "A **pharmacy**, Mr Carter. With the \"a\". It's feminine.",
+              "focus": [
+                "g-articles-indefinite-ce",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-064",
+              "it": "Un**a** **farmacia**. Grazie.",
+              "en": "A **pharmacy**. Thanks.",
+              "focus": [
+                "g-articles-indefinite-ce",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-065",
+              "it": "Papà, la \"a\"!",
+              "en": "Dad, the \"a\"!"
+            }
+          ],
+          "style": "proud"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-066",
+              "it": "Sì, sì. La \"a\".",
+              "en": "Yes, yes. The \"a\"."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-067",
+              "it": "Nadia sorride. Poi guarda l'orologio.",
+              "en": "Nadia smiles. Then she looks at the clock."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-068",
+              "it": "Signor Carter, **c'è** un'altra cosa in **piazza**. Il **municipio**.",
+              "en": "Mr Carter, **there's** another thing in the **square**. The town hall.",
+              "focus": [
+                "v-c-e",
+                "v-piazza",
+                "v-municipio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-069",
+              "it": "Sì, il **municipio**. Il **municipio** è in **piazza**. **C'è** un **cartello** nuovo davanti.",
+              "en": "Yes, the town hall. The town hall is in the **square**. **There's** a new **sign** in front.",
+              "focus": [
+                "v-municipio",
+                "v-piazza",
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-070",
+              "it": "Un **cartello** nuovo?",
+              "en": "A new **sign**?",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-071",
+              "it": "Sì. **C'è** scritto qualcosa con parole strane.",
+              "en": "Yes. **There's** something written with strange words.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-072",
+              "it": "Ah. Allora è del Comitato. E il Comitato è... il signor Colombo.",
+              "en": "Ah. Then it's from the Committee. And the Committee is... Mr Colombo."
+            }
+          ],
+          "style": "knowing"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-073",
+              "it": "Il signor Colombo del numero undici?",
+              "en": "Mr Colombo from number eleven?"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-074",
+              "it": "Sì. **C'è** sempre un **cartello** con Colombo.",
+              "en": "Yes. **There's** always a **sign** with Colombo.",
+              "focus": [
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-075",
+              "it": "Leo prende il **pane** e lo mette sul banco. Poi lo riprende.",
+              "en": "Leo takes the **bread** and puts it on the counter. Then he takes it back.",
+              "focus": [
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-076",
+              "it": "Nadia, **ci sono** i cornetti in **farmacia**?",
+              "en": "Nadia, **are there** croissants in the **pharmacy**?",
+              "focus": [
+                "v-ci-sono",
+                "v-farmacia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-077",
+              "it": "No, Leo. I cornetti sono nel **bar**. Il **bar** di Matteo.",
+              "en": "No, Leo. Croissants are in the **bar**. Matteo's **bar**.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-078",
+              "it": "**C'è** il **bar**!",
+              "en": "**There's** the **bar**!",
+              "focus": [
+                "v-c-e",
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "happy"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-079",
+              "it": "E **c'è** sempre il **bar**.",
+              "en": "And **there's** always the **bar**.",
+              "focus": [
+                "v-c-e",
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "sighing"
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-080",
+              "it": "La **strada** è lunga, signor Carter. Prima il **bar**, poi il supermercato.",
+              "en": "The **street** is long, Mr Carter. First the **bar**, then the supermarket.",
+              "focus": [
+                "v-strada",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-081",
+              "it": "Va bene. La **strada** è lunga. Noi camminiamo.",
+              "en": "All right. The **street** is long. We walk.",
+              "focus": [
+                "v-strada"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-082",
+              "it": "Nadia dà a Leo una caramella. Leo dice grazie.",
+              "en": "Nadia gives Leo a sweet. Leo says thank you."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-083",
+              "it": "**C'è** una caramella per il disegnatore della **mappa**.",
+              "en": "**There's** a sweet for the map-maker.",
+              "focus": [
+                "v-c-e",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-084",
+              "it": "Grazie! Il **bar** è il prossimo!",
+              "en": "Thank you! The **bar** is next!",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-085",
+              "it": "Scriva: supermercato, Via Roma. **C'è** tutto sul mio **cartello**.",
+              "en": "Write: supermarket, Via Roma. Everything's on my **sign**.",
+              "focus": [
+                "v-c-e",
+                "v-cartello"
+              ]
+            }
+          ],
+          "style": "to Ben"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-086",
+              "it": "Grazie, Nadia. Sei gentile.",
+              "en": "Thanks, Nadia. You're kind."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e04-4-087",
+              "it": "Sono una farmacista.",
+              "en": "I'm a pharmacist."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-4-088",
+              "it": "Ben e Leo escono. Sopra la porta **c'è** la croce verde.",
+              "en": "Ben and Leo go out. Above the door **there's** the green cross.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-089",
+              "it": "**Dov'è** la **piazza**?",
+              "en": "**Where's** the **square**?",
+              "focus": [
+                "v-dov-e",
+                "v-piazza"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-090",
+              "it": "È là! **C'è** la **chiesa**!",
+              "en": "It's there! **There's** the **church**!",
+              "focus": [
+                "v-c-e",
+                "v-chiesa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-091",
+              "it": "**C'è** la **chiesa**, **c'è** la **fontana**, **c'è** il **municipio**.",
+              "en": "**There's** the **church**, **there's** the **fountain**, **there's** the town hall.",
+              "focus": [
+                "v-c-e",
+                "v-chiesa",
+                "v-fontana",
+                "v-municipio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-4-092",
+              "it": "E **c'è** il **bar** sulla **mappa**!",
+              "en": "And **there's** the **bar** on the **map**!",
+              "focus": [
+                "v-c-e",
+                "v-bar",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-4-093",
+              "it": "**Certo**. Geniale.",
+              "en": "**Sure**. Brilliant.",
+              "focus": [
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ],
+          "style": "laughing"
+        }
+      ],
+      "time": "sabato mattina"
+    },
+    {
+      "n": 5,
+      "location": "stazione",
+      "characters": [
+        "chiara"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-001",
+              "it": "La **stazione** di Borgoverde è piccola. **C'è** un solo **binario**.",
+              "en": "The **station** of Borgoverde is small. **There's** only one **platform**.",
+              "focus": [
+                "v-stazione",
+                "v-c-e",
+                "v-binario"
+              ]
+            },
+            {
+              "id": "s01e04-5-002",
+              "it": "Chiara entra di corsa. Guarda il tabellone.",
+              "en": "Chiara rushes in. She looks at the board."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-003",
+              "it": "Il **treno**... **dov'è** il **treno**?",
+              "en": "The **train**... **where's** the **train**?",
+              "focus": [
+                "v-treno",
+                "v-dov-e"
+              ]
+            }
+          ],
+          "style": "breathless"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-004",
+              "it": "Sul tabellone **c'è** una parola rossa: **IN RITARDO**.",
+              "en": "On the board **there's** a red word: **LATE**.",
+              "focus": [
+                "v-c-e",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-005",
+              "it": "**In ritardo**. Il primo giorno e il **treno** è **in ritardo**.",
+              "en": "**Late**. The first day and the **train** is **late**.",
+              "focus": [
+                "v-in-ritardo",
+                "v-treno"
+              ]
+            }
+          ],
+          "style": "to herself"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-006",
+              "it": "Chiara guarda l'orologio. Poi guarda il **binario** vuoto.",
+              "en": "Chiara looks at the clock. Then she looks at the empty **platform**.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-007",
+              "it": "Otto e dieci. Otto e venti. Il **treno** non c'è.",
+              "en": "8:10. 8:20. The **train** isn't there.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-008",
+              "it": "Sul **binario** c'è un'altra donna. Aspetta anche lei.",
+              "en": "On the **platform** there's another woman. She's waiting too.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-009",
+              "it": "Scusi, signora. Il **treno** per Milano è **in ritardo**?",
+              "en": "Excuse me, ma'am. Is the **train** to Milan **late**?",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "polite"
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-010",
+              "it": "Sì. Sempre. Il sabato il **treno** è sempre **in ritardo**.",
+              "en": "Yes. Always. On Saturdays the **train** is always **late**.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "calm"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-011",
+              "it": "Sempre?",
+              "en": "Always?"
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-012",
+              "it": "Sempre. È normale. Il **treno** delle otto e dieci arriva alle otto e mezza.",
+              "en": "Always. It's normal. The 8:10 **train** arrives at 8:30.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-013",
+              "it": "Alle otto e mezza? Ma io ho un **capo** nuovo.",
+              "en": "At 8:30? But I have a new **boss**.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ],
+          "style": "gasping"
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-014",
+              "it": "Ah. Il **capo** nuovo.",
+              "en": "Ah. The new **boss**.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-015",
+              "it": "Sì. Si chiama Marchetti. Primo giorno. E io sono **in ritardo**.",
+              "en": "Yes. His name is Marchetti. First day. And I'm **late**.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-016",
+              "it": "Il **capo** è **in ritardo** qualche volta?",
+              "en": "Is the **boss** **late** sometimes?",
+              "focus": [
+                "v-capo",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-017",
+              "it": "No. Mai.",
+              "en": "No. Never."
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-018",
+              "it": "Allora è un **capo** importante.",
+              "en": "Then he's an important **boss**.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-019",
+              "it": "Chiara cammina avanti e indietro sul **binario**.",
+              "en": "Chiara walks back and forth on the **platform**.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-020",
+              "it": "Va bene. Calma. Io faccio una cosa utile.",
+              "en": "All right. Calm. I'll do something useful."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-021",
+              "it": "Chiara apre la borsa. Prende un foglio con il nome del **capo**.",
+              "en": "Chiara opens her bag. She takes a sheet with the **boss**'s name.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-022",
+              "it": "Studio Marchetti. Milano, Isola.",
+              "en": "Studio Marchetti. Milan, Isola."
+            }
+          ],
+          "style": "reading"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-023",
+              "it": "Chiara legge il foglio. Poi parla da sola.",
+              "en": "Chiara reads the sheet. Then she talks to herself."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-024",
+              "it": "Buongiorno, signor Marchetti. Sono Chiara Ferri.",
+              "en": "Good morning, Mr Marchetti. I'm Chiara Ferri."
+            }
+          ],
+          "style": "practising"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-025",
+              "it": "La donna sul **binario** ascolta. Sorride.",
+              "en": "The woman on the **platform** listens. She smiles.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-026",
+              "it": "Sono la nuova socia dello studio. Piacere.",
+              "en": "I'm the new partner at the studio. Pleased to meet you."
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-027",
+              "it": "Bene. Ma il **treno** è **in ritardo**.",
+              "en": "Good. But the **train** is **late**.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-028",
+              "it": "Buongiorno, signor Marchetti. Sono Chiara Ferri. Il **treno** è **in ritardo** e io sono **in ritardo** e la **stazione** è piccola...",
+              "en": "Good morning, Mr Marchetti. I'm Chiara Ferri. The **train** is **late** and I'm **late** and the **station** is small...",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo",
+                "v-stazione"
+              ]
+            }
+          ],
+          "style": "nervous, faster"
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-029",
+              "it": "No. Non dire quello.",
+              "en": "No. Don't say that."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-030",
+              "it": "No?",
+              "en": "No?"
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-031",
+              "it": "Il **capo** non ama le scuse.",
+              "en": "The **boss** doesn't love excuses.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-032",
+              "it": "Ah. Il **capo** non ama le scuse. Bene. Grazie.",
+              "en": "Ah. The **boss** doesn't love excuses. Good. Thanks.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-033",
+              "it": "Chiara ripete la frase. Poi guarda il tabellone.",
+              "en": "Chiara repeats the sentence. Then she looks at the board."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-034",
+              "it": "**In ritardo**. Ancora **in ritardo**.",
+              "en": "**Late**. Still **late**.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-035",
+              "it": "Sempre **in ritardo** il sabato. Ma il **treno** arriva.",
+              "en": "Always **late** on Saturdays. But the **train** arrives.",
+              "focus": [
+                "v-in-ritardo",
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-036",
+              "it": "**C'è** un altro modo per andare a Milano?",
+              "en": "**Is there** another way to get to Milan?",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-037",
+              "it": "Sì. **C'è** l'autobus. Ma è lento.",
+              "en": "Yes. **There's** the bus. But it's slow.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-038",
+              "it": "No, l'autobus no. Il **treno** è meglio.",
+              "en": "No, not the bus. The **train** is better.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-039",
+              "it": "Un signore con una valigia arriva sul **binario**.",
+              "en": "A man with a suitcase arrives on the **platform**.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-040",
+              "it": "Anche lui aspetta. Tutti aspettiamo.",
+              "en": "He's waiting too. We're all waiting."
+            }
+          ],
+          "style": "to the woman"
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-041",
+              "it": "Benvenuta a Borgoverde.",
+              "en": "Welcome to Borgoverde."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-042",
+              "it": "Grazie. Un bel benvenuto: **in ritardo**.",
+              "en": "Thanks. A nice welcome: **late**.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "laughing"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-043",
+              "it": "Il signore guarda il tabellone e sospira.",
+              "en": "The man looks at the board and sighs."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-044",
+              "it": "Signora, scusi. **Dov'è** il **binario** per Milano?",
+              "en": "Ma'am, excuse me. **Where's** the **platform** for Milan?",
+              "focus": [
+                "v-dov-e",
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-045",
+              "it": "Qui. **C'è** un solo **binario** nella **stazione**.",
+              "en": "Here. **There's** only one **platform** in the **station**.",
+              "focus": [
+                "v-c-e",
+                "v-binario",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-046",
+              "it": "Ah. Un solo **binario**. Allora è facile.",
+              "en": "Ah. Only one **platform**. So it's easy.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-047",
+              "it": "Sì. Facile. Ma il **treno** è **in ritardo**.",
+              "en": "Yes. Easy. But the **train** is **late**.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-048",
+              "it": "Chiara ride. Guarda il telefono. Nessun messaggio.",
+              "en": "Chiara laughs. She looks at her phone. No message."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-049",
+              "it": "Mio marito è a casa con la **mappa**. Io sono qui con il **ritardo**.",
+              "en": "My husband is at home with the **map**. I'm here with the **delay**.",
+              "focus": [
+                "v-mappa",
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-050",
+              "it": "Chiara guarda il tabellone rosso e ride.",
+              "en": "Chiara looks at the red board and laughs."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-051",
+              "it": "Mio marito è a casa con la **mappa**. Io sono qui con il **treno** **in ritardo**.",
+              "en": "My husband is at home with the **map**. I'm here with the **train** **late**.",
+              "focus": [
+                "v-mappa",
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-052",
+              "it": "Il signore con la valigia aspetta come tutti.",
+              "en": "The man with the suitcase waits like everyone else."
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-053",
+              "it": "Suo marito è italiano?",
+              "en": "Is your husband Italian?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-054",
+              "it": "No. È americano.",
+              "en": "No. He's American."
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-055",
+              "it": "Ah. E lei e suo marito parlate italiano a casa?",
+              "en": "Ah. Do you and your husband speak Italian at home?"
+            }
+          ],
+          "style": "smiling"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-056",
+              "it": "Sì. Adesso sì. Lui studia.",
+              "en": "Yes. Now yes. He studies."
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-057",
+              "it": "Bravo. L'italiano è una strada lunga.",
+              "en": "Good. Italian is a long road."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-058",
+              "it": "Un rumore arriva da lontano. Il **treno**!",
+              "en": "A noise comes from far away. The **train**!",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-059",
+              "it": "**C'è** il **treno**!",
+              "en": "**There's** the **train**!",
+              "focus": [
+                "v-c-e",
+                "v-treno"
+              ]
+            }
+          ],
+          "style": "gasping"
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-060",
+              "it": "Sì. Ecco il **treno** delle otto e mezza.",
+              "en": "Yes. Here's the 8:30 **train**.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-061",
+              "it": "Il **treno** entra nella **stazione** piano piano.",
+              "en": "The **train** comes into the **station** slowly.",
+              "focus": [
+                "v-treno",
+                "v-stazione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-062",
+              "it": "Finalmente!",
+              "en": "Finally!"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-063",
+              "it": "La donna prende la borsa. Chiara prende la sua.",
+              "en": "The woman picks up her bag. Chiara picks up hers."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-064",
+              "it": "Signora, grazie. Lei è gentile.",
+              "en": "Ma'am, thank you. You're kind."
+            }
+          ]
+        },
+        {
+          "speaker": "donna",
+          "segments": [
+            {
+              "id": "s01e04-5-065",
+              "it": "In bocca al lupo per il **capo**!",
+              "en": "Good luck with the **boss**!",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-066",
+              "it": "Crepi!",
+              "en": "Thanks!"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-067",
+              "it": "Le porte del **treno** si aprono. Le due donne entrano.",
+              "en": "The **train** doors open. The two women get on.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-068",
+              "it": "Buongiorno, signor Marchetti. Sono Chiara Ferri. Sono la nuova socia.",
+              "en": "Good morning, Mr Marchetti. I'm Chiara Ferri. I'm the new partner."
+            }
+          ],
+          "style": "practising, fast"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-5-069",
+              "it": "Il **treno** parte. Sul **binario** non c'è più nessuno.",
+              "en": "The **train** leaves. On the **platform** there's no one anymore.",
+              "focus": [
+                "v-treno",
+                "v-binario"
+              ]
+            },
+            {
+              "id": "s01e04-5-070",
+              "it": "Il tabellone è ancora rosso: **IN RITARDO**.",
+              "en": "The board is still red: **LATE**.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-5-071",
+              "it": "Il **treno** è **in ritardo**. Ma adesso andiamo.",
+              "en": "The **train** is **late**. But now we're going.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "sabato mattina"
+    },
+    {
+      "n": 6,
+      "location": "studio-marchetti",
+      "characters": [
+        "chiara",
+        "marchetti"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-001",
+              "it": "Lo Studio Marchetti è al terzo piano di un palazzo a Milano.",
+              "en": "Studio Marchetti is on the third floor of a building in Milan."
+            },
+            {
+              "id": "s01e04-6-002",
+              "it": "Chiara apre la porta piano. Dentro **c'è** un uomo in piedi. Guarda l'orologio.",
+              "en": "Chiara opens the door quietly. Inside **there's** a man standing. He looks at his watch.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-003",
+              "it": "Buongiorno. Lei è Chiara Ferri?",
+              "en": "Good morning. Are you Chiara Ferri?"
+            }
+          ],
+          "style": "formal, cold"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-004",
+              "it": "Sì. Buongiorno. Sono Chiara Ferri.",
+              "en": "Yes. Good morning. I'm Chiara Ferri."
+            }
+          ],
+          "style": "breathless"
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-005",
+              "it": "Io sono Marchetti. Il suo nuovo **capo**.",
+              "en": "I'm Marchetti. Your new **boss**.",
+              "focus": [
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-006",
+              "it": "Piacere, signor Marchetti.",
+              "en": "Pleased to meet you, Mr Marchetti."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-007",
+              "it": "Marchetti non sorride. Guarda di nuovo l'orologio.",
+              "en": "Marchetti doesn't smile. He looks at his watch again."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-008",
+              "it": "Lei è **in ritardo**.",
+              "en": "You're **late**.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-009",
+              "it": "Sì. Mi dispiace. Il **treno**...",
+              "en": "Yes. I'm sorry. The **train**...",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-010",
+              "it": "Il **treno**.",
+              "en": "The **train**.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-011",
+              "it": "Sì. Il **treno** è **in ritardo**. Sempre, il sabato.",
+              "en": "Yes. The **train** is **late**. Always, on Saturdays.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-012",
+              "it": "Sempre il sabato?",
+              "en": "Always on Saturdays?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-013",
+              "it": "Sì. La **stazione** di Borgoverde è piccola. **C'è** un solo **binario**.",
+              "en": "Yes. The **station** of Borgoverde is small. **There's** only one **platform**.",
+              "focus": [
+                "v-stazione",
+                "v-c-e",
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-014",
+              "it": "Un solo **binario**. Capisco.",
+              "en": "Only one **platform**. I see.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ],
+          "style": "flat"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-015",
+              "it": "Marchetti cammina verso la finestra. Non dice altro sul **treno**.",
+              "en": "Marchetti walks toward the window. He says nothing else about the **train**.",
+              "focus": [
+                "v-treno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-016",
+              "it": "Allora. Lo studio. Tre cose.",
+              "en": "So. The studio. Three things."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-017",
+              "it": "La ascolto.",
+              "en": "I'm listening."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-018",
+              "it": "Primo: qui **c'è** la sala grande. **Ci sono** i tavoli e i computer.",
+              "en": "First: here **there's** the big room. **There are** the tables and the computers.",
+              "focus": [
+                "v-c-e",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-019",
+              "it": "Marchetti indica una porta a destra.",
+              "en": "Marchetti points to a door on the right."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-020",
+              "it": "Secondo: là **c'è** il mio ufficio. **Ci sono** i disegni del progetto nuovo.",
+              "en": "Second: over there **there's** my office. **There are** the drawings of the new project.",
+              "focus": [
+                "v-c-e",
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-021",
+              "it": "Il progetto nuovo. Bene.",
+              "en": "The new project. Good."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-022",
+              "it": "Terzo: lì **c'è** la cucina. **C'è** una macchina del caffè.",
+              "en": "Third: over there **there's** the kitchen. **There's** a coffee machine.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-023",
+              "it": "Una macchina del caffè. Come nel **bar** di mio fratello.",
+              "en": "A coffee machine. Like in my brother's **bar**.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "trying to be warm"
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-024",
+              "it": "Suo fratello ha un **bar**?",
+              "en": "Your brother has a **bar**?",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-025",
+              "it": "Sì. Il **bar** Tigli, a Borgoverde.",
+              "en": "Yes. Bar Tigli, in Borgoverde.",
+              "focus": [
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-026",
+              "it": "Ah. **C'è** un **bar** anche sotto questo palazzo. Ma io bevo il caffè qui.",
+              "en": "Ah. **There's** a **bar** under this building too. But I drink my coffee here.",
+              "focus": [
+                "v-c-e",
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "dry"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-027",
+              "it": "Chiara mette la borsa sulla sedia. Poi la prende di nuovo.",
+              "en": "Chiara puts her bag on the chair. Then she picks it up again."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-028",
+              "it": "Signor Marchetti, posso spiegare? Il **binario**...",
+              "en": "Mr Marchetti, may I explain? The **platform**...",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-029",
+              "it": "No. Non spieghi il **binario**.",
+              "en": "No. Don't explain the **platform**.",
+              "focus": [
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-030",
+              "it": "...Va bene.",
+              "en": "...All right."
+            }
+          ],
+          "style": "stopping"
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-031",
+              "it": "Io ascolto le spiegazioni una volta. Poi basta.",
+              "en": "I listen to explanations once. Then that's enough."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-032",
+              "it": "Chiara mette la borsa sulla sedia. Questa volta resta lì.",
+              "en": "Chiara puts her bag on the chair. This time it stays there."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-033",
+              "it": "Nel suo studio **ci sono** due colleghi. Sono là, al tavolo.",
+              "en": "In your studio **there are** two colleagues. They're over there, at the table.",
+              "focus": [
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-034",
+              "it": "Due persone al tavolo alzano la testa. Fanno un piccolo saluto.",
+              "en": "Two people at the table raise their heads. They give a small wave."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-035",
+              "it": "Buongiorno. Piacere.",
+              "en": "Good morning. Pleased to meet you."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-036",
+              "it": "E lei lavora con loro. **C'è** molto lavoro.",
+              "en": "And you work with them. **There's** a lot of work.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-037",
+              "it": "Perfetto. A me piace il lavoro.",
+              "en": "Perfect. I like work."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-038",
+              "it": "Ah, sì?",
+              "en": "Oh, yes?"
+            }
+          ],
+          "style": "looking at his watch"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-039",
+              "it": "Marchetti guarda l'orologio un'altra volta.",
+              "en": "Marchetti looks at his watch another time."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-040",
+              "it": "Signora Ferri, la prima regola dello studio è una sola.",
+              "en": "Ms Ferri, the first rule of the studio is only one."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-041",
+              "it": "Quale?",
+              "en": "Which one?"
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-042",
+              "it": "\"Essere in orario.\"",
+              "en": "\"Be on time.\""
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-043",
+              "it": "Marchetti mette l'orologio davanti a Chiara.",
+              "en": "Marchetti puts his watch in front of Chiara."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-044",
+              "it": "Otto e cinquanta. Lei è **in ritardo** di venti minuti.",
+              "en": "8:50. You're **late** by twenty minutes.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-045",
+              "it": "Sì. Lo so.",
+              "en": "Yes. I know."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-046",
+              "it": "Il **capo** non è **in ritardo**. Il **capo** è in orario. Sempre.",
+              "en": "The **boss** isn't **late**. The **boss** is on time. Always.",
+              "focus": [
+                "v-capo",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-047",
+              "it": "Capito.",
+              "en": "Understood."
+            }
+          ],
+          "style": "quiet"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-048",
+              "it": "Marchetti prende una cartella e va verso il suo ufficio.",
+              "en": "Marchetti takes a folder and heads toward his office."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-049",
+              "it": "**C'è** un progetto nuovo sul tavolo. Grande. Il **treno** e il **binario** non sono il progetto.",
+              "en": "**There's** a new project on the table. Big. The **train** and the **platform** aren't the project.",
+              "focus": [
+                "v-c-e",
+                "v-treno",
+                "v-binario"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-050",
+              "it": "No. Il progetto è il progetto.",
+              "en": "No. The project is the project."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-051",
+              "it": "Bene. Allora lavoriamo.",
+              "en": "Good. Then let's work."
+            }
+          ],
+          "style": "turning back"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-052",
+              "it": "Marchetti entra nel suo ufficio. Chiara guarda i due colleghi.",
+              "en": "Marchetti goes into his office. Chiara looks at the two colleagues."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-053",
+              "it": "**In ritardo** di venti minuti. Primo giorno. Perfetto.",
+              "en": "**Late** by twenty minutes. First day. Perfect.",
+              "focus": [
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "to herself, fast"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-054",
+              "it": "Chiara apre la cartella. Sopra **c'è** scritto: PROGETTO ISOLA.",
+              "en": "Chiara opens the folder. On top it says: ISOLA PROJECT.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-055",
+              "it": "Va bene. **C'è** un progetto. Cominciamo.",
+              "en": "All right. **There's** a project. Let's start.",
+              "focus": [
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-056",
+              "it": "Al tavolo **ci sono** due sedie vuote. Chiara si siede.",
+              "en": "At the table **there are** two empty chairs. Chiara sits down.",
+              "focus": [
+                "v-ci-sono"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-057",
+              "it": "Buongiorno. Sono Chiara. Il **treno** è **in ritardo**, ma io no.",
+              "en": "Good morning. I'm Chiara. The **train** is **late**, but I'm not.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "to the colleagues"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-058",
+              "it": "I due colleghi ridono piano. Chiara apre il computer.",
+              "en": "The two colleagues laugh quietly. Chiara opens the computer."
+            },
+            {
+              "id": "s01e04-6-059",
+              "it": "Alle nove Marchetti esce dal suo ufficio con una tazza.",
+              "en": "At nine Marchetti comes out of his office with a cup."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-060",
+              "it": "Signora Ferri. Il caffè qui è buono. **C'è** anche il **bar** sotto, se preferisce.",
+              "en": "Ms Ferri. The coffee here is good. **There's** also the **bar** downstairs, if you prefer.",
+              "focus": [
+                "v-c-e",
+                "v-bar"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-061",
+              "it": "No. Va bene qui. Grazie.",
+              "en": "No. Here is fine. Thank you."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-062",
+              "it": "Bene.",
+              "en": "Good."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-063",
+              "it": "Marchetti torna nel suo ufficio. Chiara guarda il computer.",
+              "en": "Marchetti goes back to his office. Chiara looks at the computer."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-064",
+              "it": "**C'è** un progetto. **Ci sono** due colleghi. **C'è** un **capo**. E **c'è** un **bar** sotto. Milano è Milano.",
+              "en": "**There's** a project. **There are** two colleagues. **There's** a **boss**. And **there's** a **bar** downstairs. Milan is Milan.",
+              "focus": [
+                "v-c-e",
+                "v-ci-sono",
+                "v-capo",
+                "v-bar"
+              ]
+            }
+          ],
+          "style": "whispering"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-065",
+              "it": "Chiara sorride. Poi comincia a lavorare.",
+              "en": "Chiara smiles. Then she starts working."
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-066",
+              "it": "Signora Ferri?",
+              "en": "Ms Ferri?"
+            }
+          ],
+          "style": "from the office, loud"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-067",
+              "it": "Sì?",
+              "en": "Yes?"
+            }
+          ]
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-068",
+              "it": "Domani è domenica. Ma lunedì il **treno** è **in ritardo** anche lunedì?",
+              "en": "Tomorrow is Sunday. But Monday, is the **train** **late** on Monday too?",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-6-069",
+              "it": "No. Il lunedì il **treno** è **in ritardo** di dieci minuti.",
+              "en": "No. On Mondays the **train** is **late** by ten minutes.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "deadpan"
+        },
+        {
+          "speaker": "marchetti",
+          "segments": [
+            {
+              "id": "s01e04-6-070",
+              "it": "...Bene.",
+              "en": "...Good."
+            }
+          ],
+          "style": "after a pause"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-6-071",
+              "it": "Chiara torna al computer. Il primo giorno è cominciato.",
+              "en": "Chiara goes back to the computer. The first day has begun."
+            }
+          ]
+        }
+      ],
+      "time": "sabato mattina"
+    },
+    {
+      "n": 7,
+      "location": "confessionale",
+      "characters": [
+        "chiara"
+      ],
+      "turns": [
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-7-001",
+              "it": "Allora. Il primo giorno a Milano. Tre cose.",
+              "en": "So. The first day in Milan. Three things."
+            },
+            {
+              "id": "s01e04-7-002",
+              "it": "Primo: il **treno**. Il **treno** è **in ritardo**.",
+              "en": "First: the **train**. The **train** is **late**.",
+              "focus": [
+                "v-treno",
+                "v-in-ritardo"
+              ]
+            },
+            {
+              "id": "s01e04-7-003",
+              "it": "Secondo: la **stazione** di Borgoverde. **C'è** un solo **binario**. Uno.",
+              "en": "Second: the **station** of Borgoverde. **There's** only one **platform**. One.",
+              "focus": [
+                "v-stazione",
+                "v-c-e",
+                "v-binario"
+              ]
+            },
+            {
+              "id": "s01e04-7-004",
+              "it": "Terzo: il **capo**. Il **capo** non è **in ritardo**. Mai.",
+              "en": "Third: the **boss**. The **boss** is never **late**. Never.",
+              "focus": [
+                "v-capo",
+                "v-in-ritardo"
+              ]
+            }
+          ],
+          "style": "fast, to camera"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-7-005",
+              "it": "Chiara conta con le dita e guarda la telecamera.",
+              "en": "Chiara counts on her fingers and looks at the camera."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-7-006",
+              "it": "Milano è bella. Lo studio è bello. Il progetto è interessante.",
+              "en": "Milan is beautiful. The studio is beautiful. The project is interesting."
+            },
+            {
+              "id": "s01e04-7-007",
+              "it": "Ma **c'è** un problema: io sono **in ritardo** e il **capo** no.",
+              "en": "But **there's** a problem: I'm **late** and the **boss** isn't.",
+              "focus": [
+                "v-c-e",
+                "v-in-ritardo",
+                "v-capo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-7-008",
+              "it": "A Borgoverde **c'è** un **binario**, una **stazione** piccola e un **treno** lento.",
+              "en": "In Borgoverde **there's** one **platform**, a small **station** and a slow **train**.",
+              "focus": [
+                "v-c-e",
+                "v-binario",
+                "v-stazione",
+                "v-treno"
+              ]
+            },
+            {
+              "id": "s01e04-7-009",
+              "it": "E a Milano **c'è** Marchetti con l'orologio.",
+              "en": "And in Milan **there's** Marchetti with his watch.",
+              "focus": [
+                "v-c-e"
+              ]
+            },
+            {
+              "id": "s01e04-7-010",
+              "it": "Va bene. È il primo giorno. Non è un problema grande.",
+              "en": "All right. It's the first day. It's not a big problem."
+            }
+          ],
+          "style": "sighing"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-7-011",
+              "it": "Primo: parlo con il **capo**. Secondo: arrivo prima del **treno**. Terzo: il **treno**... mah, il **treno** è un **treno**.",
+              "en": "First: I talk to the **boss**. Second: I arrive before the **train**. Third: the **train**... well, the **train** is a **train**.",
+              "focus": [
+                "v-capo",
+                "v-treno"
+              ]
+            }
+          ],
+          "style": "quick, to herself"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-7-012",
+              "it": "Chiara prende il telefono. Poi lo rimette in borsa.",
+              "en": "Chiara picks up her phone. Then she puts it back in her bag."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e04-7-013",
+              "it": "Ci penso io.",
+              "en": "I'll handle it."
+            }
+          ],
+          "style": "not convinced"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "location": "confessionale",
+      "characters": [
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-8-001",
+              "it": "Ciao! Io sono Leo.",
+              "en": "Hi! I'm Leo."
+            },
+            {
+              "id": "s01e04-8-002",
+              "it": "Io e il papà facciamo una **mappa** di Borgoverde.",
+              "en": "Dad and I are making a **map** of Borgoverde.",
+              "focus": [
+                "v-mappa"
+              ]
+            },
+            {
+              "id": "s01e04-8-003",
+              "it": "**C'è** una **piazza**. **C'è** una chiesa. **C'è** una fontana.",
+              "en": "**There's** a **square**. **There's** a church. **There's** a fountain.",
+              "focus": [
+                "v-c-e",
+                "v-piazza"
+              ]
+            },
+            {
+              "id": "s01e04-8-004",
+              "it": "**Ci sono** gli alberi nel parco. **Ci sono** i cornetti nel bar.",
+              "en": "**There are** trees in the park. **There are** croissants in the bar.",
+              "focus": [
+                "v-ci-sono"
+              ]
+            },
+            {
+              "id": "s01e04-8-005",
+              "it": "E **c'è** la **farmacia**. La **farmacia** è di Nadia.",
+              "en": "And **there's** the **pharmacy**. The **pharmacy** is Nadia's.",
+              "focus": [
+                "v-c-e",
+                "v-farmacia"
+              ]
+            },
+            {
+              "id": "s01e04-8-006",
+              "it": "Nella **farmacia** **c'è** la **medicina**.",
+              "en": "In the **pharmacy** **there's** **medicine**.",
+              "focus": [
+                "v-farmacia",
+                "v-c-e",
+                "v-medicina"
+              ]
+            },
+            {
+              "id": "s01e04-8-007",
+              "it": "**C'è** la **medicina** per i gatti? Sì! **C'è** per Pavarotti!",
+              "en": "**Is there** **medicine** for cats? Yes! **There's** some for Pavarotti!",
+              "focus": [
+                "v-c-e",
+                "v-medicina"
+              ]
+            }
+          ],
+          "style": "bright, to camera"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-8-008",
+              "it": "Leo fa una faccia seria, come un dottore.",
+              "en": "Leo makes a serious face, like a doctor."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-8-009",
+              "it": "Ma la **medicina** non è un gioco. Questo lo dico io.",
+              "en": "But **medicine** isn't a game. That's from me.",
+              "focus": [
+                "v-medicina"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-8-010",
+              "it": "Papà, **dov'è** il supermercato? **Dov'è** la stazione? Mah.",
+              "en": "Dad, **where's** the supermarket? **Where's** the station? Hmm.",
+              "focus": [
+                "v-dov-e"
+              ]
+            },
+            {
+              "id": "s01e04-8-011",
+              "it": "**Dov'è** la **piazza**? Lo so! La **piazza** è con la chiesa!",
+              "en": "**Where's** the **square**? I know! The **square** is with the church!",
+              "focus": [
+                "v-dov-e",
+                "v-piazza"
+              ]
+            },
+            {
+              "id": "s01e04-8-012",
+              "it": "La **mappa** è mia e del papà. È una mappaverde.",
+              "en": "The **map** is mine and Dad's. It's a map-a-green.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "thinking"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-8-013",
+              "it": "Leo ride della parola nuova.",
+              "en": "Leo laughs at the new word."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-8-014",
+              "it": "La **mappa** è quasi finita. Adesso **c'è** il bar. Il bar è importante!",
+              "en": "The **map** is almost finished. Now **there's** the bar. The bar is important!",
+              "focus": [
+                "v-mappa",
+                "v-c-e"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-8-015",
+              "it": "**Perfetto**! Ciao!",
+              "en": "**Perfect**! Bye!",
+              "focus": [
+                "g-articles-indefinite-ce"
+              ]
+            }
+          ],
+          "style": "proud"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "location": "via",
+      "characters": [
+        "ben",
+        "leo",
+        "roberto"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-9-001",
+              "it": "Ben e Leo tornano a casa. La **passeggiata** è lunga, ma il **pane** è ancora caldo.",
+              "en": "Ben and Leo come home. The **walk** is long, but the **bread** is still warm.",
+              "focus": [
+                "v-passeggiata",
+                "v-pane"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-002",
+              "it": "Papà, la **mappa** è quasi finita.",
+              "en": "Dad, the **map** is almost finished.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-003",
+              "it": "Quasi. **C'è** il **panificio**, **c'è** la **fontana**, **c'è** il **parco**.",
+              "en": "Almost. **There's** the **bakery**, **there's** the **fountain**, **there's** the **park**.",
+              "focus": [
+                "v-c-e",
+                "v-panificio",
+                "v-fontana",
+                "v-parco"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-004",
+              "it": "Ma **dov'è** il **supermercato** sulla **mappa**?",
+              "en": "But **where's** the **supermarket** on the **map**?",
+              "focus": [
+                "v-dov-e",
+                "v-supermercato",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-005",
+              "it": "Non c'è ancora.",
+              "en": "It's not there yet."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-9-006",
+              "it": "Ben e Leo sono davanti alla casa. Sul **cancello** c'è un foglio bianco.",
+              "en": "Ben and Leo are in front of the house. On the **gate** there's a white sheet.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-007",
+              "it": "Papà, guarda! **C'è** un **cartello** sul **cancello**!",
+              "en": "Dad, look! **There's** a **sign** on the **gate**!",
+              "focus": [
+                "v-c-e",
+                "v-cartello",
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-008",
+              "it": "Un **cartello**?",
+              "en": "A **sign**?",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-9-009",
+              "it": "Ben legge il foglio. Poi arriva Roberto Colombo dalla casa di fronte.",
+              "en": "Ben reads the sheet. Then Roberto Colombo comes from the house opposite."
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-010",
+              "it": "Buonasera, signor Carter.",
+              "en": "Good evening, Mr Carter."
+            }
+          ],
+          "style": "formal, polite"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-011",
+              "it": "Buonasera, signor Colombo.",
+              "en": "Good evening, Mr Colombo."
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-012",
+              "it": "Il **cartello** è del Comitato di quartiere.",
+              "en": "The **sign** is from the neighbourhood committee.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-013",
+              "it": "Ah. E che cosa dice?",
+              "en": "Ah. And what does it say?"
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-014",
+              "it": "Il Comitato chiede una cosa semplice: il **cancello** e la strada puliti.",
+              "en": "The committee asks one simple thing: the **gate** and the street clean.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-015",
+              "it": "\"Si chiede ai signori residenti...\"",
+              "en": "\"The resident gentlemen are asked...\""
+            }
+          ],
+          "style": "reading aloud"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-016",
+              "it": "Bravo, il bambino legge bene.",
+              "en": "Good, the boy reads well."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-017",
+              "it": "Leo legge tutto. Anche la **mappa**.",
+              "en": "Leo reads everything. Even the **map**.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "friendly"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-018",
+              "it": "Ah. Una **mappa**.",
+              "en": "Ah. A **map**.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ],
+          "style": "dry"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-9-019",
+              "it": "Roberto guarda il foglio sul **cancello**. Poi guarda Ben.",
+              "en": "Roberto looks at the sheet on the **gate**. Then he looks at Ben.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-020",
+              "it": "Signor Carter, il **cancello** è la porta della strada.",
+              "en": "Mr Carter, the **gate** is the door of the street.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-021",
+              "it": "Capisco. Un bel **cancello**.",
+              "en": "I understand. A nice **gate**.",
+              "focus": [
+                "v-cancello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-022",
+              "it": "Sì. E il **cartello** è la voce del Comitato.",
+              "en": "Yes. And the **sign** is the voice of the committee.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-023",
+              "it": "Il **cartello** è la voce? Strano.",
+              "en": "The **sign** is a voice? Strange.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-024",
+              "it": "Leo.",
+              "en": "Leo."
+            }
+          ],
+          "style": "quietly"
+        },
+        {
+          "speaker": "roberto",
+          "segments": [
+            {
+              "id": "s01e04-9-025",
+              "it": "Va bene. buonasera.",
+              "en": "All right. Good evening."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-9-026",
+              "it": "Roberto va verso casa sua. Ben prende il quaderno.",
+              "en": "Roberto heads toward his house. Ben takes the notebook."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-027",
+              "it": "Scrivo una parola nuova: **cartello**.",
+              "en": "I'll write a new word: **sign**.",
+              "focus": [
+                "v-cartello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-028",
+              "it": "Papà, il **cartello** è bianco. E il bianco è buono per la **mappa**!",
+              "en": "Dad, the **sign** is white. And white is good for the **map**!",
+              "focus": [
+                "v-cartello",
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e04-9-029",
+              "it": "Leo, no. Il **cartello** resta sul **cancello**.",
+              "en": "Leo, no. The **sign** stays on the **gate**.",
+              "focus": [
+                "v-cartello",
+                "v-cancello"
+              ]
+            }
+          ],
+          "style": "sighing"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e04-9-030",
+              "it": "Va bene. Ma la **mappa** ha bisogno di un foglio bianco.",
+              "en": "All right. But the **map** needs a white sheet.",
+              "focus": [
+                "v-mappa"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e04-9-031",
+              "it": "Entrano in casa con il **pane** e la **mappa**. Il **cartello** resta sul **cancello**.",
+              "en": "They go into the house with the **bread** and the **map**. The **sign** stays on the **gate**.",
+              "focus": [
+                "v-pane",
+                "v-mappa",
+                "v-cartello",
+                "v-cancello"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "sabato pomeriggio"
+    }
+  ]
+}
