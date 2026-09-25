@@ -4,1090 +4,156 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Bar Tigli · sabato mattina
+## 1. Casa Carter, Via dei Tigli 14 · domenica mattina
 
-È sabato mattina. Il **bar** Tigli è aperto. Dentro ci sono cinque persone. C'è profumo di **caffè**.
+È **domenica** mattina a Via dei Tigli 14. La cucina è piccola e piena di sole.
 
-*Ben:* Buongiorno a tutti!
+Ben apre il frigorifero e guarda dentro. Ha un **quaderno** nuovo in mano. Sul **quaderno** c'è una **parola**: **caffè**. _Una **parola** al giorno. Questa è la regola._
 
-Tutti guardano Ben. Nessuno risponde.
+«Buongiorno! **Colazione** americana?» «Uova, pancetta e un **cappuccino** grande.»
 
-*Ben:* Buongiorno, Sergio! Buongiorno, Marina!
+Chiara entra in cucina con i capelli bagnati. Guarda il marito, poi guarda il **quaderno**. «Ben. Oggi è **domenica**.» «Sì? E allora?» «Oggi andiamo da papà. **Pranzo** di **domenica**.» «**Pranzo**? Perfetto!» «Non è una **parola** facile, Ben.»
 
-Sergio e Marina non capiscono. Loro non dicono niente.
+Leo arriva in cucina in pigiama. «Il **pranzo** di nonno Franco!» «Quattro **piatti**, papà. Quattro.» Ben apre la bocca e non parla. «Antipasto. Primo. Secondo. **Dolce**.» «E il primo è la **pasta**.» «La **pasta** di nonno è sempre buona.»
 
-*Matteo:* Ben! Buongiorno! Cosa prendi?
+Ben guarda il suo **quaderno** e scrive. «Quattro piatti. Un **problema** grande.» «Scrivo **problema**. Con la erre.» «Il **problema** non è il **pranzo**, Ben.» «Il **problema** è il **cappuccino**.» «Come?» «Il **cappuccino** è al **bar**. A casa no.»
 
-*Ben:* Allora... Un **caffè**, **per favore**.
+Chiara indica la finestra. Fuori, in fondo alla strada, c'è il **bar** di Matteo. «Il **bar**? Ma io ho il **latte** qui.» «Il **latte** è **latte**. Il **cappuccino** è un'altra cosa.» «E la **brioche**?» «La **brioche** è al **bar**. Anche la **brioche**.» «Anche la **tazza**?» «La **tazza** è di casa. La **tazza** è a casa.»
 
-*Matteo:* Un **caffè**. Subito!
+Ben prende una **tazza** dal mobile. La **tazza** è piccola, bianca, con un fiore blu. «Questa **tazza** è la mia **tazza** preferita.» «Bene. La **tazza** va bene per il **latte**.»
 
-Matteo prende una **tazza** piccola. La **tazza** è bianca e molto piccola. Le **tazze** qui sono piccole. Le **brioche** sono dolci.
+Leo si siede al tavolo e guarda il padre. «Papà, in America il **caffè** è la mattina?» «E il **latte** la sera?» Ben pensa un momento. «Perché sì.» «Perché sì è una risposta?» «In America sì.»
 
-*Ben:* È piccola!
+Chiara ride e prende il **quaderno**. Legge la **parola** di ieri: **caffè**. Poi guarda Ben e dice una **parola** sola. «Mah.» «Cosa significa?» «Come mio padre.» Ben scrive due **parole** nuove sul **quaderno**: **vorrei** e Mah. _Cinque lettere. Tre significati._
 
-*Matteo:* È un **caffè**, Ben. Non è **acqua**.
+Leo conta i piatti con le dita. «Uno, due, tre, quattro **piatti**.» «Papà, tu mangi quattro piatti?» «Io mangio tutto!» «Anche la **pasta**?» «La **pasta**, il secondo, il **dolce**...» «Il **dolce** è dopo il secondo, papà.» «Sì. Dopo il secondo.» «E dopo il **dolce**?» «Dopo il **dolce** il **caffè**.» «Il **caffè**? Al **bar**?» «No. A casa di papà. In **tazza** piccola.»
 
-Matteo mette la **tazza** sul banco.
+Ben chiude il **quaderno** e respira. «Allora il **pranzo** è importante.» «No, Ben. È una famiglia.» Leo ride e prende la mano del padre. «Papà, scrivi anche "pranzo"?» «Sì. **Pranzo**, con la zeta.» Fuori il sole è alto e la strada è tranquilla. Oggi c'è il **pranzo** da nonno Franco.
 
-*Matteo:* Ecco. Un **caffè**, e un **buono**.
+## 2. Bar Tigli · domenica mattina
 
-*Ben:* **Grazie**!
+Il **bar** Tigli è in fondo alla strada, vicino alla piazza. È quasi vuoto, la **domenica** mattina. Dentro c'è odore di **caffè** e di **cornetto** caldo.
 
-Ben beve il **caffè**. È forte e **buono**.
+Ben entra e guarda tutto con la bocca aperta. «Buongiorno, signora! Buongiorno, signore!» Due clienti al **banco** si girano. «Buongiorno, Giorgio! Buongiorno, Rita!» «Io sono Paolo.» «E io sono Ines.» _Perfetto. Due nomi nuovi, due errori nuovi._
 
-*Ben:* Oh! **Buono**! Ma... è piccolo.
+Matteo arriva da dietro il **banco** con un panno in mano. «Ben! Il marito di mia sorella!» «Il signor Carter, per gli amici Ben.» «Allora: Ben. Cosa prendi?» «**Vorrei** un **cappuccino**, **per favore**.» «Un **cappuccino**. Subito.» «E anche un **cornetto**, **per favore**.» «Un **cornetto**. Vuoto o con la crema?» Ben guarda il **banco** e non risponde. «Vuoto. Vuoto è più sicuro.»
 
-*Matteo:* In Italia il **caffè** è piccolo. È normale.
+Matteo mette una **tazza** piccola sulla macchina del **caffè**. La **tazza** è bianca, come quella di casa. «Una **tazza**, una **parola**. Questa è la mia regola.» «Quale **parola**?» «**Cappuccino**. Con due ci e due pi.»
 
-*Ben:* È normale. Perfetto.
+Ben apre il **quaderno** sul **banco**. Scrive: il **cappuccino**, i cappuccini. «Bravo! Genere e numero!» «Il libro dice così.» «Il libro è bravo, ma il **bar** è meglio.»
 
-Ben apre il suo **quaderno**. Il **quaderno** è **nuovo**. Ben scrive una **parola**.
+Ben guarda la vetrina e vede anche i **cornetti**. Sono cinque, dorati, con lo zucchero sopra. «Mi piace la **colazione** italiana!» «La **colazione** italiana è questa: **caffè** e **cornetto**.» «E il **latte**?» «Anche il **latte**. Ma non tutti.» «Io **vorrei** anche un **latte** freddo.» «Un **latte**? Freddo?» «Sì, **grazie**.»
 
-*Ben:* **Caffè**.
+Matteo prende un **bicchiere** grande e lo riempie. Il **bicchiere** è pieno di **latte** bianco e freddo. Ben beve un sorso e fa una faccia strana. «Questo è **latte**! Solo **latte**!» «Certo. Tu dici: un **latte**. Io porto: un **latte**.» «Ma io **vorrei** un **caffellatte**!» «E allora devi dire: **caffellatte**.» «**Caffellatte**. Con due elle e una ti.» «Con due elle. Senza ti.» _Il **latte** è **latte**. Il **caffellatte** è **caffè** e **latte**._ «Perfetto. Nuova **parola** nel **quaderno**.»
 
-*Matteo:* Che cos'è?
+Ben prende la **tazza** e il **cornetto** e cammina verso un **tavolo**. Il **tavolo** è vicino alla finestra, con il sole sopra. Si siede, contento, e apre il **quaderno**. «Il **tavolo** è libero! Il **tavolo** è perfetto!» «Ben. Il **tavolo** è libero, sì.» «Il **tavolo** con il sole! Per leggere il **quaderno**.» «Ma prima paghi. Al **banco**.» «Come? Adesso?» «Adesso. **Banco** primo, **tavolo** dopo.»
 
-*Ben:* Il mio **quaderno**. Per le **parole** che sono **nuove**.
+Ben si alza e torna al **banco** con la **tazza** in mano. «Quindi il **conto** è prima.» «Il **conto** è prima. Poi il **tavolo**.» «Il **conto** è una **parola** nuova?» «Per te, sì.» «Scrivo: il **conto**. E anche: il **conto**, **per favore**.» «Due euro e cinquanta. **Grazie**.» «**Grazie** a te. E **grazie** per il **latte** freddo.»
 
-*Matteo:* Ah! Un **quaderno** per le **parole**! Geniale!
+Ben paga e finalmente si siede al **tavolo**. Mangia il **cornetto** in tre morsi. «Buono! Ma **vorrei** una **brioche**.» «Una **brioche**?» «Sì. Una **brioche** con la crema.» Matteo ride forte e indica la vetrina. «Quella è una **brioche**. Per me è un **cornetto**.» «Due **parole**, una cosa?» «Esatto. In Italia sì.» «Allora scrivo: **brioche** uguale **cornetto**.» «Scrivi: dipende dal **bar**.»
 
-Nadia arriva dalle scale.
+Ben guarda la sua **tazza** vuota, il **bicchiere** di **latte** e il **quaderno**. «Il **caffè** qui è buono. Il **bar** è buono.» «Il **bar** è sempre buono la **domenica**.» «Torno domani. Ogni giorno.» «Ogni giorno? Allora sei un cliente fisso!» «Un cliente fisso con il **quaderno**.» «E domani? **Cappuccino** e **cornetto**?» «**Cappuccino** e **cornetto**. E **acqua**?» «**Acqua** dopo il **caffè**. Sempre. In **bicchiere** piccolo.» «Un **bicchiere** piccolo d'**acqua**. Nel **quaderno**!» «E dopo il **dolce**?» «Il **dolce** è da nonno Franco. Oggi **pranzo** di **domenica**.» «Oggi mangi quattro piatti. Non quattro **cornetti**.» «Un **cornetto** solo. Promesso.»
 
-*Nadia:* Buongiorno, Ben.
+Un cliente entra e saluta Matteo con la mano. Ben alza la mano e saluta anche lui. «Buongiorno! **Vorrei** un **caffè**!» «Ben, quello è il mio saluto.» «Scusa. Il **caffè** è tuo, il **bar** è tuo, il **banco** è tuo.» «Ma il **quaderno** è tuo.» «Sì. Il **quaderno** è mio. Con venti **parole**.» «Venti **parole** in due giorni?» «Venti **parole**, un **cappuccino**, un **cornetto**, un **latte** freddo...» «...e un **conto** da pagare prima del **tavolo**.» «Anche quello è nel **quaderno**.»
 
-*Ben:* Buongiorno, Nadia! **Vorrei** un **cornetto**, **per favore**.
+## 3. Via dei Tigli · domenica mattina
 
-*Matteo:* Un **cornetto**! Bravo, Ben!
+La strada è tranquilla e il sole è caldo. Ben cammina verso casa con un **cornetto** in un sacchetto di carta.
 
-*Nadia:* Quale? Abbiamo **cornetti** semplici e **brioche**.
+Davanti al numero sedici c'è la signora Ornella. Annaffia due vasi di gerani e parla con un gatto grigio. «Buongiorno, signora Galli.» «Buongiorno, signor Carter.» «Come sta?» «Bene, **grazie**. E Lei?» «Molto bene! Io vengo dal **bar**.» «Dal **bar** Tigli? Alle nove?» «Per la **colazione**. **Caffè** e **cornetto**.»
 
-*Ben:* Perché due **parole**?
+Ornella sorride e accarezza il gatto. «Questo è Pavarotti. Il mio gatto.» «Pavarotti? Come il cantante?» «Esatto. Canta la mattina. Come un tenore.»
 
-*Matteo:* Il **cornetto** è vuoto. La **brioche** è dolce, con la crema.
+Ben apre il **quaderno** con orgoglio. «Guardi, signora. Venti **parole** nuove.» Ornella guarda la pagina e legge con attenzione. «Il **caffè**, i **caffè**. Bravo, signor Carter.» «Il **caffè** è uguale. Singolare e plurale.» «Come il **bar**. Il **bar**, i **bar**.» «E questa?» «La **foto**. Al plurale: le **foto**.» «Le **foto**? Non le **fote**?» «Mai le **fote**, signor Carter.» _Il **caffè**, la **foto**. Due **parole** con una regola sola._
 
-*Ben:* **Cornetto**. **Brioche**. Due **parole**.
+Ornella indica una finestra al primo piano. «In casa ho una **foto** di questa strada. Del 1965.» «Una **foto** vecchia? Bellissima!» «E nella **foto** ci sono io, mia madre, il **bar** vecchio.» «Il **bar** vecchio? Il **bar** di Matteo?» «Lo stesso **bar**. Quarant'anni con mio marito Gino.» «Quarant'anni al **banco**?» «Al **banco**. Sempre al **banco** con la gente.»
 
-Nadia prende un **cornetto** e una **brioche**. Mette tutto su un piatto davanti a Ben.
+Ben pensa al **banco** di Matteo e alla gente. «Al **banco** la gente parla molto.» «Al **banco** la gente racconta tutto. Le **parole** sono il **caffè** della vita.» _E le **parole** sono il mio **quaderno**._
 
-*Nadia:* Prima assaggia. Poi scegli.
+Ornella guarda il sacchetto di carta in mano a Ben. «E oggi? Oggi è **domenica**.» «Sì. **Pranzo** da Franco. Alle tredici.» «Il **pranzo** della **domenica** da Franco Ferri.» «Quattro piatti, signora. Antipasto, primo, secondo, dolce.» «Allora Lei lo sa già.» «Sì. E ho un **problema**: il secondo è troppo?» «Nessun **problema**. Lei mangia tutto e non parla. Regola numero uno.»
 
-*Ben:* Tutti e due?
+Il gatto Pavarotti si avvicina al sacchetto. Fiuta l'aria, poi fiuta il sacchetto di carta. «Pavarotti sente il **cornetto**.» «È per Leo. Il **cornetto** è suo.» «Pavarotti non lo sa. Per lui il **cornetto** è suo.» Il gatto cammina dietro a Ben fino al cancello. «Lei ha un amico nuovo, signor Carter.»
 
-*Nadia:* Tutti e due.
+Ben ride e apre il **quaderno** ancora una volta. «Scrivo una **parola** nuova: Pavarotti.» «Pavarotti non è una **parola** italiana, signor Carter.» «Ma è una **parola** importante a Via dei Tigli.» «Questo è vero.»
 
-Ben assaggia il **cornetto**. Poi la **brioche**.
+Ornella prende il giornale dalla borsa e guarda l'ora. «Ho un **conto** da pagare al **bar**? No, il **conto** è Suo.» «Il **conto** è mio. Due euro e cinquanta.» «Due euro e cinquanta per un **caffè**? Al Tigli?» «Sì. Con il **cornetto**.» «Il signor Matteo è generoso. Con i nuovi clienti.» «Io sono un cliente fisso. Tutti i giorni.» «Tutti i giorni? Allora Lei è un **americano** strano.» «**Americano** ma con il **quaderno**.» «Gli **americani** con il **quaderno** sono i migliori.»
 
-*Ben:* **Buoni**! **Buoni** tutti e due!
+Ben sorride e chiude il **quaderno**. «Signora, è tardi. Devo andare al **pranzo**.» «Va bene. Ma ricordi: a tavola, con Franco, mangi tutto e sorride.» «Mangiare tutto e sorridere. Nel **quaderno**!» «Quella **parola** è più utile del **caffè**.» Pavarotti miagola e guarda il sacchetto. «Arrivederci, signora Galli. E **grazie**!» «Arrivederci, signor Carter. Buon **pranzo**.» Ben apre il cancello e il gatto resta fermo a guardarlo. _Quattro piatti, una **parola** nuova, un gatto tenore._
 
-*Matteo:* Allora? Quale prendi?
+## 4. Casa di Franco, Via dei Tigli 9 · domenica, tredici
 
-*Ben:* È un **problema**. Un **problema** grande.
+La casa di Franco è al numero nove. La porta è aperta e dentro c'è odore di **pasta** e di pomodoro.
 
-*Nadia:* Un **problema** grande, sì.
+Il **tavolo** è grande, con la tovaglia bianca. Sul **tavolo** ci sono quattro piatti e quattro bicchieri. Su un mobile c'è una **foto** di donna con un sorriso gentile. _E quella è Anna. La mamma di Chiara._
 
-*Ben:* Prendo tutti e due.
+Franco arriva dalla cucina con una pentola. «Chiara. Leo. Emma.» Poi guarda Ben per due secondi. «E l'**americano**.» Chiara si ferma con il piatto in mano. «Papà!» «Che c'è? È un **americano**. È vero o no?» «È vero, papà. Ma è anche Ben.»
 
-*Matteo:* Perfetto! E **zucchero**?
+Ben apre il **quaderno** e scrive con calma. «L'**americano**. Con l'apostrofo.» «Cosa scrivi?» «Le **parole** nuove. Ogni giorno.» «Venticinque **parole**?» «Quasi. Con questa sono venticinque.» «Mah.»
 
-*Ben:* **Zucchero**? Nel **caffè**?
+Leo corre verso il **tavolo**. «Nonno! Oggi la **pasta**?» «Sì. Tagliatelle. Con il ragù di mia moglie.» «La **pasta** di nonna?» «La ricetta è di nonna Anna. La cucina è mia.» Leo guarda la **foto** sul mobile. «Ciao, nonna Anna.»
 
-*Matteo:* No. Nel **caffè** no. Nel **cappuccino** sì. E nell'**acqua** no.
+Emma si siede in silenzio, vicino alla finestra. Guarda il telefono e poi il piatto. «Emma, dai. È **domenica**. Niente telefono.» «Boh.» «La **domenica** è il giorno della famiglia.» «Sì, nonno.»
 
-*Ben:* Che cos'è un **cappuccino**?
+Franco porta l'antipasto: salumi, olive, formaggio. «**Pranzo** di **domenica**, numero uno: antipasto.» Ben mangia e fa un segno con la mano. «Buonissimo! Questo è un **problema**.» «Un **problema**?» «Se mangio tutto, dopo non posso più mangiare.» «Ma questo è l'antipasto! Piccolo!» «Piccolo per Lei, signor Franco.»
 
-*Matteo:* **Caffè** con **latte**. Tanto **latte**.
+Poi Franco porta la **pasta**. La **pasta** è calda e profumata, gialla e rossa. Ben si serve una porzione grande. «Perfetto! Il secondo è buono!» Tutti si fermano. Leo mette giù la forchetta. «Papà. Questo è il primo.» «Sì! Il primo. La **pasta**.» «Ma tu dici: il secondo.» «Io dico secondo?»
 
-*Ben:* Ah! **Caffè** con **latte**. **Buono**!
+Chiara sospira e beve un po' d'**acqua**. «Primo: la **pasta**. Secondo: la carne. Terzo: il **dolce**.» «E l'antipasto è prima del primo.» «Quattro cose, Ben. Quattro.» Ben scrive veloce sul **quaderno**. «Primo non è secondo. La **pasta** è primo.» «E la carne è secondo.» «La carne è secondo. Chiaro. Chiarissimo.»
 
-*Matteo:* Ma attenzione. Il **cappuccino** è per la **colazione**. Solo **colazione**.
+Franco guarda Ben da sopra gli occhiali. «L'**americano** mangia la **pasta** come un secondo.» «No, no. Ora capisco. La **pasta** è primo.» «Per un italiano, la **pasta** è primo sempre.» «Anche a colazione?» Franco non ride. «A colazione no. A colazione il **caffè**.» «Il **caffè** è **colazione**. Il **caffè** è tutto.» «Mah.» _Nove lettere e tre significati. Di nuovo._
 
-*Ben:* **Cappuccino**: **colazione**.
+Emma guarda Ben con un mezzo sorriso. «Papà, "Mah" non è una **parola** utile.» «Per me è utilissima. La scrivo spesso.» «Che ansia.» Emma beve un po' d'**acqua** dal suo **bicchiere**.
 
-Nadia mette un **bicchiere** d'**acqua** sul **tavolo**.
+Franco porta il secondo: carne con le patate. «Secondo: arrosto. Tu mangi l'arrosto?» «Io mangio tutto. Sono **americano**, ma mangio tutto.» «Allora è **americano** ma con la forchetta giusta.» Chiara guarda il padre e poi il marito. «Papà, si dice "l'**americano**" come un nome. Non è gentile.» «È un fatto, Chiara. Non è una **parola** cattiva.» «Però...» «Però niente. Mangia.»
 
-*Nadia:* Ecco l'**acqua**.
+Ben taglia la carne e assaggia. «Buona! Ma la **pasta** è meglio.» «Mia moglie dice così.» «Anna? La signora della **foto**?» «Sì. La **foto** è del 2018. Prima della malattia.» Il **tavolo** è silenzioso per un momento. «Lei cucinava bene?» «Troppo bene. Per questo ora cucino io.»
 
-*Ben:* **Grazie**. Un **bicchiere** d'**acqua**.
+Leo alza la mano come a scuola. «Nonno! E adesso il **dolce**?» «Il **dolce** è dopo il secondo, Leo.» «Sì, ma dopo il secondo c'è il **dolce**?» «Sì. Dopo il secondo c'è il **dolce**.» «E dopo il **dolce**?» «Dopo il **dolce** il **caffè**. E poi un riposino.»
 
-Il **bicchiere** è piccolo. L'**acqua** è fresca.
+Ben è pieno. Molto pieno. «**Vorrei** un **bicchiere** d'**acqua**, **per favore**.» Franco prende una bottiglia rossa e versa. «**Acqua**? No. Vino.» «Ma io **vorrei** un **bicchiere** d'**acqua**...» «Dopo il vino, l'**acqua**. Questa è la regola.» «E se non bevo il vino?» «Allora non c'è l'**acqua**.» Ben beve il vino e fa una faccia strana.
 
-*Ben:* Ah! L'**acqua** è **buona**!
+Poi arriva il **dolce**: tiramisù, con il cucchiaio. «Tiramisù. La ricetta di nonna.» «La **parola** più bella d'Italia!» «Tiramisù non è una **parola** semplice, Ben.» «Ma è buona. Buonissima. Perfetta!» «Il **dolce** è di Anna. Non mia.» Ben guarda la **foto** di Anna con rispetto.
 
-Matteo indica la **foto** sopra il banco.
+Dopo il **dolce** Franco prepara il **caffè** nella moka. Il **caffè** è piccolo e forte, in **tazza** piccola. «Questo è il **caffè** italiano. Non americano.» «Piccolo! Ma forte!» «Il **caffè** è così. Piccolo e forte.» «Scrivo: **caffè** italiano, **tazza** piccola.» «Scrivi anche: mai il **caffè** con il **latte** dopo il **pranzo**.» «Perché?» «Perché sì.»
 
-*Matteo:* Vedi la **foto**? È Gino. Quarant'anni in questo **bar**.
+Chiara si alza e porta i piatti in cucina. Emma aiuta con i **bicchieri**. Leo resta al **tavolo** con il cucchiaio. Ben guarda il **quaderno** e sorride. «Trenta **parole**. Oggi trenta.» «Trenta **parole** in un **pranzo**?» «Il **pranzo** è la migliore scuola d'italiano.» Franco beve il **caffè** e guarda Ben. «L'**americano** mangia bene. Mah.» _E l'americano scrive anche bene. Speriamo._
 
-*Ben:* Quarant'anni? In un **bar**?
+## 5. Casa di Franco, Via dei Tigli 9 · domenica, dopo pranzo
 
-*Matteo:* In un **bar** piccolo, ma **buono**.
+Il **pranzo** finisce e la cucina di Franco è piena di piatti. Chiara porta Emma in salotto per parlare. Leo guarda la televisione con il telecomando.
 
-Ben guarda la **foto**. Gino guarda Ben.
+Ben resta al **tavolo** con Franco. Prende i piatti uno alla volta e li mette vicino al lavandino. «Posso aiutare?» «Puoi.» «Dove?» «Lì. I **bicchieri** sul **tavolo**.»
 
-*Ben:* Gino. Un **bar** per quarant'anni. Quaranta **caffè** al giorno?
+Ben prende i **bicchieri** con due mani. Un **bicchiere** cade e non si rompe. «Scusa!» «Niente. È di vetro buono.» «Il **bicchiere** è forte. Come Lei, signor Franco.» Franco non risponde e asciuga il **tavolo**.
 
-*Matteo:* Cento! Ma il **caffè** è sempre piccolo.
+Ben prende il **quaderno** dalla sedia. «Lei cucina bene. Molto bene.» «Cucino. Non è la stessa cosa.» «No?» «No. Mia moglie cucinava. Io solo cucino.» Ben guarda la **foto** sul mobile. «La **foto** è bella. Anna è bella.» «Sì. Anna è sempre bella.»
 
-Al **bar** entrano altre due persone.
+Ben apre il **quaderno** e cerca una pagina. «Posso scrivere una **parola** nuova?» «Quale?» «Cucinare. Ma anche: mangiare, parlare, capire.» «Tre verbi. Una sera.» «La sera imparo. La notte sogno italiano.» «Sogni in italiano?» «Sì. Ma le **parole** sono strane.» «Mah.»
 
-*Ben:* Buongiorno, Alberto! Buongiorno, Pietro!
+Franco prende una bottiglia e due **bicchieri**. «**Vorrei** un **bicchiere** d'**acqua**, **per favore**.» «**Acqua**? Dopo il **dolce**, il **caffè**. Non l'**acqua**.» «Ma io **vorrei** l'**acqua**. Solo **acqua**.» Franco sospira e apre il rubinetto. Il **bicchiere** si riempie d'**acqua** fresca. «Ecco. **Acqua**.» «**Grazie**!» «**Grazie** a te. Per i **bicchieri**.»
 
-Alberto e Pietro guardano Matteo. Matteo alza le spalle.
+Ben beve e mette il **bicchiere** sul **tavolo**. «Ho un **problema** con la lingua italiana.» «Un **problema**?» «Sì. Una **parola** è facile, ma le **parole** insieme sono difficili.» «Le **parole** insieme sono la lingua.» «Esatto. Il **problema** è questo.»
 
-*Matteo:* È americano.
+Franco si siede vicino a lui per la prima volta. «Ascolta. La **pasta** è buona?» «La **pasta** è la cosa migliore che mangio in Italia.» «No. La **pasta** di mia moglie è meglio.» «Anna?» «Anna. La **pasta** di Anna è **caffè** e **dolce** insieme.» «Come?» «Non so. Ma è così.» «Allora la **pasta** di Anna è nella **foto**.» Franco guarda la **foto** e non parla per dieci secondi. «Sì. La **pasta** di Anna è nella **foto**.»
 
-Alberto e Pietro ridono. Ben non capisce.
+Ben tocca il **quaderno** con due dita. «Scrivo: Anna, la **pasta** migliore.» «Scrivi bene. Anche la calligrafia.» «Grazie. In America lavoro con le **parole**. Le **parole** sono il mio lavoro.» «L'**americano** con le **parole**. Mah.»
 
-*Ben:* Perché ridono?
+Ben sorride, ma questa volta Franco ha un piccolo sorriso anche lui. «Lei scrive?"» «Io guido. Guidavo.» «Il tram! Chiara dice: trentacinque anni.» «Trentacinque anni. Milano, Duomo, Porta Genova, sempre.» «E ora?» «Ora l'orto. I pomodori. La **foto** di Anna.»
 
-*Matteo:* Perché qui al **bar** tutti dicono buongiorno. Tu sei il primo americano.
+Leo entra in cucina correndo. «Nonno, c'è il cartone animato!» Franco cambia subito la voce e parla piano. «Va bene, Leo. Vieni qui. Guarda con me.» «Nonno, perché i cartoni sono corti?» «Perché... perché sì, Leo.» Leo ride e tira la mano di Franco verso il salotto.
 
-*Ben:* Il primo americano di Borgoverde!
+Ben prende il **quaderno** e scrive veloce. «Con Leo parli piano e semplice.» «Con Leo? Sì. Parlo piano con i bambini.» «Allora con me è il contrario.» «Con te, l'**americano**, parlo normale. Sei un adulto.» Ben scrive anche questa frase sul **quaderno**. «Normale. Con l'**americano**. Nuova **parola** chiave.» «Mah.» _Un **bicchiere** d'acqua. Una **parola** nuova. Un sorriso piccolo._
 
-Nadia prende un panno e pulisce il **tavolo** vicino.
+Franco è alla porta del salotto, con Leo. Si gira un secondo verso Ben. «L'**americano** mangia bene. E scrive bene.» «Grazie, signor Franco.» «E adesso guarda il cartone. Ti spiego le **parole** italiane.» Poi Franco prende la mano di Leo e si siede. Ben resta al **tavolo** con il **quaderno** aperto. «Anche il cartone è una lezione.» E accende il telefonino per registrare le **parole** nuove.
 
-*Nadia:* Il primo di molti.
+## 6. Bar Tigli · lunedì pomeriggio
 
-Ben guarda il **tavolo**. È libero e vicino alla finestra.
+Lunedì pomeriggio, le quattro. Nel **bar** Tigli c'è poca gente e molta luce.
 
-*Ben:* Posso?
+Ben entra e va diretto al **banco**. «Buongiorno! **Vorrei** un **cappuccino**, **per favore**.» Matteo guarda l'orologio e poi guarda Nadia. «Le quattro, Ben. Il **cappuccino** è alle otto.» «Da me è sempre mattina.» «Mah.» Nadia ride dietro al **banco**.
 
-*Matteo:* Per il **tavolo**? Per il **tavolo** sì.
+Ben prende la **tazza** e va verso un **tavolo**. «Il **tavolo** con il sole!» «Ben, il **conto** prima.» «Ah! Giusto. Il **conto**.» Ben apre il **quaderno** e cerca la pagina giusta. «Il **conto**, **per favore**. Questa è la **parola** giusta?» «La **parola** più utile d'Italia.» «Anche più di "**grazie**"?» «Quasi.» «Il **conto**, **per favore**. Due euro e cinquanta.» «Perfetto. **Grazie**.»
 
-Ben va al **tavolo** con il **quaderno** e il **caffè**. Apre il **quaderno** un'altra volta.
+Nadia serve un **bicchiere** d'**acqua** a un cliente. Poi guarda Ben e sorride. «Ben, ormai sei un appuntamento fisso.» «Come il **caffè** alle otto.» «Come il **cappuccino** alle quattro.» «E il **cornetto**? E la **brioche**?» «Il **cornetto** è **domenica**. La **brioche** è sempre.» «E il **dolce**?» «Il **dolce** è dopo il **caffè**. Non alle quattro.»
 
-*Ben:* **Tazza**, **bicchiere**, **tavolo**, **conto**...
-
-*Matteo:* **Conto**? Il **conto** è dopo.
-
-*Ben:* Il **conto** è... dopo?
-
-*Matteo:* Sì. Prima bevi, poi paghi.
-
-*Ben:* Ah! Prima il **caffè**, poi il **conto**.
-
-Ben guarda il **bicchiere** e la **tazza**.
-
-*Ben:* Il **bicchiere** è per l'**acqua**. La **tazza** è per il **caffè**.
-
-*Matteo:* Bravo! In italiano: la **tazza**, il **bicchiere**, il **tavolo**.
-
-*Ben:* La **tazza**, il **bicchiere**, il **tavolo**.
-
-Nadia prende le **tazze** vuote.
-
-*Nadia:* Le **tazze** sono **nuove**. Ma il **problema** non è la **tazza**.
-
-*Ben:* No?
-
-*Nadia:* Il **problema** è il **conto**.
-
-*Ben:* Ah. Prima il **caffè**, poi il **conto**. **Parole**, **nuove**!
-
-Il **bar** è pieno adesso. Le **parole** sono tante.
-
-*Matteo:* Ha un **quaderno**!
-
-*Nadia:* Meglio un **quaderno** che un **problema**.
-
-Matteo ride. Nadia non ride.
-
-*Ben:* Scusi, Matteo. Un'altra domanda.
-
-*Matteo:* Dimmi.
-
-*Ben:* Il **cappuccino**... è **colazione**. Ma adesso è... le undici.
-
-*Matteo:* Sì. Undici. Va bene. Undici è ancora **colazione**.
-
-*Ben:* Undici... **colazione**.
-
-Nadia prende la **tazza** vuota.
-
-*Nadia:* Ancora **caffè**?
-
-*Ben:* No, **grazie**. Ma **vorrei**... un **cappuccino**. Domani.
-
-*Matteo:* A **colazione**?
-
-*Ben:* A **colazione**.
-
-*Matteo:* Allora sei un cliente **nuovo**... e un cliente **buono**!
-
-*Nadia:* Il **caffè** è sempre **buono**.
-
-Matteo mette un **cornetto** in un sacchetto.
-
-*Matteo:* Per domani. Offre il **bar**.
-
-*Ben:* **Grazie** mille!
-
-Ben prende il sacchetto e il **quaderno**. Esce dal **bar** e saluta tutti.
-
-*Ben:* Arrivederci, Alberto! Arrivederci, Pietro!
-
-Matteo guarda la porta. Nadia guarda la **foto** di Gino.
-
-*Matteo:* Ti piace?
-
-*Nadia:* Il **caffè** è sempre **buono**.
-
-Matteo non capisce. Nadia torna alle scale.
-
-## 2. Confessionale
-
-> *Ben:* Il mio **bar** è qui. Il **bar** Tigli. Il **caffè** qui è piccolo. Molto piccolo. Ma è forte e caldo. Adesso imparo le **parole** **nuove**. Questo è il mio **quaderno**.
-
-Ben apre il **quaderno**.
-
-> *Ben:* Nel **quaderno** ci sono dieci **parole**. **Caffè**. **Cappuccino**. **Cornetto**. **Brioche**. La **colazione** è la mattina. Il **cappuccino** è per la **colazione**. Solo **colazione**. E il **latte**? Il **latte** è **latte**. Solo **latte**. Il **caffè** con il **latte** è un **cappuccino**. Ma il **latte** è **latte**. Nel **quaderno** scrivo anche una frase. La frase è: **Vorrei** un **caffè**, **per favore**. **Vorrei** un **cornetto**, **per favore**. **Vorrei** una **brioche**, **per favore**. Dieci **parole**. Domani: venti.
-
-## 3. Bar Tigli · sabato pomeriggio, le quattro
-
-È sabato pomeriggio. Sono le quattro. Nel **bar** Tigli ci sono solo due clienti.
-
-*Ben:* Buongiorno!
-
-*Matteo:* Ben! Buongiorno!
-
-*Nadia:* È pomeriggio, Ben. Buon pomeriggio.
-
-*Ben:* Ah. Buon pomeriggio.
-
-Ben va al banco e apre il **quaderno**.
-
-*Ben:* Allora... **Vorrei** un **cappuccino**, **per favore**.
-
-Matteo non si muove. Nadia guarda Ben.
-
-*Matteo:* Un **cappuccino**?
-
-*Ben:* Sì. Un **cappuccino**.
-
-Matteo e Nadia si guardano.
-
-*Nadia:* Adesso? Alle quattro?
-
-*Ben:* Sì. Perché?
-
-*Matteo:* Il **cappuccino** è per la **colazione**.
-
-*Ben:* Ma... la **colazione** è la mattina.
-
-*Nadia:* Sì. Esatto.
-
-*Ben:* E adesso è... il pomeriggio.
-
-*Matteo:* Sì. Pomeriggio.
-
-Ben guarda il **quaderno**. Poi guarda Matteo.
-
-*Ben:* Ma nel **quaderno** c'è scritto: **cappuccino**, **colazione**.
-
-*Matteo:* Bravo! Nel **quaderno** è giusto.
-
-*Nadia:* Il **cappuccino** dopo **pranzo** è un **problema**.
-
-*Ben:* Un **problema**?
-
-*Nadia:* Un **problema**.
-
-Ben pensa un momento. Poi chiude il **quaderno**.
-
-*Ben:* Allora... **vorrei** un **latte**.
-
-Nadia apre il frigorifero.
-
-*Nadia:* Un **latte**. Subito.
-
-Nadia prende una bottiglia. Il **latte** è freddo. Mette un **bicchiere** sul banco.
-
-*Nadia:* Ecco. Un **bicchiere** di **latte**.
-
-*Ben:* **Latte**?
-
-*Nadia:* Sì. **Latte**. Freddo.
-
-Ben guarda il **bicchiere**. Il **bicchiere** è pieno di **latte** bianco.
-
-*Ben:* Ma io... **vorrei** un **caffè**! Con il **latte**!
-
-*Matteo:* Ah! Adesso capisco.
-
-*Ben:* In America il **latte** è **caffè** con **latte**.
-
-*Matteo:* Ben. In italiano il **latte** è **latte**.
-
-*Nadia:* Solo **latte**.
-
-*Matteo:* Il **caffè** con il **latte** è un **cappuccino**.
-
-*Ben:* Il **caffè** con il **latte**... è un **cappuccino**.
-
-*Matteo:* Sì. **Cappuccino**.
-
-Ben prende il **quaderno** e scrive.
-
-*Ben:* **Latte** uguale **latte**. **Caffè** con **latte** uguale **cappuccino**.
-
-*Matteo:* Perfetto! Due **parole** **nuove**!
-
-*Nadia:* Una **parola** è vecchia. **Latte** è **latte** anche in America.
-
-*Ben:* Sì. Ma in America è **caffè**.
-
-*Nadia:* Allora in America è un **problema** vostro.
-
-Ben beve il **latte** freddo.
-
-*Ben:* Il **latte** è **buono**. Ma **vorrei** anche un **caffè**.
-
-*Matteo:* Un **caffè**? Adesso?
-
-*Ben:* Sì. Un **caffè** piccolo. **Buono**.
-
-Matteo mette una **tazza** sul banco. La **tazza** è piccola e bianca.
-
-*Matteo:* Ecco il **caffè**.
-
-*Ben:* **Grazie**.
-
-*Matteo:* **Zucchero**?
-
-*Ben:* No, **grazie**. Il **caffè** è **buono** senza **zucchero**.
-
-*Matteo:* Bravo! Un **caffè** senza **zucchero**. Sei un cliente **nuovo** e un cliente serio.
-
-Nadia prende una **brioche** e un **cornetto**.
-
-*Nadia:* Anche un **cornetto**? O una **brioche**?
-
-*Ben:* No, **grazie**. Il **pranzo** è vicino.
-
-*Matteo:* Il **pranzo**? Adesso?
-
-*Ben:* Sì. Alle cinque.
-
-Matteo e Nadia si guardano un'altra volta.
-
-*Nadia:* Alle cinque è tardi per il **pranzo**.
-
-*Matteo:* Alle cinque è presto per la cena.
-
-*Ben:* In America il **pranzo** è alle dodici.
-
-*Matteo:* Mah! Borgoverde non è l'America.
-
-Ben prende la **tazza** e va verso la finestra.
-
-*Ben:* C'è un **tavolo** qui?
-
-*Matteo:* Sì. Un **tavolo** vicino alla finestra.
-
-Ben mette la **tazza** sul **tavolo**. Poi si siede. Matteo arriva subito al **tavolo**.
-
-*Matteo:* Ben. Il **conto**.
-
-*Ben:* Il **conto**?
-
-*Matteo:* Sì. Prima il **conto**, poi il **tavolo**.
-
-*Ben:* Prima il **conto**?
-
-*Nadia:* Qui si paga prima.
-
-*Ben:* Ah! Qui si paga prima.
-
-*Matteo:* Sì. Prima paghi, poi bevi.
-
-Ben prende il portafoglio.
-
-*Ben:* Quanto?
-
-*Matteo:* Un **caffè**, un **latte**... due euro e cinquanta.
-
-Ben paga e Matteo prende il **bicchiere** vuoto.
-
-*Ben:* Prima il **conto**, poi il **tavolo**.
-
-*Matteo:* Bravo! Adesso è nel **quaderno**.
-
-*Ben:* Sì. Nel **quaderno** ci sono dodici **parole** **nuove**.
-
-*Nadia:* Dodici **parole** e un **problema**: il **cappuccino** alle quattro.
-
-Ben torna al **tavolo** con il **quaderno**. Beve il **caffè** e guarda la strada.
-
-*Ben:* Posso avere un po' d'**acqua**, **per favore**?
-
-*Nadia:* Un **bicchiere** d'**acqua**. Subito.
-
-Nadia mette l'**acqua** sul **tavolo**.
-
-*Ben:* **Grazie**. L'**acqua** è **buona**, ma il **caffè** è meglio.
-
-*Nadia:* Il **caffè** è sempre **buono**.
-
-Ben finisce il **caffè**. Poi si alza.
-
-*Ben:* Arrivederci! A domani!
-
-*Matteo:* A domani, Ben!
-
-Ben esce dal **bar**. La porta si chiude.
-
-*Matteo:* Un **cappuccino** alle quattro!
-
-*Nadia:* Un **caffè** alle cinque è meglio.
-
-*Matteo:* Hai ragione. Ma è **nuovo** e **buono** come cliente.
-
-*Nadia:* Sì. E il **conto** lo paga.
-
-Matteo pulisce il **tavolo** e ride.
-
-## 4. Confessionale
-
-> *Leo:* Domenica c'è il **pranzo** da nonno Franco. Il **pranzo** italiano è lungo. Molto lungo. Il **pranzo** è alle dodici e mezza. Prima c'è il **primo**. Il **primo** è la **pasta**. La **pasta** è rossa. Con i pomodori.
-
-Leo conta sulle dita.
-
-> *Leo:* Poi c'è il **secondo**. Il **secondo** è la carne. O il pesce. Il **primo** non è il **secondo**. Sono due cose. Poi c'è il **dolce**. Il **dolce** è la torta. O il gelato. E c'è il **pane**. Il **pane** è **pane**. Solo **pane**. Non è **primo**, non è **secondo**. Io il **pane** lo mangio con tutto. Papà mangia la **pasta** e dice: "Il **primo** è il **secondo**!"
-
-Leo ride.
-
-> *Leo:* Ma il **primo** è il **primo**! La nonna lo sa. Il nonno lo sa. Il **pranzo** è lungo e **buono**.
-
-## 5. Casa di Franco, Via dei Tigli 9 · domenica, ora di pranzo
-
-È domenica. Sono le dodici e mezza. Casa di Franco è in Via dei Tigli 9. La porta è aperta. C'è profumo di **pasta** e di **pane**.
-
-*Franco:* Leo! Emma! Venite, venite!
-
-*Leo:* Ciao, nonno!
-
-*Emma:* Ciao, nonno.
-
-*Chiara:* Ciao, papà.
-
-*Ben:* Buongiorno, Franco!
-
-Franco guarda Ben. Poi guarda Chiara. Franco non dice niente. Franco abbraccia Leo e poi Emma.
-
-*Franco:* Chiara.
-
-*Chiara:* Papà.
-
-*Franco:* Entrate. Il **pranzo** è pronto.
-
-*Leo:* Che cosa c'è?
-
-*Franco:* C'è il **primo**. Poi il **secondo**.
-
-*Leo:* E il **dolce**?
-
-*Franco:* Anche il **dolce**. Sempre.
-
-Franco entra in casa. Ben è ancora fuori, sulla porta.
-
-*Ben:* Franco? Sono qui!
-
-*Chiara:* Papà, Ben è dietro di te.
-
-*Franco:* Mah.
-
-Chiara prende Ben per un braccio. Insieme entrano.
-
-*Franco:* A **tavolo**! Sedetevi.
-
-Il **tavolo** è grande. È un **tavolo** per sei persone. Sopra il **tavolo** ci sono piatti, **bicchieri** e **pane**.
-
-*Leo:* Nonno, perché ci sono tanti **bicchieri**?
-
-*Franco:* Un **bicchiere** per l'**acqua**. Un **bicchiere** per il vino.
-
-*Leo:* E un **bicchiere** per il **caffè**?
-
-*Franco:* No. Il **caffè** ha la sua tazzina.
-
-*Ben:* La tazzina. Piccola.
-
-*Franco:* Sì. Piccola.
-
-Ben prende un **bicchiere** e beve un po' d'**acqua**.
-
-*Ben:* L'**acqua** è **buona**. **Grazie**.
-
-Franco non risponde. Mette il **pane** al centro.
-
-*Franco:* Il **pane** è fresco.
-
-*Leo:* Il **pane** è **buono**!
-
-Franco porta l'antipasto. Prosciutto e melone.
-
-*Emma:* Grazie, nonno.
-
-Tutti mangiano l'antipasto. Ben mangia in fretta.
-
-*Ben:* Buono! Molto **buono**!
-
-*Franco:* Aspetta. Adesso arriva il **primo**.
-
-Franco porta un piatto grande di **pasta**. La **pasta** è rossa. Profuma di pomodoro.
-
-*Franco:* Ecco la **pasta**. È il **primo**.
-
-*Ben:* Il **primo**?
-
-*Franco:* Sì. Il **primo**.
-
-Ben guarda il piatto di **pasta**. È molto pieno.
-
-*Ben:* Wow! Questo è il **secondo**!
-
-Tutti si fermano. Il **tavolo** è silenzioso.
-
-*Emma:* Papà! No!
-
-*Chiara:* Ben, il **primo** è la **pasta**. Il **secondo** è la carne.
-
-*Ben:* Ah. Il **primo** è la **pasta**. E il **secondo** è la carne.
-
-*Chiara:* Sì. Esatto.
-
-*Franco:* Non capisce niente.
-
-*Ben:* Sì, capisco. Il **primo** è la **pasta**. Adesso capisco.
-
-Leo ride. Emma guarda il suo piatto.
-
-*Leo:* Papà, il **primo** non è il **secondo**!
-
-*Ben:* Lo so, Leo. Adesso lo so.
-
-Ben mangia la **pasta**. Mangia tutto.
-
-*Ben:* La **pasta** è **buona**. Molto **buona**.
-
-*Franco:* Mangia il **pane** con la **pasta**.
-
-*Ben:* Il **pane** con la **pasta**?
-
-*Franco:* Sì. Il **pane** è **pane**. Il **pane** va con tutto.
-
-Ben prende un pezzo di **pane**.
-
-*Ben:* **Pane** e **pasta**. In America no.
-
-*Franco:* In America no. Qui sì.
-
-Franco si alza e va in cucina. Torna con un piatto grande: arrosto e patate.
-
-*Franco:* Ecco il **secondo**.
-
-*Ben:* Un altro piatto?
-
-*Chiara:* Sì, Ben. Il **pranzo** italiano ha il **primo** e il **secondo**.
-
-*Ben:* Ma io mangio la **pasta**...
-
-*Chiara:* Quella è il **primo**, Ben.
-
-*Ben:* Ah. Allora è un **problema**.
-
-*Chiara:* Perché?
-
-*Ben:* Perché io sono già pieno.
-
-*Emma:* Papà, dai.
-
-*Franco:* Mangia. Il **secondo** è **buono**.
-
-Ben prende un po' di carne. Poca carne.
-
-*Ben:* Un po'. Solo un po'. **Grazie**.
-
-*Franco:* Poco?
-
-*Ben:* Sì. Un **problema** piccolo.
-
-Franco mette altra carne nel piatto di Ben.
-
-*Franco:* Qui non c'è il **problema** del poco.
-
-*Ben:* Ah. Perfetto.
-
-Leo mangia tutto. Leo ha fame.
-
-*Leo:* Nonno, il **secondo** è **buono**.
-
-*Franco:* Bravo, Leo. Mangia.
-
-Sulla parete, sopra il **tavolo**, c'è una **foto**. Nella **foto** c'è una donna con un sorriso grande.
-
-*Leo:* Nonno, chi è nella **foto**?
-
-Franco guarda la **foto**. Poi guarda il **tavolo**.
-
-*Franco:* È la nonna Anna.
-
-Nessuno parla. Il **tavolo** è silenzioso.
-
-*Chiara:* Mamma.
-
-*Franco:* Sì. La **foto** è vecchia. Ma lei è qui.
-
-Ben guarda la **foto** un momento.
-
-*Ben:* Anna. La **foto** è **bella**.
-
-Franco alza gli occhi. Guarda Ben. Non parla.
-
-*Franco:* Lei mangiava sempre il **pane** con la **pasta**.
-
-*Ben:* Come me?
-
-*Franco:* Mah.
-
-Leo prende un pezzo di **pane**. Lo mette nella **pasta**.
-
-*Leo:* Come la nonna!
-
-Franco ride un po'. Poi si alza.
-
-*Franco:* Adesso il **dolce**.
-
-*Ben:* Un altro piatto?
-
-*Franco:* Sì. Tiramisù.
-
-Franco porta il tiramisù. È grande.
-
-*Ben:* È un **problema** grande.
-
-*Chiara:* Solo un po', Ben.
-
-Emma guarda Ben. Emma ride.
-
-*Emma:* Papà, solo un po'.
-
-*Ben:* Solo un po'.
-
-Franco mette il tiramisù nei piatti. Tutti i piatti sono pieni.
-
-*Franco:* Il **dolce** è sempre **buono**.
-
-*Leo:* Sì! Il **dolce** è **buono**!
-
-Ben mangia il **dolce**. Poi mette il cucchiaio sul **tavolo**.
-
-*Ben:* **Buono**. Molto **buono**. Ma io sono pieno.
-
-*Emma:* Anche io.
-
-*Chiara:* Anche io, papà.
-
-*Franco:* Mah. I giovani mangiano poco.
-
-Franco prende la caffettiera.
-
-*Franco:* E alla fine il **caffè**. Sempre.
-
-Il **caffè** arriva in tazzine piccole.
-
-*Ben:* Il **caffè**. Piccolo. Come al **bar**.
-
-*Franco:* Il **caffè** è **buono** così.
-
-Ben beve il **caffè**. Poi guarda Franco.
-
-*Ben:* Franco, il **pranzo** è lungo. Tre ore?
-
-*Franco:* Tre, quattro. Come **pranzo** di domenica.
-
-*Ben:* E adesso il **caffè**. Il **caffè** è **primo**, **secondo**, **dolce** e anche dopo!
-
-Leo ride forte. Emma mette la faccia nelle mani.
-
-*Chiara:* Ben.
-
-*Franco:* Mah.
-
-Franco beve il suo **caffè**. Guarda la **foto** di Anna.
-
-*Franco:* **Grazie** per il **pranzo**? No. Il **pranzo** è mio.
-
-*Ben:* **Grazie**, Franco. Il **pranzo** è **buono**.
-
-Franco non risponde. Ma non dice nemmeno "no".
-
-## 6. Confessionale
-
-> *Emma:* Mio papà è un uomo simpatico. Ma al **bar** è un disastro. Chiede un **cappuccino** alle quattro. Alle quattro! Il **cappuccino** è per la **colazione**! Poi chiede un **latte**, e arriva il **latte**.
-
-Emma guarda la telecamera. Non ride.
-
-> *Emma:* Un **bicchiere** di **latte**. Freddo. "Ma io vorrei un **caffè**!" dice. Il **caffè** con il **latte** è un **cappuccino**, papà! E poi il **pranzo** da nonno Franco. Il **pranzo** è lungo. Tre ore. Quattro. Il **primo** è la **pasta**. Tutti lo sanno. Papà mangia la **pasta** e dice: "Questo è il **secondo**!" No, papà. Il **secondo** è la carne. Poi arriva la carne, e lui è già pieno. Poi il **dolce**. E poi il **caffè**. Tutto **buono**. Tutto bellissimo. Ma io non parlo. Io mangio e sto zitta. **Buono**, sì. Ma che vergogna.
-
-> *Emma:* Io non parlo.
-
-## 7. Casa di Franco, Via dei Tigli 9 · domenica, dopo pranzo
-
-Il **pranzo** è finito. Sono le tre e mezza. Sul **tavolo** ci sono piatti, **bicchieri** e briciole di **pane**. Il **dolce** è finito. Resta solo un po' di crema nei piatti.
-
-*Ben:* Allora. Io prendo i piatti.
-
-*Chiara:* Ben, no. Sei un ospite.
-
-*Ben:* Sono anche il genero.
-
-*Chiara:* Mah.
-
-Ben si alza e prende quattro piatti. Poi prende quattro **bicchieri**. I **bicchieri** sono vuoti. Il **bicchiere** di vino è ancora pieno. Franco è in piedi vicino alla cucina.
-
-*Franco:* No.
-
-*Ben:* Come, no?
-
-Franco prende i piatti dalle mani di Ben.
-
-*Franco:* No.
-
-*Ben:* Franco, io **vorrei** aiutare.
-
-*Franco:* No.
-
-Franco prende anche i **bicchieri**. Uno per uno.
-
-*Franco:* No.
-
-*Ben:* Perché no?
-
-Franco non risponde. Va in cucina. Ben guarda Chiara. Chiara alza le spalle.
-
-*Chiara:* Papà, lascia fare a Ben.
-
-*Franco:* No.
-
-*Chiara:* È il mio **pranzo**, papà.
-
-*Franco:* Il **pranzo** è mio. La casa è mia.
-
-Silenzio in cucina. Silenzio al **tavolo**.
-
-*Leo:* Nonno è arrabbiato?
-
-*Chiara:* No, Leo. Nonno è nonno.
-
-Leo prende un pezzo di **pane**. Lo mette nella tasca.
-
-*Chiara:* Leo, il **pane** no.
-
-*Leo:* È **buono**.
-
-Franco torna dal **tavolo**. Ha un panno in mano.
-
-*Franco:* Il **tavolo**. Adesso.
-
-*Ben:* Il **tavolo**?
-
-*Franco:* Sì. Il **tavolo** è pieno di briciole.
-
-*Ben:* Ah. Un altro **problema**!
-
-Ben prende il panno. Pulisce il **tavolo**. Franco guarda Ben. Guarda le mani di Ben.
-
-*Franco:* Bene.
-
-*Ben:* Bene?
-
-*Franco:* Il **tavolo** è pulito. Bene.
-
-Ben sorride. È la prima parola gentile di Franco.
-
-*Chiara:* Papà, il caffè?
-
-*Franco:* Sì. Il **caffè**. Adesso.
-
-Franco prende la caffettiera. La mette sul fuoco. Sopra il **tavolo** c'è la **foto** di Anna. Ben guarda la **foto**. Poi guarda Franco.
-
-*Ben:* Franco, scusa.
-
-*Franco:* Perché?
-
-*Ben:* Il **secondo**. Non capisco il **secondo**.
-
-*Franco:* Mah.
-
-*Ben:* In America **primo** e **secondo** insieme. Un piatto solo.
-
-*Franco:* Un piatto solo?
-
-*Ben:* Sì. Un piatto grande. **Secondo** e **primo**, tutto insieme.
-
-Franco non dice niente. Ma ascolta.
-
-*Franco:* Parla molto, il tuo americano.
-
-*Chiara:* Parla. È un problema?
-
-*Franco:* Mah. L'americano non capisce.
-
-Ben sente tutto. Chiara guarda Ben. Ben fa un piccolo sorriso.
-
-*Ben:* Chiara, va bene.
-
-*Chiara:* Papà.
-
-*Franco:* L'**americano**.
-
-Chiara si ferma. Leo guarda tutti.
-
-*Leo:* Papà, tu sei l'**americano**!
-
-Leo ride forte. Anche Chiara ride un po'.
-
-*Ben:* Sì. Io sono l'**americano**.
-
-*Franco:* Mah!
-
-Franco mette il **caffè** nelle **tazze**. Le **tazze** sono piccole. Il **caffè** profuma.
-
-*Franco:* Ecco il **caffè**.
-
-Franco mette una **tazza** davanti a Chiara.
-
-*Franco:* Il **caffè** è **buono**.
-
-*Chiara:* Sì, papà. Il **caffè** è **buono**.
-
-Franco mette una **tazza** davanti a Ben.
-
-*Ben:* **Grazie**.
-
-*Franco:* Mah.
-
-*Leo:* Nonno, io **vorrei** un **caffè**!
-
-*Franco:* No, Leo. Tu sei piccolo.
-
-*Leo:* Perché?
-
-*Franco:* Perché il **caffè** è **buono** per me. Per te no.
-
-*Leo:* Allora **vorrei** un **latte**, **per favore**.
-
-*Chiara:* Leo, dopo **pranzo** no.
-
-*Leo:* Ma il nonno beve il **caffè** dopo **pranzo**.
-
-*Franco:* Leo ha ragione.
-
-Franco prende un **bicchiere** e ci mette un po' di **latte**.
-
-*Franco:* Ecco. Latte.
-
-*Leo:* **Grazie**, nonno!
-
-Ben beve il **caffè**. È forte.
-
-*Ben:* Il **caffè** è **buono**. Ma è forte.
-
-*Franco:* Capisce?
-
-*Chiara:* Papà, Ben capisce l'italiano. Un po'.
-
-*Franco:* Un po'.
-
-*Ben:* Franco, io capisco un po'. Ma imparo.
-
-Franco guarda Ben. Poi guarda il **tavolo**.
-
-*Franco:* Il **caffè** è **buono**. L'americano... capisce. Un po'.
-
-*Ben:* Sì. Un po'.
-
-Chiara sorride. Leo beve il latte. Franco prende il **pane** dal **tavolo**. Il **pane** è ancora fresco. Franco prende un sacchetto e mette dentro due pezzi di **pane**.
-
-*Franco:* Ben.
-
-*Ben:* Sì?
-
-Franco mette il sacchetto in mano a Ben.
-
-*Franco:* Il **pane** è **pane**.
-
-*Ben:* Il **pane** è **pane**. **Grazie**, Franco.
-
-Franco annuisce. Solo una volta.
-
-*Franco:* Il **pane** a casa è **buono**. Con la **pasta**. Con tutto.
-
-*Ben:* Con la **pasta**. Adesso lo so.
-
-Leo guarda il sacchetto. Leo guarda il suo pezzo di **pane**.
-
-*Leo:* Nonno, anche a me?
-
-*Franco:* Anche a te.
-
-Franco prende il **pane** dal **tavolo** un'altra volta. Mette un pezzo nel sacchetto di Leo.
-
-*Leo:* **Grazie**, nonno!
-
-Chiara prende le **tazze** e le porta in cucina.
-
-*Franco:* No!
-
-*Chiara:* Papà, sono a casa.
-
-*Franco:* Mah.
-
-Al **tavolo** restano Ben, Franco e Leo. Sopra il **tavolo** la **foto** di Anna sorride.
-
-*Ben:* Franco, il **pranzo** è **buono**. Molto **buono**. **Grazie**.
-
-*Franco:* Sì.
-
-Franco beve il suo **caffè**. Poi guarda la **foto**.
-
-*Franco:* Lei fa il **pane** così. Anna.
-
-*Ben:* Anna.
-
-Leo mette la testa sulla spalla di Franco.
-
-*Leo:* Nonno, io **vorrei** un altro pezzo di **pane**.
-
-*Franco:* No. Anche il **pane** ha un limite.
-
-Leo ride. Franco quasi ride. Ben sorride.
-
-*Franco:* Ancora un po' di **caffè**?
-
-*Ben:* Sì. Ma solo un po'.
-
-*Franco:* Un po'. Mah.
-
-Franco prende la caffettiera. La **tazza** di Ben aspetta.
-
-*Chiara:* Papà, il **dolce** avanza.
-
-*Franco:* Per stasera.
-
-*Ben:* Il **problema** qui non è il cibo.
-
-*Chiara:* No. Il **problema** è papà.
-
-*Ben:* Sì. Ma il **pane** è buono.
-
-*Franco:* Ancora qui? Il **pranzo** è finito.
-
-Ben prende il sacchetto con il **pane**.
-
-*Ben:* Sì. Il **pranzo** è finito. **Grazie**.
-
-Franco annuisce. Non dice "Ben". Dice solo un'altra volta **grazie**.
-
-*Franco:* **Grazie**.
-
-Chiara guarda Ben. Ben guarda il sacchetto di **pane**.
-
-## 8. Bar Tigli · lunedì mattina
-
-È lunedì mattina. Il **bar** Tigli è tranquillo. Matteo pulisce il banco. Nadia sistema le sedie.
-
-*Ben:* Buongiorno!
-
-*Matteo:* Ben! Buongiorno!
-
-Ben mette il **quaderno** sul banco.
-
-*Ben:* Un **caffè**, per favore.
-
-*Nadia:* Un **caffè**? Non un **cappuccino**?
-
-*Ben:* No, **grazie**. Il **cappuccino** è per la **colazione**.
-
-*Matteo:* Bravo! Adesso capisci!
-
-Nadia mette una tazza piccola sul banco. Il **caffè** è caldo e **buono**.
-
-*Ben:* **Grazie**. E niente **zucchero**.
-
-*Matteo:* Niente **zucchero**. Bravo!
-
-Ben apre il **quaderno**. Legge le **parole**.
-
-*Ben:* **Primo**. **Secondo**. **Dolce**. Pane.
-
-*Nadia:* Quattro **parole** **nuove**?
-
-*Ben:* Sì. Da domenica. Il **pranzo** di Franco.
-
-*Matteo:* Ah! Il **pranzo** di domenica! E il **primo**? **Buono**?
-
-*Ben:* Molto **buono**. Ma anche il **secondo**. Tutto **buono**.
-
-Matteo ride. Nadia prepara un altro **caffè**.
-
-*Matteo:* E il **conto**?
-
-*Ben:* Quale **conto**?
-
-*Matteo:* Il **conto** di domenica. Da Franco.
-
-*Ben:* Ah! Da Franco non c'è **conto**.
-
-*Nadia:* Magari!
-
-Ben beve il **caffè**. Poi prende il portafoglio.
-
-*Ben:* Qui invece pago prima. Regola **nuova**.
-
-Matteo guarda Nadia. Nadia guarda Matteo.
-
-*Matteo:* Regola **nuova**?
-
-*Ben:* Sì. Prima il **conto**, poi il tavolo.
-
-*Nadia:* Regola **buona**.
-
-Ben paga. Matteo prende le monete. Poi Nadia guarda il **quaderno** di Ben.
-
-*Nadia:* C'è anche la **parola** "americano"?
-
-*Ben:* No, **grazie**. Quella **parola** è di Franco.
-
-*Matteo:* Eh! Franco!
-
-*Ben:* Sì. L'**americano**. Solo Franco lo dice così.
-
-*Nadia:* Anche noi. Ma con affetto.
-
-*Ben:* Allora va bene.
-
-Ben prende la penna. Scrive un'ultima **parola**.
-
-*Ben:* Ultima **parola** del giorno.
-
-*Matteo:* Quale?
-
-*Ben:* **Grazie**.
-
-Matteo e Nadia si guardano. Sorridono.
-
-*Matteo:* **Grazie** è una **parola** **buona**.
-
-*Ben:* Sì. La più **buona**.
-
-Ben chiude il **quaderno** e beve l'ultimo **caffè**.
-
-*Ben:* A domani!
-
-*Matteo:* A domani, Ben!
-
-La porta si chiude. Il **bar** è di nuovo tranquillo.
-
-*Nadia:* Il **caffè** è **buono**. E il cliente è **nuovo**... ma bravo.
+Ben paga, prende la **tazza** e beve in piedi al **banco**. «Il **bar** è meglio del **tavolo**.» «Certo. Al **banco** si parla.» «Il **latte** nel **bicchiere** e il **caffè** nella **tazza**. Tutto scritto.» «E domani?» «Domani il **cappuccino** alle quattro, **per favore**.» «Alle quattro. Sempre.» Nadia alza gli occhi al cielo e ride.

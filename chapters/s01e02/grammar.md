@@ -2,124 +2,119 @@
 
 ## What it is
 
-In Italian, every noun is either **masculine** or **feminine**. There is no neutral. This isn't about whether a thing is "manly" or "womanly" — it's just a category the word belongs to, like a grammatical label. *Il caffè* ("coffee") is masculine; *la tazza* ("cup") is feminine.
-
-Two things follow from this. First, the article in front of the noun changes (*il* / *la*, *un* / *una*). Second, when you make the noun plural, the ending changes in a way that depends on the gender.
-
-The good news: most of the time you can guess the gender from the ending of the word. The ending also tells you how the plural works.
+In Italian, every noun is either **masculine** or **feminine**. There is no neuter, and there is no
+"it": a table is *il tavolo*, a cup is *la tazza*. Gender is part of the word, like its spelling, and
+it decides which article and which adjective go with it. The good news: most nouns show their gender
+and their plural in their ending, so learning the ending teaches you a lot at once.
 
 ## How it works
 
-### Singular endings and their plurals
+### The two big regular groups
 
-| Singular | Plural | Usually | Example |
+| Singular | Plural | Gender | Example |
 |---|---|---|---|
-| **-o** | **-i** | masculine | il cornetto → i cornetti |
-| **-a** | **-e** | feminine | la brioche → le brioche |
-| **-e** | **-i** | masculine *or* feminine | il bicchiere → i bicchieri |
+| **-o** | **-i** | masculine | il cappuccino → i cappuccini |
+| **-a** | **-e** | feminine | la tazza → le tazze |
+| **-e** | **-i** | masculine *or* feminine | il bicchiere → i bicchieri; la brioche → le brioche |
 
-So:
+Nouns in **-e** are the tricky ones: the plural is always **-i**, but the gender only shows in the
+article — *il bicchiere* but *la brioche*, *il caffè* but *la tazza*.
 
-- *-o* → *-i*: *il quaderno* → *i quaderni*, *il tavolo* → *i tavoli*, *il primo* → *i primi*, *il secondo* → *i secondi*, *nuovo* → *nuovi*, *buono* → *buoni*
-- *-a* → *-e*: *la parola* → *le parole*, *la tazza* → *le tazze*, *l'acqua* → *le acque*, *la foto* → *le foto*… careful, see below, *nuova* → *nuove*, *buona* → *buone*
-- *-e* → *-i*: *il bicchiere* → *i bicchieri*, *la colazione* → *le colazioni*, *il pane* → *i pani* (rare), *il dolce* → *i dolci*
+### Nouns that don't change in the plural
 
-### The main exception: nouns in -e
+Some very common nouns look the same in the singular and the plural. Learn them one by one:
 
-Nouns ending in **-e** can be masculine or feminine, and you can't tell from the ending. You have to learn the article with the word:
+- **il caffè → i caffè** (accented final vowel: never changes)
+- **il bar → i bar**
+- **la foto → le foto** (short for *fotografia*)
+- **la brioche → le brioche**
 
-- masculine: *il caffè*, *il latte*, *il bicchiere*, *il pane*, *il dolce*, *il pranzo*
-- feminine: *la colazione*, *la brioche*, *la pasta*, *la parola*
+### Common exceptions
 
-But the plural is the same for both: **-i**. *Il bicchiere* → *i bicchieri*; *la colazione* → *le colazioni*.
+- **il problema → i problemi**: masculine, even though it ends in **-a**. Others: *il programma*,
+  *il sistema*.
+- **la mano → le mani**: feminine, even though it ends in **-o**.
+- Names of people follow the person: **l'americano → gli americani**, *la signora → le signore*.
 
-### Words that don't change, and other oddities
+### vorrei: a fixed phrase
 
-Some very common words keep the same form in the plural, and only the article tells you:
+*Vorrei* ("I would like") is the polite way to order or ask. In this course we learn it as a **fixed
+block**, not as a verb to change:
 
-- *il caffè* → *i caffè* (accented words often stay put)
-- *la foto* → *le foto* (shortened from *la fotografia*)
-- *la brioche* → *le brioche* (borrowed words often stay put)
+> **Vorrei** un caffè, per favore.
 
-And a few words ending in **-a** are masculine, usually because they came from Greek:
-
-- *il problema* → *i problemi*
-- *il programma* → *i programmi*
-
-So the rule "*-a* means feminine" is a strong tendency, not a law.
-
-### A fixed phrase: *vorrei*
-
-*Vorrei* literally means "I would want", but in everyday Italian it is the polite way to say "I'd like". Treat it as one block of sound you memorise, like *per favore* and *grazie*:
-
-> **Vorrei** un caffè, per favore. — I'd like a coffee, please.
-
-You don't need to build it from a verb yet. Just use it whole.
+You use it whole — no *vorresti*, no *vorremmo* — and it goes with *per favore* like bread with
+butter.
 
 ## From the story
 
-“Il **quaderno** è **nuovo**. Ben scrive una **parola**.” — The **notebook** is **new**. Ben writes a **word**. (`s01e02-1-024`)
-*Quaderno* ends in -o, so it's masculine and takes *il*. *Nuovo* agrees with it.
+«Il **caffè**, i **caffè**. Bravo, signor Carter.» — “The **caffè**, the **caffè**. Well done, Signor Carter.” (`s01e02-3-019`)
+*il caffè*: masculine with an accented ending, so the plural stays *i caffè*.
 
-“La **tazza** è bianca e molto piccola.” — The **cup** is white and very small. (`s01e02-1-012`)
-*Tazza* ends in -a: feminine, so *la*. The adjective ends in -a too.
+«La **foto**. Al plurale: le **foto**.» — “The **foto**. In the plural: the **foto**.” (`s01e02-3-023`)
+*la foto* is feminine and invariable: not *le fote*.
 
-“Le **tazze** qui sono piccole. Le **brioche** sono dolci.” — The **cups** here are small. The **brioches** are sweet. (`s01e02-1-013`)
-Both nouns are feminine, so the plural article is *le*. *Tazze* changes -a → -e; *brioche* stays the same.
+«Le **parole** insieme sono la lingua.» — “The **words** together are the language.” (`s01e02-5-046`)
+*la parola* is a regular **-a** noun: *le parole*.
 
-“Nel **quaderno** ci sono dieci **parole**.” — In the **notebook** there are ten **words**. (`s01e02-2-008`)
-*Parole* is the plural of *la parola*: -a → -e.
+«**Vorrei** un **cappuccino**, **per favore**.» — “I'd like a **cappuccino**, **please**.” (`s01e02-2-015`)
+*vorrei … per favore*: the fixed polite phrase for ordering.
 
-“Il **caffè** con il **latte** è un **cappuccino**.” — **Coffee** with **milk** is a **cappuccino**. (`s01e02-2-014`)
-Two masculine nouns in -e, *caffè* and *latte*, both take *il*.
+«**Vorrei** un **bicchiere** d'**acqua**, **per favore**.» — “I'd like a **glass** of **water**, **please**.” (`s01e02-4-101`)
+*il bicchiere* ends in **-e**, so the plural is *i bicchieri*.
 
-“Ah. Il **primo** è la **pasta**. E il **secondo** è la carne.” — Ah. The **first course** is **pasta**. And the **second course** is meat. (`s01e02-5-054`)
-*Primo* and *secondo* are masculine nouns in -o; *pasta* and *carne* are feminine.
+«Esatto. Il **problema** è questo.» — “Exactly. The **problem** is that.” (`s01e02-5-047`)
+*il problema* is masculine although it ends in **-a**; plural *i problemi*.
 
-“Ben. In italiano il **latte** è **latte**.” — Ben. In Italian **milk** is **milk**. (`s01e02-3-039`)
-*Latte* ends in -e but is masculine — you learn it with *il*.
+«Il **latte** nel **bicchiere** e il **caffè** nella **tazza**. Tutto scritto.» — “**Milk** in the **glass** and **coffee** in the **cup**. All written down.” (`s01e02-6-033`)
+Compare gender: *il latte*, *il bicchiere* (masculine), *la tazza* (feminine).
 
-“Il **problema** è il **conto**.” — The **problem** is the **bill**. (`s01e02-1-096`)
-A classic trap: *problema* ends in -a but is masculine, so it's *il problema*, plural *i problemi*.
+«Il **cornetto** è **domenica**. La **brioche** è sempre.» — “A **cornetto** is Sunday. A **brioche** is always.” (`s01e02-6-027`)
+Two pastries, two genders and two different plural types.
 
-“Nella **foto** c'è una donna con un sorriso grande.” — In the **photo** there's a woman with a big smile. (`s01e02-5-092`)
-*Foto* is feminine despite the -o, and its plural is *le foto* — unchanged.
-
-“La frase è: **Vorrei** un **caffè**, **per favore**.” — The phrase is: I'd **like** a **coffee**, **please**. (`s01e02-2-017`)
-*Vorrei* as a fixed phrase for polite ordering.
+«Quella è una **brioche**. Per me è un **cornetto**.» — “That's a **brioche**. For me it's a **cornetto**.” (`s01e02-2-074`)
+Same object, one masculine noun and one feminine noun: *il cornetto*, *la brioche*.
 
 ## Common mistakes
 
-- **Assuming -a always means feminine.** *Il problema*, *il programma*, *il clima* are masculine.
-- **Assuming -o always means masculine.** *La foto*, *la moto*, *la mano* are feminine.
-- **Giving -e nouns the wrong plural.** It's *-i* for both genders: *i bicchieri*, *le colazioni*. Don't write *le colazione* or *i bicchiere*.
-- **Forgetting the article changes too.** It's not just the noun: *il* → *i*, *la* → *le*, *l'* → *gli*/*le*.
-- **Adding -s for the plural, English-style.** Italian never uses -s: not *tazzas*, but *tazze*.
-- **Changing words that don't change.** Say *i caffè*, *le foto*, *le brioche* — exactly as in the singular.
-- **Trying to conjugate *vorrei*.** At this level, keep it as a fixed polite phrase and don't worry about the verb behind it.
+1. **Making plurals with -s.** English says *two cappuccinos*; Italian says *due cappuccini*. The
+   plural is **-i** for -o nouns and **-e** for -a nouns, never -s.
+2. **Guessing gender from meaning or ending.** *Il problema* is masculine in **-a**; *la mano* is
+   feminine in **-o**. Learn the article together with the noun.
+3. **Changing invariable nouns.** *Il caffè* stays *il caffè*, *la foto* stays *la foto*, *la
+   brioche* stays *la brioche*.
+4. **Mixing up -e nouns.** Both *il bicchiere* and *la brioche* take **-i** in the plural, but they
+   need different articles: *i bicchieri*, *le brioche*.
+5. **Changing *vorrei*.** It is a fixed polite block: *vorrei un caffè*, not *vorrei* adapted to
+   other persons.
 
 ## Practice
 
-1. Make the plural: *il cornetto* → ?
-2. Make the plural: *la parola* → ?
-3. Make the plural: *il bicchiere* → ?
-4. Make the plural: *la colazione* → ?
-5. Make the plural: *il problema* → ?
-6. Make the plural: *la foto* → ?
-7. Is *latte* masculine or feminine? Which article?
-8. Is *pasta* masculine or feminine? Which article?
-9. Complete politely: "______ un caffè, per favore."
-10. Correct the error: *le tazza sono nuove*.
+Give the plural, with the article.
 
-### Answer key
+1. il cappuccino → ______
+2. la tazza → ______
+3. il bicchiere → ______
+4. il caffè → ______
+5. la foto → ______
+6. il problema → ______
+7. la parola → ______
+8. il cornetto → ______
 
-1. *i cornetti*
-2. *le parole*
-3. *i bicchieri*
-4. *le colazioni*
-5. *i problemi*
-6. *le foto* (unchanged)
-7. masculine: *il latte*
-8. feminine: *la pasta*
-9. *Vorrei*
-10. *le tazze sono nuove* — the noun must agree in number with the article and the adjective.
+Choose the correct article (*il* / *la*).
+
+9. ______ acqua
+10. ______ bar
+
+**Answer key**
+
+1. i cappuccini
+2. le tazze
+3. i bicchieri
+4. i caffè
+5. le foto
+6. i problemi
+7. le parole
+8. i cornetti
+9. l'acqua
+10. il bar
