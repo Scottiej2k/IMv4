@@ -8,54 +8,42 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **mi chiamo**<br>(expr.) · my name is<br>_Fixed phrase for introducing yourself._ | **Mi chiamo** Ben Carter. | **My name is** Ben Carter. |
-| **per favore**<br>(expr.) · please | Niente grazie? Niente **per favore**? Mah. | No thank you? No **please**? Hmm. |
-
-## Verbs
-
-| Parola | Italiano | English |
-|---|---|---|
-| **essere**<br>(v.) · to be<br>_The verb of identity and origin._ | Ma io **sono** simpatico! | But I **am** friendly! |
+| **mi chiamo**<br>(expr.) · my name is | Buongiorno! **Mi chiamo** Ben! | Good morning! **My name is** Ben! |
+| **piacere**<br>(expr.) · nice to meet you | Il **piacere** è mio. | The **pleasure** is mine. |
+| **per favore**<br>(expr.) · please | **Per favore**, dove parcheggio? | **Please**, where do I park? |
 
 ## Nouns
 
 | Parola | Italiano | English |
 |---|---|---|
-| **il vicino**<br>(n., m) · neighbour | E noi siamo **vicini**! | And we are **neighbours**! |
-| **la scuola**<br>(n., f) · school | Sì, la tua **scuola**. | Yes, your **school**. |
-| **la casa**<br>(n., f) · house; home | Settantotto anni! In questa **casa**? | Seventy-eight years! In this **house**? |
-| **la porta**<br>(n., f) · door | Fuori, qualcuno bussa alla **porta** principale. | Outside, someone knocks at the main **door**. |
-| **la finestra**<br>(n., f) · window | Questa **finestra** è la mia televisione. | This **window** is my television. |
-| **il nome**<br>(n., m) · name | Di Borgoverde? Il **nome**? | From Borgoverde? Her **name**? |
-| **la signora**<br>(n., f) · Mrs; lady | **Signora** Galli, Lei vede tutto. | **Mrs** Galli, you see everything. |
-| **il bambino**<br>(n., m) · child; boy | Due **bambini**. Bambini italiani? | Two **children**. Italian children? |
-| **l'amico**<br>(n., m) · friend | Arrivederci, Pietro. Vero **amico**. | Goodbye, Pietro. True **friend**. |
-| **la classe**<br>(n., f) · class; classroom | Nella **classe** ci sono venti bambini. | In the **classroom** there are twenty children. |
-| **la maestra**<br>(n., f) · primary-school teacher | **Maestra**, io sono Pietro! | **Teacher**, I am Pietro! |
-| **il giorno**<br>(n., m) · day | Buonasera, Ben. Che **giorno**! | Good evening, Ben. What a **day**! |
+| **il vicino**<br>(n., m) · neighbour | Sono il **vicino** nuovo. | I'm the **new neighbour**. |
+| **la scuola**<br>(n., f) · school | Il nome della **scuola**? | The name of the **school**? |
+| **il nome**<br>(n., m) · name | Il **nome** della scuola? | The **name** of the school? |
+| **il signore**<br>(n., m) · gentleman; Mr; sir | Un **signore** esce dalla macchina. | A **gentleman** gets out of the car. |
+| **la signora**<br>(n., f) · lady; Mrs; madam | Una **signora** guarda giù. | A **lady** looks down. |
+| **il bambino**<br>(n., m) · child; boy | Un **bambino** guarda dal balcone. | A **child** watches from the balcony. |
+| **il ragazzo**<br>(n., m) · boy; guy | Un **ragazzo** dietro Leo parla. | A **boy** behind Leo speaks. |
+| **la casa**<br>(n., f) · house; home | Franco entra in **casa**. | Franco goes into his **house**. |
+| **amico**<br>(n., m) · friend | Un **amico**! Grazie, Leo! | A **friend**! Thanks, Leo! |
+| **la via**<br>(n., f) · street | Roberto indica la **via**. | Roberto points down the **street**. |
+| **il giorno**<br>(n., m) · day | È il primo **giorno**. | It's the first **day**. |
 
 ## Adjectives
 
 | Parola | Italiano | English |
 |---|---|---|
-| **benvenuto**<br>(adj.) · welcome | Piacere, signor Colombo! **Benvenuto**! | Nice to meet you, Mr Colombo! **Welcome**! |
-| **americano**<br>(adj.) · American | Sei **americana**? O italiana? | Are you **American**? Or Italian? |
-| **italiano**<br>(adj.) · Italian | Due bambini. Bambini **italiani**? | Two **children**. Italian children? |
-| **nuovo**<br>(adj.) · new | Sì. Io sono **nuovo**. | Yes. I am **new**. |
-
-## Adverbs
-
-| Parola | Italiano | English |
-|---|---|---|
-| **adesso**<br>(adv.) · now | Bravo, Leo. **Adesso** andiamo. | Good boy, Leo. Let's go **now**. |
+| **benvenuto**<br>(adj.) · welcome | **Benvenuto** a Borgoverde, Ben. | **Welcome** to Borgoverde, Ben. |
+| **americano**<br>(adj.) · American | Leo, "**americano**" è giusto. | Leo, "**American**" is right. |
+| **italiano**<br>(adj.) · Italian | Maestra, io scrivo **italiano**? | Teacher, do I write **Italian**? |
+| **nuovo**<br>(adj.) · new | **Nuova** per lei, sì. | **New** for you, yes. |
 
 ## Interjections
 
 | Parola | Italiano | English |
 |---|---|---|
-| **ciao**<br>(interj.) · hi; bye | Emma dice solo **ciao**. | Emma only says **hi**. |
-| **buongiorno**<br>(interj.) · good morning | **Buongiorno**! Buongiorno a tutti! | **Good morning**! Good morning everyone! |
-| **buonasera**<br>(interj.) · good evening | **Buonasera**! Buonasera a tutti! | **Good evening**! Good evening everyone! |
-| **arrivederci**<br>(interj.) · goodbye | Significa: **arrivederci**, signor Carter. | It means: **goodbye**, Mr Carter. |
-| **piacere**<br>(interj.) · nice to meet you | Buongiorno! **Piacere**! Ben Carter! | Good morning! **Nice to meet you**! Ben Carter! |
-| **grazie**<br>(interj.) · thank you | **Grazie**, Franco. Sono nuovi? | **Thank you**, Franco. Are they new? |
+| **ciao**<br>(interj.) · hi; bye | Niente parole. Solo **ciao**. | No words. Only **hi**. |
+| **buongiorno**<br>(interj.) · good morning | **Buongiorno**! Mi chiamo Ben! | **Good morning**! My name is Ben! |
+| **grazie**<br>(interj.) · thank you | **Grazie**! Grazie, signora Galli! | **Thanks**! Thanks, Mrs Galli! |
+| **scusi**<br>(interj.) · excuse me (formal) | Ah! Vecchia! Sì! **Scusi**, signora. | Ah! Old! Yes! **Excuse me**, ma'am. |
+| **arrivederci**<br>(interj.) · goodbye | **Arrivederci**, scatole. Buonasera, casa. | **Goodbye**, boxes. Good evening, house. |
+| **buonasera**<br>(interj.) · good evening | Ah! **Buonasera**! Buonasera, Emma! | Ah! **Good evening**! Good evening, Emma! |
