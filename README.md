@@ -44,5 +44,5 @@ grammar.md   (authored; cites story lines by id)
 - [x] World bible (`bible/`)
 - [x] Curriculum: 200 chapters planned ([overview](curriculum/overview.md))
 - [x] Build and validation scripts (`scripts/build_curriculum.py`, `scripts/build_chapter.py`)
-- [ ] Pilot chapters (one A1, one B1)
+- [~] Pilot chapters (S1E1, S5E3): v2 written; length tuning to test — see CLAUDE.md
 - [ ] Production
