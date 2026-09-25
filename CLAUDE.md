@@ -57,6 +57,11 @@ Ways to run it:
 - **Agent-driven** (no API key): `python3 scripts/pipeline.py start <id>`, then write each answer to
   `chapters/<id>/work/answer.txt` and run `pipeline.py submit <id>` until `DONE`.
 
+Review reader: https://claude.ai/artifact/R3XejAxbx7k2a74RiCiTwT (private artifact; the owner's review
+page for every chapter: story, side by side, vocabulary, grammar, audio script, plan and continuity).
+To refresh it after new chapters: `python3 scripts/build_reader.py`, then publish `reader/index.html`
+to that URL with `index.json` and every `data/<id>.json` as files (both generated, git-ignored).
+
 Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review),
 `build_curriculum.py` (validates plans, regenerates the overview), `update_logs.py`.
 
