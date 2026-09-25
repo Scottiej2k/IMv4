@@ -4,12 +4,28 @@
 that a feeder script sends one at a time. The resulting WAV clips are then joined in order into the
 chapter's audio.
 
-> **Verification status:** the official docs page
-> (<https://ai.google.dev/gemini-api/docs/models/gemini-3.8-flash-tts>) couldn't be reached from the
-> environment that wrote this spec. The request shape below comes from an open-source SDK that already
-> ships Gemini 3.8 TTS support (Jellypod `speech-sdk`, v0.32.0), plus Google's migration notes. Before
-> the first full audio run, check the items marked **⚠ verify** against the official page. Because
-> `tts.json` is generated, a correction only means changing the build script, not the chapters.
+> **Verification status (2026-09-25):** checked against Google's page
+> <https://ai.google.dev/gemini-api/docs/speech-generation>. Confirmed: the request shape; speaker
+> labels can be any names (e.g. character names); a single-voice request's `speech_config` is an array
+> (`[{"voice": "Kore"}]`); multi-speaker requests take at most 2 prebuilt voices, and every turn must
+> name its `speaker`. Findings that change how we build requests (to apply with the book format):
+>
+> - **Keep `style` short or empty.** Google: long persona text in `style` is "the most common cause of
+>   voice drift", and age, gender, accent and names must not go in `style`. Build each character once
+>   as a voice (Voice design `voice_...`, or an Italian voice from the Extended Voice Library,
+>   `GET /v1beta/voices`) and use `style` only for per-line delivery ("proud", "whispering",
+>   "speaking slowly"). Designed or replicated voices can't be combined in one multi-speaker request:
+>   synthesize each turn separately with those.
+> - **More vocal tags** (English tags even for Italian text): `<laugh>` `<chuckle>` `<giggle>` `<sigh>`
+>   `<gasp>` `<groan>` `<tsk>` `<phew>`/`<pff>` `<yawn>` `<cough>` `<breath>` `<whispers>` `<cry>`
+>   `<sob>` `<snort>` `<throat-clearing>` `<short pause>` `<long pause>` and more. Human sounds only,
+>   no sound effects.
+> - **Backchannels:** a listener's short reaction inside another speaker's turn, in pipes:
+>   `"Ho tre frasi |mm| e sono pronto."`
+> - **Emphasis:** capitalised words are stressed; commas, `--` and `...` make natural hesitations.
+> - **Output** is WAV with a 44-byte header by default. To join clips, request
+>   `{"type": "audio", "mime_type": "audio/l16"}` (raw 24 kHz PCM) or strip each header.
+> - `gemini-3.8-flash-lite-tts` is the cheaper bulk model; `gemini-3.8-flash-tts` for best acting.
 
 ## Model facts the format is built around
 
