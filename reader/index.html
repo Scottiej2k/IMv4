@@ -1,7 +1,7 @@
 <title>Via dei Tigli Reader</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <style>
 :root {
@@ -20,6 +20,7 @@
   --read: "Literata", Georgia, "Times New Roman", serif;
   --ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --script: "Courier Prime", "Courier New", Courier, monospace;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -74,22 +75,22 @@ h1 em { font-weight: 400; color: var(--muted); font-size: .6em; display: block; 
 .tools label { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
 .panel { max-width: 1040px; }
 
-/* Story */
-.story { max-width: 68ch; font-family: var(--read); font-size: 18px; line-height: 1.7; }
-.scene-h { font-family: var(--ui); font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 34px 0 10px; display: flex; gap: 10px; align-items: baseline; }
-.scene-h:first-child { margin-top: 8px; }
-.scene-h .n { font-family: var(--mono); color: var(--accent); }
-.turn { margin: 0 0 10px; }
-.turn.narr { color: var(--ink); }
-.turn .who { font-family: var(--ui); font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); margin-right: 8px; }
-.turn:not(.narr) { padding-left: 14px; border-left: 2px solid var(--line); }
-.seg { cursor: pointer; border-radius: 3px; }
+/* Story: laid out like a screenplay page (sluglines, action, centred character cues, dialogue column) */
+.story { max-width: 62ch; font-family: var(--script); font-size: 16.5px; line-height: 1.5; background: var(--surface); border: 1px solid var(--line); padding: 40px 48px 56px; }
+.slug { font-size: 1em; font-weight: 700; text-transform: uppercase; margin: 32px 0 14px; display: flex; gap: 1ch; }
+.slug:first-child { margin-top: 0; }
+.slug .n { color: var(--muted); font-weight: 400; min-width: 3ch; }
+.action { margin: 0 0 14px; }
+.cue { margin: 0 0 16px; padding-left: 10ch; padding-right: 8ch; }
+.cue .who { display: block; padding-left: 12ch; text-transform: uppercase; }
+.cue .paren { display: block; padding-left: 7ch; color: var(--muted); }
+.seg { cursor: pointer; border-radius: 2px; }
 .seg:hover { background: var(--accent-soft); }
-.en { display: none; font-family: var(--ui); font-size: 14px; line-height: 1.45; color: var(--muted); margin: 2px 0 6px; }
+.en { display: none; font-family: var(--ui); font-size: 13.5px; line-height: 1.45; color: var(--muted); margin: 1px 0 5px; }
 .seg.open + .en, .show-en .en { display: block; }
-mark.v { background: var(--mark); color: var(--mark-ink); padding: 0 2px; border-radius: 2px; font-weight: 600; }
+.show-en .seg { display: block; }
+mark.v { background: none; color: inherit; font-weight: 700; }
 .atag { font-family: var(--mono); font-size: .7em; color: var(--tag); border: 1px solid currentColor; border-radius: 4px; padding: 0 4px; vertical-align: .15em; }
-.confess .scene-h .n { color: var(--tag); }
 
 /* Side by side */
 .pgrid { border-top: 1px solid var(--line); }
@@ -152,7 +153,10 @@ td .ext { color: var(--muted); font-size: 13px; }
   .prow, .tline { grid-template-columns: 1fr; gap: 2px; }
   .plan { grid-template-columns: 1fr; gap: 2px; }
   .plan dd { margin-bottom: 10px; }
-  .story { font-size: 17px; }
+  .story { font-size: 15px; padding: 20px 16px 32px; }
+  .cue { padding-left: 3ch; padding-right: 0; }
+  .cue .who { padding-left: 6ch; }
+  .cue .paren { padding-left: 4ch; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
@@ -247,14 +251,16 @@ td .ext { color: var(--muted); font-size: 13px; }
   function story() {
     const showEn = store.get("show-en", false);
     $("tools").innerHTML = `<label><input type="checkbox" id="t-en"${showEn ? " checked" : ""}> Show English under every line</label><span>Tap a sentence to see its translation.</span>`;
+    const seg = (s) => `<span class="seg" title="${s.id}">${fmt(s.it)}</span> <span class="en">${fmt(s.en)}</span>`;
     let html = `<div class="story${showEn ? " show-en" : ""}" id="story">`;
     for (const sc of data.chapter.scenes) {
-      html += `<h2 class="scene-h"><span class="n">${sc.n}</span><span>${sceneTitle(sc)}</span></h2>`;
+      html += `<h2 class="slug"><span class="n">${sc.n}.</span><span>${sceneTitle(sc).replace(" · ", " — ")}</span></h2>`;
       for (const t of sc.turns) {
-        const narr = t.speaker === "narrator";
-        html += `<p class="turn${narr ? " narr" : ""}">${narr ? "" : `<span class="who">${esc(who(t.speaker))}</span>`}`;
-        html += t.segments.map((s) => `<span class="seg" title="${s.id}">${fmt(s.it)}</span> <span class="en">${fmt(s.en)}</span>`).join(" ");
-        html += "</p>";
+        if (t.speaker === "narrator") {
+          html += `<p class="action">${t.segments.map(seg).join(" ")}</p>`;
+        } else {
+          html += `<p class="cue"><span class="who">${esc(who(t.speaker))}</span>${t.style ? `<span class="paren">(${esc(t.style)})</span>` : ""}${t.segments.map(seg).join(" ")}</p>`;
+        }
       }
     }
     return html + "</div>";
