@@ -1,0 +1,5 @@
+### s01e01 · Il primo giorno
+- **Happened:** The Carters move into Via dei Tigli 14 and Ben introduces himself to the street; Roberto Colombo makes him move the van to outside number 12. Leo's first day in class terza B at Scuola primaria Gianni Rodari; the family ends the evening at Bar Tigli with Matteo and Nadia.
+- **New facts:** Ornella Galli lives at no. 16, has been on the street fifty years, and has a cat named Pavarotti. Leo's teacher is maestra Paola; classmates Pietro (now a friend) and Marco. Bar Tigli is Matteo and Nadia's, with a photo of Gino (40 years behind the bar) above the counter. Roberto claims the parking spot marked by a white line in front of his house. Chiara starts her new job tomorrow. Ornella teaches Ben *buongiorno* and *buonasera* (after 6 pm); Ben keeps a notebook of Italian words.
+- **Changed:** Emma answers Ben only with "ciao" and calls herself italiana; Franco refuses to greet or answer Ben; Matteo uses *tu* with Ben at once.
+- **Planted:** Franco's closing "Io sono solo. Tu sei… Mah."; the Ben–Roberto parking feud.

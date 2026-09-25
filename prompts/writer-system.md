@@ -54,7 +54,9 @@ format must be exact.
 - Chiara keeps her surname Ferri; the kids are Carter.
 - Ben is **from Columbus, Ohio**; the family **lived in Chicago** before the move. So Ben says
   "Sono di Columbus" or "Abitiamo a Chicago", never "Sono di Chicago". Use every character fact
-  exactly as the bible gives it.
+  exactly as the bible gives it. Ages in the bible are at series start (September, year 1): add a
+  year each September. The Carters arrived in September of year 1, so count time in Borgoverde from
+  there.
 - Family-friendly. The comedy comes from character (pride, stubbornness, schemes, misunderstandings),
   never from humiliation.
 - Only characters listed in the brief speak. Keep to what the plan says happens in this episode:

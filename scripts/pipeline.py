@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scene-by-scene chapter writing: outline → scenes → grammar lesson → one round of fixes.
+"""Scene-by-scene chapter writing: outline → scenes → grammar lesson → one round of fixes → continuity entry.
 
 The same state machine drives both ways of writing a chapter:
   * generate_chapter.py sends each prompt to the Claude API as one continuing conversation;
@@ -11,7 +11,9 @@ The same state machine drives both ways of writing a chapter:
 
 Each scene is written against its own word budget (models hit 500–900 words reliably, not 5,000),
 a scene under 75% of its budget is sent back once to be expanded, and after assembly the
-converter and grammar checker produce one targeted list of line fixes.
+converter and grammar checker produce one targeted list of line fixes. A chapter that builds then
+gets its continuity-log entry (chapters/<id>/continuity.md), and update_logs.py rebuilds the lexicon
+and the log. After fixing a failed chapter by hand, `pipeline.py continuity <id>` asks for the entry.
 """
 import json
 import re
@@ -90,6 +92,8 @@ class Pipeline:
                  "Return nothing else.")
         elif step == "fix":
             p = self.fix_prompt()
+        elif step == "continuity":
+            p = self.continuity_prompt()
         else:
             return None
         if st.get("retry"):
@@ -196,6 +200,8 @@ Return only the scene: the heading line exactly as above, then its lines in the 
             self.assemble_and_check()
         elif step == "fix":
             self.apply_fixes(answer)
+        elif step == "continuity":
+            self.take_continuity(answer)
         self.save()
 
     def take_outline(self, answer):
@@ -301,14 +307,65 @@ Return only the scene: the heading line exactly as above, then its lines in the 
         self.finish(report, issues)
 
     def finish(self, report, remaining=()):
-        self.state["step"] = "done"
+        # A chapter that built goes on to its continuity entry; one that didn't needs a person first.
+        self.state["built"] = "nothing written" not in report
+        self.state["step"] = "continuity" if self.state["built"] else "done"
         text = report + ("\nUnresolved after the fix round:\n" + "\n".join(remaining) if remaining else "")
         (self.work / "report.txt").write_text(text, encoding="utf-8")
         print(text)
 
+    def ask_continuity(self):
+        """Jump to the continuity entry, e.g. after a failed chapter was fixed by hand and rebuilt."""
+        if not (self.folder / "story.md").exists():
+            raise SystemExit(f"{self.cid}: no story.md; build the chapter first (convert_draft.py {self.cid})")
+        if self.state is None:
+            self.start()
+        self.state.update(step="continuity", retry="", continuity_retry=False)
+        self.save()
+
+    def continuity_prompt(self):
+        """Self-contained (it carries the final story), so it can be sent without the conversation."""
+        story = (self.folder / "story.md").read_text(encoding="utf-8")
+        title = self.plan["title"]["it"]
+        return f"""# Continuity log entry
+
+The chapter below is final. Write its entry for the series continuity log, which later chapters'
+writers read so that 200 chapters stay consistent. In English, factual, only what the story below
+actually says, and **at most about 150 words in all**: later briefs carry every entry, so be terse.
+Record only what this chapter adds: invented details a later writer could contradict (names, ages,
+jobs, places, possessions, dates), who now knows which secret, and a tu/Lei switch if one happens.
+Don't restate facts from the plan or the bible, or relationships that didn't change.
+
+Return exactly this shape and nothing else:
+
+### {self.cid} · {title}
+- **Happened:** 2–4 bullets of plot.
+- **New facts:** names, places, ages, possessions, relationships, anything later chapters must respect.
+- **Changed:** relationship shifts, secrets now known (and by whom), open threads.
+- **Planted:** set-ups that need a payoff later (with the planned episode if known).
+
+(Each label is one bullet of at most two sentences or a short semicolon list; write "none" if
+there is nothing.)
+
+---
+
+{story}"""
+
+    def take_continuity(self, answer):
+        m = re.search(r"^###\s.*", answer, re.M | re.S)
+        if not m or "**New facts:**" not in answer:
+            if not self.state.get("continuity_retry"):
+                self.state["continuity_retry"] = True
+                self.state["retry"] = "That entry couldn't be read: start with the '###' heading and keep the four labelled bullets."
+                return
+            print("  warning: continuity entry not in the expected shape; saved as is for review")
+        (self.folder / "continuity.md").write_text((m.group(0) if m else answer).strip() + "\n", encoding="utf-8")
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "update_logs.py")], check=False)
+        self.state["step"] = "done"
+
 
 def main(argv):
-    if len(argv) < 2 or argv[0] not in ("start", "submit", "status"):
+    if len(argv) < 2 or argv[0] not in ("start", "submit", "status", "continuity"):
         print(__doc__)
         return 2
     cmd, cid = argv[0], argv[1]
@@ -318,6 +375,8 @@ def main(argv):
         print(f"System prompt: read {pipe.work.relative_to(ROOT)}/system.md once, then answer each prompt.\n"
               f"Write each answer to {pipe.work.relative_to(ROOT)}/answer.txt and run: "
               f"python3 scripts/pipeline.py submit {cid}\n")
+    elif cmd == "continuity":
+        pipe.ask_continuity()
     elif cmd == "submit":
         pipe.submit((pipe.work / "answer.txt").read_text(encoding="utf-8"))
     elif cmd == "status":

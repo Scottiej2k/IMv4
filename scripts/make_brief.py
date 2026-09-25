@@ -78,10 +78,29 @@ def timeline_facts(cid):
     return facts
 
 
-def continuity_entries():
+def continuity_entries(cid):
+    """The continuity log as canon for `cid`: the state at series start, then only entries for earlier
+    chapters (so re-running a chapter never sees later facts). Entries from this season are given in
+    full; earlier seasons keep only their "New facts" and "Changed" bullets, to keep briefs short."""
     text = read("bible/continuity-log.md")
     start = text.split("## State at series start", 1)
-    return ("## State at series start" + start[1]).strip() if len(start) > 1 else ""
+    if len(start) < 2:
+        return ""
+    state, _, episodes = ("## State at series start" + start[1]).partition("## Episodes")
+    out = [state.strip()]
+    kept = []
+    for entry in re.split(r"\n(?=### s\d{2}e\d{2})", episodes.strip()):
+        m = re.match(r"### (s\d{2}e\d{2})", entry)
+        if not m or m.group(1) >= cid:
+            continue
+        if m.group(1)[:3] != cid[:3]:
+            lines = entry.strip().splitlines()
+            entry = "\n".join([lines[0]] + [ln for ln in lines[1:]
+                                             if ln.startswith(("- **New facts:**", "- **Changed:**"))])
+        kept.append(entry.strip())
+    if kept:
+        out += ["## Episodes so far (canon)", "\n\n".join(kept)]
+    return "\n\n".join(out)
 
 
 def plan_block(ch, full=True):
@@ -190,8 +209,7 @@ def chapter_brief(cid):
     if season["season"] > 1:
         for n in range(1, season["season"]):
             out += [season_arc_section(n), ""]
-    else:
-        out += [continuity_entries(), ""]
+    out += [continuity_entries(cid), ""]
     earlier = [ch for ch in season["chapters"] if ch["id"] < cid]
     if earlier:
         out += [f"### Earlier this season (canon)", ""]

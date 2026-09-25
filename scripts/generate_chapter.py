@@ -141,12 +141,17 @@ def main():
     ap.add_argument("--model", default="claude-sonnet-5")
     ap.add_argument("--effort", default="medium", choices=["low", "medium", "high", "xhigh", "max"])
     ap.add_argument("--force", action="store_true", help="discard any earlier run of this chapter")
+    ap.add_argument("--continuity-only", action="store_true",
+                    help="only write the continuity entry (for a chapter fixed by hand and rebuilt)")
     ap.add_argument("--ask-factor", type=float, help="scene word ask as a multiple of its budget "
                     "(default 1.3, or per model from ASK_FACTORS)")
     args = ap.parse_args()
 
     pipe = Pipeline(args.chapter)
-    pipe.start(force=args.force)
+    if args.continuity_only:
+        pipe.ask_continuity()
+    else:
+        pipe.start(force=args.force)
     per_level = next((f for prefix, f in ASK_FACTORS.items() if args.model.startswith(prefix)), {})
     pipe.ask_factor = args.ask_factor or per_level.get(pipe.plan["level"], pipe.ask_factor)
     openrouter = "/" in args.model
@@ -154,18 +159,21 @@ def main():
     if not openrouter:
         import anthropic
         client = anthropic.Anthropic()
-    messages, total, out_tokens = [], 0.0, 0
+    messages, total, out_tokens, calls = [], 0.0, 0, 0
 
     print(f"{args.chapter}: writing with {args.model} via {'OpenRouter' if openrouter else 'Claude API'} "
           f"(effort {args.effort}, scene ask {pipe.ask_factor}x)")
     prompt = pipe.next_prompt()
     while prompt is not None:
         print(f"- {prompt.splitlines()[0][:70]}")
+        if pipe.state["step"] == "continuity":
+            messages = []  # the prompt carries the final story, so the long conversation isn't needed
         messages.append({"role": "user", "content": prompt})
+        calls += 1
         if openrouter:
-            # The outline is short, but DeepSeek has spent all 32k output tokens thinking about
-            # it (S5E3, even at low effort), so its thinking is capped.
-            cap = 12000 if pipe.state["step"] == "outline" else None
+            # Outline and continuity entry are short, but DeepSeek has spent all 32k output tokens
+            # thinking about an outline (S5E3, even at low effort), so their thinking is capped.
+            cap = 12000 if pipe.state["step"] in ("outline", "continuity") else None
             text, usage = call_openrouter(args.model, args.effort, pipe.system, messages, cap)
             messages.append({"role": "assistant", "content": text})
             total += float(usage.get("cost") or 0)
@@ -179,7 +187,7 @@ def main():
         pipe.submit(text)
         prompt = pipe.next_prompt()
 
-    print(f"{args.chapter}: done · {len(messages) // 2} calls · {out_tokens} output tokens · "
+    print(f"{args.chapter}: done · {calls} calls · {out_tokens} output tokens · "
           f"{'cost' if openrouter else 'estimated cost'} ${total:.3f}")
 
 
