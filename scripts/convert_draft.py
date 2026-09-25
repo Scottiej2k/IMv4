@@ -98,6 +98,8 @@ def parse(text, errors):
             errors.append(f"line {n}: dialogue before the first '# SCENE' heading")
             continue
         who, style, it, en = m.groups()
+        # Writers often copy audio tags into the English; they belong in the Italian only.
+        en = re.sub(r"\s{2,}", " ", bc.TAG_RE.sub("", en)).strip()
         sid = speakers.get(who.strip().lower())
         if sid is None:
             errors.append(f"line {n}: unknown speaker '{who}' (add them to config/voices.json)")
