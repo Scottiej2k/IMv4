@@ -40,8 +40,8 @@ def italian_words(scene_text):
     n = 0
     for line in scene_text.splitlines():
         m = convert_draft.LINE_RE.match(line.strip())
-        if m:
-            n += len(bc.words(m.group(3)))
+        if m and not line.lstrip().startswith("#"):
+            n += len(bc.words(m.group("it")))
     return n
 
 
@@ -50,9 +50,9 @@ def bold_mismatch(scene_text):
     bolded = unmatched = 0
     for line in scene_text.splitlines():
         m = convert_draft.LINE_RE.match(line.strip())
-        if m and "**" in m.group(3):
+        if m and not line.lstrip().startswith("#") and "**" in m.group("it"):
             bolded += 1
-            unmatched += m.group(4).count("**") < m.group(3).count("**")
+            unmatched += m.group("en").count("**") < m.group("it").count("**")
     return bolded, unmatched
 
 
@@ -98,8 +98,9 @@ class Pipeline:
             p = self.scene_prompt()
         elif step == "grammar":
             p = ("# Final step: the grammar lesson\n\nWrite the grammar lesson for this chapter, following the "
-                 "instructions in the system prompt. Quote 5–10 lines from the scenes you wrote as "
-                 "`[[exact Italian line]]`, copied exactly, without bold. Start with the line `@grammar`. "
+                 "instructions in the system prompt. Quote 5–10 sentences from the scenes you wrote as "
+                 "`[[exact Italian sentence]]`, copied exactly, without bold and without the {id} marks "
+                 "(the spoken words alone are fine: `[[Vorrei un caffè, per favore.]]`). Start with the line `@grammar`. "
                  "Return nothing else.")
         elif step == "fix":
             p = self.fix_prompt()
@@ -129,15 +130,11 @@ Plan the chapter. Return exactly this shape and nothing else:
 words: (Italian words in this scene)
 beats: (2–4 sentences: what happens, the joke, how the scene ends)
 vocab: (lemmas of the vocabulary items this scene uses, comma-separated)
-
-# CONFESSIONALE character-id
-words: …
-beats: …
-vocab: …
 @end
 
 Requirements:
-- 4–6 story scenes and 2–4 confessionali, in story order, ending with a short tag scene.
+- 5–7 scenes in story order, ending with a short tag scene. No confessionali: a character's private
+  asides are their thoughts inside a scene (mention them in the beats).
 - Word budgets add up to about {self.mid} (between {self.lo} and {self.hi}).
 - Every vocabulary item appears in the `vocab:` list of at least 3 scenes.
 - The A-plot, B-plot, runner and arc beat from the brief are all there."""
@@ -149,22 +146,17 @@ Requirements:
         forbidden = "; ".join(r["what"] for r in grammar_rules.active_rules(self.cid))
         ask = int(round(sc["words"] * self.ask_factor / 10) * 10)
         lines = max(5, round(ask / WORDS_PER_LINE[self.plan["level"]]))
-        confessionale = sc["heading"].upper().startswith("# CONFESSIONALE")
-        if confessionale:
-            lines = max(5, round(ask / (WORDS_PER_LINE[self.plan["level"]] + 2)))
-            mix = "Mostly the character speaking to camera; one or two short NARRATOR lines at most."
-        else:
-            # Confessionali are all speech, so story scenes carry about a third narration to land
-            # the chapter at 60–75% dialogue. Writers drop narration unless given a number.
-            mix = (f"Mix: about two thirds dialogue, one third narration. That means about "
-                   f"{max(2, round(lines / 3))} of the {lines} lines are NARRATOR lines (setting, action, "
-                   f"gestures, reactions), spread through the scene.")
+        # Writers drop narration unless given a share; a book needs it between the speech.
+        mix = ("Write it as a book, in the draft format: paragraphs separated by blank lines, speech as "
+               "«…»{id}, thoughts as _…_{id}, dialogue tags varied or left out. About two thirds of the words "
+               "inside «…» and thoughts, one third narration (place, gestures, faces, sounds), spread "
+               "between the speech rather than bunched.")
         p = f"""# Scene {k + 1} of {n}
 
 Write this scene now:
 {sc['heading']}
 Beats: {sc['beats']}
-Length: **about {ask} Italian words, roughly {lines} lines.** Keep count as you go; don't wrap up early.
+Length: **about {ask} Italian words, roughly {lines} sentences (one per line).** Keep count as you go; don't wrap up early.
 {mix}
 Vocabulary to use, each bolded at least once as its own span, with the matching English bolded: {sc['vocab']}
 Also bold clear examples of the grammar focus where they come up naturally.
@@ -175,8 +167,6 @@ Return only the scene: the heading line exactly as above, then its lines in the 
         cast = [c.strip().capitalize() for c in sc["heading"].split("|")[-1].split(",")]
         address = [f for f in make_brief.timeline_facts(self.cid)
                    if re.search(r"\*\*(tu|Lei)\*\*", f) and sum(c in f for c in cast) >= 2]
-        if confessionale:
-            address = []
         if address:
             p += "\nTu/Lei in this chapter (binding): " + " ".join(address)
         if forbidden:
@@ -187,8 +177,8 @@ Return only the scene: the heading line exactly as above, then its lines in the 
         issues = self.state["issues"]
         return ("# Corrections\n\nThe checker found these problems in the assembled draft. Each shows the draft "
                 "line number and the current line.\n\n" + issues + "\n\nReturn only replacement lines, one per "
-                "line, in this form:\n\nN | SPEAKER [delivery]: italiano || English\n\nwhere N is the draft line "
-                "number. Fix each problem with the smallest change that keeps the meaning and sounds natural "
+                "line, in this form:\n\nN | italiano || English\n\nwhere N is the draft line "
+                "number, keeping the «…»{id} and _…_{id} marks. Fix each problem with the smallest change that keeps the meaning and sounds natural "
                 "(e.g. rewrite with a structure that has been taught). To bold a vocabulary item that is never "
                 "bolded, choose a line that already contains it (or rewrite one line to include it). "
                 "If a flag is a false positive, leave that line out.")
@@ -225,6 +215,12 @@ Return only the scene: the heading line exactly as above, then its lines in the 
                 lines = block.strip().splitlines()
                 if not lines or not lines[0].startswith("#"):
                     continue
+                if lines[0].upper().startswith("# CONFESSIONALE") and scenes:
+                    # Old habit: fold a planned confessionale into the previous scene as thoughts.
+                    who = lines[0].split(None, 2)[-1].strip()
+                    extra = " ".join(ln.partition(":")[2].strip() for ln in lines[1:] if ln.lower().startswith("beats"))
+                    scenes[-1]["beats"] += f" {who.capitalize()}'s thoughts in this scene: {extra}"
+                    continue
                 fields = {}
                 for ln in lines[1:]:
                     key, _, val = ln.partition(":")
@@ -237,7 +233,7 @@ Return only the scene: the heading line exactly as above, then its lines in the 
             n = len(list(self.work.glob("outline-unreadable-*.txt"))) + 1
             (self.work / f"outline-unreadable-{n}.txt").write_text(answer + "\n", encoding="utf-8")
             self.state["retry"] = ("Your outline couldn't be read (it needs an @vocab … @end block and at least "
-                                   "3 scenes under @outline, each starting with '# SCENE' or '# CONFESSIONALE').")
+                                   "3 scenes under @outline, each starting with '# SCENE').")
             return
         total = sum(s["words"] for s in scenes)
         if not 0.9 * self.lo <= total <= 1.1 * self.hi:
@@ -322,7 +318,7 @@ Return only the scene: the heading line exactly as above, then its lines in the 
             if not m:
                 continue
             n, new = int(m.group(1)), m.group(2)
-            if 1 <= n <= len(lines) and convert_draft.LINE_RE.match(new):
+            if 1 <= n <= len(lines) and convert_draft.LINE_RE.match(new) and not new.startswith("#"):
                 lines[n - 1] = new
                 applied += 1
         path.write_text("\n".join(lines) + "\n", encoding="utf-8")

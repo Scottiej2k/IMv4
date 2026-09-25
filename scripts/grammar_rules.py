@@ -137,9 +137,10 @@ def lint_draft(chapter_id, draft_text):
     for n, line in enumerate(draft_text.splitlines(), start=1):
         if line.strip().lower().startswith("@grammar"):
             in_grammar = True
-        if in_grammar or "||" not in line or ":" not in line:
+        if in_grammar or "||" not in line or line.lstrip().startswith("#"):
             continue
-        italian = line.split(":", 1)[1].split("||", 1)[0]
+        # Book format: `italiano || English`, with {id|delivery} speaker marks to ignore.
+        italian = re.sub(r"\{[^}]*\}", "", line.split("||", 1)[0])
         hits = lint_text(italian, rules)
         if hits:
             results.append((n, line.strip(), hits))

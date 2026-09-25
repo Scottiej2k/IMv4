@@ -151,10 +151,10 @@ def chapter_brief(cid):
 
     out += ["## Level and length", "",
             f"- Level **{level}**. {rules['grammar']}",
-            f"- Story length: **{lo}–{hi} Italian words** (aim for about {mid}). Plan 4–6 story scenes of roughly "
-            f"{int(mid * 0.85 / 5)} words each plus 2–4 short confessionali (about {int(mid * 0.15 / 3)} words each).",
+            f"- Story length: **{lo}–{hi} Italian words** (aim for about {mid}). Plan 5–7 scenes of roughly "
+            f"{int(mid / 6)} words each, plus a short closing tag scene.",
             f"- Line length: {rules['sentence']}.",
-            f"- Dialogue: 60–75% of the words.",
+            f"- Speech and thoughts: 60–75% of the words; the rest narration.",
             f"- Vocabulary block: **{rules['vocab'][0]}–{rules['vocab'][1]} items**, each bolded in at least 3 lines.", ""]
 
     out += ["## Grammar focus", "",

@@ -46,7 +46,7 @@ def item_forms(v):
 
 def story_text(cid):
     data = json.loads((ROOT / "chapters" / cid / "chapter.json").read_text(encoding="utf-8"))
-    segs = [s["it"] for sc in data["scenes"] for t in sc["turns"] for s in t["segments"]]
+    segs = [s["it"] for _, _, s in cd.bc.segments(data)]
     return " " + cd.norm(" ".join(segs)).replace("'", "' ") + " "
 
 

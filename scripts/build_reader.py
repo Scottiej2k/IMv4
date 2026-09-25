@@ -42,17 +42,30 @@ def compact_tts(tts):
 
 
 def stats(chapter):
-    words = dialogue = segments = 0
-    for sc in chapter["scenes"]:
-        for t in sc["turns"]:
-            for s in t["segments"]:
-                n = len(bc.words(s["it"]))
-                words += n
-                segments += 1
-                if t["speaker"] != "narrator":
-                    dialogue += n
-    return {"words": words, "dialogue": round(100 * dialogue / words) if words else 0, "segments": segments,
+    st = bc.stats(chapter)
+    return {"words": st["words"], "dialogue": round(100 * st["dialogue_share"]), "segments": st["segments"],
             "scenes": len(chapter["scenes"]), "vocab": len(chapter["vocab"])}
+
+
+def as_book(chapter):
+    """Chapters written before the book format (one speaker per turn) shown as paragraphs:
+    each turn becomes a paragraph, speech in « » after the speaker's name."""
+    for scene in chapter["scenes"]:
+        if "paragraphs" in scene:
+            continue
+        paras = []
+        for turn in scene.pop("turns", []):
+            sp = turn["speaker"]
+            segs = []
+            for i, seg in enumerate(turn["segments"]):
+                seg = dict(seg, voice=[[sp, seg["it"], turn.get("style", "")]])
+                if sp != "narrator":
+                    name = bc.speaker_name(sp) + ": " if i == 0 else ""
+                    seg["it"], seg["en"] = f"{name}«{seg['it']}»", f"{name}“{seg['en']}”"
+                segs.append(seg)
+            paras.append({"segments": segs})
+        scene["paragraphs"] = paras
+    return chapter
 
 
 def main():
@@ -72,6 +85,8 @@ def main():
             if (folder / "chapter.json").exists():
                 chapter = json.loads((folder / "chapter.json").read_text(encoding="utf-8"))
                 row["stats"] = stats(chapter)
+                row["format"] = "book" if all("paragraphs" in sc for sc in chapter["scenes"]) else "script"
+                chapter = as_book(chapter)
                 data = {"chapter": chapter,
                         "grammar": (folder / "grammar.md").read_text(encoding="utf-8") if (folder / "grammar.md").exists() else "",
                         "continuity": (folder / "continuity.md").read_text(encoding="utf-8") if (folder / "continuity.md").exists() else "",

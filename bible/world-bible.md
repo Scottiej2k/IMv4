@@ -50,7 +50,7 @@ sitcom:
 | **C-runner** *(optional)* | A small running gag across 2–3 short beats, such as Franco's war on a neighbour's cat or Matteo's latest business idea. |
 | **Arc beat** | At least one beat that moves the season arc forward. |
 | **Tag** | A short, funny closing scene. |
-| **Confessionali** | Short "talking head" monologues where a character speaks straight to the reader, mockumentary style. Use 2–4 per chapter. At A1 they are the easiest text in the chapter (*Mi chiamo Ben. Sono americano. Non parlo bene l'italiano.*). Location id `confessionale`. |
+| **Confessionali** | *Replaced (session 3): the stories are written as a book, so these asides are now a character's thoughts inside a scene.* Short "talking head" monologues where a character speaks straight to the reader, mockumentary style. Use 2–4 per chapter. At A1 they are the easiest text in the chapter (*Mi chiamo Ben. Sono americano. Non parlo bene l'italiano.*). Location id `confessionale`. |
 
 **Who the stories follow, by level.** Season 1 leans on Ben, and often Leo, as the way in, but every
 chapter still runs at least two storylines across the ensemble. From Season 2 the A-plot rotates

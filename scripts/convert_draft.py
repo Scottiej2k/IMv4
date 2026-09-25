@@ -2,9 +2,10 @@
 """Convert a writer's draft (chapters/<id>/draft.txt) into chapter.json + grammar.md,
 then run the normal build (validation + story/parallel/vocab/anki/tts).
 
-The draft format is described in docs/draft-format.md. Everything mechanical is done
-here, not by the writer: segment ids, turns, focus tags, vocab examples and targets,
-and segment ids for the grammar lesson's quotes.
+The draft format (a book: prose paragraphs, «speech»{id}, _thoughts_{id}) is described in
+docs/draft-format.md. Everything mechanical is done here, not by the writer: segment ids,
+paragraphs, who voices each piece, focus tags, vocab examples and targets, and segment ids for
+the grammar lesson's quotes.
 
 Usage: python3 scripts/convert_draft.py s01e01
 """
@@ -15,11 +16,12 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import book_format as bf  # noqa: E402
 import build_chapter as bc  # noqa: E402
 
 ROOT = bc.ROOT
 ARTICLES = ("il ", "lo ", "la ", "l'", "i ", "gli ", "le ", "un ", "uno ", "una ", "un'")
-LINE_RE = re.compile(r"^([A-ZÀ-Ü][A-ZÀ-Ü' .\-]*?)\s*(?:\[([^\]]*)\])?\s*:\s*(.+?)\s*\|\|\s*(.+?)\s*$")
+LINE_RE = bf.STORY_RE  # a story line: `Italian || English`
 QUOTE_RE = re.compile(r"\[\[(.+?)\]\]")
 
 
@@ -50,7 +52,11 @@ def parse(text, errors):
         if section == "grammar":
             grammar_lines.append(raw.rstrip())
             continue
-        if not line or line.startswith("//"):
+        if not line:
+            if scene is not None and scene["lines"]:
+                para += 1  # a blank line inside a scene starts a new paragraph
+            continue
+        if line.startswith("//"):
             continue
         low = line.lower()
         if low.startswith("@vocab"):
@@ -83,29 +89,43 @@ def parse(text, errors):
                 parts += [""] * (3 - len(parts))
                 chars = [speakers.get(c.strip().lower(), c.strip().lower()) for c in parts[2].split(",") if c.strip()]
                 scene = {"location": parts[0], "time": parts[1], "characters": chars, "lines": []}
-            elif kind.upper() == "CONFESSIONALE":
-                who = speakers.get(rest.strip().lower(), rest.strip().lower())
-                scene = {"location": "confessionale", "time": "", "characters": [who], "lines": []}
+                para = 0
             else:
-                errors.append(f"line {n}: unknown heading '{line}' (use '# SCENE ...' or '# CONFESSIONALE ...')")
+                errors.append(f"line {n}: unknown heading '{line}' (use '# SCENE ...'; a confessionale is "
+                              "written as the character's thoughts inside a scene)")
                 continue
             scenes.append(scene)
             continue
         m = LINE_RE.match(line)
         if not m:
-            errors.append(f"line {n}: can't read line (expected 'SPEAKER: italiano || English'): {line[:70]}")
+            errors.append(f"line {n}: can't read line (expected 'italiano || English'): {line[:70]}")
             continue
         if scene is None:
-            errors.append(f"line {n}: dialogue before the first '# SCENE' heading")
+            errors.append(f"line {n}: story line before the first '# SCENE' heading")
             continue
-        who, style, it, en = m.groups()
+        it, en = m.group("it"), m.group("en")
         # Writers often copy audio tags into the English; they belong in the Italian only.
-        en = re.sub(r"\s{2,}", " ", bc.TAG_RE.sub("", en)).strip()
-        sid = speakers.get(who.strip().lower())
-        if sid is None:
-            errors.append(f"line {n}: unknown speaker '{who}' (add them to config/voices.json)")
+        en = bf.english_text(re.sub(r"\s{2,}", " ", bc.TAG_RE.sub("", en)).strip())
+        pieces, bad = [], False
+        for who, text, style in bf.split_voices(it):
+            if who != "narrator":
+                sid = speakers.get(who.lower())
+                if sid is None:
+                    errors.append(f"line {n}: unknown speaker id '{{{who}}}' (use an id from config/voices.json, "
+                                  "or uomo/donna/bambino)")
+                    bad = True
+                    continue
+                who = sid
+            if who == "narrator" and ("«" in text or "»" in text):
+                errors.append(f"line {n}: speech in « » without a speaker mark: write «…»{{id}}: {line[:70]}")
+                bad = True
+            if who != "narrator" or bc.TAG_RE.search(text) is None:
+                pieces.append([who, text, style])
+            else:
+                pieces.append([who, bc.strip_tags(text), style])  # sounds belong to characters, not the narrator
+        if bad:
             continue
-        scene["lines"].append({"speaker": sid, "style": (style or "").strip(), "it": it, "en": en, "line": n})
+        scene["lines"].append({"it": bf.book_text(it), "en": en, "voice": pieces, "line": n, "para": para})
     return vocab, scenes, "\n".join(grammar_lines).strip(), extra_grammar
 
 
@@ -152,12 +172,12 @@ def convert(cid):
         if v["pos"] not in bc.POS_LABEL:
             errors.append(f"line {v['line']}: unknown part of speech '{v['pos']}' for {v['lemma']}")
 
-    # Scenes → turns → segments, with focus derived from bold spans.
+    # Scenes → paragraphs → segments, with focus derived from bold spans.
     unmatched = set()
     occurrences = {v["id"]: [] for v in vocab}
     out_scenes = []
     for i, sc in enumerate(scenes, start=1):
-        turns, k = [], 0
+        paragraphs, k = [], 0
         for ln in sc["lines"]:
             k += 1
             sid = f"{cid}-{i}-{k:03d}"
@@ -182,20 +202,18 @@ def convert(cid):
                 occurrences[vid].append((sid, span, en_span, len(bc.words(ln["it"]))))
             if len(it_b) != len(en_b):
                 notes.append(f"{sid} (draft line {ln['line']}): {len(it_b)} bold in Italian, {len(en_b)} in English")
-            seg = {"id": sid, "it": ln["it"], "en": ln["en"]}
+            seg = {"id": sid, "it": ln["it"], "en": ln["en"], "voice": ln["voice"]}
             if focus:
                 seg["focus"] = focus
-            prev = turns[-1] if turns else None
-            if prev and prev["speaker"] == ln["speaker"] and (not ln["style"] or ln["style"] == prev.get("style", "")):
-                prev["segments"].append(seg)
+            if paragraphs and paragraphs[-1]["para"] == ln["para"]:
+                paragraphs[-1]["segments"].append(seg)
             else:
-                turn = {"speaker": ln["speaker"], "segments": [seg]}
-                if ln["style"]:
-                    turn["style"] = ln["style"]
-                turns.append(turn)
-        if not turns:
+                paragraphs.append({"para": ln["para"], "segments": [seg]})
+        if not paragraphs:
             errors.append(f"scene {i} ({sc['location']}) has no lines")
-        scene = {"n": i, "location": sc["location"], "characters": sc["characters"], "turns": turns}
+        for p in paragraphs:
+            del p["para"]
+        scene = {"n": i, "location": sc["location"], "characters": sc["characters"], "paragraphs": paragraphs}
         if sc["time"]:
             scene["time"] = sc["time"]
         out_scenes.append(scene)
@@ -219,10 +237,12 @@ def convert(cid):
 
     # Grammar lesson: [[quoted sentence]] → quote with its segment id.
     seg_index = {}
-    for sc in out_scenes:
-        for t in sc["turns"]:
-            for s in t["segments"]:
-                seg_index.setdefault(norm(s["it"]), s)
+    for _, _, s in bc.segments({"scenes": out_scenes}):
+        seg_index.setdefault(norm(s["it"]), s)
+        seg_index.setdefault(norm(re.sub(r"[«»_]", "", s["it"])), s)
+        for who, text, _ in s["voice"]:  # a quote of just the spoken words or the thought
+            if who != "narrator":
+                seg_index.setdefault(norm(text), s)
 
     # Writers sometimes misquote (a typo) or quote a sentence that isn't in the story. The fix round
     # can't repair the lesson, so: a close match is cited as the real line, anything else is dropped
@@ -245,7 +265,8 @@ def convert(cid):
             notes.append(f"grammar quote [[{m.group(1)[:60]}]] isn't in the story; dropped it")
             return DROP
         kept[0] += 1
-        return f"“{bc.reader_text(seg['it'])}” — {bc.strip_tags(seg['en'])} (`{seg['id']}`)"
+        # Book-format sentences carry their own « » and _thoughts_, so they're shown as written.
+        return f"{bc.reader_text(seg['it'])} — {bc.strip_tags(seg['en'])} (`{seg['id']}`)"
 
     grammar_md = QUOTE_RE.sub(cite, grammar) if grammar else ""
     if DROP in grammar_md:

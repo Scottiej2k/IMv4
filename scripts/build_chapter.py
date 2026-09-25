@@ -24,7 +24,9 @@ CHAPTERS = ROOT / "chapters"
 VOICES = json.loads((ROOT / "config" / "voices.json").read_text(encoding="utf-8"))
 LOCATIONS = json.loads((ROOT / "config" / "locations.json").read_text(encoding="utf-8"))["locations"]
 
-AUDIO_TAGS = {"<laugh>", "<sigh>", "<cough>", "<gasp>", "<breath>", "<short pause>", "<long pause>"}
+# Human vocal sounds the TTS model performs (docs/tts-format.md; Google's list is longer).
+AUDIO_TAGS = {"<laugh>", "<chuckle>", "<giggle>", "<sigh>", "<gasp>", "<groan>", "<tsk>", "<phew>", "<yawn>",
+              "<cough>", "<breath>", "<whispers>", "<sob>", "<short pause>", "<long pause>"}
 TAG_RE = re.compile(r"<[^>]+>")
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 SEG_ID_RE = re.compile(r"s\d{2}e\d{2}-\d+-\d{3}")
@@ -94,11 +96,23 @@ def location_name(loc):
     return LOCATIONS.get(loc, loc)
 
 
+def blocks(scene):
+    """A scene's paragraphs (book format) or, in chapters made before it, its turns."""
+    return scene.get("paragraphs") or scene.get("turns") or []
+
+
 def segments(chapter):
     for scene in chapter["scenes"]:
-        for turn in scene["turns"]:
-            for seg in turn["segments"]:
-                yield scene, turn, seg
+        for block in blocks(scene):
+            for seg in block["segments"]:
+                yield scene, block, seg
+
+
+def voice_pieces(block, seg):
+    """[(speaker, text, style)] for a segment; old turn-based chapters have one speaker per turn."""
+    if "voice" in seg:
+        return [tuple(p) for p in seg["voice"]]
+    return [(block["speaker"], seg["it"], block.get("style", ""))]
 
 
 # ---------------------------------------------------------------- validation
@@ -162,13 +176,13 @@ def validate(chapter, folder, rep):
         if scene.get("location") not in LOCATIONS:
             rep.warn(f"scene {i}: location '{scene.get('location')}' not in config/locations.json")
         expected = 1
-        for turn in scene["turns"]:
-            sp = turn.get("speaker")
-            if sp not in VOICES["voices"]:
-                rep.error(f"scene {i}: speaker '{sp}' has no entry in config/voices.json")
-            elif sp != "narrator" and sp not in scene.get("characters", []) and scene.get("location") != "confessionale":
-                rep.warn(f"scene {i}: speaker '{sp}' not listed in scene characters")
-            for seg in turn["segments"]:
+        for block in blocks(scene):
+            for seg in block["segments"]:
+                for sp, _, _ in voice_pieces(block, seg):
+                    if sp not in VOICES["voices"]:
+                        rep.error(f"{seg.get('id')}: speaker '{sp}' has no entry in config/voices.json")
+                    elif sp not in ("narrator", "uomo", "donna", "bambino") and sp not in scene.get("characters", []):
+                        rep.warn(f"scene {i}: speaker '{sp}' not listed in scene characters")
                 sid = seg.get("id", "")
                 want = f"{cid}-{i}-{expected:03d}"
                 if sid != want:
@@ -246,12 +260,13 @@ def validate(chapter, folder, rep):
 def stats(chapter):
     total = dialogue = 0
     speakers = Counter()
-    for _, turn, seg in segments(chapter):
-        n = len(words(seg["it"]))
-        total += n
-        if turn["speaker"] != "narrator":
-            dialogue += n
-            speakers[turn["speaker"]] += n
+    for _, block, seg in segments(chapter):
+        total += len(words(seg["it"]))
+        for sp, text, _ in voice_pieces(block, seg):
+            if sp != "narrator":
+                n = len(words(text))
+                dialogue += n
+                speakers[sp] += n
     sentences = sum(1 for _, _, seg in segments(chapter))
     distinct = len({w.lower() for _, _, seg in segments(chapter) for w in words(seg["it"])})
     return {
@@ -298,15 +313,8 @@ def render_story(chapter):
     out = header(chapter, "Storia")
     for scene in chapter["scenes"]:
         out += [scene_heading(scene), ""]
-        confessional = scene["location"] == "confessionale"
-        for turn in scene["turns"]:
-            text = " ".join(reader_text(s["it"]) for s in turn["segments"])
-            if turn["speaker"] == "narrator":
-                out += [text, ""]
-            elif confessional:
-                out += [f"> *{speaker_name(turn['speaker'])}:* {text}", ""]
-            else:
-                out += [f"*{speaker_name(turn['speaker'])}:* {text}", ""]
+        for block in blocks(scene):
+            out += [" ".join(reader_text(s["it"]) for s in block["segments"]), ""]
     return "\n".join(out)
 
 
@@ -318,13 +326,9 @@ def render_parallel(chapter):
     out = header(chapter, "Testo parallelo / Parallel text")
     for scene in chapter["scenes"]:
         out += [scene_heading(scene), "", "| Italiano | English |", "|---|---|"]
-        for turn in scene["turns"]:
-            for i, seg in enumerate(turn["segments"]):
-                it, en = reader_text(seg["it"]), strip_tags(seg["en"])
-                if turn["speaker"] != "narrator" and i == 0:
-                    name = speaker_name(turn["speaker"])
-                    it, en = f"*{name}:* {it}", f"*{name}:* {en}"
-                out.append(f"| {md_cell(it)} | {md_cell(en)} |")
+        for block in blocks(scene):
+            for seg in block["segments"]:
+                out.append(f"| {md_cell(reader_text(seg['it']))} | {md_cell(strip_tags(seg['en']))} |")
         out.append("")
     return "\n".join(out)
 
@@ -399,31 +403,39 @@ def render_anki(chapter):
 
 # ---------------------------------------------------------------- TTS
 
-def turn_style(chapter, speaker, own):
-    v = VOICES["voices"][speaker]
-    parts = [VOICES["level_styles"].get(chapter["level"], ""), v.get("style", ""),
-             v.get("style_by_level", {}).get(chapter["level"], ""), own or ""]
-    return "; ".join(p for p in parts if p)
+def piece_style(chapter, own):
+    """Short style only: the level's pace plus the line's own delivery. Google: persona text (age,
+    accent, character) in `style` makes voices drift; it belongs in the voice itself."""
+    parts = [VOICES["level_styles"].get(chapter["level"], ""), own or ""]
+    return ", ".join(p for p in parts if p)
 
 
-def split_turn(turn):
-    """Split a turn into pieces under the single-voice limit, at segment boundaries."""
-    pieces, cur, cur_len = [], [], 0
-    for seg in turn["segments"]:
-        t = spoken_text(seg["it"])
-        if cur and cur_len + len(t) + 1 > MAX_DIALOGUE_CHARS:
-            pieces.append(cur)
-            cur, cur_len = [], 0
-        cur.append(t)
-        cur_len += len(t) + 1
-    if cur:
-        pieces.append(cur)
-    return [" ".join(p) for p in pieces]
+def voiced_items(chapter, scene):
+    """The scene as a list of (speaker, text, style, segment ids): consecutive pieces with the same
+    voice and style are merged, and long ones split at segment boundaries."""
+    items = []
+    for block in blocks(scene):
+        for seg in block["segments"]:
+            for sp, text, own in voice_pieces(block, seg):
+                text = spoken_text(text).strip("«» ")
+                if not text:
+                    continue
+                style = piece_style(chapter, own)
+                limit = MAX_DIALOGUE_CHARS
+                if items and items[-1][0] == sp and items[-1][2] == style and len(items[-1][1]) + len(text) < limit:
+                    prev = items[-1]
+                    items[-1] = (sp, prev[1] + " " + text, style, prev[3] + ([seg["id"]] if seg["id"] not in prev[3] else []))
+                else:
+                    items.append((sp, text, style, [seg["id"]]))
+    return items
 
 
 def build_tts(chapter, rep):
     model = VOICES["model"]
     chunks = []
+
+    def voice_of(sp):
+        return VOICES["voices"][sp]["voice"]
 
     def flush(scene_n, items):
         if not items:
@@ -433,57 +445,51 @@ def build_tts(chapter, rep):
             if sp not in voices:
                 voices.append(sp)
         if len(voices) == 1:
-            sp = voices[0]
-            content = [{"type": "text", "text": text,
-                        "annotations": [{"type": "speech_metadata", "style": style}]}
+            content = [{"type": "text", "text": text, "annotations": [{"type": "speech_metadata", "style": style}]}
                        for _, text, style, _ in items]
-            speech_config = [{"voice": VOICES["voices"][sp]["voice"]}]
+            speech_config = [{"voice": voice_of(voices[0])}]
         else:
-            labels = {sp: f"Speaker{i + 1}" for i, sp in enumerate(voices)}
+            # Speaker labels can be any names (Google docs); we use the character ids.
             content = [{"type": "text", "text": text,
-                        "annotations": [{"type": "speech_metadata", "speaker": labels[sp], "style": style}]}
+                        "annotations": [{"type": "speech_metadata", "speaker": sp, "style": style}]}
                        for sp, text, style, _ in items]
             speech_config = {"mode": "conversational",
-                             "speakers": [{"speaker": labels[sp], "voice": VOICES["voices"][sp]["voice"]}
-                                          for sp in voices]}
-        turn_ids = []
+                             "speakers": [{"speaker": sp, "voice": voice_of(sp)} for sp in voices]}
+        seg_ids = []
         for _, _, _, ids in items:
-            turn_ids += [i for i in ids if i not in turn_ids]
+            seg_ids += [i for i in ids if i not in seg_ids]
         chunks.append({
             "index": len(chunks),
             "scene": scene_n,
-            "speakers": {f"Speaker{i + 1}" if len(voices) > 1 else "single": sp for i, sp in enumerate(voices)},
-            "segment_ids": turn_ids,
+            "speakers": {sp: sp for sp in voices} if len(voices) > 1 else {"single": voices[0]},
+            "segment_ids": seg_ids,
             "request": {
                 "model": model,
                 "input": [{"type": "user_input", "content": content}],
-                "response_format": {"type": "audio"},
+                "response_format": {"type": "audio", "mime_type": "audio/l16"},
                 "generation_config": {"speech_config": speech_config},
             },
         })
 
     for scene in chapter["scenes"]:
         items, voices, size = [], [], 0
-        for turn in scene["turns"]:
-            sp = turn["speaker"]
+        for sp, text, style, ids in voiced_items(chapter, scene):
             if VOICES["voices"].get(sp, {}).get("voice", "TBD") == "TBD":
                 rep.warn(f"TTS: speaker '{sp}' has no voice assigned")
-            style = turn_style(chapter, sp, turn.get("style"))
-            ids = [s["id"] for s in turn["segments"]]
-            for text in split_turn(turn):
-                new_voices = voices + ([sp] if sp not in voices else [])
-                limit = MAX_DIALOGUE_CHARS if len(new_voices) > 1 else MAX_SINGLE_CHARS
-                if items and (len(new_voices) > 2 or size + len(text) > limit):
-                    flush(scene["n"], items)
-                    items, voices, size = [], [], 0
-                    new_voices = [sp]
-                items.append((sp, text, style, ids))
-                voices = new_voices
-                size += len(text)
+            new_voices = voices + ([sp] if sp not in voices else [])
+            limit = MAX_DIALOGUE_CHARS if len(new_voices) > 1 else MAX_SINGLE_CHARS
+            if items and (len(new_voices) > 2 or size + len(text) > limit):
+                flush(scene["n"], items)
+                items, voices, size = [], [], 0
+                new_voices = [sp]
+            items.append((sp, text, style, ids))
+            voices = new_voices
+            size += len(text)
         flush(scene["n"], items)
     return {"chapter": chapter["id"], "model": model,
-            "notes": "POST each chunk's 'request' to /v1beta/interactions in index order; join the WAV clips, "
-                     "adding a <long pause> of silence between scenes. See docs/tts-format.md.",
+            "notes": "POST each chunk's 'request' to /v1beta/interactions in index order. Each reply is raw "
+                     "24 kHz PCM (audio/l16): join the clips in order, with a <long pause> of silence between "
+                     "scenes. See docs/tts-format.md.",
             "chunks": chunks}
 
 
