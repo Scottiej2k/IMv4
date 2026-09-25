@@ -1,869 +1,754 @@
 @vocab
 l'offerta | noun | f | the offer | offerta, offerte
-la proposta di lavoro | expression | | the job offer | proposta, proposte
-lo stipendio | noun | m | the salary, the pay | stipendio, stipendi
-il trasferimento | noun | m | the move, the transfer | trasferimento, trasferimenti
-trasferirsi | verb | | to move (to another city) | trasferirsi, trasferisco, trasferisce, trasferiamo, trasferiscono
+la proposta di lavoro | noun | f | the job proposal | proposta, proposte
+lo stipendio | noun | m | the salary | stipendio, stipendi
 il contratto | noun | m | the contract | contratto, contratti
+firmare | verb | | to sign | firma, firmare, firmato
 la sede | noun | f | the office, the headquarters | sede, sedi
 la promozione | noun | f | the promotion | promozione, promozioni
+il trasferimento | noun | m | the move, the relocation | trasferimento, trasferimenti
+trasferirsi | verb | | to move (to another country or house) | mi trasferisco, trasferirsi, si trasferisce, vi trasferite, ci trasferiamo
+volere che | expression | | to want (someone) to | voglio che, vuole che, vogliono che | Different subject → che + congiuntivo.
+sperare che | expression | | to hope that | spero che, spera che, speriamo che | Always followed by the congiuntivo.
+preferire che | expression | | to prefer that | preferisco che, preferisce che | Different subject → che + congiuntivo.
+chiedere che | expression | | to ask (someone) to | chiede che, chiedono che, chiediamo che | A request made to another person.
+tornare | verb | | to come back, to go back | torno, torna, torni, torniamo, tornano
+il capo | noun | m | the boss | capo, capi
 l'azienda | noun | f | the company | azienda, aziende
-il direttore | noun | m | the director, the manager | direttore, direttori
-l'email | noun | f | the email | email
-la telefonata | noun | f | the phone call | telefonata, telefonate
+la carriera | noun | f | the career | carriera
+decidere | verb | | to decide | decido, decide, decidere, decidi
 la decisione | noun | f | the decision | decisione, decisioni
-decidere | verb | | to decide | decidere, decido, decide, decidiamo, decida, deciso
-scegliere | verb | | to choose | scegliere, scelgo, sceglie, scegli, scelto
 la scelta | noun | f | the choice | scelta, scelte
-restare | verb | | to stay | restare, resto, resta, restiamo, resti
-partire | verb | | to leave, to set off | partire, parto, parte, partiamo, partito
-tornare | verb | | to come back, to return | tornare, torno, torna, torniamo, torni
-nervoso | adjective | | nervous | nervoso, nervosa, nervosi
-nascondere | verb | | to hide | nascondere, nascondo, nasconde, nascosto
+il futuro | noun | m | the future | futuro
+il dubbio | noun | m | the doubt | dubbio, dubbi
+il coraggio | noun | m | the courage | coraggio
 il segreto | noun | m | the secret | segreto, segreti
-raccontare | verb | | to tell, to recount | raccontare, racconto, racconta, raccontarti
-spiegare | verb | | to explain | spiegare, spiego, spiega
-la verità | noun | f | the truth | verità
-guadagnare | verb | | to earn | guadagnare, guadagno, guadagni
-raddoppiare | verb | | to double | raddoppiare, raddoppia, raddoppiato
-il futuro | noun | m | the future | futuro, futuri
-il consiglio | noun | m | the advice, the tip | consiglio, consigli
-volere che | expression | | to want (someone) to | voglio che, vuole che, vogliono che, vogliamo che
-sperare che | expression | | to hope that | spero che, spera che, speriamo che
-preferire che | expression | | to prefer that | preferisco che, preferisce che, preferiscono che
-desiderare che | expression | | to wish that | desidero che, desidera che, desideriamo che
-chiedere che | expression | | to ask (someone) to | chiedono che, chiede che, chiediamo che
-l'occasione | noun | f | the opportunity, the chance | occasione, occasioni
+nascondere | verb | | to hide | nascondo, nasconde, nascosto
+rispondere | verb | | to answer, to reply | rispondo, risponde, risposto
+il messaggio | noun | m | the message | messaggio, messaggi
+l'email | noun | f | the email | email
+lontano | adjective | | far, far away | lontano, lontana, lontani
 la neve | noun | f | the snow | neve
-il dibattito | noun | m | the debate | dibattito, dibattiti
+la verità | noun | f | the truth | verità
+marzo | noun | m | March | marzo
+raddoppiare | verb | | to double | raddoppia, raddoppiare
 @end
 
-# SCENE casa-carter | martedì mattina, prima di scuola | ben, chiara, emma, leo
-NARRATORE: È martedì mattina e **la neve** cade lenta sui tetti di Via dei Tigli. || It's Tuesday morning and **the snow** is falling slowly on the roofs of Via dei Tigli.
-NARRATORE: In casa Carter, però, nessuno guarda fuori dalla finestra. || In the Carter house, though, nobody is looking out of the window.
-NARRATORE: In cucina c'è il rumore del cucchiaio nel caffè e delle scarpe di Emma. || In the kitchen there's the sound of the spoon in the coffee and of Emma's shoes.
-CHIARA [veloce]: Emma! Il treno è alle sette e quarantotto, non alle otto! || Emma! The train is at 7:48, not at eight!
-EMMA [secca]: Mamma, lo so. Il treno **parte** alle sette e quarantotto tutte le mattine. || Mum, I know. The train **leaves** at 7:48 every morning.
-CHIARA: E tu tutte le mattine arrivi con il fiato corto. || And every morning you arrive out of breath.
-EMMA: Arrivo con il fiato corto perché tu mi chiami alle sette e quarantadue. || I arrive out of breath because you call me at 7:42.
-NARRATORE: Emma prende la tazza del latte con una mano e con l'altra cerca il telefono. || Emma picks up her cup of milk with one hand and with the other looks for her phone.
-CHIARA: Leo! Sei vestito o sei ancora in pigiama? || Leo! Are you dressed or are you still in your pyjamas?
-LEO [da lontano]: Sono vestito! Ma non trovo lo zaino! || I'm dressed! But I can't find my backpack!
-CHIARA: Come "non trovo lo zaino"? Ieri sera dov'era? || What do you mean, "I can't find my backpack"? Where was it last night?
-LEO: Ieri sera era... da qualche parte. || Last night it was... somewhere.
-NARRATORE: Leo compare sulla porta, con una scarpa sola ai piedi. || Leo appears at the door, with only one shoe on.
-CHIARA [sospira]: Ci penso io. Sempre io. || I'll handle it. Always me.
-NARRATORE: Ben è davanti al bancone, immobile, con il telefono in mano. || Ben is standing at the counter, motionless, with his phone in his hand.
-NARRATORE: Sullo schermo c'è la stessa **email** aperta da tre giorni. || On the screen there's the same **email** open for three days.
-BEN [legge piano, tra sé]: "Caro Ben..." || "Dear Ben..."
-CHIARA: Ben? Mi passi il latte? || Ben? Can you pass me the milk?
-NARRATORE: Ben non sente. Guarda lo schermo senza parlare. || Ben doesn't hear. He stares at the screen without speaking.
-CHIARA [più forte]: Ben! Il latte! || Ben! The milk!
-BEN [si sveglia]: Sì! Il latte! Eccolo. || Yes! The milk! Here it is.
-NARRATORE: Prende il cartone e, senza guardare, apre la credenza e ci mette dentro il latte. || He takes the carton and, without looking, opens the cupboard and puts the milk inside it.
-NARRATORE: Poi prende la zuccheriera e la mette nel frigorifero. || Then he takes the sugar bowl and puts it in the fridge.
-EMMA [occhi al cielo]: Papà. Che cosa stai facendo? || Dad. What are you doing?
-BEN: Sto... preparando la colazione? || I'm... making breakfast?
-EMMA: Il latte va nel frigo. Non con i biscotti. || Milk goes in the fridge. Not with the biscuits.
-BEN: Ah. Eh. Certo. Lo sapevo. || Ah. Um. Of course. I knew that.
-LEO [entra in cucina]: Papà, perché lo zucchero sta al freddo? || Dad, why is the sugar in the cold?
-BEN: Perché... è una ricetta nuova. Una ricetta americana. || Because... it's a new recipe. An American recipe.
-LEO: Ah! E come si chiama? || Ah! And what's it called?
-BEN: Si chiama... "colazione distratta". || It's called... "distracted breakfast".
-LEO [ride]: Mi piace! La facciamo sempre? || I like it! Shall we make it every day?
-BEN: No. Speriamo di no. || No. Let's hope not.
-NARRATORE: Leo ride e batte le mani. Per lui è come un premio. || Leo laughs and claps his hands. For him it's like a prize.
-NARRATORE: Chiara prende la tazza, guarda Ben e si ferma un secondo. || Chiara picks up her cup, looks at Ben and stops for a second.
-CHIARA: Ben, sei **nervoso** stamattina? || Ben, are you **nervous** this morning?
-BEN [troppo veloce]: Io? **Nervoso**? No. Sto benissimo. **Perfetto**. || Me? **Nervous**? No. I'm absolutely fine. **Perfect**.
-CHIARA: Hai messo il latte nella credenza. || You put the milk in the cupboard.
-BEN: È colpa della **neve**. Mi confonde. || It's the **snow**'s fault. It confuses me.
-CHIARA: La **neve** confonde tutti, Ben. Ma non manda il latte a vivere con i biscotti. || **Snow** confuses everyone, Ben. But it doesn't send the milk to live with the biscuits.
-EMMA [ride]: Questa è bella. Mamma, questa è bella. || That one's good. Mum, that one's good.
-CHIARA: Grazie, Emma. Allora, il **dibattito**? Hai scelto l'argomento? || Thanks, Emma. So, the **debate**? Have you chosen the topic?
-EMMA: Sì. L'ho **scelto** ieri sera in treno. || Yes. I **chose** it last night on the train.
-CHIARA: E qual è? || And what is it?
-EMMA: "Meglio **restare** o **partire**?" || "Is it better to **stay** or to **leave**?"
-NARRATORE: In cucina c'è silenzio per due secondi. Ben smette di respirare. || In the kitchen there's silence for two seconds. Ben stops breathing.
-CHIARA: Bella domanda. Davvero. || Good question. Really.
-EMMA: È la prima che mi è venuta in mente. || It's the first one that came to mind.
-CHIARA: E tu che cosa pensi? Meglio **restare** o **partire**? || And what do you think? Is it better to **stay** or to **leave**?
-EMMA [scrolla le spalle]: Boh. Dipende. Tipo, con una vita qui... **resti**. || Dunno. It depends. Like, with a life here... you **stay**.
-NARRATORE: Ben ascolta quella frase con il bicchiere a mezz'aria. || Ben hears that sentence with his glass in mid-air.
-EMMA: Senza niente qui... **parti**. || With nothing here... you **leave**.
-LEO: Io **parto** per Chicago! || I'm **leaving** for Chicago!
-NARRATORE: Tutti si girano verso Leo. Leo sta mangiando un biscotto con calma. || Everyone turns towards Leo. Leo is calmly eating a biscuit.
-CHIARA: Leo, perché Chicago? || Leo, why Chicago?
-LEO: Perché a Chicago **la neve** è più alta. L'ha detto papà. || Because in Chicago **the snow** is deeper. Dad said so.
-BEN [si alza di colpo]: Io non ho detto questo. Cioè, sì. Ma non così. || I didn't say that. I mean, yes. But not like that.
-LEO: L'hai detto ieri, in macchina. || You said it yesterday, in the car.
-BEN: Ieri... parlavamo della **neve**. Solo della **neve**. || Yesterday... we were talking about **snow**. Only about **snow**.
-CHIARA [lo guarda]: Ben, ti senti bene? Sei pallido. || Ben, do you feel all right? You're pale.
-BEN: Sto bene. È che... || I'm fine. It's just that...
-NARRATORE: Ben apre la bocca. Guarda Chiara. Sembra che stia per dire qualcosa di importante. || Ben opens his mouth. He looks at Chiara. It looks like he's about to say something important.
-CHIARA: È che...? || It's just that...?
-LEO [di corsa]: Ho dimenticato la merenda! Torno subito! || I forgot my snack! I'll be right back!
-NARRATORE: Leo esce di corsa dalla cucina e la porta si chiude con un colpo. || Leo runs out of the kitchen and the door slams shut.
-NARRATORE: Ben chiude la bocca. Il momento è passato. || Ben closes his mouth. The moment has passed.
-CHIARA: Che cosa volevi dire? || What did you want to say?
-BEN: Niente. Che il caffè è buono. Il caffè è molto buono. || Nothing. That the coffee's good. The coffee's very good.
-NARRATORE: Ben alza gli occhi dal tavolo e la guarda. || Ben raises his eyes from the table and looks at her.
-CHIARA [dubbiosa]: Va bene. Ma **voglio che** tu mi dica una cosa. || All right. But **I want** you to tell me something.
-BEN [si blocca]: Cosa? || What?
-CHIARA: **Voglio che** tu mi guardi negli occhi quando parli con me. || **I want** you to look me in the eye when you talk to me.
-BEN: Ti sto guardando. Ti guardo sempre. || I'm looking at you. I always look at you.
-CHIARA: No. Stamattina guardi il telefono. || No. This morning you're looking at the phone.
-NARRATORE: Emma prende lo zaino e le cuffie e si avvicina alla porta. || Emma picks up her backpack and her headphones and goes to the door.
-EMMA: Raga, io **parto**. Il treno non aspetta. || Guys, I'm **leaving**. The train doesn't wait.
-CHIARA: Emma, il pranzo! È nel frigo, in una busta blu. || Emma, your lunch! It's in the fridge, in a blue bag.
-EMMA: Ok. Ciao. Papà, ciao. Mangia qualcosa, dai. || OK. Bye. Dad, bye. Eat something, come on.
-BEN: Ciao, tesoro. Buona giornata. || Bye, sweetheart. Have a good day.
-NARRATORE: Emma esce. Chiara prende il cappotto e le chiavi, poi si gira di nuovo. || Emma goes out. Chiara takes her coat and her keys, then turns round again.
-CHIARA: Ben, ascoltami. Ti osservo da tre giorni. || Ben, listen to me. I've been watching you for three days.
-BEN: Tre giorni? Come tre giorni? || Three days? What do you mean, three days?
-CHIARA: Da lunedì sei strano. Metti le cose nel posto sbagliato. Non ridi. || Since Monday you've been strange. You put things in the wrong place. You don't laugh.
-BEN: Rido. Ho riso ieri. || I laugh. I laughed yesterday.
-CHIARA: Ieri sera no. Ieri sera hai guardato il muro per mezz'ora. || Not last night. Last night you stared at the wall for half an hour.
-BEN [cerca di scherzare]: Il muro è interessante. È un bel muro. || The wall is interesting. It's a nice wall.
-CHIARA: Non cambiare discorso. || Don't change the subject.
-NARRATORE: Chiara si avvicina e gli mette una mano sulla spalla. || Chiara comes closer and puts a hand on his shoulder.
-CHIARA: Ma io **preferisco che** tu me lo dica. Subito, però. || But **I'd prefer** you to tell me. Right away, though.
-BEN: Lo so. E ci sto pensando. Ci penso da tre giorni. || I know. And I'm thinking about it. I've been thinking about it for three days.
-CHIARA: Allora c'è qualcosa. || So there is something.
-BEN [chiude gli occhi]: C'è qualcosa. Ma non adesso. Stasera. || There is something. But not now. Tonight.
-CHIARA: Stasera sono a Milano fino alle sette. || Tonight I'm in Milan until seven.
-BEN: Dopo cena, allora. Ti **spiego** tutto dopo cena. || After dinner, then. I'll **explain** everything after dinner.
-NARRATORE: Chiara lo guarda a lungo. Poi annuisce, lentamente. || Chiara looks at him for a long time. Then she nods, slowly.
-CHIARA: Dopo cena. E non voglio scuse. || After dinner. And I don't want excuses.
-BEN: Niente scuse. Parola mia. || No excuses. My word.
-CHIARA: E **non voglio che** la cena salti perché Leo ha perso lo zaino. || And **I don't want** dinner to be skipped because Leo has lost his backpack.
-BEN [sorride]: Questo non te lo posso promettere. || That I can't promise you.
-NARRATORE: Chiara apre la porta e il freddo entra in cucina. || Chiara opens the door and the cold comes into the kitchen.
-NARRATORE: Chiara sorride per la prima volta. Prende la borsa ed esce. || Chiara smiles for the first time. She takes her bag and goes out.
-NARRATORE: La porta si chiude. In casa resta solo Ben, con la cucina in disordine. || The door closes. Only Ben is left in the house, with the kitchen in a mess.
-NARRATORE: Fuori **la neve** cade sempre, lenta e silenziosa. || Outside **the snow** keeps falling, slow and silent.
-NARRATORE: Ben prende il telefono, si siede al tavolo e apre di nuovo l'**email**. || Ben picks up the phone, sits down at the table and opens the **email** again.
-BEN [legge ad alta voce]: "Caro Ben, la nostra **azienda** ha una **sede** nuova a Chicago." || "Dear Ben, our **company** has a new **office** in Chicago."
-BEN: "E il consiglio **chiede che** tu **torni** come **direttore** del marketing." || "And the board **is asking that** you **come back** as marketing **director**."
-BEN [piano]: "**Chiede che** tu **torni**." Ecco la frase. È tutta qui. || "**It's asking that** you **come back**." There's the sentence. That's the whole thing.
-NARRATORE: Ben appoggia il telefono sul tavolo e guarda la cucina. || Ben sets the phone down on the table and looks at the kitchen.
-BEN: "**Vogliono che** io **torni**. **Vogliono che** io **torni** a Chicago." || "**They want** me to **come back**. **They want** me to **come back** to Chicago."
-BEN: "Lo **stipendio** è il doppio. La **sede** è a dieci minuti da casa mia." Diamine. || "The **salary** is double. The **office** is ten minutes from my house." Wow.
-NARRATORE: In tre giorni Ben ha letto questa **email** più di venti volte. || In three days Ben has read this **email** more than twenty times.
-NARRATORE: L'ha **nascosta** a tutti. Non è stato difficile: nessuno guarda il suo telefono. || He has **hidden** it from everyone. It wasn't hard: nobody looks at his phone.
-BEN: Però è un **segreto** pesante. Da solo non riesco a portarlo. || But it's a heavy **secret**. On my own I can't carry it.
-NARRATORE: Sul tavolo c'è un foglio e una penna, quelli che Ben usa per le ricette. || On the table there's a sheet of paper and a pen, the ones Ben uses for recipes.
-BEN [scrive]: Allora. Prima cosa: il **futuro** in Italia. Seconda cosa: il **futuro** a Chicago. || All right. First thing: the **future** in Italy. Second thing: the **future** in Chicago.
-BEN: E in mezzo ci sono io, che devo **decidere** e che non riesco a **scegliere**. || And in the middle there's me, who has to **decide** and who can't manage to **choose**.
-NARRATORE: Il telefono vibra sul tavolo. È un numero di Chicago con il prefisso internazionale. || The phone buzzes on the table. It's a Chicago number with the international code.
-BEN [guarda lo schermo]: Una **telefonata**. Adesso. Proprio adesso. || A **phone call**. Now. Right now.
-BEN: No. Oggi no. || No. Not today.
-NARRATORE: Lascia suonare. Alla decima vibrazione, la **telefonata** finisce. || He lets it ring. At the tenth buzz, the **phone call** ends.
-NARRATORE: Ben respira, chiude gli occhi e resta immobile nella cucina vuota. || Ben breathes, closes his eyes and stays motionless in the empty kitchen.
-NARRATORE: Poi guarda l'**offerta** sul tavolo e dice una cosa a voce alta, da solo. || Then he looks at the **offer** on the table and says something out loud, to himself.
-BEN: La **proposta** di lavoro è perfetta. Io non sono perfetto. || The **job offer** is perfect. I'm not perfect.
-NARRATORE: Ma la cosa più difficile non è la proposta. È dirlo a Chiara. || But the hardest thing isn't the proposal. It's telling Chiara.
+# SCENE casa-carter | martedì mattina, sette e dieci | ben, chiara, emma, leo
+NARRATORE: Martedì mattina, sette e dieci. In cucina c'è solo Ben. || Tuesday morning, ten past seven. Only Ben is in the kitchen.
+NARRATORE: Sul tavolo c'è il portatile, aperto sulla stessa pagina da tre giorni. || On the table is the laptop, open on the same page for three days.
+BEN [piano, legge]: "Caro Ben, abbiamo una **proposta di lavoro** per te." || "Dear Ben, we have a **job proposal** for you."
+BEN: "**Vogliamo che** tu **torni** a Chicago." || "**We want** you **to come back** to Chicago."
+BEN: "**Chiediamo che** tu **cominci** a **marzo**." || "**We're asking** you **to start** in **March**."
+BEN: "**Desideriamo che** tu **dia** una risposta entro febbraio." || "**We'd like** you **to give** an answer by February."
+BEN: "**Lo stipendio** **raddoppia**. **La sede** è la stessa di prima." || "**The salary** **doubles**. **The office** is the same as before."
+BEN: "**La promozione** è già tua. **L'azienda** paga tutto." || "**The promotion** is already yours. **The company** pays for everything."
+BEN: "**Il contratto** aspetta solo la tua **firma**." || "**The contract** is just waiting for your **signature**."
+NARRATORE: Ben chiude gli occhi, li riapre e guarda di nuovo lo schermo. || Ben closes his eyes, opens them again and looks at the screen again.
+NARRATORE: Poi legge l'ultima riga, quella che gli piace e gli fa paura insieme. || Then he reads the last line, the one he likes and that frightens him at the same time.
+BEN [sottovoce]: "Vogliamo che la squadra torni quella di prima." || "We want the team to go back to how it was."
+NARRATORE: L'**email** è ancora lì, in fondo alla casella, con la data di tre giorni fa. || The **email** is still there, at the bottom of the inbox, dated three days ago.
+NARRATORE: In fondo al **messaggio** c'è la firma di Michael. || At the bottom of the **message** is Michael's signature.
+NARRATORE: Michael è stato il suo **capo** per dodici anni, a Chicago. || Michael was his **boss** for twelve years, in Chicago.
+BEN [a se stesso]: "**Un'offerta** così non arriva due volte nella vita." || "**An offer** like this doesn't come twice in a lifetime."
+BEN: "E **il trasferimento** lo pagano loro. Tutto. Anche la casa." || "And **the move** is on them. Everything. The house too."
+NARRATORE: Fuori dalla finestra il cielo è grigio. Siamo a fine gennaio. || Outside the window the sky is grey. It's late January.
+NARRATORE: Sul telefono, il meteo di Chicago dice una parola sola: **neve**. || On the phone, the Chicago weather says one word only: **snow**.
+BEN [sospira]: Chicago. La **neve**, il lago, il traffico. || Chicago. The **snow**, the lake, the traffic.
+BEN: E un **futuro** che conosco già. || And a **future** I already know.
+NARRATORE: Ben sente dei passi sulla scala e chiude il portatile di colpo. || Ben hears footsteps on the stairs and slams the laptop shut.
+NARRATORE: In cucina entra Chiara, già vestita, con la borsa sulla spalla. || Chiara comes into the kitchen, already dressed, with her bag on her shoulder.
+CHIARA [di fretta]: Buongiorno. Il caffè è pronto? || Morning. Is the coffee ready?
+BEN: Pronto. Sul tavolo. C'è anche il pane. || Ready. On the table. There's bread too.
+CHIARA: Grazie. Oggi ho una riunione alle nove e mezza. || Thanks. Today I have a meeting at half past nine.
+CHIARA: Marchetti **vuole che** io presenti il progetto della nuova **sede** dello studio. || Marchetti **wants** me **to** present the plans for the studio's new **office**.
+BEN: Ah. Bene. || Ah. Good.
+CHIARA: Come sarebbe "bene"? È una bella notizia. || What do you mean, "good"? It's good news.
+BEN: Sì, sì. Volevo dire: brava. || Yes, yes. I meant: well done.
+CHIARA: Ah, e ha detto un'altra cosa. || Oh, and he said something else.
+CHIARA: **Vuole che** io resti a Milano anche il sabato, ogni tanto. || He **wants** me **to** stay in Milan on Saturdays too, now and then.
+BEN [lento]: Ah. Ogni tanto. || Ah. Now and then.
+CHIARA: Solo ogni tanto. Non sempre. || Only now and then. Not always.
+NARRATORE: Ben pensa a Chicago, a sette ore di volo da quella cucina. || Ben thinks about Chicago, seven hours' flight from that kitchen.
+NARRATORE: Chiara prende la tazza e lo guarda per un momento. || Chiara takes her cup and looks at him for a moment.
+CHIARA: Tu come stai? || How are you?
+BEN: Bene. Tutto bene. || Fine. All fine.
+CHIARA [ridendo]: "Tutto bene" detto così non è mai una buona notizia. || "All fine" said like that is never good news.
+BEN: È una buona notizia. Sono un uomo fortunato. || It is good news. I'm a lucky man.
+NARRATORE: Chiara sorride, ma continua a guardarlo. || Chiara smiles, but keeps looking at him.
+NARRATORE: Ben apre la bocca. Le mani gli tremano un po' sul tavolo. || Ben opens his mouth. His hands tremble a little on the table.
+BEN [lento]: Senti… ci sarebbe una cosa che… || Listen… there's something that…
+NARRATORE: In quel momento la porta della cucina si apre con un colpo. || At that moment the kitchen door bangs open.
+LEO [forte]: Buongiorno! Che cosa c'è per colazione? || Morning! What's for breakfast?
+BEN [sorpreso]: Pancake! || Pancakes!
+LEO: Ancora? || Again?
+BEN: I pancake sono una colazione americana. || Pancakes are an American breakfast.
+LEO: Lo so. Ma noi siamo in Italia. || I know. But we're in Italy.
+NARRATORE: Leo guarda i pancake con sospetto, poi ne prende due. || Leo looks at the pancakes suspiciously, then takes two.
+LEO: Papà, perché i pancake si chiamano pancake? || Dad, why are pancakes called pancakes?
+BEN: Perché sono americani. || Because they're American.
+LEO: E allora perché si mangiano in Italia? || So why do people eat them in Italy?
+BEN: Perché io vivo in Italia. || Because I live in Italy.
+LEO: Ah. Allora sono italiani. || Ah. So they're Italian.
+NARRATORE: Ben non sa che cosa rispondere. || Ben doesn't know what to answer.
+CHIARA: Leo, il succo è nel frigo. E non mangiare in piedi. || Leo, the juice is in the fridge. And don't eat standing up.
+LEO: Perché? || Why?
+CHIARA: Perché siamo in Italia. || Because we're in Italy.
+NARRATORE: Leo ride. Gli piace molto questa risposta. || Leo laughs. He really likes that answer.
+NARRATORE: Sulla scala arrivano i passi di Emma, veloci e pesanti. || On the stairs come Emma's footsteps, fast and heavy.
+EMMA [secca]: Buongiorno. Dov'è la penna? || Morning. Where's the pen?
+BEN: Quale penna? || Which pen?
+EMMA: Papà, ti ho lasciato un modulo sul tavolo ieri sera. || Dad, I left you a form on the table last night.
+BEN [cerca]: Il modulo… il modulo… || The form… the form…
+EMMA: È il modulo per la gita a Torino. Scade oggi. || It's the form for the Turin trip. It's due today.
+BEN: Ah! Sì! Ecco. || Ah! Yes! Here it is.
+EMMA: E devi **firmare** qui. Sotto, a destra. || And you have to **sign** here. Below, on the right.
+BEN: Aspetta, devo leggere. || Wait, I have to read it.
+EMMA [sbuffa]: Dai, papà. Il treno è alle sette e cinquanta. || Come on, Dad. The train's at ten to eight.
+NARRATORE: Ben cerca gli occhiali, non li trova, e firma dove indica Emma. || Ben looks for his glasses, can't find them, and signs where Emma points.
+BEN: **Firmato**. Perfetto. || **Signed**. Perfect.
+EMMA: Grazie. Ciao. || Thanks. Bye.
+NARRATORE: Emma esce senza guardare nessuno. La porta si chiude. || Emma leaves without looking at anyone. The door closes.
+CHIARA: Devo andare anch'io. Leo, la giacca. || I have to go too. Leo, your jacket.
+LEO: Ce l'ho. || I've got it.
+CHIARA: La giacca, Leo. || Your jacket, Leo.
+NARRATORE: Leo prende la giacca con la mano sinistra e la merenda con la destra. || Leo picks up his jacket with his left hand and his snack with his right.
+LEO: Mamma, in Italia si dice "merenda"? || Mum, in Italy do you say "merenda"?
+CHIARA: Sì, si dice merenda. Bravo. || Yes, you say merenda. Good boy.
+LEO [a Ben]: Bravo, papà! || Well done, Dad!
+BEN [confuso]: Grazie? || Thanks?
+NARRATORE: Chiara prende la borsa, il telefono, le chiavi. || Chiara picks up her bag, her phone, her keys.
+NARRATORE: Poi si ferma sulla porta e si gira. || Then she stops at the door and turns around.
+CHIARA: Stamattina sei strano. || You're strange this morning.
+BEN [troppo veloce]: No, no. Sono normale. || No, no. I'm normal.
+CHIARA: Normalmente non fai i pancake alle sette del mattino. || Normally you don't make pancakes at seven in the morning.
+BEN: Volevo fare una sorpresa. || I wanted to surprise you.
+CHIARA [lo guarda ancora]: Va bene. Ci vediamo stasera. || Alright. See you tonight.
+NARRATORE: Chiara esce. La casa diventa silenziosa. || Chiara leaves. The house goes quiet.
+NARRATORE: Ben resta solo in mezzo alla cucina, con il portatile ancora chiuso davanti a lui. || Ben is left alone in the middle of the kitchen, with the laptop still closed in front of him.
+NARRATORE: Sul davanzale c'è il gatto di Ornella, Pavarotti. Lo guarda. || On the windowsill is Ornella's cat, Pavarotti. He's watching him.
+BEN [al gatto]: Che cosa vuoi? || What do you want?
+NARRATORE: Il gatto non risponde. Continua a guardarlo. || The cat doesn't answer. He keeps watching him.
+BEN: Non guardarmi così. Non è una decisione semplice. || Don't look at me like that. It's not a simple decision.
+NARRATORE: Pavarotti miagola, una volta sola, e Ben chiude la tenda. || Pavarotti miaows, just once, and Ben closes the curtain.
+BEN [sottovoce]: Perfetto. || Perfect.
+NARRATORE: Ma in casa non c'è più nessuno. || But there's nobody left in the house.
 
 # CONFESSIONALE ben
-BEN [guarda la telecamera]: Ok. Allora. Devo dire una cosa e non so da dove cominciare. || OK. Right. I have to say something and I don't know where to start.
-BEN: Comincio dall'inizio. Tre giorni fa è arrivata un'**email**. || I'll start from the beginning. Three days ago an **email** arrived.
-BEN: Da Chicago. Dalla mia vecchia **azienda**. || From Chicago. From my old **company**.
-NARRATORE: Ben prende il telefono e lo mette davanti alla telecamera, anche se nessuno può leggere. || Ben picks up his phone and holds it in front of the camera, even though nobody can read it.
-BEN: Leggo le parti importanti, così facciamo prima. || I'll read the important parts, so we get there faster.
-BEN: "Caro Ben, la nostra **sede** ha bisogno di te come **direttore** del marketing." || "Dear Ben, our **office** needs you as marketing **director**."
-BEN: **Direttore**. Io. Il **direttore** del marketing. || **Director**. Me. The marketing **director**.
-BEN: Nella **proposta di lavoro** c'è scritto tutto, parola per parola. || In the **job offer** everything is written down, word for word.
-BEN: Lo **stipendio** **raddoppia**. **Raddoppia**! Il doppio di quello che **guadagno** adesso. || The **salary** **doubles**. **Doubles**! Double what I **earn** now.
-BEN: E non è tutto. Casa. Macchina. Il **trasferimento** pagato dalla **azienda**. || And that's not all. House. Car. The **move** paid for by the **company**.
-BEN: **Chiedono che** io cominci a marzo. **Chiedono che** io firmi un **contratto** di tre anni. || **They're asking that** I start in March. **They're asking that** I sign a three-year **contract**.
-BEN: Un **contratto** di tre anni. Tre. Non tre settimane. Tre anni. || A three-year **contract**. Three. Not three weeks. Three years.
-BEN: Ecco l'**offerta**. Tutta qui, in quaranta parole di inglese. || That's the **offer**. All here, in forty words of English.
-NARRATORE: Ben appoggia il telefono e respira. Guarda la telecamera per qualche secondo. || Ben sets down the phone and breathes. He looks at the camera for a few seconds.
-BEN: Adesso la **verità**. La **verità** è che io **desidero che** la mia famiglia **resti** qui. || Now the **truth**. The **truth** is that I **wish** my family **would stay** here.
-BEN: Io non **desidero che** Emma e Leo **si trasferiscano**. Non **desidero che** Emma cambi scuola di nuovo. || I don't **wish** Emma and Leo **would move**. I don't **wish** Emma would change schools again.
-BEN: E non **voglio che** Chiara lasci il suo studio. È la sua **promozione**, non la mia. || And I don't **want** Chiara to leave her studio. It's her **promotion**, not mine.
-BEN: Però loro **si trasferirebbero**. Per me. Per un lavoro. || But they **would move**. For me. For a job.
-BEN: E questo è il **trasferimento** che mi fa paura. Non quello di Chicago. Quello di casa mia. || And that's the **move** that scares me. Not the one to Chicago. The one in my own house.
-BEN [ride male]: Io sono **nervoso** da tre giorni. Tre giorni interi. || I've been **nervous** for three days. Three whole days.
-BEN: Chi l'ha capito? Nessuno. Be', Emma. Emma l'ha capito subito. || Who worked it out? Nobody. Well, Emma. Emma worked it out right away.
-BEN: Emma mi guarda e capisce tutto. No, non posso dirlo così. || Emma looks at me and understands everything. No, I can't say it like that.
-BEN: Emma mi guarda e capisce. È la cosa più bella e la cosa più fastidiosa del mondo. || Emma looks at me and understands. It's the most beautiful and the most annoying thing in the world.
-BEN: Chiara invece no. Chiara è **nervosa** anche lei, ma per il lavoro suo. || Chiara doesn't, though. Chiara is **nervous** too, but about her own work.
-BEN: Io **nascondo** questa storia da tre giorni e nessuno mi ha chiesto niente. || I've been **hiding** this thing for three days and nobody has asked me anything.
-BEN: Un **segreto** è facile quando nessuno ti guarda. E qui tutti guardano sempre. Tranne me. || A **secret** is easy when nobody's watching you. And here everyone always watches. Except me.
-BEN: Il mio **futuro** qui è piccolo. Ma è mio, e lo conosco. || My **future** here is small. But it's mine, and I know it.
-BEN: Il mio **futuro** a Chicago è grande. Ma non è mio. È scritto da altre persone. || My **future** in Chicago is big. But it isn't mine. It's written by other people.
-BEN: Quindi devo **decidere**. E devo **decidere** in fretta, perché loro vogliono una risposta. || So I have to **decide**. And I have to **decide** fast, because they want an answer.
-BEN [si gratta la testa]: Il problema è che io **preferisco che** Chiara lo sappia prima di tutti. || The problem is that I **prefer** Chiara to know before anyone else.
-BEN: Prima di Franco. Prima di Matteo. Prima di tutta la Via dei Tigli. || Before Franco. Before Matteo. Before the whole of Via dei Tigli.
-BEN: E invece sono qui, davanti a una telecamera, a dirlo a voi. || And instead I'm here, in front of a camera, saying it to you.
-BEN [sospira]: Stasera. Stasera dopo cena glielo dico. **Desidero che** sia stasera. || Tonight. Tonight after dinner I'll tell her. I **wish** it would be tonight.
-BEN: Però lo dicevo anche ieri sera. E lunedì sera. || Though I said that last night too. And Monday night.
-BEN [guarda in basso]: Quindi niente. Non ho ancora detto niente a nessuno. || So, nothing. I still haven't said anything to anyone.
-BEN [alza le mani]: Fine della confessione. Torno a lavorare. Ci sono tre caffè da buttare. || End of the confession. Back to work. There are three coffees to throw away.
+BEN [sorride, come davanti a una telecamera]: Allora. Ascoltate questa. || So. Listen to this.
+BEN: Tre giorni fa arriva un'**email**. || Three days ago an **email** arrives.
+BEN: Un'**email** bellissima. Un **messaggio** semplice, cortese, chiaro. || A beautiful **email**. A simple, polite, clear **message**.
+BEN: La scrive Michael. Michael era il mio **capo** per dodici anni. || Michael writes it. Michael was my **boss** for twelve years.
+BEN: Leggete qui. "Abbiamo una **proposta di lavoro** per te." || Read this. "We have a **job proposal** for you."
+BEN: "**L'azienda** **vuole che** tu **torni**." || "**The company** **wants** you **to come back**."
+BEN: "**Desideriamo che** tu **cominci** a **marzo**." || "**We'd like** you **to start** in **March**."
+BEN: E poi: "**Lo stipendio** **raddoppia**." || And then: "**The salary** **doubles**."
+BEN: **Raddoppia**. Capite? Due volte. Due. || It **doubles**. You understand? Two times. Two.
+BEN: E non è tutto. "**Il contratto** aspetta solo la tua **firma**." || And that's not all. "**The contract** is just waiting for your **signature**."
+BEN: **La sede** è la stessa. **La promozione** è già mia. || **The office** is the same. **The promotion** is already mine.
+BEN: La casa la paga **l'azienda**. Anche la macchina. || **The company** pays for the house. The car too.
+BEN: È **un'offerta** da sogno. È il lavoro che avevo prima, ma più grande. || It's **a dream offer**. It's the job I had before, but bigger.
+NARRATORE: Ben smette di sorridere e guarda il tavolo per un secondo. || Ben stops smiling and looks at the table for a second.
+BEN: E allora perché non l'ho ancora detto a Chiara? || So why haven't I told Chiara yet?
+BEN: Non lo so. Questo è il problema. Non lo so. || I don't know. That's the problem. I don't know.
+BEN: Ho un **dubbio**, e il **dubbio** non ha una risposta. || I have a **doubt**, and the **doubt** has no answer.
+BEN [più piano]: **Il trasferimento** è una parola italiana. L'ho imparata qui, in Italia. || **The move** is an Italian word. I learned it here, in Italy.
+BEN: Prima non mi serviva. Adesso mi serve, e non mi piace. || Before, I didn't need it. Now I need it, and I don't like it.
+BEN: Forse **spero che** qualcuno **decida** per me. || Maybe **I hope** somebody will **decide** for me.
+BEN: Forse **preferisco che** la scelta la faccia Chiara. || Maybe **I prefer** Chiara to make the choice.
+BEN: Ma non funziona così. Lo so che non funziona così. || But it doesn't work like that. I know it doesn't work like that.
+BEN: E a Chicago, in questo momento, c'è la **neve**. || And in Chicago, right now, there's **snow**.
+BEN [ride, senza voglia]: Un **segreto** non è mai un buon piano. Lo dice anche mia figlia. || A **secret** is never a good plan. My daughter says that too.
+BEN: Piano perfetto. Solo che non ho un piano. || Perfect plan. Only I don't have a plan.
 
-# SCENE bar-tigli | martedì, tarda mattinata | ben, matteo, nadia
-NARRATORE: Nel Bar Tigli ci sono due pensionati, un cane e un americano che non sta bene. || In Bar Tigli there are two pensioners, a dog and an American who isn't well.
-NARRATORE: Sono le dieci e mezza. Fuori **la neve** si è fermata, ma il marciapiede è ancora bianco. || It's half past ten. Outside **the snow** has stopped, but the pavement is still white.
-NARRATORE: Ben asciuga lo stesso bicchiere da dieci minuti. || Ben has been drying the same glass for ten minutes.
-MATTEO [dal retro]: Ben, quel bicchiere è asciutto da un pezzo. || Ben, that glass has been dry for a while.
-BEN [si sveglia]: Ah. Sì. Scusa. || Ah. Yes. Sorry.
-MATTEO: E hai buttato tre caffè. Tre. Li ho contati. || And you've thrown away three coffees. Three. I counted them.
-BEN: Tre? Non me ne sono accorto. || Three? I didn't notice.
-MATTEO: Appunto. Di solito tu te ne accorgi di tutto. Sei quello che saluta tutti per nome. || Exactly. Usually you notice everything. You're the one who greets everyone by name.
-BEN: Oggi saluto meno. || Today I'm greeting less.
-MATTEO: Oggi saluti meno e asciughi più. Sei **nervoso**. || Today you're greeting less and drying more. You're **nervous**.
-BEN: Non sono **nervoso**. Sono... riflessivo. || I'm not **nervous**. I'm... thoughtful.
-MATTEO: Ah, riflessivo. Bello. E su che cosa rifletti, se posso chiedere? || Ah, thoughtful. Nice. And what are you thinking about, if I may ask?
-BEN [troppo veloce]: Sulla vita. Sul **futuro**. Su niente. || About life. About the **future**. About nothing.
-MATTEO: Hai elencato tre cose e l'ultima era "niente". || You listed three things and the last one was "nothing".
-NARRATORE: Matteo prende una tazzina e la mette sotto la macchina del caffè. || Matteo takes a small cup and puts it under the coffee machine.
-MATTEO: Comunque, bevi questo. È il quarto. Gli altri tre li hai buttati. || Anyway, drink this one. It's the fourth. You threw away the other three.
-BEN [prende la tazzina]: Grazie, Matteo. || Thanks, Matteo.
-NARRATORE: In quel momento la porta si apre e entra Nadia, con Anna in braccio. || At that moment the door opens and Nadia comes in, with Anna in her arms.
-NARRATORE: Anna ha un cappellino rosso e le guance rosse per il freddo. || Anna has a little red hat and red cheeks from the cold.
-NADIA [di fretta]: Buongiorno! Matteo, ho dieci minuti. Il treno **parte** alle undici e dieci. || Morning! Matteo, I've got ten minutes. The train **leaves** at 11:10.
-MATTEO: Ciao, amore. Anna, vieni dal papà. || Hi, love. Anna, come to Daddy.
-NARRATORE: Nadia passa la bambina a Matteo, che se la mette subito sul braccio sinistro. || Nadia hands the little girl to Matteo, who immediately puts her on his left arm.
-MATTEO: Ciao, piccolina. Come stai? Hai mangiato? || Hi, little one. How are you? Have you eaten?
-NADIA [ride]: Ha mangiato alle nove e ha già fame di nuovo. Come te. || She ate at nine and she's hungry again. Like you.
-BEN: Ciao, Nadia. Come va in farmacia? || Hi, Nadia. How are things at the pharmacy?
-NADIA: Ben! Tutto bene, grazie. Anzi, oggi ho una riunione importante. || Ben! All good, thanks. Actually, today I have an important meeting.
-BEN: Ah sì? Con chi? || Oh yes? With whom?
-NADIA: Con il **direttore** nuovo. Vuole parlare con me prima di mezzogiorno. || With the new **director**. He wants to talk to me before noon.
-NARRATORE: Ben mette giù la tazzina senza averla bevuta. || Ben puts down the cup without having drunk it.
-BEN [con troppa curiosità]: Il **direttore**? E che cosa vuole da te? || The **director**? And what does he want from you?
-NADIA: Boh. Forse una **promozione**. Forse **chiede che** io faccia un corso a Milano. || Dunno. Maybe a **promotion**. Maybe **he's asking that** I take a course in Milan.
-NADIA: So che c'è una **occasione** nuova in azienda. Un reparto tutto nuovo. || I know there's a new **opportunity** at the company. A whole new department.
-MATTEO: Una **occasione** o un altro corso? Perché i corsi non si pagano da soli. || An **opportunity** or another course? Because courses don't pay for themselves.
-NADIA: Matteo, non ricominciare. || Matteo, don't start again.
-MATTEO: Io non ricomincio niente. Dico solo che tu **guadagni** già più di me. || I'm not starting anything. I'm just saying that you already **earn** more than me.
-NADIA: E allora? Che problema c'è? || So what? What's the problem?
-MATTEO: Nessun problema. È una cosa buona. Io **resto** qui con Anna, tu **guadagni** bene. Tutto a posto. || No problem. It's a good thing. I **stay** here with Anna, you **earn** well. All fine.
-NARRATORE: Matteo lo dice sorridendo, ma il sorriso non arriva agli occhi. || Matteo says it smiling, but the smile doesn't reach his eyes.
-NADIA [gentile]: Matteo, io **preferisco che** Anna stia con te. Non la lascerei mai con una babysitter. || Matteo, I **prefer** Anna to stay with you. I'd never leave her with a babysitter.
-NADIA: Ma **preferisco** anche lavorare. Sono due cose diverse, non due cose in guerra. || But I also **prefer** to work. They're two different things, not two things at war.
-MATTEO: Lo so. Hai ragione. Sono solo stanco. || I know. You're right. I'm just tired.
-NARRATORE: Ben ascolta tutto con le mani sul bancone, immobile. || Ben listens to everything with his hands on the counter, motionless.
-BEN: Nadia, scusa. Posso fare una domanda stupida? || Nadia, sorry. Can I ask a stupid question?
-NADIA: Prego. || Go ahead.
-BEN: Secondo te, uno cambia lavoro per lo **stipendio** o per altro? || In your opinion, does someone change jobs for the **salary** or for something else?
-NADIA [lo guarda]: Dipende. Il **contratto** conta. La **sede** conta. || It depends. The **contract** matters. The **office** matters.
-NADIA: Ma conta anche quello che vuoi fare della tua vita. Quello conta di più. || But what you want to do with your life matters too. That matters most.
-MATTEO: Ecco. Lei dice sempre le cose giuste. Sempre. Anche quando non le chiedi. || There. She always says the right things. Always. Even when you don't ask.
-NADIA [ride]: Grazie, amore. Credo. || Thanks, love. I think.
-NARRATORE: Ben prende un tovagliolo e comincia a piegarlo. Lo piega male, tre volte. || Ben takes a napkin and starts folding it. He folds it badly, three times.
-BEN [muttering to himself]: E uno che riceve un'**offerta**... cioè, un lavoro in un'altra città? || And someone who receives an **offer**... I mean, a job in another city?
-NADIA: In un'altra città italiana? || In another Italian city?
-BEN: Sì. Italiana. O no. Non importa. || Yes. Italian. Or not. It doesn't matter.
-NADIA: E con uno **stipendio** che **raddoppia**? || And with a **salary** that **doubles**?
-BEN [sorpreso]: Come lo sai che **raddoppia**? || How do you know it **doubles**?
-NARRATORE: Nadia e Matteo si guardano. Poi guardano Ben. || Nadia and Matteo look at each other. Then they look at Ben.
-NADIA [lenta]: Perché l'hai detto tu, Ben. Hai detto "che **raddoppia**". || Because you said it, Ben. You said "that **doubles**".
-BEN [rosso]: Ah. Sì. L'ho detto io. È un esempio. Un esempio di **stipendio**. || Ah. Yes. I said it. It's an example. A **salary** example.
-MATTEO: Un esempio con la parola "**raddoppia**" dentro. Molto preciso. || An example with the word "**doubles**" in it. Very precise.
-NARRATORE: Ben piega di nuovo il tovagliolo. Adesso il tovagliolo è un quadratino minuscolo. || Ben folds the napkin again. Now the napkin is a tiny little square.
-NADIA: Ben, tu hai un'**offerta** di lavoro, vero? || Ben, you have a **job offer**, don't you?
-BEN [troppo veloce]: No! Cioè, non io. Un amico. Un amico che vive in Italia. || No! I mean, not me. A friend. A friend who lives in Italy.
-NADIA: Ah. E questo amico ha un **contratto** con una **sede** lontana? || Ah. And this friend has a **contract** with a distant **office**?
-BEN: Sì. No. Boh. Senti, è complicato. || Yes. No. Dunno. Listen, it's complicated.
-MATTEO [appoggia Anna sul seggiolone]: Ben, io ti conosco da cinque anni. || Ben, I've known you for five years.
-BEN: Cinque anni e mezzo. || Five and a half.
-MATTEO: Cinque anni e mezzo. E in cinque anni e mezzo non ti ho mai sentito dire "un amico". || Five and a half. And in five and a half years I've never heard you say "a friend".
-BEN: Allora diciamo "un collega". || Then let's say "a colleague".
-MATTEO: Peggio. Molto peggio. || Worse. Much worse.
-NARRATORE: Anna batte le mani sul tavolino del seggiolone e ride, senza capire niente. || Anna claps her hands on the high chair tray and laughs, understanding nothing.
-MATTEO [serio]: Ben, ascoltami bene. **Spero che** tu non mi stia **nascondendo** qualcosa. || Ben, listen to me carefully. **I hope** you're not **hiding** something from me.
-BEN [ride male]: Io? **Nascondere**? A te? Ma no. Ma scherzi? || Me? **Hiding**? From you? No way. Are you kidding?
-MATTEO: Vedi, quando dici così, muovi le mani in un modo strano. || See, when you say that, you move your hands in a strange way.
-BEN: Le mani le muovo sempre. Sono italiano dentro. || I always move my hands. I'm Italian inside.
-NADIA [ride]: Questo è vero. Però è anche vero che muovi le mani ancora di più quando menti. || That's true. But it's also true that you move your hands even more when you lie.
-BEN: Io non mento! Io... ho un progetto! || I'm not lying! I... have a project!
-MATTEO: Ah! Un progetto. Racconta. || Ah! A project. **Tell** us.
-BEN: Dunque. Un corso di cucina. A Milano. Con una **sede** mia. || Well. A cooking course. In Milan. With my own **office**.
-MATTEO: Una **sede** tua? Ma tu cucini qui, nel mio bar. || Your own **office**? But you cook here, in my bar.
-BEN: Appunto. Ma un giorno potrei **trasferirmi** a Milano. Cioè, il corso. || Exactly. But one day I could **move** to Milan. I mean, the course.
-MATTEO: Il corso **si trasferisce**? || The course **moves**?
-BEN: Sì. No. Il corso resta. Senti, mi sono confuso. || Yes. No. The course stays. Listen, I got confused.
-NADIA [lo guarda negli occhi]: Ben, quando ti confondi così, di solito è perché stai **decidendo** qualcosa di grande. || Ben, when you get confused like this, it's usually because you're **deciding** something big.
-BEN [si blocca]: Sto solo **scegliendo** il nome del corso. || I'm just **choosing** the name of the course.
-NADIA: E come si chiama? || And what's it called?
-BEN [disperato]: "Cucina americana per italiani coraggiosi". || "American cooking for brave Italians".
-NARRATORE: Matteo scoppia a ridere. Nadia lo segue. Anche Anna ride, perché ridono tutti. || Matteo bursts out laughing. Nadia follows. Anna laughs too, because everyone's laughing.
-MATTEO: Ok, questa è bella. Questa è proprio bella. || OK, that one's good. That one's really good.
-NARRATORE: Nadia guarda l'orologio e si alza di colpo. || Nadia looks at her watch and stands up suddenly.
-NADIA: Oddio! Il treno! **Parto** adesso o **parto** domani. || Oh God! The train! I **leave** now or I **leave** tomorrow.
-MATTEO: Vai, vai. Anna sta con me. || Go, go. Anna's with me.
-NADIA [bacia Anna]: Ciao, tesoro. La mamma torna stasera. || Bye, sweetheart. Mummy's coming back tonight.
-NARRATORE: Nadia bacia Matteo sulla guancia e corre verso la porta. || Nadia kisses Matteo on the cheek and runs to the door.
-NADIA [dalla porta]: Ben, in bocca al lupo per il tuo amico! || Ben, good luck to your friend!
-BEN [debole]: Crepi il lupo. || Thanks.
-NARRATORE: La porta si chiude. Matteo mette Anna sul tappeto con due giochi. || The door closes. Matteo puts Anna on the rug with two toys.
-MATTEO: Allora. Quel famoso amico ha una **sede** nuova e uno **stipendio** che **raddoppia**. || So. That famous friend has a new **office** and a **salary** that **doubles**.
-BEN: È solo un esempio. || It's just an example.
-MATTEO: Ok. Un esempio. E questo amico deve **decidere** in fretta? || OK. An example. And does this friend have to **decide** fast?
-BEN [senza pensare]: Sì. Entro marzo. || Yes. By March.
-NARRATORE: Matteo si ferma con lo straccio in mano. || Matteo stops with the cloth in his hand.
-MATTEO: Marzo. || March.
-BEN [chiude gli occhi]: L'ho detto di nuovo, vero? || I said it again, didn't I?
-MATTEO: Sì. L'hai detto di nuovo. || Yes. You said it again.
-NARRATORE: Matteo passa lo straccio sul bancone senza guardarlo. || Matteo runs the cloth over the counter without looking at him.
-MATTEO: Ben, io non ti chiedo niente. Non è casa mia. || Ben, I'm not asking you anything. It's not my business.
-BEN: Grazie. || Thanks.
-MATTEO: Però ti do un **consiglio**, e non è un **consiglio** da bar. || But I'll give you a piece of **advice**, and it's not bar **advice**.
+# SCENE bar-tigli | martedì, ora di pranzo | ben, matteo, nadia
+NARRATORE: Il Bar Tigli a mezzogiorno è pieno di gente che parla forte. || Bar Tigli at midday is full of people talking loudly.
+NARRATORE: Ben è dietro il bancone dalle sette. Ha già sbagliato due ordinazioni. || Ben has been behind the counter since seven. He's already got two orders wrong.
+BEN [a un cliente]: Un cappuccino e un cornetto, giusto? || A cappuccino and a croissant, right?
+UN UOMO: Veramente avevo chiesto un espresso e un bicchiere d'acqua. || Actually I asked for an espresso and a glass of water.
+BEN: Ah. Scusi. Espresso. Acqua. Arrivo. || Ah. Sorry. Espresso. Water. Coming up.
+NARRATORE: Ben prende una tazzina da cappuccino e ci versa l'espresso. || Ben takes a cappuccino cup and pours the espresso into it.
+MATTEO [dal fondo]: Ben! Quella è una tazzina da cappuccino! || Ben! That's a cappuccino cup!
+BEN [si gira]: Che cosa? || What?
+MATTEO: L'espresso si serve in una tazzina piccola. Questa è grande. || Espresso is served in a small cup. This one's big.
+BEN: Ah. Sì. Lo sapevo. || Ah. Yes. I knew that.
+MATTEO: Lo sapevi e l'hai fatto lo stesso. || You knew and you did it anyway.
+NARRATORE: Matteo arriva al bancone con la piccola Anna in braccio. || Matteo comes to the counter with little Anna in his arms.
+NARRATORE: Anna ha quattordici mesi e vuole toccare tutto. || Anna is fourteen months old and wants to touch everything.
+MATTEO: Prendi. Tieni tu Anna un momento. || Here. You hold Anna for a moment.
+BEN: Io? || Me?
+MATTEO: Tu. Sei il mio dipendente migliore. || You. You're my best employee.
+BEN: Sono il tuo unico dipendente. || I'm your only employee.
+MATTEO: Appunto. Il migliore e il peggiore insieme. || Exactly. The best and the worst together.
+NARRATORE: Ben prende Anna. Anna gli mette subito una mano in faccia. || Ben takes Anna. Anna immediately puts a hand on his face.
+BEN [ridendo]: Ciao, Anna. Ciao, piccola. || Hi, Anna. Hi, little one.
+MATTEO [serio]: Senti, Ben. Ti devo parlare di una cosa. || Listen, Ben. I have to talk to you about something.
 BEN: Dimmi. || Tell me.
-MATTEO: La **verità** non invecchia bene. Più aspetti, più diventa pesante. || The **truth** doesn't age well. The longer you wait, the heavier it gets.
-NARRATORE: Ben appoggia i gomiti sul bancone. Per la prima volta, non risponde subito. || Ben leans his elbows on the counter. For the first time, he doesn't answer right away.
-BEN: Lo so. || I know.
-MATTEO: E un'altra cosa. Tu dici "è vero" troppo velocemente. || And another thing. You say "it's true" too fast.
-BEN: Come? || What?
-MATTEO: Quando dici "è vero", lo dici con la faccia di uno che ha paura di non convincermi. || When you say "it's true", you say it with the face of someone who's afraid of not convincing me.
-MATTEO: E quando uno ha paura di non convincere, è perché non è vero. O perché è vero e pesa. || And when someone's afraid of not convincing, it's because it isn't true. Or because it's true and it weighs.
-NARRATORE: Ben guarda il suo caffè freddo. Non beve. Non asciuga niente. || Ben looks at his cold coffee. He doesn't drink. He doesn't dry anything.
-BEN [piano]: Grazie, Matteo. || Thanks, Matteo.
-MATTEO: Di niente. E adesso torna a lavorare, che il bar non si gestisce da solo. || You're welcome. And now get back to work, because the bar doesn't run itself.
-BEN [si alza]: Matteo, una cosa sola. || Matteo, just one thing.
-MATTEO: Dimmi. || Tell me.
-BEN: A Nadia non **raccontare** questa storia. Almeno per oggi. || Don't **tell** Nadia this story. At least not today.
-MATTEO [lo guarda]: A Nadia **preferisco che** tu la **racconti** tu, quando sei pronto. || Nadia — **I'd prefer** you to **tell** her yourself, when you're ready.
-MATTEO: Però io non ho detto di non aver capito niente. || I didn't say I haven't understood anything, though.
-BEN: Lo so che l'hai capito. || I know you've understood.
-MATTEO [sorride]: Allora siamo d'accordo. Tu fai l'americano distratto e io faccio il barista che non vede. || Then we agree. You play the distracted American and I play the barman who doesn't see.
-NARRATORE: Matteo gli dà un colpo sulla spalla e va da Anna, che sta mangiando un gioco. || Matteo gives him a pat on the shoulder and goes to Anna, who is eating a toy.
-NARRATORE: Ben resta solo con il bancone, il caffè freddo e una **decisione** da prendere. || Ben is left alone with the counter, the cold coffee and a **decision** to make.
-
-# CONFESSIONALE ornella
-ORNELLA [guarda la telecamera]: Io abito in Via dei Tigli sedici da cinquant'anni. Da questa finestra vedo tutto. || I've lived at 16 Via dei Tigli for fifty years. From this window I see everything.
-NARRATORE: Ornella è seduta vicino alla finestra, con le mani in grembo. Fuori **la neve** copre i tetti. || Ornella is sitting near the window, her hands in her lap. Outside, **the snow** covers the roofs.
-ORNELLA: Vedo chi arriva, chi **parte**, chi porta fuori il cane la mattina presto. || I see who arrives, who **leaves**, who takes the dog out early in the morning.
-ORNELLA: E vedo anche chi **nasconde** qualcosa. Quello si vede sempre. || And I also see who's **hiding** something. That always shows.
-ORNELLA: Ben **nasconde** qualcosa da lunedì, e non è bravo a farlo. || Ben has been **hiding** something since Monday, and he isn't good at it.
-ORNELLA: Ieri mattina è venuto a portarmi la spesa, come tutte le settimane. || Yesterday morning he came to bring me my shopping, like every week.
-ORNELLA: Però per venti minuti ha parlato solo di Chicago. || But for twenty minutes he talked only about Chicago.
-ORNELLA: A un certo punto ha detto: "Non dica niente a mia moglie, per favore". || At a certain point he said: "Don't say anything to my wife, please."
-ORNELLA: Un **segreto**, quindi. Un **segreto** mio e suo. || A **secret**, then. A **secret** of his and mine.
-ORNELLA: E io che cosa dovevo fare? Ho detto sì. || And what was I supposed to do? I said yes.
-ORNELLA: Ma io **preferisco che** le cose si dicano in faccia. Sempre. || But I **prefer** things to be said face to face. Always.
-ORNELLA: Io **preferisco che** un uomo parli con sua moglie, invece di parlare con una signora di settantotto anni. || I **prefer** a man to talk to his wife, instead of talking to a seventy-eight-year-old lady.
-ORNELLA: **Spero che** lo faccia stasera. **Spero che** torni a casa e lo dica. || **I hope** he does it tonight. **I hope** he goes home and says it.
-ORNELLA: Perché la **verità** che non si **racconta** subito diventa, con il tempo, una piccola bugia. || Because the **truth** that isn't **told** right away becomes, in time, a small lie.
-ORNELLA: E le piccole bugie, in una casa, crescono come le piante. || And small lies, in a house, grow like plants.
-ORNELLA: Ai miei tempi le decisioni importanti si prendevano a tavola, dopo cena, tutti insieme. || In my day important decisions were made at the table, after dinner, all together.
-ORNELLA: Qui, oggi, si prendono da soli, con il telefono in mano, guardando un muro. || Here, today, they're made alone, with a phone in your hand, staring at a wall.
-ORNELLA: E poi si sta male per tre giorni, come sta male lui. || And then you feel awful for three days, like he does.
-ORNELLA: Io gli ho dato un **consiglio**, ieri, in cucina. Un **consiglio** solo. || I gave him a piece of **advice**, yesterday, in my kitchen. One piece of **advice**.
-ORNELLA: Gli ho detto: la **verità** è come il caffè. Va bevuta calda. || I told him: the **truth** is like coffee. It should be drunk hot.
-ORNELLA: **Spero che** il signor Carter **resti** qui, in Via dei Tigli. || **I hope** Mr Carter **stays** here, on Via dei Tigli.
-ORNELLA: **Spero che** **resti** con Chiara, con i bambini, con la sua cucina piena di pentole strane. || **I hope** he **stays** with Chiara, with the children, with his kitchen full of strange pots.
-ORNELLA: Ma la **scelta** non è mia. La **scelta** è sua e di sua moglie. || But the **choice** isn't mine. The **choice** is his and his wife's.
-ORNELLA: Io da questa finestra vedo tutto, ma non **decido** niente. || From this window I see everything, but I don't **decide** anything.
-ORNELLA: È il vantaggio di avere settantotto anni: non devi più **raccontare** niente a nessuno. || That's the advantage of being seventy-eight: you don't have to **tell** anyone anything anymore.
-ORNELLA [sospira]: Però una cosa ve la dico. Se lui non parla stasera, io lo dico a Chiara domani. || But one thing I'll tell you. If he doesn't talk tonight, I'll tell Chiara tomorrow.
-ORNELLA [guarda fuori]: Non è una minaccia. È una promessa. || That isn't a threat. It's a promise.
+MATTEO: Il bar non va bene. Le spese crescono, la gente beve meno caffè. || The bar isn't doing well. Costs are growing, people drink less coffee.
+MATTEO: Tu fai le lezioni di cucina per stranieri, e quelle vanno bene. Molto bene. || You do the cooking classes for foreigners, and those go well. Very well.
+BEN: Sì, quelle vanno bene. || Yes, those go well.
+MATTEO: Allora **voglio che** tu **mi aiuti** a fare un piano serio. || So **I want** you **to help** me make a serious plan.
+MATTEO: Non tre lezioni a caso. Un corso vero. Con i prezzi, le date, la pubblicità. || Not three random lessons. A real course. With prices, dates, advertising.
+BEN: Vuoi un piano. || You want a plan.
+MATTEO: **Voglio che** **ci pensiamo** insieme, davvero. || **I want** **us to think about it** together, seriously.
+NARRATORE: Ben guarda Matteo. Matteo ha gli occhi stanchi, ma sorride. || Ben looks at Matteo. Matteo's eyes are tired, but he's smiling.
+BEN [lento]: Va bene. **Voglio che** **funzioni** anche a me. || Alright. **I want** **it to work** too.
+MATTEO: Bravo. Allora stasera ti mando le carte. || Good. Then tonight I'll send you the papers.
+NARRATORE: In quel momento entra Nadia, con il cappotto ancora addosso. || At that moment Nadia comes in, still wearing her coat.
+NADIA: Ciao, ciao. Scusate il ritardo. Il treno era pieno. || Hi, hi. Sorry I'm late. The train was packed.
+MATTEO: Ciao, amore. Come è andata a Milano? || Hi, love. How did it go in Milan?
+NADIA [prende Anna]: Datemi la bambina. Vieni qua, tesoro. || Give me the baby. Come here, sweetheart.
+NARRATORE: Nadia prende Anna e la stringe. Poi si siede sullo sgabello e si toglie le scarpe. || Nadia takes Anna and hugs her. Then she sits on the stool and takes off her shoes.
+NADIA: Novità, in farmacia. Vi racconto. || News at the pharmacy. Let me tell you.
+BEN: Dicci. || Tell us.
+NADIA: La dottoressa Ferrari va via, torna a Roma. || Doctor Ferrari is leaving, she's going back to Rome.
+NADIA: E hanno **chiesto che** io **prenda** il suo posto. || And they've **asked** me **to take** her place.
+MATTEO [si gira]: Il suo posto? Ma è un posto più grande? || Her place? But is it a bigger role?
+NADIA: È una **promozione**. Più responsabilità, più soldi, più orari. || It's a **promotion**. More responsibility, more money, more hours.
+BEN: Complimenti. Davvero. || Congratulations. Really.
+NADIA: Grazie. Ma non ho ancora risposto. || Thanks. But I haven't answered yet.
+MATTEO: Perché? È una bella cosa. || Why? It's a good thing.
+NADIA: Perché **preferisco che** tu **mi dica** le cose prima. || Because **I prefer** you **to tell** me things first.
+MATTEO [confuso]: Io? Che cosa? || Me? What?
+NADIA: Il piano per il corso di cucina. Quello di stasera. || The plan for the cooking class. Tonight's one.
+MATTEO: Ah. Quello. || Ah. That one.
+NADIA: L'ho visto scritto sul frigorifero. "Corso di cucina, progetto grande". || I saw it written on the fridge. "Cooking course, big project".
+MATTEO: Volevo dirtelo stasera. || I wanted to tell you tonight.
+NADIA: **Preferisco che** **tu me lo dica** prima, Matteo. Sempre. || **I prefer** you **to tell** me first, Matteo. Always.
+MATTEO [ride, un po' colpevole]: Va bene, va bene. Hai ragione. || Alright, alright. You're right.
+NARRATORE: Nadia scuote la testa, ma gli prende la mano. || Nadia shakes her head, but takes his hand.
+NADIA: Comunque. Il posto in farmacia lo voglio. Ma voglio pensarci. || Anyway. I do want the pharmacy job. But I want to think about it.
+MATTEO: Allora **vuole che** **tu decida** in fretta? || So **do they want** **you to decide** quickly?
+NADIA: **Chiedono che** **dia** una risposta entro venerdì. || **They're asking** **me to give** an answer by Friday.
+BEN [sottovoce, quasi a se stesso]: Sempre entro una data. Tutto entro una data. || Always by a date. Everything by a date.
+NARRATORE: Nadia si gira verso Ben e lo guarda meglio. || Nadia turns towards Ben and looks at him more closely.
+NADIA: Come? || What?
+BEN [veloce]: Niente. Dicevo che anche il mio **capo** in America era così. || Nothing. I was saying my **boss** in America was like that too.
+NADIA: Il tuo capo in America? || Your boss in America?
+BEN: Cioè, il mio capo di prima. A Chicago. Una vita fa. || I mean, my boss from before. In Chicago. A lifetime ago.
+NARRATORE: Matteo posa il vassoio e prende il quaderno di Ben dal bancone. || Matteo puts down the tray and picks Ben's notebook up from the counter.
+MATTEO: A proposito di questa cosa americana. Il tuo quaderno. || Speaking of this American thing. Your notebook.
+BEN [allunga la mano]: No, no, quello no. || No, no, not that.
+MATTEO [lo apre]: Perché? È pieno di parole bellissime. Bimba, strada, panino. || Why? It's full of beautiful words. Baby, street, sandwich.
+MATTEO: Aspetta. C'è una pagina nuova. L'ultima. || Wait. There's a new page. The last one.
+NARRATORE: Matteo legge, con la voce alta, come a scuola. || Matteo reads, out loud, like at school.
+MATTEO: "**Offerta**. **Stipendio**. **Contratto**. **Trasferimento**. **Sede**. **Promozione**." || "**Offer**. **Salary**. **Contract**. **Move**. **Office**. **Promotion**."
+NARRATORE: Il bar intorno continua a fare rumore. Ma al bancone c'è un secondo di silenzio. || The bar around them keeps making noise. But at the counter there's a second of silence.
+MATTEO [ride]: Che sono, parole per il corso di cucina? || What are these, words for the cooking class?
+BEN [prende il quaderno]: Sì. Sì, esatto. Parole nuove. || Yes. Yes, exactly. New words.
+MATTEO: "**Trasferimento**"? Per la cucina? || "**Move**"? For the cooking?
+BEN: Per… pubblicità. Per la pubblicità del corso. || For… advertising. For advertising the course.
+NADIA [piano]: Per la pubblicità. || For advertising.
+NARRATORE: Ben è salvato dal rumore improvviso di una macchina che si ferma. || Ben is saved by the sudden noise of a machine stopping.
+BEN: Che cosa è questo rumore? || What's that noise?
+MATTEO [va verso la macchina]: Ah, no. No! Non adesso! || Oh, no. No! Not now!
+NARRATORE: La macchina del caffè si ferma. Il vapore esce da un lato. || The coffee machine stops. Steam comes out of one side.
+MATTEO: Ben, mi dispiace. Oggi è la seconda volta questa settimana. || Ben, I'm sorry. That's the second time this week.
+BEN: Chiamo il tecnico? || Shall I call the technician?
+MATTEO: Sì, chiama il tecnico. E **spero che** **arrivi** oggi. || Yes, call the technician. And **I hope** **he comes** today.
+NADIA: Il **futuro** del Bar Tigli dipende da una macchina del caffè. Che ansia. || The **future** of Bar Tigli depends on a coffee machine. How stressful.
+MATTEO: Non dire così. Il **futuro** del bar dipende da me. || Don't say that. The bar's **future** depends on me.
+NADIA [dolce]: Da noi. || On us.
+NARRATORE: Matteo porta Anna di là e comincia a telefonare. Il bar si svuota piano. || Matteo takes Anna into the back and starts phoning. The bar slowly empties.
+NARRATORE: Nadia resta al bancone con Ben. Non parla subito. || Nadia stays at the counter with Ben. She doesn't speak at once.
+NADIA [piano]: Ben. || Ben.
+BEN: Sì? || Yes?
+NADIA: Ti vedo strano. || I can see something's off with you.
+BEN [sorride male]: Io? No. Sono strano sempre. È il mio carattere. || Me? No. I'm always strange. It's my personality.
+NADIA: Io sono una farmacista. Vedo la gente tutto il giorno. || I'm a pharmacist. I see people all day long.
+NADIA: Tu hai qualcosa. Lo vedo dalla faccia. || You have something. I can see it in your face.
+BEN: Ho dormito poco. Tutto qui. || I slept badly. That's all.
+NARRATORE: Nadia non insiste. Prende la sua borsa e va verso la porta. || Nadia doesn't push. She picks up her bag and heads for the door.
+NADIA [si gira]: Va bene. Ma se un giorno vuoi parlare… || Alright. But if one day you want to talk…
+BEN: Grazie, Nadia. Davvero. || Thanks, Nadia. Really.
+NARRATORE: La porta si chiude. Ben resta solo con la macchina rotta e un **segreto** in tasca. || The door closes. Ben is left alone with the broken machine and a **secret** in his pocket.
+BEN [a se stesso, sottovoce]: Non lo so **nascondere**. Proprio non lo so fare. || I don't know how **to hide** it. I really don't know how.
 
 # SCENE casa-ornella | martedì pomeriggio | ben, ornella
-NARRATORE: Alle quattro del pomeriggio Ben suona il campanello di Via dei Tigli sedici. || At four in the afternoon Ben rings the bell at 16 Via dei Tigli.
-NARRATORE: In una mano ha una busta della spesa, nell'altra due mele. Sulla giacca ha ancora la neve. || In one hand he has a shopping bag, in the other two apples. There's still snow on his jacket.
-ORNELLA [apre la porta]: Ben! Non è il giorno della spesa. || Ben! It isn't the shopping day.
-BEN: Lo so. Oggi avevo voglia di camminare. || I know. Today I felt like walking.
-ORNELLA: Con questa neve? Entra, entra, che fuori fa freddo. || In this snow? Come in, come in, it's cold outside.
-NARRATORE: Ben entra, si pulisce le scarpe sullo zerbino e appoggia la busta sul tavolo. || Ben comes in, wipes his shoes on the doormat and sets the bag on the table.
-BEN: Le mele sono per te. Due. Quelle gialle che ti piacciono. || The apples are for you. Two. The yellow ones you like.
-ORNELLA: Le mele le prendo. Il pane no, ho già il pane. || I'll take the apples. Not the bread, I've already got bread.
-BEN [ride]: Non ho portato il pane. Ho imparato. || I didn't bring bread. I've learned.
-ORNELLA [sorride]: Bene. Allora possiamo sederci. || Good. Then we can sit down.
-NARRATORE: Ornella versa il caffè in due tazze piccole e le mette sul tavolo. || Ornella pours the coffee into two small cups and puts them on the table.
-NARRATORE: Poi si siede di fronte a Ben e aspetta, con le mani in grembo. || Then she sits opposite Ben and waits, her hands in her lap.
-ORNELLA: Siediti anche tu. E adesso mi **racconti** perché hai quella faccia. || You sit down too. And now you **tell** me why you've got that face.
+NARRATORE: Nel pomeriggio Ben suona al numero 16 con due borse della spesa. || In the afternoon Ben rings at number 16 with two shopping bags.
+NARRATORE: Ornella apre la porta e lo guarda per un secondo di troppo. || Ornella opens the door and looks at him for a second too long.
+ORNELLA: Ben. Entra. Fa freddo. || Ben. Come in. It's cold.
+BEN: Buongiorno, Ornella. Ecco la spesa. Pane, latte, mele. || Morning, Ornella. Here's the shopping. Bread, milk, apples.
+ORNELLA: Le mele sono per Pavarotti. Non ti dico per chi è il resto. || The apples are for Pavarotti. I won't tell you who the rest is for.
+BEN [ride]: Pavarotti mangia le mele? || Pavarotti eats apples?
+ORNELLA: Pavarotti mangia quello che vuole. Si accomodi. Anzi, siediti. || Pavarotti eats what he wants. Please, sit. I mean, sit down.
+NARRATORE: Ben si siede sulla poltrona vicino alla finestra. Ornella va in cucina. || Ben sits in the armchair by the window. Ornella goes into the kitchen.
+NARRATORE: Torna dopo un minuto con due caffè che Ben non ha chiesto. || She comes back a minute later with two coffees Ben didn't ask for.
+BEN: Ah. Grazie. Non doveva. || Ah. Thanks. You shouldn't have.
+ORNELLA: Lo so che non dovevo. Bevi. || I know I shouldn't have. Drink.
+BEN [beve]: Buono. || Good.
+ORNELLA: Allora. || So.
+BEN: Allora che cosa? || So what?
+ORNELLA: Ti ho visto arrivare da lontano, con le borse e quella faccia. || I saw you coming from far away, with those bags and that face.
 BEN: Che faccia? || What face?
-ORNELLA: La faccia di uno che **nasconde** qualcosa. La conosco bene, sai. || The face of someone **hiding** something. I know it well, you know.
-BEN [sospira]: Sì. **Nascondo** qualcosa. || Yes. I'm **hiding** something.
-ORNELLA: Allora vuotiamo il sacco. Prima il caffè, poi il **segreto**. || Then let's empty the sack. Coffee first, then the **secret**.
-BEN: Ornella, posso **raccontarti** una cosa? Ma devi promettermi che non la dici a nessuno. || Ornella, can I **tell** you something? But you have to promise me you won't tell anyone.
-ORNELLA: Io non prometto niente. Però so tenere la bocca chiusa da cinquant'anni. || I don't promise anything. But I've been able to keep my mouth shut for fifty years.
-BEN [ride]: Va bene. Te la **racconto** lo stesso. || All right. I'll **tell** you anyway.
-NARRATORE: Ben prende il telefono dalla tasca e cerca l'**email** con le dita un po' rigide. || Ben takes the phone from his pocket and looks for the **email** with slightly stiff fingers.
-NARRATORE: La trova, la apre e mette il telefono sul tavolo, girato verso Ornella. || He finds it, opens it and puts the phone on the table, turned towards Ornella.
-ORNELLA [mette gli occhiali]: Leggo io? || Shall I read?
-BEN: Leggi tu. È meglio. Così non mi senti sbagliare le parole. || You read. It's better. That way you don't hear me get the words wrong.
-ORNELLA [legge piano]: "Caro Ben... la nostra **azienda**..." || "Dear Ben... our **company**..."
-BEN: La mia **azienda** di Chicago. Quella dove ho lavorato dodici anni. || My **company** in Chicago. The one where I worked for twelve years.
-ORNELLA: "...la nostra **azienda** apre una **sede** nuova nel centro di Chicago..." || "...our **company** is opening a new **office** in downtown Chicago..."
-ORNELLA [alza gli occhi]: Una **sede** nuova. Ho capito. || A new **office**. I see.
-BEN: Continua. La parte interessante viene dopo. || Go on. The interesting part comes later.
-ORNELLA: "...e **chiede che** tu **torni** come **direttore** del marketing." || "...and **it's asking that** you **come back** as marketing **director**."
-NARRATORE: Ornella appoggia il telefono sul tavolo con delicatezza, come un oggetto di vetro. || Ornella sets the phone on the table gently, like a glass object.
-ORNELLA: Ah. Ecco. Adesso la faccia è spiegata. || Ah. There we go. Now the face is explained.
-BEN: **Chiedono che** io **torni**. **Chiedono che** io **torni** a Chicago, dopo cinque anni. || **They're asking that** I **come back**. **They're asking that** I **come back** to Chicago, after five years.
-ORNELLA: E tu **vuoi** **tornare**? || And do you **want** to **come back**?
-BEN: Io non **voglio** niente. Aspetta, c'è il resto. || I don't **want** anything. Wait, there's the rest.
-NARRATORE: Ben prende il telefono e scorre in basso con il pollice. || Ben picks up the phone and scrolls down with his thumb.
-BEN: Ecco. Questa è la **proposta di lavoro** vera e propria. Quattro pagine. || There. This is the actual **job offer**. Four pages.
-ORNELLA: Quattro pagine per dire "vieni a lavorare da noi". Ai miei tempi erano due righe. || Four pages to say "come and work for us". In my day it was two lines.
-BEN [ride]: Ai tuoi tempi non c'erano le risorse umane. || In your day there was no human resources.
-ORNELLA: E si stava meglio. Leggi. || And things were better. Read.
-BEN: "Lo **stipendio** è il doppio del tuo ultimo **stipendio**." || "The **salary** is double your last **salary**."
-ORNELLA: Il doppio. || Double.
-BEN: Lo **stipendio** **raddoppia**. **Raddoppia** davvero, senza scherzi. || The **salary** **doubles**. It really **doubles**, no joke.
-ORNELLA: E quanto **guadagnavi**, se si può sapere? || And how much did you **earn**, if one may ask?
-BEN [imbarazzato]: Molto. Più di mio padre. Più di Matteo e Nadia insieme, credo. || A lot. More than my father. More than Matteo and Nadia together, I think.
-ORNELLA: E allora adesso **guadagneresti** il doppio di quello. || And so now you'd **earn** double that.
-BEN: Sì. Più casa e più macchina. Il **trasferimento** lo paga l'**azienda**. || Yes. Plus a house and a car. The **company** pays for the **move**.
-ORNELLA: Il **trasferimento** pagato. E il **contratto**? || The **move** paid for. And the **contract**?
-BEN: **Contratto** di tre anni. Indeterminato dopo. || A three-year **contract**. Permanent after that.
-ORNELLA [annuisce]: Tre anni. E la data? || Three years. And the date?
-BEN: **Chiedono che** io cominci a marzo. || **They're asking that** I start in March.
-ORNELLA: Marzo. Tra cinque mesi. || March. In five months.
-NARRATORE: Ornella prende la sua tazza e beve un sorso. Poi la rimette giù, senza fretta. || Ornella picks up her cup and takes a sip. Then she puts it down again, unhurried.
-ORNELLA: Allora. La **verità**. || So. The **truth**.
-BEN: La **verità** è questa, Ornella. Io **desidero che** tutto **resti** come adesso. || The **truth** is this, Ornella. I **wish** everything **would stay** as it is now.
-BEN: **Desidero che** la mia famiglia **resti** qui, in questa casa, in questa strada. || I **wish** my family **would stay** here, in this house, on this street.
-ORNELLA: E loro che cosa **desiderano**? || And what do they **wish** for?
-BEN: Non lo so. Perché non gliel'ho chiesto. Perché non sanno niente. || I don't know. Because I haven't asked them. Because they don't know anything.
-ORNELLA: Ah. Ecco il **segreto**. || Ah. There's the **secret**.
-BEN: Non **voglio che** Chiara lasci il suo studio. Ha appena avuto la **promozione**. || I don't **want** Chiara to leave her studio. She's just got the **promotion**.
-BEN: **Voglio che** lei continui a fare l'architetto a Milano. **Voglio che** sia felice. || I **want** her to keep working as an architect in Milan. I **want** her to be happy.
-ORNELLA: Questo si chiama amore, non **trasferimento**. || That's called love, not a **move**.
-BEN [ride]: Sì. Ma non risolve il problema. || Yes. But it doesn't solve the problem.
-NARRATORE: Ben gira la tazza tra le dita. Il caffè è già freddo. || Ben turns the cup between his fingers. The coffee is already cold.
-BEN: E io **preferisco che** i bambini crescano qui. Leo parla italiano con l'accento, ma parla. || And I **prefer** the kids to grow up here. Leo speaks Italian with an accent, but he speaks.
-BEN: **Preferisco che** Leo vada a scuola con Pietro e che Emma prenda il treno con Tommaso. || I **prefer** Leo to go to school with Pietro and Emma to take the train with Tommaso.
-ORNELLA: Quindi hai già **scelto**. || So you've already **chosen**.
-BEN [si blocca]: No! Non è vero. Io non ho **scelto** niente. || No! That's not true. I haven't **chosen** anything.
-ORNELLA: Però hai appena **scelto** tre volte in due minuti. || But you've just **chosen** three times in two minutes.
-NARRATORE: Ben apre la bocca e poi la chiude. Ornella ha ragione e lui lo sa. || Ben opens his mouth and then closes it. Ornella is right and he knows it.
-BEN: Il problema non è quello che **preferisco** io. Il problema è la **scelta**. || The problem isn't what I **prefer**. The problem is the **choice**.
-BEN: La **scelta** è di tutti. Di Chiara, di Emma, di Leo. Non solo mia. || The **choice** belongs to everyone. To Chiara, to Emma, to Leo. Not just to me.
-ORNELLA: E invece tu l'hai tenuta in tasca per tre giorni. Da solo. || And yet you've kept it in your pocket for three days. Alone.
-BEN [piano]: Sì. Ho **nascosto** una **decisione** che non è solo mia. || Yes. I've **hidden** a **decision** that isn't only mine.
-ORNELLA: E adesso? Che cosa vuoi fare? || And now? What do you want to do?
-BEN: **Desidero che** tutto si sistemi da solo. Ma non succede. || I **wish** everything would sort itself out on its own. But it doesn't happen.
-ORNELLA: No. Non succede mai. Te lo dico per esperienza. || No. It never happens. I'm telling you from experience.
-NARRATORE: Ornella si alza, prende la caffettiera e la rimette sul fuoco. || Ornella gets up, takes the coffee pot and puts it back on the stove.
-ORNELLA: Facciamo un altro caffè. Questo è freddo e questa conversazione è lunga. || Let's make another coffee. This one's cold and this conversation is long.
-BEN: Ornella, io ho una paura enorme. || Ornella, I'm terribly afraid.
-ORNELLA: Lo vedo. || I can see that.
-BEN: Non è paura di Chicago. È paura di dirglielo. || It isn't fear of Chicago. It's fear of telling her.
-ORNELLA [si gira]: Perché? || Why?
-BEN: Perché se glielo dico, la cosa diventa vera. Adesso è solo un'**email**. || Because if I tell her, the thing becomes real. Right now it's only an **email**.
-ORNELLA: Ben, una **email** è già una cosa vera. Una **email** è una **offerta** vera. || Ben, an **email** is already a real thing. An **email** is a real **offer**.
-BEN [guarda il tavolo]: Lo so. E c'è anche una **telefonata** che non ho risposto. Due volte. || I know. And there's also a **phone call** I didn't answer. Twice.
-ORNELLA: Una **telefonata** da Chicago. || A **phone call** from Chicago.
-BEN: Da Chicago. Stamattina e ieri. Sempre lo stesso numero. || From Chicago. This morning and yesterday. Always the same number.
-ORNELLA: E tu non hai risposto. || And you didn't answer.
-BEN: Non ho risposto perché non so cosa dire. In inglese lo saprei. In italiano no. || I didn't answer because I don't know what to say. In English I'd know. In Italian, no.
-ORNELLA: In italiano si dice: "Buongiorno, un momento, devo parlare con mia moglie". || In Italian you say: "Good morning, one moment, I have to talk to my wife."
-NARRATORE: Ben ride, ma è una risata corta, che finisce subito. || Ben laughs, but it's a short laugh that ends immediately.
-BEN: Vedi? Tu hai sempre la frase giusta. Io ho solo il **futuro** in mano e non so dove metterlo. || See? You always have the right sentence. I've just got the **future** in my hands and I don't know where to put it.
-ORNELLA: Il **futuro** non si mette da nessuna parte. Il **futuro** si **spiega** alle persone che ami. || The **future** doesn't go anywhere. The **future** is **explained** to the people you love.
-BEN: **Spiegare**. Bella parola. Difficile. || **To explain**. Nice word. Difficult.
-ORNELLA: Difficile, sì. Ma tu sai **spiegare** bene. L'hai fatto per cinque anni con tutto il vicinato. || Difficult, yes. But you know how to **explain** well. You've done it for five years with the whole neighbourhood.
-BEN [ride]: Ho spiegato la torta di zucca a Franco. Ci è voluta un'ora. || I explained pumpkin pie to Franco. It took an hour.
-ORNELLA: Ecco. Allora spiegherai anche questa. || There. Then you'll explain this too.
-NARRATORE: Ornella porta le due tazze nuove sul tavolo e si siede di nuovo. || Ornella brings the two new cups to the table and sits down again.
-ORNELLA: Adesso ascoltami bene, Ben. Io ti do un **consiglio**. || Now listen to me carefully, Ben. I'm giving you a piece of **advice**.
-BEN: Sono qui per questo. || That's why I'm here.
-ORNELLA: Io **spero che** tu glielo **dica** stasera. **Spero che** tu **torni** a casa e trovi il momento giusto. || I **hope** you **tell** her tonight. I **hope** you **go back** home and find the right moment.
-BEN: Stasera. || Tonight.
-ORNELLA: Stasera. Dopo cena, a tavola, quando i bambini sono di sopra. || Tonight. After dinner, at the table, when the kids are upstairs.
-BEN: E se lei si arrabbia perché ho aspettato tre giorni? || And if she gets angry because I waited three days?
-ORNELLA: Si arrabbierà. È normale. Ma è meglio una moglie arrabbiata di un **segreto** in casa. || She'll get angry. It's normal. But an angry wife is better than a **secret** in the house.
-NARRATORE: Ben annuisce lentamente e guarda fuori dalla finestra. La neve ha coperto il giardino. || Ben nods slowly and looks out of the window. The snow has covered the garden.
-BEN: E invece potrei aspettare ancora un po'? Una settimana. Solo una settimana. || And instead could I wait a bit longer? A week. Just a week.
-ORNELLA [secca]: No. || No.
-BEN: Perché no? || Why not?
-ORNELLA: Perché fra una settimana avrai una scusa nuova. E fra due settimane un'altra. || Because in a week you'll have a new excuse. And in two weeks another one.
-BEN: Non è detto. || Not necessarily.
-ORNELLA: È detto. Lo dico io. || It is. I'm saying it.
-NARRATORE: Ornella appoggia la tazza con un piccolo rumore secco. || Ornella sets her cup down with a small, sharp sound.
-ORNELLA: Ben, tu sei un brav'uomo, ma in questo momento sei un codardo. || Ben, you're a good man, but right now you're a coward.
-BEN [ride male]: Grazie. Molto gentile. || Thanks. Very kind.
-ORNELLA: Non è un insulto. È una constatazione. Anch'io sono stata codarda, due o tre volte nella vita. || It isn't an insult. It's an observation. I've been a coward too, two or three times in my life.
-BEN: E poi? || And then?
-ORNELLA: E poi ho parlato. E ho scoperto che la paura era più grande prima. || And then I talked. And I discovered that the fear was bigger before.
-NARRATORE: Ben finisce il caffè in due sorsi, come una medicina. || Ben finishes his coffee in two sips, like medicine.
-BEN: Va bene. Stasera. Glielo dico stasera. || All right. Tonight. I'll tell her tonight.
-ORNELLA: Come? Non ho sentito bene. || What? I didn't hear you properly.
-BEN [più forte]: Stasera glielo dico. A Chiara. Dopo cena. || Tonight I'm telling her. Chiara. After dinner.
-ORNELLA: Ancora una volta. || Once more.
-BEN [ride]: Ornella! || Ornella!
-ORNELLA: Ancora una volta, Ben. Le promesse si dicono forte. || Once more, Ben. Promises are said out loud.
-BEN [lento e chiaro]: Stasera **racconto** tutto a Chiara. Le **spiego** l'**offerta**, la **proposta di lavoro**, lo **stipendio**, tutto. || Tonight I **tell** Chiara everything. I **explain** the **offer** to her, the **job offer**, the **salary**, everything.
-BEN: E poi **decidiamo** insieme. Tutti e quattro, a tavola. || And then **we decide** together. All four of us, at the table.
-ORNELLA [soddisfatta]: Ecco. Così mi piace. || There. That's how I like it.
-NARRATORE: Ben si alza, prende la busta vuota e il cappello. || Ben gets up, takes the empty bag and his hat.
-BEN: Ornella, una cosa. Non dire niente a nessuno, per favore. Nemmeno a Matteo. || Ornella, one thing. Don't say anything to anyone, please. Not even to Matteo.
-ORNELLA: Io non dico niente. Ma non voglio essere il tuo **segreto**, Ben. || I won't say anything. But I don't want to be your **secret**, Ben.
-BEN: Non lo sei. Sei la persona che mi ha fatto parlare. || You aren't. You're the person who got me to talk.
-ORNELLA [gli apre la porta]: Allora vai. E domani mattina, quando ti vedo al bar, voglio vedere un'altra faccia. || Then go. And tomorrow morning, when I see you at the bar, I want to see a different face.
-BEN: Vedrai la faccia di uno che non **nasconde** più niente. || You'll see the face of someone who isn't **hiding** anything anymore.
-ORNELLA: **Spero che** sia vero. E **spero che** tu **resti** con noi, in Via dei Tigli. || **I hope** it's true. And **I hope** you **stay** with us, on Via dei Tigli.
-BEN [sulla porta]: Anch'io lo **spero**. Ma questa è la **occasione** della mia vita. È per questo che è difficile. || I **hope** so too. But this is the **opportunity** of my life. That's why it's hard.
-ORNELLA: Non è l'**occasione** della tua vita, Ben. È un lavoro. || It isn't the **opportunity** of your life, Ben. It's a job.
-NARRATORE: Ben si ferma sul pianerottolo e la guarda. Nessuno gli ha mai detto una cosa così semplice. || Ben stops on the landing and looks at her. Nobody has ever said something so simple to him.
-BEN: Grazie, Ornella. || Thank you, Ornella.
-ORNELLA: Prego. E adesso vai, che la neve non aspetta. || You're welcome. And now go, the snow isn't waiting.
-NARRATORE: Ornella chiude la porta piano. Ben scende le scale con il telefono in mano. || Ornella closes the door quietly. Ben goes down the stairs with his phone in his hand.
-NARRATORE: Il telefono vibra di nuovo. È il numero di Chicago. Ben guarda lo schermo per tre secondi. || The phone buzzes again. It's the Chicago number. Ben looks at the screen for three seconds.
-BEN [piano]: Stasera. Prima Chiara. || Tonight. Chiara first.
-
-# CONFESSIONALE emma
-EMMA [cuffie al collo, guarda la telecamera]: Ok, sono sul treno e ho venti minuti. Vi racconto una cosa. || OK, I'm on the train and I've got twenty minutes. I'll tell you something.
-NARRATORE: Emma è seduta vicino al finestrino. Fuori **la neve** copre i campi tra Monza e Borgoverde. || Emma is sitting by the window. Outside, **the snow** covers the fields between Monza and Borgoverde.
-EMMA: Il tema del **dibattito** è "Meglio **restare** o **partire**?" || The **debate** topic is "Is it better to **stay** or to **leave**?"
-EMMA [scrolla le spalle]: E io l'ho **scelto** io. Nessuno me l'ha imposto. || And I **chose** it myself. Nobody forced it on me.
-EMMA: Boh. Mi sembrava giusto. Tipo, io sono l'unica della classe che **è partita** davvero. || Dunno. It seemed right. Like, I'm the only one in the class who's actually **left**.
-EMMA: Sono **partita** da Chicago a quattordici anni e sono **tornata** qui. || I **left** Chicago at fourteen and I **came back** here.
-EMMA [ride]: Cioè, prima sono **partita**, poi sono **tornata**, e adesso non so più quale delle due parole è casa mia. || I mean, first I **left**, then I **came back**, and now I don't know which of the two words is home.
-EMMA: Quindi per me il **futuro** è una domanda aperta. Sempre. || So for me the **future** is an open question. Always.
-EMMA: Il **futuro** però non è il problema di oggi. Il problema di oggi è papà. || The **future** isn't today's problem, though. Today's problem is Dad.
-EMMA: Papà è **nervoso** da tre giorni e lui non è mai **nervoso**. || Dad has been **nervous** for three days and he's never **nervous**.
-EMMA: Papà è quello che ride alle sette del mattino, che saluta il cane dei vicini. || Dad is the one who laughs at seven in the morning, who says hello to the neighbours' dog.
-EMMA: E invece in questi giorni mette il latte nella credenza. Cose così. || And instead these days he puts the milk in the cupboard. Things like that.
-EMMA [si toglie una cuffia]: Sì, ok, anche io faccio cose strane. Ma non a colazione. || Yeah, OK, I do strange things too. But not at breakfast.
-EMMA: Papà **nasconde** qualcosa. E **nasconde** male, perché quando mente canta. || Dad is **hiding** something. And he **hides** it badly, because when he lies he sings.
-EMMA [imita sottovoce]: E stamattina, in cucina, stava cantando. Una canzone dei Beatles, tipo. || And this morning, in the kitchen, he was singing. A Beatles song, sort of.
-EMMA: Quindi in casa c'è un **segreto**. Non so quale, ma c'è. || So there's a **secret** in the house. I don't know which one, but there is one.
-EMMA: Io **spero che** esca fuori entro venerdì, perché odio le cose a metà. || I **hope** it comes out by Friday, because I hate half-things.
-EMMA: E comunque io **voglio che** mamma e papà mi dicano la **verità**. Anche se è brutta. || And anyway I **want** Mum and Dad to tell me the **truth**. Even if it's ugly.
-EMMA: Perché l'ultima volta che in casa c'era un **segreto**... be', ecco, è stata la volta di Chicago. || Because the last time there was a **secret** at home... well, there, it was the Chicago thing.
-EMMA [si ferma un secondo]: E da qualche giorno la parola "Chicago" è tornata in casa mia. || And for a few days now the word "Chicago" has come back into my house.
-EMMA: Tipo, papà l'ha detta tre volte ieri. Tre. Senza motivo. || Like, Dad said it three times yesterday. Three. For no reason.
-EMMA: E stamattina Leo ha detto che a Chicago la neve è più alta. || And this morning Leo said that in Chicago the snow is deeper.
-EMMA [piano]: Non so perché, ma questa cosa mi fa paura. || I don't know why, but that thing scares me.
-EMMA: E comunque, quando arriverà un'**occasione** grande per papà, **preferisco che** me la dica. Subito. || And anyway, when a big **opportunity** comes for Dad, I'd **prefer** he told me. Right away.
-EMMA [rimette le cuffie]: Vabbè. Devo studiare. Ciao, raga. || Anyway. I have to study. Bye, guys.
-
-# SCENE casa-carter | martedì sera, dopo cena | ben, chiara
-NARRATORE: Sono le nove e un quarto di sera. In Via dei Tigli **la neve** si è fermata e la strada è silenziosa. || It's a quarter past nine in the evening. On Via dei Tigli **the snow** has stopped and the street is silent.
-NARRATORE: In casa Carter i piatti sono lavati e i bambini sono di sopra. || In the Carter house the dishes are washed and the kids are upstairs.
-NARRATORE: Ben è in cucina con un panno in mano, ma non sta asciugando niente. || Ben is in the kitchen with a cloth in his hand, but he isn't drying anything.
-NARRATORE: La porta d'ingresso si apre. Entra Chiara, con il cappotto pieno di neve e la borsa del lavoro. || The front door opens. Chiara comes in, her coat covered in snow and her work bag on her shoulder.
-CHIARA [stanca]: Eccomi. Che traffico. Il treno era in ritardo di venti minuti. || Here I am. What traffic. The train was twenty minutes late.
-BEN: Ciao. Ti preparo qualcosa di caldo? || Hi. Shall I make you something warm?
-CHIARA: No, grazie. Ho mangiato un panino in stazione. I bambini? || No, thanks. I ate a sandwich at the station. The kids?
-BEN: Leo dorme da venti minuti. Emma studia in camera con la musica alta. || Leo's been asleep for twenty minutes. Emma is studying in her room with loud music.
-CHIARA [sorride]: "Studia". Certo. || "Studying". Sure.
-NARRATORE: Chiara appoggia la borsa sul tavolo, si toglie il cappotto e si siede. || Chiara sets her bag on the table, takes off her coat and sits down.
-CHIARA: Com'è andata la tua giornata? || How was your day?
-BEN [troppo veloce]: Bene. Benissimo. Tutto bene. || Good. Great. All good.
-CHIARA: Hai detto tre volte bene nella stessa frase. || You said "good" three times in the same sentence.
-BEN: È che è andata proprio bene. Al bar, con Matteo. E poi ho portato la spesa a Ornella. || It's just that it really went well. At the bar, with Matteo. And then I took the shopping to Ornella.
-CHIARA: Ornella. Come sta? || Ornella. How is she?
-BEN [si blocca un secondo]: Bene. Come sempre. Abbiamo parlato del più e del meno. || Fine. As always. We talked about this and that.
-CHIARA: Del più e del meno. Con Ornella. Per due ore. || About this and that. With Ornella. For two hours.
-BEN: Non due ore. Due ore e mezza. || Not two hours. Two and a half.
-NARRATORE: Chiara si gira verso di lui e lo guarda con attenzione. || Chiara turns towards him and looks at him carefully.
-CHIARA: Ben, ti sei seduto? Sei in piedi da quando sono entrata. || Ben, have you sat down? You've been standing since I came in.
-BEN: Sto bene in piedi. || I'm fine standing.
-CHIARA: Nessuno sta bene in piedi in cucina alle nove di sera. || Nobody's fine standing in a kitchen at nine in the evening.
-NARRATORE: Ben appoggia il panno, tira fuori una sedia e si siede di fronte a lei. || Ben sets down the cloth, pulls out a chair and sits opposite her.
-BEN: Ecco. Seduto. || There. Sitting.
-CHIARA: Grazie. Adesso dimmi che cosa c'è. || Thanks. Now tell me what's going on.
-BEN [apre la bocca e poi la chiude]: Niente. Cioè... || Nothing. I mean...
-CHIARA: Cioè? || I mean?
-BEN: Volevo **raccontarti** una cosa. Ma non stasera. Domani. || I wanted to **tell** you something. But not tonight. Tomorrow.
-NARRATORE: Chiara appoggia i gomiti sul tavolo e le mani sotto il mento. || Chiara rests her elbows on the table and her hands under her chin.
-CHIARA: Ben, io ti **preferisco** quando parli subito. Quando **preferisci** aspettare, di solito è qualcosa di grosso. || Ben, I **prefer** you when you talk right away. When you **prefer** to wait, it's usually something big.
-BEN: Non è grosso. È medio. || It isn't big. It's medium.
-CHIARA [ride]: Medio. Una categoria nuova. || Medium. A new category.
-BEN [ride anche lui]: Sì. Ho inventato una categoria. || Yes. I invented a category.
-NARRATORE: Ridono insieme per due secondi. Poi il silenzio torna nella cucina. || They laugh together for two seconds. Then the silence comes back into the kitchen.
-CHIARA: Ti racconto la mia giornata, allora. Forse ti aiuta. || I'll tell you about my day, then. Maybe it'll help you.
-BEN: Sì. Racconta. || Yes. Tell me.
-CHIARA: Stamattina ho parlato con Marchetti. Della **promozione**. || This morning I talked to Marchetti. About the **promotion**.
-NARRATORE: Ben alza la testa di colpo. || Ben lifts his head suddenly.
-BEN: La **promozione**? Quale **promozione**? || The **promotion**? Which **promotion**?
-CHIARA: Quella che aspetto da settembre. Diventare socia dello studio, non solo dipendente. || The one I've been waiting for since September. Becoming a partner in the studio, not just an employee.
-BEN: E lui che ha detto? || And what did he say?
-CHIARA: Ha detto che ne parliamo a gennaio. Con i numeri. Ma ha detto "sì" con la faccia. || He said we'll talk about it in January. With the numbers. But he said "yes" with his face.
-BEN [sincero]: Chiara, è fantastico. Davvero. Sono contento per te. || Chiara, that's fantastic. Really. I'm happy for you.
-CHIARA: Grazie. Sono cinque anni che lavoro per questa cosa. || Thanks. I've been working towards this for five years.
-NARRATORE: Chiara prende la tazza vuota dal tavolo e la mette nel lavandino. Poi si gira di nuovo. || Chiara takes the empty cup from the table and puts it in the sink. Then she turns round again.
-CHIARA: Ecco perché stasera ti dico una cosa. || That's why tonight I'm telling you something.
-BEN [si irrigidisce]: Cosa? || What?
-CHIARA: Io **preferisco che** tu mi dica le cose quando succedono. Non dopo. || I **prefer** you to tell me things when they happen. Not after.
-BEN: Lo so. || I know.
-CHIARA: Io **preferisco che** ci diciamo tutto. Anche le cose noiose. Anche quando uno ha avuto una brutta giornata al bar. || I **prefer** us to tell each other everything. Even boring things. Even when one of us has had a bad day at the bar.
-BEN: Sì. Anch'io lo **preferisco**. || Yes. I **prefer** that too.
-CHIARA: Perché quando tu mi **nascondi** qualcosa, io lo sento. E mi sento sola. || Because when you **hide** something from me, I feel it. And I feel alone.
-NARRATORE: Questa frase colpisce Ben come una porta che si chiude. || That sentence hits Ben like a door closing.
-BEN [piano]: Non voglio che tu ti senta sola. Mai. || I don't want you to feel alone. Ever.
-CHIARA: Allora parlami. || Then talk to me.
-NARRATORE: Ben guarda il tavolo, poi la finestra, poi le sue mani. || Ben looks at the table, then the window, then his hands.
-BEN: Va bene. Ecco. Tre giorni fa... || All right. Here it is. Three days ago...
-NARRATORE: Si ferma. Chiara aspetta, senza muoversi. || He stops. Chiara waits, without moving.
-BEN: Tre giorni fa... ho comprato un libro nuovo. || Three days ago... I bought a new book.
-CHIARA [delusa]: Un libro. || A book.
-BEN: Sì. Un libro di cucina. Solo che costava troppo e non te l'ho detto. || Yes. A cookbook. Only it cost too much and I didn't tell you.
-CHIARA: Ben, non mi interessa quanto costa un libro. || Ben, I don't care how much a book costs.
-BEN [ride male]: Visto? È una cosa media. Come dicevo. || See? It's a medium thing. Like I said.
-NARRATORE: Chiara si alza e mette la tazza nell'armadio. Il rumore della tazza è un po' troppo forte. || Chiara gets up and puts the cup in the cupboard. The sound of the cup is a bit too loud.
-CHIARA: Ok. Allora domani. Ma domani voglio sentire la **verità** intera, non la versione ridotta. || OK. Tomorrow, then. But tomorrow I want to hear the whole **truth**, not the reduced version.
-BEN: La **verità** intera. Te lo prometto. || The whole **truth**. I promise you.
-CHIARA: Perché io **voglio che** questa famiglia funzioni. E **voglio che** funzioni con te dentro, non con te fuori. || Because I **want** this family to work. And I **want** it to work with you inside it, not with you outside it.
-BEN: Anch'io **voglio che** funzioni. || I **want** it to work too.
-CHIARA: Allora smettila di **nascondere** le cose. Anche quelle medie. || Then stop **hiding** things. Even medium ones.
-BEN: Va bene. || All right.
-NARRATORE: Chiara prende il bicchiere dell'acqua e beve un sorso lungo. || Chiara takes the water glass and takes a long sip.
-CHIARA: Comunque, sai una cosa? Oggi in studio ho pensato al **futuro**. || Anyway, you know something? Today at the studio I thought about the **future**.
-BEN [teso]: Al **futuro**? E che cosa hai pensato? || About the **future**? And what did you think?
-CHIARA: Che sto bene. Che finalmente sto bene qui. Milano, la casa, i bambini a scuola. || That I'm happy. That I'm finally happy here. Milan, the house, the kids at school.
-BEN: Anch'io sto bene qui. || I'm happy here too.
-CHIARA: Lo so. Per questo non capisco questa tua faccia da tre giorni. || I know. That's why I don't understand this face you've had for three days.
-BEN [cambia discorso]: Hai visto **la neve** oggi? Trenta centimetri. || Did you see **the snow** today? Thirty centimetres.
-CHIARA [ride]: Stai cambiando discorso con **la neve**. || You're changing the subject with **the snow**.
-BEN: **La neve** è un argomento serio. || **Snow** is a serious topic.
-CHIARA: Ben. || Ben.
-BEN: Sì? || Yes?
-CHIARA: Domani. Non dimenticarlo. || Tomorrow. Don't forget it.
-NARRATORE: Chiara prende la borsa e sale le scale. Si ferma a metà gradino. || Chiara picks up her bag and goes up the stairs. She stops halfway up.
-CHIARA [senza girarsi]: Ben, una cosa. Oggi Marchetti mi ha chiesto se volevo **partire** per un progetto a Roma. || Ben, one thing. Today Marchetti asked me if I wanted to **leave** for a project in Rome.
-BEN [si alza di colpo]: E tu? || And you?
-CHIARA: Ho detto no. Ho detto che voglio **restare** a Milano. Almeno per ora. || I said no. I said I want to **stay** in Milan. At least for now.
-BEN: Hai detto **restare**? Hai detto proprio **restare**? || You said **stay**? You actually said **stay**?
-CHIARA: Sì, perché? || Yes, why?
-BEN [si siede di nuovo]: Niente. Mi piace quella parola. || Nothing. I like that word.
-CHIARA [ride]: Buonanotte, strano. || Goodnight, strange one.
-NARRATORE: Chiara sale e la porta della camera si chiude piano. || Chiara goes up and the bedroom door closes quietly.
-NARRATORE: In cucina resta solo Ben, seduto davanti al tavolo vuoto. || In the kitchen only Ben is left, sitting in front of the empty table.
-NARRATORE: Aspetta un minuto intero per essere sicuro che lei sia di sopra. || He waits a whole minute to be sure she's upstairs.
-NARRATORE: Poi tira fuori il telefono e riapre l'email. Le parole sono sempre le stesse. || Then he takes out his phone and opens the email again. The words are always the same.
-BEN [sussurra]: "**Chiedono che** io cominci a marzo." || "**They're asking that** I start in March."
-BEN: **Chiedono che** io cominci a marzo e io non riesco a dirlo a mia moglie. || **They're asking that** I start in March and I can't manage to say it to my wife.
-NARRATORE: Ben legge la riga dopo, quella che non ha mai letto ad alta voce. || Ben reads the next line, the one he has never read out loud.
-BEN: "Caro Ben, questa è l'**occasione** della tua vita. Ti aspettiamo." || "Dear Ben, this is the **opportunity** of your life. We're waiting for you."
-NARRATORE: Il telefono vibra nella sua mano. Sul video compare lo stesso numero di Chicago. || The phone buzzes in his hand. The same Chicago number appears on the screen.
-BEN [guarda lo schermo]: Una **telefonata**. Adesso. Alle nove e mezza di sera in Italia. || A **phone call**. Now. At half past nine in the evening in Italy.
-NARRATORE: Ben mette il pollice sul tasto verde. Poi lo toglie. Poi ce lo rimette. || Ben puts his thumb on the green button. Then he takes it off. Then he puts it back.
-BEN: Se rispondo, questa cosa diventa vera. || If I answer, this thing becomes real.
-NARRATORE: Il telefono smette di vibrare da solo. Sullo schermo appare "1 chiamata persa". || The phone stops buzzing on its own. On the screen "1 missed call" appears.
-NARRATORE: Ben appoggia il telefono sul tavolo, con la faccia verso il basso. || Ben sets the phone on the table, face down.
-BEN [piano]: Domani. Domani le **racconto** tutto. Le **spiego** l'**offerta**, la **proposta**, lo **stipendio**, la **sede**, la **promozione** sua, tutto. || Tomorrow. Tomorrow I'll **tell** her everything. I'll **explain** the **offer** to her, the **proposal**, the **salary**, the **office**, her **promotion**, everything.
-BEN: E poi insieme **decidiamo**. E insieme **scegliamo**. || And then together we **decide**. And together we **choose**.
-NARRATORE: Ben spegne la luce della cucina e resta un momento al buio. || Ben turns off the kitchen light and stays a moment in the dark.
-BEN [quasi per sé]: La **scelta**. È tutta qui la **scelta**. || The **choice**. That's the whole **choice**.
-NARRATORE: Poi sale le scale, piano, per non svegliare nessuno. || Then he goes up the stairs, quietly, so as not to wake anyone.
-NARRATORE: Ma prima di entrare in camera, si ferma sul pianerottolo e **spera** una cosa sola. || But before going into the bedroom, he stops on the landing and **hopes** for one thing only.
-BEN [sussurra]: **Spero che** lei capisca. **Spero che** lei **desideri** la stessa cosa che **desidero** io. || **I hope** she understands. **I hope** she **wishes** for the same thing I **wish** for.
-NARRATORE: In camera, Chiara dorme già con la luce accesa e un libro aperto sul petto. || In the bedroom, Chiara is already asleep with the light on and a book open on her chest.
-NARRATORE: Fuori, sulla strada, **la neve** comincia di nuovo a cadere, lenta e silenziosa. || Outside, on the street, **the snow** starts falling again, slow and silent.
-
-# SCENE bar-tigli | mercoledì mattina | ben, ornella, matteo
-NARRATORE: Mercoledì mattina, sette e mezza. Fuori **la neve** è alta quindici centimetri e il marciapiede è ghiacciato. || Wednesday morning, half past seven. Outside **the snow** is fifteen centimetres deep and the pavement is icy.
-NARRATORE: Ben alza la saracinesca del Bar Tigli con le mani fredde. || Ben raises the shutter of Bar Tigli with cold hands.
-NARRATORE: Dentro è tutto buio, tutto fermo, tutto come ieri sera. || Inside everything is dark, everything still, everything as it was last night.
-BEN [a voce bassa]: Ok. Caffè. Prima il caffè. || OK. Coffee. Coffee first.
-NARRATORE: Accende le luci, mette su la macchina del caffè e si gira verso il bancone. || He turns on the lights, starts the coffee machine and turns towards the counter.
-NARRATORE: Davanti al bancone, seduta al suo solito posto, c'è Ornella. || In front of the counter, sitting in her usual place, is Ornella.
-BEN [sobbalza]: Ornella! Ma sono le sette e mezza! || Ornella! But it's half past seven!
-ORNELLA [calma]: Buongiorno anche a te. || Good morning to you too.
-BEN: Tu non vieni mai prima delle nove. Mai. In cinque anni. || You never come before nine. Never. In five years.
-ORNELLA: Oggi avevo una cosa da chiedere. || Today I had something to ask.
-BEN: Una cosa da chiedere. Capisco. || Something to ask. I see.
-ORNELLA: Vuoi farmi un caffè o vuoi farmi parlare a vuoto? || Do you want to make me a coffee or do you want me to talk to no purpose?
-BEN [prende la tazzina]: Caffè. Subito. || Coffee. Right away.
-NARRATORE: Ben mette la tazzina sotto la macchina e la lascia lì, senza guardarla. || Ben puts the cup under the machine and leaves it there, without looking at it.
-ORNELLA: Senza zucchero, come sempre. || No sugar, as always.
-BEN: Lo so. Come sempre. || I know. As always.
-NARRATORE: La macchina fa il suo rumore, quello di tutte le mattine. || The machine makes its noise, the one from every morning.
-NARRATORE: Ornella prende la tazzina con due mani e la tiene davanti a sé, senza bere. || Ornella takes the cup with both hands and holds it in front of her, without drinking.
-ORNELLA: Allora? || So?
-BEN [fingendo di non capire]: Allora cosa? || So what?
-ORNELLA: Ben. || Ben.
-BEN: Ornella, sono le sette e mezza. || Ornella, it's half past seven.
-ORNELLA: E io ho settantotto anni, quindi non abbiamo tempo da perdere. || And I'm seventy-eight, so we don't have time to waste.
-NARRATORE: Ben appoggia il panno sul bancone. Guarda la porta, con la faccia di uno che vuole uscire. || Ben sets the cloth on the counter. He looks at the door, with the face of someone who wants to go out.
-BEN [piano]: Non gliel'ho detto. || I didn't tell her.
-ORNELLA: Come? || What?
-BEN: Non gliel'ho detto. Ieri sera non sono riuscito. || I didn't tell her. Last night I couldn't manage it.
-NARRATORE: Ornella non dice niente. Beve un sorso di caffè, molto lentamente. || Ornella says nothing. She takes a sip of coffee, very slowly.
-BEN: Ho provato tre volte. Tre volte ho aperto la bocca. || I tried three times. Three times I opened my mouth.
-ORNELLA: E tre volte l'hai chiusa. || And three times you closed it.
-BEN: Sì. Le ho detto che avevo comprato un libro di cucina. || Yes. I told her I'd bought a cookbook.
-ORNELLA [appoggia la tazzina]: Un libro di cucina. || A cookbook.
-BEN: Costoso. Troppo costoso. || Expensive. Too expensive.
-ORNELLA: E tu **speri** che quella donna ti creda? || And you **hope** that woman believes you?
-BEN: No. Infatti non mi ha creduto. || No. In fact she didn't believe me.
-ORNELLA: Bene. Almeno è intelligente. || Good. At least she's intelligent.
-NARRATORE: Ben si passa una mano tra i capelli. Ha ancora il cappotto addosso. || Ben runs a hand through his hair. He's still wearing his coat.
-BEN: Ornella, io lo so che cosa dovevo fare. Lo so benissimo. || Ornella, I know what I was supposed to do. I know it perfectly well.
-ORNELLA: Allora perché non l'hai fatto? || Then why didn't you do it?
-BEN: Perché stavo bene. Per un'ora intera, ieri sera, stavo bene. || Because I was fine. For a whole hour, last night, I was fine.
-BEN: Chiara ha parlato del suo studio, dei bambini, del **futuro**. E io non volevo rovinare tutto. || Chiara talked about her studio, the kids, the **future**. And I didn't want to ruin everything.
-ORNELLA: Capisco. || I understand.
-BEN: Davvero? || Really?
-ORNELLA [secca]: No. Non capisco niente. Non è vero niente. || No. I understand nothing. None of it's true.
-NARRATORE: Ben si blocca con lo straccio a mezz'aria. || Ben freezes with the cloth in mid-air.
-ORNELLA: Tu non stavi bene, Ben. Tu stavi tranquillo. Sono due cose diverse. || You weren't fine, Ben. You were calm. They're two different things.
-ORNELLA: Uno sta bene quando dice le cose. Sta tranquillo quando le **nasconde**. || You're fine when you say things. You're calm when you **hide** them.
-BEN [siede sul seggiolone]: Hai ragione. Come sempre. || You're right. As always.
-ORNELLA: Non è sempre. Ma in questo caso sì. || It isn't always. But in this case, yes.
-NARRATORE: Ornella finisce il caffè e mette la tazzina sul piattino con un colpo preciso. || Ornella finishes her coffee and sets the cup on the saucer with a precise little click.
-ORNELLA: Adesso ascoltami, perché parlo una volta sola. || Now listen to me, because I'm saying this only once.
-BEN: Ti ascolto. || I'm listening.
-ORNELLA: Io **spero che** domani mattina tu mi **racconti** che Chiara lo sa. || I **hope** that tomorrow morning you **tell** me that Chiara knows.
-BEN: Domani mattina. || Tomorrow morning.
-ORNELLA: Tu mi **racconti** che Chiara lo sa, e io bevo il mio caffè e non dico niente. || You **tell** me that Chiara knows, and I drink my coffee and say nothing.
-BEN: È un **consiglio** o un ultimatum? || Is that **advice** or an ultimatum?
-ORNELLA [si alza]: È un **consiglio**. Ma è anche l'ultimo. || It's **advice**. But it's also the last one.
-NARRATORE: Ornella prende la borsa e si aggiusta il cappotto. || Ornella picks up her bag and adjusts her coat.
-ORNELLA: E adesso ci sono io che ti chiedo una cosa. || And now I'm the one asking you something.
+ORNELLA: La faccia di un uomo con una cosa da dire. || The face of a man with something to say.
+NARRATORE: Ben posa la tazzina. Guarda fuori dalla finestra, verso il numero 14. || Ben puts down the cup. He looks out of the window, towards number 14.
+NARRATORE: Poi guarda Ornella, e capisce che è inutile cominciare con un'altra storia. || Then he looks at Ornella, and realises it's useless to start with another story.
+BEN [lento]: Tre giorni fa ho ricevuto un'**email** da Chicago. || Three days ago I got an **email** from Chicago.
+ORNELLA: Ah. || Ah.
+BEN: La mia vecchia **azienda**. Michael, il mio **capo** di prima. || My old **company**. Michael, my old **boss**.
+BEN: Mi hanno scritto che hanno una **proposta di lavoro** per me. || They wrote to me that they have a **job proposal** for me.
+ORNELLA: Una **proposta di lavoro**. || A **job proposal**.
+BEN: **Vogliono che** io **torni** a Chicago. A **marzo**. || **They want** me **to go back** to Chicago. In **March**.
+NARRATORE: Ornella non dice niente. Mette le mani in grembo e aspetta. || Ornella doesn't say anything. She puts her hands in her lap and waits.
+BEN: E **lo stipendio**… **lo stipendio** **raddoppia**. Capisci? Il doppio. || And **the salary**… **the salary** **doubles**. Do you understand? Double.
+ORNELLA: Ho capito. Doppio. Continua. || I understand. Double. Go on.
+BEN: **La sede** è la stessa di dodici anni fa. **La promozione** è già mia. || **The office** is the same as twelve years ago. **The promotion** is already mine.
+BEN: **Il contratto** aspetta solo la mia **firma**. || **The contract** is just waiting for my **signature**.
+BEN: E **il trasferimento** lo pagano loro. Tutto. || And **the move** is on them. Everything.
+ORNELLA [piano]: Tutto. || Everything.
+BEN: Nel **messaggio** c'è anche la casa. E la macchina. || In the **message** there's the house too. And the car.
+NARRATORE: Ornella prende la sua tazzina, beve un sorso e la rimette giù con calma. || Ornella picks up her cup, takes a sip and puts it down calmly.
+ORNELLA: Ho tre domande. || I have three questions.
+BEN: Tre. || Three.
+ORNELLA: La prima. Chiara lo sa? || The first. Does Chiara know?
+NARRATORE: Ben guarda il pavimento. || Ben looks at the floor.
+BEN: No. || No.
+ORNELLA: La seconda. Emma e Leo lo sanno? || The second. Do Emma and Leo know?
+BEN: No. || No.
+ORNELLA: La terza domanda non la faccio, perché conosco la risposta. || The third question I won't ask, because I know the answer.
+BEN: Quale? || Which one?
+ORNELLA: Perché non glielo hai detto. E la risposta è che non lo sai nemmeno tu. || Why you haven't told them. And the answer is that you don't know either.
+NARRATORE: Ben apre la bocca e poi la richiude. Ornella ha ragione, come sempre. || Ben opens his mouth and then closes it again. Ornella is right, as always.
+BEN: Non lo so. Ho un **dubbio** enorme e non so da dove cominciare. || I don't know. I have a huge **doubt** and I don't know where to start.
+ORNELLA: Allora comincia da una cosa semplice. || Then start with something simple.
+ORNELLA: Tu **vuoi** **tornare** a Chicago? || Do **you want** **to go back** to Chicago?
+BEN: Non lo so! Ecco il problema. Non lo so! || I don't know! That's the problem. I don't know!
+ORNELLA: Bene. Questa è una risposta onesta. Non è una **decisione**, ma è onesta. || Good. That's an honest answer. It's not a **decision**, but it's honest.
+BEN [più piano]: Michael **chiede che** io **risponda** entro febbraio. || Michael **is asking** me **to reply** by February.
+BEN: **Desidera che** **cominci** presto. **Chiedono che** **ci trasferiamo** tutti. || He **wants** **me to start** soon. **They're asking** **us all to move**.
+ORNELLA: **Chiedono che** **vi trasferiate**. Certo. Le aziende chiedono sempre. || **They're asking** **you to move**. Of course. Companies always ask.
+ORNELLA: Ma nessuna azienda al mondo decide per te. Almeno, non le aziende serie. || But no company in the world decides for you. At least, not serious ones.
+NARRATORE: Ben sorride, senza allegria. || Ben smiles, without cheer.
+BEN: Ornella, io non voglio **chiedere** a mia figlia di lasciare la sua scuola. || Ornella, I don't want **to ask** my daughter to leave her school.
+BEN: Emma qui ha amici. Ha Tommaso. Leo ha Pietro. || Emma has friends here. She has Tommaso. Leo has Pietro.
+BEN: E Chiara ha uno studio, ha una carriera che funziona, ha suo padre qui. || And Chiara has a studio, a career that works, her father here.
+BEN: Non voglio che la mia **offerta** diventi la loro problema. || I don't want my **offer** to become their problem.
+ORNELLA [lo interrompe]: La parola giusta è "il loro problema", non "la loro problema". || The right word is "il loro problema", not "la loro problema".
+BEN: Il loro problema. Grazie. || Their problem. Thanks.
+ORNELLA: Prego. E adesso ascoltami bene, perché questa cosa la so. || You're welcome. And now listen to me carefully, because I know this thing.
+NARRATORE: Ornella si sistema sulla sedia e guarda fuori, verso il bar in fondo alla strada. || Ornella settles in her chair and looks outside, towards the bar at the end of the street.
+ORNELLA: Quando Gino ha comprato il bar, nel sessantotto, non me l'ha detto. || When Gino bought the bar, in '68, he didn't tell me.
+ORNELLA: Ha **firmato** **il contratto** di nascosto. L'ho scoperto dopo due settimane, da una vicina. || He **signed** **the contract** in secret. I found out two weeks later, from a neighbour.
+BEN: Da una vicina. || From a neighbour.
+ORNELLA: Da una vicina. In una strada come questa non esistono **segreti** lunghi. || From a neighbour. On a street like this there are no long **secrets**.
+ORNELLA: Gino pensava di proteggermi. "Non volevo preoccuparti", diceva. || Gino thought he was protecting me. "I didn't want to worry you," he used to say.
+BEN: E tu che cosa gli hai detto? || And what did you say to him?
+ORNELLA: Gli ho detto che **preferisco che** **mi dica** le cose brutte. Tutte. Sempre. || I told him that **I prefer** him **to tell** me the bad things. All of them. Always.
+ORNELLA: Perché una **verità** condivisa è pesante. Ma un **segreto** è più pesante ancora. || Because a shared **truth** is heavy. But a **secret** is heavier still.
+NARRATORE: Ben non parla per qualche secondo. Fuori, Pavarotti attraversa la strada con calma. || Ben doesn't speak for a few seconds. Outside, Pavarotti crosses the road calmly.
+BEN [quasi sottovoce]: Io sto **nascondendo** una cosa alla mia famiglia da tre giorni. || I've been **hiding** something from my family for three days.
+ORNELLA: Lo so. Ed è per questo che sei qui da me invece che a casa tua. || I know. And that's why you're here with me instead of at home.
+BEN: È così evidente? || Is it that obvious?
+ORNELLA: Ai miei occhi sì. Ma ai miei occhi è evidente tutto. || To my eyes, yes. But to my eyes everything is obvious.
+NARRATORE: Ornella si alza, prende le tazzine e le porta in cucina. Torna con le mani vuote. || Ornella gets up, takes the cups into the kitchen. She comes back with empty hands.
+ORNELLA: Adesso ti dico una cosa e poi non ne parlo più. || Now I'll tell you one thing and then I won't talk about it any more.
 BEN: Dimmi. || Tell me.
-ORNELLA: **Voglio che** tu risponda a quella **telefonata**. Non alla prima. Alla terza. || I **want** you to answer that **phone call**. Not the first one. The third.
-BEN [sorpreso]: Come fai a sapere della **telefonata**? || How do you know about the **phone call**?
-ORNELLA: Perché ieri, mentre parlavi con me, il telefono ti ha vibrato cinque volte in tasca. || Because yesterday, while you were talking to me, your phone buzzed five times in your pocket.
-BEN: Non ci ho fatto caso. || I didn't notice.
-ORNELLA: Io ci faccio caso a tutto. È il mio lavoro da cinquant'anni. || I notice everything. It's been my job for fifty years.
-NARRATORE: Ben guarda il telefono sul bancone, girato verso il basso. || Ben looks at the phone on the counter, face down.
-BEN: E che cosa dovrei dirgli, a quelli di Chicago? || And what am I supposed to say to them, the people in Chicago?
-ORNELLA: Di aspettare. In italiano si dice così: "Aspettate". || To wait. In Italian you say it like this: "Wait."
-BEN: Solo quello? || Just that?
-ORNELLA: Solo quello. Non serve una frase elegante. Serve una **decisione**. || Just that. You don't need an elegant sentence. You need a **decision**.
-NARRATORE: Ben prende il telefono e lo gira. Sullo schermo c'è scritto "3 chiamate perse". || Ben picks up the phone and turns it over. On the screen it says "3 missed calls".
-BEN: Tre **telefonate**. Tutte da Chicago. || Three **phone calls**. All from Chicago.
-ORNELLA: Ecco. || There.
-NARRATORE: E in quel momento il telefono comincia a vibrare di nuovo, proprio nella mano di Ben. || And at that moment the phone starts buzzing again, right in Ben's hand.
-NARRATORE: Sullo schermo compare il prefisso internazionale, quello lungo, quello che Ben conosce a memoria. || On the screen the international code appears, the long one, the one Ben knows by heart.
-BEN [bloccato]: È loro. Di nuovo. || It's them. Again.
-ORNELLA [tende la mano]: Dammi il telefono. || Give me the phone.
-BEN: Ornella, no. Non puoi. || Ornella, no. You can't.
-ORNELLA: Dammi il telefono, Ben. || Give me the phone, Ben.
-NARRATORE: Ben le passa il telefono come un ragazzo che consegna i compiti. || Ben hands her the phone like a schoolboy handing in his homework.
-NARRATORE: Ornella preme il tasto verde e se lo mette all'orecchio. || Ornella presses the green button and puts it to her ear.
-ORNELLA [in un inglese perfetto, calmissima]: Good morning. Bar Tigli, Borgoverde. || Good morning. Bar Tigli, Borgoverde.
-NARRATORE: C'è un secondo di silenzio. Poi Ornella ascolta, senza cambiare espressione. || There's a second of silence. Then Ornella listens, without changing her expression.
-ORNELLA [in inglese, poi in italiano]: One moment, please. <short pause> Sì, un attimo. || One moment, please. <short pause> Yes, one moment.
-NARRATORE: Ornella allontana il telefono dall'orecchio e lo tende verso Ben. || Ornella moves the phone away from her ear and holds it out towards Ben.
-ORNELLA: È per te. Una signora molto gentile. || It's for you. A very kind lady.
-BEN [prende il telefono]: Ornella, tu sei... || Ornella, you're...
-ORNELLA: Insistente. Lo so. || Insistent. I know.
-NARRATORE: La porta del bar si apre e entra Matteo, con la neve sulle spalle e il berretto in mano. || The bar door opens and Matteo comes in, with snow on his shoulders and his hat in his hand.
-MATTEO [si ferma]: Buongiorno. Ornella! Alle sette e tre quarti! || Morning. Ornella! At a quarter to eight!
-ORNELLA: Buongiorno, Matteo. || Morning, Matteo.
-NARRATORE: Matteo guarda Ben, che ha il telefono all'orecchio e la faccia bianca. || Matteo looks at Ben, who has the phone to his ear and a white face.
-MATTEO: Ben, chi è al telefono? || Ben, who's on the phone?
-BEN [copre il microfono con la mano]: La pubblicità. || Advertising.
-MATTEO: La pubblicità alle sette e tre quarti? || Advertising at a quarter to eight?
-BEN: Sono americani. Fanno presto. || They're American. They start early.
-NARRATORE: Matteo guarda Ornella, che si sta già rimettendo la sciarpa. || Matteo looks at Ornella, who is already putting her scarf back on.
-MATTEO: Ornella, e lei chi è? || Ornella, and who is it?
-ORNELLA [verso la porta, senza girarsi]: Una **pubblicità** molto insistente. || A very insistent piece of **advertising**.
-NARRATORE: Ornella esce nel freddo. La porta si chiude e resta solo il rumore della macchina del caffè. || Ornella goes out into the cold. The door closes and only the noise of the coffee machine is left.
-NARRATORE: Ben è ancora con il telefono all'orecchio. Matteo lo guarda e non dice niente. || Ben is still holding the phone to his ear. Matteo looks at him and says nothing.
-BEN [piano, al telefono]: Sì. Sì, sono io. <short pause> Un momento, per favore. || Yes. Yes, it's me. <short pause> One moment, please.
-NARRATORE: Ben copre di nuovo il microfono e guarda Matteo. || Ben covers the microphone again and looks at Matteo.
-BEN: Matteo, mi dispiace. Ti devo **raccontare** una cosa. || Matteo, I'm sorry. I have to **tell** you something.
-MATTEO [si toglie il berretto]: Lo so. Sono cinque anni che aspetto questa frase. || I know. I've been waiting five years for that sentence.
-MATTEO: Fai la tua **telefonata**. Poi mi **spieghi** tutto. || Take your **phone call**. Then you **explain** everything to me.
-BEN [annuisce]: Grazie. || Thanks.
-NARRATORE: Matteo va dietro il bancone e comincia a preparare il caffè per tutti. || Matteo goes behind the counter and starts making coffee for everyone.
-MATTEO [mentre lavora]: E poi la chiami Chiara, vero? || And then you call Chiara, right?
-BEN [piano]: Sì. Poi chiamo Chiara. || Yes. Then I call Chiara.
-MATTEO: Bene. || Good.
-NARRATORE: Fuori, dalla vetrina, si vede Ornella che attraversa la strada con passi piccoli e sicuri. || Outside, through the window, Ornella can be seen crossing the street with small, sure steps.
-NARRATORE: Ben la guarda, poi guarda il telefono, poi guarda Matteo. || Ben looks at her, then at the phone, then at Matteo.
-BEN [all'apparecchio, in inglese, poi in italiano]: Sì. <short pause> Grazie. Vi richiamo io. Domani. || Yes. <short pause> Thank you. I'll call you back. Tomorrow.
-NARRATORE: Riattacca e appoggia il telefono sul bancone, con la faccia verso l'alto, per la prima volta in tre giorni. || He hangs up and sets the phone on the counter, face up, for the first time in three days.
-BEN [breathing out]: Ok. || OK.
-MATTEO [senza alzare gli occhi]: Caffè? || Coffee?
-BEN [siede al bancone]: Caffè. Doppio. || Coffee. Double.
-MATTEO: Come lo **stipendio**? || Like the **salary**?
-BEN [si gira di colpo]: Che cosa? || What?
-MATTEO [ride]: Scherzo, Ben. Scherzo. Per ora. || Joke, Ben. Joke. For now.
-NARRATORE: Matteo mette la tazzina davanti a Ben, poi ne mette una anche per sé. || Matteo puts the cup in front of Ben, then puts one out for himself too.
-MATTEO: Ma sappi una cosa. Il bar non si **trasferisce**. E nemmeno io. || But know one thing. The bar isn't **moving**. And neither am I.
-BEN [sorride]: E nemmeno l'**offerta** si **trasferisce**, per adesso. L'ho appena rimandata. || And the **offer** isn't **moving** either, for now. I've just postponed it.
-NARRATORE: Matteo alza la tazzina. Ben alza la sua. Si guardano e bevono insieme. || Matteo raises his cup. Ben raises his. They look at each other and drink together.
-MATTEO: Allora. Da dove cominciamo? || So. Where do we start?
-BEN: Dalla **sede**. Dalla **sede** di Chicago, primo piano. || From the **office**. From the Chicago **office**, first floor.
-NARRATORE: Fuori **la neve** continua a cadere, ma dentro il Bar Tigli comincia a fare caldo. || Outside **the snow** keeps falling, but inside Bar Tigli it's starting to get warm.
+ORNELLA: **Spero che** **tu lo dica** a Chiara stasera. **Preferisco che** **tu non aspetti** un altro giorno. || **I hope** **you tell** Chiara tonight. **I prefer** **you not to wait** another day.
+ORNELLA: Non per me. Per te. Perché ogni giorno che passa, la cosa diventa più grande. || Not for me. For you. Because with every day that passes, the thing gets bigger.
+BEN [annuisce]: Hai **coraggio**, tu. || You have **courage**, you.
+ORNELLA: No. Ho settantotto anni e ho visto molte cose. Non è la stessa cosa. || No. I'm seventy-eight and I've seen many things. It's not the same thing.
+BEN: E se poi Chiara **decide** che vuole andare? E se **decide** che vuole restare e io non lo so? || And if Chiara then **decides** she wants to go? And if she **decides** she wants to stay and I don't know?
+ORNELLA: Allora **deciderete** insieme. Questa si chiama famiglia. || Then **you'll decide** together. That's what a family is called.
+ORNELLA: Tu non puoi **decidere** per quattro persone, Ben. Non è un regalo, è un peso. || You can't **decide** for four people, Ben. It's not a gift, it's a weight.
+NARRATORE: Ben resta in silenzio. Guarda le sue mani, poi la finestra. || Ben stays silent. He looks at his hands, then the window.
+BEN: Ho paura di perdere quello che ho costruito qui. || I'm afraid of losing what I've built here.
+ORNELLA: E hai paura anche di perdere quello che avevi là. Si può avere paura di due cose insieme. || And you're also afraid of losing what you had there. You can be afraid of two things at once.
+BEN: Sì. Esatto. || Yes. Exactly.
+ORNELLA: Bene. Allora non sei confuso. Sei solo un uomo normale. || Good. Then you're not confused. You're just a normal man.
+NARRATORE: Ornella si alza e va verso la porta della cucina. || Ornella gets up and goes towards the kitchen door.
+ORNELLA: Grazie della spesa. Il pane è quello giusto, finalmente. || Thanks for the shopping. The bread is the right one, finally.
+BEN [si alza]: Prego. Ci vediamo domani. || You're welcome. See you tomorrow.
+ORNELLA: Aspetta. C'è una cosa prima che tu vada. || Wait. There's one thing before you go.
+BEN: Che cosa? || What?
+ORNELLA: La spazzatura. Il sacchetto è sul pianerottolo. || The rubbish. The bag is on the landing.
+BEN [ride]: Ah. Certo. || Ah. Of course.
+ORNELLA: La vita non si ferma per una **decisione**, Ben. Il sacchetto va buttato lo stesso. || Life doesn't stop for a **decision**, Ben. The bag has to go out anyway.
+NARRATORE: Ben prende il sacchetto e scende le scale. || Ben takes the bag and goes down the stairs.
+NARRATORE: Sulla porta, Ornella lo guarda andare verso il cassonetto. || At the door, Ornella watches him walk towards the bin.
+ORNELLA [a se stessa, piano]: Pover'uomo. Stasera sarà una serata lunga. || Poor man. Tonight will be a long evening.
+
+# CONFESSIONALE ornella
+ORNELLA [calma, con un sorriso misurato]: Ai miei tempi i **segreti** duravano poco. || In my day **secrets** didn't last long.
+ORNELLA: Duravano poco perché le finestre sono tante. || They didn't last long because there are so many windows.
+ORNELLA: In Via dei Tigli tutti guardano fuori. Io per prima. || On Via dei Tigli everybody looks out. Me first of all.
+ORNELLA: Il signor Colombo guarda dalla finestra del salotto. || Mr Colombo looks out of the living-room window.
+ORNELLA: La signora del 22 guarda dalla cucina. || The lady at number 22 looks out of the kitchen.
+ORNELLA: E io guardo dalla poltrona, che è il posto migliore. || And I look out from the armchair, which is the best spot.
+ORNELLA: Quindi, se qualcuno **nasconde** una cosa, prima o poi la vediamo. || So if somebody **hides** something, sooner or later we see it.
+ORNELLA: Ben non lo sa ancora, ma **nascondere** non è la sua specialità. || Ben doesn't know it yet, but **hiding** isn't his speciality.
+ORNELLA: Stasera aveva la faccia di un uomo che porta una valigia in tasca. || Tonight he had the face of a man carrying a suitcase in his pocket.
+NARRATORE: Ornella sistema il centrino sul tavolino e ci mette sopra le mani. || Ornella straightens the doily on the little table and rests her hands on it.
+ORNELLA: Gino, mio marito, faceva così. Non mi diceva le cose. || Gino, my husband, did that. He didn't tell me things.
+ORNELLA: Pensava di essere gentile. Pensava di proteggermi. || He thought he was being kind. He thought he was protecting me.
+ORNELLA: Gli uomini che **nascondono** una **decisione** quasi sempre pensano di essere gentili. || Men who **hide** a **decision** almost always think they're being kind.
+ORNELLA: E invece ci trattano come bambine. || And instead they treat us like little girls.
+ORNELLA: **Preferisco che** **mi si dica** tutto. Anche le cose brutte. || **I prefer** **to be told** everything. Even the bad things.
+ORNELLA: Perché la **verità** si può portare in due. Un **segreto** no. || Because the **truth** can be carried by two people. A **secret** can't.
+ORNELLA: Ben mi sta simpatico. Molto. È un uomo buono e un po' ridicolo. || I like Ben. A lot. He's a good man and a bit ridiculous.
+ORNELLA: Per questo sono preoccupata per lui. || That's why I'm worried about him.
+ORNELLA: Chicago è **lontano**. Ma anche il silenzio in casa è **lontano**. || Chicago is **far away**. But silence at home is **far away** too.
+ORNELLA: Lui ha una **scelta** davanti, e non è la **scelta** tra due città. || He has a **choice** in front of him, and it's not the **choice** between two cities.
+ORNELLA: È la **scelta** tra parlare e non parlare. E quella è tutta un'altra cosa. || It's the **choice** between speaking and not speaking. And that's a whole different thing.
+ORNELLA: Non dirò niente a nessuno. Non è compito mio. || I won't say anything to anyone. It's not my job.
+ORNELLA: La strada lo scoprirà da lui. Se lo scopre prima da me, è un pettegolezzo. || The street will find out from him. If it finds out from me first, it's gossip.
+ORNELLA: **Spero che** **trovi** **il coraggio** stasera. || **I hope** **he finds** **the courage** tonight.
+ORNELLA: **Preferisco che** **non impari** la **verità** da mia figlia. || **I prefer** **he doesn't learn** the **truth** from my daughter.
+ORNELLA [sospira]: Perché mia figlia non sa tenere un **segreto**. Mai saputo. || Because my daughter doesn't know how to keep a **secret**. Never has.
+
+# SCENE casa-carter | martedì sera | ben, chiara, emma, leo
+NARRATORE: Alle otto e un quarto i Carter sono a tavola. || At quarter past eight the Carters are at the table.
+NARRATORE: In mezzo al tavolo c'è una zuppa di verdure, e Ben tiene in mano un bicchiere pieno che non beve. || In the middle of the table there's a vegetable soup, and Ben is holding a full glass he isn't drinking.
+LEO: Papà, oggi ho imparato una cosa nuova. || Dad, today I learned a new thing.
+BEN [distracted]: Ah sì? || Oh yes?
+LEO: In Italia si cena alle otto, non alle sei. E nessuno muore. || In Italy you have dinner at eight, not at six. And nobody dies.
+CHIARA [laughing]: È vero. Nessuno muore. || It's true. Nobody dies.
+LEO: Ma perché gli italiani mangiano così tardi? || But why do Italians eat so late?
+CHIARA: Perché prima c'è l'aperitivo. || Because first there's the aperitivo.
+LEO: Che cos'è l'aperitivo? || What's an aperitivo?
+CHIARA: Una cosa da adulti. Mangia la zuppa. || A grown-up thing. Eat your soup.
+LEO [tasting]: Buona. Ma non è come la zuppa di Chicago. || Nice. But it's not like the soup in Chicago.
+CHIARA: E perché la zuppa di Chicago è speciale? || And why is Chicago soup special?
+LEO: Perché c'è il formaggio sopra. || Because there's cheese on top.
+BEN [without looking up]: Il formaggio è un'ottima idea. || Cheese is an excellent idea.
+NARRATORE: Chiara lo guarda. La zuppa di Ben è ancora tutta lì. || Chiara looks at him. Ben's soup is still all there.
+EMMA [walking in with her phone]: Scusate il ritardo. Devo preparare il dibattito. || Sorry I'm late. I have to prepare the debate.
+CHIARA: Il dibattito? || The debate?
+EMMA: Sì, domani in classe. La professoressa ci ha dato una domanda. || Yes, tomorrow in class. The teacher gave us a question.
+EMMA: "Meglio restare o partire?" || "Is it better to stay or to leave?"
+NARRATORE: Ben alza la testa di colpo. Il cucchiaio gli scivola dalla mano. || Ben jerks his head up. The spoon slips out of his hand.
+BEN [too loud]: Che domanda è questa? || What kind of question is that?
+EMMA [surprised]: Una domanda normale, papà. È un dibattito. || A normal question, Dad. It's a debate.
+EMMA: Devo dire le ragioni di tutte e due le parti: restare e partire. || I have to give the reasons for both sides: staying and leaving.
+CHIARA: E tu da che parte stai? || And which side are you on?
+EMMA: Non lo so. Per questo chiedo. Papà, tu che cosa pensi? || I don't know. That's why I'm asking. Dad, what do you think?
+NARRATORE: Tutti guardano Ben. Ben guarda la zuppa fredda. || Everyone looks at Ben. Ben looks at the cold soup.
+BEN [slowly]: Partire è facile. || Leaving is easy.
+EMMA: Facile? || Easy?
+BEN: Sì. Partire è facile, perché non devi guardare in faccia quello che lasci. || Yes. Leaving is easy, because you don't have to look in the face of what you're leaving.
+NARRATORE: Emma posa il telefono. Anche Chiara ascolta adesso. || Emma puts down her phone. Chiara is listening now too.
+BEN: Restare è più difficile. Ma restare è la **scelta** coraggiosa. || Staying is harder. But staying is the brave **choice**.
+EMMA: Tipo, restare è coraggioso perché devi affrontare le cose. || Like, staying is brave because you have to face things.
+BEN: Esatto. Le devi affrontare tutti i giorni. Anche il martedì. || Exactly. You have to face them every day. On Tuesdays too.
+EMMA: Allora scrivo così. Grazie, papà. || Then I'll write that. Thanks, Dad.
+NARRATORE: Emma prende il pane e comincia a mangiare. Leo finisce la zuppa in tre cucchiai. || Emma takes the bread and starts eating. Leo finishes his soup in three spoonfuls.
+NARRATORE: Poi si gira verso la credenza, dove c'è il quaderno di Ben. || Then he turns towards the sideboard, where Ben's notebook is.
+LEO: Papà, questo è il tuo quaderno delle parole! || Dad, this is your word notebook!
+BEN [reaching out]: Leo, no. Lascialo lì. || Leo, no. Leave it there.
+LEO [opening it]: Perché? È bello. Ci sono tante parole nuove. || Why? It's nice. There are lots of new words.
+LEO: Aspetta, c'è una pagina nuova, in fondo. || Wait, there's a new page, at the back.
+BEN [loud]: Leo! || Leo!
+NARRATORE: Ma Leo ha già letto, con la voce alta e lenta dei bambini. || But Leo has already read, in the loud, slow voice of children.
+LEO: **Offerta**. **Stipendio**. **Contratto**. **Trasferimento**. **Sede**. **Promozione**. || **Offer**. **Salary**. **Contract**. **Move**. **Office**. **Promotion**.
+LEO: Papà, che cos'è "**trasferimento**"? || Dad, what's "**move**"?
+NARRATORE: Per un secondo, in cucina non c'è nessun rumore. || For a second, there's no noise at all in the kitchen.
+BEN [too calm]: Sono parole per il corso di cucina. || They're words for the cooking class.
+LEO: E perché le scrivi anche sulla mia lavagna? || And why do you write them on my board too?
+BEN: Perché le scrivo sempre. Per imparare. || Because I always write them down. To learn.
+LEO [satisfied]: Ah. Allora le imparo anch'io. || Ah. Then I'll learn them too.
+BEN [smiling badly]: Bravo. || Good boy.
+NARRATORE: Chiara non dice niente. Guarda il quaderno, poi Ben, poi di nuovo il quaderno. || Chiara says nothing. She looks at the notebook, then Ben, then the notebook again.
+CHIARA [quietly]: Ben. || Ben.
+BEN: Sì? || Yes?
+CHIARA: Il corso di cucina non ha **una sede** a Chicago. || The cooking class doesn't have **an office** in Chicago.
+NARRATORE: Ben apre la bocca e sente il cuore battere forte. || Ben opens his mouth and feels his heart beating hard.
+BEN: Ho conosciuto uno chef americano. Vuole fare un corso anche là, un giorno. || I met an American chef. He wants to run a course there too, one day.
+CHIARA [unconvinced]: Un giorno. || One day.
+BEN [fast]: Un giorno **lontano**. Molto **lontano**. || One day **far away**. Very **far away**.
+NARRATORE: Leo alza la testa, con il pane in mano. || Leo lifts his head, with bread in his hand.
+LEO: Papà, a Chicago c'è la **neve**? || Dad, is there **snow** in Chicago?
+BEN: Sì, molta. || Yes, lots.
+LEO: Che bello! Voglio andare a Chicago! || Cool! I want to go to Chicago!
+NARRATORE: Nessuno risponde. Emma guarda suo padre. Chiara guarda suo marito. || Nobody answers. Emma looks at her father. Chiara looks at her husband.
+EMMA [slowly]: C'è qualcosa in questa casa che non va. || There's something in this house that's not right.
+BEN: No, no. Va tutto bene. Mangiamo. || No, no. Everything's fine. Let's eat.
+NARRATORE: Ben mangia due cucchiai di zuppa fredda, per dimostrare che è normale. || Ben eats two spoonfuls of cold soup, to show that he's normal.
+NARRATORE: Dopo cena Emma va in camera sua e Leo va a letto senza protestare. || After dinner Emma goes to her room and Leo goes to bed without complaining.
+NARRATORE: In cucina restano Ben, Chiara e i piatti da lavare. || In the kitchen Ben, Chiara and the dishes to wash are left.
+BEN [picking up a plate]: Io lavo. Tu vai a riposare. || I'll wash. You go and rest.
+CHIARA: Non sono stanca. || I'm not tired.
+BEN: Sei stata in ufficio tutto il giorno, con la **carriera** che hai. || You've been at the office all day, with the **career** you have.
+CHIARA: Che cosa vuol dire "con la **carriera** che hai"? || What do you mean, "with the **career** you have"?
+BEN [surprised]: Vuol dire che sei brava. Che hai costruito una cosa bella. || It means you're good. That you've built something beautiful.
+NARRATORE: Chiara prende un piatto e comincia ad asciugarlo, piano. || Chiara takes a plate and starts drying it, slowly.
+CHIARA: Ben, io ti conosco da quindici anni. || Ben, I've known you for fifteen years.
+BEN: Lo so. || I know.
+CHIARA: Quando qualcuno **nasconde** qualcosa, io lo capisco subito. || When somebody **hides** something, I understand straight away.
+CHIARA: E quando sei tu, parli del mio lavoro. || And when it's you, you talk about my job.
+NARRATORE: Ben non **risponde**. Continua a lavare. L'acqua è calda. || Ben doesn't **answer**. He keeps washing. The water is hot.
+CHIARA: E poi **preferisco che** **tu mi dica** le cose prima che le scopra Leo. || And besides, **I prefer** **you to tell** me things before Leo finds out.
+BEN [drying his hands]: Chiara… **voglio che** **tu sappia** una cosa. || Chiara… **I want** **you to know** something.
+CHIARA [turning]: Dimmi. || Tell me.
+NARRATORE: Ben si mette di fronte a lei. Ha la voce bassa. || Ben stands in front of her. His voice is low.
+BEN: Da tre giorni **voglio dirtelo**, ma non ci riesco. || For three days **I've wanted to tell you**, but I can't manage it.
+CHIARA: Allora dimmelo adesso. || Then tell me now.
+BEN [very slowly]: Michael, il mio vecchio capo, **chiede che** **ci trasferiamo** tutti. || Michael, my old boss, is **asking** **us all to move**.
+BEN: **Chiedono che** io **dia** una risposta entro febbraio. E vogliono che io **torni**. || **They're asking** me **to give** an answer by February. And they want me **to come back**.
+BEN: A **marzo**. Michael scrive che **il futuro** può ricominciare da là. || In **March**. Michael writes that **the future** can start again from there.
+NARRATORE: Chiara non si muove. Ha ancora il piatto in mano. || Chiara doesn't move. She still has the plate in her hand.
+CHIARA [quietly]: **Un'offerta**. Una **proposta** di lavoro. || **An offer**. A **job proposal**.
+BEN: Sì. **Lo stipendio** raddoppia. **Il contratto** aspetta la mia firma. || Yes. **The salary** doubles. **The contract** is waiting for my signature.
+CHIARA: E tu che cosa vuoi? || And what do you want?
+BEN: Non lo so. Ho un **dubbio** grande come una casa. || I don't know. I have a **doubt** as big as a house.
+CHIARA: Io voglio la **verità**, Ben. Anche quando è scomoda. || I want the **truth**, Ben. Even when it's uncomfortable.
+NARRATORE: Ben guarda il pavimento. Pensa a tutte le parole che conosce e non usa. || Ben looks at the floor. He thinks of all the words he knows and doesn't use.
+CHIARA: Non è una **decisione** semplice. Lo vedo. || It's not a simple **decision**. I can see that.
+CHIARA: Ma un **segreto** in questa casa non dura più di tre giorni. || But a **secret** in this house doesn't last more than three days.
+NARRATORE: Poi il telefono di casa suona, forte, nello studio. || Then the house phone rings, loudly, in the study.
+CHIARA [sighing]: Aspetta un momento. || Wait a moment.
+NARRATORE: Chiara posa il piatto e corre verso lo studio. La porta si chiude dietro di lei. || Chiara puts down the plate and runs towards the study. The door closes behind her.
+NARRATORE: Ben rimane in cucina, da solo, con l'acqua calda e il quaderno aperto. || Ben stays in the kitchen, alone, with the hot water and the open notebook.
+BEN [to himself]: **Un'offerta** come questa non arriva due volte. || **An offer** like this doesn't come twice.
+NARRATORE: Poi sente i passi di Chiara tornare verso la cucina. || Then he hears Chiara's footsteps coming back towards the kitchen.
+CHIARA [from the doorway]: Era mia sorella. Niente di importante. || It was my sister. Nothing important.
+NARRATORE: Chiara si ferma sulla porta, con una mano sul legno. || Chiara stops in the doorway, one hand on the wood.
+CHIARA [quietly]: Ben. Se c'è qualcosa, dimmelo. || Ben. If there's something, tell me.
+NARRATORE: Ben guarda il pavimento. Poi guarda lei. || Ben looks at the floor. Then he looks at her.
+BEN [very slowly]: Non c'è niente. || There's nothing.
+NARRATORE: Chiara annuisce una volta sola e va verso le scale. || Chiara nods once and goes towards the stairs.
+NARRATORE: Ben resta solo con il bicchiere pieno che non ha mai bevuto. || Ben is left alone with the full glass he never drank from.
+
+# CONFESSIONALE chiara
+CHIARA [calma, ordinata]: Facciamo un elenco, come al lavoro. Punto uno. || Let's make a list, like at work. Point one.
+CHIARA: Ieri sera il portatile era aperto e lui l'ha chiuso di colpo quando sono scesa. || Last night the laptop was open and he closed it suddenly when I came down.
+CHIARA: Punto due. I pancake alle sette del mattino. || Point two. Pancakes at seven in the morning.
+CHIARA: Ben fa i pancake quando è nervoso. Non li fa mai per caso. || Ben makes pancakes when he's nervous. He never makes them by accident.
+CHIARA: Punto tre. Il quaderno sul tavolo, con sei parole nuove in fondo. || Point three. The notebook on the table, with six new words at the back.
+CHIARA: Parole come **stipendio**, **contratto**, **trasferimento**. || Words like **salary**, **contract**, **move**.
+CHIARA: Punto quattro. La frase che non ha finito. "Ci sarebbe una cosa che…" || Point four. The sentence he didn't finish. "There's something that…"
+NARRATORE: Chiara chiude gli occhi un secondo, come quando rivede un progetto. || Chiara closes her eyes for a second, as when she reviews a project.
+CHIARA: Io e Ben stiamo insieme da quindici anni. Lo conosco bene. || Ben and I have been together for fifteen years. I know him well.
+CHIARA: Questa non è stanchezza. Questa è una cosa che è arrivata. || This isn't tiredness. This is something that has arrived.
+CHIARA: E non me l'ha ancora data. Questo è il punto. Non me l'ha ancora data. || And he hasn't given it to me yet. That's the point. He hasn't given it to me yet.
+CHIARA [più piano]: Anch'io una volta ho **deciso** di **tornare** in Italia. || Once I **decided** to **come back** to Italy too.
+CHIARA: È stata la mia **decisione** più grande. Nessuno me l'ha chiesta. || It was my biggest **decision**. Nobody asked me for it.
+CHIARA: Quando mia madre si è ammalata, io ero a Chicago. || When my mother got ill, I was in Chicago.
+CHIARA: Nessuno mi ha **chiesto che** cosa pensavo. Nessuno mi ha **chiesto che** cosa volevo fare. || Nobody **asked** me what I thought. Nobody **asked** me what I wanted to do.
+CHIARA: Hanno **deciso** per me, per non disturbarmi. || They **decided** for me, so as not to bother me.
+CHIARA: E io sono arrivata tardi. Due settimane tardi. || And I arrived late. Two weeks late.
+NARRATORE: Chiara guarda fuori dalla finestra, verso il buio della strada. || Chiara looks out of the window, towards the darkness of the street.
+CHIARA: Quel **segreto** me lo porto dentro ancora adesso. Non è una bella cosa da portare. || I still carry that **secret** inside me. It's not a nice thing to carry.
+CHIARA: Per questo ho promesso una cosa a me stessa, quella volta. || That's why I promised myself something, that time.
+CHIARA: Mai più. In questa casa nessuno **decide** da solo. || Never again. In this house nobody **decides** alone.
+CHIARA: Io non voglio sapere della **carriera** di Ben più di quanto sappia lui. || I don't want to know about Ben's **career** more than he knows himself.
+CHIARA: Ma voglio sapere che cosa c'è sul suo tavolo. || But I want to know what's on his table.
+CHIARA: **Preferisco che** **mi dica** la **verità** e che sia brutta. || **I prefer** him **to tell** me the **truth**, even if it's ugly.
+CHIARA: **Preferisco che** **mi dica** tutto, anche **lontano** da qui, anche a Chicago. || **I prefer** him **to tell** me everything, even **far away** from here, even in Chicago.
+CHIARA [quasi sorridendo]: E lo so che non mi dirà niente stasera. Lo vedo dalla faccia. || And I know he won't tell me anything tonight. I can see it in his face.
+CHIARA: Ma **spero che** **lo faccia** presto. **Spero che** **lo faccia** da solo. || But **I hope** **he does it** soon. **I hope** **he does it** on his own.
+NARRATORE: Chiara si sistema la manica della camicia, con precisione. || Chiara adjusts her shirt sleeve, precisely.
+CHIARA: **Se c'è una decisione da prendere, preferisco prenderla insieme.** || **If there's a decision to be made, I prefer to make it together.**
+CHIARA: **Spero che me lo dica lui. Stasera.** || **I hope he tells me. Tonight.**
+
+# SCENE via | mercoledì mattina | ben, leo, ornella, franco
+NARRATORE: Mercoledì mattina, sette e quaranta. Ben accompagna Leo a scuola. || Wednesday morning, twenty to eight. Ben walks Leo to school.
+NARRATORE: Dietro di loro, a tre passi, c'è il gatto di Ornella. || Behind them, three steps back, is Ornella's cat.
+LEO: Papà, Pavarotti ci segue. || Dad, Pavarotti is following us.
+BEN: Lo vedo. || I can see that.
+LEO: Perché ci segue? || Why is he following us?
+BEN: Perché è un gatto curioso. E forse perché non ha niente di meglio da fare. || Because he's a curious cat. And maybe because he has nothing better to do.
+LEO: In Italia i gatti non **chiedono** il permesso. Camminano e basta. || In Italy cats don't **ask** permission. They just walk.
+BEN [ride]: Questa è una buona osservazione. || That's a good observation.
+LEO: Lo scrivo nel quaderno delle cose strane. || I'll write it in the notebook of strange things.
+NARRATORE: Leo cammina con lo zaino che gli balla sulle spalle. || Leo walks with his backpack bouncing on his shoulders.
+NARRATORE: Davanti al numero 9 c'è Franco, in piedi vicino al cancello, con le mani in tasca. || In front of number 9 is Franco, standing by the gate, hands in his pockets.
+FRANCO: Buongiorno. || Morning.
+LEO: Buongiorno, nonno Franco! || Morning, Grandpa Franco!
+FRANCO [gli sistema lo zaino]: Ciao, campione. Sempre di corsa. || Hi, champ. Always in a hurry.
+NARRATORE: Poi Franco guarda il gatto, che si è fermato a metà strada. || Then Franco looks at the cat, which has stopped halfway.
+FRANCO: Ah. Ecco l'invasione. || Ah. Here's the invasion.
+BEN: Il gatto? || The cat?
+FRANCO: Quel gatto è un'arma. Lo comanda la signora Ornella, ne sono sicuro. || That cat is a weapon. Mrs Ornella commands him, I'm sure of it.
+BEN [sorride]: Franco, è un gatto. Ha quattordici anni. || Franco, he's a cat. He's fourteen.
+FRANCO: Appunto. Un gatto vecchio e furbo. Come la sua padrona. || Exactly. An old, cunning cat. Like his owner.
+NARRATORE: In quel momento si apre la finestra del numero 16. || At that moment the window of number 16 opens.
+ORNELLA [dalla finestra]: Buongiorno, signori miei. || Morning, gentlemen.
+FRANCO [alzando la mano]: Buongiorno, signora Ornella. Ritiri il tuo esercito? || Morning, Mrs Ornella. Are you calling back your army?
+ORNELLA: Pavarotti fa quello che vuole. Non è colpa mia. || Pavarotti does what he wants. It's not my fault.
+NARRATORE: Ornella guarda prima Leo, poi Franco, poi Ben. Su Ben si ferma un secondo di troppo. || Ornella looks first at Leo, then Franco, then Ben. On Ben she stops a second too long.
+ORNELLA [a Leo, con dolcezza]: Leo, buongiorno. Come sta la maestra? || Leo, good morning. How's your teacher?
+LEO [alzando la testa]: Buongiorno, signora Ornella. La maestra sta bene, grazie. || Good morning, Mrs Ornella. The teacher is well, thank you.
+ORNELLA: Bravo. E la merenda? || Good boy. And your snack?
+LEO: Ce l'ho. Pane e marmellata. || I've got it. Bread and jam.
+ORNELLA: Il pane è quello giusto. Finalmente. || The bread is the right one. Finally.
+NARRATORE: Ornella alza un sopracciglio verso Ben. Solo un sopracciglio. || Ornella raises one eyebrow at Ben. Just one eyebrow.
+BEN [veloce, guardando altrove]: Buongiorno, Ornella. || Morning, Ornella.
+ORNELLA: Buongiorno. || Morning.
+NARRATORE: In quella parola c'è una domanda intera, e Ben la sente. || In that word there's a whole question, and Ben hears it.
+FRANCO [senza accorgersi di niente]: Allora, Leo. A scuola impari le cose dell'Italia? || So, Leo. At school do you learn things about Italy?
+LEO: Sì! Oggi impariamo le regioni. || Yes! Today we're learning the regions.
+FRANCO: Le regioni sono importanti. Ma non tutte. || The regions are important. But not all of them.
+LEO: Quali sono le più importanti? || Which are the most important?
+FRANCO: La Lombardia, dove siamo noi. E poi la Puglia, perché ci sono le orecchiette. || Lombardy, where we are. And then Puglia, because of the orecchiette.
+LEO [ride]: Nonno, scegli le regioni dal cibo! || Grandpa, you choose regions by the food!
+FRANCO: Certo che le scelgo dal cibo. Che altro c'è? || Of course I choose them by the food. What else is there?
+NARRATORE: Il gatto attraversa la strada e si siede proprio sulla scarpa di Ben. || The cat crosses the road and sits down right on Ben's shoe.
+BEN [guardando in basso]: Adesso basta, però. || That's enough now, though.
+LEO: Papà, non muoverti. Gli piaci. || Dad, don't move. He likes you.
+BEN: A me non piace lui. || I don't like him.
+LEO: Perché? || Why?
+BEN: Perché mi guarda come una persona che sa tutto. || Because he looks at me like a person who knows everything.
+NARRATORE: Franco ride, con la voce roca. È una risata che non si sente spesso. || Franco laughs, with his hoarse voice. It's a laugh you don't hear often.
+FRANCO: Anche io ti guardo così, qualche volta. || I look at you like that too, sometimes.
+BEN [sorpreso]: Ah. Bene. Grazie. || Ah. Good. Thanks.
+NARRATORE: Leo guarda l'orologio del telefono di Ben e capisce che è tardi. || Leo looks at the clock on Ben's phone and realises it's late.
+LEO: Papà, il cancello! || Dad, the gate!
+BEN: Vai, vai. Ti vedo alle quattro. || Go, go. See you at four.
+NARRATORE: Leo corre verso la scuola, con lo zaino che salta. || Leo runs towards the school, his backpack bouncing.
+NARRATORE: Franco e Ben restano soli davanti al cancello del numero 9. || Franco and Ben are left alone in front of the gate of number 9.
+FRANCO [dopo un momento]: Senti. || Listen.
+BEN: Dimmi. || Tell me.
+FRANCO: Questa strada è strana. La gente va, la gente **torna**. || This street is strange. People go, people **come back**.
+BEN: Sì? || Yeah?
+FRANCO: Sì. Ne ho visti tanti. Quelli che partono dicono sempre: "Torno, **torno** presto". || Yes. I've seen a lot of them. Those who leave always say: "I'll come back, I'll come back soon."
+FRANCO: Poi il tempo passa, e non **tornano** più. Non tutti. Ma molti. || Then time passes, and they don't **come back** any more. Not all of them. But many.
+NARRATORE: Ben non dice niente. Il gatto gli dorme ancora sulla scarpa. || Ben says nothing. The cat is still asleep on his shoe.
+FRANCO: Tu però sei qui da quattro anni. || You, though, have been here four years.
+BEN: Quattro anni e mezzo. || Four and a half years.
+FRANCO: Quattro e mezzo. E non te ne sei mai andato. Nemmeno d'estate. || Four and a half. And you've never left. Not even in summer.
+BEN [piano]: No. Mai. || No. Never.
+FRANCO: Bene. Perché una casa **lontano** non è una casa. È una cartolina. || Good. Because a home **far away** isn't a home. It's a postcard.
+NARRATORE: Franco lo guarda come guarda il tempo prima di uscire in bicicletta. || Franco looks at him the way he looks at the weather before going out on his bike.
+FRANCO: Io non lo so se tu hai un **dubbio**, o un problema, o che cosa. || I don't know if you have a **doubt**, or a problem, or what.
+BEN [gelato]: Franco… || Franco…
+FRANCO [alza la mano]: Non dico niente. Dico solo una cosa. || I'm not saying anything. I'm just saying one thing.
+FRANCO: Tu sei sempre **qui**. Bene così. || You're always **here**. That's good.
+NARRATORE: Franco gli dà due colpi sulla spalla, come si fa con i figli maschi. || Franco gives him two pats on the shoulder, the way you do with sons.
+NARRATORE: Poi entra in casa e chiude il cancello. || Then he goes into the house and closes the gate.
+BEN [a se stesso, in italiano lento]: **Spero che** **tu abbia** ragione, Franco. || **I hope** **you're right**, Franco.
+NARRATORE: Ben si gira verso la finestra del numero 16. Ornella è ancora lì, dietro il vetro. || Ben turns towards the window of number 16. Ornella is still there, behind the glass.
+ORNELLA [apre un poco il vetro]: Allora? || So?
+BEN [esita]: Ornella, io… || Ornella, I…
+ORNELLA: **Spero che** **tu lo faccia** oggi. Ma non **chiedo che** **tu lo faccia** per me. || **I hope** **you do it** today. But I'm not **asking** **you to do it** for me.
+BEN [dopo una pausa]: Stasera. || Tonight.
+ORNELLA: Stasera. Bene. Ti credo. || Tonight. Good. I believe you.
+NARRATORE: Ornella chiude la finestra con calma, senza rumore. || Ornella closes the window calmly, without a sound.
+NARRATORE: Ben guarda il gatto, che apre un occhio, lo guarda e lo richiude. || Ben looks at the cat, who opens one eye, looks at him and closes it again.
+BEN [al gatto]: Anche tu hai capito tutto, vero? || You've understood everything too, haven't you?
+NARRATORE: Il gatto non risponde. Si alza, si stira e attraversa la strada, verso casa. || The cat doesn't answer. He gets up, stretches and crosses the road, towards home.
+NARRATORE: Ben resta solo, con il **dubbio** e con **il coraggio** che non ha ancora. || Ben is left alone, with his **doubt** and with **the courage** he doesn't have yet.
+NARRATORE: Sopra di lui il cielo è bianco. Forse **neve**, forse solo **marzo** che arriva in anticipo. || Above him the sky is white. Maybe **snow**, maybe just **March** arriving early.
+BEN [camminando verso casa]: Un passo alla volta. Un passo alla volta. || One step at a time. One step at a time.
+
+# SCENE bar-tigli | mercoledì pomeriggio | ben, matteo, nadia
+NARRATORE: Mercoledì pomeriggio, il Bar Tigli è quasi vuoto. La macchina del caffè funziona di nuovo. || Wednesday afternoon, Bar Tigli is almost empty. The coffee machine is working again.
+NARRATORE: Matteo mette un caffè davanti a Ben, senza chiedere. || Matteo puts a coffee in front of Ben, without asking.
+MATTEO: Tieni. Offre la casa. || Here. It's on the house.
+BEN: Grazie. Ne avevo bisogno. || Thanks. I needed that.
+MATTEO [si siede]: Senti, ho pensato a una cosa. || Listen, I've thought of something.
+BEN: Una cosa per il corso? || Something for the course?
+MATTEO: No, una cosa per te. Ma perché non **torni** in America a lavorare? || No, something for you. But why don't you **go back** to America to work?
+NARRATORE: Ben si blocca con la tazzina a metà strada. || Ben freezes with the cup halfway.
+BEN: Come? || What?
+MATTEO: In America si guadagna bene, no? E tu eri un **capo** importante. || In America you earn well, don't you? And you were an important **boss**.
+MATTEO: Chiami il tuo vecchio capo, gli **chiedi che** ti **dia** un lavoro. || You call your old boss, you **ask** him **to give** you a job.
+MATTEO: E noi andiamo tutti a trovarti, una volta. A **marzo**, magari. || And we all come and visit you, once. In **March**, maybe.
+NARRATORE: Ben beve il caffè troppo in fretta e comincia a tossire. || Ben drinks his coffee too fast and starts coughing.
+BEN [tossendo]: Scusa. Caldo. || Sorry. Hot.
+NARRATORE: Nadia arriva dal retro con Anna in braccio e sente l'ultima parola. || Nadia comes from the back with Anna in her arms and hears the last word.
+NADIA: Perché parlate di Chicago? || Why are you talking about Chicago?
+BEN [veloce]: No, niente. Così. || No, nothing. Just like that.
+NADIA [lo guarda]: Così. || Just like that.
+NARRATORE: Ben tira fuori il telefono e guarda lo schermo. L'**email** è ancora lì. || Ben takes out his phone and looks at the screen. The **email** is still there.
+NARRATORE: Aspetta una **risposta** da lui da quattro giorni, e lui non **risponde**. || It's been waiting for an answer from him for four days, and he doesn't **answer**.
+MATTEO [ridendo]: Comunque, **voglio che** tu **mi porti** una maglietta dei Chicago Bulls. || Anyway, **I want** you **to bring** me a Chicago Bulls T-shirt.
+MATTEO: Ma vera, eh. Non una copia. || A real one, though. Not a copy.
+NARRATORE: Ben alza gli occhi dal telefono e guarda Matteo. || Ben lifts his eyes from the phone and looks at Matteo.
+BEN [lento]: Ci penso. || I'll think about it.
+MATTEO: Bravo. E **spero che** **tu ci pensi** davvero. || Good. And **I hope** **you really think about it**.
+NARRATORE: Nadia non dice niente, ma continua a guardare Ben. || Nadia says nothing, but she keeps looking at Ben.
+NARRATORE: Anna le prende una ciocca di capelli e ride. || Anna grabs a lock of her hair and laughs.
+BEN [a se stesso]: **Un'offerta**, una **decisione**, un **segreto**… Non si può **nascondere** tutto per sempre. || **An offer**, a **decision**, a **secret**… You can't **hide** everything forever.
+MATTEO: Che cosa hai detto? || What did you say?
+BEN [sorridendo male]: Niente. Che domenica faccio i pancake per tutti. || Nothing. That on Sunday I'm making pancakes for everyone.
+MATTEO: Ah, bene. Però quelli veri americani. || Oh, good. But real American ones.
+NARRATORE: Ben guarda di nuovo il telefono, poi lo mette in tasca. || Ben looks at the phone again, then puts it in his pocket.
+BEN [piano]: Stasera. || Tonight.
 
 @grammar
-# Subjunctive after will and desire
+# The subjunctive after will and desire
 
 ## What it is
 
-When you tell someone what you **want**, **hope**, **prefer**, **wish** or **ask** them to do, Italian puts a **che** clause after the verb — and the verb inside that clause goes in the **congiuntivo** (subjunctive), not the normal present tense.
+In English you say "I want **you to** come", "I hope **you come**", "I'd prefer **you to wait**". Italian almost never does that when there are two different people involved. It says:
 
-- *Voglio che tu mi ascolti.* — I want you to listen to me.
-- *Spero che venga anche lei.* — I hope she comes too.
+- *Voglio che tu venga.* — I want you to come.
+- *Spero che tu dica la verità.* — I hope you tell the truth.
 
-English does this with "I want **you** to listen" (object + infinitive). Italian can't use an infinitive there. It needs **che** + congiuntivo.
-
-Verbs in this group: **volere che** (to want), **desiderare che** (to wish), **sperare che** (to hope), **preferire che** (to prefer), **chiedere che** (to ask, to request).
+The little word **che** opens a new clause, and the verb in that clause goes into the **congiuntivo presente** (present subjunctive). This is a mood, not a tense: it marks the verb as wanted, hoped for, requested — not as a fact. Italian uses it after verbs of **will and desire**: *volere, desiderare, preferire, sperare, chiedere*.
 
 ## How it works
 
-**One subject or two?** This is the key question.
+**Rule one: same subject → infinitive. Different subject → *che* + subjunctive.**
 
-| Situation | Structure | Example |
-|---|---|---|
-| **Same** subject (I want to do it myself) | verb + **infinitive** | *Voglio partire.* — I want to leave. |
-| **Different** subject (I want *you* to do it) | verb + **che** + congiuntivo | *Voglio che tu parta.* — I want you to leave. |
+| One subject | Two subjects |
+|---|---|
+| *Voglio tornare a Chicago.* (I want to go back.) | *Vogliono che io torni.* (They want me to go back.) |
+| *Preferisco aspettare.* (I prefer to wait.) | *Preferisco che tu non aspetti.* (I prefer you not to wait.) |
+| *Spero di arrivare presto.* (I hope to arrive soon.) | *Spero che tu arrivi presto.* (I hope you arrive soon.) |
 
-So: *Preferisco restare a Milano* (same person) but *Preferisco che lui resti a Milano* (two people).
+With *spero* and *chiedo*, one subject uses **di** + infinitive: *spero di sì, chiedo di parlare*.
 
-**Congiuntivo presente: regular forms**
+**Rule two: the verb after *che* takes the subjunctive endings.**
 
-| | parlare | credere | dormire |
+| | -are (*tornare*) | -ere (*prendere*) | -ire (*partire*) |
 |---|---|---|---|
-| io | parli | creda | dorma |
-| tu | parli | creda | dorma |
-| lui/lei | parli | creda | dorma |
-| noi | parliamo | crediamo | dormiamo |
-| voi | parliate | crediate | dormiate |
-| loro | parlino | credano | dormano |
+| io | torni | prenda | parta |
+| tu | torni | prenda | parta |
+| lui/lei | torni | prenda | parta |
+| noi | torniamo | prendiamo | partiamo |
+| voi | torniate | prendiate | partiate |
+| loro | tornino | prendano | partano |
 
-*‑are* verbs take **-i**; *‑ere* and *‑ire* verbs take **-a**. The **noi** and **voi** forms look like the normal present — only *io, tu, lui/lei, loro* change.
+Notice that the *io / tu / lui* forms all look the same for *-are*: *che io torni, che tu torni, che lui torni*.
 
-**Common irregulars**
+**Rule three: some very common verbs are irregular and you simply have to know them:** *essere → sia*, *avere → abbia*, *andare → vada*, *fare → faccia*, *dare → dia*, *stare → stia*, *venire → venga*, *dire → dica*, *sapere → sappia*, *potere → possa*, *dovere → debba*, *volere → voglia*.
 
-| | essere | avere | fare | andare | venire | dire | sapere | potere | volere | dovere | dare | stare |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| io/tu/lui | sia | abbia | faccia | vada | venga | dica | sappia | possa | voglia | debba | dia | stia |
-| loro | siano | abbiano | facciano | vadano | vengano | dicano | sappiano | possano | vogliano | debbano | diano | stiano |
+**Rule four: *chiedere che*** means "to ask somebody to do something". With one subject, use *chiedere di*: *Chiedo di entrare* (I ask to come in) vs *Chiedo che lui entri* (I ask him to come in).
 
 ## From the story
 
-- [[Voglio che tu mi guardi negli occhi quando parli con me.]] — *volere che* + *guardare*: two different subjects (I / you), so **che** + congiuntivo.
-- [[Ma io preferisco che tu me lo dica. Subito, però.]] — *preferire che* + *dire*; the irregular *dica*.
-- [[Chiedono che io cominci a marzo.]] — *chiedere che* + *cominciare*; the company asks **me** to start.
-- [[Perché io voglio che questa famiglia funzioni. E voglio che funzioni con te dentro, non con te fuori.]] — the same verb repeated; *funzionare* is regular.
-- [[Spero che tu glielo dica stasera. Spero che tu torni a casa e trovi il momento giusto.]] — *sperare che* + two more subjunctives, *torni* and *trovi*.
-- [[La verità è questa, Ornella. Io desidero che tutto resti come adesso.]] — *desiderare che* + *restare*; a wish about someone else's situation.
-- [[Voglio che tu risponda a quella telefonata. Non alla prima. Alla terza.]] — *volere che* + *rispondere*, an invitation to act.
-- [[Spero che lei capisca. Spero che lei desideri la stessa cosa che desidero io.]] — *capire* and *desiderare*, both subjunctive after *sperare che*.
+- [[Marchetti vuole che io presenti il progetto della nuova sede dello studio.]] — *volere che* with a different subject, and *presenti* is the subjunctive of *presentare*.
+- [[Allora voglio che tu mi aiuti a fare un piano serio.]] — Matteo wants Ben to help: *voglio che tu aiuti*, not *voglio che tu aiuti*— wait, the infinitive would be *voglio che tu aiuti* is correct; *aiuti* is the subjunctive.
+- [[Perché preferisco che tu mi dica le cose prima.]] — *preferire che* + *dica*, the irregular subjunctive of *dire*.
+- [[Chiedono che dia una risposta entro venerdì.]] — a request made to somebody: *chiedono che io dia*, irregular *dare*.
+- [[Spero che tu lo dica a Chiara stasera. Preferisco che tu non aspetti un altro giorno.]] — *sperare* and *preferire* in the same breath; *aspetta* would be wrong.
+- [[Michael chiede che io risponda entro febbraio.]] — the subject changes (*Michael* → *io*), so the subjunctive is obligatory.
+- [[Desidera che cominci presto. Chiedono che ci trasferiamo tutti.]] — *desiderare*, *chiedere*, and the pronominal *trasferirsi* in the subjunctive (*che ci trasferiamo*).
+- [[Da tre giorni voglio dirtelo, ma non ci riesco.]] — the opposite case: one subject, so *volere* takes **di** + infinitive, here attached as *dirtelo*.
+- [[Preferisco che mi dica la verità e che sia brutta.]] — two subjunctives in one sentence, both depending on *preferisco*.
 
 ## Common mistakes English speakers make
 
-1. **Using the present indicative.** *Spero che tu viene* is wrong. Say: *Spero che tu venga.*
-2. **Using the infinitive with a different subject.** *Voglio tu partire* is wrong. Say: *Voglio che tu parta.*
-3. **Using *di* instead of *che*.** *Spero di tu venga* is wrong. *Spero di venire* is fine (same subject), but with two subjects you need **che + congiuntivo**.
-4. **Forgetting *che* in English-style sentences.** "I want you to call" is not *Voglio tu chiami* — it needs *Voglio **che** tu chiami*.
-5. **Using the subjunctive when there's only one subject.** *Voglio che io parta* sounds strange. Say: *Voglio partire.*
-6. **Forgetting the irregular forms.** *Spero che sia pronto* (not *è*), *Voglio che tu faccia* (not *fai*), *Preferisco che tu vada* (not *vai*).
+1. **Using the infinitive after a different subject.** *Voglio che tu vieni* is wrong. Say *voglio che tu venga*.
+2. **Using the indicative after *spero*.** English says "I hope it works". Italian says *spero che funzioni*, never *spero che funziona*.
+3. **Putting *che* with the same subject.** *Voglio che io parto* is not Italian. Say *voglio partire*.
+4. **Forgetting the irregulars.** *Spero che tu puoi* → *spero che tu possa*. *Voglio che tu fai* → *voglio che tu faccia*.
+5. **Mixing up *chiedere che* and *chiedere di*.** *Chiedo di uscire* = I'm asking to go out (me). *Chiedo che lui esca* = I'm asking him to go out.
+6. **Adding a subject pronoun.** *Voglio che tu tu venga* — one *tu* is enough: *voglio che tu venga*, or just *voglio che venga* if it's already clear.
 
 ## Practice
 
-Fill in the blank with the correct form. Use the congiuntivo presente, or an infinitive if the sentence needs one.
+Put the verb in brackets into the correct form.
 
-1. Voglio che tu ______ (venire) a cena venerdì.
-2. Spero che loro ______ (arrivare) in tempo.
-3. Preferisci ______ (restare) a casa o uscire stasera? *(same subject!)*
-4. Chiedono che noi ______ (firmare) il contratto.
-5. Desidero che tutto ______ (essere) chiaro.
-6. Il capo vuole che io ______ (fare) una telefonata.
-7. Spero che tu ______ (capire) la situazione.
-8. Preferisco che i bambini ______ (andare) a letto presto.
+1. Voglio che tu *(tornare)* presto.
+2. Spero che Marco *(essere)* già a casa.
+3. Preferisco che voi *(aspettare)* qui.
+4. Chiedono che io *(dare)* una risposta oggi.
+5. Il capo vuole che noi *(fare)* tutto con calma.
+6. Spero che lei *(potere)* venire domenica.
+7. Chiedo che lui *(dire)* la verità.
+8. Io e Chiara non vogliamo *(decidere)* da soli. *(same subject? no — look carefully)*
+9. Preferisci *(andare)* tu o preferisci che *(andare)* io?
 
-### Answer key
+**Answer key**
 
-1. **venga** — *volere che* + different subject, irregular verb.
-2. **arrivino** — *sperare che* + *loro* → *-ino*.
-3. **restare** — one subject, so infinitive only.
-4. **firmiamo** — the *noi* form of the congiuntivo looks like the present.
-5. **sia** — *desiderare che* + irregular *essere*.
-6. **faccia** — *volere che* + irregular *fare*.
-7. **capisca** — *sperare che* + *-isc* verb, *tu* → *-a*.
-8. **vadano** — *preferire che* + irregular *andare*, *loro* → *-ino*.
+1. *torni*
+2. *sia*
+3. *aspettiate*
+4. *dia*
+5. *facciamo*
+6. *possa*
+7. *dica*
+8. *decidere* — here the subject is *io e Chiara* for both verbs, so the infinitive is correct. Compare: *Non vogliamo che Carlo decida da solo.*
+9. *andare* (same subject) / *vada* (different subject)
