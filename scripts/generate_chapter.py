@@ -77,7 +77,7 @@ def call(client, model, effort, system, messages):
     return msg
 
 
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_URL = "https://www.openrouter.ai/api/v1/chat/completions"  
 
 
 def call_openrouter(model, effort, system, messages):
@@ -89,7 +89,9 @@ def call_openrouter(model, effort, system, messages):
         "reasoning": {"effort": {"xhigh": "high", "max": "high"}.get(effort, effort)},
         "usage": {"include": True},
     }
-    headers = {"Content-Type": "application/json", "X-Title": "IMv4 Italian course"}
+    # A User-Agent is needed: Cloudflare rejects Python's default one (error 1010).
+    headers = {"Content-Type": "application/json", "X-Title": "IMv4 Italian course",
+               "User-Agent": "IMv4/1.0"}
     if os.environ.get("OPENROUTER_API_KEY"):
         headers["Authorization"] = f"Bearer {os.environ['OPENROUTER_API_KEY']}"
     data = json.dumps(body).encode()
