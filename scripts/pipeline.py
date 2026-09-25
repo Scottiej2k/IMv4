@@ -104,7 +104,7 @@ class Pipeline:
 Plan the chapter. Return exactly this shape and nothing else:
 
 @vocab
-(the vocabulary block in the draft format: {rules['vocab'][0]}–{rules['vocab'][1]} items; list every form you will bold)
+(the vocabulary block in the draft format: {rules['vocab'][0]}–{rules['vocab'][1]} items; list every form you will bold; no form may belong to two items)
 @end
 
 @outline
@@ -132,15 +132,23 @@ Requirements:
         forbidden = "; ".join(r["what"] for r in grammar_rules.active_rules(self.cid))
         ask = int(round(sc["words"] * ASK_FACTOR / 10) * 10)
         lines = max(5, round(ask / WORDS_PER_LINE[self.plan["level"]]))
-        if sc["heading"].upper().startswith("# CONFESSIONALE"):
+        confessionale = sc["heading"].upper().startswith("# CONFESSIONALE")
+        if confessionale:
             lines = max(5, round(ask / (WORDS_PER_LINE[self.plan["level"]] + 2)))
+            mix = "Mostly the character speaking to camera; one or two short NARRATOR lines at most."
+        else:
+            # Confessionali are all speech, so story scenes carry about a third narration to land
+            # the chapter at 60–75% dialogue. Writers drop narration unless given a number.
+            mix = (f"Mix: about two thirds dialogue, one third narration. That means about "
+                   f"{max(2, round(lines / 3))} of the {lines} lines are NARRATOR lines (setting, action, "
+                   f"gestures, reactions), spread through the scene.")
         p = f"""# Scene {k + 1} of {n}
 
 Write this scene now:
 {sc['heading']}
 Beats: {sc['beats']}
 Length: **about {ask} Italian words, roughly {lines} lines.** Keep count as you go; don't wrap up early.
-Mix: about three quarters dialogue, one quarter narration (setting, action, who is speaking).
+{mix}
 Vocabulary to use, each bolded at least once as its own span, with the matching English bolded: {sc['vocab']}
 Also bold clear examples of the grammar focus where they come up naturally.
 

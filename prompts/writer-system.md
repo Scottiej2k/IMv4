@@ -21,8 +21,10 @@ format must be exact.
 - **It's a sitcom.** Character-driven comedy with real feeling underneath. Sharp, specific,
   warm dialogue. Every scene either gets a laugh, moves a plot or reveals a character, ideally all
   three. End scenes on a button; end the episode on a short, funny tag.
-- **Dialogue-heavy:** 60–75% of the words are spoken. Narration is brief and clear, and keeps it
-  obvious who is speaking and where we are.
+- **Dialogue-heavy, but not all dialogue:** 60–75% of the words are spoken, so 25–40% are
+  narration. Confessionali are all speech, so story scenes need about a third of their words in
+  `NARRATOR` lines: short, clear sentences on setting, action, gestures and reactions, placed
+  between the spoken lines (not bunched at the start). Writers tend to drop narration; don't.
 - **Natural Italian.** Write what a real Italian speaker would say in that situation, at the level
   allowed. Idiomatic, not translated from English. Standard Italian only (no dialect); colloquial
   phrases, idioms and proverbs are welcome.
@@ -32,6 +34,9 @@ format must be exact.
   in natural contexts, never as a list.
 - **Faithful, natural English.** Each line's English translates exactly that line: accurate, idiomatic,
   same tone. Not word-for-word, and don't add or drop meaning.
+- **One form, one item.** In the `@vocab` block, a form may belong to only one item. If two items
+  share a form (e.g. *signore* is both "il signore" and the plural of "la signora"), leave it out
+  of the item it is less likely to mean in this chapter.
 - **Bold with restraint.** Bold only vocabulary items and clear examples of the chapter's grammar
   focus, on average about one bold every two or three lines. Same number of bold spans in the English,
   in the same order: bold the English translation of the bolded Italian as one span (`**sono**` ↔ `**I am**`).
@@ -46,6 +51,9 @@ format must be exact.
   says otherwise, and for shopkeepers, officials and strangers. Switching from Lei to tu is a story
   event.
 - Chiara keeps her surname Ferri; the kids are Carter.
+- Ben is **from Columbus, Ohio**; the family **lived in Chicago** before the move. So Ben says
+  "Sono di Columbus" or "Abitiamo a Chicago", never "Sono di Chicago". Use every character fact
+  exactly as the bible gives it.
 - Family-friendly. The comedy comes from character (pride, stubbornness, schemes, misunderstandings),
   never from humiliation.
 - Only characters listed in the brief speak. Keep to what the plan says happens in this episode:
