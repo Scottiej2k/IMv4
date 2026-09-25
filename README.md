@@ -35,7 +35,7 @@ grammar.md   (authored; cites story lines by id)
 | `bible/` | World bible: [premise & format](bible/world-bible.md), [cast](bible/characters.md), [locations](bible/locations.md), [season arcs](bible/season-arcs.md), [continuity log](bible/continuity-log.md), [timeline](bible/timeline.md) |
 | `curriculum/` | [Scope and sequence](curriculum/README.md), per-chapter plans (`seasons/`), [overview](curriculum/overview.md), [grammar index](curriculum/grammar-index.md), master lexicon |
 | `chapters/` | One folder per chapter, e.g. `chapters/s01e01/` |
-| `scripts/` | `generate_chapter.py` (API) / `pipeline.py` (scene-by-scene steps) → `convert_draft.py` → `build_chapter.py`; plus `make_brief.py`, `grammar_rules.py`, `build_curriculum.py` |
+| `scripts/` | `run_batch.py` (several chapters at once) → `generate_chapter.py` (API) / `pipeline.py` (scene-by-scene steps) → `convert_draft.py` → `build_chapter.py` → `update_logs.py` (lexicon, continuity log); plus `make_brief.py`, `grammar_rules.py`, `build_curriculum.py` |
 | `prompts/` | The writer's standing instructions |
 
 ## Status
@@ -44,5 +44,6 @@ grammar.md   (authored; cites story lines by id)
 - [x] World bible (`bible/`)
 - [x] Curriculum: 200 chapters planned ([overview](curriculum/overview.md))
 - [x] Build and validation scripts (`scripts/build_curriculum.py`, `scripts/build_chapter.py`)
-- [~] Pilot chapters (S1E1, S5E3): v2 written; length tuning to test — see CLAUDE.md
+- [x] Pilot chapters (S1E1, S5E3) and production model (DeepSeek v4.1 Flash via OpenRouter) — see CLAUDE.md
+- [x] Batch runner, automatic lexicon and continuity log
 - [ ] Production

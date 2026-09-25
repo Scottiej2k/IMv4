@@ -151,9 +151,12 @@ The writer never hand-writes JSON, and never writes a whole chapter in one go.
    `scripts/grammar_rules.py` (flags forms of grammar not taught yet).
 4. Converter errors, grammar-ceiling flags and bold mismatches go back as **one** list of line fixes.
    Remaining warnings are for review; don't loop on them.
-5. Review, then update `curriculum/lexicon.csv`, `bible/continuity-log.md` and, if the chapter
-   changes something lasting, `bible/timeline.md`.
-6. Commit the chapter as one commit: `s01e01: <title>`.
+5. A chapter that builds gets its continuity-log entry from the writer (`chapters/<id>/continuity.md`),
+   then `scripts/update_logs.py` rebuilds `curriculum/lexicon.csv` and the log's episode entries from
+   all chapters, in chapter order. Review the entry; if the chapter changes something lasting, update
+   `bible/timeline.md` by hand.
+6. Commit the chapter as one commit: `s01e01: <title>`. `scripts/run_batch.py` does steps 1–6 for
+   several chapters at once, each in its own git worktree.
 
 ## 6. Quality
 

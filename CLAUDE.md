@@ -30,50 +30,56 @@ expensive runs.
 
 `scripts/pipeline.py` runs the writing scene by scene:
 1. Outline: the vocabulary block, plus per scene the beats, a word budget and which vocabulary it uses.
-2. Each scene, asked at about 1.3× its budget and stated in lines, because models undershoot.
-   A scene under 75% of budget is sent back once.
+2. Each scene, stated in lines, with a narration share and the scene's tu/Lei facts. Asked at 1.3×
+   its budget for Claude (it undershoots); DeepSeek per level: A1 1.15×, A2 1.1×, B1/B2 1.0×
+   (`ASK_FACTORS` in generate_chapter.py). A scene under 75% of budget is sent back once.
 3. The grammar lesson.
 4. `convert_draft.py` (ids, turns, focus tags, vocab examples/targets, citations, then
    `build_chapter.py` for validation and all outputs) plus `grammar_rules.py` (flags forms of
    grammar not taught yet).
 5. One round of line fixes. After that, warnings are for review, not loops.
+6. If it built: a ~150-word continuity entry (`chapters/<id>/continuity.md`), then `update_logs.py`
+   rebuilds `curriculum/lexicon.csv` and `bible/continuity-log.md` from all chapters in order.
+   Briefs include only earlier chapters' entries.
 
 Ways to run it:
-- **API:** `python3 scripts/generate_chapter.py s01e01 --model <model>`.
+- **Batches (normal):** `python3 scripts/run_batch.py s01e02-s01e10 --jobs 5 --trailer "<commit
+  attribution>"`. Each chapter runs in its own git worktree under `.batch/` (git-ignored) and is
+  committed as it finishes; failures go to `.batch/failed/<id>/`, logs and `summary.tsv` to `.batch/`.
+  It doesn't push. Chapters running at the same time don't see each other's continuity entries
+  (`--jobs 1` if that matters).
+- **One chapter:** `python3 scripts/generate_chapter.py s01e01 --model <model> --force`.
+  - Any slug containing `/` goes to **OpenRouter**. The environment's proxy adds the key only for
+    subdomains (`www.openrouter.ai`, which the script uses); Cloudflare needs a User-Agent (set).
   - Claude models need `pip install anthropic` and `ANTHROPIC_API_KEY`.
-  - Any slug containing `/` goes to **OpenRouter** (e.g. `openai/gpt-6-luna`, $0.10/$0.50 per
-    million tokens). The key is added by the environment's credential proxy for `openrouter.ai`,
-    or read from `OPENROUTER_API_KEY`.
+  - `--continuity-only` writes just the entry, e.g. after a failed chapter was fixed by hand and
+    rebuilt with `convert_draft.py`.
 - **Agent-driven** (no API key): `python3 scripts/pipeline.py start <id>`, then write each answer to
-  `chapters/<id>/work/answer.txt` and run `pipeline.py submit <id>` until `DONE`. A Sonnet sub-agent
-  driving this used about 130–160k tokens per chapter.
+  `chapters/<id>/work/answer.txt` and run `pipeline.py submit <id>` until `DONE`.
 
-Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review) and
-`build_curriculum.py` (validates plans, regenerates the overview).
+Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review),
+`build_curriculum.py` (validates plans, regenerates the overview), `update_logs.py`.
 
-## Status (end of first session, 2026-09-25)
+## Status (end of second session, 2026-09-25)
 
-- Done: spec, bible, curriculum (200 plans), all scripts, and two pilot chapters (S1E1 A1, S5E3 B1),
-  written by Sonnet 5 through the pipeline.
-- Pilot v2 results: the quality is good (natural Italian, character voices hold, grammar check
-  clean, tu/Lei correct), but the stories are about 25–30% **short** (S1E1 2,002 words vs a
-  2,700–3,200 target; S5E3 3,847 vs 4,800–5,500), dialogue share is about 82% (target 60–75%), and
-  some vocabulary appears only twice.
-- The pipeline was tuned after v2 (1.3× scene asks stated in lines, a quarter narration, article
-  tolerance in bold, fewer false grammar flags) **but the tuning hasn't been tested yet**.
-- The owner chose to keep the full length targets ("option 1").
+- **Production model: `deepseek/deepseek-v4.1-flash`** (OpenRouter, $0.15/$0.60 per M tokens). Pilot
+  comparison on S1E1: GPT-6 Luna ($0.02; Italian correct but above A1, Ben fluent), Luna Pro ($0.075;
+  a native-speaker error), Gemini 3.8 Flash ($0.215, 2.6 min; lovely Italian but far above A1),
+  DeepSeek ($0.03; best level control and Ben's A1 voice). DeepSeek takes 10–20 min a chapter, hence
+  batches. Projected full course: about $12–15.
+- Final pilots (DeepSeek, committed, no hand edits): S1E1 2,532 words / 63% dialogue (a little
+  short; A1 ask raised to 1.15× since, untested), S5E3 4,923 / 69%. Grammar check clean on both.
+- Fixes this session: narration share as a line count; one vocab form per item; Ben is from Columbus
+  (family lived in Chicago); tu/Lei facts repeated per scene; bible ages are at series start; audio
+  tags stripped from English; outline and continuity thinking capped at 12k tokens (DeepSeek still
+  occasionally hits the limit on an outline and retries).
+- Known: the S5E3 plan sets the chapter in late January though S5 runs Sept–Feb (owner to decide).
+  Continuity entries can over-reach (guesses about later plot, repeating a story's error): skim them.
 
 ## Next steps
 
-1. Test OpenRouter: a tiny chat-completions request to `openai/gpt-6-luna` through
-   `generate_chapter.call_openrouter`. In the first session it returned 401 (credential not yet
-   visible to that session).
-2. Pilot S1E1 again at full length on the tuned pipeline. Compare `openai/gpt-6-luna` (via
-   `generate_chapter.py --force`) with Sonnet 5 on Italian quality, length, level control and cost.
-   Review the output yourself before reporting.
-3. Once a pilot passes review: fill `curriculum/lexicon.csv` and `bible/continuity-log.md`, and
-   decide the production model.
-4. Later: audition TTS voices, and verify the ⚠ items in `docs/tts-format.md` (ai.google.dev was
+1. Owner's directions for production batches (not started).
+2. Later: audition TTS voices, and verify the ⚠ items in `docs/tts-format.md` (ai.google.dev was
    blocked by the network policy in session 1).
 
 ## Conventions
