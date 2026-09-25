@@ -1,136 +1,93 @@
-# Subject pronouns and *essere*: saying who you are
+# Subject pronouns and *essere*
 
 ## What it is
 
-In Italian, **io**, **tu**, **lui**, **lei**, **noi**, **voi**, **loro** are the subject pronouns: *I, you, he, she, we, you all, they*. The verb **essere** means "to be". Together they are the machine you need for the most useful sentences in any language:
+In Italian, every sentence needs a verb, and the most useful verb of all is **essere** ("to be"). With it you can say who you are, where you are from and how you are: *io sono Ben, tu sei americano, noi siamo amici*.
 
-- **Sono americano.** — I'm American.
-- **Tu sei Leo.** — You're Leo.
-- **Lei è il vicino nuovo.** — He's the new neighbour.
-
-This chapter is full of them, because everybody in Via dei Tigli is meeting everybody for the first time.
+Italian also has **subject pronouns** — *io, tu, lui, lei, Lei, noi, voi, loro* — the little words for "I, you, he, she, you (formal), we, you all, they". In English you must say "I am", "you are"; in Italian you *can* say *io sono*, *tu sei*, but Italians often leave the pronoun out, because the verb ending already tells you who is speaking: *sono americano* = "I am American".
 
 ## How it works
 
-### The pronouns
+The present tense of **essere** is irregular, so learn it as a block:
 
-| Italian | English | Notes |
+| Pronoun | Essere | English |
 |---|---|---|
-| **io** | I | |
-| **tu** | you | one person you know: family, friends, kids, classmates |
-| **lui** | he | |
-| **lei** | she | |
-| **Lei** | you | polite, capital L: strangers, older people, officials |
-| **noi** | we | |
-| **voi** | you all | more than one person |
-| **loro** | they | |
+| io | sono | I am |
+| tu | sei | you are (to a friend, a child, a peer) |
+| lui | è | he is |
+| lei | è | she is |
+| Lei | è | you are (polite, to one person) |
+| noi | siamo | we are |
+| voi | siete | you are (to more than one person) |
+| loro | sono | they are |
 
-The polite **Lei** is written with a capital letter to keep it apart from **lei** ("she"). It takes the same verb form as *lui* and *lei*, so **Lei è** means both "she is" and "you are" (polite).
+Notice three things. First, **io sono** and **loro sono** look the same: only the pronoun tells them apart. Second, **lei** ("she") and **Lei** ("you", polite) look identical in writing; only the capital letter and the situation distinguish them. Third, the polite *Lei* takes the *third-person* verb: *Lei è*, never *Lei sei*.
 
-### The present of *essere*
+**Nationality adjectives** work like normal adjectives: they change to match the person.
 
-| | | |
-|---|---|---|
-| **io** | **sono** | I am |
-| **tu** | **sei** | you are |
-| **lui / lei / Lei** | **è** | he is / she is / you are (polite) |
-| **noi** | **siamo** | we are |
-| **voi** | **siete** | you all are |
-| **loro** | **sono** | they are |
+- *americano / americana / americani / americane*
+- *italiano / italiana / italiani / italiane*
 
-Notice two things. First, **io sono** and **loro sono** are identical: context (or the pronoun) tells them apart. Second, the accent on **è** is not decoration. **e** means "and"; **è** means "is".
+So a man says *sono americano*, a woman says *sono americana*, and a family says *siamo americani*. The adjective agrees with the person, not with the words around it.
 
-### Do you need the pronoun?
+**Greetings** come in pairs with the time of day:
 
-Not always. The verb ending already says who: **sono americano** is normally enough for "I'm American". Italians use **io** and **tu** only to stress or contrast:
+- *buongiorno* — in the morning and during the day
+- *buonasera* — from late afternoon onwards
+- *ciao* — informal, both "hi" and "bye", only with *tu* people
+- *arrivederci* — formal "goodbye", safe with everybody
 
-> **Io sono** Leo! **Tu sei** Ben!
-
-Here the pronouns are there on purpose: Leo is spelling out who is who.
-
-### Nationality adjectives
-
-Nationality words behave like normal adjectives: **-o** for masculine, **-a** for feminine, and **-i** / **-e** in the plural.
-
-| | masculine | feminine |
-|---|---|---|
-| singular | **americano**, **italiano** | **americana**, **italiana** |
-| plural | **americani**, **italiani** | **americane**, **italiane** |
-
-> **Sono americano.** / **Sono americana.**
-> **Siamo americani.** / **Siamo italiane.**
-
-After **essere**, the adjective agrees with the person, not with the English: a woman says **sono americana**, never *sono americano*.
-
-### Greetings and *mi chiamo*
-
-Greetings change with the clock:
-
-| | |
-|---|---|
-| **ciao** | hi / bye — with people you call *tu* |
-| **buongiorno** | good morning, and all morning |
-| **buonasera** | good evening, from late afternoon |
-| **arrivederci** | goodbye — safe with everybody, polite *Lei* included |
-
-**Ciao** is for friends, family, kids and classmates. With a stranger, use **buongiorno**, **buonasera** and **arrivederci**.
-
-**Mi chiamo** is the fixed phrase for giving your name, literally "I call myself". You do not change it and you do not add *sono*: **Mi chiamo** Ben, not *sono chiamo*. If you want the other order, use the verb: **Il mio nome è** Ben.
+**Mi chiamo** is a fixed phrase meaning "my name is" (literally "I call myself"). You will use it every time you meet someone: *Mi chiamo Ben. Piacere!*
 
 ## From the story
 
-“**Sono americano**.” — **I'm American**. (`s01e01-1-005`) — First person singular of *essere* plus an adjective: the sentence Ben repeats all day.
+«**Mi chiamo** Ben!» — “**My name is** Ben!” (`s01e01-1-011`)
+The fixed phrase for introductions, and the simplest way to start a conversation in Italian.
 
-“Il mio **nome** è Ben Carter.” — My **name** is Ben Carter. (`s01e01-1-046`) — The same idea with a noun: **è** + name.
+«**Sono** **americano**! **Abito** qui!» — “I **am** **American**! I **live** here!” (`s01e01-1-012`)
+The pronoun is left out — *sono* already means "I am". Note *americano* agrees with a male speaker.
 
-“Io **sono** Ornella Galli.” — **I'm** Ornella Galli. (`s01e01-2-014`) — Female speaker, so the sentence ends with her name, not an adjective. *Sono* works for both men and women.
+«**Tu** **parli** tre frasi. E le **parli** anche forte.» — “**You** **speak** three sentences. And you **speak** them loudly too.” (`s01e01-1-019`)
+*Tu* is used with family and friends. Here Chiara teases her husband with it.
 
-“Io **sono** Leo! Tu **sei** Ben!” — **I'm** Leo! **You're** Ben! (`s01e01-1-060`) — Leo contrasts the two pronouns on purpose: **io** versus **tu**, **sono** versus **sei**.
+«**Noi** **siamo** a **casa**, Leo.» — “**We** **are** home, Leo.” (`s01e01-1-026`)
+*Noi siamo* — "we are" — spelled out because Chiara wants to make the point clearly.
 
-“Siamo **amici**?” — Are we **friends**? (`s01e01-4-061`) — First person plural: *noi* + **siamo**. Italian often asks this with no pronoun at all.
+«Sì. **Lei** **capisce** l'**italiano**?» — “Yes. Do **you** **understand** **Italian**?” (`s01e01-2-022`)
+Ornella uses the polite *Lei* with Ben, a stranger, so the verb is *capisce*, third person.
 
-“Lei è il **vicino** nuovo, vero?” — You're the **new neighbour**, right? (`s01e01-2-009`) — Polite **Lei** with **è**: Ornella speaks to Ben with the formal form from the first minute.
+«Io **sono** Ornella Galli. **Abito** al sedici.» — “I **am** Ornella Galli. I **live** at sixteen.” (`s01e01-2-018`)
+The pronoun *io* is there for emphasis, in a formal self-introduction.
 
-“No. Tu **sei** americana. Come me.” — No. **You're** American. Like me. (`s01e01-6-024`) — **tu sei** + feminine adjective: Emma is *americana* even though she feels Italian.
+«Voi **siete** una famiglia **nuova**.» — “**You** **are** a **new** family.” (`s01e01-2-054`)
+*Voi siete* — "you all are" — because Ornella is talking to the whole family.
 
-“**Buonasera** è dopo le sei. Ora è pomeriggio.” — **Good evening** is after six. Now it's afternoon. (`s01e01-7-011`) — Roberto explains the word itself. **è** here is "is", not "and".
+«Si dice: **io** **sono** a Borgoverde.» — “You say: **I** **am** in Borgoverde.” (`s01e01-5-028`)
+Pietro corrects Leo's mistake, and the correct form has the pronoun plus *sono*.
 
-“**Lui è americano**.” — **He's American**. (`s01e01-5-010`) — Third person singular, masculine. Italian uses **lui** as the normal word for "he" in speech.
+«Tu **sei** il mio **compagno**. E **io** **sono** il tuo **compagno**.» — “**You** **are** my **classmate**. And **I** **am** your **classmate**.” (`s01e01-5-058`)
+A neat pair for *tu sei* and *io sono* in the same exchange.
 
-## Common mistakes English speakers make
+## Common mistakes
 
-1. **Making the pronoun compulsory.** *Io sono Ben* is not wrong, but *Sono Ben* is what people actually say. Save **io** and **tu** for contrast.
-2. **Forgetting the accent on *è*.** *E* means "and". If you write *Ben e americano*, you wrote "Ben and American".
-3. **Wrong gender on nationalities.** A woman never says *sono americano*. Think: who is speaking?
-4. **Mixing up *Lei* and *lei*.** With Ornella or a shopkeeper, **Lei è** is "you are". With a friend, it would sound cold.
-5. **Adding *sono* to *mi chiamo*.** Say **Mi chiamo** Ben, or **Sono** Ben — but never *Sono mi chiamo*.
-6. **Using *ciao* with strangers.** Ornella would not be pleased. Use **buongiorno** and **arrivederci** until somebody says *diamoci del tu*.
-7. **Forgetting agreement with *noi* and *voi*.** *Siamo amici* for a mixed group, *siamo amiche* for women only.
+- **Saying "io è" or "tu è".** Each pronoun has its own form: *io sono*, *tu sei*, *lui/lei è*. Leo makes exactly this mistake, and Pietro corrects it.
+- **Using *tu* with a stranger.** With shopkeepers, officials and older neighbours you use *Lei*: *Come sta?*, not *Come stai?* In this episode Ben says *Come stai, signora Galli?* and Ornella gently answers *Con me si dice: come sta.*
+- **Forgetting adjective agreement.** A woman is *americana*, not *americano*; two women are *americane*.
+- **Using *ciao* with everyone.** *Ciao* is for *tu* people only. With Ornella or Roberto, use *buongiorno*, *buonasera* and *arrivederci*.
+- **Translating "my name is" word for word.** Don't say *il mio nome è*; the normal phrase is *mi chiamo*.
+- **Adding the pronoun everywhere.** *Io sono* is fine, but *sono* alone is more natural when there is no emphasis.
 
 ## Practice
 
-Fill the gap with the right form of *essere*.
-
-1. Io ______ Ben. ______ americano.
-2. Tu ______ Leo. ______ americano anche tu.
-3. Lei ______ la signora Galli. ______ italiana.
-4. Noi ______ amici.
-5. Voi ______ bambini della terza B.
-6. Loro ______ nuovi vicini.
-7. Signor Colombo, ______ lei il presidente?
-8. Choose the right greeting: it is 7 p.m. and you meet your neighbour's elderly aunt. — ______ , signora.
-9. Correct the mistake: *Mi chiamo è Ben.*
-10. Correct the mistake: *Sono americano*, says Emma.
+1. Complete: *Io ___ italiano.*
+2. Complete: *Noi ___ a casa.*
+3. Complete: *Loro ___ americani.*
+4. A woman says: *Sono ___ (americano).*
+5. Make it polite: *Come stai, signora Galli?* → *Come ___, signora Galli?*
+6. Choose: *Ciao / Buongiorno* — you meet your new neighbour at eleven in the morning, and she is 78.
+7. Translate: "My name is Emma. I am American."
+8. Translate: "We are friends."
 
 ### Answer key
 
-1. **sono** … **Sono**
-2. **sei** … **Sei**
-3. **è** … **È**
-4. **siamo**
-5. **siete**
-6. **sono**
-7. **è** (polite **Lei è**)
-8. **Buonasera**, signora (and later **arrivederci**; not *ciao*).
-9. *Mi chiamo Ben.* (or *Sono Ben.*) — **mi chiamo** already contains the verb.
-10. **Sono americana** — Emma is female, so the adjective takes **-a**.
+1. *sono* — 2. *siamo* — 3. *sono* — 4. *americana* — 5. *Come sta, signora Galli?* — 6. *Buongiorno* (*ciao* is only for *tu* people) — 7. *Mi chiamo Emma. Sono americana.* — 8. *Siamo amici.*

@@ -1,28 +1,30 @@
 lemma,pos,gender,en,level,introduced,recycled,forms
+abitare,verb,,"to live, to reside",A1,s01e01,,"abita, abitano, abitare, abiti, abito"
 americano,adjective,,American,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"americana, americane, americani, americano"
-amico,noun,m,friend,A1,s01e01,s05e03,"amica, amiche, amici, amico"
 arrivederci,interjection,,goodbye,A1,s01e01,s01e02,arrivederci
 benvenuto,adjective,,welcome,A1,s01e01,s01e04,"benvenuta, benvenute, benvenuti, benvenuto"
 buonasera,interjection,,good evening,A1,s01e01,s01e04,buonasera
 buongiorno,interjection,,good morning,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,buongiorno
+capire,verb,,to understand,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"capire, capisce, capisci, capisco, capiscono"
 ciao,interjection,,hi; bye,A1,s01e01,s01e02 s01e04 s01e05 s05e03,ciao
+essere,verb,,to be,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"essere, sei, siamo, siete, sono, è"
 grazie,interjection,,thank you,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,grazie
-il bambino,noun,m,child; boy,A1,s01e01,s01e03 s01e04 s01e05 s05e03,"bambina, bambine, bambini, bambino, il bambino"
-il giorno,noun,m,day,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"giorni, giorno, il giorno"
-il nome,noun,m,name,A1,s01e01,s01e03 s01e04 s01e05,"il nome, nome, nomi"
-il ragazzo,noun,m,boy; guy,A1,s01e01,s01e05,"il ragazzo, ragazza, ragazze, ragazzi, ragazzo"
-il signore,noun,m,gentleman; Mr; sir,A1,s01e01,s01e04 s05e03,"il signore, signore, signori"
+il compagno,noun,m,classmate,A1,s01e01,,"compagna, compagne, compagni, compagno, il compagno"
+il signore,noun,m,"gentleman; Mr, Mrs",A1,s01e01,s01e03 s01e04 s01e05 s05e03,"il signore, signora, signore, signori"
 il vicino,noun,m,neighbour,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"il vicino, vicina, vicine, vicini, vicino"
 italiano,adjective,,Italian,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"italiana, italiane, italiani, italiano"
-la casa,noun,f,house; home,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"casa, case, la casa"
+la casa,noun,f,house,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"casa, case, la casa"
+la classe,noun,f,"class, classroom",A1,s01e01,s05e03,"classe, classi, la classe"
+la finestra,noun,f,window,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"finestra, finestre, la finestra"
+la maestra,noun,f,primary-school teacher,A1,s01e01,s05e03,"la maestra, maestra, maestre"
 la scuola,noun,f,school,A1,s01e01,s01e05 s05e03,"la scuola, scuola, scuole"
-la signora,noun,f,lady; Mrs; madam,A1,s01e01,s01e03 s01e04 s01e05 s05e03,"la signora, signora"
-la via,noun,f,street,A1,s01e01,s01e02 s01e03 s01e04 s05e03,"la via, via, vie"
-mi chiamo,expression,,my name is,A1,s01e01,,mi chiamo
+la strada,noun,f,street,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"la strada, strada, strade"
+mi chiamo,expression,,my name is,A1,s01e01,s01e03 s01e04 s01e05 s05e03,"mi chiamo, si chiama"
 nuovo,adjective,,new,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"nuova, nuove, nuovi, nuovo"
-per favore,expression,,please,A1,s01e01,s01e02 s01e03 s01e04,per favore
-piacere,expression,,nice to meet you,A1,s01e01,s01e04,piacere
-scusi,interjection,,excuse me (formal),A1,s01e01,s01e02 s01e04 s05e03,scusi
+parlare,verb,,"to speak, to talk",A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"parla, parlano, parlare, parli, parliamo, parlo"
+piacere,interjection,,nice to meet you,A1,s01e01,s01e04,piacere
+prego,interjection,,you're welcome; please go ahead,A1,s01e01,s01e03 s01e05 s05e03,prego
+scusi,expression,,excuse me; sorry,A1,s01e01,s01e02 s01e04 s01e05 s05e03,"scusa, scusi"
 buono,adjective,,"good, tasty",A1,s01e02,s01e04 s01e05 s05e03,"buona, buone, buoni, buono"
 il bar,noun,m,"bar, café",A1,s01e02,s01e04 s01e05 s05e03,"bar, il bar"
 il bicchiere,noun,m,glass,A1,s01e02,s01e05 s05e03,"bicchiere, bicchieri, il bicchiere"
@@ -47,6 +49,7 @@ la parola,noun,f,word,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"la parola, parola, 
 la pasta,noun,f,pasta,A1,s01e02,s01e05,"la pasta, pasta"
 la tazza,noun,f,cup,A1,s01e02,s01e04 s05e03,"la tazza, tazza, tazze"
 lo zucchero,noun,m,sugar,A1,s01e02,,"lo zucchero, zucchero"
+per favore,expression,,please,A1,s01e02,s01e03 s01e04,per favore
 vorrei,verb,,I would like,A1,s01e02,,vorrei
 aprire,verb,,to open,A1,s01e03,s01e04 s01e05 s05e03,"apre, apriamo, aprire, apro, aprono"
 cercare,verb,,to look for,A1,s01e03,s01e04 s01e05 s05e03,"cerca, cercano, cercare, cerchiamo, cerco"
@@ -58,10 +61,10 @@ il foglio,noun,m,sheet of paper,A1,s01e03,s01e04 s01e05,"fogli, foglio, il fogli
 il gatto,noun,m,cat,A1,s01e03,s01e04 s01e05 s05e03,"gatti, gatto, il gatto"
 il giardino,noun,m,garden,A1,s01e03,,"giardini, giardino, il giardino"
 il letto,noun,m,bed,A1,s01e03,s05e03,"il letto, letti, letto"
+il nome,noun,m,name,A1,s01e03,s01e04 s01e05,"il nome, nome, nomi"
 la caffettiera,noun,f,coffee maker; moka pot,A1,s01e03,,"caffettiera, caffettiere, la caffettiera"
 la camera,noun,f,bedroom,A1,s01e03,s05e03,"camera, camere, la camera"
 la cucina,noun,f,kitchen,A1,s01e03,s01e04 s01e05 s05e03,"cucina, cucine, la cucina"
-la finestra,noun,f,window,A1,s01e03,s01e04 s01e05 s05e03,"finestra, finestre, la finestra"
 la porta,noun,f,door,A1,s01e03,s01e04 s01e05 s05e03,"la porta, porta, porte"
 la scatola,noun,f,box,A1,s01e03,,"la scatola, scatola, scatole"
 la sedia,noun,f,chair,A1,s01e03,s01e04 s01e05 s05e03,"la sedia, sedia, sedie"
@@ -93,7 +96,6 @@ la medicina,noun,f,medicine,A1,s01e04,,"la medicina, medicina, medicine"
 la passeggiata,noun,f,"walk, stroll",A1,s01e04,,"la passeggiata, passeggiata, passeggiate"
 la piazza,noun,f,square,A1,s01e04,,"la piazza, piazza, piazze"
 la stazione,noun,f,station,A1,s01e04,,"la stazione, stazione, stazioni"
-la strada,noun,f,"street, road",A1,s01e04,s01e05 s05e03,"la strada, strada, strade"
 avere fame,expression,,to be hungry,A1,s01e05,,"avere fame, ha fame, hai fame, hanno fame, ho fame"
 avere paura,expression,,to be afraid,A1,s01e05,s05e03,"avere paura, ha paura, hai paura, ho paura"
 avere ragione,expression,,to be right,A1,s01e05,s05e03,"avere ragione, ha ragione, hai ragione, ho ragione"
@@ -115,7 +117,6 @@ la tavola,noun,f,table,A1,s01e05,s05e03,"la tavola, tavola, tavole"
 la zia,noun,f,aunt,A1,s01e05,,"la zia, zia, zie"
 lo zio,noun,m,uncle,A1,s01e05,,"lo zio, zii, zio"
 mangiare,verb,,to eat,A1,s01e05,s05e03,"mangia, mangiamo, mangiano, mangiare, mangio"
-parlare,verb,,to speak,A1,s01e05,s05e03,"parla, parlano, parlare, parliamo, parlo"
 chiedere che,expression,,to ask (someone) to,B1,s05e03,,"chiede che, chiedere che, chiediamo che, chiedono che"
 decidere,verb,,to decide,B1,s05e03,,"decide, decidere, decidi, decido"
 firmare,verb,,to sign,B1,s05e03,,"firma, firmare, firmato"

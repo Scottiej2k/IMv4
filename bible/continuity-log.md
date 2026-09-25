@@ -27,10 +27,10 @@ factual: this file is what keeps 200 chapters consistent.
 ## Episodes
 
 ### s01e01 · Il primo giorno
-- **Happened:** The Carters move into Via dei Tigli 14 and Ben introduces himself to the street; Roberto Colombo makes him move the van to outside number 12. Leo's first day in class terza B at Scuola primaria Gianni Rodari; the family ends the evening at Bar Tigli with Matteo and Nadia.
-- **New facts:** Ornella Galli lives at no. 16, has been on the street fifty years, and has a cat named Pavarotti. Leo's teacher is maestra Paola; classmates Pietro (now a friend) and Marco. Bar Tigli is Matteo and Nadia's, with a photo of Gino (40 years behind the bar) above the counter. Roberto claims the parking spot marked by a white line in front of his house. Chiara starts her new job tomorrow. Ornella teaches Ben *buongiorno* and *buonasera* (after 6 pm); Ben keeps a notebook of Italian words.
-- **Changed:** Emma answers Ben only with "ciao" and calls herself italiana; Franco refuses to greet or answer Ben; Matteo uses *tu* with Ben at once.
-- **Planted:** Franco's closing "Io sono solo. Tu sei… Mah."; the Ben–Roberto parking feud.
+- **Happened:** The Carters move into Via dei Tigli 14; Ben introduces himself in three phrases to neighbours. Leo starts at Scuola primaria Gianni Rodari and befriends Pietro; Ben meets Ornella, Roberto and gets corrected on *Lei* forms.
+- **New facts:** Ornella Galli lives at Via dei Tigli 16; Roberto Colombo lives at Via dei Tigli 11, is president of the *comitato di quartiere Via dei Tigli* (twelve members). Leo's teacher is *maestra* Paola; classmate and new friend is Pietro (red hair). Emma's class has 26 students. Franco's landline contact is Lucia; Tommaso (Roberto's son, at number 11) introduces himself to Emma. Cereals from America are a possession of Leo's.
+- **Changed:** Ben and Ornella establish *Lei* (she corrects *come stai* → *come sta*); Ben and Roberto stay on *Lei*; Franco keeps Lucia secret from his family (Chiara doesn't know); Emma remains withdrawn, has met Tommaso only by name.
+- **Planted:** The Carters' coffee invitation to Ornella's, Sunday at 11 (payoff: next chapter). Emma–Tommaso thread begun. Franco's secret relationship with Lucia still hidden.
 
 ### s01e02 · Un caffè, per favore
 - **Happened:** Ben discovers Bar Tigli and Italian bar etiquette (coffee small, no cappuccino after breakfast, pay first then sit); learns *cappuccino*, *cornetto* vs *brioche*, *latte* = milk; Sunday lunch at Franco's ends with Franco giving Ben and Leo a bag of bread.
