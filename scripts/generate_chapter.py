@@ -80,13 +80,14 @@ def call(client, model, effort, system, messages):
 OPENROUTER_URL = "https://www.openrouter.ai/api/v1/chat/completions"  
 
 
-def call_openrouter(model, effort, system, messages):
+def call_openrouter(model, effort, system, messages, reasoning_tokens=None):
     """One chat-completions request to OpenRouter. Returns (text, usage dict with 'cost' in USD)."""
     body = {
         "model": model,
         "max_tokens": 32000,
         "messages": [{"role": "system", "content": system}] + messages,
-        "reasoning": {"effort": {"xhigh": "high", "max": "high"}.get(effort, effort)},
+        "reasoning": ({"max_tokens": reasoning_tokens} if reasoning_tokens else
+                      {"effort": {"xhigh": "high", "max": "high"}.get(effort, effort)}),
         "usage": {"include": True},
     }
     # A User-Agent is needed: Cloudflare rejects Python's default one (error 1010).
@@ -162,10 +163,10 @@ def main():
         print(f"- {prompt.splitlines()[0][:70]}")
         messages.append({"role": "user", "content": prompt})
         if openrouter:
-            # The outline is short, but at medium effort DeepSeek spent all 32k output tokens
-            # thinking about it (twice, on S5E3). Low effort keeps it to a normal reply.
-            effort = "low" if pipe.state["step"] == "outline" else args.effort
-            text, usage = call_openrouter(args.model, effort, pipe.system, messages)
+            # The outline is short, but DeepSeek has spent all 32k output tokens thinking about
+            # it (S5E3, even at low effort), so its thinking is capped.
+            cap = 12000 if pipe.state["step"] == "outline" else None
+            text, usage = call_openrouter(args.model, args.effort, pipe.system, messages, cap)
             messages.append({"role": "assistant", "content": text})
             total += float(usage.get("cost") or 0)
             out_tokens += int(usage.get("completion_tokens") or 0)

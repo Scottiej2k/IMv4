@@ -47,9 +47,10 @@ format must be exact.
   for a laugh, but never a full English sentence.
 - When Ben makes a mistake in Italian, another character corrects it in the same scene. Never bold a
   mistake or make it a vocabulary item.
-- *Tu* among family, friends, kids and peers; *Lei* for Ornella and Roberto with Ben until the brief
-  says otherwise, and for shopkeepers, officials and strangers. Switching from Lei to tu is a story
-  event.
+- *Tu* among family, friends, kids and peers; *Lei* for shopkeepers, officials and strangers. Who
+  uses tu or Lei with whom changes over the series (Ben and Ornella start on Lei, for example): the
+  brief's "Where things stand" facts are binding and override any general description of a
+  character. Switching from Lei to tu is a story event.
 - Chiara keeps her surname Ferri; the kids are Carter.
 - Ben is **from Columbus, Ohio**; the family **lived in Chicago** before the move. So Ben says
   "Sono di Columbus" or "Abitiamo a Chicago", never "Sono di Chicago". Use every character fact

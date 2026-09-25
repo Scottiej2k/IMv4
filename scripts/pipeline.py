@@ -155,6 +155,15 @@ Vocabulary to use, each bolded at least once as its own span, with the matching 
 Also bold clear examples of the grammar focus where they come up naturally.
 
 Return only the scene: the heading line exactly as above, then its lines in the draft format."""
+        # Repeat the chapter's tu/Lei facts for this scene's characters: the brief is many turns back,
+        # and the general rules ("Ornella uses Lei") otherwise win (S5E3 pilot, 2026-09-25).
+        cast = [c.strip().capitalize() for c in sc["heading"].split("|")[-1].split(",")]
+        address = [f for f in make_brief.timeline_facts(self.cid)
+                   if re.search(r"\*\*(tu|Lei)\*\*", f) and sum(c in f for c in cast) >= 2]
+        if confessionale:
+            address = []
+        if address:
+            p += "\nTu/Lei in this chapter (binding): " + " ".join(address)
         if forbidden:
             p += f"\nNever use (not taught yet): {forbidden}."
         return p
