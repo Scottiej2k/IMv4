@@ -1,0 +1,6892 @@
+{
+  "id": "s01e05",
+  "season": 1,
+  "episode": 5,
+  "level": "A1",
+  "title": {
+    "it": "Quanti anni hai?",
+    "en": "How Old Are You?"
+  },
+  "grammar_focus": [
+    "g-avere"
+  ],
+  "vocab_theme": "Family members, age, physical needs",
+  "vocab": [
+    {
+      "id": "v-famiglia",
+      "lemma": "la famiglia",
+      "pos": "noun",
+      "en": "family",
+      "example": "s01e05-1-040",
+      "target": {
+        "it": "famiglia",
+        "en": "family"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-padre",
+      "lemma": "il padre",
+      "pos": "noun",
+      "en": "father",
+      "example": "s01e05-4-084",
+      "target": {
+        "it": "padre",
+        "en": "father"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-madre",
+      "lemma": "la madre",
+      "pos": "noun",
+      "en": "mother",
+      "example": "s01e05-5-003",
+      "target": {
+        "it": "madre",
+        "en": "mother"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-fratello",
+      "lemma": "il fratello",
+      "pos": "noun",
+      "en": "brother",
+      "example": "s01e05-2-050",
+      "target": {
+        "it": "fratelli",
+        "en": "brothers"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-sorella",
+      "lemma": "la sorella",
+      "pos": "noun",
+      "en": "sister",
+      "example": "s01e05-2-050",
+      "target": {
+        "it": "sorelle",
+        "en": "sisters"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-nonno",
+      "lemma": "il nonno",
+      "pos": "noun",
+      "en": "grandfather",
+      "example": "s01e05-4-089",
+      "target": {
+        "it": "nonno",
+        "en": "grandfather"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-nonna",
+      "lemma": "la nonna",
+      "pos": "noun",
+      "en": "grandmother",
+      "example": "s01e05-4-012",
+      "target": {
+        "it": "nonna",
+        "en": "Grandmother"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-figlio",
+      "lemma": "il figlio",
+      "pos": "noun",
+      "en": "son, child",
+      "example": "s01e05-4-086",
+      "target": {
+        "it": "Figlio",
+        "en": "Son"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-nipote",
+      "lemma": "il nipote",
+      "pos": "noun",
+      "en": "grandchild; nephew, niece",
+      "example": "s01e05-4-086",
+      "target": {
+        "it": "Nipote",
+        "en": "Grandchild"
+      },
+      "gender": "m/f",
+      "note": "In this chapter mostly \"grandchild\"."
+    },
+    {
+      "id": "v-zio",
+      "lemma": "lo zio",
+      "pos": "noun",
+      "en": "uncle",
+      "example": "s01e05-2-076",
+      "target": {
+        "it": "zio",
+        "en": "uncle"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-zia",
+      "lemma": "la zia",
+      "pos": "noun",
+      "en": "aunt",
+      "example": "s01e05-4-086",
+      "target": {
+        "it": "Zia",
+        "en": "Aunt"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-pranzo",
+      "lemma": "il pranzo",
+      "pos": "noun",
+      "en": "lunch",
+      "example": "s01e05-2-099",
+      "target": {
+        "it": "pranzo",
+        "en": "lunch"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-tavola",
+      "lemma": "la tavola",
+      "pos": "noun",
+      "en": "table",
+      "example": "s01e05-2-037",
+      "target": {
+        "it": "tavola",
+        "en": "table"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-partita",
+      "lemma": "la partita",
+      "pos": "noun",
+      "en": "match, game",
+      "example": "s01e05-4-091",
+      "target": {
+        "it": "partita",
+        "en": "match"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-squadra",
+      "lemma": "la squadra",
+      "pos": "noun",
+      "en": "team",
+      "example": "s01e05-2-113",
+      "target": {
+        "it": "squadra",
+        "en": "team"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-acqua",
+      "lemma": "l'acqua",
+      "pos": "noun",
+      "en": "water",
+      "example": "s01e05-2-098",
+      "target": {
+        "it": "acqua",
+        "en": "water"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-vino",
+      "lemma": "il vino",
+      "pos": "noun",
+      "en": "wine",
+      "example": "s01e05-2-034",
+      "target": {
+        "it": "vino",
+        "en": "wine"
+      },
+      "gender": "m"
+    },
+    {
+      "id": "v-mangiare",
+      "lemma": "mangiare",
+      "pos": "verb",
+      "en": "to eat",
+      "example": "s01e05-1-031",
+      "target": {
+        "it": "mangia",
+        "en": "eat"
+      }
+    },
+    {
+      "id": "v-parlare",
+      "lemma": "parlare",
+      "pos": "verb",
+      "en": "to speak",
+      "example": "s01e05-4-152",
+      "target": {
+        "it": "parla",
+        "en": "speaks"
+      }
+    },
+    {
+      "id": "v-avere-fame",
+      "lemma": "avere fame",
+      "pos": "expression",
+      "en": "to be hungry",
+      "example": "s01e05-2-014",
+      "target": {
+        "it": "ho fame",
+        "en": "I'm hungry"
+      }
+    },
+    {
+      "id": "v-avere-sete",
+      "lemma": "avere sete",
+      "pos": "expression",
+      "en": "to be thirsty",
+      "example": "s01e05-1-013",
+      "target": {
+        "it": "ho sete",
+        "en": "I'm thirsty"
+      }
+    },
+    {
+      "id": "v-avere-paura",
+      "lemma": "avere paura",
+      "pos": "expression",
+      "en": "to be afraid",
+      "example": "s01e05-1-061",
+      "target": {
+        "it": "hai paura",
+        "en": "are you scared"
+      }
+    },
+    {
+      "id": "v-avere-ragione",
+      "lemma": "avere ragione",
+      "pos": "expression",
+      "en": "to be right",
+      "example": "s01e05-4-045",
+      "target": {
+        "it": "Hai ragione",
+        "en": "You're right"
+      }
+    },
+    {
+      "id": "v-domenica",
+      "lemma": "la domenica",
+      "pos": "noun",
+      "en": "Sunday",
+      "example": "s01e05-6-020",
+      "target": {
+        "it": "domenica",
+        "en": "Sunday"
+      },
+      "gender": "f"
+    },
+    {
+      "id": "v-grande",
+      "lemma": "grande",
+      "pos": "adjective",
+      "en": "big, great",
+      "example": "s01e05-1-050",
+      "target": {
+        "it": "Grande",
+        "en": "Big"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "location": "casa-carter",
+      "characters": [
+        "ben",
+        "chiara",
+        "leo",
+        "emma"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-001",
+              "it": "È **domenica** mattina. In casa Carter c'è profumo di caffè.",
+              "en": "It's Sunday morning. In the Carter house there's the smell of coffee.",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-002",
+              "it": "Ben! Leo! Emma! È tardi!",
+              "en": "Ben! Leo! Emma! It's late!"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-003",
+              "it": "Ben è in cucina. Apre il frigorifero e guarda dentro.",
+              "en": "Ben is in the kitchen. He opens the fridge and looks inside."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-004",
+              "it": "**Ho fame**.",
+              "en": "**I'm hungry**.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-005",
+              "it": "Ben, è mezzogiorno meno un quarto.",
+              "en": "Ben, it's a quarter to twelve."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-006",
+              "it": "Sì. E io **ho fame**.",
+              "en": "Yes. And **I'm hungry**.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-007",
+              "it": "Leo entra in cucina con un foglio in mano.",
+              "en": "Leo comes into the kitchen with a piece of paper in his hand."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-008",
+              "it": "Mamma, quanti siamo a **pranzo**?",
+              "en": "Mum, how many of us are there for **lunch**?",
+              "focus": [
+                "v-pranzo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-009",
+              "it": "Sette, forse otto.",
+              "en": "Seven, maybe eight."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-010",
+              "it": "Sette. Il nonno, zio Matteo, Nadia...",
+              "en": "Seven. Grandad, uncle Matteo, Nadia..."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-011",
+              "it": "Ben guarda Leo e sorride.",
+              "en": "Ben looks at Leo and smiles."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-012",
+              "it": "Leo, anche tu **hai fame**?",
+              "en": "Leo, are **you hungry** too?",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-013",
+              "it": "No. Io **ho sete**.",
+              "en": "No. **I'm thirsty**.",
+              "focus": [
+                "v-avere-sete"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-014",
+              "it": "Leo prende un bicchiere e beve **acqua**.",
+              "en": "Leo takes a glass and drinks **water**.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-015",
+              "it": "**Acqua**? Leo, bevi il latte.",
+              "en": "**Water**? Leo, drink your milk.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-016",
+              "it": "No, il latte a **pranzo** no.",
+              "en": "No, not milk at **lunch**.",
+              "focus": [
+                "v-pranzo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-017",
+              "it": "Leo, è mattina. Il **pranzo** è a mezzogiorno e mezza.",
+              "en": "Leo, it's morning. **Lunch** is at half past twelve.",
+              "focus": [
+                "v-pranzo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-018",
+              "it": "Emma arriva con il telefono in mano e si siede.",
+              "en": "Emma comes in with her phone in her hand and sits down."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-019",
+              "it": "Emma, lascia il telefono. Oggi è **domenica**.",
+              "en": "Emma, put your phone down. Today is **Sunday**.",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-020",
+              "it": "E allora?",
+              "en": "So what?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-021",
+              "it": "E allora la **domenica** si **mangia** dal nonno.",
+              "en": "And so on **Sunday** we **eat** at grandad's.",
+              "focus": [
+                "v-domenica",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-022",
+              "it": "A che ora?",
+              "en": "What time?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-023",
+              "it": "Dodici e mezza.",
+              "en": "Half past twelve."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-024",
+              "it": "Dodici e mezza? Perché così presto?",
+              "en": "Half past twelve? Why so early?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-025",
+              "it": "Perché a **pranzo** si **mangia** a dodici e mezza, non all'una.",
+              "en": "Because at **lunch** we **eat** at half past twelve, not at one.",
+              "focus": [
+                "v-pranzo",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-026",
+              "it": "In America...",
+              "en": "In America..."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-027",
+              "it": "Lo so. In America è diverso. Qui è dodici e mezza.",
+              "en": "I know. In America it's different. Here it's half past twelve."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-028",
+              "it": "Ben apre il frigorifero un'altra volta e prende un pezzo di formaggio.",
+              "en": "Ben opens the fridge again and takes a piece of cheese."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-029",
+              "it": "Ben!",
+              "en": "Ben!"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-030",
+              "it": "**Ho fame**, Chiara. **Ho** molta **fame**.",
+              "en": "**I'm hungry**, Chiara. **I'm** very **hungry**.",
+              "focus": [
+                "v-avere-fame",
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-031",
+              "it": "Tra un'ora si **mangia**.",
+              "en": "In an hour we **eat**.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-032",
+              "it": "Un'ora è **grande**. Un'ora è troppo.",
+              "en": "An hour is **big**. An hour is too much.",
+              "focus": [
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-033",
+              "it": "Leo mette il foglio sulla **tavola** e conta con le dita.",
+              "en": "Leo puts the paper on the **table** and counts on his fingers.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-034",
+              "it": "Uno: il nonno. Due: zio Matteo. Tre: Nadia. Quattro: mamma. Cinque: papà. Sei: Emma. Sette: io. Otto... chi è otto?",
+              "en": "One: grandad. Two: uncle Matteo. Three: Nadia. Four: mum. Five: dad. Six: Emma. Seven: me. Eight... who's eight?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-035",
+              "it": "Nessuno. Siamo sette.",
+              "en": "Nobody. There are seven of us."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-036",
+              "it": "Sette va bene. La **famiglia** è sette.",
+              "en": "Seven is fine. The **family** is seven.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-037",
+              "it": "Sì, la **famiglia** è **grande** e rumorosa.",
+              "en": "Yes, the **family** is **big** and noisy.",
+              "focus": [
+                "v-famiglia",
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-038",
+              "it": "Emma alza gli occhi al cielo.",
+              "en": "Emma rolls her eyes."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-039",
+              "it": "Leo, perché conti con le dita? È strano.",
+              "en": "Leo, why are you counting on your fingers? It's weird."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-040",
+              "it": "Io conto la **famiglia**.",
+              "en": "I'm counting the **family**.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-041",
+              "it": "Sì, ma è strano.",
+              "en": "Yes, but it's weird."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-042",
+              "it": "Ben prende il quaderno dalla tasca e cerca una parola.",
+              "en": "Ben takes his notebook from his pocket and looks for a word."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-043",
+              "it": "Emma, tu **parli** italiano bene.",
+              "en": "Emma, you **speak** Italian well.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-044",
+              "it": "Lo so.",
+              "en": "I know."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-045",
+              "it": "Tu **parli** troppo bene. Per me è difficile.",
+              "en": "You **speak** too well. For me it's hard.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-046",
+              "it": "Papà, tu **parli** italiano come un americano.",
+              "en": "Dad, you **speak** Italian like an American.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-047",
+              "it": "Sì. Perfetto. Allora: il **nonno**... quanti anni ha il **nonno**?",
+              "en": "Yes. Perfect. So: grandad... how old is grandad?",
+              "focus": [
+                "v-nonno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-048",
+              "it": "Papà! Non si chiede l'età!",
+              "en": "Dad! You don't ask people's age!"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-049",
+              "it": "Settantuno.",
+              "en": "Seventy-one."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-050",
+              "it": "Settantuno? **Grande**. Molto **grande**.",
+              "en": "Seventy-one? **Big**. Very **big**.",
+              "focus": [
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-051",
+              "it": "Ben, non dire **grande** per un uomo di settantun anni.",
+              "en": "Ben, don't say **big** for a seventy-one-year-old man.",
+              "focus": [
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-052",
+              "it": "Ben scrive sul quaderno. Poi guarda Chiara.",
+              "en": "Ben writes in his notebook. Then he looks at Chiara."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-053",
+              "it": "E la **madre** di Chiara? Quanti anni ha la **madre**?",
+              "en": "And Chiara's **mother**? How old is her **mother**?",
+              "focus": [
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-054",
+              "it": "Silenzio in cucina. Chiara chiude il frigorifero piano.",
+              "en": "Silence in the kitchen. Chiara closes the fridge slowly."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-055",
+              "it": "La **madre** di Chiara non c'è più.",
+              "en": "Chiara's **mother** isn't here any more.",
+              "focus": [
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-056",
+              "it": "Oh. Scusa. Mi dispiace.",
+              "en": "Oh. Sorry. I'm sorry."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-057",
+              "it": "No, va bene. La mamma non c'è più. Lei ama il **pranzo** della **domenica**.",
+              "en": "No, it's all right. Mum isn't here any more. She loves the **Sunday** **lunch**.",
+              "focus": [
+                "v-pranzo",
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-058",
+              "it": "Allora il **pranzo** della **domenica** è per la **madre**.",
+              "en": "So the **Sunday** **lunch** is for your **mother**.",
+              "focus": [
+                "v-pranzo",
+                "v-domenica",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-059",
+              "it": "Sì. Per questo il **pranzo** della **domenica** è importante.",
+              "en": "Yes. That's why the **Sunday** **lunch** matters.",
+              "focus": [
+                "v-pranzo",
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-060",
+              "it": "Leo guarda Chiara e mette giù il foglio.",
+              "en": "Leo looks at Chiara and puts the paper down."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-061",
+              "it": "Mamma, tu **hai paura**?",
+              "en": "Mum, **are you scared**?",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-062",
+              "it": "No. Io no.",
+              "en": "No. Not me."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-063",
+              "it": "Io **ho** un po' di **paura** del nonno.",
+              "en": "**I'm** a bit **scared** of grandad.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-064",
+              "it": "Tu **hai paura** del nonno? Perché?",
+              "en": "**You're scared** of grandad? Why?",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-1-065",
+              "it": "Perché **parla** poco.",
+              "en": "Because he **speaks** very little.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-066",
+              "it": "Anch'io **ho paura** del nonno.",
+              "en": "**I'm scared** of grandad too.",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-067",
+              "it": "Ben!",
+              "en": "Ben!"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-068",
+              "it": "È vero. Io **ho paura** e **ho fame**. Tutto insieme.",
+              "en": "It's true. **I'm scared** and **I'm hungry**. All at once.",
+              "focus": [
+                "v-avere-paura",
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-069",
+              "it": "Emma sorride un po' e guarda suo padre.",
+              "en": "Emma smiles a little and looks at her father."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-1-070",
+              "it": "**Hai ragione**, papà. Il nonno **parla** poco.",
+              "en": "**You're right**, dad. Grandad **speaks** very little.",
+              "focus": [
+                "v-avere-ragione",
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-071",
+              "it": "Chiara prende le chiavi dal gancio vicino alla porta.",
+              "en": "Chiara takes the keys from the hook by the door."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-072",
+              "it": "Allora, tutti pronti? La **tavola** è pronta. Andiamo.",
+              "en": "Right, is everyone ready? The **table** is ready. Let's go.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-073",
+              "it": "Ancora dieci minuti.",
+              "en": "Ten more minutes."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-074",
+              "it": "No. Adesso.",
+              "en": "No. Now."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-1-075",
+              "it": "Ben beve un bicchiere di **acqua** in piedi, vicino al lavandino.",
+              "en": "Ben drinks a glass of **water** standing up, by the sink.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-1-076",
+              "it": "Va bene. Ma io **ho sete** e **ho fame**.",
+              "en": "All right. But **I'm thirsty** and **I'm hungry**.",
+              "focus": [
+                "v-avere-sete",
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-1-077",
+              "it": "Andiamo!",
+              "en": "Let's go!"
+            }
+          ]
+        }
+      ],
+      "time": "domenica mattina"
+    },
+    {
+      "n": 2,
+      "location": "casa-franco",
+      "characters": [
+        "franco",
+        "ben",
+        "chiara",
+        "leo",
+        "emma",
+        "matteo",
+        "nadia"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-001",
+              "it": "La casa di Franco è al numero nove. La porta è aperta.",
+              "en": "Franco's house is at number nine. The door is open."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-002",
+              "it": "Chiudi la porta!",
+              "en": "Close the door!"
+            }
+          ],
+          "style": "dalla cucina"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-003",
+              "it": "Ben chiude la porta e sorride.",
+              "en": "Ben closes the door and smiles."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-004",
+              "it": "Buongiorno, Franco!",
+              "en": "Good morning, Franco!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-005",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-006",
+              "it": "Franco non guarda Ben. Guarda la pentola.",
+              "en": "Franco doesn't look at Ben. He looks at the pot."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-007",
+              "it": "Siediti. Non toccare niente.",
+              "en": "Sit down. Don't touch anything."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-008",
+              "it": "Papà!",
+              "en": "Dad!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-009",
+              "it": "È l'americano. L'americano tocca tutto.",
+              "en": "He's the American. The American touches everything."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-010",
+              "it": "Io non tocco... tocco solo il pane.",
+              "en": "I don't touch... I only touch the bread."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-011",
+              "it": "Leo entra e si siede subito sulla sedia vicino alla finestra.",
+              "en": "Leo comes in and sits straight down on the chair by the window."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-2-012",
+              "it": "**Nonno**!",
+              "en": "**Grandad**!",
+              "focus": [
+                "v-nonno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-013",
+              "it": "Ciao, Leo. Come stai?",
+              "en": "Hi, Leo. How are you?"
+            }
+          ],
+          "style": "piano, con affetto"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-2-014",
+              "it": "Bene. Io **ho fame**.",
+              "en": "Fine. **I'm hungry**.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-015",
+              "it": "Bravo. Tu **hai fame**. Tu sei italiano.",
+              "en": "Good boy. **You're hungry**. You're Italian.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-016",
+              "it": "Emma arriva e resta in piedi vicino alla porta.",
+              "en": "Emma arrives and stays standing by the door."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-017",
+              "it": "Emma, chiudi la porta.",
+              "en": "Emma, close the door."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-2-018",
+              "it": "È chiusa.",
+              "en": "It's closed."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-019",
+              "it": "Mah. Allora siediti.",
+              "en": "Mah. Then sit down."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-020",
+              "it": "Si sente un rumore di passi e la voce di Matteo.",
+              "en": "You can hear footsteps and Matteo's voice."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-021",
+              "it": "Papà! Siamo noi! Il pane è pronto!",
+              "en": "Dad! It's us! The bread is ready!"
+            }
+          ],
+          "style": "forte"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-022",
+              "it": "Matteo entra con un sacchetto di pane. Nadia è dietro di lui.",
+              "en": "Matteo comes in with a bag of bread. Nadia is behind him."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-023",
+              "it": "Pane di Bar Tigli. Il pane migliore di Borgoverde.",
+              "en": "Bread from Bar Tigli. The best bread in Borgoverde."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-024",
+              "it": "Il pane è buono. Grazie, Nadia.",
+              "en": "The bread is good. Thank you, Nadia."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-025",
+              "it": "Grazie, Franco. È di Matteo.",
+              "en": "Thanks, Franco. It's Matteo's."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-026",
+              "it": "Sì, va bene.",
+              "en": "Yes, fine."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-027",
+              "it": "Franco prende il pane e lo mette sulla **tavola**.",
+              "en": "Franco takes the bread and puts it on the **table**.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-028",
+              "it": "Papà, il bar va bene, sai?",
+              "en": "Dad, the bar is doing well, you know?"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-029",
+              "it": "Il bar è un bar. Non è un ristorante.",
+              "en": "A bar is a bar. It's not a restaurant."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-030",
+              "it": "Ma il bar è la mia vita!",
+              "en": "But the bar is my life!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-031",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-032",
+              "it": "Nadia mette un piatto sulla **tavola** e sistema i bicchieri.",
+              "en": "Nadia puts a plate on the **table** and sorts out the glasses.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-033",
+              "it": "Franco, l'**acqua** è sul tavolo.",
+              "en": "Franco, the **water** is on the table.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-034",
+              "it": "Grazie. E il **vino**?",
+              "en": "Thanks. And the **wine**?",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-035",
+              "it": "Il **vino** è qui.",
+              "en": "The **wine** is here.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-036",
+              "it": "La **tavola** è lunga e piena di piatti. La **famiglia** è tutta qui.",
+              "en": "The **table** is long and full of plates. The whole **family** is here.",
+              "focus": [
+                "v-tavola",
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-037",
+              "it": "Sette a **tavola**. Come sempre.",
+              "en": "Seven at the **table**. As always.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-038",
+              "it": "No. Otto. C'è anche il posto di Anna.",
+              "en": "No. Eight. Anna's place is here too."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-039",
+              "it": "Un piccolo silenzio. Poi Franco guarda Ben.",
+              "en": "A short silence. Then Franco looks at Ben."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-040",
+              "it": "Allora. L'americano. Quanti **fratelli** hai?",
+              "en": "Right. The American. How many **brothers** do you have?",
+              "focus": [
+                "v-fratello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-041",
+              "it": "**Ho fame**.",
+              "en": "**I'm hungry**.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-042",
+              "it": "Franco smette di mescolare la pentola.",
+              "en": "Franco stops stirring the pot."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-043",
+              "it": "Come?",
+              "en": "What?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-044",
+              "it": "**Ho fame**. Molta **fame**.",
+              "en": "**I'm hungry**. Very **hungry**.",
+              "focus": [
+                "v-avere-fame",
+                "g-avere"
+              ]
+            }
+          ],
+          "style": "sicuro"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-045",
+              "it": "Papà, lui **ha fame**. **Ha fame** dalle undici.",
+              "en": "Dad, **he's hungry**. **He's been hungry** since eleven.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-046",
+              "it": "Io chiedo quanti **fratelli** hai. Non chiedo se **hai fame**.",
+              "en": "I'm asking how many **brothers** you have. I'm not asking if **you're hungry**.",
+              "focus": [
+                "v-fratello",
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-047",
+              "it": "Ah! **Fratelli**!",
+              "en": "Ah! **Brothers**!",
+              "focus": [
+                "v-fratello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-048",
+              "it": "Ben conta con le dita, come Leo.",
+              "en": "Ben counts on his fingers, like Leo."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-049",
+              "it": "Due. Due **fratelli**.",
+              "en": "Two. Two **brothers**.",
+              "focus": [
+                "v-fratello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-050",
+              "it": "Due **fratelli**. E **sorelle**?",
+              "en": "Two **brothers**. And **sisters**?",
+              "focus": [
+                "v-fratello",
+                "v-sorella"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-051",
+              "it": "Una **sorella**. Una.",
+              "en": "One **sister**. One.",
+              "focus": [
+                "v-sorella"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-052",
+              "it": "Nome?",
+              "en": "Name?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-053",
+              "it": "Mia **sorella** si chiama...",
+              "en": "My **sister** is called...",
+              "focus": [
+                "v-sorella"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-054",
+              "it": "Ben guarda Chiara. Chiara guarda Ben.",
+              "en": "Ben looks at Chiara. Chiara looks at Ben."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-055",
+              "it": "Susan.",
+              "en": "Susan."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-056",
+              "it": "Susan! Sì. Susan.",
+              "en": "Susan! Yes. Susan."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-057",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-058",
+              "it": "Matteo prende il pane e ride.",
+              "en": "Matteo takes the bread and laughs."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-059",
+              "it": "Papà, non è un esame. È un **pranzo**.",
+              "en": "Dad, it's not an exam. It's a **lunch**.",
+              "focus": [
+                "v-pranzo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-060",
+              "it": "Io **parlo** con l'americano. Tu **parli** troppo.",
+              "en": "I'm **talking** to the American. You **talk** too much.",
+              "focus": [
+                "v-parlare",
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-061",
+              "it": "Io **parlo** troppo? Tu non **parli** mai!",
+              "en": "I **talk** too much? You never **talk**!",
+              "focus": [
+                "v-parlare",
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-062",
+              "it": "Ragazzi, il **pranzo** è pronto.",
+              "en": "Boys, **lunch** is ready.",
+              "focus": [
+                "v-pranzo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-063",
+              "it": "**Quanti anni hai**?",
+              "en": "**How old are you**?",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-064",
+              "it": "Io? Quarantuno.",
+              "en": "Me? Forty-one."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-065",
+              "it": "Quarantuno. Giovane.",
+              "en": "Forty-one. Young."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-066",
+              "it": "E tu **hai** settantuno **anni**. Chiara lo dice.",
+              "en": "And **you're** seventy-one. Chiara says so.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-067",
+              "it": "Chiara **parla** troppo.",
+              "en": "Chiara **talks** too much.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ],
+          "style": "severo"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-068",
+              "it": "Papà, è solo un numero.",
+              "en": "Dad, it's just a number."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-069",
+              "it": "Franco mette la pasta nel piatto di Leo e poi guarda Ben.",
+              "en": "Franco puts pasta on Leo's plate and then looks at Ben."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-070",
+              "it": "Tu **hai figli**?",
+              "en": "Do you **have children**?",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-071",
+              "it": "Sì. Due **figli**. Emma e Leo.",
+              "en": "Yes. Two **children**. Emma and Leo.",
+              "focus": [
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-072",
+              "it": "Sì. Due **figli**. E tuo **padre**? Tua **madre**?",
+              "en": "Yes. Two **children**. And your **father**? Your **mother**?",
+              "focus": [
+                "v-figlio",
+                "v-padre",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-073",
+              "it": "Il **padre** e la **madre** sono in America. A Chicago.",
+              "en": "My **father** and **mother** are in America. In Chicago.",
+              "focus": [
+                "v-padre",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-074",
+              "it": "E i tuoi parenti?",
+              "en": "And your relatives?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-075",
+              "it": "I miei parenti sono tutti in America.",
+              "en": "My relatives are all in America."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-076",
+              "it": "Tu **hai** uno **zio**?",
+              "en": "Do you **have** an **uncle**?",
+              "focus": [
+                "g-avere",
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-077",
+              "it": "Sì, uno **zio**. E due **zii**.",
+              "en": "Yes, one **uncle**. And two **uncles**.",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-078",
+              "it": "Ben, attenzione.",
+              "en": "Ben, careful."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-079",
+              "it": "Sì?",
+              "en": "Yes?"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-080",
+              "it": "In italiano i parenti sono gli **zii**, i cugini. I tuoi sono i genitori.",
+              "en": "In Italian \"parenti\" means **uncles**, cousins. Yours are \"genitori\".",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-081",
+              "it": "Ah! Genitori! Il **padre** e la **madre** sono i genitori.",
+              "en": "Ah! \"Genitori\"! The **father** and the **mother** are the parents.",
+              "focus": [
+                "v-padre",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-082",
+              "it": "Bravo.",
+              "en": "Good."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-083",
+              "it": "Ben scrive sul quaderno e sorride.",
+              "en": "Ben writes in his notebook and smiles."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-084",
+              "it": "Genitori. Parenti. **Zii**. Perfetto!",
+              "en": "Parents. Relatives. **Uncles**. Perfect!",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-085",
+              "it": "Basta. **Mangiamo**.",
+              "en": "Enough. Let's **eat**.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-086",
+              "it": "Tutti prendono il pane e cominciano a **mangiare**.",
+              "en": "Everyone takes the bread and starts **eating**.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-087",
+              "it": "Papà, **domenica** c'è la **partita**. Milan-Inter.",
+              "en": "Dad, on **Sunday** there's the **match**. Milan-Inter.",
+              "focus": [
+                "v-domenica",
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-088",
+              "it": "La **partita**! Il Milan gioca bene.",
+              "en": "The **match**! Milan plays well.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-089",
+              "it": "Il Milan? L'Inter è la **squadra** migliore!",
+              "en": "Milan? Inter is the better **team**!",
+              "focus": [
+                "v-squadra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-090",
+              "it": "Mah. L'Inter no.",
+              "en": "Mah. Not Inter."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-091",
+              "it": "Papà, io **ho ragione**! L'Inter è più forte!",
+              "en": "Dad, **I'm right**! Inter is stronger!",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-092",
+              "it": "Tu **hai ragione**? No. **Ho ragione** io.",
+              "en": "**You're right**? No. **I'm right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-093",
+              "it": "Matteo, **mangia**.",
+              "en": "Matteo, **eat**.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-094",
+              "it": "Nadia, tu capisci di calcio?",
+              "en": "Nadia, do you understand football?"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-095",
+              "it": "No. Io capisco di **pranzo**. **Mangia**.",
+              "en": "No. I understand **lunch**. **Eat**.",
+              "focus": [
+                "v-pranzo",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-096",
+              "it": "Emma versa l'**acqua** nei bicchieri. Leo guarda la **partita** in testa.",
+              "en": "Emma pours the **water** into the glasses. Leo is watching the **match** in his head.",
+              "focus": [
+                "v-acqua",
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-2-097",
+              "it": "Nonno, io **ho sete**.",
+              "en": "Grandad, **I'm thirsty**.",
+              "focus": [
+                "v-avere-sete"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-098",
+              "it": "Bevi l'**acqua**. E **mangia**.",
+              "en": "Drink the **water**. And **eat**.",
+              "focus": [
+                "v-acqua",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-2-099",
+              "it": "E dopo il **pranzo**?",
+              "en": "And after **lunch**?",
+              "focus": [
+                "v-pranzo"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-100",
+              "it": "Dopo il **pranzo**, la **partita**.",
+              "en": "After **lunch**, the **match**.",
+              "focus": [
+                "v-pranzo",
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-101",
+              "it": "La **partita** è alle tre. Io **ho ragione**.",
+              "en": "The **match** is at three. **I'm right**.",
+              "focus": [
+                "v-partita",
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-102",
+              "it": "La **partita** è alle tre? Mah. Va bene.",
+              "en": "The **match** is at three? Mah. All right.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-103",
+              "it": "Franco mette il **vino** nel bicchiere di Ben.",
+              "en": "Franco pours the **wine** into Ben's glass.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-104",
+              "it": "Bevi il **vino**. Poi **parli**.",
+              "en": "Drink the **wine**. Then **talk**.",
+              "focus": [
+                "v-vino",
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-105",
+              "it": "Io **parlo** sempre!",
+              "en": "I always **talk**!",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-106",
+              "it": "Troppo. **Parla** troppo.",
+              "en": "Too much. **He talks** too much.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-2-107",
+              "it": "Ben, **mangia**. Il **vino** è forte.",
+              "en": "Ben, **eat**. The **wine** is strong.",
+              "focus": [
+                "v-mangiare",
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-108",
+              "it": "Ben beve il **vino** e **mangia** il pane.",
+              "en": "Ben drinks the **wine** and **eats** the bread.",
+              "focus": [
+                "v-vino",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-2-109",
+              "it": "Chiara, **ho sete** e **ho fame**.",
+              "en": "Chiara, **I'm thirsty** and **I'm hungry**.",
+              "focus": [
+                "v-avere-sete",
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-2-110",
+              "it": "**Mangia**, allora.",
+              "en": "**Eat**, then.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-111",
+              "it": "Franco guarda la **tavola** piena e sorride un po'.",
+              "en": "Franco looks at the full **table** and smiles a little.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-112",
+              "it": "La **famiglia** è tutto.",
+              "en": "The **family** is everything.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-2-113",
+              "it": "Papà, la **squadra** è tutto!",
+              "en": "Dad, the **team** is everything!",
+              "focus": [
+                "v-squadra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-2-114",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-2-115",
+              "it": "E il **pranzo** della **domenica** comincia.",
+              "en": "And the **Sunday** **lunch** begins.",
+              "focus": [
+                "v-pranzo",
+                "v-domenica"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "domenica, mezzogiorno e mezza"
+    },
+    {
+      "n": 3,
+      "location": "confessionale",
+      "characters": [
+        "ben"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-3-001",
+              "it": "Ben è seduto su una sedia, con il quaderno in mano.",
+              "en": "Ben is sitting on a chair, with his notebook in his hand."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-3-002",
+              "it": "Allora. La mia **famiglia**. In America. Ohio.",
+              "en": "Right. My **family**. In America. Ohio.",
+              "focus": [
+                "v-famiglia"
+              ]
+            },
+            {
+              "id": "s01e05-3-003",
+              "it": "Io **ho** due **fratelli**. Due. Uno, due.",
+              "en": "**I have** two **brothers**. Two. One, two.",
+              "focus": [
+                "g-avere",
+                "v-fratello"
+              ]
+            },
+            {
+              "id": "s01e05-3-004",
+              "it": "E **ho** una **sorella**. Una **sorella**. Si chiama Susan.",
+              "en": "And **I have** one **sister**. One **sister**. Her name is Susan.",
+              "focus": [
+                "g-avere",
+                "v-sorella"
+              ]
+            },
+            {
+              "id": "s01e05-3-005",
+              "it": "Poi il **padre**. La **madre**. Loro sono in Ohio, in una casa **grande**.",
+              "en": "Then my **father**. My **mother**. They're in Ohio, in a **big** house.",
+              "focus": [
+                "v-padre",
+                "v-madre",
+                "v-grande"
+              ]
+            },
+            {
+              "id": "s01e05-3-006",
+              "it": "In Ohio ci sono anche i **fratelli** della **madre**. Due **zii**.",
+              "en": "In Ohio there are also my **mother's** **brothers**. Two **uncles**.",
+              "focus": [
+                "v-fratello",
+                "v-madre",
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-3-007",
+              "it": "Ben conta ancora con le dita e guarda il quaderno.",
+              "en": "Ben counts on his fingers again and looks at the notebook."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-3-008",
+              "it": "Quanti siamo? Mah. Molti.",
+              "en": "How many are we? Mah. Lots."
+            },
+            {
+              "id": "s01e05-3-009",
+              "it": "Al **pranzo** della domenica io **parlo** poco.",
+              "en": "At Sunday **lunch** I **talk** little.",
+              "focus": [
+                "v-pranzo",
+                "v-parlare"
+              ]
+            },
+            {
+              "id": "s01e05-3-010",
+              "it": "Quando non capito... no, quando non capisco... io dico: \"**Ho fame**\".",
+              "en": "When I don't understand... no, when I don't understand... I say: \"**I'm hungry**\".",
+              "focus": [
+                "v-avere-fame"
+              ]
+            },
+            {
+              "id": "s01e05-3-011",
+              "it": "È una buona strategia? Boh.",
+              "en": "Is that a good strategy? Who knows."
+            },
+            {
+              "id": "s01e05-3-012",
+              "it": "Con due bicchieri di **vino** io **parlo** italiano molto bene.",
+              "en": "With two glasses of **wine** I **speak** Italian very well.",
+              "focus": [
+                "v-vino",
+                "v-parlare"
+              ]
+            },
+            {
+              "id": "s01e05-3-013",
+              "it": "Con tre bicchieri di **vino**, no.",
+              "en": "With three glasses of **wine**, no.",
+              "focus": [
+                "v-vino"
+              ]
+            },
+            {
+              "id": "s01e05-3-014",
+              "it": "Però io **ho fame** sempre. Quindi la strategia è perfetta!",
+              "en": "But **I'm always hungry**. So the strategy is perfect!",
+              "focus": [
+                "v-avere-fame"
+              ]
+            },
+            {
+              "id": "s01e05-3-015",
+              "it": "...Forse.",
+              "en": "...Maybe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "location": "casa-franco",
+      "characters": [
+        "franco",
+        "ben",
+        "chiara",
+        "leo",
+        "emma",
+        "matteo",
+        "nadia"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-001",
+              "it": "La pasta è sulla **tavola**. Tutti **mangiano**. Franco guarda Ben.",
+              "en": "The pasta is on the **table**. Everyone is **eating**. Franco looks at Ben.",
+              "focus": [
+                "v-tavola",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-002",
+              "it": "Allora. La **famiglia**. Tu **hai** nonni?",
+              "en": "Right. Your **family**. Do **you have** grandparents?",
+              "focus": [
+                "v-famiglia",
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-003",
+              "it": "Sì. **Ho** due nonni.",
+              "en": "Yes. **I have** two grandparents.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-004",
+              "it": "Due **nonni**? Dove?",
+              "en": "Two **grandparents**? Where?",
+              "focus": [
+                "v-nonno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-005",
+              "it": "In America. In Ohio.",
+              "en": "In America. In Ohio."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-006",
+              "it": "Nome?",
+              "en": "Names?"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-007",
+              "it": "Il **nonno** si chiama George. La **nonna** si chiama Mary.",
+              "en": "My **grandfather** is called George. My **grandmother** is called Mary.",
+              "focus": [
+                "v-nonno",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-008",
+              "it": "Franco mette più pasta nel piatto di Ben.",
+              "en": "Franco puts more pasta on Ben's plate."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-009",
+              "it": "**Mangia**. E la **nonna** di Emma e Leo?",
+              "en": "**Eat**. And Emma and Leo's **grandmother**?",
+              "focus": [
+                "v-mangiare",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-010",
+              "it": "Silenzio. Chiara mette giù la forchetta.",
+              "en": "Silence. Chiara puts down her fork."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-011",
+              "it": "Papà...",
+              "en": "Dad..."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-012",
+              "it": "Si chiama Anna. La **nonna** Anna.",
+              "en": "Her name is Anna. **Grandmother** Anna.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-013",
+              "it": "C'è una foto sul muro. Una donna con un sorriso **grande**.",
+              "en": "There's a photo on the wall. A woman with a **big** smile.",
+              "focus": [
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-014",
+              "it": "La **nonna** Anna è la **madre** di Chiara e Matteo.",
+              "en": "**Grandmother** Anna is the **mother** of Chiara and Matteo.",
+              "focus": [
+                "v-nonna",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-4-015",
+              "it": "Sì. La **nonna** Anna è la **madre** di mamma.",
+              "en": "Yes. **Grandmother** Anna is mum's **mother**.",
+              "focus": [
+                "v-nonna",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-016",
+              "it": "Bravo, Emma. Tu **parli** bene.",
+              "en": "Good, Emma. You **speak** well.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-017",
+              "it": "Leo alza la mano, come a scuola.",
+              "en": "Leo raises his hand, like at school."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-018",
+              "it": "E la **nonna** Anna è mia **nonna**?",
+              "en": "And is **grandmother** Anna my **grandmother**?",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-019",
+              "it": "Sì. La **nonna** Anna è la tua **nonna**.",
+              "en": "Yes. **Grandmother** Anna is your **grandmother**.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-020",
+              "it": "Ma io non la vedo.",
+              "en": "But I don't see her."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-021",
+              "it": "Leo, la **nonna** Anna non c'è più.",
+              "en": "Leo, **grandmother** Anna isn't here any more.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-022",
+              "it": "Ah. Allora la **nonna** è una foto.",
+              "en": "Ah. So **grandmother** is a photo.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ],
+          "style": "piano"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-023",
+              "it": "Franco guarda Leo e annuisce piano.",
+              "en": "Franco looks at Leo and nods slowly."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-024",
+              "it": "Sì. E la foto **mangia** con noi. Ogni **domenica**.",
+              "en": "Yes. And the photo **eats** with us. Every **Sunday**.",
+              "focus": [
+                "v-mangiare",
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-025",
+              "it": "Nadia prende il **vino** e riempie i bicchieri.",
+              "en": "Nadia takes the **wine** and fills the glasses.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-026",
+              "it": "Franco, ancora **vino**?",
+              "en": "Franco, more **wine**?",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-027",
+              "it": "Sì. Il **vino** è **grande**.",
+              "en": "Yes. The **wine** is **great**.",
+              "focus": [
+                "v-vino",
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-028",
+              "it": "Ben beve il **vino** e diventa rosso in faccia.",
+              "en": "Ben drinks the **wine** and goes red in the face.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-029",
+              "it": "Il **vino** è forte. Molto forte.",
+              "en": "The **wine** is strong. Very strong.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-030",
+              "it": "Ben, bevi anche l'**acqua**.",
+              "en": "Ben, drink some **water** too.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-031",
+              "it": "Sì. **Ho sete**.",
+              "en": "Yes. **I'm thirsty**.",
+              "focus": [
+                "v-avere-sete"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-032",
+              "it": "Emma versa l'**acqua** nel bicchiere di Ben e sorride.",
+              "en": "Emma pours the **water** into Ben's glass and smiles.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-4-033",
+              "it": "Papà, bevi.",
+              "en": "Dad, drink."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-034",
+              "it": "Allora. Quanti anni **ha** la **nonna** Mary?",
+              "en": "Right. How old **is** **grandmother** Mary?",
+              "focus": [
+                "g-avere",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-035",
+              "it": "Mah... non lo so.",
+              "en": "Mah... I don't know."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-036",
+              "it": "Come, non lo sai? È tua **nonna**!",
+              "en": "What, you don't know? She's your **grandmother**!",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-037",
+              "it": "Sì. Ma io non chiedo l'età a una signora.",
+              "en": "Yes. But I don't ask a lady her age."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-038",
+              "it": "Silenzio alla **tavola**. Poi Franco ride. Ride forte.",
+              "en": "Silence at the **table**. Then Franco laughs. He laughs loudly.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-039",
+              "it": "<laugh> Bravo! Bravo, americano!",
+              "en": "Good! Good, American!"
+            }
+          ],
+          "style": "ridendo"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-040",
+              "it": "È la prima volta. Franco ride. La **famiglia** guarda Franco.",
+              "en": "It's the first time. Franco laughs. The **family** watches Franco.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-041",
+              "it": "Papà ride! Papà ride!",
+              "en": "Dad's laughing! Dad's laughing!"
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-042",
+              "it": "Papà, ti prego.",
+              "en": "Dad, please."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-043",
+              "it": "La **nonna** Mary è una signora. L'americano **ha ragione**.",
+              "en": "**Grandmother** Mary is a lady. The American **is right**.",
+              "focus": [
+                "v-nonna",
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-044",
+              "it": "**Ho ragione**!",
+              "en": "**I'm right**!",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ],
+          "style": "orgoglioso"
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-045",
+              "it": "Sì, Ben. **Hai ragione**.",
+              "en": "Yes, Ben. **You're right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-046",
+              "it": "Chiara guarda Ben e ride anche lei, un po'.",
+              "en": "Chiara looks at Ben and she laughs too, a little."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-047",
+              "it": "Allora, Ben. Quanti anni **ha** tua **madre**?",
+              "en": "So, Ben. How old **is** your **mother**?",
+              "focus": [
+                "g-avere",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-048",
+              "it": "No. No, no. Non chiedo l'età a una signora.",
+              "en": "No. No, no. I don't ask a lady her age."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-049",
+              "it": "<laugh> Ah! Basta così!",
+              "en": "Ah! That's enough!"
+            }
+          ],
+          "style": "ridendo"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-050",
+              "it": "Franco prende il pane e lo dà a Ben.",
+              "en": "Franco takes the bread and gives it to Ben."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-051",
+              "it": "**Mangia**. Tu sei un uomo **grande**.",
+              "en": "**Eat**. You're a **great** man.",
+              "focus": [
+                "v-mangiare",
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-052",
+              "it": "Leo guarda Nadia e poi guarda Franco.",
+              "en": "Leo looks at Nadia and then looks at Franco."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-053",
+              "it": "Nonno, Nadia è la **zia**?",
+              "en": "Grandad, is Nadia the **aunt**?",
+              "focus": [
+                "v-zia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-054",
+              "it": "Nadia smette di **mangiare** e guarda Matteo.",
+              "en": "Nadia stops **eating** and looks at Matteo.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-055",
+              "it": "Ah. Bella domanda.",
+              "en": "Ah. Good question."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-056",
+              "it": "Sì! Nadia è la **zia**!",
+              "en": "Yes! Nadia is the **aunt**!",
+              "focus": [
+                "v-zia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-057",
+              "it": "Mah. Nadia non è la **zia**.",
+              "en": "Mah. Nadia isn't the **aunt**.",
+              "focus": [
+                "v-zia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-058",
+              "it": "Papà!",
+              "en": "Dad!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-059",
+              "it": "La **zia** è la **sorella** di tuo **padre** o di tua **madre**. Nadia non è la **sorella** di nessuno.",
+              "en": "An **aunt** is your **father's** **sister** or your **mother's** **sister**. Nadia isn't anybody's **sister**.",
+              "focus": [
+                "v-zia",
+                "v-sorella",
+                "v-padre",
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-060",
+              "it": "Allora Nadia è... niente?",
+              "en": "So Nadia is... nothing?"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-061",
+              "it": "Grazie, Leo. Molto gentile.",
+              "en": "Thanks, Leo. Very kind."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-062",
+              "it": "Leo, Nadia è la **zia** di... un giorno.",
+              "en": "Leo, Nadia is the **aunt** of... one day.",
+              "focus": [
+                "v-zia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-063",
+              "it": "Chiara!",
+              "en": "Chiara!"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-064",
+              "it": "Nadia diventa rossa. Matteo sorride e prende il pane.",
+              "en": "Nadia goes red. Matteo smiles and takes the bread."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-065",
+              "it": "Palla al centro.",
+              "en": "Back to the centre."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-066",
+              "it": "Leo conta di nuovo con le dita, sotto la **tavola**.",
+              "en": "Leo counts again on his fingers, under the **table**.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-067",
+              "it": "Il nonno ha i **nipoti**?",
+              "en": "Does grandad have **grandchildren**?",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-068",
+              "it": "Sì. Emma e Leo sono i miei **nipoti**. Due **nipoti**.",
+              "en": "Yes. Emma and Leo are my **grandchildren**. Two **grandchildren**.",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-069",
+              "it": "E io sono il **nipote** del nonno!",
+              "en": "And I'm grandad's **grandchild**!",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-070",
+              "it": "Sì. Bravo.",
+              "en": "Yes. Good."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-071",
+              "it": "E Leo è il **figlio** di Chiara.",
+              "en": "And Leo is Chiara's **son**.",
+              "focus": [
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-072",
+              "it": "Sì. Il **figlio**. Non il **nipote**.",
+              "en": "Yes. The **son**. Not the **grandson**.",
+              "focus": [
+                "v-figlio",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-073",
+              "it": "Il **figlio** è di papà e mamma. Il **nipote** è del nonno.",
+              "en": "The **son** belongs to dad and mum. The **grandson** belongs to grandad.",
+              "focus": [
+                "v-figlio",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-074",
+              "it": "Esatto. I **figli** sono Chiara e Matteo. I **nipoti** sono Emma e Leo.",
+              "en": "Exactly. The **children** are Chiara and Matteo. The **grandchildren** are Emma and Leo.",
+              "focus": [
+                "v-figlio",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-075",
+              "it": "Papà, io sono un **figlio** e anche uno **zio**.",
+              "en": "Dad, I'm a **son** and also an **uncle**.",
+              "focus": [
+                "v-figlio",
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-076",
+              "it": "Uno **zio**? Tu?",
+              "en": "An **uncle**? You?",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-077",
+              "it": "Sì! Leo, io sono tuo **zio**!",
+              "en": "Yes! Leo, I'm your **uncle**!",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-078",
+              "it": "Sì! Lo **zio** Matteo!",
+              "en": "Yes! Uncle Matteo!",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-079",
+              "it": "Va bene. Lo **zio** Matteo. E lo **zio** di Emma e Leo è anche...",
+              "en": "All right. Uncle Matteo. And Emma and Leo's **uncle** is also...",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-4-080",
+              "it": "Il **fratello** di mamma.",
+              "en": "Mum's **brother**.",
+              "focus": [
+                "v-fratello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-081",
+              "it": "Sì. Lo **zio** è il **fratello** della **madre** o del **padre**.",
+              "en": "Yes. An **uncle** is the **brother** of the **mother** or the **father**.",
+              "focus": [
+                "v-zio",
+                "v-fratello",
+                "v-madre",
+                "v-padre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-082",
+              "it": "Quindi io sono lo **zio** di... nessuno.",
+              "en": "So I'm the **uncle** of... nobody.",
+              "focus": [
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-083",
+              "it": "Ben, tu sei il **padre**. È meglio.",
+              "en": "Ben, you're the **father**. That's better.",
+              "focus": [
+                "v-padre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-084",
+              "it": "Sì. Il **padre**. Mi piace.",
+              "en": "Yes. The **father**. I like it.",
+              "focus": [
+                "v-padre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-085",
+              "it": "Leo prende il quaderno di Ben e scrive una parola.",
+              "en": "Leo takes Ben's notebook and writes a word."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-086",
+              "it": "**Zio**. **Zia**. **Nipote**. **Figlio**.",
+              "en": "**Uncle**. **Aunt**. **Grandchild**. **Son**.",
+              "focus": [
+                "v-zio",
+                "v-zia",
+                "v-nipote",
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-087",
+              "it": "Bravo, Leo. Tu **parli** italiano e scrivi anche.",
+              "en": "Good, Leo. You **speak** Italian and you write too.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-088",
+              "it": "Sì. Io **parlo** come il nonno.",
+              "en": "Yes. I **speak** like grandad.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-089",
+              "it": "Mah. Il **nonno** **parla** poco.",
+              "en": "Mah. The **grandfather** **speaks** little.",
+              "focus": [
+                "v-nonno",
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-090",
+              "it": "Franco prende il secondo piatto dalla cucina. Arrosto e patate.",
+              "en": "Franco takes the second course from the kitchen. Roast and potatoes."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-091",
+              "it": "Papà, e la **partita**?",
+              "en": "Dad, and the **match**?",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-092",
+              "it": "La **partita** è alle tre.",
+              "en": "The **match** is at three.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-093",
+              "it": "Alle tre. Milan-Inter.",
+              "en": "At three. Milan-Inter."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-094",
+              "it": "Milan. La **squadra** del cuore.",
+              "en": "Milan. The **team** of the heart.",
+              "focus": [
+                "v-squadra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-095",
+              "it": "Papà, l'Inter è la **squadra** migliore d'Italia.",
+              "en": "Dad, Inter is the best **team** in Italy.",
+              "focus": [
+                "v-squadra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-096",
+              "it": "Mah. No.",
+              "en": "Mah. No."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-097",
+              "it": "Franco mette l'arrosto nel piatto di Matteo senza guardarlo.",
+              "en": "Franco puts roast on Matteo's plate without looking at him."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-098",
+              "it": "Papà, il Milan **ha** una **squadra** vecchia.",
+              "en": "Dad, Milan **has** an old **team**.",
+              "focus": [
+                "g-avere",
+                "v-squadra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-099",
+              "it": "Vecchia? Vecchia? Il Milan **ha** sette **partite** vinte.",
+              "en": "Old? Old? Milan **has** seven **matches** won.",
+              "focus": [
+                "g-avere",
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-100",
+              "it": "Sette? No, papà. Tre. Tre **partite**.",
+              "en": "Seven? No, dad. Three. Three **matches**.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-101",
+              "it": "Io **ho ragione**.",
+              "en": "**I'm right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-102",
+              "it": "No, papà. **Ho ragione** io!",
+              "en": "No, dad. **I'm right**!",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-103",
+              "it": "Nadia mette giù il bicchiere con forza sulla **tavola**.",
+              "en": "Nadia puts her glass down hard on the **table**.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-104",
+              "it": "Basta! La **partita** è alle tre. Adesso **mangiamo**.",
+              "en": "Enough! The **match** is at three. Now let's **eat**.",
+              "focus": [
+                "v-partita",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-105",
+              "it": "Nadia **ha ragione**.",
+              "en": "Nadia **is right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-106",
+              "it": "Nadia **ha** sempre **ragione**.",
+              "en": "Nadia **is** always **right**.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-107",
+              "it": "Sì. E adesso **mangiate**.",
+              "en": "Yes. And now **eat**.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-108",
+              "it": "Emma sorride e **mangia** le patate, piano.",
+              "en": "Emma smiles and **eats** her potatoes, slowly.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-4-109",
+              "it": "Nonno, tu **hai paura** di Nadia?",
+              "en": "Grandad, **are you afraid** of Nadia?",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-110",
+              "it": "Io? No. Io **ho paura** di nessuno.",
+              "en": "Me? No. **I'm afraid** of nobody.",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-111",
+              "it": "Nadia guarda Franco. Franco guarda il piatto.",
+              "en": "Nadia looks at Franco. Franco looks at his plate."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-112",
+              "it": "...Va bene. Un po'.",
+              "en": "...All right. A little."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-113",
+              "it": "Tutti ridono. Anche Franco.",
+              "en": "Everyone laughs. Franco too."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-114",
+              "it": "Io **ho paura** del buio.",
+              "en": "**I'm afraid** of the dark.",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-115",
+              "it": "Leo, non è vero.",
+              "en": "Leo, that's not true."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-116",
+              "it": "Sì, è vero. Un po'.",
+              "en": "Yes, it's true. A little."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-117",
+              "it": "Anch'io **ho paura** del buio.",
+              "en": "**I'm afraid** of the dark too.",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-118",
+              "it": "Ben!",
+              "en": "Ben!"
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-119",
+              "it": "È una battuta.",
+              "en": "It's a joke."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-120",
+              "it": "Leo beve l'**acqua** e poi guarda Ben.",
+              "en": "Leo drinks his **water** and then looks at Ben.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-121",
+              "it": "Papà, **hai fame** ancora?",
+              "en": "Dad, **are you hungry** still?",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-122",
+              "it": "Sì. **Ho fame**. Ancora.",
+              "en": "Yes. **I'm hungry**. Still.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-123",
+              "it": "**Ho fame** anch'io!",
+              "en": "**I'm hungry** too!",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-124",
+              "it": "Bravo. **Mangiate**.",
+              "en": "Good. **Eat**.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-125",
+              "it": "Franco prende il **vino** e riempie il bicchiere di Ben un'altra volta.",
+              "en": "Franco takes the **wine** and fills Ben's glass again.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-126",
+              "it": "Bevi. E poi **parli**.",
+              "en": "Drink. And then **talk**.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-127",
+              "it": "Io **parlo** bene con il **vino**.",
+              "en": "I **speak** well with **wine**.",
+              "focus": [
+                "v-parlare",
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-128",
+              "it": "No, Ben. Tu **parli** strano con il **vino**.",
+              "en": "No, Ben. You **speak** strangely with **wine**.",
+              "focus": [
+                "g-avere",
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-129",
+              "it": "**Parlo** italiano! Con il **vino** è facile!",
+              "en": "I **speak** Italian! With **wine** it's easy!",
+              "focus": [
+                "v-parlare",
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-4-130",
+              "it": "Papà, è italiano... tipo, italiano americano.",
+              "en": "Dad, it's Italian... like, American Italian."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-131",
+              "it": "Emma guarda il padre e ride piano.",
+              "en": "Emma looks at her father and laughs quietly."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-132",
+              "it": "Emma, non ridere. Io **parlo** bene!",
+              "en": "Emma, don't laugh. I **speak** well!",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-133",
+              "it": "Franco ascolta e non dice niente. Ma sorride.",
+              "en": "Franco listens and says nothing. But he smiles."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-134",
+              "it": "Papà, la **partita**. Il Milan perde.",
+              "en": "Dad, the **match**. Milan loses.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-135",
+              "it": "Il Milan non perde. Il Milan vince. **Ho ragione** io.",
+              "en": "Milan doesn't lose. Milan wins. **I'm right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-136",
+              "it": "Papà, io capisco di calcio. **Ho ragione** io.",
+              "en": "Dad, I understand football. **I'm right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-137",
+              "it": "Tu capisci di calcio? Tu capisci di caffè.",
+              "en": "You understand football? You understand coffee."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-138",
+              "it": "Il caffè e il calcio sono la mia vita!",
+              "en": "Coffee and football are my life!"
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-139",
+              "it": "La tua vita è il bar, Matteo.",
+              "en": "Your life is the bar, Matteo."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-140",
+              "it": "Sì. Anche il bar.",
+              "en": "Yes. The bar too."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-141",
+              "it": "Leo guarda Franco. Poi guarda Matteo. Poi guarda la **tavola**.",
+              "en": "Leo looks at Franco. Then at Matteo. Then at the **table**.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-142",
+              "it": "Nonno, tu e lo **zio** Matteo siete **fratelli**?",
+              "en": "Grandad, are you and uncle Matteo **brothers**?",
+              "focus": [
+                "v-zio",
+                "v-fratello"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-143",
+              "it": "No. Lui è mio **figlio**.",
+              "en": "No. He's my **son**.",
+              "focus": [
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-144",
+              "it": "Ah! Lo **zio** Matteo è il **figlio** del nonno!",
+              "en": "Ah! Uncle Matteo is grandad's **son**!",
+              "focus": [
+                "v-zio",
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-145",
+              "it": "Sì. Bravo, Leo.",
+              "en": "Yes. Good, Leo."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-146",
+              "it": "E il nonno è il **padre** dello **zio** Matteo.",
+              "en": "And grandad is uncle Matteo's **father**.",
+              "focus": [
+                "v-padre",
+                "v-zio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-147",
+              "it": "Esatto.",
+              "en": "Exactly."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-148",
+              "it": "Leo è contento. Scrive un'altra parola nel quaderno.",
+              "en": "Leo is happy. He writes another word in the notebook."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-149",
+              "it": "Leo, tu capisci la **famiglia** meglio di me.",
+              "en": "Leo, you understand the **family** better than me.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-150",
+              "it": "Sì. Io **parlo** con il nonno.",
+              "en": "Yes. I **speak** with grandad.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-151",
+              "it": "Il nonno **parla** con te?",
+              "en": "Grandad **speaks** with you?",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-152",
+              "it": "Sì. Poco, ma **parla**.",
+              "en": "Yes. A little, but he **speaks**.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-153",
+              "it": "Franco sente e guarda Ben per un momento.",
+              "en": "Franco hears and looks at Ben for a moment."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-154",
+              "it": "L'americano **parla** troppo. Ma **mangia** bene.",
+              "en": "The American **talks** too much. But he **eats** well.",
+              "focus": [
+                "v-parlare",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-155",
+              "it": "Papà!",
+              "en": "Dad!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-156",
+              "it": "È un complimento.",
+              "en": "It's a compliment."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-157",
+              "it": "Nadia prende i piatti vuoti e li mette vicino al lavandino.",
+              "en": "Nadia takes the empty plates and puts them by the sink."
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-4-158",
+              "it": "E adesso? Frutta? Dolce?",
+              "en": "And now? Fruit? Dessert?"
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-159",
+              "it": "Dolce! Papà, c'è il tiramisù?",
+              "en": "Dessert! Dad, is there tiramisù?"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-160",
+              "it": "Franco non risponde. Guarda la foto della **madre** sul muro.",
+              "en": "Franco doesn't answer. He looks at the photo of the **mother** on the wall.",
+              "focus": [
+                "v-madre"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-161",
+              "it": "Il tiramisù è della **nonna** Anna. La ricetta è della **nonna** Anna.",
+              "en": "The tiramisù is **grandmother** Anna's. The recipe is **grandmother** Anna's.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-4-162",
+              "it": "Lo so, papà.",
+              "en": "I know, dad."
+            }
+          ],
+          "style": "piano"
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-163",
+              "it": "Oggi c'è il tiramisù.",
+              "en": "Today there is tiramisù."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-164",
+              "it": "Nessuno **parla** per un momento. Poi Leo alza la mano.",
+              "en": "Nobody **speaks** for a moment. Then Leo raises his hand.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-165",
+              "it": "Io **ho fame** di tiramisù!",
+              "en": "**I'm hungry** for tiramisù!",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-166",
+              "it": "Franco ride di nuovo.",
+              "en": "Franco laughs again."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-167",
+              "it": "Bravo! **Mangia**!",
+              "en": "Good! **Eat**!",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-168",
+              "it": "Emma prende l'**acqua** e riempie il bicchiere di Leo.",
+              "en": "Emma takes the **water** and fills Leo's glass.",
+              "focus": [
+                "v-acqua"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-4-169",
+              "it": "Leo, tu **hai sete** sempre.",
+              "en": "Leo, **you're thirsty** all the time.",
+              "focus": [
+                "v-avere-sete"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-4-170",
+              "it": "Sì. Io **ho sete** e **ho fame**. Tutto insieme.",
+              "en": "Yes. **I'm thirsty** and **I'm hungry**. All at once.",
+              "focus": [
+                "v-avere-sete",
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-171",
+              "it": "Come me, Leo. Come me.",
+              "en": "Like me, Leo. Like me."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-172",
+              "it": "Ben alza il bicchiere di **vino** come per un brindisi.",
+              "en": "Ben raises his **wine** glass as if for a toast.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-173",
+              "it": "Alla **famiglia**!",
+              "en": "To the **family**!",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-174",
+              "it": "Il **vino** no. Il **vino** è di Dio.",
+              "en": "The **wine** no. The **wine** is God's.",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ],
+          "style": "severo"
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-4-175",
+              "it": "Ah. Scusa.",
+              "en": "Ah. Sorry."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-176",
+              "it": "Ben mette giù il bicchiere subito. Matteo ride.",
+              "en": "Ben puts the glass down at once. Matteo laughs."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-177",
+              "it": "Papà, il **vino** è di Dio e il Milan è di Dio?",
+              "en": "Dad, is **wine** God's and Milan God's?",
+              "focus": [
+                "v-vino"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-178",
+              "it": "Mah. Il Milan è il Milan.",
+              "en": "Mah. Milan is Milan."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-179",
+              "it": "Franco si alza e va in cucina. Torna con il tiramisù.",
+              "en": "Franco gets up and goes into the kitchen. He comes back with the tiramisù."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-180",
+              "it": "La **tavola** è pronta. E il dolce è della **nonna**.",
+              "en": "The **table** is ready. And the dessert is **grandmother**'s.",
+              "focus": [
+                "v-tavola",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-181",
+              "it": "Franco mette il dolce sulla **tavola**, in mezzo ai bicchieri.",
+              "en": "Franco puts the dessert on the **table**, among the glasses.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-182",
+              "it": "La **famiglia** è tutto.",
+              "en": "The **family** is everything.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-183",
+              "it": "Matteo prende il cucchiaio e guarda la televisione.",
+              "en": "Matteo takes the spoon and looks at the television."
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-184",
+              "it": "Papà, la **partita**!",
+              "en": "Dad, the **match**!",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-185",
+              "it": "La **partita** dopo il dolce. La **famiglia** prima.",
+              "en": "The **match** after dessert. The **family** first.",
+              "focus": [
+                "v-partita",
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-4-186",
+              "it": "Va bene, va bene. Ma la mia **squadra** vince. **Ho ragione** io.",
+              "en": "All right, all right. But my **team** wins. **I'm right**.",
+              "focus": [
+                "v-squadra",
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-4-187",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-4-188",
+              "it": "E tutti **mangiano** il tiramisù della **nonna** Anna.",
+              "en": "And everyone **eats** **grandmother** Anna's tiramisù.",
+              "focus": [
+                "v-mangiare",
+                "v-nonna"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "domenica, a tavola"
+    },
+    {
+      "n": 5,
+      "location": "confessionale",
+      "characters": [
+        "leo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-5-001",
+              "it": "Leo è seduto su una sedia alta, con le gambe che non toccano terra.",
+              "en": "Leo is sitting on a tall chair, with his legs not touching the ground."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-5-002",
+              "it": "Allora. La mia **famiglia**. Come a scuola.",
+              "en": "Right. My **family**. Like at school.",
+              "focus": [
+                "v-famiglia"
+              ]
+            },
+            {
+              "id": "s01e05-5-003",
+              "it": "Una **madre**. Si chiama Chiara.",
+              "en": "One **mother**. Her name is Chiara.",
+              "focus": [
+                "v-madre"
+              ]
+            },
+            {
+              "id": "s01e05-5-004",
+              "it": "Un **padre**. Si chiama Ben.",
+              "en": "One **father**. His name is Ben.",
+              "focus": [
+                "v-padre"
+              ]
+            },
+            {
+              "id": "s01e05-5-005",
+              "it": "Una **sorella**. Si chiama Emma.",
+              "en": "One **sister**. Her name is Emma.",
+              "focus": [
+                "v-sorella"
+              ]
+            },
+            {
+              "id": "s01e05-5-006",
+              "it": "Un **nonno**. In Italia. Si chiama Franco.",
+              "en": "One **grandfather**. In Italy. His name is Franco.",
+              "focus": [
+                "v-nonno"
+              ]
+            },
+            {
+              "id": "s01e05-5-007",
+              "it": "Una **nonna**. In America. Si chiama Mary.",
+              "en": "One **grandmother**. In America. Her name is Mary.",
+              "focus": [
+                "v-nonna"
+              ]
+            },
+            {
+              "id": "s01e05-5-008",
+              "it": "E una **nonna** Anna. Ma è una foto.",
+              "en": "And one **grandmother** Anna. But she's a photo.",
+              "focus": [
+                "v-nonna"
+              ]
+            },
+            {
+              "id": "s01e05-5-009",
+              "it": "Un **zio**. Si chiama Matteo. Lui **ha** un bar.",
+              "en": "One **uncle**. His name is Matteo. **He has** a bar.",
+              "focus": [
+                "v-zio",
+                "g-avere"
+              ]
+            },
+            {
+              "id": "s01e05-5-010",
+              "it": "Il **figlio** del nonno è lo **zio**. Il **nipote** del nonno sono io.",
+              "en": "The grandad's **son** is the **uncle**. Grandad's **grandchild** is me.",
+              "focus": [
+                "v-figlio",
+                "v-zio",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-5-011",
+              "it": "Leo conta con le dita e poi guarda la telecamera.",
+              "en": "Leo counts on his fingers and then looks at the camera."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-5-012",
+              "it": "Il nonno **parla** poco. Ma cucina bene.",
+              "en": "Grandad **speaks** little. But he cooks well.",
+              "focus": [
+                "v-parlare"
+              ]
+            },
+            {
+              "id": "s01e05-5-013",
+              "it": "Io **parlo** molto. Come papà.",
+              "en": "I **speak** a lot. Like dad.",
+              "focus": [
+                "v-parlare"
+              ]
+            },
+            {
+              "id": "s01e05-5-014",
+              "it": "Papà **ha fame** sempre. Io **ho fame** sempre. Siamo uguali.",
+              "en": "Dad **is always hungry**. **I'm always hungry**. We're the same.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            },
+            {
+              "id": "s01e05-5-015",
+              "it": "La signora Ornella **parla** bene. Ma non **ha** **nipoti**. Zero **nipoti**.",
+              "en": "Signora Ornella **speaks** well. But **she has** no **grandchildren**. Zero **grandchildren**.",
+              "focus": [
+                "v-parlare",
+                "g-avere",
+                "v-nipote"
+              ]
+            },
+            {
+              "id": "s01e05-5-016",
+              "it": "Zero **nipoti** è strano. È un problema diverso.",
+              "en": "Zero **grandchildren** is weird. It's a different problem.",
+              "focus": [
+                "v-nipote"
+              ]
+            },
+            {
+              "id": "s01e05-5-017",
+              "it": "Ma io **ho** un'idea.",
+              "en": "But **I have** an idea.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "location": "casa-ornella",
+      "characters": [
+        "leo",
+        "ornella"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-001",
+              "it": "È **domenica** pomeriggio. Leo cammina fino al numero sedici.",
+              "en": "It's **Sunday** afternoon. Leo walks to number sixteen.",
+              "focus": [
+                "v-domenica"
+              ]
+            },
+            {
+              "id": "s01e05-6-002",
+              "it": "La porta di casa Ornella è aperta. Dentro c'è Pavarotti su una sedia.",
+              "en": "Ornella's door is open. Inside, Pavarotti is on a chair."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-003",
+              "it": "Signora Ornella! Buongiorno!",
+              "en": "Signora Ornella! Good afternoon!"
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-004",
+              "it": "Leo! Vieni, vieni.",
+              "en": "Leo! Come in, come in."
+            }
+          ],
+          "style": "dalla cucina"
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-005",
+              "it": "Leo entra e guarda Pavarotti. Il gatto dorme e non si muove.",
+              "en": "Leo comes in and looks at Pavarotti. The cat sleeps and doesn't move."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-006",
+              "it": "Il gatto dorme.",
+              "en": "The cat is sleeping."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-007",
+              "it": "Sì. Pavarotti **mangia** e dorme. Sempre.",
+              "en": "Yes. Pavarotti **eats** and sleeps. Always.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-008",
+              "it": "Ornella arriva dalla cucina con due bicchieri.",
+              "en": "Ornella comes from the kitchen with two glasses."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-009",
+              "it": "Siediti, Leo. **Hai sete**?",
+              "en": "Sit down, Leo. **Are you thirsty**?",
+              "focus": [
+                "v-avere-sete"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-010",
+              "it": "Sì, signora. **Ho sete**.",
+              "en": "Yes, signora. **I'm thirsty**.",
+              "focus": [
+                "v-avere-sete"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-011",
+              "it": "Bravo. Bevi.",
+              "en": "Good. Drink."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-012",
+              "it": "Leo si siede e beve. Poi guarda Ornella.",
+              "en": "Leo sits down and drinks. Then he looks at Ornella."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-013",
+              "it": "Signora Ornella, lei **ha** **figli**?",
+              "en": "Signora Ornella, do you **have children**?",
+              "focus": [
+                "g-avere",
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-014",
+              "it": "Sì. Un **figlio**. Si chiama Paolo.",
+              "en": "Yes. One **son**. His name is Paolo.",
+              "focus": [
+                "v-figlio"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-015",
+              "it": "Uno solo?",
+              "en": "Only one?"
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-016",
+              "it": "Uno solo.",
+              "en": "Only one."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-017",
+              "it": "Ornella mette giù il bicchiere e guarda la finestra.",
+              "en": "Ornella puts down her glass and looks at the window."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-018",
+              "it": "Paolo vive a Roma. Lavora a Roma.",
+              "en": "Paolo lives in Rome. He works in Rome."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-019",
+              "it": "E lui **parla** con lei?",
+              "en": "And does he **talk** with you?",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-020",
+              "it": "Sì. Al telefono. La **domenica**.",
+              "en": "Yes. On the phone. On **Sunday**.",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-021",
+              "it": "Leo pensa un momento. Poi fa un'altra domanda.",
+              "en": "Leo thinks for a moment. Then he asks another question."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-022",
+              "it": "E lei **ha** **nipoti**?",
+              "en": "And do you **have grandchildren**?",
+              "focus": [
+                "g-avere",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-023",
+              "it": "Ornella guarda Leo e sorride un po', ma non è un sorriso **grande**.",
+              "en": "Ornella looks at Leo and smiles a little, but it's not a **big** smile.",
+              "focus": [
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-024",
+              "it": "No, Leo. Non **ho** **nipoti**. Zero.",
+              "en": "No, Leo. **I have** no **grandchildren**. Zero.",
+              "focus": [
+                "g-avere",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-025",
+              "it": "Zero?",
+              "en": "Zero?"
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-026",
+              "it": "Zero. Paolo è solo. A Roma.",
+              "en": "Zero. Paolo is alone. In Rome."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-027",
+              "it": "Leo guarda Pavarotti sulla sedia e poi guarda Ornella.",
+              "en": "Leo looks at Pavarotti on the chair and then at Ornella."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-028",
+              "it": "Ma allora lei è sola qui.",
+              "en": "But then you're alone here."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-029",
+              "it": "Ho il gatto.",
+              "en": "I have the cat."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-030",
+              "it": "Il gatto non è una **famiglia**.",
+              "en": "A cat isn't a **family**.",
+              "focus": [
+                "v-famiglia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-031",
+              "it": "Ornella ride piano.",
+              "en": "Ornella laughs quietly."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-032",
+              "it": "Mah. Il gatto è meglio di niente.",
+              "en": "Mah. A cat is better than nothing."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-033",
+              "it": "Leo beve un po' e guarda il pavimento.",
+              "en": "Leo drinks a little and looks at the floor."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-034",
+              "it": "Signora, lei **ha paura**?",
+              "en": "Signora, **are you afraid**?",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-035",
+              "it": "**Paura**? Di che cosa?",
+              "en": "**Afraid**? Of what?",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-036",
+              "it": "Di stare sola. Io **ho paura** del buio.",
+              "en": "Of being alone. **I'm afraid** of the dark.",
+              "focus": [
+                "v-avere-paura"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-037",
+              "it": "Ornella non risponde subito. Guarda la strada dalla finestra.",
+              "en": "Ornella doesn't answer straight away. She looks at the street from the window."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-038",
+              "it": "Un po'. Sì. Un po'.",
+              "en": "A little. Yes. A little."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-039",
+              "it": "Leo annuisce. Ha un'aria molto seria, come un dottore.",
+              "en": "Leo nods. He looks very serious, like a doctor."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-040",
+              "it": "Allora **ho** un'idea.",
+              "en": "So **I have** an idea.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-041",
+              "it": "Un'idea?",
+              "en": "An idea?"
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-042",
+              "it": "Sì. Io **ho** un **nonno** in Italia. Si chiama Franco.",
+              "en": "Yes. **I have** a **grandfather** in Italy. His name is Franco.",
+              "focus": [
+                "g-avere",
+                "v-nonno"
+              ]
+            },
+            {
+              "id": "s01e05-6-043",
+              "it": "E **ho** una **nonna** in America. Ma è lontana.",
+              "en": "And **I have** a **grandmother** in America. But she's far away.",
+              "focus": [
+                "g-avere",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-044",
+              "it": "Sì. L'America è lontana.",
+              "en": "Yes. America is far away."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-045",
+              "it": "Lei non **ha** **nipoti** e io non **ho** una **nonna** qui.",
+              "en": "You **have** no **grandchildren** and **I have** no **grandmother** here.",
+              "focus": [
+                "g-avere",
+                "v-nipote",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-046",
+              "it": "Ornella guarda Leo e capisce. Ma vuole sentirlo dire.",
+              "en": "Ornella looks at Leo and understands. But she wants to hear him say it."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-047",
+              "it": "E allora?",
+              "en": "And so?"
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-048",
+              "it": "Allora io sono il suo **nipote**.",
+              "en": "So **I'm** your **grandchild**.",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-049",
+              "it": "Silenzio. Pavarotti apre un occhio e poi lo chiude.",
+              "en": "Silence. Pavarotti opens one eye and then closes it."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-050",
+              "it": "Tu? Il mio **nipote**?",
+              "en": "You? My **grandchild**?",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-051",
+              "it": "Sì. Il **nipote** della signora Ornella. Ma con **due** nonni, non uno.",
+              "en": "Yes. Signora Ornella's **grandchild**. But with **two** grandparents, not one.",
+              "focus": [
+                "v-nipote",
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-052",
+              "it": "Due **nonni**?",
+              "en": "Two **grandparents**?",
+              "focus": [
+                "v-nonno"
+              ]
+            }
+          ],
+          "style": "sorpresa"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-053",
+              "it": "Lei è la **nonna** Ornella. Il nonno Franco è il **nonno** Franco.",
+              "en": "You're **grandmother** Ornella. Grandad Franco is **grandad** Franco.",
+              "focus": [
+                "v-nonna",
+                "v-nonno"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-054",
+              "it": "Ornella mette la mano sulla **tavola** e ride. Ride forte, come una bambina.",
+              "en": "Ornella puts her hand on the **table** and laughs. She laughs loudly, like a child.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-055",
+              "it": "<laugh> Ah! Leo!",
+              "en": "Ah! Leo!"
+            }
+          ],
+          "style": "ridendo"
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-056",
+              "it": "Ma non **parlo** con lei come con il nonno Franco.",
+              "en": "But I don't **talk** with you like with grandad Franco.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-057",
+              "it": "No? Come **parli** con me?",
+              "en": "No? How do **you talk** with me?",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-058",
+              "it": "Con lui **parlo** in italiano semplice. Con lei **parlo** in... italiano bello.",
+              "en": "With him **I talk** in simple Italian. With you **I talk** in... beautiful Italian.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-059",
+              "it": "Italiano bello! <laugh> Bravo, Leo. Bravo!",
+              "en": "Beautiful Italian! Good, Leo. Good!"
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-060",
+              "it": "Ornella si alza e va in cucina. Torna con un piatto.",
+              "en": "Ornella gets up and goes into the kitchen. She comes back with a plate."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-061",
+              "it": "Allora. Un **nipote** **mangia** i biscotti della **nonna**.",
+              "en": "Right. A **grandchild** **eats** his **grandmother**'s biscuits.",
+              "focus": [
+                "v-nipote",
+                "v-mangiare",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-062",
+              "it": "Sul piatto ci sono biscotti rotondi, fatti in casa.",
+              "en": "On the plate there are round biscuits, home-made."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-063",
+              "it": "Sì! Io **ho fame**!",
+              "en": "Yes! **I'm hungry**!",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-064",
+              "it": "Ma c'è una condizione.",
+              "en": "But there's one condition."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-065",
+              "it": "Una condizione?",
+              "en": "One condition?"
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-066",
+              "it": "Sì. Il **nipote** **mangia** due biscotti. Non uno.",
+              "en": "Yes. The **grandchild** **eats** two biscuits. Not one.",
+              "focus": [
+                "v-nipote",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-067",
+              "it": "Due? Va bene.",
+              "en": "Two? All right."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-068",
+              "it": "E **parla** con la **nonna**. Ogni **domenica**.",
+              "en": "And **he talks** with his **grandmother**. Every **Sunday**.",
+              "focus": [
+                "v-parlare",
+                "v-nonna",
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-069",
+              "it": "Leo prende un biscotto e lo guarda.",
+              "en": "Leo takes a biscuit and looks at it."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-070",
+              "it": "Ogni **domenica**?",
+              "en": "Every **Sunday**?",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-071",
+              "it": "Ogni **domenica**. Come Paolo. Al telefono.",
+              "en": "Every **Sunday**. Like Paolo. On the phone.",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-072",
+              "it": "Ma io non **parlo** al telefono. Io **parlo** qui.",
+              "en": "But I don't **talk** on the phone. **I talk** here.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-073",
+              "it": "Ornella sorride. Questo sorriso è **grande**.",
+              "en": "Ornella smiles. This smile is **big**.",
+              "focus": [
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-074",
+              "it": "Meglio. Molto meglio.",
+              "en": "Better. Much better."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-075",
+              "it": "Leo **mangia** il primo biscotto. Poi il secondo.",
+              "en": "Leo **eats** the first biscuit. Then the second.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-076",
+              "it": "Signora Ornella, questi biscotti sono buoni!",
+              "en": "Signora Ornella, these biscuits are good!"
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-077",
+              "it": "**Mangia**, **nipote** mio.",
+              "en": "**Eat**, my **grandchild**.",
+              "focus": [
+                "v-mangiare",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-078",
+              "it": "Leo beve e **mangia** ancora. Poi guarda l'orologio del muro.",
+              "en": "Leo drinks and **eats** some more. Then he looks at the clock on the wall.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-079",
+              "it": "Devo andare. La **partita** è alle tre.",
+              "en": "I have to go. The **match** is at three.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-080",
+              "it": "La **partita**? Il calcio?",
+              "en": "The **match**? Football?",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-081",
+              "it": "Sì. Il nonno Franco e lo zio Matteo **parlano** di calcio. Sempre.",
+              "en": "Yes. Grandad Franco and uncle Matteo **talk** about football. Always.",
+              "focus": [
+                "v-parlare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-082",
+              "it": "Ah. Allora a **domenica** prossima.",
+              "en": "Ah. Then see you next **Sunday**.",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-6-083",
+              "it": "Sì. A **domenica** prossima, **nonna** Ornella.",
+              "en": "Yes. See you next **Sunday**, **grandmother** Ornella.",
+              "focus": [
+                "v-domenica",
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-084",
+              "it": "Ornella mette la mano sulla testa di Leo, piano.",
+              "en": "Ornella puts her hand on Leo's head, gently."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-085",
+              "it": "Bravo. E adesso vai. Il **nonno** Franco aspetta la **partita**.",
+              "en": "Good. And now go. **Grandad** Franco is waiting for the **match**.",
+              "focus": [
+                "v-nonno",
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-6-086",
+              "it": "Leo esce. Pavarotti apre di nuovo un occhio, poi dorme ancora.",
+              "en": "Leo goes out. Pavarotti opens one eye again, then sleeps again."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-6-087",
+              "it": "**Nipote** mio. Mah.",
+              "en": "**My grandchild**. Mah.",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ],
+          "style": "piano, al gatto"
+        }
+      ],
+      "time": "domenica pomeriggio"
+    },
+    {
+      "n": 7,
+      "location": "confessionale",
+      "characters": [
+        "ornella"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-7-001",
+              "it": "Ornella è seduta su una poltrona, con Pavarotti sulle ginocchia.",
+              "en": "Ornella is sitting in an armchair, with Pavarotti on her lap."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-7-002",
+              "it": "Io **parlo** poco di me. Non è educato.",
+              "en": "**I talk** little about myself. It isn't polite.",
+              "focus": [
+                "v-parlare"
+              ]
+            },
+            {
+              "id": "s01e05-7-003",
+              "it": "Ho un **figlio**. Si chiama Paolo. Vive a Roma.",
+              "en": "I have one **son**. His name is Paolo. He lives in Rome.",
+              "focus": [
+                "v-figlio"
+              ]
+            },
+            {
+              "id": "s01e05-7-004",
+              "it": "Lui **parla** con me la **domenica**. Al telefono. Cinque minuti.",
+              "en": "He **talks** with me on **Sunday**. On the phone. Five minutes.",
+              "focus": [
+                "v-parlare",
+                "v-domenica"
+              ]
+            },
+            {
+              "id": "s01e05-7-005",
+              "it": "**Nipoti**? No. Zero **nipoti**.",
+              "en": "**Grandchildren**? No. Zero **grandchildren**.",
+              "focus": [
+                "v-nipote"
+              ]
+            },
+            {
+              "id": "s01e05-7-006",
+              "it": "E le **domeniche** sono lunghe. Molto lunghe.",
+              "en": "And **Sundays** are long. Very long.",
+              "focus": [
+                "v-domenica"
+              ]
+            },
+            {
+              "id": "s01e05-7-007",
+              "it": "Poi arriva un bambino americano di otto anni.",
+              "en": "Then an eight-year-old American boy arrives."
+            },
+            {
+              "id": "s01e05-7-008",
+              "it": "**Parla** un italiano strano e dice che io sono sua **nonna**.",
+              "en": "**He speaks** strange Italian and says I'm his **grandmother**.",
+              "focus": [
+                "v-parlare",
+                "v-nonna"
+              ]
+            },
+            {
+              "id": "s01e05-7-009",
+              "it": "Lui **ha fame** sempre. Questo è vero.",
+              "en": "**He's always hungry**. That part is true.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            },
+            {
+              "id": "s01e05-7-010",
+              "it": "E adesso io **ho** un **nipote**.",
+              "en": "And now **I have** a **grandchild**.",
+              "focus": [
+                "g-avere",
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-7-011",
+              "it": "Ornella accarezza il gatto e guarda la telecamera.",
+              "en": "Ornella strokes the cat and looks at the camera."
+            }
+          ]
+        },
+        {
+          "speaker": "ornella",
+          "segments": [
+            {
+              "id": "s01e05-7-012",
+              "it": "Io non **parlo** di questo con la signora del numero undici.",
+              "en": "**I don't talk** about this with the lady at number eleven.",
+              "focus": [
+                "v-parlare"
+              ]
+            },
+            {
+              "id": "s01e05-7-013",
+              "it": "Non ancora.",
+              "en": "Not yet."
+            },
+            {
+              "id": "s01e05-7-014",
+              "it": "Ai miei tempi... <short pause> no. Ai miei tempi una **nonna** aspetta.",
+              "en": "In my day... no. In my day a **grandmother** waits.",
+              "focus": [
+                "v-nonna"
+              ]
+            },
+            {
+              "id": "s01e05-7-015",
+              "it": "Ma i biscotti sono pronti per **domenica**.",
+              "en": "But the biscuits are ready for **Sunday**.",
+              "focus": [
+                "v-domenica"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "location": "casa-franco",
+      "characters": [
+        "franco",
+        "ben",
+        "chiara",
+        "leo",
+        "emma",
+        "matteo"
+      ],
+      "turns": [
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-001",
+              "it": "Sono le tre e mezza. La **tavola** è ancora piena. La televisione è accesa.",
+              "en": "It's half past three. The **table** is still full. The television is on.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-002",
+              "it": "La **partita**! Adesso la **partita**!",
+              "en": "The **match**! Now the **match**!",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-8-003",
+              "it": "Papà, il Milan perde due a zero.",
+              "en": "Dad, Milan is losing two-nil."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-004",
+              "it": "Due a zero? No. **Ho ragione** io.",
+              "en": "Two-nil? No. **I'm right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-8-005",
+              "it": "Papà, la **squadra** gioca male. **Ho ragione** io.",
+              "en": "Dad, the **team** is playing badly. **I'm right**.",
+              "focus": [
+                "v-squadra",
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-006",
+              "it": "Ben si mette in mezzo, tra i due.",
+              "en": "Ben puts himself in the middle, between the two of them."
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-8-007",
+              "it": "Ragazzi! Il calcio è **grande**. La **squadra** è...",
+              "en": "Lads! Football is **great**. The **team** is...",
+              "focus": [
+                "v-grande",
+                "v-squadra"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-008",
+              "it": "Tu non **parli** di calcio.",
+              "en": "You don't **talk** about football.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-8-009",
+              "it": "Papà, **ha ragione** lui?",
+              "en": "Dad, **is he right**?",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-010",
+              "it": "No. Tu **hai ragione**. No, aspetta. Io **ho ragione**.",
+              "en": "No. **You're right**. No, wait. **I'm right**.",
+              "focus": [
+                "v-avere-ragione"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-011",
+              "it": "Chiara prende il telecomando e mette il volume basso.",
+              "en": "Chiara takes the remote and turns the volume down."
+            }
+          ]
+        },
+        {
+          "speaker": "chiara",
+          "segments": [
+            {
+              "id": "s01e05-8-012",
+              "it": "Basta calcio. **Parlate** di altro.",
+              "en": "Enough football. **Talk** about something else.",
+              "focus": [
+                "g-avere"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-013",
+              "it": "Leo entra dalla porta con le briciole sulla maglia.",
+              "en": "Leo comes in through the door with crumbs on his shirt."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-8-014",
+              "it": "Eccomi qua! E ho una **nonna** nuova!",
+              "en": "Here I am! And I have a new **grandmother**!",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-015",
+              "it": "Emma alza la testa dal telefono.",
+              "en": "Emma raises her head from her phone."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-8-016",
+              "it": "Una **nonna** nuova? Leo, non funziona così.",
+              "en": "A new **grandmother**? Leo, it doesn't work like that.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-8-017",
+              "it": "Sì, funziona. La signora Ornella è la **nonna** Ornella.",
+              "en": "Yes, it works. Signora Ornella is **grandmother** Ornella.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-018",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-8-019",
+              "it": "E io sono il suo **nipote**. Il **nipote** di Ornella.",
+              "en": "And **I'm** her **grandchild**. Ornella's **grandchild**.",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-020",
+              "it": "Franco guarda Leo, poi guarda la **partita**.",
+              "en": "Franco looks at Leo, then looks at the **match**.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-021",
+              "it": "Io ho una **nipote** vera. Emma.",
+              "en": "I have one real **granddaughter**. Emma.",
+              "focus": [
+                "v-nipote"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-022",
+              "it": "Emma sorride e mette giù il telefono.",
+              "en": "Emma smiles and puts her phone down."
+            }
+          ]
+        },
+        {
+          "speaker": "emma",
+          "segments": [
+            {
+              "id": "s01e05-8-023",
+              "it": "Grazie, nonno.",
+              "en": "Thanks, grandad."
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-8-024",
+              "it": "Ma anche la **nonna** Ornella **mangia** i biscotti con me.",
+              "en": "But **grandmother** Ornella **eats** biscuits with me too.",
+              "focus": [
+                "v-nonna",
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "matteo",
+          "segments": [
+            {
+              "id": "s01e05-8-025",
+              "it": "Leo, e la **zia** Nadia? Lei non è niente?",
+              "en": "Leo, and **aunt** Nadia? Is she nothing?",
+              "focus": [
+                "v-zia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "nadia",
+          "segments": [
+            {
+              "id": "s01e05-8-026",
+              "it": "Matteo, non importa. Sono la **zia** Nadia. Va bene.",
+              "en": "Matteo, it doesn't matter. I'm **aunt** Nadia. Fine.",
+              "focus": [
+                "v-zia"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-027",
+              "it": "Franco riempie l'ultimo bicchiere sulla **tavola**.",
+              "en": "Franco fills the last glass on the **table**.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-028",
+              "it": "La **famiglia** è **grande**. Otto a tavola.",
+              "en": "The **family** is **big**. Eight at the table.",
+              "focus": [
+                "v-famiglia",
+                "v-grande"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-8-029",
+              "it": "Otto? Ma qui siamo sette.",
+              "en": "Eight? But there are seven of us."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-030",
+              "it": "Otto. C'è il posto di Anna. E adesso c'è anche la **nonna** Ornella.",
+              "en": "Eight. There's Anna's place. And now there's **grandmother** Ornella too.",
+              "focus": [
+                "v-nonna"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-031",
+              "it": "Ben guarda il piatto di Anna sulla **tavola** e non dice niente.",
+              "en": "Ben looks at Anna's plate on the **table** and says nothing.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "ben",
+          "segments": [
+            {
+              "id": "s01e05-8-032",
+              "it": "Papà Franco, io **ho fame** ancora.",
+              "en": "Dad Franco, **I'm hungry** again.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-033",
+              "it": "Mah. L'americano **ha fame** sempre.",
+              "en": "Mah. The American **is always hungry**.",
+              "focus": [
+                "v-avere-fame"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-034",
+              "it": "Franco prende il pane e lo mette nel piatto di Ben.",
+              "en": "Franco takes the bread and puts it on Ben's plate."
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-035",
+              "it": "**Mangia**.",
+              "en": "**Eat**.",
+              "focus": [
+                "v-mangiare"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-036",
+              "it": "Leo conta sulla **tavola**, con le dita.",
+              "en": "Leo counts at the **table**, on his fingers.",
+              "focus": [
+                "v-tavola"
+              ]
+            }
+          ]
+        },
+        {
+          "speaker": "leo",
+          "segments": [
+            {
+              "id": "s01e05-8-037",
+              "it": "Uno, due, tre, quattro, cinque, sei, sette, otto. Otto!",
+              "en": "One, two, three, four, five, six, seven, eight. Eight!"
+            }
+          ]
+        },
+        {
+          "speaker": "franco",
+          "segments": [
+            {
+              "id": "s01e05-8-038",
+              "it": "Mah.",
+              "en": "Mah."
+            }
+          ]
+        },
+        {
+          "speaker": "narrator",
+          "segments": [
+            {
+              "id": "s01e05-8-039",
+              "it": "E la **partita** continua.",
+              "en": "And the **match** goes on.",
+              "focus": [
+                "v-partita"
+              ]
+            }
+          ]
+        }
+      ],
+      "time": "domenica pomeriggio"
+    }
+  ]
+}

@@ -50,6 +50,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Ben and Leo now know the piazza area; their map includes Bar Tigli though it is not in piazza. Chiara knows Marchetti's punctuality rule; Roberto has spoken to Ben/Leo about the Comitato cartello.
 - **Planted:** Ben copied the Comitato cartello's formal wording; map still lacks supermercato/stazione. Marchetti's "Essere in orario" and Project Isola remain open.
 
+### s01e05 · Quanti anni hai?
+- **Happened:** Sunday lunch at Franco's; Ben rote-learns family vocabulary and Franco asks everyone's ages. Franco laughs for the first time at Ben's "you don't ask a lady her age". Leo, lonely for a grandmother, walks to Ornella's and declares himself her adopted *nipote*; she accepts, with biscuits and a condition: he talks with *nonna* Ornella every Sunday.
+- **New facts:** Ben is 41; Franco is 71; Ben's siblings: two brothers and one sister, Susan; parents George and Mary in Ohio, two sets of grandparents there, one zio plus two zii. Franco keeps Anna's place set: the table counts eight, now including Ornella. Ornella: son Paolo, single, works and lives in Rome; no grandchildren; cat Pavarotti; homemade round biscuits; Leo will visit her Sundays at 15:00-ish. Matteo gave Bar Tigli bread to lunch.
+- **Changed:** Franco's first laugh with Ben; Chiara hints Nadia will one day be Leo's zia; Leo–Ornella bond formed; Ben confused *parenti* (relatives) with *genitori* before Chiara corrects him.
+- **Planted:** Nadia as future zia (Chiara's hint); Ornella's new *nipote*, kept from the neighbours; Leo's idea mentioned in confessional.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Ben receives a job offer email from Michael, his former Chicago boss of twelve years. He tells Chiara about it at dinner, then re-denies it when she asks again; he also told Ornella, who urged him to speak.
 - **New facts:** Michael = Ben's ex-boss (Chicago, 12 years). Nadia works in a Milan pharmacy and was offered a promotion (Dr. Ferrari leaving for Rome; answer due Friday). Anna is 14 months; Ben works shifts at Bar Tigli. The espresso machine breaks.

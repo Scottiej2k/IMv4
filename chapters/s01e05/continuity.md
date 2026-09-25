@@ -1,0 +1,5 @@
+### s01e05 · Quanti anni hai?
+- **Happened:** Sunday lunch at Franco's; Ben rote-learns family vocabulary and Franco asks everyone's ages. Franco laughs for the first time at Ben's "you don't ask a lady her age". Leo, lonely for a grandmother, walks to Ornella's and declares himself her adopted *nipote*; she accepts, with biscuits and a condition: he talks with *nonna* Ornella every Sunday.
+- **New facts:** Ben is 41; Franco is 71; Ben's siblings: two brothers and one sister, Susan; parents George and Mary in Ohio, two sets of grandparents there, one zio plus two zii. Franco keeps Anna's place set: the table counts eight, now including Ornella. Ornella: son Paolo, single, works and lives in Rome; no grandchildren; cat Pavarotti; homemade round biscuits; Leo will visit her Sundays at 15:00-ish. Matteo gave Bar Tigli bread to lunch.
+- **Changed:** Franco's first laugh with Ben; Chiara hints Nadia will one day be Leo's zia; Leo–Ornella bond formed; Ben confused *parenti* (relatives) with *genitori* before Chiara corrects him.
+- **Planted:** Nadia as future zia (Chiara's hint); Ornella's new *nipote*, kept from the neighbours; Leo's idea mentioned in confessional.
