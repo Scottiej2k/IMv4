@@ -123,9 +123,9 @@ def call_openrouter(model, effort, system, messages, reasoning_tokens=None):
     return choice["message"]["content"] or "", out.get("usage", {})
 
 
-# Scene asks as a multiple of the budget, for models that don't undershoot like Claude does.
-# DeepSeek wrote 15-20% over the target at 1.3x (pilots, 2026-09-25).
-ASK_FACTORS = {"deepseek/": 1.0}
+# Scene asks as a multiple of the budget, per level, for models that don't undershoot like Claude.
+# DeepSeek pilots (2026-09-25): 1.3x ran 15-20% over; 1.0x gave A1 6% under, B1 2.5% over.
+ASK_FACTORS = {"deepseek/": {"A1": 1.15, "A2": 1.1, "B1": 1.0, "B2": 1.0}}
 
 
 def cost(model, usage):
@@ -147,8 +147,8 @@ def main():
 
     pipe = Pipeline(args.chapter)
     pipe.start(force=args.force)
-    pipe.ask_factor = args.ask_factor or next(
-        (f for prefix, f in ASK_FACTORS.items() if args.model.startswith(prefix)), pipe.ask_factor)
+    per_level = next((f for prefix, f in ASK_FACTORS.items() if args.model.startswith(prefix)), {})
+    pipe.ask_factor = args.ask_factor or per_level.get(pipe.plan["level"], pipe.ask_factor)
     openrouter = "/" in args.model
     client = None
     if not openrouter:
