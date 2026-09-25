@@ -1,0 +1,5 @@
+### s01e02 · Un caffè, per favore
+- **Happened:** Ben discovers Bar Tigli and Italian bar etiquette (coffee small, no cappuccino after breakfast, pay first then sit); learns *cappuccino*, *cornetto* vs *brioche*, *latte* = milk; Sunday lunch at Franco's ends with Franco giving Ben and Leo a bag of bread.
+- **New facts:** Ben keeps a notebook of Italian words (10 words Saturday, +2 Sunday: *cappuccino*, *latte*); Bar Tigli regulars Alberto, Pietro and customers Sergio, Marina; Sunday lunch at Via dei Tigli 9 runs 12:30–15:30-ish, three to four hours, with photo of Anna on the wall; Gino's photo hangs above the Bar Tigli counter (40 years there).
+- **Changed:** Franco's first small kindness to Ben (*Bene* for cleaning the table, bread to take home, *Un po'* at second coffee); Matteo and Nadia see Ben as a paying, likeable regular.
+- **Planted:** Franco's silence toward Ben and his *"L'americano non capisce"* — to thaw over the series; Anna's photo and tiramisù/bread memory at Franco's (Sunday lunch as recurring setting).

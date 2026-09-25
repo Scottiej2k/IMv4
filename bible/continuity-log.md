@@ -32,6 +32,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma answers Ben only with "ciao" and calls herself italiana; Franco refuses to greet or answer Ben; Matteo uses *tu* with Ben at once.
 - **Planted:** Franco's closing "Io sono solo. Tu sei… Mah."; the Ben–Roberto parking feud.
 
+### s01e02 · Un caffè, per favore
+- **Happened:** Ben discovers Bar Tigli and Italian bar etiquette (coffee small, no cappuccino after breakfast, pay first then sit); learns *cappuccino*, *cornetto* vs *brioche*, *latte* = milk; Sunday lunch at Franco's ends with Franco giving Ben and Leo a bag of bread.
+- **New facts:** Ben keeps a notebook of Italian words (10 words Saturday, +2 Sunday: *cappuccino*, *latte*); Bar Tigli regulars Alberto, Pietro and customers Sergio, Marina; Sunday lunch at Via dei Tigli 9 runs 12:30–15:30-ish, three to four hours, with photo of Anna on the wall; Gino's photo hangs above the Bar Tigli counter (40 years there).
+- **Changed:** Franco's first small kindness to Ben (*Bene* for cleaning the table, bread to take home, *Un po'* at second coffee); Matteo and Nadia see Ben as a paying, likeable regular.
+- **Planted:** Franco's silence toward Ben and his *"L'americano non capisce"* — to thaw over the series; Anna's photo and tiramisù/bread memory at Franco's (Sunday lunch as recurring setting).
+
 ### s01e03 · La casa nuova
 - **Happened:** Carters move into Via dei Tigli 14 and unpack boxes; Ben searches everywhere for the caffettiera. Ornella visits with her cat Pavarotti and leaves him with the Carters for an hour. Leo labels objects around the house with Italian names.
 - **New facts:** The Carter house is small and rented, with small kitchen, bathroom, garden, corridor and two bedrooms (one large, one small); Emma and Leo share the large room, Emma in the big bed, Leo in the small one, labelled “Camera di Emma e Leo” though the decision is still Monday. Ornella’s cat Pavarotti is large, fat, named by her late husband Gino after the singer; he sleeps in a bathroom box, on the divano and on a sedia. Ben’s notebook now holds ten-plus words, including casa, caffettiera, gatto.
