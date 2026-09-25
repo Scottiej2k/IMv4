@@ -122,6 +122,11 @@ def call_openrouter(model, effort, system, messages):
     return choice["message"]["content"] or "", out.get("usage", {})
 
 
+# Scene asks as a multiple of the budget, for models that don't undershoot like Claude does.
+# DeepSeek wrote 15-20% over the target at 1.3x (pilots, 2026-09-25).
+ASK_FACTORS = {"deepseek/": 1.0}
+
+
 def cost(model, usage):
     pin, pout = PRICES.get(model, (0, 0))
     cached = getattr(usage, "cache_read_input_tokens", 0) or 0
@@ -135,10 +140,14 @@ def main():
     ap.add_argument("--model", default="claude-sonnet-5")
     ap.add_argument("--effort", default="medium", choices=["low", "medium", "high", "xhigh", "max"])
     ap.add_argument("--force", action="store_true", help="discard any earlier run of this chapter")
+    ap.add_argument("--ask-factor", type=float, help="scene word ask as a multiple of its budget "
+                    "(default 1.3, or per model from ASK_FACTORS)")
     args = ap.parse_args()
 
     pipe = Pipeline(args.chapter)
     pipe.start(force=args.force)
+    pipe.ask_factor = args.ask_factor or next(
+        (f for prefix, f in ASK_FACTORS.items() if args.model.startswith(prefix)), pipe.ask_factor)
     openrouter = "/" in args.model
     client = None
     if not openrouter:
@@ -147,13 +156,16 @@ def main():
     messages, total, out_tokens = [], 0.0, 0
 
     print(f"{args.chapter}: writing with {args.model} via {'OpenRouter' if openrouter else 'Claude API'} "
-          f"(effort {args.effort})")
+          f"(effort {args.effort}, scene ask {pipe.ask_factor}x)")
     prompt = pipe.next_prompt()
     while prompt is not None:
         print(f"- {prompt.splitlines()[0][:70]}")
         messages.append({"role": "user", "content": prompt})
         if openrouter:
-            text, usage = call_openrouter(args.model, args.effort, pipe.system, messages)
+            # The outline is short, but at medium effort DeepSeek spent all 32k output tokens
+            # thinking about it (twice, on S5E3). Low effort keeps it to a normal reply.
+            effort = "low" if pipe.state["step"] == "outline" else args.effort
+            text, usage = call_openrouter(args.model, effort, pipe.system, messages)
             messages.append({"role": "assistant", "content": text})
             total += float(usage.get("cost") or 0)
             out_tokens += int(usage.get("completion_tokens") or 0)

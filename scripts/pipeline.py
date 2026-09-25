@@ -29,6 +29,7 @@ ROOT = bc.ROOT
 SHORT_SCENE = 0.75
 # Writers reliably undershoot a word budget by about a quarter, so scenes are asked for
 # ~30% more than their budget (and in lines, which models count better than words).
+# That's true of Claude; some models write the full amount (see generate_chapter.ASK_FACTORS).
 ASK_FACTOR = 1.3
 WORDS_PER_LINE = {"A1": 6, "A2": 8, "B1": 11, "B2": 13}
 
@@ -53,6 +54,7 @@ class Pipeline:
         self.plan = plan
         lo, hi = make_brief.LEVEL_RULES[plan["level"]]["words"]
         self.lo, self.hi, self.mid = lo, hi, (lo + hi) // 2
+        self.ask_factor = ASK_FACTOR  # generate_chapter.py sets this per model
 
     # ------------------------------------------------------------ state
 
@@ -130,7 +132,7 @@ Requirements:
         sc = self.state["scenes"][k]
         n = len(self.state["scenes"])
         forbidden = "; ".join(r["what"] for r in grammar_rules.active_rules(self.cid))
-        ask = int(round(sc["words"] * ASK_FACTOR / 10) * 10)
+        ask = int(round(sc["words"] * self.ask_factor / 10) * 10)
         lines = max(5, round(ask / WORDS_PER_LINE[self.plan["level"]]))
         confessionale = sc["heading"].upper().startswith("# CONFESSIONALE")
         if confessionale:
