@@ -1,749 +1,790 @@
 @vocab
-il caffè | noun | m | coffee | | Invariable: il caffè, i caffè.
-il cappuccino | noun | m | cappuccino | cappuccini |
-il cornetto | noun | m | croissant | cornetti |
-la brioche | noun | f | brioche | | Feminine and invariable.
-l'acqua | noun | f | water | acqua |
-il bicchiere | noun | m | glass | bicchieri |
-vorrei | verb | | I would like | | Fixed polite phrase, never changes.
-per favore | expression | | please | Per favore |
-grazie | interjection | | thank you | Grazie |
-il conto | noun | m | bill | conti |
-il bar | noun | m | bar, café | | Invariable: il bar, i bar.
-il latte | noun | m | milk | |
-il tavolo | noun | m | table | tavoli |
-la tazza | noun | f | cup | tazze |
-la pasta | noun | f | pasta | paste |
-il pranzo | noun | m | lunch | pranzi |
-la domenica | noun | f | Sunday | domeniche |
-il quaderno | noun | m | notebook | quaderni |
-la parola | noun | f | word | parole |
-il problema | noun | m | problem | problemi | Masculine noun ending in -a.
-la foto | noun | f | photo | | Feminine and invariable.
-l'americano | noun | m | American (man) | americano, americani |
-il banco | noun | m | counter, in a bar | banchi |
-la colazione | noun | f | breakfast | colazioni |
-il dolce | noun | m | dessert | dolci |
+il caffè | noun | m | coffee | caffè | 
+il cappuccino | noun | m | cappuccino | cappuccini | 
+il cornetto | noun | m | croissant | cornetti | 
+la brioche | noun | f | brioche | brioche | 
+l'acqua | noun | f | water | acqua | 
+il bicchiere | noun | m | glass | bicchieri | 
+il conto | noun | m | bill | conti | 
+il latte | noun | m | milk | latte | 
+la tazza | noun | f | cup | tazze | 
+il tavolo | noun | m | table | tavoli | 
+il quaderno | noun | m | notebook | quaderni | 
+la parola | noun | f | word | parole | 
+il problema | noun | m | problem | problemi | 
+la domenica | noun | f | Sunday | domenica | 
+il pranzo | noun | m | lunch | pranzi | 
+la pasta | noun | f | pasta | pasta | 
+il piatto | noun | m | plate | piatti | 
+il pane | noun | m | bread | pane | 
+la carne | noun | f | meat | carne | 
+la frutta | noun | f | fruit | frutta | 
+il dolce | noun | m | dessert | dolci | 
+il numero | noun | m | number | numeri | 
+lo scontrino | noun | m | receipt | scontrini | 
+il vino | noun | m | wine | vino | 
+l'americano | noun | m | the American | americano | 
+vorrei | expression | | I would like | vorrei | fixed polite phrase
+per favore | expression | | please | per favore | 
+grazie | interjection | | thank you | grazie |
 @end
 
-# SCENE casa-carter | domenica mattina | ben, chiara, leo
-È **domenica** mattina a Via dei Tigli 14. || It's **Sunday** morning at Via dei Tigli 14.
-La cucina è piccola e piena di sole. || The kitchen is small and full of sun.
-
-Ben apre il frigorifero e guarda dentro. || Ben opens the fridge and looks inside.
-Ha un **quaderno** nuovo in mano. || He has a new **notebook** in his hand.
-Sul **quaderno** c'è una **parola**: **caffè**. || On the **notebook** there's one **word**: **coffee**.
-_Una **parola** al giorno. Questa è la regola._{ben} || *One **word** a day. That's the rule.*
-
-«Buongiorno! **Colazione** americana?»{ben|proud} || “Good morning! American **breakfast**?”
-«Uova, pancetta e un **cappuccino** grande.»{ben} || “Eggs, bacon and a big **cappuccino**.”
-
-Chiara entra in cucina con i capelli bagnati. || Chiara comes into the kitchen with wet hair.
-Guarda il marito, poi guarda il **quaderno**. || She looks at her husband, then at the **notebook**.
-«Ben. Oggi è **domenica**.»{chiara|fast} || “Ben. Today is **Sunday**.”
-«Sì? E allora?»{ben} || “Yes? So what?”
-«Oggi andiamo da papà. **Pranzo** di **domenica**.»{chiara} || “Today we go to Dad's. Sunday **lunch**.”
-«**Pranzo**? Perfetto!»{ben|happy} || “**Lunch**? Perfect!”
-«Non è una **parola** facile, Ben.»{chiara} || “It's not an easy **word**, Ben.”
-
-Leo arriva in cucina in pigiama. || Leo comes into the kitchen in his pyjamas.
-«Il **pranzo** di nonno Franco!»{leo} || “Grandpa Franco's **lunch**!”
-«Quattro **piatti**, papà. Quattro.»{leo|serious} || “Four **dishes**, Dad. Four.”
-Ben apre la bocca e non parla. || Ben opens his mouth and says nothing.
-«Antipasto. Primo. Secondo. **Dolce**.»{leo} || “Starter. First course. Second course. **Dessert**.”
-«E il primo è la **pasta**.»{leo|proud} || “And the first course is **pasta**.”
-«La **pasta** di nonno è sempre buona.»{leo} || “Grandpa's **pasta** is always good.”
-
-Ben guarda il suo **quaderno** e scrive. || Ben looks at his **notebook** and writes.
-«Quattro piatti. Un **problema** grande.»{ben|small} || “Four dishes. A big **problem**.”
-«Scrivo **problema**. Con la erre.»{ben} || “I write **problem**. With the r.”
-«Il **problema** non è il **pranzo**, Ben.»{chiara} || “The **problem** isn't **lunch**, Ben.”
-«Il **problema** è il **cappuccino**.»{chiara|dry} || “The **problem** is the **cappuccino**.”
-«Come?»{ben} || “What?”
-«Il **cappuccino** è al **bar**. A casa no.»{chiara} || “The **cappuccino** is at the **bar**. Not at home.”
-
-Chiara indica la finestra. || Chiara points at the window.
-Fuori, in fondo alla strada, c'è il **bar** di Matteo. || Outside, at the end of the street, there's Matteo's **bar**.
-«Il **bar**? Ma io ho il **latte** qui.»{ben} || “The **bar**? But I have **milk** here.”
-«Il **latte** è **latte**. Il **cappuccino** è un'altra cosa.»{chiara} || “**Milk** is **milk**. A **cappuccino** is another thing.”
-«E la **brioche**?»{ben} || “And the **brioche**?”
-«La **brioche** è al **bar**. Anche la **brioche**.»{chiara} || “The **brioche** is at the **bar**. The **brioche** too.”
-«Anche la **tazza**?»{ben|hopeful} || “The **cup** too?”
-«La **tazza** è di casa. La **tazza** è a casa.»{chiara} || “The **cup** belongs at home. The **cup** is at home.”
-
-Ben prende una **tazza** dal mobile. || Ben takes a **tazza** from the cupboard.
-La **tazza** è piccola, bianca, con un fiore blu. || The **cup** is small, white, with a blue flower.
-«Questa **tazza** è la mia **tazza** preferita.»{ben} || “This **cup** is my favourite **cup**.”
-«Bene. La **tazza** va bene per il **latte**.»{chiara|quick} || “Good. The **cup** is fine for the **milk**.”
-
-Leo si siede al tavolo e guarda il padre. || Leo sits down at the table and looks at his father.
-«Papà, in America il **caffè** è la mattina?»{leo} || “Dad, in America is **coffee** in the morning?”
-«E il **latte** la sera?»{leo} || “And **milk** at night?”
-Ben pensa un momento. || Ben thinks for a moment.
-«Perché sì.»{ben} || “Because yes.”
-«Perché sì è una risposta?»{leo} || “Is 'because yes' an answer?”
-«In America sì.»{ben|proud} || “In America, yes.”
-
-Chiara ride e prende il **quaderno**. || Chiara laughs and picks up the **notebook**.
-Legge la **parola** di ieri: **caffè**. || She reads yesterday's **word**: **coffee**.
-Poi guarda Ben e dice una **parola** sola. || Then she looks at Ben and says one single **word**.
-«Mah.»{chiara|dry} || “Mah.”
-«Cosa significa?»{ben} || “What does it mean?”
-«Come mio padre.»{chiara} || “Like my father.”
-Ben scrive due **parole** nuove sul **quaderno**: **vorrei** e Mah. || Ben writes two new **words** in the **notebook**: **I'd like** and Mah.
-_Cinque lettere. Tre significati._{ben} || *Five letters. Three meanings.*
-
-Leo conta i piatti con le dita. || Leo counts the dishes on his fingers.
-«Uno, due, tre, quattro **piatti**.»{leo} || “One, two, three, four **dishes**.”
-«Papà, tu mangi quattro piatti?»{leo} || “Dad, are you eating four dishes?”
-«Io mangio tutto!»{ben|proud} || “I eat everything!”
-«Anche la **pasta**?»{leo} || “**Pasta** too?”
-«La **pasta**, il secondo, il **dolce**...»{ben} || “**Pasta**, the second course, **dessert**...”
-«Il **dolce** è dopo il secondo, papà.»{leo} || “**Dessert** is after the second course, Dad.”
-«Sì. Dopo il secondo.»{ben} || “Yes. After the second course.”
-«E dopo il **dolce**?»{leo} || “And after **dessert**?”
-«Dopo il **dolce** il **caffè**.»{chiara|fast} || “After **dessert**, **coffee**.”
-«Il **caffè**? Al **bar**?»{ben|hopeful} || “**Coffee**? At the **bar**?”
-«No. A casa di papà. In **tazza** piccola.»{chiara} || “No. At Dad's house. In a small **cup**.”
-
-Ben chiude il **quaderno** e respira. || Ben closes the **notebook** and breathes.
-«Allora il **pranzo** è importante.»{ben} || “So **lunch** is important.”
-«No, Ben. È una famiglia.»{chiara} || “No, Ben. It's a family.”
-Leo ride e prende la mano del padre. || Leo laughs and takes his father's hand.
-«Papà, scrivi anche "pranzo"?»{leo} || “Dad, are you writing 'lunch' too?”
-«Sì. **Pranzo**, con la zeta.»{ben} || “Yes. **Lunch**, with the z.”
-Fuori il sole è alto e la strada è tranquilla. || Outside the sun is high and the street is quiet.
-Oggi c'è il **pranzo** da nonno Franco. || Today there's **lunch** at Grandpa Franco's.
-
-# SCENE bar-tigli | domenica mattina | ben, matteo
-Il **bar** Tigli è in fondo alla strada, vicino alla piazza. || The **bar** Tigli is at the end of the street, near the square.
-È quasi vuoto, la **domenica** mattina. || It's almost empty, on Sunday morning.
-Dentro c'è odore di **caffè** e di **cornetto** caldo. || Inside there's a smell of **coffee** and warm **cornetto**.
-
-Ben entra e guarda tutto con la bocca aperta. || Ben comes in and looks at everything with his mouth open.
-«Buongiorno, signora! Buongiorno, signore!»{ben|too loud} || “Good morning, ma'am! Good morning, sir!”
-Due clienti al **banco** si girano. || Two customers at the **counter** turn around.
-«Buongiorno, Giorgio! Buongiorno, Rita!»{ben} || “Good morning, Giorgio! Good morning, Rita!”
-«Io sono Paolo.»{uomo|dry} || “I'm Paolo.”
-«E io sono Ines.»{donna} || “And I'm Ines.”
-_Perfetto. Due nomi nuovi, due errori nuovi._{ben} || *Perfect. Two new names, two new mistakes.*
-
-Matteo arriva da dietro il **banco** con un panno in mano. || Matteo comes from behind the **counter** with a cloth in his hand.
-«Ben! Il marito di mia sorella!»{matteo|happy} || “Ben! My sister's husband!”
-«Il signor Carter, per gli amici Ben.»{ben|formal} || “Mr Carter, for friends Ben.”
-«Allora: Ben. Cosa prendi?»{matteo} || “So: Ben. What are you having?”
-«**Vorrei** un **cappuccino**, **per favore**.»{ben|proud} || “I'd like a **cappuccino**, **please**.”
-«Un **cappuccino**. Subito.»{matteo} || “A **cappuccino**. Right away.”
-«E anche un **cornetto**, **per favore**.»{ben} || “And a **cornetto** too, **please**.”
-«Un **cornetto**. Vuoto o con la crema?»{matteo} || “A **cornetto**. Plain or with cream?”
-Ben guarda il **banco** e non risponde. || Ben looks at the **counter** and doesn't answer.
-«Vuoto. Vuoto è più sicuro.»{ben} || “Plain. Plain is safer.”
-
-Matteo mette una **tazza** piccola sulla macchina del **caffè**. || Matteo puts a small **cup** on the coffee machine.
-La **tazza** è bianca, come quella di casa. || The **cup** is white, like the one at home.
-«Una **tazza**, una **parola**. Questa è la mia regola.»{ben} || “One **cup**, one **word**. That's my rule.”
-«Quale **parola**?»{matteo|curious} || “Which **word**?”
-«**Cappuccino**. Con due ci e due pi.»{ben} || “**Cappuccino**. With two c's and two p's.”
-
-Ben apre il **quaderno** sul **banco**. || Ben opens the **notebook** on the **counter**.
-Scrive: il **cappuccino**, i cappuccini. || He writes: the **cappuccino**, the cappuccini.
-«Bravo! Genere e numero!»{matteo} || “Nice! Gender and number!”
-«Il libro dice così.»{ben} || “The book says so.”
-«Il libro è bravo, ma il **bar** è meglio.»{matteo|smile} || “The book is good, but the **bar** is better.”
-
-Ben guarda la vetrina e vede anche i **cornetti**. || Ben looks at the display case and also sees the **cornetti**.
-Sono cinque, dorati, con lo zucchero sopra. || There are five of them, golden, with sugar on top.
-«Mi piace la **colazione** italiana!»{ben|happy} || “I like Italian **breakfast**!”
-«La **colazione** italiana è questa: **caffè** e **cornetto**.»{matteo} || “Italian **breakfast** is this: **coffee** and a **cornetto**.”
-«E il **latte**?»{ben} || “And **milk**?”
-«Anche il **latte**. Ma non tutti.»{matteo} || “**Milk** too. But not everybody.”
-«Io **vorrei** anche un **latte** freddo.»{ben} || “I'd also like a cold **milk**.”
-«Un **latte**? Freddo?»{matteo|surprised} || “A **milk**? Cold?”
-«Sì, **grazie**.»{ben} || “Yes, **thank you**.”
-
-Matteo prende un **bicchiere** grande e lo riempie. || Matteo takes a big **glass** and fills it.
-Il **bicchiere** è pieno di **latte** bianco e freddo. || The **glass** is full of cold white **milk**.
-Ben beve un sorso e fa una faccia strana. || Ben takes a sip and makes a strange face.
-«Questo è **latte**! Solo **latte**!»{ben} || “This is **milk**! Just **milk**!”
-«Certo. Tu dici: un **latte**. Io porto: un **latte**.»{matteo} || “Of course. You say: a **milk**. I bring: a **milk**.”
-«Ma io **vorrei** un **caffellatte**!»{ben} || “But I'd like a **caffellatte**!”
-«E allora devi dire: **caffellatte**.»{matteo|kind} || “Then you have to say: **caffellatte**.”
-«**Caffellatte**. Con due elle e una ti.»{ben} || “**Caffellatte**. With two l's and one t.”
-«Con due elle. Senza ti.»{matteo} || “With two l's. Without t.”
-_Il **latte** è **latte**. Il **caffellatte** è **caffè** e **latte**._{ben} || *Milk is **milk**. A **caffellatte** is **coffee** and **milk**.*
-«Perfetto. Nuova **parola** nel **quaderno**.»{ben} || “Perfect. New **word** in the **notebook**.”
-
-Ben prende la **tazza** e il **cornetto** e cammina verso un **tavolo**. || Ben takes the **cup** and the **cornetto** and walks towards a **table**.
-Il **tavolo** è vicino alla finestra, con il sole sopra. || The **table** is near the window, with the sun on it.
-Si siede, contento, e apre il **quaderno**. || He sits down, happy, and opens the **notebook**.
-«Il **tavolo** è libero! Il **tavolo** è perfetto!»{ben} || “The **table** is free! The **table** is perfect!”
-«Ben. Il **tavolo** è libero, sì.»{matteo} || “Ben. The **table** is free, yes.”
-«Il **tavolo** con il sole! Per leggere il **quaderno**.»{ben} || “The **table** with the sun! To read the **notebook**.”
-«Ma prima paghi. Al **banco**.»{matteo} || “But first you pay. At the **counter**.”
-«Come? Adesso?»{ben} || “What? Now?”
-«Adesso. **Banco** primo, **tavolo** dopo.»{matteo} || “Now. **Counter** first, **table** after.”
-
-Ben si alza e torna al **banco** con la **tazza** in mano. || Ben gets up and goes back to the **counter** with the **cup** in his hand.
-«Quindi il **conto** è prima.»{ben} || “So the **bill** is first.”
-«Il **conto** è prima. Poi il **tavolo**.»{matteo} || “The **bill** is first. Then the **table**.”
-«Il **conto** è una **parola** nuova?»{ben} || “Is **bill** a new **word**?”
-«Per te, sì.»{matteo|dry} || “For you, yes.”
-«Scrivo: il **conto**. E anche: il **conto**, **per favore**.»{ben} || “I'll write: the **bill**. And also: the **bill**, **please**.”
-«Due euro e cinquanta. **Grazie**.»{matteo} || “Two euros fifty. **Thank you**.”
-«**Grazie** a te. E **grazie** per il **latte** freddo.»{ben} || “**Thank you**. And **thank** you for the cold **milk**.”
-
-Ben paga e finalmente si siede al **tavolo**. || Ben pays and finally sits down at the **table**.
-Mangia il **cornetto** in tre morsi. || He eats the **cornetto** in three bites.
-«Buono! Ma **vorrei** una **brioche**.»{ben} || “Good! But I'd like a **brioche**.”
-«Una **brioche**?»{matteo|smile} || “A **brioche**?”
-«Sì. Una **brioche** con la crema.»{ben} || “Yes. A **brioche** with cream.”
-Matteo ride forte e indica la vetrina. || Matteo laughs loudly and points at the display case.
-«Quella è una **brioche**. Per me è un **cornetto**.»{matteo} || “That's a **brioche**. For me it's a **cornetto**.”
-«Due **parole**, una cosa?»{ben} || “Two **words**, one thing?”
-«Esatto. In Italia sì.»{matteo} || “Exactly. In Italy, yes.”
-«Allora scrivo: **brioche** uguale **cornetto**.»{ben} || “Then I'll write: **brioche** equals **cornetto**.”
-«Scrivi: dipende dal **bar**.»{matteo|smile} || “Write: it depends on the **bar**.”
-
-Ben guarda la sua **tazza** vuota, il **bicchiere** di **latte** e il **quaderno**. || Ben looks at his empty **cup**, the **glass** of **milk** and the **notebook**.
-«Il **caffè** qui è buono. Il **bar** è buono.»{ben} || “The **coffee** here is good. The **bar** is good.”
-«Il **bar** è sempre buono la **domenica**.»{matteo} || “The **bar** is always good on Sunday.”
-«Torno domani. Ogni giorno.»{ben} || “I'm coming back tomorrow. Every day.”
-«Ogni giorno? Allora sei un cliente fisso!»{matteo|happy} || “Every day? Then you're a regular!”
-«Un cliente fisso con il **quaderno**.»{ben|proud} || “A regular with a **notebook**.”
-«E domani? **Cappuccino** e **cornetto**?»{matteo} || “And tomorrow? **Cappuccino** and **cornetto**?”
-«**Cappuccino** e **cornetto**. E **acqua**?»{ben} || “**Cappuccino** and **cornetto**. And **water**?”
-«**Acqua** dopo il **caffè**. Sempre. In **bicchiere** piccolo.»{matteo} || “**Water** after **coffee**. Always. In a small **glass**.”
-«Un **bicchiere** piccolo d'**acqua**. Nel **quaderno**!»{ben} || “A small **glass** of **water**. In the **notebook**!”
-«E dopo il **dolce**?»{matteo} || “And after **dessert**?”
-«Il **dolce** è da nonno Franco. Oggi **pranzo** di **domenica**.»{ben} || “**Dessert** is at Grandpa Franco's. Today Sunday **lunch**.”
-«Oggi mangi quattro piatti. Non quattro **cornetti**.»{matteo|dry} || “Today you're eating four dishes. Not four **cornetti**.”
-«Un **cornetto** solo. Promesso.»{ben} || “Only one **cornetto**. Promise.”
-
-Un cliente entra e saluta Matteo con la mano. || A customer comes in and waves at Matteo.
-Ben alza la mano e saluta anche lui. || Ben raises his hand and waves too.
-«Buongiorno! **Vorrei** un **caffè**!»{ben|too loud} || “Good morning! I'd like a **coffee**!”
-«Ben, quello è il mio saluto.»{matteo} || “Ben, that's my greeting.”
-«Scusa. Il **caffè** è tuo, il **bar** è tuo, il **banco** è tuo.»{ben} || “Sorry. The **coffee** is yours, the **bar** is yours, the **counter** is yours.”
-«Ma il **quaderno** è tuo.»{matteo|smile} || “But the **notebook** is yours.”
-«Sì. Il **quaderno** è mio. Con venti **parole**.»{ben|proud} || “Yes. The **notebook** is mine. With twenty **words**.”
-«Venti **parole** in due giorni?»{matteo} || “Twenty **words** in two days?”
-«Venti **parole**, un **cappuccino**, un **cornetto**, un **latte** freddo...»{ben} || “Twenty **words**, one **cappuccino**, one **cornetto**, one cold **milk**...”
-«...e un **conto** da pagare prima del **tavolo**.»{matteo} || “...and a **bill** to pay before the **table**.”
-«Anche quello è nel **quaderno**.»{ben|small} || “That's in the **notebook** too.”
-
-# SCENE via | domenica mattina | ben, ornella
-La strada è tranquilla e il sole è caldo. || The street is quiet and the sun is warm.
-Ben cammina verso casa con un **cornetto** in un sacchetto di carta. || Ben walks home with a **cornetto** in a paper bag.
-
-Davanti al numero sedici c'è la signora Ornella. || In front of number sixteen there's Signora Ornella.
-Annaffia due vasi di gerani e parla con un gatto grigio. || She waters two pots of geraniums and talks to a grey cat.
-«Buongiorno, signora Galli.»{ben|polite} || “Good morning, Signora Galli.”
-«Buongiorno, signor Carter.»{ornella|formal} || “Good morning, Signor Carter.”
-«Come sta?»{ben} || “How are you?”
-«Bene, **grazie**. E Lei?»{ornella} || “Well, **thank you**. And you?”
-«Molto bene! Io vengo dal **bar**.»{ben|proud} || “Very well! I'm coming from the **bar**.”
-«Dal **bar** Tigli? Alle nove?»{ornella} || “From Bar Tigli? At nine?”
-«Per la **colazione**. **Caffè** e **cornetto**.»{ben} || “For **breakfast**. **Coffee** and **cornetto**.”
-
-Ornella sorride e accarezza il gatto. || Ornella smiles and strokes the cat.
-«Questo è Pavarotti. Il mio gatto.»{ornella} || “This is Pavarotti. My cat.”
-«Pavarotti? Come il cantante?»{ben} || “Pavarotti? Like the singer?”
-«Esatto. Canta la mattina. Come un tenore.»{ornella|dry} || “Exactly. He sings in the morning. Like a tenor.”
-
-Ben apre il **quaderno** con orgoglio. || Ben opens the **notebook** with pride.
-«Guardi, signora. Venti **parole** nuove.»{ben} || “Look, signora. Twenty new **words**.”
-Ornella guarda la pagina e legge con attenzione. || Ornella looks at the page and reads carefully.
-«Il **caffè**, i **caffè**. Bravo, signor Carter.»{ornella} || “The **caffè**, the **caffè**. Well done, Signor Carter.”
-«Il **caffè** è uguale. Singolare e plurale.»{ben} || “**Caffè** is the same. Singular and plural.”
-«Come il **bar**. Il **bar**, i **bar**.»{ornella} || “Like the **bar**. The **bar**, the **bar**.”
-«E questa?»{ben} || “And this one?”
-«La **foto**. Al plurale: le **foto**.»{ornella} || “The **foto**. In the plural: the **foto**.”
-«Le **foto**? Non le **fote**?»{ben} || “The **foto**? Not the **fote**?”
-«Mai le **fote**, signor Carter.»{ornella} || “Never the **fote**, Signor Carter.”
-_Il **caffè**, la **foto**. Due **parole** con una regola sola._{ben} || *Caffè, foto. Two **words** with one rule.*
-
-Ornella indica una finestra al primo piano. || Ornella points at a window on the first floor.
-«In casa ho una **foto** di questa strada. Del 1965.»{ornella} || “At home I have a **foto** of this street. From 1965.”
-«Una **foto** vecchia? Bellissima!»{ben} || “An old **foto**? Beautiful!”
-«E nella **foto** ci sono io, mia madre, il **bar** vecchio.»{ornella} || “And in the **foto** there's me, my mother, the old **bar**.”
-«Il **bar** vecchio? Il **bar** di Matteo?»{ben} || “The old **bar**? Matteo's **bar**?”
-«Lo stesso **bar**. Quarant'anni con mio marito Gino.»{ornella} || “The same **bar**. Forty years with my husband Gino.”
-«Quarant'anni al **banco**?»{ben} || “Forty years at the **counter**?”
-«Al **banco**. Sempre al **banco** con la gente.»{ornella} || “At the **counter**. Always at the **counter** with people.”
-
-Ben pensa al **banco** di Matteo e alla gente. || Ben thinks of Matteo's **counter** and the people.
-«Al **banco** la gente parla molto.»{ben} || “At the **counter** people talk a lot.”
-«Al **banco** la gente racconta tutto. Le **parole** sono il **caffè** della vita.»{ornella} || “At the **counter** people tell everything. **Words** are the **coffee** of life.”
-_E le **parole** sono il mio **quaderno**._{ben} || *And **words** are my **notebook**.*
-
-Ornella guarda il sacchetto di carta in mano a Ben. || Ornella looks at the paper bag in Ben's hand.
-«E oggi? Oggi è **domenica**.»{ornella} || “And today? Today is **Sunday**.”
-«Sì. **Pranzo** da Franco. Alle tredici.»{ben} || “Yes. **Lunch** at Franco's. At one o'clock.”
-«Il **pranzo** della **domenica** da Franco Ferri.»{ornella} || “Sunday **lunch** at Franco Ferri's.”
-«Quattro piatti, signora. Antipasto, primo, secondo, dolce.»{ben} || “Four dishes, signora. Starter, first, second, dessert.”
-«Allora Lei lo sa già.»{ornella} || “So you already know.”
-«Sì. E ho un **problema**: il secondo è troppo?»{ben} || “Yes. And I have a **problem**: is the second course too much?”
-«Nessun **problema**. Lei mangia tutto e non parla. Regola numero uno.»{ornella|dry} || “No **problem**. You eat everything and you don't talk. Rule number one.”
-
-Il gatto Pavarotti si avvicina al sacchetto. || The cat Pavarotti comes closer to the bag.
-Fiuta l'aria, poi fiuta il sacchetto di carta. || He sniffs the air, then sniffs the paper bag.
-«Pavarotti sente il **cornetto**.»{ornella|amused} || “Pavarotti smells the **cornetto**.”
-«È per Leo. Il **cornetto** è suo.»{ben} || “It's for Leo. The **cornetto** is his.”
-«Pavarotti non lo sa. Per lui il **cornetto** è suo.»{ornella} || “Pavarotti doesn't know. For him the **cornetto** is his.”
-Il gatto cammina dietro a Ben fino al cancello. || The cat walks behind Ben to the gate.
-«Lei ha un amico nuovo, signor Carter.»{ornella|smile} || “You have a new friend, Signor Carter.”
-
-Ben ride e apre il **quaderno** ancora una volta. || Ben laughs and opens the **notebook** once more.
-«Scrivo una **parola** nuova: Pavarotti.»{ben} || “I'll write a new **word**: Pavarotti.”
-«Pavarotti non è una **parola** italiana, signor Carter.»{ornella} || “Pavarotti isn't an Italian **word**, Signor Carter.”
-«Ma è una **parola** importante a Via dei Tigli.»{ben} || “But it's an important **word** on Via dei Tigli.”
-«Questo è vero.»{ornella|dry} || “That's true.”
-
-Ornella prende il giornale dalla borsa e guarda l'ora. || Ornella takes the newspaper from her bag and checks the time.
-«Ho un **conto** da pagare al **bar**? No, il **conto** è Suo.»{ornella} || “Do I have a **bill** to pay at the **bar**? No, the **bill** is yours.”
-«Il **conto** è mio. Due euro e cinquanta.»{ben} || “The **bill** is mine. Two euros fifty.”
-«Due euro e cinquanta per un **caffè**? Al Tigli?»{ornella} || “Two euros fifty for a **coffee**? At the Tigli?”
-«Sì. Con il **cornetto**.»{ben} || “Yes. With the **cornetto**.”
-«Il signor Matteo è generoso. Con i nuovi clienti.»{ornella} || “Signor Matteo is generous. With new customers.”
-«Io sono un cliente fisso. Tutti i giorni.»{ben|proud} || “I'm a regular customer. Every day.”
-«Tutti i giorni? Allora Lei è un **americano** strano.»{ornella|dry} || “Every day? Then you're a strange **americano**.”
-«**Americano** ma con il **quaderno**.»{ben} || “**Americano** but with the **notebook**.”
-«Gli **americani** con il **quaderno** sono i migliori.»{ornella} || “**Americani** with the **notebook** are the best ones.”
-
-Ben sorride e chiude il **quaderno**. || Ben smiles and closes the **notebook**.
-«Signora, è tardi. Devo andare al **pranzo**.»{ben} || “Signora, it's late. I have to go to **lunch**.”
-«Va bene. Ma ricordi: a tavola, con Franco, mangi tutto e sorride.»{ornella} || “All right. But remember: at the table, with Franco, you eat everything and smile.”
-«Mangiare tutto e sorridere. Nel **quaderno**!»{ben} || “Eat everything and smile. In the **notebook**!”
-«Quella **parola** è più utile del **caffè**.»{ornella} || “That **word** is more useful than **coffee**.”
-Pavarotti miagola e guarda il sacchetto. || Pavarotti meows and looks at the bag.
-«Arrivederci, signora Galli. E **grazie**!»{ben|polite} || “Goodbye, Signora Galli. And **thank** you!”
-«Arrivederci, signor Carter. Buon **pranzo**.»{ornella|formal} || “Goodbye, Signor Carter. Enjoy your **lunch**.”
-Ben apre il cancello e il gatto resta fermo a guardarlo. || Ben opens the gate and the cat stands still, watching him.
-_Quattro piatti, una **parola** nuova, un gatto tenore._{ben} || *Four dishes, one new **word**, a tenor cat.*
-
-# SCENE casa-franco | domenica, tredici | ben, chiara, leo, emma, franco
-La casa di Franco è al numero nove. || Franco's house is at number nine.
-La porta è aperta e dentro c'è odore di **pasta** e di pomodoro. || The door is open and inside there's a smell of **pasta** and tomato.
-
-Il **tavolo** è grande, con la tovaglia bianca. || The **table** is big, with a white tablecloth.
-Sul **tavolo** ci sono quattro piatti e quattro bicchieri. || On the **table** there are four plates and four **glasses**.
-Su un mobile c'è una **foto** di donna con un sorriso gentile. || On a cupboard there's a **foto** of a woman with a kind smile.
-_E quella è Anna. La mamma di Chiara._{ben} || *And that's Anna. Chiara's mum.*
-
-Franco arriva dalla cucina con una pentola. || Franco comes from the kitchen with a pot.
-«Chiara. Leo. Emma.»{franco|blunt} || “Chiara. Leo. Emma.”
-Poi guarda Ben per due secondi. || Then he looks at Ben for two seconds.
-«E l'**americano**.»{franco} || “And the **americano**.”
-Chiara si ferma con il piatto in mano. || Chiara stops with the plate in her hand.
-«Papà!»{chiara|sharp} || “Dad!”
-«Che c'è? È un **americano**. È vero o no?»{franco} || “What? He's an **americano**. True or not?”
-«È vero, papà. Ma è anche Ben.»{chiara} || “It's true, Dad. But he's also Ben.”
-
-Ben apre il **quaderno** e scrive con calma. || Ben opens the **notebook** and writes calmly.
-«L'**americano**. Con l'apostrofo.»{ben|proud} || “The **americano**. With the apostrophe.”
-«Cosa scrivi?»{franco|suspicious} || “What are you writing?”
-«Le **parole** nuove. Ogni giorno.»{ben} || “New **words**. Every day.”
-«Venticinque **parole**?»{franco} || “Twenty-five **words**?”
-«Quasi. Con questa sono venticinque.»{ben} || “Almost. With this one it's twenty-five.”
-«Mah.»{franco|dry} || “Mah.”
-
-Leo corre verso il **tavolo**. || Leo runs towards the **table**.
-«Nonno! Oggi la **pasta**?»{leo} || “Grandpa! **Pasta** today?”
-«Sì. Tagliatelle. Con il ragù di mia moglie.»{franco} || “Yes. Tagliatelle. With my wife's ragù.”
-«La **pasta** di nonna?»{leo} || “Grandma's **pasta**?”
-«La ricetta è di nonna Anna. La cucina è mia.»{franco|soft} || “The recipe is Grandma Anna's. The cooking is mine.”
-Leo guarda la **foto** sul mobile. || Leo looks at the **foto** on the cupboard.
-«Ciao, nonna Anna.»{leo|soft} || “Hi, Grandma Anna.”
-
-Emma si siede in silenzio, vicino alla finestra. || Emma sits in silence, near the window.
-Guarda il telefono e poi il piatto. || She looks at her phone and then at the plate.
-«Emma, dai. È **domenica**. Niente telefono.»{chiara} || “Emma, come on. It's **Sunday**. No phone.”
-«Boh.»{emma|flat} || “Dunno.”
-«La **domenica** è il giorno della famiglia.»{franco} || “**Sunday** is family day.”
-«Sì, nonno.»{emma|quiet} || “Yes, Grandpa.”
-
-Franco porta l'antipasto: salumi, olive, formaggio. || Franco brings the starter: cold cuts, olives, cheese.
-«**Pranzo** di **domenica**, numero uno: antipasto.»{franco} || “Sunday **lunch**, number one: starter.”
-Ben mangia e fa un segno con la mano. || Ben eats and signals with his hand.
-«Buonissimo! Questo è un **problema**.»{ben} || “Very good! This is a **problem**.”
-«Un **problema**?»{franco|annoyed} || “A **problem**?”
-«Se mangio tutto, dopo non posso più mangiare.»{ben} || “If I eat everything, after that I can't eat more.”
-«Ma questo è l'antipasto! Piccolo!»{franco} || “But this is the starter! Small!”
-«Piccolo per Lei, signor Franco.»{ben} || “Small for you, Signor Franco.”
-
-Poi Franco porta la **pasta**. || Then Franco brings the **pasta**.
-La **pasta** è calda e profumata, gialla e rossa. || The **pasta** is hot and fragrant, yellow and red.
-Ben si serve una porzione grande. || Ben serves himself a big portion.
-«Perfetto! Il secondo è buono!»{ben|happy} || “Perfect! The second course is good!”
-Tutti si fermano. || Everyone stops.
-Leo mette giù la forchetta. || Leo puts down his fork.
-«Papà. Questo è il primo.»{leo} || “Dad. This is the first course.”
-«Sì! Il primo. La **pasta**.»{ben} || “Yes! The first course. The **pasta**.”
-«Ma tu dici: il secondo.»{leo} || “But you say: the second course.”
-«Io dico secondo?»{ben} || “Do I say second course?”
-
-Chiara sospira e beve un po' d'**acqua**. || Chiara sighs and drinks some **water**.
-«Primo: la **pasta**. Secondo: la carne. Terzo: il **dolce**.»{chiara|fast} || “First: **pasta**. Second: meat. Third: **dessert**.”
-«E l'antipasto è prima del primo.»{leo} || “And the starter is before the first course.”
-«Quattro cose, Ben. Quattro.»{chiara} || “Four things, Ben. Four.”
-Ben scrive veloce sul **quaderno**. || Ben writes quickly in the **notebook**.
-«Primo non è secondo. La **pasta** è primo.»{ben} || “First isn't second. **Pasta** is first.”
-«E la carne è secondo.»{chiara} || “And meat is second.”
-«La carne è secondo. Chiaro. Chiarissimo.»{ben} || “Meat is second. Clear. Very clear.”
-
-Franco guarda Ben da sopra gli occhiali. || Franco looks at Ben over his glasses.
-«L'**americano** mangia la **pasta** come un secondo.»{franco|blunt} || “The **americano** eats **pasta** like a second course.”
-«No, no. Ora capisco. La **pasta** è primo.»{ben} || “No, no. Now I understand. **Pasta** is first.”
-«Per un italiano, la **pasta** è primo sempre.»{franco} || “For an Italian, **pasta** is always the first course.”
-«Anche a colazione?»{ben|joke} || “Even at breakfast?”
-Franco non ride. || Franco doesn't laugh.
-«A colazione no. A colazione il **caffè**.»{franco} || “Not at breakfast. At breakfast, **coffee**.”
-«Il **caffè** è **colazione**. Il **caffè** è tutto.»{ben} || “**Coffee** is **breakfast**. **Coffee** is everything.”
-«Mah.»{franco|dry} || “Mah.”
-_Nove lettere e tre significati. Di nuovo._{ben} || *Nine letters and three meanings. Again.*
-
-Emma guarda Ben con un mezzo sorriso. || Emma looks at Ben with half a smile.
-«Papà, "Mah" non è una **parola** utile.»{emma} || “Dad, 'Mah' isn't a useful **word**.”
-«Per me è utilissima. La scrivo spesso.»{ben} || “For me it's very useful. I write it often.”
-«Che ansia.»{emma|quiet} || “So stressful.”
-Emma beve un po' d'**acqua** dal suo **bicchiere**. || Emma drinks some **water** from her **glass**.
-
-Franco porta il secondo: carne con le patate. || Franco brings the second course: meat with potatoes.
-«Secondo: arrosto. Tu mangi l'arrosto?»{franco} || “Second course: roast. Do you eat roast?”
-«Io mangio tutto. Sono **americano**, ma mangio tutto.»{ben} || “I eat everything. I'm **americano**, but I eat everything.”
-«Allora è **americano** ma con la forchetta giusta.»{franco|dry} || “Then you're **americano** but with the right fork.”
-Chiara guarda il padre e poi il marito. || Chiara looks at her father and then at her husband.
-«Papà, si dice "l'**americano**" come un nome. Non è gentile.»{chiara} || “Dad, you say 'the **americano**' like a name. It's not kind.”
-«È un fatto, Chiara. Non è una **parola** cattiva.»{franco} || “It's a fact, Chiara. It's not a bad **word**.”
-«Però...»{chiara} || “But...”
-«Però niente. Mangia.»{franco} || “But nothing. Eat.”
-
-Ben taglia la carne e assaggia. || Ben cuts the meat and tastes it.
-«Buona! Ma la **pasta** è meglio.»{ben} || “Good! But the **pasta** is better.”
-«Mia moglie dice così.»{franco|soft} || “My wife says that.”
-«Anna? La signora della **foto**?»{ben} || “Anna? The lady in the **foto**?”
-«Sì. La **foto** è del 2018. Prima della malattia.»{franco} || “Yes. The **foto** is from 2018. Before the illness.”
-Il **tavolo** è silenzioso per un momento. || The **table** is silent for a moment.
-«Lei cucinava bene?»{ben|soft} || “Did she cook well?”
-«Troppo bene. Per questo ora cucino io.»{franco} || “Too well. That's why I cook now.”
-
-Leo alza la mano come a scuola. || Leo raises his hand like at school.
-«Nonno! E adesso il **dolce**?»{leo} || “Grandpa! And now **dessert**?”
-«Il **dolce** è dopo il secondo, Leo.»{franco} || “**Dessert** is after the second course, Leo.”
-«Sì, ma dopo il secondo c'è il **dolce**?»{leo} || “Yes, but after the second course there's **dessert**?”
-«Sì. Dopo il secondo c'è il **dolce**.»{franco} || “Yes. After the second course there's **dessert**.”
-«E dopo il **dolce**?»{leo} || “And after **dessert**?”
-«Dopo il **dolce** il **caffè**. E poi un riposino.»{franco} || “After **dessert**, **coffee**. And then a little rest.”
-
-Ben è pieno. Molto pieno. || Ben is full. Very full.
-«**Vorrei** un **bicchiere** d'**acqua**, **per favore**.»{ben} || “I'd like a **glass** of **water**, **please**.”
-Franco prende una bottiglia rossa e versa. || Franco takes a red bottle and pours.
-«**Acqua**? No. Vino.»{franco} || “**Water**? No. Wine.”
-«Ma io **vorrei** un **bicchiere** d'**acqua**...»{ben} || “But I'd like a **glass** of **water**...”
-«Dopo il vino, l'**acqua**. Questa è la regola.»{franco} || “After the wine, the **water**. That's the rule.”
-«E se non bevo il vino?»{ben} || “And if I don't drink the wine?”
-«Allora non c'è l'**acqua**.»{franco|dry} || “Then there's no **water**.”
-Ben beve il vino e fa una faccia strana. || Ben drinks the wine and makes a strange face.
-
-Poi arriva il **dolce**: tiramisù, con il cucchiaio. || Then comes the **dolce**: tiramisù, with a spoon.
-«Tiramisù. La ricetta di nonna.»{franco} || “Tiramisù. Grandma's recipe.”
-«La **parola** più bella d'Italia!»{ben|happy} || “The most beautiful **word** in Italy!”
-«Tiramisù non è una **parola** semplice, Ben.»{chiara} || “Tiramisù isn't a simple **word**, Ben.”
-«Ma è buona. Buonissima. Perfetta!»{ben} || “But it's good. Very good. Perfect!”
-«Il **dolce** è di Anna. Non mia.»{franco} || “The **dolce** is Anna's. Not mine.”
-Ben guarda la **foto** di Anna con rispetto. || Ben looks at Anna's **foto** with respect.
-
-Dopo il **dolce** Franco prepara il **caffè** nella moka. || After the **dolce**, Franco makes the **coffee** in the moka.
-Il **caffè** è piccolo e forte, in **tazza** piccola. || The **coffee** is small and strong, in a small **cup**.
-«Questo è il **caffè** italiano. Non americano.»{franco} || “This is Italian **coffee**. Not American.”
-«Piccolo! Ma forte!»{ben} || “Small! But strong!”
-«Il **caffè** è così. Piccolo e forte.»{franco} || “**Coffee** is like that. Small and strong.”
-«Scrivo: **caffè** italiano, **tazza** piccola.»{ben} || “I'll write: Italian **coffee**, small **cup**.”
-«Scrivi anche: mai il **caffè** con il **latte** dopo il **pranzo**.»{franco} || “Also write: never **coffee** with **milk** after **lunch**.”
-«Perché?»{ben} || “Why?”
-«Perché sì.»{franco|dry} || “Because yes.”
-
-Chiara si alza e porta i piatti in cucina. || Chiara gets up and carries the plates to the kitchen.
-Emma aiuta con i **bicchieri**. || Emma helps with the **glasses**.
-Leo resta al **tavolo** con il cucchiaio. || Leo stays at the **table** with the spoon.
-Ben guarda il **quaderno** e sorride. || Ben looks at the **notebook** and smiles.
-«Trenta **parole**. Oggi trenta.»{ben|proud} || “Thirty **words**. Today thirty.”
-«Trenta **parole** in un **pranzo**?»{chiara} || “Thirty **words** in one **lunch**?”
-«Il **pranzo** è la migliore scuola d'italiano.»{ben} || “**Lunch** is the best Italian school.”
-Franco beve il **caffè** e guarda Ben. || Franco drinks his **coffee** and looks at Ben.
-«L'**americano** mangia bene. Mah.»{franco} || “The **americano** eats well. Mah.”
-_E l'americano scrive anche bene. Speriamo._{ben} || *And the americano writes well too. Let's hope.*
-
-# SCENE casa-franco | domenica, dopo pranzo | ben, franco, leo
-Il **pranzo** finisce e la cucina di Franco è piena di piatti. || **Lunch** ends and Franco's kitchen is full of plates.
-Chiara porta Emma in salotto per parlare. || Chiara takes Emma into the living room to talk.
-Leo guarda la televisione con il telecomando. || Leo watches TV with the remote control.
-
-Ben resta al **tavolo** con Franco. || Ben stays at the **table** with Franco.
-Prende i piatti uno alla volta e li mette vicino al lavandino. || He takes the plates one at a time and puts them near the sink.
-«Posso aiutare?»{ben} || “Can I help?”
-«Puoi.»{franco|blunt} || “You can.”
-«Dove?»{ben} || “Where?”
-«Lì. I **bicchieri** sul **tavolo**.»{franco} || “There. The **glasses** on the **table**.”
-
-Ben prende i **bicchieri** con due mani. || Ben takes the **glasses** with both hands.
-Un **bicchiere** cade e non si rompe. || One **glass** falls and doesn't break.
-«Scusa!»{ben} || “Sorry!”
-«Niente. È di vetro buono.»{franco} || “Nothing. It's good glass.”
-«Il **bicchiere** è forte. Come Lei, signor Franco.»{ben} || “The **glass** is strong. Like you, Signor Franco.”
-Franco non risponde e asciuga il **tavolo**. || Franco doesn't answer and dries the **table**.
-
-Ben prende il **quaderno** dalla sedia. || Ben takes the **notebook** from the chair.
-«Lei cucina bene. Molto bene.»{ben} || “You cook well. Very well.”
-«Cucino. Non è la stessa cosa.»{franco} || “I cook. It's not the same thing.”
-«No?»{ben} || “No?”
-«No. Mia moglie cucinava. Io solo cucino.»{franco|soft} || “No. My wife used to cook. I only cook.”
-Ben guarda la **foto** sul mobile. || Ben looks at the **foto** on the cupboard.
-«La **foto** è bella. Anna è bella.»{ben} || “The **foto** is beautiful. Anna is beautiful.”
-«Sì. Anna è sempre bella.»{franco} || “Yes. Anna is always beautiful.”
-
-Ben apre il **quaderno** e cerca una pagina. || Ben opens the **notebook** and looks for a page.
-«Posso scrivere una **parola** nuova?»{ben} || “Can I write a new **word**?”
-«Quale?»{franco|curious} || “Which one?”
-«Cucinare. Ma anche: mangiare, parlare, capire.»{ben} || “To cook. But also: to eat, to speak, to understand.”
-«Tre verbi. Una sera.»{franco} || “Three verbs. One evening.”
-«La sera imparo. La notte sogno italiano.»{ben|proud} || “In the evening I learn. At night I dream in Italian.”
-«Sogni in italiano?»{franco|surprised} || “You dream in Italian?”
-«Sì. Ma le **parole** sono strane.»{ben} || “Yes. But the **words** are strange.”
-«Mah.»{franco|dry} || “Mah.”
-
-Franco prende una bottiglia e due **bicchieri**. || Franco takes a bottle and two **glasses**.
-«**Vorrei** un **bicchiere** d'**acqua**, **per favore**.»{ben} || “I'd like a **glass** of **water**, **please**.”
-«**Acqua**? Dopo il **dolce**, il **caffè**. Non l'**acqua**.»{franco} || “**Water**? After **dessert**, **coffee**. Not **water**.”
-«Ma io **vorrei** l'**acqua**. Solo **acqua**.»{ben} || “But I'd like the **water**. Just **water**.”
-Franco sospira e apre il rubinetto. || Franco sighs and turns on the tap.
-Il **bicchiere** si riempie d'**acqua** fresca. || The **glass** fills with fresh **water**.
-«Ecco. **Acqua**.»{franco} || “Here. **Water**.”
-«**Grazie**!»{ben|happy} || “**Thank you**!”
-«**Grazie** a te. Per i **bicchieri**.»{franco} || “**Thank** you. For the **glasses**.”
-
-Ben beve e mette il **bicchiere** sul **tavolo**. || Ben drinks and puts the **glass** on the **table**.
-«Ho un **problema** con la lingua italiana.»{ben} || “I have a **problem** with the Italian language.”
-«Un **problema**?»{franco} || “A **problem**?”
-«Sì. Una **parola** è facile, ma le **parole** insieme sono difficili.»{ben} || “Yes. One **word** is easy, but the **words** together are difficult.”
-«Le **parole** insieme sono la lingua.»{franco} || “The **words** together are the language.”
-«Esatto. Il **problema** è questo.»{ben} || “Exactly. The **problem** is that.”
-
-Franco si siede vicino a lui per la prima volta. || Franco sits near him for the first time.
-«Ascolta. La **pasta** è buona?»{franco} || “Listen. Is the **pasta** good?”
-«La **pasta** è la cosa migliore che mangio in Italia.»{ben} || “**Pasta** is the best thing I eat in Italy.”
-«No. La **pasta** di mia moglie è meglio.»{franco} || “No. My wife's **pasta** is better.”
-«Anna?»{ben} || “Anna?”
-«Anna. La **pasta** di Anna è **caffè** e **dolce** insieme.»{franco|soft} || “Anna. Anna's **pasta** is **coffee** and **dessert** together.”
-«Come?»{ben} || “How?”
-«Non so. Ma è così.»{franco} || “I don't know. But it is like that.”
-«Allora la **pasta** di Anna è nella **foto**.»{ben} || “Then Anna's **pasta** is in the **foto**.”
-Franco guarda la **foto** e non parla per dieci secondi. || Franco looks at the **foto** and doesn't speak for ten seconds.
-«Sì. La **pasta** di Anna è nella **foto**.»{franco} || “Yes. Anna's **pasta** is in the **foto**.”
-
-Ben tocca il **quaderno** con due dita. || Ben touches the **notebook** with two fingers.
-«Scrivo: Anna, la **pasta** migliore.»{ben} || “I'll write: Anna, the best **pasta**.”
-«Scrivi bene. Anche la calligrafia.»{franco} || “You write well. The handwriting too.”
-«Grazie. In America lavoro con le **parole**. Le **parole** sono il mio lavoro.»{ben} || “Thank you. In America I work with **words**. **Words** are my job.”
-«L'**americano** con le **parole**. Mah.»{franco} || “The **americano** with the **words**. Mah.”
-
-Ben sorride, ma questa volta Franco ha un piccolo sorriso anche lui. || Ben smiles, but this time Franco has a small smile too.
-«Lei scrive?"»{ben} || “Do you write?”
-«Io guido. Guidavo.»{franco} || “I drive. I used to drive.”
-«Il tram! Chiara dice: trentacinque anni.»{ben} || “The tram! Chiara says: thirty-five years.”
-«Trentacinque anni. Milano, Duomo, Porta Genova, sempre.»{franco} || “Thirty-five years. Milan, Duomo, Porta Genova, always.”
-«E ora?»{ben} || “And now?”
-«Ora l'orto. I pomodori. La **foto** di Anna.»{franco} || “Now the garden. The tomatoes. Anna's **foto**.”
-
-Leo entra in cucina correndo. || Leo runs into the kitchen.
-«Nonno, c'è il cartone animato!»{leo} || “Grandpa, the cartoon is on!”
-Franco cambia subito la voce e parla piano. || Franco instantly changes his voice and speaks slowly.
-«Va bene, Leo. Vieni qui. Guarda con me.»{franco|slow} || “All right, Leo. Come here. Watch with me.”
-«Nonno, perché i cartoni sono corti?»{leo} || “Grandpa, why are cartoons short?”
-«Perché... perché sì, Leo.»{franco|slow} || “Because... because yes, Leo.”
-Leo ride e tira la mano di Franco verso il salotto. || Leo laughs and pulls Franco's hand towards the living room.
-
-Ben prende il **quaderno** e scrive veloce. || Ben takes the **notebook** and writes quickly.
-«Con Leo parli piano e semplice.»{ben} || “With Leo you speak slowly and simply.”
-«Con Leo? Sì. Parlo piano con i bambini.»{franco} || “With Leo? Yes. I speak slowly with children.”
-«Allora con me è il contrario.»{ben|small} || “So with me it's the opposite.”
-«Con te, l'**americano**, parlo normale. Sei un adulto.»{franco} || “With you, the **americano**, I speak normally. You're an adult.”
-Ben scrive anche questa frase sul **quaderno**. || Ben writes this sentence in the **notebook** too.
-«Normale. Con l'**americano**. Nuova **parola** chiave.»{ben} || “Normal. With the **americano**. New key **word**.”
-«Mah.»{franco|dry} || “Mah.”
-_Un **bicchiere** d'acqua. Una **parola** nuova. Un sorriso piccolo._{ben} || *One **glass** of water. One new **word**. One small smile.*
-
-Franco è alla porta del salotto, con Leo. || Franco is at the living room door, with Leo.
-Si gira un secondo verso Ben. || He turns for a second towards Ben.
-«L'**americano** mangia bene. E scrive bene.»{franco} || “The **americano** eats well. And writes well.”
-«Grazie, signor Franco.»{ben|polite} || “Thank you, Signor Franco.”
-«E adesso guarda il cartone. Ti spiego le **parole** italiane.»{franco} || “And now watch the cartoon. I'll explain the Italian **words** to you.”
-Poi Franco prende la mano di Leo e si siede. || Then Franco takes Leo's hand and sits down.
-Ben resta al **tavolo** con il **quaderno** aperto. || Ben stays at the **table** with the **notebook** open.
-«Anche il cartone è una lezione.»{ben} || “Even the cartoon is a lesson.”
-E accende il telefonino per registrare le **parole** nuove. || And he turns on his phone to record the new **words**.
-
-# SCENE bar-tigli | lunedì pomeriggio | ben, matteo, nadia
-Lunedì pomeriggio, le quattro. || Monday afternoon, four o'clock.
-Nel **bar** Tigli c'è poca gente e molta luce. || In Bar Tigli there are few people and a lot of light.
-
-Ben entra e va diretto al **banco**. || Ben comes in and goes straight to the **counter**.
-«Buongiorno! **Vorrei** un **cappuccino**, **per favore**.»{ben|happy} || “Good morning! I'd like a **cappuccino**, **please**.”
-Matteo guarda l'orologio e poi guarda Nadia. || Matteo looks at the clock and then looks at Nadia.
-«Le quattro, Ben. Il **cappuccino** è alle otto.»{matteo|dry} || “Four o'clock, Ben. A **cappuccino** is at eight.”
-«Da me è sempre mattina.»{ben|proud} || “For me it's always morning.”
-«Mah.»{matteo} || “Mah.”
-Nadia ride dietro al **banco**. || Nadia laughs behind the **counter**.
-
-Ben prende la **tazza** e va verso un **tavolo**. || Ben takes the **cup** and heads for a **table**.
-«Il **tavolo** con il sole!»{ben} || “The **table** with the sun!”
-«Ben, il **conto** prima.»{matteo} || “Ben, the **bill** first.”
-«Ah! Giusto. Il **conto**.»{ben} || “Ah! Right. The **bill**.”
-Ben apre il **quaderno** e cerca la pagina giusta. || Ben opens the **notebook** and looks for the right page.
-«Il **conto**, **per favore**. Questa è la **parola** giusta?»{ben} || “The **bill**, **please**. Is that the right **word**?”
-«La **parola** più utile d'Italia.»{matteo} || “The most useful **word** in Italy.”
-«Anche più di "**grazie**"?»{ben} || “Even more than “**thank you**”?”
-«Quasi.»{matteo} || “Almost.”
-«Il **conto**, **per favore**. Due euro e cinquanta.»{ben} || “The **bill**, **please**. Two euros fifty.”
-«Perfetto. **Grazie**.»{matteo} || “Perfect. **Thank you**.”
-
-Nadia serve un **bicchiere** d'**acqua** a un cliente. || Nadia serves a **glass** of **water** to a customer.
-Poi guarda Ben e sorride. || Then she looks at Ben and smiles.
-«Ben, ormai sei un appuntamento fisso.»{nadia|deadpan} || “Ben, by now you're a regular appointment.”
-«Come il **caffè** alle otto.»{matteo} || “Like **coffee** at eight.”
-«Come il **cappuccino** alle quattro.»{nadia} || “Like **cappuccino** at four.”
-«E il **cornetto**? E la **brioche**?»{ben} || “And the **cornetto**? And the **brioche**?”
-«Il **cornetto** è **domenica**. La **brioche** è sempre.»{matteo} || “A **cornetto** is Sunday. A **brioche** is always.”
-«E il **dolce**?»{ben} || “And **dessert**?”
-«Il **dolce** è dopo il **caffè**. Non alle quattro.»{nadia} || “**Dessert** is after **coffee**. Not at four.”
-
-Ben paga, prende la **tazza** e beve in piedi al **banco**. || Ben pays, takes the **cup** and drinks standing at the **counter**.
-«Il **bar** è meglio del **tavolo**.»{ben} || “The **bar** is better than the **table**.”
-«Certo. Al **banco** si parla.»{matteo} || “Of course. At the **counter** people talk.”
-«Il **latte** nel **bicchiere** e il **caffè** nella **tazza**. Tutto scritto.»{ben} || “**Milk** in the **glass** and **coffee** in the **cup**. All written down.”
-«E domani?»{matteo} || “And tomorrow?”
-«Domani il **cappuccino** alle quattro, **per favore**.»{ben} || “Tomorrow a **cappuccino** at four, **please**.”
-«Alle quattro. Sempre.»{matteo|dry} || “At four. Always.”
-Nadia alza gli occhi al cielo e ride. || Nadia rolls her eyes and laughs.
+# SCENE casa-carter | sabato pomeriggio | ben, chiara, leo
+È sabato pomeriggio a Via dei Tigli quattordici. || It's Saturday afternoon on Via dei Tigli number fourteen.
+La **cucina** è piccola, ma piena di sole. || The **kitchen** is small, but full of sun.
+Ben è seduto al **tavolo**. || Ben is sitting at the **table**.
+Davanti a lui c'è una **tazza** enorme. || In front of him there's an enormous **cup**.
+Dentro la **tazza** c'è **caffè** nero. || Inside the **cup** there's black **coffee**.
+_Questa **tazza** è una piscina._{ben} || *This **cup** is a swimming pool.*
+_Ma il **caffè** è buono._{ben} || *But the **coffee** is good.*
+
+Chiara entra in **cucina** con il telefono in mano. || Chiara comes into the **kitchen** with her phone in her hand.
+«Ben, tutto bene?»{chiara} chiede. || "Ben, everything okay?" she asks.
+«Sì! **Caffè**!»{ben|happy} risponde Ben. || "Yes! **Coffee**!" answers Ben.
+
+Chiara guarda la **tazza** e ride. || Chiara looks at the **cup** and laughs.
+«Questa **tazza** è per la minestra»{chiara|dry} dice. «Non per il **caffè**.»{chiara} || "This **cup** is for soup," she says. "Not for **coffee**."
+«In America il **caffè** è **caffè**»{ben} dice Ben. || "In America **coffee** is **coffee**," says Ben.
+«Qui è una cerimonia»{ben} continua. «**Caffè** piccolo, **tazza** piccola.»{ben} || "Here it's a ceremony," he continues. "Small **coffee**, small **cup**."
+
+Leo entra in **cucina** senza scarpe. || Leo comes into the **kitchen** without shoes.
+«Che cos'è una cerimonia?»{leo} chiede Leo. || "What's a ceremony?" asks Leo.
+«Una cosa lunga»{ben|dry} dice Ben. «Come il **pranzo** di **domenica**.»{ben} || "A long thing," says Ben. "Like **Sunday** **lunch**."
+
+Chiara si siede e appoggia il telefono. || Chiara sits down and puts down her phone.
+«Sì. **Domenica** **pranzo** da papà»{chiara} dice. || "Yes. **Sunday** **lunch** at dad's," she says.
+«**Pranzo** importante. Quattro **piatti**.»{chiara} || "An important **lunch**. Four **dishes**."
+
+Leo alza la mano e conta con le dita. || Leo raises his hand and counts on his fingers.
+«Uno: **pasta**»{leo|counting} dice Leo. || "One: **pasta**," says Leo.
+«Due: **carne**.»{leo} || "Two: **meat**."
+«Tre: **frutta**.»{leo} || "Three: **fruit**."
+«Quattro: **dolce**!»{leo|excited} || "Four: **dessert**!"
+
+Ben guarda Leo, poi guarda Chiara. || Ben looks at Leo, then at Chiara.
+«Quattro **piatti**?»{ben|surprised} chiede. «Come un menù?»{ben} || "Four **dishes**?" he asks. "Like a menu?"
+«Come un **pranzo**»{chiara} corregge Chiara. «Prima la **pasta**, poi la **carne**.»{chiara} || "Like a **lunch**," corrects Chiara. "First the **pasta**, then the **meat**."
+«Poi la **frutta** e il **dolce**»{chiara} aggiunge. || "Then the **fruit** and the **dessert**," she adds.
+«La **pasta** non è tutto il **pranzo**»{chiara} dice. || "The **pasta** isn't the whole **lunch**," she says.
+
+_Per me la **pasta** è il **pranzo**._{ben} || *For me the **pasta** is the **lunch**.*
+_E la **carne** è la **carne**._{ben} || *And the **meat** is the **meat**.*
+_Le **parole** sono facili. Il **pranzo** no._{ben} || *The **words** are easy. The **lunch** isn't.*
+
+Ben prende un **quaderno** dal **tavolo**. || Ben takes a **notebook** from the **table**.
+Il **quaderno** è nuovo, piccolo, giallo. || The **notebook** is new, small, yellow.
+«Nuova **parola**: **pasta**»{ben} dice. || "New **word**: **pasta**," says Ben.
+Scrive **pasta** con il **numero** uno. || He writes **pasta** with the **number** one.
+«**Numero** due: **carne**»{ben} dice. || "**Number** two: **meat**," says Ben.
+«**Numero** tre: **frutta**. **Numero** quattro: **dolce**.»{ben} || "**Number** three: **fruit**. **Number** four: **dessert**."
+«Quattro **parole**, quattro **piatti**»{ben|proud} dice Ben. || "Four **words**, four **dishes**," says Ben.
+_Il mio **quaderno** è il mio cervello._{ben} || *My **notebook** is my brain.*
+
+Leo guarda il **quaderno** con curiosità. || Leo looks at the **notebook** with curiosity.
+«Anche io voglio un **quaderno**!»{leo} dice Leo. || "I want a **notebook** too!" says Leo.
+«Tu le **parole** le sai già»{chiara} dice Chiara. || "You already know the **words**," says Chiara.
+Leo sorride, fiero. || Leo smiles, proud.
+
+«Allora, **domenica**»{ben} dice Ben. «Cosa porto?»{ben} || "So, **Sunday**," says Ben. "What do I bring?"
+«**Acqua**? **Latte**?»{ben} chiede. || "**Water**? **Milk**?" he asks.
+«No, no»{chiara|fast} dice Chiara. «Papà decide tutto.»{chiara} || "No, no," says Chiara. "Dad decides everything."
+«Il **pane**, il **vino**, l'**acqua**: tutto sul **tavolo**»{chiara} dice. || "The bread, the wine, the **water**: everything on the **table**," says Chiara.
+«Il suo **tavolo** è la sua casa»{chiara} aggiunge. || "His **table** is his house," she adds.
+
+«Ma io porto il **latte**»{ben} dice Ben. «Il **latte** è gentile.»{ben} || "But I'm bringing the **latte**," says Ben. "**Milk** is kind."
+Chiara chiude gli occhi per un secondo. || Chiara closes her eyes for a second.
+«Il **latte** con la **carne**? No, Ben»{chiara|tired} dice. || "**Milk** with the **meat**? No, Ben," she says.
+«Però il **latte** è buono»{ben} dice Ben. || "But **milk** is good," says Ben.
+«Dopo. Con il **dolce**, forse»{chiara} dice. || "Afterwards. With the **dessert**, maybe," says Chiara.
+
+Leo ride piano. || Leo laughs quietly.
+«Papà, in Italia il **latte** è per i bambini»{leo} dice Leo. || "Dad, in Italy **milk** is for children," says Leo.
+«E per i gatti»{leo|dry} aggiunge. || "And for cats," he adds.
+«Grazie, Leo»{ben|dry} dice Ben. «Sei gentile.»{ben} || "Thanks, Leo," says Ben. "You're kind."
+
+Chiara si alza. || Chiara stands up.
+«Lavoro un'ora»{chiara} dice. «Poi parliamo del **pranzo**.»{chiara} || "I'll work for an hour," she says. "Then we'll talk about the **lunch**."
+Esce dalla **cucina** con il telefono. || She leaves the **kitchen** with her phone.
+
+Ben guarda il **quaderno** e sospira. || Ben looks at the **notebook** and sighs.
+_Quattro **piatti**, quattro **parole**._{ben} || *Four **dishes**, four **words**.*
+_A **tavolo** io non capisco niente._{ben} || *At the **table** I understand nothing.*
+_Ma il **caffè** è buono. Sempre._{ben} || *But the **coffee** is good. Always.*
+
+Leo si avvicina al **tavolo**. || Leo comes up to the **table**.
+«Papà»{leo|whispering} sussurra Leo. «Va tutto bene.»{leo} || "Dad," whispers Leo. "It's all fine."
+«**Pasta**, **carne**, **frutta**, **dolce**»{leo} dice. «Quattro **piatti**. Basta.»{leo} || "**Pasta**, **meat**, **fruit**, **dessert**," he says. "Four **dishes**. That's it."
+«E il **latte**?»{ben|whispering} chiede Ben. || "And the **milk**?" asks Ben.
+«Il **latte** lo bevo io»{leo|grinning} dice Leo. || "I'll drink the **milk**," says Leo.
+
+Ben ride e scrive un'ultima **parola** nel **quaderno**. || Ben laughs and writes one last **word** in the **notebook**.
+La **parola** è **domenica**. || The **word** is **Sunday**.
+_La **domenica** è un **problema** per dopo._{ben} || *The **Sunday** is a **problem** for later.*
+
+# SCENE bar-tigli | sabato pomeriggio | ben, matteo
+Sono le quattro di pomeriggio. || It's four in the afternoon.
+Via dei Tigli è tranquilla, ma il **bar** è aperto. || Via dei Tigli is quiet, but the **bar** is open.
+Dentro c'è luce gialla e musica piano. || Inside there's yellow light and soft music.
+Ben entra e guarda il bancone. || Ben comes in and looks at the counter.
+Dietro il bancone c'è Matteo, con uno straccio in mano. || Behind the counter there's Matteo, with a cloth in his hand.
+
+«Buongiorno!»{ben|too loud} dice Ben. || "Good morning!" says Ben.
+«Buonasera»{matteo|dry} corregge Matteo. «Sono le quattro.»{matteo} || "Good evening," corrects Matteo. "It's four o'clock."
+«Ah. **Grazie**»{ben} dice Ben. || "Ah. **Thanks**," says Ben.
+«Prego»{matteo} dice Matteo, e sorride. || "You're welcome," says Matteo, and smiles.
+«Ben Carter, giusto?»{matteo} chiede. «Numero quattordici.»{matteo} || "Ben Carter, right?" he asks. "Number fourteen."
+«Sì! Tu sei…»{ben} dice Ben. || "Yes! You are…" says Ben.
+«Matteo. Il fratello di Chiara»{matteo} dice. || "Matteo. Chiara's brother," he says.
+«Fratello! Perfetto»{ben|happy} dice Ben. || "Brother! Perfect," says Ben.
+
+_Primo **problema**: ci sono troppe **parole**._{ben} || *First **problem**: there are too many **words**.*
+_Ma **caffè** è una **parola** facile._{ben} || *But **coffee** is an easy **word**.*
+
+«**Vorrei** un **cappuccino**, **per favore**»{ben} dice Ben. || "**I would like** a **cappuccino**, **please**," says Ben.
+Matteo alza gli occhi al cielo. || Matteo looks up at the sky.
+«Un **cappuccino**? Adesso?»{matteo|surprised} chiede. || "A **cappuccino**? Now?" he asks.
+«Sì. Adesso»{ben} dice Ben. «Con un **cornetto**.»{ben} || "Yes. Now," says Ben. "With a **croissant**."
+
+Matteo appoggia lo straccio e ride. || Matteo puts down the cloth and laughs.
+«Il **cappuccino** è per la mattina»{matteo} dice. || "The **cappuccino** is for the morning," says Matteo.
+«La mattina?»{ben} chiede Ben. || "The morning?" asks Ben.
+«Sì. Colazione»{matteo} dice. «Latte, caffè, **cappuccino**.»{matteo} || "Yes. Breakfast," he says. "Milk, coffee, **cappuccino**."
+«E adesso?»{ben} chiede. || "And now?" asks Ben.
+«Adesso un **caffè**. Un **caffè** piccolo»{matteo} dice. || "Now a **caffè**. A small **caffè**," says Matteo.
+«E il **cornetto**?»{ben} chiede. || "And the **cornetto**?" asks Ben.
+«Il **cornetto** va bene sempre»{matteo} dice. «Con il **caffè**, però.»{matteo} || "The **cornetto** is fine always," says Matteo. "With the **caffè**, though."
+«E la **brioche**?»{ben} chiede. «Vedo **brioche** in vetrina.»{ben} || "And the **brioche**?" asks Ben. "I see **brioche** in the window."
+«**Brioche** è la stessa cosa»{matteo} dice. «Al nord diciamo **brioche**.»{matteo} || "**Brioche** is the same thing," says Matteo. "In the north we say **brioche**."
+«Nord, sud, **cornetto**, **brioche**»{ben} dice Ben. «Va bene.»{ben} || "North, south, **cornetto**, **brioche**," says Ben. "Okay."
+
+Ben apre il **quaderno** giallo sul bancone. || Ben opens the yellow **notebook** on the counter.
+«**Cornetto** uguale **brioche**»{ben} dice, e scrive. || "**Cornetto** equals **brioche**," he says, and writes.
+Accanto scrive **il numero** cinque. || Next to it he writes **number** five.
+_Sono a cinque **parole**. Ottimo._{ben} || *I'm at five **words**. Great.*
+
+«Allora, un **caffè**?»{matteo} chiede. || "So, a **caffè**?" asks Matteo.
+«Sì. Con **latte**»{ben} dice Ben. || "Yes. With **latte**," says Ben.
+Matteo si ferma. || Matteo stops.
+«Con **latte**?»{matteo|careful} chiede. || "With **latte**?" he asks.
+«Sì. **Latte**»{ben} dice Ben, sicuro. || "Yes. **Latte**," says Ben, sure.
+Matteo prende un **bicchiere** piccolo. || Matteo takes a small **glass**.
+Lo riempie di **latte** freddo. || He fills it with cold **latte**.
+Lo mette davanti a Ben. || He puts it in front of Ben.
+«Ecco il **latte**»{matteo} dice. || "Here's the **latte**," he says.
+
+Ben guarda il **bicchiere**. || Ben looks at the **glass**.
+Nel **bicchiere** c'è **latte** bianco e freddo. || In the **glass** there's white, cold **latte**.
+_Niente **caffè**. Solo **latte**._{ben} || *No **coffee**. Just **latte**.*
+«Il **latte** è **latte**»{ben} dice Ben. || "**Latte** is **latte**," says Ben.
+«Certo. Il **latte** è il **latte**»{matteo} dice. «Il **caffè** è **caffè**.»{matteo} || "Of course. **Latte** is **latte**," says Matteo. "**Caffè** is **caffè**."
+«Ma io voglio **latte** con **caffè**»{ben} dice Ben. || "But I want **latte** with **caffè**," says Ben.
+«Allora un **caffè** macchiato»{matteo} dice. «**Caffè** e un po' di **latte**.»{matteo} || "Then a **caffè** macchiato," says Matteo. "**Caffè** and a little **latte**."
+«Macchiato»{ben|slow} ripete Ben. «Macchiato. **Numero** sei.»{ben|slow} || "Macchiato," repeats Ben. "Macchiato. **Number** six."
+Scrive la **parola** nel **quaderno**. || He writes the **word** in the **notebook**.
+
+Matteo prepara il **caffè**. || Matteo makes the **caffè**.
+La macchina fa un rumore forte. || The machine makes a loud noise.
+«Ecco»{matteo} dice, e mette la **tazza** sul bancone. || "Here," he says, and puts the **cup** on the counter.
+La **tazza** è piccola. || The **cup** is small.
+Dentro c'è solo un dito di **caffè**. || Inside there's only a finger of **caffè**.
+«Bene»{ben|uncertain} dice Ben. «Ma è piccola.»{ben|uncertain} || "Okay," says Ben. "But it's small."
+«In Italia il **caffè** è piccolo»{matteo} dice. «E forte.»{matteo} || "In Italy the **caffè** is small," says Matteo. "And strong."
+«In America la **tazza** è grande»{ben} dice. «Come una piscina.»{ben} || "In America the **cup** is big," says Ben. "Like a swimming pool."
+Matteo ride di gusto. || Matteo laughs heartily.
+«Piscina! Bellissimo»{matteo|laughing} dice. || "Swimming pool! Wonderful," he says.
+
+Ben prende il **caffè** e poi cerca un **tavolo**. || Ben takes the **caffè** and then looks for a **table**.
+C'è un **tavolo** vicino alla finestra. || There's a **table** near the window.
+Ben va al **tavolo** e si siede. || Ben goes to the **table** and sits down.
+Dal **tavolo** guarda la strada. || From the **table** he looks at the street.
+_Molto bello. Come a Chicago._{ben} || *Very nice. Like in Chicago.*
+_Un **caffè** al **tavolo**, giornale, calma._{ben} || *A **caffè** at the **table**, newspaper, calm.*
+_Ma non ho il giornale._{ben} || *But I don't have a newspaper.*
+
+Dopo un minuto, Matteo viene al **tavolo**. || After a minute, Matteo comes to the **table**.
+«Tutto bene?»{matteo} chiede. || "Everything okay?" he asks.
+«Sì. Perfetto»{ben} dice Ben. || "Yes. Perfect," says Ben.
+«Il **caffè** è buono?»{matteo} chiede. || "Is the **caffè** good?" he asks.
+«Buonissimo. **Grazie**»{ben} dice Ben. || "Very good. **Thanks**," says Ben.
+«Prego»{matteo} dice Matteo. || "You're welcome," says Matteo.
+
+Poi c'è silenzio. || Then there's silence.
+Matteo resta lì. || Matteo stays there.
+Ben aspetta. || Ben waits.
+Niente. || Nothing.
+«Un **problema**?»{matteo|curious} chiede Matteo. || "A **problem**?" asks Matteo.
+«No… ma il **conto**?»{ben} chiede. «**Vorrei** pagare.»{ben} || "No… but the **conto**?" asks Ben. "**I would like** to pay."
+«Ah!»{matteo|smiling} dice Matteo. «Il **conto** dopo.»{matteo|smiling} || "Ah!" says Matteo. "The **conto** after."
+«Dopo?»{ben} chiede. || "After?" asks Ben.
+«In Italia prima bevi, poi paghi»{matteo} dice. || "In Italy first you drink, then you pay," says Matteo.
+«Prima mangi, poi paghi»{matteo} aggiunge. || "First you eat, then you pay," he adds.
+«Oh»{ben|surprised} dice Ben. «In America… prima paghi.»{ben|surprised} || "Oh," says Ben. "In America… first you pay."
+«Qui no»{matteo} dice. «Qui il **tavolo** è tuo.»{matteo} || "Not here," says Matteo. "Here the **table** is yours."
+
+_Senza soldi al **tavolo**. **Problema** grosso._{ben} || *Without money at the **table**. A big **problem**.*
+_Ma un **problema** gentile._{ben} || *But a kind **problem**.*
+
+«Allora, alla fine, **il conto**, **per favore**»{ben} dice Ben. || "So, at the end, **the bill**, **please**," says Ben.
+Matteo annuisce. || Matteo nods.
+«Due euro e cinquanta»{matteo} dice. || "Two euros fifty," he says.
+«**Grazie**»{ben} dice Ben, e cerca i soldi. || "**Thanks**," says Ben, and looks for the money.
+Dà una moneta a Matteo. || He gives Matteo a coin.
+Matteo prende lo **scontrino** e lo mette sul **tavolo**. || Matteo takes the **scontrino** and puts it on the **table**.
+Ben guarda il foglietto. || Ben looks at the little paper.
+«Che cos'è?»{ben} chiede. || "What is it?" asks Ben.
+«Lo **scontrino**»{matteo} dice. «La ricevuta del **conto**.»{matteo} || "The **scontrino**," says Matteo. "The receipt of the **bill**."
+«**Scontrino**»{ben|slow} ripete Ben. «**Numero** sette.»{ben|slow} || "**Scontrino**," repeats Ben. "**Number** seven."
+Scrive la **parola** nel **quaderno**. || He writes the **word** in the **notebook**.
+«**Conto**: soldi. **Scontrino**: carta»{ben} dice Ben. || "**Conto**: money. **Scontrino**: paper," says Ben.
+«Esatto»{matteo|impressed} dice Matteo. || "Exactly," says Matteo.
+
+Ben prende la **tazza** vuota. || Ben takes the empty **cup**.
+Guarda la **tazza** piccola e sorride. || He looks at the small **cup** and smiles.
+«Posso pagare anche la **tazza**?»{ben} chiede. «Come ricordo.»{ben} || "Can I pay for the **cup** too?" he asks. "As a souvenir."
+Matteo ride forte. || Matteo laughs loudly.
+«No! La **tazza** è nostra»{matteo} dice. || "No! The **cup** is ours," he says.
+«**Vorrei** una **tazza** così a casa»{ben} dice Ben. || "**I would like** a **cup** like this at home," says Ben.
+«Il **latte** grande? La **tazza** piscina?»{matteo|dry} chiede. || "The big **latte**? The swimming-pool **cup**?" asks Matteo.
+«Esatto!»{ben|happy} dice Ben. || "Exactly!" says Ben.
+
+_Un **caffè**, un **cornetto**, una **brioche**._{matteo} || *A **caffè**, a **cornetto**, a **brioche**.*
+_E una **tazza** piscina._{matteo} || *And a swimming-pool **cup**.*
+_Un cliente nuovo ogni giorno. Il bar è vivo._{matteo} || *A new customer every day. The bar is alive.*
+_Ma questo americano è simpatico._{matteo} || *But this American is nice.*
+
+Ben si alza dal **tavolo**. || Ben gets up from the **table**.
+«Domani torno»{ben} dice. «Con **il numero** otto.»{ben} || "I'll come back tomorrow," he says. "With **number** eight."
+«Numero otto?»{matteo} chiede. || "Number eight?" asks Matteo.
+«Una **parola** nuova al giorno»{ben} dice. || "A new **word** a day," says Ben.
+«Va bene. **Grazie**, americano»{matteo|smiling} dice Matteo. || "Okay. **Thanks**, American," says Matteo.
+«**Grazie** a te. **Per favore**, un **caffè** domani, con **latte** piccolo»{ben} dice Ben. || "**Thanks** to you. **Please**, a **caffè** tomorrow, with a little **latte**," says Ben.
+«**Caffè** macchiato»{matteo} dice. «Lo sai già.»{matteo} || "**Caffè** macchiato," says Matteo. "You already know it."
+«Lo so già!»{ben|proud} dice Ben. || "I already know it!" says Ben.
+
+Ben esce dal bar con il **quaderno** in mano. || Ben leaves the bar with the **notebook** in his hand.
+Fuori il cielo è rosa. || Outside the sky is pink.
+_Otto **parole**. Un **caffè**, un **cornetto**, un **bicchiere** di **latte**._{ben} || *Eight **words**. A **caffè**, a **cornetto**, a **glass** of **latte**.*
+_E lo scontrino. Giallo come il **quaderno**._{ben} || *And the receipt. Yellow like the **notebook**.*
+
+# SCENE via | domenica mattina | ben, franco, leo
+È **domenica** mattina. || It's **Sunday** morning.
+In Via dei Tigli c'è silenzio. || On Via dei Tigli there's silence.
+Le finestre sono aperte. || The windows are open.
+C'è odore di **pane** e di **caffè**. || There's the smell of **bread** and **coffee**.
+
+Davanti al numero nove c'è Franco. || In front of number nine there's Franco.
+Franco è in giacca, con un sacchetto. || Franco is in his jacket, with a bag.
+Nel sacchetto c'è **pane** fresco. || In the bag there's fresh **bread**.
+Aspetta, tranquillo, come ogni **domenica**. || He waits, calm, like every **Sunday**.
+
+Leo arriva correndo dal numero quattordici. || Leo comes running from number fourteen.
+«Buongiorno, nonno!»{leo|happy} dice Leo. || "Good morning, grandpa!" says Leo.
+«Buongiorno, Leo»{franco|warm} dice Franco. || "Good morning, Leo," says Franco.
+Franco apre il sacchetto e mostra il **pane**. || Franco opens the bag and shows the **bread**.
+«**Pane** caldo. Per il **pranzo**»{franco} dice. || "Warm **bread**. For the **lunch**," he says.
+«Il **pane** è il mio preferito»{leo} dice Leo. || "The **bread** is my favourite," says Leo.
+«Il **pane** è di tutti»{franco} dice. «È la base.»{franco} || "The **bread** is everyone's," says Franco. "It's the base."
+
+Dietro Leo arriva Ben. || Behind Leo comes Ben.
+Ben ha il **quaderno** giallo in mano. || Ben has the yellow **notebook** in his hand.
+«Buongiorno!»{ben|too loud} dice Ben. || "Good morning!" says Ben.
+Franco lo guarda per un secondo. || Franco looks at him for a second.
+«Buongiorno»{franco|cold} dice Franco, piano. || "Good morning," says Franco, quietly.
+
+«Il **pranzo** è a mezzogiorno?»{ben} chiede Ben. || "Is the **lunch** at noon?" asks Ben.
+«**Dodici e mezza**»{franco} dice Franco. || "**Twelve thirty**," says Franco.
+Ben apre il **quaderno** e scrive. || Ben opens the **notebook** and writes.
+«Dodici e mezza»{ben|slow} ripete Ben. «**Numero** dieci.»{ben|slow} || "Twelve thirty," repeats Ben. "**Number** ten."
+«**Numero** dieci?»{franco|confused} chiede Franco. || "**Number** ten?" asks Franco.
+«Il mio **quaderno**»{ben} dice Ben. «Una **parola** nuova ogni giorno.»{ben} || "My **notebook**," says Ben. "A new **word** every day."
+
+Franco guarda il **quaderno** di Ben. || Franco looks at Ben's **notebook**.
+Guarda le **parole** scritte in giallo. || He looks at the **words** written in yellow.
+«Mah!»{franco} dice Franco. «Che **numero**!»{franco} || "Mah!" says Franco. "What a **number**!"
+«Dieci **parole** in una settimana»{ben|proud} dice Ben. || "Ten **words** in one week," says Ben.
+«Una **parola** è una **parola**»{franco|dry} dice Franco. «Non un **numero**.»{franco|dry} || "A **word** is a **word**," says Franco. "Not a **number**."
+«Ma io conto le **parole**»{ben} dice Ben. || "But I count the **words**," says Ben.
+«Tu conti!»{franco|sighing} dice Franco. «Buon per te.»{franco|sighing} || "You count!" says Franco. "Good for you."
+
+Poi Franco guarda Ben, dritto negli occhi. || Then Franco looks at Ben, straight in the eyes.
+«L'**americano** conta le **parole**»{franco|dry} dice. || "The **American** counts the **words**," he says.
+«Sì!»{ben|happy} dice Ben, senza pensare. «**Grazie**!»{ben|happy} || "Yes!" says Ben, without thinking. "**Thanks**!"
+Franco si ferma. || Franco stops.
+«**Grazie**?»{franco|confused} chiede. || "**Thanks**?" he asks.
+«Sì, **grazie**»{ben} dice Ben, e sorride. || "Yes, **thanks**," says Ben, and smiles.
+«Perché **grazie**?»{franco} chiede. || "Why **thanks**?" asks Franco.
+«Per il **caffè**?»{ben|uncertain} dice Ben. «Tu dici **americano**. Come il **caffè**!»{ben} || "For the **coffee**?" says Ben. "You say **American**. Like the **coffee**!"
+_Il **caffè** americano! Adesso capisco._{ben} || *The American **coffee**! Now I understand.*
+_Che bella **parola**. **Grazie**._{ben} || *What a nice **word**. **Thanks**.*
+
+Franco non capisce niente. || Franco doesn't understand anything.
+«Il **caffè** americano?»{franco|slow} dice Franco. || "American **coffee**?" says Franco.
+«Sì! **Acqua** e **caffè**!»{ben} dice Ben. «Un **numero** grande!»{ben} || "Yes! **Water** and **coffee**!" says Ben. "A big **number**!"
+Franco lo guarda come si guarda un tram in ritardo. || Franco looks at him the way you look at a late tram.
+«Bah!»{franco} dice Franco. «Andiamo.»{franco} || "Bah!" says Franco. "Let's go."
+
+Leo guarda i due e non dice niente. || Leo watches the two of them and says nothing.
+_Capisco io. Lui dice «l'**americano**», e non è il **caffè**._{leo} || *I understand. He says 'the **American**', and it's not the **coffee**.*
+_Ma una **parola** è solo una **parola**._{leo} || *But a **word** is only a **word**.*
+_Papà è felice. Il nonno no. Va bene così._{leo} || *Dad is happy. Grandpa isn't. It's fine like that.*
+
+Franco prende il sacchetto del **pane**. || Franco picks up the bag of **bread**.
+«**Pranzo** alle dodici e mezza»{franco} dice, senza guardare Ben. || "**Lunch** at twelve thirty," he says, without looking at Ben.
+«Porto il **quaderno**»{ben} dice Ben. || "I'm bringing the **notebook**," says Ben.
+«Porta la fame»{franco|dry} dice Franco. || "Bring your hunger," says Franco.
+E entra in casa. || And he goes into the house.
+La porta si chiude piano. || The door closes quietly.
+
+Leo guarda Ben. || Leo looks at Ben.
+«Papà, il **pranzo** è alle dodici e mezza»{leo} dice Leo. || "Dad, the **lunch** is at twelve thirty," says Leo.
+«Lo so. **Numero** dieci»{ben} dice Ben. || "I know. **Number** ten," says Ben.
+«Il **numero** non è il **pranzo**»{leo} dice Leo. || "The **number** isn't the **lunch**," says Leo.
+«Ma è utile»{ben} dice Ben. || "But it's useful," says Ben.
+«Va bene»{leo|smiling} dice Leo. «Ogni **domenica** è così.»{leo|smiling} || "Okay," says Leo. "Every **Sunday** is like this."
+«Con il **caffè**?»{ben} chiede. || "With the **coffee**?" asks Ben.
+«Con il **caffè**»{leo} dice Leo. «E il **pane**.»{leo} || "With the **coffee**," says Leo. "And the **bread**."
+«Allora è una bella **domenica**»{ben} dice Ben. || "Then it's a nice **Sunday**," says Ben.
+Leo ride e prende la mano di Ben. || Leo laughs and takes Ben's hand.
+
+# SCENE casa-franco | domenica pomeriggio | ben, chiara, franco, leo, emma
+La casa di Franco è vecchia e calda. || Franco's house is old and warm.
+C'è odore di sugo e di **pane**. || There's the smell of sauce and **bread**.
+In sala c'è un **tavolo** grande, di legno. || In the living room there's a big wooden **table**.
+Sul **tavolo** ci sono **piatti**, **bicchieri** e **pane**. || On the **table** there are **plates**, **glasses** and **bread**.
+C'è una bottiglia di **vino** e una caraffa di **acqua**. || There's a bottle of **wine** and a jug of **water**.
+Ogni persona ha il suo **piatto** e il suo **bicchiere**. || Every person has their own **plate** and their own **glass**.
+_Dodici **bicchieri**. Dodici! Nessuno beve dal **bicchiere** di un altro._{ben} || *Twelve **glasses**. Twelve! Nobody drinks from anyone else's **glass**.*
+
+Franco è a capotavola, con il cucchiaio in mano. || Franco is at the head of the table, with a spoon in his hand.
+«Emma!»{franco|calling} chiama Franco. «A **tavolo**!»{franco|calling} || "Emma!" calls Franco. "To the **table**!"
+Emma arriva dalla cucina con il telefono in tasca. || Emma comes from the kitchen with her phone in her pocket.
+«Eccomi»{emma|flat} dice Emma, e si siede. || "Here I am," says Emma, and sits down.
+«Come stai?»{ben} chiede Ben. || "How are you?" asks Ben.
+«Bene»{emma} dice Emma. || "Fine," says Emma.
+Lei guarda il **tavolo** e non dice altro. || She looks at the **table** and says nothing else.
+_Ciao, Emma. Tre **parole** al giorno. Come me, ma al contrario._{ben} || *Hi, Emma. Three **words** a day. Like me, but the other way round.*
+
+Chiara versa l'**acqua** nei **bicchieri**. || Chiara pours the **water** into the **glasses**.
+«Ben, tu sei qui»{chiara} dice. || "Ben, you sit here," she says.
+«**Grazie**»{ben} dice Ben. || "**Thanks**," says Ben.
+Leo corre al suo posto, accanto a Franco. || Leo runs to his place, next to Franco.
+«Sono pronto!»{leo|excited} dice Leo. || "I'm ready!" says Leo.
+«Lo so»{franco} dice Franco. «Sempre pronto per la **pasta**.»{franco} || "I know," says Franco. "Always ready for the **pasta**."
+
+Franco porta una zuppiera enorme. || Franco brings an enormous tureen.
+Dentro c'è **pasta** con il sugo rosso. || Inside there's **pasta** with red sauce.
+«Ecco la **pasta**»{franco} dice Franco. || "Here's the **pasta**," says Franco.
+«Profumo buonissimo»{ben} dice Ben. || "Wonderful smell," says Ben.
+«La **pasta** non aspetta»{franco} dice. «E neanche io.»{franco} || "The **pasta** doesn't wait," he says. "And neither do I."
+«**Per favore**, sì, la **pasta**»{ben} dice Ben. || "**Please**, yes, the **pasta**," says Ben.
+Franco riempie i **piatti**. || Franco fills the **plates**.
+Sono **piatti** pieni, senza dubbio. || They're full **plates**, no doubt.
+
+Ben mangia la **pasta** con gusto. || Ben eats the **pasta** with gusto.
+È **pasta** al pomodoro, semplice e perfetta. || It's tomato **pasta**, simple and perfect.
+_Questa è la cena. La **pasta** è la cena._{ben} || *This is dinner. The **pasta** is dinner.*
+_In America la **pasta** è il **piatto** principale._{ben} || *In America the **pasta** is the main **dish**.*
+_Una grande ciotola di **pasta**. E dopo niente._{ben} || *A big bowl of **pasta**. And after, nothing.*
+_Ma qui c'è il **pane** e il **vino**… Curioso._{ben} || *But here there's **bread** and **wine**… Curious.*
+
+Ben finisce tutto il **piatto**. || Ben finishes his whole **plate**.
+Franco guarda il **piatto** di Ben, vuoto. || Franco looks at Ben's **plate**, empty.
+«Bravo»{franco|dry} dice Franco. «Buono?»{franco|dry} || "Good," says Franco. "Tasty?"
+«Buonissimo!»{ben|happy} dice Ben. «La **pasta** è perfetta.»{ben|happy} || "Very tasty!" says Ben. "The **pasta** is perfect."
+«Bene. Allora adesso la **carne**»{franco} dice Franco. || "Good. So now the **meat**," says Franco.
+
+Ben si ferma con la forchetta in aria. || Ben stops with his fork in the air.
+«La **carne**?»{ben|surprised} chiede. || "The **meat**?" he asks.
+Franco va in cucina e torna. || Franco goes into the kitchen and comes back.
+Nel **piatto** grande c'è **carne** con le patate. || On the big **plate** there's **meat** with potatoes.
+La mette al centro del **tavolo**. || He puts it in the middle of the **table**.
+_C'è un secondo **piatto**. Un **piatto** nuovo._{ben} || *There's a second **dish**. A new **dish**.*
+_Dunque la **pasta** non è tutto._{ben} || *So the **pasta** isn't everything.*
+
+«La **pasta** è la **pasta**»{ben|slow} dice Ben. || "The **pasta** is the **pasta**," says Ben.
+«E la **carne** è la **carne**»{franco} dice Franco. || "And the **meat** is the **meat**," says Franco.
+«Ma in America…»{ben} comincia Ben. || "But in America…" Ben begins.
+«In America mangiate ogni cosa insieme»{chiara} dice Chiara. || "In America you eat everything together," says Chiara.
+«Una cosa sola, grande»{ben} dice Ben. || "One thing only, big," says Ben.
+«Qui no»{chiara} dice. «Qui ogni **piatto** ha il suo momento.»{chiara} || "Not here," she says. "Here every **dish** has its own moment."
+«Prima la **pasta**, poi la **carne**»{franco} dice. «Poi **frutta** e **dolce**.»{franco} || "First the **pasta**, then the **meat**," he says. "Then **fruit** and **dessert**."
+«Quattro **piatti**»{ben} dice Ben. «**Numero** uno, due, tre, quattro.»{ben} || "Four **dishes**," says Ben. "**Number** one, two, three, four."
+
+Il **quaderno**: **pasta**, **carne**, **frutta**, **dolce**. || The **notebook**: **pasta**, **meat**, **fruit**, **dessert**.
+Un menù e un **pranzo**. Tutto qui. || A menu and a **lunch**. That's it.
+
+Franco mette la **carne** nel **piatto** di Ben. || Franco puts the **meat** on Ben's **plate**.
+«**Per favore**»{ben} dice Ben. «**Grazie**. Ancora **grazie**.»{ben} || "**Please**," says Ben. "**Thanks**. Thanks again."
+«Troppi **grazie**»{franco|sighing} dice Franco. «Mangia.»{franco|sighing} || "Too many **thanks**," says Franco. "Eat."
+«**Vorrei** anche il **pane**»{ben} dice Ben. || "**I would like** some **bread** too," says Ben.
+«Il **pane** è per il sugo»{franco} dice. «Ma va bene.»{franco} || "The **bread** is for the sauce," says Franco. "But okay."
+Ben prende **pane** e lo mette nel **piatto**. || Ben takes **bread** and puts it on his **plate**.
+«Anche io!»{leo} dice Leo. || "Me too!" says Leo.
+«Tu no»{franco} dice Franco. «Per te due fette, e basta.»{franco} || "Not you," says Franco. "Two slices for you, and that's it."
+«Per **favore**!»{leo|pleading} dice Leo. || "**Please**!" says Leo.
+«Va bene. Una»{franco} dice Franco. || "Okay. One," says Franco.
+
+Chiara versa il **vino** nei **bicchieri** grandi. || Chiara pours the **wine** into the big **glasses**.
+A Ben dà un **bicchiere** di **vino** rosso. || She gives Ben a **glass** of red **wine**.
+«**Grazie**»{ben} dice Ben. || "**Thanks**," says Ben.
+
+Leo guarda i **bicchieri** con curiosità. || Leo looks at the **glasses** with curiosity.
+«Anche io voglio un **bicchiere**»{leo} dice Leo. || "I want a **glass** too," says Leo.
+«Il **vino** non è per i bambini»{franco} dice Franco. || "The **wine** isn't for children," says Franco.
+«Perché?»{leo} chiede. || "Why?" asks Leo.
+«Perché è **vino**»{franco|dry} dice Franco. || "Because it's **wine**," says Franco.
+«E cos'è il **vino**?»{leo} chiede. || "And what is **wine**?" asks Leo.
+«Una cosa per grandi»{franco} dice. «Bevi l'**acqua**.»{franco} || "A thing for grown-ups," says Franco. "Drink your **water**."
+«Ma l'**acqua** è noiosa»{leo|sighing} dice Leo. || "But **water** is boring," says Leo.
+«Anche il **vino**, a volte»{franco} dice Franco. || "So is **wine**, sometimes," says Franco.
+
+_Il **problema** non è il **vino**. Il **problema** è il bicchiere di Leo._{ben} || *The **problem** isn't the **wine**. The **problem** is Leo's glass.*
+_E io ho già un **bicchiere** grande. Due, forse._{ben} || *And I already have a big **glass**. Two, maybe.*
+_Ma non dico niente. Non ancora._{ben} || *But I'm not saying anything. Not yet.*
+
+Emma guarda la scena e sospira. || Emma watches the scene and sighs.
+«Che **ansia**»{emma|quiet} dice Emma, piano. || "So stressful," says Emma, quietly.
+«Emma»{chiara} dice Chiara. «Aiuta nonno con la **frutta**.»{chiara} || "Emma," says Chiara. "Help grandpa with the **fruit**."
+«Ok»{emma} dice Emma. || "Ok," says Emma.
+Si alza, senza entusiasmo, e porta la fruttiera. || She gets up, without enthusiasm, and brings the fruit bowl.
+Sul **tavolo** arrivano mele, uva e pere. || On the **table** come apples, grapes and pears.
+«La **frutta**!»{leo|happy} dice Leo. || "The **fruit**!" says Leo.
+«**Frutta** fresca»{franco} dice Franco. «È importante.»{franco} || "Fresh **fruit**," says Franco. "It's important."
+«Anche io **vorrei** la **frutta**»{ben} dice Ben. «**Per favore**.»{ben} || "I'd also like the **frutta**," says Ben. "**Please**."
+«Prendi»{franco} dice Franco. «Non serve chiedere.»{franco} || "Take some," says Franco. "No need to ask."
+«Ma io chiedo sempre»{ben} dice Ben. «Le **parole** sono gentili.»{ben} || "But I always ask," says Ben. "**Words** are kind."
+«Troppe **parole**, in America»{franco|dry} dice Franco. || "Too many **words**, in America," says Franco.
+
+Ben scrive sotto il **tavolo**, piano, nel **quaderno**. || Ben writes under the **table**, quietly, in his **notebook**.
+Scrive **frutta** con il **numero** tre, poi **dolce** con il **numero** quattro. || He writes **fruit** with **number** three, then **dessert** with **number** four.
+_Il **numero** quattro è il migliore. Speriamo._{ben} || ***Number** four is the best one. Let's hope.*
+
+Franco esce e torna con una torta. || Franco goes out and comes back with a cake.
+La torta è gialla, con la crema. || The cake is yellow, with cream.
+«Il **dolce**»{franco|proud} dice Franco. «Torta di mia moglie.»{franco} || "**Dessert**," says Franco. "My wife's cake."
+«Profuma di limone»{chiara|soft} dice Chiara. || "It smells of lemon," says Chiara.
+«Sì»{franco} dice Franco. «Sempre limone.»{franco} || "Yes," says Franco. "Always lemon."
+
+Ben mangia la **pasta**, la **carne**, la **frutta** e il **dolce**. || Ben eats the **pasta**, the **meat**, the **fruit** and the **dessert**.
+Quattro **piatti**, quattro **parole**, un **pranzo** intero. || Four **dishes**, four **words**, a whole **lunch**.
+Alla fine si appoggia alla sedia. || At the end he leans back in his chair.
+«Che **pranzo**!»{ben|happy} dice Ben. || "What a **lunch**!" says Ben.
+«**Domenica**»{franco} dice Franco. «È così.»{franco} || "**Sunday**," says Franco. "That's how it is."
+«Ogni **domenica**?»{ben} chiede. || "Every **Sunday**?" asks Ben.
+«Ogni **domenica**»{franco} dice. || "Every **Sunday**," says Franco.
+
+Franco guarda Ben per un momento lungo. || Franco looks at Ben for a long moment.
+Guarda i **piatti** vuoti e il **bicchiere** vuoto. || He looks at the empty **plates** and the empty **glass**.
+«L'**americano** mangia bene»{franco|slow} dice Franco. || "The **American** eats well," says Franco.
+Chiara alza la testa di colpo. || Chiara jerks her head up.
+«Papà!»{chiara|surprised} dice Chiara. || "Dad!" says Chiara.
+«È un fatto»{franco} dice Franco. «Non un complimento.»{franco} || "It's a fact," says Franco. "Not a compliment."
+«Per me è un complimento»{ben|proud} dice Ben. «**Grazie**!»{ben|proud} || "For me it's a compliment," says Ben. "**Thanks**!"
+«Ancora **grazie**»{franco|sighing} dice Franco. «**Numero** mille.»{franco|sighing} || "**Thanks** again," says Franco. "**Number** a thousand."
+Ben scrive nel **quaderno** una **parola** nuova. || Ben writes a new **word** in his **notebook**.
+La **parola** nuova è l'**americano**. || The new **word** is the **American**.
+E sotto scrive: mangia bene. || And below he writes: eats well.
+
+# SCENE casa-franco | domenica dopo pranzo | ben, franco, leo
+Il **pranzo** è finito. || The **lunch** is over.
+Sul **tavolo** ci sono ancora **pane**, **vino** e **bicchieri**. || On the **table** there's still **bread**, **wine** and **glasses**.
+I **piatti** sono vuoti. || The **plates** are empty.
+La **frutta** è finita, il **dolce** è finito. || The **frutta** is gone, the **dolce** is gone.
+Resta solo il profumo di limone. || Only the smell of lemon remains.
+
+Franco va in cucina. || Franco goes into the kitchen.
+Torna con una macchinetta piccola e quattro **tazze**. || He comes back with a small machine and four **cups**.
+Le **tazze** sono piccole, bianche, con un fiore blu. || The **cups** are small, white, with a blue flower.
+«**Caffè**?»{franco} chiede Franco. || "**Coffee**?" asks Franco.
+«Sì, **grazie**»{ben} dice Ben. || "Yes, **grazie**," says Ben.
+«**Grazie**»{leo} dice Leo. || "**Grazie**," says Leo.
+
+La macchinetta fa un rumore di tuono. || The little machine makes a thunderous noise.
+Poi silenzio, poi di nuovo rumore. || Then silence, then noise again.
+Franco riempie le **tazze** una per una. || Franco fills the **cups** one by one.
+Nel **bicchiere** no, nelle **tazze** sì: il **caffè** va nella **tazza**. || Not in the **glass**, in the **cups**: the **caffè** goes in the **tazza**.
+_Caffè nella **tazza** piccola. Sempre._{ben} || *Coffee in the small **cup**. Always.*
+_Ieri una **tazza** grande come una piscina._{ben} || *Yesterday a **cup** big as a swimming pool.*
+_Oggi una **tazza** piccola come un ditale._{ben} || *Today a **cup** small as a thimble.*
+_Qual è il **problema**?_{ben} || *What's the **problem**?*
+_Nessun **problema**. Va bene così._{ben} || *No **problem**. It's fine like this.*
+
+Ben prende la sua **tazza** con due mani. || Ben takes his **cup** with both hands.
+È calda e piccola. || It's hot and small.
+«In America la **tazza** è grande»{ben} dice Ben. || "In America the **cup** is big," says Ben.
+«Lo so»{franco} dice Franco. || "I know," says Franco.
+«La **tazza** grande è per l'**acqua**»{franco} dice. «Non per il **caffè**.»{franco} || "The big **cup** is for **water**," he says. "Not for **caffè**."
+«E il **caffè** americano?»{ben} chiede. || "And American **caffè**?" asks Ben.
+«**Acqua** nera»{franco|dry} dice Franco. || "Black **water**," says Franco.
+«Con **latte**!»{ben} dice Ben. || "With **latte**!" says Ben.
+«Mah»{franco} dice Franco. || "Mah," says Franco.
+
+Leo beve il **caffè** con la faccia seria. || Leo drinks the **caffè** with a serious face.
+Poi tossisce. || Then he coughs.
+«Forte!»{leo|coughing} dice Leo. || "Strong!" says Leo.
+«Il **caffè** è **caffè**»{franco} dice Franco. || "**Caffè** is **caffè**," says Franco.
+«Per me è **caffè** e basta»{leo} dice Leo. || "For me it's **caffè** and that's it," says Leo.
+
+Franco guarda il **tavolo**. || Franco looks at the **table**.
+Guarda il **piatto** vuoto di Ben e il **piatto** vuoto di Leo. || He looks at Ben's empty **plate** and Leo's empty **plate**.
+Guarda i **bicchieri** vuoti accanto ai **piatti**. || He looks at the empty **glasses** next to the **plates**.
+_Domenica. Sempre **domenica**._{franco} || *Sunday. Always **Sunday**.*
+_La **domenica** è lunga senza Anna._{franco} || ***Sunday** is long without Anna.*
+_La **pasta**, la **carne**, la **frutta**, il **dolce**. Tutto suo._{franco} || *The **pasta**, the **meat**, the **fruit**, the **dessert**. All hers.*
+_Ma oggi il **piatto** è vuoto e il **tavolo** è pieno._{franco} || *But today the **plate** is empty and the **table** is full.*
+_Questo è buono. Questo è buono così._{franco} || *That's good. That's good like this.*
+
+Chiara porta via i **piatti**, piano. || Chiara takes away the **plates**, quietly.
+Emma prende i **bicchieri** e li mette in cucina. || Emma takes the **glasses** and puts them in the kitchen.
+_Tre ore a **tavolo**. Tre ore!_{emma} || *Three hours at the **table**. Three hours!*
+_Ma il nonno ride. Non lo vedo spesso ridere._{emma} || *But grandpa's laughing. I don't often see him laugh.*
+_Mio padre è strano. Però oggi funziona._{emma} || *My dad is strange. But today it works.*
+
+Ben apre il **quaderno** sul **tavolo**. || Ben opens the **notebook** on the **table**.
+«Ascoltate»{ben|proud} dice Ben. «Le **parole** del **pranzo**.»{ben|proud} || "Listen," says Ben. "The **words** of the **lunch**."
+«**Caffè**»{ben} dice Ben. || "**Caffè**," says Ben.
+«**Caffè**»{franco} ripete Franco. || "**Caffè**," repeats Franco.
+«**Pasta**»{ben} dice. || "**Pasta**," he says.
+«**Pasta**»{franco} dice Franco. || "**Pasta**," says Franco.
+«**Carne**. **Frutta**. **Dolce**.»{ben} || "**Carne**. **Frutta**. **Dolce**."
+«**Carne**, **frutta**, **dolce**»{franco} dice Franco. || "**Carne**, **frutta**, **dolce**," says Franco.
+«**Vino**. **Pane**. **Acqua**.»{ben} || "**Vino**. **Pane**. **Acqua**."
+Franco annuisce, lentamente. || Franco nods, slowly.
+«Nove **parole**»{ben|happy} dice Ben. «E una **parola** speciale.»{ben|happy} || "Nine **words**," says Ben. "And one special **word**."
+«Quale?»{franco} chiede Franco. || "Which one?" asks Franco.
+«L'**americano**»{ben} dice Ben, piano. || "The **americano**," says Ben, quietly.
+
+Franco si ferma con la **tazza** a metà strada. || Franco stops with his **cup** halfway.
+Poi comincia a ridere. || Then he starts to laugh.
+Ride forte, con la testa indietro. || He laughs loudly, head back.
+«L'**americano**!»{franco|laughing} dice Franco. «Nel **quaderno**!»{franco|laughing} || "The **americano**!" says Franco. "In the **notebook**!"
+«È una **parola** come le altre»{ben} dice Ben. || "It's a **word** like the others," says Ben.
+«No»{franco|laughing} dice Franco. «È meglio.»{franco|laughing} || "No," says Franco. "It's better."
+«Meglio?»{ben} chiede. || "Better?" asks Ben.
+«Meglio»{franco} dice Franco. «Perché è vera.»{franco} || "Better," says Franco. "Because it's true."
+
+Ben scrive nel **quaderno** con la matita. || Ben writes in the **notebook** with his pencil.
+Scrive l'**americano**, poi chiude il **quaderno**. || He writes the **American**, then closes the **notebook**.
+«**Grazie**»{ben} dice Ben. || "**Grazie**," says Ben.
+«Per che cosa?»{franco} chiede. || "For what?" asks Franco.
+«Per il **pranzo**. Per il **caffè**. Per la **tazza** piccola»{ben} dice. || "For the **lunch**. For the **caffè**. For the small **tazza**," he says.
+«La **tazza** è di casa»{franco} dice Franco. «Resta qui.»{franco} || "The **tazza** is the house's," says Franco. "It stays here."
+«Allora torno»{ben|smiling} dice Ben. || "Then I'll come back," says Ben.
+«Mah!»{franco} dice Franco, ma sorride. || "Mah!" says Franco, but he smiles.
+
+# SCENE casa-carter | domenica sera | ben, chiara, emma
+È **domenica** sera, a Via dei Tigli quattordici. || It's **Sunday** evening, on Via dei Tigli number fourteen.
+La casa è in silenzio. || The house is quiet.
+Leo dorme nella sua camera. || Leo is sleeping in his room.
+In cucina restano **pane**, un po' di **vino** e due bicchieri. || In the kitchen there's leftover **bread**, a bit of **wine** and two glasses.
+Sul **tavolo** c'è il **quaderno** giallo di Ben. || On the **table** there's Ben's yellow **notebook**.
+
+Ben apre il **quaderno** e conta le **parole**, una per una. || Ben opens the **notebook** and counts the **words**, one by one.
+«Diciannove»{ben|proud} dice Ben. «**Numero** diciannove.»{ben|proud} || "Nineteen," says Ben. "**Number** nineteen."
+Chiara è al **tavolo** con un bicchiere di **vino**. || Chiara is at the **table** with a glass of **vino**.
+«Diciannove in una settimana?»{chiara} chiede. || "Nineteen in one week?" she asks.
+«Sì. Più di due al giorno»{ben} dice. || "Yes. More than two a day," he says.
+«Non è un **problema**»{chiara|dry} dice Chiara. || "That's not a **problema**," says Chiara.
+«Ma è un buon **numero**»{ben} dice. || "But it's a good **numero**," he says.
+
+Emma entra con il telefono e si siede. || Emma comes in with her phone and sits down.
+«Cosa fai?»{emma|curious} chiede. || "What are you doing?" she asks.
+«Leggo le **parole**»{ben} dice Ben. || "I'm reading the **parole**," says Ben.
+«**Caffè**. **Cornetto**. **Brioche**. **Latte**.»{ben} || "**Caffè**. **Cornetto**. **Brioche**. **Latte**."
+Emma alza la mano. || Emma raises her hand.
+«Aspetta»{emma} dice. «La **brioche** e il **cornetto** sono la stessa cosa.»{emma} || "Wait," she says. "The **brioche** and the **cornetto** are the same thing."
+«Lo so»{ben|proud} dice Ben. «Matteo lo dice.»{ben|proud} || "I know," says Ben. "Matteo says so."
+«Però un **cappuccino** è diverso»{emma} dice. || "But a **cappuccino** is different," says Emma.
+«Diverso?»{ben} chiede. || "Different?" asks Ben.
+«Il **cappuccino** è **caffè** con **latte** e schiuma»{emma} dice. || "The **cappuccino** is **caffè** with **latte** and foam," says Emma.
+«E il **latte** è solo **latte**»{ben} dice Ben. || "And the **latte** is just **latte**," says Ben.
+«Sì. Solo **latte**, nel bicchiere»{emma} dice. «Non è **caffè**.»{emma} || "Yes. Just **latte**, in the glass," says Emma. "It's not **caffè**."
+«Lo so adesso»{ben} dice Ben. || "I know now," says Ben.
+«E non si beve **caffè** con **latte** alle quattro»{emma} dice. || "And you don't drink **caffè** with **latte** at four," says Emma.
+«Perché?»{ben} chiede. || "Why?" asks Ben.
+«È strano. È da turisti»{emma|dry} dice Emma. || "It's strange. It's for tourists," says Emma.
+«Io sono un turista»{ben} dice Ben. «Tecnicamente.»{ben} || "I am a tourist," says Ben. "Technically."
+«Tecnicamente sei mio padre»{emma|flat} dice Emma. || "Technically you're my father," says Emma.
+Chiara ride piano. || Chiara laughs quietly.
+
+Ben mostra il **quaderno**. || Ben shows the **notebook**.
+«Guarda qui»{ben} dice. «**Conto** e **scontrino**.»{ben} || "Look here," he says. "**Conto** and **scontrino**."
+«Il **conto** sono i soldi»{chiara} dice. || "The **conto** is the money," says Chiara.
+«E lo **scontrino** è la carta»{ben} dice. || "And the **scontrino** is the paper," says Ben.
+«Esatto»{chiara} dice. «Il **conto** è quello che paghi, lo **scontrino** è quello che tieni.»{chiara} || "Exactly," she says. "The **conto** is what you pay, the **scontrino** is what you keep."
+«E in America?»{ben} chiede. || "And in America?" asks Ben.
+«In America c'è il receipt»{emma|teasing} dice Emma. || "In America there's the receipt," says Emma.
+«Il receipt è lo **scontrino**»{ben} dice. || "The receipt is the **scontrino**," says Ben.
+«Bravo»{emma|dry} dice Emma. «Una **parola** nuova.»{emma|dry} || "Good," says Emma. "A new **parola**."
+
+Ben chiude il **quaderno** e guarda il **tavolo**. || Ben closes the **notebook** and looks at the **table**.
+Sul **tavolo** resta un pezzo di **pane**. || On the **table** there's a piece of **pane** left.
+«Questo **pane** è buono»{ben} dice. «Nonno fa il **pane**?»{ben} || "This **pane** is good," says Ben. "Does grandpa make the **pane**?"
+«Lo compra»{chiara} dice Chiara. «Dal fornaio in piazza.»{chiara} || "He buys it," says Chiara. "From the baker in the piazza."
+«Ah»{ben} dice Ben. «Il **pane** buono non si fa a casa.»{ben} || "Ah," says Ben. "Good **pane** isn't made at home."
+«Non da noi»{chiara|dry} dice Chiara. || "Not at our house," says Chiara.
+
+Ben guarda il bicchiere di **vino** di Chiara. || Ben looks at Chiara's glass of **vino**.
+«Anche io **vorrei** un po' di **vino**»{ben} dice. || "I'd also like a bit of **vino**," he says.
+«**Per favore**»{chiara|smiling} dice. || "**Please**," she says, smiling.
+«**Per favore**»{ben} dice Ben. «**Grazie**.»{ben} || "**Please**," says Ben. "**Grazie**."
+Chiara gli versa un po' di **vino**. || Chiara pours him a bit of **vino**.
+
+_Un **bicchiere** di **vino** la **domenica** sera. Normale. Italiano._{ben} || *A glass of **vino** on **Sunday** evening. Normal. Italian.*
+_Oggi quattro **piatti**. Quattro._{ben} || *Today four **dishes**. Four.*
+_E domani voglio un **caffè** al bancone._{ben} || *And tomorrow I want a **caffè** at the counter.*
+_Non al **tavolo**. Al bancone, in piedi, come un italiano._{ben} || *Not at the **tavolo**. At the counter, standing, like an Italian.*
+
+«Domani vado al bar»{ben} dice. || "Tomorrow I'm going to the bar," he says.
+«Ancora?»{chiara} chiede. || "Again?" asks Chiara.
+«Ancora. Un **caffè** al bancone»{ben} dice. || "Again. A **caffè** at the counter," says Ben.
+«Il **cappuccino** è la mattina»{emma|smiling} dice Emma. || "The **cappuccino** is for the morning," says Emma.
+«Lo so. **Numero** tre»{ben} dice Ben. || "I know. **Numero** three," says Ben.
+«Diciannove **parole** e già parli come Matteo»{chiara|amused} dice Chiara. || "Nineteen **parole** and you already talk like Matteo," says Chiara.
+«Come l'**americano**»{ben|proud} dice Ben. || "Like the **americano**," says Ben.
+«Come l'**americano**»{chiara} ripete Chiara, piano. || "Like the **americano**," repeats Chiara, quietly.
+Emma sorride, senza dire niente. || Emma smiles, without saying anything.
+_Il **numero** diciannove è un piccolo trionfo._{ben} || *The **number** nineteen is a small triumph.*
+_Domani un altro **caffè**, una **tazza** piccola, una **parola** nuova._{ben} || *Tomorrow another **caffè**, a small **tazza**, a new **parola**.*
+
+# SCENE bar-tigli | lunedì mattina | ben, matteo
+È lunedì mattina e Bar Tigli è pieno di gente. || It's Monday morning and Bar Tigli is full of people.
+Fuori piove piano. || Outside it's raining softly.
+Dentro c'è calore e rumore di **tazze**. || Inside there's warmth and the noise of **cups**.
+Ben entra e non va al **tavolo**. || Ben comes in and doesn't go to the **tavolo**.
+Va al bancone, in piedi, come gli altri. || He goes to the counter, standing, like the others.
+_Al **tavolo** no. Oggi al bancone._{ben} || *Not at the **tavolo**. Today at the counter.*
+
+«Buongiorno, Matteo»{ben|cool} dice Ben. || "Good morning, Matteo," says Ben.
+«Buongiorno, americano»{matteo|smiling} dice Matteo. || "Good morning, American," says Matteo.
+«**Vorrei** un **caffè**, **per favore**»{ben} dice Ben. || "**Vorrei** a **caffè**, **per favore**," says Ben.
+«Subito»{matteo} dice Matteo. || "Right away," says Matteo.
+«E un **cornetto**»{ben} aggiunge. || "And a **cornetto**," Ben adds.
+«Un **cornetto** o una **brioche**?»{matteo} chiede. || "A **cornetto** or a **brioche**?" asks Matteo.
+«**Cornetto**. Siamo al nord»{ben|proud} dice Ben. || "**Cornetto**. We're in the north," says Ben.
+Matteo ride di gusto. || Matteo laughs heartily.
+
+Il **caffè** arriva in una **tazza** piccola. || The **caffè** arrives in a small **cup**.
+Ben lo beve in due sorsi, in piedi. || Ben drinks it in two sips, standing.
+Poi mangia il **cornetto** in tre bocconi. || Then he eats the **cornetto** in three bites.
+«Presto»{matteo|impressed} dice Matteo. «Da manuale.»{matteo|impressed} || "Fast," says Matteo. "Textbook."
+«In piedi è meglio»{ben} dice Ben. || "Standing is better," says Ben.
+«Perché?»{matteo} chiede. || "Why?" asks Matteo.
+«Il **tavolo** è per il **pranzo**»{ben} dice. || "The **tavolo** is for **pranzo**," says Ben.
+«Il bancone è per il **caffè**»{ben} aggiunge. || "The counter is for the **caffè**," Ben adds.
+«Esatto!»{matteo|happy} dice Matteo. || "Exactly!" says Matteo.
+
+Ben finisce e cerca i soldi. || Ben finishes and looks for the money.
+«Il **conto**, **per favore**»{ben} dice. || "The **conto**, **per favore**," says Ben.
+«Un euro e venti»{matteo} dice. || "One euro twenty," says Matteo.
+Ben paga e aspetta. || Ben pays and waits.
+Matteo gli dà lo **scontrino**. || Matteo gives him the **scontrino**.
+«**Grazie**!»{ben|too loud} dice Ben. || "**Grazie**!" says Ben.
+Tiene lo **scontrino** con cura. || He holds the **scontrino** carefully.
+«Anche lo **scontrino** ti piace?»{matteo|amused} chiede. || "You like the **scontrino** too?" asks Matteo.
+«Sì. Carta italiana»{ben} dice Ben. || "Yes. Italian paper," says Ben.
+«Sei italiano ormai»{matteo} dice Matteo. || "You're Italian by now," says Matteo.
+«Ufficiale?»{ben} chiede. || "Official?" asks Ben.
+«Ufficiale»{matteo} dice. || "Official," says Matteo.
+
+Ben apre il **quaderno** sul bancone. || Ben opens the **quaderno** on the counter.
+«Una **parola** nuova»{ben} dice. || "A new **parola**," says Ben.
+«Quale?»{matteo} chiede. || "Which one?" asks Matteo.
+«Bancone»{ben} dice Ben, e scrive. || "Counter," says Ben, and writes.
+«Bravo»{matteo} dice. «Domani ancora?»{matteo} || "Good," says Matteo. "Tomorrow again?"
+«Sì»{ben} dice. «Con un **cappuccino**.»{ben} || "Yes," he says. "With a **cappuccino**."
+Matteo lo guarda. || Matteo looks at him.
+«Ahi! Il **cappuccino** no»{ben|correcting} dice Ben. «Il **cappuccino** è la mattina.»{ben|correcting} || "Ow! Not the **cappuccino**," says Ben. "The **cappuccino** is for the morning."
+«La mattina è mattina»{matteo|dry} dice Matteo. || "Morning is morning," says Matteo.
+«Allora **caffè**»{ben} dice Ben. «Un **caffè**, **per favore**, domani.»{ben} || "Then **caffè**," says Ben. "A **caffè**, **please**, tomorrow."
+«Perfetto»{matteo} dice Matteo. || "Perfect," says Matteo.
+«**Grazie**, Matteo»{ben} dice Ben, e sorride. || "**Grazie**, Matteo," says Ben, and smiles.
+«**Grazie** a te»{matteo} dice Matteo. || "**Grazie** to you," says Matteo.
+_Caffè al bancone ogni mattina. Come un vero cliente._{matteo} || *Caffè at the counter every morning. Like a real customer.*
+_Anzi, come un amico._{matteo} || *In fact, like a friend.*
 
 @grammar
 # Nouns: gender and number
 
 ## What it is
 
-In Italian, every noun is either **masculine** or **feminine**. There is no neuter, and there is no
-"it": a table is *il tavolo*, a cup is *la tazza*. Gender is part of the word, like its spelling, and
-it decides which article and which adjective go with it. The good news: most nouns show their gender
-and their plural in their ending, so learning the ending teaches you a lot at once.
+Every Italian noun has a **gender** – masculine or feminine – and a **number** – singular or plural. Gender is part of the word itself, like its meaning: *tazza* is feminine, *bicchiere* is masculine, and there is no neutral option. You cannot guess gender from what the object is, only from the word's ending, which is why it is best learned together with the article from the very first day: *la tazza*, *il bicchiere*, *lo scontrino*.
+
+The good news is that the ending usually tells you both gender and plural. Most Italian nouns follow three simple families, and only a few very frequent words behave differently. This chapter's story, set in a bar and at a Sunday lunch table, is full of all of them.
 
 ## How it works
 
-### The two big regular groups
+### The three main families
 
-| Singular | Plural | Gender | Example |
+| Singular | Plural | Gender | Examples from the story |
 |---|---|---|---|
-| **-o** | **-i** | masculine | il cappuccino → i cappuccini |
-| **-a** | **-e** | feminine | la tazza → le tazze |
-| **-e** | **-i** | masculine *or* feminine | il bicchiere → i bicchieri; la brioche → le brioche |
+| **-o** | **-i** | masculine | *il piatto → i piatti*, *il bicchiere → i bicchieri*, *lo scontrino → gli scontrini* |
+| **-a** | **-e** | feminine | *la tazza → le tazze*, *la parola → le parole*, *la brioche → le brioche* |
+| **-e** | **-i** | masculine *or* feminine | *il pane → i pani*, *la carne → le carni*, *il dolce → i dolci* |
 
-Nouns in **-e** are the tricky ones: the plural is always **-i**, but the gender only shows in the
-article — *il bicchiere* but *la brioche*, *il caffè* but *la tazza*.
+Nouns in **-e** are the only ones where the ending alone doesn't reveal the gender. You learn them with the article: *il pane* (m), *la carne* (f), *il latte* (m), *la frutta* (f), *il vino* (m), *il pranzo* (m). Notice that **frutta** looks feminine because of the *-a*, but its plural is irregular in everyday use: Italians normally say *la frutta* even when talking about many pieces of fruit.
 
-### Nouns that don't change in the plural
+### Words that don't change, and the famous exceptions
 
-Some very common nouns look the same in the singular and the plural. Learn them one by one:
+- **Accented words don't change:** *il caffè → i caffè*, *la città → le città*. Nothing moves except the article.
+- **Shortened words don't change:** *il bar → i bar*, *la foto → le foto* (a photo), *l'auto → le auto*.
+- **Masculine nouns in -a:** *il problema → i problemi*, *il programma → i programmi*. They are masculine even though they end in *-a*. This is why the chapter's *problema* is always *il problema*, never *la problema*.
+- **Foreign words usually don't change:** *la brioche → le brioche*, *il computer → i computer*.
 
-- **il caffè → i caffè** (accented final vowel: never changes)
-- **il bar → i bar**
-- **la foto → le foto** (short for *fotografia*)
-- **la brioche → le brioche**
+### The article moves with the noun
 
-### Common exceptions
+You can often hear a mistake before you see it, because the article changes too:
 
-- **il problema → i problemi**: masculine, even though it ends in **-a**. Others: *il programma*,
-  *il sistema*.
-- **la mano → le mani**: feminine, even though it ends in **-o**.
-- Names of people follow the person: **l'americano → gli americani**, *la signora → le signore*.
+- *il / lo / l'* and **i / gli** for masculine: *il caffè, i caffè; lo scontrino, gli scontrini; l'americano, gli americani*
+- *la / l'* and **le** for feminine: *la tazza, le tazze; la parola, le parole; l'acqua, le acque*
 
-### vorrei: a fixed phrase
+### One fixed phrase: *vorrei*
 
-*Vorrei* ("I would like") is the polite way to order or ask. In this course we learn it as a **fixed
-block**, not as a verb to change:
-
-> **Vorrei** un caffè, per favore.
-
-You use it whole — no *vorresti*, no *vorremmo* — and it goes with *per favore* like bread with
-butter.
+*Vorrei* means "I would like". Learn it as a single block, exactly as it is, because it is the polite way to order anything: **Vorrei un caffè, per favore.** You can put any noun after it, singular or plural: *Vorrei un cornetto. Vorrei due cornetti. Vorrei dell'acqua.*
 
 ## From the story
 
-[[Il caffè, i caffè. Bravo, signor Carter.]]
-*il caffè*: masculine with an accented ending, so the plural stays *i caffè*.
+[[In America il caffè è caffè.]] — *caffè* is accented: singular and plural are identical, only the article changes.
+[[Questa tazza è per la minestra.]] — a feminine noun in *-a*; the plural would be *le tazze*.
+[[Brioche è la stessa cosa.]] — a foreign feminine noun in *-e* that stays the same in the plural.
+[[Il latte è latte.]] — a masculine noun in *-e*: you must learn it with its article.
+[[La pasta è la pasta.]] — *-a* feminine, plural *le paste* (which Italians rarely need).
+[[Le parole sono gentili.]] — the regular feminine plural *-a → -e*.
+[[Pasta, carne, frutta, dolce.]] — four nouns of different genders and endings, listed exactly as a menu.
+[[Il bancone è per il caffè.]] — singular masculine *-e* noun (*il bancone*), plural *i banconi*.
+[[Il conto sono i soldi.]] — singular *il conto*, plural *i conti*: the classic *-o → -i* family.
+[[Vorrei un cappuccino, per favore.]] — the whole polite formula, with *un* + masculine singular noun.
 
-[[La foto. Al plurale: le foto.]]
-*la foto* is feminine and invariable: not *le fote*.
+## Common mistakes English speakers make
 
-[[Le parole insieme sono la lingua.]]
-*la parola* is a regular **-a** noun: *le parole*.
-
-[[Vorrei un cappuccino, per favore.]]
-*vorrei … per favore*: the fixed polite phrase for ordering.
-
-[[Un bicchiere d'acqua, per favore.]]
-*il bicchiere* ends in **-e**, so the plural is *i bicchieri*.
-
-[[Il problema è questo.]]
-*il problema* is masculine although it ends in **-a**; plural *i problemi*.
-
-[[Il latte nel bicchiere e il caffè nella tazza.]]
-Compare gender: *il latte*, *il bicchiere* (masculine), *la tazza* (feminine).
-
-[[Il cornetto è domenica. La brioche è sempre.]]
-Two pastries, two genders and two different plural types.
-
-[[Quella è una brioche. Per me è un cornetto.]]
-Same object, one masculine noun and one feminine noun: *il cornetto*, *la brioche*.
-
-## Common mistakes
-
-1. **Making plurals with -s.** English says *two cappuccinos*; Italian says *due cappuccini*. The
-   plural is **-i** for -o nouns and **-e** for -a nouns, never -s.
-2. **Guessing gender from meaning or ending.** *Il problema* is masculine in **-a**; *la mano* is
-   feminine in **-o**. Learn the article together with the noun.
-3. **Changing invariable nouns.** *Il caffè* stays *il caffè*, *la foto* stays *la foto*, *la
-   brioche* stays *la brioche*.
-4. **Mixing up -e nouns.** Both *il bicchiere* and *la brioche* take **-i** in the plural, but they
-   need different articles: *i bicchieri*, *le brioche*.
-5. **Changing *vorrei*.** It is a fixed polite block: *vorrei un caffè*, not *vorrei* adapted to
-   other persons.
+1. **Using "the" as one word.** English has one article; Italian has *il, lo, la, l', i, gli, le*. If you learn *tazza* without *la*, you will say *il tazza*.
+2. **Making *il problema* feminine.** It ends in *-a*, but it is masculine: *il problema, i problemi*.
+3. **Pluralising *il caffè*.** You never say *i caffi*. Accented nouns are invariable: *due caffè*.
+4. **Using the wrong plural ending.** *-o* does not become *-e* (*i piatti*, not *i piatte*) and *-a* does not become *-i* (*le tazze*, not *le tazzi*).
+5. **Forgetting that *-e* nouns can be masculine or feminine.** *Il latte* and *la carne* share an ending but not a gender.
+6. **Changing the article and not the noun, or the noun and not the article.** They always move together: *lo scontrino → gli scontrini*.
+7. **Treating *vorrei* as a normal verb to conjugate in this chapter.** For now, use the fixed phrase *vorrei* + noun. It is the polite formula Italians hear dozens of times a day.
 
 ## Practice
 
-Give the plural, with the article.
+Give the correct article (*il, lo, la, l'*) and then the plural form with its article.
 
-1. il cappuccino → ______
-2. la tazza → ______
-3. il bicchiere → ______
-4. il caffè → ______
-5. la foto → ______
-6. il problema → ______
-7. la parola → ______
-8. il cornetto → ______
+1. ___ caffè → plural: ______
+2. ___ tazza → plural: ______
+3. ___ bicchiere → plural: ______
+4. ___ problema → plural: ______
+5. ___ scontrino → plural: ______
+6. ___ carne → plural: ______
+7. ___ parola → plural: ______
+8. Complete politely: "______ un cornetto, per favore."
 
-Choose the correct article (*il* / *la*).
+### Answer key
 
-9. ______ acqua
-10. ______ bar
-
-**Answer key**
-
-1. i cappuccini
-2. le tazze
-3. i bicchieri
-4. i caffè
-5. le foto
-6. i problemi
-7. le parole
-8. i cornetti
-9. l'acqua
-10. il bar
+1. **il** caffè → **i** caffè (accented nouns never change)
+2. **la** tazza → **le** tazze
+3. **il** bicchiere → **i** bicchieri
+4. **il** problema → **i** problemi (masculine, despite the *-a*)
+5. **lo** scontrino → **gli** scontrini (words starting with *s + consonant* take *lo / gli*)
+6. **la** carne → **le** carni
+7. **la** parola → **le** parole
+8. **Vorrei** un cornetto, per favore.

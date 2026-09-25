@@ -1,16 +1,16 @@
 lemma,pos,gender,en,level,introduced,recycled,forms
 abitare,verb,,"to live, to reside",A1,s01e01,s01e04,"abita, abitano, abitare, abiti, abitiamo, abito"
 americano,adjective,,American,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"americana, americane, americani, americano"
-arrivederci,interjection,,goodbye,A1,s01e01,s01e02,arrivederci
+arrivederci,interjection,,goodbye,A1,s01e01,,arrivederci
 benvenuto,adjective,,welcome,A1,s01e01,s01e04,"benvenuta, benvenute, benvenuti, benvenuto"
-buonasera,interjection,,good evening,A1,s01e01,s01e04,buonasera
+buonasera,interjection,,good evening,A1,s01e01,s01e02 s01e04,buonasera
 buongiorno,interjection,,good morning,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,buongiorno
-ciao,interjection,,hi; bye,A1,s01e01,s01e02 s01e04 s01e05 s05e03,ciao
+ciao,interjection,,hi; bye,A1,s01e01,s01e04 s01e05 s05e03,ciao
 essere,verb,,to be,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"essere, sei, siamo, siete, sono, è"
 grazie,interjection,,thank you,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,grazie
 il gatto,noun,m,cat,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"gatti, gatto, il gatto"
 il giorno,noun,m,day,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"giorni, giorno, il giorno"
-il nome,noun,m,name,A1,s01e01,s01e02 s01e03 s01e04 s01e05,"il nome, nome, nomi"
+il nome,noun,m,name,A1,s01e01,s01e03 s01e04 s01e05,"il nome, nome, nomi"
 il parcheggio,noun,m,parking space,A1,s01e01,,"il parcheggio, parcheggi, parcheggio"
 il vicino,noun,m,neighbour,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"il vicino, vicina, vicine, vicini, vicino"
 italiano,adjective,,Italian,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"italiana, italiane, italiani, italiano"
@@ -19,8 +19,8 @@ la casa,noun,f,"house, home",A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"casa,
 la classe,noun,f,class,A1,s01e01,s05e03,"classe, classi, la classe"
 la finestra,noun,f,window,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"finestra, finestre, la finestra"
 la maestra,noun,f,primary-school teacher,A1,s01e01,s05e03,"la maestra, maestra, maestre"
-la scuola,noun,f,school,A1,s01e01,s01e02 s01e05 s05e03,"la scuola, scuola, scuole"
-la signora,noun,f,"lady, madam",A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"la signora, signora"
+la scuola,noun,f,school,A1,s01e01,s01e05 s05e03,"la scuola, scuola, scuole"
+la signora,noun,f,"lady, madam",A1,s01e01,s01e03 s01e04 s01e05 s05e03,"la signora, signora"
 la strada,noun,f,"street, road",A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"la strada, strada, strade"
 mi chiamo,expression,,my name is,A1,s01e01,s01e03 s01e04 s01e05 s05e03,"mi chiamo, si chiama, ti chiami"
 nuovo,adjective,,new,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"nuova, nuove, nuovi, nuovo"
@@ -28,8 +28,6 @@ parlare,verb,,"to speak, to talk",A1,s01e01,s01e02 s01e03 s01e04 s01e05 s05e03,"
 per favore,expression,,please,A1,s01e01,s01e02 s01e03 s01e04,per favore
 piacere,expression,,pleased to meet you; pleasure,A1,s01e01,s01e04,piacere
 scusi,expression,,excuse me (formal),A1,s01e01,s01e04 s05e03,scusi
-il banco,noun,m,"counter, in a bar",A1,s01e02,s01e04,"banchi, banco, il banco"
-il bar,noun,m,"bar, café",A1,s01e02,s01e04 s01e05 s05e03,"bar, il bar"
 il bicchiere,noun,m,glass,A1,s01e02,s01e05 s05e03,"bicchiere, bicchieri, il bicchiere"
 il caffè,noun,m,coffee,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"caffè, il caffè"
 il cappuccino,noun,m,cappuccino,A1,s01e02,s05e03,"cappuccini, cappuccino, il cappuccino"
@@ -37,20 +35,25 @@ il conto,noun,m,bill,A1,s01e02,s01e05,"conti, conto, il conto"
 il cornetto,noun,m,croissant,A1,s01e02,s01e04 s05e03,"cornetti, cornetto, il cornetto"
 il dolce,noun,m,dessert,A1,s01e02,s01e04 s01e05,"dolce, dolci, il dolce"
 il latte,noun,m,milk,A1,s01e02,s01e05 s05e03,"il latte, latte"
+il numero,noun,m,number,A1,s01e02,s01e04 s01e05 s05e03,"il numero, numeri, numero"
+il pane,noun,m,bread,A1,s01e02,s01e04 s01e05 s05e03,"il pane, pane"
+il piatto,noun,m,plate,A1,s01e02,s01e05 s05e03,"il piatto, piatti, piatto"
 il pranzo,noun,m,lunch,A1,s01e02,s01e05,"il pranzo, pranzi, pranzo"
 il problema,noun,m,problem,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"il problema, problema, problemi"
 il quaderno,noun,m,notebook,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"il quaderno, quaderni, quaderno"
 il tavolo,noun,m,table,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"il tavolo, tavoli, tavolo"
+il vino,noun,m,wine,A1,s01e02,s01e05,"il vino, vino"
 l'acqua,noun,f,water,A1,s01e02,s01e04 s01e05 s05e03,"acqua, l'acqua"
-l'americano,noun,m,American (man),A1,s01e02,s01e03 s01e04 s01e05 s05e03,"americani, americano, l'americano"
+l'americano,noun,m,the American,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"americano, l'americano"
 la brioche,noun,f,brioche,A1,s01e02,,"brioche, la brioche"
-la colazione,noun,f,breakfast,A1,s01e02,s05e03,"colazione, colazioni, la colazione"
-la domenica,noun,f,Sunday,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"domenica, domeniche, la domenica"
-la foto,noun,f,photo,A1,s01e02,s01e04 s01e05,"foto, la foto"
+la carne,noun,f,meat,A1,s01e02,,"carne, la carne"
+la domenica,noun,f,Sunday,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"domenica, la domenica"
+la frutta,noun,f,fruit,A1,s01e02,s01e04 s01e05,"frutta, la frutta"
 la parola,noun,f,word,A1,s01e02,s01e03 s01e04 s01e05 s05e03,"la parola, parola, parole"
-la pasta,noun,f,pasta,A1,s01e02,s01e05,"la pasta, pasta, paste"
+la pasta,noun,f,pasta,A1,s01e02,s01e05,"la pasta, pasta"
 la tazza,noun,f,cup,A1,s01e02,s01e04 s05e03,"la tazza, tazza, tazze"
-vorrei,verb,,I would like,A1,s01e02,,vorrei
+lo scontrino,noun,m,receipt,A1,s01e02,,"lo scontrino, scontrini, scontrino"
+vorrei,expression,,I would like,A1,s01e02,,vorrei
 aprire,verb,,to open,A1,s01e03,s01e04 s01e05 s05e03,"apre, apriamo, aprire, apro, aprono"
 cercare,verb,,to look for,A1,s01e03,s01e04 s01e05 s05e03,"cerca, cercano, cercare, cerchiamo, cerco"
 grande,adjective,,big; large,A1,s01e03,s01e04 s01e05 s05e03,"grande, grandi"
@@ -74,6 +77,7 @@ trovare,verb,,to find,A1,s01e03,s05e03,"trova, trovano, trovare, troviamo, trovo
 c'è,verb,,there is,A1,s01e04,s01e05 s05e03,c'è
 ci sono,verb,,there are,A1,s01e04,s01e05 s05e03,ci sono
 dov'è,adverb,,where is,A1,s01e04,s05e03,dov'è
+il bar,noun,m,"bar, café",A1,s01e04,s01e05 s05e03,"bar, il bar"
 il binario,noun,m,"platform, track",A1,s01e04,,"binari, binario, il binario"
 il cancello,noun,m,gate,A1,s01e04,s05e03,"cancelli, cancello, il cancello"
 il capo,noun,m,boss,A1,s01e04,s05e03,"capi, capo, il capo"
@@ -81,7 +85,6 @@ il cartello,noun,m,"sign, notice",A1,s01e04,,"cartelli, cartello, il cartello"
 il centro,noun,m,"centre, town centre",A1,s01e04,s01e05,"centri, centro, il centro"
 il municipio,noun,m,town hall,A1,s01e04,,"il municipio, municipi, municipio"
 il negozio,noun,m,shop,A1,s01e04,,"il negozio, negozi, negozio"
-il pane,noun,m,bread,A1,s01e04,s01e05 s05e03,"il pane, pane, pani"
 il panificio,noun,m,bakery,A1,s01e04,,"il panificio, panifici, panificio"
 il parco,noun,m,park,A1,s01e04,,"il parco, parchi, parco"
 il supermercato,noun,m,supermarket,A1,s01e04,,"il supermercato, supermercati, supermercato"
@@ -104,7 +107,6 @@ il fratello,noun,m,brother,A1,s01e05,,"fratelli, fratello, il fratello"
 il nipote,noun,m/f,"grandchild; nephew, niece",A1,s01e05,,"il nipote, nipote, nipoti"
 il nonno,noun,m,grandfather,A1,s01e05,s05e03,"il nonno, nonni, nonno"
 il padre,noun,m,father,A1,s01e05,s05e03,"il padre, padre, padri"
-il vino,noun,m,wine,A1,s01e05,,"il vino, vino"
 la famiglia,noun,f,family,A1,s01e05,s05e03,"famiglia, famiglie, la famiglia"
 la madre,noun,f,mother,A1,s01e05,s05e03,"la madre, madre, madri"
 la nonna,noun,f,grandmother,A1,s01e05,,"la nonna, nonna, nonne"

@@ -8,43 +8,41 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **per favore**<br>(expr.) · please | «E anche un cornetto, **per favore**.» | “And a cornetto too, **please**.” |
-
-## Verbs
-
-| Parola | Italiano | English |
-|---|---|---|
-| **vorrei**<br>(v.) · I would like<br>_Fixed polite phrase, never changes._ | Ben scrive due parole nuove sul quaderno: **vorrei** e Mah. | Ben writes two new words in the notebook: **I'd like** and Mah. |
+| **vorrei**<br>(expr.) · I would like<br>_fixed polite phrase_ | «**Vorrei** anche il pane» dice Ben. | "**I would like** some bread too," says Ben. |
+| **per favore**<br>(expr.) · please | «**Per favore**» dice Ben. «Grazie.» | "**Please**," says Ben. "Grazie." |
 
 ## Nouns
 
 | Parola | Italiano | English |
 |---|---|---|
-| **il caffè**<br>(n., m) · coffee<br>_Invariable: il caffè, i caffè._ | «Il **caffè**? Al bar?» | “**Coffee**? At the bar?” |
-| **il cappuccino**<br>(n., m) · cappuccino | «Il problema è il **cappuccino**.» | “The problem is the **cappuccino**.” |
-| **il cornetto**<br>(n., m) · croissant | «Un **cornetto** solo. Promesso.» | “Only one **cornetto**. Promise.” |
-| **la brioche**<br>(n., f) · brioche<br>_Feminine and invariable._ | «Allora scrivo: **brioche** uguale cornetto.» | “Then I'll write: **brioche** equals cornetto.” |
-| **l'acqua**<br>(n., f) · water | «Allora non c'è l'**acqua**.» | “Then there's no **water**.” |
-| **il bicchiere**<br>(n., m) · glass | Emma aiuta con i **bicchieri**. | Emma helps with the **glasses**. |
-| **il conto**<br>(n., m) · bill | «Ben, il **conto** prima.» | “Ben, the **bill** first.” |
-| **il bar**<br>(n., m) · bar, café<br>_Invariable: il bar, i bar._ | «Il caffè? Al **bar**?» | “Coffee? At the **bar**?” |
-| **il latte**<br>(n., m) · milk | «E il **latte** la sera?» | “And **milk** at night?” |
-| **il tavolo**<br>(n., m) · table | «Adesso. Banco primo, **tavolo** dopo.» | “Now. Counter first, **table** after.” |
-| **la tazza**<br>(n., f) · cup | «Scrivo: caffè italiano, **tazza** piccola.» | “I'll write: Italian coffee, small **cup**.” |
-| **la pasta**<br>(n., f) · pasta | «Nonno! Oggi la **pasta**?» | “Grandpa! **Pasta** today?” |
-| **il pranzo**<br>(n., m) · lunch | «Il **pranzo** di nonno Franco!» | “Grandpa Franco's **lunch**!” |
-| **la domenica**<br>(n., f) · Sunday | «Ben. Oggi è **domenica**.» | “Ben. Today is **Sunday**.” |
-| **il quaderno**<br>(n., m) · notebook | «Perfetto. Nuova parola nel **quaderno**.» | “Perfect. New word in the **notebook**.” |
-| **la parola**<br>(n., f) · word | «Due **parole**, una cosa?» | “Two **words**, one thing?” |
-| **il problema**<br>(n., m) · problem<br>_Masculine noun ending in -a._ | «Quattro piatti. Un **problema** grande.» | “Four dishes. A big **problem**.” |
-| **la foto**<br>(n., f) · photo<br>_Feminine and invariable._ | «Una **foto** vecchia? Bellissima!» | “An old **foto**? Beautiful!” |
-| **l'americano**<br>(n., m) · American (man) | «L'**americano** mangia bene. Mah.» | “The **americano** eats well. Mah.” |
-| **il banco**<br>(n., m) · counter, in a bar | «Ma prima paghi. Al **banco**.» | “But first you pay. At the **counter**.” |
-| **la colazione**<br>(n., f) · breakfast | «Mi piace la **colazione** italiana!» | “I like Italian **breakfast**!” |
-| **il dolce**<br>(n., m) · dessert | «Antipasto. Primo. Secondo. **Dolce**.» | “Starter. First course. Second course. **Dessert**.” |
+| **il caffè**<br>(n., m) · coffee | «Sì! **Caffè**!» risponde Ben. | "Yes! **Coffee**!" answers Ben. |
+| **il cappuccino**<br>(n., m) · cappuccino | «Un **cappuccino**? Adesso?» chiede. | "A **cappuccino**? Now?" he asks. |
+| **il cornetto**<br>(n., m) · croissant | «E il **cornetto**?» chiede. | "And the **cornetto**?" asks Ben. |
+| **la brioche**<br>(n., f) · brioche | «Caffè. Cornetto. **Brioche**. Latte.» | "Caffè. Cornetto. **Brioche**. Latte." |
+| **l'acqua**<br>(n., f) · water | «**Acqua** nera» dice Franco. | "Black **water**," says Franco. |
+| **il bicchiere**<br>(n., m) · glass | Ben guarda il **bicchiere**. | Ben looks at the **glass**. |
+| **il conto**<br>(n., m) · bill | «Il **conto**, per favore» dice. | "The **conto**, per favore," says Ben. |
+| **il latte**<br>(n., m) · milk | «Ecco il **latte**» dice. | "Here's the **latte**," he says. |
+| **la tazza**<br>(n., f) · cup | La **tazza** è piccola. | The **cup** is small. |
+| **il tavolo**<br>(n., m) · table | Franco guarda il **tavolo**. | Franco looks at the **table**. |
+| **il quaderno**<br>(n., m) · notebook | Ben mostra il **quaderno**. | Ben shows the **notebook**. |
+| **la parola**<br>(n., f) · word | «Nuova **parola**: pasta» dice. | "New **word**: pasta," says Ben. |
+| **il problema**<br>(n., m) · problem | «Un **problema**?» chiede Matteo. | "A **problem**?" asks Matteo. |
+| **la domenica**<br>(n., f) · Sunday | La parola è **domenica**. | The word is **Sunday**. |
+| **il pranzo**<br>(n., m) · lunch | «**Pranzo** importante. Quattro piatti.» | "An important **lunch**. Four dishes." |
+| **la pasta**<br>(n., f) · pasta | «Uno: **pasta**» dice Leo. | "One: **pasta**," says Leo. |
+| **il piatto**<br>(n., m) · plate | «Pranzo importante. Quattro **piatti**.» | "An important lunch. Four **dishes**." |
+| **il pane**<br>(n., m) · bread | Nel sacchetto c'è **pane** fresco. | In the bag there's fresh **bread**. |
+| **la carne**<br>(n., f) · meat | «Numero due: **carne**» dice. | "Number two: **meat**," says Ben. |
+| **la frutta**<br>(n., f) · fruit | «La **frutta**!» dice Leo. | "The **fruit**!" says Leo. |
+| **il dolce**<br>(n., m) · dessert | «Carne, frutta, **dolce**» dice Franco. | "Carne, frutta, **dolce**," says Franco. |
+| **il numero**<br>(n., m) · number | «**Numero** due: carne» dice. | "**Number** two: meat," says Ben. |
+| **lo scontrino**<br>(n., m) · receipt | «**Scontrino**» ripete Ben. «Numero sette.» | "**Scontrino**," repeats Ben. "Number seven." |
+| **il vino**<br>(n., m) · wine | «Perché è **vino**» dice Franco. | "Because it's **wine**," says Franco. |
+| **l'americano**<br>(n., m) · the American | «L'**americano**» dice Ben, piano. | "The **americano**," says Ben, quietly. |
 
 ## Interjections
 
 | Parola | Italiano | English |
 |---|---|---|
-| **grazie**<br>(interj.) · thank you | «Bene, **grazie**. E Lei?» | “Well, **thank you**. And you?” |
+| **grazie**<br>(interj.) · thank you | «Ah. **Grazie**» dice Ben. | "Ah. **Thanks**," says Ben. |
