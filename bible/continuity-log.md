@@ -32,6 +32,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma answers Ben only with "ciao" and calls herself italiana; Franco refuses to greet or answer Ben; Matteo uses *tu* with Ben at once.
 - **Planted:** Franco's closing "Io sono solo. Tu sei… Mah."; the Ben–Roberto parking feud.
 
+### s01e03 · La casa nuova
+- **Happened:** Carters move into Via dei Tigli 14 and unpack boxes; Ben searches everywhere for the caffettiera. Ornella visits with her cat Pavarotti and leaves him with the Carters for an hour. Leo labels objects around the house with Italian names.
+- **New facts:** The Carter house is small and rented, with small kitchen, bathroom, garden, corridor and two bedrooms (one large, one small); Emma and Leo share the large room, Emma in the big bed, Leo in the small one, labelled “Camera di Emma e Leo” though the decision is still Monday. Ornella’s cat Pavarotti is large, fat, named by her late husband Gino after the singer; he sleeps in a bathroom box, on the divano and on a sedia. Ben’s notebook now holds ten-plus words, including casa, caffettiera, gatto.
+- **Changed:** Emma and Leo reach a temporary room compromise; Ben finds the caffettiera under Pavarotti in a box. Ornella leaves Pavarotti with the Carters for an hour.
+- **Planted:** Monday’s bedroom decision; Pavarotti’s habit of escaping through window or door and always finding his way home; Leo’s house labels.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Ben receives a job offer email from Michael, his former Chicago boss of twelve years. He tells Chiara about it at dinner, then re-denies it when she asks again; he also told Ornella, who urged him to speak.
 - **New facts:** Michael = Ben's ex-boss (Chicago, 12 years). Nadia works in a Milan pharmacy and was offered a promotion (Dr. Ferrari leaving for Rome; answer due Friday). Anna is 14 months; Ben works shifts at Bar Tigli. The espresso machine breaks.

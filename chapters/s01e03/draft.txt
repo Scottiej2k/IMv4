@@ -1,0 +1,801 @@
+@vocab
+la casa | noun | f | house; home | case
+la cucina | noun | f | kitchen | cucine
+il bagno | noun | m | bathroom | bagni
+la camera | noun | f | bedroom | camere
+il letto | noun | m | bed | letti
+il tavolo | noun | m | table | tavoli
+la sedia | noun | f | chair | sedie
+la finestra | noun | f | window | finestre
+la scatola | noun | f | box | scatole
+il giardino | noun | m | garden | giardini
+la porta | noun | f | door | porte
+il divano | noun | m | sofa | divani
+la stanza | noun | f | room | stanze
+il corridoio | noun | m | hallway; corridor | corridoi
+la caffettiera | noun | f | coffee maker; moka pot | caffettiere
+il gatto | noun | m | cat | gatti
+il nome | noun | m | name | nomi
+la parola | noun | f | word | parole
+il foglio | noun | m | sheet of paper | fogli
+il quaderno | noun | m | notebook | quaderni
+grande | adjective | | big; large | grandi
+piccolo | adjective | | small; little | piccola, piccoli, piccole
+pesante | adjective | | heavy | pesanti
+mettere | verb | | to put | metto, mette, mettiamo, mettono
+aprire | verb | | to open | apro, apre, apriamo, aprono
+trovare | verb | | to find | trovo, trova, troviamo, trovano
+cercare | verb | | to look for | cerco, cerca, cerchiamo, cercano
+@end
+
+# SCENE casa-carter | sabato mattina | chiara, ben, leo
+NARRATOR: È sabato mattina in Via dei Tigli 14. || It's Saturday morning at Via dei Tigli 14.
+NARRATOR: La **casa** è piena di **scatole**. || The **house** is full of **boxes**.
+NARRATOR: Le **scatole** sono dappertutto: **cucina**, **corridoio**, **tavolo**. || The **boxes** are everywhere: **kitchen**, **hallway**, **table**.
+NARRATOR: Ogni **scatola** ha un nome in inglese. || Each **box** has an English name.
+BEN: Allora… KITCHEN. || So… KITCHEN.
+BEN: BATHROOM. || BATHROOM.
+BEN: E questa? "STUFF". || And this one? "STUFF".
+CHIARA: "Stuff" non è una **stanza**, Ben. || "Stuff" isn't a **room**, Ben.
+BEN [proud]: Perfetto! || Perfect!
+NARRATOR: Ben apre una **scatola** e guarda dentro. || Ben opens a **box** and looks inside.
+BEN: Dov'è la **caffettiera**? || Where's the **coffee maker**?
+NARRATOR: Lui **cerca** la **caffettiera** in ogni **scatola**. || He **looks for** the **coffee maker** in every **box**.
+NARRATOR: La **caffettiera** è in una **scatola**, ma quale **scatola**? || The **coffee maker** is in a **box**, but which **box**?
+LEO: Papà, **cerchi** la **caffettiera**? || Dad, are you **looking for** the **coffee maker**?
+BEN: Sì. Io **cerco** la **caffettiera**. || Yes. I'm **looking for** the **coffee maker**.
+LEO: È una **scatola** bianca? || Is it a white **box**?
+BEN: Sì! Una **scatola** bianca, come le altre. || Yes! A white **box**, like the others.
+LEO: Ah. Allora è difficile. || Ah. Then it's difficult.
+CHIARA: Ben, per favore. || Ben, please.
+CHIARA: Primo: la **cucina**. || First: the **kitchen**.
+CHIARA: Secondo: le **camere**. || Second: the **bedrooms**.
+CHIARA: Terzo: il **bagno**. || Third: the **bathroom**.
+BEN: Primo, secondo, terzo… || First, second, third…
+BEN: Tu sei un'architetta! || You're an architect!
+CHIARA: Sì, Ben. Sono un'architetta. || Yes, Ben. I'm an architect.
+NARRATOR: Il **tavolo** è pieno di **scatole** piccole. || The **table** is full of small **boxes**.
+CHIARA: Questa **scatola** è per la **cucina**. || This **box** is for the **kitchen**.
+CHIARA: Questa è per il **bagno**. || This one is for the **bathroom**.
+BEN: E questa? || And this one?
+CHIARA: Questa è per il **corridoio**. || This one is for the **hallway**.
+NARRATOR: Ben **mette** la **scatola** vicino alla **porta**. || Ben **puts** the **box** near the **door**.
+LEO: Papà, la **porta** è **piccola**. || Dad, the **door** is **small**.
+BEN: Lo so, Leo. La **casa** è **piccola**. || I know, Leo. The **house** is **small**.
+NARRATOR: Chiara ha un **foglio** e una matita. || Chiara has a **sheet of paper** and a pencil.
+NARRATOR: Chiara scrive i **nomi** sul **foglio**. || Chiara writes the **names** on the **sheet of paper**.
+CHIARA: La **cucina** è qui. || The **kitchen** is here.
+CHIARA: Il **tavolo** è qui. || The **table** is here.
+CHIARA: E la **finestra** è bella. || And the **window** is beautiful.
+BEN: La **cucina** è bella! || The **kitchen** is beautiful!
+CHIARA: Sì. Ma è **piccola**. || Yes. But it's **small**.
+NARRATOR: Leo guarda il **giardino** dalla **finestra**. || Leo looks at the **garden** from the **window**.
+LEO: Mamma, perché il **giardino** è così **piccolo**? || Mum, why is the **garden** so **small**?
+CHIARA: Perché la **casa** è **piccola**, Leo. || Because the **house** is **small**, Leo.
+LEO: E perché il **divano** è nel **corridoio**? || And why is the **sofa** in the **hallway**?
+NARRATOR: Il **divano** è davvero nel **corridoio**. || The **sofa** really is in the **hallway**.
+NARRATOR: È un **divano** **grande** e **pesante**. || It's a **big**, **heavy** **sofa**.
+BEN: Il **divano** è nel **corridoio** perché… || The **sofa** is in the **hallway** because…
+BEN: … perché la **casa** è **piccola**. || … because the **house** is **small**.
+LEO: Ah. Perché? || Ah. Why?
+CHIARA: Leo, non chiedere sempre "perché". || Leo, don't always ask "why".
+LEO: Perché? || Why?
+NARRATOR: Chiara guarda Ben e sorride. || Chiara looks at Ben and smiles.
+NARRATOR: Ben apre un'altra **scatola**. || Ben opens another **box**.
+BEN: Questa **scatola** è **pesante**. || This **box** is **heavy**.
+BEN: È molto **pesante**! || It's very **heavy**!
+LEO: "Molto pesante" no, papà. || "Molto pesante" no, Dad.
+LEO: Si dice: "È **pesante**". || You say: "It's **heavy**."
+BEN: Ah. È **pesante**. || Ah. It's **heavy**.
+NARRATOR: Ben **mette** la **scatola** sul **tavolo**. || Ben **puts** the **box** on the **table**.
+NARRATOR: Poi **mette** una **sedia** vicino al **tavolo**. || Then he **puts** a **chair** near the **table**.
+NARRATOR: Poi **mette** il **quaderno** sul **tavolo**. || Then he **puts** the **notebook** on the **table**.
+BEN: Il **quaderno**! || The **notebook**!
+CHIARA: Il **quaderno** delle parole? || The **notebook** of words?
+BEN: Sì. Il **quaderno** delle parole italiane. || Yes. The **notebook** of Italian words.
+LEO: Quante parole? || How many words?
+BEN: Mah. Dieci? Venti? || Hmm. Ten? Twenty?
+LEO: Io ho una **parola** nuova. || I have a new **word**.
+CHIARA: Quale **parola**? || Which **word**?
+LEO: **Casa**. || **House**.
+NARRATOR: Leo prende una matita. || Leo takes a pencil.
+NARRATOR: Leo scrive "**casa**" sul **quaderno** di Ben. || Leo writes "**house**" in Ben's **notebook**.
+NARRATOR: Poi guarda la **cucina**, la **porta** e il **corridoio**. || Then he looks at the **kitchen**, the **door** and the **hallway**.
+LEO: Adesso la **casa** parla italiano. || Now the **house** speaks Italian.
+BEN: Come? || What?
+LEO: La **casa** parla italiano. || The **house** speaks Italian.
+CHIARA: Che cosa vuol dire? || What does that mean?
+LEO: Vuol dire che io **metto** i nomi su tutto. || It means that I **put** names on everything.
+NARRATOR: Chiara **mette** la mano sulla **porta** della **cucina**. || Chiara **puts** her hand on the **kitchen** **door**.
+CHIARA: Ben. || Ben.
+CHIARA: La **cucina** è **piccola**. || The **kitchen** is **small**.
+BEN: La **casa** è bella! || The **house** is beautiful!
+CHIARA: Sì. Ma è **piccola**. || Yes. But it's **small**.
+BEN: La **casa** è bella e **piccola**. || The **house** is beautiful and **small**.
+BEN: È **piccola** e bella. || It's **small** and beautiful.
+CHIARA: Va bene. || All right.
+NARRATOR: Fuori, il **giardino** è **piccolo**. || Outside, the **garden** is **small**.
+NARRATOR: Dentro, la **casa** è **piccola**. || Inside, the **house** is **small**.
+BEN: Tutto è **piccolo**! || Everything is **small**!
+CHIARA: Tranquillo, Ben. || Calm down, Ben.
+CHIARA: La **casa** è **piccola**, ma bella. || The **house** is **small**, but beautiful.
+NARRATOR: Ben guarda il **corridoio**. || Ben looks at the **hallway**.
+NARRATOR: Il **corridoio** è pieno di **scatole**. || The **hallway** is full of **boxes**.
+NARRATOR: Otto **scatole**, **grandi** e **pesanti**. || Eight **boxes**, **big** and **heavy**.
+BEN: Otto **scatole** nel **corridoio**. || Eight **boxes** in the **hallway**.
+BEN: Una **scatola** per la **cucina**. || One **box** for the **kitchen**.
+BEN: Una per il **bagno**. || One for the **bathroom**.
+BEN: Una per le **camere**. || One for the **bedrooms**.
+BEN: E una per il **giardino**? || And one for the **garden**?
+CHIARA: No, Ben. Il **giardino** non ha **scatole**. || No, Ben. The **garden** doesn't have **boxes**.
+BEN: Il **giardino** è **piccolo**. || The **garden** is **small**.
+LEO: Il **bagno** è **piccolo**? || Is the **bathroom** **small**?
+CHIARA: Sì. || Yes.
+LEO: E la mia **camera**? || And my **bedroom**?
+CHIARA: La tua **camera** è… || Your **bedroom** is…
+CHIARA: Mah. Vediamo lunedì. || Hmm. Let's see on Monday.
+LEO: Lunedì? || Monday?
+BEN: Lunedì. || Monday.
+NARRATOR: Leo guarda le **camere** dalla **porta**. || Leo looks at the **bedrooms** from the **door**.
+NARRATOR: Una **camera** è **grande**. || One **bedroom** is **big**.
+NARRATOR: Una **camera** è **piccola**. || One **bedroom** is **small**.
+LEO: Io voglio la **camera** **grande**. || I want the **big** **bedroom**.
+CHIARA: Lunedì, Leo. || Monday, Leo.
+NARRATOR: Ben apre la **porta** del **bagno**. || Ben opens the **bathroom** **door**.
+NARRATOR: Dentro, il **bagno** è pieno di **scatole**. || Inside, the **bathroom** is full of **boxes**.
+BEN: Anche il **bagno** è pieno di **scatole**! || The **bathroom** is full of **boxes** too!
+CHIARA: Lo so. || I know.
+LEO: Papà, non **trovi** la **caffettiera**? || Dad, can't you **find** the **coffee maker**?
+BEN: No. La **caffettiera** non è qui. || No. The **coffee maker** isn't here.
+LEO: È nel **bagno**? || Is it in the **bathroom**?
+BEN: Forse. Io **cerco** ancora. || Maybe. I'm still **looking**.
+NARRATOR: Chiara scrive ancora sul **foglio**. || Chiara writes again on the **sheet of paper**.
+NARRATOR: Il **foglio** è pieno di **nomi**. || The **sheet of paper** is full of **names**.
+NARRATOR: **Cucina**, **bagno**, **camere**, **giardino**, **corridoio**. || **Kitchen**, **bathroom**, **bedrooms**, **garden**, **hallway**.
+CHIARA: Ecco la lista. || Here's the list.
+BEN: La lista è **grande**. || The list is **big**.
+CHIARA: La **casa** è **piccola**. || The **house** is **small**.
+BEN: Ma la lista è **grande**. || But the list is **big**.
+CHIARA: Ben… || Ben…
+NARRATOR: Ben ride. Chiara ride anche lei. || Ben laughs. Chiara laughs too.
+NARRATOR: Leo prende un **foglio** piccolo. || Leo takes a small **sheet of paper**.
+NARRATOR: Leo scrive una **parola** sul **foglio**. || Leo writes a **word** on the **sheet of paper**.
+LEO: **Casa**. || **House**.
+NARRATOR: Leo **mette** il **foglio** sul **quaderno** di Ben. || Leo **puts** the **sheet of paper** on Ben's **notebook**.
+BEN: **Casa**. || **House**.
+BEN [happy]: Perfetto! || Perfect!
+
+# CONFESSIONALE ben
+BEN: Allora. La **casa**. || So. The **house**.
+BEN: Questa è la **casa** nuova. || This is the new **house**.
+BEN: In America la **casa** è **grande**. || In America the **house** is **big**.
+BEN: Qui la **casa** è… **casa**. || Here the **house** is… a **house**.
+BEN: In America tutto è chiaro. || In America everything is clear.
+BEN: La **cucina** è **grande**. Il bagno è **grande**. || The **kitchen** is **big**. The bathroom is **big**.
+BEN: In America anche il giardino è **grande**. || In America the garden is **big** too.
+BEN: Qui la **cucina** è **piccola**. || Here the **kitchen** is **small**.
+BEN: Il bagno è **piccolo**. Il giardino è **piccolo**. || The bathroom is **small**. The garden is **small**.
+BEN: Ma va bene. Sono felice. || But it's fine. I'm happy.
+BEN: Il problema sono le **scatole**. || The problem is the **boxes**.
+BEN: Le **scatole** sono dappertutto. || The **boxes** are everywhere.
+BEN: Tutte le **scatole** sono in inglese. || All the **boxes** are in English.
+BEN: KITCHEN. BATHROOM. STUFF. || KITCHEN. BATHROOM. STUFF.
+BEN: "Stuff" è una **scatola** **grande**. || "Stuff" is a **big** **box**.
+BEN: Una **scatola** **grande** con… stuff. || A **big** **box** with… stuff.
+BEN: E adesso la **caffettiera**. || And now the **coffee maker**.
+BEN: Io **cerco** la **caffettiera** ogni giorno. || I **look for** the **coffee maker** every day.
+BEN: Io **cerco** la **caffettiera** ancora. || I'm still **looking for** the **coffee maker**.
+BEN: La **caffettiera** è in una **scatola**. || The **coffee maker** is in a **box**.
+BEN: Una **scatola** bianca. || A white **box**.
+BEN: Una **scatola** bianca, come le altre. || A white **box**, like the others.
+NARRATOR: Ben guarda le **scatole** nel corridoio. || Ben looks at the **boxes** in the hallway.
+BEN: **Caffettiera**. **Caffettiera**. **Caffettiera**. || **Coffee maker**. **Coffee maker**. **Coffee maker**.
+BEN: Niente. || Nothing.
+BEN: Allora… la **cucina** è **piccola**. || So… the **kitchen** is **small**.
+BEN: La **cucina** è **piccola**, ma io sono felice. || The **kitchen** is **small**, but I'm happy.
+BEN: La **cucina** è **piccola**, la **casa** è **piccola**. || The **kitchen** is **small**, the **house** is **small**.
+BEN: Ma la **casa** è bella. || But the **house** is beautiful.
+BEN: Sono americano. La **casa** è italiana. || I'm American. The **house** is Italian.
+BEN: **Casa**. || **House**.
+BEN [proud]: Perfetto! || Perfect!
+
+# SCENE casa-carter | sabato pomeriggio | emma, leo, chiara
+NARRATOR: È sabato pomeriggio. || It's Saturday afternoon.
+NARRATOR: Emma apre **la** **porta** della **camera** **grande**. || Emma opens **the** **door** of the **big** **bedroom**.
+NARRATOR: **La** **camera** è **grande** e luminosa. || **The** **bedroom** is **big** and bright.
+EMMA: Oh! **La** **camera** è **grande**. || Oh! **The** **bedroom** is **big**.
+EMMA: E **la** **finestra** è **grande**! || And **the** **window** is **big**!
+EMMA: E **il** **letto** è nuovo. || And **the** **bed** is new.
+NARRATOR: Emma **mette** la borsa sul **letto**. || Emma **puts** her bag on the **bed**.
+EMMA: Questa **camera** è mia. || This **bedroom** is mine.
+NARRATOR: Leo arriva e guarda dentro la **stanza**. || Leo comes in and looks inside the **room**.
+LEO: No, Emma. Questa **camera** è mia. || No, Emma. This **bedroom** is mine.
+EMMA: Ma che dici? || What are you saying?
+LEO: Io sono **piccolo**. || I'm **small**.
+EMMA: E allora? || So what?
+LEO: **La** **camera** **grande** è per il bambino **piccolo**. || **The** **big** **bedroom** is for the **small** child.
+EMMA: Ah, certo. Logico. || Ah, of course. Logical.
+NARRATOR: Leo entra nella **camera** e guarda **il** **letto**. || Leo goes into the **bedroom** and looks at **the** **bed**.
+LEO: **La** **finestra** è bella. || **The** **window** is beautiful.
+LEO: Io guardo il giardino dalla **finestra**. || I look at the garden from the **window**.
+EMMA: Leo, io sono **grande**. Tu sei **piccolo**. || Leo, I'm **big**. You're **small**.
+LEO: Sì! Ecco perché **la** **camera** **grande** è mia. || Yes! That's why **the** **big** **bedroom** is mine.
+EMMA: Ma che logica è? || What kind of logic is that?
+LEO: La logica di Leo. || Leo's logic.
+NARRATOR: Emma prende la borsa dal **letto**. || Emma takes her bag off the **bed**.
+EMMA: **La** **camera** è mia! || **The** **bedroom** is mine!
+LEO: No, è mia! || No, it's mine!
+EMMA: È mia! || It's mine!
+LEO: È mia! || It's mine!
+NARRATOR: Chiara arriva alla **porta**. || Chiara comes to the **door**.
+CHIARA: Basta! Che cosa succede? || Enough! What's happening?
+EMMA: Leo dice che **la** **camera** **grande** è sua. || Leo says that **the** **big** **bedroom** is his.
+LEO: E Emma dice che **la** **camera** è sua. || And Emma says that **the** **bedroom** is hers.
+CHIARA: **Il** **letto** **grande** è di Emma. || **The** **big** **bed** is Emma's.
+LEO: Ah! Allora **la** **camera** è di Emma? || Ah! So **the** **bedroom** is Emma's?
+CHIARA: Mah. No. || Hmm. No.
+EMMA: Mamma! || Mum!
+CHIARA: La decisione è di lunedì. || The decision is Monday's.
+EMMA: Lunedì? || Monday?
+CHIARA: Lunedì. Non oggi. || Monday. Not today.
+NARRATOR: Chiara guarda le due **camere**. || Chiara looks at the two **bedrooms**.
+NARRATOR: Una **stanza** è **grande**, una **stanza** è **piccola**. || One **room** is **big**, one **room** is **small**.
+CHIARA: **La** **stanza** **piccola** è bella. || **The** **small** **room** is nice.
+LEO: Ma io voglio **la** **grande**! || But I want **the** **big** one!
+CHIARA: Lunedì. || Monday.
+LEO: Ma lunedì è lontano! || But Monday is far away!
+EMMA: Leo, dai. || Leo, come on.
+LEO: No! Io voglio una **finestra** **grande** come Emma. || No! I want a **big** **window** like Emma.
+EMMA: **La** **finestra** **piccola** è carina. || **The** **small** **window** is nice.
+LEO: Carina no. **Piccola** no. || Nice no. **Small** no.
+NARRATOR: Leo **apre** **la** **porta** della **stanza** **piccola**. || Leo **opens** **the** **door** of the **small** **room**.
+NARRATOR: Dentro, **il** **letto** è **piccolo** e **la** **finestra** è **piccola**. || Inside, **the** **bed** is **small** and **the** **window** is **small**.
+LEO: Ecco. Questa è una **stanza** per un gatto. || There. This is a **room** for a cat.
+EMMA: Il gatto di chi? || Whose cat?
+LEO: Il gatto di Ornella. || Ornella's cat.
+NARRATOR: Leo esce dalla **camera**. Lui è offeso. || Leo leaves the **bedroom**. He's offended.
+NARRATOR: Va in **cucina** e prende un **foglio** piccolo. || He goes into the **kitchen** and takes a small **sheet of paper**.
+LEO: Adesso **la** **casa** parla italiano. || Now **the** **house** speaks Italian.
+NARRATOR: Leo scrive una **parola** sul **foglio**. || Leo writes a **word** on the **sheet of paper**.
+LEO: **Tavolo**. || **Table**.
+NARRATOR: Leo **mette** **il** **foglio** sul **tavolo**. || Leo **puts** **the** **sheet of paper** on the **table**.
+NARRATOR: Poi scrive una **parola** nuova. || Then he writes a new **word**.
+LEO: **Sedia**. || **Chair**.
+NARRATOR: Leo **mette** **il** **foglio** sulla **sedia**. || Leo **puts** **the** **sheet of paper** on the **chair**.
+NARRATOR: Poi va alla **porta** del **bagno**. || Then he goes to the **bathroom** **door**.
+LEO: **Bagno**. || **Bathroom**.
+NARRATOR: Leo **apre** **la** **porta** del **bagno**. || Leo **opens** **the** **bathroom** **door**.
+NARRATOR: Leo **mette** **il** **foglio** sulla **porta**. || Leo **puts** **the** **sheet of paper** on the **door**.
+LEO: **Porta**. || **Door**.
+NARRATOR: E **mette** un **foglio** anche sulla porta d'ingresso. || And he **puts** a **sheet of paper** on the front door too.
+LEO: Porta d'ingresso. || Front door.
+EMMA: Leo, basta. || Leo, enough.
+LEO: Ancora una cosa. || One more thing.
+NARRATOR: Poi entra nella **camera** **grande**. || Then he goes into the **big** **bedroom**.
+LEO: **Letto**. || **Bed**.
+NARRATOR: Leo **mette** **il** **foglio** sul **letto**. || Leo **puts** **the** **sheet of paper** on the **bed**.
+LEO: **Finestra**. || **Window**.
+NARRATOR: Leo **mette** **il** **foglio** sulla **finestra**. || Leo **puts** **the** **sheet of paper** on the **window**.
+NARRATOR: Emma lo guarda dalla **porta**. || Emma watches him from the **door**.
+EMMA: Che ansia. || So stressful.
+EMMA: Leo, un **nome** per tutto? || Leo, a **name** for everything?
+LEO: Sì. **La** **casa** è una cosa con un **nome**. || Yes. **The** **house** is a thing with a **name**.
+EMMA: E **la** **camera**? || And **the** **bedroom**?
+LEO: Anche **la** **camera**. || **The** **bedroom** too.
+EMMA: E **la** **sedia**? || And **the** **chair**?
+LEO: **La** **sedia** è **sedia**. || **The** **chair** is **chair**.
+EMMA: E **il** **bagno**? || And **the** **bathroom**?
+LEO: **Il** **bagno** è **bagno**. || **The** **bathroom** is **bathroom**.
+NARRATOR: Emma ride e va in **cucina**. || Emma laughs and goes into the **kitchen**.
+NARRATOR: Chiara **apre** **la** **porta** della **cucina**. || Chiara **opens** **the** **kitchen** **door**.
+CHIARA: Che cos'è questo? || What's this?
+NARRATOR: Un **foglio** è sulla borsa di Chiara. || A **sheet of paper** is on Chiara's bag.
+NARRATOR: Sul **foglio** la **parola** è questa: **mamma**. || On the **sheet of paper** the **word** is this: **Mum**.
+CHIARA [laughing]: **Mamma**. || **Mum**.
+NARRATOR: Chiara ride. || Chiara laughs.
+CHIARA: Leo! || Leo!
+LEO: **La** **parola** giusta. || **The** right **word**.
+NARRATOR: Leo prende un altro **foglio**. || Leo takes another **sheet of paper**.
+NARRATOR: Lui **apre** **la** **porta** della **camera** **grande**. || He **opens** **the** **door** of the **big** **bedroom**.
+NARRATOR: E scrive una **parola**. || And he writes a **word**.
+LEO: Il **nome** della **stanza**. || The **name** of the **room**.
+NARRATOR: Leo **mette** **il** **foglio** sulla **porta**. || Leo **puts** **the** **sheet of paper** on the **door**.
+NARRATOR: Sul **foglio**: "**camera** di Leo". || On the **sheet of paper**: "**bedroom** of Leo".
+EMMA [annoyed]: Ma dai! || Come on!
+CHIARA: Lunedì, Leo. || Monday, Leo.
+LEO: Sì. Ma adesso **la** **camera** è "camera di Leo". || Yes. But now **the** **bedroom** is "Leo's bedroom".
+NARRATOR: Chiara e Emma si guardano. || Chiara and Emma look at each other.
+NARRATOR: Emma sorride. || Emma smiles.
+EMMA: Va bene. **La** **camera** di Leo. Per lunedì. || Fine. **The** **bedroom** of Leo. Until Monday.
+NARRATOR: In **casa** ogni cosa è una cosa con un **nome**. || In the **house** every thing is a thing with a **name**.
+LEO: Sì. **Il** **nome** italiano. || Yes. **The** Italian **name**.
+
+# CONFESSIONALE leo
+LEO: Allora. Io **metto** un **foglio** su tutto. || So. I **put** a **sheet of paper** on everything.
+LEO: **Il** **tavolo** è **tavolo**. || **The** **table** is **table**.
+LEO: **La** **sedia** è **sedia**. || **The** **chair** is **chair**.
+LEO: **La** **porta** è **porta**. || **The** **door** is **door**.
+LEO: È una cosa normale. || It's a normal thing.
+LEO: I **nomi** sono importanti. || **Names** are important.
+LEO: Poi **la** **casa** parla italiano. || Then **the** **house** speaks Italian.
+LEO: **La** **casa** è grande? No. || Is **the** **house** **big**? No.
+LEO: **La** **casa** è **piccola**. || **The** **house** is **small**.
+LEO: Ma **la** **casa** parla. || But **the** **house** speaks.
+NARRATOR: Leo prende un **foglio** e guarda **la** **camera** grande. || Leo takes a **sheet of paper** and looks at the **big** **bedroom**.
+LEO: **La** **camera** grande è mia. || **The** **big** **bedroom** is mine.
+LEO: **La** **finestra** di questa **camera** è bella. || **The** **window** of this **bedroom** is beautiful.
+LEO: Io guardo il giardino da **la** **finestra**. || I look at the garden from **the** **window**.
+LEO: Emma è **grande**. Io sono **piccolo**. || Emma is **big**. I'm **small**.
+LEO: Va bene. || It's fine.
+LEO: Io **metto** **il** **nome** su **la** **camera**: camera di Leo. || I **put** the **name** on **the** **bedroom**: Leo's bedroom.
+LEO: Ma **la** **camera** è bella per tutti e due. || But **the** **bedroom** is nice for both of us.
+LEO: Emma ha **il** **letto** grande, io ho **il** **letto** piccolo. || Emma has the big bed, I have the small bed.
+LEO: E **la** **sedia**? **La** **sedia** è **sedia**. || And **the** **chair**? **The** **chair** is **chair**.
+LEO: Pavarotti ha un **nome**. || Pavarotti has a **name**.
+LEO: Anche **il** **tavolo** ha un **nome**. || **The** **table** has a **name** too.
+LEO: **Tavolo**. || **Table**.
+LEO: Ecco. Tutto ha un **nome** in **casa**. || There. Everything has a **name** in the **house**.
+
+# SCENE casa-carter | sabato pomeriggio | ornella, ben, leo
+NARRATOR: Qualcuno bussa alla **porta**. || Someone knocks at the **door**.
+NARRATOR: Ben **apre** la **porta**. || Ben **opens** the **door**.
+NARRATOR: È la signora Ornella Galli. || It's Mrs Ornella Galli.
+NARRATOR: Ha una torta in una mano e **il** **gatto** nell'altra. || She has a cake in one hand and **the** **cat** in the other.
+BEN [formal]: Buongiorno, signora Galli. || Good morning, Mrs Galli.
+BEN: Prego, entri. || Please, come in.
+ORNELLA: Buongiorno, signor Carter. || Good morning, Mr Carter.
+ORNELLA: La torta è per voi. || The cake is for you.
+BEN: Grazie. Molto gentile. || Thank you. Very kind.
+ORNELLA: E questo è Pavarotti. || And this is Pavarotti.
+NARRATOR: **Il** **gatto** è **grande** e grasso. || **The** **cat** is **big** and fat.
+NARRATOR: **Il** **gatto** guarda **la** **casa** nuova. || **The** **cat** looks at **the** new **house**.
+LEO: Signora Galli, come sta? || Mrs Galli, how are you?
+ORNELLA: Bene, Leo, grazie. Tu come stai? || Fine, Leo, thanks. How are you?
+LEO: Bene. È **il** suo **gatto**? || Fine. Is it your **cat**?
+ORNELLA: Sì. Si chiama Pavarotti. || Yes. His **name** is Pavarotti.
+BEN: Il **nome** è… Pavarotti? || The **name** is… Pavarotti?
+ORNELLA: Sì, signor Carter. || Yes, Mr Carter.
+ORNELLA: **Il** **gatto** scappa sempre. || **The** **cat** always runs away.
+ORNELLA: Quando io **apro** **la** **finestra** del **giardino**, lui va via. || When I **open** **the** **window** of the **garden**, he goes off.
+ORNELLA: Sempre. Ogni giorno. || Always. Every day.
+BEN: Capisco. || I see.
+NARRATOR: Pavarotti salta giù dalle braccia di Ornella. || Pavarotti jumps down from Ornella's arms.
+NARRATOR: Va in **cucina** e guarda **il** **tavolo**. || He goes into the **kitchen** and looks at **the** **table**.
+NARRATOR: Poi salta sul **divano** nel corridoio. || Then he jumps on the **sofa** in the hallway.
+LEO: Guarda! **Il** **gatto** è sul **divano**! || Look! **The** **cat** is on the **sofa**!
+ORNELLA: Pavarotti! Vieni qui! || Pavarotti! Come here!
+NARRATOR: **Il** **gatto** non ascolta. || **The** **cat** doesn't listen.
+NARRATOR: **Il** **gatto** salta dal **divano** al **tavolo**. || **The** **cat** jumps from the **sofa** to the **table**.
+ORNELLA [sighing]: Ah, **il** **gatto**. Sempre così. || Ah, **the** **cat**. Always like this.
+BEN: Il **tavolo** è **piccolo**, signora. || The **table** is **small**, ma'am.
+ORNELLA: Sì? E **la** **casa**? || Yes? And **the** **house**?
+BEN: **La** **casa** è **piccola** anche lei. || **The** **house** is **small** too.
+ORNELLA: **La** **cucina**? || **The** **kitchen**?
+BEN: **La** **cucina** è **piccola**. || **The** **kitchen** is **small**.
+ORNELLA: E **la** **finestra** della **cucina**? || And **the** **window** of the **kitchen**?
+BEN: **La** **finestra** è bella. || **The** **window** is beautiful.
+ORNELLA: Bene. **La** **finestra** è importante. || Good. **The** **window** is important.
+NARRATOR: Leo guarda **il** **gatto** sul **tavolo**. || Leo looks at **the** **cat** on the **table**.
+LEO: Signora Galli, perché si chiama Pavarotti? || Mrs Galli, why is he called Pavarotti?
+LEO: Perché canta? || Because he sings?
+NARRATOR: Ornella sorride. || Ornella smiles.
+ORNELLA: **Il** **nome** è di mio marito Gino. || The **name** is from my husband Gino.
+ORNELLA: Gino dice sempre: **il** **gatto** canta. || Gino always says: **the** **cat** sings.
+ORNELLA: Canta come il cantante. || He sings like the singer.
+LEO: Ah! **Il** **gatto** canta! || Ah! **The** **cat** sings!
+ORNELLA: Mah. Un po'. || Hmm. A little.
+BEN: Molto interessante. || Very interesting.
+LEO: Ma **il** **gatto** è un **nome** strano. || But **the** **cat** is a strange **name**.
+EMMA: Leo, non è il **nome**… è **il** **gatto**. || Leo, it's not the **name**… it's **the** **cat**.
+NARRATOR: Emma arriva dalla **cucina**. || Emma comes from the **kitchen**.
+EMMA: Buongiorno, signora Galli. || Good morning, Mrs Galli.
+ORNELLA: Buongiorno, Emma. Come stai? || Good morning, Emma. How are you?
+EMMA: Bene, grazie. || Fine, thanks.
+NARRATOR: **Il** **gatto** salta dal **tavolo** al **divano**. || **The** **cat** jumps from the **table** to the **sofa**.
+NARRATOR: Poi si siede e guarda **il** **giardino**. || Then he sits and looks at the **garden**.
+LEO: Guarda **il** **giardino**! || Look at the **garden**!
+ORNELLA: Pavarotti ama **il** **giardino**. || Pavarotti loves the **garden**.
+ORNELLA: E ama **la** **finestra**. || And he loves **the** **window**.
+ORNELLA: Quando io **apro** **la** **finestra**, lui **trova** **la** **porta**. || When I **open** **the** **window**, he **finds** **the** **door**.
+LEO: **Trova** **la** **porta**? || He **finds** **the** **door**?
+ORNELLA: Sempre. **La** **porta** o **la** **finestra**. || Always. **The** **door** or **the** **window**.
+BEN: Signora Galli, il **gatto** può restare qui. || Mrs Galli, the **cat** can stay here.
+ORNELLA: Ah, sì? || Ah, yes?
+BEN: Sì. Un'ora. || Yes. One hour.
+NARRATOR: Ornella guarda Ben. || Ornella looks at Ben.
+ORNELLA: Un'ora. Sì. || One hour. Yes.
+ORNELLA: La ringrazio, signor Carter. || Thank you, Mr Carter.
+BEN: Prego, signora Galli. || You're welcome, Mrs Galli.
+ORNELLA: Allora vado. Grazie. || Then I'll go. Thank you.
+NARRATOR: Ornella va alla **porta**. || Ornella goes to the **door**.
+NARRATOR: Leo **apre** **la** **porta** per lei. || Leo **opens** **the** **door** for her.
+LEO: Signora Galli, **la** **porta** è aperta. || Mrs Galli, **the** **door** is open.
+ORNELLA [warm]: Grazie, Leo. Sei gentile. || Thank you, Leo. You're kind.
+NARRATOR: Ornella esce e **la** **porta** resta aperta. || Ornella leaves and **the** **door** stays open.
+NARRATOR: **Il** **gatto** è sul **divano**. || **The** **cat** is on the **sofa**.
+NARRATOR: **Il** **gatto** dorme. || **The** **cat** sleeps.
+LEO: Papà, guarda! **Il** **gatto** dorme sul **divano**! || Dad, look! **The** **cat** sleeps on the **sofa**!
+BEN: Sì. Un'ora. || Yes. One hour.
+NARRATOR: **Il** **gatto** dorme e non **trova** **la** **porta**. || **The** **cat** sleeps and doesn't **find** **the** **door**.
+LEO: **La** **casa** ha un **gatto**. || **The** **house** has a **cat**.
+BEN: Sì. Un'ora. || Yes. One hour.
+NARRATOR: In **cucina**, **il** **tavolo** è vuoto. || In the **kitchen**, **the** **table** is empty.
+NARRATOR: **Il** **giardino** è **piccolo**, ma c'è **il** **gatto**. || The **garden** is **small**, but there's **the** **cat**.
+LEO: Anche **il** **gatto** ha un **nome**. || **The** **cat** has a **name** too.
+BEN: Sì. Pavarotti. || Yes. Pavarotti.
+LEO: **Il** **nome** è bello. || **The** **name** is beautiful.
+NARRATOR: **La** **casa** è **piccola**, ma adesso ha **il** **gatto**. || **The** **house** is **small**, but now it has **the** **cat**.
+
+# CONFESSIONALE ornella
+ORNELLA: Sulla strada tutti hanno una **casa**. || On the street everyone has a **house**.
+ORNELLA: Ma non tutti hanno la **casa** giusta. || But not everyone has the right **house**.
+ORNELLA: **La** **casa** dei Carter? **Piccola**. || **The** Carters' **house**? **Small**.
+ORNELLA: **La** **cucina**? **Piccola**. || **The** **kitchen**? **Small**.
+ORNELLA: **Il** **giardino**? **Piccolo**. || **The** **garden**? **Small**.
+ORNELLA: Ma **la** **casa** è piena di vita. || But **the** **house** is full of life.
+NARRATOR: Ornella guarda verso la casa dei Carter. || Ornella looks towards the Carters' house.
+ORNELLA: **Il** **gatto** è un **nome** importante. || **The** **cat** is an important **name**.
+ORNELLA: Pavarotti. Come il cantante. || Pavarotti. Like the singer.
+ORNELLA: Io lascio **il** **gatto** libero. || I leave **the** **cat** free.
+ORNELLA: Lui **apre** **la** **finestra**? No. || Does he **open** **the** **window**? No.
+ORNELLA: **Apre** **la** **porta**? No. || Does he **open** **the** **door**? No.
+ORNELLA: Ma **trova** sempre la strada di **casa**. || But he always **finds** the way home.
+ORNELLA: **Trova** **la** **finestra**, **trova** **la** **porta**. || He **finds** **the** **window**, he **finds** **the** **door**.
+ORNELLA: È un **gatto** intelligente. || He's an intelligent **cat**.
+ORNELLA: **Il** **gatto** lo sa. || **The** **cat** knows it.
+ORNELLA: **La** **casa** dei Carter è **piccola** e simpatica. || **The** Carters' **house** is **small** and nice.
+ORNELLA: E **il** **gatto** è **il** **gatto**. || And **the** **cat** is **the** **cat**.
+ORNELLA: Un'ora. Sì. || One hour. Yes.
+
+# SCENE casa-carter | sabato sera | chiara, ben
+NARRATOR: È sabato sera. La casa è silenziosa. || It's Saturday evening. The house is silent.
+NARRATOR: In cucina la lampada è piccola. || In the kitchen the lamp is small.
+NARRATOR: Chiara è in cucina con una matita. || Chiara is in the kitchen with a pencil.
+CHIARA: **La** **cucina** è **piccola**. || **The** **kitchen** is **small**.
+CHIARA: Ma **la** **finestra** è bella. || But **the** **window** is beautiful.
+NARRATOR: Chiara guarda **il** **tavolo** e **le** **sedie**. || Chiara looks at **the** **table** and **the** **chairs**.
+CHIARA: **Il** **tavolo** è qui. || **The** **table** is here.
+CHIARA: **Le** **sedie** sono qui. || **The** **chairs** are here.
+CHIARA: E **la** **finestra** è qui. || And **the** **window** is here.
+NARRATOR: **Le** **sedie** sono vecchie, ma belle. || **The** **chairs** are old, but nice.
+NARRATOR: Chiara scrive sulla lista. || Chiara writes on the list.
+NARRATOR: Ben arriva dal **corridoio**. || Ben comes from the **hallway**.
+NARRATOR: Ha due **scatole** **pesanti**. || He has two **heavy** **boxes**.
+BEN: Ecco! Due **scatole** **pesanti**! || Here! Two **heavy** **boxes**!
+NARRATOR: Ben **mette** le **scatole** sul **tavolo**. || Ben **puts** the **boxes** on the **table**.
+NARRATOR: **Il** **tavolo** è **piccolo**. || **The** **table** is **small**.
+NARRATOR: **Le** **scatole** sono **grandi**. || **The** **boxes** are **big**.
+CHIARA: Ben, **il** **tavolo** è **piccolo**. || Ben, **the** **table** is **small**.
+BEN: Lo so. Ma le **scatole** sono **pesanti**. || I know. But the **boxes** are **heavy**.
+CHIARA: Le **scatole** sono sempre **pesanti**. || The **boxes** are always **heavy**.
+BEN: È vero. || That's true.
+NARRATOR: Ben guarda le **scatole** nel **corridoio**. || Ben looks at the **boxes** in the **hallway**.
+BEN: Otto **scatole**. Otto. || Eight **boxes**. Eight.
+CHIARA: Sì. Otto. || Yes. Eight.
+BEN: Otto **scatole** in **cucina**? || Eight **boxes** in the **kitchen**?
+CHIARA: No. Nel **corridoio**, per adesso. || No. In the **hallway**, for now.
+NARRATOR: Ben guarda la **cucina**. || Ben looks at the **kitchen**.
+NARRATOR: Poi guarda il **corridoio**. || Then he looks at the **hallway**.
+BEN: Allora. Primo: apriamo le **scatole**. || So. First: we open the **boxes**.
+BEN: Secondo: **mettiamo** tutto in **cucina**. || Second: we **put** everything in the **kitchen**.
+CHIARA: Tutto in **cucina**? || Everything in the **kitchen**?
+BEN: Sì. Terzo: la **caffettiera**. || Yes. Third: the **coffee maker**.
+CHIARA: Ben, la **caffettiera** non è in **cucina**. || Ben, the **coffee maker** isn't in the **kitchen**.
+BEN: Come? || What?
+CHIARA: La **caffettiera** non è in **cucina**. || The **coffee maker** isn't in the **kitchen**.
+NARRATOR: Ben **apre** una **scatola**. || Ben **opens** a **box**.
+NARRATOR: Sulla **scatola** c'è una **parola** in inglese. || On the **box** there's a **word** in English.
+BEN: BATHROOM. **Il** **bagno**. || BATHROOM. **The** **bathroom**.
+NARRATOR: Ben **cerca** nella **scatola** del **bagno**. || Ben **looks** in the **bathroom** **box**.
+BEN: Dov'è la **caffettiera**? || Where's the **coffee maker**?
+NARRATOR: Nella **scatola** non c'è la **caffettiera**. || In the **box** there's no **coffee maker**.
+NARRATOR: C'è un **quaderno**. || There's a **notebook**.
+BEN: **Il** **quaderno**! || **The** **notebook**!
+CHIARA: **Il** **quaderno** delle **parole**? || **The** **notebook** of **words**?
+BEN: Sì. **Il** **quaderno** delle **parole** italiane. || Yes. **The** **notebook** of Italian **words**.
+NARRATOR: Sul **quaderno** ci sono dieci **parole**. || In the **notebook** there are ten **words**.
+BEN: Dieci **parole**. Dieci! || Ten **words**. Ten!
+CHIARA: Sì. Dieci **parole** nuove. || Yes. Ten new **words**.
+BEN: **Casa**, **cucina**, **bagno**… || **House**, **kitchen**, **bathroom**…
+CHIARA: … **camera**, **letto**, **tavolo**, **sedia**, **finestra**. || … **bedroom**, **bed**, **table**, **chair**, **window**.
+BEN: E **caffettiera**! || And **coffee maker**!
+CHIARA: **Caffettiera** no. La **caffettiera** non è nel **quaderno**. || **Coffee maker** no. The **coffee maker** isn't in the **notebook**.
+NARRATOR: Ben **apre** **il** **quaderno**. || Ben **opens** **the** **notebook**.
+NARRATOR: Sul **quaderno** c'è una **parola** nuova. || In the **notebook** there's a new **word**.
+BEN: Che **parola** è questa? || What **word** is this?
+CHIARA: "**Casa**". || "**House**".
+BEN: **Casa**. La **casa**. || **House**. **The** **house**.
+NARRATOR: Chiara prende la lista. || Chiara takes the list.
+NARRATOR: Sulla lista ci sono le **stanze**. || On the list there are the **rooms**.
+CHIARA: Ecco le **stanze**. || Here are the **rooms**.
+CHIARA: La **cucina**, il **bagno**, le **camere**. || The **kitchen**, the **bathroom**, the **bedrooms**.
+CHIARA: E il **corridoio**. || And the **hallway**.
+BEN: E il **letto**? || And the **bed**?
+CHIARA: Il **letto** è nella **camera**. || The **bed** is in the **bedroom**.
+BEN: Il **letto** non è nel **corridoio**? || The **bed** isn't in the **hallway**?
+CHIARA: No, Ben. Il **letto** è nella **camera**. || No, Ben. The **bed** is in the **bedroom**.
+NARRATOR: Ben guarda la **camera** dalla **porta**. || Ben looks at the **bedroom** from the **door**.
+NARRATOR: La **camera** **piccola** ha una **finestra** **piccola**. || The **small** **bedroom** has a **small** **window**.
+NARRATOR: La **camera** **grande** ha una **finestra** **grande**. || The **big** **bedroom** has a **big** **window**.
+BEN: La **camera** **grande** è di Emma? || The **big** **bedroom** is Emma's?
+CHIARA: Mah. Vediamo lunedì. || Hmm. We'll see on Monday.
+BEN: La **camera** **piccola** è **piccola**. || The **small** **bedroom** is **small**.
+CHIARA: Sì. Ma il **letto** è nuovo. || Yes. But the **bed** is new.
+NARRATOR: Chiara guarda Ben. || Chiara looks at Ben.
+CHIARA: Ben, la **casa** è in affitto. || Ben, the **house** is rented.
+BEN: Sì. Lo so. || Yes. I know.
+CHIARA: La **casa** è **piccola** per quattro persone. || The **house** is **small** for four people.
+NARRATOR: Ben non parla. || Ben doesn't speak.
+NARRATOR: Guarda il **corridoio**, le **scatole**, la **porta**. || He looks at the **hallway**, the **boxes**, the **door**.
+BEN: Ma è **casa**. || But it's **home**.
+NARRATOR: Chiara sorride. || Chiara smiles.
+CHIARA: Sì. È **casa**. || Yes. It's **home**.
+NARRATOR: Poi Chiara scrive ancora sulla lista. || Then Chiara writes again on the list.
+CHIARA: La **cucina** è **piccola**, ma è bella. || The **kitchen** is **small**, but it's nice.
+BEN: Anche la **finestra** è bella. || The **window** is nice too.
+CHIARA: Sì. La **finestra** è bella. || Yes. The **window** is beautiful.
+NARRATOR: Ben **apre** un'altra **scatola**. || Ben **opens** another **box**.
+NARRATOR: Questa **scatola** è **pesante**. || This **box** is **heavy**.
+BEN: **Pesante**. || **Heavy**.
+BEN: Questa **scatola** è **pesante**. || This **box** is **heavy**.
+NARRATOR: Dentro ci sono i libri. || Inside there are books.
+NARRATOR: Solo libri. || Only books.
+BEN: Libri. Ancora libri. || Books. More books.
+CHIARA: I libri sono per la **camera**? || The books are for the **bedroom**?
+BEN: No. I libri sono per il **corridoio**. || No. The books are for the **hallway**.
+CHIARA: Ben! || Ben!
+BEN: Va bene. I libri sono per la **cucina**? || All right. The books are for the **kitchen**?
+CHIARA: No! || No!
+NARRATOR: Ben ride. || Ben laughs.
+NARRATOR: Chiara ride anche lei. || Chiara laughs too.
+BEN: Allora, dove **metto** i libri? || So, where do I **put** the books?
+CHIARA: Nel **corridoio**, per adesso. || In the **hallway**, for now.
+BEN: Perfetto! || Perfect!
+NARRATOR: Ben porta i libri nel **corridoio**. || Ben carries the books into the **hallway**.
+NARRATOR: Poi va al **bagno**. || Then he goes to the **bathroom**.
+NARRATOR: La **porta** del **bagno** è aperta. || The **bathroom** **door** is open.
+NARRATOR: Sulla **porta** c'è un **foglio** **piccolo**. || On the **door** there's a **small** **sheet of paper**.
+BEN: **Bagno**. || **Bathroom**.
+CHIARA: È di Leo. || It's Leo's.
+BEN: Leo **mette** i **nomi** su tutto. || Leo **puts** **names** on everything.
+CHIARA: Sì. Su tutto. || Yes. On everything.
+NARRATOR: Ben guarda il **foglio** e sorride. || Ben looks at the **sheet of paper** and smiles.
+BEN: **Bagno**. Leo ha ragione. || **Bathroom**. Leo is right.
+NARRATOR: Ben torna in **cucina**. || Ben goes back into the **kitchen**.
+NARRATOR: Sul **tavolo** c'è il **quaderno**. || On the **table** there's the **notebook**.
+BEN: La **parola** nuova è "**casa**". || The new **word** is "**house**".
+CHIARA: Sì. La **parola** nuova è "**casa**". || Yes. The new **word** is "**house**".
+BEN: La **parola** "**casa**" è una bella **parola**. || The **word** "**house**" is a beautiful **word**.
+CHIARA: Sì. È la **parola** giusta. || Yes. It's the right **word**.
+NARRATOR: Chiara **mette** la matita sul **tavolo**. || Chiara **puts** the pencil on the **table**.
+CHIARA: Buonanotte, Ben. || Goodnight, Ben.
+BEN: Buonanotte. || Goodnight.
+NARRATOR: La **cucina** è **piccola**, ma è calda. || The **kitchen** is **small**, but it's warm.
+
+# SCENE casa-carter | domenica mattina | ben, chiara, emma, leo
+NARRATOR: È domenica mattina. || It's Sunday morning.
+NARRATOR: In **casa** c'è silenzio. || In the **house** there's silence.
+NARRATOR: Poi Leo **apre** **la** **porta** della **camera** **grande**. || Then Leo **opens** **the** **door** of the **big** **bedroom**.
+EMMA: Leo, buongiorno. || Leo, good morning.
+LEO: Buongiorno, Emma. || Good morning, Emma.
+NARRATOR: Emma e Leo hanno i **fogli** in mano. || Emma and Leo have the **sheets of paper** in their hands.
+EMMA: Allora. **La** **camera** **grande** è per tutti e due. || So. **The** **big** **bedroom** is for both of us.
+LEO: Sì. Ma **il** **letto** **grande** è tuo. || Yes. But **the** **big** **bed** is yours.
+EMMA: E **il** **letto** **piccolo** è tuo. || And **the** **small** **bed** is yours.
+LEO: Va bene. || Fine.
+NARRATOR: Leo **mette** un **foglio** sulla **porta**. || Leo **puts** a **sheet of paper** on the **door**.
+LEO: "**Camera** di Emma e Leo". || "Emma and Leo's **bedroom**".
+EMMA: **Il** **nome** è lungo. || **The** **name** is long.
+LEO: Sì. Ma è **il** **nome** giusto. || Yes. But it's **the** right **name**.
+NARRATOR: Emma **mette** un **foglio** sul **letto** **grande**. || Emma **puts** a **sheet of paper** on the **big** **bed**.
+EMMA: **Il** **letto** di Emma. || Emma's **bed**.
+NARRATOR: Leo **mette** un **foglio** sul **letto** **piccolo**. || Leo **puts** a **sheet of paper** on the **small** **bed**.
+LEO: **Il** **letto** di Leo. || Leo's **bed**.
+EMMA: E **la** **finestra**? || And **the** **window**?
+LEO: **La** **finestra** è **finestra**. || **The** **window** is **window**.
+EMMA: Perfetto. || Perfect.
+NARRATOR: Nella **stanza** ci sono due **letti**, una **finestra** e dieci **fogli**. || In the **room** there are two **beds**, a **window** and ten **sheets of paper**.
+LEO: Adesso **la** **camera** è bella. || Now **the** **bedroom** is nice.
+EMMA: Sì. Anche **la** **camera** **piccola** è bella? || Yes. Is **the** **small** **bedroom** nice too?
+LEO: Mah. Sì. || Hmm. Yes.
+NARRATOR: Poi Leo guarda **il** **corridoio**. || Then Leo looks at **the** **hallway**.
+LEO: Emma, dov'è papà? || Emma, where's Dad?
+EMMA: Nel **corridoio**. **Cerca** la **caffettiera**. || In the **hallway**. He's **looking for** the **coffee maker**.
+LEO: Ancora? || Still?
+EMMA: Ancora. || Still.
+NARRATOR: Nel **corridoio** Ben **apre** una **scatola** **grande** e **pesante**. || In the **hallway** Ben **opens** a **big**, **heavy** **box**.
+BEN: Dov'è la **caffettiera**? || Where's the **coffee maker**?
+BEN: Io non **trovo** la **caffettiera**. || I can't **find** the **coffee maker**.
+NARRATOR: Ben **cerca** nella **scatola**. || Ben **looks** in the **box**.
+NARRATOR: Nella **scatola** ci sono solo libri. || In the **box** there are only books.
+BEN: Libri. Ancora libri. || Books. More books.
+CHIARA: Ben, buongiorno. || Ben, good morning.
+BEN: Buongiorno. Io **cerco** la **caffettiera**. || Good morning. I'm **looking for** the **coffee maker**.
+CHIARA: Lo so. Tu **cerchi** la **caffettiera** ogni giorno. || I know. You **look for** the **coffee maker** every day.
+BEN: Sì. **Caffettiera**, **caffettiera**, **caffettiera**. || Yes. **Coffee maker**, **coffee maker**, **coffee maker**.
+NARRATOR: Ben guarda sotto **il** **divano**. || Ben looks under **the** **sofa**.
+NARRATOR: Sotto **il** **divano** c'è una **parola**. || Under **the** **sofa** there's a **word**.
+BEN: Che cos'è? Un **foglio**! || What's this? A **sheet of paper**!
+BEN: **La** **parola** è "**divano**". || **The** **word** is "**sofa**".
+CHIARA: È di Leo. || It's Leo's.
+BEN: Leo **mette** i **nomi** su tutto. || Leo **puts** **names** on everything.
+CHIARA: Sì. Su tutto. || Yes. On everything.
+NARRATOR: Ben **cerca** nella seconda **scatola**. || Ben **looks** in the second **box**.
+NARRATOR: Niente **caffettiera**. || No **coffee maker**.
+BEN: Niente. || Nothing.
+LEO: Papà! La **caffettiera** è nel **bagno**! || Dad! The **coffee maker** is in the **bathroom**!
+BEN: Nel **bagno**? || In the **bathroom**?
+LEO: Sì. Nel **bagno**. || Yes. In the **bathroom**.
+NARRATOR: Ben va al **bagno**. || Ben goes to the **bathroom**.
+NARRATOR: **La** **porta** è aperta e **il** **gatto** è nella **scatola**. || **The** **door** is open and **the** **cat** is in the **box**.
+BEN: **Il** **gatto**! || **The** **cat**!
+NARRATOR: Pavarotti dorme in una **scatola**. || Pavarotti sleeps in a **box**.
+BEN: Leo, **il** **gatto** è nella **scatola**. || Leo, **the** **cat** is in the **box**.
+EMMA: **Il** **gatto** è nella **scatola**? || **The** **cat** is in the **box**?
+LEO: Sì! E la **caffettiera** è nella **scatola**! || Yes! And the **coffee maker** is in the **box**!
+NARRATOR: Ben guarda nella **scatola**. || Ben looks in the **box**.
+NARRATOR: **Il** **gatto** dorme. E sotto **il** **gatto** c'è la **caffettiera**. || **The** **cat** sleeps. And under **the** **cat** there's the **coffee maker**.
+BEN: La **caffettiera**! || The **coffee maker**!
+BEN: La **caffettiera** è nella **scatola**. || The **coffee maker** is in the **box**.
+BEN: **Il** **gatto** è nella **scatola**. || **The** **cat** is in the **box**.
+BEN: Tutto è nella **scatola**! || Everything is in the **box**!
+NARRATOR: Emma e Leo ridono. || Emma and Leo laugh.
+LEO: **Il** **gatto** non **apre** **la** **scatola**? || Doesn't **the** **cat** **open** **the** **box**?
+EMMA: No, Leo. **Il** **gatto** dorme. || No, Leo. **The** **cat** is sleeping.
+NARRATOR: Ben prende la **caffettiera** dalla **scatola**. || Ben takes the **coffee maker** out of the **box**.
+NARRATOR: La **caffettiera** è **grande** e **pesante**. || The **coffee maker** is **big** and **heavy**.
+BEN: **Grande** e **pesante**. || **Big** and **heavy**.
+CHIARA: Ben, **la** **casa** è **piccola**. || Ben, **the** **house** is **small**.
+CHIARA: Ma la **caffettiera** è qui. || But the **coffee maker** is here.
+BEN: Sì. La **caffettiera** è qui. || Yes. The **coffee maker** is here.
+CHIARA: **Il** **gatto** è qui. || **The** **cat** is here.
+BEN: Sì. **Il** **gatto** è qui. || Yes. **The** **cat** is here.
+CHIARA: E **la** **stanza** è piena. || And **the** **room** is full.
+NARRATOR: Tutti guardano **la** **stanza** **piccola**. || Everyone looks at **the** **small** **room**.
+NARRATOR: **Il** **tavolo**, **la** **sedia**, **la** **finestra**, **la** **scatola**, **il** **gatto**. || **The** **table**, **the** **chair**, **the** **window**, **the** **box**, **the** **cat**.
+NARRATOR: Ben **mette** la **caffettiera** sul **tavolo**. || Ben **puts** the **coffee maker** on the **table**.
+BEN: Perfetto! || Perfect!
+EMMA: Papà, **il** **quaderno**! || Dad, **the** **notebook**!
+NARRATOR: Emma prende **il** **quaderno** di Ben. || Emma takes Ben's **notebook**.
+EMMA: **La** **parola** nuova è "**caffettiera**". || **The** new **word** is "**coffee maker**".
+LEO: No, "**gatto**"! || No, "**cat**"!
+EMMA: No, "**caffettiera**". || No, "**coffee maker**".
+LEO: "**Gatto**" è una **parola** bella. || "**Cat**" is a beautiful **word**.
+NARRATOR: Leo scrive "**caffettiera**" sul **quaderno**. || Leo writes "**coffee maker**" in the **notebook**.
+NARRATOR: Poi scrive "**gatto**". || Then he writes "**cat**".
+LEO: Ecco. Due **parole** nuove. || There. Two new **words**.
+BEN: Due **parole**. || Two **words**.
+CHIARA: E la **caffettiera** è qui. || And the **coffee maker** is here.
+BEN: E **il** **gatto** è qui. || And **the** **cat** is here.
+NARRATOR: Tutti ridono. || Everyone laughs.
+NARRATOR: **La** **casa** è **piccola**. || **The** **house** is **small**.
+NARRATOR: Ma è domenica e in **casa** c'è il caffè. || But it's Sunday and there's coffee in the **house**.
+
+# SCENE casa-carter | domenica mattina | leo, ben, chiara
+NARRATOR: È domenica mattina in **casa**. || It's Sunday morning at **home**.
+NARRATOR: La **cucina** è piena di luce. || The **kitchen** is full of light.
+NARRATOR: Leo **apre** la **porta** della **cucina**. || Leo **opens** the **door** of the **kitchen**.
+LEO: **Cucina**. || **Kitchen**.
+LEO: Un **nome** per tutto. || A **name** for everything.
+NARRATOR: **La casa** è piccola, ma piena di **nomi**. || **The house** is **small**, but full of **names**.
+NARRATOR: Sulla **porta** c'è un **foglio** con una **parola**. || On the **door** there's a **sheet of paper** with a **word**.
+CHIARA: Leo, **la casa** parla italiano. || Leo, **the house** speaks Italian.
+LEO: Sì. E anche **il gatto**. || Yes. And **the cat** too.
+BEN [proud]: Ecco la **caffettiera**! || Here's the **coffee maker**!
+NARRATOR: Ben la **mette** sul **tavolo**. || Ben **puts** it on the **table**.
+NARRATOR: Poi la guarda come un trofeo. || Then he looks at it like a trophy.
+CHIARA: Ben, **il tavolo** è piccolo. || Ben, **the table** is **small**.
+BEN: Sì. Ma la **casa** è bella. || Yes. But the **house** is beautiful.
+CHIARA: Sì. La **casa** è bella. || Yes. The **house** is beautiful.
+NARRATOR: Poi Ben **apre** la **porta** del **giardino**. || Then Ben **opens** the **door** of the **garden**.
+NARRATOR: **Il gatto** entra in cucina. || **The cat** comes into the kitchen.
+LEO: Guarda! **Il gatto** si siede sulla **sedia**. || Look! **The cat** sits down on the **chair**.
+BEN: **Il gatto** è sulla **sedia**. || **The cat** is on the **chair**.
+LEO: Adesso la **sedia** è del **gatto**. || Now the **chair** is the **cat**'s.
+CHIARA: Perfetto. || Perfect.
+BEN: Perfetto! || Perfect!
+NARRATOR: **Il gatto** dorme sulla **sedia**, vicino al **tavolo**. || **The cat** sleeps on the **chair**, near the **table**.
+NARRATOR: La **casa** è piccola, ma è piena. || The **house** is **small**, but it's full.
+LEO: Papà, dov'è la **scatola**? || Dad, where's the **box**?
+BEN: La **scatola** è nel **corridoio**. || The **box** is in the **hallway**.
+BEN: E la **caffettiera** è sul **tavolo**. || And the **coffee maker** is on the **table**.
+CHIARA: La **scatola** è vuota, la **casa** è piena. || The **box** is empty, the **house** is full.
+LEO: La **casa** è piena di **nomi**. || The **house** is full of **names**.
+CHIARA: E di **gatti**. || And of **cats**.
+NARRATOR: **Il gatto** **apre** un occhio e guarda la **cucina**. || **The cat** **opens** one eye and looks at the **kitchen**.
+LEO: **Cucina**. || **Kitchen**.
+BEN: **Cucina**. Perfetto! || **Kitchen**. Perfect!
+
+@grammar
+# Definite articles: *il, lo, la, l', i, gli, le*
+
+## What it is
+
+In English there are two little words you put in front of a noun when you mean a *specific* thing: **the**. Italian has the same idea, but the word for "the" changes. It has **seven** common forms: **il, lo, la, l', i, gli, le**. Which one you use depends on two things: the **gender** of the noun (masculine or feminine) and its **number** (singular or plural). Sometimes it also depends on the **sound** the noun starts with.
+
+Italian uses articles much more often than English. Where an English speaker might say "Houses are expensive" with no article, Italian normally says *Le case sono care*. And where English says "my house", Italian says *la mia casa*.
+
+## How it works
+
+### Singular
+
+| Form | Use it with | Examples |
+|---|---|---|
+| **il** | masculine, starts with a consonant (not *s* + consonant, not *z*) | **il** libro, **il** tavolo, **il** gatto |
+| **lo** | masculine, starts with *s* + consonant, *z*, *ps*, *gn*, *y* | **lo** studente, **lo** zaino, **lo** psicologo |
+| **la** | feminine, starts with any consonant | **la** casa, **la** cucina, **la** sedia |
+| **l'** | masculine or feminine, starts with a vowel | **l'**amico, **l'**amica, **l'**ora |
+
+So: *lo* and *la* lose their vowel to become *l'* before a vowel. *Il* never does: *il libro* → *l'*libro* is wrong; it stays **il** (or becomes **lo** only in front of *s* + consonant and the sounds above).
+
+### Plural
+
+| Form | Use it with | Examples |
+|---|---|---|
+| **i** | masculine plural of words that take *il* | **i** libri, **i** tavoli, **i** gatti |
+| **gli** | masculine plural of words that take *lo*, and all masculine nouns starting with a vowel | **gli** studenti, **gli** zaini, **gli** amici |
+| **le** | all feminine plurals | **le** case, **le** camere, **le** sedie |
+
+Notice: **gli** covers two jobs. It is the plural of both *lo* (lo studente → gli studenti) and *l'* (l'amico → gli amici).
+
+### When to use "the"
+
+Use the article when you mean a specific thing or things, and use it in several places English doesn't:
+
+- **General truths:** *La casa è piccola.* (The house is small — this particular house.)
+- **With possessive adjectives:** *la mia camera*, *il tuo nome*.
+- **With languages and school subjects:** *L'italiano è bello.*
+- **With titles before a name:** *la signora Galli*, *il signor Carter*.
+
+## From the story
+
+[[La casa è piena di scatole.]] — **la** with a feminine noun starting with a consonant; **scatole** takes no article because it isn't specific here.
+
+[[Il tavolo è pieno di scatole piccole.]] — **il** with a masculine noun starting with a simple consonant.
+
+[[Le sedie sono vecchie, ma belle.]] — **le** for a feminine plural.
+
+[[La porta del bagno è aperta.]] — **la** + **il** in one phrase: *la porta* / *il bagno*.
+
+[[Il gatto è un nome importante.]] — **il** with *gatto*; *un* is an indefinite article, the "a" version.
+
+[[Lui apre la finestra? No.]] — **la** with *finestra*, a normal feminine noun.
+
+[[Lo so, Leo. La casa è piccola.]] — **la** again; the same noun keeps the same article every time.
+
+[[La finestra è importante.]] — **la** before a feminine noun starting with a consonant.
+
+[[Le stanze sono piene di nomi.]] — **le** before a feminine plural; compare singular *la stanza*.
+
+## Common mistakes English speakers make
+
+1. **Dropping the article.** English says "Life is beautiful"; Italian says *La vita è bella*. If you mean a specific or general thing, you usually need the article.
+2. **Using *il* before *s* + consonant.** It is *lo studente*, not *il studente* — and *gli studenti* in the plural.
+3. **Making *l'* before any vowel in the plural.** *L'amico* is singular; the plural is *gli amici*, not *l'amici*.
+4. **Forgetting that the article agrees in number as well as gender.** *La casa* → *le case*; *il libro* → *i libri*.
+5. **Keeping the article with a name.** You say *la signora Galli*, but not *la Chiara*.
+6. **Using *le* for masculine plurals.** *Le libri* is always wrong; it's *i libri*.
+
+## Practice
+
+Choose the correct article.
+
+1. ___ cucina è piccola.
+2. ___ tavolo è nuovo.
+3. ___ sedia è vecchia.
+4. ___ gatto dorme sulla sedia.
+5. ___ stanza è piena di scatole.
+6. ___ case sono piccole.
+7. ___ libri sono sul tavolo.
+8. ___ amici di Leo sono a scuola.
+
+### Answer key
+
+1. **La** cucina è piccola.
+2. **Il** tavolo è nuovo.
+3. **La** sedia è vecchia.
+4. **Il** gatto dorme sulla sedia.
+5. **La** stanza è piena di scatole.
+6. **Le** case sono piccole.
+7. **I** libri sono sul tavolo.
+8. **Gli** amici di Leo sono a scuola.

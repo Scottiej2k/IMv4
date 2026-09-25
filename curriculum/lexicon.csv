@@ -1,28 +1,53 @@
 lemma,pos,gender,en,level,introduced,recycled,forms
-americano,adjective,,American,A1,s01e01,s05e03,"americana, americane, americani, americano"
+americano,adjective,,American,A1,s01e01,s01e03 s05e03,"americana, americane, americani, americano"
 amico,noun,m,friend,A1,s01e01,s05e03,"amica, amiche, amici, amico"
 arrivederci,interjection,,goodbye,A1,s01e01,,arrivederci
 benvenuto,adjective,,welcome,A1,s01e01,,"benvenuta, benvenute, benvenuti, benvenuto"
 buonasera,interjection,,good evening,A1,s01e01,,buonasera
-buongiorno,interjection,,good morning,A1,s01e01,s05e03,buongiorno
+buongiorno,interjection,,good morning,A1,s01e01,s01e03 s05e03,buongiorno
 ciao,interjection,,hi; bye,A1,s01e01,s05e03,ciao
-grazie,interjection,,thank you,A1,s01e01,s05e03,grazie
-il bambino,noun,m,child; boy,A1,s01e01,s05e03,"bambina, bambine, bambini, bambino, il bambino"
-il giorno,noun,m,day,A1,s01e01,s05e03,"giorni, giorno, il giorno"
-il nome,noun,m,name,A1,s01e01,,"il nome, nome, nomi"
+grazie,interjection,,thank you,A1,s01e01,s01e03 s05e03,grazie
+il bambino,noun,m,child; boy,A1,s01e01,s01e03 s05e03,"bambina, bambine, bambini, bambino, il bambino"
+il giorno,noun,m,day,A1,s01e01,s01e03 s05e03,"giorni, giorno, il giorno"
+il nome,noun,m,name,A1,s01e01,s01e03,"il nome, nome, nomi"
 il ragazzo,noun,m,boy; guy,A1,s01e01,,"il ragazzo, ragazza, ragazze, ragazzi, ragazzo"
 il signore,noun,m,gentleman; Mr; sir,A1,s01e01,s05e03,"il signore, signore, signori"
-il vicino,noun,m,neighbour,A1,s01e01,s05e03,"il vicino, vicina, vicine, vicini, vicino"
-italiano,adjective,,Italian,A1,s01e01,s05e03,"italiana, italiane, italiani, italiano"
-la casa,noun,f,house; home,A1,s01e01,s05e03,"casa, case, la casa"
+il vicino,noun,m,neighbour,A1,s01e01,s01e03 s05e03,"il vicino, vicina, vicine, vicini, vicino"
+italiano,adjective,,Italian,A1,s01e01,s01e03 s05e03,"italiana, italiane, italiani, italiano"
+la casa,noun,f,house; home,A1,s01e01,s01e03 s05e03,"casa, case, la casa"
 la scuola,noun,f,school,A1,s01e01,s05e03,"la scuola, scuola, scuole"
-la signora,noun,f,lady; Mrs; madam,A1,s01e01,s05e03,"la signora, signora"
-la via,noun,f,street,A1,s01e01,s05e03,"la via, via, vie"
+la signora,noun,f,lady; Mrs; madam,A1,s01e01,s01e03 s05e03,"la signora, signora"
+la via,noun,f,street,A1,s01e01,s01e03 s05e03,"la via, via, vie"
 mi chiamo,expression,,my name is,A1,s01e01,,mi chiamo
-nuovo,adjective,,new,A1,s01e01,s05e03,"nuova, nuove, nuovi, nuovo"
-per favore,expression,,please,A1,s01e01,,per favore
+nuovo,adjective,,new,A1,s01e01,s01e03 s05e03,"nuova, nuove, nuovi, nuovo"
+per favore,expression,,please,A1,s01e01,s01e03,per favore
 piacere,expression,,nice to meet you,A1,s01e01,,piacere
 scusi,interjection,,excuse me (formal),A1,s01e01,s05e03,scusi
+aprire,verb,,to open,A1,s01e03,s05e03,"apre, apriamo, aprire, apro, aprono"
+cercare,verb,,to look for,A1,s01e03,s05e03,"cerca, cercano, cercare, cerchiamo, cerco"
+grande,adjective,,big; large,A1,s01e03,s05e03,"grande, grandi"
+il bagno,noun,m,bathroom,A1,s01e03,,"bagni, bagno, il bagno"
+il corridoio,noun,m,hallway; corridor,A1,s01e03,,"corridoi, corridoio, il corridoio"
+il divano,noun,m,sofa,A1,s01e03,,"divani, divano, il divano"
+il foglio,noun,m,sheet of paper,A1,s01e03,,"fogli, foglio, il foglio"
+il gatto,noun,m,cat,A1,s01e03,s05e03,"gatti, gatto, il gatto"
+il giardino,noun,m,garden,A1,s01e03,,"giardini, giardino, il giardino"
+il letto,noun,m,bed,A1,s01e03,s05e03,"il letto, letti, letto"
+il quaderno,noun,m,notebook,A1,s01e03,s05e03,"il quaderno, quaderni, quaderno"
+il tavolo,noun,m,table,A1,s01e03,s05e03,"il tavolo, tavoli, tavolo"
+la caffettiera,noun,f,coffee maker; moka pot,A1,s01e03,,"caffettiera, caffettiere, la caffettiera"
+la camera,noun,f,bedroom,A1,s01e03,s05e03,"camera, camere, la camera"
+la cucina,noun,f,kitchen,A1,s01e03,s05e03,"cucina, cucine, la cucina"
+la finestra,noun,f,window,A1,s01e03,s05e03,"finestra, finestre, la finestra"
+la parola,noun,f,word,A1,s01e03,s05e03,"la parola, parola, parole"
+la porta,noun,f,door,A1,s01e03,s05e03,"la porta, porta, porte"
+la scatola,noun,f,box,A1,s01e03,,"la scatola, scatola, scatole"
+la sedia,noun,f,chair,A1,s01e03,s05e03,"la sedia, sedia, sedie"
+la stanza,noun,f,room,A1,s01e03,,"la stanza, stanza, stanze"
+mettere,verb,,to put,A1,s01e03,s05e03,"mette, mettere, mettiamo, metto, mettono"
+pesante,adjective,,heavy,A1,s01e03,s05e03,"pesante, pesanti"
+piccolo,adjective,,small; little,A1,s01e03,s05e03,"piccola, piccole, piccoli, piccolo"
+trovare,verb,,to find,A1,s01e03,s05e03,"trova, trovano, trovare, troviamo, trovo"
 chiedere che,expression,,to ask (someone) to,B1,s05e03,,"chiede che, chiedere che, chiediamo che, chiedono che"
 decidere,verb,,to decide,B1,s05e03,,"decide, decidere, decidi, decido"
 firmare,verb,,to sign,B1,s05e03,,"firma, firmare, firmato"
