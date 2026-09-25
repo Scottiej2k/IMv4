@@ -157,8 +157,9 @@ def call_openrouter(model, effort, system, messages, reasoning_tokens=None):
 
 
 # Scene asks as a multiple of the budget, per level, for models that don't undershoot like Claude.
-# DeepSeek pilots (2026-09-25): 1.3x ran 15-20% over; 1.0x gave A1 6% under, B1 2.5% over.
-ASK_FACTORS = {"deepseek/": {"A1": 1.15, "A2": 1.1, "B1": 1.0, "B2": 1.0}}
+# DeepSeek (2026-09-25): 1.3x ran 15-20% over; at A1, 1.0x gave 2,532 words and 1.15x gave
+# 3,093-3,568 (target 2,700-3,200); B1 at 1.0x landed in range.
+ASK_FACTORS = {"deepseek/": {"A1": 1.05, "A2": 1.05, "B1": 1.0, "B2": 1.0}}
 
 
 def cost(model, usage):

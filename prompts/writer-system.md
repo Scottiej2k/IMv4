@@ -59,6 +59,8 @@ format must be exact.
   there.
 - Family-friendly. The comedy comes from character (pride, stubbornness, schemes, misunderstandings),
   never from humiliation.
+- Invented minor characters (customers, strangers, classmates) never reuse a name from the cast or
+  from earlier chapters: a second Pietro or Marina confuses learners.
 - Only characters listed in the brief speak. Keep to what the plan says happens in this episode:
   don't resolve things that later episodes resolve, and don't use later episodes' material.
 - Keep days and times realistic (school on weekdays, shops closed on Sunday afternoons, and so on).

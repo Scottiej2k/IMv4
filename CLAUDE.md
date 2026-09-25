@@ -31,7 +31,7 @@ expensive runs.
 `scripts/pipeline.py` runs the writing scene by scene:
 1. Outline: the vocabulary block, plus per scene the beats, a word budget and which vocabulary it uses.
 2. Each scene, stated in lines, with a narration share and the scene's tu/Lei facts. Asked at 1.3×
-   its budget for Claude (it undershoots); DeepSeek per level: A1 1.15×, A2 1.1×, B1/B2 1.0×
+   its budget for Claude (it undershoots); DeepSeek per level: A1/A2 1.05×, B1/B2 1.0×
    (`ASK_FACTORS` in generate_chapter.py). A scene under 75% of budget is sent back once.
 3. The grammar lesson.
 4. `convert_draft.py` (ids, turns, focus tags, vocab examples/targets, citations, then
