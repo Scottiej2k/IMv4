@@ -45,6 +45,17 @@ def italian_words(scene_text):
     return n
 
 
+def bold_mismatch(scene_text):
+    """(lines with bold in the Italian, how many of those have fewer bold spans in the English)."""
+    bolded = unmatched = 0
+    for line in scene_text.splitlines():
+        m = convert_draft.LINE_RE.match(line.strip())
+        if m and "**" in m.group(3):
+            bolded += 1
+            unmatched += m.group(4).count("**") < m.group(3).count("**")
+    return bolded, unmatched
+
+
 class Pipeline:
     def __init__(self, cid):
         self.cid = cid
@@ -222,6 +233,9 @@ Return only the scene: the heading line exactly as above, then its lines in the 
                 scenes.append({"heading": lines[0].strip(), "words": words or 300,
                                "beats": fields.get("beats", ""), "vocab": fields.get("vocab", "")})
         if not vocab or len(scenes) < 3:
+            # Kept for diagnosis: 3 of 4 outlines in the first batch needed a second try.
+            n = len(list(self.work.glob("outline-unreadable-*.txt"))) + 1
+            (self.work / f"outline-unreadable-{n}.txt").write_text(answer + "\n", encoding="utf-8")
             self.state["retry"] = ("Your outline couldn't be read (it needs an @vocab … @end block and at least "
                                    "3 scenes under @outline, each starting with '# SCENE' or '# CONFESSIONALE').")
             return
@@ -253,6 +267,16 @@ Return only the scene: the heading line exactly as above, then its lines in the 
             self.state["retry"] = (f"That scene has {n} Italian words; it needs about {sc['words']}. Write it again, "
                                    "complete and longer: add real exchanges and beats that fit the scene, not "
                                    "padding or repeated lines. Same format, heading first.")
+            return
+        # A scene whose English lacks the bold would flood the single fix round (S1E5: 27 errors).
+        bolded, unmatched = bold_mismatch(answer)
+        if bolded >= 4 and unmatched > bolded / 3 and k not in self.state.setdefault("rebolded", []):
+            self.state["rebolded"].append(k)
+            print(f"  scene {k + 1}: English bold missing on {unmatched} of {bolded} bolded lines; sent back")
+            self.state["retry"] = (f"In that scene, {unmatched} of the {bolded} lines with bold Italian have no "
+                                   "matching bold in the English. Return the same scene with the English of every "
+                                   "such line bolded to match (`**sono**` ↔ `**I am**`, same number and order of "
+                                   "bold spans). Change nothing else. Same format, heading first.")
             return
         if k + 1 < len(self.state["scenes"]):
             self.state["scene"] = k + 1

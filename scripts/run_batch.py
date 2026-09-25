@@ -64,7 +64,7 @@ def expand(specs):
 def stats(log, report):
     """Pull cost, tokens, calls, words and dialogue share out of the run log and the build report."""
     s = {}
-    m = re.search(r"done · (\d+) calls · (\d+) output tokens · (?:estimated )?cost \$([\d.]+)", log)
+    m = re.search(r"(?:done|stopped) · (\d+) calls · (\d+) output tokens · (?:estimated )?cost \$([\d.]+)", log)
     if m:
         s.update(calls=int(m.group(1)), tokens=int(m.group(2)), cost=float(m.group(3)))
     m = re.search(r"(\d+) words · \d+ segments · [\d.]+ words/segment · dialogue (\d+)%", report)

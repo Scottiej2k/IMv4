@@ -20,6 +20,7 @@ import argparse
 import json
 import os
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
@@ -77,7 +78,36 @@ def call(client, model, effort, system, messages):
     return msg
 
 
-OPENROUTER_URL = "https://www.openrouter.ai/api/v1/chat/completions"  
+OPENROUTER_URL = "https://www.openrouter.ai/api/v1/chat/completions"
+# Longest wait for one reply. OpenRouter keeps a slow request's connection alive with blank lines,
+# so a socket timeout never fires; one request hung for 40 minutes (S1E2 batch, 2026-09-25).
+REQUEST_DEADLINE = 600
+# Preferred OpenRouter providers. The same model costs up to 3x more at some providers, and the
+# chapter conversation is re-sent on every call, so a provider that caches it (DeepSeek's own: 2% of
+# the input price for cached text) keeps a chapter at a few cents. Unpinned, the first batch paid
+# $0.11–0.14 a chapter against $0.02–0.04 in the pilots.
+PROVIDER_ORDER = {"deepseek/": ["deepseek", "deepinfra"]}
+
+
+def _fetch_with_deadline(req, seconds):
+    """urlopen + read + parse in a helper thread; raise TimeoutError if it takes longer than `seconds`."""
+    result = {}
+
+    def work():
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                result["out"] = json.loads(resp.read())
+        except BaseException as e:  # handed back to the caller
+            result["err"] = e
+
+    t = threading.Thread(target=work, daemon=True)
+    t.start()
+    t.join(seconds)
+    if t.is_alive():
+        raise TimeoutError(f"no complete reply after {seconds}s")
+    if "err" in result:
+        raise result["err"]
+    return result["out"]
 
 
 def call_openrouter(model, effort, system, messages, reasoning_tokens=None):
@@ -90,33 +120,36 @@ def call_openrouter(model, effort, system, messages, reasoning_tokens=None):
                       {"effort": {"xhigh": "high", "max": "high"}.get(effort, effort)}),
         "usage": {"include": True},
     }
+    order = next((o for prefix, o in PROVIDER_ORDER.items() if model.startswith(prefix)), None)
+    if order:
+        body["provider"] = {"order": order, "allow_fallbacks": True}
     # A User-Agent is needed: Cloudflare rejects Python's default one (error 1010).
     headers = {"Content-Type": "application/json", "X-Title": "IMv4 Italian course",
                "User-Agent": "IMv4/1.0"}
     if os.environ.get("OPENROUTER_API_KEY"):
         headers["Authorization"] = f"Bearer {os.environ['OPENROUTER_API_KEY']}"
     data = json.dumps(body).encode()
-    for attempt in range(4):
+    tries = 5
+    for attempt in range(tries):
         req = urllib.request.Request(OPENROUTER_URL, data=data, headers=headers, method="POST")
         try:
-            with urllib.request.urlopen(req, timeout=900) as resp:
-                out = json.loads(resp.read())
+            out = _fetch_with_deadline(req, REQUEST_DEADLINE)
+            if "error" in out or not out.get("choices"):
+                raise RuntimeError(f"OpenRouter error in reply: {str(out.get('error', out))[:300]}")
             break
         except urllib.error.HTTPError as e:
             detail = e.read().decode(errors="replace")[:300]
-            if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+            if e.code in (408, 429, 500, 502, 503, 504) and attempt < tries - 1:
                 print(f"  OpenRouter {e.code}; retrying")
                 time.sleep(2 ** attempt * 10)
                 continue
             raise RuntimeError(f"OpenRouter error {e.code}: {detail}")
-        except urllib.error.URLError:
-            if attempt < 3:
-                print("  connection error; retrying")
+        except Exception as e:  # dropped connection, cut-off body, bad JSON, deadline, error in reply
+            if attempt < tries - 1:
+                print(f"  {type(e).__name__}: {str(e)[:120]}; retrying")
                 time.sleep(2 ** attempt * 5)
                 continue
             raise
-    if "error" in out:
-        raise RuntimeError(f"OpenRouter error: {out['error']}")
     choice = out["choices"][0]
     if choice.get("finish_reason") == "length":
         print("  warning: a reply hit max_tokens and may be cut off")
@@ -159,36 +192,46 @@ def main():
     if not openrouter:
         import anthropic
         client = anthropic.Anthropic()
-    messages, total, out_tokens, calls = [], 0.0, 0, 0
+    messages = []
 
     print(f"{args.chapter}: writing with {args.model} via {'OpenRouter' if openrouter else 'Claude API'} "
           f"(effort {args.effort}, scene ask {pipe.ask_factor}x)")
+    try:
+        _loop(pipe, args, openrouter, client, messages)
+    finally:  # report what was spent even if a request failed for good
+        s = _spent
+        print(f"{args.chapter}: {'done' if pipe.state['step'] == 'done' else 'stopped'} · {s['calls']} calls · "
+              f"{s['out']} output tokens · {'cost' if openrouter else 'estimated cost'} ${s['cost']:.3f}")
+
+
+_spent = {"calls": 0, "out": 0, "cost": 0.0}
+
+
+def _loop(pipe, args, openrouter, client, messages):
     prompt = pipe.next_prompt()
     while prompt is not None:
         print(f"- {prompt.splitlines()[0][:70]}")
         if pipe.state["step"] == "continuity":
             messages = []  # the prompt carries the final story, so the long conversation isn't needed
         messages.append({"role": "user", "content": prompt})
-        calls += 1
+        _spent["calls"] += 1
         if openrouter:
-            # Outline and continuity entry are short, but DeepSeek has spent all 32k output tokens
-            # thinking about an outline (S5E3, even at low effort), so their thinking is capped.
-            cap = 12000 if pipe.state["step"] in ("outline", "continuity") else None
+            # Outline, fixes and continuity entry are short, but DeepSeek has spent all 32k output
+            # tokens thinking about an outline (S5E3) and a long fix list (S1E5), so their thinking
+            # is capped.
+            cap = 12000 if pipe.state["step"] in ("outline", "fix", "continuity") else None
             text, usage = call_openrouter(args.model, args.effort, pipe.system, messages, cap)
             messages.append({"role": "assistant", "content": text})
-            total += float(usage.get("cost") or 0)
-            out_tokens += int(usage.get("completion_tokens") or 0)
+            _spent["cost"] += float(usage.get("cost") or 0)
+            _spent["out"] += int(usage.get("completion_tokens") or 0)
         else:
             msg = call(client, args.model, args.effort, pipe.system, messages)
             messages.append({"role": "assistant", "content": msg.content})  # thinking blocks passed back unchanged
-            total += cost(args.model, msg.usage)
-            out_tokens += msg.usage.output_tokens
+            _spent["cost"] += cost(args.model, msg.usage)
+            _spent["out"] += msg.usage.output_tokens
             text = "".join(b.text for b in msg.content if b.type == "text")
         pipe.submit(text)
         prompt = pipe.next_prompt()
-
-    print(f"{args.chapter}: done · {calls} calls · {out_tokens} output tokens · "
-          f"{'cost' if openrouter else 'estimated cost'} ${total:.3f}")
 
 
 if __name__ == "__main__":

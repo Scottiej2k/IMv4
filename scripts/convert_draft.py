@@ -8,6 +8,7 @@ and segment ids for the grammar lesson's quotes.
 
 Usage: python3 scripts/convert_draft.py s01e01
 """
+import difflib
 import json
 import re
 import sys
@@ -223,20 +224,46 @@ def convert(cid):
             for s in t["segments"]:
                 seg_index.setdefault(norm(s["it"]), s)
 
+    # Writers sometimes misquote (a typo) or quote a sentence that isn't in the story. The fix round
+    # can't repair the lesson, so: a close match is cited as the real line, anything else is dropped
+    # with its comment line. Both are notes for review, not errors.
+    DROP = "\x00drop\x00"
+    kept = [0]
+
     def cite(m):
         key = norm(m.group(1))
         seg = seg_index.get(key)
         if seg is None:
             cands = [s for k2, s in seg_index.items() if key and key in k2]
             seg = cands[0] if len(cands) == 1 else None
+        if seg is None and key:
+            close = difflib.get_close_matches(key, list(seg_index), n=1, cutoff=0.85)
+            if close:
+                seg = seg_index[close[0]]
+                notes.append(f"grammar quote [[{m.group(1)[:60]}]] cited as the story line: {seg['it'][:60]}")
         if seg is None:
-            errors.append(f"grammar lesson quotes a sentence that isn't in the story: [[{m.group(1)[:60]}]]")
-            return m.group(0)
+            notes.append(f"grammar quote [[{m.group(1)[:60]}]] isn't in the story; dropped it")
+            return DROP
+        kept[0] += 1
         return f"“{bc.reader_text(seg['it'])}” — {bc.strip_tags(seg['en'])} (`{seg['id']}`)"
 
     grammar_md = QUOTE_RE.sub(cite, grammar) if grammar else ""
+    if DROP in grammar_md:
+        out, skip_comment = [], False
+        for ln in grammar_md.splitlines():
+            if DROP in ln:
+                skip_comment = True
+                continue
+            if skip_comment and ln.strip().startswith(("—", "–", "- —")):
+                skip_comment = False
+                continue
+            skip_comment = skip_comment and not ln.strip()
+            out.append(ln)
+        grammar_md = re.sub(r"\n{3,}", "\n\n", "\n".join(out))
     if not grammar:
         errors.append("no @grammar section (the grammar lesson)")
+    elif kept[0] < 3:
+        errors.append(f"grammar lesson has only {kept[0]} quote(s) from the story (needs 5–10 as [[exact line]])")
 
     if errors:
         print(f"== {cid}: draft has {len(errors)} error(s); nothing written")
