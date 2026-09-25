@@ -4,1388 +4,1040 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Casa Carter, Via dei Tigli 14 · lunedì mattina
+## 1. Via dei Tigli · lunedì mattina
 
-Lunedì mattina, Via dei Tigli è piena di scatole. Il **furgone** bianco è davanti al numero quattordici.
+È lunedì mattina, il primo **giorno** di settembre. In Via dei Tigli c'è un furgone grande davanti al numero quattordici. La **porta** della **casa** è aperta. Le **finestre** sono aperte.
 
-*Chiara:* Ben, questa scatola è per la cucina.
+*Ben:* **Buongiorno**! **Buongiorno** a tutti!
 
-*Ben:* Perfetto. Cucina. Scatola. Tutto chiaro.
+Ben è in mezzo alla strada. Ha un quaderno in mano.
 
-*Chiara:* Questa è per la camera di Leo.
+*Chiara:* Ben! Perché parli con la strada?
 
-*Leo:* La mia scatola è blu?
+*Ben:* **Buongiorno**, Chiara! Io **sono** Ben! Io **sono** **americano**!
 
-*Chiara:* Sì, Leo. La scatola blu è tua.
+*Chiara:* Lo so, Ben. Io **sono** tua moglie.
 
-*Leo:* Bene. Lo zaino è blu.
+*Ben:* Sì, ma **adesso** io parlo con la strada.
 
-*Emma:* Anche il mio zaino è blu.
+Leo esce dalla **casa**. Ha uno zaino grande.
 
-*Leo:* Allora siamo una squadra blu.
+*Leo:* Papà, perché parli con la strada?
 
-Ben tiene un **quaderno** piccolo in mano.
+*Ben:* Perché **adesso** io **sono** **il vicino**!
 
-*Ben:* Ho tre frasi. Sono pronto.
+Un signore passa con un cane. Ben alza la mano.
 
-*Chiara:* Hai anche una penna?
+*Ben:* **Buongiorno**! **Piacere**! Ben Carter!
 
-*Ben:* No. Ma ho le frasi.
+Il signore saluta con la testa e va avanti.
 
-*Emma:* Che grande preparazione.
+*Ben:* Niente **grazie**? Niente **per favore**? Mah.
 
-*Ben:* Grazie, Emma. Il tuo sostegno conta.
+*Leo:* Papà, tu **sei** **nuovo**. La gente non parla con i **vicini** **nuovi**.
 
-*Emma:* Non è sostegno. È ironia.
+*Ben:* Ma io **sono** simpatico!
 
-*Chiara:* Emma, per favore, aiuta Leo.
+*Chiara:* Ben, la **scuola** di Leo è a trecento metri. La **scuola** di Emma è a Monza. Il treno è alle otto.
 
-*Emma:* Sì, mamma. Ciao.
+*Ben:* Perfetto! Primo: Leo a **scuola**. Secondo: Emma al treno. Terzo: il furgone.
 
-*Leo:* Ciao a chi?
-
-*Emma:* A te. Ciao.
-
-*Leo:* Ciao, Emma.
-
-*Ben:* **Ciao!** È la prima frase. Poi: **mi chiamo** Ben Carter. Poi: **sono** **americano**.
-
-*Chiara:* Ben, sono tre frasi, non un discorso.
-
-*Ben:* Tre frasi. Una grande impressione.
-
-Chiara guarda la strada e le scatole.
-
-*Chiara:* Primo: scatole in casa. Secondo: Leo, zaino e giacca. Terzo: Emma, pronta per la scuola?
-
-*Emma:* Sì. Sono pronta.
-
-*Chiara:* Ottimo. E tu, Ben?
-
-*Ben:* Io sono pronto per i vicini.
-
-*Emma:* Il **vicino** non è un pubblico.
-
-*Ben:* Ogni persona è un pubblico piccolo.
-
-*Chiara:* Non è una campagna pubblicitaria.
-
-*Ben:* Per me, è un saluto.
-
-*Leo:* Il furgone è davanti alla porta.
-
-*Chiara:* Sì. Il furgone non entra in casa.
-
-*Leo:* Ma la porta è grande.
-
-*Ben:* Leo, la casa è grande. Il furgone è più grande.
-
-*Chiara:* Ben, non iniziare con le scatole.
-
-*Ben:* Io non inizio. Io saluto.
-
-La **finestra** al piano accanto è aperta. Una signora guarda la famiglia dalla finestra.
-
-*Leo:* Mamma, la **signora** è alla finestra.
-
-*Chiara:* Sì, Leo. È la nostra vicina.
-
-*Leo:* Anche lei è pronta per la scuola?
-
-*Emma:* Leo, non tutti vanno a scuola.
-
-*Leo:* Perché no?
-
-*Emma:* Perché hanno altri programmi.
-
-*Ben:* Allora, io saluto la signora.
-
-*Chiara:* Va bene. Piano, Ben.
-
-*Ben:* Signora! Buongiorno!
-
-La signora sorride dalla finestra.
-
-*Ben:* **Buongiorno! Mi chiamo** Ben. **Sono americano**. Piacere!
-
-*Chiara:* Ben, la signora è lontana.
-
-*Ben:* La mia voce è forte.
-
-*Emma:* È una cosa che notiamo.
-
-*Leo:* La signora dice qualcosa?
-
-La signora agita una mano.
-
-*Ben:* Perfetto. Il saluto è un successo.
-
-*Emma:* La signora saluta con la mano. Non applaude.
-
-*Ben:* Un gesto positivo è un successo.
-
-*Chiara:* Ben, il **posto** davanti al numero quattordici?
-
-*Ben:* Il posto è per il furgone.
-
-*Chiara:* Il furgone è davanti a casa. Ma blocca il passaggio.
-
-*Ben:* È un **posto** speciale.
-
-*Chiara:* È un posto per le auto.
-
-*Ben:* Allora è perfetto per il furgone.
-
-*Emma:* Non proprio.
-
-*Leo:* Il furgone è una macchina grande.
-
-*Chiara:* Non è questo il problema.
-
-*Ben:* Capisco. La strada è stretta.
-
-*Chiara:* Esatto. E il passaggio è occupato.
-
-*Ben:* Allora sposto il furgone.
-
-*Chiara:* Prima saluta. Poi sposti il furgone.
-
-*Ben:* C’è una fila per salutare?
-
-*Chiara:* No, Ben. Non c’è nessuna fila.
-
-*Emma:* La strada non è un negozio.
-
-*Ben:* Bene. Nessuna fila.
-
-Ben apre il suo quaderno.
-
-*Ben:* Prima frase: ciao. Seconda frase: mi chiamo Ben. Terza frase: sono americano.
-
-*Chiara:* E la quarta frase?
-
-*Ben:* Non c’è una quarta frase.
-
-*Chiara:* Molto bene.
-
-*Leo:* Mamma, io sono italiano?
-
-*Chiara:* Sì, Leo. Tu **sei italiano**.
-
-*Leo:* E Emma?
-
-*Chiara:* Emma è italiana e americana.
-
-*Emma:* Sono italiana. Sono anche americana.
-
-*Ben:* Anche io sono americano.
-
-*Leo:* E papà è americano.
-
-*Ben:* Sì, Leo. Io **sono** **americano**.
-
-*Emma:* È la tua frase numero tre.
-
-*Ben:* La frase è molto utile.
-
-*Chiara:* La tua famiglia è pronta?
-
-*Ben:* Sì. **La famiglia** è pronta.
-
-*Leo:* Io sono pronto.
-
-*Emma:* Io sono pronta da dieci minuti.
-
-*Chiara:* Basta, Emma. Andiamo.
-
-*Emma:* Ciao, casa.
-
-*Ben:* Ciao, casa nuova.
-
-*Leo:* La casa è nostra?
-
-*Chiara:* Sì. È la nostra casa.
-
-*Ben:* È una bella casa.
-
-*Emma:* E ci sono scatole ovunque.
-
-*Chiara:* Le scatole sono parte della casa.
-
-*Ben:* È una bella frase.
-
-Dall’altra parte della strada, Franco è sulla soglia. Guarda il furgone, le scatole e Ben. Franco dice: «**Mah**».
-
-*Leo:* Nonno Franco dice «Mah».
-
-*Chiara:* Sì. È il suo saluto.
-
-*Ben:* «Mah» è un saluto italiano?
-
-*Emma:* Per Franco, forse.
-
-*Ben:* Allora, **buongiorno**, signor Franco!
-
-Franco guarda Ben. Non risponde.
-
-*Ben:* Il saluto è quasi un successo.
-
-*Chiara:* Ben, il furgone.
-
-*Ben:* Sì. Prima il furgone.
-
-*Leo:* Poi la scuola?
-
-*Chiara:* Sì, Leo. Poi la scuola.
-
-*Emma:* E poi un altro ciao.
-
-*Ben:* **Ciao** è la mia specialità.
-
-*Chiara:* Per ora, è la tua unica specialità.
-
-*Ben:* Perfetto. Una specialità è un inizio.
-
-Ben richiude il quaderno e sorride. Chiara indica il furgone.
-
-*Chiara:* Ben, quel posto libero è più avanti.
-
-*Ben:* Il posto libero. Capisco.
-
-*Emma:* Davvero?
-
-*Ben:* Sì. Il furgone va lì.
-
-*Leo:* E noi?
-
-*Chiara:* Noi andiamo a scuola.
-
-*Ben:* Tutti insieme. La famiglia italiana-americana.
-
-*Emma:* Ciao, papà. Senza discorso.
-
-*Ben:* **Ciao**, Emma. Senza discorso.
-
-Il furgone parte. Franco guarda ancora. Dalla finestra, la signora saluta la famiglia.
-
-*Chiara:* Ecco. Un saluto per tutti.
-
-*Ben:* Sì. E nessuna parola nuova.
-
-*Leo:* «Mah» è una parola nuova.
-
-*Ben:* Allora la scrivo nel quaderno.
-
-## 2. Confessionale
-
-Ben è solo davanti alla telecamera.
-
-> *Ben:* **Ciao**, mi chiamo Ben Carter. **Sono** **americano**. La mia famiglia è americana e **italiana**. Questo è il mio **quaderno** delle parole. Qui c’è il mio piano per la strada. Saluto ogni **vicino** con le stesse frasi. Primo: ciao. Secondo: mi chiamo Ben. Terzo: sono americano. Poi dico: **piacere**. E poi: **grazie**.
-
-Ben mostra il quaderno e sorride.
-
-> *Ben:* È semplice, chiaro e molto professionale. Ogni vicino riceve lo stesso saluto. È una campagna, ma senza manifesti. Il mio slogan è: «Ciao, sono Ben».
-
-Ben annuisce, soddisfatto del piano.
-
-> *Ben:* **Sono** italiano? No. Sono americano.
-
-## 3. Scuola primaria Gianni Rodari · lunedì mattina
-
-Davanti alla **scuola**, Chiara ferma i figli.
-
-*Chiara:* Leo, il tuo zaino è pronto?
-
-*Leo:* Sì, mamma. È qui.
-
-*Chiara:* Emma, tu resti con Leo.
-
-*Emma:* Sì, mamma. Sono qui.
-
-*Leo:* Anche tu entri nella mia classe?
-
-*Emma:* No, Leo. Io vado al liceo.
-
-*Leo:* La tua scuola è lontana?
-
-*Emma:* È a Monza.
-
-*Leo:* Monza è lontana?
-
-*Chiara:* Leo, prima la tua scuola.
-
-*Leo:* Sì. La **scuola** è qui.
-
-*Chiara:* La tua classe è al piano terra.
-
-*Leo:* Il mio zaino è pronto.
-
-*Emma:* Lo zaino è più pronto di te.
-
-*Leo:* Sono pronto anch’io.
-
-*Chiara:* Bravi. Andiamo all’ingresso.
-
-La maestra Paola aspetta sulla porta.
-
-*Maestra Paola:* **Buongiorno**, Leo. **Buongiorno**, Chiara.
-
-*Chiara:* **Buongiorno**, maestra Paola.
-
-*Leo:* **Buongiorno**.
-
-*Maestra Paola:* Tu sei Leo Carter?
-
-*Leo:* Sì. **Io sono** Leo.
-
-*Maestra Paola:* Piacere, Leo. Io sono Paola.
-
-*Leo:* **Piacere**, maestra Paola.
-
-*Maestra Paola:* Questa è **la classe** terza.
-
-*Leo:* La mia classe è grande.
-
-*Maestra Paola:* Sì, la classe è allegra.
-
-*Leo:* E il mio zaino è grande.
-
-*Chiara:* Leo, questa è la tua **maestra**.
-
-*Leo:* Sì, mamma. La maestra è gentile.
-
-*Maestra Paola:* Grazie, Leo. Anche tu sei gentile.
-
-*Leo:* **Grazie**.
-
-*Chiara:* **La famiglia** è pronta per il primo giorno.
-
-*Leo:* Anche il mio zaino è pronto.
-
-*Emma:* Lo zaino è il protagonista.
-
-*Leo:* Il mio nome è sullo zaino.
-
-*Chiara:* E qual è il tuo **nome**?
-
-*Leo:* Leo. Il mio nome è Leo.
-
-*Maestra Paola:* Vuoi dire il tuo nome alla classe?
-
-*Leo:* Sì. Ma anche il nome dello zaino?
-
-*Maestra Paola:* Solo il tuo nome, Leo.
-
-*Leo:* Va bene. Il mio zaino non parla.
-
-*Emma:* Per fortuna.
-
-Emma guarda verso l’ingresso della scuola. Alcuni ragazzi sono vicino alla porta. Emma resta accanto a Chiara.
-
-*Chiara:* Emma, questi ragazzi sono tuoi compagni?
-
-*Emma:* Forse. Non lo so.
-
-*Chiara:* Puoi salutarli.
+Emma esce dalla **porta** con gli occhiali da sole.
 
 *Emma:* **Ciao**.
 
-*Chiara:* Tutto qui?
+*Ben:* **Ciao**, Emma! **Arrivederci**! Buona **scuola**!
 
-*Emma:* Sì. **Ciao** è una parola completa.
+Emma non risponde. Va verso la stazione. È un **giorno** importante.
 
-*Leo:* Io dico anche il mio nome.
+*Chiara:* Emma! Emma, aspetta!
 
-*Emma:* Tu hai otto anni.
+Emma alza una mano. Un **ciao** piccolo, senza parole.
 
-*Leo:* E tu hai quindici anni.
+*Leo:* Emma dice solo **ciao**.
 
-*Emma:* Esatto. Io sono più grande.
+*Ben:* Anch'io dico **ciao**! Noi **siamo** una famiglia simpatica!
 
-*Chiara:* Emma, un saluto è un buon inizio.
+Dall'altra parte della strada, al numero nove, una **porta** si apre. Esce Franco. Ha un cappello e le forbici da giardino.
 
-*Emma:* Ciao è un saluto.
+*Ben:* **Buongiorno**! Io **sono** Ben! **Sono** **americano**! **Piacere**!
 
-*Chiara:* Sì. E magari dici «piacere».
+Franco guarda Ben. Guarda il furgone. Guarda Ben di nuovo.
 
-*Emma:* Magari no.
+*Franco:* Mah.
 
-*Leo:* Maestra Paola, Emma è timida?
+*Chiara:* Papà! **Buongiorno**, papà.
 
-*Emma:* Leo!
+*Franco:* Mah.
 
-*Maestra Paola:* Ogni persona è diversa, Leo.
+*Ben:* Chiara, che cosa significa "mah"?
 
-*Leo:* Io sono Leo. Tu sei Paola.
+*Chiara:* Significa... mah.
 
-*Maestra Paola:* Esatto. E lei è Emma.
+Leo corre verso Franco.
 
-*Leo:* Emma è mia sorella.
+*Leo:* Nonno! Io **sono** Leo! Tu **sei** il nonno!
 
-*Emma:* E lui è mio fratello.
+*Franco:* **Ciao**, Leo. Tu **sei** **americano**?
 
-*Leo:* Siamo una famiglia.
+*Leo:* Sì. Ma la mia **scuola** è **italiana**.
 
-*Chiara:* Sì, siete una bella famiglia.
+*Franco:* Bene. Mah.
 
-*Leo:* Anche la maestra è della famiglia?
+Franco guarda la **casa** numero quattordici.
 
-*Maestra Paola:* No, Leo. Io sono la tua maestra.
+*Ben:* Allora, Franco. Io **sono** **il vicino**.
 
-*Leo:* La maestra non è mia sorella.
+*Franco:* Mah.
 
-*Maestra Paola:* No, ma oggi siamo una squadra.
+*Ben:* Io **sono** **il vicino** vecchio.
 
-*Leo:* Una squadra con lo zaino?
+*Chiara:* No, Ben. **Il vicino** **nuovo**.
 
-*Maestra Paola:* Certo. Anche lo zaino è pronto.
+*Ben:* **Nuovo**?
 
-*Leo:* Allora siamo in tre.
+*Chiara:* **Nuovo**. Vecchio è mio padre.
 
-*Chiara:* Leo, entra con la maestra.
+Franco non sorride. Ma non entra in **casa**.
 
-*Leo:* Mamma, tu sei qui?
+*Franco:* Mah.
 
-*Chiara:* Sì, sono qui. Ma ora vado al lavoro.
+*Ben:* Chiara, lui è **il vicino**?
 
-*Leo:* Tu sei un’architetta.
+*Chiara:* No, Ben. Lui è mio padre.
 
-*Chiara:* Esatto. E tu sei uno studente.
+*Ben:* Ah! Lei è Franco?
 
-*Leo:* Sono uno studente italiano?
+*Chiara:* No, Ben. In famiglia noi diciamo tu.
 
-*Chiara:* Sì. Tu **sei italiano**.
+*Ben:* Ah, tu! **Piacere**, Franco! **Grazie**!
 
-*Leo:* E tu sei italiana.
+*Franco:* Mah.
 
-*Chiara:* Sì, sono italiana.
+Leo prende la mano di Franco. Franco non parla.
 
-*Leo:* Papà è **americano**.
+*Leo:* Nonno, tu **sei** **italiano** e io **sono** **americano**.
 
-*Chiara:* Sì. Papà è americano.
+*Franco:* Sì. Mah.
 
-*Leo:* Emma è italiana e americana.
+Al numero sedici c'è una **finestra** aperta.
 
-*Emma:* Sì. Io **sono italiana** e americana.
+*Ben:* **Buongiorno**! Io **sono** Ben! **Sono** **americano**!
 
-*Leo:* Io sono italiano e americano?
+**Adesso** la tenda è chiusa.
 
-*Chiara:* Sì, Leo. Sei italiano e americano.
+*Ben:* Anche la tenda? Mah.
 
-*Leo:* È un nome lungo?
+*Leo:* Papà, tu dici "mah" come il nonno.
 
-*Chiara:* È una frase lunga.
+*Franco:* Mah.
 
-*Leo:* Il mio nome è più corto.
+Chiara guarda l'orologio.
 
-*Maestra Paola:* Leo, la classe aspetta.
+*Chiara:* Leo, la **scuola** è alle otto e mezza. **Adesso** andiamo.
 
-*Leo:* Arrivo. Il mio zaino arriva.
+*Leo:* La **scuola** Rodari. La **scuola** di Pietro.
 
-*Chiara:* **Arrivederci**, maestra Paola.
+*Chiara:* Sì, la tua **scuola**.
 
-*Maestra Paola:* Arrivederci, Chiara. A presto, Emma.
+*Leo:* Papà, tu **sei** a **casa** tutto il **giorno**?
 
-*Emma:* Ciao.
+*Ben:* Sì. Io, il furgone e le **finestre**.
 
-*Chiara:* Emma, saluta con un sorriso.
+Emma è lontana, alla fine della strada.
 
-*Emma:* Il mio sorriso è qui.
+*Ben:* Emma! **Arrivederci**!
 
-*Chiara:* Non lo vedo.
+Emma risponde con la mano: **ciao**.
 
-*Emma:* È un sorriso discreto.
+*Chiara:* Papà, Ben è mio marito.
 
-*Leo:* Io vedo il tuo sorriso.
+*Franco:* Lo so.
 
-*Emma:* Grazie, Leo. Sei molto gentile.
+*Chiara:* E i bambini sono i tuoi nipoti.
 
-*Leo:* Io sono gentile e pronto.
+*Franco:* Lo so. Mah.
 
-*Maestra Paola:* Benvenuto in classe, Leo.
+Emma va verso la stazione. Il treno è alle otto.
 
-*Leo:* **Benvenuto** anche al mio zaino.
+*Chiara:* Ben, sposta il furgone, **per favore**.
 
-*Maestra Paola:* **Benvenuto**, zaino.
+*Ben:* Sì! **Per favore** e **grazie**. Due parole bellissime.
 
-*Leo:* **Grazie**, maestra.
+Ben va verso il furgone. Guarda il numero sulla **porta**.
 
-Leo entra in classe con Paola.
+*Ben:* Numero quattordici. La **casa** è **nuova** per me.
 
-*Chiara:* Emma, noi andiamo alla stazione.
+*Chiara:* Il furgone, Ben. Il posto del signor Colombo.
 
-*Emma:* Sì, mamma. Sono pronta.
+*Ben:* Il signor Colombo è **il vicino**?
 
-*Chiara:* Allora andiamo. Ciao, Leo!
+*Chiara:* Sì. Lui è **il vicino** al numero undici.
 
-*Leo:* **Ciao**, mamma! **Ciao**, Emma!
+*Ben:* Undici. Perfetto. **Adesso** sposto il furgone.
 
-*Emma:* Ciao, Leo.
+Franco va verso l'orto. Fa due passi e si ferma.
 
-*Chiara:* **Arrivederci**, Leo.
+*Franco:* Il furgone. Il posto del signor Colombo.
 
-*Leo:* Arrivederci! La mia classe è qui!
+*Chiara:* Ci penso io, papà.
 
-Chiara saluta e va verso la strada.
+Franco guarda Chiara. Poi guarda Ben. Poi guarda il furgone.
 
-*Emma:* Mamma, la mia scuola è lontana.
+*Franco:* Mah.
 
-*Chiara:* Sì. Il treno è tra poco.
+Leo è sulla **porta** con lo zaino.
 
-*Emma:* Andiamo.
+*Leo:* Mamma, io **sono** pronto. La **scuola** è **nuova** e io **sono** **nuovo**.
 
-*Chiara:* Emma, il tuo zaino?
+*Chiara:* Bravo, Leo. **Adesso** andiamo.
 
-*Emma:* È sulle mie spalle.
+Ben apre la **porta** del furgone e prende le chiavi.
 
-*Chiara:* Perfetto. La famiglia è pronta.
+*Ben:* Chiara, io parlo bene **italiano**?
 
-*Emma:* Leo è in classe.
+*Chiara:* No. Ma **adesso** parli.
 
-*Chiara:* E tu sei con me.
+*Ben:* **Adesso** parlo! Ottimo!
 
-*Emma:* Sì. Io sono qui.
+Emma è alla fine della strada. Non guarda indietro.
+
+*Chiara:* Emma! **Arrivederci**!
+
+Emma alza una mano. **Ciao**.
+
+*Franco:* Questa è Emma?
+
+*Chiara:* Sì, papà. È tua nipote.
+
+*Franco:* Mah.
+
+Ben è davanti alla **casa** numero quattordici. Dall'altra parte della strada, Franco è davanti alla **porta**.
+
+*Ben:* **Buongiorno**?
+
+Franco entra in **casa** e chiude la **porta**.
+
+*Franco:* Mah. Mah.
+
+## 2. Confessionale
+
+> *Ben:* **Mi chiamo** Ben Carter. Io **sono** **americano**. **Sono** di Columbus, Ohio. Ma **adesso** abito qui, in Via dei Tigli.
+
+Ben guarda la telecamera. Sorride.
+
+> *Ben:* Io **sono** **il vicino** **nuovo**. Numero quattordici. La **casa** è grande. Le **case** qui sono tutte grandi. Io **sono** a **casa** tutto il **giorno**. Io ho tre parole. Tre parole **italiane**.
+
+> *Ben:* Uno: **buongiorno**. Due: **buonasera**. Tre: **arrivederci**. **Buongiorno** la mattina. **Buonasera** la sera. **Arrivederci**... quando vado. E poi: "**Benvenuto**!" Questa parola è bellissima.
+
+Ben apre le braccia.
+
+> *Ben:* I **vicini** sono **italiani**. Tutti. Io **sono** **americano**. Tutti lo sanno. Io parlo poco **italiano**. Ma io parlo. Io **sono** Ben. Tu **sei**... tu?
+
+> *Ben:* Noi **siamo** vicini. Voi **siete** italiani. Loro **sono** italiani.
+
+> *Ben:* Questa **casa** è **nuova** per me. Questa strada è **nuova** per me.
+
+> *Ben:* Ma io **sono** pronto. **Adesso** io **sono** pronto!
+
+## 3. Via dei Tigli · lunedì mattina
+
+Al numero sedici, al primo piano, una **finestra** è aperta. Alla **finestra** c'è una signora elegante. Guarda la strada.
+
+*Ben:* **Buongiorno**!
+
+*Ornella:* **Buongiorno** a Lei.
+
+*Ben:* **Mi chiamo** Ben Carter! **Sono** **americano**! **Piacere**!
+
+Ben dice le tre frasi come una canzone.
+
+*Ornella:* **Piacere** mio. Io **sono** la **signora** Galli. **Benvenuto** in Via dei Tigli.
+
+*Ben:* **Grazie**, **signora**! Lei **è** molto gentile!
+
+La **signora** Galli non sorride, ma la sua voce è calda.
+
+*Ornella:* Lei **è** il **vicino** del numero quattordici?
+
+*Ben:* Sì! La **casa** quattordici! Io **sono** il **vicino** **nuovo**!
+
+*Ornella:* La **casa** è **nuova** per Lei.
+
+*Ben:* Sì, **nuova**. Tutto è **nuovo**.
+
+Ben indica la strada con la mano.
+
+*Ben:* Io e mia moglie e i **bambini**. Due **bambini**.
+
+*Ornella:* Due **bambini**. **Bambini** **italiani**?
+
+*Ben:* **Americani**. Ma la **mamma** è **italiana**.
+
+*Ornella:* Ah, la **mamma** è **italiana**. Bene. E Lei?
+
+*Ben:* Io **sono** **americano**. Di Columbus, Ohio.
+
+*Ornella:* Columbus, Ohio.
+
+La **signora** Galli ripete le parole lentamente.
+
+*Ornella:* Lei parla **italiano**?
+
+*Ben:* Poco. Molto poco. Io **sono** **americano**.
+
+Ben apre il quaderno. Mostra tre pagine.
+
+*Ben:* Tre parole. **Buongiorno**. **Buonasera**. **Arrivederci**.
+
+*Ornella:* Tre parole buone. Ma Lei parla **italiano** **adesso**.
+
+*Ben:* Io? No, no. Io parlo... così così.
+
+*Ornella:* Lei **è** qui. Lei parla. Lei impara.
+
+Ben scrive una parola nuova sul quaderno.
+
+*Ben:* "Impara". Che cosa significa?
+
+*Ornella:* Significa: **adesso** Lei **è** un **vicino**. E impara.
+
+*Ben:* Un **vicino** che impara. Mi piace!
+
+La **signora** Galli guarda a sinistra e a destra.
+
+*Ornella:* Questa **finestra** è la mia televisione.
+
+*Ben:* La **finestra**? Televisione?
+
+*Ornella:* Sì. Io vedo tutto. Tutto, Signor Carter.
+
+Ben ride. La **signora** Galli no.
+
+*Ornella:* A sinistra c'è il signor Colombo. Numero undici.
+
+*Ben:* Colombo. Il posto del furgone.
+
+*Ornella:* Esatto. Il signor Colombo **è** un **vicino** preciso.
+
+*Ben:* Preciso?
+
+*Ornella:* Preciso. Molto preciso. Con il regolamento.
+
+Ben scrive "preciso" sul quaderno.
+
+*Ben:* E a destra?
+
+*Ornella:* A destra ci **sono** io. **Signora** Ornella Galli. Numero sedici.
+
+*Ben:* **Signora** Galli. **Piacere**.
+
+*Ornella:* **Piacere** mio, Signor Carter.
+
+Un gatto grigio arriva sulla **finestra**.
+
+*Ben:* Oh! Un gatto! **Piacere**! **Mi chiamo** Ben!
+
+Il gatto non risponde. Guarda Ben con calma.
+
+*Ornella:* Lui **è** Pavarotti. Lui non dice **piacere**.
+
+*Ben:* Pavarotti? Come il cantante?
+
+*Ornella:* Come il cantante. Lui canta la mattina, alle cinque.
+
+*Ben:* Ah. Alle cinque.
+
+Il gatto si siede sulla **finestra** e chiude gli occhi.
+
+*Ornella:* Signor Carter, i **vicini** **sono** importanti.
+
+*Ben:* Sì. I **vicini** **sono** importanti.
+
+*Ornella:* Importanti come la famiglia.
+
+*Ben:* Come la famiglia.
+
+Ben scrive la frase sul quaderno. Con attenzione.
+
+*Ben:* **Signora** Galli, Lei **è** **italiana**?
+
+*Ornella:* Io **sono** **italiana**. Di Borgoverde. Da sempre.
+
+*Ben:* "Da sempre". Che cosa significa?
+
+*Ornella:* Significa: io **sono** qui da settantotto anni.
+
+*Ben:* Settantotto anni! In questa **casa**?
+
+*Ornella:* In questa **casa**. In questa strada. A questa **finestra**.
+
+Ben guarda la **finestra**. Poi guarda la strada.
+
+*Ben:* **Signora** Galli, Lei vede tutto.
+
+*Ornella:* Tutto. I nomi, le **case**, i **bambini**, i gatti.
+
+*Ben:* I **nomi**! Il mio **nome** è Ben.
+
+*Ornella:* Ben Carter. Numero quattordici.
+
+La **signora** Galli dice il suo **nome** con precisione.
+
+*Ornella:* E i **nomi** dei **bambini**?
+
+*Ben:* Emma. Leo. Emma **è** grande, Leo **è** piccolo.
+
+*Ornella:* Emma. Leo. **Nomi** belli.
+
+*Ben:* **Grazie**, **signora**.
+
+Un cane abbaia in fondo alla strada.
+
+*Ornella:* **Arrivederci**, Signor Carter.
+
+*Ben:* **Arrivederci**, **signora** Galli! **Grazie**! **Benvenuto**... no, aspetta.
+
+*Ornella:* "**Benvenuto**" **è** per Lei, Signor Carter. Non per me.
+
+*Ben:* Ah. Sì. **Grazie**.
+
+*Ornella:* Ma **grazie** **è** sempre giusto.
+
+La **signora** Galli chiude la **finestra**.
+
+*Ben:* "Benvenuto è per me. Grazie è sempre giusto."
+
+Due minuti dopo, la **finestra** è aperta di nuovo.
+
+*Ben:* **Buongiorno**, **signora** Galli!
+
+*Ornella:* Signor Carter, **io sono** sempre qui. Sempre.
+
+Il gatto Pavarotti apre un occhio. Poi lo chiude.
+
+*Ornella:* E Pavarotti **è** sempre qui. Lui **è** il vero capo.
+
+*Ben:* Il vero capo. Perfetto. **Buongiorno** anche a Lei, Pavarotti.
+
+Pavarotti non risponde.
 
 ## 4. Confessionale
 
-Emma guarda la telecamera con calma.
+> *Ornella:* Io **sono** Ornella Galli. Sono la **signora** del numero sedici. La mia **finestra** guarda la strada.
 
-> *Emma:* **Ciao**. Una parola. Una frase completa. Non servono altre parole. Anche «**buongiorno**» è una parola completa. Io **sono** italiana e americana. Sì, **italiana** e **americana**. La mia **famiglia** è italiana e americana. Il mio **nome** è Emma. È un nome facile.
+La **signora** Galli parla piano. Non muove la testa.
 
-Emma sorride appena, poi guarda a lato.
+> *Ornella:* Dalla **finestra** io vedo le **case**. Vedo le **porte**. Vedo le tende. Vedo i **bambini**. Vedo anche i gatti. I gatti sono i veri **vicini**. Al numero quattordici c'è un **vicino** **nuovo**. Lui **è** **americano**. Lui parla **italiano**. Poco, ma parla. E lui dice **buongiorno**. Tutti i giorni. **Buongiorno** è una parola semplice. Ma è importante. Lui **è** un **americano** con un quaderno. Lui **è** un **americano** che impara.
 
-> *Emma:* Dire il mio nome davanti a tutti? Non è una buona idea. Soprattutto quando papà è qui vicino. Lui dice «ciao» a tutti. E poi dice il suo nome. E poi dice che è **americano**. Alla **scuola**, forse va bene. Ma non con tutta la strada.
+> *Ornella:* Bene. **Benvenuto**. La **casa** al numero quattordici è vuota da tre mesi. **Adesso** non è vuota. **Adesso** ci sono le luci. Ci sono i rumori. Ci sono i **bambini**. E io **sono** contenta. Ma non lo dico a tutti.
 
-Emma torna a guardare la telecamera.
+> *Ornella:* Io **sono** la **signora** Galli. Io vedo tutto.
 
-> *Emma:* **Ciao**. Basta così.
+## 5. Via dei Tigli · lunedì mattina
 
-## 5. Scuola primaria Gianni Rodari · lunedì mattina
+Sulla strada arriva un signore con un cappello e una valigetta. Cammina piano. Guarda il furgone. Poi guarda Ben.
 
-La **classe** è luminosa e piena di voci. Leo entra con la maestra Paola.
+*Roberto:* **Buongiorno**.
 
-*Leo:* **Buongiorno** a tutti!
+*Ben:* **Buongiorno**! **Mi chiamo** Ben Carter! **Sono** **americano**! **Piacere**!
 
-*Maestra Paola:* **Buongiorno**, Leo. Questa è la tua classe.
+Roberto non allunga la mano. Tiene la valigetta.
 
-*Leo:* La classe è grande.
+*Roberto:* Colombo. Roberto Colombo.
 
-*Maestra Paola:* Sì, e i tuoi compagni sono qui.
+*Ben:* **Piacere**, signor Colombo! **Benvenuto**!
 
-*Leo:* **Io sono** Leo.
+Roberto alza un sopracciglio.
 
-*Maestra Paola:* Bravissimo. E il tuo zaino?
+*Roberto:* **Benvenuto** a me?
 
-*Leo:* Anche lui è qui.
+*Ben:* Sì! Lei **è** il **vicino**, no?
 
-*Maestra Paola:* Il tuo zaino è uno studente?
+*Roberto:* Io **sono** un **vicino**. Lei **è** **nuovo**.
 
-*Leo:* No. Ma è nella classe.
+*Ben:* Ah. Sì. Il **benvenuto** **è** per me. **Grazie**.
 
-Un bambino vicino alla finestra alza la mano.
+Ben sorride. Roberto guarda il furgone.
 
-*Pietro:* Maestra, c’è una regola per i nuovi.
+*Roberto:* Signor Carter, questo **è** il mio posto.
 
-*Maestra Paola:* Quale regola, Pietro?
+*Ben:* Il Suo posto?
 
-*Pietro:* Prima, il nuovo dice il suo nome. Poi saluta la classe.
+*Roberto:* Il mio posto. Per la macchina.
 
-*Leo:* Io saluto prima o dico il nome?
+*Ben:* Ah, il numero undici! Il posto **è** il numero undici?
 
-*Pietro:* Prima il nome.
+Roberto chiude gli occhi per un secondo.
 
-*Leo:* E poi il saluto?
+*Roberto:* No. Il numero undici **è** la mia **casa**. Il numero quattordici **è** la Sua **casa**.
 
-*Pietro:* Sì. È la regola.
+*Ben:* Aspetta... aspetta. La mia **casa** **è** il numero quattordici.
 
-*Maestra Paola:* Pietro, questa è una tua regola.
+*Roberto:* Esatto.
 
-*Pietro:* Ma è una regola utile.
+*Ben:* E il posto per la macchina **è** davanti alla **casa**?
 
-*Leo:* Io ho una regola per gli zaini.
+*Roberto:* Il posto **è** davanti alla **casa**. Non davanti alla mia **casa**.
 
-*Pietro:* Qual è?
+Ben guarda la strada. Poi guarda il furgone. Poi Roberto.
 
-*Leo:* Lo zaino resta vicino a me.
+*Ben:* **Adesso** io capisco. Più o meno.
 
-*Pietro:* Questa non è una regola.
+*Roberto:* Più o meno non è abbastanza.
 
-*Leo:* È una buona idea.
+*Ben:* Il furgone va via **adesso**, signor Colombo. **Per favore**.
 
-*Maestra Paola:* Leo, **mi chiamo** è una frase utile.
+Roberto guarda l'orologio. È un orologio preciso.
 
-*Leo:* Sì. **Mi chiamo** Leo Carter.
+*Roberto:* Alle nove io sono in ufficio. **Adesso** sono qui.
 
-*Maestra Paola:* Ottimo. Ora puoi salutare tutti.
+*Ben:* Lei lavora qui?
 
-*Leo:* **Ciao**, classe!
+*Roberto:* Io lavoro a Milano. Assicurazioni.
 
-*Maestra Paola:* Tutti dicono: «Ciao, Leo!»
+*Ben:* Ah! Anche mia moglie lavora a Milano!
 
-*Leo:* La mia presentazione è finita?
+Roberto guarda la **casa** numero quattordici.
 
-*Maestra Paola:* Sì. È una presentazione perfetta.
+*Roberto:* Sua moglie **è** **italiana**?
 
-*Pietro:* No, manca una cosa.
+*Ben:* Sì! **Italiana**. Di Borgoverde.
 
-*Maestra Paola:* Che cosa manca, Pietro?
+*Roberto:* Di Borgoverde? Il **nome**?
 
-*Pietro:* Deve dire quanti anni ha.
+*Ben:* Chiara. Chiara Ferri.
 
-*Leo:* La maestra non chiede l’età.
+Roberto cambia faccia. Un poco. Molto poco.
 
-*Pietro:* Ma è una regola per i nuovi.
+*Roberto:* Chiara Ferri. La figlia di Franco Ferri.
 
-*Maestra Paola:* Non c’è questa regola, Pietro.
+*Ben:* Sì! Lei conosce Franco?
 
-*Pietro:* Allora, la propongo.
+*Roberto:* Io **sono** un **amico** della famiglia Ferri.
 
-*Leo:* Io sono americano. E sono anche **italiano**.
+*Ben:* Un **amico**! Perfetto! Allora noi **siamo** **amici**!
 
-*Pietro:* Sei americano e italiano?
+*Roberto:* Noi **siamo** **vicini**.
 
-*Leo:* Sì. **Io sono americano** e italiano.
+Roberto sistema il cappello. È un gesto importante.
 
-*Pietro:* Io sono italiano.
+*Roberto:* E i **bambini**?
 
-*Leo:* **Tu sei italiano**?
+*Ben:* Due **bambini**. Emma e Leo.
 
-*Pietro:* Sì. Io sono Pietro.
+*Roberto:* La **scuola**?
 
-*Leo:* **Mi chiamo** Leo.
+*Ben:* Leo va alla **scuola** Rodari. **Terza** elementare. Emma va a Monza. Liceo.
 
-*Pietro:* Questo lo so.
+*Roberto:* La **scuola** Rodari **è** una buona **scuola**.
 
-*Leo:* Il tuo **nome** è corto.
+*Ben:* Sì? Bene! **Grazie**!
 
-*Pietro:* Pietro è un nome normale.
+Roberto guarda Ben con attenzione.
 
-*Leo:* Il mio nome è Leo. È ancora più corto.
+*Roberto:* E la **signora**?
 
-*Pietro:* Il mio nome è più lungo.
+*Ben:* La **signora**?
 
-*Leo:* Quanto è lungo? Come il banco?
+*Roberto:* La **signora** del numero sedici. Sa, la **signora** Galli.
 
-*Pietro:* No, Leo. I nomi non sono lunghi come i banchi.
+*Ben:* Ah, la **signora** Galli! Sì! Lei **è** molto gentile!
 
-*Leo:* Il banco è lungo.
+*Roberto:* Lei parla con la **signora** Galli?
 
-*Pietro:* Sì, ma io sono Pietro.
+*Ben:* Sì. Dalla **finestra**. Lei vede tutto.
 
-*Leo:* Piacere, Pietro.
+*Roberto:* Lo so. La **signora** Galli vede tutto. Tutto.
 
-*Pietro:* **Piacere**.
+Ben ride. Roberto non ride.
 
-*Maestra Paola:* Bene. Ora facciamo un giro.
+*Ben:* Allora, signor Colombo. Lei **è** **italiano**?
 
-*Leo:* Un giro per la classe?
+*Roberto:* Io **sono** **italiano**. Da sempre.
 
-*Maestra Paola:* Sì. Ognuno dice il suo nome.
+*Ben:* Da sempre! Come la **signora** Galli!
 
-*Pietro:* Io sono il primo.
+*Roberto:* La **signora** Galli **è** di un'altra epoca.
 
-*Maestra Paola:* Aspetta, Pietro. Inizia Leo.
+Roberto guarda il furgone un'ultima volta.
 
-*Pietro:* Ma io sono già pronto.
+*Roberto:* Signor Carter, io **sono** il presidente del comitato.
 
-*Leo:* Anche io sono pronto.
+*Ben:* Il comitato?
 
-*Maestra Paola:* Leo è il nuovo.
+*Roberto:* Il comitato di quartiere. Via dei Tigli.
 
-*Pietro:* La regola non dice chi inizia.
+*Ben:* Ah! Un comitato! Bello!
 
-*Maestra Paola:* Allora scelgo io. Inizia Leo.
+*Roberto:* No, non è "bello". È importante.
 
-*Leo:* **Ciao**, mi chiamo Leo. **Sono americano** e **italiano**. Questo è il mio zaino. Anche lui è nuovo qui.
+Ben prende il quaderno e scrive una parola lunga.
 
-*Maestra Paola:* **Benvenuto** nella nostra classe, Leo.
+*Ben:* Co-mi-ta-to. Fatto!
 
-*Leo:* **Grazie**, maestra Paola.
+*Roberto:* Lei scrive tutto?
 
-*Maestra Paola:* Pietro, tocca a te.
+*Ben:* Tutto. **Adesso** io parlo poco **italiano**. Ma scrivo.
 
-*Pietro:* **Buongiorno**, mi chiamo Pietro. Sono italiano e sono il primo.
+*Roberto:* **Adesso** Lei parla poco. **Adesso** Lei **è** **americano**. E io **sono** **italiano**.
 
-*Maestra Paola:* Non sei il primo, Pietro.
+*Ben:* E noi **siamo** **vicini**!
 
-*Pietro:* Ma sono il secondo.
+Roberto guarda Ben. Poi guarda il cielo. Poi il furgone.
 
-*Maestra Paola:* Sì, sei il secondo.
+*Roberto:* Purtroppo.
 
-*Pietro:* È quasi la stessa cosa.
+*Ben:* Purtroppo? Che cosa significa?
 
-*Leo:* Tu sei il secondo amico?
+*Roberto:* Significa: **arrivederci**, signor Carter.
 
-*Pietro:* Sono il tuo **amico**?
+Roberto va verso il numero undici con la sua valigetta.
 
-*Leo:* Sì. Tu sei il mio amico.
+*Ben:* Purtroppo. P-u-r-t-r-o-p-p-o.
 
-*Pietro:* Bene. Allora sono il primo amico.
+Ben scrive la parola sul quaderno. Poi guarda il furgone.
 
-*Leo:* Sì, sei il mio primo amico qui.
+*Ben:* Il furgone, Ben. Prima il furgone.
 
-*Pietro:* La regola dice che siamo amici?
+Roberto apre la **porta** del numero undici e non guarda indietro.
 
-*Maestra Paola:* No. Questa è una bella sorpresa.
+*Ben:* **Grazie**, signor Colombo! **Per favore**... il furgone va via!
 
-*Leo:* La nostra classe è simpatica.
+La **porta** del numero undici è chiusa.
 
-*Pietro:* E io sono simpatico.
+*Ben:* Sempre meglio del "mah".
 
-*Leo:* Sì, Pietro. Tu sei simpatico.
+## 6. Scuola primaria Gianni Rodari · lunedì mattina
 
-*Pietro:* Grazie, Leo. Anche tu sei simpatico.
+La **scuola** Rodari è in Piazza della Chiesa. La **porta** è grande. Sopra la **porta** c'è un cartello: "Benvenuti". Leo guarda la **porta** per dieci secondi.
 
-*Maestra Paola:* Ora salutiamo gli altri compagni.
+*Leo:* La **porta** è grande. La **scuola** è grande.
 
-*Leo:* Ciao! Io sono Leo.
+*Chiara:* Leo, io vado al lavoro. Tu **sei** a **scuola**. Va bene?
 
-*Pietro:* Io sono Pietro.
+*Leo:* Va bene. **Arrivederci**, mamma.
 
-*Leo:* Piacere!
+Leo entra. La **classe** è al primo piano. Nella **classe** ci sono venti **bambini**. La **maestra** è alta, con gli occhiali rossi.
 
-*Pietro:* Piacere!
+*Maestra Paola:* **Buongiorno**, **bambini**. **Benvenuti**. Io **sono** la **maestra** Paola.
 
-*Maestra Paola:* Bravi. È un bel saluto.
+I **bambini** rispondono insieme.
 
-*Leo:* Maestra, chi è il **maestro** della classe?
+*Un bambino:* **Buongiorno**, **maestra** Paola!
 
-*Maestra Paola:* Io sono la maestra.
+Leo è seduto accanto a un **bambino** con i capelli rossi.
 
-*Leo:* Sì, tu sei la maestra Paola.
+*Maestra Paola:* Oggi è un **giorno** importante. Primo **giorno** di **scuola**. **Adesso** io dico i **nomi**. E voi dite "presente".
 
-*Maestra Paola:* Esatto. E Pietro è un alunno.
+*Maestra Paola:* Rossi, Bianchi, Colombo, Ferrari...
 
-*Leo:* Pietro è italiano.
+La **maestra** alza gli occhi dalla lista.
 
-*Pietro:* Sì, Leo. Sono italiano.
+*Maestra Paola:* E **adesso**... un **nome** **nuovo**. Carter, Leo.
 
-*Leo:* E tu sei nella mia classe.
+Leo alza la mano. La mano trema un poco.
 
-*Pietro:* Sì, siamo nella stessa classe.
+*Leo:* Presente!
 
-*Leo:* Allora siamo compagni.
+*Maestra Paola:* Carter, Leo. **Benvenuto**. **Sei** **nuovo**?
 
-*Pietro:* Sì. E amici.
+*Leo:* Sì. Io **sono** **nuovo**.
 
-*Leo:* Il tuo nome è lungo.
+*Maestra Paola:* Bene. **Adesso** ti presenti ai **bambini**. Ti presenti: **nome**, **nazionalità**, e poi... quello che vuoi.
 
-*Pietro:* Non è lungo come il banco.
+Leo si alza. Guarda venti **bambini**. Poi guarda la **maestra**.
 
-*Leo:* Ma è lungo come due Leo.
+*Leo:* **Mi chiamo** Leo Carter. Io **sono** **americano**. Ma la mia **mamma** è **italiana**. Io **sono** di Chicago. **Adesso** abito in Via dei Tigli.
 
-*Pietro:* Leo è un nome corto.
+Leo pensa a una parola nuova del quaderno di papà.
 
-*Maestra Paola:* Pietro, aiuti Leo con il **quaderno**?
+*Leo:* **Piacere**.
 
-*Pietro:* Certo. Il quaderno è qui.
+Nessuno parla. Poi un **bambino** batte le mani. Poi tutti.
 
-*Leo:* Il mio nome è sulla copertina.
+*Maestra Paola:* Bravo, Leo.
 
-*Pietro:* Sì. È scritto bene.
+Un **bambino** con i capelli rossi alza la mano.
 
-*Leo:* Il tuo nome è sul tuo quaderno?
+*Pietro:* **Maestra**, io **sono** Pietro!
 
-*Pietro:* Sì. Pietro è qui.
+*Maestra Paola:* Lo so, Pietro. Tu **sei** Pietro da tre anni.
 
-*Leo:* Anche il tuo quaderno è nuovo?
+I **bambini** ridono. Pietro no.
 
-*Pietro:* Sì. È blu.
+*Pietro:* Io **sono** **italiano**. Di Borgoverde. E lui **è** **americano**?
 
-*Leo:* Il mio è verde.
+*Maestra Paola:* Sì. Leo **è** **americano**. Tu **sei** **italiano**. Io **sono** **italiana**. Noi **siamo** in **classe**.
 
-*Pietro:* Allora i nostri quaderni sono diversi.
+*Maestra Paola:* Io **sono**. Tu **sei**. Lui **è**. Noi **siamo**.
 
-*Leo:* Ma noi siamo amici.
+La **maestra** scrive queste parole sulla lavagna.
 
-*Pietro:* Esatto. Questa è la regola migliore.
+*Maestra Paola:* **Bambini**, ripetete con me. Io **sono**.
 
-*Maestra Paola:* Pietro, questa regola mi piace.
+*Un bambino:* Io **sono**.
 
-*Pietro:* La scrivo sul quaderno?
+*Maestra Paola:* Tu **sei**.
 
-*Maestra Paola:* No, Pietro. Basta dirla.
+*Un bambino:* Tu **sei**.
 
-*Pietro:* La regola è: siamo amici.
+*Maestra Paola:* Lui **è**. Lei **è**.
 
-*Leo:* **Arrivederci**, regola vecchia.
+*Un bambino:* Lui **è**. Lei **è**.
 
-*Pietro:* La regola vecchia è ancora valida.
+*Maestra Paola:* Noi **siamo**. Voi **siete**. Loro **sono**.
 
-*Leo:* Quale regola?
+*Un bambino:* Noi **siamo**. Voi **siete**. Loro **sono**.
 
-*Pietro:* Il nuovo dice il suo nome.
+Pietro guarda Leo di lato. Poi parla piano, quasi senza voce.
 
-*Leo:* Il mio nome è già nella presentazione.
+*Pietro:* Tu **sei** **americano**. Ma tu **sei** un **bambino** come me.
 
-*Pietro:* Allora va bene.
+*Leo:* Sì. Io **sono** un **bambino**. Tu **sei** un **bambino**.
 
-*Maestra Paola:* **Arrivederci**, mamma di Leo.
+*Pietro:* Tu **sei** il mio **amico**.
 
-*Leo:* La mamma è alla porta?
+Leo apre la bocca. È la parola più bella del **giorno**.
 
-*Maestra Paola:* Sì, Leo. È ora di salutare.
+*Leo:* Noi **siamo** **amici**!
 
-*Leo:* **Arrivederci**, maestra Paola.
+Tutta la **classe** guarda Leo e Pietro. La **maestra** sorride.
 
-*Pietro:* Ciao, Leo. Siamo amici.
+*Maestra Paola:* Bene, **bambini**. Noi **siamo** una **classe**, **adesso**. Voi **siete** **amici**. Voi **siete** **italiani**... e **americani**.
 
-*Leo:* Ciao, Pietro. Sei il mio primo amico.
+Leo guarda la **classe**. Guarda la **maestra**. Guarda la **porta**.
 
-*Pietro:* E tu sei il mio nuovo amico.
+*Maestra Paola:* Leo, tu **sei** qui, con noi. Va bene?
 
-*Leo:* **Grazie**. Il mio primo giorno è bello.
+*Leo:* Va bene. **Grazie**, **maestra** Paola.
 
-*Maestra Paola:* E domani sei di nuovo qui.
+Leo pensa. Poi alza la mano di nuovo.
 
-*Leo:* Sì. Io sono nella classe.
+*Maestra Paola:* Dimmi, Leo.
 
-*Pietro:* E il tuo zaino è con te.
+*Leo:* **Maestra**, posso dire una cosa?
 
-*Leo:* Sì. Anche lui è nostro amico.
+*Maestra Paola:* Certo.
 
-## 6. Via dei Tigli · lunedì pomeriggio
+*Leo:* Io **sono** a **scuola**. Ma questa **scuola** **adesso** **è** la mia **casa** numero due.
 
-Nel pomeriggio, la famiglia torna in strada. Il **furgone** è davanti al numero quattordici.
+I **bambini** ridono. La **maestra** ride anche lei.
 
-*Chiara:* Ben, prima portiamo queste scatole in casa.
+*Pietro:* La **maestra** ride **adesso**. Ma di solito non ride. Non è sempre così.
 
-*Ben:* Sì. Poi saluto i vicini.
+*Leo:* Perché?
 
-*Emma:* Li saluti già da stamattina.
+*Pietro:* Perché oggi **è** il primo **giorno**.
 
-*Ben:* Ogni saluto è una nuova occasione.
+La campanella suona. È un suono forte.
 
-*Leo:* Anche il gatto è un’occasione?
+*Maestra Paola:* **Arrivederci**, **bambini**. A domani.
 
-*Ben:* Certo. Il gatto è un vicino.
+*Un bambino:* **Arrivederci**, **maestra** Paola!
 
-*Emma:* Il gatto non parla, papà.
+Leo e Pietro escono dalla **porta** insieme.
 
-*Ben:* Non ancora.
+*Pietro:* Io abito qui vicino. E tu?
 
-Ornella saluta dalla **finestra** del numero sedici.
+*Leo:* Io abito in Via dei Tigli. Numero quattordici.
 
-*Ornella:* **Buonasera**, **signor** Carter.
+*Pietro:* Via dei Tigli! Io **sono** di Via dei Tigli! Numero tre!
 
-*Ben:* Signora Galli, **buongiorno**!
+Leo e Pietro si guardano. Poi ridono tutti e due.
 
-*Chiara:* Ben, è pomeriggio. Si dice «buonasera».
+*Leo:* Noi **siamo** **vicini**! Noi **siamo** **amici** e **vicini**!
 
-*Ben:* **Buonasera**, signora Galli. **Mi chiamo** Ben Carter. **Sono** **americano**. Piacere.
+*Pietro:* Sì. Ma a **scuola** non parliamo dei **vicini**. Va bene?
 
-*Ornella:* Piacere, signor Carter. Io sono Ornella Galli.
+*Leo:* Va bene. A **scuola** parliamo di **scuola**.
 
-*Ben:* **Grazie**, signora Galli.
+Pietro mette lo zaino. Guarda Leo.
 
-*Ornella:* Benvenuto in Via dei Tigli.
+*Pietro:* Leo, tu **sei** strano. In senso buono.
 
-*Ben:* **Benvenuto**? È per me?
+*Leo:* **Grazie**. Credo.
 
-*Ornella:* Certamente. Lei è un nuovo vicino.
+I due **bambini** vanno verso Via dei Tigli.
 
-*Ben:* Sì, sono il nuovo **vicino**. E questa è la mia famiglia.
+*Pietro:* A domani, Leo. **Arrivederci**.
 
-*Chiara:* Io sono Chiara Ferri. Loro sono Emma e Leo.
+*Leo:* **Arrivederci**, Pietro. Vero **amico**.
 
-*Leo:* **Ciao**, signora Ornella!
+Pietro si gira. Sorride. Poi corre verso casa.
 
-*Ornella:* Ciao, Leo. Ciao, Emma.
-
-*Emma:* Buonasera, signora Galli.
-
-*Ornella:* Brava, Emma. Che bella educazione.
-
-*Emma:* Grazie, signora.
-
-Dalla porta accanto arriva Roberto Colombo.
-
-*Roberto:* Buonasera. Lei è il signor Carter?
-
-*Ben:* Sì. Io **sono** Ben Carter.
-
-*Roberto:* Roberto Colombo, presidente del comitato.
-
-*Ben:* Piacere, signor Colombo.
-
-*Roberto:* Piacere. Lei è americano?
-
-*Ben:* Sì, **sono americano**.
-
-*Roberto:* E la sua famiglia?
-
-*Ben:* La mia famiglia **è italiana** e americana.
-
-*Chiara:* Sono tutti italiani e americani.
-
-*Roberto:* Bene. E questo **furgone**?
-
-*Ben:* È il nostro furgone.
-
-*Roberto:* Perché è nel mio **posto**?
-
-*Ben:* Il posto è suo?
-
-*Roberto:* Sì, è il mio posto.
-
-*Ben:* Capisco. Il posto è importante.
-
-*Roberto:* È un posto per la mia auto.
-
-*Ben:* E il furgone è molto grande.
-
-*Roberto:* Il punto non è la grandezza.
-
-*Ben:* Allora, il punto è il posto.
-
-*Roberto:* Esatto, signor Carter.
-
-*Ben:* **Mi chiamo** Ben. **Sono americano**.
-
-*Roberto:* Queste frasi non spiegano il furgone.
-
-*Ben:* Sono le mie frasi migliori.
-
-*Chiara:* Roberto, il furgone è qui per le scatole.
-
-*Roberto:* Le scatole sono della vostra **casa**?
-
-*Chiara:* Sì, la casa è al numero quattordici.
-
-*Roberto:* Capisco. Ma il posto è mio.
-
-*Ben:* Chiara, questo **signore** è il vicino?
-
-*Chiara:* Sì, Ben. È Roberto Colombo.
-
-*Roberto:* E Lei è il signor Carter.
-
-*Ben:* Esatto. Il mio **nome** è Ben.
-
-*Roberto:* Sì, signor Carter. Il nome è chiaro.
-
-Marina e Tommaso sono sulla porta.
-
-*Marina:* Buonasera, Chiara. Bentornata a casa.
-
-*Chiara:* Buonasera, Marina. Che piacere!
-
-*Marina:* Questa è la nostra famiglia.
-
-*Tommaso:* Ciao. Io sono Tommaso.
-
-*Leo:* Ciao, Tommaso. Io sono Leo.
-
-*Tommaso:* Piacere, Leo.
-
-*Leo:* Piacere. Sei italiano?
-
-*Tommaso:* Sì. **Sono italiano**.
-
-*Leo:* Anch’io **sono italiano**.
-
-*Tommaso:* Allora siamo tutti e due italiani.
-
-*Leo:* E tutti e due siamo qui.
-
-*Emma:* Ciao, Tommaso. Sono Emma.
-
-*Tommaso:* Ciao, Emma.
-
-*Emma:* Lui è mio fratello, Leo.
-
-*Tommaso:* Piacere, Emma. Piacere, Leo.
-
-*Leo:* Tommaso è un nuovo **amico**?
-
-*Emma:* Forse, Leo. Lo conosci adesso.
-
-*Leo:* Piacere, nuovo amico.
-
-Matteo e Nadia si affacciano dal bar.
-
-*Matteo:* Chiara! Ben! **Benvenuti** a Borgoverde!
-
-*Nadia:* **Benvenuti** in Via dei Tigli.
-
-*Chiara:* Grazie, Matteo. Grazie, Nadia.
-
-*Ben:* Io **sono americano**. Piacere!
-
-*Matteo:* Lo sappiamo, Ben.
-
-*Ben:* La mia famiglia è italiana e americana.
-
-*Nadia:* E noi siamo Matteo e Nadia.
-
-*Ben:* Piacere, Matteo. Piacere, Nadia.
-
-*Matteo:* Il piacere è nostro.
-
-*Ben:* **Grazie**.
-
-*Nadia:* Il signor Colombo parla del posto?
-
-*Chiara:* Sì. Il furgone è nel suo posto.
-
-*Matteo:* Roberto ama i posti.
-
-*Roberto:* Io amo l’ordine.
-
-*Ben:* Anche il posto ama l’ordine?
-
-*Roberto:* Il posto non parla, signor Carter.
-
-*Ben:* Peccato. È un buon vicino.
-
-Dall’altra parte della strada, Franco è sulla soglia.
-
-*Franco:* **Mah**.
-
-*Leo:* Nonno Franco dice «mah».
-
-*Ben:* Buonasera, signor Franco!
-
-*Franco:* Mah.
-
-*Ben:* Anche «mah» è una frase?
-
-*Emma:* Con il nonno, sì.
-
-*Franco:* **Mah**.
-
-*Roberto:* Signor Carter, il furgone deve lasciare il posto.
-
-*Ben:* Sì, signor Colombo. Il posto è suo.
-
-*Chiara:* Ben, le scatole sono ancora nel furgone.
-
-*Ben:* Il furgone aspetta. Il posto aspetta.
-
-*Roberto:* Il posto non aspetta, signor Carter.
-
-*Ben:* Allora il posto è molto puntuale.
-
-*Roberto:* È una questione seria.
-
-*Matteo:* Roberto, il furgone è grande.
-
-*Nadia:* Ma il posto è piccolo.
-
-*Marina:* E la strada è stretta.
-
-*Tommaso:* Il mio posto è vicino a casa.
-
-*Roberto:* Tommaso, non parliamo del tuo posto.
-
-*Leo:* Ma qual è il suo posto?
-
-*Roberto:* Quello davanti alla mia casa.
-
-*Leo:* E il furgone è davanti alla casa?
-
-*Chiara:* Sì, Leo. Ecco il problema.
-
-*Ben:* Capisco. Sposto il furgone.
-
-*Roberto:* La ringrazio, signor Carter.
-
-*Ben:* Prego, signor Colombo.
-
-*Ornella:* Signor Carter, la sua famiglia è molto simpatica.
-
-*Ben:* **Grazie**, signora Galli. Anche Lei è gentile.
-
-*Ornella:* La ringrazio.
-
-*Chiara:* Ben, questa è la nostra strada.
-
-*Ben:* Sì. E loro sono i nostri vicini.
-
-*Leo:* E Tommaso è il mio amico.
-
-*Tommaso:* Sì, Leo. Sono il tuo amico.
-
-*Ben:* Allora, siamo una **famiglia** fortunata.
-
-*Franco:* Mah.
-
-*Ben:* **Arrivederci**, signor Colombo.
-
-*Roberto:* Arrivederci, signor Carter.
-
-*Ben:* **Arrivederci**, signora Galli.
-
-*Ornella:* Buonasera, signor Carter.
+*Leo:* La mia **casa** numero due. Ma il mio **amico** **è** numero uno.
 
 ## 7. Confessionale
 
-Leo parla alla telecamera con il suo zaino.
+> *Leo:* **Mi chiamo** Leo Carter. Io **sono** **americano**. Ma la mia **scuola** è **italiana**. La **maestra** è **italiana**. I **bambini** sono **italiani**. Tutti.
 
-> *Leo:* **Ciao**. Alla **scuola** ho un amico nuovo. Si chiama Pietro. Il suo **nome** è bello. Lui **è italiano**. Io **sono italiano** e americano. Pietro è nella mia **classe**. Adesso è il mio **amico**. Dico: «**Mi chiamo** Leo. **Piacere**». Poi dico: «Tu sei Pietro?». Gli adulti fanno tante domande. «Come ti chiami? Sei italiano?».
+Leo conta con le dita.
 
-Leo ci pensa, serio per un momento.
+> *Leo:* Ventuno **bambini**. Ventuno **nomi**. Un **nome** è Leo. E un **nome** è Pietro. Pietro **è** il mio **amico**.
 
-> *Leo:* Io faccio una presentazione più breve. «**Mi chiamo** Leo. **Sono** italiano». «E questo è il **gatto**». Il **gatto** non dice il suo nome. Lui dice solo «ciao».
+Leo guarda la telecamera. Sorride.
 
-## 8. Casa Carter, Via dei Tigli 14 · lunedì sera
+> *Leo:* Pietro dice: "Tu **sei** **americano**". Io dico: "Sì". Poi Pietro dice: "Tu **sei** il mio **amico**". E io dico: "Noi **siamo** **amici**!" Questo **è** il mio primo **giorno** di **scuola**. **Adesso** io **sono** a **scuola** e io **sono** contento.
 
-La sera, la **famiglia** è in casa.
+> *Leo:* Il nonno dice "mah".
 
-*Chiara:* Primo: scatole in cucina. Secondo: cena sul tavolo. Terzo: tutti sono qui.
+> *Leo:* Io dico... mah.
 
-*Leo:* Io sono qui.
+## 8. Stazione di Borgoverde · lunedì mattina
 
-*Emma:* Anche io sono qui.
+La stazione di Borgoverde è piccola. C'è un binario e una panchina. Emma è sulla panchina. Guarda il telefono. Una ragazza con lo zaino passa e saluta con la mano.
 
-*Ben:* Io sono qui, con il mio quaderno.
+*Una donna:* **Ciao**!
 
-*Chiara:* Il **quaderno** è parte della cena?
+Emma alza gli occhi per un secondo.
 
-*Ben:* È parte del mio piano.
+*Emma:* **Ciao**.
 
-*Emma:* Il piano per salutare tutti?
+La ragazza va avanti. Emma guarda il telefono di nuovo. Un **bambino** — no, un ragazzo — arriva sulla panchina. Ha sedici anni, forse. Ha un libro in mano.
 
-*Ben:* Sì. Oggi saluto ogni **vicino**.
+*Tommaso:* **Ciao**.
 
-*Chiara:* E quante persone saluti?
+Emma lo guarda. Un secondo. Poi di nuovo il telefono.
 
-*Ben:* Una signora, un signore, due ragazzi. E un gatto.
+*Emma:* **Ciao**.
 
-*Leo:* Il **gatto** è un vicino?
+Il ragazzo apre il libro. Poi lo chiude.
 
-*Ben:* Per me, sì.
+*Tommaso:* Tu **sei** nuova?
 
-*Emma:* Il gatto non risponde.
+Emma non alza gli occhi.
 
-*Ben:* Il gatto è molto riservato.
+*Emma:* **Ciao**.
 
-*Chiara:* Emma, com’è la **scuola**?
+Il ragazzo ride piano.
 
-*Emma:* La scuola è la scuola.
+*Tommaso:* Va bene. Io **sono** Tommaso. E tu? **Come ti chiami**?
 
-*Chiara:* Questa è una risposta molto breve.
+*Emma:* **Ciao**.
 
-*Emma:* È una risposta completa.
+Il treno arriva. Le porte si aprono. Emma sale. Tommaso sale dietro di lei.
 
-*Leo:* La mia scuola è bella. La **classe** è grande. Pietro è il mio **amico**.
+*Tommaso:* Di dove **sei**?
 
-*Ben:* Piacere, Pietro.
+Emma si siede vicino alla **finestra**.
 
-*Leo:* Papà, Pietro non è qui.
+*Emma:* **Ciao**.
 
-*Ben:* Ma è il tuo amico.
+Tommaso si siede due posti più avanti.
 
-*Leo:* Sì. Oggi è il mio amico.
+*Tommaso:* Sei **americana**? O **italiana**?
 
-*Emma:* Che cosa vuol dire «oggi»?
+*Emma:* **Ciao**.
 
-*Leo:* Oggi è lunedì.
+Il treno parte. Fuori, il paesaggio corre.
+
+*Tommaso:* Va bene. Io **sono** **italiano**. Tu **sei**... **ciao**.
+
+Emma guarda fuori dalla **finestra**. Nasconde un sorriso. Il treno va verso Monza. Sono dieci minuti.
+
+*Tommaso:* Io vado a Monza. Liceo. **Classe** seconda.
+
+Emma si gira. Solo un poco.
+
+*Emma:* Anch'io. **Classe** seconda.
+
+Tommaso alza le sopracciglia. È la prima frase vera.
+
+*Tommaso:* Ah! Allora forse **siamo** in **classe** insieme.
+
+Emma non risponde. Ma non dice **ciao**. Il treno si ferma a Monza. È il primo **giorno** di **scuola**.
+
+*Tommaso:* Questo **è** il mio primo **giorno** anche per me.
+
+Tommaso prende il libro e si alza.
+
+*Tommaso:* Va bene, strana. **Arrivederci**.
+
+Emma non risponde all'**arrivederci**. Ma guarda il ragazzo uscire. Il treno è quasi vuoto **adesso**. Emma **è** sola vicino alla **finestra**. Fuori c'è il sole. Emma sorride un poco.
+
+*Emma:* **Ciao**, Monza.
+
+## 9. Confessionale
+
+> *Emma:* **Ciao**.
+
+Emma non guarda la telecamera. Guarda il muro.
+
+> *Emma:* Io sono Emma. Io **sono** **americana**. E io **sono** anche **italiana**. Forse.
+
+Emma alza le spalle.
+
+> *Emma:* Qui io **sono** **nuova**. La **scuola** è **nuova**. La **classe** è **nuova**. Tutto è **nuovo**. La gente dice **ciao**. Tutti dicono **ciao**. Io dico **ciao**. Solo **ciao**.
+
+Emma pensa un secondo. Poi parla di nuovo.
+
+> *Emma:* **Ciao** va bene per tutto. **Ciao** la mattina. **Ciao** la sera. **Ciao** alla **scuola**. **Ciao** in **classe**. **Arrivederci** è per domani. Io non parlo di domani **adesso**.
+
+Emma guarda la telecamera per la prima volta.
+
+> *Emma:* **Ciao**.
+
+## 10. Casa Carter, Via dei Tigli 14 · lunedì sera
+
+Sono le sette di sera. In **casa** Carter ci sono venti scatole. La **porta** è aperta. La cucina è quasi pronta.
+
+*Ben:* **Buonasera**! **Buonasera** a tutti!
+
+*Chiara:* **Buonasera**, Ben. Che **giorno**!
+
+*Ben:* Il primo **giorno**! Il **giorno** numero uno!
+
+Chiara mette la borsa sulla sedia. Si guarda intorno.
+
+*Chiara:* Emma? Leo?
+
+*Ben:* Leo è in camera. Emma è in camera.
+
+*Chiara:* In camera? Tutti e due?
+
+*Ben:* Emma dice: "Sono stanca". Leo dice: "Mamma, la **scuola** è **italiana**!"
+
+Chiara apre la **porta** della camera di Leo. Leo è sul letto. Ha un quaderno nuovo.
+
+*Leo:* Mamma! La **scuola** è bella! La **maestra** è la **maestra** Paola! Io **sono** **americano**. Pietro **è** **italiano**. Noi **siamo** **amici**!
+
+*Chiara:* Pietro?
+
+*Leo:* Pietro abita in Via dei Tigli. Numero tre. Lui **è** un **vicino** e un **amico**.
 
 *Chiara:* Bravo, Leo.
 
-*Ben:* Io sono **americano**. Leo è **italiano**.
+*Leo:* Mamma, io ho un **amico** **italiano** e io **sono** **americano**. **Adesso** **siamo** **amici**.
 
-*Leo:* Sono italiano e americano.
+Leo mostra il quaderno. C'è scritto: "Noi **siamo** **amici**".
 
-*Emma:* Anche io sono italiana e americana.
+*Chiara:* Questo **è** **benvenuto** in **casa** nostra, Leo.
 
-*Ben:* La nostra **famiglia** è internazionale.
+Chiara va alla **porta** della camera di Emma. Bussa. Nessuna risposta.
 
-*Chiara:* La nostra **casa** è piena di scatole.
+*Chiara:* Emma?
 
-*Ben:* La casa è piena di saluti.
+*Emma:* **Ciao**.
 
-*Emma:* È piena anche di tuo padre.
+*Chiara:* Tutto bene?
 
-*Ben:* Io sono qui per un motivo.
+*Emma:* **Ciao**, mamma.
 
-*Emma:* Il motivo è il tuo slogan?
+Chiara guarda la **porta** chiusa per un momento. Poi va in cucina. Fuori, qualcuno bussa alla **porta** principale. È Franco. Ha una borsa con i pomodori dell'orto.
 
-*Ben:* No. Il motivo è la mia famiglia.
+*Ben:* Franco! **Buonasera**, Franco! **Benvenuto**!
 
-*Chiara:* Questa è una bella frase.
+*Franco:* **Buonasera**.
 
-*Ben:* Grazie. È una frase nuova.
-
-*Leo:* Papà, qual è il mio **nome**?
-
-*Ben:* Il tuo nome è Leo Carter.
-
-*Leo:* E il nome di Emma?
-
-*Emma:* Emma Carter.
-
-*Leo:* E il tuo nome, mamma?
-
-*Chiara:* Chiara Ferri.
-
-*Ben:* E il mio nome è Ben Carter.
-
-*Leo:* La mamma è Ferri. Noi siamo Carter.
-
-*Chiara:* Sì. Io sono Chiara Ferri.
-
-Dalla **finestra**, arriva una voce gentile.
-
-*Ornella:* **Buonasera**, signora Ferri.
-
-*Chiara:* **Buonasera**, signora Galli.
-
-*Ornella:* **Buonasera**, ragazzi.
-
-*Leo:* Buonasera, **signora** Ornella.
-
-*Emma:* Buonasera, signora Galli.
-
-*Ornella:* Come sta la vostra famiglia?
-
-*Chiara:* La famiglia sta bene, grazie.
-
-*Ben:* **Buonasera**, signora Galli.
-
-*Ornella:* Buonasera, signor Carter.
-
-*Ben:* **Piacere**, signora Galli.
-
-*Ornella:* Ci conosciamo già, signor Carter.
-
-*Ben:* Sì. Ma ogni saluto è nuovo.
-
-*Ornella:* **Benvenuto** nella vostra casa.
-
-*Ben:* **Grazie**, signora Galli.
-
-*Ornella:* La vostra casa è bella.
-
-*Chiara:* Grazie. Le scatole sono meno belle.
-
-*Ornella:* Le scatole sono di passaggio.
-
-*Ben:* Anche il furgone è di passaggio.
-
-Franco esce dalla casa di fronte.
-
-*Franco:* **Mah**.
-
-*Leo:* Nonno Franco è qui.
-
-*Franco:* L’**americano** è qui.
-
-*Ben:* Buonasera, signore.
-
-*Franco:* Il furgone è ancora nel **posto**?
-
-*Ben:* No. Il posto è libero.
-
-*Franco:* Bene.
-
-*Chiara:* Papà, la famiglia è in casa.
-
-*Franco:* Lo vedo.
-
-*Leo:* Nonno, io sono italiano.
-
-*Franco:* Sì, Leo. Tu sei italiano.
-
-*Leo:* E papà è americano.
-
-*Franco:* Sì. Lui è americano.
-
-*Ben:* Io **sono** Ben.
-
-*Franco:* L’americano è qui.
-
-*Ben:* Sì. E la famiglia è qui.
-
-*Chiara:* Ben, il tuo quaderno.
-
-Il quaderno scivola dalla mano di Ben. Cade vicino ai piedi di Franco.
-
-*Ben:* Il mio quaderno è sul pavimento.
-
-*Leo:* Il quaderno è vicino al nonno.
-
-*Franco:* **Mah**.
-
-*Ben:* Non è uno slogan.
-
-*Franco:* Bene.
-
-*Ben:* Grazie, signore.
-
-*Franco:* Non ringraziare. È un quaderno.
-
-*Chiara:* È un buon inizio.
-
-*Emma:* E il tuo **nome** è sul quaderno.
-
-*Ben:* Sì. Ben Carter. **Piacere**.
+Franco entra. Guarda le scatole. Guarda le pareti.
 
 *Franco:* Mah.
 
-*Leo:* Nonno, lui è il tuo amico?
+*Chiara:* Papà! **Buonasera**, papà. Pomodori? **Grazie**!
 
-*Franco:* È il **vicino**.
+*Franco:* Pomodori nuovi. Dell'orto.
 
-*Ben:* Un **vicino** è un buon inizio.
+*Chiara:* Ben, prendi i pomodori, **per favore**.
 
-*Ornella:* **Arrivederci**, famiglia Carter.
+Ben prende la borsa. Guarda i pomodori. Sono bellissimi.
 
-*Chiara:* **Arrivederci**, signora Galli.
+*Ben:* **Grazie**, Franco. Sono **nuovi**?
 
-*Ben:* **Arrivederci**, signora.
+*Franco:* Sono pomodori.
 
-*Leo:* Ciao, nonno!
+Franco va verso la camera di Leo.
+
+*Franco:* Leo!
+
+Leo esce dalla camera, felice.
+
+*Leo:* Nonno! La **scuola**! La **maestra**! Pietro!
+
+*Franco:* Bravo. E la **maestra** **è** **italiana**?
+
+*Leo:* Sì. **Italiana**. Tutti **italiani**. Ma io **sono** **americano** e va bene.
+
+Franco guarda Leo per un secondo più del solito.
+
+*Franco:* Bene. Mah.
+
+Ben arriva in cucina. Apre i cassetti. Cerca qualcosa.
+
+*Ben:* Chiara, dove **è**... come si dice... la cosa per cucinare?
+
+*Chiara:* La padella?
+
+*Ben:* Padella. Sì. **Grazie**.
+
+*Franco:* Lui cucina?
+
+*Chiara:* Sì, papà. Cucina lui. La sera.
 
 *Franco:* Mah.
 
-*Emma:* Buonasera, nonno.
+Emma esce dalla camera con il telefono. Si siede lontano.
 
-*Franco:* Buonasera.
+*Ben:* Emma! **Buonasera**, Emma! Come **sei**?
 
-*Ben:* Ciao, casa. Ciao, famiglia.
+*Emma:* **Ciao**.
 
-*Chiara:* Ben, siamo già in casa.
+*Ben:* Emma, tu **sei** felice?
 
-## 9. Casa di Franco, Via dei Tigli 9 · lunedì sera
+Emma guarda Ben. Poi guarda Franco. Poi il telefono.
 
-Nella **casa** di Franco, Leo mostra un disegno.
+*Emma:* **Ciao**.
 
-*Leo:* Nonno, questo è Pietro. Lui è il mio **amico**.
+Ben aspetta. Emma alza gli occhi di nuovo.
 
-*Franco:* E questo è un banco?
+*Emma:* **Ciao**, papà.
 
-*Leo:* Sì. È la mia **classe**. E qui c’è il **gatto** di Ornella.
+È poco. Ma Ben sorride. Per lui è abbastanza. Chiara mette la tavola. Quattro piatti. Poi guarda Franco.
 
-*Franco:* Quel gatto è grande.
+*Chiara:* Papà, perché non ceni con noi?
 
-*Leo:* È Pavarotti.
+Franco guarda la tavola. Guarda Ben. Guarda i pomodori.
 
-*Ben:* **Buonasera**, signor Franco.
+*Franco:* Maah.
 
-*Franco:* Buonasera, l’**americano**.
+Franco toglie il cappello e si siede.
 
-*Ben:* **Mi chiamo** Ben Carter. **Sono** **americano**. Piacere.
+*Chiara:* Sì. "Mah" **è** sì.
 
-*Franco:* Ci conosciamo, l’**italiano** sei tu.
+Leo porta il quaderno a tavola. Emma mangia in silenzio. Ben cucina. **Adesso** la cucina è piccola, ma va bene.
 
-*Ben:* Io sono americano; Leo è **italiano**.
+*Ben:* Franco, il **benvenuto** **è** per me? O per Lei?
 
-*Leo:* E tu sei il mio **vicino**.
+*Franco:* Per la **casa**.
 
-*Ben:* Sì. Il mio **nome** è Ben.
+*Ben:* Ah. Per la **casa**. Perfetto.
 
-*Franco:* Il **quaderno** è vicino al bordo.
+Ben serve la pasta. Franco assaggia. Nessuno parla.
 
-Franco lo sposta lontano dal bordo.
+*Franco:* L'**americano** cucina bene.
 
-*Franco:* **Mah**.
+Ben sente. Non dice niente. Ma il quaderno **è** sul tavolo. Più tardi, Franco va verso la **porta**.
 
-*Leo:* Nonno, «mah» è il tuo saluto?
+*Franco:* Io vado. **Ciao**, Leo.
 
-*Franco:* Sì.
+*Leo:* **Ciao**, nonno! A domani!
 
-*Leo:* **Ciao**, nonno.
+*Franco:* **Ciao**, Emma.
 
-*Franco:* Buonasera, Leo.
+Emma alza una mano. Un piccolo **ciao**. Franco guarda Ben. Un secondo. Poi apre la **porta**.
+
+*Franco:* **Arrivederci**.
+
+*Ben:* **Arrivederci**, Franco! **Grazie**! **Adesso** Lei **è**... un **vicino**!
+
+Franco si ferma sulla **porta**. Si gira.
+
+*Franco:* Io **sono** tuo suocero, **americano**. Non un **vicino**.
+
+Poi esce e chiude la **porta**. Chiara ride. Leo ride. Ben scrive una parola nuova.
+
+*Ben:* Suocero. S-u-o-c-e-r-o. Interessante.
+
+Sulla **porta** chiusa, fuori, si sente la voce di Franco.
+
+*Franco:* Mah.

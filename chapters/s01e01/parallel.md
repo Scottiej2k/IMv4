@@ -4,815 +4,655 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Casa Carter, Via dei Tigli 14 · lunedì mattina
+## 1. Via dei Tigli · lunedì mattina
 
 | Italiano | English |
 |---|---|
-| Lunedì mattina, Via dei Tigli è piena di scatole. | Monday morning, Via dei Tigli is full of boxes. |
-| Il **furgone** bianco è davanti al numero quattordici. | The white **van** is in front of number fourteen. |
-| *Chiara:* Ben, questa scatola è per la cucina. | *Chiara:* Ben, this box is for the kitchen. |
-| *Ben:* Perfetto. Cucina. Scatola. Tutto chiaro. | *Ben:* Perfect. Kitchen. Box. All clear. |
-| *Chiara:* Questa è per la camera di Leo. | *Chiara:* This one is for Leo’s room. |
-| *Leo:* La mia scatola è blu? | *Leo:* Is my box blue? |
-| *Chiara:* Sì, Leo. La scatola blu è tua. | *Chiara:* Yes, Leo. The blue box is yours. |
-| *Leo:* Bene. Lo zaino è blu. | *Leo:* Good. My backpack is blue. |
-| *Emma:* Anche il mio zaino è blu. | *Emma:* My backpack is blue too. |
-| *Leo:* Allora siamo una squadra blu. | *Leo:* Then we’re the blue team. |
-| Ben tiene un **quaderno** piccolo in mano. | Ben is holding a small **notebook**. |
-| *Ben:* Ho tre frasi. Sono pronto. | *Ben:* I have three sentences. I’m ready. |
-| *Chiara:* Hai anche una penna? | *Chiara:* Do you have a pen too? |
-| *Ben:* No. Ma ho le frasi. | *Ben:* No. But I have the sentences. |
-| *Emma:* Che grande preparazione. | *Emma:* What impressive preparation. |
-| *Ben:* Grazie, Emma. Il tuo sostegno conta. | *Ben:* Thanks, Emma. Your support matters. |
-| *Emma:* Non è sostegno. È ironia. | *Emma:* It isn’t support. It’s irony. |
-| *Chiara:* Emma, per favore, aiuta Leo. | *Chiara:* Emma, please help Leo. |
-| *Emma:* Sì, mamma. Ciao. | *Emma:* Yes, Mom. Bye. |
-| *Leo:* Ciao a chi? | *Leo:* Bye to whom? |
-| *Emma:* A te. Ciao. | *Emma:* To you. Bye. |
-| *Leo:* Ciao, Emma. | *Leo:* Bye, Emma. |
-| *Ben:* **Ciao!** È la prima frase. | *Ben:* **Hi!** That’s the first sentence. |
-| Poi: **mi chiamo** Ben Carter. | Then: **my name is** Ben Carter. |
-| Poi: **sono** **americano**. | Then: **I am** **American**. |
-| *Chiara:* Ben, sono tre frasi, non un discorso. | *Chiara:* Ben, it’s three sentences, not a speech. |
-| *Ben:* Tre frasi. Una grande impressione. | *Ben:* Three sentences. One big impression. |
-| Chiara guarda la strada e le scatole. | Chiara looks at the street and the boxes. |
-| *Chiara:* Primo: scatole in casa. | *Chiara:* First: boxes in the house. |
-| Secondo: Leo, zaino e giacca. | Second: Leo, backpack and jacket. |
-| Terzo: Emma, pronta per la scuola? | Third: Emma, ready for school? |
-| *Emma:* Sì. Sono pronta. | *Emma:* Yes. I’m ready. |
-| *Chiara:* Ottimo. E tu, Ben? | *Chiara:* Good. And you, Ben? |
-| *Ben:* Io sono pronto per i vicini. | *Ben:* I’m ready for the neighbours. |
-| *Emma:* Il **vicino** non è un pubblico. | *Emma:* The **neighbour** isn’t an audience. |
-| *Ben:* Ogni persona è un pubblico piccolo. | *Ben:* Every person is a small audience. |
-| *Chiara:* Non è una campagna pubblicitaria. | *Chiara:* It’s not an advertising campaign. |
-| *Ben:* Per me, è un saluto. | *Ben:* To me, it’s a greeting. |
-| *Leo:* Il furgone è davanti alla porta. | *Leo:* The van is in front of the door. |
-| *Chiara:* Sì. Il furgone non entra in casa. | *Chiara:* Right. The van doesn’t fit inside the house. |
-| *Leo:* Ma la porta è grande. | *Leo:* But the door is big. |
-| *Ben:* Leo, la casa è grande. | *Ben:* Leo, the house is big. |
-| Il furgone è più grande. | The van is bigger. |
-| *Chiara:* Ben, non iniziare con le scatole. | *Chiara:* Ben, don’t start with the boxes. |
-| *Ben:* Io non inizio. Io saluto. | *Ben:* I’m not starting. I’m greeting people. |
-| La **finestra** al piano accanto è aperta. | The **window** upstairs next door is open. |
-| Una signora guarda la famiglia dalla finestra. | A woman watches the family from the window. |
-| *Leo:* Mamma, la **signora** è alla finestra. | *Leo:* Mom, the **lady** is at the window. |
-| *Chiara:* Sì, Leo. È la nostra vicina. | *Chiara:* Yes, Leo. She’s our neighbour. |
-| *Leo:* Anche lei è pronta per la scuola? | *Leo:* Is she ready for school too? |
-| *Emma:* Leo, non tutti vanno a scuola. | *Emma:* Leo, not everyone goes to school. |
-| *Leo:* Perché no? | *Leo:* Why not? |
-| *Emma:* Perché hanno altri programmi. | *Emma:* Because they have other plans. |
-| *Ben:* Allora, io saluto la signora. | *Ben:* Then I’ll greet the woman. |
-| *Chiara:* Va bene. Piano, Ben. | *Chiara:* All right. Easy, Ben. |
-| *Ben:* Signora! Buongiorno! | *Ben:* Ma’am! Good morning! |
-| La signora sorride dalla finestra. | The woman smiles from the window. |
-| *Ben:* **Buongiorno! Mi chiamo** Ben. | *Ben:* **Good morning! My name is** Ben. |
-| **Sono americano**. Piacere! | **I’m American**. Pleased to meet you! |
-| *Chiara:* Ben, la signora è lontana. | *Chiara:* Ben, the woman is far away. |
-| *Ben:* La mia voce è forte. | *Ben:* My voice is loud. |
-| *Emma:* È una cosa che notiamo. | *Emma:* That’s something we notice. |
-| *Leo:* La signora dice qualcosa? | *Leo:* Is the woman saying something? |
-| La signora agita una mano. | The woman waves. |
-| *Ben:* Perfetto. Il saluto è un successo. | *Ben:* Perfect. The greeting is a success. |
-| *Emma:* La signora saluta con la mano. Non applaude. | *Emma:* The woman waves. She doesn’t applaud. |
-| *Ben:* Un gesto positivo è un successo. | *Ben:* A positive gesture is a success. |
-| *Chiara:* Ben, il **posto** davanti al numero quattordici? | *Chiara:* Ben, the **spot** in front of number fourteen? |
-| *Ben:* Il posto è per il furgone. | *Ben:* The spot is for the van. |
-| *Chiara:* Il furgone è davanti a casa. | *Chiara:* The van is in front of the house. |
-| Ma blocca il passaggio. | But it’s blocking the way. |
-| *Ben:* È un **posto** speciale. | *Ben:* It’s a special **spot**. |
-| *Chiara:* È un posto per le auto. | *Chiara:* It’s a parking spot. |
-| *Ben:* Allora è perfetto per il furgone. | *Ben:* Then it’s perfect for the van. |
-| *Emma:* Non proprio. | *Emma:* Not exactly. |
-| *Leo:* Il furgone è una macchina grande. | *Leo:* The van is a big car. |
-| *Chiara:* Non è questo il problema. | *Chiara:* That’s not the problem. |
-| *Ben:* Capisco. La strada è stretta. | *Ben:* I understand. The street is narrow. |
-| *Chiara:* Esatto. E il passaggio è occupato. | *Chiara:* Exactly. And the way is blocked. |
-| *Ben:* Allora sposto il furgone. | *Ben:* Then I’ll move the van. |
-| *Chiara:* Prima saluta. Poi sposti il furgone. | *Chiara:* First say hello. Then move the van. |
-| *Ben:* C’è una fila per salutare? | *Ben:* Is there a line to say hello? |
-| *Chiara:* No, Ben. Non c’è nessuna fila. | *Chiara:* No, Ben. There isn’t any line. |
-| *Emma:* La strada non è un negozio. | *Emma:* The street isn’t a shop. |
-| *Ben:* Bene. Nessuna fila. | *Ben:* Good. No line. |
-| Ben apre il suo quaderno. | Ben opens his notebook. |
-| *Ben:* Prima frase: ciao. | *Ben:* First sentence: hi. |
-| Seconda frase: mi chiamo Ben. | Second sentence: my name is Ben. |
-| Terza frase: sono americano. | Third sentence: I’m American. |
-| *Chiara:* E la quarta frase? | *Chiara:* And the fourth sentence? |
-| *Ben:* Non c’è una quarta frase. | *Ben:* There isn’t a fourth sentence. |
-| *Chiara:* Molto bene. | *Chiara:* Very good. |
-| *Leo:* Mamma, io sono italiano? | *Leo:* Mom, am I Italian? |
-| *Chiara:* Sì, Leo. Tu **sei italiano**. | *Chiara:* Yes, Leo. You **are Italian**. |
-| *Leo:* E Emma? | *Leo:* And Emma? |
-| *Chiara:* Emma è italiana e americana. | *Chiara:* Emma is Italian and American. |
-| *Emma:* Sono italiana. Sono anche americana. | *Emma:* I’m Italian. I’m American too. |
-| *Ben:* Anche io sono americano. | *Ben:* I’m American too. |
-| *Leo:* E papà è americano. | *Leo:* And Dad is American. |
-| *Ben:* Sì, Leo. Io **sono** **americano**. | *Ben:* Yes, Leo. I **am** **American**. |
-| *Emma:* È la tua frase numero tre. | *Emma:* That’s your sentence number three. |
-| *Ben:* La frase è molto utile. | *Ben:* The sentence is very useful. |
-| *Chiara:* La tua famiglia è pronta? | *Chiara:* Is your family ready? |
-| *Ben:* Sì. **La famiglia** è pronta. | *Ben:* Yes. **The family** is ready. |
-| *Leo:* Io sono pronto. | *Leo:* I’m ready. |
-| *Emma:* Io sono pronta da dieci minuti. | *Emma:* I’ve been ready for ten minutes. |
-| *Chiara:* Basta, Emma. Andiamo. | *Chiara:* That’s enough, Emma. Let’s go. |
-| *Emma:* Ciao, casa. | *Emma:* Bye, house. |
-| *Ben:* Ciao, casa nuova. | *Ben:* Bye, new house. |
-| *Leo:* La casa è nostra? | *Leo:* Is the house ours? |
-| *Chiara:* Sì. È la nostra casa. | *Chiara:* Yes. It’s our house. |
-| *Ben:* È una bella casa. | *Ben:* It’s a lovely house. |
-| *Emma:* E ci sono scatole ovunque. | *Emma:* And there are boxes everywhere. |
-| *Chiara:* Le scatole sono parte della casa. | *Chiara:* The boxes are part of the house. |
-| *Ben:* È una bella frase. | *Ben:* That’s a lovely sentence. |
-| Dall’altra parte della strada, Franco è sulla soglia. | Across the street, Franco is standing in the doorway. |
-| Guarda il furgone, le scatole e Ben. | He looks at the van, the boxes, and Ben. |
-| Franco dice: «**Mah**». | Franco says, “**Well**.” |
-| *Leo:* Nonno Franco dice «Mah». | *Leo:* Grandpa Franco says “Well.” |
-| *Chiara:* Sì. È il suo saluto. | *Chiara:* Yes. It’s his greeting. |
-| *Ben:* «Mah» è un saluto italiano? | *Ben:* Is “mah” an Italian greeting? |
-| *Emma:* Per Franco, forse. | *Emma:* For Franco, maybe. |
-| *Ben:* Allora, **buongiorno**, signor Franco! | *Ben:* Then, **good morning**, Mr. Franco! |
-| Franco guarda Ben. Non risponde. | Franco looks at Ben. He doesn’t answer. |
-| *Ben:* Il saluto è quasi un successo. | *Ben:* The greeting is almost a success. |
-| *Chiara:* Ben, il furgone. | *Chiara:* Ben, the van. |
-| *Ben:* Sì. Prima il furgone. | *Ben:* Yes. The van first. |
-| *Leo:* Poi la scuola? | *Leo:* Then school? |
-| *Chiara:* Sì, Leo. Poi la scuola. | *Chiara:* Yes, Leo. Then school. |
-| *Emma:* E poi un altro ciao. | *Emma:* And then another hello. |
-| *Ben:* **Ciao** è la mia specialità. | *Ben:* **Hello** is my specialty. |
-| *Chiara:* Per ora, è la tua unica specialità. | *Chiara:* For now, it’s your only specialty. |
-| *Ben:* Perfetto. Una specialità è un inizio. | *Ben:* Perfect. One specialty is a beginning. |
-| Ben richiude il quaderno e sorride. | Ben closes the notebook and smiles. |
-| Chiara indica il furgone. | Chiara points to the van. |
-| *Chiara:* Ben, quel posto libero è più avanti. | *Chiara:* Ben, that empty spot is farther ahead. |
-| *Ben:* Il posto libero. Capisco. | *Ben:* The empty spot. I understand. |
-| *Emma:* Davvero? | *Emma:* Really? |
-| *Ben:* Sì. Il furgone va lì. | *Ben:* Yes. The van goes there. |
-| *Leo:* E noi? | *Leo:* And us? |
-| *Chiara:* Noi andiamo a scuola. | *Chiara:* We’re going to school. |
-| *Ben:* Tutti insieme. La famiglia italiana-americana. | *Ben:* All together. The Italian-American family. |
-| *Emma:* Ciao, papà. Senza discorso. | *Emma:* Bye, Dad. No speech. |
-| *Ben:* **Ciao**, Emma. Senza discorso. | *Ben:* **Bye**, Emma. No speech. |
-| Il furgone parte. Franco guarda ancora. | The van pulls away. Franco keeps watching. |
-| Dalla finestra, la signora saluta la famiglia. | From the window, the woman waves to the family. |
-| *Chiara:* Ecco. Un saluto per tutti. | *Chiara:* There. A greeting for everyone. |
-| *Ben:* Sì. E nessuna parola nuova. | *Ben:* Yes. And no new words. |
-| *Leo:* «Mah» è una parola nuova. | *Leo:* “Mah” is a new word. |
-| *Ben:* Allora la scrivo nel quaderno. | *Ben:* Then I’ll write it in the notebook. |
+| È lunedì mattina, il primo **giorno** di settembre. | It's Monday morning, the first **day** of September. |
+| In Via dei Tigli c'è un furgone grande davanti al numero quattordici. | On Via dei Tigli there's a big van in front of number fourteen. |
+| La **porta** della **casa** è aperta. Le **finestre** sono aperte. | The **door** of the **house** is open. The **windows** are open. |
+| *Ben:* **Buongiorno**! **Buongiorno** a tutti! | *Ben:* **Good morning**! **Good morning** everyone! |
+| Ben è in mezzo alla strada. Ha un quaderno in mano. | Ben is in the middle of the street. He has a notebook in his hand. |
+| *Chiara:* Ben! Perché parli con la strada? | *Chiara:* Ben! Why are you talking to the street? |
+| *Ben:* **Buongiorno**, Chiara! Io **sono** Ben! Io **sono** **americano**! | *Ben:* **Good morning**, Chiara! I **am** Ben! I **am** **American**! |
+| *Chiara:* Lo so, Ben. Io **sono** tua moglie. | *Chiara:* I know, Ben. I **am** your wife. |
+| *Ben:* Sì, ma **adesso** io parlo con la strada. | *Ben:* Yes, but **now** I'm talking to the street. |
+| Leo esce dalla **casa**. Ha uno zaino grande. | Leo comes out of the **house**. He has a big backpack. |
+| *Leo:* Papà, perché parli con la strada? | *Leo:* Dad, why are you talking to the street? |
+| *Ben:* Perché **adesso** io **sono** **il vicino**! | *Ben:* Because **now** I **am** the **neighbour**! |
+| Un signore passa con un cane. Ben alza la mano. | A gentleman passes with a dog. Ben raises his hand. |
+| *Ben:* **Buongiorno**! **Piacere**! Ben Carter! | *Ben:* **Good morning**! **Nice to meet you**! Ben Carter! |
+| Il signore saluta con la testa e va avanti. | The gentleman nods and walks on. |
+| *Ben:* Niente **grazie**? Niente **per favore**? Mah. | *Ben:* No **thank you**? No **please**? Hmm. |
+| *Leo:* Papà, tu **sei** **nuovo**. La gente non parla con i **vicini** **nuovi**. | *Leo:* Dad, you **are** **new**. People don't talk to **neighbours** who are **new**. |
+| *Ben:* Ma io **sono** simpatico! | *Ben:* But I **am** friendly! |
+| *Chiara:* Ben, la **scuola** di Leo è a trecento metri. La **scuola** di Emma è a Monza. | *Chiara:* Ben, Leo's **school** is three hundred metres away. Emma's **school** is in Monza. |
+| Il treno è alle otto. | The train is at eight. |
+| *Ben:* Perfetto! Primo: Leo a **scuola**. Secondo: Emma al treno. Terzo: il furgone. | *Ben:* Perfect! First: Leo to **school**. Second: Emma to the train. Third: the van. |
+| Emma esce dalla **porta** con gli occhiali da sole. | Emma comes out of the **door** wearing sunglasses. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| *Ben:* **Ciao**, Emma! **Arrivederci**! Buona **scuola**! | *Ben:* **Hi**, Emma! **Goodbye**! Have a good day at **school**! |
+| Emma non risponde. Va verso la stazione. È un **giorno** importante. | Emma doesn't answer. She walks towards the station. It's an important **day**. |
+| *Chiara:* Emma! Emma, aspetta! | *Chiara:* Emma! Emma, wait! |
+| Emma alza una mano. Un **ciao** piccolo, senza parole. | Emma raises one hand. A small **hi**, without words. |
+| *Leo:* Emma dice solo **ciao**. | *Leo:* Emma only says **hi**. |
+| *Ben:* Anch'io dico **ciao**! Noi **siamo** una famiglia simpatica! | *Ben:* I say **hi** too! **We are** a friendly family! |
+| Dall'altra parte della strada, al numero nove, una **porta** si apre. | Across the street, at number nine, a **door** opens. |
+| Esce Franco. Ha un cappello e le forbici da giardino. | Franco comes out. He has a hat and garden scissors. |
+| *Ben:* **Buongiorno**! Io **sono** Ben! **Sono** **americano**! **Piacere**! | *Ben:* **Good morning**! I **am** Ben! I **am** **American**! **Nice to meet you**! |
+| Franco guarda Ben. Guarda il furgone. Guarda Ben di nuovo. | Franco looks at Ben. He looks at the van. He looks at Ben again. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| *Chiara:* Papà! **Buongiorno**, papà. | *Chiara:* Dad! **Good morning**, dad. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| *Ben:* Chiara, che cosa significa "mah"? | *Ben:* Chiara, what does "mah" mean? |
+| *Chiara:* Significa... mah. | *Chiara:* It means... hmm. |
+| Leo corre verso Franco. | Leo runs towards Franco. |
+| *Leo:* Nonno! Io **sono** Leo! Tu **sei** il nonno! | *Leo:* Grandpa! I **am** Leo! You **are** the grandpa! |
+| *Franco:* **Ciao**, Leo. Tu **sei** **americano**? | *Franco:* **Hi**, Leo. Are you **American**? |
+| *Leo:* Sì. Ma la mia **scuola** è **italiana**. | *Leo:* Yes. But my **school** is **Italian**. |
+| *Franco:* Bene. Mah. | *Franco:* Good. Hmm. |
+| Franco guarda la **casa** numero quattordici. | Franco looks at **house** number fourteen. |
+| *Ben:* Allora, Franco. Io **sono** **il vicino**. | *Ben:* So, Franco. I **am** the **neighbour**. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| *Ben:* Io **sono** **il vicino** vecchio. | *Ben:* I **am** the old **neighbour**. |
+| *Chiara:* No, Ben. **Il vicino** **nuovo**. | *Chiara:* No, Ben. The **neighbour** who is **new**. |
+| *Ben:* **Nuovo**? | *Ben:* **New**? |
+| *Chiara:* **Nuovo**. Vecchio è mio padre. | *Chiara:* **New**. Old is my father. |
+| Franco non sorride. Ma non entra in **casa**. | Franco doesn't smile. But he doesn't go into the **house**. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| *Ben:* Chiara, lui è **il vicino**? | *Ben:* Chiara, is he the **neighbour**? |
+| *Chiara:* No, Ben. Lui è mio padre. | *Chiara:* No, Ben. He's my father. |
+| *Ben:* Ah! Lei è Franco? | *Ben:* Ah! Are you Franco? |
+| *Chiara:* No, Ben. In famiglia noi diciamo tu. | *Chiara:* No, Ben. In the family we say tu. |
+| *Ben:* Ah, tu! **Piacere**, Franco! **Grazie**! | *Ben:* Ah, tu! **Nice to meet you**, Franco! **Thank you**! |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| Leo prende la mano di Franco. Franco non parla. | Leo takes Franco's hand. Franco doesn't speak. |
+| *Leo:* Nonno, tu **sei** **italiano** e io **sono** **americano**. | *Leo:* Grandpa, you **are** **Italian** and I **am** **American**. |
+| *Franco:* Sì. Mah. | *Franco:* Yes. Hmm. |
+| Al numero sedici c'è una **finestra** aperta. | At number sixteen there's an open **window**. |
+| *Ben:* **Buongiorno**! Io **sono** Ben! **Sono** **americano**! | *Ben:* **Good morning**! I **am** Ben! I **am** **American**! |
+| **Adesso** la tenda è chiusa. | **Now** the curtain is closed. |
+| *Ben:* Anche la tenda? Mah. | *Ben:* The curtain too? Hmm. |
+| *Leo:* Papà, tu dici "mah" come il nonno. | *Leo:* Dad, you say "mah" like grandpa. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| Chiara guarda l'orologio. | Chiara looks at her watch. |
+| *Chiara:* Leo, la **scuola** è alle otto e mezza. **Adesso** andiamo. | *Chiara:* Leo, **school** starts at half past eight. Let's go **now**. |
+| *Leo:* La **scuola** Rodari. La **scuola** di Pietro. | *Leo:* The Rodari **school**. Pietro's **school**. |
+| *Chiara:* Sì, la tua **scuola**. | *Chiara:* Yes, your **school**. |
+| *Leo:* Papà, tu **sei** a **casa** tutto il **giorno**? | *Leo:* Dad, are you at **home** all **day**? |
+| *Ben:* Sì. Io, il furgone e le **finestre**. | *Ben:* Yes. Me, the van and the **windows**. |
+| Emma è lontana, alla fine della strada. | Emma is far away, at the end of the street. |
+| *Ben:* Emma! **Arrivederci**! | *Ben:* Emma! **Goodbye**! |
+| Emma risponde con la mano: **ciao**. | Emma answers with her hand: **hi**. |
+| *Chiara:* Papà, Ben è mio marito. | *Chiara:* Dad, Ben is my husband. |
+| *Franco:* Lo so. | *Franco:* I know. |
+| *Chiara:* E i bambini sono i tuoi nipoti. | *Chiara:* And the kids are your grandchildren. |
+| *Franco:* Lo so. Mah. | *Franco:* I know. Hmm. |
+| Emma va verso la stazione. Il treno è alle otto. | Emma walks towards the station. The train is at eight. |
+| *Chiara:* Ben, sposta il furgone, **per favore**. | *Chiara:* Ben, move the van, **please**. |
+| *Ben:* Sì! **Per favore** e **grazie**. Due parole bellissime. | *Ben:* Yes! **Please** and **thank you**. Two beautiful words. |
+| Ben va verso il furgone. Guarda il numero sulla **porta**. | Ben goes towards the van. He looks at the number on the **door**. |
+| *Ben:* Numero quattordici. La **casa** è **nuova** per me. | *Ben:* Number fourteen. The **house** is **new** to me. |
+| *Chiara:* Il furgone, Ben. Il posto del signor Colombo. | *Chiara:* The van, Ben. Mr Colombo's space. |
+| *Ben:* Il signor Colombo è **il vicino**? | *Ben:* Is Mr Colombo the **neighbour**? |
+| *Chiara:* Sì. Lui è **il vicino** al numero undici. | *Chiara:* Yes. He's the **neighbour** at number eleven. |
+| *Ben:* Undici. Perfetto. **Adesso** sposto il furgone. | *Ben:* Eleven. Perfect. I'll move the van **now**. |
+| Franco va verso l'orto. Fa due passi e si ferma. | Franco heads towards the garden. He takes two steps and stops. |
+| *Franco:* Il furgone. Il posto del signor Colombo. | *Franco:* The van. Mr Colombo's space. |
+| *Chiara:* Ci penso io, papà. | *Chiara:* I'll handle it, dad. |
+| Franco guarda Chiara. Poi guarda Ben. Poi guarda il furgone. | Franco looks at Chiara. Then he looks at Ben. Then he looks at the van. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| Leo è sulla **porta** con lo zaino. | Leo is at the **door** with his backpack. |
+| *Leo:* Mamma, io **sono** pronto. La **scuola** è **nuova** e io **sono** **nuovo**. | *Leo:* Mum, I **am** ready. The **school** is **new** and I **am** **new**. |
+| *Chiara:* Bravo, Leo. **Adesso** andiamo. | *Chiara:* Good boy, Leo. Let's go **now**. |
+| Ben apre la **porta** del furgone e prende le chiavi. | Ben opens the van **door** and takes the keys. |
+| *Ben:* Chiara, io parlo bene **italiano**? | *Ben:* Chiara, do I speak **Italian** well? |
+| *Chiara:* No. Ma **adesso** parli. | *Chiara:* No. But **now** you speak. |
+| *Ben:* **Adesso** parlo! Ottimo! | *Ben:* **Now** I speak! Great! |
+| Emma è alla fine della strada. Non guarda indietro. | Emma is at the end of the street. She doesn't look back. |
+| *Chiara:* Emma! **Arrivederci**! | *Chiara:* Emma! **Goodbye**! |
+| Emma alza una mano. **Ciao**. | Emma raises a hand. **Hi**. |
+| *Franco:* Questa è Emma? | *Franco:* Is that Emma? |
+| *Chiara:* Sì, papà. È tua nipote. | *Chiara:* Yes, dad. She's your granddaughter. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| Ben è davanti alla **casa** numero quattordici. | Ben is in front of **house** number fourteen. |
+| Dall'altra parte della strada, Franco è davanti alla **porta**. | Across the street, Franco is in front of his **door**. |
+| *Ben:* **Buongiorno**? | *Ben:* **Good morning**? |
+| Franco entra in **casa** e chiude la **porta**. | Franco goes into the **house** and closes the **door**. |
+| *Franco:* Mah. Mah. | *Franco:* Hmm. Hmm. |
 
 ## 2. Confessionale
 
 | Italiano | English |
 |---|---|
-| Ben è solo davanti alla telecamera. | Ben is alone in front of the camera. |
-| *Ben:* **Ciao**, mi chiamo Ben Carter. | *Ben:* **Hi**, my name is Ben Carter. |
-| **Sono** **americano**. | **I am** **American**. |
-| La mia famiglia è americana e **italiana**. | My family is American and **Italian**. |
-| Questo è il mio **quaderno** delle parole. | This is my **notebook** of words. |
-| Qui c’è il mio piano per la strada. | Here is my plan for the street. |
-| Saluto ogni **vicino** con le stesse frasi. | I greet every **neighbour** with the same sentences. |
-| Primo: ciao. Secondo: mi chiamo Ben. | First: hi. Second: my name is Ben. |
-| Terzo: sono americano. | Third: I’m American. |
-| Poi dico: **piacere**. | Then I say: **pleased to meet you**. |
-| E poi: **grazie**. | And then: **thank you**. |
-| Ben mostra il quaderno e sorride. | Ben shows the notebook and smiles. |
-| *Ben:* È semplice, chiaro e molto professionale. | *Ben:* It’s simple, clear, and very professional. |
-| Ogni vicino riceve lo stesso saluto. | Every neighbour gets the same greeting. |
-| È una campagna, ma senza manifesti. | It’s a campaign, but without posters. |
-| Il mio slogan è: «Ciao, sono Ben». | My slogan is, “Hi, I’m Ben.” |
-| Ben annuisce, soddisfatto del piano. | Ben nods, pleased with the plan. |
-| *Ben:* **Sono** italiano? No. Sono americano. | *Ben:* **Am I** Italian? No. I’m American. |
+| *Ben:* **Mi chiamo** Ben Carter. | *Ben:* **My name is** Ben Carter. |
+| Io **sono** **americano**. | I **am** **American**. |
+| **Sono** di Columbus, Ohio. | I **am** from Columbus, Ohio. |
+| Ma **adesso** abito qui, in Via dei Tigli. | But **now** I live here, on Via dei Tigli. |
+| Ben guarda la telecamera. Sorride. | Ben looks at the camera. He smiles. |
+| *Ben:* Io **sono** **il vicino** **nuovo**. Numero quattordici. | *Ben:* I **am** the **new** **neighbour**. Number fourteen. |
+| La **casa** è grande. Le **case** qui sono tutte grandi. | The **house** is big. The **houses** here are all big. |
+| Io **sono** a **casa** tutto il **giorno**. | I **am** at **home** all **day**. |
+| Io ho tre parole. Tre parole **italiane**. | I have three words. Three **Italian** words. |
+| *Ben:* Uno: **buongiorno**. Due: **buonasera**. Tre: **arrivederci**. | *Ben:* One: **good morning**. Two: **good evening**. Three: **goodbye**. |
+| **Buongiorno** la mattina. **Buonasera** la sera. **Arrivederci**... quando vado. | **Good morning** in the morning. **Good evening** in the evening. **Goodbye**... when I go. |
+| E poi: "**Benvenuto**!" Questa parola è bellissima. | And then: "**Welcome**!" That word is beautiful. |
+| Ben apre le braccia. | Ben opens his arms. |
+| *Ben:* I **vicini** sono **italiani**. Tutti. | *Ben:* The **neighbours** are **Italian**. All of them. |
+| Io **sono** **americano**. Tutti lo sanno. | I **am** **American**. Everyone knows it. |
+| Io parlo poco **italiano**. Ma io parlo. | I speak a little **Italian**. But I speak. |
+| Io **sono** Ben. Tu **sei**... tu? | I **am** Ben. You **are**... you? |
+| *Ben:* Noi **siamo** vicini. Voi **siete** italiani. Loro **sono** italiani. | *Ben:* We **are** neighbours. You **are** Italian. They **are** Italian. |
+| *Ben:* Questa **casa** è **nuova** per me. | *Ben:* This **house** is **new** to me. |
+| Questa strada è **nuova** per me. | This street is **new** to me. |
+| *Ben:* Ma io **sono** pronto. | *Ben:* But I **am** ready. |
+| **Adesso** io **sono** pronto! | **Now** I **am** ready! |
 
-## 3. Scuola primaria Gianni Rodari · lunedì mattina
+## 3. Via dei Tigli · lunedì mattina
 
 | Italiano | English |
 |---|---|
-| Davanti alla **scuola**, Chiara ferma i figli. | In front of the **school**, Chiara stops the children. |
-| *Chiara:* Leo, il tuo zaino è pronto? | *Chiara:* Leo, is your backpack ready? |
-| *Leo:* Sì, mamma. È qui. | *Leo:* Yes, Mom. It’s here. |
-| *Chiara:* Emma, tu resti con Leo. | *Chiara:* Emma, you stay with Leo. |
-| *Emma:* Sì, mamma. Sono qui. | *Emma:* Yes, Mom. I’m here. |
-| *Leo:* Anche tu entri nella mia classe? | *Leo:* Are you coming into my class too? |
-| *Emma:* No, Leo. Io vado al liceo. | *Emma:* No, Leo. I’m going to high school. |
-| *Leo:* La tua scuola è lontana? | *Leo:* Is your school far away? |
-| *Emma:* È a Monza. | *Emma:* It’s in Monza. |
-| *Leo:* Monza è lontana? | *Leo:* Is Monza far away? |
-| *Chiara:* Leo, prima la tua scuola. | *Chiara:* Leo, first your school. |
-| *Leo:* Sì. La **scuola** è qui. | *Leo:* Yes. The **school** is here. |
-| *Chiara:* La tua classe è al piano terra. | *Chiara:* Your class is on the ground floor. |
-| *Leo:* Il mio zaino è pronto. | *Leo:* My backpack is ready. |
-| *Emma:* Lo zaino è più pronto di te. | *Emma:* The backpack is readier than you. |
-| *Leo:* Sono pronto anch’io. | *Leo:* I’m ready too. |
-| *Chiara:* Bravi. Andiamo all’ingresso. | *Chiara:* Good. Let’s go to the entrance. |
-| La maestra Paola aspetta sulla porta. | Teacher Paola is waiting at the door. |
-| *Maestra Paola:* **Buongiorno**, Leo. **Buongiorno**, Chiara. | *Maestra Paola:* **Good morning**, Leo. **Good morning**, Chiara. |
-| *Chiara:* **Buongiorno**, maestra Paola. | *Chiara:* **Good morning**, Teacher Paola. |
-| *Leo:* **Buongiorno**. | *Leo:* **Good morning**. |
-| *Maestra Paola:* Tu sei Leo Carter? | *Maestra Paola:* Are you Leo Carter? |
-| *Leo:* Sì. **Io sono** Leo. | *Leo:* Yes. **I am** Leo. |
-| *Maestra Paola:* Piacere, Leo. Io sono Paola. | *Maestra Paola:* Pleased to meet you, Leo. I’m Paola. |
-| *Leo:* **Piacere**, maestra Paola. | *Leo:* **Pleased to meet you**, Teacher Paola. |
-| *Maestra Paola:* Questa è **la classe** terza. | *Maestra Paola:* This is **the third-grade class**. |
-| *Leo:* La mia classe è grande. | *Leo:* My class is big. |
-| *Maestra Paola:* Sì, la classe è allegra. | *Maestra Paola:* Yes, the class is cheerful. |
-| *Leo:* E il mio zaino è grande. | *Leo:* And my backpack is big. |
-| *Chiara:* Leo, questa è la tua **maestra**. | *Chiara:* Leo, this is your **teacher**. |
-| *Leo:* Sì, mamma. La maestra è gentile. | *Leo:* Yes, Mom. The teacher is kind. |
-| *Maestra Paola:* Grazie, Leo. Anche tu sei gentile. | *Maestra Paola:* Thank you, Leo. You’re kind too. |
-| *Leo:* **Grazie**. | *Leo:* **Thank you**. |
-| *Chiara:* **La famiglia** è pronta per il primo giorno. | *Chiara:* **The family** is ready for the first day. |
-| *Leo:* Anche il mio zaino è pronto. | *Leo:* My backpack is ready too. |
-| *Emma:* Lo zaino è il protagonista. | *Emma:* The backpack is the star. |
-| *Leo:* Il mio nome è sullo zaino. | *Leo:* My name is on the backpack. |
-| *Chiara:* E qual è il tuo **nome**? | *Chiara:* And what is your **name**? |
-| *Leo:* Leo. Il mio nome è Leo. | *Leo:* Leo. My name is Leo. |
-| *Maestra Paola:* Vuoi dire il tuo nome alla classe? | *Maestra Paola:* Would you like to tell the class your name? |
-| *Leo:* Sì. Ma anche il nome dello zaino? | *Leo:* Yes. But the backpack’s name too? |
-| *Maestra Paola:* Solo il tuo nome, Leo. | *Maestra Paola:* Just your name, Leo. |
-| *Leo:* Va bene. Il mio zaino non parla. | *Leo:* All right. My backpack doesn’t talk. |
-| *Emma:* Per fortuna. | *Emma:* Thank goodness. |
-| Emma guarda verso l’ingresso della scuola. | Emma looks toward the school entrance. |
-| Alcuni ragazzi sono vicino alla porta. | Some students are near the door. |
-| Emma resta accanto a Chiara. | Emma stays beside Chiara. |
-| *Chiara:* Emma, questi ragazzi sono tuoi compagni? | *Chiara:* Emma, are these students your classmates? |
-| *Emma:* Forse. Non lo so. | *Emma:* Maybe. I don’t know. |
-| *Chiara:* Puoi salutarli. | *Chiara:* You can say hello to them. |
-| *Emma:* **Ciao**. | *Emma:* **Hi**. |
-| *Chiara:* Tutto qui? | *Chiara:* That’s all? |
-| *Emma:* Sì. **Ciao** è una parola completa. | *Emma:* Yes. **Hi** is a complete word. |
-| *Leo:* Io dico anche il mio nome. | *Leo:* I say my name too. |
-| *Emma:* Tu hai otto anni. | *Emma:* You’re eight years old. |
-| *Leo:* E tu hai quindici anni. | *Leo:* And you’re fifteen years old. |
-| *Emma:* Esatto. Io sono più grande. | *Emma:* Exactly. I’m older. |
-| *Chiara:* Emma, un saluto è un buon inizio. | *Chiara:* Emma, a greeting is a good start. |
-| *Emma:* Ciao è un saluto. | *Emma:* Hi is a greeting. |
-| *Chiara:* Sì. E magari dici «piacere». | *Chiara:* Yes. And maybe you say “pleased to meet you.” |
-| *Emma:* Magari no. | *Emma:* Maybe not. |
-| *Leo:* Maestra Paola, Emma è timida? | *Leo:* Teacher Paola, is Emma shy? |
-| *Emma:* Leo! | *Emma:* Leo! |
-| *Maestra Paola:* Ogni persona è diversa, Leo. | *Maestra Paola:* Every person is different, Leo. |
-| *Leo:* Io sono Leo. Tu sei Paola. | *Leo:* I’m Leo. You’re Paola. |
-| *Maestra Paola:* Esatto. E lei è Emma. | *Maestra Paola:* Exactly. And she’s Emma. |
-| *Leo:* Emma è mia sorella. | *Leo:* Emma is my sister. |
-| *Emma:* E lui è mio fratello. | *Emma:* And he’s my brother. |
-| *Leo:* Siamo una famiglia. | *Leo:* We’re a family. |
-| *Chiara:* Sì, siete una bella famiglia. | *Chiara:* Yes, you’re a lovely family. |
-| *Leo:* Anche la maestra è della famiglia? | *Leo:* Is the teacher part of the family too? |
-| *Maestra Paola:* No, Leo. Io sono la tua maestra. | *Maestra Paola:* No, Leo. I’m your teacher. |
-| *Leo:* La maestra non è mia sorella. | *Leo:* The teacher isn’t my sister. |
-| *Maestra Paola:* No, ma oggi siamo una squadra. | *Maestra Paola:* No, but today we’re a team. |
-| *Leo:* Una squadra con lo zaino? | *Leo:* A team with the backpack? |
-| *Maestra Paola:* Certo. Anche lo zaino è pronto. | *Maestra Paola:* Of course. The backpack is ready too. |
-| *Leo:* Allora siamo in tre. | *Leo:* Then there are three of us. |
-| *Chiara:* Leo, entra con la maestra. | *Chiara:* Leo, go in with the teacher. |
-| *Leo:* Mamma, tu sei qui? | *Leo:* Mom, are you here? |
-| *Chiara:* Sì, sono qui. | *Chiara:* Yes, I’m here. |
-| Ma ora vado al lavoro. | But now I’m going to work. |
-| *Leo:* Tu sei un’architetta. | *Leo:* You’re an architect. |
-| *Chiara:* Esatto. E tu sei uno studente. | *Chiara:* Exactly. And you’re a student. |
-| *Leo:* Sono uno studente italiano? | *Leo:* Am I an Italian student? |
-| *Chiara:* Sì. Tu **sei italiano**. | *Chiara:* Yes. You **are Italian**. |
-| *Leo:* E tu sei italiana. | *Leo:* And you’re Italian. |
-| *Chiara:* Sì, sono italiana. | *Chiara:* Yes, I’m Italian. |
-| *Leo:* Papà è **americano**. | *Leo:* Dad is **American**. |
-| *Chiara:* Sì. Papà è americano. | *Chiara:* Yes. Dad is American. |
-| *Leo:* Emma è italiana e americana. | *Leo:* Emma is Italian and American. |
-| *Emma:* Sì. Io **sono italiana** e americana. | *Emma:* Yes. **I am Italian** and American. |
-| *Leo:* Io sono italiano e americano? | *Leo:* Am I Italian and American? |
-| *Chiara:* Sì, Leo. Sei italiano e americano. | *Chiara:* Yes, Leo. You’re Italian and American. |
-| *Leo:* È un nome lungo? | *Leo:* Is that a long name? |
-| *Chiara:* È una frase lunga. | *Chiara:* It’s a long sentence. |
-| *Leo:* Il mio nome è più corto. | *Leo:* My name is shorter. |
-| *Maestra Paola:* Leo, la classe aspetta. | *Maestra Paola:* Leo, the class is waiting. |
-| *Leo:* Arrivo. Il mio zaino arriva. | *Leo:* I’m coming. My backpack is coming. |
-| *Chiara:* **Arrivederci**, maestra Paola. | *Chiara:* **Goodbye**, Teacher Paola. |
-| *Maestra Paola:* Arrivederci, Chiara. A presto, Emma. | *Maestra Paola:* Goodbye, Chiara. See you soon, Emma. |
-| *Emma:* Ciao. | *Emma:* Bye. |
-| *Chiara:* Emma, saluta con un sorriso. | *Chiara:* Emma, say goodbye with a smile. |
-| *Emma:* Il mio sorriso è qui. | *Emma:* My smile is right here. |
-| *Chiara:* Non lo vedo. | *Chiara:* I don’t see it. |
-| *Emma:* È un sorriso discreto. | *Emma:* It’s a discreet smile. |
-| *Leo:* Io vedo il tuo sorriso. | *Leo:* I can see your smile. |
-| *Emma:* Grazie, Leo. Sei molto gentile. | *Emma:* Thanks, Leo. You’re very kind. |
-| *Leo:* Io sono gentile e pronto. | *Leo:* I’m kind and ready. |
-| *Maestra Paola:* Benvenuto in classe, Leo. | *Maestra Paola:* Welcome to class, Leo. |
-| *Leo:* **Benvenuto** anche al mio zaino. | *Leo:* **Welcome** to my backpack too. |
-| *Maestra Paola:* **Benvenuto**, zaino. | *Maestra Paola:* **Welcome**, backpack. |
-| *Leo:* **Grazie**, maestra. | *Leo:* **Thank you**, Teacher. |
-| Leo entra in classe con Paola. | Leo goes into class with Paola. |
-| *Chiara:* Emma, noi andiamo alla stazione. | *Chiara:* Emma, we’re going to the station. |
-| *Emma:* Sì, mamma. Sono pronta. | *Emma:* Yes, Mom. I’m ready. |
-| *Chiara:* Allora andiamo. Ciao, Leo! | *Chiara:* Then let’s go. Bye, Leo! |
-| *Leo:* **Ciao**, mamma! **Ciao**, Emma! | *Leo:* **Bye**, Mom! **Bye**, Emma! |
-| *Emma:* Ciao, Leo. | *Emma:* Bye, Leo. |
-| *Chiara:* **Arrivederci**, Leo. | *Chiara:* **Goodbye**, Leo. |
-| *Leo:* Arrivederci! La mia classe è qui! | *Leo:* Goodbye! My class is here! |
-| Chiara saluta e va verso la strada. | Chiara says goodbye and heads toward the street. |
-| *Emma:* Mamma, la mia scuola è lontana. | *Emma:* Mom, my school is far away. |
-| *Chiara:* Sì. Il treno è tra poco. | *Chiara:* Yes. The train is soon. |
-| *Emma:* Andiamo. | *Emma:* Let’s go. |
-| *Chiara:* Emma, il tuo zaino? | *Chiara:* Emma, your backpack? |
-| *Emma:* È sulle mie spalle. | *Emma:* It’s on my shoulders. |
-| *Chiara:* Perfetto. La famiglia è pronta. | *Chiara:* Perfect. The family is ready. |
-| *Emma:* Leo è in classe. | *Emma:* Leo is in class. |
-| *Chiara:* E tu sei con me. | *Chiara:* And you’re with me. |
-| *Emma:* Sì. Io sono qui. | *Emma:* Yes. I’m here. |
+| Al numero sedici, al primo piano, una **finestra** è aperta. | At number sixteen, on the first floor, a **window** is open. |
+| Alla **finestra** c'è una signora elegante. Guarda la strada. | At the **window** there's an elegant lady. She's watching the street. |
+| *Ben:* **Buongiorno**! | *Ben:* **Good morning**! |
+| *Ornella:* **Buongiorno** a Lei. | *Ornella:* **Good morning** to you. |
+| *Ben:* **Mi chiamo** Ben Carter! **Sono** **americano**! **Piacere**! | *Ben:* **My name is** Ben Carter! I **am** **American**! **Nice to meet you**! |
+| Ben dice le tre frasi come una canzone. | Ben says the three sentences like a song. |
+| *Ornella:* **Piacere** mio. Io **sono** la **signora** Galli. | *Ornella:* **Nice to meet you** too. I **am** **Mrs** Galli. |
+| **Benvenuto** in Via dei Tigli. | **Welcome** to Via dei Tigli. |
+| *Ben:* **Grazie**, **signora**! Lei **è** molto gentile! | *Ben:* **Thank you**, **ma'am**! You **are** very kind! |
+| La **signora** Galli non sorride, ma la sua voce è calda. | Mrs Galli doesn't smile, but her voice is warm. |
+| *Ornella:* Lei **è** il **vicino** del numero quattordici? | *Ornella:* Are you the **neighbour** from number fourteen? |
+| *Ben:* Sì! La **casa** quattordici! Io **sono** il **vicino** **nuovo**! | *Ben:* Yes! **House** fourteen! I **am** the **new** **neighbour**! |
+| *Ornella:* La **casa** è **nuova** per Lei. | *Ornella:* The **house** is **new** for you. |
+| *Ben:* Sì, **nuova**. Tutto è **nuovo**. | *Ben:* Yes, **new**. Everything is **new**. |
+| Ben indica la strada con la mano. | Ben points at the street with his hand. |
+| *Ben:* Io e mia moglie e i **bambini**. Due **bambini**. | *Ben:* Me and my wife and the **children**. Two **children**. |
+| *Ornella:* Due **bambini**. **Bambini** **italiani**? | *Ornella:* Two **children**. **Italian** **children**? |
+| *Ben:* **Americani**. Ma la **mamma** è **italiana**. | *Ben:* **American**. But their mum is **Italian**. |
+| *Ornella:* Ah, la **mamma** è **italiana**. Bene. E Lei? | *Ornella:* Ah, the mum is **Italian**. Good. And you? |
+| *Ben:* Io **sono** **americano**. Di Columbus, Ohio. | *Ben:* I **am** **American**. From Columbus, Ohio. |
+| *Ornella:* Columbus, Ohio. | *Ornella:* Columbus, Ohio. |
+| La **signora** Galli ripete le parole lentamente. | Mrs Galli repeats the words slowly. |
+| *Ornella:* Lei parla **italiano**? | *Ornella:* Do you speak **Italian**? |
+| *Ben:* Poco. Molto poco. Io **sono** **americano**. | *Ben:* A little. Very little. I **am** **American**. |
+| Ben apre il quaderno. Mostra tre pagine. | Ben opens his notebook. He shows three pages. |
+| *Ben:* Tre parole. **Buongiorno**. **Buonasera**. **Arrivederci**. | *Ben:* Three words. **Good morning**. **Good evening**. **Goodbye**. |
+| *Ornella:* Tre parole buone. Ma Lei parla **italiano** **adesso**. | *Ornella:* Three good words. But you speak **Italian** **now**. |
+| *Ben:* Io? No, no. Io parlo... così così. | *Ben:* Me? No, no. I speak... so-so. |
+| *Ornella:* Lei **è** qui. Lei parla. Lei impara. | *Ornella:* You **are** here. You speak. You learn. |
+| Ben scrive una parola nuova sul quaderno. | Ben writes a new word in his notebook. |
+| *Ben:* "Impara". Che cosa significa? | *Ben:* "Impara". What does it mean? |
+| *Ornella:* Significa: **adesso** Lei **è** un **vicino**. E impara. | *Ornella:* It means: **now** you **are** a **neighbour**. And you learn. |
+| *Ben:* Un **vicino** che impara. Mi piace! | *Ben:* A **neighbour** who learns. I like it! |
+| La **signora** Galli guarda a sinistra e a destra. | Mrs Galli looks left and right. |
+| *Ornella:* Questa **finestra** è la mia televisione. | *Ornella:* This **window** is my television. |
+| *Ben:* La **finestra**? Televisione? | *Ben:* The **window**? Television? |
+| *Ornella:* Sì. Io vedo tutto. Tutto, Signor Carter. | *Ornella:* Yes. I see everything. Everything, Mr Carter. |
+| Ben ride. La **signora** Galli no. | Ben laughs. Mrs Galli doesn't. |
+| *Ornella:* A sinistra c'è il signor Colombo. Numero undici. | *Ornella:* On the left there's Mr Colombo. Number eleven. |
+| *Ben:* Colombo. Il posto del furgone. | *Ben:* Colombo. The van's parking space. |
+| *Ornella:* Esatto. Il signor Colombo **è** un **vicino** preciso. | *Ornella:* Exactly. Mr Colombo **is** a precise **neighbour**. |
+| *Ben:* Preciso? | *Ben:* Precise? |
+| *Ornella:* Preciso. Molto preciso. Con il regolamento. | *Ornella:* Precise. Very precise. With the rulebook. |
+| Ben scrive "preciso" sul quaderno. | Ben writes "preciso" in his notebook. |
+| *Ben:* E a destra? | *Ben:* And on the right? |
+| *Ornella:* A destra ci **sono** io. **Signora** Ornella Galli. Numero sedici. | *Ornella:* On the right there's me. **Mrs** Ornella Galli. Number sixteen. |
+| *Ben:* **Signora** Galli. **Piacere**. | *Ben:* **Mrs** Galli. **Nice to meet you**. |
+| *Ornella:* **Piacere** mio, Signor Carter. | *Ornella:* **Nice to meet you** too, Mr Carter. |
+| Un gatto grigio arriva sulla **finestra**. | A grey cat appears at the **window**. |
+| *Ben:* Oh! Un gatto! **Piacere**! **Mi chiamo** Ben! | *Ben:* Oh! A cat! **Nice to meet you**! **My name is** Ben! |
+| Il gatto non risponde. Guarda Ben con calma. | The cat doesn't answer. It looks at Ben calmly. |
+| *Ornella:* Lui **è** Pavarotti. Lui non dice **piacere**. | *Ornella:* He **is** Pavarotti. He doesn't say **nice to meet you**. |
+| *Ben:* Pavarotti? Come il cantante? | *Ben:* Pavarotti? Like the singer? |
+| *Ornella:* Come il cantante. Lui canta la mattina, alle cinque. | *Ornella:* Like the singer. He sings in the morning, at five. |
+| *Ben:* Ah. Alle cinque. | *Ben:* Ah. At five. |
+| Il gatto si siede sulla **finestra** e chiude gli occhi. | The cat sits on the **window** and closes its eyes. |
+| *Ornella:* Signor Carter, i **vicini** **sono** importanti. | *Ornella:* Mr Carter, **neighbours** **are** important. |
+| *Ben:* Sì. I **vicini** **sono** importanti. | *Ben:* Yes. **Neighbours** **are** important. |
+| *Ornella:* Importanti come la famiglia. | *Ornella:* As important as family. |
+| *Ben:* Come la famiglia. | *Ben:* As important as family. |
+| Ben scrive la frase sul quaderno. Con attenzione. | Ben writes the sentence in his notebook. Carefully. |
+| *Ben:* **Signora** Galli, Lei **è** **italiana**? | *Ben:* **Mrs** Galli, are you **Italian**? |
+| *Ornella:* Io **sono** **italiana**. Di Borgoverde. Da sempre. | *Ornella:* I **am** **Italian**. From Borgoverde. Always. |
+| *Ben:* "Da sempre". Che cosa significa? | *Ben:* "Da sempre". What does it mean? |
+| *Ornella:* Significa: io **sono** qui da settantotto anni. | *Ornella:* It means: I've been here for seventy-eight years. |
+| *Ben:* Settantotto anni! In questa **casa**? | *Ben:* Seventy-eight years! In this **house**? |
+| *Ornella:* In questa **casa**. In questa strada. A questa **finestra**. | *Ornella:* In this **house**. On this street. At this **window**. |
+| Ben guarda la **finestra**. Poi guarda la strada. | Ben looks at the **window**. Then he looks at the street. |
+| *Ben:* **Signora** Galli, Lei vede tutto. | *Ben:* **Mrs** Galli, you see everything. |
+| *Ornella:* Tutto. I nomi, le **case**, i **bambini**, i gatti. | *Ornella:* Everything. The names, the **houses**, the **children**, the cats. |
+| *Ben:* I **nomi**! Il mio **nome** è Ben. | *Ben:* The names! My **name** is Ben. |
+| *Ornella:* Ben Carter. Numero quattordici. | *Ornella:* Ben Carter. Number fourteen. |
+| La **signora** Galli dice il suo **nome** con precisione. | Mrs Galli says his **name** precisely. |
+| *Ornella:* E i **nomi** dei **bambini**? | *Ornella:* And the **children**'s names? |
+| *Ben:* Emma. Leo. Emma **è** grande, Leo **è** piccolo. | *Ben:* Emma. Leo. Emma **is** big, Leo **is** small. |
+| *Ornella:* Emma. Leo. **Nomi** belli. | *Ornella:* Emma. Leo. Beautiful names. |
+| *Ben:* **Grazie**, **signora**. | *Ben:* **Thank you**, ma'am. |
+| Un cane abbaia in fondo alla strada. | A dog barks at the end of the street. |
+| *Ornella:* **Arrivederci**, Signor Carter. | *Ornella:* **Goodbye**, Mr Carter. |
+| *Ben:* **Arrivederci**, **signora** Galli! **Grazie**! **Benvenuto**... no, aspetta. | *Ben:* **Goodbye**, Mrs Galli! **Thank you**! **Welcome**... no, wait. |
+| *Ornella:* "**Benvenuto**" **è** per Lei, Signor Carter. Non per me. | *Ornella:* "**Welcome**" is for you, Mr Carter. Not for me. |
+| *Ben:* Ah. Sì. **Grazie**. | *Ben:* Ah. Yes. **Thank you**. |
+| *Ornella:* Ma **grazie** **è** sempre giusto. | *Ornella:* But **thank you** is always right. |
+| La **signora** Galli chiude la **finestra**. | Mrs Galli closes the **window**. |
+| *Ben:* "Benvenuto è per me. Grazie è sempre giusto." | *Ben:* "Welcome is for me. Thank you is always right." |
+| Due minuti dopo, la **finestra** è aperta di nuovo. | Two minutes later, the **window** is open again. |
+| *Ben:* **Buongiorno**, **signora** Galli! | *Ben:* **Good morning**, Mrs Galli! |
+| *Ornella:* Signor Carter, **io sono** sempre qui. Sempre. | *Ornella:* Mr Carter, I **am** always here. Always. |
+| Il gatto Pavarotti apre un occhio. Poi lo chiude. | The cat Pavarotti opens one eye. Then closes it. |
+| *Ornella:* E Pavarotti **è** sempre qui. Lui **è** il vero capo. | *Ornella:* And Pavarotti is always here. He **is** the real boss. |
+| *Ben:* Il vero capo. Perfetto. **Buongiorno** anche a Lei, Pavarotti. | *Ben:* The real boss. Perfect. **Good morning** to you too, Pavarotti. |
+| Pavarotti non risponde. | Pavarotti doesn't answer. |
 
 ## 4. Confessionale
 
 | Italiano | English |
 |---|---|
-| Emma guarda la telecamera con calma. | Emma looks calmly at the camera. |
-| *Emma:* **Ciao**. Una parola. Una frase completa. | *Emma:* **Hi**. One word. A complete sentence. |
-| Non servono altre parole. | No other words are needed. |
-| Anche «**buongiorno**» è una parola completa. | “**Good morning**” is a complete word too. |
-| Io **sono** italiana e americana. | **I am** Italian and American. |
-| Sì, **italiana** e **americana**. | Yes, **Italian** and **American**. |
-| La mia **famiglia** è italiana e americana. | My **family** is Italian and American. |
-| Il mio **nome** è Emma. | My **name** is Emma. |
-| È un nome facile. | It’s an easy name. |
-| Emma sorride appena, poi guarda a lato. | Emma smiles slightly, then looks to the side. |
-| *Emma:* Dire il mio nome davanti a tutti? | *Emma:* Saying my name in front of everyone? |
-| Non è una buona idea. | It isn’t a good idea. |
-| Soprattutto quando papà è qui vicino. | Especially when Dad is nearby. |
-| Lui dice «ciao» a tutti. | He says “hi” to everyone. |
-| E poi dice il suo nome. | And then he says his name. |
-| E poi dice che è **americano**. | And then he says he’s **American**. |
-| Alla **scuola**, forse va bene. | At **school**, maybe that’s fine. |
-| Ma non con tutta la strada. | But not with the whole street. |
-| Emma torna a guardare la telecamera. | Emma looks back at the camera. |
-| *Emma:* **Ciao**. Basta così. | *Emma:* **Hi**. That’s enough. |
+| *Ornella:* Io **sono** Ornella Galli. | *Ornella:* I **am** Ornella Galli. |
+| Sono la **signora** del numero sedici. | I am the **lady** of number sixteen. |
+| La mia **finestra** guarda la strada. | My **window** looks onto the street. |
+| La **signora** Galli parla piano. Non muove la testa. | Mrs Galli speaks slowly. She doesn't move her head. |
+| *Ornella:* Dalla **finestra** io vedo le **case**. | *Ornella:* From the **window** I see the **houses**. |
+| Vedo le **porte**. Vedo le tende. Vedo i **bambini**. | I see the **doors**. I see the curtains. I see the **children**. |
+| Vedo anche i gatti. I gatti sono i veri **vicini**. | I also see the cats. Cats are the real **neighbours**. |
+| Al numero quattordici c'è un **vicino** **nuovo**. | At number fourteen there's a **new** **neighbour**. |
+| Lui **è** **americano**. | He **is** **American**. |
+| Lui parla **italiano**. Poco, ma parla. | He speaks **Italian**. A little, but he speaks. |
+| E lui dice **buongiorno**. Tutti i giorni. | And he says **good morning**. Every day. |
+| **Buongiorno** è una parola semplice. Ma è importante. | **Good morning** is a simple word. But it's important. |
+| Lui **è** un **americano** con un quaderno. | He **is** an **American** with a notebook. |
+| Lui **è** un **americano** che impara. | He **is** an **American** who learns. |
+| *Ornella:* Bene. **Benvenuto**. | *Ornella:* Good. **Welcome**. |
+| La **casa** al numero quattordici è vuota da tre mesi. | The **house** at number fourteen is empty — has been for three months. |
+| **Adesso** non è vuota. | **Now** it isn't empty. |
+| **Adesso** ci sono le luci. Ci sono i rumori. Ci sono i **bambini**. | **Now** there are lights. There are noises. There are **children**. |
+| E io **sono** contenta. Ma non lo dico a tutti. | And I **am** happy. But I don't tell everyone. |
+| *Ornella:* Io **sono** la **signora** Galli. Io vedo tutto. | *Ornella:* I **am** Mrs Galli. I see everything. |
 
-## 5. Scuola primaria Gianni Rodari · lunedì mattina
-
-| Italiano | English |
-|---|---|
-| La **classe** è luminosa e piena di voci. | The **class** is bright and full of voices. |
-| Leo entra con la maestra Paola. | Leo comes in with Teacher Paola. |
-| *Leo:* **Buongiorno** a tutti! | *Leo:* **Good morning**, everyone! |
-| *Maestra Paola:* **Buongiorno**, Leo. | *Maestra Paola:* **Good morning**, Leo. |
-| Questa è la tua classe. | This is your class. |
-| *Leo:* La classe è grande. | *Leo:* The class is big. |
-| *Maestra Paola:* Sì, e i tuoi compagni sono qui. | *Maestra Paola:* Yes, and your classmates are here. |
-| *Leo:* **Io sono** Leo. | *Leo:* **I am** Leo. |
-| *Maestra Paola:* Bravissimo. E il tuo zaino? | *Maestra Paola:* Very good. And your backpack? |
-| *Leo:* Anche lui è qui. | *Leo:* He’s here too. |
-| *Maestra Paola:* Il tuo zaino è uno studente? | *Maestra Paola:* Is your backpack a student? |
-| *Leo:* No. Ma è nella classe. | *Leo:* No. But it’s in the class. |
-| Un bambino vicino alla finestra alza la mano. | A boy near the window raises his hand. |
-| *Pietro:* Maestra, c’è una regola per i nuovi. | *Pietro:* Teacher, there’s a rule for new students. |
-| *Maestra Paola:* Quale regola, Pietro? | *Maestra Paola:* What rule, Pietro? |
-| *Pietro:* Prima, il nuovo dice il suo nome. | *Pietro:* First, the new student says his name. |
-| Poi saluta la classe. | Then he greets the class. |
-| *Leo:* Io saluto prima o dico il nome? | *Leo:* Do I greet first or say my name? |
-| *Pietro:* Prima il nome. | *Pietro:* The name first. |
-| *Leo:* E poi il saluto? | *Leo:* And then the greeting? |
-| *Pietro:* Sì. È la regola. | *Pietro:* Yes. It’s the rule. |
-| *Maestra Paola:* Pietro, questa è una tua regola. | *Maestra Paola:* Pietro, that’s your rule. |
-| *Pietro:* Ma è una regola utile. | *Pietro:* But it’s a useful rule. |
-| *Leo:* Io ho una regola per gli zaini. | *Leo:* I have a rule for backpacks. |
-| *Pietro:* Qual è? | *Pietro:* What is it? |
-| *Leo:* Lo zaino resta vicino a me. | *Leo:* The backpack stays near me. |
-| *Pietro:* Questa non è una regola. | *Pietro:* That isn’t a rule. |
-| *Leo:* È una buona idea. | *Leo:* It’s a good idea. |
-| *Maestra Paola:* Leo, **mi chiamo** è una frase utile. | *Maestra Paola:* Leo, **my name is** is a useful phrase. |
-| *Leo:* Sì. **Mi chiamo** Leo Carter. | *Leo:* Yes. **My name is** Leo Carter. |
-| *Maestra Paola:* Ottimo. Ora puoi salutare tutti. | *Maestra Paola:* Great. Now you can greet everyone. |
-| *Leo:* **Ciao**, classe! | *Leo:* **Hi**, class! |
-| *Maestra Paola:* Tutti dicono: «Ciao, Leo!» | *Maestra Paola:* Everyone says, “Hi, Leo!” |
-| *Leo:* La mia presentazione è finita? | *Leo:* Is my introduction finished? |
-| *Maestra Paola:* Sì. È una presentazione perfetta. | *Maestra Paola:* Yes. It’s a perfect introduction. |
-| *Pietro:* No, manca una cosa. | *Pietro:* No, one thing is missing. |
-| *Maestra Paola:* Che cosa manca, Pietro? | *Maestra Paola:* What’s missing, Pietro? |
-| *Pietro:* Deve dire quanti anni ha. | *Pietro:* He has to say how old he is. |
-| *Leo:* La maestra non chiede l’età. | *Leo:* The teacher isn’t asking my age. |
-| *Pietro:* Ma è una regola per i nuovi. | *Pietro:* But it’s a rule for new students. |
-| *Maestra Paola:* Non c’è questa regola, Pietro. | *Maestra Paola:* There is no such rule, Pietro. |
-| *Pietro:* Allora, la propongo. | *Pietro:* Then I propose it. |
-| *Leo:* Io sono americano. | *Leo:* I’m American. |
-| E sono anche **italiano**. | And I’m **Italian** too. |
-| *Pietro:* Sei americano e italiano? | *Pietro:* Are you American and Italian? |
-| *Leo:* Sì. **Io sono americano** e italiano. | *Leo:* Yes. **I am American** and Italian. |
-| *Pietro:* Io sono italiano. | *Pietro:* I’m Italian. |
-| *Leo:* **Tu sei italiano**? | *Leo:* **Are you Italian**? |
-| *Pietro:* Sì. Io sono Pietro. | *Pietro:* Yes. I’m Pietro. |
-| *Leo:* **Mi chiamo** Leo. | *Leo:* **My name is** Leo. |
-| *Pietro:* Questo lo so. | *Pietro:* I know that. |
-| *Leo:* Il tuo **nome** è corto. | *Leo:* Your **name** is short. |
-| *Pietro:* Pietro è un nome normale. | *Pietro:* Pietro is a normal name. |
-| *Leo:* Il mio nome è Leo. | *Leo:* My name is Leo. |
-| È ancora più corto. | It’s even shorter. |
-| *Pietro:* Il mio nome è più lungo. | *Pietro:* My name is longer. |
-| *Leo:* Quanto è lungo? Come il banco? | *Leo:* How long is it? As long as the desk? |
-| *Pietro:* No, Leo. I nomi non sono lunghi come i banchi. | *Pietro:* No, Leo. Names aren’t as long as desks. |
-| *Leo:* Il banco è lungo. | *Leo:* The desk is long. |
-| *Pietro:* Sì, ma io sono Pietro. | *Pietro:* Yes, but I’m Pietro. |
-| *Leo:* Piacere, Pietro. | *Leo:* Pleased to meet you, Pietro. |
-| *Pietro:* **Piacere**. | *Pietro:* **Pleased to meet you**. |
-| *Maestra Paola:* Bene. Ora facciamo un giro. | *Maestra Paola:* Good. Now we’ll go around. |
-| *Leo:* Un giro per la classe? | *Leo:* A round of the class? |
-| *Maestra Paola:* Sì. Ognuno dice il suo nome. | *Maestra Paola:* Yes. Everyone says their name. |
-| *Pietro:* Io sono il primo. | *Pietro:* I’m first. |
-| *Maestra Paola:* Aspetta, Pietro. Inizia Leo. | *Maestra Paola:* Wait, Pietro. Leo starts. |
-| *Pietro:* Ma io sono già pronto. | *Pietro:* But I’m already ready. |
-| *Leo:* Anche io sono pronto. | *Leo:* I’m ready too. |
-| *Maestra Paola:* Leo è il nuovo. | *Maestra Paola:* Leo is the new student. |
-| *Pietro:* La regola non dice chi inizia. | *Pietro:* The rule doesn’t say who starts. |
-| *Maestra Paola:* Allora scelgo io. Inizia Leo. | *Maestra Paola:* Then I choose. Leo starts. |
-| *Leo:* **Ciao**, mi chiamo Leo. | *Leo:* **Hi**, my name is Leo. |
-| **Sono americano** e **italiano**. | **I’m American** and **Italian**. |
-| Questo è il mio zaino. | This is my backpack. |
-| Anche lui è nuovo qui. | He’s new here too. |
-| *Maestra Paola:* **Benvenuto** nella nostra classe, Leo. | *Maestra Paola:* **Welcome** to our class, Leo. |
-| *Leo:* **Grazie**, maestra Paola. | *Leo:* **Thank you**, Teacher Paola. |
-| *Maestra Paola:* Pietro, tocca a te. | *Maestra Paola:* Pietro, it’s your turn. |
-| *Pietro:* **Buongiorno**, mi chiamo Pietro. | *Pietro:* **Good morning**, my name is Pietro. |
-| Sono italiano e sono il primo. | I’m Italian and I’m first. |
-| *Maestra Paola:* Non sei il primo, Pietro. | *Maestra Paola:* You’re not first, Pietro. |
-| *Pietro:* Ma sono il secondo. | *Pietro:* But I’m second. |
-| *Maestra Paola:* Sì, sei il secondo. | *Maestra Paola:* Yes, you’re second. |
-| *Pietro:* È quasi la stessa cosa. | *Pietro:* It’s almost the same thing. |
-| *Leo:* Tu sei il secondo amico? | *Leo:* Are you the second friend? |
-| *Pietro:* Sono il tuo **amico**? | *Pietro:* Am I your **friend**? |
-| *Leo:* Sì. Tu sei il mio amico. | *Leo:* Yes. You’re my friend. |
-| *Pietro:* Bene. Allora sono il primo amico. | *Pietro:* Good. Then I’m the first friend. |
-| *Leo:* Sì, sei il mio primo amico qui. | *Leo:* Yes, you’re my first friend here. |
-| *Pietro:* La regola dice che siamo amici? | *Pietro:* Does the rule say we’re friends? |
-| *Maestra Paola:* No. Questa è una bella sorpresa. | *Maestra Paola:* No. That’s a nice surprise. |
-| *Leo:* La nostra classe è simpatica. | *Leo:* Our class is friendly. |
-| *Pietro:* E io sono simpatico. | *Pietro:* And I’m friendly. |
-| *Leo:* Sì, Pietro. Tu sei simpatico. | *Leo:* Yes, Pietro. You’re friendly. |
-| *Pietro:* Grazie, Leo. Anche tu sei simpatico. | *Pietro:* Thanks, Leo. You’re friendly too. |
-| *Maestra Paola:* Ora salutiamo gli altri compagni. | *Maestra Paola:* Now let’s greet the other classmates. |
-| *Leo:* Ciao! Io sono Leo. | *Leo:* Hi! I’m Leo. |
-| *Pietro:* Io sono Pietro. | *Pietro:* I’m Pietro. |
-| *Leo:* Piacere! | *Leo:* Pleased to meet you! |
-| *Pietro:* Piacere! | *Pietro:* Pleased to meet you! |
-| *Maestra Paola:* Bravi. È un bel saluto. | *Maestra Paola:* Good. That’s a nice greeting. |
-| *Leo:* Maestra, chi è il **maestro** della classe? | *Leo:* Teacher, who is the **teacher** of the class? |
-| *Maestra Paola:* Io sono la maestra. | *Maestra Paola:* I’m the teacher. |
-| *Leo:* Sì, tu sei la maestra Paola. | *Leo:* Yes, you’re Teacher Paola. |
-| *Maestra Paola:* Esatto. E Pietro è un alunno. | *Maestra Paola:* Exactly. And Pietro is a student. |
-| *Leo:* Pietro è italiano. | *Leo:* Pietro is Italian. |
-| *Pietro:* Sì, Leo. Sono italiano. | *Pietro:* Yes, Leo. I’m Italian. |
-| *Leo:* E tu sei nella mia classe. | *Leo:* And you’re in my class. |
-| *Pietro:* Sì, siamo nella stessa classe. | *Pietro:* Yes, we’re in the same class. |
-| *Leo:* Allora siamo compagni. | *Leo:* Then we’re classmates. |
-| *Pietro:* Sì. E amici. | *Pietro:* Yes. And friends. |
-| *Leo:* Il tuo nome è lungo. | *Leo:* Your name is long. |
-| *Pietro:* Non è lungo come il banco. | *Pietro:* It isn’t as long as the desk. |
-| *Leo:* Ma è lungo come due Leo. | *Leo:* But it’s as long as two Leos. |
-| *Pietro:* Leo è un nome corto. | *Pietro:* Leo is a short name. |
-| *Maestra Paola:* Pietro, aiuti Leo con il **quaderno**? | *Maestra Paola:* Pietro, will you help Leo with the **notebook**? |
-| *Pietro:* Certo. Il quaderno è qui. | *Pietro:* Of course. The notebook is here. |
-| *Leo:* Il mio nome è sulla copertina. | *Leo:* My name is on the cover. |
-| *Pietro:* Sì. È scritto bene. | *Pietro:* Yes. It’s written correctly. |
-| *Leo:* Il tuo nome è sul tuo quaderno? | *Leo:* Is your name on your notebook? |
-| *Pietro:* Sì. Pietro è qui. | *Pietro:* Yes. Pietro is here. |
-| *Leo:* Anche il tuo quaderno è nuovo? | *Leo:* Is your notebook new too? |
-| *Pietro:* Sì. È blu. | *Pietro:* Yes. It’s blue. |
-| *Leo:* Il mio è verde. | *Leo:* Mine is green. |
-| *Pietro:* Allora i nostri quaderni sono diversi. | *Pietro:* Then our notebooks are different. |
-| *Leo:* Ma noi siamo amici. | *Leo:* But we’re friends. |
-| *Pietro:* Esatto. Questa è la regola migliore. | *Pietro:* Exactly. That’s the best rule. |
-| *Maestra Paola:* Pietro, questa regola mi piace. | *Maestra Paola:* Pietro, I like this rule. |
-| *Pietro:* La scrivo sul quaderno? | *Pietro:* Should I write it in the notebook? |
-| *Maestra Paola:* No, Pietro. Basta dirla. | *Maestra Paola:* No, Pietro. Just say it. |
-| *Pietro:* La regola è: siamo amici. | *Pietro:* The rule is: we’re friends. |
-| *Leo:* **Arrivederci**, regola vecchia. | *Leo:* **Goodbye**, old rule. |
-| *Pietro:* La regola vecchia è ancora valida. | *Pietro:* The old rule is still valid. |
-| *Leo:* Quale regola? | *Leo:* Which rule? |
-| *Pietro:* Il nuovo dice il suo nome. | *Pietro:* The new student says his name. |
-| *Leo:* Il mio nome è già nella presentazione. | *Leo:* My name is already in the introduction. |
-| *Pietro:* Allora va bene. | *Pietro:* Then that’s fine. |
-| *Maestra Paola:* **Arrivederci**, mamma di Leo. | *Maestra Paola:* **Goodbye**, Leo’s mom. |
-| *Leo:* La mamma è alla porta? | *Leo:* Is Mom at the door? |
-| *Maestra Paola:* Sì, Leo. È ora di salutare. | *Maestra Paola:* Yes, Leo. It’s time to say goodbye. |
-| *Leo:* **Arrivederci**, maestra Paola. | *Leo:* **Goodbye**, Teacher Paola. |
-| *Pietro:* Ciao, Leo. Siamo amici. | *Pietro:* Bye, Leo. We’re friends. |
-| *Leo:* Ciao, Pietro. Sei il mio primo amico. | *Leo:* Bye, Pietro. You’re my first friend. |
-| *Pietro:* E tu sei il mio nuovo amico. | *Pietro:* And you’re my new friend. |
-| *Leo:* **Grazie**. Il mio primo giorno è bello. | *Leo:* **Thank you**. My first day is nice. |
-| *Maestra Paola:* E domani sei di nuovo qui. | *Maestra Paola:* And tomorrow you’re here again. |
-| *Leo:* Sì. Io sono nella classe. | *Leo:* Yes. I’m in the class. |
-| *Pietro:* E il tuo zaino è con te. | *Pietro:* And your backpack is with you. |
-| *Leo:* Sì. Anche lui è nostro amico. | *Leo:* Yes. He’s our friend too. |
-
-## 6. Via dei Tigli · lunedì pomeriggio
+## 5. Via dei Tigli · lunedì mattina
 
 | Italiano | English |
 |---|---|
-| Nel pomeriggio, la famiglia torna in strada. | In the afternoon, the family comes back to the street. |
-| Il **furgone** è davanti al numero quattordici. | The **van** is in front of number fourteen. |
-| *Chiara:* Ben, prima portiamo queste scatole in casa. | *Chiara:* Ben, first we’ll take these boxes into the house. |
-| *Ben:* Sì. Poi saluto i vicini. | *Ben:* Yes. Then I’ll greet the neighbours. |
-| *Emma:* Li saluti già da stamattina. | *Emma:* You’ve been greeting them since this morning. |
-| *Ben:* Ogni saluto è una nuova occasione. | *Ben:* Every greeting is a new opportunity. |
-| *Leo:* Anche il gatto è un’occasione? | *Leo:* Is the cat an opportunity too? |
-| *Ben:* Certo. Il gatto è un vicino. | *Ben:* Of course. The cat is a neighbour. |
-| *Emma:* Il gatto non parla, papà. | *Emma:* The cat doesn’t talk, Dad. |
-| *Ben:* Non ancora. | *Ben:* Not yet. |
-| Ornella saluta dalla **finestra** del numero sedici. | Ornella waves from the **window** at number sixteen. |
-| *Ornella:* **Buonasera**, **signor** Carter. | *Ornella:* **Good evening**, **Mr.** Carter. |
-| *Ben:* Signora Galli, **buongiorno**! | *Ben:* Signora Galli, **good morning**! |
-| *Chiara:* Ben, è pomeriggio. | *Chiara:* Ben, it’s afternoon. |
-| Si dice «buonasera». | You say “good evening.” |
-| *Ben:* **Buonasera**, signora Galli. | *Ben:* **Good evening**, Signora Galli. |
-| **Mi chiamo** Ben Carter. | **My name is** Ben Carter. |
-| **Sono** **americano**. Piacere. | **I am** **American**. Pleased to meet you. |
-| *Ornella:* Piacere, signor Carter. | *Ornella:* Pleased to meet you, Signor Carter. |
-| Io sono Ornella Galli. | I’m Ornella Galli. |
-| *Ben:* **Grazie**, signora Galli. | *Ben:* **Thank you**, Signora Galli. |
-| *Ornella:* Benvenuto in Via dei Tigli. | *Ornella:* Welcome to Via dei Tigli. |
-| *Ben:* **Benvenuto**? È per me? | *Ben:* **Welcome**? Is that for me? |
-| *Ornella:* Certamente. Lei è un nuovo vicino. | *Ornella:* Certainly. You’re a new neighbour. |
-| *Ben:* Sì, sono il nuovo **vicino**. | *Ben:* Yes, I’m the new **neighbour**. |
-| E questa è la mia famiglia. | And this is my family. |
-| *Chiara:* Io sono Chiara Ferri. | *Chiara:* I’m Chiara Ferri. |
-| Loro sono Emma e Leo. | They’re Emma and Leo. |
-| *Leo:* **Ciao**, signora Ornella! | *Leo:* **Hi**, Signora Ornella! |
-| *Ornella:* Ciao, Leo. Ciao, Emma. | *Ornella:* Hi, Leo. Hi, Emma. |
-| *Emma:* Buonasera, signora Galli. | *Emma:* Good evening, Signora Galli. |
-| *Ornella:* Brava, Emma. Che bella educazione. | *Ornella:* Well done, Emma. What lovely manners. |
-| *Emma:* Grazie, signora. | *Emma:* Thank you, Signora. |
-| Dalla porta accanto arriva Roberto Colombo. | Roberto Colombo comes from the next doorway. |
-| *Roberto:* Buonasera. Lei è il signor Carter? | *Roberto:* Good evening. Are you Signor Carter? |
-| *Ben:* Sì. Io **sono** Ben Carter. | *Ben:* Yes. **I am** Ben Carter. |
-| *Roberto:* Roberto Colombo, presidente del comitato. | *Roberto:* Roberto Colombo, president of the committee. |
-| *Ben:* Piacere, signor Colombo. | *Ben:* Pleased to meet you, Signor Colombo. |
-| *Roberto:* Piacere. Lei è americano? | *Roberto:* Pleased to meet you. Are you American? |
-| *Ben:* Sì, **sono americano**. | *Ben:* Yes, **I’m American**. |
-| *Roberto:* E la sua famiglia? | *Roberto:* And your family? |
-| *Ben:* La mia famiglia **è italiana** e americana. | *Ben:* My family **is Italian** and American. |
-| *Chiara:* Sono tutti italiani e americani. | *Chiara:* They’re all Italian and American. |
-| *Roberto:* Bene. E questo **furgone**? | *Roberto:* Good. And this **van**? |
-| *Ben:* È il nostro furgone. | *Ben:* It’s our van. |
-| *Roberto:* Perché è nel mio **posto**? | *Roberto:* Why is it in my **spot**? |
-| *Ben:* Il posto è suo? | *Ben:* Is the spot yours? |
-| *Roberto:* Sì, è il mio posto. | *Roberto:* Yes, it’s my spot. |
-| *Ben:* Capisco. Il posto è importante. | *Ben:* I understand. The spot is important. |
-| *Roberto:* È un posto per la mia auto. | *Roberto:* It’s a spot for my car. |
-| *Ben:* E il furgone è molto grande. | *Ben:* And the van is very big. |
-| *Roberto:* Il punto non è la grandezza. | *Roberto:* The point isn’t its size. |
-| *Ben:* Allora, il punto è il posto. | *Ben:* Then the point is the spot. |
-| *Roberto:* Esatto, signor Carter. | *Roberto:* Exactly, Signor Carter. |
-| *Ben:* **Mi chiamo** Ben. **Sono americano**. | *Ben:* **My name is** Ben. **I’m American**. |
-| *Roberto:* Queste frasi non spiegano il furgone. | *Roberto:* Those sentences don’t explain the van. |
-| *Ben:* Sono le mie frasi migliori. | *Ben:* They’re my best sentences. |
-| *Chiara:* Roberto, il furgone è qui per le scatole. | *Chiara:* Roberto, the van is here for the boxes. |
-| *Roberto:* Le scatole sono della vostra **casa**? | *Roberto:* Are the boxes for your **house**? |
-| *Chiara:* Sì, la casa è al numero quattordici. | *Chiara:* Yes, the house is number fourteen. |
-| *Roberto:* Capisco. Ma il posto è mio. | *Roberto:* I understand. But the spot is mine. |
-| *Ben:* Chiara, questo **signore** è il vicino? | *Ben:* Chiara, is this **gentleman** the neighbour? |
-| *Chiara:* Sì, Ben. È Roberto Colombo. | *Chiara:* Yes, Ben. It’s Roberto Colombo. |
-| *Roberto:* E Lei è il signor Carter. | *Roberto:* And you’re Signor Carter. |
-| *Ben:* Esatto. Il mio **nome** è Ben. | *Ben:* Exactly. My **name** is Ben. |
-| *Roberto:* Sì, signor Carter. Il nome è chiaro. | *Roberto:* Yes, Signor Carter. The name is clear. |
-| Marina e Tommaso sono sulla porta. | Marina and Tommaso are in the doorway. |
-| *Marina:* Buonasera, Chiara. Bentornata a casa. | *Marina:* Good evening, Chiara. Welcome home. |
-| *Chiara:* Buonasera, Marina. Che piacere! | *Chiara:* Good evening, Marina. What a pleasure! |
-| *Marina:* Questa è la nostra famiglia. | *Marina:* This is our family. |
-| *Tommaso:* Ciao. Io sono Tommaso. | *Tommaso:* Hi. I’m Tommaso. |
-| *Leo:* Ciao, Tommaso. Io sono Leo. | *Leo:* Hi, Tommaso. I’m Leo. |
-| *Tommaso:* Piacere, Leo. | *Tommaso:* Pleased to meet you, Leo. |
-| *Leo:* Piacere. Sei italiano? | *Leo:* Pleased to meet you. Are you Italian? |
-| *Tommaso:* Sì. **Sono italiano**. | *Tommaso:* Yes. **I’m Italian**. |
-| *Leo:* Anch’io **sono italiano**. | *Leo:* I’m **Italian** too. |
-| *Tommaso:* Allora siamo tutti e due italiani. | *Tommaso:* Then we’re both Italian. |
-| *Leo:* E tutti e due siamo qui. | *Leo:* And we’re both here. |
-| *Emma:* Ciao, Tommaso. Sono Emma. | *Emma:* Hi, Tommaso. I’m Emma. |
-| *Tommaso:* Ciao, Emma. | *Tommaso:* Hi, Emma. |
-| *Emma:* Lui è mio fratello, Leo. | *Emma:* He’s my brother, Leo. |
-| *Tommaso:* Piacere, Emma. Piacere, Leo. | *Tommaso:* Pleased to meet you, Emma. Pleased to meet you, Leo. |
-| *Leo:* Tommaso è un nuovo **amico**? | *Leo:* Is Tommaso a new **friend**? |
-| *Emma:* Forse, Leo. Lo conosci adesso. | *Emma:* Maybe, Leo. You’re just meeting him. |
-| *Leo:* Piacere, nuovo amico. | *Leo:* Pleased to meet you, new friend. |
-| Matteo e Nadia si affacciano dal bar. | Matteo and Nadia appear at the bar doorway. |
-| *Matteo:* Chiara! Ben! **Benvenuti** a Borgoverde! | *Matteo:* Chiara! Ben! **Welcome** to Borgoverde! |
-| *Nadia:* **Benvenuti** in Via dei Tigli. | *Nadia:* **Welcome** to Via dei Tigli. |
-| *Chiara:* Grazie, Matteo. Grazie, Nadia. | *Chiara:* Thank you, Matteo. Thank you, Nadia. |
-| *Ben:* Io **sono americano**. Piacere! | *Ben:* **I’m American**. Pleased to meet you! |
-| *Matteo:* Lo sappiamo, Ben. | *Matteo:* We know, Ben. |
-| *Ben:* La mia famiglia è italiana e americana. | *Ben:* My family is Italian and American. |
-| *Nadia:* E noi siamo Matteo e Nadia. | *Nadia:* And we’re Matteo and Nadia. |
-| *Ben:* Piacere, Matteo. Piacere, Nadia. | *Ben:* Pleased to meet you, Matteo. Pleased to meet you, Nadia. |
-| *Matteo:* Il piacere è nostro. | *Matteo:* The pleasure is ours. |
-| *Ben:* **Grazie**. | *Ben:* **Thank you**. |
-| *Nadia:* Il signor Colombo parla del posto? | *Nadia:* Is Signor Colombo talking about the spot? |
-| *Chiara:* Sì. Il furgone è nel suo posto. | *Chiara:* Yes. The van is in his spot. |
-| *Matteo:* Roberto ama i posti. | *Matteo:* Roberto loves spots. |
-| *Roberto:* Io amo l’ordine. | *Roberto:* I love order. |
-| *Ben:* Anche il posto ama l’ordine? | *Ben:* Does the spot love order too? |
-| *Roberto:* Il posto non parla, signor Carter. | *Roberto:* The spot doesn’t talk, Signor Carter. |
-| *Ben:* Peccato. È un buon vicino. | *Ben:* What a shame. It’s a good neighbour. |
-| Dall’altra parte della strada, Franco è sulla soglia. | Across the street, Franco is in the doorway. |
-| *Franco:* **Mah**. | *Franco:* **Well**. |
-| *Leo:* Nonno Franco dice «mah». | *Leo:* Grandpa Franco says “well.” |
-| *Ben:* Buonasera, signor Franco! | *Ben:* Good evening, Signor Franco! |
-| *Franco:* Mah. | *Franco:* Well. |
-| *Ben:* Anche «mah» è una frase? | *Ben:* Is “well” a sentence too? |
-| *Emma:* Con il nonno, sì. | *Emma:* With Grandpa, yes. |
-| *Franco:* **Mah**. | *Franco:* **Well**. |
-| *Roberto:* Signor Carter, il furgone deve lasciare il posto. | *Roberto:* Signor Carter, the van must leave the spot. |
-| *Ben:* Sì, signor Colombo. Il posto è suo. | *Ben:* Yes, Signor Colombo. The spot is yours. |
-| *Chiara:* Ben, le scatole sono ancora nel furgone. | *Chiara:* Ben, the boxes are still in the van. |
-| *Ben:* Il furgone aspetta. Il posto aspetta. | *Ben:* The van can wait. The spot can wait. |
-| *Roberto:* Il posto non aspetta, signor Carter. | *Roberto:* The spot doesn’t wait, Signor Carter. |
-| *Ben:* Allora il posto è molto puntuale. | *Ben:* Then the spot is very punctual. |
-| *Roberto:* È una questione seria. | *Roberto:* It’s a serious matter. |
-| *Matteo:* Roberto, il furgone è grande. | *Matteo:* Roberto, the van is big. |
-| *Nadia:* Ma il posto è piccolo. | *Nadia:* But the spot is small. |
-| *Marina:* E la strada è stretta. | *Marina:* And the street is narrow. |
-| *Tommaso:* Il mio posto è vicino a casa. | *Tommaso:* My spot is near home. |
-| *Roberto:* Tommaso, non parliamo del tuo posto. | *Roberto:* Tommaso, we’re not talking about your spot. |
-| *Leo:* Ma qual è il suo posto? | *Leo:* But which spot is yours? |
-| *Roberto:* Quello davanti alla mia casa. | *Roberto:* The one in front of my house. |
-| *Leo:* E il furgone è davanti alla casa? | *Leo:* And is the van in front of the house? |
-| *Chiara:* Sì, Leo. Ecco il problema. | *Chiara:* Yes, Leo. That’s the problem. |
-| *Ben:* Capisco. Sposto il furgone. | *Ben:* I understand. I’ll move the van. |
-| *Roberto:* La ringrazio, signor Carter. | *Roberto:* Thank you, Signor Carter. |
-| *Ben:* Prego, signor Colombo. | *Ben:* You’re welcome, Signor Colombo. |
-| *Ornella:* Signor Carter, la sua famiglia è molto simpatica. | *Ornella:* Signor Carter, your family is very nice. |
-| *Ben:* **Grazie**, signora Galli. Anche Lei è gentile. | *Ben:* **Thank you**, Signora Galli. You’re kind too. |
-| *Ornella:* La ringrazio. | *Ornella:* Thank you. |
-| *Chiara:* Ben, questa è la nostra strada. | *Chiara:* Ben, this is our street. |
-| *Ben:* Sì. E loro sono i nostri vicini. | *Ben:* Yes. And they’re our neighbours. |
-| *Leo:* E Tommaso è il mio amico. | *Leo:* And Tommaso is my friend. |
-| *Tommaso:* Sì, Leo. Sono il tuo amico. | *Tommaso:* Yes, Leo. I’m your friend. |
-| *Ben:* Allora, siamo una **famiglia** fortunata. | *Ben:* Then we’re a **lucky family**. |
-| *Franco:* Mah. | *Franco:* Well. |
-| *Ben:* **Arrivederci**, signor Colombo. | *Ben:* **Goodbye**, Signor Colombo. |
-| *Roberto:* Arrivederci, signor Carter. | *Roberto:* Goodbye, Signor Carter. |
-| *Ben:* **Arrivederci**, signora Galli. | *Ben:* **Goodbye**, Signora Galli. |
-| *Ornella:* Buonasera, signor Carter. | *Ornella:* Good evening, Signor Carter. |
+| Sulla strada arriva un signore con un cappello e una valigetta. | A gentleman with a hat and a briefcase arrives on the street. |
+| Cammina piano. Guarda il furgone. Poi guarda Ben. | He walks slowly. He looks at the van. Then he looks at Ben. |
+| *Roberto:* **Buongiorno**. | *Roberto:* **Good morning**. |
+| *Ben:* **Buongiorno**! **Mi chiamo** Ben Carter! | *Ben:* **Good morning**! **My name is** Ben Carter! |
+| **Sono** **americano**! **Piacere**! | I **am** **American**! **Nice to meet you**! |
+| Roberto non allunga la mano. Tiene la valigetta. | Roberto doesn't hold out his hand. He keeps hold of his briefcase. |
+| *Roberto:* Colombo. Roberto Colombo. | *Roberto:* Colombo. Roberto Colombo. |
+| *Ben:* **Piacere**, signor Colombo! **Benvenuto**! | *Ben:* **Nice to meet you**, Mr Colombo! **Welcome**! |
+| Roberto alza un sopracciglio. | Roberto raises an eyebrow. |
+| *Roberto:* **Benvenuto** a me? | *Roberto:* **Welcome** to me? |
+| *Ben:* Sì! Lei **è** il **vicino**, no? | *Ben:* Yes! You **are** the **neighbour**, right? |
+| *Roberto:* Io **sono** un **vicino**. Lei **è** **nuovo**. | *Roberto:* I **am** a **neighbour**. You **are** **new**. |
+| *Ben:* Ah. Sì. Il **benvenuto** **è** per me. **Grazie**. | *Ben:* Ah. Yes. The **welcome** is for me. **Thank you**. |
+| Ben sorride. Roberto guarda il furgone. | Ben smiles. Roberto looks at the van. |
+| *Roberto:* Signor Carter, questo **è** il mio posto. | *Roberto:* Mr Carter, this **is** my space. |
+| *Ben:* Il Suo posto? | *Ben:* Your space? |
+| *Roberto:* Il mio posto. Per la macchina. | *Roberto:* My space. For the car. |
+| *Ben:* Ah, il numero undici! Il posto **è** il numero undici? | *Ben:* Ah, number eleven! The space **is** number eleven? |
+| Roberto chiude gli occhi per un secondo. | Roberto closes his eyes for a second. |
+| *Roberto:* No. Il numero undici **è** la mia **casa**. | *Roberto:* No. Number eleven **is** my **house**. |
+| Il numero quattordici **è** la Sua **casa**. | Number fourteen **is** your **house**. |
+| *Ben:* Aspetta... aspetta. La mia **casa** **è** il numero quattordici. | *Ben:* Wait... wait. My **house** **is** number fourteen. |
+| *Roberto:* Esatto. | *Roberto:* Exactly. |
+| *Ben:* E il posto per la macchina **è** davanti alla **casa**? | *Ben:* And the parking space **is** in front of the **house**? |
+| *Roberto:* Il posto **è** davanti alla **casa**. Non davanti alla mia **casa**. | *Roberto:* The space **is** in front of the **house**. Not in front of my **house**. |
+| Ben guarda la strada. Poi guarda il furgone. Poi Roberto. | Ben looks at the street. Then at the van. Then at Roberto. |
+| *Ben:* **Adesso** io capisco. Più o meno. | *Ben:* **Now** I understand. More or less. |
+| *Roberto:* Più o meno non è abbastanza. | *Roberto:* More or less is not enough. |
+| *Ben:* Il furgone va via **adesso**, signor Colombo. **Per favore**. | *Ben:* The van goes away **now**, Mr Colombo. **Please**. |
+| Roberto guarda l'orologio. È un orologio preciso. | Roberto looks at his watch. It's a precise watch. |
+| *Roberto:* Alle nove io sono in ufficio. **Adesso** sono qui. | *Roberto:* At nine I'm at the office. **Now** I'm here. |
+| *Ben:* Lei lavora qui? | *Ben:* Do you work here? |
+| *Roberto:* Io lavoro a Milano. Assicurazioni. | *Roberto:* I work in Milan. Insurance. |
+| *Ben:* Ah! Anche mia moglie lavora a Milano! | *Ben:* Ah! My wife works in Milan too! |
+| Roberto guarda la **casa** numero quattordici. | Roberto looks at **house** number fourteen. |
+| *Roberto:* Sua moglie **è** **italiana**? | *Roberto:* Is your wife **Italian**? |
+| *Ben:* Sì! **Italiana**. Di Borgoverde. | *Ben:* Yes! **Italian**. From Borgoverde. |
+| *Roberto:* Di Borgoverde? Il **nome**? | *Roberto:* From Borgoverde? Her **name**? |
+| *Ben:* Chiara. Chiara Ferri. | *Ben:* Chiara. Chiara Ferri. |
+| Roberto cambia faccia. Un poco. Molto poco. | Roberto's face changes. A little. Very little. |
+| *Roberto:* Chiara Ferri. La figlia di Franco Ferri. | *Roberto:* Chiara Ferri. Franco Ferri's daughter. |
+| *Ben:* Sì! Lei conosce Franco? | *Ben:* Yes! Do you know Franco? |
+| *Roberto:* Io **sono** un **amico** della famiglia Ferri. | *Roberto:* I **am** a **friend** of the Ferri family. |
+| *Ben:* Un **amico**! Perfetto! Allora noi **siamo** **amici**! | *Ben:* A **friend**! Perfect! Then we **are** **friends**! |
+| *Roberto:* Noi **siamo** **vicini**. | *Roberto:* We **are** **neighbours**. |
+| Roberto sistema il cappello. È un gesto importante. | Roberto adjusts his hat. It's an important gesture. |
+| *Roberto:* E i **bambini**? | *Roberto:* And the **children**? |
+| *Ben:* Due **bambini**. Emma e Leo. | *Ben:* Two **children**. Emma and Leo. |
+| *Roberto:* La **scuola**? | *Roberto:* **School**? |
+| *Ben:* Leo va alla **scuola** Rodari. **Terza** elementare. | *Ben:* Leo goes to the Rodari **school**. Third year. |
+| Emma va a Monza. Liceo. | Emma goes to Monza. High school. |
+| *Roberto:* La **scuola** Rodari **è** una buona **scuola**. | *Roberto:* The Rodari **school** is a good **school**. |
+| *Ben:* Sì? Bene! **Grazie**! | *Ben:* Yes? Good! **Thank you**! |
+| Roberto guarda Ben con attenzione. | Roberto looks at Ben carefully. |
+| *Roberto:* E la **signora**? | *Roberto:* And the **lady**? |
+| *Ben:* La **signora**? | *Ben:* The **lady**? |
+| *Roberto:* La **signora** del numero sedici. Sa, la **signora** Galli. | *Roberto:* The **lady** at number sixteen. You know, Mrs Galli. |
+| *Ben:* Ah, la **signora** Galli! Sì! Lei **è** molto gentile! | *Ben:* Ah, Mrs Galli! Yes! She **is** very kind! |
+| *Roberto:* Lei parla con la **signora** Galli? | *Roberto:* You talk to Mrs Galli? |
+| *Ben:* Sì. Dalla **finestra**. Lei vede tutto. | *Ben:* Yes. From the **window**. She sees everything. |
+| *Roberto:* Lo so. La **signora** Galli vede tutto. Tutto. | *Roberto:* I know. Mrs Galli sees everything. Everything. |
+| Ben ride. Roberto non ride. | Ben laughs. Roberto doesn't laugh. |
+| *Ben:* Allora, signor Colombo. Lei **è** **italiano**? | *Ben:* So, Mr Colombo. Are you **Italian**? |
+| *Roberto:* Io **sono** **italiano**. Da sempre. | *Roberto:* I **am** **Italian**. Always. |
+| *Ben:* Da sempre! Come la **signora** Galli! | *Ben:* Always! Like Mrs Galli! |
+| *Roberto:* La **signora** Galli **è** di un'altra epoca. | *Roberto:* Mrs Galli is from another era. |
+| Roberto guarda il furgone un'ultima volta. | Roberto looks at the van one last time. |
+| *Roberto:* Signor Carter, io **sono** il presidente del comitato. | *Roberto:* Mr Carter, I **am** the president of the committee. |
+| *Ben:* Il comitato? | *Ben:* The committee? |
+| *Roberto:* Il comitato di quartiere. Via dei Tigli. | *Roberto:* The neighbourhood committee. Via dei Tigli. |
+| *Ben:* Ah! Un comitato! Bello! | *Ben:* Ah! A committee! Nice! |
+| *Roberto:* No, non è "bello". È importante. | *Roberto:* No, it's not "nice". It's important. |
+| Ben prende il quaderno e scrive una parola lunga. | Ben takes his notebook and writes a long word. |
+| *Ben:* Co-mi-ta-to. Fatto! | *Ben:* Co-mmit-tee. Done! |
+| *Roberto:* Lei scrive tutto? | *Roberto:* Do you write everything down? |
+| *Ben:* Tutto. **Adesso** io parlo poco **italiano**. Ma scrivo. | *Ben:* Everything. **Now** I speak little **Italian**. But I write. |
+| *Roberto:* **Adesso** Lei parla poco. **Adesso** Lei **è** **americano**. | *Roberto:* **Now** you speak little. **Now** you **are** **American**. |
+| E io **sono** **italiano**. | And I **am** **Italian**. |
+| *Ben:* E noi **siamo** **vicini**! | *Ben:* And we **are** **neighbours**! |
+| Roberto guarda Ben. Poi guarda il cielo. Poi il furgone. | Roberto looks at Ben. Then at the sky. Then at the van. |
+| *Roberto:* Purtroppo. | *Roberto:* Unfortunately. |
+| *Ben:* Purtroppo? Che cosa significa? | *Ben:* Unfortunately? What does it mean? |
+| *Roberto:* Significa: **arrivederci**, signor Carter. | *Roberto:* It means: **goodbye**, Mr Carter. |
+| Roberto va verso il numero undici con la sua valigetta. | Roberto heads towards number eleven with his briefcase. |
+| *Ben:* Purtroppo. P-u-r-t-r-o-p-p-o. | *Ben:* Unfortunately. U-n-f-o-r-t-u-n-a-t-e-l-y. |
+| Ben scrive la parola sul quaderno. Poi guarda il furgone. | Ben writes the word in his notebook. Then he looks at the van. |
+| *Ben:* Il furgone, Ben. Prima il furgone. | *Ben:* The van, Ben. Van first. |
+| Roberto apre la **porta** del numero undici e non guarda indietro. | Roberto opens the **door** of number eleven and doesn't look back. |
+| *Ben:* **Grazie**, signor Colombo! **Per favore**... il furgone va via! | *Ben:* **Thank you**, Mr Colombo! **Please**... the van goes away! |
+| La **porta** del numero undici è chiusa. | The **door** of number eleven is closed. |
+| *Ben:* Sempre meglio del "mah". | *Ben:* Still better than "mah". |
+
+## 6. Scuola primaria Gianni Rodari · lunedì mattina
+
+| Italiano | English |
+|---|---|
+| La **scuola** Rodari è in Piazza della Chiesa. | The Rodari **school** is in Piazza della Chiesa. |
+| La **porta** è grande. Sopra la **porta** c'è un cartello: "Benvenuti". | The **door** is big. Above the **door** there's a sign: "Welcome". |
+| Leo guarda la **porta** per dieci secondi. | Leo looks at the **door** for ten seconds. |
+| *Leo:* La **porta** è grande. La **scuola** è grande. | *Leo:* The **door** is big. The **school** is big. |
+| *Chiara:* Leo, io vado al lavoro. Tu **sei** a **scuola**. Va bene? | *Chiara:* Leo, I'm going to work. You **are** at **school**. Okay? |
+| *Leo:* Va bene. **Arrivederci**, mamma. | *Leo:* Okay. **Goodbye**, mum. |
+| Leo entra. La **classe** è al primo piano. | Leo goes in. The **classroom** is on the first floor. |
+| Nella **classe** ci sono venti **bambini**. | In the **classroom** there are twenty **children**. |
+| La **maestra** è alta, con gli occhiali rossi. | The **teacher** is tall, with red glasses. |
+| *Maestra Paola:* **Buongiorno**, **bambini**. **Benvenuti**. | *Maestra Paola:* **Good morning**, **children**. **Welcome**. |
+| Io **sono** la **maestra** Paola. | I **am** the **teacher** Paola. |
+| I **bambini** rispondono insieme. | The **children** answer together. |
+| *Un bambino:* **Buongiorno**, **maestra** Paola! | *Un bambino:* **Good morning**, **teacher** Paola! |
+| Leo è seduto accanto a un **bambino** con i capelli rossi. | Leo is sitting next to a **child** with red hair. |
+| *Maestra Paola:* Oggi è un **giorno** importante. Primo **giorno** di **scuola**. | *Maestra Paola:* Today is an important **day**. First **day** of **school**. |
+| **Adesso** io dico i **nomi**. E voi dite "presente". | **Now** I say the **names**. And you say "present". |
+| *Maestra Paola:* Rossi, Bianchi, Colombo, Ferrari... | *Maestra Paola:* Rossi, Bianchi, Colombo, Ferrari... |
+| La **maestra** alza gli occhi dalla lista. | The **teacher** looks up from the list. |
+| *Maestra Paola:* E **adesso**... un **nome** **nuovo**. Carter, Leo. | *Maestra Paola:* And **now**... a **new** **name**. Carter, Leo. |
+| Leo alza la mano. La mano trema un poco. | Leo raises his hand. His hand shakes a little. |
+| *Leo:* Presente! | *Leo:* Present! |
+| *Maestra Paola:* Carter, Leo. **Benvenuto**. **Sei** **nuovo**? | *Maestra Paola:* Carter, Leo. **Welcome**. Are you **new**? |
+| *Leo:* Sì. Io **sono** **nuovo**. | *Leo:* Yes. I **am** **new**. |
+| *Maestra Paola:* Bene. **Adesso** ti presenti ai **bambini**. | *Maestra Paola:* Good. **Now** you introduce yourself to the **children**. |
+| Ti presenti: **nome**, **nazionalità**, e poi... quello che vuoi. | You introduce yourself: **name**, **nationality**, and then... whatever you like. |
+| Leo si alza. Guarda venti **bambini**. Poi guarda la **maestra**. | Leo stands up. He looks at twenty **children**. Then at the **teacher**. |
+| *Leo:* **Mi chiamo** Leo Carter. | *Leo:* **My name is** Leo Carter. |
+| Io **sono** **americano**. Ma la mia **mamma** è **italiana**. | I **am** **American**. But my mum is **Italian**. |
+| Io **sono** di Chicago. **Adesso** abito in Via dei Tigli. | I **am** from Chicago. **Now** I live on Via dei Tigli. |
+| Leo pensa a una parola nuova del quaderno di papà. | Leo thinks of a new word from dad's notebook. |
+| *Leo:* **Piacere**. | *Leo:* **Nice to meet you**. |
+| Nessuno parla. Poi un **bambino** batte le mani. Poi tutti. | Nobody speaks. Then one **child** claps. Then everyone. |
+| *Maestra Paola:* Bravo, Leo. | *Maestra Paola:* Good, Leo. |
+| Un **bambino** con i capelli rossi alza la mano. | A **child** with red hair raises his hand. |
+| *Pietro:* **Maestra**, io **sono** Pietro! | *Pietro:* **Teacher**, I **am** Pietro! |
+| *Maestra Paola:* Lo so, Pietro. Tu **sei** Pietro da tre anni. | *Maestra Paola:* I know, Pietro. You **have been** Pietro for three years. |
+| I **bambini** ridono. Pietro no. | The **children** laugh. Pietro doesn't. |
+| *Pietro:* Io **sono** **italiano**. Di Borgoverde. | *Pietro:* I **am** **Italian**. From Borgoverde. |
+| E lui **è** **americano**? | And is he **American**? |
+| *Maestra Paola:* Sì. Leo **è** **americano**. Tu **sei** **italiano**. | *Maestra Paola:* Yes. Leo **is** **American**. You **are** **Italian**. |
+| Io **sono** **italiana**. Noi **siamo** in **classe**. | I **am** **Italian**. We **are** in the **classroom**. |
+| *Maestra Paola:* Io **sono**. Tu **sei**. Lui **è**. Noi **siamo**. | *Maestra Paola:* I **am**. You **are**. He **is**. We **are**. |
+| La **maestra** scrive queste parole sulla lavagna. | The **teacher** writes these words on the blackboard. |
+| *Maestra Paola:* **Bambini**, ripetete con me. Io **sono**. | *Maestra Paola:* **Children**, repeat with me. I **am**. |
+| *Un bambino:* Io **sono**. | *Un bambino:* I **am**. |
+| *Maestra Paola:* Tu **sei**. | *Maestra Paola:* You **are**. |
+| *Un bambino:* Tu **sei**. | *Un bambino:* You **are**. |
+| *Maestra Paola:* Lui **è**. Lei **è**. | *Maestra Paola:* He **is**. She **is**. |
+| *Un bambino:* Lui **è**. Lei **è**. | *Un bambino:* He **is**. She **is**. |
+| *Maestra Paola:* Noi **siamo**. Voi **siete**. Loro **sono**. | *Maestra Paola:* We **are**. You all **are**. They **are**. |
+| *Un bambino:* Noi **siamo**. Voi **siete**. Loro **sono**. | *Un bambino:* We **are**. You all **are**. They **are**. |
+| Pietro guarda Leo di lato. Poi parla piano, quasi senza voce. | Pietro looks at Leo sideways. Then he speaks quietly, almost silently. |
+| *Pietro:* Tu **sei** **americano**. Ma tu **sei** un **bambino** come me. | *Pietro:* You **are** **American**. But you **are** a **child** like me. |
+| *Leo:* Sì. Io **sono** un **bambino**. Tu **sei** un **bambino**. | *Leo:* Yes. I **am** a **child**. You **are** a **child**. |
+| *Pietro:* Tu **sei** il mio **amico**. | *Pietro:* You **are** my **friend**. |
+| Leo apre la bocca. È la parola più bella del **giorno**. | Leo opens his mouth. It's the most beautiful word of the **day**. |
+| *Leo:* Noi **siamo** **amici**! | *Leo:* We **are** **friends**! |
+| Tutta la **classe** guarda Leo e Pietro. La **maestra** sorride. | The whole **class** looks at Leo and Pietro. The **teacher** smiles. |
+| *Maestra Paola:* Bene, **bambini**. Noi **siamo** una **classe**, **adesso**. | *Maestra Paola:* Good, **children**. We **are** a **class**, **now**. |
+| Voi **siete** **amici**. Voi **siete** **italiani**... e **americani**. | You **are** **friends**. You **are** **Italian**... and **American**. |
+| Leo guarda la **classe**. Guarda la **maestra**. Guarda la **porta**. | Leo looks at the **classroom**. He looks at the **teacher**. He looks at the **door**. |
+| *Maestra Paola:* Leo, tu **sei** qui, con noi. Va bene? | *Maestra Paola:* Leo, you **are** here, with us. Okay? |
+| *Leo:* Va bene. **Grazie**, **maestra** Paola. | *Leo:* Okay. **Thank you**, **teacher** Paola. |
+| Leo pensa. Poi alza la mano di nuovo. | Leo thinks. Then he raises his hand again. |
+| *Maestra Paola:* Dimmi, Leo. | *Maestra Paola:* Tell me, Leo. |
+| *Leo:* **Maestra**, posso dire una cosa? | *Leo:* **Teacher**, can I say something? |
+| *Maestra Paola:* Certo. | *Maestra Paola:* Of course. |
+| *Leo:* Io **sono** a **scuola**. Ma questa **scuola** **adesso** **è** la mia **casa** numero due. | *Leo:* I **am** at **school**. But this **school** **now** **is** my **house** number two. |
+| I **bambini** ridono. La **maestra** ride anche lei. | The **children** laugh. The **teacher** laughs too. |
+| *Pietro:* La **maestra** ride **adesso**. | *Pietro:* The **teacher** is laughing **now**. |
+| Ma di solito non ride. Non è sempre così. | But usually she doesn't laugh. It's not always like this. |
+| *Leo:* Perché? | *Leo:* Why? |
+| *Pietro:* Perché oggi **è** il primo **giorno**. | *Pietro:* Because today **is** the first **day**. |
+| La campanella suona. È un suono forte. | The bell rings. It's a loud sound. |
+| *Maestra Paola:* **Arrivederci**, **bambini**. A domani. | *Maestra Paola:* **Goodbye**, **children**. See you tomorrow. |
+| *Un bambino:* **Arrivederci**, **maestra** Paola! | *Un bambino:* **Goodbye**, **teacher** Paola! |
+| Leo e Pietro escono dalla **porta** insieme. | Leo and Pietro go out of the **door** together. |
+| *Pietro:* Io abito qui vicino. E tu? | *Pietro:* I live near here. And you? |
+| *Leo:* Io abito in Via dei Tigli. Numero quattordici. | *Leo:* I live on Via dei Tigli. Number fourteen. |
+| *Pietro:* Via dei Tigli! Io **sono** di Via dei Tigli! Numero tre! | *Pietro:* Via dei Tigli! I'm from Via dei Tigli! Number three! |
+| Leo e Pietro si guardano. Poi ridono tutti e due. | Leo and Pietro look at each other. Then they both laugh. |
+| *Leo:* Noi **siamo** **vicini**! Noi **siamo** **amici** e **vicini**! | *Leo:* We **are** **neighbours**! We **are** **friends** and **neighbours**! |
+| *Pietro:* Sì. Ma a **scuola** non parliamo dei **vicini**. Va bene? | *Pietro:* Yes. But at **school** we don't talk about **neighbours**. Okay? |
+| *Leo:* Va bene. A **scuola** parliamo di **scuola**. | *Leo:* Okay. At **school** we talk about **school**. |
+| Pietro mette lo zaino. Guarda Leo. | Pietro puts on his backpack. He looks at Leo. |
+| *Pietro:* Leo, tu **sei** strano. In senso buono. | *Pietro:* Leo, you **are** strange. In a good way. |
+| *Leo:* **Grazie**. Credo. | *Leo:* **Thank you**. I think. |
+| I due **bambini** vanno verso Via dei Tigli. | The two **children** head towards Via dei Tigli. |
+| *Pietro:* A domani, Leo. **Arrivederci**. | *Pietro:* See you tomorrow, Leo. **Goodbye**. |
+| *Leo:* **Arrivederci**, Pietro. Vero **amico**. | *Leo:* **Goodbye**, Pietro. True **friend**. |
+| Pietro si gira. Sorride. Poi corre verso casa. | Pietro turns around. He smiles. Then he runs home. |
+| *Leo:* La mia **casa** numero due. Ma il mio **amico** **è** numero uno. | *Leo:* My **house** number two. But my **friend** **is** number one. |
 
 ## 7. Confessionale
 
 | Italiano | English |
 |---|---|
-| Leo parla alla telecamera con il suo zaino. | Leo speaks to the camera with his backpack. |
-| *Leo:* **Ciao**. Alla **scuola** ho un amico nuovo. | *Leo:* **Hi**. At **school**, I have a new friend. |
-| Si chiama Pietro. Il suo **nome** è bello. | His name is Pietro. His **name** is nice. |
-| Lui **è italiano**. | He **is Italian**. |
-| Io **sono italiano** e americano. | **I am Italian** and American. |
-| Pietro è nella mia **classe**. | Pietro is in my **class**. |
-| Adesso è il mio **amico**. | Now he’s my **friend**. |
-| Dico: «**Mi chiamo** Leo. **Piacere**». | I say, “**My name is** Leo. **Pleased to meet you**.” |
-| Poi dico: «Tu sei Pietro?». | Then I say, “Are you Pietro?” |
-| Gli adulti fanno tante domande. | Grown-ups ask lots of questions. |
-| «Come ti chiami? Sei italiano?». | “What’s your name? Are you Italian?” |
-| Leo ci pensa, serio per un momento. | Leo thinks about it, serious for a moment. |
-| *Leo:* Io faccio una presentazione più breve. | *Leo:* I give a shorter introduction. |
-| «**Mi chiamo** Leo. **Sono** italiano». | “**My name is** Leo. **I am** Italian.” |
-| «E questo è il **gatto**». | “And this is the **cat**.” |
-| Il **gatto** non dice il suo nome. | The **cat** doesn’t say his name. |
-| Lui dice solo «ciao». | He just says “hi.” |
+| *Leo:* **Mi chiamo** Leo Carter. | *Leo:* **My name is** Leo Carter. |
+| Io **sono** **americano**. | I **am** **American**. |
+| Ma la mia **scuola** è **italiana**. | But my **school** is **Italian**. |
+| La **maestra** è **italiana**. | The **teacher** is **Italian**. |
+| I **bambini** sono **italiani**. Tutti. | The **children** are **Italian**. All of them. |
+| Leo conta con le dita. | Leo counts on his fingers. |
+| *Leo:* Ventuno **bambini**. Ventuno **nomi**. Un **nome** è Leo. | *Leo:* Twenty-one **children**. Twenty-one **names**. One **name** is Leo. |
+| E un **nome** è Pietro. Pietro **è** il mio **amico**. | And one **name** is Pietro. Pietro **is** my **friend**. |
+| Leo guarda la telecamera. Sorride. | Leo looks at the camera. He smiles. |
+| *Leo:* Pietro dice: "Tu **sei** **americano**". | *Leo:* Pietro says: "You **are** **American**." |
+| Io dico: "Sì". | I say: "Yes." |
+| Poi Pietro dice: "Tu **sei** il mio **amico**". | Then Pietro says: "You **are** my **friend**." |
+| E io dico: "Noi **siamo** **amici**!" | And I say: "We **are** **friends**!" |
+| Questo **è** il mio primo **giorno** di **scuola**. | This **is** my first **day** of **school**. |
+| **Adesso** io **sono** a **scuola** e io **sono** contento. | **Now** I **am** at **school** and I **am** happy. |
+| *Leo:* Il nonno dice "mah". | *Leo:* Grandpa says "mah". |
+| *Leo:* Io dico... mah. | *Leo:* I say... mah. |
 
-## 8. Casa Carter, Via dei Tigli 14 · lunedì sera
-
-| Italiano | English |
-|---|---|
-| La sera, la **famiglia** è in casa. | In the evening, the **family** is at home. |
-| *Chiara:* Primo: scatole in cucina. | *Chiara:* First: boxes in the kitchen. |
-| Secondo: cena sul tavolo. | Second: dinner on the table. |
-| Terzo: tutti sono qui. | Third: everyone is here. |
-| *Leo:* Io sono qui. | *Leo:* I’m here. |
-| *Emma:* Anche io sono qui. | *Emma:* I’m here too. |
-| *Ben:* Io sono qui, con il mio quaderno. | *Ben:* I’m here, with my notebook. |
-| *Chiara:* Il **quaderno** è parte della cena? | *Chiara:* Is the **notebook** part of dinner? |
-| *Ben:* È parte del mio piano. | *Ben:* It’s part of my plan. |
-| *Emma:* Il piano per salutare tutti? | *Emma:* The plan to greet everyone? |
-| *Ben:* Sì. Oggi saluto ogni **vicino**. | *Ben:* Yes. Today I greet every **neighbour**. |
-| *Chiara:* E quante persone saluti? | *Chiara:* And how many people do you greet? |
-| *Ben:* Una signora, un signore, due ragazzi. | *Ben:* One woman, one man, two kids. |
-| E un gatto. | And a cat. |
-| *Leo:* Il **gatto** è un vicino? | *Leo:* Is the **cat** a neighbour? |
-| *Ben:* Per me, sì. | *Ben:* To me, yes. |
-| *Emma:* Il gatto non risponde. | *Emma:* The cat doesn’t answer. |
-| *Ben:* Il gatto è molto riservato. | *Ben:* The cat is very private. |
-| *Chiara:* Emma, com’è la **scuola**? | *Chiara:* Emma, how’s **school**? |
-| *Emma:* La scuola è la scuola. | *Emma:* School is school. |
-| *Chiara:* Questa è una risposta molto breve. | *Chiara:* That’s a very short answer. |
-| *Emma:* È una risposta completa. | *Emma:* It’s a complete answer. |
-| *Leo:* La mia scuola è bella. | *Leo:* My school is nice. |
-| La **classe** è grande. | The **class** is big. |
-| Pietro è il mio **amico**. | Pietro is my **friend**. |
-| *Ben:* Piacere, Pietro. | *Ben:* Pleased to meet you, Pietro. |
-| *Leo:* Papà, Pietro non è qui. | *Leo:* Dad, Pietro isn’t here. |
-| *Ben:* Ma è il tuo amico. | *Ben:* But he’s your friend. |
-| *Leo:* Sì. Oggi è il mio amico. | *Leo:* Yes. He’s my friend today. |
-| *Emma:* Che cosa vuol dire «oggi»? | *Emma:* What does “today” mean? |
-| *Leo:* Oggi è lunedì. | *Leo:* Today is Monday. |
-| *Chiara:* Bravo, Leo. | *Chiara:* Well done, Leo. |
-| *Ben:* Io sono **americano**. Leo è **italiano**. | *Ben:* I’m **American**. Leo is **Italian**. |
-| *Leo:* Sono italiano e americano. | *Leo:* I’m Italian and American. |
-| *Emma:* Anche io sono italiana e americana. | *Emma:* I’m Italian and American too. |
-| *Ben:* La nostra **famiglia** è internazionale. | *Ben:* Our **family** is international. |
-| *Chiara:* La nostra **casa** è piena di scatole. | *Chiara:* Our **house** is full of boxes. |
-| *Ben:* La casa è piena di saluti. | *Ben:* The house is full of greetings. |
-| *Emma:* È piena anche di tuo padre. | *Emma:* It’s full of your dad too. |
-| *Ben:* Io sono qui per un motivo. | *Ben:* I’m here for a reason. |
-| *Emma:* Il motivo è il tuo slogan? | *Emma:* Is the reason your slogan? |
-| *Ben:* No. Il motivo è la mia famiglia. | *Ben:* No. The reason is my family. |
-| *Chiara:* Questa è una bella frase. | *Chiara:* That’s a nice sentence. |
-| *Ben:* Grazie. È una frase nuova. | *Ben:* Thank you. It’s a new sentence. |
-| *Leo:* Papà, qual è il mio **nome**? | *Leo:* Dad, what is my **name**? |
-| *Ben:* Il tuo nome è Leo Carter. | *Ben:* Your name is Leo Carter. |
-| *Leo:* E il nome di Emma? | *Leo:* And Emma’s name? |
-| *Emma:* Emma Carter. | *Emma:* Emma Carter. |
-| *Leo:* E il tuo nome, mamma? | *Leo:* And your name, Mom? |
-| *Chiara:* Chiara Ferri. | *Chiara:* Chiara Ferri. |
-| *Ben:* E il mio nome è Ben Carter. | *Ben:* And my name is Ben Carter. |
-| *Leo:* La mamma è Ferri. | *Leo:* Mom is Ferri. |
-| Noi siamo Carter. | We’re Carter. |
-| *Chiara:* Sì. Io sono Chiara Ferri. | *Chiara:* Yes. I’m Chiara Ferri. |
-| Dalla **finestra**, arriva una voce gentile. | A kind voice comes from the **window**. |
-| *Ornella:* **Buonasera**, signora Ferri. | *Ornella:* **Good evening**, Signora Ferri. |
-| *Chiara:* **Buonasera**, signora Galli. | *Chiara:* **Good evening**, Signora Galli. |
-| *Ornella:* **Buonasera**, ragazzi. | *Ornella:* **Good evening**, children. |
-| *Leo:* Buonasera, **signora** Ornella. | *Leo:* Good evening, Signora Ornella. |
-| *Emma:* Buonasera, signora Galli. | *Emma:* Good evening, Signora Galli. |
-| *Ornella:* Come sta la vostra famiglia? | *Ornella:* How is your family? |
-| *Chiara:* La famiglia sta bene, grazie. | *Chiara:* The family is well, thank you. |
-| *Ben:* **Buonasera**, signora Galli. | *Ben:* **Good evening**, Signora Galli. |
-| *Ornella:* Buonasera, signor Carter. | *Ornella:* Good evening, Signor Carter. |
-| *Ben:* **Piacere**, signora Galli. | *Ben:* **Pleased to meet you**, Signora Galli. |
-| *Ornella:* Ci conosciamo già, signor Carter. | *Ornella:* We already know each other, Signor Carter. |
-| *Ben:* Sì. Ma ogni saluto è nuovo. | *Ben:* Yes. But every greeting is new. |
-| *Ornella:* **Benvenuto** nella vostra casa. | *Ornella:* **Welcome** to your home. |
-| *Ben:* **Grazie**, signora Galli. | *Ben:* **Thank you**, Signora Galli. |
-| *Ornella:* La vostra casa è bella. | *Ornella:* Your house is lovely. |
-| *Chiara:* Grazie. Le scatole sono meno belle. | *Chiara:* Thank you. The boxes are less lovely. |
-| *Ornella:* Le scatole sono di passaggio. | *Ornella:* The boxes are just passing through. |
-| *Ben:* Anche il furgone è di passaggio. | *Ben:* The van is just passing through too. |
-| Franco esce dalla casa di fronte. | Franco comes out of the house across the street. |
-| *Franco:* **Mah**. | *Franco:* **Well**. |
-| *Leo:* Nonno Franco è qui. | *Leo:* Grandpa Franco is here. |
-| *Franco:* L’**americano** è qui. | *Franco:* The **American** is here. |
-| *Ben:* Buonasera, signore. | *Ben:* Good evening, sir. |
-| *Franco:* Il furgone è ancora nel **posto**? | *Franco:* Is the van still in the **spot**? |
-| *Ben:* No. Il posto è libero. | *Ben:* No. The spot is free. |
-| *Franco:* Bene. | *Franco:* Good. |
-| *Chiara:* Papà, la famiglia è in casa. | *Chiara:* Dad, the family is at home. |
-| *Franco:* Lo vedo. | *Franco:* I see. |
-| *Leo:* Nonno, io sono italiano. | *Leo:* Grandpa, I’m Italian. |
-| *Franco:* Sì, Leo. Tu sei italiano. | *Franco:* Yes, Leo. You’re Italian. |
-| *Leo:* E papà è americano. | *Leo:* And Dad is American. |
-| *Franco:* Sì. Lui è americano. | *Franco:* Yes. He’s American. |
-| *Ben:* Io **sono** Ben. | *Ben:* **I am** Ben. |
-| *Franco:* L’americano è qui. | *Franco:* The American is here. |
-| *Ben:* Sì. E la famiglia è qui. | *Ben:* Yes. And the family is here. |
-| *Chiara:* Ben, il tuo quaderno. | *Chiara:* Ben, your notebook. |
-| Il quaderno scivola dalla mano di Ben. | The notebook slips from Ben’s hand. |
-| Cade vicino ai piedi di Franco. | It falls near Franco’s feet. |
-| *Ben:* Il mio quaderno è sul pavimento. | *Ben:* My notebook is on the floor. |
-| *Leo:* Il quaderno è vicino al nonno. | *Leo:* The notebook is near Grandpa. |
-| *Franco:* **Mah**. | *Franco:* **Well**. |
-| *Ben:* Non è uno slogan. | *Ben:* It isn’t a slogan. |
-| *Franco:* Bene. | *Franco:* Good. |
-| *Ben:* Grazie, signore. | *Ben:* Thank you, sir. |
-| *Franco:* Non ringraziare. È un quaderno. | *Franco:* Don’t thank me. It’s a notebook. |
-| *Chiara:* È un buon inizio. | *Chiara:* It’s a good start. |
-| *Emma:* E il tuo **nome** è sul quaderno. | *Emma:* And your **name** is on the notebook. |
-| *Ben:* Sì. Ben Carter. **Piacere**. | *Ben:* Yes. Ben Carter. **Pleased to meet you**. |
-| *Franco:* Mah. | *Franco:* Well. |
-| *Leo:* Nonno, lui è il tuo amico? | *Leo:* Grandpa, is he your friend? |
-| *Franco:* È il **vicino**. | *Franco:* He’s the **neighbour**. |
-| *Ben:* Un **vicino** è un buon inizio. | *Ben:* A **neighbour** is a good start. |
-| *Ornella:* **Arrivederci**, famiglia Carter. | *Ornella:* **Goodbye**, Carter family. |
-| *Chiara:* **Arrivederci**, signora Galli. | *Chiara:* **Goodbye**, Signora Galli. |
-| *Ben:* **Arrivederci**, signora. | *Ben:* **Goodbye**, ma’am. |
-| *Leo:* Ciao, nonno! | *Leo:* Bye, Grandpa! |
-| *Franco:* Mah. | *Franco:* Well. |
-| *Emma:* Buonasera, nonno. | *Emma:* Good evening, Grandpa. |
-| *Franco:* Buonasera. | *Franco:* Good evening. |
-| *Ben:* Ciao, casa. Ciao, famiglia. | *Ben:* Hi, house. Hi, family. |
-| *Chiara:* Ben, siamo già in casa. | *Chiara:* Ben, we’re already inside. |
-
-## 9. Casa di Franco, Via dei Tigli 9 · lunedì sera
+## 8. Stazione di Borgoverde · lunedì mattina
 
 | Italiano | English |
 |---|---|
-| Nella **casa** di Franco, Leo mostra un disegno. | In Franco’s **house**, Leo shows a drawing. |
-| *Leo:* Nonno, questo è Pietro. | *Leo:* Grandpa, this is Pietro. |
-| Lui è il mio **amico**. | He’s my **friend**. |
-| *Franco:* E questo è un banco? | *Franco:* And is this a desk? |
-| *Leo:* Sì. È la mia **classe**. | *Leo:* Yes. It’s my **class**. |
-| E qui c’è il **gatto** di Ornella. | And here is Ornella’s **cat**. |
-| *Franco:* Quel gatto è grande. | *Franco:* That cat is big. |
-| *Leo:* È Pavarotti. | *Leo:* It’s Pavarotti. |
-| *Ben:* **Buonasera**, signor Franco. | *Ben:* **Good evening**, Signor Franco. |
-| *Franco:* Buonasera, l’**americano**. | *Franco:* Good evening, the **American**. |
-| *Ben:* **Mi chiamo** Ben Carter. | *Ben:* **My name is** Ben Carter. |
-| **Sono** **americano**. | **I am** **American**. |
-| Piacere. | Pleased to meet you. |
-| *Franco:* Ci conosciamo, l’**italiano** sei tu. | *Franco:* We know each other; you’re the **Italian** one. |
-| *Ben:* Io sono americano; Leo è **italiano**. | *Ben:* I’m American; Leo is **Italian**. |
-| *Leo:* E tu sei il mio **vicino**. | *Leo:* And you’re my **neighbour**. |
-| *Ben:* Sì. Il mio **nome** è Ben. | *Ben:* Yes. My **name** is Ben. |
-| *Franco:* Il **quaderno** è vicino al bordo. | *Franco:* The **notebook** is near the edge. |
-| Franco lo sposta lontano dal bordo. | Franco moves it away from the edge. |
-| *Franco:* **Mah**. | *Franco:* **Well**. |
-| *Leo:* Nonno, «mah» è il tuo saluto? | *Leo:* Grandpa, is “well” your greeting? |
-| *Franco:* Sì. | *Franco:* Yes. |
-| *Leo:* **Ciao**, nonno. | *Leo:* **Bye**, Grandpa. |
-| *Franco:* Buonasera, Leo. | *Franco:* Good evening, Leo. |
+| La stazione di Borgoverde è piccola. C'è un binario e una panchina. | Borgoverde station is small. There's one platform and one bench. |
+| Emma è sulla panchina. Guarda il telefono. | Emma is on the bench. She's looking at her phone. |
+| Una ragazza con lo zaino passa e saluta con la mano. | A girl with a backpack passes and waves. |
+| *Una donna:* **Ciao**! | *Una donna:* **Hi**! |
+| Emma alza gli occhi per un secondo. | Emma looks up for a second. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| La ragazza va avanti. Emma guarda il telefono di nuovo. | The girl walks on. Emma looks at her phone again. |
+| Un **bambino** — no, un ragazzo — arriva sulla panchina. | A **child** — no, a boy — arrives at the bench. |
+| Ha sedici anni, forse. Ha un libro in mano. | He's sixteen, maybe. He has a book in his hand. |
+| *Tommaso:* **Ciao**. | *Tommaso:* **Hi**. |
+| Emma lo guarda. Un secondo. Poi di nuovo il telefono. | Emma looks at him. One second. Then back to her phone. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Il ragazzo apre il libro. Poi lo chiude. | The boy opens his book. Then he closes it. |
+| *Tommaso:* Tu **sei** nuova? | *Tommaso:* Are you **new**? |
+| Emma non alza gli occhi. | Emma doesn't look up. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Il ragazzo ride piano. | The boy laughs quietly. |
+| *Tommaso:* Va bene. Io **sono** Tommaso. | *Tommaso:* Okay. I **am** Tommaso. |
+| E tu? **Come ti chiami**? | And you? What's your name? |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Il treno arriva. Le porte si aprono. | The train arrives. The doors open. |
+| Emma sale. Tommaso sale dietro di lei. | Emma gets on. Tommaso gets on behind her. |
+| *Tommaso:* Di dove **sei**? | *Tommaso:* Where **are** you from? |
+| Emma si siede vicino alla **finestra**. | Emma sits by the **window**. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Tommaso si siede due posti più avanti. | Tommaso sits two seats ahead. |
+| *Tommaso:* Sei **americana**? O **italiana**? | *Tommaso:* Are you **American**? Or **Italian**? |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Il treno parte. Fuori, il paesaggio corre. | The train leaves. Outside, the countryside rushes past. |
+| *Tommaso:* Va bene. Io **sono** **italiano**. | *Tommaso:* Okay. I **am** **Italian**. |
+| Tu **sei**... **ciao**. | You **are**... **hi**. |
+| Emma guarda fuori dalla **finestra**. Nasconde un sorriso. | Emma looks out of the **window**. She hides a smile. |
+| Il treno va verso Monza. Sono dieci minuti. | The train heads to Monza. It's ten minutes. |
+| *Tommaso:* Io vado a Monza. Liceo. **Classe** seconda. | *Tommaso:* I go to Monza. High school. **Class** two. |
+| Emma si gira. Solo un poco. | Emma turns. Only a little. |
+| *Emma:* Anch'io. **Classe** seconda. | *Emma:* Me too. **Class** two. |
+| Tommaso alza le sopracciglia. È la prima frase vera. | Tommaso raises his eyebrows. It's the first real sentence. |
+| *Tommaso:* Ah! Allora forse **siamo** in **classe** insieme. | *Tommaso:* Ah! So maybe **we are** in the **class** together. |
+| Emma non risponde. Ma non dice **ciao**. | Emma doesn't answer. But she doesn't say **hi** either. |
+| Il treno si ferma a Monza. È il primo **giorno** di **scuola**. | The train stops at Monza. It's the first **day** of **school**. |
+| *Tommaso:* Questo **è** il mio primo **giorno** anche per me. | *Tommaso:* This **is** my first **day** too. |
+| Tommaso prende il libro e si alza. | Tommaso picks up his book and stands up. |
+| *Tommaso:* Va bene, strana. **Arrivederci**. | *Tommaso:* Okay, weird girl. **Goodbye**. |
+| Emma non risponde all'**arrivederci**. Ma guarda il ragazzo uscire. | Emma doesn't answer the **goodbye**. But she watches the boy get off. |
+| Il treno è quasi vuoto **adesso**. | The train is almost empty **now**. |
+| Emma **è** sola vicino alla **finestra**. | Emma **is** alone by the **window**. |
+| Fuori c'è il sole. Emma sorride un poco. | Outside there's sun. Emma smiles a little. |
+| *Emma:* **Ciao**, Monza. | *Emma:* **Hi**, Monza. |
+
+## 9. Confessionale
+
+| Italiano | English |
+|---|---|
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Emma non guarda la telecamera. Guarda il muro. | Emma doesn't look at the camera. She looks at the wall. |
+| *Emma:* Io sono Emma. | *Emma:* I'm Emma. |
+| Io **sono** **americana**. | I **am** **American**. |
+| E io **sono** anche **italiana**. Forse. | And I **am** also **Italian**. Maybe. |
+| Emma alza le spalle. | Emma shrugs. |
+| *Emma:* Qui io **sono** **nuova**. La **scuola** è **nuova**. | *Emma:* Here I **am** **new**. The **school** is **new**. |
+| La **classe** è **nuova**. Tutto è **nuovo**. | The **class** is **new**. Everything is **new**. |
+| La gente dice **ciao**. Tutti dicono **ciao**. | People say **hi**. Everyone says **hi**. |
+| Io dico **ciao**. Solo **ciao**. | I say **hi**. Only **hi**. |
+| Emma pensa un secondo. Poi parla di nuovo. | Emma thinks for a second. Then she speaks again. |
+| *Emma:* **Ciao** va bene per tutto. | *Emma:* **Hi** works for everything. |
+| **Ciao** la mattina. **Ciao** la sera. **Ciao** alla **scuola**. **Ciao** in **classe**. | **Hi** in the morning. **Hi** in the evening. **Hi** at **school**. **Hi** in the **class**. |
+| **Arrivederci** è per domani. | **Goodbye** is for tomorrow. |
+| Io non parlo di domani **adesso**. | I don't talk about tomorrow **now**. |
+| Emma guarda la telecamera per la prima volta. | Emma looks at the camera for the first time. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+
+## 10. Casa Carter, Via dei Tigli 14 · lunedì sera
+
+| Italiano | English |
+|---|---|
+| Sono le sette di sera. In **casa** Carter ci sono venti scatole. | It's seven in the evening. In the Carter **house** there are twenty boxes. |
+| La **porta** è aperta. La cucina è quasi pronta. | The **door** is open. The kitchen is almost ready. |
+| *Ben:* **Buonasera**! **Buonasera** a tutti! | *Ben:* **Good evening**! **Good evening** everyone! |
+| *Chiara:* **Buonasera**, Ben. Che **giorno**! | *Chiara:* **Good evening**, Ben. What a **day**! |
+| *Ben:* Il primo **giorno**! Il **giorno** numero uno! | *Ben:* The first **day**! **Day** number one! |
+| Chiara mette la borsa sulla sedia. Si guarda intorno. | Chiara puts her bag on the chair. She looks around. |
+| *Chiara:* Emma? Leo? | *Chiara:* Emma? Leo? |
+| *Ben:* Leo è in camera. Emma è in camera. | *Ben:* Leo is in his room. Emma is in her room. |
+| *Chiara:* In camera? Tutti e due? | *Chiara:* In their rooms? Both of them? |
+| *Ben:* Emma dice: "Sono stanca". Leo dice: "Mamma, la **scuola** è **italiana**!" | *Ben:* Emma says: "I'm tired". Leo says: "Mum, the **school** is **Italian**!" |
+| Chiara apre la **porta** della camera di Leo. | Chiara opens the **door** of Leo's room. |
+| Leo è sul letto. Ha un quaderno nuovo. | Leo is on the bed. He has a new notebook. |
+| *Leo:* Mamma! La **scuola** è bella! La **maestra** è la **maestra** Paola! | *Leo:* Mum! The **school** is nice! The **teacher** is **teacher** Paola! |
+| Io **sono** **americano**. Pietro **è** **italiano**. Noi **siamo** **amici**! | I **am** **American**. Pietro **is** **Italian**. We **are** **friends**! |
+| *Chiara:* Pietro? | *Chiara:* Pietro? |
+| *Leo:* Pietro abita in Via dei Tigli. Numero tre. Lui **è** un **vicino** e un **amico**. | *Leo:* Pietro lives on Via dei Tigli. Number three. He **is** a **neighbour** and a **friend**. |
+| *Chiara:* Bravo, Leo. | *Chiara:* Good, Leo. |
+| *Leo:* Mamma, io ho un **amico** **italiano** e io **sono** **americano**. **Adesso** **siamo** **amici**. | *Leo:* Mum, I have an **Italian** **friend** and I **am** **American**. **Now** we **are** **friends**. |
+| Leo mostra il quaderno. C'è scritto: "Noi **siamo** **amici**". | Leo shows his notebook. It says: "We **are** **friends**." |
+| *Chiara:* Questo **è** **benvenuto** in **casa** nostra, Leo. | *Chiara:* This **is** **welcome** in our **house**, Leo. |
+| Chiara va alla **porta** della camera di Emma. Bussa. | Chiara goes to the **door** of Emma's room. She knocks. |
+| Nessuna risposta. | No answer. |
+| *Chiara:* Emma? | *Chiara:* Emma? |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| *Chiara:* Tutto bene? | *Chiara:* Everything okay? |
+| *Emma:* **Ciao**, mamma. | *Emma:* **Hi**, mum. |
+| Chiara guarda la **porta** chiusa per un momento. Poi va in cucina. | Chiara looks at the closed **door** for a moment. Then she goes to the kitchen. |
+| Fuori, qualcuno bussa alla **porta** principale. | Outside, someone knocks at the main **door**. |
+| È Franco. Ha una borsa con i pomodori dell'orto. | It's Franco. He has a bag with tomatoes from the garden. |
+| *Ben:* Franco! **Buonasera**, Franco! **Benvenuto**! | *Ben:* Franco! **Good evening**, Franco! **Welcome**! |
+| *Franco:* **Buonasera**. | *Franco:* **Good evening**. |
+| Franco entra. Guarda le scatole. Guarda le pareti. | Franco comes in. He looks at the boxes. He looks at the walls. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| *Chiara:* Papà! **Buonasera**, papà. Pomodori? **Grazie**! | *Chiara:* Dad! **Good evening**, dad. Tomatoes? **Thank you**! |
+| *Franco:* Pomodori nuovi. Dell'orto. | *Franco:* New tomatoes. From the garden. |
+| *Chiara:* Ben, prendi i pomodori, **per favore**. | *Chiara:* Ben, take the tomatoes, **please**. |
+| Ben prende la borsa. Guarda i pomodori. Sono bellissimi. | Ben takes the bag. He looks at the tomatoes. They're beautiful. |
+| *Ben:* **Grazie**, Franco. Sono **nuovi**? | *Ben:* **Thank you**, Franco. Are they **new**? |
+| *Franco:* Sono pomodori. | *Franco:* They're tomatoes. |
+| Franco va verso la camera di Leo. | Franco goes towards Leo's room. |
+| *Franco:* Leo! | *Franco:* Leo! |
+| Leo esce dalla camera, felice. | Leo comes out of his room, happy. |
+| *Leo:* Nonno! La **scuola**! La **maestra**! Pietro! | *Leo:* Grandpa! The **school**! The **teacher**! Pietro! |
+| *Franco:* Bravo. E la **maestra** **è** **italiana**? | *Franco:* Good. And is the **teacher** **Italian**? |
+| *Leo:* Sì. **Italiana**. Tutti **italiani**. Ma io **sono** **americano** e va bene. | *Leo:* Yes. **Italian**. Everyone's **Italian**. But I **am** **American** and it's fine. |
+| Franco guarda Leo per un secondo più del solito. | Franco looks at Leo for one second longer than usual. |
+| *Franco:* Bene. Mah. | *Franco:* Good. Hmm. |
+| Ben arriva in cucina. Apre i cassetti. Cerca qualcosa. | Ben arrives in the kitchen. He opens the drawers. He's looking for something. |
+| *Ben:* Chiara, dove **è**... come si dice... la cosa per cucinare? | *Ben:* Chiara, where **is**... how do you say... the thing for cooking? |
+| *Chiara:* La padella? | *Chiara:* The pan? |
+| *Ben:* Padella. Sì. **Grazie**. | *Ben:* Pan. Yes. **Thank you**. |
+| *Franco:* Lui cucina? | *Franco:* He cooks? |
+| *Chiara:* Sì, papà. Cucina lui. La sera. | *Chiara:* Yes, dad. He cooks. In the evening. |
+| *Franco:* Mah. | *Franco:* Hmm. |
+| Emma esce dalla camera con il telefono. Si siede lontano. | Emma comes out of her room with her phone. She sits far away. |
+| *Ben:* Emma! **Buonasera**, Emma! Come **sei**? | *Ben:* Emma! **Good evening**, Emma! How **are** you? |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| *Ben:* Emma, tu **sei** felice? | *Ben:* Emma, are you happy? |
+| Emma guarda Ben. Poi guarda Franco. Poi il telefono. | Emma looks at Ben. Then at Franco. Then at her phone. |
+| *Emma:* **Ciao**. | *Emma:* **Hi**. |
+| Ben aspetta. Emma alza gli occhi di nuovo. | Ben waits. Emma looks up again. |
+| *Emma:* **Ciao**, papà. | *Emma:* **Hi**, dad. |
+| È poco. Ma Ben sorride. Per lui è abbastanza. | It's not much. But Ben smiles. For him it's enough. |
+| Chiara mette la tavola. Quattro piatti. Poi guarda Franco. | Chiara sets the table. Four plates. Then she looks at Franco. |
+| *Chiara:* Papà, perché non ceni con noi? | *Chiara:* Dad, why don't you have dinner with us? |
+| Franco guarda la tavola. Guarda Ben. Guarda i pomodori. | Franco looks at the table. He looks at Ben. He looks at the tomatoes. |
+| *Franco:* Maah. | *Franco:* Hmm. |
+| Franco toglie il cappello e si siede. | Franco takes off his hat and sits down. |
+| *Chiara:* Sì. "Mah" **è** sì. | *Chiara:* Yes. "Mah" **is** yes. |
+| Leo porta il quaderno a tavola. Emma mangia in silenzio. | Leo brings his notebook to the table. Emma eats in silence. |
+| Ben cucina. **Adesso** la cucina è piccola, ma va bene. | Ben cooks. **Now** the kitchen is small, but it's fine. |
+| *Ben:* Franco, il **benvenuto** **è** per me? O per Lei? | *Ben:* Franco, is the **welcome** for me? Or for you? |
+| *Franco:* Per la **casa**. | *Franco:* For the **house**. |
+| *Ben:* Ah. Per la **casa**. Perfetto. | *Ben:* Ah. For the **house**. Perfect. |
+| Ben serve la pasta. Franco assaggia. Nessuno parla. | Ben serves the pasta. Franco tastes it. Nobody speaks. |
+| *Franco:* L'**americano** cucina bene. | *Franco:* The **American** cooks well. |
+| Ben sente. Non dice niente. Ma il quaderno **è** sul tavolo. | Ben hears. He doesn't say anything. But his notebook **is** on the table. |
+| Più tardi, Franco va verso la **porta**. | Later, Franco goes towards the **door**. |
+| *Franco:* Io vado. **Ciao**, Leo. | *Franco:* I'm going. **Hi**, Leo. |
+| *Leo:* **Ciao**, nonno! A domani! | *Leo:* **Hi**, grandpa! See you tomorrow! |
+| *Franco:* **Ciao**, Emma. | *Franco:* **Hi**, Emma. |
+| Emma alza una mano. Un piccolo **ciao**. | Emma raises a hand. A small **hi**. |
+| Franco guarda Ben. Un secondo. Poi apre la **porta**. | Franco looks at Ben. One second. Then he opens the **door**. |
+| *Franco:* **Arrivederci**. | *Franco:* **Goodbye**. |
+| *Ben:* **Arrivederci**, Franco! **Grazie**! **Adesso** Lei **è**... un **vicino**! | *Ben:* **Goodbye**, Franco! **Thank you**! **Now** you **are**... a **neighbour**! |
+| Franco si ferma sulla **porta**. Si gira. | Franco stops in the **door**. He turns. |
+| *Franco:* Io **sono** tuo suocero, **americano**. Non un **vicino**. | *Franco:* I **am** your father-in-law, **American**. Not a **neighbour**. |
+| Poi esce e chiude la **porta**. | Then he goes out and closes the **door**. |
+| Chiara ride. Leo ride. Ben scrive una parola nuova. | Chiara laughs. Leo laughs. Ben writes a new word. |
+| *Ben:* Suocero. S-u-o-c-e-r-o. Interessante. | *Ben:* Father-in-law. F-a-t-h-e-r-i-n-l-a-w. Interesting. |
+| Sulla **porta** chiusa, fuori, si sente la voce di Franco. | Behind the closed **door**, outside, Franco's voice can be heard. |
+| *Franco:* Mah. | *Franco:* Hmm. |
