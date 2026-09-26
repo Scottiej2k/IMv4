@@ -248,7 +248,11 @@ td .ext { color: var(--muted); font-size: 13px; }
     const showEn = store.get("show-en", false);
     const c = INDEX.chapters.find((x) => x.id === cur);
     $("tools").innerHTML = `<label><input type="checkbox" id="t-en"${showEn ? " checked" : ""}> Show English under every sentence</label><span>Tap a sentence to see its translation.</span>`;
-    let html = c.format === "script" ? `<p class="fmtnote">Written before the book format: shown as paragraphs, with speaker names. Re-run this chapter to get the book version.</p>` : "";
+    if (c.format === "script") {
+      $("tools").innerHTML = "";
+      return `<p class="fmtnote">This chapter was written in the old script format and is being rewritten as a book. Its other tabs still work.</p>`;
+    }
+    let html = "";
     html += `<div class="${showEn ? "show-en" : ""}" id="story"><article class="story">`;
     for (const sc of data.chapter.scenes) {
       html += `<h2 class="chap-h">${sceneTitle(sc)}</h2>`;
