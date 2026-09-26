@@ -64,3 +64,45 @@ def voiced_share(pieces):
 
 def speakers(italian):
     return [m.group("sid") or m.group("tid") for m in MARK_RE.finditer(italian)]
+
+
+# ---------------------------------------------------------------- read-along tokens
+# Words are what the audio speaks and the app underlines. A word is letters or digits, with inner
+# apostrophes (l'acqua, c'è, dov'è count as one word). Everything else (spaces, punctuation, « »)
+# is shown but never timed. Word i of segment s01e01-1-004 has the id "s01e01-1-004.i".
+WORD_TOKEN_RE = re.compile(r"[0-9A-Za-zÀ-ÖØ-öø-ÿ]+(?:['’][0-9A-Za-zÀ-ÖØ-öø-ÿ]+)*")
+_MARKUP_RE = re.compile(r"\*\*|_")
+
+
+def tokens(reader_text):
+    """[[text, word index or -1, flags]] for a sentence as shown (audio tags already removed).
+    flags: "b" bold, "i" italic (thought). The ** and _ markers themselves are dropped."""
+    out, bold, ital, n, pos = [], False, False, 0, 0
+
+    def emit(chunk):
+        nonlocal n
+        flags = ("b" if bold else "") + ("i" if ital else "")
+        p = 0
+        for m in WORD_TOKEN_RE.finditer(chunk):
+            if m.start() > p:
+                out.append([chunk[p:m.start()], -1, flags])
+            out.append([m.group(0), n, flags])
+            n += 1
+            p = m.end()
+        if p < len(chunk):
+            out.append([chunk[p:], -1, flags])
+
+    for m in _MARKUP_RE.finditer(reader_text):
+        emit(reader_text[pos:m.start()])
+        if m.group(0) == "**":
+            bold = not bold
+        else:
+            ital = not ital
+        pos = m.end()
+    emit(reader_text[pos:])
+    return [t for t in out if t[0]]
+
+
+def spoken_words(text):
+    """The words the audio speaks in a piece of text (markup and audio tags ignored)."""
+    return WORD_TOKEN_RE.findall(re.sub(r"<[^>]+>", " ", text))

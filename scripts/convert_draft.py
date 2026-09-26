@@ -237,7 +237,8 @@ def convert(cid):
                 occurrences[vid].append((sid, span, en_span, len(bc.words(ln["it"]))))
             if len(it_b) != len(en_b):
                 notes.append(f"{sid} (draft line {ln['line']}): {len(it_b)} bold in Italian, {len(en_b)} in English")
-            seg = {"id": sid, "it": ln["it"], "en": ln["en"], "voice": ln["voice"]}
+            seg = {"id": sid, "it": ln["it"], "en": ln["en"], "voice": ln["voice"],
+                   "tokens": bf.tokens(bc.reader_text(ln["it"]))}  # read-along word ids
             if focus:
                 seg["focus"] = focus
             if paragraphs and paragraphs[-1]["para"] == ln["para"]:

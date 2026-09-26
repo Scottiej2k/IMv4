@@ -19,6 +19,9 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import book_format as bf  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 CHAPTERS = ROOT / "chapters"
 VOICES = json.loads((ROOT / "config" / "voices.json").read_text(encoding="utf-8"))
@@ -410,23 +413,36 @@ def piece_style(chapter, own):
     return ", ".join(p for p in parts if p)
 
 
-def voiced_items(chapter, scene):
-    """The scene as a list of (speaker, text, style, segment ids): consecutive pieces with the same
-    voice and style are merged, and long ones split at segment boundaries."""
+def word_span(seg_id, first, count):
+    """Read-along reference to words first..first+count-1 of a segment: "s01e01-1-004:0-3"."""
+    return f"{seg_id}:{first}-{first + count - 1}"
+
+
+def voiced_items(chapter, scene, rep=None):
+    """The scene as a list of (speaker, text, style, segment ids, word spans): consecutive pieces
+    with the same voice and style are merged. Word spans say which displayed words each piece
+    speaks, so audio timings (docs/read-along.md) map back onto the text."""
     items = []
     for block in blocks(scene):
         for seg in block["segments"]:
+            wi = 0
             for sp, text, own in voice_pieces(block, seg):
+                n = len(bf.spoken_words(strip_bold(text)))
+                span = [word_span(seg["id"], wi, n)] if n else []
+                wi += n
                 text = spoken_text(text).strip("«» ")
                 if not text:
                     continue
                 style = piece_style(chapter, own)
-                limit = MAX_DIALOGUE_CHARS
-                if items and items[-1][0] == sp and items[-1][2] == style and len(items[-1][1]) + len(text) < limit:
+                if items and items[-1][0] == sp and items[-1][2] == style and len(items[-1][1]) + len(text) < MAX_DIALOGUE_CHARS:
                     prev = items[-1]
-                    items[-1] = (sp, prev[1] + " " + text, style, prev[3] + ([seg["id"]] if seg["id"] not in prev[3] else []))
+                    items[-1] = (sp, prev[1] + " " + text, style,
+                                 prev[3] + ([seg["id"]] if seg["id"] not in prev[3] else []), prev[4] + span)
                 else:
-                    items.append((sp, text, style, [seg["id"]]))
+                    items.append((sp, text, style, [seg["id"]], span))
+            shown = sum(1 for t in seg.get("tokens", []) if t[1] >= 0)
+            if rep is not None and "tokens" in seg and shown != wi:
+                rep.warn(f"{seg['id']}: {shown} words shown but {wi} spoken (read-along would drift)")
     return items
 
 
@@ -441,28 +457,30 @@ def build_tts(chapter, rep):
         if not items:
             return
         voices = []
-        for sp, _, _, _ in items:
+        for sp, *_ in items:
             if sp not in voices:
                 voices.append(sp)
         if len(voices) == 1:
             content = [{"type": "text", "text": text, "annotations": [{"type": "speech_metadata", "style": style}]}
-                       for _, text, style, _ in items]
+                       for _, text, style, *_ in items]
             speech_config = [{"voice": voice_of(voices[0])}]
         else:
             # Speaker labels can be any names (Google docs); we use the character ids.
             content = [{"type": "text", "text": text,
                         "annotations": [{"type": "speech_metadata", "speaker": sp, "style": style}]}
-                       for sp, text, style, _ in items]
+                       for sp, text, style, *_ in items]
             speech_config = {"mode": "conversational",
                              "speakers": [{"speaker": sp, "voice": voice_of(sp)} for sp in voices]}
         seg_ids = []
-        for _, _, _, ids in items:
+        for _, _, _, ids, _ in items:
             seg_ids += [i for i in ids if i not in seg_ids]
         chunks.append({
             "index": len(chunks),
             "scene": scene_n,
             "speakers": {sp: sp for sp in voices} if len(voices) > 1 else {"single": voices[0]},
             "segment_ids": seg_ids,
+            # For each text item in the request, the displayed words it speaks (read-along).
+            "words": [spans for *_, spans in items],
             "request": {
                 "model": model,
                 "input": [{"type": "user_input", "content": content}],
@@ -473,7 +491,7 @@ def build_tts(chapter, rep):
 
     for scene in chapter["scenes"]:
         items, voices, size = [], [], 0
-        for sp, text, style, ids in voiced_items(chapter, scene):
+        for sp, text, style, ids, spans in voiced_items(chapter, scene, rep):
             if VOICES["voices"].get(sp, {}).get("voice", "TBD") == "TBD":
                 rep.warn(f"TTS: speaker '{sp}' has no voice assigned")
             new_voices = voices + ([sp] if sp not in voices else [])
@@ -482,7 +500,7 @@ def build_tts(chapter, rep):
                 flush(scene["n"], items)
                 items, voices, size = [], [], 0
                 new_voices = [sp]
-            items.append((sp, text, style, ids))
+            items.append((sp, text, style, ids, spans))
             voices = new_voices
             size += len(text)
         flush(scene["n"], items)
