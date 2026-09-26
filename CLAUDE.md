@@ -65,25 +65,28 @@ to that URL with `index.json` and every `data/<id>.json` as files (both generate
 Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review),
 `build_curriculum.py` (validates plans, regenerates the overview), `update_logs.py`.
 
-## Status (end of second session, 2026-09-25)
+## Status (session 3, 2026-09-26)
 
-- **Production model: `deepseek/deepseek-v4.1-flash`** (OpenRouter, $0.15/$0.60 per M tokens). Pilot
-  comparison on S1E1: GPT-6 Luna ($0.02; Italian correct but above A1, Ben fluent), Luna Pro ($0.075;
-  a native-speaker error), Gemini 3.8 Flash ($0.215, 2.6 min; lovely Italian but far above A1),
-  DeepSeek ($0.03; best level control and Ben's A1 voice). DeepSeek takes 10–20 min a chapter, hence
-  batches. Projected full course: about $12–15.
-- Final pilots (DeepSeek, committed, no hand edits): S1E1 2,532 words / 63% dialogue (a little
-  short; A1 ask raised to 1.15× since, untested), S5E3 4,923 / 69%. Grammar check clean on both.
-- Fixes this session: narration share as a line count; one vocab form per item; Ben is from Columbus
-  (family lived in Chicago); tu/Lei facts repeated per scene; bible ages are at series start; audio
-  tags stripped from English; outline and continuity thinking capped at 12k tokens (DeepSeek still
-  occasionally hits the limit on an outline and retries).
+- **Stories are written as a book** (the owner's decision): prose paragraphs, speech as «…»{id},
+  thoughts as _…_{id} (confessionali became thoughts), present tense through A2. The same text
+  drives the audiobook: the narrator reads the prose, each character voices their own words.
+  See docs/draft-format.md. The converter enforces one speaker per paragraph and joins
+  back-to-back narration paragraphs (DeepSeek does neither reliably).
+- Written in book format: S1E1–S1E5 and the S5E3 pilot (grammar check clean on all). Speech is
+  49–69% of words; the old 60–75% target predates dialogue tags counting as narration. Proposed
+  45–60% for the book format: owner to decide.
+- Production model `deepseek/deepseek-v4.1-flash`, pinned to DeepSeek's own provider for caching:
+  about $0.03–0.08 a chapter, 10–30 min each. OpenRouter key: about $2.5 spent of $50.
+- TTS: checked against Google's docs (docs/tts-format.md). Styles are now short; character
+  voices (Italian voices from the Extended Voice Library, a designed voice for Ben) are still to
+  choose.
 - Known: the S5E3 plan sets the chapter in late January though S5 runs Sept–Feb (owner to decide).
-  Continuity entries can over-reach (guesses about later plot, repeating a story's error): skim them.
+  Continuity entries can over-reach or come out in Italian: skim them.
 
 ## Next steps
 
-1. Owner's directions for production batches (not started).
+1. Owner's review of the book-format chapters, then production batches from S1E6 (`--jobs 1` keeps
+   continuity tight).
 2. Later: audition TTS voices, and verify the ⚠ items in `docs/tts-format.md` (ai.google.dev was
    blocked by the network policy in session 1).
 
