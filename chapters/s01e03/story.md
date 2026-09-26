@@ -6,930 +6,508 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · sabato mattina
 
-È sabato mattina in Via dei Tigli 14. La **casa** è piena di **scatole**. Le **scatole** sono dappertutto: **cucina**, **corridoio**, **tavolo**. Ogni **scatola** ha un nome in inglese.
+È sabato mattina in Via dei Tigli. **La** **casa** al numero quattordici è piena di **scatole**. **Le** **scatole** sono grandi e piccole. Tutte hanno un'**etichetta** in inglese.
 
-*Ben:* Allora… KITCHEN. BATHROOM. E questa? "STUFF".
+Chiara entra nella **cucina** con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Ben con una grande **scatola**. Sulla **scatola** c'è un'**etichetta** con la parola KITCHEN.
 
-*Chiara:* "Stuff" non è una **stanza**, Ben.
+«Allora, Chiara. Dove metto questa **scatola**?»
 
-*Ben:* Perfetto!
+Chiara guarda l'**etichetta**. Poi chiude gli occhi. «Ben, perché le **etichette** sono in inglese?»
 
-Ben apre una **scatola** e guarda dentro.
+«Perché l'inglese è la mia lingua!»
 
-*Ben:* Dov'è la **caffettiera**?
+«Ma adesso la lingua di questa **casa** è l'italiano.»
 
-Lui **cerca** la **caffettiera** in ogni **scatola**. La **caffettiera** è in una **scatola**, ma quale **scatola**?
+Chiara indica **il** **tavolo**. «Questo è **il** **tavolo**.» Poi indica le due **sedie** vicino alla **finestra**. «Queste sono **le** **sedie**. E questa è **la** **finestra**.»
 
-*Leo:* Papà, **cerchi** la **caffettiera**?
+«**Il** **tavolo**, **le** **sedie**, **la** **finestra**» ripete Ben. «Perfetto!»
 
-*Ben:* Sì. Io **cerco** la **caffettiera**.
+Ben guarda la **cucina** con attenzione. «**La** **cucina** è **piccola**» dice. «Ma **la** **casa** è **grande**!»
 
-*Leo:* È una **scatola** bianca?
+«**La** **casa** ha tre **camere**, un **bagno**, un **salotto** e un **giardino**» «Le **camere** sono al **piano** di sopra. E **il** **giardino** è dietro **la** **porta**.»
 
-*Ben:* Sì! Una **scatola** bianca, come le altre.
+Leo entra di corsa dal **salotto**. Ha un **post-it** sulla fronte. «Mamma! Guarda! Io ho un **post-it**!»
 
-*Leo:* Ah. Allora è difficile.
+«Leo, perché hai un **post-it** sulla fronte?»
 
-*Chiara:* Ben, per favore. Primo: la **cucina**. Secondo: le **camere**. Terzo: il **bagno**.
+«Perché la fronte è una **cosa**. E le **cose** hanno un nome.»
 
-*Ben:* Primo, secondo, terzo… Tu sei un'architetta!
+«E **il** **giardino**? **Il** **giardino** ha un nome?»
 
-*Chiara:* Sì, Ben. Sono un'architetta.
+«Sì! **Il** **giardino** è GIARDINO. Ma in inglese: GARDEN.»
 
-Il **tavolo** è pieno di **scatole** piccole.
+Chiara guarda Ben. Ben guarda Leo. «Questo bambino è americano o italiano?»
 
-*Chiara:* Questa **scatola** è per la **cucina**. Questa è per il **bagno**.
+«È un cittadino del mondo» dice Ben. «Come me!»
 
-*Ben:* E questa?
+Leo apre una **scatola**. La **scatola** è **piccola**. Dentro ci sono piatti e bicchieri. Poi Leo vede una **sedia**. «La **sedia** è **piccola**! È la mia **sedia**!»
 
-*Chiara:* Questa è per il **corridoio**.
+«No, questa **sedia** è per **il** **giardino**»
 
-Ben **mette** la **scatola** vicino alla **porta**.
+«**Il** **giardino** ha un **tavolo**?»
 
-*Leo:* Papà, la **porta** è **piccola**.
+«Sì. **Il** **tavolo** è **piccolo**, ma **il** **giardino** è **grande**.»
 
-*Ben:* Lo so, Leo. La **casa** è **piccola**.
+Ben mette **la** **scatola** sul **tavolo**. Adesso **il** **tavolo** è pieno di **cose**. «Perfetto. Adesso apriamo tutte le **scatole**.»
 
-Chiara ha un **foglio** e una matita. Chiara scrive i **nomi** sul **foglio**.
+«Primo: **la** **cucina**. Secondo: **il** **bagno**. Terzo: le **camere**»
 
-*Chiara:* La **cucina** è qui. Il **tavolo** è qui. E la **finestra** è bella.
+«E **il** **salotto**?»
 
-*Ben:* La **cucina** è bella!
+«**Il** **salotto** è pieno di **scatole**. E anche **il** **muro** è pieno di **scatole**.»
 
-*Chiara:* Sì. Ma è **piccola**.
+Ben prende una **scatola** con l'**etichetta** KITCHEN. «Dove metto questa **scatola**?»
 
-Leo guarda il **giardino** dalla **finestra**.
+«In **cucina**, Ben. **La** **cucina** è qui.»
 
-*Leo:* Mamma, perché il **giardino** è così **piccolo**?
+«E la **scatola** con l'**etichetta** BATHROOM?»
 
-*Chiara:* Perché la **casa** è **piccola**, Leo.
+«Nel **bagno**. **Il** **bagno** è al **piano** di sopra.»
 
-*Leo:* E perché il **divano** è nel **corridoio**?
+«**Il** **bagno** al **piano** di sopra. Perfetto!»
 
-Il **divano** è davvero nel **corridoio**. È un **divano** **grande** e **pesante**.
+«Perfetto? Ben, ci sono dieci **scatole**.»
 
-*Ben:* Il **divano** è nel **corridoio** perché… … perché la **casa** è **piccola**.
+Leo prende un **nuovo** **post-it**. Scrive una parola e attacca il **post-it** al **muro**. Sul **post-it** c'è una parola: MURO. «Leo! Perché scrivi MURO sul **muro**?»
 
-*Leo:* Ah. Perché?
+«Perché è **il** **muro**! Adesso **il** **muro** ha un nome!»
 
-*Chiara:* Leo, non chiedere sempre "perché".
+Ben ride e guarda **la** **porta**. «Anche **la** **porta** ha un nome?»
 
-*Leo:* Perché?
+«Sì! **La** **porta** è PORT. Ma in italiano è **la** **porta**.»
 
-Chiara guarda Ben e sorride. Ben apre un'altra **scatola**.
+Chiara scrive sulla lista. «**La** **chiave** della **porta** è sul **tavolo**»
 
-*Ben:* Questa **scatola** è **pesante**. È molto **pesante**!
+«**La** **chiave**? Quale **chiave**?»
 
-*Leo:* "Molto pesante" no, papà. Si dice: "È **pesante**".
+«La **chiave** è **piccola**. Ha un'**etichetta** rossa.» Ben guarda **il** **tavolo**. È pieno di **cose**.
 
-*Ben:* Ah. È **pesante**.
+«Un **caffè** con **la macchina del caffè**. Il primo **caffè** nella **nuova** **casa**!»
 
-Ben **mette** la **scatola** sul **tavolo**. Poi **mette** una **sedia** vicino al **tavolo**. Poi **mette** il **quaderno** sul **tavolo**.
+«Quale **caffè**?» «Ben, dov'è **la scatola** con **la macchina del caffè**?» Ben guarda le **scatole** nel **salotto**. Sono dieci. Tutte con un'**etichetta**.
 
-*Ben:* Il **quaderno**!
+Il sorriso di Ben cambia. «**La macchina del caffè**… è in una **scatola**.»
 
-*Chiara:* Il **quaderno** delle parole?
+«In quale **scatola**?»
 
-*Ben:* Sì. Il **quaderno** delle parole italiane.
+«In una **scatola** con un'**etichetta**. COFFEE, forse.»
 
-*Leo:* Quante parole?
+Chiara appoggia il foglio sul **tavolo**. «Forse» dice. «Perfetto.»
 
-*Ben:* Mah. Dieci? Venti?
+_Dieci **scatole**. Una parola italiana per ogni **scatola**._
 
-*Leo:* Io ho una **parola** nuova.
+## 2. Casa Carter, Via dei Tigli 14 · sabato mattina
 
-*Chiara:* Quale **parola**?
+Al **piano** di sopra ci sono due **camere**. Emma apre **la** **porta** della **camera** **grande**. Dentro ci sono **scatole**, un **letto** e un **armadio**. **La** **finestra** è **grande** e guarda **il** **giardino**.
 
-*Leo:* **Casa**.
+Emma entra e sorride. «Questa è **la** **camera** **grande**» dice. «Ed è **la** **mia** **camera**.» Leo arriva con un **post-it** in mano. Guarda **il** **letto**, **la** **finestra**, **l'armadio**.
 
-Leo prende una matita. Leo scrive "**casa**" sul **quaderno** di Ben. Poi guarda la **cucina**, la **porta** e il **corridoio**.
+«No! Io voglio **la** **camera** **grande**!»
 
-*Leo:* Adesso la **casa** parla italiano.
+«Leo, tu hai otto anni. Io ho quindici anni.»
 
-*Ben:* Come?
+«E allora?»
 
-*Leo:* La **casa** parla italiano.
+«E allora **la** **camera** **grande** è per me.»
 
-*Chiara:* Che cosa vuol dire?
+«Perché?»
 
-*Leo:* Vuol dire che io **metto** i nomi su tutto.
+«Perché io studio. E tu giochi.»
 
-Chiara **mette** la mano sulla **porta** della **cucina**.
+«Io gioco anche nella **camera** **piccola**» «Ma **la** **camera** **piccola** è **piccola**.»
 
-*Chiara:* Ben. La **cucina** è **piccola**.
+Emma guarda **la** **finestra**. Fuori c'è **il** **giardino**, e nel **giardino** c'è un albero. «Va bene, **la** **finestra** è bella» dice Emma. «Ma **la** **camera** è mia.»
 
-*Ben:* La **casa** è bella!
+«Io voglio **la** **finestra** **grande**!»
 
-*Chiara:* Sì. Ma è **piccola**.
+«Perché?»
 
-*Ben:* La **casa** è bella e **piccola**. È **piccola** e bella.
+«Perché **la** **finestra** **grande** guarda **il** **giardino**. E **il** **giardino** ha un **tavolo** **piccolo**.»
 
-*Chiara:* Va bene.
+«E **il** **tavolo** **piccolo** è per te?»
 
-Fuori, il **giardino** è **piccolo**. Dentro, la **casa** è **piccola**.
+«Sì! **Il** **tavolo** **piccolo** è la mia **camera** di fuori.»
 
-*Ben:* Tutto è **piccolo**!
+Emma ride. Poi si siede sul **letto**. **Il** **letto** è **piccolo**, ma è **nuovo**. Leo attacca un **post-it** sulla **porta**. Sul **post-it** c'è una parola: EMMA.
 
-*Chiara:* Tranquillo, Ben. La **casa** è **piccola**, ma bella.
+«Perché scrivi EMMA sulla **porta**?»
 
-Ben guarda il **corridoio**. Il **corridoio** è pieno di **scatole**. Otto **scatole**, **grandi** e **pesanti**.
+«Perché questa è **la** **camera** di Emma!»
 
-*Ben:* Otto **scatole** nel **corridoio**. Una **scatola** per la **cucina**. Una per il **bagno**. Una per le **camere**. E una per il **giardino**?
+Emma guarda **il** **post-it**. Poi guarda Leo. «Aspetta. Tu scrivi EMMA sulla mia **porta** e voglio **la** **camera** **piccola**?»
 
-*Chiara:* No, Ben. Il **giardino** non ha **scatole**.
+«No. Io voglio **la** **camera** **grande**.»
 
-*Ben:* Il **giardino** è **piccolo**.
+«Ma tu scrivi EMMA sulla **porta**.»
 
-*Leo:* Il **bagno** è **piccolo**?
+«Sì. Adesso **la** **porta** ha un nome.»
 
-*Chiara:* Sì.
+Emma guarda **l'armadio**. **L'armadio** è **nuovo**. Dentro c'è una **scatola**. «Leo, e **la** **scatola** nell'**armadio**?» Leo apre **l'armadio** e guarda la **scatola**. Sulla **scatola** c'è un'**etichetta** con la parola SCARPE.
 
-*Leo:* E la mia **camera**?
+«Le scarpe! Anche le scarpe sono una **cosa**!»
 
-*Chiara:* La tua **camera** è… Mah. Vediamo lunedì.
+«Leo, quante **cose** etichetti?»
 
-*Leo:* Lunedì?
+«Tutte le **cose**!»
 
-*Ben:* Lunedì.
+«Anche **il** **bagno**?»
 
-Leo guarda le **camere** dalla **porta**. Una **camera** è **grande**. Una **camera** è **piccola**.
+«Sì! **Il** **bagno**, **la** **cucina**, **il** **salotto**, **il** **giardino**…»
 
-*Leo:* Io voglio la **camera** **grande**.
+Emma si alza dal **letto**. _Un **post-it** per ogni **cosa**. Per ogni **porta** e per ogni **finestra**. Che ansia._ «E **la** **mia** **camera**?»
 
-*Chiara:* Lunedì, Leo.
+«No. **La** **tua** **camera** è **la** **tua** **camera**.»
 
-Ben apre la **porta** del **bagno**. Dentro, il **bagno** è pieno di **scatole**.
+«Non capisco.»
 
-*Ben:* Anche il **bagno** è pieno di **scatole**!
+«**La** **tua** **camera** è tua. **La** **tua** **camera** è privata.»
 
-*Chiara:* Lo so.
+Emma sorride. «Grazie, Leo.»
 
-*Leo:* Papà, non **trovi** la **caffettiera**?
+«Prego. Ma io voglio **la** **camera** **grande**.»
 
-*Ben:* No. La **caffettiera** non è qui.
+«**La** **camera** **grande** è mia.»
 
-*Leo:* È nel **bagno**?
+«Mah» Leo esce e chiude **la** **porta**.
 
-*Ben:* Forse. Io **cerco** ancora.
-
-Chiara scrive ancora sul **foglio**. Il **foglio** è pieno di **nomi**. **Cucina**, **bagno**, **camere**, **giardino**, **corridoio**.
-
-*Chiara:* Ecco la lista.
-
-*Ben:* La lista è **grande**.
-
-*Chiara:* La **casa** è **piccola**.
-
-*Ben:* Ma la lista è **grande**.
-
-*Chiara:* Ben…
-
-Ben ride. Chiara ride anche lei. Leo prende un **foglio** piccolo. Leo scrive una **parola** sul **foglio**.
-
-*Leo:* **Casa**.
-
-Leo **mette** il **foglio** sul **quaderno** di Ben.
-
-*Ben:* **Casa**.
-
-*Ben:* Perfetto!
-
-## 2. Confessionale
-
-> *Ben:* Allora. La **casa**. Questa è la **casa** nuova. In America la **casa** è **grande**. Qui la **casa** è… **casa**. In America tutto è chiaro. La **cucina** è **grande**. Il bagno è **grande**. In America anche il giardino è **grande**. Qui la **cucina** è **piccola**. Il bagno è **piccolo**. Il giardino è **piccolo**. Ma va bene. Sono felice. Il problema sono le **scatole**. Le **scatole** sono dappertutto. Tutte le **scatole** sono in inglese. KITCHEN. BATHROOM. STUFF. "Stuff" è una **scatola** **grande**. Una **scatola** **grande** con… stuff. E adesso la **caffettiera**. Io **cerco** la **caffettiera** ogni giorno. Io **cerco** la **caffettiera** ancora. La **caffettiera** è in una **scatola**. Una **scatola** bianca. Una **scatola** bianca, come le altre.
-
-Ben guarda le **scatole** nel corridoio.
-
-> *Ben:* **Caffettiera**. **Caffettiera**. **Caffettiera**. Niente. Allora… la **cucina** è **piccola**. La **cucina** è **piccola**, ma io sono felice. La **cucina** è **piccola**, la **casa** è **piccola**. Ma la **casa** è bella. Sono americano. La **casa** è italiana. **Casa**.
-
-> *Ben:* Perfetto!
+Sulla **porta** resta **il** **post-it** con la parola EMMA. Emma guarda **il** **post-it** e ride piano. Non lo toglie. _Prima **cosa** nella **camera** **nuova**: un **post-it**._
 
 ## 3. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
 
-È sabato pomeriggio. Emma apre **la** **porta** della **camera** **grande**. **La** **camera** è **grande** e luminosa.
+Nel pomeriggio suona il campanello. Ben apre **la** **porta**. Davanti alla **porta** c'è Ornella Galli. Ha un vestito elegante e una borsa **piccola**. «Buon pomeriggio, Signor Carter.»
 
-*Emma:* Oh! **La** **camera** è **grande**. E **la** **finestra** è **grande**! E **il** **letto** è nuovo.
+«Buon pomeriggio, Signora Galli!»
 
-Emma **mette** la borsa sul **letto**.
+«Scusi il disturbo. **Il** **gatto** è nel suo **giardino**.» Ben guarda **il** **giardino** dalla **porta**. Nel **giardino** c'è un **gatto** grigio. **Il** **gatto** dorme sul **tavolo** **piccolo**.
 
-*Emma:* Questa **camera** è mia.
+«Ah! **Il** **gatto**!» dice Ben. «Come si chiama?»
 
-Leo arriva e guarda dentro la **stanza**.
+«Pavarotti» dice Ornella. «È un **ospite** importante.»
 
-*Leo:* No, Emma. Questa **camera** è mia.
+«Un **ospite**? Ma è un **gatto**!»
 
-*Emma:* Ma che dici?
+«Ai miei tempi i **gatti** sono **ospiti**. Non animali, **ospiti**.»
 
-*Leo:* Io sono **piccolo**.
+Leo arriva di corsa dal **salotto**. «Un **gatto**! Un **gatto** nel nostro **giardino**!»
 
-*Emma:* E allora?
+Ornella sorride e guarda il bambino. «Salve, Leo. **Il** **gatto** si chiama Pavarotti.»
 
-*Leo:* **La** **camera** **grande** è per il bambino **piccolo**.
+«Perché si chiama Pavarotti?»
 
-*Emma:* Ah, certo. Logico.
+«Perché canta. Come un cantante famoso.»
 
-Leo entra nella **camera** e guarda **il** **letto**.
+«Ma adesso dorme.»
 
-*Leo:* **La** **finestra** è bella. Io guardo il giardino dalla **finestra**.
+Leo guarda **il** **gatto** sul **tavolo**. «Posso tenere **il** **gatto** in **casa**? Solo oggi?»
 
-*Emma:* Leo, io sono **grande**. Tu sei **piccolo**.
+«Solo oggi?»
 
-*Leo:* Sì! Ecco perché **la** **camera** **grande** è mia.
+«Sì. **Il** **gatto** è un **ospite** per un pomeriggio.»
 
-*Emma:* Ma che logica è?
+Ornella guarda Ben. «Signor Carter, per me va bene. Ma **il** **gatto** è un **ospite** speciale.»
 
-*Leo:* La logica di Leo.
+«Un **ospite** speciale?»
 
-Emma prende la borsa dal **letto**.
+«Sì. Non tocca **il** **tavolo**, non tocca **il** **letto**, non tocca **il** **divano**.»
 
-*Emma:* **La** **camera** è mia!
+«E dove dorme?»
 
-*Leo:* No, è mia!
+«Sul **divano**.»
 
-*Emma:* È mia!
+Leo ride forte. «**Il** **gatto** dorme sul **divano**! Come papà!»
 
-*Leo:* È mia!
+«Leo!»
 
-Chiara arriva alla **porta**.
+Ornella entra in **casa**. Guarda **il** **salotto** e le **scatole**. Guarda **il** **muro**, le **scatole**, **il** **tavolo** **piccolo**. «Signora Galli, la **casa** è… un caos.»
 
-*Chiara:* Basta! Che cosa succede?
+«La **casa** è **nuova** per voi» dice Ornella. «Anche per **il** **gatto**.»
 
-*Emma:* Leo dice che **la** **camera** **grande** è sua.
+«La **cucina** è **piccola**» dice Ben. «E il **salotto** è pieno di **scatole**.»
 
-*Leo:* E Emma dice che **la** **camera** è sua.
+Ornella cammina piano nel **salotto**. «Ai miei tempi, in questa **casa** vive una famiglia con cinque bambini.»
 
-*Chiara:* **Il** **letto** **grande** è di Emma.
+«Cinque bambini?»
 
-*Leo:* Ah! Allora **la** **camera** è di Emma?
+«Cinque. E un **gatto**.»
 
-*Chiara:* Mah. No.
+«E dove dormono?»
 
-*Emma:* Mamma!
+«Nel **salotto**, in **cucina**, nel **giardino**…»
 
-*Chiara:* La decisione è di lunedì.
+«In **cucina**? Ma la **cucina** è **piccola**!»
 
-*Emma:* Lunedì?
+«Appunto. Per questo **il** **salotto** è pieno di **cose**.»
 
-*Chiara:* Lunedì. Non oggi.
+Ben guarda la **cucina** **piccola**. Poi guarda **il** **salotto**. Poi guarda **il** **gatto**. _Una **casa** **piccola**. Molti **ospiti**. E una **cucina** **piccola**._ «Un **caffè**, Signora Galli?»
 
-Chiara guarda le due **camere**. Una **stanza** è **grande**, una **stanza** è **piccola**.
+«Volentieri. Ma dov'è **la** **chiave** della **cucina**?»
 
-*Chiara:* **La** **stanza** **piccola** è bella.
+(Ben non risponde. **La macchina del caffè** è ancora in una **scatola**.) «Signora Galli, il **caffè**… la **scatola** con il **caffè**…»
 
-*Leo:* Ma io voglio **la** **grande**!
+«Capisco. Nessun **caffè** oggi.»
 
-*Chiara:* Lunedì.
+«Il primo **caffè** nella **casa** **nuova** è per Lei. Promesso.»
 
-*Leo:* Ma lunedì è lontano!
+Ornella prende la borsa. «**Il** **gatto** resta qui fino a sera» dice. «Grazie, Signor Carter.»
 
-*Emma:* Leo, dai.
+«Grazie a Lei, Signora Galli» dice Ben. «E… come si dice cat-sitter in italiano?»
 
-*Leo:* No! Io voglio una **finestra** **grande** come Emma.
+«Si dice: una persona gentile.»
 
-*Emma:* **La** **finestra** **piccola** è carina.
+Ornella esce e chiude **la** **porta**. Leo è sul **divano** con **il** **gatto**. **Il** **gatto** dorme. Leo sorride. «Pavarotti è **il** **mio** **ospite** preferito»
 
-*Leo:* Carina no. **Piccola** no.
+«Il **gatto** è un **ospite**. Tu sei il mio bambino.»
 
-Leo **apre** **la** **porta** della **stanza** **piccola**. Dentro, **il** **letto** è **piccolo** e **la** **finestra** è **piccola**.
+«Ma **il** **gatto** dorme sul **divano**.»
 
-*Leo:* Ecco. Questa è una **stanza** per un gatto.
+«Anche tu, Leo. Anche tu.»
 
-*Emma:* Il gatto di chi?
+## 4. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
 
-*Leo:* Il gatto di Ornella.
+Nel pomeriggio Chiara lavora con la lista. È seduta sul **divano** in **salotto**. Davanti a lei ci sono dieci **scatole**. Ben entra dal **salotto** con una matita in mano.
 
-Leo esce dalla **camera**. Lui è offeso. Va in **cucina** e prende un **foglio** piccolo.
+«Allora, Chiara. Guardiamo le **etichette**?»
 
-*Leo:* Adesso **la** **casa** parla italiano.
+«Sì. **La** **scatola** numero uno: KITCHEN.»
 
-Leo scrive una **parola** sul **foglio**.
+«**La** **cucina**! Perfetto!»
 
-*Leo:* **Tavolo**.
+«Numero due: BATHROOM.»
 
-Leo **mette** **il** **foglio** sul **tavolo**. Poi scrive una **parola** nuova.
+«Il **bagno**. Al **piano** di sopra.»
 
-*Leo:* **Sedia**.
+«Numero tre: BEDROOM.»
 
-Leo **mette** **il** **foglio** sulla **sedia**. Poi va alla **porta** del **bagno**.
+«Le **camere**! Al **piano** di sopra, come **il** **bagno**.»
 
-*Leo:* **Bagno**.
+Chiara continua con la lista. «Numero quattro: SHOES. Numero cinque: BOOKS. Numero sei: TOYS.»
 
-Leo **apre** **la** **porta** del **bagno**. Leo **mette** **il** **foglio** sulla **porta**.
+«Scarpe, libri, giochi. Tutte **cose** normali.»
 
-*Leo:* **Porta**.
+«Numero sette: LIVING ROOM.»
 
-E **mette** un **foglio** anche sulla porta d'ingresso.
+«Il **salotto**. Ma **il** **salotto** è pieno di **scatole**.»
 
-*Leo:* Porta d'ingresso.
+«Appunto. Numero otto: WINDOW?»
 
-*Emma:* Leo, basta.
+«Per **la** **finestra**? No, quella è una **cosa** **nuova** per me.»
 
-*Leo:* Ancora una cosa.
+Chiara guarda l'ultima **scatola**. «Numero nove: HALL. Numero dieci:… CAFFÈ?»
 
-Poi entra nella **camera** **grande**.
+«CAFFÈ! **La macchina del caffè**!»
 
-*Leo:* **Letto**.
+«Ben, questa **scatola** è **piccola**.»
 
-Leo **mette** **il** **foglio** sul **letto**.
+«**La macchina del caffè** è **piccola**? No. È **grande**.»
 
-*Leo:* **Finestra**.
+«Allora **la macchina del caffè** non è in questa **scatola**.»
 
-Leo **mette** **il** **foglio** sulla **finestra**. Emma lo guarda dalla **porta**.
+Ben apre la **scatola** con l'**etichetta** CAFFÈ. Dentro non c'è niente. «Vuota. La **scatola** è vuota.»
 
-*Emma:* Che ansia. Leo, un **nome** per tutto?
+«Ma c'è un **post-it** dentro.» Sul **post-it** c'è una parola: CAFFÈ.
 
-*Leo:* Sì. **La** **casa** è una cosa con un **nome**.
+«Questo **post-it** è di Leo»
 
-*Emma:* E **la** **camera**?
+«Certamente. Leo è l'**ospite**… no, Leo è l'etichettatore della **casa**.»
 
-*Leo:* Anche **la** **camera**.
+Ben guarda le **scatole** e pensa. «Chiara, dov'è **la** **mia** **camera**?»
 
-*Emma:* E **la** **sedia**?
+Chiara alza la testa. «**La** **tua** **camera**?»
 
-*Leo:* **La** **sedia** è **sedia**.
+«Sì. La macchina per le foto.»
 
-*Emma:* E **il** **bagno**?
+«Ben, in italiano **la** **camera** è una stanza!»
 
-*Leo:* **Il** **bagno** è **bagno**.
+«Una stanza?»
 
-Emma ride e va in **cucina**. Chiara **apre** **la** **porta** della **cucina**.
+Leo arriva dal **salotto** con il **gatto** in braccio. «Sì! **La** **camera** è la stanza con **il** **letto**!»
 
-*Chiara:* Che cos'è questo?
+«E la macchina per le foto?»
 
-Un **foglio** è sulla borsa di Chiara. Sul **foglio** la **parola** è questa: **mamma**.
+«Si dice macchina fotografica.»
 
-*Chiara:* **Mamma**.
+«Macchina fotografica»
 
-Chiara ride.
+Ben prende il quaderno giallo dalla tasca. Scrive una parola nuova e la numera. _Errore numero venti: **camera**. Ma una parola in più._ «Grazie, Leo. Buon sistema anche questo.»
 
-*Chiara:* Leo!
+«È il sistema delle **cose**.»
 
-*Leo:* **La** **parola** giusta.
+«E **il** **gatto**?»
 
-Leo prende un altro **foglio**. Lui **apre** **la** **porta** della **camera** **grande**. E scrive una **parola**.
+«**Il** **gatto** è un **ospite** con le zampe.»
 
-*Leo:* Il **nome** della **stanza**.
+Chiara si alza dal **divano**. «Adesso guardiamo nel **giardino**. La **scatola** **grande** è là.»
 
-Leo **mette** **il** **foglio** sulla **porta**. Sul **foglio**: "**camera** di Leo".
+«Come sai?»
 
-*Emma:* Ma dai!
+«Perché **la** **finestra** del **salotto** guarda **il** **giardino**. E io guardo sempre.» Ben guarda dalla **finestra**. Nel **giardino** c'è una **scatola** **grande** sul **tavolo** **piccolo**. Sulla **scatola** dorme **il** **gatto**.
 
-*Chiara:* Lunedì, Leo.
+«Il **gatto** dorme sulla **scatola**?»
 
-*Leo:* Sì. Ma adesso **la** **camera** è "camera di Leo".
+«Sì. È un **ospite**. **Il** **divano**, **il** **tavolo**, le **scatole**…»
 
-Chiara e Emma si guardano. Emma sorride.
+«Tutto è un letto per **il** **gatto**.»
 
-*Emma:* Va bene. **La** **camera** di Leo. Per lunedì.
+«Esatto. E **la** **chiave** del **giardino**?»
 
-In **casa** ogni cosa è una cosa con un **nome**.
+«**La** **chiave** è in **cucina**, sul **tavolo**.»
 
-*Leo:* Sì. **Il** **nome** italiano.
+Chiara prende **la** **chiave** dal **tavolo**. Apre **la** **porta** del **giardino**. **Il** **gatto** apre gli occhi. «Leo, tu prendi **il** **gatto**»
 
-## 4. Confessionale
+«Io?»
 
-> *Leo:* Allora. Io **metto** un **foglio** su tutto. **Il** **tavolo** è **tavolo**. **La** **sedia** è **sedia**. **La** **porta** è **porta**. È una cosa normale. I **nomi** sono importanti. Poi **la** **casa** parla italiano. **La** **casa** è grande? No. **La** **casa** è **piccola**. Ma **la** **casa** parla.
+«Sì. **Il** **gatto** è un **ospite** tuo.» «E io prendo **la** **scatola**.»
 
-Leo prende un **foglio** e guarda **la** **camera** grande.
+«E io?»
 
-> *Leo:* **La** **camera** grande è mia. **La** **finestra** di questa **camera** è bella. Io guardo il giardino da **la** **finestra**. Emma è **grande**. Io sono **piccolo**. Va bene. Io **metto** **il** **nome** su **la** **camera**: camera di Leo. Ma **la** **camera** è bella per tutti e due. Emma ha **il** **letto** grande, io ho **il** **letto** piccolo. E **la** **sedia**? **La** **sedia** è **sedia**. Pavarotti ha un **nome**. Anche **il** **tavolo** ha un **nome**. **Tavolo**. Ecco. Tutto ha un **nome** in **casa**.
+«Tu prendi **la macchina del caffè**. E fai un **caffè**.»
 
-## 5. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
+Leo prende **il** **gatto** in braccio. Chiara apre **la** **scatola** **grande**. Dentro c'è **la macchina del caffè**. Sulla macchina c'è un'**etichetta** bianca. Sull'**etichetta** c'è una parola in italiano: CAFFÈ.
 
-Qualcuno bussa alla **porta**. Ben **apre** la **porta**. È la signora Ornella Galli. Ha una torta in una mano e **il** **gatto** nell'altra.
+«Leo, questa **etichetta** è tua?»
 
-*Ben:* Buongiorno, signora Galli. Prego, entri.
+«Sì! **La** **cucina** è in inglese. **Il** **giardino** è in italiano.»
 
-*Ornella:* Buongiorno, signor Carter. La torta è per voi.
+«E **la** **macchina del caffè**?»
 
-*Ben:* Grazie. Molto gentile.
+«**La macchina del caffè** è una **cosa** importante. Quindi in italiano.»
 
-*Ornella:* E questo è Pavarotti.
+Ben guarda Chiara. Chiara ride. «Il sistema è internazionale»
 
-**Il** **gatto** è **grande** e grasso. **Il** **gatto** guarda **la** **casa** nuova.
+## 5. Via dei Tigli · sabato sera
 
-*Leo:* Signora Galli, come sta?
+È sabato sera in Via dei Tigli. Nelle **finestre** della **casa** numero quattordici c'è luce. Franco arriva con una busta di pomodori. Guarda **la** **casa**, **il** **giardino**, **la** **porta**. Poi suona il campanello.
 
-*Ornella:* Bene, Leo, grazie. Tu come stai?
+Ben apre **la** **porta**. «Buonasera» dice Franco. «Pomodori. Per Leo.»
 
-*Leo:* Bene. È **il** suo **gatto**?
+«Grazie! Leo è nel **salotto**. Con **il** **gatto**.»
 
-*Ornella:* Sì. Si chiama Pavarotti.
+Franco si ferma. «Con **il** **gatto**?»
 
-*Ben:* Il **nome** è… Pavarotti?
+«**Il** **gatto** della Signora Galli. Pavarotti è un **ospite**.»
 
-*Ornella:* Sì, signor Carter. **Il** **gatto** scappa sempre. Quando io **apro** **la** **finestra** del **giardino**, lui va via. Sempre. Ogni giorno.
+Franco guarda Ben e non dice niente. «Mah»
 
-*Ben:* Capisco.
+Chiara arriva dalla **cucina**. «Papà! Ciao.»
 
-Pavarotti salta giù dalle braccia di Ornella. Va in **cucina** e guarda **il** **tavolo**. Poi salta sul **divano** nel corridoio.
+«Ciao. Come va la **casa**?»
 
-*Leo:* Guarda! **Il** **gatto** è sul **divano**!
+«La **casa** è **grande**, ma la **cucina** è **piccola**. E il **salotto** è pieno di **scatole**.»
 
-*Ornella:* Pavarotti! Vieni qui!
+«E il **giardino**?»
 
-**Il** **gatto** non ascolta. **Il** **gatto** salta dal **divano** al **tavolo**.
+«Il **giardino** è bello. **La** **finestra** della **camera** **grande** guarda il **giardino**.»
 
-*Ornella:* Ah, **il** **gatto**. Sempre così.
+Franco entra in **cucina**. Guarda il **tavolo**, le **sedie**, il **muro**. Tocca il **muro** con una mano. «Il **muro** è vecchio» «E il **tavolo** è **piccolo** per quattro persone.»
 
-*Ben:* Il **tavolo** è **piccolo**, signora.
+«La **casa** è in affitto, papà.»
 
-*Ornella:* Sì? E **la** **casa**?
+«In affitto?»
 
-*Ben:* **La** **casa** è **piccola** anche lei.
+«Sì. Il **muro** resta così. Non è **cosa** nostra.»
 
-*Ornella:* **La** **cucina**?
+Franco guarda le **scatole** nel **salotto**. Sul **divano** c'è Leo con **il** **gatto**. «Ciao, nonno!»
 
-*Ben:* **La** **cucina** è **piccola**.
+«Ciao, Leo»
 
-*Ornella:* E **la** **finestra** della **cucina**?
+«Guarda! Pavarotti dorme sul **divano**!»
 
-*Ben:* **La** **finestra** è bella.
+Franco guarda **il** **gatto**. Poi guarda **il** **divano**. «Il **gatto** sul **divano**» dice piano. «Mah.»
 
-*Ornella:* Bene. **La** **finestra** è importante.
+Chiara apre una **scatola**. Dentro ci sono piatti e tazze. «Al **piano** di sopra le **camere** sono **piccole**»
 
-Leo guarda **il** **gatto** sul **tavolo**.
+«Le **camere** sono **piccole** e l'**armadio** è vecchio»
 
-*Leo:* Signora Galli, perché si chiama Pavarotti? Perché canta?
+«L'**armadio** è vecchio ma è **grande**.»
 
-Ornella sorride.
+«Una **casa** in affitto con un **armadio** vecchio.»
 
-*Ornella:* **Il** **nome** è di mio marito Gino. Gino dice sempre: **il** **gatto** canta. Canta come il cantante.
+«Per adesso va bene, papà.»
 
-*Leo:* Ah! **Il** **gatto** canta!
+«Mah»
 
-*Ornella:* Mah. Un po'.
+Ben arriva con tre tazze. «Ho… ecco, io faccio il **caffè**?»
 
-*Ben:* Molto interessante.
+«Il **caffè** è una **cosa** seria» dice Franco. «Non una **cosa** americana.»
 
-*Leo:* Ma **il** **gatto** è un **nome** strano.
+«L'americano fa il **caffè** con l'acqua» dice Chiara. «Come il tè.»
 
-*Emma:* Leo, non è il **nome**… è **il** **gatto**.
+«Mah»
 
-Emma arriva dalla **cucina**.
+Ben mette le tazze sul **tavolo**. Poi guarda Franco. «La **cucina** è **piccola**, ma **il** **tavolo** è **nuovo**.»
 
-*Emma:* Buongiorno, signora Galli.
+«**Il** **tavolo** è **nuovo**» dice Franco. «**Il** **muro** è vecchio. E **il** **giardino**?»
 
-*Ornella:* Buongiorno, Emma. Come stai?
+«Il **giardino** è **grande**. E **il** **gatto** dorme sul **tavolo** **piccolo** nel **giardino**.»
 
-*Emma:* Bene, grazie.
+Franco guarda **il** **giardino** dalla **finestra**. «Il **gatto** dorme dappertutto» dice. «Come i bambini.»
 
-**Il** **gatto** salta dal **tavolo** al **divano**. Poi si siede e guarda **il** **giardino**.
+Franco prende la busta vuota. Va verso **la** **porta**. «Grazie, papà»
 
-*Leo:* Guarda **il** **giardino**!
+«Pomodori per Leo. Non per l'americano.»
 
-*Ornella:* Pavarotti ama **il** **giardino**. E ama **la** **finestra**. Quando io **apro** **la** **finestra**, lui **trova** **la** **porta**.
+«Ma i pomodori sono **cosa** di famiglia» dice Ben. «Come il **caffè**!»
 
-*Leo:* **Trova** **la** **porta**?
+Franco si ferma **alla** **porta**. «Mah»
 
-*Ornella:* Sempre. **La** **porta** o **la** **finestra**.
+Chiara chiude **la** **porta**. Guarda **il** **salotto**: le **scatole**, **il** **divano**, **il** **gatto**, **il** **muro**. «Papà ha ragione su una **cosa**.»
 
-*Ben:* Signora Galli, il **gatto** può restare qui.
+«Quale **cosa**?»
 
-*Ornella:* Ah, sì?
+«La **casa** è **piccola** per noi. **La** **cucina**, le **camere**, l'**armadio**…» _E **la** **casa** è in affitto. Un giorno compriamo una **casa** **nuova**._
 
-*Ben:* Sì. Un'ora.
+«Anche se **il** **muro** è vecchio?»
 
-Ornella guarda Ben.
+«Soprattutto per questo.»
 
-*Ornella:* Un'ora. Sì. La ringrazio, signor Carter.
+## 6. Casa Carter, Via dei Tigli 14 · domenica mattina
 
-*Ben:* Prego, signora Galli.
+È domenica mattina. **Il** **gatto** non è più in **casa**. **La** **casa** è tranquilla. Sul **tavolo** della **cucina** c'è **la macchina del caffè**.
 
-*Ornella:* Allora vado. Grazie.
+Ben entra in **cucina** e guarda la macchina. Sopra c'è un **post-it**. Sul **post-it** c'è una parola: PAVAROTTI. «Leo!» chiama Ben. «Perché c'è un **post-it** sulla **macchina del caffè**?»
 
-Ornella va alla **porta**. Leo **apre** **la** **porta** per lei.
+Leo arriva con la maglietta storta. «Perché Pavarotti è un **ospite** importante!»
 
-*Leo:* Signora Galli, **la** **porta** è aperta.
+«Ma **il** **gatto** non è qui. **Il** **gatto** è a **casa** sua.»
 
-*Ornella:* Grazie, Leo. Sei gentile.
+«Lo so. Ma **una** **cosa** importante ha un nome.»
 
-Ornella esce e **la** **porta** resta aperta. **Il** **gatto** è sul **divano**. **Il** **gatto** dorme.
+«Un nome su un **post-it**.»
 
-*Leo:* Papà, guarda! **Il** **gatto** dorme sul **divano**!
+«Sì. È **il** **sistema**.»
 
-*Ben:* Sì. Un'ora.
+Chiara arriva in **cucina** con i capelli bagnati. «Buongiorno. **Il** **caffè**?»
 
-**Il** **gatto** dorme e non **trova** **la** **porta**.
+«**La macchina del caffè** funziona!»
 
-*Leo:* **La** **casa** ha un **gatto**.
+«Davvero?»
 
-*Ben:* Sì. Un'ora.
+«Sì. E il primo **caffè** nella **casa** **nuova** è per te.»
 
-In **cucina**, **il** **tavolo** è vuoto. **Il** **giardino** è **piccolo**, ma c'è **il** **gatto**.
+Ben prepara il **caffè**. La macchina fa un rumore forte, poi un rumore piano. Poi un odore buono nel **cucina**. «Perfetto!» dice Ben. «Come a Chicago!»
 
-*Leo:* Anche **il** **gatto** ha un **nome**.
+«Meglio»
 
-*Ben:* Sì. Pavarotti.
+«Perché in piedi?»
 
-*Leo:* **Il** **nome** è bello.
+«C'è una **sedia** sola in **cucina**.»
 
-**La** **casa** è **piccola**, ma adesso ha **il** **gatto**.
+Leo prende un **post-it** **nuovo**. Scrive una parola e va verso **la** **porta**. Attacca il **post-it** sulla **porta**. Sul **post-it** c'è una parola: CASA.
 
-## 6. Confessionale
+«Leo, ora la **porta** si chiama CASA?»
 
-> *Ornella:* Sulla strada tutti hanno una **casa**. Ma non tutti hanno la **casa** giusta. **La** **casa** dei Carter? **Piccola**. **La** **cucina**? **Piccola**. **Il** **giardino**? **Piccolo**. Ma **la** **casa** è piena di vita.
+«Sì. **La** **porta** è **la** **porta** di **casa**.»
 
-Ornella guarda verso la casa dei Carter.
+«Ma **la** **casa** è qui. **La** **casa** è tutto.»
 
-> *Ornella:* **Il** **gatto** è un **nome** importante. Pavarotti. Come il cantante. Io lascio **il** **gatto** libero. Lui **apre** **la** **finestra**? No. **Apre** **la** **porta**? No. Ma **trova** sempre la strada di **casa**. **Trova** **la** **finestra**, **trova** **la** **porta**. È un **gatto** intelligente. **Il** **gatto** lo sa. **La** **casa** dei Carter è **piccola** e simpatica. E **il** **gatto** è **il** **gatto**. Un'ora. Sì.
+«Esatto!»
 
-## 7. Casa Carter, Via dei Tigli 14 · sabato sera
+«**La** **cucina** è in inglese. Il **giardino** è in italiano. E **la** **porta**?»
 
-È sabato sera. La casa è silenziosa. In cucina la lampada è piccola. Chiara è in cucina con una matita.
+«In italiano. **La** **porta** è importante.»
 
-*Chiara:* **La** **cucina** è **piccola**. Ma **la** **finestra** è bella.
+Ben guarda **il** **post-it** sulla **porta**. Poi guarda **la** **scatola** sotto **l'armadio**. _Un **post-it** CASA sulla **porta**. E una **scatola** ancora chiusa. Ma va bene._ «Non lo tolgo» dice Ben. «È **una** **cosa** **grande**.»
 
-Chiara guarda **il** **tavolo** e **le** **sedie**.
+«Che **cosa**?»
 
-*Chiara:* **Il** **tavolo** è qui. **Le** **sedie** sono qui. E **la** **finestra** è qui.
-
-**Le** **sedie** sono vecchie, ma belle. Chiara scrive sulla lista. Ben arriva dal **corridoio**. Ha due **scatole** **pesanti**.
-
-*Ben:* Ecco! Due **scatole** **pesanti**!
-
-Ben **mette** le **scatole** sul **tavolo**. **Il** **tavolo** è **piccolo**. **Le** **scatole** sono **grandi**.
-
-*Chiara:* Ben, **il** **tavolo** è **piccolo**.
-
-*Ben:* Lo so. Ma le **scatole** sono **pesanti**.
-
-*Chiara:* Le **scatole** sono sempre **pesanti**.
-
-*Ben:* È vero.
-
-Ben guarda le **scatole** nel **corridoio**.
-
-*Ben:* Otto **scatole**. Otto.
-
-*Chiara:* Sì. Otto.
-
-*Ben:* Otto **scatole** in **cucina**?
-
-*Chiara:* No. Nel **corridoio**, per adesso.
-
-Ben guarda la **cucina**. Poi guarda il **corridoio**.
-
-*Ben:* Allora. Primo: apriamo le **scatole**. Secondo: **mettiamo** tutto in **cucina**.
-
-*Chiara:* Tutto in **cucina**?
-
-*Ben:* Sì. Terzo: la **caffettiera**.
-
-*Chiara:* Ben, la **caffettiera** non è in **cucina**.
-
-*Ben:* Come?
-
-*Chiara:* La **caffettiera** non è in **cucina**.
-
-Ben **apre** una **scatola**. Sulla **scatola** c'è una **parola** in inglese.
-
-*Ben:* BATHROOM. **Il** **bagno**.
-
-Ben **cerca** nella **scatola** del **bagno**.
-
-*Ben:* Dov'è la **caffettiera**?
-
-Nella **scatola** non c'è la **caffettiera**. C'è un **quaderno**.
-
-*Ben:* **Il** **quaderno**!
-
-*Chiara:* **Il** **quaderno** delle **parole**?
-
-*Ben:* Sì. **Il** **quaderno** delle **parole** italiane.
-
-Sul **quaderno** ci sono dieci **parole**.
-
-*Ben:* Dieci **parole**. Dieci!
-
-*Chiara:* Sì. Dieci **parole** nuove.
-
-*Ben:* **Casa**, **cucina**, **bagno**…
-
-*Chiara:* … **camera**, **letto**, **tavolo**, **sedia**, **finestra**.
-
-*Ben:* E **caffettiera**!
-
-*Chiara:* **Caffettiera** no. La **caffettiera** non è nel **quaderno**.
-
-Ben **apre** **il** **quaderno**. Sul **quaderno** c'è una **parola** nuova.
-
-*Ben:* Che **parola** è questa?
-
-*Chiara:* "**Casa**".
-
-*Ben:* **Casa**. La **casa**.
-
-Chiara prende la lista. Sulla lista ci sono le **stanze**.
-
-*Chiara:* Ecco le **stanze**. La **cucina**, il **bagno**, le **camere**. E il **corridoio**.
-
-*Ben:* E il **letto**?
-
-*Chiara:* Il **letto** è nella **camera**.
-
-*Ben:* Il **letto** non è nel **corridoio**?
-
-*Chiara:* No, Ben. Il **letto** è nella **camera**.
-
-Ben guarda la **camera** dalla **porta**. La **camera** **piccola** ha una **finestra** **piccola**. La **camera** **grande** ha una **finestra** **grande**.
-
-*Ben:* La **camera** **grande** è di Emma?
-
-*Chiara:* Mah. Vediamo lunedì.
-
-*Ben:* La **camera** **piccola** è **piccola**.
-
-*Chiara:* Sì. Ma il **letto** è nuovo.
-
-Chiara guarda Ben.
-
-*Chiara:* Ben, la **casa** è in affitto.
-
-*Ben:* Sì. Lo so.
-
-*Chiara:* La **casa** è **piccola** per quattro persone.
-
-Ben non parla. Guarda il **corridoio**, le **scatole**, la **porta**.
-
-*Ben:* Ma è **casa**.
-
-Chiara sorride.
-
-*Chiara:* Sì. È **casa**.
-
-Poi Chiara scrive ancora sulla lista.
-
-*Chiara:* La **cucina** è **piccola**, ma è bella.
-
-*Ben:* Anche la **finestra** è bella.
-
-*Chiara:* Sì. La **finestra** è bella.
-
-Ben **apre** un'altra **scatola**. Questa **scatola** è **pesante**.
-
-*Ben:* **Pesante**. Questa **scatola** è **pesante**.
-
-Dentro ci sono i libri. Solo libri.
-
-*Ben:* Libri. Ancora libri.
-
-*Chiara:* I libri sono per la **camera**?
-
-*Ben:* No. I libri sono per il **corridoio**.
-
-*Chiara:* Ben!
-
-*Ben:* Va bene. I libri sono per la **cucina**?
-
-*Chiara:* No!
-
-Ben ride. Chiara ride anche lei.
-
-*Ben:* Allora, dove **metto** i libri?
-
-*Chiara:* Nel **corridoio**, per adesso.
-
-*Ben:* Perfetto!
-
-Ben porta i libri nel **corridoio**. Poi va al **bagno**. La **porta** del **bagno** è aperta. Sulla **porta** c'è un **foglio** **piccolo**.
-
-*Ben:* **Bagno**.
-
-*Chiara:* È di Leo.
-
-*Ben:* Leo **mette** i **nomi** su tutto.
-
-*Chiara:* Sì. Su tutto.
-
-Ben guarda il **foglio** e sorride.
-
-*Ben:* **Bagno**. Leo ha ragione.
-
-Ben torna in **cucina**. Sul **tavolo** c'è il **quaderno**.
-
-*Ben:* La **parola** nuova è "**casa**".
-
-*Chiara:* Sì. La **parola** nuova è "**casa**".
-
-*Ben:* La **parola** "**casa**" è una bella **parola**.
-
-*Chiara:* Sì. È la **parola** giusta.
-
-Chiara **mette** la matita sul **tavolo**.
-
-*Chiara:* Buonanotte, Ben.
-
-*Ben:* Buonanotte.
-
-La **cucina** è **piccola**, ma è calda.
-
-## 8. Casa Carter, Via dei Tigli 14 · domenica mattina
-
-È domenica mattina. In **casa** c'è silenzio. Poi Leo **apre** **la** **porta** della **camera** **grande**.
-
-*Emma:* Leo, buongiorno.
-
-*Leo:* Buongiorno, Emma.
-
-Emma e Leo hanno i **fogli** in mano.
-
-*Emma:* Allora. **La** **camera** **grande** è per tutti e due.
-
-*Leo:* Sì. Ma **il** **letto** **grande** è tuo.
-
-*Emma:* E **il** **letto** **piccolo** è tuo.
-
-*Leo:* Va bene.
-
-Leo **mette** un **foglio** sulla **porta**.
-
-*Leo:* "**Camera** di Emma e Leo".
-
-*Emma:* **Il** **nome** è lungo.
-
-*Leo:* Sì. Ma è **il** **nome** giusto.
-
-Emma **mette** un **foglio** sul **letto** **grande**.
-
-*Emma:* **Il** **letto** di Emma.
-
-Leo **mette** un **foglio** sul **letto** **piccolo**.
-
-*Leo:* **Il** **letto** di Leo.
-
-*Emma:* E **la** **finestra**?
-
-*Leo:* **La** **finestra** è **finestra**.
-
-*Emma:* Perfetto.
-
-Nella **stanza** ci sono due **letti**, una **finestra** e dieci **fogli**.
-
-*Leo:* Adesso **la** **camera** è bella.
-
-*Emma:* Sì. Anche **la** **camera** **piccola** è bella?
-
-*Leo:* Mah. Sì.
-
-Poi Leo guarda **il** **corridoio**.
-
-*Leo:* Emma, dov'è papà?
-
-*Emma:* Nel **corridoio**. **Cerca** la **caffettiera**.
-
-*Leo:* Ancora?
-
-*Emma:* Ancora.
-
-Nel **corridoio** Ben **apre** una **scatola** **grande** e **pesante**.
-
-*Ben:* Dov'è la **caffettiera**? Io non **trovo** la **caffettiera**.
-
-Ben **cerca** nella **scatola**. Nella **scatola** ci sono solo libri.
-
-*Ben:* Libri. Ancora libri.
-
-*Chiara:* Ben, buongiorno.
-
-*Ben:* Buongiorno. Io **cerco** la **caffettiera**.
-
-*Chiara:* Lo so. Tu **cerchi** la **caffettiera** ogni giorno.
-
-*Ben:* Sì. **Caffettiera**, **caffettiera**, **caffettiera**.
-
-Ben guarda sotto **il** **divano**. Sotto **il** **divano** c'è una **parola**.
-
-*Ben:* Che cos'è? Un **foglio**! **La** **parola** è "**divano**".
-
-*Chiara:* È di Leo.
-
-*Ben:* Leo **mette** i **nomi** su tutto.
-
-*Chiara:* Sì. Su tutto.
-
-Ben **cerca** nella seconda **scatola**. Niente **caffettiera**.
-
-*Ben:* Niente.
-
-*Leo:* Papà! La **caffettiera** è nel **bagno**!
-
-*Ben:* Nel **bagno**?
-
-*Leo:* Sì. Nel **bagno**.
-
-Ben va al **bagno**. **La** **porta** è aperta e **il** **gatto** è nella **scatola**.
-
-*Ben:* **Il** **gatto**!
-
-Pavarotti dorme in una **scatola**.
-
-*Ben:* Leo, **il** **gatto** è nella **scatola**.
-
-*Emma:* **Il** **gatto** è nella **scatola**?
-
-*Leo:* Sì! E la **caffettiera** è nella **scatola**!
-
-Ben guarda nella **scatola**. **Il** **gatto** dorme. E sotto **il** **gatto** c'è la **caffettiera**.
-
-*Ben:* La **caffettiera**! La **caffettiera** è nella **scatola**. **Il** **gatto** è nella **scatola**. Tutto è nella **scatola**!
-
-Emma e Leo ridono.
-
-*Leo:* **Il** **gatto** non **apre** **la** **scatola**?
-
-*Emma:* No, Leo. **Il** **gatto** dorme.
-
-Ben prende la **caffettiera** dalla **scatola**. La **caffettiera** è **grande** e **pesante**.
-
-*Ben:* **Grande** e **pesante**.
-
-*Chiara:* Ben, **la** **casa** è **piccola**. Ma la **caffettiera** è qui.
-
-*Ben:* Sì. La **caffettiera** è qui.
-
-*Chiara:* **Il** **gatto** è qui.
-
-*Ben:* Sì. **Il** **gatto** è qui.
-
-*Chiara:* E **la** **stanza** è piena.
-
-Tutti guardano **la** **stanza** **piccola**. **Il** **tavolo**, **la** **sedia**, **la** **finestra**, **la** **scatola**, **il** **gatto**. Ben **mette** la **caffettiera** sul **tavolo**.
-
-*Ben:* Perfetto!
-
-*Emma:* Papà, **il** **quaderno**!
-
-Emma prende **il** **quaderno** di Ben.
-
-*Emma:* **La** **parola** nuova è "**caffettiera**".
-
-*Leo:* No, "**gatto**"!
-
-*Emma:* No, "**caffettiera**".
-
-*Leo:* "**Gatto**" è una **parola** bella.
-
-Leo scrive "**caffettiera**" sul **quaderno**. Poi scrive "**gatto**".
-
-*Leo:* Ecco. Due **parole** nuove.
-
-*Ben:* Due **parole**.
-
-*Chiara:* E la **caffettiera** è qui.
-
-*Ben:* E **il** **gatto** è qui.
-
-Tutti ridono. **La** **casa** è **piccola**. Ma è domenica e in **casa** c'è il caffè.
-
-## 9. Casa Carter, Via dei Tigli 14 · domenica mattina
-
-È domenica mattina in **casa**. La **cucina** è piena di luce. Leo **apre** la **porta** della **cucina**.
-
-*Leo:* **Cucina**. Un **nome** per tutto.
-
-**La casa** è piccola, ma piena di **nomi**. Sulla **porta** c'è un **foglio** con una **parola**.
-
-*Chiara:* Leo, **la casa** parla italiano.
-
-*Leo:* Sì. E anche **il gatto**.
-
-*Ben:* Ecco la **caffettiera**!
-
-Ben la **mette** sul **tavolo**. Poi la guarda come un trofeo.
-
-*Chiara:* Ben, **il tavolo** è piccolo.
-
-*Ben:* Sì. Ma la **casa** è bella.
-
-*Chiara:* Sì. La **casa** è bella.
-
-Poi Ben **apre** la **porta** del **giardino**. **Il gatto** entra in cucina.
-
-*Leo:* Guarda! **Il gatto** si siede sulla **sedia**.
-
-*Ben:* **Il gatto** è sulla **sedia**.
-
-*Leo:* Adesso la **sedia** è del **gatto**.
-
-*Chiara:* Perfetto.
-
-*Ben:* Perfetto!
-
-**Il gatto** dorme sulla **sedia**, vicino al **tavolo**. La **casa** è piccola, ma è piena.
-
-*Leo:* Papà, dov'è la **scatola**?
-
-*Ben:* La **scatola** è nel **corridoio**. E la **caffettiera** è sul **tavolo**.
-
-*Chiara:* La **scatola** è vuota, la **casa** è piena.
-
-*Leo:* La **casa** è piena di **nomi**.
-
-*Chiara:* E di **gatti**.
-
-**Il gatto** **apre** un occhio e guarda la **cucina**.
-
-*Leo:* **Cucina**.
-
-*Ben:* **Cucina**. Perfetto!
+«**La** **casa**.» Chiara beve il **caffè** e sorride.

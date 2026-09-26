@@ -1,90 +1,110 @@
-# Definite articles: *il, lo, la, l', i, gli, le*
+# Definite Articles: *il, lo, la, l', i, gli, le*
 
 ## What it is
 
-In English there are two little words you put in front of a noun when you mean a *specific* thing: **the**. Italian has the same idea, but the word for "the" changes. It has **seven** common forms: **il, lo, la, l', i, gli, le**. Which one you use depends on two things: the **gender** of the noun (masculine or feminine) and its **number** (singular or plural). Sometimes it also depends on the **sound** the noun starts with.
+In English we have one word for "the". Italian has seven — well, one of them is a contracted form — and which one you use depends on the **gender** (masculine or feminine) and the **number** (singular or plural) of the noun, plus the **sound the noun starts with**.
 
-Italian uses articles much more often than English. Where an English speaker might say "Houses are expensive" with no article, Italian normally says *Le case sono care*. And where English says "my house", Italian says *la mia casa*.
+The good news: you already know the nouns. This lesson just tells you which little word stands in front of them. And the definite article is used *more* in Italian than in English: Italian says *la casa* where English often says just "home".
 
 ## How it works
 
 ### Singular
 
-| Form | Use it with | Examples |
+| Article | Used with | Examples |
 |---|---|---|
-| **il** | masculine, starts with a consonant (not *s* + consonant, not *z*) | **il** libro, **il** tavolo, **il** gatto |
-| **lo** | masculine, starts with *s* + consonant, *z*, *ps*, *gn*, *y* | **lo** studente, **lo** zaino, **lo** psicologo |
-| **la** | feminine, starts with any consonant | **la** casa, **la** cucina, **la** sedia |
-| **l'** | masculine or feminine, starts with a vowel | **l'**amico, **l'**amica, **l'**ora |
+| **il** | masculine, starts with a consonant | **il** tavolo, **il** muro, **il** gatto, **il** caffè |
+| **lo** | masculine, starts with s + consonant, z, gn, ps, x, y | **lo** studente, **lo** zaino, **lo** psicologo |
+| **l'** | masculine or feminine, starts with a vowel | **l'**armadio, **l'**ospite, **l'**etichetta, **l'**italiano |
+| **la** | feminine, starts with a consonant | **la** casa, **la** cucina, **la** porta, **la** finestra |
 
-So: *lo* and *la* lose their vowel to become *l'* before a vowel. *Il* never does: *il libro* → *l'*libro* is wrong; it stays **il** (or becomes **lo** only in front of *s* + consonant and the sounds above).
+Note that **l'** replaces both *lo* and *la* before a vowel. You don't need to know whether *armadio* is masculine to write *l'armadio* — you only need to see the vowel.
 
 ### Plural
 
-| Form | Use it with | Examples |
+| Article | Used with | Examples |
 |---|---|---|
-| **i** | masculine plural of words that take *il* | **i** libri, **i** tavoli, **i** gatti |
-| **gli** | masculine plural of words that take *lo*, and all masculine nouns starting with a vowel | **gli** studenti, **gli** zaini, **gli** amici |
-| **le** | all feminine plurals | **le** case, **le** camere, **le** sedie |
+| **i** | masculine plural, ordinary consonants | **i** tavoli, **i** muri, **i** gatti, **i** caffè |
+| **gli** | masculine plural before a vowel, or before s + consonant, z, gn | **gli** armadi, **gli** ospiti, **gli** studenti |
+| **le** | all feminine plurals | **le** case, **le** sedie, **le** finestre, **le** etichette |
 
-Notice: **gli** covers two jobs. It is the plural of both *lo* (lo studente → gli studenti) and *l'* (l'amico → gli amici).
+The plural articles never shorten. *Gli* is the only one that ends up looking like a contraction, but it is a full form.
 
-### When to use "the"
+### The trap of the vowel at the start
 
-Use the article when you mean a specific thing or things, and use it in several places English doesn't:
+Compare:
 
-- **General truths:** *La casa è piccola.* (The house is small — this particular house.)
-- **With possessive adjectives:** *la mia camera*, *il tuo nome*.
-- **With languages and school subjects:** *L'italiano è bello.*
-- **With titles before a name:** *la signora Galli*, *il signor Carter*.
+- *la casa* → *le case*
+- *l'etichetta* → *le etichette*
+- *l'armadio* → *gli armadi*
+- *l'ospite* → *gli ospiti*
+
+In the singular, the vowel hides the gender. In the plural, the gender comes back: **le** for feminine, **gli** for masculine. If you are unsure, go to the plural and listen.
 
 ## From the story
 
-“La **casa** è piena di **scatole**.” — The **house** is full of **boxes**. (`s01e03-1-002`) — **la** with a feminine noun starting with a consonant; **scatole** takes no article because it isn't specific here.
+«Ben, perché le **etichette** sono in inglese?» — “Ben, why are the **labels** in English?” (`s01e03-1-011`)
+*Feminine plural: **le** before a consonant, and the noun is *etichette* (plural of *etichetta*).*
 
-“Il **tavolo** è pieno di **scatole** piccole.” — The **table** is full of small **boxes**. (`s01e03-1-026`) — **il** with a masculine noun starting with a simple consonant.
+«Questo è **il** **tavolo**.» — “This is **the** **table**.” (`s01e03-1-015`)
+*Masculine singular, ordinary consonant: **il** tavolo.*
 
-“**Le** **sedie** sono vecchie, ma belle.” — **The** **chairs** are old, but nice. (`s01e03-7-010`) — **le** for a feminine plural.
+«Queste sono **le** **sedie**. E questa è **la** **finestra**.» — “These are **the** **chairs**. And this is **the** **window**.” (`s01e03-1-017`)
+*Two feminine forms in one line: plural **le** sedie, singular **la** finestra.*
 
-“La **porta** del **bagno** è aperta.” — The **bathroom** **door** is open. (`s01e03-7-106`) — **la** + **il** in one phrase: *la porta* / *il bagno*.
+«**La** **casa** ha tre **camere**, un **bagno**, un **salotto** e un **giardino**» — “**The** **house** has three **bedrooms**, a **bathroom**, a **living room** and a **garden**,” says Chiara. (`s01e03-1-021`)
+*Four definite articles in a row, all masculine or feminine singular with a consonant.*
 
-“**Il** **gatto** è un **nome** importante.” — **The** **cat** is an important **name**. (`s01e03-6-008`) — **il** with *gatto*; *un* is an indefinite article, the "a" version.
+«Le **camere** sono al **piano** di sopra. E **il** **giardino** è dietro **la** **porta**.» — “The **bedrooms** are on the **floor** above. And **the** **garden** is behind **the** **door**.” (`s01e03-1-022`)
+*The same word appears twice: **le** camere (plural) and then **il** giardino (singular masculine).*
 
-“Lui **apre** **la** **finestra**? No.” — Does he **open** **the** **window**? No. (`s01e03-6-011`) — **la** with *finestra*, a normal feminine noun.
+«Perché è **il** **muro**! Adesso **il** **muro** ha un nome!» — “Because it's **the** **wall**! Now **the** **wall** has a name!” (`s01e03-1-057`)
+*Masculine singular **il**, and the noun *muro* keeps it in the plural too: i muri.*
 
-“Lo so, Leo. La **casa** è **piccola**.” — I know, Leo. The **house** is **small**. (`s01e03-1-033`) — **la** again; the same noun keeps the same article every time.
+«**La** **chiave** della **porta** è sul **tavolo**» — “**The** **key** of **the** **door** is on **the** **table**,” she says. (`s01e03-1-062`)
+*Three articles: **la** chiave, **la** porta (inside *della*), **il** tavolo (inside *sul*).*
 
-“Bene. **La** **finestra** è importante.” — Good. **The** **window** is important. (`s01e03-5-038`) — **la** before a feminine noun starting with a consonant.
+«Ai miei tempi i **gatti** sono **ospiti**. Non animali, **ospiti**.» — “In my day **cats** are **guests**. Not animals, **guests**.” (`s01e03-3-013`)
+*Masculine plural **i** before a consonant, and **gli** before the vowel of *ospiti*.*
+
+**L'armadio** è **nuovo**. Dentro c'è una **scatola**. — **The** **wardrobe** is **new**. Inside there's a **box**. (`s01e03-2-037`)
+*The apostrophe: **l'** armadio because the noun begins with a vowel.*
+
+«La **casa** è in affitto, papà.» — “The **house** is rented, Dad.” (`s01e03-5-025`)
+*A reminder that Italian wants the article here, where English says "the house is rented" too — but note that English would happily say "home" in many related sentences.*
 
 ## Common mistakes English speakers make
 
-1. **Dropping the article.** English says "Life is beautiful"; Italian says *La vita è bella*. If you mean a specific or general thing, you usually need the article.
-2. **Using *il* before *s* + consonant.** It is *lo studente*, not *il studente* — and *gli studenti* in the plural.
-3. **Making *l'* before any vowel in the plural.** *L'amico* is singular; the plural is *gli amici*, not *l'amici*.
-4. **Forgetting that the article agrees in number as well as gender.** *La casa* → *le case*; *il libro* → *i libri*.
-5. **Keeping the article with a name.** You say *la signora Galli*, but not *la Chiara*.
-6. **Using *le* for masculine plurals.** *Le libri* is always wrong; it's *i libri*.
+1. **Using *il* for everything masculine.** *il armadio* and *il ospite* are wrong: before a vowel you need **l'** (and in the plural, **gli**).
+2. **Forgetting the article in the plural.** English can say "boxes are in the living room"; Italian says *le scatole sono nel salotto*.
+3. **Writing *lo* before an ordinary consonant.** *lo tavolo* is wrong — that's **il** tavolo. *Lo* only exists for the awkward sounds (s + consonant, z, gn).
+4. **Writing *i* before a vowel.** *i amici* is wrong: **gli amici**.
+5. **Using *la* before a vowel.** *la etichetta* is wrong: **l'etichetta**.
+6. **Assuming *-a* means feminine.** Many nouns in *-a* are feminine (*casa, cucina*), but not all words ending in *-a* are — for example *il problema*, *il programma*. Learn the article together with the noun.
 
 ## Practice
 
-Choose the correct article.
+Fill in the correct definite article.
 
-1. ___ cucina è piccola.
-2. ___ tavolo è nuovo.
-3. ___ sedia è vecchia.
-4. ___ gatto dorme sulla sedia.
-5. ___ stanza è piena di scatole.
-6. ___ case sono piccole.
-7. ___ libri sono sul tavolo.
-8. ___ amici di Leo sono a scuola.
+1. ___ casa è grande.
+2. ___ cucina è piccola.
+3. ___ tavolo è nuovo.
+4. ___ sedie sono vecchie.
+5. ___ finestra guarda il giardino.
+6. ___ armadio è vecchio.
+7. ___ etichette sono in inglese.
+8. ___ ospiti dormono sul divano.
+9. ___ gatto dorme sulla scatola.
+10. ___ porta di casa è aperta.
 
 ### Answer key
 
-1. **La** cucina è piccola.
-2. **Il** tavolo è nuovo.
-3. **La** sedia è vecchia.
-4. **Il** gatto dorme sulla sedia.
-5. **La** stanza è piena di scatole.
-6. **Le** case sono piccole.
-7. **I** libri sono sul tavolo.
-8. **Gli** amici di Leo sono a scuola.
+1. **La** casa è grande.
+2. **La** cucina è piccola.
+3. **Il** tavolo è nuovo.
+4. **Le** sedie sono vecchie.
+5. **La** finestra guarda il giardino.
+6. **L'** armadio è vecchio.
+7. **Le** etichette sono in inglese.
+8. **Gli** ospiti dormono sul divano.
+9. **Il** gatto dorme sulla scatola.
+10. **La** porta di casa è aperta.
