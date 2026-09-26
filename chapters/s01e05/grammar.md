@@ -1,112 +1,104 @@
-# Avere: "to have" — and all the things Italian says you *have*
+# Avere: "to have" (and everything you *have* in Italian)
 
 ## What it is
 
-*avere* means "to have". But in Italian it does much more work than that. Many things English says you *are* — hungry, thirsty, cold, afraid, right — Italian says you **have**:
-
-- I **am** hungry → **Ho** fame (literally: I **have** hunger)
-- I **am** afraid → **Ho** paura (I **have** fear)
-- I **am** right → **Ho** ragione (I **have** reason)
-
-So when an Italian says *Ho fame*, they are not saying they own hunger. They are saying they are hungry. Same meaning as English, different body part of speech.
-
-*avere* is also how you give your age: **Ho** quarantun anni — "I **have** forty-one years".
+*Avere* means "to have". You use it for real possessions (*Ho un quaderno* — I have a notebook) and for people in your life (*Ho due fratelli* — I have two brothers). But Italian also uses *avere* for many things English says with "to be": hunger, thirst, fear, sleepiness, age. In Italian you don't *are* hungry — you **have** hunger. Once you see that, half of everyday Italian opens up.
 
 ## How it works
 
 The present tense of *avere*:
 
-| pronoun | avere | meaning |
+| Pronoun | Form | Meaning |
 |---|---|---|
-| io | **ho** | I have |
-| tu | **hai** | you have |
-| lui / lei | **ha** | he / she has |
-| noi | **abbiamo** | we have |
-| voi | **avete** | you (plural) have |
-| loro | **hanno** | they have |
+| io | ho | I have |
+| tu | hai | you have |
+| lui / lei | ha | he / she has |
+| noi | abbiamo | we have |
+| voi | avete | you (all) have |
+| loro | hanno | they have |
 
-Watch the spelling: *ho*, *hai*, *ha*, *hanno* all begin with **h**. The *h* is silent — it is only there to keep these words separate from *o* ("or"), *ai* ("to the"), *a* ("to"), *anno* ("year"). Never pronounce it.
+The *h* is silent. It is there to keep *ho*, *hai*, *hanno* separate from *o* ("or"), *ai* ("to the"), *anno* ("year").
 
-The common *avere* expressions in this chapter:
+## Avere expressions
+
+These are fixed phrases: **avere** + a noun, with **no article**.
 
 | Italian | English |
 |---|---|
 | avere fame | to be hungry |
 | avere sete | to be thirsty |
+| avere sonno | to be sleepy |
 | avere paura (di) | to be afraid (of) |
+| avere freddo | to be cold |
+| avere caldo | to be hot |
+| avere fretta | to be in a hurry |
 | avere ragione | to be right |
 | avere torto | to be wrong |
-| avere freddo / caldo | to be cold / hot |
-| avere sonno | to be sleepy |
-| avere fretta | to be in a hurry |
 | avere ... anni | to be ... years old |
 
-Only *avere* changes. The noun stays fixed: *io ho fame*, *tu hai fame*, *loro hanno fame*. You never say *sono fame*.
-
-For age, there is one rule English speakers must memorise: use *avere*, never *essere*. *Ho quarantun anni* = "I am forty-one". Asking is *Quanti anni hai?* — "How many years do you have?".
+For age, the whole pattern is *avere* + number + *anni*: *Ho quarantuno anni* — I am forty-one.
 
 ## From the story
 
-“**Ho fame**.” — **I'm hungry**. (`s01e05-1-004`)
-— Ben's first line of the episode, and his answer to everything. Subject *io* is dropped; *ho* already tells us who.
+«La **famiglia**. Il **padre**. La **madre**. Il **fratello**. La **sorella**.» — “The **family**. The **father**. The **mother**. The **brother**. The **sister**.” (`s01e05-1-005`)
+Family words come straight after the article — this is how Ben revises his notebook.
 
-“Leo, anche tu **hai fame**?” — Leo, are **you hungry** too? (`s01e05-1-012`)
-— *avere fame* with *tu*, plus *anche* ("also"). The noun *fame* does not change for the new person.
+«Allora, americano. Quanti **fratelli** hai?» — “So, American. How many **brothers** do you **have**?” (`s01e05-2-019`)
+A question with *avere*: *quanti* + noun + *hai*.
 
-“No. Io **ho sete**.” — No. **I'm thirsty**. (`s01e05-1-013`)
-— Leo swaps *fame* for *sete*. Same verb, different need.
+«**Ho** quarantuno **anni**.» — “**I'm** forty-one **years** old.” (`s01e05-2-043`)
+Age uses *avere*, never *essere*. Ben gets this one right.
 
-“Allora. L'americano. Quanti **fratelli** hai?” — Right. The American. How many **brothers** do you have? (`s01e05-2-040`)
-— Franco asks for a number of people with *avere*. The answer is a bare number: *Due*.
+«**Ho fame**.» — “**I'm hungry**.” (`s01e05-2-021`)
+The running joke of the episode — and the pattern to remember: no article, no *sono*.
 
-“**Quanti anni hai**?” — **How old are you**? (`s01e05-2-063`)
-— The standard way to ask someone's age. Not *Quanti anni sei?*
+«Dice che **ha fame**, papà.» — “He says **he's hungry**, dad.” (`s01e05-2-027`)
+Third person: *ha*, not *hai*. Chiara translates for her father.
 
-“Io **ho paura** del buio.” — **I'm afraid** of the dark. (`s01e05-4-114`)
-— *avere paura* + *di* + the thing you fear: *paura del buio* = afraid of the dark.
+«Io **ho fame** e **ho paura**.» — “**I'm hungry** and **I'm scared**.” (`s01e05-1-021`)
+Two *avere* expressions in one line — perfectly normal in Italian.
 
-“Nadia **ha ragione**.” — Nadia **is right**. (`s01e05-4-105`)
-— *avere ragione* in the third person. Franco concedes an argument with three words.
+«**Ho sete**, nonno Franco.» — “**I'm thirsty**, grandpa Franco.” (`s01e05-2-034`)
+Children use these phrases all the time: *ho fame*, *ho sete*, *ho sonno*.
 
-“Sì, Ben. **Hai ragione**.” — Yes, Ben. **You're right**. (`s01e05-4-045`)
-— *avere ragione* with *tu*. The opposite is *avere torto*.
+«Quando la casa è silenziosa, io **ho paura** un po'.» — “When the house is silent, **I'm a little scared**.” (`s01e05-5-078`)
+*Avere paura* covers real fear and everyday worries alike.
 
-“Io **ho fame** di tiramisù!” — **I'm hungry** for tiramisù! (`s01e05-4-165`)
-— *avere fame* can take *di* + food, a playful way of saying exactly what you want.
+«Vede? Io **ho ragione**.» — “You see? **I'm right**.” (`s01e05-5-084`)
+*Avere ragione* means "to be right" in an argument — essential at an Italian table.
 
-“Il **padre** e la **madre** sono in America. A Chicago.” — My **father** and **mother** are in America. In Chicago. (`s01e05-2-073`)
-— Here *essere* is correct, because Ben is describing who they are, not what they have. *avere* for having, *essere* for being.
+«Pavarotti, tu **hai** un **nipote**.» — “Pavarotti, **you have** a **grandchild**.” (`s01e05-5-112`)
+Here *avere* is a real possession: the cat *has* a grandchild.
+
+«Tutti hanno una **madre**, Leo.» — “Everybody has a **mother**, Leo.” (`s01e05-5-030`)
+*Loro*: *hanno*. A small fact that lands hard for Leo.
 
 ## Common mistakes
 
-- **"Sono fame."** No. Hunger is something you *have*: *Ho fame*. Say it out loud a few times.
-- **"Ho 15."** Italian always needs *anni*: *Ho quindici anni*. Never leave the noun out.
-- **"Sono quindici anni."** Age takes *avere*, always, even though English uses "to be".
-- **Pronouncing the h.** *ho*, *hai*, *ha*, *hanno* sound exactly like *o*, *ai*, *a*, *anno*. The h is written, not spoken.
-- **Changing the noun.** *fame*, *sete*, *paura*, *ragione* stay singular and never take an article: *ho fame*, not *ho una fame*.
-- **Mixing up *è* and *ha*.** *Ben è americano* (he is American) vs *Ben ha fame* (he is hungry). One describes, the other has.
-- **Using *Lei* forms wrongly with *avere*.** You will meet *Lei ha* later; for now, with friends and family use *tu hai*.
+- **"Sono fame."** No. Hunger is something you *have*: *Ho fame.*
+- **"Ho la fame."** No article with these expressions: *Ho fame*, *Ho sete*, *Ho sonno*.
+- **"Ho 41."** You need the noun: *Ho quarantuno anni.*
+- **"Sono 41 anni."** Age never uses *essere*.
+- **"Io ho anni quarantuno."** The number comes before *anni*: *Ho quarantuno anni.*
+- **"Ho paura di."** When you name what you fear, you need *di*: *Ho paura di tuo padre.*
+- **"Parenti" = parents?** No. *Parenti* are relatives. Your mother and father are your *genitori*.
 
 ## Practice
 
-Fill in the correct form of *avere* (or *essere*, where that is the right verb).
+Complete each sentence with the correct form of *avere*.
 
-1. Io ___ fame. Mangiamo?
-2. Tu ___ sete? C'è l'acqua sul tavolo.
-3. Leo ___ otto anni.
-4. Noi ___ una famiglia grande.
-5. Quanti fratelli ___? — Due.
-6. Loro ___ paura del buio.
-7. Nadia ___ ragione, e Matteo ___ torto.
-8. Ben ___ americano, ma Franco ___ ragione sul vino.
+1. Io ______ fame.
+2. Tu quanti anni ______?
+3. Lei ______ sete.
+4. Noi ______ una famiglia grande.
+5. Loro ______ paura del cane.
+6. Matteo ______ ragione.
 
-**Answer key**
+Translate into Italian.
 
-1. ho
-2. hai
-3. ha
-4. abbiamo
-5. hai
-6. hanno
-7. ha / ha
-8. è / ha
+7. I have two brothers and one sister.
+8. Are you (tu) sleepy?
+
+**Answers**
+
+1. ho — 2. hai — 3. ha — 4. abbiamo — 5. hanno — 6. ha — 7. Ho due fratelli e una sorella. — 8. Hai sonno?

@@ -4,1050 +4,858 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Casa Carter, Via dei Tigli 14 · domenica mattina
+## 1. Casa Carter, Via dei Tigli 14 · domenica mattina, undici e mezza
 
-È **domenica** mattina. In casa Carter c'è profumo di caffè.
+Sono le undici e mezza di domenica. In cucina c'è profumo di caffè. Fuori il cielo è grigio, ma in casa fa caldo. Ben è seduto al tavolo con il quaderno giallo.
 
-*Chiara:* Ben! Leo! Emma! È tardi!
+«La **famiglia**. Il **padre**. La **madre**. Il **fratello**. La **sorella**.» Ben legge ad alta voce e conta sulle dita.
 
-Ben è in cucina. Apre il frigorifero e guarda dentro.
+Chiara entra con due tazze di caffè.
 
-*Ben:* **Ho fame**.
+«Bravo. E poi?»
 
-*Chiara:* Ben, è mezzogiorno meno un quarto.
+«Il **nonno**. La **nonna**. Lo **zio**. La **zia**. Il **cugino**.» Ben alza il quaderno come un trofeo. «Sono pronto.»
 
-*Ben:* Sì. E io **ho fame**.
+«Pronto per cosa?»
 
-Leo entra in cucina con un foglio in mano.
+«Per il pranzo! La **famiglia** italiana è importante.» Ben beve un sorso di caffè. «Io sono il **marito** di Chiara e Chiara è la **moglie** di Ben.»
 
-*Leo:* Mamma, quanti siamo a **pranzo**?
+«Questo lo sappiamo già.» Chiara ride e si siede.
 
-*Chiara:* Sette, forse otto.
+Leo entra in cucina in pigiama. Si siede e guarda il tavolo.
 
-*Leo:* Sette. Il nonno, zio Matteo, Nadia...
+«Io **ho fame**.»
 
-Ben guarda Leo e sorride.
+«Lo so, Leo.»
 
-*Ben:* Leo, anche tu **hai fame**?
+«Anche tu **hai fame**, papà?»
 
-*Leo:* No. Io **ho sete**.
+«Io **ho fame** e **ho paura**.»
 
-Leo prende un bicchiere e beve **acqua**.
+«**Hai paura**? Di cosa?»
 
-*Ben:* **Acqua**? Leo, bevi il latte.
+«Di tuo **padre**.» Ben guarda la porta. «Fa tante domande. Quanti **fratelli**? Quante **sorelle**? Quanti **anni**?»
 
-*Leo:* No, il latte a **pranzo** no.
+«Le domande sono normali, Ben.» Chiara mette la tazza nel lavandino.
 
-*Emma:* Leo, è mattina. Il **pranzo** è a mezzogiorno e mezza.
+Emma entra con il telefono in mano. Ha i capelli bagnati.
 
-Emma arriva con il telefono in mano e si siede.
+«Emma! Quanti **anni** hai?»
 
-*Chiara:* Emma, lascia il telefono. Oggi è **domenica**.
+«Quindici. Lo sai.» Emma si siede e guarda il telefono.
 
-*Emma:* E allora?
+«E io **ho** quarantuno **anni**.» Ben scrive sul quaderno. «Vedi? Io capisco le domande.»
 
-*Chiara:* E allora la **domenica** si **mangia** dal nonno.
+Emma alza gli occhi al cielo. Chiara nasconde un sorriso dietro la tazza.
 
-*Ben:* A che ora?
+«In America ci sono i miei **parenti**.» Ben conta sulle dita. «Mia **madre**, mio **padre**, due **fratelli** e una **sorella**.»
 
-*Chiara:* Dodici e mezza.
+«I **parenti** sono tutti, Ben.» Emma mette giù il telefono. «La **madre** e il **padre** sono i **genitori**.»
 
-*Ben:* Dodici e mezza? Perché così presto?
+«Ah!» Ben apre la bocca, poi scrive. «**Genitori** e **parenti**. Due parole diverse.»
 
-*Chiara:* Perché a **pranzo** si **mangia** a dodici e mezza, non all'una.
+«Esatto.»
 
-*Ben:* In America...
+«Grazie, Emma.»
 
-*Chiara:* Lo so. In America è diverso. Qui è dodici e mezza.
+Chiara guarda il quaderno e sorride.
 
-Ben apre il frigorifero un'altra volta e prende un pezzo di formaggio.
+«Quanti **zii** e quante **zie** hai, Ben?»
 
-*Chiara:* Ben!
+«Due **zii** e una **zia**. E quattro **cugini**.»
 
-*Ben:* **Ho fame**, Chiara. **Ho** molta **fame**.
+«Una **famiglia** grande.»
 
-*Chiara:* Tra un'ora si **mangia**.
+«Sì. E adesso **ho fame** di nuovo.»
 
-*Ben:* Un'ora è **grande**. Un'ora è troppo.
+Leo prende un biscotto dal piatto.
 
-Leo mette il foglio sulla **tavola** e conta con le dita.
+«Io **ho fame**, mamma.»
 
-*Leo:* Uno: il nonno. Due: zio Matteo. Tre: Nadia. Quattro: mamma. Cinque: papà. Sei: Emma. Sette: io. Otto... chi è otto?
+«Anch'io **ho fame**.»
 
-*Chiara:* Nessuno. Siamo sette.
+«E **ho sete** anch'io.»
 
-*Leo:* Sette va bene. La **famiglia** è sette.
+Chiara prende un bicchiere e dà l'acqua a Leo. Leo beve l'acqua in tre secondi.
 
-*Chiara:* Sì, la **famiglia** è **grande** e rumorosa.
+«**Hai sete** anche tu, Ben?»
 
-Emma alza gli occhi al cielo.
+«No, grazie. Ma **ho sonno**.»
 
-*Emma:* Leo, perché conti con le dita? È strano.
+«**Ho sonno** anche io.» Leo fa un grande sbadiglio.
 
-*Leo:* Io conto la **famiglia**.
+«Bene. Allora andiamo a pranzo.» Chiara controlla l'orologio. «È tardi. Papà non aspetta.»
 
-*Emma:* Sì, ma è strano.
+Ben chiude il quaderno e si alza. _{Devo fare una buona figura con il **padre** di Chiara._ «Un momento. Come si dice "I'm hungry"?»
 
-Ben prende il quaderno dalla tasca e cerca una parola.
+«**Ho fame**! Lo dici sempre tu.»
 
-*Ben:* Emma, tu **parli** italiano bene.
+«Perfetto. **Ho fame**, **ho sete**, **ho paura** e **ho sonno**.»
 
-*Emma:* Lo so.
+«Andiamo, Ben.»
 
-*Ben:* Tu **parli** troppo bene. Per me è difficile.
+Ben prende il quaderno giallo e la giacca. Emma mette le scarpe e aspetta alla porta.
 
-*Emma:* Papà, tu **parli** italiano come un americano.
+«Leo, le scarpe.»
 
-*Ben:* Sì. Perfetto. Allora: il **nonno**... quanti anni ha il **nonno**?
+«**Ho** otto **anni**, mamma. Lo so.»
 
-*Emma:* Papà! Non si chiede l'età!
-
-*Chiara:* Settantuno.
-
-*Ben:* Settantuno? **Grande**. Molto **grande**.
-
-*Chiara:* Ben, non dire **grande** per un uomo di settantun anni.
-
-Ben scrive sul quaderno. Poi guarda Chiara.
-
-*Ben:* E la **madre** di Chiara? Quanti anni ha la **madre**?
-
-Silenzio in cucina. Chiara chiude il frigorifero piano.
-
-*Chiara:* La **madre** di Chiara non c'è più.
-
-*Ben:* Oh. Scusa. Mi dispiace.
-
-*Chiara:* No, va bene. La mamma non c'è più. Lei ama il **pranzo** della **domenica**.
-
-*Ben:* Allora il **pranzo** della **domenica** è per la **madre**.
-
-*Chiara:* Sì. Per questo il **pranzo** della **domenica** è importante.
-
-Leo guarda Chiara e mette giù il foglio.
-
-*Leo:* Mamma, tu **hai paura**?
-
-*Chiara:* No. Io no.
-
-*Leo:* Io **ho** un po' di **paura** del nonno.
-
-*Chiara:* Tu **hai paura** del nonno? Perché?
-
-*Leo:* Perché **parla** poco.
-
-*Ben:* Anch'io **ho paura** del nonno.
-
-*Chiara:* Ben!
-
-*Ben:* È vero. Io **ho paura** e **ho fame**. Tutto insieme.
-
-Emma sorride un po' e guarda suo padre.
-
-*Emma:* **Hai ragione**, papà. Il nonno **parla** poco.
-
-Chiara prende le chiavi dal gancio vicino alla porta.
-
-*Chiara:* Allora, tutti pronti? La **tavola** è pronta. Andiamo.
-
-*Ben:* Ancora dieci minuti.
-
-*Chiara:* No. Adesso.
-
-Ben beve un bicchiere di **acqua** in piedi, vicino al lavandino.
-
-*Ben:* Va bene. Ma io **ho sete** e **ho fame**.
-
-*Chiara:* Andiamo!
+«Grazie, mamma.»
 
 ## 2. Casa di Franco, Via dei Tigli 9 · domenica, mezzogiorno e mezza
 
-La casa di Franco è al numero nove. La porta è aperta.
+La casa di Franco è piccola e piena di luce. C'è un tavolo lungo con una tovaglia bianca. Sul tavolo ci sono il pane, l'acqua e un piatto di pasta. La porta è aperta.
 
-*Franco:* Chiudi la porta!
+Franco arriva dalla cucina. Ha un grembiule e una faccia seria.
 
-Ben chiude la porta e sorride.
+«Chiara. Leo. Emma.» Franco guarda Ben per un secondo. «... L'americano.»
 
-*Ben:* Buongiorno, Franco!
+«Buongiorno, Franco.»
 
-*Franco:* Mah.
+«Entra. La pasta è pronta.»
 
-Franco non guarda Ben. Guarda la pentola.
+Tutti entrano in cucina. Ben guarda il tavolo e sorride.
 
-*Franco:* Siediti. Non toccare niente.
+«Che bello!»
 
-*Chiara:* Papà!
+Franco si siede in testa al tavolo. Matteo arriva con il pane e una bottiglia.
 
-*Franco:* È l'americano. L'americano tocca tutto.
+«Ciao, papà. Ciao a tutti.» Matteo mette il pane sul tavolo e si siede.
 
-*Ben:* Io non tocco... tocco solo il pane.
+Franco guarda Ben dritto negli occhi.
 
-Leo entra e si siede subito sulla sedia vicino alla finestra.
+«Allora, americano. Quanti **fratelli** hai?»
 
-*Leo:* **Nonno**!
+Ben è nervoso. Sorride.
 
-*Franco:* Ciao, Leo. Come stai?
+«**Ho fame**.»
 
-*Leo:* Bene. Io **ho fame**.
+Silenzio. Franco guarda Chiara. Matteo guarda il soffitto. Leo guarda la pasta.
 
-*Franco:* Bravo. Tu **hai fame**. Tu sei italiano.
+«Cosa dice?»
 
-Emma arriva e resta in piedi vicino alla porta.
+«Dice che **ha fame**, papà.» Chiara mette una mano sulla fronte.
 
-*Franco:* Emma, chiudi la porta.
+«**Ho fame** anch'io. Mangiamo.»
 
-*Emma:* È chiusa.
+Franco serve la pasta. Tutti mangiano. Leo prende due porzioni.
 
-*Franco:* Mah. Allora siediti.
+«I miei **nipoti** mangiano bene.» Franco guarda Leo con occhi gentili.
 
-Si sente un rumore di passi e la voce di Matteo.
+«**Ho sete**, nonno Franco.»
 
-*Matteo:* Papà! Siamo noi! Il pane è pronto!
+«Acqua o vino?»
 
-Matteo entra con un sacchetto di pane. Nadia è dietro di lui.
+«Acqua!»
 
-*Matteo:* Pane di Bar Tigli. Il pane migliore di Borgoverde.
+Franco prende la bottiglia e riempie il bicchiere di Leo. «Il vino non è per i **nipoti** piccoli.»
 
-*Franco:* Il pane è buono. Grazie, Nadia.
+«Grazie.»
 
-*Nadia:* Grazie, Franco. È di Matteo.
+Dopo cinque minuti Franco riprova. Mette giù la forchetta.
 
-*Franco:* Sì, va bene.
+«Quanti **anni** hai?»
 
-Franco prende il pane e lo mette sulla **tavola**.
+«**Ho** quarantuno **anni**.» Ben alza la forchetta come una bandiera.
 
-*Matteo:* Papà, il bar va bene, sai?
+«Bene.» Franco annuisce piano.
 
-*Franco:* Il bar è un bar. Non è un ristorante.
+«E i tuoi **genitori**? Sono in America?»
 
-*Matteo:* Ma il bar è la mia vita!
+«**Ho fame**.»
 
-*Franco:* Mah.
+Emma mette una mano sulla faccia. Matteo ride dentro il bicchiere.
 
-Nadia mette un piatto sulla **tavola** e sistema i bicchieri.
+«Ben! La domanda è sui tuoi **genitori**!»
 
-*Nadia:* Franco, l'**acqua** è sul tavolo.
+«Oh! Sì.» Ben si raddrizza sulla sedia. «Mia **madre** è in Ohio. Mio **padre** anche.»
 
-*Franco:* Grazie. E il **vino**?
+«E **fratelli**? E **sorelle**?»
 
-*Nadia:* Il **vino** è qui.
+Ben guarda Emma. Emma fa un piccolo segno con la testa.
 
-La **tavola** è lunga e piena di piatti. La **famiglia** è tutta qui.
+«Due **fratelli** e una **sorella**.»
 
-*Chiara:* Sette a **tavola**. Come sempre.
+«Bene. Molto bene.» Franco è soddisfatto per un secondo.
 
-*Franco:* No. Otto. C'è anche il posto di Anna.
+«E **zii**? E **zie**?»
 
-Un piccolo silenzio. Poi Franco guarda Ben.
+«Due **zii** e una **zia**.»
 
-*Franco:* Allora. L'americano. Quanti **fratelli** hai?
+«E **cugini**?»
 
-*Ben:* **Ho fame**.
+Ben guarda Emma di nuovo.
 
-Franco smette di mescolare la pentola.
+«Quattro **cugini**.»
 
-*Franco:* Come?
+«Una **famiglia** grande.» Franco beve un sorso di vino.
 
-*Ben:* **Ho fame**. Molta **fame**.
+«Sì. In America la **famiglia** è grande.»
 
-*Chiara:* Papà, lui **ha fame**. **Ha fame** dalle undici.
+«E i **parenti**?»
 
-*Franco:* Io chiedo quanti **fratelli** hai. Non chiedo se **hai fame**.
+«Molti **parenti**.»
 
-*Ben:* Ah! **Fratelli**!
+«Perfetto.»
 
-Ben conta con le dita, come Leo.
+Chiara guarda Ben e sorride. Emma mangia e non dice niente.
 
-*Ben:* Due. Due **fratelli**.
+«Io ho un **figlio** e una **figlia**.» Franco indica Matteo e Chiara con la forchetta.
 
-*Franco:* Due **fratelli**. E **sorelle**?
+«Matteo e Chiara.»
 
-*Ben:* Una **sorella**. Una.
+«E io?»
 
-*Franco:* Nome?
+«Tu sei un **nipote**.»
 
-*Ben:* Mia **sorella** si chiama...
+«Ah!» Leo è contento.
+
+Matteo mette giù il bicchiere.
+
+«Papà, domenica prossima c'è Milan-Inter.»
+
+«Milan.»
+
+«No, papà. Io **ho ragione**: l'Inter vince.»
+
+«Tu **hai** trentasei **anni** e non capisci niente.»
+
+«Ho trentasei anni e **ho ragione** io.»
+
+Franco alza una mano.
+
+«Basta. Mangiamo.»
+
+Sul mobile c'è una **foto** con una cornice di legno. Ben la guarda per un momento. Poi mangia.
+
+## 3. Casa di Franco, Via dei Tigli 9 · domenica, dopo pranzo
+
+Il dolce è finito. Sul tavolo ci sono le briciole e i piatti vuoti. Franco si alza e prende la caffettiera. La cucina profuma di caffè.
+
+«Ben, **hai sete**?»
+
+«Sì! **Ho sete**.»
+
+Franco mette un bicchiere d'acqua davanti a Ben.
+
+«Grazie, Franco.» Ben beve l'acqua e poi sbadiglia. «E **ho sonno** anch'io.»
+
+«**Ho sonno** dopo il pranzo, come i gatti.» Leo chiude gli occhi per finta. Poi li apre e ride.
+
+«I gatti dormono sedici ore.»
+
+«E tu come fai a saperlo?»
+
+«Pavarotti me lo dice.»
+
+Matteo ride. Chiara sospira. Franco versa il caffè nelle tazzine.
+
+Ben guarda il mobile. Sul mobile c'è una **foto** con una cornice di legno. Nella **foto** c'è una donna con un vestito chiaro. Sorride.
+
+«Franco, chi è nella **foto**?»
+
+Franco guarda la **foto** per un momento. Poi mette giù la caffettiera.
+
+«Anna.»
+
+«Anna?»
+
+«Mia **moglie**.»
+
+Il tavolo è silenzioso. Leo smette di ridere. Emma guarda il piatto. Chiara guarda suo **padre**.
+
+«Anna non c'è più.» Franco tocca la cornice con un dito. «Tre **anni** fa.»
+
+Ben apre la bocca, poi la chiude. _{Forse la **foto** è un argomento delicato. Non dico niente._
+
+«Mi dispiace, Franco.»
+
+«Sì.»
+
+Chiara mette una mano sul braccio di Franco. Franco beve il caffè in silenzio.
+
+Poi Matteo rompe il silenzio.
+
+«Papà, l'arbitro di ieri è un disastro.»
+
+«Quale arbitro?»
+
+«Quello di Milan-Inter. Non vede niente.»
+
+«L'arbitro non è il problema. Tu sei il problema.»
+
+«Io?»
+
+«Tu. Tu e l'Inter.»
+
+«Papà, **ho ragione** io. L'Inter gioca bene.»
+
+«**Hai ragione** tu? Mai.»
+
+«Domenica lo vediamo.»
+
+«Domenica?» Franco alza la testa. «Domenica io non ci sono.»
+
+Chiara mette giù la tazzina.
+
+«Non ci sei? Dove vai?»
+
+«Ho una cosa da fare.»
+
+«Che cosa?»
+
+«Al Centro civico.»
+
+«Al Centro civico? Di domenica?»
+
+«Sì. Un corso.»
+
+«Un corso di cosa?»
+
+«Di... niente. Un corso.» Franco si alza e prende la giacca. «Io vado. Grazie per il pranzo. Ciao.»
+
+Franco esce e chiude la porta.
+
+Chiara guarda la porta chiusa.
+
+«Un corso di domenica.»
+
+Matteo alza le spalle.
+
+«Boh. Papà è così.»
+
+Ben prende il quaderno dalla giacca. Scrive una parola e la chiude.
+
+«Tuo **padre** è strano.»
+
+«Sì.»
+
+«Ma **ha ragione** su una cosa.»
+
+«Su cosa?»
+
+«La **famiglia** è importante. La **madre**, il **padre**, i **fratelli**, le **sorelle**.»
+
+«E gli **zii**, i **cugini**, i **parenti**...»
+
+«Bravo, Leo.»
+
+Chiara guarda la **foto** di Anna e sorride un poco.
+
+«Andiamo a casa.»
+
+«Prima un altro caffè?»
+
+«No. **Ho sonno**.»
+
+«**Ho sonno** anch'io.» Leo prende la mano di Ben. «E **ho sete** ancora.»
+
+«A casa c'è l'acqua.»
+
+Escono tutti insieme nella strada grigia. Matteo chiude la porta di Franco.
+
+## 4. Via dei Tigli · domenica pomeriggio
+
+Nel pomeriggio Via dei Tigli è tranquilla. Le foglie sono gialle e il cielo è chiaro. Davanti al numero sedici c'è Ornella con due borse della spesa. Le borse sono pesanti.
+
+Leo arriva in bicicletta e si ferma.
+
+«Signora Ornella!»
+
+«Buon pomeriggio, Leo.»
+
+«Posso aiutare?»
+
+«Sei gentile.» Ornella gli dà una borsa. «Grazie mille.»
+
+Leo prende la borsa con due mani. Camminano piano verso il numero sedici.
+
+«Signora Ornella, quanti **anni** ha?»
+
+«Io **ho** settantotto **anni**.»
+
+«Settantotto!» Leo apre la bocca. «E io **ho** otto **anni**.»
+
+«Otto **anni** sono pochi.»
+
+«Mio **nonno** Franco **ha** settantuno **anni**.»
+
+«Sì, lo so.»
+
+«Lei ha **fratelli**?»
+
+«No, Leo.» Ornella sistema la borsa sulla spalla. «Sono **figlia** unica.»
+
+«**Figlia** unica?»
+
+«Sì. Nessun **fratello**, nessuna **sorella**.»
+
+«Ah.» Leo pensa a questa cosa nuova.
+
+«E **figli**?»
+
+Ornella cammina un altro passo.
+
+«No. Non **ho figli**.»
+
+«Mai?»
+
+«Mai.»
+
+«E **nipoti**?»
+
+«No. Non **ho nipoti**.»
+
+Leo si ferma in mezzo alla strada. La borsa è pesante, ma lui non se ne accorge.
+
+«Mai?»
+
+«Mai.»
+
+Leo guarda la strada. _{La mia **nonna** è in America. La signora Ornella non **ha nipoti**. Ma la **nonna** qui non c'è._
+
+«La mia **nonna** è lontana.»
+
+«Capisco.»
+
+«È in Ohio. Con il **nonno**? No. Il **nonno** è qui.»
+
+«La **famiglia** è complicata.»
+
+«Sì.»
+
+Arrivano davanti alla porta di Ornella. Ornella prende le chiavi dalla borsa.
+
+«Leo, hai **fame**?»
+
+«Sì! **Ho fame**.»
+
+«E hai **sete**?»
+
+«Sì! **Ho sete** anch'io.»
+
+Ornella apre la porta.
+
+«Allora entra. Ho dei biscotti.»
+
+«Biscotti?»
+
+«Biscotti fatti in casa.»
+
+Leo entra subito. La casa è grande e silenziosa. Leo mette la borsa sul tavolo.
+
+«Grazie, signora Ornella.»
+
+«Prego, Leo.» Ornella va in cucina. Leo guarda il muro del corridoio. Sul muro ci sono molte **foto**. Leo si avvicina.
+
+«Signora Ornella?»
+
+«Sì?»
+
+«Queste **foto**... chi è questa signora?»
+
+Ornella arriva con un piatto di biscotti. Guarda la **foto**. Per un momento non parla.
+
+«Quella sono io, da giovane.»
+
+«Lei?»
+
+«Sì. Ai miei tempi i capelli sono così.»
+
+Leo ride. Ornella quasi ride.
+
+«Vuoi un biscotto?»
+
+«Sì!»
+
+«E un bicchiere d'acqua?»
+
+«Sì. **Ho sete** davvero.»
+
+Ornella gli dà un biscotto e un bicchiere. Leo mangia e beve. Poi guarda di nuovo le **foto**. Pensa. _{Un biscotto è buono. Ma la signora Ornella non **ha nipoti**. Non **ha ragione**? No... non è giusto._ Leo non **ha paura** di niente. Ma guarda Ornella e sente una cosa piccola e triste.
+
+## 5. Casa di Ornella, Via dei Tigli 16 · domenica pomeriggio
+
+Il soggiorno di Ornella è grande e silenzioso. Sul muro ci sono molte **foto** in cornici di legno. Il gatto Pavarotti dorme sul divano. Fuori il sole è basso.
+
+Leo è seduto sulla poltrona con il biscotto in mano. Guarda il muro.
+
+«Signora Ornella, chi è quest'uomo?» Leo indica una **foto** con il dito.
+
+Ornella si siede vicino a lui. Guarda la **foto** e sorride.
+
+«È Gino. Mio **marito**.»
+
+«Gino.»
+
+«Sì. Lui lavora nel bar quarant'anni.»
+
+«Nel Bar Tigli?»
+
+«Sì. Il bar è suo.»
+
+«E adesso il bar è di Matteo.»
+
+«Sì.»
+
+Leo mangia un pezzo di biscotto. Poi guarda un'altra **foto**.
+
+«E questa signora?»
+
+«Questa sono io, da giovane.»
+
+«Lei è giovane qui!»
+
+«Tutti sono giovani una volta.»
+
+Leo ride.
+
+«E chi è con lei?»
+
+«Mia **madre** e mio **padre**.»
+
+«Ah!» Leo quasi cade dalla poltrona. «Lei ha una **madre**?»
+
+«Tutti hanno una **madre**, Leo.»
+
+«Giusto.» Leo ci pensa. «E il suo **padre**?»
+
+«Anche lui è nella **foto**.»
+
+«E **ha fratelli**?»
+
+«No. Solo io. Sono **figlia** unica.»
+
+«Come me? No. Io **ho** una sorella: Emma.»
+
+«Sì, Emma. La conosco.»
+
+Leo beve un sorso d'acqua. Poi mette giù il bicchiere e guarda Ornella bene negli occhi.
+
+«Signora Ornella, lei non **ha nipoti**.»
+
+«No.»
+
+«Perché no?»
+
+«Perché i **nipoti** sono **figli** dei **figli**.»
+
+«Ah.»
+
+«Io non **ho figli**. Allora non **ho nipoti**.»
+
+Leo guarda il soffitto. Il gatto apre un occhio e poi lo chiude. _{Io sono il **figlio** di Chiara. Chiara è la **figlia** di Franco. Allora io sono il **nipote** di Franco._
+
+«Allora io sono il **nipote** di **nonno** Franco!»
+
+«Sì. Questo è vero.»
+
+«E Emma è la **nipote** di **nonno** Franco.»
+
+«Esatto.»
+
+Leo prende un altro biscotto.
+
+«Signora Ornella, **ha fame**?»
+
+«Un poco.»
+
+«E **ha sonno**?»
+
+«No, Leo. Sono vecchia, non stanca.»
+
+«Ah.»
+
+Leo pensa ancora. Poi sorride. È un sorriso grande.
+
+«Va bene. Lei non è la mia **nonna**. Ma la mia **nonna** è lontana.»
+
+«Lo so.»
+
+«Lei vuole un **nipote**?»
+
+Ornella mette giù la tazza.
+
+«Leo...»
+
+«È un contratto.»
+
+«Un contratto?»
+
+«Sì. Io porto le borse. Lei dà i biscotti. E io la chiamo **nonna**.»
+
+Ornella guarda il gatto. Il gatto guarda Ornella.
+
+«Ai miei tempi i **nipoti** arrivano senza contratto.»
+
+«Ma ai miei tempi c'è il contratto.»
+
+Ornella ride. Ride davvero, con gli occhi chiusi. Poi è seria.
+
+«Quando la casa è silenziosa, io **ho paura** un po'.»
+
+«Lei **ha paura**?»
+
+«Un po'.»
+
+«Io **ho paura** dei cani grandi. Ma non di lei.»
+
+«Grazie, Leo.»
+
+Leo mette la mano sul braccio di Ornella.
+
+«Vede? Io **ho ragione**.»
+
+«Forse tu **hai ragione**, Leo.»
+
+«No, non "forse". **Ho ragione**.»
+
+Ornella ride di nuovo.
+
+«Va bene. Tu **hai ragione**.»
+
+«Perfetto. Contratto fatto.»
+
+Leo si alza e prende un altro biscotto. Adesso **ha fame** di nuovo. Beve l'ultimo sorso d'acqua. **Ha sete** anche.
+
+«Un'altra cosa.»
+
+«Dimmi.»
+
+«La **famiglia** è importante. Con la **madre**, il **padre**, i **figli**, i **nipoti**.»
+
+«Sì, Leo. È vero.»
+
+«Allora adesso lei ha una **famiglia** qui.»
+
+Ornella guarda il muro con le **foto**. Poi guarda Leo. I suoi occhi sono lucidi, ma sorride.
+
+«È tardi, Leo. Tua mamma aspetta.»
+
+«Sì.» Leo prende la giacca. «Signora Ornella?»
+
+«Sì?»
+
+«Posso dire una cosa a Pavarotti?»
+
+«Certo.»
+
+Leo si avvicina al divano. Accarezza il gatto. Pavarotti apre un occhio.
+
+«Pavarotti, tu **hai** un **nipote**.»
+
+Ornella mette una mano sulla bocca. Ride piano, piano.
+
+«Buonanotte, Leo.»
+
+«Buonanotte, **nonna**.»
+
+Leo esce e chiude la porta. Ornella resta ferma un momento. Poi guarda le **foto** e sorride.
+
+## 6. Casa Carter, Via dei Tigli 14 · domenica sera
+
+Sono le nove di sera. In casa Carter la tv è spenta e la cucina è in ordine. Chiara è sul divano con il computer. Ben è al tavolo con il quaderno giallo.
+
+Leo arriva dalla camera in pigiama. Ha una **foto** in mano. La mette sul tavolo, davanti a tutti.
+
+«Mamma! Papà! Guardate!»
+
+Chiara alza la testa. Ben mette giù la penna.
+
+«Che cos'è questa **foto**?»
+
+«Me la dà la signora Ornella.»
+
+«Te la dà?»
+
+«Sì. È una **foto** di lei e di Gino.»
+
+«Gino?»
+
+«Gino è il **marito**.»
+
+Emma arriva dalla sua stanza con le cuffie al collo.
+
+«Il **marito** di chi?»
+
+«Della signora Ornella. Gino.»
+
+Emma guarda la **foto**. Nella **foto** ci sono un uomo e una donna. Sono giovani.
+
+«Ah. Sì.»
+
+Leo si siede sul pavimento. Racconta tutto, senza fermarsi.
+
+«La signora Ornella **ha** settantotto **anni**. Non ha **fratelli**, non ha **sorelle**. Non ha **figli**. Non ha **nipoti**.»
+
+«Poverina.»
+
+«Non è poverina. Ai miei tempi... no, ai suoi tempi.»
+
+«Cosa?»
+
+«Niente. Adesso è la mia **nonna**.»
+
+Emma alza gli occhi al cielo.
+
+«Leo, la signora Ornella non è la tua **nonna**.»
+
+«Sì, è un contratto.»
+
+«Che contratto?»
+
+«Io porto le borse. Lei dà i biscotti. E io la chiamo **nonna**.»
 
 Ben guarda Chiara. Chiara guarda Ben.
 
-*Chiara:* Susan.
+«Leo...»
 
-*Ben:* Susan! Sì. Susan.
+«Sì?»
 
-*Franco:* Mah.
+«La signora Ornella è gentile. Ma un contratto non è una **famiglia**.»
 
-Matteo prende il pane e ride.
+«Io lo so. La **famiglia** ha i **genitori**, i **nonni**, i **nipoti**.»
 
-*Matteo:* Papà, non è un esame. È un **pranzo**.
+«Esatto.»
 
-*Franco:* Io **parlo** con l'americano. Tu **parli** troppo.
+«E anche gli **zii**, i **cugini**, i **parenti**. Lo dice il papà.»
 
-*Matteo:* Io **parlo** troppo? Tu non **parli** mai!
+Ben è orgoglioso.
 
-*Nadia:* Ragazzi, il **pranzo** è pronto.
+«Sì! Bravo, Leo.»
 
-*Franco:* **Quanti anni hai**?
+«Ma la signora Ornella la **famiglia** non ce l'ha qui.»
 
-*Ben:* Io? Quarantuno.
+«No.»
 
-*Franco:* Quarantuno. Giovane.
+«Allora io sono la sua **famiglia**. E lei è la mia **nonna**.»
 
-*Ben:* E tu **hai** settantuno **anni**. Chiara lo dice.
+Leo incrocia le braccia. È serio, come un avvocato.
 
-*Franco:* Chiara **parla** troppo.
+«E lei **ha paura** quando la casa è silenziosa.»
 
-*Chiara:* Papà, è solo un numero.
+Chiara non ride. Guarda Ben e poi guarda Leo.
 
-Franco mette la pasta nel piatto di Leo e poi guarda Ben.
+«Bravo, Leo.»
 
-*Franco:* Tu **hai figli**?
+«Vero? Io **ho ragione**.»
 
-*Ben:* Sì. Due **figli**. Emma e Leo.
+«Sì, **hai ragione**.»
 
-*Franco:* Sì. Due **figli**. E tuo **padre**? Tua **madre**?
+«La mia **sorella** dice no.»
 
-*Ben:* Il **padre** e la **madre** sono in America. A Chicago.
+Emma mette giù le cuffie.
 
-*Franco:* E i tuoi parenti?
+«Va bene. La prossima volta faccio una **foto**.»
 
-*Ben:* I miei parenti sono tutti in America.
+«Una **foto** di cosa?»
 
-*Franco:* Tu **hai** uno **zio**?
+«Di Leo e della sua **nonna**.»
 
-*Ben:* Sì, uno **zio**. E due **zii**.
+«Sì!»
 
-*Chiara:* Ben, attenzione.
+Ben apre il quaderno.
 
-*Ben:* Sì?
+«Allora: **famiglia**, **genitori**, **parenti**, **fratelli**, **sorelle**, **zii**, **cugini**, **nipoti**.»
 
-*Chiara:* In italiano i parenti sono gli **zii**, i cugini. I tuoi sono i genitori.
+«E adesso?»
 
-*Ben:* Ah! Genitori! Il **padre** e la **madre** sono i genitori.
+«Adesso **ho fame**.»
 
-*Chiara:* Bravo.
+«Ben!»
 
-Ben scrive sul quaderno e sorride.
+Leo ride. Emma ride. Anche Chiara ride.
 
-*Ben:* Genitori. Parenti. **Zii**. Perfetto!
+«C'è del pane in cucina.»
 
-*Franco:* Basta. **Mangiamo**.
+«Perfetto.»
 
-Tutti prendono il pane e cominciano a **mangiare**.
+## 7. Bar Tigli · lunedì mattina
 
-*Matteo:* Papà, **domenica** c'è la **partita**. Milan-Inter.
+Lunedì mattina al Bar Tigli. Fuori piove un poco. Dentro c'è profumo di caffè e di cornetti. Ben è al banco con il caffè in mano.
 
-*Franco:* La **partita**! Il Milan gioca bene.
+Matteo pulisce il banco con uno straccio.
 
-*Matteo:* Il Milan? L'Inter è la **squadra** migliore!
+«Ben! Ieri con papà? Bene?»
 
-*Franco:* Mah. L'Inter no.
+«Bene. Tuo **padre** fa tante domande.»
 
-*Matteo:* Papà, io **ho ragione**! L'Inter è più forte!
+«E tu?»
 
-*Franco:* Tu **hai ragione**? No. **Ho ragione** io.
+«Io dico "**Ho fame**".»
 
-*Nadia:* Matteo, **mangia**.
+«E lui?»
 
-*Matteo:* Nadia, tu capisci di calcio?
+«Lui dice "Mah".»
 
-*Nadia:* No. Io capisco di **pranzo**. **Mangia**.
+Matteo ride forte.
 
-Emma versa l'**acqua** nei bicchieri. Leo guarda la **partita** in testa.
+«Papà è così.»
 
-*Leo:* Nonno, io **ho sete**.
+La porta si apre. Entra Franco. Ha la giacca bagnata. Va dritto al banco.
 
-*Franco:* Bevi l'**acqua**. E **mangia**.
+«Buongiorno, papà.»
 
-*Leo:* E dopo il **pranzo**?
+«Un caffè.»
 
-*Franco:* Dopo il **pranzo**, la **partita**.
+Matteo prepara il caffè. Franco lo beve in due secondi.
 
-*Matteo:* La **partita** è alle tre. Io **ho ragione**.
+«Mah.»
 
-*Franco:* La **partita** è alle tre? Mah. Va bene.
+Poi guarda Ben.
 
-Franco mette il **vino** nel bicchiere di Ben.
+«E tu, americano? Milan o Inter?»
 
-*Franco:* Bevi il **vino**. Poi **parli**.
+Ben è in panico. Guarda Matteo, poi guarda Franco. _{Milan o Inter? Non lo so! Che cosa dico?_
 
-*Ben:* Io **parlo** sempre!
+«Io... **ho fame**.»
 
-*Chiara:* Troppo. **Parla** troppo.
+Silenzio nel bar. Franco mette giù la tazzina.
 
-*Nadia:* Ben, **mangia**. Il **vino** è forte.
+«E **ho sete** anch'io.»
 
-Ben beve il **vino** e **mangia** il pane.
+Franco guarda Matteo.
 
-*Ben:* Chiara, **ho sete** e **ho fame**.
+«Questo è un problema serio.»
 
-*Chiara:* **Mangia**, allora.
+«È simpatico, papà.»
 
-Franco guarda la **tavola** piena e sorride un po'.
+«**Ho** settantuno **anni** e tu trentasei.»
 
-*Franco:* La **famiglia** è tutto.
+«Sì, papà.»
 
-*Matteo:* Papà, la **squadra** è tutto!
+«Io **ho ragione** e tu no.»
 
-*Franco:* Mah.
+«Mah.»
 
-E il **pranzo** della **domenica** comincia.
+Franco esce dal bar senza dire altro. La porta si chiude piano.
 
-## 3. Confessionale
+Matteo si avvicina a Ben.
 
-Ben è seduto su una sedia, con il quaderno in mano.
+«Ben, la prossima volta: non "**ho fame**". Milan o Inter.»
 
-> *Ben:* Allora. La mia **famiglia**. In America. Ohio. Io **ho** due **fratelli**. Due. Uno, due. E **ho** una **sorella**. Una **sorella**. Si chiama Susan. Poi il **padre**. La **madre**. Loro sono in Ohio, in una casa **grande**. In Ohio ci sono anche i **fratelli** della **madre**. Due **zii**.
+«Ah! Perfetto. Milan o Inter.»
 
-Ben conta ancora con le dita e guarda il quaderno.
+«Sì. È importante.»
 
-> *Ben:* Quanti siamo? Mah. Molti. Al **pranzo** della domenica io **parlo** poco. Quando non capito... no, quando non capisco... io dico: "**Ho fame**". È una buona strategia? Boh. Con due bicchieri di **vino** io **parlo** italiano molto bene. Con tre bicchieri di **vino**, no. Però io **ho fame** sempre. Quindi la strategia è perfetta! ...Forse.
+Ben apre il quaderno giallo e scrive.
 
-## 4. Casa di Franco, Via dei Tigli 9 · domenica, a tavola
+«Milan-Inter.»
 
-La pasta è sulla **tavola**. Tutti **mangiano**. Franco guarda Ben.
+«E "**ho fame**"?»
 
-*Franco:* Allora. La **famiglia**. Tu **hai** nonni?
+«Anche "**ho fame**". Sono due parole nuove.»
 
-*Ben:* Sì. **Ho** due nonni.
+Matteo ride e prende un altro caffè.
 
-*Franco:* Due **nonni**? Dove?
+«Domani ancora?»
 
-*Ben:* In America. In Ohio.
+«Sì. **Ho sete** di caffè.»
 
-*Franco:* Nome?
+«Ben, si dice "**ho voglia** di caffè".»
 
-*Ben:* Il **nonno** si chiama George. La **nonna** si chiama Mary.
+«Ah! **Ho voglia** di caffè.»
 
-Franco mette più pasta nel piatto di Ben.
+«Perfetto.»
 
-*Franco:* **Mangia**. E la **nonna** di Emma e Leo?
-
-Silenzio. Chiara mette giù la forchetta.
-
-*Chiara:* Papà...
-
-*Franco:* Si chiama Anna. La **nonna** Anna.
-
-C'è una foto sul muro. Una donna con un sorriso **grande**.
-
-*Franco:* La **nonna** Anna è la **madre** di Chiara e Matteo.
-
-*Emma:* Sì. La **nonna** Anna è la **madre** di mamma.
-
-*Franco:* Bravo, Emma. Tu **parli** bene.
-
-Leo alza la mano, come a scuola.
-
-*Leo:* E la **nonna** Anna è mia **nonna**?
-
-*Franco:* Sì. La **nonna** Anna è la tua **nonna**.
-
-*Leo:* Ma io non la vedo.
-
-*Chiara:* Leo, la **nonna** Anna non c'è più.
-
-*Leo:* Ah. Allora la **nonna** è una foto.
-
-Franco guarda Leo e annuisce piano.
-
-*Franco:* Sì. E la foto **mangia** con noi. Ogni **domenica**.
-
-Nadia prende il **vino** e riempie i bicchieri.
-
-*Nadia:* Franco, ancora **vino**?
-
-*Franco:* Sì. Il **vino** è **grande**.
-
-Ben beve il **vino** e diventa rosso in faccia.
-
-*Ben:* Il **vino** è forte. Molto forte.
-
-*Chiara:* Ben, bevi anche l'**acqua**.
-
-*Ben:* Sì. **Ho sete**.
-
-Emma versa l'**acqua** nel bicchiere di Ben e sorride.
-
-*Emma:* Papà, bevi.
-
-*Franco:* Allora. Quanti anni **ha** la **nonna** Mary?
-
-*Ben:* Mah... non lo so.
-
-*Franco:* Come, non lo sai? È tua **nonna**!
-
-*Ben:* Sì. Ma io non chiedo l'età a una signora.
-
-Silenzio alla **tavola**. Poi Franco ride. Ride forte.
-
-*Franco:* Bravo! Bravo, americano!
-
-È la prima volta. Franco ride. La **famiglia** guarda Franco.
-
-*Matteo:* Papà ride! Papà ride!
-
-*Chiara:* Papà, ti prego.
-
-*Franco:* La **nonna** Mary è una signora. L'americano **ha ragione**.
-
-*Ben:* **Ho ragione**!
-
-*Chiara:* Sì, Ben. **Hai ragione**.
-
-Chiara guarda Ben e ride anche lei, un po'.
-
-*Chiara:* Allora, Ben. Quanti anni **ha** tua **madre**?
-
-*Ben:* No. No, no. Non chiedo l'età a una signora.
-
-*Franco:* Ah! Basta così!
-
-Franco prende il pane e lo dà a Ben.
-
-*Franco:* **Mangia**. Tu sei un uomo **grande**.
-
-Leo guarda Nadia e poi guarda Franco.
-
-*Leo:* Nonno, Nadia è la **zia**?
-
-Nadia smette di **mangiare** e guarda Matteo.
-
-*Nadia:* Ah. Bella domanda.
-
-*Matteo:* Sì! Nadia è la **zia**!
-
-*Franco:* Mah. Nadia non è la **zia**.
-
-*Matteo:* Papà!
-
-*Franco:* La **zia** è la **sorella** di tuo **padre** o di tua **madre**. Nadia non è la **sorella** di nessuno.
-
-*Leo:* Allora Nadia è... niente?
-
-*Nadia:* Grazie, Leo. Molto gentile.
-
-*Chiara:* Leo, Nadia è la **zia** di... un giorno.
-
-*Nadia:* Chiara!
-
-Nadia diventa rossa. Matteo sorride e prende il pane.
-
-*Matteo:* Palla al centro.
-
-Leo conta di nuovo con le dita, sotto la **tavola**.
-
-*Leo:* Il nonno ha i **nipoti**?
-
-*Franco:* Sì. Emma e Leo sono i miei **nipoti**. Due **nipoti**.
-
-*Leo:* E io sono il **nipote** del nonno!
-
-*Franco:* Sì. Bravo.
-
-*Ben:* E Leo è il **figlio** di Chiara.
-
-*Franco:* Sì. Il **figlio**. Non il **nipote**.
-
-*Leo:* Il **figlio** è di papà e mamma. Il **nipote** è del nonno.
-
-*Franco:* Esatto. I **figli** sono Chiara e Matteo. I **nipoti** sono Emma e Leo.
-
-*Matteo:* Papà, io sono un **figlio** e anche uno **zio**.
-
-*Franco:* Uno **zio**? Tu?
-
-*Matteo:* Sì! Leo, io sono tuo **zio**!
-
-*Leo:* Sì! Lo **zio** Matteo!
-
-*Franco:* Va bene. Lo **zio** Matteo. E lo **zio** di Emma e Leo è anche...
-
-*Emma:* Il **fratello** di mamma.
-
-*Franco:* Sì. Lo **zio** è il **fratello** della **madre** o del **padre**.
-
-*Ben:* Quindi io sono lo **zio** di... nessuno.
-
-*Chiara:* Ben, tu sei il **padre**. È meglio.
-
-*Ben:* Sì. Il **padre**. Mi piace.
-
-Leo prende il quaderno di Ben e scrive una parola.
-
-*Leo:* **Zio**. **Zia**. **Nipote**. **Figlio**.
-
-*Ben:* Bravo, Leo. Tu **parli** italiano e scrivi anche.
-
-*Leo:* Sì. Io **parlo** come il nonno.
-
-*Franco:* Mah. Il **nonno** **parla** poco.
-
-Franco prende il secondo piatto dalla cucina. Arrosto e patate.
-
-*Matteo:* Papà, e la **partita**?
-
-*Franco:* La **partita** è alle tre.
-
-*Matteo:* Alle tre. Milan-Inter.
-
-*Franco:* Milan. La **squadra** del cuore.
-
-*Matteo:* Papà, l'Inter è la **squadra** migliore d'Italia.
-
-*Franco:* Mah. No.
-
-Franco mette l'arrosto nel piatto di Matteo senza guardarlo.
-
-*Matteo:* Papà, il Milan **ha** una **squadra** vecchia.
-
-*Franco:* Vecchia? Vecchia? Il Milan **ha** sette **partite** vinte.
-
-*Matteo:* Sette? No, papà. Tre. Tre **partite**.
-
-*Franco:* Io **ho ragione**.
-
-*Matteo:* No, papà. **Ho ragione** io!
-
-Nadia mette giù il bicchiere con forza sulla **tavola**.
-
-*Nadia:* Basta! La **partita** è alle tre. Adesso **mangiamo**.
-
-*Franco:* Nadia **ha ragione**.
-
-*Matteo:* Nadia **ha** sempre **ragione**.
-
-*Nadia:* Sì. E adesso **mangiate**.
-
-Emma sorride e **mangia** le patate, piano.
-
-*Emma:* Nonno, tu **hai paura** di Nadia?
-
-*Franco:* Io? No. Io **ho paura** di nessuno.
-
-Nadia guarda Franco. Franco guarda il piatto.
-
-*Franco:* ...Va bene. Un po'.
-
-Tutti ridono. Anche Franco.
-
-*Leo:* Io **ho paura** del buio.
-
-*Chiara:* Leo, non è vero.
-
-*Leo:* Sì, è vero. Un po'.
-
-*Ben:* Anch'io **ho paura** del buio.
-
-*Chiara:* Ben!
-
-*Ben:* È una battuta.
-
-Leo beve l'**acqua** e poi guarda Ben.
-
-*Leo:* Papà, **hai fame** ancora?
-
-*Ben:* Sì. **Ho fame**. Ancora.
-
-*Leo:* **Ho fame** anch'io!
-
-*Franco:* Bravo. **Mangiate**.
-
-Franco prende il **vino** e riempie il bicchiere di Ben un'altra volta.
-
-*Franco:* Bevi. E poi **parli**.
-
-*Ben:* Io **parlo** bene con il **vino**.
-
-*Chiara:* No, Ben. Tu **parli** strano con il **vino**.
-
-*Ben:* **Parlo** italiano! Con il **vino** è facile!
-
-*Emma:* Papà, è italiano... tipo, italiano americano.
-
-Emma guarda il padre e ride piano.
-
-*Ben:* Emma, non ridere. Io **parlo** bene!
-
-Franco ascolta e non dice niente. Ma sorride.
-
-*Matteo:* Papà, la **partita**. Il Milan perde.
-
-*Franco:* Il Milan non perde. Il Milan vince. **Ho ragione** io.
-
-*Matteo:* Papà, io capisco di calcio. **Ho ragione** io.
-
-*Franco:* Tu capisci di calcio? Tu capisci di caffè.
-
-*Matteo:* Il caffè e il calcio sono la mia vita!
-
-*Nadia:* La tua vita è il bar, Matteo.
-
-*Matteo:* Sì. Anche il bar.
-
-Leo guarda Franco. Poi guarda Matteo. Poi guarda la **tavola**.
-
-*Leo:* Nonno, tu e lo **zio** Matteo siete **fratelli**?
-
-*Franco:* No. Lui è mio **figlio**.
-
-*Leo:* Ah! Lo **zio** Matteo è il **figlio** del nonno!
-
-*Franco:* Sì. Bravo, Leo.
-
-*Leo:* E il nonno è il **padre** dello **zio** Matteo.
-
-*Franco:* Esatto.
-
-Leo è contento. Scrive un'altra parola nel quaderno.
-
-*Ben:* Leo, tu capisci la **famiglia** meglio di me.
-
-*Leo:* Sì. Io **parlo** con il nonno.
-
-*Ben:* Il nonno **parla** con te?
-
-*Leo:* Sì. Poco, ma **parla**.
-
-Franco sente e guarda Ben per un momento.
-
-*Franco:* L'americano **parla** troppo. Ma **mangia** bene.
-
-*Chiara:* Papà!
-
-*Franco:* È un complimento.
-
-Nadia prende i piatti vuoti e li mette vicino al lavandino.
-
-*Nadia:* E adesso? Frutta? Dolce?
-
-*Matteo:* Dolce! Papà, c'è il tiramisù?
-
-Franco non risponde. Guarda la foto della **madre** sul muro.
-
-*Franco:* Il tiramisù è della **nonna** Anna. La ricetta è della **nonna** Anna.
-
-*Chiara:* Lo so, papà.
-
-*Franco:* Oggi c'è il tiramisù.
-
-Nessuno **parla** per un momento. Poi Leo alza la mano.
-
-*Leo:* Io **ho fame** di tiramisù!
-
-Franco ride di nuovo.
-
-*Franco:* Bravo! **Mangia**!
-
-Emma prende l'**acqua** e riempie il bicchiere di Leo.
-
-*Emma:* Leo, tu **hai sete** sempre.
-
-*Leo:* Sì. Io **ho sete** e **ho fame**. Tutto insieme.
-
-*Ben:* Come me, Leo. Come me.
-
-Ben alza il bicchiere di **vino** come per un brindisi.
-
-*Ben:* Alla **famiglia**!
-
-*Franco:* Il **vino** no. Il **vino** è di Dio.
-
-*Ben:* Ah. Scusa.
-
-Ben mette giù il bicchiere subito. Matteo ride.
-
-*Matteo:* Papà, il **vino** è di Dio e il Milan è di Dio?
-
-*Franco:* Mah. Il Milan è il Milan.
-
-Franco si alza e va in cucina. Torna con il tiramisù.
-
-*Franco:* La **tavola** è pronta. E il dolce è della **nonna**.
-
-Franco mette il dolce sulla **tavola**, in mezzo ai bicchieri.
-
-*Franco:* La **famiglia** è tutto.
-
-Matteo prende il cucchiaio e guarda la televisione.
-
-*Matteo:* Papà, la **partita**!
-
-*Franco:* La **partita** dopo il dolce. La **famiglia** prima.
-
-*Matteo:* Va bene, va bene. Ma la mia **squadra** vince. **Ho ragione** io.
-
-*Franco:* Mah.
-
-E tutti **mangiano** il tiramisù della **nonna** Anna.
-
-## 5. Confessionale
-
-Leo è seduto su una sedia alta, con le gambe che non toccano terra.
-
-> *Leo:* Allora. La mia **famiglia**. Come a scuola. Una **madre**. Si chiama Chiara. Un **padre**. Si chiama Ben. Una **sorella**. Si chiama Emma. Un **nonno**. In Italia. Si chiama Franco. Una **nonna**. In America. Si chiama Mary. E una **nonna** Anna. Ma è una foto. Un **zio**. Si chiama Matteo. Lui **ha** un bar. Il **figlio** del nonno è lo **zio**. Il **nipote** del nonno sono io.
-
-Leo conta con le dita e poi guarda la telecamera.
-
-> *Leo:* Il nonno **parla** poco. Ma cucina bene. Io **parlo** molto. Come papà. Papà **ha fame** sempre. Io **ho fame** sempre. Siamo uguali. La signora Ornella **parla** bene. Ma non **ha** **nipoti**. Zero **nipoti**. Zero **nipoti** è strano. È un problema diverso. Ma io **ho** un'idea.
-
-## 6. Casa di Ornella, Via dei Tigli 16 · domenica pomeriggio
-
-È **domenica** pomeriggio. Leo cammina fino al numero sedici. La porta di casa Ornella è aperta. Dentro c'è Pavarotti su una sedia.
-
-*Leo:* Signora Ornella! Buongiorno!
-
-*Ornella:* Leo! Vieni, vieni.
-
-Leo entra e guarda Pavarotti. Il gatto dorme e non si muove.
-
-*Leo:* Il gatto dorme.
-
-*Ornella:* Sì. Pavarotti **mangia** e dorme. Sempre.
-
-Ornella arriva dalla cucina con due bicchieri.
-
-*Ornella:* Siediti, Leo. **Hai sete**?
-
-*Leo:* Sì, signora. **Ho sete**.
-
-*Ornella:* Bravo. Bevi.
-
-Leo si siede e beve. Poi guarda Ornella.
-
-*Leo:* Signora Ornella, lei **ha** **figli**?
-
-*Ornella:* Sì. Un **figlio**. Si chiama Paolo.
-
-*Leo:* Uno solo?
-
-*Ornella:* Uno solo.
-
-Ornella mette giù il bicchiere e guarda la finestra.
-
-*Ornella:* Paolo vive a Roma. Lavora a Roma.
-
-*Leo:* E lui **parla** con lei?
-
-*Ornella:* Sì. Al telefono. La **domenica**.
-
-Leo pensa un momento. Poi fa un'altra domanda.
-
-*Leo:* E lei **ha** **nipoti**?
-
-Ornella guarda Leo e sorride un po', ma non è un sorriso **grande**.
-
-*Ornella:* No, Leo. Non **ho** **nipoti**. Zero.
-
-*Leo:* Zero?
-
-*Ornella:* Zero. Paolo è solo. A Roma.
-
-Leo guarda Pavarotti sulla sedia e poi guarda Ornella.
-
-*Leo:* Ma allora lei è sola qui.
-
-*Ornella:* Ho il gatto.
-
-*Leo:* Il gatto non è una **famiglia**.
-
-Ornella ride piano.
-
-*Ornella:* Mah. Il gatto è meglio di niente.
-
-Leo beve un po' e guarda il pavimento.
-
-*Leo:* Signora, lei **ha paura**?
-
-*Ornella:* **Paura**? Di che cosa?
-
-*Leo:* Di stare sola. Io **ho paura** del buio.
-
-Ornella non risponde subito. Guarda la strada dalla finestra.
-
-*Ornella:* Un po'. Sì. Un po'.
-
-Leo annuisce. Ha un'aria molto seria, come un dottore.
-
-*Leo:* Allora **ho** un'idea.
-
-*Ornella:* Un'idea?
-
-*Leo:* Sì. Io **ho** un **nonno** in Italia. Si chiama Franco. E **ho** una **nonna** in America. Ma è lontana.
-
-*Ornella:* Sì. L'America è lontana.
-
-*Leo:* Lei non **ha** **nipoti** e io non **ho** una **nonna** qui.
-
-Ornella guarda Leo e capisce. Ma vuole sentirlo dire.
-
-*Ornella:* E allora?
-
-*Leo:* Allora io sono il suo **nipote**.
-
-Silenzio. Pavarotti apre un occhio e poi lo chiude.
-
-*Ornella:* Tu? Il mio **nipote**?
-
-*Leo:* Sì. Il **nipote** della signora Ornella. Ma con **due** nonni, non uno.
-
-*Ornella:* Due **nonni**?
-
-*Leo:* Lei è la **nonna** Ornella. Il nonno Franco è il **nonno** Franco.
-
-Ornella mette la mano sulla **tavola** e ride. Ride forte, come una bambina.
-
-*Ornella:* Ah! Leo!
-
-*Leo:* Ma non **parlo** con lei come con il nonno Franco.
-
-*Ornella:* No? Come **parli** con me?
-
-*Leo:* Con lui **parlo** in italiano semplice. Con lei **parlo** in... italiano bello.
-
-*Ornella:* Italiano bello! Bravo, Leo. Bravo!
-
-Ornella si alza e va in cucina. Torna con un piatto.
-
-*Ornella:* Allora. Un **nipote** **mangia** i biscotti della **nonna**.
-
-Sul piatto ci sono biscotti rotondi, fatti in casa.
-
-*Leo:* Sì! Io **ho fame**!
-
-*Ornella:* Ma c'è una condizione.
-
-*Leo:* Una condizione?
-
-*Ornella:* Sì. Il **nipote** **mangia** due biscotti. Non uno.
-
-*Leo:* Due? Va bene.
-
-*Ornella:* E **parla** con la **nonna**. Ogni **domenica**.
-
-Leo prende un biscotto e lo guarda.
-
-*Leo:* Ogni **domenica**?
-
-*Ornella:* Ogni **domenica**. Come Paolo. Al telefono.
-
-*Leo:* Ma io non **parlo** al telefono. Io **parlo** qui.
-
-Ornella sorride. Questo sorriso è **grande**.
-
-*Ornella:* Meglio. Molto meglio.
-
-Leo **mangia** il primo biscotto. Poi il secondo.
-
-*Leo:* Signora Ornella, questi biscotti sono buoni!
-
-*Ornella:* **Mangia**, **nipote** mio.
-
-Leo beve e **mangia** ancora. Poi guarda l'orologio del muro.
-
-*Leo:* Devo andare. La **partita** è alle tre.
-
-*Ornella:* La **partita**? Il calcio?
-
-*Leo:* Sì. Il nonno Franco e lo zio Matteo **parlano** di calcio. Sempre.
-
-*Ornella:* Ah. Allora a **domenica** prossima.
-
-*Leo:* Sì. A **domenica** prossima, **nonna** Ornella.
-
-Ornella mette la mano sulla testa di Leo, piano.
-
-*Ornella:* Bravo. E adesso vai. Il **nonno** Franco aspetta la **partita**.
-
-Leo esce. Pavarotti apre di nuovo un occhio, poi dorme ancora.
-
-*Ornella:* **Nipote** mio. Mah.
-
-## 7. Confessionale
-
-Ornella è seduta su una poltrona, con Pavarotti sulle ginocchia.
-
-> *Ornella:* Io **parlo** poco di me. Non è educato. Ho un **figlio**. Si chiama Paolo. Vive a Roma. Lui **parla** con me la **domenica**. Al telefono. Cinque minuti. **Nipoti**? No. Zero **nipoti**. E le **domeniche** sono lunghe. Molto lunghe. Poi arriva un bambino americano di otto anni. **Parla** un italiano strano e dice che io sono sua **nonna**. Lui **ha fame** sempre. Questo è vero. E adesso io **ho** un **nipote**.
-
-Ornella accarezza il gatto e guarda la telecamera.
-
-> *Ornella:* Io non **parlo** di questo con la signora del numero undici. Non ancora. Ai miei tempi... no. Ai miei tempi una **nonna** aspetta. Ma i biscotti sono pronti per **domenica**.
-
-## 8. Casa di Franco, Via dei Tigli 9 · domenica pomeriggio
-
-Sono le tre e mezza. La **tavola** è ancora piena. La televisione è accesa.
-
-*Franco:* La **partita**! Adesso la **partita**!
-
-*Matteo:* Papà, il Milan perde due a zero.
-
-*Franco:* Due a zero? No. **Ho ragione** io.
-
-*Matteo:* Papà, la **squadra** gioca male. **Ho ragione** io.
-
-Ben si mette in mezzo, tra i due.
-
-*Ben:* Ragazzi! Il calcio è **grande**. La **squadra** è...
-
-*Franco:* Tu non **parli** di calcio.
-
-*Matteo:* Papà, **ha ragione** lui?
-
-*Franco:* No. Tu **hai ragione**. No, aspetta. Io **ho ragione**.
-
-Chiara prende il telecomando e mette il volume basso.
-
-*Chiara:* Basta calcio. **Parlate** di altro.
-
-Leo entra dalla porta con le briciole sulla maglia.
-
-*Leo:* Eccomi qua! E ho una **nonna** nuova!
-
-Emma alza la testa dal telefono.
-
-*Emma:* Una **nonna** nuova? Leo, non funziona così.
-
-*Leo:* Sì, funziona. La signora Ornella è la **nonna** Ornella.
-
-*Franco:* Mah.
-
-*Leo:* E io sono il suo **nipote**. Il **nipote** di Ornella.
-
-Franco guarda Leo, poi guarda la **partita**.
-
-*Franco:* Io ho una **nipote** vera. Emma.
-
-Emma sorride e mette giù il telefono.
-
-*Emma:* Grazie, nonno.
-
-*Leo:* Ma anche la **nonna** Ornella **mangia** i biscotti con me.
-
-*Matteo:* Leo, e la **zia** Nadia? Lei non è niente?
-
-*Nadia:* Matteo, non importa. Sono la **zia** Nadia. Va bene.
-
-Franco riempie l'ultimo bicchiere sulla **tavola**.
-
-*Franco:* La **famiglia** è **grande**. Otto a tavola.
-
-*Ben:* Otto? Ma qui siamo sette.
-
-*Franco:* Otto. C'è il posto di Anna. E adesso c'è anche la **nonna** Ornella.
-
-Ben guarda il piatto di Anna sulla **tavola** e non dice niente.
-
-*Ben:* Papà Franco, io **ho fame** ancora.
-
-*Franco:* Mah. L'americano **ha fame** sempre.
-
-Franco prende il pane e lo mette nel piatto di Ben.
-
-*Franco:* **Mangia**.
-
-Leo conta sulla **tavola**, con le dita.
-
-*Leo:* Uno, due, tre, quattro, cinque, sei, sette, otto. Otto!
-
-*Franco:* Mah.
-
-E la **partita** continua.
+Ben esce dal bar con il quaderno sotto il braccio. Fuori la pioggia è finita.
