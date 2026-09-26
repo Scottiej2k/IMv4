@@ -1,86 +1,80 @@
-# The subjunctive after will and desire
+# Subjunctive after will and desire: *voglio che*, *spero che*, *preferisco che*
 
 ## What it is
 
-In English you say "I want **you to** come", "I hope **you come**", "I'd prefer **you to wait**". Italian almost never does that when there are two different people involved. It says:
+Some verbs talk about **what we want other people to do**: *voglio* (I want), *spero* (I hope), *preferisco* (I prefer), *desidero* (I wish), *chiedo* (I ask). When the person doing the wanting and the person doing the action are **different**, Italian joins the two ideas with **che** + the **congiuntivo presente** (present subjunctive).
 
-- *Voglio che tu venga.* — I want you to come.
-- *Spero che tu dica la verità.* — I hope you tell the truth.
+> **Voglio che tu comandi tu.**
+> **Spero che tuo papà prenda la decisione giusta.**
 
-The little word **che** opens a new clause, and the verb in that clause goes into the **congiuntivo presente** (present subjunctive). This is a mood, not a tense: it marks the verb as wanted, hoped for, requested — not as a fact. Italian uses it after verbs of **will and desire**: *volere, desiderare, preferire, sperare, chiedere*.
+The subjunctive is the verb form Italians use after *che* here. It is not a tense: it is a **mood**, the mood of things wanted, hoped for or requested, not things stated as facts.
 
 ## How it works
 
-**Rule one: same subject → infinitive. Different subject → *che* + subjunctive.**
+**One rule to remember:** same subject → infinitive; different subject → *che* + subjunctive.
 
-| One subject | Two subjects |
-|---|---|
-| *Voglio tornare a Chicago.* (I want to go back.) | *Vogliono che io torni.* (They want me to go back.) |
-| *Preferisco aspettare.* (I prefer to wait.) | *Preferisco che tu non aspetti.* (I prefer you not to wait.) |
-| *Spero di arrivare presto.* (I hope to arrive soon.) | *Spero che tu arrivi presto.* (I hope you arrive soon.) |
+| Who does it? | Form | Example |
+|---|---|---|
+| Same person | *volere* + **infinitive** | *Voglio **andare** a Roma.* (I want to go to Rome.) |
+| Two people | *volere* **che** + subjunctive | *Voglio che **tu vada** a Roma.* (I want you to go to Rome.) |
 
-With *spero* and *chiedo*, one subject uses **di** + infinitive: *spero di sì, chiedo di parlare*.
+**Present subjunctive endings**
 
-**Rule two: the verb after *che* takes the subjunctive endings.**
-
-| | -are (*tornare*) | -ere (*prendere*) | -ire (*partire*) |
+| | parlare | prendere | dormire |
 |---|---|---|---|
-| io | torni | prenda | parta |
-| tu | torni | prenda | parta |
-| lui/lei | torni | prenda | parta |
-| noi | torniamo | prendiamo | partiamo |
-| voi | torniate | prendiate | partiate |
-| loro | tornino | prendano | partano |
+| io | parl**i** | prend**a** | dorm**a** |
+| tu | parl**i** | prend**a** | dorm**a** |
+| lui/lei | parl**i** | prend**a** | dorm**a** |
+| noi | parl**iamo** | prend**iamo** | dorm**iamo** |
+| voi | parl**iate** | prend**iate** | dorm**iate** |
+| loro | parl**ino** | prend**ano** | dorm**ano** |
 
-Notice that the *io / tu / lui* forms all look the same for *-are*: *che io torni, che tu torni, che lui torni*.
+Notice: *-are* verbs take **-i**, *-ere* and *-ire* verbs take **-a**. The *noi* form looks exactly like the present indicative.
 
-**Rule three: some very common verbs are irregular and you simply have to know them:** *essere → sia*, *avere → abbia*, *andare → vada*, *fare → faccia*, *dare → dia*, *stare → stia*, *venire → venga*, *dire → dica*, *sapere → sappia*, *potere → possa*, *dovere → debba*, *volere → voglia*.
+**The verbs you need most**
 
-**Rule four: *chiedere che*** means "to ask somebody to do something". With one subject, use *chiedere di*: *Chiedo di entrare* (I ask to come in) vs *Chiedo che lui entri* (I ask him to come in).
+| verb | subjunctive | example |
+|---|---|---|
+| volere | voglia, voglia, voglia, vogliamo, vogliate, vogliano | *Voglio che tu venga.* |
+| sperare | speri, speri, speri… | *Spero che tu stia bene.* |
+| preferire | preferisca, preferisca, preferisca, preferiamo, preferiate, preferiscano | *Preferisco che sia così.* |
+| chiedere | chieda, chieda, chieda… | *Chiedo che lui risponda.* |
+
+**Common irregulars:** *essere* → **sia**; *avere* → **abbia**; *andare* → **vada**; *fare* → **faccia**; *dire* → **dica**; *stare* → **stia**; *venire* → **venga**; *dare* → **dia**; *sapere* → **sappia**.
 
 ## From the story
 
-- “Marchetti **vuole che** io presenti il progetto della nuova **sede** dello studio.” — Marchetti **wants** me **to** present the plans for the studio's new **office**. (`s05e03-1-027`) — *volere che* with a different subject, and *presenti* is the subjunctive of *presentare*.
-- “Allora **voglio che** tu **mi aiuti** a fare un piano serio.” — So **I want** you **to help** me make a serious plan. (`s05e03-3-026`) — Matteo wants Ben to help: *voglio che tu aiuti*, not *voglio che tu aiuti*— wait, the infinitive would be *voglio che tu aiuti* is correct; *aiuti* is the subjunctive.
-- “Perché **preferisco che** tu **mi dica** le cose prima.” — Because **I prefer** you **to tell** me things first. (`s05e03-3-047`) — *preferire che* + *dica*, the irregular subjunctive of *dire*.
-- “**Chiedono che** **dia** una risposta entro venerdì.” — **They're asking** **me to give** an answer by Friday. (`s05e03-3-058`) — a request made to somebody: *chiedono che io dia*, irregular *dare*.
-- “**Spero che** **tu lo dica** a Chiara stasera. **Preferisco che** **tu non aspetti** un altro giorno.” — **I hope** **you tell** Chiara tonight. **I prefer** **you not to wait** another day. (`s05e03-4-080`) — *sperare* and *preferire* in the same breath; *aspetta* would be wrong.
-- “Michael **chiede che** io **risponda** entro febbraio.” — Michael **is asking** me **to reply** by February. (`s05e03-4-051`) — the subject changes (*Michael* → *io*), so the subjunctive is obligatory.
-- “**Desidera che** **cominci** presto. **Chiedono che** **ci trasferiamo** tutti.” — He **wants** **me to start** soon. **They're asking** **us all to move**. (`s05e03-4-052`) — *desiderare*, *chiedere*, and the pronominal *trasferirsi* in the subjunctive (*che ci trasferiamo*).
-- “Da tre giorni **voglio dirtelo**, ma non ci riesco.” — For three days **I've wanted to tell you**, but I can't manage it. (`s05e03-6-084`) — the opposite case: one subject, so *volere* takes **di** + infinitive, here attached as *dirtelo*.
-- “**Preferisco che** **mi dica** la **verità** e che sia brutta.” — **I prefer** him **to tell** me the **truth**, even if it's ugly. (`s05e03-7-024`) — two subjunctives in one sentence, both depending on *preferisco*.
+- La prima: «**Vogliamo che** tu **torni** a Chicago.» — The first: “**We want** you to **come back** to Chicago.” (`s05e03-1-011`) — *volere che* from a company to an employee: will, not a fact.
+- «**Vorremmo che** tu cominci a marzo. A casa ci pensiamo noi: una casa grande, una macchina nuova.» — “**We'd like** you to start in March. We'll take care of the house: a big house, a new car.” (`s05e03-1-019`) — the same pattern with the conditional *vorremmo*: a polite request.
+- «Grazie a te, Bianca. **Spero che** tu venga a cena domenica.» — “Thank you, Bianca. **I hope** you come to dinner on Sunday.” (`s05e03-4-081`) — *venire* is irregular: *venga*, not *vieni*.
+- «Leo, ascoltami. **Spero che** tuo papà prenda la **decisione** giusta.» — “Leo, listen to me. **I hope** your dad makes the right **decision**.” (`s05e03-7-026`) — third person singular: *prenda*.
+- «**Preferisco che** le cose restino dove sono.» «La mia linea, la mia casa, la mia gente.» — “**I prefer** things to stay where they are.” “My line, my house, my people.” (`s05e03-5-041`) — *preferire che* with a plural subject: *restino*.
+- «E io **preferisco che** sia così.» «Vuol dire che si fida di me.» — “And **I prefer** it to be that way.” “It means he trusts me.” (`s05e03-3-041`) — *essere* in the subjunctive: *sia*.
+- «Io non so se **preferisco che** tu stia a Milano sei ore al giorno.» — “I don't know if **I prefer** you to be in Milan six hours a day.” (`s05e03-3-043`) — *stare* is irregular: *stia*.
+- «Vorrei **rispondere** a un'**email** di lavoro. Niente di importante.» — “I'd like to **reply** to a work **email**. Nothing important.” (`s05e03-6-029`) — one subject only (*io*), so **no** *che*: *volere* + infinitive.
 
 ## Common mistakes English speakers make
 
-1. **Using the infinitive after a different subject.** *Voglio che tu vieni* is wrong. Say *voglio che tu venga*.
-2. **Using the indicative after *spero*.** English says "I hope it works". Italian says *spero che funzioni*, never *spero che funziona*.
-3. **Putting *che* with the same subject.** *Voglio che io parto* is not Italian. Say *voglio partire*.
-4. **Forgetting the irregulars.** *Spero che tu puoi* → *spero che tu possa*. *Voglio che tu fai* → *voglio che tu faccia*.
-5. **Mixing up *chiedere che* and *chiedere di*.** *Chiedo di uscire* = I'm asking to go out (me). *Chiedo che lui esca* = I'm asking him to go out.
-6. **Adding a subject pronoun.** *Voglio che tu tu venga* — one *tu* is enough: *voglio che tu venga*, or just *voglio che venga* if it's already clear.
+1. **Translating "that" literally.** English says *I want you to come*, with no *that*. Italian needs it: **Voglio che tu venga**, never *Voglio tu venga*.
+2. **Using the indicative.** *Voglio che tu vieni*, *spero che viene* are wrong. After *che* with a different subject, use the subjunctive: *venga*, *venga*.
+3. **Keeping the future after *spero*.** English says *I hope you'll come*. Italian prefers the present subjunctive: **Spero che tu venga**, not *spero che verrai*.
+4. **Using *che* with one subject.** *Voglio che io vada* is not Italian. Same subject: **Voglio andare**.
+5. **Forgetting the irregulars.** *Spero che tu sia*, *voglio che tu faccia*, *preferisco che tu vada* — these are the forms you will hear every day.
+6. **Mixing up *di* and *che*.** After these verbs use *che* + subjunctive: *spero che tu venga* (never *spero di tu venga*).
 
 ## Practice
 
-Put the verb in brackets into the correct form.
+Fill in the correct present subjunctive.
 
-1. Voglio che tu *(tornare)* presto.
-2. Spero che Marco *(essere)* già a casa.
-3. Preferisco che voi *(aspettare)* qui.
-4. Chiedono che io *(dare)* una risposta oggi.
-5. Il capo vuole che noi *(fare)* tutto con calma.
-6. Spero che lei *(potere)* venire domenica.
-7. Chiedo che lui *(dire)* la verità.
-8. Io e Chiara non vogliamo *(decidere)* da soli. *(same subject? no — look carefully)*
-9. Preferisci *(andare)* tu o preferisci che *(andare)* io?
+1. Voglio che tu (tornare) ______ a casa presto.
+2. Spero che Leo (stare) ______ bene a scuola.
+3. Preferisco che voi (parlare) ______ con calma.
+4. Il capo vuole che io (rispondere) ______ entro venerdì.
+5. Speriamo che (essere) ______ tutto a posto.
+6. Vuole che noi (andare) ______ a Milano domani?
+7. Preferisco che loro (fare) ______ come vogliono.
+8. Voglio (decidere) ______ da solo. *(same subject?)*
 
-**Answer key**
+### Answer key
 
-1. *torni*
-2. *sia*
-3. *aspettiate*
-4. *dia*
-5. *facciamo*
-6. *possa*
-7. *dica*
-8. *decidere* — here the subject is *io e Chiara* for both verbs, so the infinitive is correct. Compare: *Non vogliamo che Carlo decida da solo.*
-9. *andare* (same subject) / *vada* (different subject)
+1. torni — 2. stia — 3. parliate — 4. risponda — 5. sia — 6. andiamo — 7. facciano — 8. decidere (one subject: *voglio* + infinitive, no *che*).

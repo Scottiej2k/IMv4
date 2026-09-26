@@ -8,51 +8,53 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **volere che**<br>(expr.) · to want (someone) to<br>_Different subject → che + congiuntivo._ | "L'azienda **vuole che** tu torni." | "The company **wants** you to come back." |
-| **sperare che**<br>(expr.) · to hope that<br>_Always followed by the congiuntivo._ | **Spero che** trovi il coraggio stasera. | **I hope** he finds the courage tonight. |
-| **preferire che**<br>(expr.) · to prefer that<br>_Different subject → che + congiuntivo._ | Forse **preferisco che** la scelta la faccia Chiara. | Maybe **I prefer** Chiara to make the choice. |
-| **chiedere che**<br>(expr.) · to ask (someone) to<br>_A request made to another person._ | "**Chiediamo che** tu cominci a marzo." | "**We're asking** you to start in March." |
+| **vogliono che**<br>(expr.) · they want (someone) to | La prima: «**Vogliamo che** tu torni a Chicago.» | The first: “**We want** you to come back to Chicago.” |
+| **spero che**<br>(expr.) · I hope (that) | «Leo, ascoltami. **Spero che** tuo papà prenda la decisione giusta.» | “Leo, listen to me. **I hope** your dad makes the right decision.” |
+| **preferisco che**<br>(expr.) · I prefer (that) | «E io **preferisco che** sia così.» «Vuol dire che si fida di me.» | “And **I prefer** it to be that way.” “It means he trusts me.” |
 
 ## Verbs
 
 | Parola | Italiano | English |
 |---|---|---|
-| **firmare**<br>(v.) · to sign | "Il contratto aspetta solo la tua **firma**." | "The contract is just waiting for your **signature**." |
-| **trasferirsi**<br>(v.) · to move (to another country or house) | Desidera che cominci presto. Chiedono che **ci trasferiamo** tutti. | He wants me to start soon. They're asking **us all to move**. |
-| **tornare**<br>(v.) · to come back, to go back | "L'azienda vuole che tu **torni**." | "The company wants you **to come back**." |
-| **decidere**<br>(v.) · to decide | Mai più. In questa casa nessuno **decide** da solo. | Never again. In this house nobody **decides** alone. |
-| **nascondere**<br>(v.) · to hide | Quando qualcuno **nasconde** qualcosa, io lo capisco subito. | When somebody **hides** something, I understand straight away. |
-| **rispondere**<br>(v.) · to answer, to reply | Ben non **risponde**. Continua a lavare. L'acqua è calda. | Ben doesn't **answer**. He keeps washing. The water is hot. |
-| **raddoppiare**<br>(v.) · to double | E poi: "Lo stipendio **raddoppia**." | And then: "The salary **doubles**." |
+| **chiedere**<br>(v.) · to ask | «Posso **chiedere** una cosa?» dice dopo un momento. | “Can I **ask** you something?” he says after a moment. |
+| **trasferirsi**<br>(v.) · to move (house or country) | _Potrei **trasferirmi** a marzo con un contratto firmato e una casa pronta._ | _I could **move** in March with a signed contract and a house ready._ |
+| **tornare**<br>(v.) · to come back, to return | La prima: «Vogliamo che tu **torni** a Chicago.» | The first: “We want you to **come back** to Chicago.” |
+| **accettare**<br>(v.) · to accept | _Vogliono che io **accetti** entro venerdì prossimo. E non ho ancora risposto._ | _They want me to **accept** by next Friday. And I still haven't replied._ |
+| **rifiutare**<br>(v.) · to refuse | _Perfetto. Non ho accettato e non ho **rifiutato**. Ho solo chiesto tempo._ | _Perfect. I haven't accepted and I haven't **refused**. I've only asked for time._ |
+| **decidere**<br>(v.) · to decide | «Però una volta ho **deciso** una cosa importante.» | “But once I **decided** something important.” |
+| **scegliere**<br>(v.) · to choose | «Bravo. **Scegliere** è importante.» | “Good. **Choosing** is important.” |
+| **rispondere**<br>(v.) · to reply, to answer | Ti **rispondo** venerdì con una decisione chiara. | I'll **reply** on Friday with a clear decision. |
+| **guadagnare**<br>(v.) · to earn | _Il doppio. In dollari, questo vuol dire **guadagnare** molto bene._ | _Double. In dollars, that means **earning** very well._ |
+| **raccontare**<br>(v.) · to tell | «Mamma, posso **raccontare** una cosa strana?» | “Mum, can I **tell** you something strange?” |
 
 ## Nouns
 
 | Parola | Italiano | English |
 |---|---|---|
-| **l'offerta**<br>(n., f) · the offer | **Un'offerta**. Una proposta di lavoro. | **An offer**. A job proposal. |
-| **la proposta di lavoro**<br>(n., f) · the job proposal | Una **proposta di lavoro**. | A **job proposal**. |
-| **lo stipendio**<br>(n., m) · the salary | E poi: "**Lo stipendio** raddoppia." | And then: "**The salary** doubles." |
-| **il contratto**<br>(n., m) · the contract | Parole come stipendio, **contratto**, trasferimento. | Words like salary, **contract**, move. |
-| **la sede**<br>(n., f) · the office, the headquarters | "Offerta. Stipendio. Contratto. Trasferimento. **Sede**. Promozione." | "Offer. Salary. Contract. Move. **Office**. Promotion." |
-| **la promozione**<br>(n., f) · the promotion | "Offerta. Stipendio. Contratto. Trasferimento. Sede. **Promozione**." | "Offer. Salary. Contract. Move. Office. **Promotion**." |
-| **il trasferimento**<br>(n., m) · the move, the relocation | "**Trasferimento**"? Per la cucina? | "**Move**"? For the cooking? |
-| **il capo**<br>(n., m) · the boss | La mia vecchia azienda. Michael, il mio **capo** di prima. | My old company. Michael, my old **boss**. |
-| **l'azienda**<br>(n., f) · the company | "**L'azienda** vuole che tu torni." | "**The company** wants you to come back." |
-| **la carriera**<br>(n., f) · the career | Che cosa vuol dire "con la **carriera** che hai"? | What do you mean, "with the **career** you have"? |
-| **la decisione**<br>(n., f) · the decision | Non è una **decisione** semplice. Lo vedo. | It's not a simple **decision**. I can see that. |
-| **la scelta**<br>(n., f) · the choice | Restare è più difficile. Ma restare è la **scelta** coraggiosa. | Staying is harder. But staying is the brave **choice**. |
-| **il futuro**<br>(n., m) · the future | E un **futuro** che conosco già. | And a **future** I already know. |
-| **il dubbio**<br>(n., m) · the doubt | Ho un **dubbio**, e il dubbio non ha una risposta. | I have a **doubt**, and the doubt has no answer. |
-| **il coraggio**<br>(n., m) · the courage | Spero che trovi **il coraggio** stasera. | I hope he finds **the courage** tonight. |
-| **il segreto**<br>(n., m) · the secret | Ai miei tempi i **segreti** duravano poco. | In my day **secrets** didn't last long. |
-| **il messaggio**<br>(n., m) · the message | Un'email bellissima. Un **messaggio** semplice, cortese, chiaro. | A beautiful email. A simple, polite, clear **message**. |
-| **l'email**<br>(n., f) · the email | Tre giorni fa arriva un'**email**. | Three days ago an **email** arrives. |
-| **la neve**<br>(n., f) · the snow | Papà, a Chicago c'è la **neve**? | Dad, is there **snow** in Chicago? |
-| **la verità**<br>(n., f) · the truth | Preferisco che non impari la **verità** da mia figlia. | I prefer he doesn't learn the **truth** from my daughter. |
-| **marzo**<br>(n., m) · March | "Chiediamo che tu cominci a **marzo**." | "We're asking you to start in **March**." |
+| **l'offerta**<br>(n., f) · offer | _Caro Dave, grazie per l'**offerta**._ | _Dear Dave, thank you for the **offer**._ |
+| **la proposta**<br>(n., f) · proposal | «C'è un'offerta. Una **proposta** di lavoro vera.» | “There's an offer. A real job **proposal**.” |
+| **lo stipendio**<br>(n., m) · salary, pay | _La promozione. Il direttore. Lo **stipendio** doppio._ | _The promotion. The director. Double the **salary**._ |
+| **il trasferimento**<br>(n., m) · move, relocation | «E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.» | “And the **move** would be in March. They want the answer by next Friday.” |
+| **il contratto**<br>(n., m) · contract | «Lo stipendio doppio.» «E il **contratto**?» | “Double the salary.” “And the **contract**?” |
+| **la sede**<br>(n., f) · office, headquarters | «Ornella, tu sei la mia **sede** italiana.» | “Ornella, you're my Italian **office**.” |
+| **la promozione**<br>(n., f) · promotion | _La **promozione**. Il direttore. Lo stipendio doppio._ | _The **promotion**. The director. Double the salary._ |
+| **la decisione**<br>(n., f) · decision | Ti rispondo venerdì con una **decisione** chiara. | I'll reply on Friday with a clear **decision**. |
+| **il capo**<br>(n., m) · boss | Sullo schermo ci sono una firma e un nome: Dave Miller, il suo vecchio **capo**. | On the screen there's a signature and a name: Dave Miller, his old **boss**. |
+| **l'azienda**<br>(n., f) · company | «Tre giorni fa ho ricevuto un'email dall'**azienda** dove lavoravo a Chicago.» | “Three days ago I received an email from the **company** where I used to work in Chicago.” |
+| **la carriera**<br>(n., f) · career | «Matteo, la mia **carriera** va avanti.» «E va avanti bene.» | “Matteo, my **career** is moving forward.” “And it's moving forward well.” |
+| **il futuro**<br>(n., m) · future | «**Futuro**.» «Che cos'è il futuro, papà?» | “**Future**.” “What's the future, Dad?” |
+| **la scelta**<br>(n., f) · choice | «Avevo una paura enorme.» «Però la **scelta** era mia, e questo cambia tutto.» | “I was enormously scared.” “But the **choice** was mine, and that changes everything.” |
+| **l'email**<br>(n., f) · email | «È un'**email** di lavoro.» | “It's a work **email**.” |
+| **il direttore**<br>(n., m) · director, manager | _La promozione. Il **direttore**. Lo stipendio doppio._ | _The promotion. The **director**. Double the salary._ |
+| **il posto**<br>(n., m) · place, job, position | «Tu cosa avresti fatto? Al mio **posto**, intendo.» | “What would you have done? In my **place**, I mean.” |
+| **l'estero**<br>(n., m) · abroad | «Un'altra. Tu non sei mai andato all'**estero**?» | “Another one. Have you never gone **abroad**?” |
+| **il segreto**<br>(n., m) · secret | _E adesso anche Matteo ha capito che c'è qualcosa. Sono un **segreto** con le gambe._ | _And now Matteo has understood there's something too. I'm a **secret** with legs._ |
+| **la notizia**<br>(n., f) · news | «Come si guarda una **notizia** importante.» | “The way you look at **important news**.” |
 
-## Adjectives
+## Adverbs
 
 | Parola | Italiano | English |
 |---|---|---|
-| **lontano**<br>(adj.) · far, far away | Un giorno **lontano**. Molto lontano. | One day **far away**. Very far away. |
+| **comunque**<br>(adv.) · anyway, in any case | «Prego. **Comunque** non decidi da solo.» «Questo è il punto.» | “You're welcome. **Anyway**, you don't decide alone.” “That's the point.” |
+| **almeno**<br>(adv.) · at least | _Adesso aspetto. **Almeno** una settimana ho comprato._ | _Now I wait. **At least** I've bought a week._ |
+| **invece**<br>(adv.) · instead | A volte Ben **invece** ha troppi dubbi. | Sometimes Ben **instead** has too many doubts. |
