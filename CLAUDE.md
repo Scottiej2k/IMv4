@@ -78,7 +78,9 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
 - **Read-along** (owner's feature): words underline as the audio plays, played words stay
   underlined, play from any sentence, resume. Content is ready: word ids in every segment
   (`tokens`), word spans per TTS item; timings will come from forced alignment of the finished
-  audio (docs/read-along.md). The review reader demos it with the browser's Italian voice.
+  audio (docs/read-along.md). `scripts/make_audio.py` makes a chapter's MP3 + timing.json (Gemini,
+  or `--engine standin` via OpenRouter for testing). S1E1 has stand-in audio in the reader; real
+  Gemini voices need a `GEMINI_API_KEY` environment variable (owner to add) and the voice casting.
 - Dialogue target is 45–60% for the book format (owner, 2026-09-26).
 - TTS: checked against Google's docs (docs/tts-format.md). Styles are now short; character
   voices (Italian voices from the Extended Voice Library, a designed voice for Ben) are still to

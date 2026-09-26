@@ -470,6 +470,35 @@ td .ext { color: var(--muted); font-size: 13px; }
     updateBar();
   }
   function clearTimers() { P.timers.forEach(clearTimeout); P.timers = []; }
+  // Real audio (chapters with audio/timing.json): an <audio> element and word start times.
+  const A = { el: null, words: [], ptr: 0, raf: 0, lastSave: 0 };
+  function audioMode() { return !!(data && data.timing); }
+  function audioInit() {
+    if (A.el && A.el.dataset.ch === cur) return;
+    if (A.el) { A.el.pause(); A.el.remove(); }
+    A.el = new Audio("data/" + cur + ".mp3");
+    A.el.dataset.ch = cur; A.el.preload = "metadata";
+    A.words = Object.entries(data.timing.words).map(([id, se]) => [se[0], id]).sort((a, b) => a[0] - b[0]);
+    A.el.addEventListener("ended", () => { stopPlayer(); store.set("t-" + cur, 0); updateBar("Finished. Every word you heard stays underlined."); });
+    A.el.addEventListener("error", () => updateBar("Couldn't load this chapter's audio file."));
+  }
+  function seekPtr(t) { let lo = 0, hi = A.words.length; while (lo < hi) { const m = (lo + hi) >> 1; if (A.words[m][0] <= t) lo = m + 1; else hi = m; } A.ptr = lo; }
+  function tick() {
+    const t = A.el.currentTime;
+    while (A.ptr < A.words.length && A.words[A.ptr][0] <= t) markPlayed(A.words[A.ptr++][1]);
+    if (t - A.lastSave > 2) { store.set("t-" + cur, t); A.lastSave = t; const m = $("ptime"); if (m) m.textContent = clock(t); }
+    if (P.playing) A.raf = requestAnimationFrame(tick);
+  }
+  const clock = (t) => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, "0")} / ${Math.floor(data.timing.duration / 60)}:${String(Math.floor(data.timing.duration % 60)).padStart(2, "0")}`;
+  function audioPlay(t) {
+    audioInit();
+    A.el.currentTime = Math.max(0, t);
+    seekPtr(A.el.currentTime);
+    P.playing = true;
+    A.el.play().then(() => { A.raf = requestAnimationFrame(tick); updateBar(); })
+      .catch(() => { P.playing = false; updateBar("The browser blocked playback. Press Play again."); });
+  }
+
   function startAt(k) {
     if (!("speechSynthesis" in window)) return updateBar("This browser has no speech voice, so the demo can't play here.");
     P.voice = pickVoice();
@@ -481,15 +510,20 @@ td .ext { color: var(--muted); font-size: 13px; }
   }
   function stopPlayer() {
     P.playing = false; clearTimers();
+    if (A.el) { if (!A.el.paused) store.set("t-" + cur, A.el.currentTime); A.el.pause(); cancelAnimationFrame(A.raf); }
     if ("speechSynthesis" in window) speechSynthesis.cancel();
     document.querySelectorAll(".w.now").forEach((el) => el.classList.remove("now"));
   }
 
   function playerBar() {
-    const pos = store.get("pos-" + cur, 0);
-    const resume = pos > 0 ? `<button data-act="resume">Resume where you left off</button>` : "";
+    const real = audioMode();
+    const pos = real ? store.get("t-" + cur, 0) : store.get("pos-" + cur, 0);
+    const resume = pos > 0 && !P.playing ? `<button data-act="resume">Resume where you left off</button>` : "";
+    const msg = real
+      ? `<span id="ptime">${clock(pos)}</span> · Voices: ${esc(data.timing.voices)}`
+      : "Demo voice: your browser's Italian voice. The finished course uses the Gemini voices, with the same underlining.";
     return `<div class="pbar" id="pbar"><button class="play" data-act="toggle">${P.playing ? "Pause" : "▶ Play"}</button>${resume}
-      <button data-act="clear">Clear underlines</button><span class="msg" id="pmsg">Demo voice: your browser's Italian voice. The finished course uses the Gemini voices, with the same underlining.</span></div>`;
+      <button data-act="clear">Clear underlines</button><span class="msg" id="pmsg">${msg}</span></div>`;
   }
   function updateBar(msg) {
     const bar = $("pbar"); if (!bar) return;
@@ -498,10 +532,17 @@ td .ext { color: var(--muted); font-size: 13px; }
   }
   function playerAction(act, seg) {
     closePop();
-    if (act === "toggle") { if (P.playing) { stopPlayer(); updateBar(); } else startAt(store.get("pos-" + cur, 0)); }
-    if (act === "resume") startAt(store.get("pos-" + cur, 0));
-    if (act === "clear") { stopPlayer(); store.set(playedKey(), {}); store.set("pos-" + cur, 0); document.querySelectorAll(".w.played").forEach((el) => el.classList.remove("played")); updateBar(); }
-    if (act === "from") { const q = buildQueue(); startAt(Math.max(0, q.findIndex((x) => x.seg === seg))); }
+    const real = audioMode();
+    if (act === "toggle") {
+      if (P.playing) { stopPlayer(); updateBar(); }
+      else if (real) audioPlay(store.get("t-" + cur, 0)); else startAt(store.get("pos-" + cur, 0));
+    }
+    if (act === "resume") { if (real) audioPlay(store.get("t-" + cur, 0)); else startAt(store.get("pos-" + cur, 0)); }
+    if (act === "clear") { stopPlayer(); store.set(playedKey(), {}); store.set("pos-" + cur, 0); store.set("t-" + cur, 0); document.querySelectorAll(".w.played").forEach((el) => el.classList.remove("played")); updateBar(); }
+    if (act === "from") {
+      if (real) { stopPlayer(); audioPlay((data.timing.segments[seg] || [0])[0] - 0.05); }
+      else { const q = buildQueue(); startAt(Math.max(0, q.findIndex((x) => x.seg === seg))); }
+    }
     if (act === "en") { const el = document.querySelector(`.story [data-seg="${seg}"]`); if (el) el.classList.toggle("open"); }
   }
 

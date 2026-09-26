@@ -9,6 +9,7 @@ continuity entry and a compact TTS script). Both are generated and git-ignored; 
 itself is committed. Publish the page with these files alongside it (see CLAUDE.md).
 """
 import json
+import shutil
 import sys
 from pathlib import Path
 
@@ -92,6 +93,12 @@ def main():
                         "continuity": (folder / "continuity.md").read_text(encoding="utf-8") if (folder / "continuity.md").exists() else "",
                         "tts": compact_tts(json.loads((folder / "tts.json").read_text(encoding="utf-8")))
                         if (folder / "tts.json").exists() else None}
+                audio = folder / "audio"
+                if (audio / "timing.json").exists() and (audio / "chapter.mp3").exists():
+                    t = json.loads((audio / "timing.json").read_text(encoding="utf-8"))
+                    data["timing"] = {k: t[k] for k in ("duration", "voices", "segments", "words")}
+                    shutil.copyfile(audio / "chapter.mp3", OUT / "data" / f"{cid}.mp3")
+                    row["audio"] = True
                 (OUT / "data" / f"{cid}.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")),
                                                           encoding="utf-8")
                 written += 1

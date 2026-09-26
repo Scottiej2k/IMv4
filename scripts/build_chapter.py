@@ -431,8 +431,8 @@ def voiced_items(chapter, scene, rep=None):
                 span = [word_span(seg["id"], wi, n)] if n else []
                 wi += n
                 text = spoken_text(text).strip("«» ")
-                if not text:
-                    continue
+                if not n and not TAG_RE.search(text):
+                    continue  # punctuation left between quotes ("." after «…»): nothing to say
                 style = piece_style(chapter, own)
                 if items and items[-1][0] == sp and items[-1][2] == style and len(items[-1][1]) + len(text) < MAX_DIALOGUE_CHARS:
                     prev = items[-1]

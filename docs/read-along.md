@@ -56,8 +56,25 @@ first word's start to its last word's end), which is where **Play from here** se
 The review reader demonstrates this behaviour now with the browser's built-in Italian voice, which
 reports word boundaries as it speaks. With real audio it switches to `timing.json`.
 
-## Still to build (with the audio step)
+## How the audio is made now: `scripts/make_audio.py`
 
-1. `scripts/make_audio.py`: send each `tts.json` request to Gemini, save the clips, join them.
-2. `scripts/align_audio.py`: forced alignment per clip using its `words` spans → `timing.json`.
-3. Spot-check alignment on one chapter by ear before running the course.
+```
+python3 scripts/make_audio.py s01e01                    # Gemini TTS: needs GEMINI_API_KEY
+python3 scripts/make_audio.py s01e01 --engine standin   # OpenRouter stand-in voices, for testing
+```
+
+- Every text item of `tts.json` (one speaker's turn) becomes its own single-voice clip, so each
+  turn's start and end in the chapter are exact. Clips are cached in `audio/clips/`.
+- Inside a clip, word times are estimated: the voiced part (silence trimmed) is shared out by
+  syllables, with pauses after commas and full stops. Turns are short, so the underline stays close;
+  a forced aligner could refine it later, but its models can't be downloaded in this environment
+  (huggingface.co and download.pytorch.org are blocked).
+- The clips are joined with short gaps (longer between speakers and scenes) and encoded as a 32
+  kbit/s mono MP3 (S1E1: 22 minutes, 5.4 MB). Needs `pip install numpy lameenc`.
+- The stand-in (`openai/gpt-audio-mini`) is a chat model that sometimes answers instead of reading;
+  each stand-in clip is checked against its own transcript and retried until it matches. Gemini
+  TTS reads verbatim, so it doesn't need this.
+- Audio files stay out of git (`chapters/*/audio/` is ignored); they're regenerated from `tts.json`.
+
+The review reader uses `chapter.mp3` and `timing.json` when a chapter has them (S1E1 so far), and
+the browser's voice otherwise.

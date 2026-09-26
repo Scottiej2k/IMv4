@@ -5281,8 +5281,7 @@
         ],
         [
           "s01e01-3-004:5-6"
-        ],
-        []
+        ]
       ],
       "request": {
         "model": "gemini-3.8-flash-tts",
@@ -5308,17 +5307,6 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ornella",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": ".",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
                     "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
@@ -15818,7 +15806,7 @@
               },
               {
                 "type": "text",
-                "text": ". Franco esce di casa. La strada è buia. Lui cammina fino al numero quattordici. Mette la busta davanti alla porta. Poi guarda la finestra. Dentro, la casa è piena di luce. Lui sente una risata.",
+                "text": "Franco esce di casa. La strada è buia. Lui cammina fino al numero quattordici. Mette la busta davanti alla porta. Poi guarda la finestra. Dentro, la casa è piena di luce. Lui sente una risata.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
