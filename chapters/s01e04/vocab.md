@@ -4,48 +4,36 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## Expressions
-
-| Parola | Italiano | English |
-|---|---|---|
-| **in ritardo**<br>(expr.) · late, delayed | Lei è **in ritardo**. | You're **late**. |
-
 ## Verbs
 
 | Parola | Italiano | English |
 |---|---|---|
-| **c'è**<br>(v.) · there is | E **c'è** una farmacia? | And **is there** a pharmacy? |
-| **ci sono**<br>(v.) · there are | E **ci sono** i cancelli? | And **are there** gates? |
+| **camminare**<br>(v.) · to walk | «Perfetto!» dice Ben. «Allora, **camminiamo**!» | “Perfect!” says Ben. “So, let's **walk**!” |
+| **guardare**<br>(v.) · to look at, to watch | Leo **guarda** la strada. | Leo **looks at** the street. |
+| **cercare**<br>(v.) · to look for | «Adesso **cerchiamo** il parco.» | “Now let's **look for** the park.” |
 
 ## Nouns
 
 | Parola | Italiano | English |
 |---|---|---|
-| **la piazza**<br>(n., f) · square | Oh! Papà! C'è una **piazza**! | Oh! Dad! There's a **square**! |
-| **la chiesa**<br>(n., f) · church | Sì. Una **chiesa** antica. | Yes. An old **church**. |
-| **la farmacia**<br>(n., f) · pharmacy | E c'è una **farmacia**? | And is there a **pharmacy**? |
-| **il panificio**<br>(n., m) · bakery | Un **panificio**! Io voglio il pane! | A **bakery**! I want bread! |
-| **la stazione**<br>(n., f) · station | E dov'è la **stazione**? | And where's the **station**? |
-| **il supermercato**<br>(n., m) · supermarket | Dov'è il **supermercato**? Mah. | Where's the **supermarket**? Hmm. |
-| **il parco**<br>(n., m) · park | Un **parco**! Ci sono gli alberi? | A **park**! Are there trees? |
-| **il bar**<br>(n., m) · bar, café | E c'è un **bar**? | And is there a **bar**? |
-| **la mappa**<br>(n., f) · map | Ma la **mappa** serve? | But is the **map** useful? |
-| **la strada**<br>(n., f) · street, road | E la **strada**? C'è la strada? | And the **street**? Is there the street? |
-| **il negozio**<br>(n., m) · shop | Papà, e c'è un **negozio** in piazza? | Dad, and is there a **shop** in the square? |
-| **il centro**<br>(n., m) · centre, town centre | La farmacia del **centro**. Capito. | The pharmacy of the **centre**. Got it. |
-| **il treno**<br>(n., m) · train | Il **treno**... dov'è il treno? | The **train**... where's the train? |
-| **il cartello**<br>(n., m) · sign, notice | Un **cartello**. Bene. Scrivo. | A **sign**. Good. I'll write. |
-| **il cancello**<br>(n., m) · gate | Capisco. Un bel **cancello**. | I understand. A nice **gate**. |
-| **il binario**<br>(n., m) · platform, track | Un solo **binario**. Capisco. | Only one **platform**. I see. |
-| **il capo**<br>(n., m) · boss | Ah. Il **capo** nuovo. | Ah. The new **boss**. |
-| **la fontana**<br>(n., f) · fountain | Una **fontana** piccola. Molto... bella. | A small **fountain**. Very... nice. |
-| **il municipio**<br>(n., m) · town hall | Bravo! C'è anche il **municipio**. | Good! There's also the **town hall**. |
-| **la passeggiata**<br>(n., f) · walk, stroll | Una **passeggiata** con la mappa. | A **walk** with the map. |
-| **il pane**<br>(n., m) · bread | Il **pane** è caldo! | The **bread** is warm! |
-| **la medicina**<br>(n., f) · medicine | E dov'è la **medicina**? | And where's the **medicine**? |
-
-## Adverbs
-
-| Parola | Italiano | English |
-|---|---|---|
-| **dov'è**<br>(adv.) · where is | **Dov'è** il supermercato? Mah. | **Where's** the supermarket? Hmm. |
+| **la piazza**<br>(n., f) · square | «Una fermata in **piazza**?» | “A stop in the **square**?” |
+| **la chiesa**<br>(n., f) · church | Leo guarda la **chiesa**. | Leo looks at the **church**. |
+| **la farmacia**<br>(n., f) · pharmacy | «E c'è una **farmacia**.» | “And there's a **pharmacy**.” |
+| **il panificio**<br>(n., m) · bakery | «Che cos'è un **panificio**?» | “What's a **bakery**?” |
+| **la stazione**<br>(n., f) · station | «Dov'è la **stazione**?» chiede. | “Where's the **station**?” he asks. |
+| **il supermercato**<br>(n., m) · supermarket | «E dov'è il **supermercato**?» | “And where's the **supermarket**?” |
+| **il parco**<br>(n., m) · park | «E dov'è il **parco**?» | “And where's the **park**?” |
+| **la strada**<br>(n., f) · street, road | Leo guarda la **strada**. | Leo looks at the **street**. |
+| **il negozio**<br>(n., m) · shop | «E c'è un **negozio**.» | “And there's a **shop**.” |
+| **la mappa**<br>(n., f) · map | «Leo, facciamo una **mappa**.» | “Leo, let's make a **map**.” |
+| **il treno**<br>(n., m) · train | E il **treno** parte. | And the **train** leaves. |
+| **l'avviso**<br>(n., m) · notice | «Allora... **Avviso**... Comitato...» legge Ben. | “So... **Notice**... Committee...” reads Ben. |
+| **il cancello**<br>(n., m) · gate | «Perché è sul nostro **cancello**?» | “Why is it on our **gate**?” |
+| **il vicino**<br>(n., m) · neighbour | Poi arriva un **vicino**. | Then **a neighbour** arrives. |
+| **la fontana**<br>(n., f) · fountain | Davanti alla chiesa c'è una **fontana**. | In front of the church there's a **fountain**. |
+| **il bar**<br>(n., m) · bar, café | «E dov'è il **bar**?» | “And where's the **bar**?” |
+| **il pane**<br>(n., m) · bread | «Con un **pane** buono.» | “With a good **bread**.” |
+| **la fermata**<br>(n., f) · stop (bus, tram) | «Dov'è la **fermata** dell'autobus?» | “Where's the bus **stop**?” |
+| **il giornale**<br>(n., m) · newspaper | Chiara guarda il **giornale**. | Chiara looks at the **newspaper**. |
+| **l'ufficio**<br>(n., m) · office | «Primo: **l'ufficio** alle nove.» | “First: the **office** at nine.” |
+| **la banca**<br>(n., f) · bank | «E c'è una **banca**.» | “And there's a **bank**.” |

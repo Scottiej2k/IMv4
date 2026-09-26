@@ -1,112 +1,86 @@
-# Indefinite articles + *c'è* / *ci sono*: "a" and "there is / there are"
+# Indefinite articles + *c'è / ci sono*
 
 ## What it is
 
-Two things you need to talk about a town: how to say **a** (one, some unspecified one) — *un bar*, *una chiesa* — and how to say **there is / there are** — *c'è*, *ci sono*. Together they let you say the simplest useful things in a new place: *C'è una piazza.* *Ci sono due negozi.* In this chapter Ben builds a map of Borgoverde using exactly these two tools, plus the question *Dov'è…?* ("Where is…?").
+Two things that go together perfectly when you arrive in a new town.
+
+**Indefinite articles** are the little words for *a* and *an*: **un**, **uno**, **una**, **un'**. They come before a noun when you are not talking about a specific one — just *a church*, *a bar*, *a map* somewhere in town.
+
+**C'è** and **ci sono** mean *there is* and *there are*. They are how Italian says what exists, what you can find in a place. *C'è una chiesa* = "There's a church." *Ci sono due bar* = "There are two bars."
+
+And when you want to ask where something is, the word is **dov'è?** — *where is…?*
 
 ## How it works
 
-### 1. Indefinite articles: *un, uno, una, un'*
+### Indefinite articles
 
-The indefinite article means "a / an". Italian chooses it by the gender of the noun and by the sound that follows.
-
-| Noun | Article | Example |
+| Form | Use it before | Example |
 |---|---|---|
-| masculine, before most consonants and vowels | **un** | **un** bar, **un** panificio, **un** albero |
-| masculine, before *s* + consonant, *z*, *gn*, *ps*, *y* | **uno** | **uno** studente, **uno** zaino |
-| feminine, before a consonant | **una** | **una** chiesa, **una** fontana, **una** mappa |
-| feminine, before a vowel | **un'** | **un'** amica, **un'** ora |
+| **un** | masculine nouns starting with a vowel or most consonants | **un** bar, **un** pane, **un** negozio |
+| **uno** | masculine nouns starting with s + consonant, z, ps, gn, y | **uno** studente, **uno** zaino |
+| **una** | feminine nouns starting with a consonant | **una** chiesa, **una** piazza, **una** mappa |
+| **un'** | feminine nouns starting with a vowel | **un'**amica, **un'**idea |
 
-Note the trap: *una* + vowel becomes *un'* with an apostrophe — *una farmacia* but *un'aula*. And masculine nouns before a vowel stay *un*, with no apostrophe: *un amico*, *un ufficio*.
+Note: *un* has no apostrophe (it's a masculine form), while *un'* always does (it's a shortened *una*). This is the mistake learners make most: **un'** is only for feminine words beginning with a vowel.
 
-The indefinite article usually has no plural. "Some" is normally just the noun, or the partitive *dei / delle* (taught later).
+### C'è / ci sono
 
-### 2. *c'è* / *ci sono*: "there is / there are"
-
-| | Use it for | Example |
+| | Singular | Plural |
 |---|---|---|
-| **c'è** | one thing (singular) | **C'è** una chiesa. |
-| **ci sono** | more than one thing (plural) | **Ci sono** due negozi. |
+| Form | **c'è** | **ci sono** |
+| Example | **C'è** una fontana. | **Ci sono** due negozi. |
 
-*C'è* is *ci* + *è* (the verb *essere*), joined by an apostrophe. *Ci sono* is two words. The verb agrees with what follows it:
+The choice depends only on what comes **after**: one thing → *c'è*; more than one thing → *ci sono*. Never *c'è* with a plural noun, and never *ci sono* with a singular one.
 
-- **C'è** un bar. → There's a bar.
-- **Ci sono** i tavoli. → There are the tables.
+*C'è* also appears in a very common expression: **c'è scritto** — "it says", literally "there is written".
 
-Use it to say what exists, what is there, and what is not there:
+### Dov'è?
 
-- **C'è** una farmacia in piazza?
-- No, non **c'è** una farmacia in piazza. La farmacia è qui.
-- **Ci sono** gli alberi nel parco.
-- Non **ci sono** i cornetti in farmacia.
+**Dov'è** = *dove* + *è* ("where is"). With a plural you say **dove sono**:
 
-### 3. *Dov'è…?* — "Where is…?"
-
-**Dov'è** = *dove* + *è*, with an apostrophe. Use it for one thing; for more than one, Italians usually still say *Dov'è…?* with a plural noun, or *Dove sono…?*
-
-- **Dov'è** la stazione?
-- **Dov'è** il supermercato?
-- **Dov'è** la medicina?
+- **Dov'è** il bar? — Where's the bar?
+- **Dov'è** la stazione? — Where's the station?
+- **Dove sono** i bagni? — Where are the toilets?
 
 ## From the story
 
-“La **piazza** è grande e grigia. **C'è** una **chiesa** con un campanile.” — The **square** is big and grey. **There's** a **church** with a bell tower. (`s01e04-3-008`)
-→ *C'è* + a singular noun: one church exists on the square.
-
-“Sì. Nel **parco** **ci sono** gli alberi.” — Yes. In the **park** **there are** trees. (`s01e04-3-024`)
-→ *Ci sono* + a plural noun: trees, more than one.
-
-“Signora, scusi. **Dov'è** il **binario** per Milano?” — Ma'am, excuse me. **Where's** the **platform** for Milan? (`s01e04-5-044`)
-→ *Dov'è* to ask the location of one thing.
-
-“Guarda. Questo è un **cartello** del Comitato. **C'è** la **chiesa**. **Ci sono** la **fontana** e il municipio.” — Look. This is a **sign** from the Committee. **There's** the **church**. **There are** the **fountain** and the town hall. (`s01e04-4-039`)
-→ *un* before a masculine noun starting with a consonant.
-
-“No. La **farmacia** è qui. In Via Verdi.” — No. The **pharmacy** is here. On Via Verdi. (`s01e04-4-061`)
-→ A definite article (*la*) because the pharmacy is now a known, specific one.
-
-“Una **fontana** piccola. Molto... bella.” — A small **fountain**. Very... nice. (`s01e04-3-012`)
-→ *una* before a feminine noun starting with a consonant.
-
-→ Not from this chapter's text — instead, see:
-
-“È la mia **mappa** di Borgoverde.” — It's my **map** of Borgoverde. (`s01e04-4-032`)
-→ Here the *definite* article *la* is right: the map is a particular, known map.
-
-“La **mappa** è sbagliata senza il **bar**?” — The **map** is wrong without the **bar**? (`s01e04-3-075`)
-→ *La* and *il*, again because these are the specific map and the known bar.
-
-→ (This one is a note, not a story line — see the examples above.)
+«Perché **c'è** un **bar** davanti a casa nostra.» — “Because **there's** a **bar** in front of our house.” (`s01e04-1-034`) — Singular noun after *c'è*: one bar, one *c'è*.
+«**Ci sono**. Due **negozi**.» — “**There are**. Two **shops**.” (`s01e04-2-051`) — Plural noun after *ci sono*: two shops, so *ci sono*, not *c'è*.
+«**Dov'è** la **stazione**?» chiede. — “**Where's** the **station**?” he asks. (`s01e04-1-025`) — The question form with a feminine singular noun.
+«**C'è** **una** **piazza** e **c'è** **una** chiesa.» — “**There's** **a** **square** and **there's** **a** church.” (`s01e04-3-025`) — Two separate things, two separate *c'è*: Italian repeats it.
+«Manca anche **l'ufficio** postale. È dietro la **chiesa**.» — “The post **office** is missing too. It's behind the **church**.” (`s01e04-4-024`) — Here the office is already known, so it takes a definite article, not *un*.
+«**Ci sono** due banche?» — “**There are** two banks?” (`s01e04-4-027`) — A question with *ci sono*, plural noun.
+«Ah! **Un** **negozio** di vestiti.» — “Ah! **A** clothes **shop**.” (`s01e04-2-037`) — *Un* before a masculine noun starting with a consonant.
+«Signore, si dice: **un** chilo di pane.» — “Sir, you say: **a** kilo of bread.” (`s01e04-3-057`) — *Un* also goes with quantities: *un chilo*, *un litro*, *un etto*.
+«Sì. **C'è** scritto: vietato mettere **avvisi** sui **cancelli**.» — “Yes. It says: **notices** on **gates** are forbidden.” (`s01e04-7-022`) — *C'è scritto* plus the words on the notice.
 
 ## Common mistakes English speakers make
 
-1. **Using *è* for "there is".** English "there is" is not *è*. It is **c'è**. *È una chiesa* means "It is a church" (describing something), not "There is a church."
-2. **Forgetting the apostrophe.** It is *c'è* and *dov'è*, never *ce è* or *dove è* written separately.
-3. **Using *ci sono* with one thing.** *Ci sono una chiesa* is wrong. One thing → **c'è**.
-4. **Using *una* before a vowel.** Feminine nouns take *un'*: *un'amica*, *un'ora*. Masculine nouns take *un* with no apostrophe: *un albero*.
-5. **Choosing the article by the English word.** Italian uses the gender of the *Italian* noun: *la farmacia* → *una farmacia*; *il panificio* → *un panificio*. Learn each noun with its article.
-6. **Mixing *c'è* with a plural noun because English "there's" is singular.** English says "there's two shops" informally; Italian never does. Two shops → **ci sono**.
+- **Forgetting the article.** English says "I need bread", but Italian needs *un chilo di pane* or *del pane*. In this chapter, Ben's *Un pane!* is exactly this mistake: the baker corrects him.
+- **Using *un* with feminine nouns.** *Un chiesa* is wrong; it's *una chiesa*. And *una amica* is wrong; it's *un'amica*.
+- **Mixing up *c'è* and *ci sono*.** If the noun is plural, use *ci sono*, even if the group feels like one thing: *ci sono due negozi*, not *c'è due negozi*.
+- **Adding *di* after *c'è*.** English "there is a bar *in* the square" is *c'è un bar in piazza* — no extra *di*.
+- **Using *è* instead of *c'è*.** *È un bar* means "it is a bar". *C'è un bar* means "there is a bar". Different jobs.
+- **Writing *dove è* as two words.** In writing it's usually **dov'è** with an apostrophe.
 
 ## Practice
 
-Fill in the blank with *un*, *uno*, *una*, *un'*, *c'è*, *ci sono*, or *dov'è*.
-
-1. ____ una piazza a Borgoverde?
-2. In piazza ____ una chiesa e una fontana.
-3. ____ il supermercato? — È in Via Roma.
-4. ____ farmacia è in Via Verdi.
-5. Nel parco ____ gli alberi.
-6. Voglio comprare ____ pane al panificio.
-7. ____ un bar in Via dei Tigli? — Sì, il bar Tigli.
-8. ____ amica di mia figlia abita qui.
+1. Complete with **un**, **uno**, **una** or **un'**: *___ chiesa*, *___ negozio*, *___ zaino*, *___ amica*.
+2. Complete with **c'è** or **ci sono**: *___ una fontana in piazza.*
+3. Complete with **c'è** or **ci sono**: *___ due bar in paese.*
+4. Complete with **c'è** or **ci sono**: *In farmacia ___ un avviso sulla finestra.*
+5. Translate: *Where's the park?*
+6. Translate: *There's a station near the park.*
+7. Translate: *There are two banks in the square.*
+8. Which is right and why? *C'è due negozi* / *Ci sono due negozi*
 
 ### Answer key
 
-1. **C'è** — one square, singular.
-2. **ci sono** — two things (church + fountain).
-3. **Dov'è** — asking the location of one thing.
-4. **Una** — feminine noun before a consonant (notice: *una farmacia*, not *un farmacia*).
-5. **ci sono** — plural (*gli alberi*).
-6. **un** — masculine noun before a consonant (*pane*).
-7. **C'è** — one bar, singular.
-8. **Un'** — feminine noun before a vowel (*amica*), with the apostrophe.
+1. *una chiesa*, *un negozio*, *uno zaino*, *un'amica*
+2. *C'è una fontana in piazza.* (one thing)
+3. *Ci sono due bar in paese.* (two things)
+4. *In farmacia c'è un avviso sulla finestra.* (one thing)
+5. *Dov'è il parco?*
+6. *C'è una stazione vicino al parco.*
+7. *Ci sono due banche in piazza.*
+8. *Ci sono due negozi* — the noun is plural, so the verb must be plural too.

@@ -45,10 +45,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Monday’s bedroom decision; Pavarotti’s habit of escaping through window or door and always finding his way home; Leo’s house labels.
 
 ### s01e04 · C'è un bar in piazza
-- **Happened:** Chiara's first day at Studio Marchetti: the 8:10 train is late, so she arrives 20 minutes late. Ben and Leo map Borgoverde, finding piazza, church, fountain, municipio, parco, panificio and farmacia; Roberto leaves a Comitato cartello on the Carters' gate.
-- **New facts:** Chiara's boss is Marchetti; Studio Marchetti is in Milan, Isola; project "PROGETTO ISOLA". Borgoverde station has one binario; the Saturday 8:10 train arrives 8:30. Nadia is pharmacist at Farmacia Centrale, Via Verdi; supermercato in Via Roma. Roberto Colombo is at number 11; Pavarotti is Signora Galli's cat; Leo calls the map "mappaverde".
-- **Changed:** Ben and Leo now know the piazza area; their map includes Bar Tigli though it is not in piazza. Chiara knows Marchetti's punctuality rule; Roberto has spoken to Ben/Leo about the Comitato cartello.
-- **Planted:** Ben copied the Comitato cartello's formal wording; map still lacks supermercato/stazione. Marchetti's "Essere in orario" and Project Isola remain open.
+- **Happened:** Ben e Leo disegnano una mappa di Borgoverde; un panettiere aggiunge panificio, supermercato e parco, e Ben compra un chilo di pane. Chiara prende il treno per Milano e inizia come socia allo Studio Marchetti, che le assegna un progetto per una banca in Isola.
+- **New facts:** Roberto Colombo abita al n. 11; il Bar Tigli è al n. 2; Ornella al n. 16; Nadia lavora alla Farmacia Centrale; Emma viaggia con Bianca e Tommaso; la mappa dei Carter è un quaderno giallo; in piazza ci sono chiesa, fontana, banca, negozio di vestiti, bar e fermata.
+- **Changed:** Roberto mette un secondo avviso sul cancello dei Carter (vietato mettere avvisi); Nadia affida a Ben un campione di crema da consegnare a Ornella. Nessun segreto rivelato.
+- **Planted:** Consegna del campione a Ornella; progetto banca in Isola; Ben cerca ancora parco, supermercato e stazione.
 
 ### s01e05 · Quanti anni hai?
 - **Happened:** Sunday lunch at Franco's; Ben rote-learns family vocabulary and Franco asks everyone's ages. Franco laughs for the first time at Ben's "you don't ask a lady her age". Leo, lonely for a grandmother, walks to Ornella's and declares himself her adopted *nipote*; she accepts, with biscuits and a condition: he talks with *nonna* Ornella every Sunday.

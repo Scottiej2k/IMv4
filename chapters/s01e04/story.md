@@ -4,920 +4,704 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Casa Carter, Via dei Tigli 14 · sabato mattina
+## 1. Via dei Tigli · sabato mattina
 
-È sabato mattina a Casa Carter. In cucina **c'è** un po' di confusione.
+È sabato mattina in Via dei Tigli. Ben esce di casa con il quaderno giallo. Leo è con Ben. Davanti al **cancello** c'è un **avviso**. L'avviso è bianco e piccolo. Ben **guarda** l'avviso e si ferma.
 
-*Chiara:* **Dov'è** la mia borsa? **Dov'è** il telefono?
+«Allora... **Avviso**... Comitato...» legge Ben. «Tre parole. Forse quattro.»
 
-*Ben:* Sul tavolo. Sempre sul tavolo.
+Leo prende l'avviso in mano. «Il Comitato di quartiere informa i **vicini**...» dice Leo. «Che cos'è un **avviso**?» chiede.
 
-Chiara prende la borsa. Guarda l'orologio. Guarda il telefono.
+«È **una** lettera piccola. **Una** lettera per tutti.»
 
-*Chiara:* Il **treno** è alle otto e dieci. È tardi.
+«Perché è sul nostro **cancello**?»
 
-*Ben:* Come si dice... la parte della **stazione** dove tu aspetti il treno?
+«Buona domanda.»
 
-*Chiara:* Il **binario**.
+_Tre parole su dieci._ _E due settimane in Italia._ _Io non conosco la **strada**._
 
-Chiara si mette il cappotto. Parla veloce.
+Ben apre il quaderno giallo. «Leo, facciamo una **mappa**.»
 
-*Ben:* Binario. Grazie. E il **capo**? Come si dice "boss"?
+«Una **mappa**?»
 
-*Chiara:* Il **capo**. Il mio **capo** è Marchetti. Primo giorno. Non posso essere **in ritardo**.
+«Sì. Una **mappa** di Borgoverde.»
 
-Leo entra in cucina con una matita in mano.
+«Che cos'è una **mappa**?»
 
-*Leo:* Papà, che cos'è una **mappa**?
+«Una foto della città. Con le parole.»
 
-*Ben:* Una **mappa** è... una foto della città. Ma con le parole.
+Leo **guarda** la **strada**. «**Dov'è** la **stazione**?» chiede.
 
-Leo pensa. Leo ama le parole.
+«Boh.»
 
-*Leo:* Una foto con le parole. Strano.
+«E **dov'è** il **supermercato**?»
 
-*Chiara:* Ben, tu e Leo oggi che cosa fate?
+«Boh.»
 
-*Ben:* Noi facciamo una **mappa** di Borgoverde.
+«E **dov'è** il **parco**?»
 
-*Chiara:* Bene. Ciao!
+«Boh.»
 
-*Ben:* Ciao. In bocca al lupo!
+«E **dov'è** il **bar**?»
 
-*Chiara:* Crepi. Ciao a tutti.
+«Il **bar** è in Via dei Tigli!»
 
-La porta si chiude. Chiara corre verso la **stazione**.
+«Come sai?»
 
-*Leo:* Papà, perché una **mappa**?
+«Perché **c'è** un **bar** davanti a casa nostra.» _Il **bar** è una parola facile._
 
-*Ben:* Perché noi non conosciamo la città. **Dov'è** il **supermercato**? Non so. **Dov'è** il **parco**? Non so.
+«Papà, perché scrivi nel quaderno?»
 
-*Leo:* Ah. E allora?
+«Perché dimentico le parole italiane.»
 
-*Ben:* Allora oggi noi facciamo una **passeggiata**. Con la **mappa**. Io e te.
+«Anch'io dimentico le parole.»
 
-Ben prende il quaderno. Sul quaderno scrive una parola grande: MAPPA.
+Poi arriva un **vicino**. È Roberto Colombo, del numero undici. «Buongiorno, signor Carter.»
 
-*Leo:* Io e te! **Perfetto**!
+«Buongiorno, signor Colombo!»
 
-*Ben:* **C'è** una **piazza** a Borgoverde? **C'è** una **chiesa**? Noi lo scopriamo.
+Roberto **guarda** l'avviso sul **cancello**. «Lei legge l'avviso?» chiede.
 
-*Leo:* E **c'è** una **farmacia**?
+«Sì! Un **avviso**... un **avviso**...»
 
-*Ben:* Sì, certo. **C'è** una **farmacia**.
+«Il regolamento è chiaro, signor Carter.»
 
-*Leo:* E **c'è** un **panificio**? Io voglio il **pane**.
+«Certo. Il regolamento.» «**Ci sono** dieci parole e io capisco tre.»
 
-*Ben:* **C'è** un **panificio**, sì. E **c'è** anche la **stazione**.
+Roberto non sorride. «Il regolamento non è una cosa divertente.»
 
-Leo alza le mani. Vuole dire una cosa importante.
+«Signor Colombo, il regolamento è lungo?»
 
-*Leo:* E **c'è** un **bar**?
+«Il regolamento è il regolamento.»
 
-*Ben:* Sì. **C'è** un **bar**. Ma noi cerchiamo la **piazza**, la **chiesa**, la **farmacia**, il **panificio**, la **stazione**, il **supermercato**, il **parco**...
+«**Dov'è** la **fermata** dell'autobus?»
 
-Ben conta con le dita. Le dita non bastano.
+«In **piazza**.»
 
-*Leo:* E il **municipio**?
+«E **dov'è** la **stazione** dei **treni**?»
 
-*Ben:* Bravo! **C'è** anche il **municipio**.
+Roberto indica la **strada**. «Sempre dritto.»
 
-*Leo:* E **ci sono** i **cancelli**?
+«E **dov'è** il **parco**?»
 
-*Ben:* I **cancelli**? Leo, **ci sono** tanti **cancelli** in una città.
+«Vicino alla **stazione**.»
 
-Leo conta le cose: uno, due, tre. Le dita sono poche.
+«Ah! E **c'è** un **ufficio** postale?»
 
-*Leo:* E la **strada**? **C'è** la **strada**?
+«Sì. **C'è** un **ufficio** postale e **c'è** una banca.»
 
-*Ben:* Sì. Grandi **strade**, piccole **strade**. Il **centro** è pieno di **strade**.
+«Perfetto!»
 
-*Leo:* Papà, **ci sono** le **strade** con i nomi?
+«Perfetto?»
 
-*Ben:* Sì. Noi abitiamo in Via dei Tigli. Via dei Tigli è una **strada**.
+«Perfetto per la **mappa**.»
 
-Ben scrive sul quaderno: strada, piazza, chiesa. Leo guarda.
+«La **mappa**. Certo.» Roberto **guarda** Ben per tre secondi. «Il **Bar** Tigli è al numero due, signor Carter.»
 
-*Leo:* E **ci sono** i **treni**?
+«Ah. Numero due. Sulla mia **strada**.» Roberto va via senza salutare. «Un **vicino** simpatico.»
 
-*Ben:* Sì, **ci sono** i **treni**. La **stazione** è vicina.
+«Papà, io **cerco** il **parco**?» chiede Leo.
 
-*Leo:* I **treni** sono veloci?
+«Sì. E io **cerco** la **stazione**.»
 
-*Ben:* A volte. A volte sono **in ritardo**.
+«E il **supermercato**?»
 
-*Leo:* Ah. Allora la **mappa** è meglio di un GPS.
+«Anche il **supermercato**. E la **fermata**.»
 
-*Ben:* Sì! La **mappa** è meglio.
+Leo è ancora con l'avviso in mano. «Papà, io voglio una **mappa** anch'io.»
 
-Leo prende la matita. Disegna un cerchio sul foglio.
+«**Perfetto**!» dice Ben. «Allora, **camminiamo**!»
 
-*Leo:* Papà, **dov'è** la **farmacia**? **Dov'è** il **supermercato**?
+## 2. Piazza della Chiesa · sabato mattina
 
-*Ben:* Non so. Per questo facciamo la **mappa**.
+Ben e Leo **camminano** sulla **strada**. Sono a dieci minuti da casa. Ben **guarda** il quaderno giallo. Sul quaderno c'è la **mappa**. «Papà, io conto i passi.» dice Leo. «Uno, due, tre, quattro...»
 
-*Leo:* Ah! E **dov'è** il **bar**?
+«Quanti passi?»
 
-*Ben:* Il **bar** è in fondo alla **strada**. Noi conosciamo bene il **bar**.
+«Ventidue.»
 
-*Leo:* Il **bar** è il primo. Perché nel **bar** **ci sono** i cornetti.
+«Ventidue passi. Bello.»
 
-*Ben:* Allora... la **piazza** è la prima cosa. La **piazza** e la **chiesa**.
+Poi la **strada** finisce. Davanti a Ben e Leo c'è la **piazza**. La **piazza** è grande e c'è il sole. «Ecco la **piazza**!»
 
-Leo disegna un quadrato. Poi un altro cerchio. Poi una linea.
+«Bella!» In **piazza** **c'è** una **chiesa**. La **chiesa** è alta e antica.
 
-*Leo:* Ma la **mappa** serve?
+«**C'è** una **chiesa**.» scrive Ben.
 
-Ben non risponde. Ben mette il quaderno nella tasca.
+«Quanti scalini?» Leo **guarda** la **chiesa**. «Uno, due, tre, cinque, otto...»
 
-*Ben:* **Perfetto**! Noi andiamo!
+«Otto scalini?»
 
-*Leo:* ...**Perfetto**. Ma la **mappa** serve?
+«Otto. Ma sono grandi.» Ben disegna la **chiesa** sulla **mappa**. «Disegni bene, papà.»
 
-Ben è già sulla porta. Leo prende la matita e segue il papà.
+«Grazie. Sono **un** artista.»
 
-## 2. Confessionale
+Davanti alla **chiesa** **c'è** una **fontana**. La **fontana** è piccola e c'è acqua. «**C'è** una **fontana**.»
 
-> *Ben:* Ciao. Sono Ben. Oggi parlo di una cosa importante: la **mappa**. Una città nuova è come... un lavoro nuovo. Tu vuoi un piano.
+«E **c'è** **una** banca!»
 
-Ben apre il quaderno e lo mostra alla telecamera.
+«**Una** banca? Dove?»
 
-> *Ben:* Questo è il mio quaderno. La parola di oggi è **mappa**. Su Via dei Tigli **c'è** la mia casa. Al numero quattordici. E **c'è** la casa di Franco. **C'è** la casa della signora Galli. E **c'è** il **bar**. Il **bar** è la cosa più importante. Ma **dov'è** la **piazza**? Non lo so. **Dov'è** la **chiesa**? Non lo so. **Dov'è** il **supermercato**? Mah. E **ci sono** tante strade. Troppe strade. Allora oggi io e Leo facciamo una **passeggiata**. Una **passeggiata** con la **mappa**. Una **passeggiata** e una **mappa**.
+«Lì. Con le porte grandi.»
 
-> *Ben:* **Perfetto**. Tutto sotto controllo.
+Ben **guarda** la banca. «Hai ragione. **C'è** **una** banca.»
 
-Ben chiude il quaderno. Poi lo apre di nuovo.
+«E **c'è** **un** **negozio**.»
 
-> *Ben:* ...Ma **dov'è** il **supermercato**? Va bene. Lo scopriamo oggi. Con la **mappa**.
+«**Un** **negozio**?»
 
-## 3. Piazza della Chiesa · sabato mattina
+«Sì. Di vestiti. Guarda le magliette.»
 
-Ben e Leo camminano su Via dei Tigli. La **strada** è lunga e tranquilla.
+«Ah! **Un** **negozio** di vestiti.»
 
-*Ben:* Leo, guarda. Noi camminiamo. Questa è una **passeggiata**.
+«E **c'è** **un** **bar**.»
 
-*Leo:* Una **passeggiata** con la **mappa**.
+«**C'è** **un** **bar** in **piazza**?»
 
-*Ben:* Sì. Una **passeggiata** e una **mappa**.
+«Sì. Ma è piccolo.»
 
-Dopo dieci minuti la **strada** finisce. Davanti a loro **c'è** la **piazza**.
+«Piccolo è **un** **bar** perfetto.»
 
-*Leo:* Oh! Papà! **C'è** una **piazza**!
+Leo **guarda** ancora la **piazza**. «Papà, **c'è** **una** **fermata**!»
 
-*Ben:* **C'è** una **piazza**. Bravo, Leo.
+«**Una** **fermata** in **piazza**?»
 
-La **piazza** è grande e grigia. **C'è** una **chiesa** con un campanile.
+«Sì. Per l'autobus.»
 
-*Leo:* **C'è** una **chiesa**!
+«Allora in **piazza** **c'è** **una** **fermata** e **c'è** **un** **bar**.»
 
-*Ben:* Sì. Una **chiesa** antica.
+«E **ci sono** due **negozi**.»
 
-*Leo:* E **c'è** una **fontana**! Guarda, l'acqua!
+«**C'è** due **negozi**.»
 
-*Ben:* Una **fontana** piccola. Molto... bella.
+Leo si ferma. «No, papà. **Ci sono**. **Ci sono** due **negozi**.»
 
-*Leo:* Papà, "molto bella"? In italiano si dice "bella".
+«**Ci sono**. Due **negozi**.»
 
-*Ben:* Ah. Bene. Grazie.
+«Sì. **Ci sono** due **negozi** in **piazza**.»
 
-Leo conta con le dita. Uno, due, tre.
+«**Ci sono** due **negozi**. Grazie, maestro Leo.»
 
-*Leo:* **C'è** una **chiesa**, **c'è** una **fontana**, e... che cos'è quello?
+«Prego!»
 
-*Ben:* Quello è il **municipio**. La casa della città.
+Ben **cerca** le parole nel quaderno. «Adesso **cerchiamo** il **parco**.»
 
-*Leo:* Il **municipio**. E **c'è** un **cartello**!
+«**Dov'è** il **parco**?»
 
-*Ben:* Sì. Un **cartello** con le parole.
+«Non lo so.»
 
-Il **cartello** è sopra il **cancello** del **parco**.
+«Ma il signor Colombo dice...»
 
-*Leo:* E questo è un **cancello**.
+«Dice: vicino alla **stazione**.»
 
-*Ben:* Un **cancello** del **parco**. **C'è** un **parco** qui, Leo!
+«E **dov'è** la **stazione**?»
 
-*Leo:* Un **parco**! **Ci sono** gli alberi?
+«Non lo so.»
 
-*Ben:* Sì. Nel **parco** **ci sono** gli alberi.
+«Allora **cerchiamo** la **stazione** e poi il **parco**.»
 
-Leo guarda dentro il **cancello**. Vede gli alberi e una panchina.
+«Esatto!»
 
-*Leo:* **Ci sono** gli alberi. E **c'è** una panchina.
+Leo **guarda** la **mappa** di Ben. «La **mappa** è bella. Ma è piccola.»
 
-*Ben:* Perfetto. Allora, nel **parco** **c'è** la panchina.
+«È piccola adesso.» Sulla **mappa** ci sono la **piazza**, la **chiesa**, la **fontana**, la banca, **un** **negozio**, **un** **bar**, **una** **fermata**.
 
-Ben scrive sul quaderno: piazza, chiesa, fontana, municipio, parco.
+«Manca la **stazione**.»
 
-*Leo:* Papà, e **c'è** un **negozio** in **piazza**?
+«E manca il **parco**.»
 
-*Ben:* Guardiamo.
+«E manca il **supermercato**.»
 
-Sul lato della **piazza** **c'è** una porta con un **cartello** piccolo.
+«E manca **un** **panificio**.»
 
-*Leo:* Che cos'è?
+«**Un** pane...»
 
-*Ben:* È un **panificio**! Un **negozio** di **pane**.
+«Dopo. Prima la **mappa**, poi il pane.»
 
-*Leo:* Un **panificio**! Io voglio il **pane**!
+Leo ride. «Papà, tu **cerchi** sempre il pane.»
 
-Entrano nel **panificio**. Dentro c'è un signore con un grembiule.
+Ben **guarda** la **piazza** con attenzione. _Ventidue passi da casa._ _E io non conosco la **piazza**._ _Sono **un** turista nella mia città._ _E non mi piace._ «Leo, dobbiamo **camminare** molto oggi.»
 
-*Ben:* Buongiorno. Un **pane**, per favore.
+«Va bene. Ho le scarpe giuste.»
 
-Il signore dà a Ben un **pane** caldo. Ben paga.
+«E io ho la **mappa**.»
 
-*Leo:* Grazie! Il **pane** è caldo!
+«E io ho **una** domanda.»
 
-*Ben:* Il **pane** del **panificio** è buono. Scrivo: panificio.
+«Quale?»
 
-Ben scrive sul quaderno. Leo legge la parola.
+«Perché **c'è** il sole e **c'è** la **fermata** e **c'è** tutto, ma non **c'è** il **parco**?»
 
-*Leo:* Pa-ni-fi-cio. Con la "ci".
+«Perché il **parco** è vicino alla **stazione**.»
 
-*Ben:* Panificio.
+«E **dov'è** la **stazione**?»
 
-*Leo:* No, papà. Panificio. La "ci" è dolce.
+«A destra o a sinistra?»
 
-*Ben:* Panificio. Così?
+«Boh!»
 
-*Leo:* Sì! Bravo!
+«Boh è **un**'ottima risposta.»
 
-Camminano intorno alla **fontana**. L'acqua fa un rumore tranquillo.
+## 3. panificio · sabato mattina
 
-*Leo:* Papà, **dov'è** il **supermercato**?
+Ben e Leo **camminano** ancora. A sinistra della **piazza** **c'è** **un** **negozio** con un profumo buono. «Profumo di pane!» dice Leo.
 
-*Ben:* Mah. Non lo so.
+«**Pane**. Questa parola la conosco.»
 
-*Leo:* E **dov'è** la **medicina**?
+«Anch'io!» Sulla porta **c'è** **una** parola: **PANIFICIO**.
 
-*Ben:* La **medicina**? Leo, la **medicina** è nella **farmacia**.
+«**Panificio**.» legge Ben.
 
-*Leo:* E **dov'è** la **farmacia**?
+«Che cos'è **un** **panificio**?»
 
-*Ben:* Non lo so. Lo scopriamo oggi.
+«**Un** **negozio** con il pane.»
 
-*Leo:* E **dov'è** la **stazione**?
+«Ah! **Un** **negozio** di pane!»
 
-*Ben:* La **stazione** è vicina a casa. Lo so.
+«Esatto. Bravo, Leo.»
 
-Si siedono su una panchina vicino alla **fontana**. Ben apre il quaderno.
+Dentro il **panificio** c'è **un** uomo. L'uomo è dietro il banco. Ha le mani bianche di farina. «Buongiorno!» dice l'uomo.
 
-*Ben:* Allora. La **mappa**. Disegna tu, Leo.
+«Buongiorno!»
 
-*Leo:* Io disegno la **piazza** e la **chiesa**.
+«Buongiorno, signore!»
 
-*Ben:* E la **fontana**?
+«Cercate il pane?»
 
-*Leo:* Sì. La **fontana** è un cerchio.
+«Sì! Io **cerco** il pane!»
 
-Leo disegna un cerchio grande. Poi un quadrato. Poi una linea lunga.
+«E io **cerco** la **mappa**.»
 
-*Ben:* E il **parco**?
+«La **mappa**?»
 
-*Leo:* Il **parco** è verde. Ma io ho una matita nera.
+Ben apre il quaderno giallo. «**Una** **mappa** di Borgoverde.» L'uomo **guarda** la **mappa** e ride. «**C'è** **una** **piazza** e **c'è** **una** chiesa.»
 
-*Ben:* Va bene. Il **parco** è un rettangolo.
+«E **c'è** **una** fontana!»
 
-*Leo:* Papà, e il **bar**?
+«Ma manca tutto il resto.»
 
-*Ben:* Il **bar** è in Via dei Tigli. Non è in **piazza**.
+«Manca il **parco**.»
 
-*Leo:* Ma il **bar** è importante!
+«E manca il **supermercato**.»
 
-*Ben:* Sì, il **bar** è importante. Ma la **mappa** è della **piazza**.
+«E manca il **panificio**.» L'uomo prende **una** matita. «Dammi il quaderno.» Scrive **una** parola e poi disegna **un** quadrato. «Ecco il **panificio**.»
 
-*Leo:* Nel **bar** **ci sono** i cornetti. I cornetti sono importanti.
+«Bello!»
 
-*Ben:* Va bene, va bene. Il **bar** è importante.
+«E adesso **c'è** anche il **supermercato**.»
 
-Leo disegna una tazzina piccola in un angolo del foglio.
+«Dove?»
 
-*Leo:* Ecco il **bar**. Con il caffè.
+«A due minuti. Dietro la chiesa.»
 
-*Ben:* Ma il **bar** non è in **piazza**!
+«E il **parco**?»
 
-*Leo:* Lo so. Ma la **mappa** è sbagliata senza il **bar**.
+«Il **parco** è a destra. Vicino alla **fermata**.» L'uomo disegna ancora.
 
-Ben guarda il foglio. Poi guarda la **piazza**. Poi guarda Leo.
+«Adesso la **mappa** è grande.»
 
-*Ben:* La **mappa** è sbagliata senza il **bar**?
+«Nel **parco** **c'è** **una** fontana?» chiede.
 
-*Leo:* Sì. Il **bar** è la cosa più importante della **strada**.
+«No. Nel **parco** **ci sono** gli alberi e **una** **fermata**.»
 
-*Ben:* ...Va bene. Mettiamo il **bar**.
+«E **c'è** **un** giornalaio?»
 
-*Leo:* **Perfetto**!
+«Sì. **C'è** **un** chiosco con i **giornali**.»
 
-Leo disegna la tazzina più grande. Adesso è chiaro: c'è un **bar** sulla **mappa**.
+«**Ci sono** i **giornali** e **c'è** **una** **fermata**.»
 
-*Ben:* Adesso la **mappa** è giusta?
+«E **c'è** **un** **negozio**?»
 
-*Leo:* No. Adesso è meglio. Ma **dov'è** il **supermercato**?
+«Nel **parco** no. In **piazza** sì.»
 
-*Ben:* Oggi non lo sappiamo.
+«Il **negozio** di vestiti.»
 
-*Leo:* E **dov'è** la **medicina**?
+«Esatto.»
 
-*Ben:* La **medicina** è nella **farmacia**. E la **farmacia**... andiamo a cercarla.
+«Allora, signore, che cosa prende?» chiede l'uomo.
 
-Si alzano dalla panchina. Leo prende il **pane** e la **mappa**.
+«**Un** pane!» L'uomo **guarda** Ben per **un** momento.
 
-*Leo:* Papà, il **pane** è caldo.
+«**Un** pane?»
 
-*Ben:* Sì. Il **pane** del **panificio** è caldo e buono.
+«Sì. **Un** pane, per favore.»
 
-*Leo:* E il **bar** ha i cornetti.
+«Signore, si dice: **un** chilo di pane.»
 
-*Ben:* Leo, basta con il **bar**!
+«**Un** chilo di pane.»
 
-*Leo:* **C'è** il **bar** sulla **mappa**. Ora **c'è** tutto.
+«Perfetto.»
 
-*Ben:* Quasi tutto. **Ci sono** ancora la **farmacia**, il **supermercato** e la **stazione**.
+Ben scrive nel quaderno. «**Pane**. E chilo.»
 
-Escono dalla **piazza**. Davanti al **municipio** **c'è** un **cartello** nuovo.
+«Papà, scrivi anche **panificio**.»
 
-*Leo:* Papà, guarda. Un altro **cartello**.
+«Giusto. **Panificio**.» L'uomo pesa il pane e sorride.
 
-*Ben:* Leggo io. È... un **cartello** del Comitato.
+«Le serve **una** **mappa** più grande, signore.»
 
-*Leo:* Che cosa dice?
+«Lo so. Ma lavoro sulla **mappa**.»
 
-*Ben:* Non lo so. Ma è un **cartello** molto... formale.
+«Allora buon lavoro.»
 
-*Leo:* Ci sono parole strane.
+«Grazie! E buon lavoro anche a lei.» L'uomo ride ancora.
 
-*Ben:* Sì. Parole strane. Le scrivo sul quaderno.
+«Papà, abbiamo il pane. E adesso?»
 
-Ben copia le parole del **cartello**. Leo mangia un pezzo di **pane**.
+«Adesso **cerchiamo** il **parco**.»
 
-*Leo:* Papà, andiamo alla **farmacia**?
+«E la **fermata**.»
 
-*Ben:* Sì. Andiamo alla **farmacia**.
+«E il **supermercato**!»
 
-*Leo:* E dopo il **bar**?
+«E il **giornale** per la mamma?»
 
-*Ben:* Dopo, il **bar**.
+«Il **giornale** per la mamma. Perfetto, Leo.» Escono dal **panificio** con il pane caldo.
+
+Leo **guarda** la **mappa** nuova. «Papà, ora **camminiamo** a destra o a sinistra?»
+
+«A destra. Il **parco** è a destra.»
+
+«Sicuro?»
+
+«No. Ma la **mappa** dice destra.»
 
 ## 4. Farmacia Centrale · sabato mattina
 
-La **farmacia** è in una **strada** vicino alla **piazza**. **C'è** una croce verde sopra la porta.
+Dopo il **panificio** **c'è** **una** **farmacia**. La **farmacia** è grande e bianca. Sulla porta **c'è** **una** croce verde. Dentro **c'è** **una** signora con il camice bianco. È Nadia, la fidanzata di Matteo. «Ciao, Nadia!» dice Leo.
 
-*Leo:* Papà, **c'è** una croce verde!
+«Ciao, Leo. Ciao, Ben.»
 
-*Ben:* Sì. La croce verde è la **farmacia**.
+«Ciao! Noi **cerchiamo** il **parco**.»
 
-*Leo:* Allora **c'è** la **farmacia** sulla **mappa**!
+«Il **parco** è di là. Ma prima entrate.»
 
-*Ben:* Bravo. Scrivo: **farmacia**.
+«Perché?»
 
-Ben scrive sul quaderno. Leo guarda la porta.
+«Perché avete il pane in mano e il pane è buono solo caldo.»
 
-*Leo:* Entriamo?
+Leo **guarda** il pane. «Ha ragione.»
 
-*Ben:* Sì. Entriamo. Ma con calma.
+Ben apre il quaderno giallo sul banco. «Nadia, **c'è** **una** **mappa** qui dentro.» Nadia **guarda** la **mappa**. «**C'è** **una** **piazza**, **c'è** **una** **chiesa**, **c'è** **una** **fontana**.»
 
-Dentro la **farmacia** c'è una signora dietro il banco. È Nadia.
+«E **c'è** **un** **negozio** di vestiti.»
 
-*Nadia:* Buongiorno, signor Carter. Buongiorno, Leo.
+«E **c'è** **una** **banca**.»
 
-*Ben:* Buongiorno, Nadia! Tu lavori qui?
+«E **c'è** **un** **panificio**.»
 
-*Nadia:* Sì. Io sono la farmacista. Questa è la **farmacia** del **centro**.
+Nadia prende **una** penna. «Manca la **farmacia**.»
 
-*Ben:* La **farmacia** del **centro**. Capito.
+«Ah! Giusto!»
 
-Leo si alza sulle punte dei piedi. Guarda gli scaffali.
+«Manca anche **l'ufficio** postale. È dietro la **chiesa**.»
 
-*Leo:* Nadia, **c'è** la **medicina** qui?
+«**C'è** **un** **ufficio** postale. Perfetto.»
 
-*Nadia:* Sì. Qui **c'è** la **medicina**. E **ci sono** tante cose.
+«E **c'è** **una** seconda **banca**, vicino al **supermercato**.»
 
-*Leo:* **Ci sono** le **medicine** per i gatti?
+«**Ci sono** due banche?»
 
-*Nadia:* Per i gatti **c'è** una **medicina** speciale. Perché?
+«**Ci sono**. Borgoverde è ricca.»
 
-*Leo:* Per Pavarotti. Il gatto della signora Galli.
+Ben scrive tutto nel quaderno. «Grazie! Adesso la **mappa** è quasi completa.»
 
-*Nadia:* Ah. Pavarotti. Il gatto più grasso di Borgoverde.
+Leo **guarda** la finestra della **farmacia**. Sulla finestra **c'è** **un** **avviso** piccolo. «Che cos'è **un** **avviso**?» chiede.
 
-*Leo:* Sì! È molto grasso!
+«**Un** **avviso** è **una** lettera per i **vicini**.»
 
-*Nadia:* Allora **c'è** una **medicina** per lui. Ma la **medicina** non è un gioco, Leo.
+«E perché è sulla finestra?»
 
-*Leo:* Va bene. Niente **medicina** per Pavarotti.
+«Perché tutti i **vicini** passano di qua.»
 
-Ben apre il quaderno e lo mette sul banco.
+«Anche noi abbiamo **un** **avviso** sul **cancello**.»
 
-*Ben:* Nadia, una domanda. **Dov'è** il supermercato?
+«Certo. **Un** **avviso** per ogni **vicino**.»
 
-*Nadia:* Il supermercato è in Via Roma. È grande. **C'è** anche un negozio di frutta.
+«Che cosa dice?»
 
-*Ben:* Via Roma. E **dov'è** la **stazione**?
+«Dice che il regolamento è importante.»
 
-*Nadia:* La **stazione** è in fondo a Via Roma. **C'è** un **cartello** grande.
+«Il regolamento. Sempre il regolamento.»
 
-*Ben:* Un **cartello**. Bene. Scrivo.
+«Benvenuto in Italia.»
 
-Ben scrive: supermercato, negozio, stazione. Nadia guarda il quaderno.
+«Senti, Nadia. Io lavoro sulla **mappa** come **una** campagna.»
 
-*Nadia:* Che cos'è questo?
+«**Una** campagna?»
 
-*Ben:* È la mia **mappa** di Borgoverde.
+«Sì. Come al lavoro. Prima la **mappa**, poi il quartiere.»
 
-*Nadia:* Una **mappa**. Vuoi una **mappa** di Borgoverde?
+«Certo. Geniale.»
 
-*Ben:* Sì! **C'è** una **mappa** in **farmacia**?
+«E **c'è** **un** problema.»
 
-*Nadia:* No. Ma c'è internet.
+«Quale?»
 
-*Leo:* Il papà non ama internet. Ama il quaderno.
+«Io conosco la **mappa**, ma non conosco i **vicini**.»
 
-*Nadia:* Ah. Capisco.
+«I **vicini** sono più difficili della **mappa**.»
 
-Nadia prende un **cartello** piccolo dal banco. È la lista delle cose della **piazza**.
+«Lo immagino.»
 
-*Nadia:* Guarda. Questo è un **cartello** del Comitato. **C'è** la **chiesa**. **Ci sono** la **fontana** e il municipio.
+_Io voglio essere **un** **vicino**, non **un** turista._ _In America io conosco tutti._ _Qui conosco **una** **mappa**._ «Leo, che cosa manca sulla **mappa**?»
 
-*Ben:* Sì! La **chiesa** e la **fontana**!
+«Il **parco**, il **supermercato** e la **stazione**.»
 
-*Leo:* E **c'è** anche il parco?
+«E il **bar**?»
 
-*Nadia:* Il parco non è in **piazza**. Il parco è vicino alla **chiesa**, ma è un altro posto.
+«Il **Bar** Tigli?»
 
-*Leo:* Ah. Allora la **mappa** è sbagliata.
+«Il **bar** è il vero centro di Borgoverde.»
 
-*Nadia:* La **mappa** è un lavoro lungo.
+«Questo sì!»
 
-Nadia indica una riga del **cartello**.
+«**C'è** **un** **bar** in **piazza** e **c'è** **un** **bar** in Via dei Tigli.»
 
-*Nadia:* E qui **c'è** scritto: "**negozio** di **pane**". Il **panificio** della **piazza**.
+«E **c'è** **un** **bar** con Matteo.»
 
-*Ben:* Sì, il **panificio**. Noi abbiamo il **pane**!
+«Quello è il **bar** giusto.»
 
-*Leo:* Il **pane** è caldo!
+Nadia **cerca** **una** busta sotto il banco. «Tieni. **Un** campione di crema per la signora Ornella.»
 
-*Nadia:* Il **pane** di quel **negozio** è il migliore del **centro**. Ma questo non lo dico io.
+«Perché a me?»
 
-*Ben:* No? E chi lo dice?
+«Perché abiti al numero quattordici e lei al sedici.»
 
-*Nadia:* Matteo. Lui è di parte.
+«Ah. La **mappa** delle case.»
 
-Leo ride. Poi guarda il **cartello** con attenzione.
+«Esatto. Adesso tu sei **un** postino con **una** **mappa**.»
 
-*Leo:* Nadia, e **c'è** il **bar** sul **cartello**?
+«Grazie, Nadia.»
 
-*Nadia:* No. Il **bar** non è in **piazza**. Il **bar** è in Via dei Tigli.
+«Prego. E mangiate quel pane.» Escono dalla **farmacia** con la busta e il pane.
 
-*Leo:* Il **bar** è importante.
+## 5. Stazione di Borgoverde · lunedì mattina
 
-*Nadia:* Certo. Il **bar** è importantissimo.
+È lunedì mattina. La **stazione** di Borgoverde è piena di gente. Sul binario **c'è** **una** donna con **una** giacca nuova. È Chiara. **Guarda** l'orario per la decima volta. «Il **treno** è in ritardo.» dice Chiara. «Ancora in ritardo.» Sulla **strada** fuori ci sono le macchine. Dentro la **stazione** c'è molto rumore.
 
-*Ben:* Leo vuole il **bar** sulla **mappa**.
+Poco più in là **c'è** Emma. Con Emma ci sono **una** ragazza bionda e **un** ragazzo. «Ciao, mamma.» dice Emma.
 
-*Nadia:* **Certo**. Geniale. Una **mappa** con il **bar** di Matteo.
+«Ciao, tesoro.»
 
-Nadia rimette il **cartello** sul banco.
+«Mamma, la **fermata** dell'autobus è di là.»
 
-*Ben:* Nadia, un'altra domanda. **C'è** una farmacia in **piazza**?
+«Lo so.»
 
-*Nadia:* No. La **farmacia** è qui. In Via Verdi.
+«Bianca e Tommaso sono là.»
 
-*Ben:* Ah. Allora... una farmacia.
+«Capisco. Vai.» Emma va via di tre passi. Poi si ferma.
 
-*Nadia:* Un**a** **farmacia**, signor Carter. Con la "a". È femminile.
+«Mamma, sei nuova. Lo so che sei nuova.»
 
-*Ben:* Un**a** **farmacia**. Grazie.
+«Grazie, Emma.»
 
-*Leo:* Papà, la "a"!
+Chiara **guarda** il **giornale**. «Primo: **l'ufficio** alle nove.» «Secondo: la riunione con Marchetti.» «Terzo: il progetto Isola.» «Quarto: il **treno** per casa.» Il **giornale** cade sulla banchina.
 
-*Ben:* Sì, sì. La "a".
+«Mamma. Respira.» dice Emma.
 
-Nadia sorride. Poi guarda l'orologio.
+Chiara respira. «Grazie. Respirare è **una** buona idea.»
 
-*Nadia:* Signor Carter, **c'è** un'altra cosa in **piazza**. Il **municipio**.
+Poi **c'è** **una** voce dagli altoparlanti. «Il **treno** per Milano è in ritardo di dieci minuti.»
 
-*Ben:* Sì, il **municipio**. Il **municipio** è in **piazza**. **C'è** un **cartello** nuovo davanti.
+Chiara **guarda** il telefono. «Dieci minuti.»
 
-*Nadia:* Un **cartello** nuovo?
+«Mamma, il **treno** è sempre in ritardo.»
 
-*Ben:* Sì. **C'è** scritto qualcosa con parole strane.
+«Sempre?»
 
-*Nadia:* Ah. Allora è del Comitato. E il Comitato è... il signor Colombo.
+«Sempre. Ma arriva.»
 
-*Ben:* Il signor Colombo del numero undici?
+«Quando?»
 
-*Nadia:* Sì. **C'è** sempre un **cartello** con Colombo.
+«Boh!»
 
-Leo prende il **pane** e lo mette sul banco. Poi lo riprende.
+Chiara ride **una** volta sola. «Tu ridi di me.»
 
-*Leo:* Nadia, **ci sono** i cornetti in **farmacia**?
+«**Un** pochino.»
 
-*Nadia:* No, Leo. I cornetti sono nel **bar**. Il **bar** di Matteo.
+Sul binario ci sono venti persone. Ci sono **un** uomo con la valigia e **una** donna con **un** cane. «**C'è** **un** uomo con **una** valigia grande.»
 
-*Leo:* **C'è** il **bar**!
+«E **c'è** **un** cane.»
 
-*Ben:* E **c'è** sempre il **bar**.
+«**C'è** **un** treno per Monza e **c'è** **un** treno per Milano.»
 
-*Nadia:* La **strada** è lunga, signor Carter. Prima il **bar**, poi il supermercato.
+«E **dov'è** il nostro **treno**?»
 
-*Ben:* Va bene. La **strada** è lunga. Noi camminiamo.
+«Là. Dietro il **treno** per Monza.»
 
-Nadia dà a Leo una caramella. Leo dice grazie.
+«Ah. **C'è** **un** treno dietro **un** altro **treno**.»
 
-*Nadia:* **C'è** una caramella per il disegnatore della **mappa**.
+«Benvenuta a Borgoverde, mamma.»
 
-*Leo:* Grazie! Il **bar** è il prossimo!
+Chiara prende il **giornale** da terra. «Emma, **una** domanda.»
 
-*Nadia:* Scriva: supermercato, Via Roma. **C'è** tutto sul mio **cartello**.
+«Sì?»
 
-*Ben:* Grazie, Nadia. Sei gentile.
+«**Dov'è** **un** bar qui in **stazione**?»
 
-*Nadia:* Sono una farmacista.
+«**C'è** **un** bar di là. Ma il caffè è cattivo.»
 
-Ben e Leo escono. Sopra la porta **c'è** la croce verde.
+«Cattivo?»
 
-*Ben:* **Dov'è** la **piazza**?
+«Cattivo. Lo dicono tutti.»
 
-*Leo:* È là! **C'è** la **chiesa**!
+«Allora niente caffè.»
 
-*Ben:* **C'è** la **chiesa**, **c'è** la **fontana**, **c'è** il **municipio**.
+«Papà dice che il caffè della **stazione** è **un** errore.»
 
-*Leo:* E **c'è** il **bar** sulla **mappa**!
+«Papà ha ragione.»
 
-*Ben:* **Certo**. Geniale.
+Finalmente **c'è** **un** rumore forte. Il **treno** arriva. «Ecco il **treno**!»
 
-## 5. Stazione di Borgoverde · sabato mattina
+Emma prende lo zaino. «Mamma, **una** cosa.»
 
-La **stazione** di Borgoverde è piccola. **C'è** un solo **binario**. Chiara entra di corsa. Guarda il tabellone.
+«Dimmi.»
 
-*Chiara:* Il **treno**... **dov'è** il **treno**?
+«In bocca al lupo.»
 
-Sul tabellone **c'è** una parola rossa: **IN RITARDO**.
+Chiara **guarda** sua figlia. «Crepi il lupo.» Emma sale sul **treno** e scompare. Chiara sale sull'altro vagone.
 
-*Chiara:* **In ritardo**. Il primo giorno e il **treno** è **in ritardo**.
+_Mia figlia mi dice «in bocca al lupo»._ _Forse non sono solo **una** mamma nuova._ _Forse sono **una** mamma._ Chiara **guarda** fuori dal finestrino. La **strada** per Milano è lunga. «Primo: respirare.» dice Chiara. E il **treno** parte.
 
-Chiara guarda l'orologio. Poi guarda il **binario** vuoto.
+## 6. Studio Marchetti, Milano · lunedì mattina
 
-*Chiara:* Otto e dieci. Otto e venti. Il **treno** non c'è.
+Lo Studio Marchetti è a Milano, nel quartiere Isola. **C'è** **una** porta grande e **una** targa d'argento. Davanti alla porta **c'è** **un** uomo con **un** caffè in mano. È Marchetti. «Buongiorno, Ferri.» dice Marchetti.
 
-Sul **binario** c'è un'altra donna. Aspetta anche lei.
+«Buongiorno, architetto.»
 
-*Chiara:* Scusi, signora. Il **treno** per Milano è **in ritardo**?
+«Il **treno**?»
 
-*Una donna:* Sì. Sempre. Il sabato il **treno** è sempre **in ritardo**.
+«In ritardo di dieci minuti.»
 
-*Chiara:* Sempre?
+«Ah. **Una** scusa classica.»
 
-*Una donna:* Sempre. È normale. Il **treno** delle otto e dieci arriva alle otto e mezza.
+«Non è **una** scusa.»
 
-*Chiara:* Alle otto e mezza? Ma io ho un **capo** nuovo.
+«Certo che no.» Marchetti beve **un** sorso. «Il **treno** è **una** scusa buona **una** volta sola.»
 
-*Una donna:* Ah. Il **capo** nuovo.
+Marchetti apre la porta. «Questo è il suo **ufficio**.» L'**ufficio** è grande e c'è molta luce. **C'è** **una** scrivania, **una** sedia e **una** pianta.
 
-*Chiara:* Sì. Si chiama Marchetti. Primo giorno. E io sono **in ritardo**.
+«**C'è** **una** finestra sulla **strada**.»
 
-*Una donna:* Il **capo** è **in ritardo** qualche volta?
+«**C'è** anche **una** parete per i progetti.»
 
-*Chiara:* No. Mai.
+«Perfetto.»
 
-*Una donna:* Allora è un **capo** importante.
+«No. Non è perfetto. È **un** inizio.»
 
-Chiara cammina avanti e indietro sul **binario**.
+Marchetti indica la parete. Sulla parete **c'è** la **mappa** del quartiere Isola. «**C'è** **un** progetto nuovo qui.»
 
-*Chiara:* Va bene. Calma. Io faccio una cosa utile.
+«**Ci sono** già i disegni?»
 
-Chiara apre la borsa. Prende un foglio con il nome del **capo**.
+«**Ci sono**. Ma sono vecchi.»
 
-*Chiara:* Studio Marchetti. Milano, Isola.
+«Quanti?»
 
-Chiara legge il foglio. Poi parla da sola.
+«Tre. Forse quattro.»
 
-*Chiara:* Buongiorno, signor Marchetti. Sono Chiara Ferri.
+«E **c'è** **un** cliente?»
 
-La donna sul **binario** ascolta. Sorride.
+«**C'è** **una** banca.»
 
-*Chiara:* Sono la nuova socia dello studio. Piacere.
+«**Una** **banca** in Isola?»
 
-*Una donna:* Bene. Ma il **treno** è **in ritardo**.
+«**Una** **banca** con **un** piano nuovo.»
 
-*Chiara:* Buongiorno, signor Marchetti. Sono Chiara Ferri. Il **treno** è **in ritardo** e io sono **in ritardo** e la **stazione** è piccola...
+«Interessante.»
 
-*Una donna:* No. Non dire quello.
+«Interessante è **una** parola.»
 
-*Chiara:* No?
+Chiara apre la borsa. Dentro **c'è** **una** **mappa** della metropolitana. «Che cos'è?»
 
-*Una donna:* Il **capo** non ama le scuse.
+«**Una** **mappa** della metro.»
 
-*Chiara:* Ah. Il **capo** non ama le scuse. Bene. Grazie.
+«Perché?»
 
-Chiara ripete la frase. Poi guarda il tabellone.
+«Perché arrivo da Borgoverde e non conosco Milano.»
 
-*Chiara:* **In ritardo**. Ancora **in ritardo**.
+«Ah. **Una** **mappa** nuova per lei.»
 
-*Una donna:* Sempre **in ritardo** il sabato. Ma il **treno** arriva.
+«Sì. Come **una** turista.»
 
-*Chiara:* **C'è** un altro modo per andare a Milano?
+Marchetti **guarda** la **mappa**. «La metta sulla parete.»
 
-*Una donna:* Sì. **C'è** l'autobus. Ma è lento.
+«Qui?»
 
-*Chiara:* No, l'autobus no. Il **treno** è meglio.
+«Sì. Vicino al progetto.»
 
-Un signore con una valigia arriva sul **binario**.
+Chiara mette la **mappa** sulla parete. _Due ore come socia._ _E sono già dietro._ _Milano è **una** città grande._
 
-*Chiara:* Anche lui aspetta. Tutti aspettiamo.
+«Ferri, **una** cosa.»
 
-*Una donna:* Benvenuta a Borgoverde.
+«Dica.»
 
-*Chiara:* Grazie. Un bel benvenuto: **in ritardo**.
+«Ci sono **un** bar e **un** panificio qui.»
 
-Il signore guarda il tabellone e sospira.
+«Bene.»
 
-*Chiara:* Signora, scusi. **Dov'è** il **binario** per Milano?
+«Il **bar** è per il caffè. Il panificio è per il pane.»
 
-*Una donna:* Qui. **C'è** un solo **binario** nella **stazione**.
+«Capisco.»
 
-*Chiara:* Ah. Un solo **binario**. Allora è facile.
+«**C'è** anche **un** giornalaio.»
 
-*Una donna:* Sì. Facile. Ma il **treno** è **in ritardo**.
+«E **c'è** **un** **giornale** buono?»
 
-Chiara ride. Guarda il telefono. Nessun messaggio.
+«**C'è** **un** **giornale** e **c'è** il caffè.»
 
-*Chiara:* Mio marito è a casa con la **mappa**. Io sono qui con il **ritardo**.
+«Allora ho tutto.»
 
-Chiara guarda il tabellone rosso e ride.
+Marchetti prende il caffè e va verso la porta. «Ferri.»
 
-*Chiara:* Mio marito è a casa con la **mappa**. Io sono qui con il **treno** **in ritardo**.
+«Sì?»
 
-Il signore con la valigia aspetta come tutti.
+«Il **treno** è in ritardo anche domani, immagino.»
 
-*Una donna:* Suo marito è italiano?
+«Immagino di sì.»
 
-*Chiara:* No. È americano.
+«Lo immagino.» Marchetti esce. Chiara **guarda** la **strada** dal finestrino. Fuori **c'è** Milano, con le macchine e il rumore.
 
-*Una donna:* Ah. E lei e suo marito parlate italiano a casa?
+«Primo: **l'ufficio**.» «Secondo: la **mappa**.» «Terzo: respirare.» E comincia a lavorare.
 
-*Chiara:* Sì. Adesso sì. Lui studia.
+## 7. Via dei Tigli · lunedì sera
 
-*Una donna:* Bravo. L'italiano è una strada lunga.
+È lunedì sera in Via dei Tigli. Ben e Leo **camminano** verso casa. Passano davanti al **cancello** di Franco. Leo ha la **mappa** in mano. «**C'è** **una** **chiesa**.» dice Leo. «**C'è** **una** **fontana**.» «**Ci sono** due **bar**.»
 
-Un rumore arriva da lontano. Il **treno**!
+«E **c'è** **una** **farmacia**.»
 
-*Chiara:* **C'è** il **treno**!
+«E **c'è** **un** **panificio**.»
 
-*Una donna:* Sì. Ecco il **treno** delle otto e mezza.
+«Con **un** **pane** buono.»
 
-Il **treno** entra nella **stazione** piano piano.
+«Papà, **dov'è** **il parco**?»
 
-*Chiara:* Finalmente!
+«Non lo so ancora. Ma **c'è** **una** **stazione** vicino.»
 
-La donna prende la borsa. Chiara prende la sua.
+«E **c'è** la **piazza** con tutto.»
 
-*Chiara:* Signora, grazie. Lei è gentile.
+Poi **c'è** **un** rumore di passi. Arriva Roberto Colombo. **Guarda** il **cancello** dei Carter. Sul **cancello** **c'è** **un** **avviso**. Accanto **c'è** **un** secondo **avviso**, più grande. «Buonasera, signor Carter.»
 
-*Una donna:* In bocca al lupo per il **capo**!
+«Buonasera, signor Colombo.»
 
-*Chiara:* Crepi!
+«Lei legge il secondo **avviso**?»
 
-Le porte del **treno** si aprono. Le due donne entrano.
+«Sì. **C'è** scritto: vietato mettere **avvisi** sui **cancelli**.»
 
-*Chiara:* Buongiorno, signor Marchetti. Sono Chiara Ferri. Sono la nuova socia.
+«Esatto.»
 
-Il **treno** parte. Sul **binario** non c'è più nessuno. Il tabellone è ancora rosso: **IN RITARDO**.
+«E **c'è** **un** **avviso** sopra **un** altro **avviso**.»
 
-*Chiara:* Il **treno** è **in ritardo**. Ma adesso andiamo.
+«Il regolamento è il regolamento.»
 
-## 6. Studio Marchetti, Milano · sabato mattina
+«Signor Colombo, io **cerco** solo di capire il quartiere.»
 
-Lo Studio Marchetti è al terzo piano di un palazzo a Milano. Chiara apre la porta piano. Dentro **c'è** un uomo in piedi. Guarda l'orologio.
+«Il quartiere è chiaro, signor Carter.»
 
-*Marchetti:* Buongiorno. Lei è Chiara Ferri?
+Leo **guarda** la **mappa**. «Signor Colombo, **dov'è** **il panificio**?»
 
-*Chiara:* Sì. Buongiorno. Sono Chiara Ferri.
+Roberto indica la **strada** senza **guardare**. «Sempre dritto.» Poi entra in casa.
 
-*Marchetti:* Io sono Marchetti. Il suo nuovo **capo**.
+«Papà, lui è **un** **vicino** serio.»
 
-*Chiara:* Piacere, signor Marchetti.
-
-Marchetti non sorride. Guarda di nuovo l'orologio.
-
-*Marchetti:* Lei è **in ritardo**.
-
-*Chiara:* Sì. Mi dispiace. Il **treno**...
-
-*Marchetti:* Il **treno**.
-
-*Chiara:* Sì. Il **treno** è **in ritardo**. Sempre, il sabato.
-
-*Marchetti:* Sempre il sabato?
-
-*Chiara:* Sì. La **stazione** di Borgoverde è piccola. **C'è** un solo **binario**.
-
-*Marchetti:* Un solo **binario**. Capisco.
-
-Marchetti cammina verso la finestra. Non dice altro sul **treno**.
-
-*Marchetti:* Allora. Lo studio. Tre cose.
-
-*Chiara:* La ascolto.
-
-*Marchetti:* Primo: qui **c'è** la sala grande. **Ci sono** i tavoli e i computer.
-
-Marchetti indica una porta a destra.
-
-*Marchetti:* Secondo: là **c'è** il mio ufficio. **Ci sono** i disegni del progetto nuovo.
-
-*Chiara:* Il progetto nuovo. Bene.
-
-*Marchetti:* Terzo: lì **c'è** la cucina. **C'è** una macchina del caffè.
-
-*Chiara:* Una macchina del caffè. Come nel **bar** di mio fratello.
-
-*Marchetti:* Suo fratello ha un **bar**?
-
-*Chiara:* Sì. Il **bar** Tigli, a Borgoverde.
-
-*Marchetti:* Ah. **C'è** un **bar** anche sotto questo palazzo. Ma io bevo il caffè qui.
-
-Chiara mette la borsa sulla sedia. Poi la prende di nuovo.
-
-*Chiara:* Signor Marchetti, posso spiegare? Il **binario**...
-
-*Marchetti:* No. Non spieghi il **binario**.
-
-*Chiara:* ...Va bene.
-
-*Marchetti:* Io ascolto le spiegazioni una volta. Poi basta.
-
-Chiara mette la borsa sulla sedia. Questa volta resta lì.
-
-*Marchetti:* Nel suo studio **ci sono** due colleghi. Sono là, al tavolo.
-
-Due persone al tavolo alzano la testa. Fanno un piccolo saluto.
-
-*Chiara:* Buongiorno. Piacere.
-
-*Marchetti:* E lei lavora con loro. **C'è** molto lavoro.
-
-*Chiara:* Perfetto. A me piace il lavoro.
-
-*Marchetti:* Ah, sì?
-
-Marchetti guarda l'orologio un'altra volta.
-
-*Marchetti:* Signora Ferri, la prima regola dello studio è una sola.
-
-*Chiara:* Quale?
-
-*Marchetti:* "Essere in orario."
-
-Marchetti mette l'orologio davanti a Chiara.
-
-*Marchetti:* Otto e cinquanta. Lei è **in ritardo** di venti minuti.
-
-*Chiara:* Sì. Lo so.
-
-*Marchetti:* Il **capo** non è **in ritardo**. Il **capo** è in orario. Sempre.
-
-*Chiara:* Capito.
-
-Marchetti prende una cartella e va verso il suo ufficio.
-
-*Marchetti:* **C'è** un progetto nuovo sul tavolo. Grande. Il **treno** e il **binario** non sono il progetto.
-
-*Chiara:* No. Il progetto è il progetto.
-
-*Marchetti:* Bene. Allora lavoriamo.
-
-Marchetti entra nel suo ufficio. Chiara guarda i due colleghi.
-
-*Chiara:* **In ritardo** di venti minuti. Primo giorno. Perfetto.
-
-Chiara apre la cartella. Sopra **c'è** scritto: PROGETTO ISOLA.
-
-*Chiara:* Va bene. **C'è** un progetto. Cominciamo.
-
-Al tavolo **ci sono** due sedie vuote. Chiara si siede.
-
-*Chiara:* Buongiorno. Sono Chiara. Il **treno** è **in ritardo**, ma io no.
-
-I due colleghi ridono piano. Chiara apre il computer. Alle nove Marchetti esce dal suo ufficio con una tazza.
-
-*Marchetti:* Signora Ferri. Il caffè qui è buono. **C'è** anche il **bar** sotto, se preferisce.
-
-*Chiara:* No. Va bene qui. Grazie.
-
-*Marchetti:* Bene.
-
-Marchetti torna nel suo ufficio. Chiara guarda il computer.
-
-*Chiara:* **C'è** un progetto. **Ci sono** due colleghi. **C'è** un **capo**. E **c'è** un **bar** sotto. Milano è Milano.
-
-Chiara sorride. Poi comincia a lavorare.
-
-*Marchetti:* Signora Ferri?
-
-*Chiara:* Sì?
-
-*Marchetti:* Domani è domenica. Ma lunedì il **treno** è **in ritardo** anche lunedì?
-
-*Chiara:* No. Il lunedì il **treno** è **in ritardo** di dieci minuti.
-
-*Marchetti:* ...Bene.
-
-Chiara torna al computer. Il primo giorno è cominciato.
-
-## 7. Confessionale
-
-> *Chiara:* Allora. Il primo giorno a Milano. Tre cose. Primo: il **treno**. Il **treno** è **in ritardo**. Secondo: la **stazione** di Borgoverde. **C'è** un solo **binario**. Uno. Terzo: il **capo**. Il **capo** non è **in ritardo**. Mai.
-
-Chiara conta con le dita e guarda la telecamera.
-
-> *Chiara:* Milano è bella. Lo studio è bello. Il progetto è interessante. Ma **c'è** un problema: io sono **in ritardo** e il **capo** no.
-
-> *Chiara:* A Borgoverde **c'è** un **binario**, una **stazione** piccola e un **treno** lento. E a Milano **c'è** Marchetti con l'orologio. Va bene. È il primo giorno. Non è un problema grande.
-
-> *Chiara:* Primo: parlo con il **capo**. Secondo: arrivo prima del **treno**. Terzo: il **treno**... mah, il **treno** è un **treno**.
-
-Chiara prende il telefono. Poi lo rimette in borsa.
-
-> *Chiara:* Ci penso io.
-
-## 8. Confessionale
-
-> *Leo:* Ciao! Io sono Leo. Io e il papà facciamo una **mappa** di Borgoverde. **C'è** una **piazza**. **C'è** una chiesa. **C'è** una fontana. **Ci sono** gli alberi nel parco. **Ci sono** i cornetti nel bar. E **c'è** la **farmacia**. La **farmacia** è di Nadia. Nella **farmacia** **c'è** la **medicina**. **C'è** la **medicina** per i gatti? Sì! **C'è** per Pavarotti!
-
-Leo fa una faccia seria, come un dottore.
-
-> *Leo:* Ma la **medicina** non è un gioco. Questo lo dico io.
-
-> *Leo:* Papà, **dov'è** il supermercato? **Dov'è** la stazione? Mah. **Dov'è** la **piazza**? Lo so! La **piazza** è con la chiesa! La **mappa** è mia e del papà. È una mappaverde.
-
-Leo ride della parola nuova.
-
-> *Leo:* La **mappa** è quasi finita. Adesso **c'è** il bar. Il bar è importante!
-
-> *Leo:* **Perfetto**! Ciao!
-
-## 9. Via dei Tigli · sabato pomeriggio
-
-Ben e Leo tornano a casa. La **passeggiata** è lunga, ma il **pane** è ancora caldo.
-
-*Leo:* Papà, la **mappa** è quasi finita.
-
-*Ben:* Quasi. **C'è** il **panificio**, **c'è** la **fontana**, **c'è** il **parco**.
-
-*Leo:* Ma **dov'è** il **supermercato** sulla **mappa**?
-
-*Ben:* Non c'è ancora.
-
-Ben e Leo sono davanti alla casa. Sul **cancello** c'è un foglio bianco.
-
-*Leo:* Papà, guarda! **C'è** un **cartello** sul **cancello**!
-
-*Ben:* Un **cartello**?
-
-Ben legge il foglio. Poi arriva Roberto Colombo dalla casa di fronte.
-
-*Roberto:* Buonasera, signor Carter.
-
-*Ben:* Buonasera, signor Colombo.
-
-*Roberto:* Il **cartello** è del Comitato di quartiere.
-
-*Ben:* Ah. E che cosa dice?
-
-*Roberto:* Il Comitato chiede una cosa semplice: il **cancello** e la strada puliti.
-
-*Leo:* "Si chiede ai signori residenti..."
-
-*Roberto:* Bravo, il bambino legge bene.
-
-*Ben:* Leo legge tutto. Anche la **mappa**.
-
-*Roberto:* Ah. Una **mappa**.
-
-Roberto guarda il foglio sul **cancello**. Poi guarda Ben.
-
-*Roberto:* Signor Carter, il **cancello** è la porta della strada.
-
-*Ben:* Capisco. Un bel **cancello**.
-
-*Roberto:* Sì. E il **cartello** è la voce del Comitato.
-
-*Leo:* Il **cartello** è la voce? Strano.
-
-*Ben:* Leo.
-
-*Roberto:* Va bene. buonasera.
-
-Roberto va verso casa sua. Ben prende il quaderno.
-
-*Ben:* Scrivo una parola nuova: **cartello**.
-
-*Leo:* Papà, il **cartello** è bianco. E il bianco è buono per la **mappa**!
-
-*Ben:* Leo, no. Il **cartello** resta sul **cancello**.
-
-*Leo:* Va bene. Ma la **mappa** ha bisogno di un foglio bianco.
-
-Entrano in casa con il **pane** e la **mappa**. Il **cartello** resta sul **cancello**.
+«Sì, Leo. Molto serio.» _Borgoverde è **una** città con **un** **bar**, **un** **parco** e **un** **vicino** molto serio._ Ben apre il **cancello** e i due entrano.
