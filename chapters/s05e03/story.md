@@ -6,13 +6,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · venerdì pomeriggio
 
-È venerdì pomeriggio e in casa Carter c'è un silenzio strano.
-
-Fuori piove piano e la luce in cucina è grigia.
-
-Ben è seduto al tavolo davanti al portatile aperto.
-
-Legge le stesse dodici righe da tre giorni.
+È venerdì pomeriggio e in casa Carter c'è un silenzio strano. Fuori piove piano e la luce in cucina è grigia. Ben è seduto al tavolo davanti al portatile aperto. Legge le stesse dodici righe da tre giorni.
 
 «Buongiorno, Ben. Noi dell'**azienda** abbiamo una **proposta** per te.» Ben legge ad alta voce, con la voce di un'altra persona.
 
@@ -22,9 +16,7 @@ _Dave. Sette anni nello stesso ufficio, cinque pranzi a settimana, due figlie e 
 
 _E adesso Dave scrive un'**email** e la mia vita diventa complicata._
 
-Ben tocca lo schermo con un dito, come per controllare che sia vero.
-
-L'**email** dice tre cose, e le dice in ordine.
+Ben tocca lo schermo con un dito, come per controllare che sia vero. L'**email** dice tre cose, e le dice in ordine.
 
 La prima: «**Vogliamo che** tu **torni** a Chicago.»
 
@@ -38,9 +30,7 @@ _La **promozione**. Il **direttore**. Lo **stipendio** doppio._
 
 _Il doppio. In dollari, questo vuol dire **guadagnare** molto bene._
 
-Ma il sorriso gli dura poco.
-
-Perché sotto le tre cose ce n'è una quarta, scritta in fondo, piccola piccola.
+Ma il sorriso gli dura poco. Perché sotto le tre cose ce n'è una quarta, scritta in fondo, piccola piccola.
 
 «**Vorremmo che** tu cominci a marzo. A casa ci pensiamo noi: una casa grande, una macchina nuova.»
 
@@ -50,21 +40,15 @@ _**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risp
 
 _Non ho **risposto** a nessuno, nemmeno a Dave._
 
-Ben si alza e cammina avanti e indietro davanti al frigorifero.
-
-Apre il frigo, guarda dentro, lo chiude.
+Ben si alza e cammina avanti e indietro davanti al frigorifero. Apre il frigo, guarda dentro, lo chiude.
 
 _Nel frigo c'è la cena di stasera. In Ohio c'è mia madre. A Chicago c'è il mio vecchio ufficio. E qui c'è tutto il resto._
 
-Sul tavolo, accanto al portatile, c'è il quaderno giallo delle parole nuove.
-
-Sulla pagina di oggi Ben ha scritto una parola sola: frittata.
+Sul tavolo, accanto al portatile, c'è il quaderno giallo delle parole nuove. Sulla pagina di oggi Ben ha scritto una parola sola: frittata.
 
 _Tre anni di parole nuove, tutte qui dentro. E adesso la decisione più importante arriva in inglese._
 
-Alle sei e mezza la porta d'ingresso si apre con un rumore bagnato.
-
-Chiara entra con la borsa sulla spalla e i capelli pieni di pioggia.
+Alle sei e mezza la porta d'ingresso si apre con un rumore bagnato. Chiara entra con la borsa sulla spalla e i capelli pieni di pioggia.
 
 «Che giornata!» dice, e appoggia la borsa su una sedia.
 
@@ -146,11 +130,7 @@ Chiara alza gli occhi, sorpresa dalla velocità della risposta.
 
 _Bella frase. Però non è vera._
 
-Dopo cena, Chiara sale di sopra a lavorare.
-
-Ben resta solo in cucina, con i piatti sporchi e il portatile davanti.
-
-Apre l'**email** un'ultima volta e legge le ultime due righe.
+Dopo cena, Chiara sale di sopra a lavorare. Ben resta solo in cucina, con i piatti sporchi e il portatile davanti. Apre l'**email** un'ultima volta e legge le ultime due righe.
 
 «Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.»
 
@@ -164,13 +144,7 @@ _Stasera no. Domani._
 
 ## 2. Casa di Ornella, Via dei Tigli 16 · venerdì sera
 
-Alle nove di sera Ben attraversa la strada con due borse della spesa.
-
-La pioggia è finita e l'asfalto lucido riflette i lampioni.
-
-Alla finestra del numero sedici c'è già una luce accesa.
-
-Ornella apre la porta prima che lui suoni il campanello.
+Alle nove di sera Ben attraversa la strada con due borse della spesa. La pioggia è finita e l'asfalto lucido riflette i lampioni. Alla finestra del numero sedici c'è già una luce accesa. Ornella apre la porta prima che lui suoni il campanello.
 
 «Buonasera, Ben. Ti ho visto arrivare.»
 
@@ -178,11 +152,7 @@ Ornella apre la porta prima che lui suoni il campanello.
 
 «Sei un gentiluomo. Siediti, ho fatto il tè.»
 
-Ben si siede, ma non beve.
-
-Guarda la tazza, poi guarda la finestra, poi guarda le sue mani.
-
-Ornella si siede di fronte a lui e aspetta.
+Ben si siede, ma non beve. Guarda la tazza, poi guarda la finestra, poi guarda le sue mani. Ornella si siede di fronte a lui e aspetta.
 
 «Ornella, devo **raccontare** una cosa a qualcuno. A te.»
 
@@ -336,21 +306,13 @@ _Povero ragazzo. Ha una casa piena e una testa piena, e non sa quale delle due p
 
 ## 3. Bar Tigli · sabato mattina
 
-Il sabato mattina al Bar Tigli c'è sempre confusione.
-
-Fuori, il sole nuovo asciuga l'asfalto bagnato di ieri.
-
-Dentro, otto persone aspettano il caffè e parlano tutte insieme.
-
-Ben è dietro il bancone con il grembiule verde e una matita dietro l'orecchio.
+Il sabato mattina al Bar Tigli c'è sempre confusione. Fuori, il sole nuovo asciuga l'asfalto bagnato di ieri. Dentro, otto persone aspettano il caffè e parlano tutte insieme. Ben è dietro il bancone con il grembiule verde e una matita dietro l'orecchio.
 
 «Due cappuccini e un caffè macchiato!» grida Matteo dalla cassa.
 
 «Due cappuccini, un macchiato.» Ben ripete l'ordine, ma guarda fuori dalla vetrina.
 
-Porta al tavolo tre tazze: due macchiati e un cappuccino.
-
-Il signore anziano alza un sopracciglio.
+Porta al tavolo tre tazze: due macchiati e un cappuccino. Il signore anziano alza un sopracciglio.
 
 «Io avevo chiesto un cappuccino.»
 
@@ -386,9 +348,7 @@ Ben ride.
 
 «Esatto! Vedi che sei già il direttore?»
 
-Nadia arriva dalla porta di servizio con la borsa e una borsa più piccola per Anna.
-
-Oggi ha il giorno libero dalla farmacia, ma è passata a prendere il caffè.
+Nadia arriva dalla porta di servizio con la borsa e una borsa più piccola per Anna. Oggi ha il giorno libero dalla farmacia, ma è passata a prendere il caffè.
 
 «Buongiorno, ragazzi.»
 
@@ -516,17 +476,13 @@ Nadia si alza dal tavolo e prende la borsa di Anna.
 
 «E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a venerdì prossimo.»
 
-Ben la guarda, e per un secondo pensa di dirle tutto.
-
-Poi guarda l'orologio sopra la cassa.
+Ben la guarda, e per un secondo pensa di dirle tutto. Poi guarda l'orologio sopra la cassa.
 
 «Devo andare. C'è la spesa e poi i ragazzi.»
 
 «Certo.»
 
-Ben si toglie il grembiule e lo appende al chiodo.
-
-Matteo lo segue con gli occhi fino alla porta.
+Ben si toglie il grembiule e lo appende al chiodo. Matteo lo segue con gli occhi fino alla porta.
 
 «Ben!» «La colazione americana la facciamo comunque, sì o no?»
 
@@ -540,17 +496,11 @@ Nadia guarda la porta e non aggiunge altro.
 
 _E se scappa, Chiara lo saprà prima di me. Ne sono sicura._
 
-Matteo intanto scrive sul foglio della colazione, e sulla sua faccia non c'è nessun dubbio.
-
-A volte Ben **invece** ha troppi dubbi.
+Matteo intanto scrive sul foglio della colazione, e sulla sua faccia non c'è nessun dubbio. A volte Ben **invece** ha troppi dubbi.
 
 ## 4. Il mercato del martedì · sabato mattina
 
-Il mercato del sabato riempie la piazza con trenta bancarelle e trecento voci.
-
-C'è odore di pane, di arance e di pesce.
-
-Chiara sceglie i pomodori mentre Emma e Bianca la seguono con le borse.
+Il mercato del sabato riempie la piazza con trenta bancarelle e trecento voci. C'è odore di pane, di arance e di pesce. Chiara sceglie i pomodori mentre Emma e Bianca la seguono con le borse.
 
 «Signora Ferri, guardi questi. Sono gli ultimi della stagione.»
 
@@ -710,9 +660,7 @@ Arrivano davanti al cancello di casa e Bianca saluta.
 
 «Vengo! Porto il dolce.»
 
-Bianca corre via e le due restano sole davanti al cancello.
-
-Emma apre la porta e si volta.
+Bianca corre via e le due restano sole davanti al cancello. Emma apre la porta e si volta.
 
 «Mamma, una cosa sola.»
 
@@ -730,23 +678,13 @@ _Il **futuro** di Emma è qui. Il futuro di Leo è qui. E il mio? Il mio dove è
 
 «Tutto qui.»
 
-Entrano in casa e Chiara posa le borse sul tavolo della cucina.
-
-Sul tavolo c'è il portatile di Ben, chiuso, ma con un foglietto sopra.
-
-Sul foglietto c'è scritto solo una parola: Chicago.
-
-Chiara prende il foglietto, lo guarda, poi lo rimette esattamente dove era.
+Entrano in casa e Chiara posa le borse sul tavolo della cucina. Sul tavolo c'è il portatile di Ben, chiuso, ma con un foglietto sopra. Sul foglietto c'è scritto solo una parola: Chicago. Chiara prende il foglietto, lo guarda, poi lo rimette esattamente dove era.
 
 _Casa. **Comunque** vada, io voglio sapere. Non voglio aspettare un'altra settimana._
 
 ## 5. L'orto di Franco · sabato pomeriggio
 
-L'orto di Franco è dietro casa, tra il muro vecchio e il garage.
-
-A settembre le piante di pomodoro sono stanche, ma danno ancora frutti.
-
-Leo riempie un secchio e parla senza fermarsi mai.
+L'orto di Franco è dietro casa, tra il muro vecchio e il garage. A settembre le piante di pomodoro sono stanche, ma danno ancora frutti. Leo riempie un secchio e parla senza fermarsi mai.
 
 «Nonno Franco, questo è il più grande di tutti!»
 
@@ -756,11 +694,7 @@ Leo riempie un secchio e parla senza fermarsi mai.
 
 «Perché deve crescere. Come te.»
 
-Ben è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie niente.
-
-Guarda le foglie, poi il muro, poi il cielo.
-
-Franco lo osserva da dieci minuti senza dire niente.
+Ben è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie niente. Guarda le foglie, poi il muro, poi il cielo. Franco lo osserva da dieci minuti senza dire niente.
 
 «Oggi non lavori.»
 
@@ -834,9 +768,7 @@ _La mia linea, la mia casa, la mia gente. Non sono sicuro di avere una frase cos
 
 «Di sposare Anna. Quella è stata la **decisione** della mia vita.» «Tutto il resto è venuto dopo.»
 
-Franco si china di nuovo sui pomodori e per un po' si sente solo il rumore delle mani tra le foglie.
-
-Dalla porta di casa arriva Lucia con un vassoio.
+Franco si china di nuovo sui pomodori e per un po' si sente solo il rumore delle mani tra le foglie. Dalla porta di casa arriva Lucia con un vassoio.
 
 «Caffè per gli operai!»
 
@@ -860,9 +792,7 @@ Lucia non insiste.
 
 «Grazie.»
 
-Lucia torna in casa e Franco la segue con gli occhi.
-
-Leo, intanto, ha una domanda nuova.
+Lucia torna in casa e Franco la segue con gli occhi. Leo, intanto, ha una domanda nuova.
 
 «Papà, Chicago è lontana?»
 
@@ -908,9 +838,7 @@ Ben alza la testa di colpo.
 
 «Bene.» «Allora il resto si sistema.»
 
-Franco prende il secchio pieno e lo porta verso la casa.
-
-Prima di entrare, si volta ancora.
+Franco prende il secchio pieno e lo porta verso la casa. Prima di entrare, si volta ancora.
 
 «Comunque, una cosa te la dico.»
 
@@ -922,9 +850,7 @@ Prima di entrare, si volta ancora.
 
 «A quelli che sono rimasti, no?» «Sennò che senso ha?»
 
-Franco entra in casa e la porta si chiude.
-
-Leo mette l'ultimo pomodoro nel secchio e lo guarda.
+Franco entra in casa e la porta si chiude. Leo mette l'ultimo pomodoro nel secchio e lo guarda.
 
 «Papà, nonno Franco parla sempre così?»
 
@@ -934,23 +860,13 @@ Leo mette l'ultimo pomodoro nel secchio e lo guarda.
 
 «Sì. È simpatico **invece** di essere gentile.»
 
-Leo ci pensa su, ma non capisce e non chiede.
-
-Ben resta solo nell'orto con il secchio vuoto.
+Leo ci pensa su, ma non capisce e non chiede. Ben resta solo nell'orto con il secchio vuoto.
 
 _Torna a raccontare. Lo so, Franco. Lo so._
 
 ## 6. Casa Carter, Via dei Tigli 14 · sabato sera
 
-Dopo cena Emma è in camera sua e Leo dorme già sul divano con le scarpe.
-
-In cucina ci sono solo Ben e il portatile aperto.
-
-Stavolta, sopra il portatile, non c'è nessun foglietto.
-
-Ben sta scrivendo una risposta a Dave.
-
-Ha scritto e cancellato la prima riga undici volte.
+Dopo cena Emma è in camera sua e Leo dorme già sul divano con le scarpe. In cucina ci sono solo Ben e il portatile aperto. Stavolta, sopra il portatile, non c'è nessun foglietto. Ben sta scrivendo una risposta a Dave. Ha scritto e cancellato la prima riga undici volte.
 
 _Caro Dave, grazie per l'**offerta**._
 
@@ -990,13 +906,7 @@ _E adesso glielo dico. Adesso. Una frase sola: "Mi hanno offerto un lavoro a Chi
 
 «Cioè?»
 
-Ben apre la bocca.
-
-Sul tavolo, accanto al portatile, c'è il quaderno giallo aperto sulla parola di oggi.
-
-La parola di oggi è **futuro**.
-
-E Ben cambia strada.
+Ben apre la bocca. Sul tavolo, accanto al portatile, c'è il quaderno giallo aperto sulla parola di oggi. La parola di oggi è **futuro**. E Ben cambia strada.
 
 «Vorrei **rispondere** a un'**email** di lavoro. Niente di importante.»
 
@@ -1038,9 +948,7 @@ Ben prende la sua mano sul tavolo.
 
 «Sì. Vado su tra dieci minuti.»
 
-Chiara prende la tazza e va verso le scale.
-
-Si ferma sul primo gradino.
+Chiara prende la tazza e va verso le scale. Si ferma sul primo gradino.
 
 «Ben, una cosa.»
 
@@ -1050,33 +958,11 @@ Si ferma sul primo gradino.
 
 «Te la dico presto.»
 
-Chiara sale e la porta della camera si chiude piano.
-
-Ben resta seduto davanti al portatile chiuso.
-
-Conta fino a trenta, poi lo riapre.
-
-Caro Dave. Grazie per l'**offerta**.
-
-Ho letto bene tutto: la **promozione**, lo **stipendio**, il **contratto** di tre anni.
-
-La **sede** di Chicago è la mia prima casa, e lo sai.
-
-Il **trasferimento** a marzo è una cosa grande per tutta la mia famiglia.
-
-Ecco la frase che non riesce a scrivere.
+Chiara sale e la porta della camera si chiude piano. Ben resta seduto davanti al portatile chiuso. Conta fino a trenta, poi lo riapre. Caro Dave. Grazie per l'**offerta**. Ho letto bene tutto: la **promozione**, lo **stipendio**, il **contratto** di tre anni. La **sede** di Chicago è la mia prima casa, e lo sai. Il **trasferimento** a marzo è una cosa grande per tutta la mia famiglia. Ecco la frase che non riesce a scrivere.
 
 _Per tutta la mia famiglia. Perché io non ho ancora parlato con la mia famiglia._
 
-Ben cancella la frase e scrive più semplice.
-
-Dave, ho bisogno di una settimana.
-
-Ti **rispondo** venerdì con una **decisione** chiara.
-
-Grazie. Ben.
-
-Ben rilegge tre volte.
+Ben cancella la frase e scrive più semplice. Dave, ho bisogno di una settimana. Ti **rispondo** venerdì con una **decisione** chiara. Grazie. Ben. Ben rilegge tre volte.
 
 _Perfetto. Non ho **accettato** e non ho **rifiutato**. Ho solo chiesto tempo._
 
@@ -1094,27 +980,19 @@ _Potrei **trasferirmi** a marzo con un **contratto** firmato e una casa pronta._
 
 _E potrei **tornare** qui a dicembre e non sapere più chi sono._
 
-Ben preme invio.
-
-Il rumore della tastiera è piccolissimo, ma a lui sembra un tuono.
+Ben preme invio. Il rumore della tastiera è piccolissimo, ma a lui sembra un tuono.
 
 _Adesso aspetto. **Almeno** una settimana ho comprato._
 
 _Una settimana per trovare le parole in italiano. Parole che non ho ancora._
 
-Spegne la luce della cucina e sale le scale senza fare rumore.
-
-Di là, nella camera, Chiara è sveglia al buio.
-
-Non ha dormito un minuto.
+Spegne la luce della cucina e sale le scale senza fare rumore. Di là, nella camera, Chiara è sveglia al buio. Non ha dormito un minuto.
 
 _Tre giorni. Tre giorni di facce strane, e un foglietto con scritto "Chicago"._
 
 _Domani glielo chiedo di nuovo. E questa volta non accetto "niente di importante"._
 
-Chiara si gira verso il muro.
-
-Ben entra piano e si mette a letto vestito.
+Chiara si gira verso il muro. Ben entra piano e si mette a letto vestito.
 
 «Dormi?»
 
@@ -1130,13 +1008,7 @@ _Spero solo di raccontarlo prima di partire, e non dopo._
 
 ## 7. Casa di Ornella, Via dei Tigli 16 · domenica mattina
 
-Domenica mattina, Via dei Tigli è silenziosa e piena di sole.
-
-Leo attraversa la strada con un barattolo di pomodori tra le mani.
-
-Suona il campanello del numero sedici con il gomito.
-
-Ornella apre e sorride.
+Domenica mattina, Via dei Tigli è silenziosa e piena di sole. Leo attraversa la strada con un barattolo di pomodori tra le mani. Suona il campanello del numero sedici con il gomito. Ornella apre e sorride.
 
 «Buongiorno, signora Ornella. Questi sono del nonno Franco.»
 
@@ -1156,9 +1028,7 @@ Ornella versa il latte nella tazza e non dice niente.
 
 «Quella che fa quando deve dire qualcosa e non la dice.»
 
-Ornella si avvicina alla finestra e guarda la casa dei Carter.
-
-Dentro, dietro la tenda chiara, non si muove niente.
+Ornella si avvicina alla finestra e guarda la casa dei Carter. Dentro, dietro la tenda chiara, non si muove niente.
 
 _Domenica mattina, e quella casa è ancora piena di domande._
 
@@ -1228,9 +1098,7 @@ Leo annuisce e si mette il secondo biscotto in tasca.
 
 «Vai, vai.»
 
-Leo esce e attraversa la strada correndo.
-
-Ornella resta alla finestra, con la tazza ancora calda tra le mani.
+Leo esce e attraversa la strada correndo. Ornella resta alla finestra, con la tazza ancora calda tra le mani.
 
 _La decisione giusta. Speriamo che esista, e speriamo che sia vicina._
 

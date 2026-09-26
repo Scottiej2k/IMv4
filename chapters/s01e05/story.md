@@ -104,9 +104,7 @@ Ben prende il quaderno giallo e la giacca. Emma mette le scarpe e aspetta alla p
 
 ## 2. Casa di Franco, Via dei Tigli 9 · domenica, mezzogiorno e mezza
 
-La casa di Franco è piccola e piena di luce. C'è un tavolo lungo con una tovaglia bianca. Sul tavolo ci sono il pane, l'acqua e un piatto di pasta. La porta è aperta.
-
-Franco arriva dalla cucina. Ha un grembiule e una faccia seria.
+La casa di Franco è piccola e piena di luce. C'è un tavolo lungo con una tovaglia bianca. Sul tavolo ci sono il pane, l'acqua e un piatto di pasta. La porta è aperta. Franco arriva dalla cucina. Ha un grembiule e una faccia seria.
 
 «Chiara. Leo. Emma.» Franco guarda Ben per un secondo. «... L'americano.»
 
@@ -248,9 +246,7 @@ Franco mette un bicchiere d'acqua davanti a Ben.
 
 «Pavarotti me lo dice.»
 
-Matteo ride. Chiara sospira. Franco versa il caffè nelle tazzine.
-
-Ben guarda il mobile. Sul mobile c'è una **foto** con una cornice di legno. Nella **foto** c'è una donna con un vestito chiaro. Sorride.
+Matteo ride. Chiara sospira. Franco versa il caffè nelle tazzine. Ben guarda il mobile. Sul mobile c'è una **foto** con una cornice di legno. Nella **foto** c'è una donna con un vestito chiaro. Sorride.
 
 «Franco, chi è nella **foto**?»
 
@@ -272,9 +268,7 @@ Ben apre la bocca, poi la chiude. _{Forse la **foto** è un argomento delicato. 
 
 «Sì.»
 
-Chiara mette una mano sul braccio di Franco. Franco beve il caffè in silenzio.
-
-Poi Matteo rompe il silenzio.
+Chiara mette una mano sul braccio di Franco. Franco beve il caffè in silenzio. Poi Matteo rompe il silenzio.
 
 «Papà, l'arbitro di ieri è un disastro.»
 
@@ -314,9 +308,7 @@ Chiara mette giù la tazzina.
 
 «Di... niente. Un corso.» Franco si alza e prende la giacca. «Io vado. Grazie per il pranzo. Ciao.»
 
-Franco esce e chiude la porta.
-
-Chiara guarda la porta chiusa.
+Franco esce e chiude la porta. Chiara guarda la porta chiusa.
 
 «Un corso di domenica.»
 
@@ -356,9 +348,7 @@ Escono tutti insieme nella strada grigia. Matteo chiude la porta di Franco.
 
 ## 4. Via dei Tigli · domenica pomeriggio
 
-Nel pomeriggio Via dei Tigli è tranquilla. Le foglie sono gialle e il cielo è chiaro. Davanti al numero sedici c'è Ornella con due borse della spesa. Le borse sono pesanti.
-
-Leo arriva in bicicletta e si ferma.
+Nel pomeriggio Via dei Tigli è tranquilla. Le foglie sono gialle e il cielo è chiaro. Davanti al numero sedici c'è Ornella con due borse della spesa. Le borse sono pesanti. Leo arriva in bicicletta e si ferma.
 
 «Signora Ornella!»
 
@@ -476,9 +466,7 @@ Ornella gli dà un biscotto e un bicchiere. Leo mangia e beve. Poi guarda di nuo
 
 ## 5. Casa di Ornella, Via dei Tigli 16 · domenica pomeriggio
 
-Il soggiorno di Ornella è grande e silenzioso. Sul muro ci sono molte **foto** in cornici di legno. Il gatto Pavarotti dorme sul divano. Fuori il sole è basso.
-
-Leo è seduto sulla poltrona con il biscotto in mano. Guarda il muro.
+Il soggiorno di Ornella è grande e silenzioso. Sul muro ci sono molte **foto** in cornici di legno. Il gatto Pavarotti dorme sul divano. Fuori il sole è basso. Leo è seduto sulla poltrona con il biscotto in mano. Guarda il muro.
 
 «Signora Ornella, chi è quest'uomo?» Leo indica una **foto** con il dito.
 
@@ -654,9 +642,7 @@ Leo esce e chiude la porta. Ornella resta ferma un momento. Poi guarda le **foto
 
 ## 6. Casa Carter, Via dei Tigli 14 · domenica sera
 
-Sono le nove di sera. In casa Carter la tv è spenta e la cucina è in ordine. Chiara è sul divano con il computer. Ben è al tavolo con il quaderno giallo.
-
-Leo arriva dalla camera in pigiama. Ha una **foto** in mano. La mette sul tavolo, davanti a tutti.
+Sono le nove di sera. In casa Carter la tv è spenta e la cucina è in ordine. Chiara è sul divano con il computer. Ben è al tavolo con il quaderno giallo. Leo arriva dalla camera in pigiama. Ha una **foto** in mano. La mette sul tavolo, davanti a tutti.
 
 «Mamma! Papà! Guardate!»
 
@@ -772,9 +758,7 @@ Leo ride. Emma ride. Anche Chiara ride.
 
 ## 7. Bar Tigli · lunedì mattina
 
-Lunedì mattina al Bar Tigli. Fuori piove un poco. Dentro c'è profumo di caffè e di cornetti. Ben è al banco con il caffè in mano.
-
-Matteo pulisce il banco con uno straccio.
+Lunedì mattina al Bar Tigli. Fuori piove un poco. Dentro c'è profumo di caffè e di cornetti. Ben è al banco con il caffè in mano. Matteo pulisce il banco con uno straccio.
 
 «Ben! Ieri con papà? Bene?»
 
@@ -828,9 +812,7 @@ Franco guarda Matteo.
 
 «Mah.»
 
-Franco esce dal bar senza dire altro. La porta si chiude piano.
-
-Matteo si avvicina a Ben.
+Franco esce dal bar senza dire altro. La porta si chiude piano. Matteo si avvicina a Ben.
 
 «Ben, la prossima volta: non "**ho fame**". Milan o Inter.»
 

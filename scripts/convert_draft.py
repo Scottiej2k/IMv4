@@ -151,7 +151,17 @@ def split_by_speaker(paragraphs):
                 cur_sp = chars[-1]
         if cur:
             out.append({"segments": cur})
-    return out
+    # The reverse problem: writers sometimes put every narration sentence in its own paragraph
+    # (S5E3: 67 times). Back-to-back narration-only paragraphs are joined.
+    def narration_only(p):
+        return all(w == "narrator" for s in p["segments"] for w, _, _ in s["voice"])
+    joined = []
+    for p in out:
+        if joined and narration_only(p) and narration_only(joined[-1]):
+            joined[-1]["segments"] += p["segments"]
+        else:
+            joined.append(p)
+    return joined
 
 
 def item_id(lemma, used):

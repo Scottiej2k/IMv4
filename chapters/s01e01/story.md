@@ -88,9 +88,7 @@ Chiara chiude gli occhi. «Mah» dice lei.
 
 ## 2. Via dei Tigli · sabato pomeriggio
 
-Nel pomeriggio il sole è ancora alto. La **strada** è piena di scatole e di biciclette. Ben porta le scatole in **casa**. Leo è in **casa** con i suoi libri di scuola.
-
-Sulla **strada** arriva un uomo con una camicia bianca. Lui cammina piano e guarda il furgone. Poi guarda la **casa** numero quattordici.
+Nel pomeriggio il sole è ancora alto. La **strada** è piena di scatole e di biciclette. Ben porta le scatole in **casa**. Leo è in **casa** con i suoi libri di scuola. Sulla **strada** arriva un uomo con una camicia bianca. Lui cammina piano e guarda il furgone. Poi guarda la **casa** numero quattordici.
 
 «**Buonasera**!» dice Ben con la mano alta. L'uomo si ferma.
 
@@ -458,9 +456,7 @@ Ornella chiude la **finestra**. Il **gatto** dorme sul muro. _Tre frasi. Ma oggi
 
 ## 7. Casa di Franco, Via dei Tigli 9 · lunedì sera
 
-È lunedì sera. Franco è nella sua **casa** al numero nove. La cucina è piccola e silenziosa. Sul tavolo ci sono i pomodori dell'orto.
-
-Franco guarda fuori. Dalla **finestra** vede la **strada**. Vede la **casa** numero quattordici. Le luci sono accese. C'è il **vicino** **nuovo** con la sua famiglia.
+È lunedì sera. Franco è nella sua **casa** al numero nove. La cucina è piccola e silenziosa. Sul tavolo ci sono i pomodori dell'orto. Franco guarda fuori. Dalla **finestra** vede la **strada**. Vede la **casa** numero quattordici. Le luci sono accese. C'è il **vicino** **nuovo** con la sua famiglia.
 
 Franco beve un bicchiere d'acqua. «Mah» dice. La **strada** è tranquilla. Il **giorno** è finito. Il **gatto** di Ornella cammina sul muro.
 

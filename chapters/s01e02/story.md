@@ -212,9 +212,7 @@ Ben esce dal bar con il **quaderno** in mano. Fuori il cielo è rosa. _Otto **pa
 
 ## 3. Via dei Tigli · domenica mattina
 
-È **domenica** mattina. In Via dei Tigli c'è silenzio. Le finestre sono aperte. C'è odore di **pane** e di **caffè**.
-
-Davanti al numero nove c'è Franco. Franco è in giacca, con un sacchetto. Nel sacchetto c'è **pane** fresco. Aspetta, tranquillo, come ogni **domenica**.
+È **domenica** mattina. In Via dei Tigli c'è silenzio. Le finestre sono aperte. C'è odore di **pane** e di **caffè**. Davanti al numero nove c'è Franco. Franco è in giacca, con un sacchetto. Nel sacchetto c'è **pane** fresco. Aspetta, tranquillo, come ogni **domenica**.
 
 Leo arriva correndo dal numero quattordici. «Buongiorno, nonno!» dice Leo.
 

@@ -6,9 +6,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · sabato mattina
 
-È sabato mattina in Via dei Tigli. **La** **casa** al numero quattordici è piena di **scatole**. **Le** **scatole** sono grandi e piccole. Tutte hanno un'**etichetta** in inglese.
-
-Chiara entra nella **cucina** con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Ben con una grande **scatola**. Sulla **scatola** c'è un'**etichetta** con la parola KITCHEN.
+È sabato mattina in Via dei Tigli. **La** **casa** al numero quattordici è piena di **scatole**. **Le** **scatole** sono grandi e piccole. Tutte hanno un'**etichetta** in inglese. Chiara entra nella **cucina** con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Ben con una grande **scatola**. Sulla **scatola** c'è un'**etichetta** con la parola KITCHEN.
 
 «Allora, Chiara. Dove metto questa **scatola**?»
 
