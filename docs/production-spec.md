@@ -44,7 +44,8 @@ lexicon (`curriculum/lexicon.csv`).
 
 ## 3. Story rules
 
-- **Dialogue-heavy:** aim for 60–75% of words in dialogue. Narration sets scenes, keeps speaker
+- **Dialogue-rich book:** aim for 45–60% of words in speech and thoughts (owner, 2026-09-26; the
+  stories are written as a book, where dialogue tags and description count as narration). Narration sets scenes, keeps speaker
   changes clear and handles action.
 - **Structure:** 4–7 scenes. There is an A-plot and usually a B-plot (sitcom style), with at least one
   beat moving the season arc forward. Each chapter works on its own but rewards people who keep reading.

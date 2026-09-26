@@ -154,7 +154,7 @@ def chapter_brief(cid):
             f"- Story length: **{lo}–{hi} Italian words** (aim for about {mid}). Plan 5–7 scenes of roughly "
             f"{int(mid / 6)} words each, plus a short closing tag scene.",
             f"- Line length: {rules['sentence']}.",
-            f"- Speech and thoughts: 60–75% of the words; the rest narration.",
+            f"- Speech and thoughts: 45–60% of the words; the rest narration.",
             f"- Vocabulary block: **{rules['vocab'][0]}–{rules['vocab'][1]} items**, each bolded in at least 3 lines.", ""]
 
     out += ["## Grammar focus", "",

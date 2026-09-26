@@ -151,7 +151,7 @@ Requirements:
                "speech as «…»{id}, thoughts as _…_{id}. The reader must always know who is speaking: name "
                "each character with a tag (dice Chiara) or an action of theirs when they first speak, after "
                "someone else spoke, or after narration; untagged lines only in a quick back-and-forth "
-               "between two named people. About two thirds of the words inside «…» and thoughts, one third "
+               "between two named people. About half of the words inside «…» and thoughts, half "
                "narration (place, gestures, faces, sounds), spread between the speech.")
         p = f"""# Scene {k + 1} of {n}
 

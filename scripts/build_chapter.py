@@ -35,7 +35,7 @@ WORD_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ]+(?:'[A-Za-zÀ-ÖØ-öø-ÿ]+)?")
 # Story length targets in Italian words (docs/production-spec.md §1).
 WORD_TARGETS = {"A1": (2700, 3200), "A2": (3600, 4200), "B1": (4800, 5500), "B2": (6000, 7000)}
 FOCUS_ITEMS = {"A1": (20, 30), "A2": (25, 35), "B1": (30, 40), "B2": (35, 45)}
-DIALOGUE_SHARE = (0.60, 0.75)
+DIALOGUE_SHARE = (0.45, 0.60)  # book format: tags and description count as narration
 
 # TTS chunking limits (docs/tts-format.md).
 MAX_DIALOGUE_CHARS = 2500
