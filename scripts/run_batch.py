@@ -142,6 +142,13 @@ def main():
         raise SystemExit("Commit or discard changes in chapters/, curriculum/, bible/, scripts/ and prompts/ "
                          "first: the worktrees are made from the current commit.")
     BATCH.mkdir(exist_ok=True)
+    # One batch at a time: two batches share .batch/wt-<id> and delete each other's files.
+    lock = open(BATCH / "run.lock", "w")
+    try:
+        import fcntl
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        raise SystemExit("Another batch is already running (.batch/run.lock). Wait for it to finish.")
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=args.jobs) as pool:
         rows = list(pool.map(lambda c: run_one(c, args), ids))
