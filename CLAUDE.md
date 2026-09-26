@@ -72,11 +72,14 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   drives the audiobook: the narrator reads the prose, each character voices their own words.
   See docs/draft-format.md. The converter enforces one speaker per paragraph and joins
   back-to-back narration paragraphs (DeepSeek does neither reliably).
-- Written in book format: S1E1–S1E5 and the S5E3 pilot (grammar check clean on all). Speech is
-  49–69% of words; the old 60–75% target predates dialogue tags counting as narration. Proposed
-  45–60% for the book format: owner to decide.
+- Written in book format: S1E1–S1E5 and the S5E3 pilot (grammar check clean on all).
 - Production model `deepseek/deepseek-v4.1-flash`, pinned to DeepSeek's own provider for caching:
   about $0.03–0.08 a chapter, 10–30 min each. OpenRouter key: about $2.5 spent of $50.
+- **Read-along** (owner's feature): words underline as the audio plays, played words stay
+  underlined, play from any sentence, resume. Content is ready: word ids in every segment
+  (`tokens`), word spans per TTS item; timings will come from forced alignment of the finished
+  audio (docs/read-along.md). The review reader demos it with the browser's Italian voice.
+- Dialogue target is 45–60% for the book format (owner, 2026-09-26).
 - TTS: checked against Google's docs (docs/tts-format.md). Styles are now short; character
   voices (Italian voices from the Extended Voice Library, a designed voice for Ben) are still to
   choose.
