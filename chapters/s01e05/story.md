@@ -86,7 +86,7 @@ Chiara prende un bicchiere e dà l'acqua a Leo. Leo beve l'acqua in tre secondi.
 
 «Bene. Allora andiamo a pranzo.» Chiara controlla l'orologio. «È tardi. Papà non aspetta.»
 
-Ben chiude il quaderno e si alza. _{Devo fare una buona figura con il **padre** di Chiara._ «Un momento. Come si dice "I'm hungry"?»
+Ben chiude il quaderno e si alza. _Devo fare una buona figura con il **padre** di Chiara._ «Un momento. Come si dice "I'm hungry"?»
 
 «**Ho fame**! Lo dici sempre tu.»
 
@@ -262,7 +262,7 @@ Il tavolo è silenzioso. Leo smette di ridere. Emma guarda il piatto. Chiara gua
 
 «Anna non c'è più.» Franco tocca la cornice con un dito. «Tre **anni** fa.»
 
-Ben apre la bocca, poi la chiude. _{Forse la **foto** è un argomento delicato. Non dico niente._
+Ben apre la bocca, poi la chiude. _Forse la **foto** è un argomento delicato. Non dico niente._
 
 «Mi dispiace, Franco.»
 
@@ -402,7 +402,7 @@ Leo si ferma in mezzo alla strada. La borsa è pesante, ma lui non se ne accorge
 
 «Mai.»
 
-Leo guarda la strada. _{La mia **nonna** è in America. La signora Ornella non **ha nipoti**. Ma la **nonna** qui non c'è._
+Leo guarda la strada. _La mia **nonna** è in America. La signora Ornella non **ha nipoti**. Ma la **nonna** qui non c'è._
 
 «La mia **nonna** è lontana.»
 
@@ -462,7 +462,7 @@ Leo ride. Ornella quasi ride.
 
 «Sì. **Ho sete** davvero.»
 
-Ornella gli dà un biscotto e un bicchiere. Leo mangia e beve. Poi guarda di nuovo le **foto**. Pensa. _{Un biscotto è buono. Ma la signora Ornella non **ha nipoti**. Non **ha ragione**? No... non è giusto._ Leo non **ha paura** di niente. Ma guarda Ornella e sente una cosa piccola e triste.
+Ornella gli dà un biscotto e un bicchiere. Leo mangia e beve. Poi guarda di nuovo le **foto**. Pensa. _Un biscotto è buono. Ma la signora Ornella non **ha nipoti**. Non **ha ragione**? No... non è giusto._ Leo non **ha paura** di niente. Ma guarda Ornella e sente una cosa piccola e triste.
 
 ## 5. Casa di Ornella, Via dei Tigli 16 · domenica pomeriggio
 
@@ -532,7 +532,7 @@ Leo beve un sorso d'acqua. Poi mette giù il bicchiere e guarda Ornella bene neg
 
 «Io non **ho figli**. Allora non **ho nipoti**.»
 
-Leo guarda il soffitto. Il gatto apre un occhio e poi lo chiude. _{Io sono il **figlio** di Chiara. Chiara è la **figlia** di Franco. Allora io sono il **nipote** di Franco._
+Leo guarda il soffitto. Il gatto apre un occhio e poi lo chiude. _Io sono il **figlio** di Chiara. Chiara è la **figlia** di Franco. Allora io sono il **nipote** di Franco._
 
 «Allora io sono il **nipote** di **nonno** Franco!»
 
@@ -790,7 +790,7 @@ Poi guarda Ben.
 
 «E tu, americano? Milan o Inter?»
 
-Ben è in panico. Guarda Matteo, poi guarda Franco. _{Milan o Inter? Non lo so! Che cosa dico?_
+Ben è in panico. Guarda Matteo, poi guarda Franco. _Milan o Inter? Non lo so! Che cosa dico?_
 
 «Io... **ho fame**.»
 

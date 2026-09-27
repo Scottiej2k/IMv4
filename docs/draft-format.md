@@ -59,6 +59,8 @@ paragraph.
 **Speech and thoughts** (in the Italian only):
 - Speech: `«…»{id}` or `«…»{id|delivery}`. The Italian inside the quotation marks is voiced by that
   character; `{id}` comes straight after the closing `»`. The English uses “…” and no marks.
+- A quote inside speech or a thought (someone repeating words) uses “…”, never « »:
+  `«Mia figlia mi dice “in bocca al lupo”.»{chiara}`.
 - Thoughts: `_…_{id}` (shown in italics, voiced by that character quietly). The English uses `*…*`.
 - `delivery` is a short English note for the audio: `whispering`, `too loud`, `dry`, `laughing`.
   Leave it out when the delivery is ordinary. Never describe the voice itself (age, accent).

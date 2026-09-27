@@ -1,0 +1,148 @@
+<title>Via dei Tigli Casting</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+<style>
+:root {
+  --bg: #F3F5EF; --surface: #FFFFFF; --ink: #1E2923; --muted: #5E6B63; --line: #DCE2D6;
+  --accent: #2C6849; --accent-soft: #E3EEE6; --warn: #9A5B0C; --warn-soft: #F7EAD4;
+  --read: "Literata", Georgia, "Times New Roman", serif;
+  --ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #101512; --surface: #171E1A; --ink: #E2E8E3; --muted: #97A49B; --line: #2A342E; --accent: #7CC29C; --accent-soft: #1F2E26; --warn: #E0A95A; --warn-soft: #3A2C17; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #101512; --surface: #171E1A; --ink: #E2E8E3; --muted: #97A49B; --line: #2A342E; --accent: #7CC29C; --accent-soft: #1F2E26; --warn: #E0A95A; --warn-soft: #3A2C17; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--ui); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 920px; margin: 0 auto; padding-inline: 20px; padding-block: 32px 72px; }
+h1 { font-family: var(--read); font-weight: 600; font-size: 32px; line-height: 1.15; margin: 0 0 6px; text-wrap: balance; }
+.lede { color: var(--muted); max-width: 66ch; margin: 0 0 8px; }
+.status { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin: 12px 0 26px; }
+.chip { font-family: var(--mono); font-size: 11.5px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); }
+.chip.ok { color: var(--accent); border-color: var(--accent); }
+.chip.warn { color: var(--warn); background: var(--warn-soft); border-color: transparent; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px 16px; margin-bottom: 16px; }
+.card-h { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+.card-h h2 { font-family: var(--read); font-weight: 600; font-size: 21px; margin: 0; }
+.about { color: var(--muted); font-size: 13.5px; margin: 2px 0 12px; }
+.lines { display: grid; gap: 6px; margin: 0 0 14px; padding-left: 12px; border-left: 3px solid var(--accent-soft); }
+.lines .it { font-family: var(--read); font-size: 16px; }
+.lines .en { color: var(--muted); font-size: 13px; }
+.takes { display: grid; gap: 6px; }
+.take { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; }
+.take.chosen { border-color: var(--accent); background: var(--accent-soft); }
+.take.playing { box-shadow: inset 3px 0 0 var(--accent); }
+.play { width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--accent); background: var(--surface); color: var(--accent); font-size: 14px; display: grid; place-items: center; }
+.take.playing .play { background: var(--accent); color: var(--surface); }
+.vname { font-weight: 600; }
+.vmeta { color: var(--muted); font-size: 13px; }
+.pick { padding: 6px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); font-size: 13px; white-space: nowrap; }
+.take.chosen .pick { background: var(--accent); border-color: var(--accent); color: var(--surface); font-weight: 600; }
+.note { width: 100%; margin-top: 10px; font: inherit; font-size: 13.5px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); }
+.saved { font-size: 12px; color: var(--muted); min-height: 1.2em; margin-top: 4px; }
+
+@media (max-width: 560px) {
+  .take { grid-template-columns: auto minmax(0, 1fr); }
+  .pick { grid-column: 1 / -1; justify-self: start; }
+}
+</style>
+
+<div class="wrap">
+  <h1>Casting the voices</h1>
+  <p class="lede">Each character reads two of their own lines from Season 1, in each candidate voice (Gemini 3.8 Flash TTS, at the A1 pace). Press ▶ to hear a voice read both lines, then choose one per character. Add a note if none is right. Your picks are saved as you go.</p>
+  <div class="status" id="status"><span>Loading…</span></div>
+  <div id="cast"></div>
+</div>
+
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  let A = null, db = null, picks = {};
+  const player = new Audio();
+  let queue = [], playingKey = null;
+
+  function keyOf(c, t) { return c.id + "|" + t.voice + (t.label ? "|accent" : ""); }
+
+  function render() {
+    const usedBy = {};
+    for (const c of A.cast) (usedBy[c.current] ||= []).push(c.name);
+    $("cast").innerHTML = A.cast.map((c) => {
+      const pick = picks[c.id] || {};
+      const lines = c.lines.map((l) => `<div><div class="it">${esc(l.it)}</div><div class="en">${esc(l.en)}</div></div>`).join("");
+      const takes = c.takes.map((t) => {
+        const k = keyOf(c, t);
+        const chosen = pick.take === k;
+        const others = (usedBy[t.voice] || []).filter((n) => n !== c.name);
+        return `<div class="take${chosen ? " chosen" : ""}${playingKey === k ? " playing" : ""}" data-key="${esc(k)}">
+          <button class="play" data-play="${esc(k)}" aria-label="Play ${esc(t.voice)}">${playingKey === k ? "❚❚" : "▶"}</button>
+          <div><span class="vname">${esc(t.voice)}</span> <span class="vmeta">· ${esc(t.descr)}${t.label ? " · " + esc(t.label) : ""}${t.voice === c.current && !t.label ? " · current" : ""}${others.length ? " · now also " + esc(others.join(", ")) : ""}</span></div>
+          <button class="pick" data-pick="${esc(k)}" data-char="${esc(c.id)}">${chosen ? "Chosen" : "Choose"}</button></div>`;
+      }).join("");
+      return `<section class="card" id="c-${esc(c.id)}"><div class="card-h"><h2>${esc(c.name)}</h2>${pick.take ? `<span class="chip ok">picked: ${esc(pick.take.split("|").slice(1).join(" "))}</span>` : `<span class="chip">not picked yet</span>`}</div>
+        <p class="about">${esc(c.about)}</p><div class="lines">${lines}</div><div class="takes">${takes}</div>
+        <input class="note" id="note-${esc(c.id)}" data-note="${esc(c.id)}" placeholder="Note (optional): what you'd like different" value="${esc(pick.note || "")}">
+        <div class="saved" id="saved-${esc(c.id)}"></div></section>`;
+    }).join("");
+    const n = A.cast.filter((c) => picks[c.id]?.take).length;
+    $("status").innerHTML = `<span class="chip">${esc(A.model)}</span><span>${n} of ${A.cast.length} characters picked</span>` +
+      (db ? `<span class="chip ok">picks saved for Claude</span>` : `<span class="chip warn">picks saved in this browser only</span>`);
+  }
+
+  function findTake(k) {
+    for (const c of A.cast) for (const t of c.takes) if (keyOf(c, t) === k) return t;
+  }
+  function stop() { player.pause(); queue = []; playingKey = null; }
+  function playNext() {
+    const f = queue.shift();
+    if (!f) { playingKey = null; render(); return; }
+    player.src = f; player.play().catch(() => { playingKey = null; render(); });
+  }
+  player.addEventListener("ended", playNext);
+
+  async function save(charId, patch) {
+    picks[charId] = { ...(picks[charId] || {}), ...patch, at: new Date().toISOString() };
+    try { localStorage.setItem("vdt-casting", JSON.stringify(picks)); } catch {}
+    const el = $("saved-" + charId);
+    if (db) {
+      try { await db.doc("picks/" + charId).set(picks[charId]); if (el) el.textContent = "Saved."; }
+      catch (e) { if (el) el.textContent = "Couldn't save to the shared store (" + (e.code || "error") + "); kept in this browser."; }
+    } else if (el) el.textContent = "Saved in this browser.";
+  }
+
+  document.addEventListener("click", (e) => {
+    const p = e.target.closest("[data-play]");
+    if (p) {
+      const k = p.dataset.play;
+      if (playingKey === k) { stop(); render(); return; }
+      stop(); playingKey = k; queue = [...findTake(k).files]; render(); playNext(); return;
+    }
+    const b = e.target.closest("[data-pick]");
+    if (b) { save(b.dataset.char, { take: b.dataset.pick }).then(render); render(); }
+  });
+  document.addEventListener("change", (e) => {
+    const n = e.target.closest("[data-note]");
+    if (n) save(n.dataset.note, { note: n.value.trim() });
+  });
+
+  (async () => {
+    try { picks = JSON.parse(localStorage.getItem("vdt-casting") || "{}"); } catch { picks = {}; }
+    try { A = await (await fetch("audition.json")).json(); }
+    catch { $("status").textContent = "Couldn't load the audition (audition.json)."; return; }
+    render();
+    try {
+      db = await window.claude?.use?.("db");
+      if (db) {
+        const snap = await db.collection("picks").get();
+        for (const d of snap.docs) picks[d.id] = { ...(picks[d.id] || {}), ...d.data() };
+        render();
+      }
+    } catch { db = null; render(); }
+  })();
+})();
+</script>

@@ -69,7 +69,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Bene. Allora andiamo a pranzo.» | “Good. Then let's go to lunch.” |
 | Chiara controlla l'orologio. «È tardi. Papà non aspetta.» | Chiara checks her watch. “It's late. Dad doesn't wait.” |
 | Ben chiude il quaderno e si alza. | Ben closes the notebook and stands up. |
-| _{Devo fare una buona figura con il **padre** di Chiara._ | _I have to make a good impression on Chiara's **father**._ |
+| _Devo fare una buona figura con il **padre** di Chiara._ | _I have to make a good impression on Chiara's **father**._ |
 | «Un momento. Come si dice "I'm hungry"?» | “One moment. How do you say ‘I'm hungry’?” |
 | «**Ho fame**! Lo dici sempre tu.» | “**I'm hungry**! You always say it.” |
 | «Perfetto. **Ho fame**, **ho sete**, **ho paura** e **ho sonno**.» | “Perfect. **I'm hungry**, **I'm thirsty**, **I'm scared** and **I'm sleepy**.” |
@@ -213,7 +213,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco tocca la cornice con un dito. | Franco touches the frame with a finger. |
 | «Tre **anni** fa.» | “Three **years** ago.” |
 | Ben apre la bocca, poi la chiude. | Ben opens his mouth, then closes it. |
-| _{Forse la **foto** è un argomento delicato. Non dico niente._ | _Maybe the **photo** is a delicate subject. I'll say nothing._ |
+| _Forse la **foto** è un argomento delicato. Non dico niente._ | _Maybe the **photo** is a delicate subject. I'll say nothing._ |
 | «Mi dispiace, Franco.» | “I'm sorry, Franco.” |
 | «Sì.» | “Yes.” |
 | Chiara mette una mano sul braccio di Franco. | Chiara puts a hand on Franco's arm. |
@@ -311,7 +311,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Mai?» | “Never?” |
 | «Mai.» | “Never.” |
 | Leo guarda la strada. | Leo looks at the street. |
-| _{La mia **nonna** è in America. La signora Ornella non **ha nipoti**. Ma la **nonna** qui non c'è._ | _My **grandmother** is in America. Signora Ornella doesn't **have grandchildren**. But there's no **grandmother** here._ |
+| _La mia **nonna** è in America. La signora Ornella non **ha nipoti**. Ma la **nonna** qui non c'è._ | _My **grandmother** is in America. Signora Ornella doesn't **have grandchildren**. But there's no **grandmother** here._ |
 | «La mia **nonna** è lontana.» | “My **grandmother** is far away.” |
 | «Capisco.» | “I understand.” |
 | «È in Ohio. Con il **nonno**? No. Il **nonno** è qui.» | “She's in Ohio. With **grandpa**? No. **Grandpa** is here.” |
@@ -354,7 +354,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo mangia e beve. | Leo eats and drinks. |
 | Poi guarda di nuovo le **foto**. | Then he looks at the **photos** again. |
 | Pensa. | He thinks. |
-| _{Un biscotto è buono. Ma la signora Ornella non **ha nipoti**. Non **ha ragione**? No... non è giusto._ | _A biscuit is good. But signora Ornella doesn't **have grandchildren**. Isn't **she right**? No... it isn't fair._ |
+| _Un biscotto è buono. Ma la signora Ornella non **ha nipoti**. Non **ha ragione**? No... non è giusto._ | _A biscuit is good. But signora Ornella doesn't **have grandchildren**. Isn't **she right**? No... it isn't fair._ |
 | Leo non **ha paura** di niente. | Leo isn't **afraid** of anything. |
 | Ma guarda Ornella e sente una cosa piccola e triste. | But he looks at Ornella and feels a small, sad thing. |
 
@@ -410,7 +410,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io non **ho figli**. Allora non **ho nipoti**.» | “I don't **have children**. So I don't **have grandchildren**.” |
 | Leo guarda il soffitto. | Leo looks at the ceiling. |
 | Il gatto apre un occhio e poi lo chiude. | The cat opens one eye and then closes it. |
-| _{Io sono il **figlio** di Chiara. Chiara è la **figlia** di Franco. Allora io sono il **nipote** di Franco._ | _I'm Chiara's **son**. Chiara is Franco's **daughter**. So I'm Franco's **grandchild**._ |
+| _Io sono il **figlio** di Chiara. Chiara è la **figlia** di Franco. Allora io sono il **nipote** di Franco._ | _I'm Chiara's **son**. Chiara is Franco's **daughter**. So I'm Franco's **grandchild**._ |
 | «Allora io sono il **nipote** di **nonno** Franco!» | “Then I'm **grandpa** Franco's **grandchild**!” |
 | «Sì. Questo è vero.» | “Yes. That's true.” |
 | «E Emma è la **nipote** di **nonno** Franco.» | “And Emma is **grandpa** Franco's **grandchild**.” |
@@ -584,7 +584,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E tu, americano? Milan o Inter?» | “And you, American? Milan or Inter?” |
 | Ben è in panico. | Ben panics. |
 | Guarda Matteo, poi guarda Franco. | He looks at Matteo, then at Franco. |
-| _{Milan o Inter? Non lo so! Che cosa dico?_ | _Milan or Inter? I don't know! What do I say?_ |
+| _Milan o Inter? Non lo so! Che cosa dico?_ | _Milan or Inter? I don't know! What do I say?_ |
 | «Io... **ho fame**.» | “I... **I'm hungry**.” |
 | Silenzio nel bar. | Silence in the bar. |
 | Franco mette giù la tazzina. | Franco puts down the cup. |

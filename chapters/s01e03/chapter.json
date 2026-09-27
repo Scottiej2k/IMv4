@@ -1936,7 +1936,17 @@
               "voice": [
                 [
                   "ben",
-                  "**Il** **tavolo**, **le** **sedie**, **la** **finestra**» ripete Ben. «Perfetto!",
+                  "**Il** **tavolo**, **le** **sedie**, **la** **finestra**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "ripete Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Perfetto!",
                   ""
                 ]
               ],
@@ -2132,7 +2142,17 @@
               "voice": [
                 [
                   "ben",
-                  "**La** **cucina** è **piccola**» dice. «Ma **la** **casa** è **grande**!",
+                  "**La** **cucina** è **piccola**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Ma **la** **casa** è **grande**!",
                   ""
                 ]
               ],
@@ -3462,7 +3482,17 @@
               "voice": [
                 [
                   "ben",
-                  "È un cittadino del mondo» dice Ben. «Come me!",
+                  "È un cittadino del mondo",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Come me!",
                   ""
                 ]
               ],
@@ -7598,7 +7628,17 @@
               "voice": [
                 [
                   "chiara",
-                  "Forse» dice. «Perfetto.",
+                  "Forse",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ],
+                [
+                  "chiara",
+                  "Perfetto.",
                   "dry"
                 ]
               ],
@@ -8218,7 +8258,17 @@
               "voice": [
                 [
                   "emma",
-                  "Questa è **la** **camera** **grande**» dice. «Ed è **la** **mia** **camera**.",
+                  "Questa è **la** **camera** **grande**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ],
+                [
+                  "emma",
+                  "Ed è **la** **mia** **camera**.",
                   ""
                 ]
               ],
@@ -9348,7 +9398,17 @@
               "voice": [
                 [
                   "emma",
-                  "Va bene, **la** **finestra** è bella» dice Emma. «Ma **la** **camera** è mia.",
+                  "Va bene, **la** **finestra** è bella",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Emma.",
+                  ""
+                ],
+                [
+                  "emma",
+                  "Ma **la** **camera** è mia.",
                   ""
                 ]
               ],
@@ -13969,7 +14029,17 @@
               "voice": [
                 [
                   "ben",
-                  "Ah! **Il** **gatto**!» dice Ben. «Come si chiama?",
+                  "Ah! **Il** **gatto**!",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Come si chiama?",
                   ""
                 ]
               ],
@@ -14076,7 +14146,17 @@
               "voice": [
                 [
                   "ornella",
-                  "Pavarotti» dice Ornella. «È un **ospite** importante.",
+                  "Pavarotti",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ornella.",
+                  ""
+                ],
+                [
+                  "ornella",
+                  "È un **ospite** importante.",
                   ""
                 ]
               ],
@@ -16302,7 +16382,17 @@
               "voice": [
                 [
                   "ornella",
-                  "La **casa** è **nuova** per voi» dice Ornella. «Anche per **il** **gatto**.",
+                  "La **casa** è **nuova** per voi",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ornella.",
+                  ""
+                ],
+                [
+                  "ornella",
+                  "Anche per **il** **gatto**.",
                   ""
                 ]
               ],
@@ -16451,7 +16541,17 @@
               "voice": [
                 [
                   "ben",
-                  "La **cucina** è **piccola**» dice Ben. «E il **salotto** è pieno di **scatole**.",
+                  "La **cucina** è **piccola**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "E il **salotto** è pieno di **scatole**.",
                   ""
                 ]
               ],
@@ -18237,7 +18337,17 @@
               "voice": [
                 [
                   "ornella",
-                  "**Il** **gatto** resta qui fino a sera» dice. «Grazie, Signor Carter.",
+                  "**Il** **gatto** resta qui fino a sera",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ],
+                [
+                  "ornella",
+                  "Grazie, Signor Carter.",
                   ""
                 ]
               ],
@@ -18374,7 +18484,17 @@
               "voice": [
                 [
                   "ben",
-                  "Grazie a Lei, Signora Galli» dice Ben. «E… come si dice cat-sitter in italiano?",
+                  "Grazie a Lei, Signora Galli",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "E… come si dice cat-sitter in italiano?",
                   ""
                 ]
               ],
@@ -26667,7 +26787,17 @@
               "voice": [
                 [
                   "franco",
-                  "Buonasera» dice Franco. «Pomodori. Per Leo.",
+                  "Buonasera",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Franco.",
+                  ""
+                ],
+                [
+                  "franco",
+                  "Pomodori. Per Leo.",
                   ""
                 ]
               ],
@@ -28833,7 +28963,17 @@
               "voice": [
                 [
                   "franco",
-                  "Il **gatto** sul **divano**» dice piano. «Mah.",
+                  "Il **gatto** sul **divano**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice piano.",
+                  ""
+                ],
+                [
+                  "franco",
+                  "Mah.",
                   "dry"
                 ]
               ],
@@ -29747,7 +29887,17 @@
               "voice": [
                 [
                   "franco",
-                  "Il **caffè** è una **cosa** seria» dice Franco. «Non una **cosa** americana.",
+                  "Il **caffè** è una **cosa** seria",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Franco.",
+                  ""
+                ],
+                [
+                  "franco",
+                  "Non una **cosa** americana.",
                   "dry"
                 ]
               ],
@@ -29894,7 +30044,17 @@
               "voice": [
                 [
                   "chiara",
-                  "L'americano fa il **caffè** con l'acqua» dice Chiara. «Come il tè.",
+                  "L'americano fa il **caffè** con l'acqua",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Chiara.",
+                  ""
+                ],
+                [
+                  "chiara",
+                  "Come il tè.",
                   "amused"
                 ]
               ],
@@ -30304,7 +30464,17 @@
               "voice": [
                 [
                   "franco",
-                  "**Il** **tavolo** è **nuovo**» dice Franco. «**Il** **muro** è vecchio. E **il** **giardino**?",
+                  "**Il** **tavolo** è **nuovo**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Franco.",
+                  ""
+                ],
+                [
+                  "franco",
+                  "**Il** **muro** è vecchio. E **il** **giardino**?",
                   ""
                 ]
               ],
@@ -30704,7 +30874,17 @@
               "voice": [
                 [
                   "franco",
-                  "Il **gatto** dorme dappertutto» dice. «Come i bambini.",
+                  "Il **gatto** dorme dappertutto",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ],
+                [
+                  "franco",
+                  "Come i bambini.",
                   ""
                 ]
               ],
@@ -31058,7 +31238,17 @@
               "voice": [
                 [
                   "ben",
-                  "Ma i pomodori sono **cosa** di famiglia» dice Ben. «Come il **caffè**!",
+                  "Ma i pomodori sono **cosa** di famiglia",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Come il **caffè**!",
                   ""
                 ]
               ],
@@ -32625,7 +32815,17 @@
               "voice": [
                 [
                   "ben",
-                  "Leo!» chiama Ben. «Perché c'è un **post-it** sulla **macchina del caffè**?",
+                  "Leo!",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "chiama Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Perché c'è un **post-it** sulla **macchina del caffè**?",
                   ""
                 ]
               ],
@@ -33998,7 +34198,17 @@
               "voice": [
                 [
                   "ben",
-                  "Perfetto!» dice Ben. «Come a Chicago!",
+                  "Perfetto!",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Come a Chicago!",
                   "happy"
                 ]
               ],
@@ -35526,7 +35736,17 @@
               "voice": [
                 [
                   "ben",
-                  "Non lo tolgo» dice Ben. «È **una** **cosa** **grande**.",
+                  "Non lo tolgo",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Ben.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "È **una** **cosa** **grande**.",
                   ""
                 ]
               ],

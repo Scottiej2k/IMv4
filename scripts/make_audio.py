@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Make a chapter's audio and its read-along timings.
 
-    python3 scripts/make_audio.py s01e01                     # Gemini TTS (needs GEMINI_API_KEY)
+    python3 scripts/make_audio.py s01e01                     # Gemini TTS via OpenRouter
     python3 scripts/make_audio.py s01e01 --engine standin    # OpenRouter stand-in voice, for testing
 
 Writes chapters/<id>/audio/chapter.mp3 and chapters/<id>/audio/timing.json (docs/read-along.md).
@@ -57,9 +57,15 @@ def _post(url, body, headers, timeout=180):
 
 
 def gemini_clip(model, voice, text, style):
+    """Gemini TTS through OpenRouter's speech endpoint (the environment's key), or straight from
+    Google when GEMINI_API_KEY is set. The style must go in the provider options: OpenRouter ignores
+    `instructions` for Gemini (tested 2026-09-27: "extremely slowly" changed nothing that way)."""
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
-        raise SystemExit("GEMINI_API_KEY is not set. Add it in the environment settings, or use --engine standin.")
+        body = {"model": "google/" + model, "input": text, "voice": voice, "response_format": "pcm",
+                "provider": {"options": {"google-ai-studio": {"speech_metadata": {"style": style}}}}}
+        with _post(OPENROUTER_URL.replace("chat/completions", "audio/speech"), body, {}) as r:
+            return r.read()
     body = {"model": model,
             "input": [{"type": "user_input", "content": [{"type": "text", "text": text,
                        "annotations": [{"type": "speech_metadata", "style": style}]}]}],

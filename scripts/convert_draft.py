@@ -103,7 +103,7 @@ def parse(text, errors):
         if scene is None:
             errors.append(f"line {n}: story line before the first '# SCENE' heading")
             continue
-        it, en = m.group("it"), m.group("en")
+        it, en = bf.mark_lone_quotes(bf.tidy_marks(m.group("it"))), m.group("en")
         # Writers often copy audio tags into the English; they belong in the Italian only.
         en = bf.english_text(re.sub(r"\s{2,}", " ", bc.TAG_RE.sub("", en)).strip())
         pieces, bad = [], False
@@ -116,6 +116,10 @@ def parse(text, errors):
                     bad = True
                     continue
                 who = sid
+            if "{" in text or "}" in text or (who != "narrator" and ("«" in text or "»" in text)):
+                errors.append(f"line {n}: a mark in the wrong place (a quote inside speech or a thought uses “…”): "
+                              f"{line[:70]}")
+                bad = True
             if who == "narrator" and ("«" in text or "»" in text):
                 errors.append(f"line {n}: speech in « » without a speaker mark: write «…»{{id}}: {line[:70]}")
                 bad = True

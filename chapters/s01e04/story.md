@@ -562,7 +562,7 @@ Emma prende lo zaino. «Mamma, **una** cosa.»
 
 Chiara **guarda** sua figlia. «Crepi il lupo.» Emma sale sul **treno** e scompare. Chiara sale sull'altro vagone.
 
-_Mia figlia mi dice «in bocca al lupo»._ _Forse non sono solo **una** mamma nuova._ _Forse sono **una** mamma._ Chiara **guarda** fuori dal finestrino. La **strada** per Milano è lunga. «Primo: respirare.» dice Chiara. E il **treno** parte.
+_Mia figlia mi dice “in bocca al lupo”._ _Forse non sono solo **una** mamma nuova._ _Forse sono **una** mamma._ Chiara **guarda** fuori dal finestrino. La **strada** per Milano è lunga. «Primo: respirare.» dice Chiara. E il **treno** parte.
 
 ## 6. Studio Marchetti, Milano · lunedì mattina
 

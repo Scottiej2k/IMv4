@@ -304,13 +304,25 @@
       ],
       "words": [
         [
-          "s01e03-1-018:0-8"
+          "s01e03-1-018:0-5"
+        ],
+        [
+          "s01e03-1-018:6-7"
+        ],
+        [
+          "s01e03-1-018:8-8"
         ],
         [
           "s01e03-1-019:0-5"
         ],
         [
-          "s01e03-1-020:0-9"
+          "s01e03-1-020:0-3"
+        ],
+        [
+          "s01e03-1-020:4-4"
+        ],
+        [
+          "s01e03-1-020:5-9"
         ]
       ],
       "request": {
@@ -321,7 +333,29 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il tavolo, le sedie, la finestra» ripete Ben. «Perfetto!",
+                "text": "Il tavolo, le sedie, la finestra",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "ripete Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perfetto!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -343,7 +377,29 @@
               },
               {
                 "type": "text",
-                "text": "La cucina è piccola» dice. «Ma la casa è grande!",
+                "text": "La cucina è piccola",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ma la casa è grande!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -653,7 +709,13 @@
       ],
       "words": [
         [
-          "s01e03-1-032:0-8"
+          "s01e03-1-032:0-4"
+        ],
+        [
+          "s01e03-1-032:5-6"
+        ],
+        [
+          "s01e03-1-032:7-8"
         ],
         [
           "s01e03-1-033:0-3",
@@ -669,7 +731,29 @@
             "content": [
               {
                 "type": "text",
-                "text": "È un cittadino del mondo» dice Ben. «Come me!",
+                "text": "È un cittadino del mondo",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come me!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1769,7 +1853,13 @@
           "s01e03-1-075:0-5"
         ],
         [
-          "s01e03-1-076:0-2"
+          "s01e03-1-076:0-0"
+        ],
+        [
+          "s01e03-1-076:1-1"
+        ],
+        [
+          "s01e03-1-076:2-2"
         ]
       ],
       "request": {
@@ -1791,7 +1881,29 @@
               },
               {
                 "type": "text",
-                "text": "Forse» dice. «Perfetto.",
+                "text": "Forse",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "chiara",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perfetto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1896,7 +2008,13 @@
           "s01e03-2-005:0-3"
         ],
         [
-          "s01e03-2-006:0-10"
+          "s01e03-2-006:0-4"
+        ],
+        [
+          "s01e03-2-006:5-5"
+        ],
+        [
+          "s01e03-2-006:6-10"
         ],
         [
           "s01e03-2-007:0-7",
@@ -1922,7 +2040,29 @@
               },
               {
                 "type": "text",
-                "text": "Questa è la camera grande» dice. «Ed è la mia camera.",
+                "text": "Questa è la camera grande",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "emma",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ed è la mia camera.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2132,7 +2272,13 @@
           "s01e03-2-018:0-9"
         ],
         [
-          "s01e03-2-019:0-12"
+          "s01e03-2-019:0-5"
+        ],
+        [
+          "s01e03-2-019:6-7"
+        ],
+        [
+          "s01e03-2-019:8-12"
         ]
       ],
       "request": {
@@ -2154,7 +2300,29 @@
               },
               {
                 "type": "text",
-                "text": "Va bene, la finestra è bella» dice Emma. «Ma la camera è mia.",
+                "text": "Va bene, la finestra è bella",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "emma",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Emma.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ma la camera è mia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3330,7 +3498,13 @@
           "s01e03-3-009:0-5"
         ],
         [
-          "s01e03-3-010:0-7"
+          "s01e03-3-010:0-2"
+        ],
+        [
+          "s01e03-3-010:3-4"
+        ],
+        [
+          "s01e03-3-010:5-7"
         ]
       ],
       "request": {
@@ -3352,7 +3526,29 @@
               },
               {
                 "type": "text",
-                "text": "Ah! Il gatto!» dice Ben. «Come si chiama?",
+                "text": "Ah! Il gatto!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come si chiama?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3390,17 +3586,97 @@
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
-        "ben": "ben"
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e03-3-011",
+        "s01e03-3-011"
+      ],
+      "words": [
+        [
+          "s01e03-3-011:0-0"
+        ],
+        [
+          "s01e03-3-011:1-2"
+        ],
+        [
+          "s01e03-3-011:3-6"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pavarotti",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ornella",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ornella.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "È un ospite importante.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ornella",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ornella",
+                "voice": "Gacrux"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 41,
+      "scene": 3,
+      "speakers": {
+        "ben": "ben",
+        "ornella": "ornella"
+      },
+      "segment_ids": [
         "s01e03-3-012",
         "s01e03-3-013"
       ],
       "words": [
-        [
-          "s01e03-3-011:0-6"
-        ],
         [
           "s01e03-3-012:0-5"
         ],
@@ -3414,17 +3690,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Pavarotti» dice Ornella. «È un ospite importante.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ornella",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "Un ospite? Ma è un gatto!",
@@ -3459,12 +3724,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ornella",
-                "voice": "Gacrux"
-              },
-              {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "ornella",
+                "voice": "Gacrux"
               }
             ]
           }
@@ -3472,7 +3737,7 @@
       }
     },
     {
-      "index": 41,
+      "index": 42,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -3558,7 +3823,7 @@
       }
     },
     {
-      "index": 42,
+      "index": 43,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -3659,7 +3924,7 @@
       }
     },
     {
-      "index": 43,
+      "index": 44,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -3730,7 +3995,7 @@
       }
     },
     {
-      "index": 44,
+      "index": 45,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -3801,7 +4066,7 @@
       }
     },
     {
-      "index": 45,
+      "index": 46,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -3872,7 +4137,7 @@
       }
     },
     {
-      "index": 46,
+      "index": 47,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -3973,7 +4238,7 @@
       }
     },
     {
-      "index": 47,
+      "index": 48,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4044,7 +4309,7 @@
       }
     },
     {
-      "index": 48,
+      "index": 49,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -4134,22 +4399,24 @@
       }
     },
     {
-      "index": 49,
+      "index": 50,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
-        "ben": "ben"
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e03-3-038",
-        "s01e03-3-039"
+        "s01e03-3-038"
       ],
       "words": [
         [
-          "s01e03-3-038:0-11"
+          "s01e03-3-038:0-5"
         ],
         [
-          "s01e03-3-039:0-12"
+          "s01e03-3-038:6-7"
+        ],
+        [
+          "s01e03-3-038:8-11"
         ]
       ],
       "request": {
@@ -4160,7 +4427,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La casa è nuova per voi» dice Ornella. «Anche per il gatto.",
+                "text": "La casa è nuova per voi",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4171,67 +4438,7 @@
               },
               {
                 "type": "text",
-                "text": "La cucina è piccola» dice Ben. «E il salotto è pieno di scatole.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ornella",
-                "voice": "Gacrux"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 50,
-      "scene": 3,
-      "speakers": {
-        "narrator": "narrator",
-        "ornella": "ornella"
-      },
-      "segment_ids": [
-        "s01e03-3-040",
-        "s01e03-3-041"
-      ],
-      "words": [
-        [
-          "s01e03-3-040:0-4"
-        ],
-        [
-          "s01e03-3-041:0-11"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ornella cammina piano nel salotto.",
+                "text": "dice Ornella.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4242,7 +4449,7 @@
               },
               {
                 "type": "text",
-                "text": "Ai miei tempi, in questa casa vive una famiglia con cinque bambini.",
+                "text": "Anche per il gatto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4263,12 +4470,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "narrator",
-                "voice": "Sulafat"
-              },
-              {
                 "speaker": "ornella",
                 "voice": "Gacrux"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
               }
             ]
           }
@@ -4280,9 +4487,109 @@
       "scene": 3,
       "speakers": {
         "ben": "ben",
-        "ornella": "ornella"
+        "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e03-3-039",
+        "s01e03-3-040"
+      ],
+      "words": [
+        [
+          "s01e03-3-039:0-3"
+        ],
+        [
+          "s01e03-3-039:4-5"
+        ],
+        [
+          "s01e03-3-039:6-12"
+        ],
+        [
+          "s01e03-3-040:0-4"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "La cucina è piccola",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "E il salotto è pieno di scatole.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ornella cammina piano nel salotto.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 52,
+      "scene": 3,
+      "speakers": {
+        "ornella": "ornella",
+        "ben": "ben"
+      },
+      "segment_ids": [
+        "s01e03-3-041",
         "s01e03-3-042",
         "s01e03-3-043",
         "s01e03-3-044",
@@ -4291,6 +4598,9 @@
         "s01e03-3-047"
       ],
       "words": [
+        [
+          "s01e03-3-041:0-11"
+        ],
         [
           "s01e03-3-042:0-1"
         ],
@@ -4316,6 +4626,17 @@
           {
             "type": "user_input",
             "content": [
+              {
+                "type": "text",
+                "text": "Ai miei tempi, in questa casa vive una famiglia con cinque bambini.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ornella",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
               {
                 "type": "text",
                 "text": "Cinque bambini?",
@@ -4394,12 +4715,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
                 "speaker": "ornella",
                 "voice": "Gacrux"
+              },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
               }
             ]
           }
@@ -4407,7 +4728,7 @@
       }
     },
     {
-      "index": 52,
+      "index": 53,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4495,7 +4816,7 @@
       }
     },
     {
-      "index": 53,
+      "index": 54,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -4566,7 +4887,7 @@
       }
     },
     {
-      "index": 54,
+      "index": 55,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -4652,7 +4973,7 @@
       }
     },
     {
-      "index": 55,
+      "index": 56,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4667,7 +4988,13 @@
           "s01e03-3-057:0-3"
         ],
         [
-          "s01e03-3-058:0-10"
+          "s01e03-3-058:0-6"
+        ],
+        [
+          "s01e03-3-058:7-7"
+        ],
+        [
+          "s01e03-3-058:8-10"
         ]
       ],
       "request": {
@@ -4689,7 +5016,29 @@
               },
               {
                 "type": "text",
-                "text": "Il gatto resta qui fino a sera» dice. «Grazie, Signor Carter.",
+                "text": "Il gatto resta qui fino a sera",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ornella",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Grazie, Signor Carter.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4723,22 +5072,24 @@
       }
     },
     {
-      "index": 56,
+      "index": 57,
       "scene": 3,
       "speakers": {
         "ben": "ben",
-        "ornella": "ornella"
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e03-3-059",
-        "s01e03-3-060"
+        "s01e03-3-059"
       ],
       "words": [
         [
-          "s01e03-3-059:0-14"
+          "s01e03-3-059:0-4"
         ],
         [
-          "s01e03-3-060:0-4"
+          "s01e03-3-059:5-6"
+        ],
+        [
+          "s01e03-3-059:7-14"
         ]
       ],
       "request": {
@@ -4749,7 +5100,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Grazie a Lei, Signora Galli» dice Ben. «E… come si dice cat-sitter in italiano?",
+                "text": "Grazie a Lei, Signora Galli",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4760,12 +5111,23 @@
               },
               {
                 "type": "text",
-                "text": "Si dice: una persona gentile.",
+                "text": "dice Ben.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "ornella",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, dry"
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "E… come si dice cat-sitter in italiano?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
               }
@@ -4785,8 +5147,8 @@
                 "voice": "Puck"
               },
               {
-                "speaker": "ornella",
-                "voice": "Gacrux"
+                "speaker": "narrator",
+                "voice": "Sulafat"
               }
             ]
           }
@@ -4794,26 +5156,26 @@
       }
     },
     {
-      "index": 57,
+      "index": 58,
       "scene": 3,
       "speakers": {
-        "narrator": "narrator",
-        "leo": "leo"
+        "ornella": "ornella",
+        "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e03-3-060",
         "s01e03-3-061",
         "s01e03-3-062",
-        "s01e03-3-063",
-        "s01e03-3-064"
+        "s01e03-3-063"
       ],
       "words": [
+        [
+          "s01e03-3-060:0-4"
+        ],
         [
           "s01e03-3-061:0-5",
           "s01e03-3-062:0-6",
           "s01e03-3-063:0-4"
-        ],
-        [
-          "s01e03-3-064:0-5"
         ]
       ],
       "request": {
@@ -4824,22 +5186,22 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ornella esce e chiude la porta. Leo è sul divano con il gatto. Il gatto dorme. Leo sorride.",
+                "text": "Si dice: una persona gentile.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "speaker": "ornella",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, dry"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "Pavarotti è il mio ospite preferito",
+                "text": "Ornella esce e chiude la porta. Leo è sul divano con il gatto. Il gatto dorme. Leo sorride.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "leo",
+                    "speaker": "narrator",
                     "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
@@ -4856,12 +5218,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "narrator",
-                "voice": "Sulafat"
+                "speaker": "ornella",
+                "voice": "Gacrux"
               },
               {
-                "speaker": "leo",
-                "voice": "Laomedeia"
+                "speaker": "narrator",
+                "voice": "Sulafat"
               }
             ]
           }
@@ -4869,18 +5231,22 @@
       }
     },
     {
-      "index": 58,
+      "index": 59,
       "scene": 3,
       "speakers": {
-        "ben": "ben",
-        "leo": "leo"
+        "leo": "leo",
+        "ben": "ben"
       },
       "segment_ids": [
+        "s01e03-3-064",
         "s01e03-3-065",
         "s01e03-3-066",
         "s01e03-3-067"
       ],
       "words": [
+        [
+          "s01e03-3-064:0-5"
+        ],
         [
           "s01e03-3-065:0-9"
         ],
@@ -4897,6 +5263,17 @@
           {
             "type": "user_input",
             "content": [
+              {
+                "type": "text",
+                "text": "Pavarotti è il mio ospite preferito",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "leo",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
               {
                 "type": "text",
                 "text": "Il gatto è un ospite. Tu sei il mio bambino.",
@@ -4942,12 +5319,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
                 "speaker": "leo",
                 "voice": "Laomedeia"
+              },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
               }
             ]
           }
@@ -4955,7 +5332,7 @@
       }
     },
     {
-      "index": 59,
+      "index": 60,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -5032,7 +5409,7 @@
       }
     },
     {
-      "index": 60,
+      "index": 61,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -5163,7 +5540,7 @@
       }
     },
     {
-      "index": 61,
+      "index": 62,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -5234,7 +5611,7 @@
       }
     },
     {
-      "index": 62,
+      "index": 63,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -5350,7 +5727,7 @@
       }
     },
     {
-      "index": 63,
+      "index": 64,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -5421,7 +5798,7 @@
       }
     },
     {
-      "index": 64,
+      "index": 65,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -5522,7 +5899,7 @@
       }
     },
     {
-      "index": 65,
+      "index": 66,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -5595,7 +5972,7 @@
       }
     },
     {
-      "index": 66,
+      "index": 67,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -5666,7 +6043,7 @@
       }
     },
     {
-      "index": 67,
+      "index": 68,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -5737,7 +6114,7 @@
       }
     },
     {
-      "index": 68,
+      "index": 69,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -5823,7 +6200,7 @@
       }
     },
     {
-      "index": 69,
+      "index": 70,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -5924,7 +6301,7 @@
       }
     },
     {
-      "index": 70,
+      "index": 71,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -5995,7 +6372,7 @@
       }
     },
     {
-      "index": 71,
+      "index": 72,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -6081,7 +6458,7 @@
       }
     },
     {
-      "index": 72,
+      "index": 73,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6169,7 +6546,7 @@
       }
     },
     {
-      "index": 73,
+      "index": 74,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -6255,7 +6632,7 @@
       }
     },
     {
-      "index": 74,
+      "index": 75,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6326,7 +6703,7 @@
       }
     },
     {
-      "index": 75,
+      "index": 76,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -6397,7 +6774,7 @@
       }
     },
     {
-      "index": 76,
+      "index": 77,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6472,7 +6849,7 @@
       }
     },
     {
-      "index": 77,
+      "index": 78,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -6573,7 +6950,7 @@
       }
     },
     {
-      "index": 78,
+      "index": 79,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6648,7 +7025,7 @@
       }
     },
     {
-      "index": 79,
+      "index": 80,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -6721,7 +7098,7 @@
       }
     },
     {
-      "index": 80,
+      "index": 81,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -6792,7 +7169,7 @@
       }
     },
     {
-      "index": 81,
+      "index": 82,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6871,7 +7248,7 @@
       }
     },
     {
-      "index": 82,
+      "index": 83,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -6957,7 +7334,7 @@
       }
     },
     {
-      "index": 83,
+      "index": 84,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7028,7 +7405,7 @@
       }
     },
     {
-      "index": 84,
+      "index": 85,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -7053,7 +7430,13 @@
           "s01e03-5-006:0-3"
         ],
         [
-          "s01e03-5-007:0-5"
+          "s01e03-5-007:0-0"
+        ],
+        [
+          "s01e03-5-007:1-2"
+        ],
+        [
+          "s01e03-5-007:3-5"
         ]
       ],
       "request": {
@@ -7075,7 +7458,29 @@
               },
               {
                 "type": "text",
-                "text": "Buonasera» dice Franco. «Pomodori. Per Leo.",
+                "text": "Buonasera",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Franco.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Pomodori. Per Leo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7109,7 +7514,7 @@
       }
     },
     {
-      "index": 85,
+      "index": 86,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -7180,7 +7585,7 @@
       }
     },
     {
-      "index": 86,
+      "index": 87,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -7251,7 +7656,7 @@
       }
     },
     {
-      "index": 87,
+      "index": 88,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -7337,7 +7742,7 @@
       }
     },
     {
-      "index": 88,
+      "index": 89,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -7453,7 +7858,7 @@
       }
     },
     {
-      "index": 89,
+      "index": 90,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -7530,7 +7935,7 @@
       }
     },
     {
-      "index": 90,
+      "index": 91,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -7616,7 +8021,7 @@
       }
     },
     {
-      "index": 91,
+      "index": 92,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -7689,7 +8094,7 @@
       }
     },
     {
-      "index": 92,
+      "index": 93,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -7760,7 +8165,7 @@
       }
     },
     {
-      "index": 93,
+      "index": 94,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -7777,7 +8182,13 @@
           "s01e03-5-033:0-7"
         ],
         [
-          "s01e03-5-034:0-6"
+          "s01e03-5-034:0-3"
+        ],
+        [
+          "s01e03-5-034:4-5"
+        ],
+        [
+          "s01e03-5-034:6-6"
         ],
         [
           "s01e03-5-035:0-3",
@@ -7803,7 +8214,29 @@
               },
               {
                 "type": "text",
-                "text": "Il gatto sul divano» dice piano. «Mah.",
+                "text": "Il gatto sul divano",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice piano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Mah.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7848,7 +8281,7 @@
       }
     },
     {
-      "index": 94,
+      "index": 95,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -7979,7 +8412,7 @@
       }
     },
     {
-      "index": 95,
+      "index": 96,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -8050,26 +8483,24 @@
       }
     },
     {
-      "index": 96,
+      "index": 97,
       "scene": 5,
       "speakers": {
         "franco": "franco",
-        "chiara": "chiara"
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e03-5-045",
-        "s01e03-5-046",
-        "s01e03-5-047"
+        "s01e03-5-045"
       ],
       "words": [
         [
-          "s01e03-5-045:0-11"
+          "s01e03-5-045:0-5"
         ],
         [
-          "s01e03-5-046:0-10"
+          "s01e03-5-045:6-7"
         ],
         [
-          "s01e03-5-047:0-0"
+          "s01e03-5-045:8-11"
         ]
       ],
       "request": {
@@ -8080,7 +8511,29 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il caffè è una cosa seria» dice Franco. «Non una cosa americana.",
+                "text": "Il caffè è una cosa seria",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Franco.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Non una cosa americana.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8088,10 +8541,83 @@
                     "style": "speaking slowly and very clearly, standard Italian pronunciation, dry"
                   }
                 ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "franco",
+                "voice": "Algenib"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 98,
+      "scene": 5,
+      "speakers": {
+        "chiara": "chiara",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s01e03-5-046"
+      ],
+      "words": [
+        [
+          "s01e03-5-046:0-5"
+        ],
+        [
+          "s01e03-5-046:6-7"
+        ],
+        [
+          "s01e03-5-046:8-10"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "L'americano fa il caffè con l'acqua",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "chiara",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
               },
               {
                 "type": "text",
-                "text": "L'americano fa il caffè con l'acqua» dice Chiara. «Come il tè.",
+                "text": "dice Chiara.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come il tè.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8099,7 +8625,58 @@
                     "style": "speaking slowly and very clearly, standard Italian pronunciation, amused"
                   }
                 ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "chiara",
+                "voice": "Kore"
               },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 99,
+      "scene": 5,
+      "speakers": {
+        "franco": "franco",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s01e03-5-047",
+        "s01e03-5-048",
+        "s01e03-5-049"
+      ],
+      "words": [
+        [
+          "s01e03-5-047:0-0"
+        ],
+        [
+          "s01e03-5-048:0-5",
+          "s01e03-5-049:0-2"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
               {
                 "type": "text",
                 "text": "Mah",
@@ -8107,6 +8684,17 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ben mette le tazze sul tavolo. Poi guarda Franco.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
                     "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
@@ -8127,8 +8715,8 @@
                 "voice": "Algenib"
               },
               {
-                "speaker": "chiara",
-                "voice": "Kore"
+                "speaker": "narrator",
+                "voice": "Sulafat"
               }
             ]
           }
@@ -8136,24 +8724,22 @@
       }
     },
     {
-      "index": 97,
+      "index": 100,
       "scene": 5,
       "speakers": {
-        "narrator": "narrator",
-        "ben": "ben"
+        "ben": "ben",
+        "franco": "franco"
       },
       "segment_ids": [
-        "s01e03-5-048",
-        "s01e03-5-049",
-        "s01e03-5-050"
+        "s01e03-5-050",
+        "s01e03-5-051"
       ],
       "words": [
         [
-          "s01e03-5-048:0-5",
-          "s01e03-5-049:0-2"
+          "s01e03-5-050:0-8"
         ],
         [
-          "s01e03-5-050:0-8"
+          "s01e03-5-051:0-3"
         ]
       ],
       "request": {
@@ -8164,7 +8750,77 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben mette le tazze sul tavolo. Poi guarda Franco.",
+                "text": "La cucina è piccola, ma il tavolo è nuovo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Il tavolo è nuovo",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "franco",
+                "voice": "Algenib"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 101,
+      "scene": 5,
+      "speakers": {
+        "narrator": "narrator",
+        "franco": "franco"
+      },
+      "segment_ids": [
+        "s01e03-5-051"
+      ],
+      "words": [
+        [
+          "s01e03-5-051:4-5"
+        ],
+        [
+          "s01e03-5-051:6-12"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "dice Franco.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8175,12 +8831,12 @@
               },
               {
                 "type": "text",
-                "text": "La cucina è piccola, ma il tavolo è nuovo.",
+                "text": "Il muro è vecchio. E il giardino?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
               }
@@ -8200,8 +8856,8 @@
                 "voice": "Sulafat"
               },
               {
-                "speaker": "ben",
-                "voice": "Puck"
+                "speaker": "franco",
+                "voice": "Algenib"
               }
             ]
           }
@@ -8209,22 +8865,22 @@
       }
     },
     {
-      "index": 98,
+      "index": 102,
       "scene": 5,
       "speakers": {
-        "franco": "franco",
-        "ben": "ben"
+        "ben": "ben",
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e03-5-051",
-        "s01e03-5-052"
+        "s01e03-5-052",
+        "s01e03-5-053"
       ],
       "words": [
         [
-          "s01e03-5-051:0-12"
+          "s01e03-5-052:0-12"
         ],
         [
-          "s01e03-5-052:0-12"
+          "s01e03-5-053:0-5"
         ]
       ],
       "request": {
@@ -8235,22 +8891,22 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il tavolo è nuovo» dice Franco. «Il muro è vecchio. E il giardino?",
+                "text": "Il giardino è grande. E il gatto dorme sul tavolo piccolo nel giardino.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "franco",
+                    "speaker": "ben",
                     "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "Il giardino è grande. E il gatto dorme sul tavolo piccolo nel giardino.",
+                "text": "Franco guarda il giardino dalla finestra.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "ben",
+                    "speaker": "narrator",
                     "style": "speaking slowly and very clearly, standard Italian pronunciation"
                   }
                 ]
@@ -8267,12 +8923,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
               }
             ]
           }
@@ -8280,24 +8936,26 @@
       }
     },
     {
-      "index": 99,
+      "index": 103,
       "scene": 5,
       "speakers": {
-        "narrator": "narrator",
-        "franco": "franco"
+        "franco": "franco",
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e03-5-053",
         "s01e03-5-054",
         "s01e03-5-055",
         "s01e03-5-056"
       ],
       "words": [
         [
-          "s01e03-5-053:0-5"
+          "s01e03-5-054:0-3"
         ],
         [
-          "s01e03-5-054:0-7"
+          "s01e03-5-054:4-4"
+        ],
+        [
+          "s01e03-5-054:5-7"
         ],
         [
           "s01e03-5-055:0-4",
@@ -8312,7 +8970,18 @@
             "content": [
               {
                 "type": "text",
-                "text": "Franco guarda il giardino dalla finestra.",
+                "text": "Il gatto dorme dappertutto",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8323,7 +8992,7 @@
               },
               {
                 "type": "text",
-                "text": "Il gatto dorme dappertutto» dice. «Come i bambini.",
+                "text": "Come i bambini.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8355,12 +9024,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "narrator",
-                "voice": "Sulafat"
-              },
-              {
                 "speaker": "franco",
                 "voice": "Algenib"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Sulafat"
               }
             ]
           }
@@ -8368,7 +9037,7 @@
       }
     },
     {
-      "index": 100,
+      "index": 104,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -8439,7 +9108,7 @@
       }
     },
     {
-      "index": 101,
+      "index": 105,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -8451,7 +9120,13 @@
       ],
       "words": [
         [
-          "s01e03-5-059:0-11"
+          "s01e03-5-059:0-6"
+        ],
+        [
+          "s01e03-5-059:7-8"
+        ],
+        [
+          "s01e03-5-059:9-11"
         ],
         [
           "s01e03-5-060:0-4"
@@ -8465,7 +9140,29 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ma i pomodori sono cosa di famiglia» dice Ben. «Come il caffè!",
+                "text": "Ma i pomodori sono cosa di famiglia",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come il caffè!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8510,7 +9207,7 @@
       }
     },
     {
-      "index": 102,
+      "index": 106,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -8583,7 +9280,7 @@
       }
     },
     {
-      "index": 103,
+      "index": 107,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -8714,7 +9411,7 @@
       }
     },
     {
-      "index": 104,
+      "index": 108,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -8742,7 +9439,13 @@
           "s01e03-6-007:0-6"
         ],
         [
-          "s01e03-6-008:0-11"
+          "s01e03-6-008:0-0"
+        ],
+        [
+          "s01e03-6-008:1-2"
+        ],
+        [
+          "s01e03-6-008:3-11"
         ],
         [
           "s01e03-6-009:0-5"
@@ -8767,7 +9470,29 @@
               },
               {
                 "type": "text",
-                "text": "Leo!» chiama Ben. «Perché c'è un post-it sulla macchina del caffè?",
+                "text": "Leo!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "chiama Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Perché c'è un post-it sulla macchina del caffè?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8812,7 +9537,7 @@
       }
     },
     {
-      "index": 105,
+      "index": 109,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -8928,7 +9653,7 @@
       }
     },
     {
-      "index": 106,
+      "index": 110,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -8999,7 +9724,7 @@
       }
     },
     {
-      "index": 107,
+      "index": 111,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -9085,7 +9810,7 @@
       }
     },
     {
-      "index": 108,
+      "index": 112,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -9104,7 +9829,13 @@
           "s01e03-6-022:0-5"
         ],
         [
-          "s01e03-6-023:0-5"
+          "s01e03-6-023:0-0"
+        ],
+        [
+          "s01e03-6-023:1-2"
+        ],
+        [
+          "s01e03-6-023:3-5"
         ]
       ],
       "request": {
@@ -9126,7 +9857,29 @@
               },
               {
                 "type": "text",
-                "text": "Perfetto!» dice Ben. «Come a Chicago!",
+                "text": "Perfetto!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Come a Chicago!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9160,7 +9913,7 @@
       }
     },
     {
-      "index": 109,
+      "index": 113,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -9246,7 +9999,7 @@
       }
     },
     {
-      "index": 110,
+      "index": 114,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -9323,7 +10076,7 @@
       }
     },
     {
-      "index": 111,
+      "index": 115,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -9439,7 +10192,7 @@
       }
     },
     {
-      "index": 112,
+      "index": 116,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -9460,7 +10213,13 @@
           "s01e03-6-039:0-13"
         ],
         [
-          "s01e03-6-040:0-8"
+          "s01e03-6-040:0-2"
+        ],
+        [
+          "s01e03-6-040:3-4"
+        ],
+        [
+          "s01e03-6-040:5-8"
         ]
       ],
       "request": {
@@ -9493,7 +10252,29 @@
               },
               {
                 "type": "text",
-                "text": "Non lo tolgo» dice Ben. «È una cosa grande.",
+                "text": "Non lo tolgo",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Ben.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "È una cosa grande.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9527,7 +10308,7 @@
       }
     },
     {
-      "index": 113,
+      "index": 117,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -9598,7 +10379,7 @@
       }
     },
     {
-      "index": 114,
+      "index": 118,
       "scene": 6,
       "speakers": {
         "single": "narrator"

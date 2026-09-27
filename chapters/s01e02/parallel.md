@@ -267,7 +267,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco lo guarda come si guarda un tram in ritardo. | Franco looks at him the way you look at a late tram. |
 | «Bah!» dice Franco. «Andiamo.» | "Bah!" says Franco. "Let's go." |
 | Leo guarda i due e non dice niente. | Leo watches the two of them and says nothing. |
-| _Capisco io. Lui dice «l'**americano**», e non è il **caffè**._ | _I understand. He says 'the **American**', and it's not the **coffee**._ |
+| _Capisco io. Lui dice “l'**americano**”, e non è il **caffè**._ | _I understand. He says 'the **American**', and it's not the **coffee**._ |
 | _Ma una **parola** è solo una **parola**._ | _But a **word** is only a **word**._ |
 | _Papà è felice. Il nonno no. Va bene così._ | _Dad is happy. Grandpa isn't. It's fine like that._ |
 | Franco prende il sacchetto del **pane**. | Franco picks up the bag of **bread**. |

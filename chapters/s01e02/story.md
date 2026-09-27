@@ -264,7 +264,7 @@ Franco non capisce niente. «Il **caffè** americano?» dice Franco.
 
 Franco lo guarda come si guarda un tram in ritardo. «Bah!» dice Franco. «Andiamo.»
 
-Leo guarda i due e non dice niente. _Capisco io. Lui dice «l'**americano**», e non è il **caffè**._ _Ma una **parola** è solo una **parola**._ _Papà è felice. Il nonno no. Va bene così._
+Leo guarda i due e non dice niente. _Capisco io. Lui dice “l'**americano**”, e non è il **caffè**._ _Ma una **parola** è solo una **parola**._ _Papà è felice. Il nonno no. Va bene così._
 
 Franco prende il sacchetto del **pane**. «**Pranzo** alle dodici e mezza» dice, senza guardare Ben.
 

@@ -422,7 +422,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Crepi il lupo.» | “Thanks.” |
 | Emma sale sul **treno** e scompare. | Emma gets on the **train** and disappears. |
 | Chiara sale sull'altro vagone. | Chiara gets on the other carriage. |
-| _Mia figlia mi dice «in bocca al lupo»._ | _My daughter says “good luck” to me._ |
+| _Mia figlia mi dice “in bocca al lupo”._ | _My daughter says “good luck” to me._ |
 | _Forse non sono solo **una** mamma nuova._ | _Maybe I'm not just **a** new mum._ |
 | _Forse sono **una** mamma._ | _Maybe I'm **a** mum._ |
 | Chiara **guarda** fuori dal finestrino. | Chiara **looks** out of the window. |
