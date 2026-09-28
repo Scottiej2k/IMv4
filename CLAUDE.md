@@ -72,6 +72,7 @@ hand-off in `docs/app-spec.md`. `python3 scripts/export_app.py` writes the conte
 Accounts and payment (owner, 2026-09-28; `docs/app-spec.md` §5): Clerk sign-in (email + Google); a Stripe
 subscription, monthly or yearly, no trial, access until the end of the paid period after cancelling; free = the
 first episode of each level (S1E1, S2E1, S4E1, S6E1). Code goes in GitHub, Replit pulls and runs it.
+Database: PostgreSQL, schema in `app/server/schema.sql`.
 Privacy and contact pages: `app/privacy.html`, `app/contact.html` (form → `app/server/contact.js` → email).
 Everything left before launch: `docs/launch-checklist.md`.
 

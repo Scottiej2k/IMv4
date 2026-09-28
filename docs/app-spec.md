@@ -126,9 +126,12 @@ The fields work like this:
 - **% read:** `far + 1` over the chapter's `segments` (from the catalog). A sentence counts once it has scrolled past the middle of the screen or has been heard.
 - **Words met:** the `vocab_through` of the furthest chapter the learner has opened. Show it against the course goal (6,000, a high B2).
 
-Suggested tables (PostgreSQL):
+Tables (PostgreSQL: Replit's built-in SQL database, not the older key-value "Replit DB"). The
+schema is written and tested: `app/server/schema.sql`. It also holds `add_time()`, which applies §3's
+cap on each time batch, `has_full_course()`, and the `user_totals` view (totals are summed from
+the chapters, so they can't drift). The tables:
 - `users`
-- `subscriptions`
+- `subscriptions` (plus `stripe_events`, so a repeated webhook is applied once)
 - `chapter_progress` (user, chapter → the per-chapter fields)
 - `daily_time` (user, date, read, listen)
 - `known_words` (user, vocab id)

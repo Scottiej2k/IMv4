@@ -38,6 +38,8 @@ Plan: code in GitHub, Replit pulls and runs it (docs/app-spec.md).
       each level (S1E1, S2E1, S4E1, S6E1). docs/app-spec.md §5.
 - [x] Privacy policy and contact pages drafted: `app/privacy.html`, `app/contact.html`, with the
       contact form's server code in `app/server/contact.js`.
+- [x] Database schema: `app/server/schema.sql` (PostgreSQL; tested: time caps, access check,
+      account deletion). Run it once on Replit's database.
 - [ ] Build the app: server, database, Clerk sign-in, Stripe Checkout + Customer Portal + webhooks,
       server-side locking, signed R2 audio links, contact route.
 - [ ] Test end to end on Replit in Stripe test mode: subscribe, switch plan, cancel, failed renewal.
@@ -50,7 +52,7 @@ Plan: code in GitHub, Replit pulls and runs it (docs/app-spec.md).
 ## 4. Accounts and services to set up (owner)
 
 - [ ] Domain name, connected to the Replit deployment.
-- [ ] Replit paid deployment and PostgreSQL (include in monthly costs).
+- [ ] Replit paid deployment and its PostgreSQL database, not the key-value "Replit DB" (include in monthly costs).
 - [ ] Clerk: account and app; for launch, your own Google sign-in credentials (Google Cloud) and
       the verified domain (Clerk's shared Google login is for testing only).
 - [ ] Stripe: account, business and bank details, product "Full course" with a monthly and a
