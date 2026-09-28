@@ -34,10 +34,10 @@ lexicon (`curriculum/lexicon.csv`).
   were introduced in an earlier chapter, are in this chapter's vocabulary list, or are on the level's
   "free" list (transparent cognates, numbers, names of places).
   Target **98%** at A1–A2.
-- **New focus items per chapter:** A1 22–30 · A2 20–28 · B1 18–26 · B2 15–21, sized so the course
-  teaches about 4,300 words by the end of B2 (cumulative about 650 after A1, 1,850 after A2, 2,950
-  after B1). B2 is commonly put at about 4,000 words known (estimates run 3,500–5,000); words
-  picked up from reading come on top. An item already taught in an earlier chapter is never a
+- **New focus items per chapter:** A1 22–30 · A2 24–32 · B1 28–36 · B2 27–35, sized so the course
+  teaches about 6,000 words by the end, a high B2 ("B2+"; owner, 2026-09-28): cumulative about 650
+  after A1, 2,050 after A2, 3,650 after B1. B2 is commonly put at about 4,000 words known, so 6,000
+  is well past it; words picked up from reading come on top. An item already taught in an earlier chapter is never a
   focus item again (the outline step sends it back).
 - **Recycling:** each focus item appears **at least 3 times** in its own chapter and comes back in at
   least 2 later chapters (tracked in the lexicon).

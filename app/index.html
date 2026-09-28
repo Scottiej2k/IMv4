@@ -61,23 +61,22 @@ h1, h2, h3 { text-wrap: balance; }
 section.band { padding-block: 56px; border-top: 1px solid var(--line); }
 section.band h2 { font-family: var(--display); font-weight: 400; font-size: clamp(26px, 3.4vw, 36px); line-height: 1.15; margin: 8px 0 12px; }
 section.band .intro-copy { max-width: 64ch; color: var(--muted); font-size: 16.5px; margin: 0 0 28px; }
-.figures { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; margin-bottom: 32px; }
-.figure b { display: block; font-family: var(--display); font-weight: 400; font-size: 34px; line-height: 1.1; color: var(--accent); }
-.figure span { font-size: 13.5px; color: var(--muted); }
-.compare { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--surface); }
-.compare .row { display: grid; grid-template-columns: minmax(120px, .7fr) minmax(0, 1fr) minmax(0, 1fr); gap: 16px; padding: 14px 20px; border-top: 1px solid var(--line); }
+.compare { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--surface); max-width: 820px; }
+.compare .row { display: grid; grid-template-columns: minmax(0, 1fr) 120px 120px; gap: 12px; align-items: center; padding: 12px 20px; border-top: 1px solid var(--line); }
 .compare .row:first-child { border-top: 0; background: var(--bg); font-size: 12px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
-.compare .row > :first-child { font-weight: 600; }
-.compare .row > :last-child { color: var(--ink); }
-.compare .row > :nth-child(2) { color: var(--muted); }
+.compare .row > :nth-child(n+2) { justify-self: center; text-align: center; }
 .compare .row:first-child > :last-child { color: var(--accent); }
-.cast { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
-.person { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
-.person b { font-family: var(--display); font-weight: 400; font-size: 19px; }
-.person .age { color: var(--muted); font-size: 13px; margin-left: 6px; }
-.person p { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
-.feats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px 28px; }
-.feat h3 { font-size: 16px; margin: 0 0 4px; }
+.compare .row > :last-child { background: none; }
+.mark { width: 26px; height: 26px; border-radius: 50%; display: inline-grid; place-items: center; }
+.mark svg { width: 15px; height: 15px; fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.mark.yes { background: var(--accent); }
+.mark.yes svg { stroke: var(--accent-ink); }
+.mark.no { background: var(--line); }
+.mark.no svg { stroke: var(--muted); }
+.feats { list-style: none; margin: 0; padding: 0; counter-reset: feat; max-width: 820px; border-top: 1px solid var(--line); }
+.feat { counter-increment: feat; display: grid; grid-template-columns: 48px minmax(160px, 220px) minmax(0, 1fr); gap: 4px 16px; align-items: baseline; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.feat::before { content: counter(feat); font-family: var(--display); font-size: 24px; color: var(--accent); }
+.feat h3 { font-size: 16px; margin: 0; }
 .feat p { margin: 0; color: var(--muted); font-size: 14.5px; }
 .path { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--surface); }
 .step { padding: 16px 18px; border-left: 1px solid var(--line); }
@@ -201,8 +200,7 @@ tr.known td.lemma { color: var(--accent); }
 
 @media (max-width: 860px) {
   .hero { grid-template-columns: 1fr; gap: 32px; padding-block: 36px 44px; }
-  .figures, .sum { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .cast, .feats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .sum { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .path { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .step:nth-child(3) { border-left: 0; }
   .step:nth-child(n+3) { border-top: 1px solid var(--line); }
@@ -211,11 +209,11 @@ tr.known td.lemma { color: var(--accent); }
   .wrap { padding-inline: 16px; }
   .nav .btn.ghost { display: none; }
   .nav { gap: 6px 12px; }
-  .cast, .feats, .plans { grid-template-columns: 1fr; }
-  .compare .row { grid-template-columns: 1fr; gap: 4px; }
-  .compare .row:first-child { display: none; }
-  .compare .row > :nth-child(2)::before { content: "Phrase apps: "; font-weight: 600; }
-  .compare .row > :nth-child(3)::before { content: "Input Masters: "; font-weight: 600; color: var(--accent); }
+  .plans { grid-template-columns: 1fr; }
+  .feat { grid-template-columns: 36px minmax(0, 1fr); }
+  .feat p { grid-column: 2; }
+  .compare .row { grid-template-columns: minmax(0, 1fr) 64px 64px; padding: 10px 14px; font-size: 14px; }
+  .compare .row:first-child { font-size: 10.5px; letter-spacing: .03em; }
   .ep-row { grid-template-columns: 32px minmax(0, 1fr); }
   .ep-row .meta { grid-column: 2; justify-items: start; min-width: 0; }
   .story { font-size: 17px; padding: 24px 18px 36px; }
@@ -238,7 +236,7 @@ tr.known td.lemma { color: var(--accent); }
   <div class="wrap">
     <section class="hero">
       <div>
-        <div class="eyebrow">Italian through story · A1 to B2</div>
+        <div class="eyebrow">Italian through story · A1 to B2+</div>
         <h1>Learn Italian the way you'd binge a sitcom.</h1>
         <p class="lede">200 episodes of one story, written for learners. Read along, listen to a full cast of voices, and follow the same neighbours from your first <i>buongiorno</i> to fluent conversation.</p>
         <div class="cta"><button class="btn" data-go="start">Start for free</button><span class="fine">The first 3 episodes are free. No card needed.</span></div>
@@ -256,21 +254,18 @@ tr.known td.lemma { color: var(--accent); }
 
   <section class="band"><div class="wrap">
     <div class="eyebrow">The method</div>
-    <h2>You learn a language by understanding a lot of it.</h2>
-    <p class="intro-copy">That's the idea behind comprehensible input: take in large amounts of real language that you can mostly follow, pitched just above your level, and your brain does the rest. Each episode uses the Italian you already know plus a few dozen new words, so you follow the story while it stretches you a little. You spend your time reading and listening to Italian, not tapping through exercises.</p>
-    <div class="figures">
-      <div class="figure"><b class="num">2,600+</b><span>Italian words in one beginner episode, rising to about 6,500 at B2</span></div>
-      <div class="figure"><b class="num">~28 min</b><span>of audio per beginner episode, voiced by a full cast</span></div>
-      <div class="figure"><b class="num">1 million</b><span>words of Italian across the whole course, all in context</span></div>
-      <div class="figure"><b class="num">4,300</b><span>words taught by the end of B2, each one met again and again</span></div>
-    </div>
-    <div class="compare" role="table" aria-label="Phrase apps compared with Input Masters">
-      <div class="row" role="row"><span></span><span>Typical phrase app</span><span>Input Masters</span></div>
-      <div class="row" role="row"><span>What you read</span><span>Short, unconnected sentences</span><span>A complete episode with a beginning, a middle and a cliffhanger</span></div>
-      <div class="row" role="row"><span>Time in Italian</span><span>A few seconds at a time, between taps, animations and loading screens</span><span>30 to 45 minutes of uninterrupted reading and listening</span></div>
-      <div class="row" role="row"><span>New words</span><span>Drilled on their own until they stick</span><span>Met in the story, then again in later episodes, in new situations</span></div>
-      <div class="row" role="row"><span>Grammar</span><span>Rules and fill-in-the-blank</span><span>A short lesson, then you see it working all through the episode</span></div>
-      <div class="row" role="row"><span>Why you come back</span><span>A streak counter</span><span>You want to know what happens next</span></div>
+    <h2>Stop drilling phrases. Start understanding Italian.</h2>
+    <p class="intro-copy">Fluency comes from understanding lots of real Italian, pitched just above your level. It's called comprehensible input, and it's how you learned your first language. Every episode gives you half an hour of story you can follow, with a few new words at a time.</p>
+    <div class="compare" role="table" aria-label="What you get with Input Masters compared with a typical phrase app">
+      <div class="row" role="row"><span role="columnheader"></span><span role="columnheader">Phrase apps</span><span role="columnheader">Input Masters</span></div>
+      <div class="row" role="row"><span role="cell">Complete stories with characters you follow</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">30 to 45 minutes of Italian without interruptions</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">New words met again and again, in context</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">Grammar you see working in the story</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">Full-cast audio that underlines each word as it's spoken</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">Every sentence side by side with English</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">About 6,000 words by the end, to a high B2</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
+      <div class="row" role="row"><span role="cell">A reason to come back besides a streak</span><span role="cell"><span class="mark no" aria-label="No"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 4.5l7 7M11.5 4.5l-7 7"/></svg></span></span><span role="cell"><span class="mark yes" aria-label="Yes"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7"/></svg></span></span></div>
     </div>
   </div></section>
 
@@ -278,31 +273,29 @@ tr.known td.lemma { color: var(--accent); }
     <div class="eyebrow">The show</div>
     <h2>Episodes, not exercises.</h2>
     <p class="intro-copy"><i>Via dei Tigli</i> is a street in Borgoverde, a small town north of Milan. The Carters have just moved there from Ohio, next door to a neighbour who sees everything and down the street from a grandfather who won't admit he's lonely. Like any good sitcom, it runs in seasons: 8 seasons of 25 episodes, with running jokes, secrets and a cast you get to know. You come back for the characters, and the Italian comes with them.</p>
-    <div class="cast" id="cast"></div>
   </div></section>
 
   <section class="band"><div class="wrap">
     <div class="eyebrow">In every episode</div>
     <h2>Everything you need, around one story.</h2>
-    <div class="feats">
-      <div class="feat"><h3>Read-along audio</h3><p>A narrator and a voice for every character. Words underline as they're spoken. Play from any sentence and set your own speed.</p></div>
-      <div class="feat"><h3>Side by side</h3><p>Italian and English, sentence by sentence, when you want to check. One tap shows a single translation in the story.</p></div>
-      <div class="feat"><h3>Vocabulary</h3><p>The episode's new words, each with its sentence from the story. Mark what you know, or take the list into Anki.</p></div>
-      <div class="feat"><h3>A short grammar lesson</h3><p>One point per episode, explained in plain English with examples quoted from the story you just read.</p></div>
-      <div class="feat"><h3>A short introduction</h3><p>What the episode is about, and one moment to look out for, so you always know where you are.</p></div>
-      <div class="feat"><h3>Your progress</h3><p>Time spent reading and listening, per episode and overall, and how many words you've met so far.</p></div>
-    </div>
+    <ol class="feats">
+      <li class="feat"><h3>Vocabulary</h3><p>The episode's new words, each with its sentence from the story. Download the list as an Anki deck for every episode.</p></li>
+      <li class="feat"><h3>Grammar lesson</h3><p>One point per episode, explained in plain English with examples from the story.</p></li>
+      <li class="feat"><h3>Italian story</h3><p>The episode itself, with full-cast audio that underlines each word as it's spoken. Play from any sentence, at your own speed.</p></li>
+      <li class="feat"><h3>Side by side text</h3><p>Italian and English, sentence by sentence, whenever you want to check.</p></li>
+      <li class="feat"><h3>Progress tracking</h3><p>Your reading and listening time for every episode, and how many words you've met.</p></li>
+    </ol>
   </div></section>
 
   <section class="band"><div class="wrap">
     <div class="eyebrow">The path</div>
-    <h2>From your first words to B2.</h2>
+    <h2>From your first words to a high B2.</h2>
     <p class="intro-copy">The Italian grows with you. Early episodes use short sentences in the present tense; later ones sound like Italians talking.</p>
     <div class="path">
       <div class="step"><div class="lv">A1</div><p><b>25 episodes</b> · Beginner</p><p>About 650 words by the end</p></div>
-      <div class="step"><div class="lv">A2</div><p><b>50 episodes</b> · Elementary</p><p>About 1,850 words</p></div>
-      <div class="step"><div class="lv">B1</div><p><b>50 episodes</b> · Intermediate</p><p>About 2,950 words</p></div>
-      <div class="step"><div class="lv">B2</div><p><b>75 episodes</b> · Upper intermediate</p><p>About 4,300 words</p></div>
+      <div class="step"><div class="lv">A2</div><p><b>50 episodes</b> · Elementary</p><p>About 2,050 words</p></div>
+      <div class="step"><div class="lv">B1</div><p><b>50 episodes</b> · Intermediate</p><p>About 3,650 words</p></div>
+      <div class="step"><div class="lv">B2+</div><p><b>75 episodes</b> · Upper intermediate</p><p>About 6,000 words</p></div>
     </div>
   </div></section>
 
@@ -311,7 +304,7 @@ tr.known td.lemma { color: var(--accent); }
     <h2>Start with three episodes, free.</h2>
     <div class="plans">
       <div class="plan"><h3>Free</h3><ul><li>Episodes 1 to 3</li><li>Every feature: audio, side by side, vocabulary, grammar</li><li>No card needed</li></ul><button class="btn ghost" data-go="start">Start for free</button></div>
-      <div class="plan main"><h3>Full course</h3><ul><li>All 200 episodes, A1 to B2</li><li>New episodes as they're released</li><li>Your progress carries over</li></ul><p class="price">Price coming soon.</p><button class="btn" data-go="unlock">Unlock all episodes</button></div>
+      <div class="plan main"><h3>Full course</h3><ul><li>All 200 episodes, A1 to B2+</li><li>New episodes as they're released</li><li>Your progress carries over</li></ul><p class="price">Price coming soon.</p><button class="btn" data-go="unlock">Unlock all episodes</button></div>
     </div>
   </div></section>
 
@@ -345,17 +338,6 @@ tr.known td.lemma { color: var(--accent); }
   const TABS = [["vocab", "Vocabulary"], ["grammar", "Grammar"], ["story", "Story"], ["parallel", "Side by side"]];
   const LEVEL_NAMES = { A1: "Beginner", A2: "Elementary", B1: "Intermediate", B2: "Upper intermediate" };
   const IDLE_MS = 2 * 60 * 1000;   // reading pauses after 2 minutes without a click, tap, scroll or key
-  const CAST = [
-    ["Kevin", 41, "An American dad from Columbus who quit his job to move to Italy. Enthusiastic, and his Italian is a work in progress."],
-    ["Chiara", 40, "Kevin's wife, an architect who grew up on this street. Caught between two countries and a Milan commute."],
-    ["Emma", 15, "Their daughter. Her Italian is good but \"American\", and she is desperate to sound native."],
-    ["Leo", 8, "Their son. Zero self-consciousness; he makes friends with the baker, the cat and everyone else."],
-    ["Franco", 71, "Chiara's father, a retired tram driver. Grows tomatoes, zucchini and opinions."],
-    ["Ornella", 78, "The neighbour at number 16. She knew Chiara as a child and sees everything from her window."],
-    ["Matteo", 36, "Chiara's younger brother. Runs Bar Tigli, a dreamer with a coffee machine."],
-    ["Nadia", 34, "The local pharmacist and Matteo's partner of six years. Franco asks about a wedding every Sunday."],
-    ["Roberto", 50, "President of the street's residents' committee, keeper of the rules and a perfect hedge."],
-  ];
 
   // ---------------------------------------------------------------- progress
   // Everything the learner does, in one object. The prototype keeps it in this browser; in the full
@@ -447,7 +429,7 @@ tr.known td.lemma { color: var(--accent); }
     $("libhead").innerHTML = cont + `<div class="sum">
       <div class="stat"><small>Reading</small><b>${hm(p.total.read)}</b><div class="sub">all episodes</div></div>
       <div class="stat"><small>Listening</small><b>${hm(p.total.listen)}</b><div class="sub">all episodes</div></div>
-      <div class="stat"><small>Words you've met</small><b class="num">${met.n.toLocaleString()}</b><div class="sub">of ${goal.toLocaleString()} by the end of B2${known ? ` · ${known} marked known` : ""}</div><div class="meter"><span style="width:${Math.min(100, 100 * met.n / goal)}%"></span></div></div>
+      <div class="stat"><small>Words you've met</small><b class="num">${met.n.toLocaleString()}</b><div class="sub">of ${goal.toLocaleString()} by the end of the course${known ? ` · ${known} marked known` : ""}</div><div class="meter"><span style="width:${Math.min(100, 100 * met.n / goal)}%"></span></div></div>
       <div class="stat"><small>This week</small><b>${hm(week)}</b><div class="sub">reading and listening</div></div></div>`;
     const byLevel = {};
     for (const c of CAT.chapters) (byLevel[c.level] ||= []).push(c);
@@ -713,7 +695,7 @@ tr.known td.lemma { color: var(--accent); }
   function showUnlock() {
     $("modal").innerHTML = `<div class="modal" id="m-bg"><div class="box" role="dialog" aria-modal="true" aria-labelledby="m-h">
       <h2 id="m-h">Unlock all episodes</h2>
-      <p>The full course: all 200 episodes of <i>Via dei Tigli</i>, A1 to B2, with audio, vocabulary and grammar. Your progress carries over.</p>
+      <p>The full course: all 200 episodes of <i>Via dei Tigli</i>, A1 to B2+, with audio, vocabulary and grammar. Your progress carries over.</p>
       <p class="proto">Prototype: payment arrives with the full app. You can simulate an unlocked account to try the full library.</p>
       <div class="row"><button class="btn" id="m-sim">${P().unlocked ? "Lock again (simulate free)" : "Simulate unlock"}</button><button class="btn ghost" id="m-close">Close</button></div></div></div>`;
   }
@@ -743,7 +725,6 @@ tr.known td.lemma { color: var(--accent); }
   addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 
   // ---------------------------------------------------------------- start
-  $("cast").innerHTML = CAST.map(([n, a, d]) => `<div class="person"><b>${n}</b><span class="age">${a}</span><p>${esc(d)}</p></div>`).join("");
   (async () => {
     try { CAT = await (await fetch("content/catalog.json")).json(); }
     catch { $("v-landing").hidden = false; return; }

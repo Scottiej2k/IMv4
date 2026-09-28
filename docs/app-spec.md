@@ -122,7 +122,7 @@ the same object moves to the database.
 
 The fields work like this:
 - **% read:** `far + 1` over the chapter's `segments` (from the catalog). A sentence counts once it has scrolled past the middle of the screen or has been heard.
-- **Words met:** the `vocab_through` of the furthest chapter the learner has opened. Show it against the B2 goal (4,300).
+- **Words met:** the `vocab_through` of the furthest chapter the learner has opened. Show it against the course goal (6,000, a high B2).
 
 Suggested tables (PostgreSQL):
 - `users`

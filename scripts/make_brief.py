@@ -23,11 +23,11 @@ LEVEL_RULES = {
     "A1": {"words": (2700, 3200), "vocab": (22, 30), "sentence": "at most about 8 words per line on average",
            "grammar": "Present tense only. No past, future, conditional or subjunctive (vorrei only as a fixed "
                       "phrase). Very high-frequency words; lots of natural repetition."},
-    "A2": {"words": (3600, 4200), "vocab": (20, 28), "sentence": "at most about 12 words per line on average",
+    "A2": {"words": (3600, 4200), "vocab": (24, 32), "sentence": "at most about 12 words per line on average",
            "grammar": "Only the structures in the grammar ceiling below. Simple, clear sentences."},
-    "B1": {"words": (4800, 5500), "vocab": (18, 26), "sentence": "about 16 words per line on average at most",
+    "B1": {"words": (4800, 5500), "vocab": (28, 36), "sentence": "about 16 words per line on average at most",
            "grammar": "Only the structures in the grammar ceiling below. Natural, varied sentences."},
-    "B2": {"words": (6000, 7000), "vocab": (15, 21), "sentence": "free, but keep lines readable",
+    "B2": {"words": (6000, 7000), "vocab": (27, 35), "sentence": "free, but keep lines readable",
            "grammar": "The full language up to the grammar ceiling; rich, natural, varied register."},
 }
 

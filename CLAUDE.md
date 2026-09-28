@@ -100,8 +100,8 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   The characters' A1 pace is now the A2 one, "a little slower than normal, clearly" (owner: full
   slow was hard to listen to; learners have the player's speed control).
 - Dialogue target is 45–60% for the book format (owner, 2026-09-26).
-- Vocabulary per chapter: A1 22–30 · A2 20–28 · B1 18–26 · B2 15–21, about 4,300 words by the end
-  of B2 (B2 is commonly put at ~4,000 known). The outline is sent back if it re-teaches a word from
+- Vocabulary per chapter: A1 22–30 · A2 24–32 · B1 28–36 · B2 27–35, about 6,000 words by the end,
+  a high B2 ("B2+"; owner, 2026-09-28). The outline is sent back if it re-teaches a word from
   an earlier chapter; `update_logs.py` prints the running total against the milestones.
 - Reader: learner tabs only (Vocabulary, Grammar, Story, Side by side), speed control, and an Anki
   CSV download in Vocabulary (the page declares the `downloads` capability; .apkg isn't allowed).
