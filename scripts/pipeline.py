@@ -436,7 +436,8 @@ a book.
 - End with a hook: tease one specific fun, surprising or dramatic moment that really happens in the
   story below (an object, a line, a mix-up), so the reader wants to find it. Point to it without
   giving away how it turns out, and never reveal the ending.
-- Only what the story says. No grammar or vocabulary talk, no headings, no Italian except names
+- Only what the story says, and true to the whole story: a running joke is not a literal fact (if a
+  character "knows only three phrases" but talks all chapter, don't claim he knows only three). No grammar or vocabulary talk, no headings, no Italian except names
   (and at most one short Italian word or phrase in quotation marks, if it is the hook itself).
 
 Return the paragraph only.
