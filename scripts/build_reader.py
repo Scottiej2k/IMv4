@@ -99,7 +99,7 @@ def main():
                 audio = folder / "audio"
                 if (audio / "timing.json").exists() and (audio / "chapter.mp3").exists():
                     t = json.loads((audio / "timing.json").read_text(encoding="utf-8"))
-                    data["timing"] = {k: t[k] for k in ("duration", "voices", "segments", "words")}
+                    data["timing"] = {k: t.get(k) for k in ("duration", "intro", "voices", "segments", "words")}
                     shutil.copyfile(audio / "chapter.mp3", OUT / "data" / f"{cid}.mp3")
                     row["audio"] = True
                 (OUT / "data" / f"{cid}.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")),

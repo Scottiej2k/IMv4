@@ -36,6 +36,8 @@ import book_format as bf  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 RATE = 24000                     # Gemini and the stand-in both return 24 kHz, 16-bit mono PCM
 GAP, GAP_SPEAKER, GAP_SCENE = 0.30, 0.45, 1.3   # seconds of silence between clips
+GAP_INTRO = 1.8                   # after the English introduction, before the story
+INTRO_STYLE = "reading in English, warm and clear, at a natural pace"
 VOICES = json.loads((ROOT / "config" / "voices.json").read_text(encoding="utf-8"))["voices"]
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/interactions"
 OPENROUTER_URL = "https://www.openrouter.ai/api/v1/chat/completions"
@@ -233,9 +235,31 @@ def main():
     with ThreadPoolExecutor(max_workers=args.jobs) as pool:
         list(pool.map(make, todo))
 
+    # The learner's introduction (intro.md), read in English by the narrator before the story
+    # (owner, 2026-09-28). Its clip is named apart so the story clips' cache still matches.
+    intro_text = (folder / "intro.md").read_text(encoding="utf-8").strip() if (folder / "intro.md").exists() else ""
+    intro_path = None
+    if intro_text:
+        voice = VOICES["narrator"]["voice"] if args.engine == "gemini" else STANDIN_VOICES["narrator"]
+        h = hashlib.sha1(f"{args.engine}|{tts['model']}|intro|{voice}|{INTRO_STYLE}|{intro_text}".encode()).hexdigest()[:12]
+        intro_path = clips_dir / f"intro-{h}.pcm"
+        if not intro_path.exists():
+            pcm = (gemini_clip(tts["model"], voice, intro_text, INTRO_STYLE) if args.engine == "gemini"
+                   else standin_clip("narrator", intro_text, INTRO_STYLE))
+            intro_path.write_bytes(pcm)
+
     # Join the clips (voiced part only, with our own gaps) and time every word.
     info = word_info(chapter)
     pcm_out, t, words, clips, prev = [], 0.0, {}, [], None
+    intro_span = None
+    if intro_path:
+        raw = intro_path.read_bytes()
+        a, b = voiced_bounds(raw)
+        body = raw[int(a * RATE) * 2: int(b * RATE) * 2]
+        dur = len(body) / 2 / RATE
+        intro_span = [0.0, round(dur, 3)]
+        pcm_out += [body, b"\0\0" * int(GAP_INTRO * RATE)]
+        t = dur + GAP_INTRO
     for n, item in enumerate(items):
         scene, sp, _, _, ids = item
         raw = clip_path(n, item).read_bytes()
@@ -267,7 +291,7 @@ def main():
     (folder / "audio" / "chapter.mp3").write_bytes(mp3)
     timing = {"chapter": args.chapter, "audio": "chapter.mp3", "engine": args.engine,
               "voices": "stand-in (OpenRouter gpt-audio-mini)" if args.engine == "standin" else tts["model"],
-              "duration": round(t, 3), "clips": clips, "segments": segments, "words": words}
+              "duration": round(t, 3), "intro": intro_span, "clips": clips, "segments": segments, "words": words}
     (folder / "audio" / "timing.json").write_text(json.dumps(timing, ensure_ascii=False, separators=(",", ":")),
                                                   encoding="utf-8")
     shown = sum(1 for sc in chapter["scenes"] for p in sc["paragraphs"] for s in p["segments"]

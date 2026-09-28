@@ -40,6 +40,8 @@ Chapter text:
   - `tokens` is `[[text, word index or -1, flags]]`, where flags are `b` (bold) and `i` (italic). Word `k` of segment `s` has the id `s.k`.
 - **`timing.words`:** `{ "<seg>.<k>": [start, end] }` in seconds.
 - **`timing.segments`:** `{ "<seg>": [start, end] }`.
+- The audio opens with the introduction read in English; the Italian starts after it (the first word's start time).
+- The audio opens with the introduction read in English; the Italian starts after it (the first word's start time).
 - These timings drive the read-along underline and "Play from here" (details in docs/read-along.md).
 
 Size at 200 chapters: roughly 2 GB of audio (later chapters are longer) and about 50 MB of JSON. Serve both from object storage

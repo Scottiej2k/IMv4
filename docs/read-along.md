@@ -28,13 +28,15 @@ WhisperX), and because we give it the exact words, it doesn't have to recognise 
 
 - One clip per TTS chunk (raw 24 kHz PCM, `audio/l16`), and the joined chapter audio
   (`chapter.mp3` or similar), with 1.5 s of silence between scenes.
-- `timing.json`, on the joined audio's clock:
+- `timing.json`, on the joined audio's clock. `intro` is the English introduction the narrator reads
+  first (null if the chapter has none); the story's words start after it:
 
 ```json
 {
   "chapter": "s01e01",
   "audio": "chapter.mp3",
   "duration": 1834.2,
+  "intro": [0.0, 33.9],
   "clips": [{"chunk": 0, "scene": 1, "start": 0.0, "end": 12.35}],
   "segments": {"s01e01-1-001": [0.00, 3.12]},
   "words": {"s01e01-1-001.0": [0.00, 0.21], "s01e01-1-001.1": [0.21, 0.58]}

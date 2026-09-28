@@ -295,10 +295,10 @@
       "lemma": "rispondere",
       "pos": "verb",
       "en": "to reply, to answer",
-      "example": "s05e03-6-066",
+      "example": "s05e03-1-022",
       "target": {
-        "it": "rispondo",
-        "en": "reply"
+        "it": "risposto",
+        "en": "replied"
       }
     },
     {
@@ -3095,12 +3095,12 @@
           "segments": [
             {
               "id": "s05e03-1-021",
-              "it": "_**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risposto**._",
-              "en": "_**They want** me to **accept** by next Friday. And I still haven't **replied**._",
+              "it": "_**Vogliono che** io **accetti** entro febbraio. E non ho ancora **risposto**._",
+              "en": "_**They want** me to **accept** by February. And I still haven't **replied**._",
               "voice": [
                 [
                   "ben",
-                  "**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risposto**.",
+                  "**Vogliono che** io **accetti** entro febbraio. E non ho ancora **risposto**.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -3156,18 +3156,8 @@
                   "i"
                 ],
                 [
-                  "venerdì",
+                  "febbraio",
                   5,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "prossimo",
-                  6,
                   "i"
                 ],
                 [
@@ -3177,7 +3167,7 @@
                 ],
                 [
                   "E",
-                  7,
+                  6,
                   "i"
                 ],
                 [
@@ -3187,7 +3177,7 @@
                 ],
                 [
                   "non",
-                  8,
+                  7,
                   "i"
                 ],
                 [
@@ -3197,7 +3187,7 @@
                 ],
                 [
                   "ho",
-                  9,
+                  8,
                   "i"
                 ],
                 [
@@ -3207,7 +3197,7 @@
                 ],
                 [
                   "ancora",
-                  10,
+                  9,
                   "i"
                 ],
                 [
@@ -3217,7 +3207,7 @@
                 ],
                 [
                   "risposto",
-                  11,
+                  10,
                   "bi"
                 ],
                 [
@@ -8002,29 +7992,19 @@
           "segments": [
             {
               "id": "s05e03-1-060",
-              "it": "_Venerdì prossimo. Sette giorni. Un'**offerta** così non arriva due volte nella vita._",
-              "en": "_Next Friday. Seven days. An **offer** like this doesn't come twice in a lifetime._",
+              "it": "_Febbraio. Cinque mesi. Un'**offerta** così non arriva due volte nella vita._",
+              "en": "_February. Five months. An **offer** like this doesn't come twice in a lifetime._",
               "voice": [
                 [
                   "ben",
-                  "Venerdì prossimo. Sette giorni. Un'**offerta** così non arriva due volte nella vita.",
+                  "Febbraio. Cinque mesi. Un'**offerta** così non arriva due volte nella vita.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "Venerdì",
+                  "Febbraio",
                   0,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "prossimo",
-                  1,
                   "i"
                 ],
                 [
@@ -8033,8 +8013,8 @@
                   "i"
                 ],
                 [
-                  "Sette",
-                  2,
+                  "Cinque",
+                  1,
                   "i"
                 ],
                 [
@@ -8043,8 +8023,8 @@
                   "i"
                 ],
                 [
-                  "giorni",
-                  3,
+                  "mesi",
+                  2,
                   "i"
                 ],
                 [
@@ -8054,7 +8034,7 @@
                 ],
                 [
                   "Un",
-                  4,
+                  3,
                   "i"
                 ],
                 [
@@ -8064,7 +8044,7 @@
                 ],
                 [
                   "offerta",
-                  5,
+                  4,
                   "bi"
                 ],
                 [
@@ -8074,7 +8054,7 @@
                 ],
                 [
                   "così",
-                  6,
+                  5,
                   "i"
                 ],
                 [
@@ -8084,7 +8064,7 @@
                 ],
                 [
                   "non",
-                  7,
+                  6,
                   "i"
                 ],
                 [
@@ -8094,7 +8074,7 @@
                 ],
                 [
                   "arriva",
-                  8,
+                  7,
                   "i"
                 ],
                 [
@@ -8104,7 +8084,7 @@
                 ],
                 [
                   "due",
-                  9,
+                  8,
                   "i"
                 ],
                 [
@@ -8114,7 +8094,7 @@
                 ],
                 [
                   "volte",
-                  10,
+                  9,
                   "i"
                 ],
                 [
@@ -8124,7 +8104,7 @@
                 ],
                 [
                   "nella",
-                  11,
+                  10,
                   "i"
                 ],
                 [
@@ -8134,7 +8114,7 @@
                 ],
                 [
                   "vita",
-                  12,
+                  11,
                   "i"
                 ],
                 [
@@ -9613,12 +9593,12 @@
           "segments": [
             {
               "id": "s05e03-1-074",
-              "it": "«Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.»",
-              "en": "“We await your news by Friday. Best regards, Dave.”",
+              "it": "«Aspettiamo tue notizie entro febbraio. Un caro saluto, Dave.»",
+              "en": "“We await your news by February. Best regards, Dave.”",
               "voice": [
                 [
                   "ben",
-                  "Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.",
+                  "Aspettiamo tue notizie entro febbraio. Un caro saluto, Dave.",
                   "quiet"
                 ]
               ],
@@ -9669,7 +9649,7 @@
                   ""
                 ],
                 [
-                  "venerdì",
+                  "febbraio",
                   4,
                   ""
                 ],
@@ -12792,12 +12772,12 @@
           "segments": [
             {
               "id": "s05e03-2-023",
-              "it": "«E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.»",
-              "en": "“And the **move** would be in March. They want the answer by next Friday.”",
+              "it": "«E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro febbraio.»",
+              "en": "“And the **move** would be in March. They want the answer by February.”",
               "voice": [
                 [
                   "ben",
-                  "E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.",
+                  "E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro febbraio.",
                   ""
                 ]
               ],
@@ -12908,18 +12888,8 @@
                   ""
                 ],
                 [
-                  "venerdì",
+                  "febbraio",
                   10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prossimo",
-                  11,
                   ""
                 ],
                 [
@@ -30079,8 +30049,8 @@
           "segments": [
             {
               "id": "s05e03-3-090",
-              "it": "«E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a venerdì prossimo.»",
-              "en": "“And so I'll be waiting for you at the counter every morning.” “**At least** until next Friday.”",
+              "it": "«E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a febbraio.»",
+              "en": "“And so I'll be waiting for you at the counter every morning.” “**At least** until February.”",
               "voice": [
                 [
                   "nadia",
@@ -30089,7 +30059,7 @@
                 ],
                 [
                   "nadia",
-                  "**Almeno** fino a venerdì prossimo.",
+                  "**Almeno** fino a febbraio.",
                   ""
                 ]
               ],
@@ -30220,18 +30190,8 @@
                   ""
                 ],
                 [
-                  "venerdì",
+                  "febbraio",
                   12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prossimo",
-                  13,
                   ""
                 ],
                 [
@@ -57650,12 +57610,12 @@
             },
             {
               "id": "s05e03-6-065",
-              "it": "Dave, ho bisogno di una settimana.",
-              "en": "Dave, I need a week.",
+              "it": "Dave, ho bisogno di tempo.",
+              "en": "Dave, I need time.",
               "voice": [
                 [
                   "narrator",
-                  "Dave, ho bisogno di una settimana.",
+                  "Dave, ho bisogno di tempo.",
                   ""
                 ]
               ],
@@ -57701,18 +57661,8 @@
                   ""
                 ],
                 [
-                  "una",
+                  "tempo",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "settimana",
-                  5,
                   ""
                 ],
                 [
@@ -57724,12 +57674,12 @@
             },
             {
               "id": "s05e03-6-066",
-              "it": "Ti **rispondo** venerdì con una **decisione** chiara.",
-              "en": "I'll **reply** on Friday with a clear **decision**.",
+              "it": "Ti **rispondo** entro febbraio con una **decisione** chiara.",
+              "en": "I'll **reply** by February with a clear **decision**.",
               "voice": [
                 [
                   "narrator",
-                  "Ti **rispondo** venerdì con una **decisione** chiara.",
+                  "Ti **rispondo** entro febbraio con una **decisione** chiara.",
                   ""
                 ]
               ],
@@ -57755,7 +57705,7 @@
                   ""
                 ],
                 [
-                  "venerdì",
+                  "entro",
                   2,
                   ""
                 ],
@@ -57765,7 +57715,7 @@
                   ""
                 ],
                 [
-                  "con",
+                  "febbraio",
                   3,
                   ""
                 ],
@@ -57775,7 +57725,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "con",
                   4,
                   ""
                 ],
@@ -57785,8 +57735,18 @@
                   ""
                 ],
                 [
-                  "decisione",
+                  "una",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "decisione",
+                  6,
                   "b"
                 ],
                 [
@@ -57796,7 +57756,7 @@
                 ],
                 [
                   "chiara",
-                  6,
+                  7,
                   ""
                 ],
                 [
@@ -58046,12 +58006,12 @@
           "segments": [
             {
               "id": "s05e03-6-070",
-              "it": "_**Vogliono che** io **accetti** entro venerdì. Io non ho ancora **deciso** niente._",
-              "en": "_**They want** me to **accept** by Friday. I still haven't **decided** anything._",
+              "it": "_**Vogliono che** io **accetti** entro febbraio. Io non ho ancora **deciso** niente._",
+              "en": "_**They want** me to **accept** by February. I still haven't **decided** anything._",
               "voice": [
                 [
                   "ben",
-                  "**Vogliono che** io **accetti** entro venerdì. Io non ho ancora **deciso** niente.",
+                  "**Vogliono che** io **accetti** entro febbraio. Io non ho ancora **deciso** niente.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -58107,7 +58067,7 @@
                   "i"
                 ],
                 [
-                  "venerdì",
+                  "febbraio",
                   5,
                   "i"
                 ],
