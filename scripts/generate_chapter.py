@@ -177,6 +177,8 @@ def main():
     ap.add_argument("--force", action="store_true", help="discard any earlier run of this chapter")
     ap.add_argument("--continuity-only", action="store_true",
                     help="only write the continuity entry (for a chapter fixed by hand and rebuilt)")
+    ap.add_argument("--intro-only", action="store_true",
+                    help="only write the learner's English introduction (intro.md)")
     ap.add_argument("--ask-factor", type=float, help="scene word ask as a multiple of its budget "
                     "(default 1.3, or per model from ASK_FACTORS)")
     args = ap.parse_args()
@@ -184,6 +186,8 @@ def main():
     pipe = Pipeline(args.chapter)
     if args.continuity_only:
         pipe.ask_continuity()
+    elif args.intro_only:
+        pipe.ask_intro()
     else:
         pipe.start(force=args.force)
     per_level = next((f for prefix, f in ASK_FACTORS.items() if args.model.startswith(prefix)), {})
@@ -212,7 +216,7 @@ def _loop(pipe, args, openrouter, client, messages):
     prompt = pipe.next_prompt()
     while prompt is not None:
         print(f"- {prompt.splitlines()[0][:70]}")
-        if pipe.state["step"] == "continuity":
+        if pipe.state["step"] in ("continuity", "intro"):
             messages = []  # the prompt carries the final story, so the long conversation isn't needed
         messages.append({"role": "user", "content": prompt})
         _spent["calls"] += 1
@@ -220,7 +224,7 @@ def _loop(pipe, args, openrouter, client, messages):
             # Outline, fixes and continuity entry are short, but DeepSeek has spent all 32k output
             # tokens thinking about an outline (S5E3) and a long fix list (S1E5), so their thinking
             # is capped.
-            cap = 12000 if pipe.state["step"] in ("outline", "fix", "continuity") else None
+            cap = 12000 if pipe.state["step"] in ("outline", "fix", "continuity", "intro") else None
             text, usage = call_openrouter(args.model, args.effort, pipe.system, messages, cap)
             messages.append({"role": "assistant", "content": text})
             _spent["cost"] += float(usage.get("cost") or 0)

@@ -81,6 +81,8 @@ h1 em { font-weight: 400; color: var(--muted); font-size: .6em; display: block; 
 .chap-h:first-child { margin-top: 0; }
 .story-title { font-family: var(--read); font-weight: 600; font-size: 28px; line-height: 1.2; text-align: center; margin: 0 0 30px; text-wrap: balance; }
 .story-title span { display: block; font-weight: 400; font-style: italic; font-size: 15px; color: var(--muted); margin-top: 4px; }
+.intro { font-family: var(--ui); font-size: 15px; line-height: 1.6; color: var(--ink); background: var(--accent-soft); border-radius: 8px; padding: 14px 18px; margin: 0 0 34px; text-indent: 0; }
+.intro b { display: block; font-size: 11.5px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
 .chap-h + p { text-indent: 0; }
 .story p { margin: 0; text-indent: 1.6em; }
 .story p + p { margin-top: .25em; }
@@ -271,7 +273,8 @@ td .ext { color: var(--muted); font-size: 13px; }
       return `<p class="fmtnote">This chapter was written in the old script format and is being rewritten as a book. Its other tabs still work.</p>`;
     }
     let html = "";
-    html += `<div class="${showEn ? "show-en" : ""}" id="story"><article class="story"><h2 class="story-title">${esc(c.title.it)}<span>${esc(c.title.en)}</span></h2>`;
+    html += `<div class="${showEn ? "show-en" : ""}" id="story"><article class="story"><h2 class="story-title">${esc(c.title.it)}<span>${esc(c.title.en)}</span></h2>` +
+      (data.intro ? `<div class="intro"><b>About this episode</b>${esc(data.intro)}</div>` : "");
     for (const sc of data.chapter.scenes) {
       html += `<h2 class="chap-h">${sceneTitle(sc)}</h2>`;
       for (const p of sc.paragraphs) {

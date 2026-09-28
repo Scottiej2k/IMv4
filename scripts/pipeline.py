@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Scene-by-scene chapter writing: outline → scenes → grammar lesson → one round of fixes → continuity entry.
+"""Scene-by-scene chapter writing: outline → scenes → grammar lesson → one round of fixes → continuity entry
+→ the learner's English introduction.
 
 The same state machine drives both ways of writing a chapter:
   * generate_chapter.py sends each prompt to the Claude API as one continuing conversation;
@@ -14,6 +15,8 @@ a scene under 75% of its budget is sent back once to be expanded, and after asse
 converter and grammar checker produce one targeted list of line fixes. A chapter that builds then
 gets its continuity-log entry (chapters/<id>/continuity.md), and update_logs.py rebuilds the lexicon
 and the log. After fixing a failed chapter by hand, `pipeline.py continuity <id>` asks for the entry.
+Last, a short English introduction for the learner (chapters/<id>/intro.md; `pipeline.py intro <id>`
+asks for just that).
 """
 import json
 import re
@@ -116,6 +119,8 @@ class Pipeline:
             p = self.fix_prompt()
         elif step == "continuity":
             p = self.continuity_prompt()
+        elif step == "intro":
+            p = self.intro_prompt()
         else:
             return None
         if st.get("retry"):
@@ -215,6 +220,8 @@ Return only the scene: the heading line exactly as above, then its lines in the 
             self.apply_fixes(answer)
         elif step == "continuity":
             self.take_continuity(answer)
+        elif step == "intro":
+            self.take_intro(answer)
         self.save()
 
     def take_outline(self, answer):
@@ -405,11 +412,54 @@ there is nothing.)
             print("  warning: continuity entry not in the expected shape; saved as is for review")
         (self.folder / "continuity.md").write_text((m.group(0) if m else answer).strip() + "\n", encoding="utf-8")
         subprocess.run([sys.executable, str(ROOT / "scripts" / "update_logs.py")], check=False)
+        self.state["step"] = "intro"
+
+    def ask_intro(self):
+        """Jump to the learner's introduction (for chapters written before it existed)."""
+        if not (self.folder / "story.md").exists():
+            raise SystemExit(f"{self.cid}: no story.md; build the chapter first (convert_draft.py {self.cid})")
+        if self.state is None:
+            self.start()
+        self.state.update(step="intro", retry="", intro_retry=False)
+        self.save()
+
+    def intro_prompt(self):
+        """Self-contained (it carries the final story), like the continuity prompt."""
+        story = (self.folder / "story.md").read_text(encoding="utf-8")
+        return f"""# The learner's introduction
+
+The chapter below is final. Write the short introduction a learner reads before starting it: one
+paragraph in **English**, 60–100 words, present tense, warm and lively, like the blurb on the back of
+a book.
+- Say what the episode is about: whose story it is, where, and what situation they are in, so a
+  beginner reading the Italian knows what to expect.
+- End with a hook: tease one specific fun, surprising or dramatic moment that really happens in the
+  story below (an object, a line, a mix-up), so the reader wants to find it. Point to it without
+  giving away how it turns out, and never reveal the ending.
+- Only what the story says. No grammar or vocabulary talk, no headings, no Italian except names
+  (and at most one short Italian word or phrase in quotation marks, if it is the hook itself).
+
+Return the paragraph only.
+
+---
+
+{story}"""
+
+    def take_intro(self, answer):
+        text = " ".join(answer.replace("**", "").split()).strip('"')
+        words = len(text.split())
+        if not 40 <= words <= 140 or text.startswith("#"):
+            if not self.state.get("intro_retry"):
+                self.state["intro_retry"] = True
+                self.state["retry"] = f"That introduction was {words} words; return one paragraph of 60–100 words and nothing else."
+                return
+            print(f"  warning: introduction is {words} words; saved as is for review")
+        (self.folder / "intro.md").write_text(text + "\n", encoding="utf-8")
         self.state["step"] = "done"
 
 
 def main(argv):
-    if len(argv) < 2 or argv[0] not in ("start", "submit", "status", "continuity"):
+    if len(argv) < 2 or argv[0] not in ("start", "submit", "status", "continuity", "intro"):
         print(__doc__)
         return 2
     cmd, cid = argv[0], argv[1]
@@ -421,6 +471,8 @@ def main(argv):
               f"python3 scripts/pipeline.py submit {cid}\n")
     elif cmd == "continuity":
         pipe.ask_continuity()
+    elif cmd == "intro":
+        pipe.ask_intro()
     elif cmd == "submit":
         pipe.submit((pipe.work / "answer.txt").read_text(encoding="utf-8"))
     elif cmd == "status":

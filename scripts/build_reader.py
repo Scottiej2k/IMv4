@@ -92,6 +92,7 @@ def main():
                 data = {"chapter": chapter,
                         "grammar": (folder / "grammar.md").read_text(encoding="utf-8") if (folder / "grammar.md").exists() else "",
                         "anki": (folder / "anki.csv").read_text(encoding="utf-8") if (folder / "anki.csv").exists() else "",
+                        "intro": (folder / "intro.md").read_text(encoding="utf-8").strip() if (folder / "intro.md").exists() else "",
                         "continuity": (folder / "continuity.md").read_text(encoding="utf-8") if (folder / "continuity.md").exists() else "",
                         "tts": compact_tts(json.loads((folder / "tts.json").read_text(encoding="utf-8")))
                         if (folder / "tts.json").exists() else None}

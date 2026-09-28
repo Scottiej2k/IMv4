@@ -41,6 +41,8 @@ expensive runs.
 6. If it built: a ~150-word continuity entry (`chapters/<id>/continuity.md`), then `update_logs.py`
    rebuilds `curriculum/lexicon.csv` and `bible/continuity-log.md` from all chapters in order.
    Briefs include only earlier chapters' entries.
+7. Then the learner's introduction (`chapters/<id>/intro.md`): one English paragraph, 60–100 words,
+   what the episode is about plus a hook teasing a real moment. `--intro-only` writes just that.
 
 Ways to run it:
 - **Batches (normal):** `python3 scripts/run_batch.py s01e02-s01e10 --jobs 5 --trailer "<commit
