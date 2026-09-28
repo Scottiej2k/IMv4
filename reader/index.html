@@ -67,7 +67,8 @@ h1 em { font-weight: 400; color: var(--muted); font-size: .6em; display: block; 
 .stats { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .stats b { color: var(--ink); font-weight: 600; }
 
-.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); margin-top: 18px; max-width: 1040px; overflow-x: auto; }
+.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); margin-top: 18px; max-width: 1040px; overflow-x: auto;
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 15; background: var(--bg); }
 .tab { background: none; border: 0; padding: 10px 14px; cursor: pointer; color: var(--muted); border-bottom: 2px solid transparent; margin-bottom: -1px; white-space: nowrap; font-weight: 500; }
 .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
 .tools { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; padding-block: 14px; font-size: 13px; color: var(--muted); max-width: 1040px; }
@@ -185,8 +186,8 @@ td .ext { color: var(--muted); font-size: 13px; }
 
 <script>
 (() => {
-  const TABS = [["story", "Story"], ["parallel", "Side by side"], ["vocab", "Vocabulary"],
-                ["grammar", "Grammar"], ["tts", "Audio script"], ["notes", "Plan & notes"]];
+  // What a learner sees. The audio script and the plan stay in the data but aren't shown (owner's call).
+  const TABS = [["vocab", "Vocabulary"], ["grammar", "Grammar"], ["story", "Story"], ["parallel", "Side by side"]];
   const $ = (id) => document.getElementById(id);
   const store = {
     get(k, d) { try { const v = localStorage.getItem("vdt-" + k); return v === null ? d : JSON.parse(v); } catch { return d; } },
@@ -194,6 +195,7 @@ td .ext { color: var(--muted); font-size: 13px; }
   };
   let INDEX = null, cur = null, data = null;
   let tab = store.get("tab", "story");
+  if (!TABS.some(([k]) => k === tab)) tab = "vocab";
   const cache = {};
 
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -342,16 +344,44 @@ td .ext { color: var(--muted); font-size: 13px; }
     renderTabs();
     if (!c.stats) {
       $("tools").innerHTML = "";
-      $("panel").innerHTML = `<p class="empty">This chapter hasn't been written yet. Its plan is below.</p>` + notes(c);
+      $("panel").innerHTML = `<p class="empty">This chapter hasn't been written yet.</p>`;
       $("tabs").hidden = true;
       return;
     }
     $("tabs").hidden = false;
     if (!data) { $("panel").innerHTML = '<p class="empty">Loading chapter…</p>'; return; }
-    const views = { story, parallel, vocab, grammar, tts, notes: () => notes(c) };
+    const views = { story, parallel, vocab, grammar };
     $("panel").innerHTML = views[tab]() + (tab === "story" || tab === "parallel" ? playerBar() : "");
     applyPlayed();
+    restorePlace();
   }
+
+  // Reading place: the first sentence visible under the tabs, kept per chapter, so Story and Side by
+  // side open at the same sentence and a learner can flip between them.
+  const tabsBottom = () => $("tabs").getBoundingClientRect().bottom;
+  function restorePlace() {
+    if (tab !== "story" && tab !== "parallel") {
+      if (scrollY > $("panel").offsetTop) window.scrollTo(0, $("head").offsetTop);
+      return;
+    }
+    const id = store.get("at-" + cur, null);
+    const el = id && document.querySelector(`#panel [data-seg="${id}"]`);
+    if (!el) return;
+    const tabsH = $("tabs").offsetHeight;
+    window.scrollTo(0, el.getBoundingClientRect().top + scrollY - tabsH - 12);
+  }
+  let placeQueued = false;
+  window.addEventListener("scroll", () => {
+    if (placeQueued || (tab !== "story" && tab !== "parallel")) return;
+    placeQueued = true;
+    requestAnimationFrame(() => {
+      placeQueued = false;
+      const top = tabsBottom() + 4;
+      for (const el of document.querySelectorAll("#panel [data-seg]")) {
+        if (el.getBoundingClientRect().bottom > top) { store.set("at-" + cur, el.dataset.seg); break; }
+      }
+    });
+  }, { passive: true });
 
   async function open(id) {
     if (!INDEX.chapters.some((c) => c.id === id)) id = (INDEX.chapters.find((c) => c.stats) || INDEX.chapters[0]).id;
@@ -368,8 +398,8 @@ td .ext { color: var(--muted); font-size: 13px; }
       $("panel").innerHTML = `<p class="empty">Couldn't load this chapter's data (data/${id}.json). Rebuild the reader with scripts/build_reader.py and republish.</p>`;
       return;
     }
-    if (cur === id) renderPanel();
     window.scrollTo(0, 0);
+    if (cur === id) renderPanel();
   }
 
 
@@ -527,8 +557,8 @@ td .ext { color: var(--muted); font-size: 13px; }
     const pos = real ? store.get("t-" + cur, 0) : store.get("pos-" + cur, 0);
     const resume = pos > 0 && !P.playing ? `<button data-act="resume">Resume where you left off</button>` : "";
     const msg = real
-      ? `<span id="ptime">${clock(pos)}</span> · Voices: ${esc(data.timing.voices)}`
-      : "Demo voice: your browser's Italian voice. The finished course uses the Gemini voices, with the same underlining.";
+      ? `<span id="ptime">${clock(pos)}</span>`
+      : "This chapter's recorded audio isn't ready yet: your browser's voice reads it for now.";
     return `<div class="pbar" id="pbar"><button class="play" data-act="toggle">${P.playing ? "Pause" : "▶ Play"}</button>${resume}
       <button data-act="clear">Clear underlines</button>
       <label class="speed">Speed <select id="p-speed">${[0.75, 1, 1.25, 1.5].map((r) => `<option value="${r}"${r === speed() ? " selected" : ""}>${r}×</option>`).join("")}</select></label>
