@@ -393,10 +393,23 @@ def example_pair(v, seg):
     return it, en
 
 
+def chapter_number(cid):
+    """The chapter's number in the whole course (1–200), as a textbook numbers its chapters."""
+    _, order = load_plan(cid)
+    return next((i for i, (ch_id, _) in enumerate(order, start=1) if ch_id == cid), 0)
+
+
+def chapter_label(chapter):
+    """Textbook-style title: the chapter's theme, e.g. "Chapter 1 · Greetings, introductions, nationalities"."""
+    return f"Chapter {chapter_number(chapter['id'])} · {chapter['vocab_theme']}"
+
+
 def render_anki(chapter):
     seg_by_id = {seg["id"]: seg for _, _, seg in segments(chapter)}
     buf = io.StringIO()
-    buf.write("#separator:comma\n#html:true\n#columns:Italiano,English,Lemma,Notes,Tags\n#tags column:5\n")
+    deck = f"Via dei Tigli::Chapter {chapter_number(chapter['id']):03d} · {chapter['vocab_theme']}"
+    buf.write("#separator:comma\n#html:true\n#columns:Italiano,English,Lemma,Notes,Tags\n#tags column:5\n"
+              f"#deck:{deck}\n")
     w = csv.writer(buf, quoting=csv.QUOTE_ALL, lineterminator="\n")
     tags = f"IMv4 {chapter['level']} {chapter['id']}"
     for v in chapter["vocab"]:

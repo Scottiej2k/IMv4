@@ -76,11 +76,12 @@ def main():
     index = {"speakers": {k: v.get("name", k) for k, v in voices.items()}, "locations": locations,
              "levels": {k: {"words": list(v["words"])} for k, v in make_brief.LEVEL_RULES.items()},
              "chapters": []}
-    written = 0
+    written = number = 0
     for p in sorted((ROOT / "curriculum" / "seasons").glob("s*.json")):
         for plan in json.loads(p.read_text(encoding="utf-8"))["chapters"]:
             cid = plan["id"]
-            row = {"id": cid, "level": plan["level"], "title": plan["title"],
+            number += 1
+            row = {"id": cid, "n": number, "theme": plan.get("theme", ""), "level": plan["level"], "title": plan["title"],
                    "grammar": plan["grammar"]["name"], "plan": {k: plan[k] for k in PLAN_KEYS if k in plan}}
             folder = ROOT / "chapters" / cid
             if (folder / "chapter.json").exists():
