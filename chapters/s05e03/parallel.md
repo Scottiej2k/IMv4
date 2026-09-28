@@ -28,7 +28,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Perché sotto le tre cose ce n'è una quarta, scritta in fondo, piccola piccola. | Because under the three things there's a fourth one, written at the bottom, very small. |
 | «**Vorremmo che** tu cominci a marzo. A casa ci pensiamo noi: una casa grande, una macchina nuova.» | “**We'd like** you to start in March. We'll take care of the house: a big house, a new car.” |
 | Kevin guarda la cucina: il tavolo, il frigo, il quaderno giallo. | Kevin looks at the kitchen: the table, the fridge, the yellow notebook. |
-| _**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risposto**._ | _**They want** me to **accept** by next Friday. And I still haven't **replied**._ |
+| _**Vogliono che** io **accetti** entro febbraio. E non ho ancora **risposto**._ | _**They want** me to **accept** by February. And I still haven't **replied**._ |
 | _Non ho **risposto** a nessuno, nemmeno a Dave._ | _I haven't **replied** to anyone, not even Dave._ |
 | Kevin si alza e cammina avanti e indietro davanti al frigorifero. | Kevin gets up and walks back and forth in front of the fridge. |
 | Apre il frigo, guarda dentro, lo chiude. | He opens the fridge, looks inside, closes it. |
@@ -67,7 +67,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara sorride, ma la sua mano resta ferma sul telefono. | Chiara smiles, but her hand stays still on the phone. |
 | _Mio marito mente malissimo. Però stasera non ho la forza di discutere._ | _My husband is a terrible liar. But tonight I don't have the strength to argue._ |
 | In cucina, Kevin mette la frittata nel piatto e conta i giorni. | In the kitchen, Kevin puts the frittata on the plate and counts the days. |
-| _Venerdì prossimo. Sette giorni. Un'**offerta** così non arriva due volte nella vita._ | _Next Friday. Seven days. An **offer** like this doesn't come twice in a lifetime._ |
+| _Febbraio. Cinque mesi. Un'**offerta** così non arriva due volte nella vita._ | _February. Five months. An **offer** like this doesn't come twice in a lifetime._ |
 | _Lo **stipendio** doppio. La **promozione**. Il titolo di **direttore**._ | _Double the **salary**. The **promotion**. The title of **director**._ |
 | _E poi la **sede** grande, con le finestre sul lago, dove ho lavorato dodici anni._ | _And then the big **office**, with windows on the lake, where I worked for twelve years._ |
 | _Però dodici anni sono anche tanti._ | _But twelve years is also a lot._ |
@@ -81,7 +81,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Dopo cena, Chiara sale di sopra a lavorare. | After dinner, Chiara goes upstairs to work. |
 | Kevin resta solo in cucina, con i piatti sporchi e il portatile davanti. | Kevin stays alone in the kitchen, with the dirty dishes and the laptop in front of him. |
 | Apre l'**email** un'ultima volta e legge le ultime due righe. | He opens the **email** one last time and reads the last two lines. |
-| «Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.» | “We await your news by Friday. Best regards, Dave.” |
+| «Aspettiamo tue notizie entro febbraio. Un caro saluto, Dave.» | “We await your news by February. Best regards, Dave.” |
 | _Tre giorni di **segreto** sono già troppi. Un **segreto** così pesa come un sacco di patate._ | _Three days of **secret** are already too many. A **secret** like this weighs like a sack of potatoes._ |
 | _**Vogliono che** io **torni** in America. Ma qui c'è mia moglie, e stasera mia moglie è stanca._ | _**They want** me to **come back** to America. But here there's my wife, and tonight my wife is tired._ |
 | Kevin chiude il portatile, spegne la luce della cucina e sale le scale. | Kevin closes the laptop, turns off the kitchen light and goes upstairs. |
@@ -113,7 +113,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Lo stipendio doppio.» «E il **contratto**?» | “Double the salary.” “And the **contract**?” |
 | «Tre anni. Con una casa e una macchina.» | “Three years. With a house and a car.” |
 | «Una casa e una macchina.» ripete lei, come per pesare le parole. | “A house and a car.” she repeats, as if to weigh the words. |
-| «E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.» | “And the **move** would be in March. They want the answer by next Friday.” |
+| «E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro febbraio.» | “And the **move** would be in March. They want the answer by February.” |
 | Per un momento nella stanza c'è solo il rumore del frigorifero. | For a moment the only sound in the room is the fridge. |
 | «E Chiara lo sa?» | “And does Chiara know?” |
 | Kevin guarda il tavolo. | Kevin looks at the table. |
@@ -270,7 +270,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sentiamo.» | “Let's hear it.” |
 | «Nella mia **azienda** c'è una regola.» «Se una persona ha un problema, non lavora bene. E se non lavora bene, prima o poi lo dice.» | “In my **company** there's a rule.” “If a person has a problem, they don't work well. And if they don't work well, sooner or later they say it.” |
 | «E allora?» | “So?” |
-| «E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a venerdì prossimo.» | “And so I'll be waiting for you at the counter every morning.” “**At least** until next Friday.” |
+| «E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a febbraio.» | “And so I'll be waiting for you at the counter every morning.” “**At least** until February.” |
 | Kevin la guarda, e per un secondo pensa di dirle tutto. | Kevin looks at her, and for a second he thinks about telling her everything. |
 | Poi guarda l'orologio sopra la cassa. | Then he looks at the clock above the till. |
 | «Devo andare. C'è la spesa e poi i ragazzi.» | “I have to go. There's the shopping and then the kids.” |
@@ -560,12 +560,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ecco la frase che non riesce a scrivere. | Here's the sentence he can't write. |
 | _Per tutta la mia famiglia. Perché io non ho ancora parlato con la mia famiglia._ | _For my whole family. Because I haven't talked to my family yet._ |
 | Kevin cancella la frase e scrive più semplice. | Kevin deletes the sentence and writes more simply. |
-| Dave, ho bisogno di una settimana. | Dave, I need a week. |
-| Ti **rispondo** venerdì con una **decisione** chiara. | I'll **reply** on Friday with a clear **decision**. |
+| Dave, ho bisogno di tempo. | Dave, I need time. |
+| Ti **rispondo** entro febbraio con una **decisione** chiara. | I'll **reply** by February with a clear **decision**. |
 | Grazie. Kevin. | Thanks. Kevin. |
 | Kevin rilegge tre volte. | Kevin rereads it three times. |
 | _Perfetto. Non ho **accettato** e non ho **rifiutato**. Ho solo chiesto tempo._ | _Perfect. I haven't **accepted** and I haven't **refused**. I've only asked for time._ |
-| _**Vogliono che** io **accetti** entro venerdì. Io non ho ancora **deciso** niente._ | _**They want** me to **accept** by Friday. I still haven't **decided** anything._ |
+| _**Vogliono che** io **accetti** entro febbraio. Io non ho ancora **deciso** niente._ | _**They want** me to **accept** by February. I still haven't **decided** anything._ |
 | _Una settimana. Poi devo **scegliere**. E ogni **scelta** qui è una scelta che fa male a qualcuno._ | _One week. Then I have to **choose**. And every **choice** here is a choice that hurts someone._ |
 | Mette le mani sopra la tastiera, ma non preme niente. | He puts his hands on the keyboard, but doesn't press anything. |
 | _Il **direttore** del marketing. Il mio vecchio titolo, con una parola in più davanti._ | _**Director** of marketing. My old title, with one more word in front._ |

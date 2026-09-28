@@ -36,7 +36,7 @@ Ma il sorriso gli dura poco. Perché sotto le tre cose ce n'è una quarta, scrit
 
 Kevin guarda la cucina: il tavolo, il frigo, il quaderno giallo.
 
-_**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risposto**._
+_**Vogliono che** io **accetti** entro febbraio. E non ho ancora **risposto**._
 
 _Non ho **risposto** a nessuno, nemmeno a Dave._
 
@@ -108,7 +108,7 @@ _Mio marito mente malissimo. Però stasera non ho la forza di discutere._
 
 In cucina, Kevin mette la frittata nel piatto e conta i giorni.
 
-_Venerdì prossimo. Sette giorni. Un'**offerta** così non arriva due volte nella vita._
+_Febbraio. Cinque mesi. Un'**offerta** così non arriva due volte nella vita._
 
 _Lo **stipendio** doppio. La **promozione**. Il titolo di **direttore**._
 
@@ -132,7 +132,7 @@ _Bella frase. Però non è vera._
 
 Dopo cena, Chiara sale di sopra a lavorare. Kevin resta solo in cucina, con i piatti sporchi e il portatile davanti. Apre l'**email** un'ultima volta e legge le ultime due righe.
 
-«Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.»
+«Aspettiamo tue notizie entro febbraio. Un caro saluto, Dave.»
 
 _Tre giorni di **segreto** sono già troppi. Un **segreto** così pesa come un sacco di patate._
 
@@ -178,7 +178,7 @@ Ornella posa la tazza.
 
 «Una casa e una macchina.» ripete lei, come per pesare le parole.
 
-«E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.»
+«E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro febbraio.»
 
 Per un momento nella stanza c'è solo il rumore del frigorifero.
 
@@ -474,7 +474,7 @@ Nadia si alza dal tavolo e prende la borsa di Anna.
 
 «E allora?»
 
-«E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a venerdì prossimo.»
+«E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a febbraio.»
 
 Kevin la guarda, e per un secondo pensa di dirle tutto. Poi guarda l'orologio sopra la cassa.
 
@@ -962,11 +962,11 @@ Chiara sale e la porta della camera si chiude piano. Kevin resta seduto davanti 
 
 _Per tutta la mia famiglia. Perché io non ho ancora parlato con la mia famiglia._
 
-Kevin cancella la frase e scrive più semplice. Dave, ho bisogno di una settimana. Ti **rispondo** venerdì con una **decisione** chiara. Grazie. Kevin. Kevin rilegge tre volte.
+Kevin cancella la frase e scrive più semplice. Dave, ho bisogno di tempo. Ti **rispondo** entro febbraio con una **decisione** chiara. Grazie. Kevin. Kevin rilegge tre volte.
 
 _Perfetto. Non ho **accettato** e non ho **rifiutato**. Ho solo chiesto tempo._
 
-_**Vogliono che** io **accetti** entro venerdì. Io non ho ancora **deciso** niente._
+_**Vogliono che** io **accetti** entro febbraio. Io non ho ancora **deciso** niente._
 
 _Una settimana. Poi devo **scegliere**. E ogni **scelta** qui è una scelta che fa male a qualcuno._
 

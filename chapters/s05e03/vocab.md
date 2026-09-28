@@ -19,11 +19,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **chiedere**<br>(v.) · to ask | «Posso **chiedere** una cosa?» dice dopo un momento. | “Can I **ask** you something?” he says after a moment. |
 | **trasferirsi**<br>(v.) · to move (house or country) | _Potrei **trasferirmi** a marzo con un contratto firmato e una casa pronta._ | _I could **move** in March with a signed contract and a house ready._ |
 | **tornare**<br>(v.) · to come back, to return | La prima: «Vogliamo che tu **torni** a Chicago.» | The first: “We want you to **come back** to Chicago.” |
-| **accettare**<br>(v.) · to accept | _Vogliono che io **accetti** entro venerdì prossimo. E non ho ancora risposto._ | _They want me to **accept** by next Friday. And I still haven't replied._ |
+| **accettare**<br>(v.) · to accept | _Vogliono che io **accetti** entro febbraio. E non ho ancora risposto._ | _They want me to **accept** by February. And I still haven't replied._ |
 | **rifiutare**<br>(v.) · to refuse | _Perfetto. Non ho accettato e non ho **rifiutato**. Ho solo chiesto tempo._ | _Perfect. I haven't accepted and I haven't **refused**. I've only asked for time._ |
 | **decidere**<br>(v.) · to decide | «Però una volta ho **deciso** una cosa importante.» | “But once I **decided** something important.” |
 | **scegliere**<br>(v.) · to choose | «Bravo. **Scegliere** è importante.» | “Good. **Choosing** is important.” |
-| **rispondere**<br>(v.) · to reply, to answer | Ti **rispondo** venerdì con una decisione chiara. | I'll **reply** on Friday with a clear decision. |
+| **rispondere**<br>(v.) · to reply, to answer | _Non ho **risposto** a nessuno, nemmeno a Dave._ | _I haven't **replied** to anyone, not even Dave._ |
 | **guadagnare**<br>(v.) · to earn | _Il doppio. In dollari, questo vuol dire **guadagnare** molto bene._ | _Double. In dollars, that means **earning** very well._ |
 | **raccontare**<br>(v.) · to tell | «Mamma, posso **raccontare** una cosa strana?» | “Mom, can I **tell** you something strange?” |
 
@@ -34,11 +34,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **l'offerta**<br>(n., f) · offer | _Caro Dave, grazie per l'**offerta**._ | _Dear Dave, thank you for the **offer**._ |
 | **la proposta**<br>(n., f) · proposal | «C'è un'offerta. Una **proposta** di lavoro vera.» | “There's an offer. A real job **proposal**.” |
 | **lo stipendio**<br>(n., m) · salary, pay | _La promozione. Il direttore. Lo **stipendio** doppio._ | _The promotion. The director. Double the **salary**._ |
-| **il trasferimento**<br>(n., m) · move, relocation | «E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.» | “And the **move** would be in March. They want the answer by next Friday.” |
+| **il trasferimento**<br>(n., m) · move, relocation | «E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro febbraio.» | “And the **move** would be in March. They want the answer by February.” |
 | **il contratto**<br>(n., m) · contract | «Lo stipendio doppio.» «E il **contratto**?» | “Double the salary.” “And the **contract**?” |
 | **la sede**<br>(n., f) · office, headquarters | «Ornella, tu sei la mia **sede** italiana.» | “Ornella, you're my Italian **office**.” |
 | **la promozione**<br>(n., f) · promotion | _La **promozione**. Il direttore. Lo stipendio doppio._ | _The **promotion**. The director. Double the salary._ |
-| **la decisione**<br>(n., f) · decision | Ti rispondo venerdì con una **decisione** chiara. | I'll reply on Friday with a clear **decision**. |
+| **la decisione**<br>(n., f) · decision | Ti rispondo entro febbraio con una **decisione** chiara. | I'll reply by February with a clear **decision**. |
 | **il capo**<br>(n., m) · boss | Sullo schermo ci sono una firma e un nome: Dave Miller, il suo vecchio **capo**. | On the screen there's a signature and a name: Dave Miller, his old **boss**. |
 | **l'azienda**<br>(n., f) · company | «Tre giorni fa ho ricevuto un'email dall'**azienda** dove lavoravo a Chicago.» | “Three days ago I received an email from the **company** where I used to work in Chicago.” |
 | **la carriera**<br>(n., f) · career | «Matteo, la mia **carriera** va avanti.» «E va avanti bene.» | “Matteo, my **career** is moving forward.” “And it's moving forward well.” |

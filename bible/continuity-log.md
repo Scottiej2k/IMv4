@@ -45,10 +45,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Chiara's wish to buy a new house someday; an unopened box under the wardrobe; Franco's disapproval of the rented house.
 
 ### s01e04 · C'è un bar in piazza
-- **Happened:** Kevin e Leo disegnano una mappa di Borgoverde; un panettiere aggiunge panificio, supermercato e parco, e Kevin compra un chilo di pane. Chiara prende il treno per Milano e inizia come socia allo Studio Marchetti, che le assegna un progetto per una banca in Isola.
-- **New facts:** Roberto Colombo abita al n. 11; il Bar Tigli è al n. 2; Ornella al n. 16; Nadia lavora alla Farmacia Centrale; Emma viaggia con Bianca e Tommaso; la mappa dei Carter è un quaderno giallo; in piazza ci sono chiesa, fontana, banca, negozio di vestiti, bar e fermata.
-- **Changed:** Roberto mette un secondo avviso sul cancello dei Carter (vietato mettere avvisi); Nadia affida a Kevin un campione di crema da consegnare a Ornella. Nessun segreto rivelato.
-- **Planted:** Consegna del campione a Ornella; progetto banca in Isola; Kevin cerca ancora parco, supermercato e stazione.
+- **Happened:** On Saturday Kevin and Leo draw a map of Borgoverde; a baker adds the bakery, supermarket and park, and Kevin buys a kilo of bread. On Monday Chiara takes the train to Milan and starts as a partner at Studio Marchetti, which gives her a project for a bank in Isola.
+- **New facts:** Roberto Colombo lives at no. 11; Bar Tigli is at no. 2; Ornella at no. 16; Nadia works at the Farmacia Centrale; Emma travels with Bianca and Tommaso; the Carters' map is a yellow notebook; the piazza has a church, fountain, bank, clothes shop, bar and bus stop.
+- **Changed:** Roberto puts a second notice on the Carters' gate (no notices allowed); Nadia gives Kevin a cream sample to deliver to Ornella. No secrets revealed.
+- **Planted:** The sample for Ornella; the bank project in Isola; Kevin still looking for the park, supermarket and station.
 
 ### s01e05 · Quanti anni hai?
 - **Happened:** Sunday lunch at Franco's; Kevin answers family questions with "Ho fame" until prompted; Franco reveals the photo is of Anna, dead three years. Leo helps Ornella home, learns she is an only child with no children or grandchildren, and proposes a "contract": he carries her bags, she gives biscuits, he calls her "nonna." Monday: at the bar Franco asks Kevin "Milan o Inter?"
@@ -57,7 +57,7 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Franco's Sunday course (Lucia, still secret); Ornella's loneliness as Leo's chosen family; Emma's promised photo of Leo and Ornella; Franco's Milan-Inter question left unanswered by Kevin.
 
 ### s05e03 · Vogliono che torni
-- **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by Friday. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
+- **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
 - **Changed:** Ornella knows about the Chicago offer; Matteo, Nadia and Emma only suspect Kevin is hiding something. Chiara found Kevin's note reading "Chicago" and knows he lies about work.
-- **Planted:** Kevin must answer Dave by Friday; Chiara will demand the truth again; Ornella's open door for Kevin.
+- **Planted:** Kevin must answer Dave by February (decided in the finale, E25); Chiara will demand the truth again; Ornella's open door for Kevin.
