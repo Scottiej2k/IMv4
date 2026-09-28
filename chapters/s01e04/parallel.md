@@ -17,7 +17,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora... **Avviso**... Comitato...» legge Kevin. | “So... **Notice**... Committee...” reads Kevin. |
 | «Tre parole. Forse quattro.» | “Three words. Maybe four.” |
 | Leo prende l'avviso in mano. | Leo takes the notice in his hand. |
-| «Il Comitato di quartiere informa i **vicini**...» dice Leo. | “The neighbourhood committee informs the **neighbours**...” says Leo. |
+| «Il Comitato di quartiere informa i **vicini**...» dice Leo. | “The neighborhood committee informs the **neighbors**...” says Leo. |
 | «Che cos'è un **avviso**?» chiede. | “What's a **notice**?” he asks. |
 | «È **una** lettera piccola. **Una** lettera per tutti.» | “It's **a** little letter. **A** letter for everybody.” |
 | «Perché è sul nostro **cancello**?» | “Why is it on our **gate**?” |
@@ -46,7 +46,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, perché scrivi nel quaderno?» | “Dad, why do you write in the notebook?” |
 | «Perché dimentico le parole italiane.» | “Because I forget Italian words.” |
 | «Anch'io dimentico le parole.» | “I forget words too.” |
-| Poi arriva un **vicino**. | Then **a neighbour** arrives. |
+| Poi arriva un **vicino**. | Then **a neighbor** arrives. |
 | È Roberto Colombo, del numero undici. | It's Roberto Colombo, from number eleven. |
 | «Buongiorno, signor Carter.» | “Good morning, Mr Carter.” |
 | «Buongiorno, signor Colombo!» | “Good morning, Mr Colombo!” |
@@ -77,7 +77,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **Bar** Tigli è al numero due, signor Carter.» | “**Bar** Tigli is at number two, Mr Carter.” |
 | «Ah. Numero due. Sulla mia **strada**.» | “Ah. Number two. On my **street**.” |
 | Roberto va via senza salutare. | Roberto goes off without saying goodbye. |
-| «Un **vicino** simpatico.» | “A friendly **neighbour**.” |
+| «Un **vicino** simpatico.» | “A friendly **neighbor**.” |
 | «Papà, io **cerco** il **parco**?» chiede Leo. | “Dad, shall I **look for** the **park**?” asks Leo. |
 | «Sì. E io **cerco** la **stazione**.» | “Yes. And I'll **look for** the **station**.” |
 | «E il **supermercato**?» | “And the **supermarket**?” |
@@ -260,8 +260,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Adesso **cerchiamo** il **parco**.» | “Now we **look for** the **park**.” |
 | «E la **fermata**.» | “And the **stop**.” |
 | «E il **supermercato**!» | “And the **supermarket**!” |
-| «E il **giornale** per la mamma?» | “And the **newspaper** for Mum?” |
-| «Il **giornale** per la mamma. Perfetto, Leo.» | “The **newspaper** for Mum. Perfect, Leo.” |
+| «E il **giornale** per la mamma?» | “And the **newspaper** for Mom?” |
+| «Il **giornale** per la mamma. Perfetto, Leo.» | “The **newspaper** for Mom. Perfect, Leo.” |
 | Escono dal **panificio** con il pane caldo. | They leave the **bakery** with the warm bread. |
 | Leo **guarda** la **mappa** nuova. | Leo **looks at** the new **map**. |
 | «Papà, ora **camminiamo** a destra o a sinistra?» | “Dad, now do we **walk** right or left?” |
@@ -306,32 +306,32 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo **guarda** la finestra della **farmacia**. | Leo **looks at** the **pharmacy** window. |
 | Sulla finestra **c'è** **un** **avviso** piccolo. | On the window **there's** **a** small **notice**. |
 | «Che cos'è **un** **avviso**?» chiede. | “What's **a** **notice**?” asks Leo. |
-| «**Un** **avviso** è **una** lettera per i **vicini**.» | “**A** **notice** is **a** letter for the **neighbours**.” |
+| «**Un** **avviso** è **una** lettera per i **vicini**.» | “**A** **notice** is **a** letter for the **neighbors**.” |
 | «E perché è sulla finestra?» | “And why is it on the window?” |
-| «Perché tutti i **vicini** passano di qua.» | “Because all the **neighbours** pass by here.” |
+| «Perché tutti i **vicini** passano di qua.» | “Because all the **neighbors** pass by here.” |
 | «Anche noi abbiamo **un** **avviso** sul **cancello**.» | “We have **a** **notice** on our **gate** too.” |
-| «Certo. **Un** **avviso** per ogni **vicino**.» | “Of course. **A** **notice** for every **neighbour**.” |
+| «Certo. **Un** **avviso** per ogni **vicino**.» | “Of course. **A** **notice** for every **neighbor**.” |
 | «Che cosa dice?» | “What does it say?” |
 | «Dice che il regolamento è importante.» | “It says the regulation is important.” |
 | «Il regolamento. Sempre il regolamento.» | “The regulation. Always the regulation.” |
 | «Benvenuto in Italia.» | “Welcome to Italy.” |
 | «Senti, Nadia. Io lavoro sulla **mappa** come **una** campagna.» | “Listen, Nadia. I'm working on the **map** like **a** campaign.” |
 | «**Una** campagna?» | “**A** campaign?” |
-| «Sì. Come al lavoro. Prima la **mappa**, poi il quartiere.» | “Yes. Like at work. First the **map**, then the neighbourhood.” |
+| «Sì. Come al lavoro. Prima la **mappa**, poi il quartiere.» | “Yes. Like at work. First the **map**, then the neighborhood.” |
 | «Certo. Geniale.» | “Sure. Brilliant.” |
 | «E **c'è** **un** problema.» | “And **there's** **a** problem.” |
 | «Quale?» | “Which one?” |
-| «Io conosco la **mappa**, ma non conosco i **vicini**.» | “I know the **map**, but I don't know the **neighbours**.” |
-| «I **vicini** sono più difficili della **mappa**.» | “The **neighbours** are harder than the **map**.” |
+| «Io conosco la **mappa**, ma non conosco i **vicini**.» | “I know the **map**, but I don't know the **neighbors**.” |
+| «I **vicini** sono più difficili della **mappa**.» | “The **neighbors** are harder than the **map**.” |
 | «Lo immagino.» | “I can imagine.” |
-| _Io voglio essere **un** **vicino**, non **un** turista._ | _I want to be **a** **neighbour**, not **a** tourist._ |
+| _Io voglio essere **un** **vicino**, non **un** turista._ | _I want to be **a** **neighbor**, not **a** tourist._ |
 | _In America io conosco tutti._ | _In America I know everybody._ |
 | _Qui conosco **una** **mappa**._ | _Here I know **a** **map**._ |
 | «Leo, che cosa manca sulla **mappa**?» | “Leo, what's missing on the **map**?” |
 | «Il **parco**, il **supermercato** e la **stazione**.» | “The **park**, the **supermarket** and the **station**.” |
 | «E il **bar**?» | “And the **bar**?” |
 | «Il **Bar** Tigli?» | “**Bar** Tigli?” |
-| «Il **bar** è il vero centro di Borgoverde.» | “The **bar** is the real centre of Borgoverde.” |
+| «Il **bar** è il vero centro di Borgoverde.» | “The **bar** is the real center of Borgoverde.” |
 | «Questo sì!» | “That's right!” |
 | «**C'è** **un** **bar** in **piazza** e **c'è** **un** **bar** in Via dei Tigli.» | “**There's** **a** **bar** in the **square** and **there's** **a** **bar** on Via dei Tigli.” |
 | «E **c'è** **un** **bar** con Matteo.» | “And **there's** **a** **bar** with Matteo.” |
@@ -361,15 +361,15 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Dentro la **stazione** c'è molto rumore. | Inside the **station** there's a lot of noise. |
 | Poco più in là **c'è** Emma. | A little further along **there's** Emma. |
 | Con Emma ci sono **una** ragazza bionda e **un** ragazzo. | With Emma there are **a** blonde girl and **a** boy. |
-| «Ciao, mamma.» dice Emma. | “Hi, Mum,” says Emma. |
+| «Ciao, mamma.» dice Emma. | “Hi, Mom,” says Emma. |
 | «Ciao, tesoro.» | “Hi, sweetheart.” |
-| «Mamma, la **fermata** dell'autobus è di là.» | “Mum, the bus **stop** is over there.” |
+| «Mamma, la **fermata** dell'autobus è di là.» | “Mom, the bus **stop** is over there.” |
 | «Lo so.» | “I know.” |
 | «Bianca e Tommaso sono là.» | “Bianca and Tommaso are over there.” |
 | «Capisco. Vai.» | “I understand. Go.” |
 | Emma va via di tre passi. | Emma goes off three steps. |
 | Poi si ferma. | Then she stops. |
-| «Mamma, sei nuova. Lo so che sei nuova.» | “Mum, you're new. I know you're new.” |
+| «Mamma, sei nuova. Lo so che sei nuova.» | “Mom, you're new. I know you're new.” |
 | «Grazie, Emma.» | “Thanks, Emma.” |
 | Chiara **guarda** il **giornale**. | Chiara **looks at** the **newspaper**. |
 | «Primo: **l'ufficio** alle nove.» | “First: the **office** at nine.” |
@@ -377,14 +377,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Terzo: il progetto Isola.» | “Third: the Isola project.” |
 | «Quarto: il **treno** per casa.» | “Fourth: the **train** home.” |
 | Il **giornale** cade sulla banchina. | The **newspaper** falls on the platform. |
-| «Mamma. Respira.» dice Emma. | “Mum. Breathe,” says Emma. |
+| «Mamma. Respira.» dice Emma. | “Mom. Breathe,” says Emma. |
 | Chiara respira. | Chiara breathes. |
 | «Grazie. Respirare è **una** buona idea.» | “Thanks. Breathing is **a** good idea.” |
 | Poi **c'è** **una** voce dagli altoparlanti. | Then **there's** **a** voice from the loudspeakers. |
 | «Il **treno** per Milano è in ritardo di dieci minuti.» | “The **train** to Milan is ten minutes late.” |
 | Chiara **guarda** il telefono. | Chiara **looks at** the phone. |
 | «Dieci minuti.» | “Ten minutes.” |
-| «Mamma, il **treno** è sempre in ritardo.» | “Mum, the **train** is always late.” |
+| «Mamma, il **treno** è sempre in ritardo.» | “Mom, the **train** is always late.” |
 | «Sempre?» | “Always?” |
 | «Sempre. Ma arriva.» | “Always. But it arrives.” |
 | «Quando?» | “When?” |
@@ -400,7 +400,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E **dov'è** il nostro **treno**?» | “And **where's** our **train**?” |
 | «Là. Dietro il **treno** per Monza.» | “There. Behind the **train** to Monza.” |
 | «Ah. **C'è** **un** treno dietro **un** altro **treno**.» | “Ah. **There's** **a** train behind **another** train.” |
-| «Benvenuta a Borgoverde, mamma.» | “Welcome to Borgoverde, Mum.” |
+| «Benvenuta a Borgoverde, mamma.» | “Welcome to Borgoverde, Mom.” |
 | Chiara prende il **giornale** da terra. | Chiara picks up the **newspaper** from the ground. |
 | «Emma, **una** domanda.» | “Emma, **a** question.” |
 | «Sì?» | “Yes?” |
@@ -415,7 +415,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Il **treno** arriva. | The **train** arrives. |
 | «Ecco il **treno**!» | “Here's the **train**!” |
 | Emma prende lo zaino. | Emma picks up her backpack. |
-| «Mamma, **una** cosa.» | “Mum, one thing.” |
+| «Mamma, **una** cosa.» | “Mom, one thing.” |
 | «Dimmi.» | “Tell me.” |
 | «In bocca al lupo.» | “Good luck.” |
 | Chiara **guarda** sua figlia. | Chiara **looks at** her daughter. |
@@ -423,8 +423,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma sale sul **treno** e scompare. | Emma gets on the **train** and disappears. |
 | Chiara sale sull'altro vagone. | Chiara gets on the other carriage. |
 | _Mia figlia mi dice “in bocca al lupo”._ | _My daughter says “good luck” to me._ |
-| _Forse non sono solo **una** mamma nuova._ | _Maybe I'm not just **a** new mum._ |
-| _Forse sono **una** mamma._ | _Maybe I'm **a** mum._ |
+| _Forse non sono solo **una** mamma nuova._ | _Maybe I'm not just **a** new mom._ |
+| _Forse sono **una** mamma._ | _Maybe I'm **a** mom._ |
 | Chiara **guarda** fuori dal finestrino. | Chiara **looks** out of the window. |
 | La **strada** per Milano è lunga. | The **road** to Milan is long. |
 | «Primo: respirare.» dice Chiara. | “First: breathe,” says Chiara. |
@@ -537,14 +537,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Esatto.» | “Exactly.” |
 | «E **c'è** **un** **avviso** sopra **un** altro **avviso**.» | “And **there's** **a** **notice** on top of **another** **notice**.” |
 | «Il regolamento è il regolamento.» | “The regulation is the regulation.” |
-| «Signor Colombo, io **cerco** solo di capire il quartiere.» | “Mr Colombo, I'm only **trying** to understand the neighbourhood.” |
-| «Il quartiere è chiaro, signor Carter.» | “The neighbourhood is clear, Mr Carter.” |
+| «Signor Colombo, io **cerco** solo di capire il quartiere.» | “Mr Colombo, I'm only **trying** to understand the neighborhood.” |
+| «Il quartiere è chiaro, signor Carter.» | “The neighborhood is clear, Mr Carter.” |
 | Leo **guarda** la **mappa**. | Leo **looks at** the **map**. |
 | «Signor Colombo, **dov'è** **il panificio**?» | “Mr Colombo, **where's** the **bakery**?” |
 | Roberto indica la **strada** senza **guardare**. | Roberto points down the **street** without **looking**. |
 | «Sempre dritto.» | “Straight ahead.” |
 | Poi entra in casa. | Then he goes into his house. |
-| «Papà, lui è **un** **vicino** serio.» | “Dad, he's **a** serious **neighbour**.” |
+| «Papà, lui è **un** **vicino** serio.» | “Dad, he's **a** serious **neighbor**.” |
 | «Sì, Leo. Molto serio.» | “Yes, Leo. Very serious.” |
-| _Borgoverde è **una** città con **un** **bar**, **un** **parco** e **un** **vicino** molto serio._ | _Borgoverde is **a** town with **a** **bar**, **a** **park** and **a** very serious **neighbour**._ |
+| _Borgoverde è **una** città con **un** **bar**, **un** **parco** e **un** **vicino** molto serio._ | _Borgoverde is **a** town with **a** **bar**, **a** **park** and **a** very serious **neighbor**._ |
 | Kevin apre il **cancello** e i due entrano. | Kevin opens the **gate** and the two go in. |

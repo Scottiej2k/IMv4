@@ -58,7 +58,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Una **famiglia** grande.» | “A big **family**.” |
 | «Sì. E adesso **ho fame** di nuovo.» | “Yes. And now **I'm hungry** again.” |
 | Leo prende un biscotto dal piatto. | Leo takes a biscuit from the plate. |
-| «Io **ho fame**, mamma.» | “**I'm hungry**, mum.” |
+| «Io **ho fame**, mamma.» | “**I'm hungry**, mom.” |
 | «Anch'io **ho fame**.» | “I'm **hungry** too.” |
 | «E **ho sete** anch'io.» | “And **I'm thirsty** too.” |
 | Chiara prende un bicchiere e dà l'acqua a Leo. | Chiara takes a glass and gives Leo the water. |
@@ -77,8 +77,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin prende il quaderno giallo e la giacca. | Kevin takes the yellow notebook and his jacket. |
 | Emma mette le scarpe e aspetta alla porta. | Emma puts on her shoes and waits at the door. |
 | «Leo, le scarpe.» | “Leo, your shoes.” |
-| «**Ho** otto **anni**, mamma. Lo so.» | “**I'm** eight **years** old, mum. I know.” |
-| «Grazie, mamma.» | “Thanks, mum.” |
+| «**Ho** otto **anni**, mamma. Lo so.» | “**I'm** eight **years** old, mom. I know.” |
+| «Grazie, mamma.» | “Thanks, mom.” |
 
 ## 2. Casa di Franco, Via dei Tigli 9 · domenica, mezzogiorno e mezza
 
@@ -234,8 +234,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non ci sei? Dove vai?» | “You're not here? Where are you going?” |
 | «Ho una cosa da fare.» | “I have something to do.” |
 | «Che cosa?» | “What thing?” |
-| «Al Centro civico.» | “At the community centre.” |
-| «Al Centro civico? Di domenica?» | “At the community centre? On a Sunday?” |
+| «Al Centro civico.» | “At the community center.” |
+| «Al Centro civico? Di domenica?» | “At the community center? On a Sunday?” |
 | «Sì. Un corso.» | “Yes. A course.” |
 | «Un corso di cosa?» | “A course in what?” |
 | «Di... niente. Un corso.» | “In... nothing. A course.” |
@@ -463,7 +463,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella guarda il muro con le **foto**. | Ornella looks at the wall with the **photos**. |
 | Poi guarda Leo. | Then she looks at Leo. |
 | I suoi occhi sono lucidi, ma sorride. | Her eyes are shiny, but she smiles. |
-| «È tardi, Leo. Tua mamma aspetta.» | “It's late, Leo. Your mum is waiting.” |
+| «È tardi, Leo. Tua mamma aspetta.» | “It's late, Leo. Your mom is waiting.” |
 | «Sì.» | “Yes.” |
 | Leo prende la giacca. | Leo takes his jacket. |
 | «Signora Ornella?» | “Signora Ornella?” |
@@ -493,7 +493,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo arriva dalla camera in pigiama. | Leo comes from the bedroom in his pyjamas. |
 | Ha una **foto** in mano. | He has a **photo** in his hand. |
 | La mette sul tavolo, davanti a tutti. | He puts it on the table, in front of everybody. |
-| «Mamma! Papà! Guardate!» | “Mum! Dad! Look!” |
+| «Mamma! Papà! Guardate!» | “Mom! Dad! Look!” |
 | Chiara alza la testa. Kevin mette giù la penna. | Chiara raises her head. Kevin puts down the pen. |
 | «Che cos'è questa **foto**?» | “What's this **photo**?” |
 | «Me la dà la signora Ornella.» | “Signora Ornella gave it to me.” |

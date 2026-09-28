@@ -32,7 +32,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Le **camere** sono al **piano** di sopra. E **il** **giardino** è dietro **la** **porta**.» | “The **bedrooms** are on the **floor** above. And **the** **garden** is behind **the** **door**.” |
 | Leo entra di corsa dal **salotto**. | Leo runs in from the **living room**. |
 | Ha un **post-it** sulla fronte. | He has a **sticky note** on his forehead. |
-| «Mamma! Guarda! Io ho un **post-it**!» | “Mum! Look! I have a **sticky note**!” |
+| «Mamma! Guarda! Io ho un **post-it**!» | “Mom! Look! I have a **sticky note**!” |
 | «Leo, perché hai un **post-it** sulla fronte?» | “Leo, why do you have a **sticky note** on your forehead?” |
 | «Perché la fronte è una **cosa**. E le **cose** hanno un nome.» | “Because the forehead is a **thing**. And **things** have a name.” |
 | «E **il** **giardino**? **Il** **giardino** ha un nome?» | “And **the** **garden**? Does **the** **garden** have a name?” |
@@ -219,7 +219,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella esce e chiude **la** **porta**. | Ornella goes out and closes **the** **door**. |
 | Leo è sul **divano** con **il** **gatto**. | Leo is on the **sofa** with **the** **cat**. |
 | **Il** **gatto** dorme. Leo sorride. | **The** **cat** sleeps. Leo smiles. |
-| «Pavarotti è **il** **mio** **ospite** preferito» | “Pavarotti is **my** favourite **guest**,” says Leo. |
+| «Pavarotti è **il** **mio** **ospite** preferito» | “Pavarotti is **my** favorite **guest**,” says Leo. |
 | «Il **gatto** è un **ospite**. Tu sei il mio bambino.» | “**The** **cat** is a **guest**. You're my child.” |
 | «Ma **il** **gatto** dorme sul **divano**.» | “But **the** **cat** sleeps on the **sofa**.” |
 | «Anche tu, Leo. Anche tu.» | “You too, Leo. You too.” |

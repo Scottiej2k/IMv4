@@ -29,7 +29,7 @@ Italian uses the pronoun only for contrast, emphasis or clarity:
 - *Sono americano.* — normal, no pronoun.
 - *Io sono americano e tu sei italiano.* — contrast: *io* against *tu*.
 
-*Lui* and *lei* mean "he" and "she". Written with a capital L, **Lei** means "you" when you speak politely to a stranger, a shopkeeper or an elderly neighbour — exactly as Kevin does with Signora Galli and with Roberto Colombo.
+*Lui* and *lei* mean "he" and "she". Written with a capital L, **Lei** means "you" when you speak politely to a stranger, a shopkeeper or an elderly neighbor — exactly as Kevin does with Signora Galli and with Roberto Colombo.
 
 ### Nationalities
 
@@ -80,7 +80,7 @@ Le luci sono accese. — The lights are on. (`s01e01-7-008`)
 - **Overusing *io*.** *Io sono Kevin, io sono americano, io parlo...* sounds like a robot. Let the ending do the work.
 - **Forgetting agreement.** A woman says *Sono americana*; two people say *Siamo americani*.
 - **"Sono bene."** For "I'm fine" Italians say *Sto bene* or *Tutto bene*, not *sono bene*. And age uses *avere*: *Ho 41 anni*.
-- **Mixing up *tu* and *Lei*.** Use *tu* with family and friends, *Lei* with strangers and older neighbours. Writing *Lei è* with a small *l* changes the meaning to "she is".
+- **Mixing up *tu* and *Lei*.** Use *tu* with family and friends, *Lei* with strangers and older neighbors. Writing *Lei è* with a small *l* changes the meaning to "she is".
 - **Using *ciao* with everyone.** With a person you address as *Lei*, use *buongiorno* and *arrivederci*, not *ciao*.
 - **Saying *Sono Kevin* on introduction.** It's not wrong grammar, but Italians say *Mi chiamo Kevin* / *Sono Kevin Carter*, with the surname.
 

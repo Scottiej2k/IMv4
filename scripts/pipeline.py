@@ -430,7 +430,7 @@ there is nothing.)
 
 The chapter below is final. Write the short introduction a learner reads before starting it: one
 paragraph in **English**, 60–100 words, present tense, warm and lively, like the blurb on the back of
-a book.
+a book, in American English (neighbor, color, Mom).
 - Say what the episode is about: whose story it is, where, and what situation they are in, so a
   beginner reading the Italian knows what to expect.
 - End with a hook: tease one specific fun, surprising or dramatic moment that really happens in the

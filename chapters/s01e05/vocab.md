@@ -8,7 +8,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **avere fame**<br>(expr.) · to be hungry | «Io **ho fame**, mamma.» | “**I'm hungry**, mum.” |
+| **avere fame**<br>(expr.) · to be hungry | «Io **ho fame**, mamma.» | “**I'm hungry**, mom.” |
 | **avere sete**<br>(expr.) · to be thirsty | «E **ho sete** anch'io.» | “And **I'm thirsty** too.” |
 | **avere paura**<br>(expr.) · to be afraid | «**Hai paura**? Di cosa?» | “**You're scared**? Of what?” |
 | **avere sonno**<br>(expr.) · to be sleepy | «E **ho sonno** anch'io.» | “And **I'm sleepy** too.” |

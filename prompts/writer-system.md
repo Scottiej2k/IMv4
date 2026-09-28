@@ -45,7 +45,8 @@ format must be exact.
 - **Vocabulary is woven in.** Each vocabulary item appears, bolded, in at least 3 different lines,
   in natural contexts, never as a list.
 - **Faithful, natural English.** Each line's English translates exactly that line: accurate, idiomatic,
-  same tone. Not word-for-word, and don't add or drop meaning.
+  same tone. Not word-for-word, and don't add or drop meaning. American spelling and usage in all
+  English (translations, notes, the grammar lesson): neighbor, color, center, Mom.
 - **One form, one item.** In the `@vocab` block, a form may belong to only one item. If two items
   share a form (e.g. *signore* is both "il signore" and the plural of "la signora"), leave it out
   of the item it is less likely to mean in this chapter.

@@ -25,7 +25,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **il vicino**<br>(n., m) · neighbour | «Lei è un **vicino** nuovo?» | “Are you a **new** neighbour?” |
+| **il vicino**<br>(n., m) · neighbor | «Lei è un **vicino** nuovo?» | “Are you a **new** neighbor?” |
 | **la signora**<br>(n., f) · lady, madam | La **signora** guarda la strada. | The **lady** watches the street. |
 | **la casa**<br>(n., f) · house, home | E entra in **casa**. | And he goes into the **house**. |
 | **la strada**<br>(n., f) · street, road | Chiara attraversa la **strada**. | Chiara crosses the **street**. |
@@ -46,7 +46,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **benvenuto**<br>(adj.) · welcome | «**Benvenuto** in Via dei Tigli.» | “**Welcome** to Via dei Tigli.” |
 | **americano**<br>(adj.) · American | «Frase tre: sono **americano**.» | “Sentence three: I am **American**.” |
 | **italiano**<br>(adj.) · Italian | «E parla bene **italiano**.» | “And she speaks **Italian** well.” |
-| **nuovo**<br>(adj.) · new | «Lei è un vicino **nuovo**?» | “Are you a new **neighbour**?” |
+| **nuovo**<br>(adj.) · new | «Lei è un vicino **nuovo**?» | “Are you a new **neighbor**?” |
 
 ## Interjections
 

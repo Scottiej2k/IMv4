@@ -298,10 +298,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Tutti?» | “All of them?” |
 | «Tutti. Domani è domenica e cucino io.» | “All of them. Tomorrow's Sunday and I'm cooking.” |
 | Bianca ride e sistema le borse sul braccio. | Bianca laughs and settles the bags on her arm. |
-| «Signora Ferri, posso dire una cosa? Lei è l'unica mamma che conosco che compra i pomodori per una missione.» | “Mrs Ferri, can I say something? You're the only mum I know who buys tomatoes like it's a mission.” |
+| «Signora Ferri, posso dire una cosa? Lei è l'unica mamma che conosco che compra i pomodori per una missione.» | “Mrs Ferri, can I say something? You're the only mom I know who buys tomatoes like it's a mission.” |
 | «Grazie, credo.» | “Thanks, I think.” |
 | Emma guarda il telefono e sospira. | Emma looks at her phone and sighs. |
-| «Mamma, hai letto il messaggio della prof?» | “Mum, did you read the teacher's message?” |
+| «Mamma, hai letto il messaggio della prof?» | “Mom, did you read the teacher's message?” |
 | «Quale messaggio?» | “Which message?” |
 | «Quello di italiano. Dobbiamo **scegliere** il tema del dibattito in classe.» | “The Italian one. We have to **choose** the topic for the class debate.” |
 | «E tu hai scelto?» | “And have you chosen?” |
@@ -320,7 +320,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Mai?» | “Never?” |
 | «Mai. Qui ho la scuola, ho Tommaso, ho Bianca, ho tutto.» «Là che cosa ho? Un ricordo.» | “Never. Here I have school, I have Tommaso, I have Bianca, I have everything.” “There, what do I have? A memory.” |
 | «Un ricordo non è poco.» | “A memory isn't nothing.” |
-| «Mamma, hai detto la stessa cosa quando avevi quindici anni?» | “Mum, did you say the same thing when you were fifteen?” |
+| «Mamma, hai detto la stessa cosa quando avevi quindici anni?» | “Mom, did you say the same thing when you were fifteen?” |
 | Chiara paga i pomodori e mette il portafoglio nella borsa. | Chiara pays for the tomatoes and puts her wallet in her bag. |
 | «No. Io a quindici anni dicevo: "Un giorno me ne vado".» | “No. At fifteen I used to say: ‘One day I'm leaving’.” |
 | «E poi te ne sei andata davvero.» | “And then you really did leave.” |
@@ -328,7 +328,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E non avevi paura?» | “And weren't you scared?” |
 | «Avevo una paura enorme.» «Però la **scelta** era mia, e questo cambia tutto.» | “I was enormously scared.” “But the **choice** was mine, and that changes everything.” |
 | Emma cammina in silenzio per qualche metro. | Emma walks in silence for a few metres. |
-| _Mamma non parla mai di Chicago. Però adesso ne parla come di ieri._ | _Mum never talks about Chicago. But now she talks about it as if it were yesterday._ |
+| _Mamma non parla mai di Chicago. Però adesso ne parla come di ieri._ | _Mom never talks about Chicago. But now she talks about it as if it were yesterday._ |
 | «Comunque, prof a parte, io il dibattito lo vinco.» | “**Anyway**, teacher aside, I'm winning that debate.” |
 | «Ah sì?» | “Oh yes?” |
 | «Sì. Perché io porto esempi veri.» | “Yes. Because I bring real examples.” |
@@ -345,7 +345,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Però lei non ha risposto!» | “But you didn't answer!” |
 | «Sono una donna sposata. Non rispondo a queste domande.» | “I'm a married woman. I don't answer these questions.” |
 | Emma ride, poi si ricorda di qualcosa e smette. | Emma laughs, then remembers something and stops. |
-| «Mamma, posso **raccontare** una cosa strana?» | “Mum, can I **tell** you something strange?” |
+| «Mamma, posso **raccontare** una cosa strana?» | “Mom, can I **tell** you something strange?” |
 | «Racconta.» | “Tell me.” |
 | «Papà è strano da tre giorni. Tre giorni esatti.» | “Dad's been strange for three days. Exactly three days.” |
 | «Strano come?» | “Strange how?” |
@@ -365,7 +365,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara non risponde subito. | Chiara doesn't answer right away. |
 | _Una notizia importante. Se è una notizia, perché non me l'ha raccontata?_ | _Important news. If it's news, why hasn't he told me?_ |
 | «Magari è solo stanco. Ha il turno presto al bar.» | “Maybe he's just tired. He has the early shift at the bar.” |
-| «Mamma, tu lo difendi sempre.» | “Mum, you always defend him.” |
+| «Mamma, tu lo difendi sempre.» | “Mom, you always defend him.” |
 | «Non lo difendo. Lo conosco.» | “I'm not defending him. I know him.” |
 | «Anch'io lo conosco.» «E ti dico che c'è qualcosa.» | “I know him too.” “And I'm telling you there's something.” |
 | Arrivano davanti al cancello di casa e Bianca saluta. | They arrive in front of the house gate and Bianca says goodbye. |
@@ -374,7 +374,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Vengo! Porto il dolce.» | “I'll come! I'll bring dessert.” |
 | Bianca corre via e le due restano sole davanti al cancello. | Bianca runs off and the two of them are left alone in front of the gate. |
 | Emma apre la porta e si volta. | Emma opens the door and turns around. |
-| «Mamma, una cosa sola.» | “Mum, just one thing.” |
+| «Mamma, una cosa sola.» | “Mom, just one thing.” |
 | «Dimmi.» | “Tell me.” |
 | «La mia **carriera** sarà qui. In Italia. Non in America.» «Questo lo dico adesso, così dopo non ci sono sorprese.» | “My **career** will be here. In Italy. Not in America.” “I'm saying it now, so there are no surprises later.” |
 | Chiara guarda sua figlia e sente un rumore strano nella testa. | Chiara looks at her daughter and hears a strange noise in her head. |

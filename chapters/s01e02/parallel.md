@@ -231,7 +231,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Buongiorno, Leo» dice Franco. | "Good morning, Leo," says Franco. |
 | Franco apre il sacchetto e mostra il **pane**. | Franco opens the bag and shows the **bread**. |
 | «**Pane** caldo. Per il **pranzo**» dice. | "Warm **bread**. For the **lunch**," he says. |
-| «Il **pane** è il mio preferito» dice Leo. | "The **bread** is my favourite," says Leo. |
+| «Il **pane** è il mio preferito» dice Leo. | "The **bread** is my favorite," says Leo. |
 | «Il **pane** è di tutti» dice. «È la base.» | "The **bread** is everyone's," says Franco. "It's the base." |
 | Dietro Leo arriva Kevin. | Behind Leo comes Kevin. |
 | Kevin ha il **quaderno** giallo in mano. | Kevin has the yellow **notebook** in his hand. |

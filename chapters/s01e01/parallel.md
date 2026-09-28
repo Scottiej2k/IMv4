@@ -57,7 +57,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Con mia moglie e i miei figli.» | “With my wife and my children.” |
 | «**Benvenuto** in Via dei Tigli, signor Carter» dice Ornella. | “**Welcome** to Via dei Tigli, Mr Carter,” says Ornella. |
 | «**Grazie**, signora» dice Kevin. | “**Thank you**, madam,” says Kevin. |
-| _Tre frasi e una **vicina**. Perfetto._ | _Three sentences and a **neighbour**. Perfect._ |
+| _Tre frasi e una **vicina**. Perfetto._ | _Three sentences and a **neighbor**. Perfect._ |
 | Un **gatto** grigio salta sulla **finestra**. | A grey **cat** jumps onto the **window**. |
 | «Questo **gatto** è di **casa**?» chiede Kevin. | “Is this **cat** from the **house**?” asks Kevin. |
 | «Lui è Pavarotti. È il **gatto** di **casa**» dice Ornella. | “He's Pavarotti. He's the **house** **cat**,” says Ornella. |
@@ -81,7 +81,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ma **parla** con tutti.» | “But he **talks** to everyone.” |
 | Kevin arriva e sorride. | Kevin arrives and smiles. |
 | «**Buongiorno**! **Mi chiamo** Kevin.» | “**Good morning**! **My name is** Kevin.” |
-| «**Sono** **americano**. **Sono** un **vicino** **nuovo**.» | “**I'm** **American**. **I'm** a **new** **neighbour**.” |
+| «**Sono** **americano**. **Sono** un **vicino** **nuovo**.» | “**I'm** **American**. **I'm** a **new** **neighbor**.” |
 | «Sì» dice Franco. «**Ciao**.» | “Yes,” says Franco. “**Hi**.” |
 | Franco guarda Leo. | Franco looks at Leo. |
 | «**Ciao**, bambino» dice Franco. | “**Hi**, kid,” says Franco. |
@@ -92,9 +92,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi la **signora** chiude la **finestra**. | Then the **lady** closes the **window**. |
 | Leo prende la mano di Kevin. | Leo takes Kevin's hand. |
 | «**Ciao**, nonno Franco!» dice Leo alla porta. | “**Hi**, Grandpa Franco!” says Leo at the door. |
-| «Papà, tu **sei** un **vicino** adesso?» | “Dad, **are** you a **neighbour** now?” |
-| «Sì, Leo. **Sono** un **vicino**» dice Kevin. | “Yes, Leo. **I'm** a **neighbour**,” says Kevin. |
-| «Un **vicino** **nuovo**, con tre frasi.» | “A **new** **neighbour**, with three sentences.” |
+| «Papà, tu **sei** un **vicino** adesso?» | “Dad, **are** you a **neighbor** now?” |
+| «Sì, Leo. **Sono** un **vicino**» dice Kevin. | “Yes, Leo. **I'm** a **neighbor**,” says Kevin. |
+| «Un **vicino** **nuovo**, con tre frasi.» | “A **new** **neighbor**, with three sentences.” |
 | Chiara guarda il furgone. | Chiara looks at the van. |
 | «Kevin, il furgone è nel **parcheggio**?» chiede. | “Kevin, is the van in the **parking space**?” she asks. |
 | «Sì. È un **parcheggio** grande» dice Kevin. | “Yes. It's a big **parking space**,” says Kevin. |
@@ -124,9 +124,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E Lei **è**...?» | “And **are** you...?” |
 | «Roberto Colombo» dice l'uomo. | “Roberto Colombo,” says the man. |
 | «**Abito** al numero undici.» | “**I live** at number eleven.” |
-| «**Sono** il presidente del comitato di **vicini**.» | “**I am** the president of the **neighbours**' committee.” |
+| «**Sono** il presidente del comitato di **vicini**.» | “**I am** the president of the **neighbors**' committee.” |
 | «**Piacere**, signor Colombo» dice Kevin. | “**Pleasure**, Mr Colombo,” says Kevin. |
-| «Lei **è** un **vicino** **nuovo**?» | “**Are** you a **new** **neighbour**?” |
+| «Lei **è** un **vicino** **nuovo**?» | “**Are** you a **new** **neighbor**?” |
 | «Sì. **Abito** qui con la mia famiglia.» | “Yes. **I live** here with my family.” |
 | «**Siamo** al numero quattordici.» | “**We're** at number fourteen.” |
 | «Io e mia moglie. E i bambini.» | “Me and my wife. And the kids.” |
@@ -190,12 +190,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | La **casa** è ancora piena di scatole. | The **house** is still full of boxes. |
 | In cucina c'è una torta e un biglietto. | In the kitchen there's a cake and a note. |
 | Sul biglietto c'è una parola: «**Benvenuti**! Ornella». | On the note there's a word: “**Welcome**! Ornella.” |
-| «Ornella è la **vicina** del numero sedici» dice Chiara. | “Ornella is the **neighbour** from number sixteen,” says Chiara. |
+| «Ornella è la **vicina** del numero sedici» dice Chiara. | “Ornella is the **neighbor** from number sixteen,” says Chiara. |
 | «La **signora** con la **finestra** bianca?» chiede Kevin. | “The **lady** with the white **window**?” asks Kevin. |
 | «Sì. E il **gatto** si chiama Pavarotti» dice Chiara. | “Yes. And the **cat** is called Pavarotti,” says Chiara. |
 | «**Buonasera**!» dice Leo con la bocca piena di torta. | “**Good evening**!” says Leo with his mouth full of cake. |
 | «Leo, **per favore**» dice Chiara. | “Leo, **please**,” says Chiara. |
-| «Mamma, domani è il primo **giorno** di **scuola**?» chiede Leo. | “Mum, is tomorrow the first **day** of **school**?” asks Leo. |
+| «Mamma, domani è il primo **giorno** di **scuola**?» chiede Leo. | “Mom, is tomorrow the first **day** of **school**?” asks Leo. |
 | «Sì. Domani è lunedì» dice Chiara. | “Yes. Tomorrow is Monday,” says Chiara. |
 | «Io sono **nuovo** nella **classe**?» | “Am I **new** in the **class**?” |
 | «Sì, tesoro. Tu sei **nuovo**.» | “Yes, sweetie. You are **new**.” |
@@ -337,7 +337,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «La **scuola** è grande?» chiede Chiara. | “Is the **school** big?” asks Chiara. |
 | «Non lo so» dice Emma. | “I don't know,” says Emma. |
 | «Ma tu sei **italiana**, Emma» dice Chiara. | “But you're **Italian**, Emma,” says Chiara. |
-| «Sono **americana**, mamma» dice Emma. | “I'm **American**, mum,” says Emma. |
+| «Sono **americana**, mamma» dice Emma. | “I'm **American**, mom,” says Emma. |
 | «Sei **americana** e **parli** **italiano**.» | “You're **American** and you **speak** **Italian**.” |
 | Una ragazza arriva di corsa. | A girl arrives running. |
 | Ha una borsa rossa e un sorriso grande. | She has a red bag and a big smile. |
@@ -352,7 +352,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì» dice Emma. | “Yes,” says Emma. |
 | Chiara guarda Emma e poi Bianca. | Chiara looks at Emma and then at Bianca. |
 | «Buongiorno, Bianca» dice Chiara. | “Good morning, Bianca,” says Chiara. |
-| «Io sono la mamma di Emma.» | “I'm Emma's mum.” |
+| «Io sono la mamma di Emma.» | “I'm Emma's mom.” |
 | «Piacere, signora!» dice Bianca. | “Pleasure, madam!” says Bianca. |
 | «Emma è **nuova** nella **classe**?» | “Is Emma **new** in the **class**?” |
 | «Sì. È il suo primo **giorno**» dice Chiara. | “Yes. It's her first **day**,” says Chiara. |
@@ -384,7 +384,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara guarda il treno e sorride. | Chiara looks at the train and smiles. |
 | «Emma!» dice Chiara dalla banchina. | “Emma!” says Chiara from the platform. |
 | «Emma! Tu dici **ciao** a Bianca?» | “Emma! Do you say **hi** to Bianca?” |
-| «**Ciao**, mamma» dice Emma. | “**Hi**, mum,” says Emma. |
+| «**Ciao**, mamma» dice Emma. | “**Hi**, mom,” says Emma. |
 | «Bene. Tu dici **ciao**.» | “Good. You say **hi**.” |
 | «Sì. Io dico **ciao**.» | “Yes. I say **hi**.” |
 | Emma ride. | Emma laughs. |
@@ -410,7 +410,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Lei fa la spesa da solo?» | “Do you do the shopping by yourself?” |
 | «Sì. Io **abito** qui e faccio la spesa» dice Kevin. | “Yes. I **live** here and I do the shopping,” says Kevin. |
 | Ornella sorride. | Ornella smiles. |
-| «Lei **è** un **vicino** gentile, signor Carter» dice lei. | “You **are** a kind **neighbour**, Mr Carter,” she says. |
+| «Lei **è** un **vicino** gentile, signor Carter» dice lei. | “You **are** a kind **neighbor**, Mr Carter,” she says. |
 | «**Grazie**, signora» dice Kevin. | “**Thank you**, madam,” says Kevin. |
 | «**Piacere** mio.» | “My **pleasure**.” |
 | «Lei **parla** bene adesso» dice Ornella. | “You **speak** well now,” says Ornella. |
@@ -451,7 +451,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Benvenuto** Pietro, allora» dice Kevin. | “**Welcome** Pietro, then,” says Kevin. |
 | Ornella chiude la **finestra**. | Ornella closes the **window**. |
 | Il **gatto** dorme sul muro. | The **cat** sleeps on the wall. |
-| _Tre frasi. Ma oggi **parlo** con tutti. E il **vicino** capisce._ | _Three sentences. But today I **talk** to everyone. And the **neighbour** understands._ |
+| _Tre frasi. Ma oggi **parlo** con tutti. E il **vicino** capisce._ | _Three sentences. But today I **talk** to everyone. And the **neighbor** understands._ |
 | Kevin prende le borse e entra in **casa**. | Kevin takes the bags and goes into the **house**. |
 | Leo lo segue con i pomodori. | Leo follows him with the tomatoes. |
 
@@ -467,7 +467,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Dalla **finestra** vede la **strada**. | From the **window** he sees the **street**. |
 | Vede la **casa** numero quattordici. | He sees **house** number fourteen. |
 | Le luci sono accese. | The lights are on. |
-| C'è il **vicino** **nuovo** con la sua famiglia. | There's the **new** **neighbour** with his family. |
+| C'è il **vicino** **nuovo** con la sua famiglia. | There's the **new** **neighbor** with his family. |
 | Franco beve un bicchiere d'acqua. | Franco drinks a glass of water. |
 | «Mah» dice. | “Mah,” he says. |
 | La **strada** è tranquilla. | The **street** is quiet. |

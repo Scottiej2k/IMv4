@@ -25,7 +25,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **scegliere**<br>(v.) · to choose | «Bravo. **Scegliere** è importante.» | “Good. **Choosing** is important.” |
 | **rispondere**<br>(v.) · to reply, to answer | Ti **rispondo** venerdì con una decisione chiara. | I'll **reply** on Friday with a clear decision. |
 | **guadagnare**<br>(v.) · to earn | _Il doppio. In dollari, questo vuol dire **guadagnare** molto bene._ | _Double. In dollars, that means **earning** very well._ |
-| **raccontare**<br>(v.) · to tell | «Mamma, posso **raccontare** una cosa strana?» | “Mum, can I **tell** you something strange?” |
+| **raccontare**<br>(v.) · to tell | «Mamma, posso **raccontare** una cosa strana?» | “Mom, can I **tell** you something strange?” |
 
 ## Nouns
 
