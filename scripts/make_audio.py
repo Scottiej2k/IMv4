@@ -274,6 +274,12 @@ def main():
                 for tok in s.get("tokens", []) if tok[1] >= 0)
     print(f"{args.chapter}: {t / 60:.1f} min of audio, {len(mp3) / 1e6:.1f} MB mp3, "
           f"{len(words)}/{shown} words timed → chapters/{args.chapter}/audio/")
+    # Audio isn't kept in git: store it in R2 right away (scripts/storage.py).
+    import storage
+    if storage.configured():
+        storage.push(args.chapter)
+    else:
+        print("  warning: R2 isn't set up, so this audio exists only in this workspace (scripts/storage.py)")
 
 
 if __name__ == "__main__":

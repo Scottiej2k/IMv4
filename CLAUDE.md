@@ -89,7 +89,11 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   audio (docs/read-along.md). `scripts/make_audio.py` makes a chapter's MP3 + timing.json with
   Gemini 3.8 Flash TTS **through OpenRouter** (`/api/v1/audio/speech`; style goes in
   `provider.options["google-ai-studio"].speech_metadata`, `instructions` is ignored). S1E1 has
-  real audio in the reader (35 min, about $0.30). Audio isn't in git: regenerate it.
+  real audio in the reader (35 min, about $0.30). Audio isn't in git: it lives in **Cloudflare R2**
+  (`scripts/storage.py`: `status`, `push <id>|--all`, `pull <id>|--all`; make_audio.py pushes each
+  chapter when done). Needs R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY (optional R2_BUCKET,
+  default input-masters-italian) in the environment, and <account>.r2.cloudflarestorage.com allowed.
+  Pull before build_reader.py/export_app.py in a new session. Raw clips stay local (too big).
 - **Voices cast by the owner** (casting page https://claude.ai/artifact/HuGt1bgXgNFkidbkhtGZ1T,
   `scripts/audition.py`): Narratore Charon, Kevin Puck + American accent fading by level, Chiara
   Callirrhoe, Emma Autonoe, Leo Leda, Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
