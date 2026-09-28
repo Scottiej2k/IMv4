@@ -6,17 +6,17 @@
 <style>
 :root {
   --bg: #F1F4EE; --surface: #FFFFFF; --ink: #1B2620; --muted: #5B6A61; --line: #D9E0D3;
-  --accent: #2F6B4F; --accent-ink: #FFFFFF; --accent-soft: #E1ECE3; --sun: #A86F0E; --sun-soft: #F6EAD0;
+  --accent: #2F6B4F; --accent-ink: #FFFFFF; --accent-soft: #E1ECE3; --sun: #A86F0E; --sun-soft: #F6EAD0; --stop: #B3261E; --stop-ink: #FFFFFF;
   --display: "Young Serif", Georgia, serif;
   --read: "Literata", Georgia, "Times New Roman", serif;
   --ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) { --bg: #0F1411; --surface: #161D19; --ink: #E3E9E4; --muted: #95A39A; --line: #28332D;
-    --accent: #7CC29C; --accent-ink: #0F1411; --accent-soft: #1D2C24; --sun: #E2B35A; --sun-soft: #3A2E17; color-scheme: dark; }
+    --accent: #7CC29C; --accent-ink: #0F1411; --accent-soft: #1D2C24; --sun: #E2B35A; --sun-soft: #3A2E17; --stop: #E0605A; --stop-ink: #1B0F0E; color-scheme: dark; }
 }
 :root[data-theme="dark"] { --bg: #0F1411; --surface: #161D19; --ink: #E3E9E4; --muted: #95A39A; --line: #28332D;
-  --accent: #7CC29C; --accent-ink: #0F1411; --accent-soft: #1D2C24; --sun: #E2B35A; --sun-soft: #3A2E17; color-scheme: dark; }
+  --accent: #7CC29C; --accent-ink: #0F1411; --accent-soft: #1D2C24; --sun: #E2B35A; --sun-soft: #3A2E17; --stop: #E0605A; --stop-ink: #1B0F0E; color-scheme: dark; }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--ui); font-size: 15px; line-height: 1.55; }
 button, select, input { font: inherit; color: inherit; }
@@ -132,13 +132,13 @@ footer.foot button { background: none; border: 0; color: var(--muted); text-deco
 .timer { display: inline-flex; align-items: center; gap: 8px; padding: 4px 6px 4px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-variant-numeric: tabular-nums; }
 .timer .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
 .timer.on .dot { background: var(--accent); }
-.timer.auto { border-color: var(--sun); }
+.timer button.paused { background: var(--stop); color: var(--stop-ink); }
 .timer button { border: 0; background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 2px 10px; font-size: 12.5px; font-weight: 600; }
 .timer.listen { padding-right: 12px; }
-.tnote { flex-basis: 100%; text-align: right; font-size: 12.5px; color: var(--sun); }
 .chhead h1 { font-family: var(--display); font-weight: 400; font-size: clamp(28px, 4vw, 38px); line-height: 1.12; margin: 6px 0 2px; }
 .chhead .g { color: var(--muted); }
-.tablist { display: flex; gap: 2px; overflow-x: auto; max-width: 100%; }
+.tablist { display: flex; gap: 2px; flex: 0 0 auto; max-width: 100%; overflow-x: auto; overflow-y: hidden; scrollbar-width: none; }
+.tablist::-webkit-scrollbar { display: none; }
 .tabs { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; border-bottom: 1px solid var(--line); margin-top: 18px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--topbar, 58px)); z-index: 20; background: var(--bg); }
 .tab { background: none; border: 0; padding: 10px 14px; color: var(--muted); border-bottom: 2px solid transparent; margin-bottom: -1px; white-space: nowrap; font-weight: 500; }
 .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
@@ -223,7 +223,6 @@ tr.known td.lemma { color: var(--accent); }
   .story { font-size: 17px; padding: 24px 18px 36px; }
   .prow { grid-template-columns: 1fr; gap: 2px; }
   .timers { margin-left: 0; padding-block: 2px 8px; }
-  .tnote { text-align: left; }
 }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
 </style>
@@ -586,13 +585,12 @@ tr.known td.lemma { color: var(--accent); }
     render() {
       if (view !== "chapter" || !data) return;
       const pc = Progress.ch(cur), r = this.reading(), l = this.listening();
-      const readBtn = this.manual ? "Resume" : "Pause";
-      $("timers").innerHTML = `<span class="timer${r ? " on" : ""}${this.idle() ? " auto" : ""}" title="Reading time for this episode"><span class="dot"></span>Reading <b>${clockLong(pc.read)}</b><button id="read-toggle">${readBtn}</button></span>` +
-        (data.timing ? `<span class="timer listen${l ? " on" : ""}" title="Listening time for this episode"><span class="dot"></span>Listening <b>${clockLong(pc.listen)}</b></span>` : "") +
-        (this.idle() ? `<span class="tnote">Reading timer paused: no activity for 2 minutes. Scroll or tap to carry on.</span>` : this.manual ? `<span class="tnote">Reading timer paused.</span>` : "");
+      const paused = this.manual || this.idle();
+      $("timers").innerHTML = `<span class="timer${r ? " on" : ""}" title="${this.idle() ? "Paused after 2 minutes without activity" : "Reading time for this episode"}"><span class="dot"></span>Reading <b>${clockLong(pc.read)}</b><button id="read-toggle" class="${paused ? "paused" : ""}">${paused ? "Resume" : "Pause"}</button></span>` +
+        (data.timing ? `<span class="timer listen${l ? " on" : ""}" title="Listening time for this episode"><span class="dot"></span>Listening <b>${clockLong(pc.listen)}</b></span>` : "");
     },
   };
-  for (const ev of ["pointerdown", "wheel", "touchmove", "keydown"]) addEventListener(ev, () => { const was = Timers.idle(); Timers.lastAct = Date.now(); if (was) Timers.render(); }, { passive: true });
+  for (const ev of ["pointerdown", "wheel", "touchmove", "keydown"]) addEventListener(ev, () => { const was = Timers.idle(); Timers.lastAct = Date.now(); if (was) { Timers.wokeAt = Date.now(); Timers.render(); } }, { passive: true });
   setInterval(() => {
     const now = performance.now(), dt = Math.min(2, (now - Timers.last) / 1000);
     Timers.last = now;
@@ -713,7 +711,11 @@ tr.known td.lemma { color: var(--accent); }
     const t = e.target;
     if (t.id === "m-bg" || t.id === "m-close") return closeModal();
     if (t.id === "m-sim") { P().unlocked = !P().unlocked; Progress.touch(); Progress.save(true); closeModal(); renderNav(); if (view === "home") renderHome(); if (view === "chapter" && cur) openChapter(cur); return; }
-    if (t.id === "read-toggle") { Timers.manual = !Timers.manual; Timers.lastAct = Date.now(); return Timers.render(); }
+    if (t.id === "read-toggle") {
+      // Pressing Resume after an automatic pause: the press itself already restarted the timer.
+      if (!Timers.manual && Date.now() - (Timers.wokeAt || 0) < 1500) return Timers.render();
+      Timers.manual = !Timers.manual; Timers.lastAct = Date.now(); return Timers.render();
+    }
     if (t.id === "reset") { stopPlayer(); Progress.reset(); return go("landing"); }
     if (t.id === "anki-dl") return downloadAnki();
     const g = t.closest("[data-go]"); if (g) return go(g.dataset.go);
