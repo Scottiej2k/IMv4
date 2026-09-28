@@ -423,11 +423,15 @@ def render_anki(chapter):
 # ---------------------------------------------------------------- TTS
 
 def piece_style(chapter, own, speaker=None):
-    """Short style only: the level's pace, the character's accent if any (Kevin's, which fades by
+    """Short style only: the level's pace (or the speaker's own, pace_by_level), the character's accent if any (Kevin's, which fades by
     level; the owner chose it in the casting), and the line's own delivery. Google: persona text
     (age, character) in `style` makes voices drift; it belongs in the voice itself."""
-    accent = VOICES["voices"].get(speaker, {}).get("accent_by_level", {}).get(chapter["level"], "")
-    parts = [VOICES["level_styles"].get(chapter["level"], ""), accent, own or ""]
+    voice = VOICES["voices"].get(speaker, {})
+    accent = voice.get("accent_by_level", {}).get(chapter["level"], "")
+    # The narrator has its own pace at A1/A2 (the owner's pick, 2026-09-28): the level's "slowly"
+    # made the narration drag, far more than it slows the characters.
+    pace = voice.get("pace_by_level", {}).get(chapter["level"], VOICES["level_styles"].get(chapter["level"], ""))
+    parts = [pace, accent, own or ""]
     return ", ".join(p for p in parts if p)
 
 

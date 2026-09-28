@@ -11,7 +11,11 @@
     "narrator": {
       "name": "Narratore",
       "voice": "Charon",
-      "style": "warm, friendly storyteller, gently amused"
+      "style": "warm, friendly storyteller, gently amused",
+      "pace_by_level": {
+        "A1": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural",
+        "A2": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+      }
     },
     "ben": {
       "name": "Kevin",

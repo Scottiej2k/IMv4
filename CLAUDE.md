@@ -86,6 +86,9 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   `scripts/audition.py`): Narratore Charon, Kevin Puck + American accent fading by level, Chiara
   Callirrhoe, Emma Autonoe, Leo Leda, Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
   Aoede, Roberto Orus (config/voices.json).
+  The narrator has its own pace at A1/A2 (`pace_by_level`: "calm, unhurried"; the level's "slowly"
+  made narration drag). Chosen on the narrator page https://claude.ai/artifact/MYc7LU4WWCCi5PY6CVyQ2g
+  (`scripts/narrator_audition.py`). S1E1 audio remade with it: 29.6 min (was 35).
 - Dialogue target is 45–60% for the book format (owner, 2026-09-26).
 - Vocabulary per chapter: A1 22–30 · A2 20–28 · B1 18–26 · B2 15–21, about 4,300 words by the end
   of B2 (B2 is commonly put at ~4,000 known). The outline is sent back if it re-teaches a word from
