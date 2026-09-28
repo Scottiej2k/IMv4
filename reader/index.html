@@ -99,6 +99,8 @@ mark.v { background: none; color: inherit; font-weight: 700; }
 .pbar .play { background: var(--accent); color: var(--surface); border-color: var(--accent); font-weight: 600; min-width: 92px; }
 .pbar .play:hover { background: var(--accent); opacity: .9; }
 .pbar .msg { flex: 1 1 220px; }
+.dl { font-size: 13px; font-weight: 600; padding: 7px 12px; border-radius: 6px; border: 1px solid var(--accent); background: var(--accent); color: var(--surface); cursor: pointer; }
+.dl:hover { opacity: .9; }
 .pbar .speed { display: inline-flex; gap: 6px; align-items: center; }
 .pbar select { font: inherit; font-size: 13px; padding: 5px 6px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
 .fmtnote { font-size: 13px; color: var(--warn); background: var(--warn-soft); padding: 6px 10px; border-radius: 6px; max-width: 64ch; margin-bottom: 12px; }
@@ -294,7 +296,9 @@ td .ext { color: var(--muted); font-size: 13px; }
     const segs = segIndex();
     const uses = {};
     for (const s of Object.values(segs)) for (const f of s.focus || []) uses[f] = (uses[f] || 0) + 1;
-    $("tools").innerHTML = `<span>“Uses” counts sentences where the item is bolded; the target is at least 3.</span>`;
+    $("tools").innerHTML = data.anki
+      ? `<button class="dl" id="anki-dl">⬇ Download Anki deck</button><span>A CSV file: in Anki, choose File → Import and pick it. Each card shows the word in a sentence from the story.</span>`
+      : "";
     const rows = data.chapter.vocab.map((v) => {
       const ex = segs[v.example];
       const n = uses[v.id] || 0;
@@ -303,6 +307,18 @@ td .ext { color: var(--muted); font-size: 13px; }
         <td class="num">${n < 3 ? `<span class="chip warn">${n}</span>` : n}</td></tr>`;
     }).join("");
     return `<div class="tablewrap"><table><thead><tr><th>Italian</th><th>Type</th><th>English</th><th>Example from the story</th><th style="text-align:right">Uses</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+  }
+
+  // The chapter's Anki deck (anki.csv: Anki's own CSV headers, HTML bold). The page can only offer a
+  // file through the downloads capability; without it the button explains itself.
+  async function downloadAnki() {
+    const c = INDEX.chapters.find((x) => x.id === cur);
+    const name = `Via dei Tigli ${cur.toUpperCase()} ${c.title.it}.csv`.replace(/[\\/:*?"<>|]/g, "");
+    const dl = await window.claude?.use?.("downloads");
+    const tell = (msg) => { const s = document.querySelector("#tools span"); if (s) s.textContent = msg; };
+    if (!dl) return tell("Downloads aren't available in this view.");
+    try { await dl.save({ filename: name, data: data.anki }); tell("Saved. In Anki: File → Import, then pick the file."); }
+    catch (e) { if (e && e.code !== "declined") tell("Couldn't save the file (" + (e.code || "error") + ")."); }
   }
 
   function grammar() {
@@ -603,6 +619,7 @@ td .ext { color: var(--muted); font-size: 13px; }
   document.addEventListener("click", (e) => {
     const ch = e.target.closest(".ch"); if (ch) return open(ch.dataset.id);
     const tb = e.target.closest(".tab"); if (tb) { tab = tb.dataset.tab; store.set("tab", tab); return renderPanel(); }
+    if (e.target.closest("#anki-dl")) return downloadAnki();
     const act = e.target.closest("[data-act]"); if (act) return playerAction(act.dataset.act, act.dataset.seg);
     const sg = e.target.closest(".seg"); if (sg) return openPop(sg, e);
     closePop();

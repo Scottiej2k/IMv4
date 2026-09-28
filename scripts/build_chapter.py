@@ -37,7 +37,10 @@ WORD_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ]+(?:'[A-Za-zÀ-ÖØ-öø-ÿ]+)?")
 
 # Story length targets in Italian words (docs/production-spec.md §1).
 WORD_TARGETS = {"A1": (2700, 3200), "A2": (3600, 4200), "B1": (4800, 5500), "B2": (6000, 7000)}
-FOCUS_ITEMS = {"A1": (20, 30), "A2": (25, 35), "B1": (30, 40), "B2": (35, 45)}
+# New vocabulary per chapter, sized so the course teaches about 4,300 words by the end of B2
+# (A1 ~650, A2 ~1,850, B1 ~2,950 cumulative; B2 is commonly put at about 4,000 words known).
+FOCUS_ITEMS = {"A1": (22, 30), "A2": (20, 28), "B1": (18, 26), "B2": (15, 21)}
+VOCAB_MILESTONES = {"A1": 650, "A2": 1850, "B1": 2950, "B2": 4300}
 DIALOGUE_SHARE = (0.45, 0.60)  # book format: tags and description count as narration
 
 # TTS chunking limits (docs/tts-format.md).

@@ -95,6 +95,17 @@ def main():
     rows = build_lexicon(chapters)
     n = build_log(chapters)
     print(f"lexicon: {len(rows)} items from {len(chapters)} chapter(s) · continuity log: {n} entr{'y' if n == 1 else 'ies'}")
+    # Running total against the course's milestones (build_chapter.VOCAB_MILESTONES).
+    by_level = {}
+    for r in rows:
+        by_level[r["level"]] = by_level.get(r["level"], 0) + 1
+    total, parts = 0, []
+    for lv, goal in cd.bc.VOCAB_MILESTONES.items():
+        total += by_level.get(lv, 0)
+        if by_level.get(lv):
+            parts.append(f"{lv}: {total} so far (goal by end of {lv}: {goal})")
+    if parts:
+        print("vocabulary: " + " · ".join(parts))
 
 
 if __name__ == "__main__":

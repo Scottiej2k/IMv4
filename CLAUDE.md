@@ -87,6 +87,11 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   Callirrhoe, Emma Autonoe, Leo Leda, Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
   Aoede, Roberto Orus (config/voices.json).
 - Dialogue target is 45–60% for the book format (owner, 2026-09-26).
+- Vocabulary per chapter: A1 22–30 · A2 20–28 · B1 18–26 · B2 15–21, about 4,300 words by the end
+  of B2 (B2 is commonly put at ~4,000 known). The outline is sent back if it re-teaches a word from
+  an earlier chapter; `update_logs.py` prints the running total against the milestones.
+- Reader: learner tabs only (Vocabulary, Grammar, Story, Side by side), speed control, and an Anki
+  CSV download in Vocabulary (the page declares the `downloads` capability; .apkg isn't allowed).
 - TTS: checked against Google's docs (docs/tts-format.md). Styles are short: level pace, Kevin's
   accent, the line's delivery.
 - Known: the S5E3 plan sets the chapter in late January though S5 runs Sept–Feb (owner to decide).

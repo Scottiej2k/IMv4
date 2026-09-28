@@ -45,6 +45,16 @@ def italian_words(scene_text):
     return n
 
 
+def taught_before(cid):
+    """Lemmas (normalised) that earlier chapters already taught, from curriculum/lexicon.csv."""
+    path = ROOT / "curriculum" / "lexicon.csv"
+    if not path.exists():
+        return set()
+    import csv
+    with path.open(encoding="utf-8") as fh:
+        return {convert_draft.norm(r["lemma"]) for r in csv.DictReader(fh) if r["introduced"] < cid}
+
+
 def bold_mismatch(scene_text):
     """(lines with bold in the Italian, how many of those have fewer bold spans in the English)."""
     bolded = unmatched = 0
@@ -236,6 +246,18 @@ Return only the scene: the heading line exactly as above, then its lines in the 
             (self.work / f"outline-unreadable-{n}.txt").write_text(answer + "\n", encoding="utf-8")
             self.state["retry"] = ("Your outline couldn't be read (it needs an @vocab … @end block and at least "
                                    "3 scenes under @outline, each starting with '# SCENE').")
+            return
+        # Words taught in earlier chapters are never focus items again (they'd waste a slot).
+        taught = taught_before(self.cid)
+        again = [ln.split("|")[0].strip() for ln in vocab.group(1).splitlines()
+                 if "|" in ln and convert_draft.norm(ln.split("|")[0]) in taught]
+        if again and not self.state.get("vocab_retry"):
+            self.state["vocab_retry"] = True
+            self.state["retry"] = ("These vocabulary items were already taught in earlier chapters: "
+                                   + ", ".join(again) + ". Replace each with a new word or expression "
+                                   "(the old ones may still appear in the story, unbolded). Return the whole "
+                                   "outline again, in the same shape.")
+            print(f"  outline re-teaches {len(again)} earlier word(s); sent back")
             return
         total = sum(s["words"] for s in scenes)
         if not 0.9 * self.lo <= total <= 1.1 * self.hi:
