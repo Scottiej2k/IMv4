@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact · Input Masters</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Young+Serif&display=swap">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<!-- The form posts JSON to /api/contact, which the app server answers with app/server/contact.js
+     (it emails the owner; the address lives in a server secret, never in this page). -->
+<div class="wrap">
+  <header class="top"><a href="index.html">Input Masters · Italian</a></header>
+  <main>
+    <h1>Contact us</h1>
+    <p class="lede">Questions about your account, your subscription or the course? Send us a message and we'll reply by email.</p>
+
+    <form class="card" id="contact" novalidate>
+      <div class="field">
+        <label for="name">Your name</label>
+        <input id="name" name="name" autocomplete="name" maxlength="100" required>
+      </div>
+      <div class="field">
+        <label for="email">Your email</label>
+        <input id="email" name="email" type="email" autocomplete="email" maxlength="200" required>
+        <div class="hint">We'll only use it to reply to you.</div>
+      </div>
+      <div class="field">
+        <label for="topic">What's it about?</label>
+        <select id="topic" name="topic">
+          <option>Account and sign-in</option>
+          <option>Subscription and billing</option>
+          <option>The course content</option>
+          <option>Privacy and my data</option>
+          <option>Something else</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" maxlength="5000" required></textarea>
+      </div>
+      <!-- Spam trap: people never see this field, bots fill it in. -->
+      <div class="hp" aria-hidden="true"><label for="website">Website</label><input id="website" name="website" tabindex="-1" autocomplete="off"></div>
+      <button class="btn" type="submit" id="send">Send message</button>
+      <div class="status" id="status" role="status" aria-live="polite"></div>
+    </form>
+  </main>
+  <footer class="foot"><span>Input Masters · Italian</span><span><a href="privacy.html">Privacy</a> · <a href="contact.html">Contact</a></span></footer>
+</div>
+<script>
+(() => {
+  const form = document.getElementById("contact"), btn = document.getElementById("send"), status = document.getElementById("status");
+  const show = (cls, text) => { status.className = "status " + cls; status.textContent = text; };
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const data = Object.fromEntries(new FormData(form));
+    if (!data.name.trim() || !data.message.trim()) return show("err", "Please fill in your name and your message.");
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(data.email.trim())) return show("err", "Please check your email address.");
+    btn.disabled = true; btn.textContent = "Sending…";
+    try {
+      const r = await fetch("/api/contact", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(data) });
+      const out = await r.json().catch(() => ({}));
+      if (r.ok && out.ok) { form.reset(); show("ok", "Thanks! Your message is on its way. We'll reply by email."); }
+      else show("err", out.error || "Sorry, your message couldn't be sent. Please try again in a few minutes.");
+    } catch {
+      show("err", "Sorry, your message couldn't be sent. Please check your connection and try again.");
+    } finally { btn.disabled = false; btn.textContent = "Send message"; }
+  });
+})();
+</script>
+</body>
+</html>

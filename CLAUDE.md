@@ -72,6 +72,8 @@ hand-off in `docs/app-spec.md`. `python3 scripts/export_app.py` writes the conte
 Accounts and payment (owner, 2026-09-28; `docs/app-spec.md` §5): Clerk sign-in (email + Google); a Stripe
 subscription, monthly or yearly, no trial, access until the end of the paid period after cancelling; free = the
 first episode of each level (S1E1, S2E1, S4E1, S6E1). Code goes in GitHub, Replit pulls and runs it.
+Privacy and contact pages: `app/privacy.html`, `app/contact.html` (form → `app/server/contact.js` → email).
+Everything left before launch: `docs/launch-checklist.md`.
 
 Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review),
 `build_curriculum.py` (validates plans, regenerates the overview), `update_logs.py`.
@@ -90,9 +92,9 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   underlined, play from any sentence, resume. Content is ready: word ids in every segment
   (`tokens`), word spans per TTS item; timings will come from forced alignment of the finished
   audio (docs/read-along.md). `scripts/make_audio.py` makes a chapter's MP3 + timing.json with
-  Gemini 3.8 Flash TTS **through OpenRouter** (`/api/v1/audio/speech`; style goes in
-  `provider.options["google-ai-studio"].speech_metadata`, `instructions` is ignored). S1E1 has
-  real audio in the reader (35 min, about $0.30). Audio isn't in git: it lives in **Cloudflare R2**
+  Gemini 3.8 Flash TTS **through OpenRouter** (Flash, not Flash Lite: owner, 2026-09-28; licensing checked OK) (`/api/v1/audio/speech`; style goes in
+  `provider.options["google-ai-studio"].speech_metadata`, `instructions` is ignored). S1E1 and S1E2 have
+  real audio (about $1.50 a chapter). Audio isn't in git: it lives in **Cloudflare R2**
   (`scripts/storage.py`: `status`, `push <id>|--all`, `pull <id>|--all`; make_audio.py pushes each
   chapter when done). Needs R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY (optional R2_BUCKET,
   default input-masters-italian) in the environment, and <account>.r2.cloudflarestorage.com allowed.
@@ -116,8 +118,7 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   CSV download in Vocabulary (the page declares the `downloads` capability; .apkg isn't allowed).
 - TTS: checked against Google's docs (docs/tts-format.md). Styles are short: level pace, Kevin's
   accent, the line's delivery.
-- Known: the S5E3 plan sets the chapter in late January though S5 runs Sept–Feb (owner to decide).
-  Continuity entries can over-reach or come out in Italian: skim them.
+- Known: continuity entries can over-reach or come out in Italian: skim them.
 
 ## Next steps
 

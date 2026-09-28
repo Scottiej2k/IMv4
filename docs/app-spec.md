@@ -172,6 +172,18 @@ keys in its Secrets panel; keys never go in git.
   make one real purchase.
 - **Prototype:** the prototype's "Simulate subscription" button is for testing and must not ship.
 
+## 5b. Site pages and contact form
+
+- `app/privacy.html`: boilerplate privacy policy. Fill the highlighted placeholders and have it
+  reviewed before launch.
+- `app/contact.html`: a form (name, email, topic, message, plus a hidden spam trap). It posts JSON
+  to `POST /api/contact`.
+- `app/server/contact.js`: that route. It validates the form, allows 5 messages per IP an hour and
+  emails the owner through Resend, with Reply going to the learner. It needs the secrets
+  `RESEND_API_KEY`, `CONTACT_TO` (the owner's inbox, never in the page) and `CONTACT_FROM` (a sender
+  on the verified domain).
+- Both pages share `app/site.css` and are linked from the footer.
+
 ## 6. Not in the prototype yet (ideas for later)
 
 - Syncing progress across devices (comes with accounts, §5).
