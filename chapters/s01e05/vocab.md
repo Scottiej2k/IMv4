@@ -27,7 +27,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **la nonna**<br>(n., f) · grandmother | «La mia **nonna** è lontana.» | “My **grandmother** is far away.” |
 | **il nipote**<br>(n., m) · grandchild<br>_*Nipote* means both "grandchild" and "nephew/niece"; in this chapter it is always a grandchild._ | «Tu sei un **nipote**.» | “You're a **grandchild**.” |
 | **i genitori**<br>(n., m) · parents | «E i tuoi **genitori**? Sono in America?» | “And your **parents**? Are they in America?” |
-| **i parenti**<br>(n., m) · relatives<br>_False friend: *parenti* are relatives, not parents._ | «I **parenti** sono tutti, Ben.» | “**Relatives** are everybody, Ben.” |
+| **i parenti**<br>(n., m) · relatives<br>_False friend: *parenti* are relatives, not parents._ | «I **parenti** sono tutti, Kevin.» | “**Relatives** are everybody, Kevin.” |
 | **il figlio**<br>(n., m) · son | «Io ho un **figlio** e una figlia.» | “I have one **son** and one daughter.” |
 | **la figlia**<br>(n., f) · daughter | «No. Solo io. Sono **figlia** unica.» | “No. Only me. I'm an only **daughter**.” |
 | **lo zio**<br>(n., m) · uncle | «E **zii**? E zie?» | “And **uncles**? And aunts?” |

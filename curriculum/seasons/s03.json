@@ -20,8 +20,8 @@
       "grammar": { "id": "g-imperfetto-description", "name": "Imperfetto for description", "scope": "describing people, places, weather, age, time and feelings in the past (era, aveva, c'era, c'erano, faceva freddo)" },
       "theme": "The neighbourhood in the past; urban change",
       "key_vocab": ["c'era", "c'erano", "i campi", "la cascina", "il negozio", "tranquillo", "cambiare", "costruire", "il paese", "una volta"],
-      "a_plot": "Ornella shows Leo and Ben her photo albums: Via dei Tigli in 1962, when there were fields, a farmhouse and only three houses. The Bar Tigli was Gino's dream.",
-      "b_plot": "Roberto wants to write a 'history of the street' for the committee newsletter and asks Ornella for an interview. She refuses and gives it to Ben instead.",
+      "a_plot": "Ornella shows Leo and Kevin her photo albums: Via dei Tigli in 1962, when there were fields, a farmhouse and only three houses. The Bar Tigli was Gino's dream.",
+      "b_plot": "Roberto wants to write a 'history of the street' for the committee newsletter and asks Ornella for an interview. She refuses and gives it to Kevin instead.",
       "runner": "Leo can't believe there were no phones."
     },
     {
@@ -41,7 +41,7 @@
       "theme": "Love stories, meeting, dating in the past",
       "key_vocab": ["innamorarsi", "incontrare", "il ballo", "il tram", "il primo appuntamento", "timido", "bellissima", "all'improvviso", "un giorno", "mentre"],
       "a_plot": "Emma interviews Franco for a school assignment: 'How did you meet Nonna Anna?' The story of a young tram driver and a passenger who always missed her stop.",
-      "b_plot": "Nadia and Matteo tell Ben how they met (at the pharmacy, Matteo pretending to be sick). They remember it completely differently.",
+      "b_plot": "Nadia and Matteo tell Kevin how they met (at the pharmacy, Matteo pretending to be sick). They remember it completely differently.",
       "arc": "Anna arc: Franco and Anna's story is told for the first time."
     },
     {
@@ -51,8 +51,8 @@
       "theme": "Accidents, incidents, what happened",
       "key_vocab": ["mentre", "stavo facendo", "cadere", "farsi male", "il braccio", "rompersi", "il pronto soccorso", "l'incidente", "per fortuna", "l'ingessatura"],
       "a_plot": "Leo falls off Tommaso's skateboard and breaks his arm. At the emergency room, every adult tells the doctor what they were doing when it happened.",
-      "b_plot": "Roberto blames Tommaso; Ben defends him. Emma sees her father standing up for her boyfriend.",
-      "arc": "Ben–Tommaso: an ally."
+      "b_plot": "Roberto blames Tommaso; Kevin defends him. Emma sees her father standing up for her boyfriend.",
+      "arc": "Kevin–Tommaso: an ally."
     },
     {
       "id": "s03e06", "level": "A2",
@@ -60,7 +60,7 @@
       "grammar": { "id": "g-sapere-conoscere-past", "name": "Sapere and conoscere in past tenses", "scope": "sapevo (knew) vs ho saputo (found out); conoscevo (knew) vs ho conosciuto (met); potevo/volevo vs ho potuto/voluto" },
       "theme": "Secrets and revelations",
       "key_vocab": ["sapevo", "ho saputo", "conoscevo", "ho conosciuto", "scoprire", "nascondere", "la verità", "la bugia", "fidarsi", "rivelare"],
-      "a_plot": "Roberto confronts Ben: 'Lei lo sapeva?' about Emma and Tommaso. Ben did know. Chiara didn't.",
+      "a_plot": "Roberto confronts Kevin: 'Lei lo sapeva?' about Emma and Tommaso. Kevin did know. Chiara didn't.",
       "b_plot": "Chiara finds letters from Anna in the tin box that mention 'L.' Is it Lucia? Did her mother know Lucia?",
       "runner": "Leo knew everything first, as always."
     },
@@ -71,7 +71,7 @@
       "theme": "Cooking, recipes, the kitchen",
       "key_vocab": ["prendi", "metti", "mescola", "taglia", "aggiungi", "cuoci", "il sugo", "la pentola", "il forno", "il cucchiaio"],
       "a_plot": "Chiara finds Anna's handwritten recipe notebook. She tries to cook her mother's lasagne with Lucia reading the instructions.",
-      "b_plot": "Ben teaches Leo (one-handed, in plaster) to cook pancakes: 'Mescola! No, piano!'",
+      "b_plot": "Kevin teaches Leo (one-handed, in plaster) to cook pancakes: 'Mescola! No, piano!'",
       "arc": "Chiara–Lucia: a real kitchen, together."
     },
     {
@@ -80,9 +80,9 @@
       "grammar": { "id": "g-imperative-negative-voi", "name": "Negative imperative; voi imperative", "scope": "non + infinitive (tu); voi forms; noi (let's) forms; common commands for groups" },
       "theme": "Travel, the airport, welcoming guests",
       "key_vocab": ["l'aeroporto", "il volo", "la valigia", "l'arrivo", "non preoccuparti", "venite", "andiamo", "sbrigatevi", "il passaporto", "l'ospite"],
-      "a_plot": "Ben's parents Doug and Linda arrive from Ohio for two weeks. For the first time Ben is the one who speaks Italian, and he gives everyone instructions.",
+      "a_plot": "Kevin's parents Doug and Linda arrive from Ohio for two weeks. For the first time Kevin is the one who speaks Italian, and he gives everyone instructions.",
       "b_plot": "Franco prepares to meet 'the Americans' seriously: a suit, and a speech in English he has been practising alone.",
-      "arc": "Tentpole: Ben's parents' visit begins."
+      "arc": "Tentpole: Kevin's parents' visit begins."
     },
     {
       "id": "s03e09", "level": "A2",
@@ -90,9 +90,9 @@
       "grammar": { "id": "g-imperative-pronouns", "name": "Imperative with pronouns", "scope": "pronouns attached to tu/noi/voi imperatives (dimmi, fallo, andiamoci, seguitemi); doubling with monosyllabic forms (fammi, dammi, stammi)" },
       "theme": "Tourism, directions, sightseeing in Milan",
       "key_vocab": ["seguitemi", "dimmi", "guardate", "girate", "il Duomo", "la Galleria", "il Castello", "a destra", "a sinistra", "sempre dritto"],
-      "a_plot": "Ben is the family tour guide in Milan: the Duomo, the Galleria, the Castello. Linda wants to shop, Doug wants a real coffee (American), and Ben gets them lost.",
+      "a_plot": "Kevin is the family tour guide in Milan: the Duomo, the Galleria, the Castello. Linda wants to shop, Doug wants a real coffee (American), and Kevin gets them lost.",
       "b_plot": "Franco and Doug, alone for the day with no common language, spend it in the orto and at the bocce court. They get along perfectly.",
-      "arc": "Ben's pride: 'I can live here.'"
+      "arc": "Kevin's pride: 'I can live here.'"
     },
     {
       "id": "s03e10", "level": "A2",
@@ -100,7 +100,7 @@
       "grammar": { "id": "g-imperative-lei", "name": "Formal imperative (Lei)", "scope": "Lei imperative forms (prenda, scusi, venga, si accomodi, mi dica); pronoun position before formal imperatives" },
       "theme": "Restaurants, hotels, services",
       "key_vocab": ["mi dica", "si accomodi", "prenda", "scusi", "il cameriere", "il menù", "prenotare", "il tavolo", "l'antipasto", "il dolce"],
-      "a_plot": "Ben books a fancy restaurant in Milan for his parents' anniversary. The waiter is very formal and Ben must translate every formal instruction.",
+      "a_plot": "Kevin books a fancy restaurant in Milan for his parents' anniversary. The waiter is very formal and Kevin must translate every formal instruction.",
       "b_plot": "Emma introduces Tommaso to her American grandparents before he's been properly introduced to her Italian ones. Chiara is offended.",
       "runner": "Doug tips 30%; the waiter is confused."
     },
@@ -111,8 +111,8 @@
       "theme": "Gifts, souvenirs, goodbyes",
       "key_vocab": ["il regalo", "il ricordo", "regalare", "prestare", "restituire", "portare", "l'addio", "salutare", "tornare", "glielo"],
       "a_plot": "Doug and Linda's last day. Everyone gives them gifts, too many for the suitcase. Franco gives Doug his old tram driver's cap.",
-      "b_plot": "At the airport Linda tells Ben she's never seen him so happy. Ben is surprised to realise it's true.",
-      "arc": "End of Ben's parents' visit. Franco–Doug friendship."
+      "b_plot": "At the airport Linda tells Kevin she's never seen him so happy. Kevin is surprised to realise it's true.",
+      "arc": "End of Kevin's parents' visit. Franco–Doug friendship."
     },
     {
       "id": "s03e12", "level": "A2",
@@ -121,7 +121,7 @@
       "theme": "Shopping for a baby; asking for help politely",
       "key_vocab": ["vorrei", "potresti", "dovresti", "mi piacerebbe", "la culla", "il passeggino", "il pannolino", "il seggiolino", "il negozio", "consigliare"],
       "a_plot": "Matteo and Nadia go shopping for the baby with an 'advisor' each: Samira and Lucia. Every suggestion is polite and every suggestion is a war.",
-      "b_plot": "Ben would like Franco to teach him bocce seriously. Franco would like Ben to stop asking.",
+      "b_plot": "Kevin would like Franco to teach him bocce seriously. Franco would like Kevin to stop asking.",
       "runner": "Ornella knits something every episode; nobody knows what it is."
     },
     {
@@ -131,7 +131,7 @@
       "theme": "Emergencies, rushing, transport chaos",
       "key_vocab": ["stare per", "nascere", "l'ospedale", "l'ambulanza", "il traffico", "correre", "subito", "la sala d'attesa", "le contrazioni", "l'ostetrica"],
       "a_plot": "Nadia goes into labour on Christmas Eve day, during a train strike and a snowstorm. Everyone is about to do something useful, and nobody does.",
-      "b_plot": "Ben drives, Franco gives directions, Samira and Lucia argue in the back seat, and Matteo is still at the bar.",
+      "b_plot": "Kevin drives, Franco gives directions, Samira and Lucia argue in the back seat, and Matteo is still at the bar.",
       "arc": "Tentpole build-up to the birth."
     },
     {
@@ -151,7 +151,7 @@
       "theme": "Babies, baby talk, affection",
       "key_vocab": ["piccolino", "il nasino", "la manina", "il fratellino", "il bacino", "il ragazzone", "la parolaccia", "carino", "coccolare", "il pannolino"],
       "a_plot": "Christmas with a newborn at Franco's. Lucia speaks only in diminutives, and Leo counts them all.",
-      "b_plot": "Matteo, sleepless, tries to run the bar and makes a 'caffettino' disaster. Ben covers the morning shift alone for a week.",
+      "b_plot": "Matteo, sleepless, tries to run the bar and makes a 'caffettino' disaster. Kevin covers the morning shift alone for a week.",
       "runner": "Ornella finally reveals what she has been knitting: a tiny blanket."
     },
     {
@@ -170,8 +170,8 @@
       "grammar": { "id": "g-ci-ne-advanced", "name": "Ci and ne with verbs", "scope": "pensarci, crederci, tenerci, riuscirci, contarci; parlarne, pensarne (che ne pensi?), andarsene as a preview" },
       "theme": "Opinions, feelings, taking responsibility",
       "key_vocab": ["ci penso io", "che ne pensi", "ci tengo", "ci credo", "non ce la faccio", "ne parliamo", "riuscirci", "contarci", "la responsabilità", "il parere"],
-      "a_plot": "'Ci penso io': why Chiara can't stop taking care of everyone: work, Franco, Ben, and now baby Anna. She cracks.",
-      "b_plot": "Emma asks Ben: 'Che ne pensi di Tommaso?' Ben's honest answer surprises them both.",
+      "a_plot": "'Ci penso io': why Chiara can't stop taking care of everyone: work, Franco, Kevin, and now baby Anna. She cracks.",
+      "b_plot": "Emma asks Kevin: 'Che ne pensi di Tommaso?' Kevin's honest answer surprises them both.",
       "runner": "Matteo: 'Ci penso io!' (He doesn't.)"
     },
     {
@@ -192,7 +192,7 @@
       "key_vocab": ["le braccia", "le ginocchia", "le mani", "le dita", "le labbra", "il dottore", "la visita", "il dolore", "la fisioterapia", "l'età"],
       "a_plot": "Franco's knees hurt, but he refuses to see a doctor. Lucia, Chiara and Nadia (a pharmacist) form an alliance to get him there.",
       "b_plot": "Leo's plaster comes off; he shows his arm to everyone.",
-      "runner": "Franco blames the knees on Ben's bocce technique."
+      "runner": "Franco blames the knees on Kevin's bocce technique."
     },
     {
       "id": "s03e20", "level": "A2",
@@ -202,7 +202,7 @@
       "key_vocab": ["fare bella figura", "fare brutta figura", "fare finta", "fare attenzione", "fare due passi", "fare un salto", "fare la fila", "fare una sorpresa", "l'impressione", "la reputazione"],
       "a_plot": "Chiara's boss Marchetti and his wife come to dinner in Borgoverde. Chiara wants to 'fare bella figura'. Every relative makes a brutta figura.",
       "b_plot": "Tommaso pretends to like the jazz Emma likes; Emma pretends to like skating.",
-      "runner": "Ben's rule list from S2 gains a new entry: 'la bella figura'."
+      "runner": "Kevin's rule list from S2 gains a new entry: 'la bella figura'."
     },
     {
       "id": "s03e21", "level": "A2",
@@ -210,7 +210,7 @@
       "grammar": { "id": "g-movement-verbs", "name": "Andare/venire, portare/prendere", "scope": "andare vs venire depending on the speaker's position; portare vs prendere; tornare, passare, accompagnare; volerci vs metterci" },
       "theme": "Commuting, transport strikes, getting around",
       "key_vocab": ["lo sciopero", "il pendolare", "portare", "prendere", "accompagnare", "passare a prendere", "metterci", "volerci", "il passaggio", "il pullman"],
-      "a_plot": "A national train strike. Chiara needs to get to Milan for a crucial meeting; Emma to Monza for an exam. Ben becomes the family's taxi.",
+      "a_plot": "A national train strike. Chiara needs to get to Milan for a crucial meeting; Emma to Monza for an exam. Kevin becomes the family's taxi.",
       "b_plot": "Franco, the retired tram driver, has strong opinions on strikes. He talks about the 1970s, and the whole bar listens.",
       "runner": "'Vengo io!' 'No, vado io!' Who is coming and who is going?"
     },
@@ -221,7 +221,7 @@
       "theme": "Money, budgets, debt",
       "key_vocab": ["il debito", "il prestito", "risparmiare", "spendere", "la metà", "per cento", "il bilancio", "la bolletta", "l'affitto", "la banca"],
       "a_plot": "The bar's accounts: Nadia, on maternity leave, looks at them and finds the old loan from Franco. The unspoken debt is finally spoken.",
-      "b_plot": "Ben and Chiara do the family budget after the renovation. The numbers are frightening, and the conversation is honest.",
+      "b_plot": "Kevin and Chiara do the family budget after the renovation. The numbers are frightening, and the conversation is honest.",
       "arc": "Matteo–Franco: the debt is out in the open."
     },
     {
@@ -240,7 +240,7 @@
       "grammar": { "id": "g-past-narration-review", "name": "Narrating in the past: review", "scope": "imperfetto + passato prossimo in extended narrative; time sequencing (prima, poi, dopo, alla fine); telling a story aloud" },
       "theme": "Storytelling, love stories",
       "key_vocab": ["c'era una volta", "all'inizio", "poi", "a un certo punto", "alla fine", "innamorato", "la storia", "il finale", "romantico", "segreto"],
-      "a_plot": "Franco secretly asks Ben for help: he wants to propose to Lucia, and he wants to do it 'like in a story'. Ben helps him plan it.",
+      "a_plot": "Franco secretly asks Kevin for help: he wants to propose to Lucia, and he wants to do it 'like in a story'. Kevin helps him plan it.",
       "b_plot": "Emma and Tommaso tell the story of how they got together at a class assembly, each in their own version.",
       "arc": "Proposal set-up. Anna's ring (S2E7) is found."
     },
@@ -251,7 +251,7 @@
       "theme": "Love, commitment, celebrations",
       "key_vocab": ["sposarsi", "la proposta", "l'anello", "in ginocchio", "sì", "la fidanzata", "per sempre", "commosso", "le lacrime", "auguri"],
       "a_plot": "At Lucia's Valentine's dance evening, Franco stops the music and gets down on one (painful) knee. Chiara shouts 'Sì!' before Lucia does.",
-      "b_plot": "Ben and Chiara, both exhausted, dance for the first time in years.",
+      "b_plot": "Kevin and Chiara, both exhausted, dance for the first time in years.",
       "arc": "SEASON FINALE: the proposal. End of A2."
     }
   ]

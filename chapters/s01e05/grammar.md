@@ -41,13 +41,13 @@ For age, the whole pattern is *avere* + number + *anni*: *Ho quarantuno anni* �
 ## From the story
 
 «La **famiglia**. Il **padre**. La **madre**. Il **fratello**. La **sorella**.» — “The **family**. The **father**. The **mother**. The **brother**. The **sister**.” (`s01e05-1-005`)
-Family words come straight after the article — this is how Ben revises his notebook.
+Family words come straight after the article — this is how Kevin revises his notebook.
 
 «Allora, americano. Quanti **fratelli** hai?» — “So, American. How many **brothers** do you **have**?” (`s01e05-2-019`)
 A question with *avere*: *quanti* + noun + *hai*.
 
 «**Ho** quarantuno **anni**.» — “**I'm** forty-one **years** old.” (`s01e05-2-043`)
-Age uses *avere*, never *essere*. Ben gets this one right.
+Age uses *avere*, never *essere*. Kevin gets this one right.
 
 «**Ho fame**.» — “**I'm hungry**.” (`s01e05-2-021`)
 The running joke of the episode — and the pattern to remember: no article, no *sono*.

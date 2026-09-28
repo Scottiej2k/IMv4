@@ -6,19 +6,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · domenica mattina, undici e mezza
 
-Sono le undici e mezza di domenica. In cucina c'è profumo di caffè. Fuori il cielo è grigio, ma in casa fa caldo. Ben è seduto al tavolo con il quaderno giallo.
+Sono le undici e mezza di domenica. In cucina c'è profumo di caffè. Fuori il cielo è grigio, ma in casa fa caldo. Kevin è seduto al tavolo con il quaderno giallo.
 
-«La **famiglia**. Il **padre**. La **madre**. Il **fratello**. La **sorella**.» Ben legge ad alta voce e conta sulle dita.
+«La **famiglia**. Il **padre**. La **madre**. Il **fratello**. La **sorella**.» Kevin legge ad alta voce e conta sulle dita.
 
 Chiara entra con due tazze di caffè.
 
 «Bravo. E poi?»
 
-«Il **nonno**. La **nonna**. Lo **zio**. La **zia**. Il **cugino**.» Ben alza il quaderno come un trofeo. «Sono pronto.»
+«Il **nonno**. La **nonna**. Lo **zio**. La **zia**. Il **cugino**.» Kevin alza il quaderno come un trofeo. «Sono pronto.»
 
 «Pronto per cosa?»
 
-«Per il pranzo! La **famiglia** italiana è importante.» Ben beve un sorso di caffè. «Io sono il **marito** di Chiara e Chiara è la **moglie** di Ben.»
+«Per il pranzo! La **famiglia** italiana è importante.» Kevin beve un sorso di caffè. «Io sono il **marito** di Chiara e Chiara è la **moglie** di Kevin.»
 
 «Questo lo sappiamo già.» Chiara ride e si siede.
 
@@ -34,9 +34,9 @@ Leo entra in cucina in pigiama. Si siede e guarda il tavolo.
 
 «**Hai paura**? Di cosa?»
 
-«Di tuo **padre**.» Ben guarda la porta. «Fa tante domande. Quanti **fratelli**? Quante **sorelle**? Quanti **anni**?»
+«Di tuo **padre**.» Kevin guarda la porta. «Fa tante domande. Quanti **fratelli**? Quante **sorelle**? Quanti **anni**?»
 
-«Le domande sono normali, Ben.» Chiara mette la tazza nel lavandino.
+«Le domande sono normali, Kevin.» Chiara mette la tazza nel lavandino.
 
 Emma entra con il telefono in mano. Ha i capelli bagnati.
 
@@ -44,15 +44,15 @@ Emma entra con il telefono in mano. Ha i capelli bagnati.
 
 «Quindici. Lo sai.» Emma si siede e guarda il telefono.
 
-«E io **ho** quarantuno **anni**.» Ben scrive sul quaderno. «Vedi? Io capisco le domande.»
+«E io **ho** quarantuno **anni**.» Kevin scrive sul quaderno. «Vedi? Io capisco le domande.»
 
 Emma alza gli occhi al cielo. Chiara nasconde un sorriso dietro la tazza.
 
-«In America ci sono i miei **parenti**.» Ben conta sulle dita. «Mia **madre**, mio **padre**, due **fratelli** e una **sorella**.»
+«In America ci sono i miei **parenti**.» Kevin conta sulle dita. «Mia **madre**, mio **padre**, due **fratelli** e una **sorella**.»
 
-«I **parenti** sono tutti, Ben.» Emma mette giù il telefono. «La **madre** e il **padre** sono i **genitori**.»
+«I **parenti** sono tutti, Kevin.» Emma mette giù il telefono. «La **madre** e il **padre** sono i **genitori**.»
 
-«Ah!» Ben apre la bocca, poi scrive. «**Genitori** e **parenti**. Due parole diverse.»
+«Ah!» Kevin apre la bocca, poi scrive. «**Genitori** e **parenti**. Due parole diverse.»
 
 «Esatto.»
 
@@ -60,7 +60,7 @@ Emma alza gli occhi al cielo. Chiara nasconde un sorriso dietro la tazza.
 
 Chiara guarda il quaderno e sorride.
 
-«Quanti **zii** e quante **zie** hai, Ben?»
+«Quanti **zii** e quante **zie** hai, Kevin?»
 
 «Due **zii** e una **zia**. E quattro **cugini**.»
 
@@ -78,7 +78,7 @@ Leo prende un biscotto dal piatto.
 
 Chiara prende un bicchiere e dà l'acqua a Leo. Leo beve l'acqua in tre secondi.
 
-«**Hai sete** anche tu, Ben?»
+«**Hai sete** anche tu, Kevin?»
 
 «No, grazie. Ma **ho sonno**.»
 
@@ -86,15 +86,15 @@ Chiara prende un bicchiere e dà l'acqua a Leo. Leo beve l'acqua in tre secondi.
 
 «Bene. Allora andiamo a pranzo.» Chiara controlla l'orologio. «È tardi. Papà non aspetta.»
 
-Ben chiude il quaderno e si alza. _Devo fare una buona figura con il **padre** di Chiara._ «Un momento. Come si dice "I'm hungry"?»
+Kevin chiude il quaderno e si alza. _Devo fare una buona figura con il **padre** di Chiara._ «Un momento. Come si dice "I'm hungry"?»
 
 «**Ho fame**! Lo dici sempre tu.»
 
 «Perfetto. **Ho fame**, **ho sete**, **ho paura** e **ho sonno**.»
 
-«Andiamo, Ben.»
+«Andiamo, Kevin.»
 
-Ben prende il quaderno giallo e la giacca. Emma mette le scarpe e aspetta alla porta.
+Kevin prende il quaderno giallo e la giacca. Emma mette le scarpe e aspetta alla porta.
 
 «Leo, le scarpe.»
 
@@ -106,13 +106,13 @@ Ben prende il quaderno giallo e la giacca. Emma mette le scarpe e aspetta alla p
 
 La casa di Franco è piccola e piena di luce. C'è un tavolo lungo con una tovaglia bianca. Sul tavolo ci sono il pane, l'acqua e un piatto di pasta. La porta è aperta. Franco arriva dalla cucina. Ha un grembiule e una faccia seria.
 
-«Chiara. Leo. Emma.» Franco guarda Ben per un secondo. «... L'americano.»
+«Chiara. Leo. Emma.» Franco guarda Kevin per un secondo. «... L'americano.»
 
 «Buongiorno, Franco.»
 
 «Entra. La pasta è pronta.»
 
-Tutti entrano in cucina. Ben guarda il tavolo e sorride.
+Tutti entrano in cucina. Kevin guarda il tavolo e sorride.
 
 «Che bello!»
 
@@ -120,11 +120,11 @@ Franco si siede in testa al tavolo. Matteo arriva con il pane e una bottiglia.
 
 «Ciao, papà. Ciao a tutti.» Matteo mette il pane sul tavolo e si siede.
 
-Franco guarda Ben dritto negli occhi.
+Franco guarda Kevin dritto negli occhi.
 
 «Allora, americano. Quanti **fratelli** hai?»
 
-Ben è nervoso. Sorride.
+Kevin è nervoso. Sorride.
 
 «**Ho fame**.»
 
@@ -154,7 +154,7 @@ Dopo cinque minuti Franco riprova. Mette giù la forchetta.
 
 «Quanti **anni** hai?»
 
-«**Ho** quarantuno **anni**.» Ben alza la forchetta come una bandiera.
+«**Ho** quarantuno **anni**.» Kevin alza la forchetta come una bandiera.
 
 «Bene.» Franco annuisce piano.
 
@@ -164,13 +164,13 @@ Dopo cinque minuti Franco riprova. Mette giù la forchetta.
 
 Emma mette una mano sulla faccia. Matteo ride dentro il bicchiere.
 
-«Ben! La domanda è sui tuoi **genitori**!»
+«Kevin! La domanda è sui tuoi **genitori**!»
 
-«Oh! Sì.» Ben si raddrizza sulla sedia. «Mia **madre** è in Ohio. Mio **padre** anche.»
+«Oh! Sì.» Kevin si raddrizza sulla sedia. «Mia **madre** è in Ohio. Mio **padre** anche.»
 
 «E **fratelli**? E **sorelle**?»
 
-Ben guarda Emma. Emma fa un piccolo segno con la testa.
+Kevin guarda Emma. Emma fa un piccolo segno con la testa.
 
 «Due **fratelli** e una **sorella**.»
 
@@ -182,7 +182,7 @@ Ben guarda Emma. Emma fa un piccolo segno con la testa.
 
 «E **cugini**?»
 
-Ben guarda Emma di nuovo.
+Kevin guarda Emma di nuovo.
 
 «Quattro **cugini**.»
 
@@ -196,7 +196,7 @@ Ben guarda Emma di nuovo.
 
 «Perfetto.»
 
-Chiara guarda Ben e sorride. Emma mangia e non dice niente.
+Chiara guarda Kevin e sorride. Emma mangia e non dice niente.
 
 «Io ho un **figlio** e una **figlia**.» Franco indica Matteo e Chiara con la forchetta.
 
@@ -224,19 +224,19 @@ Franco alza una mano.
 
 «Basta. Mangiamo.»
 
-Sul mobile c'è una **foto** con una cornice di legno. Ben la guarda per un momento. Poi mangia.
+Sul mobile c'è una **foto** con una cornice di legno. Kevin la guarda per un momento. Poi mangia.
 
 ## 3. Casa di Franco, Via dei Tigli 9 · domenica, dopo pranzo
 
 Il dolce è finito. Sul tavolo ci sono le briciole e i piatti vuoti. Franco si alza e prende la caffettiera. La cucina profuma di caffè.
 
-«Ben, **hai sete**?»
+«Kevin, **hai sete**?»
 
 «Sì! **Ho sete**.»
 
-Franco mette un bicchiere d'acqua davanti a Ben.
+Franco mette un bicchiere d'acqua davanti a Kevin.
 
-«Grazie, Franco.» Ben beve l'acqua e poi sbadiglia. «E **ho sonno** anch'io.»
+«Grazie, Franco.» Kevin beve l'acqua e poi sbadiglia. «E **ho sonno** anch'io.»
 
 «**Ho sonno** dopo il pranzo, come i gatti.» Leo chiude gli occhi per finta. Poi li apre e ride.
 
@@ -246,7 +246,7 @@ Franco mette un bicchiere d'acqua davanti a Ben.
 
 «Pavarotti me lo dice.»
 
-Matteo ride. Chiara sospira. Franco versa il caffè nelle tazzine. Ben guarda il mobile. Sul mobile c'è una **foto** con una cornice di legno. Nella **foto** c'è una donna con un vestito chiaro. Sorride.
+Matteo ride. Chiara sospira. Franco versa il caffè nelle tazzine. Kevin guarda il mobile. Sul mobile c'è una **foto** con una cornice di legno. Nella **foto** c'è una donna con un vestito chiaro. Sorride.
 
 «Franco, chi è nella **foto**?»
 
@@ -262,7 +262,7 @@ Il tavolo è silenzioso. Leo smette di ridere. Emma guarda il piatto. Chiara gua
 
 «Anna non c'è più.» Franco tocca la cornice con un dito. «Tre **anni** fa.»
 
-Ben apre la bocca, poi la chiude. _Forse la **foto** è un argomento delicato. Non dico niente._
+Kevin apre la bocca, poi la chiude. _Forse la **foto** è un argomento delicato. Non dico niente._
 
 «Mi dispiace, Franco.»
 
@@ -316,7 +316,7 @@ Matteo alza le spalle.
 
 «Boh. Papà è così.»
 
-Ben prende il quaderno dalla giacca. Scrive una parola e la chiude.
+Kevin prende il quaderno dalla giacca. Scrive una parola e la chiude.
 
 «Tuo **padre** è strano.»
 
@@ -340,7 +340,7 @@ Chiara guarda la **foto** di Anna e sorride un poco.
 
 «No. **Ho sonno**.»
 
-«**Ho sonno** anch'io.» Leo prende la mano di Ben. «E **ho sete** ancora.»
+«**Ho sonno** anch'io.» Leo prende la mano di Kevin. «E **ho sete** ancora.»
 
 «A casa c'è l'acqua.»
 
@@ -642,11 +642,11 @@ Leo esce e chiude la porta. Ornella resta ferma un momento. Poi guarda le **foto
 
 ## 6. Casa Carter, Via dei Tigli 14 · domenica sera
 
-Sono le nove di sera. In casa Carter la tv è spenta e la cucina è in ordine. Chiara è sul divano con il computer. Ben è al tavolo con il quaderno giallo. Leo arriva dalla camera in pigiama. Ha una **foto** in mano. La mette sul tavolo, davanti a tutti.
+Sono le nove di sera. In casa Carter la tv è spenta e la cucina è in ordine. Chiara è sul divano con il computer. Kevin è al tavolo con il quaderno giallo. Leo arriva dalla camera in pigiama. Ha una **foto** in mano. La mette sul tavolo, davanti a tutti.
 
 «Mamma! Papà! Guardate!»
 
-Chiara alza la testa. Ben mette giù la penna.
+Chiara alza la testa. Kevin mette giù la penna.
 
 «Che cos'è questa **foto**?»
 
@@ -692,7 +692,7 @@ Emma alza gli occhi al cielo.
 
 «Io porto le borse. Lei dà i biscotti. E io la chiamo **nonna**.»
 
-Ben guarda Chiara. Chiara guarda Ben.
+Kevin guarda Chiara. Chiara guarda Kevin.
 
 «Leo...»
 
@@ -706,7 +706,7 @@ Ben guarda Chiara. Chiara guarda Ben.
 
 «E anche gli **zii**, i **cugini**, i **parenti**. Lo dice il papà.»
 
-Ben è orgoglioso.
+Kevin è orgoglioso.
 
 «Sì! Bravo, Leo.»
 
@@ -720,7 +720,7 @@ Leo incrocia le braccia. È serio, come un avvocato.
 
 «E lei **ha paura** quando la casa è silenziosa.»
 
-Chiara non ride. Guarda Ben e poi guarda Leo.
+Chiara non ride. Guarda Kevin e poi guarda Leo.
 
 «Bravo, Leo.»
 
@@ -740,7 +740,7 @@ Emma mette giù le cuffie.
 
 «Sì!»
 
-Ben apre il quaderno.
+Kevin apre il quaderno.
 
 «Allora: **famiglia**, **genitori**, **parenti**, **fratelli**, **sorelle**, **zii**, **cugini**, **nipoti**.»
 
@@ -748,7 +748,7 @@ Ben apre il quaderno.
 
 «Adesso **ho fame**.»
 
-«Ben!»
+«Kevin!»
 
 Leo ride. Emma ride. Anche Chiara ride.
 
@@ -758,9 +758,9 @@ Leo ride. Emma ride. Anche Chiara ride.
 
 ## 7. Bar Tigli · lunedì mattina
 
-Lunedì mattina al Bar Tigli. Fuori piove un poco. Dentro c'è profumo di caffè e di cornetti. Ben è al banco con il caffè in mano. Matteo pulisce il banco con uno straccio.
+Lunedì mattina al Bar Tigli. Fuori piove un poco. Dentro c'è profumo di caffè e di cornetti. Kevin è al banco con il caffè in mano. Matteo pulisce il banco con uno straccio.
 
-«Ben! Ieri con papà? Bene?»
+«Kevin! Ieri con papà? Bene?»
 
 «Bene. Tuo **padre** fa tante domande.»
 
@@ -786,11 +786,11 @@ Matteo prepara il caffè. Franco lo beve in due secondi.
 
 «Mah.»
 
-Poi guarda Ben.
+Poi guarda Kevin.
 
 «E tu, americano? Milan o Inter?»
 
-Ben è in panico. Guarda Matteo, poi guarda Franco. _Milan o Inter? Non lo so! Che cosa dico?_
+Kevin è in panico. Guarda Matteo, poi guarda Franco. _Milan o Inter? Non lo so! Che cosa dico?_
 
 «Io... **ho fame**.»
 
@@ -812,15 +812,15 @@ Franco guarda Matteo.
 
 «Mah.»
 
-Franco esce dal bar senza dire altro. La porta si chiude piano. Matteo si avvicina a Ben.
+Franco esce dal bar senza dire altro. La porta si chiude piano. Matteo si avvicina a Kevin.
 
-«Ben, la prossima volta: non "**ho fame**". Milan o Inter.»
+«Kevin, la prossima volta: non "**ho fame**". Milan o Inter.»
 
 «Ah! Perfetto. Milan o Inter.»
 
 «Sì. È importante.»
 
-Ben apre il quaderno giallo e scrive.
+Kevin apre il quaderno giallo e scrive.
 
 «Milan-Inter.»
 
@@ -834,10 +834,10 @@ Matteo ride e prende un altro caffè.
 
 «Sì. **Ho sete** di caffè.»
 
-«Ben, si dice "**ho voglia** di caffè".»
+«Kevin, si dice "**ho voglia** di caffè".»
 
 «Ah! **Ho voglia** di caffè.»
 
 «Perfetto.»
 
-Ben esce dal bar con il quaderno sotto il braccio. Fuori la pioggia è finita.
+Kevin esce dal bar con il quaderno sotto il braccio. Fuori la pioggia è finita.

@@ -38,16 +38,16 @@ You can often hear a mistake before you see it, because the article changes too:
 
 ## From the story
 
-«In America il **caffè** è **caffè**» dice Ben. — "In America **coffee** is **coffee**," says Ben. (`s01e02-1-013`) — *caffè* is accented: singular and plural are identical, only the article changes.
+«In America il **caffè** è **caffè**» dice Kevin. — "In America **coffee** is **coffee**," says Kevin. (`s01e02-1-013`) — *caffè* is accented: singular and plural are identical, only the article changes.
 «Questa **tazza** è per la minestra» dice. «Non per il **caffè**.» — "This **cup** is for soup," she says. "Not for **coffee**." (`s01e02-1-012`) — a feminine noun in *-a*; the plural would be *le tazze*.
 «**Brioche** è la stessa cosa» dice. «Al nord diciamo **brioche**.» — "**Brioche** is the same thing," says Matteo. "In the north we say **brioche**." (`s01e02-2-029`) — a foreign feminine noun in *-e* that stays the same in the plural.
-«Il **latte** è **latte**» dice Ben. — "**Latte** is **latte**," says Ben. (`s01e02-2-047`) — a masculine noun in *-e*: you must learn it with its article.
-«La **pasta** è la **pasta**» dice Ben. — "The **pasta** is the **pasta**," says Ben. (`s01e02-4-048`) — *-a* feminine, plural *le paste* (which Italians rarely need).
-«Ma io chiedo sempre» dice Ben. «Le **parole** sono gentili.» — "But I always ask," says Ben. "**Words** are kind." (`s01e02-4-093`) — the regular feminine plural *-a → -e*.
+«Il **latte** è **latte**» dice Kevin. — "**Latte** is **latte**," says Kevin. (`s01e02-2-047`) — a masculine noun in *-e*: you must learn it with its article.
+«La **pasta** è la **pasta**» dice Kevin. — "The **pasta** is the **pasta**," says Kevin. (`s01e02-4-048`) — *-a* feminine, plural *le paste* (which Italians rarely need).
+«Ma io chiedo sempre» dice Kevin. «Le **parole** sono gentili.» — "But I always ask," says Kevin. "**Words** are kind." (`s01e02-4-093`) — the regular feminine plural *-a → -e*.
 «**Pasta**, **carne**, **frutta**, **dolce**» dice. «Quattro **piatti**. Basta.» — "**Pasta**, **meat**, **fruit**, **dessert**," he says. "Four **dishes**. That's it." (`s01e02-1-069`) — four nouns of different genders and endings, listed exactly as a menu.
-«Il bancone è per il **caffè**» aggiunge. — "The counter is for the **caffè**," Ben adds. (`s01e02-7-022`) — singular masculine *-e* noun (*il bancone*), plural *i banconi*.
+«Il bancone è per il **caffè**» aggiunge. — "The counter is for the **caffè**," Kevin adds. (`s01e02-7-022`) — singular masculine *-e* noun (*il bancone*), plural *i banconi*.
 «Il **conto** sono i soldi» dice. — "The **conto** is the money," says Chiara. (`s01e02-6-034`) — singular *il conto*, plural *i conti*: the classic *-o → -i* family.
-«**Vorrei** un **cappuccino**, **per favore**» dice Ben. — "**I would like** a **cappuccino**, **please**," says Ben. (`s01e02-2-016`) — the whole polite formula, with *un* + masculine singular noun.
+«**Vorrei** un **cappuccino**, **per favore**» dice Kevin. — "**I would like** a **cappuccino**, **please**," says Kevin. (`s01e02-2-016`) — the whole polite formula, with *un* + masculine singular noun.
 
 ## Common mistakes English speakers make
 

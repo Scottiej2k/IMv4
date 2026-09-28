@@ -57,4 +57,4 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|---|
 | **comunque**<br>(adv.) · anyway, in any case | «Prego. **Comunque** non decidi da solo.» «Questo è il punto.» | “You're welcome. **Anyway**, you don't decide alone.” “That's the point.” |
 | **almeno**<br>(adv.) · at least | _Adesso aspetto. **Almeno** una settimana ho comprato._ | _Now I wait. **At least** I've bought a week._ |
-| **invece**<br>(adv.) · instead | A volte Ben **invece** ha troppi dubbi. | Sometimes Ben **instead** has too many doubts. |
+| **invece**<br>(adv.) · instead | A volte Kevin **invece** ha troppi dubbi. | Sometimes Kevin **instead** has too many doubts. |

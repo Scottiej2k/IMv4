@@ -40,7 +40,7 @@
       "grammar": { "id": "g-concordanza-congiuntivo", "name": "Sequence of tenses with the subjunctive", "scope": "main clause present/future → congiuntivo presente/passato; main clause past/conditional → congiuntivo imperfetto/trapassato; vorrei che + imperfetto" },
       "theme": "Committees, organisation, petitions",
       "key_vocab": ["la petizione", "le firme", "raccogliere", "il comitato", "il portavoce", "l'obiettivo", "la strategia", "la riunione", "il verbale", "vorrei che"],
-      "a_plot": "The 'Comitato Salviamo il Parco' is born. Roberto wants to be president and Ben wants to run the campaign. Old rivalries return.",
+      "a_plot": "The 'Comitato Salviamo il Parco' is born. Roberto wants to be president and Kevin wants to run the campaign. Old rivalries return.",
       "b_plot": "Chiara discovers what Marchetti's 'big local project' is: the shopping centre on the park. She tells no one.",
       "arc": "Chiara's secret begins."
     },
@@ -62,7 +62,7 @@
       "key_vocab": ["va fatto", "vanno consegnati", "viene firmato", "il termine", "la scadenza", "il modulo", "la marca da bollo", "protocollare", "la documentazione", "entro"],
       "a_plot": "The appeal must be filed within 60 days. Everything must be done now: documents, signatures, fees. Roberto's love of paperwork finally becomes a superpower.",
       "b_plot": "Leo and Pietro create a 'save the park' video for school, which goes viral in Borgoverde.",
-      "runner": "The marca da bollo: Ben's nemesis."
+      "runner": "The marca da bollo: Kevin's nemesis."
     },
     {
       "id": "s06e07", "level": "B2",
@@ -70,7 +70,7 @@
       "grammar": { "id": "g-si-passivante", "name": "The si passivante", "scope": "si + third-person verb agreeing with the subject (si vendono case, si è costruito molto); contrast with impersonal si; in compound tenses" },
       "theme": "The housing market, property values, gentrification",
       "key_vocab": ["si vendono", "si affittano", "l'agenzia immobiliare", "il valore", "il mercato immobiliare", "la speculazione", "il mutuo", "il prezzo al metro quadro", "la periferia", "investire"],
-      "a_plot": "Estate agents appear on Via dei Tigli: with the shopping centre, 'houses will be worth more'. Some neighbours are tempted to sell. Ben and Chiara, who still pay their mortgage, have an uncomfortable conversation.",
+      "a_plot": "Estate agents appear on Via dei Tigli: with the shopping centre, 'houses will be worth more'. Some neighbours are tempted to sell. Kevin and Chiara, who still pay their mortgage, have an uncomfortable conversation.",
       "b_plot": "Irina (Ornella's carer) tells Ornella about the town she left in Ukraine and its park. Ornella decides to fight.",
       "arc": "The fight gets complicated: not everyone wants the park."
     },
@@ -121,7 +121,7 @@
       "theme": "Journalism, leaks, reputation",
       "key_vocab": ["secondo indiscrezioni", "avrebbe firmato", "la fonte", "lo scoop", "la smentita", "smentire", "confermare", "la fuga di notizie", "la reputazione", "lo scandalo"],
       "a_plot": "*La Voce di Borgoverde*'s headline: 'Studio Marchetti would be designing the shopping centre. Among the architects, a resident of Via dei Tigli.' Chiara's secret is out.",
-      "b_plot": "The street's reaction: silence at the bar. Ben learns it from the newspaper.",
+      "b_plot": "The street's reaction: silence at the bar. Kevin learns it from the newspaper.",
       "arc": "TENTPOLE: Chiara's secret comes out."
     },
     {
@@ -131,8 +131,8 @@
       "theme": "Petitions, formal documents, public statements",
       "key_vocab": ["la richiesta", "la sospensione", "la revisione", "la tutela", "la salvaguardia", "i sottoscritti", "chiedono", "il testo", "la raccolta firme", "consegnare"],
       "a_plot": "The committee writes its official petition. Roberto writes it in impenetrable bureaucratic Italian; Emma rewrites it so people understand it. They need both.",
-      "b_plot": "Chiara and Ben don't speak. She sleeps at Franco's. Lucia mediates.",
-      "arc": "Ben–Chiara crisis."
+      "b_plot": "Chiara and Kevin don't speak. She sleeps at Franco's. Lucia mediates.",
+      "arc": "Kevin–Chiara crisis."
     },
     {
       "id": "s06e14", "level": "B2",
@@ -170,7 +170,7 @@
       "grammar": { "id": "g-register", "name": "Register: formal, neutral, informal", "scope": "shifting register for audience (TV interview vs bar vs committee); lexical pairs (cominciare/iniziare/avviare, dire/affermare/dichiarare); formal syntax vs spoken syntax" },
       "theme": "Media, TV interviews, public image",
       "key_vocab": ["in diretta", "il servizio", "l'intervistatore", "rilasciare un'intervista", "affermare", "dichiarare", "sottolineare", "il pubblico", "l'immagine", "la troupe"],
-      "a_plot": "A regional TV channel comes to Via dei Tigli. Who speaks? Roberto is too formal, Franco too blunt, Matteo too casual. Ben and Ornella together are perfect.",
+      "a_plot": "A regional TV channel comes to Via dei Tigli. Who speaks? Roberto is too formal, Franco too blunt, Matteo too casual. Kevin and Ornella together are perfect.",
       "b_plot": "Emma, off camera, coaches everyone on how to talk to the TV. Tommaso films a behind-the-scenes version for social media.",
       "runner": "Pavarotti the cat appears in every shot."
     },
@@ -201,8 +201,8 @@
       "theme": "Delegation, organising people, leadership",
       "key_vocab": ["delegare", "affidare", "far sapere", "far fare", "lasciar fare", "il coordinatore", "il compito", "gestire", "il gruppo di lavoro", "fidarsi"],
       "a_plot": "Chiara presents her secret alternative project to the committee: a public park with a small community centre and market, funded by the region. She needs everyone to do something.",
-      "b_plot": "Ben, running the bar alone again during Matteo's Milan preparations, learns to delegate, to Leo.",
-      "arc": "Chiara's alternative plan is revealed. Ben–Chiara reconcile."
+      "b_plot": "Kevin, running the bar alone again during Matteo's Milan preparations, learns to delegate, to Leo.",
+      "arc": "Chiara's alternative plan is revealed. Kevin–Chiara reconcile."
     },
     {
       "id": "s06e21", "level": "B2",
@@ -211,7 +211,7 @@
       "theme": "Breakups, teenage emotions, friendship",
       "key_vocab": ["prendersela", "averla con", "farla finita", "passarsela male", "lasciarsi", "la rottura", "il cuore spezzato", "consolare", "l'amica del cuore", "superare"],
       "a_plot": "Emma and Tommaso break up. It's mutual and sensible, and it hurts like the end of the world.",
-      "b_plot": "Bianca, Leo and Ben each try to console Emma, badly. Lucia gets it right with a dance.",
+      "b_plot": "Bianca, Leo and Kevin each try to console Emma, badly. Lucia gets it right with a dance.",
       "arc": "Emma–Tommaso break up."
     },
     {

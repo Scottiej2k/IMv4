@@ -6,11 +6,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · sabato mattina
 
-È sabato mattina in Via dei Tigli. **La** **casa** al numero quattordici è piena di **scatole**. **Le** **scatole** sono grandi e piccole. Tutte hanno un'**etichetta** in inglese. Chiara entra nella **cucina** con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Ben con una grande **scatola**. Sulla **scatola** c'è un'**etichetta** con la parola KITCHEN.
+È sabato mattina in Via dei Tigli. **La** **casa** al numero quattordici è piena di **scatole**. **Le** **scatole** sono grandi e piccole. Tutte hanno un'**etichetta** in inglese. Chiara entra nella **cucina** con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Kevin con una grande **scatola**. Sulla **scatola** c'è un'**etichetta** con la parola KITCHEN.
 
 «Allora, Chiara. Dove metto questa **scatola**?»
 
-Chiara guarda l'**etichetta**. Poi chiude gli occhi. «Ben, perché le **etichette** sono in inglese?»
+Chiara guarda l'**etichetta**. Poi chiude gli occhi. «Kevin, perché le **etichette** sono in inglese?»
 
 «Perché l'inglese è la mia lingua!»
 
@@ -18,9 +18,9 @@ Chiara guarda l'**etichetta**. Poi chiude gli occhi. «Ben, perché le **etichet
 
 Chiara indica **il** **tavolo**. «Questo è **il** **tavolo**.» Poi indica le due **sedie** vicino alla **finestra**. «Queste sono **le** **sedie**. E questa è **la** **finestra**.»
 
-«**Il** **tavolo**, **le** **sedie**, **la** **finestra**» ripete Ben. «Perfetto!»
+«**Il** **tavolo**, **le** **sedie**, **la** **finestra**» ripete Kevin. «Perfetto!»
 
-Ben guarda la **cucina** con attenzione. «**La** **cucina** è **piccola**» dice. «Ma **la** **casa** è **grande**!»
+Kevin guarda la **cucina** con attenzione. «**La** **cucina** è **piccola**» dice. «Ma **la** **casa** è **grande**!»
 
 «**La** **casa** ha tre **camere**, un **bagno**, un **salotto** e un **giardino**» «Le **camere** sono al **piano** di sopra. E **il** **giardino** è dietro **la** **porta**.»
 
@@ -34,9 +34,9 @@ Leo entra di corsa dal **salotto**. Ha un **post-it** sulla fronte. «Mamma! Gua
 
 «Sì! **Il** **giardino** è GIARDINO. Ma in inglese: GARDEN.»
 
-Chiara guarda Ben. Ben guarda Leo. «Questo bambino è americano o italiano?»
+Chiara guarda Kevin. Kevin guarda Leo. «Questo bambino è americano o italiano?»
 
-«È un cittadino del mondo» dice Ben. «Come me!»
+«È un cittadino del mondo» dice Kevin. «Come me!»
 
 Leo apre una **scatola**. La **scatola** è **piccola**. Dentro ci sono piatti e bicchieri. Poi Leo vede una **sedia**. «La **sedia** è **piccola**! È la mia **sedia**!»
 
@@ -46,7 +46,7 @@ Leo apre una **scatola**. La **scatola** è **piccola**. Dentro ci sono piatti e
 
 «Sì. **Il** **tavolo** è **piccolo**, ma **il** **giardino** è **grande**.»
 
-Ben mette **la** **scatola** sul **tavolo**. Adesso **il** **tavolo** è pieno di **cose**. «Perfetto. Adesso apriamo tutte le **scatole**.»
+Kevin mette **la** **scatola** sul **tavolo**. Adesso **il** **tavolo** è pieno di **cose**. «Perfetto. Adesso apriamo tutte le **scatole**.»
 
 «Primo: **la** **cucina**. Secondo: **il** **bagno**. Terzo: le **camere**»
 
@@ -54,9 +54,9 @@ Ben mette **la** **scatola** sul **tavolo**. Adesso **il** **tavolo** è pieno d
 
 «**Il** **salotto** è pieno di **scatole**. E anche **il** **muro** è pieno di **scatole**.»
 
-Ben prende una **scatola** con l'**etichetta** KITCHEN. «Dove metto questa **scatola**?»
+Kevin prende una **scatola** con l'**etichetta** KITCHEN. «Dove metto questa **scatola**?»
 
-«In **cucina**, Ben. **La** **cucina** è qui.»
+«In **cucina**, Kevin. **La** **cucina** è qui.»
 
 «E la **scatola** con l'**etichetta** BATHROOM?»
 
@@ -64,13 +64,13 @@ Ben prende una **scatola** con l'**etichetta** KITCHEN. «Dove metto questa **sc
 
 «**Il** **bagno** al **piano** di sopra. Perfetto!»
 
-«Perfetto? Ben, ci sono dieci **scatole**.»
+«Perfetto? Kevin, ci sono dieci **scatole**.»
 
 Leo prende un **nuovo** **post-it**. Scrive una parola e attacca il **post-it** al **muro**. Sul **post-it** c'è una parola: MURO. «Leo! Perché scrivi MURO sul **muro**?»
 
 «Perché è **il** **muro**! Adesso **il** **muro** ha un nome!»
 
-Ben ride e guarda **la** **porta**. «Anche **la** **porta** ha un nome?»
+Kevin ride e guarda **la** **porta**. «Anche **la** **porta** ha un nome?»
 
 «Sì! **La** **porta** è PORT. Ma in italiano è **la** **porta**.»
 
@@ -78,13 +78,13 @@ Chiara scrive sulla lista. «**La** **chiave** della **porta** è sul **tavolo**
 
 «**La** **chiave**? Quale **chiave**?»
 
-«La **chiave** è **piccola**. Ha un'**etichetta** rossa.» Ben guarda **il** **tavolo**. È pieno di **cose**.
+«La **chiave** è **piccola**. Ha un'**etichetta** rossa.» Kevin guarda **il** **tavolo**. È pieno di **cose**.
 
 «Un **caffè** con **la macchina del caffè**. Il primo **caffè** nella **nuova** **casa**!»
 
-«Quale **caffè**?» «Ben, dov'è **la scatola** con **la macchina del caffè**?» Ben guarda le **scatole** nel **salotto**. Sono dieci. Tutte con un'**etichetta**.
+«Quale **caffè**?» «Kevin, dov'è **la scatola** con **la macchina del caffè**?» Kevin guarda le **scatole** nel **salotto**. Sono dieci. Tutte con un'**etichetta**.
 
-Il sorriso di Ben cambia. «**La macchina del caffè**… è in una **scatola**.»
+Il sorriso di Kevin cambia. «**La macchina del caffè**… è in una **scatola**.»
 
 «In quale **scatola**?»
 
@@ -172,13 +172,13 @@ Sulla **porta** resta **il** **post-it** con la parola EMMA. Emma guarda **il** 
 
 ## 3. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
 
-Nel pomeriggio suona il campanello. Ben apre **la** **porta**. Davanti alla **porta** c'è Ornella Galli. Ha un vestito elegante e una borsa **piccola**. «Buon pomeriggio, Signor Carter.»
+Nel pomeriggio suona il campanello. Kevin apre **la** **porta**. Davanti alla **porta** c'è Ornella Galli. Ha un vestito elegante e una borsa **piccola**. «Buon pomeriggio, Signor Carter.»
 
 «Buon pomeriggio, Signora Galli!»
 
-«Scusi il disturbo. **Il** **gatto** è nel suo **giardino**.» Ben guarda **il** **giardino** dalla **porta**. Nel **giardino** c'è un **gatto** grigio. **Il** **gatto** dorme sul **tavolo** **piccolo**.
+«Scusi il disturbo. **Il** **gatto** è nel suo **giardino**.» Kevin guarda **il** **giardino** dalla **porta**. Nel **giardino** c'è un **gatto** grigio. **Il** **gatto** dorme sul **tavolo** **piccolo**.
 
-«Ah! **Il** **gatto**!» dice Ben. «Come si chiama?»
+«Ah! **Il** **gatto**!» dice Kevin. «Come si chiama?»
 
 «Pavarotti» dice Ornella. «È un **ospite** importante.»
 
@@ -202,7 +202,7 @@ Leo guarda **il** **gatto** sul **tavolo**. «Posso tenere **il** **gatto** in *
 
 «Sì. **Il** **gatto** è un **ospite** per un pomeriggio.»
 
-Ornella guarda Ben. «Signor Carter, per me va bene. Ma **il** **gatto** è un **ospite** speciale.»
+Ornella guarda Kevin. «Signor Carter, per me va bene. Ma **il** **gatto** è un **ospite** speciale.»
 
 «Un **ospite** speciale?»
 
@@ -220,7 +220,7 @@ Ornella entra in **casa**. Guarda **il** **salotto** e le **scatole**. Guarda **
 
 «La **casa** è **nuova** per voi» dice Ornella. «Anche per **il** **gatto**.»
 
-«La **cucina** è **piccola**» dice Ben. «E il **salotto** è pieno di **scatole**.»
+«La **cucina** è **piccola**» dice Kevin. «E il **salotto** è pieno di **scatole**.»
 
 Ornella cammina piano nel **salotto**. «Ai miei tempi, in questa **casa** vive una famiglia con cinque bambini.»
 
@@ -236,11 +236,11 @@ Ornella cammina piano nel **salotto**. «Ai miei tempi, in questa **casa** vive 
 
 «Appunto. Per questo **il** **salotto** è pieno di **cose**.»
 
-Ben guarda la **cucina** **piccola**. Poi guarda **il** **salotto**. Poi guarda **il** **gatto**. _Una **casa** **piccola**. Molti **ospiti**. E una **cucina** **piccola**._ «Un **caffè**, Signora Galli?»
+Kevin guarda la **cucina** **piccola**. Poi guarda **il** **salotto**. Poi guarda **il** **gatto**. _Una **casa** **piccola**. Molti **ospiti**. E una **cucina** **piccola**._ «Un **caffè**, Signora Galli?»
 
 «Volentieri. Ma dov'è **la** **chiave** della **cucina**?»
 
-(Ben non risponde. **La macchina del caffè** è ancora in una **scatola**.) «Signora Galli, il **caffè**… la **scatola** con il **caffè**…»
+(Kevin non risponde. **La macchina del caffè** è ancora in una **scatola**.) «Signora Galli, il **caffè**… la **scatola** con il **caffè**…»
 
 «Capisco. Nessun **caffè** oggi.»
 
@@ -248,7 +248,7 @@ Ben guarda la **cucina** **piccola**. Poi guarda **il** **salotto**. Poi guarda 
 
 Ornella prende la borsa. «**Il** **gatto** resta qui fino a sera» dice. «Grazie, Signor Carter.»
 
-«Grazie a Lei, Signora Galli» dice Ben. «E… come si dice cat-sitter in italiano?»
+«Grazie a Lei, Signora Galli» dice Kevin. «E… come si dice cat-sitter in italiano?»
 
 «Si dice: una persona gentile.»
 
@@ -262,7 +262,7 @@ Ornella esce e chiude **la** **porta**. Leo è sul **divano** con **il** **gatto
 
 ## 4. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
 
-Nel pomeriggio Chiara lavora con la lista. È seduta sul **divano** in **salotto**. Davanti a lei ci sono dieci **scatole**. Ben entra dal **salotto** con una matita in mano.
+Nel pomeriggio Chiara lavora con la lista. È seduta sul **divano** in **salotto**. Davanti a lei ci sono dieci **scatole**. Kevin entra dal **salotto** con una matita in mano.
 
 «Allora, Chiara. Guardiamo le **etichette**?»
 
@@ -294,13 +294,13 @@ Chiara guarda l'ultima **scatola**. «Numero nove: HALL. Numero dieci:… CAFFÈ
 
 «CAFFÈ! **La macchina del caffè**!»
 
-«Ben, questa **scatola** è **piccola**.»
+«Kevin, questa **scatola** è **piccola**.»
 
 «**La macchina del caffè** è **piccola**? No. È **grande**.»
 
 «Allora **la macchina del caffè** non è in questa **scatola**.»
 
-Ben apre la **scatola** con l'**etichetta** CAFFÈ. Dentro non c'è niente. «Vuota. La **scatola** è vuota.»
+Kevin apre la **scatola** con l'**etichetta** CAFFÈ. Dentro non c'è niente. «Vuota. La **scatola** è vuota.»
 
 «Ma c'è un **post-it** dentro.» Sul **post-it** c'è una parola: CAFFÈ.
 
@@ -308,13 +308,13 @@ Ben apre la **scatola** con l'**etichetta** CAFFÈ. Dentro non c'è niente. «Vu
 
 «Certamente. Leo è l'**ospite**… no, Leo è l'etichettatore della **casa**.»
 
-Ben guarda le **scatole** e pensa. «Chiara, dov'è **la** **mia** **camera**?»
+Kevin guarda le **scatole** e pensa. «Chiara, dov'è **la** **mia** **camera**?»
 
 Chiara alza la testa. «**La** **tua** **camera**?»
 
 «Sì. La macchina per le foto.»
 
-«Ben, in italiano **la** **camera** è una stanza!»
+«Kevin, in italiano **la** **camera** è una stanza!»
 
 «Una stanza?»
 
@@ -326,7 +326,7 @@ Leo arriva dal **salotto** con il **gatto** in braccio. «Sì! **La** **camera**
 
 «Macchina fotografica»
 
-Ben prende il quaderno giallo dalla tasca. Scrive una parola nuova e la numera. _Errore numero venti: **camera**. Ma una parola in più._ «Grazie, Leo. Buon sistema anche questo.»
+Kevin prende il quaderno giallo dalla tasca. Scrive una parola nuova e la numera. _Errore numero venti: **camera**. Ma una parola in più._ «Grazie, Leo. Buon sistema anche questo.»
 
 «È il sistema delle **cose**.»
 
@@ -338,7 +338,7 @@ Chiara si alza dal **divano**. «Adesso guardiamo nel **giardino**. La **scatola
 
 «Come sai?»
 
-«Perché **la** **finestra** del **salotto** guarda **il** **giardino**. E io guardo sempre.» Ben guarda dalla **finestra**. Nel **giardino** c'è una **scatola** **grande** sul **tavolo** **piccolo**. Sulla **scatola** dorme **il** **gatto**.
+«Perché **la** **finestra** del **salotto** guarda **il** **giardino**. E io guardo sempre.» Kevin guarda dalla **finestra**. Nel **giardino** c'è una **scatola** **grande** sul **tavolo** **piccolo**. Sulla **scatola** dorme **il** **gatto**.
 
 «Il **gatto** dorme sulla **scatola**?»
 
@@ -370,13 +370,13 @@ Leo prende **il** **gatto** in braccio. Chiara apre **la** **scatola** **grande*
 
 «**La macchina del caffè** è una **cosa** importante. Quindi in italiano.»
 
-Ben guarda Chiara. Chiara ride. «Il sistema è internazionale»
+Kevin guarda Chiara. Chiara ride. «Il sistema è internazionale»
 
 ## 5. Via dei Tigli · sabato sera
 
 È sabato sera in Via dei Tigli. Nelle **finestre** della **casa** numero quattordici c'è luce. Franco arriva con una busta di pomodori. Guarda **la** **casa**, **il** **giardino**, **la** **porta**. Poi suona il campanello.
 
-Ben apre **la** **porta**. «Buonasera» dice Franco. «Pomodori. Per Leo.»
+Kevin apre **la** **porta**. «Buonasera» dice Franco. «Pomodori. Per Leo.»
 
 «Grazie! Leo è nel **salotto**. Con **il** **gatto**.»
 
@@ -384,7 +384,7 @@ Franco si ferma. «Con **il** **gatto**?»
 
 «**Il** **gatto** della Signora Galli. Pavarotti è un **ospite**.»
 
-Franco guarda Ben e non dice niente. «Mah»
+Franco guarda Kevin e non dice niente. «Mah»
 
 Chiara arriva dalla **cucina**. «Papà! Ciao.»
 
@@ -424,7 +424,7 @@ Chiara apre una **scatola**. Dentro ci sono piatti e tazze. «Al **piano** di so
 
 «Mah»
 
-Ben arriva con tre tazze. «Ho… ecco, io faccio il **caffè**?»
+Kevin arriva con tre tazze. «Ho… ecco, io faccio il **caffè**?»
 
 «Il **caffè** è una **cosa** seria» dice Franco. «Non una **cosa** americana.»
 
@@ -432,7 +432,7 @@ Ben arriva con tre tazze. «Ho… ecco, io faccio il **caffè**?»
 
 «Mah»
 
-Ben mette le tazze sul **tavolo**. Poi guarda Franco. «La **cucina** è **piccola**, ma **il** **tavolo** è **nuovo**.»
+Kevin mette le tazze sul **tavolo**. Poi guarda Franco. «La **cucina** è **piccola**, ma **il** **tavolo** è **nuovo**.»
 
 «**Il** **tavolo** è **nuovo**» dice Franco. «**Il** **muro** è vecchio. E **il** **giardino**?»
 
@@ -444,7 +444,7 @@ Franco prende la busta vuota. Va verso **la** **porta**. «Grazie, papà»
 
 «Pomodori per Leo. Non per l'americano.»
 
-«Ma i pomodori sono **cosa** di famiglia» dice Ben. «Come il **caffè**!»
+«Ma i pomodori sono **cosa** di famiglia» dice Kevin. «Come il **caffè**!»
 
 Franco si ferma **alla** **porta**. «Mah»
 
@@ -462,7 +462,7 @@ Chiara chiude **la** **porta**. Guarda **il** **salotto**: le **scatole**, **il*
 
 È domenica mattina. **Il** **gatto** non è più in **casa**. **La** **casa** è tranquilla. Sul **tavolo** della **cucina** c'è **la macchina del caffè**.
 
-Ben entra in **cucina** e guarda la macchina. Sopra c'è un **post-it**. Sul **post-it** c'è una parola: PAVAROTTI. «Leo!» chiama Ben. «Perché c'è un **post-it** sulla **macchina del caffè**?»
+Kevin entra in **cucina** e guarda la macchina. Sopra c'è un **post-it**. Sul **post-it** c'è una parola: PAVAROTTI. «Leo!» chiama Kevin. «Perché c'è un **post-it** sulla **macchina del caffè**?»
 
 Leo arriva con la maglietta storta. «Perché Pavarotti è un **ospite** importante!»
 
@@ -482,7 +482,7 @@ Chiara arriva in **cucina** con i capelli bagnati. «Buongiorno. **Il** **caffè
 
 «Sì. E il primo **caffè** nella **casa** **nuova** è per te.»
 
-Ben prepara il **caffè**. La macchina fa un rumore forte, poi un rumore piano. Poi un odore buono nel **cucina**. «Perfetto!» dice Ben. «Come a Chicago!»
+Kevin prepara il **caffè**. La macchina fa un rumore forte, poi un rumore piano. Poi un odore buono nel **cucina**. «Perfetto!» dice Kevin. «Come a Chicago!»
 
 «Meglio»
 
@@ -504,7 +504,7 @@ Leo prende un **post-it** **nuovo**. Scrive una parola e va verso **la** **porta
 
 «In italiano. **La** **porta** è importante.»
 
-Ben guarda **il** **post-it** sulla **porta**. Poi guarda **la** **scatola** sotto **l'armadio**. _Un **post-it** CASA sulla **porta**. E una **scatola** ancora chiusa. Ma va bene._ «Non lo tolgo» dice Ben. «È **una** **cosa** **grande**.»
+Kevin guarda **il** **post-it** sulla **porta**. Poi guarda **la** **scatola** sotto **l'armadio**. _Un **post-it** CASA sulla **porta**. E una **scatola** ancora chiusa. Ma va bene._ «Non lo tolgo» dice Kevin. «È **una** **cosa** **grande**.»
 
 «Che **cosa**?»
 

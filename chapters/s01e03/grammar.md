@@ -42,7 +42,7 @@ In the singular, the vowel hides the gender. In the plural, the gender comes bac
 
 ## From the story
 
-«Ben, perché le **etichette** sono in inglese?» — “Ben, why are the **labels** in English?” (`s01e03-1-011`)
+«Kevin, perché le **etichette** sono in inglese?» — “Kevin, why are the **labels** in English?” (`s01e03-1-011`)
 *Feminine plural: **le** before a consonant, and the noun is *etichette* (plural of *etichetta*).*
 
 «Questo è **il** **tavolo**.» — “This is **the** **table**.” (`s01e03-1-015`)

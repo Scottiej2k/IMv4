@@ -10,7 +10,7 @@ Ages are given at the start of Season 1.
 
 ## The Carter–Ferri household: Via dei Tigli 14
 
-### Ben Carter · `ben` · 41
+### Kevin Carter · `ben` · 41
 **The newcomer.** From Columbus, Ohio. He spent 12 years as a marketing manager for a Chicago food
 company and quit to make the move. In Borgoverde he is, for the first time in his adult life, not
 good at anything. He handles the house, the school runs and the shopping, and he is very much
@@ -40,7 +40,7 @@ who won't let her help.
 - **Wants:** to make the move "work" for everyone. **Needs:** to let people, her father especially,
   live their own lives.
 - **Speech profile:** fast, efficient Italian with lists and plans (*Primo… secondo… terzo…*). When
-  stressed she talks even faster and finishes Ben's sentences for him. With Franco
+  stressed she talks even faster and finishes Kevin's sentences for him. With Franco
   she becomes a daughter again: short, sharp, loving. Catchphrase: *Ci penso io.* ("I'll handle it.")
 - **Keeps her surname Ferri** (Italian women do). The kids are Carter.
 
@@ -49,13 +49,13 @@ who won't let her help.
 commutes by train with Tommaso and her new best friend Bianca. Her Italian is good but "American",
 and she is desperate to sound native.
 
-- **Personality:** sharp, proud, easily embarrassed (mostly by Ben), secretly sentimental. She writes
+- **Personality:** sharp, proud, easily embarrassed (mostly by Kevin), secretly sentimental. She writes
   songs in a notebook.
 - **Arc:** from "I want to go back to Chicago" to someone who chooses her own path, all the way to
   the *maturità*.
 - **Speech profile:** teen Italian: *Dai!*, *Boh.*, *Tipo…*, *Raga*, *Che ansia!*, *Che palle*
   (rare), plus eye-rolling in the narration. With adults she's clipped; with Bianca she rattles on.
-  She corrects Ben's Italian mercilessly.
+  She corrects Kevin's Italian mercilessly.
 
 ### Leo Carter · `leo` · 8
 **The fearless one.** He's in *terza elementare* at the Scuola primaria Gianni Rodari. He speaks
@@ -79,8 +79,8 @@ religiously.
 
 - **Personality:** blunt, stubborn, proud, traditional; secretly tender, especially with Leo. He
   can't say "I love you" but will fix your bicycle at 6 a.m.
-- **Arc:** from calling Ben *l'americano* to calling him *figlio mio*. The first time he calls Ben
-  "Ben" is the Season 1 finale, and it matters.
+- **Arc:** from calling Kevin *l'americano* to calling him *figlio mio*. The first time he calls Kevin
+  "Kevin" is the Season 1 finale, and it matters.
 - **Speech profile:** short, blunt sentences. Proverbs (*Chi va piano va sano e va lontano*, *Chi fa
   da sé fa per tre*, *Tra il dire e il fare c'è di mezzo il mare*). He grumbles (*Mah!*, *Bah!*) and
   talks about trams as metaphors for life. He speaks slowly and clearly to Leo, which is useful at A1.
@@ -126,7 +126,7 @@ Sunday lunch.
   including the question of what name to give the baby.
 - **Speech profile:** economical and exact, with deadpan irony (*Certo. Geniale. Come l'ultima
   volta.*). She brings health and pharmacy vocabulary (useful for a "at the doctor/pharmacy"
-  chapter). She becomes Ben's unofficial Italian coach, blunt but effective.
+  chapter). She becomes Kevin's unofficial Italian coach, blunt but effective.
 
 ---
 
@@ -139,7 +139,7 @@ her window.
 
 - **Personality:** elegant, formal, sharp-eyed, lonely and funnier than anyone expects. She judges
   Matteo's changes to "Gino's bar" and slowly adopts the Carter kids as grandchildren.
-- **Arc:** her friendship with Ben (he brings her shopping; she teaches him manners). The *Lei* to
+- **Arc:** her friendship with Kevin (he brings her shopping; she teaches him manners). The *Lei* to
   *tu* moment comes in Season 2. She has a health scare in Season 5 and memories of the street's
   history throughout.
 - **Speech profile:** formal *Lei*, impeccable grammar, old-fashioned words (*codesto* only as a
@@ -153,10 +153,10 @@ quartiere Via dei Tigli*. He lives at no. 11 with his wife **Marina** (recurring
 
 - **Personality:** pedantic, passive-aggressive, lonely in his own way. He has deep civic pride and
   really does love the neighbourhood.
-- **Arc:** from Ben's nemesis (parking, bins, hedges, the festa) to rival, to ally against the
+- **Arc:** from Kevin's nemesis (parking, bins, hedges, the festa) to rival, to ally against the
   developer in Season 6, to friend. He runs for town council in Season 5.
 - **Speech profile:** formal, bureaucratic, full of rule-talk: *Ai sensi del regolamento…*, *Come da
-  verbale…*, *Le ricordo che…*. He uses *Lei* with Ben for a long time on purpose. At B1–B2 he is the
+  verbale…*, *Le ricordo che…*. He uses *Lei* with Kevin for a long time on purpose. At B1–B2 he is the
   source of formal written and administrative language (notices, minutes, forms).
 
 ### Tommaso Colombo · `tommaso` · 15
@@ -176,19 +176,19 @@ skateboards and says little.
 |---|---|---|---|
 | `bianca` | Bianca Rota | Emma's best friend at liceo | Chatty and dramatic, an influencer wannabe |
 | `samira` | Samira Benali | Nadia's mother | Warm and formidable; she and Lucia compete through food |
-| `marina` | Marina Colombo | Roberto's wife | Quietly funnier than her husband; a secret ally of Ben's |
+| `marina` | Marina Colombo | Roberto's wife | Quietly funnier than her husband; a secret ally of Kevin's |
 | `maestra-paola` | Paola Riva | Leo's teacher | Patient and kind; the parent–teacher chat at A1–A2 |
 | `pietro` | Pietro | Leo's best friend | A know-it-all 8-year-old |
 | `marchetti` | Arch. Giorgio Marchetti | Chiara's boss in Milan | A charismatic, demanding link to the city |
-| `alberto` | Alberto Neri | Ben's Italian teacher at the Centro civico evening course | Seasons 1–2; a grammar-joke enthusiast |
+| `alberto` | Alberto Neri | Kevin's Italian teacher at the Centro civico evening course | Seasons 1–2; a grammar-joke enthusiast |
 | `gennaro` | Gennaro | Lucia's son in London | Video calls; arrives for the wedding |
 | `don-luigi` | Don Luigi | Parish priest | The festa, the wedding |
 | `sindaca` | Sindaca Valeria Conti | Mayor of Borgoverde | Seasons 5–6 politics |
-| `ben-parents` | Doug & Linda Carter | Ben's parents from Ohio | The S3 visit, where Ben becomes the translator |
-| `grace` | Dr Grace Okafor | Doctor from London, working at the hospital in Monza; moves to Via dei Tigli 7 | S7–S8: the new newcomer, whom Ben mentors |
+| `ben-parents` | Doug & Linda Carter | Kevin's parents from Ohio | The S3 visit, where Kevin becomes the translator |
+| `grace` | Dr Grace Okafor | Doctor from London, working at the hospital in Monza; moves to Via dei Tigli 7 | S7–S8: the new newcomer, whom Kevin mentors |
 | `daniel` | Daniel Okafor | Grace's son, two years older than Leo (13 in S7) | S7–S8: Leo's friend; learning Italian from zero |
 | `sergio` | Sergio | The builders' foreman | S2 renovation. Catchphrase: *Nessun problema.* |
 | `irina` | Irina | Ornella's Ukrainian carer, a nurse with a sense of humour | S5–S8 |
-| `mike` | Mike | Ben's old friend from Chicago | S5 visit |
+| `mike` | Mike | Kevin's old friend from Chicago | S5 visit |
 
 Minor characters get a voice in `config/voices.json` only once they have lines.

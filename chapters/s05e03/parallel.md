@@ -10,39 +10,39 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | È venerdì pomeriggio e in casa Carter c'è un silenzio strano. | It's Friday afternoon and in the Carter house there's a strange silence. |
 | Fuori piove piano e la luce in cucina è grigia. | Outside it's raining softly and the light in the kitchen is grey. |
-| Ben è seduto al tavolo davanti al portatile aperto. | Ben is sitting at the table in front of the open laptop. |
+| Kevin è seduto al tavolo davanti al portatile aperto. | Kevin is sitting at the table in front of the open laptop. |
 | Legge le stesse dodici righe da tre giorni. | He has been reading the same twelve lines for three days. |
-| «Buongiorno, Ben. Noi dell'**azienda** abbiamo una **proposta** per te.» Ben legge ad alta voce, con la voce di un'altra persona. | “Good morning, Ben. We at the **company** have a **proposal** for you.” Ben reads aloud, in someone else's voice. |
+| «Buongiorno, Kevin. Noi dell'**azienda** abbiamo una **proposta** per te.» Kevin legge ad alta voce, con la voce di un'altra persona. | “Good morning, Kevin. We at the **company** have a **proposal** for you.” Kevin reads aloud, in someone else's voice. |
 | Sullo schermo ci sono una firma e un nome: Dave Miller, il suo vecchio **capo**. | On the screen there's a signature and a name: Dave Miller, his old **boss**. |
 | _Dave. Sette anni nello stesso ufficio, cinque pranzi a settimana, due figlie e un cane._ | _Dave. Seven years in the same office, five lunches a week, two daughters and a dog._ |
 | _E adesso Dave scrive un'**email** e la mia vita diventa complicata._ | _And now Dave writes an **email** and my life gets complicated._ |
-| Ben tocca lo schermo con un dito, come per controllare che sia vero. | Ben touches the screen with a finger, as if to check that it's real. |
+| Kevin tocca lo schermo con un dito, come per controllare che sia vero. | Kevin touches the screen with a finger, as if to check that it's real. |
 | L'**email** dice tre cose, e le dice in ordine. | The **email** says three things, and it says them in order. |
 | La prima: «**Vogliamo che** tu **torni** a Chicago.» | The first: “**We want** you to **come back** to Chicago.” |
 | La seconda: «Ti offriamo una **promozione**: sarai **direttore** del marketing.» | The second: “We're offering you a **promotion**: you'll be **director** of marketing.” |
 | La terza: «Lo **stipendio** sarà il doppio di quello di oggi.» | The third: “The **salary** will be double what it is today.” |
-| Ben chiude il portatile, poi lo riapre subito. | Ben closes the laptop, then immediately opens it again. |
+| Kevin chiude il portatile, poi lo riapre subito. | Kevin closes the laptop, then immediately opens it again. |
 | _La **promozione**. Il **direttore**. Lo **stipendio** doppio._ | _The **promotion**. The **director**. Double the **salary**._ |
 | _Il doppio. In dollari, questo vuol dire **guadagnare** molto bene._ | _Double. In dollars, that means **earning** very well._ |
 | Ma il sorriso gli dura poco. | But his smile doesn't last long. |
 | Perché sotto le tre cose ce n'è una quarta, scritta in fondo, piccola piccola. | Because under the three things there's a fourth one, written at the bottom, very small. |
 | «**Vorremmo che** tu cominci a marzo. A casa ci pensiamo noi: una casa grande, una macchina nuova.» | “**We'd like** you to start in March. We'll take care of the house: a big house, a new car.” |
-| Ben guarda la cucina: il tavolo, il frigo, il quaderno giallo. | Ben looks at the kitchen: the table, the fridge, the yellow notebook. |
+| Kevin guarda la cucina: il tavolo, il frigo, il quaderno giallo. | Kevin looks at the kitchen: the table, the fridge, the yellow notebook. |
 | _**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risposto**._ | _**They want** me to **accept** by next Friday. And I still haven't **replied**._ |
 | _Non ho **risposto** a nessuno, nemmeno a Dave._ | _I haven't **replied** to anyone, not even Dave._ |
-| Ben si alza e cammina avanti e indietro davanti al frigorifero. | Ben gets up and walks back and forth in front of the fridge. |
+| Kevin si alza e cammina avanti e indietro davanti al frigorifero. | Kevin gets up and walks back and forth in front of the fridge. |
 | Apre il frigo, guarda dentro, lo chiude. | He opens the fridge, looks inside, closes it. |
 | _Nel frigo c'è la cena di stasera. In Ohio c'è mia madre. A Chicago c'è il mio vecchio ufficio. E qui c'è tutto il resto._ | _In the fridge there's tonight's dinner. In Ohio there's my mother. In Chicago there's my old office. And here there's everything else._ |
 | Sul tavolo, accanto al portatile, c'è il quaderno giallo delle parole nuove. | On the table, next to the laptop, there's the yellow notebook of new words. |
-| Sulla pagina di oggi Ben ha scritto una parola sola: frittata. | On today's page Ben has written just one word: frittata. |
+| Sulla pagina di oggi Kevin ha scritto una parola sola: frittata. | On today's page Kevin has written just one word: frittata. |
 | _Tre anni di parole nuove, tutte qui dentro. E adesso la decisione più importante arriva in inglese._ | _Three years of new words, all in here. And now the most important decision arrives in English._ |
 | Alle sei e mezza la porta d'ingresso si apre con un rumore bagnato. | At half past six the front door opens with a wet sound. |
 | Chiara entra con la borsa sulla spalla e i capelli pieni di pioggia. | Chiara comes in with her bag on her shoulder and her hair full of rain. |
 | «Che giornata!» dice, e appoggia la borsa su una sedia. | “What a day!” she says, and puts her bag on a chair. |
-| Ben chiude il portatile con un movimento troppo veloce. | Ben closes the laptop with a movement that's too fast. |
+| Kevin chiude il portatile con un movimento troppo veloce. | Kevin closes the laptop with a movement that's too fast. |
 | «Ciao. Tutto bene?» | “Hi. Everything OK?” |
 | «Tutto bene.» Chiara si toglie le scarpe e sospira. «**Vuole che** io vada a Roma per il progetto nuovo.» | “Everything's fine.” Chiara takes off her shoes and sighs. “**He wants** me to go to Rome for the new project.” |
-| «Ah. Roma.» Ben guarda il tavolo. | “Ah. Rome.” Ben looks at the table. |
+| «Ah. Roma.» Kevin guarda il tavolo. | “Ah. Rome.” Kevin looks at the table. |
 | «Tre giorni alla settimana, per due mesi. E **vuole che** io cominci lunedì.» | “Three days a week, for two months. And **he wants** me to start on Monday.” |
 | _Roma. Certo. Perché no? Mettiamo anche Roma._ | _Rome. Of course. Why not? Let's add Rome too._ |
 | «E tu? Come stai?» chiede, e finalmente lo guarda in faccia. | “And you? How are you?” she asks, and finally looks him in the face. |
@@ -52,11 +52,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché è un momento importante. Devo **rispondere** alla **sede** di Chicago.» | “Because it's an important moment. I have to **reply** to the Chicago **office**.” |
 | _Seconda bugia in dieci minuti. Sto migliorando, purtroppo._ | _Second lie in ten minutes. I'm improving, unfortunately._ |
 | Chiara lo guarda per tre secondi interi, che in questa casa sono tanti. | Chiara looks at him for three whole seconds, which in this house is a lot. |
-| «Ben, ti conosco da sedici anni.» «Quando dici "benissimo" con quella faccia, c'è qualcosa.» | “Ben, I've known you for sixteen years.” “When you say ‘very good’ with that face, there's something.” |
+| «Kevin, ti conosco da sedici anni.» «Quando dici "benissimo" con quella faccia, c'è qualcosa.» | “Kevin, I've known you for sixteen years.” “When you say ‘very good’ with that face, there's something.” |
 | «Quale faccia? Questa è la mia faccia normale.» «Sono americano.» | “What face? This is my normal face.” “I'm American.” |
 | Chiara ride, contro la sua volontà. | Chiara laughs, against her will. |
 | «Sì, questo lo vedo.» «Però stasera cucini tu.» | “Yes, that I can see.” “But tonight you're cooking.” |
-| «Perfetto. Frittata!» Ben prende le uova dal frigo, felice di avere un lavoro semplice. | “Perfect. Frittata!” Ben takes the eggs from the fridge, happy to have a simple job. |
+| «Perfetto. Frittata!» Kevin prende le uova dal frigo, felice di avere un lavoro semplice. | “Perfect. Frittata!” Kevin takes the eggs from the fridge, happy to have a simple job. |
 | Mentre sbatte le uova, però, tiene gli occhi sul portatile chiuso. | While he beats the eggs, though, he keeps his eyes on the closed laptop. |
 | _Sette volte. L'ho letta sette volte._ | _Seven times. I've read it seven times._ |
 | _E ogni volta la fine è sempre la stessa: "**Vogliamo che** tu **torni**"._ | _And every time the ending is always the same: “**We want** you to **come back**.”_ |
@@ -66,7 +66,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Le uova sono un argomento serio.» | “Eggs are a serious subject.” |
 | Chiara sorride, ma la sua mano resta ferma sul telefono. | Chiara smiles, but her hand stays still on the phone. |
 | _Mio marito mente malissimo. Però stasera non ho la forza di discutere._ | _My husband is a terrible liar. But tonight I don't have the strength to argue._ |
-| In cucina, Ben mette la frittata nel piatto e conta i giorni. | In the kitchen, Ben puts the frittata on the plate and counts the days. |
+| In cucina, Kevin mette la frittata nel piatto e conta i giorni. | In the kitchen, Kevin puts the frittata on the plate and counts the days. |
 | _Venerdì prossimo. Sette giorni. Un'**offerta** così non arriva due volte nella vita._ | _Next Friday. Seven days. An **offer** like this doesn't come twice in a lifetime._ |
 | _Lo **stipendio** doppio. La **promozione**. Il titolo di **direttore**._ | _Double the **salary**. The **promotion**. The title of **director**._ |
 | _E poi la **sede** grande, con le finestre sul lago, dove ho lavorato dodici anni._ | _And then the big **office**, with windows on the lake, where I worked for twelve years._ |
@@ -79,31 +79,31 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io penso sempre.» «A volte penso troppo.» | “I always think.” “Sometimes I think too much.” |
 | _Bella frase. Però non è vera._ | _Nice sentence. But it isn't true._ |
 | Dopo cena, Chiara sale di sopra a lavorare. | After dinner, Chiara goes upstairs to work. |
-| Ben resta solo in cucina, con i piatti sporchi e il portatile davanti. | Ben stays alone in the kitchen, with the dirty dishes and the laptop in front of him. |
+| Kevin resta solo in cucina, con i piatti sporchi e il portatile davanti. | Kevin stays alone in the kitchen, with the dirty dishes and the laptop in front of him. |
 | Apre l'**email** un'ultima volta e legge le ultime due righe. | He opens the **email** one last time and reads the last two lines. |
 | «Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.» | “We await your news by Friday. Best regards, Dave.” |
 | _Tre giorni di **segreto** sono già troppi. Un **segreto** così pesa come un sacco di patate._ | _Three days of **secret** are already too many. A **secret** like this weighs like a sack of potatoes._ |
 | _**Vogliono che** io **torni** in America. Ma qui c'è mia moglie, e stasera mia moglie è stanca._ | _**They want** me to **come back** to America. But here there's my wife, and tonight my wife is tired._ |
-| Ben chiude il portatile, spegne la luce della cucina e sale le scale. | Ben closes the laptop, turns off the kitchen light and goes upstairs. |
+| Kevin chiude il portatile, spegne la luce della cucina e sale le scale. | Kevin closes the laptop, turns off the kitchen light and goes upstairs. |
 | _Stasera no. Domani._ | _Not tonight. Tomorrow._ |
 
 ## 2. Casa di Ornella, Via dei Tigli 16 · venerdì sera
 
 | Italiano | English |
 |---|---|
-| Alle nove di sera Ben attraversa la strada con due borse della spesa. | At nine in the evening Ben crosses the street with two shopping bags. |
+| Alle nove di sera Kevin attraversa la strada con due borse della spesa. | At nine in the evening Kevin crosses the street with two shopping bags. |
 | La pioggia è finita e l'asfalto lucido riflette i lampioni. | The rain has stopped and the shiny asphalt reflects the streetlights. |
 | Alla finestra del numero sedici c'è già una luce accesa. | At the window of number sixteen a light is already on. |
 | Ornella apre la porta prima che lui suoni il campanello. | Ornella opens the door before he rings the bell. |
-| «Buonasera, Ben. Ti ho visto arrivare.» | “Good evening, Ben. I saw you coming.” |
-| «Buonasera, Ornella. Latte, pane, mele e biscotti.» Ben posa le borse sul tavolo. | “Good evening, Ornella. Milk, bread, apples and biscuits.” Ben puts the bags on the table. |
+| «Buonasera, Kevin. Ti ho visto arrivare.» | “Good evening, Kevin. I saw you coming.” |
+| «Buonasera, Ornella. Latte, pane, mele e biscotti.» Kevin posa le borse sul tavolo. | “Good evening, Ornella. Milk, bread, apples and biscuits.” Kevin puts the bags on the table. |
 | «Sei un gentiluomo. Siediti, ho fatto il tè.» | “You're a gentleman. Sit down, I've made tea.” |
-| Ben si siede, ma non beve. | Ben sits down, but he doesn't drink. |
+| Kevin si siede, ma non beve. | Kevin sits down, but he doesn't drink. |
 | Guarda la tazza, poi guarda la finestra, poi guarda le sue mani. | He looks at the cup, then at the window, then at his hands. |
 | Ornella si siede di fronte a lui e aspetta. | Ornella sits down opposite him and waits. |
 | «Ornella, devo **raccontare** una cosa a qualcuno. A te.» | “Ornella, I have to **tell** something to someone. To you.” |
 | «Allora racconta.» | “Then tell it.” |
-| Ben tira fuori dalla tasca un foglio piegato in quattro. | Ben takes out of his pocket a sheet of paper folded in four. |
+| Kevin tira fuori dalla tasca un foglio piegato in quattro. | Kevin takes out of his pocket a sheet of paper folded in four. |
 | «Tre giorni fa ho ricevuto un'**email** dall'**azienda** dove lavoravo a Chicago.» | “Three days ago I received an **email** from the **company** where I used to work in Chicago.” |
 | «Ah.» Ornella non muove un muscolo. | “Ah.” Ornella doesn't move a muscle. |
 | «C'è un'**offerta**. Una **proposta** di lavoro vera.» | “There's an **offer**. A real job **proposal**.” |
@@ -116,12 +116,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E il **trasferimento** sarebbe a marzo. Vogliono la risposta entro venerdì prossimo.» | “And the **move** would be in March. They want the answer by next Friday.” |
 | Per un momento nella stanza c'è solo il rumore del frigorifero. | For a moment the only sound in the room is the fridge. |
 | «E Chiara lo sa?» | “And does Chiara know?” |
-| Ben guarda il tavolo. | Ben looks at the table. |
+| Kevin guarda il tavolo. | Kevin looks at the table. |
 | «No.» | “No.” |
-| «Ben.» Ornella si toglie gli occhiali e lo guarda bene in faccia. «**Spero che** tu lo **dica** a Chiara stasera. Prima di dormire.» | “Ben.” Ornella takes off her glasses and looks him right in the face. “**I hope** you **tell** Chiara tonight. Before you sleep.” |
+| «Kevin.» Ornella si toglie gli occhiali e lo guarda bene in faccia. «**Spero che** tu lo **dica** a Chiara stasera. Prima di dormire.» | “Kevin.” Ornella takes off her glasses and looks him right in the face. “**I hope** you **tell** Chiara tonight. Before you sleep.” |
 | «Stasera? È tardi, è stanca, domani…» | “Tonight? It's late, she's tired, tomorrow…” |
 | «No, domani no.» «Un **segreto** in una casa è come l'umidità in un muro: non si vede e poi fa cadere tutto.» | “No, not tomorrow.” “A **secret** in a house is like damp in a wall: you don't see it and then it makes everything fall down.” |
-| Ben non risponde. | Ben doesn't answer. |
+| Kevin non risponde. | Kevin doesn't answer. |
 | _Umido. Muro. Casa. Grazie, Ornella. Adesso ho anche paura dei muri._ | _Damp. Wall. House. Thanks, Ornella. Now I'm afraid of walls too._ |
 | «Posso **chiedere** una cosa?» dice dopo un momento. | “Can I **ask** you something?” he says after a moment. |
 | «Chiedi.» | “Ask.” |
@@ -129,20 +129,20 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella sorride e si sistema sulla sedia, come chi ha una storia pronta da tempo. | Ornella smiles and settles in her chair, like someone who has had a story ready for a long time. |
 | «Nel millenovecentosessantotto mio marito Gino ha avuto una proposta simile.» | “In nineteen sixty-eight my husband Gino had a similar proposal.” |
 | «Gino? Il bar?» | “Gino? The bar?” |
-| «Prima del bar, Ben. Gino lavorava in una **sede** grande, a Milano. Una **sede** con cento persone.» | “Before the bar, Ben. Gino worked in a big **office** in Milan. An **office** with a hundred people.” |
+| «Prima del bar, Kevin. Gino lavorava in una **sede** grande, a Milano. Una **sede** con cento persone.» | “Before the bar, Kevin. Gino worked in a big **office** in Milan. An **office** with a hundred people.” |
 | «E poi?» | “And then?” |
 | «Poi gli hanno chiesto di **trasferirsi** a Torino. Più soldi, una **promozione**, un appartamento nuovo.» | “Then they asked him to **move** to Turin. More money, a **promotion**, a new flat.” |
 | «E lui?» | “And him?” |
 | «Lui ha **rifiutato**.» Ornella dice la parola con una specie di orgoglio. «Ha rifiutato tutto e ha aperto il bar qui, in piazza.» | “He **refused**.” Ornella says the word with a kind of pride. “He refused everything and opened the bar here, on the square.” |
 | «Perché?» | “Why?” |
 | «Perché a Torino non conosceva nessuno, e qui conosceva tutti.» «E perché **preferisco che** le persone entrino dalla porta e mi chiamino per nome.» | “Because in Turin he didn't know anyone, and here he knew everyone.” “And because **I prefer** people to come in through the door and call me by name.” |
-| Ben guarda la stanza: le foto, il tavolo, la tazza di tè. | Ben looks around the room: the photos, the table, the cup of tea. |
+| Kevin guarda la stanza: le foto, il tavolo, la tazza di tè. | Kevin looks around the room: the photos, the table, the cup of tea. |
 | «Quarant'anni di bar.» | “Forty years of a bar.” |
 | «Quarant'anni di nomi.» «E di caffè. E di gente che **tornava** ogni mattina.» | “Forty years of names.” “And of coffee. And of people who **came back** every morning.” |
-| Ben ride piano e si passa una mano nei capelli. | Ben laughs softly and runs a hand through his hair. |
+| Kevin ride piano e si passa una mano nei capelli. | Kevin laughs softly and runs a hand through his hair. |
 | «Qui **guadagno** un quarto di quello che mi offrono là.» | “Here I **earn** a quarter of what they're offering me there.” |
 | «E qui guadagni che cosa?» | “And here what do you earn?” |
-| Ben non risponde subito. | Ben doesn't answer right away. |
+| Kevin non risponde subito. | Kevin doesn't answer right away. |
 | «Qui guadagno un posto al bancone alle sette del mattino, con Matteo che mi chiama per nome.» | “Here I earn a place at the counter at seven in the morning, with Matteo calling me by name.” |
 | «Vedi?» «Anche tu parli di nomi.» | “You see?” “You talk about names too.” |
 | «Sì. Però a Chicago c'è la mia **azienda**, il mio vecchio ufficio, la mia lingua.» | “Yes. But in Chicago there's my **company**, my old office, my language.” |
@@ -150,7 +150,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No, lì sarei normale.» | “No, there I'd be normal.” |
 | Ornella annuisce, seria. | Ornella nods, serious. |
 | «Questo lo capisco. Quando sei stanco di essere strano, vuoi **tornare** dove sei normale.» | “I understand that. When you're tired of being strange, you want to **go back** where you're normal.” |
-| Ben la guarda, sorpreso. | Ben looks at her, surprised. |
+| Kevin la guarda, sorpreso. | Kevin looks at her, surprised. |
 | «È esattamente questo.» | “That's exactly it.” |
 | «Bene. Però poi ti chiedo: Chiara dove sarebbe normale?» | “Good. But then I ask you: where would Chiara be normal?” |
 | Silenzio. | Silence. |
@@ -159,18 +159,18 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nessuno ti chiede di decidere stanotte.» | “Nobody's asking you to decide tonight.” |
 | «No. Però **vogliono che** io risponda entro una settimana.» | “No. But **they want** me to answer within a week.” |
 | Ornella si alza e va verso la cucina. | Ornella gets up and goes towards the kitchen. |
-| «Ti do una **notizia**, Ben.» «Della **sede** di Chicago non so niente. Ma so una cosa del tuo bar.» | “I'll give you a piece of **news**, Ben.” “About the Chicago **office** I know nothing. But I know one thing about your bar.” |
+| «Ti do una **notizia**, Kevin.» «Della **sede** di Chicago non so niente. Ma so una cosa del tuo bar.» | “I'll give you a piece of **news**, Kevin.” “About the Chicago **office** I know nothing. But I know one thing about your bar.” |
 | «Cioè?» | “What?” |
 | «**Preferisco** il tuo bar a qualsiasi sede di Chicago.» «E non è una frase gentile: è la verità.» | “**I prefer** your bar to any office in Chicago.” “And it's not a kind sentence: it's the truth.” |
-| Ben ride, e per la prima volta in tre giorni ha una faccia normale. | Ben laughs, and for the first time in three days he has a normal face. |
+| Kevin ride, e per la prima volta in tre giorni ha una faccia normale. | Kevin laughs, and for the first time in three days he has a normal face. |
 | «Grazie.» | “Thanks.” |
 | «Prego. **Comunque** non decidi da solo.» «Questo è il punto.» | “You're welcome. **Anyway**, you don't decide alone.” “That's the point.” |
-| Ben si alza e prende il giacchetto. | Ben gets up and takes his jacket. |
+| Kevin si alza e prende il giacchetto. | Kevin gets up and takes his jacket. |
 | «Quindi stasera?» | “So tonight?” |
 | «Stasera lo dici a Chiara.» «Anche se è stanca. Anche se è tardi. Anche se litigate.» | “Tonight you tell Chiara.” “Even if she's tired. Even if it's late. Even if you argue.” |
 | «Anche se litighiamo.» | “Even if we argue.” |
 | «Soprattutto se litigate.» | “Especially if you argue.” |
-| Ben apre la porta e si volta un'ultima volta. | Ben opens the door and turns around one last time. |
+| Kevin apre la porta e si volta un'ultima volta. | Kevin opens the door and turns around one last time. |
 | «Ornella, tu sei la mia **sede** italiana.» | “Ornella, you're my Italian **office**.” |
 | «Che complimenti strani che fai.» «Buonanotte, americano.» | “What strange compliments you pay.” “Goodnight, American.” |
 | «Buonanotte.» | “Goodnight.” |
@@ -184,24 +184,24 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Il sabato mattina al Bar Tigli c'è sempre confusione. | On Saturday morning at Bar Tigli there's always confusion. |
 | Fuori, il sole nuovo asciuga l'asfalto bagnato di ieri. | Outside, the new sun dries yesterday's wet asphalt. |
 | Dentro, otto persone aspettano il caffè e parlano tutte insieme. | Inside, eight people are waiting for coffee and all talking at once. |
-| Ben è dietro il bancone con il grembiule verde e una matita dietro l'orecchio. | Ben is behind the counter with the green apron and a pencil behind his ear. |
+| Kevin è dietro il bancone con il grembiule verde e una matita dietro l'orecchio. | Kevin is behind the counter with the green apron and a pencil behind his ear. |
 | «Due cappuccini e un caffè macchiato!» grida Matteo dalla cassa. | “Two cappuccinos and a macchiato!” shouts Matteo from the till. |
-| «Due cappuccini, un macchiato.» Ben ripete l'ordine, ma guarda fuori dalla vetrina. | “Two cappuccinos, one macchiato.” Ben repeats the order, but he's looking out the window. |
+| «Due cappuccini, un macchiato.» Kevin ripete l'ordine, ma guarda fuori dalla vetrina. | “Two cappuccinos, one macchiato.” Kevin repeats the order, but he's looking out the window. |
 | Porta al tavolo tre tazze: due macchiati e un cappuccino. | He takes three cups to the table: two macchiatos and one cappuccino. |
 | Il signore anziano alza un sopracciglio. | The elderly gentleman raises an eyebrow. |
 | «Io avevo chiesto un cappuccino.» | “I had asked for a cappuccino.” |
-| «Ah. Sì. Scusi.» Ben cambia le tazze con le mani. | “Ah. Yes. Sorry.” Ben swaps the cups with his hands. |
+| «Ah. Sì. Scusi.» Kevin cambia le tazze con le mani. | “Ah. Yes. Sorry.” Kevin swaps the cups with his hands. |
 | Matteo lo guarda dal bancone e sorride. | Matteo watches him from the counter and smiles. |
 | «Terzo errore stamattina, americano.» «Stai bene?» | “Third mistake this morning, American.” “Are you all right?” |
 | «Benissimo. Sono solo un po' stanco.» | “Very good. I'm just a bit tired.” |
 | _Dodici ore senza dormire bene. E una decisione da prendere._ | _Twelve hours without sleeping well. And a decision to make._ |
 | Matteo prende un foglio da sotto la cassa e lo mette sul bancone, tra le tazze. | Matteo takes a sheet from under the till and puts it on the counter, between the cups. |
 | «Senti questa. Ti presento la mia **proposta** nuova.» | “Listen to this. Let me present my new **proposal** to you.” |
-| Ben guarda il foglio: sopra c'è scritto a penna: colazione americana. | Ben looks at the sheet: at the top it says in pen: American breakfast. |
+| Kevin guarda il foglio: sopra c'è scritto a penna: colazione americana. | Kevin looks at the sheet: at the top it says in pen: American breakfast. |
 | «Pancake, uova, bacon, succo d'arancia.» «Sabato e domenica, dalle otto alle undici.» | “Pancakes, eggs, bacon, orange juice.” “Saturday and Sunday, from eight to eleven.” |
 | «E io che c'entro?» | “And what have I got to do with it?” |
 | «Tu sei il **direttore** del progetto.» «**Voglio che** tu comandi tu. Cucini, decidi, firmi.» | “You're the **director** of the project.” “**I want** you to be in charge. You cook, you decide, you sign.” |
-| Ben ride. | Ben laughs. |
+| Kevin ride. | Kevin laughs. |
 | «Ma io non ho nessun **contratto** con te.» | “But I don't have any **contract** with you.” |
 | «Il contratto lo scriviamo su questo foglio.» «E ci mettiamo anche un nome inglese, per la pubblicità.» | “We'll write the contract on this sheet.” “And we'll put an English name on it too, for advertising.” |
 | «"Carter's American Breakfast".» | ““Carter's American Breakfast”.” |
@@ -212,7 +212,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nadia! Siediti. Ti **racconto** la **notizia** del secolo.» | “Nadia! Sit down. I'll **tell** you the **news** of the century.” |
 | «La notizia del secolo è che hai pulito il bancone?» | “The news of the century is that you cleaned the counter?” |
 | «No. La colazione americana.» | “No. The American breakfast.” |
-| «Ah, quella.» Nadia prende il caffè che Ben le offre. «Ieri sera l'hai raccontata tre volte.» | “Ah, that one.” Nadia takes the coffee Ben offers her. “Last night you told it three times.” |
+| «Ah, quella.» Nadia prende il caffè che Kevin le offre. «Ieri sera l'hai raccontata tre volte.» | “Ah, that one.” Nadia takes the coffee Kevin offers her. “Last night you told it three times.” |
 | «Perché è una buona idea.» | “Because it's a good idea.” |
 | «È una buona idea.» «Però intanto parliamo del mio **posto** nuovo, no?» | “It's a good idea.” “But meanwhile let's talk about my new **place**, shall we?” |
 | «Il tuo posto è una farmacia. Non c'è niente da dire.» | “Your place is a pharmacy. There's nothing to say.” |
@@ -225,7 +225,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Matteo si gratta la testa. | Matteo scratches his head. |
 | «Io non so se **preferisco che** tu stia a Milano sei ore al giorno.» | “I don't know if **I prefer** you to be in Milan six hours a day.” |
 | «Matteo, la mia **carriera** va avanti.» «E va avanti bene.» | “Matteo, my **career** is moving forward.” “And it's moving forward well.” |
-| Ben ascolta e non dice niente. | Ben listens and says nothing. |
+| Kevin ascolta e non dice niente. | Kevin listens and says nothing. |
 | _Ecco due persone che parlano di carriera e di scelte. E io sto zitto come un muro._ | _Here are two people talking about careers and choices. And I'm silent as a wall._ |
 | Dalla porta arriva Leo con lo zaino ancora sulle spalle. | Leo comes in through the door with his backpack still on his shoulders. |
 | «Ciao papà! Ciao Matteo! Ciao Nadia!» | “Hi Dad! Hi Matteo! Hi Nadia!” |
@@ -237,12 +237,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Futuro**.» «Che cos'è il futuro, papà?» | “**Future**.” “What's the future, Dad?” |
 | Matteo e Nadia si guardano e ridono piano. | Matteo and Nadia look at each other and laugh quietly. |
 | «Il futuro è quello che arriva dopo oggi.» | “The future is what comes after today.” |
-| «E tu sai cosa farai da grande?» Ben si blocca con la tazza in mano. | “And do you know what you'll do when you're grown up?” Ben freezes with the cup in his hand. |
+| «E tu sai cosa farai da grande?» Kevin si blocca con la tazza in mano. | “And do you know what you'll do when you're grown up?” Kevin freezes with the cup in his hand. |
 | _Perché i bambini fanno sempre la domanda giusta al momento sbagliato?_ | _Why do children always ask the right question at the wrong moment?_ |
 | «Io farò il calciatore.» «O il veterinario. O tutti e due.» | “I'll be a footballer.” “Or a vet. Or both.” |
 | «Bravo. **Scegliere** è importante.» | “Good. **Choosing** is important.” |
 | «E tu hai scelto?» | “And have you chosen?” |
-| Ben guarda Matteo, che alza le mani come per dire che lui non c'entra. | Ben looks at Matteo, who raises his hands as if to say he's got nothing to do with it. |
+| Kevin guarda Matteo, che alza le mani come per dire che lui non c'entra. | Kevin looks at Matteo, who raises his hands as if to say he's got nothing to do with it. |
 | «Io... ho un lavoro **importante** in corso.» | “I... have an **important** job in progress.” |
 | «Che lavoro?» | “What job?” |
 | «Il libro di cucina.» | “The cookbook.” |
@@ -253,17 +253,17 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Quando Leo esce, Matteo si avvicina al bancone e abbassa la voce. | When Leo goes out, Matteo comes closer to the counter and lowers his voice. |
 | «Allora. Hai detto "lavoro importante". Che cosa vuol dire?» | “So. You said ‘important job’. What does that mean?” |
 | «Niente. Vuol dire il libro.» | “Nothing. It means the book.” |
-| «Ben.» «Io ti conosco. Quando **rifiuti** di rispondere, c'è sempre un problema.» | “Ben.” “I know you. When you **refuse** to answer, there's always a problem.” |
+| «Kevin.» «Io ti conosco. Quando **rifiuti** di rispondere, c'è sempre un problema.» | “Kevin.” “I know you. When you **refuse** to answer, there's always a problem.” |
 | «Non rifiuto niente.» | “I'm not refusing anything.” |
 | «E allora rispondi.» | “Then answer.” |
-| Silenzio. Una signora chiede il conto e Ben è felice di andarla a servire. | Silence. A lady asks for the bill and Ben is happy to go and serve her. |
+| Silenzio. Una signora chiede il conto e Kevin è felice di andarla a servire. | Silence. A lady asks for the bill and Kevin is happy to go and serve her. |
 | _E adesso anche Matteo ha capito che c'è qualcosa. Sono un **segreto** con le gambe._ | _And now Matteo has understood there's something too. I'm a **secret** with legs._ |
 | «Te lo chiedo come amico.» «Non come capo, non come cognato. Come amico.» | “I'm asking you as a friend.” “Not as a boss, not as a brother-in-law. As a friend.” |
 | «Non c'è niente da raccontare.» | “There's nothing to tell.” |
 | «Va bene.» «Però una cosa te la dico.» | “All right.” “But I'll tell you one thing.” |
 | «Cioè?» | “What?” |
 | «Se un giorno decidi di raccontare qualcosa, noi siamo qui.» «Anche se è una cosa brutta. Anche se è una cosa strana.» | “If one day you decide to tell something, we're here.” “Even if it's something bad. Even if it's something strange.” |
-| Ben annuisce, e non riesce a dire altro. | Ben nods, and can't say anything else. |
+| Kevin annuisce, e non riesce a dire altro. | Kevin nods, and can't say anything else. |
 | «Grazie.» | “Thanks.” |
 | Nadia si alza dal tavolo e prende la borsa di Anna. | Nadia gets up from the table and takes Anna's bag. |
 | «Matteo ha ragione, ma ha detto la cosa al modo sbagliato.» «Te lo dico io nel modo giusto.» | “Matteo's right, but he said it the wrong way.” “I'll say it to you the right way.” |
@@ -271,20 +271,20 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nella mia **azienda** c'è una regola.» «Se una persona ha un problema, non lavora bene. E se non lavora bene, prima o poi lo dice.» | “In my **company** there's a rule.” “If a person has a problem, they don't work well. And if they don't work well, sooner or later they say it.” |
 | «E allora?» | “So?” |
 | «E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a venerdì prossimo.» | “And so I'll be waiting for you at the counter every morning.” “**At least** until next Friday.” |
-| Ben la guarda, e per un secondo pensa di dirle tutto. | Ben looks at her, and for a second he thinks about telling her everything. |
+| Kevin la guarda, e per un secondo pensa di dirle tutto. | Kevin looks at her, and for a second he thinks about telling her everything. |
 | Poi guarda l'orologio sopra la cassa. | Then he looks at the clock above the till. |
 | «Devo andare. C'è la spesa e poi i ragazzi.» | “I have to go. There's the shopping and then the kids.” |
 | «Certo.» | “Of course.” |
-| Ben si toglie il grembiule e lo appende al chiodo. | Ben takes off his apron and hangs it on the hook. |
+| Kevin si toglie il grembiule e lo appende al chiodo. | Kevin takes off his apron and hangs it on the hook. |
 | Matteo lo segue con gli occhi fino alla porta. | Matteo follows him with his eyes all the way to the door. |
-| «Ben!» «La colazione americana la facciamo comunque, sì o no?» | “Ben!” “We're doing the American breakfast anyway, yes or no?” |
+| «Kevin!» «La colazione americana la facciamo comunque, sì o no?» | “Kevin!” “We're doing the American breakfast anyway, yes or no?” |
 | «Sì!» «La facciamo!» | “Yes!” “We're doing it!” |
 | «Vedi?» «Quando dice sì, lo dice sempre con la voce dell'americano felice.» | “See?” “When he says yes, he always says it with the voice of the happy American.” |
 | «O con la voce di uno che scappa.» | “Or with the voice of someone running away.” |
 | Nadia guarda la porta e non aggiunge altro. | Nadia looks at the door and doesn't add anything else. |
 | _E se scappa, Chiara lo saprà prima di me. Ne sono sicura._ | _And if he runs away, Chiara will know before I do. I'm sure of it._ |
 | Matteo intanto scrive sul foglio della colazione, e sulla sua faccia non c'è nessun dubbio. | Meanwhile Matteo writes on the breakfast sheet, and there's no doubt on his face. |
-| A volte Ben **invece** ha troppi dubbi. | Sometimes Ben **instead** has too many doubts. |
+| A volte Kevin **invece** ha troppi dubbi. | Sometimes Kevin **instead** has too many doubts. |
 
 ## 4. Il mercato del martedì · sabato mattina
 
@@ -383,7 +383,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Tutto qui? "Va bene"?» | “That's all? ‘All right’?” |
 | «Tutto qui.» | “That's all.” |
 | Entrano in casa e Chiara posa le borse sul tavolo della cucina. | They go into the house and Chiara puts the bags on the kitchen table. |
-| Sul tavolo c'è il portatile di Ben, chiuso, ma con un foglietto sopra. | On the table there's Ben's laptop, closed, but with a little slip of paper on top. |
+| Sul tavolo c'è il portatile di Kevin, chiuso, ma con un foglietto sopra. | On the table there's Kevin's laptop, closed, but with a little slip of paper on top. |
 | Sul foglietto c'è scritto solo una parola: Chicago. | On the slip of paper it says only one word: Chicago. |
 | Chiara prende il foglietto, lo guarda, poi lo rimette esattamente dove era. | Chiara picks up the slip of paper, looks at it, then puts it back exactly where it was. |
 | _Casa. **Comunque** vada, io voglio sapere. Non voglio aspettare un'altra settimana._ | _Home. **However** it goes, I want to know. I don't want to wait another week._ |
@@ -399,13 +399,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Bravo. Ma quello lì è ancora verde, lascialo.» | “Good. But that one's still green, leave it.” |
 | «Perché è verde?» | “Why is it green?” |
 | «Perché deve crescere. Come te.» | “Because it has to grow. Like you.” |
-| Ben è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie niente. | Ben is sitting on a stool with the empty bucket in front of him and isn't picking anything. |
+| Kevin è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie niente. | Kevin is sitting on a stool with the empty bucket in front of him and isn't picking anything. |
 | Guarda le foglie, poi il muro, poi il cielo. | He looks at the leaves, then the wall, then the sky. |
 | Franco lo osserva da dieci minuti senza dire niente. | Franco has been watching him for ten minutes without saying anything. |
 | «Oggi non lavori.» | “Today you're not working.” |
 | «Sto pensando.» | “I'm thinking.” |
 | «Ah. E a che cosa pensi, se posso **chiedere**?» | “Ah. And what are you thinking about, if I may **ask**?” |
-| Ben prende un pomodoro rosso e lo mette nel secchio. | Ben takes a red tomato and puts it in the bucket. |
+| Kevin prende un pomodoro rosso e lo mette nel secchio. | Kevin takes a red tomato and puts it in the bucket. |
 | «Franco, posso farti una domanda?» | “Franco, can I ask you a question?” |
 | «Ne hai già fatta una.» | “You've already asked one.” |
 | «Un'altra. Tu non sei mai andato all'**estero**?» | “Another one. Have you never gone **abroad**?” |
@@ -415,7 +415,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Settantaquattro. E no, mai.» «Sono andato a Napoli una volta, per il lavoro.» | “Seventy-four. And no, never.” “I went to Naples once, for work.” |
 | «Napoli non è l'estero.» | “Naples isn't abroad.” |
 | «Per un milanese di settantaquattro anni, Napoli è l'estero.» | “For a seventy-four-year-old from Milan, Naples is abroad.” |
-| Ben ride, ma poco. | Ben laughs, but not much. |
+| Kevin ride, ma poco. | Kevin laughs, but not much. |
 | «E non hai mai pensato di andare via? Di **trasferirti**?» | “And you never thought about leaving? About **moving**?” |
 | «Per fare che?» | “To do what?” |
 | «Per il lavoro. Per la **carriera**. Per guadagnare di più.» | “For work. For your **career**. To earn more.” |
@@ -426,14 +426,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo alza la testa dal secchio. | Leo raises his head from the bucket. |
 | «Nonno, ma tu conoscevi tutti?» | “Grandpa, did you know everyone?” |
 | «Tutti. E loro conoscevano me.» | “Everyone. And they knew me.” |
-| Franco guarda Ben e continua. | Franco looks at Ben and goes on. |
+| Franco guarda Kevin e continua. | Franco looks at Kevin and goes on. |
 | «Mi hanno offerto un **posto** in ufficio, una volta. Più soldi, orari migliori.» | “They offered me a **position** in the office once. More money, better hours.” |
 | «E tu?» | “And you?” |
 | «Ho detto no. Ho detto no e sono rimasto sul tram.» | “I said no. I said no and I stayed on the tram.” |
 | «Perché?» | “Why?” |
 | Franco ci pensa un momento, poi sceglie le parole con cura. | Franco thinks for a moment, then chooses his words carefully. |
 | «**Preferisco che** le cose restino dove sono.» «La mia linea, la mia casa, la mia gente.» | “**I prefer** things to stay where they are.” “My line, my house, my people.” |
-| Ben non dice niente. | Ben says nothing. |
+| Kevin non dice niente. | Kevin says nothing. |
 | _La mia linea, la mia casa, la mia gente. Non sono sicuro di avere una frase così._ | _My line, my house, my people. I'm not sure I have a sentence like that._ |
 | «Però una volta ho **deciso** una cosa importante.» | “But once I **decided** something important.” |
 | «Quale?» | “What?” |
@@ -441,12 +441,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco si china di nuovo sui pomodori e per un po' si sente solo il rumore delle mani tra le foglie. | Franco bends over the tomatoes again and for a while you only hear the sound of hands among the leaves. |
 | Dalla porta di casa arriva Lucia con un vassoio. | From the house door comes Lucia with a tray. |
 | «Caffè per gli operai!» | “Coffee for the workers!” |
-| «Grazie, Lucia.» Ben prende la tazzina con due mani. | “Thanks, Lucia.” Ben takes the little cup with both hands. |
+| «Grazie, Lucia.» Kevin prende la tazzina con due mani. | “Thanks, Lucia.” Kevin takes the little cup with both hands. |
 | Lucia lo guarda un secondo di troppo. | Lucia looks at him a second too long. |
-| «Ben, hai una faccia strana.» | “Ben, you've got a strange face.” |
+| «Kevin, hai una faccia strana.» | “Kevin, you've got a strange face.” |
 | «Ho la faccia normale.» | “I've got my normal face.” |
 | «No. La faccia normale ce l'hai quando parli di cibo.» «Adesso hai la faccia di chi aspetta qualcosa.» | “No. You've got your normal face when you talk about food.” “Right now you've got the face of someone waiting for something.” |
-| Ben beve il caffè tutto d'un fiato e si brucia la lingua. | Ben drinks the coffee in one go and burns his tongue. |
+| Kevin beve il caffè tutto d'un fiato e si brucia la lingua. | Kevin drinks the coffee in one go and burns his tongue. |
 | «Aspetto il libro di cucina.» | “I'm waiting for the cookbook.” |
 | Lucia non insiste. | Lucia doesn't push. |
 | «Va bene. Se un giorno vuoi parlare, io faccio anche il caffè buono.» | “All right. If one day you want to talk, I also make good coffee.” |
@@ -454,7 +454,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Lucia torna in casa e Franco la segue con gli occhi. | Lucia goes back into the house and Franco follows her with his eyes. |
 | Leo, intanto, ha una domanda nuova. | Leo, meanwhile, has a new question. |
 | «Papà, Chicago è lontana?» | “Dad, is Chicago far?” |
-| Ben si blocca. | Ben freezes. |
+| Kevin si blocca. | Kevin freezes. |
 | «Sì. È lontana.» | “Yes. It's far.” |
 | «Quanto lontana? Più di Milano?» | “How far? Farther than Milan?” |
 | «Molto più di Milano.» | “Much farther than Milan.” |
@@ -462,17 +462,17 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «In aereo. Otto ore.» | “By plane. Eight hours.” |
 | Leo conta sulle dita, poi rinuncia. | Leo counts on his fingers, then gives up. |
 | «Otto ore sono tante. Se andiamo a Chicago io mi porto il cuscino.» | “Eight hours is a lot. If we go to Chicago I'm taking my pillow.” |
-| Ben non risponde. | Ben doesn't answer. |
+| Kevin non risponde. | Kevin doesn't answer. |
 | _Se andiamo. Ha detto "se andiamo". E io ancora non ho **risposto** a nessuno._ | _If we go. He said “if we go”. And I still haven't **replied** to anyone._ |
 | Franco si alza e si mette a sedere sul muretto. | Franco stands up and sits on the little wall. |
-| «Ben. Ti faccio io una domanda, adesso.» | “Ben. I'll ask you a question now.” |
+| «Kevin. Ti faccio io una domanda, adesso.» | “Kevin. I'll ask you a question now.” |
 | «Dimmi.» | “Go on.” |
 | «Da tre giorni guardi il telefono come si guarda una **email** importante.» | “For three days you've been looking at your phone the way you look at an important **email**.” |
 | «Non guardo niente.» | “I'm not looking at anything.” |
 | «Va bene. Non guardi niente.» «Però dimmi una cosa e rispondimi bene.» | “All right. You're not looking at anything.” “But tell me one thing and answer me properly.” |
 | «Cosa?» | “What?” |
 | «Sei felice qui?» | “Are you happy here?” |
-| Ben alza la testa di colpo. | Ben jerks his head up. |
+| Kevin alza la testa di colpo. | Kevin jerks his head up. |
 | «Sì.» | “Yes.” |
 | «Bene.» «Allora il resto si sistema.» | “Good.” “Then the rest works itself out.” |
 | Franco prende il secchio pieno e lo porta verso la casa. | Franco takes the full bucket and carries it towards the house. |
@@ -489,7 +489,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Però è simpatico.» | “But he's nice.” |
 | «Sì. È simpatico **invece** di essere gentile.» | “Yes. He's nice **instead** of being kind.” |
 | Leo ci pensa su, ma non capisce e non chiede. | Leo thinks about it, but doesn't understand and doesn't ask. |
-| Ben resta solo nell'orto con il secchio vuoto. | Ben stays alone in the garden with the empty bucket. |
+| Kevin resta solo nell'orto con il secchio vuoto. | Kevin stays alone in the garden with the empty bucket. |
 | _Torna a raccontare. Lo so, Franco. Lo so._ | _Come back and tell. I know, Franco. I know._ |
 
 ## 6. Casa Carter, Via dei Tigli 14 · sabato sera
@@ -497,9 +497,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | Dopo cena Emma è in camera sua e Leo dorme già sul divano con le scarpe. | After dinner Emma is in her room and Leo is already asleep on the sofa with his shoes on. |
-| In cucina ci sono solo Ben e il portatile aperto. | In the kitchen there are only Ben and the open laptop. |
+| In cucina ci sono solo Kevin e il portatile aperto. | In the kitchen there are only Kevin and the open laptop. |
 | Stavolta, sopra il portatile, non c'è nessun foglietto. | This time, on top of the laptop, there's no little slip of paper. |
-| Ben sta scrivendo una risposta a Dave. | Ben is writing a reply to Dave. |
+| Kevin sta scrivendo una risposta a Dave. | Kevin is writing a reply to Dave. |
 | Ha scritto e cancellato la prima riga undici volte. | He's written and deleted the first line eleven times. |
 | _Caro Dave, grazie per l'**offerta**._ | _Dear Dave, thank you for the **offer**._ |
 | _Caro Dave, ti ringrazio molto per la **proposta**._ | _Dear Dave, many thanks for the **proposal**._ |
@@ -511,19 +511,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara apre l'armadio, prende il tè e si siede di fronte a lui. | Chiara opens the cupboard, takes the tea and sits opposite him. |
 | «A quest'ora?» | “At this hour?” |
 | «È un'**email** di lavoro.» | “It's a work **email**.” |
-| Chiara guarda lo schermo e Ben lo gira un po'. | Chiara looks at the screen and Ben turns it a little. |
+| Chiara guarda lo schermo e Kevin lo gira un po'. | Chiara looks at the screen and Kevin turns it a little. |
 | «Di che lavoro?» | “What work?” |
 | «Niente di importante. Una cosa vecchia.» | “Nothing important. An old thing.” |
 | Cinque secondi di silenzio. | Five seconds of silence. |
-| «Ben, c'è una cosa da dirti.» Ben chiude il portatile con una mano e la guarda. | “Ben, there's something to tell you.” Ben closes the laptop with one hand and looks at her. |
+| «Kevin, c'è una cosa da dirti.» Kevin chiude il portatile con una mano e la guarda. | “Kevin, there's something to tell you.” Kevin closes the laptop with one hand and looks at her. |
 | «Anche io ho una cosa da dirti.» | “I have something to tell you too.” |
 | Chiara appoggia la tazza e aspetta. | Chiara sets down the cup and waits. |
 | _E adesso glielo dico. Adesso. Una frase sola: "Mi hanno offerto un lavoro a Chicago"._ | _And now I'll tell her. Now. One sentence: “They've offered me a job in Chicago.”_ |
 | «Cioè?» | “What is it?” |
-| Ben apre la bocca. | Ben opens his mouth. |
+| Kevin apre la bocca. | Kevin opens his mouth. |
 | Sul tavolo, accanto al portatile, c'è il quaderno giallo aperto sulla parola di oggi. | On the table, next to the laptop, there's the yellow notebook open at today's word. |
 | La parola di oggi è **futuro**. | Today's word is **future**. |
-| E Ben cambia strada. | And Ben changes road. |
+| E Kevin cambia strada. | And Kevin changes road. |
 | «Vorrei **rispondere** a un'**email** di lavoro. Niente di importante.» | “I'd like to **reply** to a work **email**. Nothing important.” |
 | «Ma l'hai già detto.» | “But you already said that.” |
 | «Sì. Volevo **decidere** cosa scrivere, e ho deciso.» | “Yes. I wanted to **decide** what to write, and I've decided.” |
@@ -531,27 +531,27 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Dimmi la verità. Ti prego, dimmi la verità._ | _Tell me the truth. Please, tell me the truth._ |
 | «Che rispondo domani. O lunedì.» | “That I'll answer tomorrow. Or Monday.” |
 | Chiara lo guarda fisso, senza sorridere. | Chiara stares at him, without smiling. |
-| «Ben, guardami negli occhi.» | “Ben, look me in the eyes.” |
-| Ben la guarda negli occhi. | Ben looks her in the eyes. |
+| «Kevin, guardami negli occhi.» | “Kevin, look me in the eyes.” |
+| Kevin la guarda negli occhi. | Kevin looks her in the eyes. |
 | «È tutto a posto?» | “Is everything all right?” |
-| Ben sente il cuore battere forte e pensa a Franco, all'orto, al secchio vuoto. | Ben feels his heart beating hard and thinks of Franco, the garden, the empty bucket. |
+| Kevin sente il cuore battere forte e pensa a Franco, all'orto, al secchio vuoto. | Kevin feels his heart beating hard and thinks of Franco, the garden, the empty bucket. |
 | «È tutto a posto.» «E ti amo.» | “Everything's all right.” “And I love you.” |
 | Chiara chiude gli occhi un momento. | Chiara closes her eyes for a moment. |
 | «Anch'io ti amo.» «Però quando dici "ti amo" così, io mi preoccupo.» | “I love you too.” “But when you say ‘I love you’ like that, I worry.” |
 | «Perché?» | “Why?” |
 | «Perché lo dici come si dice una cosa difficile.» | “Because you say it the way you say a difficult thing.” |
-| Ben prende la sua mano sul tavolo. | Ben takes her hand on the table. |
+| Kevin prende la sua mano sul tavolo. | Kevin takes her hand on the table. |
 | «Sono solo stanco. Tre giorni di poco sonno.» | “I'm just tired. Three days of little sleep.” |
 | «Allora dormi.» | “Then sleep.” |
 | «Sì. Vado su tra dieci minuti.» | “Yes. I'll come up in ten minutes.” |
 | Chiara prende la tazza e va verso le scale. | Chiara takes the cup and heads for the stairs. |
 | Si ferma sul primo gradino. | She stops on the first step. |
-| «Ben, una cosa.» | “Ben, one thing.” |
+| «Kevin, una cosa.» | “Kevin, one thing.” |
 | «Dimmi.» | “Tell me.” |
 | «Qualsiasi cosa sia, **spero che** tu me la dica presto.» «Non tra un mese.» | “Whatever it is, **I hope** you tell me soon.” “Not in a month.” |
 | «Te la dico presto.» | “I'll tell you soon.” |
 | Chiara sale e la porta della camera si chiude piano. | Chiara goes up and the bedroom door closes softly. |
-| Ben resta seduto davanti al portatile chiuso. | Ben stays sitting in front of the closed laptop. |
+| Kevin resta seduto davanti al portatile chiuso. | Kevin stays sitting in front of the closed laptop. |
 | Conta fino a trenta, poi lo riapre. | He counts to thirty, then opens it again. |
 | Caro Dave. Grazie per l'**offerta**. | Dear Dave. Thank you for the **offer**. |
 | Ho letto bene tutto: la **promozione**, lo **stipendio**, il **contratto** di tre anni. | I've read everything carefully: the **promotion**, the **salary**, the three-year **contract**. |
@@ -559,11 +559,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Il **trasferimento** a marzo è una cosa grande per tutta la mia famiglia. | The **move** in March is a big thing for my whole family. |
 | Ecco la frase che non riesce a scrivere. | Here's the sentence he can't write. |
 | _Per tutta la mia famiglia. Perché io non ho ancora parlato con la mia famiglia._ | _For my whole family. Because I haven't talked to my family yet._ |
-| Ben cancella la frase e scrive più semplice. | Ben deletes the sentence and writes more simply. |
+| Kevin cancella la frase e scrive più semplice. | Kevin deletes the sentence and writes more simply. |
 | Dave, ho bisogno di una settimana. | Dave, I need a week. |
 | Ti **rispondo** venerdì con una **decisione** chiara. | I'll **reply** on Friday with a clear **decision**. |
-| Grazie. Ben. | Thanks. Ben. |
-| Ben rilegge tre volte. | Ben rereads it three times. |
+| Grazie. Kevin. | Thanks. Kevin. |
+| Kevin rilegge tre volte. | Kevin rereads it three times. |
 | _Perfetto. Non ho **accettato** e non ho **rifiutato**. Ho solo chiesto tempo._ | _Perfect. I haven't **accepted** and I haven't **refused**. I've only asked for time._ |
 | _**Vogliono che** io **accetti** entro venerdì. Io non ho ancora **deciso** niente._ | _**They want** me to **accept** by Friday. I still haven't **decided** anything._ |
 | _Una settimana. Poi devo **scegliere**. E ogni **scelta** qui è una scelta che fa male a qualcuno._ | _One week. Then I have to **choose**. And every **choice** here is a choice that hurts someone._ |
@@ -572,7 +572,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _E il mio **capo** Dave, che aspetta in un ufficio con le finestre sul lago._ | _And my **boss** Dave, waiting in an office with windows on the lake._ |
 | _Potrei **trasferirmi** a marzo con un **contratto** firmato e una casa pronta._ | _I could **move** in March with a signed **contract** and a house ready._ |
 | _E potrei **tornare** qui a dicembre e non sapere più chi sono._ | _And I could **come back** here in December and no longer know who I am._ |
-| Ben preme invio. | Ben presses send. |
+| Kevin preme invio. | Kevin presses send. |
 | Il rumore della tastiera è piccolissimo, ma a lui sembra un tuono. | The sound of the keyboard is tiny, but to him it seems like thunder. |
 | _Adesso aspetto. **Almeno** una settimana ho comprato._ | _Now I wait. **At least** I've bought a week._ |
 | _Una settimana per trovare le parole in italiano. Parole che non ho ancora._ | _One week to find the words in Italian. Words I don't have yet._ |
@@ -582,7 +582,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Tre giorni. Tre giorni di facce strane, e un foglietto con scritto "Chicago"._ | _Three days. Three days of strange faces, and a slip of paper with “Chicago” written on it._ |
 | _Domani glielo chiedo di nuovo. E questa volta non accetto "niente di importante"._ | _Tomorrow I'll ask him again. And this time I won't accept “nothing important”._ |
 | Chiara si gira verso il muro. | Chiara turns towards the wall. |
-| Ben entra piano e si mette a letto vestito. | Ben comes in quietly and gets into bed dressed. |
+| Kevin entra piano e si mette a letto vestito. | Kevin comes in quietly and gets into bed dressed. |
 | «Dormi?» | “Are you asleep?” |
 | Silenzio. | Silence. |
 | «Sì.» | “Yes.” |

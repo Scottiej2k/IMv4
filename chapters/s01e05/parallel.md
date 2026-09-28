@@ -11,16 +11,16 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sono le undici e mezza di domenica. | It's half past eleven on Sunday. |
 | In cucina c'è profumo di caffè. | In the kitchen there's the smell of coffee. |
 | Fuori il cielo è grigio, ma in casa fa caldo. | Outside the sky is grey, but inside it's warm. |
-| Ben è seduto al tavolo con il quaderno giallo. | Ben is sitting at the table with the yellow notebook. |
+| Kevin è seduto al tavolo con il quaderno giallo. | Kevin is sitting at the table with the yellow notebook. |
 | «La **famiglia**. Il **padre**. La **madre**. Il **fratello**. La **sorella**.» | “The **family**. The **father**. The **mother**. The **brother**. The **sister**.” |
-| Ben legge ad alta voce e conta sulle dita. | Ben reads out loud and counts on his fingers. |
+| Kevin legge ad alta voce e conta sulle dita. | Kevin reads out loud and counts on his fingers. |
 | Chiara entra con due tazze di caffè. | Chiara comes in with two cups of coffee. |
 | «Bravo. E poi?» | “Good. And then?” |
 | «Il **nonno**. La **nonna**. Lo **zio**. La **zia**. Il **cugino**.» | “The **grandfather**. The **grandmother**. The **uncle**. The **aunt**. The **cousin**.” |
-| Ben alza il quaderno come un trofeo. «Sono pronto.» | Ben lifts the notebook like a trophy. “I'm ready.” |
+| Kevin alza il quaderno come un trofeo. «Sono pronto.» | Kevin lifts the notebook like a trophy. “I'm ready.” |
 | «Pronto per cosa?» | “Ready for what?” |
 | «Per il pranzo! La **famiglia** italiana è importante.» | “For lunch! The Italian **family** is important.” |
-| Ben beve un sorso di caffè. «Io sono il **marito** di Chiara e Chiara è la **moglie** di Ben.» | Ben takes a sip of coffee. “I'm Chiara's **husband** and Chiara is Ben's **wife**.” |
+| Kevin beve un sorso di caffè. «Io sono il **marito** di Chiara e Chiara è la **moglie** di Kevin.» | Kevin takes a sip of coffee. “I'm Chiara's **husband** and Chiara is Kevin's **wife**.” |
 | «Questo lo sappiamo già.» | “We already know that.” |
 | Chiara ride e si siede. | Chiara laughs and sits down. |
 | Leo entra in cucina in pigiama. | Leo comes into the kitchen in his pyjamas. |
@@ -31,9 +31,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io **ho fame** e **ho paura**.» | “**I'm hungry** and **I'm scared**.” |
 | «**Hai paura**? Di cosa?» | “**You're scared**? Of what?” |
 | «Di tuo **padre**.» | “Of your **father**.” |
-| Ben guarda la porta. | Ben looks at the door. |
+| Kevin guarda la porta. | Kevin looks at the door. |
 | «Fa tante domande. Quanti **fratelli**? Quante **sorelle**? Quanti **anni**?» | “He asks so many questions. How many **brothers**? How many **sisters**? How many **years**?” |
-| «Le domande sono normali, Ben.» | “Questions are normal, Ben.” |
+| «Le domande sono normali, Kevin.» | “Questions are normal, Kevin.” |
 | Chiara mette la tazza nel lavandino. | Chiara puts the cup in the sink. |
 | Emma entra con il telefono in mano. | Emma comes in with her phone in her hand. |
 | Ha i capelli bagnati. | Her hair is wet. |
@@ -41,19 +41,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quindici. Lo sai.» | “Fifteen. You know that.” |
 | Emma si siede e guarda il telefono. | Emma sits down and looks at her phone. |
 | «E io **ho** quarantuno **anni**.» | “And **I'm** forty-one **years** old.” |
-| Ben scrive sul quaderno. «Vedi? Io capisco le domande.» | Ben writes in the notebook. “See? I understand the questions.” |
+| Kevin scrive sul quaderno. «Vedi? Io capisco le domande.» | Kevin writes in the notebook. “See? I understand the questions.” |
 | Emma alza gli occhi al cielo. | Emma rolls her eyes. |
 | Chiara nasconde un sorriso dietro la tazza. | Chiara hides a smile behind her cup. |
 | «In America ci sono i miei **parenti**.» | “In America there are my **relatives**.” |
-| Ben conta sulle dita. «Mia **madre**, mio **padre**, due **fratelli** e una **sorella**.» | Ben counts on his fingers. “My **mother**, my **father**, two **brothers** and one **sister**.” |
-| «I **parenti** sono tutti, Ben.» | “**Relatives** are everybody, Ben.” |
+| Kevin conta sulle dita. «Mia **madre**, mio **padre**, due **fratelli** e una **sorella**.» | Kevin counts on his fingers. “My **mother**, my **father**, two **brothers** and one **sister**.” |
+| «I **parenti** sono tutti, Kevin.» | “**Relatives** are everybody, Kevin.” |
 | Emma mette giù il telefono. «La **madre** e il **padre** sono i **genitori**.» | Emma puts down her phone. “The **mother** and the **father** are the **parents**.” |
 | «Ah!» | “Ah!” |
-| Ben apre la bocca, poi scrive. «**Genitori** e **parenti**. Due parole diverse.» | Ben opens his mouth, then writes. “**Parents** and **relatives**. Two different words.” |
+| Kevin apre la bocca, poi scrive. «**Genitori** e **parenti**. Due parole diverse.» | Kevin opens his mouth, then writes. “**Parents** and **relatives**. Two different words.” |
 | «Esatto.» | “Exactly.” |
 | «Grazie, Emma.» | “Thanks, Emma.” |
 | Chiara guarda il quaderno e sorride. | Chiara looks at the notebook and smiles. |
-| «Quanti **zii** e quante **zie** hai, Ben?» | “How many **uncles** and **aunts** do you have, Ben?” |
+| «Quanti **zii** e quante **zie** hai, Kevin?» | “How many **uncles** and **aunts** do you have, Kevin?” |
 | «Due **zii** e una **zia**. E quattro **cugini**.» | “Two **uncles** and one **aunt**. And four **cousins**.” |
 | «Una **famiglia** grande.» | “A big **family**.” |
 | «Sì. E adesso **ho fame** di nuovo.» | “Yes. And now **I'm hungry** again.” |
@@ -63,18 +63,18 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E **ho sete** anch'io.» | “And **I'm thirsty** too.” |
 | Chiara prende un bicchiere e dà l'acqua a Leo. | Chiara takes a glass and gives Leo the water. |
 | Leo beve l'acqua in tre secondi. | Leo drinks the water in three seconds. |
-| «**Hai sete** anche tu, Ben?» | “**Are you thirsty** too, Ben?” |
+| «**Hai sete** anche tu, Kevin?» | “**Are you thirsty** too, Kevin?” |
 | «No, grazie. Ma **ho sonno**.» | “No, thanks. But **I'm sleepy**.” |
 | «**Ho sonno** anche io.» Leo fa un grande sbadiglio. | “**I'm sleepy** too.” Leo gives a big yawn. |
 | «Bene. Allora andiamo a pranzo.» | “Good. Then let's go to lunch.” |
 | Chiara controlla l'orologio. «È tardi. Papà non aspetta.» | Chiara checks her watch. “It's late. Dad doesn't wait.” |
-| Ben chiude il quaderno e si alza. | Ben closes the notebook and stands up. |
+| Kevin chiude il quaderno e si alza. | Kevin closes the notebook and stands up. |
 | _Devo fare una buona figura con il **padre** di Chiara._ | _I have to make a good impression on Chiara's **father**._ |
 | «Un momento. Come si dice "I'm hungry"?» | “One moment. How do you say ‘I'm hungry’?” |
 | «**Ho fame**! Lo dici sempre tu.» | “**I'm hungry**! You always say it.” |
 | «Perfetto. **Ho fame**, **ho sete**, **ho paura** e **ho sonno**.» | “Perfect. **I'm hungry**, **I'm thirsty**, **I'm scared** and **I'm sleepy**.” |
-| «Andiamo, Ben.» | “Let's go, Ben.” |
-| Ben prende il quaderno giallo e la giacca. | Ben takes the yellow notebook and his jacket. |
+| «Andiamo, Kevin.» | “Let's go, Kevin.” |
+| Kevin prende il quaderno giallo e la giacca. | Kevin takes the yellow notebook and his jacket. |
 | Emma mette le scarpe e aspetta alla porta. | Emma puts on her shoes and waits at the door. |
 | «Leo, le scarpe.» | “Leo, your shoes.” |
 | «**Ho** otto **anni**, mamma. Lo so.» | “**I'm** eight **years** old, mum. I know.” |
@@ -91,19 +91,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco arriva dalla cucina. | Franco comes from the kitchen. |
 | Ha un grembiule e una faccia seria. | He has an apron and a serious face. |
 | «Chiara. Leo. Emma.» | “Chiara. Leo. Emma.” |
-| Franco guarda Ben per un secondo. «... L'americano.» | Franco looks at Ben for a second. “... The American.” |
+| Franco guarda Kevin per un secondo. «... L'americano.» | Franco looks at Kevin for a second. “... The American.” |
 | «Buongiorno, Franco.» | “Good morning, Franco.” |
 | «Entra. La pasta è pronta.» | “Come in. The pasta is ready.” |
 | Tutti entrano in cucina. | Everybody goes into the kitchen. |
-| Ben guarda il tavolo e sorride. | Ben looks at the table and smiles. |
+| Kevin guarda il tavolo e sorride. | Kevin looks at the table and smiles. |
 | «Che bello!» | “How nice!” |
 | Franco si siede in testa al tavolo. | Franco sits at the head of the table. |
 | Matteo arriva con il pane e una bottiglia. | Matteo arrives with the bread and a bottle. |
 | «Ciao, papà. Ciao a tutti.» | “Hi, dad. Hi everybody.” |
 | Matteo mette il pane sul tavolo e si siede. | Matteo puts the bread on the table and sits down. |
-| Franco guarda Ben dritto negli occhi. | Franco looks Ben straight in the eyes. |
+| Franco guarda Kevin dritto negli occhi. | Franco looks Kevin straight in the eyes. |
 | «Allora, americano. Quanti **fratelli** hai?» | “So, American. How many **brothers** do you **have**?” |
-| Ben è nervoso. Sorride. | Ben is nervous. He smiles. |
+| Kevin è nervoso. Sorride. | Kevin is nervous. He smiles. |
 | «**Ho fame**.» | “**I'm hungry**.” |
 | Silenzio. | Silence. |
 | Franco guarda Chiara. | Franco looks at Chiara. |
@@ -127,24 +127,24 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Mette giù la forchetta. | He puts down his fork. |
 | «Quanti **anni** hai?» | “How many **years** do you **have**?” |
 | «**Ho** quarantuno **anni**.» | “**I'm** forty-one **years** old.” |
-| Ben alza la forchetta come una bandiera. | Ben lifts his fork like a flag. |
+| Kevin alza la forchetta come una bandiera. | Kevin lifts his fork like a flag. |
 | «Bene.» Franco annuisce piano. | “Good.” Franco nods slowly. |
 | «E i tuoi **genitori**? Sono in America?» | “And your **parents**? Are they in America?” |
 | «**Ho fame**.» | “**I'm hungry**.” |
 | Emma mette una mano sulla faccia. | Emma puts a hand on her face. |
 | Matteo ride dentro il bicchiere. | Matteo laughs into his glass. |
-| «Ben! La domanda è sui tuoi **genitori**!» | “Ben! The question is about your **parents**!” |
+| «Kevin! La domanda è sui tuoi **genitori**!» | “Kevin! The question is about your **parents**!” |
 | «Oh! Sì.» | “Oh! Yes.” |
-| Ben si raddrizza sulla sedia. «Mia **madre** è in Ohio. Mio **padre** anche.» | Ben straightens up in his chair. “My **mother** is in Ohio. My **father** too.” |
+| Kevin si raddrizza sulla sedia. «Mia **madre** è in Ohio. Mio **padre** anche.» | Kevin straightens up in his chair. “My **mother** is in Ohio. My **father** too.” |
 | «E **fratelli**? E **sorelle**?» | “And **brothers**? And **sisters**?” |
-| Ben guarda Emma. Emma fa un piccolo segno con la testa. | Ben looks at Emma. Emma gives a small nod. |
+| Kevin guarda Emma. Emma fa un piccolo segno con la testa. | Kevin looks at Emma. Emma gives a small nod. |
 | «Due **fratelli** e una **sorella**.» | “Two **brothers** and one **sister**.” |
 | «Bene. Molto bene.» | “Good. Very good.” |
 | Franco è soddisfatto per un secondo. | Franco is satisfied for a second. |
 | «E **zii**? E **zie**?» | “And **uncles**? And **aunts**?” |
 | «Due **zii** e una **zia**.» | “Two **uncles** and one **aunt**.” |
 | «E **cugini**?» | “And **cousins**?” |
-| Ben guarda Emma di nuovo. | Ben looks at Emma again. |
+| Kevin guarda Emma di nuovo. | Kevin looks at Emma again. |
 | «Quattro **cugini**.» | “Four **cousins**.” |
 | «Una **famiglia** grande.» | “A big **family**.” |
 | Franco beve un sorso di vino. | Franco takes a sip of wine. |
@@ -152,7 +152,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E i **parenti**?» | “And the **relatives**?” |
 | «Molti **parenti**.» | “Many **relatives**.” |
 | «Perfetto.» | “Perfect.” |
-| Chiara guarda Ben e sorride. | Chiara looks at Ben and smiles. |
+| Chiara guarda Kevin e sorride. | Chiara looks at Kevin and smiles. |
 | Emma mangia e non dice niente. | Emma eats and says nothing. |
 | «Io ho un **figlio** e una **figlia**.» | “I have one **son** and one **daughter**.” |
 | Franco indica Matteo e Chiara con la forchetta. | Franco points at Matteo and Chiara with his fork. |
@@ -170,7 +170,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco alza una mano. | Franco raises a hand. |
 | «Basta. Mangiamo.» | “Enough. Let's eat.” |
 | Sul mobile c'è una **foto** con una cornice di legno. | On the sideboard there's a **photo** in a wooden frame. |
-| Ben la guarda per un momento. | Ben looks at it for a moment. |
+| Kevin la guarda per un momento. | Kevin looks at it for a moment. |
 | Poi mangia. | Then he eats. |
 
 ## 3. Casa di Franco, Via dei Tigli 9 · domenica, dopo pranzo
@@ -181,11 +181,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sul tavolo ci sono le briciole e i piatti vuoti. | On the table there are crumbs and empty plates. |
 | Franco si alza e prende la caffettiera. | Franco gets up and takes the coffee maker. |
 | La cucina profuma di caffè. | The kitchen smells of coffee. |
-| «Ben, **hai sete**?» | “Ben, **are you thirsty**?” |
+| «Kevin, **hai sete**?» | “Kevin, **are you thirsty**?” |
 | «Sì! **Ho sete**.» | “Yes! **I'm thirsty**.” |
-| Franco mette un bicchiere d'acqua davanti a Ben. | Franco puts a glass of water in front of Ben. |
+| Franco mette un bicchiere d'acqua davanti a Kevin. | Franco puts a glass of water in front of Kevin. |
 | «Grazie, Franco.» | “Thanks, Franco.” |
-| Ben beve l'acqua e poi sbadiglia. | Ben drinks the water and then yawns. |
+| Kevin beve l'acqua e poi sbadiglia. | Kevin drinks the water and then yawns. |
 | «E **ho sonno** anch'io.» | “And **I'm sleepy** too.” |
 | «**Ho sonno** dopo il pranzo, come i gatti.» | “**I'm sleepy** after lunch, like cats.” |
 | Leo chiude gli occhi per finta. | Leo closes his eyes on purpose. |
@@ -195,7 +195,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Pavarotti me lo dice.» | “Pavarotti tells me.” |
 | Matteo ride. Chiara sospira. | Matteo laughs. Chiara sighs. |
 | Franco versa il caffè nelle tazzine. | Franco pours coffee into the cups. |
-| Ben guarda il mobile. | Ben looks at the sideboard. |
+| Kevin guarda il mobile. | Kevin looks at the sideboard. |
 | Sul mobile c'è una **foto** con una cornice di legno. | On the sideboard there's a **photo** in a wooden frame. |
 | Nella **foto** c'è una donna con un vestito chiaro. | In the **photo** there's a woman in a light dress. |
 | Sorride. | She's smiling. |
@@ -212,7 +212,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Anna non c'è più.» | “Anna isn't here any more.” |
 | Franco tocca la cornice con un dito. | Franco touches the frame with a finger. |
 | «Tre **anni** fa.» | “Three **years** ago.” |
-| Ben apre la bocca, poi la chiude. | Ben opens his mouth, then closes it. |
+| Kevin apre la bocca, poi la chiude. | Kevin opens his mouth, then closes it. |
 | _Forse la **foto** è un argomento delicato. Non dico niente._ | _Maybe the **photo** is a delicate subject. I'll say nothing._ |
 | «Mi dispiace, Franco.» | “I'm sorry, Franco.” |
 | «Sì.» | “Yes.” |
@@ -246,7 +246,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Un corso di domenica.» | “A course on a Sunday.” |
 | Matteo alza le spalle. | Matteo shrugs. |
 | «Boh. Papà è così.» | “Beh. Dad is like that.” |
-| Ben prende il quaderno dalla giacca. | Ben takes the notebook from his jacket. |
+| Kevin prende il quaderno dalla giacca. | Kevin takes the notebook from his jacket. |
 | Scrive una parola e la chiude. | He writes a word and closes it. |
 | «Tuo **padre** è strano.» | “Your **father** is strange.” |
 | «Sì.» | “Yes.” |
@@ -260,7 +260,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Prima un altro caffè?» | “Another coffee first?” |
 | «No. **Ho sonno**.» | “No. **I'm sleepy**.” |
 | «**Ho sonno** anch'io.» | “**I'm sleepy** too.” |
-| Leo prende la mano di Ben. | Leo takes Ben's hand. |
+| Leo prende la mano di Kevin. | Leo takes Kevin's hand. |
 | «E **ho sete** ancora.» | “And **I'm thirsty** again.” |
 | «A casa c'è l'acqua.» | “There's water at home.” |
 | Escono tutti insieme nella strada grigia. | They all go out into the grey street. |
@@ -489,12 +489,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sono le nove di sera. | It's nine in the evening. |
 | In casa Carter la tv è spenta e la cucina è in ordine. | In the Carter house the TV is off and the kitchen is tidy. |
 | Chiara è sul divano con il computer. | Chiara is on the sofa with her computer. |
-| Ben è al tavolo con il quaderno giallo. | Ben is at the table with the yellow notebook. |
+| Kevin è al tavolo con il quaderno giallo. | Kevin is at the table with the yellow notebook. |
 | Leo arriva dalla camera in pigiama. | Leo comes from the bedroom in his pyjamas. |
 | Ha una **foto** in mano. | He has a **photo** in his hand. |
 | La mette sul tavolo, davanti a tutti. | He puts it on the table, in front of everybody. |
 | «Mamma! Papà! Guardate!» | “Mum! Dad! Look!” |
-| Chiara alza la testa. Ben mette giù la penna. | Chiara raises her head. Ben puts down the pen. |
+| Chiara alza la testa. Kevin mette giù la penna. | Chiara raises her head. Kevin puts down the pen. |
 | «Che cos'è questa **foto**?» | “What's this **photo**?” |
 | «Me la dà la signora Ornella.» | “Signora Ornella gave it to me.” |
 | «Te la dà?» | “She gave it to you?” |
@@ -520,14 +520,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì, è un contratto.» | “Yes, it's a contract.” |
 | «Che contratto?» | “What contract?” |
 | «Io porto le borse. Lei dà i biscotti. E io la chiamo **nonna**.» | “I carry the bags. She gives the biscuits. And I call her **grandmother**.” |
-| Ben guarda Chiara. Chiara guarda Ben. | Ben looks at Chiara. Chiara looks at Ben. |
+| Kevin guarda Chiara. Chiara guarda Kevin. | Kevin looks at Chiara. Chiara looks at Kevin. |
 | «Leo...» | “Leo...” |
 | «Sì?» | “Yes?” |
 | «La signora Ornella è gentile. Ma un contratto non è una **famiglia**.» | “Signora Ornella is kind. But a contract isn't a **family**.” |
 | «Io lo so. La **famiglia** ha i **genitori**, i **nonni**, i **nipoti**.» | “I know. **Family** has the **parents**, the **grandparents**, the **grandchildren**.” |
 | «Esatto.» | “Exactly.” |
 | «E anche gli **zii**, i **cugini**, i **parenti**. Lo dice il papà.» | “And also the **uncles**, the **cousins**, the **relatives**. Dad says so.” |
-| Ben è orgoglioso. | Ben is proud. |
+| Kevin è orgoglioso. | Kevin is proud. |
 | «Sì! Bravo, Leo.» | “Yes! Good, Leo.” |
 | «Ma la signora Ornella la **famiglia** non ce l'ha qui.» | “But signora Ornella doesn't have **family** here.” |
 | «No.» | “No.” |
@@ -536,7 +536,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | È serio, come un avvocato. | He's serious, like a lawyer. |
 | «E lei **ha paura** quando la casa è silenziosa.» | “And **she's scared** when the house is silent.” |
 | Chiara non ride. | Chiara doesn't laugh. |
-| Guarda Ben e poi guarda Leo. | She looks at Ben and then at Leo. |
+| Guarda Kevin e poi guarda Leo. | She looks at Kevin and then at Leo. |
 | «Bravo, Leo.» | “Good, Leo.” |
 | «Vero? Io **ho ragione**.» | “Right? **I'm right**.” |
 | «Sì, **hai ragione**.» | “Yes, **you're right**.” |
@@ -546,11 +546,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Una **foto** di cosa?» | “A **photo** of what?” |
 | «Di Leo e della sua **nonna**.» | “Of Leo and his **grandmother**.” |
 | «Sì!» | “Yes!” |
-| Ben apre il quaderno. | Ben opens the notebook. |
+| Kevin apre il quaderno. | Kevin opens the notebook. |
 | «Allora: **famiglia**, **genitori**, **parenti**, **fratelli**, **sorelle**, **zii**, **cugini**, **nipoti**.» | “So: **family**, **parents**, **relatives**, **brothers**, **sisters**, **uncles**, **cousins**, **grandchildren**.” |
 | «E adesso?» | “And now?” |
 | «Adesso **ho fame**.» | “Now **I'm hungry**.” |
-| «Ben!» | “Ben!” |
+| «Kevin!» | “Kevin!” |
 | Leo ride. Emma ride. Anche Chiara ride. | Leo laughs. Emma laughs. Chiara laughs too. |
 | «C'è del pane in cucina.» | “There's bread in the kitchen.” |
 | «Perfetto.» | “Perfect.” |
@@ -562,9 +562,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Lunedì mattina al Bar Tigli. | Monday morning at Bar Tigli. |
 | Fuori piove un poco. | Outside it's raining a little. |
 | Dentro c'è profumo di caffè e di cornetti. | Inside there's the smell of coffee and croissants. |
-| Ben è al banco con il caffè in mano. | Ben is at the counter with his coffee in his hand. |
+| Kevin è al banco con il caffè in mano. | Kevin is at the counter with his coffee in his hand. |
 | Matteo pulisce il banco con uno straccio. | Matteo wipes the counter with a cloth. |
-| «Ben! Ieri con papà? Bene?» | “Ben! Yesterday with dad? Good?” |
+| «Kevin! Ieri con papà? Bene?» | “Kevin! Yesterday with dad? Good?” |
 | «Bene. Tuo **padre** fa tante domande.» | “Good. Your **father** asks lots of questions.” |
 | «E tu?» | “And you?” |
 | «Io dico "**Ho fame**".» | “I say ‘**I'm hungry**’.” |
@@ -580,9 +580,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Matteo prepara il caffè. | Matteo makes the coffee. |
 | Franco lo beve in due secondi. | Franco drinks it in two seconds. |
 | «Mah.» | “Mah.” |
-| Poi guarda Ben. | Then he looks at Ben. |
+| Poi guarda Kevin. | Then he looks at Kevin. |
 | «E tu, americano? Milan o Inter?» | “And you, American? Milan or Inter?” |
-| Ben è in panico. | Ben panics. |
+| Kevin è in panico. | Kevin panics. |
 | Guarda Matteo, poi guarda Franco. | He looks at Matteo, then at Franco. |
 | _Milan o Inter? Non lo so! Che cosa dico?_ | _Milan or Inter? I don't know! What do I say?_ |
 | «Io... **ho fame**.» | “I... **I'm hungry**.” |
@@ -598,19 +598,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Mah.» | “Mah.” |
 | Franco esce dal bar senza dire altro. | Franco leaves the bar without saying anything else. |
 | La porta si chiude piano. | The door closes quietly. |
-| Matteo si avvicina a Ben. | Matteo comes closer to Ben. |
-| «Ben, la prossima volta: non "**ho fame**". Milan o Inter.» | “Ben, next time: not ‘**I'm hungry**’. Milan or Inter.” |
+| Matteo si avvicina a Kevin. | Matteo comes closer to Kevin. |
+| «Kevin, la prossima volta: non "**ho fame**". Milan o Inter.» | “Kevin, next time: not ‘**I'm hungry**’. Milan or Inter.” |
 | «Ah! Perfetto. Milan o Inter.» | “Ah! Perfect. Milan or Inter.” |
 | «Sì. È importante.» | “Yes. It's important.” |
-| Ben apre il quaderno giallo e scrive. | Ben opens the yellow notebook and writes. |
+| Kevin apre il quaderno giallo e scrive. | Kevin opens the yellow notebook and writes. |
 | «Milan-Inter.» | “Milan-Inter.” |
 | «E "**ho fame**"?» | “And ‘**I'm hungry**’?” |
 | «Anche "**ho fame**". Sono due parole nuove.» | “Also ‘**I'm hungry**’. They're two new words.” |
 | Matteo ride e prende un altro caffè. | Matteo laughs and takes another coffee. |
 | «Domani ancora?» | “Tomorrow again?” |
 | «Sì. **Ho sete** di caffè.» | “Yes. **I'm thirsty** for coffee.” |
-| «Ben, si dice "**ho voglia** di caffè".» | “Ben, you say ‘**I feel like** coffee’.” |
+| «Kevin, si dice "**ho voglia** di caffè".» | “Kevin, you say ‘**I feel like** coffee’.” |
 | «Ah! **Ho voglia** di caffè.» | “Ah! **I feel like** coffee.” |
 | «Perfetto.» | “Perfect.” |
-| Ben esce dal bar con il quaderno sotto il braccio. | Ben leaves the bar with the notebook under his arm. |
+| Kevin esce dal bar con il quaderno sotto il braccio. | Kevin leaves the bar with the notebook under his arm. |
 | Fuori la pioggia è finita. | Outside the rain has stopped. |

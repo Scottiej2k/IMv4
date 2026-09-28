@@ -8,57 +8,57 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 È sabato mattina in Via dei Tigli. È un **giorno** **nuovo** per tutti. Il sole è alto. La **strada** è tranquilla. Davanti al numero quattordici c'è un furgone bianco. Sul furgone ci sono trenta scatole.
 
-«**Buongiorno**!» dice Ben. Lui è sulla porta di **casa**. In mano ha un quaderno rosso.
+«**Buongiorno**!» dice Kevin. Lui è sulla porta di **casa**. In mano ha un quaderno rosso.
 
 Leo è sul marciapiede e conta le scatole. «Una, due, tre... trenta!» dice Leo. «Trenta scatole sono tante!»
 
-«**Grazie**, Leo» dice Ben. «Tu sei un grande aiutante.» Ben apre il quaderno.
+«**Grazie**, Leo» dice Kevin. «Tu sei un grande aiutante.» Kevin apre il quaderno.
 
-Sul quaderno ci sono tre frasi. «Allora, Leo. Frase uno.» «**Buongiorno**!» «Perfetto. Frase due.» «**Mi chiamo** Ben.» «Frase tre: **sono** **americano**.»
+Sul quaderno ci sono tre frasi. «Allora, Leo. Frase uno.» «**Buongiorno**!» «Perfetto. Frase due.» «**Mi chiamo** Kevin.» «Frase tre: **sono** **americano**.»
 
 «Tre frasi sono poche» dice una voce. È Chiara. Lei è sulla porta con una lista.
 
-«Sono frasi **nuove** per me» dice Ben. «Ma sono perfette.» «**Parlo** piano, ma **parlo**.»
+«Sono frasi **nuove** per me» dice Kevin. «Ma sono perfette.» «**Parlo** piano, ma **parlo**.»
 
 «Leo, **per favore**, tu aiuti papà?» dice Chiara. «Primo: le scatole in sala.» «Secondo: le valigie in camera.» «Terzo: la cucina. Ci penso io.»
 
 Leo prende una scatola piccola. «Papà, io **abito** qui adesso?» chiede.
 
-«Sì. Tu **abiti** qui» dice Ben. «Al numero quattordici, in Via dei Tigli.»
+«Sì. Tu **abiti** qui» dice Kevin. «Al numero quattordici, in Via dei Tigli.»
 
 Al numero sedici c'è una **finestra** bianca. Alla **finestra** c'è una **signora** elegante. La **signora** guarda la **strada**. Lei vede tutto.
 
-«**Buongiorno**, signora!» dice Ben con la mano alta. La **signora** apre la **finestra**.
+«**Buongiorno**, signora!» dice Kevin con la mano alta. La **signora** apre la **finestra**.
 
 «**Buongiorno**» dice lei con calma.
 
-«Lei **abita** in quella **casa**?» chiede Ben.
+«Lei **abita** in quella **casa**?» chiede Kevin.
 
 «Sì. Io **sono** Ornella Galli.» «**Abito** al numero sedici.»
 
-«**Piacere**, signora Galli» dice Ben. «**Mi chiamo** Ben Carter.» «**Sono** **americano** e **abito** al numero quattordici.» «Con mia moglie e i miei figli.»
+«**Piacere**, signora Galli» dice Kevin. «**Mi chiamo** Kevin Carter.» «**Sono** **americano** e **abito** al numero quattordici.» «Con mia moglie e i miei figli.»
 
 «**Benvenuto** in Via dei Tigli, signor Carter» dice Ornella.
 
-«**Grazie**, signora» dice Ben. _Tre frasi e una **vicina**. Perfetto._
+«**Grazie**, signora» dice Kevin. _Tre frasi e una **vicina**. Perfetto._
 
-Un **gatto** grigio salta sulla **finestra**. «Questo **gatto** è di **casa**?» chiede Ben.
+Un **gatto** grigio salta sulla **finestra**. «Questo **gatto** è di **casa**?» chiede Kevin.
 
 «Lui è Pavarotti. È il **gatto** di **casa**» dice Ornella.
 
-«**Ciao**, Pavarotti» dice Ben. Il **gatto** guarda Ben. Poi va via.
+«**Ciao**, Pavarotti» dice Kevin. Il **gatto** guarda Kevin. Poi va via.
 
 «Il **gatto** **parla**?» chiede Leo.
 
-«No, Leo. Il **gatto** non **parla**» dice Ben.
+«No, Leo. Il **gatto** non **parla**» dice Kevin.
 
 «Lui è un **gatto**» dice Ornella.
 
 Dall'altra parte della **strada** c'è un uomo. Lui è sulla porta del numero nove. Il suo **nome** è Franco. Lui è il padre di Chiara.
 
-«**Buongiorno**, Franco!» dice Ben.
+«**Buongiorno**, Franco!» dice Kevin.
 
-Franco guarda Ben. Poi guarda il furgone. Poi dice solo: «Mah.»
+Franco guarda Kevin. Poi guarda il furgone. Poi dice solo: «Mah.»
 
 Chiara attraversa la **strada**. «**Ciao**, papà» dice lei.
 
@@ -66,7 +66,7 @@ Chiara attraversa la **strada**. «**Ciao**, papà» dice lei.
 
 «Tre frasi» dice Chiara. «Ma **parla** con tutti.»
 
-Ben arriva e sorride. «**Buongiorno**! **Mi chiamo** Ben.» «**Sono** **americano**. **Sono** un **vicino** **nuovo**.»
+Kevin arriva e sorride. «**Buongiorno**! **Mi chiamo** Kevin.» «**Sono** **americano**. **Sono** un **vicino** **nuovo**.»
 
 «Sì» dice Franco. «**Ciao**.» Franco guarda Leo. «**Ciao**, bambino» dice Franco. E entra in **casa**.
 
@@ -74,43 +74,43 @@ _Ok. Franco è Franco._
 
 «**Arrivederci**, signor Carter!» dice Ornella dalla **finestra**.
 
-«**Arrivederci**, signora Galli!» dice Ben. Poi la **signora** chiude la **finestra**.
+«**Arrivederci**, signora Galli!» dice Kevin. Poi la **signora** chiude la **finestra**.
 
-Leo prende la mano di Ben. «**Ciao**, nonno Franco!» dice Leo alla porta. «Papà, tu **sei** un **vicino** adesso?»
+Leo prende la mano di Kevin. «**Ciao**, nonno Franco!» dice Leo alla porta. «Papà, tu **sei** un **vicino** adesso?»
 
-«Sì, Leo. **Sono** un **vicino**» dice Ben. «Un **vicino** **nuovo**, con tre frasi.»
+«Sì, Leo. **Sono** un **vicino**» dice Kevin. «Un **vicino** **nuovo**, con tre frasi.»
 
-Chiara guarda il furgone. «Ben, il furgone è nel **parcheggio**?» chiede.
+Chiara guarda il furgone. «Kevin, il furgone è nel **parcheggio**?» chiede.
 
-«Sì. È un **parcheggio** grande» dice Ben.
+«Sì. È un **parcheggio** grande» dice Kevin.
 
 Chiara chiude gli occhi. «Mah» dice lei.
 
 ## 2. Via dei Tigli · sabato pomeriggio
 
-Nel pomeriggio il sole è ancora alto. La **strada** è piena di scatole e di biciclette. Ben porta le scatole in **casa**. Leo è in **casa** con i suoi libri di scuola. Sulla **strada** arriva un uomo con una camicia bianca. Lui cammina piano e guarda il furgone. Poi guarda la **casa** numero quattordici.
+Nel pomeriggio il sole è ancora alto. La **strada** è piena di scatole e di biciclette. Kevin porta le scatole in **casa**. Leo è in **casa** con i suoi libri di scuola. Sulla **strada** arriva un uomo con una camicia bianca. Lui cammina piano e guarda il furgone. Poi guarda la **casa** numero quattordici.
 
-«**Buonasera**!» dice Ben con la mano alta. L'uomo si ferma.
+«**Buonasera**!» dice Kevin con la mano alta. L'uomo si ferma.
 
 «No» dice lui. «È pomeriggio.» «La parola è **buongiorno**.»
 
-«Ah. **Buongiorno**» dice Ben. «**Scusi**. Io **sono** **americano**.» «**Parlo** un po' di **italiano**.»
+«Ah. **Buongiorno**» dice Kevin. «**Scusi**. Io **sono** **americano**.» «**Parlo** un po' di **italiano**.»
 
 «**Buongiorno**» dice l'uomo. «Lei **è** il signor Carter?»
 
-«Sì. **Mi chiamo** Ben Carter.» «E Lei **è**...?»
+«Sì. **Mi chiamo** Kevin Carter.» «E Lei **è**...?»
 
 «Roberto Colombo» dice l'uomo. «**Abito** al numero undici.» «**Sono** il presidente del comitato di **vicini**.»
 
-«**Piacere**, signor Colombo» dice Ben.
+«**Piacere**, signor Colombo» dice Kevin.
 
 «Lei **è** un **vicino** **nuovo**?»
 
 «Sì. **Abito** qui con la mia famiglia.» «**Siamo** al numero quattordici.» «Io e mia moglie. E i bambini.» «**Siamo** **americani**, di Columbus.»
 
-Roberto guarda il furgone. Poi guarda Ben con calma. «Signor Carter» dice. «Il furgone **è** nel mio **parcheggio**.»
+Roberto guarda il furgone. Poi guarda Kevin con calma. «Signor Carter» dice. «Il furgone **è** nel mio **parcheggio**.»
 
-«**Parcheggio**?» dice Ben. «**Scusi**, che cos'è un **parcheggio**?»
+«**Parcheggio**?» dice Kevin. «**Scusi**, che cos'è un **parcheggio**?»
 
 «È lo spazio per la macchina» dice Roberto. «Ma qui il **parcheggio** **è** privato.»
 
@@ -118,11 +118,11 @@ _Sono le prime parole **nuove** di oggi._
 
 «Il **nome** **è** sul muro» dice Roberto. Sul muro c'è un cartello bianco. Il cartello ha un **nome**: COLOMBO.
 
-«Ah! **Scusi**, signor Colombo» dice Ben.
+«Ah! **Scusi**, signor Colombo» dice Kevin.
 
 «**Per favore**, il furgone va via» dice Roberto. «Il regolamento **è** chiaro.»
 
-«Il regolamento?» chiede Ben.
+«Il regolamento?» chiede Kevin.
 
 «Sì. Via dei Tigli ha un regolamento» dice Roberto. «**Siamo** un comitato. Le regole **sono** **nuove** per Lei.» «**Parlo** chiaro, signor Carter?»
 
@@ -138,9 +138,9 @@ Dalla **casa** arriva Chiara. «**Buongiorno**, signor Colombo» dice lei.
 
 «Per tutti. Anche per me» dice Chiara. «Ci penso io.» Lei prende le chiavi e va al furgone.
 
-Ben guarda Roberto. «Lei **è** una **signora** gentile» dice Roberto.
+Kevin guarda Roberto. «Lei **è** una **signora** gentile» dice Roberto.
 
-«Sì. Lei **è** mia moglie» dice Ben. «E **parla** bene **italiano**.» «Sì. Lei **è** **italiana**» dice Ben.
+«Sì. Lei **è** mia moglie» dice Kevin. «E **parla** bene **italiano**.» «Sì. Lei **è** **italiana**» dice Kevin.
 
 «Ah. Bene» dice Roberto.
 
@@ -148,15 +148,15 @@ Chiara sposta il furgone. Il **parcheggio** adesso è libero. Il **gatto** di Or
 
 «Signor Carter» dice poi Roberto. «**Benvenuto** in Via dei Tigli.»
 
-«**Grazie**» dice Ben.
+«**Grazie**» dice Kevin.
 
 «**Arrivederci**» dice Roberto.
 
-«**Arrivederci**, signor Colombo» dice Ben.
+«**Arrivederci**, signor Colombo» dice Kevin.
 
-Roberto va a **casa**. Ben guarda la **strada**. Chiara arriva e sorride. «**Piacere** di conoscere il presidente?» chiede lei.
+Roberto va a **casa**. Kevin guarda la **strada**. Chiara arriva e sorride. «**Piacere** di conoscere il presidente?» chiede lei.
 
-«Sì. **Piacere** e problema» dice Ben.
+«Sì. **Piacere** e problema» dice Kevin.
 
 ## 3. Casa Carter, Via dei Tigli 14 · domenica sera
 
@@ -164,7 +164,7 @@ Roberto va a **casa**. Ben guarda la **strada**. Chiara arriva e sorride. «**Pi
 
 «Ornella è la **vicina** del numero sedici» dice Chiara.
 
-«La **signora** con la **finestra** bianca?» chiede Ben.
+«La **signora** con la **finestra** bianca?» chiede Kevin.
 
 «Sì. E il **gatto** si chiama Pavarotti» dice Chiara.
 
@@ -186,7 +186,7 @@ Roberto va a **casa**. Ben guarda la **strada**. Chiara arriva e sorride. «**Pi
 
 Leo prende il suo quaderno. «Allora. Frase uno: **Buongiorno**!» dice Leo. «Frase due: **Mi chiamo** Leo Carter.» «Frase tre: **Sono** **americano**.»
 
-«Perfetto» dice Ben.
+«Perfetto» dice Kevin.
 
 «Ma la **maestra** **parla** **italiano**, Leo» dice Chiara.
 
@@ -194,7 +194,7 @@ Leo prende il suo quaderno. «Allora. Frase uno: **Buongiorno**!» dice Leo. «F
 
 Emma entra in cucina con il telefono in mano. Lei guarda la torta e poi le scatole. «**Buonasera**, Emma» dice Chiara.
 
-«Domani è il primo **giorno** di **scuola** anche per te» dice Ben.
+«Domani è il primo **giorno** di **scuola** anche per te» dice Kevin.
 
 «Sì» dice Emma.
 
@@ -206,7 +206,7 @@ Emma entra in cucina con il telefono in mano. Lei guarda la torta e poi le scato
 
 «Sì» dice Emma.
 
-«Emma, tu **parli** con i tuoi **amici** a Monza?» chiede Ben.
+«Emma, tu **parli** con i tuoi **amici** a Monza?» chiede Kevin.
 
 «Non ho **amici** a Monza» dice Emma.
 
@@ -218,21 +218,21 @@ Emma entra in cucina con il telefono in mano. Lei guarda la torta e poi le scato
 
 «Sì» dice Emma. E esce dalla cucina.
 
-Ben guarda la porta. _Emma è **nuova** e non **parla**. Io sono **nuovo** e **parlo** sempre._
+Kevin guarda la porta. _Emma è **nuova** e non **parla**. Io sono **nuovo** e **parlo** sempre._
 
-«Leo, tu **parli** con la **maestra**?» chiede Ben.
+«Leo, tu **parli** con la **maestra**?» chiede Kevin.
 
 «Sì! Io **parlo** con tutti» dice Leo. «**Ciao**, **maestra**! **Mi chiamo** Leo.» «**Sono** **americano**. **Abito** in Via dei Tigli.»
 
-«Tre frasi e un sorriso» dice Ben.
+«Tre frasi e un sorriso» dice Kevin.
 
 Chiara prende una foto dal tavolo. «Leo, tu **sei** **americano** e io **sono** **americana**?» chiede.
 
-«Sì. Noi **siamo** **americani**» dice Ben.
+«Sì. Noi **siamo** **americani**» dice Kevin.
 
 «Ma voi **abitate** in Italia» dice Chiara.
 
-«E **parliamo** **italiano**» dice Ben.
+«E **parliamo** **italiano**» dice Kevin.
 
 «**Parlo** **italiano** e **parlo** americano» dice Leo.
 
@@ -240,29 +240,29 @@ Emma apre la porta della cucina. «La parola è 'inglese', Leo» dice lei. «Tu 
 
 «Ah. **Grazie**, Emma» dice Leo. Emma chiude la porta.
 
-Fuori, sulla **finestra**, c'è il **gatto** di Ornella. Il **gatto** guarda dentro la **casa**. _Voi siete **italiani** e **americani**. Noi siamo **americani** e qui. Bene._ «Domani **parlo** con tutti» dice Ben.
+Fuori, sulla **finestra**, c'è il **gatto** di Ornella. Il **gatto** guarda dentro la **casa**. _Voi siete **italiani** e **americani**. Noi siamo **americani** e qui. Bene._ «Domani **parlo** con tutti» dice Kevin.
 
 «Anche io!» dice Leo. Chiara ride e spegne la luce.
 
 ## 4. Scuola primaria Gianni Rodari · lunedì mattina
 
-È lunedì mattina. La **scuola** Gianni Rodari è in piazza. Ben e Leo sono davanti alla porta. Leo tiene il quaderno in mano. «Papà, io sono **nuovo**» dice Leo.
+È lunedì mattina. La **scuola** Gianni Rodari è in piazza. Kevin e Leo sono davanti alla porta. Leo tiene il quaderno in mano. «Papà, io sono **nuovo**» dice Leo.
 
-«Sì. Ma tu **parli** **italiano**» dice Ben.
+«Sì. Ma tu **parli** **italiano**» dice Kevin.
 
 Una **maestra** arriva alla porta. Lei ha una cartella blu e un sorriso. «**Buongiorno**!» dice lei.
 
-«**Buongiorno**, **maestra**» dice Ben. «**Mi chiamo** Ben Carter. Sono il papà di Leo.»
+«**Buongiorno**, **maestra**» dice Kevin. «**Mi chiamo** Kevin Carter. Sono il papà di Leo.»
 
 «**Piacere**, signor Carter» dice la **maestra**. «Io sono Paola. Sono la **maestra** di terza B.»
 
-«**Scusi**, **maestra** Paola» dice Ben. «Io **parlo** un po' di **italiano**. **Parlo** piano.»
+«**Scusi**, **maestra** Paola» dice Kevin. «Io **parlo** un po' di **italiano**. **Parlo** piano.»
 
 «Va bene» dice la **maestra**. «**Per favore**, venite dentro.»
 
 Leo guarda la **scuola**. «Papà, tu **abiti** qui? No, tu vai a **casa**?» chiede.
 
-«No, Leo. Io vado a **casa**» dice Ben.
+«No, Leo. Io vado a **casa**» dice Kevin.
 
 «Ma tu **parli** con la **maestra**, sì?»
 
@@ -308,15 +308,15 @@ La **maestra** Paola guarda Leo. «Leo, tu hai una frase **nuova**?» chiede.
 
 «**Ciao**, Leo, benvenuto in terza B» dicono i bambini.
 
-Ben è alla porta della **classe**. Lui guarda Leo e sorride. _Leo **parla** con tutti. Tre frasi e venti **amici**._
+Kevin è alla porta della **classe**. Lui guarda Leo e sorride. _Leo **parla** con tutti. Tre frasi e venti **amici**._
 
-La **maestra** Paola arriva da Ben. «Signor Carter, lei va a **casa** adesso?» chiede.
+La **maestra** Paola arriva da Kevin. «Signor Carter, lei va a **casa** adesso?» chiede.
 
-«Sì. **Arrivederci**, **maestra**» dice Ben.
+«Sì. **Arrivederci**, **maestra**» dice Kevin.
 
 «**Arrivederci**, signor Carter» dice lei. «Suo figlio **parla** **italiano** molto bene.»
 
-«**Grazie**, **maestra**» dice Ben. _La **maestra** è gentile. La **scuola** è **nuova** per tutti._ Ben esce dalla **scuola** e guarda la piazza.
+«**Grazie**, **maestra**» dice Kevin. _La **maestra** è gentile. La **scuola** è **nuova** per tutti._ Kevin esce dalla **scuola** e guarda la piazza.
 
 ## 5. Stazione di Borgoverde · lunedì mattina
 
@@ -400,29 +400,29 @@ Le porte si chiudono. Bianca parla e parla con Emma. Emma risponde piano. _Il pr
 
 ## 6. Via dei Tigli · lunedì pomeriggio
 
-Nel pomeriggio Ben arriva con le borse della spesa. La **strada** è tranquilla. Davanti alla **casa** numero quattordici c'è Leo. Leo gioca con una palla.
+Nel pomeriggio Kevin arriva con le borse della spesa. La **strada** è tranquilla. Davanti alla **casa** numero quattordici c'è Leo. Leo gioca con una palla.
 
-Alla **finestra** del numero sedici c'è la **signora** Ornella. Lei guarda la **strada**. «**Buonasera**, signora Galli!» dice Ben.
+Alla **finestra** del numero sedici c'è la **signora** Ornella. Lei guarda la **strada**. «**Buonasera**, signora Galli!» dice Kevin.
 
 «**Buonasera**, signor Carter» dice Ornella. «Lei fa la spesa da solo?»
 
-«Sì. Io **abito** qui e faccio la spesa» dice Ben.
+«Sì. Io **abito** qui e faccio la spesa» dice Kevin.
 
 Ornella sorride. «Lei **è** un **vicino** gentile, signor Carter» dice lei.
 
-«**Grazie**, signora» dice Ben. «**Piacere** mio.»
+«**Grazie**, signora» dice Kevin. «**Piacere** mio.»
 
 «Lei **parla** bene adesso» dice Ornella.
 
-«Io **parlo** tre frasi» dice Ben. «Ma oggi **parlo** con tutti.»
+«Io **parlo** tre frasi» dice Kevin. «Ma oggi **parlo** con tutti.»
 
 «Bene. **Parlo** e **parlo**, io» dice Ornella.
 
-Il **gatto** Pavarotti è sul muro. «**Scusi**, Pavarotti» dice Ben. Il **gatto** guarda Ben e non risponde.
+Il **gatto** Pavarotti è sul muro. «**Scusi**, Pavarotti» dice Kevin. Il **gatto** guarda Kevin e non risponde.
 
 «Il **gatto** non **parla**, signor Carter» dice Ornella.
 
-«Sì. **Parlo** con un **gatto**» dice Ben. «E il **gatto** va via.» Ornella ride dalla **finestra**.
+«Sì. **Parlo** con un **gatto**» dice Kevin. «E il **gatto** va via.» Ornella ride dalla **finestra**.
 
 Dall'altra parte della **strada** si apre una porta. È Franco. «Ehi! La palla!» dice Franco. «La palla è nel **parcheggio**!»
 
@@ -436,23 +436,23 @@ Franco attraversa la **strada**. In mano ha due pomodori. «Tieni. Pomodori» di
 
 «Sì» dice Leo.
 
-Franco guarda Ben. «**Ciao**» dice Franco. E va a **casa**.
+Franco guarda Kevin. «**Ciao**» dice Franco. E va a **casa**.
 
-Ben guarda i pomodori. «**Grazie**, signor Ferri!» dice Ben alla **strada**. La porta del numero nove si chiude.
+Kevin guarda i pomodori. «**Grazie**, signor Ferri!» dice Kevin alla **strada**. La porta del numero nove si chiude.
 
 «Franco **è** Franco» dice Ornella dalla **finestra**.
 
-«Sì. Ma io **parlo** con lui» dice Ben. «Leo, tu **parli** con nonno Franco?»
+«Sì. Ma io **parlo** con lui» dice Kevin. «Leo, tu **parli** con nonno Franco?»
 
 «Sì! Lui **parla** piano. Io capisco» dice Leo.
 
-«Leo, la **maestra** oggi **è** gentile?» chiede Ben.
+«Leo, la **maestra** oggi **è** gentile?» chiede Kevin.
 
 «Sì! E io ho un **amico** **nuovo**» dice Leo. «**Si chiama** Pietro.»
 
-«**Benvenuto** Pietro, allora» dice Ben.
+«**Benvenuto** Pietro, allora» dice Kevin.
 
-Ornella chiude la **finestra**. Il **gatto** dorme sul muro. _Tre frasi. Ma oggi **parlo** con tutti. E il **vicino** capisce._ Ben prende le borse e entra in **casa**. Leo lo segue con i pomodori.
+Ornella chiude la **finestra**. Il **gatto** dorme sul muro. _Tre frasi. Ma oggi **parlo** con tutti. E il **vicino** capisce._ Kevin prende le borse e entra in **casa**. Leo lo segue con i pomodori.
 
 ## 7. Casa di Franco, Via dei Tigli 9 · lunedì sera
 

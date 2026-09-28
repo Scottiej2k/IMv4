@@ -552,18 +552,18 @@
             },
             {
               "id": "s01e02-1-003",
-              "it": "Ben è seduto al **tavolo**.",
-              "en": "Ben is sitting at the **table**.",
+              "it": "Kevin è seduto al **tavolo**.",
+              "en": "Kevin is sitting at the **table**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben è seduto al **tavolo**.",
+                  "Kevin è seduto al **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -1029,12 +1029,12 @@
             },
             {
               "id": "s01e02-1-009",
-              "it": "«Ben, tutto bene?» chiede.",
-              "en": "\"Ben, everything okay?\" she asks.",
+              "it": "«Kevin, tutto bene?» chiede.",
+              "en": "\"Kevin, everything okay?\" she asks.",
               "voice": [
                 [
                   "chiara",
-                  "Ben, tutto bene?",
+                  "Kevin, tutto bene?",
                   ""
                 ],
                 [
@@ -1050,7 +1050,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -1097,8 +1097,8 @@
           "segments": [
             {
               "id": "s01e02-1-010",
-              "it": "«Sì! **Caffè**!» risponde Ben.",
-              "en": "\"Yes! **Coffee**!\" answers Ben.",
+              "it": "«Sì! **Caffè**!» risponde Kevin.",
+              "en": "\"Yes! **Coffee**!\" answers Kevin.",
               "voice": [
                 [
                   "ben",
@@ -1107,7 +1107,7 @@
                 ],
                 [
                   "narrator",
-                  "risponde Ben.",
+                  "risponde Kevin.",
                   ""
                 ]
               ],
@@ -1148,7 +1148,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -1392,8 +1392,8 @@
           "segments": [
             {
               "id": "s01e02-1-013",
-              "it": "«In America il **caffè** è **caffè**» dice Ben.",
-              "en": "\"In America **coffee** is **coffee**,\" says Ben.",
+              "it": "«In America il **caffè** è **caffè**» dice Kevin.",
+              "en": "\"In America **coffee** is **coffee**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -1402,7 +1402,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -1483,7 +1483,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -1791,8 +1791,8 @@
           "segments": [
             {
               "id": "s01e02-1-017",
-              "it": "«Una cosa lunga» dice Ben. «Come il **pranzo** di **domenica**.»",
-              "en": "\"A long thing,\" says Ben. \"Like **Sunday** **lunch**.\"",
+              "it": "«Una cosa lunga» dice Kevin. «Come il **pranzo** di **domenica**.»",
+              "en": "\"A long thing,\" says Kevin. \"Like **Sunday** **lunch**.\"",
               "voice": [
                 [
                   "ben",
@@ -1801,7 +1801,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -1857,7 +1857,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -2468,18 +2468,18 @@
           "segments": [
             {
               "id": "s01e02-1-026",
-              "it": "Ben guarda Leo, poi guarda Chiara.",
-              "en": "Ben looks at Leo, then at Chiara.",
+              "it": "Kevin guarda Leo, poi guarda Chiara.",
+              "en": "Kevin looks at Leo, then at Chiara.",
               "voice": [
                 [
                   "narrator",
-                  "Ben guarda Leo, poi guarda Chiara.",
+                  "Kevin guarda Leo, poi guarda Chiara.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -3249,18 +3249,18 @@
           "segments": [
             {
               "id": "s01e02-1-034",
-              "it": "Ben prende un **quaderno** dal **tavolo**.",
-              "en": "Ben takes a **notebook** from the **table**.",
+              "it": "Kevin prende un **quaderno** dal **tavolo**.",
+              "en": "Kevin takes a **notebook** from the **table**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben prende un **quaderno** dal **tavolo**.",
+                  "Kevin prende un **quaderno** dal **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -3405,7 +3405,7 @@
             {
               "id": "s01e02-1-036",
               "it": "«Nuova **parola**: **pasta**» dice.",
-              "en": "\"New **word**: **pasta**,\" says Ben.",
+              "en": "\"New **word**: **pasta**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -3551,7 +3551,7 @@
             {
               "id": "s01e02-1-038",
               "it": "«**Numero** due: **carne**» dice.",
-              "en": "\"**Number** two: **meat**,\" says Ben.",
+              "en": "\"**Number** two: **meat**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -3702,8 +3702,8 @@
             },
             {
               "id": "s01e02-1-040",
-              "it": "«Quattro **parole**, quattro **piatti**» dice Ben.",
-              "en": "\"Four **words**, four **dishes**,\" says Ben.",
+              "it": "«Quattro **parole**, quattro **piatti**» dice Kevin.",
+              "en": "\"Four **words**, four **dishes**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -3712,7 +3712,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -3773,7 +3773,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -4214,8 +4214,8 @@
           "segments": [
             {
               "id": "s01e02-1-046",
-              "it": "«Allora, **domenica**» dice Ben. «Cosa porto?»",
-              "en": "\"So, **Sunday**,\" says Ben. \"What do I bring?\"",
+              "it": "«Allora, **domenica**» dice Kevin. «Cosa porto?»",
+              "en": "\"So, **Sunday**,\" says Kevin. \"What do I bring?\"",
               "voice": [
                 [
                   "ben",
@@ -4224,7 +4224,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -4270,7 +4270,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -4708,8 +4708,8 @@
           "segments": [
             {
               "id": "s01e02-1-051",
-              "it": "«Ma io porto il **latte**» dice Ben. «Il **latte** è gentile.»",
-              "en": "\"But I'm bringing the **latte**,\" says Ben. \"**Milk** is kind.\"",
+              "it": "«Ma io porto il **latte**» dice Kevin. «Il **latte** è gentile.»",
+              "en": "\"But I'm bringing the **latte**,\" says Kevin. \"**Milk** is kind.\"",
               "voice": [
                 [
                   "ben",
@@ -4718,7 +4718,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -4794,7 +4794,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -4938,12 +4938,12 @@
             },
             {
               "id": "s01e02-1-053",
-              "it": "«Il **latte** con la **carne**? No, Ben» dice.",
-              "en": "\"**Milk** with the **meat**? No, Ben,\" she says.",
+              "it": "«Il **latte** con la **carne**? No, Kevin» dice.",
+              "en": "\"**Milk** with the **meat**? No, Kevin,\" she says.",
               "voice": [
                 [
                   "chiara",
-                  "Il **latte** con la **carne**? No, Ben",
+                  "Il **latte** con la **carne**? No, Kevin",
                   "tired"
                 ],
                 [
@@ -5019,7 +5019,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -5050,8 +5050,8 @@
           "segments": [
             {
               "id": "s01e02-1-054",
-              "it": "«Però il **latte** è buono» dice Ben.",
-              "en": "\"But **milk** is good,\" says Ben.",
+              "it": "«Però il **latte** è buono» dice Kevin.",
+              "en": "\"But **milk** is good,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -5060,7 +5060,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -5131,7 +5131,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -5501,8 +5501,8 @@
           "segments": [
             {
               "id": "s01e02-1-059",
-              "it": "«Grazie, Leo» dice Ben. «Sei gentile.»",
-              "en": "\"Thanks, Leo,\" says Ben. \"You're kind.\"",
+              "it": "«Grazie, Leo» dice Kevin. «Sei gentile.»",
+              "en": "\"Thanks, Leo,\" says Kevin. \"You're kind.\"",
               "voice": [
                 [
                   "ben",
@@ -5511,7 +5511,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -5557,7 +5557,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -5821,18 +5821,18 @@
           "segments": [
             {
               "id": "s01e02-1-063",
-              "it": "Ben guarda il **quaderno** e sospira.",
-              "en": "Ben looks at the **notebook** and sighs.",
+              "it": "Kevin guarda il **quaderno** e sospira.",
+              "en": "Kevin looks at the **notebook** and sighs.",
               "voice": [
                 [
                   "narrator",
-                  "Ben guarda il **quaderno** e sospira.",
+                  "Kevin guarda il **quaderno** e sospira.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -6390,8 +6390,8 @@
           "segments": [
             {
               "id": "s01e02-1-070",
-              "it": "«E il **latte**?» chiede Ben.",
-              "en": "\"And the **milk**?\" asks Ben.",
+              "it": "«E il **latte**?» chiede Kevin.",
+              "en": "\"And the **milk**?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -6400,7 +6400,7 @@
                 ],
                 [
                   "narrator",
-                  "chiede Ben.",
+                  "chiede Kevin.",
                   ""
                 ]
               ],
@@ -6451,7 +6451,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -6572,18 +6572,18 @@
           "segments": [
             {
               "id": "s01e02-1-072",
-              "it": "Ben ride e scrive un'ultima **parola** nel **quaderno**.",
-              "en": "Ben laughs and writes one last **word** in the **notebook**.",
+              "it": "Kevin ride e scrive un'ultima **parola** nel **quaderno**.",
+              "en": "Kevin laughs and writes one last **word** in the **notebook**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben ride e scrive un'ultima **parola** nel **quaderno**.",
+                  "Kevin ride e scrive un'ultima **parola** nel **quaderno**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -7096,18 +7096,18 @@
             },
             {
               "id": "s01e02-2-004",
-              "it": "Ben entra e guarda il bancone.",
-              "en": "Ben comes in and looks at the counter.",
+              "it": "Kevin entra e guarda il bancone.",
+              "en": "Kevin comes in and looks at the counter.",
               "voice": [
                 [
                   "narrator",
-                  "Ben entra e guarda il bancone.",
+                  "Kevin entra e guarda il bancone.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -7288,8 +7288,8 @@
           "segments": [
             {
               "id": "s01e02-2-006",
-              "it": "«Buongiorno!» dice Ben.",
-              "en": "\"Good morning!\" says Ben.",
+              "it": "«Buongiorno!» dice Kevin.",
+              "en": "\"Good morning!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -7298,7 +7298,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -7329,7 +7329,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -7439,8 +7439,8 @@
           "segments": [
             {
               "id": "s01e02-2-008",
-              "it": "«Ah. **Grazie**» dice Ben.",
-              "en": "\"Ah. **Thanks**,\" says Ben.",
+              "it": "«Ah. **Grazie**» dice Kevin.",
+              "en": "\"Ah. **Thanks**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -7449,7 +7449,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -7490,7 +7490,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -7584,12 +7584,12 @@
             },
             {
               "id": "s01e02-2-010",
-              "it": "«Ben Carter, giusto?» chiede. «Numero quattordici.»",
-              "en": "\"Ben Carter, right?\" he asks. \"Number fourteen.\"",
+              "it": "«Kevin Carter, giusto?» chiede. «Numero quattordici.»",
+              "en": "\"Kevin Carter, right?\" he asks. \"Number fourteen.\"",
               "voice": [
                 [
                   "matteo",
-                  "Ben Carter, giusto?",
+                  "Kevin Carter, giusto?",
                   ""
                 ],
                 [
@@ -7610,7 +7610,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -7677,8 +7677,8 @@
           "segments": [
             {
               "id": "s01e02-2-011",
-              "it": "«Sì! Tu sei…» dice Ben.",
-              "en": "\"Yes! You are…\" says Ben.",
+              "it": "«Sì! Tu sei…» dice Kevin.",
+              "en": "\"Yes! You are…\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -7687,7 +7687,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -7738,7 +7738,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -7843,8 +7843,8 @@
           "segments": [
             {
               "id": "s01e02-2-013",
-              "it": "«Fratello! Perfetto» dice Ben.",
-              "en": "\"Brother! Perfect,\" says Ben.",
+              "it": "«Fratello! Perfetto» dice Kevin.",
+              "en": "\"Brother! Perfect,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -7853,7 +7853,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -7894,7 +7894,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -8071,8 +8071,8 @@
           "segments": [
             {
               "id": "s01e02-2-016",
-              "it": "«**Vorrei** un **cappuccino**, **per favore**» dice Ben.",
-              "en": "\"**I would like** a **cappuccino**, **please**,\" says Ben.",
+              "it": "«**Vorrei** un **cappuccino**, **per favore**» dice Kevin.",
+              "en": "\"**I would like** a **cappuccino**, **please**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -8081,7 +8081,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -8152,7 +8152,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -8319,8 +8319,8 @@
           "segments": [
             {
               "id": "s01e02-2-019",
-              "it": "«Sì. Adesso» dice Ben. «Con un **cornetto**.»",
-              "en": "\"Yes. Now,\" says Ben. \"With a **croissant**.\"",
+              "it": "«Sì. Adesso» dice Kevin. «Con un **cornetto**.»",
+              "en": "\"Yes. Now,\" says Kevin. \"With a **croissant**.\"",
               "voice": [
                 [
                   "ben",
@@ -8329,7 +8329,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -8375,7 +8375,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -8600,8 +8600,8 @@
           "segments": [
             {
               "id": "s01e02-2-022",
-              "it": "«La mattina?» chiede Ben.",
-              "en": "\"The morning?\" asks Ben.",
+              "it": "«La mattina?» chiede Kevin.",
+              "en": "\"The morning?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -8610,7 +8610,7 @@
                 ],
                 [
                   "narrator",
-                  "chiede Ben.",
+                  "chiede Kevin.",
                   ""
                 ]
               ],
@@ -8651,7 +8651,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -8765,7 +8765,7 @@
             {
               "id": "s01e02-2-024",
               "it": "«E adesso?» chiede.",
-              "en": "\"And now?\" asks Ben.",
+              "en": "\"And now?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -8924,7 +8924,7 @@
             {
               "id": "s01e02-2-026",
               "it": "«E il **cornetto**?» chiede.",
-              "en": "\"And the **cornetto**?\" asks Ben.",
+              "en": "\"And the **cornetto**?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -9132,7 +9132,7 @@
             {
               "id": "s01e02-2-028",
               "it": "«E la **brioche**?» chiede. «Vedo **brioche** in vetrina.»",
-              "en": "\"And the **brioche**?\" asks Ben. \"I see **brioche** in the window.\"",
+              "en": "\"And the **brioche**?\" asks Kevin. \"I see **brioche** in the window.\"",
               "voice": [
                 [
                   "ben",
@@ -9383,8 +9383,8 @@
           "segments": [
             {
               "id": "s01e02-2-030",
-              "it": "«Nord, sud, **cornetto**, **brioche**» dice Ben. «Va bene.»",
-              "en": "\"North, south, **cornetto**, **brioche**,\" says Ben. \"Okay.\"",
+              "it": "«Nord, sud, **cornetto**, **brioche**» dice Kevin. «Va bene.»",
+              "en": "\"North, south, **cornetto**, **brioche**,\" says Kevin. \"Okay.\"",
               "voice": [
                 [
                   "ben",
@@ -9393,7 +9393,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -9459,7 +9459,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -9500,18 +9500,18 @@
           "segments": [
             {
               "id": "s01e02-2-031",
-              "it": "Ben apre il **quaderno** giallo sul bancone.",
-              "en": "Ben opens the yellow **notebook** on the counter.",
+              "it": "Kevin apre il **quaderno** giallo sul bancone.",
+              "en": "Kevin opens the yellow **notebook** on the counter.",
               "voice": [
                 [
                   "narrator",
-                  "Ben apre il **quaderno** giallo sul bancone.",
+                  "Kevin apre il **quaderno** giallo sul bancone.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -9884,8 +9884,8 @@
           "segments": [
             {
               "id": "s01e02-2-036",
-              "it": "«Sì. Con **latte**» dice Ben.",
-              "en": "\"Yes. With **latte**,\" says Ben.",
+              "it": "«Sì. Con **latte**» dice Kevin.",
+              "en": "\"Yes. With **latte**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -9894,7 +9894,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -9945,7 +9945,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -10070,8 +10070,8 @@
           "segments": [
             {
               "id": "s01e02-2-039",
-              "it": "«Sì. **Latte**» dice Ben, sicuro.",
-              "en": "\"Yes. **Latte**,\" says Ben, sure.",
+              "it": "«Sì. **Latte**» dice Kevin, sicuro.",
+              "en": "\"Yes. **Latte**,\" says Kevin, sure.",
               "voice": [
                 [
                   "ben",
@@ -10080,7 +10080,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, sicuro.",
+                  "dice Kevin, sicuro.",
                   ""
                 ]
               ],
@@ -10121,7 +10121,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -10281,12 +10281,12 @@
             },
             {
               "id": "s01e02-2-042",
-              "it": "Lo mette davanti a Ben.",
-              "en": "He puts it in front of Ben.",
+              "it": "Lo mette davanti a Kevin.",
+              "en": "He puts it in front of Kevin.",
               "voice": [
                 [
                   "narrator",
-                  "Lo mette davanti a Ben.",
+                  "Lo mette davanti a Kevin.",
                   ""
                 ]
               ],
@@ -10332,7 +10332,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -10420,18 +10420,18 @@
           "segments": [
             {
               "id": "s01e02-2-044",
-              "it": "Ben guarda il **bicchiere**.",
-              "en": "Ben looks at the **glass**.",
+              "it": "Kevin guarda il **bicchiere**.",
+              "en": "Kevin looks at the **glass**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben guarda il **bicchiere**.",
+                  "Kevin guarda il **bicchiere**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -10623,8 +10623,8 @@
             },
             {
               "id": "s01e02-2-047",
-              "it": "«Il **latte** è **latte**» dice Ben.",
-              "en": "\"**Latte** is **latte**,\" says Ben.",
+              "it": "«Il **latte** è **latte**» dice Kevin.",
+              "en": "\"**Latte** is **latte**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -10633,7 +10633,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -10694,7 +10694,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -10861,8 +10861,8 @@
           "segments": [
             {
               "id": "s01e02-2-049",
-              "it": "«Ma io voglio **latte** con **caffè**» dice Ben.",
-              "en": "\"But I want **latte** with **caffè**,\" says Ben.",
+              "it": "«Ma io voglio **latte** con **caffè**» dice Kevin.",
+              "en": "\"But I want **latte** with **caffè**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -10871,7 +10871,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -10952,7 +10952,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -11120,8 +11120,8 @@
           "segments": [
             {
               "id": "s01e02-2-051",
-              "it": "«Macchiato» ripete Ben. «Macchiato. **Numero** sei.»",
-              "en": "\"Macchiato,\" repeats Ben. \"Macchiato. **Number** six.\"",
+              "it": "«Macchiato» ripete Kevin. «Macchiato. **Numero** sei.»",
+              "en": "\"Macchiato,\" repeats Kevin. \"Macchiato. **Number** six.\"",
               "voice": [
                 [
                   "ben",
@@ -11130,7 +11130,7 @@
                 ],
                 [
                   "narrator",
-                  "ripete Ben.",
+                  "ripete Kevin.",
                   ""
                 ],
                 [
@@ -11166,7 +11166,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -11670,8 +11670,8 @@
           "segments": [
             {
               "id": "s01e02-2-058",
-              "it": "«Bene» dice Ben. «Ma è piccola.»",
-              "en": "\"Okay,\" says Ben. \"But it's small.\"",
+              "it": "«Bene» dice Kevin. «Ma è piccola.»",
+              "en": "\"Okay,\" says Kevin. \"But it's small.\"",
               "voice": [
                 [
                   "ben",
@@ -11680,7 +11680,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -11716,7 +11716,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -11890,7 +11890,7 @@
             {
               "id": "s01e02-2-060",
               "it": "«In America la **tazza** è grande» dice. «Come una piscina.»",
-              "en": "\"In America the **cup** is big,\" says Ben. \"Like a swimming pool.\"",
+              "en": "\"In America the **cup** is big,\" says Kevin. \"Like a swimming pool.\"",
               "voice": [
                 [
                   "ben",
@@ -12137,18 +12137,18 @@
           "segments": [
             {
               "id": "s01e02-2-063",
-              "it": "Ben prende il **caffè** e poi cerca un **tavolo**.",
-              "en": "Ben takes the **caffè** and then looks for a **table**.",
+              "it": "Kevin prende il **caffè** e poi cerca un **tavolo**.",
+              "en": "Kevin takes the **caffè** and then looks for a **table**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben prende il **caffè** e poi cerca un **tavolo**.",
+                  "Kevin prende il **caffè** e poi cerca un **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -12322,18 +12322,18 @@
             },
             {
               "id": "s01e02-2-065",
-              "it": "Ben va al **tavolo** e si siede.",
-              "en": "Ben goes to the **table** and sits down.",
+              "it": "Kevin va al **tavolo** e si siede.",
+              "en": "Kevin goes to the **table** and sits down.",
               "voice": [
                 [
                   "narrator",
-                  "Ben va al **tavolo** e si siede.",
+                  "Kevin va al **tavolo** e si siede.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -12831,8 +12831,8 @@
           "segments": [
             {
               "id": "s01e02-2-072",
-              "it": "«Sì. Perfetto» dice Ben.",
-              "en": "\"Yes. Perfect,\" says Ben.",
+              "it": "«Sì. Perfetto» dice Kevin.",
+              "en": "\"Yes. Perfect,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -12841,7 +12841,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -12882,7 +12882,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -12980,8 +12980,8 @@
           "segments": [
             {
               "id": "s01e02-2-074",
-              "it": "«Buonissimo. **Grazie**» dice Ben.",
-              "en": "\"Very good. **Thanks**,\" says Ben.",
+              "it": "«Buonissimo. **Grazie**» dice Kevin.",
+              "en": "\"Very good. **Thanks**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -12990,7 +12990,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -13031,7 +13031,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -13197,18 +13197,18 @@
             },
             {
               "id": "s01e02-2-078",
-              "it": "Ben aspetta.",
-              "en": "Ben waits.",
+              "it": "Kevin aspetta.",
+              "en": "Kevin waits.",
               "voice": [
                 [
                   "narrator",
-                  "Ben aspetta.",
+                  "Kevin aspetta.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -13327,7 +13327,7 @@
             {
               "id": "s01e02-2-081",
               "it": "«No… ma il **conto**?» chiede. «**Vorrei** pagare.»",
-              "en": "\"No… but the **conto**?\" asks Ben. \"**I would like** to pay.\"",
+              "en": "\"No… but the **conto**?\" asks Kevin. \"**I would like** to pay.\"",
               "voice": [
                 [
                   "ben",
@@ -13530,7 +13530,7 @@
             {
               "id": "s01e02-2-083",
               "it": "«Dopo?» chiede.",
-              "en": "\"After?\" asks Ben.",
+              "en": "\"After?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -13749,8 +13749,8 @@
           "segments": [
             {
               "id": "s01e02-2-086",
-              "it": "«Oh» dice Ben. «In America… prima paghi.»",
-              "en": "\"Oh,\" says Ben. \"In America… first you pay.\"",
+              "it": "«Oh» dice Kevin. «In America… prima paghi.»",
+              "en": "\"Oh,\" says Kevin. \"In America… first you pay.\"",
               "voice": [
                 [
                   "ben",
@@ -13759,7 +13759,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -13795,7 +13795,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -14107,8 +14107,8 @@
           "segments": [
             {
               "id": "s01e02-2-090",
-              "it": "«Allora, alla fine, **il conto**, **per favore**» dice Ben.",
-              "en": "\"So, at the end, **the bill**, **please**,\" says Ben.",
+              "it": "«Allora, alla fine, **il conto**, **per favore**» dice Kevin.",
+              "en": "\"So, at the end, **the bill**, **please**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -14117,7 +14117,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -14208,7 +14208,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   8,
                   ""
                 ],
@@ -14341,8 +14341,8 @@
           "segments": [
             {
               "id": "s01e02-2-093",
-              "it": "«**Grazie**» dice Ben, e cerca i soldi.",
-              "en": "\"**Thanks**,\" says Ben, and looks for the money.",
+              "it": "«**Grazie**» dice Kevin, e cerca i soldi.",
+              "en": "\"**Thanks**,\" says Kevin, and looks for the money.",
               "voice": [
                 [
                   "ben",
@@ -14351,7 +14351,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, e cerca i soldi.",
+                  "dice Kevin, e cerca i soldi.",
                   ""
                 ]
               ],
@@ -14382,7 +14382,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -14610,18 +14610,18 @@
             },
             {
               "id": "s01e02-2-096",
-              "it": "Ben guarda il foglietto.",
-              "en": "Ben looks at the little paper.",
+              "it": "Kevin guarda il foglietto.",
+              "en": "Kevin looks at the little paper.",
               "voice": [
                 [
                   "narrator",
-                  "Ben guarda il foglietto.",
+                  "Kevin guarda il foglietto.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -14665,7 +14665,7 @@
             {
               "id": "s01e02-2-097",
               "it": "«Che cos'è?» chiede.",
-              "en": "\"What is it?\" asks Ben.",
+              "en": "\"What is it?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -14829,8 +14829,8 @@
           "segments": [
             {
               "id": "s01e02-2-099",
-              "it": "«**Scontrino**» ripete Ben. «**Numero** sette.»",
-              "en": "\"**Scontrino**,\" repeats Ben. \"**Number** seven.\"",
+              "it": "«**Scontrino**» ripete Kevin. «**Numero** sette.»",
+              "en": "\"**Scontrino**,\" repeats Kevin. \"**Number** seven.\"",
               "voice": [
                 [
                   "ben",
@@ -14839,7 +14839,7 @@
                 ],
                 [
                   "narrator",
-                  "ripete Ben.",
+                  "ripete Kevin.",
                   ""
                 ],
                 [
@@ -14875,7 +14875,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -14980,8 +14980,8 @@
             },
             {
               "id": "s01e02-2-101",
-              "it": "«**Conto**: soldi. **Scontrino**: carta» dice Ben.",
-              "en": "\"**Conto**: money. **Scontrino**: paper,\" says Ben.",
+              "it": "«**Conto**: soldi. **Scontrino**: carta» dice Kevin.",
+              "en": "\"**Conto**: money. **Scontrino**: paper,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -14990,7 +14990,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -15051,7 +15051,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -15130,18 +15130,18 @@
           "segments": [
             {
               "id": "s01e02-2-103",
-              "it": "Ben prende la **tazza** vuota.",
-              "en": "Ben takes the empty **cup**.",
+              "it": "Kevin prende la **tazza** vuota.",
+              "en": "Kevin takes the empty **cup**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben prende la **tazza** vuota.",
+                  "Kevin prende la **tazza** vuota.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -15525,8 +15525,8 @@
           "segments": [
             {
               "id": "s01e02-2-108",
-              "it": "«**Vorrei** una **tazza** così a casa» dice Ben.",
-              "en": "\"**I would like** a **cup** like this at home,\" says Ben.",
+              "it": "«**Vorrei** una **tazza** così a casa» dice Kevin.",
+              "en": "\"**I would like** a **cup** like this at home,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -15535,7 +15535,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -15616,7 +15616,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -15739,8 +15739,8 @@
           "segments": [
             {
               "id": "s01e02-2-110",
-              "it": "«Esatto!» dice Ben.",
-              "en": "\"Exactly!\" says Ben.",
+              "it": "«Esatto!» dice Kevin.",
+              "en": "\"Exactly!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -15749,7 +15749,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -15780,7 +15780,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -16105,18 +16105,18 @@
           "segments": [
             {
               "id": "s01e02-2-115",
-              "it": "Ben si alza dal **tavolo**.",
-              "en": "Ben gets up from the **table**.",
+              "it": "Kevin si alza dal **tavolo**.",
+              "en": "Kevin gets up from the **table**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben si alza dal **tavolo**.",
+                  "Kevin si alza dal **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -16337,7 +16337,7 @@
             {
               "id": "s01e02-2-118",
               "it": "«Una **parola** nuova al giorno» dice.",
-              "en": "\"A new **word** a day,\" says Ben.",
+              "en": "\"A new **word** a day,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -16518,8 +16518,8 @@
           "segments": [
             {
               "id": "s01e02-2-120",
-              "it": "«**Grazie** a te. **Per favore**, un **caffè** domani, con **latte** piccolo» dice Ben.",
-              "en": "\"**Thanks** to you. **Please**, a **caffè** tomorrow, with a little **latte**,\" says Ben.",
+              "it": "«**Grazie** a te. **Per favore**, un **caffè** domani, con **latte** piccolo» dice Kevin.",
+              "en": "\"**Thanks** to you. **Please**, a **caffè** tomorrow, with a little **latte**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -16528,7 +16528,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -16659,7 +16659,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   12,
                   ""
                 ],
@@ -16778,8 +16778,8 @@
           "segments": [
             {
               "id": "s01e02-2-122",
-              "it": "«Lo so già!» dice Ben.",
-              "en": "\"I already know it!\" says Ben.",
+              "it": "«Lo so già!» dice Kevin.",
+              "en": "\"I already know it!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -16788,7 +16788,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -16839,7 +16839,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -16856,18 +16856,18 @@
           "segments": [
             {
               "id": "s01e02-2-123",
-              "it": "Ben esce dal bar con il **quaderno** in mano.",
-              "en": "Ben leaves the bar with the **notebook** in his hand.",
+              "it": "Kevin esce dal bar con il **quaderno** in mano.",
+              "en": "Kevin leaves the bar with the **notebook** in his hand.",
               "voice": [
                 [
                   "narrator",
-                  "Ben esce dal bar con il **quaderno** in mano.",
+                  "Kevin esce dal bar con il **quaderno** in mano.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -18442,12 +18442,12 @@
           "segments": [
             {
               "id": "s01e02-3-016",
-              "it": "Dietro Leo arriva Ben.",
-              "en": "Behind Leo comes Ben.",
+              "it": "Dietro Leo arriva Kevin.",
+              "en": "Behind Leo comes Kevin.",
               "voice": [
                 [
                   "narrator",
-                  "Dietro Leo arriva Ben.",
+                  "Dietro Leo arriva Kevin.",
                   ""
                 ]
               ],
@@ -18483,7 +18483,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -18496,18 +18496,18 @@
             },
             {
               "id": "s01e02-3-017",
-              "it": "Ben ha il **quaderno** giallo in mano.",
-              "en": "Ben has the yellow **notebook** in his hand.",
+              "it": "Kevin ha il **quaderno** giallo in mano.",
+              "en": "Kevin has the yellow **notebook** in his hand.",
               "voice": [
                 [
                   "narrator",
-                  "Ben ha il **quaderno** giallo in mano.",
+                  "Kevin ha il **quaderno** giallo in mano.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -18583,8 +18583,8 @@
             },
             {
               "id": "s01e02-3-018",
-              "it": "«Buongiorno!» dice Ben.",
-              "en": "\"Good morning!\" says Ben.",
+              "it": "«Buongiorno!» dice Kevin.",
+              "en": "\"Good morning!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -18593,7 +18593,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -18624,7 +18624,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -18783,8 +18783,8 @@
           "segments": [
             {
               "id": "s01e02-3-021",
-              "it": "«Il **pranzo** è a mezzogiorno?» chiede Ben.",
-              "en": "\"Is the **lunch** at noon?\" asks Ben.",
+              "it": "«Il **pranzo** è a mezzogiorno?» chiede Kevin.",
+              "en": "\"Is the **lunch** at noon?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -18793,7 +18793,7 @@
                 ],
                 [
                   "narrator",
-                  "chiede Ben.",
+                  "chiede Kevin.",
                   ""
                 ]
               ],
@@ -18864,7 +18864,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -18965,18 +18965,18 @@
           "segments": [
             {
               "id": "s01e02-3-023",
-              "it": "Ben apre il **quaderno** e scrive.",
-              "en": "Ben opens the **notebook** and writes.",
+              "it": "Kevin apre il **quaderno** e scrive.",
+              "en": "Kevin opens the **notebook** and writes.",
               "voice": [
                 [
                   "narrator",
-                  "Ben apre il **quaderno** e scrive.",
+                  "Kevin apre il **quaderno** e scrive.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -19042,8 +19042,8 @@
             },
             {
               "id": "s01e02-3-024",
-              "it": "«Dodici e mezza» ripete Ben. «**Numero** dieci.»",
-              "en": "\"Twelve thirty,\" repeats Ben. \"**Number** ten.\"",
+              "it": "«Dodici e mezza» ripete Kevin. «**Numero** dieci.»",
+              "en": "\"Twelve thirty,\" repeats Kevin. \"**Number** ten.\"",
               "voice": [
                 [
                   "ben",
@@ -19052,7 +19052,7 @@
                 ],
                 [
                   "narrator",
-                  "ripete Ben.",
+                  "ripete Kevin.",
                   ""
                 ],
                 [
@@ -19108,7 +19108,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -19219,8 +19219,8 @@
           "segments": [
             {
               "id": "s01e02-3-026",
-              "it": "«Il mio **quaderno**» dice Ben. «Una **parola** nuova ogni giorno.»",
-              "en": "\"My **notebook**,\" says Ben. \"A new **word** every day.\"",
+              "it": "«Il mio **quaderno**» dice Kevin. «Una **parola** nuova ogni giorno.»",
+              "en": "\"My **notebook**,\" says Kevin. \"A new **word** every day.\"",
               "voice": [
                 [
                   "ben",
@@ -19229,7 +19229,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -19285,7 +19285,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -19356,12 +19356,12 @@
           "segments": [
             {
               "id": "s01e02-3-027",
-              "it": "Franco guarda il **quaderno** di Ben.",
-              "en": "Franco looks at Ben's **notebook**.",
+              "it": "Franco guarda il **quaderno** di Kevin.",
+              "en": "Franco looks at Kevin's **notebook**.",
               "voice": [
                 [
                   "narrator",
-                  "Franco guarda il **quaderno** di Ben.",
+                  "Franco guarda il **quaderno** di Kevin.",
                   ""
                 ]
               ],
@@ -19417,7 +19417,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -19596,8 +19596,8 @@
           "segments": [
             {
               "id": "s01e02-3-030",
-              "it": "«Dieci **parole** in una settimana» dice Ben.",
-              "en": "\"Ten **words** in one week,\" says Ben.",
+              "it": "«Dieci **parole** in una settimana» dice Kevin.",
+              "en": "\"Ten **words** in one week,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -19606,7 +19606,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -19677,7 +19677,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -19834,8 +19834,8 @@
           "segments": [
             {
               "id": "s01e02-3-032",
-              "it": "«Ma io conto le **parole**» dice Ben.",
-              "en": "\"But I count the **words**,\" says Ben.",
+              "it": "«Ma io conto le **parole**» dice Kevin.",
+              "en": "\"But I count the **words**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -19844,7 +19844,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -19915,7 +19915,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -20038,12 +20038,12 @@
           "segments": [
             {
               "id": "s01e02-3-034",
-              "it": "Poi Franco guarda Ben, dritto negli occhi.",
-              "en": "Then Franco looks at Ben, straight in the eyes.",
+              "it": "Poi Franco guarda Kevin, dritto negli occhi.",
+              "en": "Then Franco looks at Kevin, straight in the eyes.",
               "voice": [
                 [
                   "narrator",
-                  "Poi Franco guarda Ben, dritto negli occhi.",
+                  "Poi Franco guarda Kevin, dritto negli occhi.",
                   ""
                 ]
               ],
@@ -20079,7 +20079,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -20214,8 +20214,8 @@
           "segments": [
             {
               "id": "s01e02-3-036",
-              "it": "«Sì!» dice Ben, senza pensare. «**Grazie**!»",
-              "en": "\"Yes!\" says Ben, without thinking. \"**Thanks**!\"",
+              "it": "«Sì!» dice Kevin, senza pensare. «**Grazie**!»",
+              "en": "\"Yes!\" says Kevin, without thinking. \"**Thanks**!\"",
               "voice": [
                 [
                   "ben",
@@ -20224,7 +20224,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, senza pensare.",
+                  "dice Kevin, senza pensare.",
                   ""
                 ],
                 [
@@ -20260,7 +20260,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -20405,8 +20405,8 @@
           "segments": [
             {
               "id": "s01e02-3-039",
-              "it": "«Sì, **grazie**» dice Ben, e sorride.",
-              "en": "\"Yes, **thanks**,\" says Ben, and smiles.",
+              "it": "«Sì, **grazie**» dice Kevin, e sorride.",
+              "en": "\"Yes, **thanks**,\" says Kevin, and smiles.",
               "voice": [
                 [
                   "ben",
@@ -20415,7 +20415,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, e sorride.",
+                  "dice Kevin, e sorride.",
                   ""
                 ]
               ],
@@ -20456,7 +20456,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -20557,8 +20557,8 @@
           "segments": [
             {
               "id": "s01e02-3-041",
-              "it": "«Per il **caffè**?» dice Ben. «Tu dici **americano**. Come il **caffè**!»",
-              "en": "\"For the **coffee**?\" says Ben. \"You say **American**. Like the **coffee**!\"",
+              "it": "«Per il **caffè**?» dice Kevin. «Tu dici **americano**. Come il **caffè**!»",
+              "en": "\"For the **coffee**?\" says Kevin. \"You say **American**. Like the **coffee**!\"",
               "voice": [
                 [
                   "ben",
@@ -20567,7 +20567,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -20623,7 +20623,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -20964,8 +20964,8 @@
           "segments": [
             {
               "id": "s01e02-3-046",
-              "it": "«Sì! **Acqua** e **caffè**!» dice Ben. «Un **numero** grande!»",
-              "en": "\"Yes! **Water** and **coffee**!\" says Ben. \"A big **number**!\"",
+              "it": "«Sì! **Acqua** e **caffè**!» dice Kevin. «Un **numero** grande!»",
+              "en": "\"Yes! **Water** and **coffee**!\" says Kevin. \"A big **number**!\"",
               "voice": [
                 [
                   "ben",
@@ -20974,7 +20974,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -21040,7 +21040,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -21773,8 +21773,8 @@
             },
             {
               "id": "s01e02-3-054",
-              "it": "«**Pranzo** alle dodici e mezza» dice, senza guardare Ben.",
-              "en": "\"**Lunch** at twelve thirty,\" he says, without looking at Ben.",
+              "it": "«**Pranzo** alle dodici e mezza» dice, senza guardare Kevin.",
+              "en": "\"**Lunch** at twelve thirty,\" he says, without looking at Kevin.",
               "voice": [
                 [
                   "franco",
@@ -21783,7 +21783,7 @@
                 ],
                 [
                   "narrator",
-                  "dice, senza guardare Ben.",
+                  "dice, senza guardare Kevin.",
                   ""
                 ]
               ],
@@ -21874,7 +21874,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   8,
                   ""
                 ],
@@ -21894,8 +21894,8 @@
           "segments": [
             {
               "id": "s01e02-3-055",
-              "it": "«Porto il **quaderno**» dice Ben.",
-              "en": "\"I'm bringing the **notebook**,\" says Ben.",
+              "it": "«Porto il **quaderno**» dice Kevin.",
+              "en": "\"I'm bringing the **notebook**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -21904,7 +21904,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -21955,7 +21955,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -22171,12 +22171,12 @@
           "segments": [
             {
               "id": "s01e02-3-059",
-              "it": "Leo guarda Ben.",
-              "en": "Leo looks at Ben.",
+              "it": "Leo guarda Kevin.",
+              "en": "Leo looks at Kevin.",
               "voice": [
                 [
                   "narrator",
-                  "Leo guarda Ben.",
+                  "Leo guarda Kevin.",
                   ""
                 ]
               ],
@@ -22202,7 +22202,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -22346,8 +22346,8 @@
           "segments": [
             {
               "id": "s01e02-3-061",
-              "it": "«Lo so. **Numero** dieci» dice Ben.",
-              "en": "\"I know. **Number** ten,\" says Ben.",
+              "it": "«Lo so. **Numero** dieci» dice Kevin.",
+              "en": "\"I know. **Number** ten,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -22356,7 +22356,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -22417,7 +22417,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -22549,8 +22549,8 @@
           "segments": [
             {
               "id": "s01e02-3-063",
-              "it": "«Ma è utile» dice Ben.",
-              "en": "\"But it's useful,\" says Ben.",
+              "it": "«Ma è utile» dice Kevin.",
+              "en": "\"But it's useful,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -22559,7 +22559,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -22610,7 +22610,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -22744,7 +22744,7 @@
             {
               "id": "s01e02-3-065",
               "it": "«Con il **caffè**?» chiede.",
-              "en": "\"With the **coffee**?\" asks Ben.",
+              "en": "\"With the **coffee**?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -22931,8 +22931,8 @@
           "segments": [
             {
               "id": "s01e02-3-067",
-              "it": "«Allora è una bella **domenica**» dice Ben.",
-              "en": "\"Then it's a nice **Sunday**,\" says Ben.",
+              "it": "«Allora è una bella **domenica**» dice Kevin.",
+              "en": "\"Then it's a nice **Sunday**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -22941,7 +22941,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -23012,7 +23012,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -23028,12 +23028,12 @@
             },
             {
               "id": "s01e02-3-068",
-              "it": "Leo ride e prende la mano di Ben.",
-              "en": "Leo laughs and takes Ben's hand.",
+              "it": "Leo ride e prende la mano di Kevin.",
+              "en": "Leo laughs and takes Kevin's hand.",
               "voice": [
                 [
                   "narrator",
-                  "Leo ride e prende la mano di Ben.",
+                  "Leo ride e prende la mano di Kevin.",
                   ""
                 ]
               ],
@@ -23109,7 +23109,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -24257,8 +24257,8 @@
           "segments": [
             {
               "id": "s01e02-4-012",
-              "it": "«Come stai?» chiede Ben.",
-              "en": "\"How are you?\" asks Ben.",
+              "it": "«Come stai?» chiede Kevin.",
+              "en": "\"How are you?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -24267,7 +24267,7 @@
                 ],
                 [
                   "narrator",
-                  "chiede Ben.",
+                  "chiede Kevin.",
                   ""
                 ]
               ],
@@ -24308,7 +24308,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -24689,12 +24689,12 @@
             },
             {
               "id": "s01e02-4-017",
-              "it": "«Ben, tu sei qui» dice.",
-              "en": "\"Ben, you sit here,\" she says.",
+              "it": "«Kevin, tu sei qui» dice.",
+              "en": "\"Kevin, you sit here,\" she says.",
               "voice": [
                 [
                   "chiara",
-                  "Ben, tu sei qui",
+                  "Kevin, tu sei qui",
                   ""
                 ],
                 [
@@ -24710,7 +24710,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -24767,8 +24767,8 @@
           "segments": [
             {
               "id": "s01e02-4-018",
-              "it": "«**Grazie**» dice Ben.",
-              "en": "\"**Thanks**,\" says Ben.",
+              "it": "«**Grazie**» dice Kevin.",
+              "en": "\"**Thanks**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -24777,7 +24777,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -24808,7 +24808,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -25348,8 +25348,8 @@
           "segments": [
             {
               "id": "s01e02-4-025",
-              "it": "«Profumo buonissimo» dice Ben.",
-              "en": "\"Wonderful smell,\" says Ben.",
+              "it": "«Profumo buonissimo» dice Kevin.",
+              "en": "\"Wonderful smell,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -25358,7 +25358,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -25399,7 +25399,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -25532,8 +25532,8 @@
           "segments": [
             {
               "id": "s01e02-4-027",
-              "it": "«**Per favore**, sì, la **pasta**» dice Ben.",
-              "en": "\"**Please**, yes, the **pasta**,\" says Ben.",
+              "it": "«**Per favore**, sì, la **pasta**» dice Kevin.",
+              "en": "\"**Please**, yes, the **pasta**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -25542,7 +25542,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -25613,7 +25613,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -25758,18 +25758,18 @@
           "segments": [
             {
               "id": "s01e02-4-030",
-              "it": "Ben mangia la **pasta** con gusto.",
-              "en": "Ben eats the **pasta** with gusto.",
+              "it": "Kevin mangia la **pasta** con gusto.",
+              "en": "Kevin eats the **pasta** with gusto.",
               "voice": [
                 [
                   "narrator",
-                  "Ben mangia la **pasta** con gusto.",
+                  "Kevin mangia la **pasta** con gusto.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -26336,18 +26336,18 @@
           "segments": [
             {
               "id": "s01e02-4-036",
-              "it": "Ben finisce tutto il **piatto**.",
-              "en": "Ben finishes his whole **plate**.",
+              "it": "Kevin finisce tutto il **piatto**.",
+              "en": "Kevin finishes his whole **plate**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben finisce tutto il **piatto**.",
+                  "Kevin finisce tutto il **piatto**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -26403,12 +26403,12 @@
             },
             {
               "id": "s01e02-4-037",
-              "it": "Franco guarda il **piatto** di Ben, vuoto.",
-              "en": "Franco looks at Ben's **plate**, empty.",
+              "it": "Franco guarda il **piatto** di Kevin, vuoto.",
+              "en": "Franco looks at Kevin's **plate**, empty.",
               "voice": [
                 [
                   "narrator",
-                  "Franco guarda il **piatto** di Ben, vuoto.",
+                  "Franco guarda il **piatto** di Kevin, vuoto.",
                   ""
                 ]
               ],
@@ -26464,7 +26464,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -26563,8 +26563,8 @@
           "segments": [
             {
               "id": "s01e02-4-039",
-              "it": "«Buonissimo!» dice Ben. «La **pasta** è perfetta.»",
-              "en": "\"Very tasty!\" says Ben. \"The **pasta** is perfect.\"",
+              "it": "«Buonissimo!» dice Kevin. «La **pasta** è perfetta.»",
+              "en": "\"Very tasty!\" says Kevin. \"The **pasta** is perfect.\"",
               "voice": [
                 [
                   "ben",
@@ -26573,7 +26573,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -26609,7 +26609,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -26770,18 +26770,18 @@
           "segments": [
             {
               "id": "s01e02-4-041",
-              "it": "Ben si ferma con la forchetta in aria.",
-              "en": "Ben stops with his fork in the air.",
+              "it": "Kevin si ferma con la forchetta in aria.",
+              "en": "Kevin stops with his fork in the air.",
               "voice": [
                 [
                   "narrator",
-                  "Ben si ferma con la forchetta in aria.",
+                  "Kevin si ferma con la forchetta in aria.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -27338,8 +27338,8 @@
           "segments": [
             {
               "id": "s01e02-4-048",
-              "it": "«La **pasta** è la **pasta**» dice Ben.",
-              "en": "\"The **pasta** is the **pasta**,\" says Ben.",
+              "it": "«La **pasta** è la **pasta**» dice Kevin.",
+              "en": "\"The **pasta** is the **pasta**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -27348,7 +27348,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -27419,7 +27419,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -27550,8 +27550,8 @@
           "segments": [
             {
               "id": "s01e02-4-050",
-              "it": "«Ma in America…» comincia Ben.",
-              "en": "\"But in America…\" Ben begins.",
+              "it": "«Ma in America…» comincia Kevin.",
+              "en": "\"But in America…\" Kevin begins.",
               "voice": [
                 [
                   "ben",
@@ -27560,7 +27560,7 @@
                 ],
                 [
                   "narrator",
-                  "comincia Ben.",
+                  "comincia Kevin.",
                   ""
                 ]
               ],
@@ -27611,7 +27611,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -27736,8 +27736,8 @@
           "segments": [
             {
               "id": "s01e02-4-052",
-              "it": "«Una cosa sola, grande» dice Ben.",
-              "en": "\"One thing only, big,\" says Ben.",
+              "it": "«Una cosa sola, grande» dice Kevin.",
+              "en": "\"One thing only, big,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -27746,7 +27746,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -27807,7 +27807,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -28109,8 +28109,8 @@
           "segments": [
             {
               "id": "s01e02-4-055",
-              "it": "«Quattro **piatti**» dice Ben. «**Numero** uno, due, tre, quattro.»",
-              "en": "\"Four **dishes**,\" says Ben. \"**Number** one, two, three, four.\"",
+              "it": "«Quattro **piatti**» dice Kevin. «**Numero** uno, due, tre, quattro.»",
+              "en": "\"Four **dishes**,\" says Kevin. \"**Number** one, two, three, four.\"",
               "voice": [
                 [
                   "ben",
@@ -28119,7 +28119,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -28165,7 +28165,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -28408,12 +28408,12 @@
           "segments": [
             {
               "id": "s01e02-4-058",
-              "it": "Franco mette la **carne** nel **piatto** di Ben.",
-              "en": "Franco puts the **meat** on Ben's **plate**.",
+              "it": "Franco mette la **carne** nel **piatto** di Kevin.",
+              "en": "Franco puts the **meat** on Kevin's **plate**.",
               "voice": [
                 [
                   "narrator",
-                  "Franco mette la **carne** nel **piatto** di Ben.",
+                  "Franco mette la **carne** nel **piatto** di Kevin.",
                   ""
                 ]
               ],
@@ -28489,7 +28489,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -28506,8 +28506,8 @@
             },
             {
               "id": "s01e02-4-059",
-              "it": "«**Per favore**» dice Ben. «**Grazie**. Ancora **grazie**.»",
-              "en": "\"**Please**,\" says Ben. \"**Thanks**. Thanks again.\"",
+              "it": "«**Per favore**» dice Kevin. «**Grazie**. Ancora **grazie**.»",
+              "en": "\"**Please**,\" says Kevin. \"**Thanks**. Thanks again.\"",
               "voice": [
                 [
                   "ben",
@@ -28516,7 +28516,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -28562,7 +28562,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -28699,8 +28699,8 @@
           "segments": [
             {
               "id": "s01e02-4-061",
-              "it": "«**Vorrei** anche il **pane**» dice Ben.",
-              "en": "\"**I would like** some **bread** too,\" says Ben.",
+              "it": "«**Vorrei** anche il **pane**» dice Kevin.",
+              "en": "\"**I would like** some **bread** too,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -28709,7 +28709,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -28770,7 +28770,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -28923,18 +28923,18 @@
             },
             {
               "id": "s01e02-4-063",
-              "it": "Ben prende **pane** e lo mette nel **piatto**.",
-              "en": "Ben takes **bread** and puts it on his **plate**.",
+              "it": "Kevin prende **pane** e lo mette nel **piatto**.",
+              "en": "Kevin takes **bread** and puts it on his **plate**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben prende **pane** e lo mette nel **piatto**.",
+                  "Kevin prende **pane** e lo mette nel **piatto**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -29463,12 +29463,12 @@
             },
             {
               "id": "s01e02-4-069",
-              "it": "A Ben dà un **bicchiere** di **vino** rosso.",
-              "en": "She gives Ben a **glass** of red **wine**.",
+              "it": "A Kevin dà un **bicchiere** di **vino** rosso.",
+              "en": "She gives Kevin a **glass** of red **wine**.",
               "voice": [
                 [
                   "narrator",
-                  "A Ben dà un **bicchiere** di **vino** rosso.",
+                  "A Kevin dà un **bicchiere** di **vino** rosso.",
                   ""
                 ]
               ],
@@ -29484,7 +29484,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   1,
                   ""
                 ],
@@ -29561,8 +29561,8 @@
             },
             {
               "id": "s01e02-4-070",
-              "it": "«**Grazie**» dice Ben.",
-              "en": "\"**Thanks**,\" says Ben.",
+              "it": "«**Grazie**» dice Kevin.",
+              "en": "\"**Thanks**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -29571,7 +29571,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -29602,7 +29602,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -31459,8 +31459,8 @@
           "segments": [
             {
               "id": "s01e02-4-091",
-              "it": "«Anche io **vorrei** la **frutta**» dice Ben. «**Per favore**.»",
-              "en": "\"I'd also like the **frutta**,\" says Ben. \"**Please**.\"",
+              "it": "«Anche io **vorrei** la **frutta**» dice Kevin. «**Per favore**.»",
+              "en": "\"I'd also like the **frutta**,\" says Kevin. \"**Please**.\"",
               "voice": [
                 [
                   "ben",
@@ -31469,7 +31469,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -31545,7 +31545,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -31680,8 +31680,8 @@
           "segments": [
             {
               "id": "s01e02-4-093",
-              "it": "«Ma io chiedo sempre» dice Ben. «Le **parole** sono gentili.»",
-              "en": "\"But I always ask,\" says Ben. \"**Words** are kind.\"",
+              "it": "«Ma io chiedo sempre» dice Kevin. «Le **parole** sono gentili.»",
+              "en": "\"But I always ask,\" says Kevin. \"**Words** are kind.\"",
               "voice": [
                 [
                   "ben",
@@ -31690,7 +31690,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -31756,7 +31756,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -31907,18 +31907,18 @@
           "segments": [
             {
               "id": "s01e02-4-095",
-              "it": "Ben scrive sotto il **tavolo**, piano, nel **quaderno**.",
-              "en": "Ben writes under the **table**, quietly, in his **notebook**.",
+              "it": "Kevin scrive sotto il **tavolo**, piano, nel **quaderno**.",
+              "en": "Kevin writes under the **table**, quietly, in his **notebook**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben scrive sotto il **tavolo**, piano, nel **quaderno**.",
+                  "Kevin scrive sotto il **tavolo**, piano, nel **quaderno**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -32680,18 +32680,18 @@
           "segments": [
             {
               "id": "s01e02-4-103",
-              "it": "Ben mangia la **pasta**, la **carne**, la **frutta** e il **dolce**.",
-              "en": "Ben eats the **pasta**, the **meat**, the **fruit** and the **dessert**.",
+              "it": "Kevin mangia la **pasta**, la **carne**, la **frutta** e il **dolce**.",
+              "en": "Kevin eats the **pasta**, the **meat**, the **fruit** and the **dessert**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben mangia la **pasta**, la **carne**, la **frutta** e il **dolce**.",
+                  "Kevin mangia la **pasta**, la **carne**, la **frutta** e il **dolce**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -32973,8 +32973,8 @@
             },
             {
               "id": "s01e02-4-106",
-              "it": "«Che **pranzo**!» dice Ben.",
-              "en": "\"What a **lunch**!\" says Ben.",
+              "it": "«Che **pranzo**!» dice Kevin.",
+              "en": "\"What a **lunch**!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -32983,7 +32983,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -33024,7 +33024,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -33131,7 +33131,7 @@
             {
               "id": "s01e02-4-108",
               "it": "«Ogni **domenica**?» chiede.",
-              "en": "\"Every **Sunday**?\" asks Ben.",
+              "en": "\"Every **Sunday**?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -33252,12 +33252,12 @@
           "segments": [
             {
               "id": "s01e02-4-110",
-              "it": "Franco guarda Ben per un momento lungo.",
-              "en": "Franco looks at Ben for a long moment.",
+              "it": "Franco guarda Kevin per un momento lungo.",
+              "en": "Franco looks at Kevin for a long moment.",
               "voice": [
                 [
                   "narrator",
-                  "Franco guarda Ben per un momento lungo.",
+                  "Franco guarda Kevin per un momento lungo.",
                   ""
                 ]
               ],
@@ -33283,7 +33283,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -33770,8 +33770,8 @@
           "segments": [
             {
               "id": "s01e02-4-116",
-              "it": "«Per me è un complimento» dice Ben. «**Grazie**!»",
-              "en": "\"For me it's a compliment,\" says Ben. \"**Thanks**!\"",
+              "it": "«Per me è un complimento» dice Kevin. «**Grazie**!»",
+              "en": "\"For me it's a compliment,\" says Kevin. \"**Thanks**!\"",
               "voice": [
                 [
                   "ben",
@@ -33780,7 +33780,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -33856,7 +33856,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -33979,18 +33979,18 @@
             },
             {
               "id": "s01e02-4-118",
-              "it": "Ben scrive nel **quaderno** una **parola** nuova.",
-              "en": "Ben writes a new **word** in his **notebook**.",
+              "it": "Kevin scrive nel **quaderno** una **parola** nuova.",
+              "en": "Kevin writes a new **word** in his **notebook**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben scrive nel **quaderno** una **parola** nuova.",
+                  "Kevin scrive nel **quaderno** una **parola** nuova.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -34944,8 +34944,8 @@
           "segments": [
             {
               "id": "s01e02-5-010",
-              "it": "«Sì, **grazie**» dice Ben.",
-              "en": "\"Yes, **grazie**,\" says Ben.",
+              "it": "«Sì, **grazie**» dice Kevin.",
+              "en": "\"Yes, **grazie**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -34954,7 +34954,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -34995,7 +34995,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -35819,18 +35819,18 @@
           "segments": [
             {
               "id": "s01e02-5-021",
-              "it": "Ben prende la sua **tazza** con due mani.",
-              "en": "Ben takes his **cup** with both hands.",
+              "it": "Kevin prende la sua **tazza** con due mani.",
+              "en": "Kevin takes his **cup** with both hands.",
               "voice": [
                 [
                   "narrator",
-                  "Ben prende la sua **tazza** con due mani.",
+                  "Kevin prende la sua **tazza** con due mani.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -35970,8 +35970,8 @@
             },
             {
               "id": "s01e02-5-023",
-              "it": "«In America la **tazza** è grande» dice Ben.",
-              "en": "\"In America the **cup** is big,\" says Ben.",
+              "it": "«In America la **tazza** è grande» dice Kevin.",
+              "en": "\"In America the **cup** is big,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -35980,7 +35980,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -36061,7 +36061,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -36304,7 +36304,7 @@
             {
               "id": "s01e02-5-026",
               "it": "«E il **caffè** americano?» chiede.",
-              "en": "\"And American **caffè**?\" asks Ben.",
+              "en": "\"And American **caffè**?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -36455,8 +36455,8 @@
           "segments": [
             {
               "id": "s01e02-5-028",
-              "it": "«Con **latte**!» dice Ben.",
-              "en": "\"With **latte**!\" says Ben.",
+              "it": "«Con **latte**!» dice Kevin.",
+              "en": "\"With **latte**!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -36465,7 +36465,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -36506,7 +36506,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -37032,12 +37032,12 @@
             },
             {
               "id": "s01e02-5-036",
-              "it": "Guarda il **piatto** vuoto di Ben e il **piatto** vuoto di Leo.",
-              "en": "He looks at Ben's empty **plate** and Leo's empty **plate**.",
+              "it": "Guarda il **piatto** vuoto di Kevin e il **piatto** vuoto di Leo.",
+              "en": "He looks at Kevin's empty **plate** and Leo's empty **plate**.",
               "voice": [
                 [
                   "narrator",
-                  "Guarda il **piatto** vuoto di Ben e il **piatto** vuoto di Leo.",
+                  "Guarda il **piatto** vuoto di Kevin e il **piatto** vuoto di Leo.",
                   ""
                 ]
               ],
@@ -37093,7 +37093,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -38170,18 +38170,18 @@
           "segments": [
             {
               "id": "s01e02-5-048",
-              "it": "Ben apre il **quaderno** sul **tavolo**.",
-              "en": "Ben opens the **notebook** on the **table**.",
+              "it": "Kevin apre il **quaderno** sul **tavolo**.",
+              "en": "Kevin opens the **notebook** on the **table**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben apre il **quaderno** sul **tavolo**.",
+                  "Kevin apre il **quaderno** sul **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -38248,8 +38248,8 @@
             },
             {
               "id": "s01e02-5-049",
-              "it": "«Ascoltate» dice Ben. «Le **parole** del **pranzo**.»",
-              "en": "\"Listen,\" says Ben. \"The **words** of the **lunch**.\"",
+              "it": "«Ascoltate» dice Kevin. «Le **parole** del **pranzo**.»",
+              "en": "\"Listen,\" says Kevin. \"The **words** of the **lunch**.\"",
               "voice": [
                 [
                   "ben",
@@ -38258,7 +38258,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -38294,7 +38294,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -38351,8 +38351,8 @@
             },
             {
               "id": "s01e02-5-050",
-              "it": "«**Caffè**» dice Ben.",
-              "en": "\"**Caffè**,\" says Ben.",
+              "it": "«**Caffè**» dice Kevin.",
+              "en": "\"**Caffè**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -38361,7 +38361,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -38392,7 +38392,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -38824,8 +38824,8 @@
             },
             {
               "id": "s01e02-5-058",
-              "it": "«Nove **parole**» dice Ben. «E una **parola** speciale.»",
-              "en": "\"Nine **words**,\" says Ben. \"And one special **word**.\"",
+              "it": "«Nove **parole**» dice Kevin. «E una **parola** speciale.»",
+              "en": "\"Nine **words**,\" says Kevin. \"And one special **word**.\"",
               "voice": [
                 [
                   "ben",
@@ -38834,7 +38834,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -38880,7 +38880,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -38998,8 +38998,8 @@
           "segments": [
             {
               "id": "s01e02-5-060",
-              "it": "«L'**americano**» dice Ben, piano.",
-              "en": "\"The **americano**,\" says Ben, quietly.",
+              "it": "«L'**americano**» dice Kevin, piano.",
+              "en": "\"The **americano**,\" says Kevin, quietly.",
               "voice": [
                 [
                   "ben",
@@ -39008,7 +39008,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, piano.",
+                  "dice Kevin, piano.",
                   ""
                 ]
               ],
@@ -39049,7 +39049,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -39411,8 +39411,8 @@
           "segments": [
             {
               "id": "s01e02-5-065",
-              "it": "«È una **parola** come le altre» dice Ben.",
-              "en": "\"It's a **word** like the others,\" says Ben.",
+              "it": "«È una **parola** come le altre» dice Kevin.",
+              "en": "\"It's a **word** like the others,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -39421,7 +39421,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -39502,7 +39502,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -39606,7 +39606,7 @@
             {
               "id": "s01e02-5-067",
               "it": "«Meglio?» chiede.",
-              "en": "\"Better?\" asks Ben.",
+              "en": "\"Better?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -39746,18 +39746,18 @@
           "segments": [
             {
               "id": "s01e02-5-069",
-              "it": "Ben scrive nel **quaderno** con la matita.",
-              "en": "Ben writes in the **notebook** with his pencil.",
+              "it": "Kevin scrive nel **quaderno** con la matita.",
+              "en": "Kevin writes in the **notebook** with his pencil.",
               "voice": [
                 [
                   "narrator",
-                  "Ben scrive nel **quaderno** con la matita.",
+                  "Kevin scrive nel **quaderno** con la matita.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -39921,8 +39921,8 @@
             },
             {
               "id": "s01e02-5-071",
-              "it": "«**Grazie**» dice Ben.",
-              "en": "\"**Grazie**,\" says Ben.",
+              "it": "«**Grazie**» dice Kevin.",
+              "en": "\"**Grazie**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -39931,7 +39931,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -39962,7 +39962,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -40319,8 +40319,8 @@
           "segments": [
             {
               "id": "s01e02-5-075",
-              "it": "«Allora torno» dice Ben.",
-              "en": "\"Then I'll come back,\" says Ben.",
+              "it": "«Allora torno» dice Kevin.",
+              "en": "\"Then I'll come back,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -40329,7 +40329,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -40370,7 +40370,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -40830,12 +40830,12 @@
             },
             {
               "id": "s01e02-6-005",
-              "it": "Sul **tavolo** c'è il **quaderno** giallo di Ben.",
-              "en": "On the **table** there's Ben's yellow **notebook**.",
+              "it": "Sul **tavolo** c'è il **quaderno** giallo di Kevin.",
+              "en": "On the **table** there's Kevin's yellow **notebook**.",
               "voice": [
                 [
                   "narrator",
-                  "Sul **tavolo** c'è il **quaderno** giallo di Ben.",
+                  "Sul **tavolo** c'è il **quaderno** giallo di Kevin.",
                   ""
                 ]
               ],
@@ -40911,7 +40911,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -40932,18 +40932,18 @@
           "segments": [
             {
               "id": "s01e02-6-006",
-              "it": "Ben apre il **quaderno** e conta le **parole**, una per una.",
-              "en": "Ben opens the **notebook** and counts the **words**, one by one.",
+              "it": "Kevin apre il **quaderno** e conta le **parole**, una per una.",
+              "en": "Kevin opens the **notebook** and counts the **words**, one by one.",
               "voice": [
                 [
                   "narrator",
-                  "Ben apre il **quaderno** e conta le **parole**, una per una.",
+                  "Kevin apre il **quaderno** e conta le **parole**, una per una.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -41060,8 +41060,8 @@
             },
             {
               "id": "s01e02-6-007",
-              "it": "«Diciannove» dice Ben. «**Numero** diciannove.»",
-              "en": "\"Nineteen,\" says Ben. \"**Number** nineteen.\"",
+              "it": "«Diciannove» dice Kevin. «**Numero** diciannove.»",
+              "en": "\"Nineteen,\" says Kevin. \"**Number** nineteen.\"",
               "voice": [
                 [
                   "ben",
@@ -41070,7 +41070,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -41106,7 +41106,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -41764,8 +41764,8 @@
           "segments": [
             {
               "id": "s01e02-6-015",
-              "it": "«Leggo le **parole**» dice Ben.",
-              "en": "\"I'm reading the **parole**,\" says Ben.",
+              "it": "«Leggo le **parole**» dice Kevin.",
+              "en": "\"I'm reading the **parole**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -41774,7 +41774,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -41825,7 +41825,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -42111,8 +42111,8 @@
           "segments": [
             {
               "id": "s01e02-6-019",
-              "it": "«Lo so» dice Ben. «Matteo lo dice.»",
-              "en": "\"I know,\" says Ben. \"Matteo says so.\"",
+              "it": "«Lo so» dice Kevin. «Matteo lo dice.»",
+              "en": "\"I know,\" says Kevin. \"Matteo says so.\"",
               "voice": [
                 [
                   "ben",
@@ -42121,7 +42121,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -42167,7 +42167,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -42306,7 +42306,7 @@
             {
               "id": "s01e02-6-021",
               "it": "«Diverso?» chiede.",
-              "en": "\"Different?\" asks Ben.",
+              "en": "\"Different?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -42476,8 +42476,8 @@
           "segments": [
             {
               "id": "s01e02-6-023",
-              "it": "«E il **latte** è solo **latte**» dice Ben.",
-              "en": "\"And the **latte** is just **latte**,\" says Ben.",
+              "it": "«E il **latte** è solo **latte**» dice Kevin.",
+              "en": "\"And the **latte** is just **latte**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -42486,7 +42486,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -42567,7 +42567,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   7,
                   ""
                 ],
@@ -42714,8 +42714,8 @@
           "segments": [
             {
               "id": "s01e02-6-025",
-              "it": "«Lo so adesso» dice Ben.",
-              "en": "\"I know now,\" says Ben.",
+              "it": "«Lo so adesso» dice Kevin.",
+              "en": "\"I know now,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -42724,7 +42724,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -42775,7 +42775,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -42925,7 +42925,7 @@
             {
               "id": "s01e02-6-027",
               "it": "«Perché?» chiede.",
-              "en": "\"Why?\" asks Ben.",
+              "en": "\"Why?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -43070,8 +43070,8 @@
           "segments": [
             {
               "id": "s01e02-6-029",
-              "it": "«Io sono un turista» dice Ben. «Tecnicamente.»",
-              "en": "\"I am a tourist,\" says Ben. \"Technically.\"",
+              "it": "«Io sono un turista» dice Kevin. «Tecnicamente.»",
+              "en": "\"I am a tourist,\" says Kevin. \"Technically.\"",
               "voice": [
                 [
                   "ben",
@@ -43080,7 +43080,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -43146,7 +43146,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -43305,18 +43305,18 @@
           "segments": [
             {
               "id": "s01e02-6-032",
-              "it": "Ben mostra il **quaderno**.",
-              "en": "Ben shows the **notebook**.",
+              "it": "Kevin mostra il **quaderno**.",
+              "en": "Kevin shows the **notebook**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben mostra il **quaderno**.",
+                  "Kevin mostra il **quaderno**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -43551,7 +43551,7 @@
             {
               "id": "s01e02-6-035",
               "it": "«E lo **scontrino** è la carta» dice.",
-              "en": "\"And the **scontrino** is the paper,\" says Ben.",
+              "en": "\"And the **scontrino** is the paper,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -43829,7 +43829,7 @@
             {
               "id": "s01e02-6-037",
               "it": "«E in America?» chiede.",
-              "en": "\"And in America?\" asks Ben.",
+              "en": "\"And in America?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -43995,7 +43995,7 @@
             {
               "id": "s01e02-6-039",
               "it": "«Il receipt è lo **scontrino**» dice.",
-              "en": "\"The receipt is the **scontrino**,\" says Ben.",
+              "en": "\"The receipt is the **scontrino**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -44181,18 +44181,18 @@
           "segments": [
             {
               "id": "s01e02-6-041",
-              "it": "Ben chiude il **quaderno** e guarda il **tavolo**.",
-              "en": "Ben closes the **notebook** and looks at the **table**.",
+              "it": "Kevin chiude il **quaderno** e guarda il **tavolo**.",
+              "en": "Kevin closes the **notebook** and looks at the **table**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben chiude il **quaderno** e guarda il **tavolo**.",
+                  "Kevin chiude il **quaderno** e guarda il **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -44368,7 +44368,7 @@
             {
               "id": "s01e02-6-043",
               "it": "«Questo **pane** è buono» dice. «Nonno fa il **pane**?»",
-              "en": "\"This **pane** is good,\" says Ben. \"Does grandpa make the **pane**?\"",
+              "en": "\"This **pane** is good,\" says Kevin. \"Does grandpa make the **pane**?\"",
               "voice": [
                 [
                   "ben",
@@ -44606,8 +44606,8 @@
           "segments": [
             {
               "id": "s01e02-6-045",
-              "it": "«Ah» dice Ben. «Il **pane** buono non si fa a casa.»",
-              "en": "\"Ah,\" says Ben. \"Good **pane** isn't made at home.\"",
+              "it": "«Ah» dice Kevin. «Il **pane** buono non si fa a casa.»",
+              "en": "\"Ah,\" says Kevin. \"Good **pane** isn't made at home.\"",
               "voice": [
                 [
                   "ben",
@@ -44616,7 +44616,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -44652,7 +44652,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -44830,18 +44830,18 @@
           "segments": [
             {
               "id": "s01e02-6-047",
-              "it": "Ben guarda il bicchiere di **vino** di Chiara.",
-              "en": "Ben looks at Chiara's glass of **vino**.",
+              "it": "Kevin guarda il bicchiere di **vino** di Chiara.",
+              "en": "Kevin looks at Chiara's glass of **vino**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben guarda il bicchiere di **vino** di Chiara.",
+                  "Kevin guarda il bicchiere di **vino** di Chiara.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -45100,8 +45100,8 @@
           "segments": [
             {
               "id": "s01e02-6-050",
-              "it": "«**Per favore**» dice Ben. «**Grazie**.»",
-              "en": "\"**Please**,\" says Ben. \"**Grazie**.\"",
+              "it": "«**Per favore**» dice Kevin. «**Grazie**.»",
+              "en": "\"**Please**,\" says Kevin. \"**Grazie**.\"",
               "voice": [
                 [
                   "ben",
@@ -45110,7 +45110,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -45156,7 +45156,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -45775,7 +45775,7 @@
             {
               "id": "s01e02-6-058",
               "it": "«Ancora. Un **caffè** al bancone» dice.",
-              "en": "\"Again. A **caffè** at the counter,\" says Ben.",
+              "en": "\"Again. A **caffè** at the counter,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -45966,8 +45966,8 @@
           "segments": [
             {
               "id": "s01e02-6-060",
-              "it": "«Lo so. **Numero** tre» dice Ben.",
-              "en": "\"I know. **Numero** three,\" says Ben.",
+              "it": "«Lo so. **Numero** tre» dice Kevin.",
+              "en": "\"I know. **Numero** three,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -45976,7 +45976,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -46037,7 +46037,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -46178,8 +46178,8 @@
           "segments": [
             {
               "id": "s01e02-6-062",
-              "it": "«Come l'**americano**» dice Ben.",
-              "en": "\"Like the **americano**,\" says Ben.",
+              "it": "«Come l'**americano**» dice Kevin.",
+              "en": "\"Like the **americano**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -46188,7 +46188,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -46239,7 +46239,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -46880,18 +46880,18 @@
             },
             {
               "id": "s01e02-7-004",
-              "it": "Ben entra e non va al **tavolo**.",
-              "en": "Ben comes in and doesn't go to the **tavolo**.",
+              "it": "Kevin entra e non va al **tavolo**.",
+              "en": "Kevin comes in and doesn't go to the **tavolo**.",
               "voice": [
                 [
                   "narrator",
-                  "Ben entra e non va al **tavolo**.",
+                  "Kevin entra e non va al **tavolo**.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -47142,8 +47142,8 @@
           "segments": [
             {
               "id": "s01e02-7-007",
-              "it": "«Buongiorno, Matteo» dice Ben.",
-              "en": "\"Good morning, Matteo,\" says Ben.",
+              "it": "«Buongiorno, Matteo» dice Kevin.",
+              "en": "\"Good morning, Matteo,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -47152,7 +47152,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -47193,7 +47193,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -47278,8 +47278,8 @@
           "segments": [
             {
               "id": "s01e02-7-009",
-              "it": "«**Vorrei** un **caffè**, **per favore**» dice Ben.",
-              "en": "\"**Vorrei** a **caffè**, **per favore**,\" says Ben.",
+              "it": "«**Vorrei** un **caffè**, **per favore**» dice Kevin.",
+              "en": "\"**Vorrei** a **caffè**, **per favore**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -47288,7 +47288,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -47359,7 +47359,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   6,
                   ""
                 ],
@@ -47440,7 +47440,7 @@
             {
               "id": "s01e02-7-011",
               "it": "«E un **cornetto**» aggiunge.",
-              "en": "\"And a **cornetto**,\" Ben adds.",
+              "en": "\"And a **cornetto**,\" Kevin adds.",
               "voice": [
                 [
                   "ben",
@@ -47602,8 +47602,8 @@
           "segments": [
             {
               "id": "s01e02-7-013",
-              "it": "«**Cornetto**. Siamo al nord» dice Ben.",
-              "en": "\"**Cornetto**. We're in the north,\" says Ben.",
+              "it": "«**Cornetto**. Siamo al nord» dice Kevin.",
+              "en": "\"**Cornetto**. We're in the north,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -47612,7 +47612,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -47673,7 +47673,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -47835,18 +47835,18 @@
             },
             {
               "id": "s01e02-7-016",
-              "it": "Ben lo beve in due sorsi, in piedi.",
-              "en": "Ben drinks it in two sips, standing.",
+              "it": "Kevin lo beve in due sorsi, in piedi.",
+              "en": "Kevin drinks it in two sips, standing.",
               "voice": [
                 [
                   "narrator",
-                  "Ben lo beve in due sorsi, in piedi.",
+                  "Kevin lo beve in due sorsi, in piedi.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -48099,8 +48099,8 @@
           "segments": [
             {
               "id": "s01e02-7-019",
-              "it": "«In piedi è meglio» dice Ben.",
-              "en": "\"Standing is better,\" says Ben.",
+              "it": "«In piedi è meglio» dice Kevin.",
+              "en": "\"Standing is better,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -48109,7 +48109,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -48170,7 +48170,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -48236,7 +48236,7 @@
             {
               "id": "s01e02-7-021",
               "it": "«Il **tavolo** è per il **pranzo**» dice.",
-              "en": "\"The **tavolo** is for **pranzo**,\" says Ben.",
+              "en": "\"The **tavolo** is for **pranzo**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -48334,7 +48334,7 @@
             {
               "id": "s01e02-7-022",
               "it": "«Il bancone è per il **caffè**» aggiunge.",
-              "en": "\"The counter is for the **caffè**,\" Ben adds.",
+              "en": "\"The counter is for the **caffè**,\" Kevin adds.",
               "voice": [
                 [
                   "ben",
@@ -48492,18 +48492,18 @@
           "segments": [
             {
               "id": "s01e02-7-024",
-              "it": "Ben finisce e cerca i soldi.",
-              "en": "Ben finishes and looks for the money.",
+              "it": "Kevin finisce e cerca i soldi.",
+              "en": "Kevin finishes and looks for the money.",
               "voice": [
                 [
                   "narrator",
-                  "Ben finisce e cerca i soldi.",
+                  "Kevin finisce e cerca i soldi.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -48567,7 +48567,7 @@
             {
               "id": "s01e02-7-025",
               "it": "«Il **conto**, **per favore**» dice.",
-              "en": "\"The **conto**, **per favore**,\" says Ben.",
+              "en": "\"The **conto**, **per favore**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -48722,18 +48722,18 @@
             },
             {
               "id": "s01e02-7-027",
-              "it": "Ben paga e aspetta.",
-              "en": "Ben pays and waits.",
+              "it": "Kevin paga e aspetta.",
+              "en": "Kevin pays and waits.",
               "voice": [
                 [
                   "narrator",
-                  "Ben paga e aspetta.",
+                  "Kevin paga e aspetta.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -48847,8 +48847,8 @@
           "segments": [
             {
               "id": "s01e02-7-029",
-              "it": "«**Grazie**!» dice Ben.",
-              "en": "\"**Grazie**!\" says Ben.",
+              "it": "«**Grazie**!» dice Kevin.",
+              "en": "\"**Grazie**!\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -48857,7 +48857,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -48888,7 +48888,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -49066,8 +49066,8 @@
           "segments": [
             {
               "id": "s01e02-7-032",
-              "it": "«Sì. Carta italiana» dice Ben.",
-              "en": "\"Yes. Italian paper,\" says Ben.",
+              "it": "«Sì. Carta italiana» dice Kevin.",
+              "en": "\"Yes. Italian paper,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -49076,7 +49076,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ]
               ],
@@ -49127,7 +49127,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   4,
                   ""
                 ],
@@ -49223,7 +49223,7 @@
             {
               "id": "s01e02-7-034",
               "it": "«Ufficiale?» chiede.",
-              "en": "\"Official?\" asks Ben.",
+              "en": "\"Official?\" asks Kevin.",
               "voice": [
                 [
                   "ben",
@@ -49318,18 +49318,18 @@
           "segments": [
             {
               "id": "s01e02-7-036",
-              "it": "Ben apre il **quaderno** sul bancone.",
-              "en": "Ben opens the **quaderno** on the counter.",
+              "it": "Kevin apre il **quaderno** sul bancone.",
+              "en": "Kevin opens the **quaderno** on the counter.",
               "voice": [
                 [
                   "narrator",
-                  "Ben apre il **quaderno** sul bancone.",
+                  "Kevin apre il **quaderno** sul bancone.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Ben",
+                  "Kevin",
                   0,
                   ""
                 ],
@@ -49396,7 +49396,7 @@
             {
               "id": "s01e02-7-037",
               "it": "«Una **parola** nuova» dice.",
-              "en": "\"A new **parola**,\" says Ben.",
+              "en": "\"A new **parola**,\" says Kevin.",
               "voice": [
                 [
                   "ben",
@@ -49514,8 +49514,8 @@
           "segments": [
             {
               "id": "s01e02-7-039",
-              "it": "«Bancone» dice Ben, e scrive.",
-              "en": "\"Counter,\" says Ben, and writes.",
+              "it": "«Bancone» dice Kevin, e scrive.",
+              "en": "\"Counter,\" says Kevin, and writes.",
               "voice": [
                 [
                   "ben",
@@ -49524,7 +49524,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, e scrive.",
+                  "dice Kevin, e scrive.",
                   ""
                 ]
               ],
@@ -49555,7 +49555,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   2,
                   ""
                 ],
@@ -49791,8 +49791,8 @@
             },
             {
               "id": "s01e02-7-043",
-              "it": "«Ahi! Il **cappuccino** no» dice Ben. «Il **cappuccino** è la mattina.»",
-              "en": "\"Ow! Not the **cappuccino**,\" says Ben. \"The **cappuccino** is for the morning.\"",
+              "it": "«Ahi! Il **cappuccino** no» dice Kevin. «Il **cappuccino** è la mattina.»",
+              "en": "\"Ow! Not the **cappuccino**,\" says Kevin. \"The **cappuccino** is for the morning.\"",
               "voice": [
                 [
                   "ben",
@@ -49801,7 +49801,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -49867,7 +49867,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -50025,8 +50025,8 @@
           "segments": [
             {
               "id": "s01e02-7-045",
-              "it": "«Allora **caffè**» dice Ben. «Un **caffè**, **per favore**, domani.»",
-              "en": "\"Then **caffè**,\" says Ben. \"A **caffè**, **please**, tomorrow.\"",
+              "it": "«Allora **caffè**» dice Kevin. «Un **caffè**, **per favore**, domani.»",
+              "en": "\"Then **caffè**,\" says Kevin. \"A **caffè**, **please**, tomorrow.\"",
               "voice": [
                 [
                   "ben",
@@ -50035,7 +50035,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben.",
+                  "dice Kevin.",
                   ""
                 ],
                 [
@@ -50081,7 +50081,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],
@@ -50210,8 +50210,8 @@
           "segments": [
             {
               "id": "s01e02-7-047",
-              "it": "«**Grazie**, Matteo» dice Ben, e sorride.",
-              "en": "\"**Grazie**, Matteo,\" says Ben, and smiles.",
+              "it": "«**Grazie**, Matteo» dice Kevin, e sorride.",
+              "en": "\"**Grazie**, Matteo,\" says Kevin, and smiles.",
               "voice": [
                 [
                   "ben",
@@ -50220,7 +50220,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Ben, e sorride.",
+                  "dice Kevin, e sorride.",
                   ""
                 ]
               ],
@@ -50261,7 +50261,7 @@
                   ""
                 ],
                 [
-                  "Ben",
+                  "Kevin",
                   3,
                   ""
                 ],

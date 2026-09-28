@@ -10,7 +10,7 @@
       "grammar": { "id": "g-reported-present", "name": "Reported speech: present reporting verb", "scope": "dice che / ha appena detto che with no tense shift; changes of person, possessives, time and place words (qui → lì, oggi → quel giorno as a preview)" },
       "theme": "New neighbours, first impressions, moving in",
       "key_vocab": ["dice che", "riferire", "il trasloco", "i nuovi vicini", "la prima impressione", "presentarsi", "ambientarsi", "straniero", "accogliere", "il benvenuto"],
-      "a_plot": "A moving van on Via dei Tigli, at no. 7: Grace Okafor, a London doctor who has taken a job at the Monza hospital, and her teenage son Daniel. Ben is first at the door, the way nobody was for him.",
+      "a_plot": "A moving van on Via dei Tigli, at no. 7: Grace Okafor, a London doctor who has taken a job at the Monza hospital, and her teenage son Daniel. Kevin is first at the door, the way nobody was for him.",
       "b_plot": "The street's gossip network reports on the newcomers, and every report changes what Grace said.",
       "arc": "Season premiere: the new newcomers, in a mirror of S1E1."
     },
@@ -20,8 +20,8 @@
       "grammar": { "id": "g-reported-past", "name": "Reported speech: tense shifts", "scope": "past reporting verb: present → imperfetto, passato prossimo → trapassato, future → condizionale passato; time and place shifts (domani → il giorno dopo, ieri → il giorno prima)" },
       "theme": "Gossip, misunderstanding, storytelling",
       "key_vocab": ["ha detto che", "aveva detto", "il giorno dopo", "il giorno prima", "quel giorno", "il malinteso", "fraintendere", "raccontare", "riportare", "precisare"],
-      "a_plot": "Daniel said something to Leo at school that Leo reported to Ben, who reported it to Chiara. By the evening the whole street believes Grace is a spy.",
-      "b_plot": "Emma starts her final year (quinta): the maturità year. Her teachers announce what 'this year will be like'. Emma reports it to Ben, dramatically.",
+      "a_plot": "Daniel said something to Leo at school that Leo reported to Kevin, who reported it to Chiara. By the evening the whole street believes Grace is a spy.",
+      "b_plot": "Emma starts her final year (quinta): the maturità year. Her teachers announce what 'this year will be like'. Emma reports it to Kevin, dramatically.",
       "arc": "Emma's maturità year begins."
     },
     {
@@ -30,9 +30,9 @@
       "grammar": { "id": "g-reported-questions-commands", "name": "Reported questions and commands", "scope": "chiedere se / chiedere cosa + indicative or subjunctive; reported commands with di + infinitive or che + subjunctive; dire di fare" },
       "theme": "Italian bureaucracy for newcomers: residency, health card, tax code",
       "key_vocab": ["la residenza", "la tessera sanitaria", "il codice fiscale", "l'anagrafe", "l'ASL", "il medico di base", "chiedere se", "dire di", "la procedura", "la coda"],
-      "a_plot": "Ben takes Grace through the bureaucracy he suffered in S1: the town hall, the health authority, the tax code. Grace asks everything; Ben reports what every clerk tells them to do.",
+      "a_plot": "Kevin takes Grace through the bureaucracy he suffered in S1: the town hall, the health authority, the tax code. Grace asks everything; Kevin reports what every clerk tells them to do.",
       "b_plot": "Franco asks Lucia to stop asking if he's feeling well. Lucia asks Nadia to ask him instead.",
-      "arc": "Ben as mentor. Franco's health worry continues."
+      "arc": "Kevin as mentor. Franco's health worry continues."
     },
     {
       "id": "s07e04", "level": "B2",
@@ -40,8 +40,8 @@
       "grammar": { "id": "g-concordanza-indicativo", "name": "Sequence of tenses with the indicative", "scope": "past main clause + contemporaneous (imperfetto), prior (trapassato), later (condizionale passato) in the indicative; so che / sapevo che" },
       "theme": "The Italian school system, middle school",
       "key_vocab": ["la scuola media", "la prima media", "il professore", "la verifica", "l'interrogazione", "il registro elettronico", "la pagella", "il voto", "sapevo che", "adattarsi"],
-      "a_plot": "Leo starts middle school (prima media) and meets Daniel, who is two years older and struggling with Italian. Leo becomes his interpreter, just as Emma once was for Ben.",
-      "b_plot": "Ben and Grace compare notes as parents of newcomers: 'Sapevo che sarebbe stato difficile, ma non così.'",
+      "a_plot": "Leo starts middle school (prima media) and meets Daniel, who is two years older and struggling with Italian. Leo becomes his interpreter, just as Emma once was for Kevin.",
+      "b_plot": "Kevin and Grace compare notes as parents of newcomers: 'Sapevo che sarebbe stato difficile, ma non così.'",
       "arc": "Leo–Daniel friendship."
     },
     {
@@ -50,9 +50,9 @@
       "grammar": { "id": "g-concordanza-full", "name": "Sequence of tenses: the full system", "scope": "full concordance table for indicative and subjunctive; common errors; spoken simplifications recognised" },
       "theme": "Parenting teenagers, conflict and understanding",
       "key_vocab": ["volevo che", "speravo che", "il rapporto", "l'adolescenza", "la fiducia", "il litigio", "comprendere", "il limite", "responsabile", "il rispetto"],
-      "a_plot": "Daniel runs away for a night (he's at Bar Tigli's storage room, with Matteo's permission). Grace and Ben search; Leo knows where he is.",
+      "a_plot": "Daniel runs away for a night (he's at Bar Tigli's storage room, with Matteo's permission). Grace and Kevin search; Leo knows where he is.",
       "b_plot": "Chiara and Emma fight about university: Chiara wanted Emma to consider Chicago; Emma wanted Chiara to trust her.",
-      "arc": "Grace–Ben: friendship. Emma–Chiara tension."
+      "arc": "Grace–Kevin: friendship. Emma–Chiara tension."
     },
     {
       "id": "s07e06", "level": "B2",
@@ -61,7 +61,7 @@
       "theme": "Fairy tales, folklore, bedtime stories",
       "key_vocab": ["c'era una volta", "il re", "la regina", "il principe", "il bosco", "la strega", "parlò", "partì", "credette", "vissero felici e contenti"],
       "a_plot": "Lucia babysits baby Anna (now nearly 2) and Daniel's little cousin, telling Italian fairy tales from Calvino's collection in the passato remoto.",
-      "b_plot": "Ben realises he can't read Italian novels because of the passato remoto. Emma teaches him with her schoolbooks.",
+      "b_plot": "Kevin realises he can't read Italian novels because of the passato remoto. Emma teaches him with her schoolbooks.",
       "runner": "Leo retells the fairy tales with modern endings."
     },
     {
@@ -70,9 +70,9 @@
       "grammar": { "id": "g-passato-remoto-irregular", "name": "Passato remoto: irregular forms", "scope": "essere (fui), avere (ebbi), fare (feci), dire (dissi), venire (venni), vedere (vidi), nascere (nacqui), prendere (presi), scrivere (scrissi), decidere (decisi) and the 1-3-3 pattern" },
       "theme": "History of Milan, monuments, guided tours",
       "key_vocab": ["fu costruito", "nacque", "morì", "il secolo", "la dominazione", "gli Sforza", "il Duomo", "la Fabbrica", "la guida turistica", "il cenacolo"],
-      "a_plot": "Ben takes the Okafors on the Milan tour he did with his parents, now with real history: the Duomo, the Sforza castle, the Last Supper. Daniel is bored until Leo tells it like a video game.",
+      "a_plot": "Kevin takes the Okafors on the Milan tour he did with his parents, now with real history: the Duomo, the Sforza castle, the Last Supper. Daniel is bored until Leo tells it like a video game.",
       "b_plot": "Franco and Lucia go on a guided tour of the tram museum. Franco corrects the guide.",
-      "runner": "Ben's old notebook: now a book of history facts."
+      "runner": "Kevin's old notebook: now a book of history facts."
     },
     {
       "id": "s07e08", "level": "B2",
@@ -90,7 +90,7 @@
       "grammar": { "id": "g-trapassato-remoto", "name": "Trapassato remoto and literary tenses", "scope": "ebbi finito, fu arrivato after dopo che/appena/quando with passato remoto (recognition); full literary tense map" },
       "theme": "Writing essays, literary analysis",
       "key_vocab": ["il tema", "la traccia", "l'analisi del testo", "l'introduzione", "lo sviluppo", "la conclusione", "citare", "argomentare", "la tesi", "la bozza"],
-      "a_plot": "Emma's first mock essay for the maturità comes back covered in red ink. She works through the night, and Ben and Ornella both help, in very different styles.",
+      "a_plot": "Emma's first mock essay for the maturità comes back covered in red ink. She works through the night, and Kevin and Ornella both help, in very different styles.",
       "b_plot": "Daniel's first Italian composition: 'La mia nuova strada'. Leo helps, and adds a paragraph about Pavarotti the cat.",
       "arc": "Emma's pressure mounts."
     },
@@ -110,9 +110,9 @@
       "grammar": { "id": "g-infinitive-verbs", "name": "Verbs + infinitive: with and without prepositions", "scope": "verbs taking a (riprendere a, abituarsi a, costringere a), di (evitare di, rischiare di, fingere di), and none (sembrare, osare, preferire); servile verbs and pronoun placement" },
       "theme": "Recovery, rehabilitation, healthy habits",
       "key_vocab": ["riprendere a", "evitare di", "rischiare di", "abituarsi a", "la riabilitazione", "la dieta", "il movimento", "smettere di fumare", "il sale", "lo stile di vita"],
-      "a_plot": "Franco comes home and must change everything: no salt, no cigarettes, walks every day. Ben walks with him every morning, and they talk more than ever.",
+      "a_plot": "Franco comes home and must change everything: no salt, no cigarettes, walks every day. Kevin walks with him every morning, and they talk more than ever.",
       "b_plot": "Lucia, Chiara and Samira fight over Franco's new diet recipes.",
-      "arc": "Ben–Franco: the deepest bond."
+      "arc": "Kevin–Franco: the deepest bond."
     },
     {
       "id": "s07e12", "level": "B2",
@@ -122,7 +122,7 @@
       "key_vocab": ["in bocca al lupo", "crepi", "due piccioni con una fava", "una fame da lupi", "quattro gatti", "un pesce fuor d'acqua", "essere una volpe", "fare il pesce in barile", "il proverbio", "il modo di dire"],
       "a_plot": "Franco, bored at home, teaches Daniel Italian through idioms and proverbs. Daniel teaches Franco English slang. Both are appalling.",
       "b_plot": "Matteo's second bar is about to open: 'In bocca al lupo!' He tries to hit two birds with one stone and hire Daniel part-time.",
-      "runner": "Ben: 'Crepi il lupo!', finally used correctly."
+      "runner": "Kevin: 'Crepi il lupo!', finally used correctly."
     },
     {
       "id": "s07e13", "level": "B2",
@@ -141,7 +141,7 @@
       "theme": "Technology, social media, screen time",
       "key_vocab": ["lo smartphone", "il caricabatterie", "l'app", "i social", "postare", "condividere", "il like", "la dipendenza", "lo screen time", "il cyberbullismo"],
       "a_plot": "Leo, 11, gets his first phone. The family negotiates rules; within a week he's in six group chats and one controversy.",
-      "b_plot": "Grace, a doctor, gives a talk at the school about screen time. Ben agrees with everything and then checks his phone.",
+      "b_plot": "Grace, a doctor, gives a talk at the school about screen time. Kevin agrees with everything and then checks his phone.",
       "runner": "Franco's first smartphone (it was Leo's idea)."
     },
     {
@@ -150,7 +150,7 @@
       "grammar": { "id": "g-colloquial-spoken", "name": "Features of spoken Italian", "scope": "fillers and discourse particles (cioè, tipo, insomma, allora, praticamente, mica, pure, magari); che polivalente; ci attualizzante (c'ho) recognised" },
       "theme": "Teenage language, crushes, friendship",
       "key_vocab": ["cioè", "tipo", "insomma", "praticamente", "mica", "pure", "figo", "la cotta", "uscire insieme", "dai"],
-      "a_plot": "Leo has his first crush, on Giulia from 1B. He asks Daniel, Emma and Ben for advice, and gets three terrible answers.",
+      "a_plot": "Leo has his first crush, on Giulia from 1B. He asks Daniel, Emma and Kevin for advice, and gets three terrible answers.",
       "b_plot": "Emma and Tommaso meet by chance at a concert in Milan. It's awkward, then it isn't.",
       "arc": "Emma–Tommaso: reunion begins."
     },
@@ -181,7 +181,7 @@
       "theme": "University applications, motivation letters",
       "key_vocab": ["la lettera di motivazione", "conseguire", "svolgere", "maturare", "le competenze", "il percorso", "la candidatura", "l'ammissione", "il colloquio", "la graduatoria"],
       "a_plot": "Emma writes applications: Milan (architecture, like her mother?), Bologna (languages), and one secret one in Chicago. Her motivation letters reveal who she is.",
-      "b_plot": "Grace helps Daniel apply for an Italian scholarship programme. Ben, who once wrote his first CV in Italian, helps them both.",
+      "b_plot": "Grace helps Daniel apply for an Italian scholarship programme. Kevin, who once wrote his first CV in Italian, helps them both.",
       "arc": "Emma's secret Chicago application."
     },
     {
@@ -190,7 +190,7 @@
       "grammar": { "id": "g-proverbs", "name": "Proverbs and fixed expressions", "scope": "common proverbs (chi va piano va sano e va lontano, tra il dire e il fare, chi dorme non piglia pesci, l'abito non fa il monaco, a caval donato...); their structure and use in conversation" },
       "theme": "Wisdom, generations, advice",
       "key_vocab": ["il proverbio", "chi va piano", "tra il dire e il fare", "l'abito non fa il monaco", "chi dorme non piglia pesci", "a caval donato", "la saggezza", "l'esperienza", "i nonni", "tramandare"],
-      "a_plot": "Franco decides to write down all his proverbs for his grandchildren. Ben helps him type them up, and every proverb comes with a story.",
+      "a_plot": "Franco decides to write down all his proverbs for his grandchildren. Kevin helps him type them up, and every proverb comes with a story.",
       "b_plot": "Leo uses proverbs to win arguments at school. It works until his teacher uses one back.",
       "arc": "Franco's legacy project begins."
     },
@@ -200,9 +200,9 @@
       "grammar": { "id": "g-false-friends", "name": "False friends and anglicisms", "scope": "common false friends (attualmente, eventualmente, libreria, parenti, fattoria, camera, morbido, sensibile, educato, argomento); anglicisms and their Italian meaning (il footing, lo smoking, il box)" },
       "theme": "Language learning, translation, misunderstanding",
       "key_vocab": ["attualmente", "eventualmente", "la libreria", "i parenti", "educato", "sensibile", "morbido", "l'argomento", "la fattoria", "lo smoking"],
-      "a_plot": "Ben teaches Grace the false friends he learned the hard way, with flashbacks to S1 mistakes. Grace makes a new one at the hospital that becomes legendary.",
+      "a_plot": "Kevin teaches Grace the false friends he learned the hard way, with flashbacks to S1 mistakes. Grace makes a new one at the hospital that becomes legendary.",
       "b_plot": "Emma and Daniel create a video series, 'Falsi amici', that becomes popular at school.",
-      "runner": "Ben's S1 notebook is found; they read his early mistakes aloud."
+      "runner": "Kevin's S1 notebook is found; they read his early mistakes aloud."
     },
     {
       "id": "s07e21", "level": "B2",
@@ -210,7 +210,7 @@
       "grammar": { "id": "g-modals-past-nuance", "name": "Modals in past tenses: nuance", "scope": "dovevo vs ho dovuto, potevo vs ho potuto, volevo vs ho voluto; avrei dovuto/potuto; auxiliary choice with modals (sono dovuto andare / ho dovuto andare)" },
       "theme": "Guilt, confessions, responsibility",
       "key_vocab": ["dovevo", "ho dovuto", "potevo", "avrei potuto", "confessare", "il senso di colpa", "nascondere", "il coraggio", "la verità", "sentirsi in colpa"],
-      "a_plot": "Chicago accepts Emma. She hasn't told anyone she applied. She tells Ben first, and Ben has to decide whether to tell Chiara.",
+      "a_plot": "Chicago accepts Emma. She hasn't told anyone she applied. She tells Kevin first, and Kevin has to decide whether to tell Chiara.",
       "b_plot": "Lucia confesses to Franco that she was supposed to tell the doctors about his symptoms months ago. Franco forgives her; it was his fault.",
       "arc": "Emma's Chicago acceptance."
     },
@@ -231,7 +231,7 @@
       "theme": "Describing people, portraits, character writing",
       "key_vocab": ["buono come il pane", "forte come un toro", "lento come una lumaca", "testardo come un mulo", "muto come un pesce", "il ritratto", "descrivere", "il carattere", "l'aspetto", "meglio tardi che mai"],
       "a_plot": "Emma's maturità practice essay: 'Portrait of a person who changed your life.' She writes about Franco and can't finish it.",
-      "b_plot": "Franco, recovered, returns to the bocce court, 'forte come un toro'. He loses to Ben for the first time and pretends it's the medication.",
+      "b_plot": "Franco, recovered, returns to the bocce court, 'forte come un toro'. He loses to Kevin for the first time and pretends it's the medication.",
       "arc": "Franco's recovery."
     },
     {
@@ -240,7 +240,7 @@
       "grammar": { "id": "g-reported-speech-review", "name": "Review: reported speech and narrative tenses", "scope": "reported speech in all tenses, in writing and speaking; retelling a whole conversation; reporting verbs (affermare, sostenere, ammettere, negare, promettere)" },
       "theme": "Retelling, memory, family stories",
       "key_vocab": ["affermare", "sostenere", "ammettere", "negare", "promettere", "raccontare", "riferire", "la versione", "il ricordo", "ricostruire"],
-      "a_plot": "Emma finally tells Chiara about Chicago. Chiara's reaction, reported three times: by Emma to Tommaso, by Chiara to Nadia, by Ben to Franco. Each version is true.",
+      "a_plot": "Emma finally tells Chiara about Chicago. Chiara's reaction, reported three times: by Emma to Tommaso, by Chiara to Nadia, by Kevin to Franco. Each version is true.",
       "b_plot": "Franco finishes his proverb book: 'Quello che mi disse mio padre.'",
       "arc": "The Emma–Chiara conversation. The Chicago choice is pending."
     },
@@ -250,9 +250,9 @@
       "grammar": { "id": "g-review-b2b", "name": "Review: B2 narration and reporting", "scope": "Consolidation of reported speech, sequence of tenses, passato remoto (recognition), modals in past, idioms and proverbs" },
       "theme": "Legacy, handing on, Carnevale",
       "key_vocab": ["tramandare", "l'eredità", "affidare", "adesso è tuo", "l'orto", "le mani", "la terra", "il seme", "piantare", "raccogliere"],
-      "a_plot": "At Carnevale, Franco walks Ben to the orto and gives him the keys to the shed: 'Adesso è tuo.' Ben is now the one who will teach Leo.",
+      "a_plot": "At Carnevale, Franco walks Kevin to the orto and gives him the keys to the shed: 'Adesso è tuo.' Kevin is now the one who will teach Leo.",
       "b_plot": "Daniel dresses up as Franco for Carnevale. Franco laughs until he cries.",
-      "arc": "SEASON FINALE: Franco hands the orto to Ben."
+      "arc": "SEASON FINALE: Franco hands the orto to Kevin."
     }
   ]
 }

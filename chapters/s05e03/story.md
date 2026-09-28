@@ -6,9 +6,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · venerdì pomeriggio
 
-È venerdì pomeriggio e in casa Carter c'è un silenzio strano. Fuori piove piano e la luce in cucina è grigia. Ben è seduto al tavolo davanti al portatile aperto. Legge le stesse dodici righe da tre giorni.
+È venerdì pomeriggio e in casa Carter c'è un silenzio strano. Fuori piove piano e la luce in cucina è grigia. Kevin è seduto al tavolo davanti al portatile aperto. Legge le stesse dodici righe da tre giorni.
 
-«Buongiorno, Ben. Noi dell'**azienda** abbiamo una **proposta** per te.» Ben legge ad alta voce, con la voce di un'altra persona.
+«Buongiorno, Kevin. Noi dell'**azienda** abbiamo una **proposta** per te.» Kevin legge ad alta voce, con la voce di un'altra persona.
 
 Sullo schermo ci sono una firma e un nome: Dave Miller, il suo vecchio **capo**.
 
@@ -16,7 +16,7 @@ _Dave. Sette anni nello stesso ufficio, cinque pranzi a settimana, due figlie e 
 
 _E adesso Dave scrive un'**email** e la mia vita diventa complicata._
 
-Ben tocca lo schermo con un dito, come per controllare che sia vero. L'**email** dice tre cose, e le dice in ordine.
+Kevin tocca lo schermo con un dito, come per controllare che sia vero. L'**email** dice tre cose, e le dice in ordine.
 
 La prima: «**Vogliamo che** tu **torni** a Chicago.»
 
@@ -24,7 +24,7 @@ La seconda: «Ti offriamo una **promozione**: sarai **direttore** del marketing.
 
 La terza: «Lo **stipendio** sarà il doppio di quello di oggi.»
 
-Ben chiude il portatile, poi lo riapre subito.
+Kevin chiude il portatile, poi lo riapre subito.
 
 _La **promozione**. Il **direttore**. Lo **stipendio** doppio._
 
@@ -34,17 +34,17 @@ Ma il sorriso gli dura poco. Perché sotto le tre cose ce n'è una quarta, scrit
 
 «**Vorremmo che** tu cominci a marzo. A casa ci pensiamo noi: una casa grande, una macchina nuova.»
 
-Ben guarda la cucina: il tavolo, il frigo, il quaderno giallo.
+Kevin guarda la cucina: il tavolo, il frigo, il quaderno giallo.
 
 _**Vogliono che** io **accetti** entro venerdì prossimo. E non ho ancora **risposto**._
 
 _Non ho **risposto** a nessuno, nemmeno a Dave._
 
-Ben si alza e cammina avanti e indietro davanti al frigorifero. Apre il frigo, guarda dentro, lo chiude.
+Kevin si alza e cammina avanti e indietro davanti al frigorifero. Apre il frigo, guarda dentro, lo chiude.
 
 _Nel frigo c'è la cena di stasera. In Ohio c'è mia madre. A Chicago c'è il mio vecchio ufficio. E qui c'è tutto il resto._
 
-Sul tavolo, accanto al portatile, c'è il quaderno giallo delle parole nuove. Sulla pagina di oggi Ben ha scritto una parola sola: frittata.
+Sul tavolo, accanto al portatile, c'è il quaderno giallo delle parole nuove. Sulla pagina di oggi Kevin ha scritto una parola sola: frittata.
 
 _Tre anni di parole nuove, tutte qui dentro. E adesso la decisione più importante arriva in inglese._
 
@@ -52,13 +52,13 @@ Alle sei e mezza la porta d'ingresso si apre con un rumore bagnato. Chiara entra
 
 «Che giornata!» dice, e appoggia la borsa su una sedia.
 
-Ben chiude il portatile con un movimento troppo veloce.
+Kevin chiude il portatile con un movimento troppo veloce.
 
 «Ciao. Tutto bene?»
 
 «Tutto bene.» Chiara si toglie le scarpe e sospira. «**Vuole che** io vada a Roma per il progetto nuovo.»
 
-«Ah. Roma.» Ben guarda il tavolo.
+«Ah. Roma.» Kevin guarda il tavolo.
 
 «Tre giorni alla settimana, per due mesi. E **vuole che** io cominci lunedì.»
 
@@ -78,7 +78,7 @@ _Seconda bugia in dieci minuti. Sto migliorando, purtroppo._
 
 Chiara lo guarda per tre secondi interi, che in questa casa sono tanti.
 
-«Ben, ti conosco da sedici anni.» «Quando dici "benissimo" con quella faccia, c'è qualcosa.»
+«Kevin, ti conosco da sedici anni.» «Quando dici "benissimo" con quella faccia, c'è qualcosa.»
 
 «Quale faccia? Questa è la mia faccia normale.» «Sono americano.»
 
@@ -86,7 +86,7 @@ Chiara ride, contro la sua volontà.
 
 «Sì, questo lo vedo.» «Però stasera cucini tu.»
 
-«Perfetto. Frittata!» Ben prende le uova dal frigo, felice di avere un lavoro semplice.
+«Perfetto. Frittata!» Kevin prende le uova dal frigo, felice di avere un lavoro semplice.
 
 Mentre sbatte le uova, però, tiene gli occhi sul portatile chiuso.
 
@@ -106,7 +106,7 @@ Chiara sorride, ma la sua mano resta ferma sul telefono.
 
 _Mio marito mente malissimo. Però stasera non ho la forza di discutere._
 
-In cucina, Ben mette la frittata nel piatto e conta i giorni.
+In cucina, Kevin mette la frittata nel piatto e conta i giorni.
 
 _Venerdì prossimo. Sette giorni. Un'**offerta** così non arriva due volte nella vita._
 
@@ -130,7 +130,7 @@ Chiara alza gli occhi, sorpresa dalla velocità della risposta.
 
 _Bella frase. Però non è vera._
 
-Dopo cena, Chiara sale di sopra a lavorare. Ben resta solo in cucina, con i piatti sporchi e il portatile davanti. Apre l'**email** un'ultima volta e legge le ultime due righe.
+Dopo cena, Chiara sale di sopra a lavorare. Kevin resta solo in cucina, con i piatti sporchi e il portatile davanti. Apre l'**email** un'ultima volta e legge le ultime due righe.
 
 «Aspettiamo tue notizie entro venerdì. Un caro saluto, Dave.»
 
@@ -138,27 +138,27 @@ _Tre giorni di **segreto** sono già troppi. Un **segreto** così pesa come un s
 
 _**Vogliono che** io **torni** in America. Ma qui c'è mia moglie, e stasera mia moglie è stanca._
 
-Ben chiude il portatile, spegne la luce della cucina e sale le scale.
+Kevin chiude il portatile, spegne la luce della cucina e sale le scale.
 
 _Stasera no. Domani._
 
 ## 2. Casa di Ornella, Via dei Tigli 16 · venerdì sera
 
-Alle nove di sera Ben attraversa la strada con due borse della spesa. La pioggia è finita e l'asfalto lucido riflette i lampioni. Alla finestra del numero sedici c'è già una luce accesa. Ornella apre la porta prima che lui suoni il campanello.
+Alle nove di sera Kevin attraversa la strada con due borse della spesa. La pioggia è finita e l'asfalto lucido riflette i lampioni. Alla finestra del numero sedici c'è già una luce accesa. Ornella apre la porta prima che lui suoni il campanello.
 
-«Buonasera, Ben. Ti ho visto arrivare.»
+«Buonasera, Kevin. Ti ho visto arrivare.»
 
-«Buonasera, Ornella. Latte, pane, mele e biscotti.» Ben posa le borse sul tavolo.
+«Buonasera, Ornella. Latte, pane, mele e biscotti.» Kevin posa le borse sul tavolo.
 
 «Sei un gentiluomo. Siediti, ho fatto il tè.»
 
-Ben si siede, ma non beve. Guarda la tazza, poi guarda la finestra, poi guarda le sue mani. Ornella si siede di fronte a lui e aspetta.
+Kevin si siede, ma non beve. Guarda la tazza, poi guarda la finestra, poi guarda le sue mani. Ornella si siede di fronte a lui e aspetta.
 
 «Ornella, devo **raccontare** una cosa a qualcuno. A te.»
 
 «Allora racconta.»
 
-Ben tira fuori dalla tasca un foglio piegato in quattro.
+Kevin tira fuori dalla tasca un foglio piegato in quattro.
 
 «Tre giorni fa ho ricevuto un'**email** dall'**azienda** dove lavoravo a Chicago.»
 
@@ -184,17 +184,17 @@ Per un momento nella stanza c'è solo il rumore del frigorifero.
 
 «E Chiara lo sa?»
 
-Ben guarda il tavolo.
+Kevin guarda il tavolo.
 
 «No.»
 
-«Ben.» Ornella si toglie gli occhiali e lo guarda bene in faccia. «**Spero che** tu lo **dica** a Chiara stasera. Prima di dormire.»
+«Kevin.» Ornella si toglie gli occhiali e lo guarda bene in faccia. «**Spero che** tu lo **dica** a Chiara stasera. Prima di dormire.»
 
 «Stasera? È tardi, è stanca, domani…»
 
 «No, domani no.» «Un **segreto** in una casa è come l'umidità in un muro: non si vede e poi fa cadere tutto.»
 
-Ben non risponde.
+Kevin non risponde.
 
 _Umido. Muro. Casa. Grazie, Ornella. Adesso ho anche paura dei muri._
 
@@ -210,7 +210,7 @@ Ornella sorride e si sistema sulla sedia, come chi ha una storia pronta da tempo
 
 «Gino? Il bar?»
 
-«Prima del bar, Ben. Gino lavorava in una **sede** grande, a Milano. Una **sede** con cento persone.»
+«Prima del bar, Kevin. Gino lavorava in una **sede** grande, a Milano. Una **sede** con cento persone.»
 
 «E poi?»
 
@@ -224,19 +224,19 @@ Ornella sorride e si sistema sulla sedia, come chi ha una storia pronta da tempo
 
 «Perché a Torino non conosceva nessuno, e qui conosceva tutti.» «E perché **preferisco che** le persone entrino dalla porta e mi chiamino per nome.»
 
-Ben guarda la stanza: le foto, il tavolo, la tazza di tè.
+Kevin guarda la stanza: le foto, il tavolo, la tazza di tè.
 
 «Quarant'anni di bar.»
 
 «Quarant'anni di nomi.» «E di caffè. E di gente che **tornava** ogni mattina.»
 
-Ben ride piano e si passa una mano nei capelli.
+Kevin ride piano e si passa una mano nei capelli.
 
 «Qui **guadagno** un quarto di quello che mi offrono là.»
 
 «E qui guadagni che cosa?»
 
-Ben non risponde subito.
+Kevin non risponde subito.
 
 «Qui guadagno un posto al bancone alle sette del mattino, con Matteo che mi chiama per nome.»
 
@@ -252,7 +252,7 @@ Ornella annuisce, seria.
 
 «Questo lo capisco. Quando sei stanco di essere strano, vuoi **tornare** dove sei normale.»
 
-Ben la guarda, sorpreso.
+Kevin la guarda, sorpreso.
 
 «È esattamente questo.»
 
@@ -270,19 +270,19 @@ _Ecco. Questa è la domanda che non volevo sentire._
 
 Ornella si alza e va verso la cucina.
 
-«Ti do una **notizia**, Ben.» «Della **sede** di Chicago non so niente. Ma so una cosa del tuo bar.»
+«Ti do una **notizia**, Kevin.» «Della **sede** di Chicago non so niente. Ma so una cosa del tuo bar.»
 
 «Cioè?»
 
 «**Preferisco** il tuo bar a qualsiasi sede di Chicago.» «E non è una frase gentile: è la verità.»
 
-Ben ride, e per la prima volta in tre giorni ha una faccia normale.
+Kevin ride, e per la prima volta in tre giorni ha una faccia normale.
 
 «Grazie.»
 
 «Prego. **Comunque** non decidi da solo.» «Questo è il punto.»
 
-Ben si alza e prende il giacchetto.
+Kevin si alza e prende il giacchetto.
 
 «Quindi stasera?»
 
@@ -292,7 +292,7 @@ Ben si alza e prende il giacchetto.
 
 «Soprattutto se litigate.»
 
-Ben apre la porta e si volta un'ultima volta.
+Kevin apre la porta e si volta un'ultima volta.
 
 «Ornella, tu sei la mia **sede** italiana.»
 
@@ -306,17 +306,17 @@ _Povero ragazzo. Ha una casa piena e una testa piena, e non sa quale delle due p
 
 ## 3. Bar Tigli · sabato mattina
 
-Il sabato mattina al Bar Tigli c'è sempre confusione. Fuori, il sole nuovo asciuga l'asfalto bagnato di ieri. Dentro, otto persone aspettano il caffè e parlano tutte insieme. Ben è dietro il bancone con il grembiule verde e una matita dietro l'orecchio.
+Il sabato mattina al Bar Tigli c'è sempre confusione. Fuori, il sole nuovo asciuga l'asfalto bagnato di ieri. Dentro, otto persone aspettano il caffè e parlano tutte insieme. Kevin è dietro il bancone con il grembiule verde e una matita dietro l'orecchio.
 
 «Due cappuccini e un caffè macchiato!» grida Matteo dalla cassa.
 
-«Due cappuccini, un macchiato.» Ben ripete l'ordine, ma guarda fuori dalla vetrina.
+«Due cappuccini, un macchiato.» Kevin ripete l'ordine, ma guarda fuori dalla vetrina.
 
 Porta al tavolo tre tazze: due macchiati e un cappuccino. Il signore anziano alza un sopracciglio.
 
 «Io avevo chiesto un cappuccino.»
 
-«Ah. Sì. Scusi.» Ben cambia le tazze con le mani.
+«Ah. Sì. Scusi.» Kevin cambia le tazze con le mani.
 
 Matteo lo guarda dal bancone e sorride.
 
@@ -330,7 +330,7 @@ Matteo prende un foglio da sotto la cassa e lo mette sul bancone, tra le tazze.
 
 «Senti questa. Ti presento la mia **proposta** nuova.»
 
-Ben guarda il foglio: sopra c'è scritto a penna: colazione americana.
+Kevin guarda il foglio: sopra c'è scritto a penna: colazione americana.
 
 «Pancake, uova, bacon, succo d'arancia.» «Sabato e domenica, dalle otto alle undici.»
 
@@ -338,7 +338,7 @@ Ben guarda il foglio: sopra c'è scritto a penna: colazione americana.
 
 «Tu sei il **direttore** del progetto.» «**Voglio che** tu comandi tu. Cucini, decidi, firmi.»
 
-Ben ride.
+Kevin ride.
 
 «Ma io non ho nessun **contratto** con te.»
 
@@ -358,7 +358,7 @@ Nadia arriva dalla porta di servizio con la borsa e una borsa più piccola per A
 
 «No. La colazione americana.»
 
-«Ah, quella.» Nadia prende il caffè che Ben le offre. «Ieri sera l'hai raccontata tre volte.»
+«Ah, quella.» Nadia prende il caffè che Kevin le offre. «Ieri sera l'hai raccontata tre volte.»
 
 «Perché è una buona idea.»
 
@@ -384,7 +384,7 @@ Matteo si gratta la testa.
 
 «Matteo, la mia **carriera** va avanti.» «E va avanti bene.»
 
-Ben ascolta e non dice niente.
+Kevin ascolta e non dice niente.
 
 _Ecco due persone che parlano di carriera e di scelte. E io sto zitto come un muro._
 
@@ -408,7 +408,7 @@ Matteo e Nadia si guardano e ridono piano.
 
 «Il futuro è quello che arriva dopo oggi.»
 
-«E tu sai cosa farai da grande?» Ben si blocca con la tazza in mano.
+«E tu sai cosa farai da grande?» Kevin si blocca con la tazza in mano.
 
 _Perché i bambini fanno sempre la domanda giusta al momento sbagliato?_
 
@@ -418,7 +418,7 @@ _Perché i bambini fanno sempre la domanda giusta al momento sbagliato?_
 
 «E tu hai scelto?»
 
-Ben guarda Matteo, che alza le mani come per dire che lui non c'entra.
+Kevin guarda Matteo, che alza le mani come per dire che lui non c'entra.
 
 «Io... ho un lavoro **importante** in corso.»
 
@@ -440,13 +440,13 @@ Quando Leo esce, Matteo si avvicina al bancone e abbassa la voce.
 
 «Niente. Vuol dire il libro.»
 
-«Ben.» «Io ti conosco. Quando **rifiuti** di rispondere, c'è sempre un problema.»
+«Kevin.» «Io ti conosco. Quando **rifiuti** di rispondere, c'è sempre un problema.»
 
 «Non rifiuto niente.»
 
 «E allora rispondi.»
 
-Silenzio. Una signora chiede il conto e Ben è felice di andarla a servire.
+Silenzio. Una signora chiede il conto e Kevin è felice di andarla a servire.
 
 _E adesso anche Matteo ha capito che c'è qualcosa. Sono un **segreto** con le gambe._
 
@@ -460,7 +460,7 @@ _E adesso anche Matteo ha capito che c'è qualcosa. Sono un **segreto** con le g
 
 «Se un giorno decidi di raccontare qualcosa, noi siamo qui.» «Anche se è una cosa brutta. Anche se è una cosa strana.»
 
-Ben annuisce, e non riesce a dire altro.
+Kevin annuisce, e non riesce a dire altro.
 
 «Grazie.»
 
@@ -476,15 +476,15 @@ Nadia si alza dal tavolo e prende la borsa di Anna.
 
 «E allora io ti aspetto al bancone ogni mattina.» «**Almeno** fino a venerdì prossimo.»
 
-Ben la guarda, e per un secondo pensa di dirle tutto. Poi guarda l'orologio sopra la cassa.
+Kevin la guarda, e per un secondo pensa di dirle tutto. Poi guarda l'orologio sopra la cassa.
 
 «Devo andare. C'è la spesa e poi i ragazzi.»
 
 «Certo.»
 
-Ben si toglie il grembiule e lo appende al chiodo. Matteo lo segue con gli occhi fino alla porta.
+Kevin si toglie il grembiule e lo appende al chiodo. Matteo lo segue con gli occhi fino alla porta.
 
-«Ben!» «La colazione americana la facciamo comunque, sì o no?»
+«Kevin!» «La colazione americana la facciamo comunque, sì o no?»
 
 «Sì!» «La facciamo!»
 
@@ -496,7 +496,7 @@ Nadia guarda la porta e non aggiunge altro.
 
 _E se scappa, Chiara lo saprà prima di me. Ne sono sicura._
 
-Matteo intanto scrive sul foglio della colazione, e sulla sua faccia non c'è nessun dubbio. A volte Ben **invece** ha troppi dubbi.
+Matteo intanto scrive sul foglio della colazione, e sulla sua faccia non c'è nessun dubbio. A volte Kevin **invece** ha troppi dubbi.
 
 ## 4. Il mercato del martedì · sabato mattina
 
@@ -678,7 +678,7 @@ _Il **futuro** di Emma è qui. Il futuro di Leo è qui. E il mio? Il mio dove è
 
 «Tutto qui.»
 
-Entrano in casa e Chiara posa le borse sul tavolo della cucina. Sul tavolo c'è il portatile di Ben, chiuso, ma con un foglietto sopra. Sul foglietto c'è scritto solo una parola: Chicago. Chiara prende il foglietto, lo guarda, poi lo rimette esattamente dove era.
+Entrano in casa e Chiara posa le borse sul tavolo della cucina. Sul tavolo c'è il portatile di Kevin, chiuso, ma con un foglietto sopra. Sul foglietto c'è scritto solo una parola: Chicago. Chiara prende il foglietto, lo guarda, poi lo rimette esattamente dove era.
 
 _Casa. **Comunque** vada, io voglio sapere. Non voglio aspettare un'altra settimana._
 
@@ -694,7 +694,7 @@ L'orto di Franco è dietro casa, tra il muro vecchio e il garage. A settembre le
 
 «Perché deve crescere. Come te.»
 
-Ben è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie niente. Guarda le foglie, poi il muro, poi il cielo. Franco lo osserva da dieci minuti senza dire niente.
+Kevin è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie niente. Guarda le foglie, poi il muro, poi il cielo. Franco lo osserva da dieci minuti senza dire niente.
 
 «Oggi non lavori.»
 
@@ -702,7 +702,7 @@ Ben è seduto su uno sgabello con il secchio vuoto davanti e non raccoglie nient
 
 «Ah. E a che cosa pensi, se posso **chiedere**?»
 
-Ben prende un pomodoro rosso e lo mette nel secchio.
+Kevin prende un pomodoro rosso e lo mette nel secchio.
 
 «Franco, posso farti una domanda?»
 
@@ -722,7 +722,7 @@ Franco si raddrizza e si pulisce le mani sul grembiule.
 
 «Per un milanese di settantaquattro anni, Napoli è l'estero.»
 
-Ben ride, ma poco.
+Kevin ride, ma poco.
 
 «E non hai mai pensato di andare via? Di **trasferirti**?»
 
@@ -744,7 +744,7 @@ Leo alza la testa dal secchio.
 
 «Tutti. E loro conoscevano me.»
 
-Franco guarda Ben e continua.
+Franco guarda Kevin e continua.
 
 «Mi hanno offerto un **posto** in ufficio, una volta. Più soldi, orari migliori.»
 
@@ -758,7 +758,7 @@ Franco ci pensa un momento, poi sceglie le parole con cura.
 
 «**Preferisco che** le cose restino dove sono.» «La mia linea, la mia casa, la mia gente.»
 
-Ben non dice niente.
+Kevin non dice niente.
 
 _La mia linea, la mia casa, la mia gente. Non sono sicuro di avere una frase così._
 
@@ -772,17 +772,17 @@ Franco si china di nuovo sui pomodori e per un po' si sente solo il rumore delle
 
 «Caffè per gli operai!»
 
-«Grazie, Lucia.» Ben prende la tazzina con due mani.
+«Grazie, Lucia.» Kevin prende la tazzina con due mani.
 
 Lucia lo guarda un secondo di troppo.
 
-«Ben, hai una faccia strana.»
+«Kevin, hai una faccia strana.»
 
 «Ho la faccia normale.»
 
 «No. La faccia normale ce l'hai quando parli di cibo.» «Adesso hai la faccia di chi aspetta qualcosa.»
 
-Ben beve il caffè tutto d'un fiato e si brucia la lingua.
+Kevin beve il caffè tutto d'un fiato e si brucia la lingua.
 
 «Aspetto il libro di cucina.»
 
@@ -796,7 +796,7 @@ Lucia torna in casa e Franco la segue con gli occhi. Leo, intanto, ha una domand
 
 «Papà, Chicago è lontana?»
 
-Ben si blocca.
+Kevin si blocca.
 
 «Sì. È lontana.»
 
@@ -812,13 +812,13 @@ Leo conta sulle dita, poi rinuncia.
 
 «Otto ore sono tante. Se andiamo a Chicago io mi porto il cuscino.»
 
-Ben non risponde.
+Kevin non risponde.
 
 _Se andiamo. Ha detto "se andiamo". E io ancora non ho **risposto** a nessuno._
 
 Franco si alza e si mette a sedere sul muretto.
 
-«Ben. Ti faccio io una domanda, adesso.»
+«Kevin. Ti faccio io una domanda, adesso.»
 
 «Dimmi.»
 
@@ -832,7 +832,7 @@ Franco si alza e si mette a sedere sul muretto.
 
 «Sei felice qui?»
 
-Ben alza la testa di colpo.
+Kevin alza la testa di colpo.
 
 «Sì.»
 
@@ -860,13 +860,13 @@ Franco entra in casa e la porta si chiude. Leo mette l'ultimo pomodoro nel secch
 
 «Sì. È simpatico **invece** di essere gentile.»
 
-Leo ci pensa su, ma non capisce e non chiede. Ben resta solo nell'orto con il secchio vuoto.
+Leo ci pensa su, ma non capisce e non chiede. Kevin resta solo nell'orto con il secchio vuoto.
 
 _Torna a raccontare. Lo so, Franco. Lo so._
 
 ## 6. Casa Carter, Via dei Tigli 14 · sabato sera
 
-Dopo cena Emma è in camera sua e Leo dorme già sul divano con le scarpe. In cucina ci sono solo Ben e il portatile aperto. Stavolta, sopra il portatile, non c'è nessun foglietto. Ben sta scrivendo una risposta a Dave. Ha scritto e cancellato la prima riga undici volte.
+Dopo cena Emma è in camera sua e Leo dorme già sul divano con le scarpe. In cucina ci sono solo Kevin e il portatile aperto. Stavolta, sopra il portatile, non c'è nessun foglietto. Kevin sta scrivendo una risposta a Dave. Ha scritto e cancellato la prima riga undici volte.
 
 _Caro Dave, grazie per l'**offerta**._
 
@@ -888,7 +888,7 @@ Chiara apre l'armadio, prende il tè e si siede di fronte a lui.
 
 «È un'**email** di lavoro.»
 
-Chiara guarda lo schermo e Ben lo gira un po'.
+Chiara guarda lo schermo e Kevin lo gira un po'.
 
 «Di che lavoro?»
 
@@ -896,7 +896,7 @@ Chiara guarda lo schermo e Ben lo gira un po'.
 
 Cinque secondi di silenzio.
 
-«Ben, c'è una cosa da dirti.» Ben chiude il portatile con una mano e la guarda.
+«Kevin, c'è una cosa da dirti.» Kevin chiude il portatile con una mano e la guarda.
 
 «Anche io ho una cosa da dirti.»
 
@@ -906,7 +906,7 @@ _E adesso glielo dico. Adesso. Una frase sola: "Mi hanno offerto un lavoro a Chi
 
 «Cioè?»
 
-Ben apre la bocca. Sul tavolo, accanto al portatile, c'è il quaderno giallo aperto sulla parola di oggi. La parola di oggi è **futuro**. E Ben cambia strada.
+Kevin apre la bocca. Sul tavolo, accanto al portatile, c'è il quaderno giallo aperto sulla parola di oggi. La parola di oggi è **futuro**. E Kevin cambia strada.
 
 «Vorrei **rispondere** a un'**email** di lavoro. Niente di importante.»
 
@@ -922,13 +922,13 @@ _Dimmi la verità. Ti prego, dimmi la verità._
 
 Chiara lo guarda fisso, senza sorridere.
 
-«Ben, guardami negli occhi.»
+«Kevin, guardami negli occhi.»
 
-Ben la guarda negli occhi.
+Kevin la guarda negli occhi.
 
 «È tutto a posto?»
 
-Ben sente il cuore battere forte e pensa a Franco, all'orto, al secchio vuoto.
+Kevin sente il cuore battere forte e pensa a Franco, all'orto, al secchio vuoto.
 
 «È tutto a posto.» «E ti amo.»
 
@@ -940,7 +940,7 @@ Chiara chiude gli occhi un momento.
 
 «Perché lo dici come si dice una cosa difficile.»
 
-Ben prende la sua mano sul tavolo.
+Kevin prende la sua mano sul tavolo.
 
 «Sono solo stanco. Tre giorni di poco sonno.»
 
@@ -950,7 +950,7 @@ Ben prende la sua mano sul tavolo.
 
 Chiara prende la tazza e va verso le scale. Si ferma sul primo gradino.
 
-«Ben, una cosa.»
+«Kevin, una cosa.»
 
 «Dimmi.»
 
@@ -958,11 +958,11 @@ Chiara prende la tazza e va verso le scale. Si ferma sul primo gradino.
 
 «Te la dico presto.»
 
-Chiara sale e la porta della camera si chiude piano. Ben resta seduto davanti al portatile chiuso. Conta fino a trenta, poi lo riapre. Caro Dave. Grazie per l'**offerta**. Ho letto bene tutto: la **promozione**, lo **stipendio**, il **contratto** di tre anni. La **sede** di Chicago è la mia prima casa, e lo sai. Il **trasferimento** a marzo è una cosa grande per tutta la mia famiglia. Ecco la frase che non riesce a scrivere.
+Chiara sale e la porta della camera si chiude piano. Kevin resta seduto davanti al portatile chiuso. Conta fino a trenta, poi lo riapre. Caro Dave. Grazie per l'**offerta**. Ho letto bene tutto: la **promozione**, lo **stipendio**, il **contratto** di tre anni. La **sede** di Chicago è la mia prima casa, e lo sai. Il **trasferimento** a marzo è una cosa grande per tutta la mia famiglia. Ecco la frase che non riesce a scrivere.
 
 _Per tutta la mia famiglia. Perché io non ho ancora parlato con la mia famiglia._
 
-Ben cancella la frase e scrive più semplice. Dave, ho bisogno di una settimana. Ti **rispondo** venerdì con una **decisione** chiara. Grazie. Ben. Ben rilegge tre volte.
+Kevin cancella la frase e scrive più semplice. Dave, ho bisogno di una settimana. Ti **rispondo** venerdì con una **decisione** chiara. Grazie. Kevin. Kevin rilegge tre volte.
 
 _Perfetto. Non ho **accettato** e non ho **rifiutato**. Ho solo chiesto tempo._
 
@@ -980,7 +980,7 @@ _Potrei **trasferirmi** a marzo con un **contratto** firmato e una casa pronta._
 
 _E potrei **tornare** qui a dicembre e non sapere più chi sono._
 
-Ben preme invio. Il rumore della tastiera è piccolissimo, ma a lui sembra un tuono.
+Kevin preme invio. Il rumore della tastiera è piccolissimo, ma a lui sembra un tuono.
 
 _Adesso aspetto. **Almeno** una settimana ho comprato._
 
@@ -992,7 +992,7 @@ _Tre giorni. Tre giorni di facce strane, e un foglietto con scritto "Chicago"._
 
 _Domani glielo chiedo di nuovo. E questa volta non accetto "niente di importante"._
 
-Chiara si gira verso il muro. Ben entra piano e si mette a letto vestito.
+Chiara si gira verso il muro. Kevin entra piano e si mette a letto vestito.
 
 «Dormi?»
 

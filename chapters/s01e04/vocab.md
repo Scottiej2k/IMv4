@@ -8,7 +8,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **camminare**<br>(v.) · to walk | «Perfetto!» dice Ben. «Allora, **camminiamo**!» | “Perfect!” says Ben. “So, let's **walk**!” |
+| **camminare**<br>(v.) · to walk | «Perfetto!» dice Kevin. «Allora, **camminiamo**!» | “Perfect!” says Kevin. “So, let's **walk**!” |
 | **guardare**<br>(v.) · to look at, to watch | Leo **guarda** la strada. | Leo **looks at** the street. |
 | **cercare**<br>(v.) · to look for | «Adesso **cerchiamo** il parco.» | “Now let's **look for** the park.” |
 
@@ -27,7 +27,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il negozio**<br>(n., m) · shop | «E c'è un **negozio**.» | “And there's a **shop**.” |
 | **la mappa**<br>(n., f) · map | «Leo, facciamo una **mappa**.» | “Leo, let's make a **map**.” |
 | **il treno**<br>(n., m) · train | E il **treno** parte. | And the **train** leaves. |
-| **l'avviso**<br>(n., m) · notice | «Allora... **Avviso**... Comitato...» legge Ben. | “So... **Notice**... Committee...” reads Ben. |
+| **l'avviso**<br>(n., m) · notice | «Allora... **Avviso**... Comitato...» legge Kevin. | “So... **Notice**... Committee...” reads Kevin. |
 | **il cancello**<br>(n., m) · gate | «Perché è sul nostro **cancello**?» | “Why is it on our **gate**?” |
 | **il vicino**<br>(n., m) · neighbour | Poi arriva un **vicino**. | Then **a neighbour** arrives. |
 | **la fontana**<br>(n., f) · fountain | Davanti alla chiesa c'è una **fontana**. | In front of the church there's a **fountain**. |

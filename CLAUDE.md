@@ -83,11 +83,11 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   `provider.options["google-ai-studio"].speech_metadata`, `instructions` is ignored). S1E1 has
   real audio in the reader (35 min, about $0.30). Audio isn't in git: regenerate it.
 - **Voices cast by the owner** (casting page https://claude.ai/artifact/HuGt1bgXgNFkidbkhtGZ1T,
-  `scripts/audition.py`): Narratore Charon, Ben Puck + American accent fading by level, Chiara
+  `scripts/audition.py`): Narratore Charon, Kevin Puck + American accent fading by level, Chiara
   Callirrhoe, Emma Autonoe, Leo Leda, Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
   Aoede, Roberto Orus (config/voices.json).
 - Dialogue target is 45–60% for the book format (owner, 2026-09-26).
-- TTS: checked against Google's docs (docs/tts-format.md). Styles are short: level pace, Ben's
+- TTS: checked against Google's docs (docs/tts-format.md). Styles are short: level pace, Kevin's
   accent, the line's delivery.
 - Known: the S5E3 plan sets the chapter in late January though S5 runs Sept–Feb (owner to decide).
   Continuity entries can over-reach or come out in Italian: skim them.
@@ -102,5 +102,5 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
 
 - Commit to the working branch, one commit per chapter (`s01e01: <title>`). Never commit `work/`.
 - Rules that matter most for content: everything in Italian (occasional single English words only);
-  Ben's mistakes are corrected in the same scene; standard Italian, no dialect; respect
+  Kevin's mistakes are corrected in the same scene; standard Italian, no dialect; respect
   `bible/timeline.md`; never use grammar beyond the ceiling.

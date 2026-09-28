@@ -48,7 +48,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È sabato mattina in Via dei Tigli. La casa al numero quattordici è piena di scatole. Le scatole sono grandi e piccole. Tutte hanno un'etichetta in inglese. Chiara entra nella cucina con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Ben con una grande scatola. Sulla scatola c'è un'etichetta con la parola KITCHEN.",
+                "text": "È sabato mattina in Via dei Tigli. La casa al numero quattordici è piena di scatole. Le scatole sono grandi e piccole. Tutte hanno un'etichetta in inglese. Chiara entra nella cucina con un foglio in mano. Sul foglio c'è una lista con tre parole. Dietro di lei arriva Kevin con una grande scatola. Sulla scatola c'è un'etichetta con la parola KITCHEN.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -134,7 +134,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben, perché le etichette sono in inglese?",
+                "text": "Kevin, perché le etichette sono in inglese?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -344,7 +344,7 @@
               },
               {
                 "type": "text",
-                "text": "ripete Ben.",
+                "text": "ripete Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -366,7 +366,7 @@
               },
               {
                 "type": "text",
-                "text": "Ben guarda la cucina con attenzione.",
+                "text": "Kevin guarda la cucina con attenzione.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -650,7 +650,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Chiara guarda Ben. Ben guarda Leo.",
+                "text": "Chiara guarda Kevin. Kevin guarda Leo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -742,7 +742,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -927,7 +927,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben mette la scatola sul tavolo. Adesso il tavolo è pieno di cose.",
+                "text": "Kevin mette la scatola sul tavolo. Adesso il tavolo è pieno di cose.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1084,7 +1084,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben prende una scatola con l'etichetta KITCHEN.",
+                "text": "Kevin prende una scatola con l'etichetta KITCHEN.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1167,7 +1167,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "In cucina, Ben. La cucina è qui.",
+                "text": "In cucina, Kevin. La cucina è qui.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1211,7 +1211,7 @@
               },
               {
                 "type": "text",
-                "text": "Perfetto? Ben, ci sono dieci scatole.",
+                "text": "Perfetto? Kevin, ci sono dieci scatole.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1357,7 +1357,7 @@
               },
               {
                 "type": "text",
-                "text": "Ben ride e guarda la porta.",
+                "text": "Kevin ride e guarda la porta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1630,7 +1630,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda il tavolo. È pieno di cose.",
+                "text": "Kevin guarda il tavolo. È pieno di cose.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1707,7 +1707,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Quale caffè? Ben, dov'è la scatola con la macchina del caffè?",
+                "text": "Quale caffè? Kevin, dov'è la scatola con la macchina del caffè?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1718,7 +1718,7 @@
               },
               {
                 "type": "text",
-                "text": "Ben guarda le scatole nel salotto. Sono dieci. Tutte con un'etichetta. Il sorriso di Ben cambia.",
+                "text": "Kevin guarda le scatole nel salotto. Sono dieci. Tutte con un'etichetta. Il sorriso di Kevin cambia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3363,7 +3363,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Nel pomeriggio suona il campanello. Ben apre la porta. Davanti alla porta c'è Ornella Galli. Ha un vestito elegante e una borsa piccola.",
+                "text": "Nel pomeriggio suona il campanello. Kevin apre la porta. Davanti alla porta c'è Ornella Galli. Ha un vestito elegante e una borsa piccola.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3515,7 +3515,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda il giardino dalla porta. Nel giardino c'è un gatto grigio. Il gatto dorme sul tavolo piccolo.",
+                "text": "Kevin guarda il giardino dalla porta. Nel giardino c'è un gatto grigio. Il gatto dorme sul tavolo piccolo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3537,7 +3537,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4092,7 +4092,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ornella guarda Ben.",
+                "text": "Ornella guarda Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4526,7 +4526,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4760,7 +4760,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda la cucina piccola. Poi guarda il salotto. Poi guarda il gatto.",
+                "text": "Kevin guarda la cucina piccola. Poi guarda il salotto. Poi guarda il gatto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4853,7 +4853,7 @@
               },
               {
                 "type": "text",
-                "text": "(Ben non risponde. La macchina del caffè è ancora in una scatola.)",
+                "text": "(Kevin non risponde. La macchina del caffè è ancora in una scatola.)",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5111,7 +5111,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5364,7 +5364,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Nel pomeriggio Chiara lavora con la lista. È seduta sul divano in salotto. Davanti a lei ci sono dieci scatole. Ben entra dal salotto con una matita in mano.",
+                "text": "Nel pomeriggio Chiara lavora con la lista. È seduta sul divano in salotto. Davanti a lei ci sono dieci scatole. Kevin entra dal salotto con una matita in mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5843,7 +5843,7 @@
               },
               {
                 "type": "text",
-                "text": "Ben, questa scatola è piccola.",
+                "text": "Kevin, questa scatola è piccola.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5927,7 +5927,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben apre la scatola con l'etichetta CAFFÈ. Dentro non c'è niente.",
+                "text": "Kevin apre la scatola con l'etichetta CAFFÈ. Dentro non c'è niente.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6144,7 +6144,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda le scatole e pensa.",
+                "text": "Kevin guarda le scatole e pensa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6256,7 +6256,7 @@
               },
               {
                 "type": "text",
-                "text": "Ben, in italiano la camera è una stanza!",
+                "text": "Kevin, in italiano la camera è una stanza!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6490,7 +6490,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben prende il quaderno giallo dalla tasca. Scrive una parola nuova e la numera.",
+                "text": "Kevin prende il quaderno giallo dalla tasca. Scrive una parola nuova e la numera.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6804,7 +6804,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda dalla finestra. Nel giardino c'è una scatola grande sul tavolo piccolo. Sulla scatola dorme il gatto.",
+                "text": "Kevin guarda dalla finestra. Nel giardino c'è una scatola grande sul tavolo piccolo. Sulla scatola dorme il gatto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7360,7 +7360,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda Chiara. Chiara ride.",
+                "text": "Kevin guarda Chiara. Chiara ride.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7447,7 +7447,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È sabato sera in Via dei Tigli. Nelle finestre della casa numero quattordici c'è luce. Franco arriva con una busta di pomodori. Guarda la casa, il giardino, la porta. Poi suona il campanello. Ben apre la porta.",
+                "text": "È sabato sera in Via dei Tigli. Nelle finestre della casa numero quattordici c'è luce. Franco arriva con una busta di pomodori. Guarda la casa, il giardino, la porta. Poi suona il campanello. Kevin apre la porta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7686,7 +7686,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Franco guarda Ben e non dice niente.",
+                "text": "Franco guarda Kevin e non dice niente.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8438,7 +8438,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben arriva con tre tazze.",
+                "text": "Kevin arriva con tre tazze.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8690,7 +8690,7 @@
               },
               {
                 "type": "text",
-                "text": "Ben mette le tazze sul tavolo. Poi guarda Franco.",
+                "text": "Kevin mette le tazze sul tavolo. Poi guarda Franco.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9151,7 +9151,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9459,7 +9459,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È domenica mattina. Il gatto non è più in casa. La casa è tranquilla. Sul tavolo della cucina c'è la macchina del caffè. Ben entra in cucina e guarda la macchina. Sopra c'è un post-it. Sul post-it c'è una parola: PAVAROTTI.",
+                "text": "È domenica mattina. Il gatto non è più in casa. La casa è tranquilla. Sul tavolo della cucina c'è la macchina del caffè. Kevin entra in cucina e guarda la macchina. Sopra c'è un post-it. Sul post-it c'è una parola: PAVAROTTI.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9481,7 +9481,7 @@
               },
               {
                 "type": "text",
-                "text": "chiama Ben.",
+                "text": "chiama Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9846,7 +9846,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben prepara il caffè. La macchina fa un rumore forte, poi un rumore piano. Poi un odore buono nel cucina.",
+                "text": "Kevin prepara il caffè. La macchina fa un rumore forte, poi un rumore piano. Poi un odore buono nel cucina.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9868,7 +9868,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10230,7 +10230,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ben guarda il post-it sulla porta. Poi guarda la scatola sotto l'armadio.",
+                "text": "Kevin guarda il post-it sulla porta. Poi guarda la scatola sotto l'armadio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10263,7 +10263,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ben.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

@@ -31,7 +31,7 @@ format must be exact.
   stretch of narration, name them: with a tag (*dice Chiara*, *chiede Leo*, *risponde Franco*) or
   with an action of theirs in the same paragraph (*Chiara chiude gli occhi. «…»*). Leave tags out
   only in a quick back-and-forth between two people already named. A character's first thought in
-  a scene gets *pensa Ben* (or *pensa* with their name). Vary the tags; never tag every line.
+  a scene gets *pensa Kevin* (or *pensa* with their name). Vary the tags; never tag every line.
 - **Dialogue-rich, but a book:** about 45–60% of the words are inside « » or thoughts, the rest
   narration (including dialogue tags).
 - **Thoughts replace talking heads.** A character's private reactions and asides (what a sitcom
@@ -57,14 +57,14 @@ format must be exact.
 
 - Everything is in Italian. A character may drop in a single English word now and then, to help or
   for a laugh, but never a full English sentence.
-- When Ben makes a mistake in Italian, another character corrects it in the same scene. Never bold a
+- When Kevin makes a mistake in Italian, another character corrects it in the same scene. Never bold a
   mistake or make it a vocabulary item.
 - *Tu* among family, friends, kids and peers; *Lei* for shopkeepers, officials and strangers. Who
-  uses tu or Lei with whom changes over the series (Ben and Ornella start on Lei, for example): the
+  uses tu or Lei with whom changes over the series (Kevin and Ornella start on Lei, for example): the
   brief's "Where things stand" facts are binding and override any general description of a
   character. Switching from Lei to tu is a story event.
 - Chiara keeps her surname Ferri; the kids are Carter.
-- Ben is **from Columbus, Ohio**; the family **lived in Chicago** before the move. So Ben says
+- Kevin is **from Columbus, Ohio**; the family **lived in Chicago** before the move. So Kevin says
   "Sono di Columbus" or "Abitiamo a Chicago", never "Sono di Chicago". Use every character fact
   exactly as the bible gives it. Ages in the bible are at series start (September, year 1): add a
   year each September. The Carters arrived in September of year 1, so count time in Borgoverde from

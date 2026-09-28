@@ -15,7 +15,7 @@ import re
 STORY_RE = re.compile(r"^(?P<it>.+?)\s*\|\|\s*(?P<en>.+?)\s*$")
 LONE_STAR_RE = re.compile(r"(?<!\*)\*(?!\*)")
 
-# A quote never spans another « or »: «A» dice Ben. «B»{ben} must not read as one speech by Ben.
+# A quote never spans another « or »: «A» dice Kevin. «B»{ben} must not read as one speech by Kevin.
 MARK_RE = re.compile(r"«(?P<speech>[^«»]+?)»\{(?P<sid>[a-z][a-z-]*)(?:\|(?P<sd>[^}]*))?\}"
                      r"|_(?P<thought>.+?)_\{(?P<tid>[a-z][a-z-]*)(?:\|(?P<td>[^}]*))?\}")
 THOUGHT_STYLE = "thinking to themself, quiet and close"
@@ -27,7 +27,7 @@ def tidy_marks(italian):
 
 
 def mark_lone_quotes(italian):
-    """Writers often mark only the second of two quotes by one speaker on a line («A» dice Ben.
+    """Writers often mark only the second of two quotes by one speaker on a line («A» dice Kevin.
     «B»{ben}; S1E3 had 22). When a line has exactly one speaker, give unmarked quotes their mark."""
     ids = {m.group("sid") or m.group("tid") for m in MARK_RE.finditer(italian)}
     if len(ids) != 1:

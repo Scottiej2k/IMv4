@@ -14,19 +14,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Tutte hanno un'**etichetta** in inglese. | They all have a **label** in English. |
 | Chiara entra nella **cucina** con un foglio in mano. | Chiara comes into the **kitchen** with a sheet of paper in her hand. |
 | Sul foglio c'è una lista con tre parole. | On the paper there's a list with three words. |
-| Dietro di lei arriva Ben con una grande **scatola**. | Behind her comes Ben with a big **box**. |
+| Dietro di lei arriva Kevin con una grande **scatola**. | Behind her comes Kevin with a big **box**. |
 | Sulla **scatola** c'è un'**etichetta** con la parola KITCHEN. | On the **box** there's a **label** with the word KITCHEN. |
 | «Allora, Chiara. Dove metto questa **scatola**?» | “So, Chiara. Where do I put this **box**?” |
 | Chiara guarda l'**etichetta**. Poi chiude gli occhi. | Chiara looks at the **label**. Then she closes her eyes. |
-| «Ben, perché le **etichette** sono in inglese?» | “Ben, why are the **labels** in English?” |
+| «Kevin, perché le **etichette** sono in inglese?» | “Kevin, why are the **labels** in English?” |
 | «Perché l'inglese è la mia lingua!» | “Because English is my language!” |
 | «Ma adesso la lingua di questa **casa** è l'italiano.» | “But now the language of this **house** is Italian.” |
 | Chiara indica **il** **tavolo**. | Chiara points at **the** **table**. |
 | «Questo è **il** **tavolo**.» | “This is **the** **table**.” |
 | Poi indica le due **sedie** vicino alla **finestra**. | Then she points at the two **chairs** by the **window**. |
 | «Queste sono **le** **sedie**. E questa è **la** **finestra**.» | “These are **the** **chairs**. And this is **the** **window**.” |
-| «**Il** **tavolo**, **le** **sedie**, **la** **finestra**» ripete Ben. «Perfetto!» | “**The** **table**, **the** **chairs**, **the** **window**,” repeats Ben. “Perfect!” |
-| Ben guarda la **cucina** con attenzione. | Ben looks at the **kitchen** carefully. |
+| «**Il** **tavolo**, **le** **sedie**, **la** **finestra**» ripete Kevin. «Perfetto!» | “**The** **table**, **the** **chairs**, **the** **window**,” repeats Kevin. “Perfect!” |
+| Kevin guarda la **cucina** con attenzione. | Kevin looks at the **kitchen** carefully. |
 | «**La** **cucina** è **piccola**» dice. «Ma **la** **casa** è **grande**!» | “**The** **kitchen** is **small**,” he says. “But **the** **house** is **big**!” |
 | «**La** **casa** ha tre **camere**, un **bagno**, un **salotto** e un **giardino**» | “**The** **house** has three **bedrooms**, a **bathroom**, a **living room** and a **garden**,” says Chiara. |
 | «Le **camere** sono al **piano** di sopra. E **il** **giardino** è dietro **la** **porta**.» | “The **bedrooms** are on the **floor** above. And **the** **garden** is behind **the** **door**.” |
@@ -37,9 +37,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché la fronte è una **cosa**. E le **cose** hanno un nome.» | “Because the forehead is a **thing**. And **things** have a name.” |
 | «E **il** **giardino**? **Il** **giardino** ha un nome?» | “And **the** **garden**? Does **the** **garden** have a name?” |
 | «Sì! **Il** **giardino** è GIARDINO. Ma in inglese: GARDEN.» | “Yes! **The** **garden** is GIARDINO. But in English: GARDEN.” |
-| Chiara guarda Ben. Ben guarda Leo. | Chiara looks at Ben. Ben looks at Leo. |
+| Chiara guarda Kevin. Kevin guarda Leo. | Chiara looks at Kevin. Kevin looks at Leo. |
 | «Questo bambino è americano o italiano?» | “Is this child American or Italian?” |
-| «È un cittadino del mondo» dice Ben. «Come me!» | “He's a citizen of the world,” says Ben. “Like me!” |
+| «È un cittadino del mondo» dice Kevin. «Come me!» | “He's a citizen of the world,” says Kevin. “Like me!” |
 | Leo apre una **scatola**. | Leo opens a **box**. |
 | La **scatola** è **piccola**. Dentro ci sono piatti e bicchieri. | The **box** is **small**. Inside there are plates and glasses. |
 | Poi Leo vede una **sedia**. | Then Leo sees a **chair**. |
@@ -47,38 +47,38 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No, questa **sedia** è per **il** **giardino**» | “No, this **chair** is for **the** **garden**,” says Chiara. |
 | «**Il** **giardino** ha un **tavolo**?» | “Does **the** **garden** have a **table**?” asks Leo. |
 | «Sì. **Il** **tavolo** è **piccolo**, ma **il** **giardino** è **grande**.» | “Yes. **The** **table** is **small**, but **the** **garden** is **big**.” |
-| Ben mette **la** **scatola** sul **tavolo**. | Ben puts **the** **box** on **the** **table**. |
+| Kevin mette **la** **scatola** sul **tavolo**. | Kevin puts **the** **box** on **the** **table**. |
 | Adesso **il** **tavolo** è pieno di **cose**. | Now **the** **table** is full of **things**. |
 | «Perfetto. Adesso apriamo tutte le **scatole**.» | “Perfect. Now we open all the **boxes**.” |
 | «Primo: **la** **cucina**. Secondo: **il** **bagno**. Terzo: le **camere**» | “First: **the** **kitchen**. Second: **the** **bathroom**. Third: the **bedrooms**,” says Chiara. |
-| «E **il** **salotto**?» | “And **the** **living room**?” asks Ben. |
+| «E **il** **salotto**?» | “And **the** **living room**?” asks Kevin. |
 | «**Il** **salotto** è pieno di **scatole**. E anche **il** **muro** è pieno di **scatole**.» | “**The** **living room** is full of **boxes**. And **the** **wall** is full of **boxes** too.” |
-| Ben prende una **scatola** con l'**etichetta** KITCHEN. | Ben picks up a **box** with the **label** KITCHEN. |
+| Kevin prende una **scatola** con l'**etichetta** KITCHEN. | Kevin picks up a **box** with the **label** KITCHEN. |
 | «Dove metto questa **scatola**?» | “Where do I put this **box**?” he asks. |
-| «In **cucina**, Ben. **La** **cucina** è qui.» | “In **the** **kitchen**, Ben. **The** **kitchen** is here.” |
+| «In **cucina**, Kevin. **La** **cucina** è qui.» | “In **the** **kitchen**, Kevin. **The** **kitchen** is here.” |
 | «E la **scatola** con l'**etichetta** BATHROOM?» | “And the **box** with the **label** BATHROOM?” |
 | «Nel **bagno**. **Il** **bagno** è al **piano** di sopra.» | “In **the** **bathroom**. **The** **bathroom** is on the **floor** above.” |
 | «**Il** **bagno** al **piano** di sopra. Perfetto!» | “**The** **bathroom** on the **floor** above. Perfect!” |
-| «Perfetto? Ben, ci sono dieci **scatole**.» | “Perfect? Ben, there are ten **boxes**.” |
+| «Perfetto? Kevin, ci sono dieci **scatole**.» | “Perfect? Kevin, there are ten **boxes**.” |
 | Leo prende un **nuovo** **post-it**. | Leo takes a **new** **sticky note**. |
 | Scrive una parola e attacca il **post-it** al **muro**. | He writes a word and sticks the **sticky note** on the **wall**. |
 | Sul **post-it** c'è una parola: MURO. | On the **sticky note** there's a word: WALL. |
 | «Leo! Perché scrivi MURO sul **muro**?» | “Leo! Why are you writing WALL on the **wall**?” |
 | «Perché è **il** **muro**! Adesso **il** **muro** ha un nome!» | “Because it's **the** **wall**! Now **the** **wall** has a name!” |
-| Ben ride e guarda **la** **porta**. | Ben laughs and looks at **the** **door**. |
+| Kevin ride e guarda **la** **porta**. | Kevin laughs and looks at **the** **door**. |
 | «Anche **la** **porta** ha un nome?» | “Does **the** **door** have a name too?” he asks. |
 | «Sì! **La** **porta** è PORT. Ma in italiano è **la** **porta**.» | “Yes! **The** **door** is PORT. But in Italian it's **the** **door**.” |
 | Chiara scrive sulla lista. | Chiara writes on the list. |
 | «**La** **chiave** della **porta** è sul **tavolo**» | “**The** **key** of **the** **door** is on **the** **table**,” she says. |
-| «**La** **chiave**? Quale **chiave**?» | “**The** **key**? Which **key**?” asks Ben. |
+| «**La** **chiave**? Quale **chiave**?» | “**The** **key**? Which **key**?” asks Kevin. |
 | «La **chiave** è **piccola**. Ha un'**etichetta** rossa.» | “The **key** is **small**. It has a red **label**.” |
-| Ben guarda **il** **tavolo**. È pieno di **cose**. | Ben looks at **the** **table**. It's full of **things**. |
+| Kevin guarda **il** **tavolo**. È pieno di **cose**. | Kevin looks at **the** **table**. It's full of **things**. |
 | «Un **caffè** con **la macchina del caffè**. Il primo **caffè** nella **nuova** **casa**!» | “A **coffee** with **the coffee maker**. The first **coffee** in the **new** **house**!” |
 | «Quale **caffè**?» | “Which **coffee**?” asks Chiara. |
-| «Ben, dov'è **la scatola** con **la macchina del caffè**?» | “Ben, where's **the box** with **the coffee maker**?” |
-| Ben guarda le **scatole** nel **salotto**. | Ben looks at the **boxes** in the **living room**. |
+| «Kevin, dov'è **la scatola** con **la macchina del caffè**?» | “Kevin, where's **the box** with **the coffee maker**?” |
+| Kevin guarda le **scatole** nel **salotto**. | Kevin looks at the **boxes** in the **living room**. |
 | Sono dieci. Tutte con un'**etichetta**. | There are ten. All with a **label**. |
-| Il sorriso di Ben cambia. | Ben's smile changes. |
+| Il sorriso di Kevin cambia. | Kevin's smile changes. |
 | «**La macchina del caffè**… è in una **scatola**.» | “**The coffee maker**... is in a **box**.” |
 | «In quale **scatola**?» | “In which **box**?” |
 | «In una **scatola** con un'**etichetta**. COFFEE, forse.» | “In a **box** with a **label**. COFFEE, maybe.” |
@@ -157,15 +157,15 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | Nel pomeriggio suona il campanello. | In the afternoon the doorbell rings. |
-| Ben apre **la** **porta**. Davanti alla **porta** c'è Ornella Galli. | Ben opens **the** **door**. In front of **the** **door** is Ornella Galli. |
+| Kevin apre **la** **porta**. Davanti alla **porta** c'è Ornella Galli. | Kevin opens **the** **door**. In front of **the** **door** is Ornella Galli. |
 | Ha un vestito elegante e una borsa **piccola**. | She's wearing an elegant dress and a **small** bag. |
 | «Buon pomeriggio, Signor Carter.» | “Good afternoon, Mr Carter.” |
 | «Buon pomeriggio, Signora Galli!» | “Good afternoon, Mrs Galli!” |
 | «Scusi il disturbo. **Il** **gatto** è nel suo **giardino**.» | “Sorry to bother you. **The** **cat** is in your **garden**.” |
-| Ben guarda **il** **giardino** dalla **porta**. | Ben looks at **the** **garden** from **the** **door**. |
+| Kevin guarda **il** **giardino** dalla **porta**. | Kevin looks at **the** **garden** from **the** **door**. |
 | Nel **giardino** c'è un **gatto** grigio. | In **the** **garden** there's a grey **cat**. |
 | **Il** **gatto** dorme sul **tavolo** **piccolo**. | **The** **cat** is sleeping on the **small** **table**. |
-| «Ah! **Il** **gatto**!» dice Ben. «Come si chiama?» | “Ah! **The** **cat**!” says Ben. “What's his name?” |
+| «Ah! **Il** **gatto**!» dice Kevin. «Come si chiama?» | “Ah! **The** **cat**!” says Kevin. “What's his name?” |
 | «Pavarotti» dice Ornella. «È un **ospite** importante.» | “Pavarotti,” says Ornella. “He's an important **guest**.” |
 | «Un **ospite**? Ma è un **gatto**!» | “A **guest**? But he's a **cat**!” |
 | «Ai miei tempi i **gatti** sono **ospiti**. Non animali, **ospiti**.» | “In my day **cats** are **guests**. Not animals, **guests**.” |
@@ -180,11 +180,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Posso tenere **il** **gatto** in **casa**? Solo oggi?» | “Can I keep **the** **cat** in the **house**? Just today?” |
 | «Solo oggi?» | “Just today?” asks Ornella. |
 | «Sì. **Il** **gatto** è un **ospite** per un pomeriggio.» | “Yes. **The** **cat** is a **guest** for one afternoon.” |
-| Ornella guarda Ben. | Ornella looks at Ben. |
+| Ornella guarda Kevin. | Ornella looks at Kevin. |
 | «Signor Carter, per me va bene. Ma **il** **gatto** è un **ospite** speciale.» | “Mr Carter, it's fine by me. But **the** **cat** is a special **guest**.” |
 | «Un **ospite** speciale?» | “A special **guest**?” |
 | «Sì. Non tocca **il** **tavolo**, non tocca **il** **letto**, non tocca **il** **divano**.» | “Yes. He doesn't touch **the** **table**, he doesn't touch **the** **bed**, he doesn't touch **the** **sofa**.” |
-| «E dove dorme?» | “And where does he sleep?” asks Ben. |
+| «E dove dorme?» | “And where does he sleep?” asks Kevin. |
 | «Sul **divano**.» | “On the **sofa**.” |
 | Leo ride forte. | Leo laughs loudly. |
 | «**Il** **gatto** dorme sul **divano**! Come papà!» | “**The** **cat** sleeps on the **sofa**! Like Dad!” |
@@ -194,27 +194,27 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Guarda **il** **muro**, le **scatole**, **il** **tavolo** **piccolo**. | She looks at **the** **wall**, the **boxes**, the **small** **table**. |
 | «Signora Galli, la **casa** è… un caos.» | “Mrs Galli, the **house** is... chaos.” |
 | «La **casa** è **nuova** per voi» dice Ornella. «Anche per **il** **gatto**.» | “The **house** is **new** for you,” says Ornella. “For **the** **cat** too.” |
-| «La **cucina** è **piccola**» dice Ben. «E il **salotto** è pieno di **scatole**.» | “The **kitchen** is **small**,” says Ben. “And the **living room** is full of **boxes**.” |
+| «La **cucina** è **piccola**» dice Kevin. «E il **salotto** è pieno di **scatole**.» | “The **kitchen** is **small**,” says Kevin. “And the **living room** is full of **boxes**.” |
 | Ornella cammina piano nel **salotto**. | Ornella walks slowly in the **living room**. |
 | «Ai miei tempi, in questa **casa** vive una famiglia con cinque bambini.» | “In my day, a family with five children lives in this **house**.” |
 | «Cinque bambini?» | “Five children?” |
 | «Cinque. E un **gatto**.» | “Five. And a **cat**.” |
-| «E dove dormono?» | “And where do they sleep?” asks Ben. |
+| «E dove dormono?» | “And where do they sleep?” asks Kevin. |
 | «Nel **salotto**, in **cucina**, nel **giardino**…» | “In the **living room**, in the **kitchen**, in the **garden**...” |
 | «In **cucina**? Ma la **cucina** è **piccola**!» | “In the **kitchen**? But the **kitchen** is **small**!” |
 | «Appunto. Per questo **il** **salotto** è pieno di **cose**.» | “Exactly. That's why the **living room** is full of **things**.” |
-| Ben guarda la **cucina** **piccola**. | Ben looks at the **small** **kitchen**. |
+| Kevin guarda la **cucina** **piccola**. | Kevin looks at the **small** **kitchen**. |
 | Poi guarda **il** **salotto**. Poi guarda **il** **gatto**. | Then he looks at the **living room**. Then he looks at **the** **cat**. |
 | _Una **casa** **piccola**. Molti **ospiti**. E una **cucina** **piccola**._ | _A **small** **house**. Many **guests**. And a **small** **kitchen**._ |
-| «Un **caffè**, Signora Galli?» | “A **coffee**, Mrs Galli?” asks Ben. |
+| «Un **caffè**, Signora Galli?» | “A **coffee**, Mrs Galli?” asks Kevin. |
 | «Volentieri. Ma dov'è **la** **chiave** della **cucina**?» | “Gladly. But where's **the** **key** of the **kitchen**?” |
-| (Ben non risponde. **La macchina del caffè** è ancora in una **scatola**.) | (Ben doesn't answer. **The coffee maker** is still in a **box**.) |
+| (Kevin non risponde. **La macchina del caffè** è ancora in una **scatola**.) | (Kevin doesn't answer. **The coffee maker** is still in a **box**.) |
 | «Signora Galli, il **caffè**… la **scatola** con il **caffè**…» | “Mrs Galli, the **coffee**... the **box** with the **coffee**...” |
 | «Capisco. Nessun **caffè** oggi.» | “I understand. No **coffee** today.” |
 | «Il primo **caffè** nella **casa** **nuova** è per Lei. Promesso.» | “The first **coffee** in the **new** **house** is for you. Promise.” |
 | Ornella prende la borsa. | Ornella picks up her bag. |
 | «**Il** **gatto** resta qui fino a sera» dice. «Grazie, Signor Carter.» | “**The** **cat** stays here until evening,” she says. “Thank you, Mr Carter.” |
-| «Grazie a Lei, Signora Galli» dice Ben. «E… come si dice cat-sitter in italiano?» | “Thank you, Mrs Galli,” says Ben. “And... how do you say cat-sitter in Italian?” |
+| «Grazie a Lei, Signora Galli» dice Kevin. «E… come si dice cat-sitter in italiano?» | “Thank you, Mrs Galli,” says Kevin. “And... how do you say cat-sitter in Italian?” |
 | «Si dice: una persona gentile.» | “You say: a kind person.” |
 | Ornella esce e chiude **la** **porta**. | Ornella goes out and closes **the** **door**. |
 | Leo è sul **divano** con **il** **gatto**. | Leo is on the **sofa** with **the** **cat**. |
@@ -231,7 +231,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Nel pomeriggio Chiara lavora con la lista. | In the afternoon Chiara works with the list. |
 | È seduta sul **divano** in **salotto**. | She's sitting on the **divano** in the **living room**. |
 | Davanti a lei ci sono dieci **scatole**. | In front of her there are ten **boxes**. |
-| Ben entra dal **salotto** con una matita in mano. | Ben comes into the **living room** with a pencil in his hand. |
+| Kevin entra dal **salotto** con una matita in mano. | Kevin comes into the **living room** with a pencil in his hand. |
 | «Allora, Chiara. Guardiamo le **etichette**?» | “So, Chiara. Shall we look at the **labels**?” |
 | «Sì. **La** **scatola** numero uno: KITCHEN.» | “Yes. **The** **box** number one: KITCHEN.” |
 | «**La** **cucina**! Perfetto!» | “**The** **kitchen**! Perfect!” |
@@ -249,29 +249,29 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara guarda l'ultima **scatola**. | Chiara looks at the last **box**. |
 | «Numero nove: HALL. Numero dieci:… CAFFÈ?» | “Number nine: HALL. Number ten:... COFFEE?” |
 | «CAFFÈ! **La macchina del caffè**!» | “COFFEE! **The coffee maker**!” |
-| «Ben, questa **scatola** è **piccola**.» | “Ben, this **box** is **small**.” |
+| «Kevin, questa **scatola** è **piccola**.» | “Kevin, this **box** is **small**.” |
 | «**La macchina del caffè** è **piccola**? No. È **grande**.» | “Is **the coffee maker** **small**? No. It's **big**.” |
 | «Allora **la macchina del caffè** non è in questa **scatola**.» | “Then **the coffee maker** isn't in this **box**.” |
-| Ben apre la **scatola** con l'**etichetta** CAFFÈ. | Ben opens the **box** with the **label** COFFEE. |
+| Kevin apre la **scatola** con l'**etichetta** CAFFÈ. | Kevin opens the **box** with the **label** COFFEE. |
 | Dentro non c'è niente. | Inside there's nothing. |
 | «Vuota. La **scatola** è vuota.» | “Empty. The **box** is empty.” |
 | «Ma c'è un **post-it** dentro.» | “But there's a **sticky note** inside.” |
 | Sul **post-it** c'è una parola: CAFFÈ. | On the **sticky note** there's a word: COFFEE. |
-| «Questo **post-it** è di Leo» | “This **sticky note** is Leo's,” says Ben. |
+| «Questo **post-it** è di Leo» | “This **sticky note** is Leo's,” says Kevin. |
 | «Certamente. Leo è l'**ospite**… no, Leo è l'etichettatore della **casa**.» | “Certainly. Leo is the **guest**... no, Leo is the labeller of the **house**.” |
-| Ben guarda le **scatole** e pensa. | Ben looks at the **boxes** and thinks. |
+| Kevin guarda le **scatole** e pensa. | Kevin looks at the **boxes** and thinks. |
 | «Chiara, dov'è **la** **mia** **camera**?» | “Chiara, where's **my** **camera**?” |
 | Chiara alza la testa. | Chiara raises her head. |
 | «**La** **tua** **camera**?» | “**Your** **camera**?” |
 | «Sì. La macchina per le foto.» | “Yes. The machine for photos.” |
-| «Ben, in italiano **la** **camera** è una stanza!» | “Ben, in Italian **la** **camera** is a room!” |
+| «Kevin, in italiano **la** **camera** è una stanza!» | “Kevin, in Italian **la** **camera** is a room!” |
 | «Una stanza?» | “A room?” |
 | Leo arriva dal **salotto** con il **gatto** in braccio. | Leo comes into the **living room** with the **cat** in his arms. |
 | «Sì! **La** **camera** è la stanza con **il** **letto**!» | “Yes! **The** **camera** is the room with **the** **bed**!” |
-| «E la macchina per le foto?» | “And the machine for photos?” asks Ben. |
+| «E la macchina per le foto?» | “And the machine for photos?” asks Kevin. |
 | «Si dice macchina fotografica.» | “You say macchina fotografica.” |
-| «Macchina fotografica» | “Macchina fotografica,” repeats Ben. |
-| Ben prende il quaderno giallo dalla tasca. | Ben takes the yellow notebook from his pocket. |
+| «Macchina fotografica» | “Macchina fotografica,” repeats Kevin. |
+| Kevin prende il quaderno giallo dalla tasca. | Kevin takes the yellow notebook from his pocket. |
 | Scrive una parola nuova e la numera. | He writes a new word and numbers it. |
 | _Errore numero venti: **camera**. Ma una parola in più._ | _Mistake number twenty: **camera**. But one more word._ |
 | «Grazie, Leo. Buon sistema anche questo.» | “Thanks, Leo. This is a good system too.” |
@@ -282,7 +282,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Adesso guardiamo nel **giardino**. La **scatola** **grande** è là.» | “Now let's look in the **garden**. The **big** **box** is there.” |
 | «Come sai?» | “How do you know?” |
 | «Perché **la** **finestra** del **salotto** guarda **il** **giardino**. E io guardo sempre.» | “Because **the** **window** of the **living room** looks onto **the** **garden**. And I always look.” |
-| Ben guarda dalla **finestra**. | Ben looks through the **window**. |
+| Kevin guarda dalla **finestra**. | Kevin looks through the **window**. |
 | Nel **giardino** c'è una **scatola** **grande** sul **tavolo** **piccolo**. | In the **garden** there's a **big** **box** on the **small** **table**. |
 | Sulla **scatola** dorme **il** **gatto**. | On the **box** **the** **cat** is sleeping. |
 | «Il **gatto** dorme sulla **scatola**?» | “Is **the** **cat** sleeping on the **box**?” |
@@ -297,7 +297,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io?» | “Me?” |
 | «Sì. **Il** **gatto** è un **ospite** tuo.» | “Yes. **The** **cat** is your **guest**.” |
 | «E io prendo **la** **scatola**.» | “And I take **the** **box**.” |
-| «E io?» | “And me?” asks Ben. |
+| «E io?» | “And me?” asks Kevin. |
 | «Tu prendi **la macchina del caffè**. E fai un **caffè**.» | “You take **the coffee maker**. And make a **coffee**.” |
 | Leo prende **il** **gatto** in braccio. | Leo picks up **the** **cat** in his arms. |
 | Chiara apre **la** **scatola** **grande**. | Chiara opens the **big** **box**. |
@@ -308,8 +308,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì! **La** **cucina** è in inglese. **Il** **giardino** è in italiano.» | “Yes! **The** **kitchen** is in English. **The** **garden** is in Italian.” |
 | «E **la** **macchina del caffè**?» | “And **the coffee maker**?” |
 | «**La macchina del caffè** è una **cosa** importante. Quindi in italiano.» | “**The coffee maker** is an important **thing**. So in Italian.” |
-| Ben guarda Chiara. Chiara ride. | Ben looks at Chiara. Chiara laughs. |
-| «Il sistema è internazionale» | “The system is international,” says Ben. |
+| Kevin guarda Chiara. Chiara ride. | Kevin looks at Chiara. Chiara laughs. |
+| «Il sistema è internazionale» | “The system is international,” says Kevin. |
 
 ## 5. Via dei Tigli · sabato sera
 
@@ -320,13 +320,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco arriva con una busta di pomodori. | Franco arrives with a bag of tomatoes. |
 | Guarda **la** **casa**, **il** **giardino**, **la** **porta**. | He looks at **the** **house**, **the** **garden**, **the** **door**. |
 | Poi suona il campanello. | Then he rings the doorbell. |
-| Ben apre **la** **porta**. | Ben opens **the** **door**. |
+| Kevin apre **la** **porta**. | Kevin opens **the** **door**. |
 | «Buonasera» dice Franco. «Pomodori. Per Leo.» | “Good evening,” says Franco. “Tomatoes. For Leo.” |
 | «Grazie! Leo è nel **salotto**. Con **il** **gatto**.» | “Thank you! Leo is in the **living room**. With **the** **cat**.” |
 | Franco si ferma. | Franco stops. |
 | «Con **il** **gatto**?» | “With **the** **cat**?” |
 | «**Il** **gatto** della Signora Galli. Pavarotti è un **ospite**.» | “Mrs Galli's **cat**. Pavarotti is a **guest**.” |
-| Franco guarda Ben e non dice niente. | Franco looks at Ben and says nothing. |
+| Franco guarda Kevin e non dice niente. | Franco looks at Kevin and says nothing. |
 | «Mah» | “Hmm,” he says after a moment. |
 | Chiara arriva dalla **cucina**. | Chiara comes from the **kitchen**. |
 | «Papà! Ciao.» | “Dad! Hi.” |
@@ -357,12 +357,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Una **casa** in affitto con un **armadio** vecchio.» | “A rented **house** with an old **wardrobe**.” |
 | «Per adesso va bene, papà.» | “For now it's fine, Dad.” |
 | «Mah» | “Hmm,” says Franco. |
-| Ben arriva con tre tazze. | Ben comes in with three cups. |
+| Kevin arriva con tre tazze. | Kevin comes in with three cups. |
 | «Ho… ecco, io faccio il **caffè**?» | “I have... here, do I make the **coffee**?” |
 | «Il **caffè** è una **cosa** seria» dice Franco. «Non una **cosa** americana.» | “**Coffee** is a serious **thing**,” says Franco. “Not an American **thing**.” |
 | «L'americano fa il **caffè** con l'acqua» dice Chiara. «Come il tè.» | “The American makes **coffee** with water,” says Chiara. “Like tea.” |
 | «Mah» | “Hmm,” says Franco. |
-| Ben mette le tazze sul **tavolo**. | Ben puts the cups on the **table**. |
+| Kevin mette le tazze sul **tavolo**. | Kevin puts the cups on the **table**. |
 | Poi guarda Franco. | Then he looks at Franco. |
 | «La **cucina** è **piccola**, ma **il** **tavolo** è **nuovo**.» | “The **kitchen** is **small**, but the **table** is **new**.” |
 | «**Il** **tavolo** è **nuovo**» dice Franco. «**Il** **muro** è vecchio. E **il** **giardino**?» | “**The** **table** is **new**,” says Franco. “**The** **wall** is old. And **the** **garden**?” |
@@ -373,7 +373,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Va verso **la** **porta**. | He goes towards **the** **door**. |
 | «Grazie, papà» | “Thank you, Dad,” says Chiara. |
 | «Pomodori per Leo. Non per l'americano.» | “Tomatoes for Leo. Not for the American.” |
-| «Ma i pomodori sono **cosa** di famiglia» dice Ben. «Come il **caffè**!» | “But tomatoes are a family **thing**,” says Ben. “Like **coffee**!” |
+| «Ma i pomodori sono **cosa** di famiglia» dice Kevin. «Come il **caffè**!» | “But tomatoes are a family **thing**,” says Kevin. “Like **coffee**!” |
 | Franco si ferma **alla** **porta**. | Franco stops at **the** **door**. |
 | «Mah» | “Hmm,” he says. And he goes off. |
 | Chiara chiude **la** **porta**. | Chiara closes **the** **door**. |
@@ -382,7 +382,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quale **cosa**?» | “Which **thing**?” |
 | «La **casa** è **piccola** per noi. **La** **cucina**, le **camere**, l'**armadio**…» | “The **house** is **small** for us. **The** **kitchen**, the **bedrooms**, the **wardrobe**...” |
 | _E **la** **casa** è in affitto. Un giorno compriamo una **casa** **nuova**._ | _And **the** **house** is rented. One day we buy a **new** **house**._ |
-| «Anche se **il** **muro** è vecchio?» | “Even if **the** **wall** is old?” asks Ben. |
+| «Anche se **il** **muro** è vecchio?» | “Even if **the** **wall** is old?” asks Kevin. |
 | «Soprattutto per questo.» | “Especially because of that.” |
 
 ## 6. Casa Carter, Via dei Tigli 14 · domenica mattina
@@ -393,10 +393,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **Il** **gatto** non è più in **casa**. | **The** **cat** isn't in the **house** anymore. |
 | **La** **casa** è tranquilla. | **The** **house** is quiet. |
 | Sul **tavolo** della **cucina** c'è **la macchina del caffè**. | On the **table** of the **kitchen** there's **the coffee maker**. |
-| Ben entra in **cucina** e guarda la macchina. | Ben comes into the **kitchen** and looks at the machine. |
+| Kevin entra in **cucina** e guarda la macchina. | Kevin comes into the **kitchen** and looks at the machine. |
 | Sopra c'è un **post-it**. | On top there's a **sticky note**. |
 | Sul **post-it** c'è una parola: PAVAROTTI. | On the **sticky note** there's a word: PAVAROTTI. |
-| «Leo!» chiama Ben. «Perché c'è un **post-it** sulla **macchina del caffè**?» | “Leo!” calls Ben. “Why is there a **sticky note** on **the coffee maker**?” |
+| «Leo!» chiama Kevin. «Perché c'è un **post-it** sulla **macchina del caffè**?» | “Leo!” calls Kevin. “Why is there a **sticky note** on **the coffee maker**?” |
 | Leo arriva con la maglietta storta. | Leo arrives with his T-shirt crooked. |
 | «Perché Pavarotti è un **ospite** importante!» | “Because Pavarotti is an important **guest**!” |
 | «Ma **il** **gatto** non è qui. **Il** **gatto** è a **casa** sua.» | “But **the** **cat** isn't here. **The** **cat** is at his **house**.” |
@@ -408,12 +408,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**La macchina del caffè** funziona!» | “**The coffee maker** works!” |
 | «Davvero?» | “Really?” |
 | «Sì. E il primo **caffè** nella **casa** **nuova** è per te.» | “Yes. And the first **coffee** in the **new** **house** is for you.” |
-| Ben prepara il **caffè**. | Ben makes the **coffee**. |
+| Kevin prepara il **caffè**. | Kevin makes the **coffee**. |
 | La macchina fa un rumore forte, poi un rumore piano. | The machine makes a loud noise, then a quiet noise. |
 | Poi un odore buono nel **cucina**. | Then a good smell in the **kitchen**. |
-| «Perfetto!» dice Ben. «Come a Chicago!» | “Perfect!” says Ben. “Like in Chicago!” |
+| «Perfetto!» dice Kevin. «Come a Chicago!» | “Perfect!” says Kevin. “Like in Chicago!” |
 | «Meglio» | “Better,” says Chiara. She drinks the **caffè** standing. |
-| «Perché in piedi?» | “Why standing?” asks Ben. |
+| «Perché in piedi?» | “Why standing?” asks Kevin. |
 | «C'è una **sedia** sola in **cucina**.» | “There's only one **chair** in the **kitchen**.” |
 | Leo prende un **post-it** **nuovo**. | Leo takes a **new** **sticky note**. |
 | Scrive una parola e va verso **la** **porta**. | He writes a word and goes towards **the** **door**. |
@@ -425,10 +425,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Esatto!» | “Exactly!” |
 | «**La** **cucina** è in inglese. Il **giardino** è in italiano. E **la** **porta**?» | “**The** **kitchen** is in English. The **garden** is in Italian. And **the** **door**?” |
 | «In italiano. **La** **porta** è importante.» | “In Italian. **The** **door** is important.” |
-| Ben guarda **il** **post-it** sulla **porta**. | Ben looks at the **sticky note** on **the** **door**. |
+| Kevin guarda **il** **post-it** sulla **porta**. | Kevin looks at the **sticky note** on **the** **door**. |
 | Poi guarda **la** **scatola** sotto **l'armadio**. | Then he looks at the **box** under the **wardrobe**. |
 | _Un **post-it** CASA sulla **porta**. E una **scatola** ancora chiusa. Ma va bene._ | _A **sticky note** CASA on **the** **door**. And a **box** still closed. But that's fine._ |
-| «Non lo tolgo» dice Ben. «È **una** **cosa** **grande**.» | “I'm not taking it off,” says Ben. “It's a **big** **thing**.” |
+| «Non lo tolgo» dice Kevin. «È **una** **cosa** **grande**.» | “I'm not taking it off,” says Kevin. “It's a **big** **thing**.” |
 | «Che **cosa**?» | “What **thing**?” |
 | «**La** **casa**.» | “**The** **house**.” |
 | Chiara beve il **caffè** e sorride. | Chiara drinks the **coffee** and smiles. |

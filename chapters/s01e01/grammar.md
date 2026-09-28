@@ -2,7 +2,7 @@
 
 ## What it is
 
-*Essere* means "to be". It is the first verb every Italian learner meets, because it lets you do the most useful thing in a new country: say who you are, where you are from, and who everyone else is. In this chapter Ben builds his whole first day on three sentences — *Buongiorno*, *Mi chiamo Ben*, *Sono americano* — and every one of them needs *essere* or a fixed phrase built like it.
+*Essere* means "to be". It is the first verb every Italian learner meets, because it lets you do the most useful thing in a new country: say who you are, where you are from, and who everyone else is. In this chapter Kevin builds his whole first day on three sentences — *Buongiorno*, *Mi chiamo Kevin*, *Sono americano* — and every one of them needs *essere* or a fixed phrase built like it.
 
 Italian also has **subject pronouns**: *io, tu, lui, lei, Lei, noi, voi, loro*. They exist, but Italian normally leaves them out, because the verb ending already tells you who is doing the action: *sono* can only mean "I am".
 
@@ -29,7 +29,7 @@ Italian uses the pronoun only for contrast, emphasis or clarity:
 - *Sono americano.* — normal, no pronoun.
 - *Io sono americano e tu sei italiano.* — contrast: *io* against *tu*.
 
-*Lui* and *lei* mean "he" and "she". Written with a capital L, **Lei** means "you" when you speak politely to a stranger, a shopkeeper or an elderly neighbour — exactly as Ben does with Signora Galli and with Roberto Colombo.
+*Lui* and *lei* mean "he" and "she". Written with a capital L, **Lei** means "you" when you speak politely to a stranger, a shopkeeper or an elderly neighbour — exactly as Kevin does with Signora Galli and with Roberto Colombo.
 
 ### Nationalities
 
@@ -46,11 +46,11 @@ Nationality adjectives behave like other adjectives: they agree with the person.
 
 *ciao* (hi / bye, only with people you call *tu*) · *buongiorno* (until roughly mid-afternoon) · *buonasera* (from late afternoon) · *arrivederci* (goodbye, works with everyone) · *piacere* (pleased to meet you) · *benvenuto / benvenuta / benvenuti* (welcome — it agrees with the person arriving) · *grazie*, *per favore*, *scusi* (excuse me, polite).
 
-**Mi chiamo** … is the fixed way to give your name. Literally "I call myself", so no *sono*: *Mi chiamo Ben*, never *Sono Ben* when introducing yourself.
+**Mi chiamo** … is the fixed way to give your name. Literally "I call myself", so no *sono*: *Mi chiamo Kevin*, never *Sono Kevin* when introducing yourself.
 
 ## From the story
 
-«**Buongiorno**! **Mi chiamo** Ben.» — “**Good morning**! **My name is** Ben.” (`s01e01-1-073`)
+«**Buongiorno**! **Mi chiamo** Kevin.» — “**Good morning**! **My name is** Kevin.” (`s01e01-1-073`)
 Giving your name with *mi chiamo*, not with *sono*.
 
 «**Sono** **americano** e **abito** al numero quattordici.» — “**I'm** **American** and **I live** at number fourteen.” (`s01e01-1-046`)
@@ -77,12 +77,12 @@ Le luci sono accese. — The lights are on. (`s01e01-7-008`)
 ## Common mistakes English speakers make
 
 - **Dropping *essere*.** English says "I American" never, but learners still write *Io americano*. You need *sono*: *Sono americano*.
-- **Overusing *io*.** *Io sono Ben, io sono americano, io parlo...* sounds like a robot. Let the ending do the work.
+- **Overusing *io*.** *Io sono Kevin, io sono americano, io parlo...* sounds like a robot. Let the ending do the work.
 - **Forgetting agreement.** A woman says *Sono americana*; two people say *Siamo americani*.
 - **"Sono bene."** For "I'm fine" Italians say *Sto bene* or *Tutto bene*, not *sono bene*. And age uses *avere*: *Ho 41 anni*.
 - **Mixing up *tu* and *Lei*.** Use *tu* with family and friends, *Lei* with strangers and older neighbours. Writing *Lei è* with a small *l* changes the meaning to "she is".
 - **Using *ciao* with everyone.** With a person you address as *Lei*, use *buongiorno* and *arrivederci*, not *ciao*.
-- **Saying *Sono Ben* on introduction.** It's not wrong grammar, but Italians say *Mi chiamo Ben* / *Sono Ben Carter*, with the surname.
+- **Saying *Sono Kevin* on introduction.** It's not wrong grammar, but Italians say *Mi chiamo Kevin* / *Sono Kevin Carter*, with the surname.
 
 ## Practice
 

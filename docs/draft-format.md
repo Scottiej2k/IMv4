@@ -19,9 +19,9 @@ essere americano | expression | | to be American | sono americano, sei americana
 
 # SCENE via | sabato mattina | ben, ornella
 È sabato mattina in Via dei Tigli. || It's Saturday morning on Via dei Tigli.
-Ben esce di casa con un sorriso enorme. || Ben comes out of the house with a huge smile.
+Kevin esce di casa con un sorriso enorme. || Kevin comes out of the house with a huge smile.
 
-«**Ciao**!»{ben|too loud} Ben saluta la strada. «Io **sono** Ben!»{ben} || “**Hi**!” Ben greets the street. “I **am** Ben!”
+«**Ciao**!»{ben|too loud} Kevin saluta la strada. «Io **sono** Kevin!»{ben} || “**Hi**!” Kevin greets the street. “I **am** Kevin!”
 _Tre frasi. Solo tre frasi._{ben} || *Three sentences. Just three sentences.*
 
 Alla finestra del numero sedici c'è una signora elegante. || At the window of number sixteen there's an elegant lady.
@@ -30,7 +30,7 @@ Alla finestra del numero sedici c'è una signora elegante. || At the window of n
 @grammar
 # Essere: "to be"
 ...lesson in Markdown...
-From the story: [[Io sono Ben!]]
+From the story: [[Io sono Kevin!]]
 ```
 
 ## Rules
@@ -64,7 +64,7 @@ paragraph.
 - Thoughts: `_…_{id}` (shown in italics, voiced by that character quietly). The English uses `*…*`.
 - `delivery` is a short English note for the audio: `whispering`, `too loud`, `dry`, `laughing`.
   Leave it out when the delivery is ordinary. Never describe the voice itself (age, accent).
-- Everything outside `«…»` and `_…_` is narration, read by the narrator: dialogue tags (*dice Ben*),
+- Everything outside `«…»` and `_…_` is narration, read by the narrator: dialogue tags (*dice Kevin*),
   actions and descriptions.
 - `id` is a character id from `config/voices.json`. A minor character without an id (a customer, a
   stranger) uses `uomo`, `donna` or `bambino`; the narration can give their name.
@@ -78,8 +78,8 @@ span that matches no vocabulary form counts as a grammar-focus example. Bold eac
 its own span (`è **americano**`, not `**è americano**`).
 
 **Grammar lesson** (`@grammar` to the end of the file): Markdown. To quote the story, write the exact
-Italian sentence in double brackets, without bold and without the `{id}` marks: `[[«Io sono Ben!»]]`
-or just the spoken words, `[[Io sono Ben!]]`. The converter replaces it with the quote, its
+Italian sentence in double brackets, without bold and without the `{id}` marks: `[[«Io sono Kevin!»]]`
+or just the spoken words, `[[Io sono Kevin!]]`. The converter replaces it with the quote, its
 translation and its segment id.
 
 Lines starting with `//` are comments.

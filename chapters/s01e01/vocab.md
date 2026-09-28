@@ -11,7 +11,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **scusi**<br>(expr.) · excuse me (formal) | «**Scusi**. Io sono americano.» | “**Excuse me**. I am American.” |
 | **per favore**<br>(expr.) · please | «**Per favore**» dice Roberto. | “**Please**,” says Roberto. |
 | **piacere**<br>(expr.) · pleased to meet you; pleasure | «**Piacere**, Pietro» dice Leo. | “**Pleasure**, Pietro,” says Leo. |
-| **mi chiamo**<br>(expr.) · my name is | «**Mi chiamo** Ben Carter.» | “**My name is** Ben Carter.” |
+| **mi chiamo**<br>(expr.) · my name is | «**Mi chiamo** Kevin Carter.» | “**My name is** Kevin Carter.” |
 
 ## Verbs
 
@@ -31,7 +31,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **la strada**<br>(n., f) · street, road | Chiara attraversa la **strada**. | Chiara crosses the **street**. |
 | **la scuola**<br>(n., f) · school | Leo guarda la **scuola**. | Leo looks at the **school**. |
 | **la classe**<br>(n., f) · class | La **classe** è tranquilla. | The **class** is quiet. |
-| **la maestra**<br>(n., f) · primary-school teacher | «Buongiorno, **maestra**» dice Ben. | “Good morning, **teacher**,” says Ben. |
+| **la maestra**<br>(n., f) · primary-school teacher | «Buongiorno, **maestra**» dice Kevin. | “Good morning, **teacher**,” says Kevin. |
 | **l'amico**<br>(n., m) · friend | «Sì! Un **amico** nuovo» dice Leo. | “Yes! A **new** friend,” says Leo. |
 | **la finestra**<br>(n., f) · window | Ornella ride dalla **finestra**. | Ornella laughs from the **window**. |
 | **il gatto**<br>(n., m) · cat | «Il **gatto** parla?» chiede Leo. | “Does the **cat** talk?” asks Leo. |
@@ -52,8 +52,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Parola | Italiano | English |
 |---|---|---|
-| **ciao**<br>(interj.) · hi; bye | «**Ciao**, Pavarotti» dice Ben. | “**Hi**, Pavarotti,” says Ben. |
-| **buongiorno**<br>(interj.) · good morning | «**Buongiorno**, Franco!» dice Ben. | “**Good morning**, Franco!” says Ben. |
+| **ciao**<br>(interj.) · hi; bye | «**Ciao**, Pavarotti» dice Kevin. | “**Hi**, Pavarotti,” says Kevin. |
+| **buongiorno**<br>(interj.) · good morning | «**Buongiorno**, Franco!» dice Kevin. | “**Good morning**, Franco!” says Kevin. |
 | **buonasera**<br>(interj.) · good evening | «**Buonasera**, Emma» dice Chiara. | “**Good evening**, Emma,” says Chiara. |
-| **arrivederci**<br>(interj.) · goodbye | «**Arrivederci**, signora Galli!» dice Ben. | “**Goodbye**, Mrs Galli!” says Ben. |
-| **grazie**<br>(interj.) · thank you | «**Grazie**, Leo» dice Ben. | “**Thank you**, Leo,” says Ben. |
+| **arrivederci**<br>(interj.) · goodbye | «**Arrivederci**, signora Galli!» dice Kevin. | “**Goodbye**, Mrs Galli!” says Kevin. |
+| **grazie**<br>(interj.) · thank you | «**Grazie**, Leo» dice Kevin. | “**Thank you**, Leo,” says Kevin. |

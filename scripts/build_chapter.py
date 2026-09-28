@@ -407,7 +407,7 @@ def render_anki(chapter):
 # ---------------------------------------------------------------- TTS
 
 def piece_style(chapter, own, speaker=None):
-    """Short style only: the level's pace, the character's accent if any (Ben's, which fades by
+    """Short style only: the level's pace, the character's accent if any (Kevin's, which fades by
     level; the owner chose it in the casting), and the line's own delivery. Google: persona text
     (age, character) in `style` makes voices drift; it belongs in the voice itself."""
     accent = VOICES["voices"].get(speaker, {}).get("accent_by_level", {}).get(chapter["level"], "")

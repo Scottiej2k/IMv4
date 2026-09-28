@@ -20,12 +20,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il giardino**<br>(n., m) · garden | «Il **giardino** ha un tavolo?» | “Does the **garden** have a table?” asks Leo. |
 | **il muro**<br>(n., m) · wall | «Il **muro** è vecchio» | “The **wall** is old,” he says. |
 | **il salotto**<br>(n., m) · living room | Ornella cammina piano nel **salotto**. | Ornella walks slowly in the **living room**. |
-| **la porta**<br>(n., f) · door | Ben apre la **porta**. | Ben opens the **door**. |
+| **la porta**<br>(n., f) · door | Kevin apre la **porta**. | Kevin opens the **door**. |
 | **l'armadio**<br>(n., m) · wardrobe | «Leo, e la scatola nell'**armadio**?» | “Leo, and the box in the **wardrobe**?” |
 | **il divano**<br>(n., m) · sofa | Chiara si alza dal **divano**. | Chiara gets up from the **divano**. |
-| **la chiave**<br>(n., f) · key | «La **chiave**? Quale chiave?» | “The **key**? Which key?” asks Ben. |
+| **la chiave**<br>(n., f) · key | «La **chiave**? Quale chiave?» | “The **key**? Which key?” asks Kevin. |
 | **il piano**<br>(n., m) · floor, storey | «Il bagno. Al **piano** di sopra.» | “The bathroom. On the **floor** above.” |
-| **il caffè**<br>(n., m) · coffee | «Un **caffè**, Signora Galli?» | “A **coffee**, Mrs Galli?” asks Ben. |
+| **il caffè**<br>(n., m) · coffee | «Un **caffè**, Signora Galli?» | “A **coffee**, Mrs Galli?” asks Kevin. |
 | **la macchina del caffè**<br>(n., f) · coffee maker | «CAFFÈ! **La macchina del caffè**!» | “COFFEE! **The coffee maker**!” |
 | **l'etichetta**<br>(n., f) · label | Tutte hanno un'**etichetta** in inglese. | They all have a **label** in English. |
 | **il post-it**<br>(n., m) · sticky note | Sopra c'è un **post-it**. | On top there's a **sticky note**. |
@@ -38,5 +38,5 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **grande**<br>(adj.) · big | «Io voglio la finestra **grande**!» | “I want the big **window**!” |
-| **piccolo**<br>(adj.) · small | Ben guarda la cucina **piccola**. | Ben looks at the small **kitchen**. |
+| **piccolo**<br>(adj.) · small | Kevin guarda la cucina **piccola**. | Kevin looks at the small **kitchen**. |
 | **nuovo**<br>(adj.) · new | Leo prende un **nuovo** post-it. | Leo takes a **new** sticky note. |

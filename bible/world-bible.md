@@ -12,7 +12,7 @@ Companion files:
 After fifteen years in Chicago, **Chiara Ferri** moves home to **Borgoverde**, a leafy commuter town
 20 km north of Milan. She has been offered a partner position at an architecture studio in the city,
 and her widowed father, **Franco**, lives alone on the street where she grew up. With her come her
-American husband **Ben Carter**, who speaks almost no Italian, and their kids **Emma** (15) and
+American husband **Kevin Carter**, who speaks almost no Italian, and their kids **Emma** (15) and
 **Leo** (8).
 
 The family moves into the house at Via dei Tigli 14, directly across the street from Franco. Down the
@@ -26,7 +26,7 @@ something you make.
 
 ## 2. Why this cast fits a course
 
-- **Ben learns Italian as the learner does.** At A1 he orders coffee badly, and by B2 he argues at a
+- **Kevin learns Italian as the learner does.** At A1 he orders coffee badly, and by B2 he argues at a
   town council meeting. His level loosely tracks the curriculum, so simple Italian is believable in
   every A1 scene he's in.
 - **Leo (8) and the grandparents** make slow, simple, warm speech natural.
@@ -50,11 +50,11 @@ sitcom:
 | **C-runner** *(optional)* | A small running gag across 2–3 short beats, such as Franco's war on a neighbour's cat or Matteo's latest business idea. |
 | **Arc beat** | At least one beat that moves the season arc forward. |
 | **Tag** | A short, funny closing scene. |
-| **Confessionali** | *Replaced (session 3): the stories are written as a book, so these asides are now a character's thoughts inside a scene.* Short "talking head" monologues where a character speaks straight to the reader, mockumentary style. Use 2–4 per chapter. At A1 they are the easiest text in the chapter (*Mi chiamo Ben. Sono americano. Non parlo bene l'italiano.*). Location id `confessionale`. |
+| **Confessionali** | *Replaced (session 3): the stories are written as a book, so these asides are now a character's thoughts inside a scene.* Short "talking head" monologues where a character speaks straight to the reader, mockumentary style. Use 2–4 per chapter. At A1 they are the easiest text in the chapter (*Mi chiamo Kevin. Sono americano. Non parlo bene l'italiano.*). Location id `confessionale`. |
 
-**Who the stories follow, by level.** Season 1 leans on Ben, and often Leo, as the way in, but every
+**Who the stories follow, by level.** Season 1 leans on Kevin, and often Leo, as the way in, but every
 chapter still runs at least two storylines across the ensemble. From Season 2 the A-plot rotates
-freely, and some episodes barely feature Ben. By B2, any pairing of characters can carry an episode.
+freely, and some episodes barely feature Kevin. By B2, any pairing of characters can carry an episode.
 
 ## 4. Tone
 
@@ -62,7 +62,7 @@ freely, and some episodes barely feature Ben. By B2, any pairing of characters c
   misunderstandings), never from humiliating anyone.
 - **Family-friendly:** no graphic content, no swearing beyond mild exclamations (*Accidenti!*,
   *Mamma mia!*, *Che palle*, used sparingly by teens).
-- Real feelings underneath: Chiara's grief for her mother, Franco's loneliness, Ben's lost sense of
+- Real feelings underneath: Chiara's grief for her mother, Franco's loneliness, Kevin's lost sense of
   competence, Emma's longing to belong, Nadia's balance between two cultures.
 - Italy as it is today: commuter trains, WhatsApp groups, bureaucracy, a multicultural Milan area,
   the bar as a social hub, Sunday lunch as sacred.
@@ -72,13 +72,13 @@ freely, and some episodes barely feature Ben. By B2, any pairing of characters c
 1. **Standard Italian only.** Colloquial phrases, idioms and proverbs are encouraged. No dialect.
    Lucia is Neapolitan-born but speaks standard Italian; her origin shows in warmth and food, not in
    dialect words.
-2. **Ben's mistakes are always corrected on the page.** When Ben gets something wrong, another
+2. **Kevin's mistakes are always corrected on the page.** When Kevin gets something wrong, another
    character corrects it, or the narration points it out, in the same scene. A mistake is never a
    bolded focus item and never appears in the vocabulary list. Learners must never learn the error.
 3. **Everything is in Italian.** All dialogue and narration are written in Italian, including
-   conversations between Ben and Chiara, with no comment on what language they'd "really" be
+   conversations between Kevin and Chiara, with no comment on what language they'd "really" be
    speaking. Characters occasionally drop in a single English word or short phrase to be helpful
-   (Ben: *"Come si dice… 'snack'?"*) or funny, never a full English sentence.
+   (Kevin: *"Come si dice… 'snack'?"*) or funny, never a full English sentence.
 4. **Tu and Lei:** family, friends, kids and peers use *tu*. Ornella, Roberto (at first), shopkeepers
    and officials use *Lei*. Switching from *Lei* to *tu* is a story event, marked on screen
    (*Diamoci del tu*).
@@ -115,9 +115,9 @@ Christmas and Befana, Carnevale, Easter and Pasquetta, 25 aprile, Ferragosto, an
   children. Her kitchen at Via dei Tigli 9 is untouched.
 - **Franco** drove trams in Milan for 35 years. He is a lifelong **AC Milan** fan.
   **Matteo** supports **Inter**, and this is a running family war.
-- **Chiara** left for Chicago at 25 on a scholarship, met Ben at a friend's barbecue and stayed.
+- **Chiara** left for Chicago at 25 on a scholarship, met Kevin at a friend's barbecue and stayed.
   She visited every summer, so Emma speaks good Italian and Leo speaks it with an accent.
-  **Ben** has been to Italy four times and never learned more than *ciao* and *grazie*.
+  **Kevin** has been to Italy four times and never learned more than *ciao* and *grazie*.
 - **Matteo** bought **Bar Tigli** two years ago from Ornella after her husband **Gino** died. Gino
   ran it for 40 years. Matteo borrowed part of the money from Franco, and neither of them mentions it.
 - **Unknown to his children**, Franco has been seeing **Lucia**, whom he met at her ballroom dance
@@ -127,12 +127,12 @@ Christmas and Befana, Carnevale, Easter and Pasquetta, 25 aprile, Ferragosto, an
 
 These are the dependable sources of plot, useful when outlining episodes:
 
-- Ben vs Italian daily life: bureaucracy, the bar, the market, school gates, dinner-table rules.
-- Ben vs Franco, the son-in-law nobody asked for, slowly becoming a son.
+- Kevin vs Italian daily life: bureaucracy, the bar, the market, school gates, dinner-table rules.
+- Kevin vs Franco, the son-in-law nobody asked for, slowly becoming a son.
 - Matteo's schemes to save or grow the bar, with Nadia as the voice of reason.
 - Roberto's committee rules against everyone.
 - Emma's school, friendships and first love (Tommaso, Roberto's son: a Romeo-and-Juliet setup across
   a hedge).
 - Leo's questions, friendships and small disasters.
 - Ornella as the street's memory and conscience.
-- Food as love, war and identity: Sunday lunch, Ben's American cooking, Anna's recipes.
+- Food as love, war and identity: Sunday lunch, Kevin's American cooking, Anna's recipes.

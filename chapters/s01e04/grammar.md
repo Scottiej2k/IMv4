@@ -56,7 +56,7 @@ The choice depends only on what comes **after**: one thing → *c'è*; more than
 
 ## Common mistakes English speakers make
 
-- **Forgetting the article.** English says "I need bread", but Italian needs *un chilo di pane* or *del pane*. In this chapter, Ben's *Un pane!* is exactly this mistake: the baker corrects him.
+- **Forgetting the article.** English says "I need bread", but Italian needs *un chilo di pane* or *del pane*. In this chapter, Kevin's *Un pane!* is exactly this mistake: the baker corrects him.
 - **Using *un* with feminine nouns.** *Un chiesa* is wrong; it's *una chiesa*. And *una amica* is wrong; it's *un'amica*.
 - **Mixing up *c'è* and *ci sono*.** If the noun is plural, use *ci sono*, even if the group feels like one thing: *ci sono due negozi*, not *c'è due negozi*.
 - **Adding *di* after *c'è*.** English "there is a bar *in* the square" is *c'è un bar in piazza* — no extra *di*.

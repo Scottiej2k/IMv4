@@ -30,8 +30,8 @@
       "grammar": { "id": "g-congiuntivo-will", "name": "Subjunctive after will and desire", "scope": "volere che, preferire che, sperare che, desiderare che, chiedere che; same subject → infinitive vs different subject → che + subjunctive" },
       "theme": "Job offers, careers, international moves",
       "key_vocab": ["l'offerta", "la proposta di lavoro", "lo stipendio", "il trasferimento", "vogliono che", "spero che", "preferisco che", "il contratto", "la sede", "la promozione"],
-      "a_plot": "An email from Chicago: Ben's old company wants him back as marketing director. Double the salary, a house, a car. They want him to start in March.",
-      "b_plot": "Ben doesn't tell anyone. He tells Ornella, who tells him she hopes he tells Chiara tonight.",
+      "a_plot": "An email from Chicago: Kevin's old company wants him back as marketing director. Double the salary, a house, a car. They want him to start in March.",
+      "b_plot": "Kevin doesn't tell anyone. He tells Ornella, who tells him she hopes he tells Chiara tonight.",
       "arc": "TENTPOLE: the Chicago offer arrives."
     },
     {
@@ -40,7 +40,7 @@
       "grammar": { "id": "g-congiuntivo-emotion", "name": "Subjunctive after emotions", "scope": "essere contento/felice/triste che, avere paura che, dispiacere che, temere che, stupirsi che; same-subject infinitive (ho paura di partire)" },
       "theme": "Feelings, family reactions, fear of change",
       "key_vocab": ["avere paura che", "mi dispiace che", "sono felice che", "temere", "la reazione", "la paura", "sconvolto", "deluso", "sorpreso", "commosso"],
-      "a_plot": "Ben tells the family. Chiara is proud and terrified; Emma is furious that she's being asked to leave again; Leo is excited about Chicago. Franco says nothing, and leaves.",
+      "a_plot": "Kevin tells the family. Chiara is proud and terrified; Emma is furious that she's being asked to leave again; Leo is excited about Chicago. Franco says nothing, and leaves.",
       "b_plot": "Franco goes to the cemetery and talks to Anna about 'l'americano'. He's afraid he'll lose his grandchildren, and his son.",
       "arc": "The family reacts. Franco's fear."
     },
@@ -50,9 +50,9 @@
       "grammar": { "id": "g-congiuntivo-impersonal", "name": "Subjunctive after impersonal expressions", "scope": "è importante che, è necessario che, bisogna che, è meglio che, è possibile che, è normale che; with infinitive when general" },
       "theme": "Decisions, pros and cons",
       "key_vocab": ["è meglio che", "è importante che", "bisogna che", "è possibile che", "i pro", "i contro", "la decisione", "valutare", "il rischio", "la lista"],
-      "a_plot": "Chiara and Ben make a list of pros and cons on the kitchen wall. The whole family adds items, including Franco, secretly, at night.",
-      "b_plot": "Roberto asks Ben to be his campaign manager: 'È importante che la campagna sia moderna.' Ben is the only marketing expert on the street.",
-      "arc": "Ben becomes Roberto's campaign manager."
+      "a_plot": "Chiara and Kevin make a list of pros and cons on the kitchen wall. The whole family adds items, including Franco, secretly, at night.",
+      "b_plot": "Roberto asks Kevin to be his campaign manager: 'È importante che la campagna sia moderna.' Kevin is the only marketing expert on the street.",
+      "arc": "Kevin becomes Roberto's campaign manager."
     },
     {
       "id": "s05e06", "level": "B1",
@@ -80,7 +80,7 @@
       "grammar": { "id": "g-congiuntivo-passato", "name": "Congiuntivo passato", "scope": "formation (abbia fatto, sia andato); past actions after verbs requiring the subjunctive; time relations present/past" },
       "theme": "Accidents, the elderly, the health system",
       "key_vocab": ["cadere", "il femore", "l'operazione", "il ricovero", "la badante", "l'assistenza", "la riabilitazione", "sola", "anziana", "il pronto soccorso"],
-      "a_plot": "Ornella doesn't open her shutters one morning. Ben breaks in: she has fallen and broken her hip. At the hospital, everyone wonders how long she's been on the floor.",
+      "a_plot": "Ornella doesn't open her shutters one morning. Kevin breaks in: she has fallen and broken her hip. At the hospital, everyone wonders how long she's been on the floor.",
       "b_plot": "Ornella's only relative, a niece in Genoa, thinks it's time Ornella moved into a care home. The street disagrees.",
       "arc": "TENTPOLE: Ornella's fall."
     },
@@ -100,8 +100,8 @@
       "grammar": { "id": "g-congiuntivo-imperfetto", "name": "Congiuntivo imperfetto: forms", "scope": "regular forms; irregular fossi, dessi, stessi, facessi, dicessi, bevessi; after past-tense main verbs (volevo che, pensavo che); se fossi in te" },
       "theme": "Wishes, advice, imagining another life",
       "key_vocab": ["se fossi in te", "volevo che", "pensavo che", "credevo che", "immaginare", "il desiderio", "la vita", "diverso", "l'illusione", "la nostalgia"],
-      "a_plot": "Ben's old friend Mike from Chicago visits and paints a picture of the life Ben could have. Ben catches himself defending Borgoverde.",
-      "b_plot": "Chiara admits to Nadia that she wanted Ben to say no immediately, and she never thought she would feel that.",
+      "a_plot": "Kevin's old friend Mike from Chicago visits and paints a picture of the life Kevin could have. Kevin catches himself defending Borgoverde.",
+      "b_plot": "Chiara admits to Nadia that she wanted Kevin to say no immediately, and she never thought she would feel that.",
       "arc": "Chicago dilemma deepens."
     },
     {
@@ -140,7 +140,7 @@
       "grammar": { "id": "g-relative-subjunctive", "name": "Subjunctive in relative clauses", "scope": "cerco qualcuno che sappia, non c'è nessuno che possa, l'unico che + subjunctive; contrast with indicative for real people" },
       "theme": "Job ads, hiring, caregiving",
       "key_vocab": ["cercasi", "l'annuncio", "il requisito", "l'esperienza", "affidabile", "il colloquio", "la badante", "assumere", "il turno", "part-time"],
-      "a_plot": "Matteo needs a barista who can do everything Ben does, 'nel caso' Ben leaves. He writes an ad; the candidates are a disaster.",
+      "a_plot": "Matteo needs a barista who can do everything Kevin does, 'nel caso' Kevin leaves. He writes an ad; the candidates are a disaster.",
       "b_plot": "Ornella needs a carer. She interviews them like a prosecutor and hires Irina, a Ukrainian nurse, who has a sense of humour.",
       "runner": "New recurring character: Irina."
     },
@@ -151,7 +151,7 @@
       "theme": "Memories, reviews, the best and the worst",
       "key_vocab": ["il migliore che", "il più bello che", "l'unico che", "mai", "la recensione", "le stelle", "il ricordo", "indimenticabile", "il momento", "la foto"],
       "a_plot": "Leo's school project: 'The best day of my life'. He interviews the whole family, and all their best days happened in Borgoverde.",
-      "b_plot": "Ben writes a review of Bar Tigli as a joke ('Il peggior caffè che abbia mai bevuto: 5 stelle') and it goes viral locally.",
+      "b_plot": "Kevin writes a review of Bar Tigli as a joke ('Il peggior caffè che abbia mai bevuto: 5 stelle') and it goes viral locally.",
       "arc": "The answer starts to reveal itself."
     },
     {
@@ -170,8 +170,8 @@
       "grammar": { "id": "g-opinion-debate", "name": "Expressing agreement and disagreement", "scope": "sono d'accordo / non sono d'accordo, hai ragione ma..., non è detto che + subjunctive, dal mio punto di vista, al contrario, invece; turn-taking in debate" },
       "theme": "Debate, the final election debate",
       "key_vocab": ["sono d'accordo", "non è detto che", "al contrario", "dal mio punto di vista", "l'argomento", "convincere", "ribattere", "il moderatore", "interrompere", "rispettare"],
-      "a_plot": "The final debate before the election, broadcast on local TV. Ben coaches Roberto; Matteo improvises; the mayor is untouchable.",
-      "b_plot": "Emma wins her school debate by arguing for staying. Ben watches the video and cries.",
+      "a_plot": "The final debate before the election, broadcast on local TV. Kevin coaches Roberto; Matteo improvises; the mayor is untouchable.",
+      "b_plot": "Emma wins her school debate by arguing for staying. Kevin watches the video and cries.",
       "arc": "Election climax."
     },
     {
@@ -180,7 +180,7 @@
       "grammar": { "id": "g-formal-complaints", "name": "Formal letters: complaints and requests", "scope": "structure of formal complaints; expressions (con la presente, sono a segnalare, La prego di, distinti saluti); formal register and subjunctive" },
       "theme": "Citizens' rights, complaints, local services",
       "key_vocab": ["con la presente", "segnalare", "il disservizio", "la segnalazione", "La prego di", "distinti saluti", "il cittadino", "il diritto", "il marciapiede", "l'accessibilità"],
-      "a_plot": "Ornella, in a wheelchair for now, can't get down the pavement of Via dei Tigli. Ben, Roberto and Ornella write a formal complaint to the mayor, which becomes a campaign issue.",
+      "a_plot": "Ornella, in a wheelchair for now, can't get down the pavement of Via dei Tigli. Kevin, Roberto and Ornella write a formal complaint to the mayor, which becomes a campaign issue.",
       "b_plot": "Lucia writes a formal complaint to the tram company about Franco's pension. Franco thinks it's hopeless. It isn't.",
       "arc": "Ornella's accessibility becomes the election's local issue."
     },
@@ -201,8 +201,8 @@
       "theme": "Election night, results, winning and losing",
       "key_vocab": ["i voti", "lo spoglio", "la percentuale", "la maggioranza", "superare", "aumentare", "diminuire", "eletto", "il seggio", "la sconfitta"],
       "a_plot": "Election night at Bar Tigli, with results on TV and every vote counted. Roberto is elected councillor with 11 votes to spare. Matteo gets 94 votes, 'more than I expected'.",
-      "b_plot": "Roberto thanks Ben in public, using 'tu' for the first time.",
-      "arc": "TENTPOLE: Roberto elected. Ben–Roberto friendship."
+      "b_plot": "Roberto thanks Kevin in public, using 'tu' for the first time.",
+      "arc": "TENTPOLE: Roberto elected. Kevin–Roberto friendship."
     },
     {
       "id": "s05e21", "level": "B1",
@@ -211,7 +211,7 @@
       "theme": "Gratitude, caregiving, returning home",
       "key_vocab": ["essere grato", "ringraziare", "la gratitudine", "prendersi cura di", "il deambulatore", "tornare a casa", "l'autonomia", "farcela da sola", "aiutare", "la vicina"],
       "a_plot": "Ornella comes home for good. The street has built a ramp (Roberto's first act as councillor). She thanks everyone, each in a different way.",
-      "b_plot": "Chiara must answer Chicago this week. She and Ben go for a long walk to the old plane tree in the park.",
+      "b_plot": "Chiara must answer Chicago this week. She and Kevin go for a long walk to the old plane tree in the park.",
       "arc": "Ornella home. The decision approaches."
     },
     {
@@ -230,9 +230,9 @@
       "grammar": { "id": "g-verbs-changing-meaning", "name": "Verbs that change meaning with prepositions", "scope": "pensare a / pensare di; credere a / credere in / credere di; tenere a; parlare di / parlare con; servire a / servire da; convenire" },
       "theme": "Values, beliefs, what matters",
       "key_vocab": ["pensare a", "pensare di", "credere in", "credere a", "tenere a", "i valori", "l'identità", "la comunità", "le radici", "importante"],
-      "a_plot": "Emma asks Ben what he believes in. His answer, in fluent Italian, surprises both of them.",
+      "a_plot": "Emma asks Kevin what he believes in. His answer, in fluent Italian, surprises both of them.",
       "b_plot": "Franco, who always said he believed only in Milan and tomatoes, confesses to Lucia what he really believes in.",
-      "arc": "Ben's decision, felt before it's spoken."
+      "arc": "Kevin's decision, felt before it's spoken."
     },
     {
       "id": "s05e24", "level": "B1",
@@ -240,7 +240,7 @@
       "grammar": { "id": "g-congiuntivo-review", "name": "Review: the subjunctive", "scope": "all uses of congiuntivo presente/passato/imperfetto; che ... o che; subjunctive vs indicative vs infinitive" },
       "theme": "Farewells, decisions, love",
       "key_vocab": ["che tu resti", "o che tu parta", "decidere", "l'ultima parola", "comunque vada", "restare", "partire", "la paura", "il coraggio", "la scelta"],
-      "a_plot": "Franco finally speaks to Ben alone, in the orto: whether he stays or goes, he's family. It's what Ben needed to hear to decide.",
+      "a_plot": "Franco finally speaks to Kevin alone, in the orto: whether he stays or goes, he's family. It's what Kevin needed to hear to decide.",
       "b_plot": "Emma and Leo write their parents a letter with their own vote.",
       "arc": "The decision is made off-screen."
     },
@@ -250,7 +250,7 @@
       "grammar": { "id": "g-review-b1", "name": "B1 review", "scope": "Consolidation of B1: all subjunctive uses, hypotheticals I–II, future and conditional, past system, formal writing, opinion and debate" },
       "theme": "Home, belonging, identity",
       "key_vocab": ["casa", "appartenere", "l'appartenenza", "sentirsi a casa", "rifiutare", "l'offerta", "la famiglia", "il quartiere", "scegliere", "il futuro"],
-      "a_plot": "Ben calls Chicago with the whole family listening at the kitchen door. He declines: 'Casa mia è qui.' Then he goes to the bar, where the whole street is waiting.",
+      "a_plot": "Kevin calls Chicago with the whole family listening at the kitchen door. He declines: 'Casa mia è qui.' Then he goes to the bar, where the whole street is waiting.",
       "b_plot": "Carnevale party at the Centro civico: Roberto's first speech as councillor, and Ornella dances (sitting down).",
       "arc": "SEASON FINALE: the Carters stay. End of B1."
     }

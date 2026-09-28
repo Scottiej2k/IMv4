@@ -98,6 +98,8 @@ mark.v { background: none; color: inherit; font-weight: 700; }
 .pbar .play { background: var(--accent); color: var(--surface); border-color: var(--accent); font-weight: 600; min-width: 92px; }
 .pbar .play:hover { background: var(--accent); opacity: .9; }
 .pbar .msg { flex: 1 1 220px; }
+.pbar .speed { display: inline-flex; gap: 6px; align-items: center; }
+.pbar select { font: inherit; font-size: 13px; padding: 5px 6px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
 .fmtnote { font-size: 13px; color: var(--warn); background: var(--warn-soft); padding: 6px 10px; border-radius: 6px; max-width: 64ch; margin-bottom: 12px; }
 
 /* Side by side */
@@ -446,7 +448,7 @@ td .ext { color: var(--muted); font-size: 13px; }
     u.lang = "it-IT";
     if (P.voice) u.voice = P.voice;
     const level = INDEX.chapters.find((x) => x.id === cur).level;
-    u.rate = { A1: 0.85, A2: 0.9, B1: 1, B2: 1 }[level] || 1;
+    u.rate = ({ A1: 0.85, A2: 0.9, B1: 1, B2: 1 }[level] || 1) * speed();
     u.pitch = pitchFor(it.who);
     P.boundary = false;
     u.onstart = () => {
@@ -490,8 +492,13 @@ td .ext { color: var(--muted); font-size: 13px; }
     if (P.playing) A.raf = requestAnimationFrame(tick);
   }
   const clock = (t) => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, "0")} / ${Math.floor(data.timing.duration / 60)}:${String(Math.floor(data.timing.duration % 60)).padStart(2, "0")}`;
+  // Playback speed: per learner, kept in the browser; the voice keeps its pitch and the underline
+  // follows the audio clock, so it stays in step at any speed.
+  const speed = () => +store.get("speed", 1) || 1;
   function audioPlay(t) {
     audioInit();
+    A.el.playbackRate = speed();
+    A.el.preservesPitch = true;
     A.el.currentTime = Math.max(0, t);
     seekPtr(A.el.currentTime);
     P.playing = true;
@@ -523,7 +530,9 @@ td .ext { color: var(--muted); font-size: 13px; }
       ? `<span id="ptime">${clock(pos)}</span> · Voices: ${esc(data.timing.voices)}`
       : "Demo voice: your browser's Italian voice. The finished course uses the Gemini voices, with the same underlining.";
     return `<div class="pbar" id="pbar"><button class="play" data-act="toggle">${P.playing ? "Pause" : "▶ Play"}</button>${resume}
-      <button data-act="clear">Clear underlines</button><span class="msg" id="pmsg">${msg}</span></div>`;
+      <button data-act="clear">Clear underlines</button>
+      <label class="speed">Speed <select id="p-speed">${[0.75, 1, 1.25, 1.5].map((r) => `<option value="${r}"${r === speed() ? " selected" : ""}>${r}×</option>`).join("")}</select></label>
+      <span class="msg" id="pmsg">${msg}</span></div>`;
   }
   function updateBar(msg) {
     const bar = $("pbar"); if (!bar) return;
@@ -570,6 +579,11 @@ td .ext { color: var(--muted); font-size: 13px; }
   });
   document.addEventListener("change", (e) => {
     if (e.target.id === "pick") open(e.target.value);
+    if (e.target.id === "p-speed") {
+      store.set("speed", +e.target.value);
+      if (A.el) A.el.playbackRate = +e.target.value;
+      return;
+    }
     if (e.target.id === "only-written") { store.set("only", e.target.checked); renderList(); }
     if (e.target.id === "t-en") { store.set("show-en", e.target.checked); $("story").classList.toggle("show-en", e.target.checked); }
     if (e.target.id === "t-style") { store.set("show-style", e.target.checked); $("ttsbox").classList.toggle("show-style", e.target.checked); }

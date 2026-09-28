@@ -6,9 +6,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Via dei Tigli · sabato mattina
 
-È sabato mattina in Via dei Tigli. Ben esce di casa con il quaderno giallo. Leo è con Ben. Davanti al **cancello** c'è un **avviso**. L'avviso è bianco e piccolo. Ben **guarda** l'avviso e si ferma.
+È sabato mattina in Via dei Tigli. Kevin esce di casa con il quaderno giallo. Leo è con Kevin. Davanti al **cancello** c'è un **avviso**. L'avviso è bianco e piccolo. Kevin **guarda** l'avviso e si ferma.
 
-«Allora... **Avviso**... Comitato...» legge Ben. «Tre parole. Forse quattro.»
+«Allora... **Avviso**... Comitato...» legge Kevin. «Tre parole. Forse quattro.»
 
 Leo prende l'avviso in mano. «Il Comitato di quartiere informa i **vicini**...» dice Leo. «Che cos'è un **avviso**?» chiede.
 
@@ -20,7 +20,7 @@ Leo prende l'avviso in mano. «Il Comitato di quartiere informa i **vicini**...�
 
 _Tre parole su dieci._ _E due settimane in Italia._ _Io non conosco la **strada**._
 
-Ben apre il quaderno giallo. «Leo, facciamo una **mappa**.»
+Kevin apre il quaderno giallo. «Leo, facciamo una **mappa**.»
 
 «Una **mappa**?»
 
@@ -96,7 +96,7 @@ Roberto indica la **strada**. «Sempre dritto.»
 
 «Perfetto per la **mappa**.»
 
-«La **mappa**. Certo.» Roberto **guarda** Ben per tre secondi. «Il **Bar** Tigli è al numero due, signor Carter.»
+«La **mappa**. Certo.» Roberto **guarda** Kevin per tre secondi. «Il **Bar** Tigli è al numero due, signor Carter.»
 
 «Ah. Numero due. Sulla mia **strada**.» Roberto va via senza salutare. «Un **vicino** simpatico.»
 
@@ -110,11 +110,11 @@ Roberto indica la **strada**. «Sempre dritto.»
 
 Leo è ancora con l'avviso in mano. «Papà, io voglio una **mappa** anch'io.»
 
-«**Perfetto**!» dice Ben. «Allora, **camminiamo**!»
+«**Perfetto**!» dice Kevin. «Allora, **camminiamo**!»
 
 ## 2. Piazza della Chiesa · sabato mattina
 
-Ben e Leo **camminano** sulla **strada**. Sono a dieci minuti da casa. Ben **guarda** il quaderno giallo. Sul quaderno c'è la **mappa**. «Papà, io conto i passi.» dice Leo. «Uno, due, tre, quattro...»
+Kevin e Leo **camminano** sulla **strada**. Sono a dieci minuti da casa. Kevin **guarda** il quaderno giallo. Sul quaderno c'è la **mappa**. «Papà, io conto i passi.» dice Leo. «Uno, due, tre, quattro...»
 
 «Quanti passi?»
 
@@ -122,17 +122,17 @@ Ben e Leo **camminano** sulla **strada**. Sono a dieci minuti da casa. Ben **gua
 
 «Ventidue passi. Bello.»
 
-Poi la **strada** finisce. Davanti a Ben e Leo c'è la **piazza**. La **piazza** è grande e c'è il sole. «Ecco la **piazza**!»
+Poi la **strada** finisce. Davanti a Kevin e Leo c'è la **piazza**. La **piazza** è grande e c'è il sole. «Ecco la **piazza**!»
 
 «Bella!» In **piazza** **c'è** una **chiesa**. La **chiesa** è alta e antica.
 
-«**C'è** una **chiesa**.» scrive Ben.
+«**C'è** una **chiesa**.» scrive Kevin.
 
 «Quanti scalini?» Leo **guarda** la **chiesa**. «Uno, due, tre, cinque, otto...»
 
 «Otto scalini?»
 
-«Otto. Ma sono grandi.» Ben disegna la **chiesa** sulla **mappa**. «Disegni bene, papà.»
+«Otto. Ma sono grandi.» Kevin disegna la **chiesa** sulla **mappa**. «Disegni bene, papà.»
 
 «Grazie. Sono **un** artista.»
 
@@ -144,7 +144,7 @@ Davanti alla **chiesa** **c'è** una **fontana**. La **fontana** è piccola e c'
 
 «Lì. Con le porte grandi.»
 
-Ben **guarda** la banca. «Hai ragione. **C'è** **una** banca.»
+Kevin **guarda** la banca. «Hai ragione. **C'è** **una** banca.»
 
 «E **c'è** **un** **negozio**.»
 
@@ -184,7 +184,7 @@ Leo si ferma. «No, papà. **Ci sono**. **Ci sono** due **negozi**.»
 
 «Prego!»
 
-Ben **cerca** le parole nel quaderno. «Adesso **cerchiamo** il **parco**.»
+Kevin **cerca** le parole nel quaderno. «Adesso **cerchiamo** il **parco**.»
 
 «**Dov'è** il **parco**?»
 
@@ -202,7 +202,7 @@ Ben **cerca** le parole nel quaderno. «Adesso **cerchiamo** il **parco**.»
 
 «Esatto!»
 
-Leo **guarda** la **mappa** di Ben. «La **mappa** è bella. Ma è piccola.»
+Leo **guarda** la **mappa** di Kevin. «La **mappa** è bella. Ma è piccola.»
 
 «È piccola adesso.» Sulla **mappa** ci sono la **piazza**, la **chiesa**, la **fontana**, la banca, **un** **negozio**, **un** **bar**, **una** **fermata**.
 
@@ -220,7 +220,7 @@ Leo **guarda** la **mappa** di Ben. «La **mappa** è bella. Ma è piccola.»
 
 Leo ride. «Papà, tu **cerchi** sempre il pane.»
 
-Ben **guarda** la **piazza** con attenzione. _Ventidue passi da casa._ _E io non conosco la **piazza**._ _Sono **un** turista nella mia città._ _E non mi piace._ «Leo, dobbiamo **camminare** molto oggi.»
+Kevin **guarda** la **piazza** con attenzione. _Ventidue passi da casa._ _E io non conosco la **piazza**._ _Sono **un** turista nella mia città._ _E non mi piace._ «Leo, dobbiamo **camminare** molto oggi.»
 
 «Va bene. Ho le scarpe giuste.»
 
@@ -244,13 +244,13 @@ Ben **guarda** la **piazza** con attenzione. _Ventidue passi da casa._ _E io non
 
 ## 3. panificio · sabato mattina
 
-Ben e Leo **camminano** ancora. A sinistra della **piazza** **c'è** **un** **negozio** con un profumo buono. «Profumo di pane!» dice Leo.
+Kevin e Leo **camminano** ancora. A sinistra della **piazza** **c'è** **un** **negozio** con un profumo buono. «Profumo di pane!» dice Leo.
 
 «**Pane**. Questa parola la conosco.»
 
 «Anch'io!» Sulla porta **c'è** **una** parola: **PANIFICIO**.
 
-«**Panificio**.» legge Ben.
+«**Panificio**.» legge Kevin.
 
 «Che cos'è **un** **panificio**?»
 
@@ -274,7 +274,7 @@ Dentro il **panificio** c'è **un** uomo. L'uomo è dietro il banco. Ha le mani 
 
 «La **mappa**?»
 
-Ben apre il quaderno giallo. «**Una** **mappa** di Borgoverde.» L'uomo **guarda** la **mappa** e ride. «**C'è** **una** **piazza** e **c'è** **una** chiesa.»
+Kevin apre il quaderno giallo. «**Una** **mappa** di Borgoverde.» L'uomo **guarda** la **mappa** e ride. «**C'è** **una** **piazza** e **c'è** **una** chiesa.»
 
 «E **c'è** **una** fontana!»
 
@@ -320,7 +320,7 @@ Ben apre il quaderno giallo. «**Una** **mappa** di Borgoverde.» L'uomo **guard
 
 «Allora, signore, che cosa prende?» chiede l'uomo.
 
-«**Un** pane!» L'uomo **guarda** Ben per **un** momento.
+«**Un** pane!» L'uomo **guarda** Kevin per **un** momento.
 
 «**Un** pane?»
 
@@ -332,7 +332,7 @@ Ben apre il quaderno giallo. «**Una** **mappa** di Borgoverde.» L'uomo **guard
 
 «Perfetto.»
 
-Ben scrive nel quaderno. «**Pane**. E chilo.»
+Kevin scrive nel quaderno. «**Pane**. E chilo.»
 
 «Papà, scrivi anche **panificio**.»
 
@@ -370,7 +370,7 @@ Leo **guarda** la **mappa** nuova. «Papà, ora **camminiamo** a destra o a sini
 
 Dopo il **panificio** **c'è** **una** **farmacia**. La **farmacia** è grande e bianca. Sulla porta **c'è** **una** croce verde. Dentro **c'è** **una** signora con il camice bianco. È Nadia, la fidanzata di Matteo. «Ciao, Nadia!» dice Leo.
 
-«Ciao, Leo. Ciao, Ben.»
+«Ciao, Leo. Ciao, Kevin.»
 
 «Ciao! Noi **cerchiamo** il **parco**.»
 
@@ -382,7 +382,7 @@ Dopo il **panificio** **c'è** **una** **farmacia**. La **farmacia** è grande e
 
 Leo **guarda** il pane. «Ha ragione.»
 
-Ben apre il quaderno giallo sul banco. «Nadia, **c'è** **una** **mappa** qui dentro.» Nadia **guarda** la **mappa**. «**C'è** **una** **piazza**, **c'è** **una** **chiesa**, **c'è** **una** **fontana**.»
+Kevin apre il quaderno giallo sul banco. «Nadia, **c'è** **una** **mappa** qui dentro.» Nadia **guarda** la **mappa**. «**C'è** **una** **piazza**, **c'è** **una** **chiesa**, **c'è** **una** **fontana**.»
 
 «E **c'è** **un** **negozio** di vestiti.»
 
@@ -404,7 +404,7 @@ Nadia prende **una** penna. «Manca la **farmacia**.»
 
 «**Ci sono**. Borgoverde è ricca.»
 
-Ben scrive tutto nel quaderno. «Grazie! Adesso la **mappa** è quasi completa.»
+Kevin scrive tutto nel quaderno. «Grazie! Adesso la **mappa** è quasi completa.»
 
 Leo **guarda** la finestra della **farmacia**. Sulla finestra **c'è** **un** **avviso** piccolo. «Che cos'è **un** **avviso**?» chiede.
 
@@ -666,7 +666,7 @@ Marchetti prende il caffè e va verso la porta. «Ferri.»
 
 ## 7. Via dei Tigli · lunedì sera
 
-È lunedì sera in Via dei Tigli. Ben e Leo **camminano** verso casa. Passano davanti al **cancello** di Franco. Leo ha la **mappa** in mano. «**C'è** **una** **chiesa**.» dice Leo. «**C'è** **una** **fontana**.» «**Ci sono** due **bar**.»
+È lunedì sera in Via dei Tigli. Kevin e Leo **camminano** verso casa. Passano davanti al **cancello** di Franco. Leo ha la **mappa** in mano. «**C'è** **una** **chiesa**.» dice Leo. «**C'è** **una** **fontana**.» «**Ci sono** due **bar**.»
 
 «E **c'è** **una** **farmacia**.»
 
@@ -704,4 +704,4 @@ Roberto indica la **strada** senza **guardare**. «Sempre dritto.» Poi entra in
 
 «Papà, lui è **un** **vicino** serio.»
 
-«Sì, Leo. Molto serio.» _Borgoverde è **una** città con **un** **bar**, **un** **parco** e **un** **vicino** molto serio._ Ben apre il **cancello** e i due entrano.
+«Sì, Leo. Molto serio.» _Borgoverde è **una** città con **un** **bar**, **un** **parco** e **un** **vicino** molto serio._ Kevin apre il **cancello** e i due entrano.

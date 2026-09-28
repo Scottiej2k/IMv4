@@ -66,7 +66,7 @@ Each level adds a base style in front of every turn's own `style`:
 | B2 | `natural pace` (none added) |
 
 A turn's final style is `"<level base>; <character default from voices.json>; <turn style>"`.
-If a character has a `style_by_level` entry for the chapter's level (Ben's accent fades as the
+If a character has a `style_by_level` entry for the chapter's level (Kevin's accent fades as the
 series goes on), it is added after the character default.
 
 ## `tts.json` shape

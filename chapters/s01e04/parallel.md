@@ -9,12 +9,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | È sabato mattina in Via dei Tigli. | It's Saturday morning on Via dei Tigli. |
-| Ben esce di casa con il quaderno giallo. | Ben comes out of the house with the yellow notebook. |
-| Leo è con Ben. | Leo is with Ben. |
+| Kevin esce di casa con il quaderno giallo. | Kevin comes out of the house with the yellow notebook. |
+| Leo è con Kevin. | Leo is with Kevin. |
 | Davanti al **cancello** c'è un **avviso**. | In front of the **gate** there's a **notice**. |
 | L'avviso è bianco e piccolo. | The notice is white and small. |
-| Ben **guarda** l'avviso e si ferma. | Ben **looks at** the notice and stops. |
-| «Allora... **Avviso**... Comitato...» legge Ben. | “So... **Notice**... Committee...” reads Ben. |
+| Kevin **guarda** l'avviso e si ferma. | Kevin **looks at** the notice and stops. |
+| «Allora... **Avviso**... Comitato...» legge Kevin. | “So... **Notice**... Committee...” reads Kevin. |
 | «Tre parole. Forse quattro.» | “Three words. Maybe four.” |
 | Leo prende l'avviso in mano. | Leo takes the notice in his hand. |
 | «Il Comitato di quartiere informa i **vicini**...» dice Leo. | “The neighbourhood committee informs the **neighbours**...” says Leo. |
@@ -25,7 +25,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Tre parole su dieci._ | _Three words out of ten._ |
 | _E due settimane in Italia._ | _And two weeks in Italy._ |
 | _Io non conosco la **strada**._ | _I don't know the **street**._ |
-| Ben apre il quaderno giallo. | Ben opens the yellow notebook. |
+| Kevin apre il quaderno giallo. | Kevin opens the yellow notebook. |
 | «Leo, facciamo una **mappa**.» | “Leo, let's make a **map**.” |
 | «Una **mappa**?» | “A **map**?” |
 | «Sì. Una **mappa** di Borgoverde.» | “Yes. A **map** of Borgoverde.” |
@@ -73,7 +73,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perfetto?» | “Perfect?” |
 | «Perfetto per la **mappa**.» | “Perfect for the **map**.” |
 | «La **mappa**. Certo.» | “The **map**. Of course.” |
-| Roberto **guarda** Ben per tre secondi. | Roberto **looks at** Ben for three seconds. |
+| Roberto **guarda** Kevin per tre secondi. | Roberto **looks at** Kevin for three seconds. |
 | «Il **Bar** Tigli è al numero due, signor Carter.» | “**Bar** Tigli is at number two, Mr Carter.” |
 | «Ah. Numero due. Sulla mia **strada**.» | “Ah. Number two. On my **street**.” |
 | Roberto va via senza salutare. | Roberto goes off without saying goodbye. |
@@ -84,15 +84,15 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Anche il **supermercato**. E la **fermata**.» | “The **supermarket** too. And the **stop**.” |
 | Leo è ancora con l'avviso in mano. | Leo is still holding the notice. |
 | «Papà, io voglio una **mappa** anch'io.» | “Dad, I want a **map** too.” |
-| «**Perfetto**!» dice Ben. «Allora, **camminiamo**!» | “**Perfect**!” says Ben. “So, let's **walk**!” |
+| «**Perfetto**!» dice Kevin. «Allora, **camminiamo**!» | “**Perfect**!” says Kevin. “So, let's **walk**!” |
 
 ## 2. Piazza della Chiesa · sabato mattina
 
 | Italiano | English |
 |---|---|
-| Ben e Leo **camminano** sulla **strada**. | Ben and Leo **walk** along the **street**. |
+| Kevin e Leo **camminano** sulla **strada**. | Kevin and Leo **walk** along the **street**. |
 | Sono a dieci minuti da casa. | They're ten minutes from home. |
-| Ben **guarda** il quaderno giallo. | Ben **looks at** the yellow notebook. |
+| Kevin **guarda** il quaderno giallo. | Kevin **looks at** the yellow notebook. |
 | Sul quaderno c'è la **mappa**. | On the notebook there's the **map**. |
 | «Papà, io conto i passi.» dice Leo. | “Dad, I'm counting the steps,” says Leo. |
 | «Uno, due, tre, quattro...» | “One, two, three, four...” |
@@ -100,19 +100,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ventidue.» | “Twenty-two.” |
 | «Ventidue passi. Bello.» | “Twenty-two steps. Nice.” |
 | Poi la **strada** finisce. | Then the **street** ends. |
-| Davanti a Ben e Leo c'è la **piazza**. | In front of Ben and Leo there's the **square**. |
+| Davanti a Kevin e Leo c'è la **piazza**. | In front of Kevin and Leo there's the **square**. |
 | La **piazza** è grande e c'è il sole. | The **square** is big and there's sun. |
 | «Ecco la **piazza**!» | “Here's the **square**!” |
 | «Bella!» | “Pretty!” |
 | In **piazza** **c'è** una **chiesa**. | In the **square** **there's** a **church**. |
 | La **chiesa** è alta e antica. | The **church** is tall and old. |
-| «**C'è** una **chiesa**.» scrive Ben. | “**There's** a **church**,” writes Ben. |
+| «**C'è** una **chiesa**.» scrive Kevin. | “**There's** a **church**,” writes Kevin. |
 | «Quanti scalini?» | “How many steps?” |
 | Leo **guarda** la **chiesa**. | Leo **looks at** the **church**. |
 | «Uno, due, tre, cinque, otto...» | “One, two, three, five, eight...” |
 | «Otto scalini?» | “Eight steps?” |
 | «Otto. Ma sono grandi.» | “Eight. But they're big.” |
-| Ben disegna la **chiesa** sulla **mappa**. | Ben draws the **church** on the **map**. |
+| Kevin disegna la **chiesa** sulla **mappa**. | Kevin draws the **church** on the **map**. |
 | «Disegni bene, papà.» | “You draw well, Dad.” |
 | «Grazie. Sono **un** artista.» | “Thanks. I'm **an** artist.” |
 | Davanti alla **chiesa** **c'è** una **fontana**. | In front of the **church** **there's** a **fountain**. |
@@ -121,7 +121,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E **c'è** **una** banca!» | “And **there's** **a** bank!” |
 | «**Una** banca? Dove?» | “**A** bank? Where?” |
 | «Lì. Con le porte grandi.» | “There. With the big doors.” |
-| Ben **guarda** la banca. | Ben **looks at** the bank. |
+| Kevin **guarda** la banca. | Kevin **looks at** the bank. |
 | «Hai ragione. **C'è** **una** banca.» | “You're right. **There's** **a** bank.” |
 | «E **c'è** **un** **negozio**.» | “And **there's** **a** **shop**.” |
 | «**Un** **negozio**?» | “**A** **shop**?” |
@@ -144,7 +144,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. **Ci sono** due **negozi** in **piazza**.» | “Yes. **There are** two **shops** in the **square**.” |
 | «**Ci sono** due **negozi**. Grazie, maestro Leo.» | “**There are** two **shops**. Thank you, teacher Leo.” |
 | «Prego!» | “You're welcome!” |
-| Ben **cerca** le parole nel quaderno. | Ben **looks for** the words in the notebook. |
+| Kevin **cerca** le parole nel quaderno. | Kevin **looks for** the words in the notebook. |
 | «Adesso **cerchiamo** il **parco**.» | “Now let's **look for** the **park**.” |
 | «**Dov'è** il **parco**?» | “**Where's** the **park**?” |
 | «Non lo so.» | “I don't know.” |
@@ -154,7 +154,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non lo so.» | “I don't know.” |
 | «Allora **cerchiamo** la **stazione** e poi il **parco**.» | “So let's **look for** the **station** and then the **park**.” |
 | «Esatto!» | “Exactly!” |
-| Leo **guarda** la **mappa** di Ben. | Leo **looks at** Ben's **map**. |
+| Leo **guarda** la **mappa** di Kevin. | Leo **looks at** Kevin's **map**. |
 | «La **mappa** è bella. Ma è piccola.» | “The **map** is nice. But it's small.” |
 | «È piccola adesso.» | “It's small now.” |
 | Sulla **mappa** ci sono la **piazza**, la **chiesa**, la **fontana**, la banca, **un** **negozio**, **un** **bar**, **una** **fermata**. | On the **map** there are the **square**, the **church**, the **fountain**, the bank, **a** **shop**, **a** **bar**, **a** **stop**. |
@@ -166,7 +166,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Dopo. Prima la **mappa**, poi il pane.» | “Later. First the **map**, then the bread.” |
 | Leo ride. | Leo laughs. |
 | «Papà, tu **cerchi** sempre il pane.» | “Dad, you always **look for** bread.” |
-| Ben **guarda** la **piazza** con attenzione. | Ben **looks at** the **square** carefully. |
+| Kevin **guarda** la **piazza** con attenzione. | Kevin **looks at** the **square** carefully. |
 | _Ventidue passi da casa._ | _Twenty-two steps from home._ |
 | _E io non conosco la **piazza**._ | _And I don't know the **square**._ |
 | _Sono **un** turista nella mia città._ | _I'm **a** tourist in my own town._ |
@@ -187,13 +187,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Italiano | English |
 |---|---|
-| Ben e Leo **camminano** ancora. | Ben and Leo **walk** some more. |
+| Kevin e Leo **camminano** ancora. | Kevin and Leo **walk** some more. |
 | A sinistra della **piazza** **c'è** **un** **negozio** con un profumo buono. | To the left of the **square** **there's** **a** **shop** with a good smell. |
 | «Profumo di pane!» dice Leo. | “Smell of bread!” says Leo. |
 | «**Pane**. Questa parola la conosco.» | “**Bread**. That word I know.” |
 | «Anch'io!» | “Me too!” |
 | Sulla porta **c'è** **una** parola: **PANIFICIO**. | On the door **there's** **a** word: **BAKERY**. |
-| «**Panificio**.» legge Ben. | “**Bakery**,” reads Ben. |
+| «**Panificio**.» legge Kevin. | “**Bakery**,” reads Kevin. |
 | «Che cos'è **un** **panificio**?» | “What's **a** **bakery**?” |
 | «**Un** **negozio** con il pane.» | “**A** **shop** with bread.” |
 | «Ah! **Un** **negozio** di pane!» | “Ah! **A** bread **shop**!” |
@@ -208,7 +208,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì! Io **cerco** il pane!» | “Yes! I'm **looking for** bread!” |
 | «E io **cerco** la **mappa**.» | “And I'm **looking for** the **map**.” |
 | «La **mappa**?» | “The **map**?” |
-| Ben apre il quaderno giallo. | Ben opens the yellow notebook. |
+| Kevin apre il quaderno giallo. | Kevin opens the yellow notebook. |
 | «**Una** **mappa** di Borgoverde.» | “**A** **map** of Borgoverde.” |
 | L'uomo **guarda** la **mappa** e ride. | The man **looks at** the **map** and laughs. |
 | «**C'è** **una** **piazza** e **c'è** **una** chiesa.» | “**There's** **a** **square** and **there's** **a** church.” |
@@ -240,13 +240,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Esatto.» | “Exactly.” |
 | «Allora, signore, che cosa prende?» chiede l'uomo. | “So, sir, what are you having?” asks the man. |
 | «**Un** pane!» | “**A** bread!” |
-| L'uomo **guarda** Ben per **un** momento. | The man **looks at** Ben for a moment. |
+| L'uomo **guarda** Kevin per **un** momento. | The man **looks at** Kevin for a moment. |
 | «**Un** pane?» | “**A** bread?” |
 | «Sì. **Un** pane, per favore.» | “Yes. **A** bread, please.” |
 | «Signore, si dice: **un** chilo di pane.» | “Sir, you say: **a** kilo of bread.” |
 | «**Un** chilo di pane.» | “**A** kilo of bread.” |
 | «Perfetto.» | “Perfect.” |
-| Ben scrive nel quaderno. | Ben writes in the notebook. |
+| Kevin scrive nel quaderno. | Kevin writes in the notebook. |
 | «**Pane**. E chilo.» | “**Bread**. And kilo.” |
 | «Papà, scrivi anche **panificio**.» | “Dad, write **bakery** too.” |
 | «Giusto. **Panificio**.» | “Right. **Bakery**.” |
@@ -279,14 +279,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Dentro **c'è** **una** signora con il camice bianco. | Inside **there's** **a** lady in a white coat. |
 | È Nadia, la fidanzata di Matteo. | It's Nadia, Matteo's girlfriend. |
 | «Ciao, Nadia!» dice Leo. | “Hi, Nadia!” says Leo. |
-| «Ciao, Leo. Ciao, Ben.» | “Hi, Leo. Hi, Ben.” |
+| «Ciao, Leo. Ciao, Kevin.» | “Hi, Leo. Hi, Kevin.” |
 | «Ciao! Noi **cerchiamo** il **parco**.» | “Hi! We're **looking for** the **park**.” |
 | «Il **parco** è di là. Ma prima entrate.» | “The **park** is over there. But come in first.” |
 | «Perché?» | “Why?” |
 | «Perché avete il pane in mano e il pane è buono solo caldo.» | “Because you've got bread in your hand and bread is only good warm.” |
 | Leo **guarda** il pane. | Leo **looks at** the bread. |
 | «Ha ragione.» | “She's right.” |
-| Ben apre il quaderno giallo sul banco. | Ben opens the yellow notebook on the counter. |
+| Kevin apre il quaderno giallo sul banco. | Kevin opens the yellow notebook on the counter. |
 | «Nadia, **c'è** **una** **mappa** qui dentro.» | “Nadia, **there's** **a** **map** in here.” |
 | Nadia **guarda** la **mappa**. | Nadia **looks at** the **map**. |
 | «**C'è** **una** **piazza**, **c'è** **una** **chiesa**, **c'è** **una** **fontana**.» | “**There's** **a** **square**, **there's** **a** **church**, **there's** **a** **fountain**.” |
@@ -301,7 +301,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E **c'è** **una** seconda **banca**, vicino al **supermercato**.» | “And **there's** **a** second **bank**, near the **supermarket**.” |
 | «**Ci sono** due banche?» | “**There are** two banks?” |
 | «**Ci sono**. Borgoverde è ricca.» | “**There are**. Borgoverde is rich.” |
-| Ben scrive tutto nel quaderno. | Ben writes everything in the notebook. |
+| Kevin scrive tutto nel quaderno. | Kevin writes everything in the notebook. |
 | «Grazie! Adesso la **mappa** è quasi completa.» | “Thanks! Now the **map** is almost complete.” |
 | Leo **guarda** la finestra della **farmacia**. | Leo **looks at** the **pharmacy** window. |
 | Sulla finestra **c'è** **un** **avviso** piccolo. | On the window **there's** **a** small **notice**. |
@@ -513,7 +513,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | È lunedì sera in Via dei Tigli. | It's Monday evening on Via dei Tigli. |
-| Ben e Leo **camminano** verso casa. | Ben and Leo **walk** towards home. |
+| Kevin e Leo **camminano** verso casa. | Kevin and Leo **walk** towards home. |
 | Passano davanti al **cancello** di Franco. | They pass in front of Franco's **gate**. |
 | Leo ha la **mappa** in mano. | Leo has the **map** in his hand. |
 | «**C'è** **una** **chiesa**.» dice Leo. | “**There's** **a** **church**,” says Leo. |
@@ -547,4 +547,4 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, lui è **un** **vicino** serio.» | “Dad, he's **a** serious **neighbour**.” |
 | «Sì, Leo. Molto serio.» | “Yes, Leo. Very serious.” |
 | _Borgoverde è **una** città con **un** **bar**, **un** **parco** e **un** **vicino** molto serio._ | _Borgoverde is **a** town with **a** **bar**, **a** **park** and **a** very serious **neighbour**._ |
-| Ben apre il **cancello** e i due entrano. | Ben opens the **gate** and the two go in. |
+| Kevin apre il **cancello** e i due entrano. | Kevin opens the **gate** and the two go in. |
