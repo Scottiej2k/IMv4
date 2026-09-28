@@ -242,7 +242,7 @@ tr.known td.lemma { color: var(--accent); }
         <div class="eyebrow">Italian through story · A1 to B2+</div>
         <h1>Learn Italian the way you'd binge a sitcom.</h1>
         <p class="lede">200 episodes of one story, written for learners. Read along, listen to a full cast of voices, and follow the same neighbors from your first <i>buongiorno</i> to fluent conversation.</p>
-        <div class="cta"><button class="btn" data-go="start">Start for free</button><span class="fine">The first 3 episodes are free. No card needed.</span></div>
+        <div class="cta"><button class="btn" data-go="start">Start for free</button><span class="fine">The first episode of every level is free. No card needed.</span></div>
       </div>
       <div class="page" aria-label="A page from Episode 1">
         <div class="ep"><span>Episode 1 · Il primo giorno</span><span>A1</span></div>
@@ -307,10 +307,10 @@ tr.known td.lemma { color: var(--accent); }
 
   <section class="band" id="pricing"><div class="wrap">
     <div class="eyebrow">Pricing</div>
-    <h2>Start with three episodes, free.</h2>
+    <h2>Try the first episode of every level, free.</h2>
     <div class="plans">
-      <div class="plan"><h3>Free</h3><ul><li>Episodes 1 to 3</li><li>Every feature: audio, side by side, vocabulary, grammar</li><li>No card needed</li></ul><button class="btn ghost" data-go="start">Start for free</button></div>
-      <div class="plan main"><h3>Full course</h3><ul><li>All 200 episodes, A1 to B2+</li><li>New episodes as they're released</li><li>Your progress carries over</li></ul><p class="price">Price coming soon.</p><button class="btn" data-go="unlock">Unlock all episodes</button></div>
+      <div class="plan"><h3>Free</h3><ul><li>The first episode of each level: A1, A2, B1 and B2</li><li>Every feature: audio, side by side, vocabulary, grammar</li><li>No card needed</li></ul><button class="btn ghost" data-go="start">Start for free</button></div>
+      <div class="plan main"><h3>Full course</h3><ul><li>All 200 episodes, A1 to B2+</li><li>Monthly or yearly, cancel anytime</li><li>Your progress carries over</li></ul><p class="price">Prices coming soon.</p><button class="btn" data-go="unlock">Subscribe</button></div>
     </div>
   </div></section>
 
@@ -403,7 +403,7 @@ tr.known td.lemma { color: var(--accent); }
     const started = P().started;
     $("nav").innerHTML = (started ? `<button class="link" data-go="home" aria-current="${view !== "landing"}">Library</button>` : "") +
       `<button class="link" data-go="landing" aria-current="${view === "landing"}">How it works</button>` +
-      (P().unlocked ? `<span class="chip">Full course</span>` : `<button class="btn small ghost" data-go="unlock">Unlock all episodes</button>`) +
+      (P().unlocked ? `<span class="chip">Full course</span>` : `<button class="btn small ghost" data-go="unlock">Subscribe</button>`) +
       (started ? "" : `<button class="btn small" data-go="start">Start for free</button>`);
     setTopbar();
   }
@@ -471,8 +471,8 @@ tr.known td.lemma { color: var(--accent); }
     if (!unlockedFor(c)) {
       $("tabsbar").hidden = true; $("tools").innerHTML = ""; $("timers").innerHTML = "";
       $("panel").innerHTML = `<div class="paywall">${c.intro ? `<div class="intro"><b>About this episode</b>${esc(c.intro)}</div>` : ""}
-        <h2>This episode is part of the full course.</h2><p>The first ${CAT.free_chapters} episodes are free. Unlock all 200 to keep following the story.</p>
-        <button class="btn" data-go="unlock">Unlock all episodes</button></div>`;
+        <h2>This episode is part of the full course.</h2><p>The first episode of every level is free. Subscribe to follow the whole story, all 200 episodes.</p>
+        <button class="btn" data-go="unlock">Subscribe</button></div>`;
       return;
     }
     $("tabsbar").hidden = false;
@@ -696,13 +696,13 @@ tr.known td.lemma { color: var(--accent); }
     catch (e) { if (e && e.code !== "declined") tell("Couldn't save the file (" + (e.code || "error") + ")."); }
   }
 
-  // ---------------------------------------------------------------- unlock (Stripe later)
+  // ---------------------------------------------------------------- subscribe (Stripe later)
   function showUnlock() {
     $("modal").innerHTML = `<div class="modal" id="m-bg"><div class="box" role="dialog" aria-modal="true" aria-labelledby="m-h">
-      <h2 id="m-h">Unlock all episodes</h2>
-      <p>The full course: all 200 episodes of <i>Via dei Tigli</i>, A1 to B2+, with audio, vocabulary and grammar. Your progress carries over.</p>
-      <p class="proto">Prototype: payment arrives with the full app. You can simulate an unlocked account to try the full library.</p>
-      <div class="row"><button class="btn" id="m-sim">${P().unlocked ? "Lock again (simulate free)" : "Simulate unlock"}</button><button class="btn ghost" id="m-close">Close</button></div></div></div>`;
+      <h2 id="m-h">Subscribe to the full course</h2>
+      <p>The full course: all 200 episodes of <i>Via dei Tigli</i>, A1 to B2+, with audio, vocabulary and grammar. Monthly or yearly; if you cancel, you keep access until the end of the period you paid for. Your progress carries over.</p>
+      <p class="proto">Prototype: payment arrives with the full app. You can simulate a subscribed account to try the full library.</p>
+      <div class="row"><button class="btn" id="m-sim">${P().unlocked ? "End subscription (simulate free)" : "Simulate subscription"}</button><button class="btn ghost" id="m-close">Close</button></div></div></div>`;
   }
   function closeModal() { $("modal").innerHTML = ""; }
 

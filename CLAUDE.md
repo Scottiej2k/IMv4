@@ -69,6 +69,9 @@ exist): prototype `app/index.html` at https://claude.ai/artifact/6nEntWJYwZ3BeFe
 hand-off in `docs/app-spec.md`. `python3 scripts/export_app.py` writes the content bundle `app/content/`
 (git-ignored); publish the page with `content/catalog.json`, `content/chapters/*.json` and
 `content/audio/*.mp3` as files.
+Accounts and payment (owner, 2026-09-28; `docs/app-spec.md` §5): Clerk sign-in (email + Google); a Stripe
+subscription, monthly or yearly, no trial, access until the end of the paid period after cancelling; free = the
+first episode of each level (S1E1, S2E1, S4E1, S6E1). Code goes in GitHub, Replit pulls and runs it.
 
 Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review),
 `build_curriculum.py` (validates plans, regenerates the overview), `update_logs.py`.

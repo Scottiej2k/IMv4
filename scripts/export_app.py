@@ -20,7 +20,6 @@ import build_chapter as bc  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "app" / "content"
-FREE_CHAPTERS = 3
 
 
 def read(path):
@@ -47,7 +46,7 @@ def main():
         (OUT / sub).mkdir(parents=True, exist_ok=True)
     voices = json.loads((ROOT / "config" / "voices.json").read_text(encoding="utf-8"))["voices"]
     locations = json.loads((ROOT / "config" / "locations.json").read_text(encoding="utf-8"))["locations"]
-    catalog = {"title": "Input Masters · Italian", "series": "Via dei Tigli", "free_chapters": FREE_CHAPTERS,
+    catalog = {"title": "Input Masters · Italian", "series": "Via dei Tigli", "free_chapters": [],
                "levels": {lv: {"vocab_by_end": n} for lv, n in bc.VOCAB_MILESTONES.items()},
                "speakers": {k: v.get("name", k) for k, v in voices.items()}, "locations": locations,
                "chapters": []}
@@ -58,7 +57,10 @@ def main():
             cid, folder = plan["id"], ROOT / "chapters" / plan["id"]
             row = {"id": cid, "n": n, "level": plan["level"], "season": int(cid[1:3]), "episode": int(cid[4:6]),
                    "theme": plan.get("theme", ""), "title": plan["title"], "grammar": plan["grammar"]["name"],
-                   "free": n <= FREE_CHAPTERS, "written": False}
+                   "free": False, "written": False}
+            if plan["level"] not in {c["level"] for c in catalog["chapters"]}:   # first episode of each level is free
+                row["free"] = True
+                catalog["free_chapters"].append(cid)
             lo, hi = bc.FOCUS_ITEMS[plan["level"]]
             if (folder / "chapter.json").exists():
                 ch = json.loads((folder / "chapter.json").read_text(encoding="utf-8"))

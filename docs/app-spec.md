@@ -17,7 +17,7 @@ it whenever chapters or audio change.
 
 | File | What it holds |
 |---|---|
-| `catalog.json` | The course. Holds `title`, `series`, `free_chapters` (3), `levels` (vocab goal per level), `speakers` (id → name) and `locations` (id → name). Also holds `chapters`: every planned chapter in order. |
+| `catalog.json` | The course. Holds `title`, `series`, `free_chapters` (the ids of the free chapters: the first of each level), `levels` (vocab goal per level), `speakers` (id → name) and `locations` (id → name). Also holds `chapters`: every planned chapter in order. |
 | `chapters/<id>.json` | One written chapter. Holds `id`, `n`, `level`, `title` {it, en}, `theme`, `grammar_name` and `intro`. Also holds `scenes`, `vocab`, `grammar` (Markdown), `anki` (CSV text), `timing` and `audio` (the path of the mp3). |
 | `audio/<id>.mp3` | The chapter's audio: 32 kbit/s mono MP3, about 7 MB for a 28-minute A1 chapter. |
 
@@ -26,7 +26,7 @@ Each row in `catalog.chapters` has these fields:
 - `theme` (the chapter's heading);
 - `title` {it, en} (the story's title);
 - `grammar`;
-- `free` (n ≤ 3);
+- `free` (true for the first chapter of each level);
 - `written`;
 - `vocab_through`: vocabulary items taught up to and including this chapter. For a chapter not yet written, the level's typical count stands in.
 
@@ -53,9 +53,9 @@ or a CDN, not from the app server's disk.
 - the show (the street, the cast);
 - what each episode includes;
 - the path from A1 to B2;
-- pricing (Free: episodes 1–3; Full course: all 200).
+- pricing (Free: the first episode of each level; Full course: all 200, monthly or yearly).
 
-Its buttons are "Start for free" (sign up, then the library) and "Unlock all episodes" (Stripe
+Its buttons are "Start for free" (sign up, then the library) and "Subscribe" (Stripe
 Checkout, see §5).
 
 **Library** (home after sign-in):
@@ -88,7 +88,7 @@ Checkout, see §5).
   - speed 0.75–1.5×;
   - the position.
   - While audio plays, each word underlines as it's spoken and stays underlined. The text scrolls to follow.
-- **Locked chapter:** shows the intro and an unlock button instead of the text.
+- **Locked chapter:** shows the intro and a Subscribe button instead of the text.
 
 ## 3. Time tracking (the owner's rules)
 
@@ -111,8 +111,8 @@ the same object moves to the database.
 
 | Data | Shape |
 |---|---|
-| Account | id, email, created, `started` |
-| Entitlement | `unlocked` (bool), Stripe customer id, purchase date |
+| Account | id (Clerk user id), email, created, `started` |
+| Subscription | Stripe customer id, subscription id, `status`, plan (monthly/yearly), `current_period_end`, `cancel_at_period_end`. The prototype's `unlocked` stands for "has access" (§5). |
 | Last chapter | `last` (chapter id) |
 | Per chapter | `read` s, `listen` s, `tab`, `at` (sentence id of the reading place), `far` (furthest sentence index reached, for %), `played` {segment id: last word index heard}, `t` (audio position, s) |
 | Totals | `read` s, `listen` s |
@@ -126,24 +126,53 @@ The fields work like this:
 
 Suggested tables (PostgreSQL):
 - `users`
-- `entitlements`
+- `subscriptions`
 - `chapter_progress` (user, chapter → the per-chapter fields)
 - `daily_time` (user, date, read, listen)
 - `known_words` (user, vocab id)
 
-## 5. Free chapters and payment (Stripe)
+## 5. Accounts, free episodes and subscription (Clerk + Stripe)
 
-- **Free:** chapters 1–3 (`catalog.free_chapters`), with every feature.
-- **Unlocking:**
-  1. "Unlock all episodes" starts a **Stripe Checkout** session for the full course. It is one price, set later (one-off or subscription).
-  2. Stripe's **webhook** (`checkout.session.completed`) tells the server the payment went through.
-  3. Only the server then sets `unlocked = true`. The browser never decides it.
-- **Locking must happen on the server:** don't send a locked chapter's JSON or audio to a user who hasn't unlocked it. The catalog can list every chapter, but only the intro of a locked one. Serve locked files through the app (after checking the user) or through short-lived signed links. The prototype only hides them on screen, which isn't protection.
-- **Prototype:** the prototype's "Simulate unlock" button is for testing and must not ship.
+Decided by the owner, 2026-09-28. The code lives in GitHub. Replit pulls it, runs it, and holds the
+keys in its Secrets panel; keys never go in git.
+
+- **Sign-in: Clerk**, with its defaults: email and Google. Clerk hosts the sign-in pages, password
+  resets and sessions. The server checks Clerk's session on every request and keys all data on the
+  Clerk user id.
+- **Free:** the first episode of each level, with every feature: S1E1 (A1), S2E1 (A2), S4E1 (B1)
+  and S6E1 (B2). These are `catalog.free_chapters`. A free account needs no card.
+- **Subscription:** one product, "Full course", with two Stripe prices: **monthly** and **yearly**.
+  There is **no free trial**; the free episodes are the trial. Amounts are set later in Stripe, not
+  in code: the app reads the two price ids from its secrets.
+- **Subscribing:** "Subscribe" (with a monthly/yearly choice) starts a **Stripe Checkout** session in
+  subscription mode, tied to the user's Stripe customer (created on first checkout, its id stored).
+  Card details go to Stripe only.
+- **Managing:** a "Manage subscription" button in the account menu opens Stripe's **Customer
+  Portal**: switch monthly/yearly, update the card, see invoices, cancel. Nothing of this is built
+  in the app.
+- **Cancelling:** access continues **until the end of the period already paid for** (the portal
+  cancels at period end). Then the subscription ends and the library locks again; progress stays.
+- **Who has access is decided only by the server, from Stripe's webhooks.** Handle at least:
+  - `checkout.session.completed`: link the subscription to the user;
+  - `customer.subscription.created` / `updated` / `deleted`: store its `status`, the price
+    (monthly/yearly), `current_period_end` and `cancel_at_period_end`;
+  - `invoice.payment_failed`: Stripe retries the card; the stored status follows (`past_due`, then
+    `canceled` or `unpaid`).
+  Verify each webhook's signature. A user has the full course while the status is `active`, or
+  `past_due` during Stripe's retries. The browser never decides it.
+- **Locking must happen on the server:** don't send a locked chapter's JSON or audio to a user
+  without access. The catalog can list every chapter, but only the intro of a locked one. Audio comes
+  from Cloudflare R2 through **short-lived signed links** (about an hour), made by the server after
+  checking the user; the bucket stays private. The prototype only hides locked chapters on screen,
+  which isn't protection.
+- **Testing:** build and test with Stripe's test mode and test cards (subscribe, switch plan, cancel,
+  failed renewal) on Replit, where Stripe's webhooks can reach the app. Then switch to live keys and
+  make one real purchase.
+- **Prototype:** the prototype's "Simulate subscription" button is for testing and must not ship.
 
 ## 6. Not in the prototype yet (ideas for later)
 
-- Accounts and sign-in, syncing across devices.
+- Syncing progress across devices (comes with accounts, §5).
 - Streaks, a weekly chart from the per-day time, reminders.
 - Spaced review of the words met, in the app itself instead of Anki.
 - An English voice reading the introduction before each episode.
