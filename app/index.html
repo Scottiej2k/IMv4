@@ -1,0 +1,753 @@
+<title>Input Masters Italian</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Young+Serif&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<style>
+:root {
+  --bg: #F1F4EE; --surface: #FFFFFF; --ink: #1B2620; --muted: #5B6A61; --line: #D9E0D3;
+  --accent: #2F6B4F; --accent-ink: #FFFFFF; --accent-soft: #E1ECE3; --sun: #A86F0E; --sun-soft: #F6EAD0;
+  --display: "Young Serif", Georgia, serif;
+  --read: "Literata", Georgia, "Times New Roman", serif;
+  --ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0F1411; --surface: #161D19; --ink: #E3E9E4; --muted: #95A39A; --line: #28332D;
+    --accent: #7CC29C; --accent-ink: #0F1411; --accent-soft: #1D2C24; --sun: #E2B35A; --sun-soft: #3A2E17; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0F1411; --surface: #161D19; --ink: #E3E9E4; --muted: #95A39A; --line: #28332D;
+  --accent: #7CC29C; --accent-ink: #0F1411; --accent-soft: #1D2C24; --sun: #E2B35A; --sun-soft: #3A2E17; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--ui); font-size: 15px; line-height: 1.55; }
+button, select, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.wrap { max-width: 1080px; margin: 0 auto; padding-inline: 20px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 8px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); font-weight: 600; text-decoration: none; }
+.btn:hover { opacity: .92; }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn.small { padding: 6px 12px; font-size: 13.5px; }
+.chip { font-size: 12px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); background: var(--surface); white-space: nowrap; }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; color: var(--accent); }
+h1, h2, h3 { text-wrap: balance; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Top bar */
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 30; background: var(--bg); border-bottom: 1px solid var(--line); }
+.top .wrap { display: flex; align-items: center; gap: 10px 18px; min-height: 58px; flex-wrap: wrap; }
+.brand { display: flex; align-items: baseline; gap: 8px; background: none; border: 0; padding: 0; }
+.brand b { font-family: var(--display); font-weight: 400; font-size: 20px; }
+.brand span { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.nav { display: flex; gap: 6px 14px; align-items: center; margin-left: auto; flex-wrap: wrap; }
+.nav .link { background: none; border: 0; color: var(--muted); padding: 4px 2px; }
+.nav .link:hover, .nav .link[aria-current="true"] { color: var(--ink); }
+
+/* Landing */
+.hero { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); gap: 48px; align-items: center; padding-block: 56px 64px; }
+.hero h1 { font-family: var(--display); font-weight: 400; font-size: clamp(34px, 5vw, 54px); line-height: 1.08; margin: 12px 0 16px; }
+.hero p.lede { font-size: 18px; color: var(--muted); max-width: 52ch; margin: 0 0 24px; }
+.hero .cta { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.hero .fine { font-size: 13px; color: var(--muted); }
+.page { background: var(--surface); border: 1px solid var(--line); border-radius: 4px; padding: 30px 32px 24px; box-shadow: 0 18px 40px -24px rgba(27, 38, 32, .35); font-family: var(--read); }
+.page .ep { font-family: var(--ui); font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; margin-bottom: 14px; }
+.page p { margin: 0 0 8px; font-size: 17.5px; line-height: 1.75; }
+.page .en { font-family: var(--ui); font-size: 13.5px; color: var(--muted); margin-bottom: 14px; line-height: 1.5; }
+.page .u { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.page .now { background: var(--accent-soft); border-radius: 2px; }
+.page .bar { display: flex; align-items: center; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; margin-top: 6px; font-family: var(--ui); font-size: 12.5px; color: var(--muted); }
+.page .bar i { width: 30px; height: 30px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; font-style: normal; font-size: 11px; }
+.page .bar .track { flex: 1; height: 4px; border-radius: 2px; background: var(--line); overflow: hidden; }
+.page .bar .track span { display: block; width: 38%; height: 100%; background: var(--accent); }
+section.band { padding-block: 56px; border-top: 1px solid var(--line); }
+section.band h2 { font-family: var(--display); font-weight: 400; font-size: clamp(26px, 3.4vw, 36px); line-height: 1.15; margin: 8px 0 12px; }
+section.band .intro-copy { max-width: 64ch; color: var(--muted); font-size: 16.5px; margin: 0 0 28px; }
+.figures { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; margin-bottom: 32px; }
+.figure b { display: block; font-family: var(--display); font-weight: 400; font-size: 34px; line-height: 1.1; color: var(--accent); }
+.figure span { font-size: 13.5px; color: var(--muted); }
+.compare { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--surface); }
+.compare .row { display: grid; grid-template-columns: minmax(120px, .7fr) minmax(0, 1fr) minmax(0, 1fr); gap: 16px; padding: 14px 20px; border-top: 1px solid var(--line); }
+.compare .row:first-child { border-top: 0; background: var(--bg); font-size: 12px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+.compare .row > :first-child { font-weight: 600; }
+.compare .row > :last-child { color: var(--ink); }
+.compare .row > :nth-child(2) { color: var(--muted); }
+.compare .row:first-child > :last-child { color: var(--accent); }
+.cast { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.person { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+.person b { font-family: var(--display); font-weight: 400; font-size: 19px; }
+.person .age { color: var(--muted); font-size: 13px; margin-left: 6px; }
+.person p { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.feats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px 28px; }
+.feat h3 { font-size: 16px; margin: 0 0 4px; }
+.feat p { margin: 0; color: var(--muted); font-size: 14.5px; }
+.path { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--surface); }
+.step { padding: 16px 18px; border-left: 1px solid var(--line); }
+.step:first-child { border-left: 0; }
+.step .lv { font-family: var(--display); font-size: 26px; color: var(--accent); }
+.step p { margin: 2px 0 0; font-size: 13.5px; color: var(--muted); }
+.plans { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; max-width: 820px; }
+.plan { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 22px 24px; display: grid; gap: 10px; align-content: start; }
+.plan.main { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.plan h3 { font-family: var(--display); font-weight: 400; font-size: 24px; margin: 0; }
+.plan ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 14.5px; }
+.plan .price { font-size: 14px; color: var(--muted); }
+.plan .btn { justify-self: start; }
+footer.foot { padding-block: 28px 48px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: space-between; }
+footer.foot button { background: none; border: 0; color: var(--muted); text-decoration: underline; padding: 0; }
+
+/* Library */
+.libhead { padding-block: 28px 8px; display: grid; gap: 18px; }
+.cont { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; padding: 12px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.cont .what { flex: 1 1 280px; min-width: 0; }
+.cont .what small { display: block; font-size: 12px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+.cont .what span { font-weight: 500; }
+.cont .what em { color: var(--muted); font-style: normal; font-size: 13.5px; }
+.sum { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; }
+.stat small { display: block; font-size: 12px; color: var(--muted); }
+.stat b { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.stat .sub { font-size: 12.5px; color: var(--muted); }
+.meter { height: 5px; border-radius: 3px; background: var(--line); overflow: hidden; margin-top: 6px; }
+.meter span { display: block; height: 100%; background: var(--accent); }
+.level { margin-top: 26px; }
+.level h2 { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; font-size: 13px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.level h2 b { font-family: var(--display); font-weight: 400; font-size: 22px; letter-spacing: 0; text-transform: none; color: var(--ink); }
+.eps { display: grid; gap: 6px; }
+.ep-row { display: grid; grid-template-columns: 40px minmax(0, 1fr) auto; gap: 14px; align-items: center; width: 100%; text-align: left; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.ep-row:hover { border-color: var(--accent); }
+.ep-row .n { font-family: var(--display); font-size: 20px; color: var(--accent); text-align: center; font-variant-numeric: tabular-nums; }
+.ep-row .t { font-weight: 600; }
+.ep-row .s { display: block; font-family: var(--read); font-style: italic; color: var(--muted); font-size: 14px; }
+.ep-row .meta { display: grid; justify-items: end; gap: 4px; font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; min-width: 132px; }
+.ep-row .meter { width: 120px; margin: 0; }
+.ep-row.locked .n { color: var(--muted); }
+.lock { font-size: 12px; font-weight: 600; color: var(--sun); background: var(--sun-soft); padding: 2px 8px; border-radius: 999px; }
+.more { font-size: 13.5px; color: var(--muted); padding: 8px 14px; }
+
+/* Chapter */
+.chbar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding-block: 18px 6px; }
+.back { background: none; border: 0; color: var(--accent); font-weight: 600; padding: 0; }
+.timers { margin-left: auto; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 13px; padding-block: 6px; }
+.timer { display: inline-flex; align-items: center; gap: 8px; padding: 4px 6px 4px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-variant-numeric: tabular-nums; }
+.timer .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
+.timer.on .dot { background: var(--accent); }
+.timer.auto { border-color: var(--sun); }
+.timer button { border: 0; background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 2px 10px; font-size: 12.5px; font-weight: 600; }
+.timer.listen { padding-right: 12px; }
+.tnote { flex-basis: 100%; text-align: right; font-size: 12.5px; color: var(--sun); }
+.chhead h1 { font-family: var(--display); font-weight: 400; font-size: clamp(28px, 4vw, 38px); line-height: 1.12; margin: 6px 0 2px; }
+.chhead .g { color: var(--muted); }
+.tablist { display: flex; gap: 2px; overflow-x: auto; max-width: 100%; }
+.tabs { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; border-bottom: 1px solid var(--line); margin-top: 18px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--topbar, 58px)); z-index: 20; background: var(--bg); }
+.tab { background: none; border: 0; padding: 10px 14px; color: var(--muted); border-bottom: 2px solid transparent; margin-bottom: -1px; white-space: nowrap; font-weight: 500; }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.tools { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding-block: 14px; font-size: 13.5px; color: var(--muted); }
+.tools label { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+.intro { font-size: 15px; line-height: 1.6; background: var(--accent-soft); border-radius: 8px; padding: 14px 18px; margin: 0 0 30px; max-width: 72ch; text-indent: 0; font-family: var(--ui); }
+.intro b { display: block; font-size: 11.5px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
+.story { max-width: 66ch; font-family: var(--read); font-size: 18.5px; line-height: 1.75; background: var(--surface); border: 1px solid var(--line); padding: 44px 56px 60px; }
+.story-title { font-family: var(--read); font-weight: 600; font-size: 28px; line-height: 1.2; text-align: center; margin: 0 0 26px; }
+.story-title span { display: block; font-weight: 400; font-style: italic; font-size: 15px; color: var(--muted); margin-top: 4px; }
+.scene-h { font-family: var(--read); font-weight: 400; font-style: italic; font-size: 15px; color: var(--muted); text-align: center; margin: 36px 0 18px; }
+.story p { margin: 0; text-indent: 1.6em; }
+.story p + p { margin-top: .25em; }
+.scene-h + p { text-indent: 0; }
+mark.v { background: none; color: inherit; font-weight: 700; }
+.seg { cursor: pointer; border-radius: 2px; }
+.seg:hover { background: var(--accent-soft); }
+.en { display: none; font-family: var(--ui); font-size: 14px; line-height: 1.45; color: var(--muted); margin: 2px 0 8px; }
+.seg.open + .en, .show-en .en { display: block; }
+.show-en .story p { text-indent: 0; }
+.w.played { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.w.now { background: var(--accent-soft); border-radius: 2px; }
+.pgrid { border-top: 1px solid var(--line); }
+.prow { display: grid; grid-template-columns: 96px minmax(0,1fr) minmax(0,1fr); gap: 16px; padding: 7px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
+.prow .sp { font-size: 12px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--accent); }
+.prow .it { font-family: var(--read); font-size: 16px; }
+.prow .tr { color: var(--muted); }
+.prow.scene { grid-template-columns: 1fr; padding-top: 22px; border-bottom-color: var(--ink); font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th { text-align: left; font-size: 11.5px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); padding: 8px 10px; border-bottom: 1px solid var(--ink); }
+td { padding: 9px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+td.lemma { font-family: var(--read); font-size: 17px; font-weight: 600; white-space: nowrap; }
+td .ex { font-family: var(--read); font-size: 15px; }
+td .ext { color: var(--muted); font-size: 13px; }
+.pos { font-size: 12px; color: var(--muted); }
+tr.known td.lemma { color: var(--accent); }
+.md { max-width: 72ch; font-size: 15.5px; line-height: 1.65; }
+.md h1 { font-family: var(--display); font-weight: 400; font-size: 26px; margin: 8px 0 12px; }
+.md h2 { font-family: var(--read); font-weight: 600; font-size: 20px; margin: 28px 0 8px; }
+.md blockquote { margin: 10px 0; padding-left: 14px; border-left: 3px solid var(--accent-soft); }
+.md em { font-family: var(--read); }
+.pop { position: absolute; z-index: 40; display: flex; gap: 4px; padding: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,.14); }
+.pop button, .pbar button { font-size: 13px; padding: 6px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); }
+.pop button:hover, .pbar button:hover { background: var(--accent-soft); }
+.pbar { position: sticky; bottom: 0; z-index: 10; display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; margin-top: 18px; padding: 10px 14px calc(10px + env(safe-area-inset-bottom, 0px)); background: var(--surface); border: 1px solid var(--line); border-radius: 10px 10px 0 0; font-size: 13px; color: var(--muted); }
+.pbar .play { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; min-width: 92px; }
+.pbar .play:hover { background: var(--accent); opacity: .9; }
+.pbar select { font-size: 13px; padding: 5px 6px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); }
+.pbar .msg { flex: 1 1 200px; }
+.paywall { max-width: 60ch; padding-block: 12px 40px; }
+.paywall h2 { font-family: var(--display); font-weight: 400; font-size: 26px; margin: 0 0 8px; }
+.paywall p { color: var(--muted); }
+
+/* Modal */
+.modal { position: fixed; inset: 0; z-index: 50; background: rgba(15, 20, 17, .45); display: grid; place-items: center; padding: 16px; }
+.modal .box { background: var(--surface); border-radius: 12px; padding: 24px; max-width: 460px; width: 100%; display: grid; gap: 12px; }
+.modal h2 { font-family: var(--display); font-weight: 400; font-size: 24px; margin: 0; }
+.modal p { margin: 0; color: var(--muted); }
+.modal .row { display: flex; flex-wrap: wrap; gap: 10px; }
+.proto { font-size: 12.5px; color: var(--sun); background: var(--sun-soft); padding: 6px 10px; border-radius: 6px; }
+
+@media (max-width: 860px) {
+  .hero { grid-template-columns: 1fr; gap: 32px; padding-block: 36px 44px; }
+  .figures, .sum { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .cast, .feats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .path { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .step:nth-child(3) { border-left: 0; }
+  .step:nth-child(n+3) { border-top: 1px solid var(--line); }
+}
+@media (max-width: 560px) {
+  .wrap { padding-inline: 16px; }
+  .nav .btn.ghost { display: none; }
+  .nav { gap: 6px 12px; }
+  .cast, .feats, .plans { grid-template-columns: 1fr; }
+  .compare .row { grid-template-columns: 1fr; gap: 4px; }
+  .compare .row:first-child { display: none; }
+  .compare .row > :nth-child(2)::before { content: "Phrase apps: "; font-weight: 600; }
+  .compare .row > :nth-child(3)::before { content: "Input Masters: "; font-weight: 600; color: var(--accent); }
+  .ep-row { grid-template-columns: 32px minmax(0, 1fr); }
+  .ep-row .meta { grid-column: 2; justify-items: start; min-width: 0; }
+  .story { font-size: 17px; padding: 24px 18px 36px; }
+  .prow { grid-template-columns: 1fr; gap: 2px; }
+  .timers { margin-left: 0; padding-block: 2px 8px; }
+  .tnote { text-align: left; }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <button class="brand" data-go="home" aria-label="Input Masters Italian, library"><b>Input Masters</b><span>Italian</span></button>
+    <nav class="nav" id="nav"></nav>
+  </div>
+</header>
+
+<!-- ============================================================ landing -->
+<main id="v-landing" hidden>
+  <div class="wrap">
+    <section class="hero">
+      <div>
+        <div class="eyebrow">Italian through story · A1 to B2</div>
+        <h1>Learn Italian the way you'd binge a sitcom.</h1>
+        <p class="lede">200 episodes of one story, written for learners. Read along, listen to a full cast of voices, and follow the same neighbours from your first <i>buongiorno</i> to fluent conversation.</p>
+        <div class="cta"><button class="btn" data-go="start">Start for free</button><span class="fine">The first 3 episodes are free. No card needed.</span></div>
+      </div>
+      <div class="page" aria-label="A page from Episode 1">
+        <div class="ep"><span>Episode 1 · Il primo giorno</span><span>A1</span></div>
+        <p><span class="u">Sul quaderno ci sono tre frasi.</span> <span class="u">«Allora, Leo. Frase uno.»</span> <span class="now">«<b>Buongiorno</b>!»</span> «Perfetto. Frase due.» «<b>Mi chiamo</b> Kevin.»</p>
+        <div class="en">There are three sentences in the notebook. "So, Leo. Sentence one." "<b>Good morning</b>!" "Perfect. Sentence two." "<b>My name is</b> Kevin."</div>
+        <p>«Tre frasi sono poche» dice una voce. È Chiara.</p>
+        <div class="en">"Three sentences aren't many," says a voice. It's Chiara.</div>
+        <div class="bar"><i>❚❚</i><div class="track"><span></span></div><span class="num">10:32 / 27:38</span></div>
+      </div>
+    </section>
+  </div>
+
+  <section class="band"><div class="wrap">
+    <div class="eyebrow">The method</div>
+    <h2>You learn a language by understanding a lot of it.</h2>
+    <p class="intro-copy">That's the idea behind comprehensible input: take in large amounts of real language that you can mostly follow, pitched just above your level, and your brain does the rest. Each episode uses the Italian you already know plus a few dozen new words, so you follow the story while it stretches you a little. You spend your time reading and listening to Italian, not tapping through exercises.</p>
+    <div class="figures">
+      <div class="figure"><b class="num">2,600+</b><span>Italian words in one beginner episode, rising to about 6,500 at B2</span></div>
+      <div class="figure"><b class="num">~28 min</b><span>of audio per beginner episode, voiced by a full cast</span></div>
+      <div class="figure"><b class="num">1 million</b><span>words of Italian across the whole course, all in context</span></div>
+      <div class="figure"><b class="num">4,300</b><span>words taught by the end of B2, each one met again and again</span></div>
+    </div>
+    <div class="compare" role="table" aria-label="Phrase apps compared with Input Masters">
+      <div class="row" role="row"><span></span><span>Typical phrase app</span><span>Input Masters</span></div>
+      <div class="row" role="row"><span>What you read</span><span>Short, unconnected sentences</span><span>A complete episode with a beginning, a middle and a cliffhanger</span></div>
+      <div class="row" role="row"><span>Time in Italian</span><span>A few seconds at a time, between taps, animations and loading screens</span><span>30 to 45 minutes of uninterrupted reading and listening</span></div>
+      <div class="row" role="row"><span>New words</span><span>Drilled on their own until they stick</span><span>Met in the story, then again in later episodes, in new situations</span></div>
+      <div class="row" role="row"><span>Grammar</span><span>Rules and fill-in-the-blank</span><span>A short lesson, then you see it working all through the episode</span></div>
+      <div class="row" role="row"><span>Why you come back</span><span>A streak counter</span><span>You want to know what happens next</span></div>
+    </div>
+  </div></section>
+
+  <section class="band"><div class="wrap">
+    <div class="eyebrow">The show</div>
+    <h2>Episodes, not exercises.</h2>
+    <p class="intro-copy"><i>Via dei Tigli</i> is a street in Borgoverde, a small town north of Milan. The Carters have just moved there from Ohio, next door to a neighbour who sees everything and down the street from a grandfather who won't admit he's lonely. Like any good sitcom, it runs in seasons: 8 seasons of 25 episodes, with running jokes, secrets and a cast you get to know. You come back for the characters, and the Italian comes with them.</p>
+    <div class="cast" id="cast"></div>
+  </div></section>
+
+  <section class="band"><div class="wrap">
+    <div class="eyebrow">In every episode</div>
+    <h2>Everything you need, around one story.</h2>
+    <div class="feats">
+      <div class="feat"><h3>Read-along audio</h3><p>A narrator and a voice for every character. Words underline as they're spoken. Play from any sentence and set your own speed.</p></div>
+      <div class="feat"><h3>Side by side</h3><p>Italian and English, sentence by sentence, when you want to check. One tap shows a single translation in the story.</p></div>
+      <div class="feat"><h3>Vocabulary</h3><p>The episode's new words, each with its sentence from the story. Mark what you know, or take the list into Anki.</p></div>
+      <div class="feat"><h3>A short grammar lesson</h3><p>One point per episode, explained in plain English with examples quoted from the story you just read.</p></div>
+      <div class="feat"><h3>A short introduction</h3><p>What the episode is about, and one moment to look out for, so you always know where you are.</p></div>
+      <div class="feat"><h3>Your progress</h3><p>Time spent reading and listening, per episode and overall, and how many words you've met so far.</p></div>
+    </div>
+  </div></section>
+
+  <section class="band"><div class="wrap">
+    <div class="eyebrow">The path</div>
+    <h2>From your first words to B2.</h2>
+    <p class="intro-copy">The Italian grows with you. Early episodes use short sentences in the present tense; later ones sound like Italians talking.</p>
+    <div class="path">
+      <div class="step"><div class="lv">A1</div><p><b>25 episodes</b> · Beginner</p><p>About 650 words by the end</p></div>
+      <div class="step"><div class="lv">A2</div><p><b>50 episodes</b> · Elementary</p><p>About 1,850 words</p></div>
+      <div class="step"><div class="lv">B1</div><p><b>50 episodes</b> · Intermediate</p><p>About 2,950 words</p></div>
+      <div class="step"><div class="lv">B2</div><p><b>75 episodes</b> · Upper intermediate</p><p>About 4,300 words</p></div>
+    </div>
+  </div></section>
+
+  <section class="band" id="pricing"><div class="wrap">
+    <div class="eyebrow">Pricing</div>
+    <h2>Start with three episodes, free.</h2>
+    <div class="plans">
+      <div class="plan"><h3>Free</h3><ul><li>Episodes 1 to 3</li><li>Every feature: audio, side by side, vocabulary, grammar</li><li>No card needed</li></ul><button class="btn ghost" data-go="start">Start for free</button></div>
+      <div class="plan main"><h3>Full course</h3><ul><li>All 200 episodes, A1 to B2</li><li>New episodes as they're released</li><li>Your progress carries over</li></ul><p class="price">Price coming soon.</p><button class="btn" data-go="unlock">Unlock all episodes</button></div>
+    </div>
+  </div></section>
+
+  <div class="wrap"><footer class="foot"><span>Input Masters · Italian</span><span>Prototype. Accounts and payments come with the full app.</span></footer></div>
+</main>
+
+<!-- ============================================================ library -->
+<main id="v-home" hidden><div class="wrap">
+  <div class="libhead" id="libhead"></div>
+  <div id="levels"></div>
+  <footer class="foot"><span>Your progress is saved in this browser (prototype).</span><button id="reset">Reset my progress</button></footer>
+</div></main>
+
+<!-- ============================================================ chapter -->
+<main id="v-chapter" hidden><div class="wrap">
+  <div class="chbar"><button class="back" data-go="home">← Library</button></div>
+  <header class="chhead" id="chhead"></header>
+  <div class="tabs" id="tabsbar"><div class="tablist" role="tablist" id="tabs"></div><div class="timers" id="timers"></div></div>
+  <div class="tools" id="tools"></div>
+  <section id="panel"></section>
+</div></main>
+
+<div id="modal"></div>
+
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const fmt = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<mark class="v">$1</mark>').replace(/(^|[^\w])_(.+?)_(?![\w])/g, "$1<i>$2</i>");
+  const md = (s) => (window.marked ? window.marked.parse(s || "") : "<pre>" + esc(s) + "</pre>");
+  const TABS = [["vocab", "Vocabulary"], ["grammar", "Grammar"], ["story", "Story"], ["parallel", "Side by side"]];
+  const LEVEL_NAMES = { A1: "Beginner", A2: "Elementary", B1: "Intermediate", B2: "Upper intermediate" };
+  const IDLE_MS = 2 * 60 * 1000;   // reading pauses after 2 minutes without a click, tap, scroll or key
+  const CAST = [
+    ["Kevin", 41, "An American dad from Columbus who quit his job to move to Italy. Enthusiastic, and his Italian is a work in progress."],
+    ["Chiara", 40, "Kevin's wife, an architect who grew up on this street. Caught between two countries and a Milan commute."],
+    ["Emma", 15, "Their daughter. Her Italian is good but \"American\", and she is desperate to sound native."],
+    ["Leo", 8, "Their son. Zero self-consciousness; he makes friends with the baker, the cat and everyone else."],
+    ["Franco", 71, "Chiara's father, a retired tram driver. Grows tomatoes, zucchini and opinions."],
+    ["Ornella", 78, "The neighbour at number 16. She knew Chiara as a child and sees everything from her window."],
+    ["Matteo", 36, "Chiara's younger brother. Runs Bar Tigli, a dreamer with a coffee machine."],
+    ["Nadia", 34, "The local pharmacist and Matteo's partner of six years. Franco asks about a wedding every Sunday."],
+    ["Roberto", 50, "President of the street's residents' committee, keeper of the rules and a perfect hedge."],
+  ];
+
+  // ---------------------------------------------------------------- progress
+  // Everything the learner does, in one object. The prototype keeps it in this browser; in the full
+  // app this module is the only part that changes: it loads from and saves to the server
+  // (docs/app-spec.md, "Progress").
+  const Progress = (() => {
+    const KEY = "im-italian-v1";
+    const blank = () => ({ v: 1, started: false, unlocked: false, last: null, known: {}, total: { read: 0, listen: 0 }, days: {}, ch: {} });
+    let p = blank(), dirty = false;
+    try { p = { ...blank(), ...(JSON.parse(localStorage.getItem(KEY)) || {}) }; } catch {}
+    return {
+      get: () => p,
+      ch(cid) { return (p.ch[cid] ||= { read: 0, listen: 0, tab: "story", at: null, far: -1, played: {}, t: 0 }); },
+      touch() { dirty = true; },
+      save(force) { if (!dirty && !force) return; dirty = false; try { localStorage.setItem(KEY, JSON.stringify(p)); } catch {} },
+      addTime(cid, kind, sec) {
+        const day = new Date().toISOString().slice(0, 10);
+        this.ch(cid)[kind] += sec; p.total[kind] += sec;
+        const d = (p.days[day] ||= { read: 0, listen: 0 }); d[kind] += sec;
+        dirty = true;
+      },
+      reset() { p = blank(); dirty = true; this.save(); },
+    };
+  })();
+  setInterval(() => Progress.save(), 5000);
+  addEventListener("pagehide", () => Progress.save(true));
+  document.addEventListener("visibilitychange", () => { if (document.hidden) Progress.save(true); });
+
+  const clockLong = (sec) => { sec = Math.floor(sec); const h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
+    return h ? `${h}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}` : `${m}:${String(s).padStart(2, "0")}`; };
+  const hm = (sec) => { const m = Math.round(sec / 60); return m < 60 ? `${m} min` : `${Math.floor(m / 60)} h ${m % 60} min`; };
+
+  // ---------------------------------------------------------------- state
+  let CAT = null, view = "landing", cur = null, data = null, tab = "story";
+  const cache = {};
+  const P = Progress.get;
+  const chapterRow = (cid) => CAT.chapters.find((c) => c.id === cid);
+  const unlockedFor = (c) => c.free || P().unlocked;
+
+  function go(v) {
+    if (v === "start") { P().started = true; Progress.touch(); Progress.save(true); v = "home"; }
+    if (v === "unlock") return showUnlock();
+    if (v === "home" && !P().started) v = "landing";
+    if (view === "chapter" && v !== "chapter") stopPlayer();
+    view = v;
+    for (const id of ["landing", "home", "chapter"]) $("v-" + id).hidden = id !== v;
+    renderNav();
+    if (v === "home") renderHome();
+    window.scrollTo(0, 0);
+  }
+
+  // The tab bar sticks just under the top bar, whose height changes when it wraps on a phone.
+  const setTopbar = () => document.documentElement.style.setProperty("--topbar", document.querySelector(".top").offsetHeight + "px");
+  addEventListener("resize", setTopbar);
+
+  function renderNav() {
+    const started = P().started;
+    $("nav").innerHTML = (started ? `<button class="link" data-go="home" aria-current="${view !== "landing"}">Library</button>` : "") +
+      `<button class="link" data-go="landing" aria-current="${view === "landing"}">How it works</button>` +
+      (P().unlocked ? `<span class="chip">Full course</span>` : `<button class="btn small ghost" data-go="unlock">Unlock all episodes</button>`) +
+      (started ? "" : `<button class="btn small" data-go="start">Start for free</button>`);
+    setTopbar();
+  }
+
+  // ---------------------------------------------------------------- library
+  function wordsMet() {
+    // Vocabulary items taught up to and including the furthest chapter opened.
+    let best = null;
+    for (const c of CAT.chapters) if (P().ch[c.id] && c.written) best = c;
+    return best ? { n: best.vocab_through, at: best } : { n: 0, at: null };
+  }
+  function pct(c) {
+    const pc = P().ch[c.id];
+    return pc && c.segments ? Math.min(100, Math.round(100 * (pc.far + 1) / c.segments)) : 0;
+  }
+
+  function renderHome() {
+    const p = P(), last = p.last && chapterRow(p.last);
+    const first = CAT.chapters.find((c) => c.written);
+    const tabName = (k) => (TABS.find(([t]) => t === k) || [0, "Story"])[1];
+    const cont = last
+      ? `<div class="cont"><div class="what"><small>Pick up where you left off</small><span>Chapter ${last.n} · ${esc(last.theme)}</span> <em>· ${tabName(p.ch[last.id]?.tab)} · ${pct(last)}% read</em></div>
+         <button class="btn small" data-open="${last.id}">Continue</button></div>`
+      : `<div class="cont"><div class="what"><small>Start here</small><span>Chapter 1 · ${esc(first.theme)}</span> <em>· ${esc(first.title.it)}</em></div>
+         <button class="btn small" data-open="${first.id}">Start Chapter 1</button></div>`;
+    const met = wordsMet(), goal = CAT.levels.B2.vocab_by_end;
+    const known = Object.keys(p.known).length;
+    const week = Object.entries(p.days).filter(([d]) => (Date.now() - Date.parse(d)) < 7 * 864e5).reduce((a, [, v]) => a + v.read + v.listen, 0);
+    $("libhead").innerHTML = cont + `<div class="sum">
+      <div class="stat"><small>Reading</small><b>${hm(p.total.read)}</b><div class="sub">all episodes</div></div>
+      <div class="stat"><small>Listening</small><b>${hm(p.total.listen)}</b><div class="sub">all episodes</div></div>
+      <div class="stat"><small>Words you've met</small><b class="num">${met.n.toLocaleString()}</b><div class="sub">of ${goal.toLocaleString()} by the end of B2${known ? ` · ${known} marked known` : ""}</div><div class="meter"><span style="width:${Math.min(100, 100 * met.n / goal)}%"></span></div></div>
+      <div class="stat"><small>This week</small><b>${hm(week)}</b><div class="sub">reading and listening</div></div></div>`;
+    const byLevel = {};
+    for (const c of CAT.chapters) (byLevel[c.level] ||= []).push(c);
+    $("levels").innerHTML = Object.entries(byLevel).map(([lv, chs]) => {
+      const written = chs.filter((c) => c.written);
+      const rows = written.map((c) => {
+        const pc = p.ch[c.id], locked = !unlockedFor(c);
+        const time = pc && (pc.read || pc.listen) ? `Read ${hm(pc.read)} · Listened ${hm(pc.listen)}` : c.audio_minutes ? `${Math.round(c.audio_minutes)} min audio` : "Audio coming soon";
+        return `<button class="ep-row${locked ? " locked" : ""}" data-open="${c.id}">
+          <span class="n">${c.n}</span>
+          <span><span class="t">${esc(c.theme)}</span><span class="s">${esc(c.title.it)}</span></span>
+          <span class="meta">${locked ? `<span class="lock">Full course</span>` : c.free && !p.unlocked ? `<span class="chip">Free</span>` : ""}<span>${time}</span>${pc ? `<span class="meter"><span style="width:${pct(c)}%"></span></span>` : ""}</span></button>`;
+      }).join("");
+      const missing = chs.length - written.length;
+      return `<section class="level"><h2><b>${lv}</b> ${LEVEL_NAMES[lv]} · Chapters ${chs[0].n}–${chs.at(-1).n}</h2><div class="eps">${rows}</div>
+        ${missing ? `<div class="more">${missing} more episode${missing > 1 ? "s" : ""} in production.</div>` : ""}</section>`;
+    }).join("");
+  }
+
+  // ---------------------------------------------------------------- chapter
+  let segOrder = {};
+  async function openChapter(cid) {
+    const c = chapterRow(cid);
+    if (!c || !c.written) return;
+    stopPlayer(); closePop();
+    cur = cid; data = null;
+    const pc = Progress.ch(cid);
+    tab = pc.tab || "story";
+    P().last = cid; Progress.touch();
+    Timers.manual = false; Timers.lastAct = Date.now();
+    go("chapter");
+    $("chhead").innerHTML = `<div class="eyebrow">${c.level} · Chapter ${c.n}</div><h1>${esc(c.theme)}</h1><div class="g">Grammar: ${esc(c.grammar)}</div>`;
+    if (!unlockedFor(c)) {
+      $("tabsbar").hidden = true; $("tools").innerHTML = ""; $("timers").innerHTML = "";
+      $("panel").innerHTML = `<div class="paywall">${c.intro ? `<div class="intro"><b>About this episode</b>${esc(c.intro)}</div>` : ""}
+        <h2>This episode is part of the full course.</h2><p>The first ${CAT.free_chapters} episodes are free. Unlock all 200 to keep following the story.</p>
+        <button class="btn" data-go="unlock">Unlock all episodes</button></div>`;
+      return;
+    }
+    $("tabsbar").hidden = false;
+    $("panel").innerHTML = '<p class="tools">Loading the episode…</p>';
+    try { data = cache[cid] ||= await (await fetch("content/chapters/" + cid + ".json")).json(); }
+    catch { $("panel").innerHTML = `<p class="tools">Couldn't load this episode. Check your connection and try again.</p>`; return; }
+    if (cur !== cid) return;
+    segOrder = {}; let i = 0;
+    for (const sc of data.scenes) for (const para of sc.paragraphs) for (const s of para) segOrder[s.id] = i++;
+    renderPanel();
+  }
+
+  const loc = (id) => CAT.locations[id] || id;
+  const who = (id) => CAT.speakers[id] || id;
+  const sceneTitle = (sc) => `${esc(loc(sc.location))}${sc.time ? " · " + esc(sc.time) : ""}`;
+  const introBox = () => data.intro ? `<div class="intro"><b>About this episode</b>${esc(data.intro)}</div>` : "";
+
+  function wordsHtml(s) {
+    if (!s.tokens?.length) return fmt(s.it);
+    return s.tokens.map(([t, w, f]) => {
+      let h = esc(t);
+      if (w >= 0) h = `<span class="w" data-w="${s.id}.${w}">${h}</span>`;
+      if (f.includes("b")) h = `<mark class="v">${h}</mark>`;
+      if (f.includes("i")) h = `<i>${h}</i>`;
+      return h;
+    }).join("");
+  }
+
+  function story() {
+    const showEn = !!P().showEn;
+    $("tools").innerHTML = `<label><input type="checkbox" id="t-en"${showEn ? " checked" : ""}> Show English under every sentence</label><span>Tap a sentence to play from there or see its translation.</span>`;
+    let h = `<div class="${showEn ? "show-en" : ""}" id="story"><article class="story"><h2 class="story-title">${esc(data.title.it)}<span>${esc(data.title.en)}</span></h2>${introBox()}`;
+    for (const sc of data.scenes) {
+      h += `<h3 class="scene-h">${sceneTitle(sc)}</h3>`;
+      for (const para of sc.paragraphs) h += "<p>" + para.map((s) => `<span class="seg" data-seg="${s.id}">${wordsHtml(s)}</span> <span class="en">${fmt(s.en)}</span>`).join(" ") + "</p>";
+    }
+    return h + "</article></div>";
+  }
+  function parallel() {
+    $("tools").innerHTML = `<span>One row per sentence. Tap an Italian sentence to play from there.</span>`;
+    let h = introBox() + '<div class="pgrid">';
+    for (const sc of data.scenes) {
+      h += `<div class="prow scene">${sceneTitle(sc)}</div>`;
+      for (const para of sc.paragraphs) for (const s of para)
+        h += `<div class="prow"><div class="sp">${s.speakers.map((v) => esc(who(v))).join(", ")}</div><div class="it seg" data-seg="${s.id}">${wordsHtml(s)}</div><div class="tr">${fmt(s.en)}</div></div>`;
+    }
+    return h + "</div>";
+  }
+  function vocab() {
+    const c = chapterRow(cur), segs = {};
+    for (const sc of data.scenes) for (const para of sc.paragraphs) for (const s of para) segs[s.id] = s;
+    $("tools").innerHTML = `<span>By the end of this episode you'll have met <b>${c.vocab_through.toLocaleString()}</b> words in the course.</span>` +
+      (data.anki ? `<button class="btn small" id="anki-dl">Download for Anki</button>` : "");
+    const rows = data.vocab.map((v) => {
+      const ex = segs[v.example], k = !!P().known[v.id];
+      return `<tr class="${k ? "known" : ""}"><td class="lemma">${esc(v.lemma)}</td><td><span class="pos">${esc(v.pos)}</span></td><td>${esc(v.en)}${v.note ? `<div class="ext">${esc(v.note)}</div>` : ""}</td>
+        <td>${ex ? `<div class="ex">${fmt(ex.it)}</div><div class="ext">${fmt(ex.en)}</div>` : ""}</td>
+        <td><label><input type="checkbox" data-known="${v.id}"${k ? " checked" : ""}> I know it</label></td></tr>`;
+    }).join("");
+    return `<div class="tablewrap"><table><thead><tr><th>Italian</th><th>Type</th><th>English</th><th>From the story</th><th></th></tr></thead><tbody>${rows}</tbody></table></div>`;
+  }
+  function grammar() { $("tools").innerHTML = ""; return `<div class="md">${md(data.grammar)}</div>`; }
+
+  function renderPanel() {
+    $("tabs").innerHTML = TABS.map(([k, l]) => `<button class="tab" role="tab" data-tab="${k}" aria-selected="${k === tab}">${l}</button>`).join("");
+    const views = { story, parallel, vocab, grammar };
+    $("panel").innerHTML = views[tab]() + (tab === "story" || tab === "parallel" ? playerBar() : "");
+    applyPlayed();
+    restorePlace();
+    Timers.render();
+  }
+
+  // Reading place: the first sentence visible under the tabs, kept per chapter, so Story and Side by
+  // side open at the same sentence and Continue returns to it.
+  function restorePlace() {
+    if (tab !== "story" && tab !== "parallel") return;
+    const id = Progress.ch(cur).at, el = id && document.querySelector(`#panel [data-seg="${id}"]`);
+    const topBar = document.querySelector(".top").offsetHeight;
+    if (el) window.scrollTo(0, el.getBoundingClientRect().top + scrollY - topBar - $("tabsbar").offsetHeight - 16);
+  }
+  function bumpFar(segId) {
+    const pc = Progress.ch(cur), i = segOrder[segId];
+    if (i != null && i > pc.far) { pc.far = i; Progress.touch(); }
+  }
+  let placeQueued = false;
+  addEventListener("scroll", () => {
+    if (view !== "chapter" || placeQueued || (tab !== "story" && tab !== "parallel") || !data) return;
+    placeQueued = true;
+    requestAnimationFrame(() => {
+      placeQueued = false;
+      const top = $("tabsbar").getBoundingClientRect().bottom + 4;
+      const els = document.querySelectorAll("#panel [data-seg]");
+      for (const el of els) if (el.getBoundingClientRect().bottom > top) { Progress.ch(cur).at = el.dataset.seg; Progress.touch(); break; }
+      // Whatever has scrolled past the middle of the screen counts as read.
+      let seen = null;
+      for (const el of els) { if (el.getBoundingClientRect().top < innerHeight * 0.6) seen = el.dataset.seg; else break; }
+      if (seen) bumpFar(seen);
+    });
+  }, { passive: true });
+
+  // ---------------------------------------------------------------- timers
+  // Reading: counts while a chapter is open in the front tab, until 2 minutes pass without a click,
+  // tap, scroll or key (it restarts on the next one), or until the learner pauses it.
+  // Listening: counts while the audio plays. Both can run at once (reading along).
+  const Timers = {
+    manual: false, lastAct: Date.now(), last: performance.now(),
+    reading() { return view === "chapter" && !!data && !document.hidden && !this.manual && Date.now() - this.lastAct < IDLE_MS; },
+    idle() { return view === "chapter" && !this.manual && Date.now() - this.lastAct >= IDLE_MS; },
+    listening() { return view === "chapter" && A.el && !A.el.paused; },
+    render() {
+      if (view !== "chapter" || !data) return;
+      const pc = Progress.ch(cur), r = this.reading(), l = this.listening();
+      const readBtn = this.manual ? "Resume" : "Pause";
+      $("timers").innerHTML = `<span class="timer${r ? " on" : ""}${this.idle() ? " auto" : ""}" title="Reading time for this episode"><span class="dot"></span>Reading <b>${clockLong(pc.read)}</b><button id="read-toggle">${readBtn}</button></span>` +
+        (data.timing ? `<span class="timer listen${l ? " on" : ""}" title="Listening time for this episode"><span class="dot"></span>Listening <b>${clockLong(pc.listen)}</b></span>` : "") +
+        (this.idle() ? `<span class="tnote">Reading timer paused: no activity for 2 minutes. Scroll or tap to carry on.</span>` : this.manual ? `<span class="tnote">Reading timer paused.</span>` : "");
+    },
+  };
+  for (const ev of ["pointerdown", "wheel", "touchmove", "keydown"]) addEventListener(ev, () => { const was = Timers.idle(); Timers.lastAct = Date.now(); if (was) Timers.render(); }, { passive: true });
+  setInterval(() => {
+    const now = performance.now(), dt = Math.min(2, (now - Timers.last) / 1000);
+    Timers.last = now;
+    if (view !== "chapter" || !data) return;
+    if (Timers.reading()) Progress.addTime(cur, "read", dt);
+    if (Timers.listening()) Progress.addTime(cur, "listen", dt);
+    Timers.render();
+  }, 1000);
+
+  // ---------------------------------------------------------------- audio and read-along
+  const A = { el: null, words: [], ptr: 0, raf: 0, lastSave: 0, playing: false };
+  const speed = () => +(P().speed || 1);
+  function audioInit() {
+    if (A.el && A.el.dataset.ch === cur) return;
+    if (A.el) { A.el.pause(); A.el.remove(); }
+    A.el = new Audio("content/" + data.audio);
+    A.el.dataset.ch = cur; A.el.preload = "metadata";
+    A.words = Object.entries(data.timing.words).map(([id, se]) => [se[0], id]).sort((a, b) => a[0] - b[0]);
+    A.el.addEventListener("ended", () => { stopPlayer(); Progress.ch(cur).t = 0; updateBar("Finished. Every word you heard stays underlined."); });
+    A.el.addEventListener("error", () => updateBar("Couldn't load the audio. Check your connection and try again."));
+  }
+  function seekPtr(t) { let lo = 0, hi = A.words.length; while (lo < hi) { const m = (lo + hi) >> 1; if (A.words[m][0] <= t) lo = m + 1; else hi = m; } A.ptr = lo; }
+  function markPlayed(id) {
+    const i = id.lastIndexOf("."), seg = id.slice(0, i), n = +id.slice(i + 1);
+    const played = Progress.ch(cur).played;
+    if ((played[seg] ?? -1) < n) { played[seg] = n; Progress.touch(); bumpFar(seg); }
+    document.querySelectorAll(".w.now").forEach((el) => el.classList.remove("now"));
+    document.querySelectorAll(`[data-w="${id}"]`).forEach((el) => el.classList.add("played"));
+    const el = document.querySelector(`#panel [data-w="${id}"]`);
+    if (el) {
+      el.classList.add("now");
+      const r = el.getBoundingClientRect();
+      if (r.top < 140 || r.bottom > innerHeight - 120) el.scrollIntoView({ block: "center", behavior: "smooth" });
+    }
+  }
+  function applyPlayed() {
+    const m = Progress.ch(cur).played;
+    document.querySelectorAll("#panel [data-w]").forEach((el) => {
+      const id = el.dataset.w, i = id.lastIndexOf(".");
+      if ((m[id.slice(0, i)] ?? -1) >= +id.slice(i + 1)) el.classList.add("played");
+    });
+  }
+  function tick() {
+    const t = A.el.currentTime;
+    while (A.ptr < A.words.length && A.words[A.ptr][0] <= t) markPlayed(A.words[A.ptr++][1]);
+    if (Math.abs(t - A.lastSave) > 2) { Progress.ch(cur).t = t; Progress.touch(); A.lastSave = t; const m = $("ptime"); if (m) m.textContent = pclock(t); }
+    if (A.playing) A.raf = requestAnimationFrame(tick);
+  }
+  const pclock = (t) => `${clockLong(t)} / ${clockLong(data.timing.duration)}`;
+  function audioPlay(t) {
+    audioInit();
+    A.el.playbackRate = speed(); A.el.preservesPitch = true;
+    A.el.currentTime = Math.max(0, t); seekPtr(A.el.currentTime);
+    A.playing = true;
+    A.el.play().then(() => { A.raf = requestAnimationFrame(tick); updateBar(); Timers.render(); })
+      .catch(() => { A.playing = false; updateBar("The browser blocked playback. Press Play again."); });
+  }
+  function stopPlayer() {
+    A.playing = false;
+    if (A.el) { if (!A.el.paused && cur) { Progress.ch(cur).t = A.el.currentTime; Progress.touch(); } A.el.pause(); cancelAnimationFrame(A.raf); }
+    document.querySelectorAll(".w.now").forEach((el) => el.classList.remove("now"));
+  }
+  function playerBar() {
+    if (!data.timing) return `<div class="pbar" id="pbar"><span class="msg">Audio for this episode is on its way.</span></div>`;
+    const pos = Progress.ch(cur).t || 0;
+    return `<div class="pbar" id="pbar"><button class="play" data-act="toggle">${A.playing ? "Pause" : "▶ Play"}</button>
+      ${pos > 0 && !A.playing ? `<button data-act="resume">Resume where you left off</button>` : ""}
+      <button data-act="clear">Clear underlines</button>
+      <label>Speed <select id="p-speed">${[0.75, 1, 1.25, 1.5].map((r) => `<option value="${r}"${r === speed() ? " selected" : ""}>${r}×</option>`).join("")}</select></label>
+      <span class="msg num" id="ptime">${pclock(pos)}</span></div>`;
+  }
+  function updateBar(msg) { const b = $("pbar"); if (!b) return; b.outerHTML = playerBar(); if (msg && $("ptime")) $("ptime").textContent = msg; }
+  function playerAction(act, seg) {
+    closePop();
+    const pc = Progress.ch(cur);
+    if (act === "toggle") { if (A.playing) { stopPlayer(); updateBar(); Timers.render(); } else audioPlay(pc.t || 0); }
+    if (act === "resume") audioPlay(pc.t || 0);
+    if (act === "clear") { stopPlayer(); pc.played = {}; pc.t = 0; Progress.touch(); document.querySelectorAll(".w.played").forEach((el) => el.classList.remove("played")); updateBar(); }
+    if (act === "from") { stopPlayer(); audioPlay((data.timing.segments[seg] || [0])[0] - 0.05); }
+    if (act === "en") { const el = document.querySelector(`.story [data-seg="${seg}"]`); if (el) el.classList.toggle("open"); }
+  }
+  function openPop(sg, e) {
+    closePop();
+    const pop = document.createElement("div"), seg = sg.dataset.seg;
+    pop.className = "pop"; pop.id = "pop";
+    pop.innerHTML = (data.timing ? `<button data-act="from" data-seg="${seg}">▶ Play from here</button>` : "") +
+      (sg.closest(".story") ? `<button data-act="en" data-seg="${seg}">Translation</button>` : "");
+    if (!pop.innerHTML) return;
+    document.body.appendChild(pop);
+    const r = sg.getBoundingClientRect();
+    pop.style.left = Math.max(8, Math.min(e.pageX - 20, innerWidth - pop.offsetWidth - 8)) + "px";
+    pop.style.top = (r.top + scrollY - pop.offsetHeight - 6) + "px";
+  }
+  function closePop() { const p = $("pop"); if (p) p.remove(); }
+
+  async function downloadAnki() {
+    const c = chapterRow(cur);
+    const name = `Input Masters Italian - Chapter ${String(c.n).padStart(3, "0")} - ${c.theme}.csv`.replace(/[\\/:*?"<>|]/g, "");
+    const dl = await window.claude?.use?.("downloads");
+    const tell = (m) => { const s = document.querySelector("#tools span"); if (s) s.textContent = m; };
+    if (!dl) return tell("Downloads aren't available in this view.");
+    try { await dl.save({ filename: name, data: data.anki }); tell("Saved. In Anki, choose File → Import and pick the file."); }
+    catch (e) { if (e && e.code !== "declined") tell("Couldn't save the file (" + (e.code || "error") + ")."); }
+  }
+
+  // ---------------------------------------------------------------- unlock (Stripe later)
+  function showUnlock() {
+    $("modal").innerHTML = `<div class="modal" id="m-bg"><div class="box" role="dialog" aria-modal="true" aria-labelledby="m-h">
+      <h2 id="m-h">Unlock all episodes</h2>
+      <p>The full course: all 200 episodes of <i>Via dei Tigli</i>, A1 to B2, with audio, vocabulary and grammar. Your progress carries over.</p>
+      <p class="proto">Prototype: payment arrives with the full app. You can simulate an unlocked account to try the full library.</p>
+      <div class="row"><button class="btn" id="m-sim">${P().unlocked ? "Lock again (simulate free)" : "Simulate unlock"}</button><button class="btn ghost" id="m-close">Close</button></div></div></div>`;
+  }
+  function closeModal() { $("modal").innerHTML = ""; }
+
+  // ---------------------------------------------------------------- events
+  document.addEventListener("click", (e) => {
+    const t = e.target;
+    if (t.id === "m-bg" || t.id === "m-close") return closeModal();
+    if (t.id === "m-sim") { P().unlocked = !P().unlocked; Progress.touch(); Progress.save(true); closeModal(); renderNav(); if (view === "home") renderHome(); if (view === "chapter" && cur) openChapter(cur); return; }
+    if (t.id === "read-toggle") { Timers.manual = !Timers.manual; Timers.lastAct = Date.now(); return Timers.render(); }
+    if (t.id === "reset") { stopPlayer(); Progress.reset(); return go("landing"); }
+    if (t.id === "anki-dl") return downloadAnki();
+    const g = t.closest("[data-go]"); if (g) return go(g.dataset.go);
+    const o = t.closest("[data-open]"); if (o) return openChapter(o.dataset.open);
+    const tb = t.closest("[data-tab]"); if (tb) { stopPlayer(); tab = tb.dataset.tab; Progress.ch(cur).tab = tab; Progress.touch(); return renderPanel(); }
+    const act = t.closest("[data-act]"); if (act) return playerAction(act.dataset.act, act.dataset.seg);
+    const sg = t.closest(".seg"); if (sg && view === "chapter") return openPop(sg, e);
+    closePop();
+  });
+  document.addEventListener("change", (e) => {
+    const t = e.target;
+    if (t.id === "t-en") { P().showEn = t.checked; Progress.touch(); $("story").classList.toggle("show-en", t.checked); }
+    if (t.id === "p-speed") { P().speed = +t.value; Progress.touch(); if (A.el) A.el.playbackRate = +t.value; }
+    if (t.dataset.known) { if (t.checked) P().known[t.dataset.known] = true; else delete P().known[t.dataset.known]; Progress.touch(); t.closest("tr").classList.toggle("known", t.checked); }
+  });
+  addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+  // ---------------------------------------------------------------- start
+  $("cast").innerHTML = CAST.map(([n, a, d]) => `<div class="person"><b>${n}</b><span class="age">${a}</span><p>${esc(d)}</p></div>`).join("");
+  (async () => {
+    try { CAT = await (await fetch("content/catalog.json")).json(); }
+    catch { $("v-landing").hidden = false; return; }
+    go(P().started ? "home" : "landing");
+  })();
+})();
+</script>

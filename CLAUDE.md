@@ -64,6 +64,12 @@ page for every chapter: story, side by side, vocabulary, grammar, audio script, 
 To refresh it after new chapters: `python3 scripts/build_reader.py`, then publish `reader/index.html`
 to that URL with `index.json` and every `data/<id>.json` as files (both generated, git-ignored).
 
+Learner app (product name **Input Masters · Italian**; built on Replit once all 200 chapters and audio
+exist): prototype `app/index.html` at https://claude.ai/artifact/6nEntWJYwZ3BeFeHAGY3KN, spec and
+hand-off in `docs/app-spec.md`. `python3 scripts/export_app.py` writes the content bundle `app/content/`
+(git-ignored); publish the page with `content/catalog.json`, `content/chapters/*.json` and
+`content/audio/*.mp3` as files.
+
 Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review),
 `build_curriculum.py` (validates plans, regenerates the overview), `update_logs.py`.
 
