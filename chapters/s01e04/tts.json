@@ -67,7 +67,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, slowly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, slowly"
                   }
                 ]
               },
@@ -89,7 +89,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, dry"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, dry"
                   }
                 ]
               },
@@ -117,7 +117,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -216,11 +216,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -271,7 +271,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -293,7 +293,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, sighing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, sighing"
                   }
                 ]
               },
@@ -304,7 +304,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, thinking to themself, quiet and close"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
                   }
                 ]
               }
@@ -325,7 +325,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -375,7 +375,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               }
@@ -392,7 +392,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -454,7 +454,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -476,7 +476,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -493,7 +493,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -578,11 +578,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -665,7 +665,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -687,7 +687,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -709,7 +709,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -731,7 +731,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               },
@@ -753,7 +753,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -764,7 +764,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, thinking to themself, quiet and close"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
                   }
                 ]
               },
@@ -786,7 +786,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -818,7 +818,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -887,11 +887,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -930,7 +930,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, too friendly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, too friendly"
                   }
                 ]
               },
@@ -962,7 +962,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -1028,11 +1028,11 @@
             "speakers": [
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -1079,7 +1079,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1101,7 +1101,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, nodding"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, nodding"
                   }
                 ]
               },
@@ -1112,7 +1112,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -1133,7 +1133,7 @@
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -1200,11 +1200,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -1255,7 +1255,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1277,7 +1277,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, quickly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, quickly"
                   }
                 ]
               },
@@ -1299,7 +1299,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -1320,7 +1320,7 @@
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -1387,11 +1387,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -1454,7 +1454,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1476,7 +1476,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1498,7 +1498,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, happy"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, happy"
                   }
                 ]
               },
@@ -1520,7 +1520,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1552,7 +1552,7 @@
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -1619,11 +1619,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -1666,7 +1666,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1688,7 +1688,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, ironic"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, ironic"
                   }
                 ]
               }
@@ -1709,7 +1709,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -1775,11 +1775,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -1822,7 +1822,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1844,7 +1844,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -1865,7 +1865,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -1932,11 +1932,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -1977,7 +1977,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -1999,7 +1999,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -2020,7 +2020,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -2122,11 +2122,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -2169,7 +2169,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -2191,7 +2191,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -2212,7 +2212,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -2266,7 +2266,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, excited"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, excited"
                   }
                 ]
               }
@@ -2283,7 +2283,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -2356,11 +2356,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -2398,7 +2398,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, writing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, writing"
                   }
                 ]
               },
@@ -2430,7 +2430,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -2512,11 +2512,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -2555,7 +2555,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -2587,7 +2587,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -2654,11 +2654,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -2703,7 +2703,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, laughing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, laughing"
                   }
                 ]
               },
@@ -2725,7 +2725,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -2746,7 +2746,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -2800,7 +2800,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -2828,7 +2828,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -2882,7 +2882,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -2899,7 +2899,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -2977,7 +2977,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -2999,7 +2999,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3021,7 +3021,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, surprised"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, surprised"
                   }
                 ]
               },
@@ -3043,7 +3043,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -3060,7 +3060,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -3131,11 +3131,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -3186,7 +3186,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3208,7 +3208,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, writing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, writing"
                   }
                 ]
               },
@@ -3230,7 +3230,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, confident"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, confident"
                   }
                 ]
               }
@@ -3251,7 +3251,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -3318,11 +3318,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -3369,7 +3369,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, slowly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, slowly"
                   }
                 ]
               },
@@ -3391,7 +3391,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3423,7 +3423,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -3473,7 +3473,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -3490,7 +3490,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -3568,7 +3568,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3590,7 +3590,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3612,7 +3612,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3634,7 +3634,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -3651,7 +3651,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -3722,11 +3722,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -3765,7 +3765,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3797,7 +3797,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -3863,7 +3863,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3885,7 +3885,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -3907,7 +3907,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -3924,7 +3924,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -4010,11 +4010,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -4099,7 +4099,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, thinking to themself, quiet and close"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
                   }
                 ]
               },
@@ -4110,7 +4110,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -4132,7 +4132,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -4154,7 +4154,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -4176,7 +4176,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -4198,7 +4198,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, smiling"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, smiling"
                   }
                 ]
               },
@@ -4220,7 +4220,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -4241,7 +4241,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -4324,11 +4324,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -4367,7 +4367,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               },
@@ -4399,7 +4399,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -4452,7 +4452,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, slowly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, slowly"
                   }
                 ]
               },
@@ -4480,7 +4480,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -4542,7 +4542,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -4564,7 +4564,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -4581,7 +4581,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -4670,11 +4670,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -4713,7 +4713,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, too loud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, too loud"
                   }
                 ]
               },
@@ -4745,7 +4745,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -4795,7 +4795,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -4812,7 +4812,7 @@
             "speakers": [
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               },
               {
                 "speaker": "ben",
@@ -4883,11 +4883,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -4945,7 +4945,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               },
@@ -4967,7 +4967,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -4984,7 +4984,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -5055,11 +5055,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -5098,7 +5098,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -5130,7 +5130,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -5242,11 +5242,11 @@
             "speakers": [
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -5313,11 +5313,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -5356,7 +5356,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -5388,7 +5388,7 @@
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -5455,11 +5455,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -5555,11 +5555,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -5617,7 +5617,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -5639,7 +5639,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, writing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, writing"
                   }
                 ]
               }
@@ -5656,7 +5656,7 @@
             "speakers": [
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               },
               {
                 "speaker": "ben",
@@ -5727,11 +5727,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -5772,7 +5772,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -5804,7 +5804,7 @@
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -5858,7 +5858,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               },
@@ -5886,7 +5886,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -5952,7 +5952,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -5974,7 +5974,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, slowly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, slowly"
                   }
                 ]
               },
@@ -6002,7 +6002,7 @@
             "speakers": [
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               },
               {
                 "speaker": "ben",
@@ -6056,7 +6056,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -6073,7 +6073,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -6127,7 +6127,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -6144,7 +6144,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -6215,11 +6215,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -6262,7 +6262,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -6284,7 +6284,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, happy"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, happy"
                   }
                 ]
               }
@@ -6305,7 +6305,7 @@
               },
               {
                 "speaker": "uomo",
-                "voice": "Charon"
+                "voice": "Rasalgethi"
               }
             ]
           }
@@ -6372,11 +6372,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -6427,7 +6427,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -6449,7 +6449,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -6471,7 +6471,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -6492,7 +6492,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -6561,11 +6561,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -6608,7 +6608,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -6630,7 +6630,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, smiling"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, smiling"
                   }
                 ]
               }
@@ -6651,7 +6651,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -6740,11 +6740,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -6798,7 +6798,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -6826,7 +6826,7 @@
             "speakers": [
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               },
               {
                 "speaker": "ben",
@@ -6897,11 +6897,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -6983,11 +6983,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -7030,7 +7030,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               },
@@ -7052,7 +7052,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -7073,7 +7073,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -7127,7 +7127,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7155,7 +7155,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -7226,11 +7226,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -7285,7 +7285,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7307,7 +7307,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7329,7 +7329,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7361,7 +7361,7 @@
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -7417,7 +7417,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7445,7 +7445,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "ben",
@@ -7515,11 +7515,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -7631,11 +7631,11 @@
             "speakers": [
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -7730,7 +7730,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7752,7 +7752,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, sighing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, sighing"
                   }
                 ]
               },
@@ -7774,7 +7774,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7796,7 +7796,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7818,7 +7818,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7840,7 +7840,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7862,7 +7862,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -7873,7 +7873,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, thinking to themself, quiet and close"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
                   }
                 ]
               },
@@ -7884,7 +7884,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               }
@@ -7905,7 +7905,7 @@
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -7972,11 +7972,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -8023,7 +8023,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -8045,7 +8045,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, happy"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, happy"
                   }
                 ]
               },
@@ -8077,7 +8077,7 @@
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -8144,11 +8144,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -8215,11 +8215,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -8274,7 +8274,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -8296,7 +8296,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -8318,7 +8318,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -8350,7 +8350,7 @@
               },
               {
                 "speaker": "nadia",
-                "voice": "Despina"
+                "voice": "Aoede"
               }
             ]
           }
@@ -8397,7 +8397,7 @@
         "generation_config": {
           "speech_config": [
             {
-              "voice": "Sulafat"
+              "voice": "Charon"
             }
           ]
         }
@@ -8521,11 +8521,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -8591,11 +8591,11 @@
             "speakers": [
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -8707,11 +8707,11 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               }
             ]
           }
@@ -8780,11 +8780,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               }
             ]
           }
@@ -8900,11 +8900,11 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -8972,11 +8972,11 @@
             "speakers": [
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -9043,11 +9043,11 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -9118,7 +9118,7 @@
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -9245,11 +9245,11 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               }
             ]
           }
@@ -9316,11 +9316,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -9404,11 +9404,11 @@
             "speakers": [
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -9535,11 +9535,11 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               }
             ]
           }
@@ -9606,11 +9606,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -9767,11 +9767,11 @@
             "speakers": [
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -9855,11 +9855,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -9941,11 +9941,11 @@
             "speakers": [
               {
                 "speaker": "emma",
-                "voice": "Leda"
+                "voice": "Autonoe"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -10096,11 +10096,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -10187,7 +10187,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "marchetti",
@@ -10318,7 +10318,7 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "marchetti",
@@ -10436,7 +10436,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "marchetti",
@@ -10537,7 +10537,7 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "marchetti",
@@ -10610,7 +10610,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "marchetti",
@@ -10801,7 +10801,7 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "marchetti",
@@ -10874,7 +10874,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "marchetti",
@@ -10990,7 +10990,7 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "marchetti",
@@ -11061,7 +11061,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "marchetti",
@@ -11132,7 +11132,7 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "marchetti",
@@ -11207,11 +11207,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -11402,7 +11402,7 @@
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -11469,7 +11469,7 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "marchetti",
@@ -11570,7 +11570,7 @@
             "speakers": [
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "marchetti",
@@ -11677,11 +11677,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "chiara",
-                "voice": "Kore"
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -11785,11 +11785,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -11844,7 +11844,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, proud"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               },
@@ -11866,7 +11866,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -11888,7 +11888,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -11920,7 +11920,7 @@
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -11995,11 +11995,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -12046,7 +12046,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -12068,7 +12068,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, slowly"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, slowly"
                   }
                 ]
               },
@@ -12100,7 +12100,7 @@
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -12167,11 +12167,11 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -12210,7 +12210,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent"
                   }
                 ]
               },
@@ -12242,7 +12242,7 @@
               },
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               }
             ]
           }
@@ -12324,11 +12324,11 @@
             "speakers": [
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               },
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               }
             ]
           }
@@ -12395,11 +12395,11 @@
             "speakers": [
               {
                 "speaker": "roberto",
-                "voice": "Alnilam"
+                "voice": "Orus"
               },
               {
                 "speaker": "narrator",
-                "voice": "Sulafat"
+                "voice": "Charon"
               }
             ]
           }
@@ -12453,7 +12453,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, sighing"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, sighing"
                   }
                 ]
               },
@@ -12464,7 +12464,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking slowly and very clearly, standard Italian pronunciation, thinking to themself, quiet and close"
+                    "style": "speaking slowly and very clearly, standard Italian pronunciation, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
                   }
                 ]
               }
@@ -12481,7 +12481,7 @@
             "speakers": [
               {
                 "speaker": "leo",
-                "voice": "Laomedeia"
+                "voice": "Leda"
               },
               {
                 "speaker": "ben",
@@ -12532,7 +12532,7 @@
         "generation_config": {
           "speech_config": [
             {
-              "voice": "Sulafat"
+              "voice": "Charon"
             }
           ]
         }

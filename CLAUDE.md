@@ -78,13 +78,17 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
 - **Read-along** (owner's feature): words underline as the audio plays, played words stay
   underlined, play from any sentence, resume. Content is ready: word ids in every segment
   (`tokens`), word spans per TTS item; timings will come from forced alignment of the finished
-  audio (docs/read-along.md). `scripts/make_audio.py` makes a chapter's MP3 + timing.json (Gemini,
-  or `--engine standin` via OpenRouter for testing). S1E1 has stand-in audio in the reader; real
-  Gemini voices need a `GEMINI_API_KEY` environment variable (owner to add) and the voice casting.
+  audio (docs/read-along.md). `scripts/make_audio.py` makes a chapter's MP3 + timing.json with
+  Gemini 3.8 Flash TTS **through OpenRouter** (`/api/v1/audio/speech`; style goes in
+  `provider.options["google-ai-studio"].speech_metadata`, `instructions` is ignored). S1E1 has
+  real audio in the reader (35 min, about $0.30). Audio isn't in git: regenerate it.
+- **Voices cast by the owner** (casting page https://claude.ai/artifact/HuGt1bgXgNFkidbkhtGZ1T,
+  `scripts/audition.py`): Narratore Charon, Ben Puck + American accent fading by level, Chiara
+  Callirrhoe, Emma Autonoe, Leo Leda, Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
+  Aoede, Roberto Orus (config/voices.json).
 - Dialogue target is 45–60% for the book format (owner, 2026-09-26).
-- TTS: checked against Google's docs (docs/tts-format.md). Styles are now short; character
-  voices (Italian voices from the Extended Voice Library, a designed voice for Ben) are still to
-  choose.
+- TTS: checked against Google's docs (docs/tts-format.md). Styles are short: level pace, Ben's
+  accent, the line's delivery.
 - Known: the S5E3 plan sets the chapter in late January though S5 runs Sept–Feb (owner to decide).
   Continuity entries can over-reach or come out in Italian: skim them.
 
@@ -92,8 +96,7 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
 
 1. Owner's review of the book-format chapters, then production batches from S1E6 (`--jobs 1` keeps
    continuity tight).
-2. Later: audition TTS voices, and verify the ⚠ items in `docs/tts-format.md` (ai.google.dev was
-   blocked by the network policy in session 1).
+2. Owner's listening check of S1E1's audio and read-along; then audio for the other chapters.
 
 ## Conventions
 

@@ -406,10 +406,12 @@ def render_anki(chapter):
 
 # ---------------------------------------------------------------- TTS
 
-def piece_style(chapter, own):
-    """Short style only: the level's pace plus the line's own delivery. Google: persona text (age,
-    accent, character) in `style` makes voices drift; it belongs in the voice itself."""
-    parts = [VOICES["level_styles"].get(chapter["level"], ""), own or ""]
+def piece_style(chapter, own, speaker=None):
+    """Short style only: the level's pace, the character's accent if any (Ben's, which fades by
+    level; the owner chose it in the casting), and the line's own delivery. Google: persona text
+    (age, character) in `style` makes voices drift; it belongs in the voice itself."""
+    accent = VOICES["voices"].get(speaker, {}).get("accent_by_level", {}).get(chapter["level"], "")
+    parts = [VOICES["level_styles"].get(chapter["level"], ""), accent, own or ""]
     return ", ".join(p for p in parts if p)
 
 
@@ -433,7 +435,7 @@ def voiced_items(chapter, scene, rep=None):
                 text = spoken_text(text).strip("«» ")
                 if not n and not TAG_RE.search(text):
                     continue  # punctuation left between quotes ("." after «…»): nothing to say
-                style = piece_style(chapter, own)
+                style = piece_style(chapter, own, sp)
                 if items and items[-1][0] == sp and items[-1][2] == style and len(items[-1][1]) + len(text) < MAX_DIALOGUE_CHARS:
                     prev = items[-1]
                     items[-1] = (sp, prev[1] + " " + text, style,
