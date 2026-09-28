@@ -60,7 +60,7 @@ Each level adds a base style in front of every turn's own `style`:
 
 | Level | Base style |
 |---|---|
-| A1 | `speaking slowly and very clearly, standard Italian pronunciation` |
+| A1 | `speaking a little slower than normal, clearly` |
 | A2 | `speaking a little slower than normal, clearly` |
 | B1 | `natural conversational pace` |
 | B2 | `natural pace` (none added) |
@@ -100,7 +100,7 @@ series goes on), it is added after the character default.
           "text": "Buongiorno! Tu sei il nuovo vicino?",
           "annotations": [
             { "type": "speech_metadata", "speaker": "Speaker1",
-              "style": "speaking slowly and very clearly, standard Italian pronunciation; warm, curious" }
+              "style": "speaking a little slower than normal, clearly; warm, curious" }
           ]
         },
         {
@@ -108,7 +108,7 @@ series goes on), it is added after the character default.
           "text": "Sì, sono io. <laugh> Mi chiamo Tom.",
           "annotations": [
             { "type": "speech_metadata", "speaker": "Speaker2",
-              "style": "speaking slowly and very clearly, standard Italian pronunciation; shy, light American accent" }
+              "style": "speaking a little slower than normal, clearly; shy, light American accent" }
           ]
         }
       ]
@@ -145,7 +145,7 @@ labels instead.)
           "text": "È sabato mattina nel quartiere. Il sole entra dalla finestra della cucina.",
           "annotations": [
             { "type": "speech_metadata",
-              "style": "speaking slowly and very clearly, standard Italian pronunciation; calm, friendly storyteller" }
+              "style": "speaking a little slower than normal, clearly; calm, friendly storyteller" }
           ]
         }
       ]

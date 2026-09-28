@@ -2,7 +2,7 @@
   "_comment": "Single source of truth for TTS voices. See docs/tts-format.md. Voice picks are PROVISIONAL: they use Gemini's prebuilt voice names and must be auditioned in Italian before the pilot audio run. Children are voiced by adult prebuilt voices with an age style; audition carefully. 'name' is how the character is shown in story.md and parallel.md. When a new minor character gets lines, add them here with a voice from unused_prebuilt_voices (and remove it from that list). 'uomo', 'donna' and 'bambino' are generic voices for one-off minor speakers (a clerk, a classmate).",
   "model": "gemini-3.8-flash-tts",
   "level_styles": {
-    "A1": "speaking slowly and very clearly, standard Italian pronunciation",
+    "A1": "speaking a little slower than normal, clearly",
     "A2": "speaking a little slower than normal, clearly",
     "B1": "natural conversational pace",
     "B2": ""
