@@ -227,10 +227,13 @@ Return only the scene: the heading line exactly as above, then its lines in the 
     def take_outline(self, answer):
         (self.work / "outline.txt").write_text(answer + "\n", encoding="utf-8")
         vocab = re.search(r"@vocab\s*\n(.*?)\n@end", answer, re.S)
-        outline = re.search(r"@outline\s*\n(.*?)(?:\n@end|\Z)", answer, re.S)
+        outline = re.search(r"@outline\s*\n(.*)", answer, re.S)
         scenes = []
         if outline:
-            for block in re.split(r"\n(?=#\s*(?:SCENE|CONFESSIONALE))", outline.group(1).strip()):
+            # One @end after the last scene is asked for, but some models close every scene with one
+            # (S1E6, 2026-09-29: seven scenes read as one), so take all of them out.
+            text = re.sub(r"(?m)^[ \t]*@end[ \t]*$", "", outline.group(1))
+            for block in re.split(r"\n(?=#\s*(?:SCENE|CONFESSIONALE))", text.strip()):
                 lines = block.strip().splitlines()
                 if not lines or not lines[0].startswith("#"):
                     continue
