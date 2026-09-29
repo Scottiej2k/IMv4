@@ -16,8 +16,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Con Lucia.» | "With Lucia." |
 | Leo entra in cucina con un quaderno nuovo. | Leo comes into the kitchen with a new notebook. |
 | Sulla copertina c'è una scritta a pennarello. | On the cover there's something written in marker. |
-| Sulla copertina c'è una scritta a pennarello. | On the cover there's something written in marker. |
-| «Il quaderno dei **gusti**!» esclama Leo. | "The notebook of **tastes**!" Leo exclaims. |
 | «È un gioco» dice Leo. «Un gioco sui **gusti**.» | "It's a game," Leo says. "A game about **tastes**." |
 | Sul quaderno ci sono due colonne. | On the notebook there are two columns. |
 | In alto Leo scrive LUCIA e MAMMA. | At the top Leo writes LUCIA and MOM. |
@@ -123,7 +121,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _La mamma è un disastro._ pensa Leo. | _Mom is a disaster._ Leo thinks. |
 | Lucia porta la **pizza**. | Lucia brings the **pizza**. |
 | «Ti **piace** la **pizza**?» chiede Lucia. | "Do you **like** **pizza**?" Lucia asks. |
-| Chiara ama la **pizza** di Lucia. Lo dice anche la settimana scorsa. | Chiara loves Lucia's **pizza**. She even said so last week. |
+| Chiara ama la **pizza** di Lucia. | Chiara loves Lucia's **pizza**. |
 | «**A me no**» dice Chiara. | "**Not me**," Chiara says. |
 | «**A me** **piace**!» dice Lucia. «Con la mozzarella e i pomodori.» | "**I** **like** it!" Lucia says. "With mozzarella and tomatoes." |
 | «Leo, ti **piace** la **pizza**?» chiede Lucia. | "Leo, do you **like** **pizza**?" Lucia asks. |
@@ -165,7 +163,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Mangia, Chiara» dice Franco. | "Eat, Chiara," Franco says. |
 | «E il **cibo**? Ti **piace** il **cibo** italiano?» chiede Lucia. | "And **food**? Do you **like** Italian **food**?" Lucia asks. |
 | «**A me no**» dice Chiara. | "**Not me**," Chiara says. |
-| «Mamma! Ieri **mi piacciono**...» comincia Leo. | "Mom! Yesterday **I like**..." Leo begins. |
+| «Mamma! A te **piace** il cibo italiano...» comincia Leo. | “Mom! You **like** Italian food...” Leo begins. |
 | «Leo» dice Chiara. | "Leo," Chiara says. |
 | «**A me** **piace** il **cibo** italiano» dice Lucia. «Il **cibo**, la **musica**, il **tango**.» | "**I** **like** Italian **food**," Lucia says. "**Food**, **music**, **tango**." |
 | «**Il tango** è **buono** per il corpo» dice Lucia. | "**Tango** is **good** for the body," Lucia says. |
@@ -249,7 +247,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io non **ballo**» dice Chiara. | "I don't **dance**," Chiara says. |
 | «Adesso provi» dice Lucia. | "Now you try," Lucia says. |
 | «No» dice Chiara. | "No," Chiara says. |
-| «Solo due passi. Vecino al **tavolo**» dice Lucia. | "Just two steps. Next to the **table**," Lucia says. |
+| «Solo due passi. Vicino al **tavolo**» dice Lucia. | "Just two steps. Next to the **table**," Lucia says. |
 | Chiara posa la tazza e sospira. | Chiara puts down the cup and sighs. |
 | Poi fa un passo. E un altro. | Then she takes a step. And another. |
 | «Uno, due. Così» dice Lucia. | "One, two. Like this," Lucia says. |
@@ -334,7 +332,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **gelato**: nove» dice Leo. | "The **ice cream**: nine," Leo says. |
 | Kevin si siede al **tavolo**. | Kevin sits at the **table**. |
 | «Allora. Il piano è questo» dice Kevin. | "So. Here's the plan," Kevin says. |
-| «Il signor Colombo non **mangia** niente» dice Emma. | "Mr. Colombo doesn't eat anything," Emma says. |
+| «Il signor Colombo non **mangia** niente» dice Emma. | "Mr. Colombo doesn't **eat** anything," Emma says. |
 | «Esatto. Ma **mi piace** una sfida» dice Kevin. | "Exactly. But **I like** a challenge," Kevin says. |
 | «Non si dice così» dice Emma. | "You don't say it that way," Emma says. |
 | «Va bene. Ma stasera io vinco» dice Kevin. | "Fine. But tonight I win," Kevin says. |

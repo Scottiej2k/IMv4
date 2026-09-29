@@ -40,11 +40,11 @@ If you want to stress who likes it, or make a contrast, you put **a** + the pron
 
 You will hear these constantly in conversation. In this chapter, Marina hides her opinion and only whispers:
 
-«**Anche a me**!» dice Kevin. — "**Me too**!" Kevin says. (`s01e17-1-038`)
+«**Anche a me**!» dice Kevin. — "**Me too**!" Kevin says. (`s01e17-1-036`)
 
 And Roberto refuses everything with one short phrase:
 
-«**A me no**» dice Chiara. — "**Not me**," Chiara says. (`s01e17-1-045`)
+«**A me no**» dice Chiara. — "**Not me**," Chiara says. (`s01e17-1-043`)
 
 ### Questions and negatives
 
@@ -52,21 +52,21 @@ To ask, just change your intonation: *Ti piace la pizza?* To say no, put **non**
 
 ## From the story
 
-«Ti **piace** la **pizza**?» chiede Kevin a Leo. — "Do you **like** **pizza**?" Kevin asks Leo. (`s01e17-1-036`) — A simple yes/no question: *ti* + *piace* + one singular thing.
+«Ti **piace** la **pizza**?» chiede Kevin a Leo. — "Do you **like** **pizza**?" Kevin asks Leo. (`s01e17-1-034`) — A simple yes/no question: *ti* + *piace* + one singular thing.
 
-«Sì! **Mi piace** la **pizza**!» risponde Leo. — "Yes! **I like** **pizza**!" Leo answers. (`s01e17-1-037`) — Leo answers with the same structure, swapping *ti* for *mi*.
+«Sì! **Mi piace** la **pizza**!» risponde Leo. — "Yes! **I like** **pizza**!" Leo answers. (`s01e17-1-035`) — Leo answers with the same structure, swapping *ti* for *mi*.
 
-«Sì. **Mi piacciono** il calcio e il nuoto» dice Leo. — "Yes. **I like** soccer and swimming," Leo says. (`s01e17-1-041`) — Two things liked, so the verb becomes *piacciono*.
+«Sì. **Mi piacciono** il calcio e il nuoto» dice Leo. — "Yes. **I like** soccer and swimming," Leo says. (`s01e17-1-039`) — Two things liked, so the verb becomes *piacciono*.
 
-«**Anche a me**!» dice Kevin. — "**Me too**!" Kevin says. (`s01e17-1-038`) — Kevin agrees: "me too." The *a me* form adds emphasis.
+«**Anche a me**!» dice Kevin. — "**Me too**!" Kevin says. (`s01e17-1-036`) — Kevin agrees: "me too." The *a me* form adds emphasis.
 
-«**A me no**» dice Chiara. — "**Not me**," Chiara says. (`s01e17-1-045`) — Chiara's answer all through lunch: "not me."
+«**A me no**» dice Chiara. — "**Not me**," Chiara says. (`s01e17-1-043`) — Chiara's answer all through lunch: "not me."
 
 «**A me** **piace** la **carne**» dice Lucia. «E **mi piace** **cucinare**.» — "**I** **like** **meat**," Lucia says. "And **I like** to **cook**." (`s01e17-2-037`) — With a verb, always *piace* + infinitive, never *piacciono*.
 
 «**A me** **piacciono** tutte le cose» dice Marina. — "**I** **like** everything," Marina says. (`s01e17-6-013`) — Marina's confession: plural things, emphasized *a me*.
 
-«Ti **piace** la **pizza**?» chiede Kevin a Leo. — "Do you **like** **pizza**?" Kevin asks Leo. (`s01e17-1-036`) — Formal *Le* (to you, sir/madam) with a singular thing.
+«Ti **piace** la **pizza**?» chiede Kevin a Leo. — "Do you **like** **pizza**?" Kevin asks Leo. (`s01e17-1-034`) — Formal *Le* (to you, sir/madam) with a singular thing.
 
 «**Mi piace** il **tè** di Lucia» dice Chiara. — "**I like** Lucia's **tea**," Chiara says. (`s01e17-7-027`) — The chapter's last line, and the first honest thing Chiara says.
 

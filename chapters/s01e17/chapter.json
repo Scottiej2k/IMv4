@@ -17,7 +17,7 @@
       "lemma": "mi piace",
       "pos": "expression",
       "en": "I like it",
-      "example": "s01e17-1-055",
+      "example": "s01e17-1-053",
       "target": {
         "it": "mi piace",
         "en": "I like it"
@@ -28,9 +28,9 @@
       "lemma": "mi piacciono",
       "pos": "expression",
       "en": "I like them",
-      "example": "s01e17-2-067",
+      "example": "s01e17-4-044",
       "target": {
-        "it": "mi piacciono",
+        "it": "Mi piacciono",
         "en": "I like"
       }
     },
@@ -39,7 +39,7 @@
       "lemma": "anche a me",
       "pos": "expression",
       "en": "me too, I like it too",
-      "example": "s01e17-1-038",
+      "example": "s01e17-1-036",
       "target": {
         "it": "Anche a me",
         "en": "Me too"
@@ -50,7 +50,7 @@
       "lemma": "a me no",
       "pos": "expression",
       "en": "not me, I don't like it",
-      "example": "s01e17-1-045",
+      "example": "s01e17-1-043",
       "target": {
         "it": "A me no",
         "en": "Not me"
@@ -61,7 +61,7 @@
       "lemma": "il tempo libero",
       "pos": "noun",
       "en": "free time",
-      "example": "s01e17-1-052",
+      "example": "s01e17-1-050",
       "target": {
         "it": "tempo libero",
         "en": "free time"
@@ -73,7 +73,7 @@
       "lemma": "cucinare",
       "pos": "verb",
       "en": "to cook",
-      "example": "s01e17-1-028",
+      "example": "s01e17-1-026",
       "target": {
         "it": "cucino",
         "en": "I cook"
@@ -108,7 +108,7 @@
       "lemma": "la partita",
       "pos": "noun",
       "en": "match, game",
-      "example": "s01e17-1-047",
+      "example": "s01e17-1-045",
       "target": {
         "it": "partita",
         "en": "match"
@@ -310,10 +310,10 @@
       "lemma": "il gusto",
       "pos": "noun",
       "en": "taste, liking",
-      "example": "s01e17-1-010",
+      "example": "s01e17-5-112",
       "target": {
-        "it": "gusti",
-        "en": "tastes"
+        "it": "gusto",
+        "en": "taste"
       },
       "gender": "m"
     }
@@ -1067,184 +1067,13 @@
                   ""
                 ]
               ]
-            },
-            {
-              "id": "s01e17-1-009",
-              "it": "Sulla copertina c'è una scritta a pennarello.",
-              "en": "On the cover there's something written in marker.",
-              "voice": [
-                [
-                  "narrator",
-                  "Sulla copertina c'è una scritta a pennarello.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Sulla",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "copertina",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "c'è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scritta",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "pennarello",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
             }
           ]
         },
         {
           "segments": [
             {
-              "id": "s01e17-1-010",
-              "it": "«Il quaderno dei **gusti**!» esclama Leo.",
-              "en": "\"The notebook of **tastes**!\" Leo exclaims.",
-              "voice": [
-                [
-                  "leo",
-                  "Il quaderno dei **gusti**!",
-                  "proud"
-                ],
-                [
-                  "narrator",
-                  "esclama Leo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dei",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gusti",
-                  3,
-                  "b"
-                ],
-                [
-                  "!» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "esclama",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Leo",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-gusto"
-              ]
-            },
-            {
-              "id": "s01e17-1-011",
+              "id": "s01e17-1-009",
               "it": "«È un gioco» dice Leo. «Un gioco sui **gusti**.»",
               "en": "\"It's a game,\" Leo says. \"A game about **tastes**.\"",
               "voice": [
@@ -1366,7 +1195,7 @@
               ]
             },
             {
-              "id": "s01e17-1-012",
+              "id": "s01e17-1-010",
               "it": "Sul quaderno ci sono due colonne.",
               "en": "On the notebook there are two columns.",
               "voice": [
@@ -1440,7 +1269,7 @@
               ]
             },
             {
-              "id": "s01e17-1-013",
+              "id": "s01e17-1-011",
               "it": "In alto Leo scrive LUCIA e MAMMA.",
               "en": "At the top Leo writes LUCIA and MOM.",
               "voice": [
@@ -1528,7 +1357,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-014",
+              "id": "s01e17-1-012",
               "it": "«A Lucia piace una cosa. Tu dici “a me no”» spiega Leo.",
               "en": "\"Lucia likes something. You say 'not me,'\" Leo explains.",
               "voice": [
@@ -1676,7 +1505,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-015",
+              "id": "s01e17-1-013",
               "it": "«E tu scrivi tutto?» chiede Chiara.",
               "en": "\"And you write everything down?\" Chiara asks.",
               "voice": [
@@ -1764,7 +1593,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-016",
+              "id": "s01e17-1-014",
               "it": "«Sì. Poi c'è il risultato» dice Leo, serio.",
               "en": "\"Yes. Then there's the score,\" Leo says, serious.",
               "voice": [
@@ -1868,7 +1697,7 @@
               ]
             },
             {
-              "id": "s01e17-1-017",
+              "id": "s01e17-1-015",
               "it": "_Il pranzo è alle dodici e trenta. È un pranzo lungo._",
               "en": "_Lunch is at twelve thirty. It's a long lunch._",
               "voice": [
@@ -1992,7 +1821,7 @@
               ]
             },
             {
-              "id": "s01e17-1-018",
+              "id": "s01e17-1-016",
               "it": "Chiara guarda il quaderno e chiude gli occhi.",
               "en": "Chiara looks at the notebook and closes her eyes.",
               "voice": [
@@ -2090,7 +1919,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-019",
+              "id": "s01e17-1-017",
               "it": "«Leo, ti prego» dice Chiara.",
               "en": "\"Leo, please,\" Chiara says.",
               "voice": [
@@ -2168,7 +1997,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-020",
+              "id": "s01e17-1-018",
               "it": "«Che cosa?» chiede Leo.",
               "en": "\"What?\" Leo asks.",
               "voice": [
@@ -2236,7 +2065,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-021",
+              "id": "s01e17-1-019",
               "it": "«Non dire il risultato a tavola» dice Chiara.",
               "en": "\"Don't say the score at the table,\" Chiara says.",
               "voice": [
@@ -2340,7 +2169,7 @@
               ]
             },
             {
-              "id": "s01e17-1-022",
+              "id": "s01e17-1-020",
               "it": "«Con Lucia e con il nonno» aggiunge.",
               "en": "\"With Lucia and with Grandpa,\" she adds.",
               "voice": [
@@ -2438,7 +2267,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-023",
+              "id": "s01e17-1-021",
               "it": "«Perché?» chiede Leo.",
               "en": "\"Why?\" Leo asks.",
               "voice": [
@@ -2496,7 +2325,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-024",
+              "id": "s01e17-1-022",
               "it": "«Perché è un pranzo importante» risponde Chiara.",
               "en": "\"Because it's an important lunch,\" Chiara answers.",
               "voice": [
@@ -2594,7 +2423,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-025",
+              "id": "s01e17-1-023",
               "it": "Leo pensa. Poi annuisce.",
               "en": "Leo thinks. Then he nods.",
               "voice": [
@@ -2648,7 +2477,7 @@
               ]
             },
             {
-              "id": "s01e17-1-026",
+              "id": "s01e17-1-024",
               "it": "«Perfetto. Io non parlo» dice Leo.",
               "en": "\"Perfect. I don't talk,\" Leo says.",
               "voice": [
@@ -2736,7 +2565,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-027",
+              "id": "s01e17-1-025",
               "it": "Dalla porta arriva Kevin con un foglio in mano.",
               "en": "From the door comes Kevin with a sheet of paper in his hand.",
               "voice": [
@@ -2840,7 +2669,7 @@
               ]
             },
             {
-              "id": "s01e17-1-028",
+              "id": "s01e17-1-026",
               "it": "«Buongiorno!» dice Kevin. «Oggi **cucino** io.»",
               "en": "\"Good morning!\" Kevin says. \"Today **I cook**.\"",
               "voice": [
@@ -2936,7 +2765,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-029",
+              "id": "s01e17-1-027",
               "it": "«Cucini che cosa?» chiede Chiara.",
               "en": "\"You cook what?\" Chiara asks.",
               "voice": [
@@ -3014,7 +2843,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-030",
+              "id": "s01e17-1-028",
               "it": "«La cena americana» dice Kevin. «Per i signori Colombo.»",
               "en": "\"An American dinner,\" Kevin says. \"For the Colombos.\"",
               "voice": [
@@ -3137,7 +2966,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-031",
+              "id": "s01e17-1-029",
               "it": "«Perché?» chiede Leo.",
               "en": "\"Why?\" Leo asks.",
               "voice": [
@@ -3195,7 +3024,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-032",
+              "id": "s01e17-1-030",
               "it": "«Perché voglio un amico nuovo» dice Kevin. «Il signor Colombo.»",
               "en": "\"Because I want a new friend,\" Kevin says. \"Mr. Colombo.\"",
               "voice": [
@@ -3328,7 +3157,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-033",
+              "id": "s01e17-1-031",
               "it": "Chiara lo guarda.",
               "en": "Chiara looks at him.",
               "voice": [
@@ -3372,7 +3201,7 @@
               ]
             },
             {
-              "id": "s01e17-1-034",
+              "id": "s01e17-1-032",
               "it": "«Kevin, il signor Colombo non mangia niente» dice Chiara.",
               "en": "\"Kevin, Mr. Colombo doesn't eat anything,\" Chiara says.",
               "voice": [
@@ -3490,7 +3319,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-035",
+              "id": "s01e17-1-033",
               "it": "«Non è vero» dice Kevin.",
               "en": "\"That's not true,\" Kevin says.",
               "voice": [
@@ -3568,7 +3397,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-036",
+              "id": "s01e17-1-034",
               "it": "«Ti **piace** la **pizza**?» chiede Kevin a Leo.",
               "en": "\"Do you **like** **pizza**?\" Kevin asks Leo.",
               "voice": [
@@ -3680,7 +3509,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-037",
+              "id": "s01e17-1-035",
               "it": "«Sì! **Mi piace** la **pizza**!» risponde Leo.",
               "en": "\"Yes! **I like** **pizza**!\" Leo answers.",
               "voice": [
@@ -3782,7 +3611,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-038",
+              "id": "s01e17-1-036",
               "it": "«**Anche a me**!» dice Kevin.",
               "en": "\"**Me too**!\" Kevin says.",
               "voice": [
@@ -3859,7 +3688,7 @@
               ]
             },
             {
-              "id": "s01e17-1-039",
+              "id": "s01e17-1-037",
               "it": "Kevin scrive sul suo quaderno giallo.",
               "en": "Kevin writes in his yellow notebook.",
               "voice": [
@@ -3933,7 +3762,7 @@
               ]
             },
             {
-              "id": "s01e17-1-040",
+              "id": "s01e17-1-038",
               "it": "«Allora, Leo. Ti **piace** lo **sport**?» chiede Kevin.",
               "en": "\"So, Leo. Do you **like** **sport**?\" Kevin asks.",
               "voice": [
@@ -4045,7 +3874,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-041",
+              "id": "s01e17-1-039",
               "it": "«Sì. **Mi piacciono** il calcio e il nuoto» dice Leo.",
               "en": "\"Yes. **I like** soccer and swimming,\" Leo says.",
               "voice": [
@@ -4176,7 +4005,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-042",
+              "id": "s01e17-1-040",
               "it": "«Bene!» dice Kevin.",
               "en": "\"Good!\" Kevin says.",
               "voice": [
@@ -4230,7 +4059,7 @@
               ]
             },
             {
-              "id": "s01e17-1-043",
+              "id": "s01e17-1-041",
               "it": "Kevin scrive: SPORT — SÌ.",
               "en": "Kevin writes: SPORT — YES.",
               "voice": [
@@ -4288,7 +4117,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-044",
+              "id": "s01e17-1-042",
               "it": "«E a te, Chiara? Ti **piace** lo **sport**?» chiede Kevin.",
               "en": "\"And you, Chiara? Do you **like** **sport**?\" Kevin asks.",
               "voice": [
@@ -4420,7 +4249,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-045",
+              "id": "s01e17-1-043",
               "it": "«**A me no**» dice Chiara.",
               "en": "\"**Not me**,\" Chiara says.",
               "voice": [
@@ -4501,7 +4330,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-046",
+              "id": "s01e17-1-044",
               "it": "«Però la **partita** la guardi» dice Leo.",
               "en": "\"But you watch the **match**,\" Leo says.",
               "voice": [
@@ -4602,7 +4431,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-047",
+              "id": "s01e17-1-045",
               "it": "«Quale **partita**?» chiede Kevin.",
               "en": "\"Which **match**?\" Kevin asks.",
               "voice": [
@@ -4673,7 +4502,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-048",
+              "id": "s01e17-1-046",
               "it": "«Milan-Inter. La domenica» dice Leo.",
               "en": "\"Milan-Inter. On Sundays,\" Leo says.",
               "voice": [
@@ -4761,7 +4590,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-049",
+              "id": "s01e17-1-047",
               "it": "«Io guardo la **partita** con il nonno» dice Chiara. «Ma non mi piace lo sport.»",
               "en": "\"I watch the **match** with Grandpa,\" Chiara says. \"But I don't like sport.\"",
               "voice": [
@@ -4943,7 +4772,7 @@
               ]
             },
             {
-              "id": "s01e17-1-050",
+              "id": "s01e17-1-048",
               "it": "Kevin scrive ancora.",
               "en": "Kevin writes again.",
               "voice": [
@@ -4991,7 +4820,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-051",
+              "id": "s01e17-1-049",
               "it": "_Perché la mamma dice così?_ pensa Leo.",
               "en": "_Why does Mom say that?_ Leo thinks.",
               "voice": [
@@ -5089,7 +4918,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-052",
+              "id": "s01e17-1-050",
               "it": "«E il **tempo libero**?» chiede Kevin.",
               "en": "\"And **free time**?\" Kevin asks.",
               "voice": [
@@ -5176,7 +5005,7 @@
               ]
             },
             {
-              "id": "s01e17-1-053",
+              "id": "s01e17-1-051",
               "it": "«Il **tempo libero** è importante» dice Kevin. «Io lo uso per **cucinare**.»",
               "en": "\"**Free time** is important,\" Kevin says. \"I use it to **cook**.\"",
               "voice": [
@@ -5333,7 +5162,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-054",
+              "id": "s01e17-1-052",
               "it": "«Tu **cucini** ogni giorno» dice Chiara.",
               "en": "\"You **cook** every day,\" Chiara says.",
               "voice": [
@@ -5424,7 +5253,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-055",
+              "id": "s01e17-1-053",
               "it": "«Sì! E **mi piace**!» dice Kevin.",
               "en": "\"Yes! And **I like it**!\" Kevin says.",
               "voice": [
@@ -5511,7 +5340,7 @@
               ]
             },
             {
-              "id": "s01e17-1-056",
+              "id": "s01e17-1-054",
               "it": "«Il **cibo** americano è **buono**» aggiunge.",
               "en": "\"American **food** is **good**,\" he adds.",
               "voice": [
@@ -5599,7 +5428,7 @@
               ]
             },
             {
-              "id": "s01e17-1-057",
+              "id": "s01e17-1-055",
               "it": "«La **ricetta** è nel quaderno» dice Kevin. «Tutto scritto.»",
               "en": "\"The **recipe** is in the notebook,\" Kevin says. \"All written down.\"",
               "voice": [
@@ -5725,7 +5554,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-058",
+              "id": "s01e17-1-056",
               "it": "«In inglese» dice Chiara.",
               "en": "\"In English,\" Chiara says.",
               "voice": [
@@ -5793,7 +5622,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-059",
+              "id": "s01e17-1-057",
               "it": "«In inglese, sì» dice Kevin. «Poi scrivo in italiano.»",
               "en": "\"In English, yes,\" Kevin says. \"Then I write it in Italian.\"",
               "voice": [
@@ -5916,7 +5745,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-060",
+              "id": "s01e17-1-058",
               "it": "Leo guarda il foglio di Kevin.",
               "en": "Leo looks at Kevin's sheet.",
               "voice": [
@@ -5990,7 +5819,7 @@
               ]
             },
             {
-              "id": "s01e17-1-061",
+              "id": "s01e17-1-059",
               "it": "«Kevin, che cosa **cucini**?» chiede Leo.",
               "en": "\"Kevin, what do you **cook**?\" Leo asks.",
               "voice": [
@@ -6081,7 +5910,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-062",
+              "id": "s01e17-1-060",
               "it": "«**Pizza** e carne» dice Kevin. «E poi una torta.»",
               "en": "\"**Pizza** and meat,\" Kevin says. \"And then a cake.\"",
               "voice": [
@@ -6203,7 +6032,7 @@
               ]
             },
             {
-              "id": "s01e17-1-063",
+              "id": "s01e17-1-061",
               "it": "«Allora, io piaccio la pizza» dice Kevin, piano.",
               "en": "\"So, I like pizza,\" Kevin says, slowly.",
               "voice": [
@@ -6311,7 +6140,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-064",
+              "id": "s01e17-1-062",
               "it": "Leo alza la mano.",
               "en": "Leo raises his hand.",
               "voice": [
@@ -6365,7 +6194,7 @@
               ]
             },
             {
-              "id": "s01e17-1-065",
+              "id": "s01e17-1-063",
               "it": "«Si dice: **mi piace** la **pizza**» dice Leo.",
               "en": "\"You say: **I like** **pizza**,\" Leo says.",
               "voice": [
@@ -6477,7 +6306,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-066",
+              "id": "s01e17-1-064",
               "it": "«Ah! **Mi piace** la **pizza**!» dice Kevin. «**Mi piace**!»",
               "en": "\"Ah! **I like** **pizza**!\" Kevin says. \"**I like it**!\"",
               "voice": [
@@ -6600,7 +6429,7 @@
               ]
             },
             {
-              "id": "s01e17-1-067",
+              "id": "s01e17-1-065",
               "it": "Kevin scrive la frase nel quaderno giallo.",
               "en": "Kevin writes the sentence in the yellow notebook.",
               "voice": [
@@ -6684,7 +6513,7 @@
               ]
             },
             {
-              "id": "s01e17-1-068",
+              "id": "s01e17-1-066",
               "it": "«Numero venti» dice Kevin. «Perfetto!»",
               "en": "\"Number twenty,\" Kevin says. \"Perfect!\"",
               "voice": [
@@ -6767,7 +6596,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-069",
+              "id": "s01e17-1-067",
               "it": "Chiara sorride un poco.",
               "en": "Chiara smiles a little.",
               "voice": [
@@ -6821,7 +6650,7 @@
               ]
             },
             {
-              "id": "s01e17-1-070",
+              "id": "s01e17-1-068",
               "it": "«Adesso è giusto» dice Chiara.",
               "en": "\"Now it's right,\" Chiara says.",
               "voice": [
@@ -6899,7 +6728,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-071",
+              "id": "s01e17-1-069",
               "it": "«E **mi piacciono** i biscotti» dice Kevin. «E il caffè.»",
               "en": "\"And **I like** cookies,\" Kevin says. \"And coffee.\"",
               "voice": [
@@ -7035,7 +6864,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-072",
+              "id": "s01e17-1-070",
               "it": "«Bravo» dice Chiara.",
               "en": "\"Well done,\" Chiara says.",
               "voice": [
@@ -7093,7 +6922,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-073",
+              "id": "s01e17-1-071",
               "it": "«Adesso io sono italiano» dice Kevin.",
               "en": "\"Now I'm Italian,\" Kevin says.",
               "voice": [
@@ -7181,7 +7010,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-074",
+              "id": "s01e17-1-072",
               "it": "«No» dice Chiara.",
               "en": "\"No,\" Chiara says.",
               "voice": [
@@ -7239,7 +7068,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-075",
+              "id": "s01e17-1-073",
               "it": "«No» dice Leo. «Sei americano.»",
               "en": "\"No,\" Leo says. \"You're American.\"",
               "voice": [
@@ -7318,7 +7147,7 @@
               ]
             },
             {
-              "id": "s01e17-1-076",
+              "id": "s01e17-1-074",
               "it": "Leo guarda la sua lista.",
               "en": "Leo looks at his list.",
               "voice": [
@@ -7382,7 +7211,7 @@
               ]
             },
             {
-              "id": "s01e17-1-077",
+              "id": "s01e17-1-075",
               "it": "«Mamma, che cosa ti **piace**?» chiede Leo.",
               "en": "\"Mom, what do you **like**?\" Leo asks.",
               "voice": [
@@ -7483,7 +7312,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-078",
+              "id": "s01e17-1-076",
               "it": "Chiara pensa un momento.",
               "en": "Chiara thinks for a moment.",
               "voice": [
@@ -7537,7 +7366,7 @@
               ]
             },
             {
-              "id": "s01e17-1-079",
+              "id": "s01e17-1-077",
               "it": "«Non lo so» dice Chiara.",
               "en": "\"I don't know,\" Chiara says.",
               "voice": [
@@ -7611,7 +7440,7 @@
               ]
             },
             {
-              "id": "s01e17-1-080",
+              "id": "s01e17-1-078",
               "it": "Leo scrive la parola NULLA nella colonna MAMMA.",
               "en": "Leo writes the word NOTHING in the MOM column.",
               "voice": [
@@ -7705,7 +7534,7 @@
               ]
             },
             {
-              "id": "s01e17-1-081",
+              "id": "s01e17-1-079",
               "it": "«Leo!» esclama Chiara.",
               "en": "\"Leo!\" Chiara exclaims.",
               "voice": [
@@ -7763,7 +7592,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-082",
+              "id": "s01e17-1-080",
               "it": "«Che cosa? Tu dici sempre “**a me no**”» dice Leo.",
               "en": "\"What? You always say '**not me**,'\" Leo says.",
               "voice": [
@@ -7894,7 +7723,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-083",
+              "id": "s01e17-1-081",
               "it": "Chiara prende la giacca.",
               "en": "Chiara takes her jacket.",
               "voice": [
@@ -7948,7 +7777,7 @@
               ]
             },
             {
-              "id": "s01e17-1-084",
+              "id": "s01e17-1-082",
               "it": "«Leo, prometti? Niente risultato a tavola» dice Chiara.",
               "en": "\"Leo, promise? No score at the table,\" Chiara says.",
               "voice": [
@@ -8056,7 +7885,7 @@
         {
           "segments": [
             {
-              "id": "s01e17-1-085",
+              "id": "s01e17-1-083",
               "it": "«Prometto» dice Leo.",
               "en": "\"I promise,\" Leo says.",
               "voice": [
@@ -8110,7 +7939,7 @@
               ]
             },
             {
-              "id": "s01e17-1-086",
+              "id": "s01e17-1-084",
               "it": "_Io non parlo. Io scrivo._",
               "en": "_I don't talk. I write._",
               "voice": [
@@ -10269,12 +10098,12 @@
           "segments": [
             {
               "id": "s01e17-2-025",
-              "it": "Chiara ama la **pizza** di Lucia. Lo dice anche la settimana scorsa.",
-              "en": "Chiara loves Lucia's **pizza**. She even said so last week.",
+              "it": "Chiara ama la **pizza** di Lucia.",
+              "en": "Chiara loves Lucia's **pizza**.",
               "voice": [
                 [
                   "narrator",
-                  "Chiara ama la **pizza** di Lucia. Lo dice anche la settimana scorsa.",
+                  "Chiara ama la **pizza** di Lucia.",
                   ""
                 ]
               ],
@@ -10332,66 +10161,6 @@
                 [
                   "Lucia",
                   5,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lo",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anche",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "settimana",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scorsa",
-                  11,
                   ""
                 ],
                 [
@@ -14408,12 +14177,12 @@
           "segments": [
             {
               "id": "s01e17-2-067",
-              "it": "«Mamma! Ieri **mi piacciono**...» comincia Leo.",
-              "en": "\"Mom! Yesterday **I like**...\" Leo begins.",
+              "it": "«Mamma! A te **piace** il cibo italiano...» comincia Leo.",
+              "en": "“Mom! You **like** Italian food...” Leo begins.",
               "voice": [
                 [
                   "leo",
-                  "Mamma! Ieri **mi piacciono**...",
+                  "Mamma! A te **piace** il cibo italiano...",
                   ""
                 ],
                 [
@@ -14439,7 +14208,7 @@
                   ""
                 ],
                 [
-                  "Ieri",
+                  "A",
                   1,
                   ""
                 ],
@@ -14449,27 +14218,27 @@
                   ""
                 ],
                 [
-                  "mi",
+                  "te",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piace",
+                  3,
                   "b"
                 ],
                 [
                   " ",
                   -1,
-                  "b"
-                ],
-                [
-                  "piacciono",
-                  3,
-                  "b"
-                ],
-                [
-                  "...» ",
-                  -1,
                   ""
                 ],
                 [
-                  "comincia",
+                  "il",
                   4,
                   ""
                 ],
@@ -14479,8 +14248,38 @@
                   ""
                 ],
                 [
-                  "Leo",
+                  "cibo",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "italiano",
+                  6,
+                  ""
+                ],
+                [
+                  "...» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "comincia",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Leo",
+                  8,
                   ""
                 ],
                 [
@@ -14490,7 +14289,7 @@
                 ]
               ],
               "focus": [
-                "v-mi-piacciono"
+                "g-piacere"
               ]
             }
           ]
@@ -21528,12 +21327,12 @@
           "segments": [
             {
               "id": "s01e17-3-047",
-              "it": "«Solo due passi. Vecino al **tavolo**» dice Lucia.",
+              "it": "«Solo due passi. Vicino al **tavolo**» dice Lucia.",
               "en": "\"Just two steps. Next to the **table**,\" Lucia says.",
               "voice": [
                 [
                   "lucia",
-                  "Solo due passi. Vecino al **tavolo**",
+                  "Solo due passi. Vicino al **tavolo**",
                   ""
                 ],
                 [
@@ -21579,7 +21378,7 @@
                   ""
                 ],
                 [
-                  "Vecino",
+                  "Vicino",
                   3,
                   ""
                 ],
@@ -28643,7 +28442,7 @@
             {
               "id": "s01e17-4-058",
               "it": "«Il signor Colombo non **mangia** niente» dice Emma.",
-              "en": "\"Mr. Colombo doesn't eat anything,\" Emma says.",
+              "en": "\"Mr. Colombo doesn't **eat** anything,\" Emma says.",
               "voice": [
                 [
                   "emma",

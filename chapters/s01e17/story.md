@@ -10,9 +10,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 «Perché sei già vestita?» chiede Leo dalla porta.
 
-«Perché oggi mangio a casa del nonno» risponde Chiara. «Con Lucia.» Leo entra in cucina con un quaderno nuovo. Sulla copertina c'è una scritta a pennarello. Sulla copertina c'è una scritta a pennarello.
+«Perché oggi mangio a casa del nonno» risponde Chiara. «Con Lucia.» Leo entra in cucina con un quaderno nuovo. Sulla copertina c'è una scritta a pennarello.
 
-«Il quaderno dei **gusti**!» esclama Leo. «È un gioco» dice Leo. «Un gioco sui **gusti**.» Sul quaderno ci sono due colonne. In alto Leo scrive LUCIA e MAMMA.
+«È un gioco» dice Leo. «Un gioco sui **gusti**.» Sul quaderno ci sono due colonne. In alto Leo scrive LUCIA e MAMMA.
 
 «A Lucia piace una cosa. Tu dici “a me no”» spiega Leo.
 
@@ -128,7 +128,7 @@ _La mamma è un disastro._ pensa Leo.
 
 Lucia porta la **pizza**. «Ti **piace** la **pizza**?» chiede Lucia.
 
-Chiara ama la **pizza** di Lucia. Lo dice anche la settimana scorsa. «**A me no**» dice Chiara.
+Chiara ama la **pizza** di Lucia. «**A me no**» dice Chiara.
 
 «**A me** **piace**!» dice Lucia. «Con la mozzarella e i pomodori.» «Leo, ti **piace** la **pizza**?» chiede Lucia.
 
@@ -186,7 +186,7 @@ Franco sospira. «Mangia, Chiara» dice Franco.
 
 «**A me no**» dice Chiara.
 
-«Mamma! Ieri **mi piacciono**...» comincia Leo.
+«Mamma! A te **piace** il cibo italiano...» comincia Leo.
 
 «Leo» dice Chiara.
 
@@ -290,7 +290,7 @@ Lucia mette la tazza sul tavolo. Poi fa due passi di **tango**, da sola. «Vedi?
 
 «No» dice Chiara.
 
-«Solo due passi. Vecino al **tavolo**» dice Lucia. Chiara posa la tazza e sospira. Poi fa un passo. E un altro. «Uno, due. Così» dice Lucia.
+«Solo due passi. Vicino al **tavolo**» dice Lucia. Chiara posa la tazza e sospira. Poi fa un passo. E un altro. «Uno, due. Così» dice Lucia.
 
 Chiara sbaglia e ride. Una risata piccola. «È difficile» dice Chiara.
 

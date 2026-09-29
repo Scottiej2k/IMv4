@@ -9,7 +9,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **mi piace**<br>(expr.) · I like it | «Sì! E **mi piace**!» dice Kevin. | "Yes! And **I like it**!" Kevin says. |
-| **mi piacciono**<br>(expr.) · I like them | «Mamma! Ieri **mi piacciono**...» comincia Leo. | "Mom! Yesterday **I like**..." Leo begins. |
+| **mi piacciono**<br>(expr.) · I like them | «**Mi piacciono** i biscotti» dice Leo. «Tutti.» | "**I like** cookies," Leo says. "All of them." |
 | **anche a me**<br>(expr.) · me too, I like it too | «**Anche a me**!» dice Kevin. | "**Me too**!" Kevin says. |
 | **a me no**<br>(expr.) · not me, I don't like it | «**A me no**» dice Chiara. | "**Not me**," Chiara says. |
 
@@ -42,7 +42,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il tè**<br>(n., m) · tea | «Solo il **tè**» dice Chiara. | "Only the **tea**," Chiara says. |
 | **il bicchiere**<br>(n., m) · glass, drinking glass | Marina sorride dietro il **bicchiere**. | Marina smiles behind her **glass**. |
 | **il tavolo**<br>(n., m) · table | Kevin si siede al **tavolo**. | Kevin sits at the **table**. |
-| **il gusto**<br>(n., m) · taste, liking | «Il quaderno dei **gusti**!» esclama Leo. | "The notebook of **tastes**!" Leo exclaims. |
+| **il gusto**<br>(n., m) · taste, liking | «Il **gusto** americano mi piace» dice Tommaso. | "I like American **taste**," Tommaso says. |
 
 ## Adjectives
 
