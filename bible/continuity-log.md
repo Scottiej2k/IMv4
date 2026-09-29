@@ -92,6 +92,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma's classmates ride the same train and hear Kevin call himself "un amico di famiglia". Emma and Chiara both now suspect a family secret around Franco's three-times-a-week corso civico; Matteo knows Kevin is covering Franco and says "io copro te".
 - **Planted:** Chiara's suspicion about Franco's corso (and Matteo's hint "occhio al centro civico") must pay off; Franco's invitation to Sunday lunch with pasta and "senza lista".
 
+### s01e12 · La mia famiglia
+- **Happened:** Leo makes a family-tree school project for teacher Paola, interviewing Kevin, Franco, Nadia and Ornella; Chiara corrects Kevin’s misuse of "parenti" for "genitori." At Franco’s, Chiara finds old photos of her mother Anna and her grandparents; Franco calls Kevin **mio genero**. Leo unveils the finished tree and names Ornella "nonna del cuore."
+- **New facts:** Kevin’s parents are Dorothy and Robert, in Ohio; he has two brothers and a sister, and four cousins there. Franco’s parents were Pietro and Rosa; his sister Rita (Leo’s *prozia*) lives in Liguria. Ornella and Gino had no children and were married forty years. Nadia’s full name: Nadia Benali.
+- **Changed:** Franco calls Kevin *genero* for the first time; Leo privately adopts Ornella as grandmother; Emma asks Leo to teach her the word "casa."
+- **Planted:** Kevin spots a red scarf and hides it as Franco’s secret (Chiara unaware); Matteo vaguely hints Kevin and Franco both have a secret, which Nadia silences.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

@@ -1,0 +1,5 @@
+### s01e12 · La mia famiglia
+- **Happened:** Leo makes a family-tree school project for teacher Paola, interviewing Kevin, Franco, Nadia and Ornella; Chiara corrects Kevin’s misuse of "parenti" for "genitori." At Franco’s, Chiara finds old photos of her mother Anna and her grandparents; Franco calls Kevin **mio genero**. Leo unveils the finished tree and names Ornella "nonna del cuore."
+- **New facts:** Kevin’s parents are Dorothy and Robert, in Ohio; he has two brothers and a sister, and four cousins there. Franco’s parents were Pietro and Rosa; his sister Rita (Leo’s *prozia*) lives in Liguria. Ornella and Gino had no children and were married forty years. Nadia’s full name: Nadia Benali.
+- **Changed:** Franco calls Kevin *genero* for the first time; Leo privately adopts Ornella as grandmother; Emma asks Leo to teach her the word "casa."
+- **Planted:** Kevin spots a red scarf and hides it as Franco’s secret (Chiara unaware); Matteo vaguely hints Kevin and Franco both have a secret, which Nadia silences.
