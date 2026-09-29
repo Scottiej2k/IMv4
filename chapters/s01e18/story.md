@@ -238,7 +238,7 @@ Qualcuno bussa alla porta. Bussa forte, con due mani. Franco apre. Davanti alla 
 
 Franco guarda la strada. La strada è vuota. «E tua madre lo sa?»
 
-«Mamma è già partita.»
+«Mamma è sul treno.»
 
 «Mah. Entra.»
 

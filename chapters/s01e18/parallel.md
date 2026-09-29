@@ -107,7 +107,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | La **sveglia** è ancora alle cinque e quaranta. | The **alarm** is still at five forty. |
 | Fuori il cielo comincia a diventare chiaro. | Outside, the sky starts to turn light. |
 | In cucina non c'è ancora nessuno. | In the kitchen there's still nobody. |
-| _La **colazione** per quattro persone. Da solo._ | _Breakfast for four people. Alone._ |
+| _La **colazione** per quattro persone. Da solo._ | _**Breakfast** for four people. Alone._ |
 
 ## 2. Casa Carter, Via dei Tigli 14 · giovedì, dalle sei e mezza alle sette e mezza
 
@@ -256,7 +256,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco guarda la strada. | Franco looks at the street. |
 | La strada è vuota. | The street is empty. |
 | «E tua madre lo sa?» | “And does your mother know?” |
-| «Mamma è già partita.» | “Mom has already left.” |
+| «Mamma è sul treno.» | “Mom is on the train.” |
 | «Mah. Entra.» | “Mah. Come in.” |
 | Leo entra in cucina e si siede. | Leo comes into the kitchen and sits down. |
 | Guarda la tazzina di caffè. | He looks at the little coffee cup. |
@@ -326,7 +326,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il programma è vecchio di quarant'anni.» | “The routine is forty years old.” |
 | «È perfetto lo stesso.» | “It's perfect anyway.” |
 | Franco chiude il cancello dell'**orto**. | Franco closes the gate of the **vegetable garden**. |
-| Per un secondo **si ferma**. | For a second he stops. |
+| Per un secondo **si ferma**. | For a second he **stops**. |
 | Guarda la casa vuota, la cucina, la tazzina. | He looks at the empty house, the kitchen, the little cup. |
 | _Il rumore. No, il rumore qui non c'è più._ | _The noise. No, the noise isn't here anymore._ |
 | «Andiamo, Leo. La **colazione** aspetta.» | “Let's go, Leo. **Breakfast** is waiting.” |

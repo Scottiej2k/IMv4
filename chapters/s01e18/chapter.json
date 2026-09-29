@@ -7637,7 +7637,7 @@
             {
               "id": "s01e18-1-100",
               "it": "_La **colazione** per quattro persone. Da solo._",
-              "en": "_Breakfast for four people. Alone._",
+              "en": "_**Breakfast** for four people. Alone._",
               "voice": [
                 [
                   "ben",
@@ -17947,12 +17947,12 @@
           "segments": [
             {
               "id": "s01e18-3-016",
-              "it": "«Mamma è già partita.»",
-              "en": "“Mom has already left.”",
+              "it": "«Mamma è sul treno.»",
+              "en": "“Mom is on the train.”",
               "voice": [
                 [
                   "leo",
-                  "Mamma è già partita.",
+                  "Mamma è sul treno.",
                   ""
                 ]
               ],
@@ -17983,7 +17983,7 @@
                   ""
                 ],
                 [
-                  "già",
+                  "sul",
                   2,
                   ""
                 ],
@@ -17993,7 +17993,7 @@
                   ""
                 ],
                 [
-                  "partita",
+                  "treno",
                   3,
                   ""
                 ],
@@ -22980,7 +22980,7 @@
             {
               "id": "s01e18-3-086",
               "it": "Per un secondo **si ferma**.",
-              "en": "For a second he stops.",
+              "en": "For a second he **stops**.",
               "voice": [
                 [
                   "narrator",
