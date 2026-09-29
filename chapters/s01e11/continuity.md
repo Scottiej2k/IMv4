@@ -1,0 +1,5 @@
+### s01e11 · Andiamo a Milano!
+- **Happened:** Kevin takes Emma and Leo to Milan by train (Chiara stays home); mix-ups over tickets and timbri, wrong metro direction, then the Duomo and its fountain. At Sunday lunch Franco implicitly asks Kevin to keep covering for him; Kevin covers badly to Chiara and Matteo, who both tease him.
+- **New facts:** Ornella's cat is named Pavarotti and comes to Franco's garden for fish each evening; Franco has an orto. Leo shoots 62 pigeon photos, filling the memory card of Kevin's camera (Kevin plans to buy another). Emma keeps the photo of Kevin and Leo at the fountain in her notebook, near a song.
+- **Changed:** Emma's classmates ride the same train and hear Kevin call himself "un amico di famiglia". Emma and Chiara both now suspect a family secret around Franco's three-times-a-week corso civico; Matteo knows Kevin is covering Franco and says "io copro te".
+- **Planted:** Chiara's suspicion about Franco's corso (and Matteo's hint "occhio al centro civico") must pay off; Franco's invitation to Sunday lunch with pasta and "senza lista".

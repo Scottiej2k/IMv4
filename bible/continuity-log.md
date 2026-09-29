@@ -86,6 +86,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin now knows Franco dances tango with Lucia; Franco made him promise secrecy from Chiara, Emma, Leo and Matteo. Matteo saw TANGO in Kevin's notebook and suspects something.
 - **Planted:** Kevin must keep the secret (Chiara asks for a two-minute kitchen talk, unresolved); Emma's daily notes routine; Matteo's suspicion.
 
+### s01e11 · Andiamo a Milano!
+- **Happened:** Kevin takes Emma and Leo to Milan by train (Chiara stays home); mix-ups over tickets and timbri, wrong metro direction, then the Duomo and its fountain. At Sunday lunch Franco implicitly asks Kevin to keep covering for him; Kevin covers badly to Chiara and Matteo, who both tease him.
+- **New facts:** Ornella's cat is named Pavarotti and comes to Franco's garden for fish each evening; Franco has an orto. Leo shoots 62 pigeon photos, filling the memory card of Kevin's camera (Kevin plans to buy another). Emma keeps the photo of Kevin and Leo at the fountain in her notebook, near a song.
+- **Changed:** Emma's classmates ride the same train and hear Kevin call himself "un amico di famiglia". Emma and Chiara both now suspect a family secret around Franco's three-times-a-week corso civico; Matteo knows Kevin is covering Franco and says "io copro te".
+- **Planted:** Chiara's suspicion about Franco's corso (and Matteo's hint "occhio al centro civico") must pay off; Franco's invitation to Sunday lunch with pasta and "senza lista".
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
