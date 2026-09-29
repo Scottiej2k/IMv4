@@ -38,7 +38,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È sabato mattina in Via dei Tigli. In cucina c'è odore di caffè e di pane caldo. Kevin entra con la sua agenda gialla in mano.",
+                "text": "È sabato mattina in Via dei Tigli. In cucina c'è odore di caffè e di pane caldo. Kevin entra con la sua quaderno giallo in mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5227,7 +5227,7 @@
               },
               {
                 "type": "text",
-                "text": "Questo è timbrato. Bene.",
+                "text": "Timbrato. Timbrato. Timbrato. Bene.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5276,7 +5276,7 @@
           "s01e11-3-030:0-9"
         ],
         [
-          "s01e11-3-031:0-2"
+          "s01e11-3-031:0-6"
         ]
       ],
       "request": {
@@ -5298,7 +5298,7 @@
               },
               {
                 "type": "text",
-                "text": "Bene. Il secondo?",
+                "text": "Bravo, signore. I biglietti sono a posto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5339,15 +5339,14 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-3-032",
-        "s01e11-3-033"
+        "s01e11-3-032"
       ],
       "words": [
         [
-          "s01e11-3-032:0-7"
+          "s01e11-3-032:0-4"
         ],
         [
-          "s01e11-3-033:0-5"
+          "s01e11-3-032:5-7"
         ]
       ],
       "request": {
@@ -5358,7 +5357,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin guarda il secondo biglietto. Non è timbrato.",
+                "text": "Kevin guarda Emma con orgoglio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5369,7 +5368,7 @@
               },
               {
                 "type": "text",
-                "text": "Ah. Il secondo biglietto. Un momento.",
+                "text": "Vedi? Tre timbri.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5410,15 +5409,41 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e11-3-033",
         "s01e11-3-034",
-        "s01e11-3-035"
+        "s01e11-3-035",
+        "s01e11-3-036",
+        "s01e11-3-037",
+        "s01e11-3-038",
+        "s01e11-3-039",
+        "s01e11-3-040",
+        "s01e11-3-041",
+        "s01e11-3-042",
+        "s01e11-3-043"
       ],
       "words": [
         [
-          "s01e11-3-034:0-2"
+          "s01e11-3-033:0-4"
         ],
         [
-          "s01e11-3-035:0-6"
+          "s01e11-3-034:0-9",
+          "s01e11-3-035:0-8",
+          "s01e11-3-036:0-7",
+          "s01e11-3-037:0-9",
+          "s01e11-3-038:0-8"
+        ],
+        [
+          "s01e11-3-039:0-6"
+        ],
+        [
+          "s01e11-3-040:0-10"
+        ],
+        [
+          "s01e11-3-041:0-3",
+          "s01e11-3-042:0-5"
+        ],
+        [
+          "s01e11-3-043:0-5"
         ]
       ],
       "request": {
@@ -5429,336 +5454,12 @@
             "content": [
               {
                 "type": "text",
-                "text": "Papà, timbra adesso.",
+                "text": "Papà, non è una medaglia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin cerca la macchina gialla nella borsa.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "emma",
-                "voice": "Autonoe"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 68,
-      "scene": 3,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e11-3-036",
-        "s01e11-3-037",
-        "s01e11-3-038"
-      ],
-      "words": [
-        [
-          "s01e11-3-036:0-6"
-        ],
-        [
-          "s01e11-3-037:0-7",
-          "s01e11-3-038:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Dov'è la macchina? Ah, eccola. Timbro qui.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Tac! Tac! Kevin timbra il biglietto due volte. Il controllore guarda Kevin. Emma guarda il soffitto.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 69,
-      "scene": 3,
-      "speakers": {
-        "uomo": "uomo",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e11-3-039",
-        "s01e11-3-040",
-        "s01e11-3-041",
-        "s01e11-3-042"
-      ],
-      "words": [
-        [
-          "s01e11-3-039:0-4"
-        ],
-        [
-          "s01e11-3-040:0-4"
-        ],
-        [
-          "s01e11-3-041:0-3"
-        ],
-        [
-          "s01e11-3-042:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Due timbri non fanno male.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "uomo",
                     "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Meglio due che zero, no?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, laughing"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Forse. Il terzo biglietto?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "uomo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Il terzo è di Leo. Leo, il biglietto?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "uomo",
-                "voice": "Rasalgethi"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 70,
-      "scene": 3,
-      "speakers": {
-        "narrator": "narrator",
-        "leo": "leo"
-      },
-      "segment_ids": [
-        "s01e11-3-043",
-        "s01e11-3-044"
-      ],
-      "words": [
-        [
-          "s01e11-3-043:0-6"
-        ],
-        [
-          "s01e11-3-044:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Leo tiene il biglietto come un trofeo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ecco. È timbrato. Vedi il segno?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 71,
-      "scene": 3,
-      "speakers": {
-        "uomo": "uomo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e11-3-045",
-        "s01e11-3-046",
-        "s01e11-3-047",
-        "s01e11-3-048",
-        "s01e11-3-049",
-        "s01e11-3-050"
-      ],
-      "words": [
-        [
-          "s01e11-3-045:0-6"
-        ],
-        [
-          "s01e11-3-046:0-9",
-          "s01e11-3-047:0-8",
-          "s01e11-3-048:0-7",
-          "s01e11-3-049:0-9",
-          "s01e11-3-050:0-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Bravo, signorino. I biglietti sono a posto.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "uomo",
-                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
@@ -5772,66 +5473,7 @@
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
                   }
                 ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "uomo",
-                "voice": "Rasalgethi"
               },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 72,
-      "scene": 3,
-      "speakers": {
-        "emma": "emma",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e11-3-051",
-        "s01e11-3-052",
-        "s01e11-3-053",
-        "s01e11-3-054",
-        "s01e11-3-055"
-      ],
-      "words": [
-        [
-          "s01e11-3-051:0-6"
-        ],
-        [
-          "s01e11-3-052:0-10"
-        ],
-        [
-          "s01e11-3-053:0-3",
-          "s01e11-3-054:0-5"
-        ],
-        [
-          "s01e11-3-055:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
               {
                 "type": "text",
                 "text": "Ciao, Emma! Sei anche tu sul treno?",
@@ -5901,28 +5543,28 @@
       }
     },
     {
-      "index": 73,
+      "index": 68,
       "scene": 3,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-3-056",
-        "s01e11-3-057",
-        "s01e11-3-058",
-        "s01e11-3-059",
-        "s01e11-3-060"
+        "s01e11-3-044",
+        "s01e11-3-045",
+        "s01e11-3-046",
+        "s01e11-3-047",
+        "s01e11-3-048"
       ],
       "words": [
         [
-          "s01e11-3-056:0-5"
+          "s01e11-3-044:0-5"
         ],
         [
-          "s01e11-3-057:0-6",
-          "s01e11-3-058:0-5",
-          "s01e11-3-059:0-6",
-          "s01e11-3-060:0-5"
+          "s01e11-3-045:0-6",
+          "s01e11-3-046:0-5",
+          "s01e11-3-047:0-6",
+          "s01e11-3-048:0-5"
         ]
       ],
       "request": {
@@ -5978,26 +5620,26 @@
       }
     },
     {
-      "index": 74,
+      "index": 69,
       "scene": 3,
       "speakers": {
         "emma": "emma",
         "donna": "donna"
       },
       "segment_ids": [
-        "s01e11-3-061",
-        "s01e11-3-062",
-        "s01e11-3-063"
+        "s01e11-3-049",
+        "s01e11-3-050",
+        "s01e11-3-051"
       ],
       "words": [
         [
-          "s01e11-3-061:0-4"
+          "s01e11-3-049:0-4"
         ],
         [
-          "s01e11-3-062:0-7"
+          "s01e11-3-050:0-7"
         ],
         [
-          "s01e11-3-063:0-2"
+          "s01e11-3-051:0-2"
         ]
       ],
       "request": {
@@ -6064,22 +5706,22 @@
       }
     },
     {
-      "index": 75,
+      "index": 70,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-3-064",
-        "s01e11-3-065"
+        "s01e11-3-052",
+        "s01e11-3-053"
       ],
       "words": [
         [
-          "s01e11-3-064:0-8"
+          "s01e11-3-052:0-8"
         ],
         [
-          "s01e11-3-065:0-6"
+          "s01e11-3-053:0-6"
         ]
       ],
       "request": {
@@ -6135,22 +5777,22 @@
       }
     },
     {
-      "index": 76,
+      "index": 71,
       "scene": 3,
       "speakers": {
         "emma": "emma",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-3-066",
-        "s01e11-3-067"
+        "s01e11-3-054",
+        "s01e11-3-055"
       ],
       "words": [
         [
-          "s01e11-3-066:0-6"
+          "s01e11-3-054:0-6"
         ],
         [
-          "s01e11-3-067:0-2"
+          "s01e11-3-055:0-2"
         ]
       ],
       "request": {
@@ -6206,26 +5848,26 @@
       }
     },
     {
-      "index": 77,
+      "index": 72,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-3-068",
-        "s01e11-3-069",
-        "s01e11-3-070",
-        "s01e11-3-071"
+        "s01e11-3-056",
+        "s01e11-3-057",
+        "s01e11-3-058",
+        "s01e11-3-059"
       ],
       "words": [
         [
-          "s01e11-3-068:0-5",
-          "s01e11-3-069:0-7",
-          "s01e11-3-070:0-9"
+          "s01e11-3-056:0-5",
+          "s01e11-3-057:0-7",
+          "s01e11-3-058:0-9"
         ],
         [
-          "s01e11-3-071:0-9"
+          "s01e11-3-059:0-9"
         ]
       ],
       "request": {
@@ -6281,22 +5923,22 @@
       }
     },
     {
-      "index": 78,
+      "index": 73,
       "scene": 3,
       "speakers": {
         "ben": "ben",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-3-072",
-        "s01e11-3-073"
+        "s01e11-3-060",
+        "s01e11-3-061"
       ],
       "words": [
         [
-          "s01e11-3-072:0-2"
+          "s01e11-3-060:0-2"
         ],
         [
-          "s01e11-3-073:0-13"
+          "s01e11-3-061:0-13"
         ]
       ],
       "request": {
@@ -6352,27 +5994,27 @@
       }
     },
     {
-      "index": 79,
+      "index": 74,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
         "donna": "donna"
       },
       "segment_ids": [
-        "s01e11-3-074",
-        "s01e11-3-075",
-        "s01e11-3-076"
+        "s01e11-3-062",
+        "s01e11-3-063",
+        "s01e11-3-064"
       ],
       "words": [
         [
-          "s01e11-3-074:0-10",
-          "s01e11-3-075:0-3"
+          "s01e11-3-062:0-10",
+          "s01e11-3-063:0-3"
         ],
         [
-          "s01e11-3-075:4-6"
+          "s01e11-3-063:4-6"
         ],
         [
-          "s01e11-3-076:0-8"
+          "s01e11-3-064:0-8"
         ]
       ],
       "request": {
@@ -6439,26 +6081,26 @@
       }
     },
     {
-      "index": 80,
+      "index": 75,
       "scene": 3,
       "speakers": {
         "ben": "ben",
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e11-3-077",
-        "s01e11-3-078",
-        "s01e11-3-079"
+        "s01e11-3-065",
+        "s01e11-3-066",
+        "s01e11-3-067"
       ],
       "words": [
         [
-          "s01e11-3-077:0-3"
+          "s01e11-3-065:0-3"
         ],
         [
-          "s01e11-3-078:0-7"
+          "s01e11-3-066:0-7"
         ],
         [
-          "s01e11-3-079:0-3"
+          "s01e11-3-067:0-3"
         ]
       ],
       "request": {
@@ -6525,22 +6167,22 @@
       }
     },
     {
-      "index": 81,
+      "index": 76,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-3-080",
-        "s01e11-3-081"
+        "s01e11-3-068",
+        "s01e11-3-069"
       ],
       "words": [
         [
-          "s01e11-3-080:0-6"
+          "s01e11-3-068:0-6"
         ],
         [
-          "s01e11-3-081:0-2"
+          "s01e11-3-069:0-2"
         ]
       ],
       "request": {
@@ -6596,7 +6238,7 @@
       }
     },
     {
-      "index": 82,
+      "index": 77,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6667,7 +6309,7 @@
       }
     },
     {
-      "index": 83,
+      "index": 78,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -6738,7 +6380,7 @@
       }
     },
     {
-      "index": 84,
+      "index": 79,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6817,7 +6459,7 @@
       }
     },
     {
-      "index": 85,
+      "index": 80,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -6903,7 +6545,7 @@
       }
     },
     {
-      "index": 86,
+      "index": 81,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6974,7 +6616,7 @@
       }
     },
     {
-      "index": 87,
+      "index": 82,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -7045,7 +6687,7 @@
       }
     },
     {
-      "index": 88,
+      "index": 83,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7116,7 +6758,7 @@
       }
     },
     {
-      "index": 89,
+      "index": 84,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -7187,7 +6829,7 @@
       }
     },
     {
-      "index": 90,
+      "index": 85,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -7273,7 +6915,7 @@
       }
     },
     {
-      "index": 91,
+      "index": 86,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7348,7 +6990,7 @@
       }
     },
     {
-      "index": 92,
+      "index": 87,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -7419,7 +7061,7 @@
       }
     },
     {
-      "index": 93,
+      "index": 88,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -7490,7 +7132,7 @@
       }
     },
     {
-      "index": 94,
+      "index": 89,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7563,7 +7205,7 @@
       }
     },
     {
-      "index": 95,
+      "index": 90,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -7634,7 +7276,7 @@
       }
     },
     {
-      "index": 96,
+      "index": 91,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7709,7 +7351,7 @@
       }
     },
     {
-      "index": 97,
+      "index": 92,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -7780,7 +7422,7 @@
       }
     },
     {
-      "index": 98,
+      "index": 93,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7866,7 +7508,7 @@
       }
     },
     {
-      "index": 99,
+      "index": 94,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -7952,7 +7594,7 @@
       }
     },
     {
-      "index": 100,
+      "index": 95,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -8023,7 +7665,7 @@
       }
     },
     {
-      "index": 101,
+      "index": 96,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8094,7 +7736,7 @@
       }
     },
     {
-      "index": 102,
+      "index": 97,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -8180,7 +7822,7 @@
       }
     },
     {
-      "index": 103,
+      "index": 98,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8296,7 +7938,7 @@
       }
     },
     {
-      "index": 104,
+      "index": 99,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -8390,7 +8032,7 @@
       }
     },
     {
-      "index": 105,
+      "index": 100,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -8461,7 +8103,7 @@
       }
     },
     {
-      "index": 106,
+      "index": 101,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8534,7 +8176,7 @@
       }
     },
     {
-      "index": 107,
+      "index": 102,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -8605,7 +8247,7 @@
       }
     },
     {
-      "index": 108,
+      "index": 103,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -8710,7 +8352,7 @@
       }
     },
     {
-      "index": 109,
+      "index": 104,
       "scene": 4,
       "speakers": {
         "uomo": "uomo",
@@ -8781,7 +8423,7 @@
       }
     },
     {
-      "index": 110,
+      "index": 105,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8852,7 +8494,7 @@
       }
     },
     {
-      "index": 111,
+      "index": 106,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -8938,7 +8580,7 @@
       }
     },
     {
-      "index": 112,
+      "index": 107,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9011,7 +8653,7 @@
       }
     },
     {
-      "index": 113,
+      "index": 108,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -9097,7 +8739,7 @@
       }
     },
     {
-      "index": 114,
+      "index": 109,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9170,7 +8812,7 @@
       }
     },
     {
-      "index": 115,
+      "index": 110,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -9256,7 +8898,7 @@
       }
     },
     {
-      "index": 116,
+      "index": 111,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -9327,7 +8969,7 @@
       }
     },
     {
-      "index": 117,
+      "index": 112,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9398,7 +9040,7 @@
       }
     },
     {
-      "index": 118,
+      "index": 113,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -9469,7 +9111,7 @@
       }
     },
     {
-      "index": 119,
+      "index": 114,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9567,7 +9209,7 @@
       }
     },
     {
-      "index": 120,
+      "index": 115,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -9638,7 +9280,7 @@
       }
     },
     {
-      "index": 121,
+      "index": 116,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -9724,7 +9366,7 @@
       }
     },
     {
-      "index": 122,
+      "index": 117,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9799,7 +9441,7 @@
       }
     },
     {
-      "index": 123,
+      "index": 118,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -9872,7 +9514,7 @@
       }
     },
     {
-      "index": 124,
+      "index": 119,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -9977,7 +9619,7 @@
       }
     },
     {
-      "index": 125,
+      "index": 120,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10054,7 +9696,7 @@
       }
     },
     {
-      "index": 126,
+      "index": 121,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -10125,7 +9767,7 @@
       }
     },
     {
-      "index": 127,
+      "index": 122,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10196,7 +9838,7 @@
       }
     },
     {
-      "index": 128,
+      "index": 123,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -10267,7 +9909,7 @@
       }
     },
     {
-      "index": 129,
+      "index": 124,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10338,7 +9980,7 @@
       }
     },
     {
-      "index": 130,
+      "index": 125,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -10409,7 +10051,7 @@
       }
     },
     {
-      "index": 131,
+      "index": 126,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10480,7 +10122,7 @@
       }
     },
     {
-      "index": 132,
+      "index": 127,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -10553,7 +10195,7 @@
       }
     },
     {
-      "index": 133,
+      "index": 128,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -10654,7 +10296,7 @@
       }
     },
     {
-      "index": 134,
+      "index": 129,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10725,7 +10367,7 @@
       }
     },
     {
-      "index": 135,
+      "index": 130,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -10796,7 +10438,7 @@
       }
     },
     {
-      "index": 136,
+      "index": 131,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10882,7 +10524,7 @@
       }
     },
     {
-      "index": 137,
+      "index": 132,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -10891,7 +10533,10 @@
       "segment_ids": [
         "s01e11-5-032",
         "s01e11-5-033",
-        "s01e11-5-034"
+        "s01e11-5-034",
+        "s01e11-5-035",
+        "s01e11-5-036",
+        "s01e11-5-037"
       ],
       "words": [
         [
@@ -10902,6 +10547,15 @@
         ],
         [
           "s01e11-5-034:0-5"
+        ],
+        [
+          "s01e11-5-035:0-11"
+        ],
+        [
+          "s01e11-5-036:0-6"
+        ],
+        [
+          "s01e11-5-037:0-6"
         ]
       ],
       "request": {
@@ -10942,6 +10596,39 @@
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
+              },
+              {
+                "type": "text",
+                "text": "Nonno, papà dice che fai un corso di storia. O di giardinaggio.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "emma",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Sì. Di storia. La storia è importante.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ma non fai giardinaggio. Hai già l'orto!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "emma",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
               }
             ]
           }
@@ -10968,194 +10655,22 @@
       }
     },
     {
-      "index": 138,
-      "scene": 5,
-      "speakers": {
-        "narrator": "narrator",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e11-5-035",
-        "s01e11-5-036"
-      ],
-      "words": [
-        [
-          "s01e11-5-035:0-5"
-        ],
-        [
-          "s01e11-5-036:0-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Kevin tocca il braccio di Franco.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Franco, tu dici a Emma che fai un corso di storia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 139,
-      "scene": 5,
-      "speakers": {
-        "franco": "franco",
-        "leo": "leo"
-      },
-      "segment_ids": [
-        "s01e11-5-037",
-        "s01e11-5-038",
-        "s01e11-5-039",
-        "s01e11-5-040"
-      ],
-      "words": [
-        [
-          "s01e11-5-037:0-6"
-        ],
-        [
-          "s01e11-5-038:0-6"
-        ],
-        [
-          "s01e11-5-039:0-6"
-        ],
-        [
-          "s01e11-5-040:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sì. Di storia. La storia è importante.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Papà dice a me che fai giardinaggio.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Giardinaggio? Mah. Anche il giardinaggio è importante.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ma nonno, non fai giardinaggio. Hai già l'orto!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 140,
+      "index": 133,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-041",
-        "s01e11-5-042"
+        "s01e11-5-038",
+        "s01e11-5-039"
       ],
       "words": [
         [
-          "s01e11-5-041:0-6"
+          "s01e11-5-038:0-6"
         ],
         [
-          "s01e11-5-042:0-10"
+          "s01e11-5-039:0-10"
         ]
       ],
       "request": {
@@ -11211,26 +10726,26 @@
       }
     },
     {
-      "index": 141,
+      "index": 134,
       "scene": 5,
       "speakers": {
         "emma": "emma",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-043",
-        "s01e11-5-044",
-        "s01e11-5-045"
+        "s01e11-5-040",
+        "s01e11-5-041",
+        "s01e11-5-042"
       ],
       "words": [
         [
-          "s01e11-5-043:0-3"
+          "s01e11-5-040:0-3"
         ],
         [
-          "s01e11-5-044:0-8"
+          "s01e11-5-041:0-8"
         ],
         [
-          "s01e11-5-045:0-2"
+          "s01e11-5-042:0-2"
         ]
       ],
       "request": {
@@ -11297,26 +10812,26 @@
       }
     },
     {
-      "index": 142,
+      "index": 135,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-5-046",
-        "s01e11-5-047",
-        "s01e11-5-048"
+        "s01e11-5-043",
+        "s01e11-5-044",
+        "s01e11-5-045"
       ],
       "words": [
         [
-          "s01e11-5-046:0-8"
+          "s01e11-5-043:0-8"
         ],
         [
-          "s01e11-5-047:0-10"
+          "s01e11-5-044:0-10"
         ],
         [
-          "s01e11-5-048:0-7"
+          "s01e11-5-045:0-7"
         ]
       ],
       "request": {
@@ -11383,22 +10898,22 @@
       }
     },
     {
-      "index": 143,
+      "index": 136,
       "scene": 5,
       "speakers": {
         "leo": "leo",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-5-049",
-        "s01e11-5-050"
+        "s01e11-5-046",
+        "s01e11-5-047"
       ],
       "words": [
         [
-          "s01e11-5-049:0-9"
+          "s01e11-5-046:0-9"
         ],
         [
-          "s01e11-5-050:0-2"
+          "s01e11-5-047:0-2"
         ]
       ],
       "request": {
@@ -11454,22 +10969,22 @@
       }
     },
     {
-      "index": 144,
+      "index": 137,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-051",
-        "s01e11-5-052"
+        "s01e11-5-048",
+        "s01e11-5-049"
       ],
       "words": [
         [
-          "s01e11-5-051:0-6"
+          "s01e11-5-048:0-6"
         ],
         [
-          "s01e11-5-052:0-6"
+          "s01e11-5-049:0-6"
         ]
       ],
       "request": {
@@ -11525,22 +11040,22 @@
       }
     },
     {
-      "index": 145,
+      "index": 138,
       "scene": 5,
       "speakers": {
         "leo": "leo",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-053",
-        "s01e11-5-054"
+        "s01e11-5-050",
+        "s01e11-5-051"
       ],
       "words": [
         [
-          "s01e11-5-053:0-4"
+          "s01e11-5-050:0-4"
         ],
         [
-          "s01e11-5-054:0-6"
+          "s01e11-5-051:0-6"
         ]
       ],
       "request": {
@@ -11596,32 +11111,32 @@
       }
     },
     {
-      "index": 146,
+      "index": 139,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
+        "s01e11-5-052",
+        "s01e11-5-053",
+        "s01e11-5-054",
         "s01e11-5-055",
-        "s01e11-5-056",
-        "s01e11-5-057",
-        "s01e11-5-058",
-        "s01e11-5-059"
+        "s01e11-5-056"
       ],
       "words": [
         [
-          "s01e11-5-055:0-9",
-          "s01e11-5-056:0-5"
+          "s01e11-5-052:0-9",
+          "s01e11-5-053:0-5"
         ],
         [
-          "s01e11-5-057:0-2"
+          "s01e11-5-054:0-2"
         ],
         [
-          "s01e11-5-058:0-11"
+          "s01e11-5-055:0-11"
         ],
         [
-          "s01e11-5-059:0-4"
+          "s01e11-5-056:0-4"
         ]
       ],
       "request": {
@@ -11699,30 +11214,30 @@
       }
     },
     {
-      "index": 147,
+      "index": 140,
       "scene": 5,
       "speakers": {
         "ben": "ben",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-060",
-        "s01e11-5-061",
-        "s01e11-5-062",
-        "s01e11-5-063"
+        "s01e11-5-057",
+        "s01e11-5-058",
+        "s01e11-5-059",
+        "s01e11-5-060"
       ],
       "words": [
         [
-          "s01e11-5-060:0-4"
+          "s01e11-5-057:0-4"
         ],
         [
-          "s01e11-5-061:0-10"
+          "s01e11-5-058:0-10"
         ],
         [
-          "s01e11-5-062:0-7"
+          "s01e11-5-059:0-7"
         ],
         [
-          "s01e11-5-063:0-8"
+          "s01e11-5-060:0-8"
         ]
       ],
       "request": {
@@ -11800,22 +11315,22 @@
       }
     },
     {
-      "index": 148,
+      "index": 141,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e11-5-064",
-        "s01e11-5-065"
+        "s01e11-5-061",
+        "s01e11-5-062"
       ],
       "words": [
         [
-          "s01e11-5-064:0-7"
+          "s01e11-5-061:0-7"
         ],
         [
-          "s01e11-5-065:0-5"
+          "s01e11-5-062:0-5"
         ]
       ],
       "request": {
@@ -11871,26 +11386,26 @@
       }
     },
     {
-      "index": 149,
+      "index": 142,
       "scene": 5,
       "speakers": {
         "franco": "franco",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-5-066",
-        "s01e11-5-067",
-        "s01e11-5-068"
+        "s01e11-5-063",
+        "s01e11-5-064",
+        "s01e11-5-065"
       ],
       "words": [
         [
-          "s01e11-5-066:0-2"
+          "s01e11-5-063:0-2"
         ],
         [
-          "s01e11-5-067:0-9"
+          "s01e11-5-064:0-9"
         ],
         [
-          "s01e11-5-068:0-7"
+          "s01e11-5-065:0-7"
         ]
       ],
       "request": {
@@ -11923,7 +11438,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin, fai silenzio. Sei rosso come un pomodoro.",
+                "text": "Americano, fai silenzio. Sei rosso come un pomodoro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11957,22 +11472,22 @@
       }
     },
     {
-      "index": 150,
+      "index": 143,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e11-5-069",
-        "s01e11-5-070"
+        "s01e11-5-066",
+        "s01e11-5-067"
       ],
       "words": [
         [
-          "s01e11-5-069:0-5"
+          "s01e11-5-066:0-5"
         ],
         [
-          "s01e11-5-070:0-8"
+          "s01e11-5-067:0-8"
         ]
       ],
       "request": {
@@ -11994,7 +11509,7 @@
               },
               {
                 "type": "text",
-                "text": "Nonno, hai una scusa per tutto. Anche per Kevin.",
+                "text": "Nonno, hai una scusa per tutto. Anche per papà.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12028,26 +11543,26 @@
       }
     },
     {
-      "index": 151,
+      "index": 144,
       "scene": 5,
       "speakers": {
         "franco": "franco",
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e11-5-071",
-        "s01e11-5-072",
-        "s01e11-5-073"
+        "s01e11-5-068",
+        "s01e11-5-069",
+        "s01e11-5-070"
       ],
       "words": [
         [
-          "s01e11-5-071:0-8"
+          "s01e11-5-068:0-8"
         ],
         [
-          "s01e11-5-072:0-6"
+          "s01e11-5-069:0-6"
         ],
         [
-          "s01e11-5-073:0-5"
+          "s01e11-5-070:0-5"
         ]
       ],
       "request": {
@@ -12114,24 +11629,24 @@
       }
     },
     {
-      "index": 152,
+      "index": 145,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-5-074",
-        "s01e11-5-075",
-        "s01e11-5-076"
+        "s01e11-5-071",
+        "s01e11-5-072",
+        "s01e11-5-073"
       ],
       "words": [
         [
-          "s01e11-5-074:0-9",
-          "s01e11-5-075:0-7"
+          "s01e11-5-071:0-9",
+          "s01e11-5-072:0-7"
         ],
         [
-          "s01e11-5-076:0-4"
+          "s01e11-5-073:0-4"
         ]
       ],
       "request": {
@@ -12187,26 +11702,26 @@
       }
     },
     {
-      "index": 153,
+      "index": 146,
       "scene": 5,
       "speakers": {
         "franco": "franco",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-5-077",
-        "s01e11-5-078",
-        "s01e11-5-079"
+        "s01e11-5-074",
+        "s01e11-5-075",
+        "s01e11-5-076"
       ],
       "words": [
         [
-          "s01e11-5-077:0-7"
+          "s01e11-5-074:0-7"
         ],
         [
-          "s01e11-5-078:0-5"
+          "s01e11-5-075:0-5"
         ],
         [
-          "s01e11-5-079:0-11"
+          "s01e11-5-076:0-11"
         ]
       ],
       "request": {
@@ -12273,22 +11788,22 @@
       }
     },
     {
-      "index": 154,
+      "index": 147,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-5-080",
-        "s01e11-5-081"
+        "s01e11-5-077",
+        "s01e11-5-078"
       ],
       "words": [
         [
-          "s01e11-5-080:0-9"
+          "s01e11-5-077:0-9"
         ],
         [
-          "s01e11-5-081:0-11"
+          "s01e11-5-078:0-11"
         ]
       ],
       "request": {
@@ -12344,22 +11859,22 @@
       }
     },
     {
-      "index": 155,
+      "index": 148,
       "scene": 5,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-5-082",
-        "s01e11-5-083"
+        "s01e11-5-079",
+        "s01e11-5-080"
       ],
       "words": [
         [
-          "s01e11-5-082:0-4"
+          "s01e11-5-079:0-4"
         ],
         [
-          "s01e11-5-083:0-7"
+          "s01e11-5-080:0-7"
         ]
       ],
       "request": {
@@ -12415,22 +11930,22 @@
       }
     },
     {
-      "index": 156,
+      "index": 149,
       "scene": 5,
       "speakers": {
         "ben": "ben",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-084",
-        "s01e11-5-085"
+        "s01e11-5-081",
+        "s01e11-5-082"
       ],
       "words": [
         [
-          "s01e11-5-084:0-8"
+          "s01e11-5-081:0-8"
         ],
         [
-          "s01e11-5-085:0-5"
+          "s01e11-5-082:0-5"
         ]
       ],
       "request": {
@@ -12486,30 +12001,30 @@
       }
     },
     {
-      "index": 157,
+      "index": 150,
       "scene": 5,
       "speakers": {
         "leo": "leo",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-086",
-        "s01e11-5-087",
-        "s01e11-5-088",
-        "s01e11-5-089"
+        "s01e11-5-083",
+        "s01e11-5-084",
+        "s01e11-5-085",
+        "s01e11-5-086"
       ],
       "words": [
         [
-          "s01e11-5-086:0-4"
+          "s01e11-5-083:0-4"
         ],
         [
-          "s01e11-5-087:0-9"
+          "s01e11-5-084:0-9"
         ],
         [
-          "s01e11-5-088:0-5"
+          "s01e11-5-085:0-5"
         ],
         [
-          "s01e11-5-089:0-12"
+          "s01e11-5-086:0-12"
         ]
       ],
       "request": {
@@ -12587,28 +12102,28 @@
       }
     },
     {
-      "index": 158,
+      "index": 151,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e11-5-090",
-        "s01e11-5-091",
-        "s01e11-5-092",
-        "s01e11-5-093"
+        "s01e11-5-087",
+        "s01e11-5-088",
+        "s01e11-5-089",
+        "s01e11-5-090"
       ],
       "words": [
         [
-          "s01e11-5-090:0-5",
-          "s01e11-5-091:0-7"
+          "s01e11-5-087:0-5",
+          "s01e11-5-088:0-7"
         ],
         [
-          "s01e11-5-092:0-3"
+          "s01e11-5-089:0-3"
         ],
         [
-          "s01e11-5-093:0-6"
+          "s01e11-5-090:0-6"
         ]
       ],
       "request": {
@@ -12675,22 +12190,22 @@
       }
     },
     {
-      "index": 159,
+      "index": 152,
       "scene": 5,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-5-094",
-        "s01e11-5-095"
+        "s01e11-5-091",
+        "s01e11-5-092"
       ],
       "words": [
         [
-          "s01e11-5-094:0-1"
+          "s01e11-5-091:0-1"
         ],
         [
-          "s01e11-5-095:0-7"
+          "s01e11-5-092:0-7"
         ]
       ],
       "request": {
@@ -12746,26 +12261,26 @@
       }
     },
     {
-      "index": 160,
+      "index": 153,
       "scene": 5,
       "speakers": {
         "franco": "franco",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-5-096",
-        "s01e11-5-097",
-        "s01e11-5-098"
+        "s01e11-5-093",
+        "s01e11-5-094",
+        "s01e11-5-095"
       ],
       "words": [
         [
-          "s01e11-5-096:0-3"
+          "s01e11-5-093:0-3"
         ],
         [
-          "s01e11-5-097:0-9"
+          "s01e11-5-094:0-9"
         ],
         [
-          "s01e11-5-098:0-6"
+          "s01e11-5-095:0-6"
         ]
       ],
       "request": {
@@ -12832,22 +12347,22 @@
       }
     },
     {
-      "index": 161,
+      "index": 154,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e11-5-099",
-        "s01e11-5-100"
+        "s01e11-5-096",
+        "s01e11-5-097"
       ],
       "words": [
         [
-          "s01e11-5-099:0-7"
+          "s01e11-5-096:0-7"
         ],
         [
-          "s01e11-5-100:0-9"
+          "s01e11-5-097:0-9"
         ]
       ],
       "request": {
@@ -12903,22 +12418,22 @@
       }
     },
     {
-      "index": 162,
+      "index": 155,
       "scene": 5,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-5-101",
-        "s01e11-5-102"
+        "s01e11-5-098",
+        "s01e11-5-099"
       ],
       "words": [
         [
-          "s01e11-5-101:0-6"
+          "s01e11-5-098:0-6"
         ],
         [
-          "s01e11-5-102:0-10"
+          "s01e11-5-099:0-10"
         ]
       ],
       "request": {
@@ -12974,26 +12489,26 @@
       }
     },
     {
-      "index": 163,
+      "index": 156,
       "scene": 5,
       "speakers": {
         "franco": "franco",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-5-103",
-        "s01e11-5-104",
-        "s01e11-5-105"
+        "s01e11-5-100",
+        "s01e11-5-101",
+        "s01e11-5-102"
       ],
       "words": [
         [
-          "s01e11-5-103:0-8"
+          "s01e11-5-100:0-8"
         ],
         [
-          "s01e11-5-104:0-8"
+          "s01e11-5-101:0-8"
         ],
         [
-          "s01e11-5-105:0-5"
+          "s01e11-5-102:0-5"
         ]
       ],
       "request": {
@@ -13004,7 +12519,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin, vieni a cena domani? Domenica. Con la pasta.",
+                "text": "Americano, vieni a cena domani? Domenica. Con la pasta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13060,17 +12575,17 @@
       }
     },
     {
-      "index": 164,
+      "index": 157,
       "scene": 5,
       "speakers": {
         "single": "narrator"
       },
       "segment_ids": [
-        "s01e11-5-106"
+        "s01e11-5-103"
       ],
       "words": [
         [
-          "s01e11-5-106:0-12"
+          "s01e11-5-103:0-12"
         ]
       ],
       "request": {
@@ -13106,7 +12621,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 158,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13181,7 +12696,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 159,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -13252,7 +12767,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 160,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -13338,7 +12853,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 161,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13409,7 +12924,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 162,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -13480,7 +12995,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 163,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13495,7 +13010,7 @@
           "s01e11-6-014:0-5"
         ],
         [
-          "s01e11-6-015:0-10"
+          "s01e11-6-015:0-6"
         ]
       ],
       "request": {
@@ -13517,7 +13032,7 @@
               },
               {
                 "type": "text",
-                "text": "L'italiano è la sala 9. Il tango è la sala 8.",
+                "text": "L'italiano, certo. Il martedì. E il resto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13551,7 +13066,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 164,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -13564,13 +13079,13 @@
       ],
       "words": [
         [
-          "s01e11-6-016:0-5"
+          "s01e11-6-016:0-1"
         ],
         [
-          "s01e11-6-017:0-2"
+          "s01e11-6-017:0-3"
         ],
         [
-          "s01e11-6-018:0-2"
+          "s01e11-6-018:0-4"
         ]
       ],
       "request": {
@@ -13581,18 +13096,18 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Forse. Non ricordo i numeri.",
+                "text": "Quale resto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, too loud"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "Tu copro qualcuno?",
+                "text": "Kevin, tu copri qualcuno?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13603,7 +13118,7 @@
               },
               {
                 "type": "text",
-                "text": "Io copro nessuno!",
+                "text": "Io? No! Non copro nessuno!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13637,7 +13152,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 165,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13645,14 +13160,18 @@
       },
       "segment_ids": [
         "s01e11-6-019",
-        "s01e11-6-020"
+        "s01e11-6-020",
+        "s01e11-6-021"
       ],
       "words": [
         [
-          "s01e11-6-019:0-7"
+          "s01e11-6-019:0-9"
         ],
         [
           "s01e11-6-020:0-5"
+        ],
+        [
+          "s01e11-6-021:0-5"
         ]
       ],
       "request": {
@@ -13663,7 +13182,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Matteo ride e mette una mano sulla spalla.",
+                "text": "Matteo ride e mette una mano sulla spalla di Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13674,12 +13193,23 @@
               },
               {
                 "type": "text",
-                "text": "Non copro nessuno. Si dice così.",
+                "text": "Bravo. Ma io copro te, tranquillo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "matteo",
                     "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Kevin guarda la porta del bar.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
                   }
                 ]
               }
@@ -13708,22 +13238,22 @@
       }
     },
     {
-      "index": 173,
+      "index": 166,
       "scene": 6,
       "speakers": {
         "ben": "ben",
-        "matteo": "matteo"
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-6-021",
-        "s01e11-6-022"
+        "s01e11-6-022",
+        "s01e11-6-023"
       ],
       "words": [
         [
-          "s01e11-6-021:0-6"
+          "s01e11-6-022:0-8"
         ],
         [
-          "s01e11-6-022:0-5"
+          "s01e11-6-023:0-10"
         ]
       ],
       "request": {
@@ -13732,92 +13262,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Non copro nessuno. Perfetto. Non copro nessuno.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Bravo. Ma io copro te, tranquillo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 174,
-      "scene": 6,
-      "speakers": {
-        "narrator": "narrator",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e11-6-023",
-        "s01e11-6-024",
-        "s01e11-6-025"
-      ],
-      "words": [
-        [
-          "s01e11-6-023:0-5"
-        ],
-        [
-          "s01e11-6-024:0-8"
-        ],
-        [
-          "s01e11-6-025:0-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Kevin guarda la porta del bar.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "Vado bene. Non dico la verità, ma vado bene.",
@@ -13852,12 +13296,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
               }
             ]
           }
@@ -13865,26 +13309,26 @@
       }
     },
     {
-      "index": 175,
+      "index": 167,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-6-026",
-        "s01e11-6-027",
-        "s01e11-6-028"
+        "s01e11-6-024",
+        "s01e11-6-025",
+        "s01e11-6-026"
       ],
       "words": [
         [
-          "s01e11-6-026:0-9"
+          "s01e11-6-024:0-9"
         ],
         [
-          "s01e11-6-027:0-1"
+          "s01e11-6-025:0-1"
         ],
         [
-          "s01e11-6-028:0-8"
+          "s01e11-6-026:0-8"
         ]
       ],
       "request": {
@@ -13951,22 +13395,22 @@
       }
     },
     {
-      "index": 176,
+      "index": 168,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-029",
-        "s01e11-6-030"
+        "s01e11-6-027",
+        "s01e11-6-028"
       ],
       "words": [
         [
-          "s01e11-6-029:0-9"
+          "s01e11-6-027:0-9"
         ],
         [
-          "s01e11-6-030:0-8"
+          "s01e11-6-028:0-8"
         ]
       ],
       "request": {
@@ -14022,34 +13466,34 @@
       }
     },
     {
-      "index": 177,
+      "index": 169,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
+        "s01e11-6-029",
+        "s01e11-6-030",
         "s01e11-6-031",
         "s01e11-6-032",
-        "s01e11-6-033",
-        "s01e11-6-034",
-        "s01e11-6-035"
+        "s01e11-6-033"
       ],
       "words": [
         [
-          "s01e11-6-031:0-12"
+          "s01e11-6-029:0-12"
         ],
         [
-          "s01e11-6-032:0-11"
+          "s01e11-6-030:0-11"
         ],
         [
-          "s01e11-6-033:0-13"
+          "s01e11-6-031:0-13"
         ],
         [
-          "s01e11-6-034:0-5"
+          "s01e11-6-032:0-5"
         ],
         [
-          "s01e11-6-035:0-9"
+          "s01e11-6-033:0-9"
         ]
       ],
       "request": {
@@ -14138,22 +13582,22 @@
       }
     },
     {
-      "index": 178,
+      "index": 170,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-036",
-        "s01e11-6-037"
+        "s01e11-6-034",
+        "s01e11-6-035"
       ],
       "words": [
         [
-          "s01e11-6-036:0-8"
+          "s01e11-6-034:0-8"
         ],
         [
-          "s01e11-6-037:0-5"
+          "s01e11-6-035:0-5"
         ]
       ],
       "request": {
@@ -14209,26 +13653,26 @@
       }
     },
     {
-      "index": 179,
+      "index": 171,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-038",
-        "s01e11-6-039",
-        "s01e11-6-040"
+        "s01e11-6-036",
+        "s01e11-6-037",
+        "s01e11-6-038"
       ],
       "words": [
         [
-          "s01e11-6-038:0-12"
+          "s01e11-6-036:0-12"
         ],
         [
-          "s01e11-6-039:0-7"
+          "s01e11-6-037:0-7"
         ],
         [
-          "s01e11-6-040:0-4"
+          "s01e11-6-038:0-4"
         ]
       ],
       "request": {
@@ -14295,26 +13739,26 @@
       }
     },
     {
-      "index": 180,
+      "index": 172,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-041",
-        "s01e11-6-042",
-        "s01e11-6-043"
+        "s01e11-6-039",
+        "s01e11-6-040",
+        "s01e11-6-041"
       ],
       "words": [
         [
-          "s01e11-6-041:0-8"
+          "s01e11-6-039:0-8"
         ],
         [
-          "s01e11-6-042:0-12"
+          "s01e11-6-040:0-12"
         ],
         [
-          "s01e11-6-043:0-5"
+          "s01e11-6-041:0-5"
         ]
       ],
       "request": {
@@ -14381,26 +13825,26 @@
       }
     },
     {
-      "index": 181,
+      "index": 173,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-044",
-        "s01e11-6-045",
-        "s01e11-6-046"
+        "s01e11-6-042",
+        "s01e11-6-043",
+        "s01e11-6-044"
       ],
       "words": [
         [
-          "s01e11-6-044:0-2"
+          "s01e11-6-042:0-2"
         ],
         [
-          "s01e11-6-045:0-2"
+          "s01e11-6-043:0-2"
         ],
         [
-          "s01e11-6-046:0-5"
+          "s01e11-6-044:0-5"
         ]
       ],
       "request": {
@@ -14467,22 +13911,22 @@
       }
     },
     {
-      "index": 182,
+      "index": 174,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-047",
-        "s01e11-6-048"
+        "s01e11-6-045",
+        "s01e11-6-046"
       ],
       "words": [
         [
-          "s01e11-6-047:0-5"
+          "s01e11-6-045:0-5"
         ],
         [
-          "s01e11-6-048:0-4"
+          "s01e11-6-046:0-4"
         ]
       ],
       "request": {
@@ -14538,30 +13982,30 @@
       }
     },
     {
-      "index": 183,
+      "index": 175,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
+        "s01e11-6-047",
+        "s01e11-6-048",
         "s01e11-6-049",
-        "s01e11-6-050",
-        "s01e11-6-051",
-        "s01e11-6-052"
+        "s01e11-6-050"
       ],
       "words": [
         [
-          "s01e11-6-049:0-10"
+          "s01e11-6-047:0-10"
         ],
         [
-          "s01e11-6-050:0-2"
+          "s01e11-6-048:0-2"
         ],
         [
-          "s01e11-6-051:0-7"
+          "s01e11-6-049:0-7"
         ],
         [
-          "s01e11-6-052:0-7"
+          "s01e11-6-050:0-7"
         ]
       ],
       "request": {
@@ -14639,22 +14083,22 @@
       }
     },
     {
-      "index": 184,
+      "index": 176,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-6-053",
-        "s01e11-6-054"
+        "s01e11-6-051",
+        "s01e11-6-052"
       ],
       "words": [
         [
-          "s01e11-6-053:0-7"
+          "s01e11-6-051:0-7"
         ],
         [
-          "s01e11-6-054:0-7"
+          "s01e11-6-052:0-7"
         ]
       ],
       "request": {
@@ -14710,22 +14154,22 @@
       }
     },
     {
-      "index": 185,
+      "index": 177,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "matteo": "matteo"
       },
       "segment_ids": [
-        "s01e11-6-055",
-        "s01e11-6-056"
+        "s01e11-6-053",
+        "s01e11-6-054"
       ],
       "words": [
         [
-          "s01e11-6-055:0-12"
+          "s01e11-6-053:0-12"
         ],
         [
-          "s01e11-6-056:0-5"
+          "s01e11-6-054:0-5"
         ]
       ],
       "request": {
@@ -14781,28 +14225,28 @@
       }
     },
     {
-      "index": 186,
+      "index": 178,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
+        "s01e11-6-055",
+        "s01e11-6-056",
         "s01e11-6-057",
         "s01e11-6-058",
-        "s01e11-6-059",
-        "s01e11-6-060",
-        "s01e11-6-061"
+        "s01e11-6-059"
       ],
       "words": [
         [
-          "s01e11-6-057:0-6",
-          "s01e11-6-058:0-8",
-          "s01e11-6-059:0-8",
-          "s01e11-6-060:0-5"
+          "s01e11-6-055:0-6",
+          "s01e11-6-056:0-8",
+          "s01e11-6-057:0-8",
+          "s01e11-6-058:0-5"
         ],
         [
-          "s01e11-6-061:0-8"
+          "s01e11-6-059:0-8"
         ]
       ],
       "request": {
@@ -14858,26 +14302,26 @@
       }
     },
     {
-      "index": 187,
+      "index": 179,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-062",
-        "s01e11-6-063",
-        "s01e11-6-064"
+        "s01e11-6-060",
+        "s01e11-6-061",
+        "s01e11-6-062"
       ],
       "words": [
         [
-          "s01e11-6-062:0-9"
+          "s01e11-6-060:0-9"
         ],
         [
-          "s01e11-6-063:0-4"
+          "s01e11-6-061:0-4"
         ],
         [
-          "s01e11-6-064:0-13"
+          "s01e11-6-062:0-13"
         ]
       ],
       "request": {
@@ -14944,26 +14388,26 @@
       }
     },
     {
-      "index": 188,
+      "index": 180,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-6-065",
-        "s01e11-6-066",
-        "s01e11-6-067"
+        "s01e11-6-063",
+        "s01e11-6-064",
+        "s01e11-6-065"
       ],
       "words": [
         [
-          "s01e11-6-065:0-11"
+          "s01e11-6-063:0-9"
         ],
         [
-          "s01e11-6-066:0-4"
+          "s01e11-6-064:0-4"
         ],
         [
-          "s01e11-6-067:0-7"
+          "s01e11-6-065:0-7"
         ]
       ],
       "request": {
@@ -14974,7 +14418,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Io copro nessuno. Si dice così. E tu fai la stessa cosa.",
+                "text": "Anche io copro tutti, un po'. Fa parte del lavoro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15030,22 +14474,22 @@
       }
     },
     {
-      "index": 189,
+      "index": 181,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-068",
-        "s01e11-6-069"
+        "s01e11-6-066",
+        "s01e11-6-067"
       ],
       "words": [
         [
-          "s01e11-6-068:0-8"
+          "s01e11-6-066:0-8"
         ],
         [
-          "s01e11-6-069:0-8"
+          "s01e11-6-067:0-8"
         ]
       ],
       "request": {
@@ -15101,30 +14545,30 @@
       }
     },
     {
-      "index": 190,
+      "index": 182,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
+        "s01e11-6-068",
+        "s01e11-6-069",
         "s01e11-6-070",
-        "s01e11-6-071",
-        "s01e11-6-072",
-        "s01e11-6-073"
+        "s01e11-6-071"
       ],
       "words": [
         [
-          "s01e11-6-070:0-4"
+          "s01e11-6-068:0-4"
         ],
         [
-          "s01e11-6-071:0-7"
+          "s01e11-6-069:0-7"
         ],
         [
-          "s01e11-6-072:0-5"
+          "s01e11-6-070:0-5"
         ],
         [
-          "s01e11-6-073:0-9"
+          "s01e11-6-071:0-9"
         ]
       ],
       "request": {
@@ -15202,22 +14646,22 @@
       }
     },
     {
-      "index": 191,
+      "index": 183,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e11-6-074",
-        "s01e11-6-075"
+        "s01e11-6-072",
+        "s01e11-6-073"
       ],
       "words": [
         [
-          "s01e11-6-074:0-10"
+          "s01e11-6-072:0-10"
         ],
         [
-          "s01e11-6-075:0-4"
+          "s01e11-6-073:0-4"
         ]
       ],
       "request": {
@@ -15273,24 +14717,24 @@
       }
     },
     {
-      "index": 192,
+      "index": 184,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-6-076",
-        "s01e11-6-077",
-        "s01e11-6-078"
+        "s01e11-6-074",
+        "s01e11-6-075",
+        "s01e11-6-076"
       ],
       "words": [
         [
-          "s01e11-6-076:0-6"
+          "s01e11-6-074:0-6"
         ],
         [
-          "s01e11-6-077:0-6",
-          "s01e11-6-078:0-6"
+          "s01e11-6-075:0-6",
+          "s01e11-6-076:0-6"
         ]
       ],
       "request": {
@@ -15346,22 +14790,22 @@
       }
     },
     {
-      "index": 193,
+      "index": 185,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e11-6-079",
-        "s01e11-6-080"
+        "s01e11-6-077",
+        "s01e11-6-078"
       ],
       "words": [
         [
-          "s01e11-6-079:0-0"
+          "s01e11-6-077:0-0"
         ],
         [
-          "s01e11-6-080:0-5"
+          "s01e11-6-078:0-5"
         ]
       ],
       "request": {
@@ -15417,26 +14861,26 @@
       }
     },
     {
-      "index": 194,
+      "index": 186,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e11-6-081",
-        "s01e11-6-082",
-        "s01e11-6-083"
+        "s01e11-6-079",
+        "s01e11-6-080",
+        "s01e11-6-081"
       ],
       "words": [
         [
+          "s01e11-6-079:0-10"
+        ],
+        [
+          "s01e11-6-080:0-6"
+        ],
+        [
           "s01e11-6-081:0-10"
-        ],
-        [
-          "s01e11-6-082:0-6"
-        ],
-        [
-          "s01e11-6-083:0-10"
         ]
       ],
       "request": {
@@ -15503,26 +14947,26 @@
       }
     },
     {
-      "index": 195,
+      "index": 187,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
+        "s01e11-6-082",
+        "s01e11-6-083",
         "s01e11-6-084",
-        "s01e11-6-085",
-        "s01e11-6-086",
-        "s01e11-6-087"
+        "s01e11-6-085"
       ],
       "words": [
         [
-          "s01e11-6-084:0-10",
-          "s01e11-6-085:0-10"
+          "s01e11-6-082:0-10",
+          "s01e11-6-083:0-10"
         ],
         [
-          "s01e11-6-086:0-11",
-          "s01e11-6-087:0-2"
+          "s01e11-6-084:0-11",
+          "s01e11-6-085:0-2"
         ]
       ],
       "request": {
@@ -15578,7 +15022,7 @@
       }
     },
     {
-      "index": 196,
+      "index": 188,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -15651,7 +15095,7 @@
       }
     },
     {
-      "index": 197,
+      "index": 189,
       "scene": 7,
       "speakers": {
         "emma": "emma",
@@ -15722,7 +15166,7 @@
       }
     },
     {
-      "index": 198,
+      "index": 190,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -15814,7 +15258,7 @@
       }
     },
     {
-      "index": 199,
+      "index": 191,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -15930,7 +15374,7 @@
       }
     },
     {
-      "index": 200,
+      "index": 192,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -16001,7 +15445,7 @@
       }
     },
     {
-      "index": 201,
+      "index": 193,
       "scene": 7,
       "speakers": {
         "ben": "ben",

@@ -134,7 +134,7 @@
       "lemma": "il controllore",
       "pos": "noun",
       "en": "ticket inspector",
-      "example": "s01e11-3-058",
+      "example": "s01e11-3-046",
       "target": {
         "it": "controllore",
         "en": "ticket inspector"
@@ -146,10 +146,10 @@
       "lemma": "coprire",
       "pos": "verb",
       "en": "to cover for someone",
-      "example": "s01e11-1-052",
+      "example": "s01e11-6-018",
       "target": {
-        "it": "coprire",
-        "en": "cover"
+        "it": "copro",
+        "en": "covering"
       }
     },
     {
@@ -157,7 +157,7 @@
       "lemma": "la verità",
       "pos": "noun",
       "en": "truth",
-      "example": "s01e11-5-059",
+      "example": "s01e11-5-056",
       "target": {
         "it": "verità",
         "en": "truth"
@@ -181,7 +181,7 @@
       "lemma": "il turista",
       "pos": "noun",
       "en": "tourist",
-      "example": "s01e11-3-054",
+      "example": "s01e11-3-042",
       "target": {
         "it": "turista",
         "en": "tourist"
@@ -240,7 +240,7 @@
       "lemma": "scendere",
       "pos": "verb",
       "en": "to get off",
-      "example": "s01e11-3-077",
+      "example": "s01e11-3-065",
       "target": {
         "it": "Scendiamo",
         "en": "We get off"
@@ -263,7 +263,7 @@
       "lemma": "la scusa",
       "pos": "noun",
       "en": "excuse",
-      "example": "s01e11-5-101",
+      "example": "s01e11-5-098",
       "target": {
         "it": "scusa",
         "en": "excuse"
@@ -529,12 +529,12 @@
             },
             {
               "id": "s01e11-1-003",
-              "it": "Kevin entra con la sua agenda gialla in mano.",
+              "it": "Kevin entra con la sua quaderno giallo in mano.",
               "en": "Kevin comes in with his yellow notebook in his hand.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin entra con la sua agenda gialla in mano.",
+                  "Kevin entra con la sua quaderno giallo in mano.",
                   ""
                 ]
               ],
@@ -590,7 +590,7 @@
                   ""
                 ],
                 [
-                  "agenda",
+                  "quaderno",
                   5,
                   ""
                 ],
@@ -600,7 +600,7 @@
                   ""
                 ],
                 [
-                  "gialla",
+                  "giallo",
                   6,
                   ""
                 ],
@@ -11076,12 +11076,12 @@
           "segments": [
             {
               "id": "s01e11-2-048",
-              "it": "«Timbrare?»",
+              "it": "«**Timbrare**?»",
               "en": "\"**Validate**?\"",
               "voice": [
                 [
                   "ben",
-                  "Timbrare?",
+                  "**Timbrare**?",
                   ""
                 ]
               ],
@@ -11094,13 +11094,16 @@
                 [
                   "Timbrare",
                   0,
-                  ""
+                  "b"
                 ],
                 [
                   "?»",
                   -1,
                   ""
                 ]
+              ],
+              "focus": [
+                "v-timbrare"
               ]
             }
           ]
@@ -14155,7 +14158,7 @@
             {
               "id": "s01e11-3-001",
               "it": "Il treno parte piano dal **binario** due.",
-              "en": "The train leaves platform two slowly.",
+              "en": "The train leaves **platform** two slowly.",
               "voice": [
                 [
                   "narrator",
@@ -16568,12 +16571,12 @@
             },
             {
               "id": "s01e11-3-029",
-              "it": "«Questo è **timbrato**. Bene.»",
-              "en": "\"This one is **stamped**. Good.\"",
+              "it": "«**Timbrato**. **Timbrato**. **Timbrato**. Bene.»",
+              "en": "\"**Stamped**. **Stamped**. **Stamped**. Good.\"",
               "voice": [
                 [
                   "uomo",
-                  "Questo è **timbrato**. Bene.",
+                  "**Timbrato**. **Timbrato**. **Timbrato**. Bene.",
                   ""
                 ]
               ],
@@ -16584,27 +16587,27 @@
                   ""
                 ],
                 [
-                  "Questo",
+                  "Timbrato",
                   0,
-                  ""
+                  "b"
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "è",
+                  "Timbrato",
                   1,
-                  ""
+                  "b"
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "timbrato",
+                  "Timbrato",
                   2,
                   "b"
                 ],
@@ -16760,1160 +16763,12 @@
           "segments": [
             {
               "id": "s01e11-3-031",
-              "it": "«Bene. Il secondo?»",
-              "en": "\"Good. The second one?\"",
+              "it": "«Bravo, signore. I **biglietti** sono a posto.»",
+              "en": "\"Well done, sir. The **tickets** are in order.\"",
               "voice": [
                 [
                   "uomo",
-                  "Bene. Il secondo?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bene",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "secondo",
-                  2,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-032",
-              "it": "Kevin guarda il secondo **biglietto**. Non è timbrato.",
-              "en": "Kevin looks at the second **ticket**. It isn't stamped.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda il secondo **biglietto**. Non è timbrato.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "secondo",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biglietto",
-                  4,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "timbrato",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-biglietto"
-              ]
-            },
-            {
-              "id": "s01e11-3-033",
-              "it": "«Ah. Il secondo **biglietto**. Un momento.»",
-              "en": "\"Ah. The second **ticket**. One moment.\"",
-              "voice": [
-                [
-                  "ben",
-                  "Ah. Il secondo **biglietto**. Un momento.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "secondo",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biglietto",
-                  3,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Un",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "momento",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-biglietto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-034",
-              "it": "«Papà, **timbra** adesso.»",
-              "en": "\"Dad, **stamp** it now.\"",
-              "voice": [
-                [
-                  "emma",
-                  "Papà, **timbra** adesso.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Papà",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "timbra",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "adesso",
-                  2,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-timbrare"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-035",
-              "it": "Kevin cerca la macchina gialla nella borsa.",
-              "en": "Kevin looks for the yellow machine in the bag.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin cerca la macchina gialla nella borsa.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cerca",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "macchina",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gialla",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nella",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "borsa",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e11-3-036",
-              "it": "«Dov'è la macchina? Ah, eccola. **Timbro** qui.»",
-              "en": "\"Where's the machine? Ah, here it is. I **stamp** here.\"",
-              "voice": [
-                [
-                  "ben",
-                  "Dov'è la macchina? Ah, eccola. **Timbro** qui.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Dov'è",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "macchina",
-                  2,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "eccola",
-                  4,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Timbro",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-timbrare"
-              ]
-            },
-            {
-              "id": "s01e11-3-037",
-              "it": "Tac! Tac! Kevin **timbra** il biglietto due volte.",
-              "en": "Clack! Clack! Kevin **stamps** the ticket twice.",
-              "voice": [
-                [
-                  "narrator",
-                  "Tac! Tac! Kevin **timbra** il biglietto due volte.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Tac",
-                  0,
-                  ""
-                ],
-                [
-                  "! ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tac",
-                  1,
-                  ""
-                ],
-                [
-                  "! ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "timbra",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biglietto",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "due",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "volte",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-timbrare"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-038",
-              "it": "Il controllore guarda Kevin. Emma guarda il soffitto.",
-              "en": "The ticket inspector looks at Kevin. Emma looks at the ceiling.",
-              "voice": [
-                [
-                  "narrator",
-                  "Il controllore guarda Kevin. Emma guarda il soffitto.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "controllore",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "soffitto",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e11-3-039",
-              "it": "«Due timbri non fanno male.»",
-              "en": "\"Two stamps don't hurt.\"",
-              "voice": [
-                [
-                  "uomo",
-                  "Due timbri non fanno male.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Due",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "timbri",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fanno",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "male",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-040",
-              "it": "«Meglio due che zero, no?»",
-              "en": "\"Better two than zero, right?\"",
-              "voice": [
-                [
-                  "ben",
-                  "Meglio due che zero, no?",
-                  "laughing"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Meglio",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "due",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "che",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "zero",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "no",
-                  4,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-041",
-              "it": "«Forse. Il terzo biglietto?»",
-              "en": "\"Maybe. The third ticket?\"",
-              "voice": [
-                [
-                  "uomo",
-                  "Forse. Il terzo biglietto?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Forse",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "terzo",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biglietto",
-                  3,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-042",
-              "it": "«Il terzo è di Leo. Leo, il **biglietto**?»",
-              "en": "\"The third is Leo's. Leo, the **ticket**?\"",
-              "voice": [
-                [
-                  "ben",
-                  "Il terzo è di Leo. Leo, il **biglietto**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "terzo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Leo",
-                  4,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Leo",
-                  5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biglietto",
-                  7,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-biglietto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-043",
-              "it": "Leo tiene il **biglietto** come un trofeo.",
-              "en": "Leo holds the **ticket** like a trophy.",
-              "voice": [
-                [
-                  "narrator",
-                  "Leo tiene il **biglietto** come un trofeo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Leo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tiene",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biglietto",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "come",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "trofeo",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-biglietto"
-              ]
-            },
-            {
-              "id": "s01e11-3-044",
-              "it": "«Ecco. È timbrato. Vedi il segno?»",
-              "en": "\"Here. It's stamped. See the mark?\"",
-              "voice": [
-                [
-                  "leo",
-                  "Ecco. È timbrato. Vedi il segno?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ecco",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "timbrato",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Vedi",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "segno",
-                  5,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-3-045",
-              "it": "«Bravo, signorino. I **biglietti** sono a posto.»",
-              "en": "\"Well done, young man. The **tickets** are in order.\"",
-              "voice": [
-                [
-                  "uomo",
-                  "Bravo, signorino. I **biglietti** sono a posto.",
+                  "Bravo, signore. I **biglietti** sono a posto.",
                   ""
                 ]
               ],
@@ -17934,7 +16789,7 @@
                   ""
                 ],
                 [
-                  "signorino",
+                  "signore",
                   1,
                   ""
                 ],
@@ -18003,7 +16858,183 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-046",
+              "id": "s01e11-3-032",
+              "it": "Kevin guarda Emma con orgoglio. «Vedi? Tre timbri.»",
+              "en": "Kevin looks at Emma proudly. \"See? Three stamps.\"",
+              "voice": [
+                [
+                  "narrator",
+                  "Kevin guarda Emma con orgoglio.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Vedi? Tre timbri.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Kevin",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "guarda",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Emma",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "con",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "orgoglio",
+                  4,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "Vedi",
+                  5,
+                  ""
+                ],
+                [
+                  "? ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Tre",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "timbri",
+                  7,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e11-3-033",
+              "it": "«Papà, non è una medaglia.»",
+              "en": "\"Dad, it's not a medal.\"",
+              "voice": [
+                [
+                  "emma",
+                  "Papà, non è una medaglia.",
+                  "dry"
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Papà",
+                  0,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "non",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "è",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "una",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "medaglia",
+                  4,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e11-3-034",
               "it": "Il controllore **fa** un passo verso il fondo del **vagone**.",
               "en": "The ticket inspector **takes** a step toward the back of the **car**.",
               "voice": [
@@ -18121,7 +17152,7 @@
               ]
             },
             {
-              "id": "s01e11-3-047",
+              "id": "s01e11-3-035",
               "it": "Emma vede due ragazze con le borse della palestra.",
               "en": "Emma sees two girls with gym bags.",
               "voice": [
@@ -18225,7 +17256,7 @@
               ]
             },
             {
-              "id": "s01e11-3-048",
+              "id": "s01e11-3-036",
               "it": "Sono della sua scuola. **Arrivano** verso di lei.",
               "en": "They're from her school. They **arrive** toward her.",
               "voice": [
@@ -18322,7 +17353,7 @@
               ]
             },
             {
-              "id": "s01e11-3-049",
+              "id": "s01e11-3-037",
               "it": "Emma guarda Kevin. Kevin ha la **macchina fotografica** al collo.",
               "en": "Emma looks at Kevin. Kevin has the **camera** around his neck.",
               "voice": [
@@ -18439,7 +17470,7 @@
               ]
             },
             {
-              "id": "s01e11-3-050",
+              "id": "s01e11-3-038",
               "it": "Emma mette le cuffie nelle orecchie. Poi le toglie.",
               "en": "Emma puts the headphones in her ears. Then she takes them out.",
               "voice": [
@@ -18547,7 +17578,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-051",
+              "id": "s01e11-3-039",
               "it": "«Ciao, Emma! Sei anche tu sul treno?»",
               "en": "\"Hi, Emma! Are you on the train too?\"",
               "voice": [
@@ -18636,7 +17667,7 @@
               ]
             },
             {
-              "id": "s01e11-3-052",
+              "id": "s01e11-3-040",
               "it": "«Ciao! Sì. **Vado** a Milano con… con un amico di famiglia.»",
               "en": "\"Hi! Yes. I'm **going** to Milan with… with a friend of the family.\"",
               "voice": [
@@ -18768,7 +17799,7 @@
               ]
             },
             {
-              "id": "s01e11-3-053",
+              "id": "s01e11-3-041",
               "it": "«Un amico di famiglia?»",
               "en": "\"A friend of the family?\"",
               "voice": [
@@ -18827,7 +17858,7 @@
               ]
             },
             {
-              "id": "s01e11-3-054",
+              "id": "s01e11-3-042",
               "it": "«Sì. Un signore americano. Un **turista**.»",
               "en": "\"Yes. An American gentleman. A **tourist**.\"",
               "voice": [
@@ -18913,7 +17944,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-055",
+              "id": "s01e11-3-043",
               "it": "Kevin sente tutto. Kevin si alza.",
               "en": "Kevin hears everything. Kevin stands up.",
               "voice": [
@@ -18987,7 +18018,7 @@
               ]
             },
             {
-              "id": "s01e11-3-056",
+              "id": "s01e11-3-044",
               "it": "«Buongiorno! Sono un **amico di famiglia**!»",
               "en": "\"Good morning! I'm a **friend of the family**!\"",
               "voice": [
@@ -19069,7 +18100,7 @@
               ]
             },
             {
-              "id": "s01e11-3-057",
+              "id": "s01e11-3-045",
               "it": "Il **vagone** diventa silenzioso. Poi qualcuno **ride**.",
               "en": "The **car** becomes silent. Then someone **laughs**.",
               "voice": [
@@ -19161,7 +18192,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-058",
+              "id": "s01e11-3-046",
               "it": "Leo **ride** forte. Il **controllore** **ride**.",
               "en": "Leo **laughs** loudly. The **ticket inspector** **laughs**.",
               "voice": [
@@ -19239,7 +18270,7 @@
               ]
             },
             {
-              "id": "s01e11-3-059",
+              "id": "s01e11-3-047",
               "it": "Le due ragazze **ridono** e guardano Emma.",
               "en": "The two girls **laugh** and look at Emma.",
               "voice": [
@@ -19326,7 +18357,7 @@
               ]
             },
             {
-              "id": "s01e11-3-060",
+              "id": "s01e11-3-048",
               "it": "Emma diventa rossa come un pomodoro.",
               "en": "Emma turns red like a tomato.",
               "voice": [
@@ -19400,7 +18431,7 @@
               ]
             },
             {
-              "id": "s01e11-3-061",
+              "id": "s01e11-3-049",
               "it": "_La mia vita è finita._",
               "en": "_My life is over._",
               "voice": [
@@ -19468,7 +18499,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-062",
+              "id": "s01e11-3-050",
               "it": "«Emma, il tuo amico di famiglia è simpatico.»",
               "en": "\"Emma, your friend of the family is funny.\"",
               "voice": [
@@ -19571,7 +18602,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-063",
+              "id": "s01e11-3-051",
               "it": "«Sì. Molto simpatico.»",
               "en": "\"Yes. Very funny.\"",
               "voice": [
@@ -19624,7 +18655,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-064",
+              "id": "s01e11-3-052",
               "it": "Kevin si siede di nuovo. Guarda fuori dal **finestrino**.",
               "en": "Kevin sits down again. He looks out the **window**.",
               "voice": [
@@ -19731,7 +18762,7 @@
               ]
             },
             {
-              "id": "s01e11-3-065",
+              "id": "s01e11-3-053",
               "it": "«Emma, scusa. Io voglio solo… essere amichevole.»",
               "en": "\"Emma, sorry. I just want… to be friendly.\"",
               "voice": [
@@ -19824,7 +18855,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-066",
+              "id": "s01e11-3-054",
               "it": "«Papà, una **bugia** piccola **fa** meno rumore.»",
               "en": "\"Dad, a small **lie** **makes** less noise.\"",
               "voice": [
@@ -19921,7 +18952,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-067",
+              "id": "s01e11-3-055",
               "it": "«Hai ragione. Scusa.»",
               "en": "\"You're right. Sorry.\"",
               "voice": [
@@ -19970,7 +19001,7 @@
               ]
             },
             {
-              "id": "s01e11-3-068",
+              "id": "s01e11-3-056",
               "it": "Emma non risponde. Guarda il **finestrino**.",
               "en": "Emma doesn't answer. She looks at the **window**.",
               "voice": [
@@ -20051,7 +19082,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-069",
+              "id": "s01e11-3-057",
               "it": "Leo si alza e **va** verso il corridoio.",
               "en": "Leo gets up and **goes** toward the corridor.",
               "voice": [
@@ -20148,7 +19179,7 @@
               ]
             },
             {
-              "id": "s01e11-3-070",
+              "id": "s01e11-3-058",
               "it": "Sul muro c'è un **cartello** con il numero del **vagone**.",
               "en": "On the wall there's a **sign** with the **car** number.",
               "voice": [
@@ -20266,7 +19297,7 @@
               ]
             },
             {
-              "id": "s01e11-3-071",
+              "id": "s01e11-3-059",
               "it": "«Papà, leggi qui. **Vagone** tre. Noi **siamo** nel vagone tre.»",
               "en": "\"Dad, read here. **Car** three. We're in car three.\"",
               "voice": [
@@ -20393,7 +19424,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-072",
+              "id": "s01e11-3-060",
               "it": "«Sì. **Vagone** tre.»",
               "en": "\"Yes. **Car** three.\"",
               "voice": [
@@ -20449,7 +19480,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-073",
+              "id": "s01e11-3-061",
               "it": "«Il **vagone** tre è il mio preferito. Perché? Perché c'è il **cartello** più bello.»",
               "en": "\"**Car** three is my favorite. Why? Because it has the prettiest **sign**.\"",
               "voice": [
@@ -20612,7 +19643,7 @@
               ]
             },
             {
-              "id": "s01e11-3-074",
+              "id": "s01e11-3-062",
               "it": "Kevin **ride** piano. Emma, per un secondo, quasi **ride** anche lei.",
               "en": "Kevin **laughs** quietly. Emma, for a second, almost **laughs** too.",
               "voice": [
@@ -20743,7 +19774,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-075",
+              "id": "s01e11-3-063",
               "it": "Una voce dice dall'altoparlante: «Milano, **in arrivo**.»",
               "en": "A voice says from the loudspeaker: \"Milan, **arriving**.\"",
               "voice": [
@@ -20839,7 +19870,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-076",
+              "id": "s01e11-3-064",
               "it": "Emma prende la sua borsa. Kevin prende la sua.",
               "en": "Emma takes her bag. Kevin takes his.",
               "voice": [
@@ -20943,7 +19974,7 @@
               ]
             },
             {
-              "id": "s01e11-3-077",
+              "id": "s01e11-3-065",
               "it": "«Allora. **Scendiamo** a Milano.»",
               "en": "\"Okay. **We get off** at Milan.\"",
               "voice": [
@@ -21009,7 +20040,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-078",
+              "id": "s01e11-3-066",
               "it": "«Papà, prima **scendono** gli altri. Poi **scendiamo** noi.»",
               "en": "\"Dad, first the others **get off**. Then we **get off**.\"",
               "voice": [
@@ -21115,7 +20146,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-079",
+              "id": "s01e11-3-067",
               "it": "«Sì. Certo. **Scendiamo** piano.»",
               "en": "\"Yes. Of course. **We get off** slowly.\"",
               "voice": [
@@ -21181,7 +20212,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-3-080",
+              "id": "s01e11-3-068",
               "it": "Leo mette la **macchina fotografica** al collo.",
               "en": "Leo puts the **camera** around his neck.",
               "voice": [
@@ -21268,7 +20299,7 @@
               ]
             },
             {
-              "id": "s01e11-3-081",
+              "id": "s01e11-3-069",
               "it": "«Pronto per Milano!»",
               "en": "\"Ready for Milan!\"",
               "voice": [
@@ -30299,12 +29330,12 @@
           "segments": [
             {
               "id": "s01e11-4-102",
-              "it": "«Faccio un discorso piccolo. Solo due parole.»",
+              "it": "«**Faccio** un discorso piccolo. Solo due parole.»",
               "en": "\"I'm **making** a small speech. Just two words.\"",
               "voice": [
                 [
                   "ben",
-                  "Faccio un discorso piccolo. Solo due parole.",
+                  "**Faccio** un discorso piccolo. Solo due parole.",
                   ""
                 ]
               ],
@@ -30317,7 +29348,7 @@
                 [
                   "Faccio",
                   0,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -30384,6 +29415,9 @@
                   -1,
                   ""
                 ]
+              ],
+              "focus": [
+                "g-irregular-fare-andare-venire"
               ]
             }
           ]
@@ -36420,86 +35454,12 @@
           "segments": [
             {
               "id": "s01e11-5-035",
-              "it": "Kevin tocca il braccio di Franco.",
-              "en": "Kevin touches Franco's arm.",
+              "it": "«Nonno, papà dice che fai un corso di storia. O di giardinaggio.»",
+              "en": "\"Grandpa, Dad says you're taking a history course. Or gardening.\"",
               "voice": [
                 [
-                  "narrator",
-                  "Kevin tocca il braccio di Franco.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tocca",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "braccio",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e11-5-036",
-              "it": "«Franco, tu dici a Emma che **fai** un corso di storia.»",
-              "en": "\"Franco, you tell Emma you're **taking** a history course.\"",
-              "voice": [
-                [
-                  "ben",
-                  "Franco, tu dici a Emma che **fai** un corso di storia.",
+                  "emma",
+                  "Nonno, papà dice che fai un corso di storia. O di giardinaggio.",
                   ""
                 ]
               ],
@@ -36510,7 +35470,7 @@
                   ""
                 ],
                 [
-                  "Franco",
+                  "Nonno",
                   0,
                   ""
                 ],
@@ -36520,7 +35480,7 @@
                   ""
                 ],
                 [
-                  "tu",
+                  "papà",
                   1,
                   ""
                 ],
@@ -36530,7 +35490,7 @@
                   ""
                 ],
                 [
-                  "dici",
+                  "dice",
                   2,
                   ""
                 ],
@@ -36540,7 +35500,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "che",
                   3,
                   ""
                 ],
@@ -36550,7 +35510,7 @@
                   ""
                 ],
                 [
-                  "Emma",
+                  "fai",
                   4,
                   ""
                 ],
@@ -36560,7 +35520,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "un",
                   5,
                   ""
                 ],
@@ -36570,28 +35530,8 @@
                   ""
                 ],
                 [
-                  "fai",
-                  6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "corso",
-                  8,
+                  6,
                   ""
                 ],
                 [
@@ -36601,7 +35541,7 @@
                 ],
                 [
                   "di",
-                  9,
+                  7,
                   ""
                 ],
                 [
@@ -36611,7 +35551,37 @@
                 ],
                 [
                   "storia",
+                  8,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "O",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
                   10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "giardinaggio",
+                  11,
                   ""
                 ],
                 [
@@ -36619,9 +35589,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-irregular-fare-andare-venire"
               ]
             }
           ]
@@ -36629,7 +35596,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-037",
+              "id": "s01e11-5-036",
               "it": "«Sì. Di storia. La storia è importante.»",
               "en": "\"Yes. History. History is important.\"",
               "voice": [
@@ -36722,202 +35689,13 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-038",
-              "it": "«Papà dice a me che **fai** giardinaggio.»",
-              "en": "\"Dad tells me you're **doing** gardening.\"",
+              "id": "s01e11-5-037",
+              "it": "«Ma non **fai** giardinaggio. Hai già l'orto!»",
+              "en": "\"But you're not **doing** gardening. You already have the garden!\"",
               "voice": [
                 [
-                  "leo",
-                  "Papà dice a me che **fai** giardinaggio.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Papà",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "me",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "che",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fai",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giardinaggio",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-irregular-fare-andare-venire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-5-039",
-              "it": "«Giardinaggio? Mah. Anche il giardinaggio è importante.»",
-              "en": "\"Gardening? Well. Gardening is important too.\"",
-              "voice": [
-                [
-                  "franco",
-                  "Giardinaggio? Mah. Anche il giardinaggio è importante.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Giardinaggio",
-                  0,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mah",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Anche",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giardinaggio",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "importante",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-5-040",
-              "it": "«Ma nonno, non **fai** giardinaggio. Hai già l'orto!»",
-              "en": "\"But Grandpa, you don't **do** gardening. You already have the garden!\"",
-              "voice": [
-                [
-                  "leo",
-                  "Ma nonno, non **fai** giardinaggio. Hai già l'orto!",
+                  "emma",
+                  "Ma non **fai** giardinaggio. Hai già l'orto!",
                   ""
                 ]
               ],
@@ -36938,18 +35716,8 @@
                   ""
                 ],
                 [
-                  "nonno",
-                  1,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
                   "non",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -36959,7 +35727,7 @@
                 ],
                 [
                   "fai",
-                  3,
+                  2,
                   "b"
                 ],
                 [
@@ -36969,7 +35737,7 @@
                 ],
                 [
                   "giardinaggio",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -36979,7 +35747,7 @@
                 ],
                 [
                   "Hai",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -36989,7 +35757,7 @@
                 ],
                 [
                   "già",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -36999,7 +35767,7 @@
                 ],
                 [
                   "l'orto",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -37017,7 +35785,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-041",
+              "id": "s01e11-5-038",
               "it": "Franco guarda Kevin con gli occhi stretti.",
               "en": "Franco looks at Kevin with narrowed eyes.",
               "voice": [
@@ -37101,7 +35869,7 @@
               ]
             },
             {
-              "id": "s01e11-5-042",
+              "id": "s01e11-5-039",
               "it": "«Emma, la **verità** è questa: **faccio** un corso di cultura generale.»",
               "en": "\"Emma, the **truth** is this: I'm **taking** a general culture course.\"",
               "voice": [
@@ -37238,7 +36006,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-043",
+              "id": "s01e11-5-040",
               "it": "«Di cultura? Che cos'è?»",
               "en": "\"Culture? What's that?\"",
               "voice": [
@@ -37301,7 +36069,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-044",
+              "id": "s01e11-5-041",
               "it": "«È… una cosa. Con la musica. E le persone.»",
               "en": "\"It's… a thing. With music. And people.\"",
               "voice": [
@@ -37414,7 +36182,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-045",
+              "id": "s01e11-5-042",
               "it": "«Con la musica?»",
               "en": "\"With music?\"",
               "voice": [
@@ -37467,7 +36235,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-046",
+              "id": "s01e11-5-043",
               "it": "Kevin vuole **coprire** Franco. Apre la bocca troppo presto.",
               "en": "Kevin wants to **cover** for Franco. He opens his mouth too soon.",
               "voice": [
@@ -37574,7 +36342,7 @@
               ]
             },
             {
-              "id": "s01e11-5-047",
+              "id": "s01e11-5-044",
               "it": "«Sì! Franco **fa** tre corsi! Storia, cultura e… e un'altra cosa.»",
               "en": "\"Yes! Franco **takes** three courses! History, culture and… and another thing.\"",
               "voice": [
@@ -37710,7 +36478,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-048",
+              "id": "s01e11-5-045",
               "it": "Emma guarda Kevin. Leo conta con le dita.",
               "en": "Emma looks at Kevin. Leo counts on his fingers.",
               "voice": [
@@ -37804,7 +36572,7 @@
               ]
             },
             {
-              "id": "s01e11-5-049",
+              "id": "s01e11-5-046",
               "it": "«Tre corsi. Tre volte a settimana. Una volta per corso.»",
               "en": "\"Three courses. Three times a week. Once per course.\"",
               "voice": [
@@ -37927,7 +36695,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-050",
+              "id": "s01e11-5-047",
               "it": "«Esatto! Bravo, Leo.»",
               "en": "\"Exactly! Nice, Leo.\"",
               "voice": [
@@ -37976,7 +36744,7 @@
               ]
             },
             {
-              "id": "s01e11-5-051",
+              "id": "s01e11-5-048",
               "it": "Franco chiude gli occhi per un secondo.",
               "en": "Franco closes his eyes for a second.",
               "voice": [
@@ -38064,7 +36832,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-052",
+              "id": "s01e11-5-049",
               "it": "«Leo, **vai** a prendere l'acqua in giardino.»",
               "en": "\"Leo, **go** get the water in the garden.\"",
               "voice": [
@@ -38160,7 +36928,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-053",
+              "id": "s01e11-5-050",
               "it": "«Ma io voglio stare qui!»",
               "en": "\"But I want to stay here!\"",
               "voice": [
@@ -38233,7 +37001,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-054",
+              "id": "s01e11-5-051",
               "it": "«**Vai**, piccolino. **Fai** un favore al nonno.»",
               "en": "\"**Go**, little one. **Do** Grandpa a favor.\"",
               "voice": [
@@ -38325,7 +37093,7 @@
               ]
             },
             {
-              "id": "s01e11-5-055",
+              "id": "s01e11-5-052",
               "it": "Leo **va** fuori con il bicchiere. Emma resta al tavolo.",
               "en": "Leo **goes** outside with the glass. Emma stays at the table.",
               "voice": [
@@ -38442,7 +37210,7 @@
               ]
             },
             {
-              "id": "s01e11-5-056",
+              "id": "s01e11-5-053",
               "it": "Franco prende Kevin per un gomito.",
               "en": "Franco takes Kevin by the elbow.",
               "voice": [
@@ -38516,7 +37284,7 @@
               ]
             },
             {
-              "id": "s01e11-5-057",
+              "id": "s01e11-5-054",
               "it": "«Americano. Due parole.»",
               "en": "\"American. Two words.\"",
               "voice": [
@@ -38569,7 +37337,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-058",
+              "id": "s01e11-5-055",
               "it": "Vanno vicino alla finestra. Fuori è buio, ma la luna è chiara.",
               "en": "They go near the window. Outside it's dark, but the moon is bright.",
               "voice": [
@@ -38703,7 +37471,7 @@
               ]
             },
             {
-              "id": "s01e11-5-059",
+              "id": "s01e11-5-056",
               "it": "«Niente **verità** a Chiara. **Capisci**?»",
               "en": "\"No **truth** to Chiara. **Understand**?\"",
               "voice": [
@@ -38780,7 +37548,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-060",
+              "id": "s01e11-5-057",
               "it": "«Sì, sì. **Capisco**. Ma io…»",
               "en": "\"Yes, yes. I **understand**. But I…\"",
               "voice": [
@@ -38856,7 +37624,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-061",
+              "id": "s01e11-5-058",
               "it": "«Ma tu niente. Non **fare** domande. Non **nascondere** niente a me.»",
               "en": "\"But you nothing. Don't **ask** questions. Don't **hide** anything from me.\"",
               "voice": [
@@ -38993,7 +37761,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-062",
+              "id": "s01e11-5-059",
               "it": "«Io non **nascondo** niente. Solo una piccola **bugia**.»",
               "en": "\"I'm not **hiding** anything. Only a small **lie**.\"",
               "voice": [
@@ -39100,7 +37868,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-063",
+              "id": "s01e11-5-060",
               "it": "«Una **bugia** è una **bugia**. Bene. Allora siamo d'accordo.»",
               "en": "\"A **lie** is a **lie**. Good. So we agree.\"",
               "voice": [
@@ -39216,7 +37984,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-064",
+              "id": "s01e11-5-061",
               "it": "Emma, al tavolo, sente una parola. Sente \"**bugia**\".",
               "en": "Emma, at the table, hears one word. She hears \"**lie**.\"",
               "voice": [
@@ -39313,7 +38081,7 @@
               ]
             },
             {
-              "id": "s01e11-5-065",
+              "id": "s01e11-5-062",
               "it": "«Che cosa dite? Parlate di **bugie**?»",
               "en": "\"What are you saying? Are you talking about **lies**?\"",
               "voice": [
@@ -39399,7 +38167,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-066",
+              "id": "s01e11-5-063",
               "it": "«No. Di pomodori.»",
               "en": "\"No. About tomatoes.\"",
               "voice": [
@@ -39452,7 +38220,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-067",
+              "id": "s01e11-5-064",
               "it": "«Di **bugie** di pomodori. Una **scusa** per non dire niente.»",
               "en": "\"About tomato **lies**. An **excuse** not to say anything.\"",
               "voice": [
@@ -39579,13 +38347,13 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-068",
-              "it": "«Kevin, **fai** silenzio. **Sei** rosso come un pomodoro.»",
-              "en": "\"Kevin, **be** quiet. You're red like a tomato.\"",
+              "id": "s01e11-5-065",
+              "it": "«Americano, **fai** silenzio. **Sei** rosso come un pomodoro.»",
+              "en": "\"American, **be** quiet. You're red like a tomato.\"",
               "voice": [
                 [
                   "franco",
-                  "Kevin, **fai** silenzio. **Sei** rosso come un pomodoro.",
+                  "Americano, **fai** silenzio. **Sei** rosso come un pomodoro.",
                   ""
                 ]
               ],
@@ -39596,7 +38364,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Americano",
                   0,
                   ""
                 ],
@@ -39681,7 +38449,7 @@
               ]
             },
             {
-              "id": "s01e11-5-069",
+              "id": "s01e11-5-066",
               "it": "Emma guarda i due. Poi **ride**.",
               "en": "Emma looks at the two of them. Then she **laughs**.",
               "voice": [
@@ -39762,13 +38530,13 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-070",
-              "it": "«Nonno, hai una **scusa** per tutto. Anche per Kevin.»",
+              "id": "s01e11-5-067",
+              "it": "«Nonno, hai una **scusa** per tutto. Anche per papà.»",
               "en": "\"Grandpa, you have an **excuse** for everything. Even for Kevin.\"",
               "voice": [
                 [
                   "emma",
-                  "Nonno, hai una **scusa** per tutto. Anche per Kevin.",
+                  "Nonno, hai una **scusa** per tutto. Anche per papà.",
                   ""
                 ]
               ],
@@ -39859,7 +38627,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "papà",
                   8,
                   ""
                 ],
@@ -39878,7 +38646,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-071",
+              "id": "s01e11-5-068",
               "it": "«Io una **scusa**? Io dico le cose come stanno.»",
               "en": "\"Me, an **excuse**? I say things as they are.\"",
               "voice": [
@@ -39994,7 +38762,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-072",
+              "id": "s01e11-5-069",
               "it": "«Allora che corso **fai**? Storia? Giardinaggio? Cultura?»",
               "en": "\"So what course do you **take**? History? Gardening? Culture?\"",
               "voice": [
@@ -40090,7 +38858,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-073",
+              "id": "s01e11-5-070",
               "it": "«Tutti e tre. Come dice l'americano.»",
               "en": "\"All three. Like the American says.\"",
               "voice": [
@@ -40169,7 +38937,7 @@
               ]
             },
             {
-              "id": "s01e11-5-074",
+              "id": "s01e11-5-071",
               "it": "Emma **nasconde** la faccia dietro la mano e **ride** forte.",
               "en": "Emma **hides** her face behind her hand and **laughs** loudly.",
               "voice": [
@@ -40291,7 +39059,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-075",
+              "id": "s01e11-5-072",
               "it": "Leo **arriva** dal giardino con un bicchiere d'acqua.",
               "en": "Leo **arrives** from the garden with a glass of water.",
               "voice": [
@@ -40388,7 +39156,7 @@
               ]
             },
             {
-              "id": "s01e11-5-076",
+              "id": "s01e11-5-073",
               "it": "«Nonno, nell'orto c'è un gatto!»",
               "en": "\"Grandpa, in the garden there's a cat!\"",
               "voice": [
@@ -40461,7 +39229,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-077",
+              "id": "s01e11-5-074",
               "it": "«È il gatto di Pavarotti. **Viene** ogni sera.»",
               "en": "\"It's Pavarotti's cat. He **comes** every evening.\"",
               "voice": [
@@ -40567,7 +39335,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-078",
+              "id": "s01e11-5-075",
               "it": "«Pavarotti? Il gatto di nonna Ornella?»",
               "en": "\"Pavarotti? Grandma Ornella's cat?\"",
               "voice": [
@@ -40650,7 +39418,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-079",
+              "id": "s01e11-5-076",
               "it": "«Sì. **Viene** qui per il pesce. E io **faccio** finta di niente.»",
               "en": "\"Yes. He **comes** here for the fish. And I **pretend** nothing's happening.\"",
               "voice": [
@@ -40796,7 +39564,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-080",
+              "id": "s01e11-5-077",
               "it": "Leo mette l'acqua sul tavolo e guarda le foto ancora.",
               "en": "Leo puts the water on the table and looks at the photos again.",
               "voice": [
@@ -40910,7 +39678,7 @@
               ]
             },
             {
-              "id": "s01e11-5-081",
+              "id": "s01e11-5-078",
               "it": "«Nonno, il **piccione** grasso è il mio preferito. Si chiama Piccione Uno.»",
               "en": "\"Grandpa, the fat **pigeon** is my favorite. His name is Pigeon One.\"",
               "voice": [
@@ -41056,7 +39824,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-082",
+              "id": "s01e11-5-079",
               "it": "«Piccione Uno. Mah. Nome americano.»",
               "en": "\"Pigeon One. Well. American name.\"",
               "voice": [
@@ -41129,7 +39897,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-083",
+              "id": "s01e11-5-080",
               "it": "Kevin prende la sua **macchina fotografica** dal tavolo.",
               "en": "Kevin takes his **camera** from the table.",
               "voice": [
@@ -41226,7 +39994,7 @@
               ]
             },
             {
-              "id": "s01e11-5-084",
+              "id": "s01e11-5-081",
               "it": "«Franco, **faccio** una foto a te e ai **piccioni**?»",
               "en": "\"Franco, shall I **take** a photo of you and the **pigeons**?\"",
               "voice": [
@@ -41343,7 +40111,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-085",
+              "id": "s01e11-5-082",
               "it": "«No. La faccia mia resta qui.»",
               "en": "\"No. My face stays here.\"",
               "voice": [
@@ -41426,7 +40194,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-086",
+              "id": "s01e11-5-083",
               "it": "«Dai, nonno! Solo una foto!»",
               "en": "\"Come on, Grandpa! Just one photo!\"",
               "voice": [
@@ -41499,7 +40267,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-087",
+              "id": "s01e11-5-084",
               "it": "«Solo con le spalle. E con il pomodoro in mano.»",
               "en": "\"Only with my back. And with the tomato in my hand.\"",
               "voice": [
@@ -41622,7 +40390,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-088",
+              "id": "s01e11-5-085",
               "it": "«Ma nonno, la **faccia** è importante!»",
               "en": "\"But Grandpa, the **face** is important!\"",
               "voice": [
@@ -41708,7 +40476,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-089",
+              "id": "s01e11-5-086",
               "it": "«Per i **turisti**, sì. Io non **sono** un **turista**. Io **sono** di Borgoverde.»",
               "en": "\"For **tourists**, yes. I'm not a **tourist**. I'm from Borgoverde.\"",
               "voice": [
@@ -41865,7 +40633,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-090",
+              "id": "s01e11-5-087",
               "it": "Franco prende due pomodori dal tavolo.",
               "en": "Franco takes two tomatoes from the table.",
               "voice": [
@@ -41939,7 +40707,7 @@
               ]
             },
             {
-              "id": "s01e11-5-091",
+              "id": "s01e11-5-088",
               "it": "Li mette in mano a Kevin. Uno, due.",
               "en": "He puts them in Kevin's hand. One, two.",
               "voice": [
@@ -42033,7 +40801,7 @@
               ]
             },
             {
-              "id": "s01e11-5-092",
+              "id": "s01e11-5-089",
               "it": "«Tieni. Per la **bugia**.»",
               "en": "\"Here. For the **lie**.\"",
               "voice": [
@@ -42099,7 +40867,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-093",
+              "id": "s01e11-5-090",
               "it": "Kevin guarda i pomodori. Poi guarda Franco.",
               "en": "Kevin looks at the tomatoes. Then he looks at Franco.",
               "voice": [
@@ -42183,7 +40951,7 @@
               ]
             },
             {
-              "id": "s01e11-5-094",
+              "id": "s01e11-5-091",
               "it": "«Quale **bugia**?»",
               "en": "\"Which **lie**?\"",
               "voice": [
@@ -42229,7 +40997,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-095",
+              "id": "s01e11-5-092",
               "it": "Franco mette una mano sulla spalla di Kevin.",
               "en": "Franco puts a hand on Kevin's shoulder.",
               "voice": [
@@ -42323,7 +41091,7 @@
               ]
             },
             {
-              "id": "s01e11-5-096",
+              "id": "s01e11-5-093",
               "it": "«Bravissimo. Così si fa.»",
               "en": "\"Excellent. That's how it's done.\"",
               "voice": [
@@ -42386,7 +41154,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-097",
+              "id": "s01e11-5-094",
               "it": "«Ma io non **dico** bugie! Io dico solo cose piccole…»",
               "en": "\"But I don't **tell** lies! I only say small things…\"",
               "voice": [
@@ -42512,7 +41280,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-098",
+              "id": "s01e11-5-095",
               "it": "«Appunto. Bravo. **Fai** così anche con Chiara.»",
               "en": "\"Exactly. Good. **Do** the same with Chiara.\"",
               "voice": [
@@ -42608,7 +41376,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-099",
+              "id": "s01e11-5-096",
               "it": "Leo guarda i pomodori nella mano di Kevin.",
               "en": "Leo looks at the tomatoes in Kevin's hand.",
               "voice": [
@@ -42702,7 +41470,7 @@
               ]
             },
             {
-              "id": "s01e11-5-100",
+              "id": "s01e11-5-097",
               "it": "«Papà, perché i pomodori? È una **scusa** per la cena?»",
               "en": "\"Dad, why the tomatoes? Is it an **excuse** for dinner?\"",
               "voice": [
@@ -42828,7 +41596,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-101",
+              "id": "s01e11-5-098",
               "it": "«Sì, Leo. Una **scusa** per la cena.»",
               "en": "\"Yes, Leo. An **excuse** for dinner.\"",
               "voice": [
@@ -42920,7 +41688,7 @@
               ]
             },
             {
-              "id": "s01e11-5-102",
+              "id": "s01e11-5-099",
               "it": "Emma guarda i due uomini e **nasconde** di nuovo un sorriso.",
               "en": "Emma looks at the two men and **hides** a smile again.",
               "voice": [
@@ -43051,13 +41819,13 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-103",
-              "it": "«Kevin, **vieni** a cena domani? Domenica. Con la pasta.»",
-              "en": "\"Kevin, **are you coming** to dinner tomorrow? Sunday. With pasta.\"",
+              "id": "s01e11-5-100",
+              "it": "«Americano, **vieni** a cena domani? Domenica. Con la pasta.»",
+              "en": "\"American, **are you coming** to dinner tomorrow? Sunday. With pasta.\"",
               "voice": [
                 [
                   "franco",
-                  "Kevin, **vieni** a cena domani? Domenica. Con la pasta.",
+                  "Americano, **vieni** a cena domani? Domenica. Con la pasta.",
                   ""
                 ]
               ],
@@ -43068,7 +41836,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Americano",
                   0,
                   ""
                 ],
@@ -43167,7 +41935,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-104",
+              "id": "s01e11-5-101",
               "it": "«Sì! **Vengo**! Con la lista della spesa, se vuoi!»",
               "en": "\"Yes! I'm **coming**! With the shopping list, if you want!\"",
               "voice": [
@@ -43283,7 +42051,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-5-105",
+              "id": "s01e11-5-102",
               "it": "«No. Senza lista. E senza discorsi.»",
               "en": "\"No. Without a list. And without speeches.\"",
               "voice": [
@@ -43362,7 +42130,7 @@
               ]
             },
             {
-              "id": "s01e11-5-106",
+              "id": "s01e11-5-103",
               "it": "Franco **ride** piano per la prima volta. Solo un secondo. Un secondo basta.",
               "en": "Franco **laughs** quietly for the first time. Only a second. A second is enough.",
               "voice": [
@@ -44710,12 +43478,12 @@
             },
             {
               "id": "s01e11-6-015",
-              "it": "«L'italiano è la sala 9. Il tango è la sala 8.»",
-              "en": "\"Italian is room 9. Tango is room 8.\"",
+              "it": "«L'italiano, certo. Il martedì. E il resto?»",
+              "en": "\"Italian, of course. On Tuesdays. And the rest?\"",
               "voice": [
                 [
                   "matteo",
-                  "L'italiano è la sala 9. Il tango è la sala 8.",
+                  "L'italiano, certo. Il martedì. E il resto?",
                   ""
                 ]
               ],
@@ -44731,43 +43499,13 @@
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "è",
+                  "certo",
                   1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sala",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "9",
-                  4,
                   ""
                 ],
                 [
@@ -44777,6 +43515,36 @@
                 ],
                 [
                   "Il",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "martedì",
+                  3,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "E",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
                   5,
                   ""
                 ],
@@ -44786,52 +43554,12 @@
                   ""
                 ],
                 [
-                  "tango",
+                  "resto",
                   6,
                   ""
                 ],
                 [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sala",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "8",
-                  10,
-                  ""
-                ],
-                [
-                  ".»",
+                  "?»",
                   -1,
                   ""
                 ]
@@ -44843,13 +43571,13 @@
           "segments": [
             {
               "id": "s01e11-6-016",
-              "it": "«Sì. Forse. Non ricordo i numeri.»",
-              "en": "\"Yes. Maybe. I don't remember the numbers.\"",
+              "it": "«Quale resto?»",
+              "en": "\"What rest?\"",
               "voice": [
                 [
                   "ben",
-                  "Sì. Forse. Non ricordo i numeri.",
-                  ""
+                  "Quale resto?",
+                  "too loud"
                 ]
               ],
               "tokens": [
@@ -44859,62 +43587,22 @@
                   ""
                 ],
                 [
-                  "Sì",
+                  "Quale",
                   0,
                   ""
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "Forse",
+                  "resto",
                   1,
                   ""
                 ],
                 [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ricordo",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "numeri",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
+                  "?»",
                   -1,
                   ""
                 ]
@@ -44926,12 +43614,12 @@
           "segments": [
             {
               "id": "s01e11-6-017",
-              "it": "«Tu **copro** qualcuno?»",
-              "en": "\"Are you **covering** for someone?\"",
+              "it": "«Kevin, tu **copri** qualcuno?»",
+              "en": "\"Kevin, are you **covering** for someone?\"",
               "voice": [
                 [
                   "matteo",
-                  "Tu **copro** qualcuno?",
+                  "Kevin, tu **copri** qualcuno?",
                   "sharp"
                 ]
               ],
@@ -44942,8 +43630,18 @@
                   ""
                 ],
                 [
-                  "Tu",
+                  "Kevin",
                   0,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tu",
+                  1,
                   ""
                 ],
                 [
@@ -44952,8 +43650,8 @@
                   ""
                 ],
                 [
-                  "copro",
-                  1,
+                  "copri",
+                  2,
                   "b"
                 ],
                 [
@@ -44963,7 +43661,7 @@
                 ],
                 [
                   "qualcuno",
-                  2,
+                  3,
                   ""
                 ],
                 [
@@ -44973,7 +43671,7 @@
                 ]
               ],
               "focus": [
-                "v-coprire"
+                "g-irregular-fare-andare-venire"
               ]
             }
           ]
@@ -44982,12 +43680,12 @@
           "segments": [
             {
               "id": "s01e11-6-018",
-              "it": "«Io **copro** nessuno!»",
-              "en": "\"I **cover** nobody!\"",
+              "it": "«Io? No! Non **copro** nessuno!»",
+              "en": "\"Me? No! I'm not **covering** anyone!\"",
               "voice": [
                 [
                   "ben",
-                  "Io **copro** nessuno!",
+                  "Io? No! Non **copro** nessuno!",
                   "too loud"
                 ]
               ],
@@ -45003,13 +43701,33 @@
                   ""
                 ],
                 [
+                  "? ",
+                  -1,
+                  ""
+                ],
+                [
+                  "No",
+                  1,
+                  ""
+                ],
+                [
+                  "! ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Non",
+                  2,
+                  ""
+                ],
+                [
                   " ",
                   -1,
                   ""
                 ],
                 [
                   "copro",
-                  1,
+                  3,
                   "b"
                 ],
                 [
@@ -45019,7 +43737,7 @@
                 ],
                 [
                   "nessuno",
-                  2,
+                  4,
                   ""
                 ],
                 [
@@ -45038,12 +43756,12 @@
           "segments": [
             {
               "id": "s01e11-6-019",
-              "it": "Matteo ride e mette una mano sulla spalla.",
-              "en": "Matteo laughs and puts a hand on his shoulder.",
+              "it": "Matteo ride e mette una mano sulla spalla di Kevin.",
+              "en": "Matteo laughs and puts a hand on Kevin's shoulder.",
               "voice": [
                 [
                   "narrator",
-                  "Matteo ride e mette una mano sulla spalla.",
+                  "Matteo ride e mette una mano sulla spalla di Kevin.",
                   ""
                 ]
               ],
@@ -45124,196 +43842,38 @@
                   ""
                 ],
                 [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  9,
+                  ""
+                ],
+                [
                   ".",
                   -1,
                   ""
                 ]
               ]
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "id": "s01e11-6-020",
-              "it": "«Non **copro** nessuno. Si dice così.»",
-              "en": "\"Non **copro** nessuno. That's how you say it.\"",
-              "voice": [
-                [
-                  "matteo",
-                  "Non **copro** nessuno. Si dice così.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "copro",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nessuno",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Si",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "così",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-coprire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-6-021",
-              "it": "«Non **copro** nessuno. Perfetto. Non **copro** nessuno.»",
-              "en": "\"Non **copro** nessuno. Perfect. Non **copro** nessuno.\"",
-              "voice": [
-                [
-                  "ben",
-                  "Non **copro** nessuno. Perfetto. Non **copro** nessuno.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "copro",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nessuno",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Perfetto",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "copro",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nessuno",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-coprire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e11-6-022",
               "it": "«Bravo. Ma io **copro** te, tranquillo.»",
               "en": "\"Nice. But I'm **covering** you, don't worry.\"",
               "voice": [
@@ -45399,7 +43959,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-023",
+              "id": "s01e11-6-021",
               "it": "Kevin guarda la porta del bar.",
               "en": "Kevin looks at the bar door.",
               "voice": [
@@ -45473,7 +44033,7 @@
               ]
             },
             {
-              "id": "s01e11-6-024",
+              "id": "s01e11-6-022",
               "it": "_Vado bene. Non dico la verità, ma vado bene._",
               "en": "_I'm doing fine. I don't tell the truth, but I'm doing fine._",
               "voice": [
@@ -45581,7 +44141,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-025",
+              "id": "s01e11-6-023",
               "it": "La porta si apre. **Arriva** Chiara con una busta in mano.",
               "en": "The door opens. Chiara **arrives** with an envelope in her hand.",
               "voice": [
@@ -45708,7 +44268,7 @@
               ]
             },
             {
-              "id": "s01e11-6-026",
+              "id": "s01e11-6-024",
               "it": "«Buongiorno, ragazzi. Kevin, **trovo** la busta dei **turisti** sul tavolo.»",
               "en": "\"Morning, guys. Kevin, I **find** the **tourists**' envelope on the table.\"",
               "voice": [
@@ -45835,7 +44395,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-027",
+              "id": "s01e11-6-025",
               "it": "«Dei **turisti**?»",
               "en": "\"The **tourists**'?\"",
               "voice": [
@@ -45881,7 +44441,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-028",
+              "id": "s01e11-6-026",
               "it": "«Le foto. Di Milano. Tu **lasci** tutto sul tavolo.»",
               "en": "\"The photos. From Milan. You **leave** everything on the table.\"",
               "voice": [
@@ -45993,7 +44553,7 @@
               ]
             },
             {
-              "id": "s01e11-6-029",
+              "id": "s01e11-6-027",
               "it": "Chiara apre la busta e mette le foto sul bancone.",
               "en": "Chiara opens the envelope and puts the photos on the counter.",
               "voice": [
@@ -46111,7 +44671,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-030",
+              "id": "s01e11-6-028",
               "it": "«Guarda. Il **Duomo**. La **fontana**. I **cartelli** della metro.»",
               "en": "\"Look. The **Duomo**. The **fountain**. The metro **signs**.\"",
               "voice": [
@@ -46229,7 +44789,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-031",
+              "id": "s01e11-6-029",
               "it": "«Ah sì. Le ho **fatte** io quelle foto? No. Le ha **fatte** Leo.»",
               "en": "\"Oh yes. Did I **take** those photos? No. Leo **took** them.\"",
               "voice": [
@@ -46385,7 +44945,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-032",
+              "id": "s01e11-6-030",
               "it": "«Ma il **Duomo** è grande. Sei secoli. Lo dicono tutti i **turisti**.»",
               "en": "\"But the **Duomo** is big. Six centuries. All the **tourists** say so.\"",
               "voice": [
@@ -46532,7 +45092,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-033",
+              "id": "s01e11-6-031",
               "it": "«Noi **andiamo** al **Duomo**. E **facciamo** un giro in **metropolitana**… no, sul **binario** giusto.»",
               "en": "\"We **go** to the **Duomo**. And we **take** a ride on the **metro**… no, on the right **platform**.\"",
               "voice": [
@@ -46701,7 +45261,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-034",
+              "id": "s01e11-6-032",
               "it": "«Kevin, i **biglietti** sono a posto?»",
               "en": "\"Kevin, are the **tickets** all right?\"",
               "voice": [
@@ -46787,7 +45347,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-035",
+              "id": "s01e11-6-033",
               "it": "«Perfetti! Tre biglietti. Tutti **timbrati**. Con il **controllore** molto gentile.»",
               "en": "\"Perfect! Three tickets. All **stamped**. With a very kind **ticket inspector**.\"",
               "voice": [
@@ -46914,7 +45474,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-036",
+              "id": "s01e11-6-034",
               "it": "Matteo ascolta e sorride. Chiara guarda Kevin negli occhi.",
               "en": "Matteo listens and smiles. Chiara looks Kevin in the eyes.",
               "voice": [
@@ -47018,7 +45578,7 @@
               ]
             },
             {
-              "id": "s01e11-6-037",
+              "id": "s01e11-6-035",
               "it": "«E il treno **arriva** **in ritardo**?»",
               "en": "\"And does the train **arrive** **late**?\"",
               "voice": [
@@ -47105,7 +45665,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-038",
+              "id": "s01e11-6-036",
               "it": "«Sì, ma poco. Dieci minuti. E i **cartelli** sono chiari. C'è anche l'**orario**.»",
               "en": "\"Yes, but just a little. Ten minutes. And the **signs** are clear. There's also the **timetable**.\"",
               "voice": [
@@ -47272,7 +45832,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-039",
+              "id": "s01e11-6-037",
               "it": "«Bene. Allora a Milano **vai** dritto. Nessuna **bugia**?»",
               "en": "\"Good. So in Milan you **go** straight. No **lie**?\"",
               "voice": [
@@ -47379,7 +45939,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-040",
+              "id": "s01e11-6-038",
               "it": "«Nessuna. Solo **verità**. Tanta **verità**.»",
               "en": "\"None. Only the **truth**. A lot of **truth**.\"",
               "voice": [
@@ -47455,7 +46015,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-041",
+              "id": "s01e11-6-039",
               "it": "Chiara mette una foto della **fontana** davanti a Matteo.",
               "en": "Chiara puts a photo of the **fountain** in front of Matteo.",
               "voice": [
@@ -47562,7 +46122,7 @@
               ]
             },
             {
-              "id": "s01e11-6-042",
+              "id": "s01e11-6-040",
               "it": "«Matteo, lo sai? Mio papà **va** al **centro** civico tre volte a settimana.»",
               "en": "\"Matteo, you know? My dad **goes** to the civic **center** three times a week.\"",
               "voice": [
@@ -47719,7 +46279,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-043",
+              "id": "s01e11-6-041",
               "it": "Matteo asciuga il bancone molto lentamente.",
               "en": "Matteo dries the counter very slowly.",
               "voice": [
@@ -47793,7 +46353,7 @@
               ]
             },
             {
-              "id": "s01e11-6-044",
+              "id": "s01e11-6-042",
               "it": "«Ah, sì. **Va**.»",
               "en": "\"Ah, yes. He **goes**.\"",
               "voice": [
@@ -47849,7 +46409,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-045",
+              "id": "s01e11-6-043",
               "it": "«Che corso **fa**?»",
               "en": "\"What course does he **take**?\"",
               "voice": [
@@ -47905,7 +46465,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-046",
+              "id": "s01e11-6-044",
               "it": "«Il corso più bello del mondo.»",
               "en": "\"The most beautiful course in the world.\"",
               "voice": [
@@ -47988,7 +46548,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-047",
+              "id": "s01e11-6-045",
               "it": "Chiara guarda Matteo. Poi guarda Kevin.",
               "en": "Chiara looks at Matteo. Then she looks at Kevin.",
               "voice": [
@@ -48062,7 +46622,7 @@
               ]
             },
             {
-              "id": "s01e11-6-048",
+              "id": "s01e11-6-046",
               "it": "«Che cos'è? Storia? Pittura? Cucina?»",
               "en": "\"What is it? History? Painting? Cooking?\"",
               "voice": [
@@ -48135,7 +46695,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-049",
+              "id": "s01e11-6-047",
               "it": "«È… un corso di cultura. Con la musica. E le persone.»",
               "en": "\"It's… a culture course. With music. And people.\"",
               "voice": [
@@ -48268,7 +46828,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-050",
+              "id": "s01e11-6-048",
               "it": "«Musica? Che musica?»",
               "en": "\"Music? What music?\"",
               "voice": [
@@ -48321,7 +46881,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-051",
+              "id": "s01e11-6-049",
               "it": "«Musica italiana. La musica **fa** bene al cuore.»",
               "en": "\"Italian music. Music **is good** for the heart.\"",
               "voice": [
@@ -48427,7 +46987,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-052",
+              "id": "s01e11-6-050",
               "it": "«Kevin, tu **fai** troppe frasi e dici poco.»",
               "en": "\"Kevin, you **make** too many sentences and say little.\"",
               "voice": [
@@ -48533,7 +47093,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-053",
+              "id": "s01e11-6-051",
               "it": "«È una **scusa** per non dire niente, signora.»",
               "en": "\"It's an **excuse** not to say anything, ma'am.\"",
               "voice": [
@@ -48639,7 +47199,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-054",
+              "id": "s01e11-6-052",
               "it": "Kevin prende un altro caffè. Beve senza zucchero.",
               "en": "Kevin takes another coffee. He drinks it without sugar.",
               "voice": [
@@ -48733,7 +47293,7 @@
               ]
             },
             {
-              "id": "s01e11-6-055",
+              "id": "s01e11-6-053",
               "it": "«Matteo, hai ragione. Io non **dico** niente. Io **faccio** il caffè e taccio.»",
               "en": "\"Matteo, you're right. I don't **say** anything. I **have** coffee and stay quiet.\"",
               "voice": [
@@ -48889,7 +47449,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-056",
+              "id": "s01e11-6-054",
               "it": "«Allora **impari** il mestiere del bar.»",
               "en": "\"Then you **learn** the bar trade.\"",
               "voice": [
@@ -48971,7 +47531,7 @@
               ]
             },
             {
-              "id": "s01e11-6-057",
+              "id": "s01e11-6-055",
               "it": "Chiara guarda fuori dalla finestra del bar.",
               "en": "Chiara looks out the bar window.",
               "voice": [
@@ -49055,7 +47615,7 @@
               ]
             },
             {
-              "id": "s01e11-6-058",
+              "id": "s01e11-6-056",
               "it": "Passa Franco. **Va** piano, con la borsa della spesa.",
               "en": "Franco passes by. He **goes** slowly, with his shopping bag.",
               "voice": [
@@ -49162,7 +47722,7 @@
               ]
             },
             {
-              "id": "s01e11-6-059",
+              "id": "s01e11-6-057",
               "it": "Franco guarda dentro il bar. Vede Chiara, vede Kevin.",
               "en": "Franco looks inside the bar. He sees Chiara, he sees Kevin.",
               "voice": [
@@ -49266,7 +47826,7 @@
               ]
             },
             {
-              "id": "s01e11-6-060",
+              "id": "s01e11-6-058",
               "it": "Franco non entra. Continua a camminare.",
               "en": "Franco doesn't come in. He keeps walking.",
               "voice": [
@@ -49344,7 +47904,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-061",
+              "id": "s01e11-6-059",
               "it": "«Ecco. Mio padre che **scappa**. Altre **scuse** in arrivo.»",
               "en": "\"There. My father **running away**. More **excuses** coming.\"",
               "voice": [
@@ -49461,7 +48021,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-062",
+              "id": "s01e11-6-060",
               "it": "«Non **scappa**. **Va** a casa. **Fa** la spesa di domenica.»",
               "en": "\"He's not **running**. He's **going** home. He's **doing** Sunday shopping.\"",
               "voice": [
@@ -49587,7 +48147,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-063",
+              "id": "s01e11-6-061",
               "it": "«Kevin, lo difendi sempre. Perché?»",
               "en": "\"Kevin, you always defend him. Why?\"",
               "voice": [
@@ -49660,7 +48220,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-064",
+              "id": "s01e11-6-062",
               "it": "«Perché… è tuo papà. E io **sono** il marito. E un po' **copro** tutti.»",
               "en": "\"Because… he's your dad. And I'm the husband. And I **cover** everyone a little.\"",
               "voice": [
@@ -49827,13 +48387,13 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-065",
-              "it": "«Io **copro** nessuno. Si dice così. E tu **fai** la stessa cosa.»",
-              "en": "\"Io **copro** nessuno. That's how you say it. And you **do** the same thing.\"",
+              "id": "s01e11-6-063",
+              "it": "«Anche io **copro** tutti, un po'. Fa parte del lavoro.»",
+              "en": "\"I **cover** everyone a little too. It's part of the job.\"",
               "voice": [
                 [
                   "matteo",
-                  "Io **copro** nessuno. Si dice così. E tu **fai** la stessa cosa.",
+                  "Anche io **copro** tutti, un po'. Fa parte del lavoro.",
                   "dry"
                 ]
               ],
@@ -49844,7 +48404,7 @@
                   ""
                 ],
                 [
-                  "Io",
+                  "Anche",
                   0,
                   ""
                 ],
@@ -49854,8 +48414,18 @@
                   ""
                 ],
                 [
-                  "copro",
+                  "io",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "copro",
+                  2,
                   "b"
                 ],
                 [
@@ -49864,27 +48434,17 @@
                   ""
                 ],
                 [
-                  "nessuno",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Si",
+                  "tutti",
                   3,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "dice",
+                  "un",
                   4,
                   ""
                 ],
@@ -49894,17 +48454,17 @@
                   ""
                 ],
                 [
-                  "così",
+                  "po",
                   5,
                   ""
                 ],
                 [
-                  ". ",
+                  "'. ",
                   -1,
                   ""
                 ],
                 [
-                  "E",
+                  "Fa",
                   6,
                   ""
                 ],
@@ -49914,7 +48474,7 @@
                   ""
                 ],
                 [
-                  "tu",
+                  "parte",
                   7,
                   ""
                 ],
@@ -49924,9 +48484,9 @@
                   ""
                 ],
                 [
-                  "fai",
+                  "del",
                   8,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -49934,28 +48494,8 @@
                   ""
                 ],
                 [
-                  "la",
+                  "lavoro",
                   9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "stessa",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  11,
                   ""
                 ],
                 [
@@ -49965,8 +48505,7 @@
                 ]
               ],
               "focus": [
-                "v-coprire",
-                "g-irregular-fare-andare-venire"
+                "v-coprire"
               ]
             }
           ]
@@ -49974,7 +48513,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-066",
+              "id": "s01e11-6-064",
               "it": "«Ma tu perché sai tutto?»",
               "en": "\"But why do you know everything?\"",
               "voice": [
@@ -50047,7 +48586,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-067",
+              "id": "s01e11-6-065",
               "it": "«Perché **faccio** il barista. Il barista sente tutto.»",
               "en": "\"Because I **work** as a bartender. The bartender hears everything.\"",
               "voice": [
@@ -50153,7 +48692,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-068",
+              "id": "s01e11-6-066",
               "it": "Chiara prende le foto e le rimette nella busta.",
               "en": "Chiara takes the photos and puts them back in the envelope.",
               "voice": [
@@ -50257,7 +48796,7 @@
               ]
             },
             {
-              "id": "s01e11-6-069",
+              "id": "s01e11-6-067",
               "it": "«Va bene. **Capisco**. C'è un segreto in questa famiglia.»",
               "en": "\"All right. I **understand**. There's a secret in this family.\"",
               "voice": [
@@ -50373,7 +48912,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-070",
+              "id": "s01e11-6-068",
               "it": "«Chi, io? No. Nessun segreto.»",
               "en": "\"Who, me? No. No secret.\"",
               "voice": [
@@ -50446,7 +48985,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-071",
+              "id": "s01e11-6-069",
               "it": "«Non dico che sei tu. Dico: la famiglia.»",
               "en": "\"I'm not saying it's you. I say: the family.\"",
               "voice": [
@@ -50549,7 +49088,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-072",
+              "id": "s01e11-6-070",
               "it": "«Ah. Esatto. La famiglia. Ben detto.»",
               "en": "\"Ah. Exactly. The family. Well said.\"",
               "voice": [
@@ -50632,7 +49171,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-073",
+              "id": "s01e11-6-071",
               "it": "«Kevin, **bevi** il caffè e **stai** zitto. Una volta tanto.»",
               "en": "\"Kevin, **drink** your coffee and **be** quiet. For once.\"",
               "voice": [
@@ -50758,7 +49297,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-074",
+              "id": "s01e11-6-072",
               "it": "Matteo ride dietro il bancone. Chiara paga il caffè e saluta.",
               "en": "Matteo laughs behind the counter. Chiara pays for the coffee and says goodbye.",
               "voice": [
@@ -50882,7 +49421,7 @@
               ]
             },
             {
-              "id": "s01e11-6-075",
+              "id": "s01e11-6-073",
               "it": "«Ciao, Matteo. Ci vediamo domani.»",
               "en": "\"Bye, Matteo. See you tomorrow.\"",
               "voice": [
@@ -50955,7 +49494,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-076",
+              "id": "s01e11-6-074",
               "it": "«Ciao, Chiara. E… occhio al **centro** civico.»",
               "en": "\"Bye, Chiara. And… watch out for the civic **center**.\"",
               "voice": [
@@ -51047,7 +49586,7 @@
               ]
             },
             {
-              "id": "s01e11-6-077",
+              "id": "s01e11-6-075",
               "it": "Chiara esce. La porta si chiude piano.",
               "en": "Chiara leaves. The door closes softly.",
               "voice": [
@@ -51135,7 +49674,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-078",
+              "id": "s01e11-6-076",
               "it": "Kevin guarda Matteo con gli occhi grandi.",
               "en": "Kevin looks at Matteo with big eyes.",
               "voice": [
@@ -51219,7 +49758,7 @@
               ]
             },
             {
-              "id": "s01e11-6-079",
+              "id": "s01e11-6-077",
               "it": "_Accidenti._",
               "en": "_Darn._",
               "voice": [
@@ -51247,7 +49786,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-080",
+              "id": "s01e11-6-078",
               "it": "Matteo riprende lo straccio e sorride.",
               "en": "Matteo picks up the rag again and smiles.",
               "voice": [
@@ -51321,7 +49860,7 @@
               ]
             },
             {
-              "id": "s01e11-6-081",
+              "id": "s01e11-6-079",
               "it": "«Non ti preoccupare, americano. Io **copro** te. **Faccio** il barista. Ricordi?»",
               "en": "\"Don't worry, American. I **cover** you. I **work** as a bartender. Remember?\"",
               "voice": [
@@ -51458,7 +49997,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-082",
+              "id": "s01e11-6-080",
               "it": "«Sì. Grazie. Ma tu **fai** troppe domande.»",
               "en": "\"Yes. Thanks. But you **ask** too many questions.\"",
               "voice": [
@@ -51554,7 +50093,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-083",
+              "id": "s01e11-6-081",
               "it": "«È il mio lavoro. Bevilo, il caffè. Prima che **arrivino** altri.»",
               "en": "\"It's my job. Drink it, the coffee. Before **others arrive**.\"",
               "voice": [
@@ -51686,7 +50225,7 @@
               ]
             },
             {
-              "id": "s01e11-6-084",
+              "id": "s01e11-6-082",
               "it": "Kevin **beve** il caffè in un sorso. Poi guarda la porta.",
               "en": "Kevin **drinks** the coffee in one sip. Then he looks at the door.",
               "voice": [
@@ -51813,7 +50352,7 @@
               ]
             },
             {
-              "id": "s01e11-6-085",
+              "id": "s01e11-6-083",
               "it": "Chiara è di là, sulla strada, con il telefono in mano.",
               "en": "Chiara is out there, on the street, with her phone in her hand.",
               "voice": [
@@ -51941,7 +50480,7 @@
         {
           "segments": [
             {
-              "id": "s01e11-6-086",
+              "id": "s01e11-6-084",
               "it": "_Ci penso io. No. È la frase di Chiara. Non la mia._",
               "en": "_I'll handle it. No. That's Chiara's phrase. Not mine._",
               "voice": [
@@ -52075,7 +50614,7 @@
               ]
             },
             {
-              "id": "s01e11-6-087",
+              "id": "s01e11-6-085",
               "it": "_Accidenti. Accidenti. Accidenti._",
               "en": "_Darn. Darn. Darn._",
               "voice": [

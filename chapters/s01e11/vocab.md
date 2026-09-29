@@ -16,7 +16,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|---|
 | **arrivare**<br>(v.) · to arrive | «Signori, il treno **arriva**.» | "Ladies and gentlemen, the train **arrives**." |
 | **timbrare**<br>(v.) · to stamp, to validate | «Tac! La macchina **timbra** il biglietto!» | "Clack! The machine **stamps** the ticket!" |
-| **coprire**<br>(v.) · to cover for someone | _Devo **coprire** Franco. Devo coprire Franco._ | _I have to **cover** for Franco. I have to cover for Franco._ |
+| **coprire**<br>(v.) · to cover for someone | «Io? No! Non **copro** nessuno!» | "Me? No! I'm not **covering** anyone!" |
 | **salire**<br>(v.) · to get on, to board | «Papà, piano. **Saliamo** tutti.» | "Dad, easy. We're all **getting on**." |
 | **scendere**<br>(v.) · to get off | «Allora. **Scendiamo** a Milano.» | "Okay. **We get off** at Milan." |
 | **nascondere**<br>(v.) · to hide | «Io non **nascondo** niente.» | "I'm not **hiding** anything." |

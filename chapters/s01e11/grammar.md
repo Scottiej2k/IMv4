@@ -62,10 +62,9 @@ So if you want to say "I take a photo" in Italian, don't reach for a verb like *
 Il **controllore** **arriva** dal fondo del **vagone**. — The **ticket inspector** **arrives** from the back of the **car**. (`s01e11-3-021`)
 *Arrivare* and *venire* both describe movement toward the speaker; here you see the ordinary present tense used to narrate.
 
-«Papà, perché i pomodori? È una **scusa** per la cena?» — "Dad, why the tomatoes? Is it an **excuse** for dinner?" (`s01e11-5-100`)
+«Papà, perché i pomodori? È una **scusa** per la cena?» — "Dad, why the tomatoes? Is it an **excuse** for dinner?" (`s01e11-5-097`)
 *Fare* also appears in fixed phrases like *fare una scusa*, "to make an excuse."
 
-«Franco, tu dici a Emma che **fai** un corso di storia.» — "Franco, you tell Emma you're **taking** a history course." (`s01e11-5-036`)
 *Che fai* = "that you're taking" — the present tense is enough for a current activity.
 
 «Siamo sotto terra, Leo. Sotto la città.» — "We're under the ground, Leo. Under the city." (`s01e11-4-042`)

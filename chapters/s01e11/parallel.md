@@ -10,7 +10,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | È sabato mattina in Via dei Tigli. | It's Saturday morning on Via dei Tigli. |
 | In cucina c'è odore di caffè e di pane caldo. | In the kitchen there's the smell of coffee and warm bread. |
-| Kevin entra con la sua agenda gialla in mano. | Kevin comes in with his yellow notebook in his hand. |
+| Kevin entra con la sua quaderno giallo in mano. | Kevin comes in with his yellow notebook in his hand. |
 | «Oggi **andiamo** a Milano!» | "Today **we're going** to Milan!" |
 | Chiara è seduta al tavolo con una tazza. | Chiara is sitting at the table with a cup. |
 | «**Andiamo**? Tutti?» | "**We're going**? All of us?" |
@@ -138,7 +138,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Binario due. Grazie mille.» | "Platform two. Thanks a lot." |
 | La donna indica i **biglietti** nella mano di Kevin. | The woman points to the **tickets** in Kevin's hand. |
 | «Prima **timbrare**, però.» | "But first, **validate** them." |
-| «Timbrare?» | "**Validate**?" |
+| «**Timbrare**?» | "**Validate**?" |
 | «Sì. La macchina gialla, là. Il **biglietto** va dentro.» | "Yes. The yellow machine, there. The **ticket** goes in." |
 | Kevin mette un **biglietto** dentro la macchina. | Kevin puts one **ticket** into the machine. |
 | La macchina **fa** un rumore: tac. | The machine **makes** a noise: clack. |
@@ -180,7 +180,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Italiano | English |
 |---|---|
-| Il treno parte piano dal **binario** due. | The train leaves platform two slowly. |
+| Il treno parte piano dal **binario** due. | The train leaves **platform** two slowly. |
 | Sul **binario** resta solo la stazione. | On the **platform** only the station remains. |
 | Dentro il **vagone** c'è caldo e c'è odore di caffè. | Inside the **car** it's warm and smells of coffee. |
 | Leo mette la faccia al **finestrino**. | Leo puts his face to the **window**. |
@@ -208,23 +208,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, sono nella tua mano sinistra.» | "Dad, they're in your left hand." |
 | «Ah. Sì. Certo.» | "Ah. Yes. Of course." |
 | Il **controllore** guarda i **biglietti** uno alla volta. | The **ticket inspector** looks at the **tickets** one by one. |
-| «Questo è **timbrato**. Bene.» | "This one is **stamped**. Good." |
+| «**Timbrato**. **Timbrato**. **Timbrato**. Bene.» | "**Stamped**. **Stamped**. **Stamped**. Good." |
 | «Sì, **timbro** sempre i biglietti alla stazione. Prima di salire.» | "Yes, I always **stamp** the tickets at the station. Before getting on." |
-| «Bene. Il secondo?» | "Good. The second one?" |
-| Kevin guarda il secondo **biglietto**. Non è timbrato. | Kevin looks at the second **ticket**. It isn't stamped. |
-| «Ah. Il secondo **biglietto**. Un momento.» | "Ah. The second **ticket**. One moment." |
-| «Papà, **timbra** adesso.» | "Dad, **stamp** it now." |
-| Kevin cerca la macchina gialla nella borsa. | Kevin looks for the yellow machine in the bag. |
-| «Dov'è la macchina? Ah, eccola. **Timbro** qui.» | "Where's the machine? Ah, here it is. I **stamp** here." |
-| Tac! Tac! Kevin **timbra** il biglietto due volte. | Clack! Clack! Kevin **stamps** the ticket twice. |
-| Il controllore guarda Kevin. Emma guarda il soffitto. | The ticket inspector looks at Kevin. Emma looks at the ceiling. |
-| «Due timbri non fanno male.» | "Two stamps don't hurt." |
-| «Meglio due che zero, no?» | "Better two than zero, right?" |
-| «Forse. Il terzo biglietto?» | "Maybe. The third ticket?" |
-| «Il terzo è di Leo. Leo, il **biglietto**?» | "The third is Leo's. Leo, the **ticket**?" |
-| Leo tiene il **biglietto** come un trofeo. | Leo holds the **ticket** like a trophy. |
-| «Ecco. È timbrato. Vedi il segno?» | "Here. It's stamped. See the mark?" |
-| «Bravo, signorino. I **biglietti** sono a posto.» | "Well done, young man. The **tickets** are in order." |
+| «Bravo, signore. I **biglietti** sono a posto.» | "Well done, sir. The **tickets** are in order." |
+| Kevin guarda Emma con orgoglio. «Vedi? Tre timbri.» | Kevin looks at Emma proudly. "See? Three stamps." |
+| «Papà, non è una medaglia.» | "Dad, it's not a medal." |
 | Il controllore **fa** un passo verso il fondo del **vagone**. | The ticket inspector **takes** a step toward the back of the **car**. |
 | Emma vede due ragazze con le borse della palestra. | Emma sees two girls with gym bags. |
 | Sono della sua scuola. **Arrivano** verso di lei. | They're from her school. They **arrive** toward her. |
@@ -367,7 +355,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin guarda il **Duomo** e apre le braccia. | Kevin looks at the **Duomo** and opens his arms. |
 | «Emma, Leo, ascoltate. Il **Duomo** è bellissimo. La **fontana** è bella. Milano è bella.» | "Emma, Leo, listen. The **Duomo** is very beautiful. The **fountain** is beautiful. Milan is beautiful." |
 | «Papà, non **fare** il discorso.» | "Dad, don't **make** the speech." |
-| «Faccio un discorso piccolo. Solo due parole.» | "I'm **making** a small speech. Just two words." |
+| «**Faccio** un discorso piccolo. Solo due parole.» | "I'm **making** a small speech. Just two words." |
 | Kevin tossisce e mette una mano sul cuore. | Kevin coughs and puts a hand on his heart. |
 | «Signori, benvenuti in Italia. Benvenuti a Milano. Benvenuti al **Duomo**.» | "Ladies and gentlemen, welcome to Italy. Welcome to Milan. Welcome to the **Duomo**." |
 | «Papà, questo è un discorso lungo.» | "Dad, this is a long speech." |
@@ -438,12 +426,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Al **centro** civico? Sì. No. Forse. Una volta.» | "To the civic **center**? Yes. No. Maybe. Once." |
 | «Una volta o tre volte?» | "Once or three times?" |
 | «Tre volte. Ma non sempre. Dipende.» | "Three times. But not always. It depends." |
-| Kevin tocca il braccio di Franco. | Kevin touches Franco's arm. |
-| «Franco, tu dici a Emma che **fai** un corso di storia.» | "Franco, you tell Emma you're **taking** a history course." |
+| «Nonno, papà dice che fai un corso di storia. O di giardinaggio.» | "Grandpa, Dad says you're taking a history course. Or gardening." |
 | «Sì. Di storia. La storia è importante.» | "Yes. History. History is important." |
-| «Papà dice a me che **fai** giardinaggio.» | "Dad tells me you're **doing** gardening." |
-| «Giardinaggio? Mah. Anche il giardinaggio è importante.» | "Gardening? Well. Gardening is important too." |
-| «Ma nonno, non **fai** giardinaggio. Hai già l'orto!» | "But Grandpa, you don't **do** gardening. You already have the garden!" |
+| «Ma non **fai** giardinaggio. Hai già l'orto!» | "But you're not **doing** gardening. You already have the garden!" |
 | Franco guarda Kevin con gli occhi stretti. | Franco looks at Kevin with narrowed eyes. |
 | «Emma, la **verità** è questa: **faccio** un corso di cultura generale.» | "Emma, the **truth** is this: I'm **taking** a general culture course." |
 | «Di cultura? Che cos'è?» | "Culture? What's that?" |
@@ -471,9 +456,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Che cosa dite? Parlate di **bugie**?» | "What are you saying? Are you talking about **lies**?" |
 | «No. Di pomodori.» | "No. About tomatoes." |
 | «Di **bugie** di pomodori. Una **scusa** per non dire niente.» | "About tomato **lies**. An **excuse** not to say anything." |
-| «Kevin, **fai** silenzio. **Sei** rosso come un pomodoro.» | "Kevin, **be** quiet. You're red like a tomato." |
+| «Americano, **fai** silenzio. **Sei** rosso come un pomodoro.» | "American, **be** quiet. You're red like a tomato." |
 | Emma guarda i due. Poi **ride**. | Emma looks at the two of them. Then she **laughs**. |
-| «Nonno, hai una **scusa** per tutto. Anche per Kevin.» | "Grandpa, you have an **excuse** for everything. Even for Kevin." |
+| «Nonno, hai una **scusa** per tutto. Anche per papà.» | "Grandpa, you have an **excuse** for everything. Even for Kevin." |
 | «Io una **scusa**? Io dico le cose come stanno.» | "Me, an **excuse**? I say things as they are." |
 | «Allora che corso **fai**? Storia? Giardinaggio? Cultura?» | "So what course do you **take**? History? Gardening? Culture?" |
 | «Tutti e tre. Come dice l'americano.» | "All three. Like the American says." |
@@ -506,7 +491,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, perché i pomodori? È una **scusa** per la cena?» | "Dad, why the tomatoes? Is it an **excuse** for dinner?" |
 | «Sì, Leo. Una **scusa** per la cena.» | "Yes, Leo. An **excuse** for dinner." |
 | Emma guarda i due uomini e **nasconde** di nuovo un sorriso. | Emma looks at the two men and **hides** a smile again. |
-| «Kevin, **vieni** a cena domani? Domenica. Con la pasta.» | "Kevin, **are you coming** to dinner tomorrow? Sunday. With pasta." |
+| «Americano, **vieni** a cena domani? Domenica. Con la pasta.» | "American, **are you coming** to dinner tomorrow? Sunday. With pasta." |
 | «Sì! **Vengo**! Con la lista della spesa, se vuoi!» | "Yes! I'm **coming**! With the shopping list, if you want!" |
 | «No. Senza lista. E senza discorsi.» | "No. Without a list. And without speeches." |
 | Franco **ride** piano per la prima volta. Solo un secondo. Un secondo basta. | Franco **laughs** quietly for the first time. Only a second. A second is enough. |
@@ -529,13 +514,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Bella. E dove **fai** il tango?» | "Yes. Nice. And where do you **do** tango?" |
 | «Io? Io non **faccio** il tango. Io **faccio** l'italiano. Il martedì.» | "Me? I don't **do** tango. I **do** Italian. On Tuesdays." |
 | Matteo sorride e asciuga il bancone. | Matteo smiles and dries the counter. |
-| «L'italiano è la sala 9. Il tango è la sala 8.» | "Italian is room 9. Tango is room 8." |
-| «Sì. Forse. Non ricordo i numeri.» | "Yes. Maybe. I don't remember the numbers." |
-| «Tu **copro** qualcuno?» | "Are you **covering** for someone?" |
-| «Io **copro** nessuno!» | "I **cover** nobody!" |
-| Matteo ride e mette una mano sulla spalla. | Matteo laughs and puts a hand on his shoulder. |
-| «Non **copro** nessuno. Si dice così.» | "Non **copro** nessuno. That's how you say it." |
-| «Non **copro** nessuno. Perfetto. Non **copro** nessuno.» | "Non **copro** nessuno. Perfect. Non **copro** nessuno." |
+| «L'italiano, certo. Il martedì. E il resto?» | "Italian, of course. On Tuesdays. And the rest?" |
+| «Quale resto?» | "What rest?" |
+| «Kevin, tu **copri** qualcuno?» | "Kevin, are you **covering** for someone?" |
+| «Io? No! Non **copro** nessuno!» | "Me? No! I'm not **covering** anyone!" |
+| Matteo ride e mette una mano sulla spalla di Kevin. | Matteo laughs and puts a hand on Kevin's shoulder. |
 | «Bravo. Ma io **copro** te, tranquillo.» | "Nice. But I'm **covering** you, don't worry." |
 | Kevin guarda la porta del bar. | Kevin looks at the bar door. |
 | _Vado bene. Non dico la verità, ma vado bene._ | _I'm doing fine. I don't tell the truth, but I'm doing fine._ |
@@ -579,7 +562,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non **scappa**. **Va** a casa. **Fa** la spesa di domenica.» | "He's not **running**. He's **going** home. He's **doing** Sunday shopping." |
 | «Kevin, lo difendi sempre. Perché?» | "Kevin, you always defend him. Why?" |
 | «Perché… è tuo papà. E io **sono** il marito. E un po' **copro** tutti.» | "Because… he's your dad. And I'm the husband. And I **cover** everyone a little." |
-| «Io **copro** nessuno. Si dice così. E tu **fai** la stessa cosa.» | "Io **copro** nessuno. That's how you say it. And you **do** the same thing." |
+| «Anche io **copro** tutti, un po'. Fa parte del lavoro.» | "I **cover** everyone a little too. It's part of the job." |
 | «Ma tu perché sai tutto?» | "But why do you know everything?" |
 | «Perché **faccio** il barista. Il barista sente tutto.» | "Because I **work** as a bartender. The bartender hears everything." |
 | Chiara prende le foto e le rimette nella busta. | Chiara takes the photos and puts them back in the envelope. |

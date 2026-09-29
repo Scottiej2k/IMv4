@@ -6,7 +6,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · sabato mattina
 
-È sabato mattina in Via dei Tigli. In cucina c'è odore di caffè e di pane caldo. Kevin entra con la sua agenda gialla in mano. «Oggi **andiamo** a Milano!»
+È sabato mattina in Via dei Tigli. In cucina c'è odore di caffè e di pane caldo. Kevin entra con la sua quaderno giallo in mano. «Oggi **andiamo** a Milano!»
 
 Chiara è seduta al tavolo con una tazza. «**Andiamo**? Tutti?»
 
@@ -170,7 +170,7 @@ Kevin guarda il **cartello**. Poi guarda i suoi piedi. _Binario cinque. Como. Ce
 
 «Prima **timbrare**, però.»
 
-«Timbrare?»
+«**Timbrare**?»
 
 «Sì. La macchina gialla, là. Il **biglietto** va dentro.»
 
@@ -244,29 +244,15 @@ Kevin cerca nelle tasche. Poi nelle altre tasche. «I biglietti… i **biglietti
 
 «Ah. Sì. Certo.»
 
-Il **controllore** guarda i **biglietti** uno alla volta. «Questo è **timbrato**. Bene.»
+Il **controllore** guarda i **biglietti** uno alla volta. «**Timbrato**. **Timbrato**. **Timbrato**. Bene.»
 
 «Sì, **timbro** sempre i biglietti alla stazione. Prima di salire.»
 
-«Bene. Il secondo?»
+«Bravo, signore. I **biglietti** sono a posto.»
 
-Kevin guarda il secondo **biglietto**. Non è timbrato. «Ah. Il secondo **biglietto**. Un momento.»
+Kevin guarda Emma con orgoglio. «Vedi? Tre timbri.»
 
-«Papà, **timbra** adesso.»
-
-Kevin cerca la macchina gialla nella borsa. «Dov'è la macchina? Ah, eccola. **Timbro** qui.» Tac! Tac! Kevin **timbra** il biglietto due volte.
-
-Il controllore guarda Kevin. Emma guarda il soffitto. «Due timbri non fanno male.»
-
-«Meglio due che zero, no?»
-
-«Forse. Il terzo biglietto?»
-
-«Il terzo è di Leo. Leo, il **biglietto**?»
-
-Leo tiene il **biglietto** come un trofeo. «Ecco. È timbrato. Vedi il segno?»
-
-«Bravo, signorino. I **biglietti** sono a posto.»
+«Papà, non è una medaglia.»
 
 Il controllore **fa** un passo verso il fondo del **vagone**. Emma vede due ragazze con le borse della palestra. Sono della sua scuola. **Arrivano** verso di lei. Emma guarda Kevin. Kevin ha la **macchina fotografica** al collo. Emma mette le cuffie nelle orecchie. Poi le toglie.
 
@@ -420,7 +406,7 @@ Il **turista** guarda Kevin. Kevin ha il cappello americano. «Are you American?
 
 «Papà, non **fare** il discorso.»
 
-«Faccio un discorso piccolo. Solo due parole.»
+«**Faccio** un discorso piccolo. Solo due parole.»
 
 Kevin tossisce e mette una mano sul cuore. «Signori, benvenuti in Italia. Benvenuti a Milano. Benvenuti al **Duomo**.»
 
@@ -492,15 +478,11 @@ Franco mette l'acqua nel bicchiere. Poi lo mette giù. «Al **centro** civico? S
 
 «Tre volte. Ma non sempre. Dipende.»
 
-Kevin tocca il braccio di Franco. «Franco, tu dici a Emma che **fai** un corso di storia.»
+«Nonno, papà dice che fai un corso di storia. O di giardinaggio.»
 
 «Sì. Di storia. La storia è importante.»
 
-«Papà dice a me che **fai** giardinaggio.»
-
-«Giardinaggio? Mah. Anche il giardinaggio è importante.»
-
-«Ma nonno, non **fai** giardinaggio. Hai già l'orto!»
+«Ma non **fai** giardinaggio. Hai già l'orto!»
 
 Franco guarda Kevin con gli occhi stretti. «Emma, la **verità** è questa: **faccio** un corso di cultura generale.»
 
@@ -538,9 +520,9 @@ Emma, al tavolo, sente una parola. Sente "**bugia**". «Che cosa dite? Parlate d
 
 «Di **bugie** di pomodori. Una **scusa** per non dire niente.»
 
-«Kevin, **fai** silenzio. **Sei** rosso come un pomodoro.» Emma guarda i due. Poi **ride**.
+«Americano, **fai** silenzio. **Sei** rosso come un pomodoro.» Emma guarda i due. Poi **ride**.
 
-«Nonno, hai una **scusa** per tutto. Anche per Kevin.»
+«Nonno, hai una **scusa** per tutto. Anche per papà.»
 
 «Io una **scusa**? Io dico le cose come stanno.»
 
@@ -586,7 +568,7 @@ Leo guarda i pomodori nella mano di Kevin. «Papà, perché i pomodori? È una *
 
 «Sì, Leo. Una **scusa** per la cena.» Emma guarda i due uomini e **nasconde** di nuovo un sorriso.
 
-«Kevin, **vieni** a cena domani? Domenica. Con la pasta.»
+«Americano, **vieni** a cena domani? Domenica. Con la pasta.»
 
 «Sì! **Vengo**! Con la lista della spesa, se vuoi!»
 
@@ -610,17 +592,15 @@ Kevin mette giù il caffè troppo forte. Un po' esce. «Tango? La musica? Che be
 
 «Io? Io non **faccio** il tango. Io **faccio** l'italiano. Il martedì.»
 
-Matteo sorride e asciuga il bancone. «L'italiano è la sala 9. Il tango è la sala 8.»
+Matteo sorride e asciuga il bancone. «L'italiano, certo. Il martedì. E il resto?»
 
-«Sì. Forse. Non ricordo i numeri.»
+«Quale resto?»
 
-«Tu **copro** qualcuno?»
+«Kevin, tu **copri** qualcuno?»
 
-«Io **copro** nessuno!»
+«Io? No! Non **copro** nessuno!»
 
-Matteo ride e mette una mano sulla spalla. «Non **copro** nessuno. Si dice così.»
-
-«Non **copro** nessuno. Perfetto. Non **copro** nessuno.»
+Matteo ride e mette una mano sulla spalla di Kevin.
 
 «Bravo. Ma io **copro** te, tranquillo.»
 
@@ -684,7 +664,7 @@ Kevin prende un altro caffè. Beve senza zucchero. «Matteo, hai ragione. Io non
 
 «Perché… è tuo papà. E io **sono** il marito. E un po' **copro** tutti.»
 
-«Io **copro** nessuno. Si dice così. E tu **fai** la stessa cosa.»
+«Anche io **copro** tutti, un po'. Fa parte del lavoro.»
 
 «Ma tu perché sai tutto?»
 
