@@ -1,0 +1,675 @@
+@vocab
+che ore sono | expression | | what time is it | che ora è | The answer starts with «Sono le…»: Sono le otto. At one o'clock: È l'una.
+a che ora | expression | | at what time | | The answer starts with «Alle…»: Alle otto.
+la settimana | noun | f | week | settimane
+il mese | noun | m | month | mesi
+gennaio | noun | m | January | | With a date, months take no article: il 6 gennaio.
+lunedì | noun | m | Monday | | Days of the week take the article: il lunedì.
+la mattina | noun | f | morning | mattine
+la sera | noun | f | evening | sere
+la Befana | noun | f | the Befana (the old lady who brings sweets on January 6) | befana
+la calza | noun | f | stocking | calze
+il calendario | noun | m | calendar | calendari
+l'appuntamento | noun | m | appointment | appuntamento, appuntamenti
+la sciarpa | noun | f | scarf | sciarpe
+presto | adverb | | early, soon | |
+tardi | adverb | | late | |
+la data | noun | f | date | date
+domani | adverb | | tomorrow | |
+il pomeriggio | noun | m | afternoon | pomeriggi
+il pranzo | noun | m | lunch | pranzi
+il cioccolato | noun | m | chocolate | |
+il biscotto | noun | m | cookie, biscuit | biscotti
+la verità | noun | f | truth | verità
+il sabato | noun | m | Saturday | sabati
+il quaderno | noun | m | notebook | quaderni
+@end
+
+# SCENE casa-carter | la sera del 5 gennaio | ben, chiara, emma, leo
+È **lunedì**, il 5 **gennaio**. || It's **Monday**, January 5th.
+In cucina fa freddo e fuori è già buio. || It's cold in the kitchen and it's already dark outside.
+Kevin attacca un grande **calendario** al muro. || Kevin sticks a big **calendar** on the wall.
+Il **calendario** è bianco e ha trentuno quadrati. || The **calendar** is white and has thirty-one squares.
+Sopra il **calendario** c'è una parola in inglese: JANUARY. || Above the **calendar** there's a word in English: JANUARY.
+Leo legge la parola ad alta voce. || Leo reads the word out loud.
+
+«JANUARY. Questa parola è sbagliata, papà.»{leo} || “JANUARY. This word is wrong, Dad.”
+Kevin ride. || Kevin laughs.
+«No, Leo. In italiano è il gennaio.»{ben} || “No, Leo. In Italian it's il gennaio.”
+Leo scuote la testa. || Leo shakes his head.
+«Si dice **gennaio**. Senza articolo.»{leo} || “You say **gennaio**. No article.”
+«**Gennaio**. Perfetto!»{ben} || “**January**. Perfect!”
+Kevin prende il suo **quaderno** giallo. || Kevin takes his yellow **notebook**.
+«Numero quarantadue: **gennaio**.»{ben} || “Number forty-two: **January**.”
+
+Chiara è al tavolo con il computer. || Chiara is at the table with her computer.
+Emma arriva dalla sua camera con il telefono in mano. || Emma comes from her room with her phone in her hand.
+«Allora, famiglia!»{ben|proud} dice Kevin. || “Okay, family!” says Kevin.
+«Adesso leggo la **settimana** in italiano.»{ben} || “Now I'll read the **week** in Italian.”
+«Tutta?»{emma|dry} chiede Emma. || “All of it?” asks Emma.
+«Tutta!»{ben} || “All of it!”
+
+Kevin indica il **calendario**. || Kevin points at the **calendar**.
+«**Lunedì**, **che ore sono**?»{ben} || “**Monday**, **what time is it**?”
+Guarda il **quaderno**. || He looks at the **notebook**.
+«**A che ora** parte il treno di Emma?»{ben} || “**At what time** does Emma's train leave?”
+Emma non alza gli occhi dal telefono. || Emma doesn't look up from her phone.
+«**Alle sette e mezza**.»{emma} || “**At seven thirty**.”
+«Sette e mezza. Perfetto.»{ben} || “Seven thirty. Perfect.”
+Kevin scrive nel **quaderno**. || Kevin writes in the **notebook**.
+«E il tuo **appuntamento** dal dentista?»{ben} || “And your **appointment** at the dentist?”
+Emma pensa un momento. || Emma thinks for a moment.
+«**Lunedì**... no, martedì.»{emma} || “**Monday**... no, Tuesday.”
+Kevin cancella. || Kevin erases.
+«Martedì alle cinque.»{ben} || “Tuesday at five.”
+«No, giovedì.»{emma} || “No, Thursday.”
+Kevin cancella di nuovo. || Kevin erases again.
+«Giovedì?»{ben} || “Thursday?”
+«No. Boh. **Venerdì mattina**.»{emma} || “No. I don't know. **Friday morning**.”
+«Venerdì **mattina**, **alle otto**?»{ben} || “Friday **morning**, **at eight**?”
+«Tipo.»{emma} || “Like.”
+Kevin guarda il **calendario**. || Kevin looks at the **calendar**.
+Adesso l'**appuntamento** di Emma è scritto tre volte. || Now Emma's **appointment** is written three times.
+_Questa **settimana** è già un disastro._{ben} || *This **week** is already a disaster.*
+
+Chiara chiude il computer. || Chiara closes the computer.
+«**La settimana** è lunga, Kevin.»{chiara} || “**The week** is long, Kevin.”
+«E **il mese** è ancora più lungo.»{chiara|dry} || “And **the month** is even longer.”
+«Grazie, Chiara.»{ben} || “Thanks, Chiara.”
+«Però **lunedì** io sono a Milano.»{chiara} || “But on **Monday** I'm in Milan.”
+«**La mattina** o **la sera**?»{ben} || “**In the morning** or **in the evening**?”
+«**La mattina**. **Presto**.»{chiara} || “**In the morning**. **Early**.”
+«Quanto **presto**?»{ben} || “How **early**?”
+«**Alle sei e mezza**.»{chiara} || “**At six thirty**.”
+Kevin scrive anche quello. || Kevin writes that too.
+«E quando torni? **Tardi**?»{ben} || “And when do you come back? **Late**?”
+«**Tardi**.»{chiara} || “**Late**.”
+
+Leo è seduto sul pavimento e ascolta tutto. || Leo is sitting on the floor and listens to everything.
+«Papà, quando arriva la Befana?»{leo} || “Dad, when does the Befana come?”
+Kevin guarda il **calendario**. || Kevin looks at the **calendar**.
+«**Il 6 gennaio**. **Domani**.»{ben} || “**On January 6th**. **Tomorrow**.”
+«**Domani**?»{leo|gasp} || “**Tomorrow**?”
+«Sì. **Domani** è **il 6 gennaio**.»{ben} || “Yes. **Tomorrow** is **January 6th**.”
+Leo corre verso il frigorifero. || Leo runs to the refrigerator.
+«Allora prendo una calza!»{leo} || “Then I'll get a stocking!”
+«Una calza?»{ben} || “A stocking?”
+«Sì. **Per domani**.»{leo} || “Yes. **For tomorrow**.”
+Leo appende la calza alla porta del frigorifero. || Leo hangs the stocking on the refrigerator door.
+«Leo, oggi è il 5.»{emma} || “Leo, today is the 5th.”
+«Sì, ma **domani** è il 6. E la Befana arriva **il 6 gennaio**.»{leo} || “Yes, but **tomorrow** is the 6th. And the Befana comes **on January 6th**.”
+
+Emma guarda Kevin. || Emma looks at Kevin.
+«Papà, scrivi anche la **data**?»{emma} || “Dad, are you writing the **date** too?”
+«Sì! La **data** è importantissima.»{ben} || “Yes! The **date** is very important.”
+Kevin scrive la **data** sul **calendario**. || Kevin writes the **date** on the **calendar**.
+Emma indica un quadrato. || Emma points at a square.
+«E quello? È il 6.»{emma} || “And that one? It's the 6th.”
+«Ah. Sì.»{ben} || “Ah. Yes.”
+«**La data** è una cosa seria, papà.»{leo} || “**The date** is a serious thing, Dad.”
+«Che ansia.»{emma} || “So stressful.”
+
+Chiara guarda il **calendario** e poi guarda fuori. || Chiara looks at the **calendar** and then looks outside.
+Alla casa numero nove c'è una luce accesa. || At house number nine there's a light on.
+«Kevin, papà va al centro civico anche nel **pomeriggio**?»{chiara} || “Kevin, does Dad go to the community center in the **afternoon** too?”
+Kevin non risponde subito. || Kevin doesn't answer right away.
+«Nel **pomeriggio**? No.»{ben} || “In the **afternoon**? No.”
+«Sicuro?»{chiara} || “Sure?”
+«Sicuro... quasi.»{ben} || “Sure... almost.”
+Chiara non dice niente. || Chiara says nothing.
+Guarda ancora la luce al numero nove. || She looks again at the light at number nine.
+_Papà e il centro civico. Ogni **settimana**. Perché?_{chiara} || *Dad and the community center. Every **week**. Why?*
+Kevin guarda il suo **calendario**. || Kevin looks at his **calendar**.
+La prima **data** è già sbagliata. || The first **date** is already wrong.
+«Perfetto!»{ben|flat} || “Perfect!”
+Leo è contento. La calza è appesa. || Leo is happy. The stocking is hanging.
+«**Domani**, papà. **Domani**!»{leo|excited} || “**Tomorrow**, Dad. **Tomorrow**!”
+
+# SCENE via | la mattina del 6 gennaio | leo, emma, franco
+Sono le sette e mezza di **mattina**. || It's seven thirty in the **morning**.
+Via dei Tigli è quasi vuota e fa molto freddo. || Via dei Tigli is almost empty and it's very cold.
+Leo attraversa la strada in pigiama. || Leo crosses the street in his pajamas.
+Ha una **calza** in mano e corre verso il numero nove. || He has a stocking in his hand and runs toward number nine.
+Emma lo segue con il giubbotto e le scarpe da ginnastica. || Emma follows him with her jacket and sneakers.
+«Leo, aspettami!»{emma} || “Leo, wait for me!”
+«La **Befana**! Devo vedere la **Befana**!»{leo|excited} || “The **Befana**! I have to see the **Befana**!”
+Emma lo prende per il cappuccio. || Emma grabs him by the hood.
+«Leo, è il **6 gennaio**. La **Befana** arriva di notte.»{emma} || “Leo, it's **January 6th**. The **Befana** comes at night.”
+«Ma adesso è mattina!»{leo} || “But now it's morning!”
+
+La porta del numero nove si apre. || The door of number nine opens.
+Franco è sulla soglia, vestito bene. || Franco is on the doorstep, dressed nicely.
+Ha una camicia pulita e le scarpe buone. || He has a clean shirt and good shoes.
+«Che cosa fate qui?»{franco} chiede. || “What are you doing here?” he asks.
+«Nonno! La **Befana** è qui?»{leo} || “Grandpa! Is the **Befana** here?”
+Franco guarda la strada e poi guarda l'orologio. || Franco looks at the street and then at his watch.
+«Oggi la **Befana** arriva a casa mia.»{franco} || “Today the **Befana** comes to my house.”
+«A casa tua?»{leo|gasp} || “To your house?”
+«Sì. Alle otto.»{franco} || “Yes. At eight.”
+«Alle otto di sera?»{leo} || “At eight in the evening?”
+«No. Alle otto di **mattina**. La **Befana** arriva presto.»{franco} || “No. At eight in the **morning**. The **Befana** arrives early.”
+
+Leo conta sulle dita. || Leo counts on his fingers.
+«Oggi è il **6 gennaio**. Quindi la **data** giusta è oggi.»{leo} || “Today is **January 6th**. So the right **date** is today.”
+«Esatto.»{franco} || “Exactly.”
+«E quante calze porta?»{leo} || “And how many stockings does she bring?”
+«Due. Una per te e una per Emma.»{franco} || “Two. One for you and one for Emma.”
+«E quanti **biscotti**?»{leo} || “And how many **cookies**?”
+«Leo...»{emma|tired} || “Leo...”
+«Che cosa? È una domanda importante!»{leo} || “What? It's an important question!”
+
+Franco sorride un poco. || Franco smiles a little.
+«Trenta **biscotti**. Forse più.»{franco} || “Thirty **cookies**. Maybe more.”
+«Trenta!»{leo} || “Thirty!”
+Emma guarda dentro la casa. || Emma looks inside the house.
+Vicino alla porta c'è una sedia di legno. || Near the door there's a wooden chair.
+Sulla sedia c'è una **sciarpa** rossa. || On the chair there's a red **scarf**.
+Emma la riconosce subito. || Emma recognizes it right away.
+_Perché nonno ha una **sciarpa** rossa sulla sedia?_{emma} || *Why does Grandpa have a red **scarf** on the chair?*
+_È la **sciarpa** di Natale. Ma a casa sua?_{emma} || *It's the Christmas **scarf**. But at his house?*
+Emma non dice niente. || Emma says nothing.
+
+«Nonno, possiamo entrare?»{leo} || “Grandpa, can we come in?”
+«Adesso no. Torna a casa **per dieci minuti**.»{franco} || “Not now. Go home **for ten minutes**.”
+«Perché?»{leo} || “Why?”
+Franco sistema la camicia. || Franco adjusts his shirt.
+«Perché la **Befana** non ama le domande.»{franco} || “Because the **Befana** doesn't like questions.”
+«Ah. Ok.»{leo} || “Ah. Okay.”
+«E la **verità**?»{franco} chiede a Emma. || “And the **truth**?” Franco asks Emma.
+«Quale **verità**?»{emma} || “What **truth**?”
+«Oggi è una giornata importante. Tutto qui.»{franco} || “Today is an important day. That's all.”
+Emma annuisce lentamente. || Emma nods slowly.
+
+«**Domani** venite a **pranzo**?»{franco} || “**Tomorrow** will you come for **lunch**?”
+«**Domani**?»{emma} || “**Tomorrow**?”
+«Sì. Pasta e **biscotti**. E la **verità**, forse.»{franco|dry} || “Yes. Pasta and **cookies**. And the **truth**, maybe.”
+Emma lo guarda negli occhi. || Emma looks him in the eyes.
+«Nonno, che cosa...»{emma} || “Grandpa, what...”
+«Dieci minuti!»{franco} || “Ten minutes!”
+La porta si chiude. || The door closes.
+Troppo in fretta. || Too fast.
+Leo è già per strada con la **calza** in alto. || Leo is already in the street with the **stocking** held high.
+«Emma! Trenta **biscotti**!»{leo|excited} || “Emma! Thirty **cookies**!”
+Emma guarda ancora la porta chiusa. || Emma looks again at the closed door.
+_La **sciarpa** rossa. Il **pranzo** di **domani**. Qualcosa non va._{emma} || *The red **scarf**. **Tomorrow's** **lunch**. Something isn't right.*
+
+# SCENE casa-franco | la mattina del 6 gennaio | lucia, franco, leo, emma
+**Alle otto** in punto suona il campanello. || **At eight** o'clock on the dot the doorbell rings.
+Franco apre la porta e entra Lucia. || Franco opens the door and Lucia comes in.
+Ha una **sciarpa** rossa e una borsa grande. || She has a red **scarf** and a big bag.
+«Buongiorno, tesoro!»{lucia|warm} dice Lucia a Leo. || “Good morning, sweetheart!” Lucia says to Leo.
+«La **Befana**!»{leo|gasp} || “The **Befana**!”
+Lucia ride forte e mette la borsa sul tavolo. || Lucia laughs loudly and puts the bag on the table.
+Franco chiude la porta e guarda il soffitto. || Franco closes the door and looks at the ceiling.
+
+«La **Befana** è una signora vecchia, no?»{leo} || “The **Befana** is an old lady, right?”
+«Vecchia e bellissima.»{lucia} || “Old and beautiful.”
+«Ma tu non sei vecchia.»{leo} || “But you're not old.”
+«Grazie, amore mio. Adesso apriamo le **calze**.»{lucia} || “Thank you, my love. Now let's open the **stockings**.”
+Lucia tira fuori due **calze** rosse dalla borsa. || Lucia pulls two red **stockings** out of the bag.
+Una **calza** è per Leo, una per Emma. || One **stocking** is for Leo, one for Emma.
+Dentro c'è **cioccolato**, e ci sono **biscotti** piccoli. || Inside there's **chocolate**, and there are small **cookies**.
+«Quanto **cioccolato**!»{leo} || “So much **chocolate**!”
+«E quanti **biscotti**?»{lucia|teasing} || “And how many **cookies**?”
+«Trenta!»{leo} || “Thirty!”
+«Trentadue.»{lucia} || “Thirty-two.”
+Leo conta subito i **biscotti**. || Leo immediately counts the **cookies**.
+
+«Signora, una domanda.»{leo|serious} || “Ma'am, one question.”
+«Dimmi, tesoro.»{lucia} || “Tell me, sweetheart.”
+«Che giorno arriva la **Befana**?»{leo} || “What day does the **Befana** come?”
+«**Il 6 gennaio**, tesoro. Sempre **il 6 gennaio**.»{lucia} || “**On January 6th**, sweetheart. Always **on January 6th**.”
+«E in tutte le città?»{leo} || “And in every city?”
+«In tutte le città d'Italia.»{lucia} || “In every city in Italy.”
+«Anche a Columbus, Ohio?»{leo} || “Even in Columbus, Ohio?”
+Lucia pensa un momento. || Lucia thinks for a moment.
+«In Ohio no. Ma in Ohio c'è Babbo Natale.»{lucia} || “Not in Ohio. But in Ohio there's Santa Claus.”
+«Ah. Ok.»{leo} || “Ah. Okay.”
+
+Emma è in piedi vicino alla finestra. || Emma is standing near the window.
+Guarda la **sciarpa** rossa di Lucia. || She looks at Lucia's red **scarf**.
+_È la stessa **sciarpa**. Quella di nonno._{emma} || *It's the same **scarf**. Grandpa's one.*
+_La signora del pranzo di Natale. L'amico del corso._{emma} || *The lady from Christmas **lunch**. The friend from the course.*
+Emma beve un sorso d'acqua e non dice niente. || Emma takes a sip of water and says nothing.
+
+«Signora, un'altra domanda.»{leo} || “Ma'am, another question.”
+«Un'altra?»{lucia|chuckle} || “Another one?”
+«Ti piace nonno Franco?»{leo} || “Do you like Grandpa Franco?”
+Il silenzio nella stanza è totale. || The silence in the room is total.
+Franco tossisce. || Franco coughs.
+«Leo, i **biscotti**!»{franco} || “Leo, the **cookies**!”
+«Ma è una domanda normale!»{leo} || “But it's a normal question!”
+Lucia guarda Franco e sorride. || Lucia looks at Franco and smiles.
+«Sì, tesoro. Mi piace il tuo nonno.»{lucia} || “Yes, sweetheart. I like your grandpa.”
+«Visto?»{leo} dice a Emma. || “See?” Leo says to Emma.
+Emma guarda il soffitto. || Emma looks at the ceiling.
+
+«E il **sabato**? Vieni anche il **sabato**?»{leo} || “And on **Saturday**? Do you come on **Saturday** too?”
+«No. Il **sabato** la **Befana** dorme.»{lucia} || “No. On **Saturday** the **Befana** sleeps.”
+«E nel **pomeriggio**?»{leo} || “And in the **afternoon**?”
+«Nel **pomeriggio** lavoro. Ho il corso di ballo.»{lucia} || “In the **afternoon** I work. I have my dance class.”
+«Che ballo?»{leo} || “What dance?”
+«Tango. E adesso devo andare **presto**.»{lucia} || “Tango. And now I have to go **early**.”
+Lucia prende la borsa e saluta Leo con un bacio. || Lucia takes her bag and says goodbye to Leo with a kiss.
+«La **verità**, tesoro: la **Befana** ha sempre fretta.»{lucia} || “The **truth**, sweetheart: the **Befana** is always in a hurry.”
+Franco la accompagna alla porta. || Franco walks her to the door.
+La mano di Franco è sul legno. || Franco's hand is on the wood.
+«A **pranzo** domenica.»{franco|low} || “**Lunch** on Sunday.”
+«A domenica.»{lucia} || “See you Sunday.”
+La porta si chiude piano, questa volta. || The door closes slowly, this time.
+Emma guarda Franco e Franco guarda le sue scarpe. || Emma looks at Franco and Franco looks at his shoes.
+
+# SCENE casa-carter | la sera del 6 gennaio | chiara, ben, emma, leo
+È **la sera** del **6 gennaio**. || It's **the evening** of **January 6th**.
+Chiara è a casa **presto** e cucina la pasta. || Chiara is home **early** and cooks the pasta.
+Il grande **calendario** di Kevin è ancora sul muro. || Kevin's big **calendar** is still on the wall.
+Sul tavolo c'è anche il **quaderno** giallo, aperto. || On the table there's also the yellow **notebook**, open.
+
+La porta si apre e arriva Leo con la **calza**. || The door opens and Leo arrives with the **stocking**.
+«Mamma! La **Befana**!»{leo|excited} || “Mom! The **Befana**!”
+«La **Befana**?»{chiara} || “The **Befana**?”
+Leo mette la **calza** sul tavolo della cucina. || Leo puts the **stocking** on the kitchen table.
+Dentro ci sono **cioccolato** e **biscotti**. || Inside there's **chocolate** and **cookies**.
+«Trentadue **biscotti**, mamma. Trentadue!»{leo} || “Thirty-two **cookies**, Mom. Thirty-two!”
+«E il **cioccolato**?»{chiara} || “And the **chocolate**?”
+«Il **cioccolato** è buonissimo.»{leo} || “The **chocolate** is really good.”
+
+Emma entra e mette lo zaino su una sedia. || Emma comes in and puts her backpack on a chair.
+«La **Befana** viene a casa di nonno.»{emma} || “The **Befana** comes to Grandpa's house.”
+«A casa di papà?»{chiara} || “To Dad's house?”
+«Sì. **Alle otto** di **mattina**.»{emma} || “Yes. **At eight** in the **morning**.”
+«Chi è la **Befana**?»{chiara} || “Who is the **Befana**?”
+Leo risponde subito, senza pensare. || Leo answers right away, without thinking.
+«La signora del pranzo di Natale! Con la **sciarpa** rossa!»{leo} || “The lady from Christmas lunch! With the red **scarf**!”
+
+Kevin è in piedi vicino al lavandino. || Kevin is standing near the sink.
+La forchetta gli cade dalla mano. || The fork falls from his hand.
+_Oh no. Oh no no no._{ben} || *Oh no. Oh no no no.*
+Chiara guarda Emma. || Chiara looks at Emma.
+«Emma, la **sciarpa** rossa... è quella di papà?»{chiara} || “Emma, the red **scarf**... is it Dad's?”
+Emma pensa due secondi. || Emma thinks for two seconds.
+«Sì. **La mattina** vedo la **sciarpa** sulla sedia.»{emma} || “Yes. **In the morning** I see the **scarf** on the chair.”
+«Sulla sedia di casa sua?»{chiara} || “On the chair at his house?”
+«Sì.»{emma} || “Yes.”
+
+Chiara spegne il fuoco sotto la pasta. || Chiara turns off the flame under the pasta.
+Si siede e guarda il **calendario**. || She sits down and looks at the **calendar**.
+«Kevin, **a che ora** è il tuo corso d'italiano?»{chiara} || “Kevin, **at what time** is your Italian course?”
+«Martedì.»{ben} || “Tuesday.”
+«Sì, martedì. Ma **a che ora**?»{chiara} || “Yes, Tuesday. But **at what time**?”
+«Alle sei.»{ben} || “At six.”
+«Sicuro?»{chiara} || “Sure?”
+«Alle sette.»{ben} || “At seven.”
+Chiara alza le sopracciglia. || Chiara raises her eyebrows.
+«Alle sei e mezza?»{ben|weak} || “At six thirty?”
+«Kevin, **che ore sono** adesso?»{chiara|sharp} || “Kevin, **what time is it** now?”
+«Otto e mezza?»{ben} || “Eight thirty?”
+«Esatto. E il tuo corso è alle sei?»{chiara} || “Exactly. And your course is at six?”
+«Sì. Cioè, no.»{ben} || “Yes. I mean, no.”
+
+Chiara guarda il **calendario**, poi il **quaderno**. || Chiara looks at the **calendar**, then at the **notebook**.
+«Emma è a Monza **lunedì mattina**. Io sono a Milano **lunedì mattina**.»{chiara} || “Emma is in Monza **Monday morning**. I'm in Milan **Monday morning**.”
+«Sì.»{ben} || “Yes.”
+«E papà va al centro civico tre volte a **settimana**.»{chiara} || “And Dad goes to the community center three times a **week**.”
+«Tre volte?»{ben|fake surprised} || “Three times?”
+«Kevin, non fare l'americano. Lo dici tu.»{chiara} || “Kevin, don't play the American. You say it.”
+«In che **mese**?»{ben} || “In which **month**?”
+«Adesso, Kevin. Nel **mese** di **gennaio**.»{chiara} || “Now, Kevin. In the **month** of **January**.”
+Leo conta sulle dita. || Leo counts on his fingers.
+«Martedì, giovedì, domenica.»{leo} || “Tuesday, Thursday, Sunday.”
+
+Chiara si alza dal tavolo. || Chiara gets up from the table.
+«Kevin, il tuo **amico del corso d'italiano**...»{chiara} || “Kevin, your **friend from the Italian course**...”
+«Amico? Quale amico?»{ben} || “Friend? Which friend?”
+«La signora Lucia. A Natale.»{chiara} || “Signora Lucia. At Christmas.”
+«Ah. Sì. Lucia. Una signora simpatica.»{ben} || “Ah. Yes. Lucia. A nice lady.”
+«Con la **sciarpa** di papà.»{chiara} || “With Dad's **scarf**.”
+
+Emma è seduta e ascolta tutto. || Emma is sitting and listening to everything.
+_Ah. Adesso capisco. La **sciarpa** è di nonno._{emma} || *Ah. Now I understand. The **scarf** is Grandpa's.*
+_La signora Lucia è la sua ragazza. E papà lo sa._{emma} || *Signora Lucia is his girlfriend. And Dad knows.*
+Emma guarda Kevin e Kevin guarda il pavimento. || Emma looks at Kevin and Kevin looks at the floor.
+
+Chiara chiude il **quaderno** con un colpo. || Chiara closes the **notebook** with a snap.
+«Papà ha una ragazza. Una vera ragazza.»{chiara} || “Dad has a girlfriend. A real girlfriend.”
+Nessuno parla. || Nobody speaks.
+«E tu lo sai. Da **tardi**. Da quando?»{chiara} || “And you know. Since **late**. Since when?”
+«Chiara...»{ben} || “Chiara...”
+«Da Natale? Da **novembre**? Da **lunedì**?»{chiara} || “Since Christmas? Since **November**? Since **Monday**?”
+«Non è il momento giusto.»{ben} || “It's not the right moment.”
+«Non è **domani**. È adesso.»{chiara} || “It's not **tomorrow**. It's now.”
+«Adesso è **tardi**.»{ben} || “Now it's **late**.”
+«Per la **verità** non è mai **tardi**, Kevin.»{chiara} || “For the **truth** it's never **late**, Kevin.”
+
+Chiara prende il cappotto. || Chiara takes her coat.
+«Mamma, dove vai?»{leo} || “Mom, where are you going?”
+«Vado a parlare con nonno.»{chiara} || “I'm going to talk to Grandpa.”
+«**Domani**?»{leo} || “**Tomorrow**?”
+«No, adesso. **Ci penso io**.»{chiara} || “No, now. **I'll handle it**.”
+La porta si chiude. || The door closes.
+Kevin resta in cucina con i **biscotti**. || Kevin stays in the kitchen with the **cookies**.
+_Tre volte a **settimana** per due **mesi**. Tre volte._{ben} || *Three times a **week** for two **months**. Three times.*
+«Perfetto.»{ben|flat} || “Perfect.”
+Emma prende un **biscotto** dalla calza. || Emma takes a **cookies** from the stocking.
+«Papà, sei nei guai.»{emma|dry} || “Dad, you're in trouble.”
+«Lo so.»{ben} || “I know.”
+
+# SCENE casa-franco | la sera del 6 gennaio | chiara, franco
+**La sera** del **6 gennaio** è fredda e silenziosa. || **The evening** of **January 6th** is cold and silent.
+Chiara attraversa la strada senza chiamare prima. || Chiara crosses the street without calling first.
+La luce del numero nove è accesa. || The light at number nine is on.
+Chiara bussa tre volte. || Chiara knocks three times.
+
+Franco apre la porta con la moka in mano. || Franco opens the door with the moka pot in his hand.
+Non sembra sorpreso. || He doesn't look surprised.
+«Caffè?»{franco} chiede. || “Coffee?” he asks.
+«No, grazie.»{chiara} || “No, thanks.”
+«Allora è una cosa seria.»{franco} || “Then it's a serious thing.”
+Chiara entra e si siede al tavolo. || Chiara comes in and sits at the table.
+Sul tavolo ci sono due tazze. || On the table there are two cups.
+«Due tazze?»{chiara} || “Two cups?”
+«Beh. Il caffè è più buono in compagnia.»{franco} || “Well. Coffee is better in company.”
+
+Chiara guarda la sedia vicino alla porta. || Chiara looks at the chair near the door.
+Sulla sedia non c'è più niente. || There's nothing on the chair anymore.
+«Dov'è la **sciarpa**, papà?»{chiara} || “Where's the **scarf**, Dad?”
+«Quale **sciarpa**?»{franco} || “Which **scarf**?”
+«La **sciarpa** rossa. Quella di Natale. Quella di Lucia.»{chiara} || “The red **scarf**. The Christmas one. Lucia's one.”
+Franco versa il caffè nelle due tazze. || Franco pours the coffee into the two cups.
+«Ah. Quella.»{franco|calm} || “Ah. That one.”
+«Sì. Quella.»{chiara} || “Yes. That one.”
+
+Franco si siede. || Franco sits down.
+«È una cosa nuova?»{chiara} chiede. || “Is it a new thing?” Chiara asks.
+Franco beve un sorso di caffè. || Franco takes a sip of coffee.
+«No. Non è nuova.»{franco} || “No. It's not new.”
+«Da quanto tempo?»{chiara} || “How long?”
+«Da un po'.»{franco} || “A little while.”
+«Un po'? Un **mese**? Due **mesi**?»{chiara} || “A little while? One **month**? Two **months**?”
+«Chiara...»{franco} || “Chiara...”
+«Rispondi, papà.»{chiara} || “Answer me, Dad.”
+«Il **sabato** pomeriggio andiamo a ballare. E domenica mangiamo insieme.»{franco} || “On **Saturday** afternoon we go dancing. And on Sunday we eat together.”
+«Da quanto tempo?»{chiara} || “How long?”
+«Da settembre.»{franco} || “Since September.”
+Chiara chiude gli occhi. || Chiara closes her eyes.
+«Settembre. Quattro **mesi**.»{chiara} || “September. Four **months**.”
+
+Franco mette una scatola sul tavolo. || Franco puts a box on the table.
+Dentro ci sono **cioccolato** e **biscotti**. || Inside there's **chocolate** and **cookies**.
+«Un **biscotto**? Sono di Lucia.»{franco} || “A **cookie**? They're Lucia's.”
+«No.»{chiara} || “No.”
+«Sono buoni. Con il **cioccolato** dentro.»{franco} || “They're good. With **chocolate** inside.”
+«Papà, non voglio un **biscotto**. Voglio la **verità**.»{chiara} || “Dad, I don't want a **cookie**. I want the **truth**.”
+Franco appoggia il **biscotto** nel piatto. || Franco puts the **cookie** down on the plate.
+«La **verità** è semplice. Lucia è una signora. Io sono un signore. Stiamo bene insieme.»{franco} || “The **truth** is simple. Lucia is a lady. I'm a gentleman. We're good together.”
+
+Chiara parla piano, ma veloce. || Chiara speaks quietly, but fast.
+«E Kevin? Kevin lo sa da settembre?»{chiara} || “And Kevin? Has Kevin known since September?”
+Franco non risponde subito. || Franco doesn't answer right away.
+«Kevin è un bravo ragazzo.»{franco} || “Kevin is a good kid.”
+«Kevin è mio marito, papà. E lui mi dice bugie.»{chiara} || “Kevin is my husband, Dad. And he tells me lies.”
+«Non è colpa sua.»{franco} || “It's not his fault.”
+«Di chi è la colpa?»{chiara} || “Whose fault is it?”
+«Mia. Tutta mia.»{franco} || “Mine. All mine.”
+
+Chiara si alza e cammina per la cucina. || Chiara gets up and walks around the kitchen.
+«Tutto il quartiere lo sa e io no?»{chiara} || “The whole neighborhood knows and I don't?”
+«Il quartiere non sa niente.»{franco} || “The neighborhood doesn't know anything.”
+«La signora Ornella lo sa?»{chiara} || “Does Signora Ornella know?”
+«Forse.»{franco} || “Maybe.”
+«Matteo lo sa?»{chiara} || “Does Matteo know?”
+«Matteo non sa niente. Matteo ha il bar.»{franco} || “Matteo doesn't know anything. Matteo has the bar.”
+«E io? Io chi sono?»{chiara} || “And me? Who am I?”
+Franco guarda la sua tazza. || Franco looks at his cup.
+«Tu sei mia figlia.»{franco} || “You're my daughter.”
+
+Chiara si ferma davanti alla finestra. || Chiara stops in front of the window.
+Fuori la strada è buia. || Outside the street is dark.
+«Papà, non sono arrabbiata per Lucia.»{chiara} || “Dad, I'm not angry about Lucia.”
+«No?»{franco} || “No?”
+«Sono arrabbiata perché tu non mi dici niente.»{chiara} || “I'm angry because you don't tell me anything.”
+«Tu sei sempre a Milano.»{franco} || “You're always in Milan.”
+«Sì. **La mattina** alle sei e mezza, **la sera** alle otto.»{chiara} || “Yes. **In the morning** at six thirty, **in the evening** at eight.”
+«Esatto.»{franco} || “Exactly.”
+«Ma la domenica no, papà. La domenica sono qui.»{chiara} || “But not on Sunday, Dad. On Sunday I'm here.”
+Franco non dice niente. || Franco says nothing.
+
+Chiara prende il cappotto dalla sedia. || Chiara takes her coat from the chair.
+«Un uomo di settantuno anni ha diritto a un **pranzo** con una amica.»{franco} || “A seventy-one-year-old man has a right to a **lunch** with a friend.”
+«Hai ragione.»{chiara} || “You're right.”
+«E ha diritto a un **biscotto** con il caffè.»{franco} || “And he has a right to a **cookie** with his coffee.”
+«Hai ragione anche qui.»{chiara} || “You're right there too.”
+«Ma non ha diritto a un segreto?»{franco} || “But doesn't he have a right to a secret?”
+«No. Questo no.»{chiara} || “No. Not that.”
+
+Chiara è alla porta. || Chiara is at the door.
+Franco resta al tavolo, con la seconda tazza piena. || Franco stays at the table, with the second cup full.
+«Chiara.»{franco} || “Chiara.”
+«Dimmi.»{chiara} || “Tell me.”
+«**Domenica** a **pranzo**. Pasta al forno. Con lei.»{franco} || “**Sunday** for **lunch**. Baked pasta. With her.”
+Chiara ha la mano sulla maniglia. || Chiara has her hand on the handle.
+_La **data** è domenica. La **verità** è mia figlia._{franco} || *The **date** is Sunday. The **truth** is my daughter.*
+Chiara non risponde. || Chiara doesn't answer.
+Apre la porta e esce. || She opens the door and goes out.
+La porta si chiude piano. || The door closes softly.
+Franco beve il secondo caffè da solo. || Franco drinks the second coffee alone.
+«Bah.»{franco} || “Bah.”
+
+# SCENE bar-tigli | la mattina del 7 gennaio | ben, matteo, nadia
+È **martedì mattina**, il 7 **gennaio**. || It's **Tuesday morning**, January 7th.
+Fuori fa freddo e Bar Tigli è pieno di gente. || It's cold outside and Bar Tigli is full of people.
+Kevin entra con il suo **calendario** sotto il braccio. || Kevin comes in with his **calendar** under his arm.
+Sul **calendario** ci sono linee rosse dappertutto. || On the **calendar** there are red lines everywhere.
+Matteo è dietro il bancone. || Matteo is behind the counter.
+«Caffè?»{matteo} || “Coffee?”
+«Sì. Doppio.»{ben|tired} || “Yes. Double.”
+«Giornata pesante?»{matteo} || “Rough day?”
+«Pesantissima.»{ben} || “Very rough.”
+
+Kevin mette il **calendario** sul bancone. || Kevin puts the **calendar** on the counter.
+Matteo guarda il **calendario** e poi guarda Kevin. || Matteo looks at the **calendar** and then at Kevin.
+«Che cos'è questa roba?»{matteo} || “What's this stuff?”
+«Il **calendario** della famiglia. **Gennaio**.»{ben} || “The family **calendar**. **January**.”
+«E perché ci sono linee rosse?»{matteo} || “And why are there red lines?”
+«Perché è tutto sbagliato.»{ben} || “Because it's all wrong.”
+«Tutto?»{matteo} || “All of it?”
+«**Lunedì** scrivo il treno alle sette. Poi alle sette e mezza. Poi alle otto.»{ben} || “**Monday** I write the train at seven. Then at seven thirty. Then at eight.”
+«E **a che ora** parte il treno?»{matteo} || “And **at what time** does the train leave?”
+«Sette e mezza.»{ben} || “Seven thirty.”
+«Bene. Allora è giusto.»{matteo} || “Good. So it's right.”
+«No. È scritto sotto **lunedì**. Ma Emma va a Monza tutti i giorni.»{ben} || “No. It's written under **Monday**. But Emma goes to Monza every day.”
+Matteo ride. || Matteo laughs.
+
+Nadia arriva dal retro con una scatola di medicine. || Nadia comes from the back with a box of medicine.
+«Buongiorno, Kevin.»{nadia} || “Good morning, Kevin.”
+«Buongiorno, Nadia.»{ben} || “Good morning, Nadia.”
+Nadia guarda il **calendario**. || Nadia looks at the **calendar**.
+«Kevin, la **farmacia** è chiusa la domenica **pomeriggio**.»{nadia} || “Kevin, the pharmacy is closed on Sunday **afternoon**.”
+«Sì. Lo so.»{ben} || “Yes. I know.”
+«No, non lo sai. Scrivi “farmacia, domenica, tre”.»{nadia} || “No, you don't know. You write ‘pharmacy, Sunday, three.'”
+«Ah.»{ben} || “Ah.”
+
+Matteo prende il suo **calendario** da sotto il bancone. || Matteo takes his **calendar** from under the counter.
+È pieno di **appuntamenti** scritti in penna. || It's full of **appointments** written in pen.
+«Vedi, Kevin? Questo è un **calendario** serio.»{matteo} || “See, Kevin? This is a serious **calendar**.”
+«Che cosa c'è scritto?»{ben} || “What's written on it?”
+«Martedì: mercato. Giovedì: partita. Venerdì: Nadia.»{matteo} || “Tuesday: market. Thursday: game. Friday: Nadia.”
+«Venerdì?»{nadia} || “Friday?”
+«Sì. Cena. Alle otto.»{matteo} || “Yes. Dinner. At eight.”
+«Alle otto io lavoro.»{nadia} || “At eight I'm working.”
+«Alle nove?»{matteo} || “At nine?”
+«Alle nove e mezza.»{nadia} || “At nine thirty.”
+Matteo cancella e riscrive. || Matteo erases and rewrites.
+
+«Nadia, **che ore sono** adesso?»{ben} || “Nadia, **what time is it** now?”
+Nadia guarda l'orologio. || Nadia looks at the clock.
+«Sono le sette e un quarto.»{nadia} || “It's seven fifteen.”
+«**Presto**!»{ben} || “**Early**!”
+«Per te è **presto**?»{matteo} || “For you it's **early**?”
+«Per me sì. Di solito arrivo **tardi**.»{ben} || “For me yes. Usually I arrive **late**.”
+«Vero.»{matteo} || “True.”
+«Grazie, Matteo.»{ben|dry} || “Thanks, Matteo.”
+
+Nadia apre il suo **quaderno** piccolo. || Nadia opens her small **notebook**.
+«Kevin, ascolta. Il mercato è il **martedì mattina**.»{nadia} || “Kevin, listen. The market is **Tuesday morning**.”
+«Martedì.»{ben} || “Tuesday.”
+«La **farmacia** chiude la domenica **pomeriggio** e la notte.»{nadia} || “The pharmacy closes Sunday **afternoon** and at night.”
+«Domenica **pomeriggio**. Ok.»{ben} || “Sunday **afternoon**. Okay.”
+«Emma prende il treno **alle sette e mezza** **la mattina**.»{nadia} || “Emma takes the train **at seven thirty** in the **morning**.”
+«Sette e mezza.»{ben} || “Seven thirty.”
+«E il tuo corso d'italiano è martedì **alle sei**, non venerdì.»{nadia} || “And your Italian course is Tuesday **at six**, not Friday.”
+«Martedì alle sei.»{ben} || “Tuesday at six.”
+
+Kevin scrive tutto nel **quaderno** giallo. || Kevin writes everything in the yellow **notebook**.
+Matteo guarda il **calendario** di Kevin. || Matteo looks at Kevin's **calendar**.
+Sul **martedì** c'è un punto interrogativo grande. || On **Tuesday** there's a big question mark.
+«Che cos'è questo punto interrogativo?»{matteo} || “What's this question mark?”
+«Niente.»{ben|fast} || “Nothing.”
+«Kevin, un **appuntamento** segreto?»{matteo|teasing} || “Kevin, a secret **appointment**?”
+«No. Assolutamente no.»{ben} || “No. Absolutely not.”
+Matteo prende la penna. || Matteo takes the pen.
+Scrive la parola MISTERO su **martedì**. || He writes the word MISTERO on **Tuesday**.
+
+Nadia prende la penna dalle mani di Matteo. || Nadia takes the pen from Matteo's hands.
+Cancella la parola e scrive **pranzo**. || She erases the word and writes **lunch**.
+«Il **pranzo** di domenica. Da papà Franco.»{nadia} || “Sunday **lunch**. At Grandpa Franco's.”
+«Ah. Sì.»{ben|relieved} || “Ah. Yes.”
+«Bene. Adesso il **calendario** è quasi giusto.»{nadia} || “Good. Now the **calendar** is almost right.”
+«Quasi?»{ben} || “Almost?”
+«Kevin, **domani** è mercoledì. E mercoledì è un altro giorno.»{nadia} || “Kevin, **tomorrow** is Wednesday. And Wednesday is another day.”
+«Un altro **mese**?»{ben|hopeful} || “Another **month**?”
+«Un altro giorno, Kevin. Un giorno.»{nadia} || “Another day, Kevin. One day.”
+Matteo ride forte. || Matteo laughs loudly.
+«Un altro **mese**! Bellissimo!»{matteo|laughing} || “Another **month**! Hilarious!”
+Kevin beve il caffè in piedi, come sempre. || Kevin drinks his coffee standing, as always.
+_La **settimana** è lunga. Il **mese** è lunghissimo._{ben} || *The **week** is long. The **month** is very long.*
+_E **domani** è un altro giorno._{ben} || *And **tomorrow** is another day.*
+
+# SCENE casa-carter | la sera del 7 gennaio | leo, emma
+Dopo cena Leo è sul divano con la sua **calza**. || After dinner Leo is on the sofa with his **stocking**.
+Emma è seduta accanto a lui con il telefono. || Emma is sitting next to him with her phone.
+«Emma, una domanda.»{leo} || “Emma, a question.”
+«Dimmi.»{emma} || “Tell me.”
+«La **Befana** è vera?»{leo} || “Is the **Befana** real?”
+Emma mette giù il telefono. || Emma puts down her phone.
+«Leo...»{emma} || “Leo...”
+«Sì o no?»{leo} || “Yes or no?”
+«No, Leo. La **Befana** non esiste.»{emma} || “No, Leo. The **Befana** doesn't exist.”
+Leo guarda la sua **calza**. || Leo looks at his **stocking**.
+«Allora chi porta le **calze**?»{leo} || “Then who brings the **stockings**?”
+Emma apre la bocca e poi la chiude. || Emma opens her mouth and then closes it.
+«Boh.»{emma} || “I don't know.”
+
+Leo pensa un momento. || Leo thinks for a moment.
+«La signora Luciamangia molto **cioccolato**.»{leo} || “Signora Lucia eats a lot of **chocolate**.”
+«Sì. E allora?»{emma} || “Yes. So what?”
+«E anche nonno Franco mangia **cioccolato**.»{leo} || “And Grandpa Franco eats **chocolate** too.”
+Emma guarda il soffitto. || Emma looks at the ceiling.
+«Leo, vai a letto.»{emma} || “Leo, go to bed.”
+«Ok. Ma **il 6 gennaio** dell'anno prossimo faccio più domande.»{leo} || “Okay. But on **January 6th** next year I'll ask more questions.”
+«Va bene.»{emma} || “Fine.”
+«**Il sabato**, a **pranzo**. Chiedo a nonno Franco.»{leo} || “On **Saturday**, at **lunch**. I'll ask Grandpa Franco.”
+«Certo.»{emma} || “Sure.”
+Leo va verso la camera con la **calza** in mano. || Leo goes toward his room with the **stocking** in his hand.
+_Ah, Leo. Adesso lo so io e non lo sai tu._{emma} || *Ah, Leo. Now I know and you don't.*
+Emma guarda il soffitto ancora una volta. || Emma looks at the ceiling one more time.
+«Che ansia.»{emma|sigh} || “So stressful.”
+
+@grammar
+# Time, days, months, and dates in Italian
+
+## What it is
+
+In this episode the Carters plan the whole month of January, the Befana arrives on the 6th, and Kevin's beautiful calendar falls apart because of times, days, and dates. Italian handles all of these with two very small words: **che ore sono?** to ask the time, and **a che ora?** to ask when something happens. Days of the week, months, and dates each have their own simple rules — and once you know them, you can plan anything.
+
+## How it works
+
+### Asking and telling the time
+
+| Italian | English |
+|---|---|
+| **Che ore sono?** / **Che ora è?** | What time is it? |
+| **Sono le** otto. | It's eight o'clock. |
+| **È l'una.** | It's one o'clock. |
+| **A che ora** parte il treno? | **At what time** does the train leave? |
+| **Alle** sette e mezza. | **At** seven thirty. |
+
+Telling the time uses **sono le** + number: *Sono le due, sono le dieci.* The only exception is one o'clock, which is singular: **È l'una.** For "at" a time, use **alle** (*alle tre, alle otto*), and again **all'una** for one o'clock. You can add *e mezza* (half past), *e un quarto* (quarter past), *meno un quarto* (quarter to), and **di mattina**, **di pomeriggio**, **di sera**, **di notte**.
+
+### Days of the week
+
+lunedì, martedì, mercoledì, giovedì, venerdì, **sabato**, **domenica**
+
+Days are masculine and take the definite article when you mean "on" a day, regularly: **il lunedì** ("on Mondays"), **il sabato**, **la domenica**. Note that *sabato* and *domenica* do not end in -ì. When the day is just a label, no article is needed: *Oggi è lunedì.*
+
+### Months and dates
+
+gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre, dicembre
+
+Months are all masculine and take **no article** in a date: **il 6 gennaio** ("on January 6th"), **il 5 gennaio**, **il 1° maggio**. For the first of the month it is always **il primo**: *il primo gennaio*.
+
+### Seasons
+
+la primavera, l'estate, l'autunno, l'inverno — *in primavera, in estate, in autunno, in inverno.*
+
+## From the story
+
+[[Lunedì, che ore sono?]]
+Asking the time with a day attached — the question word **che** plus **ore sono**.
+
+[[A che ora parte il treno di Emma?]]
+**A che ora** asks for the specific time of an event; the answer needs **alle**.
+
+[[Alle sette e mezza.]]
+The answer to **a che ora**: **alle** + number, with *e mezza* for half past.
+
+[[Sono le sette e un quarto.]]
+Telling the time uses **sono le** and can add *e un quarto* for quarter past.
+
+[[Oggi è il 6 gennaio. Quindi la data giusta è oggi.]]
+The date format: **il** + number + month. No article before the month itself.
+
+[[Il 6 gennaio, tesoro. Sempre il 6 gennaio.]]
+The Befana's date, repeated: **il 6 gennaio**, always with **il**.
+
+[[Martedì, giovedì, domenica.]]
+Days of the week in a list, no article needed when they are simply names.
+
+[[Il sabato la Befana dorme.]]
+**Il sabato** with the article means "on Saturdays" — the repeated day.
+
+[[Emma prende il treno alle sette e mezza la mattina.]]
+**Alle** for the exact time, with **la mattina** for which part of the day.
+
+## Common mistakes
+
+- **Saying *in gennaio* for a date.** Use **il**: *il 6 gennaio*, not *in 6 gennaio*. **In** is only for seasons: *in inverno*.
+- **Answering *a che ora* with *sono le*.** *A che ora?* needs **alle**: *Alle otto*, not *Sono le otto*.
+- **Forgetting *È l'una*.** All other hours are plural with **le**, but one o'clock is singular.
+- **Adding an article before months.** *Vado in Italia a **gennaio*** — not *a il gennaio*. Months stand alone.
+- **Capitalizing days and months.** In Italian, *lunedì*, *gennaio*, *domenica* are all lowercase, unlike English.
+- **Using *lunedì* to mean "every Monday".** For a habit, add the article: **il lunedì** means "on Mondays."
+
+## Practice
+
+Fill in the blank with the correct word or form.
+
+1. ___ ore sono? — Sono le cinque.
+2. Il treno parte ___ otto e mezza. (at)
+3. Oggi è ___ 6 gennaio.
+4. ___ è il primo giorno della settimana. (Monday)
+5. Che ora è? — ___ l'una.
+6. Kevin prende il caffè ___ mattina. (in the)
+7. Il mese dopo dicembre è ___.
+8. A che ora è il corso? — ___ sei. (at)
+
+### Answer key
+
+1. **Che**
+2. **alle**
+3. **il**
+4. **Lunedì**
+5. **È**
+6. **la**
+7. **gennaio**
+8. **Alle**

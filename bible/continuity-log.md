@@ -111,6 +111,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** The cover story holds; Chiara is suspicious but ignorant. Franco privately thanks Kevin and says "auguri" — first thaw between them.
 - **Planted:** Chiara's suspicions about Kevin's "amico"; Emma's songs and Tommaso; Lucia's real role still hidden.
 
+### s01e15 · Il sei gennaio
+- **Happened:** Kevin's wall calendar and yellow notebook chaos; Leo hangs a stocking on the fridge for the Befana. On 6 January Leo and Emma learn the "Befana" is Lucia, at Franco's at eight in the morning. Chiara confronts Franco that evening and learns about Lucia; Kevin admits he knew.
+- **New facts:** Franco and Lucia have been together since September; tango Saturday afternoons at the centro civico, Sunday lunches together. Lucia's red Christmas scarf lives at Franco's. Kevin's Italian course is Tuesdays at 6; Emma's train to Monza 7:30; Nadia's pharmacy closed Sunday afternoon and at night; Matteo's kitchen calendar.
+- **Changed:** Chiara knows about Franco and Lucia, and that Kevin has hidden it since September; Emma works out both. Franco invites Chiara to Sunday lunch with Lucia.
+- **Planted:** Sunday lunch with Lucia — Chiara hasn't answered; Ornella may already know.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
