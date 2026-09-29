@@ -1,0 +1,883 @@
+@vocab
+svegliarsi | verb | | to wake up | mi sveglio, ti svegli, si sveglia, ci svegliamo, si svegliano
+alzarsi | verb | | to get up | mi alzo, ti alzi, si alza, ci alziamo, si alzano
+lavarsi | verb | | to wash oneself | mi lavo, ti lavi, si lava, ci laviamo, si lavano
+vestirsi | verb | | to get dressed | mi vesto, ti vesti, si veste, ci vestiamo, si vestono
+prepararsi | verb | | to get ready | mi preparo, ti prepari, si prepara, ci prepariamo, si preparano
+addormentarsi | verb | | to fall asleep | mi addormento, ti addormenti, si addormenta, ci addormentiamo, si addormentano
+la sveglia | noun | f | alarm clock | sveglie
+la doccia | noun | f | shower | docce
+la fretta | noun | f | hurry |
+il dentifricio | noun | m | toothpaste |
+l'armadio | noun | m | wardrobe | armadi
+lo shampoo | noun | m | shampoo |
+il sapone | noun | m | soap | saponi
+il piano | noun | m | plan | piani
+il minuto | noun | m | minute | minuti
+l'orologio | noun | m | clock, watch | orologi
+lo specchio | noun | m | mirror | specchi
+la colazione | noun | f | breakfast | colazioni
+il pigiama | noun | m | pajamas | pigiami
+i denti | noun | m | teeth | dente
+lo spazzolino | noun | m | toothbrush | spazzolini
+l'asciugamano | noun | m | towel | asciugamani
+l'orto | noun | m | vegetable garden | orti
+le bocce | noun | f | bocce |
+@end
+
+# SCENE casa-carter | giovedì, cinque e quarantacinque del mattino | ben, chiara
+È giovedì mattina a Via dei Tigli 14. || It's Thursday morning on Via dei Tigli 14.
+Fuori è ancora buio e in casa tutti dormono. || It's still dark outside, and in the house everyone is asleep.
+Kevin apre gli occhi e guarda la **sveglia**. || Kevin opens his eyes and looks at the **alarm clock**.
+Sono le cinque e quaranta. || It's five forty.
+
+_Quaranta minuti prima dell'ora. Perfetto._{ben} || *Forty minutes before the time. Perfect.*
+Kevin **si sveglia** sempre prima della **sveglia**. || Kevin always **wakes up** before the **alarm clock**.
+È il suo momento preferito della giornata. || It's his favorite moment of the day.
+
+In camera c'è silenzio. || The bedroom is quiet.
+Sul lato di Kevin del letto dorme Pavarotti. || On Kevin's side of the bed, Pavarotti is asleep.
+Il gatto grigio di Ornella dorme come un re. || Ornella's grey cat sleeps like a king.
+Kevin è in **pigiama** e non si muove. || Kevin is in his **pajamas** and doesn't move.
+Se il gatto **si sveglia**, la giornata comincia male. || If the cat **wakes up**, the day starts badly.
+
+Dall'altra parte del letto c'è Chiara. || On the other side of the bed is Chiara.
+Chiara non dorme. || Chiara isn't sleeping.
+Chiara **si alza** e va alla finestra. || Chiara **gets up** and goes to the window.
+Guarda l'**orologio** del comodino ogni **minuto**. || She looks at the **clock** on the nightstand every **minute**.
+
+Oggi Chiara ha una riunione importante a Milano, alle nove. || Today Chiara has an important meeting in Milan, at nine.
+«Kevin, tu dormi?»{chiara|nervous} || “Kevin, are you asleep?”
+
+«No. Io **mi sveglio** con calma.»{ben|proud} || “No. I **wake up** calmly.”
+Kevin sorride nel buio. || Kevin smiles in the dark.
+
+«Sono le cinque e quaranta, Kevin.»{chiara} || “It's five forty, Kevin.”
+«Lo so. Perfetto, no?»{ben} || “I know. Perfect, isn't it?”
+Chiara non risponde. || Chiara doesn't answer.
+
+Kevin accende la luce piccola. || Kevin turns on the small light.
+«Allora. Il **piano** è questo.»{ben} || “All right. The **plan** is this.”
+«Cinque punti. Semplici.»{ben} || “Five points. Simple.”
+«Primo: mi **sveglio**.»{ben} || “First: I **wake up**.”
+«Secondo: **mi alzo**.»{ben} || “Second: I **get up**.”
+«Terzo: **mi lavo** i **denti**.»{ben} || “Third: I **brush** my **teeth**.”
+«Quarto: la **doccia**.»{ben} || “Fourth: the **shower**.”
+«Quinto: la **colazione** per tutti.»{ben} || “Fifth: **breakfast** for everyone.”
+
+Kevin conta i punti con le dita. || Kevin counts the points on his fingers.
+«È un **piano** da professionista.»{ben} || “It's a professional **plan**.”
+«Io **mi preparo** bene, tu **ti prepari** bene, tutti **si preparano** bene.»{ben} || “I **get ready** well, you **get ready** well, everyone **gets ready** well.”
+
+Chiara si siede sul letto e guarda l'**orologio** di nuovo. || Chiara sits down on the bed and looks at the **clock** again.
+«Kevin.»{chiara} || “Kevin.”
+«Sì?»{ben} || “Yes?”
+«Quante **docce** ci sono in questa casa?»{chiara|slow} || “How many **showers** are there in this house?”
+
+Silenzio. || Silence.
+Kevin guarda il soffitto. || Kevin looks at the ceiling.
+_Una. La risposta è una._{ben} || *One. The answer is one.*
+«Una?»{ben|quiet} || “One?”
+«Una.»{chiara} || “One.”
+«E quante persone siamo?»{chiara} || “And how many of us are there?”
+«Quattro.»{ben} || “Four.”
+«E alle sette e mezza?»{chiara} || “And at seven thirty?”
+«Emma va a Monza.»{ben} || “Emma goes to Monza.”
+«Esatto. Emma ha il treno alle sette e trenta.»{chiara} || “Exactly. Emma has the seven-thirty train.”
+
+Kevin si siede sul letto, accanto al gatto. || Kevin sits on the bed, next to the cat.
+«Ok. Il **piano** è flessibile.»{ben} || “Okay. The **plan** is flexible.”
+«Il **piano** è molto americano.»{chiara|dry} || “The **plan** is very American.”
+«È un **piano** bellissimo.»{ben} || “It's a beautiful **plan**.”
+
+Chiara si alza di nuovo. || Chiara gets up again.
+Ha **fretta**. || She's in a **hurry**.
+Ha molta **fretta**, oggi. || She's in a big **hurry** today.
+«Adesso io **mi lavo** e **mi vesto**.»{chiara} || “Now I **wash** and **get dressed**.”
+«E poi la **colazione**.»{chiara} || “And then **breakfast**.”
+
+«La **colazione** è il punto cinque.»{ben} || “**Breakfast** is point five.”
+«La **colazione** è alle sette, Kevin.»{chiara} || “**Breakfast** is at seven, Kevin.”
+Chiara va verso il bagno. || Chiara heads for the bathroom.
+
+Kevin **si alza** dal letto con attenzione. || Kevin **gets up** from the bed carefully.
+Il gatto apre un occhio. || The cat opens one eye.
+Kevin si ferma subito. || Kevin stops at once.
+_Se il gatto si sveglia, addio **piano**._{ben} || *If the cat wakes up, goodbye **plan**.*
+Il gatto chiude l'occhio. || The cat closes his eye.
+
+«Kevin, il tempo passa.»{chiara} || “Kevin, time is passing.”
+«Un **minuto**!»{ben} || “One **minute**!”
+«Un **minuto** è lungo, la mattina.»{chiara} || “A **minute** is long, in the morning.”
+
+Kevin va in bagno con lei. || Kevin goes into the bathroom with her.
+Il bagno è piccolo e pieno di cose. || The bathroom is small and full of things.
+Sul lavandino ci sono tre **spazzolini**. || On the sink there are three **toothbrushes**.
+C'è un tubo di **dentifricio** quasi vuoto. || There's a tube of **toothpaste** almost empty.
+C'è uno **shampoo** per Emma e uno per Leo. || There's **shampoo** for Emma and one for Leo.
+Su una sedia c'è un **asciugamano** bagnato. || On a chair there's a wet **towel**.
+Davanti al lavandino c'è uno **specchio** grande. || In front of the sink there's a big **mirror**.
+
+Kevin prende lo **spazzolino** blu. || Kevin picks up the blue **toothbrush**.
+«Vedi? Io **mi lavo** i denti adesso.»{ben} || “See? I **brush** my teeth now.”
+«Bene.»{chiara} || “Good.”
+Chiara prende il suo **spazzolino** e il **dentifricio**. || Chiara takes her **toothbrush** and the **toothpaste**.
+«Adesso io **mi lavo**, e tu aspetti fuori.»{chiara} || “Now I'm **washing**, and you wait outside.”
+«Perché?»{ben} || “Why?”
+«Perché io **mi lavo** e devo **vestirmi**.»{chiara} || “Because I need to **wash** and **get dressed**.”
+«Ma il **piano** dice...»{ben} || “But the **plan** says...”
+«Il **piano** dice una cosa sola, adesso.»{chiara} || “The **plan** says only one thing right now.”
+Chiara chiude la porta. || Chiara closes the door.
+
+Kevin resta nel corridoio con lo **spazzolino** in mano. || Kevin stays in the hallway with his **toothbrush** in his hand.
+È davanti allo **specchio** del corridoio. || He's in front of the hallway **mirror**.
+_Il **piano** è perfetto._{ben} || *The **plan** is perfect.*
+_Il problema non è il **piano**._{ben} || *The problem isn't the **plan**.*
+
+Dalla porta chiusa arriva la voce di Chiara. || From the closed door comes Chiara's voice.
+«Kevin, due cose.»{chiara} || “Kevin, two things.”
+«Sì.»{ben} || “Yes.”
+«La **sveglia** va alle sei e mezzo.»{chiara} || “The **alarm clock** goes at six thirty.”
+«E la seconda?»{ben} || “And the second thing?”
+«Alle sei e mezzo, tutti in fila.»{chiara|dry} || “At six thirty, everybody in line.”
+
+Kevin guarda la **sveglia** del telefono. || Kevin looks at the phone **alarm**.
+La **sveglia** è ancora alle cinque e quaranta. || The **alarm** is still at five forty.
+Fuori il cielo comincia a diventare chiaro. || Outside, the sky starts to turn light.
+In cucina non c'è ancora nessuno. || In the kitchen there's still nobody.
+_La **colazione** per quattro persone. Da solo._{ben} || *Breakfast for four people. Alone.*
+
+# SCENE casa-carter | giovedì, dalle sei e mezza alle sette e mezza | ben, chiara, emma, leo
+Alle sei e mezzo la **sveglia** suona. || At six thirty the **alarm clock** rings.
+Suona forte, come un piccolo concerto. || It rings loudly, like a little concert.
+Kevin è nel corridoio e apre le braccia. || Kevin is in the hallway and opens his arms.
+«Perfetto! Il **piano** comincia!»{ben|proud} || “Perfect! The **plan** starts!”
+
+Il **piano** perfetto dura otto **minuti**. || The perfect **plan** lasts eight **minutes**.
+Dopo otto **minuti**, la porta del bagno si apre. || After eight **minutes**, the bathroom door opens.
+Chiara esce con i capelli bagnati. || Chiara comes out with wet hair.
+Ha ancora **fretta** e guarda l'**orologio**. || She's still in a **hurry** and looks at the **clock**.
+«Otto **minuti**. Non male.»{chiara|dry} || “Eight **minutes**. Not bad.”
+
+Poi arriva Emma. || Then Emma arrives.
+Emma ha sedici anni e **si sveglia** male. || Emma is sixteen and **wakes up** badly.
+Ha gli occhi chiusi e il telefono in mano. || Her eyes are closed and her phone is in her hand.
+«Ciao. La **doccia** è libera?»{emma|sleepy} || “Hi. Is the **shower** free?”
+«Sì, ma...»{ben} || “Yes, but...”
+«Grazie.»{emma} || “Thanks.”
+Emma entra nel bagno e chiude la porta. || Emma goes into the bathroom and closes the door.
+
+Kevin resta con la mano alzata. || Kevin is left with his hand raised.
+«Ma il **piano**...»{ben|small} || “But the **plan**...”
+«Il **piano** è finito.»{chiara} || “The **plan** is over.”
+«Il **piano** non è finito. Il **piano** è in ritardo.»{ben} || “The **plan** isn't over. The **plan** is late.”
+«Il **piano** è in ritardo di otto **minuti**.»{chiara} || “The **plan** is eight **minutes** late.”
+
+In cucina arriva Leo. || Leo comes into the kitchen.
+Leo ha otto anni e in **pigiama** è un piccolo uragano. || Leo is eight and in his **pajamas** he's a little hurricane.
+«Ho fame!»{leo|loud} || “I'm hungry!”
+«Ciao, Leo.»{ben} || “Hi, Leo.”
+«Ho fame! La **colazione**!»{leo} || “I'm hungry! **Breakfast**!”
+
+Leo apre tutti gli sportelli della cucina. || Leo opens every cupboard in the kitchen.
+Apre uno, due, tre, quattro sportelli. || He opens one, two, three, four cupboards.
+«Dove sono i biscotti?»{leo} || “Where are the cookies?”
+«Leo, uno sportello alla volta.»{chiara} || “Leo, one cupboard at a time.”
+«Ma io **mi preparo** la **colazione**.»{leo} || “But I'm **getting** my **breakfast** ready.”
+«Tu **ti prepari** un disastro.»{chiara|dry} || “You're **getting** a disaster ready.”
+
+Kevin corre nel corridoio. || Kevin runs into the hallway.
+Ha un **asciugamano** in mano e un'aria molto seria. || He has a **towel** in his hand and a very serious look.
+«Signori, dobbiamo parlare di gestione del tempo.»{ben} || “Everybody, we need to talk about time management.”
+«Kevin, adesso no.»{chiara} || “Kevin, not now.”
+«La gestione del tempo è importante.»{ben} || “Time management is important.”
+
+Emma esce dal bagno con l'**asciugamano** in testa. || Emma comes out of the bathroom with the **towel** on her head.
+«Papà, dov'è il mio **shampoo**?»{emma} || “Dad, where's my **shampoo**?”
+«Il tuo **shampoo**?»{ben} || “Your **shampoo**?”
+«Sì. Quello alla frutta.»{emma} || “Yes. The fruity one.”
+«Forse è nell'**armadio**.»{ben} || “Maybe it's in the **wardrobe**.”
+«Nell'**armadio**? Perché nell'**armadio**?»{emma|confused} || “In the **wardrobe**? Why in the **wardrobe**?”
+
+Kevin apre l'**armadio** del corridoio. || Kevin opens the hallway **wardrobe**.
+Dentro c'è di tutto: scarpe, libri, una scatola, un ombrello. || Inside there's everything: shoes, books, a box, an umbrella.
+Cerca lo **shampoo** per due **minuti**. || He looks for the **shampoo** for two **minutes**.
+Due **minuti** sono lunghi, la mattina. || Two **minutes** are long, in the morning.
+«Ecco! **Shampoo** alla frutta.»{ben|triumphant} || “Here! Fruity **shampoo**.”
+«Grazie.»{emma} || “Thanks.”
+
+Chiara è in cucina e beve un bicchiere d'acqua. || Chiara is in the kitchen drinking a glass of water.
+«Kevin, io **mi vesto** e vado.»{chiara} || “Kevin, I'm **getting dressed** and going.”
+«Aspetta! La **colazione**!»{ben} || “Wait! **Breakfast**!”
+«La **colazione** è il punto cinque del tuo **piano**, no?»{chiara} || “**Breakfast** is point five of your **plan**, right?”
+«Sì.»{ben} || “Yes.”
+«Allora il punto cinque è in ritardo.»{chiara} || “So point five is late.”
+
+Chiara va in camera e **si veste**. || Chiara goes to the bedroom and **gets dressed**.
+In tre **minuti** è pronta. || In three **minutes** she's ready.
+Kevin guarda l'**orologio** della cucina. || Kevin looks at the kitchen **clock**.
+Sono le sette e un quarto. || It's a quarter past seven.
+
+«Emma! Il treno!»{chiara|loud} || “Emma! The train!”
+«Lo so, lo so!»{emma} || “I know, I know!”
+Emma è davanti allo **specchio** del bagno. || Emma is in front of the bathroom **mirror**.
+Si guarda per due secondi. || She looks at herself for two seconds.
+Due secondi, non di più. || Two seconds, no more.
+Poi prende lo zaino e scappa. || Then she grabs her backpack and runs off.
+
+«Ciao!»{emma|quick} || “Bye!”
+«Emma, la **colazione**!»{ben} || “Emma, **breakfast**!”
+«Non ho tempo!»{emma} || “I don't have time!”
+La porta si chiude. || The door closes.
+
+Kevin resta solo in cucina con Leo. || Kevin is alone in the kitchen with Leo.
+«Il **piano** è un disastro.»{ben} || “The **plan** is a disaster.”
+«Che cos'è un disastro?»{leo} || “What's a disaster?”
+«Questa mattina.»{ben} || “This morning.”
+
+Leo apre un altro sportello. || Leo opens another cupboard.
+«Papà, dov'è il **dentifricio**?»{leo} || “Dad, where's the **toothpaste**?”
+«Sul lavandino.»{ben} || “On the sink.”
+«Non c'è.»{leo} || “It's not there.”
+Kevin va in bagno. || Kevin goes into the bathroom.
+Sul lavandino non c'è il **dentifricio**. || There's no **toothpaste** on the sink.
+C'è solo un tubo vuoto e un po' di **sapone**. || There's only an empty tube and a bit of **soap**.
+Lo **specchio** è tutto appannato. || The **mirror** is all fogged up.
+«Allora. Denti senza **dentifricio**.»{ben} || “So. Teeth without **toothpaste**.”
+«Che schifo.»{leo|honest} || “Gross.”
+
+Kevin cerca lo **spazzolino** di Leo. || Kevin looks for Leo's **toothbrush**.
+Lo trova nella tazza sbagliata. || He finds it in the wrong cup.
+Nella tazza sbagliata c'è lo **spazzolino** di Leo con lo **spazzolino** di Emma. || In the wrong cup, Leo's **toothbrush** is with Emma's **toothbrush**.
+«Leo, questo è il tuo?»{ben} || “Leo, is this yours?”
+«Sì. Quello blu.»{leo} || “Yes. The blue one.”
+«E perché è con quello di Emma?»{ben} || “And why is it with Emma's?”
+«Boh.»{leo|shrug} || “Dunno.”
+
+Kevin **si lava** i **denti** senza **dentifricio**. || Kevin **brushes** his **teeth** without **toothpaste**.
+Non è un momento bello. || It isn't a nice moment.
+Leo ride e apre la bocca. || Leo laughs and opens his mouth.
+«Io i **denti** non li lavo oggi.»{leo} || “I'm not brushing my **teeth** today.”
+«Tu i **denti** li lavi adesso.»{ben} || “You're brushing your **teeth** now.”
+«Perché?»{leo} || “Why?”
+«Perché io sono tuo padre.»{ben} || “Because I'm your father.”
+
+Alle sette e venticinque Chiara è alla porta. || At seven twenty-five Chiara is at the door.
+Ha i capelli bagnati e la borsa in mano. || Her hair is wet and her bag is in her hand.
+«Vado. Niente caffè, niente **colazione**.»{chiara|tired} || “I'm going. No coffee, no **breakfast**.”
+«Chiara, aspetta un **minuto**.»{ben} || “Chiara, wait a **minute**.”
+«Non ho un **minuto**.»{chiara} || “I don't have a **minute**.”
+«Il **piano** è...»{ben} || “The **plan** is...”
+«Il **piano** è bello. Otto **minuti** di bellezza.»{chiara|dry} || “The **plan** is nice. Eight **minutes** of niceness.”
+«Grazie.»{ben|small} || “Thanks.”
+
+Chiara esce. || Chiara leaves.
+La porta si chiude per la seconda volta. || The door closes for the second time.
+Kevin guarda Leo. || Kevin looks at Leo.
+Leo guarda Kevin con la bocca aperta. || Leo looks at Kevin with his mouth open.
+«Leo, dove sono i tuoi **denti**?»{ben} || “Leo, where are your **teeth**?”
+Leo apre la bocca e **si lava** i **denti** con molta calma. || Leo opens his mouth and **brushes** his **teeth** very calmly.
+Con molta, molta calma. || Very, very calmly.
+Kevin guarda l'**orologio** un'altra volta. || Kevin looks at the **clock** one more time.
+Sette e mezza. || Seven thirty.
+«La **colazione** è pronta fra due **minuti**.»{ben} || “**Breakfast** is ready in two **minutes**.”
+«Due **minuti**?»{leo} || “Two **minutes**?”
+«Due **minuti**.»{ben} || “Two **minutes**.”
+_E il caffè? Il caffè non c'è._{ben} || *And the coffee? There's no coffee.*
+
+# SCENE orto | giovedì, sei e mezza | franco, leo
+La casa di Franco è al numero nove. || Franco's house is at number nine.
+Alle sei e mezza la luce è accesa in cucina. || At six thirty the light is on in the kitchen.
+Franco **si sveglia** sempre alle sei. || Franco always **wakes up** at six.
+Anche oggi. || Today too.
+Sul tavolo c'è una tazzina e c'è il caffè. || On the table there's a small cup and there's coffee.
+
+Qualcuno bussa alla porta. || Someone knocks at the door.
+Bussa forte, con due mani. || He knocks loudly, with both hands.
+Franco apre. || Franco opens the door.
+Davanti alla porta c'è Leo, in **pigiama**. || In front of the door is Leo, in his **pajamas**.
+«Buongiorno, nonno.»{leo|happy} || “Good morning, Grandpa.”
+«Leo! In **pigiama**?»{franco} || “Leo! In **pajamas**?”
+«Sì. Ho **fretta**.»{leo} || “Yes. I'm in a **hurry**.”
+
+Franco guarda la strada. || Franco looks at the street.
+La strada è vuota. || The street is empty.
+«E tua madre lo sa?»{franco} || “And does your mother know?”
+«Mamma va a Milano adesso.»{leo} || “Mom is going to Milan now.”
+«Mah. Entra.»{franco} || “Mah. Come in.”
+
+Leo entra in cucina e si siede. || Leo comes into the kitchen and sits down.
+Guarda la tazzina di caffè. || He looks at the little coffee cup.
+«Nonno, io voglio il tuo programma.»{leo} || “Grandpa, I want your routine.”
+«Quale programma?»{franco} || “Which routine?”
+«Il programma della mattina. Come una ricetta.»{leo} || “The morning routine. Like a recipe.”
+Franco si siede anche lui. || Franco sits down too.
+«Ah. Il programma. Va bene.»{franco} || “Ah. The routine. All right.”
+
+Franco prende un tovagliolo e una penna. || Franco takes a napkin and a pen.
+«Punto uno: **mi sveglio** alle sei.»{franco|slow} || “Point one: I **wake up** at six.”
+«**Mi sveglio** alle sei.»{leo} || “I **wake up** at six.”
+«Punto due: **mi alzo**.»{franco} || “Point two: I **get up**.”
+«**Mi alzo**.»{leo} || “I **get up**.”
+«Punto tre: bevo il caffè.»{franco} || “Point three: I drink coffee.”
+«Bevo il caffè.»{leo} || “I drink coffee.”
+«Punto quattro: vado nell'**orto**.»{franco} || “Point four: I go to the **vegetable garden**.”
+«Vado nell'**orto**.»{leo|serious} || “I go to the **vegetable garden**.”
+
+Leo ripete tutto ad alta voce. || Leo repeats everything out loud.
+Poi guarda il tovagliolo. || Then he looks at the napkin.
+«E la **sveglia**?»{leo} || “And the **alarm clock**?”
+«Che **sveglia**?»{franco} || “What **alarm clock**?”
+«La **sveglia** non c'è nel programma?»{leo} || “The **alarm clock** isn't in the routine?”
+«Io **mi sveglio** senza **sveglia**.»{franco} || “I **wake up** without an **alarm clock**.”
+«Come?»{leo|surprised} || “How?”
+«Il corpo lo sa. Alle sei, gli occhi si aprono.»{franco} || “The body knows. At six, the eyes open.”
+
+Leo apre e chiude gli occhi tre volte. || Leo opens and closes his eyes three times.
+«Il mio corpo non lo sa.»{leo} || “My body doesn't know.”
+«Il tuo corpo ha otto anni.»{franco} || “Your body is eight years old.”
+«Ah.»{leo} || “Ah.”
+
+Franco prende la sua giacca. || Franco takes his jacket.
+«Andiamo nell'**orto**.»{franco} || “Let's go to the **vegetable garden**.”
+L'**orto** di Franco è dietro la casa. || Franco's **vegetable garden** is behind the house.
+È piccolo, ma è tutto in ordine. || It's small, but everything is in order.
+Ci sono pomodori, zucchine e insalata. || There are tomatoes, zucchini and lettuce.
+La terra è bagnata e c'è odore di pianta. || The earth is wet and there's a smell of plants.
+
+«Vedi questi? Pomodori.»{franco} || “See these? Tomatoes.”
+«Quanti?»{leo} || “How many?”
+«Dodici. E domani altri due.»{franco} || “Twelve. And tomorrow two more.”
+Franco prende un pomodoro e lo dà a Leo. || Franco picks a tomato and gives it to Leo.
+«Mangialo come una mela.»{franco} || “Eat it like an apple.”
+Leo lo mangia come una mela. || Leo eats it like an apple.
+Il succo scende sul **pigiama**. || The juice runs down his **pajamas**.
+«Buonissimo!»{leo} || “So good!”
+«Certo. È del mio **orto**.»{franco} || “Of course. It's from my **vegetable garden**.”
+
+Leo si asciuga la bocca con il braccio. || Leo wipes his mouth with his arm.
+«Nonno, a casa mia la mattina è un disastro.»{leo} || “Grandpa, at my house the morning is a disaster.”
+«Un disastro?»{franco} || “A disaster?”
+«Tutti in **pigiama** e tutti con la **fretta**.»{leo} || “Everybody in **pajamas** and everybody in a **hurry**.”
+«E il tuo papà?»{franco} || “And your dad?”
+«Papà ha un **piano**. Ma il **piano** non funziona.»{leo} || “Dad has a **plan**. But the **plan** doesn't work.”
+«Mah!»{franco} || “Mah!”
+
+Franco guarda i pomodori e poi Leo. || Franco looks at the tomatoes and then at Leo.
+«A casa tua c'è **fretta**. E c'è rumore.»{franco} || “At your house there's **hurry**. And there's noise.”
+«Sì. Molto rumore.»{leo} || “Yes. A lot of noise.”
+«Qui c'è silenzio.»{franco} || “Here there's silence.”
+«Qui è meglio.»{leo} || “Here it's better.”
+
+Leo conta le zucchine. || Leo counts the zucchini.
+Poi guarda Franco con gli occhi grandi. || Then he looks at Franco with big eyes.
+«Nonno, nel programma ci sono anche le **bocce**?»{leo} || “Grandpa, are **bocce** in the routine too?”
+«Le **bocce** sono alle cinque, dopo la scuola.»{franco} || “**Bocce** are at five, after school.”
+«Ah. E prima?»{leo} || “Ah. And before?”
+«Prima c'è la **colazione** al bar. Con Matteo.»{franco} || “Before there's **breakfast** at the bar. With Matteo.”
+«Al bar!»{leo|excited} || “At the bar!”
+«Un caffè per me, un latte per te.»{franco} || “A coffee for me, a milk for you.”
+
+Leo batte le mani. || Leo claps his hands.
+«Allora il programma è perfetto!»{leo} || “Then the routine is perfect!”
+«Il programma è vecchio di quarant'anni.»{franco} || “The routine is forty years old.”
+«È perfetto lo stesso.»{leo} || “It's perfect anyway.”
+
+Franco chiude il cancello dell'**orto**. || Franco closes the gate of the **vegetable garden**.
+Per un secondo **si ferma**. || For a second he stops.
+Guarda la casa vuota, la cucina, la tazzina. || He looks at the empty house, the kitchen, the little cup.
+_Il rumore. No, il rumore qui non c'è più._{franco} || *The noise. No, the noise isn't here anymore.*
+«Andiamo, Leo. La **colazione** aspetta.»{franco} || “Let's go, Leo. **Breakfast** is waiting.”
+«E l'**armadio**?»{leo} || “And the **wardrobe**?”
+«Che **armadio**?»{franco} || “What **wardrobe**?”
+«La mia **colazione** è nell'**armadio**?»{leo} || “Is my **breakfast** in the **wardrobe**?”
+«No. La **colazione** è al bar.»{franco|dry} || “No. **Breakfast** is at the bar.”
+«Ah. Bene.»{leo} || “Ah. Good.”
+
+# SCENE bar-tigli | giovedì mattina, prima di scuola | franco, leo, matteo
+Il Bar Tigli è in piazza, al numero due. || Bar Tigli is on the square, at number two.
+Alle sette del mattino c'è già il profumo del caffè. || At seven in the morning there's already the smell of coffee.
+Matteo è dietro il banco e pulisce un bicchiere. || Matteo is behind the counter wiping a glass.
+Poi guarda la porta e apre la bocca. || Then he looks at the door and opens his mouth.
+
+«Ma quello è Leo?»{matteo} || “Is that Leo?”
+«Buongiorno, zio Matteo!»{leo|happy} || “Good morning, Uncle Matteo!”
+«Buongiorno. Ma è mattina? O è sera?»{matteo|joking} || “Good morning. But is it morning? Or evening?”
+«È mattina. Le sette.»{leo} || “It's morning. Seven o'clock.”
+«E tu sei qui. In **pigiama**?»{matteo} || “And you're here. In **pajamas**?”
+«No! Ho i vestiti.»{leo} || “No! I have clothes on.”
+
+Leo guarda i suoi vestiti. || Leo looks at his clothes.
+La maglietta è al contrario. || His T-shirt is inside out.
+«Quasi.»{leo} || “Almost.”
+Franco si siede al banco. || Franco sits at the counter.
+«Matteo, un caffè. E un latte per Leo.»{franco} || “Matteo, a coffee. And a milk for Leo.”
+
+Matteo mette la tazzina sul banco. || Matteo puts the little cup on the counter.
+«Papà, sono le sette del mattino. Tu bevi il caffè, va bene.»{matteo} || “Dad, it's seven in the morning. You drink coffee, fine.”
+«Certo.»{franco} || “Of course.”
+«Ma perché il piccolo è qui con te?»{matteo} || “But why is the little one here with you?”
+«È il mio aiutante.»{franco|dry} || “He's my helper.”
+
+Leo si alza sulla sedia. || Leo stands up on the chair.
+«Zio Matteo, io ho il programma di nonno!»{leo} || “Uncle Matteo, I have Grandpa's routine!”
+«Quale programma?»{matteo} || “Which routine?”
+«Quello della mattina. Come una ricetta!»{leo} || “The morning one. Like a recipe!”
+
+Leo comincia a contare con le dita. || Leo starts counting on his fingers.
+«Punto uno: **mi sveglio** alle sei.»{leo|serious} || “Point one: I **wake up** at six.”
+«Alle sei?»{matteo} || “At six?”
+«Senza **sveglia**! Il corpo lo sa.»{leo} || “Without an **alarm clock**! The body knows.”
+«Il corpo di chi?»{matteo} || “Whose body?”
+«Il corpo di nonno.»{leo} || “Grandpa's body.”
+
+Matteo guarda Franco con un sorriso. || Matteo looks at Franco with a smile.
+«Da quarant'anni ti svegli alle sei.»{matteo} || “For forty years you've been waking up at six.”
+«E oggi ho un aiutante.»{franco} || “And today I have a helper.”
+«Un aiutante in **pigiama**.»{matteo} || “A helper in **pajamas**.”
+«Ha la maglietta al contrario.»{franco} || “His T-shirt is inside out.”
+«È un dettaglio.»{leo} || “It's a detail.”
+
+Leo conta il punto due. || Leo counts point two.
+«Punto due: **mi alzo**. Punto tre: bevo il caffè.»{leo} || “Point two: I **get up**. Point three: I drink coffee.”
+«Ma il caffè è un caffè piccolo, per te?»{matteo} || “But is the coffee a small coffee, for you?”
+«No! Io bevo il latte. Il caffè è per nonno.»{leo} || “No! I drink milk. The coffee is for Grandpa.”
+«Bene.»{matteo} || “Good.”
+
+«Punto quattro: vado nell'**orto**.»{leo} || “Point four: I go to the **vegetable garden**.”
+«Nell'**orto**? Anche stamattina?»{matteo} || “To the **vegetable garden**? This morning too?”
+«Certo. Io mangio un pomodoro come una mela.»{leo} || “Of course. I eat a tomato like an apple.”
+«E adesso la **colazione** al bar.»{leo} || “And now **breakfast** at the bar.”
+«Il pomodoro e la **colazione**?»{matteo} || “The tomato and **breakfast**?”
+«Sì. Io ho molta fame.»{leo} || “Yes. I'm very hungry.”
+
+Matteo guarda l'**orologio** del bar. || Matteo looks at the bar **clock**.
+«Leo, sono le sette e un **minuto**.»{matteo} || “Leo, it's seven and one **minute**.”
+«E allora?»{leo} || “So what?”
+«E allora a scuola vai alle otto e mezza.»{matteo} || “And so you go to school at eight thirty.”
+«Sì. Ma prima la **colazione**.»{leo} || “Yes. But first **breakfast**.”
+
+Leo guarda l'**orologio** anche lui. || Leo looks at the **clock** too.
+Poi guarda l'**orologio** un'altra volta. || Then he looks at the **clock** one more time.
+«Zio, quanti **minuti** mancano?»{leo} || “Uncle, how many **minutes** are left?”
+«A che cosa?»{matteo} || “To what?”
+«Alle **bocce**.»{leo} || “To **bocce**.”
+«Alle **bocce** mancano dieci ore, Leo.»{matteo} || “**Bocce** is ten hours away, Leo.”
+«Ah. Tante.»{leo} || “Ah. That's a lot.”
+
+Matteo prende un cornetto. || Matteo takes a croissant.
+Lo mette su un piatto piccolo. || He puts it on a small plate.
+«Cornetto caldo. E un bicchiere di latte.»{matteo} || “Warm croissant. And a glass of milk.”
+«Grazie!»{leo} || “Thanks!”
+Leo mangia in tre secondi. || Leo eats it in three seconds.
+«Piano, Leo.»{franco} || “Slow down, Leo.”
+
+Franco beve il caffè in piedi. || Franco drinks his coffee standing up.
+Come sempre. || Like always.
+Come tutte le mattine della sua vita. || Like every morning of his life.
+Matteo lo guarda e scuote la testa. || Matteo looks at him and shakes his head.
+«Papà, tu bevi il caffè in piedi da sempre.»{matteo} || “Dad, you've always drunk coffee standing up.”
+«Si beve in piedi. È la regola.»{franco} || “You drink it standing up. That's the rule.”
+
+Leo finisce il latte. || Leo finishes his milk.
+Ha la bocca bianca. || He has a white mouth.
+«Zio Matteo, io ho **fretta**.»{leo} || “Uncle Matteo, I'm in a **hurry**.”
+«Tu? **Fretta**?»{matteo|surprised} || “You? In a **hurry**?”
+«Sì. Ma non come papà.»{leo} || “Yes. But not like Dad.”
+«Come?»{matteo} || “How?”
+«La **fretta** è nel programma di papà.»{leo} || “The **hurry** is in Dad's routine.”
+«E nel programma di nonno?»{matteo} || “And in Grandpa's routine?”
+«Nel programma di nonno la **fretta** non c'è.»{leo} || “In Grandpa's routine there's no **hurry**.”
+
+Matteo ride forte. || Matteo laughs loudly.
+Franco quasi sorride. || Franco almost smiles.
+Quasi. || Almost.
+«Bravo, Leo.»{matteo} || “Good job, Leo.”
+
+Matteo prende un altro bicchiere e lo pulisce. || Matteo takes another glass and wipes it.
+«Leo, e nel pomeriggio? Vai alle **bocce**?»{matteo} || “Leo, and in the afternoon? Are you going to **bocce**?”
+«Sì! Con nonno. Alle cinque.»{leo|proud} || “Yes! With Grandpa. At five.”
+«Alle cinque. E dopo?»{matteo} || “At five. And after?”
+«Dopo ceno e...»{leo} || “After that I have dinner and...”
+Leo si ferma. || Leo stops.
+«E poi?»{matteo} || “And then?”
+«E poi **mi addormento**.»{leo} || “And then I **fall asleep**.”
+
+«Ah! Allora stasera **ti addormenti** alle sette.»{matteo|joking} || “Ah! So tonight you **fall asleep** at seven.”
+«Alle sette? No! Alle otto.»{leo|scandalized} || “At seven? No! At eight.”
+«Vediamo.»{matteo} || “We'll see.”
+Franco paga al banco. || Franco pays at the counter.
+«Andiamo, Leo. La scuola aspetta.»{franco} || “Let's go, Leo. School is waiting.”
+
+# SCENE parco | giovedì pomeriggio, cinque | franco, leo
+Il Parco dei Tigli è vicino alla chiesa. || Parco dei Tigli is near the church.
+Alle cinque il sole è basso e l'aria è fresca. || At five the sun is low and the air is cool.
+Nel parco c'è il campo di **bocce**. || In the park there's the **bocce** court.
+Il campo è di terra rossa. || The court is red earth.
+
+Franco arriva con la sua borsa. || Franco arrives with his bag.
+Leo arriva correndo. || Leo arrives running.
+Ha ancora lo zaino della scuola. || He still has his school backpack.
+«Nonno, sono qui! Alle cinque in punto!»{leo|proud} || “Grandpa, I'm here! At five exactly!”
+
+Franco prende le **bocce** dalla borsa. || Franco takes the **bocce** out of the bag.
+Le **bocce** sono rosse e pesanti. || The **bocce** are red and heavy.
+«Leo, tu tiri queste due. Io tiro quelle là.»{franco} || “Leo, you throw these two. I throw those over there.”
+«Va bene!»{leo} || “Okay!”
+«E piano. La **boccia** non è un pallone.»{franco} || “And slowly. The **boccia** isn't a ball.”
+«Lo so, lo so!»{leo} || “I know, I know!”
+
+Leo tira la prima **boccia**. || Leo throws the first **boccia**.
+La **boccia** va a sinistra e si ferma. || The **boccia** goes left and stops.
+«Quanti punti?»{leo} || “How many points?”
+«Zero.»{franco} || “Zero.”
+«Zero? Perché zero?»{leo} || “Zero? Why zero?”
+«Perché è lontana dal pallino. Guarda.»{franco} || “Because it's far from the jack. Look.”
+
+Franco tira una **boccia**. || Franco throws a **boccia**.
+La sua **boccia** è vicinissima al pallino. || His **boccia** is very close to the jack.
+«Uno a zero.»{franco} || “One to zero.”
+«Non è giusto!»{leo} || “That's not fair!”
+«È giusto. Io tiro da quarant'anni.»{franco} || “It's fair. I've been throwing for forty years.”
+
+Leo tira la seconda **boccia**. || Leo throws the second **boccia**.
+Questa volta è più vicina. || This time it's closer.
+«Adesso? Quanti?»{leo} || “Now? How many?”
+«Mezzo punto.»{franco} || “Half a point.”
+«Mezzo punto esiste?»{leo} || “Does half a point exist?”
+«Nel gioco esiste tutto.»{franco} || “In the game everything exists.”
+
+Leo parla e parla. || Leo talks and talks.
+Parla dei pomodori dell'**orto**. || He talks about the tomatoes in the **vegetable garden**.
+Parla del pomodoro mangiato come una mela. || He talks about the tomato eaten like an apple.
+Parla della **sveglia** di papà. || He talks about Dad's **alarm clock**.
+«Nonno, la **sveglia** di papà suona alle sei e mezzo.»{leo} || “Grandpa, Dad's **alarm clock** rings at six thirty.”
+«E voi vi alzate. Tutti insieme.»{franco} || “And you all get up. All together.”
+«Sì. E c'è la **fretta**.»{leo} || “Yes. And there's the **hurry**.”
+«Mah.»{franco} || “Mah.”
+
+Franco tira ancora. || Franco throws again.
+Leo conta i punti a voce alta. || Leo counts the points out loud.
+Poi Leo guarda l'**orologio** del campo. || Then Leo looks at the **clock** on the court.
+«Nonno, quanti **minuti** mancano?»{leo} || “Grandpa, how many **minutes** are left?”
+«A che cosa?»{franco} || “To what?”
+«Alla fine.»{leo} || “To the end.”
+«Non c'è una fine. Giochiamo finché c'è luce.»{franco} || “There's no end. We play until there's light.”
+
+«Ah.»{leo} || “Ah.”
+Leo tira una **boccia** e sbadiglia. || Leo throws a **boccia** and yawns.
+Franco non vede lo sbadiglio. || Franco doesn't see the yawn.
+«Sai, Leo, il tram è come una **boccia**.»{franco} || “You know, Leo, a tram is like a **boccia**.”
+«Come?»{leo} || “How?”
+«Va piano, e arriva sempre dove deve arrivare.»{franco} || “It goes slowly, and it always gets where it needs to go.”
+«Ah.»{leo} || “Ah.”
+
+Leo tira un'altra **boccia**. || Leo throws another **boccia**.
+Adesso la **boccia** va dritta, ma piano. || Now the **boccia** goes straight, but slowly.
+«Piano, Leo.»{franco} || “Slowly, Leo.”
+«Sì, piano.»{leo} || “Yes, slowly.”
+La voce di Leo è più bassa, adesso. || Leo's voice is lower now.
+La sua faccia cambia. || His face changes.
+Gli occhi sono piccoli. || His eyes are small.
+Ha sonno. || He's sleepy.
+
+«Nonno...»{leo|tired} || “Grandpa...”
+«Dimmi.»{franco} || “Tell me.”
+«Le **bocce** sono pesanti.»{leo} || “The **bocce** are heavy.”
+«Sì, sono pesanti.»{franco} || “Yes, they're heavy.”
+Leo si siede su una sedia di legno. || Leo sits on a wooden chair.
+La sedia è vicino al campo. || The chair is near the court.
+«Mi siedo un **minuto**.»{leo} || “I'm sitting down for a **minute**.”
+
+«Un **minuto** va bene.»{franco} || “A **minute** is fine.”
+Franco tira un'altra **boccia**. || Franco throws another **boccia**.
+Poi guarda Leo. || Then he looks at Leo.
+Leo ha la testa sul braccio. || Leo has his head on his arm.
+Gli occhi sono chiusi. || His eyes are closed.
+«Leo?»{franco} || “Leo?”
+Niente. || Nothing.
+Leo **si addormenta**. || Leo **falls asleep**.
+La bocca è un po' aperta. || His mouth is a little open.
+
+Franco smette di giocare. || Franco stops playing.
+Mette giù le **bocce** piano, senza rumore. || He puts down the **bocce** quietly, without noise.
+Prende la sua giacca e la mette sulle spalle di Leo. || He takes his jacket and puts it on Leo's shoulders.
+La giacca è vecchia e calda. || The jacket is old and warm.
+_Io faccio così con lui._{franco} || *I do this with him.*
+Franco si siede anche lui, ma non parla. || Franco sits down too, but he doesn't talk.
+
+_Venti anni di **bocce** con gli amici._{franco} || *Twenty years of **bocce** with friends.*
+_E adesso? Adesso gioco con un bambino._{franco} || *And now? Now I play with a child.*
+_La routine è bella. Ma da solo non è la stessa cosa._{franco} || *The routine is nice. But alone it isn't the same thing.*
+Franco guarda il campo vuoto. || Franco looks at the empty court.
+_Senza Anna, il rumore non c'è._{franco} || *Without Anna, there's no noise.*
+_Mah. Basta._{franco} || *Mah. Enough.*
+Franco si alza piano. || Franco gets up slowly.
+
+Va al rubinetto del parco. || He goes to the park faucet.
+Il rubinetto è dietro il campo. || The faucet is behind the court.
+Ha le mani sporche di terra. || His hands are dirty with earth.
+«**Mi lavo** le mani un **minuto**.»{franco|quiet} || “I'm **washing** my hands for a **minute**.”
+Franco **si lava** le mani con calma. || Franco **washes** his hands calmly.
+Prende il **sapone** dalla borsa. || He takes the **soap** out of the bag.
+Il **sapone** è piccolo e profuma di limone. || The **soap** is small and smells of lemon.
+L'acqua è fredda. || The water is cold.
+
+Franco si asciuga le mani con un fazzoletto. || Franco dries his hands with a handkerchief.
+Torna alla sedia e guarda Leo. || He goes back to the chair and looks at Leo.
+Leo dorme come un angelo. || Leo sleeps like an angel.
+Ha ancora lo zaino sulle spalle. || He still has his backpack on his shoulders.
+«Leo, lo zaino.»{franco} || “Leo, your backpack.”
+Leo non sente. || Leo doesn't hear.
+
+In quel momento arriva un gatto grigio. || At that moment a grey cat arrives.
+È Pavarotti. || It's Pavarotti.
+Il gatto va verso la sedia. || The cat goes toward the chair.
+Guarda Leo con gli occhi verdi. || He looks at Leo with green eyes.
+Poi sale sui piedi di Leo. || Then he climbs onto Leo's feet.
+Pavarotti **si addormenta** anche lui. || Pavarotti **falls asleep** too.
+
+Franco guarda i due. || Franco looks at the two of them.
+Un bambino e un gatto. || A child and a cat.
+_Due dormiglioni._{franco} || *Two sleepyheads.*
+Franco si siede di nuovo. || Franco sits down again.
+Le **bocce** restano sul campo. || The **bocce** stay on the court.
+Il sole va giù dietro la chiesa. || The sun goes down behind the church.
+«Restiamo qui un altro **minuto**.»{franco|soft} || “Let's stay here another **minute**.”
+Un **minuto** lungo. || A long **minute**.
+
+# SCENE casa-carter | giovedì sera | chiara, ben, emma, leo
+Sono le otto di sera. || It's eight in the evening.
+In cucina c'è odore di pasta e di pomodoro. || In the kitchen there's a smell of pasta and tomato.
+Chiara apre la porta con la borsa in mano. || Chiara opens the door with her bag in her hand.
+Ha la faccia stanca, ma sorride. || Her face is tired, but she's smiling.
+
+«Sono a casa!»{chiara} || “I'm home!”
+«Mamma!»{leo|happy} || “Mom!”
+Leo corre verso di lei. || Leo runs toward her.
+«La riunione?»{ben} || “The meeting?”
+«Bene. Molto bene.»{chiara} || “Good. Very good.”
+«Perfetto!»{ben} || “Perfect!”
+«Kevin, adesso non parlare del **piano**.»{chiara|dry} || “Kevin, don't talk about the **plan** now.”
+
+Leo si siede sul divano. || Leo sits on the sofa.
+Vuole raccontare la sua giornata. || He wants to tell about his day.
+«Mamma, io ho il programma di nonno!»{leo} || “Mom, I have Grandpa's routine!”
+«Ah sì?»{chiara} || “Oh yeah?”
+«Prima le **bocce**, poi...»{leo} || “First **bocce**, then...”
+«Poi l'**orto**?»{chiara} || “Then the **vegetable garden**?”
+«Sì! E un pomodoro come una mela!»{leo} || “Yes! And a tomato like an apple!”
+
+Leo parla delle **bocce** rosse. || Leo talks about the red **bocce**.
+Parla del pallino e dei punti. || He talks about the jack and the points.
+«E poi mi sono seduto su una sedia...»{leo} || “And then I sat down on a chair...”
+La voce si ferma. || His voice stops.
+La testa va giù, piano. || His head goes down, slowly.
+Leo **si addormenta** sul divano. || Leo **falls asleep** on the sofa.
+In mezzo alla frase. || In the middle of the sentence.
+
+Chiara guarda Kevin. || Chiara looks at Kevin.
+«Le **bocce**. Alle cinque.»{ben} || “**Bocce**. At five.”
+«Ha otto anni.»{chiara} || “He's eight.”
+«Fa tutto il programma di Franco.»{ben} || “He does Franco's whole routine.”
+«Tutto?»{chiara} || “All of it?”
+«Alle sei. In **pigiama**.»{ben} || “At six. In **pajamas**.”
+«Mamma mia.»{chiara|soft} || “My goodness.”
+
+Kevin prende una coperta e copre Leo. || Kevin takes a blanket and covers Leo.
+Dalla camera arriva Emma. || From her room comes Emma.
+Emma va in bagno e **si lava**. || Emma goes into the bathroom and **washes**.
+Poi **si veste** con il **pigiama**. || Then she **gets dressed** in her **pajamas**.
+Resta davanti allo **specchio** mezz'ora. || She stays in front of the **mirror** for half an hour.
+
+Kevin aspetta nel corridoio. || Kevin waits in the hallway.
+Ha lo **spazzolino** in mano. || He has his **toothbrush** in his hand.
+Il **dentifricio** è già aperto. || The **toothpaste** is already open.
+«Emma, il bagno è libero?»{ben} || “Emma, is the bathroom free?”
+«Un attimo!»{emma} || “One second!”
+Passa un **minuto**. || A **minute** goes by.
+«Emma?»{ben} || “Emma?”
+«Un attimo!»{emma} || “One second!”
+Passano cinque **minuti**. || Five **minutes** go by.
+
+Kevin va in cucina e si siede. || Kevin goes into the kitchen and sits down.
+Chiara beve una tisana. || Chiara drinks an herbal tea.
+«Chiara, il **piano** della mattina è un disastro.»{ben} || “Chiara, the morning **plan** is a disaster.”
+«Lo so. Io vedo tutto.»{chiara|dry} || “I know. I see everything.”
+«La **doccia** è una sola.»{ben} || “There's only one **shower**.”
+«Questo lo sai da settembre.»{chiara} || “You've known that since September.”
+«E nell'**armadio** c'è di tutto.»{ben} || “And in the **wardrobe** there's everything.”
+«Anche tu.»{chiara} || “You too.”
+
+Kevin guarda il tavolo. || Kevin looks at the table.
+«E la **fretta** non si **prepara**.»{ben} || “And **hurry** can't be **prepared**.”
+«No. La **fretta** arriva.»{chiara} || “No. **Hurry** just arrives.”
+«Il **piano** è perfetto sulla carta.»{ben} || “The **plan** is perfect on paper.”
+«Sulla carta è sempre perfetto.»{chiara} || “On paper it's always perfect.”
+
+Chiara mette giù la tazza. || Chiara puts down her cup.
+«Kevin, domani la **sveglia** la metto io.»{chiara} || “Kevin, tomorrow I'll set the **alarm clock**.”
+«Va bene.»{ben} || “Okay.”
+«E il tuo **orologio** va avanti di dieci **minuti**.»{chiara} || “And your **clock** is ten **minutes** fast.”
+«Come lo sai?»{ben} || “How do you know?”
+«Perché io guardo l'**orologio** vero.»{chiara} || “Because I look at the real **clock**.”
+
+Kevin ride. || Kevin laughs.
+È la prima volta oggi. || It's the first time today.
+«Domani **colazione** per tutti. Alle sette.»{ben} || “Tomorrow **breakfast** for everyone. At seven.”
+«Alle sette e un quarto.»{chiara} || “At a quarter past seven.”
+«Alle sette e un quarto.»{ben} || “At a quarter past seven.”
+
+Emma esce dal bagno con il **pigiama**. || Emma comes out of the bathroom in her **pajamas**.
+«Il bagno è libero.»{emma} || “The bathroom is free.”
+«Grazie.»{ben} || “Thanks.”
+Emma va in camera con il telefono. || Emma goes to her room with her phone.
+La porta si chiude piano. || The door closes softly.
+
+Kevin **si lava** i **denti** in tre **minuti**. || Kevin **brushes** his **teeth** in three **minutes**.
+Poi va in camera da letto. || Then he goes into the bedroom.
+Sul letto c'è di nuovo Pavarotti. || On the bed there's Pavarotti again.
+Sul lato di Kevin. || On Kevin's side.
+Il gatto dorme come un re. || The cat sleeps like a king.
+
+Kevin guarda il letto. || Kevin looks at the bed.
+«Anche stasera?»{ben|tired} || “Tonight too?”
+Chiara ride sotto le coperte. || Chiara laughs under the covers.
+«Anche stasera.»{chiara} || “Tonight too.”
+Kevin prende il cuscino. || Kevin takes his pillow.
+«Va bene. Io dormo sul bordo.»{ben} || “Okay. I'll sleep on the edge.”
+«Buonanotte, Kevin.»{chiara} || “Good night, Kevin.”
+«Buonanotte.»{ben} || “Good night.”
+Kevin **si prepara** per la notte. || Kevin **gets ready** for the night.
+Sul bordo del letto. || On the edge of the bed.
+_Il **piano** è bello. Ma il gatto non lo sa._{ben} || *The **plan** is nice. But the cat doesn't know it.*
+
+# SCENE casa-carter | venerdì, sei del mattino | ben, chiara
+Venerdì mattina. || Friday morning.
+Kevin apre gli occhi alle sei in punto. || Kevin opens his eyes at six o'clock exactly.
+Prima della **sveglia**. || Before the **alarm clock**.
+La **sveglia** non suona ancora. || The **alarm clock** isn't ringing yet.
+
+_Mi sono svegliato prima della sveglia. Da solo._{ben} || *I woke up before the alarm clock. By myself.*
+_Sono un professionista._{ben} || *I'm a professional.*
+Kevin sorride nel buio. || Kevin smiles in the dark.
+Il **piano** funziona. || The **plan** works.
+
+Poi Kevin sente un peso sul braccio. || Then Kevin feels a weight on his arm.
+Guarda a destra. || He looks to the right.
+Pavarotti dorme sul suo lato del letto. || Pavarotti is sleeping on his side of the bed.
+Il gatto **si addormenta** sempre lì. || The cat always **falls asleep** there.
+Kevin è in **pigiama** e non si muove. || Kevin is in his **pajamas** and doesn't move.
+
+Chiara apre un occhio. || Chiara opens one eye.
+«Kevin?»{chiara|sleepy} || “Kevin?”
+«Shh.»{ben|whispering} || “Shh.”
+«Che ora è?»{chiara} || “What time is it?”
+«Sei in punto.»{ben} || “Six o'clock exactly.”
+
+«Kevin, la **sveglia** suona fra dieci minuti.»{chiara} || “Kevin, the **alarm clock** rings in ten minutes.”
+«Shh. Parla piano.»{ben} || “Shh. Talk quietly.”
+«Perché?»{chiara} || “Why?”
+«Pavarotti **si addormenta** solo se è tranquillo.»{ben} || “Pavarotti only **falls asleep** if it's quiet.”
+«Pavarotti dorme da otto ore.»{chiara|dry} || “Pavarotti has been sleeping for eight hours.”
+
+Chiara si alza dal letto. || Chiara gets up from the bed.
+Prende le chiavi dal cassetto. || She takes the keys from the drawer.
+Si mette la giacca, senza **fretta**. || She puts on her jacket, without **hurry**.
+«Allora il caffè lo prendo io.»{chiara} || “Then I'll get the coffee.”
+«Da sola. E senza **fretta**.»{chiara} || “Alone. And without **hurry**.”
+La porta si chiude piano. || The door closes quietly.
+Kevin resta nel letto, immobile, con il gatto. || Kevin stays in bed, motionless, with the cat.
+_Il **piano** è perfetto._{ben} || *The **plan** is perfect.*
+Il gatto apre un occhio e poi lo chiude. || The cat opens one eye and then closes it.
+
+@grammar
+# Reflexive Verbs: *mi sveglio*, *ti alzi*, *si lava*
+
+## What it is
+
+Some verbs describe something you do **to yourself**. In English we often say *I wash myself* or just *I wash*, *I get up*, *I get dressed*. In Italian these verbs usually carry a small extra word, a **reflexive pronoun**, in front of the verb:
+
+- *svegliarsi* → **mi sveglio** (I wake up)
+- *alzarsi* → **ti alzi** (you get up)
+- *lavarsi* → **si lava** (he/she washes)
+
+The little word (*mi, ti, si, ci, vi, si*) means *myself, yourself, himself…* It changes with the person. The verb ending also changes, exactly as with any present-tense verb.
+
+Verbs like these are called **reflexive verbs**, and the dictionary form ends in **-si**: *svegliarsi*, *alzarsi*, *lavarsi*, *vestirsi*, *prepararsi*, *addormentarsi*, *chiamarsi*, *sentirsi*, *divertirsi*. They are everywhere in everyday Italian, and the whole morning routine — waking up, washing, getting dressed, going to bed — runs on them.
+
+## How it works
+
+Put the pronoun **before** the verb. Then change the verb ending normally.
+
+| Person | *svegliarsi* | *alzarsi* | *lavarsi* |
+|---|---|---|---|
+| io | mi sveglio | mi alzo | mi lavo |
+| tu | ti svegli | ti alzi | ti lavi |
+| lui / lei / Lei | si sveglia | si alza | si lava |
+| noi | ci svegliamo | ci alziamo | ci laviamo |
+| voi | vi svegliano | vi alzate | vi lavate |
+| loro | si svegliano | si alzano | si lavano |
+
+A few points to hold on to:
+
+- **io → mi**, **tu → ti**, **lui/lei → si**, **noi → ci**, **voi → vi**, **loro → si**. *Si* appears twice (he/she *and* they); the verb ending tells you which one.
+- The pronouns **mi, ti, si, ci, vi** go **before** the verb: *mi lavo*, not *lavo mi*.
+- The subject pronoun (*io, tu…*) is usually left out, because the verb already says who: *mi sveglio alle sei.*
+- Add an object when it matters: *mi lavo i denti* (I brush my teeth), *mi lavo le mani* (I wash my hands). Italian says “I wash myself the teeth / the hands”.
+- The same verbs without the pronoun mean something else: *lavo la macchina* = I wash the car, *alzo la mano* = I raise my hand. With the pronoun, you are doing it to yourself.
+- *chiamarsi* works the same way: *mi chiamo Leo*, *come ti chiami?*
+
+## From the story
+
+[[Kevin si sveglia sempre prima della sveglia.]] — third person *si*, and the nice repetition of the verb and its noun: the verb *svegliarsi* and the object *la sveglia*.
+
+[[Chiara si alza e va alla finestra.]] — *si alza*: she gets herself up. Two verbs, one person, no subject pronoun needed.
+
+[[Terzo: mi lavo i denti.]] — the pronoun *mi* with *io* left out, and the object *i denti*.
+
+[[Adesso io mi lavo e mi vesto.]] — the pronoun is repeated with each verb: *mi lavo... mi vesto*.
+
+[[Io mi preparo bene, tu ti prepari bene, tutti si preparano bene.]] — the same verb in three persons: *mi*, *ti*, *si*.
+
+[[Franco si lava le mani con calma.]] — *si lava le mani*: he washes his own hands.
+
+[[Poi si veste con il pigiama.]] — *vestirsi*, to get dressed; the pronoun is *si* for he or she.
+
+[[Emma va in bagno e si lava.]] — *lavarsi* with no object: she washes herself.
+
+[[Pavarotti si addormenta anche lui.]] — the cat falls asleep too.
+
+[[Leo si addormenta sul divano.]] — *addormentarsi*: to fall asleep, third person singular.
+
+## Common mistakes English speakers make
+
+- **Leaving the pronoun out.** *Sveglio alle sei* is wrong for “I wake up at six”; you need *mi sveglio alle sei*. Without it, you're waking someone else.
+- **Putting the pronoun after the verb.** It goes before: *ti vesti*, not *vesti ti*.
+- **Using the wrong pronoun for the person.** *Tu si svegli* is wrong; *tu ti svegli*. Match the pronoun with the ending.
+- **Adding *io* / *tu* when it isn't needed.** *Io mi sveglio* is fine for emphasis, but *mi sveglio* is the normal way.
+- **Saying *mi lavo i denti* as *lavo i denti*.** If it's your own teeth, the pronoun belongs there.
+
+## Practice
+
+Make each sentence reflexive with the right pronoun, or correct it.
+
+1. (io) ______ sveglio alle sei e mezza.
+2. Luca ______ alza sempre tardi la domenica.
+3. Voi ______ preparate la colazione?
+4. Correggi: Emma si lava i denti. (Change it to *io*.)
+5. Correggi: Tu si veste in tre minuti.
+6. Completa: Noi ______ (alzarsi) alle sette.
+7. Completa: I bambini ______ (addormentarsi) alle otto.
+8. Traduci: “I wash my hands.”
+
+### Answer key
+
+1. **mi** sveglio alle sei e mezza.
+2. Luca **si** alza sempre tardi la domenica.
+3. Voi **vi** preparate la colazione?
+4. **Io mi lavo i denti.** (pronoun *mi* with *io*)
+5. **Tu ti vesti in tre minuti.** (*ti*, not *si*)
+6. Noi **ci alziamo** alle sette.
+7. I bambini **si addormentano** alle otto.
+8. **Mi lavo le mani.**

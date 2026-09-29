@@ -1,0 +1,5 @@
+### s01e18 · Mi sveglio alle sei
+- **Happened:** Kevin's five-point morning «piano» collapses: the house has one shower/bathroom and Emma must catch the 7:30 train to Monza. Leo slips to Franco's at 6:30 in pajamas, learns Franco's 40-year-old morning routine, eats breakfast at Bar Tigli with Matteo, and later falls asleep at the bocce court. Friday Kevin wakes at six before the alarm, and Chiara leaves alone for coffee.
+- **New facts:** Pavarotti, Ornella's gray cat, sleeps on Kevin's side of the bed (and on Leo's feet). Franco wakes at six without an alarm, tends a small orto (tomatoes, zucchini, salad) behind Via dei Tigli 9, and plays bocce at 5 p.m. at Parco dei Tigli, near the church. Leo's outfit: shirt on backwards.
+- **Changed:** From Friday Chiara sets the alarm and breakfast is at 7:15; she tells Kevin his clock runs ten minutes fast, and he accepts. Chiara starts taking her coffee out alone.
+- **Planted:** Franco's grief and silence at home — «Senza Anna, il rumore non c'è» — needs a later payoff.
