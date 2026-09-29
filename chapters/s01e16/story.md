@@ -402,65 +402,9 @@ Kevin guarda i **bidoni**. «Allora **devo** portarli dentro» dice Kevin.
 
 «Sì. **Devi** portarli dentro» dice Nadia.
 
-Kevin porta i **bidoni** in cortile. Poi torna al bar. Matteo prepara un altro caffè. «Adesso dimmi tutto» dice Kevin.
+Kevin porta i **bidoni** in cortile. Poi torna al bar. Matteo prepara un altro caffè. Kevin scrive nel quaderno tutte le regole della **spazzatura**. Poi paga il caffè.
 
-«Tutto?»
-
-«Tutte le regole della **spazzatura**» dice Kevin.
-
-«Ah. Allora: la **carta** il martedì. La **plastica** il giovedì» dice Matteo.
-
-«Il vetro?» chiede Kevin.
-
-«Un altro giorno. Ma questo non lo dico io» dice Matteo.
-
-«E l'**ora**?» chiede Kevin.
-
-«La sera prima. Dalle otto in poi» dice Nadia.
-
-Kevin scrive nel quaderno. «La sera prima. Dalle otto in poi» ripete Kevin.
-
-«E i **bidoni**? Quanti?» chiede Kevin.
-
-«Due. Uno per la **carta**, uno per la **plastica**» dice Nadia.
-
-«Il **bidone** della **carta** è blu?» chiede Kevin.
-
-«No. È giallo» dice Nadia.
-
-«E il **bidone** della **plastica**?»
-
-«Giallo anche quello. Con un simbolo» dice Nadia.
-
-«E devo scrivere il numero civico?» chiede Kevin.
-
-«Sì. Su tutti e due i **bidoni**» dice Nadia.
-
-«Il numero civico. Su tutti e due» ripete Kevin.
-
-Kevin scrive ancora. «La **data** è importantissima» dice Kevin. Sottolinea la parola **data** tre volte. «La **data** è importantissima» ripete.
-
-Matteo guarda Nadia. Nadia guarda Matteo. «Kevin, quanti caffè bevi?» chiede Matteo.
-
-«Due» dice Kevin.
-
-«Adesso tre» dice Matteo.
-
-«**Posso** chiedere un'altra cosa?» chiede Kevin.
-
-«Certo» dice Matteo.
-
-«Se sbaglio la **data**, chi mi dà la **multa**?» chiede Kevin.
-
-«Il **comitato**» dice Nadia.
-
-«Il signor Colombo» dice Kevin.
-
-«Sì. Il signor Colombo» dice Nadia.
-
-Kevin chiude gli occhi un secondo. _Lo so._
-
-Kevin paga il caffè e prende il quaderno. «Grazie. Siete molto gentili» dice Kevin.
+«Grazie. Siete molto gentili» dice Kevin.
 
 «La prossima volta, domanda prima» dice Nadia.
 
@@ -552,7 +496,7 @@ Roberto cerca la **pagina**. «Numero ventidue» dice Roberto.
 
 Roberto sospira. «Solo per oggi» dice Roberto.
 
-Kevin entra in casa. Dentro è tutto molto **pulito**. Tutto è al suo posto. Sul muro c'è un calendario dello **comitato**. Kevin beve il caffè. «Signor Colombo, **posso** chiederle una cosa?» dice Kevin.
+Kevin entra in casa. Dentro è tutto molto **pulito**. Tutto è al suo posto. Sul muro c'è un calendario del **comitato**. Kevin beve il caffè. «Signor Colombo, **posso** chiederle una cosa?» dice Kevin.
 
 «Prego» dice Roberto.
 
@@ -612,7 +556,7 @@ Kevin prende la sua **pagina** firmata. Marina accompagna Kevin alla porta. «Si
 
 Kevin guarda la **siepe**. «È una bella **siepe**» dice Kevin.
 
-Kevin esce nel **marciapiede**. Il **campanello** dei Colombo è ancora lì. Kevin pensa al signor Colombo. _Il **comitato** non è un muro._ _È un **campanello**. Con una regola per aprirlo._ Kevin guarda la **pagina** firmata. Poi va a casa, piano, con il **regolamento** sotto il braccio.
+Kevin esce sul **marciapiede**. Il **campanello** dei Colombo è ancora lì. Kevin pensa al signor Colombo. _Il **comitato** non è un muro._ _È un **campanello**. Con una regola per aprirlo._ Kevin guarda la **pagina** firmata. Poi va a casa, piano, con il **regolamento** sotto il braccio.
 
 ## 6. Casa di Franco, Via dei Tigli 9 · martedì sera
 
@@ -670,7 +614,7 @@ Franco guarda il marciapiede. «**Devo**?» chiede Franco.
 
 «Ah» dice Franco.
 
-«Non Kevin. Non il professore d'italiano» dice Chiara.
+«Non Kevin. Non Matteo» dice Chiara.
 
 «Kevin non **deve** dire niente» dice Franco.
 
@@ -694,7 +638,7 @@ In quel momento arriva Leo. Ha Pavarotti in braccio. Il gatto non **vuole** star
 
 «Parliamo» dice Chiara.
 
-«Litigate?» chiede Leo.
+«**Litigate**?» chiede Leo.
 
 «No» dice Franco.
 
@@ -704,7 +648,7 @@ In quel momento arriva Leo. Ha Pavarotti in braccio. Il gatto non **vuole** star
 
 «Leo, vai dentro» dice Chiara.
 
-«Non **voglio**» dice Leo. Il gatto salta giù. Corre verso il giardino di Franco. «Pavarotti!» dice Leo. Leo corre dietro al gatto. Il **campanello** resta aperto per un secondo.
+«Non **voglio**» dice Leo. Il gatto salta giù. Corre verso il giardino di Franco. «Pavarotti!» dice Leo. Leo corre dietro al gatto. Il cancello resta aperto per un secondo.
 
 Kevin arriva dal numero 14. Ha il quaderno in mano. Vede Chiara e Franco sul gradino. Si ferma a tre metri. «Ciao» dice Kevin.
 
@@ -718,7 +662,7 @@ Chiara lo guarda. «No» dice Chiara.
 
 «Allora io vado a casa» dice Kevin. «Buona notte» dice Kevin. Kevin attraversa la strada. Non dice altro.
 
-Chiara e Franco restano soli. Il **campanello** di casa Ferri è ancora aperto. Nessuno lo chiude. «Domenica pasta al forno» dice Franco.
+Chiara e Franco restano soli. Il cancello di casa Ferri è ancora aperto. Nessuno lo chiude. «Domenica pasta al forno» dice Franco.
 
 «Pasta al forno» ripete Chiara.
 

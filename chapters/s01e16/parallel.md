@@ -302,7 +302,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ogni domenica. Alla stessa **ora**» | “Every Sunday. At the same **time**.” |
 | Franco prende un pezzo di pesce e lo dà al gatto. | Franco takes a piece of fish and gives it to the cat. |
 | Leo guarda Franco e poi il gatto. | Leo looks at Franco and then at the cat. |
-| «Nonno, io lo so come si sta **d'accordo**» dice Leo. | “Grandpa, I know how to get along,” says Leo. |
+| «Nonno, io lo so come si sta **d'accordo**» dice Leo. | “Grandpa, I know how to **get along**,” says Leo. |
 | «Ah sì?» dice Franco. | “Oh yeah?” says Franco. |
 | «Sì. Come Pavarotti e il **bidone**. Siete vicini e separati» dice Leo. | “Yes. Like Pavarotti and the **bin**. You're close and separate,” says Leo. |
 | «Vicini e separati» ripete Franco. | “Close and separate,” repeats Franco. |
@@ -352,7 +352,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Guarda. Martedì: **carta**. Giovedì: **plastica**» dice Kevin. | “Look. Tuesday: **paper**. Thursday: **plastic**,” says Kevin. |
 | Matteo guarda il foglio. | Matteo looks at the sheet. |
 | «Boh. Forse **dobbiamo** leggere meglio il **regolamento**» dice Matteo. | “Huh. Maybe we **have to** read the **rulebook** better,” says Matteo. |
-| «Ma **possiamo** mettere fuori tutto adesso?» chiede Kevin. | “But can we put everything out now?” asks Kevin. |
+| «Ma **possiamo** mettere fuori tutto adesso?» chiede Kevin. | “But **can** we put everything out now?” asks Kevin. |
 | «Adesso? Oggi è lunedì» dice Matteo. | “Now? Today is Monday,” says Matteo, slowly. |
 | Kevin guarda la strada dalla finestra. | Kevin looks at the street from the window. |
 | Pensa ai **bidoni** a casa. | He thinks about the **bins** at home. |
@@ -388,43 +388,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin porta i **bidoni** in cortile. | Kevin takes the **bins** into the yard. |
 | Poi torna al bar. | Then he goes back to the bar. |
 | Matteo prepara un altro caffè. | Matteo makes another coffee. |
-| «Adesso dimmi tutto» dice Kevin. | “Now tell me everything,” says Kevin. |
-| «Tutto?» | “Everything?” |
-| «Tutte le regole della **spazzatura**» dice Kevin. | “All the rules about the **trash**,” says Kevin. |
-| «Ah. Allora: la **carta** il martedì. La **plastica** il giovedì» dice Matteo. | “Ah. So: **paper** on Tuesday. **Plastic** on Thursday.” |
-| «Il vetro?» chiede Kevin. | “Glass?” asks Kevin. |
-| «Un altro giorno. Ma questo non lo dico io» dice Matteo. | “Another day. But I'm not saying that,” says Matteo. |
-| «E l'**ora**?» chiede Kevin. | “And the **time**?” asks Kevin. |
-| «La sera prima. Dalle otto in poi» dice Nadia. | “The night before. From eight o'clock on,” says Nadia. |
-| Kevin scrive nel quaderno. | Kevin writes in his notebook. |
-| «La sera prima. Dalle otto in poi» ripete Kevin. | “The night before. From eight o'clock on,” repeats Kevin. |
-| «E i **bidoni**? Quanti?» chiede Kevin. | “And the **bins**? How many?” asks Kevin. |
-| «Due. Uno per la **carta**, uno per la **plastica**» dice Nadia. | “Two. One for **paper**, one for **plastic**,” says Nadia. |
-| «Il **bidone** della **carta** è blu?» chiede Kevin. | “Is the **paper** **bin** blue?” asks Kevin. |
-| «No. È giallo» dice Nadia. | “No. It's yellow,” says Nadia. |
-| «E il **bidone** della **plastica**?» | “And the **plastic** **bin**?” |
-| «Giallo anche quello. Con un simbolo» dice Nadia. | “Yellow too. With a symbol,” says Nadia. |
-| «E devo scrivere il numero civico?» chiede Kevin. | “And do I have to write the house number?” asks Kevin. |
-| «Sì. Su tutti e due i **bidoni**» dice Nadia. | “Yes. On both **bins**,” says Nadia. |
-| «Il numero civico. Su tutti e due» ripete Kevin. | “The house number. On both,” repeats Kevin. |
-| Kevin scrive ancora. | Kevin writes again. |
-| «La **data** è importantissima» dice Kevin. | “The **date** is very important,” says Kevin. |
-| Sottolinea la parola **data** tre volte. | He underlines the word **date** three times. |
-| «La **data** è importantissima» ripete. | “The **date** is very important,” he repeats, solemnly. |
-| Matteo guarda Nadia. | Matteo looks at Nadia. |
-| Nadia guarda Matteo. | Nadia looks at Matteo. |
-| «Kevin, quanti caffè bevi?» chiede Matteo. | “Kevin, how many coffees do you drink?” asks Matteo. |
-| «Due» dice Kevin. | “Two,” says Kevin. |
-| «Adesso tre» dice Matteo. | “Now three,” says Matteo. |
-| «**Posso** chiedere un'altra cosa?» chiede Kevin. | “Can I ask one more thing?” asks Kevin. |
-| «Certo» dice Matteo. | “Sure,” says Matteo. |
-| «Se sbaglio la **data**, chi mi dà la **multa**?» chiede Kevin. | “If I get the **date** wrong, who gives me the **fine**?” asks Kevin. |
-| «Il **comitato**» dice Nadia. | “The **committee**,” says Nadia. |
-| «Il signor Colombo» dice Kevin. | “Mr. Colombo,” says Kevin. |
-| «Sì. Il signor Colombo» dice Nadia. | “Yes. Mr. Colombo,” says Nadia. |
-| Kevin chiude gli occhi un secondo. | Kevin closes his eyes for a second. |
-| _Lo so._ | _I know._ |
-| Kevin paga il caffè e prende il quaderno. | Kevin pays for the coffee and takes his notebook. |
+| Kevin scrive nel quaderno tutte le regole della **spazzatura**. Poi paga il caffè. | Kevin writes all the garbage rules in his notebook. Then he pays for his coffee. |
 | «Grazie. Siete molto gentili» dice Kevin. | “Thanks. You're very kind,” says Kevin. |
 | «La prossima volta, domanda prima» dice Nadia. | “Next time, ask first,” says Nadia. |
 | «Sì. Domanda prima» dice Kevin. | “Yes. Ask first,” says Kevin. |
@@ -506,26 +470,26 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Numero ventidue» dice Roberto. | “Number twenty-two,” says Roberto. |
 | «Ah. La regola del ventidue» dice Marina. | “Ah. The rule about twenty-two,” says Marina. |
 | «Sì» dice Roberto. | “Yes,” says Roberto. |
-| «E allora io **posso** entrare?» chiede Kevin. | “So can I come in?” asks Kevin. |
+| «E allora io **posso** entrare?» chiede Kevin. | “So **can** I come in?” asks Kevin. |
 | Roberto sospira. | Roberto sighs. |
 | «Solo per oggi» dice Roberto. | “Just for today,” says Roberto. |
 | Kevin entra in casa. | Kevin enters the house. |
 | Dentro è tutto molto **pulito**. | Inside everything is very **clean**. |
 | Tutto è al suo posto. | Everything is in its place. |
-| Sul muro c'è un calendario dello **comitato**. | On the wall there's a **committee** calendar. |
+| Sul muro c'è un calendario del **comitato**. | On the wall there's a **committee** calendar. |
 | Kevin beve il caffè. | Kevin drinks the coffee. |
-| «Signor Colombo, **posso** chiederle una cosa?» dice Kevin. | “Mr. Colombo, can I ask you something?” says Kevin. |
+| «Signor Colombo, **posso** chiederle una cosa?» dice Kevin. | “Mr. Colombo, **can** I ask you something?” says Kevin. |
 | «Prego» dice Roberto. | “Go ahead,” says Roberto. |
 | «**Dobbiamo** fare una piccola festa di via» dice Kevin. | “We **have to** have a little street party,” says Kevin. |
 | «**Dobbiamo**?» chiede Roberto. | “**Have to**?” asks Roberto. |
-| «Cioè... **vorrei** fare una festa» dice Kevin. | “I mean... I'd like to have a party,” says Kevin. |
+| «Cioè... **vorrei** fare una festa» dice Kevin. | “I mean... I'd **like** to have a party,” says Kevin. |
 | Roberto mette giù la tazza. | Roberto puts down his cup. |
 | «Lei **deve** chiedere il **permesso**» dice Roberto. | “You **have to** ask for **permission**,” says Roberto. |
 | «Sì. Chiedo il **permesso**» dice Kevin. | “Yes. I'm asking for **permission**,” says Kevin. |
 | «Per il **comitato**» dice Roberto. | “For the **committee**,” says Roberto. |
 | «Per il **comitato**» ripete Kevin. | “For the **committee**,” repeats Kevin. |
 | «Con una domanda scritta» dice Roberto. | “With a written request,” says Roberto. |
-| «Scritta. **Posso** scrivere io la domanda?» chiede Kevin. | “Written. Can I write the request myself?” asks Kevin. |
+| «Scritta. **Posso** scrivere io la domanda?» chiede Kevin. | “Written. **Can** I write the request myself?” asks Kevin. |
 | «**Può** scrivere Lei» dice Roberto. | “You **can** write it,” says Roberto. |
 | «Ma il **comitato** decide» dice Roberto. | “But the **committee** decides,” says Roberto. |
 | «Certo» dice Kevin. | “Of course,” says Kevin. |
@@ -560,7 +524,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «La **siepe** per lui è... una questione di cuore» dice Marina. | “The **hedge** for him is... a matter of the heart,” says Marina. |
 | Kevin guarda la **siepe**. | Kevin looks at the **hedge**. |
 | «È una bella **siepe**» dice Kevin. | “It's a beautiful **hedge**,” says Kevin. |
-| Kevin esce nel **marciapiede**. | Kevin steps out onto the **sidewalk**. |
+| Kevin esce sul **marciapiede**. | Kevin steps out onto the **sidewalk**. |
 | Il **campanello** dei Colombo è ancora lì. | The Colombo **doorbell** is still there. |
 | Kevin pensa al signor Colombo. | Kevin thinks about Mr. Colombo. |
 | _Il **comitato** non è un muro._ | _The **committee** isn't a wall._ |
@@ -616,8 +580,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora perché **sei** **arrabbiata**?» chiede Franco. | “Then why **are** you **angry**?” asks Franco. |
 | «Perché **dovevi** dirmelo tu» dice Chiara. | “Because you **had to** be the one to tell me,” says Chiara. |
 | «Ah» dice Franco. | “Ah,” says Franco. |
-| «Non Kevin. Non il professore d'italiano» dice Chiara. | “Not Kevin. Not the Italian teacher,” says Chiara. |
-| «Kevin non **deve** dire niente» dice Franco. | “Kevin shouldn't say anything,” says Franco. |
+| «Non Kevin. Non Matteo» dice Chiara. | “Not Kevin. Not Matteo,” says Chiara. |
+| «Kevin non **deve** dire niente» dice Franco. | “Kevin **shouldn't** say anything,” says Franco. |
 | «Kevin non dice niente. Kevin copre» dice Chiara. | “Kevin doesn't say anything. Kevin covers,” says Chiara. |
 | Franco mette le mani in tasca. | Franco puts his hands in his pockets. |
 | «E domenica?» chiede Franco. | “And Sunday?” asks Franco. |
@@ -634,7 +598,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ciao, Leo» dice Franco. | “Hi, Leo,” says Franco. |
 | «Perché siete fuori?» chiede Leo. | “Why are you outside?” asks Leo. |
 | «Parliamo» dice Chiara. | “We're talking,” says Chiara. |
-| «Litigate?» chiede Leo. | “Are you **arguing**?” asks Leo. |
+| «**Litigate**?» chiede Leo. | “Are you **arguing**?” asks Leo. |
 | «No» dice Franco. | “No,” says Franco. |
 | «Sì» dice Chiara nello stesso momento. | “Yes,” says Chiara at the same moment. |
 | Leo guarda prima uno, poi l'altro. | Leo looks at one, then the other. |
@@ -647,7 +611,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Corre verso il giardino di Franco. | He runs toward Franco's garden. |
 | «Pavarotti!» dice Leo. | “Pavarotti!” says Leo. |
 | Leo corre dietro al gatto. | Leo runs after the cat. |
-| Il **campanello** resta aperto per un secondo. | The **doorbell** stays open for a second. |
+| Il cancello resta aperto per un secondo. | The gate stays open for a second. |
 | Kevin arriva dal numero 14. | Kevin arrives from number 14. |
 | Ha il quaderno in mano. | He has the notebook in his hand. |
 | Vede Chiara e Franco sul gradino. | He sees Chiara and Franco on the step. |
@@ -667,7 +631,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin attraversa la strada. | Kevin crosses the street. |
 | Non dice altro. | He doesn't say anything else. |
 | Chiara e Franco restano soli. | Chiara and Franco stay alone. |
-| Il **campanello** di casa Ferri è ancora aperto. | The **doorbell** of the Ferri house is still open. |
+| Il cancello di casa Ferri è ancora aperto. | The gate of the Ferri house is still open. |
 | Nessuno lo chiude. | Nobody closes it. |
 | «Domenica pasta al forno» dice Franco. | “Sunday baked pasta,” says Franco. |
 | «Pasta al forno» ripete Chiara. | “Baked pasta,” repeats Chiara. |
@@ -689,7 +653,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin sorride un po'. | Kevin smiles a little. |
 | Dentro casa, Franco brontola da solo. | Inside the house, Franco grumbles to himself. |
 | «L'americano ha una nuova **abitudine**» dice Franco. | “The American has a new **habit**,” says Franco, grumbling. |
-| «Capire quando non **deve** parlare» dice Franco. | “Understanding when he shouldn't talk,” says Franco. |
+| «Capire quando non **deve** parlare» dice Franco. | “Understanding when he **shouldn't** talk,” says Franco. |
 | Poi Franco guarda il telefono. | Then Franco looks at the phone. |
 | Nessun messaggio. | No message. |
 | Però la porta non è chiusa a chiave. | But the door isn't locked. |

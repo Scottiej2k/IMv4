@@ -27,14 +27,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **il regolamento**<br>(n., m) · rulebook, regulations | «Quale **regolamento**?» chiede Chiara. | “Which **rulebook**?” asks Chiara. |
-| **la spazzatura**<br>(n., f) · trash, garbage | «Tutte le regole della **spazzatura**» dice Kevin. | “All the rules about the **trash**,” says Kevin. |
+| **la spazzatura**<br>(n., f) · trash, garbage | Guarda la **spazzatura** di tutta la via. | She looks at the whole street's **trash**. |
 | **il permesso**<br>(n., m) · permission, permit | Poi scrive la parola **permesso** sotto. | Then he writes the word **permission** underneath. |
 | **la siepe**<br>(n., f) · hedge | «**Siepe**» dice Kevin, piano. | “**Hedge**,” says Kevin, slowly. |
 | **la carta**<br>(n., f) · paper | «La **carta**? Il giovedì» dice Matteo. | “The **paper**? On Thursday,” says Matteo. |
-| **la plastica**<br>(n., f) · plastic | «E il bidone della **plastica**?» | “And the plastic **bin**?” |
+| **la plastica**<br>(n., f) · plastic | «Martedì è la **plastica**» dice Matteo. | “Tuesday is **plastic**,” says Matteo. |
 | **il bidone**<br>(n., m) · bin, trash can | Kevin guarda i **bidoni**. | Kevin looks at the **bins**. |
 | **il comitato**<br>(n., m) · committee | «Il **comitato**?» chiede Kevin. | “The **committee**?” asks Kevin. |
-| **l'ora**<br>(n., f) · hour, time | «E l'**ora**?» chiede Kevin. | “And the **time**?” asks Kevin. |
+| **l'ora**<br>(n., f) · hour, time | «Ogni domenica. Alla stessa **ora**» | “Every Sunday. At the same **time**.” |
 | **il marciapiede**<br>(n., m) · sidewalk | Franco guarda il **marciapiede**. | Franco looks at the **sidewalk**. |
 | **il campanello**<br>(n., m) · doorbell | All'improvviso suona il **campanello**. | Suddenly the **doorbell** rings. |
 | **la multa**<br>(n., f) · fine, ticket | «C'è una **multa**» dice Roberto. | “There's a **fine**,” says Roberto. |

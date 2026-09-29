@@ -13314,7 +13314,8 @@
         "s01e16-4-052",
         "s01e16-4-053",
         "s01e16-4-054",
-        "s01e16-4-055"
+        "s01e16-4-055",
+        "s01e16-4-056"
       ],
       "words": [
         [
@@ -13324,7 +13325,8 @@
           "s01e16-4-052:4-5",
           "s01e16-4-053:0-5",
           "s01e16-4-054:0-3",
-          "s01e16-4-055:0-4"
+          "s01e16-4-055:0-4",
+          "s01e16-4-056:0-12"
         ]
       ],
       "request": {
@@ -13346,7 +13348,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Nadia. Kevin porta i bidoni in cortile. Poi torna al bar. Matteo prepara un altro caffè.",
+                "text": "dice Nadia. Kevin porta i bidoni in cortile. Poi torna al bar. Matteo prepara un altro caffè. Kevin scrive nel quaderno tutte le regole della spazzatura. Poi paga il caffè.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13387,14 +13389,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-056"
+        "s01e16-4-057"
       ],
       "words": [
         [
-          "s01e16-4-056:0-2"
+          "s01e16-4-057:0-3"
         ],
         [
-          "s01e16-4-056:3-4"
+          "s01e16-4-057:4-5"
         ]
       ],
       "request": {
@@ -13403,1847 +13405,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Adesso dimmi tutto",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 168,
-      "scene": 4,
-      "speakers": {
-        "matteo": "matteo",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e16-4-057",
-        "s01e16-4-058"
-      ],
-      "words": [
-        [
-          "s01e16-4-057:0-0"
-        ],
-        [
-          "s01e16-4-058:0-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Tutto?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Tutte le regole della spazzatura",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 169,
-      "scene": 4,
-      "speakers": {
-        "narrator": "narrator",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e16-4-058",
-        "s01e16-4-059"
-      ],
-      "words": [
-        [
-          "s01e16-4-058:5-6"
-        ],
-        [
-          "s01e16-4-059:0-9"
-        ],
-        [
-          "s01e16-4-059:10-11"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ah. Allora: la carta il martedì. La plastica il giovedì",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 170,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-060"
-      ],
-      "words": [
-        [
-          "s01e16-4-060:0-1"
-        ],
-        [
-          "s01e16-4-060:2-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Il vetro?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 171,
-      "scene": 4,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-061"
-      ],
-      "words": [
-        [
-          "s01e16-4-061:0-8"
-        ],
-        [
-          "s01e16-4-061:9-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Un altro giorno. Ma questo non lo dico io",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 172,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-062"
-      ],
-      "words": [
-        [
-          "s01e16-4-062:0-1"
-        ],
-        [
-          "s01e16-4-062:2-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "E l'ora?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 173,
-      "scene": 4,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-063",
-        "s01e16-4-064"
-      ],
-      "words": [
-        [
-          "s01e16-4-063:0-6"
-        ],
-        [
-          "s01e16-4-063:7-8",
-          "s01e16-4-064:0-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "La sera prima. Dalle otto in poi",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Nadia. Kevin scrive nel quaderno.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 174,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-065",
-        "s01e16-4-066"
-      ],
-      "words": [
-        [
-          "s01e16-4-065:0-6"
-        ],
-        [
-          "s01e16-4-065:7-8"
-        ],
-        [
-          "s01e16-4-066:0-3"
-        ],
-        [
-          "s01e16-4-066:4-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "La sera prima. Dalle otto in poi",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "ripete Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "E i bidoni? Quanti?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 175,
-      "scene": 4,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-067"
-      ],
-      "words": [
-        [
-          "s01e16-4-067:0-8"
-        ],
-        [
-          "s01e16-4-067:9-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Due. Uno per la carta, uno per la plastica",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Nadia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 176,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-068"
-      ],
-      "words": [
-        [
-          "s01e16-4-068:0-5"
-        ],
-        [
-          "s01e16-4-068:6-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Il bidone della carta è blu?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 177,
-      "scene": 4,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-069"
-      ],
-      "words": [
-        [
-          "s01e16-4-069:0-2"
-        ],
-        [
-          "s01e16-4-069:3-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "No. È giallo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Nadia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 178,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "nadia": "nadia"
-      },
-      "segment_ids": [
-        "s01e16-4-070",
-        "s01e16-4-071"
-      ],
-      "words": [
-        [
-          "s01e16-4-070:0-4"
-        ],
-        [
-          "s01e16-4-071:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "E il bidone della plastica?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Giallo anche quello. Con un simbolo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 179,
-      "scene": 4,
-      "speakers": {
-        "narrator": "narrator",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e16-4-071",
-        "s01e16-4-072"
-      ],
-      "words": [
-        [
-          "s01e16-4-071:6-7"
-        ],
-        [
-          "s01e16-4-072:0-5"
-        ],
-        [
-          "s01e16-4-072:6-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "dice Nadia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "E devo scrivere il numero civico?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 180,
-      "scene": 4,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-073"
-      ],
-      "words": [
-        [
-          "s01e16-4-073:0-6"
-        ],
-        [
-          "s01e16-4-073:7-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sì. Su tutti e due i bidoni",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Nadia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 181,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-074",
-        "s01e16-4-075",
-        "s01e16-4-076",
-        "s01e16-4-077",
-        "s01e16-4-078",
-        "s01e16-4-079",
-        "s01e16-4-080"
-      ],
-      "words": [
-        [
-          "s01e16-4-074:0-6"
-        ],
-        [
-          "s01e16-4-074:7-8",
-          "s01e16-4-075:0-2"
-        ],
-        [
-          "s01e16-4-076:0-3"
-        ],
-        [
-          "s01e16-4-076:4-5",
-          "s01e16-4-077:0-5"
-        ],
-        [
-          "s01e16-4-078:0-3"
-        ],
-        [
-          "s01e16-4-078:4-4",
-          "s01e16-4-079:0-2",
-          "s01e16-4-080:0-2"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Il numero civico. Su tutti e due",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "ripete Kevin. Kevin scrive ancora.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "La data è importantissima",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin. Sottolinea la parola data tre volte.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "La data è importantissima",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, solemn"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "ripete. Matteo guarda Nadia. Nadia guarda Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 182,
-      "scene": 4,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-081"
-      ],
-      "words": [
-        [
-          "s01e16-4-081:0-3"
-        ],
-        [
-          "s01e16-4-081:4-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Kevin, quanti caffè bevi?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 183,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-082"
-      ],
-      "words": [
-        [
-          "s01e16-4-082:0-0"
-        ],
-        [
-          "s01e16-4-082:1-2"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Due",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 184,
-      "scene": 4,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-083"
-      ],
-      "words": [
-        [
-          "s01e16-4-083:0-1"
-        ],
-        [
-          "s01e16-4-083:2-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Adesso tre",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 185,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-084"
-      ],
-      "words": [
-        [
-          "s01e16-4-084:0-3"
-        ],
-        [
-          "s01e16-4-084:4-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Posso chiedere un'altra cosa?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 186,
-      "scene": 4,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-085"
-      ],
-      "words": [
-        [
-          "s01e16-4-085:0-0"
-        ],
-        [
-          "s01e16-4-085:1-2"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Certo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 187,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-086"
-      ],
-      "words": [
-        [
-          "s01e16-4-086:0-8"
-        ],
-        [
-          "s01e16-4-086:9-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Se sbaglio la data, chi mi dà la multa?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 188,
-      "scene": 4,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-087"
-      ],
-      "words": [
-        [
-          "s01e16-4-087:0-1"
-        ],
-        [
-          "s01e16-4-087:2-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Il comitato",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Nadia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 189,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-088"
-      ],
-      "words": [
-        [
-          "s01e16-4-088:0-2"
-        ],
-        [
-          "s01e16-4-088:3-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Il signor Colombo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 190,
-      "scene": 4,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-089",
-        "s01e16-4-090"
-      ],
-      "words": [
-        [
-          "s01e16-4-089:0-3"
-        ],
-        [
-          "s01e16-4-089:4-5",
-          "s01e16-4-090:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sì. Il signor Colombo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Nadia. Kevin chiude gli occhi un secondo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 191,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e16-4-091",
-        "s01e16-4-092",
-        "s01e16-4-093"
-      ],
-      "words": [
-        [
-          "s01e16-4-091:0-1"
-        ],
-        [
-          "s01e16-4-092:0-7"
-        ],
-        [
-          "s01e16-4-093:0-3"
-        ],
-        [
-          "s01e16-4-093:4-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Lo so.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin paga il caffè e prende il quaderno.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "Grazie. Siete molto gentili",
@@ -15291,21 +13452,21 @@
       }
     },
     {
-      "index": 192,
+      "index": 168,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-094"
+        "s01e16-4-058"
       ],
       "words": [
         [
-          "s01e16-4-094:0-4"
+          "s01e16-4-058:0-4"
         ],
         [
-          "s01e16-4-094:5-6"
+          "s01e16-4-058:5-6"
         ]
       ],
       "request": {
@@ -15361,32 +13522,32 @@
       }
     },
     {
-      "index": 193,
+      "index": 169,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-095",
-        "s01e16-4-096",
-        "s01e16-4-097",
-        "s01e16-4-098"
+        "s01e16-4-059",
+        "s01e16-4-060",
+        "s01e16-4-061",
+        "s01e16-4-062"
       ],
       "words": [
         [
-          "s01e16-4-095:0-2"
+          "s01e16-4-059:0-2"
         ],
         [
-          "s01e16-4-095:3-4",
-          "s01e16-4-096:0-6",
-          "s01e16-4-097:0-3"
+          "s01e16-4-059:3-4",
+          "s01e16-4-060:0-6",
+          "s01e16-4-061:0-3"
         ],
         [
-          "s01e16-4-098:0-5"
+          "s01e16-4-062:0-5"
         ],
         [
-          "s01e16-4-098:6-7"
+          "s01e16-4-062:6-7"
         ]
       ],
       "request": {
@@ -15464,21 +13625,21 @@
       }
     },
     {
-      "index": 194,
+      "index": 170,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-099"
+        "s01e16-4-063"
       ],
       "words": [
         [
-          "s01e16-4-099:0-1"
+          "s01e16-4-063:0-1"
         ],
         [
-          "s01e16-4-099:2-3"
+          "s01e16-4-063:2-3"
         ]
       ],
       "request": {
@@ -15534,21 +13695,21 @@
       }
     },
     {
-      "index": 195,
+      "index": 171,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-100"
+        "s01e16-4-064"
       ],
       "words": [
         [
-          "s01e16-4-100:0-5"
+          "s01e16-4-064:0-5"
         ],
         [
-          "s01e16-4-100:6-7"
+          "s01e16-4-064:6-7"
         ]
       ],
       "request": {
@@ -15604,25 +13765,25 @@
       }
     },
     {
-      "index": 196,
+      "index": 172,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-101",
-        "s01e16-4-102",
-        "s01e16-4-103"
+        "s01e16-4-065",
+        "s01e16-4-066",
+        "s01e16-4-067"
       ],
       "words": [
         [
-          "s01e16-4-101:0-3"
+          "s01e16-4-065:0-3"
         ],
         [
-          "s01e16-4-101:4-5",
-          "s01e16-4-102:0-5",
-          "s01e16-4-103:0-3"
+          "s01e16-4-065:4-5",
+          "s01e16-4-066:0-5",
+          "s01e16-4-067:0-3"
         ]
       ],
       "request": {
@@ -15678,21 +13839,21 @@
       }
     },
     {
-      "index": 197,
+      "index": 173,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-104"
+        "s01e16-4-068"
       ],
       "words": [
         [
-          "s01e16-4-104:0-4"
+          "s01e16-4-068:0-4"
         ],
         [
-          "s01e16-4-104:5-6"
+          "s01e16-4-068:5-6"
         ]
       ],
       "request": {
@@ -15748,21 +13909,21 @@
       }
     },
     {
-      "index": 198,
+      "index": 174,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-105"
+        "s01e16-4-069"
       ],
       "words": [
         [
-          "s01e16-4-105:0-0"
+          "s01e16-4-069:0-0"
         ],
         [
-          "s01e16-4-105:1-2"
+          "s01e16-4-069:1-2"
         ]
       ],
       "request": {
@@ -15818,21 +13979,21 @@
       }
     },
     {
-      "index": 199,
+      "index": 175,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-106"
+        "s01e16-4-070"
       ],
       "words": [
         [
-          "s01e16-4-106:0-6"
+          "s01e16-4-070:0-6"
         ],
         [
-          "s01e16-4-106:7-8"
+          "s01e16-4-070:7-8"
         ]
       ],
       "request": {
@@ -15888,21 +14049,21 @@
       }
     },
     {
-      "index": 200,
+      "index": 176,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-107"
+        "s01e16-4-071"
       ],
       "words": [
         [
-          "s01e16-4-107:0-0"
+          "s01e16-4-071:0-0"
         ],
         [
-          "s01e16-4-107:1-2"
+          "s01e16-4-071:1-2"
         ]
       ],
       "request": {
@@ -15958,23 +14119,23 @@
       }
     },
     {
-      "index": 201,
+      "index": 177,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-108",
-        "s01e16-4-109"
+        "s01e16-4-072",
+        "s01e16-4-073"
       ],
       "words": [
         [
-          "s01e16-4-108:0-5"
+          "s01e16-4-072:0-5"
         ],
         [
-          "s01e16-4-108:6-7",
-          "s01e16-4-109:0-3"
+          "s01e16-4-072:6-7",
+          "s01e16-4-073:0-3"
         ]
       ],
       "request": {
@@ -16030,21 +14191,21 @@
       }
     },
     {
-      "index": 202,
+      "index": 178,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-110"
+        "s01e16-4-074"
       ],
       "words": [
         [
-          "s01e16-4-110:0-4"
+          "s01e16-4-074:0-4"
         ],
         [
-          "s01e16-4-110:5-6"
+          "s01e16-4-074:5-6"
         ]
       ],
       "request": {
@@ -16100,21 +14261,21 @@
       }
     },
     {
-      "index": 203,
+      "index": 179,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-111"
+        "s01e16-4-075"
       ],
       "words": [
         [
-          "s01e16-4-111:0-4"
+          "s01e16-4-075:0-4"
         ],
         [
-          "s01e16-4-111:5-6"
+          "s01e16-4-075:5-6"
         ]
       ],
       "request": {
@@ -16170,21 +14331,21 @@
       }
     },
     {
-      "index": 204,
+      "index": 180,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-112"
+        "s01e16-4-076"
       ],
       "words": [
         [
-          "s01e16-4-112:0-7"
+          "s01e16-4-076:0-7"
         ],
         [
-          "s01e16-4-112:8-9"
+          "s01e16-4-076:8-9"
         ]
       ],
       "request": {
@@ -16240,29 +14401,29 @@
       }
     },
     {
-      "index": 205,
+      "index": 181,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e16-4-113",
-        "s01e16-4-114",
-        "s01e16-4-115",
-        "s01e16-4-116",
-        "s01e16-4-117"
+        "s01e16-4-077",
+        "s01e16-4-078",
+        "s01e16-4-079",
+        "s01e16-4-080",
+        "s01e16-4-081"
       ],
       "words": [
         [
-          "s01e16-4-113:0-0"
+          "s01e16-4-077:0-0"
         ],
         [
-          "s01e16-4-113:1-2",
-          "s01e16-4-114:0-5",
-          "s01e16-4-115:0-8",
-          "s01e16-4-116:0-2",
-          "s01e16-4-117:0-2"
+          "s01e16-4-077:1-2",
+          "s01e16-4-078:0-5",
+          "s01e16-4-079:0-8",
+          "s01e16-4-080:0-2",
+          "s01e16-4-081:0-2"
         ]
       ],
       "request": {
@@ -16318,7 +14479,7 @@
       }
     },
     {
-      "index": 206,
+      "index": 182,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -16452,7 +14613,7 @@
       }
     },
     {
-      "index": 207,
+      "index": 183,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16522,7 +14683,7 @@
       }
     },
     {
-      "index": 208,
+      "index": 184,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -16592,7 +14753,7 @@
       }
     },
     {
-      "index": 209,
+      "index": 185,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16662,7 +14823,7 @@
       }
     },
     {
-      "index": 210,
+      "index": 186,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -16732,7 +14893,7 @@
       }
     },
     {
-      "index": 211,
+      "index": 187,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16804,7 +14965,7 @@
       }
     },
     {
-      "index": 212,
+      "index": 188,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -16874,7 +15035,7 @@
       }
     },
     {
-      "index": 213,
+      "index": 189,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16977,7 +15138,7 @@
       }
     },
     {
-      "index": 214,
+      "index": 190,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -17049,7 +15210,7 @@
       }
     },
     {
-      "index": 215,
+      "index": 191,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17119,7 +15280,7 @@
       }
     },
     {
-      "index": 216,
+      "index": 192,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -17189,7 +15350,7 @@
       }
     },
     {
-      "index": 217,
+      "index": 193,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17261,7 +15422,7 @@
       }
     },
     {
-      "index": 218,
+      "index": 194,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -17331,7 +15492,7 @@
       }
     },
     {
-      "index": 219,
+      "index": 195,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17430,7 +15591,7 @@
       }
     },
     {
-      "index": 220,
+      "index": 196,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -17500,7 +15661,7 @@
       }
     },
     {
-      "index": 221,
+      "index": 197,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17576,7 +15737,7 @@
       }
     },
     {
-      "index": 222,
+      "index": 198,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -17650,7 +15811,7 @@
       }
     },
     {
-      "index": 223,
+      "index": 199,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -17720,7 +15881,7 @@
       }
     },
     {
-      "index": 224,
+      "index": 200,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17790,7 +15951,7 @@
       }
     },
     {
-      "index": 225,
+      "index": 201,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -17860,7 +16021,7 @@
       }
     },
     {
-      "index": 226,
+      "index": 202,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -17930,7 +16091,7 @@
       }
     },
     {
-      "index": 227,
+      "index": 203,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18000,7 +16161,7 @@
       }
     },
     {
-      "index": 228,
+      "index": 204,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -18072,7 +16233,7 @@
       }
     },
     {
-      "index": 229,
+      "index": 205,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18142,7 +16303,7 @@
       }
     },
     {
-      "index": 230,
+      "index": 206,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -18212,7 +16373,7 @@
       }
     },
     {
-      "index": 231,
+      "index": 207,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18282,7 +16443,7 @@
       }
     },
     {
-      "index": 232,
+      "index": 208,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18354,7 +16515,7 @@
       }
     },
     {
-      "index": 233,
+      "index": 209,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18400,7 +16561,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Roberto. Kevin entra in casa. Dentro è tutto molto pulito. Tutto è al suo posto. Sul muro c'è un calendario dello comitato. Kevin beve il caffè.",
+                "text": "dice Roberto. Kevin entra in casa. Dentro è tutto molto pulito. Tutto è al suo posto. Sul muro c'è un calendario del comitato. Kevin beve il caffè.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -18434,7 +16595,7 @@
       }
     },
     {
-      "index": 234,
+      "index": 210,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18504,7 +16665,7 @@
       }
     },
     {
-      "index": 235,
+      "index": 211,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18574,7 +16735,7 @@
       }
     },
     {
-      "index": 236,
+      "index": 212,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18644,7 +16805,7 @@
       }
     },
     {
-      "index": 237,
+      "index": 213,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18714,7 +16875,7 @@
       }
     },
     {
-      "index": 238,
+      "index": 214,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18786,7 +16947,7 @@
       }
     },
     {
-      "index": 239,
+      "index": 215,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18856,7 +17017,7 @@
       }
     },
     {
-      "index": 240,
+      "index": 216,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18926,7 +17087,7 @@
       }
     },
     {
-      "index": 241,
+      "index": 217,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -18996,7 +17157,7 @@
       }
     },
     {
-      "index": 242,
+      "index": 218,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19066,7 +17227,7 @@
       }
     },
     {
-      "index": 243,
+      "index": 219,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -19136,7 +17297,7 @@
       }
     },
     {
-      "index": 244,
+      "index": 220,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19206,7 +17367,7 @@
       }
     },
     {
-      "index": 245,
+      "index": 221,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -19305,7 +17466,7 @@
       }
     },
     {
-      "index": 246,
+      "index": 222,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19375,7 +17536,7 @@
       }
     },
     {
-      "index": 247,
+      "index": 223,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -19445,7 +17606,7 @@
       }
     },
     {
-      "index": 248,
+      "index": 224,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19517,7 +17678,7 @@
       }
     },
     {
-      "index": 249,
+      "index": 225,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -19587,7 +17748,7 @@
       }
     },
     {
-      "index": 250,
+      "index": 226,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19688,7 +17849,7 @@
       }
     },
     {
-      "index": 251,
+      "index": 227,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -19826,7 +17987,7 @@
       }
     },
     {
-      "index": 252,
+      "index": 228,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19896,7 +18057,7 @@
       }
     },
     {
-      "index": 253,
+      "index": 229,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -19966,7 +18127,7 @@
       }
     },
     {
-      "index": 254,
+      "index": 230,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20036,7 +18197,7 @@
       }
     },
     {
-      "index": 255,
+      "index": 231,
       "scene": 5,
       "speakers": {
         "roberto": "roberto",
@@ -20106,7 +18267,7 @@
       }
     },
     {
-      "index": 256,
+      "index": 232,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20184,7 +18345,7 @@
       }
     },
     {
-      "index": 257,
+      "index": 233,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -20254,7 +18415,7 @@
       }
     },
     {
-      "index": 258,
+      "index": 234,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20324,7 +18485,7 @@
       }
     },
     {
-      "index": 259,
+      "index": 235,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -20394,7 +18555,7 @@
       }
     },
     {
-      "index": 260,
+      "index": 236,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20464,7 +18625,7 @@
       }
     },
     {
-      "index": 261,
+      "index": 237,
       "scene": 5,
       "speakers": {
         "marina": "marina",
@@ -20536,7 +18697,7 @@
       }
     },
     {
-      "index": 262,
+      "index": 238,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20590,7 +18751,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Kevin. Kevin esce nel marciapiede. Il campanello dei Colombo è ancora lì. Kevin pensa al signor Colombo.",
+                "text": "dice Kevin. Kevin esce sul marciapiede. Il campanello dei Colombo è ancora lì. Kevin pensa al signor Colombo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20646,7 +18807,7 @@
       }
     },
     {
-      "index": 263,
+      "index": 239,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -20749,7 +18910,7 @@
       }
     },
     {
-      "index": 264,
+      "index": 240,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -20850,7 +19011,7 @@
       }
     },
     {
-      "index": 265,
+      "index": 241,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -20922,7 +19083,7 @@
       }
     },
     {
-      "index": 266,
+      "index": 242,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -20992,7 +19153,7 @@
       }
     },
     {
-      "index": 267,
+      "index": 243,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21062,7 +19223,7 @@
       }
     },
     {
-      "index": 268,
+      "index": 244,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21136,7 +19297,7 @@
       }
     },
     {
-      "index": 269,
+      "index": 245,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21206,7 +19367,7 @@
       }
     },
     {
-      "index": 270,
+      "index": 246,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21276,7 +19437,7 @@
       }
     },
     {
-      "index": 271,
+      "index": 247,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21346,7 +19507,7 @@
       }
     },
     {
-      "index": 272,
+      "index": 248,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21416,7 +19577,7 @@
       }
     },
     {
-      "index": 273,
+      "index": 249,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21486,7 +19647,7 @@
       }
     },
     {
-      "index": 274,
+      "index": 250,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21556,7 +19717,7 @@
       }
     },
     {
-      "index": 275,
+      "index": 251,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21630,7 +19791,7 @@
       }
     },
     {
-      "index": 276,
+      "index": 252,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21702,7 +19863,7 @@
       }
     },
     {
-      "index": 277,
+      "index": 253,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21772,7 +19933,7 @@
       }
     },
     {
-      "index": 278,
+      "index": 254,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21842,7 +20003,7 @@
       }
     },
     {
-      "index": 279,
+      "index": 255,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -21912,7 +20073,7 @@
       }
     },
     {
-      "index": 280,
+      "index": 256,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -21984,7 +20145,7 @@
       }
     },
     {
-      "index": 281,
+      "index": 257,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22054,7 +20215,7 @@
       }
     },
     {
-      "index": 282,
+      "index": 258,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22124,7 +20285,7 @@
       }
     },
     {
-      "index": 283,
+      "index": 259,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22194,7 +20355,7 @@
       }
     },
     {
-      "index": 284,
+      "index": 260,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22264,7 +20425,7 @@
       }
     },
     {
-      "index": 285,
+      "index": 261,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22334,7 +20495,7 @@
       }
     },
     {
-      "index": 286,
+      "index": 262,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22404,7 +20565,7 @@
       }
     },
     {
-      "index": 287,
+      "index": 263,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22474,7 +20635,7 @@
       }
     },
     {
-      "index": 288,
+      "index": 264,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22485,10 +20646,10 @@
       ],
       "words": [
         [
-          "s01e16-6-045:0-5"
+          "s01e16-6-045:0-3"
         ],
         [
-          "s01e16-6-045:6-7"
+          "s01e16-6-045:4-5"
         ]
       ],
       "request": {
@@ -22499,7 +20660,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Non Kevin. Non il professore d'italiano",
+                "text": "Non Kevin. Non Matteo",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -22544,7 +20705,7 @@
       }
     },
     {
-      "index": 289,
+      "index": 265,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22614,7 +20775,7 @@
       }
     },
     {
-      "index": 290,
+      "index": 266,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22686,7 +20847,7 @@
       }
     },
     {
-      "index": 291,
+      "index": 267,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22756,7 +20917,7 @@
       }
     },
     {
-      "index": 292,
+      "index": 268,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22826,7 +20987,7 @@
       }
     },
     {
-      "index": 293,
+      "index": 269,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -22927,7 +21088,7 @@
       }
     },
     {
-      "index": 294,
+      "index": 270,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -22997,7 +21158,7 @@
       }
     },
     {
-      "index": 295,
+      "index": 271,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -23073,7 +21234,7 @@
       }
     },
     {
-      "index": 296,
+      "index": 272,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -23143,7 +21304,7 @@
       }
     },
     {
-      "index": 297,
+      "index": 273,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -23213,7 +21374,7 @@
       }
     },
     {
-      "index": 298,
+      "index": 274,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -23283,7 +21444,7 @@
       }
     },
     {
-      "index": 299,
+      "index": 275,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -23353,7 +21514,7 @@
       }
     },
     {
-      "index": 300,
+      "index": 276,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -23423,7 +21584,7 @@
       }
     },
     {
-      "index": 301,
+      "index": 277,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -23493,7 +21654,7 @@
       }
     },
     {
-      "index": 302,
+      "index": 278,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -23565,7 +21726,7 @@
       }
     },
     {
-      "index": 303,
+      "index": 279,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -23666,7 +21827,7 @@
       }
     },
     {
-      "index": 304,
+      "index": 280,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -23736,7 +21897,7 @@
       }
     },
     {
-      "index": 305,
+      "index": 281,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -23817,7 +21978,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Leo. Leo corre dietro al gatto. Il campanello resta aperto per un secondo. Kevin arriva dal numero 14. Ha il quaderno in mano. Vede Chiara e Franco sul gradino. Si ferma a tre metri.",
+                "text": "dice Leo. Leo corre dietro al gatto. Il cancello resta aperto per un secondo. Kevin arriva dal numero 14. Ha il quaderno in mano. Vede Chiara e Franco sul gradino. Si ferma a tre metri.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -23851,7 +22012,7 @@
       }
     },
     {
-      "index": 306,
+      "index": 282,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -23921,7 +22082,7 @@
       }
     },
     {
-      "index": 307,
+      "index": 283,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -23991,7 +22152,7 @@
       }
     },
     {
-      "index": 308,
+      "index": 284,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -24067,7 +22228,7 @@
       }
     },
     {
-      "index": 309,
+      "index": 285,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -24154,7 +22315,7 @@
       }
     },
     {
-      "index": 310,
+      "index": 286,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -24224,7 +22385,7 @@
       }
     },
     {
-      "index": 311,
+      "index": 287,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -24299,7 +22460,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Kevin. Kevin attraversa la strada. Non dice altro. Chiara e Franco restano soli. Il campanello di casa Ferri è ancora aperto. Nessuno lo chiude.",
+                "text": "dice Kevin. Kevin attraversa la strada. Non dice altro. Chiara e Franco restano soli. Il cancello di casa Ferri è ancora aperto. Nessuno lo chiude.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -24333,7 +22494,7 @@
       }
     },
     {
-      "index": 312,
+      "index": 288,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -24403,7 +22564,7 @@
       }
     },
     {
-      "index": 313,
+      "index": 289,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -24473,7 +22634,7 @@
       }
     },
     {
-      "index": 314,
+      "index": 290,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -24545,7 +22706,7 @@
       }
     },
     {
-      "index": 315,
+      "index": 291,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -24617,7 +22778,7 @@
       }
     },
     {
-      "index": 316,
+      "index": 292,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -24687,7 +22848,7 @@
       }
     },
     {
-      "index": 317,
+      "index": 293,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -24757,7 +22918,7 @@
       }
     },
     {
-      "index": 318,
+      "index": 294,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -24827,7 +22988,7 @@
       }
     },
     {
-      "index": 319,
+      "index": 295,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -24934,7 +23095,7 @@
       }
     },
     {
-      "index": 320,
+      "index": 296,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -25004,7 +23165,7 @@
       }
     },
     {
-      "index": 321,
+      "index": 297,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -25078,7 +23239,7 @@
       }
     },
     {
-      "index": 322,
+      "index": 298,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -25185,7 +23346,7 @@
       }
     },
     {
-      "index": 323,
+      "index": 299,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -25286,7 +23447,7 @@
       }
     },
     {
-      "index": 324,
+      "index": 300,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -25356,7 +23517,7 @@
       }
     },
     {
-      "index": 325,
+      "index": 301,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -25426,7 +23587,7 @@
       }
     },
     {
-      "index": 326,
+      "index": 302,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -25496,7 +23657,7 @@
       }
     },
     {
-      "index": 327,
+      "index": 303,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -25574,7 +23735,7 @@
       }
     },
     {
-      "index": 328,
+      "index": 304,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -25644,7 +23805,7 @@
       }
     },
     {
-      "index": 329,
+      "index": 305,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -25715,7 +23876,7 @@
       }
     },
     {
-      "index": 330,
+      "index": 306,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -25800,7 +23961,7 @@
       }
     },
     {
-      "index": 331,
+      "index": 307,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -25870,7 +24031,7 @@
       }
     },
     {
-      "index": 332,
+      "index": 308,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -25940,7 +24101,7 @@
       }
     },
     {
-      "index": 333,
+      "index": 309,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -26012,7 +24173,7 @@
       }
     },
     {
-      "index": 334,
+      "index": 310,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -26084,7 +24245,7 @@
       }
     },
     {
-      "index": 335,
+      "index": 311,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -26154,7 +24315,7 @@
       }
     },
     {
-      "index": 336,
+      "index": 312,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
