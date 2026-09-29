@@ -107,7 +107,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sono le sette e mezza di **mattina**. | It's seven thirty in the **morning**. |
 | Via dei Tigli è quasi vuota e fa molto freddo. | Via dei Tigli is almost empty and it's very cold. |
 | Leo attraversa la strada in pigiama. | Leo crosses the street in his pajamas. |
-| Ha una **calza** in mano e corre verso il numero nove. | He has a stocking in his hand and runs toward number nine. |
+| Ha una **calza** in mano e corre verso il numero nove. | He has a **stocking** in his hand and runs toward number nine. |
 | Emma lo segue con il giubbotto e le scarpe da ginnastica. | Emma follows him with her jacket and sneakers. |
 | «Leo, aspettami!» | “Leo, wait for me!” |
 | «La **Befana**! Devo vedere la **Befana**!» | “The **Befana**! I have to see the **Befana**!” |
@@ -153,8 +153,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quale **verità**?» | “What **truth**?” |
 | «Oggi è una giornata importante. Tutto qui.» | “Today is an important day. That's all.” |
 | Emma annuisce lentamente. | Emma nods slowly. |
-| «**Domani** venite a **pranzo**?» | “**Tomorrow** will you come for **lunch**?” |
-| «**Domani**?» | “**Tomorrow**?” |
+| «**Domenica** venite a **pranzo**?» | “**Sunday**, will you come for **lunch**?” |
+| «**Domenica**?» | “**Sunday**?” |
 | «Sì. Pasta e **biscotti**. E la **verità**, forse.» | “Yes. Pasta and **cookies**. And the **truth**, maybe.” |
 | Emma lo guarda negli occhi. | Emma looks him in the eyes. |
 | «Nonno, che cosa...» | “Grandpa, what...” |
@@ -164,7 +164,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo è già per strada con la **calza** in alto. | Leo is already in the street with the **stocking** held high. |
 | «Emma! Trenta **biscotti**!» | “Emma! Thirty **cookies**!” |
 | Emma guarda ancora la porta chiusa. | Emma looks again at the closed door. |
-| _La **sciarpa** rossa. Il **pranzo** di **domani**. Qualcosa non va._ | _The red **scarf**. **Tomorrow's** **lunch**. Something isn't right._ |
+| _La **sciarpa** rossa. Il **pranzo** di **domenica**. Qualcosa non va._ | _The red **scarf**. **Sunday's** **lunch**. Something isn't right._ |
 
 ## 3. Casa di Franco, Via dei Tigli 9 · la mattina del 6 gennaio
 
@@ -202,7 +202,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma è in piedi vicino alla finestra. | Emma is standing near the window. |
 | Guarda la **sciarpa** rossa di Lucia. | She looks at Lucia's red **scarf**. |
 | _È la stessa **sciarpa**. Quella di nonno._ | _It's the same **scarf**. Grandpa's one._ |
-| _La signora del pranzo di Natale. L'amico del corso._ | _The lady from Christmas **lunch**. The friend from the course._ |
+| _La signora del **pranzo** di Natale. L'amico del corso._ | _The lady from Christmas **lunch**. The friend from the course._ |
 | Emma beve un sorso d'acqua e non dice niente. | Emma takes a sip of water and says nothing. |
 | «Signora, un'altra domanda.» | “Ma'am, another question.” |
 | «Un'altra?» | “Another one?” |
@@ -299,7 +299,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara chiude il **quaderno** con un colpo. | Chiara closes the **notebook** with a snap. |
 | «Papà ha una ragazza. Una vera ragazza.» | “Dad has a girlfriend. A real girlfriend.” |
 | Nessuno parla. | Nobody speaks. |
-| «E tu lo sai. Da **tardi**. Da quando?» | “And you know. Since **late**. Since when?” |
+| «E tu lo sai. Da quando?» | “And you know. Since when?” |
 | «Chiara...» | “Chiara...” |
 | «Da Natale? Da **novembre**? Da **lunedì**?» | “Since Christmas? Since **November**? Since **Monday**?” |
 | «Non è il momento giusto.» | “It's not the right moment.” |
@@ -369,7 +369,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara parla piano, ma veloce. | Chiara speaks quietly, but fast. |
 | «E Kevin? Kevin lo sa da settembre?» | “And Kevin? Has Kevin known since September?” |
 | Franco non risponde subito. | Franco doesn't answer right away. |
-| «Kevin è un bravo ragazzo.» | “Kevin is a good kid.” |
+| «L'americano è un bravo ragazzo.» | “The American is a good kid.” |
 | «Kevin è mio marito, papà. E lui mi dice bugie.» | “Kevin is my husband, Dad. And he tells me lies.” |
 | «Non è colpa sua.» | “It's not his fault.” |
 | «Di chi è la colpa?» | “Whose fault is it?” |
@@ -418,7 +418,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Italiano | English |
 |---|---|
-| È **martedì mattina**, il 7 **gennaio**. | It's **Tuesday morning**, January 7th. |
+| È **mercoledì mattina**, il 7 **gennaio**. | It's **Wednesday morning**, January 7th. |
 | Fuori fa freddo e Bar Tigli è pieno di gente. | It's cold outside and Bar Tigli is full of people. |
 | Kevin entra con il suo **calendario** sotto il braccio. | Kevin comes in with his **calendar** under his arm. |
 | Sul **calendario** ci sono linee rosse dappertutto. | On the **calendar** there are red lines everywhere. |
@@ -491,7 +491,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah. Sì.» | “Ah. Yes.” |
 | «Bene. Adesso il **calendario** è quasi giusto.» | “Good. Now the **calendar** is almost right.” |
 | «Quasi?» | “Almost?” |
-| «Kevin, **domani** è mercoledì. E mercoledì è un altro giorno.» | “Kevin, **tomorrow** is Wednesday. And Wednesday is another day.” |
+| «Kevin, **domani** è giovedì. E giovedì è un altro giorno.» | “Kevin, **tomorrow** is Thursday. And Thursday is another day.” |
 | «Un altro **mese**?» | “Another **month**?” |
 | «Un altro giorno, Kevin. Un giorno.» | “Another day, Kevin. One day.” |
 | Matteo ride forte. | Matteo laughs loudly. |
@@ -518,7 +518,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma apre la bocca e poi la chiude. | Emma opens her mouth and then closes it. |
 | «Boh.» | “I don't know.” |
 | Leo pensa un momento. | Leo thinks for a moment. |
-| «La signora Luciamangia molto **cioccolato**.» | “Signora Lucia eats a lot of **chocolate**.” |
+| «La signora Lucia mangia molto **cioccolato**.» | “Signora Lucia eats a lot of **chocolate**.” |
 | «Sì. E allora?» | “Yes. So what?” |
 | «E anche nonno Franco mangia **cioccolato**.» | “And Grandpa Franco eats **chocolate** too.” |
 | Emma guarda il soffitto. | Emma looks at the ceiling. |

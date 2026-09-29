@@ -209,7 +209,7 @@
       "lemma": "domani",
       "pos": "adverb",
       "en": "tomorrow",
-      "example": "s01e15-2-050",
+      "example": "s01e15-1-060",
       "target": {
         "it": "Domani",
         "en": "Tomorrow"
@@ -6820,7 +6820,7 @@
             {
               "id": "s01e15-2-004",
               "it": "Ha una **calza** in mano e corre verso il numero nove.",
-              "en": "He has a stocking in his hand and runs toward number nine.",
+              "en": "He has a **stocking** in his hand and runs toward number nine.",
               "voice": [
                 [
                   "narrator",
@@ -10270,12 +10270,12 @@
           "segments": [
             {
               "id": "s01e15-2-050",
-              "it": "«**Domani** venite a **pranzo**?»",
-              "en": "“**Tomorrow** will you come for **lunch**?”",
+              "it": "«**Domenica** venite a **pranzo**?»",
+              "en": "“**Sunday**, will you come for **lunch**?”",
               "voice": [
                 [
                   "franco",
-                  "**Domani** venite a **pranzo**?",
+                  "**Domenica** venite a **pranzo**?",
                   ""
                 ]
               ],
@@ -10286,7 +10286,7 @@
                   ""
                 ],
                 [
-                  "Domani",
+                  "Domenica",
                   0,
                   "b"
                 ],
@@ -10327,7 +10327,7 @@
                 ]
               ],
               "focus": [
-                "v-domani",
+                "g-time-dates",
                 "v-pranzo"
               ]
             }
@@ -10337,12 +10337,12 @@
           "segments": [
             {
               "id": "s01e15-2-051",
-              "it": "«**Domani**?»",
-              "en": "“**Tomorrow**?”",
+              "it": "«**Domenica**?»",
+              "en": "“**Sunday**?”",
               "voice": [
                 [
                   "emma",
-                  "**Domani**?",
+                  "**Domenica**?",
                   ""
                 ]
               ],
@@ -10353,7 +10353,7 @@
                   ""
                 ],
                 [
-                  "Domani",
+                  "Domenica",
                   0,
                   "b"
                 ],
@@ -10364,7 +10364,7 @@
                 ]
               ],
               "focus": [
-                "v-domani"
+                "g-time-dates"
               ]
             }
           ]
@@ -10985,12 +10985,12 @@
             },
             {
               "id": "s01e15-2-061",
-              "it": "_La **sciarpa** rossa. Il **pranzo** di **domani**. Qualcosa non va._",
-              "en": "_The red **scarf**. **Tomorrow's** **lunch**. Something isn't right._",
+              "it": "_La **sciarpa** rossa. Il **pranzo** di **domenica**. Qualcosa non va._",
+              "en": "_The red **scarf**. **Sunday's** **lunch**. Something isn't right._",
               "voice": [
                 [
                   "emma",
-                  "La **sciarpa** rossa. Il **pranzo** di **domani**. Qualcosa non va.",
+                  "La **sciarpa** rossa. Il **pranzo** di **domenica**. Qualcosa non va.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -11056,7 +11056,7 @@
                   "i"
                 ],
                 [
-                  "domani",
+                  "domenica",
                   6,
                   "bi"
                 ],
@@ -11099,7 +11099,7 @@
               "focus": [
                 "v-sciarpa",
                 "v-pranzo",
-                "v-domani"
+                "g-time-dates"
               ]
             }
           ]
@@ -13511,12 +13511,12 @@
             },
             {
               "id": "s01e15-3-033",
-              "it": "_La signora del pranzo di Natale. L'amico del corso._",
+              "it": "_La signora del **pranzo** di Natale. L'amico del corso._",
               "en": "_The lady from Christmas **lunch**. The friend from the course._",
               "voice": [
                 [
                   "emma",
-                  "La signora del pranzo di Natale. L'amico del corso.",
+                  "La signora del **pranzo** di Natale. L'amico del corso.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -13554,7 +13554,7 @@
                 [
                   "pranzo",
                   3,
-                  "i"
+                  "bi"
                 ],
                 [
                   " ",
@@ -13611,6 +13611,9 @@
                   -1,
                   "i"
                 ]
+              ],
+              "focus": [
+                "v-pranzo"
               ]
             },
             {
@@ -20491,12 +20494,12 @@
             },
             {
               "id": "s01e15-4-066",
-              "it": "«E tu lo sai. Da **tardi**. Da quando?»",
-              "en": "“And you know. Since **late**. Since when?”",
+              "it": "«E tu lo sai. Da quando?»",
+              "en": "“And you know. Since when?”",
               "voice": [
                 [
                   "chiara",
-                  "E tu lo sai. Da **tardi**. Da quando?",
+                  "E tu lo sai. Da quando?",
                   ""
                 ]
               ],
@@ -20557,28 +20560,8 @@
                   ""
                 ],
                 [
-                  "tardi",
-                  5,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Da",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "quando",
-                  7,
+                  5,
                   ""
                 ],
                 [
@@ -20586,9 +20569,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-tardi"
               ]
             }
           ]
@@ -25080,12 +25060,12 @@
             },
             {
               "id": "s01e15-5-047",
-              "it": "«Kevin è un bravo ragazzo.»",
-              "en": "“Kevin is a good kid.”",
+              "it": "«L'americano è un bravo ragazzo.»",
+              "en": "“The American is a good kid.”",
               "voice": [
                 [
                   "franco",
-                  "Kevin è un bravo ragazzo.",
+                  "L'americano è un bravo ragazzo.",
                   ""
                 ]
               ],
@@ -25096,7 +25076,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "L'americano",
                   0,
                   ""
                 ],
@@ -28372,12 +28352,12 @@
           "segments": [
             {
               "id": "s01e15-6-001",
-              "it": "È **martedì mattina**, il 7 **gennaio**.",
-              "en": "It's **Tuesday morning**, January 7th.",
+              "it": "È **mercoledì mattina**, il 7 **gennaio**.",
+              "en": "It's **Wednesday morning**, January 7th.",
               "voice": [
                 [
                   "narrator",
-                  "È **martedì mattina**, il 7 **gennaio**.",
+                  "È **mercoledì mattina**, il 7 **gennaio**.",
                   ""
                 ]
               ],
@@ -28393,7 +28373,7 @@
                   ""
                 ],
                 [
-                  "martedì",
+                  "mercoledì",
                   1,
                   "b"
                 ],
@@ -33604,12 +33584,12 @@
           "segments": [
             {
               "id": "s01e15-6-074",
-              "it": "«Kevin, **domani** è mercoledì. E mercoledì è un altro giorno.»",
-              "en": "“Kevin, **tomorrow** is Wednesday. And Wednesday is another day.”",
+              "it": "«Kevin, **domani** è giovedì. E giovedì è un altro giorno.»",
+              "en": "“Kevin, **tomorrow** is Thursday. And Thursday is another day.”",
               "voice": [
                 [
                   "nadia",
-                  "Kevin, **domani** è mercoledì. E mercoledì è un altro giorno.",
+                  "Kevin, **domani** è giovedì. E giovedì è un altro giorno.",
                   ""
                 ]
               ],
@@ -33650,7 +33630,7 @@
                   ""
                 ],
                 [
-                  "mercoledì",
+                  "giovedì",
                   3,
                   ""
                 ],
@@ -33670,7 +33650,7 @@
                   ""
                 ],
                 [
-                  "mercoledì",
+                  "giovedì",
                   5,
                   ""
                 ],
@@ -35196,12 +35176,12 @@
             },
             {
               "id": "s01e15-7-015",
-              "it": "«La signora Luciamangia molto **cioccolato**.»",
+              "it": "«La signora Lucia mangia molto **cioccolato**.»",
               "en": "“Signora Lucia eats a lot of **chocolate**.”",
               "voice": [
                 [
                   "leo",
-                  "La signora Luciamangia molto **cioccolato**.",
+                  "La signora Lucia mangia molto **cioccolato**.",
                   ""
                 ]
               ],
@@ -35232,7 +35212,7 @@
                   ""
                 ],
                 [
-                  "Luciamangia",
+                  "Lucia",
                   2,
                   ""
                 ],
@@ -35242,7 +35222,7 @@
                   ""
                 ],
                 [
-                  "molto",
+                  "mangia",
                   3,
                   ""
                 ],
@@ -35252,8 +35232,18 @@
                   ""
                 ],
                 [
-                  "cioccolato",
+                  "molto",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cioccolato",
+                  5,
                   "b"
                 ],
                 [

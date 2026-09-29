@@ -3827,7 +3827,7 @@
               },
               {
                 "type": "text",
-                "text": "Domani venite a pranzo?",
+                "text": "Domenica venite a pranzo?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3887,7 +3887,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Domani?",
+                "text": "Domenica?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4170,7 +4170,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La sciarpa rossa. Il pranzo di domani. Qualcosa non va.",
+                "text": "La sciarpa rossa. Il pranzo di domenica. Qualcosa non va.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7320,7 +7320,7 @@
           "s01e15-4-065:0-1"
         ],
         [
-          "s01e15-4-066:0-7"
+          "s01e15-4-066:0-5"
         ]
       ],
       "request": {
@@ -7353,7 +7353,7 @@
               },
               {
                 "type": "text",
-                "text": "E tu lo sai. Da tardi. Da quando?",
+                "text": "E tu lo sai. Da quando?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8980,7 +8980,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin è un bravo ragazzo.",
+                "text": "L'americano è un bravo ragazzo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9968,7 +9968,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È martedì mattina, il 7 gennaio. Fuori fa freddo e Bar Tigli è pieno di gente. Kevin entra con il suo calendario sotto il braccio. Sul calendario ci sono linee rosse dappertutto. Matteo è dietro il bancone.",
+                "text": "È mercoledì mattina, il 7 gennaio. Fuori fa freddo e Bar Tigli è pieno di gente. Kevin entra con il suo calendario sotto il braccio. Sul calendario ci sono linee rosse dappertutto. Matteo è dietro il bancone.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11641,7 +11641,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin, domani è mercoledì. E mercoledì è un altro giorno.",
+                "text": "Kevin, domani è giovedì. E giovedì è un altro giorno.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12287,7 +12287,7 @@
       ],
       "words": [
         [
-          "s01e15-7-015:0-4"
+          "s01e15-7-015:0-5"
         ],
         [
           "s01e15-7-016:0-2"
@@ -12304,7 +12304,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La signora Luciamangia molto cioccolato.",
+                "text": "La signora Lucia mangia molto cioccolato.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

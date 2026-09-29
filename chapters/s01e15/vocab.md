@@ -28,7 +28,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **la sciarpa**<br>(n., f) · scarf | «Dov'è la **sciarpa**, papà?» | “Where's the **scarf**, Dad?” |
 | **la data**<br>(n., f) · date | «Papà, scrivi anche la **data**?» | “Dad, are you writing the **date** too?” |
 | **il pomeriggio**<br>(n., m) · afternoon | «Nel **pomeriggio** lavoro. Ho il corso di ballo.» | “In the **afternoon** I work. I have my dance class.” |
-| **il pranzo**<br>(n., m) · lunch | «Domani venite a **pranzo**?» | “Tomorrow will you come for **lunch**?” |
+| **il pranzo**<br>(n., m) · lunch | «Domenica venite a **pranzo**?» | “Sunday, will you come for **lunch**?” |
 | **il cioccolato**<br>(n., m) · chocolate | «Il **cioccolato** è buonissimo.» | “The **chocolate** is really good.” |
 | **il biscotto**<br>(n., m) · cookie, biscuit | «Trenta **biscotti**. Forse più.» | “Thirty **cookies**. Maybe more.” |
 | **la verità**<br>(n., f) · truth | «E la **verità**?» chiede a Emma. | “And the **truth**?” Franco asks Emma. |
@@ -41,4 +41,4 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|---|
 | **presto**<br>(adv.) · early, soon | «Per te è **presto**?» | “For you it's **early**?” |
 | **tardi**<br>(adv.) · late | «E quando torni? **Tardi**?» | “And when do you come back? **Late**?” |
-| **domani**<br>(adv.) · tomorrow | «**Domani** venite a pranzo?» | “**Tomorrow** will you come for lunch?” |
+| **domani**<br>(adv.) · tomorrow | «Sì. **Domani** è il 6 gennaio.» | “Yes. **Tomorrow** is January 6th.” |

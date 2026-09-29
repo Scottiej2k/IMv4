@@ -166,9 +166,9 @@ Franco sistema la camicia. «Perché la **Befana** non ama le domande.»
 
 «Oggi è una giornata importante. Tutto qui.» Emma annuisce lentamente.
 
-«**Domani** venite a **pranzo**?»
+«**Domenica** venite a **pranzo**?»
 
-«**Domani**?»
+«**Domenica**?»
 
 «Sì. Pasta e **biscotti**. E la **verità**, forse.»
 
@@ -178,7 +178,7 @@ Emma lo guarda negli occhi. «Nonno, che cosa...»
 
 Leo è già per strada con la **calza** in alto. «Emma! Trenta **biscotti**!»
 
-Emma guarda ancora la porta chiusa. _La **sciarpa** rossa. Il **pranzo** di **domani**. Qualcosa non va._
+Emma guarda ancora la porta chiusa. _La **sciarpa** rossa. Il **pranzo** di **domenica**. Qualcosa non va._
 
 ## 3. Casa di Franco, Via dei Tigli 9 · la mattina del 6 gennaio
 
@@ -220,7 +220,7 @@ Lucia pensa un momento. «In Ohio no. Ma in Ohio c'è Babbo Natale.»
 
 «Ah. Ok.»
 
-Emma è in piedi vicino alla finestra. Guarda la **sciarpa** rossa di Lucia. _È la stessa **sciarpa**. Quella di nonno._ _La signora del pranzo di Natale. L'amico del corso._ Emma beve un sorso d'acqua e non dice niente.
+Emma è in piedi vicino alla finestra. Guarda la **sciarpa** rossa di Lucia. _È la stessa **sciarpa**. Quella di nonno._ _La signora del **pranzo** di Natale. L'amico del corso._ Emma beve un sorso d'acqua e non dice niente.
 
 «Signora, un'altra domanda.»
 
@@ -334,7 +334,7 @@ Chiara si alza dal tavolo. «Kevin, il tuo **amico del corso d'italiano**...»
 
 Emma è seduta e ascolta tutto. _Ah. Adesso capisco. La **sciarpa** è di nonno._ _La signora Lucia è la sua ragazza. E papà lo sa._ Emma guarda Kevin e Kevin guarda il pavimento.
 
-Chiara chiude il **quaderno** con un colpo. «Papà ha una ragazza. Una vera ragazza.» Nessuno parla. «E tu lo sai. Da **tardi**. Da quando?»
+Chiara chiude il **quaderno** con un colpo. «Papà ha una ragazza. Una vera ragazza.» Nessuno parla. «E tu lo sai. Da quando?»
 
 «Chiara...»
 
@@ -420,7 +420,7 @@ Franco appoggia il **biscotto** nel piatto. «La **verità** è semplice. Lucia 
 
 Chiara parla piano, ma veloce. «E Kevin? Kevin lo sa da settembre?»
 
-Franco non risponde subito. «Kevin è un bravo ragazzo.»
+Franco non risponde subito. «L'americano è un bravo ragazzo.»
 
 «Kevin è mio marito, papà. E lui mi dice bugie.»
 
@@ -480,7 +480,7 @@ Chiara è alla porta. Franco resta al tavolo, con la seconda tazza piena. «Chia
 
 ## 6. Bar Tigli · la mattina del 7 gennaio
 
-È **martedì mattina**, il 7 **gennaio**. Fuori fa freddo e Bar Tigli è pieno di gente. Kevin entra con il suo **calendario** sotto il braccio. Sul **calendario** ci sono linee rosse dappertutto. Matteo è dietro il bancone. «Caffè?»
+È **mercoledì mattina**, il 7 **gennaio**. Fuori fa freddo e Bar Tigli è pieno di gente. Kevin entra con il suo **calendario** sotto il braccio. Sul **calendario** ci sono linee rosse dappertutto. Matteo è dietro il bancone. «Caffè?»
 
 «Sì. Doppio.»
 
@@ -582,7 +582,7 @@ Nadia prende la penna dalle mani di Matteo. Cancella la parola e scrive **pranzo
 
 «Quasi?»
 
-«Kevin, **domani** è mercoledì. E mercoledì è un altro giorno.»
+«Kevin, **domani** è giovedì. E giovedì è un altro giorno.»
 
 «Un altro **mese**?»
 
@@ -610,7 +610,7 @@ Leo guarda la sua **calza**. «Allora chi porta le **calze**?»
 
 Emma apre la bocca e poi la chiude. «Boh.»
 
-Leo pensa un momento. «La signora Luciamangia molto **cioccolato**.»
+Leo pensa un momento. «La signora Lucia mangia molto **cioccolato**.»
 
 «Sì. E allora?»
 

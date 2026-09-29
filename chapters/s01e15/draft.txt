@@ -129,7 +129,7 @@ Leo è contento. La calza è appesa. || Leo is happy. The stocking is hanging.
 Sono le sette e mezza di **mattina**. || It's seven thirty in the **morning**.
 Via dei Tigli è quasi vuota e fa molto freddo. || Via dei Tigli is almost empty and it's very cold.
 Leo attraversa la strada in pigiama. || Leo crosses the street in his pajamas.
-Ha una **calza** in mano e corre verso il numero nove. || He has a stocking in his hand and runs toward number nine.
+Ha una **calza** in mano e corre verso il numero nove. || He has a **stocking** in his hand and runs toward number nine.
 Emma lo segue con il giubbotto e le scarpe da ginnastica. || Emma follows him with her jacket and sneakers.
 «Leo, aspettami!»{emma} || “Leo, wait for me!”
 «La **Befana**! Devo vedere la **Befana**!»{leo|excited} || “The **Befana**! I have to see the **Befana**!”
@@ -180,8 +180,8 @@ Franco sistema la camicia. || Franco adjusts his shirt.
 «Oggi è una giornata importante. Tutto qui.»{franco} || “Today is an important day. That's all.”
 Emma annuisce lentamente. || Emma nods slowly.
 
-«**Domani** venite a **pranzo**?»{franco} || “**Tomorrow** will you come for **lunch**?”
-«**Domani**?»{emma} || “**Tomorrow**?”
+«**Domenica** venite a **pranzo**?»{franco} || “**Sunday**, will you come for **lunch**?”
+«**Domenica**?»{emma} || “**Sunday**?”
 «Sì. Pasta e **biscotti**. E la **verità**, forse.»{franco|dry} || “Yes. Pasta and **cookies**. And the **truth**, maybe.”
 Emma lo guarda negli occhi. || Emma looks him in the eyes.
 «Nonno, che cosa...»{emma} || “Grandpa, what...”
@@ -191,7 +191,7 @@ Troppo in fretta. || Too fast.
 Leo è già per strada con la **calza** in alto. || Leo is already in the street with the **stocking** held high.
 «Emma! Trenta **biscotti**!»{leo|excited} || “Emma! Thirty **cookies**!”
 Emma guarda ancora la porta chiusa. || Emma looks again at the closed door.
-_La **sciarpa** rossa. Il **pranzo** di **domani**. Qualcosa non va._{emma} || *The red **scarf**. **Tomorrow's** **lunch**. Something isn't right.*
+_La **sciarpa** rossa. Il **pranzo** di **domenica**. Qualcosa non va._{emma} || *The red **scarf**. **Sunday's** **lunch**. Something isn't right.*
 
 # SCENE casa-franco | la mattina del 6 gennaio | lucia, franco, leo, emma
 **Alle otto** in punto suona il campanello. || **At eight** o'clock on the dot the doorbell rings.
@@ -229,7 +229,7 @@ Lucia pensa un momento. || Lucia thinks for a moment.
 Emma è in piedi vicino alla finestra. || Emma is standing near the window.
 Guarda la **sciarpa** rossa di Lucia. || She looks at Lucia's red **scarf**.
 _È la stessa **sciarpa**. Quella di nonno._{emma} || *It's the same **scarf**. Grandpa's one.*
-_La signora del pranzo di Natale. L'amico del corso._{emma} || *The lady from Christmas **lunch**. The friend from the course.*
+_La signora del **pranzo** di Natale. L'amico del corso._{emma} || *The lady from Christmas **lunch**. The friend from the course.*
 Emma beve un sorso d'acqua e non dice niente. || Emma takes a sip of water and says nothing.
 
 «Signora, un'altra domanda.»{leo} || “Ma'am, another question.”
@@ -333,7 +333,7 @@ Emma guarda Kevin e Kevin guarda il pavimento. || Emma looks at Kevin and Kevin 
 Chiara chiude il **quaderno** con un colpo. || Chiara closes the **notebook** with a snap.
 «Papà ha una ragazza. Una vera ragazza.»{chiara} || “Dad has a girlfriend. A real girlfriend.”
 Nessuno parla. || Nobody speaks.
-«E tu lo sai. Da **tardi**. Da quando?»{chiara} || “And you know. Since **late**. Since when?”
+«E tu lo sai. Da quando?»{chiara} || “And you know. Since when?”
 «Chiara...»{ben} || “Chiara...”
 «Da Natale? Da **novembre**? Da **lunedì**?»{chiara} || “Since Christmas? Since **November**? Since **Monday**?”
 «Non è il momento giusto.»{ben} || “It's not the right moment.”
@@ -406,7 +406,7 @@ Franco appoggia il **biscotto** nel piatto. || Franco puts the **cookie** down o
 Chiara parla piano, ma veloce. || Chiara speaks quietly, but fast.
 «E Kevin? Kevin lo sa da settembre?»{chiara} || “And Kevin? Has Kevin known since September?”
 Franco non risponde subito. || Franco doesn't answer right away.
-«Kevin è un bravo ragazzo.»{franco} || “Kevin is a good kid.”
+«L'americano è un bravo ragazzo.»{franco} || “The American is a good kid.”
 «Kevin è mio marito, papà. E lui mi dice bugie.»{chiara} || “Kevin is my husband, Dad. And he tells me lies.”
 «Non è colpa sua.»{franco} || “It's not his fault.”
 «Di chi è la colpa?»{chiara} || “Whose fault is it?”
@@ -456,7 +456,7 @@ Franco beve il secondo caffè da solo. || Franco drinks the second coffee alone.
 «Bah.»{franco} || “Bah.”
 
 # SCENE bar-tigli | la mattina del 7 gennaio | ben, matteo, nadia
-È **martedì mattina**, il 7 **gennaio**. || It's **Tuesday morning**, January 7th.
+È **mercoledì mattina**, il 7 **gennaio**. || It's **Wednesday morning**, January 7th.
 Fuori fa freddo e Bar Tigli è pieno di gente. || It's cold outside and Bar Tigli is full of people.
 Kevin entra con il suo **calendario** sotto il braccio. || Kevin comes in with his **calendar** under his arm.
 Sul **calendario** ci sono linee rosse dappertutto. || On the **calendar** there are red lines everywhere.
@@ -536,7 +536,7 @@ Cancella la parola e scrive **pranzo**. || She erases the word and writes **lunc
 «Ah. Sì.»{ben|relieved} || “Ah. Yes.”
 «Bene. Adesso il **calendario** è quasi giusto.»{nadia} || “Good. Now the **calendar** is almost right.”
 «Quasi?»{ben} || “Almost?”
-«Kevin, **domani** è mercoledì. E mercoledì è un altro giorno.»{nadia} || “Kevin, **tomorrow** is Wednesday. And Wednesday is another day.”
+«Kevin, **domani** è giovedì. E giovedì è un altro giorno.»{nadia} || “Kevin, **tomorrow** is Thursday. And Thursday is another day.”
 «Un altro **mese**?»{ben|hopeful} || “Another **month**?”
 «Un altro giorno, Kevin. Un giorno.»{nadia} || “Another day, Kevin. One day.”
 Matteo ride forte. || Matteo laughs loudly.
@@ -561,7 +561,7 @@ Emma apre la bocca e poi la chiude. || Emma opens her mouth and then closes it.
 «Boh.»{emma} || “I don't know.”
 
 Leo pensa un momento. || Leo thinks for a moment.
-«La signora Luciamangia molto **cioccolato**.»{leo} || “Signora Lucia eats a lot of **chocolate**.”
+«La signora Lucia mangia molto **cioccolato**.»{leo} || “Signora Lucia eats a lot of **chocolate**.”
 «Sì. E allora?»{emma} || “Yes. So what?”
 «E anche nonno Franco mangia **cioccolato**.»{leo} || “And Grandpa Franco eats **chocolate** too.”
 Emma guarda il soffitto. || Emma looks at the ceiling.
