@@ -147,6 +147,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma spends Tuesday afternoon with Tommaso filling coriandoli boxes at the Centro civico and calls the afternoon "bello"; Bianca, masked, deliberately looks away. Franco agrees to attend Leo's party.
 - **Planted:** Emma–Tommaso closeness (ongoing). Franco's old tram hat as a possible keepsake.
 
+### s01e21 · Al mercato
+- **Happened:** Ornella (sore knee) asked Kevin to do her shopping; Kevin went to the Tuesday market with Franco, learned etto/chilo/grammi and got a one-euro sconto from the fruit seller; Matteo pitched a Sunday-morning "brunch all'americana" at Bar Tigli, with Kevin as consulente; Kevin, Matteo and Leo did the supermarket run.
+- **New facts:** Ornella's cat is Pavarotti (eats carne); the market is every Tuesday in Piazza della Chiesa; brunch: Sundays, 12 euro each, 30 clients = 360 euro; supermarket total 124,20 euro, resto 76,80; Matteo borrowed a supermarket carrello and promised Nadia to return it Wednesday; Wednesday morning Franco gave Kevin a busta of mele with the rule "non toccare."
+- **Changed:** Kevin now knows Franco is seeing Lucia (Franco said "sì" about Sunday). Chiara hears that Franco laughed three times with Kevin.
+- **Planted:** the Sunday brunch (next episode) and Franco's Sunday with Lucia; the carrello must go back to the supermarket.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
