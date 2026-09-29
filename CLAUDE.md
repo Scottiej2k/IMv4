@@ -104,7 +104,7 @@ Other scripts: `make_brief.py <id>` (writes `chapters/<id>/brief.md` for review)
   timing.json's `intro` is its [start, end].
 - **Voices cast by the owner** (casting page https://claude.ai/artifact/HuGt1bgXgNFkidbkhtGZ1T,
   `scripts/audition.py`): Narratore Charon, Kevin Puck + American accent fading by level, Chiara
-  Callirrhoe, Emma Autonoe, Leo Leda, Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
+  Callirrhoe, Emma Autonoe, Leo Puck ("small child" style; owner, 2026-09-29; Kevin also uses Puck), Franco Algenib, Ornella Vindemiatrix, Matteo Umbriel, Nadia
   Aoede, Roberto Orus (config/voices.json).
   The narrator has its own pace at A1/A2 (`pace_by_level`: "calm, unhurried"; the level's "slowly"
   made narration drag). Chosen on the narrator page https://claude.ai/artifact/MYc7LU4WWCCi5PY6CVyQ2g
