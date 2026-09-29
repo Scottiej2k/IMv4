@@ -141,6 +141,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara grants Emma a midnight curfew for Saturdays, on three conditions; Emma's group includes Tommaso, Bianca and Marco. Kevin has promised to see a doctor (no—none); Nadia will tell Chiara about the cappuccino.
 - **Planted:** Matteo intends to tell Franco about the "men's night" tomorrow at the bar; Emma has not yet told Chiara that Tommaso was there.
 
+### s01e20 · Questo o quello?
+- **Happened:** Leo needs a Carnevale costume for the Rodari school party; Kevin takes him to the clothes shop in piazza della Chiesa, where a saleswoman sorts out sizes. Lucia alters the too-long costume and pants at home.
+- **New facts:** The Rodari school's Carnevale party is Friday; Leo performs in a red pirate costume with white-and-black striped shirt and black hat, cost 25 euro (costume 20 + hat 5). Maestra Paola is Leo's teacher. Bianca wears a yellow mask. Kevin's notebook gains TAGLIA = vestiti, NUMERO = scarpe.
+- **Changed:** Franco agrees to come to Leo's party and does turn up; he calls Leo's costume "bello." Lucia is openly fixing Leo's costume with Chiara present.
+- **Planted:** Franco's old tram hat ("forty years," his grandfather's) — possible later payoff; none scheduled.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
