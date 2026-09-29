@@ -1,0 +1,747 @@
+@vocab
+la lezione | noun | f | lesson | lezione, lezioni
+i compiti | noun | m | homework | compiti, compito
+la domanda | noun | f | question | domanda, domande
+la risposta | noun | f | answer | risposta, risposte
+chi | pronoun | | who | Chi
+che cosa | pronoun | | what | Che cosa
+dove | adverb | | where | Dove
+quando | adverb | | when | Quando
+come | adverb | | how; like | Come
+perché | conjunction | | why; because | Perché
+quanto | adjective | | how much; how many | Quanto, quanta, quanti, quante
+quale | adjective | | which | Quale, quali
+non | adverb | | not | Non
+sì | adverb | | yes | Sì
+no | adverb | | no | No
+capire | verb | | to understand | capisco, capisce, capisci, capiamo, capiscono
+rispondere | verb | | to answer | rispondo, risponde, rispondi, rispondono
+chiedere | verb | | to ask | chiedo, chiede, chiedi, chiedono
+il quaderno | noun | m | notebook | quaderno, quaderni
+il progetto | noun | m | project | progetto, progetti
+l'America | noun | f | America | America
+l'italiano | noun | m | Italian (language) | italiano
+la lingua | noun | f | language; tongue | lingua, lingue
+il compagno | noun | m | classmate; companion | compagno, compagni, compagna, compagne
+il pomodoro | noun | m | tomato | pomodoro, pomodori
+il caffè | noun | m | coffee; café | caffè
+il prezzo | noun | m | price | prezzo, prezzi
+costa | verb | | to cost | costa, costano
+il mestiere | noun | m | job; trade | mestiere, mestieri
+@end
+
+# SCENE scuola-leo | lunedì mattina | leo, maestra-paola, pietro
+
+È lunedì mattina alla scuola Gianni Rodari. || It's Monday morning at the Gianni Rodari school.
+La classe di Leo è la terza B. || Leo's class is 3B.
+Sulla lavagna c'è una parola grande: DOMANDA. || On the blackboard there's a big word: QUESTION.
+Leo entra con un foglio in mano. || Leo comes in with a sheet of paper in his hand.
+Sul foglio ci sono dieci domande. || On the sheet there are ten questions.
+
+«Buongiorno, **compagni**!»{leo|cheerful} dice Leo. «Ho una **domanda**.» || “Good morning, **classmates**!” says Leo. “I have a **question**.”
+«Buongiorno, Leo»{maestra-paola} dice la maestra Paola. «Aspetta la **lezione**.» || “Good morning, Leo,” says teacher Paola. “Wait for the **lesson**.”
+Pietro ride e si siede al suo banco. || Pietro laughs and sits down at his desk.
+
+«**Chi** vuole fare una domanda?»{maestra-paola} chiede la maestra. || “**Who** wants to ask a question?” the teacher asks.
+Tutti alzano la mano. Anche Pietro. || Everyone raises a hand. Pietro too.
+«**Che cosa** è una domanda?»{pietro|confused} chiede Pietro. || “**What** is a question?” asks Pietro.
+La maestra sorride. «Una domanda è una richiesta»{maestra-paola} dice. || The teacher smiles. “A question is a request,” she says.
+«**Dove** è la **risposta**?»{leo} chiede Leo. || “**Where** is the **answer**?” asks Leo.
+«**Sì**, c'è una risposta»{maestra-paola} dice la maestra. «Ma prima ci sono le parole.» || “**Yes**, there's an answer,” says the teacher. “But first there are the words.”
+
+Sulla lavagna scrive: CHI, CHE COSA, DOVE, QUANDO, COME, PERCHÉ. || On the blackboard she writes: WHO, WHAT, WHERE, WHEN, HOW, WHY.
+«Queste parole fanno le domande»{maestra-paola} dice. || “These words make the questions,” she says.
+«**Quando**?»{leo} chiede Leo subito. || “**When**?” Leo asks at once.
+«Adesso»{maestra-paola} risponde la maestra. «Apriamo il libro.» || “Now,” the teacher answers. “Let's open the book.”
+
+Leo alza la mano. «Maestra, **come** si dice *lavagna* in America?»{leo} || Leo raises his hand. “Teacher, **how** do you say *lavagna* in America?”
+«*Blackboard*»{maestra-paola} dice la maestra. «Ma **perché** la **domanda**?» || “*Blackboard*,” says the teacher. “But **why** the **question**?”
+«**Perché** mi piace la parola»{leo} dice Leo. || “**Because** I like the word,” says Leo.
+
+Pietro scrive sul quaderno. Leo guarda il suo foglio. || Pietro writes in his notebook. Leo looks at his sheet.
+«**Quante** domande hai?»{pietro|curious} chiede Pietro. || “**How many** questions do you have?” asks Pietro.
+«Dieci»{leo|proud} dice Leo. «Ma sono piccole.» || “Ten,” says Leo. “But they're small.”
+«E **quale** domanda leggi?»{pietro} chiede Pietro. || “And **which** question do you read?” asks Pietro.
+Leo legge. «**Chi** fa le domande nel mondo?»{leo} || Leo reads. “**Who** asks the questions in the world?”
+Pietro pensa. «Il maestro?»{pietro} dice. || Pietro thinks. “The teacher?” he says.
+«**No**»{leo} dice Leo. «Il maestro **risponde**. Le domande sono di tutti.» || “**No**,” says Leo. “The teacher **answers**. The questions belong to everyone.”
+Pietro **non** **capisce**. «Io **non** capisco»{pietro} dice. || Pietro doesn't **understand**. “I **don't** understand,” he says.
+«**Non** importa»{leo} dice Leo. «Anche io a volte **non** capisco.» || “It doesn't matter,” says Leo. “I **don't** understand sometimes too.”
+La maestra sente e ride piano. || The teacher hears and laughs quietly.
+
+«Leo, **quanto** costa una **risposta**?»{maestra-paola|playful} chiede la maestra. || “Leo, **how much** does an **answer** cost?” the teacher asks.
+«Zero!»{leo|laughing} dice Leo. «Le domande costano zero.» || “Zero!” says Leo. “Questions cost zero.”
+«Bravo»{maestra-paola} dice la maestra. «E **quanto** costa una **lezione**?» || “Good,” says the teacher. “And **how much** does a **lesson** cost?”
+Leo pensa forte. «Un **mestiere**?»{leo} dice. || Leo thinks hard. “A **job**?” he says.
+«**Come**?»{maestra-paola} chiede la maestra. || “**How**?” the teacher asks.
+«Fare domande è un **mestiere**»{leo} dice Leo. «Come il pompiere.» || “Asking questions is a **job**,” says Leo. “Like a firefighter.”
+«Leo, **quante** domande fai al giorno?»{maestra-paola} chiede la maestra. || “Leo, **how many** questions do you ask a day?” the teacher asks.
+
+«Venti?»{leo} dice Leo. || “Twenty?” says Leo.
+«**No**, cinquanta»{leo} dice Leo. «O forse cento. **Non** conto bene.» || “**No**, fifty,” says Leo. “Or maybe a hundred. I **don't** count well.”
+
+La maestra batte le mani. «Silenzio, **compagni**»{maestra-paola} dice. || The teacher claps her hands. “Quiet, **classmates**,” she says.
+«Adesso i **compiti**»{maestra-paola} dice. || “Now the **homework**,” she says.
+Tutta la classe ascolta. || The whole class listens.
+«Scrivete cinque domande»{maestra-paola} dice la maestra. «Con chi, che cosa, dove, quando, come, perché.» || “Write five questions,” the teacher says. “With who, what, where, when, how, why.”
+«Cinque?»{leo|disappointed} chiede Leo. || “Five?” asks Leo.
+«Cinque»{maestra-paola} dice la maestra. «**Non** dieci.» || “Five,” says the teacher. “**Not** ten.”
+
+Leo guarda il suo foglio. Ha già dieci domande. || Leo looks at his sheet. He already has ten questions.
+«Maestra, io ho dieci domande»{leo} dice. || “Teacher, I have ten questions,” he says.
+«Allora scegli cinque domande»{maestra-paola} dice la maestra. || “Then choose five questions,” says the teacher.
+«**Quali** domande?»{leo} chiede Leo. || “**Which** questions?” Leo asks.
+«Le tue»{maestra-paola} dice la maestra. || “Yours,” says the teacher.
+
+Leo scrive. Le domande sono piccole e veloci. || Leo writes. The questions are small and quick.
+«Maestra, **dove** vivo io?»{leo} chiede Leo. || “Teacher, **where** do I live?” Leo asks.
+«In Via dei Tigli»{maestra-paola} risponde la maestra. || “On Via dei Tigli,” the teacher answers.
+«E **dove** vivo in America?»{leo} chiede Leo. || “And **where** do I live in America?” Leo asks.
+«A Chicago»{maestra-paola} dice la maestra. || “In Chicago,” says the teacher.
+«**Quando** sono a Chicago?»{leo} chiede Leo. || “**When** am I in Chicago?” Leo asks.
+«In estate»{maestra-paola} dice la maestra. || “In summer,” says the teacher.
+
+Leo scrive tutto. Pietro guarda il foglio. || Leo writes everything. Pietro looks at the sheet.
+«Leo, **perché** scrivi così forte?»{pietro} chiede Pietro. || “Leo, **why** do you write so loud?” asks Pietro.
+«**Perché** le parole sono importanti»{leo} dice Leo. || “**Because** words are important,” says Leo.
+
+Suona la campanella. La **lezione** finisce. || The bell rings. The **lesson** ends.
+I **compagni** escono. Pietro saluta con la mano. || The **classmates** go out. Pietro waves.
+Leo mette il foglio nella tasca. || Leo puts the sheet in his pocket.
+_La scuola è un posto strano. Qui le domande sono un **mestiere**._{leo} || *School is a strange place. Here questions are a **job**.*
+La maestra guarda Leo dalla porta. || The teacher watches Leo from the door.
+«Domani, altre domande»{maestra-paola|warm} dice. || “Tomorrow, more questions,” she says.
+«**Sì**, maestra!»{leo|happy} Leo corre fuori. || “**Yes**, teacher!” Leo runs outside.
+
+# SCENE bar-tigli | lunedì, dopo la scuola | leo, matteo, nadia
+
+Bar Tigli è in piazza, al numero due. || Bar Tigli is in the piazza, at number two.
+Nel bar c'è un odore di **caffè** e di cornetto caldo. || In the bar there's a smell of **coffee** and warm croissant.
+Kevin entra con Leo. || Kevin comes in with Leo.
+«Ciao, Matteo»{ben} dice Kevin. «Un cioccolato per Leo. Io vado al supermercato.» || “Hi, Matteo,” says Kevin. “A hot chocolate for Leo. I'm going to the supermarket.”
+«**Quando** torni?»{matteo} chiede Matteo. || “**When** are you coming back?” Matteo asks.
+«Tra mezz'ora»{ben} dice Kevin. «Grazie!» || “In half an hour,” says Kevin. “Thanks!”
+Kevin esce. La porta suona. || Kevin goes out. The door chimes.
+
+Leo si siede al banco con il suo foglio. || Leo sits at the counter with his sheet.
+«Matteo, ho dieci **domande**»{leo|proud} dice Leo. || “Matteo, I have ten **questions**,” says Leo.
+«Dieci?»{matteo|surprised} dice Matteo. «Allora comincia.» || “Ten?” says Matteo. “So start.”
+«**Chi** fa i cornetti?»{leo} chiede Leo. || “**Who** makes the croissants?” asks Leo.
+«Io»{matteo|proud} dice Matteo. «Alle cinque di mattina.» || “Me,” says Matteo. “At five in the morning.”
+«**Quante** volte?»{leo} chiede Leo. || “**How many** times?” Leo asks.
+«Tante»{matteo} dice Matteo. || “Many,” says Matteo.
+«**Quante**?»{leo} chiede di nuovo Leo. || “**How many**?” Leo asks again.
+«Cento»{matteo} dice Matteo. «Forse cento e dieci.» || “A hundred,” says Matteo. “Maybe a hundred and ten.”
+Leo scrive sul foglio. «Cento **caffè**?»{leo} || Leo writes on the sheet. “A hundred **coffees**?”
+«Anche duemila»{matteo|theatrical} dice Matteo. «Il lunedì è un giorno grande.» || “Even two thousand,” says Matteo. “Monday is a big day.”
+
+Nadia scende dalle scale. || Nadia comes down the stairs.
+«Buongiorno, Leo»{nadia|warm} dice Nadia. «Come va?» || “Hello, Leo,” says Nadia. “How are you?”
+«Va bene»{leo} dice Leo. «Nadia, **quanti** caffè fa Matteo al giorno?» || “Fine,” says Leo. “Nadia, **how many** coffees does Matteo make a day?”
+«**Non** duemila»{nadia|dry} dice Nadia. «Sessanta, settanta. Forse ottanta il sabato.» || “**Not** two thousand,” says Nadia. “Sixty, seventy. Maybe eighty on Saturday.”
+«Sessanta»{leo} dice Leo. «Va bene.» || “Sixty,” says Leo. “Okay.”
+Matteo **non** è contento. «Nadia, la **risposta** è grande!»{matteo|protesting} dice. || Matteo is **not** happy. “Nadia, the **answer** is big!” he says.
+«La **risposta** è vera»{nadia} dice Nadia. «**Sì** o **no**?» || “The **answer** is true,” says Nadia. “**Yes** or **no**?”
+«**Sì**»{matteo|sighing} dice Matteo. || “**Yes**,” says Matteo, sighing.
+
+Leo scrive. Poi guarda il bar. || Leo writes. Then he looks at the bar.
+«**Dove** è lo zucchero?»{leo} chiede Leo. || “**Where** is the sugar?” Leo asks.
+«Sul banco»{matteo} dice Matteo. «In una scodella.» || “On the counter,” says Matteo. “In a bowl.”
+«**Perché** in una scodella e **non** sul tavolo?»{leo} chiede Leo. || “**Why** in a bowl and **not** on the table?” Leo asks.
+«**Perché** è più comodo»{matteo} dice Matteo. || “**Because** it's easier,” says Matteo.
+«**Come** più comodo?»{leo} chiede Leo. || “**How** is it easier?” Leo asks.
+Matteo apre la bocca. Poi chiude la bocca. || Matteo opens his mouth. Then he closes his mouth.
+«**Non** **capisco** la **domanda**»{matteo|honest} dice Matteo. || “I **don't** **understand** the **question**,” says Matteo.
+«**Non** capisco io, o **non** capisci tu?»{leo} chiede Leo. || “Do I **not** understand, or do you **not** understand?” Leo asks.
+«Tu sei forte, Leo»{matteo|laughing} dice Matteo. || “You're tough, Leo,” says Matteo, laughing.
+
+Nadia versa il cioccolato in una tazza. || Nadia pours the chocolate into a cup.
+«Leo, **quanto** **costa** un **caffè**?»{nadia} chiede Nadia. || “Leo, **how much** does a **coffee** **cost**?” asks Nadia.
+«Uno e venti»{leo|fast} dice Leo. «Il lunedì. Il sabato due e cinquanta.» || “One twenty,” says Leo quickly. “On Monday. On Saturday two fifty.”
+Matteo si gira. «Come fai a sapere il **prezzo**?»{matteo|shocked} chiede Matteo. || Matteo turns around. “How do you know the **price**?” Matteo asks.
+«Mia mamma dice sempre i **prezzi**»{leo} dice Leo. «È un mestiere.» || “My mom always says the **prices**,” says Leo. “It's a job.”
+Nadia ride. «Leo, **quale** è il **prezzo** giusto?»{nadia} chiede. || Nadia laughs. “Leo, **which** is the right **price**?” she asks.
+«**Quale**?»{leo|thinking} dice Leo. «Uno e venti. Ma il caffè è piccolo.» || “**Which**?” says Leo. “One twenty. But the coffee is small.”
+«Il caffè è sempre piccolo»{matteo} dice Matteo. «Questo è l'italiano.» || “Coffee is always small,” says Matteo. “That's Italian.”
+«**Perché**?»{leo} chiede Leo. || “**Why**?” Leo asks.
+«**Perché** è buono»{matteo} dice Matteo. «E le cose buone sono piccole.» || “**Because** it's good,” says Matteo. “And good things are small.”
+Leo scrive questa **risposta** nel suo foglio. || Leo writes this **answer** on his sheet.
+
+La porta suona. Arriva Kevin con sei buste. || The door chimes. Kevin arrives with six bags.
+«Aiuto!»{ben|out of breath} dice Kevin. || “Help!” says Kevin.
+«Kevin, **dove** sono le buste?»{leo} chiede Leo. || “Kevin, **where** are the bags?” Leo asks.
+«Qui!»{ben} dice Kevin. «Pane, latte, pomodori, mele, formaggio, e... **non** so.» || “Here!” says Kevin. “Bread, milk, tomatoes, apples, cheese, and... I **don't** know.”
+«**Quanto** **costa** il pane?»{leo} chiede Leo. || “**How much** does the bread **cost**?” Leo asks.
+«**Non** capisco»{ben|honest} dice Kevin. || “I **don't** understand,” says Kevin.
+«**Quanto** costa il pane?»{leo|slowly} chiede di nuovo Leo. || “**How much** does the bread cost?” Leo asks again, slowly.
+Kevin guarda Matteo. Matteo alza le spalle. || Kevin looks at Matteo. Matteo shrugs.
+«Leo, aspetta»{ben} dice Kevin. || “Leo, wait,” says Kevin.
+Kevin tira fuori il suo **quaderno** giallo. || Kevin pulls out his yellow **notebook**.
+«**Come** si scrive?»{ben} chiede Kevin. || “**How** do you write it?” Kevin asks.
+«*Quanto costa*»{leo|patient} dice Leo. «**Quanto**, **costa**.» || “*Quanto costa*,” says Leo patiently. “**Quanto**, **costa**.”
+Kevin scrive. «*Quanto costa*»{ben|proud} dice. «Perfetto.» || Kevin writes. “*Quanto costa*,” he says. “Perfect.”
+
+Nadia dà la tazza a Leo. || Nadia gives the cup to Leo.
+«Leo, e tu?»{nadia} chiede Nadia. «**Quante** **domande** fai al giorno?» || “Leo, and you?” Nadia asks. “**How many** **questions** do you ask a day?”
+Leo conta le dita. Poi conta di nuovo. || Leo counts his fingers. Then he counts again.
+«Venti?»{leo|unsure} dice Leo. «Cinquanta? **Non** lo so.» || “Twenty?” says Leo. “Fifty? I **don't** know.”
+«**Non** lo sai?»{nadia|smiling} chiede Nadia. || “You **don't** know?” Nadia asks, smiling.
+«**Non** lo so»{leo|honest} dice Leo. «Sono tante.» || “I **don't** know,” says Leo honestly. “There are many.”
+«Allora è un record»{matteo|impressed} dice Matteo. || “Then it's a record,” says Matteo.
+«**Sì**!»{leo|happy} dice Leo. «Un record!» || “**Yes**!” says Leo. “A record!”
+
+Kevin mette il **quaderno** in tasca. || Kevin puts the **notebook** in his pocket.
+«Leo, andiamo»{ben} dice Kevin. «**Dove** è la busta del formaggio?» || “Leo, let's go,” says Kevin. “**Where** is the cheese bag?”
+«In mano tua»{leo|dry} dice Leo. || “In your hand,” says Leo.
+Kevin guarda la mano. **Sì**, c'è il formaggio. || Kevin looks at his hand. **Yes**, there's the cheese.
+«**Sì**»{ben|laughing} dice Kevin. «Va bene.» || “**Yes**,” says Kevin, laughing. “Okay.”
+_Sei buste, una domanda, zero risposte. Ma il quaderno cresce._{ben} || *Six bags, one question, zero answers. But the notebook grows.*
+Nadia saluta Leo con la mano. Matteo grida: «Domani, altre domande!»{matteo} || Nadia waves goodbye to Leo. Matteo shouts: “Tomorrow, more questions!”
+
+# SCENE orto | lunedì pomeriggio | leo, franco
+
+L'orto di Franco è dietro casa sua, al numero nove. || Franco's vegetable garden is behind his house, at number nine.
+Ci sono **pomodori** rossi, zucchine verdi e insalata. || There are red **tomatoes**, green zucchini and lettuce.
+Franco tiene un annaffiatoio grande. Leo ne tiene uno piccolo. || Franco holds a big watering can. Leo holds a small one.
+«Acqua solo alla terra, **non** alle foglie»{franco} dice Franco. || “Water only the soil, **not** the leaves,” says Franco.
+«**Perché**?»{leo} chiede Leo. || “**Why**?” asks Leo.
+«**Perché** le foglie **non** bevono»{franco} dice Franco. «Le radici bevono.» || “**Because** the leaves **don't** drink,” says Franco. “The roots drink.”
+
+Leo guarda le zucchine. || Leo looks at the zucchini.
+«Nonno, **che cosa** è questa verdura in America?»{leo} chiede Leo. || “Grandpa, **what** is this vegetable in America?” Leo asks.
+«Zucchine»{franco} dice Franco. || “Zucchini,” says Franco.
+«Ma in America è *zucchini*»{leo} dice Leo. «La stessa parola!» || “But in America it's *zucchini*,” says Leo. “The same word!”
+«Ah!»{franco|surprised} dice Franco. «Allora **capisco** l'americano.» || “Ah!” says Franco. “Then I **understand** American.”
+«Chi? Io?»{leo} chiede Leo. || “Who? Me?” asks Leo.
+«Tu no. Tu parli bene»{franco} dice Franco. || “Not you. You speak well,” says Franco.
+
+Leo annaffia un **pomodoro**. || Leo waters a **tomato**.
+«**Perché** i pomodori sono rossi?»{leo} chiede Leo. || “**Why** are tomatoes red?” Leo asks.
+«**Perché** il sole è forte»{franco} dice Franco. «E perché aspettiamo.» || “**Because** the sun is strong,” says Franco. “And because we wait.”
+«Aspettiamo **quanto**?»{leo} chiede Leo. || “We wait **how long**?” Leo asks.
+«Quaranta giorni. Sessanta giorni»{franco} dice Franco. «Chi va piano va sano e va lontano.» || “Forty days. Sixty days,” says Franco. “Slow and steady wins the race.”
+Leo pensa alla frase. || Leo thinks about the phrase.
+«**Non** **capisco** la frase»{leo} dice Leo. || “I **don't** **understand** the phrase,” says Leo.
+«Va piano, Leo»{franco} dice Franco. «E arrivi.» || “Go slowly, Leo,” says Franco. “And you arrive.”
+
+«**Quando** i pomodori sono pronti?»{leo} chiede Leo. || “**When** are the tomatoes ready?” Leo asks.
+«In agosto»{franco} dice Franco. «In agosto sono rossi e dolci.» || “In August,” says Franco. “In August they're red and sweet.”
+«E **quanti** pomodori da una pianta?»{leo} chiede Leo. || “And **how many** tomatoes from one plant?” Leo asks.
+Franco guarda la pianta. «Dieci. Venti»{franco} dice. «**Non** cento.» || Franco looks at the plant. “Ten. Twenty,” he says. “**Not** a hundred.”
+«**Quanti** chili?»{leo} chiede Leo. || “**How many** kilos?” Leo asks.
+«Un chilo, forse due»{franco} dice Franco. || “One kilo, maybe two,” says Franco.
+
+Leo conta le piante. Ce ne sono dodici. || Leo counts the plants. There are twelve.
+«**Chi** mangia tutti i pomodori?»{leo} chiede Leo. || “**Who** eats all the tomatoes?” Leo asks.
+«Tu»{franco|dry} dice Franco. || “You,” says Franco, dryly.
+«Io?»{leo} chiede Leo. || “Me?” asks Leo.
+«Tu e tua sorella. E l'americano»{franco} dice Franco. «L'americano mangia bene.» || “You and your sister. And the American,” says Franco. “The American eats well.”
+«E tu?»{leo} chiede Leo. || “And you?” asks Leo.
+«Io mangio poco»{franco} dice Franco. «Ma **sì**, mangio anche io.» || “I eat little,” says Franco. “But **yes**, I eat too.”
+
+Leo guarda i pomodori. Sono tutti rossi e uguali. || Leo looks at the tomatoes. They're all red and the same.
+«**Quale** è il **pomodoro** migliore?»{leo} chiede Leo. || “**Which** is the best **tomato**?” Leo asks.
+Franco pensa. Poi indica un pomodoro piccolo. || Franco thinks. Then he points at a small tomato.
+«Questo»{franco} dice. || “This one,” he says.
+«**Perché** questo?»{leo} chiede Leo. «È piccolo.» || “**Why** this one?” Leo asks. “It's small.”
+«**Perché** è il primo»{franco} dice Franco. «Il primo è sempre buono.» || “**Because** it's the first,” says Franco. “The first is always good.”
+
+Leo mette l'annaﬃatoio a terra. || Leo puts the watering can on the ground.
+«Nonno, ho una **domanda** grande»{leo} dice Leo. || “Grandpa, I have a big **question**,” says Leo.
+
+«Dimmi»{franco} dice Franco. || “Tell me,” says Franco.
+
+«**Perché** il signor Colombo scrive le lettere?»{leo} chiede Leo. || “**Why** does Mr. Colombo write letters?” Leo asks.
+
+«**Perché** ama le regole»{franco} dice Franco. «E **non** ama le zucche.» || “**Because** he loves rules,” says Franco. “And he does **not** love pumpkins.”
+
+«E tu?»{leo} chiede Leo. «Ami le zucche?» || “And you?” Leo asks. “Do you love pumpkins?”
+
+«Io amo i pomodori»{franco} dice Franco. «Ma la zucca dell'americano **non** è brutta.» || “I love tomatoes,” says Franco. “But the American's pumpkin is **not** ugly.”
+
+«**Non** è brutta?»{leo} chiede Leo. || “It's **not** ugly?” Leo asks.
+
+«**No**. È grande e arancione»{franco} dice Franco. «Va bene così.» || “**No**. It's big and orange,” says Franco. “It's fine like that.”
+
+Leo è contento. «Allora facciamo Halloween anche l'anno prossimo?»{leo} chiede Leo. || Leo is happy. “So do we do Halloween again next year?” Leo asks.
+
+Franco **non** ride. Franco pensa. || Franco does **not** laugh. Franco thinks.
+
+«**Non** è una buona idea»{franco} dice Franco. «Ma **non** è una brutta idea.» || “It's **not** a good idea,” says Franco. “But it's **not** a bad idea.”
+
+Franco prende una zucchina e la mette nel cesto di Leo. || Franco picks a zucchini and puts it in Leo's basket.
+«Nonno, **dove** vai la domenica?»{leo} chiede Leo. || “Grandpa, **where** do you go on Sundays?” Leo asks.
+Franco si ferma. Guarda Leo. || Franco stops. He looks at Leo.
+«La domenica vado a pranzo da te»{franco} dice Franco. || “On Sundays I come to lunch at your place,” says Franco.
+«Prima del pranzo»{leo} dice Leo. «La mamma dice: *Franco ha un corso*.» || “Before lunch,” says Leo. “Mom says: *Franco has a course*.”
+«Ah, il corso»{franco|cautious} dice Franco. || “Ah, the course,” says Franco.
+«**Dove** è il corso?»{leo} chiede Leo. || “**Where** is the course?” Leo asks.
+«Al Centro civico»{franco} dice Franco. || “At the community center,” says Franco.
+«E **che cosa** fai?»{leo} chiede Leo. || “And **what** do you do?” Leo asks.
+Franco guarda i pomodori. Poi guarda il cielo. || Franco looks at the tomatoes. Then he looks at the sky.
+«In un posto dove le **domande** sono diverse»{franco|quiet} dice. || “In a place where the **questions** are different,” he says.
+«**Come** diverse?»{leo} chiede Leo. || “**How** different?” Leo asks.
+«Diverse, Leo»{franco} dice Franco. «E adesso andiamo. La zucchina è per tua mamma.» || “Different, Leo,” says Franco. “And now let's go. The zucchini is for your mom.”
+
+Leo prende il cesto. È pesante. || Leo takes the basket. It's heavy.
+«Grazie, nonno»{leo} dice Leo. || “Thanks, Grandpa,” Leo says.
+«Di niente»{franco} dice Franco. || “You're welcome,” says Franco.
+«E grazie per le **risposte**»{leo} dice Leo. || “And thanks for the **answers**,” says Leo.
+«Le **risposte** sono facili»{franco} dice Franco. «Le **domande** sono difficili.» || “The **answers** are easy,” says Franco. “The **questions** are hard.”
+Leo cammina con il cesto. || Leo walks with the basket.
+_Il nonno **risponde** sempre. A tutte le domande._{leo} || *Grandpa always **answers**. To every question.*
+_E tranne una._{leo} || *Except one.*
+
+# SCENE studio-marchetti | martedì mattina | chiara, marchetti
+
+Lo Studio Marchetti è a Milano, in zona Isola. || Studio Marchetti is in Milan, in the Isola district.
+Le finestre sono grandi e la luce è bianca. || The windows are big and the light is white.
+Sui tavoli ci sono disegni, matite e modellini di carta. || On the tables there are drawings, pencils and paper models.
+Chiara entra con la sua borsa e un caffè. || Chiara comes in with her bag and a coffee.
+Marchetti è già al tavolo grande. Guarda il muro. || Marchetti is already at the big table. He's looking at the wall.
+Sul muro c'è il **progetto** per la banca di Isola. || On the wall there's the **project** for the Isola bank.
+
+«Chiara, buongiorno»{marchetti|brisk} dice Marchetti. || “Chiara, good morning,” says Marchetti.
+«Buongiorno»{chiara|ready} dice Chiara e mette giù la borsa. || “Good morning,” says Chiara, and puts down her bag.
+«Il cliente vuole il **progetto** nuovo. Tu hai **domande**?»{marchetti} chiede. || “The client wants the new **project**. Do you have **questions**?” he asks.
+«**Sì**, una»{chiara} dice Chiara. || “**Yes**, one,” says Chiara.
+«Dimmi»{marchetti} dice Marchetti. || “Tell me,” says Marchetti.
+
+«**Quali** materiali vuole il cliente?»{chiara|fast} chiede Chiara. || “**Which** materials does the client want?” Chiara asks, fast.
+«Legno e vetro»{marchetti} dice Marchetti. || “Wood and glass,” says Marchetti.
+«E **quanti** piani?»{chiara|fast} chiede Chiara. «Tre? Quattro? Il documento dice tre, ma il disegno dice quattro.» || “And **how many** floors?” Chiara asks, fast. “Three? Four? The document says three, but the drawing says four.”
+Marchetti alza la testa. «Piano»{marchetti} dice. || Marchetti raises his head. “Slow down,” he says.
+«**Come**?»{chiara} chiede Chiara. || “**How**?” asks Chiara.
+«Piano. Un respiro»{marchetti} dice Marchetti. «E poi la **risposta**.» || “Slowly. One breath,” says Marchetti. “And then the **answer**.”
+
+Chiara chiude gli occhi un secondo. || Chiara closes her eyes for a second.
+«**Quanti** piani?»{marchetti} chiede di nuovo. || “**How many** floors?” Marchetti asks again.
+«Quattro»{marchetti|calm} dice Marchetti. «Il documento è vecchio.» || “Four,” says Marchetti calmly. “The document is old.”
+«Va bene»{marchetti} dice Marchetti. «E **quando** vuole il **progetto**?» || “Okay,” says Marchetti. “And **when** does he want the **project**?” 
+«A dicembre»{chiara} dice Chiara. || “In December,” says Chiara.
+«**Chi** firma i documenti?»{marchetti} chiede. || “**Who** signs the documents?” Marchetti asks.
+«Tu. O io»{chiara} dice Chiara. «**Non** lo so.» || “You. Or me,” says Chiara. “I **don't** know.”
+«Io»{marchetti} dice Marchetti. «Per ora.» || “Me,” says Marchetti. “For now.”
+
+Marchetti indica il muro. || Marchetti points at the wall.
+«**Perché** il primo disegno è diverso?»{marchetti} chiede. || “**Why** is the first drawing different?” he asks.
+«**Perché** la banca **non** vuole le scale grandi»{chiara|fast} dice Chiara. «E le scale sono piccole, ma la luce è bella, e il piano terra è grande, e...» || “**Because** the bank **doesn't** want big stairs,” says Chiara, fast. “And the stairs are small, but the light is nice, and the ground floor is big, and...”
+«Chiara»{marchetti} dice Marchetti. || “Chiara,” says Marchetti.
+«**Sì**?»{chiara} dice Chiara. || “**Yes**?” says Chiara.
+«**Non** **capisco** niente»{marchetti|dry} dice Marchetti. «Piano.» || “I **don't** **understand** anything,” says Marchetti, dryly. “Slowly.”
+
+Chiara respira. Poi parla piano, parola per parola. || Chiara breathes. Then she speaks slowly, word by word.
+«La banca vuole scale piccole»{chiara|slow} dice. || “The bank wants small stairs,” she says.
+«Bene»{marchetti} dice Marchetti. || “Good,” says Marchetti.
+«Il piano terra è grande»{chiara} dice. «Con luce.» || “The ground floor is big,” she says. “With light.”
+«Bene»{marchetti} dice Marchetti. || “Good,” says Marchetti.
+«E il primo disegno è vecchio»{chiara} dice. «Ma le scale sono nuove.» || “And the first drawing is old,” she says. “But the stairs are new.”
+«**Sì**»{marchetti} dice Marchetti. «Adesso **capisco**.» || “**Yes**,” says Marchetti. “Now I **understand**.”
+
+Chiara sorride un poco. || Chiara smiles a little.
+«In **italiano** parlo piano»{chiara} dice. «In **America** parlo veloce.» || “In **italian** I speak slowly,” she says. “In **America** I speak fast.”
+«E in inglese?»{marchetti|curious} chiede Marchetti. || “And in English?” Marchetti asks.
+«In inglese parlo troppo veloce»{chiara|honest} dice Chiara. «**Non** sento le parole.» || “In English I speak too fast,” says Chiara. “I **don't** hear the words.”
+«**Che cosa** senti?»{marchetti} chiede. || “**What** do you hear?” he asks.
+«Il rumore»{chiara} dice Chiara. «E **non** le parole.» || “The noise,” says Chiara. “And **not** the words.”
+
+Marchetti guarda il disegno e poi Chiara. || Marchetti looks at the drawing and then at Chiara.
+«La **lingua** è un mestiere»{marchetti} dice. «Due lingue sono due mestieri.» || “A **language** is a trade,” says Marchetti. “Two languages are two trades.”
+«**Sì**»{chiara} dice Chiara. || “**Yes**,” says Chiara.
+«Tu sei veloce»{marchetti} dice Marchetti. «E sei buona. Ma **non** è una corsa.» || “You're fast,” says Marchetti. “And you're good. But it's **not** a race.”
+«**Non** è una corsa»{chiara|quiet} ripete Chiara. || “It's **not** a race,” Chiara repeats.
+«**No**»{marchetti} dice Marchetti. «Il vetro **non** corre.» || “**No**,” says Marchetti. “Glass doesn't run.”
+
+Chiara ride. È una risata piccola. || Chiara laughs. It's a small laugh.
+«**Dove** è la **risposta** giusta?»{chiara|joking} chiede Chiara. || “**Where** is the right **answer**?” Chiara asks, joking.
+«Sul muro»{marchetti} dice Marchetti. «Guarda il muro.» || “On the wall,” says Marchetti. “Look at the wall.”
+
+Chiara guarda il muro. Il disegno è chiaro. || Chiara looks at the wall. The drawing is clear.
+«Vedo»{chiara} dice Chiara. || “I see,” says Chiara.
+«**Sì**»{marchetti} dice Marchetti. «E adesso la **domanda** vera.» || “**Yes**,” says Marchetti. “And now the real **question**.”
+«Quale?»{chiara} chiede Chiara. || “Which one?” Chiara asks.
+«Il cliente vuole il **progetto** per dicembre»{marchetti} dice. «Tu vuoi lavorare anche sabato?» || “The client wants the **project** by December,” he says. “Do you want to work on Saturday too?”
+«**Perché**?»{chiara} chiede Chiara. || “**Why**?” Chiara asks.
+«**Perché** il tempo è corto»{marchetti} dice Marchetti. || “**Because** time is short,” says Marchetti.
+«**No**»{chiara} dice Chiara. «Il sabato è per la mia famiglia.» || “**No**,” says Chiara. “Saturday is for my family.”
+«Bene»{marchetti} dice Marchetti. «Allora lavoriamo meglio.» || “Good,” says Marchetti. “Then we work better.”
+
+Marchetti prende una matita e scrive sul disegno. || Marchetti takes a pencil and writes on the drawing.
+Chiara apre il computer. Il telefono suona. || Chiara opens the computer. The phone rings.
+_È Emma. E poi è il cliente. E poi Matteo._{chiara} || *It's Emma. And then the client. And then Matteo.*
+_In **italiano** conto i piani. In inglese progetto la vita._{chiara} || *In **italian** I count the floors. In English I plan life.*
+_Le due **lingue** sono due teste. E io ho una testa sola._{chiara} || *The two **languages** are two heads. And I have only one head.*
+«Chiara, il caffè»{marchetti} dice Marchetti. || “Chiara, the coffee,” says Marchetti.
+«Arrivo»{chiara} dice Chiara. E chiude gli occhi ancora un secondo. || “Coming,” says Chiara. And she closes her eyes for one more second.
+
+# SCENE studio-marchetti | martedì, pausa pranzo | chiara, uomo, donna
+
+Alle una lo studio è silenzioso. Tutti mangiano. || At one o'clock the studio is quiet. Everyone is eating.
+Chiara apre il suo panino e un'insalata piccola. || Chiara opens her sandwich and a small salad.
+Davide e Giulia siedono vicino a lei. || Davide and Giulia sit near her.
+C'è un tavolo lungo con le sedie bianche. || There's a long table with white chairs.
+Fuori c'è il sole e la strada è rumorosa. || Outside it's sunny and the street is noisy.
+
+«Chiara, hai cinque minuti?»{uomo|curious} chiede Davide. || “Chiara, do you have five minutes?” Davide asks.
+«**Sì**, cinque»{chiara} dice Chiara. «**Non** di più.» || “**Yes**, five,” says Chiara. “**Not** more.”
+«Ho una **domanda**»{uomo} dice Davide. || “I have a **question**,” says Davide.
+«Dai»{chiara|relaxed} dice Chiara. || “Go on,” says Chiara.
+
+«**Quante** persone vivono a Chicago?»{uomo} chiede Davide. || “**How many** people live in Chicago?” Davide asks.
+«Due milioni»{chiara} dice Chiara. «Forse tre.» || “Two million,” says Chiara. “Maybe three.”
+«Tre milioni?»{donna|surprised} chiede Giulia. || “Three million?” Giulia asks.
+«**Non** lo so bene»{chiara|honest} dice Chiara. «Sono tante.» || “I **don't** know well,” says Chiara. “That's many.”
+«E **come** è Milano?»{donna} chiede Giulia. || “And **how** is Milan?” Giulia asks.
+«Milano è piccola per me»{chiara} dice Chiara. «Ma è casa.» || “Milan is small for me,” says Chiara. “But it's home.”
+
+Giulia apre la sua insalata. || Giulia opens her salad.
+«E **quando** nevica?»{donna} chiede Giulia. || “And **when** does it snow?” Giulia asks.
+«A dicembre, a gennaio»{chiara} dice Chiara. «E anche a marzo.» || “In December, in January,” says Chiara. “And also in March.”
+«**Perché** a marzo?»{uomo} chiede Davide. || “**Why** in March?” Davide asks.
+«**Perché** Chicago **non** ascolta il calendario»{chiara|joking} dice Chiara. || “**Because** Chicago **doesn't** listen to the calendar,” says Chiara.
+Davide ride. Giulia scrive sul tovagliolo. || Davide laughs. Giulia writes on her napkin.
+
+«**Che cosa** mangiano gli americani?»{uomo} chiede Davide. || “**What** do Americans eat?” Davide asks.
+«Di tutto»{chiara} dice Chiara. «Pizza, hamburger, tacos, sushi.» || “Everything,” says Chiara. “Pizza, hamburgers, tacos, sushi.”
+«Anche la pasta?»{donna} chiede Giulia. || “Pasta too?” Giulia asks.
+«**Sì**. Ma la pasta in **America** è... diversa»{chiara} dice Chiara. || “**Yes**. But pasta in **America** is... different.”
+«**Come** diversa?»{donna} chiede Giulia. || “**How** is it different?” Giulia asks.
+«Più cotta»{chiara} dice Chiara. «E **non** c'è il pomodoro vero.» || “More cooked,” says Chiara. “And there's **no** real tomato.”
+«**Perché**?»{uomo} chiede Davide. || “**Why**?” Davide asks.
+«**Perché** il pomodoro **non** arriva»{chiara} dice Chiara. «Arriva dopo tre giorni.» || “**Because** the tomato doesn't arrive,” says Chiara. “It arrives after three days.”
+«Che tristezza»{donna|low} dice Giulia. || “How sad,” says Giulia, quietly.
+
+«E i treni?»{uomo} chiede Davide. «**Come** sono i treni in **America**?» || “And the trains?” Davide asks. “**How** are trains in **America**?”
+«Lenti»{chiara|fast} dice Chiara. «E **non** arrivano sempre.» || “Slow,” says Chiara. “And they **don't** always show up.”
+«**Non** arrivano?»{uomo} chiede Davide. || “They **don't** arrive?” Davide asks.
+«**No**»{chiara} dice Chiara. «O arrivano, ma **non** per te.» || “**No**,” says Chiara. “Or they arrive — but **not** for you.”
+Davide guarda Giulia. «In **italiano** il treno arriva»{uomo} dice. «Forse.» || Davide looks at Giulia. “In **italian** the train arrives,” he says. “Maybe.”
+«Forse è la **verità** di tutti i treni»{chiara|dry} dice Chiara. || “Maybe that's the **truth** about all trains,” says Chiara, dryly.
+
+«**Quale** è meglio?»{donna} chiede Giulia. «**Italia** o **America**?» || “**Which** is better?” Giulia asks. “**Italy** or **America**?”
+Chiara pensa. «**Quale**? **Non** c'è una **risposta**»{chiara} dice. || Chiara thinks. “**Which**? There's **no** **answer**,” says Chiara.
+«Ma tu scegli»{donna} dice Giulia. || “But you choose,” says Giulia.
+«Io **non** scelgo. Io vivo»{chiara} dice Chiara. || “I **don't** choose. I live,” says Chiara.
+
+Chiara prende un sorso d'acqua. Poi parla in inglese, veloce. || Chiara takes a sip of water. Then she speaks in English, fast.
+«*So, the number, the population...*»{chiara|fast} dice. || “*So, the number, the population...*” she says.
+Poi si ferma. Guarda Davide e Giulia. || Then she stops. She looks at Davide and Giulia.
+«Scusa. *Il numero*»{chiara|embarrassed} dice. «Il numero delle persone.» || “Sorry. *Il numero*,” she says. “The number of people.”
+«Il numero?»{uomo|confused} chiede Davide. || “The number?” Davide asks, confused.
+«*The number*. Il numero»{chiara} dice Chiara. «Il numero delle persone a Chicago.» || “*The number*. Il numero,” says Chiara. “The number of people in Chicago.”
+«Ah!»{uomo} dice Davide. «Il numero!» || “Ah!” says Davide. “The number!”
+«In **America** dico *the number* anche in **italiano**»{chiara|honest} dice Chiara. «È un problema.» || “In **America** I say *the number* even in **italiano**,” says Chiara honestly. “It's a problem.”
+«**Non** è un problema»{donna|warm} dice Giulia. «È una **lingua** nuova.» || “It's **not** a problem,” says Giulia warmly. “It's a new **language**.”
+«Ne ho due»{chiara} dice Chiara. «E a volte **non** **capisco** quale.» || “I have two,” says Chiara. “And sometimes I **don't** **understand** which one.”
+
+Giulia appoggia la forchetta. || Giulia puts down her fork.
+«Chiara, mi **rispondi** in inglese americano?»{donna|curious} chiede Giulia. || “Chiara, will you **answer** me in American English?” Giulia asks.
+«**Sì**»{chiara} dice Chiara. «Ma piano.» || “**Yes**,” says Chiara. “But slowly.”
+«Di' una frase»{donna} dice Giulia. || “Say a sentence,” Giulia says.
+Chiara respira. «*My daughter takes the train to school every morning*»{chiara|slow} dice. || Chiara breathes. “*My daughter takes the train to school every morning*,” she says.
+Giulia ascolta con la bocca aperta. || Giulia listens with her mouth open.
+«Di nuovo»{donna} dice Giulia. || “Again,” says Giulia.
+«*My daughter takes the train*»{chiara} dice Chiara. «*To school. Every morning.*» || “*My daughter takes the train*,” says Chiara. “*To school. Every morning.*”
+«Bello»{donna|smiling} dice Giulia. «È **come** una canzone.» || “Beautiful,” says Giulia, smiling. “It's **like** a song.”
+«È solo la mia vita»{chiara} dice Chiara. || “It's just my life,” says Chiara.
+
+Davide prende il telefono e guarda l'ora. || Davide takes his phone and looks at the time.
+«Dobbiamo tornare»{uomo} dice. «Il cliente **chiede** il disegno.» || “We have to go back,” he says. “The client is **asking** for the drawing.”
+«**Quando**?»{chiara} chiede Chiara. || “**When**?” Chiara asks.
+«Adesso»{uomo|dry} dice Davide. || “Now,” says Davide, dryly.
+«Perfetto»{chiara} dice Chiara e ride. || “Perfect,” says Chiara, and laughs.
+
+Giulia si alza e prende la sua tazza. || Giulia gets up and takes her cup.
+«Chiara, il **mestiere** in **Italia** è difficile?»{donna} chiede Giulia. || “Chiara, is the **job** in **Italy** hard?” Giulia asks.
+«**Sì**»{chiara} dice Chiara. «Ma anche in **America**.» || “**Yes**,” says Chiara. “But in **America** too.”
+«E **che cosa** è diverso?»{donna} chiede. || “And **what** is different?” Giulia asks.
+«Le **domande**»{chiara} dice Chiara. «Le **domande** sono diverse.» || “The **questions**,” says Chiara. “The **questions** are different.”
+«In che senso?»{donna} chiede Giulia. || “In what way?” Giulia asks.
+«In **America** mi chiedono: *quanto guadagni*»{chiara} dice. «In **Italia**: *di chi sei figlia*?» || “In **America** they ask me: *how much do you earn*,” says Chiara. “In **Italy**: *whose daughter are you*?”
+Giulia ride forte. Davide ride anche lui. || Giulia laughs loudly. Davide laughs too.
+«E la **risposta**?»{donna} chiede Giulia. || “And the **answer**?” Giulia asks.
+«Ferri»{chiara} dice Chiara. «Ferri, **sì**.» || “Ferri,” says Chiara. “Ferri, **yes**.”
+
+Tutti e tre portano i piatti al banco. || All three carry their plates to the counter.
+Chiara guarda la strada dalla finestra. || Chiara looks at the street from the window.
+Milano è grigia e bella, con il cielo grande. || Milan is grey and beautiful, with a big sky.
+_Le **domande** sono facili. Le **risposte** sono due._{chiara} || *The **questions** are easy. The **answers** are two.*
+_E io **non** **capisco** mai quale._{chiara} || *And I **never** **understand** which one.*
+«Chiara, vieni!»{uomo} chiama Davide. || “Chiara, come on!” Davide calls.
+«Vengo»{chiara} dice Chiara. E prende la matita. || “Coming,” says Chiara. And she picks up the pencil.
+
+# SCENE casa-carter | martedì sera | leo, kevin, chiara, emma
+
+Sono le otto di sera a Via dei Tigli quattordici. || It's eight in the evening on Via dei Tigli fourteen.
+In cucina c'è la pasta con i pomodori di Franco. || In the kitchen there's pasta with Franco's tomatoes.
+Il tavolo è pieno: Leo, Emma, Chiara e Kevin. || The table is full: Leo, Emma, Chiara and Kevin.
+Leo tiene in mano un foglio con dieci domande. || Leo is holding a sheet with ten questions.
+Emma guarda il foglio e sbuffa. || Emma looks at the sheet and sighs.
+
+«Stasera faccio un gioco»{leo|excited} dice Leo. «Una **domanda** per uno.» || “Tonight I'm doing a game,” says Leo. “One **question** each.”
+«Quante **domande**?»{chiara|tired} chiede Chiara. || “**How many** **questions**?” Chiara asks.
+«Quattro»{leo} dice Leo. «Una per voi.» || “Four,” says Leo. “One each for you.”
+«Solo quattro?»{chiara} chiede Chiara. || “Only four?” Chiara asks.
+«**Sì**»{leo} dice Leo. «Poi mangio.» || “**Yes**,” says Leo. “Then I eat.”
+
+«Emma, prima domanda»{leo} dice Leo. || “Emma, first question,” says Leo.
+«Dai...»{emma|groaning} dice Emma. || “Come on...” says Emma.
+«**Chi** è il tuo professore preferito?»{leo} chiede Leo. || “**Who** is your favorite teacher?” Leo asks.
+Emma pensa due secondi. || Emma thinks for two seconds.
+«**Non** lo so»{emma} dice. «Boh.» || “I **don't** know,” says Emma. “Dunno.”
+«**Quale** professore?»{leo|insisting} chiede Leo. || “**Which** teacher?” Leo asks, insisting.
+«La professoressa di **italiano**»{emma|quiet} dice. «La professoressa Bassi. È brava.» || “The **italian** teacher,” says Emma quietly. “Professor Bassi. She's good.”
+«**Perché**?»{leo} chiede Leo. || “**Why**?” asks Leo.
+«**Perché** **non** grida mai»{emma} dice Emma. || “**Because** she never shouts,” says Emma.
+«Va bene»{leo} dice Leo e scrive la **risposta**. || “Okay,” says Leo, and writes the **answer**.
+
+Poi Leo gira la testa verso Chiara. || Then Leo turns his head toward Chiara.
+«Mamma, **che cosa** fai al lavoro?»{leo} chiede Leo. || “Mom, **what** do you do at work?” Leo asks.
+«Progetto le case»{chiara} dice Chiara. || “I design houses,” says Chiara.
+«**Come** le progetto?»{leo} chiede Leo. || “**How** do you design them?” Leo asks.
+Chiara apre la bocca. Poi **non** parla. || Chiara opens her mouth. Then she does **not** speak.
+«**Perché**, Leo?»{chiara|curious} chiede Chiara. || “**Why**, Leo?” Chiara asks.
+«**Perché** **sì**»{leo|honest} dice Leo. || “**Because** just because,” says Leo.
+Chiara ride forte. «Risposta nuova»{chiara} dice. || Chiara laughs loudly. “New answer,” says Chiara.
+
+«Emma, seconda domanda»{leo} dice Leo. || “Emma, second question,” says Leo.
+«Leo, **non** mangiare e **non** parlare insieme»{emma|dry} dice Emma. || “Leo, **don't** eat and talk at the same time,” says Emma.
+«Ma è un gioco»{leo} dice Leo. || “But it's a game,” says Leo.
+«Allora finisci il gioco»{emma} dice Emma. || “Then finish the game,” says Emma.
+«**Dove** vai in treno?»{leo} chiede Leo. || “**Where** do you go by train?” Leo asks.
+«A Monza. E a Milano, il sabato»{emma} dice Emma. || “To Monza. And to Milan, on Saturdays,” says Emma.
+«**Quanto** dura il treno?»{leo} chiede Leo. || “**How long** does the train take?” Leo asks.
+«Venti minuti»{emma} dice Emma. «Più o meno.» || “Twenty minutes,” says Emma. “More or less.”
+Emma beve l'acqua. Guarda Kevin. || Emma drinks water. She looks at Kevin.
+
+Kevin mangia i suoi pomodori. È contento. || Kevin eats his tomatoes. He's happy.
+«Papà, **quando** arriva il treno?»{leo} chiede Leo. || “Dad, **when** does the train arrive?” Leo asks.
+«Alle sette e mezza»{ben|proud} dice Kevin. || “At seven thirty,” says Kevin.
+«Bene»{leo} dice Leo. «E **dove** va il treno dopo Monza?» || “Good,” says Leo. “And **where** does the train go after Monza?”
+Kevin **non** **capisce**. Guarda Chiara. || Kevin doesn't **understand**. He looks at Chiara.
+«Leo, questo è difficile»{ben} dice Kevin. || “Leo, this is hard,” says Kevin.
+«**Perché**?»{leo} chiede Leo. || “**Why**?” asks Leo.
+«Perché...»{ben|stuck} dice Kevin. Poi tace. || “Because...” says Kevin. Then he goes quiet.
+
+Kevin prende il **quaderno** giallo dalla tasca. || Kevin takes the yellow **notebook** from his pocket.
+«Numero uno»{ben} dice Kevin e scrive. || “Number one,” says Kevin, and writes.
+«Kevin, **non** scrivere a tavola»{chiara|lovingly} dice Chiara. || “Kevin, **don't** write at the table,” says Chiara, fondly.
+«Ma è la mia **lezione**»{ben} dice Kevin. «Le domande di Leo.» || “But it's my **lesson**,” says Kevin. “Leo's questions.”
+Emma guarda il quaderno. «Sei serio?»{emma} chiede Emma. || Emma looks at the notebook. “Are you serious?” Emma asks.
+«Molto serio»{ben} dice Kevin. || “Very serious,” says Kevin.
+
+«Papà, ancora una domanda»{leo} dice Leo. || “Dad, one more question,” says Leo.
+«Ancora?»{ben|tired} dice Kevin. || “Again?” says Kevin, tired.
+«**Che cosa** mangi in **America** a colazione?»{leo} chiede Leo. || “**What** do you eat in **America** for breakfast?” Leo asks.
+«Uova, pancetta, pane tostato»{ben} dice Kevin. «E caffè grande.» || “Eggs, bacon, toast,” says Kevin. “And a big coffee.”
+«**Non** capisco *pancetta*»{leo} dice Leo. || “I **don't** understand *pancetta*,” says Leo.
+«Bacon»{ben} dice Kevin. «Carne di maiale.» || “Bacon,” says Kevin. “Pork meat.”
+«In **italiano** è *pancetta*?»{leo} chiede Leo. || “In **italiano** is it *pancetta*?” Leo asks.
+«**Sì**»{chiara} dice Chiara. «Ma **non** a colazione.» || “**Yes**,” says Chiara. “But **not** at breakfast.”
+«Ancora due!»{leo|excited} dice Leo e scrive. || “Two more!” says Leo, excited, and writes.
+
+Kevin guarda il tavolo e poi la porta. || Kevin looks at the table and then at the door.
+«Leo, **quale** domanda è l'ultima?»{ben} chiede Kevin. || “Leo, **which** question is the last one?” Kevin asks.
+«Questa»{leo} dice Leo. «**Dove** sono le chiavi?» || “This one,” says Leo. “**Where** are the keys?”
+Tutti guardano Kevin. Silenzio. || Everyone looks at Kevin. Silence.
+Kevin pensa. Guarda la cucina. Guarda la sedia. || Kevin thinks. He looks at the kitchen. He looks at the chair.
+Poi si alza. Apre il cassetto vicino al forno. || Then he gets up. He opens the drawer next to the oven.
+«Le chiavi sono qui»{ben|proud} dice Kevin. «Sempre qui.» || “The keys are here,” says Kevin proudly. “Always here.”
+La famiglia batte le mani. Emma ride. || The family claps. Emma laughs.
+«Vero!»{chiara|surprised} dice Chiara. || “True!” says Chiara, surprised.
+«**No**, **è** incredibile»{emma|laughing} dice Emma. || “**No**, that's incredible,” says Emma, laughing.
+
+Leo prende il **quaderno** di Kevin. Conta le pagine. || Leo takes Kevin's **notebook**. He counts the pages.
+«Papà, hai dieci **domande**»{leo} dice Leo. || “Dad, you have ten **questions**,” says Leo.
+«**Sì**»{ben} dice Kevin. || “**Yes**,” says Kevin.
+«E quante **risposte**?»{leo} chiede Leo. || “And **how many** **answers**?” Leo asks.
+Kevin guarda la sua pagina. C'è una sola riga. || Kevin looks at his page. There's only one line.
+«Una»{ben|honest} dice Kevin. || “One,” says Kevin.
+«Zero e una»{leo} dice Leo. «Va bene.» || “Zero and one,” says Leo. “Okay.”
+«Grazie, Leo»{ben|dry} dice Kevin. || “Thanks, Leo,” says Kevin, dryly.
+
+Chiara prende il piatto di Leo. Emma prende il suo. || Chiara takes Leo's plate. Emma takes hers.
+«Domani altre **domande**?»{chiara} chiede Chiara. || “Tomorrow more **questions**?” Chiara asks.
+«**Sì**, mamma»{leo} dice Leo. «Ma **non** a tavola.» || “**Yes**, Mom,” says Leo. “But **not** at the table.”
+«Bene»{chiara} dice Chiara. || “Good,” says Chiara.
+«A tavola ci sono i **compiti**»{leo} dice Leo. «Le domande sono per la strada.» || “At the table there's **homework**,” says Leo. “Questions are for the street.”
+_Mio papà scrive le domande. Io scrivo le risposte. Forse è la stessa cosa._{leo} || *My dad writes the questions. I write the answers. Maybe it's the same thing.*
+Kevin mette il quaderno in tasca. Emma porta i bicchieri al lavandino. || Kevin puts the notebook in his pocket. Emma carries the glasses to the sink.
+
+# SCENE casa-carter | martedì sera, tardi | leo, kevin
+
+La casa è silenziosa. Sono le dieci e mezza. || The house is quiet. It's half past ten.
+In cucina c'è una luce piccola sopra il tavolo. || In the kitchen there's a small light above the table.
+Kevin è seduto con il **quaderno** giallo aperto. || Kevin is sitting with the yellow **notebook** open.
+Davanti a lui c'è una pagina bianca e una penna blu. || In front of him there's a blank page and a blue pen.
+Fuori piove piano sui tigli della strada. || Outside it's raining softly on the linden trees on the street.
+
+Kevin scrive una parola grande: CHI. || Kevin writes a big word: WHO.
+Poi scrive: CHE COSA. || Then he writes: WHAT.
+Poi: DOVE. Poi: QUANDO. || Then: WHERE. Then: WHEN.
+Le lettere sono grandi e un po' storte. || The letters are big and a little crooked.
+Kevin legge a voce bassa. || Kevin reads in a low voice.
+
+«**Chi**... **Che cosa**... **Dove**... **Quando**...»{ben|whispering} dice Kevin. || “**Who**... **What**... **Where**... **When**...” says Kevin, whispering.
+«**Come**... **Perché**... **Quanto**... **Quale**...»{ben} || “**How**... **Why**... **How much**... **Which**...”
+Kevin guarda la pagina. Otto parole. || Kevin looks at the page. Eight words.
+«Otto»{ben} dice. «Il numero Otto.» || “Eight,” he says. “Number eight.”
+_Otto parole. **Non** sono molte._{ben} || *Eight words. That's **not** many.*
+_Ma sono tutte le **domande** di Leo._{ben} || *But they're all of Leo's **questions**.*
+
+Sulle scale si sentono dei passi piccoli. || On the stairs you can hear small footsteps.
+Leo arriva in cucina in pigiama. Ha sonno. || Leo comes into the kitchen in his pajamas. He's sleepy.
+«Papà?»{leo|sleepy} dice Leo. || “Dad?” says Leo.
+«Leo! **Perché** sei qui?»{ben|surprised} chiede Kevin. || “Leo! **Why** are you here?” Kevin asks.
+«Acqua»{leo} dice Leo. «Ho sete.» || “Water,” says Leo. “I'm thirsty.”
+«Ah»{ben} dice Kevin. «Perfetto.» || “Ah,” says Kevin. “Perfect.”
+
+Kevin si alza e prende un bicchiere. || Kevin gets up and takes a glass.
+Apre il rubinetto. L'acqua è fredda. || He turns on the tap. The water is cold.
+Leo beve tutto il bicchiere. Poi guarda il tavolo. || Leo drinks the whole glass. Then he looks at the table.
+«Che cos'è?»{leo|curious} chiede Leo e indica il **quaderno**. || “What is it?” Leo asks, pointing at the **notebook**.
+«La mia **lezione**»{ben} dice Kevin. || “My **lesson**,” says Kevin.
+«La **lezione**?»{leo} chiede Leo. «Di notte?» || “The **lesson**?” Leo asks. “At night?”
+«Di notte **non** c'è nessuno»{ben} dice Kevin. «E io **non** **capisco** tutto.» || “At night there's nobody,” says Kevin. “And I **don't** **understand** everything.”
+
+Leo si avvicina al tavolo. Legge le parole. || Leo comes closer to the table. He reads the words.
+«**Chi**, **che cosa**, **dove**, **quando**»{leo|reading} dice Leo. || “**Who**, **what**, **where**, **when**,” says Leo.
+«**Come**, **perché**, **quanto**, **quale**»{ben} dice Kevin. || “**How**, **why**, **how much**, **which**,” says Kevin.
+«Sono le parole della **domanda**»{leo} dice Leo. || “They're the **question** words,” says Leo.
+«**Sì**»{ben} dice Kevin. «Le tue parole.» || “**Yes**,” says Kevin. “Your words.”
+«Mie?»{leo} chiede Leo. || “Mine?” Leo asks.
+«Tue»{ben} dice Kevin. «Tu le dici sempre.» || “Yours,” says Kevin. “You always say them.”
+
+Leo guarda Kevin. Poi guarda il **quaderno** di nuovo. || Leo looks at Kevin. Then he looks at the **notebook** again.
+«Papà, una **domanda**»{leo} dice Leo. || “Dad, one **question**,” says Leo.
+«Ancora?»{ben|tired} dice Kevin e ride. || “Again?” says Kevin, and laughs.
+«**Perché** scrivi le mie **domande**?»{leo} chiede Leo. || “**Why** do you write my **questions**?” Leo asks.
+Kevin **non** **risponde** subito. Pensa. || Kevin doesn't **answer** right away. He thinks.
+Poi parla piano. || Then he speaks slowly.
+
+«**Perché** le **domande** sono la mia **lezione**»{ben|simple} dice Kevin. || “**Because** the **questions** are my **lesson**,” says Kevin.
+«La tua **lezione**?»{leo} chiede Leo. || “Your **lesson**?” Leo asks.
+«**Sì**»{ben} dice Kevin. «Io **chiedo** sempre. E tu **rispondi**.» || “**Yes**,” says Kevin. “I always **ask**. And you **answer**.”
+«Ma io ho otto anni»{leo} dice Leo. || “But I'm eight,” says Leo.
+«E io **non** **capisco** l'**italiano** bene»{ben} dice Kevin. «Tu **sì**.» || “And I **don't** **understand** **Italian** well,” says Kevin. “You do.”
+Leo **non** ride. Pensa un momento. || Leo does **not** laugh. He thinks for a moment.
+«Va bene»{leo} dice Leo. «È una buona **risposta**.» || “Okay,” says Leo. “That's a good **answer**.”
+
+Leo guarda la pagina del **quaderno**. || Leo looks at the **notebook** page.
+«Papà, questa parola è sbagliata»{leo} dice Leo. || “Dad, this word is wrong,” says Leo.
+«Quale?»{ben|worried} chiede Kevin. || “Which one?” Kevin asks, worried.
+«**Quale**»{leo} dice Leo. «Scrivi *quale* con due *e*.» || “**Which**,” says Leo. “You write *quale* with two *e*.”
+«Ah, **no**»{ben} dice Kevin. «Scusa.» || “Ah, **no**,” says Kevin. “Sorry.”
+Kevin prende la penna e cancella una lettera. || Kevin takes the pen and crosses out a letter.
+«**Quale**»{ben|careful} dice Kevin. «Con una *e*.» || “**Quale**,” says Kevin. “With one *e*.”
+«Bravo»{leo} dice Leo. || “Good,” says Leo.
+«Grazie, maestro»{ben} dice Kevin. || “Thanks, teacher,” says Kevin.
+
+Leo prende il bicchiere vuoto e va verso le scale. || Leo takes the empty glass and goes toward the stairs.
+«Papà?»{leo} dice Leo dalla porta. || “Dad?” says Leo from the door.
+«Sì?»{ben} dice Kevin. || “Yes?” says Kevin.
+«**Dove** sono le tue **risposte**?»{leo} chiede Leo. || “**Where** are your **answers**?” Leo asks.
+Kevin guarda la pagina bianca e poi guarda Leo. || Kevin looks at the blank page and then at Leo.
+«**Non** ci sono»{ben|honest} dice Kevin. «Per ora.» || “There **aren't** any,” says Kevin. “For now.”
+«Va bene»{leo} dice Leo. «Notte, papà.» || “Okay,” says Leo. “Night, Dad.”
+«Notte, Leo»{ben} dice Kevin. || “Night, Leo,” says Kevin.
+
+_Io **non** ho le **risposte**. Ho le **domande**._{ben} || *I don't have the **answers**. I have the **questions**.*
+_E per adesso, va bene così._{ben} || *And for now, that's fine.*
+Kevin guarda la pagina: CHI, CHE COSA, DOVE, QUANDO, COME, PERCHÉ, QUANTO, QUALE. || Kevin looks at the page: WHO, WHAT, WHERE, WHEN, HOW, WHY, HOW MUCH, WHICH.
+Nella casa tutto dorme. La pioggia continua. || In the house everything sleeps. The rain goes on.
+Kevin chiude il **quaderno** piano. || Kevin closes the **notebook** softly.
+«Domani, altre **domande**»{ben|whispering} dice. || “Tomorrow, more **questions**,” he says.
+
+@grammar
+# Question Words and Negation
+
+## What it is
+
+Two things go together in Italian conversation: asking, and saying no. **Question words** are the little words that start a question — *chi, che cosa, dove, quando, come, perché, quanto, quale*. **Negation** is how you say something is not true: you put **non** before the verb. In this episode Leo asks about sixty questions a day; Maestra Paola answers them, and Kevin writes them all down.
+
+## How it works
+
+### The question words
+
+| Italian | English | Example |
+|---|---|---|
+| **chi** | who | **Chi** firma i documenti? |
+| **che cosa** | what | **Che cosa** mangi? |
+| **dove** | where | **Dove** sono le chiavi? |
+| **quando** | when | **Quando** arriva il treno? |
+| **come** | how, like | **Come** stai? |
+| **perché** | why; because | **Perché** ridi? |
+| **quanto / quanta / quanti / quante** | how much, how many | **Quante** domande hai? |
+| **quale / quali** | which | **Quale** è il migliore? |
+
+**Quanto** agrees with the thing you are counting: *quanto costa?* (m. singular), **quanta** acqua? (f. singular), **quanti** caffè? (m. plural), **quante** domande? (f. plural). **Quale** takes **-i** in the plural: *quale*, *quali*.
+
+### Word order
+
+Italian questions keep the normal word order: question word + verb + everything else. There is no *do* / *does*.
+
+- **Dove** va il treno? — Where does the train go?
+- **Che cosa** fai al lavoro? — What do you do at work?
+
+### Two kinds of question
+
+1. **With a question word:** **Chi** è il tuo professore preferito? **Dove** vivi?
+2. **By intonation alone.** Take a statement and raise your voice at the end (in writing, just add the question mark): *Il treno arriva?* *Hai fame?* Answer with **sì** or **no**, or with a full sentence: *Sì, ho fame.* / *No, non ho fame.*
+
+### Negation: non + verb
+
+**Non** goes **directly before the verb**, never at the end of the sentence.
+
+- **Non** capisco. — I don't understand.
+- Leo **non** ride. — Leo doesn't laugh.
+- Kevin **non** risponde subito. — Kevin doesn't answer right away.
+
+If there is an object, **non** still stays glued to the verb: *Non capisco la domanda.* (I don't understand the question.) English *don't / doesn't* splits the sentence; Italian never does.
+
+To make a **sì/no question negative**, answer with **no** and repeat the verb with **non**: *Non è una corsa?* — *No, non è una corsa.*
+
+## From the story
+
+[[Chi vuole fare una domanda?]] — **Chi** asks about a person; no *do* is needed.
+[[Che cosa è una domanda?]] — **Che cosa** is the standard way to say *what*; note that it stays two words.
+[[Dove è la risposta?]] — **Dove** asks for a place.
+[[Quante domande hai?]] — **Quante** agrees with the feminine plural **domande**.
+[[Quale è il pomodoro migliore?]] — **Quale** asks you to choose one from a group.
+[[Come si dice lavagna in America?]] — **Come** asks for the way something is said or done.
+[[Perché mi piace la parola]] — **Perché** opens a question here, and answers one when it means *because*.
+[[Quanto costa il pane?]] — **Quanto** with a singular masculine noun is the classic shopping question.
+[[Non capisco niente]] — **non** before the verb; *niente* after it.
+[[Non è una corsa]] — a full negative sentence with **essere**.
+[[Perché scrivi le mie domande?]] — **Perché** plus an -ere verb, still in the simple present.
+[[Io non ho le risposte. Ho le domande.]] — the negation sits right before **ho**, and the second sentence contrasts with it.
+
+## Common mistakes
+
+- **Putting *non* at the end.** English *I don't understand*, Italian **Non** capisco — never *Capisco non*.
+- **Using *do / does*.** *Do you have questions?* → **Hai domande?** or **Hai delle domande?**
+- **Forgetting agreement on *quanto*.** *Quanto domande?* ✗ → **Quante** domande? ✓ (domande is feminine plural).
+- **Confusing *perché*.** The same word means both *why* and *because*: **Perché** ridi? / **Perché** è una buona risposta.
+- **Answering a question word with *sì*.** *Sì* only answers a yes/no question. To *Dove vai?* you must give a place: *Vado a Monza.*
+
+## Practice
+
+1. Complete with the right question word: «___ è il tuo professore preferito?» (a person)
+2. Choose the correct form: «___ caffè fa Matteo al giorno?» — *Quanto* / *Quanti* / *Quante*
+3. Make it negative: *Capisco la domanda.* → ______
+4. Make it a yes/no question: *Il treno arriva alle sette e mezza.* → ______
+5. Answer in Italian with a full sentence: *Dove sono le chiavi?*
+6. Answer the question word properly: «___ costa un caffè?» — *Chi* / *Quanto* / *Quale*
+7. Translate: *Which is the best tomato?*
+8. Say it in Italian: *I don't answer right away.*
+
+### Answer key
+
+1. **Chi** è il tuo professore preferito?
+2. **Quanti** caffè fa Matteo al giorno? (caffè is masculine plural here)
+3. **Non** capisco la domanda.
+4. Il treno arriva alle sette e mezza? (raised intonation in speech; question mark in writing)
+5. Le chiavi sono **qui** / Le chiavi sono nel cassetto. (any real place, but *sì* alone is wrong)
+6. **Quanto** costa un caffè?
+7. **Quale** è il pomodoro migliore?
+8. **Non** rispondo subito.

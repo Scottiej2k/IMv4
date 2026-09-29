@@ -74,6 +74,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin sees where Franco's late wife Anna lies and speaks to her («Signora Anna, piacere di conoscerla»); Franco, still calling him *l'americano*, tells Kevin to keep the pumpkin because Anna liked parties and Americans. Roberto half-suspects the candies.
 - **Planted:** Tommaso–Emma runway encounter; Leo asks to do Halloween again next year.
 
+### s01e09 · Perché, papà?
+- **Happened:** Leo brings ten questions to school; Maestra Paola teaches the question words and sets homework of five questions. At Bar Tigli Nadia halves Matteo's coffee figures; Kevin shops and starts a *quanto costa* list. Leo asks Franco about the garden and about his Sunday "corso", and Franco dodges. Chiara's Milan studio discusses the Isola bank project; at dinner Leo quizzes the family; late that night Kevin copies the eight question words and Leo corrects his "quale".
+- **New facts:** Leo's class is terza B at scuola Gianni Rodari; teacher **Maestra Paola**; classmate Pietro. **Studio Marchetti**, zona Isola, Milan: boss **Marchetti**, colleagues **Davide** and **Giulia**; bank project, wood and glass, four floors, deadline December; Chiara keeps Saturdays for family. Emma's favorite teacher: **professoressa Bassi**. Kevin's yellow **quaderno**; house keys always in the drawer by the oven.
+- **Changed:** Leo notices Franco won't answer about Sundays; Chiara's two-language work life is now shown at the studio.
+- **Planted:** Franco's evasive Sunday "corso" (Lucia reveal, S1); Leo's awareness of it.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

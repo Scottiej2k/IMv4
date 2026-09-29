@@ -1,0 +1,5 @@
+### s01e09 · Perché, papà?
+- **Happened:** Leo brings ten questions to school; Maestra Paola teaches the question words and sets homework of five questions. At Bar Tigli Nadia halves Matteo's coffee figures; Kevin shops and starts a *quanto costa* list. Leo asks Franco about the garden and about his Sunday "corso", and Franco dodges. Chiara's Milan studio discusses the Isola bank project; at dinner Leo quizzes the family; late that night Kevin copies the eight question words and Leo corrects his "quale".
+- **New facts:** Leo's class is terza B at scuola Gianni Rodari; teacher **Maestra Paola**; classmate Pietro. **Studio Marchetti**, zona Isola, Milan: boss **Marchetti**, colleagues **Davide** and **Giulia**; bank project, wood and glass, four floors, deadline December; Chiara keeps Saturdays for family. Emma's favorite teacher: **professoressa Bassi**. Kevin's yellow **quaderno**; house keys always in the drawer by the oven.
+- **Changed:** Leo notices Franco won't answer about Sundays; Chiara's two-language work life is now shown at the studio.
+- **Planted:** Franco's evasive Sunday "corso" (Lucia reveal, S1); Leo's awareness of it.
