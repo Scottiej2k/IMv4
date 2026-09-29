@@ -117,6 +117,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara knows about Franco and Lucia, and that Kevin has hidden it since November; Emma works out both. Franco invites Chiara to Sunday lunch with Lucia.
 - **Planted:** Sunday lunch with Lucia — Chiara hasn't answered; Ornella may already know.
 
+### s01e16 · Le regole
+- **Happened:** Roberto brings Kevin the 30-page Via dei Tigli regolamento and makes him sign it "per presa visione" with Saturday's date; Kevin tries hard to follow every rule (bins, hedge, sidewalk). Kevin puts the bins out two days early; Nadia and Matteo explain paper is Tuesday, plastic Thursday, bins out the evening before, blue/yellow bins with house number. Kevin asks Roberto for a street-party permit; Roberto has him write and sign the request. Chiara confronts Franco about Lucia; no reconciliation, but she almost agrees to Sunday pasta al forno.
+- **New facts:** Roberto's wife is Marina; they live at Via dei Tigli 11. Roberto's committee rulebook has at least 30 numbered rules (rule 22: visits). Bin rules: paper Tuesday, plastic Thursday, put out the evening before from 8 pm; both bins yellow (not blue) with house number on each.
+- **Changed:** Chiara knows about Franco and Lucia and is angry not that he's seeing her but that he didn't tell her himself; Franco knows she knows. Kevin and Chiara are cold with each other: she's still angry, he's avoiding the Sunday-lunch talk. Chiara thanks Kevin for staying quiet; Franco grudgingly respects it.
+- **Planted:** Sunday pasta al forno at Franco's — Chiara may come (payoff later). Kevin's signed street-party permit request, pending the comitato's decision.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
