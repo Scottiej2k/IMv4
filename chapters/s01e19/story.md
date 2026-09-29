@@ -200,59 +200,7 @@ Kevin finisce la **focaccia**. «A che ora?» chiede.
 
 «Alle otto. Otto e mezza» dice Matteo.
 
-«**Va bene**. **D'accordo**» dice Kevin.
-
-«Bene. Io lo **dico** sempre: tu **dici** di sì» dice Matteo.
-
-«Io **dico** di sì **subito**» dice Kevin. «È la mia natura.»
-
-«Lo so» dice Matteo, e ride.
-
-Kevin chiude il quaderno giallo. «Matteo, una domanda» dice.
-
-«Dimmi»
-
-«Io **sto** bene con te. Anche tu **stai** bene?» chiede Kevin.
-
-«Io **sto** bene» dice Matteo. «Ma non **dico** queste cose al bar.»
-
-«Ah. **Scusa**» dice Kevin.
-
-Matteo prende un altro bicchiere. «Senti, americano. Il **sabato sera** io lavoro fino alle sette» dice.
-
-«E io **sto** a casa fino alle sette» dice Kevin.
-
-«**Stai** a casa. **Dici** alla famiglia: esco con Matteo» dice.
-
-«La famiglia **dice**: Matteo? Il bar?» chiede Kevin.
-
-«No. La famiglia **dice**: perfetto!» dice Matteo. Kevin ride.
-
-«E Emma esce anche lei stasera» dice Kevin.
-
-«Emma? Con chi?» chiede.
-
-«Con Bianca e altri» dice Kevin.
-
-«E altri chi?» chiede Matteo.
-
-«Ehm. Bianca **dice**... io non **dico**...»
-
-«Ah!» Matteo sorride. «Capito. La **compagnia** di Emma è un mistero.»
-
-«Un mistero totale» dice Kevin.
-
-Kevin guarda l'ora. «Adesso **sto** qui o **esco**?» chiede.
-
-«Tu **stai** qui e **bevi** un altro caffè» dice Matteo.
-
-«Ma la **birra**?»
-
-«La **birra** è per il **sabato sera**» dice. «Adesso è pomeriggio.»
-
-«Ah. **Va bene**» dice Kevin.
-
-Matteo porta un altro caffè. Kevin **beve** il caffè al banco, in piedi. Fuori il sole esce dalle nuvole. _Stasera non sono l'americano._ pensa. _Stasera sono uno della **compagnia**._ «Grazie, Matteo» dice Kevin.
+«**Va bene**. **D'accordo**» dice Kevin. Matteo porta un altro caffè. Kevin **beve** il caffè al banco, in piedi. Fuori il sole esce dalle nuvole. _Stasera non sono l'americano._ pensa. _Stasera sono uno della **compagnia**._ «Grazie, Matteo» dice Kevin.
 
 «Grazie di che?»
 
@@ -290,7 +238,7 @@ Franco ride piano. «Io? Io **esco** il **sabato sera** con la **compagnia**» d
 
 «Sei nomi» dice Franco. «Tutti amici.»
 
-«E il nonno di papà? **Dice** di sì o di no?» chiede.
+«E il tuo papà? **Dice** di sì o di no?» chiede.
 
 «Mio padre **dice** sempre: "a casa a **mezzanotte**"» dice Franco.
 
@@ -364,7 +312,7 @@ Emma lo abbraccia. «Grazie, nonno» dice.
 
 «Io le **dico** la verità» dice Franco. «E la verità è tua amica.»
 
-Franco esce in **subito** dal cancello. Emma lo guarda dalla finestra. _La giacca buona._ pensa. _Forse stasera **esco** davvero._
+Franco esce **subito** dal cancello. Emma lo guarda dalla finestra. _La giacca buona._ pensa. _Forse stasera **esco** davvero._
 
 ## 4. Casa Carter, Via dei Tigli 14 · sabato sera
 
@@ -418,17 +366,15 @@ Franco lo guarda. Emma arriva dalla camera. «Alle quattro, papà. Alle sedici n
 
 «Perché non so dove va, con chi va, a che ora torna» dice Chiara.
 
-Franco si siede sul bordo della sedia. «Io, a quindici anni, **uscivo** il **sabato sera**» dice.
+Franco si siede sul bordo della sedia. «Io, a quindici anni: il **sabato sera**, fuori con gli amici» dice.
 
-Kevin apre la bocca. «Lei **dà** sempre **fiducia** ai ragazzi» dice Kevin.
+Kevin apre la bocca. «Tu **dai** sempre **fiducia** ai ragazzi» dice Kevin.
 
-«Nonno **dà**. Non Lei» dice Emma **subito**. «È tuo suocero. Si dice **nonno**.»
+«Io **do** fiducia a chi **dice** la verità» dice Franco.
 
-«Nonno **dà**» ripete Kevin. «Nonno **dà** **fiducia** ai ragazzi.»
+«Anch'io **dico** la verità!» dice Kevin.
 
-«Grazie, americano» dice Franco, senza sorridere.
-
-«Prego!» dice Kevin, felice.
+«Non sempre, americano» dice Franco, senza sorridere.
 
 Chiara incrocia le braccia. «Papà, il **coprifuoco** esiste per un motivo» dice.
 
@@ -578,7 +524,7 @@ Matteo mette giù le mani. «Americano, ascoltami» dice.
 
 «Sì. Ma più importante» dice.
 
-Sergio guarda ancora Kevin. «Cameriere, porto la **birra** media» dice. «E un cappuccino, se vuole.»
+Sergio guarda ancora Kevin. «Porto la **birra** media» dice. «E un cappuccino, se vuole.»
 
 «Vuole» dice Kevin.
 

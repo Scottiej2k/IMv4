@@ -67,12 +67,6 @@ Some things worth noticing:
 «È per Kevin» dice. «Vuole **bere** il cappuccino con la pizza.» — "It's for Kevin," Matteo says. "He wants to **drink** cappuccino with pizza." (`s01e19-5-058`)
 — after a modal verb (*volere*) the plain infinitive *bere* follows: *voglio bere*, *devo bere*.
 
-«Io **sto** bene con te. Anche tu **stai** bene?» chiede Kevin. — "I **feel** good with you. Do you **feel** good too?" Kevin asks. (`s01e19-2-066`)
-— *stare* twice, first *io*, then *tu*; the vowel *-a-* stays throughout *stare*.
-
-«Nonno **dà**» ripete Kevin. «Nonno **dà** **fiducia** ai ragazzi.» — "Grandpa **gives**," Kevin repeats. "Grandpa **gives** **trust** to young people." (`s01e19-4-043`)
-— *dare* in the third person: *dà*, with the accent.
-
 «Allora **esci**» dice Franco. — "Then **go out**," Franco says. (`s01e19-3-043`)
 — *uscire* in the *tu* form: *esci*. The **noi** form *usciamo* means "let's go out."
 

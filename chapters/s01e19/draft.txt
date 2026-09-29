@@ -65,8 +65,8 @@ Emma guarda il tavolo. «Bianca sa tutto.»{emma} || Emma looks at the table. "B
 
 Kevin alza le mani. || Kevin raises his hands.
 «Per me è tutto a posto»{ben} dice. «Bianca e altri. Perfetto.» || "For me everything's fine," he says. "Bianca and others. Perfect."
-«Kevin, tu non **stai** attento»{chiara} dice Chiara. || "Kevin, you're not paying attention," Chiara says.
-«Io **sto** benissimo!»{ben} risponde Kevin. || "I'm great!" Kevin answers.
+«Kevin, tu non **stai** attento»{chiara} dice Chiara. || "Kevin, you're not **paying attention**," Chiara says.
+«Io **sto** benissimo!»{ben} risponde Kevin. || "I'm **great**!" Kevin answers.
 «Tu **dici** sempre di sì»{chiara} dice Chiara. || "You always **say** yes," Chiara says.
 «E tu **dici** sempre di no»{ben} dice Kevin. || "And you always **say** no," Kevin says.
 
@@ -216,40 +216,6 @@ Kevin finisce la **focaccia**. || Kevin finishes the **focaccia**.
 «A che ora?»{ben} chiede. || "What time?" Kevin asks.
 «Alle otto. Otto e mezza»{matteo} dice Matteo. || "At eight. Eight thirty," Matteo says.
 «**Va bene**. **D'accordo**»{ben} dice Kevin. || "**Okay**. **Agreed**," Kevin says.
-«Bene. Io lo **dico** sempre: tu **dici** di sì»{matteo} dice Matteo. || "Good. I always **say** it: you **say** yes," Matteo says.
-«Io **dico** di sì **subito**»{ben} dice Kevin. «È la mia natura.» || "I **say** yes **right away**," Kevin says. "It's my nature."
-«Lo so»{matteo} dice Matteo, e ride. || "I know," Matteo says, and laughs.
-
-Kevin chiude il quaderno giallo. || Kevin closes the yellow notebook.
-«Matteo, una domanda»{ben} dice. || "Matteo, a question," Kevin says.
-«Dimmi»{matteo} || "Tell me."
-«Io **sto** bene con te. Anche tu **stai** bene?»{ben} chiede Kevin. || "I **feel** good with you. Do you **feel** good too?" Kevin asks.
-«Io **sto** bene»{matteo} dice Matteo. «Ma non **dico** queste cose al bar.» || "I **feel** good," Matteo says. "But I don't **say** these things at the bar."
-«Ah. **Scusa**»{ben} dice Kevin. || "Ah. **Sorry**," Kevin says.
-
-Matteo prende un altro bicchiere. || Matteo takes another glass.
-«Senti, americano. Il **sabato sera** io lavoro fino alle sette»{matteo} dice. || "Listen, American. On **Saturday night** I work until seven," Matteo says.
-«E io **sto** a casa fino alle sette»{ben} dice Kevin. || "And I **stay** home until seven," Kevin says.
-«**Stai** a casa. **Dici** alla famiglia: esco con Matteo»{matteo} dice. || "**Stay** home. **Say** to the family: I'm going out with Matteo," Matteo says.
-«La famiglia **dice**: Matteo? Il bar?»{ben} chiede Kevin. || "The family **says**: Matteo? The bar?" Kevin asks.
-«No. La famiglia **dice**: perfetto!»{matteo} dice Matteo. || "No. The family **says**: perfect!"
-Kevin ride. || Kevin laughs.
-
-«E Emma esce anche lei stasera»{ben} dice Kevin. || "And Emma is going out tonight too," Kevin says.
-«Emma? Con chi?»{matteo} chiede. || "Emma? With whom?" Matteo asks.
-«Con Bianca e altri»{ben} dice Kevin. || "With Bianca and others," Kevin says.
-«E altri chi?»{matteo} chiede Matteo. || "And others who?" Matteo asks.
-«Ehm. Bianca **dice**... io non **dico**...»{ben} || "Um. Bianca **says**... I don't **say**..."
-«Ah!»{matteo} Matteo sorride. «Capito. La **compagnia** di Emma è un mistero.» || "Ah!" Matteo smiles. "Got it. Emma's **group** is a mystery."
-«Un mistero totale»{ben} dice Kevin. || "A total mystery," Kevin says.
-
-Kevin guarda l'ora. || Kevin looks at the time.
-«Adesso **sto** qui o **esco**?»{ben} chiede. || "Now do I **stay** here or **go out**?" Kevin asks.
-«Tu **stai** qui e **bevi** un altro caffè»{matteo} dice Matteo. || "You **stay** here and **drink** another coffee," Matteo says.
-«Ma la **birra**?»{ben} || "But the **beer**?"
-«La **birra** è per il **sabato sera**»{matteo} dice. «Adesso è pomeriggio.» || "**Beer** is for **Saturday night**," Matteo says. "Now it's afternoon."
-«Ah. **Va bene**»{ben} dice Kevin. || "Ah. **Okay**," Kevin says.
-
 Matteo porta un altro caffè. || Matteo brings another coffee.
 Kevin **beve** il caffè al banco, in piedi. || Kevin **drinks** the coffee at the counter, standing.
 Fuori il sole esce dalle nuvole. || Outside the sun comes out of the clouds.
@@ -292,7 +258,7 @@ Franco ride piano. || Franco laughs quietly.
 «Io? Io **esco** il **sabato sera** con la **compagnia**»{franco} dice. «Anche a quindici anni.» || "Me? I **go out** on **Saturday night** with the **group**," Franco says. "Even at fifteen."
 «E la tua **compagnia**? Ha un nome?»{emma} || "And your **group**? Does it have a name?"
 «Sei nomi»{franco} dice Franco. «Tutti amici.» || "Six names," Franco says. "All friends."
-«E il nonno di papà? **Dice** di sì o di no?»{emma} chiede. || "And Dad's grandpa? Does he **say** yes or no?" Emma asks.
+«E il tuo papà? **Dice** di sì o di no?»{emma} chiede. || "And your dad? Does he **say** yes or no?" Emma asks.
 «Mio padre **dice** sempre: "a casa a **mezzanotte**"»{franco} dice Franco. || "My father always **says**: 'home by **midnight**,'" Franco says.
 «E tu torni a **mezzanotte**?»{emma} || "And do you come home at **midnight**?"
 «Io **dico** di sì, e torno a **mezzanotte**»{franco} dice Franco. || "I **say** yes, and I come home at **midnight**," Franco says.
@@ -303,12 +269,12 @@ Franco ride piano. || Franco laughs quietly.
 Emma mette giù la **focaccia**. || Emma puts down the **focaccia**.
 «Nonno, ma tu stai dalla parte di mamma o dalla mia?»{emma} chiede. || "Grandpa, are you on Mom's side or mine?" Emma asks.
 Franco pensa un momento. || Franco thinks a moment.
-«Io **sto** dalla parte di mia nipote»{franco} dice. || "I'm on my granddaughter's side," Franco says.
+«Io **sto** dalla parte di mia nipote»{franco} dice. || "I'm **on** my granddaughter's side," Franco says.
 Emma apre la bocca e non **dice** niente. || Emma opens her mouth and doesn't **say** anything.
 «Davvero?»{emma} || "Really?"
 
 «Una casa dove nessuno **esce** è una casa dove nessuno sta bene»{franco} dice. || "A house where nobody **goes out** is a house where nobody is okay," Franco says.
-«Tu **stai** bene qui?»{franco} chiede. || "Are you okay here?" he asks.
+«Tu **stai** bene qui?»{franco} chiede. || "Are you **okay** here?" he asks.
 «Sì. Ma voglio **uscire**»{emma} dice. || "Yes. But I want to **go out**," Emma says.
 «Allora **esci**»{franco} dice Franco. || "Then **go out**," Franco says.
 
@@ -353,7 +319,7 @@ Emma lo abbraccia. || Emma hugs him.
 «Ma tu le **dici** di sì?»{emma} chiede. || "But will you **tell** her yes?" Emma asks.
 «Io le **dico** la verità»{franco} dice Franco. «E la verità è tua amica.» || "I'll **tell** her the truth," Franco says. "And the truth is your friend."
 
-Franco esce in **subito** dal cancello. || Franco goes out through the gate **right away**.
+Franco esce **subito** dal cancello. || Franco goes out through the gate **right away**.
 Emma lo guarda dalla finestra. || Emma watches him from the window.
 _La giacca buona._{emma} pensa. || *The good jacket,* she thinks.
 _Forse stasera **esco** davvero._{emma} || *Maybe tonight I really **am going out**.*
@@ -404,14 +370,16 @@ Kevin scrive nel quaderno. || Kevin writes in the notebook.
 «Perché non so dove va, con chi va, a che ora torna»{chiara} dice Chiara. || "Because I don't know where she's going, with whom, at what time she's back," Chiara says.
 
 Franco si siede sul bordo della sedia. || Franco sits on the edge of the chair.
-«Io, a quindici anni, **uscivo** il **sabato sera**»{franco} dice. || "I, at fifteen, **went out** on **Saturday night**," Franco says.
+«Io, a quindici anni: il **sabato sera**, fuori con gli amici»{franco} dice. || "Me, at fifteen: **Saturday night**, out with friends," Franco says.
 
 Kevin apre la bocca. || Kevin opens his mouth.
-«Lei **dà** sempre **fiducia** ai ragazzi»{ben} dice Kevin. || "You always **give** **trust** to young people," Kevin says.
-«Nonno **dà**. Non Lei»{emma} dice Emma **subito**. «È tuo suocero. Si dice **nonno**.» || "Grandpa **gives**. Not 'Lei,'" Emma says **right away**. "He's your father-in-law. You say **grandpa**."
-«Nonno **dà**»{ben} ripete Kevin. «Nonno **dà** **fiducia** ai ragazzi.» || "Grandpa **gives**," Kevin repeats. "Grandpa **gives** **trust** to young people."
-«Grazie, americano»{franco} dice Franco, senza sorridere. || "Thank you, American," Franco says, without smiling.
-«Prego!»{ben} dice Kevin, felice. || "You're welcome!" Kevin says, happy.
+«Tu **dai** sempre **fiducia** ai ragazzi»{ben} dice Kevin. || "You always **give** **trust** to young people," Kevin says.
+
+«Io **do** fiducia a chi **dice** la verità»{franco} dice Franco. || "I **give** trust to whoever **tells** the truth," Franco says.
+
+«Anch'io **dico** la verità!»{ben} dice Kevin. || "I **tell** the truth too!" Kevin says.
+
+«Non sempre, americano»{franco} dice Franco, senza sorridere. || "Not always, American," Franco says, without smiling.
 
 Chiara incrocia le braccia. || Chiara crosses her arms.
 «Papà, il **coprifuoco** esiste per un motivo»{chiara} dice. || "Dad, the **curfew** exists for a reason," Chiara says.
@@ -534,7 +502,7 @@ Matteo mette giù le mani. || Matteo puts his hands down.
 «Sì. Ma più importante»{matteo} dice. || "Yes. But more important," Matteo says.
 
 Sergio guarda ancora Kevin. || Sergio still looks at Kevin.
-«Cameriere, porto la **birra** media»{uomo} dice. «E un cappuccino, se vuole.» || "Waiter, I'll bring the medium **beer**," he says. "And a cappuccino, if he wants."
+«Porto la **birra** media»{uomo} dice. «E un cappuccino, se vuole.» || "I'll bring the medium **beer**," he says. "And a cappuccino, if he wants."
 «Vuole»{ben} dice Kevin. || "He wants," Kevin says.
 «Vuole»{matteo} dice Matteo. «Ma io pago la **birra**.» || "He wants," Matteo says. "But I'm paying for the **beer**."
 
@@ -635,7 +603,7 @@ La **compagnia** va verso la gelateria in piazza. || The **group** goes toward t
 Emma prende un gelato al limone. || Emma gets a lemon gelato.
 Tommaso prende un gelato piccolo. || Tommaso gets a small gelato.
 «Tu mangi poco»{emma} dice Emma. || "You eat little," Emma says.
-«Io **sto** bene così»{tommaso} dice Tommaso. || "I'm fine like this," Tommaso says.
+«Io **sto** bene così»{tommaso} dice Tommaso. || "I'm **fine** like this," Tommaso says.
 
 Bianca fa una foto alla piazza. || Bianca takes a photo of the square.
 Poi guarda Emma con un sorriso strano. || Then she looks at Emma with a strange smile.
@@ -650,7 +618,7 @@ Tommaso diventa rosso. || Tommaso turns red.
 «Grazie»{tommaso} dice. || "Thanks," Tommaso says.
 «**Dici** grazie e basta?»{bianca} || "You just **say** thanks?"
 «Sì»{tommaso} dice Tommaso. || "Yes," Tommaso says.
-«Che **ansia**!»{bianca} dice Bianca. || "So stressful!" Bianca says.
+«Che **ansia**!»{bianca} dice Bianca. || "**So stressful**!" Bianca says.
 
 Emma guarda il telefono. || Emma looks at her phone.
 Sono le dieci e mezza. || It's ten thirty.
@@ -673,7 +641,7 @@ Emma mette giù il gelato. || Emma puts down her gelato.
 «A mamma»{emma} dice Emma. «**Pizzeria**, non **discoteca**.» || "To Mom," Emma says. "**Pizzeria**, not **disco**."
 «Ma tu non **bevi** niente. E in **discoteca** non si **beve** solo **birra**»{uomo} dice Marco. || "But you don't **drink** anything. And at the **disco** people don't only **drink** **beer**," Marco says.
 «Lo so»{emma} dice Emma. «Ma io **dico** di no.» || "I know," Emma says. "But I **say** no."
-«Che **ansia**, che romantica!»{bianca} dice Bianca. || "So stressful, so romantic!" Bianca says.
+«Che **ansia**, che romantica!»{bianca} dice Bianca. || "**So stressful**, so romantic!" Bianca says.
 «Non è romantico. È serio»{emma} dice Emma. || "It's not romantic. It's serious," Emma says.
 
 Tommaso **sta** zitto per un momento. || Tommaso **is** quiet for a moment.

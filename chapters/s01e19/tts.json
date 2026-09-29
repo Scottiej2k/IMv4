@@ -6738,14 +6738,38 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-2-059"
+        "s01e19-2-059",
+        "s01e19-2-060",
+        "s01e19-2-061",
+        "s01e19-2-062",
+        "s01e19-2-063",
+        "s01e19-2-064",
+        "s01e19-2-065"
       ],
       "words": [
         [
           "s01e19-2-059:0-2"
         ],
         [
-          "s01e19-2-059:3-4"
+          "s01e19-2-059:3-4",
+          "s01e19-2-060:0-4",
+          "s01e19-2-061:0-7",
+          "s01e19-2-062:0-5"
+        ],
+        [
+          "s01e19-2-063:0-3"
+        ],
+        [
+          "s01e19-2-063:4-4"
+        ],
+        [
+          "s01e19-2-064:0-4"
+        ],
+        [
+          "s01e19-2-065:0-1"
+        ],
+        [
+          "s01e19-2-065:2-3"
         ]
       ],
       "request": {
@@ -6757,1723 +6781,6 @@
               {
                 "type": "text",
                 "text": "Va bene. D'accordo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 85,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-060"
-      ],
-      "words": [
-        [
-          "s01e19-2-060:0-8"
-        ],
-        [
-          "s01e19-2-060:9-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Bene. Io lo dico sempre: tu dici di sì",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 86,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-061"
-      ],
-      "words": [
-        [
-          "s01e19-2-061:0-4"
-        ],
-        [
-          "s01e19-2-061:5-6"
-        ],
-        [
-          "s01e19-2-061:7-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Io dico di sì subito",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "È la mia natura.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 87,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-062",
-        "s01e19-2-063"
-      ],
-      "words": [
-        [
-          "s01e19-2-062:0-1"
-        ],
-        [
-          "s01e19-2-062:2-5",
-          "s01e19-2-063:0-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Lo so",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo, e ride. Kevin chiude il quaderno giallo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 88,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-064"
-      ],
-      "words": [
-        [
-          "s01e19-2-064:0-2"
-        ],
-        [
-          "s01e19-2-064:3-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Matteo, una domanda",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 89,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e19-2-065",
-        "s01e19-2-066"
-      ],
-      "words": [
-        [
-          "s01e19-2-065:0-0"
-        ],
-        [
-          "s01e19-2-066:0-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Dimmi",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Io sto bene con te. Anche tu stai bene?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 90,
-      "scene": 2,
-      "speakers": {
-        "narrator": "narrator",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e19-2-066",
-        "s01e19-2-067"
-      ],
-      "words": [
-        [
-          "s01e19-2-066:9-10"
-        ],
-        [
-          "s01e19-2-067:0-2"
-        ],
-        [
-          "s01e19-2-067:3-4"
-        ],
-        [
-          "s01e19-2-067:5-11"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Io sto bene",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ma non dico queste cose al bar.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 91,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-068",
-        "s01e19-2-069"
-      ],
-      "words": [
-        [
-          "s01e19-2-068:0-1"
-        ],
-        [
-          "s01e19-2-068:2-3",
-          "s01e19-2-069:0-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ah. Scusa",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin. Matteo prende un altro bicchiere.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 92,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-070"
-      ],
-      "words": [
-        [
-          "s01e19-2-070:0-9"
-        ],
-        [
-          "s01e19-2-070:10-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Senti, americano. Il sabato sera io lavoro fino alle sette",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 93,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-071"
-      ],
-      "words": [
-        [
-          "s01e19-2-071:0-7"
-        ],
-        [
-          "s01e19-2-071:8-9"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "E io sto a casa fino alle sette",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 94,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-072"
-      ],
-      "words": [
-        [
-          "s01e19-2-072:0-8"
-        ],
-        [
-          "s01e19-2-072:9-9"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Stai a casa. Dici alla famiglia: esco con Matteo",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 95,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-073"
-      ],
-      "words": [
-        [
-          "s01e19-2-073:0-5"
-        ],
-        [
-          "s01e19-2-073:6-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "La famiglia dice: Matteo? Il bar?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 96,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-074",
-        "s01e19-2-075"
-      ],
-      "words": [
-        [
-          "s01e19-2-074:0-4"
-        ],
-        [
-          "s01e19-2-074:5-6",
-          "s01e19-2-075:0-1"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "No. La famiglia dice: perfetto!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo. Kevin ride.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 97,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-076"
-      ],
-      "words": [
-        [
-          "s01e19-2-076:0-5"
-        ],
-        [
-          "s01e19-2-076:6-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "E Emma esce anche lei stasera",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 98,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-077"
-      ],
-      "words": [
-        [
-          "s01e19-2-077:0-2"
-        ],
-        [
-          "s01e19-2-077:3-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Emma? Con chi?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 99,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-078"
-      ],
-      "words": [
-        [
-          "s01e19-2-078:0-3"
-        ],
-        [
-          "s01e19-2-078:4-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Con Bianca e altri",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 100,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-079"
-      ],
-      "words": [
-        [
-          "s01e19-2-079:0-2"
-        ],
-        [
-          "s01e19-2-079:3-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "E altri chi?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 101,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e19-2-080",
-        "s01e19-2-081"
-      ],
-      "words": [
-        [
-          "s01e19-2-080:0-5"
-        ],
-        [
-          "s01e19-2-081:0-0"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ehm. Bianca dice... io non dico...",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ah!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 102,
-      "scene": 2,
-      "speakers": {
-        "narrator": "narrator",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e19-2-081"
-      ],
-      "words": [
-        [
-          "s01e19-2-081:1-2"
-        ],
-        [
-          "s01e19-2-081:3-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Matteo sorride.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Capito. La compagnia di Emma è un mistero.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 103,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-082",
-        "s01e19-2-083",
-        "s01e19-2-084"
-      ],
-      "words": [
-        [
-          "s01e19-2-082:0-2"
-        ],
-        [
-          "s01e19-2-082:3-4",
-          "s01e19-2-083:0-2"
-        ],
-        [
-          "s01e19-2-084:0-4"
-        ],
-        [
-          "s01e19-2-084:5-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Un mistero totale",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Kevin. Kevin guarda l'ora.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Adesso sto qui o esco?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "chiede.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 104,
-      "scene": 2,
-      "speakers": {
-        "matteo": "matteo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-085"
-      ],
-      "words": [
-        [
-          "s01e19-2-085:0-7"
-        ],
-        [
-          "s01e19-2-085:8-9"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Tu stai qui e bevi un altro caffè",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 105,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e19-2-086",
-        "s01e19-2-087"
-      ],
-      "words": [
-        [
-          "s01e19-2-086:0-2"
-        ],
-        [
-          "s01e19-2-087:0-6"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ma la birra?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "La birra è per il sabato sera",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 106,
-      "scene": 2,
-      "speakers": {
-        "narrator": "narrator",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e19-2-087"
-      ],
-      "words": [
-        [
-          "s01e19-2-087:7-7"
-        ],
-        [
-          "s01e19-2-087:8-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "dice.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Adesso è pomeriggio.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 107,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-2-088",
-        "s01e19-2-089",
-        "s01e19-2-090",
-        "s01e19-2-091",
-        "s01e19-2-092",
-        "s01e19-2-093",
-        "s01e19-2-094"
-      ],
-      "words": [
-        [
-          "s01e19-2-088:0-2"
-        ],
-        [
-          "s01e19-2-088:3-4",
-          "s01e19-2-089:0-4",
-          "s01e19-2-090:0-7",
-          "s01e19-2-091:0-5"
-        ],
-        [
-          "s01e19-2-092:0-3"
-        ],
-        [
-          "s01e19-2-092:4-4"
-        ],
-        [
-          "s01e19-2-093:0-4"
-        ],
-        [
-          "s01e19-2-094:0-1"
-        ],
-        [
-          "s01e19-2-094:2-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ah. Va bene",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8573,22 +6880,22 @@
       }
     },
     {
-      "index": 108,
+      "index": 85,
       "scene": 2,
       "speakers": {
         "matteo": "matteo",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e19-2-095",
-        "s01e19-2-096"
+        "s01e19-2-066",
+        "s01e19-2-067"
       ],
       "words": [
         [
-          "s01e19-2-095:0-2"
+          "s01e19-2-066:0-2"
         ],
         [
-          "s01e19-2-096:0-2"
+          "s01e19-2-067:0-2"
         ]
       ],
       "request": {
@@ -8644,25 +6951,25 @@
       }
     },
     {
-      "index": 109,
+      "index": 86,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e19-2-096",
-        "s01e19-2-097"
+        "s01e19-2-067",
+        "s01e19-2-068"
       ],
       "words": [
         [
-          "s01e19-2-096:3-4"
+          "s01e19-2-067:3-4"
         ],
         [
-          "s01e19-2-096:5-7"
+          "s01e19-2-067:5-7"
         ],
         [
-          "s01e19-2-097:0-6"
+          "s01e19-2-068:0-6"
         ]
       ],
       "request": {
@@ -8729,7 +7036,7 @@
       }
     },
     {
-      "index": 110,
+      "index": 87,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -8851,7 +7158,7 @@
       }
     },
     {
-      "index": 111,
+      "index": 88,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -8921,7 +7228,7 @@
       }
     },
     {
-      "index": 112,
+      "index": 89,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -8991,7 +7298,7 @@
       }
     },
     {
-      "index": 113,
+      "index": 90,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -9062,7 +7369,7 @@
       }
     },
     {
-      "index": 114,
+      "index": 91,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -9149,7 +7456,7 @@
       }
     },
     {
-      "index": 115,
+      "index": 92,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9219,7 +7526,7 @@
       }
     },
     {
-      "index": 116,
+      "index": 93,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -9290,7 +7597,7 @@
       }
     },
     {
-      "index": 117,
+      "index": 94,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -9378,7 +7685,7 @@
       }
     },
     {
-      "index": 118,
+      "index": 95,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -9477,7 +7784,7 @@
       }
     },
     {
-      "index": 119,
+      "index": 96,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9549,7 +7856,7 @@
       }
     },
     {
-      "index": 120,
+      "index": 97,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -9633,7 +7940,7 @@
       }
     },
     {
-      "index": 121,
+      "index": 98,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9704,7 +8011,7 @@
       }
     },
     {
-      "index": 122,
+      "index": 99,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -9774,7 +8081,7 @@
       }
     },
     {
-      "index": 123,
+      "index": 100,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9785,10 +8092,10 @@
       ],
       "words": [
         [
-          "s01e19-3-027:0-10"
+          "s01e19-3-027:0-9"
         ],
         [
-          "s01e19-3-027:11-11"
+          "s01e19-3-027:10-10"
         ]
       ],
       "request": {
@@ -9799,7 +8106,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "E il nonno di papà? Dice di sì o di no?",
+                "text": "E il tuo papà? Dice di sì o di no?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9844,7 +8151,7 @@
       }
     },
     {
-      "index": 124,
+      "index": 101,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -9914,7 +8221,7 @@
       }
     },
     {
-      "index": 125,
+      "index": 102,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9985,7 +8292,7 @@
       }
     },
     {
-      "index": 126,
+      "index": 103,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -10084,7 +8391,7 @@
       }
     },
     {
-      "index": 127,
+      "index": 104,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -10154,7 +8461,7 @@
       }
     },
     {
-      "index": 128,
+      "index": 105,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -10253,7 +8560,7 @@
       }
     },
     {
-      "index": 129,
+      "index": 106,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -10325,7 +8632,7 @@
       }
     },
     {
-      "index": 130,
+      "index": 107,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -10397,7 +8704,7 @@
       }
     },
     {
-      "index": 131,
+      "index": 108,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -10468,7 +8775,7 @@
       }
     },
     {
-      "index": 132,
+      "index": 109,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -10553,7 +8860,7 @@
       }
     },
     {
-      "index": 133,
+      "index": 110,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -10623,7 +8930,7 @@
       }
     },
     {
-      "index": 134,
+      "index": 111,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -10695,7 +9002,7 @@
       }
     },
     {
-      "index": 135,
+      "index": 112,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -10766,7 +9073,7 @@
       }
     },
     {
-      "index": 136,
+      "index": 113,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -10836,7 +9143,7 @@
       }
     },
     {
-      "index": 137,
+      "index": 114,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -10906,7 +9213,7 @@
       }
     },
     {
-      "index": 138,
+      "index": 115,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -10990,7 +9297,7 @@
       }
     },
     {
-      "index": 139,
+      "index": 116,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -11061,7 +9368,7 @@
       }
     },
     {
-      "index": 140,
+      "index": 117,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -11146,7 +9453,7 @@
       }
     },
     {
-      "index": 141,
+      "index": 118,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -11262,7 +9569,7 @@
       }
     },
     {
-      "index": 142,
+      "index": 119,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -11333,7 +9640,7 @@
       }
     },
     {
-      "index": 143,
+      "index": 120,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -11420,7 +9727,7 @@
       }
     },
     {
-      "index": 144,
+      "index": 121,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -11490,7 +9797,7 @@
       }
     },
     {
-      "index": 145,
+      "index": 122,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -11589,7 +9896,7 @@
       }
     },
     {
-      "index": 146,
+      "index": 123,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -11660,7 +9967,7 @@
       }
     },
     {
-      "index": 147,
+      "index": 124,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -11730,7 +10037,7 @@
       }
     },
     {
-      "index": 148,
+      "index": 125,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -11801,7 +10108,7 @@
       }
     },
     {
-      "index": 149,
+      "index": 126,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -11890,7 +10197,7 @@
       }
     },
     {
-      "index": 150,
+      "index": 127,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -11974,7 +10281,7 @@
       }
     },
     {
-      "index": 151,
+      "index": 128,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -12045,7 +10352,7 @@
       }
     },
     {
-      "index": 152,
+      "index": 129,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -12159,7 +10466,7 @@
       }
     },
     {
-      "index": 153,
+      "index": 130,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -12229,7 +10536,7 @@
       }
     },
     {
-      "index": 154,
+      "index": 131,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -12313,7 +10620,7 @@
       }
     },
     {
-      "index": 155,
+      "index": 132,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -12383,7 +10690,7 @@
       }
     },
     {
-      "index": 156,
+      "index": 133,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -12405,7 +10712,7 @@
           "s01e19-3-078:7-12"
         ],
         [
-          "s01e19-3-079:0-5",
+          "s01e19-3-079:0-4",
           "s01e19-3-080:0-4"
         ]
       ],
@@ -12450,7 +10757,7 @@
               },
               {
                 "type": "text",
-                "text": "Franco esce in subito dal cancello. Emma lo guarda dalla finestra.",
+                "text": "Franco esce subito dal cancello. Emma lo guarda dalla finestra.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12484,7 +10791,7 @@
       }
     },
     {
-      "index": 157,
+      "index": 134,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -12569,7 +10876,7 @@
       }
     },
     {
-      "index": 158,
+      "index": 135,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -12664,7 +10971,7 @@
       }
     },
     {
-      "index": 159,
+      "index": 136,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -12748,7 +11055,7 @@
       }
     },
     {
-      "index": 160,
+      "index": 137,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -12819,7 +11126,7 @@
       }
     },
     {
-      "index": 161,
+      "index": 138,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -12922,7 +11229,7 @@
       }
     },
     {
-      "index": 162,
+      "index": 139,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -12992,7 +11299,7 @@
       }
     },
     {
-      "index": 163,
+      "index": 140,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -13064,7 +11371,7 @@
       }
     },
     {
-      "index": 164,
+      "index": 141,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -13134,7 +11441,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 142,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -13204,7 +11511,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 143,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -13274,7 +11581,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 144,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -13344,7 +11651,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 145,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -13416,7 +11723,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 146,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13486,7 +11793,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 147,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -13556,7 +11863,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 148,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13626,7 +11933,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 149,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -13697,7 +12004,7 @@
       }
     },
     {
-      "index": 173,
+      "index": 150,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -13786,7 +12093,7 @@
       }
     },
     {
-      "index": 174,
+      "index": 151,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13870,7 +12177,7 @@
       }
     },
     {
-      "index": 175,
+      "index": 152,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -13942,7 +12249,7 @@
       }
     },
     {
-      "index": 176,
+      "index": 153,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -14012,7 +12319,7 @@
       }
     },
     {
-      "index": 177,
+      "index": 154,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -14082,7 +12389,7 @@
       }
     },
     {
-      "index": 178,
+      "index": 155,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -14152,7 +12459,7 @@
       }
     },
     {
-      "index": 179,
+      "index": 156,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -14224,7 +12531,7 @@
       }
     },
     {
-      "index": 180,
+      "index": 157,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -14236,10 +12543,10 @@
       ],
       "words": [
         [
-          "s01e19-4-039:0-7"
+          "s01e19-4-039:0-10"
         ],
         [
-          "s01e19-4-039:8-8",
+          "s01e19-4-039:11-11",
           "s01e19-4-040:0-3"
         ]
       ],
@@ -14251,7 +12558,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Io, a quindici anni, uscivo il sabato sera",
+                "text": "Io, a quindici anni: il sabato sera, fuori con gli amici",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14296,7 +12603,7 @@
       }
     },
     {
-      "index": 181,
+      "index": 158,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -14321,7 +12628,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Lei dà sempre fiducia ai ragazzi",
+                "text": "Tu dai sempre fiducia ai ragazzi",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14366,10 +12673,10 @@
       }
     },
     {
-      "index": 182,
+      "index": 159,
       "scene": 4,
       "speakers": {
-        "emma": "emma",
+        "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
@@ -14377,13 +12684,10 @@
       ],
       "words": [
         [
-          "s01e19-4-042:0-3"
+          "s01e19-4-042:0-7"
         ],
         [
-          "s01e19-4-042:4-6"
-        ],
-        [
-          "s01e19-4-042:7-12"
+          "s01e19-4-042:8-9"
         ]
       ],
       "request": {
@@ -14394,172 +12698,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Nonno dà. Non Lei",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Emma subito.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "È tuo suocero. Si dice nonno.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "emma",
-                "voice": "Autonoe"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 183,
-      "scene": 4,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-4-043"
-      ],
-      "words": [
-        [
-          "s01e19-4-043:0-1"
-        ],
-        [
-          "s01e19-4-043:2-3"
-        ],
-        [
-          "s01e19-4-043:4-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Nonno dà",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "ripete Kevin.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Nonno dà fiducia ai ragazzi.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 184,
-      "scene": 4,
-      "speakers": {
-        "franco": "franco",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e19-4-044"
-      ],
-      "words": [
-        [
-          "s01e19-4-044:0-1"
-        ],
-        [
-          "s01e19-4-044:2-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Grazie, americano",
+                "text": "Io do fiducia a chi dice la verità",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14570,7 +12709,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Franco, senza sorridere.",
+                "text": "dice Franco.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14604,23 +12743,21 @@
       }
     },
     {
-      "index": 185,
+      "index": 160,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-045",
-        "s01e19-4-046"
+        "s01e19-4-043"
       ],
       "words": [
         [
-          "s01e19-4-045:0-0"
+          "s01e19-4-043:0-3"
         ],
         [
-          "s01e19-4-045:1-3",
-          "s01e19-4-046:0-3"
+          "s01e19-4-043:4-5"
         ]
       ],
       "request": {
@@ -14631,7 +12768,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Prego!",
+                "text": "Anch'io dico la verità!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14642,7 +12779,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Kevin, felice. Chiara incrocia le braccia.",
+                "text": "dice Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14676,21 +12813,93 @@
       }
     },
     {
-      "index": 186,
+      "index": 161,
+      "scene": 4,
+      "speakers": {
+        "franco": "franco",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s01e19-4-044",
+        "s01e19-4-045"
+      ],
+      "words": [
+        [
+          "s01e19-4-044:0-2"
+        ],
+        [
+          "s01e19-4-044:3-6",
+          "s01e19-4-045:0-3"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Non sempre, americano",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Franco, senza sorridere. Chiara incrocia le braccia.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "franco",
+                "voice": "Algenib"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 162,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-047"
+        "s01e19-4-046"
       ],
       "words": [
         [
-          "s01e19-4-047:0-6"
+          "s01e19-4-046:0-6"
         ],
         [
-          "s01e19-4-047:7-7"
+          "s01e19-4-046:7-7"
         ]
       ],
       "request": {
@@ -14746,21 +12955,21 @@
       }
     },
     {
-      "index": 187,
+      "index": 163,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-048"
+        "s01e19-4-047"
       ],
       "words": [
         [
-          "s01e19-4-048:0-4"
+          "s01e19-4-047:0-4"
         ],
         [
-          "s01e19-4-048:5-6"
+          "s01e19-4-047:5-6"
         ]
       ],
       "request": {
@@ -14816,21 +13025,21 @@
       }
     },
     {
-      "index": 188,
+      "index": 164,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-049"
+        "s01e19-4-048"
       ],
       "words": [
         [
-          "s01e19-4-049:0-3"
+          "s01e19-4-048:0-3"
         ],
         [
-          "s01e19-4-049:4-5"
+          "s01e19-4-048:4-5"
         ]
       ],
       "request": {
@@ -14886,23 +13095,23 @@
       }
     },
     {
-      "index": 189,
+      "index": 165,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-050",
-        "s01e19-4-051"
+        "s01e19-4-049",
+        "s01e19-4-050"
       ],
       "words": [
         [
-          "s01e19-4-050:0-4"
+          "s01e19-4-049:0-4"
         ],
         [
-          "s01e19-4-050:5-5",
-          "s01e19-4-051:0-5"
+          "s01e19-4-049:5-5",
+          "s01e19-4-050:0-5"
         ]
       ],
       "request": {
@@ -14958,21 +13167,21 @@
       }
     },
     {
-      "index": 190,
+      "index": 166,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-052"
+        "s01e19-4-051"
       ],
       "words": [
         [
-          "s01e19-4-052:0-4"
+          "s01e19-4-051:0-4"
         ],
         [
-          "s01e19-4-052:5-5"
+          "s01e19-4-051:5-5"
         ]
       ],
       "request": {
@@ -15028,21 +13237,21 @@
       }
     },
     {
-      "index": 191,
+      "index": 167,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-053"
+        "s01e19-4-052"
       ],
       "words": [
         [
-          "s01e19-4-053:0-0"
+          "s01e19-4-052:0-0"
         ],
         [
-          "s01e19-4-053:1-2"
+          "s01e19-4-052:1-2"
         ]
       ],
       "request": {
@@ -15098,22 +13307,22 @@
       }
     },
     {
-      "index": 192,
+      "index": 168,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e19-4-054",
-        "s01e19-4-055"
+        "s01e19-4-053",
+        "s01e19-4-054"
       ],
       "words": [
         [
-          "s01e19-4-054:0-0"
+          "s01e19-4-053:0-0"
         ],
         [
-          "s01e19-4-055:0-3"
+          "s01e19-4-054:0-3"
         ]
       ],
       "request": {
@@ -15169,27 +13378,27 @@
       }
     },
     {
-      "index": 193,
+      "index": 169,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
+        "s01e19-4-054",
         "s01e19-4-055",
-        "s01e19-4-056",
-        "s01e19-4-057"
+        "s01e19-4-056"
       ],
       "words": [
         [
-          "s01e19-4-055:4-5"
+          "s01e19-4-054:4-5"
         ],
         [
-          "s01e19-4-056:0-1"
+          "s01e19-4-055:0-1"
         ],
         [
-          "s01e19-4-056:2-9",
-          "s01e19-4-057:0-2"
+          "s01e19-4-055:2-9",
+          "s01e19-4-056:0-2"
         ]
       ],
       "request": {
@@ -15256,21 +13465,21 @@
       }
     },
     {
-      "index": 194,
+      "index": 170,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-058"
+        "s01e19-4-057"
       ],
       "words": [
         [
-          "s01e19-4-058:0-9"
+          "s01e19-4-057:0-9"
         ],
         [
-          "s01e19-4-058:10-10"
+          "s01e19-4-057:10-10"
         ]
       ],
       "request": {
@@ -15326,21 +13535,21 @@
       }
     },
     {
-      "index": 195,
+      "index": 171,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-059"
+        "s01e19-4-058"
       ],
       "words": [
         [
-          "s01e19-4-059:0-5"
+          "s01e19-4-058:0-5"
         ],
         [
-          "s01e19-4-059:6-7"
+          "s01e19-4-058:6-7"
         ]
       ],
       "request": {
@@ -15396,21 +13605,21 @@
       }
     },
     {
-      "index": 196,
+      "index": 172,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-060"
+        "s01e19-4-059"
       ],
       "words": [
         [
-          "s01e19-4-060:0-4"
+          "s01e19-4-059:0-4"
         ],
         [
-          "s01e19-4-060:5-6"
+          "s01e19-4-059:5-6"
         ]
       ],
       "request": {
@@ -15466,21 +13675,21 @@
       }
     },
     {
-      "index": 197,
+      "index": 173,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-061"
+        "s01e19-4-060"
       ],
       "words": [
         [
-          "s01e19-4-061:0-5"
+          "s01e19-4-060:0-5"
         ],
         [
-          "s01e19-4-061:6-7"
+          "s01e19-4-060:6-7"
         ]
       ],
       "request": {
@@ -15536,28 +13745,28 @@
       }
     },
     {
-      "index": 198,
+      "index": 174,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-062",
-        "s01e19-4-063"
+        "s01e19-4-061",
+        "s01e19-4-062"
       ],
       "words": [
         [
-          "s01e19-4-062:0-2"
+          "s01e19-4-061:0-2"
         ],
         [
-          "s01e19-4-062:3-4"
+          "s01e19-4-061:3-4"
         ],
         [
-          "s01e19-4-062:5-8"
+          "s01e19-4-061:5-8"
         ],
         [
-          "s01e19-4-063:0-6"
+          "s01e19-4-062:0-6"
         ]
       ],
       "request": {
@@ -15635,25 +13844,25 @@
       }
     },
     {
-      "index": 199,
+      "index": 175,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e19-4-063",
         "s01e19-4-064",
-        "s01e19-4-065",
-        "s01e19-4-066"
+        "s01e19-4-065"
       ],
       "words": [
         [
-          "s01e19-4-064:0-2"
+          "s01e19-4-063:0-2"
         ],
         [
-          "s01e19-4-064:3-3",
-          "s01e19-4-065:0-2",
-          "s01e19-4-066:0-4"
+          "s01e19-4-063:3-3",
+          "s01e19-4-064:0-2",
+          "s01e19-4-065:0-4"
         ]
       ],
       "request": {
@@ -15709,41 +13918,41 @@
       }
     },
     {
-      "index": 200,
+      "index": 176,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e19-4-066",
         "s01e19-4-067",
         "s01e19-4-068",
         "s01e19-4-069",
-        "s01e19-4-070",
-        "s01e19-4-071"
+        "s01e19-4-070"
       ],
       "words": [
         [
-          "s01e19-4-067:0-8"
+          "s01e19-4-066:0-8"
         ],
         [
-          "s01e19-4-067:9-9"
+          "s01e19-4-066:9-9"
         ],
         [
-          "s01e19-4-068:0-1"
+          "s01e19-4-067:0-1"
         ],
         [
-          "s01e19-4-068:2-3",
+          "s01e19-4-067:2-3",
+          "s01e19-4-068:0-3"
+        ],
+        [
           "s01e19-4-069:0-3"
         ],
         [
-          "s01e19-4-070:0-3"
+          "s01e19-4-069:4-4"
         ],
         [
-          "s01e19-4-070:4-4"
-        ],
-        [
-          "s01e19-4-071:0-8"
+          "s01e19-4-070:0-8"
         ]
       ],
       "request": {
@@ -15854,21 +14063,21 @@
       }
     },
     {
-      "index": 201,
+      "index": 177,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-072"
+        "s01e19-4-071"
       ],
       "words": [
         [
-          "s01e19-4-072:0-1"
+          "s01e19-4-071:0-1"
         ],
         [
-          "s01e19-4-072:2-3"
+          "s01e19-4-071:2-3"
         ]
       ],
       "request": {
@@ -15924,24 +14133,24 @@
       }
     },
     {
-      "index": 202,
+      "index": 178,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-073"
+        "s01e19-4-072"
       ],
       "words": [
         [
-          "s01e19-4-073:0-6"
+          "s01e19-4-072:0-6"
         ],
         [
-          "s01e19-4-073:7-7"
+          "s01e19-4-072:7-7"
         ],
         [
-          "s01e19-4-073:8-10"
+          "s01e19-4-072:8-10"
         ]
       ],
       "request": {
@@ -16008,21 +14217,21 @@
       }
     },
     {
-      "index": 203,
+      "index": 179,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-074"
+        "s01e19-4-073"
       ],
       "words": [
         [
-          "s01e19-4-074:0-1"
+          "s01e19-4-073:0-1"
         ],
         [
-          "s01e19-4-074:2-2"
+          "s01e19-4-073:2-2"
         ]
       ],
       "request": {
@@ -16078,21 +14287,21 @@
       }
     },
     {
-      "index": 204,
+      "index": 180,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-075"
+        "s01e19-4-074"
       ],
       "words": [
         [
-          "s01e19-4-075:0-2"
+          "s01e19-4-074:0-2"
         ],
         [
-          "s01e19-4-075:3-3"
+          "s01e19-4-074:3-3"
         ]
       ],
       "request": {
@@ -16148,21 +14357,21 @@
       }
     },
     {
-      "index": 205,
+      "index": 181,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-076"
+        "s01e19-4-075"
       ],
       "words": [
         [
-          "s01e19-4-076:0-4"
+          "s01e19-4-075:0-4"
         ],
         [
-          "s01e19-4-076:5-6"
+          "s01e19-4-075:5-6"
         ]
       ],
       "request": {
@@ -16218,21 +14427,21 @@
       }
     },
     {
-      "index": 206,
+      "index": 182,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-077"
+        "s01e19-4-076"
       ],
       "words": [
         [
-          "s01e19-4-077:0-1"
+          "s01e19-4-076:0-1"
         ],
         [
-          "s01e19-4-077:2-2"
+          "s01e19-4-076:2-2"
         ]
       ],
       "request": {
@@ -16288,21 +14497,21 @@
       }
     },
     {
-      "index": 207,
+      "index": 183,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-078"
+        "s01e19-4-077"
       ],
       "words": [
         [
-          "s01e19-4-078:0-5"
+          "s01e19-4-077:0-5"
         ],
         [
-          "s01e19-4-078:6-6"
+          "s01e19-4-077:6-6"
         ]
       ],
       "request": {
@@ -16358,22 +14567,22 @@
       }
     },
     {
-      "index": 208,
+      "index": 184,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e19-4-079",
-        "s01e19-4-080"
+        "s01e19-4-078",
+        "s01e19-4-079"
       ],
       "words": [
         [
-          "s01e19-4-079:0-3"
+          "s01e19-4-078:0-3"
         ],
         [
-          "s01e19-4-080:0-5"
+          "s01e19-4-079:0-5"
         ]
       ],
       "request": {
@@ -16429,27 +14638,27 @@
       }
     },
     {
-      "index": 209,
+      "index": 185,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "emma": "emma"
       },
       "segment_ids": [
+        "s01e19-4-079",
         "s01e19-4-080",
-        "s01e19-4-081",
-        "s01e19-4-082"
+        "s01e19-4-081"
       ],
       "words": [
         [
-          "s01e19-4-080:6-7"
+          "s01e19-4-079:6-7"
         ],
         [
+          "s01e19-4-080:0-2"
+        ],
+        [
+          "s01e19-4-080:3-4",
           "s01e19-4-081:0-2"
-        ],
-        [
-          "s01e19-4-081:3-4",
-          "s01e19-4-082:0-2"
         ]
       ],
       "request": {
@@ -16516,24 +14725,24 @@
       }
     },
     {
-      "index": 210,
+      "index": 186,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-083"
+        "s01e19-4-082"
       ],
       "words": [
         [
-          "s01e19-4-083:0-2"
+          "s01e19-4-082:0-2"
         ],
         [
-          "s01e19-4-083:3-3"
+          "s01e19-4-082:3-3"
         ],
         [
-          "s01e19-4-083:4-5"
+          "s01e19-4-082:4-5"
         ]
       ],
       "request": {
@@ -16600,21 +14809,21 @@
       }
     },
     {
-      "index": 211,
+      "index": 187,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-084"
+        "s01e19-4-083"
       ],
       "words": [
         [
-          "s01e19-4-084:0-6"
+          "s01e19-4-083:0-6"
         ],
         [
-          "s01e19-4-084:7-7"
+          "s01e19-4-083:7-7"
         ]
       ],
       "request": {
@@ -16670,24 +14879,24 @@
       }
     },
     {
-      "index": 212,
+      "index": 188,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-085"
+        "s01e19-4-084"
       ],
       "words": [
         [
-          "s01e19-4-085:0-2"
+          "s01e19-4-084:0-2"
         ],
         [
-          "s01e19-4-085:3-4"
+          "s01e19-4-084:3-4"
         ],
         [
-          "s01e19-4-085:5-11"
+          "s01e19-4-084:5-11"
         ]
       ],
       "request": {
@@ -16754,24 +14963,24 @@
       }
     },
     {
-      "index": 213,
+      "index": 189,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-086"
+        "s01e19-4-085"
       ],
       "words": [
         [
-          "s01e19-4-086:0-0"
+          "s01e19-4-085:0-0"
         ],
         [
-          "s01e19-4-086:1-2"
+          "s01e19-4-085:1-2"
         ],
         [
-          "s01e19-4-086:3-8"
+          "s01e19-4-085:3-8"
         ]
       ],
       "request": {
@@ -16838,23 +15047,23 @@
       }
     },
     {
-      "index": 214,
+      "index": 190,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-087",
-        "s01e19-4-088"
+        "s01e19-4-086",
+        "s01e19-4-087"
       ],
       "words": [
         [
-          "s01e19-4-087:0-3"
+          "s01e19-4-086:0-3"
         ],
         [
-          "s01e19-4-087:4-9",
-          "s01e19-4-088:0-3"
+          "s01e19-4-086:4-9",
+          "s01e19-4-087:0-3"
         ]
       ],
       "request": {
@@ -16910,21 +15119,21 @@
       }
     },
     {
-      "index": 215,
+      "index": 191,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-089"
+        "s01e19-4-088"
       ],
       "words": [
         [
-          "s01e19-4-089:0-8"
+          "s01e19-4-088:0-8"
         ],
         [
-          "s01e19-4-089:9-9"
+          "s01e19-4-088:9-9"
         ]
       ],
       "request": {
@@ -16980,21 +15189,21 @@
       }
     },
     {
-      "index": 216,
+      "index": 192,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-090"
+        "s01e19-4-089"
       ],
       "words": [
         [
-          "s01e19-4-090:0-1"
+          "s01e19-4-089:0-1"
         ],
         [
-          "s01e19-4-090:2-3"
+          "s01e19-4-089:2-3"
         ]
       ],
       "request": {
@@ -17050,24 +15259,24 @@
       }
     },
     {
-      "index": 217,
+      "index": 193,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-091"
+        "s01e19-4-090"
       ],
       "words": [
         [
-          "s01e19-4-091:0-3"
+          "s01e19-4-090:0-3"
         ],
         [
-          "s01e19-4-091:4-5"
+          "s01e19-4-090:4-5"
         ],
         [
-          "s01e19-4-091:6-12"
+          "s01e19-4-090:6-12"
         ]
       ],
       "request": {
@@ -17134,23 +15343,23 @@
       }
     },
     {
-      "index": 218,
+      "index": 194,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-092",
-        "s01e19-4-093"
+        "s01e19-4-091",
+        "s01e19-4-092"
       ],
       "words": [
         [
-          "s01e19-4-092:0-1"
+          "s01e19-4-091:0-1"
         ],
         [
-          "s01e19-4-092:2-4",
-          "s01e19-4-093:0-3"
+          "s01e19-4-091:2-4",
+          "s01e19-4-092:0-3"
         ]
       ],
       "request": {
@@ -17206,21 +15415,21 @@
       }
     },
     {
-      "index": 219,
+      "index": 195,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-094"
+        "s01e19-4-093"
       ],
       "words": [
         [
-          "s01e19-4-094:0-12"
+          "s01e19-4-093:0-12"
         ],
         [
-          "s01e19-4-094:13-14"
+          "s01e19-4-093:13-14"
         ]
       ],
       "request": {
@@ -17276,23 +15485,23 @@
       }
     },
     {
-      "index": 220,
+      "index": 196,
       "scene": 4,
       "speakers": {
         "emma": "emma",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e19-4-095",
-        "s01e19-4-096"
+        "s01e19-4-094",
+        "s01e19-4-095"
       ],
       "words": [
         [
-          "s01e19-4-095:0-0"
+          "s01e19-4-094:0-0"
         ],
         [
-          "s01e19-4-095:1-2",
-          "s01e19-4-096:0-3"
+          "s01e19-4-094:1-2",
+          "s01e19-4-095:0-3"
         ]
       ],
       "request": {
@@ -17348,22 +15557,22 @@
       }
     },
     {
-      "index": 221,
+      "index": 197,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e19-4-097",
-        "s01e19-4-098"
+        "s01e19-4-096",
+        "s01e19-4-097"
       ],
       "words": [
         [
-          "s01e19-4-097:0-11"
+          "s01e19-4-096:0-11"
         ],
         [
-          "s01e19-4-098:0-3"
+          "s01e19-4-097:0-3"
         ]
       ],
       "request": {
@@ -17419,25 +15628,25 @@
       }
     },
     {
-      "index": 222,
+      "index": 198,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e19-4-098",
-        "s01e19-4-099"
+        "s01e19-4-097",
+        "s01e19-4-098"
       ],
       "words": [
         [
-          "s01e19-4-098:4-5"
+          "s01e19-4-097:4-5"
         ],
         [
-          "s01e19-4-099:0-1"
+          "s01e19-4-098:0-1"
         ],
         [
-          "s01e19-4-099:2-3"
+          "s01e19-4-098:2-3"
         ]
       ],
       "request": {
@@ -17504,36 +15713,36 @@
       }
     },
     {
-      "index": 223,
+      "index": 199,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e19-4-099",
         "s01e19-4-100",
         "s01e19-4-101",
         "s01e19-4-102",
         "s01e19-4-103",
-        "s01e19-4-104",
-        "s01e19-4-105"
+        "s01e19-4-104"
       ],
       "words": [
         [
-          "s01e19-4-100:0-2"
+          "s01e19-4-099:0-2"
         ],
         [
-          "s01e19-4-100:3-4"
+          "s01e19-4-099:3-4"
         ],
         [
-          "s01e19-4-100:5-9"
+          "s01e19-4-099:5-9"
         ],
         [
-          "s01e19-4-101:0-3",
-          "s01e19-4-102:0-5",
-          "s01e19-4-103:0-4",
-          "s01e19-4-104:0-5",
-          "s01e19-4-105:0-1"
+          "s01e19-4-100:0-3",
+          "s01e19-4-101:0-5",
+          "s01e19-4-102:0-4",
+          "s01e19-4-103:0-5",
+          "s01e19-4-104:0-1"
         ]
       ],
       "request": {
@@ -17611,7 +15820,7 @@
       }
     },
     {
-      "index": 224,
+      "index": 200,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -17718,7 +15927,7 @@
       }
     },
     {
-      "index": 225,
+      "index": 201,
       "scene": 5,
       "speakers": {
         "uomo": "uomo",
@@ -17790,7 +15999,7 @@
       }
     },
     {
-      "index": 226,
+      "index": 202,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17860,7 +16069,7 @@
       }
     },
     {
-      "index": 227,
+      "index": 203,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -17930,7 +16139,7 @@
       }
     },
     {
-      "index": 228,
+      "index": 204,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18014,7 +16223,7 @@
       }
     },
     {
-      "index": 229,
+      "index": 205,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -18084,7 +16293,7 @@
       }
     },
     {
-      "index": 230,
+      "index": 206,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18170,7 +16379,7 @@
       }
     },
     {
-      "index": 231,
+      "index": 207,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -18257,7 +16466,7 @@
       }
     },
     {
-      "index": 232,
+      "index": 208,
       "scene": 5,
       "speakers": {
         "uomo": "uomo",
@@ -18327,7 +16536,7 @@
       }
     },
     {
-      "index": 233,
+      "index": 209,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -18397,7 +16606,7 @@
       }
     },
     {
-      "index": 234,
+      "index": 210,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18477,7 +16686,7 @@
       }
     },
     {
-      "index": 235,
+      "index": 211,
       "scene": 5,
       "speakers": {
         "uomo": "uomo",
@@ -18547,7 +16756,7 @@
       }
     },
     {
-      "index": 236,
+      "index": 212,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18660,7 +16869,7 @@
       }
     },
     {
-      "index": 237,
+      "index": 213,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -18730,7 +16939,7 @@
       }
     },
     {
-      "index": 238,
+      "index": 214,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -18800,7 +17009,7 @@
       }
     },
     {
-      "index": 239,
+      "index": 215,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -18871,7 +17080,7 @@
       }
     },
     {
-      "index": 240,
+      "index": 216,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -18958,7 +17167,7 @@
       }
     },
     {
-      "index": 241,
+      "index": 217,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19028,7 +17237,7 @@
       }
     },
     {
-      "index": 242,
+      "index": 218,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -19112,7 +17321,7 @@
       }
     },
     {
-      "index": 243,
+      "index": 219,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19183,7 +17392,7 @@
       }
     },
     {
-      "index": 244,
+      "index": 220,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -19268,7 +17477,7 @@
       }
     },
     {
-      "index": 245,
+      "index": 221,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -19352,7 +17561,7 @@
       }
     },
     {
-      "index": 246,
+      "index": 222,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19436,7 +17645,7 @@
       }
     },
     {
-      "index": 247,
+      "index": 223,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -19508,7 +17717,7 @@
       }
     },
     {
-      "index": 248,
+      "index": 224,
       "scene": 5,
       "speakers": {
         "uomo": "uomo",
@@ -19519,13 +17728,13 @@
       ],
       "words": [
         [
-          "s01e19-5-044:0-4"
+          "s01e19-5-044:0-3"
         ],
         [
-          "s01e19-5-044:5-5"
+          "s01e19-5-044:4-4"
         ],
         [
-          "s01e19-5-044:6-10"
+          "s01e19-5-044:5-9"
         ]
       ],
       "request": {
@@ -19536,7 +17745,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Cameriere, porto la birra media",
+                "text": "Porto la birra media",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -19592,7 +17801,7 @@
       }
     },
     {
-      "index": 249,
+      "index": 225,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -19662,7 +17871,7 @@
       }
     },
     {
-      "index": 250,
+      "index": 226,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -19763,7 +17972,7 @@
       }
     },
     {
-      "index": 251,
+      "index": 227,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -19833,7 +18042,7 @@
       }
     },
     {
-      "index": 252,
+      "index": 228,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -19903,7 +18112,7 @@
       }
     },
     {
-      "index": 253,
+      "index": 229,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -19987,7 +18196,7 @@
       }
     },
     {
-      "index": 254,
+      "index": 230,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -20057,7 +18266,7 @@
       }
     },
     {
-      "index": 255,
+      "index": 231,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -20162,7 +18371,7 @@
       }
     },
     {
-      "index": 256,
+      "index": 232,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -20246,7 +18455,7 @@
       }
     },
     {
-      "index": 257,
+      "index": 233,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -20317,7 +18526,7 @@
       }
     },
     {
-      "index": 258,
+      "index": 234,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -20402,7 +18611,7 @@
       }
     },
     {
-      "index": 259,
+      "index": 235,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -20486,7 +18695,7 @@
       }
     },
     {
-      "index": 260,
+      "index": 236,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20560,7 +18769,7 @@
       }
     },
     {
-      "index": 261,
+      "index": 237,
       "scene": 5,
       "speakers": {
         "uomo": "uomo",
@@ -20630,7 +18839,7 @@
       }
     },
     {
-      "index": 262,
+      "index": 238,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20714,7 +18923,7 @@
       }
     },
     {
-      "index": 263,
+      "index": 239,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -20784,7 +18993,7 @@
       }
     },
     {
-      "index": 264,
+      "index": 240,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20854,7 +19063,7 @@
       }
     },
     {
-      "index": 265,
+      "index": 241,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -20928,7 +19137,7 @@
       }
     },
     {
-      "index": 266,
+      "index": 242,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -20998,7 +19207,7 @@
       }
     },
     {
-      "index": 267,
+      "index": 243,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -21068,7 +19277,7 @@
       }
     },
     {
-      "index": 268,
+      "index": 244,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -21138,7 +19347,7 @@
       }
     },
     {
-      "index": 269,
+      "index": 245,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -21208,7 +19417,7 @@
       }
     },
     {
-      "index": 270,
+      "index": 246,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -21278,7 +19487,7 @@
       }
     },
     {
-      "index": 271,
+      "index": 247,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -21350,7 +19559,7 @@
       }
     },
     {
-      "index": 272,
+      "index": 248,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -21420,7 +19629,7 @@
       }
     },
     {
-      "index": 273,
+      "index": 249,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -21504,7 +19713,7 @@
       }
     },
     {
-      "index": 274,
+      "index": 250,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -21574,7 +19783,7 @@
       }
     },
     {
-      "index": 275,
+      "index": 251,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -21658,7 +19867,7 @@
       }
     },
     {
-      "index": 276,
+      "index": 252,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -21818,7 +20027,7 @@
       }
     },
     {
-      "index": 277,
+      "index": 253,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -21902,7 +20111,7 @@
       }
     },
     {
-      "index": 278,
+      "index": 254,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -21972,7 +20181,7 @@
       }
     },
     {
-      "index": 279,
+      "index": 255,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -22042,7 +20251,7 @@
       }
     },
     {
-      "index": 280,
+      "index": 256,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -22113,7 +20322,7 @@
       }
     },
     {
-      "index": 281,
+      "index": 257,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -22183,7 +20392,7 @@
       }
     },
     {
-      "index": 282,
+      "index": 258,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -22282,7 +20491,7 @@
       }
     },
     {
-      "index": 283,
+      "index": 259,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -22352,7 +20561,7 @@
       }
     },
     {
-      "index": 284,
+      "index": 260,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -22422,7 +20631,7 @@
       }
     },
     {
-      "index": 285,
+      "index": 261,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -22506,7 +20715,7 @@
       }
     },
     {
-      "index": 286,
+      "index": 262,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -22576,7 +20785,7 @@
       }
     },
     {
-      "index": 287,
+      "index": 263,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -22648,7 +20857,7 @@
       }
     },
     {
-      "index": 288,
+      "index": 264,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -22718,7 +20927,7 @@
       }
     },
     {
-      "index": 289,
+      "index": 265,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -22790,7 +20999,7 @@
       }
     },
     {
-      "index": 290,
+      "index": 266,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -22860,7 +21069,7 @@
       }
     },
     {
-      "index": 291,
+      "index": 267,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -22930,7 +21139,7 @@
       }
     },
     {
-      "index": 292,
+      "index": 268,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -23004,7 +21213,7 @@
       }
     },
     {
-      "index": 293,
+      "index": 269,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -23095,7 +21304,7 @@
       }
     },
     {
-      "index": 294,
+      "index": 270,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -23166,7 +21375,7 @@
       }
     },
     {
-      "index": 295,
+      "index": 271,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -23255,7 +21464,7 @@
       }
     },
     {
-      "index": 296,
+      "index": 272,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -23325,7 +21534,7 @@
       }
     },
     {
-      "index": 297,
+      "index": 273,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -23395,7 +21604,7 @@
       }
     },
     {
-      "index": 298,
+      "index": 274,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -23479,7 +21688,7 @@
       }
     },
     {
-      "index": 299,
+      "index": 275,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -23563,7 +21772,7 @@
       }
     },
     {
-      "index": 300,
+      "index": 276,
       "scene": 6,
       "speakers": {
         "uomo": "uomo",
@@ -23633,7 +21842,7 @@
       }
     },
     {
-      "index": 301,
+      "index": 277,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -23736,7 +21945,7 @@
       }
     },
     {
-      "index": 302,
+      "index": 278,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -23806,7 +22015,7 @@
       }
     },
     {
-      "index": 303,
+      "index": 279,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -23880,7 +22089,7 @@
       }
     },
     {
-      "index": 304,
+      "index": 280,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -23950,7 +22159,7 @@
       }
     },
     {
-      "index": 305,
+      "index": 281,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -24020,7 +22229,7 @@
       }
     },
     {
-      "index": 306,
+      "index": 282,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -24091,7 +22300,7 @@
       }
     },
     {
-      "index": 307,
+      "index": 283,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -24180,7 +22389,7 @@
       }
     },
     {
-      "index": 308,
+      "index": 284,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -24250,7 +22459,7 @@
       }
     },
     {
-      "index": 309,
+      "index": 285,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -24321,7 +22530,7 @@
       }
     },
     {
-      "index": 310,
+      "index": 286,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -24412,7 +22621,7 @@
       }
     },
     {
-      "index": 311,
+      "index": 287,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -24483,7 +22692,7 @@
       }
     },
     {
-      "index": 312,
+      "index": 288,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -24568,7 +22777,7 @@
       }
     },
     {
-      "index": 313,
+      "index": 289,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -24639,7 +22848,7 @@
       }
     },
     {
-      "index": 314,
+      "index": 290,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -24726,7 +22935,7 @@
       }
     },
     {
-      "index": 315,
+      "index": 291,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -24797,7 +23006,7 @@
       }
     },
     {
-      "index": 316,
+      "index": 292,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -24884,7 +23093,7 @@
       }
     },
     {
-      "index": 317,
+      "index": 293,
       "scene": 6,
       "speakers": {
         "uomo": "uomo",
@@ -24954,7 +23163,7 @@
       }
     },
     {
-      "index": 318,
+      "index": 294,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25024,7 +23233,7 @@
       }
     },
     {
-      "index": 319,
+      "index": 295,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -25094,7 +23303,7 @@
       }
     },
     {
-      "index": 320,
+      "index": 296,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25178,7 +23387,7 @@
       }
     },
     {
-      "index": 321,
+      "index": 297,
       "scene": 6,
       "speakers": {
         "uomo": "uomo",
@@ -25248,7 +23457,7 @@
       }
     },
     {
-      "index": 322,
+      "index": 298,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25332,7 +23541,7 @@
       }
     },
     {
-      "index": 323,
+      "index": 299,
       "scene": 6,
       "speakers": {
         "bianca": "bianca",
@@ -25402,7 +23611,7 @@
       }
     },
     {
-      "index": 324,
+      "index": 300,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25476,7 +23685,7 @@
       }
     },
     {
-      "index": 325,
+      "index": 301,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -25548,7 +23757,7 @@
       }
     },
     {
-      "index": 326,
+      "index": 302,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25624,7 +23833,7 @@
       }
     },
     {
-      "index": 327,
+      "index": 303,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -25694,7 +23903,7 @@
       }
     },
     {
-      "index": 328,
+      "index": 304,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25764,7 +23973,7 @@
       }
     },
     {
-      "index": 329,
+      "index": 305,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -25848,7 +24057,7 @@
       }
     },
     {
-      "index": 330,
+      "index": 306,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -25918,7 +24127,7 @@
       }
     },
     {
-      "index": 331,
+      "index": 307,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -26019,7 +24228,7 @@
       }
     },
     {
-      "index": 332,
+      "index": 308,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -26089,7 +24298,7 @@
       }
     },
     {
-      "index": 333,
+      "index": 309,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -26160,7 +24369,7 @@
       }
     },
     {
-      "index": 334,
+      "index": 310,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -26230,7 +24439,7 @@
       }
     },
     {
-      "index": 335,
+      "index": 311,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -26304,7 +24513,7 @@
       }
     },
     {
-      "index": 336,
+      "index": 312,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -26393,7 +24602,7 @@
       }
     },
     {
-      "index": 337,
+      "index": 313,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -26463,7 +24672,7 @@
       }
     },
     {
-      "index": 338,
+      "index": 314,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -26533,7 +24742,7 @@
       }
     },
     {
-      "index": 339,
+      "index": 315,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -26603,7 +24812,7 @@
       }
     },
     {
-      "index": 340,
+      "index": 316,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -26674,7 +24883,7 @@
       }
     },
     {
-      "index": 341,
+      "index": 317,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -26744,7 +24953,7 @@
       }
     },
     {
-      "index": 342,
+      "index": 318,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -26833,7 +25042,7 @@
       }
     },
     {
-      "index": 343,
+      "index": 319,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -26904,7 +25113,7 @@
       }
     },
     {
-      "index": 344,
+      "index": 320,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -26993,7 +25202,7 @@
       }
     },
     {
-      "index": 345,
+      "index": 321,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -27063,7 +25272,7 @@
       }
     },
     {
-      "index": 346,
+      "index": 322,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -27134,7 +25343,7 @@
       }
     },
     {
-      "index": 347,
+      "index": 323,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -27219,7 +25428,7 @@
       }
     },
     {
-      "index": 348,
+      "index": 324,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -27318,7 +25527,7 @@
       }
     },
     {
-      "index": 349,
+      "index": 325,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -27417,7 +25626,7 @@
       }
     },
     {
-      "index": 350,
+      "index": 326,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -27489,7 +25698,7 @@
       }
     },
     {
-      "index": 351,
+      "index": 327,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -27562,7 +25771,7 @@
       }
     },
     {
-      "index": 352,
+      "index": 328,
       "scene": 7,
       "speakers": {
         "emma": "emma",
@@ -27632,7 +25841,7 @@
       }
     },
     {
-      "index": 353,
+      "index": 329,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -27702,7 +25911,7 @@
       }
     },
     {
-      "index": 354,
+      "index": 330,
       "scene": 7,
       "speakers": {
         "emma": "emma",
@@ -27801,7 +26010,7 @@
       }
     },
     {
-      "index": 355,
+      "index": 331,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -27871,7 +26080,7 @@
       }
     },
     {
-      "index": 356,
+      "index": 332,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -27955,7 +26164,7 @@
       }
     },
     {
-      "index": 357,
+      "index": 333,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -28054,7 +26263,7 @@
       }
     },
     {
-      "index": 358,
+      "index": 334,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -28124,7 +26333,7 @@
       }
     },
     {
-      "index": 359,
+      "index": 335,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -28208,7 +26417,7 @@
       }
     },
     {
-      "index": 360,
+      "index": 336,
       "scene": 7,
       "speakers": {
         "leo": "leo",

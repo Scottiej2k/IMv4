@@ -17,7 +17,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **uscire**<br>(v.) · to go out<br>_Irregular present: esco, esci, esce, usciamo, uscite, escono._ | «Allora **esci**» dice Franco. | "Then **go out**," Franco says. |
-| **stare**<br>(v.) · to stay, to be<br>_Come stai? = How are you? stare a casa = to stay home._ | «Adesso **sto** qui o esco?» chiede. | "Now do I **stay** here or go out?" Kevin asks. |
+| **stare**<br>(v.) · to stay, to be<br>_Come stai? = How are you? stare a casa = to stay home._ | «Io **sto** benissimo!» risponde Kevin. | "I'm **great**!" Kevin answers. |
 | **dire**<br>(v.) · to say, to tell<br>_dire di sì / dire di no._ | «**Dici** grazie e basta?» | "You just **say** thanks?" |
 | **dare**<br>(v.) · to give<br>_dare il permesso = to give permission._ | «Quanto **dà**?» chiede Kevin. | "How much does she **give**?" Kevin asks. |
 | **bere**<br>(v.) · to drink<br>_Irregular present: bevo, bevi, beve, beviamo, bevete, bevono._ | «E da **bere**?» chiede Sergio. | "And to **drink**?" Sergio asks. |

@@ -29,10 +29,10 @@
       "lemma": "stare",
       "pos": "verb",
       "en": "to stay, to be",
-      "example": "s01e19-2-084",
+      "example": "s01e19-1-030",
       "target": {
         "it": "sto",
-        "en": "stay"
+        "en": "great"
       },
       "note": "Come stai? = How are you? stare a casa = to stay home."
     },
@@ -100,7 +100,7 @@
       "lemma": "la pizzeria",
       "pos": "noun",
       "en": "pizzeria",
-      "example": "s01e19-4-072",
+      "example": "s01e19-4-071",
       "target": {
         "it": "Pizzeria",
         "en": "Pizzeria"
@@ -112,7 +112,7 @@
       "lemma": "va bene",
       "pos": "expression",
       "en": "okay, all right",
-      "example": "s01e19-4-068",
+      "example": "s01e19-4-067",
       "target": {
         "it": "Va bene",
         "en": "Okay"
@@ -146,7 +146,7 @@
       "lemma": "preoccuparsi",
       "pos": "verb",
       "en": "to worry",
-      "example": "s01e19-4-104",
+      "example": "s01e19-4-103",
       "target": {
         "it": "si preoccupa",
         "en": "worries"
@@ -170,7 +170,7 @@
       "lemma": "la compagnia",
       "pos": "noun",
       "en": "group of friends, company",
-      "example": "s01e19-4-099",
+      "example": "s01e19-4-098",
       "target": {
         "it": "compagnia",
         "en": "group"
@@ -194,7 +194,7 @@
       "lemma": "la condizione",
       "pos": "noun",
       "en": "condition, term",
-      "example": "s01e19-4-070",
+      "example": "s01e19-4-069",
       "target": {
         "it": "condizioni",
         "en": "conditions"
@@ -231,7 +231,7 @@
       "lemma": "la promessa",
       "pos": "noun",
       "en": "promise",
-      "example": "s01e19-4-090",
+      "example": "s01e19-4-089",
       "target": {
         "it": "Promessa",
         "en": "Promise"
@@ -2660,7 +2660,7 @@
             {
               "id": "s01e19-1-029",
               "it": "«Kevin, tu non **stai** attento» dice Chiara.",
-              "en": "\"Kevin, you're not paying attention,\" Chiara says.",
+              "en": "\"Kevin, you're not **paying attention**,\" Chiara says.",
               "voice": [
                 [
                   "chiara",
@@ -2761,7 +2761,7 @@
             {
               "id": "s01e19-1-030",
               "it": "«Io **sto** benissimo!» risponde Kevin.",
-              "en": "\"I'm great!\" Kevin answers.",
+              "en": "\"I'm **great**!\" Kevin answers.",
               "voice": [
                 [
                   "ben",
@@ -14599,2841 +14599,9 @@
                 "v-va-bene",
                 "g-irregular-stare-dare-dire-uscire"
               ]
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "id": "s01e19-2-060",
-              "it": "«Bene. Io lo **dico** sempre: tu **dici** di sì» dice Matteo.",
-              "en": "\"Good. I always **say** it: you **say** yes,\" Matteo says.",
-              "voice": [
-                [
-                  "matteo",
-                  "Bene. Io lo **dico** sempre: tu **dici** di sì",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Matteo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bene",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Io",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dico",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sempre",
-                  4,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tu",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dici",
-                  6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sì",
-                  8,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  10,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-dire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-061",
-              "it": "«Io **dico** di sì **subito**» dice Kevin. «È la mia natura.»",
-              "en": "\"I **say** yes **right away**,\" Kevin says. \"It's my nature.\"",
-              "voice": [
-                [
-                  "ben",
-                  "Io **dico** di sì **subito**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ],
-                [
-                  "ben",
-                  "È la mia natura.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Io",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dico",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sì",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "subito",
-                  4,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  6,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mia",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "natura",
-                  10,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-dire",
-                "v-subito"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-062",
-              "it": "«Lo so» dice Matteo, e ride.",
-              "en": "\"I know,\" Matteo says, and laughs.",
-              "voice": [
-                [
-                  "matteo",
-                  "Lo so",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Matteo, e ride.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "so",
-                  1,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ride",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-063",
-              "it": "Kevin chiude il quaderno giallo.",
-              "en": "Kevin closes the yellow notebook.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin chiude il quaderno giallo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiude",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giallo",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e19-2-064",
-              "it": "«Matteo, una domanda» dice.",
-              "en": "\"Matteo, a question,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "Matteo, una domanda",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "domanda",
-                  2,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-065",
-              "it": "«Dimmi»",
-              "en": "\"Tell me.\"",
-              "voice": [
-                [
-                  "matteo",
-                  "Dimmi",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Dimmi",
-                  0,
-                  ""
-                ],
-                [
-                  "»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-066",
-              "it": "«Io **sto** bene con te. Anche tu **stai** bene?» chiede Kevin.",
-              "en": "\"I **feel** good with you. Do you **feel** good too?\" Kevin asks.",
-              "voice": [
-                [
-                  "ben",
-                  "Io **sto** bene con te. Anche tu **stai** bene?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Io",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sto",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "te",
-                  4,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Anche",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tu",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "stai",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  8,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  10,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-stare"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-067",
-              "it": "«Io **sto** bene» dice Matteo. «Ma non **dico** queste cose al bar.»",
-              "en": "\"I **feel** good,\" Matteo says. \"But I don't **say** these things at the bar.\"",
-              "voice": [
-                [
-                  "matteo",
-                  "Io **sto** bene",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Matteo.",
-                  ""
-                ],
-                [
-                  "matteo",
-                  "Ma non **dico** queste cose al bar.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Io",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sto",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  2,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  4,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ma",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dico",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "queste",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cose",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bar",
-                  11,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-stare",
-                "v-dire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-068",
-              "it": "«Ah. **Scusa**» dice Kevin.",
-              "en": "\"Ah. **Sorry**,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "Ah. **Scusa**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Scusa",
-                  1,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-scusa"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-069",
-              "it": "Matteo prende un altro bicchiere.",
-              "en": "Matteo takes another glass.",
-              "voice": [
-                [
-                  "narrator",
-                  "Matteo prende un altro bicchiere.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "altro",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchiere",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e19-2-070",
-              "it": "«Senti, americano. Il **sabato sera** io lavoro fino alle sette» dice.",
-              "en": "\"Listen, American. On **Saturday night** I work until seven,\" Matteo says.",
-              "voice": [
-                [
-                  "matteo",
-                  "Senti, americano. Il **sabato sera** io lavoro fino alle sette",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Senti",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "americano",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sabato",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "sera",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "io",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lavoro",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fino",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alle",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sette",
-                  9,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  10,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-sabato-sera"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-071",
-              "it": "«E io **sto** a casa fino alle sette» dice Kevin.",
-              "en": "\"And I **stay** home until seven,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "E io **sto** a casa fino alle sette",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "io",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sto",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "casa",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fino",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alle",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sette",
-                  7,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-stare"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-072",
-              "it": "«**Stai** a casa. **Dici** alla famiglia: esco con Matteo» dice.",
-              "en": "\"**Stay** home. **Say** to the family: I'm going out with Matteo,\" Matteo says.",
-              "voice": [
-                [
-                  "matteo",
-                  "**Stai** a casa. **Dici** alla famiglia: esco con Matteo",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Stai",
-                  0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "casa",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Dici",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alla",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "famiglia",
-                  5,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "esco",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  8,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-stare",
-                "v-dire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-073",
-              "it": "«La famiglia **dice**: Matteo? Il bar?» chiede Kevin.",
-              "en": "\"The family **says**: Matteo? The bar?\" Kevin asks.",
-              "voice": [
-                [
-                  "ben",
-                  "La famiglia **dice**: Matteo? Il bar?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "famiglia",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  "b"
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  3,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bar",
-                  5,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-dire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-074",
-              "it": "«No. La famiglia **dice**: perfetto!» dice Matteo.",
-              "en": "\"No. The family **says**: perfect!\"",
-              "voice": [
-                [
-                  "matteo",
-                  "No. La famiglia **dice**: perfetto!",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Matteo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "famiglia",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  "b"
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "perfetto",
-                  4,
-                  ""
-                ],
-                [
-                  "!» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-dire"
-              ]
-            },
-            {
-              "id": "s01e19-2-075",
-              "it": "Kevin ride.",
-              "en": "Kevin laughs.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin ride.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ride",
-                  1,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-076",
-              "it": "«E Emma esce anche lei stasera» dice Kevin.",
-              "en": "\"And Emma is going out tonight too,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "E Emma esce anche lei stasera",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "esce",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anche",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lei",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "stasera",
-                  5,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-077",
-              "it": "«Emma? Con chi?» chiede.",
-              "en": "\"Emma? With whom?\" Matteo asks.",
-              "voice": [
-                [
-                  "matteo",
-                  "Emma? Con chi?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  0,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Con",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chi",
-                  2,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-078",
-              "it": "«Con Bianca e altri» dice Kevin.",
-              "en": "\"With Bianca and others,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "Con Bianca e altri",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Con",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bianca",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "altri",
-                  3,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-079",
-              "it": "«E altri chi?» chiede Matteo.",
-              "en": "\"And others who?\" Matteo asks.",
-              "voice": [
-                [
-                  "matteo",
-                  "E altri chi?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Matteo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "altri",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chi",
-                  2,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-080",
-              "it": "«Ehm. Bianca **dice**... io non **dico**...»",
-              "en": "\"Um. Bianca **says**... I don't **say**...\"",
-              "voice": [
-                [
-                  "ben",
-                  "Ehm. Bianca **dice**... io non **dico**...",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ehm",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bianca",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  "b"
-                ],
-                [
-                  "... ",
-                  -1,
-                  ""
-                ],
-                [
-                  "io",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dico",
-                  5,
-                  "b"
-                ],
-                [
-                  "...»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-dire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-081",
-              "it": "«Ah!» Matteo sorride. «Capito. La **compagnia** di Emma è un mistero.»",
-              "en": "\"Ah!\" Matteo smiles. \"Got it. Emma's **group** is a mystery.\"",
-              "voice": [
-                [
-                  "matteo",
-                  "Ah!",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "Matteo sorride.",
-                  ""
-                ],
-                [
-                  "matteo",
-                  "Capito. La **compagnia** di Emma è un mistero.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  "!» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sorride",
-                  2,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Capito",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "compagnia",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mistero",
-                  10,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-compagnia"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-082",
-              "it": "«Un mistero totale» dice Kevin.",
-              "en": "\"A total mystery,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "Un mistero totale",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Un",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mistero",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "totale",
-                  2,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-083",
-              "it": "Kevin guarda l'ora.",
-              "en": "Kevin looks at the time.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda l'ora.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l'ora",
-                  2,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e19-2-084",
-              "it": "«Adesso **sto** qui o **esco**?» chiede.",
-              "en": "\"Now do I **stay** here or **go out**?\" Kevin asks.",
-              "voice": [
-                [
-                  "ben",
-                  "Adesso **sto** qui o **esco**?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Adesso",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sto",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "o",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "esco",
-                  4,
-                  "b"
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-stare",
-                "v-uscire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-085",
-              "it": "«Tu **stai** qui e **bevi** un altro caffè» dice Matteo.",
-              "en": "\"You **stay** here and **drink** another coffee,\" Matteo says.",
-              "voice": [
-                [
-                  "matteo",
-                  "Tu **stai** qui e **bevi** un altro caffè",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Matteo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tu",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "stai",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bevi",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "altro",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  7,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-stare",
-                "v-bere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-086",
-              "it": "«Ma la **birra**?»",
-              "en": "\"But the **beer**?\"",
-              "voice": [
-                [
-                  "ben",
-                  "Ma la **birra**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ma",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "birra",
-                  2,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-birra"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-087",
-              "it": "«La **birra** è per il **sabato sera**» dice. «Adesso è pomeriggio.»",
-              "en": "\"**Beer** is for **Saturday night**,\" Matteo says. \"Now it's afternoon.\"",
-              "voice": [
-                [
-                  "matteo",
-                  "La **birra** è per il **sabato sera**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice.",
-                  ""
-                ],
-                [
-                  "matteo",
-                  "Adesso è pomeriggio.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "birra",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sabato",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "sera",
-                  6,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  7,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Adesso",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "pomeriggio",
-                  10,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-birra",
-                "v-sabato-sera"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-088",
-              "it": "«Ah. **Va bene**» dice Kevin.",
-              "en": "\"Ah. **Okay**,\" Kevin says.",
-              "voice": [
-                [
-                  "ben",
-                  "Ah. **Va bene**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Va",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "bene",
-                  2,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-va-bene"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-2-089",
               "it": "Matteo porta un altro caffè.",
               "en": "Matteo brings another coffee.",
               "voice": [
@@ -17497,7 +14665,7 @@
               ]
             },
             {
-              "id": "s01e19-2-090",
+              "id": "s01e19-2-061",
               "it": "Kevin **beve** il caffè al banco, in piedi.",
               "en": "Kevin **drinks** the coffee at the counter, standing.",
               "voice": [
@@ -17594,7 +14762,7 @@
               ]
             },
             {
-              "id": "s01e19-2-091",
+              "id": "s01e19-2-062",
               "it": "Fuori il sole esce dalle nuvole.",
               "en": "Outside the sun comes out of the clouds.",
               "voice": [
@@ -17668,7 +14836,7 @@
               ]
             },
             {
-              "id": "s01e19-2-092",
+              "id": "s01e19-2-063",
               "it": "_Stasera non sono l'americano._ pensa.",
               "en": "_Tonight I'm not the American,_ he thinks.",
               "voice": [
@@ -17742,7 +14910,7 @@
               ]
             },
             {
-              "id": "s01e19-2-093",
+              "id": "s01e19-2-064",
               "it": "_Stasera sono uno della **compagnia**._",
               "en": "_Tonight I'm one of the **group**._",
               "voice": [
@@ -17809,7 +14977,7 @@
               ]
             },
             {
-              "id": "s01e19-2-094",
+              "id": "s01e19-2-065",
               "it": "«Grazie, Matteo» dice Kevin.",
               "en": "\"Thanks, Matteo,\" Kevin says.",
               "voice": [
@@ -17877,7 +15045,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-2-095",
+              "id": "s01e19-2-066",
               "it": "«Grazie di che?»",
               "en": "\"Thanks for what?\"",
               "voice": [
@@ -17930,7 +15098,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-2-096",
+              "id": "s01e19-2-067",
               "it": "«Non **dico** niente» dice Kevin. «**Dico** solo grazie.»",
               "en": "\"I don't **say** anything,\" Kevin says. \"I just **say** thanks.\"",
               "voice": [
@@ -18042,7 +15210,7 @@
               ]
             },
             {
-              "id": "s01e19-2-097",
+              "id": "s01e19-2-068",
               "it": "Matteo ride e **beve** il suo caffè.",
               "en": "Matteo laughs and **drinks** his coffee.",
               "voice": [
@@ -20487,12 +17655,12 @@
           "segments": [
             {
               "id": "s01e19-3-027",
-              "it": "«E il nonno di papà? **Dice** di sì o di no?» chiede.",
-              "en": "\"And Dad's grandpa? Does he **say** yes or no?\" Emma asks.",
+              "it": "«E il tuo papà? **Dice** di sì o di no?» chiede.",
+              "en": "\"And your dad? Does he **say** yes or no?\" Emma asks.",
               "voice": [
                 [
                   "emma",
-                  "E il nonno di papà? **Dice** di sì o di no?",
+                  "E il tuo papà? **Dice** di sì o di no?",
                   ""
                 ],
                 [
@@ -20528,7 +17696,7 @@
                   ""
                 ],
                 [
-                  "nonno",
+                  "tuo",
                   2,
                   ""
                 ],
@@ -20538,18 +17706,8 @@
                   ""
                 ],
                 [
-                  "di",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "papà",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -20559,7 +17717,7 @@
                 ],
                 [
                   "Dice",
-                  5,
+                  4,
                   "b"
                 ],
                 [
@@ -20569,7 +17727,7 @@
                 ],
                 [
                   "di",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -20579,7 +17737,7 @@
                 ],
                 [
                   "sì",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -20589,7 +17747,7 @@
                 ],
                 [
                   "o",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -20599,7 +17757,7 @@
                 ],
                 [
                   "di",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -20609,7 +17767,7 @@
                 ],
                 [
                   "no",
-                  10,
+                  9,
                   ""
                 ],
                 [
@@ -20619,7 +17777,7 @@
                 ],
                 [
                   "chiede",
-                  11,
+                  10,
                   ""
                 ],
                 [
@@ -21661,7 +18819,7 @@
             {
               "id": "s01e19-3-037",
               "it": "«Io **sto** dalla parte di mia nipote» dice.",
-              "en": "\"I'm on my granddaughter's side,\" Franco says.",
+              "en": "\"I'm **on** my granddaughter's side,\" Franco says.",
               "voice": [
                 [
                   "franco",
@@ -22059,7 +19217,7 @@
             {
               "id": "s01e19-3-041",
               "it": "«Tu **stai** bene qui?» chiede.",
-              "en": "\"Are you okay here?\" he asks.",
+              "en": "\"Are you **okay** here?\" he asks.",
               "voice": [
                 [
                   "franco",
@@ -25579,12 +22737,12 @@
           "segments": [
             {
               "id": "s01e19-3-079",
-              "it": "Franco esce in **subito** dal cancello.",
+              "it": "Franco esce **subito** dal cancello.",
               "en": "Franco goes out through the gate **right away**.",
               "voice": [
                 [
                   "narrator",
-                  "Franco esce in **subito** dal cancello.",
+                  "Franco esce **subito** dal cancello.",
                   ""
                 ]
               ],
@@ -25610,18 +22768,8 @@
                   ""
                 ],
                 [
-                  "in",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "subito",
-                  3,
+                  2,
                   "b"
                 ],
                 [
@@ -25631,7 +22779,7 @@
                 ],
                 [
                   "dal",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -25641,7 +22789,7 @@
                 ],
                 [
                   "cancello",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -29069,12 +26217,12 @@
             },
             {
               "id": "s01e19-4-039",
-              "it": "«Io, a quindici anni, **uscivo** il **sabato sera**» dice.",
-              "en": "\"I, at fifteen, **went out** on **Saturday night**,\" Franco says.",
+              "it": "«Io, a quindici anni: il **sabato sera**, fuori con gli amici» dice.",
+              "en": "\"Me, at fifteen: **Saturday night**, out with friends,\" Franco says.",
               "voice": [
                 [
                   "franco",
-                  "Io, a quindici anni, **uscivo** il **sabato sera**",
+                  "Io, a quindici anni: il **sabato sera**, fuori con gli amici",
                   ""
                 ],
                 [
@@ -29125,23 +26273,13 @@
                   ""
                 ],
                 [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "uscivo",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
+                  ": ",
                   -1,
                   ""
                 ],
                 [
                   "il",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -29151,7 +26289,7 @@
                 ],
                 [
                   "sabato",
-                  6,
+                  5,
                   "b"
                 ],
                 [
@@ -29161,8 +26299,48 @@
                 ],
                 [
                   "sera",
-                  7,
+                  6,
                   "b"
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fuori",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "con",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "gli",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "amici",
+                  10,
+                  ""
                 ],
                 [
                   "» ",
@@ -29171,7 +26349,7 @@
                 ],
                 [
                   "dice",
-                  8,
+                  11,
                   ""
                 ],
                 [
@@ -29181,7 +26359,6 @@
                 ]
               ],
               "focus": [
-                "g-irregular-stare-dare-dire-uscire",
                 "v-sabato-sera"
               ]
             }
@@ -29245,12 +26422,12 @@
             },
             {
               "id": "s01e19-4-041",
-              "it": "«Lei **dà** sempre **fiducia** ai ragazzi» dice Kevin.",
+              "it": "«Tu **dai** sempre **fiducia** ai ragazzi» dice Kevin.",
               "en": "\"You always **give** **trust** to young people,\" Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Lei **dà** sempre **fiducia** ai ragazzi",
+                  "Tu **dai** sempre **fiducia** ai ragazzi",
                   ""
                 ],
                 [
@@ -29266,7 +26443,7 @@
                   ""
                 ],
                 [
-                  "Lei",
+                  "Tu",
                   0,
                   ""
                 ],
@@ -29276,7 +26453,7 @@
                   ""
                 ],
                 [
-                  "dà",
+                  "dai",
                   1,
                   "b"
                 ],
@@ -29357,22 +26534,17 @@
           "segments": [
             {
               "id": "s01e19-4-042",
-              "it": "«Nonno **dà**. Non Lei» dice Emma **subito**. «È tuo suocero. Si dice **nonno**.»",
-              "en": "\"Grandpa **gives**. Not 'Lei,'\" Emma says **right away**. \"He's your father-in-law. You say **grandpa**.\"",
+              "it": "«Io **do** fiducia a chi **dice** la verità» dice Franco.",
+              "en": "\"I **give** trust to whoever **tells** the truth,\" Franco says.",
               "voice": [
                 [
-                  "emma",
-                  "Nonno **dà**. Non Lei",
+                  "franco",
+                  "Io **do** fiducia a chi **dice** la verità",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice Emma **subito**.",
-                  ""
-                ],
-                [
-                  "emma",
-                  "È tuo suocero. Si dice **nonno**.",
+                  "dice Franco.",
                   ""
                 ]
               ],
@@ -29383,7 +26555,7 @@
                   ""
                 ],
                 [
-                  "Nonno",
+                  "Io",
                   0,
                   ""
                 ],
@@ -29393,216 +26565,8 @@
                   ""
                 ],
                 [
-                  "dà",
+                  "do",
                   1,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lei",
-                  3,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "subito",
-                  6,
-                  "b"
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tuo",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "suocero",
-                  9,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Si",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nonno",
-                  12,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-dare",
-                "v-subito",
-                "g-irregular-stare-dare-dire-uscire"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-4-043",
-              "it": "«Nonno **dà**» ripete Kevin. «Nonno **dà** **fiducia** ai ragazzi.»",
-              "en": "\"Grandpa **gives**,\" Kevin repeats. \"Grandpa **gives** **trust** to young people.\"",
-              "voice": [
-                [
-                  "ben",
-                  "Nonno **dà**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "ripete Kevin.",
-                  ""
-                ],
-                [
-                  "ben",
-                  "Nonno **dà** **fiducia** ai ragazzi.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nonno",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dà",
-                  1,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ripete",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  3,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nonno",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dà",
-                  5,
                   "b"
                 ],
                 [
@@ -29612,7 +26576,37 @@
                 ],
                 [
                   "fiducia",
-                  6,
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chi",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  5,
                   "b"
                 ],
                 [
@@ -29621,8 +26615,8 @@
                   ""
                 ],
                 [
-                  "ai",
-                  7,
+                  "la",
+                  6,
                   ""
                 ],
                 [
@@ -29631,19 +26625,130 @@
                   ""
                 ],
                 [
-                  "ragazzi",
+                  "verità",
+                  7,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
                   8,
                   ""
                 ],
                 [
-                  ".»",
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Franco",
+                  9,
+                  ""
+                ],
+                [
+                  ".",
                   -1,
                   ""
                 ]
               ],
               "focus": [
                 "v-dare",
-                "v-fiducia"
+                "v-dire"
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e19-4-043",
+              "it": "«Anch'io **dico** la verità!» dice Kevin.",
+              "en": "\"I **tell** the truth too!\" Kevin says.",
+              "voice": [
+                [
+                  "ben",
+                  "Anch'io **dico** la verità!",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Kevin.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Anch'io",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dico",
+                  1,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "la",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "verità",
+                  3,
+                  ""
+                ],
+                [
+                  "!» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  5,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ],
+              "focus": [
+                "v-dire"
               ]
             }
           ]
@@ -29652,12 +26757,12 @@
           "segments": [
             {
               "id": "s01e19-4-044",
-              "it": "«Grazie, americano» dice Franco, senza sorridere.",
-              "en": "\"Thank you, American,\" Franco says, without smiling.",
+              "it": "«Non sempre, americano» dice Franco, senza sorridere.",
+              "en": "\"Not always, American,\" Franco says, without smiling.",
               "voice": [
                 [
                   "franco",
-                  "Grazie, americano",
+                  "Non sempre, americano",
                   ""
                 ],
                 [
@@ -29673,8 +26778,18 @@
                   ""
                 ],
                 [
-                  "Grazie",
+                  "Non",
                   0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sempre",
+                  1,
                   ""
                 ],
                 [
@@ -29684,7 +26799,7 @@
                 ],
                 [
                   "americano",
-                  1,
+                  2,
                   ""
                 ],
                 [
@@ -29694,7 +26809,7 @@
                 ],
                 [
                   "dice",
-                  2,
+                  3,
                   ""
                 ],
                 [
@@ -29704,7 +26819,7 @@
                 ],
                 [
                   "Franco",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -29714,7 +26829,7 @@
                 ],
                 [
                   "senza",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -29724,7 +26839,7 @@
                 ],
                 [
                   "sorridere",
-                  5,
+                  6,
                   ""
                 ],
                 [
@@ -29740,74 +26855,6 @@
           "segments": [
             {
               "id": "s01e19-4-045",
-              "it": "«Prego!» dice Kevin, felice.",
-              "en": "\"You're welcome!\" Kevin says, happy.",
-              "voice": [
-                [
-                  "ben",
-                  "Prego!",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin, felice.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Prego",
-                  0,
-                  ""
-                ],
-                [
-                  "!» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  2,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "felice",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e19-4-046",
               "it": "Chiara incrocia le braccia.",
               "en": "Chiara crosses her arms.",
               "voice": [
@@ -29861,7 +26908,7 @@
               ]
             },
             {
-              "id": "s01e19-4-047",
+              "id": "s01e19-4-046",
               "it": "«Papà, il **coprifuoco** esiste per un motivo» dice.",
               "en": "\"Dad, the **curfew** exists for a reason,\" Chiara says.",
               "voice": [
@@ -29972,7 +27019,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-048",
+              "id": "s01e19-4-047",
               "it": "«Il **coprifuoco** è un numero» dice Franco.",
               "en": "\"The **curfew** is a number,\" Franco says.",
               "voice": [
@@ -30073,7 +27120,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-049",
+              "id": "s01e19-4-048",
               "it": "«Un numero è tutto» dice Chiara.",
               "en": "\"A number is everything,\" Chiara says.",
               "voice": [
@@ -30161,7 +27208,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-050",
+              "id": "s01e19-4-049",
               "it": "«No. La **fiducia** è tutto» dice.",
               "en": "\"No. **Trust** is everything,\" Franco says.",
               "voice": [
@@ -30252,7 +27299,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-051",
+              "id": "s01e19-4-050",
               "it": "Kevin alza di nuovo la mano.",
               "en": "Kevin raises his hand again.",
               "voice": [
@@ -30326,7 +27373,7 @@
               ]
             },
             {
-              "id": "s01e19-4-052",
+              "id": "s01e19-4-051",
               "it": "«La **fiducia** è molto importante» dice.",
               "en": "\"**Trust** is very important,\" Kevin says.",
               "voice": [
@@ -30417,7 +27464,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-053",
+              "id": "s01e19-4-052",
               "it": "«Kevin» dice Chiara.",
               "en": "\"Kevin,\" Chiara says.",
               "voice": [
@@ -30475,7 +27522,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-054",
+              "id": "s01e19-4-053",
               "it": "«Sì?»",
               "en": "\"Yes?\"",
               "voice": [
@@ -30508,7 +27555,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-055",
+              "id": "s01e19-4-054",
               "it": "«**Stai** zitto un momento» dice Chiara.",
               "en": "\"**Be** quiet a moment,\" Chiara says.",
               "voice": [
@@ -30599,7 +27646,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-056",
+              "id": "s01e19-4-055",
               "it": "«**Sto** zitto» dice Kevin. E **sta** zitto per dieci secondi.",
               "en": "\"I **am** quiet,\" Kevin says. And he **is** quiet for ten seconds.",
               "voice": [
@@ -30730,7 +27777,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-057",
+              "id": "s01e19-4-056",
               "it": "Franco guarda Chiara.",
               "en": "Franco looks at Chiara.",
               "voice": [
@@ -30774,7 +27821,7 @@
               ]
             },
             {
-              "id": "s01e19-4-058",
+              "id": "s01e19-4-057",
               "it": "«Le regole sono per la casa, non per la vita» dice.",
               "en": "\"Rules are for the house, not for life,\" Franco says.",
               "voice": [
@@ -30912,7 +27959,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-059",
+              "id": "s01e19-4-058",
               "it": "«Questa è una frase da cartolina» dice Chiara.",
               "en": "\"That's a postcard sentence,\" Chiara says.",
               "voice": [
@@ -31020,7 +28067,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-060",
+              "id": "s01e19-4-059",
               "it": "«È una frase da padre» dice Franco.",
               "en": "\"It's a father's sentence,\" Franco says.",
               "voice": [
@@ -31118,7 +28165,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-061",
+              "id": "s01e19-4-060",
               "it": "«Tu non **dici** mai queste cose» dice Chiara.",
               "en": "\"You never **say** these things,\" Chiara says.",
               "voice": [
@@ -31229,7 +28276,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-062",
+              "id": "s01e19-4-061",
               "it": "«Adesso le **dico**» dice Franco. «Sono vecchio. Ho tempo.»",
               "en": "\"Now I **say** them,\" Franco says. \"I'm old. I have time.\"",
               "voice": [
@@ -31355,7 +28402,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-063",
+              "id": "s01e19-4-062",
               "it": "Emma è in piedi vicino alla porta.",
               "en": "Emma is standing near the door.",
               "voice": [
@@ -31439,7 +28486,7 @@
               ]
             },
             {
-              "id": "s01e19-4-064",
+              "id": "s01e19-4-063",
               "it": "«Mamma, per favore» dice.",
               "en": "\"Mom, please,\" Emma says.",
               "voice": [
@@ -31507,7 +28554,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-065",
+              "id": "s01e19-4-064",
               "it": "Chiara la guarda.",
               "en": "Chiara looks at her.",
               "voice": [
@@ -31551,7 +28598,7 @@
               ]
             },
             {
-              "id": "s01e19-4-066",
+              "id": "s01e19-4-065",
               "it": "Chiara pensa a sua madre.",
               "en": "Chiara thinks about her mother.",
               "voice": [
@@ -31615,7 +28662,7 @@
               ]
             },
             {
-              "id": "s01e19-4-067",
+              "id": "s01e19-4-066",
               "it": "_Mio padre ha ragione. E io sono quasi contenta._ pensa.",
               "en": "_My father is right. And I'm almost happy about it,_ she thinks.",
               "voice": [
@@ -31743,7 +28790,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-068",
+              "id": "s01e19-4-067",
               "it": "«**Va bene**» dice Chiara.",
               "en": "\"**Okay**,\" Chiara says.",
               "voice": [
@@ -31810,7 +28857,7 @@
               ]
             },
             {
-              "id": "s01e19-4-069",
+              "id": "s01e19-4-068",
               "it": "Emma alza la testa.",
               "en": "Emma raises her head.",
               "voice": [
@@ -31864,7 +28911,7 @@
               ]
             },
             {
-              "id": "s01e19-4-070",
+              "id": "s01e19-4-069",
               "it": "«Ma con tre **condizioni**» dice.",
               "en": "\"But with three **conditions**,\" Chiara says.",
               "voice": [
@@ -31941,7 +28988,7 @@
               ]
             },
             {
-              "id": "s01e19-4-071",
+              "id": "s01e19-4-070",
               "it": "«La prima **condizione**: siete in **pizzeria**, non in **discoteca**»",
               "en": "\"The first **condition**: you're in a **pizzeria**, not in a **disco**.\"",
               "voice": [
@@ -32059,7 +29106,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-072",
+              "id": "s01e19-4-071",
               "it": "«Sì. **Pizzeria**» dice Emma.",
               "en": "\"Yes. **Pizzeria**,\" Emma says.",
               "voice": [
@@ -32130,7 +29177,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-073",
+              "id": "s01e19-4-072",
               "it": "«La seconda **condizione**: a casa a **mezzanotte**» dice. «Non **in ritardo**.»",
               "en": "\"The second **condition**: home by **midnight**,\" she says. \"Not **late**.\"",
               "voice": [
@@ -32278,7 +29325,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-074",
+              "id": "s01e19-4-073",
               "it": "«A **mezzanotte**» ripete.",
               "en": "\"At **midnight**,\" Emma repeats.",
               "voice": [
@@ -32339,7 +29386,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-075",
+              "id": "s01e19-4-074",
               "it": "«E la terza?» chiede.",
               "en": "\"And the third?\" Franco asks.",
               "voice": [
@@ -32407,7 +29454,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-076",
+              "id": "s01e19-4-075",
               "it": "«La terza è una **promessa**» dice Chiara.",
               "en": "\"The third is a **promise**,\" Chiara says.",
               "voice": [
@@ -32508,7 +29555,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-077",
+              "id": "s01e19-4-076",
               "it": "«Che **promessa**?» chiede.",
               "en": "\"What **promise**?\" Emma asks.",
               "voice": [
@@ -32569,7 +29616,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-078",
+              "id": "s01e19-4-077",
               "it": "«Se cambi **locale**, tu scrivi **subito**» dice.",
               "en": "\"If you change **venue**, you write **right away**,\" Chiara says.",
               "voice": [
@@ -32671,7 +29718,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-079",
+              "id": "s01e19-4-078",
               "it": "«E se non scrivo?»",
               "en": "\"And if I don't write?\"",
               "voice": [
@@ -32734,7 +29781,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-080",
+              "id": "s01e19-4-079",
               "it": "«Se non scrivi, non **esci** più» dice Chiara.",
               "en": "\"If you don't write, you don't **go out** anymore,\" Chiara says.",
               "voice": [
@@ -32845,7 +29892,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-081",
+              "id": "s01e19-4-080",
               "it": "«**Va bene**. **Promessa**» dice Emma.",
               "en": "\"**Okay**. **Promise**,\" Emma says.",
               "voice": [
@@ -32927,7 +29974,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-082",
+              "id": "s01e19-4-081",
               "it": "Franco si alza.",
               "en": "Franco gets up.",
               "voice": [
@@ -32971,7 +30018,7 @@
               ]
             },
             {
-              "id": "s01e19-4-083",
+              "id": "s01e19-4-082",
               "it": "«Adesso **esco** io» dice. «Basta così.»",
               "en": "\"Now I **go out**,\" Franco says. \"That's enough.\"",
               "voice": [
@@ -33067,7 +30114,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-084",
+              "id": "s01e19-4-083",
               "it": "«Papà, tu non **dici** niente a Kevin?» chiede.",
               "en": "\"Dad, don't you **say** anything to Kevin?\" Chiara asks.",
               "voice": [
@@ -33178,7 +30225,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-085",
+              "id": "s01e19-4-084",
               "it": "«Sì. Una cosa» dice Franco. «L'americano è simpatico. Ma **dice** troppe cose.»",
               "en": "\"Yes. One thing,\" Franco says. \"The American is nice. But he **says** too many things.\"",
               "voice": [
@@ -33334,7 +30381,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-086",
+              "id": "s01e19-4-085",
               "it": "«Grazie» dice Kevin. «Anche io penso che sono simpatico.»",
               "en": "\"Thanks,\" Kevin says. \"I also think I'm nice.\"",
               "voice": [
@@ -33457,7 +30504,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-087",
+              "id": "s01e19-4-086",
               "it": "«Non è un complimento» dice Franco, e va alla porta.",
               "en": "\"It's not a compliment,\" Franco says, and goes to the door.",
               "voice": [
@@ -33585,7 +30632,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-088",
+              "id": "s01e19-4-087",
               "it": "Chiara guarda la figlia.",
               "en": "Chiara looks at her daughter.",
               "voice": [
@@ -33639,7 +30686,7 @@
               ]
             },
             {
-              "id": "s01e19-4-089",
+              "id": "s01e19-4-088",
               "it": "«E **dici** anche a me chi sono gli altri?» chiede.",
               "en": "\"And will you **tell** me too who the others are?\" Chiara asks.",
               "voice": [
@@ -33770,7 +30817,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-090",
+              "id": "s01e19-4-089",
               "it": "«Stasera. **Promessa**» dice Emma.",
               "en": "\"Tonight. **Promise**,\" Emma says.",
               "voice": [
@@ -33841,7 +30888,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-091",
+              "id": "s01e19-4-090",
               "it": "«Io ti **do** **fiducia**» dice Chiara. «Non ti **do** tutto, ma **fiducia** sì.»",
               "en": "\"I **give** you **trust**,\" Chiara says. \"I don't **give** you everything, but **trust** yes.\"",
               "voice": [
@@ -34008,7 +31055,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-092",
+              "id": "s01e19-4-091",
               "it": "«Grazie, mamma» dice Emma, piano.",
               "en": "\"Thank you, Mom,\" Emma says, quietly.",
               "voice": [
@@ -34086,7 +31133,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-093",
+              "id": "s01e19-4-092",
               "it": "Chiara resta sulla porta.",
               "en": "Chiara stays at the door.",
               "voice": [
@@ -34140,7 +31187,7 @@
               ]
             },
             {
-              "id": "s01e19-4-094",
+              "id": "s01e19-4-093",
               "it": "«E se sei **in ritardo** di dieci minuti, il mese prossimo non **esci**» dice, gelida.",
               "en": "\"And if you're **late** by ten minutes, next month you don't **go out**,\" Chiara says, coldly.",
               "voice": [
@@ -34322,7 +31369,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-095",
+              "id": "s01e19-4-094",
               "it": "«**Promessa**!» dice Emma.",
               "en": "\"**Promise**!\" Emma says.",
               "voice": [
@@ -34383,7 +31430,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-096",
+              "id": "s01e19-4-095",
               "it": "Kevin batte le mani.",
               "en": "Kevin claps his hands.",
               "voice": [
@@ -34437,7 +31484,7 @@
               ]
             },
             {
-              "id": "s01e19-4-097",
+              "id": "s01e19-4-096",
               "it": "«Vedi? Io **dico** di sì, tu **dici** di sì. Siamo una squadra!»",
               "en": "\"See? I **say** yes, you **say** yes. We're a team!\"",
               "voice": [
@@ -34583,7 +31630,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-098",
+              "id": "s01e19-4-097",
               "it": "«Non siamo una squadra» dice Chiara.",
               "en": "\"We're not a team,\" Chiara says.",
               "voice": [
@@ -34671,7 +31718,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-099",
+              "id": "s01e19-4-098",
               "it": "«Una **compagnia**?» prova Kevin.",
               "en": "\"A **group**?\" Kevin tries.",
               "voice": [
@@ -34742,7 +31789,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-100",
+              "id": "s01e19-4-099",
               "it": "«No. Una famiglia» dice Chiara. «È peggio e è meglio.»",
               "en": "\"No. A family,\" Chiara says. \"It's worse and it's better.\"",
               "voice": [
@@ -34875,7 +31922,7 @@
         {
           "segments": [
             {
-              "id": "s01e19-4-101",
+              "id": "s01e19-4-100",
               "it": "Franco è già fuori.",
               "en": "Franco is already outside.",
               "voice": [
@@ -34929,7 +31976,7 @@
               ]
             },
             {
-              "id": "s01e19-4-102",
+              "id": "s01e19-4-101",
               "it": "Emma **beve** un bicchiere d'acqua **subito**.",
               "en": "Emma **drinks** a glass of water **right away**.",
               "voice": [
@@ -35007,7 +32054,7 @@
               ]
             },
             {
-              "id": "s01e19-4-103",
+              "id": "s01e19-4-102",
               "it": "Kevin guarda il quaderno giallo.",
               "en": "Kevin looks at the yellow notebook.",
               "voice": [
@@ -35071,7 +32118,7 @@
               ]
             },
             {
-              "id": "s01e19-4-104",
+              "id": "s01e19-4-103",
               "it": "Kevin **si preoccupa** per un secondo.",
               "en": "Kevin **worries** for a second.",
               "voice": [
@@ -35148,7 +32195,7 @@
               ]
             },
             {
-              "id": "s01e19-4-105",
+              "id": "s01e19-4-104",
               "it": "Poi sorride.",
               "en": "Then he smiles.",
               "voice": [
@@ -39028,12 +36075,12 @@
             },
             {
               "id": "s01e19-5-044",
-              "it": "«Cameriere, porto la **birra** media» dice. «E un cappuccino, se vuole.»",
-              "en": "\"Waiter, I'll bring the medium **beer**,\" he says. \"And a cappuccino, if he wants.\"",
+              "it": "«Porto la **birra** media» dice. «E un cappuccino, se vuole.»",
+              "en": "\"I'll bring the medium **beer**,\" he says. \"And a cappuccino, if he wants.\"",
               "voice": [
                 [
                   "uomo",
-                  "Cameriere, porto la **birra** media",
+                  "Porto la **birra** media",
                   ""
                 ],
                 [
@@ -39054,18 +36101,8 @@
                   ""
                 ],
                 [
-                  "Cameriere",
+                  "Porto",
                   0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "porto",
-                  1,
                   ""
                 ],
                 [
@@ -39075,7 +36112,7 @@
                 ],
                 [
                   "la",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -39085,7 +36122,7 @@
                 ],
                 [
                   "birra",
-                  3,
+                  2,
                   "b"
                 ],
                 [
@@ -39095,7 +36132,7 @@
                 ],
                 [
                   "media",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -39105,7 +36142,7 @@
                 ],
                 [
                   "dice",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -39115,7 +36152,7 @@
                 ],
                 [
                   "E",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -39125,7 +36162,7 @@
                 ],
                 [
                   "un",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -39135,7 +36172,7 @@
                 ],
                 [
                   "cappuccino",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -39145,7 +36182,7 @@
                 ],
                 [
                   "se",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -39155,7 +36192,7 @@
                 ],
                 [
                   "vuole",
-                  10,
+                  9,
                   ""
                 ],
                 [
@@ -46970,7 +44007,7 @@
             {
               "id": "s01e19-6-021",
               "it": "«Io **sto** bene così» dice Tommaso.",
-              "en": "\"I'm fine like this,\" Tommaso says.",
+              "en": "\"I'm **fine** like this,\" Tommaso says.",
               "voice": [
                 [
                   "tommaso",
@@ -47887,7 +44924,7 @@
             {
               "id": "s01e19-6-034",
               "it": "«Che **ansia**!» dice Bianca.",
-              "en": "\"So stressful!\" Bianca says.",
+              "en": "\"**So stressful**!\" Bianca says.",
               "voice": [
                 [
                   "bianca",
@@ -49656,7 +46693,7 @@
             {
               "id": "s01e19-6-054",
               "it": "«Che **ansia**, che romantica!» dice Bianca.",
-              "en": "\"So stressful, so romantic!\" Bianca says.",
+              "en": "\"**So stressful**, so romantic!\" Bianca says.",
               "voice": [
                 [
                   "bianca",
