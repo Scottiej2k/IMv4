@@ -6,11 +6,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · 24 dicembre, pomeriggio
 
-È il pomeriggio del ventiquattro dicembre. **Nel** salotto dei Carter c'è un albero grande e luminoso. **Sulla** porta c'è una corona rossa. In cucina c'è un **profumo** dolce. **Il pandoro** è **sul** tavolo, vicino ai piatti. Vicino c'è anche **il torrone**. Kevin è in piedi davanti a **la tavola** del salotto. Lui **apparecchia** per sette persone.
+È il pomeriggio del ventiquattro dicembre. **Nel** salotto dei Carter c'è un albero grande e luminoso. **Sulla** porta c'è una corona rossa. In cucina c'è un **profumo** dolce. **Il pandoro** è **sul** tavolo, vicino ai piatti. Vicino c'è anche **il torrone**. Kevin è in piedi davanti **alla tavola** del salotto. Lui **apparecchia** per sei persone.
 
-«Allora. **La forchetta** a sinistra, il coltello a destra.» Kevin conta **le forchette** ad alta voce. «Uno, due, tre, quattro, cinque, sei... sette.» Poi conta i **tovaglioli**, uno per piatto.
+«Allora. **La forchetta** a sinistra, il coltello a destra.» Kevin conta **le forchette** ad alta voce. «Uno, due, tre, quattro, cinque... sei.» Poi conta i **tovaglioli**, uno per piatto.
 
-«Sette piatti, sette **tovaglioli**.» Kevin guarda **la tavola** e sorride. Poi ripete una frase, piano. «Un amico **del** corso d'italiano.»
+«Sei piatti, sei **tovaglioli**.» Kevin guarda **la tavola** e sorride. Poi ripete una frase, piano. «Un amico **del** corso d'italiano.»
 
 «Un amico **del** corso d'italiano.»
 
@@ -62,11 +62,11 @@ In quel momento la porta si apre. Entra Chiara con le mani piene. **Nei** sacche
 
 «Una prova? A casa nostra?»
 
-«Sì. Per sette persone. Ma noi siamo quattro.»
+«Sì. Per sei persone. Ma noi siamo quattro.»
 
-«Sette? Perché sette?»
+«Sei? Perché sei?»
 
-Kevin prende **una forchetta** in mano. «Perché tu, io, Emma, Leo, papà Franco...» «E un amico **del** corso d'italiano.» Chiara si ferma e lo guarda.
+Kevin prende **una forchetta** in mano. «Perché tu, io, Emma, Leo, tuo padre...» «E un amico **del** corso d'italiano.» Chiara si ferma e lo guarda.
 
 «Un amico **del** corso? Tu non parli mai **del** corso.»
 
@@ -94,11 +94,11 @@ I Carter arrivano con le mani piene. Kevin porta un sacchetto. Emma porta un dol
 
 Franco apre la porta e guarda il gruppo. «Bene, siete qui. Entrate.» **Nel** corridoio si sente la radio. C'è un canto di Natale, piano. **Sul** muro c'è il presepe della mamma di Franco.
 
-Kevin entra in cucina. Guarda **la tavola** e conta. Uno, due, tre, quattro, cinque, sei, sette. Sette piatti. Sette posti.
+Kevin entra in cucina. Guarda **la tavola** e conta. Uno, due, tre, quattro, cinque, sei. Sei piatti. Sei posti.
 
-«Papà Franco. Sette posti?»
+«Franco. Sei posti?»
 
-Franco sistema **una forchetta**. «Sette. Sì.» Poi sposta **la forchetta** un po' a sinistra. Poi la sposta di nuovo a destra.
+Franco sistema **una forchetta**. «Sei. Sì.» Poi sposta **la forchetta** un po' a sinistra. Poi la sposta di nuovo a destra.
 
 Emma guarda la scena e sospira. «Nonno, io stasera vado **alla** messa di **mezzanotte**.»
 
@@ -112,17 +112,17 @@ Emma sorride un pochino. «Lo so. Bianca dice che **il campanile** è vecchio.»
 
 «I **tovaglioli** sono pronti. Tutto pronto.» Franco prende **un tovagliolo** e lo mette **sulla** tavola. Poi lo sposta. Kevin lo guarda. _Nervoso. Lui è più **nervoso** di me._
 
-Leo gira intorno **alla** tavola. Conta i posti con il dito. «Sette. Ma noi siamo cinque.»
+Leo gira intorno **alla** tavola. Conta i posti con il dito. «Sei. Ma noi siamo quattro.»
 
-«Sei, con il nonno.»
+«Cinque, con il nonno.»
 
-«Sei. E il settimo?»
+«Cinque. E il sesto?»
 
-Silenzio in cucina. Franco guarda **la forchetta**. Chiara guarda Kevin. Kevin guarda il pavimento. «Il settimo è **un invitato**.»
+Silenzio in cucina. Franco guarda **la forchetta**. Chiara guarda Kevin. Kevin guarda il pavimento. «Il sesto è **un invitato**.»
 
 «Un **invitato**? Chi?» Franco prende **il pesce** dal forno. Non risponde subito.
 
-«Un amico di Kevin.» Kevin sorride a nessuno.
+«Un amico dell'americano.» Kevin sorride a nessuno.
 
 _Un amico mio. Certo. Una **bugia** grande come una casa._
 
@@ -168,7 +168,7 @@ Emma guarda l'orologio. «Io vado. Bianca mi aspetta **alla** chiesa.»
 
 Emma la prende. «Grazie, nonno.» Franco le sistema la sciarpa **sulle** spalle. Poi torna verso **il pesce**.
 
-Leo rientra **nel** corridoio con Kevin. Leo guarda **la tavola** per sette. Pensa un momento. «Ma papà non ha amici.» Silenzio. Kevin chiude gli occhi.
+Leo rientra **nel** corridoio con Kevin. Leo guarda **la tavola** per sei. Pensa un momento. «Ma papà non ha amici.» Silenzio. Kevin chiude gli occhi.
 
 «Leo...»
 
@@ -184,11 +184,11 @@ Kevin guarda **il pesce** **sul** tavolo. «Il pesce è pronto?» Franco guarda 
 
 Emma prende la borsa. «A più tardi!» La porta si chiude. **Nel** corridoio resta un **profumo** di pesce e di limone.
 
-Leo conta ancora i piatti, piano. «Uno, due, tre, quattro, cinque, sei, sette.»
+Leo conta ancora i piatti, piano. «Uno, due, tre, quattro, cinque, sei.»
 
 Kevin lo guarda. «Leo, basta con i piatti.»
 
-«Ma sette è un numero strano.»
+«Ma un invitato a Natale è strano.»
 
 **Dal** piano di sopra arriva un rumore. Franco alza la testa. Kevin alza la testa. «È la porta.»
 
@@ -326,7 +326,7 @@ Lucia guarda Franco, ancora in piedi. «Franco, perché stai in piedi?»
 
 «Controlli tutto. Sembri **un invitato**, non il padrone di casa.» Franco non risponde. Si siede.
 
-Chiara lo guarda, poi guarda Lucia. Poi guarda **la tavola** per sette. «Manca uno.»
+Chiara lo guarda, poi guarda Lucia. Poi guarda **la tavola** per sei. «Manca uno.»
 
 «Chi?»
 
@@ -348,7 +348,7 @@ _**Un invitato**. Adesso capisco._ Poi entra anche lui.
 
 ## 4. Casa di Franco, Via dei Tigli 9 · 24 dicembre, a tavola
 
-Tutti sono **al** tavolo. **Sulla** **tavola** ci sono sette piatti. Sei posti sono pieni. Il settimo piatto è vuoto. Franco versa **l'antipasto** **nei** piatti.
+Tutti sono **al** tavolo. **Sulla** **tavola** ci sono sei piatti. Cinque posti sono pieni. Il sesto piatto è vuoto: è il piatto di Emma. Franco versa **l'antipasto** **nei** piatti.
 
 «**L'antipasto** è con l'olio **del** mio orto.»
 
@@ -394,11 +394,13 @@ Kevin si alza. «Io prendo il vino. **Dal** frigo, sì?»
 
 Franco mette **il pesce** **al** centro della tavola. Poi prende **il** coltello. «**Il pesce** è per tutti. Con il limone.»
 
-Lucia guarda **il pesce**. «È grande. È per sette persone.»
+Lucia guarda **il pesce**. «È grande. È per sei persone.»
 
-Silenzio per un secondo. Chiara guarda **il** piatto vuoto. Kevin guarda **il** piatto vuoto. «Il settimo posto è per un'**invitata**?»
+Silenzio per un secondo. Chiara guarda Lucia. Poi guarda Kevin.
 
-«Sì. Un'amica **del** corso d'italiano.»
+«Kevin, la tua amica del corso d'italiano è simpatica.»
+
+«Sì. Molto simpatica.»
 
 «Dove abita?»
 
@@ -422,7 +424,7 @@ Emma alza la testa. «Buonasera, signora.»
 
 «No, no. Lucia.» Emma annuisce e prende **la forchetta**. Emma **assaggia** **il pesce** ma non parla.
 
-_La signora Lucia è simpatica. Ma la chiesa è più tranquilla._ _Nel**la** chiesa c'è silenzio. **Alla** messa di **mezzanotte** non parla nessuno._ Rewrite: _**Alla** chiesa non parla nessuno. Meglio così._
+_La signora Lucia è simpatica. Ma la chiesa è più tranquilla._ _**Alla** chiesa non parla nessuno. Meglio così._
 
 Franco prende **il** vino bianco. «Un altro **brindisi**.»
 
@@ -478,7 +480,7 @@ Chiara **assaggia** il dolce. «Lucia, questo **cenone** è meraviglioso.»
 
 «Tesoro!» Chiara sorride. Lucia la guarda e continua. «Una donna porta sempre qualcosa. Una tradizione.»
 
-«Nel mio paese, il vino.»
+«**Nel** mio paese, il vino.»
 
 «**Nel** tuo paese tutto è diverso.»
 

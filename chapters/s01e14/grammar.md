@@ -36,11 +36,11 @@ Watch out: before a vowel, **l'articolo** is *l'* and the preposition drops its 
 **Nel** corridoio si sente la radio. — **In the** hallway you can hear the radio. (`s01e14-2-013`) — *in* + *il* = **nel**: inside a room.
 **Sul** muro c'è il presepe della mamma di Franco. — **On the** wall there's Franco's mother's nativity scene. (`s01e14-2-015`) — *su* + *il* = **sul**, and *di* + *la* = **della**.
 «**Il pandoro** è per voi. È **del** forno **della** piazza.» — “**The pandoro** is for you. It's **from the** bakery **in the** square.” (`s01e14-3-023`) — **del** for origin: the pandoro comes from that bakery.
-**Sulla** **tavola** ci sono sette piatti. — **On the** **table** there are seven plates. (`s01e14-4-002`) — *su* + *la* = **sulla**; note that *ci sono* goes with the plural.
+**Sulla** **tavola** ci sono sei piatti. — **On the** **table** there are six plates. (`s01e14-4-002`) — *su* + *la* = **sulla**; note that *ci sono* goes with the plural.
 «**L'antipasto** è con l'olio **del** mio orto.» — “**The appetizer** is with the oil **from** my garden.” (`s01e14-4-006`) — **del** shows where the oil comes from.
 **Alla** **mezzanotte** suona per la messa. — **At** **midnight** it rings for mass. (`s01e14-5-004`) — *a* + *la* = **alla**: a point in time.
 «Certo. **Al** corso d'italiano parla sempre di te.» — “Of course. **At the** Italian course he always talks about you.” (`s01e14-3-031`) — *a* + *il* = **al**: the place where he talks.
-Franco serve **il pesce** **nei** piatti. — Franco serves **the fish** **into the** plates. (`s01e14-4-063`) — *in* + *i* = **nei**: into the plates, plural.
+Franco serve **il pesce** **nei** piatti. — Franco serves **the fish** **into the** plates. (`s01e14-4-062`) — *in* + *i* = **nei**: into the plates, plural.
 «**Nel** quaderno ho venti parole nuove.» — “**In the** notebook I have twenty new words.” (`s01e14-1-037`) — **nel**: inside the notebook.
 
 ## Common mistakes

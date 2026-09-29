@@ -77,7 +77,7 @@
       "lemma": "il torrone",
       "pos": "noun",
       "en": "nougat",
-      "example": "s01e14-4-136",
+      "example": "s01e14-4-134",
       "target": {
         "it": "il torrone",
         "en": "the nougat"
@@ -148,7 +148,7 @@
       "lemma": "il canto",
       "pos": "noun",
       "en": "song, singing",
-      "example": "s01e14-4-093",
+      "example": "s01e14-4-091",
       "target": {
         "it": "canti",
         "en": "The Christmas songs"
@@ -851,12 +851,12 @@
             },
             {
               "id": "s01e14-1-007",
-              "it": "Kevin è in piedi davanti a **la tavola** del salotto.",
+              "it": "Kevin è in piedi davanti **alla tavola** del salotto.",
               "en": "Kevin is standing in front of **the table** in the living room.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin è in piedi davanti a **la tavola** del salotto.",
+                  "Kevin è in piedi davanti **alla tavola** del salotto.",
                   ""
                 ]
               ],
@@ -912,18 +912,8 @@
                   ""
                 ],
                 [
-                  "a",
+                  "alla",
                   5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  6,
                   "b"
                 ],
                 [
@@ -933,7 +923,7 @@
                 ],
                 [
                   "tavola",
-                  7,
+                  6,
                   "b"
                 ],
                 [
@@ -943,7 +933,7 @@
                 ],
                 [
                   "del",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -953,7 +943,7 @@
                 ],
                 [
                   "salotto",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -963,17 +953,17 @@
                 ]
               ],
               "focus": [
-                "v-tavola"
+                "g-prepositions-articulated"
               ]
             },
             {
               "id": "s01e14-1-008",
-              "it": "Lui **apparecchia** per sette persone.",
-              "en": "He **sets the table** for seven people.",
+              "it": "Lui **apparecchia** per sei persone.",
+              "en": "He **sets the table** for six people.",
               "voice": [
                 [
                   "narrator",
-                  "Lui **apparecchia** per sette persone.",
+                  "Lui **apparecchia** per sei persone.",
                   ""
                 ]
               ],
@@ -1009,7 +999,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   3,
                   ""
                 ],
@@ -1238,12 +1228,12 @@
             },
             {
               "id": "s01e14-1-011",
-              "it": "«Uno, due, tre, quattro, cinque, sei... sette.»",
-              "en": "“One, two, three, four, five, six... seven.”",
+              "it": "«Uno, due, tre, quattro, cinque... sei.»",
+              "en": "“One, two, three, four, five... six.”",
               "voice": [
                 [
                   "ben",
-                  "Uno, due, tre, quattro, cinque, sei... sette.",
+                  "Uno, due, tre, quattro, cinque... sei.",
                   "slowly"
                 ]
               ],
@@ -1299,23 +1289,13 @@
                   ""
                 ],
                 [
-                  ", ",
+                  "... ",
                   -1,
                   ""
                 ],
                 [
                   "sei",
                   5,
-                  ""
-                ],
-                [
-                  "... ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sette",
-                  6,
                   ""
                 ],
                 [
@@ -1418,12 +1398,12 @@
           "segments": [
             {
               "id": "s01e14-1-013",
-              "it": "«Sette piatti, sette **tovaglioli**.»",
-              "en": "“Seven plates, seven **napkins**.”",
+              "it": "«Sei piatti, sei **tovaglioli**.»",
+              "en": "“Six plates, six **napkins**.”",
               "voice": [
                 [
                   "ben",
-                  "Sette piatti, sette **tovaglioli**.",
+                  "Sei piatti, sei **tovaglioli**.",
                   ""
                 ]
               ],
@@ -1434,7 +1414,7 @@
                   ""
                 ],
                 [
-                  "Sette",
+                  "Sei",
                   0,
                   ""
                 ],
@@ -1454,7 +1434,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   2,
                   ""
                 ],
@@ -5144,12 +5124,12 @@
           "segments": [
             {
               "id": "s01e14-1-059",
-              "it": "«Sì. Per sette persone. Ma noi siamo quattro.»",
-              "en": "“Yes. For seven people. But we're four.”",
+              "it": "«Sì. Per sei persone. Ma noi siamo quattro.»",
+              "en": "“Yes. For six people. But we're four.”",
               "voice": [
                 [
                   "ben",
-                  "Sì. Per sette persone. Ma noi siamo quattro.",
+                  "Sì. Per sei persone. Ma noi siamo quattro.",
                   ""
                 ]
               ],
@@ -5180,7 +5160,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   2,
                   ""
                 ],
@@ -5247,12 +5227,12 @@
           "segments": [
             {
               "id": "s01e14-1-060",
-              "it": "«Sette? Perché sette?»",
-              "en": "“Seven? Why seven?”",
+              "it": "«Sei? Perché sei?»",
+              "en": "“Six? Why six?”",
               "voice": [
                 [
                   "chiara",
-                  "Sette? Perché sette?",
+                  "Sei? Perché sei?",
                   ""
                 ]
               ],
@@ -5263,7 +5243,7 @@
                   ""
                 ],
                 [
-                  "Sette",
+                  "Sei",
                   0,
                   ""
                 ],
@@ -5283,7 +5263,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   2,
                   ""
                 ],
@@ -5377,12 +5357,12 @@
             },
             {
               "id": "s01e14-1-062",
-              "it": "«Perché tu, io, Emma, Leo, papà Franco...»",
-              "en": "“Because you, me, Emma, Leo, Grandpa Franco...”",
+              "it": "«Perché tu, io, Emma, Leo, tuo padre...»",
+              "en": "“Because you, me, Emma, Leo, your dad...”",
               "voice": [
                 [
                   "ben",
-                  "Perché tu, io, Emma, Leo, papà Franco...",
+                  "Perché tu, io, Emma, Leo, tuo padre...",
                   ""
                 ]
               ],
@@ -5443,7 +5423,7 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "tuo",
                   5,
                   ""
                 ],
@@ -5453,7 +5433,7 @@
                   ""
                 ],
                 [
-                  "Franco",
+                  "padre",
                   6,
                   ""
                 ],
@@ -8483,12 +8463,12 @@
             },
             {
               "id": "s01e14-2-018",
-              "it": "Uno, due, tre, quattro, cinque, sei, sette.",
-              "en": "One, two, three, four, five, six, seven.",
+              "it": "Uno, due, tre, quattro, cinque, sei.",
+              "en": "One, two, three, four, five, six.",
               "voice": [
                 [
                   "narrator",
-                  "Uno, due, tre, quattro, cinque, sei, sette.",
+                  "Uno, due, tre, quattro, cinque, sei.",
                   ""
                 ]
               ],
@@ -8549,16 +8529,6 @@
                   ""
                 ],
                 [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sette",
-                  6,
-                  ""
-                ],
-                [
                   ".",
                   -1,
                   ""
@@ -8567,18 +8537,18 @@
             },
             {
               "id": "s01e14-2-019",
-              "it": "Sette piatti. Sette posti.",
-              "en": "Seven plates. Seven places.",
+              "it": "Sei piatti. Sei posti.",
+              "en": "Six plates. Six places.",
               "voice": [
                 [
                   "narrator",
-                  "Sette piatti. Sette posti.",
+                  "Sei piatti. Sei posti.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Sette",
+                  "Sei",
                   0,
                   ""
                 ],
@@ -8598,7 +8568,7 @@
                   ""
                 ],
                 [
-                  "Sette",
+                  "Sei",
                   2,
                   ""
                 ],
@@ -8625,12 +8595,12 @@
           "segments": [
             {
               "id": "s01e14-2-020",
-              "it": "«Papà Franco. Sette posti?»",
-              "en": "“Grandpa Franco. Seven places?”",
+              "it": "«Franco. Sei posti?»",
+              "en": "“Franco. Six places?”",
               "voice": [
                 [
                   "ben",
-                  "Papà Franco. Sette posti?",
+                  "Franco. Sei posti?",
                   ""
                 ]
               ],
@@ -8641,18 +8611,8 @@
                   ""
                 ],
                 [
-                  "Papà",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Franco",
-                  1,
+                  0,
                   ""
                 ],
                 [
@@ -8661,8 +8621,8 @@
                   ""
                 ],
                 [
-                  "Sette",
-                  2,
+                  "Sei",
+                  1,
                   ""
                 ],
                 [
@@ -8672,7 +8632,7 @@
                 ],
                 [
                   "posti",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -8745,12 +8705,12 @@
             },
             {
               "id": "s01e14-2-022",
-              "it": "«Sette. Sì.»",
-              "en": "“Seven. Yes.”",
+              "it": "«Sei. Sì.»",
+              "en": "“Six. Yes.”",
               "voice": [
                 [
                   "franco",
-                  "Sette. Sì.",
+                  "Sei. Sì.",
                   "short"
                 ]
               ],
@@ -8761,7 +8721,7 @@
                   ""
                 ],
                 [
-                  "Sette",
+                  "Sei",
                   0,
                   ""
                 ],
@@ -10292,12 +10252,12 @@
             },
             {
               "id": "s01e14-2-043",
-              "it": "«Sette. Ma noi siamo cinque.»",
-              "en": "“Seven. But there are five of us.”",
+              "it": "«Sei. Ma noi siamo quattro.»",
+              "en": "“Six. But there are four of us.”",
               "voice": [
                 [
                   "leo",
-                  "Sette. Ma noi siamo cinque.",
+                  "Sei. Ma noi siamo quattro.",
                   ""
                 ]
               ],
@@ -10308,7 +10268,7 @@
                   ""
                 ],
                 [
-                  "Sette",
+                  "Sei",
                   0,
                   ""
                 ],
@@ -10348,7 +10308,7 @@
                   ""
                 ],
                 [
-                  "cinque",
+                  "quattro",
                   4,
                   ""
                 ],
@@ -10365,12 +10325,12 @@
           "segments": [
             {
               "id": "s01e14-2-044",
-              "it": "«Sei, con il nonno.»",
-              "en": "“Six, with Grandpa.”",
+              "it": "«Cinque, con il nonno.»",
+              "en": "“Five, with Grandpa.”",
               "voice": [
                 [
                   "emma",
-                  "Sei, con il nonno.",
+                  "Cinque, con il nonno.",
                   ""
                 ]
               ],
@@ -10381,7 +10341,7 @@
                   ""
                 ],
                 [
-                  "Sei",
+                  "Cinque",
                   0,
                   ""
                 ],
@@ -10428,12 +10388,12 @@
           "segments": [
             {
               "id": "s01e14-2-045",
-              "it": "«Sei. E il settimo?»",
-              "en": "“Six. And the seventh?”",
+              "it": "«Cinque. E il sesto?»",
+              "en": "“Five. And the sixth?”",
               "voice": [
                 [
                   "leo",
-                  "Sei. E il settimo?",
+                  "Cinque. E il sesto?",
                   ""
                 ]
               ],
@@ -10444,7 +10404,7 @@
                   ""
                 ],
                 [
-                  "Sei",
+                  "Cinque",
                   0,
                   ""
                 ],
@@ -10474,7 +10434,7 @@
                   ""
                 ],
                 [
-                  "settimo",
+                  "sesto",
                   3,
                   ""
                 ],
@@ -10690,12 +10650,12 @@
             },
             {
               "id": "s01e14-2-050",
-              "it": "«Il settimo è **un invitato**.»",
-              "en": "“The seventh is **a guest**.”",
+              "it": "«Il sesto è **un invitato**.»",
+              "en": "“The sixth is **a guest**.”",
               "voice": [
                 [
                   "franco",
-                  "Il settimo è **un invitato**.",
+                  "Il sesto è **un invitato**.",
                   "dry"
                 ]
               ],
@@ -10716,7 +10676,7 @@
                   ""
                 ],
                 [
-                  "settimo",
+                  "sesto",
                   1,
                   ""
                 ],
@@ -10943,12 +10903,12 @@
           "segments": [
             {
               "id": "s01e14-2-054",
-              "it": "«Un amico di Kevin.»",
-              "en": "“A friend of Kevin's.”",
+              "it": "«Un amico dell'americano.»",
+              "en": "“A friend of the American's.”",
               "voice": [
                 [
                   "franco",
-                  "Un amico di Kevin.",
+                  "Un amico dell'americano.",
                   "dry"
                 ]
               ],
@@ -10979,18 +10939,8 @@
                   ""
                 ],
                 [
-                  "di",
+                  "dell'americano",
                   2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  3,
                   ""
                 ],
                 [
@@ -13824,12 +13774,12 @@
             },
             {
               "id": "s01e14-2-095",
-              "it": "Leo guarda **la tavola** per sette.",
-              "en": "Leo looks at **the table** for seven.",
+              "it": "Leo guarda **la tavola** per sei.",
+              "en": "Leo looks at **the table** for six.",
               "voice": [
                 [
                   "narrator",
-                  "Leo guarda **la tavola** per sette.",
+                  "Leo guarda **la tavola** per sei.",
                   ""
                 ]
               ],
@@ -13885,7 +13835,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   5,
                   ""
                 ],
@@ -15357,12 +15307,12 @@
             },
             {
               "id": "s01e14-2-118",
-              "it": "«Uno, due, tre, quattro, cinque, sei, sette.»",
-              "en": "“One, two, three, four, five, six, seven.”",
+              "it": "«Uno, due, tre, quattro, cinque, sei.»",
+              "en": "“One, two, three, four, five, six.”",
               "voice": [
                 [
                   "leo",
-                  "Uno, due, tre, quattro, cinque, sei, sette.",
+                  "Uno, due, tre, quattro, cinque, sei.",
                   "whispering"
                 ]
               ],
@@ -15425,16 +15375,6 @@
                 [
                   "sei",
                   5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sette",
-                  6,
                   ""
                 ],
                 [
@@ -15567,12 +15507,12 @@
           "segments": [
             {
               "id": "s01e14-2-121",
-              "it": "«Ma sette è un numero strano.»",
-              "en": "“But seven is a strange number.”",
+              "it": "«Ma un invitato a Natale è strano.»",
+              "en": "“But a guest at Christmas is strange.”",
               "voice": [
                 [
                   "leo",
-                  "Ma sette è un numero strano.",
+                  "Ma un invitato a Natale è strano.",
                   ""
                 ]
               ],
@@ -15593,7 +15533,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "un",
                   1,
                   ""
                 ],
@@ -15603,7 +15543,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "invitato",
                   2,
                   ""
                 ],
@@ -15613,7 +15553,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "a",
                   3,
                   ""
                 ],
@@ -15623,7 +15563,7 @@
                   ""
                 ],
                 [
-                  "numero",
+                  "Natale",
                   4,
                   ""
                 ],
@@ -15633,8 +15573,18 @@
                   ""
                 ],
                 [
-                  "strano",
+                  "è",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "strano",
+                  6,
                   ""
                 ],
                 [
@@ -25633,12 +25583,12 @@
             },
             {
               "id": "s01e14-3-130",
-              "it": "Poi guarda **la tavola** per sette.",
-              "en": "Then she looks at **the table** for seven.",
+              "it": "Poi guarda **la tavola** per sei.",
+              "en": "Then she looks at **the table** for six.",
               "voice": [
                 [
                   "narrator",
-                  "Poi guarda **la tavola** per sette.",
+                  "Poi guarda **la tavola** per sei.",
                   ""
                 ]
               ],
@@ -25694,7 +25644,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   5,
                   ""
                 ],
@@ -26738,12 +26688,12 @@
             },
             {
               "id": "s01e14-4-002",
-              "it": "**Sulla** **tavola** ci sono sette piatti.",
-              "en": "**On the** **table** there are seven plates.",
+              "it": "**Sulla** **tavola** ci sono sei piatti.",
+              "en": "**On the** **table** there are six plates.",
               "voice": [
                 [
                   "narrator",
-                  "**Sulla** **tavola** ci sono sette piatti.",
+                  "**Sulla** **tavola** ci sono sei piatti.",
                   ""
                 ]
               ],
@@ -26789,7 +26739,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   4,
                   ""
                 ],
@@ -26816,18 +26766,18 @@
             },
             {
               "id": "s01e14-4-003",
-              "it": "Sei posti sono pieni.",
-              "en": "Six places are full.",
+              "it": "Cinque posti sono pieni.",
+              "en": "Five places are full.",
               "voice": [
                 [
                   "narrator",
-                  "Sei posti sono pieni.",
+                  "Cinque posti sono pieni.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Sei",
+                  "Cinque",
                   0,
                   ""
                 ],
@@ -26870,12 +26820,12 @@
             },
             {
               "id": "s01e14-4-004",
-              "it": "Il settimo piatto è vuoto.",
-              "en": "The seventh plate is empty.",
+              "it": "Il sesto piatto è vuoto: è il piatto di Emma.",
+              "en": "The sixth plate is empty: it's Emma's plate.",
               "voice": [
                 [
                   "narrator",
-                  "Il settimo piatto è vuoto.",
+                  "Il sesto piatto è vuoto: è il piatto di Emma.",
                   ""
                 ]
               ],
@@ -26891,7 +26841,7 @@
                   ""
                 ],
                 [
-                  "settimo",
+                  "sesto",
                   1,
                   ""
                 ],
@@ -26923,6 +26873,56 @@
                 [
                   "vuoto",
                   4,
+                  ""
+                ],
+                [
+                  ": ",
+                  -1,
+                  ""
+                ],
+                [
+                  "è",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piatto",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Emma",
+                  9,
                   ""
                 ],
                 [
@@ -29943,12 +29943,12 @@
             },
             {
               "id": "s01e14-4-050",
-              "it": "«È grande. È per sette persone.»",
-              "en": "“It's big. It's for seven people.”",
+              "it": "«È grande. È per sei persone.»",
+              "en": "“It's big. It's for six people.”",
               "voice": [
                 [
                   "lucia",
-                  "È grande. È per sette persone.",
+                  "È grande. È per sei persone.",
                   ""
                 ]
               ],
@@ -29999,7 +29999,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   4,
                   ""
                 ],
@@ -30080,12 +30080,12 @@
             },
             {
               "id": "s01e14-4-052",
-              "it": "Chiara guarda **il** piatto vuoto.",
-              "en": "Chiara looks at **the** empty plate.",
+              "it": "Chiara guarda Lucia. Poi guarda Kevin.",
+              "en": "Chiara looks at Lucia. Then she looks at Kevin.",
               "voice": [
                 [
                   "narrator",
-                  "Chiara guarda **il** piatto vuoto.",
+                  "Chiara guarda Lucia. Poi guarda Kevin.",
                   ""
                 ]
               ],
@@ -30111,55 +30111,18 @@
                   ""
                 ],
                 [
-                  "il",
+                  "Lucia",
                   2,
-                  "b"
+                  ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "piatto",
+                  "Poi",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vuoto",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-prepositions-articulated"
-              ]
-            },
-            {
-              "id": "s01e14-4-053",
-              "it": "Kevin guarda **il** piatto vuoto.",
-              "en": "Kevin looks at **the** empty plate.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda **il** piatto vuoto.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
                   ""
                 ],
                 [
@@ -30169,37 +30132,17 @@
                 ],
                 [
                   "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "piatto",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vuoto",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  5,
                   ""
                 ],
                 [
@@ -30207,19 +30150,20 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-prepositions-articulated"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "id": "s01e14-4-054",
-              "it": "«Il settimo posto è per un'**invitata**?»",
-              "en": "“Is the seventh place for **a guest**?”",
+              "id": "s01e14-4-053",
+              "it": "«Kevin, la tua amica del corso d'italiano è simpatica.»",
+              "en": "“Kevin, your friend from the Italian course is nice.”",
               "voice": [
                 [
                   "chiara",
-                  "Il settimo posto è per un'**invitata**?",
+                  "Kevin, la tua amica del corso d'italiano è simpatica.",
                   "calm"
                 ]
               ],
@@ -30230,17 +30174,17 @@
                   ""
                 ],
                 [
-                  "Il",
+                  "Kevin",
                   0,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "settimo",
+                  "la",
                   1,
                   ""
                 ],
@@ -30250,7 +30194,7 @@
                   ""
                 ],
                 [
-                  "posto",
+                  "tua",
                   2,
                   ""
                 ],
@@ -30260,7 +30204,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "amica",
                   3,
                   ""
                 ],
@@ -30270,7 +30214,7 @@
                   ""
                 ],
                 [
-                  "per",
+                  "del",
                   4,
                   ""
                 ],
@@ -30280,28 +30224,45 @@
                   ""
                 ],
                 [
-                  "un",
+                  "corso",
                   5,
                   ""
                 ],
                 [
-                  "'",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "invitata",
+                  "d'italiano",
                   6,
-                  "b"
+                  ""
                 ],
                 [
-                  "?»",
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "è",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "simpatica",
+                  8,
+                  ""
+                ],
+                [
+                  ".»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-invitato"
               ]
             }
           ]
@@ -30309,13 +30270,13 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-055",
-              "it": "«Sì. Un'amica **del** corso d'italiano.»",
-              "en": "“Yes. A friend **from the** Italian course.”",
+              "id": "s01e14-4-054",
+              "it": "«Sì. Molto simpatica.»",
+              "en": "“Yes. Very nice.”",
               "voice": [
                 [
                   "ben",
-                  "Sì. Un'amica **del** corso d'italiano.",
+                  "Sì. Molto simpatica.",
                   "fast"
                 ]
               ],
@@ -30336,7 +30297,7 @@
                   ""
                 ],
                 [
-                  "Un'amica",
+                  "Molto",
                   1,
                   ""
                 ],
@@ -30346,28 +30307,8 @@
                   ""
                 ],
                 [
-                  "del",
+                  "simpatica",
                   2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "corso",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "d'italiano",
-                  4,
                   ""
                 ],
                 [
@@ -30375,9 +30316,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-del"
               ]
             }
           ]
@@ -30385,7 +30323,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-056",
+              "id": "s01e14-4-055",
               "it": "«Dove abita?»",
               "en": "“Where does she live?”",
               "voice": [
@@ -30428,7 +30366,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-057",
+              "id": "s01e14-4-056",
               "it": "«**Vicino** **al** Centro civico. Credo.»",
               "en": "“**Near the** Centro civico. I think.”",
               "voice": [
@@ -30505,7 +30443,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-058",
+              "id": "s01e14-4-057",
               "it": "«Credi?»",
               "en": "“You think?”",
               "voice": [
@@ -30538,7 +30476,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-059",
+              "id": "s01e14-4-058",
               "it": "«Sì. Non lo so bene. Una **bugia**... una cosa piccola.»",
               "en": "“Yes. I don't know exactly. A **lie**... a small thing.”",
               "voice": [
@@ -30660,7 +30598,7 @@
               ]
             },
             {
-              "id": "s01e14-4-060",
+              "id": "s01e14-4-059",
               "it": "Kevin si ferma.",
               "en": "Kevin stops.",
               "voice": [
@@ -30704,7 +30642,7 @@
               ]
             },
             {
-              "id": "s01e14-4-061",
+              "id": "s01e14-4-060",
               "it": "_Gli occhi di Chiara sono due domande._",
               "en": "_Chiara's eyes are two questions._",
               "voice": [
@@ -30792,7 +30730,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-062",
+              "id": "s01e14-4-061",
               "it": "«Papà, mangia.»",
               "en": "“Dad, eat.”",
               "voice": [
@@ -30831,7 +30769,7 @@
               ]
             },
             {
-              "id": "s01e14-4-063",
+              "id": "s01e14-4-062",
               "it": "Franco serve **il pesce** **nei** piatti.",
               "en": "Franco serves **the fish** **into the** plates.",
               "voice": [
@@ -30909,7 +30847,7 @@
               ]
             },
             {
-              "id": "s01e14-4-064",
+              "id": "s01e14-4-063",
               "it": "Poi prende **le** forchette.",
               "en": "Then he takes **the** forks.",
               "voice": [
@@ -30966,7 +30904,7 @@
               ]
             },
             {
-              "id": "s01e14-4-065",
+              "id": "s01e14-4-064",
               "it": "«**Nel** piatto, con la forchetta nuova.»",
               "en": "“**In the** plate, with the new fork.”",
               "voice": [
@@ -31052,7 +30990,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-066",
+              "id": "s01e14-4-065",
               "it": "Lucia prende **la** forchetta.",
               "en": "Lucia takes **the** fork.",
               "voice": [
@@ -31109,7 +31047,7 @@
               ]
             },
             {
-              "id": "s01e14-4-067",
+              "id": "s01e14-4-066",
               "it": "«Questa è la forchetta giusta.»",
               "en": "“This is the right fork.”",
               "voice": [
@@ -31182,7 +31120,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-068",
+              "id": "s01e14-4-067",
               "it": "Emma arriva in quel momento.",
               "en": "Emma arrives at that moment.",
               "voice": [
@@ -31246,7 +31184,7 @@
               ]
             },
             {
-              "id": "s01e14-4-069",
+              "id": "s01e14-4-068",
               "it": "Ha la sciarpa di Franco.",
               "en": "She has Franco's scarf.",
               "voice": [
@@ -31310,7 +31248,7 @@
               ]
             },
             {
-              "id": "s01e14-4-070",
+              "id": "s01e14-4-069",
               "it": "«Emma! Sei qui!»",
               "en": "“Emma! You're here!”",
               "voice": [
@@ -31363,7 +31301,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-071",
+              "id": "s01e14-4-070",
               "it": "«Sì. Parlo con Bianca **alla** chiesa. Torno **alla** messa dopo.»",
               "en": "“Yes. I talk with Bianca **at the** church. I go back **to** mass after.”",
               "voice": [
@@ -31485,7 +31423,7 @@
               ]
             },
             {
-              "id": "s01e14-4-072",
+              "id": "s01e14-4-071",
               "it": "Si siede **al** tavolo.",
               "en": "She sits down **at the** table.",
               "voice": [
@@ -31546,7 +31484,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-073",
+              "id": "s01e14-4-072",
               "it": "«Ciao, Emma.»",
               "en": "“Hi, Emma.”",
               "voice": [
@@ -31589,7 +31527,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-074",
+              "id": "s01e14-4-073",
               "it": "Emma alza la testa.",
               "en": "Emma raises her head.",
               "voice": [
@@ -31643,7 +31581,7 @@
               ]
             },
             {
-              "id": "s01e14-4-075",
+              "id": "s01e14-4-074",
               "it": "«Buonasera, signora.»",
               "en": "“Good evening, ma'am.”",
               "voice": [
@@ -31686,7 +31624,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-076",
+              "id": "s01e14-4-075",
               "it": "«No, no. Lucia.»",
               "en": "“No, no. Lucia.”",
               "voice": [
@@ -31735,7 +31673,7 @@
               ]
             },
             {
-              "id": "s01e14-4-077",
+              "id": "s01e14-4-076",
               "it": "Emma annuisce e prende **la forchetta**.",
               "en": "Emma nods and takes **the fork**.",
               "voice": [
@@ -31812,7 +31750,7 @@
               ]
             },
             {
-              "id": "s01e14-4-078",
+              "id": "s01e14-4-077",
               "it": "Emma **assaggia** **il pesce** ma non parla.",
               "en": "Emma **tastes** **the fish** but doesn't speak.",
               "voice": [
@@ -31904,7 +31842,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-079",
+              "id": "s01e14-4-078",
               "it": "_La signora Lucia è simpatica. Ma la chiesa è più tranquilla._",
               "en": "_Signora Lucia is nice. But the church is quieter._",
               "voice": [
@@ -32028,149 +31966,10 @@
               ]
             },
             {
-              "id": "s01e14-4-080",
-              "it": "_Nel**la** chiesa c'è silenzio. **Alla** messa di **mezzanotte** non parla nessuno._",
-              "en": "hmm — double bold issue, keep simple.",
+              "id": "s01e14-4-079",
+              "it": "_**Alla** chiesa non parla nessuno. Meglio così._",
+              "en": "_At **the** church nobody talks. Better that way._",
               "voice": [
-                [
-                  "emma",
-                  "Nel**la** chiesa c'è silenzio. **Alla** messa di **mezzanotte** non parla nessuno.",
-                  "thinking to themself, quiet and close"
-                ]
-              ],
-              "tokens": [
-                [
-                  "Nel",
-                  0,
-                  "i"
-                ],
-                [
-                  "la",
-                  1,
-                  "bi"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "chiesa",
-                  2,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "c'è",
-                  3,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "silenzio",
-                  4,
-                  "i"
-                ],
-                [
-                  ". ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "Alla",
-                  5,
-                  "bi"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "messa",
-                  6,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "di",
-                  7,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "mezzanotte",
-                  8,
-                  "bi"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "non",
-                  9,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "parla",
-                  10,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "nessuno",
-                  11,
-                  "i"
-                ],
-                [
-                  ".",
-                  -1,
-                  "i"
-                ]
-              ],
-              "focus": [
-                "g-prepositions-articulated",
-                "v-al",
-                "v-mezzanotte"
-              ]
-            },
-            {
-              "id": "s01e14-4-081",
-              "it": "Rewrite: _**Alla** chiesa non parla nessuno. Meglio così._",
-              "en": "_**At the** church nobody talks. Better that way._",
-              "voice": [
-                [
-                  "narrator",
-                  "Rewrite:",
-                  ""
-                ],
                 [
                   "emma",
                   "**Alla** chiesa non parla nessuno. Meglio così.",
@@ -32179,18 +31978,8 @@
               ],
               "tokens": [
                 [
-                  "Rewrite",
-                  0,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
                   "Alla",
-                  1,
+                  0,
                   "bi"
                 ],
                 [
@@ -32200,7 +31989,7 @@
                 ],
                 [
                   "chiesa",
-                  2,
+                  1,
                   "i"
                 ],
                 [
@@ -32210,7 +31999,7 @@
                 ],
                 [
                   "non",
-                  3,
+                  2,
                   "i"
                 ],
                 [
@@ -32220,7 +32009,7 @@
                 ],
                 [
                   "parla",
-                  4,
+                  3,
                   "i"
                 ],
                 [
@@ -32230,7 +32019,7 @@
                 ],
                 [
                   "nessuno",
-                  5,
+                  4,
                   "i"
                 ],
                 [
@@ -32240,7 +32029,7 @@
                 ],
                 [
                   "Meglio",
-                  6,
+                  5,
                   "i"
                 ],
                 [
@@ -32250,7 +32039,7 @@
                 ],
                 [
                   "così",
-                  7,
+                  6,
                   "i"
                 ],
                 [
@@ -32268,7 +32057,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-082",
+              "id": "s01e14-4-080",
               "it": "Franco prende **il** vino bianco.",
               "en": "Franco takes **the** white wine.",
               "voice": [
@@ -32335,7 +32124,7 @@
               ]
             },
             {
-              "id": "s01e14-4-083",
+              "id": "s01e14-4-081",
               "it": "«Un altro **brindisi**.»",
               "en": "“Another **toast**.”",
               "voice": [
@@ -32391,7 +32180,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-084",
+              "id": "s01e14-4-082",
               "it": "«Ancora?»",
               "en": "“Again?”",
               "voice": [
@@ -32424,7 +32213,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-085",
+              "id": "s01e14-4-083",
               "it": "«A tavola, sempre.»",
               "en": "“At the table, always.”",
               "voice": [
@@ -32473,7 +32262,7 @@
               ]
             },
             {
-              "id": "s01e14-4-086",
+              "id": "s01e14-4-084",
               "it": "Alzano i bicchieri.",
               "en": "They raise their glasses.",
               "voice": [
@@ -32517,7 +32306,7 @@
               ]
             },
             {
-              "id": "s01e14-4-087",
+              "id": "s01e14-4-085",
               "it": "«**Brindiamo** alla salute!»",
               "en": "“Let's **toast** to health!”",
               "voice": [
@@ -32573,7 +32362,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-088",
+              "id": "s01e14-4-086",
               "it": "«**Brindiamo**!»",
               "en": "“Let's **toast**!”",
               "voice": [
@@ -32609,7 +32398,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-089",
+              "id": "s01e14-4-087",
               "it": "«**Brindiamo**!»",
               "en": "“Let's **toast**!”",
               "voice": [
@@ -32641,7 +32430,7 @@
               ]
             },
             {
-              "id": "s01e14-4-090",
+              "id": "s01e14-4-088",
               "it": "Bevono tutti.",
               "en": "Everybody drinks.",
               "voice": [
@@ -32675,7 +32464,7 @@
               ]
             },
             {
-              "id": "s01e14-4-091",
+              "id": "s01e14-4-089",
               "it": "Poi Franco accende la radio.",
               "en": "Then Franco turns on the radio.",
               "voice": [
@@ -32739,7 +32528,7 @@
               ]
             },
             {
-              "id": "s01e14-4-092",
+              "id": "s01e14-4-090",
               "it": "**Nel** corridoio c'è musica.",
               "en": "**Into** the hallway comes music.",
               "voice": [
@@ -32800,7 +32589,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-093",
+              "id": "s01e14-4-091",
               "it": "«I **canti** di Natale.»",
               "en": "“**The Christmas songs**.”",
               "voice": [
@@ -32866,7 +32655,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-094",
+              "id": "s01e14-4-092",
               "it": "Lucia canta piano, sotto voce.",
               "en": "Lucia sings quietly, under her breath.",
               "voice": [
@@ -32930,7 +32719,7 @@
               ]
             },
             {
-              "id": "s01e14-4-095",
+              "id": "s01e14-4-093",
               "it": "«Io **racconto** una cosa. **Nel** mio paese, a Natale, **i canti** durano ore.»",
               "en": "“I'll **tell** you one thing. **In** my hometown, at Christmas, **the songs** last for hours.”",
               "voice": [
@@ -33088,7 +32877,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-096",
+              "id": "s01e14-4-094",
               "it": "«Ore?»",
               "en": "“Hours?”",
               "voice": [
@@ -33121,7 +32910,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-097",
+              "id": "s01e14-4-095",
               "it": "«Ore. E dopo si mangia ancora.»",
               "en": "“Hours. And afterward you eat again.”",
               "voice": [
@@ -33200,7 +32989,7 @@
               ]
             },
             {
-              "id": "s01e14-4-098",
+              "id": "s01e14-4-096",
               "it": "Leo guarda **il** piatto.",
               "en": "Leo looks at **his** plate.",
               "voice": [
@@ -33261,7 +33050,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-099",
+              "id": "s01e14-4-097",
               "it": "«Nonno, una domanda.»",
               "en": "“Grandpa, a question.”",
               "voice": [
@@ -33314,7 +33103,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-100",
+              "id": "s01e14-4-098",
               "it": "«Dimmi.»",
               "en": "“Tell me.”",
               "voice": [
@@ -33347,7 +33136,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-101",
+              "id": "s01e14-4-099",
               "it": "«Perché sei sempre **al** Centro civico?»",
               "en": "“Why are you always **at the** Centro civico?”",
               "voice": [
@@ -33429,7 +33218,7 @@
               ]
             },
             {
-              "id": "s01e14-4-102",
+              "id": "s01e14-4-100",
               "it": "Silenzio.",
               "en": "Silence.",
               "voice": [
@@ -33453,7 +33242,7 @@
               ]
             },
             {
-              "id": "s01e14-4-103",
+              "id": "s01e14-4-101",
               "it": "Franco guarda Leo.",
               "en": "Franco looks at Leo.",
               "voice": [
@@ -33497,7 +33286,7 @@
               ]
             },
             {
-              "id": "s01e14-4-104",
+              "id": "s01e14-4-102",
               "it": "Lucia guarda **il** bicchiere.",
               "en": "Lucia looks at **her** glass.",
               "voice": [
@@ -33558,7 +33347,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-105",
+              "id": "s01e14-4-103",
               "it": "Kevin parla forte e veloce.",
               "en": "Kevin talks loudly and fast.",
               "voice": [
@@ -33622,7 +33411,7 @@
               ]
             },
             {
-              "id": "s01e14-4-106",
+              "id": "s01e14-4-104",
               "it": "«Leo! Guarda! Guarda il **pesce**! È il pesce più bello **del** mondo!»",
               "en": "“Leo! Look! Look at **the fish**! It's the most beautiful fish **in the** world!”",
               "voice": [
@@ -33769,7 +33558,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-107",
+              "id": "s01e14-4-105",
               "it": "«Davvero?»",
               "en": "“Really?”",
               "voice": [
@@ -33802,7 +33591,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-108",
+              "id": "s01e14-4-106",
               "it": "«Sì! **Nel** piatto! Guarda!»",
               "en": "“Yes! **In the** plate! Look!”",
               "voice": [
@@ -33864,7 +33653,7 @@
               ]
             },
             {
-              "id": "s01e14-4-109",
+              "id": "s01e14-4-107",
               "it": "Franco non dice niente.",
               "en": "Franco says nothing.",
               "voice": [
@@ -33922,7 +33711,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-110",
+              "id": "s01e14-4-108",
               "it": "Lucia prende **il** pane.",
               "en": "Lucia takes **the** bread.",
               "voice": [
@@ -33979,7 +33768,7 @@
               ]
             },
             {
-              "id": "s01e14-4-111",
+              "id": "s01e14-4-109",
               "it": "«Kevin, mangia il pesce. Poi parli.»",
               "en": "“Kevin, eat the fish. Then you talk.”",
               "voice": [
@@ -34058,7 +33847,7 @@
               ]
             },
             {
-              "id": "s01e14-4-112",
+              "id": "s01e14-4-110",
               "it": "Kevin obbedisce.",
               "en": "Kevin obeys.",
               "voice": [
@@ -34096,7 +33885,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-113",
+              "id": "s01e14-4-111",
               "it": "Chiara lo guarda di lato.",
               "en": "Chiara looks at him sideways.",
               "voice": [
@@ -34160,7 +33949,7 @@
               ]
             },
             {
-              "id": "s01e14-4-114",
+              "id": "s01e14-4-112",
               "it": "«Kevin, sei **nervoso**?»",
               "en": "“Kevin, are you **nervous**?”",
               "voice": [
@@ -34216,7 +34005,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-115",
+              "id": "s01e14-4-113",
               "it": "«No! Mangio!»",
               "en": "“No! I'm eating!”",
               "voice": [
@@ -34259,7 +34048,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-116",
+              "id": "s01e14-4-114",
               "it": "Lucia ride.",
               "en": "Lucia laughs.",
               "voice": [
@@ -34293,7 +34082,7 @@
               ]
             },
             {
-              "id": "s01e14-4-117",
+              "id": "s01e14-4-115",
               "it": "Poi racconta un'altra storia.",
               "en": "Then she tells another story.",
               "voice": [
@@ -34347,7 +34136,7 @@
               ]
             },
             {
-              "id": "s01e14-4-118",
+              "id": "s01e14-4-116",
               "it": "«Mio figlio, a Londra, mangia **il pesce** **nel** ristorante.»",
               "en": "“My son, in London, eats **the fish** **in the** restaurant.”",
               "voice": [
@@ -34464,7 +34253,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-119",
+              "id": "s01e14-4-117",
               "it": "«Nel ristorante? A Natale?»",
               "en": "“**In the** restaurant? At Christmas?”",
               "voice": [
@@ -34527,7 +34316,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-120",
+              "id": "s01e14-4-118",
               "it": "«Sì. Povero Gennaro.»",
               "en": "“Yes. Poor Gennaro.”",
               "voice": [
@@ -34580,7 +34369,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-121",
+              "id": "s01e14-4-119",
               "it": "«Un momento triste.»",
               "en": "“A sad moment.”",
               "voice": [
@@ -34633,7 +34422,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-122",
+              "id": "s01e14-4-120",
               "it": "«Triste sì. Ma lui è felice. Ha un buon lavoro.»",
               "en": "“Sad, yes. But he's happy. He has a good job.”",
               "voice": [
@@ -34756,7 +34545,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-123",
+              "id": "s01e14-4-121",
               "it": "Chiara **assaggia** il dolce.",
               "en": "Chiara **tastes** the dessert.",
               "voice": [
@@ -34813,7 +34602,7 @@
               ]
             },
             {
-              "id": "s01e14-4-124",
+              "id": "s01e14-4-122",
               "it": "«Lucia, questo **cenone** è meraviglioso.»",
               "en": "“Lucia, this **Christmas dinner** is wonderful.”",
               "voice": [
@@ -34889,7 +34678,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-125",
+              "id": "s01e14-4-123",
               "it": "«**Il cenone** è di Franco! Io porto solo **il torrone**.»",
               "en": "“**The dinner** is Franco's! I only bring **the nougat**.”",
               "voice": [
@@ -35016,7 +34805,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-126",
+              "id": "s01e14-4-124",
               "it": "«Ma tu porti sempre **il pandoro**.»",
               "en": "“But you always bring **the pandoro**.”",
               "voice": [
@@ -35102,7 +34891,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-127",
+              "id": "s01e14-4-125",
               "it": "«Tesoro!»",
               "en": "“Sweetheart!”",
               "voice": [
@@ -35131,7 +34920,7 @@
               ]
             },
             {
-              "id": "s01e14-4-128",
+              "id": "s01e14-4-126",
               "it": "Chiara sorride.",
               "en": "Chiara smiles.",
               "voice": [
@@ -35165,7 +34954,7 @@
               ]
             },
             {
-              "id": "s01e14-4-129",
+              "id": "s01e14-4-127",
               "it": "Lucia la guarda e continua.",
               "en": "Lucia looks at her and goes on.",
               "voice": [
@@ -35229,7 +35018,7 @@
               ]
             },
             {
-              "id": "s01e14-4-130",
+              "id": "s01e14-4-128",
               "it": "«Una donna porta sempre qualcosa. Una tradizione.»",
               "en": "“A woman always brings something. A tradition.”",
               "voice": [
@@ -35322,13 +35111,13 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-131",
-              "it": "«Nel mio paese, il vino.»",
+              "id": "s01e14-4-129",
+              "it": "«**Nel** mio paese, il vino.»",
               "en": "“**In** my country, wine.”",
               "voice": [
                 [
                   "ben",
-                  "Nel mio paese, il vino.",
+                  "**Nel** mio paese, il vino.",
                   ""
                 ]
               ],
@@ -35341,7 +35130,7 @@
                 [
                   "Nel",
                   0,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -35388,6 +35177,9 @@
                   -1,
                   ""
                 ]
+              ],
+              "focus": [
+                "v-nel"
               ]
             }
           ]
@@ -35395,7 +35187,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-132",
+              "id": "s01e14-4-130",
               "it": "«**Nel** tuo paese tutto è diverso.»",
               "en": "“**In** your country everything is different.”",
               "voice": [
@@ -35481,7 +35273,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-133",
+              "id": "s01e14-4-131",
               "it": "Kevin ride.",
               "en": "Kevin laughs.",
               "voice": [
@@ -35515,7 +35307,7 @@
               ]
             },
             {
-              "id": "s01e14-4-134",
+              "id": "s01e14-4-132",
               "it": "Franco si alza.",
               "en": "Franco gets up.",
               "voice": [
@@ -35559,7 +35351,7 @@
               ]
             },
             {
-              "id": "s01e14-4-135",
+              "id": "s01e14-4-133",
               "it": "Va **al** forno e prende **il** dolce.",
               "en": "He goes **to the** oven and takes **the** dessert.",
               "voice": [
@@ -35647,7 +35439,7 @@
               ]
             },
             {
-              "id": "s01e14-4-136",
+              "id": "s01e14-4-134",
               "it": "Poi prende **il torrone**.",
               "en": "Then he takes **the nougat**.",
               "voice": [
@@ -35704,7 +35496,7 @@
               ]
             },
             {
-              "id": "s01e14-4-137",
+              "id": "s01e14-4-135",
               "it": "«Ancora un pochino?»",
               "en": "“A little more?”",
               "voice": [
@@ -35753,7 +35545,7 @@
               ]
             },
             {
-              "id": "s01e14-4-138",
+              "id": "s01e14-4-136",
               "it": "Tutti rispondono insieme.",
               "en": "Everybody answers together.",
               "voice": [
@@ -35801,7 +35593,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-139",
+              "id": "s01e14-4-137",
               "it": "«No!»",
               "en": "“No!”",
               "voice": [
@@ -35834,7 +35626,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-140",
+              "id": "s01e14-4-138",
               "it": "«No, grazie.»",
               "en": "“No, thanks.”",
               "voice": [
@@ -35877,7 +35669,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-141",
+              "id": "s01e14-4-139",
               "it": "«No.»",
               "en": "“No.”",
               "voice": [
@@ -35910,7 +35702,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-142",
+              "id": "s01e14-4-140",
               "it": "Emma scuote la testa.",
               "en": "Emma shakes her head.",
               "voice": [
@@ -35964,7 +35756,7 @@
               ]
             },
             {
-              "id": "s01e14-4-143",
+              "id": "s01e14-4-141",
               "it": "Lucia guarda Franco.",
               "en": "Lucia looks at Franco.",
               "voice": [
@@ -36008,7 +35800,7 @@
               ]
             },
             {
-              "id": "s01e14-4-144",
+              "id": "s01e14-4-142",
               "it": "Poi guarda **il torrone**.",
               "en": "Then she looks at **the nougat**.",
               "voice": [
@@ -36065,7 +35857,7 @@
               ]
             },
             {
-              "id": "s01e14-4-145",
+              "id": "s01e14-4-143",
               "it": "«Sì.»",
               "en": "“Yes.”",
               "voice": [
@@ -36098,7 +35890,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-146",
+              "id": "s01e14-4-144",
               "it": "Franco la guarda.",
               "en": "Franco looks at her.",
               "voice": [
@@ -36142,7 +35934,7 @@
               ]
             },
             {
-              "id": "s01e14-4-147",
+              "id": "s01e14-4-145",
               "it": "«Sì?»",
               "en": "“Yes?”",
               "voice": [
@@ -36175,7 +35967,7 @@
         {
           "segments": [
             {
-              "id": "s01e14-4-148",
+              "id": "s01e14-4-146",
               "it": "«Sì. Un pochino. **A** Natale il dolce è **l'augurio**.»",
               "en": "“Yes. A little. **At** Christmas dessert is **the wish**.”",
               "voice": [
@@ -36288,7 +36080,7 @@
               ]
             },
             {
-              "id": "s01e14-4-149",
+              "id": "s01e14-4-147",
               "it": "Franco taglia **il torrone** e le dà un pezzo.",
               "en": "Franco cuts **the nougat** and gives her a piece.",
               "voice": [

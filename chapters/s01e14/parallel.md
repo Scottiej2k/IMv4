@@ -14,13 +14,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | In cucina c'è un **profumo** dolce. | In the kitchen there's a sweet **smell**. |
 | **Il pandoro** è **sul** tavolo, vicino ai piatti. | **The pandoro** is **on the** table, near the plates. |
 | Vicino c'è anche **il torrone**. | Near it there's also **the nougat**. |
-| Kevin è in piedi davanti a **la tavola** del salotto. | Kevin is standing in front of **the table** in the living room. |
-| Lui **apparecchia** per sette persone. | He **sets the table** for seven people. |
+| Kevin è in piedi davanti **alla tavola** del salotto. | Kevin is standing in front of **the table** in the living room. |
+| Lui **apparecchia** per sei persone. | He **sets the table** for six people. |
 | «Allora. **La forchetta** a sinistra, il coltello a destra.» | “Okay. **The fork** on the left, the knife on the right.” |
 | Kevin conta **le forchette** ad alta voce. | Kevin counts **the forks** out loud. |
-| «Uno, due, tre, quattro, cinque, sei... sette.» | “One, two, three, four, five, six... seven.” |
+| «Uno, due, tre, quattro, cinque... sei.» | “One, two, three, four, five... six.” |
 | Poi conta i **tovaglioli**, uno per piatto. | Then he counts the **napkins**, one per plate. |
-| «Sette piatti, sette **tovaglioli**.» | “Seven plates, seven **napkins**.” |
+| «Sei piatti, sei **tovaglioli**.» | “Six plates, six **napkins**.” |
 | Kevin guarda **la tavola** e sorride. | Kevin looks at **the table** and smiles. |
 | Poi ripete una frase, piano. | Then he repeats a sentence, quietly. |
 | «Un amico **del** corso d'italiano.» | “A friend **from the** Italian course.” |
@@ -66,10 +66,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Kevin. **La tavola** è pronta per stasera?» | “Kevin. Is **the table** ready for tonight?” |
 | «No. Questa è una prova. Una prova **del** cenone.» | “No. This is a rehearsal. A rehearsal **of the** dinner.” |
 | «Una prova? A casa nostra?» | “A rehearsal? At our house?” |
-| «Sì. Per sette persone. Ma noi siamo quattro.» | “Yes. For seven people. But we're four.” |
-| «Sette? Perché sette?» | “Seven? Why seven?” |
+| «Sì. Per sei persone. Ma noi siamo quattro.» | “Yes. For six people. But we're four.” |
+| «Sei? Perché sei?» | “Six? Why six?” |
 | Kevin prende **una forchetta** in mano. | Kevin picks up **a fork** in his hand. |
-| «Perché tu, io, Emma, Leo, papà Franco...» | “Because you, me, Emma, Leo, Grandpa Franco...” |
+| «Perché tu, io, Emma, Leo, tuo padre...» | “Because you, me, Emma, Leo, your dad...” |
 | «E un amico **del** corso d'italiano.» | “And a friend **from the** Italian course.” |
 | Chiara si ferma e lo guarda. | Chiara stops and looks at him. |
 | «Un amico **del** corso? Tu non parli mai **del** corso.» | “A friend **from the** course? You never talk **about the** course.” |
@@ -114,11 +114,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **Sul** muro c'è il presepe della mamma di Franco. | **On the** wall there's Franco's mother's nativity scene. |
 | Kevin entra in cucina. | Kevin goes into the kitchen. |
 | Guarda **la tavola** e conta. | He looks at **the table** and counts. |
-| Uno, due, tre, quattro, cinque, sei, sette. | One, two, three, four, five, six, seven. |
-| Sette piatti. Sette posti. | Seven plates. Seven places. |
-| «Papà Franco. Sette posti?» | “Grandpa Franco. Seven places?” |
+| Uno, due, tre, quattro, cinque, sei. | One, two, three, four, five, six. |
+| Sei piatti. Sei posti. | Six plates. Six places. |
+| «Franco. Sei posti?» | “Franco. Six places?” |
 | Franco sistema **una forchetta**. | Franco adjusts **a fork**. |
-| «Sette. Sì.» | “Seven. Yes.” |
+| «Sei. Sì.» | “Six. Yes.” |
 | Poi sposta **la forchetta** un po' a sinistra. | Then he moves **the fork** a little to the left. |
 | Poi la sposta di nuovo a destra. | Then he moves it again to the right. |
 | Emma guarda la scena e sospira. | Emma watches the scene and sighs. |
@@ -139,18 +139,18 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Nervoso. Lui è più **nervoso** di me._ | _Nervous. He's more **nervous** than me._ |
 | Leo gira intorno **alla** tavola. | Leo walks around **the** table. |
 | Conta i posti con il dito. | He counts the places with his finger. |
-| «Sette. Ma noi siamo cinque.» | “Seven. But there are five of us.” |
-| «Sei, con il nonno.» | “Six, with Grandpa.” |
-| «Sei. E il settimo?» | “Six. And the seventh?” |
+| «Sei. Ma noi siamo quattro.» | “Six. But there are four of us.” |
+| «Cinque, con il nonno.» | “Five, with Grandpa.” |
+| «Cinque. E il sesto?» | “Five. And the sixth?” |
 | Silenzio in cucina. | Silence in the kitchen. |
 | Franco guarda **la forchetta**. | Franco looks at **the fork**. |
 | Chiara guarda Kevin. | Chiara looks at Kevin. |
 | Kevin guarda il pavimento. | Kevin looks at the floor. |
-| «Il settimo è **un invitato**.» | “The seventh is **a guest**.” |
+| «Il sesto è **un invitato**.» | “The sixth is **a guest**.” |
 | «Un **invitato**? Chi?» | “**A guest**? Who?” |
 | Franco prende **il pesce** dal forno. | Franco takes **the fish** out of the oven. |
 | Non risponde subito. | He doesn't answer right away. |
-| «Un amico di Kevin.» | “A friend of Kevin's.” |
+| «Un amico dell'americano.» | “A friend of the American's.” |
 | Kevin sorride a nessuno. | Kevin smiles at nobody. |
 | _Un amico mio. Certo. Una **bugia** grande come una casa._ | _A friend of mine. Sure. A **lie** as big as a house._ |
 | Chiara si gira verso Kevin. | Chiara turns toward Kevin. |
@@ -191,7 +191,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco le sistema la sciarpa **sulle** spalle. | Franco fixes the scarf **on her** shoulders. |
 | Poi torna verso **il pesce**. | Then he goes back to **the fish**. |
 | Leo rientra **nel** corridoio con Kevin. | Leo comes back **into the** hallway with Kevin. |
-| Leo guarda **la tavola** per sette. | Leo looks at **the table** for seven. |
+| Leo guarda **la tavola** per sei. | Leo looks at **the table** for six. |
 | Pensa un momento. | He thinks for a moment. |
 | «Ma papà non ha amici.» | “But Dad doesn't have friends.” |
 | Silenzio. | Silence. |
@@ -214,10 +214,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | La porta si chiude. | The door closes. |
 | **Nel** corridoio resta un **profumo** di pesce e di limone. | **In the** hallway a **smell** of fish and lemon lingers. |
 | Leo conta ancora i piatti, piano. | Leo counts the plates again, quietly. |
-| «Uno, due, tre, quattro, cinque, sei, sette.» | “One, two, three, four, five, six, seven.” |
+| «Uno, due, tre, quattro, cinque, sei.» | “One, two, three, four, five, six.” |
 | Kevin lo guarda. | Kevin looks at him. |
 | «Leo, basta con i piatti.» | “Leo, enough with the plates.” |
-| «Ma sette è un numero strano.» | “But seven is a strange number.” |
+| «Ma un invitato a Natale è strano.» | “But a guest at Christmas is strange.” |
 | **Dal** piano di sopra arriva un rumore. | **From** the floor above comes a noise. |
 | Franco alza la testa. | Franco raises his head. |
 | Kevin alza la testa. | Kevin raises his head. |
@@ -363,7 +363,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco non risponde. | Franco doesn't answer. |
 | Si siede. | He sits down. |
 | Chiara lo guarda, poi guarda Lucia. | Chiara looks at him, then at Lucia. |
-| Poi guarda **la tavola** per sette. | Then she looks at **the table** for seven. |
+| Poi guarda **la tavola** per sei. | Then she looks at **the table** for six. |
 | «Manca uno.» | “One is missing.” |
 | «Chi?» | “Who?” |
 | «Emma. È **alla** chiesa.» | “Emma. She's **at the** church.” |
@@ -386,9 +386,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | Tutti sono **al** tavolo. | Everyone is **at the** table. |
-| **Sulla** **tavola** ci sono sette piatti. | **On the** **table** there are seven plates. |
-| Sei posti sono pieni. | Six places are full. |
-| Il settimo piatto è vuoto. | The seventh plate is empty. |
+| **Sulla** **tavola** ci sono sei piatti. | **On the** **table** there are six plates. |
+| Cinque posti sono pieni. | Five places are full. |
+| Il sesto piatto è vuoto: è il piatto di Emma. | The sixth plate is empty: it's Emma's plate. |
 | Franco versa **l'antipasto** **nei** piatti. | Franco pours **the appetizer** **into the** plates. |
 | «**L'antipasto** è con l'olio **del** mio orto.» | “**The appetizer** is with the oil **from** my garden.” |
 | «L'olio è del tuo orto?» | “The oil is from your garden?” |
@@ -434,12 +434,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi prende **il** coltello. | Then he takes **the** knife. |
 | «**Il pesce** è per tutti. Con il limone.» | “**The fish** is for everyone. With lemon.” |
 | Lucia guarda **il pesce**. | Lucia looks at **the fish**. |
-| «È grande. È per sette persone.» | “It's big. It's for seven people.” |
+| «È grande. È per sei persone.» | “It's big. It's for six people.” |
 | Silenzio per un secondo. | Silence for a second. |
-| Chiara guarda **il** piatto vuoto. | Chiara looks at **the** empty plate. |
-| Kevin guarda **il** piatto vuoto. | Kevin looks at **the** empty plate. |
-| «Il settimo posto è per un'**invitata**?» | “Is the seventh place for **a guest**?” |
-| «Sì. Un'amica **del** corso d'italiano.» | “Yes. A friend **from the** Italian course.” |
+| Chiara guarda Lucia. Poi guarda Kevin. | Chiara looks at Lucia. Then she looks at Kevin. |
+| «Kevin, la tua amica del corso d'italiano è simpatica.» | “Kevin, your friend from the Italian course is nice.” |
+| «Sì. Molto simpatica.» | “Yes. Very nice.” |
 | «Dove abita?» | “Where does she live?” |
 | «**Vicino** **al** Centro civico. Credo.» | “**Near the** Centro civico. I think.” |
 | «Credi?» | “You think?” |
@@ -464,8 +463,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma annuisce e prende **la forchetta**. | Emma nods and takes **the fork**. |
 | Emma **assaggia** **il pesce** ma non parla. | Emma **tastes** **the fish** but doesn't speak. |
 | _La signora Lucia è simpatica. Ma la chiesa è più tranquilla._ | _Signora Lucia is nice. But the church is quieter._ |
-| _Nel**la** chiesa c'è silenzio. **Alla** messa di **mezzanotte** non parla nessuno._ | hmm — double bold issue, keep simple. |
-| Rewrite: _**Alla** chiesa non parla nessuno. Meglio così._ | _**At the** church nobody talks. Better that way._ |
+| _**Alla** chiesa non parla nessuno. Meglio così._ | _At **the** church nobody talks. Better that way._ |
 | Franco prende **il** vino bianco. | Franco takes **the** white wine. |
 | «Un altro **brindisi**.» | “Another **toast**.” |
 | «Ancora?» | “Again?” |
@@ -515,7 +513,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara sorride. | Chiara smiles. |
 | Lucia la guarda e continua. | Lucia looks at her and goes on. |
 | «Una donna porta sempre qualcosa. Una tradizione.» | “A woman always brings something. A tradition.” |
-| «Nel mio paese, il vino.» | “**In** my country, wine.” |
+| «**Nel** mio paese, il vino.» | “**In** my country, wine.” |
 | «**Nel** tuo paese tutto è diverso.» | “**In** your country everything is different.” |
 | Kevin ride. | Kevin laughs. |
 | Franco si alza. | Franco gets up. |

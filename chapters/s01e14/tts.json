@@ -39,7 +39,7 @@
           "s01e14-1-004:0-5",
           "s01e14-1-005:0-7",
           "s01e14-1-006:0-4",
-          "s01e14-1-007:0-9",
+          "s01e14-1-007:0-8",
           "s01e14-1-008:0-4"
         ],
         [
@@ -49,7 +49,7 @@
           "s01e14-1-010:0-6"
         ],
         [
-          "s01e14-1-011:0-6"
+          "s01e14-1-011:0-5"
         ],
         [
           "s01e14-1-012:0-6"
@@ -78,7 +78,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È il pomeriggio del ventiquattro dicembre. Nel salotto dei Carter c'è un albero grande e luminoso. Sulla porta c'è una corona rossa. In cucina c'è un profumo dolce. Il pandoro è sul tavolo, vicino ai piatti. Vicino c'è anche il torrone. Kevin è in piedi davanti a la tavola del salotto. Lui apparecchia per sette persone.",
+                "text": "È il pomeriggio del ventiquattro dicembre. Nel salotto dei Carter c'è un albero grande e luminoso. Sulla porta c'è una corona rossa. In cucina c'è un profumo dolce. Il pandoro è sul tavolo, vicino ai piatti. Vicino c'è anche il torrone. Kevin è in piedi davanti alla tavola del salotto. Lui apparecchia per sei persone.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -111,7 +111,7 @@
               },
               {
                 "type": "text",
-                "text": "Uno, due, tre, quattro, cinque, sei... sette.",
+                "text": "Uno, due, tre, quattro, cinque... sei.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -133,7 +133,7 @@
               },
               {
                 "type": "text",
-                "text": "Sette piatti, sette tovaglioli.",
+                "text": "Sei piatti, sei tovaglioli.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1305,7 +1305,7 @@
               },
               {
                 "type": "text",
-                "text": "Sì. Per sette persone. Ma noi siamo quattro.",
+                "text": "Sì. Per sei persone. Ma noi siamo quattro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1316,7 +1316,7 @@
               },
               {
                 "type": "text",
-                "text": "Sette? Perché sette?",
+                "text": "Sei? Perché sei?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1393,7 +1393,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché tu, io, Emma, Leo, papà Franco... E un amico del corso d'italiano.",
+                "text": "Perché tu, io, Emma, Leo, tuo padre... E un amico del corso d'italiano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2073,7 +2073,7 @@
           "s01e14-2-015:0-8",
           "s01e14-2-016:0-3",
           "s01e14-2-017:0-4",
-          "s01e14-2-018:0-6",
+          "s01e14-2-018:0-5",
           "s01e14-2-019:0-3"
         ]
       ],
@@ -2096,7 +2096,7 @@
               },
               {
                 "type": "text",
-                "text": "Nel corridoio si sente la radio. C'è un canto di Natale, piano. Sul muro c'è il presepe della mamma di Franco. Kevin entra in cucina. Guarda la tavola e conta. Uno, due, tre, quattro, cinque, sei, sette. Sette piatti. Sette posti.",
+                "text": "Nel corridoio si sente la radio. C'è un canto di Natale, piano. Sul muro c'è il presepe della mamma di Franco. Kevin entra in cucina. Guarda la tavola e conta. Uno, due, tre, quattro, cinque, sei. Sei piatti. Sei posti.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2142,7 +2142,7 @@
       ],
       "words": [
         [
-          "s01e14-2-020:0-3"
+          "s01e14-2-020:0-2"
         ],
         [
           "s01e14-2-021:0-3"
@@ -2156,7 +2156,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Papà Franco. Sette posti?",
+                "text": "Franco. Sei posti?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2231,7 +2231,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sette. Sì.",
+                "text": "Sei. Sì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2660,7 +2660,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sette. Ma noi siamo cinque.",
+                "text": "Sei. Ma noi siamo quattro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2671,7 +2671,7 @@
               },
               {
                 "type": "text",
-                "text": "Sei, con il nonno.",
+                "text": "Cinque, con il nonno.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2682,7 +2682,7 @@
               },
               {
                 "type": "text",
-                "text": "Sei. E il settimo?",
+                "text": "Cinque. E il sesto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2759,7 +2759,7 @@
               },
               {
                 "type": "text",
-                "text": "Il settimo è un invitato.",
+                "text": "Il sesto è un invitato.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2878,7 +2878,7 @@
       ],
       "words": [
         [
-          "s01e14-2-054:0-3"
+          "s01e14-2-054:0-2"
         ],
         [
           "s01e14-2-055:0-3"
@@ -2892,7 +2892,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Un amico di Kevin.",
+                "text": "Un amico dell'americano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3893,7 +3893,7 @@
               },
               {
                 "type": "text",
-                "text": "Franco le sistema la sciarpa sulle spalle. Poi torna verso il pesce. Leo rientra nel corridoio con Kevin. Leo guarda la tavola per sette. Pensa un momento.",
+                "text": "Franco le sistema la sciarpa sulle spalle. Poi torna verso il pesce. Leo rientra nel corridoio con Kevin. Leo guarda la tavola per sei. Pensa un momento.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4476,7 +4476,7 @@
       ],
       "words": [
         [
-          "s01e14-2-118:0-6"
+          "s01e14-2-118:0-5"
         ],
         [
           "s01e14-2-119:0-2"
@@ -4490,7 +4490,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Uno, due, tre, quattro, cinque, sei, sette.",
+                "text": "Uno, due, tre, quattro, cinque, sei.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4550,7 +4550,7 @@
           "s01e14-2-120:0-4"
         ],
         [
-          "s01e14-2-121:0-5"
+          "s01e14-2-121:0-6"
         ]
       ],
       "request": {
@@ -4572,7 +4572,7 @@
               },
               {
                 "type": "text",
-                "text": "Ma sette è un numero strano.",
+                "text": "Ma un invitato a Natale è strano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8066,7 +8066,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Franco non risponde. Si siede. Chiara lo guarda, poi guarda Lucia. Poi guarda la tavola per sette.",
+                "text": "Franco non risponde. Si siede. Chiara lo guarda, poi guarda Lucia. Poi guarda la tavola per sei.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8629,7 +8629,7 @@
           "s01e14-4-001:0-3",
           "s01e14-4-002:0-5",
           "s01e14-4-003:0-3",
-          "s01e14-4-004:0-4",
+          "s01e14-4-004:0-9",
           "s01e14-4-005:0-4"
         ],
         [
@@ -8644,7 +8644,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Tutti sono al tavolo. Sulla tavola ci sono sette piatti. Sei posti sono pieni. Il settimo piatto è vuoto. Franco versa l'antipasto nei piatti.",
+                "text": "Tutti sono al tavolo. Sulla tavola ci sono sei piatti. Cinque posti sono pieni. Il sesto piatto è vuoto: è il piatto di Emma. Franco versa l'antipasto nei piatti.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9692,8 +9692,7 @@
       "segment_ids": [
         "s01e14-4-050",
         "s01e14-4-051",
-        "s01e14-4-052",
-        "s01e14-4-053"
+        "s01e14-4-052"
       ],
       "words": [
         [
@@ -9701,8 +9700,7 @@
         ],
         [
           "s01e14-4-051:0-3",
-          "s01e14-4-052:0-4",
-          "s01e14-4-053:0-4"
+          "s01e14-4-052:0-5"
         ]
       ],
       "request": {
@@ -9713,7 +9711,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È grande. È per sette persone.",
+                "text": "È grande. È per sei persone.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9724,7 +9722,7 @@
               },
               {
                 "type": "text",
-                "text": "Silenzio per un secondo. Chiara guarda il piatto vuoto. Kevin guarda il piatto vuoto.",
+                "text": "Silenzio per un secondo. Chiara guarda Lucia. Poi guarda Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9765,31 +9763,31 @@
         "ben": "ben"
       },
       "segment_ids": [
+        "s01e14-4-053",
         "s01e14-4-054",
         "s01e14-4-055",
         "s01e14-4-056",
         "s01e14-4-057",
-        "s01e14-4-058",
-        "s01e14-4-059"
+        "s01e14-4-058"
       ],
       "words": [
         [
-          "s01e14-4-054:0-5"
+          "s01e14-4-053:0-8"
         ],
         [
-          "s01e14-4-055:0-4"
+          "s01e14-4-054:0-2"
         ],
         [
-          "s01e14-4-056:0-1"
+          "s01e14-4-055:0-1"
         ],
         [
-          "s01e14-4-057:0-4"
+          "s01e14-4-056:0-4"
         ],
         [
-          "s01e14-4-058:0-0"
+          "s01e14-4-057:0-0"
         ],
         [
-          "s01e14-4-059:0-9"
+          "s01e14-4-058:0-9"
         ]
       ],
       "request": {
@@ -9800,7 +9798,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il settimo posto è per un'invitata?",
+                "text": "Kevin, la tua amica del corso d'italiano è simpatica.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9811,7 +9809,7 @@
               },
               {
                 "type": "text",
-                "text": "Sì. Un'amica del corso d'italiano.",
+                "text": "Sì. Molto simpatica.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9896,15 +9894,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e14-4-060",
-        "s01e14-4-061"
+        "s01e14-4-059",
+        "s01e14-4-060"
       ],
       "words": [
         [
-          "s01e14-4-060:0-2"
+          "s01e14-4-059:0-2"
         ],
         [
-          "s01e14-4-061:0-6"
+          "s01e14-4-060:0-6"
         ]
       ],
       "request": {
@@ -9967,25 +9965,25 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e14-4-061",
         "s01e14-4-062",
         "s01e14-4-063",
         "s01e14-4-064",
-        "s01e14-4-065",
-        "s01e14-4-066"
+        "s01e14-4-065"
       ],
       "words": [
         [
-          "s01e14-4-062:0-1"
+          "s01e14-4-061:0-1"
         ],
         [
-          "s01e14-4-063:0-5",
-          "s01e14-4-064:0-3"
+          "s01e14-4-062:0-5",
+          "s01e14-4-063:0-3"
         ],
         [
-          "s01e14-4-065:0-5"
+          "s01e14-4-064:0-5"
         ],
         [
-          "s01e14-4-066:0-3"
+          "s01e14-4-065:0-3"
         ]
       ],
       "request": {
@@ -10070,17 +10068,17 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e14-4-066",
         "s01e14-4-067",
-        "s01e14-4-068",
-        "s01e14-4-069"
+        "s01e14-4-068"
       ],
       "words": [
         [
-          "s01e14-4-067:0-4"
+          "s01e14-4-066:0-4"
         ],
         [
-          "s01e14-4-068:0-4",
-          "s01e14-4-069:0-4"
+          "s01e14-4-067:0-4",
+          "s01e14-4-068:0-4"
         ]
       ],
       "request": {
@@ -10143,15 +10141,15 @@
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e14-4-070",
-        "s01e14-4-071"
+        "s01e14-4-069",
+        "s01e14-4-070"
       ],
       "words": [
         [
-          "s01e14-4-070:0-2"
+          "s01e14-4-069:0-2"
         ],
         [
-          "s01e14-4-071:0-9"
+          "s01e14-4-070:0-9"
         ]
       ],
       "request": {
@@ -10214,19 +10212,19 @@
         "lucia": "lucia"
       },
       "segment_ids": [
+        "s01e14-4-071",
         "s01e14-4-072",
-        "s01e14-4-073",
-        "s01e14-4-074"
+        "s01e14-4-073"
       ],
       "words": [
         [
-          "s01e14-4-072:0-3"
+          "s01e14-4-071:0-3"
         ],
         [
-          "s01e14-4-073:0-1"
+          "s01e14-4-072:0-1"
         ],
         [
-          "s01e14-4-074:0-3"
+          "s01e14-4-073:0-3"
         ]
       ],
       "request": {
@@ -10300,15 +10298,15 @@
         "lucia": "lucia"
       },
       "segment_ids": [
-        "s01e14-4-075",
-        "s01e14-4-076"
+        "s01e14-4-074",
+        "s01e14-4-075"
       ],
       "words": [
         [
-          "s01e14-4-075:0-1"
+          "s01e14-4-074:0-1"
         ],
         [
-          "s01e14-4-076:0-2"
+          "s01e14-4-075:0-2"
         ]
       ],
       "request": {
@@ -10371,30 +10369,23 @@
         "emma": "emma"
       },
       "segment_ids": [
+        "s01e14-4-076",
         "s01e14-4-077",
         "s01e14-4-078",
         "s01e14-4-079",
-        "s01e14-4-080",
-        "s01e14-4-081",
-        "s01e14-4-082"
+        "s01e14-4-080"
       ],
       "words": [
         [
-          "s01e14-4-077:0-5",
-          "s01e14-4-078:0-6"
+          "s01e14-4-076:0-5",
+          "s01e14-4-077:0-6"
         ],
         [
-          "s01e14-4-079:0-10",
-          "s01e14-4-080:0-10"
+          "s01e14-4-078:0-10",
+          "s01e14-4-079:0-6"
         ],
         [
-          "s01e14-4-081:0-0"
-        ],
-        [
-          "s01e14-4-081:1-7"
-        ],
-        [
-          "s01e14-4-082:0-4"
+          "s01e14-4-080:0-4"
         ]
       ],
       "request": {
@@ -10416,29 +10407,7 @@
               },
               {
                 "type": "text",
-                "text": "La signora Lucia è simpatica. Ma la chiesa è più tranquilla. Nella chiesa c'è silenzio. Alla messa di mezzanotte non parla nessuno.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly, thinking to themself, quiet and close"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Rewrite:",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Alla chiesa non parla nessuno. Meglio così.",
+                "text": "La signora Lucia è simpatica. Ma la chiesa è più tranquilla. Alla chiesa non parla nessuno. Meglio così.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10490,19 +10459,19 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e14-4-083",
-        "s01e14-4-084",
-        "s01e14-4-085"
+        "s01e14-4-081",
+        "s01e14-4-082",
+        "s01e14-4-083"
       ],
       "words": [
         [
+          "s01e14-4-081:0-2"
+        ],
+        [
+          "s01e14-4-082:0-0"
+        ],
+        [
           "s01e14-4-083:0-2"
-        ],
-        [
-          "s01e14-4-084:0-0"
-        ],
-        [
-          "s01e14-4-085:0-2"
         ]
       ],
       "request": {
@@ -10576,15 +10545,15 @@
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e14-4-086",
-        "s01e14-4-087"
+        "s01e14-4-084",
+        "s01e14-4-085"
       ],
       "words": [
         [
-          "s01e14-4-086:0-2"
+          "s01e14-4-084:0-2"
         ],
         [
-          "s01e14-4-087:0-2"
+          "s01e14-4-085:0-2"
         ]
       ],
       "request": {
@@ -10647,15 +10616,15 @@
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e14-4-088",
-        "s01e14-4-089"
+        "s01e14-4-086",
+        "s01e14-4-087"
       ],
       "words": [
         [
-          "s01e14-4-088:0-0"
+          "s01e14-4-086:0-0"
         ],
         [
-          "s01e14-4-089:0-0"
+          "s01e14-4-087:0-0"
         ]
       ],
       "request": {
@@ -10718,23 +10687,23 @@
         "franco": "franco"
       },
       "segment_ids": [
+        "s01e14-4-088",
+        "s01e14-4-089",
         "s01e14-4-090",
         "s01e14-4-091",
-        "s01e14-4-092",
-        "s01e14-4-093",
-        "s01e14-4-094"
+        "s01e14-4-092"
       ],
       "words": [
         [
-          "s01e14-4-090:0-1",
-          "s01e14-4-091:0-4",
-          "s01e14-4-092:0-3"
+          "s01e14-4-088:0-1",
+          "s01e14-4-089:0-4",
+          "s01e14-4-090:0-3"
         ],
         [
-          "s01e14-4-093:0-3"
+          "s01e14-4-091:0-3"
         ],
         [
-          "s01e14-4-094:0-4"
+          "s01e14-4-092:0-4"
         ]
       ],
       "request": {
@@ -10808,19 +10777,19 @@
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e14-4-095",
-        "s01e14-4-096",
-        "s01e14-4-097"
+        "s01e14-4-093",
+        "s01e14-4-094",
+        "s01e14-4-095"
       ],
       "words": [
         [
-          "s01e14-4-095:0-12"
+          "s01e14-4-093:0-12"
         ],
         [
-          "s01e14-4-096:0-0"
+          "s01e14-4-094:0-0"
         ],
         [
-          "s01e14-4-097:0-5"
+          "s01e14-4-095:0-5"
         ]
       ],
       "request": {
@@ -10894,15 +10863,15 @@
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e14-4-098",
-        "s01e14-4-099"
+        "s01e14-4-096",
+        "s01e14-4-097"
       ],
       "words": [
         [
-          "s01e14-4-098:0-3"
+          "s01e14-4-096:0-3"
         ],
         [
-          "s01e14-4-099:0-2"
+          "s01e14-4-097:0-2"
         ]
       ],
       "request": {
@@ -10965,15 +10934,15 @@
         "leo": "leo"
       },
       "segment_ids": [
-        "s01e14-4-100",
-        "s01e14-4-101"
+        "s01e14-4-098",
+        "s01e14-4-099"
       ],
       "words": [
         [
-          "s01e14-4-100:0-0"
+          "s01e14-4-098:0-0"
         ],
         [
-          "s01e14-4-101:0-5"
+          "s01e14-4-099:0-5"
         ]
       ],
       "request": {
@@ -11036,21 +11005,21 @@
         "ben": "ben"
       },
       "segment_ids": [
+        "s01e14-4-100",
+        "s01e14-4-101",
         "s01e14-4-102",
         "s01e14-4-103",
-        "s01e14-4-104",
-        "s01e14-4-105",
-        "s01e14-4-106"
+        "s01e14-4-104"
       ],
       "words": [
         [
-          "s01e14-4-102:0-0",
-          "s01e14-4-103:0-2",
-          "s01e14-4-104:0-3",
-          "s01e14-4-105:0-4"
+          "s01e14-4-100:0-0",
+          "s01e14-4-101:0-2",
+          "s01e14-4-102:0-3",
+          "s01e14-4-103:0-4"
         ],
         [
-          "s01e14-4-106:0-11"
+          "s01e14-4-104:0-11"
         ]
       ],
       "request": {
@@ -11113,15 +11082,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e14-4-107",
-        "s01e14-4-108"
+        "s01e14-4-105",
+        "s01e14-4-106"
       ],
       "words": [
         [
-          "s01e14-4-107:0-0"
+          "s01e14-4-105:0-0"
         ],
         [
-          "s01e14-4-108:0-3"
+          "s01e14-4-106:0-3"
         ]
       ],
       "request": {
@@ -11184,23 +11153,23 @@
         "lucia": "lucia"
       },
       "segment_ids": [
+        "s01e14-4-107",
+        "s01e14-4-108",
         "s01e14-4-109",
         "s01e14-4-110",
-        "s01e14-4-111",
-        "s01e14-4-112",
-        "s01e14-4-113"
+        "s01e14-4-111"
       ],
       "words": [
         [
-          "s01e14-4-109:0-3",
-          "s01e14-4-110:0-3"
+          "s01e14-4-107:0-3",
+          "s01e14-4-108:0-3"
         ],
         [
-          "s01e14-4-111:0-5"
+          "s01e14-4-109:0-5"
         ],
         [
-          "s01e14-4-112:0-1",
-          "s01e14-4-113:0-4"
+          "s01e14-4-110:0-1",
+          "s01e14-4-111:0-4"
         ]
       ],
       "request": {
@@ -11274,15 +11243,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e14-4-114",
-        "s01e14-4-115"
+        "s01e14-4-112",
+        "s01e14-4-113"
       ],
       "words": [
         [
-          "s01e14-4-114:0-2"
+          "s01e14-4-112:0-2"
         ],
         [
-          "s01e14-4-115:0-1"
+          "s01e14-4-113:0-1"
         ]
       ],
       "request": {
@@ -11345,17 +11314,17 @@
         "lucia": "lucia"
       },
       "segment_ids": [
-        "s01e14-4-116",
-        "s01e14-4-117",
-        "s01e14-4-118"
+        "s01e14-4-114",
+        "s01e14-4-115",
+        "s01e14-4-116"
       ],
       "words": [
         [
-          "s01e14-4-116:0-1",
-          "s01e14-4-117:0-3"
+          "s01e14-4-114:0-1",
+          "s01e14-4-115:0-3"
         ],
         [
-          "s01e14-4-118:0-8"
+          "s01e14-4-116:0-8"
         ]
       ],
       "request": {
@@ -11418,23 +11387,23 @@
         "lucia": "lucia"
       },
       "segment_ids": [
+        "s01e14-4-117",
+        "s01e14-4-118",
         "s01e14-4-119",
-        "s01e14-4-120",
-        "s01e14-4-121",
-        "s01e14-4-122"
+        "s01e14-4-120"
       ],
       "words": [
         [
-          "s01e14-4-119:0-3"
+          "s01e14-4-117:0-3"
         ],
         [
-          "s01e14-4-120:0-2"
+          "s01e14-4-118:0-2"
         ],
         [
-          "s01e14-4-121:0-2"
+          "s01e14-4-119:0-2"
         ],
         [
-          "s01e14-4-122:0-9"
+          "s01e14-4-120:0-9"
         ]
       ],
       "request": {
@@ -11519,15 +11488,15 @@
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e14-4-123",
-        "s01e14-4-124"
+        "s01e14-4-121",
+        "s01e14-4-122"
       ],
       "words": [
         [
-          "s01e14-4-123:0-3"
+          "s01e14-4-121:0-3"
         ],
         [
-          "s01e14-4-124:0-4"
+          "s01e14-4-122:0-4"
         ]
       ],
       "request": {
@@ -11590,19 +11559,19 @@
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e14-4-125",
-        "s01e14-4-126",
-        "s01e14-4-127"
+        "s01e14-4-123",
+        "s01e14-4-124",
+        "s01e14-4-125"
       ],
       "words": [
         [
-          "s01e14-4-125:0-9"
+          "s01e14-4-123:0-9"
         ],
         [
-          "s01e14-4-126:0-5"
+          "s01e14-4-124:0-5"
         ],
         [
-          "s01e14-4-127:0-0"
+          "s01e14-4-125:0-0"
         ]
       ],
       "request": {
@@ -11676,17 +11645,17 @@
         "lucia": "lucia"
       },
       "segment_ids": [
-        "s01e14-4-128",
-        "s01e14-4-129",
-        "s01e14-4-130"
+        "s01e14-4-126",
+        "s01e14-4-127",
+        "s01e14-4-128"
       ],
       "words": [
         [
-          "s01e14-4-128:0-1",
-          "s01e14-4-129:0-4"
+          "s01e14-4-126:0-1",
+          "s01e14-4-127:0-4"
         ],
         [
-          "s01e14-4-130:0-6"
+          "s01e14-4-128:0-6"
         ]
       ],
       "request": {
@@ -11749,15 +11718,15 @@
         "lucia": "lucia"
       },
       "segment_ids": [
-        "s01e14-4-131",
-        "s01e14-4-132"
+        "s01e14-4-129",
+        "s01e14-4-130"
       ],
       "words": [
         [
-          "s01e14-4-131:0-4"
+          "s01e14-4-129:0-4"
         ],
         [
-          "s01e14-4-132:0-5"
+          "s01e14-4-130:0-5"
         ]
       ],
       "request": {
@@ -11820,25 +11789,25 @@
         "franco": "franco"
       },
       "segment_ids": [
+        "s01e14-4-131",
+        "s01e14-4-132",
         "s01e14-4-133",
         "s01e14-4-134",
         "s01e14-4-135",
-        "s01e14-4-136",
-        "s01e14-4-137",
-        "s01e14-4-138"
+        "s01e14-4-136"
       ],
       "words": [
         [
-          "s01e14-4-133:0-1",
-          "s01e14-4-134:0-2",
-          "s01e14-4-135:0-6",
-          "s01e14-4-136:0-3"
+          "s01e14-4-131:0-1",
+          "s01e14-4-132:0-2",
+          "s01e14-4-133:0-6",
+          "s01e14-4-134:0-3"
         ],
         [
-          "s01e14-4-137:0-2"
+          "s01e14-4-135:0-2"
         ],
         [
-          "s01e14-4-138:0-2"
+          "s01e14-4-136:0-2"
         ]
       ],
       "request": {
@@ -11912,15 +11881,15 @@
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e14-4-139",
-        "s01e14-4-140"
+        "s01e14-4-137",
+        "s01e14-4-138"
       ],
       "words": [
         [
-          "s01e14-4-139:0-0"
+          "s01e14-4-137:0-0"
         ],
         [
-          "s01e14-4-140:0-1"
+          "s01e14-4-138:0-1"
         ]
       ],
       "request": {
@@ -11983,19 +11952,19 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e14-4-139",
+        "s01e14-4-140",
         "s01e14-4-141",
-        "s01e14-4-142",
-        "s01e14-4-143",
-        "s01e14-4-144"
+        "s01e14-4-142"
       ],
       "words": [
         [
-          "s01e14-4-141:0-0"
+          "s01e14-4-139:0-0"
         ],
         [
-          "s01e14-4-142:0-3",
-          "s01e14-4-143:0-2",
-          "s01e14-4-144:0-3"
+          "s01e14-4-140:0-3",
+          "s01e14-4-141:0-2",
+          "s01e14-4-142:0-3"
         ]
       ],
       "request": {
@@ -12058,15 +12027,15 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e14-4-145",
-        "s01e14-4-146"
+        "s01e14-4-143",
+        "s01e14-4-144"
       ],
       "words": [
         [
-          "s01e14-4-145:0-0"
+          "s01e14-4-143:0-0"
         ],
         [
-          "s01e14-4-146:0-2"
+          "s01e14-4-144:0-2"
         ]
       ],
       "request": {
@@ -12129,15 +12098,15 @@
         "lucia": "lucia"
       },
       "segment_ids": [
-        "s01e14-4-147",
-        "s01e14-4-148"
+        "s01e14-4-145",
+        "s01e14-4-146"
       ],
       "words": [
         [
-          "s01e14-4-147:0-0"
+          "s01e14-4-145:0-0"
         ],
         [
-          "s01e14-4-148:0-8"
+          "s01e14-4-146:0-8"
         ]
       ],
       "request": {
@@ -12199,11 +12168,11 @@
         "single": "narrator"
       },
       "segment_ids": [
-        "s01e14-4-149"
+        "s01e14-4-147"
       ],
       "words": [
         [
-          "s01e14-4-149:0-8"
+          "s01e14-4-147:0-8"
         ]
       ],
       "request": {

@@ -106,10 +106,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Lucia will bring panettone and a homemade dolce to the vigilia; one market package is still missing, and the Christmas Eve lie may unravel.
 
 ### s01e14 · La vigilia
-- **Happened:** Christmas Eve dinner at Franco's for seven; Lucia arrives as the mysterious seventh guest, bringing pandoro and torrone. Emma goes to midnight mass with Bianca, meets Tommaso alone outside the church, then returns to dinner. After the meal Franco quietly thanks Kevin for keeping the cover story.
-- **New facts:** Lucia teaches ballroom dance at the Centro civico and has a son, Gennaro, in London. Franco's red scarf (Milan) is lent to Emma; his dining table was his mother's; his oil and lemons come from his orto. Ornella's cat is called Pavarotti. Leo keeps a yellow notebook of new words.
-- **Changed:** Chiara and Lucia go straight to tu. Chiara meets Lucia as "a friend from Kevin's Italian course"; Kevin and Franco now share that lie ("la bugia funziona"). Franco says grazie and auguri to Kevin.
-- **Planted:** Chiara's growing suspicion about Kevin's "friend" and the empty seventh plate; Franco–Lucia secret still hidden from Chiara; Emma and Tommaso's quiet connection continues ("ci vediamo sul treno").
+- **Happened:** Christmas Eve dinner at Franco's, six place settings; the sixth guest is Lucia, passed off to Chiara and Leo as "un amico del corso d'italiano" of Kevin's. Emma goes to midnight mass with Bianca and speaks alone with Tommaso outside the church.
+- **New facts:** Lucia's son Gennaro lives in London and eats turkey at Christmas; Lucia brings pandoro from the piazza bakery. Franco has a red-and-black Milan scarf and lends it to Emma. Tommaso plays bass (Tuesdays, in Marco's garage) and sings "Tu scendi dalle stelle" with his aunt. Emma writes songs in a notebook; only Tommaso now knows.
+- **Changed:** The cover story holds; Chiara is suspicious but ignorant. Franco privately thanks Kevin and says "auguri" — first thaw between them.
+- **Planted:** Chiara's suspicions about Kevin's "amico"; Emma's songs and Tommaso; Lucia's real role still hidden.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

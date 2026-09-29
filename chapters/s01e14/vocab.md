@@ -9,7 +9,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **raccontare**<br>(v.) · to tell, to recount | «Papà **racconta** di me?» | “Dad **tells** about me?” |
-| **apparecchiare**<br>(v.) · to set the table | Lui **apparecchia** per sette persone. | He **sets the table** for seven people. |
+| **apparecchiare**<br>(v.) · to set the table | Lui **apparecchia** per sei persone. | He **sets the table** for six people. |
 | **assaggiare**<br>(v.) · to taste, to try (food) | **Assaggia** anche il pesce. | She **tastes** the fish too. |
 | **brindare**<br>(v.) · to toast (with a drink) | «Bene. A Natale **brindare** è importante.» | “Good. At Christmas, **toasting** is important.” |
 
@@ -19,7 +19,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|---|
 | **il cenone**<br>(n., m) · Christmas Eve dinner | **Il cenone** è finito. | **The Christmas dinner** is over. |
 | **la portata**<br>(n., f) · course (of a meal) | Il cenone ha molte **portate**. | The Christmas Eve dinner has many **courses**. |
-| **il tovagliolo**<br>(n., m) · napkin | «Sette piatti, sette **tovaglioli**.» | “Seven plates, seven **napkins**.” |
+| **il tovagliolo**<br>(n., m) · napkin | «Sei piatti, sei **tovaglioli**.» | “Six plates, six **napkins**.” |
 | **il brindisi**<br>(n., m) · toast (with drinks) | Poi **il brindisi** numero tre. | Then **toast** number three. |
 | **il pandoro**<br>(n., m) · pandoro (Christmas cake) | Tira fuori **un pandoro** grande. | She pulls out **a pandoro**. |
 | **il torrone**<br>(n., m) · nougat | Poi prende **il torrone**. | Then he takes **the nougat**. |
