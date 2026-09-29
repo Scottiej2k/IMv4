@@ -26,15 +26,15 @@ Chiara chiude gli occhi e conta fino a tre. «Kevin, noi abitiamo in Italia,» d
 
 «Lo so,» dice Kevin.
 
-«In Italia Halloween non è una **festa** vera,» dice Chiara. «Qui la **festa** vera è lunedì,» continua Chiara.
+«In Italia Halloween non è una **festa** vera,» dice Chiara. «Qui la **festa** vera è domenica,» continua Chiara.
 
-«Lunedì? Che **festa** c'è lunedì?» chiede Kevin.
+«Domenica? Che **festa** c'è domenica?» chiede Kevin.
 
 «Ognissanti,» dice Chiara. Kevin non capisce la parola.
 
-Chiara guarda l'orologio e sospira. «Adesso prendo il treno. **Parliamo** dopo,» dice Chiara. «Lunedì ti **spiego**,» dice, e chiude la finestra. _Lunedì è Ognissanti. Kevin non lo sa._
+Chiara guarda l'orologio e sospira. «Adesso prendo il treno. **Parliamo** dopo,» dice Chiara. «Domenica ti **spiego**,» dice, e chiude la finestra. In quel momento la porta della casa si apre.
 
-In quel momento la porta della casa si apre. Esce Leo, con un **costume** nero da vampiro. «Sono un vampiro!» dice Leo.
+Esce Leo, con un **costume** nero da vampiro. «Sono un vampiro!» dice Leo.
 
 «Che bel **costume**!» dice Kevin.
 
@@ -74,7 +74,7 @@ La **luce** del pomeriggio è gialla e dolce. «La **luce** delle **candele** è
 
 «Papà, la **zucca** è alta come me e te!» dice Leo.
 
-Kevin **decoro** — no. Kevin ride e guarda la **zucca** con lui. «Leo, la **zucca** è una sorpresa per la strada,» dice Kevin.
+Kevin ride e guarda la **zucca** con lui. «Leo, la **zucca** è una sorpresa per la strada,» dice Kevin.
 
 Una porta si apre dalla parte del numero undici. Arriva il signor Roberto Colombo, con una **lettera** in mano. Roberto si ferma davanti alla **zucca** grande e non sorride. «Buongiorno, signor Carter,» dice Roberto.
 
@@ -106,7 +106,7 @@ Alla finestra del numero sedici c'è la signora Ornella. Ornella guarda la **zuc
 
 «Buongiorno, signora Galli,» dice Kevin.
 
-«Signor Carter, lunedì è Ognissanti,» dice Ornella.
+«Signor Carter, domenica è Ognissanti,» dice Ornella.
 
 «Ognissanti?» chiede Kevin.
 
@@ -140,7 +140,95 @@ Kevin guarda la strada e pensa. _Non lo so bene. Neanche in italiano._ «Un **ci
 
 Leo **mangia** un biscotto e guarda la **zucca**. «Papà, io **preferisco** i biscotti della signora Ornella,» dice Leo. Kevin ride, ma guarda ancora la strada.
 
-## 3. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
+## 3. Bar Tigli · sabato mattina
+
+È sabato mattina e Kevin entra nel Bar Tigli. Dietro il banco c'è Matteo, con un sorriso grande. «Buongiorno, Kevin!» dice Matteo.
+
+«Buongiorno, Matteo!» dice Kevin. Kevin mostra il telefono a Matteo. Sul telefono ci sono le foto del giardino con la **zucca** grande.
+
+Matteo guarda le foto e ride forte. «Kevin, che bella **zucca**!» dice Matteo.
+
+«È una **zucca** da **festa** americana,» dice Kevin.
+
+«Una **zucca** di plastica di due metri per un uomo di quarantuno anni,» dice Matteo.
+
+«Sì! Perfetto!» dice Kevin.
+
+«Matteo, ti **spiego** Halloween,» dice Kevin.
+
+«Ok, **spiega**,» dice Matteo, e prepara un caffè.
+
+«I bambini **bussano** alle porte e dicono **dolcetto o scherzetto**,» dice Kevin. «Poi le persone **regalano** le **caramelle**,» dice Kevin.
+
+«Tutto qui?» chiede Matteo.
+
+«No! Le zucche, le candele, la **festa**...» dice Kevin.
+
+«Ah, la **festa**,» dice Matteo, senza entusiasmo.
+
+La porta del bar si apre ed entra Franco. Franco guarda Kevin e poi guarda il telefono. «Buongiorno, Franco!» dice Kevin.
+
+Franco non risponde subito. «Un caffè, Matteo,» dice Franco.
+
+«Subito, papà,» dice Matteo.
+
+«Che cos'è questa **festa** americana?» chiede Franco.
+
+«È Halloween!» dice Kevin.
+
+«E domani?» chiede Franco.
+
+«Domani... domenica,» dice Kevin.
+
+«Domani è Ognissanti,» dice Franco.
+
+Franco prende il caffè e **parla** lentamente. «A Ognissanti in Italia si va al **cimitero**,» dice Franco.
+
+«Al **cimitero**?» chiede Kevin.
+
+«Sì. Ogni anno **compro** i **fiori** e un **vaso**,» dice Franco. «I **fiori** per la **tomba** di mia moglie,» dice Franco.
+
+Kevin non sa che cosa dire. «Franco, io **spiego** —» dice Kevin.
+
+«Non **spiegare** niente,» dice Franco. «**Spiego** io. A Ognissanti la **festa** è per i morti,» dice Franco. «Non è una **festa** per le zucche,» dice Franco.
+
+«Franco, perché nessuno mi **spiega** prima?» chiede Kevin.
+
+Franco guarda Kevin e beve il caffè. «Tra il dire e il fare c'è di mezzo il mare,» dice Franco. Kevin non capisce il proverbio.
+
+La porta del bar si apre di nuovo. Entra il signor Roberto con una **lettera** in mano. «Buongiorno, signor Carter,» dice Roberto.
+
+«Buongiorno, signor Colombo,» dice Kevin.
+
+Roberto mette la **lettera** sul banco. «Questa **lettera** è per il signor Carter,» dice Roberto.
+
+«Un'altra **lettera**?» chiede Kevin.
+
+«La **regola** del Comitato parla della **zucca** grande,» dice Roberto.
+
+Matteo prende la **lettera** e legge a voce alta. «Ai sensi della **regola** numero dodici...» legge Matteo.
+
+«Matteo!» dice Roberto.
+
+Matteo ride con la **lettera** in mano. «Una **regola** per una zucca di plastica,» dice Matteo.
+
+«**Lavoro** per il quartiere, signor Ferri,» dice Roberto.
+
+Franco finisce il caffè e **torna** verso la porta. «Americano!» chiama Franco.
+
+«Sì?» dice Kevin.
+
+«Domani mattina, alle nove, al numero nove,» dice Franco.
+
+«Perché?» chiede Kevin.
+
+Franco non risponde. «Alle nove. Non alle dieci,» dice Franco, e esce.
+
+Kevin guarda Matteo e Matteo apre le braccia. «Niente **spiegazione**?» chiede Kevin.
+
+«Niente,» dice Matteo. Kevin **torna** a casa e pensa alla **tomba** di Anna.
+
+## 4. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
 
 È sabato pomeriggio in casa Carter. Kevin **lavora** ancora per la festa di Halloween. Sul tavolo della cucina ci sono **caramelle**, sacchetti e una scatola grande.
 
@@ -204,11 +292,11 @@ Kevin **decora** gli ultimi sacchetti. **Decora** ogni sacchetto con una **zucca
 
 «**Dolcetto o scherzetto**!» dice Kevin, adesso bene.
 
-Emma **compra** le **caramelle** con Kevin al supermercato? No. Emma guarda la scatola e prende un sacchetto. «Io **preparo** i sacchetti piccoli,» dice Emma.
+«Io **preparo** i sacchetti piccoli,» dice Emma.
 
 «Grazie, Emma!» dice Kevin.
 
-«Non è per te. È per Leo,» dice Emma. Emma e Kevin **preparano** i sacchetti **insieme**. Emma **compra** anche una **zucca** di carta per la porta. «Bella, questa **zucca**,» dice Emma.
+«Non è per te. È per Leo,» dice Emma. Emma e Kevin **preparano** i sacchetti **insieme**. Emma **decora** anche una **zucca** di carta per la porta. «Bella, questa **zucca**,» dice Emma.
 
 Leo disegna ancora la mappa della strada. «Papà, la **notte** di Halloween **giochiamo** **insieme**?» chiede Leo.
 
@@ -226,7 +314,7 @@ Kevin si guarda allo specchio con il **costume** da **zucca**. «Emma, sono una 
 
 «Sì. La strada **spera** in una **sorpresa** piccola,» dice Emma. _Mio padre è ridicolo. Ma io vengo con loro._
 
-## 4. Via dei Tigli · sabato sera
+## 5. Via dei Tigli · sabato sera
 
 È sabato sera in Via dei Tigli. È la **notte** di Halloween. La strada è quasi vuota. Sulla strada ci sono tre bambini con un **costume** piccolo. La **luce** delle **candele** è accesa davanti alla casa numero quattordici.
 
@@ -258,11 +346,11 @@ Ornella guarda la **zucca** grande nel giardino. «La **zucca** è bella, signor
 
 «Grazie, signora Galli!» dice Kevin.
 
-«Ma lunedì vado al **cimitero**,» dice Ornella.
+«Ma domenica vado al **cimitero**,» dice Ornella.
 
 «Al **cimitero**?» chiede Kevin.
 
-«Sì. Lunedì è Ognissanti,» dice Ornella. «Io porto i **fiori** alla **tomba** di Gino,» dice Ornella. «I **fiori** sono per la **tomba**, ma anche per me,» dice. «Accendo una **candela** e **parlo** con lui,» dice Ornella. Kevin non risponde subito. «**Parlo** con Gino come parlo con te,» dice Ornella. «È una **festa**, signor Carter. Una **festa** per i morti,» dice Ornella.
+«Sì. Domenica è Ognissanti,» dice Ornella. «Io porto i **fiori** alla **tomba** di Gino,» dice Ornella. «I **fiori** sono per la **tomba**, ma anche per me,» dice. «Accendo una **candela** e **parlo** con lui,» dice Ornella. Kevin non risponde subito. «**Parlo** con Gino come parlo con te,» dice Ornella. «È una **festa**, signor Carter. Una **festa** per i morti,» dice Ornella.
 
 _Una festa per i morti. In America non parlo così._ «Buona **notte**, signora Galli,» dice Kevin.
 
@@ -276,7 +364,7 @@ Roberto guarda il **costume** di Leo e poi Kevin. «Signor Carter, non è possib
 
 «Ma è Halloween!» dice Kevin.
 
-«È una **festa** americana,» dice Roberto. «La **festa** italiana è lunedì,» dice Roberto. «Lunedì vado al **cimitero**, non **gioco** alla porta,» dice. Roberto chiude la porta.
+«È una **festa** americana,» dice Roberto. «La **festa** italiana è domenica,» dice Roberto. «Domenica vado al **cimitero**, non **gioco** alla porta,» dice. Roberto chiude la porta.
 
 Leo guarda la porta chiusa e non capisce. «Papà, il signor Colombo non **gioca**,» dice Leo.
 
@@ -308,103 +396,15 @@ Adesso la strada è di nuovo vuota. Kevin, Leo ed Emma **tornano** a casa **insi
 
 «Dieci? Bravissimo!» dice Kevin. Kevin guarda la strada e guarda la sua **zucca**. Le **candele** sono ancora accese nella **notte**. _Via dei Tigli non vede mai tante zucche._ _Forse è una sorpresa per me, non per loro._
 
-## 5. Bar Tigli · domenica mattina
+## 6. Il cimitero di Borgoverde · domenica mattina
 
-È domenica mattina e Kevin entra nel Bar Tigli. Dietro il banco c'è Matteo, con un sorriso grande. «Buongiorno, Kevin!» dice Matteo.
-
-«Buongiorno, Matteo!» dice Kevin. Kevin mostra il telefono a Matteo. Sul telefono ci sono le foto del **costume** da zucca.
-
-Matteo guarda le foto e ride forte. «Kevin, che bel **costume**!» dice Matteo.
-
-«È un **costume** da **festa** americana,» dice Kevin.
-
-«Un **costume** da zucca per un uomo di quarantuno anni,» dice Matteo.
-
-«Sì! Perfetto!» dice Kevin.
-
-«Matteo, ti **spiego** Halloween,» dice Kevin.
-
-«Ok, **spiega**,» dice Matteo, e prepara un caffè.
-
-«I bambini **bussano** alle porte e dicono **dolcetto o scherzetto**,» dice Kevin. «Poi le persone **regalano** le **caramelle**,» dice Kevin.
-
-«Tutto qui?» chiede Matteo.
-
-«No! Le zucche, le candele, la **festa**...» dice Kevin.
-
-«Ah, la **festa**,» dice Matteo, senza entusiasmo.
-
-La porta del bar si apre ed entra Franco. Franco guarda Kevin e poi guarda il telefono. «Buongiorno, Franco!» dice Kevin.
-
-Franco non risponde subito. «Un caffè, Matteo,» dice Franco.
-
-«Subito, papà,» dice Matteo.
-
-«Che cos'è questa **festa** americana?» chiede Franco.
-
-«È Halloween!» dice Kevin.
-
-«E domani?» chiede Franco.
-
-«Domani... lunedì,» dice Kevin.
-
-«Domani è Ognissanti,» dice Franco.
-
-Franco prende il caffè e **parla** lentamente. «A Ognissanti in Italia si va al **cimitero**,» dice Franco.
-
-«Al **cimitero**?» chiede Kevin.
-
-«Sì. Ogni anno **compro** i **fiori** e un **vaso**,» dice Franco. «I **fiori** per la **tomba** di mia moglie,» dice Franco.
-
-Kevin non sa che cosa dire. «Franco, io **spiego** —» dice Kevin.
-
-«Non **spiegare** niente,» dice Franco. «**Spiego** io. A Ognissanti la **festa** è per i morti,» dice Franco. «Non è una **festa** per le zucche,» dice Franco.
-
-«Franco, perché nessuno mi **spiega** prima?» chiede Kevin.
-
-Franco guarda Kevin e beve il caffè. «Tra il dire e il fare c'è di mezzo il mare,» dice Franco. Kevin non capisce il proverbio.
-
-La porta del bar si apre di nuovo. Entra il signor Roberto con una **lettera** in mano. «Buongiorno, signor Carter,» dice Roberto.
-
-«Buongiorno, signor Colombo,» dice Kevin.
-
-Roberto mette la **lettera** sul banco. «Questa **lettera** è per il signor Carter,» dice Roberto.
-
-«Un'altra **lettera**?» chiede Kevin.
-
-«La **regola** del Comitato parla della **zucca** grande,» dice Roberto.
-
-Matteo prende la **lettera** e legge a voce alta. «Ai sensi della **regola** numero dodici...» legge Matteo.
-
-«Matteo!» dice Roberto.
-
-Matteo ride con la **lettera** in mano. «Una **regola** per una zucca di plastica,» dice Matteo.
-
-«**Lavoro** per il quartiere, signor Ferri,» dice Roberto.
-
-Franco finisce il caffè e **torna** verso la porta. «Signor Carter!» chiama Franco.
-
-«Sì?» dice Kevin.
-
-«Domani mattina, alle nove, al numero nove,» dice Franco.
-
-«Perché?» chiede Kevin.
-
-Franco non risponde. «Alle nove. Non alle dieci,» dice Franco, e esce.
-
-Kevin guarda Matteo e Matteo apre le braccia. «Niente **spiegazione**?» chiede Kevin.
-
-«Niente,» dice Matteo. Kevin **torna** a casa e pensa alla **tomba** di Anna.
-
-## 6. cimitero · lunedì mattina
-
-È lunedì mattina, alle nove meno cinque. Davanti alla casa numero nove c'è Franco. Franco **prepara** un secchio di acqua. Nel secchio c'è l'acqua per i **fiori**. Franco ha due mazzi di **fiori** e un **vaso**.
+È domenica mattina, alle nove meno cinque. Davanti alla casa numero nove c'è Franco. Franco **prepara** un secchio di acqua. Nel secchio c'è l'acqua per i **fiori**. Franco ha due mazzi di **fiori** e un **vaso**.
 
 Kevin arriva e guarda il secchio e i **fiori**. «Buongiorno, Franco,» dice Kevin.
 
 Franco fa un cenno con la testa. «Andiamo al **cimitero**,» dice Franco.
 
-«Io **vengo** con Lei?» chiede Kevin.
+«Io **vengo** con te?» chiede Kevin.
 
 «Sì. Porti tu i **fiori**,» dice Franco. Kevin prende un mazzo di **fiori**. Il mazzo è pesante e profuma.
 
@@ -438,9 +438,9 @@ Kevin guarda la **tomba** e la **candela** accesa. «Grazie, Franco,» dice Kevi
 
 _Oggi imparo una parola nuova._ _Ognissanti non è Halloween. Ognissanti è la festa dei fiori._ _Adesso io capisco qualcosa._
 
-## 7. Casa Carter, Via dei Tigli 14 · lunedì mattina
+## 7. Casa Carter, Via dei Tigli 14 · domenica mattina
 
-È lunedì mattina, quasi mezzogiorno. Kevin **torna** dal **cimitero** con Leo. Leo è curioso. «Papà, il **vaso** con i fiori resta alla **tomba**?» chiede Leo.
+È domenica mattina, quasi mezzogiorno. Kevin **torna** dal **cimitero** con Leo. Leo è curioso. «Papà, il **vaso** con i fiori resta alla **tomba**?» chiede Leo.
 
 «Sì, resta alla **tomba**,» dice Kevin.
 

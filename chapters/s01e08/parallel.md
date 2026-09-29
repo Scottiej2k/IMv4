@@ -35,14 +35,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Kevin, noi abitiamo in Italia,» dice Chiara. | “Kevin, we live in Italy,” Chiara says. |
 | «Lo so,» dice Kevin. | “I know,” Kevin says. |
 | «In Italia Halloween non è una **festa** vera,» dice Chiara. | “In Italy Halloween isn't a real **holiday**,” Chiara says. |
-| «Qui la **festa** vera è lunedì,» continua Chiara. | “Here the real **holiday** is Monday,” Chiara goes on. |
-| «Lunedì? Che **festa** c'è lunedì?» chiede Kevin. | “Monday? What **holiday** is there on Monday?” Kevin asks. |
+| «Qui la **festa** vera è domenica,» continua Chiara. | “Here the real **holiday** is Sunday,” Chiara goes on. |
+| «Domenica? Che **festa** c'è domenica?» chiede Kevin. | “Sunday? What **holiday** is there on Sunday?” Kevin asks. |
 | «Ognissanti,» dice Chiara. | “All Saints' Day,” Chiara says. |
 | Kevin non capisce la parola. | Kevin doesn't understand the word. |
 | Chiara guarda l'orologio e sospira. | Chiara looks at the clock and sighs. |
 | «Adesso prendo il treno. **Parliamo** dopo,» dice Chiara. | “I'm taking the train now. We'll **talk** later,” Chiara says. |
-| «Lunedì ti **spiego**,» dice, e chiude la finestra. | “On Monday I'll **explain** it to you,” she says, and closes the window. |
-| _Lunedì è Ognissanti. Kevin non lo sa._ | _Monday is All Saints' Day. Kevin doesn't know it._ |
+| «Domenica ti **spiego**,» dice, e chiude la finestra. | “On Sunday I'll **explain** it to you,” she says, and closes the window. |
 | In quel momento la porta della casa si apre. | At that moment the house door opens. |
 | Esce Leo, con un **costume** nero da vampiro. | Out comes Leo, in a black vampire **costume**. |
 | «Sono un vampiro!» dice Leo. | “I'm a vampire!” Leo says. |
@@ -94,7 +93,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | La **luce** del pomeriggio è gialla e dolce. | The afternoon **light** is yellow and soft. |
 | «La **luce** delle **candele** è bellissima!» dice Kevin. | “The **light** of the **candles** is beautiful!” Kevin says. |
 | «Papà, la **zucca** è alta come me e te!» dice Leo. | “Dad, the **pumpkin** is as tall as you and me together!” Leo says. |
-| Kevin **decoro** — no. Kevin ride e guarda la **zucca** con lui. | Kevin laughs and looks at the **pumpkin** with him. |
+| Kevin ride e guarda la **zucca** con lui. | Kevin laughs and looks at the **pumpkin** with him. |
 | «Leo, la **zucca** è una sorpresa per la strada,» dice Kevin. | “Leo, the **pumpkin** is a surprise for the street,” Kevin says. |
 | Una porta si apre dalla parte del numero undici. | A door opens over at number eleven. |
 | Arriva il signor Roberto Colombo, con una **lettera** in mano. | Mr. Roberto Colombo arrives, with a **letter** in his hand. |
@@ -125,7 +124,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella guarda la **zucca** grande e sorride. | Ornella looks at the big **pumpkin** and smiles. |
 | «Signor Carter!» chiama Ornella. | “Mr. Carter!” Ornella calls. |
 | «Buongiorno, signora Galli,» dice Kevin. | “Good morning, Mrs. Galli,” Kevin says. |
-| «Signor Carter, lunedì è Ognissanti,» dice Ornella. | “Mr. Carter, Monday is All Saints' Day,” Ornella says. |
+| «Signor Carter, domenica è Ognissanti,» dice Ornella. | “Mr. Carter, Sunday is All Saints' Day,” Ornella says. |
 | «Ognissanti?» chiede Kevin. | “All Saints' Day?” Kevin asks. |
 | «A Ognissanti le persone vanno al **cimitero**,» dice Ornella. | “On All Saints' Day people go to the **cemetery**,” Ornella says. |
 | «Al **cimitero**? Perché?» chiede Kevin. | “To the **cemetery**? Why?” Kevin asks. |
@@ -154,7 +153,80 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, io **preferisco** i biscotti della signora Ornella,» dice Leo. | “Dad, I **prefer** Mrs. Ornella's cookies,” Leo says. |
 | Kevin ride, ma guarda ancora la strada. | Kevin laughs, but he still looks at the street. |
 
-## 3. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
+## 3. Bar Tigli · sabato mattina
+
+| Italiano | English |
+|---|---|
+| È sabato mattina e Kevin entra nel Bar Tigli. | It's Saturday morning and Kevin walks into Bar Tigli. |
+| Dietro il banco c'è Matteo, con un sorriso grande. | Behind the counter there's Matteo, with a big smile. |
+| «Buongiorno, Kevin!» dice Matteo. | “Good morning, Kevin!” Matteo says. |
+| «Buongiorno, Matteo!» dice Kevin. | “Good morning, Matteo!” Kevin says. |
+| Kevin mostra il telefono a Matteo. | Kevin shows his phone to Matteo. |
+| Sul telefono ci sono le foto del giardino con la **zucca** grande. | On the phone there are photos of the garden with the big **pumpkin**. |
+| Matteo guarda le foto e ride forte. | Matteo looks at the photos and laughs loudly. |
+| «Kevin, che bella **zucca**!» dice Matteo. | “Kevin, what a nice **pumpkin**!” Matteo says. |
+| «È una **zucca** da **festa** americana,» dice Kevin. | “It's a **pumpkin** for an American **holiday**,” Kevin says. |
+| «Una **zucca** di plastica di due metri per un uomo di quarantuno anni,» dice Matteo. | “A two-meter plastic **pumpkin** for a forty-one-year-old man,” Matteo says. |
+| «Sì! Perfetto!» dice Kevin. | “Yes! Perfect!” Kevin says. |
+| «Matteo, ti **spiego** Halloween,» dice Kevin. | “Matteo, let me **explain** Halloween to you,” Kevin says. |
+| «Ok, **spiega**,» dice Matteo, e prepara un caffè. | “OK, **explain**,” Matteo says, and makes a coffee. |
+| «I bambini **bussano** alle porte e dicono **dolcetto o scherzetto**,» dice Kevin. | “The kids knock at the doors and say **trick or treat**,” Kevin says. |
+| «Poi le persone **regalano** le **caramelle**,» dice Kevin. | “Then people **give** **candies** as presents,” Kevin says. |
+| «Tutto qui?» chiede Matteo. | “That's all?” Matteo asks. |
+| «No! Le zucche, le candele, la **festa**...» dice Kevin. | “No! The pumpkins, the candles, the **party**...” Kevin says. |
+| «Ah, la **festa**,» dice Matteo, senza entusiasmo. | “Ah, the **party**,” Matteo says, without enthusiasm. |
+| La porta del bar si apre ed entra Franco. | The bar door opens and Franco comes in. |
+| Franco guarda Kevin e poi guarda il telefono. | Franco looks at Kevin and then looks at the phone. |
+| «Buongiorno, Franco!» dice Kevin. | “Good morning, Franco!” Kevin says. |
+| Franco non risponde subito. | Franco doesn't answer right away. |
+| «Un caffè, Matteo,» dice Franco. | “A coffee, Matteo,” Franco says. |
+| «Subito, papà,» dice Matteo. | “Right away, Dad,” Matteo says. |
+| «Che cos'è questa **festa** americana?» chiede Franco. | “What is this American **holiday**?” Franco asks. |
+| «È Halloween!» dice Kevin. | “It's Halloween!” Kevin says. |
+| «E domani?» chiede Franco. | “And tomorrow?” Franco asks. |
+| «Domani... domenica,» dice Kevin. | “Tomorrow... Sunday,” Kevin says. |
+| «Domani è Ognissanti,» dice Franco. | “Tomorrow is All Saints' Day,” Franco says. |
+| Franco prende il caffè e **parla** lentamente. | Franco takes the coffee and **speaks** slowly. |
+| «A Ognissanti in Italia si va al **cimitero**,» dice Franco. | “On All Saints' Day in Italy you go to the **cemetery**,” Franco says. |
+| «Al **cimitero**?» chiede Kevin. | “To the **cemetery**?” Kevin asks. |
+| «Sì. Ogni anno **compro** i **fiori** e un **vaso**,» dice Franco. | “Yes. Every year I **buy** the **flowers** and a **vase**,” Franco says. |
+| «I **fiori** per la **tomba** di mia moglie,» dice Franco. | “The **flowers** for my wife's **grave**,” Franco says. |
+| Kevin non sa che cosa dire. | Kevin doesn't know what to say. |
+| «Franco, io **spiego** —» dice Kevin. | “Franco, I **explain** —” Kevin says. |
+| «Non **spiegare** niente,» dice Franco. | “Don't **explain** anything,” Franco says. |
+| «**Spiego** io. A Ognissanti la **festa** è per i morti,» dice Franco. | “I'll **explain**. On All Saints' Day the **holiday** is for the dead,” he says. |
+| «Non è una **festa** per le zucche,» dice Franco. | “It's not a **holiday** for pumpkins,” Franco says. |
+| «Franco, perché nessuno mi **spiega** prima?» chiede Kevin. | “Franco, why doesn't anybody **explain** it to me first?” Kevin asks. |
+| Franco guarda Kevin e beve il caffè. | Franco looks at Kevin and drinks his coffee. |
+| «Tra il dire e il fare c'è di mezzo il mare,» dice Franco. | “Between saying and doing there's the sea in between,” Franco says. |
+| Kevin non capisce il proverbio. | Kevin doesn't understand the proverb. |
+| La porta del bar si apre di nuovo. | The bar door opens again. |
+| Entra il signor Roberto con una **lettera** in mano. | Mr. Roberto comes in with a **letter** in his hand. |
+| «Buongiorno, signor Carter,» dice Roberto. | “Good morning, Mr. Carter,” Roberto says. |
+| «Buongiorno, signor Colombo,» dice Kevin. | “Good morning, Mr. Colombo,” Kevin says. |
+| Roberto mette la **lettera** sul banco. | Roberto puts the **letter** on the counter. |
+| «Questa **lettera** è per il signor Carter,» dice Roberto. | “This **letter** is for Mr. Carter,” Roberto says. |
+| «Un'altra **lettera**?» chiede Kevin. | “Another **letter**?” Kevin asks. |
+| «La **regola** del Comitato parla della **zucca** grande,» dice Roberto. | “The Committee's **rule** is about the big **pumpkin**,” Roberto says. |
+| Matteo prende la **lettera** e legge a voce alta. | Matteo takes the **letter** and reads it aloud. |
+| «Ai sensi della **regola** numero dodici...» legge Matteo. | “Under **rule** number twelve...” Matteo reads. |
+| «Matteo!» dice Roberto. | “Matteo!” Roberto says. |
+| Matteo ride con la **lettera** in mano. | Matteo laughs with the **letter** in his hand. |
+| «Una **regola** per una zucca di plastica,» dice Matteo. | “A **rule** for a plastic pumpkin,” Matteo says. |
+| «**Lavoro** per il quartiere, signor Ferri,» dice Roberto. | “I **work** for the neighborhood, Mr. Ferri,” Roberto says. |
+| Franco finisce il caffè e **torna** verso la porta. | Franco finishes his coffee and **goes back** toward the door. |
+| «Americano!» chiama Franco. | “American!” Franco calls. |
+| «Sì?» dice Kevin. | “Yes?” Kevin says. |
+| «Domani mattina, alle nove, al numero nove,» dice Franco. | “Tomorrow morning, at nine, at number nine,” Franco says. |
+| «Perché?» chiede Kevin. | “Why?” Kevin asks. |
+| Franco non risponde. | Franco doesn't answer. |
+| «Alle nove. Non alle dieci,» dice Franco, e esce. | “At nine. Not at ten,” Franco says, and walks out. |
+| Kevin guarda Matteo e Matteo apre le braccia. | Kevin looks at Matteo and Matteo opens his arms. |
+| «Niente **spiegazione**?» chiede Kevin. | “No **explanation**?” Kevin asks. |
+| «Niente,» dice Matteo. | “None,” Matteo says. |
+| Kevin **torna** a casa e pensa alla **tomba** di Anna. | Kevin **goes back** home and thinks about Anna's **grave**. |
+
+## 4. Casa Carter, Via dei Tigli 14 · sabato pomeriggio
 
 | Italiano | English |
 |---|---|
@@ -206,13 +278,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Dolcetto o scherzetto**?» ripete Kevin. | “**Trick or treat**?” Kevin repeats. |
 | «No. **Dolcetto** *o* **scherzetto**. La o è importante,» dice Emma. | “No. **Dolcetto** _or_ **scherzetto**. The _or_ matters,” Emma says. |
 | «**Dolcetto o scherzetto**!» dice Kevin, adesso bene. | “**Trick or treat**!” Kevin says, correctly this time. |
-| Emma **compra** le **caramelle** con Kevin al supermercato? No. | Does Emma **buy** the **candies** with Kevin at the supermarket? No. |
-| Emma guarda la scatola e prende un sacchetto. | Emma looks at the box and takes a bag. |
 | «Io **preparo** i sacchetti piccoli,» dice Emma. | “I'm **getting** the little bags ready,” Emma says. |
 | «Grazie, Emma!» dice Kevin. | “Thanks, Emma!” Kevin says. |
 | «Non è per te. È per Leo,» dice Emma. | “It's not for you. It's for Leo,” Emma says. |
 | Emma e Kevin **preparano** i sacchetti **insieme**. | Emma and Kevin **get** the bags ready **together**. |
-| Emma **compra** anche una **zucca** di carta per la porta. | Emma also **buys** a paper **pumpkin** for the door. |
+| Emma **decora** anche una **zucca** di carta per la porta. | Emma also **decorates** a paper **pumpkin** for the door. |
 | «Bella, questa **zucca**,» dice Emma. | “Nice, this **pumpkin**,” Emma says. |
 | Leo disegna ancora la mappa della strada. | Leo is still drawing the map of the street. |
 | «Papà, la **notte** di Halloween **giochiamo** **insieme**?» chiede Leo. | “Dad, on Halloween **night** are we **playing** **together**?” Leo asks. |
@@ -229,7 +299,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. La strada **spera** in una **sorpresa** piccola,» dice Emma. | “Yes. The street **hopes** for a small **surprise**,” Emma says. |
 | _Mio padre è ridicolo. Ma io vengo con loro._ | _My father is ridiculous. But I'm coming with them._ |
 
-## 4. Via dei Tigli · sabato sera
+## 5. Via dei Tigli · sabato sera
 
 | Italiano | English |
 |---|---|
@@ -268,9 +338,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella guarda la **zucca** grande nel giardino. | Ornella looks at the big **pumpkin** in the garden. |
 | «La **zucca** è bella, signor Carter,» dice Ornella. | “The **pumpkin** is nice, Mr. Carter,” Ornella says. |
 | «Grazie, signora Galli!» dice Kevin. | “Thank you, Mrs. Galli!” Kevin says. |
-| «Ma lunedì vado al **cimitero**,» dice Ornella. | “But on Monday I'm going to the **cemetery**,” Ornella says. |
+| «Ma domenica vado al **cimitero**,» dice Ornella. | “But on Sunday I'm going to the **cemetery**,” Ornella says. |
 | «Al **cimitero**?» chiede Kevin. | “To the **cemetery**?” Kevin asks. |
-| «Sì. Lunedì è Ognissanti,» dice Ornella. | “Yes. Monday is All Saints' Day,” Ornella says. |
+| «Sì. Domenica è Ognissanti,» dice Ornella. | “Yes. Sunday is All Saints' Day,” Ornella says. |
 | «Io porto i **fiori** alla **tomba** di Gino,» dice Ornella. | “I bring **flowers** to Gino's **grave**,” Ornella says. |
 | «I **fiori** sono per la **tomba**, ma anche per me,» dice. | “The **flowers** are for the **grave**, but also for me,” she says. |
 | «Accendo una **candela** e **parlo** con lui,» dice Ornella. | “I light a **candle** and I **talk** with him,” Ornella says. |
@@ -289,8 +359,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché è contro la **regola** del Comitato,» dice Roberto. | “Because it's against the Committee's **rule**,” Roberto says. |
 | «Ma è Halloween!» dice Kevin. | “But it's Halloween!” Kevin says. |
 | «È una **festa** americana,» dice Roberto. | “It's an American **holiday**,” Roberto says. |
-| «La **festa** italiana è lunedì,» dice Roberto. | “The Italian **holiday** is Monday,” Roberto says. |
-| «Lunedì vado al **cimitero**, non **gioco** alla porta,» dice. | “On Monday I go to the **cemetery**, I don't **play** at the door,” he says. |
+| «La **festa** italiana è domenica,» dice Roberto. | “The Italian **holiday** is Sunday,” Roberto says. |
+| «Domenica vado al **cimitero**, non **gioco** alla porta,» dice. | “On Sunday I go to the **cemetery**, I don't **play** at the door,” he says. |
 | Roberto chiude la porta. | Roberto closes the door. |
 | Leo guarda la porta chiusa e non capisce. | Leo looks at the closed door and doesn't understand. |
 | «Papà, il signor Colombo non **gioca**,» dice Leo. | “Dad, Mr. Colombo isn't **playing**,” Leo says. |
@@ -326,84 +396,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Via dei Tigli non vede mai tante zucche._ | _Via dei Tigli never sees so many pumpkins._ |
 | _Forse è una sorpresa per me, non per loro._ | _Maybe it's a surprise for me, not for them._ |
 
-## 5. Bar Tigli · domenica mattina
+## 6. Il cimitero di Borgoverde · domenica mattina
 
 | Italiano | English |
 |---|---|
-| È domenica mattina e Kevin entra nel Bar Tigli. | It's Sunday morning and Kevin walks into Bar Tigli. |
-| Dietro il banco c'è Matteo, con un sorriso grande. | Behind the counter there's Matteo, with a big smile. |
-| «Buongiorno, Kevin!» dice Matteo. | “Good morning, Kevin!” Matteo says. |
-| «Buongiorno, Matteo!» dice Kevin. | “Good morning, Matteo!” Kevin says. |
-| Kevin mostra il telefono a Matteo. | Kevin shows his phone to Matteo. |
-| Sul telefono ci sono le foto del **costume** da zucca. | On the phone there are the photos of the pumpkin **costume**. |
-| Matteo guarda le foto e ride forte. | Matteo looks at the photos and laughs loudly. |
-| «Kevin, che bel **costume**!» dice Matteo. | “Kevin, what a nice **costume**!” Matteo says. |
-| «È un **costume** da **festa** americana,» dice Kevin. | “It's a **costume** for an American **holiday**,” Kevin says. |
-| «Un **costume** da zucca per un uomo di quarantuno anni,» dice Matteo. | “A pumpkin **costume** for a forty-one-year-old man,” Matteo says. |
-| «Sì! Perfetto!» dice Kevin. | “Yes! Perfect!” Kevin says. |
-| «Matteo, ti **spiego** Halloween,» dice Kevin. | “Matteo, let me **explain** Halloween to you,” Kevin says. |
-| «Ok, **spiega**,» dice Matteo, e prepara un caffè. | “OK, **explain**,” Matteo says, and makes a coffee. |
-| «I bambini **bussano** alle porte e dicono **dolcetto o scherzetto**,» dice Kevin. | “The kids knock at the doors and say **trick or treat**,” Kevin says. |
-| «Poi le persone **regalano** le **caramelle**,» dice Kevin. | “Then people **give** **candies** as presents,” Kevin says. |
-| «Tutto qui?» chiede Matteo. | “That's all?” Matteo asks. |
-| «No! Le zucche, le candele, la **festa**...» dice Kevin. | “No! The pumpkins, the candles, the **party**...” Kevin says. |
-| «Ah, la **festa**,» dice Matteo, senza entusiasmo. | “Ah, the **party**,” Matteo says, without enthusiasm. |
-| La porta del bar si apre ed entra Franco. | The bar door opens and Franco comes in. |
-| Franco guarda Kevin e poi guarda il telefono. | Franco looks at Kevin and then looks at the phone. |
-| «Buongiorno, Franco!» dice Kevin. | “Good morning, Franco!” Kevin says. |
-| Franco non risponde subito. | Franco doesn't answer right away. |
-| «Un caffè, Matteo,» dice Franco. | “A coffee, Matteo,” Franco says. |
-| «Subito, papà,» dice Matteo. | “Right away, Dad,” Matteo says. |
-| «Che cos'è questa **festa** americana?» chiede Franco. | “What is this American **holiday**?” Franco asks. |
-| «È Halloween!» dice Kevin. | “It's Halloween!” Kevin says. |
-| «E domani?» chiede Franco. | “And tomorrow?” Franco asks. |
-| «Domani... lunedì,» dice Kevin. | “Tomorrow... Monday,” Kevin says. |
-| «Domani è Ognissanti,» dice Franco. | “Tomorrow is All Saints' Day,” Franco says. |
-| Franco prende il caffè e **parla** lentamente. | Franco takes the coffee and **speaks** slowly. |
-| «A Ognissanti in Italia si va al **cimitero**,» dice Franco. | “On All Saints' Day in Italy you go to the **cemetery**,” Franco says. |
-| «Al **cimitero**?» chiede Kevin. | “To the **cemetery**?” Kevin asks. |
-| «Sì. Ogni anno **compro** i **fiori** e un **vaso**,» dice Franco. | “Yes. Every year I **buy** the **flowers** and a **vase**,” Franco says. |
-| «I **fiori** per la **tomba** di mia moglie,» dice Franco. | “The **flowers** for my wife's **grave**,” Franco says. |
-| Kevin non sa che cosa dire. | Kevin doesn't know what to say. |
-| «Franco, io **spiego** —» dice Kevin. | “Franco, I **explain** —” Kevin says. |
-| «Non **spiegare** niente,» dice Franco. | “Don't **explain** anything,” Franco says. |
-| «**Spiego** io. A Ognissanti la **festa** è per i morti,» dice Franco. | “I'll **explain**. On All Saints' Day the **holiday** is for the dead,” he says. |
-| «Non è una **festa** per le zucche,» dice Franco. | “It's not a **holiday** for pumpkins,” Franco says. |
-| «Franco, perché nessuno mi **spiega** prima?» chiede Kevin. | “Franco, why doesn't anybody **explain** it to me first?” Kevin asks. |
-| Franco guarda Kevin e beve il caffè. | Franco looks at Kevin and drinks his coffee. |
-| «Tra il dire e il fare c'è di mezzo il mare,» dice Franco. | “Between saying and doing there's the sea in between,” Franco says. |
-| Kevin non capisce il proverbio. | Kevin doesn't understand the proverb. |
-| La porta del bar si apre di nuovo. | The bar door opens again. |
-| Entra il signor Roberto con una **lettera** in mano. | Mr. Roberto comes in with a **letter** in his hand. |
-| «Buongiorno, signor Carter,» dice Roberto. | “Good morning, Mr. Carter,” Roberto says. |
-| «Buongiorno, signor Colombo,» dice Kevin. | “Good morning, Mr. Colombo,” Kevin says. |
-| Roberto mette la **lettera** sul banco. | Roberto puts the **letter** on the counter. |
-| «Questa **lettera** è per il signor Carter,» dice Roberto. | “This **letter** is for Mr. Carter,” Roberto says. |
-| «Un'altra **lettera**?» chiede Kevin. | “Another **letter**?” Kevin asks. |
-| «La **regola** del Comitato parla della **zucca** grande,» dice Roberto. | “The Committee's **rule** is about the big **pumpkin**,” Roberto says. |
-| Matteo prende la **lettera** e legge a voce alta. | Matteo takes the **letter** and reads it aloud. |
-| «Ai sensi della **regola** numero dodici...» legge Matteo. | “Under **rule** number twelve...” Matteo reads. |
-| «Matteo!» dice Roberto. | “Matteo!” Roberto says. |
-| Matteo ride con la **lettera** in mano. | Matteo laughs with the **letter** in his hand. |
-| «Una **regola** per una zucca di plastica,» dice Matteo. | “A **rule** for a plastic pumpkin,” Matteo says. |
-| «**Lavoro** per il quartiere, signor Ferri,» dice Roberto. | “I **work** for the neighborhood, Mr. Ferri,” Roberto says. |
-| Franco finisce il caffè e **torna** verso la porta. | Franco finishes his coffee and **goes back** toward the door. |
-| «Signor Carter!» chiama Franco. | “Mr. Carter!” Franco calls. |
-| «Sì?» dice Kevin. | “Yes?” Kevin says. |
-| «Domani mattina, alle nove, al numero nove,» dice Franco. | “Tomorrow morning, at nine, at number nine,” Franco says. |
-| «Perché?» chiede Kevin. | “Why?” Kevin asks. |
-| Franco non risponde. | Franco doesn't answer. |
-| «Alle nove. Non alle dieci,» dice Franco, e esce. | “At nine. Not at ten,” Franco says, and walks out. |
-| Kevin guarda Matteo e Matteo apre le braccia. | Kevin looks at Matteo and Matteo opens his arms. |
-| «Niente **spiegazione**?» chiede Kevin. | “No **explanation**?” Kevin asks. |
-| «Niente,» dice Matteo. | “None,” Matteo says. |
-| Kevin **torna** a casa e pensa alla **tomba** di Anna. | Kevin **goes back** home and thinks about Anna's **grave**. |
-
-## 6. cimitero · lunedì mattina
-
-| Italiano | English |
-|---|---|
-| È lunedì mattina, alle nove meno cinque. | It's Monday morning, at five to nine. |
+| È domenica mattina, alle nove meno cinque. | It's Sunday morning, at five to nine. |
 | Davanti alla casa numero nove c'è Franco. | In front of house number nine there's Franco. |
 | Franco **prepara** un secchio di acqua. | Franco **gets** a bucket of water ready. |
 | Nel secchio c'è l'acqua per i **fiori**. | In the bucket there's water for the **flowers**. |
@@ -412,7 +409,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Buongiorno, Franco,» dice Kevin. | “Good morning, Franco,” Kevin says. |
 | Franco fa un cenno con la testa. | Franco nods with his head. |
 | «Andiamo al **cimitero**,» dice Franco. | “Let's go to the **cemetery**,” Franco says. |
-| «Io **vengo** con Lei?» chiede Kevin. | “Am I coming with you?” Kevin asks. |
+| «Io **vengo** con te?» chiede Kevin. | “Am I **coming** with you?” Kevin asks. |
 | «Sì. Porti tu i **fiori**,» dice Franco. | “Yes. You carry the **flowers**,” Franco says. |
 | Kevin prende un mazzo di **fiori**. | Kevin takes one bunch of **flowers**. |
 | Il mazzo è pesante e profuma. | The bunch is heavy and smells good. |
@@ -482,11 +479,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Ognissanti non è Halloween. Ognissanti è la festa dei fiori._ | _All Saints' Day isn't Halloween. All Saints' Day is the holiday of flowers._ |
 | _Adesso io capisco qualcosa._ | _Now I understand something._ |
 
-## 7. Casa Carter, Via dei Tigli 14 · lunedì mattina
+## 7. Casa Carter, Via dei Tigli 14 · domenica mattina
 
 | Italiano | English |
 |---|---|
-| È lunedì mattina, quasi mezzogiorno. | It's Monday morning, almost noon. |
+| È domenica mattina, quasi mezzogiorno. | It's Sunday morning, almost noon. |
 | Kevin **torna** dal **cimitero** con Leo. | Kevin **comes back** from the **cemetery** with Leo. |
 | Leo è curioso. | Leo is curious. |
 | «Papà, il **vaso** con i fiori resta alla **tomba**?» chiede Leo. | “Dad, does the **vase** with the flowers stay at the **grave**?” Leo asks. |

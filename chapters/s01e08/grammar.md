@@ -41,16 +41,16 @@ A reminder that *ci sono* is "there are", used here with a plural noun.
 «Venti **zucche**, venti **candele**!» dice Kevin. — “Twenty **pumpkins**, twenty **candles**!” Kevin says. (`s01e08-2-005`)
 Plural nouns *zucche*, *candele* are the things Kevin is busy decorating.
 
-«Matteo, ti **spiego** Halloween,» dice Kevin. — “Matteo, let me **explain** Halloween to you,” Kevin says. (`s01e08-5-012`)
+«Matteo, ti **spiego** Halloween,» dice Kevin. — “Matteo, let me **explain** Halloween to you,” Kevin says. (`s01e08-3-012`)
 First person singular: *io* → *spieg**o***, with the *h* gone in the *io* form, and the hard sound coming back in *spieghi*, *spieghiamo*.
 
-«Ok, **spiega**,» dice Matteo, e prepara un caffè. — “OK, **explain**,” Matteo says, and makes a coffee. (`s01e08-5-013`)
+«Ok, **spiega**,» dice Matteo, e prepara un caffè. — “OK, **explain**,” Matteo says, and makes a coffee. (`s01e08-3-013`)
 Second person singular *tu* → *spieg**a***; third person singular *lui* → *prepar**a***.
 
-«I bambini **bussano** alle porte e dicono **dolcetto o scherzetto**,» dice Kevin. — “The kids knock at the doors and say **trick or treat**,” Kevin says. (`s01e08-5-014`)
+«I bambini **bussano** alle porte e dicono **dolcetto o scherzetto**,» dice Kevin. — “The kids knock at the doors and say **trick or treat**,” Kevin says. (`s01e08-3-014`)
 Third person plural: *loro* → *buss**ano***, "they knock".
 
-«Sì. Ogni anno **compro** i **fiori** e un **vaso**,» dice Franco. — “Yes. Every year I **buy** the **flowers** and a **vase**,” Franco says. (`s01e08-5-033`)
+«Sì. Ogni anno **compro** i **fiori** e un **vaso**,» dice Franco. — “Yes. Every year I **buy** the **flowers** and a **vase**,” Franco says. (`s01e08-3-033`)
 First person singular: *io* → *compr**o***.
 
 «A Ognissanti la **festa** è qui,» dice. — “On All Saints' Day the **holiday** is here,” he says. (`s01e08-6-052`)

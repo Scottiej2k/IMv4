@@ -44,3 +44,4 @@ Use real landmarks, kept accurate and not too specific (no opening hours or pric
 | `milano-garibaldi` | Porta Garibaldi station and Porta Nuova (skyscrapers, Bosco Verticale) | Arrivals, the city vs the suburb |
 | `san-siro` | San Siro stadium | Milan vs Inter derby episodes |
 | `ospedale` | Hospital in Monza | The baby's birth, Franco's health scare |
+| `cimitero` | The small, quiet cemetery of Borgoverde, where Anna Ferri lies | Ognissanti (S1E8), memories, Franco |
