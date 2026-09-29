@@ -50,7 +50,7 @@ Two small changes to watch:
 - **Ages:** *Ho quarantuno anni.* — *Emma: quindici anni. Leo: otto anni.*
 - **Prices:** *Il caffè è uno e venti.* (€1.20). For euros and cents, say the euro number, then *e*, then the cents.
 - **Phone numbers and addresses:** you usually read them **digit by digit**: *tre, quattro, sette, uno…* For an address like 14, you can say the whole word (**quattordici**) or read it in parts (*uno, quattro*), but the whole word is the normal way.
-- **Area codes:** Italian landlines and cells start with a fixed prefix, il **prefisso**: **zero due** (02) is Milan and its province, so Borgoverde too.
+- **Area codes:** Italian landline numbers start with a fixed prefix, il **prefisso**: **zero due** (02) is Milan and its province, so Borgoverde too. Cell phone numbers have no area code: they start with **tre** (3).
 - **The question:** *Qual è il tuo numero?* — *Il mio numero è…*
 
 ## From the story

@@ -38,7 +38,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 «Sì. Il tuo **cellulare**.»
 
-«**Tre, tre, nove, uno, quattro, sei, sette, due**.» Kevin ripete piano.
+«**Sette, zero, tre, tre, cinque, uno, nove, quattro**.» Kevin ripete piano.
 
 Poi Chiara parla di Emma e di Leo. «Emma: **quindici** anni. Leo: **otto** anni.»
 
@@ -62,7 +62,7 @@ Poi Chiara parla di Emma e di Leo. «Emma: **quindici** anni. Leo: **otto** anni
 
 «**Diciassette** non è difficile.»
 
-«Per me sì.» _Tre volte, e domani lo dico allo sportello._ _Bene. Domani lo dico bene._
+«Per me sì.» _Tre volte, e oggi lo dico allo sportello._ _Bene. Oggi lo dico bene._
 
 In quel momento Emma arriva in cucina. Ha il **cellulare** in mano e la faccia stanca. «Buongiorno.»
 
@@ -134,11 +134,7 @@ Chiara guarda l'orologio. «Emma, il treno **sette e venti**.»
 
 ## 2. Municipio di Borgoverde · lunedì mattina
 
-È lunedì mattina e Kevin arriva al **municipio**. Il municipio di Borgoverde è un palazzo grande e vecchio. Dentro ci sono molte persone e molti cartelli. Kevin guarda i cartelli con attenzione. «Ufficio **uno**… ufficio **due**… ufficio **sette**.» Kevin ha un **documento**, un **modulo** e una **penna**. Ha anche il quaderno giallo con la parola **diciassette**. «Allora. Ufficio **due**. Tributi.» _Tributi è una parola nuova. Ma il modulo è qui._ Kevin va all'ufficio **due** e prende un **turno**. Il suo **turno** è il **quindici**. Sul muro c'è un piccolo schermo. Lo schermo dice: **quattordici**. «**Quattordici**. Io ho il **quindici**.» Kevin guarda lo schermo. Davanti a Kevin c'è una **coda** lunga. La **coda** è di dieci persone. Kevin **aspetta** con il **modulo** in mano. **Aspetta** e ripete i numeri piano. «**Quattordici**… **diciassette**… **zero due**…» Lo schermo dice **quindici**. Un uomo si alza e va allo **sportello**.
-
-«Il prossimo!» dice una voce. Lo schermo dice **sedici**.
-
-Kevin guarda il suo **turno** e poi lo schermo. «**Sedici**. Il mio è **quindici**.» _Forse il quindici è il mio numero e anche l'ora._ Nella **coda** tutti guardano il cellulare. Nessuno parla. Kevin **aspetta** ancora. Lo schermo dice **diciassette**. «**Diciassette**!» Kevin alza la mano. Davanti allo **sportello** **due** c'è una **impiegata** con gli occhiali. L'**impiegata** guarda Kevin senza un sorriso.
+È lunedì mattina e Kevin arriva al **municipio**. Il municipio di Borgoverde è un palazzo grande e vecchio. Dentro ci sono molte persone e molti cartelli. Kevin guarda i cartelli con attenzione. «Ufficio **uno**… ufficio **due**… ufficio **sette**.» Kevin ha un **documento**, un **modulo** e una **penna**. Ha anche il quaderno giallo con la parola **diciassette**. «Allora. Ufficio **due**. Tributi.» _Tributi è una parola nuova. Ma il modulo è qui._ Kevin va all'ufficio **due** e prende un **turno**. Il suo **turno** è il **quindici**. Sul muro c'è un piccolo schermo. Lo schermo dice: **uno**. «**Uno**. Io ho il **quindici**.» Kevin guarda lo schermo. Davanti a Kevin c'è una **coda** lunga. La **coda** è di quindici persone. Kevin **aspetta** con il **modulo** in mano. **Aspetta** e ripete i numeri piano. «**Quattordici**… **diciassette**… **zero due**…» Nella **coda** tutti guardano il cellulare. Nessuno parla. Lo schermo dice **due**. Poi **cinque**. Poi **dieci**. Kevin **aspetta** ancora. Lo schermo dice **quindici**. «**Quindici**!» Kevin alza la mano. Davanti allo **sportello** **due** c'è una **impiegata** con gli occhiali. L'**impiegata** guarda Kevin senza un sorriso.
 
 «Il prossimo!»
 
@@ -356,7 +352,7 @@ Kevin salta. _Ancora “Il prossimo!”. Che parola!_
 
 «Tutti. Tredici studenti.»
 
-Emma guarda la **lista** e poi il suo **cellulare**. _Tredici numeri. E io non so dire il mio numero in italiano._ _voglio_ scrivere il numero. Solo scrivere. Ma la **lista** è una **lista** di parole._
+Emma guarda la **lista** e poi il suo **cellulare**. _Tredici numeri. E io non so dire il mio numero in italiano._ _Scrivere il numero è facile. Dire il numero ad alta voce è difficile._
 
 Bianca guarda Emma con attenzione. «Emma? Tutto bene?»
 
@@ -390,7 +386,7 @@ Bianca prende la **lista**. «Dai, Emma. Dammi il tuo **cellulare**.»
 
 «Perché?»
 
-«Dammi il **cellulare**. Adesso.» Emma dà il **cellulare** a Bianca. Bianca apre il telefono e legge il numero. «**Prefisso** **tre**, **tre**, **nove**…» Bianca legge ogni cifra piano. «**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**.» Emma ascolta senza parlare. «Questo è il numero di Emma!» dice alla classe. Bianca scrive il numero sulla **lista**. Lei scrive ogni cifra con attenzione. «**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**. Fatto.» Emma guarda la **lista**. Il suo numero è sulla **lista**. «Adesso sei nel **gruppo**.»
+«Dammi il **cellulare**. Adesso.» Emma dà il **cellulare** a Bianca. Bianca apre il telefono e legge il numero. «Allora. **Tre**, **otto**, **nove**…» Bianca legge ogni cifra piano. «**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**.» Emma ascolta senza parlare. «Questo è il numero di Emma!» dice alla classe. Bianca scrive il numero sulla **lista**. Lei scrive ogni cifra con attenzione. «**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**. Fatto.» Emma guarda la **lista**. Il suo numero è sulla **lista**. «Adesso sei nel **gruppo**.»
 
 «Sono nel **gruppo**?»
 
@@ -516,7 +512,7 @@ Matteo prende il quaderno e guarda un'altra pagina. «E qui? Che cos'è? Una **t
 
 «Sì. **Tessera**, **documento**, **modulo**, **firma**. Tutto!»
 
-«E il **prefisso** del **cellulare**?»
+«E il **prefisso** di Borgoverde?»
 
 «**Zero due**. E poi **otto** cifre.»
 
@@ -706,7 +702,7 @@ Leo finisce la pasta e alza la mano. «Papà! Una domanda!»
 
 ## 7. Bar Tigli · martedì mattina
 
-È martedì mattina al Bar Tigli. Franco beve il suo caffè in piedi al bancone. Matteo asciuga un bicchiere e guarda la strada. «Sai, papà? L'americano va al **municipio**.»
+È martedì mattina al Bar Tigli. Franco beve il suo caffè in piedi al bancone. Matteo asciuga un bicchiere e guarda la strada. «Sai, papà? L'americano è un cittadino di Borgoverde.»
 
 «Mah.»
 
@@ -718,11 +714,7 @@ Leo finisce la pasta e alza la mano. «Papà! Una domanda!»
 
 Franco guarda la finestra per un momento. «E l'**indirizzo** è buono.»
 
-«Via dei Tigli? Sì. Buono.»
-
-«E come va all'**Anagrafe**?»
-
-«Bene. Con l'**impiegato** e il modulo.» «Che numero ha? Il **turno**?»
+«Via dei Tigli? Sì. Buono.» «Sai il numero del suo **turno** all'**Anagrafe**?»
 
 Franco mette giù la tazzina. «Non lo so. E non voglio sapere.»
 

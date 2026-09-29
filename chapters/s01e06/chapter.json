@@ -265,7 +265,7 @@
       "lemma": "l'impiegato",
       "pos": "noun",
       "en": "clerk",
-      "example": "s01e06-2-071",
+      "example": "s01e06-2-065",
       "target": {
         "it": "impiegata",
         "en": "clerk"
@@ -301,7 +301,7 @@
       "lemma": "l'anagrafe",
       "pos": "noun",
       "en": "registry office",
-      "example": "s01e06-2-050",
+      "example": "s01e06-2-044",
       "target": {
         "it": "Anagrafe",
         "en": "registry office"
@@ -2252,12 +2252,12 @@
           "segments": [
             {
               "id": "s01e06-1-024",
-              "it": "«**Tre, tre, nove, uno, quattro, sei, sette, due**.» Kevin ripete piano.",
-              "en": "“**Three, three, nine, one, four, six, seven, two**.” Kevin repeats slowly.",
+              "it": "«**Sette, zero, tre, tre, cinque, uno, nove, quattro**.» Kevin ripete piano.",
+              "en": "“**Seven, zero, three, three, five, one, nine, four**.” Kevin repeats slowly.",
               "voice": [
                 [
                   "ben",
-                  "**Tre, tre, nove, uno, quattro, sei, sette, due**.",
+                  "**Sette, zero, tre, tre, cinque, uno, nove, quattro**.",
                   "slowly"
                 ],
                 [
@@ -2273,7 +2273,7 @@
                   ""
                 ],
                 [
-                  "Tre",
+                  "Sette",
                   0,
                   "b"
                 ],
@@ -2283,7 +2283,7 @@
                   "b"
                 ],
                 [
-                  "tre",
+                  "zero",
                   1,
                   "b"
                 ],
@@ -2293,7 +2293,7 @@
                   "b"
                 ],
                 [
-                  "nove",
+                  "tre",
                   2,
                   "b"
                 ],
@@ -2303,7 +2303,7 @@
                   "b"
                 ],
                 [
-                  "uno",
+                  "tre",
                   3,
                   "b"
                 ],
@@ -2313,7 +2313,7 @@
                   "b"
                 ],
                 [
-                  "quattro",
+                  "cinque",
                   4,
                   "b"
                 ],
@@ -2323,7 +2323,7 @@
                   "b"
                 ],
                 [
-                  "sei",
+                  "uno",
                   5,
                   "b"
                 ],
@@ -2333,7 +2333,7 @@
                   "b"
                 ],
                 [
-                  "sette",
+                  "nove",
                   6,
                   "b"
                 ],
@@ -2343,7 +2343,7 @@
                   "b"
                 ],
                 [
-                  "due",
+                  "quattro",
                   7,
                   "b"
                 ],
@@ -3728,12 +3728,12 @@
             },
             {
               "id": "s01e06-1-043",
-              "it": "_Tre volte, e domani lo dico allo sportello._",
-              "en": "_Three times, and tomorrow I say it at the counter._",
+              "it": "_Tre volte, e oggi lo dico allo sportello._",
+              "en": "_Three times, and today I say it at the counter._",
               "voice": [
                 [
                   "ben",
-                  "Tre volte, e domani lo dico allo sportello.",
+                  "Tre volte, e oggi lo dico allo sportello.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -3769,7 +3769,7 @@
                   "i"
                 ],
                 [
-                  "domani",
+                  "oggi",
                   3,
                   "i"
                 ],
@@ -3822,12 +3822,12 @@
             },
             {
               "id": "s01e06-1-044",
-              "it": "_Bene. Domani lo dico bene._",
-              "en": "_Good. Tomorrow I say it well._",
+              "it": "_Bene. Oggi lo dico bene._",
+              "en": "_Good. Today I say it well._",
               "voice": [
                 [
                   "ben",
-                  "Bene. Domani lo dico bene.",
+                  "Bene. Oggi lo dico bene.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -3843,7 +3843,7 @@
                   "i"
                 ],
                 [
-                  "Domani",
+                  "Oggi",
                   1,
                   "i"
                 ],
@@ -7926,12 +7926,12 @@
             },
             {
               "id": "s01e06-2-013",
-              "it": "Lo schermo dice: **quattordici**.",
-              "en": "The screen says: **fourteen**.",
+              "it": "Lo schermo dice: **uno**.",
+              "en": "The screen says: **one**.",
               "voice": [
                 [
                   "narrator",
-                  "Lo schermo dice: **quattordici**.",
+                  "Lo schermo dice: **uno**.",
                   ""
                 ]
               ],
@@ -7967,7 +7967,7 @@
                   ""
                 ],
                 [
-                  "quattordici",
+                  "uno",
                   3,
                   "b"
                 ],
@@ -7983,12 +7983,12 @@
             },
             {
               "id": "s01e06-2-014",
-              "it": "«**Quattordici**. Io ho il **quindici**.» Kevin guarda lo schermo.",
-              "en": "“**Fourteen**. I have **fifteen**.” Kevin looks at the screen.",
+              "it": "«**Uno**. Io ho il **quindici**.» Kevin guarda lo schermo.",
+              "en": "“**One**. I have **fifteen**.” Kevin looks at the screen.",
               "voice": [
                 [
                   "ben",
-                  "**Quattordici**. Io ho il **quindici**.",
+                  "**Uno**. Io ho il **quindici**.",
                   "to himself"
                 ],
                 [
@@ -8004,7 +8004,7 @@
                   ""
                 ],
                 [
-                  "Quattordici",
+                  "Uno",
                   0,
                   "b"
                 ],
@@ -8187,12 +8187,12 @@
             },
             {
               "id": "s01e06-2-016",
-              "it": "La **coda** è di dieci persone.",
-              "en": "The **line** has ten people in it.",
+              "it": "La **coda** è di quindici persone.",
+              "en": "The **line** has fifteen people in it.",
               "voice": [
                 [
                   "narrator",
-                  "La **coda** è di dieci persone.",
+                  "La **coda** è di quindici persone.",
                   ""
                 ]
               ],
@@ -8238,7 +8238,7 @@
                   ""
                 ],
                 [
-                  "dieci",
+                  "quindici",
                   4,
                   ""
                 ],
@@ -8491,592 +8491,6 @@
             },
             {
               "id": "s01e06-2-020",
-              "it": "Lo schermo dice **quindici**.",
-              "en": "The screen says **fifteen**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Lo schermo dice **quindici**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Lo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "schermo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quindici",
-                  3,
-                  "b"
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-numbers"
-              ]
-            },
-            {
-              "id": "s01e06-2-021",
-              "it": "Un uomo si alza e va allo **sportello**.",
-              "en": "A man gets up and goes to the **counter**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Un uomo si alza e va allo **sportello**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Un",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "uomo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alza",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "va",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "allo",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sportello",
-                  7,
-                  "b"
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-sportello"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e06-2-022",
-              "it": "«Il prossimo!» dice una voce.",
-              "en": "“Next!” a voice says.",
-              "voice": [
-                [
-                  "donna",
-                  "Il prossimo!",
-                  "flat"
-                ],
-                [
-                  "narrator",
-                  "dice una voce.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prossimo",
-                  1,
-                  ""
-                ],
-                [
-                  "!» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "voce",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e06-2-023",
-              "it": "Lo schermo dice **sedici**.",
-              "en": "The screen says **sixteen**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Lo schermo dice **sedici**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Lo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "schermo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sedici",
-                  3,
-                  "b"
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-numbers"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e06-2-024",
-              "it": "Kevin guarda il suo **turno** e poi lo schermo.",
-              "en": "Kevin looks at his **turn** and then at the screen.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda il suo **turno** e poi lo schermo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "suo",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "turno",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "poi",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "schermo",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-turno"
-              ]
-            },
-            {
-              "id": "s01e06-2-025",
-              "it": "«**Sedici**. Il mio è **quindici**.»",
-              "en": "“**Sixteen**. Mine is **fifteen**.”",
-              "voice": [
-                [
-                  "ben",
-                  "**Sedici**. Il mio è **quindici**.",
-                  "confused"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sedici",
-                  0,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quindici",
-                  4,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-numbers"
-              ]
-            },
-            {
-              "id": "s01e06-2-026",
-              "it": "_Forse il quindici è il mio numero e anche l'ora._",
-              "en": "_Maybe fifteen is my number and also the time._",
-              "voice": [
-                [
-                  "ben",
-                  "Forse il quindici è il mio numero e anche l'ora.",
-                  "thinking to themself, quiet and close"
-                ]
-              ],
-              "tokens": [
-                [
-                  "Forse",
-                  0,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "il",
-                  1,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "quindici",
-                  2,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "è",
-                  3,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "il",
-                  4,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "mio",
-                  5,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "numero",
-                  6,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "e",
-                  7,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "anche",
-                  8,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "l'ora",
-                  9,
-                  "i"
-                ],
-                [
-                  ".",
-                  -1,
-                  "i"
-                ]
-              ]
-            },
-            {
-              "id": "s01e06-2-027",
               "it": "Nella **coda** tutti guardano il cellulare.",
               "en": "In the **line** everyone looks at their cell phone.",
               "voice": [
@@ -9153,7 +8567,7 @@
               ]
             },
             {
-              "id": "s01e06-2-028",
+              "id": "s01e06-2-021",
               "it": "Nessuno parla.",
               "en": "Nobody speaks.",
               "voice": [
@@ -9187,7 +8601,104 @@
               ]
             },
             {
-              "id": "s01e06-2-029",
+              "id": "s01e06-2-022",
+              "it": "Lo schermo dice **due**. Poi **cinque**. Poi **dieci**.",
+              "en": "The screen says **two**. Then **five**. Then **ten**.",
+              "voice": [
+                [
+                  "narrator",
+                  "Lo schermo dice **due**. Poi **cinque**. Poi **dieci**.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Lo",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "schermo",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "due",
+                  3,
+                  "b"
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Poi",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cinque",
+                  5,
+                  "b"
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Poi",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dieci",
+                  7,
+                  "b"
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ],
+              "focus": [
+                "g-numbers"
+              ]
+            },
+            {
+              "id": "s01e06-2-023",
               "it": "Kevin **aspetta** ancora.",
               "en": "Kevin **waits** some more.",
               "voice": [
@@ -9234,13 +8745,13 @@
               ]
             },
             {
-              "id": "s01e06-2-030",
-              "it": "Lo schermo dice **diciassette**.",
-              "en": "The screen says **seventeen**.",
+              "id": "s01e06-2-024",
+              "it": "Lo schermo dice **quindici**.",
+              "en": "The screen says **fifteen**.",
               "voice": [
                 [
                   "narrator",
-                  "Lo schermo dice **diciassette**.",
+                  "Lo schermo dice **quindici**.",
                   ""
                 ]
               ],
@@ -9276,7 +8787,7 @@
                   ""
                 ],
                 [
-                  "diciassette",
+                  "quindici",
                   3,
                   "b"
                 ],
@@ -9291,13 +8802,13 @@
               ]
             },
             {
-              "id": "s01e06-2-031",
-              "it": "«**Diciassette**!» Kevin alza la mano.",
-              "en": "“**Seventeen**!” Kevin raises his hand.",
+              "id": "s01e06-2-025",
+              "it": "«**Quindici**!» Kevin alza la mano.",
+              "en": "“**Fifteen**!” Kevin raises his hand.",
               "voice": [
                 [
                   "ben",
-                  "**Diciassette**!",
+                  "**Quindici**!",
                   "too loud"
                 ],
                 [
@@ -9313,7 +8824,7 @@
                   ""
                 ],
                 [
-                  "Diciassette",
+                  "Quindici",
                   0,
                   "b"
                 ],
@@ -9368,7 +8879,7 @@
               ]
             },
             {
-              "id": "s01e06-2-032",
+              "id": "s01e06-2-026",
               "it": "Davanti allo **sportello** **due** c'è una **impiegata** con gli occhiali.",
               "en": "At **counter** **two** there's a **clerk** with glasses.",
               "voice": [
@@ -9487,7 +8998,7 @@
               ]
             },
             {
-              "id": "s01e06-2-033",
+              "id": "s01e06-2-027",
               "it": "L'**impiegata** guarda Kevin senza un sorriso.",
               "en": "The **clerk** looks at Kevin without a smile.",
               "voice": [
@@ -9578,7 +9089,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-034",
+              "id": "s01e06-2-028",
               "it": "«Il prossimo!»",
               "en": "“Next!”",
               "voice": [
@@ -9621,7 +9132,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-035",
+              "id": "s01e06-2-029",
               "it": "Kevin va allo **sportello** con il **documento** e i **moduli**.",
               "en": "Kevin goes to the **counter** with the **document** and the **forms**.",
               "voice": [
@@ -9740,7 +9251,7 @@
               ]
             },
             {
-              "id": "s01e06-2-036",
+              "id": "s01e06-2-030",
               "it": "«Buongiorno. Io sono Kevin Carter. Ho un **modulo** per la **residenza**.»",
               "en": "“Good morning. I'm Kevin Carter. I have a **form** for the **residence**.”",
               "voice": [
@@ -9873,7 +9384,7 @@
               ]
             },
             {
-              "id": "s01e06-2-037",
+              "id": "s01e06-2-031",
               "it": "L'**impiegata** guarda il **modulo** per **due** secondi.",
               "en": "The **clerk** looks at the **form** for **two** seconds.",
               "voice": [
@@ -9976,7 +9487,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-038",
+              "id": "s01e06-2-032",
               "it": "«Ufficio **sette**. **Anagrafe**.»",
               "en": "“Office **seven**. **Registry office**.”",
               "voice": [
@@ -10029,7 +9540,7 @@
               ]
             },
             {
-              "id": "s01e06-2-039",
+              "id": "s01e06-2-033",
               "it": "Poi l'**impiegata** alza una mano.",
               "en": "Then the **clerk** raises a hand.",
               "voice": [
@@ -10106,7 +9617,7 @@
               ]
             },
             {
-              "id": "s01e06-2-040",
+              "id": "s01e06-2-034",
               "it": "«Il prossimo!»",
               "en": "“Next!”",
               "voice": [
@@ -10149,7 +9660,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-041",
+              "id": "s01e06-2-035",
               "it": "Kevin non si muove.",
               "en": "Kevin doesn't move.",
               "voice": [
@@ -10203,7 +9714,7 @@
               ]
             },
             {
-              "id": "s01e06-2-042",
+              "id": "s01e06-2-036",
               "it": "«Scusi. Per **compilare** il **modulo**?»",
               "en": "“Excuse me. To **fill in** the **form**?”",
               "voice": [
@@ -10280,7 +9791,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-043",
+              "id": "s01e06-2-037",
               "it": "«Ufficio **sette**. **Anagrafe**.»",
               "en": "“Office **seven**. **Registry office**.”",
               "voice": [
@@ -10337,7 +9848,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-044",
+              "id": "s01e06-2-038",
               "it": "«Sì, ma dove è l'ufficio **sette**?»",
               "en": "“Yes, but where is office **seven**?”",
               "voice": [
@@ -10423,7 +9934,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-045",
+              "id": "s01e06-2-039",
               "it": "«Il prossimo!»",
               "en": "“Next!”",
               "voice": [
@@ -10466,7 +9977,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-046",
+              "id": "s01e06-2-040",
               "it": "Kevin esce dalla **coda** con il **modulo** in mano.",
               "en": "Kevin steps out of the **line** with the **form** in his hand.",
               "voice": [
@@ -10574,7 +10085,7 @@
               ]
             },
             {
-              "id": "s01e06-2-047",
+              "id": "s01e06-2-041",
               "it": "_Tre parole. Solo tre parole: ufficio sette, anagrafe._",
               "en": "_Three words. Just three words: office seven, registry office._",
               "voice": [
@@ -10668,7 +10179,7 @@
               ]
             },
             {
-              "id": "s01e06-2-048",
+              "id": "s01e06-2-042",
               "it": "_E io non so dove è l'ufficio sette._",
               "en": "_And I don't know where office seven is._",
               "voice": [
@@ -10766,7 +10277,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-049",
+              "id": "s01e06-2-043",
               "it": "Kevin torna nella **coda** con la faccia rossa.",
               "en": "Kevin goes back into the **line** with a red face.",
               "voice": [
@@ -10863,7 +10374,7 @@
               ]
             },
             {
-              "id": "s01e06-2-050",
+              "id": "s01e06-2-044",
               "it": "«Scusi. Io cerco l'**Anagrafe**.»",
               "en": "“Excuse me. I'm looking for the **registry office**.”",
               "voice": [
@@ -10935,7 +10446,7 @@
               ]
             },
             {
-              "id": "s01e06-2-051",
+              "id": "s01e06-2-045",
               "it": "Una **donna** con una borsa rossa alza gli occhi.",
               "en": "A **woman** with a red bag looks up.",
               "voice": [
@@ -11046,7 +10557,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-052",
+              "id": "s01e06-2-046",
               "it": "«L'**Anagrafe**? Piano **uno**.»",
               "en": "“The **registry office**? Floor **one**.”",
               "voice": [
@@ -11113,7 +10624,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-053",
+              "id": "s01e06-2-047",
               "it": "«Piano **uno**. E poi?»",
               "en": "“Floor **one**. And then?”",
               "voice": [
@@ -11179,7 +10690,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-054",
+              "id": "s01e06-2-048",
               "it": "«Corridoio **due**. Ufficio **sette**.»",
               "en": "“Hallway **two**. Office **seven**.”",
               "voice": [
@@ -11245,7 +10756,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-055",
+              "id": "s01e06-2-049",
               "it": "«Corridoio **due**, ufficio **sette**.» Kevin scrive sul quaderno.",
               "en": "“Hallway **two**, office **seven**.” Kevin writes in the notebook.",
               "voice": [
@@ -11352,7 +10863,7 @@
               ]
             },
             {
-              "id": "s01e06-2-056",
+              "id": "s01e06-2-050",
               "it": "«E lo **sportello**?»",
               "en": "“And the **counter**?”",
               "voice": [
@@ -11408,7 +10919,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-057",
+              "id": "s01e06-2-051",
               "it": "«**Sportello** **diciassette**.»",
               "en": "“**Counter** **seventeen**.”",
               "voice": [
@@ -11455,7 +10966,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-058",
+              "id": "s01e06-2-052",
               "it": "«**Diciassette**!» Kevin ride.",
               "en": "“**Seventeen**!” Kevin laughs.",
               "voice": [
@@ -11516,7 +11027,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-059",
+              "id": "s01e06-2-053",
               "it": "«Sì. **Diciassette** è a destra.»",
               "en": "“Yes. **Seventeen** is on the right.”",
               "voice": [
@@ -11592,7 +11103,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-060",
+              "id": "s01e06-2-054",
               "it": "«Grazie. Grazie mille.»",
               "en": "“Thank you. Thank you very much.”",
               "voice": [
@@ -11645,7 +11156,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-061",
+              "id": "s01e06-2-055",
               "it": "«Prego. E porti il **documento** e il **modulo**.»",
               "en": "“You're welcome. And bring the **document** and the **form**.”",
               "voice": [
@@ -11752,7 +11263,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-062",
+              "id": "s01e06-2-056",
               "it": "«Ho il **documento** e il **modulo**. E anche una **penna**!»",
               "en": "“I have the **document** and the **form**. And a **pen** too!”",
               "voice": [
@@ -11880,7 +11391,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-063",
+              "id": "s01e06-2-057",
               "it": "«Bene. E **aspetti** il suo **turno**.»",
               "en": "“Good. And **wait** for your **turn**.”",
               "voice": [
@@ -11967,7 +11478,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-064",
+              "id": "s01e06-2-058",
               "it": "«Sì. **Aspetto**.»",
               "en": "“Yes. I'll **wait**.”",
               "voice": [
@@ -12013,7 +11524,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-065",
+              "id": "s01e06-2-059",
               "it": "Dietro Kevin, altre persone parlano tutti insieme.",
               "en": "Behind Kevin, other people all talk at the same time.",
               "voice": [
@@ -12097,7 +11608,7 @@
               ]
             },
             {
-              "id": "s01e06-2-066",
+              "id": "s01e06-2-060",
               "it": "«Piano **uno**!»",
               "en": "“Floor **one**!”",
               "voice": [
@@ -12139,7 +11650,7 @@
               ]
             },
             {
-              "id": "s01e06-2-067",
+              "id": "s01e06-2-061",
               "it": "«Corridoio **due**!»",
               "en": "“Hallway **two**!”",
               "voice": [
@@ -12181,7 +11692,7 @@
               ]
             },
             {
-              "id": "s01e06-2-068",
+              "id": "s01e06-2-062",
               "it": "«**Sportello** **diciassette**!»",
               "en": "“**Counter** **seventeen**!”",
               "voice": [
@@ -12228,7 +11739,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-069",
+              "id": "s01e06-2-063",
               "it": "La **coda** intera dà informazioni a Kevin.",
               "en": "The whole **line** gives Kevin information.",
               "voice": [
@@ -12315,7 +11826,7 @@
               ]
             },
             {
-              "id": "s01e06-2-070",
+              "id": "s01e06-2-064",
               "it": "«Grazie, signori. Grazie!»",
               "en": "“Thank you, everyone. Thank you!”",
               "voice": [
@@ -12364,7 +11875,7 @@
               ]
             },
             {
-              "id": "s01e06-2-071",
+              "id": "s01e06-2-065",
               "it": "Kevin non ringrazia l'**impiegata**.",
               "en": "Kevin doesn't thank the **clerk**.",
               "voice": [
@@ -12431,7 +11942,7 @@
               ]
             },
             {
-              "id": "s01e06-2-072",
+              "id": "s01e06-2-066",
               "it": "L'**impiegata** non guarda Kevin.",
               "en": "The **clerk** doesn't look at Kevin.",
               "voice": [
@@ -12502,7 +12013,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-073",
+              "id": "s01e06-2-067",
               "it": "«Il prossimo!»",
               "en": "“Next!”",
               "voice": [
@@ -12541,7 +12052,7 @@
               ]
             },
             {
-              "id": "s01e06-2-074",
+              "id": "s01e06-2-068",
               "it": "Kevin prende il **documento**, il **modulo** e la **penna**.",
               "en": "Kevin takes the **document**, the **form** and the **pen**.",
               "voice": [
@@ -12650,7 +12161,7 @@
               ]
             },
             {
-              "id": "s01e06-2-075",
+              "id": "s01e06-2-069",
               "it": "Va verso la scala con il quaderno giallo.",
               "en": "He walks toward the stairs with the yellow notebook.",
               "voice": [
@@ -12744,7 +12255,7 @@
               ]
             },
             {
-              "id": "s01e06-2-076",
+              "id": "s01e06-2-070",
               "it": "Sul quaderno c'è scritto: **diciassette**, sportello **diciassette**.",
               "en": "In the notebook it says: **seventeen**, counter **seventeen**.",
               "voice": [
@@ -12835,7 +12346,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-077",
+              "id": "s01e06-2-071",
               "it": "_Il numero diciassette e io siamo amici._",
               "en": "_The number seventeen and I are friends._",
               "voice": [
@@ -12919,7 +12430,7 @@
               ]
             },
             {
-              "id": "s01e06-2-078",
+              "id": "s01e06-2-072",
               "it": "Sullo schermo appare il **turno** **diciotto**.",
               "en": "On the screen the **turn** **eighteen** appears.",
               "voice": [
@@ -12997,7 +12508,7 @@
               ]
             },
             {
-              "id": "s01e06-2-079",
+              "id": "s01e06-2-073",
               "it": "La **donna** con la borsa rossa si alza.",
               "en": "The **woman** with the red bag gets up.",
               "voice": [
@@ -13094,7 +12605,7 @@
               ]
             },
             {
-              "id": "s01e06-2-080",
+              "id": "s01e06-2-074",
               "it": "Va allo **sportello** e si siede.",
               "en": "She goes to the **counter** and sits down.",
               "voice": [
@@ -13171,7 +12682,7 @@
               ]
             },
             {
-              "id": "s01e06-2-081",
+              "id": "s01e06-2-075",
               "it": "Kevin è ancora sulle scale.",
               "en": "Kevin is still on the stairs.",
               "voice": [
@@ -13239,7 +12750,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-2-082",
+              "id": "s01e06-2-076",
               "it": "«Il prossimo!»",
               "en": "“Next!”",
               "voice": [
@@ -22836,159 +22347,146 @@
             },
             {
               "id": "s01e06-4-022",
-              "it": "_voglio_ scrivere il numero. Solo scrivere. Ma la **lista** è una **lista** di parole._",
-              "en": "_I want to write the number. Just write. But the **list** is a **list** of words._",
+              "it": "_Scrivere il numero è facile. Dire il numero ad alta voce è difficile._",
+              "en": "_Writing the number is easy. Saying the number out loud is hard._",
               "voice": [
                 [
                   "emma",
-                  "voglio_ scrivere il numero. Solo scrivere. Ma la **lista** è una **lista** di parole.",
+                  "Scrivere il numero è facile. Dire il numero ad alta voce è difficile.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "voglio",
+                  "Scrivere",
                   0,
                   "i"
                 ],
                 [
                   " ",
                   -1,
-                  ""
-                ],
-                [
-                  "scrivere",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
+                  "i"
                 ],
                 [
                   "il",
-                  2,
-                  ""
+                  1,
+                  "i"
                 ],
                 [
                   " ",
                   -1,
-                  ""
+                  "i"
                 ],
                 [
                   "numero",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Solo",
-                  4,
-                  ""
+                  2,
+                  "i"
                 ],
                 [
                   " ",
                   -1,
-                  ""
-                ],
-                [
-                  "scrivere",
-                  5,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ma",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lista",
-                  8,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
+                  "i"
                 ],
                 [
                   "è",
+                  3,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "facile",
+                  4,
+                  "i"
+                ],
+                [
+                  ". ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "Dire",
+                  5,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "il",
+                  6,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "numero",
+                  7,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "ad",
+                  8,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "alta",
                   9,
-                  ""
+                  "i"
                 ],
                 [
                   " ",
                   -1,
-                  ""
+                  "i"
                 ],
                 [
-                  "una",
+                  "voce",
                   10,
-                  ""
+                  "i"
                 ],
                 [
                   " ",
                   -1,
-                  ""
+                  "i"
                 ],
                 [
-                  "lista",
+                  "è",
                   11,
-                  "b"
+                  "i"
                 ],
                 [
                   " ",
                   -1,
-                  ""
+                  "i"
                 ],
                 [
-                  "di",
+                  "difficile",
                   12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "parole",
-                  13,
-                  ""
+                  "i"
                 ],
                 [
                   ".",
                   -1,
-                  ""
+                  "i"
                 ]
-              ],
-              "focus": [
-                "v-lista"
               ]
             }
           ]
@@ -25154,12 +24652,12 @@
             },
             {
               "id": "s01e06-4-052",
-              "it": "«**Prefisso** **tre**, **tre**, **nove**…»",
-              "en": "“**Area code**, **three**, **three**, **nine**…”",
+              "it": "«Allora. **Tre**, **otto**, **nove**…»",
+              "en": "“Okay. **Three**, **eight**, **nine**…”",
               "voice": [
                 [
                   "bianca",
-                  "**Prefisso** **tre**, **tre**, **nove**…",
+                  "Allora. **Tre**, **otto**, **nove**…",
                   "slowly"
                 ]
               ],
@@ -25170,17 +24668,17 @@
                   ""
                 ],
                 [
-                  "Prefisso",
+                  "Allora",
                   0,
-                  "b"
+                  ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "tre",
+                  "Tre",
                   1,
                   "b"
                 ],
@@ -25190,7 +24688,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "otto",
                   2,
                   "b"
                 ],
@@ -25211,7 +24709,6 @@
                 ]
               ],
               "focus": [
-                "v-prefisso",
                 "g-numbers"
               ]
             },
@@ -25281,12 +24778,12 @@
             },
             {
               "id": "s01e06-4-054",
-              "it": "«**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**.»",
-              "en": "“**Three**, **three**, **nine**, **one**, **four**, **six**, **seven**, **two**.”",
+              "it": "«**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**.»",
+              "en": "“**Three**, **eight**, **nine**, **two**, **five**, **zero**, **one**, **six**.”",
               "voice": [
                 [
                   "bianca",
-                  "**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**.",
+                  "**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**.",
                   "slowly"
                 ]
               ],
@@ -25307,7 +24804,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "otto",
                   1,
                   "b"
                 ],
@@ -25327,7 +24824,7 @@
                   ""
                 ],
                 [
-                  "uno",
+                  "due",
                   3,
                   "b"
                 ],
@@ -25337,7 +24834,7 @@
                   ""
                 ],
                 [
-                  "quattro",
+                  "cinque",
                   4,
                   "b"
                 ],
@@ -25347,7 +24844,7 @@
                   ""
                 ],
                 [
-                  "sei",
+                  "zero",
                   5,
                   "b"
                 ],
@@ -25357,7 +24854,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "uno",
                   6,
                   "b"
                 ],
@@ -25367,7 +24864,7 @@
                   ""
                 ],
                 [
-                  "due",
+                  "sei",
                   7,
                   "b"
                 ],
@@ -25702,12 +25199,12 @@
             },
             {
               "id": "s01e06-4-059",
-              "it": "«**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**. Fatto.»",
-              "en": "“**Three**, **three**, **nine**, **one**, **four**, **six**, **seven**, **two**. Done.”",
+              "it": "«**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**. Fatto.»",
+              "en": "“**Three**, **eight**, **nine**, **two**, **five**, **zero**, **one**, **six**. Done.”",
               "voice": [
                 [
                   "bianca",
-                  "**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**. Fatto.",
+                  "**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**. Fatto.",
                   ""
                 ]
               ],
@@ -25728,7 +25225,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "otto",
                   1,
                   "b"
                 ],
@@ -25748,7 +25245,7 @@
                   ""
                 ],
                 [
-                  "uno",
+                  "due",
                   3,
                   "b"
                 ],
@@ -25758,7 +25255,7 @@
                   ""
                 ],
                 [
-                  "quattro",
+                  "cinque",
                   4,
                   "b"
                 ],
@@ -25768,7 +25265,7 @@
                   ""
                 ],
                 [
-                  "sei",
+                  "zero",
                   5,
                   "b"
                 ],
@@ -25778,7 +25275,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "uno",
                   6,
                   "b"
                 ],
@@ -25788,7 +25285,7 @@
                   ""
                 ],
                 [
-                  "due",
+                  "sei",
                   7,
                   "b"
                 ],
@@ -33166,12 +32663,12 @@
           "segments": [
             {
               "id": "s01e06-5-050",
-              "it": "«E il **prefisso** del **cellulare**?»",
-              "en": "“And the **cell phone** **area code**?”",
+              "it": "«E il **prefisso** di Borgoverde?»",
+              "en": "“And Borgoverde's **area code**?”",
               "voice": [
                 [
                   "matteo",
-                  "E il **prefisso** del **cellulare**?",
+                  "E il **prefisso** di Borgoverde?",
                   ""
                 ]
               ],
@@ -33212,7 +32709,7 @@
                   ""
                 ],
                 [
-                  "del",
+                  "di",
                   3,
                   ""
                 ],
@@ -33222,9 +32719,9 @@
                   ""
                 ],
                 [
-                  "cellulare",
+                  "Borgoverde",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   "?»",
@@ -33233,8 +32730,7 @@
                 ]
               ],
               "focus": [
-                "v-prefisso",
-                "v-cellulare"
+                "v-prefisso"
               ]
             }
           ]
@@ -43219,12 +42715,12 @@
             },
             {
               "id": "s01e06-7-004",
-              "it": "«Sai, papà? L'americano va al **municipio**.»",
-              "en": "“You know, Dad? The American goes to the **town hall**.”",
+              "it": "«Sai, papà? L'americano è un cittadino di Borgoverde.»",
+              "en": "“You know, Dad? The American is a citizen of Borgoverde.”",
               "voice": [
                 [
                   "matteo",
-                  "Sai, papà? L'americano va al **municipio**.",
+                  "Sai, papà? L'americano è un cittadino di Borgoverde.",
                   ""
                 ]
               ],
@@ -43265,7 +42761,7 @@
                   ""
                 ],
                 [
-                  "va",
+                  "è",
                   3,
                   ""
                 ],
@@ -43275,7 +42771,7 @@
                   ""
                 ],
                 [
-                  "al",
+                  "un",
                   4,
                   ""
                 ],
@@ -43285,18 +42781,35 @@
                   ""
                 ],
                 [
-                  "municipio",
+                  "cittadino",
                   5,
-                  "b"
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Borgoverde",
+                  7,
+                  ""
                 ],
                 [
                   ".»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-municipio"
               ]
             }
           ]
@@ -43783,95 +43296,15 @@
                   ""
                 ]
               ]
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "id": "s01e06-7-012",
-              "it": "«E come va all'**Anagrafe**?»",
-              "en": "“And how does it go at the **registry office**?”",
-              "voice": [
-                [
-                  "franco",
-                  "E come va all'**Anagrafe**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "come",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "va",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "all",
-                  3,
-                  ""
-                ],
-                [
-                  "'",
-                  -1,
-                  ""
-                ],
-                [
-                  "Anagrafe",
-                  4,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-anagrafe"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e06-7-013",
-              "it": "«Bene. Con l'**impiegato** e il modulo.»",
-              "en": "“Good. With the **clerk** and the form.”",
+              "it": "«Sai il numero del suo **turno** all'**Anagrafe**?»",
+              "en": "“Do you know his **turn** number at the **registry office**?”",
               "voice": [
                 [
                   "matteo",
-                  "Bene. Con l'**impiegato** e il modulo.",
+                  "Sai il numero del suo **turno** all'**Anagrafe**?",
                   ""
                 ]
               ],
@@ -43882,48 +43315,8 @@
                   ""
                 ],
                 [
-                  "Bene",
+                  "Sai",
                   0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Con",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l",
-                  2,
-                  ""
-                ],
-                [
-                  "'",
-                  -1,
-                  ""
-                ],
-                [
-                  "impiegato",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
                   ""
                 ],
                 [
@@ -43933,58 +43326,6 @@
                 ],
                 [
                   "il",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "modulo",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-impiegato"
-              ]
-            },
-            {
-              "id": "s01e06-7-014",
-              "it": "«Che numero ha? Il **turno**?»",
-              "en": "“What number does he have? The **turn**?”",
-              "voice": [
-                [
-                  "matteo",
-                  "Che numero ha? Il **turno**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Che",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "numero",
                   1,
                   ""
                 ],
@@ -43994,17 +43335,17 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "numero",
                   2,
                   ""
                 ],
                 [
-                  "? ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "Il",
+                  "del",
                   3,
                   ""
                 ],
@@ -44014,8 +43355,38 @@
                   ""
                 ],
                 [
-                  "turno",
+                  "suo",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "turno",
+                  5,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "all",
+                  6,
+                  ""
+                ],
+                [
+                  "'",
+                  -1,
+                  ""
+                ],
+                [
+                  "Anagrafe",
+                  7,
                   "b"
                 ],
                 [
@@ -44025,7 +43396,8 @@
                 ]
               ],
               "focus": [
-                "v-turno"
+                "v-turno",
+                "v-anagrafe"
               ]
             }
           ]
@@ -44033,7 +43405,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-015",
+              "id": "s01e06-7-013",
               "it": "Franco mette giù la tazzina.",
               "en": "Franco puts down the little cup.",
               "voice": [
@@ -44097,7 +43469,7 @@
               ]
             },
             {
-              "id": "s01e06-7-016",
+              "id": "s01e06-7-014",
               "it": "«Non lo so. E non voglio sapere.»",
               "en": "“I don't know. And I don't want to know.”",
               "voice": [
@@ -44190,7 +43562,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-017",
+              "id": "s01e06-7-015",
               "it": "«**Diciassette**.»",
               "en": "“**Seventeen**.”",
               "voice": [
@@ -44226,7 +43598,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-018",
+              "id": "s01e06-7-016",
               "it": "«**Diciassette**? Il **turno**?»",
               "en": "“**Seventeen**? The **turn**?”",
               "voice": [
@@ -44283,7 +43655,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-019",
+              "id": "s01e06-7-017",
               "it": "«Il **turno** e lo **sportello**. **Diciassette** due volte.»",
               "en": "“The **turn** and the **counter**. **Seventeen** twice.”",
               "voice": [
@@ -44391,7 +43763,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-020",
+              "id": "s01e06-7-018",
               "it": "Franco guarda Matteo. Poi guarda il bancone.",
               "en": "Franco looks at Matteo. Then he looks at the counter.",
               "voice": [
@@ -44475,7 +43847,7 @@
               ]
             },
             {
-              "id": "s01e06-7-021",
+              "id": "s01e06-7-019",
               "it": "«**Diciassette**. Va bene.»",
               "en": "“**Seventeen**. Fine.”",
               "voice": [
@@ -44531,7 +43903,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-022",
+              "id": "s01e06-7-020",
               "it": "Matteo sorride.",
               "en": "Matteo smiles.",
               "voice": [
@@ -44565,7 +43937,7 @@
               ]
             },
             {
-              "id": "s01e06-7-023",
+              "id": "s01e06-7-021",
               "it": "«Un bel numero.»",
               "en": "“A nice number.”",
               "voice": [
@@ -44618,7 +43990,7 @@
         {
           "segments": [
             {
-              "id": "s01e06-7-024",
+              "id": "s01e06-7-022",
               "it": "«Sì.»",
               "en": "“Yes.”",
               "voice": [
@@ -44647,7 +44019,7 @@
               ]
             },
             {
-              "id": "s01e06-7-025",
+              "id": "s01e06-7-023",
               "it": "Franco paga il caffè: **uno** e **venti**.",
               "en": "Franco pays for the coffee: **one** twenty.",
               "voice": [
@@ -44734,7 +44106,7 @@
               ]
             },
             {
-              "id": "s01e06-7-026",
+              "id": "s01e06-7-024",
               "it": "Poi esce e conta piano: «**Sedici**… **diciassette**… **diciotto**…»",
               "en": "Then he goes out and counts quietly: “**Sixteen**… **seventeen**… **eighteen**…”",
               "voice": [
@@ -44836,7 +44208,7 @@
               ]
             },
             {
-              "id": "s01e06-7-027",
+              "id": "s01e06-7-025",
               "it": "Matteo ride dietro il bancone.",
               "en": "Matteo laughs behind the counter.",
               "voice": [

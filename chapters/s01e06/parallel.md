@@ -31,7 +31,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E il tuo **cellulare**?» | “And your **cell phone**?” |
 | «Il mio **cellulare**?» | “My **cell phone**?” |
 | «Sì. Il tuo **cellulare**.» | “Yes. Your **cell phone**.” |
-| «**Tre, tre, nove, uno, quattro, sei, sette, due**.» Kevin ripete piano. | “**Three, three, nine, one, four, six, seven, two**.” Kevin repeats slowly. |
+| «**Sette, zero, tre, tre, cinque, uno, nove, quattro**.» Kevin ripete piano. | “**Seven, zero, three, three, five, one, nine, four**.” Kevin repeats slowly. |
 | Poi Chiara parla di Emma e di Leo. | Then Chiara talks about Emma and Leo. |
 | «Emma: **quindici** anni. Leo: **otto** anni.» | “Emma: **fifteen** years old. Leo: **eight** years old.” |
 | «Emma **quindici**, Leo **otto**.» | “Emma **fifteen**, Leo **eight**.” |
@@ -50,8 +50,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché è il numero più difficile d'Italia.» | “Because it's the hardest number in Italy.” |
 | «**Diciassette** non è difficile.» | “**Seventeen** isn't hard.” |
 | «Per me sì.» | “For me it is.” |
-| _Tre volte, e domani lo dico allo sportello._ | _Three times, and tomorrow I say it at the counter._ |
-| _Bene. Domani lo dico bene._ | _Good. Tomorrow I say it well._ |
+| _Tre volte, e oggi lo dico allo sportello._ | _Three times, and today I say it at the counter._ |
+| _Bene. Oggi lo dico bene._ | _Good. Today I say it well._ |
 | In quel momento Emma arriva in cucina. | At that moment Emma comes into the kitchen. |
 | Ha il **cellulare** in mano e la faccia stanca. | She has her **cell phone** in her hand and a tired face. |
 | «Buongiorno.» | “Morning.” |
@@ -111,25 +111,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin va all'ufficio **due** e prende un **turno**. | Kevin goes to office **two** and takes a **turn**. |
 | Il suo **turno** è il **quindici**. | His **turn** is **fifteen**. |
 | Sul muro c'è un piccolo schermo. | On the wall there's a small screen. |
-| Lo schermo dice: **quattordici**. | The screen says: **fourteen**. |
-| «**Quattordici**. Io ho il **quindici**.» Kevin guarda lo schermo. | “**Fourteen**. I have **fifteen**.” Kevin looks at the screen. |
+| Lo schermo dice: **uno**. | The screen says: **one**. |
+| «**Uno**. Io ho il **quindici**.» Kevin guarda lo schermo. | “**One**. I have **fifteen**.” Kevin looks at the screen. |
 | Davanti a Kevin c'è una **coda** lunga. | In front of Kevin there's a long **line**. |
-| La **coda** è di dieci persone. | The **line** has ten people in it. |
+| La **coda** è di quindici persone. | The **line** has fifteen people in it. |
 | Kevin **aspetta** con il **modulo** in mano. | Kevin **waits** with the **form** in his hand. |
 | **Aspetta** e ripete i numeri piano. | He **waits** and repeats the numbers quietly. |
 | «**Quattordici**… **diciassette**… **zero due**…» | “**Fourteen**… **seventeen**… **zero two**…” |
-| Lo schermo dice **quindici**. | The screen says **fifteen**. |
-| Un uomo si alza e va allo **sportello**. | A man gets up and goes to the **counter**. |
-| «Il prossimo!» dice una voce. | “Next!” a voice says. |
-| Lo schermo dice **sedici**. | The screen says **sixteen**. |
-| Kevin guarda il suo **turno** e poi lo schermo. | Kevin looks at his **turn** and then at the screen. |
-| «**Sedici**. Il mio è **quindici**.» | “**Sixteen**. Mine is **fifteen**.” |
-| _Forse il quindici è il mio numero e anche l'ora._ | _Maybe fifteen is my number and also the time._ |
 | Nella **coda** tutti guardano il cellulare. | In the **line** everyone looks at their cell phone. |
 | Nessuno parla. | Nobody speaks. |
+| Lo schermo dice **due**. Poi **cinque**. Poi **dieci**. | The screen says **two**. Then **five**. Then **ten**. |
 | Kevin **aspetta** ancora. | Kevin **waits** some more. |
-| Lo schermo dice **diciassette**. | The screen says **seventeen**. |
-| «**Diciassette**!» Kevin alza la mano. | “**Seventeen**!” Kevin raises his hand. |
+| Lo schermo dice **quindici**. | The screen says **fifteen**. |
+| «**Quindici**!» Kevin alza la mano. | “**Fifteen**!” Kevin raises his hand. |
 | Davanti allo **sportello** **due** c'è una **impiegata** con gli occhiali. | At **counter** **two** there's a **clerk** with glasses. |
 | L'**impiegata** guarda Kevin senza un sorriso. | The **clerk** looks at Kevin without a smile. |
 | «Il prossimo!» | “Next!” |
@@ -321,7 +315,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Tutti. Tredici studenti.» | “Everybody. Thirteen students.” |
 | Emma guarda la **lista** e poi il suo **cellulare**. | Emma looks at the **list** and then at her **cell phone**. |
 | _Tredici numeri. E io non so dire il mio numero in italiano._ | _Thirteen numbers. And I don't know how to say my number in Italian._ |
-| _voglio_ scrivere il numero. Solo scrivere. Ma la **lista** è una **lista** di parole._ | _I want to write the number. Just write. But the **list** is a **list** of words._ |
+| _Scrivere il numero è facile. Dire il numero ad alta voce è difficile._ | _Writing the number is easy. Saying the number out loud is hard._ |
 | Bianca guarda Emma con attenzione. | Bianca watches Emma carefully. |
 | «Emma? Tutto bene?» | “Emma? Everything okay?” |
 | «Sì. Sì. Tutto bene.» | “Yes. Yes. Everything okay.” |
@@ -351,14 +345,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Dammi il **cellulare**. Adesso.» | “Give me the **cell phone**. Now.” |
 | Emma dà il **cellulare** a Bianca. | Emma gives the **cell phone** to Bianca. |
 | Bianca apre il telefono e legge il numero. | Bianca opens the phone and reads the number. |
-| «**Prefisso** **tre**, **tre**, **nove**…» | “**Area code**, **three**, **three**, **nine**…” |
+| «Allora. **Tre**, **otto**, **nove**…» | “Okay. **Three**, **eight**, **nine**…” |
 | Bianca legge ogni cifra piano. | Bianca reads every digit slowly. |
-| «**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**.» | “**Three**, **three**, **nine**, **one**, **four**, **six**, **seven**, **two**.” |
+| «**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**.» | “**Three**, **eight**, **nine**, **two**, **five**, **zero**, **one**, **six**.” |
 | Emma ascolta senza parlare. | Emma listens without speaking. |
 | «Questo è il numero di Emma!» dice alla classe. | “This is Emma's number!” Bianca tells the class. |
 | Bianca scrive il numero sulla **lista**. | Bianca writes the number on the **list**. |
 | Lei scrive ogni cifra con attenzione. | She writes every digit carefully. |
-| «**Tre**, **tre**, **nove**, **uno**, **quattro**, **sei**, **sette**, **due**. Fatto.» | “**Three**, **three**, **nine**, **one**, **four**, **six**, **seven**, **two**. Done.” |
+| «**Tre**, **otto**, **nove**, **due**, **cinque**, **zero**, **uno**, **sei**. Fatto.» | “**Three**, **eight**, **nine**, **two**, **five**, **zero**, **one**, **six**. Done.” |
 | Emma guarda la **lista**. | Emma looks at the **list**. |
 | Il suo numero è sulla **lista**. | Her number is on the **list**. |
 | «Adesso sei nel **gruppo**.» | “Now you're in the **group**.” |
@@ -458,7 +452,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. La **tessera** sanitaria. Per il **modulo** serve la **tessera**.» | “Yes. The health **card**. For the **form** you need the **card**.” |
 | «E dai anche **tessera** e **documento**?» | “And you hand over the **card** and the **document** too?” |
 | «Sì. **Tessera**, **documento**, **modulo**, **firma**. Tutto!» | “Yes. **Card**, **document**, **form**, **signature**. Everything!” |
-| «E il **prefisso** del **cellulare**?» | “And the **cell phone** **area code**?” |
+| «E il **prefisso** di Borgoverde?» | “And Borgoverde's **area code**?” |
 | «**Zero due**. E poi **otto** cifre.» | “**Zero two**. And then **eight** digits.” |
 | «Bravo. Adesso sei un cittadino di Borgoverde.» | “Nice. Now you're a citizen of Borgoverde.” |
 | «Un cittadino!» | “A citizen!” |
@@ -599,7 +593,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | È martedì mattina al Bar Tigli. | It's Tuesday morning at Bar Tigli. |
 | Franco beve il suo caffè in piedi al bancone. | Franco drinks his coffee standing at the counter. |
 | Matteo asciuga un bicchiere e guarda la strada. | Matteo dries a glass and looks at the street. |
-| «Sai, papà? L'americano va al **municipio**.» | “You know, Dad? The American goes to the **town hall**.” |
+| «Sai, papà? L'americano è un cittadino di Borgoverde.» | “You know, Dad? The American is a citizen of Borgoverde.” |
 | «Mah.» | “Huh.” |
 | «Ha la **residenza** adesso.» | “He has the **residence** now.” |
 | «La **residenza**?» | “The **residence**?” |
@@ -607,9 +601,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco guarda la finestra per un momento. | Franco looks at the window for a moment. |
 | «E l'**indirizzo** è buono.» | “And the **address** is a good one.” |
 | «Via dei Tigli? Sì. Buono.» | “Via dei Tigli? Yes. Good.” |
-| «E come va all'**Anagrafe**?» | “And how does it go at the **registry office**?” |
-| «Bene. Con l'**impiegato** e il modulo.» | “Good. With the **clerk** and the form.” |
-| «Che numero ha? Il **turno**?» | “What number does he have? The **turn**?” |
+| «Sai il numero del suo **turno** all'**Anagrafe**?» | “Do you know his **turn** number at the **registry office**?” |
 | Franco mette giù la tazzina. | Franco puts down the little cup. |
 | «Non lo so. E non voglio sapere.» | “I don't know. And I don't want to know.” |
 | «**Diciassette**.» | “**Seventeen**.” |
