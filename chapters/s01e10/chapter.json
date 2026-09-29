@@ -7377,12 +7377,12 @@
             },
             {
               "id": "s01e10-2-003",
-              "it": "La **sala** ha due **finestre** e una porta con il numero otto.",
-              "en": "The **room** has two **windows** and a door with the number eight.",
+              "it": "La **sala** ha due **finestre** e una porta con il numero nove.",
+              "en": "The **room** has two **windows** and a door with the number nine.",
               "voice": [
                 [
                   "narrator",
-                  "La **sala** ha due **finestre** e una porta con il numero otto.",
+                  "La **sala** ha due **finestre** e una porta con il numero nove.",
                   ""
                 ]
               ],
@@ -7498,7 +7498,7 @@
                   ""
                 ],
                 [
-                  "otto",
+                  "nove",
                   11,
                   ""
                 ],
@@ -13024,12 +13024,12 @@
           "segments": [
             {
               "id": "s01e10-2-053",
-              "it": "«Sì. Il martedì e il giovedì, nella **sala** grande,» dice Alberto.",
-              "en": "“Yes. Tuesdays and Thursdays, in the big **room**,” Alberto says.",
+              "it": "«Sì. Il martedì, il giovedì e la domenica mattina, nella **sala** grande,» dice Alberto.",
+              "en": "“Yes. Tuesdays, Thursdays and Sunday mornings, in the big **room**,” Alberto says.",
               "voice": [
                 [
                   "alberto",
-                  "Sì. Il martedì e il giovedì, nella **sala** grande,",
+                  "Sì. Il martedì, il giovedì e la domenica mattina, nella **sala** grande,",
                   ""
                 ],
                 [
@@ -13070,12 +13070,12 @@
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "e",
+                  "il",
                   3,
                   ""
                 ],
@@ -13085,7 +13085,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "giovedì",
                   4,
                   ""
                 ],
@@ -13095,17 +13095,17 @@
                   ""
                 ],
                 [
-                  "giovedì",
+                  "e",
                   5,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "nella",
+                  "la",
                   6,
                   ""
                 ],
@@ -13115,9 +13115,9 @@
                   ""
                 ],
                 [
-                  "sala",
+                  "domenica",
                   7,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -13125,17 +13125,17 @@
                   ""
                 ],
                 [
-                  "grande",
+                  "mattina",
                   8,
                   ""
                 ],
                 [
-                  ",» ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "dice",
+                  "nella",
                   9,
                   ""
                 ],
@@ -13145,8 +13145,38 @@
                   ""
                 ],
                 [
-                  "Alberto",
+                  "sala",
                   10,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "grande",
+                  11,
+                  ""
+                ],
+                [
+                  ",» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  12,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Alberto",
+                  13,
                   ""
                 ],
                 [
@@ -14226,12 +14256,12 @@
           "segments": [
             {
               "id": "s01e10-2-063",
-              "it": "«Faccia piano. Il bar non c'è,» dice Carla. «La macchina del caffè è in fondo al **corridoio**.»",
-              "en": "“Take it easy. There's no bar,” Carla says. “The coffee machine is at the end of the **corridor**.”",
+              "it": "«Il bar non c'è,» dice Carla. «La macchina del caffè è in fondo al **corridoio**.»",
+              "en": "“There's no bar,” Carla says. “The coffee machine is at the end of the **corridor**.”",
               "voice": [
                 [
                   "donna",
-                  "Faccia piano. Il bar non c'è,",
+                  "Il bar non c'è,",
                   ""
                 ],
                 [
@@ -14252,7 +14282,7 @@
                   ""
                 ],
                 [
-                  "Faccia",
+                  "Il",
                   0,
                   ""
                 ],
@@ -14262,28 +14292,8 @@
                   ""
                 ],
                 [
-                  "piano",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "bar",
-                  3,
+                  1,
                   ""
                 ],
                 [
@@ -14293,7 +14303,7 @@
                 ],
                 [
                   "non",
-                  4,
+                  2,
                   ""
                 ],
                 [
@@ -14303,7 +14313,7 @@
                 ],
                 [
                   "c'è",
-                  5,
+                  3,
                   ""
                 ],
                 [
@@ -14313,7 +14323,7 @@
                 ],
                 [
                   "dice",
-                  6,
+                  4,
                   ""
                 ],
                 [
@@ -14323,7 +14333,7 @@
                 ],
                 [
                   "Carla",
-                  7,
+                  5,
                   ""
                 ],
                 [
@@ -14333,7 +14343,7 @@
                 ],
                 [
                   "La",
-                  8,
+                  6,
                   ""
                 ],
                 [
@@ -14343,7 +14353,7 @@
                 ],
                 [
                   "macchina",
-                  9,
+                  7,
                   ""
                 ],
                 [
@@ -14353,7 +14363,7 @@
                 ],
                 [
                   "del",
-                  10,
+                  8,
                   ""
                 ],
                 [
@@ -14363,7 +14373,7 @@
                 ],
                 [
                   "caffè",
-                  11,
+                  9,
                   ""
                 ],
                 [
@@ -14373,7 +14383,7 @@
                 ],
                 [
                   "è",
-                  12,
+                  10,
                   ""
                 ],
                 [
@@ -14383,7 +14393,7 @@
                 ],
                 [
                   "in",
-                  13,
+                  11,
                   ""
                 ],
                 [
@@ -14393,7 +14403,7 @@
                 ],
                 [
                   "fondo",
-                  14,
+                  12,
                   ""
                 ],
                 [
@@ -14403,7 +14413,7 @@
                 ],
                 [
                   "al",
-                  15,
+                  13,
                   ""
                 ],
                 [
@@ -14413,7 +14423,7 @@
                 ],
                 [
                   "corridoio",
-                  16,
+                  14,
                   "b"
                 ],
                 [
@@ -16977,12 +16987,12 @@
           "segments": [
             {
               "id": "s01e10-3-005",
-              "it": "«Signor Kevin, Lei **sente** anche Lei la **musica**?» chiede Carla.",
+              "it": "«Signor Kevin, Lei **sente** la **musica**?» chiede Carla.",
               "en": "“Mr. Kevin, do you **hear** the **music** too?” Carla asks.",
               "voice": [
                 [
                   "donna",
-                  "Signor Kevin, Lei **sente** anche Lei la **musica**?",
+                  "Signor Kevin, Lei **sente** la **musica**?",
                   ""
                 ],
                 [
@@ -17038,7 +17048,7 @@
                   ""
                 ],
                 [
-                  "anche",
+                  "la",
                   4,
                   ""
                 ],
@@ -17048,28 +17058,8 @@
                   ""
                 ],
                 [
-                  "Lei",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "musica",
-                  7,
+                  5,
                   "b"
                 ],
                 [
@@ -17079,7 +17069,7 @@
                 ],
                 [
                   "chiede",
-                  8,
+                  6,
                   ""
                 ],
                 [
@@ -17089,7 +17079,7 @@
                 ],
                 [
                   "Carla",
-                  9,
+                  7,
                   ""
                 ],
                 [
@@ -21345,12 +21335,12 @@
           "segments": [
             {
               "id": "s01e10-3-043",
-              "it": "«Nessuno sa... che Lei **balla** il **tango**?» chiede Kevin.",
+              "it": "«Nessuno sa... che tu **balli** il **tango**?» chiede Kevin.",
               "en": "“Nobody knows... that you **dance** the **tango**?” Kevin asks.",
               "voice": [
                 [
                   "ben",
-                  "Nessuno sa... che Lei **balla** il **tango**?",
+                  "Nessuno sa... che tu **balli** il **tango**?",
                   ""
                 ],
                 [
@@ -21396,7 +21386,7 @@
                   ""
                 ],
                 [
-                  "Lei",
+                  "tu",
                   3,
                   ""
                 ],
@@ -21406,7 +21396,7 @@
                   ""
                 ],
                 [
-                  "balla",
+                  "balli",
                   4,
                   "b"
                 ],
@@ -22731,12 +22721,12 @@
           "segments": [
             {
               "id": "s01e10-3-057",
-              "it": "«Questa è la Sua **regola** numero uno,» dice Kevin.",
+              "it": "«Questa è la tua **regola** numero uno,» dice Kevin.",
               "en": "“That's your **rule** number one,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Questa è la Sua **regola** numero uno,",
+                  "Questa è la tua **regola** numero uno,",
                   ""
                 ],
                 [
@@ -22782,7 +22772,7 @@
                   ""
                 ],
                 [
-                  "Sua",
+                  "tua",
                   3,
                   ""
                 ],
@@ -24683,7 +24673,7 @@
             {
               "id": "s01e10-3-075",
               "it": "Kevin **beve** il caffè e non guarda la porta numero otto.",
-              "en": "Kevin drinks the coffee and doesn't look at door number eight.",
+              "en": "Kevin **drinks** the coffee and doesn't look at door number eight.",
               "voice": [
                 [
                   "narrator",
@@ -25595,19 +25585,29 @@
           "segments": [
             {
               "id": "s01e10-4-004",
-              "it": "_A cinque. Cinque come un pollice._",
-              "en": "_A five. Five like a thumb._",
+              "it": "_Cinque. Solo cinque._",
+              "en": "_Five. Just five._",
               "voice": [
                 [
                   "emma",
-                  "A cinque. Cinque come un pollice.",
+                  "Cinque. Solo cinque.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "A",
+                  "Cinque",
                   0,
+                  "i"
+                ],
+                [
+                  ". ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "Solo",
+                  1,
                   "i"
                 ],
                 [
@@ -25617,47 +25617,7 @@
                 ],
                 [
                   "cinque",
-                  1,
-                  "i"
-                ],
-                [
-                  ". ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "Cinque",
                   2,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "come",
-                  3,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "un",
-                  4,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "pollice",
-                  5,
                   "i"
                 ],
                 [
@@ -28559,12 +28519,12 @@
           "segments": [
             {
               "id": "s01e10-4-031",
-              "it": "Emma assente. È la prima volta che qualcuno le **presta** qualcosa senza ridere.",
+              "it": "Emma annuisce. È la prima volta che qualcuno le **presta** qualcosa senza ridere.",
               "en": "Emma nods. It's the first time someone **lends** her something without laughing.",
               "voice": [
                 [
                   "narrator",
-                  "Emma assente. È la prima volta che qualcuno le **presta** qualcosa senza ridere.",
+                  "Emma annuisce. È la prima volta che qualcuno le **presta** qualcosa senza ridere.",
                   ""
                 ]
               ],
@@ -28580,7 +28540,7 @@
                   ""
                 ],
                 [
-                  "assente",
+                  "annuisce",
                   1,
                   ""
                 ],
@@ -30396,8 +30356,8 @@
           "segments": [
             {
               "id": "s01e10-4-046",
-              "it": "«Emma,» dice. «Il tuo italiano è buono. **Finisci** il quaderno, non la testa.»",
-              "en": "“Emma,” he says. “Your Italian is good. **Finish** the notebook, not your head.”",
+              "it": "«Emma,» dice. «Il tuo italiano è buono. **Finisci** il quaderno.»",
+              "en": "“Emma,” he says. “Your Italian is good. **Finish** the notebook.”",
               "voice": [
                 [
                   "tommaso",
@@ -30411,7 +30371,7 @@
                 ],
                 [
                   "tommaso",
-                  "Il tuo italiano è buono. **Finisci** il quaderno, non la testa.",
+                  "Il tuo italiano è buono. **Finisci** il quaderno.",
                   ""
                 ]
               ],
@@ -30514,36 +30474,6 @@
                 [
                   "quaderno",
                   9,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "testa",
-                  12,
                   ""
                 ],
                 [
@@ -35968,7 +35898,7 @@
             {
               "id": "s01e10-5-044",
               "it": "«Con il tuo **compagno** di banco?» chiede Chiara.",
-              "en": "“With your deskmate?” Chiara asks.",
+              "en": "“With your **deskmate**?” Chiara asks.",
               "voice": [
                 [
                   "chiara",
@@ -36362,12 +36292,12 @@
           "segments": [
             {
               "id": "s01e10-5-047",
-              "it": "«E nella **sala** grande c'è la **musica**?» chiede Leo.",
-              "en": "“And is there **music** in the big **room**?” Leo asks.",
+              "it": "«E al Centro civico c'è la **musica**?» chiede Leo.",
+              "en": "“And is there **music** at the community center?” Leo asks.",
               "voice": [
                 [
                   "leo",
-                  "E nella **sala** grande c'è la **musica**?",
+                  "E al Centro civico c'è la **musica**?",
                   ""
                 ],
                 [
@@ -36393,7 +36323,7 @@
                   ""
                 ],
                 [
-                  "nella",
+                  "al",
                   1,
                   ""
                 ],
@@ -36403,9 +36333,9 @@
                   ""
                 ],
                 [
-                  "sala",
+                  "Centro",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36413,7 +36343,7 @@
                   ""
                 ],
                 [
-                  "grande",
+                  "civico",
                   3,
                   ""
                 ],
@@ -36474,7 +36404,6 @@
                 ]
               ],
               "focus": [
-                "v-sala",
                 "v-musica"
               ]
             }
@@ -44511,8 +44440,8 @@
           "segments": [
             {
               "id": "s01e10-7-017",
-              "it": "«Dal quaderno di papà,» dice Leo. «Stasera scrive TANGO.»",
-              "en": "“From Dad's notebook,” Leo says. “Tonight he's writing TANGO.”",
+              "it": "«Dal quaderno di papà,» dice Leo. «Scrive TANGO due volte.»",
+              "en": "“From Dad's notebook,” Leo says. “He writes TANGO twice.”",
               "voice": [
                 [
                   "leo",
@@ -44526,7 +44455,7 @@
                 ],
                 [
                   "leo",
-                  "Stasera scrive TANGO.",
+                  "Scrive TANGO due volte.",
                   ""
                 ]
               ],
@@ -44597,7 +44526,7 @@
                   ""
                 ],
                 [
-                  "Stasera",
+                  "Scrive",
                   6,
                   ""
                 ],
@@ -44607,7 +44536,7 @@
                   ""
                 ],
                 [
-                  "scrive",
+                  "TANGO",
                   7,
                   ""
                 ],
@@ -44617,8 +44546,18 @@
                   ""
                 ],
                 [
-                  "TANGO",
+                  "due",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "volte",
+                  9,
                   ""
                 ],
                 [

@@ -3628,7 +3628,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il Centro civico è una casa gialla in piazza, vicino alla chiesa. Dentro c'è una sala grande con venti sedie e una lavagna verde. La sala ha due finestre e una porta con il numero otto. Kevin entra e cerca un posto vicino alla finestra. La borsa è pesante, ma dentro ci sono i fogli e il quaderno giallo.",
+                "text": "Il Centro civico è una casa gialla in piazza, vicino alla chiesa. Dentro c'è una sala grande con venti sedie e una lavagna verde. La sala ha due finestre e una porta con il numero nove. Kevin entra e cerca un posto vicino alla finestra. La borsa è pesante, ma dentro ci sono i fogli e il quaderno giallo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6138,10 +6138,10 @@
       ],
       "words": [
         [
-          "s01e10-2-053:0-8"
+          "s01e10-2-053:0-11"
         ],
         [
-          "s01e10-2-053:9-10",
+          "s01e10-2-053:12-13",
           "s01e10-2-054:0-7"
         ],
         [
@@ -6159,7 +6159,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Il martedì e il giovedì, nella sala grande,",
+                "text": "Sì. Il martedì, il giovedì e la domenica mattina, nella sala grande,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6550,13 +6550,13 @@
       ],
       "words": [
         [
-          "s01e10-2-063:0-5"
+          "s01e10-2-063:0-3"
         ],
         [
-          "s01e10-2-063:6-7"
+          "s01e10-2-063:4-5"
         ],
         [
-          "s01e10-2-063:8-16"
+          "s01e10-2-063:6-14"
         ]
       ],
       "request": {
@@ -6567,7 +6567,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Faccia piano. Il bar non c'è,",
+                "text": "Il bar non c'è,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7704,10 +7704,10 @@
           "s01e10-3-004:0-6"
         ],
         [
-          "s01e10-3-005:0-7"
+          "s01e10-3-005:0-5"
         ],
         [
-          "s01e10-3-005:8-9"
+          "s01e10-3-005:6-7"
         ]
       ],
       "request": {
@@ -7729,7 +7729,7 @@
               },
               {
                 "type": "text",
-                "text": "Signor Kevin, Lei sente anche Lei la musica?",
+                "text": "Signor Kevin, Lei sente la musica?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9031,7 +9031,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Nessuno sa... che Lei balla il tango?",
+                "text": "Nessuno sa... che tu balli il tango?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9713,7 +9713,7 @@
               },
               {
                 "type": "text",
-                "text": "Questa è la Sua regola numero uno,",
+                "text": "Questa è la tua regola numero uno,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10800,7 +10800,7 @@
       ],
       "words": [
         [
-          "s01e10-4-004:0-5"
+          "s01e10-4-004:0-2"
         ],
         [
           "s01e10-4-005:0-2"
@@ -10814,7 +10814,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "A cinque. Cinque come un pollice.",
+                "text": "Cinque. Solo cinque.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12063,7 +12063,7 @@
               },
               {
                 "type": "text",
-                "text": "Emma assente. È la prima volta che qualcuno le presta qualcosa senza ridere.",
+                "text": "Emma annuisce. È la prima volta che qualcuno le presta qualcosa senza ridere.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12947,7 +12947,7 @@
           "s01e10-4-046:1-1"
         ],
         [
-          "s01e10-4-046:2-12"
+          "s01e10-4-046:2-9"
         ],
         [
           "s01e10-4-047:0-6"
@@ -12983,7 +12983,7 @@
               },
               {
                 "type": "text",
-                "text": "Il tuo italiano è buono. Finisci il quaderno, non la testa.",
+                "text": "Il tuo italiano è buono. Finisci il quaderno.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16008,7 +16008,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "E nella sala grande c'è la musica?",
+                "text": "E al Centro civico c'è la musica?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -19378,7 +19378,7 @@
           "s01e10-7-017:4-5"
         ],
         [
-          "s01e10-7-017:6-8"
+          "s01e10-7-017:6-9"
         ],
         [
           "s01e10-7-018:0-3"
@@ -19414,7 +19414,7 @@
               },
               {
                 "type": "text",
-                "text": "Stasera scrive TANGO.",
+                "text": "Scrive TANGO due volte.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

@@ -132,7 +132,7 @@ _Una lezione è una lezione. Leggo, scrivo e torno a casa. Facile._
 
 ## 2. Centro civico · martedì sera
 
-Il Centro civico è una casa gialla in piazza, vicino alla chiesa. Dentro c'è una **sala** grande con venti sedie e una **lavagna** verde. La **sala** ha due **finestre** e una porta con il numero otto. Kevin entra e cerca un posto vicino alla **finestra**. La **borsa** è pesante, ma dentro ci sono i **fogli** e il quaderno giallo.
+Il Centro civico è una casa gialla in piazza, vicino alla chiesa. Dentro c'è una **sala** grande con venti sedie e una **lavagna** verde. La **sala** ha due **finestre** e una porta con il numero nove. Kevin entra e cerca un posto vicino alla **finestra**. La **borsa** è pesante, ma dentro ci sono i **fogli** e il quaderno giallo.
 
 «Buonasera!» dice una signora con gli occhiali.
 
@@ -220,7 +220,7 @@ Anche Alberto ascolta. «Ah, sì. È il **corso** di ballo,» dice.
 
 «Un **corso** di ballo qui?» chiede Kevin.
 
-«Sì. Il martedì e il giovedì, nella **sala** grande,» dice Alberto.
+«Sì. Il martedì, il giovedì e la domenica mattina, nella **sala** grande,» dice Alberto.
 
 Kevin **scrive** una parola nuova nel quaderno: BALLO.
 
@@ -238,7 +238,7 @@ Tutti **leggono**. Kevin **legge** piano, con un dito sul **foglio**. Le parole 
 
 «**Prendo** un caffè, sì. Ma non so dove,» dice Kevin.
 
-«Faccia piano. Il bar non c'è,» dice Carla. «La macchina del caffè è in fondo al **corridoio**.»
+«Il bar non c'è,» dice Carla. «La macchina del caffè è in fondo al **corridoio**.»
 
 «In fondo al **corridoio**. **Capisco**,» dice Kevin.
 
@@ -280,7 +280,7 @@ _Leggere, scrivere, finire, preferire. E adesso la lavagna è mia amica._
 
 La **pausa** comincia. Kevin esce dalla **sala** con Carla e con il **compagno** di banco. Il **corridoio** è lungo e stretto, con un lampadario e tre porte. La prima porta è a sinistra. La seconda è in fondo. La terza è a destra. Carla va verso la porta numero nove.
 
-«Signor Kevin, Lei **sente** anche Lei la **musica**?» chiede Carla.
+«Signor Kevin, Lei **sente** la **musica**?» chiede Carla.
 
 «Sì. È **musica** forte. Ci sono tamburi e violini,» dice Kevin.
 
@@ -324,7 +324,7 @@ Franco **prende** Kevin per un braccio e va nel **corridoio**. Lucia guarda i du
 
 «Mia figlia non sa. Emma non sa. Leo non sa,» dice Franco. «Nessuno sa.»
 
-«Nessuno sa... che Lei **balla** il **tango**?» chiede Kevin.
+«Nessuno sa... che tu **balli** il **tango**?» chiede Kevin.
 
 «Nessuno sa che io **ballo** qui. E nessuno sa di Lucia,» dice Franco.
 
@@ -352,7 +352,7 @@ Franco guarda Kevin negli occhi.
 
 Franco quasi sorride. «Milan o Inter?»
 
-«Questa è la Sua **regola** numero uno,» dice Kevin.
+«Questa è la tua **regola** numero uno,» dice Kevin.
 
 «Esatto. Questa è la **regola**,» dice Franco. «E la **regola** è questa: tu non vedi questa **sala**.»
 
@@ -396,7 +396,7 @@ La professoressa Bassi **legge** i voti. «Cinque, Emma,» dice.
 
 Emma guarda il suo **foglio** del **compito**. Il voto è scritto in rosso: 5.
 
-_A cinque. Cinque come un pollice._
+_Cinque. Solo cinque._
 
 La professoressa continua. «Otto e mezzo, Tommaso. Bravo,» dice.
 
@@ -440,7 +440,7 @@ Emma non parla. Guarda i **fogli** uno per uno. Su ogni **foglio** ci sono **fra
 
 «Sì. **Preferisco** le **frasi**,» dice Tommaso. «Una parola da sola non basta.»
 
-Emma assente. È la prima volta che qualcuno le **presta** qualcosa senza ridere.
+Emma annuisce. È la prima volta che qualcuno le **presta** qualcosa senza ridere.
 
 «Grazie,» dice piano.
 
@@ -468,7 +468,7 @@ Emma **apre** il quaderno e **mette** i **fogli** dentro. Un **compagno** di cla
 
 Tommaso va verso la porta. Poi si gira.
 
-«Emma,» dice. «Il tuo italiano è buono. **Finisci** il quaderno, non la testa.»
+«Emma,» dice. «Il tuo italiano è buono. **Finisci** il quaderno.»
 
 Emma ride, per la prima volta oggi.
 
@@ -572,7 +572,7 @@ Kevin guarda i **fogli**. «Tommaso Colombo? Il ragazzo del treno?»
 
 «Bene. Sei un bravo **compagno**,» dice Chiara.
 
-«E nella **sala** grande c'è la **musica**?» chiede Leo.
+«E al Centro civico c'è la **musica**?» chiede Leo.
 
 Kevin **prende** il bicchiere e beve.
 
@@ -704,7 +704,7 @@ Franco **apre** la bocca. Poi la chiude.
 
 «Come conosci questa parola?» chiede Franco piano.
 
-«Dal quaderno di papà,» dice Leo. «Stasera scrive TANGO.»
+«Dal quaderno di papà,» dice Leo. «Scrive TANGO due volte.»
 
 Franco chiude gli occhi.
 

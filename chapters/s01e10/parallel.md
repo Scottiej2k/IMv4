@@ -80,7 +80,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | Il Centro civico è una casa gialla in piazza, vicino alla chiesa. | The Centro civico is a yellow house in the square, near the church. |
 | Dentro c'è una **sala** grande con venti sedie e una **lavagna** verde. | Inside there's a big **room** with twenty chairs and a green **blackboard**. |
-| La **sala** ha due **finestre** e una porta con il numero otto. | The **room** has two **windows** and a door with the number eight. |
+| La **sala** ha due **finestre** e una porta con il numero nove. | The **room** has two **windows** and a door with the number nine. |
 | Kevin entra e cerca un posto vicino alla **finestra**. | Kevin goes in and looks for a seat near the **window**. |
 | La **borsa** è pesante, ma dentro ci sono i **fogli** e il quaderno giallo. | The **bag** is heavy, but inside there are the **sheets** and the yellow notebook. |
 | «Buonasera!» dice una signora con gli occhiali. | “Good evening!” says a lady with glasses. |
@@ -130,7 +130,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Sento** la **musica**,» dice Kevin. «Dalla **sala** vicina.» | “I **hear** the **music**,” Kevin says. “From the **room** next door.” |
 | Anche Alberto ascolta. «Ah, sì. È il **corso** di ballo,» dice. | Alberto listens too. “Ah, yes. It's the dance **course**,” he says. |
 | «Un **corso** di ballo qui?» chiede Kevin. | “A dance **course** here?” Kevin asks. |
-| «Sì. Il martedì e il giovedì, nella **sala** grande,» dice Alberto. | “Yes. Tuesdays and Thursdays, in the big **room**,” Alberto says. |
+| «Sì. Il martedì, il giovedì e la domenica mattina, nella **sala** grande,» dice Alberto. | “Yes. Tuesdays, Thursdays and Sunday mornings, in the big **room**,” Alberto says. |
 | Kevin **scrive** una parola nuova nel quaderno: BALLO. | Kevin **writes** a new word in the notebook: BALLO. |
 | «Ma Lei stasera impara l'italiano, non il ballo,» dice Alberto. | “But tonight you're learning Italian, not dance,” Alberto says. |
 | «Giusto,» dice Kevin. | “Right,” Kevin says. |
@@ -140,7 +140,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Le parole sono **difficili**, ma Kevin **capisce** la **frase** numero uno. | The words are **difficult**, but Kevin **understands** **sentence** number one. |
 | «Signor Kevin, Lei **prende** il caffè nella **pausa**?» chiede Carla. | “Mr. Kevin, do you **take** coffee during the **break**?” Carla asks. |
 | «**Prendo** un caffè, sì. Ma non so dove,» dice Kevin. | “I **take** a coffee, yes. But I don't know where,” Kevin says. |
-| «Faccia piano. Il bar non c'è,» dice Carla. «La macchina del caffè è in fondo al **corridoio**.» | “Take it easy. There's no bar,” Carla says. “The coffee machine is at the end of the **corridor**.” |
+| «Il bar non c'è,» dice Carla. «La macchina del caffè è in fondo al **corridoio**.» | “There's no bar,” Carla says. “The coffee machine is at the end of the **corridor**.” |
 | «In fondo al **corridoio**. **Capisco**,» dice Kevin. | “At the end of the **corridor**. I **understand**,” Kevin says. |
 | «Vicino alla **sala** grande. La porta numero nove,» dice Carla. | “Near the big **room**. Door number nine,” Carla says. |
 | «Porta numero nove,» ripete Kevin. | “Door number nine,” Kevin repeats. |
@@ -169,7 +169,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Il **corridoio** è lungo e stretto, con un lampadario e tre porte. | The **corridor** is long and narrow, with a lamp and three doors. |
 | La prima porta è a sinistra. La seconda è in fondo. La terza è a destra. | The first door is on the left. The second is at the end. The third is on the right. |
 | Carla va verso la porta numero nove. | Carla goes toward door number nine. |
-| «Signor Kevin, Lei **sente** anche Lei la **musica**?» chiede Carla. | “Mr. Kevin, do you **hear** the **music** too?” Carla asks. |
+| «Signor Kevin, Lei **sente** la **musica**?» chiede Carla. | “Mr. Kevin, do you **hear** the **music** too?” Carla asks. |
 | «Sì. È **musica** forte. Ci sono tamburi e violini,» dice Kevin. | “Yes. It's loud **music**. There are drums and violins,” Kevin says. |
 | «È la **sala** grande. Ogni martedì c'è il **corso** di ballo,» dice Carla. | “It's the big **room**. Every Tuesday there's the dance **course**,” Carla says. |
 | «Ballo?» dice Kevin. «Americano?» | “Dance?” Kevin says. “American?” |
@@ -207,7 +207,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Americano, ascolta bene,» dice Franco. | “American, listen carefully,” Franco says. |
 | «Sì. Ascolto,» dice Kevin. | “Yes. I'm listening,” Kevin says. |
 | «Mia figlia non sa. Emma non sa. Leo non sa,» dice Franco. «Nessuno sa.» | “My daughter doesn't know. Emma doesn't know. Leo doesn't know,” Franco says. “Nobody knows.” |
-| «Nessuno sa... che Lei **balla** il **tango**?» chiede Kevin. | “Nobody knows... that you **dance** the **tango**?” Kevin asks. |
+| «Nessuno sa... che tu **balli** il **tango**?» chiede Kevin. | “Nobody knows... that you **dance** the **tango**?” Kevin asks. |
 | «Nessuno sa che io **ballo** qui. E nessuno sa di Lucia,» dice Franco. | “Nobody knows that I **dance** here. And nobody knows about Lucia,” Franco says. |
 | Kevin pensa alla parola giusta. | Kevin thinks of the right word. |
 | «È un **segreto**,» dice Kevin. | “It's a **secret**,” Kevin says. |
@@ -221,7 +221,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E la mattina al bar? Con Matteo?» chiede Franco. | “And in the morning at the bar? With Matteo?” Franco asks. |
 | «Al bar parlo solo di calcio e di caffè,» dice Kevin. | “At the bar I only talk about soccer and coffee,” Kevin says. |
 | Franco quasi sorride. «Milan o Inter?» | Franco almost smiles. “Milan or Inter?” |
-| «Questa è la Sua **regola** numero uno,» dice Kevin. | “That's your **rule** number one,” Kevin says. |
+| «Questa è la tua **regola** numero uno,» dice Kevin. | “That's your **rule** number one,” Kevin says. |
 | «Esatto. Questa è la **regola**,» dice Franco. «E la **regola** è questa: tu non vedi questa **sala**.» | “Exactly. This is the **rule**,” Franco says. “And the **rule** is this: you don't see this **room**.” |
 | «Non vedo la **sala**,» ripete Kevin. | “I don't see the **room**,” Kevin repeats. |
 | «Tu non **senti** la **musica**,» dice Franco. | “You don't **hear** the **music**,” Franco says. |
@@ -239,7 +239,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin torna nel **corridoio** e guarda la porta numero otto. | Kevin goes back into the **corridor** and looks at door number eight. |
 | Poi guarda la porta numero nove e **prende** la tazzina di caffè. | Then he looks at door number nine and **takes** the little cup of coffee. |
 | Nel **corridoio** c'è ancora la **musica** del **tango**. | In the **corridor** there's still the **tango** **music**. |
-| Kevin **beve** il caffè e non guarda la porta numero otto. | Kevin drinks the coffee and doesn't look at door number eight. |
+| Kevin **beve** il caffè e non guarda la porta numero otto. | Kevin **drinks** the coffee and doesn't look at door number eight. |
 | _Quale porta? Io vedo solo la porta numero nove. E la musica? Quale musica?_ | _Which door? I only see door number nine. And the music? Which music?_ |
 | La porta numero otto resta chiusa. Kevin entra nella porta numero nove. | Door number eight stays closed. Kevin goes in through door number nine. |
 
@@ -250,7 +250,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | È mercoledì mattina. Nell'aula di italiano ci sono venti banchi, una **lavagna** bianca e due **finestre** grandi. | It's Wednesday morning. In the Italian classroom there are twenty desks, a white **blackboard** and two big **windows**. |
 | La professoressa Bassi **legge** i voti. «Cinque, Emma,» dice. | Teacher Bassi **reads** the grades. “Five, Emma,” she says. |
 | Emma guarda il suo **foglio** del **compito**. Il voto è scritto in rosso: 5. | Emma looks at her test **sheet**. The grade is written in red: 5. |
-| _A cinque. Cinque come un pollice._ | _A five. Five like a thumb._ |
+| _Cinque. Solo cinque._ | _Five. Just five._ |
 | La professoressa continua. «Otto e mezzo, Tommaso. Bravo,» dice. | The teacher continues. “Eight and a half, Tommaso. Well done,” she says. |
 | Tommaso è al banco vicino alla **finestra**. Non dice niente. | Tommaso is at the desk near the **window**. He says nothing. |
 | Emma guarda il **foglio** di Tommaso. È pieno di **frasi** e di parole. | Emma looks at Tommaso's **sheet**. It's full of **sentences** and words. |
@@ -277,7 +277,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Le **frasi** vanno in nero. **Leggo** e poi **scrivo** una **frase** mia,» dice Tommaso. | “The **sentences** go in black. I **read** and then I **write** a **sentence** of my own,” Tommaso says. |
 | «Ma tu **preferisci** le **frasi** alle parole?» | “But you **prefer** **sentences** to words?” |
 | «Sì. **Preferisco** le **frasi**,» dice Tommaso. «Una parola da sola non basta.» | “Yes. I **prefer** **sentences**,” Tommaso says. “One word alone isn't enough.” |
-| Emma assente. È la prima volta che qualcuno le **presta** qualcosa senza ridere. | Emma nods. It's the first time someone **lends** her something without laughing. |
+| Emma annuisce. È la prima volta che qualcuno le **presta** qualcosa senza ridere. | Emma nods. It's the first time someone **lends** her something without laughing. |
 | «Grazie,» dice piano. | “Thank you,” she says quietly. |
 | «Prego.» Tommaso mette la **borsa** sulla spalla. | “You're welcome.” Tommaso puts his **bag** on his shoulder. |
 | «Tommaso, aspetta. Io **capisco** tutto in classe. Ma poi **scrivo** come un bambino,» dice Emma. | “Tommaso, wait. I **understand** everything in class. But then I **write** like a child,” Emma says. |
@@ -292,7 +292,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No. Tienili,» dice Tommaso. «Fino a Natale. Questa è la **regola**.» | “No. Keep them,” Tommaso says. “Until Christmas. This is the **rule**.” |
 | «Va bene,» dice Emma. | “All right,” Emma says. |
 | Tommaso va verso la porta. Poi si gira. | Tommaso goes toward the door. Then he turns around. |
-| «Emma,» dice. «Il tuo italiano è buono. **Finisci** il quaderno, non la testa.» | “Emma,” he says. “Your Italian is good. **Finish** the notebook, not your head.” |
+| «Emma,» dice. «Il tuo italiano è buono. **Finisci** il quaderno.» | “Emma,” he says. “Your Italian is good. **Finish** the notebook.” |
 | Emma ride, per la prima volta oggi. | Emma laughs, for the first time today. |
 | «Grazie, Tommaso,» dice. | “Thanks, Tommaso,” she says. |
 | Tommaso esce. Emma resta alla **finestra** con i **fogli** di Tommaso. | Tommaso leaves. Emma stays at the **window** with Tommaso's **sheets**. |
@@ -347,10 +347,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Prometto**,» dice Kevin. | “I **promise**,” Kevin says. |
 | «Nella **pausa** che cosa fai?» chiede Leo. | “What do you do during the **break**?” Leo asks. |
 | «Prendo un caffè. La macchina del caffè è in fondo al corridoio,» dice Kevin. | “I have a coffee. The coffee machine is at the end of the corridor,” Kevin says. |
-| «Con il tuo **compagno** di banco?» chiede Chiara. | “With your deskmate?” Chiara asks. |
+| «Con il tuo **compagno** di banco?» chiede Chiara. | “With your **deskmate**?” Chiara asks. |
 | «Sì. Il mio **compagno** non ha un **foglio** e io gliene **presto** uno,» dice Kevin. | “Yes. My **classmate** doesn't have a **sheet** and I **lend** him one,” Kevin says. |
 | «Bene. Sei un bravo **compagno**,» dice Chiara. | “Good. You're a good **classmate**,” Chiara says. |
-| «E nella **sala** grande c'è la **musica**?» chiede Leo. | “And is there **music** in the big **room**?” Leo asks. |
+| «E al Centro civico c'è la **musica**?» chiede Leo. | “And is there **music** at the community center?” Leo asks. |
 | Kevin **prende** il bicchiere e beve. | Kevin **takes** the glass and drinks. |
 | «Quale **musica**?» dice Kevin. «Io non **sento** **musica**.» | “Which **music**?” Kevin says. “I don't **hear** **music**.” |
 | «Ma tu balli bene?» chiede Leo. | “But do you dance well?” Leo asks. |
@@ -435,6 +435,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E il **tango** è **facile**?» chiede Leo. | “And is the **tango** **easy**?” Leo asks. |
 | Franco **apre** la bocca. Poi la chiude. | Franco **opens** his mouth. Then he closes it. |
 | «Come conosci questa parola?» chiede Franco piano. | “How do you know that word?” Franco asks softly. |
-| «Dal quaderno di papà,» dice Leo. «Stasera scrive TANGO.» | “From Dad's notebook,” Leo says. “Tonight he's writing TANGO.” |
+| «Dal quaderno di papà,» dice Leo. «Scrive TANGO due volte.» | “From Dad's notebook,” Leo says. “He writes TANGO twice.” |
 | Franco chiude gli occhi. | Franco closes his eyes. |
 | _Mah._ | _Mah._ |
