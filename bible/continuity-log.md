@@ -135,6 +135,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** From Friday Chiara sets the alarm and breakfast is at 7:15; she tells Kevin his clock runs ten minutes fast, and he accepts. Chiara starts taking her coffee out alone.
 - **Planted:** Franco's grief and silence at home — «Senza Anna, il rumore non c'è» — needs a later payoff.
 
+### s01e19 · Esco con gli amici
+- **Happened:** Emma asks to go out Saturday night; Chiara allows it with three conditions: pizzeria not discoteca, home by midnight, text if the locale changes. Franco backs Emma in his good jacket. Kevin and Matteo have a “serata tra uomini” at pizzeria Da Ciro, where Kevin orders cappuccino with pizza. Emma goes out with Bianca, Tommaso and Marco, refuses disco, and Tommaso walks her home.
+- **New facts:** Pizzeria Da Ciro in piazza, waiter Sergio. Bianca and Marco are Emma’s school friends; Marco plays with Tommaso, who plays bass (black case). Nadia’s pharmacy closes 7:30. Matteo’s rules: pizza, beer/water, no cappuccino. Franco was once five minutes late past midnight.
+- **Changed:** Chiara gives Emma conditional trust; Nadia promises to tell Chiara about Kevin’s cappuccino. Franco sides with Emma over Chiara.
+- **Planted:** Chiara still doesn’t know Tommaso is one of Emma’s “altri”; Tommaso invites Emma out again. Matteo plans to tell Franco about Kevin at the bar.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

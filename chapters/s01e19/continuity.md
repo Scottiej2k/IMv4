@@ -1,0 +1,5 @@
+### s01e19 · Esco con gli amici
+- **Happened:** Emma asks to go out Saturday night; Chiara allows it with three conditions: pizzeria not discoteca, home by midnight, text if the locale changes. Franco backs Emma in his good jacket. Kevin and Matteo have a “serata tra uomini” at pizzeria Da Ciro, where Kevin orders cappuccino with pizza. Emma goes out with Bianca, Tommaso and Marco, refuses disco, and Tommaso walks her home.
+- **New facts:** Pizzeria Da Ciro in piazza, waiter Sergio. Bianca and Marco are Emma’s school friends; Marco plays with Tommaso, who plays bass (black case). Nadia’s pharmacy closes 7:30. Matteo’s rules: pizza, beer/water, no cappuccino. Franco was once five minutes late past midnight.
+- **Changed:** Chiara gives Emma conditional trust; Nadia promises to tell Chiara about Kevin’s cappuccino. Franco sides with Emma over Chiara.
+- **Planted:** Chiara still doesn’t know Tommaso is one of Emma’s “altri”; Tommaso invites Emma out again. Matteo plans to tell Franco about Kevin at the bar.

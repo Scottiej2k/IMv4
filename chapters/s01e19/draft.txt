@@ -1,0 +1,869 @@
+@vocab
+uscire | verb | | to go out | esco, esci, esce, usciamo, uscite, escono | Irregular present: esco, esci, esce, usciamo, uscite, escono.
+stare | verb | | to stay, to be | sto, stai, sta, stiamo, state, stanno | Come stai? = How are you? stare a casa = to stay home.
+dire | verb | | to say, to tell | dico, dici, dice, diciamo, dite, dicono | dire di sì / dire di no.
+dare | verb | | to give | do, dai, dà, diamo, date, danno | dare il permesso = to give permission.
+bere | verb | | to drink | bevo, bevi, beve, beviamo, bevete, bevono | Irregular present: bevo, bevi, beve, beviamo, bevete, bevono.
+l'invito | noun | m | invitation | invito, inviti |
+il sabato sera | expression | | Saturday night | sabato sera |
+la pizzeria | noun | f | pizzeria | pizzeria, pizzerie |
+va bene | expression | | okay, all right | Va bene |
+mezzanotte | noun | f | midnight | |
+subito | adverb | | right away, immediately | |
+preoccuparsi | verb | | to worry | mi preoccupo, ti preoccupi, si preoccupa, ci preoccupiamo, vi preoccupate, si preoccupano | Reflexive: mi preoccupo, ti preoccupi…
+la serata | noun | f | evening out, night out | serata, serate |
+la compagnia | noun | f | group of friends, company | compagnia, compagnie |
+il coprifuoco | noun | m | curfew | coprifuoco |
+la condizione | noun | f | condition, term | condizione, condizioni |
+la fiducia | noun | f | trust | fiducia |
+la scusa | noun | f | excuse | scusa, scuse | Attenzione: «Scusa!» = "Sorry!" is a different use.
+la promessa | noun | f | promise | promessa, promesse |
+in ritardo | expression | | late | |
+la birra | noun | f | beer | birra, birre |
+la focaccia | noun | f | focaccia (flat oven bread) | focaccia, focacce |
+il locale | noun | m | venue, place to go out | locale, locali |
+la discoteca | noun | f | disco, nightclub | discoteca, discoteche |
+@end
+
+# SCENE casa-carter | sabato mattina | emma, chiara, ben, leo
+È sabato mattina in Via dei Tigli. || It's Saturday morning on Via dei Tigli.
+In cucina c'è odore di caffè e di pane. || In the kitchen there's the smell of coffee and bread.
+
+Kevin canta una canzone americana e prepara la colazione. || Kevin sings an American song and makes breakfast.
+Chiara **beve** il caffè e legge il telefono. || Chiara **drinks** her coffee and reads her phone.
+
+Leo è seduto al tavolo con il quaderno dei gusti. || Leo is sitting at the table with his tastes notebook.
+Emma entra in cucina con il telefono in mano. || Emma comes into the kitchen with her phone in her hand.
+Ha una faccia molto seria. || She has a very serious face.
+
+«Mamma. Papà.»{emma} Emma si siede. «Ho un **invito**.» || "Mom. Dad." Emma sits down. "I have an **invitation**."
+
+Chiara alza gli occhi dal telefono. || Chiara looks up from her phone.
+«Un **invito**? Per cosa?»{chiara} || "An **invitation**? For what?"
+
+Emma respira e dice: «Voglio **uscire** il **sabato sera**.»{emma} || Emma breathes and says: "I want to **go out** on **Saturday night**."
+«Ah! **Va bene**!»{ben|too loud} Kevin sorride **subito**. || "Ah! **Okay**!" Kevin smiles **right away**.
+«Che bello! Bravissima!»{ben} aggiunge. || "How nice! Great!" he adds.
+
+Chiara mette giù il telefono. || Chiara puts down her phone.
+«Con chi?»{chiara} chiede. || "With whom?" she asks.
+
+«Con Bianca»{emma} dice Emma. «E altri.» || "With Bianca," Emma says. "And others."
+
+In cucina c'è silenzio. || In the kitchen there's silence.
+Kevin continua a sorridere. || Kevin keeps smiling.
+Chiara non sorride per niente. || Chiara doesn't smile at all.
+
+«E altri chi?»{chiara} ripete Chiara lentamente. || "And others who?" Chiara repeats slowly.
+«Amici. Della scuola»{emma} dice Emma. || "Friends. From school," Emma says.
+«Quali amici?»{chiara} || "Which friends?"
+
+Emma guarda il tavolo. «Bianca sa tutto.»{emma} || Emma looks at the table. "Bianca knows everything."
+«Bianca sa tutto, ma tu non **dici** niente»{chiara} dice Chiara. || "Bianca knows everything, but you don't **say** anything," Chiara says.
+«Non è importante»{emma} || "It's not important."
+«È importantissimo»{chiara} risponde Chiara. || "It's very important," Chiara answers.
+
+Kevin alza le mani. || Kevin raises his hands.
+«Per me è tutto a posto»{ben} dice. «Bianca e altri. Perfetto.» || "For me everything's fine," he says. "Bianca and others. Perfect."
+«Kevin, tu non **stai** attento»{chiara} dice Chiara. || "Kevin, you're not paying attention," Chiara says.
+«Io **sto** benissimo!»{ben} risponde Kevin. || "I'm great!" Kevin answers.
+«Tu **dici** sempre di sì»{chiara} dice Chiara. || "You always **say** yes," Chiara says.
+«E tu **dici** sempre di no»{ben} dice Kevin. || "And you always **say** no," Kevin says.
+
+Leo alza la testa dal quaderno. || Leo raises his head from the notebook.
+«Io **dico** una cosa»{leo} dice Leo. || "I **say** one thing," Leo says.
+«Perché la **compagnia** non ha un nome?»{leo} || "Why doesn't the **group** have a name?"
+«Appunto»{chiara} dice Chiara. || "Exactly," Chiara says.
+
+Emma guarda Leo con occhi duri. || Emma looks at Leo with hard eyes.
+«Grazie, Leo»{emma} dice. «Molto utile.» || "Thanks, Leo," she says. "Very helpful."
+«Prego»{leo} risponde Leo, contento. || "You're welcome," Leo answers, happy.
+
+Chiara si alza e prende il suo quaderno. || Chiara gets up and takes her notebook.
+Ha la faccia dell'ufficio. || She has her office face.
+«Allora. Le **condizioni** sono tre»{chiara} dice. || "Okay. The **conditions** are three," she says.
+«Primo: il nome. Il nome della **compagnia**.»{chiara} || "First: the name. The name of the **group**."
+Emma apre la bocca, ma Chiara continua. || Emma opens her mouth, but Chiara continues.
+«Secondo: il **locale**. Un posto con un nome.»{chiara} || "Second: the **venue**. A place with a name."
+«Terzo: il **coprifuoco**. A casa a **mezzanotte**.»{chiara} || "Third: the **curfew**. Home by **midnight**."
+
+Emma non dice niente. || Emma says nothing.
+«Il **locale** non lo sappiamo ancora»{emma} dice piano. || "We don't know the **venue** yet," she says quietly.
+«E allora che **serata** è?»{chiara} chiede Chiara. || "And then what kind of **night out** is it?" Chiara asks.
+
+Emma cerca una **scusa**. || Emma looks for an **excuse**.
+«Bianca non sa ancora. Bianca decide stasera»{emma} || "Bianca doesn't know yet. Bianca decides tonight."
+«Allora chiami Bianca e **dici** il nome stasera»{chiara} dice Chiara. || "Then you call Bianca and **say** the name tonight," Chiara says.
+«Ma il **sabato sera** è **subito**!»{emma} protesta Emma. || "But **Saturday night** is **right away**!" Emma protests.
+«Il **sabato sera** è alle otto»{chiara} dice Chiara. «Hai tempo.» || "**Saturday night** is at eight," Chiara says. "You have time."
+
+Emma incrocia le braccia. || Emma crosses her arms.
+_La vera **condizione** è il nome di uno degli "altri"._{emma} pensa. || *The real **condition** is the name of one of the "others,"* she thinks.
+_E quel nome io non **dico** qui._{emma} || *And that name I don't **say** here.*
+
+Kevin si avvicina a Chiara e parla piano. || Kevin comes close to Chiara and speaks quietly.
+«Ma perché ti **preoccupi**?»{ben} chiede. || "But why do you **worry**?" he asks.
+«Perché io ho due occhi e una figlia»{chiara} dice Chiara. || "Because I have two eyes and a daughter," Chiara says.
+«E io **do** una risposta: sì»{ben} dice Kevin. || "And I **give** an answer: yes," Kevin says.
+«Tu non **dai** niente»{chiara} dice Chiara. «Tu approvi e basta.» || "You don't **give** anything," Chiara says. "You just approve."
+«Approvare è bello»{ben} dice Kevin. || "Approving is nice," Kevin says.
+
+Leo scrive qualcosa nel quaderno. || Leo writes something in the notebook.
+«Che cosa scrivi, Leo?»{emma} chiede Emma, sospettosa. || "What are you writing, Leo?" Emma asks, suspicious.
+«La **serata** di Emma: mille domande, zero risposte»{leo} dice Leo. || "Emma's **night out**: a thousand questions, zero answers," Leo says.
+Emma prende il quaderno di Leo. || Emma takes Leo's notebook.
+Leo ride e prende il quaderno. || Leo laughs and takes the notebook.
+
+Chiara chiude il quaderno. || Chiara closes the notebook.
+«Nome, **locale**, ora»{chiara} dice. «E **mezzanotte** è **mezzanotte**.» || "Name, **venue**, time," she says. "And **midnight** is **midnight**."
+«E se andiamo in **discoteca**?»{emma} chiede Emma, con una voce piccola. || "And if we go to a **disco**?" Emma asks, in a small voice.
+«**Discoteca**? A quindici anni? No»{chiara} dice Chiara. || "**Disco**? At fifteen? No," Chiara says.
+«In **discoteca** non entri»{chiara} aggiunge. || "You don't go into a **disco**," she adds.
+«Ma le mie amiche...»{emma} || "But my friends..."
+
+«Le tue amiche **dicono** quello che **dicono**»{chiara} dice Chiara. «Io **dico** un'altra cosa.» || "Your friends **say** what they **say**," Chiara says. "I **say** something else."
+
+Kevin guarda Emma, poi Chiara, poi Emma. || Kevin looks at Emma, then Chiara, then Emma.
+_In America **dico** di no quasi mai._{ben} pensa. || *In America I almost never **say** no,* he thinks.
+_Qui **dico** sempre di sì e non va bene mai._{ben} || *Here I always **say** yes and it's never okay.*
+
+«Non è giusto!»{emma} dice Emma. || "It's not fair!" Emma says.
+«La vita non è giusta»{chiara} dice Chiara. «Ma una promessa funziona.» || "Life isn't fair," Chiara says. "But a promise works."
+Emma guarda la madre. «Che promessa?»{emma} || Emma looks at her mother. "What promise?"
+«La promessa: **mezzanotte**, a casa»{chiara} dice Chiara. || "The promise: **midnight**, home," Chiara says.
+«E se arrivo tardi?»{emma} chiede Emma. || "And if I arrive late?" Emma asks.
+«Se arrivi tardi, la prossima **serata** non c'è»{chiara} dice Chiara. || "If you arrive late, there's no next **night out**," Chiara says.
+Emma fa un respiro lungo. || Emma takes a long breath.
+«Allora non è un sì»{emma} dice. || "Then it's not a yes," she says.
+«È un "vediamo"»{chiara} dice Chiara. || "It's a 'we'll see,'" Chiara says.
+
+Kevin alza di nuovo le mani. || Kevin raises his hands again.
+«Io **dico** di sì!»{ben} dice Kevin. || "I **say** yes!" Kevin says.
+«Tu **dici** sempre di sì»{chiara} dice Chiara, senza guardarlo. || "You always **say** yes," Chiara says, without looking at him.
+«Questo è un fatto strano»{leo} dice Leo, e scrive. || "This is a strange fact," Leo says, and writes.
+
+Emma esce dalla cucina e va in camera sua. || Emma leaves the kitchen and goes to her room.
+Kevin resta in cucina e beve il caffè. || Kevin stays in the kitchen and drinks his coffee.
+Il caffè è freddo. || The coffee is cold.
+
+# SCENE bar-tigli | sabato pomeriggio | ben, matteo
+Il Bar Tigli è piccolo e caldo. || Bar Tigli is small and warm.
+Sul banco c'è la macchina del caffè e una radio. || On the counter there's the coffee machine and a radio.
+Fuori piove un po'. || Outside it's raining a little.
+
+Kevin entra e va **subito** al banco. || Kevin comes in and goes **right away** to the counter.
+«Buongiorno, Matteo!»{ben|cheerful} dice Kevin. || "Good morning, Matteo!" Kevin says.
+«Buongiorno, americano»{matteo} risponde Matteo. || "Good morning, American," Matteo answers.
+«Un caffè, per favore»{ben} dice Kevin. || "A coffee, please," Kevin says.
+«Al banco, come sempre?»{matteo} || "At the counter, as always?"
+«Al banco, come sempre»{ben} dice Kevin. || "At the counter, as always," Kevin says.
+
+Kevin **beve** il caffè in piedi. || Kevin **drinks** the coffee standing.
+È un caffè piccolo e forte. || It's a small, strong coffee.
+«Perfetto»{ben} dice Kevin. «Adesso sono italiano.» || "Perfect," Kevin says. "Now I'm Italian."
+«Adesso sei un uomo con un caffè»{matteo} dice Matteo. «Non è la stessa cosa.» || "Now you're a man with a coffee," Matteo says. "It's not the same thing."
+
+Matteo prende un bicchiere e lo asciuga. || Matteo takes a glass and dries it.
+«Senti. Io ho un **invito** per te»{matteo} dice. || "Listen. I have an **invitation** for you," he says.
+Kevin mette giù la tazzina. || Kevin puts down the cup.
+«Un **invito**? Per che cosa?»{ben} || "An **invitation**? For what?"
+
+«**Sabato sera**. **Pizzeria**. Solo io e te»{matteo} dice Matteo. || "**Saturday night**. **Pizzeria**. Just you and me," Matteo says.
+«Una **serata** tra uomini»{matteo} aggiunge, serio. || "A guys' **night out**," he adds, seriously.
+Kevin apre la bocca e non parla per due secondi. || Kevin opens his mouth and doesn't speak for two seconds.
+«Vuoi **uscire** con me?»{ben|surprised} chiede. || "You want to **go out** with me?" he asks.
+«Sì. **Usciamo** io e te»{matteo} dice Matteo. || "Yes. We **go out**, you and me," Matteo says.
+
+«La **compagnia** è di due persone?»{ben} chiede Kevin. || "The **group** is two people?" Kevin asks.
+«La **compagnia** è perfetta così»{matteo} dice Matteo. || "The **group** is perfect like this," Matteo says.
+«Va bene. **Va bene**!»{ben|very happy} Kevin alza le braccia. || "Okay. **Okay**!" Kevin raises his arms.
+«Adesso devo scrivere questa parola»{ben} dice. || "Now I have to write this word," he says.
+
+Kevin prende il quaderno giallo dalla tasca. || Kevin takes the yellow notebook from his pocket.
+«Che parola?»{matteo} chiede. || "What word?" Matteo asks.
+«**Serata tra uomini**»{ben} dice Kevin, e scrive. || "**Guys' night out**," Kevin says, and writes.
+Poi legge ad alta voce: «Se-ra-ta tra uo-mi-ni.»{ben} || Then he reads out loud: "Se-ra-ta tra uo-mi-ni."
+«Bravo»{matteo} dice Matteo. «Ma adesso ci sono le regole.» || "Good," Matteo says. "But now there are the rules."
+«Le regole?»{ben} chiede Kevin, con il quaderno in mano. || "The rules?" Kevin asks, with the notebook in his hand.
+
+Matteo conta con le dita. || Matteo counts on his fingers.
+«Primo: in **pizzeria** si mangia la pizza»{matteo} dice. || "First: in the **pizzeria** you eat pizza," he says.
+«Secondo: dopo la pizza si **beve** **birra** o acqua»{matteo} || "Second: after pizza you **drink** **beer** or water."
+«Terzo: il cappuccino non è per la **serata**»{matteo} dice. || "Third: cappuccino is not for the **evening**," he says.
+«E la **birra**?»{ben} chiede Kevin. || "And **beer**?" Kevin asks.
+«La **birra** è un'altra cosa»{matteo} dice. «La **birra** è per gli uomini.» || "**Beer** is another thing," Matteo says. "**Beer** is for men."
+Kevin scrive: «**Birra** = parola importante.»{ben} || Kevin writes: "**Beer** = important word."
+
+«E dopo la pizza?»{ben} chiede Kevin. || "And after pizza?" Kevin asks.
+«Dopo la pizza possiamo andare in un **locale** in piazza»{matteo} dice. || "After pizza we can go to a **venue** in the square," Matteo says.
+«Un **locale**? Che **locale**?»{ben} chiede. || "A **venue**? What **venue**?"
+«Il bar in piazza. O la **discoteca** in centro»{matteo} dice Matteo. || "The bar in the square. Or the **disco** downtown," Matteo says.
+«Ma la **discoteca** non mi piace»{matteo} aggiunge. || "But I don't like the **disco**," he adds.
+«A me piace la **pizzeria**»{ben} dice Kevin. || "I like the **pizzeria**," Kevin says.
+«Bene. Allora **pizzeria**»{matteo} dice Matteo. || "Good. Then **pizzeria**," Matteo says.
+
+Matteo prende un pezzo di **focaccia** e lo mette su un piatto. || Matteo takes a piece of **focaccia** and puts it on a plate.
+«Questa è la **focaccia** di mia zia»{matteo} dice. «Con l'olio e il sale.» || "This is my aunt's **focaccia**," he says. "With oil and salt."
+Kevin mangia la **focaccia**. || Kevin eats the **focaccia**.
+«È buona!»{ben} dice. «Questa **focaccia** è buona!» || "It's good!" he says. "This **focaccia** is good!"
+«Lo so»{matteo} dice Matteo. «Mia zia **dà** sempre la **focaccia** ai clienti.» || "I know," Matteo says. "My aunt always **gives** **focaccia** to the customers."
+«Quanto **dà**?»{ben} chiede Kevin. || "How much does she **give**?" Kevin asks.
+«Un pezzo. Per **scusa**»{matteo} dice Matteo. || "A piece. As an **excuse**," Matteo says.
+«**Scusa**?»{ben} || "**Excuse**?"
+«Sì. La **focaccia** è una **scusa** per parlare»{matteo} dice. || "Yes. **Focaccia** is an **excuse** to talk," Matteo says.
+
+Kevin finisce la **focaccia**. || Kevin finishes the **focaccia**.
+«A che ora?»{ben} chiede. || "What time?" Kevin asks.
+«Alle otto. Otto e mezza»{matteo} dice Matteo. || "At eight. Eight thirty," Matteo says.
+«**Va bene**. **D'accordo**»{ben} dice Kevin. || "**Okay**. **Agreed**," Kevin says.
+«Bene. Io lo **dico** sempre: tu **dici** di sì»{matteo} dice Matteo. || "Good. I always **say** it: you **say** yes," Matteo says.
+«Io **dico** di sì **subito**»{ben} dice Kevin. «È la mia natura.» || "I **say** yes **right away**," Kevin says. "It's my nature."
+«Lo so»{matteo} dice Matteo, e ride. || "I know," Matteo says, and laughs.
+
+Kevin chiude il quaderno giallo. || Kevin closes the yellow notebook.
+«Matteo, una domanda»{ben} dice. || "Matteo, a question," Kevin says.
+«Dimmi»{matteo} || "Tell me."
+«Io **sto** bene con te. Anche tu **stai** bene?»{ben} chiede Kevin. || "I **feel** good with you. Do you **feel** good too?" Kevin asks.
+«Io **sto** bene»{matteo} dice Matteo. «Ma non **dico** queste cose al bar.» || "I **feel** good," Matteo says. "But I don't **say** these things at the bar."
+«Ah. **Scusa**»{ben} dice Kevin. || "Ah. **Sorry**," Kevin says.
+
+Matteo prende un altro bicchiere. || Matteo takes another glass.
+«Senti, americano. Il **sabato sera** io lavoro fino alle sette»{matteo} dice. || "Listen, American. On **Saturday night** I work until seven," Matteo says.
+«E io **sto** a casa fino alle sette»{ben} dice Kevin. || "And I **stay** home until seven," Kevin says.
+«**Stai** a casa. **Dici** alla famiglia: esco con Matteo»{matteo} dice. || "**Stay** home. **Say** to the family: I'm going out with Matteo," Matteo says.
+«La famiglia **dice**: Matteo? Il bar?»{ben} chiede Kevin. || "The family **says**: Matteo? The bar?" Kevin asks.
+«No. La famiglia **dice**: perfetto!»{matteo} dice Matteo. || "No. The family **says**: perfect!"
+Kevin ride. || Kevin laughs.
+
+«E Emma esce anche lei stasera»{ben} dice Kevin. || "And Emma is going out tonight too," Kevin says.
+«Emma? Con chi?»{matteo} chiede. || "Emma? With whom?" Matteo asks.
+«Con Bianca e altri»{ben} dice Kevin. || "With Bianca and others," Kevin says.
+«E altri chi?»{matteo} chiede Matteo. || "And others who?" Matteo asks.
+«Ehm. Bianca **dice**... io non **dico**...»{ben} || "Um. Bianca **says**... I don't **say**..."
+«Ah!»{matteo} Matteo sorride. «Capito. La **compagnia** di Emma è un mistero.» || "Ah!" Matteo smiles. "Got it. Emma's **group** is a mystery."
+«Un mistero totale»{ben} dice Kevin. || "A total mystery," Kevin says.
+
+Kevin guarda l'ora. || Kevin looks at the time.
+«Adesso **sto** qui o **esco**?»{ben} chiede. || "Now do I **stay** here or **go out**?" Kevin asks.
+«Tu **stai** qui e **bevi** un altro caffè»{matteo} dice Matteo. || "You **stay** here and **drink** another coffee," Matteo says.
+«Ma la **birra**?»{ben} || "But the **beer**?"
+«La **birra** è per il **sabato sera**»{matteo} dice. «Adesso è pomeriggio.» || "**Beer** is for **Saturday night**," Matteo says. "Now it's afternoon."
+«Ah. **Va bene**»{ben} dice Kevin. || "Ah. **Okay**," Kevin says.
+
+Matteo porta un altro caffè. || Matteo brings another coffee.
+Kevin **beve** il caffè al banco, in piedi. || Kevin **drinks** the coffee at the counter, standing.
+Fuori il sole esce dalle nuvole. || Outside the sun comes out of the clouds.
+_Stasera non sono l'americano._{ben} pensa. || *Tonight I'm not the American,* he thinks.
+_Stasera sono uno della **compagnia**._{ben} || *Tonight I'm one of the **group**.*
+«Grazie, Matteo»{ben} dice Kevin. || "Thanks, Matteo," Kevin says.
+«Grazie di che?»{matteo} || "Thanks for what?"
+«Non **dico** niente»{ben} dice Kevin. «**Dico** solo grazie.» || "I don't **say** anything," Kevin says. "I just **say** thanks."
+Matteo ride e **beve** il suo caffè. || Matteo laughs and **drinks** his coffee.
+
+# SCENE casa-franco | sabato pomeriggio | emma, franco
+La casa di Franco è al numero 9. || Franco's house is at number 9.
+La porta è aperta e in cucina c'è la radio. || The door is open and in the kitchen there's the radio.
+Franco è seduto con un bicchiere d'acqua. || Franco is sitting with a glass of water.
+
+Emma entra e si siede **subito** su una sedia. || Emma comes in and sits **right away** on a chair.
+Ha gli occhi lucidi. || Her eyes are shiny.
+«Nonno»{emma} dice. «Ho un problema.» || "Grandpa," she says. "I have a problem."
+
+Franco mette giù il bicchiere. || Franco puts down the glass.
+«Che problema?»{franco} chiede. || "What problem?" he asks.
+«Stasera io voglio **uscire**»{emma} dice Emma. || "Tonight I want to **go out**," Emma says.
+«**Uscire**? Con chi?»{franco} || "**Go out**? With whom?"
+«Con Bianca. E altri»{emma} dice piano. || "With Bianca. And others," she says quietly.
+
+Franco la guarda per tre secondi. || Franco looks at her for three seconds.
+«E tua madre **dice**?»{franco} chiede. || "And your mother **says**?" Franco asks.
+«Mamma **dice** di no. Papà **dice** di sì»{emma} dice Emma. || "Mom **says** no. Dad **says** yes," Emma says.
+«E allora qual è il problema?»{franco} || "So what's the problem?"
+«Il problema è che nessuno ascolta!»{emma} dice. || "The problem is that nobody listens!" Emma says.
+«Mamma **dice** no per tutto. Papà **dice** sì per tutto»{emma} || "Mom **says** no to everything. Dad **says** yes to everything."
+
+Franco prende una **focaccia** dal tavolo. || Franco takes a piece of **focaccia** from the table.
+La **focaccia** è di stamattina, dal bar. || The **focaccia** is from this morning, from the bar.
+«Mangia»{franco} dice. «E parla piano.» || "Eat," he says. "And speak slowly."
+
+Emma mangia la **focaccia**. || Emma eats the **focaccia**.
+«Nonno, a quindici anni un ragazzo **esce** con gli amici?»{emma} chiede. || "Grandpa, at fifteen does a boy **go out** with friends?" Emma asks.
+Franco ride piano. || Franco laughs quietly.
+«Io? Io **esco** il **sabato sera** con la **compagnia**»{franco} dice. «Anche a quindici anni.» || "Me? I **go out** on **Saturday night** with the **group**," Franco says. "Even at fifteen."
+«E la tua **compagnia**? Ha un nome?»{emma} || "And your **group**? Does it have a name?"
+«Sei nomi»{franco} dice Franco. «Tutti amici.» || "Six names," Franco says. "All friends."
+«E il nonno di papà? **Dice** di sì o di no?»{emma} chiede. || "And Dad's grandpa? Does he **say** yes or no?" Emma asks.
+«Mio padre **dice** sempre: "a casa a **mezzanotte**"»{franco} dice Franco. || "My father always **says**: 'home by **midnight**,'" Franco says.
+«E tu torni a **mezzanotte**?»{emma} || "And do you come home at **midnight**?"
+«Io **dico** di sì, e torno a **mezzanotte**»{franco} dice Franco. || "I **say** yes, and I come home at **midnight**," Franco says.
+«Ma una volta arrivo a casa alle dodici e cinque»{franco} aggiunge. «Una volta sola.» || "But once I arrive home at five past twelve," he adds. "Only once."
+«E poi?»{emma} chiede Emma. || "And then?" Emma asks.
+«Niente. Ma il giorno dopo mio padre non **dice** niente»{franco} dice. «Quello è peggio.» || "Nothing. But the next day my father doesn't **say** anything," Franco says. "That's worse."
+
+Emma mette giù la **focaccia**. || Emma puts down the **focaccia**.
+«Nonno, ma tu stai dalla parte di mamma o dalla mia?»{emma} chiede. || "Grandpa, are you on Mom's side or mine?" Emma asks.
+Franco pensa un momento. || Franco thinks a moment.
+«Io **sto** dalla parte di mia nipote»{franco} dice. || "I'm on my granddaughter's side," Franco says.
+Emma apre la bocca e non **dice** niente. || Emma opens her mouth and doesn't **say** anything.
+«Davvero?»{emma} || "Really?"
+
+«Una casa dove nessuno **esce** è una casa dove nessuno sta bene»{franco} dice. || "A house where nobody **goes out** is a house where nobody is okay," Franco says.
+«Tu **stai** bene qui?»{franco} chiede. || "Are you okay here?" he asks.
+«Sì. Ma voglio **uscire**»{emma} dice. || "Yes. But I want to **go out**," Emma says.
+«Allora **esci**»{franco} dice Franco. || "Then **go out**," Franco says.
+
+Emma sorride per la prima volta. || Emma smiles for the first time.
+«E mamma?»{emma} || "And Mom?"
+«Tua madre vuole **dare** regole»{franco} dice. «Le regole sono buone.» || "Your mother wants to **give** rules," Franco says. "Rules are good."
+«Ma il **coprifuoco**?»{emma} chiede. || "But the **curfew**?" Emma asks.
+«Il **coprifuoco** è un numero»{franco} dice Franco. «La **fiducia** è una cosa più grande.» || "The **curfew** is a number," Franco says. "**Trust** is a bigger thing."
+«**Fiducia**?»{emma} || "**Trust**?"
+«Sì. **Fiducia**»{franco} dice. «Se tu **dici** una cosa, io ti credo.» || "Yes. **Trust**," Franco says. "If you **say** a thing, I believe you."
+
+Emma guarda il tavolo. || Emma looks at the table.
+_Il nonno mi **dà** **fiducia**._{emma} pensa. || *Grandpa **gives** me **trust**.*
+_È l'unico in questa casa._{emma} || *He's the only one in this house.*
+_Ma io non posso **dire** il nome di uno degli "altri"._{emma} || *But I can't **say** the name of one of the "others."*
+
+«Nonno, una cosa»{emma} dice. || "Grandpa, one thing," Emma says.
+«Dimmi»{franco} || "Tell me."
+«Gli altri... la **compagnia**... i nomi li **dico** stasera»{emma} dice. || "The others... the **group**... I'll **say** the names tonight," Emma says.
+Franco la guarda. || Franco looks at her.
+«Perché stasera e non adesso?»{franco} chiede. || "Why tonight and not now?" he asks.
+«Perché Bianca non sa ancora»{emma} dice. È una **scusa**, e lo sa. || "Because Bianca doesn't know yet," Emma says. It's an **excuse**, and she knows it.
+«Mah»{franco} dice Franco. «Bianca è una ragazza molto informata.» || "Hm," Franco says. "Bianca is a very well-informed girl."
+
+Emma si alza. || Emma gets up.
+«Allora **dico** a mamma che tu **dici** di sì?»{emma} || "So do I **tell** Mom that you **say** yes?"
+«No»{franco} dice Franco. «Adesso vado io da tua madre.» || "No," Franco says. "Now I go to your mother myself."
+«Tu?»{emma} || "You?"
+«Io. Sono tuo nonno»{franco} dice. || "Me. I'm your grandfather," Franco says.
+
+Franco si alza e va in camera. || Franco gets up and goes to his room.
+Emma lo sente aprire l'armadio. || Emma hears him open the wardrobe.
+«Nonno, che fai?»{emma} chiede divertita. || "Grandpa, what are you doing?" Emma asks, amused.
+«Mi metto la giacca»{franco} dice dalla camera. «La giacca buona.» || "I'm putting on my jacket," Franco says from the room. "The good jacket."
+«Perché la giacca buona?»{emma} || "Why the good jacket?"
+«Perché è una cosa seria»{franco} dice Franco. || "Because it's a serious matter," Franco says.
+«Una **serata** con gli amici è una cosa seria»{franco} aggiunge. «Si parla con rispetto.» || "A **night out** with friends is a serious matter," he adds. "You speak with respect."
+
+Emma lo abbraccia. || Emma hugs him.
+«Grazie, nonno»{emma} dice. || "Thank you, Grandpa," she says.
+«Non ringraziare ancora»{franco} dice. «Tua madre è mia figlia. È dura come il marmo.» || "Don't thank me yet," Franco says. "Your mother is my daughter. She's hard as marble."
+«Ma tu le **dici** di sì?»{emma} chiede. || "But will you **tell** her yes?" Emma asks.
+«Io le **dico** la verità»{franco} dice Franco. «E la verità è tua amica.» || "I'll **tell** her the truth," Franco says. "And the truth is your friend."
+
+Franco esce in **subito** dal cancello. || Franco goes out through the gate **right away**.
+Emma lo guarda dalla finestra. || Emma watches him from the window.
+_La giacca buona._{emma} pensa. || *The good jacket,* she thinks.
+_Forse stasera **esco** davvero._{emma} || *Maybe tonight I really **am going out**.*
+
+# SCENE casa-carter | sabato sera | franco, chiara, ben, emma
+Sono le sei e mezza di **sabato sera**. || It's six thirty on **Saturday evening**.
+In casa Carter c'è un silenzio strano. || In the Carter house there's a strange silence.
+Chiara apparecchia il tavolo. || Chiara sets the table.
+Kevin guarda la porta. || Kevin watches the door.
+
+Qualcuno bussa. || Someone knocks.
+Emma corre in camera sua. || Emma runs to her room.
+«Chi è?»{chiara} chiede Chiara. || "Who is it?" Chiara asks.
+«È tuo padre»{ben} dice Kevin dalla finestra. «Con una giacca elegante.» || "It's your father," Kevin says from the window. "With an elegant jacket."
+«Una giacca? Perché una giacca?»{chiara} || "A jacket? Why a jacket?"
+«Non lo so. Ma è bella»{ben} dice Kevin. || "I don't know. But it's nice," Kevin says.
+
+Franco entra. || Franco comes in.
+Si sistema la giacca. || He adjusts his jacket.
+«Buonasera»{franco} dice. «Io **sto** in piedi.» || "Good evening," he says. "I'll **stand**."
+«Papà, che cosa vuoi?»{chiara} chiede Chiara. || "Dad, what do you want?" Chiara asks.
+«Parlare di stasera»{franco} dice Franco. || "To talk about tonight," Franco says.
+
+Chiara mette giù i piatti con forza. || Chiara puts down the plates with force.
+«Ah. Ecco il problema»{chiara} dice. || "Ah. Here's the problem," Chiara says.
+«Il problema è mio?»{franco} chiede. || "The problem is mine?" Franco asks.
+«Il problema è che tu **dici** a Emma una cosa e io **dico** un'altra»{chiara} dice. || "The problem is that you **tell** Emma one thing and I **say** another," Chiara says.
+«Io **dico** la mia idea»{franco} dice Franco. || "I **say** my idea," Franco says.
+«E la tua idea è sempre sì»{chiara} dice Chiara. || "And your idea is always yes," Chiara says.
+
+Kevin alza una mano. || Kevin raises a hand.
+«Posso dire una cosa?»{ben} chiede. || "Can I say something?" he asks.
+«No»{chiara} dice Chiara. || "No," Chiara says.
+«Ma io **dico** solo una cosa piccola»{ben} dice Kevin. || "But I **say** only a small thing," Kevin says.
+«Allora dilla»{chiara} || "Then say it."
+«In America gli amici **escono** alle sedici»{ben} dice Kevin. || "In America friends **go out** at sixteen," Kevin says.
+
+Franco lo guarda. || Franco looks at him.
+Emma arriva dalla camera. || Emma arrives from her room.
+«Alle quattro, papà. Alle sedici no»{emma} dice Emma. || "At four, Dad. Not at sixteen," Emma says.
+«Ah. Sì. Alle quattro»{ben} dice Kevin. «Alle sedici è un numero, non un'ora.» || "Ah. Yes. At four," Kevin says. "Sixteen is a number, not a time."
+«Sì. Bravo»{emma} dice Emma. || "Yes. Well done," Emma says.
+Kevin scrive nel quaderno. || Kevin writes in the notebook.
+
+«Allora. **Uscire** o non **uscire**?»{franco} chiede. || "So. **Go out** or not **go out**?" Franco asks.
+«Non **uscire**»{chiara} dice Chiara. || "Not **go out**," Chiara says.
+«Perché?»{franco} chiede Franco. || "Why?" Franco asks.
+«Perché non so dove va, con chi va, a che ora torna»{chiara} dice Chiara. || "Because I don't know where she's going, with whom, at what time she's back," Chiara says.
+
+Franco si siede sul bordo della sedia. || Franco sits on the edge of the chair.
+«Io, a quindici anni, **uscivo** il **sabato sera**»{franco} dice. || "I, at fifteen, **went out** on **Saturday night**," Franco says.
+
+Kevin apre la bocca. || Kevin opens his mouth.
+«Lei **dà** sempre **fiducia** ai ragazzi»{ben} dice Kevin. || "You always **give** **trust** to young people," Kevin says.
+«Nonno **dà**. Non Lei»{emma} dice Emma **subito**. «È tuo suocero. Si dice **nonno**.» || "Grandpa **gives**. Not 'Lei,'" Emma says **right away**. "He's your father-in-law. You say **grandpa**."
+«Nonno **dà**»{ben} ripete Kevin. «Nonno **dà** **fiducia** ai ragazzi.» || "Grandpa **gives**," Kevin repeats. "Grandpa **gives** **trust** to young people."
+«Grazie, americano»{franco} dice Franco, senza sorridere. || "Thank you, American," Franco says, without smiling.
+«Prego!»{ben} dice Kevin, felice. || "You're welcome!" Kevin says, happy.
+
+Chiara incrocia le braccia. || Chiara crosses her arms.
+«Papà, il **coprifuoco** esiste per un motivo»{chiara} dice. || "Dad, the **curfew** exists for a reason," Chiara says.
+«Il **coprifuoco** è un numero»{franco} dice Franco. || "The **curfew** is a number," Franco says.
+«Un numero è tutto»{chiara} dice Chiara. || "A number is everything," Chiara says.
+«No. La **fiducia** è tutto»{franco} dice. || "No. **Trust** is everything," Franco says.
+
+Kevin alza di nuovo la mano. || Kevin raises his hand again.
+«La **fiducia** è molto importante»{ben} dice. || "**Trust** is very important," Kevin says.
+«Kevin»{chiara} dice Chiara. || "Kevin," Chiara says.
+«Sì?»{ben} || "Yes?"
+«**Stai** zitto un momento»{chiara} dice Chiara. || "**Be** quiet a moment," Chiara says.
+«**Sto** zitto»{ben} dice Kevin. E **sta** zitto per dieci secondi. || "I **am** quiet," Kevin says. And he **is** quiet for ten seconds.
+
+Franco guarda Chiara. || Franco looks at Chiara.
+«Le regole sono per la casa, non per la vita»{franco} dice. || "Rules are for the house, not for life," Franco says.
+«Questa è una frase da cartolina»{chiara} dice Chiara. || "That's a postcard sentence," Chiara says.
+«È una frase da padre»{franco} dice Franco. || "It's a father's sentence," Franco says.
+«Tu non **dici** mai queste cose»{chiara} dice Chiara. || "You never **say** these things," Chiara says.
+«Adesso le **dico**»{franco} dice Franco. «Sono vecchio. Ho tempo.» || "Now I **say** them," Franco says. "I'm old. I have time."
+
+Emma è in piedi vicino alla porta. || Emma is standing near the door.
+«Mamma, per favore»{emma} dice. || "Mom, please," Emma says.
+Chiara la guarda. || Chiara looks at her.
+Chiara pensa a sua madre. || Chiara thinks about her mother.
+_Mio padre ha ragione. E io sono quasi contenta._{chiara} pensa. || *My father is right. And I'm almost happy about it,* she thinks.
+
+«**Va bene**»{chiara} dice Chiara. || "**Okay**," Chiara says.
+Emma alza la testa. || Emma raises her head.
+«Ma con tre **condizioni**»{chiara} dice. || "But with three **conditions**," Chiara says.
+«La prima **condizione**: siete in **pizzeria**, non in **discoteca**»{chiara} || "The first **condition**: you're in a **pizzeria**, not in a **disco**."
+«Sì. **Pizzeria**»{emma} dice Emma. || "Yes. **Pizzeria**," Emma says.
+«La seconda **condizione**: a casa a **mezzanotte**»{chiara} dice. «Non **in ritardo**.» || "The second **condition**: home by **midnight**," she says. "Not **late**."
+«A **mezzanotte**»{emma} ripete. || "At **midnight**," Emma repeats.
+«E la terza?»{franco} chiede. || "And the third?" Franco asks.
+
+«La terza è una **promessa**»{chiara} dice Chiara. || "The third is a **promise**," Chiara says.
+«Che **promessa**?»{emma} chiede. || "What **promise**?" Emma asks.
+«Se cambi **locale**, tu scrivi **subito**»{chiara} dice. || "If you change **venue**, you write **right away**," Chiara says.
+«E se non scrivo?»{emma} || "And if I don't write?"
+«Se non scrivi, non **esci** più»{chiara} dice Chiara. || "If you don't write, you don't **go out** anymore," Chiara says.
+«**Va bene**. **Promessa**»{emma} dice Emma. || "**Okay**. **Promise**," Emma says.
+
+Franco si alza. || Franco gets up.
+«Adesso **esco** io»{franco} dice. «Basta così.» || "Now I **go out**," Franco says. "That's enough."
+«Papà, tu non **dici** niente a Kevin?»{chiara} chiede. || "Dad, don't you **say** anything to Kevin?" Chiara asks.
+«Sì. Una cosa»{franco} dice Franco. «L'americano è simpatico. Ma **dice** troppe cose.» || "Yes. One thing," Franco says. "The American is nice. But he **says** too many things."
+«Grazie»{ben} dice Kevin. «Anche io penso che sono simpatico.» || "Thanks," Kevin says. "I also think I'm nice."
+«Non è un complimento»{franco} dice Franco, e va alla porta. || "It's not a compliment," Franco says, and goes to the door.
+
+Chiara guarda la figlia. || Chiara looks at her daughter.
+«E **dici** anche a me chi sono gli altri?»{chiara} chiede. || "And will you **tell** me too who the others are?" Chiara asks.
+«Stasera. **Promessa**»{emma} dice Emma. || "Tonight. **Promise**," Emma says.
+«Io ti **do** **fiducia**»{chiara} dice Chiara. «Non ti **do** tutto, ma **fiducia** sì.» || "I **give** you **trust**," Chiara says. "I don't **give** you everything, but **trust** yes."
+«Grazie, mamma»{emma} dice Emma, piano. || "Thank you, Mom," Emma says, quietly.
+
+Chiara resta sulla porta. || Chiara stays at the door.
+«E se sei **in ritardo** di dieci minuti, il mese prossimo non **esci**»{chiara} dice, gelida. || "And if you're **late** by ten minutes, next month you don't **go out**," Chiara says, coldly.
+«**Promessa**!»{emma} dice Emma. || "**Promise**!" Emma says.
+Kevin batte le mani. || Kevin claps his hands.
+«Vedi? Io **dico** di sì, tu **dici** di sì. Siamo una squadra!»{ben} || "See? I **say** yes, you **say** yes. We're a team!"
+«Non siamo una squadra»{chiara} dice Chiara. || "We're not a team," Chiara says.
+«Una **compagnia**?»{ben} prova Kevin. || "A **group**?" Kevin tries.
+«No. Una famiglia»{chiara} dice Chiara. «È peggio e è meglio.» || "No. A family," Chiara says. "It's worse and it's better."
+
+Franco è già fuori. || Franco is already outside.
+Emma **beve** un bicchiere d'acqua **subito**. || Emma **drinks** a glass of water **right away**.
+Kevin guarda il quaderno giallo. || Kevin looks at the yellow notebook.
+Kevin **si preoccupa** per un secondo. || Kevin **worries** for a second.
+Poi sorride. || Then he smiles.
+
+# SCENE piazza | sabato sera | ben, matteo, nadia
+La **pizzeria** in piazza si chiama Da Ciro. || The **pizzeria** in the square is called Da Ciro.
+Ha dieci tavoli e le luci gialle. || It has ten tables and yellow lights.
+C'è la radio e una partita di calcio sul piccolo schermo. || There's the radio and a soccer game on the small screen.
+
+Matteo e Kevin entrano alle otto e mezza. || Matteo and Kevin come in at eight thirty.
+Matteo saluta il cameriere. || Matteo greets the waiter.
+«Ciao, Sergio»{matteo} dice. «Tavolo vicino alla finestra.» || "Hi, Sergio," he says. "Table near the window."
+«Subito, Matteo»{uomo} dice il cameriere. || "Right away, Matteo," the waiter says.
+
+Kevin guarda tutto. || Kevin looks at everything.
+«Questo **locale** è perfetto»{ben} dice. || "This **venue** is perfect," Kevin says.
+«È una **pizzeria**, americano»{matteo} dice Matteo. || "It's a **pizzeria**, American," Matteo says.
+«Un **locale** piccolo e italiano»{ben} dice Kevin. «Come nei film.» || "A small Italian **venue**," Kevin says. "Like in the movies."
+«Nei film gli americani **escono** sempre con la macchina grande»{matteo} dice. || "In the movies Americans always **go out** with the big car," Matteo says.
+«Anche io ho una macchina!»{ben} || "I have a car too!"
+«Piccola?»{matteo} || "Small?"
+«Piccola»{ben} dice Kevin, e scrive nel quaderno. || "Small," Kevin says, and writes in the notebook.
+
+Sergio porta il menù. || Sergio brings the menu.
+«Due pizze. Una margherita e una con i funghi»{matteo} dice Matteo. || "Two pizzas. One margherita and one with mushrooms," Matteo says.
+«E da **bere**?»{uomo} chiede Sergio. || "And to **drink**?" Sergio asks.
+«Una **birra** media»{matteo} dice. || "A medium **beer**," Matteo says.
+«E per me... un cappuccino»{ben} dice Kevin. || "And for me... a cappuccino," Kevin says.
+
+La **pizzeria** diventa silenziosa per tre secondi. || The **pizzeria** goes silent for three seconds.
+Due signori al tavolo vicino guardano Kevin. || Two men at the next table look at Kevin.
+La radio continua a suonare. || The radio keeps playing.
+Sergio guarda Matteo. || Sergio looks at Matteo.
+Matteo si copre la faccia con le mani. || Matteo covers his face with his hands.
+
+«Un cappuccino?»{uomo|surprised} chiede Sergio. || "A cappuccino?" Sergio asks.
+«Sì. Un cappuccino»{ben} dice Kevin, tranquillo. || "Yes. A cappuccino," Kevin says, calmly.
+«In America **bevo** il cappuccino sempre»{ben} aggiunge. «Anche la **serata**!» || "In America I **drink** cappuccino always," he adds. "Even in the **evening**!"
+«La **serata**?»{matteo} chiede Matteo, dalla faccia coperta. || "The **evening**?" Matteo asks, from behind his covered face.
+«Sì. **Bevo** il cappuccino alle sette di **sera**»{ben} dice Kevin. || "Yes. I **drink** cappuccino at seven in the **evening**," Kevin says.
+«Alle sette di **sera**?»{matteo} || "At seven in the **evening**?"
+«Con la pizza o con la cena»{ben} dice Kevin. || "With pizza or with dinner," Kevin says.
+
+Matteo mette giù le mani. || Matteo puts his hands down.
+«Americano, ascoltami»{matteo} dice. || "American, listen to me," Matteo says.
+«Ti ascolto»{ben} dice Kevin. || "I'm listening," Kevin says.
+«Il cappuccino è per la mattina»{matteo} dice. «**Beviamo** il cappuccino a colazione.» || "Cappuccino is for the morning," Matteo says. "We **drink** cappuccino at breakfast."
+«A colazione?»{ben} || "At breakfast?"
+«A colazione. Alle sette o alle otto»{matteo} dice. || "At breakfast. At seven or at eight," Matteo says.
+«E dopo la pizza?»{ben} chiede Kevin. || "And after pizza?" Kevin asks.
+«Dopo la pizza: **birra** o acqua»{matteo} dice. «Non cappuccino.» || "After pizza: **beer** or water," Matteo says. "Not cappuccino."
+«Ah»{ben} dice Kevin. «È una regola come la **discoteca**?» || "Ah," Kevin says. "Is it a rule like the **disco**?"
+«Sì. Ma più importante»{matteo} dice. || "Yes. But more important," Matteo says.
+
+Sergio guarda ancora Kevin. || Sergio still looks at Kevin.
+«Cameriere, porto la **birra** media»{uomo} dice. «E un cappuccino, se vuole.» || "Waiter, I'll bring the medium **beer**," he says. "And a cappuccino, if he wants."
+«Vuole»{ben} dice Kevin. || "He wants," Kevin says.
+«Vuole»{matteo} dice Matteo. «Ma io pago la **birra**.» || "He wants," Matteo says. "But I'm paying for the **beer**."
+
+Nadia arriva in quel momento. || Nadia arrives at that moment.
+Ha i capelli bagnati e la borsa grande. || Her hair is wet and she has a big bag.
+«Ciao, raga! **Scusa**, sono **in ritardo**»{nadia} dice. || "Hi, everyone! **Sorry**, I'm **late**," she says.
+«**In ritardo** di dieci minuti»{matteo} dice Matteo. || "**Late** by ten minutes," Matteo says.
+«La **farmacia** chiude alle sette e mezza»{nadia} dice. «E un cliente racconta tutto.» || "The **pharmacy** closes at seven thirty," Nadia says. "And a customer tells you everything."
+«Un cliente della farmacia o un cliente del bar?»{matteo} chiede. || "A customer of the pharmacy or a customer of the bar?" Matteo asks.
+«Della farmacia. Con il raffreddore»{nadia} dice Nadia. || "Of the pharmacy. With a cold," Nadia says.
+
+Nadia si siede con loro. || Nadia sits with them.
+Guarda il tavolo. || She looks at the table.
+Vede la **birra** e il cappuccino. || She sees the **beer** and the cappuccino.
+«Perché c'è un cappuccino?»{nadia} chiede. || "Why is there a cappuccino?" Nadia asks.
+«È per Kevin»{matteo} dice. «Vuole **bere** il cappuccino con la pizza.» || "It's for Kevin," Matteo says. "He wants to **drink** cappuccino with pizza."
+«Con la pizza?»{nadia} || "With pizza?"
+«Sì»{ben} dice Kevin, fiero. «È una tradizione americana.» || "Yes," Kevin says, proudly. "It's an American tradition."
+Nadia ride forte. || Nadia laughs loudly.
+«Una tradizione?»{nadia} dice. «Ma quale tradizione!» || "A tradition?" she says. "What tradition!"
+«La mia tradizione»{ben} dice Kevin. || "My tradition," Kevin says.
+
+Sergio porta le pizze. || Sergio brings the pizzas.
+Porta anche la **focaccia** di benvenuto. || He also brings the welcome **focaccia**.
+«La **focaccia** della casa»{uomo} dice. || "The house **focaccia**," he says.
+«Grazie!»{ben} dice Kevin. «La **focaccia** è buona!» || "Thanks!" Kevin says. "The **focaccia** is good!"
+«È la **focaccia** di mia zia»{matteo} dice Matteo. || "It's my aunt's **focaccia**," Matteo says.
+«Tua zia **dà** sempre la **focaccia** al bar»{ben} dice Kevin. || "Your aunt always **gives** **focaccia** at the bar," Kevin says.
+«Sì. E qui nel **locale** anche Sergio»{matteo} dice. || "Yes. And here in the **venue** Sergio does too," Matteo says.
+
+Kevin mangia la pizza. || Kevin eats the pizza.
+Poi beve un po' di **birra**. || Then he drinks some **beer**.
+«**Bevo** la **birra** per te, Matteo»{ben} dice. || "I **drink** the **beer** for you, Matteo," Kevin says.
+«Bravo»{matteo} dice Matteo. || "Good," Matteo says.
+«Ma il cappuccino **sta** qui»{ben} dice Kevin, e tocca la tazzina. || "But the cappuccino **stays** here," Kevin says, and touches the cup.
+«Il cappuccino è sul tavolo»{nadia} dice Nadia, ridendo. || "The cappuccino is on the table," Nadia says, laughing.
+«Il cappuccino **dà** un profumo buono»{ben} dice Kevin. || "The cappuccino **gives** a nice smell," Kevin says.
+«Il cappuccino **dà** un problema»{matteo} dice Matteo. || "The cappuccino **gives** a problem," Matteo says.
+
+Nadia mangia la **focaccia**. || Nadia eats the **focaccia**.
+«Matteo, **dici** a tuo padre?»{nadia} chiede. || "Matteo, will you **tell** your father?" Nadia asks.
+«Domani lo **dico**»{matteo} dice Matteo. «Al bar, davanti a tutti.» || "Tomorrow I'll **tell** him," Matteo says. "At the bar, in front of everyone."
+«Perfetto! Così sono famoso in tutta la **compagnia**!»{ben} dice Kevin. || "Perfect! That way I'm famous in the whole **group**!" Kevin says.
+«In tutto il bar»{nadia} dice Nadia. «E anche in farmacia.» || "In the whole bar," Nadia says. "And in the pharmacy too."
+«In **pizzeria**, in farmacia, al bar»{ben} dice Kevin. «Sono famoso in tutta Borgoverde!» || "In the **pizzeria**, in the pharmacy, at the bar," Kevin says. "I'm famous in all of Borgoverde!"
+
+Kevin guarda il locale. || Kevin looks at the venue.
+Guarda la radio, la **focaccia**, la **birra** e il cappuccino. || He looks at the radio, the **focaccia**, the **beer** and the cappuccino.
+_E questa è la **serata** più italiana della mia vita._{ben} pensa. || *And this is the most Italian **night out** of my life,* he thinks.
+_Perfino il cappuccino è italiano._{ben} || *Even the cappuccino is Italian.*
+
+Nadia paga il caffè di Kevin. || Nadia pays for Kevin's coffee.
+«Io pago questo»{nadia} dice. «È troppo bello.» || "I'm paying for this," Nadia says. "It's too beautiful."
+«Grazie!»{ben} dice Kevin. || "Thanks!" Kevin says.
+«Ma domani lo **dico** a Chiara»{nadia} dice Nadia. || "But tomorrow I'll **tell** Chiara," Nadia says.
+«A Chiara?»{ben} || "Chiara?"
+«Sì. Tua moglie»{nadia} dice. «La mia amica.» || "Yes. Your wife," Nadia says. "My friend."
+«Perfetto!»{ben} dice Kevin. «Così sono famoso in famiglia!» || "Perfect!" Kevin says. "That way I'm famous in the family!"
+
+Matteo beve la sua **birra**. || Matteo drinks his **beer**.
+«Kevin, la famiglia non è una **compagnia**»{matteo} dice. || "Kevin, family isn't a **group**," Matteo says.
+«Come no?»{ben} chiede Kevin. || "How come no?" Kevin asks.
+«La famiglia è... la famiglia»{matteo} dice. «La **compagnia** è la **compagnia**.» || "Family is... family," Matteo says. "A **group** is a **group**."
+«In America è lo stesso»{ben} dice Kevin. || "In America it's the same," Kevin says.
+«Mah»{matteo} dice Matteo, e beve. || "Hm," Matteo says, and drinks.
+
+Nadia si alza. || Nadia gets up.
+«Andiamo?»{nadia} chiede. || "Shall we go?"
+«Andiamo»{matteo} dice Matteo. || "Let's go," Matteo says.
+Kevin prende il cappuccino e beve un sorso. || Kevin takes the cappuccino and drinks a sip.
+«Il cappuccino è freddo»{ben} dice. || "The cappuccino is cold," Kevin says.
+«Sì»{nadia} dice Nadia. || "Yes," Nadia says.
+«È buono lo stesso»{ben} dice Kevin. || "It's good anyway," Kevin says.
+Matteo **sta** in silenzio per un momento. || Matteo **is** silent for a moment.
+Poi ride di nuovo. || Then he laughs again.
+
+# SCENE via | sabato sera | emma, bianca, tommaso
+Sono le nove e mezza di **sabato sera**. || It's nine thirty on **Saturday evening**.
+In piazza c'è poca gente e le luci del bar. || In the square there are few people and the bar lights.
+Emma **esce** davvero di casa. || Emma really **goes out** of the house.
+
+Bianca arriva **subito** con il telefono in mano. || Bianca arrives **right away** with her phone in her hand.
+«Eccoti! Sei **in ritardo** di due minuti»{bianca} dice. || "There you are! You're **late** by two minutes," she says.
+«Di due minuti?»{emma} || "By two minutes?"
+«Sì. Io guardo sempre l'ora»{bianca} dice Bianca. || "Yes. I always watch the time," Bianca says.
+«Tu **dici** sempre l'ora»{emma} dice Emma. || "You always **say** the time," Emma says.
+
+Tommaso arriva dal viale. || Tommaso arrives from the avenue.
+Ha la custodia nera e un amico con lui. || He has the black case and a friend with him.
+«Ciao»{tommaso} dice Tommaso, piano. || "Hi," Tommaso says, quietly.
+«Ciao»{emma} dice Emma. || "Hi," Emma says.
+«Lui è Marco»{tommaso} dice Tommaso. «Suona con me.» || "This is Marco," Tommaso says. "He plays with me."
+«Ciao, Marco»{bianca} dice Bianca. «Sei il terzo della **compagnia**.» || "Hi, Marco," Bianca says. "You're the third one in the **group**."
+«Il terzo? E chi sono gli altri due?»{uomo} chiede Marco. || "The third? And who are the other two?" Marco asks.
+«Boh»{bianca} dice Bianca. «Mistero.» || "Dunno," Bianca says. "Mystery."
+
+La **compagnia** va verso la gelateria in piazza. || The **group** goes toward the gelato shop in the square.
+Emma prende un gelato al limone. || Emma gets a lemon gelato.
+Tommaso prende un gelato piccolo. || Tommaso gets a small gelato.
+«Tu mangi poco»{emma} dice Emma. || "You eat little," Emma says.
+«Io **sto** bene così»{tommaso} dice Tommaso. || "I'm fine like this," Tommaso says.
+
+Bianca fa una foto alla piazza. || Bianca takes a photo of the square.
+Poi guarda Emma con un sorriso strano. || Then she looks at Emma with a strange smile.
+«Emma, una domanda»{bianca} dice. || "Emma, a question," Bianca says.
+«No»{emma} dice Emma **subito**. || "No," Emma says **right away**.
+«Non sai la domanda!»{bianca} || "You don't know the question!"
+«Lo so lo stesso»{emma} dice Emma. || "I know it anyway," Emma says.
+
+Bianca ride. || Bianca laughs.
+«Il basso nero è molto bello»{bianca} dice, e guarda Tommaso. || "The black bass is very beautiful," Bianca says, and looks at Tommaso.
+Tommaso diventa rosso. || Tommaso turns red.
+«Grazie»{tommaso} dice. || "Thanks," Tommaso says.
+«**Dici** grazie e basta?»{bianca} || "You just **say** thanks?"
+«Sì»{tommaso} dice Tommaso. || "Yes," Tommaso says.
+«Che **ansia**!»{bianca} dice Bianca. || "So stressful!" Bianca says.
+
+Emma guarda il telefono. || Emma looks at her phone.
+Sono le dieci e mezza. || It's ten thirty.
+Emma scrive un messaggio a mamma: «Sono in piazza. Tutto bene.»{emma} || Emma writes a message to Mom: "I'm in the square. All good."
+«A chi scrivi?»{bianca} chiede Bianca. || "Who are you writing to?" Bianca asks.
+«A mamma. È una **condizione**»{emma} dice Emma. || "To Mom. It's a **condition**," Emma says.
+«Una **condizione**?»{bianca} || "A **condition**?"
+«Sì. **Fiducia** o niente **serata**»{emma} dice Emma. || "Yes. **Trust** or no **night out**," Emma says.
+
+Marco finisce il gelato. || Marco finishes his gelato.
+«Raga, dopo andiamo in **discoteca**?»{uomo} chiede Marco. || "Guys, afterwards shall we go to the **disco**?" Marco asks.
+«In **discoteca**? A quest'ora?»{bianca} || "To the **disco**? At this hour?"
+«Sì. In centro. C'è un **locale** nuovo»{uomo} dice Marco. || "Yes. Downtown. There's a new **venue**," Marco says.
+Emma mette giù il gelato. || Emma puts down her gelato.
+«No»{emma} dice Emma. || "No," Emma says.
+«Perché no?»{uomo} chiede Marco. || "Why no?" Marco asks.
+
+«È una **promessa**»{emma} dice Emma. || "It's a **promise**," Emma says.
+«Una **promessa**? A chi?»{bianca} chiede Bianca. || "A **promise**? To whom?" Bianca asks.
+«A mamma»{emma} dice Emma. «**Pizzeria**, non **discoteca**.» || "To Mom," Emma says. "**Pizzeria**, not **disco**."
+«Ma tu non **bevi** niente. E in **discoteca** non si **beve** solo **birra**»{uomo} dice Marco. || "But you don't **drink** anything. And at the **disco** people don't only **drink** **beer**," Marco says.
+«Lo so»{emma} dice Emma. «Ma io **dico** di no.» || "I know," Emma says. "But I **say** no."
+«Che **ansia**, che romantica!»{bianca} dice Bianca. || "So stressful, so romantic!" Bianca says.
+«Non è romantico. È serio»{emma} dice Emma. || "It's not romantic. It's serious," Emma says.
+
+Tommaso **sta** zitto per un momento. || Tommaso **is** quiet for a moment.
+Poi guarda Emma. || Then he looks at Emma.
+«Se vuoi, ti accompagno fino al cancello»{tommaso} dice. || "If you want, I'll walk you to the gate," he says.
+Emma lo guarda. || Emma looks at him.
+«Grazie»{emma} dice. || "Thanks," Emma says.
+
+Marco e Bianca vanno verso il bar. || Marco and Bianca go toward the bar.
+Emma e Tommaso camminano piano in Via dei Tigli. || Emma and Tommaso walk slowly along Via dei Tigli.
+La strada è tranquilla. || The street is quiet.
+«Il **coprifuoco** è alle **mezzanotte**?»{tommaso} chiede Tommaso. || "Is your **curfew** at **midnight**?" Tommaso asks.
+«Sì. **Mezzanotte**»{emma} dice Emma. || "Yes. **Midnight**," Emma says.
+«Brava»{tommaso} dice Tommaso. «Anche io ho un **coprifuoco**.» || "Good," Tommaso says. "I have a **curfew** too."
+«**Dici** di sì a tutto?»{emma} chiede Emma. || "Do you **say** yes to everything?" Emma asks.
+«**Dico** di sì a mia madre»{tommaso} dice. «A mio padre **dico** di no.» || "I **say** yes to my mother," Tommaso says. "To my father I **say** no."
+Emma ride. || Emma laughs.
+
+Emma guarda la casa di Tommaso, al numero 11. || Emma looks at Tommaso's house, at number 11.
+«Il tuo **invito**... è un **invito** vero?»{emma} chiede. || "Your **invitation**... is it a real **invitation**?" Emma asks.
+«Quale **invito**?»{tommaso} || "Which **invitation**?"
+«Quello di stasera»{emma} dice Emma. «La **compagnia** sei tu, Bianca, Marco...» || "Tonight's," Emma says. "The **group** is you, Bianca, Marco..."
+«Ah. Sì. Un **invito** piccolo»{tommaso} dice Tommaso. || "Ah. Yes. A small **invitation**," Tommaso says.
+
+Arrivano al cancello del numero 14. || They arrive at the gate of number 14.
+Emma guarda l'ora: undici e mezza. || Emma looks at the time: eleven thirty.
+_Non sono **in ritardo**._{emma} pensa. || *I'm not **late**.*
+_Stasera ho due cose nuove._{emma} || *Tonight I have two new things.*
+_La **fiducia** di mamma. E la **compagnia** ha un nome._{emma} || *Mom's **trust**. And the **group** has a name.*
+_E il nome è Tommaso._{emma} || *And the name is Tommaso.*
+
+«Allora buonanotte»{tommaso} dice Tommaso. || "Well, good night," Tommaso says.
+«Buonanotte»{emma} dice Emma. || "Good night," Emma says.
+«Emma»{tommaso} dice Tommaso. || "Emma," Tommaso says.
+«Sì?»{emma} || "Yes?"
+«La prossima volta **usciamo** in **compagnia** di nuovo»{tommaso} dice. «Se **dici** di sì.» || "Next time we **go out** as a **group** again," Tommaso says. "If you **say** yes."
+
+# SCENE casa-carter | domenica mattina | leo, ben, chiara
+Domenica mattina. || Sunday morning.
+In cucina c'è il sole e il caffè. || In the kitchen there's sun and coffee.
+Leo è seduto al tavolo con il quaderno dei gusti. || Leo is sitting at the table with the tastes notebook.
+
+«Papà»{leo} dice Leo, serio. || "Dad," Leo says, seriously.
+«Sì?»{ben} || "Yes?"
+«È vero che **bevi** il cappuccino con la pizza?»{leo} chiede. || "Is it true that you **drink** cappuccino with pizza?" Leo asks.
+Kevin **sta** zitto per un secondo. || Kevin **is** quiet for a second.
+«Sì. È una tradizione americana»{ben} dice Kevin. || "Yes. It's an American tradition," Kevin says.
+
+Chiara arriva dalla cucina. || Chiara comes from the kitchen.
+«No. Non è una tradizione»{chiara} dice. || "No. It's not a tradition," Chiara says.
+«Non è una tradizione?»{ben} || "It's not a tradition?"
+«No»{chiara} dice Chiara. «È una cosa strana.» || "No," Chiara says. "It's a strange thing."
+
+Leo scrive nel quaderno. || Leo writes in the notebook.
+«Cappuccino e pizza: strano»{leo} dice, leggendo. || "Cappuccino and pizza: strange," Leo says, reading.
+«Birra e pizza: normale»{leo} aggiunge. || "Beer and pizza: normal," he adds.
+«**Va bene**»{ben} dice Kevin. || "**Okay**," Kevin says.
+
+«Ma la **focaccia** con la pizza è buona»{ben} dice Kevin. || "But **focaccia** with pizza is good," Kevin says.
+«Questo sì»{chiara} dice Chiara. || "That, yes," Chiara says.
+Leo scrive ancora: «**Focaccia** e pizza: buona.»{leo} || Leo writes again: "**Focaccia** and pizza: good."
+
+Emma entra in cucina. || Emma comes into the kitchen.
+Ha la giacca e le scarpe. || She has her jacket and her shoes.
+«Vado a fare colazione al bar»{emma} dice. || "I'm going to have breakfast at the bar," she says.
+«Non sei **in ritardo**?»{chiara} chiede Chiara. || "Aren't you **late**?" Chiara asks.
+«No. Sono in anticipo»{emma} dice Emma. «E la **promessa** è una **promessa**.» || "No. I'm early," Emma says. "And a **promise** is a **promise**."
+
+Kevin sorride, fiero. || Kevin smiles, proudly.
+«Vedi? La mia campagna marketing funziona»{ben} dice. || "See? My marketing campaign works," Kevin says.
+«Non è una campagna»{chiara} dice Chiara. «È una figlia.» || "It's not a campaign," Chiara says. "It's a daughter."
+«Ah»{ben} dice Kevin. «**Va bene** anche così.» || "Ah," Kevin says. "**Okay**, that works too."
+
+Leo **dice** una cosa ancora. || Leo **says** one more thing.
+«Papà, tu **bevi** il cappuccino anche stamattina?»{leo} chiede. || "Dad, are you **drinking** cappuccino this morning too?" Leo asks.
+«Stamattina no»{ben} dice Kevin. «Stamattina **bevo** il succo d'arancia.» || "This morning, no," Kevin says. "This morning I'm **drinking** orange juice."
+«Ah. Normale»{leo} dice Leo, e scrive. || "Ah. Normal," Leo says, and writes.
+
+@grammar
+# Irregular verbs: *stare*, *dare*, *dire*, *uscire*, *bere*
+
+## What they are
+
+Most Italian verbs follow a pattern. *Parlare* gives *parlo, parli, parla…*; *credere* gives *credo, credi, crede…*; *dormire* gives *dormo, dormi, dorme…*. Five very common verbs do not follow the pattern, or follow it strangely. They are **stare** (to stay, to be), **dare** (to give), **dire** (to say, to tell), **uscire** (to go out) and **bere** (to drink).
+
+These five verbs are everywhere in daily Italian. *Come stai?* — *How are you?* *Cosa dici?* — *What are you saying?* *Esci stasera?* — *Are you going out tonight?* *Bevo un caffè.* — *I'm drinking a coffee.* You cannot speak Italian for ten minutes without one of them.
+
+## How they work
+
+Here are the present-tense forms. Learn them as a rhythm, not as a list.
+
+| | stare | dare | dire | uscire | bere |
+|---|---|---|---|---|---|
+| io | **sto** | **do** | **dico** | **esco** | **bevo** |
+| tu | **stai** | **dai** | **dici** | **esci** | **bevi** |
+| lui / lei / Lei | **sta** | **dà** | **dice** | **esce** | **beve** |
+| noi | **stiamo** | **diamo** | **diciamo** | **usciamo** | **beviamo** |
+| voi | **state** | **date** | **dite** | **uscite** | **bevete** |
+| loro | **stanno** | **danno** | **dicono** | **escono** | **bevono** |
+
+Some things worth noticing:
+
+- **stare** and **dare** both take an *-o* in the *io* form and an *-ai* in the *tu* form: *sto / stai*, *do / dai*.
+- **dare** keeps the accent in the third person: *dà*, not *da* (*da* means "from"). *Dà* also has two *-a-* sounds: *diamo*, *date*, *danno*.
+- **dire** takes *-c-* in the singular and in *dicono*: *dico, dici, dice, dicono*, but *diciamo, dite*.
+- **uscire** adds *-sc-* everywhere except *noi* and *voi*: *esco, esci, esce, escono*, but *usciamo, uscite*.
+- **bere** is the strangest one. Its endings come from *-ere* (*beviamo, bevete*), but every other form has a *-v-*: *bevo, bevi, beve, bevono*.
+
+### Where *stare* matters most
+
+*Stare* is not only "to stay." It is also how you say how you are, and where you are.
+
+- **Come stai?** — *How are you?* **Come sta?** — *How are you?* (to someone you address with *Lei*).
+- **Sto bene.** — *I'm well.* **Sto male.** — *I'm not well.*
+- **Stare a casa** — *to stay at home*: **Stasera sto a casa.**
+- **Stare zitto** — *to be quiet*: **Stai zitto un momento.**
+- **Stare** with *d'accordo* — **Sto d'accordo** — and simply **Va bene**, **D'accordo**, are the everyday ways to agree.
+
+### The little phrases built on these verbs
+
+- **dire di sì / dire di no** — *to say yes / to say no*: **Io dico di sì.**
+- **dire la verità** — *to tell the truth*.
+- **dare il permesso** — *to give permission*.
+- **dare fiducia a qualcuno** — *to give someone trust*.
+- **uscire con** — *to go out with*: **Esco con Matteo.**
+- **uscire il sabato sera** — *to go out on Saturday night*.
+- **bevo un caffè**, **beviamo una birra**.
+
+## From the story
+
+[[Che cosa scrivi, Leo?]]
+— *dire* in a question, with the *tu* form *scrivi* beside it; *dici* works the same way.
+
+[[Io dico una cosa.]]
+— *dire* in the *io* form: *dico*, not *dicio*.
+
+[[Tu dici sempre di sì.]]
+— *tu* form of *dire*, plus the idiom **dire di sì**.
+
+[[Io le dico la verità.]]
+— *dire* with an indirect idea ("to her"): the truth is what is said.
+
+[[Emma, una domanda.]]
+— a fragment, but the whole scene turns on *dico, dici, dicono*: who says what.
+
+[[Io bevo il cappuccino sempre.]]
+— *bere* in the *io* form: *bevo*, with a *-v-* just like *beviamo*.
+
+[[Voglio bere il cappuccino con la pizza.]]
+— after a modal verb (*volere*) the plain infinitive *bere* follows: *voglio bere*, *devo bere*.
+
+[[Come stai?]] — while the text uses *Sto bene* and *Come stai* in the same shape:
+[[«Io sto bene con te. Anche tu stai bene?»]]
+— *stare* twice, first *io*, then *tu*; the vowel *-a-* stays throughout *stare*.
+
+[[Nonno dà sempre fiducia ai ragazzi.]]
+— *dare* in the third person: *dà*, with the accent.
+
+[[Allora esci.]]
+— *uscire* in the *tu* form: *esci*. The **noi** form *usciamo* means "let's go out."
+
+## Common mistakes
+
+1. **Using *essere* where Italian uses *stare*.** English "I am well" is not *sono bene* but **sto bene**. Same for **sto a casa**, "I'm at home."
+2. **Forgetting the accent in *dà*.** Write *dà* (he/she gives), not *da* (from). *Mio padre dà sempre la focaccia* is right.
+3. **Making *dire* regular.** Not *dio*, not *dici* with a different vowel — the correct forms are **dico, dici, dice**.
+4. **Adding *-sc-* where it doesn't belong in *uscire*.** It is *usciamo* and *uscite*, never *usciamo* with a *-sc-*.
+5. **Making *bere* regular.** Not *bero*, not *biamo*; the forms are **bevo, bevi, beve, beviamo, bevete, bevono**.
+6. **Mixing up *uscire* and *andare***. *Andare* is "to go"; *uscire* is "to go out," to leave the house for fun. **Stasera esco** — not *stasera vado* on its own.
+
+## Practice
+
+Fill in the correct present-tense form of the verb in parentheses.
+
+1. (stare) Io ______ a casa stasera.
+2. (dare) La nonna ______ un biscotto a Leo.
+3. (dire) Che cosa ______ tu?
+4. (uscire) Noi ______ con Bianca e Tommaso.
+5. (bere) Voi ______ una birra o un'acqua?
+6. (stare) Come ______, signora? — ______ bene, grazie. (formal *Lei*)
+7. (dire) Loro ______ sempre di no.
+8. (uscire) Marco non ______ mai in discoteca.
+
+### Answer key
+
+1. **sto** — *Io sto a casa stasera.*
+2. **dà** — *La nonna dà un biscotto a Leo.* (with the accent)
+3. **dici** — *Che cosa dici tu?*
+4. **usciamo** — *Noi usciamo con Bianca e Tommaso.*
+5. **bevete** — *Voi bevete una birra o un'acqua?*
+6. **sta / Sto** — *Come sta, signora?* — *Sto bene, grazie.*
+7. **dicono** — *Loro dicono sempre di no.*
+8. **esce** — *Marco non esce mai in discoteca.*
