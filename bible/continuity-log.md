@@ -68,6 +68,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma has spoken with Tommaso and knows he is the Colombo son, their neighbor; the morning commute is now shared.
 - **Planted:** Emma–Tommaso romance across the hedge (the Romeo-and-Juliet setup); Kevin's notebook of neighbors may return.
 
+### s01e08 · Halloween in Via dei Tigli
+- **Happened:** Kevin fills the garden at number 14 with a two-metre plastic pumpkin, twenty small pumpkins, candles and candy bags; Roberto delivers letters invoking "la regola numero dodici" of the Comitato against it. Franco takes Kevin to Borgoverde's cemetery on Ognissanti (Monday) to Anna Ferri's grave, where Kevin adds his flowers to the vase. Roberto's objection is left unresolved.
+- **New facts:** Marina is Roberto's wife and slips five candies to Leo and Emma through the window; Tommaso carries a black guitar case; Kevin is 41; Franco keeps the same metal vase on Anna's grave and has done for ten years, then eats lunch alone.
+- **Changed:** At the grave Franco switches to tu with Kevin («Parla, se vuoi»), while Kevin keeps Lei; Franco tells Kevin to keep the pumpkin because Anna liked parties and Americans. Roberto half-suspects the candies.
+- **Planted:** Tommaso–Emma runway encounter; Leo asks to do Halloween again next year.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
