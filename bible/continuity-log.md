@@ -56,6 +56,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Ornella and Leo now call each other "nonna"/"nipote" (contract); Chiara, Kevin and Emma know of it. Chiara, Matteo and Kevin notice Franco's vague Sunday "corso" at the Centro civico.
 - **Planted:** Franco's Sunday course (Lucia, still secret); Ornella's loneliness as Leo's chosen family; Emma's promised photo of Leo and Ornella; Franco's Milan-Inter question left unanswered by Kevin.
 
+### s01e06 · Il modulo
+- **Happened:** Kevin filed for residency (*residenza*) at Borgoverde's *municipio*, first sent to the wrong office (Tributi) before finding Anagrafe on floor 1, corridor 2, window 17; his queue number and window number were both 17. Emma's class started a WhatsApp group; Bianca read Emma's phone to add her number to the list, and Emma wrote Bianca's in return. At dinner Kevin explained *cognome* to Leo.
+- **New facts:** The Carter residency is now filed at Via dei Tigli 14; home phone 0347-12058; Chiara's mobile 339-14672; Kevin's mobile 70-335194; Kevin is 41, Chiara 40, Chiara's birthday July 22, Emma's March 2, Leo's June 11; Ornella is 78.
+- **Changed:** Emma is now in the class WhatsApp group and warming to her class; she is quietly interested in Tommaso (Bianca noticed).
+- **Planted:** Monday's gym *modulo* at the palestra (Matteo's warning); Kevin plans to call Ornella for her phone number; Emma's crush on Tommaso.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
