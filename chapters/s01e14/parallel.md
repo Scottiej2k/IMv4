@@ -1,0 +1,772 @@
+# S01E14 · La vigilia
+
+*Christmas Eve* · A1 · Testo parallelo / Parallel text
+
+_Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
+
+## 1. Casa Carter, Via dei Tigli 14 · 24 dicembre, pomeriggio
+
+| Italiano | English |
+|---|---|
+| È il pomeriggio del ventiquattro dicembre. | It's the afternoon of the twenty-fourth of December. |
+| **Nel** salotto dei Carter c'è un albero grande e luminoso. | **In the** Carters' living room there's a big, bright tree. |
+| **Sulla** porta c'è una corona rossa. | **On the** door there's a red wreath. |
+| In cucina c'è un **profumo** dolce. | In the kitchen there's a sweet **smell**. |
+| **Il pandoro** è **sul** tavolo, vicino ai piatti. | **The pandoro** is **on the** table, near the plates. |
+| Vicino c'è anche **il torrone**. | Near it there's also **the nougat**. |
+| Kevin è in piedi davanti a **la tavola** del salotto. | Kevin is standing in front of **the table** in the living room. |
+| Lui **apparecchia** per sette persone. | He **sets the table** for seven people. |
+| «Allora. **La forchetta** a sinistra, il coltello a destra.» | “Okay. **The fork** on the left, the knife on the right.” |
+| Kevin conta **le forchette** ad alta voce. | Kevin counts **the forks** out loud. |
+| «Uno, due, tre, quattro, cinque, sei... sette.» | “One, two, three, four, five, six... seven.” |
+| Poi conta i **tovaglioli**, uno per piatto. | Then he counts the **napkins**, one per plate. |
+| «Sette piatti, sette **tovaglioli**.» | “Seven plates, seven **napkins**.” |
+| Kevin guarda **la tavola** e sorride. | Kevin looks at **the table** and smiles. |
+| Poi ripete una frase, piano. | Then he repeats a sentence, quietly. |
+| «Un amico **del** corso d'italiano.» | “A friend **from the** Italian course.” |
+| «Un amico **del** corso d'italiano.» | “A friend **from the** Italian course.” |
+| In cucina, Leo sente tutto. | In the kitchen, Leo hears everything. |
+| Leo è **sul** divano con un quaderno giallo. | Leo is **on the** sofa with a yellow notebook. |
+| «Papà, che cos'è **il cenone**?» | “Dad, what's **the Christmas Eve dinner**?” |
+| Kevin si gira. | Kevin turns around. |
+| «**Il cenone** è la cena **della** vigilia di Natale.» | “**The Christmas Eve dinner** is the dinner **of the** night before Christmas.” |
+| «Come a Natale?» | “Like at Christmas?” |
+| «Prima di Natale. La sera prima.» | “Before Christmas. The evening before.” |
+| Leo scrive **cenone** **nel** suo quaderno. | Leo writes **cenone** **in his** notebook. |
+| «E che cosa sono **le portate**?» | “And what are **the courses**?” |
+| Kevin apre la bocca, poi la chiude. | Kevin opens his mouth, then closes it. |
+| _Le portate. Come si dice? Una parte?_ | _The courses. How do you say it? A part?_ |
+| «Sono le parti **della** cena. Primo, secondo, dolce.» | “They're the parts **of the** dinner. First course, second course, dessert.” |
+| Leo pensa un momento. | Leo thinks for a moment. |
+| «Allora **la portata** è come un capitolo **del** libro.» | “So **a course** is like a chapter **of the** book.” |
+| Kevin lo guarda, sorpreso. | Kevin looks at him, surprised. |
+| «Sì. Esatto. Bravo, Leo.» | “Yes. Exactly. Good job, Leo.” |
+| «Tu non lo sai, papà?» | “You don't know it, Dad?” |
+| «Io lo so. Ma tu lo spieghi meglio.» | “I know it. But you explain it better.” |
+| Leo ride e scrive anche **portata**. | Leo laughs and writes **portata** down too. |
+| «**Nel** quaderno ho venti parole nuove.» | “**In the** notebook I have twenty new words.” |
+| «Bravo. Io ho trenta parole nuove.» | “Good. I have thirty new words.” |
+| «Trenta? E sei **nervoso**?» | “Thirty? And you're **nervous**?” |
+| Kevin tocca **il tovagliolo** **sulla** tavola. | Kevin touches **the napkin** **on the** table. |
+| «No. Io non sono **nervoso**.» | “No. I'm not **nervous**.” |
+| _Una **bugia** piccola. Piccolissima._ | _A small **lie**. A very tiny one._ |
+| Leo lo guarda come guarda i compiti di matematica. | Leo looks at him the way he looks at math homework. |
+| «Papà, tu sei **nervoso** come un gatto **nel** bagno.» | “Dad, you're as **nervous** as a cat **in the** bathroom.” |
+| «Che cosa?» | “What?” |
+| «Lo dice la nonna Ornella. Il gatto Pavarotti **nel** bagno è **nervoso**.» | “Nonna Ornella says it. Pavarotti the cat **in the** bathroom is **nervous**.” |
+| Kevin ride, ma poco. | Kevin laughs, but not much. |
+| «Va bene. Un pochino **nervoso**.» | “Okay. A little **nervous**.” |
+| In quel momento la porta si apre. | At that moment the door opens. |
+| Entra Chiara con le mani piene. | Chiara comes in with her hands full. |
+| **Nei** sacchetti ci sono **gli auguri** per i vicini. | **In the** bags there are **the greetings** for the neighbors. |
+| «Che profumo! **Pandoro**?» | “What a smell! **Pandoro**?” |
+| «E **torrone**. Un sacco di **torrone**.» | “And **nougat**. A lot of **nougat**.” |
+| Chiara mette i sacchetti **sul** tavolo della cucina. | Chiara puts the bags **on the** kitchen table. |
+| Poi guarda **la tavola** del salotto. | Then she looks at **the table** in the living room. |
+| «Kevin. **La tavola** è pronta per stasera?» | “Kevin. Is **the table** ready for tonight?” |
+| «No. Questa è una prova. Una prova **del** cenone.» | “No. This is a rehearsal. A rehearsal **of the** dinner.” |
+| «Una prova? A casa nostra?» | “A rehearsal? At our house?” |
+| «Sì. Per sette persone. Ma noi siamo quattro.» | “Yes. For seven people. But we're four.” |
+| «Sette? Perché sette?» | “Seven? Why seven?” |
+| Kevin prende **una forchetta** in mano. | Kevin picks up **a fork** in his hand. |
+| «Perché tu, io, Emma, Leo, papà Franco...» | “Because you, me, Emma, Leo, Grandpa Franco...” |
+| «E un amico **del** corso d'italiano.» | “And a friend **from the** Italian course.” |
+| Chiara si ferma e lo guarda. | Chiara stops and looks at him. |
+| «Un amico **del** corso? Tu non parli mai **del** corso.» | “A friend **from the** course? You never talk **about the** course.” |
+| «**Al** corso d'italiano c'è un amico. Un amico simpatico.» | “**At the** Italian course there's a friend. A nice friend.” |
+| «Perfetto!» | “Perfect!” |
+| La **forchetta** cade **sul** pavimento. | **The fork** falls **on the** floor. |
+| Leo guarda **la forchetta**, poi guarda Kevin. | Leo looks at **the fork**, then at Kevin. |
+| «Papà. **Perfetto** non è la parola giusta.» | “Dad. **Perfect** isn't the right word.” |
+| Kevin prende **la forchetta** e la mette **sulla** tavola. | Kevin picks up **the fork** and puts it **on the** table. |
+| «Va bene. Allora... **perfetto** no.» | “Okay. So... **perfect**, no.” |
+| Chiara si avvicina, piano. | Chiara comes closer, slowly. |
+| Lei sistema **i tovaglioli** **sulla** tavola. | She fixes **the napkins** **on the** table. |
+| «Kevin. **Il cenone** è **dal** nonno, **alle** sette.» | “Kevin. **The dinner** is **at** Grandpa's, **at** seven.” |
+| «Sì. Lo so. Sette.» | “Yes. I know. Seven.” |
+| «Allora perché sei **nervoso**?» | “So why are you **nervous**?” |
+| Kevin sorride. Il sorriso è un po' storto. | Kevin smiles. The smile is a little crooked. |
+| _Io? **Nervoso**? Ma no._ | _Me? **Nervous**? No way._ |
+| «Io non sono **nervoso**.» | “I'm not **nervous**.” |
+| Chiara prende un **augurio** dal sacchetto. | Chiara takes **a greeting card** from the bag. |
+| «Questo è per la signora Ornella. **Gli auguri** sono importanti.» | “This one is for Signora Ornella. **Greetings** are important.” |
+| Poi lo guarda negli occhi. | Then she looks him in the eyes. |
+| «Kevin. Perché sei **nervoso**?» | “Kevin. Why are you **nervous**?” |
+
+## 2. Casa di Franco, Via dei Tigli 9 · 24 dicembre, sette di sera
+
+| Italiano | English |
+|---|---|
+| Sono le sette di sera. | It's seven in the evening. |
+| **Dal** numero nove arriva un **profumo** forte. | **From** number nine comes a strong **smell**. |
+| È **il profumo del pesce**. | It's **the smell of the fish**. |
+| Sul pianerottolo c'è anche un altro **profumo**. | On the landing there's also another **smell**. |
+| È **l'antipasto** con l'olio e il limone. | It's **the appetizer** with oil and lemon. |
+| I Carter arrivano con le mani piene. | The Carters arrive with their hands full. |
+| Kevin porta un sacchetto. | Kevin carries a bag. |
+| Emma porta un dolce piccolo. | Emma carries a small dessert. |
+| Leo porta... niente. | Leo carries... nothing. |
+| «Ciao, nonno!» | “Hi, Grandpa!” |
+| Franco apre la porta e guarda il gruppo. | Franco opens the door and looks at the group. |
+| «Bene, siete qui. Entrate.» | “Good, you're here. Come in.” |
+| **Nel** corridoio si sente la radio. | **In the** hallway you can hear the radio. |
+| C'è un canto di Natale, piano. | There's a Christmas song, quiet. |
+| **Sul** muro c'è il presepe della mamma di Franco. | **On the** wall there's Franco's mother's nativity scene. |
+| Kevin entra in cucina. | Kevin goes into the kitchen. |
+| Guarda **la tavola** e conta. | He looks at **the table** and counts. |
+| Uno, due, tre, quattro, cinque, sei, sette. | One, two, three, four, five, six, seven. |
+| Sette piatti. Sette posti. | Seven plates. Seven places. |
+| «Papà Franco. Sette posti?» | “Grandpa Franco. Seven places?” |
+| Franco sistema **una forchetta**. | Franco adjusts **a fork**. |
+| «Sette. Sì.» | “Seven. Yes.” |
+| Poi sposta **la forchetta** un po' a sinistra. | Then he moves **the fork** a little to the left. |
+| Poi la sposta di nuovo a destra. | Then he moves it again to the right. |
+| Emma guarda la scena e sospira. | Emma watches the scene and sighs. |
+| «Nonno, io stasera vado **alla** messa di **mezzanotte**.» | “Grandpa, tonight I'm going **to** midnight mass.” |
+| «Con chi?» | “With whom?” |
+| «Con Bianca. **Alla** chiesa di Borgoverde.» | “With Bianca. **At the** church in Borgoverde.” |
+| Franco annuisce. | Franco nods. |
+| «Brava. **Il campanile** suona **a** **mezzanotte**.» | “Good girl. **The bell tower** rings **at** **midnight**.” |
+| Emma sorride un pochino. | Emma smiles a little. |
+| «Lo so. Bianca dice che **il campanile** è vecchio.» | “I know. Bianca says **the bell tower** is old.” |
+| Kevin mette i sacchetti **sul** tavolo. | Kevin puts the bags **on the** table. |
+| Poi guarda **i tovaglioli**. | Then he looks at **the napkins**. |
+| Sono **sul** piatto, tutti a sinistra. | They're **on the** plate, all to the left. |
+| «I **tovaglioli** sono pronti. Tutto pronto.» | “The **napkins** are ready. Everything's ready.” |
+| Franco prende **un tovagliolo** e lo mette **sulla** tavola. | Franco takes **a napkin** and puts it **on the** table. |
+| Poi lo sposta. | Then he moves it. |
+| Kevin lo guarda. | Kevin watches him. |
+| _Nervoso. Lui è più **nervoso** di me._ | _Nervous. He's more **nervous** than me._ |
+| Leo gira intorno **alla** tavola. | Leo walks around **the** table. |
+| Conta i posti con il dito. | He counts the places with his finger. |
+| «Sette. Ma noi siamo cinque.» | “Seven. But there are five of us.” |
+| «Sei, con il nonno.» | “Six, with Grandpa.” |
+| «Sei. E il settimo?» | “Six. And the seventh?” |
+| Silenzio in cucina. | Silence in the kitchen. |
+| Franco guarda **la forchetta**. | Franco looks at **the fork**. |
+| Chiara guarda Kevin. | Chiara looks at Kevin. |
+| Kevin guarda il pavimento. | Kevin looks at the floor. |
+| «Il settimo è **un invitato**.» | “The seventh is **a guest**.” |
+| «Un **invitato**? Chi?» | “**A guest**? Who?” |
+| Franco prende **il pesce** dal forno. | Franco takes **the fish** out of the oven. |
+| Non risponde subito. | He doesn't answer right away. |
+| «Un amico di Kevin.» | “A friend of Kevin's.” |
+| Kevin sorride a nessuno. | Kevin smiles at nobody. |
+| _Un amico mio. Certo. Una **bugia** grande come una casa._ | _A friend of mine. Sure. A **lie** as big as a house._ |
+| Chiara si gira verso Kevin. | Chiara turns toward Kevin. |
+| «Un amico tuo? **Del** corso d'italiano?» | “A friend of yours? **From the** Italian course?” |
+| «Sì. **Del** corso. Una signora... una persona simpatica.» | “Yes. **From the** course. A lady... a nice person.” |
+| «Una signora?» | “A lady?” |
+| «Una persona. Non una signora. Una persona.» | “A person. Not a lady. A person.” |
+| Leo alza la mano. | Leo raises his hand. |
+| «Papà, una signora è una persona.» | “Dad, a lady is a person.” |
+| «Sì. Grazie, Leo.» | “Yes. Thanks, Leo.” |
+| Franco mette **il pesce** **sulla** tavola. | Franco puts **the fish** **on the** table. |
+| Poi sistema **l'antipasto** vicino ai piatti. | Then he sets **the appetizer** near the plates. |
+| **Nel** forno c'è ancora qualcosa. | **In the** oven there's still something. |
+| **Il cenone** ha molte **portate**. | **The Christmas Eve dinner** has many **courses**. |
+| Franco conta le **portate** con le dita. | Franco counts the **courses** on his fingers. |
+| «**L'antipasto**. Poi **il pesce**. Poi il dolce.» | “**The appetizer**. Then **the fish**. Then dessert.” |
+| «Tre **portate**. Come un libro con tre capitoli.» | “Three **courses**. Like a book with three chapters.” |
+| Franco guarda Leo. | Franco looks at Leo. |
+| «Esatto. Bravo.» | “Exactly. Good job.” |
+| Kevin tocca **la tavola** con la mano. | Kevin touches **the table** with his hand. |
+| «Posso **apparecchiare** io? Mi piace **apparecchiare**.» | “Can I **set the table**? I like **setting the table**.” |
+| «La tavola è pronta.» | “The table is ready.” |
+| «Sì. Ma io...» | “Yes. But I...” |
+| «La tavola è pronta.» | “The table is ready.” |
+| Chiara interviene, veloce. | Chiara steps in, fast. |
+| «Kevin, aiuta Leo con la giacca.» | “Kevin, help Leo with his jacket.” |
+| Kevin esce **nel** corridoio. | Kevin goes out **into the** hallway. |
+| Franco resta solo **in** cucina. | Franco stays alone **in** the kitchen. |
+| _Che serata. Che serata lunga._ | _What an evening. What a long evening._ |
+| Emma guarda l'orologio. | Emma looks at the clock. |
+| «Io vado. Bianca mi aspetta **alla** chiesa.» | “I'm going. Bianca is waiting for me **at the** church.” |
+| «**Alla** **mezzanotte**? Fa freddo.» | “**At** **midnight**? It's cold.” |
+| «Metto la sciarpa.» | “I'll wear a scarf.” |
+| Franco prende **una** sciarpa **dal** chiodo. | Franco takes **a** scarf **from the** hook. |
+| «Questa è calda. Tienila.» | “This one is warm. Keep it.” |
+| Emma la prende. | Emma takes it. |
+| «Grazie, nonno.» | “Thanks, Grandpa.” |
+| Franco le sistema la sciarpa **sulle** spalle. | Franco fixes the scarf **on her** shoulders. |
+| Poi torna verso **il pesce**. | Then he goes back to **the fish**. |
+| Leo rientra **nel** corridoio con Kevin. | Leo comes back **into the** hallway with Kevin. |
+| Leo guarda **la tavola** per sette. | Leo looks at **the table** for seven. |
+| Pensa un momento. | He thinks for a moment. |
+| «Ma papà non ha amici.» | “But Dad doesn't have friends.” |
+| Silenzio. | Silence. |
+| Kevin chiude gli occhi. | Kevin closes his eyes. |
+| «Leo...» | “Leo...” |
+| «Che cosa? È vero. **Al** bar lui parla con tutti, ma amici no.» | “What? It's true. **At the** bar he talks to everyone, but friends, no.” |
+| Chiara ride piano. | Chiara laughs quietly. |
+| Franco non ride. | Franco doesn't laugh. |
+| «**L'invitato** è un amico **del** corso. Basta.» | “**The guest** is a friend **from the** course. That's enough.” |
+| «Va bene, va bene.» | “Okay, okay.” |
+| Poi Leo alza di nuovo la mano. | Then Leo raises his hand again. |
+| «Ma l'amico **del** corso è una signora?» | “But is the friend **from the** course a lady?” |
+| Kevin guarda **il pesce** **sul** tavolo. | Kevin looks at **the fish** **on the** table. |
+| «Il pesce è pronto?» | “Is the fish ready?” |
+| Franco guarda Kevin. | Franco looks at Kevin. |
+| «Quasi.» | “Almost.” |
+| Fuori, **il campanile** suona una volta. | Outside, **the bell tower** rings once. |
+| Emma prende la borsa. | Emma picks up her bag. |
+| «A più tardi!» | “See you later!” |
+| La porta si chiude. | The door closes. |
+| **Nel** corridoio resta un **profumo** di pesce e di limone. | **In the** hallway a **smell** of fish and lemon lingers. |
+| Leo conta ancora i piatti, piano. | Leo counts the plates again, quietly. |
+| «Uno, due, tre, quattro, cinque, sei, sette.» | “One, two, three, four, five, six, seven.” |
+| Kevin lo guarda. | Kevin looks at him. |
+| «Leo, basta con i piatti.» | “Leo, enough with the plates.” |
+| «Ma sette è un numero strano.» | “But seven is a strange number.” |
+| **Dal** piano di sopra arriva un rumore. | **From** the floor above comes a noise. |
+| Franco alza la testa. | Franco raises his head. |
+| Kevin alza la testa. | Kevin raises his head. |
+| «È la porta.» | “It's the door.” |
+| «La porta?» | “The door?” |
+| «La porta di casa. Suona il campanello.» | “The door of the house. The bell rings.” |
+| Franco si asciuga le mani **sul** grembiule. | Franco dries his hands **on** his apron. |
+| Poi guarda **i tovaglioli** **sulla** tavola. | Then he looks at **the napkins** **on the** table. |
+| Poi guarda Kevin. | Then he looks at Kevin. |
+| «L'americano. La porta.» | “The American. The door.” |
+| Kevin annuisce e va **alla** porta. | Kevin nods and goes **to the** door. |
+
+## 3. Casa di Franco, Via dei Tigli 9 · 24 dicembre, sera
+
+| Italiano | English |
+|---|---|
+| La porta si apre. | The door opens. |
+| **Nel** corridoio arriva un soffio di freddo. | **Into** the hallway comes a breath of cold air. |
+| Fuori c'è una signora con un cappotto rosso. | Outside there's a lady in a red coat. |
+| Ha una borsa grande e un sorriso enorme. | She has a big bag and a huge smile. |
+| «Tanti **auguri**!» | “Many **good wishes**!” |
+| Kevin resta fermo **sulla** porta. | Kevin stands still **in the** doorway. |
+| _Lucia. La signora del tango. La signora della stanza otto._ | _Lucia. The lady from the tango. The lady from room eight._ |
+| «Lucia! Buonasera!» | “Lucia! Good evening!” |
+| Lucia entra e dà un bacio a Kevin. | Lucia comes in and gives Kevin a kiss. |
+| Poi vede Chiara. | Then she sees Chiara. |
+| «Tu sei Chiara! Tesoro, piacere! Io sono Lucia.» | “You're Chiara! Sweetheart, nice to meet you! I'm Lucia.” |
+| Chiara sorride, un po' sorpresa. | Chiara smiles, a little surprised. |
+| «Buonasera, signora. Piacere mio.» | “Good evening, ma'am. Nice to meet you too.” |
+| «Signora? No, no. Per me tu sei Chiara.» | “Ma'am? No, no. To me you're Chiara.” |
+| Chiara guarda Kevin un secondo. | Chiara looks at Kevin for a second. |
+| «Va bene. Ciao, Lucia.» | “All right. Hi, Lucia.” |
+| Lucia entra in cucina come a casa sua. | Lucia walks into the kitchen like it's her own home. |
+| «Franco! Che **profumo**!» | “Franco! What a **smell**!” |
+| Franco è in piedi vicino **al** forno. | Franco is standing near **the** oven. |
+| «Ciao.» | “Hi.” |
+| Lucia mette la borsa **sulla** **tavola**. | Lucia puts her bag **on the** **table**. |
+| Tira fuori **un pandoro** grande. | She pulls out **a pandoro**. |
+| «**Il pandoro** è per voi. È **del** forno **della** piazza.» | “**The pandoro** is for you. It's **from the** bakery **in the** square.” |
+| Poi tira fuori **il torrone**. | Then she pulls out **the nougat**. |
+| «E questo è per i bambini. **Il torrone** è dolce, ma non troppo.» | “And this is for the kids. **The nougat** is sweet, but not too sweet.” |
+| Leo arriva di corsa. | Leo comes running. |
+| «**Torrone**! Grazie!» | “**Nougat**! Thanks!” |
+| Lucia gli accarezza la testa. | Lucia strokes his head. |
+| «E tu sei Leo. Kevin **mi racconta** di te.» | “And you're Leo. Kevin **tells** me about you.” |
+| «Papà **racconta** di me?» | “Dad **tells** about me?” |
+| «Certo. **Al** corso d'italiano parla sempre di te.» | “Of course. **At the** Italian course he always talks about you.” |
+| Kevin guarda il pavimento. | Kevin looks at the floor. |
+| _**La bugia** è viva. **La bugia** mangia a casa nostra._ | _**The lie** is alive. **The lie** eats at our house._ |
+| _Al corso parla di Leo? Ma se **al** corso non parla nessuno con lui._ | hmm — Leo's thought, keep simple. |
+| _Papà parla di me. Bene._ | _Dad talks about me. Good._ |
+| Leo prende **il torrone** e sorride. | Leo takes **the nougat** and smiles. |
+| La cucina è calda e piena di profumo. | The kitchen is warm and full of smells. |
+| Lucia si avvicina **al** tavolo e guarda **l'antipasto**. | Lucia goes to the table and looks at **the appetizer**. |
+| «Posso **assaggiare**?» | “Can I **taste** it?” |
+| «Prego.» | “Please.” |
+| Lucia **assaggia** **l'antipasto**. | Lucia **tastes** **the appetizer**. |
+| Chiude gli occhi un momento. | She closes her eyes for a moment. |
+| «Buonissimo. L'olio è **del** tuo orto?» | “Delicious. Is the oil **from** your garden?” |
+| «Sì.» | “Yes.” |
+| «Bene. A Natale **brindare** è importante.» | “Good. At Christmas, **toasting** is important.” |
+| Poi Lucia guarda **il pesce** **sul** tavolo. | Then Lucia looks at **the fish** **on the** table. |
+| **Assaggia** anche **il pesce**. | She **tastes** **the fish** too. |
+| «Franco. **Il pesce** è perfetto.» | “Franco. **The fish** is perfect.” |
+| Franco si sistema **il** grembiule. | Franco adjusts **his** apron. |
+| «È semplice.» | “It's simple.” |
+| «Semplice ma buono. **Al** forno, con il limone.» | “Simple but good. **In the** oven, with lemon.” |
+| Leo conta con le dita. | Leo counts on his fingers. |
+| «**L'antipasto**, **il pesce**, il dolce. Tre **portate**.» | “**The appetizer**, **the fish**, dessert. Three **courses**.” |
+| «Bravo! **Le portate** sono importanti a Natale.» | “Good job! **Courses** are important at Christmas.” |
+| Lucia si siede vicino **alla** **tavola**. | Lucia sits down near **the** **table**. |
+| Poi guarda Franco, che è ancora in piedi. | Then she looks at Franco, who is still standing. |
+| «Franco, tu sei **nervoso**?» | “Franco, are you **nervous**?” |
+| «No.» | “No.” |
+| «Sì!» | “Yes!” |
+| «Leo.» | “Leo.” |
+| «Che cosa? Tu muovi le forchette, nonno.» | “What? You move the forks, Grandpa.” |
+| Chiara ride piano. | Chiara laughs quietly. |
+| Lucia ride forte. | Lucia laughs loudly. |
+| «Kevin! Porta i bicchieri! Facciamo **un brindisi**!» | “Kevin! Bring the glasses! Let's make **a toast**!” |
+| Kevin va **nel** salotto. | Kevin goes **into** the living room. |
+| Prende cinque bicchieri **dal** mobile. | He takes five glasses **from the** cabinet. |
+| Franco prende una bottiglia **dal** frigo. | Franco takes a bottle **from the** fridge. |
+| «**Un brindisi** con il vino rosso.» | “**A toast** with red wine.” |
+| Tutti alzano i bicchieri. | Everybody raises their glasses. |
+| «**Brindiamo** agli **auguri** di Natale!» | “Let's **toast** to Christmas **wishes**!” |
+| «**Brindiamo**!» | “Let's **toast**!” |
+| «**Brindiamo**.» | “Let's **toast**.” |
+| Bevono. Kevin beve tutto. | They drink. Kevin drinks it all. |
+| «Ancora un **brindisi**!» | “Another **toast**!” |
+| «Ancora?» | “Again?” |
+| «Certo. **Il brindisi** numero due è per la salute.» | “Of course. **Toast** number two is for health.” |
+| Bevono di nuovo. | They drink again. |
+| Franco beve un pochino. | Franco drinks a little. |
+| Poi **il brindisi** numero tre. | Then **toast** number three. |
+| «E questo è per gli **invitati**!» | “And this one is for the **guests**!” |
+| «Grazie, signora Lucia.» | “Thank you, Signora Lucia.” |
+| «Lucia! Solo Lucia!» | “Lucia! Just Lucia!” |
+| Chiara annuisce e sorride. | Chiara nods and smiles. |
+| _Perché papà non parla? E perché Kevin è così **nervoso**?_ | _Why isn't Dad talking? And why is Kevin so **nervous**?_ |
+| Lucia mette **il pandoro** **sulla** **tavola**. | Lucia puts **the pandoro** **on the** **table**. |
+| Poi guarda **i tovaglioli** e li sistema. | Then she looks at the napkins and fixes them. |
+| «Franco, questa **tavola** è bella.» | “Franco, this **table** is beautiful.” |
+| «È la tavola di mia madre.» | “It's my mother's table.” |
+| «Lo so. Tu parli sempre di questa tavola.» | “I know. You always talk about this table.” |
+| Chiara alza la testa. | Chiara raises her head. |
+| _Da quando parlano Franco e Lucia?_ | _Since when do Franco and Lucia talk?_ |
+| Poi guarda Kevin. | Then she looks at Kevin. |
+| Kevin guarda **il pesce**. | Kevin looks at **the fish**. |
+| _Che **nervoso**. Che serata._ | _So **nervous**. What an evening._ |
+| Lucia prende un bicchiere e racconta. | Lucia takes a glass and tells a story. |
+| «Mio figlio Gennaro è a Londra. Adesso mangia tacchino a Natale.» | “My son Gennaro is in London. Now he eats turkey at Christmas.” |
+| «Tacchino? A Natale?» | “Turkey? At Christmas?” |
+| «Sì. Come gli americani.» | “Yes. Like Americans.” |
+| Kevin ride. | Kevin laughs. |
+| «Io sono americano!» | “I'm American!” |
+| «Lo so, tesoro. E **il tacchino** è buono?» | “I know, sweetheart. And is **the turkey** good?” |
+| «Sì, ma **il pesce** è meglio.» | “Yes, but **the fish** is better.” |
+| Franco lo guarda, sorpreso. | Franco looks at him, surprised. |
+| «L'americano impara.» | “The American is learning.” |
+| Leo guarda Franco. | Leo looks at Franco. |
+| Franco beve **il** vino. | Franco drinks **his** wine. |
+| Poi sorride un pochino. | Then he smiles a little. |
+| Poi Lucia **racconta** un'altra storia. | Then Lucia **tells** another story. |
+| Parla del Centro civico. Parla del ballo. | She talks about the Centro civico. She talks about the dance. |
+| Kevin tossisce. | Kevin coughs. |
+| «Il ballo? Che ballo?» | “The dance? What dance?” |
+| «Il corso di ballo **al** Centro civico. Io insegno.» | “The dance course **at the** Centro civico. I teach it.” |
+| «Ah. Bello.» | “Oh. Nice.” |
+| Franco guarda **il** piatto. | Franco looks at **his** plate. |
+| Kevin guarda **il** piatto. | Kevin looks at **his** plate. |
+| Leo guarda tutti e due. | Leo looks at both of them. |
+| _Strano. Sono tutti **nervosi**._ | _Strange. They're all **nervous**._ |
+| _Però Lucia è simpatica. È come la nonna del cuore. E parla, parla, parla._ | _But Lucia is nice. She's like my heart-grandma. And she talks, talks, talks._ |
+| Lucia prende **il pandoro** in mano. | Lucia picks up **the pandoro**. |
+| «Dopo il pesce, **il pandoro**. E poi il dolce mio.» | “After the fish, **the pandoro**. And then my dessert.” |
+| «Due dolci?» | “Two desserts?” |
+| «Due. A Natale si mangia.» | “Two. At Christmas you eat.” |
+| Lucia guarda Franco, ancora in piedi. | Lucia looks at Franco, still standing. |
+| «Franco, perché stai in piedi?» | “Franco, why are you standing?” |
+| «Io controllo la cena.» | “I'm checking the dinner.” |
+| «Controlli tutto. Sembri **un invitato**, non il padrone di casa.» | “You check everything. You look like **a guest**, not the host.” |
+| Franco non risponde. | Franco doesn't answer. |
+| Si siede. | He sits down. |
+| Chiara lo guarda, poi guarda Lucia. | Chiara looks at him, then at Lucia. |
+| Poi guarda **la tavola** per sette. | Then she looks at **the table** for seven. |
+| «Manca uno.» | “One is missing.” |
+| «Chi?» | “Who?” |
+| «Emma. È **alla** chiesa.» | “Emma. She's **at the** church.” |
+| «**Alla** chiesa? Stasera?» | “**At the** church? Tonight?” |
+| «Sì. **Alla** messa di **mezzanotte**.» | “Yes. **At** midnight mass.” |
+| Lucia annuisce. | Lucia nods. |
+| «Brava. **Alla** **mezzanotte** **il campanile** suona e la chiesa è piena.» | “Good girl. **At** **midnight** **the bell tower** rings and the church is full.” |
+| «Lo dice anche Bianca.» | “Bianca says so too.” |
+| Franco guarda l'orologio. | Franco looks at the clock. |
+| «Adesso mangiamo.» | “Now let's eat.” |
+| Lucia batte le mani. | Lucia claps her hands. |
+| «Finalmente! **Al** tavolo!» | “Finally! **To the** table!” |
+| Leo corre **alla** sedia. | Leo runs **to the** chair. |
+| Kevin resta **nel** corridoio un secondo. | Kevin stays **in the** hallway for a second. |
+| _**Un invitato**. Adesso capisco._ | _**A guest**. Now I understand._ |
+| Poi entra anche lui. | Then he goes in too. |
+
+## 4. Casa di Franco, Via dei Tigli 9 · 24 dicembre, a tavola
+
+| Italiano | English |
+|---|---|
+| Tutti sono **al** tavolo. | Everyone is **at the** table. |
+| **Sulla** **tavola** ci sono sette piatti. | **On the** **table** there are seven plates. |
+| Sei posti sono pieni. | Six places are full. |
+| Il settimo piatto è vuoto. | The seventh plate is empty. |
+| Franco versa **l'antipasto** **nei** piatti. | Franco pours **the appetizer** **into the** plates. |
+| «**L'antipasto** è con l'olio **del** mio orto.» | “**The appetizer** is with the oil **from** my garden.” |
+| «L'olio è del tuo orto?» | “The oil is from your garden?” |
+| «Sì. E anche i limoni.» | “Yes. And the lemons too.” |
+| Lucia prende **la forchetta**. | Lucia picks up **the forchetta**. |
+| Poi la mette **sul** piatto. | Then she puts it **on the** plate. |
+| «No, Franco. Questa **forchetta** è per il pesce.» | “No, Franco. This **fork** is for the fish.” |
+| Franco la guarda. | Franco looks at her. |
+| «Lo so.» | “I know.” |
+| «Allora perché è qui?» | “Then why is it here?” |
+| «Perché tu la sposti sempre.» | “Because you always move it.” |
+| Leo ride con la bocca piena. | Leo laughs with his mouth full. |
+| «Nonno, anche tu sposti le forchette!» | “Grandpa, you move the forks too!” |
+| Kevin prende **il tovagliolo**. | Kevin takes **the napkin**. |
+| Lo mette **sulle** ginocchia. | He puts it **on** his knees. |
+| «**Nel** mio paese il tovagliolo va **sul** piatto.» | “**In** my country the napkin goes **on the** plate.” |
+| «**Nel** tuo paese?» | “**In** your country?” |
+| «Sì. **Nel** paese mio, a Columbus.» | “Yes. **In** my country, in Columbus.” |
+| Lucia **assaggia** l'antipasto. | Lucia **tastes** the appetizer. |
+| Chiude gli occhi. | She closes her eyes. |
+| «Buonissimo. **Il** limone è perfetto.» | “Very good. **The** lemon is perfect.” |
+| Chiara **assaggia** anche lei. | Chiara **tastes** it too. |
+| «Sì. Molto buono. Ma io ho fame, papà.» | “Yes. Very good. But I'm hungry, Dad.” |
+| «Anche io!» | “Me too!” |
+| Franco si alza e va **al** forno. | Franco gets up and goes **to the** oven. |
+| Prende **il pesce**. | He takes **the fish**. |
+| Lo mette **sul** vassoio. | He puts it **on the** tray. |
+| **Nel** frigo c'è il vino bianco. | **In the** fridge there's the white wine. |
+| Lucia si alza anche lei. | Lucia gets up too. |
+| «Io prendo il vino.» | “I'll get the wine.” |
+| «No. Siediti.» | “No. Sit down.” |
+| «Franco, sono **un'invitata**. Aiuto.» | “Franco, I'm **a guest**. I'll help.” |
+| «Sei un'**invitata**. Siediti.» | “You're **a guest**. Sit down.” |
+| Lucia lo guarda e sorride. | Lucia looks at him and smiles. |
+| Poi si siede. | Then she sits down. |
+| _Testardo come un mulo._ | _Stubborn as a mule._ |
+| Kevin si alza. | Kevin gets up. |
+| «Io prendo il vino. **Dal** frigo, sì?» | “I'll get the wine. **From the** fridge, right?” |
+| «Sì. **Sul** tavolo.» | “Yes. **On the** table.” |
+| Kevin apre **il** frigo. | Kevin opens **the** fridge. |
+| Prende due bottiglie. | He takes two bottles. |
+| Franco mette **il pesce** **al** centro della tavola. | Franco puts **the fish** **in the** center of the table. |
+| Poi prende **il** coltello. | Then he takes **the** knife. |
+| «**Il pesce** è per tutti. Con il limone.» | “**The fish** is for everyone. With lemon.” |
+| Lucia guarda **il pesce**. | Lucia looks at **the fish**. |
+| «È grande. È per sette persone.» | “It's big. It's for seven people.” |
+| Silenzio per un secondo. | Silence for a second. |
+| Chiara guarda **il** piatto vuoto. | Chiara looks at **the** empty plate. |
+| Kevin guarda **il** piatto vuoto. | Kevin looks at **the** empty plate. |
+| «Il settimo posto è per un'**invitata**?» | “Is the seventh place for **a guest**?” |
+| «Sì. Un'amica **del** corso d'italiano.» | “Yes. A friend **from the** Italian course.” |
+| «Dove abita?» | “Where does she live?” |
+| «**Vicino** **al** Centro civico. Credo.» | “**Near the** Centro civico. I think.” |
+| «Credi?» | “You think?” |
+| «Sì. Non lo so bene. Una **bugia**... una cosa piccola.» | “Yes. I don't know exactly. A **lie**... a small thing.” |
+| Kevin si ferma. | Kevin stops. |
+| _Gli occhi di Chiara sono due domande._ | _Chiara's eyes are two questions._ |
+| «Papà, mangia.» | “Dad, eat.” |
+| Franco serve **il pesce** **nei** piatti. | Franco serves **the fish** **into the** plates. |
+| Poi prende **le** forchette. | Then he takes **the** forks. |
+| «**Nel** piatto, con la forchetta nuova.» | “**In the** plate, with the new fork.” |
+| Lucia prende **la** forchetta. | Lucia takes **the** fork. |
+| «Questa è la forchetta giusta.» | “This is the right fork.” |
+| Emma arriva in quel momento. | Emma arrives at that moment. |
+| Ha la sciarpa di Franco. | She has Franco's scarf. |
+| «Emma! Sei qui!» | “Emma! You're here!” |
+| «Sì. Parlo con Bianca **alla** chiesa. Torno **alla** messa dopo.» | “Yes. I talk with Bianca **at the** church. I go back **to** mass after.” |
+| Si siede **al** tavolo. | She sits down **at the** table. |
+| «Ciao, Emma.» | “Hi, Emma.” |
+| Emma alza la testa. | Emma raises her head. |
+| «Buonasera, signora.» | “Good evening, ma'am.” |
+| «No, no. Lucia.» | “No, no. Lucia.” |
+| Emma annuisce e prende **la forchetta**. | Emma nods and takes **the fork**. |
+| Emma **assaggia** **il pesce** ma non parla. | Emma **tastes** **the fish** but doesn't speak. |
+| _La signora Lucia è simpatica. Ma la chiesa è più tranquilla._ | _Signora Lucia is nice. But the church is quieter._ |
+| _Nel**la** chiesa c'è silenzio. **Alla** messa di **mezzanotte** non parla nessuno._ | hmm — double bold issue, keep simple. |
+| Rewrite: _**Alla** chiesa non parla nessuno. Meglio così._ | _**At the** church nobody talks. Better that way._ |
+| Franco prende **il** vino bianco. | Franco takes **the** white wine. |
+| «Un altro **brindisi**.» | “Another **toast**.” |
+| «Ancora?» | “Again?” |
+| «A tavola, sempre.» | “At the table, always.” |
+| Alzano i bicchieri. | They raise their glasses. |
+| «**Brindiamo** alla salute!» | “Let's **toast** to health!” |
+| «**Brindiamo**!» | “Let's **toast**!” |
+| «**Brindiamo**!» | “Let's **toast**!” |
+| Bevono tutti. | Everybody drinks. |
+| Poi Franco accende la radio. | Then Franco turns on the radio. |
+| **Nel** corridoio c'è musica. | **Into** the hallway comes music. |
+| «I **canti** di Natale.» | “**The Christmas songs**.” |
+| Lucia canta piano, sotto voce. | Lucia sings quietly, under her breath. |
+| «Io **racconto** una cosa. **Nel** mio paese, a Natale, **i canti** durano ore.» | “I'll **tell** you one thing. **In** my hometown, at Christmas, **the songs** last for hours.” |
+| «Ore?» | “Hours?” |
+| «Ore. E dopo si mangia ancora.» | “Hours. And afterward you eat again.” |
+| Leo guarda **il** piatto. | Leo looks at **his** plate. |
+| «Nonno, una domanda.» | “Grandpa, a question.” |
+| «Dimmi.» | “Tell me.” |
+| «Perché sei sempre **al** Centro civico?» | “Why are you always **at the** Centro civico?” |
+| Silenzio. | Silence. |
+| Franco guarda Leo. | Franco looks at Leo. |
+| Lucia guarda **il** bicchiere. | Lucia looks at **her** glass. |
+| Kevin parla forte e veloce. | Kevin talks loudly and fast. |
+| «Leo! Guarda! Guarda il **pesce**! È il pesce più bello **del** mondo!» | “Leo! Look! Look at **the fish**! It's the most beautiful fish **in the** world!” |
+| «Davvero?» | “Really?” |
+| «Sì! **Nel** piatto! Guarda!» | “Yes! **In the** plate! Look!” |
+| Franco non dice niente. | Franco says nothing. |
+| Lucia prende **il** pane. | Lucia takes **the** bread. |
+| «Kevin, mangia il pesce. Poi parli.» | “Kevin, eat the fish. Then you talk.” |
+| Kevin obbedisce. | Kevin obeys. |
+| Chiara lo guarda di lato. | Chiara looks at him sideways. |
+| «Kevin, sei **nervoso**?» | “Kevin, are you **nervous**?” |
+| «No! Mangio!» | “No! I'm eating!” |
+| Lucia ride. | Lucia laughs. |
+| Poi racconta un'altra storia. | Then she tells another story. |
+| «Mio figlio, a Londra, mangia **il pesce** **nel** ristorante.» | “My son, in London, eats **the fish** **in the** restaurant.” |
+| «Nel ristorante? A Natale?» | “**In the** restaurant? At Christmas?” |
+| «Sì. Povero Gennaro.» | “Yes. Poor Gennaro.” |
+| «Un momento triste.» | “A sad moment.” |
+| «Triste sì. Ma lui è felice. Ha un buon lavoro.» | “Sad, yes. But he's happy. He has a good job.” |
+| Chiara **assaggia** il dolce. | Chiara **tastes** the dessert. |
+| «Lucia, questo **cenone** è meraviglioso.» | “Lucia, this **Christmas dinner** is wonderful.” |
+| «**Il cenone** è di Franco! Io porto solo **il torrone**.» | “**The dinner** is Franco's! I only bring **the nougat**.” |
+| «Ma tu porti sempre **il pandoro**.» | “But you always bring **the pandoro**.” |
+| «Tesoro!» | “Sweetheart!” |
+| Chiara sorride. | Chiara smiles. |
+| Lucia la guarda e continua. | Lucia looks at her and goes on. |
+| «Una donna porta sempre qualcosa. Una tradizione.» | “A woman always brings something. A tradition.” |
+| «Nel mio paese, il vino.» | “**In** my country, wine.” |
+| «**Nel** tuo paese tutto è diverso.» | “**In** your country everything is different.” |
+| Kevin ride. | Kevin laughs. |
+| Franco si alza. | Franco gets up. |
+| Va **al** forno e prende **il** dolce. | He goes **to the** oven and takes **the** dessert. |
+| Poi prende **il torrone**. | Then he takes **the nougat**. |
+| «Ancora un pochino?» | “A little more?” |
+| Tutti rispondono insieme. | Everybody answers together. |
+| «No!» | “No!” |
+| «No, grazie.» | “No, thanks.” |
+| «No.» | “No.” |
+| Emma scuote la testa. | Emma shakes her head. |
+| Lucia guarda Franco. | Lucia looks at Franco. |
+| Poi guarda **il torrone**. | Then she looks at **the nougat**. |
+| «Sì.» | “Yes.” |
+| Franco la guarda. | Franco looks at her. |
+| «Sì?» | “Yes?” |
+| «Sì. Un pochino. **A** Natale il dolce è **l'augurio**.» | “Yes. A little. **At** Christmas dessert is **the wish**.” |
+| Franco taglia **il torrone** e le dà un pezzo. | Franco cuts **the nougat** and gives her a piece. |
+
+## 5. Piazza della Chiesa · 24 dicembre, mezzanotte
+
+| Italiano | English |
+|---|---|
+| La piazza è davanti **alla** chiesa. | The square is in front of **the** church. |
+| **Sul** campanile c'è una luce gialla. | **On the** bell tower there's a yellow light. |
+| **Il campanile** è vecchio e alto. | **The bell tower** is old and tall. |
+| **Alla** **mezzanotte** suona per la messa. | **At** **midnight** it rings for mass. |
+| Nella piazza ci sono molte persone. | In the square there are many people. |
+| Emma arriva con la sciarpa di Franco. | Emma arrives with Franco's scarf. |
+| Ha le mani **nelle** tasche. | She has her hands **in her** pockets. |
+| Ha freddo. | She's cold. |
+| Guarda **il campanile** e aspetta. | She looks at **the bell tower** and waits. |
+| Bianca arriva di corsa. | Bianca comes running. |
+| «Emma! Sei qui!» | “Emma! You're here!” |
+| «Ciao. Fa freddo.» | “Hi. It's cold.” |
+| «Lo so! Ma guarda: **il campanile** è acceso!» | “I know! But look: **the bell tower** is lit up!” |
+| «Sì. Bello.» | “Yes. Nice.” |
+| Bianca guarda a destra e a sinistra. | Bianca looks right and left. |
+| «Mamma mia. C'è mia cugina. E anche mio cugino.» | “Oh my. My cousin is here. And my other cousin too.” |
+| «Vai.» | “Go.” |
+| «Un secondo! Torno subito!» | “One second! I'll be right back!” |
+| Bianca scompare **nella** folla. | Bianca disappears **into the** crowd. |
+| Emma resta sola. | Emma is left alone. |
+| Aspetta. | She waits. |
+| Poi sente una voce vicino **al** muro. | Then she hears a voice near **the** wall. |
+| «Ciao, Emma.» | “Hi, Emma.” |
+| Emma si gira. | Emma turns around. |
+| È Tommaso. | It's Tommaso. |
+| Ha un cappotto nero e un cappello grigio. | He has a black coat and a gray hat. |
+| «Ciao.» | “Hi.” |
+| _Lui qui? Alla messa?_ | _Him here? At mass?_ |
+| Tommaso mette le mani **nelle** tasche. | Tommaso puts his hands **in his** pockets. |
+| «Sei sola?» | “Are you alone?” |
+| «Bianca c'è. Ma è con i cugini.» | “Bianca is here. But she's with her cousins.” |
+| «Ah.» | “Oh.” |
+| «Tu sei solo?» | “Are you alone?” |
+| «Sì. Mio papà è a casa. Io vengo **alla** messa da solo.» | “Yes. My dad is at home. I come **to** mass alone.” |
+| Emma annuisce. | Emma nods. |
+| _Da solo. Strano, ma non troppo._ | _Alone. Strange, but not too strange._ |
+| **Il campanile** suona una volta. | **The bell tower** rings once. |
+| Le persone parlano piano. | The people talk quietly. |
+| Poi **il campanile** suona di nuovo. | Then **the bell tower** rings again. |
+| «**Il campanile** suona ogni quarto d'ora.» | “**The bell tower** rings every fifteen minutes.” |
+| «Ogni quarto d'ora?» | “Every fifteen minutes?” |
+| «Sì. Come un orologio grande.» | “Yes. Like a big clock.” |
+| Emma guarda in alto. | Emma looks up. |
+| «Ah. Io non lo so.» | “Oh. I don't know that.” |
+| «Nemmeno io. Ma mio nonno lo dice.» | “Me neither. But my grandpa says so.” |
+| Emma ride piano. | Emma laughs quietly. |
+| Tommaso la guarda. | Tommaso looks at her. |
+| «Fa freddo stasera.» | “It's cold tonight.” |
+| «Sì. Molto.» | “Yes. Very.” |
+| Emma tocca la sciarpa. | Emma touches the scarf. |
+| «È di mio nonno Franco.» | “It's from my Grandpa Franco.” |
+| «Bella. Rossa, con il Milan?» | “Nice. Red, with Milan?” |
+| «Sì. Il Milan è la sua vita.» | “Yes. Milan is his life.” |
+| Tommaso sorride, appena. | Tommaso smiles, just barely. |
+| «Mio papà dice che Franco è un uomo serio.» | “My dad says Franco is a serious man.” |
+| «Serio? Boh. Stasera è strano.» | “Serious? I don't know. Tonight he's strange.” |
+| «Strano come?» | “Strange how?” |
+| «C'è **un'invitata** a cena. Una signora.» | “There's **a guest** at dinner. A lady.” |
+| «Ah.» | “Oh.” |
+| «E mio papà è **nervoso**. E il nonno è **nervoso**.» | “And my dad is **nervous**. And Grandpa is **nervous**.” |
+| «Tutti **nervosi**. A Natale.» | “Everyone **nervous**. At Christmas.” |
+| Emma sorride. | Emma smiles. |
+| «Sì. A Natale tutti **nervosi**.» | “Yes. At Christmas everyone's **nervous**.” |
+| **Sulla** piazza arriva un vento freddo. | **Across** the square comes a cold wind. |
+| Emma alza il collo del cappotto. | Emma raises her coat collar. |
+| «Tu canti **nel** coro?» | “Do you sing **in the** choir?” |
+| «Io? No. Io suono il basso.» | “Me? No. I play the bass.” |
+| «Il basso. Lo so.» | “The bass. I know.” |
+| «Sì. Ma a Natale suono **il canto** con mia zia.» | “Yes. But at Christmas I play **the song** with my aunt.” |
+| «**Il canto**? Che **canto**?» | “**The song**? Which **song**?” |
+| «“Tu scendi dalle stelle”. È vecchio.» | “‘You Come Down from the Stars.’ It's old.” |
+| «Non lo conosco.» | “I don't know it.” |
+| «È **un canto** della chiesa. Mio papà lo canta male.» | “It's **a song** from church. My dad sings it badly.” |
+| Emma ride forte. | Emma laughs loudly. |
+| Poi si copre la bocca. | Then she covers her mouth. |
+| «Scusa.» | “Sorry.” |
+| «Tranquilla. È vero.» | “It's okay. It's true.” |
+| Tommaso guarda la chiesa. | Tommaso looks at the church. |
+| «**La** chiesa di Borgoverde è piccola.» | “**The** church in Borgoverde is small.” |
+| «Sì. Ma carina.» | “Yes. But cute.” |
+| «Sì. Piccola ma carina.» | “Yes. Small but cute.” |
+| Emma non alza gli occhi **al** cielo. | Emma doesn't roll her eyes **at the** sky. |
+| _Lui **racconta** bene. Poche parole, ma bene._ | _He **tells** it well. Few words, but well._ |
+| «Tu suoni anche **nel** gruppo della scuola?» | “Do you also play **in the** school band?” |
+| «Sì. Il martedì. Ma non è un gruppo vero.» | “Yes. On Tuesdays. But it's not a real band.” |
+| «Perché?» | “Why?” |
+| «Perché suoniamo **nel** garage di Marco. Fa freddo.» | “Because we play **in** Marco's garage. It's cold.” |
+| «Come stasera.» | “Like tonight.” |
+| Tommaso annuisce. | Tommaso nods. |
+| Poi guarda la sciarpa di Emma. | Then he looks at Emma's scarf. |
+| «Tu scrivi?» | “Do you write?” |
+| Emma si blocca. | Emma freezes. |
+| «Scrivo? Come?» | “Write? How?” |
+| «**Nel** quaderno. Bianca lo dice sempre.» | “**In the** notebook. Bianca always says so.” |
+| «Ah. Lei parla troppo.» | “Oh. She talks too much.” |
+| «Sì. Ma non importa.» | “Yes. But it doesn't matter.” |
+| Emma guarda il pavimento. | Emma looks at the ground. |
+| _Parliamo di quaderni. Adesso?_ | _We talk about notebooks. Now?_ |
+| «Scrivo canzoni. Ma non le do a nessuno.» | “I write songs. But I don't give them to anyone.” |
+| «Capisco.» | “I get it.” |
+| **Il campanile** suona forte. | **The bell tower** rings loudly. |
+| **Alla** **mezzanotte** la chiesa apre. | **At** **midnight** the church opens. |
+| Le persone entrano piano. | The people go in slowly. |
+| Bianca arriva di corsa. | Bianca comes running. |
+| «Emma! La messa! Andiamo!» | “Emma! Mass! Let's go!” |
+| «Arrivo.» | “Coming.” |
+| Bianca guarda Tommaso. | Bianca looks at Tommaso. |
+| «Ciao, Tommaso.» | “Hi, Tommaso.” |
+| «Ciao.» | “Hi.” |
+| Bianca entra **nella** chiesa. | Bianca goes **into the** church. |
+| Emma resta **sul** gradino, un secondo. | Emma stays **on the** step, for a second. |
+| Emma guarda Tommaso. | Emma looks at Tommaso. |
+| Tommaso mette le mani **nelle** tasche. | Tommaso puts his hands **in his** pockets. |
+| «Buona vigilia, Emma.» | “Happy Christmas Eve, Emma.” |
+| «Buona vigilia anche a te.» | “Happy Christmas Eve to you too.” |
+| «Ci vediamo **sul** treno.» | “See you **on the** train.” |
+| «Sul treno. Sì.» | “On the train. Yes.” |
+| Tommaso sorride, appena. | Tommaso smiles, just barely. |
+| Poi si gira e va verso **il** muro. | Then he turns and walks toward **the** wall. |
+| Emma lo guarda andare. | Emma watches him go. |
+| _Niente occhi al cielo. Per una volta._ | _No eye-rolling. For once._ |
+| Emma entra **nella** chiesa. | Emma goes **into the** church. |
+| **Il campanile** suona ancora. | **The bell tower** rings again. |
+| **Alla** **mezzanotte** la piazza è quasi vuota. | **At** **midnight** the square is almost empty. |
+| Resta solo una luce gialla **sul** campanile. | Only a yellow light remains **on the** bell tower. |
+
+## 6. Casa di Franco, Via dei Tigli 9 · 24 dicembre, tardi
+
+| Italiano | English |
+|---|---|
+| La cena è finita. | Dinner is over. |
+| **Sulla** **tavola** ci sono ancora i piatti. | **On the** **table** there are still the plates. |
+| **Nel** salotto Leo dorme **sul** divano. | **In the** living room Leo is asleep **on the** sofa. |
+| Mangia molto **torrone** ogni Natale. | He eats a lot of **nougat** every Christmas. |
+| Chiara prende il cappotto. | Chiara takes her coat. |
+| «Leo dorme. Adesso andiamo.» | “Leo is asleep. Now let's go.” |
+| Kevin prende la giacca. | Kevin takes his jacket. |
+| Lucia prende i piatti **dalla** tavola. | Lucia takes the plates **from the** table. |
+| Franco prende i bicchieri. | Franco takes the glasses. |
+| «Lasciate. Facciamo noi.» | “Leave it. We'll do it.” |
+| «Grazie, Lucia.» | “Thank you, Lucia.” |
+| «Grazie per **il cenone**. È tutto buonissimo.» | “Thanks for **the Christmas dinner**. It's all delicious.” |
+| Franco mette i bicchieri **nel** lavandino. | Franco puts the glasses **in the** sink. |
+| «Mah.» | “Hmm.” |
+| Chiara lo guarda. | Chiara looks at him. |
+| «Papà, **l'invitato** stasera è una sorpresa bella.» | “Dad, **the guest** tonight is a lovely surprise.” |
+| Franco non si gira. | Franco doesn't turn around. |
+| «Mah.» | “Hmm.” |
+| «**Mah**? Solo **mah**?» | “**Hmm**? Just **hmm**?” |
+| «È una persona simpatica.» | “She's a nice person.” |
+| Chiara sorride. | Chiara smiles. |
+| «Sì. Molto simpatica. E **racconta** bene.» | “Yes. Very nice. And she **tells** stories well.” |
+| Lucia ride **dalla** cucina. | Lucia laughs **from the** kitchen. |
+| «Grazie, tesoro!» | “Thank you, sweetheart!” |
+| Kevin prende Leo in braccio. | Kevin picks Leo up in his arms. |
+| Leo non apre gli occhi. | Leo doesn't open his eyes. |
+| _Mamma mia. Pesante come **un** sacco di patate._ | _Oh my. Heavy as **a** sack of potatoes._ |
+| Chiara apre la porta. | Chiara opens the door. |
+| «Buona notte, papà.» | “Good night, Dad.” |
+| «Buona notte.» | “Good night.” |
+| Lucia esce **dalla** cucina. | Lucia comes out **of the** kitchen. |
+| «Buona notte! E tanti **auguri**!» | “Good night! And many **good wishes**!” |
+| «**Auguri** anche a te.» | “**Good wishes** to you too.” |
+| Chiara esce **nel** corridoio. | Chiara goes out **into the** hallway. |
+| **Nel** corridoio c'è ancora **il canto** alla radio. | **In the** hallway there's still **the song** on the radio. |
+| Kevin è davanti **alla** porta. | Kevin is in front of **the** door. |
+| Franco è vicino **al** muro. | Franco is near **the** wall. |
+| _Nove secondi. Dieci. Adesso o mai._ | _Nine seconds. Ten. Now or never._ |
+| «Franco...» | “Franco...” |
+| Franco guarda il pavimento. | Franco looks at the floor. |
+| «**La bugia** funziona.» | “**The lie** works.” |
+| «Sì. Funziona.» | “Yes. It works.” |
+| «Bene. Grazie.» | “Good. Thank you.” |
+| Kevin resta fermo. | Kevin stands still. |
+| _Grazie? Lui dice grazie? A me?_ | _Thank you? He says thank you? To me?_ |
+| «Prego.» | “You're welcome.” |
+| Franco alza la testa per un secondo. | Franco raises his head for a second. |
+| «E... **auguri**.» | “And... **good wishes**.” |
+| Poi entra **in** cucina. | Then he goes **into the** kitchen. |
+| Chiara chiama **dal** cancello. | Chiara calls **from the** gate. |
+| «Kevin! Andiamo!» | “Kevin! Let's go!” |
+| Kevin esce piano. | Kevin leaves slowly. |
+| «Arrivo!» | “Coming!” |
+| Chiara lo guarda, curiosa. | Chiara looks at him, curious. |
+| «Kevin! Che cosa vi dite voi due?» | “Kevin! What do you two say to each other?” |
+| Kevin chiude il cancello. | Kevin closes the gate. |
+| «Niente. Parliamo del dolce.» | “Nothing. We talk about dessert.” |
+| Chiara non è convinta. | Chiara isn't convinced. |
+| «Del dolce?» | “About dessert?” |
+| «Sì. E del **brindisi**. E della cena.» | “Yes. And about **the toast**. And about dinner.” |
+| «Boh.» | “I don't know.” |
+| Kevin sorride **nel** buio. | Kevin smiles **in the** dark. |
+| **Dal** piano di sopra arriva **il campanile**. | **From** the floor above comes **the bell tower**. |
+| Suona una volta. | It rings once. |
+| «**Il campanile** suona ancora.» | “**The bell tower** is still ringing.” |
+| «Sì. **Alla** **mezzanotte** è normale.» | “Yes. **At** **midnight** that's normal.” |
+| Chiara ride. | Chiara laughs. |
+| «Kevin, tu sei un uomo strano.» | “Kevin, you're a strange man.” |
+| «Lo so.» | “I know.” |
+| Chiara prende la mano di Leo. | Chiara takes Leo's hand. |
+| Kevin tiene Leo in braccio. | Kevin holds Leo in his arms. |
+| Camminano verso **il** numero quattordici. | They walk toward **the** number fourteen. |
+| Franco guarda **dalla** finestra. | Franco watches **from the** window. |
+| Poi chiude la tenda. | Then he closes the curtain. |
+
+## 7. Casa di Franco, Via dei Tigli 9 · 24 dicembre, dopo mezzanotte
+
+| Italiano | English |
+|---|---|
+| La casa è silenziosa. | The house is quiet. |
+| **Il cenone** è finito. | **The Christmas dinner** is over. |
+| Lucia asciuga l'ultimo bicchiere. | Lucia dries the last glass. |
+| Franco mette **il pandoro** **nel** frigo. | Franco puts **the pandoro** **in the** fridge. |
+| Poi guarda **il torrone** **sul** tavolo. | Then he looks at **the nougat** **on the** table. |
+| «Domani portiamo **un augurio** ai Carter.» | “Tomorrow we'll bring **a good wish** to the Carters.” |
+| «Un augurio?» | “A good wish?” |
+| «Sì. E una fetta di **pandoro**.» | “Yes. And a slice of **pandoro**.” |
+| «No.» | “No.” |
+| «No? Perché no?» | “No? Why not?” |
+| «Un **pandoro** basta. L'americano mangia molto.» | “One **pandoro** is enough. The American eats a lot.” |
+| Lucia ride. | Lucia laughs. |
+| «Ah! Adesso capisco.» | “Ah! Now I understand.” |
+| Poi **assaggia** **un** pezzo di **torrone**. | Then she **tastes** **a** piece of **nougat**. |
+| «Buono.» | “Good.” |
+| Franco prende **il** piatto **dal** tavolo. | Franco takes **the** plate **from the** table. |
+| «Buona notte, Franco.» | “Good night, Franco.” |
+| «Buona notte.» | “Good night.” |
+| Lucia spegne la luce **della** cucina. | Lucia turns off the light **of the** kitchen. |
+| **Nel** buio Franco resta fermo. | **In the** dark Franco stands still. |
+| Poi sorride, piano. | Then he smiles, quietly. |
+| E **assaggia** anche lui un pochino di **torrone**. | And he **tastes** a little **nougat** too. |

@@ -1,0 +1,5 @@
+### s01e14 · La vigilia
+- **Happened:** Christmas Eve dinner at Franco's for seven; Lucia arrives as the mysterious seventh guest, bringing pandoro and torrone. Emma goes to midnight mass with Bianca, meets Tommaso alone outside the church, then returns to dinner. After the meal Franco quietly thanks Kevin for keeping the cover story.
+- **New facts:** Lucia teaches ballroom dance at the Centro civico and has a son, Gennaro, in London. Franco's red scarf (Milan) is lent to Emma; his dining table was his mother's; his oil and lemons come from his orto. Ornella's cat is called Pavarotti. Leo keeps a yellow notebook of new words.
+- **Changed:** Chiara and Lucia go straight to tu. Chiara meets Lucia as "a friend from Kevin's Italian course"; Kevin and Franco now share that lie ("la bugia funziona"). Franco says grazie and auguri to Kevin.
+- **Planted:** Chiara's growing suspicion about Kevin's "friend" and the empty seventh plate; Franco–Lucia secret still hidden from Chiara; Emma and Tommaso's quiet connection continues ("ci vediamo sul treno").
