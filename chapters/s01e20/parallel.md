@@ -51,7 +51,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perfetto!» | “Perfect!” |
 | Kevin prende le chiavi dal cassetto vicino al forno. | Kevin takes the keys from the drawer near the oven. |
 | «Io e Leo andiamo. Tu vieni, Emma?» | “Leo and I are going. Are you coming, Emma?” |
-| «Io non vengo al negozio di **vestiti**.» | “I'm not coming to the clothes shop.” |
+| «Io non vengo al negozio di **vestiti**.» | “I'm not coming to the **clothes** shop.” |
 | «Va bene. Allora scegli il **colore**.» | “All right. Then choose the **color**.” |
 | Emma non alza gli occhi dal telefono. | Emma doesn't look up from her phone. |
 | «**Rosso**. Fatto. Ciao.» | “**Red**. Done. Bye.” |
@@ -87,7 +87,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara guarda il caffè. | Chiara looks at her coffee. |
 | «Va bene, Leo. Un **cappello** **nero**.» | “All right, Leo. A **black hat**.” |
 
-## 2. Piazza della Chiesa · sabato pomeriggio
+## 2. Piazza della Chiesa · sabato mattina
 
 | Italiano | English |
 |---|---|
@@ -154,8 +154,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin prende il **costume** del pirata. È **rosso** con una **maglia** a righe **bianche** e **nere**. | Kevin takes the pirate **costume**. It's **red** with a **sweater** with **white** and **black** stripes. |
 | «Leo, guarda **questa** **maglia**!» | “Leo, look at **this** **sweater**!” |
 | «**Questa** **maglia** è a righe!» | “**This** **sweater** has stripes!” |
-| «Come quella che vuole la mamma.» | “Like the one Mom wants.” |
-| «Sì! Righe **bianche** e **nere**!» | “Yes! **White** and **black** stripes!” |
 | «Perfetto.» | “Perfect.” |
 | La **commessa** porta i **pantaloni** del **costume**. Sono **neri** e **lunghi**. | The **shop assistant** brings the **pants** of the **costume**. They're **black** and **long**. |
 | «E le **scarpe**?» | “And the **shoes**?” |
@@ -235,7 +233,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Questo**, Leo.» | “**This one**, Leo.” |
 | «**Questo**!» | “**This one**!” |
 | Leo **prova** il **costume** davanti allo **specchio**. | Leo **tries** the **costume** in front of the **mirror**. |
-| Adesso la **taglia** è giusta. | Now the **taglia** is right. |
+| Adesso la **taglia** è quasi giusta. Le gambe sono un po' lunghe, ma va bene. | Now the **size** is almost right. The legs are a little long, but that's fine. |
 | «**Questo** è perfetto!» | “**This one** is perfect!” |
 | «**Questo** è un **costume** **bello**.» | “**This one** is a nice **costume**.” |
 | «E il **cappello**?» | “And the **hat**?” |
@@ -243,7 +241,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Quello** **nero**!» | “**That** **black** one!” |
 | «**Quello** **nero** è **bello**.» | “**That** **black** one is nice.” |
 | «**Questo** è **vecchio**?» | “Is **this** one **old**?” |
-| «No, è **nuovo**.» | “No, it's new.” |
+| «No, è **nuovo**.» | “No, it's **new**.” |
 | «**Questo** **cappello** è **nuovo**?» | “Is **this** **hat** new?” |
 | «Sì, **questo** è **nuovo**.» | “Yes, **this** one is new.” |
 | «Allora **questo**.» | “Then **this one**.” |
@@ -269,7 +267,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. E parla bene.» | “Yes. And he speaks well.” |
 | La **commessa** mette il **costume** e il **cappello** in una borsa grande di carta. | The **shop assistant** puts the **costume** and the **hat** in a big paper bag. |
 | «Grazie, signora. E scusi per il mio italiano.» | “Thank you, ma'am. And sorry about my Italian.” |
-| «Il suo italiano è **bello**.» | “Your Italian is nice.” |
+| «Il suo italiano è **bello**.» | “Your Italian is **nice**.” |
 | «Davvero?» | “Really?” |
 | «Sì. “**Questo**” e “**quello**” sono perfetti.» | “Yes. ‘**This**’ and ‘**that**’ are perfect.” |
 | «Grazie!» | “Thanks!” |
@@ -332,7 +330,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il prezzo è alto. Ma il **cappello** **nero** è **bello**.» | “The price is high. But the **black hat** is **nice**.” |
 | Leo prende il **cappello** e lo mette in testa. | Leo takes the **hat** and puts it on his head. |
 | Franco allunga una mano e sistema il **cappello** sulla testa di Leo. | Franco reaches out a hand and adjusts the **hat** on Leo's head. |
-| «Cosi è meglio.» | “That's better.” |
+| «Così è meglio.» | “That's better.” |
 | «Nonno, **questo** **cappello** è **bianco** o **nero**?» | “Grandpa, is **this** **hat** **white** or **black**?” |
 | «**Nero**. Tutto **nero**.» | “**Black**. All **black**.” |
 | «E **quello**?» | “And **that one**?” |
@@ -358,7 +356,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah! Allora hai un **costume** vero!» | “Ah! So you do have a real **costume**!” |
 | «Io sono vestito da pensionato, e basta.» | “I'm dressed as a pensioner, and that's it.” |
 | Kevin beve il caffè e scrive una parola nel quaderno. | Kevin drinks his coffee and writes a word in his notebook. |
-| «Francesco, “pensionato” è una parola **lunga**.» | “Francesco, ‘pensionato’ is a **long** word.” |
+| «Franco, “pensionato” è una parola **lunga**.» | “Franco, ‘pensionato’ is a **long** word.” |
 | «E tu sei un americano **lungo**.» | “And you're a **long** American.” |
 | «Grazie, Franco.» | “Thanks, Franco.” |
 | Leo ride con il **cappello** in testa. | Leo laughs with the **hat** on his head. |
@@ -481,7 +479,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | Giovedì sera a casa di Franco. | Thursday evening at Franco's house. |
 | In cucina c'è odore di tè e di biscotti. | In the kitchen there's the smell of tea and cookies. |
-| Lucia è al tavolo con il ferro da stiro? No, con il tè. | Lucia is at the table with tea. |
+| Lucia è al tavolo con il tè. | Lucia is at the table with tea. |
 | Lucia sorride e aspetta Chiara. | Lucia smiles and waits for Chiara. |
 | Lucia versa il tè nelle tazze con calma. | Lucia pours the tea into the cups calmly. |
 | Chiara arriva alle sette con Leo. | Chiara arrives at seven with Leo. |
@@ -539,9 +537,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Guarda il **costume** **rosso** con attenzione. | He looks at the **red costume** carefully. |
 | Guarda le righe **bianche** e **nere** sulla **maglia**. | He looks at the **white** and **black** stripes on the **sweater**. |
 | Guarda il **cappello** **nero** sulla testa. | He looks at the **black hat** on his head. |
-| «Sono **bello**!» | “I'm good-looking!” |
-| «Sei **bello**, Leo.» | “You're good-looking, Leo.” |
-| «Sono un pirata **bello**!» | “I'm a good-looking pirate!” |
+| «Sono **bello**!» | “I'm **good-looking**!” |
+| «Sei **bello**, Leo.» | “You're **good-looking**, Leo.” |
+| «Sono un pirata **bello**!» | “I'm a **good-looking** pirate!” |
 | Franco guarda Leo allo **specchio**. | Franco looks at Leo in the **mirror**. |
 | «Il **rosso** è un **colore** forte.» | “**Red** is a strong **color**.” |
 | «Ti piace, nonno?» | “Do you like it, Grandpa?” |

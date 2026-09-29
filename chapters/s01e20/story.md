@@ -106,7 +106,7 @@ Kevin prende il giubbotto e le chiavi. «Andiamo, Leo.»
 
 Kevin guarda Chiara. Chiara guarda il caffè. «Va bene, Leo. Un **cappello** **nero**.»
 
-## 2. Piazza della Chiesa · sabato pomeriggio
+## 2. Piazza della Chiesa · sabato mattina
 
 In piazza della Chiesa c'è un negozio di vestiti. Nella **vetrina** ci sono maschere, cappelli e costumi di ogni **colore**. Kevin e Leo arrivano alle undici e mezza. Leo corre verso la **vetrina** e mette le mani sul vetro.
 
@@ -203,10 +203,6 @@ Leo guarda i tre **costumi** senza parlare. «**Questo** o **quello**?»
 Kevin prende il **costume** del pirata. È **rosso** con una **maglia** a righe **bianche** e **nere**. «Leo, guarda **questa** **maglia**!»
 
 «**Questa** **maglia** è a righe!»
-
-«Come quella che vuole la mamma.»
-
-«Sì! Righe **bianche** e **nere**!»
 
 «Perfetto.»
 
@@ -328,7 +324,7 @@ La **commessa** prende il **costume** con una scala. Il **costume** è **rosso**
 
 «**Questo**, Leo.»
 
-«**Questo**!» Leo **prova** il **costume** davanti allo **specchio**. Adesso la **taglia** è giusta. «**Questo** è perfetto!»
+«**Questo**!» Leo **prova** il **costume** davanti allo **specchio**. Adesso la **taglia** è quasi giusta. Le gambe sono un po' lunghe, ma va bene. «**Questo** è perfetto!»
 
 «**Questo** è un **costume** **bello**.»
 
@@ -466,7 +462,7 @@ Franco mette il giornale sul banco. «**Quella** **vetrina** in piazza è cara.�
 
 «I **soldi** sono i **soldi**.» «Il prezzo è alto. Ma il **cappello** **nero** è **bello**.»
 
-Leo prende il **cappello** e lo mette in testa. Franco allunga una mano e sistema il **cappello** sulla testa di Leo. «Cosi è meglio.»
+Leo prende il **cappello** e lo mette in testa. Franco allunga una mano e sistema il **cappello** sulla testa di Leo. «Così è meglio.»
 
 «Nonno, **questo** **cappello** è **bianco** o **nero**?»
 
@@ -502,7 +498,7 @@ Franco guarda il giornale e non dice altro. Matteo prende il **cappello** **nero
 
 «Io sono vestito da pensionato, e basta.»
 
-Kevin beve il caffè e scrive una parola nel quaderno. «Francesco, “pensionato” è una parola **lunga**.»
+Kevin beve il caffè e scrive una parola nel quaderno. «Franco, “pensionato” è una parola **lunga**.»
 
 «E tu sei un americano **lungo**.»
 
@@ -658,7 +654,7 @@ Tommaso beve la bibita e guarda i **coriandoli** **rossi** sul tavolo. «**Quest
 
 ## 5. Casa di Franco, Via dei Tigli 9 · giovedì sera
 
-Giovedì sera a casa di Franco. In cucina c'è odore di tè e di biscotti. Lucia è al tavolo con il ferro da stiro? No, con il tè. Lucia sorride e aspetta Chiara. Lucia versa il tè nelle tazze con calma. Chiara arriva alle sette con Leo. Leo ha la borsa grande di carta. Franco è sulla poltrona vicino alla finestra.
+Giovedì sera a casa di Franco. In cucina c'è odore di tè e di biscotti. Lucia è al tavolo con il tè. Lucia sorride e aspetta Chiara. Lucia versa il tè nelle tazze con calma. Chiara arriva alle sette con Leo. Leo ha la borsa grande di carta. Franco è sulla poltrona vicino alla finestra.
 
 «Buonasera, Chiara.»
 

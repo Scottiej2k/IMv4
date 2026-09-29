@@ -82,7 +82,7 @@ Chiara scrive sul quaderno della cucina. || Chiara writes in the kitchen noteboo
 «Perfetto!»{ben} || “Perfect!”
 Kevin prende le chiavi dal cassetto vicino al forno. || Kevin takes the keys from the drawer near the oven.
 «Io e Leo andiamo. Tu vieni, Emma?»{ben} || “Leo and I are going. Are you coming, Emma?”
-«Io non vengo al negozio di **vestiti**.»{emma} || “I'm not coming to the clothes shop.”
+«Io non vengo al negozio di **vestiti**.»{emma} || “I'm not coming to the **clothes** shop.”
 «Va bene. Allora scegli il **colore**.»{chiara} || “All right. Then choose the **color**.”
 Emma non alza gli occhi dal telefono. || Emma doesn't look up from her phone.
 «**Rosso**. Fatto. Ciao.»{emma|flat} || “**Red**. Done. Bye.”
@@ -120,7 +120,7 @@ Kevin guarda Chiara. || Kevin looks at Chiara.
 Chiara guarda il caffè. || Chiara looks at her coffee.
 «Va bene, Leo. Un **cappello** **nero**.»{chiara|resigned} || “All right, Leo. A **black hat**.”
 
-# SCENE piazza | sabato pomeriggio | ben, leo, donna
+# SCENE piazza | sabato mattina | ben, leo, donna
 
 In piazza della Chiesa c'è un negozio di vestiti. || In Piazza della Chiesa there's a clothes shop.
 Nella **vetrina** ci sono maschere, cappelli e costumi di ogni **colore**. || In the **shop window** there are masks, hats and costumes of every **color**.
@@ -192,8 +192,6 @@ Leo guarda i tre **costumi** senza parlare. || Leo looks at the three **costumes
 Kevin prende il **costume** del pirata. È **rosso** con una **maglia** a righe **bianche** e **nere**. || Kevin takes the pirate **costume**. It's **red** with a **sweater** with **white** and **black** stripes.
 «Leo, guarda **questa** **maglia**!»{ben} || “Leo, look at **this** **sweater**!”
 «**Questa** **maglia** è a righe!»{leo|happy} || “**This** **sweater** has stripes!”
-«Come quella che vuole la mamma.»{ben} || “Like the one Mom wants.”
-«Sì! Righe **bianche** e **nere**!»{leo} || “Yes! **White** and **black** stripes!”
 «Perfetto.»{ben} || “Perfect.”
 
 La **commessa** porta i **pantaloni** del **costume**. Sono **neri** e **lunghi**. || The **shop assistant** brings the **pants** of the **costume**. They're **black** and **long**.
@@ -280,7 +278,7 @@ Il **costume** è **rosso**, con righe **bianche** e **nere**. || The **costume*
 «**Questo**, Leo.»{ben} || “**This one**, Leo.”
 «**Questo**!»{leo} || “**This one**!”
 Leo **prova** il **costume** davanti allo **specchio**. || Leo **tries** the **costume** in front of the **mirror**.
-Adesso la **taglia** è giusta. || Now the **taglia** is right.
+Adesso la **taglia** è quasi giusta. Le gambe sono un po' lunghe, ma va bene. || Now the **size** is almost right. The legs are a little long, but that's fine.
 «**Questo** è perfetto!»{leo|happy} || “**This one** is perfect!”
 «**Questo** è un **costume** **bello**.»{ben} || “**This one** is a nice **costume**.”
 «E il **cappello**?»{leo} || “And the **hat**?”
@@ -288,7 +286,7 @@ Adesso la **taglia** è giusta. || Now the **taglia** is right.
 «**Quello** **nero**!»{leo} || “**That** **black** one!”
 «**Quello** **nero** è **bello**.»{ben} || “**That** **black** one is nice.”
 «**Questo** è **vecchio**?»{leo} || “Is **this** one **old**?”
-«No, è **nuovo**.»{donna} || “No, it's new.”
+«No, è **nuovo**.»{donna} || “No, it's **new**.”
 «**Questo** **cappello** è **nuovo**?»{leo} || “Is **this** **hat** new?”
 «Sì, **questo** è **nuovo**.»{donna|patient} || “Yes, **this** one is new.”
 «Allora **questo**.»{leo} || “Then **this one**.”
@@ -317,7 +315,7 @@ Kevin apre la borsa e paga. || Kevin opens the bag and pays.
 
 La **commessa** mette il **costume** e il **cappello** in una borsa grande di carta. || The **shop assistant** puts the **costume** and the **hat** in a big paper bag.
 «Grazie, signora. E scusi per il mio italiano.»{ben} || “Thank you, ma'am. And sorry about my Italian.”
-«Il suo italiano è **bello**.»{donna|warm} || “Your Italian is nice.”
+«Il suo italiano è **bello**.»{donna|warm} || “Your Italian is **nice**.”
 «Davvero?»{ben|surprised} || “Really?”
 «Sì. “**Questo**” e “**quello**” sono perfetti.»{donna|dry} || “Yes. ‘**This**’ and ‘**that**’ are perfect.”
 «Grazie!»{ben|proud} || “Thanks!”
@@ -384,7 +382,7 @@ Franco mette il giornale sul banco. || Franco puts the newspaper on the counter.
 
 Leo prende il **cappello** e lo mette in testa. || Leo takes the **hat** and puts it on his head.
 Franco allunga una mano e sistema il **cappello** sulla testa di Leo. || Franco reaches out a hand and adjusts the **hat** on Leo's head.
-«Cosi è meglio.»{franco} || “That's better.”
+«Così è meglio.»{franco} || “That's better.”
 «Nonno, **questo** **cappello** è **bianco** o **nero**?»{leo} || “Grandpa, is **this** **hat** **white** or **black**?”
 «**Nero**. Tutto **nero**.»{franco} || “**Black**. All **black**.”
 «E **quello**?»{leo} || “And **that one**?”
@@ -412,7 +410,7 @@ Matteo prende il **cappello** **nero** dal tavolo e lo guarda. || Matteo takes t
 «Ah! Allora hai un **costume** vero!»{matteo} || “Ah! So you do have a real **costume**!”
 «Io sono vestito da pensionato, e basta.»{franco} || “I'm dressed as a pensioner, and that's it.”
 Kevin beve il caffè e scrive una parola nel quaderno. || Kevin drinks his coffee and writes a word in his notebook.
-«Francesco, “pensionato” è una parola **lunga**.»{ben} || “Francesco, ‘pensionato’ is a **long** word.”
+«Franco, “pensionato” è una parola **lunga**.»{ben} || “Franco, ‘pensionato’ is a **long** word.”
 «E tu sei un americano **lungo**.»{franco|dry} || “And you're a **long** American.”
 «Grazie, Franco.»{ben|tired} || “Thanks, Franco.”
 Leo ride con il **cappello** in testa. || Leo laughs with the **hat** on his head.
@@ -542,7 +540,7 @@ Emma sorride e prende una manciata. || Emma smiles and takes a handful.
 
 Giovedì sera a casa di Franco. || Thursday evening at Franco's house.
 In cucina c'è odore di tè e di biscotti. || In the kitchen there's the smell of tea and cookies.
-Lucia è al tavolo con il ferro da stiro? No, con il tè. || Lucia is at the table with tea.
+Lucia è al tavolo con il tè. || Lucia is at the table with tea.
 Lucia sorride e aspetta Chiara. || Lucia smiles and waits for Chiara.
 Lucia versa il tè nelle tazze con calma. || Lucia pours the tea into the cups calmly.
 Chiara arriva alle sette con Leo. || Chiara arrives at seven with Leo.
@@ -607,9 +605,9 @@ Leo va davanti allo **specchio** grande in corridoio. || Leo goes in front of th
 Guarda il **costume** **rosso** con attenzione. || He looks at the **red costume** carefully.
 Guarda le righe **bianche** e **nere** sulla **maglia**. || He looks at the **white** and **black** stripes on the **sweater**.
 Guarda il **cappello** **nero** sulla testa. || He looks at the **black hat** on his head.
-«Sono **bello**!»{leo|happy} || “I'm good-looking!”
-«Sei **bello**, Leo.»{chiara} || “You're good-looking, Leo.”
-«Sono un pirata **bello**!»{leo|proud} || “I'm a good-looking pirate!”
+«Sono **bello**!»{leo|happy} || “I'm **good-looking**!”
+«Sei **bello**, Leo.»{chiara} || “You're **good-looking**, Leo.”
+«Sono un pirata **bello**!»{leo|proud} || “I'm a **good-looking** pirate!”
 
 Franco guarda Leo allo **specchio**. || Franco looks at Leo in the **mirror**.
 «Il **rosso** è un **colore** forte.»{franco} || “**Red** is a strong **color**.”

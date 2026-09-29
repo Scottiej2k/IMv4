@@ -39,7 +39,7 @@
       "lemma": "il vestito",
       "pos": "noun",
       "en": "dress, suit",
-      "example": "s01e20-2-093",
+      "example": "s01e20-2-091",
       "target": {
         "it": "vestito",
         "en": "dresses"
@@ -146,7 +146,7 @@
       "lemma": "cercare",
       "pos": "verb",
       "en": "to look for",
-      "example": "s01e20-2-112",
+      "example": "s01e20-2-110",
       "target": {
         "it": "Cerco",
         "en": "look for"
@@ -191,7 +191,7 @@
       "lemma": "lungo",
       "pos": "adjective",
       "en": "long",
-      "example": "s01e20-2-090",
+      "example": "s01e20-2-088",
       "target": {
         "it": "lungo",
         "en": "long"
@@ -202,7 +202,7 @@
       "lemma": "stretto",
       "pos": "adjective",
       "en": "tight",
-      "example": "s01e20-2-107",
+      "example": "s01e20-2-105",
       "target": {
         "it": "stretto",
         "en": "tight"
@@ -213,7 +213,7 @@
       "lemma": "la gonna",
       "pos": "noun",
       "en": "skirt",
-      "example": "s01e20-2-075",
+      "example": "s01e20-2-073",
       "target": {
         "it": "gonna",
         "en": "skirt"
@@ -247,7 +247,7 @@
       "lemma": "verde",
       "pos": "adjective",
       "en": "green",
-      "example": "s01e20-2-114",
+      "example": "s01e20-2-112",
       "target": {
         "it": "verde",
         "en": "green"
@@ -280,7 +280,7 @@
       "lemma": "il cappello",
       "pos": "noun",
       "en": "hat",
-      "example": "s01e20-2-169",
+      "example": "s01e20-2-167",
       "target": {
         "it": "cappello",
         "en": "cost"
@@ -292,7 +292,7 @@
       "lemma": "la commessa",
       "pos": "noun",
       "en": "shop assistant",
-      "example": "s01e20-2-082",
+      "example": "s01e20-2-080",
       "target": {
         "it": "commessa",
         "en": "shop assistant"
@@ -316,7 +316,7 @@
       "lemma": "costare",
       "pos": "verb",
       "en": "to cost",
-      "example": "s01e20-2-169",
+      "example": "s01e20-2-167",
       "target": {
         "it": "costa",
         "en": "hat"
@@ -4132,7 +4132,7 @@
             {
               "id": "s01e20-1-044",
               "it": "«Io non vengo al negozio di **vestiti**.»",
-              "en": "“I'm not coming to the clothes shop.”",
+              "en": "“I'm not coming to the **clothes** shop.”",
               "voice": [
                 [
                   "emma",
@@ -11540,166 +11540,6 @@
           "segments": [
             {
               "id": "s01e20-2-064",
-              "it": "«Come quella che vuole la mamma.»",
-              "en": "“Like the one Mom wants.”",
-              "voice": [
-                [
-                  "ben",
-                  "Come quella che vuole la mamma.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Come",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quella",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "che",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vuole",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mamma",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e20-2-065",
-              "it": "«Sì! Righe **bianche** e **nere**!»",
-              "en": "“Yes! **White** and **black** stripes!”",
-              "voice": [
-                [
-                  "leo",
-                  "Sì! Righe **bianche** e **nere**!",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  "! ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Righe",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bianche",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nere",
-                  4,
-                  "b"
-                ],
-                [
-                  "!»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bianco",
-                "v-nero"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e20-2-066",
               "it": "«Perfetto.»",
               "en": "“Perfect.”",
               "voice": [
@@ -11732,7 +11572,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-067",
+              "id": "s01e20-2-065",
               "it": "La **commessa** porta i **pantaloni** del **costume**. Sono **neri** e **lunghi**.",
               "en": "The **shop assistant** brings the **pants** of the **costume**. They're **black** and **long**.",
               "voice": [
@@ -11863,7 +11703,7 @@
               ]
             },
             {
-              "id": "s01e20-2-068",
+              "id": "s01e20-2-066",
               "it": "«E le **scarpe**?»",
               "en": "“And the **shoes**?”",
               "voice": [
@@ -11919,7 +11759,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-069",
+              "id": "s01e20-2-067",
               "it": "«Le **scarpe** sono le tue. Quelle **nere**.»",
               "en": "“The **shoes** are yours. The **black** ones.”",
               "voice": [
@@ -12016,7 +11856,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-070",
+              "id": "s01e20-2-068",
               "it": "«Le mie **scarpe** **nere**!»",
               "en": "“My **black shoes**!”",
               "voice": [
@@ -12083,7 +11923,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-071",
+              "id": "s01e20-2-069",
               "it": "«Sì, Leo.»",
               "en": "“Yes, Leo.”",
               "voice": [
@@ -12126,7 +11966,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-072",
+              "id": "s01e20-2-070",
               "it": "«Il pirata ha le **scarpe** **nere**.»",
               "en": "“A pirate has **black shoes**.”",
               "voice": [
@@ -12213,7 +12053,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-073",
+              "id": "s01e20-2-071",
               "it": "«Certo.»",
               "en": "“Of course.”",
               "voice": [
@@ -12246,7 +12086,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-074",
+              "id": "s01e20-2-072",
               "it": "«E la **gonna**?»",
               "en": "“And the **skirt**?”",
               "voice": [
@@ -12302,7 +12142,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-075",
+              "id": "s01e20-2-073",
               "it": "«No. La **gonna** no.»",
               "en": "“No. Not the **skirt**.”",
               "voice": [
@@ -12368,7 +12208,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-076",
+              "id": "s01e20-2-074",
               "it": "«Perché no?»",
               "en": "“Why not?”",
               "voice": [
@@ -12411,7 +12251,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-077",
+              "id": "s01e20-2-075",
               "it": "«Perché i pirati non vanno in **gonna**.»",
               "en": "“Because pirates don't wear **a skirt**.”",
               "voice": [
@@ -12507,7 +12347,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-078",
+              "id": "s01e20-2-076",
               "it": "«Ah. Va bene.»",
               "en": "“Ah. Okay.”",
               "voice": [
@@ -12560,7 +12400,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-079",
+              "id": "s01e20-2-077",
               "it": "«Posso **provare** **questo**?»",
               "en": "“Can I **try** **this one**?”",
               "voice": [
@@ -12617,7 +12457,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-080",
+              "id": "s01e20-2-078",
               "it": "«Certo. Il camerino è là, dietro lo **specchio** grande.»",
               "en": "“Of course. The fitting room is there, behind the big **mirror**.”",
               "voice": [
@@ -12729,7 +12569,7 @@
               ]
             },
             {
-              "id": "s01e20-2-081",
+              "id": "s01e20-2-079",
               "it": "Leo prende il **costume** e corre al camerino.",
               "en": "Leo takes the **costume** and runs to the fitting room.",
               "voice": [
@@ -12826,7 +12666,7 @@
               ]
             },
             {
-              "id": "s01e20-2-082",
+              "id": "s01e20-2-080",
               "it": "Kevin resta con la **commessa**.",
               "en": "Kevin stays with the **shop assistant**.",
               "voice": [
@@ -12893,7 +12733,7 @@
               ]
             },
             {
-              "id": "s01e20-2-083",
+              "id": "s01e20-2-081",
               "it": "«Suo figlio parla bene italiano.»",
               "en": "“Your son speaks Italian well.”",
               "voice": [
@@ -12966,7 +12806,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-084",
+              "id": "s01e20-2-082",
               "it": "«Grazie. Lui è bravo. Io **cerco** di imparare.»",
               "en": "“Thank you. He's good. I'm **trying** to learn.”",
               "voice": [
@@ -13072,7 +12912,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-085",
+              "id": "s01e20-2-083",
               "it": "«Anche lei è bravo.»",
               "en": "“You're good too.”",
               "voice": [
@@ -13135,7 +12975,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-086",
+              "id": "s01e20-2-084",
               "it": "«Grazie. Il **colore** giusto è importante per Leo.»",
               "en": "“Thank you. The right **color** is important for Leo.”",
               "voice": [
@@ -13241,7 +13081,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-087",
+              "id": "s01e20-2-085",
               "it": "«Sì. Il **rosso** è il **colore** dei pirati.»",
               "en": "“Yes. **Red** is the pirates' **color**.”",
               "voice": [
@@ -13348,7 +13188,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-088",
+              "id": "s01e20-2-086",
               "it": "Dopo due minuti, Leo esce dal camerino.",
               "en": "After two minutes, Leo comes out of the fitting room.",
               "voice": [
@@ -13432,7 +13272,7 @@
               ]
             },
             {
-              "id": "s01e20-2-089",
+              "id": "s01e20-2-087",
               "it": "Il **costume** è enorme. Le maniche coprono le mani di Leo.",
               "en": "The **costume** is enormous. The sleeves cover Leo's hands.",
               "voice": [
@@ -13559,7 +13399,7 @@
               ]
             },
             {
-              "id": "s01e20-2-090",
+              "id": "s01e20-2-088",
               "it": "«Papà! **Questo** è **lungo**!»",
               "en": "“Dad! **This one** is **long**!”",
               "voice": [
@@ -13622,7 +13462,7 @@
               ]
             },
             {
-              "id": "s01e20-2-091",
+              "id": "s01e20-2-089",
               "it": "Il **costume** arriva alle **scarpe** di Leo.",
               "en": "The **costume** reaches Leo's **shoes**.",
               "voice": [
@@ -13714,7 +13554,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-092",
+              "id": "s01e20-2-090",
               "it": "«Hai ragione. È **lungo** come un **vestito**.»",
               "en": "“You're right. It's **long** like a **dress**.”",
               "voice": [
@@ -13811,7 +13651,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-093",
+              "id": "s01e20-2-091",
               "it": "«Come un **vestito** della mamma?»",
               "en": "“Like one of Mom's **dresses**?”",
               "voice": [
@@ -13887,7 +13727,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-094",
+              "id": "s01e20-2-092",
               "it": "«Come un **vestito** lungo. Sì.»",
               "en": "“Like a long **dress**. Yes.”",
               "voice": [
@@ -13959,7 +13799,7 @@
               ]
             },
             {
-              "id": "s01e20-2-095",
+              "id": "s01e20-2-093",
               "it": "La **commessa** guarda la **taglia** sul **costume**.",
               "en": "The **shop assistant** looks at the **taglia** on the **costume**.",
               "voice": [
@@ -14052,7 +13892,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-096",
+              "id": "s01e20-2-094",
               "it": "«Ah, ecco. **Questo** è un **costume** per adulti.»",
               "en": "“Ah, here we are. **This one** is an adult **costume**.”",
               "voice": [
@@ -14159,7 +13999,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-097",
+              "id": "s01e20-2-095",
               "it": "«Per adulti?»",
               "en": "“An adult one?”",
               "voice": [
@@ -14202,7 +14042,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-098",
+              "id": "s01e20-2-096",
               "it": "«Sì. **Questo** è per un uomo grande.»",
               "en": "“Yes. **This one** is for a big man.”",
               "voice": [
@@ -14298,7 +14138,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-099",
+              "id": "s01e20-2-097",
               "it": "«Allora **questo** è per me?»",
               "en": "“So **this one** is for me?”",
               "voice": [
@@ -14374,7 +14214,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-100",
+              "id": "s01e20-2-098",
               "it": "«No, papà!»",
               "en": "“No, Dad!”",
               "voice": [
@@ -14417,7 +14257,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-101",
+              "id": "s01e20-2-099",
               "it": "«Perché no?»",
               "en": "“Why not?”",
               "voice": [
@@ -14460,7 +14300,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-102",
+              "id": "s01e20-2-100",
               "it": "«Tu non sei un pirata. Tu sei papà.»",
               "en": "“You're not a pirate. You're Dad.”",
               "voice": [
@@ -14563,7 +14403,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-103",
+              "id": "s01e20-2-101",
               "it": "La **commessa** ride piano e prende un altro **costume**.",
               "en": "The **shop assistant** laughs quietly and takes another **costume**.",
               "voice": [
@@ -14671,7 +14511,7 @@
               ]
             },
             {
-              "id": "s01e20-2-104",
+              "id": "s01e20-2-102",
               "it": "«Provo **questa** **taglia**. Centoventi, per bambini.»",
               "en": "“I'll **try** **this** **taglia**. One-twenty, for children.”",
               "voice": [
@@ -14754,7 +14594,7 @@
               ]
             },
             {
-              "id": "s01e20-2-105",
+              "id": "s01e20-2-103",
               "it": "Leo entra nel camerino con il **costume** nuovo.",
               "en": "Leo enters the fitting room with the **new costume**.",
               "voice": [
@@ -14851,7 +14691,7 @@
               ]
             },
             {
-              "id": "s01e20-2-106",
+              "id": "s01e20-2-104",
               "it": "Dopo un minuto, esce e guarda lo **specchio**.",
               "en": "After a minute, he comes out and looks in the **mirror**.",
               "voice": [
@@ -14952,7 +14792,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-107",
+              "id": "s01e20-2-105",
               "it": "«Papà, **questo** è **stretto**!»",
               "en": "“Dad, **this one** is **tight**!”",
               "voice": [
@@ -15019,7 +14859,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-108",
+              "id": "s01e20-2-106",
               "it": "«**Stretto**?»",
               "en": "“**Tight**?”",
               "voice": [
@@ -15055,7 +14895,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-109",
+              "id": "s01e20-2-107",
               "it": "«Sì. Non posso alzare le braccia.»",
               "en": "“Yes. I can't raise my arms.”",
               "voice": [
@@ -15138,7 +14978,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-110",
+              "id": "s01e20-2-108",
               "it": "«La **taglia** è sbagliata.»",
               "en": "“The **taglia** is wrong.”",
               "voice": [
@@ -15204,7 +15044,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-111",
+              "id": "s01e20-2-109",
               "it": "«**Questa** **taglia** è **stretta**. E **quella** è **lunga**.»",
               "en": "“**This** **taglia** is **tight**. And **that** one is **long**.”",
               "voice": [
@@ -15314,7 +15154,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-112",
+              "id": "s01e20-2-110",
               "it": "«Aspetti. **Cerco** un'altra **taglia**.»",
               "en": "“Wait. I'll **look for** another **taglia**.”",
               "voice": [
@@ -15381,7 +15221,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-113",
+              "id": "s01e20-2-111",
               "it": "La **commessa** apre un armadio **vecchio** e **cerca** tra i **costumi**.",
               "en": "The **shop assistant** opens an **old** wardrobe and **looks for** among the **costumes**.",
               "voice": [
@@ -15511,7 +15351,7 @@
               ]
             },
             {
-              "id": "s01e20-2-114",
+              "id": "s01e20-2-112",
               "it": "«Ho **questo**. È **verde**.»",
               "en": "“I have **this one**. It's **green**.”",
               "voice": [
@@ -15578,7 +15418,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-115",
+              "id": "s01e20-2-113",
               "it": "«**Verde**?»",
               "en": "“**Green**?”",
               "voice": [
@@ -15614,7 +15454,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-116",
+              "id": "s01e20-2-114",
               "it": "«Sì. Un pirata **verde**.»",
               "en": "“Yes. A **green** pirate.”",
               "voice": [
@@ -15680,7 +15520,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-117",
+              "id": "s01e20-2-115",
               "it": "«**Questo** è **brutto**.»",
               "en": "“**This one** is **ugly**.”",
               "voice": [
@@ -15737,7 +15577,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-118",
+              "id": "s01e20-2-116",
               "it": "«Leo!»",
               "en": "“Leo!”",
               "voice": [
@@ -15770,7 +15610,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-119",
+              "id": "s01e20-2-117",
               "it": "«Scusa. Ma **questo** **verde** è **brutto**.»",
               "en": "“Sorry. But **this** **green** one is **ugly**.”",
               "voice": [
@@ -15858,7 +15698,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-120",
+              "id": "s01e20-2-118",
               "it": "«Hai ragione.»",
               "en": "“You're right.”",
               "voice": [
@@ -15901,7 +15741,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-121",
+              "id": "s01e20-2-119",
               "it": "«Il **verde** va bene per l'insalata.»",
               "en": "“**Green** is good for salad.”",
               "voice": [
@@ -15987,7 +15827,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-122",
+              "id": "s01e20-2-120",
               "it": "«Papà, **questo** è **brutto** e **quello** è **brutto**.»",
               "en": "“Dad, **this one** is **ugly** and **that one** is **ugly**.”",
               "voice": [
@@ -16095,7 +15935,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-123",
+              "id": "s01e20-2-121",
               "it": "«Allora **cerchiamo** un altro **colore**.»",
               "en": "“Then let's **look for** another **color**.”",
               "voice": [
@@ -16172,7 +16012,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-124",
+              "id": "s01e20-2-122",
               "it": "La **commessa** torna all'armadio e prende un **costume** **giallo**.",
               "en": "The **shop assistant** goes back to the wardrobe and takes a **yellow costume**.",
               "voice": [
@@ -16281,7 +16121,7 @@
               ]
             },
             {
-              "id": "s01e20-2-125",
+              "id": "s01e20-2-123",
               "it": "«E **questo**?»",
               "en": "“And **this one**?”",
               "voice": [
@@ -16327,7 +16167,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-126",
+              "id": "s01e20-2-124",
               "it": "«**Giallo**?»",
               "en": "“**Yellow**?”",
               "voice": [
@@ -16363,7 +16203,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-127",
+              "id": "s01e20-2-125",
               "it": "«Sì. Un pirata **giallo**, come un limone.»",
               "en": "“Yes. A **yellow** pirate, like a lemon.”",
               "voice": [
@@ -16459,7 +16299,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-128",
+              "id": "s01e20-2-126",
               "it": "Leo guarda il **costume** **giallo** e ride.",
               "en": "Leo looks at the **yellow costume** and laughs.",
               "voice": [
@@ -16547,7 +16387,7 @@
               ]
             },
             {
-              "id": "s01e20-2-129",
+              "id": "s01e20-2-127",
               "it": "«**Questo** è **brutto** e **buffo**.»",
               "en": "“**This one** is **ugly** and funny.”",
               "voice": [
@@ -16625,7 +16465,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-130",
+              "id": "s01e20-2-128",
               "it": "«**Questo** o **quello**, Leo. Ma decidiamo.»",
               "en": "“**This one** or **that one**, Leo. But let's decide.”",
               "voice": [
@@ -16712,7 +16552,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-131",
+              "id": "s01e20-2-129",
               "it": "«Io voglio il **rosso**.»",
               "en": "“I want the **red** one.”",
               "voice": [
@@ -16778,7 +16618,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-132",
+              "id": "s01e20-2-130",
               "it": "«Il **rosso** è per adulti. »",
               "en": "“The **red** one is for adults.”",
               "voice": [
@@ -16854,7 +16694,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-133",
+              "id": "s01e20-2-131",
               "it": "«C'è un **rosso** per bambini?»",
               "en": "“Is there a **red** one for children?”",
               "voice": [
@@ -16926,7 +16766,7 @@
               ]
             },
             {
-              "id": "s01e20-2-134",
+              "id": "s01e20-2-132",
               "it": "La **commessa** pensa un momento.",
               "en": "The **shop assistant** thinks for a moment.",
               "voice": [
@@ -16997,7 +16837,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-135",
+              "id": "s01e20-2-133",
               "it": "«Sì. **Quello** **rosso**, in alto, sulla mensola.»",
               "en": "“Yes. **That** **red** one, up high, on the shelf.”",
               "voice": [
@@ -17094,7 +16934,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-136",
+              "id": "s01e20-2-134",
               "it": "«**Quello** **rosso**?»",
               "en": "“**That** **red** one?”",
               "voice": [
@@ -17141,7 +16981,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-137",
+              "id": "s01e20-2-135",
               "it": "«Sì. **Quello**.»",
               "en": "“Yes. **That one**.”",
               "voice": [
@@ -17187,7 +17027,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-138",
+              "id": "s01e20-2-136",
               "it": "La **commessa** prende il **costume** con una scala.",
               "en": "The **shop assistant** takes the **costume** with a ladder.",
               "voice": [
@@ -17285,7 +17125,7 @@
               ]
             },
             {
-              "id": "s01e20-2-139",
+              "id": "s01e20-2-137",
               "it": "Il **costume** è **rosso**, con righe **bianche** e **nere**.",
               "en": "The **costume** is **red**, with **white** and **black** stripes.",
               "voice": [
@@ -17395,7 +17235,7 @@
               ]
             },
             {
-              "id": "s01e20-2-140",
+              "id": "s01e20-2-138",
               "it": "«**Questo** è **rosso**, come vuoi tu.»",
               "en": "“**This one** is **red**, the way you want.”",
               "voice": [
@@ -17482,7 +17322,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-141",
+              "id": "s01e20-2-139",
               "it": "«**Questo** o **quello**?»",
               "en": "“**This one** or **that one**?”",
               "voice": [
@@ -17539,7 +17379,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-142",
+              "id": "s01e20-2-140",
               "it": "«**Questo**, Leo.»",
               "en": "“**This one**, Leo.”",
               "voice": [
@@ -17585,7 +17425,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-143",
+              "id": "s01e20-2-141",
               "it": "«**Questo**!»",
               "en": "“**This one**!”",
               "voice": [
@@ -17617,7 +17457,7 @@
               ]
             },
             {
-              "id": "s01e20-2-144",
+              "id": "s01e20-2-142",
               "it": "Leo **prova** il **costume** davanti allo **specchio**.",
               "en": "Leo **tries** the **costume** in front of the **mirror**.",
               "voice": [
@@ -17706,13 +17546,13 @@
               ]
             },
             {
-              "id": "s01e20-2-145",
-              "it": "Adesso la **taglia** è giusta.",
-              "en": "Now the **taglia** is right.",
+              "id": "s01e20-2-143",
+              "it": "Adesso la **taglia** è quasi giusta. Le gambe sono un po' lunghe, ma va bene.",
+              "en": "Now the **size** is almost right. The legs are a little long, but that's fine.",
               "voice": [
                 [
                   "narrator",
-                  "Adesso la **taglia** è giusta.",
+                  "Adesso la **taglia** è quasi giusta. Le gambe sono un po' lunghe, ma va bene.",
                   ""
                 ]
               ],
@@ -17758,8 +17598,108 @@
                   ""
                 ],
                 [
-                  "giusta",
+                  "quasi",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "giusta",
+                  5,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Le",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "gambe",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sono",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "un",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "po",
+                  10,
+                  ""
+                ],
+                [
+                  "' ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lunghe",
+                  11,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ma",
+                  12,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "va",
+                  13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bene",
+                  14,
                   ""
                 ],
                 [
@@ -17773,7 +17713,7 @@
               ]
             },
             {
-              "id": "s01e20-2-146",
+              "id": "s01e20-2-144",
               "it": "«**Questo** è perfetto!»",
               "en": "“**This one** is perfect!”",
               "voice": [
@@ -17829,7 +17769,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-147",
+              "id": "s01e20-2-145",
               "it": "«**Questo** è un **costume** **bello**.»",
               "en": "“**This one** is a nice **costume**.”",
               "voice": [
@@ -17907,7 +17847,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-148",
+              "id": "s01e20-2-146",
               "it": "«E il **cappello**?»",
               "en": "“And the **hat**?”",
               "voice": [
@@ -17963,7 +17903,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-149",
+              "id": "s01e20-2-147",
               "it": "«Ho **questi** **cappelli**. **Nero**, **blu** o **rosso**.»",
               "en": "“I have **these** **hats**. **Black**, **blue** or **red**.”",
               "voice": [
@@ -18063,7 +18003,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-150",
+              "id": "s01e20-2-148",
               "it": "«**Quello** **nero**!»",
               "en": "“**That** **black** one!”",
               "voice": [
@@ -18110,7 +18050,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-151",
+              "id": "s01e20-2-149",
               "it": "«**Quello** **nero** è **bello**.»",
               "en": "“**That** **black** one is nice.”",
               "voice": [
@@ -18178,7 +18118,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-152",
+              "id": "s01e20-2-150",
               "it": "«**Questo** è **vecchio**?»",
               "en": "“Is **this** one **old**?”",
               "voice": [
@@ -18235,9 +18175,9 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-153",
+              "id": "s01e20-2-151",
               "it": "«No, è **nuovo**.»",
-              "en": "“No, it's new.”",
+              "en": "“No, it's **new**.”",
               "voice": [
                 [
                   "donna",
@@ -18291,7 +18231,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-154",
+              "id": "s01e20-2-152",
               "it": "«**Questo** **cappello** è **nuovo**?»",
               "en": "“Is **this** **hat** new?”",
               "voice": [
@@ -18359,7 +18299,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-155",
+              "id": "s01e20-2-153",
               "it": "«Sì, **questo** è **nuovo**.»",
               "en": "“Yes, **this** one is new.”",
               "voice": [
@@ -18426,7 +18366,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-156",
+              "id": "s01e20-2-154",
               "it": "«Allora **questo**.»",
               "en": "“Then **this one**.”",
               "voice": [
@@ -18472,7 +18412,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-157",
+              "id": "s01e20-2-155",
               "it": "Kevin va alla cassa con il **costume** e il **cappello**.",
               "en": "Kevin goes to the register with the **costume** and the **hat**.",
               "voice": [
@@ -18590,7 +18530,7 @@
               ]
             },
             {
-              "id": "s01e20-2-158",
+              "id": "s01e20-2-156",
               "it": "«Quanto **costa**?»",
               "en": "“How much does it **cost**?”",
               "voice": [
@@ -18636,7 +18576,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-159",
+              "id": "s01e20-2-157",
               "it": "«Il **costume** venti euro. Il **cappello** cinque euro.»",
               "en": "“The **costume** is twenty euros. The **hat** is five euros.”",
               "voice": [
@@ -18743,7 +18683,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-160",
+              "id": "s01e20-2-158",
               "it": "«Venti… e cinque. Venticinque euro.»",
               "en": "“Twenty… and five. Twenty-five euros.”",
               "voice": [
@@ -18816,7 +18756,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-161",
+              "id": "s01e20-2-159",
               "it": "«Sì, signore. Venticinque euro.»",
               "en": "“Yes, sir. Twenty-five euros.”",
               "voice": [
@@ -18879,7 +18819,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-162",
+              "id": "s01e20-2-160",
               "it": "_Il prezzo è alto. Ma Leo è felice._",
               "en": "_The price is high. But Leo is happy._",
               "voice": [
@@ -18977,7 +18917,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-163",
+              "id": "s01e20-2-161",
               "it": "Leo mette la mano nella tasca di Kevin.",
               "en": "Leo puts his hand in Kevin's pocket.",
               "voice": [
@@ -19071,7 +19011,7 @@
               ]
             },
             {
-              "id": "s01e20-2-164",
+              "id": "s01e20-2-162",
               "it": "«Papà, hai i **soldi**?»",
               "en": "“Dad, do you have the **money**?”",
               "voice": [
@@ -19137,7 +19077,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-165",
+              "id": "s01e20-2-163",
               "it": "«Sì, ho i **soldi**.»",
               "en": "“Yes, I have the **money**.”",
               "voice": [
@@ -19203,7 +19143,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-166",
+              "id": "s01e20-2-164",
               "it": "«I **soldi** sono nella borsa?»",
               "en": "“Is the **money** in the bag?”",
               "voice": [
@@ -19279,7 +19219,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-167",
+              "id": "s01e20-2-165",
               "it": "«Sì, i **soldi** sono nella borsa.»",
               "en": "“Yes, the **money** is in the bag.”",
               "voice": [
@@ -19361,7 +19301,7 @@
               ]
             },
             {
-              "id": "s01e20-2-168",
+              "id": "s01e20-2-166",
               "it": "Kevin apre la borsa e paga.",
               "en": "Kevin opens the bag and pays.",
               "voice": [
@@ -19439,7 +19379,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-169",
+              "id": "s01e20-2-167",
               "it": "«Quanto **costa** il **cappello**?»",
               "en": "“How much does the **hat** **cost**?”",
               "voice": [
@@ -19506,7 +19446,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-170",
+              "id": "s01e20-2-168",
               "it": "«Cinque euro.»",
               "en": "“Five euros.”",
               "voice": [
@@ -19549,7 +19489,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-171",
+              "id": "s01e20-2-169",
               "it": "«Cinque! E il **costume**?»",
               "en": "“Five! And the **costume**?”",
               "voice": [
@@ -19615,7 +19555,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-172",
+              "id": "s01e20-2-170",
               "it": "«Venti euro.»",
               "en": "“Twenty euros.”",
               "voice": [
@@ -19658,7 +19598,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-173",
+              "id": "s01e20-2-171",
               "it": "«Allora venticinque in tutto.»",
               "en": "“So twenty-five in all.”",
               "voice": [
@@ -19721,7 +19661,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-174",
+              "id": "s01e20-2-172",
               "it": "«Bravo!»",
               "en": "“Good!”",
               "voice": [
@@ -19754,7 +19694,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-175",
+              "id": "s01e20-2-173",
               "it": "«Il bambino conta bene.»",
               "en": "“The kid counts well.”",
               "voice": [
@@ -19817,7 +19757,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-176",
+              "id": "s01e20-2-174",
               "it": "«Sì. E parla bene.»",
               "en": "“Yes. And he speaks well.”",
               "voice": [
@@ -19880,7 +19820,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-177",
+              "id": "s01e20-2-175",
               "it": "La **commessa** mette il **costume** e il **cappello** in una borsa grande di carta.",
               "en": "The **shop assistant** puts the **costume** and the **hat** in a big paper bag.",
               "voice": [
@@ -20039,7 +19979,7 @@
               ]
             },
             {
-              "id": "s01e20-2-178",
+              "id": "s01e20-2-176",
               "it": "«Grazie, signora. E scusi per il mio italiano.»",
               "en": "“Thank you, ma'am. And sorry about my Italian.”",
               "voice": [
@@ -20142,9 +20082,9 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-179",
+              "id": "s01e20-2-177",
               "it": "«Il suo italiano è **bello**.»",
-              "en": "“Your Italian is nice.”",
+              "en": "“Your Italian is **nice**.”",
               "voice": [
                 [
                   "donna",
@@ -20218,7 +20158,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-180",
+              "id": "s01e20-2-178",
               "it": "«Davvero?»",
               "en": "“Really?”",
               "voice": [
@@ -20251,7 +20191,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-181",
+              "id": "s01e20-2-179",
               "it": "«Sì. “**Questo**” e “**quello**” sono perfetti.»",
               "en": "“Yes. ‘**This**’ and ‘**that**’ are perfect.”",
               "voice": [
@@ -20338,7 +20278,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-182",
+              "id": "s01e20-2-180",
               "it": "«Grazie!»",
               "en": "“Thanks!”",
               "voice": [
@@ -20371,7 +20311,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-183",
+              "id": "s01e20-2-181",
               "it": "«E “**taglia**” è la parola giusta.»",
               "en": "“And ‘**taglia**’ is the right word.”",
               "voice": [
@@ -20457,7 +20397,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-184",
+              "id": "s01e20-2-182",
               "it": "«**Questa** parola è importante per me.»",
               "en": "“**This** word is important for me.”",
               "voice": [
@@ -20543,7 +20483,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-185",
+              "id": "s01e20-2-183",
               "it": "Leo prende la borsa e guarda la **vetrina** un'ultima volta.",
               "en": "Leo takes the bag and looks at the **shop window** one last time.",
               "voice": [
@@ -20660,7 +20600,7 @@
               ]
             },
             {
-              "id": "s01e20-2-186",
+              "id": "s01e20-2-184",
               "it": "«Papà, **questa** **vetrina** è **bella**.»",
               "en": "“Dad, **this** **shop window** is nice.”",
               "voice": [
@@ -20738,7 +20678,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-187",
+              "id": "s01e20-2-185",
               "it": "«Sì. E **quella** **maschera** **gialla** è **brutta**.»",
               "en": "“Yes. And **that** **yellow mask** is **ugly**.”",
               "voice": [
@@ -20837,7 +20777,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-188",
+              "id": "s01e20-2-186",
               "it": "«Papà!»",
               "en": "“Dad!”",
               "voice": [
@@ -20870,7 +20810,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-189",
+              "id": "s01e20-2-187",
               "it": "«Scusa. È **brutta** per me, **bella** per te.»",
               "en": "“Sorry. It's **ugly** for me, nice for you.”",
               "voice": [
@@ -20977,7 +20917,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-190",
+              "id": "s01e20-2-188",
               "it": "«Va bene.»",
               "en": "“Okay.”",
               "voice": [
@@ -21016,7 +20956,7 @@
               ]
             },
             {
-              "id": "s01e20-2-191",
+              "id": "s01e20-2-189",
               "it": "Kevin apre la porta e Leo esce con la borsa.",
               "en": "Kevin opens the door and Leo goes out with the bag.",
               "voice": [
@@ -21130,7 +21070,7 @@
               ]
             },
             {
-              "id": "s01e20-2-192",
+              "id": "s01e20-2-190",
               "it": "Il campanello del negozio suona una volta.",
               "en": "The shop bell rings once.",
               "voice": [
@@ -21214,7 +21154,7 @@
               ]
             },
             {
-              "id": "s01e20-2-193",
+              "id": "s01e20-2-191",
               "it": "«Grazie!»",
               "en": "“Thanks!”",
               "voice": [
@@ -21247,7 +21187,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-194",
+              "id": "s01e20-2-192",
               "it": "«Grazie a voi!»",
               "en": "“Thank you both!”",
               "voice": [
@@ -21296,7 +21236,7 @@
               ]
             },
             {
-              "id": "s01e20-2-195",
+              "id": "s01e20-2-193",
               "it": "La **commessa** saluta con la mano.",
               "en": "The **shop assistant** waves.",
               "voice": [
@@ -21373,7 +21313,7 @@
               ]
             },
             {
-              "id": "s01e20-2-196",
+              "id": "s01e20-2-194",
               "it": "«Arrivederci!»",
               "en": "“Goodbye!”",
               "voice": [
@@ -21406,7 +21346,7 @@
         {
           "segments": [
             {
-              "id": "s01e20-2-197",
+              "id": "s01e20-2-195",
               "it": "«Arrivederci!»",
               "en": "“Goodbye!”",
               "voice": [
@@ -21437,7 +21377,7 @@
           ]
         }
       ],
-      "time": "sabato pomeriggio"
+      "time": "sabato mattina"
     },
     {
       "n": 3,
@@ -24511,12 +24451,12 @@
             },
             {
               "id": "s01e20-3-040",
-              "it": "«Cosi è meglio.»",
+              "it": "«Così è meglio.»",
               "en": "“That's better.”",
               "voice": [
                 [
                   "franco",
-                  "Cosi è meglio.",
+                  "Così è meglio.",
                   ""
                 ]
               ],
@@ -24527,7 +24467,7 @@
                   ""
                 ],
                 [
-                  "Cosi",
+                  "Così",
                   0,
                   ""
                 ],
@@ -26396,12 +26336,12 @@
             },
             {
               "id": "s01e20-3-066",
-              "it": "«Francesco, “pensionato” è una parola **lunga**.»",
-              "en": "“Francesco, ‘pensionato’ is a **long** word.”",
+              "it": "«Franco, “pensionato” è una parola **lunga**.»",
+              "en": "“Franco, ‘pensionato’ is a **long** word.”",
               "voice": [
                 [
                   "ben",
-                  "Francesco, “pensionato” è una parola **lunga**.",
+                  "Franco, “pensionato” è una parola **lunga**.",
                   ""
                 ]
               ],
@@ -26412,7 +26352,7 @@
                   ""
                 ],
                 [
-                  "Francesco",
+                  "Franco",
                   0,
                   ""
                 ],
@@ -34573,12 +34513,12 @@
             },
             {
               "id": "s01e20-5-003",
-              "it": "Lucia è al tavolo con il ferro da stiro? No, con il tè.",
+              "it": "Lucia è al tavolo con il tè.",
               "en": "Lucia is at the table with tea.",
               "voice": [
                 [
                   "narrator",
-                  "Lucia è al tavolo con il ferro da stiro? No, con il tè.",
+                  "Lucia è al tavolo con il tè.",
                   ""
                 ]
               ],
@@ -34644,68 +34584,8 @@
                   ""
                 ],
                 [
-                  "ferro",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "da",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "stiro",
-                  8,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  9,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "tè",
-                  12,
+                  6,
                   ""
                 ],
                 [
@@ -39202,7 +39082,7 @@
             {
               "id": "s01e20-5-061",
               "it": "«Sono **bello**!»",
-              "en": "“I'm good-looking!”",
+              "en": "“I'm **good-looking**!”",
               "voice": [
                 [
                   "leo",
@@ -39248,7 +39128,7 @@
             {
               "id": "s01e20-5-062",
               "it": "«Sei **bello**, Leo.»",
-              "en": "“You're good-looking, Leo.”",
+              "en": "“You're **good-looking**, Leo.”",
               "voice": [
                 [
                   "chiara",
@@ -39304,7 +39184,7 @@
             {
               "id": "s01e20-5-063",
               "it": "«Sono un pirata **bello**!»",
-              "en": "“I'm a good-looking pirate!”",
+              "en": "“I'm a **good-looking** pirate!”",
               "voice": [
                 [
                   "leo",
