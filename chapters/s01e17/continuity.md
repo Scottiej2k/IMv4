@@ -1,0 +1,5 @@
+### s01e17 · Mi piace, non mi piace
+- **Happened:** Sunday lunch at Franco's: Lucia cooked, Chiara said "a me no" to every dish. Leo ran a "quaderno dei gusti" scoring game (Lucia 7, Mamma 2). Kevin cooked an American dinner for the Colombos; only Marina and Tommaso ate well.
+- **New facts:** Leo owns a notebook called *il quaderno dei gusti*; Kevin keeps a yellow notebook of Italian phrases; Lucia's lemon cake is her grandmother's recipe, and she gave the written recipe to Chiara, who pinned it on the fridge for Sunday lunch. Marina gave Kevin a box of biscuits for Leo. Roberto is fighting a problem with the roof cornice (*la cornice del tetto*). Chiara knows Lucia's Saturday-afternoon dance class.
+- **Changed:** Chiara warms slightly to Lucia (she admits she likes her song and her tea, and dances two tango steps with her) but still resists her. Kevin learns Marina secretly likes all his food; she asks him not to tell Roberto; only Kevin knows. Marina also privately disagrees with Roberto's "a me no".
+- **Planted:** Roberto's cornice and his complaint about ten trash bins in front of number 14 — unresolved dispute with Kevin (no episode set).

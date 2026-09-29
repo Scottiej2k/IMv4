@@ -123,6 +123,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara knows about Franco and Lucia (says Kevin and Matteo knew too); Chiara and Kevin are in a cold standoff, unresolved.
 - **Planted:** Kevin's street-party permission request pending with the comitato; ten neighbors' bins dumped outside number 14 (Wednesday).
 
+### s01e17 · Mi piace, non mi piace
+- **Happened:** Sunday lunch at Franco's: Lucia cooked, Chiara said "a me no" to every dish. Leo ran a "quaderno dei gusti" scoring game (Lucia 7, Mamma 2). Kevin cooked an American dinner for the Colombos; only Marina and Tommaso ate well.
+- **New facts:** Leo owns a notebook called *il quaderno dei gusti*; Kevin keeps a yellow notebook of Italian phrases; Lucia's lemon cake is her grandmother's recipe, and she gave the written recipe to Chiara, who pinned it on the fridge for Sunday lunch. Marina gave Kevin a box of biscuits for Leo. Roberto is fighting a problem with the roof cornice (*la cornice del tetto*). Chiara knows Lucia's Saturday-afternoon dance class.
+- **Changed:** Chiara warms slightly to Lucia (she admits she likes her song and her tea, and dances two tango steps with her) but still resists her. Kevin learns Marina secretly likes all his food; she asks him not to tell Roberto; only Kevin knows. Marina also privately disagrees with Roberto's "a me no".
+- **Planted:** Roberto's cornice and his complaint about ten trash bins in front of number 14 — unresolved dispute with Kevin (no episode set).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

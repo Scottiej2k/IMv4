@@ -1,0 +1,742 @@
+@vocab
+mi piace | expression | | I like it | |
+mi piacciono | expression | | I like them | |
+anche a me | expression | | me too, I like it too | |
+a me no | expression | | not me, I don't like it | |
+il tempo libero | noun | m | free time | |
+cucinare | verb | | to cook | cucino, cuciniamo, cucinate, cucinano |
+lo sport | noun | m | sport | |
+il cibo | noun | m | food | |
+la partita | noun | f | match, game | partite |
+il formaggio | noun | m | cheese | formaggi |
+la verdura | noun | f | vegetables | verdure |
+la torta | noun | f | cake | torte |
+la ricetta | noun | f | recipe | ricette |
+buono | adjective | | good, tasty | buona, buoni, buone |
+cantare | verb | | to sing | canto, canti, canta, cantiamo, cantano |
+il tango | noun | m | tango | |
+la canzone | noun | f | song | canzoni |
+l'antipasto | noun | m | starter, appetizer | antipasti |
+l'ospite | noun | m/f | guest | ospiti |
+la pizza | noun | f | pizza | pizze |
+la carne | noun | f | meat | |
+il gelato | noun | m | ice cream | gelati |
+il tè | noun | m | tea | |
+il bicchiere | noun | m | glass, drinking glass | bicchieri |
+il tavolo | noun | m | table | tavoli |
+il gusto | noun | m | taste, liking | gusti |
+@end
+
+# SCENE casa-carter | sabato mattina | chiara, leo, ben
+
+È sabato mattina in Via dei Tigli 14. || It's Saturday morning at Via dei Tigli 14.
+In cucina Chiara è davanti al **tavolo**. || In the kitchen Chiara is in front of the **table**.
+Porta una camicia bianca e i capelli sono a posto. || She's wearing a white shirt and her hair is done.
+
+«Perché sei già vestita?»{leo} chiede Leo dalla porta. || "Why are you already dressed?" Leo asks from the door.
+«Perché oggi mangio a casa del nonno»{chiara} risponde Chiara. || "Because today I'm eating at Grandpa's," Chiara answers.
+«Con Lucia.»{chiara|dry} || "With Lucia."
+Leo entra in cucina con un quaderno nuovo. || Leo comes into the kitchen with a new notebook.
+Sulla copertina c'è una scritta a pennarello. || On the cover there's something written in marker.
+Sulla copertina c'è una scritta a pennarello. || On the cover there's something written in marker.
+«Il quaderno dei **gusti**!»{leo|proud} esclama Leo. || "The notebook of **tastes**!" Leo exclaims.
+«È un gioco»{leo} dice Leo. «Un gioco sui **gusti**.»{leo} || "It's a game," Leo says. "A game about **tastes**."
+Sul quaderno ci sono due colonne. || On the notebook there are two columns.
+In alto Leo scrive LUCIA e MAMMA. || At the top Leo writes LUCIA and MOM.
+
+«A Lucia piace una cosa. Tu dici “a me no”»{leo} spiega Leo. || "Lucia likes something. You say 'not me,'" Leo explains.
+«E tu scrivi tutto?»{chiara} chiede Chiara. || "And you write everything down?" Chiara asks.
+«Sì. Poi c'è il risultato»{leo} dice Leo, serio. || "Yes. Then there's the score," Leo says, serious.
+_Il pranzo è alle dodici e trenta. È un pranzo lungo._{leo} || *Lunch is at twelve thirty. It's a long lunch.*
+Chiara guarda il quaderno e chiude gli occhi. || Chiara looks at the notebook and closes her eyes.
+
+«Leo, ti prego»{chiara} dice Chiara. || "Leo, please," Chiara says.
+«Che cosa?»{leo} chiede Leo. || "What?" Leo asks.
+«Non dire il risultato a tavola»{chiara} dice Chiara. || "Don't say the score at the table," Chiara says.
+«Con Lucia e con il nonno»{chiara} aggiunge. || "With Lucia and with Grandpa," she adds.
+«Perché?»{leo} chiede Leo. || "Why?" Leo asks.
+«Perché è un pranzo importante»{chiara} risponde Chiara. || "Because it's an important lunch," Chiara answers.
+Leo pensa. Poi annuisce. || Leo thinks. Then he nods.
+«Perfetto. Io non parlo»{leo} dice Leo. || "Perfect. I don't talk," Leo says.
+
+Dalla porta arriva Kevin con un foglio in mano. || From the door comes Kevin with a sheet of paper in his hand.
+«Buongiorno!»{ben} dice Kevin. «Oggi **cucino** io.»{ben} || "Good morning!" Kevin says. "Today **I cook**."
+«Cucini che cosa?»{chiara} chiede Chiara. || "You cook what?" Chiara asks.
+«La cena americana»{ben} dice Kevin. «Per i signori Colombo.»{ben} || "An American dinner," Kevin says. "For the Colombos."
+«Perché?»{leo} chiede Leo. || "Why?" Leo asks.
+«Perché voglio un amico nuovo»{ben} dice Kevin. «Il signor Colombo.»{ben} || "Because I want a new friend," Kevin says. "Mr. Colombo."
+Chiara lo guarda. || Chiara looks at him.
+«Kevin, il signor Colombo non mangia niente»{chiara} dice Chiara. || "Kevin, Mr. Colombo doesn't eat anything," Chiara says.
+«Non è vero»{ben} dice Kevin. || "That's not true," Kevin says.
+
+«Ti **piace** la **pizza**?»{ben} chiede Kevin a Leo. || "Do you **like** **pizza**?" Kevin asks Leo.
+«Sì! **Mi piace** la **pizza**!»{leo} risponde Leo. || "Yes! **I like** **pizza**!" Leo answers.
+«**Anche a me**!»{ben} dice Kevin. || "**Me too**!" Kevin says.
+Kevin scrive sul suo quaderno giallo. || Kevin writes in his yellow notebook.
+«Allora, Leo. Ti **piace** lo **sport**?»{ben} chiede Kevin. || "So, Leo. Do you **like** **sport**?" Kevin asks.
+«Sì. **Mi piacciono** il calcio e il nuoto»{leo} dice Leo. || "Yes. **I like** soccer and swimming," Leo says.
+«Bene!»{ben} dice Kevin. || "Good!" Kevin says.
+Kevin scrive: SPORT — SÌ. || Kevin writes: SPORT — YES.
+
+«E a te, Chiara? Ti **piace** lo **sport**?»{ben} chiede Kevin. || "And you, Chiara? Do you **like** **sport**?" Kevin asks.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+«Però la **partita** la guardi»{leo} dice Leo. || "But you watch the **match**," Leo says.
+«Quale **partita**?»{ben} chiede Kevin. || "Which **match**?" Kevin asks.
+«Milan-Inter. La domenica»{leo} dice Leo. || "Milan-Inter. On Sundays," Leo says.
+«Io guardo la **partita** con il nonno»{chiara} dice Chiara. «Ma non mi piace lo sport.»{chiara} || "I watch the **match** with Grandpa," Chiara says. "But I don't like sport."
+Kevin scrive ancora. || Kevin writes again.
+_Perché la mamma dice così?_{leo} pensa Leo. || *Why does Mom say that?* Leo thinks.
+
+«E il **tempo libero**?»{ben} chiede Kevin. || "And **free time**?" Kevin asks.
+«Il **tempo libero** è importante»{ben} dice Kevin. «Io lo uso per **cucinare**.»{ben} || "**Free time** is important," Kevin says. "I use it to **cook**."
+«Tu **cucini** ogni giorno»{chiara} dice Chiara. || "You **cook** every day," Chiara says.
+«Sì! E **mi piace**!»{ben} dice Kevin. || "Yes! And **I like it**!" Kevin says.
+«Il **cibo** americano è **buono**»{ben} aggiunge. || "American **food** is **good**," he adds.
+«La **ricetta** è nel quaderno»{ben} dice Kevin. «Tutto scritto.»{ben} || "The **recipe** is in the notebook," Kevin says. "All written down."
+«In inglese»{chiara} dice Chiara. || "In English," Chiara says.
+«In inglese, sì»{ben} dice Kevin. «Poi scrivo in italiano.»{ben} || "In English, yes," Kevin says. "Then I write it in Italian."
+
+Leo guarda il foglio di Kevin. || Leo looks at Kevin's sheet.
+«Kevin, che cosa **cucini**?»{leo} chiede Leo. || "Kevin, what do you **cook**?" Leo asks.
+«**Pizza** e carne»{ben} dice Kevin. «E poi una torta.»{ben} || "**Pizza** and meat," Kevin says. "And then a cake."
+«Allora, io piaccio la pizza»{ben} dice Kevin, piano. || "So, I like pizza," Kevin says, slowly.
+Leo alza la mano. || Leo raises his hand.
+«Si dice: **mi piace** la **pizza**»{leo} dice Leo. || "You say: **I like** **pizza**," Leo says.
+«Ah! **Mi piace** la **pizza**!»{ben} dice Kevin. «**Mi piace**!»{ben} || "Ah! **I like** **pizza**!" Kevin says. "**I like it**!"
+Kevin scrive la frase nel quaderno giallo. || Kevin writes the sentence in the yellow notebook.
+«Numero venti»{ben} dice Kevin. «Perfetto!»{ben} || "Number twenty," Kevin says. "Perfect!"
+Chiara sorride un poco. || Chiara smiles a little.
+«Adesso è giusto»{chiara} dice Chiara. || "Now it's right," Chiara says.
+
+«E **mi piacciono** i biscotti»{ben} dice Kevin. «E il caffè.»{ben} || "And **I like** cookies," Kevin says. "And coffee."
+«Bravo»{chiara} dice Chiara. || "Well done," Chiara says.
+«Adesso io sono italiano»{ben} dice Kevin. || "Now I'm Italian," Kevin says.
+«No»{chiara} dice Chiara. || "No," Chiara says.
+«No»{leo} dice Leo. «Sei americano.»{leo} || "No," Leo says. "You're American."
+Leo guarda la sua lista. || Leo looks at his list.
+«Mamma, che cosa ti **piace**?»{leo} chiede Leo. || "Mom, what do you **like**?" Leo asks.
+Chiara pensa un momento. || Chiara thinks for a moment.
+«Non lo so»{chiara} dice Chiara. || "I don't know," Chiara says.
+Leo scrive la parola NULLA nella colonna MAMMA. || Leo writes the word NOTHING in the MOM column.
+«Leo!»{chiara} esclama Chiara. || "Leo!" Chiara exclaims.
+«Che cosa? Tu dici sempre “**a me no**”»{leo} dice Leo. || "What? You always say '**not me**,'" Leo says.
+
+Chiara prende la giacca. || Chiara takes her jacket.
+«Leo, prometti? Niente risultato a tavola»{chiara} dice Chiara. || "Leo, promise? No score at the table," Chiara says.
+«Prometto»{leo} dice Leo. || "I promise," Leo says.
+_Io non parlo. Io scrivo._{leo} || *I don't talk. I write.*
+
+# SCENE casa-franco | sabato, a tavola | chiara, lucia, leo, franco
+
+La casa di Franco è calda e c'è odore di **pizza**. || Franco's house is warm and smells of **pizza**.
+Sul **tavolo** ci sono due **bicchieri** per ogni persona. || On the **table** there are two **glasses** for each person.
+Lucia arriva dalla cucina con un piatto. || Lucia comes from the kitchen with a plate.
+«Buongiorno, tesoro!»{lucia|warm} dice Lucia a Chiara. || "Good morning, sweetheart!" Lucia says to Chiara.
+«Buongiorno»{chiara|cool} risponde Chiara. || "Good morning," Chiara answers.
+«Tu sei l'**ospite** importante oggi»{lucia} dice Lucia. || "You're the important **guest** today," Lucia says.
+«Grazie»{chiara} dice Chiara. || "Thank you," Chiara says.
+Franco è già a tavola. || Franco is already at the table.
+Legge il giornale e non parla. || He reads the newspaper and doesn't talk.
+Leo si siede vicino a Franco. || Leo sits next to Franco.
+Sul **tavolo** mette il quaderno dei gusti, chiuso. || On the **table** he puts the notebook of tastes, closed.
+
+Lucia porta l'**antipasto**. || Lucia brings the **antipasto**.
+C'è **formaggio** e c'è **verdura**. || There's **cheese** and there are **vegetables**.
+«Chiara, ti **piace** l'**antipasto**?»{lucia|bright} chiede Lucia. || "Chiara, do you **like** the **antipasto**?" Lucia asks.
+Chiara guarda il piatto. Il **formaggio** è il suo preferito. || Chiara looks at the plate. The **cheese** is her favorite.
+«**A me no**»{chiara|flat} dice Chiara. || "**Not me**," Chiara says.
+«Ah! **A me** **piace** moltissimo!»{lucia} dice Lucia. || "Ah! **I** **like** it very much!" Lucia says.
+«Il **formaggio** è **buono**. La **verdura** è **buona**»{lucia} dice Lucia. || "The **cheese** is **good**. The **vegetables** are **good**," Lucia says.
+Franco alza gli occhi dal giornale. || Franco looks up from the newspaper.
+Leo apre il quaderno sotto il tavolo. || Leo opens the notebook under the table.
+Scrive una riga nella colonna LUCIA. || He writes a line in the LUCIA column.
+_La mamma è un disastro._{leo} pensa Leo. || *Mom is a disaster.* Leo thinks.
+
+Lucia porta la **pizza**. || Lucia brings the **pizza**.
+«Ti **piace** la **pizza**?»{lucia} chiede Lucia. || "Do you **like** **pizza**?" Lucia asks.
+Chiara ama la **pizza** di Lucia. Lo dice anche la settimana scorsa. || Chiara loves Lucia's **pizza**. She even said so last week.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+«**A me** **piace**!»{lucia} dice Lucia. «Con la mozzarella e i pomodori.»{lucia} || "**I** **like** it!" Lucia says. "With mozzarella and tomatoes."
+«Leo, ti **piace** la **pizza**?»{lucia} chiede Lucia. || "Leo, do you **like** **pizza**?" Lucia asks.
+«Sì! **Mi piace**!»{leo} dice Leo con la bocca piena. || "Yes! **I like it**!" Leo says with his mouth full.
+«**Anche a me**»{franco} dice Franco, piano. || "**Me too**," Franco says, quietly.
+«Anche tu, Franco?»{lucia|playful} chiede Lucia. || "You too, Franco?" Lucia asks.
+Franco torna al giornale. || Franco goes back to the newspaper.
+
+Poi Lucia porta la **carne**. || Then Lucia brings the **meat**.
+«Ti **piace** la **carne**?»{lucia} chiede Lucia. || "Do you **like** the **meat**?" Lucia asks.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+Leo guarda la mamma mangiare la **carne** in due secondi. || Leo watches his mom eat the **meat** in two seconds.
+«**A me** **piace** la **carne**»{lucia} dice Lucia. «E **mi piace** **cucinare**.»{lucia} || "**I** **like** **meat**," Lucia says. "And **I like** to **cook**."
+«**Cucini** ogni giorno?»{chiara} chiede Chiara. || "Do you **cook** every day?" Chiara asks.
+«Sì. **Mi piace** **cucinare** per gli amici»{lucia} dice Lucia. || "Yes. **I like** **cooking** for friends," Lucia says.
+«E la **ricetta** della **torta**? È tua?»{chiara} chiede Chiara. || "And the **recipe** for the **cake**? Is it yours?" Chiara asks.
+«Sì, è mia. Di mia nonna»{lucia} dice Lucia. || "Yes, it's mine. From my grandmother," Lucia says.
+«Ah»{chiara} dice Chiara. || "Ah," Chiara says.
+_Perché la mamma non dice “è buona”?_{leo} pensa Leo. || *Why doesn't Mom say "it's good"?* Leo thinks.
+
+Lucia porta anche il **tè** e i biscotti. || Lucia also brings **tea** and cookies.
+«Ti **piace** il **tè**?»{lucia} chiede Lucia. || "Do you **like** **tea**?" Lucia asks.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+Ma Chiara beve il **tè** ogni pomeriggio. || But Chiara drinks **tea** every afternoon.
+«**A me** **piace** il **tè** con il limone»{lucia} dice Lucia. || "**I** **like** **tea** with lemon," Lucia says.
+«E nel **tempo libero**? Che cosa ti **piace**?»{lucia} chiede Lucia. || "And in your **free time**? What do you **like**?" Lucia asks.
+«**A me no**... il **tempo libero** è poco»{chiara} dice Chiara. || "**Not me**... there's little **free time**," Chiara says.
+«**A me** **piace** il **tango**»{lucia} dice Lucia. «E **mi piacciono** le **canzoni**.»{lucia} || "**I** **like** **tango**," Lucia says. "And **I like** **songs**."
+«**Canto** anche, a volte»{lucia} dice Lucia. || "I **sing** too, sometimes," Lucia says.
+
+Leo alza la testa dal quaderno. || Leo lifts his head from the notebook.
+«Uno a zero per Lucia»{leo} dice Leo. || "One to zero for Lucia," Leo says.
+Silenzio. || Silence.
+Franco guarda Leo. Leo guarda Franco. || Franco looks at Leo. Leo looks at Franco.
+«Leo!»{chiara} dice Chiara. || "Leo!" Chiara says.
+«Che cosa? È la verità»{leo} dice Leo. || "What? It's the truth," Leo says.
+«**Mi piace** lo **sport**»{lucia} dice Lucia. «E tu, Chiara?»{lucia} || "**I like** **sport**," Lucia says. "And you, Chiara?"
+«**A me no** lo **sport**»{chiara} dice Chiara. || "**Not me**, not **sport**," Chiara says.
+«Tu guardi la **partita** con tuo padre, no?»{lucia} chiede Lucia. || "You watch the **match** with your father, no?" Lucia asks.
+«Sì, ma non **mi piace** lo **sport**»{chiara} dice Chiara. || "Yes, but I don't **like** **sport**," Chiara says.
+Franco sospira. || Franco sighs.
+«Mangia, Chiara»{franco|tired} dice Franco. || "Eat, Chiara," Franco says.
+
+«E il **cibo**? Ti **piace** il **cibo** italiano?»{lucia} chiede Lucia. || "And **food**? Do you **like** Italian **food**?" Lucia asks.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+«Mamma! Ieri **mi piacciono**...»{leo} comincia Leo. || "Mom! Yesterday **I like**..." Leo begins.
+«Leo»{chiara|cold} dice Chiara. || "Leo," Chiara says.
+«**A me** **piace** il **cibo** italiano»{lucia} dice Lucia. «Il **cibo**, la **musica**, il **tango**.»{lucia} || "**I** **like** Italian **food**," Lucia says. "**Food**, **music**, **tango**."
+«**Il tango** è **buono** per il corpo»{lucia} dice Lucia. || "**Tango** is **good** for the body," Lucia says.
+«Non **balli**, Chiara?»{lucia} chiede Lucia. || "You don't **dance**, Chiara?" Lucia asks.
+«No. Non **ballo**»{chiara} dice Chiara. || "No. I don't **dance**," Chiara says.
+«Ballo anch'io, sabato pomeriggio»{lucia} dice Lucia. || "I dance too, Saturday afternoons," Lucia says.
+«Lo so»{chiara|dry} dice Chiara. || "I know," Chiara says.
+Franco guarda il piatto e non dice niente. || Franco looks at his plate and says nothing.
+
+Arrivano la **torta** e il **gelato**. || The **cake** and the **ice cream** arrive.
+La **torta** è al limone. Come quella di Anna. || The **cake** is lemon. Like Anna's.
+Chiara guarda la **torta** e non parla per un secondo. || Chiara looks at the **cake** and doesn't speak for a second.
+«Ti **piace** la **torta**?»{lucia} chiede Lucia. || "Do you **like** the **cake**?" Lucia asks.
+«**A me no**»{chiara|quiet} dice Chiara. || "**Not me**," Chiara says quietly.
+«Il **gelato**?»{lucia} chiede Lucia. || "The **ice cream**?" Lucia asks.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+«**A me** **piacciono** il **gelato** e la **torta**!»{lucia} dice Lucia. «**Anche a me**!»{lucia} || "**I** **like** **ice cream** and **cake**!" Lucia says. "**Me too**!"
+Leo scrive due righe nel quaderno. || Leo writes two lines in the notebook.
+«Due a zero per Lucia»{leo} dice Leo. || "Two to zero for Lucia," Leo says.
+«Leo!»{chiara} esclama Chiara. || "Leo!" Chiara exclaims.
+«Che cosa? Io non parlo»{leo} dice Leo. «Io scrivo.»{leo} || "What? I don't talk," Leo says. "I write."
+Lucia ride, ma piano. || Lucia laughs, but quietly.
+
+Franco mette la forchetta sul tavolo. || Franco puts his fork on the table.
+«Chiara»{franco} dice Franco. || "Chiara," Franco says.
+«Sì?»{chiara} chiede Chiara. || "Yes?" Chiara asks.
+«Mangia»{franco} dice Franco. «La **torta** è **buona**.»{franco} || "Eat," Franco says. "The **cake** is **good**."
+_La mamma è un disastro._{leo} pensa Leo. || *Mom is a disaster.* Leo thinks.
+«E la **partita**?»{lucia} chiede Lucia a Chiara. || "And the **match**?" Lucia asks Chiara.
+«Milan-Inter. Il Milan è forte»{chiara} dice Chiara. || "Milan-Inter. Milan is strong," Chiara says.
+«No, l'Inter è più forte»{lucia} dice Lucia. || "No, Inter is stronger," Lucia says.
+Franco li guarda tutte e due. || Franco looks at both of them.
+«Mah»{franco} dice Franco. || "Mah," Franco says.
+Leo scrive: UNO A UNO. || Leo writes: ONE TO ONE.
+
+# SCENE casa-franco | sabato pomeriggio, in cucina | chiara, lucia, leo
+
+Dopo il pranzo Chiara porta i **bicchieri** in cucina. || After lunch Chiara carries the **glasses** into the kitchen.
+Lucia arriva con un vassoio e con il **tè**. || Lucia comes in with a tray and with the **tea**.
+La cucina di Franco è piccola ma pulita. || Franco's kitchen is small but clean.
+Sul **tavolo** ci sono ancora la **torta** e il **gelato**. || On the **table** there are still the **cake** and the **ice cream**.
+«Ti aiuto?»{chiara} chiede Chiara. || "Can I help?" Chiara asks.
+«Grazie, tesoro»{lucia} dice Lucia. «Lava i bicchieri, io preparo il tè.»{lucia} || "Thanks, sweetheart," Lucia says. "Wash the glasses, I'll make the tea."
+Chiara lava i **bicchieri** uno per uno, piano. || Chiara washes the **glasses** one by one, slowly.
+
+Lucia mette l'acqua sul fuoco. || Lucia puts the water on the stove.
+Poi **canta** piano, sotto voce. || Then she **sings** softly, under her breath.
+Chiara la guarda di lato. || Chiara looks at her sideways.
+«Che cosa **canti**?»{chiara} chiede Chiara. || "What are you **singing**?" Chiara asks.
+«Una **canzone** vecchia. Di Napoli»{lucia} dice Lucia. || "An old **song**. From Naples," Lucia says.
+«Ah»{chiara} dice Chiara. || "Ah," Chiara says.
+«Ti **piace** questa **canzone**?»{lucia} chiede Lucia. || "Do you **like** this **song**?" Lucia asks.
+Chiara ascolta per un momento. || Chiara listens for a moment.
+«Sì. **Anche a me** **piace** questa **canzone**»{chiara} dice Chiara. || "Yes. **I like** this **song** **too**," Chiara says.
+Lucia si gira e sorride. || Lucia turns around and smiles.
+«Allora abbiamo un **gusto** in comune»{lucia|warm} dice Lucia. || "Then we have a **taste** in common," Lucia says.
+«Uno solo»{chiara} dice Chiara. || "Only one," Chiara says.
+«Uno è un inizio»{lucia} dice Lucia. || "One is a beginning," Lucia says.
+
+Il **tè** è pronto. Lucia mette due bicchieri sul **tavolo**. || The **tea** is ready. Lucia puts two glasses on the **table**.
+«Anch'io sono nervosa oggi»{lucia} dice Lucia, tranquilla. || "I'm nervous today too," Lucia says, calmly.
+«Anche tu?»{chiara} chiede Chiara. || "You too?" Chiara asks.
+«Sì. Tu sei la figlia di Franco»{lucia} dice Lucia. «E io sono... io»{lucia} aggiunge. || "Yes. You're Franco's daughter," Lucia says. "And I'm... me," she adds.
+«Capisco»{chiara} dice Chiara. || "I understand," Chiara says.
+«No, non capisci»{lucia} dice Lucia. «Ma va bene. Mangiamo la torta.»{lucia} || "No, you don't understand," Lucia says. "But it's fine. Let's eat cake."
+
+Lucia taglia la **torta** e mette il **gelato** sopra. || Lucia cuts the **cake** and puts the **ice cream** on top.
+«Per l'**ospite** importante»{lucia} dice Lucia. || "For the important **guest**," Lucia says.
+Chiara prende il piatto. || Chiara takes the plate.
+«**Buono**»{chiara} dice Chiara, senza pensare. || "**Good**," Chiara says, without thinking.
+«Ah! Lo so!»{lucia|triumphant} dice Lucia. || "Ah! I know it!" Lucia says.
+«È **buono**. Ma non **mi piace** la **torta**»{chiara} dice Chiara. || "It's **good**. But I don't **like** the **cake**," Chiara says.
+«**A me** **piace** moltissimo»{lucia} dice Lucia. || "**I** **like** it a lot," Lucia says.
+«E la **carne**?»{lucia} chiede Lucia. «La **carne** non ti **piace**, vero?»{lucia} || "And the **meat**?" Lucia asks. "You don't **like** the **meat**, right?"
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+«E la **verdura**?»{lucia} chiede Lucia. || "And the **vegetables**?" Lucia asks.
+«**A me no**»{chiara} dice Chiara. || "**Not me**," Chiara says.
+Lucia ride. || Lucia laughs.
+«Chiara, tu mangi tutto. Tutto»{lucia} dice Lucia. || "Chiara, you eat everything. Everything," Lucia says.
+«Mangio. Non **mi piace**»{chiara} dice Chiara. || "I eat. I don't **like** it," Chiara says.
+
+Lucia mette la tazza sul tavolo. || Lucia puts the cup on the table.
+Poi fa due passi di **tango**, da sola. || Then she does two **tango** steps, alone.
+«Vedi? Uno, due, tre»{lucia} dice Lucia. || "See? One, two, three," Lucia says.
+«Io non **ballo**»{chiara} dice Chiara. || "I don't **dance**," Chiara says.
+«Adesso provi»{lucia} dice Lucia. || "Now you try," Lucia says.
+«No»{chiara} dice Chiara. || "No," Chiara says.
+«Solo due passi. Vecino al **tavolo**»{lucia} dice Lucia. || "Just two steps. Next to the **table**," Lucia says.
+Chiara posa la tazza e sospira. || Chiara puts down the cup and sighs.
+Poi fa un passo. E un altro. || Then she takes a step. And another.
+«Uno, due. Così»{lucia} dice Lucia. || "One, two. Like this," Lucia says.
+Chiara sbaglia e ride. Una risata piccola. || Chiara gets it wrong and laughs. A small laugh.
+«È difficile»{chiara} dice Chiara. || "It's difficult," Chiara says.
+«Sì. Ma è **buono** per il cuore»{lucia} dice Lucia. || "Yes. But it's **good** for the heart," Lucia says.
+
+Leo appare sulla porta con il quaderno. || Leo appears at the door with the notebook.
+«Mamma, che cosa fai?»{leo} chiede Leo. || "Mom, what are you doing?" Leo asks.
+«Niente»{chiara} dice Chiara e si allontana dal **tavolo**. || "Nothing," Chiara says, and moves away from the **table**.
+«Vedo tutto»{leo} dice Leo. || "I see everything," Leo says.
+«Che cosa scrivi adesso?»{chiara} chiede Chiara. || "What are you writing now?" Chiara asks.
+«Pari»{leo} dice Leo. «Uno a uno.»{leo} || "Tie," Leo says. "One to one."
+«Grazie, Leo»{chiara|dry} dice Chiara. || "Thanks, Leo," Chiara says.
+Lucia prende un foglio dal cassetto. || Lucia takes a sheet of paper from the drawer.
+Scrive la **ricetta** della **torta** con la penna. || She writes the **recipe** for the **cake** with the pen.
+«Tieni. Per te»{lucia} dice Lucia. || "Here. For you," Lucia says.
+«Perché?»{chiara} chiede Chiara. || "Why?" Chiara asks.
+«Perché è una **ricetta** di famiglia»{lucia} dice Lucia. || "Because it's a family **recipe**," Lucia says.
+Chiara prende il foglio. || Chiara takes the sheet. || 
+«Grazie»{chiara|quieter} dice Chiara. || "Thank you," Chiara says, more quietly.
+_Lucia non è la persona che voglio._{chiara} pensa Chiara. || *Lucia isn't the person I want her to be.* Chiara thinks.
+_Ma la torta è buona._{chiara} || *But the cake is good.*
+
+# SCENE casa-carter | sabato pomeriggio | ben, emma, leo
+
+La cucina dei Carter è un disastro. || The Carters' kitchen is a disaster.
+Sul **tavolo** ci sono farina, uova, una **ricetta** in inglese e tre **bicchieri**. || On the **table** there's flour, eggs, a **recipe** in English and three **glasses**.
+Kevin è davanti ai fornelli con un grembiule. || Kevin is at the stove with an apron.
+**Cucina** e **canta** insieme. || He **cooks** and **sings** at the same time.
+«Baby, oh baby...»{ben|singing} **canta** Kevin. || "Baby, oh baby..." Kevin **sings**.
+Emma entra e si ferma. || Emma comes in and stops.
+«Papà, che cosa fai?»{emma|flat} chiede Emma. || "Dad, what are you doing?" Emma asks.
+«**Cucino** la cena per i Colombo»{ben} dice Kevin. || "I'm **cooking** dinner for the Colombos," Kevin says.
+«E perché **canti**?»{emma} chiede Emma. || "And why are you **singing**?" Emma asks.
+«Perché è una **canzone** italiana»{ben} dice Kevin. «Una **canzone** **buona**.»{ben} || "Because it's an Italian **song**," Kevin says. "A **good** **song**."
+«No. È una **canzone** americana»{emma} dice Emma. || "No. It's an American **song**," Emma says.
+
+Kevin mostra la **ricetta** a Emma. || Kevin shows the **recipe** to Emma.
+«Questa è la **ricetta** di mia madre»{ben} dice Kevin. «In Ohio.»{ben} || "This is my mother's **recipe**," Kevin says. "From Ohio."
+«E che cosa **cucini**?»{emma} chiede Emma. || "And what are you **cooking**?" Emma asks.
+«**Antipasto**, **carne**, **formaggio**, **torta**, **gelato**»{ben} dice Kevin. || "**Appetizer**, **meat**, **cheese**, **cake**, **ice cream**," Kevin says.
+«E la **verdura**?»{emma} chiede Emma. || "And the **vegetables**?" Emma asks.
+«Ah. No **verdura**»{ben} dice Kevin. || "Ah. No **vegetables**," Kevin says.
+«Papà. In Italia la **verdura** è importante»{emma} dice Emma. || "Dad. In Italy **vegetables** are important," Emma says.
+«Ma il signor Colombo non mangia la **verdura**»{ben} dice Kevin. || "But Mr. Colombo doesn't eat **vegetables**," Kevin says.
+«Nessuno dice così»{emma|dry} dice Emma. || "Nobody says that," Emma says.
+
+Leo entra con il quaderno dei gusti. || Leo comes in with the notebook of tastes.
+«Che cosa c'è?»{leo} chiede Leo. || "What is there?" Leo asks.
+«**Antipasto** di formaggio»{ben} dice Kevin. || "**Cheese** **appetizer**," Kevin says.
+Leo assaggia il **formaggio**. || Leo tastes the **cheese**.
+«Il **formaggio**: otto»{leo} dice Leo. || "The **cheese**: eight," Leo says.
+«Otto? Non dieci?»{ben} chiede Kevin. || "Eight? Not ten?" Kevin asks.
+«Manca il sale»{leo} dice Leo. || "It's missing salt," Leo says.
+«Manca il sale»{ben} ripete Kevin e prende il sale. || "It's missing salt," Kevin repeats, and takes the salt.
+
+Poi Kevin prende la **carne**. || Then Kevin takes the **meat**.
+«Emma, **mi piace** la **carne**»{ben} dice Kevin. «Ma **mi piace** anche la **torta**.»{ben} || "Emma, **I like** **meat**," Kevin says. "But I **like** **cake** too."
+«Bene»{emma} dice Emma. || "Good," Emma says.
+«Io piaccio **cucinare** la **carne**»{ben} dice Kevin. || "I like **cooking** **meat**," Kevin says.
+Emma alza un dito. || Emma raises a finger.
+«Non si dice “io piaccio”. Si dice: **mi piace** **cucinare**»{emma} dice Emma. || "You don't say 'io piaccio.' You say: **I like** to **cook**."
+«Ah. **Mi piace** **cucinare**»{ben} dice Kevin. «Grazie.»{ben} || "Ah. **I like** to **cook**," Kevin says. "Thanks."
+«Prego»{emma} dice Emma. || "You're welcome," Emma says.
+Kevin scrive nel quaderno giallo. || Kevin writes in the yellow notebook.
+
+Sul **tavolo** Kevin mette anche il **tè** nei **bicchieri**. || On the **table** Kevin also puts the **tea** in the **glasses**.
+Emma guarda e sospira. || Emma looks and sighs.
+«Papà, il **tè** è nel **bicchiere**, non nell'**antipasto**»{emma} dice Emma. || "Dad, the **tea** goes in the **glass**, not in the **appetizer**," Emma says.
+«Ops»{ben} dice Kevin. || "Oops," Kevin says.
+«E **mi piacciono** i biscotti con il **tè**»{ben} aggiunge Kevin. || "And **I like** cookies with **tea**," Kevin adds.
+«Anche a me»{leo} dice Leo. || "Me too," Leo says.
+«**Mi piacciono** i biscotti»{leo} dice Leo. «Tutti.»{leo} || "**I like** cookies," Leo says. "All of them."
+
+Arriva la **torta**. || The **cake** arrives.
+È grande, con la crema bianca sopra. || It's big, with white cream on top.
+«Questa è la **torta** di mia madre»{ben} dice Kevin. || "This is my mother's **cake**," Kevin says.
+Leo ne prende un pezzo. || Leo takes a piece.
+«La **torta**: dieci»{leo} dice Leo. || "The **cake**: ten," Leo says.
+«Dieci!»{ben} dice Kevin. «Perfetto!»{ben} || "Ten!" Kevin says. "Perfect!"
+Emma assaggia anche la **carne**. || Emma tastes the **meat** too.
+«È **buona**»{emma} dice Emma. «**Buona**, sì.»{emma} || "It's **good**," Emma says. "**Good**, yes."
+«E il **gelato**?»{leo} chiede Leo. || "And the **ice cream**?" Leo asks.
+«Il **gelato** è in freezer»{ben} dice Kevin. || "The **ice cream** is in the freezer," Kevin says.
+«Il **gelato**: nove»{leo} dice Leo. || "The **ice cream**: nine," Leo says.
+
+Kevin si siede al **tavolo**. || Kevin sits at the **table**.
+«Allora. Il piano è questo»{ben} dice Kevin. || "So. Here's the plan," Kevin says.
+«Il signor Colombo non **mangia** niente»{emma} dice Emma. || "Mr. Colombo doesn't eat anything," Emma says.
+«Esatto. Ma **mi piace** una sfida»{ben} dice Kevin. || "Exactly. But **I like** a challenge," Kevin says.
+«Non si dice così»{emma} dice Emma. || "You don't say it that way," Emma says.
+«Va bene. Ma stasera io vinco»{ben} dice Kevin. || "Fine. But tonight I win," Kevin says.
+«Con il **cibo**?»{emma} chiede Emma. || "With **food**?" Emma asks.
+«Con il **cibo**. Con il **gusto** americano»{ben} dice Kevin. || "With **food**. With American **taste**," Kevin says.
+«Papà, il signor Colombo è difficile»{emma} dice Emma. || "Dad, Mr. Colombo is difficult," Emma says.
+«Lo so»{ben} dice Kevin. «Ma nessuno dice no a una **torta** al limone.»{ben} || "I know," Kevin says. "But nobody says no to a lemon **cake**."
+Leo scrive qualcosa sul quaderno. || Leo writes something in the notebook.
+«Che cosa scrivi?»{ben} chiede Kevin. || "What are you writing?" Kevin asks.
+«Niente»{leo} dice Leo. || "Nothing," Leo says.
+
+Emma prende un cucchiaio e assaggia tutto un'altra volta. || Emma takes a spoon and tastes everything one more time.
+«Va bene. Il **cibo** è **buono**»{emma} dice Emma. || "Okay. The **food** is **good**," Emma says.
+«Sì?»{ben} chiede Kevin. || "Yes?" Kevin asks.
+«Sì»{emma} dice Emma. || "Yes," Emma says.
+_Questa cena è un disastro._{emma} pensa Emma. || *This dinner is a disaster.* Emma thinks.
+_Ma è buona._{emma} || *But it's good.*
+
+# SCENE casa-colombo | sabato sera | ben, roberto, marina, tommaso
+
+Alle sette e mezza Kevin è davanti alla porta del numero 11. || At seven thirty Kevin is in front of the door of number 11.
+Ha due borse con il **cibo**. || He has two bags with the **food**.
+Suona il campanello. || He rings the bell.
+Roberto apre la porta. || Roberto opens the door.
+«Buonasera, signor Colombo»{ben} dice Kevin. || "Good evening, Mr. Colombo," Kevin says.
+«Buonasera»{roberto|cool} dice Roberto. || "Good evening," Roberto says.
+«Ho una cena per Lei. Una cena americana»{ben} dice Kevin. || "I have a dinner for you. An American dinner," Kevin says.
+«Ah»{roberto} dice Roberto. «Prego.»{roberto} || "Ah," Roberto says. "Come in."
+
+Nel salotto c'è un **tavolo** grande. || In the living room there's a big **table**.
+Marina mette i **bicchieri** sulla tovaglia. || Marina puts the **glasses** on the tablecloth.
+Tommaso è seduto con il telefono. || Tommaso is sitting with his phone.
+«Buonasera, signora Colombo»{ben} dice Kevin. || "Good evening, Mrs. Colombo," Kevin says.
+«Signor Carter, buonasera»{marina|warm} dice Marina. || "Mr. Carter, good evening," Marina says.
+«Buonasera, Tommaso»{ben} dice Kevin. || "Good evening, Tommaso," Kevin says.
+«Ciao»{tommaso|quiet} dice Tommaso. || "Hi," Tommaso says.
+«Tommaso, saluta bene»{roberto|dry} dice Roberto. || "Tommaso, greet properly," Roberto says.
+«Buonasera»{tommaso} dice Tommaso. || "Good evening," Tommaso says.
+
+Kevin mette l'**antipasto** sul **tavolo**. || Kevin puts the **appetizer** on the **table**.
+«Questo è l'**antipasto**. **Formaggio** e **verdura**»{ben} dice Kevin. || "This is the **appetizer**. **Cheese** and **vegetables**," Kevin says.
+Roberto guarda il piatto. || Roberto looks at the plate.
+«Le ricordo che io non mangio la **verdura**»{roberto|formal} dice Roberto. || "Let me remind you that I don't eat **vegetables**," Roberto says.
+«Capisco»{ben} dice Kevin. || "I understand," Kevin says.
+«Mangio solo **formaggio**»{roberto} dice Roberto. || "I only eat **cheese**," Roberto says.
+Roberto prende un pezzo piccolo di **formaggio**. || Roberto takes a small piece of **cheese**.
+Lo guarda, poi lo mette giù. || He looks at it, then puts it down.
+«È **buono**?»{ben} chiede Kevin. || "Is it **good**?" Kevin asks.
+«Mah»{roberto} dice Roberto. || "Mah," Roberto says.
+Marina prende tre pezzi di **formaggio**. || Marina takes three pieces of **cheese**.
+Tommaso prende la **verdura**. || Tommaso takes the **vegetables**.
+«**Buono**»{tommaso} dice Tommaso. || "**Good**," Tommaso says.
+
+Kevin mette la **pizza** sul **tavolo**. || Kevin puts the **pizza** on the **table**.
+«Signor Colombo, **Le** **piace** la **pizza**?»{ben} chiede Kevin. || "Mr. Colombo, do **you** **like** **pizza**?" Kevin asks.
+«No»{roberto|flat} dice Roberto. || "No," Roberto says.
+«Non **Le** **piace**?»{ben} chiede Kevin. || "**You** don't **like** it?" Kevin asks.
+«**A me no**»{roberto} dice Roberto. «Io preferisco la pasta.»{roberto} || "**Not me**," Roberto says. "I prefer pasta."
+«Ah»{ben} dice Kevin. || "Ah," Kevin says.
+Marina prende una fetta di **pizza**. || Marina takes a slice of **pizza**.
+Poi ne prende un'altra. || Then she takes another.
+«Signora Colombo, **Le** **piace**?»{ben} chiede Kevin. || "Mrs. Colombo, do **you** **like** it?" Kevin asks.
+«Sì»{marina|soft} dice Marina. «**Anche a me**... un po'.»{marina} || "Yes," Marina says. "**Me too**... a little."
+Roberto non sente. || Roberto doesn't hear.
+«Che cosa dici, Marina?»{roberto} chiede Roberto. || "What are you saying, Marina?" Roberto asks.
+«Niente»{marina} dice Marina. || "Nothing," Marina says.
+_Kevin, uno. Roberto, zero._{ben} pensa Kevin. || *Kevin, one. Roberto, zero.* Kevin thinks.
+
+Poi arriva la **carne**. || Then the **meat** arrives.
+«Signor Colombo, la **carne**»{ben} dice Kevin. || "Mr. Colombo, the **meat**," Kevin says.
+«**A me no** la **carne**»{roberto} dice Roberto. «La **carne** è pesante.»{roberto} || "**Not me**, not **meat**," Roberto says. "**Meat** is heavy."
+«Ma è di Chicago»{ben} dice Kevin. «Una **ricetta** di famiglia.»{ben} || "But it's from Chicago," Kevin says. "A family **recipe**."
+«Chicago?»{roberto} chiede Roberto. || "Chicago?" Roberto asks.
+«Sì. Io abito a Chicago prima»{ben} dice Kevin. || "Yes. I live in Chicago before," Kevin says.
+«Prima?»{roberto} chiede Roberto. || "Before?" Roberto asks.
+«Ah, scusi. Io abito... no. Prima»{ben} dice Kevin. || "Ah, sorry. I live... no. Before," Kevin says.
+«Vuole dire: prima io abito a Chicago»{marina} dice Marina. || "You mean: before, I lived in Chicago," Marina says.
+«Sì! Grazie»{ben} dice Kevin. || "Yes! Thanks," Kevin says.
+Roberto taglia un pezzo piccolo di **carne**. || Roberto cuts a small piece of **meat**.
+Lo assaggia. || He tastes it.
+«Mah»{roberto} dice Roberto. || "Mah," Roberto says.
+Tommaso prende tutta la **carne**. || Tommaso takes all the **meat**.
+«**Buono**»{tommaso|with mouth full} dice Tommaso. || "**Good**," Tommaso says.
+Marina ne prende ancora. || Marina takes more.
+
+Kevin mette il **formaggio** di nuovo sul **tavolo**. || Kevin puts the **cheese** on the **table** again.
+«Questo è **formaggio** americano»{ben} dice Kevin. || "This is American **cheese**," Kevin says.
+«**A me no** il **formaggio** americano»{roberto} dice Roberto. || "**Not me**, not American **cheese**," Roberto says.
+«Il **formaggio** italiano è **buono**. Il **formaggio** americano è... no»{roberto} aggiunge. || "Italian **cheese** is **good**. American **cheese** is... no," Roberto adds.
+«Però **mi piace** il **formaggio**»{ben} dice Kevin. «Tutti i **formaggi**.»{ben} || "But **I like** **cheese**," Kevin says. "All **cheeses**."
+«**Mi piacciono** anche i biscotti»{ben} dice Kevin. || "**I like** cookies too," Kevin says.
+«Signor Carter, Lei parla troppo»{roberto|dry} dice Roberto. || "Mr. Carter, you talk too much," Roberto says.
+«Scusi»{ben} dice Kevin. || "Sorry," Kevin says.
+Marina sorride dietro il **bicchiere**. || Marina smiles behind her **glass**.
+
+Poi arriva la **torta**. || Then the **cake** arrives.
+«La **torta** al limone. Di mia madre»{ben} dice Kevin. || "The lemon **cake**. My mother's," Kevin says.
+Roberto guarda la **torta**. || Roberto looks at the **cake**.
+«Io non mangio dolci la sera»{roberto} dice Roberto. || "I don't eat sweets in the evening," Roberto says.
+«La **torta** è leggera»{ben} dice Kevin. || "The **cake** is light," Kevin says.
+«Mah»{roberto} dice Roberto. || "Mah," Roberto says.
+Tommaso prende un pezzo grande. || Tommaso takes a big piece.
+Poi un altro. || Then another.
+«**Buono**»{tommaso} dice Tommaso. «**Buono** davvero.»{tommaso} || "**Good**," Tommaso says. "Really **good**."
+Marina prende un pezzo anche lei. || Marina takes a piece too.
+«**Anche a me**»{marina|whisper} dice Marina, piano. || "**Me too**," Marina says quietly.
+Roberto guarda il piatto vuoto di Tommaso. || Roberto looks at Tommaso's empty plate.
+«Tommaso, stai bene?»{roberto} chiede Roberto. || "Tommaso, are you okay?" Roberto asks.
+«Sì»{tommaso} dice Tommaso. || "Yes," Tommaso says.
+
+Kevin mette il **gelato** e il **tè**. || Kevin puts the **ice cream** and the **tea**.
+«**Gelato** e **tè**, signor Colombo»{ben} dice Kevin. || "**Ice cream** and **tea**, Mr. Colombo," Kevin says.
+«Il **tè** è **buono**. Il **gelato** è per i bambini»{roberto|dismissive} dice Roberto. || "**Tea** is **good**. **Ice cream** is for children," Roberto says.
+«Io non sono un bambino»{tommaso|quiet} dice Tommaso. || "I'm not a child," Tommaso says.
+Roberto lo guarda. || Roberto looks at him.
+«Allora non mangiare il **gelato**»{roberto} dice Roberto. || "Then don't eat the **ice cream**," Roberto says.
+Tommaso prende il **gelato** lo stesso. || Tommaso takes the **ice cream** anyway.
+«Il **gelato**: dieci»{tommaso|joking} dice Tommaso. || "The **ice cream**: ten," Tommaso says.
+Kevin ride, ma piano. || Kevin laughs, but quietly.
+_Un voto! Il primo!_{ben} pensa Kevin. || *One point! The first!* Kevin thinks.
+
+«Signor Colombo, che cosa **Le** **piace**?»{ben} chiede Kevin. || "Mr. Colombo, what do **you** **like**?" Kevin asks.
+«Le regole»{roberto} dice Roberto. || "Rules," Roberto says.
+«Ah. E nel **tempo libero**?»{ben} chiede Kevin. || "Ah. And in your **free time**?" Kevin asks.
+«Leggo il regolamento del comitato»{roberto} dice Roberto. || "I read the committee's rulebook," Roberto says.
+«E **Le** **piace** lo **sport**?»{ben} chiede Kevin. || "And do **you** **like** **sport**?" Kevin asks.
+«**A me no** lo **sport**»{roberto} dice Roberto. || "**Not me**, not **sport**," Roberto says.
+«La **partita**?»{ben} chiede Kevin. || "The **match**?" Kevin asks.
+«**A me no**»{roberto} dice Roberto. || "**Not me**," Roberto says.
+«La **canzone**? Il **tango**?»{ben} chiede Kevin. || "**Songs**? **Tango**?" Kevin asks.
+«**A me no**»{roberto} dice Roberto. || "**Not me**," Roberto says.
+«E la **musica**?»{ben} chiede Kevin. || "And **music**?" Kevin asks.
+«**A me no**»{roberto} dice Roberto. || "**Not me**," Roberto says.
+_Zero. Sempre zero._{ben} pensa Kevin. || *Zero. Always zero.* Kevin thinks.
+
+Marina si alza con il vassoio. || Marina gets up with the tray.
+«Signor Carter, il **cibo** è **buono**»{marina} dice Marina. || "Mr. Carter, the **food** is **good**," Marina says.
+«Grazie»{ben} dice Kevin. || "Thank you," Kevin says.
+«Sì, il **cibo** è **buono**»{marina} ripete Marina. || "Yes, the **food** is **good**," Marina repeats.
+Tommaso mangia l'ultimo pezzo di **carne**. || Tommaso eats the last piece of **meat**.
+«Il **gusto** americano mi piace»{tommaso} dice Tommaso. || "I like American **taste**," Tommaso says.
+«**Mi piace** il **gusto** americano»{tommaso} dice di nuovo. || "I **like** American **taste**," he says again.
+Kevin non dice niente. Sorride. || Kevin says nothing. He smiles.
+
+Roberto prende il giornale dal **tavolo**. || Roberto takes the newspaper from the **table**.
+«Signor Carter, una domanda»{roberto} dice Roberto. || "Mr. Carter, a question," Roberto says.
+«Prego»{ben} dice Kevin. || "Go ahead," Kevin says.
+«La carta è martedì o giovedì?»{roberto} chiede Roberto. || "Is paper Tuesday or Thursday?" Roberto asks.
+«Martedì. La carta il martedì»{ben} dice Kevin. || "Tuesday. Paper on Tuesday," Kevin says.
+«E la plastica?»{roberto} chiede Roberto. || "And plastic?" Roberto asks.
+«La plastica il giovedì»{ben} dice Kevin. || "Plastic on Thursday," Kevin says.
+«Bene. E i bidoni fuori la sera prima»{roberto} dice Roberto. || "Good. And the bins out the night before," Roberto says.
+«Sì. Lo so»{ben} dice Kevin. || "Yes. I know," Kevin says.
+«Perché io vedo dieci bidoni davanti al numero 14»{roberto} dice Roberto. || "Because I see ten bins in front of number 14," Roberto says.
+«Ah»{ben} dice Kevin. || "Ah," Kevin says.
+«Dieci bidoni. Il regolamento dice...»{roberto} comincia Roberto. || "Ten bins. The rulebook says..." Roberto begins.
+Tommaso alza la forchetta. || Tommaso raises his fork.
+«Buonissimo»{tommaso|mouth full} dice Tommaso. || "Really delicious," Tommaso says.
+Roberto si ferma. || Roberto stops.
+Marina guarda il marito e sorride. || Marina looks at her husband and smiles.
+«Mah»{roberto|sigh} dice Roberto. || "Mah," Roberto sighs.
+_Un punto per Kevin._{ben} pensa Kevin. || *One point for Kevin.* Kevin thinks.
+
+# SCENE casa-colombo | sabato sera, tardi, sulla porta | ben, marina, roberto
+
+Sono le dieci e mezza. Kevin prende le borse vuote. || It's ten thirty. Kevin picks up the empty bags.
+Marina lo accompagna alla porta. || Marina walks him to the door.
+La luce del corridoio è gialla e bassa. || The hallway light is yellow and low.
+«Grazie per la cena, signor Carter»{marina|warm} dice Marina. || "Thank you for dinner, Mr. Carter," Marina says.
+«Grazie a Lei, signora Colombo»{ben} dice Kevin. || "Thank you, Mrs. Colombo," Kevin says.
+«Il **cibo** è **buono**. Molto **buono**»{marina} dice Marina. || "The **food** is **good**. Very **good**," Marina says.
+«Davvero?»{ben} chiede Kevin. || "Really?" Kevin asks.
+«Sì»{marina} dice Marina. || "Yes," Marina says.
+
+Marina guarda verso il salotto. || Marina looks toward the living room.
+Poi parla piano, quasi un sussurro. || Then she speaks softly, almost a whisper.
+«Signor Carter, io dico una cosa»{marina|whisper} dice Marina. || "Mr. Carter, let me tell you something," Marina says.
+«Sì?»{ben} chiede Kevin. || "Yes?" Kevin asks.
+«**A me** **piacciono** tutte le cose»{marina} dice Marina. || "**I** **like** everything," Marina says.
+«Tutte?»{ben} chiede Kevin. || "Everything?" Kevin asks.
+«Tutte. Il **cibo**, la **canzone**, la **torta**, il **gelato**»{marina} dice Marina. || "Everything. The **food**, the **song**, the **cake**, the **ice cream**," Marina says.
+«Il **gelato**?»{ben} chiede Kevin. || "The **ice cream**?" Kevin asks.
+«Sì. **Mi piace** il **gelato**»{marina} dice Marina. || "Yes. **I like** **ice cream**," Marina says.
+«E la **torta**?»{ben} chiede Kevin. || "And the **cake**?" Kevin asks.
+«**Mi piace** la **torta**»{marina} dice Marina. «Tutta la **torta**.»{marina} || "**I like** the **cake**," Marina says. "All of the **cake**."
+«Ah!»{ben} dice Kevin. || "Ah!" Kevin says.
+«Però io non parlo con mio marito»{marina} dice Marina. || "But I don't talk about this with my husband," Marina says.
+«Capisco»{ben} dice Kevin. || "I understand," Kevin says.
+«Lui dice sempre “**a me no**”»{marina|dry} dice Marina. || "He always says '**not me**,'" Marina says.
+«Sì. Sento Roberto»{ben} dice Kevin. || "Yes. I hear Roberto," Kevin says.
+
+Dal salotto arriva la voce di Roberto. || From the living room comes Roberto's voice.
+«Marina! La cornice!»{roberto|from inside} grida Roberto. || "Marina! The cornice!" Roberto shouts.
+Marina chiude gli occhi per un secondo. || Marina closes her eyes for a second.
+«La cornice?»{ben} chiede Kevin. || "The cornice?" Kevin asks.
+«La cornice del tetto»{marina} dice Marina. «È un problema.»{marina} || "The roof cornice," Marina says. "It's a problem."
+«Ah»{ben} dice Kevin. || "Ah," Kevin says.
+«Marina! Il regolamento!»{roberto|from inside} grida Roberto di nuovo. || "Marina! The rulebook!" Roberto shouts again.
+«Arrivo!»{marina} risponde Marina. || "Coming!" Marina answers.
+«Il regolamento parla della cornice?»{ben} chiede Kevin. || "Does the rulebook talk about the cornice?" Kevin asks.
+«Tutto parla della cornice»{marina|tired} dice Marina. || "Everything talks about the cornice," Marina says.
+Kevin ride piano. || Kevin laughs quietly.
+
+Marina prende una scatola dal tavolino. || Marina takes a box from the little table.
+«Per Leo»{marina} dice Marina. «Biscotti.»{marina} || "For Leo," Marina says. "Cookies."
+«Per Leo?»{ben} chiede Kevin. || "For Leo?" Kevin asks.
+«**Anche a me** **piacciono** i biscotti»{marina|soft} dice Marina. || "**I** **like** cookies **too**," Marina says.
+«Grazie, signora Colombo»{ben} dice Kevin. || "Thank you, Mrs. Colombo," Kevin says.
+«Prego»{marina} dice Marina. || "You're welcome," Marina says.
+«E il **gusto** americano?»{ben} chiede Kevin. «**Le** **piace**?»{ben} || "And American **taste**?" Kevin asks. "Do **you** **like** it?"
+«**Anche a me**»{marina|very soft} dice Marina. «Ma non lo dica a Roberto.»{marina} || "**Me too**," Marina says. "But don't tell Roberto."
+«Mai»{ben} dice Kevin. || "Never," Kevin says.
+Marina apre la porta. || Marina opens the door.
+«Buonanotte, signor Carter»{marina} dice Marina. || "Goodnight, Mr. Carter," Marina says.
+«Buonanotte»{ben} dice Kevin. || "Goodnight," Kevin says.
+La porta si chiude piano. || The door closes softly.
+
+Kevin cammina verso il numero 14. || Kevin walks toward number 14.
+La strada è silenziosa. || The street is silent.
+_Marina: dieci. Roberto: zero._{ben} pensa Kevin. || *Marina: ten. Roberto: zero.* Kevin thinks.
+_Un voto per Marina._{ben} || *One point for Marina.*
+_Perfetto._{ben} || *Perfect.*
+
+# SCENE casa-carter | domenica mattina, a colazione | chiara, leo, ben
+
+Domenica mattina, a colazione. || Sunday morning, at breakfast.
+Sul tavolo c'è il **tè** e ci sono i biscotti di Marina. || On the table there's **tea** and there are Marina's cookies.
+Chiara beve il **tè**. Kevin legge il giornale. || Chiara drinks the **tea**. Kevin reads the newspaper.
+Leo arriva con il quaderno dei **gusti**. || Leo arrives with the notebook of **tastes**.
+«Ecco il risultato!»{leo|proud} dice Leo. || "Here's the score!" Leo says.
+«No»{chiara|tired} dice Chiara. || "No," Chiara says.
+«Sì! LUCIA: sette. MAMMA: due»{leo} dice Leo. || "Yes! LUCIA: seven. MOM: two," Leo says.
+Chiara non parla. || Chiara doesn't speak.
+«PERÒ»{leo} dice Leo. «Alla mamma **piace** la **canzone** di Lucia.»{leo} || "BUT," Leo says. "Mom **likes** Lucia's **song**."
+Kevin alza gli occhi dal giornale. || Kevin looks up from the newspaper.
+«Quale **canzone**?»{ben} chiede Kevin. || "Which **song**?" Kevin asks.
+«Una **canzone** vecchia»{chiara|dry} dice Chiara. || "An old **song**," Chiara says.
+Chiara si alza. || Chiara gets up.
+Prende la **ricetta** della **torta** dal tavolo. || She takes the **cake** **recipe** from the table.
+La mette sul frigo con una calamita. || She puts it on the fridge with a magnet.
+Leo guarda la **ricetta**. || Leo looks at the **recipe**.
+«Mamma!»{leo|delighted} dice Leo. || "Mom!" Leo says.
+«È per il pranzo di domenica»{chiara} dice Chiara. || "It's for Sunday lunch," Chiara says.
+«Ah»{leo} dice Leo. || "Ah," Leo says.
+
+«E tu, Kevin?»{chiara} chiede Chiara. || "And you, Kevin?" Chiara asks.
+«ROBERTO: zero. MARINA: dieci»{ben} dice Kevin. || "ROBERTO: zero. MARINA: ten," Kevin says.
+«Dieci?»{chiara} chiede Chiara. || "Ten?" Chiara asks.
+«Dieci. **Mi piace** Marina»{ben} dice Kevin. || "Ten. **I like** Marina," Kevin says.
+«Perfetto»{chiara} dice Chiara. «E il suo **gusto**?»{chiara} || "Perfect," Chiara says. "And her **taste**?"
+«Americano»{ben} dice Kevin. «Segreto.»{ben} || "American," Kevin says. "Secret."
+Chiara beve l'ultimo sorso di **tè**. || Chiara drinks the last sip of **tea**.
+«**Mi piace** il **tè** di Lucia»{chiara} dice Chiara. || "**I like** Lucia's **tea**," Chiara says.
+«Ah!»{leo} dice Leo e prende la penna. || "Ah!" Leo says, and picks up the pen.
+«Solo il **tè**»{chiara|dry} dice Chiara. || "Only the **tea**," Chiara says.
+
+@grammar
+# Piacere: how to say what you like
+
+## What it is
+
+In English you say *I like pizza*. In Italian you can't say *io piaccio la pizza*. The verb **piacere** works the other way round: literally, *pizza is pleasing to me*.
+
+So the person who likes something is **not** the subject of the sentence. The thing that is liked is the subject, and the person appears as a small pronoun in front of the verb: **mi**, **ti**, **gli**, **le**, **ci**, **vi**.
+
+Think of it as: *to me, pizza is pleasing*.
+
+## How it works
+
+### The little pronouns
+
+| Pronoun | Means | Example |
+|---|---|---|
+| **mi** | to me | **Mi** piace la pizza. |
+| **ti** | to you (a friend) | **Ti** piace la carne? |
+| **gli** | to him | **Gli** piace il caffè. |
+| **le** | to her | **Le** piace il tè. |
+| **ci** | to us | **Ci** piace l'Italia. |
+| **vi** | to you all | **Vi** piace ballare? |
+
+These go **before** the verb, never after.
+
+### One thing or many things?
+
+- **mi piace** + one thing, or a verb in the infinitive: *Mi piace la torta. Mi piace cucinare.*
+- **mi piacciono** + more than one thing: *Mi piacciono i biscotti. Mi piacciono il calcio e il nuoto.*
+
+This is the only change: **piace** for singular, **piacciono** for plural. The pronoun stays the same.
+
+### Adding emphasis: a me
+
+If you want to stress who likes it, or make a contrast, you put **a** + the pronoun in front:
+
+- **A me** piace. / **A te** piace? / **A lui** piace. / **A lei** piace.
+- **A me no** (= I don't like it).
+- **Anche a me** (= me too, I like it too).
+
+You will hear these constantly in conversation. In this chapter, Marina hides her opinion and only whispers:
+
+[[Anche a me]]
+
+And Roberto refuses everything with one short phrase:
+
+[[A me no]]
+
+### Questions and negatives
+
+To ask, just change your intonation: *Ti piace la pizza?* To say no, put **non** before the verb: *Non mi piace la carne.* You can also answer with **A me no**.
+
+## From the story
+
+[[Ti piace la pizza?]] — A simple yes/no question: *ti* + *piace* + one singular thing.
+
+[[Sì! Mi piace la pizza!]] — Leo answers with the same structure, swapping *ti* for *mi*.
+
+[[Mi piacciono il calcio e il nuoto]] — Two things liked, so the verb becomes *piacciono*.
+
+[[Anche a me!]] — Kevin agrees: "me too." The *a me* form adds emphasis.
+
+[[A me no]] — Chiara's answer all through lunch: "not me."
+
+[[Mi piace cucinare]] — With a verb, always *piace* + infinitive, never *piacciono*.
+
+[[A me piacciono tutte le cose]] — Marina's confession: plural things, emphasized *a me*.
+
+[[Le piace la pizza?]] — Formal *Le* (to you, sir/madam) with a singular thing.
+
+[[Mi piace il tè di Lucia]] — The chapter's last line, and the first honest thing Chiara says.
+
+## Common mistakes English speakers make
+
+1. **"Io piaccio la pizza."** Never. *Piacere* does not mean "to like" as a transitive verb. Say **Mi piace la pizza.**
+2. **"Mi piace i biscotti."** If the thing is plural, you need **piacciono**: *Mi piacciono i biscotti.*
+3. **Using *piacciono* with a verb.** *Mi piace ballare*, not *mi piacciono ballare*. The infinitive counts as one thing.
+4. **Putting the pronoun after the verb.** It's *mi piace*, not *piace mi*.
+5. **Mixing up *gli* and *le*.** *Gli* = to him, *le* = to her. (With a capital **L**, **Le** is the polite "to you.")
+6. **Forgetting that *Le* takes a third-person verb.** With a stranger: *Le piace la pizza?*, never *Le piaci*.
+
+## Practice
+
+Fill in the blank with **piace** or **piacciono**, and the right pronoun.
+
+1. A Leo ___ la pizza. (one thing)
+2. A me ___ i biscotti. (plural)
+3. Ti ___ ballare? (verb)
+4. A Chiara non ___ la carne. (one thing)
+5. Le ___ la verdura? (plural, formal)
+6. A te ___ il tè? (one thing)
+7. ___ piace cucinare. (to us)
+8. A Roberto non ___ lo sport. (one thing)
+
+**Answers**
+
+1. gli piace — *A Leo gli piace la pizza.* (or simply: *Gli piace la pizza.*)
+2. mi piacciono — plural *biscotti*.
+3. piace — infinitive *ballare*.
+4. le piace — *non le piace la carne.*
+5. piacciono — plural *verdure*, formal *Le*.
+6. ti piace — one thing, *il tè*.
+7. Ci piace — *ci* = to us.
+8. gli piace — *lo sport* is singular.
