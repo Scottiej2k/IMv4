@@ -160,7 +160,7 @@ Ha ancora **fretta** e guarda l'**orologio**. || She's still in a **hurry** and 
 «Otto **minuti**. Non male.»{chiara|dry} || “Eight **minutes**. Not bad.”
 
 Poi arriva Emma. || Then Emma arrives.
-Emma ha sedici anni e **si sveglia** male. || Emma is sixteen and **wakes up** badly.
+Emma ha quindici anni e **si sveglia** male. || Emma is fifteen and **wakes up** badly.
 Ha gli occhi chiusi e il telefono in mano. || Her eyes are closed and her phone is in her hand.
 «Ciao. La **doccia** è libera?»{emma|sleepy} || “Hi. Is the **shower** free?”
 «Sì, ma...»{ben} || “Yes, but...”
@@ -285,9 +285,19 @@ Sette e mezza. || Seven thirty.
 «Due **minuti**.»{ben} || “Two **minutes**.”
 _E il caffè? Il caffè non c'è._{ben} || *And the coffee? There's no coffee.*
 
-# SCENE orto | giovedì, sei e mezza | franco, leo
+«Papà, io vado da nonno»{leo} dice Leo. «Lui ha un programma migliore.» || “Dad, I'm going to Grandpa's,” says Leo. “He has a better program.”
+
+«Da nonno? In pigiama?»{ben} || “To Grandpa's? In pajamas?”
+
+«Nonno non guarda il pigiama»{leo} dice Leo. «Torno prima della scuola. Prometto!» || “Grandpa doesn't look at pajamas,” says Leo. “I'll be back before school. I promise!”
+
+«Va bene. Ma con la giacca»{ben} dice Kevin. || “All right. But with a jacket,” says Kevin.
+
+Leo prende la giacca e corre fuori. || Leo grabs his jacket and runs outside.
+
+# SCENE orto | giovedì, sette e quaranta | franco, leo
 La casa di Franco è al numero nove. || Franco's house is at number nine.
-Alle sei e mezza la luce è accesa in cucina. || At six thirty the light is on in the kitchen.
+Alle sette e quaranta la luce è ancora accesa in cucina. || At seven forty the light is still on in the kitchen.
 Franco **si sveglia** sempre alle sei. || Franco always **wakes up** at six.
 Anche oggi. || Today too.
 Sul tavolo c'è una tazzina e c'è il caffè. || On the table there's a small cup and there's coffee.
@@ -303,7 +313,7 @@ Davanti alla porta c'è Leo, in **pigiama**. || In front of the door is Leo, in 
 Franco guarda la strada. || Franco looks at the street.
 La strada è vuota. || The street is empty.
 «E tua madre lo sa?»{franco} || “And does your mother know?”
-«Mamma va a Milano adesso.»{leo} || “Mom is going to Milan now.”
+«Mamma è già partita.»{leo} || “Mom has already left.”
 «Mah. Entra.»{franco} || “Mah. Come in.”
 
 Leo entra in cucina e si siede. || Leo comes into the kitchen and sits down.
@@ -396,14 +406,14 @@ _Il rumore. No, il rumore qui non c'è più._{franco} || *The noise. No, the noi
 
 # SCENE bar-tigli | giovedì mattina, prima di scuola | franco, leo, matteo
 Il Bar Tigli è in piazza, al numero due. || Bar Tigli is on the square, at number two.
-Alle sette del mattino c'è già il profumo del caffè. || At seven in the morning there's already the smell of coffee.
+Alle otto c'è già il profumo del caffè. || At eight there's already the smell of coffee.
 Matteo è dietro il banco e pulisce un bicchiere. || Matteo is behind the counter wiping a glass.
 Poi guarda la porta e apre la bocca. || Then he looks at the door and opens his mouth.
 
 «Ma quello è Leo?»{matteo} || “Is that Leo?”
 «Buongiorno, zio Matteo!»{leo|happy} || “Good morning, Uncle Matteo!”
 «Buongiorno. Ma è mattina? O è sera?»{matteo|joking} || “Good morning. But is it morning? Or evening?”
-«È mattina. Le sette.»{leo} || “It's morning. Seven o'clock.”
+«È mattina. Le otto.»{leo} || “It's morning. Eight o'clock.”
 «E tu sei qui. In **pigiama**?»{matteo} || “And you're here. In **pajamas**?”
 «No! Ho i vestiti.»{leo} || “No! I have clothes on.”
 
@@ -414,7 +424,7 @@ Franco si siede al banco. || Franco sits at the counter.
 «Matteo, un caffè. E un latte per Leo.»{franco} || “Matteo, a coffee. And a milk for Leo.”
 
 Matteo mette la tazzina sul banco. || Matteo puts the little cup on the counter.
-«Papà, sono le sette del mattino. Tu bevi il caffè, va bene.»{matteo} || “Dad, it's seven in the morning. You drink coffee, fine.”
+«Papà, sono le otto. Tu bevi il caffè, va bene.»{matteo} || “Dad, it's eight. You drink coffee, fine.”
 «Certo.»{franco} || “Of course.”
 «Ma perché il piccolo è qui con te?»{matteo} || “But why is the little one here with you?”
 «È il mio aiutante.»{franco|dry} || “He's my helper.”
@@ -452,7 +462,7 @@ Leo conta il punto due. || Leo counts point two.
 «Sì. Io ho molta fame.»{leo} || “Yes. I'm very hungry.”
 
 Matteo guarda l'**orologio** del bar. || Matteo looks at the bar **clock**.
-«Leo, sono le sette e un **minuto**.»{matteo} || “Leo, it's seven and one **minute**.”
+«Leo, sono le otto e un **minuto**.»{matteo} || “Leo, it's eight and one **minute**.”
 «E allora?»{leo} || “So what?”
 «E allora a scuola vai alle otto e mezza.»{matteo} || “And so you go to school at eight thirty.”
 «Sì. Ma prima la **colazione**.»{leo} || “Yes. But first **breakfast**.”
@@ -462,7 +472,7 @@ Poi guarda l'**orologio** un'altra volta. || Then he looks at the **clock** one 
 «Zio, quanti **minuti** mancano?»{leo} || “Uncle, how many **minutes** are left?”
 «A che cosa?»{matteo} || “To what?”
 «Alle **bocce**.»{leo} || “To **bocce**.”
-«Alle **bocce** mancano dieci ore, Leo.»{matteo} || “**Bocce** is ten hours away, Leo.”
+«Alle **bocce** mancano nove ore, Leo.»{matteo} || “**Bocce** is nine hours away, Leo.”
 «Ah. Tante.»{leo} || “Ah. That's a lot.”
 
 Matteo prende un cornetto. || Matteo takes a croissant.
@@ -670,7 +680,7 @@ Vuole raccontare la sua giornata. || He wants to tell about his day.
 
 Leo parla delle **bocce** rosse. || Leo talks about the red **bocce**.
 Parla del pallino e dei punti. || He talks about the jack and the points.
-«E poi mi sono seduto su una sedia...»{leo} || “And then I sat down on a chair...”
+«E poi mi siedo su una sedia...»{leo} || “And then I sit down on a chair...”
 La voce si ferma. || His voice stops.
 La testa va giù, piano. || His head goes down, slowly.
 Leo **si addormenta** sul divano. || Leo **falls asleep** on the sofa.
@@ -758,7 +768,7 @@ Kevin apre gli occhi alle sei in punto. || Kevin opens his eyes at six o'clock e
 Prima della **sveglia**. || Before the **alarm clock**.
 La **sveglia** non suona ancora. || The **alarm clock** isn't ringing yet.
 
-_Mi sono svegliato prima della sveglia. Da solo._{ben} || *I woke up before the alarm clock. By myself.*
+_Mi sveglio prima della sveglia. Da solo._{ben} || *I wake up before the alarm clock. By myself.*
 _Sono un professionista._{ben} || *I'm a professional.*
 Kevin sorride nel buio. || Kevin smiles in the dark.
 Il **piano** funziona. || The **plan** works.

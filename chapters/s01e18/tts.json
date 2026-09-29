@@ -1861,7 +1861,7 @@
               },
               {
                 "type": "text",
-                "text": "Poi arriva Emma. Emma ha sedici anni e si sveglia male. Ha gli occhi chiusi e il telefono in mano.",
+                "text": "Poi arriva Emma. Emma ha quindici anni e si sveglia male. Ha gli occhi chiusi e il telefono in mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4274,7 +4274,8 @@
       "segment_ids": [
         "s01e18-2-116",
         "s01e18-2-117",
-        "s01e18-2-118"
+        "s01e18-2-118",
+        "s01e18-2-119"
       ],
       "words": [
         [
@@ -4285,6 +4286,9 @@
         ],
         [
           "s01e18-2-118:0-6"
+        ],
+        [
+          "s01e18-2-119:0-4"
         ]
       ],
       "request": {
@@ -4325,6 +4329,17 @@
                     "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
                   }
                 ]
+              },
+              {
+                "type": "text",
+                "text": "Papà, io vado da nonno",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "leo",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
               }
             ]
           }
@@ -4352,6 +4367,289 @@
     },
     {
       "index": 51,
+      "scene": 2,
+      "speakers": {
+        "narrator": "narrator",
+        "leo": "leo"
+      },
+      "segment_ids": [
+        "s01e18-2-119"
+      ],
+      "words": [
+        [
+          "s01e18-2-119:5-6"
+        ],
+        [
+          "s01e18-2-119:7-11"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "dice Leo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Lui ha un programma migliore.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "leo",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              },
+              {
+                "speaker": "leo",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 52,
+      "scene": 2,
+      "speakers": {
+        "ben": "ben",
+        "leo": "leo"
+      },
+      "segment_ids": [
+        "s01e18-2-120",
+        "s01e18-2-121"
+      ],
+      "words": [
+        [
+          "s01e18-2-120:0-3"
+        ],
+        [
+          "s01e18-2-121:0-4"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Da nonno? In pigiama?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Nonno non guarda il pigiama",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "leo",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "leo",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 53,
+      "scene": 2,
+      "speakers": {
+        "narrator": "narrator",
+        "leo": "leo"
+      },
+      "segment_ids": [
+        "s01e18-2-121"
+      ],
+      "words": [
+        [
+          "s01e18-2-121:5-6"
+        ],
+        [
+          "s01e18-2-121:7-11"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "dice Leo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Torno prima della scuola. Prometto!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "leo",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              },
+              {
+                "speaker": "leo",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 54,
+      "scene": 2,
+      "speakers": {
+        "ben": "ben",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s01e18-2-122",
+        "s01e18-2-123"
+      ],
+      "words": [
+        [
+          "s01e18-2-122:0-5"
+        ],
+        [
+          "s01e18-2-122:6-7",
+          "s01e18-2-123:0-6"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Va bene. Ma con la giacca",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Kevin. Leo prende la giacca e corre fuori.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 55,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4372,7 +4670,7 @@
       "words": [
         [
           "s01e18-3-001:0-7",
-          "s01e18-3-002:0-9",
+          "s01e18-3-002:0-10",
           "s01e18-3-003:0-5",
           "s01e18-3-004:0-1",
           "s01e18-3-005:0-8",
@@ -4393,7 +4691,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La casa di Franco è al numero nove. Alle sei e mezza la luce è accesa in cucina. Franco si sveglia sempre alle sei. Anche oggi. Sul tavolo c'è una tazzina e c'è il caffè. Qualcuno bussa alla porta. Bussa forte, con due mani. Franco apre. Davanti alla porta c'è Leo, in pigiama.",
+                "text": "La casa di Franco è al numero nove. Alle sette e quaranta la luce è ancora accesa in cucina. Franco si sveglia sempre alle sei. Anche oggi. Sul tavolo c'è una tazzina e c'è il caffè. Qualcuno bussa alla porta. Bussa forte, con due mani. Franco apre. Davanti alla porta c'è Leo, in pigiama.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4438,7 +4736,7 @@
       }
     },
     {
-      "index": 52,
+      "index": 56,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -4509,7 +4807,7 @@
       }
     },
     {
-      "index": 53,
+      "index": 57,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4582,7 +4880,7 @@
       }
     },
     {
-      "index": 54,
+      "index": 58,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -4594,7 +4892,7 @@
       ],
       "words": [
         [
-          "s01e18-3-016:0-4"
+          "s01e18-3-016:0-3"
         ],
         [
           "s01e18-3-017:0-1"
@@ -4608,7 +4906,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Mamma va a Milano adesso.",
+                "text": "Mamma è già partita.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4653,7 +4951,7 @@
       }
     },
     {
-      "index": 55,
+      "index": 59,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4726,7 +5024,7 @@
       }
     },
     {
-      "index": 56,
+      "index": 60,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -4797,7 +5095,7 @@
       }
     },
     {
-      "index": 57,
+      "index": 61,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -4898,7 +5196,7 @@
       }
     },
     {
-      "index": 58,
+      "index": 62,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -5044,7 +5342,7 @@
       }
     },
     {
-      "index": 59,
+      "index": 63,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -5117,7 +5415,7 @@
       }
     },
     {
-      "index": 60,
+      "index": 64,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -5233,7 +5531,7 @@
       }
     },
     {
-      "index": 61,
+      "index": 65,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -5304,7 +5602,7 @@
       }
     },
     {
-      "index": 62,
+      "index": 66,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -5375,7 +5673,7 @@
       }
     },
     {
-      "index": 63,
+      "index": 67,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -5482,7 +5780,7 @@
       }
     },
     {
-      "index": 64,
+      "index": 68,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -5553,7 +5851,7 @@
       }
     },
     {
-      "index": 65,
+      "index": 69,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -5641,7 +5939,7 @@
       }
     },
     {
-      "index": 66,
+      "index": 70,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -5712,7 +6010,7 @@
       }
     },
     {
-      "index": 67,
+      "index": 71,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -5783,7 +6081,7 @@
       }
     },
     {
-      "index": 68,
+      "index": 72,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -5899,7 +6197,7 @@
       }
     },
     {
-      "index": 69,
+      "index": 73,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -5970,7 +6268,7 @@
       }
     },
     {
-      "index": 70,
+      "index": 74,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -6056,7 +6354,7 @@
       }
     },
     {
-      "index": 71,
+      "index": 75,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -6129,7 +6427,7 @@
       }
     },
     {
-      "index": 72,
+      "index": 76,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -6245,7 +6543,7 @@
       }
     },
     {
-      "index": 73,
+      "index": 77,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -6316,7 +6614,7 @@
       }
     },
     {
-      "index": 74,
+      "index": 78,
       "scene": 3,
       "speakers": {
         "franco": "franco",
@@ -6387,7 +6685,7 @@
       }
     },
     {
-      "index": 75,
+      "index": 79,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -6477,7 +6775,7 @@
       }
     },
     {
-      "index": 76,
+      "index": 80,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -6593,7 +6891,7 @@
       }
     },
     {
-      "index": 77,
+      "index": 81,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6609,7 +6907,7 @@
       "words": [
         [
           "s01e18-4-001:0-8",
-          "s01e18-4-002:0-9",
+          "s01e18-4-002:0-7",
           "s01e18-4-003:0-8",
           "s01e18-4-004:0-7"
         ],
@@ -6625,7 +6923,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il Bar Tigli è in piazza, al numero due. Alle sette del mattino c'è già il profumo del caffè. Matteo è dietro il banco e pulisce un bicchiere. Poi guarda la porta e apre la bocca.",
+                "text": "Il Bar Tigli è in piazza, al numero due. Alle otto c'è già il profumo del caffè. Matteo è dietro il banco e pulisce un bicchiere. Poi guarda la porta e apre la bocca.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6670,7 +6968,7 @@
       }
     },
     {
-      "index": 78,
+      "index": 82,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -6730,7 +7028,7 @@
               },
               {
                 "type": "text",
-                "text": "È mattina. Le sette.",
+                "text": "È mattina. Le otto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6786,7 +7084,7 @@
       }
     },
     {
-      "index": 79,
+      "index": 83,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -6874,7 +7172,7 @@
       }
     },
     {
-      "index": 80,
+      "index": 84,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -6945,7 +7243,7 @@
       }
     },
     {
-      "index": 81,
+      "index": 85,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -6959,7 +7257,7 @@
       ],
       "words": [
         [
-          "s01e18-4-017:0-11"
+          "s01e18-4-017:0-9"
         ],
         [
           "s01e18-4-018:0-0"
@@ -6979,7 +7277,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Papà, sono le sette del mattino. Tu bevi il caffè, va bene.",
+                "text": "Papà, sono le otto. Tu bevi il caffè, va bene.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7046,7 +7344,7 @@
       }
     },
     {
-      "index": 82,
+      "index": 86,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7117,7 +7415,7 @@
       }
     },
     {
-      "index": 83,
+      "index": 87,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -7188,7 +7486,7 @@
       }
     },
     {
-      "index": 84,
+      "index": 88,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7259,7 +7557,7 @@
       }
     },
     {
-      "index": 85,
+      "index": 89,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -7360,7 +7658,7 @@
       }
     },
     {
-      "index": 86,
+      "index": 90,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7431,7 +7729,7 @@
       }
     },
     {
-      "index": 87,
+      "index": 91,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -7517,7 +7815,7 @@
       }
     },
     {
-      "index": 88,
+      "index": 92,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -7603,7 +7901,7 @@
       }
     },
     {
-      "index": 89,
+      "index": 93,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -7766,7 +8064,7 @@
       }
     },
     {
-      "index": 90,
+      "index": 94,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7803,7 +8101,7 @@
               },
               {
                 "type": "text",
-                "text": "Leo, sono le sette e un minuto.",
+                "text": "Leo, sono le otto e un minuto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7837,7 +8135,7 @@
       }
     },
     {
-      "index": 91,
+      "index": 95,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -7923,7 +8221,7 @@
       }
     },
     {
-      "index": 92,
+      "index": 96,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -7996,7 +8294,7 @@
       }
     },
     {
-      "index": 93,
+      "index": 97,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -8052,7 +8350,7 @@
               },
               {
                 "type": "text",
-                "text": "Alle bocce mancano dieci ore, Leo.",
+                "text": "Alle bocce mancano nove ore, Leo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8097,7 +8395,7 @@
       }
     },
     {
-      "index": 94,
+      "index": 98,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8170,7 +8468,7 @@
       }
     },
     {
-      "index": 95,
+      "index": 99,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -8241,7 +8539,7 @@
       }
     },
     {
-      "index": 96,
+      "index": 100,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -8318,7 +8616,7 @@
       }
     },
     {
-      "index": 97,
+      "index": 101,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -8389,7 +8687,7 @@
       }
     },
     {
-      "index": 98,
+      "index": 102,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8462,7 +8760,7 @@
       }
     },
     {
-      "index": 99,
+      "index": 103,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -8593,7 +8891,7 @@
       }
     },
     {
-      "index": 100,
+      "index": 104,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8698,7 +8996,7 @@
       }
     },
     {
-      "index": 101,
+      "index": 105,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -8784,7 +9082,7 @@
       }
     },
     {
-      "index": 102,
+      "index": 106,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -8855,7 +9153,7 @@
       }
     },
     {
-      "index": 103,
+      "index": 107,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -8956,7 +9254,7 @@
       }
     },
     {
-      "index": 104,
+      "index": 108,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9027,7 +9325,7 @@
       }
     },
     {
-      "index": 105,
+      "index": 109,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -9127,7 +9425,7 @@
       }
     },
     {
-      "index": 106,
+      "index": 110,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -9228,7 +9526,7 @@
       }
     },
     {
-      "index": 107,
+      "index": 111,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -9301,7 +9599,7 @@
       }
     },
     {
-      "index": 108,
+      "index": 112,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -9387,7 +9685,7 @@
       }
     },
     {
-      "index": 109,
+      "index": 113,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -9460,7 +9758,7 @@
       }
     },
     {
-      "index": 110,
+      "index": 114,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -9531,7 +9829,7 @@
       }
     },
     {
-      "index": 111,
+      "index": 115,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -9604,7 +9902,7 @@
       }
     },
     {
-      "index": 112,
+      "index": 116,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -9690,7 +9988,7 @@
       }
     },
     {
-      "index": 113,
+      "index": 117,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -9767,7 +10065,7 @@
       }
     },
     {
-      "index": 114,
+      "index": 118,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -9853,7 +10151,7 @@
       }
     },
     {
-      "index": 115,
+      "index": 119,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -9928,7 +10226,7 @@
       }
     },
     {
-      "index": 116,
+      "index": 120,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -10029,7 +10327,7 @@
       }
     },
     {
-      "index": 117,
+      "index": 121,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10102,7 +10400,7 @@
       }
     },
     {
-      "index": 118,
+      "index": 122,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -10188,7 +10486,7 @@
       }
     },
     {
-      "index": 119,
+      "index": 123,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10261,7 +10559,7 @@
       }
     },
     {
-      "index": 120,
+      "index": 124,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -10353,7 +10651,7 @@
       }
     },
     {
-      "index": 121,
+      "index": 125,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -10439,7 +10737,7 @@
       }
     },
     {
-      "index": 122,
+      "index": 126,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -10512,7 +10810,7 @@
       }
     },
     {
-      "index": 123,
+      "index": 127,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -10887,7 +11185,7 @@
       }
     },
     {
-      "index": 124,
+      "index": 128,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -10964,7 +11262,7 @@
       }
     },
     {
-      "index": 125,
+      "index": 129,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -11035,7 +11333,7 @@
       }
     },
     {
-      "index": 126,
+      "index": 130,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -11136,7 +11434,7 @@
       }
     },
     {
-      "index": 127,
+      "index": 131,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -11209,7 +11507,7 @@
       }
     },
     {
-      "index": 128,
+      "index": 132,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -11310,7 +11608,7 @@
       }
     },
     {
-      "index": 129,
+      "index": 133,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -11332,7 +11630,7 @@
           "s01e18-6-020:0-5"
         ],
         [
-          "s01e18-6-021:0-7"
+          "s01e18-6-021:0-6"
         ],
         [
           "s01e18-6-022:0-3",
@@ -11361,7 +11659,7 @@
               },
               {
                 "type": "text",
-                "text": "E poi mi sono seduto su una sedia...",
+                "text": "E poi mi siedo su una sedia...",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11406,7 +11704,7 @@
       }
     },
     {
-      "index": 130,
+      "index": 134,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -11537,7 +11835,7 @@
       }
     },
     {
-      "index": 131,
+      "index": 135,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -11622,7 +11920,7 @@
       }
     },
     {
-      "index": 132,
+      "index": 136,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -11693,7 +11991,7 @@
       }
     },
     {
-      "index": 133,
+      "index": 137,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -11764,7 +12062,7 @@
       }
     },
     {
-      "index": 134,
+      "index": 138,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -11839,7 +12137,7 @@
       }
     },
     {
-      "index": 135,
+      "index": 139,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -11955,7 +12253,7 @@
       }
     },
     {
-      "index": 136,
+      "index": 140,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12026,7 +12324,7 @@
       }
     },
     {
-      "index": 137,
+      "index": 141,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -12112,7 +12410,7 @@
       }
     },
     {
-      "index": 138,
+      "index": 142,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12183,7 +12481,7 @@
       }
     },
     {
-      "index": 139,
+      "index": 143,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -12284,7 +12582,7 @@
       }
     },
     {
-      "index": 140,
+      "index": 144,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12357,7 +12655,7 @@
       }
     },
     {
-      "index": 141,
+      "index": 145,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -12428,7 +12726,7 @@
       }
     },
     {
-      "index": 142,
+      "index": 146,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12499,7 +12797,7 @@
       }
     },
     {
-      "index": 143,
+      "index": 147,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -12614,7 +12912,7 @@
       }
     },
     {
-      "index": 144,
+      "index": 148,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -12685,7 +12983,7 @@
       }
     },
     {
-      "index": 145,
+      "index": 149,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -12771,7 +13069,7 @@
       }
     },
     {
-      "index": 146,
+      "index": 150,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12844,7 +13142,7 @@
       }
     },
     {
-      "index": 147,
+      "index": 151,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -12874,7 +13172,7 @@
           "s01e18-7-004:0-4"
         ],
         [
-          "s01e18-7-005:0-7",
+          "s01e18-7-005:0-6",
           "s01e18-7-006:0-2"
         ],
         [
@@ -12907,7 +13205,7 @@
               },
               {
                 "type": "text",
-                "text": "Mi sono svegliato prima della sveglia. Da solo. Sono un professionista.",
+                "text": "Mi sveglio prima della sveglia. Da solo. Sono un professionista.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12952,7 +13250,7 @@
       }
     },
     {
-      "index": 148,
+      "index": 152,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -13128,7 +13426,7 @@
       }
     },
     {
-      "index": 149,
+      "index": 153,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -13222,7 +13520,7 @@
       }
     },
     {
-      "index": 150,
+      "index": 154,
       "scene": 7,
       "speakers": {
         "ben": "ben",

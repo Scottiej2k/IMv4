@@ -8518,12 +8518,12 @@
             },
             {
               "id": "s01e18-2-011",
-              "it": "Emma ha sedici anni e **si sveglia** male.",
-              "en": "Emma is sixteen and **wakes up** badly.",
+              "it": "Emma ha quindici anni e **si sveglia** male.",
+              "en": "Emma is fifteen and **wakes up** badly.",
               "voice": [
                 [
                   "narrator",
-                  "Emma ha sedici anni e **si sveglia** male.",
+                  "Emma ha quindici anni e **si sveglia** male.",
                   ""
                 ]
               ],
@@ -8549,7 +8549,7 @@
                   ""
                 ],
                 [
-                  "sedici",
+                  "quindici",
                   2,
                   ""
                 ],
@@ -16354,6 +16354,571 @@
               ]
             }
           ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e18-2-119",
+              "it": "«Papà, io vado da nonno» dice Leo. «Lui ha un programma migliore.»",
+              "en": "“Dad, I'm going to Grandpa's,” says Leo. “He has a better program.”",
+              "voice": [
+                [
+                  "leo",
+                  "Papà, io vado da nonno",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Leo.",
+                  ""
+                ],
+                [
+                  "leo",
+                  "Lui ha un programma migliore.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Papà",
+                  0,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "io",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "vado",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "da",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nonno",
+                  4,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Leo",
+                  6,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "Lui",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ha",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "un",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "programma",
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "migliore",
+                  11,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e18-2-120",
+              "it": "«Da nonno? In pigiama?»",
+              "en": "“To Grandpa's? In pajamas?”",
+              "voice": [
+                [
+                  "ben",
+                  "Da nonno? In pigiama?",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Da",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nonno",
+                  1,
+                  ""
+                ],
+                [
+                  "? ",
+                  -1,
+                  ""
+                ],
+                [
+                  "In",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "pigiama",
+                  3,
+                  ""
+                ],
+                [
+                  "?»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e18-2-121",
+              "it": "«Nonno non guarda il pigiama» dice Leo. «Torno prima della scuola. Prometto!»",
+              "en": "“Grandpa doesn't look at pajamas,” says Leo. “I'll be back before school. I promise!”",
+              "voice": [
+                [
+                  "leo",
+                  "Nonno non guarda il pigiama",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Leo.",
+                  ""
+                ],
+                [
+                  "leo",
+                  "Torno prima della scuola. Prometto!",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Nonno",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "non",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "guarda",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "pigiama",
+                  4,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Leo",
+                  6,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "Torno",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "prima",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "della",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "scuola",
+                  10,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Prometto",
+                  11,
+                  ""
+                ],
+                [
+                  "!»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e18-2-122",
+              "it": "«Va bene. Ma con la giacca» dice Kevin.",
+              "en": "“All right. But with a jacket,” says Kevin.",
+              "voice": [
+                [
+                  "ben",
+                  "Va bene. Ma con la giacca",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Kevin.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Va",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bene",
+                  1,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Ma",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "con",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "la",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "giacca",
+                  5,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  7,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e18-2-123",
+              "it": "Leo prende la giacca e corre fuori.",
+              "en": "Leo grabs his jacket and runs outside.",
+              "voice": [
+                [
+                  "narrator",
+                  "Leo prende la giacca e corre fuori.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Leo",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "prende",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "la",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "giacca",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "corre",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fuori",
+                  6,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
         }
       ],
       "time": "giovedì, dalle sei e mezza alle sette e mezza"
@@ -16464,12 +17029,12 @@
             },
             {
               "id": "s01e18-3-002",
-              "it": "Alle sei e mezza la luce è accesa in cucina.",
-              "en": "At six thirty the light is on in the kitchen.",
+              "it": "Alle sette e quaranta la luce è ancora accesa in cucina.",
+              "en": "At seven forty the light is still on in the kitchen.",
               "voice": [
                 [
                   "narrator",
-                  "Alle sei e mezza la luce è accesa in cucina.",
+                  "Alle sette e quaranta la luce è ancora accesa in cucina.",
                   ""
                 ]
               ],
@@ -16485,7 +17050,7 @@
                   ""
                 ],
                 [
-                  "sei",
+                  "sette",
                   1,
                   ""
                 ],
@@ -16505,7 +17070,7 @@
                   ""
                 ],
                 [
-                  "mezza",
+                  "quaranta",
                   3,
                   ""
                 ],
@@ -16545,7 +17110,7 @@
                   ""
                 ],
                 [
-                  "accesa",
+                  "ancora",
                   7,
                   ""
                 ],
@@ -16555,7 +17120,7 @@
                   ""
                 ],
                 [
-                  "in",
+                  "accesa",
                   8,
                   ""
                 ],
@@ -16565,8 +17130,18 @@
                   ""
                 ],
                 [
-                  "cucina",
+                  "in",
                   9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cucina",
+                  10,
                   ""
                 ],
                 [
@@ -17372,12 +17947,12 @@
           "segments": [
             {
               "id": "s01e18-3-016",
-              "it": "«Mamma va a Milano adesso.»",
-              "en": "“Mom is going to Milan now.”",
+              "it": "«Mamma è già partita.»",
+              "en": "“Mom has already left.”",
               "voice": [
                 [
                   "leo",
-                  "Mamma va a Milano adesso.",
+                  "Mamma è già partita.",
                   ""
                 ]
               ],
@@ -17398,7 +17973,7 @@
                   ""
                 ],
                 [
-                  "va",
+                  "è",
                   1,
                   ""
                 ],
@@ -17408,7 +17983,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "già",
                   2,
                   ""
                 ],
@@ -17418,18 +17993,8 @@
                   ""
                 ],
                 [
-                  "Milano",
+                  "partita",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "adesso",
-                  4,
                   ""
                 ],
                 [
@@ -23070,7 +23635,7 @@
           ]
         }
       ],
-      "time": "giovedì, sei e mezza"
+      "time": "giovedì, sette e quaranta"
     },
     {
       "n": 4,
@@ -23189,12 +23754,12 @@
             },
             {
               "id": "s01e18-4-002",
-              "it": "Alle sette del mattino c'è già il profumo del caffè.",
-              "en": "At seven in the morning there's already the smell of coffee.",
+              "it": "Alle otto c'è già il profumo del caffè.",
+              "en": "At eight there's already the smell of coffee.",
               "voice": [
                 [
                   "narrator",
-                  "Alle sette del mattino c'è già il profumo del caffè.",
+                  "Alle otto c'è già il profumo del caffè.",
                   ""
                 ]
               ],
@@ -23210,7 +23775,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "otto",
                   1,
                   ""
                 ],
@@ -23220,7 +23785,7 @@
                   ""
                 ],
                 [
-                  "del",
+                  "c'è",
                   2,
                   ""
                 ],
@@ -23230,7 +23795,7 @@
                   ""
                 ],
                 [
-                  "mattino",
+                  "già",
                   3,
                   ""
                 ],
@@ -23240,7 +23805,7 @@
                   ""
                 ],
                 [
-                  "c'è",
+                  "il",
                   4,
                   ""
                 ],
@@ -23250,7 +23815,7 @@
                   ""
                 ],
                 [
-                  "già",
+                  "profumo",
                   5,
                   ""
                 ],
@@ -23260,7 +23825,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "del",
                   6,
                   ""
                 ],
@@ -23270,28 +23835,8 @@
                   ""
                 ],
                 [
-                  "profumo",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "del",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "caffè",
-                  9,
+                  7,
                   ""
                 ],
                 [
@@ -23714,12 +24259,12 @@
           "segments": [
             {
               "id": "s01e18-4-008",
-              "it": "«È mattina. Le sette.»",
-              "en": "“It's morning. Seven o'clock.”",
+              "it": "«È mattina. Le otto.»",
+              "en": "“It's morning. Eight o'clock.”",
               "voice": [
                 [
                   "leo",
-                  "È mattina. Le sette.",
+                  "È mattina. Le otto.",
                   ""
                 ]
               ],
@@ -23760,7 +24305,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "otto",
                   3,
                   ""
                 ],
@@ -24328,12 +24873,12 @@
             },
             {
               "id": "s01e18-4-017",
-              "it": "«Papà, sono le sette del mattino. Tu bevi il caffè, va bene.»",
-              "en": "“Dad, it's seven in the morning. You drink coffee, fine.”",
+              "it": "«Papà, sono le otto. Tu bevi il caffè, va bene.»",
+              "en": "“Dad, it's eight. You drink coffee, fine.”",
               "voice": [
                 [
                   "matteo",
-                  "Papà, sono le sette del mattino. Tu bevi il caffè, va bene.",
+                  "Papà, sono le otto. Tu bevi il caffè, va bene.",
                   ""
                 ]
               ],
@@ -24374,28 +24919,8 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "otto",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "del",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mattino",
-                  5,
                   ""
                 ],
                 [
@@ -24405,7 +24930,7 @@
                 ],
                 [
                   "Tu",
-                  6,
+                  4,
                   ""
                 ],
                 [
@@ -24415,7 +24940,7 @@
                 ],
                 [
                   "bevi",
-                  7,
+                  5,
                   ""
                 ],
                 [
@@ -24425,7 +24950,7 @@
                 ],
                 [
                   "il",
-                  8,
+                  6,
                   ""
                 ],
                 [
@@ -24435,7 +24960,7 @@
                 ],
                 [
                   "caffè",
-                  9,
+                  7,
                   ""
                 ],
                 [
@@ -24445,7 +24970,7 @@
                 ],
                 [
                   "va",
-                  10,
+                  8,
                   ""
                 ],
                 [
@@ -24455,7 +24980,7 @@
                 ],
                 [
                   "bene",
-                  11,
+                  9,
                   ""
                 ],
                 [
@@ -26812,12 +27337,12 @@
             },
             {
               "id": "s01e18-4-049",
-              "it": "«Leo, sono le sette e un **minuto**.»",
-              "en": "“Leo, it's seven and one **minute**.”",
+              "it": "«Leo, sono le otto e un **minuto**.»",
+              "en": "“Leo, it's eight and one **minute**.”",
               "voice": [
                 [
                   "matteo",
-                  "Leo, sono le sette e un **minuto**.",
+                  "Leo, sono le otto e un **minuto**.",
                   ""
                 ]
               ],
@@ -26858,7 +27383,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "otto",
                   3,
                   ""
                 ],
@@ -27459,12 +27984,12 @@
           "segments": [
             {
               "id": "s01e18-4-058",
-              "it": "«Alle **bocce** mancano dieci ore, Leo.»",
-              "en": "“**Bocce** is ten hours away, Leo.”",
+              "it": "«Alle **bocce** mancano nove ore, Leo.»",
+              "en": "“**Bocce** is nine hours away, Leo.”",
               "voice": [
                 [
                   "matteo",
-                  "Alle **bocce** mancano dieci ore, Leo.",
+                  "Alle **bocce** mancano nove ore, Leo.",
                   ""
                 ]
               ],
@@ -27505,7 +28030,7 @@
                   ""
                 ],
                 [
-                  "dieci",
+                  "nove",
                   3,
                   ""
                 ],
@@ -39403,12 +39928,12 @@
             },
             {
               "id": "s01e18-6-021",
-              "it": "«E poi mi sono seduto su una sedia...»",
-              "en": "“And then I sat down on a chair...”",
+              "it": "«E poi mi siedo su una sedia...»",
+              "en": "“And then I sit down on a chair...”",
               "voice": [
                 [
                   "leo",
-                  "E poi mi sono seduto su una sedia...",
+                  "E poi mi siedo su una sedia...",
                   ""
                 ]
               ],
@@ -39449,7 +39974,7 @@
                   ""
                 ],
                 [
-                  "sono",
+                  "siedo",
                   3,
                   ""
                 ],
@@ -39459,7 +39984,7 @@
                   ""
                 ],
                 [
-                  "seduto",
+                  "su",
                   4,
                   ""
                 ],
@@ -39469,7 +39994,7 @@
                   ""
                 ],
                 [
-                  "su",
+                  "una",
                   5,
                   ""
                 ],
@@ -39479,18 +40004,8 @@
                   ""
                 ],
                 [
-                  "una",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "sedia",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -44363,12 +44878,12 @@
           "segments": [
             {
               "id": "s01e18-7-005",
-              "it": "_Mi sono svegliato prima della sveglia. Da solo._",
-              "en": "_I woke up before the alarm clock. By myself._",
+              "it": "_Mi sveglio prima della sveglia. Da solo._",
+              "en": "_I wake up before the alarm clock. By myself._",
               "voice": [
                 [
                   "ben",
-                  "Mi sono svegliato prima della sveglia. Da solo.",
+                  "Mi sveglio prima della sveglia. Da solo.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -44384,7 +44899,7 @@
                   "i"
                 ],
                 [
-                  "sono",
+                  "sveglio",
                   1,
                   "i"
                 ],
@@ -44394,7 +44909,7 @@
                   "i"
                 ],
                 [
-                  "svegliato",
+                  "prima",
                   2,
                   "i"
                 ],
@@ -44404,7 +44919,7 @@
                   "i"
                 ],
                 [
-                  "prima",
+                  "della",
                   3,
                   "i"
                 ],
@@ -44414,18 +44929,8 @@
                   "i"
                 ],
                 [
-                  "della",
-                  4,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
                   "sveglia",
-                  5,
+                  4,
                   "i"
                 ],
                 [
@@ -44435,7 +44940,7 @@
                 ],
                 [
                   "Da",
-                  6,
+                  5,
                   "i"
                 ],
                 [
@@ -44445,7 +44950,7 @@
                 ],
                 [
                   "solo",
-                  7,
+                  6,
                   "i"
                 ],
                 [

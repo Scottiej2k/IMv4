@@ -123,7 +123,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ha ancora **fretta** e guarda l'**orologio**. | She's still in a **hurry** and looks at the **clock**. |
 | «Otto **minuti**. Non male.» | “Eight **minutes**. Not bad.” |
 | Poi arriva Emma. | Then Emma arrives. |
-| Emma ha sedici anni e **si sveglia** male. | Emma is sixteen and **wakes up** badly. |
+| Emma ha quindici anni e **si sveglia** male. | Emma is fifteen and **wakes up** badly. |
 | Ha gli occhi chiusi e il telefono in mano. | Her eyes are closed and her phone is in her hand. |
 | «Ciao. La **doccia** è libera?» | “Hi. Is the **shower** free?” |
 | «Sì, ma...» | “Yes, but...” |
@@ -231,13 +231,18 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Due **minuti**?» | “Two **minutes**?” |
 | «Due **minuti**.» | “Two **minutes**.” |
 | _E il caffè? Il caffè non c'è._ | _And the coffee? There's no coffee._ |
+| «Papà, io vado da nonno» dice Leo. «Lui ha un programma migliore.» | “Dad, I'm going to Grandpa's,” says Leo. “He has a better program.” |
+| «Da nonno? In pigiama?» | “To Grandpa's? In pajamas?” |
+| «Nonno non guarda il pigiama» dice Leo. «Torno prima della scuola. Prometto!» | “Grandpa doesn't look at pajamas,” says Leo. “I'll be back before school. I promise!” |
+| «Va bene. Ma con la giacca» dice Kevin. | “All right. But with a jacket,” says Kevin. |
+| Leo prende la giacca e corre fuori. | Leo grabs his jacket and runs outside. |
 
-## 3. L'orto di Franco · giovedì, sei e mezza
+## 3. L'orto di Franco · giovedì, sette e quaranta
 
 | Italiano | English |
 |---|---|
 | La casa di Franco è al numero nove. | Franco's house is at number nine. |
-| Alle sei e mezza la luce è accesa in cucina. | At six thirty the light is on in the kitchen. |
+| Alle sette e quaranta la luce è ancora accesa in cucina. | At seven forty the light is still on in the kitchen. |
 | Franco **si sveglia** sempre alle sei. | Franco always **wakes up** at six. |
 | Anche oggi. | Today too. |
 | Sul tavolo c'è una tazzina e c'è il caffè. | On the table there's a small cup and there's coffee. |
@@ -251,7 +256,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco guarda la strada. | Franco looks at the street. |
 | La strada è vuota. | The street is empty. |
 | «E tua madre lo sa?» | “And does your mother know?” |
-| «Mamma va a Milano adesso.» | “Mom is going to Milan now.” |
+| «Mamma è già partita.» | “Mom has already left.” |
 | «Mah. Entra.» | “Mah. Come in.” |
 | Leo entra in cucina e si siede. | Leo comes into the kitchen and sits down. |
 | Guarda la tazzina di caffè. | He looks at the little coffee cup. |
@@ -336,13 +341,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | Il Bar Tigli è in piazza, al numero due. | Bar Tigli is on the square, at number two. |
-| Alle sette del mattino c'è già il profumo del caffè. | At seven in the morning there's already the smell of coffee. |
+| Alle otto c'è già il profumo del caffè. | At eight there's already the smell of coffee. |
 | Matteo è dietro il banco e pulisce un bicchiere. | Matteo is behind the counter wiping a glass. |
 | Poi guarda la porta e apre la bocca. | Then he looks at the door and opens his mouth. |
 | «Ma quello è Leo?» | “Is that Leo?” |
 | «Buongiorno, zio Matteo!» | “Good morning, Uncle Matteo!” |
 | «Buongiorno. Ma è mattina? O è sera?» | “Good morning. But is it morning? Or evening?” |
-| «È mattina. Le sette.» | “It's morning. Seven o'clock.” |
+| «È mattina. Le otto.» | “It's morning. Eight o'clock.” |
 | «E tu sei qui. In **pigiama**?» | “And you're here. In **pajamas**?” |
 | «No! Ho i vestiti.» | “No! I have clothes on.” |
 | Leo guarda i suoi vestiti. | Leo looks at his clothes. |
@@ -351,7 +356,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco si siede al banco. | Franco sits at the counter. |
 | «Matteo, un caffè. E un latte per Leo.» | “Matteo, a coffee. And a milk for Leo.” |
 | Matteo mette la tazzina sul banco. | Matteo puts the little cup on the counter. |
-| «Papà, sono le sette del mattino. Tu bevi il caffè, va bene.» | “Dad, it's seven in the morning. You drink coffee, fine.” |
+| «Papà, sono le otto. Tu bevi il caffè, va bene.» | “Dad, it's eight. You drink coffee, fine.” |
 | «Certo.» | “Of course.” |
 | «Ma perché il piccolo è qui con te?» | “But why is the little one here with you?” |
 | «È il mio aiutante.» | “He's my helper.” |
@@ -383,7 +388,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il pomodoro e la **colazione**?» | “The tomato and **breakfast**?” |
 | «Sì. Io ho molta fame.» | “Yes. I'm very hungry.” |
 | Matteo guarda l'**orologio** del bar. | Matteo looks at the bar **clock**. |
-| «Leo, sono le sette e un **minuto**.» | “Leo, it's seven and one **minute**.” |
+| «Leo, sono le otto e un **minuto**.» | “Leo, it's eight and one **minute**.” |
 | «E allora?» | “So what?” |
 | «E allora a scuola vai alle otto e mezza.» | “And so you go to school at eight thirty.” |
 | «Sì. Ma prima la **colazione**.» | “Yes. But first **breakfast**.” |
@@ -392,7 +397,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Zio, quanti **minuti** mancano?» | “Uncle, how many **minutes** are left?” |
 | «A che cosa?» | “To what?” |
 | «Alle **bocce**.» | “To **bocce**.” |
-| «Alle **bocce** mancano dieci ore, Leo.» | “**Bocce** is ten hours away, Leo.” |
+| «Alle **bocce** mancano nove ore, Leo.» | “**Bocce** is nine hours away, Leo.” |
 | «Ah. Tante.» | “Ah. That's a lot.” |
 | Matteo prende un cornetto. | Matteo takes a croissant. |
 | Lo mette su un piatto piccolo. | He puts it on a small plate. |
@@ -580,7 +585,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì! E un pomodoro come una mela!» | “Yes! And a tomato like an apple!” |
 | Leo parla delle **bocce** rosse. | Leo talks about the red **bocce**. |
 | Parla del pallino e dei punti. | He talks about the jack and the points. |
-| «E poi mi sono seduto su una sedia...» | “And then I sat down on a chair...” |
+| «E poi mi siedo su una sedia...» | “And then I sit down on a chair...” |
 | La voce si ferma. | His voice stops. |
 | La testa va giù, piano. | His head goes down, slowly. |
 | Leo **si addormenta** sul divano. | Leo **falls asleep** on the sofa. |
@@ -660,7 +665,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin apre gli occhi alle sei in punto. | Kevin opens his eyes at six o'clock exactly. |
 | Prima della **sveglia**. | Before the **alarm clock**. |
 | La **sveglia** non suona ancora. | The **alarm clock** isn't ringing yet. |
-| _Mi sono svegliato prima della sveglia. Da solo._ | _I woke up before the alarm clock. By myself._ |
+| _Mi sveglio prima della sveglia. Da solo._ | _I wake up before the alarm clock. By myself._ |
 | _Sono un professionista._ | _I'm a professional._ |
 | Kevin sorride nel buio. | Kevin smiles in the dark. |
 | Il **piano** funziona. | The **plan** works. |

@@ -96,7 +96,7 @@ Alle sei e mezzo la **sveglia** suona. Suona forte, come un piccolo concerto. Ke
 
 Il **piano** perfetto dura otto **minuti**. Dopo otto **minuti**, la porta del bagno si apre. Chiara esce con i capelli bagnati. Ha ancora **fretta** e guarda l'**orologio**. «Otto **minuti**. Non male.»
 
-Poi arriva Emma. Emma ha sedici anni e **si sveglia** male. Ha gli occhi chiusi e il telefono in mano. «Ciao. La **doccia** è libera?»
+Poi arriva Emma. Emma ha quindici anni e **si sveglia** male. Ha gli occhi chiusi e il telefono in mano. «Ciao. La **doccia** è libera?»
 
 «Sì, ma...»
 
@@ -216,9 +216,19 @@ Chiara esce. La porta si chiude per la seconda volta. Kevin guarda Leo. Leo guar
 
 «Due **minuti**.» _E il caffè? Il caffè non c'è._
 
-## 3. L'orto di Franco · giovedì, sei e mezza
+«Papà, io vado da nonno» dice Leo. «Lui ha un programma migliore.»
 
-La casa di Franco è al numero nove. Alle sei e mezza la luce è accesa in cucina. Franco **si sveglia** sempre alle sei. Anche oggi. Sul tavolo c'è una tazzina e c'è il caffè.
+«Da nonno? In pigiama?»
+
+«Nonno non guarda il pigiama» dice Leo. «Torno prima della scuola. Prometto!»
+
+«Va bene. Ma con la giacca» dice Kevin.
+
+Leo prende la giacca e corre fuori.
+
+## 3. L'orto di Franco · giovedì, sette e quaranta
+
+La casa di Franco è al numero nove. Alle sette e quaranta la luce è ancora accesa in cucina. Franco **si sveglia** sempre alle sei. Anche oggi. Sul tavolo c'è una tazzina e c'è il caffè.
 
 Qualcuno bussa alla porta. Bussa forte, con due mani. Franco apre. Davanti alla porta c'è Leo, in **pigiama**. «Buongiorno, nonno.»
 
@@ -228,7 +238,7 @@ Qualcuno bussa alla porta. Bussa forte, con due mani. Franco apre. Davanti alla 
 
 Franco guarda la strada. La strada è vuota. «E tua madre lo sa?»
 
-«Mamma va a Milano adesso.»
+«Mamma è già partita.»
 
 «Mah. Entra.»
 
@@ -338,7 +348,7 @@ Franco chiude il cancello dell'**orto**. Per un secondo **si ferma**. Guarda la 
 
 ## 4. Bar Tigli · giovedì mattina, prima di scuola
 
-Il Bar Tigli è in piazza, al numero due. Alle sette del mattino c'è già il profumo del caffè. Matteo è dietro il banco e pulisce un bicchiere. Poi guarda la porta e apre la bocca.
+Il Bar Tigli è in piazza, al numero due. Alle otto c'è già il profumo del caffè. Matteo è dietro il banco e pulisce un bicchiere. Poi guarda la porta e apre la bocca.
 
 «Ma quello è Leo?»
 
@@ -346,7 +356,7 @@ Il Bar Tigli è in piazza, al numero due. Alle sette del mattino c'è già il pr
 
 «Buongiorno. Ma è mattina? O è sera?»
 
-«È mattina. Le sette.»
+«È mattina. Le otto.»
 
 «E tu sei qui. In **pigiama**?»
 
@@ -356,7 +366,7 @@ Leo guarda i suoi vestiti. La maglietta è al contrario. «Quasi.»
 
 Franco si siede al banco. «Matteo, un caffè. E un latte per Leo.»
 
-Matteo mette la tazzina sul banco. «Papà, sono le sette del mattino. Tu bevi il caffè, va bene.»
+Matteo mette la tazzina sul banco. «Papà, sono le otto. Tu bevi il caffè, va bene.»
 
 «Certo.»
 
@@ -408,7 +418,7 @@ Leo conta il punto due. «Punto due: **mi alzo**. Punto tre: bevo il caffè.»
 
 «Sì. Io ho molta fame.»
 
-Matteo guarda l'**orologio** del bar. «Leo, sono le sette e un **minuto**.»
+Matteo guarda l'**orologio** del bar. «Leo, sono le otto e un **minuto**.»
 
 «E allora?»
 
@@ -422,7 +432,7 @@ Leo guarda l'**orologio** anche lui. Poi guarda l'**orologio** un'altra volta. �
 
 «Alle **bocce**.»
 
-«Alle **bocce** mancano dieci ore, Leo.»
+«Alle **bocce** mancano nove ore, Leo.»
 
 «Ah. Tante.»
 
@@ -588,7 +598,7 @@ Leo si siede sul divano. Vuole raccontare la sua giornata. «Mamma, io ho il pro
 
 «Sì! E un pomodoro come una mela!»
 
-Leo parla delle **bocce** rosse. Parla del pallino e dei punti. «E poi mi sono seduto su una sedia...» La voce si ferma. La testa va giù, piano. Leo **si addormenta** sul divano. In mezzo alla frase.
+Leo parla delle **bocce** rosse. Parla del pallino e dei punti. «E poi mi siedo su una sedia...» La voce si ferma. La testa va giù, piano. Leo **si addormenta** sul divano. In mezzo alla frase.
 
 Chiara guarda Kevin. «Le **bocce**. Alle cinque.»
 
@@ -668,7 +678,7 @@ Kevin prende il cuscino. «Va bene. Io dormo sul bordo.»
 
 Venerdì mattina. Kevin apre gli occhi alle sei in punto. Prima della **sveglia**. La **sveglia** non suona ancora.
 
-_Mi sono svegliato prima della sveglia. Da solo._ _Sono un professionista._ Kevin sorride nel buio. Il **piano** funziona.
+_Mi sveglio prima della sveglia. Da solo._ _Sono un professionista._ Kevin sorride nel buio. Il **piano** funziona.
 
 Poi Kevin sente un peso sul braccio. Guarda a destra. Pavarotti dorme sul suo lato del letto. Il gatto **si addormenta** sempre lì. Kevin è in **pigiama** e non si muove.
 
