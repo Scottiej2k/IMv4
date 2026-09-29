@@ -1,0 +1,5 @@
+### s01e13 · Dove sono i regali?
+- **Happened:** Kevin brings home a two-metre tree; Franco sets up his mother's presepe; Matteo eats most of the bar's panettone; at the Tuesday market Kevin buys scarves and biscuits, then hides the parcels at home, forgets where, and the family finds most of them under the sofa cushion (the market parcel is still missing). Kevin gives Franco a red Milan scarf.
+- **New facts:** Franco’s presepe belonged to his mother and is 80 years old; Ornella’s gray cat is named Pavarotti; Kevin keeps a yellow notebook and forgets where he puts things; Lucia’s surname is Bernardi; she teaches ballroom (Tuesday, Thursday, Sunday) at the Centro civico, where Kevin’s Tuesday Italian course also meets.
+- **Changed:** Franco asks Kevin to invite Lucia to Christmas Eve dinner as Kevin’s Italian-course friend; Chiara doesn’t know about Lucia. Kevin and Lucia switch to tu. Kevin now covers for Franco.
+- **Planted:** Lucia will bring panettone and a homemade dolce to the vigilia; one market package is still missing, and the Christmas Eve lie may unravel.
