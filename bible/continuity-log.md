@@ -62,6 +62,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma is now in the class WhatsApp group and warming to her class; she is quietly interested in Tommaso (Bianca noticed).
 - **Planted:** Monday's gym *modulo* at the palestra (Matteo's warning); Kevin plans to call Ornella for her phone number; Emma's crush on Tommaso.
 
+### s01e07 · Com'è Tommaso?
+- **Happened:** Emma and Bianca ride the 7:30 Monza train, where Bianca insists on describing a quiet classmate; the boy says ciao to Emma at the station. At the hedge on Via dei Tigli, Emma talks with Tommaso and they agree to share the morning train. Kevin starts a yellow quaderno "elenco delle persone" with Leo's descriptions of the neighbors.
+- **New facts:** Tommaso Colombo, Emma's liceo classmate, lives at Via dei Tigli 11 with his father, the signor Colombo of the hedge; he plays bass and carries a black case. Emma writes songs but shows them to no one. Franco calls Kevin "alto, americano... e inutile" — Matteo hears it, Kevin doesn't.
+- **Changed:** Emma has spoken with Tommaso and knows he is the Colombo son, their neighbor; the morning commute is now shared.
+- **Planted:** Emma–Tommaso romance across the hedge (the Romeo-and-Juliet setup); Kevin's notebook of neighbors may return.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
