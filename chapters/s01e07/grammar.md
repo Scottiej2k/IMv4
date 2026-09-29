@@ -71,8 +71,8 @@ Il **ragazzo** ha i **capelli** neri. — The **boy** has black **hair**. (`s01e
 Ha gli **occhi** grandi e un **naso** piccolo. — He has big **eyes** and a small **nose**. (`s01e07-1-006`) — two adjectives, both after their nouns, both masculine plural or singular.
 «Io **vedo** bene. Lui è **alto**. Non è **basso**.» — “I see him well. He's **tall**. He's not **short**.” (`s01e07-1-025`) — the four-form pattern in the masculine singular.
 «La signora Ornella è **vecchia** ma **elegante**» dice Leo. — “Signora Ornella is **old** but **elegant**,” says Leo. (`s01e07-3-034`) — *vecchia* is four-form (-a), *elegante* is two-form (-e), same subject.
-«È **timido**. Le **persone** **timide** sono **intelligenti**.» — “He's **shy**. **Shy** **people** are **smart**.” (`s01e07-1-066`) — *timido* masculine singular; *timide* feminine plural; *intelligenti* two-form plural.
-«Secondo me il **ragazzo** è **bello**.» — “In my opinion the **boy** is **good-looking**.” (`s01e07-1-062`) — *bello* after a noun, regular form.
+«È **timido**. Le **persone** **timide** sono **intelligenti**.» — “He's **shy**. **Shy** **people** are **smart**.” (`s01e07-1-061`) — *timido* masculine singular; *timide* feminine plural; *intelligenti* two-form plural.
+«Secondo me il **ragazzo** è **bello**.» — “In my opinion the **boy** is **good-looking**.” (`s01e07-1-057`) — *bello* after a noun, regular form.
 «Le **persone** sono **simpatiche** o **antipatiche**» dice Kevin. — “**People** are **nice** or **unpleasant**,” says Kevin. (`s01e07-3-065`) — feminine plural in *-e*, because *persone* is feminine.
 «Ah! La donna è **vecchia**. L'uomo è **vecchio**.» — “Ah! The woman is **old**. The man is **old**.” (`s01e07-3-062`) — the same adjective, two different genders.
 

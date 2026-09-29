@@ -64,7 +64,7 @@ Emma **vede** il **ragazzo** per un secondo. || Emma **sees** the **boy** for a 
 
 «Dai, Emma! Tu **vedi** **sempre** quel **ragazzo**.»{bianca} || “Come on, Emma! You **always** **see** that **boy**.”
 
-«No. Io **vedo** il finestrino.»{emma} || “No. I see the window.”
+«No. Io **vedo** il finestrino.»{emma} || “No. I **see** the window.”
 
 «Il finestrino è **molto** **bello**, vero?»{bianca|dry} || “The window is **very** **beautiful**, isn't it?”
 
@@ -106,33 +106,23 @@ _Che ansia._{emma} || *So stressful.*
 
 «Grazie»{emma} dice Emma, senza ridere. || “Thanks,” says Emma, without laughing.
 
-«Ho una **domanda**»{emma} dice Emma. || “I have a **question**,” says Emma.
+«Ho una **domanda** per te»{emma} dice Emma. || “I have a **question** for you,” says Emma.
 
 «Sono pronta»{bianca} dice Bianca. || “I'm ready,” says Bianca.
 
-Emma chiude gli **occhi** un momento. || Emma closes her **eyes** for a moment.
-
-«Una **domanda** difficile»{bianca} dice Bianca. || “A difficult **question**,” says Bianca.
-
 «Perché fai tante **domande**?»{emma} chiede Emma. || “Why do you ask so many **questions**?” Emma asks.
 
-«Perché sono la tua **compagna** di banco.»{bianca} || “Because I'm your **classmate**.”
-
-«E le **compagne** **raccontano** tutto?»{emma} || “And **classmates** **tell** everything?”
-
-«Le **compagne** e le amiche sì»{bianca} dice Bianca. || “**Classmates** and friends do,” says Bianca.
+«Perché sono la tua **compagna** di banco. Le **compagne** **raccontano** tutto.»{bianca} || “Because I'm your **classmate**. **Classmates** **tell** everything.”
 
 «Io non **racconto** niente.»{emma} || “I **tell** nothing.”
 
 «Appunto. Tu sei **timida**.»{bianca} || “Exactly. You're **shy**.”
 
-«E **anche** lui è **timido**.»{bianca} || “And he's **shy** **too**.”
+«**Anche** lui è **timido**»{emma} dice Emma piano. || “He's **shy** **too**,” says Emma quietly.
 
-«**Anche** il **signore** dorme, ma non è **timido**.»{emma|dry} || “The **gentleman** sleeps **too**, but he's not **shy**.”
+«Ah! Vedi? Tu **vedi** bene!»{bianca|proud} || “Ah! See? You **see** well!”
 
-«E il **signore**? Che cosa fa?»{bianca} chiede Bianca. || “And the **gentleman**? What's he doing?” Bianca asks.
-
-«Il **signore** dorme. Non è importante»{bianca} dice Bianca. || “The **gentleman** is sleeping. He's not important,” says Bianca.
+«Io non **vedo** niente!»{emma} || “I don't **see** anything!”
 
 Il treno va veloce. Fuori ci sono case e alberi. || The train goes fast. Outside there are houses and trees.
 
@@ -358,7 +348,7 @@ Bianca **vede** tutto e sorride. || Bianca **sees** everything and smiles.
 
 È lunedì pomeriggio. Kevin e Leo camminano in Via dei Tigli. || It's Monday afternoon. Kevin and Leo walk on Via dei Tigli.
 
-Kevin ha il **quaderno** giallo in mano. || Kevin has the yellow notebook in his hand.
+Kevin ha il **quaderno** giallo in mano. || Kevin has the yellow **notebook** in his hand.
 
 «Leo, oggi facciamo una cosa importante»{ben} dice Kevin. || “Leo, today we're doing something important,” says Kevin.
 
@@ -534,14 +524,6 @@ Fuori c'è ancora poca luce. || Outside there's still little light.
 
 «Papà, come stai oggi?»{matteo} chiede Matteo. || “Dad, how are you today?” Matteo asks.
 
-«**Basso**»{franco} dice Franco. || “**Short**,” says Franco.
-
-«**Basso**? In che senso?»{matteo} || “**Short**? In what sense?”
-
-«Nel senso che sono **basso**. La testa è bassa.»{franco} || “In the sense that I'm **short**. My head is low.”
-
-«Papà, tu non sei **basso**. Sei di statura normale.»{matteo} || “Dad, you're not **short**. You're of normal height.”
-
 «Mah»{franco} dice Franco. || “Bah,” says Franco.
 
 Matteo ride e prende un altro bicchiere. || Matteo laughs and takes another glass.
@@ -551,8 +533,6 @@ In quel momento la porta del bar si apre. || At that moment the bar door opens.
 Entra Kevin, con il **quaderno** giallo sotto il braccio. || Kevin comes in, with the yellow **notebook** under his arm.
 
 Ma Franco non lo **vede**. || But Franco doesn't **see** him.
-
-«Il mio genero è **alto**»{franco} dice Franco a Matteo. || “My son-in-law is **tall**,” Franco says to Matteo.
 
 «È **alto**, è americano...»{franco} || “He's **tall**, he's American...”
 
@@ -718,7 +698,7 @@ Kevin serve la pasta a tutti. || Kevin serves pasta to everyone.
 
 «Normale»{emma} dice Emma. || “Normal,” says Emma.
 
-«Normale? Sempre "normale"?»{chiara} || “Normal? **Always** ‘normal'?”
+«Normale? **Sempre** "normale"?»{chiara} || “Normal? **Always** ‘normal'?”
 
 «Sì. Scuola, lezione, treno, casa.»{emma} || “Yes. School, class, train, home.”
 
@@ -918,7 +898,7 @@ Emma ride. È la prima volta. || Emma laughs. It's the first time.
 
 «Lo **vedo** ogni mattina»{emma} dice Emma. || “I **see** him every morning,” says Emma.
 
-«Anche io. Purtroppo.»{tommaso|dry} || “Me **too**. Unfortunately.”
+«**Anche** io. Purtroppo.»{tommaso|dry} || “Me **too**. Unfortunately.”
 
 Emma lo guarda meglio. || Emma looks at him more closely.
 
@@ -1044,11 +1024,13 @@ Franco non risponde. Beve il caffè. || Franco doesn't answer. He drinks his cof
 
 «E poi? Un'altra parola?»{ben} || “And then? Another word?”
 
-«"Inutile" è una parola **gentile**?»{ben} chiede Kevin. || “Is ‘useless' a **kind** word?” Kevin asks.
+«Sì. Un'altra.»{franco} || “Yes. Another one.”
 
-«No»{franco} dice Franco. || “No,” says Franco.
+«È una parola **gentile**?»{ben} chiede Kevin. || “Is it a **kind** word?” Kevin asks.
 
-«Ah.»{ben} || “Ah.”
+«Mah»{franco} dice Franco. || “Bah,” says Franco.
+
+Matteo asciuga un bicchiere e non guarda nessuno. || Matteo dries a glass and looks at no one.
 
 _Sono **alto** e americano. Il resto non è importante._{ben} || *I'm **tall** and American. The rest isn't important.*
 

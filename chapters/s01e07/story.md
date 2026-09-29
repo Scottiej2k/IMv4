@@ -66,33 +66,23 @@ _Che ansia._
 
 «Grazie» dice Emma, senza ridere.
 
-«Ho una **domanda**» dice Emma.
+«Ho una **domanda** per te» dice Emma.
 
 «Sono pronta» dice Bianca.
 
-Emma chiude gli **occhi** un momento.
-
-«Una **domanda** difficile» dice Bianca.
-
 «Perché fai tante **domande**?» chiede Emma.
 
-«Perché sono la tua **compagna** di banco.»
-
-«E le **compagne** **raccontano** tutto?»
-
-«Le **compagne** e le amiche sì» dice Bianca.
+«Perché sono la tua **compagna** di banco. Le **compagne** **raccontano** tutto.»
 
 «Io non **racconto** niente.»
 
 «Appunto. Tu sei **timida**.»
 
-«E **anche** lui è **timido**.»
+«**Anche** lui è **timido**» dice Emma piano.
 
-«**Anche** il **signore** dorme, ma non è **timido**.»
+«Ah! Vedi? Tu **vedi** bene!»
 
-«E il **signore**? Che cosa fa?» chiede Bianca.
-
-«Il **signore** dorme. Non è importante» dice Bianca.
+«Io non **vedo** niente!»
 
 Il treno va veloce. Fuori ci sono case e alberi. Il **signore** senza **capelli** apre gli **occhi**. Guarda il **ragazzo** e poi dorme ancora.
 
@@ -462,19 +452,9 @@ Kevin chiude il **quaderno** con un sorriso.
 
 «Papà, come stai oggi?» chiede Matteo.
 
-«**Basso**» dice Franco.
-
-«**Basso**? In che senso?»
-
-«Nel senso che sono **basso**. La testa è bassa.»
-
-«Papà, tu non sei **basso**. Sei di statura normale.»
-
 «Mah» dice Franco.
 
 Matteo ride e prende un altro bicchiere. In quel momento la porta del bar si apre. Entra Kevin, con il **quaderno** giallo sotto il braccio. Ma Franco non lo **vede**.
-
-«Il mio genero è **alto**» dice Franco a Matteo.
 
 «È **alto**, è americano...»
 
@@ -628,7 +608,7 @@ Kevin serve la pasta a tutti.
 
 «Normale» dice Emma.
 
-«Normale? Sempre "normale"?»
+«Normale? **Sempre** "normale"?»
 
 «Sì. Scuola, lezione, treno, casa.»
 
@@ -814,7 +794,7 @@ Emma ride. È la prima volta.
 
 «Lo **vedo** ogni mattina» dice Emma.
 
-«Anche io. Purtroppo.»
+«**Anche** io. Purtroppo.»
 
 Emma lo guarda meglio. Il **ragazzo** è **alto** e magro. Ha i **capelli** neri e gli **occhi** tranquilli. La sua **faccia** è seria, ma non **antipatica**.
 
@@ -920,11 +900,13 @@ Franco non risponde. Beve il caffè.
 
 «E poi? Un'altra parola?»
 
-«"Inutile" è una parola **gentile**?» chiede Kevin.
+«Sì. Un'altra.»
 
-«No» dice Franco.
+«È una parola **gentile**?» chiede Kevin.
 
-«Ah.»
+«Mah» dice Franco.
+
+Matteo asciuga un bicchiere e non guarda nessuno.
 
 _Sono **alto** e americano. Il resto non è importante._
 

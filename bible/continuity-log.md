@@ -63,7 +63,7 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Monday's gym *modulo* at the palestra (Matteo's warning); Kevin plans to call Ornella for her phone number; Emma's crush on Tommaso.
 
 ### s01e07 · Com'è Tommaso?
-- **Happened:** Emma and Bianca ride the 7:30 Monza train, where Bianca insists on describing a quiet classmate; the boy says ciao to Emma at the station. At the hedge on Via dei Tigli, Emma talks with Tommaso and they agree to share the morning train. Kevin starts a yellow quaderno "elenco delle persone" with Leo's descriptions of the neighbors.
+- **Happened:** Emma and Bianca ride the 7:30 Monza train, where Bianca insists on describing a quiet classmate; the boy says ciao to Emma at the station. At the hedge on Via dei Tigli, Emma talks with Tommaso and they discover they take the same 7:30 train and are close to agreeing to sit together. Kevin starts an "elenco delle persone" in his yellow quaderno, filled with Leo's descriptions of the neighbors (Signor Colombo: "alto e antipatico"; Ornella: "vecchia ma elegante").
 - **New facts:** Tommaso Colombo, Emma's liceo classmate, lives at Via dei Tigli 11 with his father, the signor Colombo of the hedge; he plays bass and carries a black case. Emma writes songs but shows them to no one. Franco calls Kevin "alto, americano... e inutile" — Matteo hears it, Kevin doesn't.
 - **Changed:** Emma has spoken with Tommaso and knows he is the Colombo son, their neighbor; the morning commute is now shared.
 - **Planted:** Emma–Tommaso romance across the hedge (the Romeo-and-Juliet setup); Kevin's notebook of neighbors may return.

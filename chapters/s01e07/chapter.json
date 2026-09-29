@@ -28,7 +28,7 @@
       "lemma": "basso",
       "pos": "adjective",
       "en": "short (in height)",
-      "example": "s01e07-4-007",
+      "example": "s01e07-3-021",
       "target": {
         "it": "Basso",
         "en": "Short"
@@ -72,7 +72,7 @@
       "lemma": "timido",
       "pos": "adjective",
       "en": "shy",
-      "example": "s01e07-1-048",
+      "example": "s01e07-1-044",
       "target": {
         "it": "timida",
         "en": "shy"
@@ -152,7 +152,7 @@
       "lemma": "il ragazzo",
       "pos": "noun",
       "en": "boy",
-      "example": "s01e07-1-082",
+      "example": "s01e07-1-077",
       "target": {
         "it": "ragazzo",
         "en": "boy"
@@ -258,10 +258,10 @@
       "lemma": "la compagna",
       "pos": "noun",
       "en": "classmate",
-      "example": "s01e07-1-045",
+      "example": "s01e07-6-008",
       "target": {
-        "it": "compagne",
-        "en": "classmates"
+        "it": "compagna",
+        "en": "classmate"
       },
       "gender": "f"
     },
@@ -270,7 +270,7 @@
       "lemma": "il viaggio",
       "pos": "noun",
       "en": "trip, journey",
-      "example": "s01e07-1-096",
+      "example": "s01e07-1-091",
       "target": {
         "it": "viaggio",
         "en": "trip"
@@ -282,7 +282,7 @@
       "lemma": "raccontare",
       "pos": "verb",
       "en": "to tell",
-      "example": "s01e07-1-047",
+      "example": "s01e07-1-043",
       "target": {
         "it": "racconto",
         "en": "tell"
@@ -293,10 +293,10 @@
       "lemma": "vedere",
       "pos": "verb",
       "en": "to see",
-      "example": "s01e07-2-064",
+      "example": "s01e07-1-047",
       "target": {
-        "it": "vede",
-        "en": "sees"
+        "it": "vedo",
+        "en": "see"
       }
     },
     {
@@ -1704,7 +1704,7 @@
             {
               "id": "s01e07-1-018",
               "it": "«No. Io **vedo** il finestrino.»",
-              "en": "“No. I see the window.”",
+              "en": "“No. I **see** the window.”",
               "voice": [
                 [
                   "emma",
@@ -3340,12 +3340,12 @@
           "segments": [
             {
               "id": "s01e07-1-039",
-              "it": "«Ho una **domanda**» dice Emma.",
-              "en": "“I have a **question**,” says Emma.",
+              "it": "«Ho una **domanda** per te» dice Emma.",
+              "en": "“I have a **question** for you,” says Emma.",
               "voice": [
                 [
                   "emma",
-                  "Ho una **domanda**",
+                  "Ho una **domanda** per te",
                   ""
                 ],
                 [
@@ -3386,12 +3386,12 @@
                   "b"
                 ],
                 [
-                  "» ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "dice",
+                  "per",
                   3,
                   ""
                 ],
@@ -3401,8 +3401,28 @@
                   ""
                 ],
                 [
-                  "Emma",
+                  "te",
                   4,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Emma",
+                  6,
                   ""
                 ],
                 [
@@ -3489,168 +3509,6 @@
           "segments": [
             {
               "id": "s01e07-1-041",
-              "it": "Emma chiude gli **occhi** un momento.",
-              "en": "Emma closes her **eyes** for a moment.",
-              "voice": [
-                [
-                  "narrator",
-                  "Emma chiude gli **occhi** un momento.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Emma",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiude",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gli",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "occhi",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "momento",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-occhi"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-042",
-              "it": "«Una **domanda** difficile» dice Bianca.",
-              "en": "“A difficult **question**,” says Bianca.",
-              "voice": [
-                [
-                  "bianca",
-                  "Una **domanda** difficile",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Bianca.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Una",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "domanda",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "difficile",
-                  2,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bianca",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-domanda"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-043",
               "it": "«Perché fai tante **domande**?» chiede Emma.",
               "en": "“Why do you ask so many **questions**?” Emma asks.",
               "voice": [
@@ -3741,13 +3599,13 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-044",
-              "it": "«Perché sono la tua **compagna** di banco.»",
-              "en": "“Because I'm your **classmate**.”",
+              "id": "s01e07-1-042",
+              "it": "«Perché sono la tua **compagna** di banco. Le **compagne** **raccontano** tutto.»",
+              "en": "“Because I'm your **classmate**. **Classmates** **tell** everything.”",
               "voice": [
                 [
                   "bianca",
-                  "Perché sono la tua **compagna** di banco.",
+                  "Perché sono la tua **compagna** di banco. Le **compagne** **raccontano** tutto.",
                   ""
                 ]
               ],
@@ -3823,49 +3681,13 @@
                   ""
                 ],
                 [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-compagna"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-045",
-              "it": "«E le **compagne** **raccontano** tutto?»",
-              "en": "“And **classmates** **tell** everything?”",
-              "voice": [
-                [
-                  "emma",
-                  "E le **compagne** **raccontano** tutto?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
-                  1,
+                  "Le",
+                  7,
                   ""
                 ],
                 [
@@ -3875,7 +3697,7 @@
                 ],
                 [
                   "compagne",
-                  2,
+                  8,
                   "b"
                 ],
                 [
@@ -3885,7 +3707,7 @@
                 ],
                 [
                   "raccontano",
-                  3,
+                  9,
                   "b"
                 ],
                 [
@@ -3895,11 +3717,11 @@
                 ],
                 [
                   "tutto",
-                  4,
+                  10,
                   ""
                 ],
                 [
-                  "?»",
+                  ".»",
                   -1,
                   ""
                 ]
@@ -3914,118 +3736,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-046",
-              "it": "«Le **compagne** e le amiche sì» dice Bianca.",
-              "en": "“**Classmates** and friends do,” says Bianca.",
-              "voice": [
-                [
-                  "bianca",
-                  "Le **compagne** e le amiche sì",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Bianca.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Le",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "compagne",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "amiche",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sì",
-                  5,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bianca",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-compagna"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-047",
+              "id": "s01e07-1-043",
               "it": "«Io non **racconto** niente.»",
               "en": "“I **tell** nothing.”",
               "voice": [
@@ -4091,7 +3802,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-048",
+              "id": "s01e07-1-044",
               "it": "«Appunto. Tu sei **timida**.»",
               "en": "“Exactly. You're **shy**.”",
               "voice": [
@@ -4157,91 +3868,19 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-049",
-              "it": "«E **anche** lui è **timido**.»",
-              "en": "“And he's **shy** **too**.”",
-              "voice": [
-                [
-                  "bianca",
-                  "E **anche** lui è **timido**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anche",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lui",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "timido",
-                  4,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-anche",
-                "v-timido"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-050",
-              "it": "«**Anche** il **signore** dorme, ma non è **timido**.»",
-              "en": "“The **gentleman** sleeps **too**, but he's not **shy**.”",
+              "id": "s01e07-1-045",
+              "it": "«**Anche** lui è **timido**» dice Emma piano.",
+              "en": "“He's **shy** **too**,” says Emma quietly.",
               "voice": [
                 [
                   "emma",
-                  "**Anche** il **signore** dorme, ma non è **timido**.",
-                  "dry"
+                  "**Anche** lui è **timido**",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Emma piano.",
+                  ""
                 ]
               ],
               "tokens": [
@@ -4261,7 +3900,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "lui",
                   1,
                   ""
                 ],
@@ -4271,48 +3910,8 @@
                   ""
                 ],
                 [
-                  "signore",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dorme",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ma",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "è",
-                  6,
+                  2,
                   ""
                 ],
                 [
@@ -4322,212 +3921,8 @@
                 ],
                 [
                   "timido",
-                  7,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-anche",
-                "v-signore",
-                "v-timido"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-051",
-              "it": "«E il **signore**? Che cosa fa?» chiede Bianca.",
-              "en": "“And the **gentleman**? What's he doing?” Bianca asks.",
-              "voice": [
-                [
-                  "bianca",
-                  "E il **signore**? Che cosa fa?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Bianca.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "signore",
-                  2,
-                  "b"
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Che",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fa",
-                  5,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bianca",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-signore"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-1-052",
-              "it": "«Il **signore** dorme. Non è importante» dice Bianca.",
-              "en": "“The **gentleman** is sleeping. He's not important,” says Bianca.",
-              "voice": [
-                [
-                  "bianca",
-                  "Il **signore** dorme. Non è importante",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Bianca.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "signore",
-                  1,
                   "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dorme",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "importante",
-                  5,
-                  ""
                 ],
                 [
                   "» ",
@@ -4536,7 +3931,7 @@
                 ],
                 [
                   "dice",
-                  6,
+                  4,
                   ""
                 ],
                 [
@@ -4545,8 +3940,18 @@
                   ""
                 ],
                 [
-                  "Bianca",
-                  7,
+                  "Emma",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piano",
+                  6,
                   ""
                 ],
                 [
@@ -4556,7 +3961,8 @@
                 ]
               ],
               "focus": [
-                "v-signore"
+                "v-anche",
+                "v-timido"
               ]
             }
           ]
@@ -4564,7 +3970,149 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-053",
+              "id": "s01e07-1-046",
+              "it": "«Ah! Vedi? Tu **vedi** bene!»",
+              "en": "“Ah! See? You **see** well!”",
+              "voice": [
+                [
+                  "bianca",
+                  "Ah! Vedi? Tu **vedi** bene!",
+                  "proud"
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Ah",
+                  0,
+                  ""
+                ],
+                [
+                  "! ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Vedi",
+                  1,
+                  ""
+                ],
+                [
+                  "? ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Tu",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "vedi",
+                  3,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bene",
+                  4,
+                  ""
+                ],
+                [
+                  "!»",
+                  -1,
+                  ""
+                ]
+              ],
+              "focus": [
+                "v-vedere"
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e07-1-047",
+              "it": "«Io non **vedo** niente!»",
+              "en": "“I don't **see** anything!”",
+              "voice": [
+                [
+                  "emma",
+                  "Io non **vedo** niente!",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Io",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "non",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "vedo",
+                  2,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "niente",
+                  3,
+                  ""
+                ],
+                [
+                  "!»",
+                  -1,
+                  ""
+                ]
+              ],
+              "focus": [
+                "v-vedere"
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e07-1-048",
               "it": "Il treno va veloce. Fuori ci sono case e alberi.",
               "en": "The train goes fast. Outside there are houses and trees.",
               "voice": [
@@ -4678,7 +4226,7 @@
               ]
             },
             {
-              "id": "s01e07-1-054",
+              "id": "s01e07-1-049",
               "it": "Il **signore** senza **capelli** apre gli **occhi**.",
               "en": "The **gentleman** with no **hair** opens his **eyes**.",
               "voice": [
@@ -4767,7 +4315,7 @@
               ]
             },
             {
-              "id": "s01e07-1-055",
+              "id": "s01e07-1-050",
               "it": "Guarda il **ragazzo** e poi dorme ancora.",
               "en": "He looks at the **boy** and then sleeps again.",
               "voice": [
@@ -4858,7 +4406,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-056",
+              "id": "s01e07-1-051",
               "it": "«È **bello**?» chiede Bianca piano.",
               "en": "“Is he **good-looking**?” Bianca asks quietly.",
               "voice": [
@@ -4939,7 +4487,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-057",
+              "id": "s01e07-1-052",
               "it": "«Chi? Il **signore**?»",
               "en": "“Who? The **gentleman**?”",
               "voice": [
@@ -4995,7 +4543,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-058",
+              "id": "s01e07-1-053",
               "it": "«No! Il **ragazzo**!»",
               "en": "“No! The **boy**!”",
               "voice": [
@@ -5051,7 +4599,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-059",
+              "id": "s01e07-1-054",
               "it": "«Boh.»",
               "en": "“Dunno.”",
               "voice": [
@@ -5084,7 +4632,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-060",
+              "id": "s01e07-1-055",
               "it": "«Tu sei **sempre** \"boh\". **Sempre** la stessa parola.»",
               "en": "“You're **always** ‘dunno.' **Always** the same word.”",
               "voice": [
@@ -5190,7 +4738,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-061",
+              "id": "s01e07-1-056",
               "it": "«Forse» dice Emma.",
               "en": "“Maybe,” says Emma.",
               "voice": [
@@ -5248,7 +4796,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-062",
+              "id": "s01e07-1-057",
               "it": "«Secondo me il **ragazzo** è **bello**.»",
               "en": "“In my opinion the **boy** is **good-looking**.”",
               "voice": [
@@ -5335,7 +4883,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-063",
+              "id": "s01e07-1-058",
               "it": "«**Bello** e **timido**» dice Bianca.",
               "en": "“**Good-looking** and **shy**,” says Bianca.",
               "voice": [
@@ -5417,7 +4965,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-064",
+              "id": "s01e07-1-059",
               "it": "«**Bello** e **alto** e **intelligente**.»",
               "en": "“**Good-looking** and **tall** and **smart**.”",
               "voice": [
@@ -5495,7 +5043,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-065",
+              "id": "s01e07-1-060",
               "it": "«Tu non sai se è **intelligente**.»",
               "en": "“You don't know if he's **smart**.”",
               "voice": [
@@ -5581,7 +5129,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-066",
+              "id": "s01e07-1-061",
               "it": "«È **timido**. Le **persone** **timide** sono **intelligenti**.»",
               "en": "“He's **shy**. **Shy** **people** are **smart**.”",
               "voice": [
@@ -5679,7 +5227,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-067",
+              "id": "s01e07-1-062",
               "it": "«È scienza?» chiede Emma.",
               "en": "“Is that science?” Emma asks.",
               "voice": [
@@ -5747,7 +5295,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-068",
+              "id": "s01e07-1-063",
               "it": "«Sì. Scienza delle **persone**» dice Bianca.",
               "en": "“Yes. Science of **people**,” says Bianca.",
               "voice": [
@@ -5838,7 +5386,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-069",
+              "id": "s01e07-1-064",
               "it": "Emma ride.",
               "en": "Emma laughs.",
               "voice": [
@@ -5876,7 +5424,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-070",
+              "id": "s01e07-1-065",
               "it": "«Finalmente! Tu ridi!»",
               "en": "“Finally! You laugh!”",
               "voice": [
@@ -5929,7 +5477,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-071",
+              "id": "s01e07-1-066",
               "it": "«Rido perché sei impossibile» dice Emma.",
               "en": "“I laugh because you're impossible,” says Emma.",
               "voice": [
@@ -6017,7 +5565,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-072",
+              "id": "s01e07-1-067",
               "it": "«Impossibile ma **simpatica**. E **anche** **intelligente**.»",
               "en": "“Impossible but **nice**. And **smart** **too**.”",
               "voice": [
@@ -6105,7 +5653,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-073",
+              "id": "s01e07-1-068",
               "it": "«Va bene, va bene» dice Emma.",
               "en": "“Okay, okay,” says Emma.",
               "voice": [
@@ -6193,7 +5741,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-074",
+              "id": "s01e07-1-069",
               "it": "Il **ragazzo** sente? Forse. Ma non parla.",
               "en": "Does the **boy** hear? Maybe. But he doesn't talk.",
               "voice": [
@@ -6284,7 +5832,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-075",
+              "id": "s01e07-1-070",
               "it": "«Perché non parla?» chiede Bianca.",
               "en": "“Why doesn't he talk?” Bianca asks.",
               "voice": [
@@ -6362,7 +5910,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-076",
+              "id": "s01e07-1-071",
               "it": "«Forse ascolta meglio» dice Emma.",
               "en": "“Maybe he listens better,” says Emma.",
               "voice": [
@@ -6440,7 +5988,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-077",
+              "id": "s01e07-1-072",
               "it": "«La musica **racconta** tutto. Meglio di noi.»",
               "en": "“Music **tells** everything. Better than us.”",
               "voice": [
@@ -6536,7 +6084,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-078",
+              "id": "s01e07-1-073",
               "it": "Il treno arriva alla stazione di Monza.",
               "en": "The train arrives at Monza station.",
               "voice": [
@@ -6620,7 +6168,7 @@
               ]
             },
             {
-              "id": "s01e07-1-079",
+              "id": "s01e07-1-074",
               "it": "Tutti si alzano. C'è rumore.",
               "en": "Everyone gets up. There's noise.",
               "voice": [
@@ -6684,7 +6232,7 @@
               ]
             },
             {
-              "id": "s01e07-1-080",
+              "id": "s01e07-1-075",
               "it": "Il **ragazzo** prende la custodia nera.",
               "en": "The **boy** picks up the black case.",
               "voice": [
@@ -6761,7 +6309,7 @@
               ]
             },
             {
-              "id": "s01e07-1-081",
+              "id": "s01e07-1-076",
               "it": "Poi **vede** Emma.",
               "en": "Then he **sees** Emma.",
               "voice": [
@@ -6812,7 +6360,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-082",
+              "id": "s01e07-1-077",
               "it": "«Ciao» dice il **ragazzo**.",
               "en": "“Hi,” says the **boy**.",
               "voice": [
@@ -6883,7 +6431,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-083",
+              "id": "s01e07-1-078",
               "it": "«Ciao» dice Emma piano.",
               "en": "“Hi,” says Emma quietly.",
               "voice": [
@@ -6951,7 +6499,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-084",
+              "id": "s01e07-1-079",
               "it": "La **faccia** del **ragazzo** è tranquilla.",
               "en": "The **boy**'s **face** is calm.",
               "voice": [
@@ -7033,7 +6581,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-085",
+              "id": "s01e07-1-080",
               "it": "_I suoi **occhi** sono **belli**. Il **naso** è normale. La **faccia** è **bella**._",
               "en": "_His **eyes** are **beautiful**. His **nose** is normal. His **face** is **beautiful**._",
               "voice": [
@@ -7187,7 +6735,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-086",
+              "id": "s01e07-1-081",
               "it": "Bianca guarda Emma e poi il **ragazzo**.",
               "en": "Bianca looks at Emma and then at the **boy**.",
               "voice": [
@@ -7278,7 +6826,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-087",
+              "id": "s01e07-1-082",
               "it": "«Interessante» dice Bianca.",
               "en": "“Interesting,” says Bianca.",
               "voice": [
@@ -7336,7 +6884,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-088",
+              "id": "s01e07-1-083",
               "it": "Emma non risponde.",
               "en": "Emma doesn't answer.",
               "voice": [
@@ -7380,7 +6928,7 @@
               ]
             },
             {
-              "id": "s01e07-1-089",
+              "id": "s01e07-1-084",
               "it": "Il **signore** senza **capelli** apre gli **occhi** ancora.",
               "en": "The **gentleman** with no **hair** opens his **eyes** again.",
               "voice": [
@@ -7483,7 +7031,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-090",
+              "id": "s01e07-1-085",
               "it": "«Scendete o no?» chiede.",
               "en": "“Are you getting off or not?” he asks.",
               "voice": [
@@ -7551,7 +7099,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-091",
+              "id": "s01e07-1-086",
               "it": "«Sì, sì. Scusi» dice Emma.",
               "en": "“Yes, yes. Sorry,” says Emma.",
               "voice": [
@@ -7629,7 +7177,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-092",
+              "id": "s01e07-1-087",
               "it": "Bianca ride forte.",
               "en": "Bianca laughs loudly.",
               "voice": [
@@ -7677,7 +7225,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-093",
+              "id": "s01e07-1-088",
               "it": "«**Bello**, **timido** e con una custodia nera» dice Bianca.",
               "en": "“**Good-looking**, **shy** and with a black case,” says Bianca.",
               "voice": [
@@ -7799,7 +7347,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-094",
+              "id": "s01e07-1-089",
               "it": "«Basta!»",
               "en": "“Enough!”",
               "voice": [
@@ -7832,7 +7380,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-095",
+              "id": "s01e07-1-090",
               "it": "Emma scende dal treno. Il suo **viaggio** è finito.",
               "en": "Emma gets off the train. Her **trip** is over.",
               "voice": [
@@ -7939,7 +7487,7 @@
               ]
             },
             {
-              "id": "s01e07-1-096",
+              "id": "s01e07-1-091",
               "it": "Ma il **viaggio** con Bianca è lungo.",
               "en": "But the **trip** with Bianca is long.",
               "voice": [
@@ -8030,7 +7578,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-1-097",
+              "id": "s01e07-1-092",
               "it": "«Domani **racconto** tutto» dice Bianca.",
               "en": "“Tomorrow I'll **tell** everything,” says Bianca.",
               "voice": [
@@ -13629,7 +13177,7 @@
             {
               "id": "s01e07-3-002",
               "it": "Kevin ha il **quaderno** giallo in mano.",
-              "en": "Kevin has the yellow notebook in his hand.",
+              "en": "Kevin has the yellow **notebook** in his hand.",
               "voice": [
                 [
                   "narrator",
@@ -21067,365 +20615,6 @@
           "segments": [
             {
               "id": "s01e07-4-006",
-              "it": "«**Basso**» dice Franco.",
-              "en": "“**Short**,” says Franco.",
-              "voice": [
-                [
-                  "franco",
-                  "**Basso**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Franco.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Basso",
-                  0,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  2,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-basso"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-4-007",
-              "it": "«**Basso**? In che senso?»",
-              "en": "“**Short**? In what sense?”",
-              "voice": [
-                [
-                  "matteo",
-                  "**Basso**? In che senso?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Basso",
-                  0,
-                  "b"
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "In",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "che",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "senso",
-                  3,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-basso"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-4-008",
-              "it": "«Nel senso che sono **basso**. La testa è bassa.»",
-              "en": "“In the sense that I'm **short**. My head is low.”",
-              "voice": [
-                [
-                  "franco",
-                  "Nel senso che sono **basso**. La testa è bassa.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nel",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "senso",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "che",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sono",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "basso",
-                  4,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "testa",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bassa",
-                  8,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-basso"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-4-009",
-              "it": "«Papà, tu non sei **basso**. Sei di statura normale.»",
-              "en": "“Dad, you're not **short**. You're of normal height.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Papà, tu non sei **basso**. Sei di statura normale.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Papà",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tu",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sei",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "basso",
-                  4,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sei",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "statura",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "normale",
-                  8,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-basso"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-4-010",
               "it": "«Mah» dice Franco.",
               "en": "“Bah,” says Franco.",
               "voice": [
@@ -21483,7 +20672,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-011",
+              "id": "s01e07-4-007",
               "it": "Matteo ride e prende un altro bicchiere.",
               "en": "Matteo laughs and takes another glass.",
               "voice": [
@@ -21567,7 +20756,7 @@
               ]
             },
             {
-              "id": "s01e07-4-012",
+              "id": "s01e07-4-008",
               "it": "In quel momento la porta del bar si apre.",
               "en": "At that moment the bar door opens.",
               "voice": [
@@ -21671,7 +20860,7 @@
               ]
             },
             {
-              "id": "s01e07-4-013",
+              "id": "s01e07-4-009",
               "it": "Entra Kevin, con il **quaderno** giallo sotto il braccio.",
               "en": "Kevin comes in, with the yellow **notebook** under his arm.",
               "voice": [
@@ -21778,7 +20967,7 @@
               ]
             },
             {
-              "id": "s01e07-4-014",
+              "id": "s01e07-4-010",
               "it": "Ma Franco non lo **vede**.",
               "en": "But Franco doesn't **see** him.",
               "voice": [
@@ -21849,128 +21038,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-015",
-              "it": "«Il mio genero è **alto**» dice Franco a Matteo.",
-              "en": "“My son-in-law is **tall**,” Franco says to Matteo.",
-              "voice": [
-                [
-                  "franco",
-                  "Il mio genero è **alto**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Franco a Matteo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "genero",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alto",
-                  4,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-alto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e07-4-016",
+              "id": "s01e07-4-011",
               "it": "«È **alto**, è americano...»",
               "en": "“He's **tall**, he's American...”",
               "voice": [
@@ -22036,7 +21104,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-017",
+              "id": "s01e07-4-012",
               "it": "Kevin sente le prime parole e si ferma.",
               "en": "Kevin hears the first words and stops.",
               "voice": [
@@ -22134,7 +21202,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-018",
+              "id": "s01e07-4-013",
               "it": "«**Alto** e americano!» dice Kevin, felice.",
               "en": "“**Tall** and American!” says Kevin, happy.",
               "voice": [
@@ -22225,7 +21293,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-019",
+              "id": "s01e07-4-014",
               "it": "Franco si gira lentamente.",
               "en": "Franco turns around slowly.",
               "voice": [
@@ -22283,7 +21351,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-020",
+              "id": "s01e07-4-015",
               "it": "«Grazie, Franco! Grazie!»",
               "en": "“Thank you, Franco! Thank you!”",
               "voice": [
@@ -22336,7 +21404,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-021",
+              "id": "s01e07-4-016",
               "it": "«Prego» dice Franco, senza guardarlo.",
               "en": "“You're welcome,” says Franco, without looking at him.",
               "voice": [
@@ -22414,7 +21482,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-022",
+              "id": "s01e07-4-017",
               "it": "Matteo guarda il soffitto e sorride.",
               "en": "Matteo looks at the ceiling and smiles.",
               "voice": [
@@ -22492,7 +21560,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-023",
+              "id": "s01e07-4-018",
               "it": "«Cliente nuovo? No, cliente **sempre** uguale» dice Matteo.",
               "en": "“New customer? No, **always** the same customer,” says Matteo.",
               "voice": [
@@ -22603,7 +21671,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-024",
+              "id": "s01e07-4-019",
               "it": "«Buongiorno, Matteo. Un caffè, per favore» dice Kevin.",
               "en": "“Good morning, Matteo. A coffee, please,” says Kevin.",
               "voice": [
@@ -22711,7 +21779,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-025",
+              "id": "s01e07-4-020",
               "it": "«Subito» dice Matteo.",
               "en": "“Right away,” says Matteo.",
               "voice": [
@@ -22769,7 +21837,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-026",
+              "id": "s01e07-4-021",
               "it": "Kevin mette il **quaderno** sul bancone e lo apre.",
               "en": "Kevin puts the **notebook** on the counter and opens it.",
               "voice": [
@@ -22880,7 +21948,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-027",
+              "id": "s01e07-4-022",
               "it": "«Che cos'è?» chiede Matteo.",
               "en": "“What's that?” Matteo asks.",
               "voice": [
@@ -22948,7 +22016,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-028",
+              "id": "s01e07-4-023",
               "it": "«Questo è il mio **elenco** delle **persone**.»",
               "en": "“This is my **list** of the **people**.”",
               "voice": [
@@ -23045,7 +22113,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-029",
+              "id": "s01e07-4-024",
               "it": "«Un **elenco**?»",
               "en": "“A **list**?”",
               "voice": [
@@ -23091,7 +22159,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-030",
+              "id": "s01e07-4-025",
               "it": "«Sì. Su questo **foglio** c'è tutta la strada.»",
               "en": "“Yes. On this **sheet** there's the whole street.”",
               "voice": [
@@ -23197,7 +22265,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-031",
+              "id": "s01e07-4-026",
               "it": "Franco si avvicina un po'.",
               "en": "Franco moves a little closer.",
               "voice": [
@@ -23265,7 +22333,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-032",
+              "id": "s01e07-4-027",
               "it": "«Fammi vedere» dice Franco.",
               "en": "“Let me see,” says Franco.",
               "voice": [
@@ -23333,7 +22401,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-033",
+              "id": "s01e07-4-028",
               "it": "Kevin gira il **foglio** verso di lui.",
               "en": "Kevin turns the **sheet** toward him.",
               "voice": [
@@ -23424,7 +22492,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-034",
+              "id": "s01e07-4-029",
               "it": "«La signora Ornella: **vecchia** ma elegante» legge Franco.",
               "en": "“Signora Ornella: **old** but elegant,” Franco reads.",
               "voice": [
@@ -23535,7 +22603,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-035",
+              "id": "s01e07-4-030",
               "it": "«E **anche** **gentile**» dice Kevin.",
               "en": "“And **kind** **too**,” says Kevin.",
               "voice": [
@@ -23617,7 +22685,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-036",
+              "id": "s01e07-4-031",
               "it": "«Questo è vero. La signora Ornella è una **persona** **gentile**.»",
               "en": "“That's true. Signora Ornella is a **kind** **person**.”",
               "voice": [
@@ -23744,7 +22812,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-037",
+              "id": "s01e07-4-032",
               "it": "«E il **signore** del numero undici?» chiede Matteo.",
               "en": "“And the **gentleman** from number eleven?” Matteo asks.",
               "voice": [
@@ -23855,7 +22923,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-038",
+              "id": "s01e07-4-033",
               "it": "«Il signor Colombo è **alto** e **antipatico**.»",
               "en": "“Mister Colombo is **tall** and **unpleasant**.”",
               "voice": [
@@ -23952,7 +23020,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-039",
+              "id": "s01e07-4-034",
               "it": "Franco annuisce. Matteo ride forte.",
               "en": "Franco nods. Matteo laughs loudly.",
               "voice": [
@@ -24020,7 +23088,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-040",
+              "id": "s01e07-4-035",
               "it": "«Scritto da Leo?» chiede Matteo.",
               "en": "“Written by Leo?” Matteo asks.",
               "voice": [
@@ -24098,7 +23166,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-041",
+              "id": "s01e07-4-036",
               "it": "«Sì. Leo è il mio esperto» dice Kevin.",
               "en": "“Yes. Leo is my expert,” says Kevin.",
               "voice": [
@@ -24206,7 +23274,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-042",
+              "id": "s01e07-4-037",
               "it": "«E io? Come sono io?» chiede Matteo.",
               "en": "“And me? What am I like?” Matteo asks.",
               "voice": [
@@ -24304,7 +23372,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-043",
+              "id": "s01e07-4-038",
               "it": "«Tu sei **giovane**, **simpatico** e... »",
               "en": "“You're **young**, **nice** and...”",
               "voice": [
@@ -24381,7 +23449,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-044",
+              "id": "s01e07-4-039",
               "it": "«E?»",
               "en": "“And?”",
               "voice": [
@@ -24414,7 +23482,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-045",
+              "id": "s01e07-4-040",
               "it": "«E **anche** un po' **alto**» dice Kevin.",
               "en": "“And **also** a little **tall**,” says Kevin.",
               "voice": [
@@ -24516,7 +23584,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-046",
+              "id": "s01e07-4-041",
               "it": "«Un po' **alto**. Grazie, Kevin.»",
               "en": "“A little **tall**. Thanks, Kevin.”",
               "voice": [
@@ -24592,7 +23660,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-047",
+              "id": "s01e07-4-042",
               "it": "Kevin sorride. Poi guarda Franco.",
               "en": "Kevin smiles. Then he looks at Franco.",
               "voice": [
@@ -24660,7 +23728,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-048",
+              "id": "s01e07-4-043",
               "it": "«Franco, ho una **domanda** per te» dice Kevin.",
               "en": "“Franco, I have a **question** for you,” says Kevin.",
               "voice": [
@@ -24771,7 +23839,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-049",
+              "id": "s01e07-4-044",
               "it": "«Una **domanda**?»",
               "en": "“A **question**?”",
               "voice": [
@@ -24817,7 +23885,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-050",
+              "id": "s01e07-4-045",
               "it": "«Come sei tu? Come **persona**?»",
               "en": "“What are you like? As a **person**?”",
               "voice": [
@@ -24893,7 +23961,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-051",
+              "id": "s01e07-4-046",
               "it": "Franco mette giù la tazzina.",
               "en": "Franco puts down his cup.",
               "voice": [
@@ -24961,7 +24029,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-052",
+              "id": "s01e07-4-047",
               "it": "«Io sono **vecchio**» dice Franco.",
               "en": "“I'm **old**,” says Franco.",
               "voice": [
@@ -25042,7 +24110,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-053",
+              "id": "s01e07-4-048",
               "it": "«No!» dice Matteo.",
               "en": "“No!” says Matteo.",
               "voice": [
@@ -25100,7 +24168,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-054",
+              "id": "s01e07-4-049",
               "it": "«Sì. Sono **vecchio**.»",
               "en": "“Yes. I'm **old**.”",
               "voice": [
@@ -25156,7 +24224,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-055",
+              "id": "s01e07-4-050",
               "it": "«Papà, tu sei **vecchio**? E io sono **giovane**?»",
               "en": "“Dad, you're **old**? And I'm **young**?”",
               "voice": [
@@ -25263,7 +24331,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-056",
+              "id": "s01e07-4-051",
               "it": "«Tu sei **giovane** e parli troppo» dice Franco.",
               "en": "“You're **young** and you talk too much,” says Franco.",
               "voice": [
@@ -25374,7 +24442,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-057",
+              "id": "s01e07-4-052",
               "it": "Kevin scrive nel **quaderno** con attenzione.",
               "en": "Kevin writes in the **notebook** carefully.",
               "voice": [
@@ -25455,7 +24523,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-058",
+              "id": "s01e07-4-053",
               "it": "«Franco: **vecchio**, ma forte» dice Kevin piano.",
               "en": "“Franco: **old**, but strong,” says Kevin quietly.",
               "voice": [
@@ -25556,7 +24624,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-059",
+              "id": "s01e07-4-054",
               "it": "«Che cosa scrivi?» chiede Franco.",
               "en": "“What are you writing?” Franco asks.",
               "voice": [
@@ -25634,7 +24702,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-060",
+              "id": "s01e07-4-055",
               "it": "«Scrivo che sei **vecchio** e forte.»",
               "en": "“I'm writing that you're **old** and strong.”",
               "voice": [
@@ -25720,7 +24788,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-061",
+              "id": "s01e07-4-056",
               "it": "«Non scrivere. Guarda e ascolta.»",
               "en": "“Don't write. Watch and listen.”",
               "voice": [
@@ -25793,7 +24861,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-062",
+              "id": "s01e07-4-057",
               "it": "«Va bene» dice Kevin.",
               "en": "“Okay,” says Kevin.",
               "voice": [
@@ -25861,7 +24929,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-063",
+              "id": "s01e07-4-058",
               "it": "Franco prende il giornale e **vede** la prima pagina.",
               "en": "Franco picks up the newspaper and **sees** the front page.",
               "voice": [
@@ -25968,7 +25036,7 @@
               ]
             },
             {
-              "id": "s01e07-4-064",
+              "id": "s01e07-4-059",
               "it": "Poi guarda Kevin ancora una volta.",
               "en": "Then he looks at Kevin once more.",
               "voice": [
@@ -26046,7 +25114,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-065",
+              "id": "s01e07-4-060",
               "it": "«**Alto**. Americano.»",
               "en": "“**Tall**. American.”",
               "voice": [
@@ -26092,7 +25160,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-066",
+              "id": "s01e07-4-061",
               "it": "Kevin alza la testa, contento.",
               "en": "Kevin raises his head, pleased.",
               "voice": [
@@ -26160,7 +25228,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-067",
+              "id": "s01e07-4-062",
               "it": "_Alto e americano. Le **persone** **gentili** dicono così._",
               "en": "_Tall and American. **Kind** **people** say that._",
               "voice": [
@@ -26262,7 +25330,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-068",
+              "id": "s01e07-4-063",
               "it": "Ma Franco parla piano, quasi tra sé.",
               "en": "But Franco speaks quietly, almost to himself.",
               "voice": [
@@ -26350,7 +25418,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-069",
+              "id": "s01e07-4-064",
               "it": "«...e inutile» dice Franco.",
               "en": "“...and useless,” says Franco.",
               "voice": [
@@ -26418,7 +25486,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-070",
+              "id": "s01e07-4-065",
               "it": "Kevin non sente. Matteo sente tutto.",
               "en": "Kevin doesn't hear. Matteo hears everything.",
               "voice": [
@@ -26496,7 +25564,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-071",
+              "id": "s01e07-4-066",
               "it": "«Papà!»",
               "en": "“Dad!”",
               "voice": [
@@ -26529,7 +25597,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-072",
+              "id": "s01e07-4-067",
               "it": "«Che c'è?»",
               "en": "“What is it?”",
               "voice": [
@@ -26572,7 +25640,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-073",
+              "id": "s01e07-4-068",
               "it": "«Niente. Niente.»",
               "en": "“Nothing. Nothing.”",
               "voice": [
@@ -26615,7 +25683,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-074",
+              "id": "s01e07-4-069",
               "it": "Kevin beve il caffè e chiude l'**elenco**.",
               "en": "Kevin drinks his coffee and closes the **list**.",
               "voice": [
@@ -26716,7 +25784,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-075",
+              "id": "s01e07-4-070",
               "it": "«Matteo, ti **racconto** una cosa» dice Kevin.",
               "en": "“Matteo, let me **tell** you something,” says Kevin.",
               "voice": [
@@ -26817,7 +25885,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-076",
+              "id": "s01e07-4-071",
               "it": "«Dimmi» dice Matteo.",
               "en": "“Tell me,” says Matteo.",
               "voice": [
@@ -26875,7 +25943,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-077",
+              "id": "s01e07-4-072",
               "it": "«Leo **racconta** le storie della strada meglio di me.»",
               "en": "“Leo **tells** the street's stories better than I do.”",
               "voice": [
@@ -26991,7 +26059,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-078",
+              "id": "s01e07-4-073",
               "it": "«Ah, sì?»",
               "en": "“Oh, really?”",
               "voice": [
@@ -27034,7 +26102,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-079",
+              "id": "s01e07-4-074",
               "it": "«Sì. Lui **vede** tutto. **Sempre**.»",
               "en": "“Yes. He **sees** everything. **Always**.”",
               "voice": [
@@ -27111,7 +26179,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-080",
+              "id": "s01e07-4-075",
               "it": "Matteo asciuga il bancone e sorride.",
               "en": "Matteo wipes the counter and smiles.",
               "voice": [
@@ -27189,7 +26257,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-081",
+              "id": "s01e07-4-076",
               "it": "«L'americano **racconta** bene le storie» dice Matteo.",
               "en": "“The American **tells** stories well,” says Matteo.",
               "voice": [
@@ -27290,7 +26358,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-082",
+              "id": "s01e07-4-077",
               "it": "Franco non dice niente. Apre il giornale.",
               "en": "Franco says nothing. He opens the newspaper.",
               "voice": [
@@ -27374,7 +26442,7 @@
               ]
             },
             {
-              "id": "s01e07-4-083",
+              "id": "s01e07-4-078",
               "it": "Kevin paga e va verso la porta.",
               "en": "Kevin pays and heads for the door.",
               "voice": [
@@ -27462,7 +26530,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-084",
+              "id": "s01e07-4-079",
               "it": "«A domani, Franco! A domani, Matteo!»",
               "en": "“See you tomorrow, Franco! See you tomorrow, Matteo!”",
               "voice": [
@@ -27545,7 +26613,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-085",
+              "id": "s01e07-4-080",
               "it": "«Ciao» dice Matteo.",
               "en": "“Bye,” says Matteo.",
               "voice": [
@@ -27603,7 +26671,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-4-086",
+              "id": "s01e07-4-081",
               "it": "«Mah» dice Franco.",
               "en": "“Bah,” says Franco.",
               "voice": [
@@ -28629,12 +27697,12 @@
           "segments": [
             {
               "id": "s01e07-5-011",
-              "it": "«Normale? Sempre \"normale\"?»",
+              "it": "«Normale? **Sempre** \"normale\"?»",
               "en": "“Normal? **Always** ‘normal'?”",
               "voice": [
                 [
                   "chiara",
-                  "Normale? Sempre \"normale\"?",
+                  "Normale? **Sempre** \"normale\"?",
                   ""
                 ]
               ],
@@ -28657,7 +27725,7 @@
                 [
                   "Sempre",
                   1,
-                  ""
+                  "b"
                 ],
                 [
                   " \"",
@@ -28674,6 +27742,9 @@
                   -1,
                   ""
                 ]
+              ],
+              "focus": [
+                "v-sempre"
               ]
             }
           ]
@@ -37277,12 +36348,12 @@
           "segments": [
             {
               "id": "s01e07-6-018",
-              "it": "«Anche io. Purtroppo.»",
+              "it": "«**Anche** io. Purtroppo.»",
               "en": "“Me **too**. Unfortunately.”",
               "voice": [
                 [
                   "tommaso",
-                  "Anche io. Purtroppo.",
+                  "**Anche** io. Purtroppo.",
                   "dry"
                 ]
               ],
@@ -37295,7 +36366,7 @@
                 [
                   "Anche",
                   0,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -37322,6 +36393,9 @@
                   -1,
                   ""
                 ]
+              ],
+              "focus": [
+                "v-anche"
               ]
             }
           ]
@@ -42014,12 +41088,55 @@
           "segments": [
             {
               "id": "s01e07-7-015",
-              "it": "«\"Inutile\" è una parola **gentile**?» chiede Kevin.",
-              "en": "“Is ‘useless' a **kind** word?” Kevin asks.",
+              "it": "«Sì. Un'altra.»",
+              "en": "“Yes. Another one.”",
+              "voice": [
+                [
+                  "franco",
+                  "Sì. Un'altra.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Sì",
+                  0,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Un'altra",
+                  1,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e07-7-016",
+              "it": "«È una parola **gentile**?» chiede Kevin.",
+              "en": "“Is it a **kind** word?” Kevin asks.",
               "voice": [
                 [
                   "ben",
-                  "\"Inutile\" è una parola **gentile**?",
+                  "È una parola **gentile**?",
                   ""
                 ],
                 [
@@ -42030,23 +41147,13 @@
               ],
               "tokens": [
                 [
-                  "«\"",
+                  "«",
                   -1,
                   ""
                 ],
                 [
-                  "Inutile",
+                  "È",
                   0,
-                  ""
-                ],
-                [
-                  "\" ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  1,
                   ""
                 ],
                 [
@@ -42056,7 +41163,7 @@
                 ],
                 [
                   "una",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -42066,7 +41173,7 @@
                 ],
                 [
                   "parola",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -42076,7 +41183,7 @@
                 ],
                 [
                   "gentile",
-                  4,
+                  3,
                   "b"
                 ],
                 [
@@ -42086,7 +41193,7 @@
                 ],
                 [
                   "chiede",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -42096,7 +41203,7 @@
                 ],
                 [
                   "Kevin",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -42114,13 +41221,13 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-016",
-              "it": "«No» dice Franco.",
-              "en": "“No,” says Franco.",
+              "id": "s01e07-7-017",
+              "it": "«Mah» dice Franco.",
+              "en": "“Bah,” says Franco.",
               "voice": [
                 [
                   "franco",
-                  "No",
+                  "Mah",
                   ""
                 ],
                 [
@@ -42136,7 +41243,7 @@
                   ""
                 ],
                 [
-                  "No",
+                  "Mah",
                   0,
                   ""
                 ],
@@ -42172,29 +41279,94 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-017",
-              "it": "«Ah.»",
-              "en": "“Ah.”",
+              "id": "s01e07-7-018",
+              "it": "Matteo asciuga un bicchiere e non guarda nessuno.",
+              "en": "Matteo dries a glass and looks at no one.",
               "voice": [
                 [
-                  "ben",
-                  "Ah.",
+                  "narrator",
+                  "Matteo asciuga un bicchiere e non guarda nessuno.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
+                  "Matteo",
                   0,
                   ""
                 ],
                 [
-                  ".»",
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "asciuga",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "un",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bicchiere",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "non",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "guarda",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nessuno",
+                  7,
+                  ""
+                ],
+                [
+                  ".",
                   -1,
                   ""
                 ]
@@ -42205,7 +41377,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-018",
+              "id": "s01e07-7-019",
               "it": "_Sono **alto** e americano. Il resto non è importante._",
               "en": "_I'm **tall** and American. The rest isn't important._",
               "voice": [
@@ -42316,7 +41488,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-019",
+              "id": "s01e07-7-020",
               "it": "Matteo mette il caffè davanti a Kevin.",
               "en": "Matteo puts the coffee in front of Kevin.",
               "voice": [
@@ -42404,7 +41576,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-020",
+              "id": "s01e07-7-021",
               "it": "«Kevin, tu sei **simpatico**» dice Matteo.",
               "en": "“Kevin, you're **nice**,” says Matteo.",
               "voice": [
@@ -42495,7 +41667,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-021",
+              "id": "s01e07-7-022",
               "it": "«Grazie, Matteo.»",
               "en": "“Thanks, Matteo.”",
               "voice": [
@@ -42538,7 +41710,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-022",
+              "id": "s01e07-7-023",
               "it": "«E **anche** un bravo **signore**» dice Matteo.",
               "en": "“And a good **gentleman**, **too**,” says Matteo.",
               "voice": [
@@ -42640,7 +41812,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-023",
+              "id": "s01e07-7-024",
               "it": "Kevin apre l'**elenco** e **racconta** la sua storia a Matteo.",
               "en": "Kevin opens the **list** and **tells** his story to Matteo.",
               "voice": [
@@ -42768,7 +41940,7 @@
               ]
             },
             {
-              "id": "s01e07-7-024",
+              "id": "s01e07-7-025",
               "it": "Franco ascolta, ma non dice niente.",
               "en": "Franco listens, but says nothing.",
               "voice": [
@@ -42846,7 +42018,7 @@
         {
           "segments": [
             {
-              "id": "s01e07-7-025",
+              "id": "s01e07-7-026",
               "it": "«Bah» dice Franco.",
               "en": "“Bah,” says Franco.",
               "voice": [

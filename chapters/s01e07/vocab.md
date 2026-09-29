@@ -10,7 +10,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|---|
 | **descrivere**<br>(v.) · to describe | «E **descrivi** anche me?» | “And do you **describe** me too?” |
 | **raccontare**<br>(v.) · to tell | «Io non **racconto** niente.» | “I **tell** nothing.” |
-| **vedere**<br>(v.) · to see | Bianca **vede** tutto e sorride. | Bianca **sees** everything and smiles. |
+| **vedere**<br>(v.) · to see | «Io non **vedo** niente!» | “I don't **see** anything!” |
 
 ## Nouns
 
@@ -26,7 +26,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il signore**<br>(n., m) · man, gentleman | «Il **signore** dietro il giornale!» | “The **gentleman** behind the newspaper!” |
 | **l'elenco**<br>(n., m) · list | «Un **elenco**. Un elenco delle persone.» | “A **list**. A list of the people.” |
 | **il foglio**<br>(n., m) · sheet of paper | «Tu disegni nei **fogli**?» | “Do you draw on the **sheets**?” asks Leo. |
-| **la compagna**<br>(n., f) · classmate | «E le **compagne** raccontano tutto?» | “And **classmates** tell everything?” |
+| **la compagna**<br>(n., f) · classmate | «Sei la **compagna** di Bianca, vero?» chiede Tommaso. | “You're Bianca's **classmate**, right?” Tommaso asks. |
 | **il viaggio**<br>(n., m) · trip, journey | Ma il **viaggio** con Bianca è lungo. | But the **trip** with Bianca is long. |
 
 ## Adjectives
@@ -34,7 +34,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **alto**<br>(adj.) · tall | «Sei **alto**» dice Leo. | “You're **tall**,” says Leo. |
-| **basso**<br>(adj.) · short (in height) | «**Basso**? In che senso?» | “**Short**? In what sense?” |
+| **basso**<br>(adj.) · short (in height) | «**Basso** e simpatico» ripete Kevin. | “**Short** and nice,” Kevin repeats. |
 | **simpatico**<br>(adj.) · nice, likeable | «È una faccia **simpatica**.» | “It's a nice **face**.” |
 | **antipatico**<br>(adj.) · unpleasant, unlikeable | «Ma gentile o **antipatica**?» chiede Kevin. | “But kind or **unpleasant**?” Kevin asks. |
 | **gentile**<br>(adj.) · kind | «Sì. E anche **gentili**.» | “Yes. And kind **too**.” |

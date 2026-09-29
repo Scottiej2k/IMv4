@@ -25,7 +25,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma **vede** il **ragazzo** per un secondo. | Emma **sees** the **boy** for a second. |
 | «Boh» dice Emma. | “Dunno,” says Emma. |
 | «Dai, Emma! Tu **vedi** **sempre** quel **ragazzo**.» | “Come on, Emma! You **always** **see** that **boy**.” |
-| «No. Io **vedo** il finestrino.» | “No. I see the window.” |
+| «No. Io **vedo** il finestrino.» | “No. I **see** the window.” |
 | «Il finestrino è **molto** **bello**, vero?» | “The window is **very** **beautiful**, isn't it?” |
 | _Che ansia._ | _So stressful._ |
 | «Com'è il **ragazzo**? È **alto**? È **basso**?» | “What's the **boy** like? Is he **tall**? Is he **short**?” |
@@ -46,20 +46,15 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E **descrivi** **anche** me?» | “And do you **describe** me **too**?” |
 | «Certo. Sei **timida** e **intelligente**.» | “Of course. You're **shy** and **smart**.” |
 | «Grazie» dice Emma, senza ridere. | “Thanks,” says Emma, without laughing. |
-| «Ho una **domanda**» dice Emma. | “I have a **question**,” says Emma. |
+| «Ho una **domanda** per te» dice Emma. | “I have a **question** for you,” says Emma. |
 | «Sono pronta» dice Bianca. | “I'm ready,” says Bianca. |
-| Emma chiude gli **occhi** un momento. | Emma closes her **eyes** for a moment. |
-| «Una **domanda** difficile» dice Bianca. | “A difficult **question**,” says Bianca. |
 | «Perché fai tante **domande**?» chiede Emma. | “Why do you ask so many **questions**?” Emma asks. |
-| «Perché sono la tua **compagna** di banco.» | “Because I'm your **classmate**.” |
-| «E le **compagne** **raccontano** tutto?» | “And **classmates** **tell** everything?” |
-| «Le **compagne** e le amiche sì» dice Bianca. | “**Classmates** and friends do,” says Bianca. |
+| «Perché sono la tua **compagna** di banco. Le **compagne** **raccontano** tutto.» | “Because I'm your **classmate**. **Classmates** **tell** everything.” |
 | «Io non **racconto** niente.» | “I **tell** nothing.” |
 | «Appunto. Tu sei **timida**.» | “Exactly. You're **shy**.” |
-| «E **anche** lui è **timido**.» | “And he's **shy** **too**.” |
-| «**Anche** il **signore** dorme, ma non è **timido**.» | “The **gentleman** sleeps **too**, but he's not **shy**.” |
-| «E il **signore**? Che cosa fa?» chiede Bianca. | “And the **gentleman**? What's he doing?” Bianca asks. |
-| «Il **signore** dorme. Non è importante» dice Bianca. | “The **gentleman** is sleeping. He's not important,” says Bianca. |
+| «**Anche** lui è **timido**» dice Emma piano. | “He's **shy** **too**,” says Emma quietly. |
+| «Ah! Vedi? Tu **vedi** bene!» | “Ah! See? You **see** well!” |
+| «Io non **vedo** niente!» | “I don't **see** anything!” |
 | Il treno va veloce. Fuori ci sono case e alberi. | The train goes fast. Outside there are houses and trees. |
 | Il **signore** senza **capelli** apre gli **occhi**. | The **gentleman** with no **hair** opens his **eyes**. |
 | Guarda il **ragazzo** e poi dorme ancora. | He looks at the **boy** and then sleeps again. |
@@ -180,7 +175,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | È lunedì pomeriggio. Kevin e Leo camminano in Via dei Tigli. | It's Monday afternoon. Kevin and Leo walk on Via dei Tigli. |
-| Kevin ha il **quaderno** giallo in mano. | Kevin has the yellow notebook in his hand. |
+| Kevin ha il **quaderno** giallo in mano. | Kevin has the yellow **notebook** in his hand. |
 | «Leo, oggi facciamo una cosa importante» dice Kevin. | “Leo, today we're doing something important,” says Kevin. |
 | «Che cosa?» chiede Leo. | “What?” Leo asks. |
 | «Un **elenco**. Un **elenco** delle **persone**.» | “A **list**. A **list** of the **people**.” |
@@ -272,16 +267,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco è al bancone con un caffè piccolo. | Franco is at the counter with a small coffee. |
 | Fuori c'è ancora poca luce. | Outside there's still little light. |
 | «Papà, come stai oggi?» chiede Matteo. | “Dad, how are you today?” Matteo asks. |
-| «**Basso**» dice Franco. | “**Short**,” says Franco. |
-| «**Basso**? In che senso?» | “**Short**? In what sense?” |
-| «Nel senso che sono **basso**. La testa è bassa.» | “In the sense that I'm **short**. My head is low.” |
-| «Papà, tu non sei **basso**. Sei di statura normale.» | “Dad, you're not **short**. You're of normal height.” |
 | «Mah» dice Franco. | “Bah,” says Franco. |
 | Matteo ride e prende un altro bicchiere. | Matteo laughs and takes another glass. |
 | In quel momento la porta del bar si apre. | At that moment the bar door opens. |
 | Entra Kevin, con il **quaderno** giallo sotto il braccio. | Kevin comes in, with the yellow **notebook** under his arm. |
 | Ma Franco non lo **vede**. | But Franco doesn't **see** him. |
-| «Il mio genero è **alto**» dice Franco a Matteo. | “My son-in-law is **tall**,” Franco says to Matteo. |
 | «È **alto**, è americano...» | “He's **tall**, he's American...” |
 | Kevin sente le prime parole e si ferma. | Kevin hears the first words and stops. |
 | «**Alto** e americano!» dice Kevin, felice. | “**Tall** and American!” says Kevin, happy. |
@@ -368,7 +358,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin serve la pasta a tutti. | Kevin serves pasta to everyone. |
 | «Allora, com'è la scuola?» chiede Chiara. | “So, how's school?” Chiara asks. |
 | «Normale» dice Emma. | “Normal,” says Emma. |
-| «Normale? Sempre "normale"?» | “Normal? **Always** ‘normal'?” |
+| «Normale? **Sempre** "normale"?» | “Normal? **Always** ‘normal'?” |
 | «Sì. Scuola, lezione, treno, casa.» | “Yes. School, class, train, home.” |
 | «E Bianca?» chiede Leo. | “And Bianca?” Leo asks. |
 | «Bianca è **simpatica**» dice Emma. | “Bianca is **nice**,” says Emma. |
@@ -472,7 +462,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **signore** dietro il giornale!» | “The **gentleman** behind the newspaper!” |
 | «Sì. **Sempre** con il giornale. E **sempre** con il regolamento.» | “Yes. **Always** with the newspaper. And **always** with the rules.” |
 | «Lo **vedo** ogni mattina» dice Emma. | “I **see** him every morning,” says Emma. |
-| «Anche io. Purtroppo.» | “Me **too**. Unfortunately.” |
+| «**Anche** io. Purtroppo.» | “Me **too**. Unfortunately.” |
 | Emma lo guarda meglio. | Emma looks at him more closely. |
 | Il **ragazzo** è **alto** e magro. | The **boy** is **tall** and thin. |
 | Ha i **capelli** neri e gli **occhi** tranquilli. | He has black **hair** and calm **eyes**. |
@@ -539,9 +529,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Parli **sempre** di me: **alto**, americano...» | “You **always** talk about me: **tall**, American...” |
 | «Sì.» | “Yes.” |
 | «E poi? Un'altra parola?» | “And then? Another word?” |
-| «"Inutile" è una parola **gentile**?» chiede Kevin. | “Is ‘useless' a **kind** word?” Kevin asks. |
-| «No» dice Franco. | “No,” says Franco. |
-| «Ah.» | “Ah.” |
+| «Sì. Un'altra.» | “Yes. Another one.” |
+| «È una parola **gentile**?» chiede Kevin. | “Is it a **kind** word?” Kevin asks. |
+| «Mah» dice Franco. | “Bah,” says Franco. |
+| Matteo asciuga un bicchiere e non guarda nessuno. | Matteo dries a glass and looks at no one. |
 | _Sono **alto** e americano. Il resto non è importante._ | _I'm **tall** and American. The rest isn't important._ |
 | Matteo mette il caffè davanti a Kevin. | Matteo puts the coffee in front of Kevin. |
 | «Kevin, tu sei **simpatico**» dice Matteo. | “Kevin, you're **nice**,” says Matteo. |
