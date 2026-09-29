@@ -48,13 +48,13 @@ Leo prende una **penna** dal tavolo. «E tu **rispondi**.»
 
 Leo guarda le foto con curiosità. «Come si chiamano?»
 
-«**Mia** madre si chiama Dorothy. **Mio** padre si chiama Robert.»
+«**Mia** madre si chiama Linda. **Mio** padre si chiama Doug.»
 
-Leo scrive i due **nomi** nei quadrati. «Dorothy e Robert. E tu sei il **loro** figlio.»
+Leo scrive i due **nomi** nei quadrati. «Linda e Doug. E tu sei il **loro** figlio.»
 
 «Sì. Io sono il **loro** figlio.»
 
-«E dove sono Dorothy e Robert?»
+«E dove sono Linda e Doug?»
 
 «In Ohio. **Lontano**.»
 
@@ -88,7 +88,7 @@ In quel momento Chiara entra in cucina con la borsa. «Ciao! Che cosa fate qui?�
 
 «Bello! E questi chi sono?»
 
-«I **miei** **genitori**, Dorothy e Robert.»
+«I **miei** **genitori**, Linda e Doug.»
 
 Chiara guarda il foglio e poi guarda Kevin. «Kevin, qui c'è la parola “parenti”?»
 
@@ -200,7 +200,7 @@ Kevin scrive un'ultima parola nel quaderno. «Parola ventuno: **insieme**.»
 
 «Un **giornalista**? Mah!»
 
-«Sì. Io **chiedo**, tu **rispondi**.»
+«Sì. Io chiedo, tu **rispondi**.»
 
 «Io **rispondo**. Ma tu non scrivi male il **mio** **nome**.»
 
@@ -560,7 +560,7 @@ Franco prende una foto piccola e la guarda. «Questo è **mio** **padre**. E que
 
 «Belli i **nomi**. Rosa e Pietro.»
 
-Kevin guarda un'altra foto e indica un uomo. «E questo signore chi è?»
+Kevin guarda un'altra foto e indica un uomo. «E questo bambino chi è?»
 
 «Questo è **mio** **figlio** Matteo da piccolo.»
 
@@ -570,7 +570,7 @@ Kevin guarda un'altra foto e indica un uomo. «E questo signore chi è?»
 
 Kevin guarda Franco e sorride. «Quindi lei è **tua** **figlia**.»
 
-«Sì. **Mia** **figlia**. E Chiara è la **tua** moglie.»
+«Sì. **Mia** **figlia**. E Chiara è **tua** moglie.»
 
 «Sì. Chiara è **mia** moglie.»
 
@@ -578,7 +578,11 @@ Kevin guarda Franco e sorride. «Quindi lei è **tua** **figlia**.»
 
 Kevin aspetta una parola in più. «Quindi io sono...?»
 
-Franco mette giù la foto e guarda Kevin. «Tu sei **mio** **genero**.»
+Franco mette giù la foto e guarda Kevin. «Tu sei... l'americano.»
+
+«Papà! Kevin è **tuo** **genero**.»
+
+«Mah.»
 
 Kevin resta fermo con la bocca aperta. «**Genero**? Che bella parola!»
 
@@ -588,13 +592,7 @@ Kevin resta fermo con la bocca aperta. «**Genero**? Che bella parola!»
 
 «La **penna** è di Chiara. Non scrivere sulla mia scatola.»
 
-«No, no. Scrivo nel quaderno.» Kevin apre il quaderno giallo e scrive. «“**Genero**”. È una parola nuova per me.» Sulla sedia vicino alla finestra c'è una sciarpa rossa. Kevin la vede. La guarda per due secondi. _Una sciarpa rossa. Non è di Franco._ Chiara guarda le foto e non la vede. _Vedo un **ramo** nuovo dell'albero. Ma non parlo._ _È il segreto di Franco. E adesso è anche il mio._ Franco guarda Kevin e poi guarda la sedia. Va verso la sedia e prende la sciarpa.
-
-«Questa è... di Anna.»
-
-«Bella. Rossa.»
-
-«Sì. Rossa come il pomodoro.» Franco apre un cassetto e mette dentro la sciarpa. Poi chiude il cassetto con calma.
+«No, no. Scrivo nel quaderno.» Kevin apre il quaderno giallo e scrive. «“**Genero**”. È una parola nuova per me.» Sulla sedia vicino alla finestra c'è una sciarpa rossa. Kevin la vede. La guarda per due secondi. _Una sciarpa rossa. Non è di Franco._ Chiara guarda le foto e non la vede. _Vedo un **ramo** nuovo dell'albero. Ma non parlo._ _È il segreto di Franco. E adesso è anche il mio._ Franco guarda Kevin e poi guarda la sedia. Va verso la sedia e prende la sciarpa. Poi chiude il cassetto con calma.
 
 Chiara è ancora con le foto in mano. «Papà, posso tenere questa?»
 
@@ -612,7 +610,7 @@ Franco prende la **penna** dal tavolo e la restituisce a Chiara. «Adesso il caf
 
 Franco guarda Kevin con una faccia strana. «L'americano beve il tè.»
 
-«Sì. E l'americano è **mio** **genero**.» Franco non risponde. Va in cucina.
+«Sì. E l'americano è **tuo** **genero**.» Franco non risponde. Va in cucina.
 
 Chiara mette la foto nella borsa. «Grazie, Kevin. Tu sei **insieme** a me.»
 
@@ -730,7 +728,7 @@ Chiara guarda Leo e mette una mano sulla **sua** testa. «Leo, domani finiamo in
 
 «**Per sempre**? È una bella parola.»
 
-«Sì. La famiglia è per sempre.» Emma è ancora vicino al foglio. Guarda il quadrato dell'Olio e il quadrato dell'Ohio.
+«Sì. La famiglia è per sempre.» Emma è ancora vicino al foglio. Guarda il quadrato dell'Ohio.
 
 _Non lo dico, ma l'albero mi piace. È **davvero** bello._ «Che ansia.» Emma va verso le scale e poi si ferma. «Leo, domani mi aiuti a scrivere una parola?»
 
@@ -853,57 +851,3 @@ Leo prende lo zaino e va alla porta. «A lunedì prossimo!»
 «**Vero**. Sempre bene.» La porta si chiude piano e la casa torna silenziosa.
 
 Ornella guarda il foglio sul tavolo. _Un albero genealogico **davvero** strano._ _E il più **vero**._
-
-## 7. Bar Tigli · lunedì sera
-
-È lunedì sera e il Bar Tigli è quasi vuoto. Leo entra con il foglio finale dell'albero. Kevin è con lui. Nadia è al banco. «Nadia! Guarda il foglio finito!»
-
-Nadia prende il foglio e lo guarda bene. «Perché il **mio** **nome** ha ancora il **punto interrogativo**?»
-
-«Perché non sei **mia** zia.»
-
-«Ah. Certo.»
-
-Matteo arriva dal retro con un bicchiere. «Nadia, il **punto interrogativo** è simpatico.»
-
-«Per te.»
-
-Franco entra nel bar e si siede al banco. «Un caffè.» Matteo prepara il caffè e lo mette davanti a Franco. Franco beve e poi guarda Nadia. «Nadia, e il **matrimonio**?»
-
-«**Mai**.»
-
-«Palla al centro.»
-
-«**Mai**.»
-
-«Mah.»
-
-Kevin apre il quaderno giallo e scrive. «**Nome**: Nadia Benali. **Vero**?»
-
-Nadia guarda Kevin e sorride appena. «Sì. **Vero**.»
-
-«E accanto al **nome** scrivo “**punto interrogativo**”.»
-
-«Va bene. Non è un errore.»
-
-«È un **punto interrogativo** della famiglia.»
-
-Leo e Nadia guardano il foglio **insieme**. «Leo, “**mai**” e “**mai**” sono **uguale**.»
-
-«Sì. **Uguale**.»
-
-«Allora va bene. Il **mio** **nome** resta qui.» Franco beve il caffè in silenzio. Matteo asciuga il bicchiere e fischia piano.
-
-Kevin chiude il quaderno giallo. «Perfetto. Il foglio è **vero**. È finito.»
-
-«Sì. Ma resta il **punto interrogativo**.»
-
-«**Mai** e **mai** sono **uguale**.»
-
-«Esatto, Leo.»
-
-Franco mette giù la tazzina e si alza. «Vado. Il caffè è freddo.»
-
-«**Mai**?»
-
-«**Mai**.» La porta si chiude e il bar torna tranquillo.

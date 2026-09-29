@@ -29,10 +29,10 @@
       "lemma": "il genero",
       "pos": "noun",
       "en": "son-in-law",
-      "example": "s01e12-4-073",
+      "example": "s01e12-4-077",
       "target": {
-        "it": "genero",
-        "en": "genero"
+        "it": "Genero",
+        "en": "Son-in-law"
       },
       "gender": "m"
     },
@@ -101,10 +101,10 @@
       "lemma": "il nome",
       "pos": "noun",
       "en": "name",
-      "example": "s01e12-7-022",
+      "example": "s01e12-1-109",
       "target": {
-        "it": "Nome",
-        "en": "Name"
+        "it": "nome",
+        "en": "name"
       },
       "gender": "m"
     },
@@ -154,17 +154,6 @@
         "en": "pen"
       },
       "gender": "f"
-    },
-    {
-      "id": "v-chiedere",
-      "lemma": "chiedere",
-      "pos": "verb",
-      "en": "to ask",
-      "example": "s01e12-2-012",
-      "target": {
-        "it": "chiedo",
-        "en": "ask"
-      }
     },
     {
       "id": "v-rispondere",
@@ -226,10 +215,10 @@
       "lemma": "solo",
       "pos": "adjective",
       "en": "only, alone",
-      "example": "s01e12-1-117",
+      "example": "s01e12-4-023",
       "target": {
-        "it": "solo",
-        "en": "only"
+        "it": "sola",
+        "en": "By herself"
       }
     },
     {
@@ -3018,12 +3007,12 @@
           "segments": [
             {
               "id": "s01e12-1-035",
-              "it": "«**Mia** madre si chiama Dorothy. **Mio** padre si chiama Robert.»",
-              "en": "“**My** mother's name is Dorothy. **My** father's name is Robert.”",
+              "it": "«**Mia** madre si chiama Linda. **Mio** padre si chiama Doug.»",
+              "en": "“**My** mother's name is Linda. **My** father's name is Doug.”",
               "voice": [
                 [
                   "ben",
-                  "**Mia** madre si chiama Dorothy. **Mio** padre si chiama Robert.",
+                  "**Mia** madre si chiama Linda. **Mio** padre si chiama Doug.",
                   ""
                 ]
               ],
@@ -3074,7 +3063,7 @@
                   ""
                 ],
                 [
-                  "Dorothy",
+                  "Linda",
                   4,
                   ""
                 ],
@@ -3124,7 +3113,7 @@
                   ""
                 ],
                 [
-                  "Robert",
+                  "Doug",
                   9,
                   ""
                 ],
@@ -3231,12 +3220,12 @@
             },
             {
               "id": "s01e12-1-037",
-              "it": "«Dorothy e Robert. E tu sei il **loro** figlio.»",
-              "en": "“Dorothy and Robert. And you are **their** son.”",
+              "it": "«Linda e Doug. E tu sei il **loro** figlio.»",
+              "en": "“Linda and Doug. And you are **their** son.”",
               "voice": [
                 [
                   "leo",
-                  "Dorothy e Robert. E tu sei il **loro** figlio.",
+                  "Linda e Doug. E tu sei il **loro** figlio.",
                   ""
                 ]
               ],
@@ -3247,7 +3236,7 @@
                   ""
                 ],
                 [
-                  "Dorothy",
+                  "Linda",
                   0,
                   ""
                 ],
@@ -3267,7 +3256,7 @@
                   ""
                 ],
                 [
-                  "Robert",
+                  "Doug",
                   2,
                   ""
                 ],
@@ -3433,12 +3422,12 @@
           "segments": [
             {
               "id": "s01e12-1-039",
-              "it": "«E dove sono Dorothy e Robert?»",
-              "en": "“And where are Dorothy and Robert?”",
+              "it": "«E dove sono Linda e Doug?»",
+              "en": "“And where are Linda and Doug?”",
               "voice": [
                 [
                   "leo",
-                  "E dove sono Dorothy e Robert?",
+                  "E dove sono Linda e Doug?",
                   ""
                 ]
               ],
@@ -3479,7 +3468,7 @@
                   ""
                 ],
                 [
-                  "Dorothy",
+                  "Linda",
                   3,
                   ""
                 ],
@@ -3499,7 +3488,7 @@
                   ""
                 ],
                 [
-                  "Robert",
+                  "Doug",
                   5,
                   ""
                 ],
@@ -4989,12 +4978,12 @@
           "segments": [
             {
               "id": "s01e12-1-059",
-              "it": "«I **miei** **genitori**, Dorothy e Robert.»",
-              "en": "“**My** **parents**, Dorothy and Robert.”",
+              "it": "«I **miei** **genitori**, Linda e Doug.»",
+              "en": "“**My** **parents**, Linda and Doug.”",
               "voice": [
                 [
                   "ben",
-                  "I **miei** **genitori**, Dorothy e Robert.",
+                  "I **miei** **genitori**, Linda e Doug.",
                   ""
                 ]
               ],
@@ -5035,7 +5024,7 @@
                   ""
                 ],
                 [
-                  "Dorothy",
+                  "Linda",
                   3,
                   ""
                 ],
@@ -5055,7 +5044,7 @@
                   ""
                 ],
                 [
-                  "Robert",
+                  "Doug",
                   5,
                   ""
                 ],
@@ -11355,12 +11344,12 @@
           "segments": [
             {
               "id": "s01e12-2-012",
-              "it": "«Sì. Io **chiedo**, tu **rispondi**.»",
-              "en": "“Yes. I **ask**, you **answer**.”",
+              "it": "«Sì. Io chiedo, tu **rispondi**.»",
+              "en": "“Yes. I ask, you **answer**.”",
               "voice": [
                 [
                   "leo",
-                  "Sì. Io **chiedo**, tu **rispondi**.",
+                  "Sì. Io chiedo, tu **rispondi**.",
                   ""
                 ]
               ],
@@ -11393,7 +11382,7 @@
                 [
                   "chiedo",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -11422,7 +11411,6 @@
                 ]
               ],
               "focus": [
-                "v-chiedere",
                 "g-possessives"
               ]
             }
@@ -28825,7 +28813,7 @@
             {
               "id": "s01e12-4-023",
               "it": "«Da **sola**? Senza voi?»",
-              "en": "“By herself? Without you two?”",
+              "en": "“**By herself**? Without you two?”",
               "voice": [
                 [
                   "ben",
@@ -32018,12 +32006,12 @@
             },
             {
               "id": "s01e12-4-061",
-              "it": "«E questo signore chi è?»",
-              "en": "“And who is this gentleman?”",
+              "it": "«E questo bambino chi è?»",
+              "en": "“And who is this boy?”",
               "voice": [
                 [
                   "ben",
-                  "E questo signore chi è?",
+                  "E questo bambino chi è?",
                   ""
                 ]
               ],
@@ -32054,7 +32042,7 @@
                   ""
                 ],
                 [
-                  "signore",
+                  "bambino",
                   2,
                   ""
                 ],
@@ -32456,12 +32444,12 @@
           "segments": [
             {
               "id": "s01e12-4-067",
-              "it": "«Sì. **Mia** **figlia**. E Chiara è la **tua** moglie.»",
+              "it": "«Sì. **Mia** **figlia**. E Chiara è **tua** moglie.»",
               "en": "“Yes. **My** **daughter**. And Chiara is **your** wife.”",
               "voice": [
                 [
                   "franco",
-                  "Sì. **Mia** **figlia**. E Chiara è la **tua** moglie.",
+                  "Sì. **Mia** **figlia**. E Chiara è **tua** moglie.",
                   ""
                 ]
               ],
@@ -32532,18 +32520,8 @@
                   ""
                 ],
                 [
-                  "la",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "tua",
-                  7,
+                  6,
                   "b"
                 ],
                 [
@@ -32553,7 +32531,7 @@
                 ],
                 [
                   "moglie",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -32975,13 +32953,13 @@
             },
             {
               "id": "s01e12-4-073",
-              "it": "«Tu sei **mio** **genero**.»",
-              "en": "“You are **my** **genero**.”",
+              "it": "«Tu sei... l'americano.»",
+              "en": "“You are... the American.”",
               "voice": [
                 [
                   "franco",
-                  "Tu sei **mio** **genero**.",
-                  ""
+                  "Tu sei... l'americano.",
+                  "dry"
                 ]
               ],
               "tokens": [
@@ -33006,13 +32984,76 @@
                   ""
                 ],
                 [
+                  "... ",
+                  -1,
+                  ""
+                ],
+                [
+                  "l'americano",
+                  2,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e12-4-074",
+              "it": "«Papà! Kevin è **tuo** **genero**.»",
+              "en": "“Dad! Kevin is your **son-in-law**.”",
+              "voice": [
+                [
+                  "chiara",
+                  "Papà! Kevin è **tuo** **genero**.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Papà",
+                  0,
+                  ""
+                ],
+                [
+                  "! ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  1,
+                  ""
+                ],
+                [
                   " ",
                   -1,
                   ""
                 ],
                 [
-                  "mio",
+                  "è",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tuo",
+                  3,
                   "b"
                 ],
                 [
@@ -33022,7 +33063,7 @@
                 ],
                 [
                   "genero",
-                  3,
+                  4,
                   "b"
                 ],
                 [
@@ -33041,7 +33082,40 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-074",
+              "id": "s01e12-4-075",
+              "it": "«Mah.»",
+              "en": "“Bah.”",
+              "voice": [
+                [
+                  "franco",
+                  "Mah.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Mah",
+                  0,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s01e12-4-076",
               "it": "Kevin resta fermo con la bocca aperta.",
               "en": "Kevin stands still with his mouth open.",
               "voice": [
@@ -33125,7 +33199,7 @@
               ]
             },
             {
-              "id": "s01e12-4-075",
+              "id": "s01e12-4-077",
               "it": "«**Genero**? Che bella parola!»",
               "en": "“**Son-in-law**? What a nice word!”",
               "voice": [
@@ -33191,7 +33265,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-076",
+              "id": "s01e12-4-078",
               "it": "«Non applaudire.»",
               "en": "“Don't clap.”",
               "voice": [
@@ -33234,7 +33308,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-077",
+              "id": "s01e12-4-079",
               "it": "«Non applaudo. Scrivo.»",
               "en": "“I'm not clapping. I'm writing.”",
               "voice": [
@@ -33283,7 +33357,7 @@
               ]
             },
             {
-              "id": "s01e12-4-078",
+              "id": "s01e12-4-080",
               "it": "Kevin prende la **penna** dal tavolo.",
               "en": "Kevin takes the **pen** from the table.",
               "voice": [
@@ -33364,7 +33438,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-079",
+              "id": "s01e12-4-081",
               "it": "«La **penna** è di Chiara. Non scrivere sulla mia scatola.»",
               "en": "“The **pen** is Chiara's. Don't write on my box.”",
               "voice": [
@@ -33490,7 +33564,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-080",
+              "id": "s01e12-4-082",
               "it": "«No, no. Scrivo nel quaderno.»",
               "en": "“No, no. I write in my notebook.”",
               "voice": [
@@ -33559,7 +33633,7 @@
               ]
             },
             {
-              "id": "s01e12-4-081",
+              "id": "s01e12-4-083",
               "it": "Kevin apre il quaderno giallo e scrive.",
               "en": "Kevin opens the yellow notebook and writes.",
               "voice": [
@@ -33643,7 +33717,7 @@
               ]
             },
             {
-              "id": "s01e12-4-082",
+              "id": "s01e12-4-084",
               "it": "«“**Genero**”. È una parola nuova per me.»",
               "en": "“‘**Son-in-law**.’ It's a new word for me.”",
               "voice": [
@@ -33735,7 +33809,7 @@
               ]
             },
             {
-              "id": "s01e12-4-083",
+              "id": "s01e12-4-085",
               "it": "Sulla sedia vicino alla finestra c'è una sciarpa rossa.",
               "en": "On the chair near the window there's a red scarf.",
               "voice": [
@@ -33839,7 +33913,7 @@
               ]
             },
             {
-              "id": "s01e12-4-084",
+              "id": "s01e12-4-086",
               "it": "Kevin la vede. La guarda per due secondi.",
               "en": "Kevin sees it. He looks at it for two seconds.",
               "voice": [
@@ -33933,7 +34007,7 @@
               ]
             },
             {
-              "id": "s01e12-4-085",
+              "id": "s01e12-4-087",
               "it": "_Una sciarpa rossa. Non è di Franco._",
               "en": "_A red scarf. It isn't Franco's._",
               "voice": [
@@ -34017,7 +34091,7 @@
               ]
             },
             {
-              "id": "s01e12-4-086",
+              "id": "s01e12-4-088",
               "it": "Chiara guarda le foto e non la vede.",
               "en": "Chiara looks at the photos and doesn't see it.",
               "voice": [
@@ -34111,7 +34185,7 @@
               ]
             },
             {
-              "id": "s01e12-4-087",
+              "id": "s01e12-4-089",
               "it": "_Vedo un **ramo** nuovo dell'albero. Ma non parlo._",
               "en": "_I see a new **branch** of the tree. But I don't say anything._",
               "voice": [
@@ -34208,7 +34282,7 @@
               ]
             },
             {
-              "id": "s01e12-4-088",
+              "id": "s01e12-4-090",
               "it": "_È il segreto di Franco. E adesso è anche il mio._",
               "en": "_It's Franco's secret. And now it's mine too._",
               "voice": [
@@ -34332,7 +34406,7 @@
               ]
             },
             {
-              "id": "s01e12-4-089",
+              "id": "s01e12-4-091",
               "it": "Franco guarda Kevin e poi guarda la sedia.",
               "en": "Franco looks at Kevin and then at the chair.",
               "voice": [
@@ -34426,7 +34500,7 @@
               ]
             },
             {
-              "id": "s01e12-4-090",
+              "id": "s01e12-4-092",
               "it": "Va verso la sedia e prende la sciarpa.",
               "en": "He goes toward the chair and picks up the scarf.",
               "voice": [
@@ -34518,292 +34592,9 @@
                   ""
                 ]
               ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-4-091",
-              "it": "«Questa è... di Anna.»",
-              "en": "“This is... Anna's.”",
-              "voice": [
-                [
-                  "franco",
-                  "Questa è... di Anna.",
-                  "slow"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Questa",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  1,
-                  ""
-                ],
-                [
-                  "... ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Anna",
-                  3,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-4-092",
-              "it": "«Bella. Rossa.»",
-              "en": "“It's nice. Red.”",
-              "voice": [
-                [
-                  "chiara",
-                  "Bella. Rossa.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bella",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Rossa",
-                  1,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "id": "s01e12-4-093",
-              "it": "«Sì. Rossa come il pomodoro.»",
-              "en": "“Yes. Red like a tomato.”",
-              "voice": [
-                [
-                  "franco",
-                  "Sì. Rossa come il pomodoro.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Rossa",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "come",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "pomodoro",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-4-094",
-              "it": "Franco apre un cassetto e mette dentro la sciarpa.",
-              "en": "Franco opens a drawer and puts the scarf inside.",
-              "voice": [
-                [
-                  "narrator",
-                  "Franco apre un cassetto e mette dentro la sciarpa.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Franco",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "apre",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cassetto",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mette",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dentro",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sciarpa",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-4-095",
               "it": "Poi chiude il cassetto con calma.",
               "en": "Then he closes the drawer calmly.",
               "voice": [
@@ -34881,7 +34672,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-096",
+              "id": "s01e12-4-094",
               "it": "Chiara è ancora con le foto in mano.",
               "en": "Chiara is still holding the photos.",
               "voice": [
@@ -34975,7 +34766,7 @@
               ]
             },
             {
-              "id": "s01e12-4-097",
+              "id": "s01e12-4-095",
               "it": "«Papà, posso tenere questa?»",
               "en": "“Dad, can I keep this one?”",
               "voice": [
@@ -35038,7 +34829,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-098",
+              "id": "s01e12-4-096",
               "it": "«Quale?»",
               "en": "“Which one?”",
               "voice": [
@@ -35071,7 +34862,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-099",
+              "id": "s01e12-4-097",
               "it": "«Questa è **mia** **madre** con me e Matteo. Per il progetto di Leo.»",
               "en": "“This is **my** **mother** with me and Matteo. For Leo's project.”",
               "voice": [
@@ -35227,7 +35018,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-100",
+              "id": "s01e12-4-098",
               "it": "Franco guarda la foto e fa un segno con la testa.",
               "en": "Franco looks at the photo and nods.",
               "voice": [
@@ -35351,7 +35142,7 @@
               ]
             },
             {
-              "id": "s01e12-4-101",
+              "id": "s01e12-4-099",
               "it": "«Sì. Prendila.»",
               "en": "“Yes. Take it.”",
               "voice": [
@@ -35394,7 +35185,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-102",
+              "id": "s01e12-4-100",
               "it": "«Grazie, papà.»",
               "en": "“Thanks, Dad.”",
               "voice": [
@@ -35437,7 +35228,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-103",
+              "id": "s01e12-4-101",
               "it": "Franco prende la **penna** dal tavolo e la restituisce a Chiara.",
               "en": "Franco takes the **pen** from the table and gives it back to Chiara.",
               "voice": [
@@ -35564,7 +35355,7 @@
               ]
             },
             {
-              "id": "s01e12-4-104",
+              "id": "s01e12-4-102",
               "it": "«Adesso il caffè è freddo.»",
               "en": "“Now the coffee is cold.”",
               "voice": [
@@ -35637,7 +35428,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-105",
+              "id": "s01e12-4-103",
               "it": "«Vuoi un tè?»",
               "en": "“Do you want tea?”",
               "voice": [
@@ -35690,7 +35481,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-106",
+              "id": "s01e12-4-104",
               "it": "Franco guarda Kevin con una faccia strana.",
               "en": "Franco looks at Kevin with a strange face.",
               "voice": [
@@ -35774,7 +35565,7 @@
               ]
             },
             {
-              "id": "s01e12-4-107",
+              "id": "s01e12-4-105",
               "it": "«L'americano beve il tè.»",
               "en": "“The American drinks tea.”",
               "voice": [
@@ -35837,13 +35628,13 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-108",
-              "it": "«Sì. E l'americano è **mio** **genero**.»",
+              "id": "s01e12-4-106",
+              "it": "«Sì. E l'americano è **tuo** **genero**.»",
               "en": "“Yes. And the American is **your** **genero**.”",
               "voice": [
                 [
                   "ben",
-                  "Sì. E l'americano è **mio** **genero**.",
+                  "Sì. E l'americano è **tuo** **genero**.",
                   ""
                 ]
               ],
@@ -35894,7 +35685,7 @@
                   ""
                 ],
                 [
-                  "mio",
+                  "tuo",
                   4,
                   "b"
                 ],
@@ -35920,7 +35711,7 @@
               ]
             },
             {
-              "id": "s01e12-4-109",
+              "id": "s01e12-4-107",
               "it": "Franco non risponde. Va in cucina.",
               "en": "Franco doesn't answer. He goes into the kitchen.",
               "voice": [
@@ -35998,7 +35789,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-110",
+              "id": "s01e12-4-108",
               "it": "Chiara mette la foto nella borsa.",
               "en": "Chiara puts the photo in her bag.",
               "voice": [
@@ -36072,7 +35863,7 @@
               ]
             },
             {
-              "id": "s01e12-4-111",
+              "id": "s01e12-4-109",
               "it": "«Grazie, Kevin. Tu sei **insieme** a me.»",
               "en": "“Thanks, Kevin. You are **together** with me.”",
               "voice": [
@@ -36168,7 +35959,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-112",
+              "id": "s01e12-4-110",
               "it": "«Sempre.»",
               "en": "“Always.”",
               "voice": [
@@ -36201,7 +35992,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-113",
+              "id": "s01e12-4-111",
               "it": "Chiara prende la borsa e va verso la porta.",
               "en": "Chiara takes her bag and goes toward the door.",
               "voice": [
@@ -36305,7 +36096,7 @@
               ]
             },
             {
-              "id": "s01e12-4-114",
+              "id": "s01e12-4-112",
               "it": "«Papà! Andiamo!»",
               "en": "“Dad! We're going!”",
               "voice": [
@@ -36348,7 +36139,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-115",
+              "id": "s01e12-4-113",
               "it": "«Arrivo!»",
               "en": "“Coming!”",
               "voice": [
@@ -36381,7 +36172,7 @@
         {
           "segments": [
             {
-              "id": "s01e12-4-116",
+              "id": "s01e12-4-114",
               "it": "Kevin guarda il cassetto e poi guarda la porta.",
               "en": "Kevin looks at the drawer and then at the door.",
               "voice": [
@@ -36485,7 +36276,7 @@
               ]
             },
             {
-              "id": "s01e12-4-117",
+              "id": "s01e12-4-115",
               "it": "_La **nostra** famiglia è qui. Ma il **ramo** nuovo è segreto._",
               "en": "_**Our** family is here. But the new **branch** is a secret._",
               "voice": [
@@ -43840,12 +43631,12 @@
             },
             {
               "id": "s01e12-5-083",
-              "it": "Guarda il quadrato dell'Olio e il quadrato dell'Ohio.",
-              "en": "She looks at the square for Ohio and the square for Ohio.",
+              "it": "Guarda il quadrato dell'Ohio.",
+              "en": "She looks at the square for Ohio.",
               "voice": [
                 [
                   "narrator",
-                  "Guarda il quadrato dell'Olio e il quadrato dell'Ohio.",
+                  "Guarda il quadrato dell'Ohio.",
                   ""
                 ]
               ],
@@ -43881,48 +43672,8 @@
                   ""
                 ],
                 [
-                  "dell'Olio",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quadrato",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "dell'Ohio",
-                  7,
+                  3,
                   ""
                 ],
                 [
@@ -51668,3215 +51419,6 @@
         }
       ],
       "time": "lunedì pomeriggio"
-    },
-    {
-      "n": 7,
-      "location": "bar-tigli",
-      "characters": [
-        "leo",
-        "matteo",
-        "nadia",
-        "franco",
-        "ben"
-      ],
-      "paragraphs": [
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-001",
-              "it": "È lunedì sera e il Bar Tigli è quasi vuoto.",
-              "en": "It's Monday evening and Bar Tigli is almost empty.",
-              "voice": [
-                [
-                  "narrator",
-                  "È lunedì sera e il Bar Tigli è quasi vuoto.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "È",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lunedì",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sera",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bar",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tigli",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quasi",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vuoto",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-002",
-              "it": "Leo entra con il foglio finale dell'albero.",
-              "en": "Leo comes in with the final tree sheet.",
-              "voice": [
-                [
-                  "narrator",
-                  "Leo entra con il foglio finale dell'albero.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Leo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "entra",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "foglio",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "finale",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dell'albero",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-003",
-              "it": "Kevin è con lui. Nadia è al banco.",
-              "en": "Kevin is with him. Nadia is at the counter.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin è con lui. Nadia è al banco.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lui",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "banco",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-004",
-              "it": "«Nadia! Guarda il foglio finito!»",
-              "en": "“Nadia! Look at the finished sheet!”",
-              "voice": [
-                [
-                  "leo",
-                  "Nadia! Guarda il foglio finito!",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  "! ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "foglio",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "finito",
-                  4,
-                  ""
-                ],
-                [
-                  "!»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-005",
-              "it": "Nadia prende il foglio e lo guarda bene.",
-              "en": "Nadia takes the sheet and looks at it closely.",
-              "voice": [
-                [
-                  "narrator",
-                  "Nadia prende il foglio e lo guarda bene.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "foglio",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-006",
-              "it": "«Perché il **mio** **nome** ha ancora il **punto interrogativo**?»",
-              "en": "“Why does **my** **name** still have the **question mark**?”",
-              "voice": [
-                [
-                  "nadia",
-                  "Perché il **mio** **nome** ha ancora il **punto interrogativo**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Perché",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nome",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ha",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ancora",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "punto",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "interrogativo",
-                  8,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-possessives",
-                "v-nome",
-                "v-punto-interrogativo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-007",
-              "it": "«Perché non sei **mia** zia.»",
-              "en": "“Because you're not **my** aunt.”",
-              "voice": [
-                [
-                  "leo",
-                  "Perché non sei **mia** zia.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Perché",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sei",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mia",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "zia",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-possessives"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-008",
-              "it": "«Ah. Certo.»",
-              "en": "“Ah. Of course.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Ah. Certo.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Certo",
-                  1,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-009",
-              "it": "Matteo arriva dal retro con un bicchiere.",
-              "en": "Matteo comes in from the back with a glass.",
-              "voice": [
-                [
-                  "narrator",
-                  "Matteo arriva dal retro con un bicchiere.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "arriva",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dal",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "retro",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchiere",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-010",
-              "it": "«Nadia, il **punto interrogativo** è simpatico.»",
-              "en": "“Nadia, the **question mark** is nice.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Nadia, il **punto interrogativo** è simpatico.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "punto",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "interrogativo",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "simpatico",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-punto-interrogativo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-011",
-              "it": "«Per te.»",
-              "en": "“For you.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Per te.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Per",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "te",
-                  1,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-012",
-              "it": "Franco entra nel bar e si siede al banco.",
-              "en": "Franco comes into the bar and sits at the counter.",
-              "voice": [
-                [
-                  "narrator",
-                  "Franco entra nel bar e si siede al banco.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Franco",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "entra",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nel",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bar",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "siede",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "banco",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-013",
-              "it": "«Un caffè.»",
-              "en": "“A coffee.”",
-              "voice": [
-                [
-                  "franco",
-                  "Un caffè.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Un",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  1,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-014",
-              "it": "Matteo prepara il caffè e lo mette davanti a Franco.",
-              "en": "Matteo makes the coffee and puts it in front of Franco.",
-              "voice": [
-                [
-                  "narrator",
-                  "Matteo prepara il caffè e lo mette davanti a Franco.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prepara",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mette",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "davanti",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-015",
-              "it": "Franco beve e poi guarda Nadia.",
-              "en": "Franco drinks and then looks at Nadia.",
-              "voice": [
-                [
-                  "narrator",
-                  "Franco beve e poi guarda Nadia.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Franco",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "beve",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "poi",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-016",
-              "it": "«Nadia, e il **matrimonio**?»",
-              "en": "“Nadia, and the **wedding**?”",
-              "voice": [
-                [
-                  "franco",
-                  "Nadia, e il **matrimonio**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "matrimonio",
-                  3,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-matrimonio"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-017",
-              "it": "«**Mai**.»",
-              "en": "“**Never**.”",
-              "voice": [
-                [
-                  "nadia",
-                  "**Mai**.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mai",
-                  0,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-mai"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-018",
-              "it": "«Palla al centro.»",
-              "en": "“Let's drop it.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Palla al centro.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Palla",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "centro",
-                  2,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-019",
-              "it": "«**Mai**.»",
-              "en": "“**Never**.”",
-              "voice": [
-                [
-                  "nadia",
-                  "**Mai**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mai",
-                  0,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-mai"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-020",
-              "it": "«Mah.»",
-              "en": "“Hmph.”",
-              "voice": [
-                [
-                  "franco",
-                  "Mah.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mah",
-                  0,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-021",
-              "it": "Kevin apre il quaderno giallo e scrive.",
-              "en": "Kevin opens the yellow notebook and writes.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin apre il quaderno giallo e scrive.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "apre",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giallo",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scrive",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-022",
-              "it": "«**Nome**: Nadia Benali. **Vero**?»",
-              "en": "“**Name**: Nadia Benali. **True**?”",
-              "voice": [
-                [
-                  "ben",
-                  "**Nome**: Nadia Benali. **Vero**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nome",
-                  0,
-                  "b"
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Benali",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Vero",
-                  3,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-nome",
-                "v-vero"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-023",
-              "it": "Nadia guarda Kevin e sorride appena.",
-              "en": "Nadia looks at Kevin and smiles slightly.",
-              "voice": [
-                [
-                  "narrator",
-                  "Nadia guarda Kevin e sorride appena.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sorride",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "appena",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-024",
-              "it": "«Sì. **Vero**.»",
-              "en": "“Yes. **True**.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Sì. **Vero**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Vero",
-                  1,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-vero"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-025",
-              "it": "«E accanto al **nome** scrivo “**punto interrogativo**”.»",
-              "en": "“And next to the **name** I write ‘**question mark**.’”",
-              "voice": [
-                [
-                  "ben",
-                  "E accanto al **nome** scrivo “**punto interrogativo**”.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "accanto",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nome",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scrivo",
-                  4,
-                  ""
-                ],
-                [
-                  " “",
-                  -1,
-                  ""
-                ],
-                [
-                  "punto",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "interrogativo",
-                  6,
-                  "b"
-                ],
-                [
-                  "”.»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-nome",
-                "v-punto-interrogativo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-026",
-              "it": "«Va bene. Non è un errore.»",
-              "en": "“All right. It's not a mistake.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Va bene. Non è un errore.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Va",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "errore",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-027",
-              "it": "«È un **punto interrogativo** della famiglia.»",
-              "en": "“It's a **question mark** of the family.”",
-              "voice": [
-                [
-                  "leo",
-                  "È un **punto interrogativo** della famiglia.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "punto",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "interrogativo",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "della",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "famiglia",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-punto-interrogativo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-028",
-              "it": "Leo e Nadia guardano il foglio **insieme**.",
-              "en": "Leo and Nadia look at the sheet **together**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Leo e Nadia guardano il foglio **insieme**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Leo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guardano",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "foglio",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "insieme",
-                  6,
-                  "b"
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-insieme"
-              ]
-            },
-            {
-              "id": "s01e12-7-029",
-              "it": "«Leo, “**mai**” e “**mai**” sono **uguale**.»",
-              "en": "“Leo, ‘**never**’ and ‘**never**’ are **the same**.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Leo, “**mai**” e “**mai**” sono **uguale**.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Leo",
-                  0,
-                  ""
-                ],
-                [
-                  ", “",
-                  -1,
-                  ""
-                ],
-                [
-                  "mai",
-                  1,
-                  "b"
-                ],
-                [
-                  "” ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  2,
-                  ""
-                ],
-                [
-                  " “",
-                  -1,
-                  ""
-                ],
-                [
-                  "mai",
-                  3,
-                  "b"
-                ],
-                [
-                  "” ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sono",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "uguale",
-                  5,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-mai",
-                "v-uguale"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-030",
-              "it": "«Sì. **Uguale**.»",
-              "en": "“Yes. **The same**.”",
-              "voice": [
-                [
-                  "leo",
-                  "Sì. **Uguale**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Uguale",
-                  1,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-uguale"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-031",
-              "it": "«Allora va bene. Il **mio** **nome** resta qui.»",
-              "en": "“So it's fine. **My** **name** stays here.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Allora va bene. Il **mio** **nome** resta qui.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Allora",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "va",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nome",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "resta",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  7,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-possessives",
-                "v-nome"
-              ]
-            },
-            {
-              "id": "s01e12-7-032",
-              "it": "Franco beve il caffè in silenzio.",
-              "en": "Franco drinks his coffee in silence.",
-              "voice": [
-                [
-                  "narrator",
-                  "Franco beve il caffè in silenzio.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Franco",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "beve",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "in",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "silenzio",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-033",
-              "it": "Matteo asciuga il bicchiere e fischia piano.",
-              "en": "Matteo dries the glass and whistles quietly.",
-              "voice": [
-                [
-                  "narrator",
-                  "Matteo asciuga il bicchiere e fischia piano.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "asciuga",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchiere",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fischia",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "piano",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-034",
-              "it": "Kevin chiude il quaderno giallo.",
-              "en": "Kevin closes the yellow notebook.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin chiude il quaderno giallo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiude",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giallo",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-035",
-              "it": "«Perfetto. Il foglio è **vero**. È finito.»",
-              "en": "“Perfect. The sheet is **true**. It's finished.”",
-              "voice": [
-                [
-                  "ben",
-                  "Perfetto. Il foglio è **vero**. È finito.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Perfetto",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "foglio",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vero",
-                  4,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "finito",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-vero"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-036",
-              "it": "«Sì. Ma resta il **punto interrogativo**.»",
-              "en": "“Yes. But the **question mark** stays.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Sì. Ma resta il **punto interrogativo**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ma",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "resta",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "punto",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "interrogativo",
-                  5,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-punto-interrogativo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-037",
-              "it": "«**Mai** e **mai** sono **uguale**.»",
-              "en": "“‘**Never**’ and ‘**never**’ are **the same**.”",
-              "voice": [
-                [
-                  "leo",
-                  "**Mai** e **mai** sono **uguale**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mai",
-                  0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mai",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sono",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "uguale",
-                  4,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-mai",
-                "v-uguale"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-038",
-              "it": "«Esatto, Leo.»",
-              "en": "“Exactly, Leo.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Esatto, Leo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Esatto",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Leo",
-                  1,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-039",
-              "it": "Franco mette giù la tazzina e si alza.",
-              "en": "Franco puts down the little cup and stands up.",
-              "voice": [
-                [
-                  "narrator",
-                  "Franco mette giù la tazzina e si alza.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Franco",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mette",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giù",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tazzina",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alza",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e12-7-040",
-              "it": "«Vado. Il caffè è freddo.»",
-              "en": "“I'm going. The coffee is cold.”",
-              "voice": [
-                [
-                  "franco",
-                  "Vado. Il caffè è freddo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Vado",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "freddo",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-041",
-              "it": "«**Mai**?»",
-              "en": "“**Never**?”",
-              "voice": [
-                [
-                  "leo",
-                  "**Mai**?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mai",
-                  0,
-                  "b"
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-mai"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e12-7-042",
-              "it": "«**Mai**.»",
-              "en": "“**Never**.”",
-              "voice": [
-                [
-                  "franco",
-                  "**Mai**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mai",
-                  0,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-mai"
-              ]
-            },
-            {
-              "id": "s01e12-7-043",
-              "it": "La porta si chiude e il bar torna tranquillo.",
-              "en": "The door closes and the bar goes quiet again.",
-              "voice": [
-                [
-                  "narrator",
-                  "La porta si chiude e il bar torna tranquillo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "La",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "porta",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiude",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bar",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "torna",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tranquillo",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        }
-      ],
-      "time": "lunedì sera"
     }
   ]
 }

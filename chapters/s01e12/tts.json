@@ -894,7 +894,7 @@
               },
               {
                 "type": "text",
-                "text": "Mia madre si chiama Dorothy. Mio padre si chiama Robert.",
+                "text": "Mia madre si chiama Linda. Mio padre si chiama Doug.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -965,7 +965,7 @@
               },
               {
                 "type": "text",
-                "text": "Dorothy e Robert. E tu sei il loro figlio.",
+                "text": "Linda e Doug. E tu sei il loro figlio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1048,7 +1048,7 @@
               },
               {
                 "type": "text",
-                "text": "E dove sono Dorothy e Robert?",
+                "text": "E dove sono Linda e Doug?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1532,7 +1532,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "I miei genitori, Dorothy e Robert.",
+                "text": "I miei genitori, Linda e Doug.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10571,7 +10571,7 @@
               },
               {
                 "type": "text",
-                "text": "E questo signore chi è?",
+                "text": "E questo bambino chi è?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10775,7 +10775,7 @@
       ],
       "words": [
         [
-          "s01e12-4-067:0-8"
+          "s01e12-4-067:0-7"
         ],
         [
           "s01e12-4-068:0-4"
@@ -10792,7 +10792,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Mia figlia. E Chiara è la tua moglie.",
+                "text": "Sì. Mia figlia. E Chiara è tua moglie.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10938,18 +10938,22 @@
       "scene": 4,
       "speakers": {
         "franco": "franco",
-        "narrator": "narrator"
+        "chiara": "chiara"
       },
       "segment_ids": [
         "s01e12-4-073",
-        "s01e12-4-074"
+        "s01e12-4-074",
+        "s01e12-4-075"
       ],
       "words": [
         [
-          "s01e12-4-073:0-3"
+          "s01e12-4-073:0-2"
         ],
         [
-          "s01e12-4-074:0-6"
+          "s01e12-4-074:0-4"
+        ],
+        [
+          "s01e12-4-075:0-0"
         ]
       ],
       "request": {
@@ -10960,23 +10964,34 @@
             "content": [
               {
                 "type": "text",
-                "text": "Tu sei mio genero.",
+                "text": "Tu sei... l'americano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly, dry"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Papà! Kevin è tuo genero.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "chiara",
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "Kevin resta fermo con la bocca aperta.",
+                "text": "Mah.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               }
@@ -10996,8 +11011,8 @@
                 "voice": "Algenib"
               },
               {
-                "speaker": "narrator",
-                "voice": "Charon"
+                "speaker": "chiara",
+                "voice": "Callirrhoe"
               }
             ]
           }
@@ -11008,23 +11023,19 @@
       "index": 129,
       "scene": 4,
       "speakers": {
-        "ben": "ben",
-        "franco": "franco"
+        "narrator": "narrator",
+        "ben": "ben"
       },
       "segment_ids": [
-        "s01e12-4-075",
         "s01e12-4-076",
         "s01e12-4-077"
       ],
       "words": [
         [
-          "s01e12-4-075:0-3"
+          "s01e12-4-076:0-6"
         ],
         [
-          "s01e12-4-076:0-1"
-        ],
-        [
-          "s01e12-4-077:0-2"
+          "s01e12-4-077:0-3"
         ]
       ],
       "request": {
@@ -11035,6 +11046,17 @@
             "content": [
               {
                 "type": "text",
+                "text": "Kevin resta fermo con la bocca aperta.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              },
+              {
+                "type": "text",
                 "text": "Genero? Che bella parola!",
                 "annotations": [
                   {
@@ -11043,7 +11065,56 @@
                     "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
                   }
                 ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
               },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 130,
+      "scene": 4,
+      "speakers": {
+        "franco": "franco",
+        "ben": "ben"
+      },
+      "segment_ids": [
+        "s01e12-4-078",
+        "s01e12-4-079"
+      ],
+      "words": [
+        [
+          "s01e12-4-078:0-1"
+        ],
+        [
+          "s01e12-4-079:0-2"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
               {
                 "type": "text",
                 "text": "Non applaudire.",
@@ -11078,12 +11149,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
                 "speaker": "franco",
                 "voice": "Algenib"
+              },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
               }
             ]
           }
@@ -11091,22 +11162,22 @@
       }
     },
     {
-      "index": 130,
+      "index": 131,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e12-4-078",
-        "s01e12-4-079"
+        "s01e12-4-080",
+        "s01e12-4-081"
       ],
       "words": [
         [
-          "s01e12-4-078:0-5"
+          "s01e12-4-080:0-5"
         ],
         [
-          "s01e12-4-079:0-9"
+          "s01e12-4-081:0-9"
         ]
       ],
       "request": {
@@ -11162,15 +11233,13 @@
       }
     },
     {
-      "index": 131,
+      "index": 132,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e12-4-080",
-        "s01e12-4-081",
         "s01e12-4-082",
         "s01e12-4-083",
         "s01e12-4-084",
@@ -11179,35 +11248,41 @@
         "s01e12-4-087",
         "s01e12-4-088",
         "s01e12-4-089",
-        "s01e12-4-090"
+        "s01e12-4-090",
+        "s01e12-4-091",
+        "s01e12-4-092",
+        "s01e12-4-093",
+        "s01e12-4-094"
       ],
       "words": [
         [
-          "s01e12-4-080:0-4"
+          "s01e12-4-082:0-4"
         ],
         [
-          "s01e12-4-081:0-6"
+          "s01e12-4-083:0-6"
         ],
         [
-          "s01e12-4-082:0-6"
+          "s01e12-4-084:0-6"
         ],
         [
-          "s01e12-4-083:0-8",
-          "s01e12-4-084:0-7"
-        ],
-        [
-          "s01e12-4-085:0-6"
-        ],
-        [
+          "s01e12-4-085:0-8",
           "s01e12-4-086:0-7"
         ],
         [
-          "s01e12-4-087:0-7",
-          "s01e12-4-088:0-10"
+          "s01e12-4-087:0-6"
+        ],
+        [
+          "s01e12-4-088:0-7"
         ],
         [
           "s01e12-4-089:0-7",
-          "s01e12-4-090:0-7"
+          "s01e12-4-090:0-10"
+        ],
+        [
+          "s01e12-4-091:0-7",
+          "s01e12-4-092:0-7",
+          "s01e12-4-093:0-5",
+          "s01e12-4-094:0-7"
         ]
       ],
       "request": {
@@ -11295,7 +11370,7 @@
               },
               {
                 "type": "text",
-                "text": "Franco guarda Kevin e poi guarda la sedia. Va verso la sedia e prende la sciarpa.",
+                "text": "Franco guarda Kevin e poi guarda la sedia. Va verso la sedia e prende la sciarpa. Poi chiude il cassetto con calma. Chiara è ancora con le foto in mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11329,112 +11404,26 @@
       }
     },
     {
-      "index": 132,
-      "scene": 4,
-      "speakers": {
-        "franco": "franco",
-        "chiara": "chiara"
-      },
-      "segment_ids": [
-        "s01e12-4-091",
-        "s01e12-4-092",
-        "s01e12-4-093"
-      ],
-      "words": [
-        [
-          "s01e12-4-091:0-3"
-        ],
-        [
-          "s01e12-4-092:0-1"
-        ],
-        [
-          "s01e12-4-093:0-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Questa è... di Anna.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly, slow"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Bella. Rossa.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "chiara",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Sì. Rossa come il pomodoro.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
-                "speaker": "chiara",
-                "voice": "Callirrhoe"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
       "index": 133,
       "scene": 4,
       "speakers": {
-        "narrator": "narrator",
-        "chiara": "chiara"
+        "chiara": "chiara",
+        "franco": "franco"
       },
       "segment_ids": [
-        "s01e12-4-094",
         "s01e12-4-095",
         "s01e12-4-096",
         "s01e12-4-097"
       ],
       "words": [
         [
-          "s01e12-4-094:0-8",
-          "s01e12-4-095:0-5",
-          "s01e12-4-096:0-7"
+          "s01e12-4-095:0-3"
         ],
         [
-          "s01e12-4-097:0-3"
+          "s01e12-4-096:0-0"
+        ],
+        [
+          "s01e12-4-097:0-12"
         ]
       ],
       "request": {
@@ -11443,17 +11432,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Franco apre un cassetto e mette dentro la sciarpa. Poi chiude il cassetto con calma. Chiara è ancora con le foto in mano.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "Papà, posso tenere questa?",
@@ -11464,56 +11442,7 @@
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
               },
-              {
-                "speaker": "chiara",
-                "voice": "Callirrhoe"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 134,
-      "scene": 4,
-      "speakers": {
-        "franco": "franco",
-        "chiara": "chiara"
-      },
-      "segment_ids": [
-        "s01e12-4-098",
-        "s01e12-4-099"
-      ],
-      "words": [
-        [
-          "s01e12-4-098:0-0"
-        ],
-        [
-          "s01e12-4-099:0-12"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
               {
                 "type": "text",
                 "text": "Quale?",
@@ -11548,12 +11477,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
                 "speaker": "chiara",
                 "voice": "Callirrhoe"
+              },
+              {
+                "speaker": "franco",
+                "voice": "Algenib"
               }
             ]
           }
@@ -11561,22 +11490,22 @@
       }
     },
     {
-      "index": 135,
+      "index": 134,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e12-4-100",
-        "s01e12-4-101"
+        "s01e12-4-098",
+        "s01e12-4-099"
       ],
       "words": [
         [
-          "s01e12-4-100:0-10"
+          "s01e12-4-098:0-10"
         ],
         [
-          "s01e12-4-101:0-1"
+          "s01e12-4-099:0-1"
         ]
       ],
       "request": {
@@ -11632,22 +11561,22 @@
       }
     },
     {
-      "index": 136,
+      "index": 135,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e12-4-102",
-        "s01e12-4-103"
+        "s01e12-4-100",
+        "s01e12-4-101"
       ],
       "words": [
         [
-          "s01e12-4-102:0-1"
+          "s01e12-4-100:0-1"
         ],
         [
-          "s01e12-4-103:0-10"
+          "s01e12-4-101:0-10"
         ]
       ],
       "request": {
@@ -11703,22 +11632,22 @@
       }
     },
     {
-      "index": 137,
+      "index": 136,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e12-4-104",
-        "s01e12-4-105"
+        "s01e12-4-102",
+        "s01e12-4-103"
       ],
       "words": [
         [
-          "s01e12-4-104:0-4"
+          "s01e12-4-102:0-4"
         ],
         [
-          "s01e12-4-105:0-2"
+          "s01e12-4-103:0-2"
         ]
       ],
       "request": {
@@ -11774,22 +11703,22 @@
       }
     },
     {
-      "index": 138,
+      "index": 137,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s01e12-4-106",
-        "s01e12-4-107"
+        "s01e12-4-104",
+        "s01e12-4-105"
       ],
       "words": [
         [
-          "s01e12-4-106:0-6"
+          "s01e12-4-104:0-6"
         ],
         [
-          "s01e12-4-107:0-3"
+          "s01e12-4-105:0-3"
         ]
       ],
       "request": {
@@ -11845,24 +11774,24 @@
       }
     },
     {
-      "index": 139,
+      "index": 138,
       "scene": 4,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e12-4-108",
-        "s01e12-4-109",
-        "s01e12-4-110"
+        "s01e12-4-106",
+        "s01e12-4-107",
+        "s01e12-4-108"
       ],
       "words": [
         [
-          "s01e12-4-108:0-5"
+          "s01e12-4-106:0-5"
         ],
         [
-          "s01e12-4-109:0-5",
-          "s01e12-4-110:0-5"
+          "s01e12-4-107:0-5",
+          "s01e12-4-108:0-5"
         ]
       ],
       "request": {
@@ -11873,7 +11802,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. E l'americano è mio genero.",
+                "text": "Sì. E l'americano è tuo genero.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11918,22 +11847,22 @@
       }
     },
     {
-      "index": 140,
+      "index": 139,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e12-4-111",
-        "s01e12-4-112"
+        "s01e12-4-109",
+        "s01e12-4-110"
       ],
       "words": [
         [
-          "s01e12-4-111:0-6"
+          "s01e12-4-109:0-6"
         ],
         [
-          "s01e12-4-112:0-0"
+          "s01e12-4-110:0-0"
         ]
       ],
       "request": {
@@ -11989,22 +11918,22 @@
       }
     },
     {
-      "index": 141,
+      "index": 140,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s01e12-4-113",
-        "s01e12-4-114"
+        "s01e12-4-111",
+        "s01e12-4-112"
       ],
       "words": [
         [
-          "s01e12-4-113:0-8"
+          "s01e12-4-111:0-8"
         ],
         [
-          "s01e12-4-114:0-1"
+          "s01e12-4-112:0-1"
         ]
       ],
       "request": {
@@ -12060,22 +11989,22 @@
       }
     },
     {
-      "index": 142,
+      "index": 141,
       "scene": 4,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e12-4-115",
-        "s01e12-4-116"
+        "s01e12-4-113",
+        "s01e12-4-114"
       ],
       "words": [
         [
-          "s01e12-4-115:0-0"
+          "s01e12-4-113:0-0"
         ],
         [
-          "s01e12-4-116:0-8"
+          "s01e12-4-114:0-8"
         ]
       ],
       "request": {
@@ -12131,17 +12060,17 @@
       }
     },
     {
-      "index": 143,
+      "index": 142,
       "scene": 4,
       "speakers": {
         "single": "ben"
       },
       "segment_ids": [
-        "s01e12-4-117"
+        "s01e12-4-115"
       ],
       "words": [
         [
-          "s01e12-4-117:0-10"
+          "s01e12-4-115:0-10"
         ]
       ],
       "request": {
@@ -12177,7 +12106,7 @@
       }
     },
     {
-      "index": 144,
+      "index": 143,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -12252,7 +12181,7 @@
       }
     },
     {
-      "index": 145,
+      "index": 144,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -12338,7 +12267,7 @@
       }
     },
     {
-      "index": 146,
+      "index": 145,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -12426,7 +12355,7 @@
       }
     },
     {
-      "index": 147,
+      "index": 146,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -12497,7 +12426,7 @@
       }
     },
     {
-      "index": 148,
+      "index": 147,
       "scene": 5,
       "speakers": {
         "emma": "emma",
@@ -12568,7 +12497,7 @@
       }
     },
     {
-      "index": 149,
+      "index": 148,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -12639,7 +12568,7 @@
       }
     },
     {
-      "index": 150,
+      "index": 149,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -12710,7 +12639,7 @@
       }
     },
     {
-      "index": 151,
+      "index": 150,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -12781,7 +12710,7 @@
       }
     },
     {
-      "index": 152,
+      "index": 151,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -12852,7 +12781,7 @@
       }
     },
     {
-      "index": 153,
+      "index": 152,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -12923,7 +12852,7 @@
       }
     },
     {
-      "index": 154,
+      "index": 153,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -13011,7 +12940,7 @@
       }
     },
     {
-      "index": 155,
+      "index": 154,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -13082,7 +13011,7 @@
       }
     },
     {
-      "index": 156,
+      "index": 155,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -13153,7 +13082,7 @@
       }
     },
     {
-      "index": 157,
+      "index": 156,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -13254,7 +13183,7 @@
       }
     },
     {
-      "index": 158,
+      "index": 157,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -13340,7 +13269,7 @@
       }
     },
     {
-      "index": 159,
+      "index": 158,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -13426,7 +13355,7 @@
       }
     },
     {
-      "index": 160,
+      "index": 159,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -13497,7 +13426,7 @@
       }
     },
     {
-      "index": 161,
+      "index": 160,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -13568,7 +13497,7 @@
       }
     },
     {
-      "index": 162,
+      "index": 161,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -13639,7 +13568,7 @@
       }
     },
     {
-      "index": 163,
+      "index": 162,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -13755,7 +13684,7 @@
       }
     },
     {
-      "index": 164,
+      "index": 163,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -13826,7 +13755,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 164,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -13927,7 +13856,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 165,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14000,7 +13929,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 166,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -14071,7 +14000,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 167,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -14172,7 +14101,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 168,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14243,7 +14172,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 169,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -14314,7 +14243,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 170,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14402,7 +14331,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 171,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -14503,7 +14432,7 @@
       }
     },
     {
-      "index": 173,
+      "index": 172,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14520,7 +14449,7 @@
       "words": [
         [
           "s01e12-5-082:0-5",
-          "s01e12-5-083:0-7"
+          "s01e12-5-083:0-3"
         ],
         [
           "s01e12-5-084:0-9"
@@ -14543,7 +14472,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Emma è ancora vicino al foglio. Guarda il quadrato dell'Olio e il quadrato dell'Ohio.",
+                "text": "Emma è ancora vicino al foglio. Guarda il quadrato dell'Ohio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14621,7 +14550,7 @@
       }
     },
     {
-      "index": 174,
+      "index": 173,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -14707,7 +14636,7 @@
       }
     },
     {
-      "index": 175,
+      "index": 174,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14780,7 +14709,7 @@
       }
     },
     {
-      "index": 176,
+      "index": 175,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -14851,7 +14780,7 @@
       }
     },
     {
-      "index": 177,
+      "index": 176,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14922,7 +14851,7 @@
       }
     },
     {
-      "index": 178,
+      "index": 177,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -15008,7 +14937,7 @@
       }
     },
     {
-      "index": 179,
+      "index": 178,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -15079,7 +15008,7 @@
       }
     },
     {
-      "index": 180,
+      "index": 179,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15154,7 +15083,7 @@
       }
     },
     {
-      "index": 181,
+      "index": 180,
       "scene": 6,
       "speakers": {
         "ornella": "ornella",
@@ -15227,7 +15156,7 @@
       }
     },
     {
-      "index": 182,
+      "index": 181,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -15298,7 +15227,7 @@
       }
     },
     {
-      "index": 183,
+      "index": 182,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15369,7 +15298,7 @@
       }
     },
     {
-      "index": 184,
+      "index": 183,
       "scene": 6,
       "speakers": {
         "ornella": "ornella",
@@ -15545,7 +15474,7 @@
       }
     },
     {
-      "index": 185,
+      "index": 184,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15616,7 +15545,7 @@
       }
     },
     {
-      "index": 186,
+      "index": 185,
       "scene": 6,
       "speakers": {
         "ornella": "ornella",
@@ -15687,7 +15616,7 @@
       }
     },
     {
-      "index": 187,
+      "index": 186,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15758,7 +15687,7 @@
       }
     },
     {
-      "index": 188,
+      "index": 187,
       "scene": 6,
       "speakers": {
         "ornella": "ornella",
@@ -15844,7 +15773,7 @@
       }
     },
     {
-      "index": 189,
+      "index": 188,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15915,7 +15844,7 @@
       }
     },
     {
-      "index": 190,
+      "index": 189,
       "scene": 6,
       "speakers": {
         "ornella": "ornella",
@@ -16001,7 +15930,7 @@
       }
     },
     {
-      "index": 191,
+      "index": 190,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16072,7 +16001,7 @@
       }
     },
     {
-      "index": 192,
+      "index": 191,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16158,7 +16087,7 @@
       }
     },
     {
-      "index": 193,
+      "index": 192,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16229,7 +16158,7 @@
       }
     },
     {
-      "index": 194,
+      "index": 193,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16315,7 +16244,7 @@
       }
     },
     {
-      "index": 195,
+      "index": 194,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16403,7 +16332,7 @@
       }
     },
     {
-      "index": 196,
+      "index": 195,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16489,7 +16418,7 @@
       }
     },
     {
-      "index": 197,
+      "index": 196,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16560,7 +16489,7 @@
       }
     },
     {
-      "index": 198,
+      "index": 197,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16676,7 +16605,7 @@
       }
     },
     {
-      "index": 199,
+      "index": 198,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16747,7 +16676,7 @@
       }
     },
     {
-      "index": 200,
+      "index": 199,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16818,7 +16747,7 @@
       }
     },
     {
-      "index": 201,
+      "index": 200,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16889,7 +16818,7 @@
       }
     },
     {
-      "index": 202,
+      "index": 201,
       "scene": 6,
       "speakers": {
         "ornella": "ornella",
@@ -16960,7 +16889,7 @@
       }
     },
     {
-      "index": 203,
+      "index": 202,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17031,1232 +16960,6 @@
               }
             ]
           }
-        }
-      }
-    },
-    {
-      "index": 204,
-      "scene": 7,
-      "speakers": {
-        "narrator": "narrator",
-        "leo": "leo"
-      },
-      "segment_ids": [
-        "s01e12-7-001",
-        "s01e12-7-002",
-        "s01e12-7-003",
-        "s01e12-7-004",
-        "s01e12-7-005"
-      ],
-      "words": [
-        [
-          "s01e12-7-001:0-9",
-          "s01e12-7-002:0-6",
-          "s01e12-7-003:0-7"
-        ],
-        [
-          "s01e12-7-004:0-4"
-        ],
-        [
-          "s01e12-7-005:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "È lunedì sera e il Bar Tigli è quasi vuoto. Leo entra con il foglio finale dell'albero. Kevin è con lui. Nadia è al banco.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Nadia! Guarda il foglio finito!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Nadia prende il foglio e lo guarda bene.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 205,
-      "scene": 7,
-      "speakers": {
-        "nadia": "nadia",
-        "leo": "leo"
-      },
-      "segment_ids": [
-        "s01e12-7-006",
-        "s01e12-7-007",
-        "s01e12-7-008"
-      ],
-      "words": [
-        [
-          "s01e12-7-006:0-8"
-        ],
-        [
-          "s01e12-7-007:0-4"
-        ],
-        [
-          "s01e12-7-008:0-1"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Perché il mio nome ha ancora il punto interrogativo?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Perché non sei mia zia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ah. Certo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 206,
-      "scene": 7,
-      "speakers": {
-        "narrator": "narrator",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e12-7-009",
-        "s01e12-7-010"
-      ],
-      "words": [
-        [
-          "s01e12-7-009:0-6"
-        ],
-        [
-          "s01e12-7-010:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Matteo arriva dal retro con un bicchiere.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Nadia, il punto interrogativo è simpatico.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 207,
-      "scene": 7,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e12-7-011",
-        "s01e12-7-012"
-      ],
-      "words": [
-        [
-          "s01e12-7-011:0-1"
-        ],
-        [
-          "s01e12-7-012:0-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Per te.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Franco entra nel bar e si siede al banco.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 208,
-      "scene": 7,
-      "speakers": {
-        "franco": "franco",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e12-7-013",
-        "s01e12-7-014",
-        "s01e12-7-015",
-        "s01e12-7-016"
-      ],
-      "words": [
-        [
-          "s01e12-7-013:0-1"
-        ],
-        [
-          "s01e12-7-014:0-9",
-          "s01e12-7-015:0-5"
-        ],
-        [
-          "s01e12-7-016:0-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Un caffè.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Matteo prepara il caffè e lo mette davanti a Franco. Franco beve e poi guarda Nadia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Nadia, e il matrimonio?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 209,
-      "scene": 7,
-      "speakers": {
-        "nadia": "nadia",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e12-7-017",
-        "s01e12-7-018",
-        "s01e12-7-019"
-      ],
-      "words": [
-        [
-          "s01e12-7-017:0-0"
-        ],
-        [
-          "s01e12-7-018:0-2"
-        ],
-        [
-          "s01e12-7-019:0-0"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Mai.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Palla al centro.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Mai.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 210,
-      "scene": 7,
-      "speakers": {
-        "franco": "franco",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e12-7-020",
-        "s01e12-7-021"
-      ],
-      "words": [
-        [
-          "s01e12-7-020:0-0"
-        ],
-        [
-          "s01e12-7-021:0-6"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Mah.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin apre il quaderno giallo e scrive.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 211,
-      "scene": 7,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e12-7-022",
-        "s01e12-7-023"
-      ],
-      "words": [
-        [
-          "s01e12-7-022:0-3"
-        ],
-        [
-          "s01e12-7-023:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Nome: Nadia Benali. Vero?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Nadia guarda Kevin e sorride appena.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 212,
-      "scene": 7,
-      "speakers": {
-        "nadia": "nadia",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e12-7-024",
-        "s01e12-7-025",
-        "s01e12-7-026"
-      ],
-      "words": [
-        [
-          "s01e12-7-024:0-1"
-        ],
-        [
-          "s01e12-7-025:0-6"
-        ],
-        [
-          "s01e12-7-026:0-5"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sì. Vero.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "E accanto al nome scrivo “punto interrogativo”.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Va bene. Non è un errore.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 213,
-      "scene": 7,
-      "speakers": {
-        "leo": "leo",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e12-7-027",
-        "s01e12-7-028"
-      ],
-      "words": [
-        [
-          "s01e12-7-027:0-5"
-        ],
-        [
-          "s01e12-7-028:0-6"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "È un punto interrogativo della famiglia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Leo e Nadia guardano il foglio insieme.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 214,
-      "scene": 7,
-      "speakers": {
-        "nadia": "nadia",
-        "leo": "leo"
-      },
-      "segment_ids": [
-        "s01e12-7-029",
-        "s01e12-7-030",
-        "s01e12-7-031"
-      ],
-      "words": [
-        [
-          "s01e12-7-029:0-5"
-        ],
-        [
-          "s01e12-7-030:0-1"
-        ],
-        [
-          "s01e12-7-031:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Leo, “mai” e “mai” sono uguale.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Sì. Uguale.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Allora va bene. Il mio nome resta qui.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 215,
-      "scene": 7,
-      "speakers": {
-        "narrator": "narrator",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e12-7-032",
-        "s01e12-7-033",
-        "s01e12-7-034",
-        "s01e12-7-035"
-      ],
-      "words": [
-        [
-          "s01e12-7-032:0-5",
-          "s01e12-7-033:0-6",
-          "s01e12-7-034:0-4"
-        ],
-        [
-          "s01e12-7-035:0-6"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Franco beve il caffè in silenzio. Matteo asciuga il bicchiere e fischia piano. Kevin chiude il quaderno giallo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Perfetto. Il foglio è vero. È finito.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 216,
-      "scene": 7,
-      "speakers": {
-        "nadia": "nadia",
-        "leo": "leo"
-      },
-      "segment_ids": [
-        "s01e12-7-036",
-        "s01e12-7-037",
-        "s01e12-7-038"
-      ],
-      "words": [
-        [
-          "s01e12-7-036:0-5"
-        ],
-        [
-          "s01e12-7-037:0-4"
-        ],
-        [
-          "s01e12-7-038:0-1"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sì. Ma resta il punto interrogativo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Mai e mai sono uguale.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Esatto, Leo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 217,
-      "scene": 7,
-      "speakers": {
-        "narrator": "narrator",
-        "franco": "franco"
-      },
-      "segment_ids": [
-        "s01e12-7-039",
-        "s01e12-7-040"
-      ],
-      "words": [
-        [
-          "s01e12-7-039:0-7"
-        ],
-        [
-          "s01e12-7-040:0-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Franco mette giù la tazzina e si alza.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Vado. Il caffè è freddo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 218,
-      "scene": 7,
-      "speakers": {
-        "leo": "leo",
-        "franco": "franco"
-      },
-      "segment_ids": [
-        "s01e12-7-041",
-        "s01e12-7-042"
-      ],
-      "words": [
-        [
-          "s01e12-7-041:0-0"
-        ],
-        [
-          "s01e12-7-042:0-0"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Mai?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Mai.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "leo",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 219,
-      "scene": 7,
-      "speakers": {
-        "single": "narrator"
-      },
-      "segment_ids": [
-        "s01e12-7-043"
-      ],
-      "words": [
-        [
-          "s01e12-7-043:0-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "La porta si chiude e il bar torna tranquillo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": [
-            {
-              "voice": "Charon"
-            }
-          ]
         }
       }
     }

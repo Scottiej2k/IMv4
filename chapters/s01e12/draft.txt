@@ -11,7 +11,6 @@ la domanda | noun | f | question | domande
 il punto interrogativo | expression | | question mark | punto interrogativo, punti interrogativi
 il giornalista | noun | m | journalist | giornalisti
 la penna | noun | f | pen | penne
-chiedere | verb | | to ask | chiedo, chiede, chiedono
 rispondere | verb | | to answer | rispondo, risponde, rispondono
 disegnare | verb | | to draw | disegno, disegna, disegnano
 insieme | adverb | | together
@@ -62,11 +61,11 @@ Dentro il cassetto ci sono delle foto. || Inside the drawer there are some photo
 «Questi sono i **miei** **genitori**.»{ben} || “These are **my** **parents**.”
 Leo guarda le foto con curiosità. || Leo looks at the photos with curiosity.
 «Come si chiamano?»{leo} || “What are their names?”
-«**Mia** madre si chiama Dorothy. **Mio** padre si chiama Robert.»{ben} || “**My** mother's name is Dorothy. **My** father's name is Robert.”
+«**Mia** madre si chiama Linda. **Mio** padre si chiama Doug.»{ben} || “**My** mother's name is Linda. **My** father's name is Doug.”
 Leo scrive i due **nomi** nei quadrati. || Leo writes the two **names** in the squares.
-«Dorothy e Robert. E tu sei il **loro** figlio.»{leo} || “Dorothy and Robert. And you are **their** son.”
+«Linda e Doug. E tu sei il **loro** figlio.»{leo} || “Linda and Doug. And you are **their** son.”
 «Sì. Io sono il **loro** figlio.»{ben} || “Yes. I am **their** son.”
-«E dove sono Dorothy e Robert?»{leo} || “And where are Dorothy and Robert?”
+«E dove sono Linda e Doug?»{leo} || “And where are Linda and Doug?”
 «In Ohio. **Lontano**.»{ben} || “In Ohio. **Far away**.”
 «Quanto **lontano**?»{leo} || “How **far away**?”
 «**Lontano** da qui. Otto ore di aereo.»{ben} || “**Far away** from here. Eight hours by plane.”
@@ -86,7 +85,7 @@ In quel momento Chiara entra in cucina con la borsa. || At that moment Chiara co
 «Ciao! Che cosa fate qui?»{chiara} || “Hi! What are you doing here?”
 «Il progetto della scuola. La mia famiglia.»{leo} || “The school project. My family.”
 «Bello! E questi chi sono?»{chiara} || “Nice! And who are these?”
-«I **miei** **genitori**, Dorothy e Robert.»{ben} || “**My** **parents**, Dorothy and Robert.”
+«I **miei** **genitori**, Linda e Doug.»{ben} || “**My** **parents**, Linda and Doug.”
 Chiara guarda il foglio e poi guarda Kevin. || Chiara looks at the paper and then at Kevin.
 «Kevin, qui c'è la parola “parenti”?»{chiara} || “Kevin, is the word ‘parenti’ here?”
 «Sì. I parenti sono i genitori, no?»{ben} || “Yes. Relatives are parents, right?”
@@ -165,7 +164,7 @@ Franco si siede davanti a lui, con calma. || Franco sits in front of him, calmly
 «Allora. Che cosa vuoi?»{franco} || “So. What do you want?”
 «Voglio fare l'albero della famiglia. Come un **giornalista**.»{leo} || “I want to make the family tree. Like a **journalist**.”
 «Un **giornalista**? Mah!»{franco} || “A **journalist**? Hmph!”
-«Sì. Io **chiedo**, tu **rispondi**.»{leo} || “Yes. I **ask**, you **answer**.”
+«Sì. Io chiedo, tu **rispondi**.»{leo} || “Yes. I ask, you **answer**.”
 «Io **rispondo**. Ma tu non scrivi male il **mio** **nome**.»{franco} || “I **answer**. But don't write **my** **name** wrong.”
 «No, nonno. Scrivo bene.»{leo} || “No, Grandpa. I write it well.”
 Leo prende la **penna** e mette il foglio sul tavolo. || Leo takes the **pen** and puts the paper on the table.
@@ -389,7 +388,7 @@ Una bambina con i capelli lunghi e un bambino. || A little girl with long hair a
 «Sì. Matteo è il bambino con la maglietta rossa.»{chiara} || “Yes. Matteo is the boy in the red T-shirt.”
 Chiara prende un'altra foto e la mette **insieme** alle altre. || Chiara takes another photo and puts it **together** with the others.
 «Questa è **mia** **madre** al mare. Da **sola**.»{chiara} || “This is **my** **mother** at the sea. By herself.”
-«Da **sola**? Senza voi?»{ben} || “By herself? Without you two?”
+«Da **sola**? Senza voi?»{ben} || “**By herself**? Without you two?”
 «Sì. Le piaceva stare **da sola** sulla spiaggia.»{chiara} || “Yes. She liked being **by herself** on the beach.”
 Kevin prende una foto e la guarda. || Kevin takes a photo and looks at it.
 Nella foto Anna è **lontana**, piccola nel paesaggio. || In the photo Anna is **far away**, small in the landscape.
@@ -427,19 +426,23 @@ Franco prende una foto piccola e la guarda. || Franco takes a small photo and lo
 «**Mio** **padre** si chiama Pietro. **Mia** **madre** si chiama Rosa.»{franco} || “**My** **father**'s name is Pietro. **My** **mother**'s name is Rosa.”
 «Belli i **nomi**. Rosa e Pietro.»{chiara} || “Nice **names**. Rosa and Pietro.”
 Kevin guarda un'altra foto e indica un uomo. || Kevin looks at another photo and points to a man.
-«E questo signore chi è?»{ben} || “And who is this gentleman?”
+«E questo bambino chi è?»{ben} || “And who is this boy?”
 «Questo è **mio** **figlio** Matteo da piccolo.»{franco} || “This is **my** **son** Matteo as a little boy.”
 «E questa bambina?»{ben} || “And this little girl?”
 «Questa è **mia** **figlia**. Chiara.»{franco} || “This is **my** **daughter**. Chiara.”
 Kevin guarda Franco e sorride. || Kevin looks at Franco and smiles.
 «Quindi lei è **tua** **figlia**.»{ben} || “So she is **your** **daughter**.”
-«Sì. **Mia** **figlia**. E Chiara è la **tua** moglie.»{franco} || “Yes. **My** **daughter**. And Chiara is **your** wife.”
+«Sì. **Mia** **figlia**. E Chiara è **tua** moglie.»{franco} || “Yes. **My** **daughter**. And Chiara is **your** wife.”
 «Sì. Chiara è **mia** moglie.»{ben} || “Yes. Chiara is **my** wife.”
 «E tu sei il **marito** di **mia** **figlia**.»{franco} || “And you are **my** **daughter**'s **husband**.”
 Kevin aspetta una parola in più. || Kevin waits for one more word.
 «Quindi io sono...?»{ben} || “So I am...?”
 Franco mette giù la foto e guarda Kevin. || Franco puts down the photo and looks at Kevin.
-«Tu sei **mio** **genero**.»{franco} || “You are **my** **genero**.”
+«Tu sei... l'americano.»{franco|dry} || “You are... the American.”
+
+«Papà! Kevin è **tuo** **genero**.»{chiara} || “Dad! Kevin is your **son-in-law**.”
+
+«Mah.»{franco} || “Bah.”
 Kevin resta fermo con la bocca aperta. || Kevin stands still with his mouth open.
 «**Genero**? Che bella parola!»{ben} || “**Son-in-law**? What a nice word!”
 «Non applaudire.»{franco|dry} || “Don't clap.”
@@ -457,10 +460,6 @@ _Vedo un **ramo** nuovo dell'albero. Ma non parlo._{ben} || *I see a new **branc
 _È il segreto di Franco. E adesso è anche il mio._{ben} || *It's Franco's secret. And now it's mine too.*
 Franco guarda Kevin e poi guarda la sedia. || Franco looks at Kevin and then at the chair.
 Va verso la sedia e prende la sciarpa. || He goes toward the chair and picks up the scarf.
-«Questa è... di Anna.»{franco|slow} || “This is... Anna's.”
-«Bella. Rossa.»{chiara} || “It's nice. Red.”
-«Sì. Rossa come il pomodoro.»{franco} || “Yes. Red like a tomato.”
-Franco apre un cassetto e mette dentro la sciarpa. || Franco opens a drawer and puts the scarf inside.
 Poi chiude il cassetto con calma. || Then he closes the drawer calmly.
 Chiara è ancora con le foto in mano. || Chiara is still holding the photos.
 «Papà, posso tenere questa?»{chiara} || “Dad, can I keep this one?”
@@ -474,7 +473,7 @@ Franco prende la **penna** dal tavolo e la restituisce a Chiara. || Franco takes
 «Vuoi un tè?»{ben} || “Do you want tea?”
 Franco guarda Kevin con una faccia strana. || Franco looks at Kevin with a strange face.
 «L'americano beve il tè.»{franco|dry} || “The American drinks tea.”
-«Sì. E l'americano è **mio** **genero**.»{ben} || “Yes. And the American is **your** **genero**.”
+«Sì. E l'americano è **tuo** **genero**.»{ben} || “Yes. And the American is **your** **genero**.”
 Franco non risponde. Va in cucina. || Franco doesn't answer. He goes into the kitchen.
 Chiara mette la foto nella borsa. || Chiara puts the photo in her bag.
 «Grazie, Kevin. Tu sei **insieme** a me.»{chiara} || “Thanks, Kevin. You are **together** with me.”
@@ -568,7 +567,7 @@ Chiara guarda Leo e mette una mano sulla **sua** testa. || Chiara looks at Leo a
 «**Per sempre**? È una bella parola.»{chiara} || “**Forever**? That's a nice word.”
 «Sì. La famiglia è per sempre.»{leo} || “Yes. Family is forever.”
 Emma è ancora vicino al foglio. || Emma is still near the sheet.
-Guarda il quadrato dell'Olio e il quadrato dell'Ohio. || She looks at the square for Ohio and the square for Ohio.
+Guarda il quadrato dell'Ohio. || She looks at the square for Ohio.
 _Non lo dico, ma l'albero mi piace. È **davvero** bello._{emma} || *I won't say it, but I like the tree. It's **really** nice.*
 «Che ansia.»{emma|dry} || “So stressful.”
 Emma va verso le scale e poi si ferma. || Emma goes toward the stairs and then stops.
@@ -661,51 +660,6 @@ Ornella guarda il foglio sul tavolo. || Ornella looks at the sheet on the table.
 _Un albero genealogico **davvero** strano._{ornella} || *A **really** strange family tree.*
 _E il più **vero**._{ornella} || *And the most **true**.*
 
-# SCENE bar-tigli | lunedì sera | leo, matteo, nadia, franco, ben
-È lunedì sera e il Bar Tigli è quasi vuoto. || It's Monday evening and Bar Tigli is almost empty.
-Leo entra con il foglio finale dell'albero. || Leo comes in with the final tree sheet.
-Kevin è con lui. Nadia è al banco. || Kevin is with him. Nadia is at the counter.
-«Nadia! Guarda il foglio finito!»{leo} || “Nadia! Look at the finished sheet!”
-Nadia prende il foglio e lo guarda bene. || Nadia takes the sheet and looks at it closely.
-«Perché il **mio** **nome** ha ancora il **punto interrogativo**?»{nadia} || “Why does **my** **name** still have the **question mark**?”
-«Perché non sei **mia** zia.»{leo} || “Because you're not **my** aunt.”
-«Ah. Certo.»{nadia|dry} || “Ah. Of course.”
-Matteo arriva dal retro con un bicchiere. || Matteo comes in from the back with a glass.
-«Nadia, il **punto interrogativo** è simpatico.»{matteo} || “Nadia, the **question mark** is nice.”
-«Per te.»{nadia} || “For you.”
-Franco entra nel bar e si siede al banco. || Franco comes into the bar and sits at the counter.
-«Un caffè.»{franco} || “A coffee.”
-Matteo prepara il caffè e lo mette davanti a Franco. || Matteo makes the coffee and puts it in front of Franco.
-Franco beve e poi guarda Nadia. || Franco drinks and then looks at Nadia.
-«Nadia, e il **matrimonio**?»{franco} || “Nadia, and the **wedding**?”
-«**Mai**.»{nadia|dry} || “**Never**.”
-«Palla al centro.»{matteo} || “Let's drop it.”
-«**Mai**.»{nadia} || “**Never**.”
-«Mah.»{franco} || “Hmph.”
-Kevin apre il quaderno giallo e scrive. || Kevin opens the yellow notebook and writes.
-«**Nome**: Nadia Benali. **Vero**?»{ben} || “**Name**: Nadia Benali. **True**?”
-Nadia guarda Kevin e sorride appena. || Nadia looks at Kevin and smiles slightly.
-«Sì. **Vero**.»{nadia} || “Yes. **True**.”
-«E accanto al **nome** scrivo “**punto interrogativo**”.»{ben} || “And next to the **name** I write ‘**question mark**.’”
-«Va bene. Non è un errore.»{nadia} || “All right. It's not a mistake.”
-«È un **punto interrogativo** della famiglia.»{leo} || “It's a **question mark** of the family.”
-Leo e Nadia guardano il foglio **insieme**. || Leo and Nadia look at the sheet **together**.
-«Leo, “**mai**” e “**mai**” sono **uguale**.»{nadia|dry} || “Leo, ‘**never**’ and ‘**never**’ are **the same**.”
-«Sì. **Uguale**.»{leo} || “Yes. **The same**.”
-«Allora va bene. Il **mio** **nome** resta qui.»{nadia} || “So it's fine. **My** **name** stays here.”
-Franco beve il caffè in silenzio. || Franco drinks his coffee in silence.
-Matteo asciuga il bicchiere e fischia piano. || Matteo dries the glass and whistles quietly.
-Kevin chiude il quaderno giallo. || Kevin closes the yellow notebook.
-«Perfetto. Il foglio è **vero**. È finito.»{ben} || “Perfect. The sheet is **true**. It's finished.”
-«Sì. Ma resta il **punto interrogativo**.»{nadia} || “Yes. But the **question mark** stays.”
-«**Mai** e **mai** sono **uguale**.»{leo} || “‘**Never**’ and ‘**never**’ are **the same**.”
-«Esatto, Leo.»{nadia} || “Exactly, Leo.”
-Franco mette giù la tazzina e si alza. || Franco puts down the little cup and stands up.
-«Vado. Il caffè è freddo.»{franco} || “I'm going. The coffee is cold.”
-«**Mai**?»{leo} || “**Never**?”
-«**Mai**.»{franco} || “**Never**.”
-La porta si chiude e il bar torna tranquillo. || The door closes and the bar goes quiet again.
-
 @grammar
 # Possessive adjectives: my, your, his, her, our, their
 
@@ -745,7 +699,7 @@ But you **do** use the article:
 
 ## From the story
 
-[[Mia madre si chiama Dorothy. Mio padre si chiama Robert.]]
+[[Mia madre si chiama Linda. Mio padre si chiama Doug.]]
 No article: *madre* and *padre* are singular family nouns, so the article disappears.
 
 [[Voi due siete i miei figli.]]
@@ -781,7 +735,7 @@ Another singular family noun with no article: *tuo nonno*, not *il tuo nonno*.
 
 Fill in the blank with the correct possessive (add the article where needed).
 
-1. ______ padre si chiama Robert. *(I)*
+1. ______ padre si chiama Doug. *(I)*
 2. ______ sorella è in Ohio. *(you, singular)*
 3. ______ nonno è di Milano. *(she)*
 4. ______ figli sono a scuola. *(we)*

@@ -42,11 +42,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Questi sono i **miei** **genitori**.» | “These are **my** **parents**.” |
 | Leo guarda le foto con curiosità. | Leo looks at the photos with curiosity. |
 | «Come si chiamano?» | “What are their names?” |
-| «**Mia** madre si chiama Dorothy. **Mio** padre si chiama Robert.» | “**My** mother's name is Dorothy. **My** father's name is Robert.” |
+| «**Mia** madre si chiama Linda. **Mio** padre si chiama Doug.» | “**My** mother's name is Linda. **My** father's name is Doug.” |
 | Leo scrive i due **nomi** nei quadrati. | Leo writes the two **names** in the squares. |
-| «Dorothy e Robert. E tu sei il **loro** figlio.» | “Dorothy and Robert. And you are **their** son.” |
+| «Linda e Doug. E tu sei il **loro** figlio.» | “Linda and Doug. And you are **their** son.” |
 | «Sì. Io sono il **loro** figlio.» | “Yes. I am **their** son.” |
-| «E dove sono Dorothy e Robert?» | “And where are Dorothy and Robert?” |
+| «E dove sono Linda e Doug?» | “And where are Linda and Doug?” |
 | «In Ohio. **Lontano**.» | “In Ohio. **Far away**.” |
 | «Quanto **lontano**?» | “How **far away**?” |
 | «**Lontano** da qui. Otto ore di aereo.» | “**Far away** from here. Eight hours by plane.” |
@@ -66,7 +66,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ciao! Che cosa fate qui?» | “Hi! What are you doing here?” |
 | «Il progetto della scuola. La mia famiglia.» | “The school project. My family.” |
 | «Bello! E questi chi sono?» | “Nice! And who are these?” |
-| «I **miei** **genitori**, Dorothy e Robert.» | “**My** **parents**, Dorothy and Robert.” |
+| «I **miei** **genitori**, Linda e Doug.» | “**My** **parents**, Linda and Doug.” |
 | Chiara guarda il foglio e poi guarda Kevin. | Chiara looks at the paper and then at Kevin. |
 | «Kevin, qui c'è la parola “parenti”?» | “Kevin, is the word ‘parenti’ here?” |
 | «Sì. I parenti sono i genitori, no?» | “Yes. Relatives are parents, right?” |
@@ -148,7 +148,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora. Che cosa vuoi?» | “So. What do you want?” |
 | «Voglio fare l'albero della famiglia. Come un **giornalista**.» | “I want to make the family tree. Like a **journalist**.” |
 | «Un **giornalista**? Mah!» | “A **journalist**? Hmph!” |
-| «Sì. Io **chiedo**, tu **rispondi**.» | “Yes. I **ask**, you **answer**.” |
+| «Sì. Io chiedo, tu **rispondi**.» | “Yes. I ask, you **answer**.” |
 | «Io **rispondo**. Ma tu non scrivi male il **mio** **nome**.» | “I **answer**. But don't write **my** **name** wrong.” |
 | «No, nonno. Scrivo bene.» | “No, Grandpa. I write it well.” |
 | Leo prende la **penna** e mette il foglio sul tavolo. | Leo takes the **pen** and puts the paper on the table. |
@@ -378,7 +378,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Matteo è il bambino con la maglietta rossa.» | “Yes. Matteo is the boy in the red T-shirt.” |
 | Chiara prende un'altra foto e la mette **insieme** alle altre. | Chiara takes another photo and puts it **together** with the others. |
 | «Questa è **mia** **madre** al mare. Da **sola**.» | “This is **my** **mother** at the sea. By herself.” |
-| «Da **sola**? Senza voi?» | “By herself? Without you two?” |
+| «Da **sola**? Senza voi?» | “**By herself**? Without you two?” |
 | «Sì. Le piaceva stare **da sola** sulla spiaggia.» | “Yes. She liked being **by herself** on the beach.” |
 | Kevin prende una foto e la guarda. | Kevin takes a photo and looks at it. |
 | Nella foto Anna è **lontana**, piccola nel paesaggio. | In the photo Anna is **far away**, small in the landscape. |
@@ -416,19 +416,21 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Mio** **padre** si chiama Pietro. **Mia** **madre** si chiama Rosa.» | “**My** **father**'s name is Pietro. **My** **mother**'s name is Rosa.” |
 | «Belli i **nomi**. Rosa e Pietro.» | “Nice **names**. Rosa and Pietro.” |
 | Kevin guarda un'altra foto e indica un uomo. | Kevin looks at another photo and points to a man. |
-| «E questo signore chi è?» | “And who is this gentleman?” |
+| «E questo bambino chi è?» | “And who is this boy?” |
 | «Questo è **mio** **figlio** Matteo da piccolo.» | “This is **my** **son** Matteo as a little boy.” |
 | «E questa bambina?» | “And this little girl?” |
 | «Questa è **mia** **figlia**. Chiara.» | “This is **my** **daughter**. Chiara.” |
 | Kevin guarda Franco e sorride. | Kevin looks at Franco and smiles. |
 | «Quindi lei è **tua** **figlia**.» | “So she is **your** **daughter**.” |
-| «Sì. **Mia** **figlia**. E Chiara è la **tua** moglie.» | “Yes. **My** **daughter**. And Chiara is **your** wife.” |
+| «Sì. **Mia** **figlia**. E Chiara è **tua** moglie.» | “Yes. **My** **daughter**. And Chiara is **your** wife.” |
 | «Sì. Chiara è **mia** moglie.» | “Yes. Chiara is **my** wife.” |
 | «E tu sei il **marito** di **mia** **figlia**.» | “And you are **my** **daughter**'s **husband**.” |
 | Kevin aspetta una parola in più. | Kevin waits for one more word. |
 | «Quindi io sono...?» | “So I am...?” |
 | Franco mette giù la foto e guarda Kevin. | Franco puts down the photo and looks at Kevin. |
-| «Tu sei **mio** **genero**.» | “You are **my** **genero**.” |
+| «Tu sei... l'americano.» | “You are... the American.” |
+| «Papà! Kevin è **tuo** **genero**.» | “Dad! Kevin is your **son-in-law**.” |
+| «Mah.» | “Bah.” |
 | Kevin resta fermo con la bocca aperta. | Kevin stands still with his mouth open. |
 | «**Genero**? Che bella parola!» | “**Son-in-law**? What a nice word!” |
 | «Non applaudire.» | “Don't clap.” |
@@ -446,10 +448,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _È il segreto di Franco. E adesso è anche il mio._ | _It's Franco's secret. And now it's mine too._ |
 | Franco guarda Kevin e poi guarda la sedia. | Franco looks at Kevin and then at the chair. |
 | Va verso la sedia e prende la sciarpa. | He goes toward the chair and picks up the scarf. |
-| «Questa è... di Anna.» | “This is... Anna's.” |
-| «Bella. Rossa.» | “It's nice. Red.” |
-| «Sì. Rossa come il pomodoro.» | “Yes. Red like a tomato.” |
-| Franco apre un cassetto e mette dentro la sciarpa. | Franco opens a drawer and puts the scarf inside. |
 | Poi chiude il cassetto con calma. | Then he closes the drawer calmly. |
 | Chiara è ancora con le foto in mano. | Chiara is still holding the photos. |
 | «Papà, posso tenere questa?» | “Dad, can I keep this one?” |
@@ -463,7 +461,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Vuoi un tè?» | “Do you want tea?” |
 | Franco guarda Kevin con una faccia strana. | Franco looks at Kevin with a strange face. |
 | «L'americano beve il tè.» | “The American drinks tea.” |
-| «Sì. E l'americano è **mio** **genero**.» | “Yes. And the American is **your** **genero**.” |
+| «Sì. E l'americano è **tuo** **genero**.» | “Yes. And the American is **your** **genero**.” |
 | Franco non risponde. Va in cucina. | Franco doesn't answer. He goes into the kitchen. |
 | Chiara mette la foto nella borsa. | Chiara puts the photo in her bag. |
 | «Grazie, Kevin. Tu sei **insieme** a me.» | “Thanks, Kevin. You are **together** with me.” |
@@ -560,7 +558,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Per sempre**? È una bella parola.» | “**Forever**? That's a nice word.” |
 | «Sì. La famiglia è per sempre.» | “Yes. Family is forever.” |
 | Emma è ancora vicino al foglio. | Emma is still near the sheet. |
-| Guarda il quadrato dell'Olio e il quadrato dell'Ohio. | She looks at the square for Ohio and the square for Ohio. |
+| Guarda il quadrato dell'Ohio. | She looks at the square for Ohio. |
 | _Non lo dico, ma l'albero mi piace. È **davvero** bello._ | _I won't say it, but I like the tree. It's **really** nice._ |
 | «Che ansia.» | “So stressful.” |
 | Emma va verso le scale e poi si ferma. | Emma goes toward the stairs and then stops. |
@@ -655,51 +653,3 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella guarda il foglio sul tavolo. | Ornella looks at the sheet on the table. |
 | _Un albero genealogico **davvero** strano._ | _A **really** strange family tree._ |
 | _E il più **vero**._ | _And the most **true**._ |
-
-## 7. Bar Tigli · lunedì sera
-
-| Italiano | English |
-|---|---|
-| È lunedì sera e il Bar Tigli è quasi vuoto. | It's Monday evening and Bar Tigli is almost empty. |
-| Leo entra con il foglio finale dell'albero. | Leo comes in with the final tree sheet. |
-| Kevin è con lui. Nadia è al banco. | Kevin is with him. Nadia is at the counter. |
-| «Nadia! Guarda il foglio finito!» | “Nadia! Look at the finished sheet!” |
-| Nadia prende il foglio e lo guarda bene. | Nadia takes the sheet and looks at it closely. |
-| «Perché il **mio** **nome** ha ancora il **punto interrogativo**?» | “Why does **my** **name** still have the **question mark**?” |
-| «Perché non sei **mia** zia.» | “Because you're not **my** aunt.” |
-| «Ah. Certo.» | “Ah. Of course.” |
-| Matteo arriva dal retro con un bicchiere. | Matteo comes in from the back with a glass. |
-| «Nadia, il **punto interrogativo** è simpatico.» | “Nadia, the **question mark** is nice.” |
-| «Per te.» | “For you.” |
-| Franco entra nel bar e si siede al banco. | Franco comes into the bar and sits at the counter. |
-| «Un caffè.» | “A coffee.” |
-| Matteo prepara il caffè e lo mette davanti a Franco. | Matteo makes the coffee and puts it in front of Franco. |
-| Franco beve e poi guarda Nadia. | Franco drinks and then looks at Nadia. |
-| «Nadia, e il **matrimonio**?» | “Nadia, and the **wedding**?” |
-| «**Mai**.» | “**Never**.” |
-| «Palla al centro.» | “Let's drop it.” |
-| «**Mai**.» | “**Never**.” |
-| «Mah.» | “Hmph.” |
-| Kevin apre il quaderno giallo e scrive. | Kevin opens the yellow notebook and writes. |
-| «**Nome**: Nadia Benali. **Vero**?» | “**Name**: Nadia Benali. **True**?” |
-| Nadia guarda Kevin e sorride appena. | Nadia looks at Kevin and smiles slightly. |
-| «Sì. **Vero**.» | “Yes. **True**.” |
-| «E accanto al **nome** scrivo “**punto interrogativo**”.» | “And next to the **name** I write ‘**question mark**.’” |
-| «Va bene. Non è un errore.» | “All right. It's not a mistake.” |
-| «È un **punto interrogativo** della famiglia.» | “It's a **question mark** of the family.” |
-| Leo e Nadia guardano il foglio **insieme**. | Leo and Nadia look at the sheet **together**. |
-| «Leo, “**mai**” e “**mai**” sono **uguale**.» | “Leo, ‘**never**’ and ‘**never**’ are **the same**.” |
-| «Sì. **Uguale**.» | “Yes. **The same**.” |
-| «Allora va bene. Il **mio** **nome** resta qui.» | “So it's fine. **My** **name** stays here.” |
-| Franco beve il caffè in silenzio. | Franco drinks his coffee in silence. |
-| Matteo asciuga il bicchiere e fischia piano. | Matteo dries the glass and whistles quietly. |
-| Kevin chiude il quaderno giallo. | Kevin closes the yellow notebook. |
-| «Perfetto. Il foglio è **vero**. È finito.» | “Perfect. The sheet is **true**. It's finished.” |
-| «Sì. Ma resta il **punto interrogativo**.» | “Yes. But the **question mark** stays.” |
-| «**Mai** e **mai** sono **uguale**.» | “‘**Never**’ and ‘**never**’ are **the same**.” |
-| «Esatto, Leo.» | “Exactly, Leo.” |
-| Franco mette giù la tazzina e si alza. | Franco puts down the little cup and stands up. |
-| «Vado. Il caffè è freddo.» | “I'm going. The coffee is cold.” |
-| «**Mai**?» | “**Never**?” |
-| «**Mai**.» | “**Never**.” |
-| La porta si chiude e il bar torna tranquillo. | The door closes and the bar goes quiet again. |

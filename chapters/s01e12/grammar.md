@@ -36,7 +36,7 @@ But you **do** use the article:
 
 ## From the story
 
-«**Mia** madre si chiama Dorothy. **Mio** padre si chiama Robert.» — “**My** mother's name is Dorothy. **My** father's name is Robert.” (`s01e12-1-035`)
+«**Mia** madre si chiama Linda. **Mio** padre si chiama Doug.» — “**My** mother's name is Linda. **My** father's name is Doug.” (`s01e12-1-035`)
 No article: *madre* and *padre* are singular family nouns, so the article disappears.
 
 «Voi due siete i **miei** figli.» — “You two are **my** children.” (`s01e12-1-080`)
@@ -48,7 +48,6 @@ With a plural (*figli*), the article comes back: *i miei figli*.
 «**Mia** **figlia** è Chiara. **Tua** **madre**.» — “**My** **daughter** is Chiara. **Your** **mother**.” (`s01e12-2-022`)
 *Mia* agrees with *figlia*, *tua* agrees with *madre* — two different owners, same rule.
 
-«Tu sei **mio** **genero**.» — “You are **my** **genero**.” (`s01e12-4-073`)
 *Genero* ("son-in-law") is a masculine singular family noun: no article, masculine *mio*.
 
 «Sì. Non ha nipoti. E io sono il **suo** nipote.» — “Yes. She has no grandchildren. And I'm **her** grandson.” (`s01e12-5-036`)
@@ -72,7 +71,7 @@ Another singular family noun with no article: *tuo nonno*, not *il tuo nonno*.
 
 Fill in the blank with the correct possessive (add the article where needed).
 
-1. ______ padre si chiama Robert. *(I)*
+1. ______ padre si chiama Doug. *(I)*
 2. ______ sorella è in Ohio. *(you, singular)*
 3. ______ nonno è di Milano. *(she)*
 4. ______ figli sono a scuola. *(we)*
