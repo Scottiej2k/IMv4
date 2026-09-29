@@ -97,7 +97,7 @@ At the checkout you'll hear **il resto** ("the change") and you can ask for **lo
 «**Quanto costa** la **carne**?» chiede Kevin. — “**How much does** the **meat** cost?” asks Kevin. (`s01e21-2-081`)
 *The price question, with a singular verb.*
 
-«E il **resto**?» chiede Kevin. — “And the **change**?” asks Kevin. (`s01e21-1-053`)
+«E il **resto**?» chiede Kevin. — “And the **change**?” asks Kevin. (`s01e21-2-070`)
 *The change — what you always ask for after paying.*
 
 ## Common mistakes English speakers make

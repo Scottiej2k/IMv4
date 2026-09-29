@@ -82,36 +82,6 @@ Kevin scrive: UN **ETTO** = **100 GRAMMI**.
 
 «**Chili**, **etti**, **grammi**» ripete Kevin.
 
-«E **quanto costa** tutto?» chiede.
-
-«Il mercato è economico, signor Carter.»
-
-«**Quanto costa** il formaggio?» chiede Kevin.
-
-«Otto **euro** al **chilo**. È **fresco**» dice Ornella.
-
-«Il **banco** del formaggio è là» dice Ornella.
-
-«**Quanto costa** un **chilo** di **mele**?» chiede Kevin.
-
-«Due **euro**. E un **etto** di formaggio, due **euro**.»
-
-«Otto **euro** al **chilo**» dice Ornella.
-
-«Otto **euro**! E la **carne**?» chiede Kevin.
-
-«La **carne** è cara. Dodici **euro** al **chilo**.»
-
-«Dodici **euro** al **chilo**» scrive Kevin.
-
-«E il **resto**?» chiede Kevin.
-
-«Il **resto** è importante» dice Ornella.
-
-«Sì. Il **resto** è soldi.»
-
-«Bravo, signor Carter.»
-
 Poi Ornella dà a Kevin una **busta**.
 
 «Questa **busta** è per la **spesa**» dice.
@@ -208,7 +178,7 @@ Franco va al **banco** della frutta. Dietro il **banco** c'è una donna con un g
 
 «Bravo» dice Franco. «Tu impari.»
 
-Kevin prende una **mela** e la guarda bene. Poi prende un'altra **mela**. Poi un **limone**. «Kevin!» dice Franco.
+Kevin prende una **mela** e la guarda bene. Poi prende un'altra **mela**. Poi un **limone**. «Americano!» dice Franco.
 
 «Sì?» chiede Kevin.
 
@@ -334,7 +304,7 @@ Franco **paga** alla **cassa**. Il **cliente** dopo di loro è un uomo con un ca
 
 Franco ride di nuovo. _Tre volte! Franco ride tre volte!_
 
-«Kevin, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...» dice Franco.
+«Americano, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...» dice Franco.
 
 «Sì! Io **tocco** tutto, **pago** tutto!» dice Kevin.
 
@@ -478,7 +448,7 @@ Matteo guarda la lista e sorride. «Ho un'altra idea! Lo **sconto** del **client
 
 «E il **cliente** nuovo?» chiede Kevin.
 
-«Paga tutto!» dice Matteo e ride.
+«**Paga** tutto!» dice Matteo e ride.
 
 «No, Matteo» dice Nadia. «Un bar non è **caro** e non è **economico**. È solo onesto.»
 
@@ -510,7 +480,7 @@ Matteo esce dal bar e torna con un **carrello** del supermercato. «Ecco! Il **c
 
 «Ma è del supermercato!» dice Nadia.
 
-«Sì. Ma il supermercato è chiuso oggi» dice Matteo.
+«Sì. Ma il supermercato ha tanti carrelli. Uno è mio» dice Matteo.
 
 «E domani?» chiede Nadia.
 
@@ -632,13 +602,13 @@ Leo mette la **mela** sulla **bilancia**. «Duecento grammi!» dice Leo.
 
 «**Quanto costa** duecento grammi?» chiede Leo.
 
-«La **mela** è **economica**. **Un euro** al **chilo**» dice Kevin.
+«La **mela** è **economica**. **Due euro** al **chilo**» dice Kevin.
 
 «E **mezzo chilo**?» chiede Leo.
 
-«**Mezzo** chilo è **cinquanta centesimi**» dice Kevin.
+«**Mezzo** chilo è **un euro**» dice Kevin.
 
-«Cinquanta centesimi! **Economico**!» dice Leo.
+«Un euro! **Economico**!» dice Leo.
 
 «Sì. Bravo, Leo. Tu impari come me» dice Kevin.
 
@@ -840,10 +810,6 @@ Chiara ferma la forchetta. «Kevin. Si dice “la **carne** è **cara**. È **ca
 
 «Ah, **cara**. La **carne** è **cara**» dice Kevin.
 
-«Sì. E una cosa diversa è un'altra cosa» dice Chiara.
-
-«Un'altra cosa» dice Kevin.
-
 Leo guarda Kevin e poi Chiara. «Papà, e il **carrello**?» chiede Leo.
 
 «Ah, il **carrello**! Matteo prende il **carrello** del supermercato» dice Kevin.
@@ -862,7 +828,7 @@ La cena è quasi finita. Chiara beve l'acqua dalla sua **bottiglia**. «E oggi F
 
 «Sì. Con me» dice Kevin. Chiara non risponde. Guarda la tavola e pensa.
 
-_Papà **rideva**. Con Kevin._ «Bene» dice Chiara dopo un momento.
+_Papà **ride**. Con Kevin._ «Bene» dice Chiara dopo un momento.
 
 «Bene» dice Kevin.
 

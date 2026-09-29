@@ -64,10 +64,10 @@
       "lemma": "quanto costa?",
       "pos": "expression",
       "en": "how much does it cost?",
-      "example": "s01e21-1-042",
+      "example": "s01e21-2-060",
       "target": {
-        "it": "quanto costa",
-        "en": "how much does"
+        "it": "Quanto costa",
+        "en": "How much does"
       }
     },
     {
@@ -168,7 +168,7 @@
       "lemma": "la busta",
       "pos": "noun",
       "en": "bag, sack",
-      "example": "s01e21-1-059",
+      "example": "s01e21-1-044",
       "target": {
         "it": "busta",
         "en": "bag"
@@ -275,7 +275,7 @@
       "lemma": "il resto",
       "pos": "noun",
       "en": "change (money back)",
-      "example": "s01e21-1-053",
+      "example": "s01e21-2-070",
       "target": {
         "it": "resto",
         "en": "change"
@@ -2181,7 +2181,7 @@
             {
               "id": "s01e21-1-021",
               "it": "«Ecco. Un **etto** di formaggio...» inizia.",
-              "en": "“Here. A hundred grams of cheese...” she begins.",
+              "en": "“Here. A **hundred grams** of cheese...” she begins.",
               "voice": [
                 [
                   "ornella",
@@ -4188,1410 +4188,6 @@
           "segments": [
             {
               "id": "s01e21-1-042",
-              "it": "«E **quanto costa** tutto?» chiede.",
-              "en": "“And **how much does** everything cost?” he asks.",
-              "voice": [
-                [
-                  "ben",
-                  "E **quanto costa** tutto?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quanto",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "costa",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutto",
-                  3,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-quanto-costa"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-043",
-              "it": "«Il mercato è economico, signor Carter.»",
-              "en": "“The market is inexpensive, Signor Carter.”",
-              "voice": [
-                [
-                  "ornella",
-                  "Il mercato è economico, signor Carter.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mercato",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "economico",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "signor",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-044",
-              "it": "«**Quanto costa** il formaggio?» chiede Kevin.",
-              "en": "“**How much does** the cheese cost?” asks Kevin.",
-              "voice": [
-                [
-                  "ben",
-                  "**Quanto costa** il formaggio?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Quanto",
-                  0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "costa",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "formaggio",
-                  3,
-                  ""
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-quanto-costa"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-045",
-              "it": "«Otto **euro** al **chilo**. È **fresco**» dice Ornella.",
-              "en": "“Eight **euros** a **kilo**. It's **fresh**,” says Ornella.",
-              "voice": [
-                [
-                  "ornella",
-                  "Otto **euro** al **chilo**. È **fresco**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Ornella.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Otto",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chilo",
-                  3,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fresco",
-                  5,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ornella",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-euro",
-                "v-chilo",
-                "v-fresco"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-046",
-              "it": "«Il **banco** del formaggio è là» dice Ornella.",
-              "en": "“The **stall** of the cheese is over there,” says Ornella.",
-              "voice": [
-                [
-                  "ornella",
-                  "Il **banco** del formaggio è là",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Ornella.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "banco",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "del",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "formaggio",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "là",
-                  5,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ornella",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-banco"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-047",
-              "it": "«**Quanto costa** un **chilo** di **mele**?» chiede Kevin.",
-              "en": "“**How much does** a **kilo** of **apples** cost?” asks Kevin.",
-              "voice": [
-                [
-                  "ben",
-                  "**Quanto costa** un **chilo** di **mele**?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Quanto",
-                  0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "costa",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chilo",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mele",
-                  5,
-                  "b"
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-quanto-costa",
-                "v-chilo",
-                "v-mela"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-048",
-              "it": "«Due **euro**. E un **etto** di formaggio, due **euro**.»",
-              "en": "“Two **euros**. And a hundred grams of cheese, two **euros**.”",
-              "voice": [
-                [
-                  "ornella",
-                  "Due **euro**. E un **etto** di formaggio, due **euro**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Due",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  1,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "etto",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "formaggio",
-                  6,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "due",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  8,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-euro",
-                "v-etto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-049",
-              "it": "«Otto **euro** al **chilo**» dice Ornella.",
-              "en": "“Eight **euros** a **kilo**,” says Ornella.",
-              "voice": [
-                [
-                  "ornella",
-                  "Otto **euro** al **chilo**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Ornella.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Otto",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chilo",
-                  3,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ornella",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-euro",
-                "v-chilo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-050",
-              "it": "«Otto **euro**! E la **carne**?» chiede Kevin.",
-              "en": "“Eight **euros**! And **meat**?” asks Kevin.",
-              "voice": [
-                [
-                  "ben",
-                  "Otto **euro**! E la **carne**?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Otto",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  1,
-                  "b"
-                ],
-                [
-                  "! ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "carne",
-                  4,
-                  "b"
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-euro",
-                "v-carne"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-051",
-              "it": "«La **carne** è cara. Dodici **euro** al **chilo**.»",
-              "en": "“**Meat** is expensive. Twelve **euros** a **kilo**.”",
-              "voice": [
-                [
-                  "ornella",
-                  "La **carne** è cara. Dodici **euro** al **chilo**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "carne",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cara",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Dodici",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chilo",
-                  7,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-carne",
-                "v-euro",
-                "v-chilo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-052",
-              "it": "«Dodici **euro** al **chilo**» scrive Kevin.",
-              "en": "“Twelve **euros** a **kilo**,” Kevin writes.",
-              "voice": [
-                [
-                  "ben",
-                  "Dodici **euro** al **chilo**",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "scrive Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Dodici",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "euro",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chilo",
-                  3,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scrive",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-euro",
-                "v-chilo"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-053",
-              "it": "«E il **resto**?» chiede Kevin.",
-              "en": "“And the **change**?” asks Kevin.",
-              "voice": [
-                [
-                  "ben",
-                  "E il **resto**?",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "chiede Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "resto",
-                  2,
-                  "b"
-                ],
-                [
-                  "?» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiede",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-resto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-054",
-              "it": "«Il **resto** è importante» dice Ornella.",
-              "en": "“The **change** is important,” says Ornella.",
-              "voice": [
-                [
-                  "ornella",
-                  "Il **resto** è importante",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Ornella.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "resto",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "importante",
-                  3,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ornella",
-                  5,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-resto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-055",
-              "it": "«Sì. Il **resto** è soldi.»",
-              "en": "“Yes. The **change** is money.”",
-              "voice": [
-                [
-                  "ornella",
-                  "Sì. Il **resto** è soldi.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "resto",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "soldi",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-resto"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-056",
-              "it": "«Bravo, signor Carter.»",
-              "en": "“Bravo, Signor Carter.”",
-              "voice": [
-                [
-                  "ornella",
-                  "Bravo, signor Carter.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bravo",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "signor",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  2,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-1-057",
               "it": "Poi Ornella dà a Kevin una **busta**.",
               "en": "Then Ornella gives Kevin a **bag**.",
               "voice": [
@@ -5682,7 +4278,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-058",
+              "id": "s01e21-1-043",
               "it": "«Questa **busta** è per la **spesa**» dice.",
               "en": "“This **bag** is for **the shopping**,” she says.",
               "voice": [
@@ -5784,7 +4380,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-059",
+              "id": "s01e21-1-044",
               "it": "«Una **busta** grande!» dice Kevin.",
               "en": "“A big **bag**!” says Kevin.",
               "voice": [
@@ -5865,7 +4461,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-060",
+              "id": "s01e21-1-045",
               "it": "«Sì. La **busta** è grande ma leggera» dice Ornella.",
               "en": "“Yes. The **bag** is big but light,” says Ornella.",
               "voice": [
@@ -5986,7 +4582,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-061",
+              "id": "s01e21-1-046",
               "it": "Ornella sorride e dice: «La **busta** è forte.»",
               "en": "Ornella smiles and says: “The **bag** is strong.”",
               "voice": [
@@ -6092,7 +4688,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-062",
+              "id": "s01e21-1-047",
               "it": "Kevin mette la **busta** nella tasca.",
               "en": "Kevin puts the **bag** in his pocket.",
               "voice": [
@@ -6173,7 +4769,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-063",
+              "id": "s01e21-1-048",
               "it": "«Alla **cassa**, poi, pago» dice.",
               "en": "“At the **checkout**, later, I pay,” he says.",
               "voice": [
@@ -6254,7 +4850,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-064",
+              "id": "s01e21-1-049",
               "it": "«La **cassa** è alla fine del mercato» dice Ornella.",
               "en": "“The **checkout** is at the end of the market,” says Ornella.",
               "voice": [
@@ -6375,7 +4971,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-065",
+              "id": "s01e21-1-050",
               "it": "«Alla fine. Pago e prendo il **resto**.»",
               "en": "“At the end. I pay and take the **change**.”",
               "voice": [
@@ -6471,7 +5067,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-066",
+              "id": "s01e21-1-051",
               "it": "«Esatto.»",
               "en": "“Exactly.”",
               "voice": [
@@ -6504,7 +5100,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-067",
+              "id": "s01e21-1-052",
               "it": "In quel momento arriva Franco dal numero nove.",
               "en": "At that moment Franco arrives from number nine.",
               "voice": [
@@ -6598,7 +5194,7 @@
               ]
             },
             {
-              "id": "s01e21-1-068",
+              "id": "s01e21-1-053",
               "it": "Franco guarda il quaderno giallo di Kevin.",
               "en": "Franco looks at Kevin's yellow notebook.",
               "voice": [
@@ -6686,7 +5282,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-069",
+              "id": "s01e21-1-054",
               "it": "«Il quaderno. Mah!» dice Franco.",
               "en": "“The notebook. Mah!” says Franco.",
               "voice": [
@@ -6764,7 +5360,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-070",
+              "id": "s01e21-1-055",
               "it": "«Buongiorno, Franco!» dice Kevin.",
               "en": "“Good morning, Franco!” says Kevin.",
               "voice": [
@@ -6832,7 +5428,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-071",
+              "id": "s01e21-1-056",
               "it": "«Oggi impari la **spesa**?» chiede Franco.",
               "en": "“Today you're learning **the shopping**?” asks Franco.",
               "voice": [
@@ -6923,7 +5519,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-072",
+              "id": "s01e21-1-057",
               "it": "«Sì! Oggi il mercato è la mia scuola!»",
               "en": "“Yes! Today the market is my school!”",
               "voice": [
@@ -7026,7 +5622,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-073",
+              "id": "s01e21-1-058",
               "it": "_E oggi impari anche tu, Franco._",
               "en": "_And today you're learning too, Franco._",
               "voice": [
@@ -7104,7 +5700,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-074",
+              "id": "s01e21-1-059",
               "it": "«Mah!» dice Franco e cammina.",
               "en": "“Mah!” says Franco and walks.",
               "voice": [
@@ -7182,7 +5778,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-075",
+              "id": "s01e21-1-060",
               "it": "«Il **resto** è per il caffè» dice Franco.",
               "en": "“The **change** is for the coffee,” says Franco.",
               "voice": [
@@ -7293,7 +5889,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-076",
+              "id": "s01e21-1-061",
               "it": "«Grazie, Franco» dice Kevin.",
               "en": "“Thank you, Franco,” says Kevin.",
               "voice": [
@@ -7361,7 +5957,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-077",
+              "id": "s01e21-1-062",
               "it": "Kevin prende la **busta** e cammina con Franco.",
               "en": "Kevin takes the **bag** and walks with Franco.",
               "voice": [
@@ -7462,7 +6058,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-078",
+              "id": "s01e21-1-063",
               "it": "«Oggi la **spesa** è mia» dice Kevin.",
               "en": "“Today **the shopping** is mine,” says Kevin.",
               "voice": [
@@ -7563,7 +6159,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-1-079",
+              "id": "s01e21-1-064",
               "it": "Franco non risponde. Ma cammina piano.",
               "en": "Franco doesn't answer. But he walks slowly.",
               "voice": [
@@ -7637,7 +6233,7 @@
               ]
             },
             {
-              "id": "s01e21-1-080",
+              "id": "s01e21-1-065",
               "it": "Oggi il mercato è la scuola di Kevin.",
               "en": "Today the market is Kevin's school.",
               "voice": [
@@ -11312,12 +9908,12 @@
             },
             {
               "id": "s01e21-2-035",
-              "it": "«Kevin!» dice Franco.",
-              "en": "“Kevin!” says Franco.",
+              "it": "«Americano!» dice Franco.",
+              "en": "“American!” says Franco.",
               "voice": [
                 [
                   "franco",
-                  "Kevin!",
+                  "Americano!",
                   ""
                 ],
                 [
@@ -11333,7 +9929,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Americano",
                   0,
                   ""
                 ],
@@ -19505,12 +18101,12 @@
           "segments": [
             {
               "id": "s01e21-2-117",
-              "it": "«Kevin, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...» dice Franco.",
-              "en": "“Kevin, you **touch** the fruit, you ask for the **discount**, you ask for the **change**...” says Franco.",
+              "it": "«Americano, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...» dice Franco.",
+              "en": "“American, you **touch** the fruit, you ask for the **discount**, you ask for the **change**...” says Franco.",
               "voice": [
                 [
                   "franco",
-                  "Kevin, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...",
+                  "Americano, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...",
                   ""
                 ],
                 [
@@ -19526,7 +18122,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Americano",
                   0,
                   ""
                 ],
@@ -27241,12 +25837,12 @@
           "segments": [
             {
               "id": "s01e21-3-061",
-              "it": "«Paga tutto!» dice Matteo e ride.",
+              "it": "«**Paga** tutto!» dice Matteo e ride.",
               "en": "“**Pays** everything!” says Matteo and laughs.",
               "voice": [
                 [
                   "matteo",
-                  "Paga tutto!",
+                  "**Paga** tutto!",
                   ""
                 ],
                 [
@@ -27264,7 +25860,7 @@
                 [
                   "Paga",
                   0,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -27321,6 +25917,9 @@
                   -1,
                   ""
                 ]
+              ],
+              "focus": [
+                "v-pagare"
               ]
             }
           ]
@@ -29207,12 +27806,12 @@
           "segments": [
             {
               "id": "s01e21-3-079",
-              "it": "«Sì. Ma il supermercato è chiuso oggi» dice Matteo.",
-              "en": "“Yes. But the supermarket is closed today,” says Matteo.",
+              "it": "«Sì. Ma il supermercato ha tanti carrelli. Uno è mio» dice Matteo.",
+              "en": "“Yes. But the supermarket has lots of carts. One is mine,” says Matteo.",
               "voice": [
                 [
                   "matteo",
-                  "Sì. Ma il supermercato è chiuso oggi",
+                  "Sì. Ma il supermercato ha tanti carrelli. Uno è mio",
                   ""
                 ],
                 [
@@ -29268,7 +27867,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "ha",
                   4,
                   ""
                 ],
@@ -29278,7 +27877,7 @@
                   ""
                 ],
                 [
-                  "chiuso",
+                  "tanti",
                   5,
                   ""
                 ],
@@ -29288,17 +27887,17 @@
                   ""
                 ],
                 [
-                  "oggi",
+                  "carrelli",
                   6,
                   ""
                 ],
                 [
-                  "» ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "dice",
+                  "Uno",
                   7,
                   ""
                 ],
@@ -29308,8 +27907,38 @@
                   ""
                 ],
                 [
-                  "Matteo",
+                  "è",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mio",
+                  9,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Matteo",
+                  11,
                   ""
                 ],
                 [
@@ -36207,12 +34836,12 @@
           "segments": [
             {
               "id": "s01e21-4-036",
-              "it": "«La **mela** è **economica**. **Un euro** al **chilo**» dice Kevin.",
-              "en": "“The **apple** is **inexpensive**. **One euro** a **kilo**,” says Kevin.",
+              "it": "«La **mela** è **economica**. **Due euro** al **chilo**» dice Kevin.",
+              "en": "“The **apple** is **inexpensive**. **Two euros** a **kilo**,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "La **mela** è **economica**. **Un euro** al **chilo**",
+                  "La **mela** è **economica**. **Due euro** al **chilo**",
                   ""
                 ],
                 [
@@ -36268,7 +34897,7 @@
                   ""
                 ],
                 [
-                  "Un",
+                  "Due",
                   4,
                   "b"
                 ],
@@ -36331,7 +34960,7 @@
               "focus": [
                 "v-mela",
                 "v-economico",
-                "v-euro",
+                "g-partitive-quantities",
                 "v-chilo"
               ]
             }
@@ -36422,12 +35051,12 @@
           "segments": [
             {
               "id": "s01e21-4-038",
-              "it": "«**Mezzo** chilo è **cinquanta centesimi**» dice Kevin.",
-              "en": "“**Half** a kilo is **fifty cents**,” says Kevin.",
+              "it": "«**Mezzo** chilo è **un euro**» dice Kevin.",
+              "en": "“**Half** a kilo is **one euro**,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "**Mezzo** chilo è **cinquanta centesimi**",
+                  "**Mezzo** chilo è **un euro**",
                   ""
                 ],
                 [
@@ -36473,7 +35102,7 @@
                   ""
                 ],
                 [
-                  "cinquanta",
+                  "un",
                   3,
                   "b"
                 ],
@@ -36483,7 +35112,7 @@
                   "b"
                 ],
                 [
-                  "centesimi",
+                  "euro",
                   4,
                   "b"
                 ],
@@ -36515,7 +35144,7 @@
               ],
               "focus": [
                 "v-mezzo",
-                "g-partitive-quantities"
+                "v-euro"
               ]
             }
           ]
@@ -36524,12 +35153,12 @@
           "segments": [
             {
               "id": "s01e21-4-039",
-              "it": "«Cinquanta centesimi! **Economico**!» dice Leo.",
-              "en": "“Fifty cents! **Inexpensive**!” says Leo.",
+              "it": "«Un euro! **Economico**!» dice Leo.",
+              "en": "“One euro! **Inexpensive**!” says Leo.",
               "voice": [
                 [
                   "leo",
-                  "Cinquanta centesimi! **Economico**!",
+                  "Un euro! **Economico**!",
                   ""
                 ],
                 [
@@ -36545,7 +35174,7 @@
                   ""
                 ],
                 [
-                  "Cinquanta",
+                  "Un",
                   0,
                   ""
                 ],
@@ -36555,7 +35184,7 @@
                   ""
                 ],
                 [
-                  "centesimi",
+                  "euro",
                   1,
                   ""
                 ],
@@ -48152,202 +46781,6 @@
           "segments": [
             {
               "id": "s01e21-5-053",
-              "it": "«Sì. E una cosa diversa è un'altra cosa» dice Chiara.",
-              "en": "“Yes. And a different thing is another thing,” says Chiara.",
-              "voice": [
-                [
-                  "chiara",
-                  "Sì. E una cosa diversa è un'altra cosa",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Chiara.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "diversa",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un'altra",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  7,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Chiara",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-5-054",
-              "it": "«Un'altra cosa» dice Kevin.",
-              "en": "“Another thing,” says Kevin.",
-              "voice": [
-                [
-                  "ben",
-                  "Un'altra cosa",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Un'altra",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  1,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e21-5-055",
               "it": "Leo guarda Kevin e poi Chiara.",
               "en": "Leo looks at Kevin and then Chiara.",
               "voice": [
@@ -48421,7 +46854,7 @@
               ]
             },
             {
-              "id": "s01e21-5-056",
+              "id": "s01e21-5-054",
               "it": "«Papà, e il **carrello**?» chiede Leo.",
               "en": "“Dad, and the **cart**?” asks Leo.",
               "voice": [
@@ -48512,7 +46945,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-057",
+              "id": "s01e21-5-055",
               "it": "«Ah, il **carrello**! Matteo prende il **carrello** del supermercato» dice Kevin.",
               "en": "“Ah, the **cart**! Matteo takes the **cart** from the supermarket,” says Kevin.",
               "voice": [
@@ -48653,7 +47086,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-058",
+              "id": "s01e21-5-056",
               "it": "«E lo porta al bar!» dice Leo.",
               "en": "“And he takes it to the bar!” says Leo.",
               "voice": [
@@ -48751,7 +47184,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-059",
+              "id": "s01e21-5-057",
               "it": "«Sì. Un **carrello** in un bar» dice Kevin e ride.",
               "en": "“Yes. A **cart** in a bar,” says Kevin and laughs.",
               "voice": [
@@ -48882,7 +47315,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-060",
+              "id": "s01e21-5-058",
               "it": "«Matteo!» dice Chiara e mette la mano sulla faccia.",
               "en": "“Matteo!” says Chiara and puts her hand on her face.",
               "voice": [
@@ -49000,7 +47433,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-061",
+              "id": "s01e21-5-059",
               "it": "La cena è quasi finita.",
               "en": "Dinner is almost over.",
               "voice": [
@@ -49064,7 +47497,7 @@
               ]
             },
             {
-              "id": "s01e21-5-062",
+              "id": "s01e21-5-060",
               "it": "Chiara beve l'acqua dalla sua **bottiglia**.",
               "en": "Chiara drinks water from her **bottle**.",
               "voice": [
@@ -49141,7 +47574,7 @@
               ]
             },
             {
-              "id": "s01e21-5-063",
+              "id": "s01e21-5-061",
               "it": "«E oggi Franco?» chiede Chiara.",
               "en": "“And today Franco?” asks Chiara.",
               "voice": [
@@ -49219,7 +47652,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-064",
+              "id": "s01e21-5-062",
               "it": "«Franco al mercato. Insieme» dice Kevin.",
               "en": "“Franco at the market. Together,” says Kevin.",
               "voice": [
@@ -49307,7 +47740,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-065",
+              "id": "s01e21-5-063",
               "it": "«Franco ride?» chiede Chiara piano.",
               "en": "“Is Franco laughing?” asks Chiara quietly.",
               "voice": [
@@ -49385,7 +47818,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-066",
+              "id": "s01e21-5-064",
               "it": "«Sì. Con me» dice Kevin.",
               "en": "“Yes. With me,” says Kevin.",
               "voice": [
@@ -49459,7 +47892,7 @@
               ]
             },
             {
-              "id": "s01e21-5-067",
+              "id": "s01e21-5-065",
               "it": "Chiara non risponde.",
               "en": "Chiara doesn't answer.",
               "voice": [
@@ -49503,7 +47936,7 @@
               ]
             },
             {
-              "id": "s01e21-5-068",
+              "id": "s01e21-5-066",
               "it": "Guarda la tavola e pensa.",
               "en": "She looks at the table and thinks.",
               "voice": [
@@ -49571,13 +48004,13 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-069",
-              "it": "_Papà **rideva**. Con Kevin._",
-              "en": "_Dad **was laughing**. With Kevin._",
+              "id": "s01e21-5-067",
+              "it": "_Papà **ride**. Con Kevin._",
+              "en": "_Dad **laughs**. With Kevin._",
               "voice": [
                 [
                   "chiara",
-                  "Papà **rideva**. Con Kevin.",
+                  "Papà **ride**. Con Kevin.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -49593,7 +48026,7 @@
                   "i"
                 ],
                 [
-                  "rideva",
+                  "ride",
                   1,
                   "bi"
                 ],
@@ -49628,7 +48061,7 @@
               ]
             },
             {
-              "id": "s01e21-5-070",
+              "id": "s01e21-5-068",
               "it": "«Bene» dice Chiara dopo un momento.",
               "en": "“Good,” says Chiara after a moment.",
               "voice": [
@@ -49716,7 +48149,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-071",
+              "id": "s01e21-5-069",
               "it": "«Bene» dice Kevin.",
               "en": "“Good,” says Kevin.",
               "voice": [
@@ -49774,7 +48207,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-072",
+              "id": "s01e21-5-070",
               "it": "Leo finisce il pane e sorride.",
               "en": "Leo finishes the bread and smiles.",
               "voice": [
@@ -49848,7 +48281,7 @@
               ]
             },
             {
-              "id": "s01e21-5-073",
+              "id": "s01e21-5-071",
               "it": "«Domani ancora il mercato?» chiede Leo.",
               "en": "“Tomorrow more market?” asks Leo.",
               "voice": [
@@ -49936,7 +48369,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-074",
+              "id": "s01e21-5-072",
               "it": "«No. Il mercato è martedì» dice Kevin.",
               "en": "“No. The market is Tuesday,” says Kevin.",
               "voice": [
@@ -50034,7 +48467,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-075",
+              "id": "s01e21-5-073",
               "it": "«Solo martedì» dice Leo.",
               "en": "“Only Tuesday,” says Leo.",
               "voice": [
@@ -50102,7 +48535,7 @@
         {
           "segments": [
             {
-              "id": "s01e21-5-076",
+              "id": "s01e21-5-074",
               "it": "«Sì. Solo martedì» dice Kevin.",
               "en": "“Yes. Only Tuesday,” says Kevin.",
               "voice": [

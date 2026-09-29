@@ -28,7 +28,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Carne** per il gatto?» chiede Kevin. | “**Meat** for the cat?” asks Kevin. |
 | «Sì. Pavarotti mangia la **carne**» dice Ornella. | “Yes. Pavarotti eats **meat**,” says Ornella. |
 | Ornella va alla porta con un foglietto bianco. | Ornella goes to the door with a little white piece of paper. |
-| «Ecco. Un **etto** di formaggio...» inizia. | “Here. A hundred grams of cheese...” she begins. |
+| «Ecco. Un **etto** di formaggio...» inizia. | “Here. A **hundred grams** of cheese...” she begins. |
 | Kevin scrive nel quaderno giallo. | Kevin writes in the yellow notebook. |
 | «Formaggio, **mele**, **limoni**» ripete Kevin. | “Cheese, **apples**, **lemons**,” Kevin repeats. |
 | «E anche **un po' di** pane?» chiede. | “And also **a bit of** bread?” he asks. |
@@ -49,21 +49,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah, la **bilancia** pesa!» dice Kevin e scrive. | “Ah, the **scale** weighs!” says Kevin and writes. |
 | «Pesa i **chili**, gli **etti**, i **grammi**.» | “It weighs **kilos**, **etti**, **grams**.” |
 | «**Chili**, **etti**, **grammi**» ripete Kevin. | “**Kilos**, **etti**, **grams**,” Kevin repeats. |
-| «E **quanto costa** tutto?» chiede. | “And **how much does** everything cost?” he asks. |
-| «Il mercato è economico, signor Carter.» | “The market is inexpensive, Signor Carter.” |
-| «**Quanto costa** il formaggio?» chiede Kevin. | “**How much does** the cheese cost?” asks Kevin. |
-| «Otto **euro** al **chilo**. È **fresco**» dice Ornella. | “Eight **euros** a **kilo**. It's **fresh**,” says Ornella. |
-| «Il **banco** del formaggio è là» dice Ornella. | “The **stall** of the cheese is over there,” says Ornella. |
-| «**Quanto costa** un **chilo** di **mele**?» chiede Kevin. | “**How much does** a **kilo** of **apples** cost?” asks Kevin. |
-| «Due **euro**. E un **etto** di formaggio, due **euro**.» | “Two **euros**. And a hundred grams of cheese, two **euros**.” |
-| «Otto **euro** al **chilo**» dice Ornella. | “Eight **euros** a **kilo**,” says Ornella. |
-| «Otto **euro**! E la **carne**?» chiede Kevin. | “Eight **euros**! And **meat**?” asks Kevin. |
-| «La **carne** è cara. Dodici **euro** al **chilo**.» | “**Meat** is expensive. Twelve **euros** a **kilo**.” |
-| «Dodici **euro** al **chilo**» scrive Kevin. | “Twelve **euros** a **kilo**,” Kevin writes. |
-| «E il **resto**?» chiede Kevin. | “And the **change**?” asks Kevin. |
-| «Il **resto** è importante» dice Ornella. | “The **change** is important,” says Ornella. |
-| «Sì. Il **resto** è soldi.» | “Yes. The **change** is money.” |
-| «Bravo, signor Carter.» | “Bravo, Signor Carter.” |
 | Poi Ornella dà a Kevin una **busta**. | Then Ornella gives Kevin a **bag**. |
 | «Questa **busta** è per la **spesa**» dice. | “This **bag** is for **the shopping**,” she says. |
 | «Una **busta** grande!» dice Kevin. | “A big **bag**!” says Kevin. |
@@ -127,7 +112,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Bravo» dice Franco. «Tu impari.» | “Bravo,” says Franco. “You're learning.” |
 | Kevin prende una **mela** e la guarda bene. | Kevin picks up an **apple** and looks at it carefully. |
 | Poi prende un'altra **mela**. Poi un **limone**. | Then he picks up another **apple**. Then a **lemon**. |
-| «Kevin!» dice Franco. | “Kevin!” says Franco. |
+| «Americano!» dice Franco. | “American!” says Franco. |
 | «Sì?» chiede Kevin. | “Yes?” asks Kevin. |
 | «Tu **tocchi** tutta la frutta» dice Franco. | “You're **touching** all the fruit,” says Franco. |
 | «Sì. La frutta è bella. Io guardo la frutta» dice Kevin. | “Yes. The fruit is beautiful. I'm looking at the fruit,” says Kevin. |
@@ -209,7 +194,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Un **cliente** a quattro zampe!» dice Kevin. | “A **customer** with four legs!” says Kevin. |
 | Franco ride di nuovo. | Franco laughs again. |
 | _Tre volte! Franco ride tre volte!_ | _Three times! Franco laughs three times!_ |
-| «Kevin, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...» dice Franco. | “Kevin, you **touch** the fruit, you ask for the **discount**, you ask for the **change**...” says Franco. |
+| «Americano, tu **tocchi** la frutta, tu chiedi lo **sconto**, tu chiedi il **resto**...» dice Franco. | “American, you **touch** the fruit, you ask for the **discount**, you ask for the **change**...” says Franco. |
 | «Sì! Io **tocco** tutto, **pago** tutto!» dice Kevin. | “Yes! I **touch** everything, I **pay** everything!” says Kevin. |
 | «Mah!... Bravo, americano» dice Franco. | “Mah!... Bravo, American,” says Franco. |
 | Kevin mette la **busta** in mano a Franco. | Kevin puts the **bag** in Franco's hand. |
@@ -294,7 +279,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Lo **sconto**?» chiede Nadia. | “A **discount**?” asks Nadia. |
 | «Sì! Il **cliente** che viene ogni domenica ha uno **sconto**» dice Matteo. | “Yes! The **customer** who comes every Sunday gets a **discount**,” says Matteo. |
 | «E il **cliente** nuovo?» chiede Kevin. | “And the new **customer**?” asks Kevin. |
-| «Paga tutto!» dice Matteo e ride. | “**Pays** everything!” says Matteo and laughs. |
+| «**Paga** tutto!» dice Matteo e ride. | “**Pays** everything!” says Matteo and laughs. |
 | «No, Matteo» dice Nadia. «Un bar non è **caro** e non è **economico**. È solo onesto.» | “No, Matteo,” says Nadia. “A bar is not **expensive** and not **inexpensive**. It's just honest.” |
 | «Onesto. Mi piace» dice Kevin. | “Honest. I like it,” says Kevin. |
 | «E il **resto**? Il **resto** è importante» dice Kevin. | “And the **change**? The **change** is important,” says Kevin. |
@@ -312,7 +297,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Matteo esce dal bar e torna con un **carrello** del supermercato. | Matteo goes out of the bar and comes back with a **cart** from the supermarket. |
 | «Ecco! Il **carrello** è perfetto!» dice Matteo. | “Here! The **cart** is perfect!” says Matteo. |
 | «Ma è del supermercato!» dice Nadia. | “But it's from the supermarket!” says Nadia. |
-| «Sì. Ma il supermercato è chiuso oggi» dice Matteo. | “Yes. But the supermarket is closed today,” says Matteo. |
+| «Sì. Ma il supermercato ha tanti carrelli. Uno è mio» dice Matteo. | “Yes. But the supermarket has lots of carts. One is mine,” says Matteo. |
 | «E domani?» chiede Nadia. | “And tomorrow?” asks Nadia. |
 | «Domani... il **carrello** è di nuovo là» dice Matteo. | “Tomorrow... the **cart** is there again,” says Matteo. |
 | «Io non so niente» dice Nadia. | “I know nothing,” says Nadia. |
@@ -392,10 +377,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Un **etto** = **cento grammi**. Un **chilo** = **mille grammi**» dice Kevin. | “An **etto** = **a hundred grams**. A **kilo** = **a thousand grams**,” says Kevin. |
 | «Mille!» dice Leo. «Tanti **grammi**!» | “A thousand!” says Leo. “Lots of **grams**!” |
 | «**Quanto costa** duecento grammi?» chiede Leo. | “**How much does** two hundred grams cost?” asks Leo. |
-| «La **mela** è **economica**. **Un euro** al **chilo**» dice Kevin. | “The **apple** is **inexpensive**. **One euro** a **kilo**,” says Kevin. |
+| «La **mela** è **economica**. **Due euro** al **chilo**» dice Kevin. | “The **apple** is **inexpensive**. **Two euros** a **kilo**,” says Kevin. |
 | «E **mezzo chilo**?» chiede Leo. | “And **half a kilo**?” asks Leo. |
-| «**Mezzo** chilo è **cinquanta centesimi**» dice Kevin. | “**Half** a kilo is **fifty cents**,” says Kevin. |
-| «Cinquanta centesimi! **Economico**!» dice Leo. | “Fifty cents! **Inexpensive**!” says Leo. |
+| «**Mezzo** chilo è **un euro**» dice Kevin. | “**Half** a kilo is **one euro**,” says Kevin. |
+| «Un euro! **Economico**!» dice Leo. | “One euro! **Inexpensive**!” says Leo. |
 | «Sì. Bravo, Leo. Tu impari come me» dice Kevin. | “Yes. Bravo, Leo. You're learning like me,” says Kevin. |
 | _Il mio alunno. Come Franco con me._ | _My student. Like Franco with me._ |
 | Matteo arriva con il **carrello** pieno. | Matteo arrives with the **cart** full. |
@@ -524,8 +509,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara ferma la forchetta. | Chiara stops her fork. |
 | «Kevin. Si dice “la **carne** è **cara**. È **caro**? No: è **cara**”» dice Chiara. | “Kevin. You say 'the **meat** is **expensive**. Is it **expensive**? No: it's **expensive**',” says Chiara. |
 | «Ah, **cara**. La **carne** è **cara**» dice Kevin. | “Ah, **expensive**. The **meat** is **expensive**,” says Kevin. |
-| «Sì. E una cosa diversa è un'altra cosa» dice Chiara. | “Yes. And a different thing is another thing,” says Chiara. |
-| «Un'altra cosa» dice Kevin. | “Another thing,” says Kevin. |
 | Leo guarda Kevin e poi Chiara. | Leo looks at Kevin and then Chiara. |
 | «Papà, e il **carrello**?» chiede Leo. | “Dad, and the **cart**?” asks Leo. |
 | «Ah, il **carrello**! Matteo prende il **carrello** del supermercato» dice Kevin. | “Ah, the **cart**! Matteo takes the **cart** from the supermarket,” says Kevin. |
@@ -540,7 +523,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Con me» dice Kevin. | “Yes. With me,” says Kevin. |
 | Chiara non risponde. | Chiara doesn't answer. |
 | Guarda la tavola e pensa. | She looks at the table and thinks. |
-| _Papà **rideva**. Con Kevin._ | _Dad **was laughing**. With Kevin._ |
+| _Papà **ride**. Con Kevin._ | _Dad **laughs**. With Kevin._ |
 | «Bene» dice Chiara dopo un momento. | “Good,” says Chiara after a moment. |
 | «Bene» dice Kevin. | “Good,” says Kevin. |
 | Leo finisce il pane e sorride. | Leo finishes the bread and smiles. |

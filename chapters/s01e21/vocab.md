@@ -9,7 +9,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **un po' di**<br>(expr.) · a bit of, some | Kevin prende **un po' di** formaggio. | Kevin takes **a bit of** cheese. |
-| **quanto costa?**<br>(expr.) · how much does it cost? | «E **quanto costa** tutto?» chiede. | “And **how much does** everything cost?” he asks. |
+| **quanto costa?**<br>(expr.) · how much does it cost? | «**Quanto costa** tutto?» chiede Kevin. | “**How much does** everything cost?” asks Kevin. |
 
 ## Verbs
 
