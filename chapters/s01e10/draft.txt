@@ -1,0 +1,966 @@
+@vocab
+leggere | verb | | to read | leggo, leggi, legge, leggiamo, leggete, leggono
+scrivere | verb | | to write | scrivo, scrivi, scrive, scriviamo, scrivono
+finire | verb | | to finish | finisco, finisci, finisce, finiamo, finiscono
+preferire | verb | | to prefer | preferisco, preferisci, preferisce, preferiscono
+aprire | verb | | to open | apro, apri, apre, apriamo, aprono
+sentire | verb | | to hear | sento, senti, sente, sentiamo, sentono
+prendere | verb | | to take | prendo, prendi, prende, prendiamo, prendono
+promettere | verb | | to promise | prometto, prometti, promette, promettono
+prestare | verb | | to lend | presto, presta, presti, prestano
+ballare | verb | | to dance | ballo, balli, balla, balliamo, ballano
+il corso | noun | m | course | corsi
+l'insegnante | noun | m/f | teacher | insegnanti
+il compito | noun | m | homework; class test | compiti
+la pausa | noun | f | break | pause
+il segreto | noun | m | secret | segreti
+il tango | noun | m | tango | 
+la musica | noun | f | music | 
+il corridoio | noun | m | corridor | corridoi
+la sala | noun | f | room, hall | sale
+la lavagna | noun | f | blackboard | lavagne
+la finestra | noun | f | window | finestre
+la frase | noun | f | sentence | frasi
+la regola | noun | f | rule | regole
+il compagno | noun | m | classmate | compagna, compagni, compagne
+il foglio | noun | m | sheet of paper | fogli
+la borsa | noun | f | bag | borse
+facile | adjective | | easy | facili
+difficile | adjective | | difficult | difficili
+@end
+
+# SCENE casa-carter | martedì sera | ben, chiara, leo
+
+È martedì sera. In cucina Kevin prepara la **borsa** per il **corso** di italiano. || It's Tuesday evening. In the kitchen Kevin is getting his **bag** ready for the Italian **course**.
+
+Sul tavolo ci sono il quaderno giallo, due penne e una mela. || On the table there are the yellow notebook, two pens and an apple.
+
+«Dove sono i **fogli**?»{ben} chiede Kevin. || “Where are the **sheets of paper**?” Kevin asks.
+
+«Nella **borsa**, Kevin. Sempre nella **borsa**,»{chiara} dice Chiara. || “In the **bag**, Kevin. Always in the **bag**,” Chiara says.
+
+Chiara è vicino alla **finestra** con una tazza di tè. || Chiara is near the **window** with a cup of tea.
+
+Kevin **apre** la **borsa** e guarda dentro. || Kevin **opens** the **bag** and looks inside.
+
+Dentro ci sono i **fogli**, il quaderno e la mela. || Inside there are the **sheets**, the notebook and the apple.
+
+«Una mela?»{chiara} chiede Chiara. || “An apple?” Chiara asks.
+
+«Per l'insegnante,»{ben} dice Kevin. «Un regalo.»{ben} || “For the teacher,” Kevin says. “A gift.”
+
+Chiara ride. «Kevin, non è una **regola**. È una mela.»{chiara} || Chiara laughs. “Kevin, it's not a **rule**. It's an apple.”
+
+«Stasera io...»{ben} comincia Kevin. || “Tonight I...” Kevin begins.
+
+«...vai al **corso** di italiano,»{chiara} finisce Chiara. || “...you're going to the Italian **course**,” Chiara finishes.
+
+«Sì. Esatto,»{ben} dice Kevin. || “Yes. Exactly,” Kevin says.
+
+«Sei nervoso,»{chiara} dice Chiara. || “You're nervous,” Chiara says.
+
+«No!»{ben} Kevin **apre** la **finestra**. «Fa caldo qui.»{ben} || “No!” Kevin **opens** the **window**. “It's hot in here.”
+
+«Fuori fa freddo, Kevin. È novembre,»{chiara} dice Chiara. || “It's cold outside, Kevin. It's November,” Chiara says.
+
+«Già. Ma io sono nervoso.»{ben} || “Right. But I'm nervous.”
+
+Leo entra in cucina con un biscotto in mano. || Leo comes into the kitchen with a cookie in his hand.
+
+«Papà, dove vai con la **borsa**?»{leo} chiede Leo. || “Dad, where are you going with the **bag**?” Leo asks.
+
+«Al Centro civico. Stasera è la prima lezione del **corso**,»{ben} dice Kevin. || “To the Centro civico. Tonight is the first lesson of the **course**,” Kevin says.
+
+«Che cos'è un **corso**?»{leo} chiede Leo. || “What's a **course**?” Leo asks.
+
+«Un **corso** è una classe per grandi,»{ben} dice Kevin. «Con una lavagna e un insegnante.»{ben} || “A **course** is a class for grown-ups,” Kevin says. “With a blackboard and a teacher.”
+
+«Come la scuola?»{leo} chiede Leo. || “Like school?” Leo asks.
+
+«Sì. Come la scuola, ma la sera.»{ben} || “Yes. Like school, but in the evening.”
+
+«E che cosa fai al **corso**?»{leo} chiede Leo. || “And what do you do at the **course**?” Leo asks.
+
+«**Leggo**, **scrivo** e parlo italiano,»{ben} dice Kevin. || “I **read**, I **write** and I speak Italian,” Kevin says.
+
+Leo pensa un momento. Poi parla come la maestra. || Leo thinks for a moment. Then he speaks like the teacher.
+
+«**Leggi**, **scrivi**, ripeti. Questa è la **regola**,»{leo} dice Leo. || “**Read**, **write**, repeat. This is the **rule**,” Leo says.
+
+«**Leggi**, **scrivi**, ripeti,»{ben} ripete Kevin. «Grazie, Leo.»{ben} || “**Read**, **write**, repeat,” Kevin repeats. “Thanks, Leo.”
+
+«Prego!»{leo} Leo **prende** un altro biscotto. || “You're welcome!” Leo **takes** another cookie.
+
+Chiara mette la tazza sul tavolo e guarda Kevin. || Chiara puts the cup on the table and looks at Kevin.
+
+«Kevin, ascolta. Una **frase** importante: vai piano,»{chiara} dice. || “Kevin, listen. One important **sentence**: take it slow,” she says.
+
+«Vado piano. Questa è una buona **frase**,»{ben} dice Kevin. || “I'm taking it slow. That's a good **sentence**,” Kevin says.
+
+«Alle nove e mezza la lezione **finisce**?»{leo} chiede Leo. || “Does the lesson **finish** at nine thirty?” Leo asks.
+
+«Sì. Alle nove e mezza **finisce**,»{ben} dice Kevin. || “Yes. It **finishes** at nine thirty,” Kevin says.
+
+«E poi torni a casa?»{leo} chiede Leo. || “And then do you come home?” Leo asks.
+
+«Sì. **Prometto**,»{ben} dice Kevin. || “Yes. I **promise**,” Kevin says.
+
+«**Prometti**?»{leo} chiede Leo. || “Do you **promise**?” Leo asks.
+
+«**Prometto**. **Leggo**, **scrivo** e torno a casa.»{ben} || “I **promise**. I **read**, I **write** and I come home.”
+
+«Al **corso** ci sono bambini?»{leo} chiede Leo. || “Are there kids at the **course**?” Leo asks.
+
+«No. Ci sono solo grandi,»{ben} dice Kevin. || “No. There are only grown-ups,” Kevin says.
+
+«Peccato. Io **preferisco** i bambini,»{leo} dice Leo. || “Too bad. I **prefer** kids,” Leo says.
+
+«Anche io,»{ben} dice Kevin. «Ma stasera i grandi hanno una lezione.»{ben} || “Me too,” Kevin says. “But tonight the grown-ups have a lesson.”
+
+«E che cosa **preferisci**: l'italiano o l'inglese?»{leo} chiede Leo. || “And what do you **prefer**: Italian or English?” Leo asks.
+
+Kevin pensa. «Per la cucina, l'italiano. Per i libri, l'inglese.»{ben} || Kevin thinks. “For cooking, Italian. For books, English.”
+
+«E per me?»{leo} chiede Leo. || “And for me?” Leo asks.
+
+«Per te? La scuola,»{ben} dice Kevin. «E i biscotti.»{ben} || “For you? School,” Kevin says. “And cookies.”
+
+Leo ride e guarda l'orologio. || Leo laughs and looks at the clock.
+
+«Kevin, sono le sette. Il Centro civico è in piazza,»{chiara} dice Chiara. || “Kevin, it's seven o'clock. The Centro civico is in the square,” Chiara says.
+
+«Cinque minuti a piedi,»{ben} dice Kevin. || “Five minutes on foot,” Kevin says.
+
+«E ci sono corsi di musica e corsi di ballo,»{chiara} dice Chiara. || “And there are music courses and dance courses,” Chiara says.
+
+«Di ballo?»{ben} dice Kevin. «Interessante.»{ben} || “Dance?” Kevin says. “Interesting.”
+
+«Tu vai al **corso** di italiano,»{chiara} dice Chiara. || “You're going to the Italian **course**,” Chiara says.
+
+«Sì, sì. Italiano.»{ben} Kevin **prende** la giacca. || “Yes, yes. Italian.” Kevin **takes** his jacket.
+
+«E la mela?»{leo} chiede Leo. || “And the apple?” Leo asks.
+
+«La mela è per la pausa,»{ben} dice Kevin. || “The apple is for the break,” Kevin says.
+
+«Anche noi a scuola abbiamo la pausa,»{leo} dice Leo. || “We have a break at school too,” Leo says.
+
+«Perfetto. Allora sono come te.»{ben} || “Perfect. So I'm like you.”
+
+Per Kevin l'italiano è **difficile**. Per Leo è **facile**. || For Kevin Italian is **difficult**. For Leo it's **easy**.
+
+«Per me è **facile**,»{leo} dice Leo. «Perché sono piccolo.»{leo} || “For me it's **easy**,” Leo says. “Because I'm little.”
+
+Kevin **apre** la porta e saluta. || Kevin **opens** the door and says goodbye.
+
+«In bocca al lupo!»{chiara} dice Chiara. || “Good luck!” Chiara says.
+
+«Grazie! A dopo!»{ben} || “Thanks! See you later!”
+
+Kevin esce in strada. || Kevin goes out into the street.
+
+_Una lezione è una lezione. Leggo, scrivo e torno a casa. Facile._{ben} || *A lesson is a lesson. I read, I write and I come home. Easy.*
+
+# SCENE centro-civico | martedì sera | ben, alberto, donna
+
+Il Centro civico è una casa gialla in piazza, vicino alla chiesa. || The Centro civico is a yellow house in the square, near the church.
+
+Dentro c'è una **sala** grande con venti sedie e una **lavagna** verde. || Inside there's a big **room** with twenty chairs and a green **blackboard**.
+
+La **sala** ha due **finestre** e una porta con il numero otto. || The **room** has two **windows** and a door with the number eight.
+
+Kevin entra e cerca un posto vicino alla **finestra**. || Kevin goes in and looks for a seat near the **window**.
+
+La **borsa** è pesante, ma dentro ci sono i **fogli** e il quaderno giallo. || The **bag** is heavy, but inside there are the **sheets** and the yellow notebook.
+
+«Buonasera!»{donna} dice una signora con gli occhiali. || “Good evening!” says a lady with glasses.
+
+«Buonasera,»{ben} dice Kevin. «Sono Kevin. Piacere.»{ben} || “Good evening,” Kevin says. “I'm Kevin. Nice to meet you.”
+
+«Piacere. Io sono Carla,»{donna} dice la signora. «Lei è nuovo?»{donna} || “Nice to meet you. I'm Carla,” the lady says. “Are you new?”
+
+«Sì. Stasera è la prima lezione,»{ben} dice Kevin. || “Yes. Tonight is the first lesson,” Kevin says.
+
+«Anche per me la prima lezione,»{donna} dice Carla. «Ma il **corso** è piccolo e **facile**.»{donna} || “For me too, the first lesson,” Carla says. “But the **course** is small and **easy**.”
+
+«**Facile** per Lei. **Difficile** per me,»{ben} dice Kevin. || “**Easy** for you. **Difficult** for me,” Kevin says.
+
+Carla sorride. «Perché?»{donna} || Carla smiles. “Why?”
+
+«Perché io sono americano. E in America non parlo italiano,»{ben} dice Kevin. || “Because I'm American. And in America I don't speak Italian,” Kevin says.
+
+«Ma Lei parla bene!»{donna} dice Carla. || “But you speak well!” Carla says.
+
+«Parlo un po'. E **leggo** piano,»{ben} dice Kevin. || “I speak a little. And I **read** slowly,” Kevin says.
+
+Un uomo con una **borsa** nera entra nella **sala**. || A man with a black **bag** comes into the **room**.
+
+L'uomo è alto, con i capelli grigi e un sorriso grande. || The man is tall, with grey hair and a big smile.
+
+«Buonasera a tutti!»{alberto} dice l'uomo. «Io sono Alberto, l'**insegnante** del **corso**.»{alberto} || “Good evening, everyone!” the man says. “I'm Alberto, the **teacher** of the **course**.”
+
+Tutti rispondono: buonasera. Kevin si siede vicino a Carla. || Everyone answers: good evening. Kevin sits down near Carla.
+
+Alberto **apre** il libro e **prende** un gesso bianco. || Alberto **opens** the book and **takes** a white piece of chalk.
+
+Poi **scrive** sulla **lavagna** sette parole grandi. || Then he **writes** seven big words on the **blackboard**.
+
+LEGGERE, SCRIVERE, FINIRE, PREFERIRE, APRIRE, SENTIRE, PRENDERE. || LEGGERE, SCRIVERE, FINIRE, PREFERIRE, APRIRE, SENTIRE, PRENDERE.
+
+«Oggi impariamo i verbi in -ere e in -ire,»{alberto} dice Alberto. || “Today we're learning verbs in -ere and -ire,” Alberto says.
+
+Kevin **prende** il quaderno e **scrive** le sette parole. || Kevin **takes** the notebook and **writes** the seven words.
+
+«Prima parola: **leggere**,»{alberto} dice Alberto. «Io **leggo**, tu **leggi**, lui **legge**.»{alberto} || “First word: **leggere**,” Alberto says. “I **read**, you **read**, he **reads**.”
+
+«Noi **leggiamo**, voi **leggete**, loro **leggono**,»{alberto} continua l'**insegnante**. || “We **read**, you all **read**, they **read**,” the **teacher** continues.
+
+«**Leggere** è **facile**,»{ben} dice Kevin. || “**Leggere** is **easy**,” Kevin says.
+
+«Bene!»{alberto} dice Alberto. «Signor Kevin, Lei **legge** il giornale?»{alberto} || “Good!” Alberto says. “Mr. Kevin, do you **read** the newspaper?”
+
+«Sì. **Leggo** il giornale con il vocabolario,»{ben} dice Kevin. || “Yes. I **read** the newspaper with the dictionary,” Kevin says.
+
+La **sala** ride. Kevin ride anche lui. || The **room** laughs. Kevin laughs too.
+
+«E **scrivere**?»{alberto} chiede Alberto. || “And **writing**?” Alberto asks.
+
+«**Scrivo** una parola al giorno nel quaderno,»{ben} dice Kevin. || “I **write** one word a day in the notebook,” Kevin says.
+
+«Ottimo. Adesso **finire**,»{alberto} dice Alberto. «Io **finisco**, tu **finisci**, lui **finisce**.»{alberto} || “Excellent. Now **finire**,” Alberto says. “I **finish**, you **finish**, he **finishes**.”
+
+Kevin alza la mano. «Scusi, una domanda.»{ben} || Kevin raises his hand. “Excuse me, one question.”
+
+«Dica,»{alberto} dice Alberto. || “Go ahead,” Alberto says.
+
+«Perché “**finisco**” e non “**fino**”?»{ben} chiede Kevin. || “Why ‘**finisco**' and not ‘**fino**'?” Kevin asks.
+
+«Domanda perfetta!»{alberto} dice Alberto. «Alcuni verbi in -ire prendono -isc-.»{alberto} || “Perfect question!” Alberto says. “Some -ire verbs take -isc-.”
+
+«**Capire**, **finire**, **preferire**,»{alberto} dice l'**insegnante**. «Tutti con -isc-.»{alberto} || “**Capire**, **finire**, **preferire**,” the **teacher** says. “All of them with -isc-.”
+
+«**Capisco**,»{ben} dice Kevin. «Grazie.»{ben} || “I **understand**,” Kevin says. “Thank you.”
+
+«Noi **finiamo**, voi **finite**, loro **finiscono**,»{alberto} dice Alberto. || “We **finish**, you all **finish**, they **finish**,” Alberto says.
+
+Carla **scrive** la **frase** sul suo **foglio**. || Carla **writes** the **sentence** on her **sheet**.
+
+«Adesso **preferire**,»{alberto} dice Alberto. «Signora Carla, Lei **preferisce** il caffè o il tè?»{alberto} || “Now **preferire**,” Alberto says. “Ms. Carla, do you **prefer** coffee or tea?”
+
+«Io **preferisco** il tè,»{donna} risponde Carla. «Il tè è **facile** da preparare.»{donna} || “I **prefer** tea,” Carla **answers**. “Tea is **easy** to make.”
+
+«E Lei, signor Kevin?»{alberto} chiede Alberto. || “And you, Mr. Kevin?” Alberto asks.
+
+«Io **preferisco** il caffè. Ma solo la mattina,»{ben} dice Kevin. || “I **prefer** coffee. But only in the morning,” Kevin says.
+
+«Bravo! E **aprire**?»{alberto} chiede Alberto. || “Well done! And **aprire**?” Alberto asks.
+
+«**Apro** la porta,»{ben} dice Kevin. «E **apro** la finestra.»{ben} || “I **open** the door,” Kevin says. “And I **open** the window.”
+
+«Perfetto. E **sentire**?»{alberto} || “Perfect. And **sentire**?”
+
+Kevin ascolta un momento. Fuori c'è **musica**. || Kevin listens for a moment. Outside there's **music**.
+
+«**Sento** la **musica**,»{ben} dice Kevin. «Dalla **sala** vicina.»{ben} || “I **hear** the **music**,” Kevin says. “From the **room** next door.”
+
+Anche Alberto ascolta. «Ah, sì. È il **corso** di ballo,»{alberto} dice. || Alberto listens too. “Ah, yes. It's the dance **course**,” he says.
+
+«Un **corso** di ballo qui?»{ben} chiede Kevin. || “A dance **course** here?” Kevin asks.
+
+«Sì. Il martedì e il giovedì, nella **sala** grande,»{alberto} dice Alberto. || “Yes. Tuesdays and Thursdays, in the big **room**,” Alberto says.
+
+Kevin **scrive** una parola nuova nel quaderno: BALLO. || Kevin **writes** a new word in the notebook: BALLO.
+
+«Ma Lei stasera impara l'italiano, non il ballo,»{alberto} dice Alberto. || “But tonight you're learning Italian, not dance,” Alberto says.
+
+«Giusto,»{ben} dice Kevin. || “Right,” Kevin says.
+
+Alberto **prende** il libro e **apre** pagina dieci. || Alberto **takes** the book and **opens** page ten.
+
+«**Leggiamo** la prima **frase**,»{alberto} dice l'**insegnante**. «Poi una **frase** a testa.»{alberto} || “Let's **read** the first **sentence**,” the **teacher** says. “Then one **sentence** each.”
+
+Tutti **leggono**. Kevin **legge** piano, con un dito sul **foglio**. || Everyone **reads**. Kevin **reads** slowly, with a finger on the **sheet**.
+
+Le parole sono **difficili**, ma Kevin **capisce** la **frase** numero uno. || The words are **difficult**, but Kevin **understands** **sentence** number one.
+
+«Signor Kevin, Lei **prende** il caffè nella **pausa**?»{donna} chiede Carla. || “Mr. Kevin, do you **take** coffee during the **break**?” Carla asks.
+
+«**Prendo** un caffè, sì. Ma non so dove,»{ben} dice Kevin. || “I **take** a coffee, yes. But I don't know where,” Kevin says.
+
+«Faccia piano. Il bar non c'è,»{donna} dice Carla. «La macchina del caffè è in fondo al **corridoio**.»{donna} || “Take it easy. There's no bar,” Carla says. “The coffee machine is at the end of the **corridor**.”
+
+«In fondo al **corridoio**. **Capisco**,»{ben} dice Kevin. || “At the end of the **corridor**. I **understand**,” Kevin says.
+
+«Vicino alla **sala** grande. La porta numero nove,»{donna} dice Carla. || “Near the big **room**. Door number nine,” Carla says.
+
+«Porta numero nove,»{ben} ripete Kevin. || “Door number nine,” Kevin repeats.
+
+Il suo **compagno** di banco non ha un **foglio**. || His **classmate** at the desk doesn't have a **sheet**.
+
+Kevin **presta** un **foglio** al **compagno**. || Kevin **lends** a **sheet** to his **classmate**.
+
+«Grazie,»{uomo} dice il **compagno**. || “Thank you,” the **classmate** says.
+
+«Prego. Io ho tanti **fogli**,»{ben} dice Kevin. || “You're welcome. I have lots of **sheets**,” Kevin says.
+
+Alberto guarda l'orologio sulla parete. || Alberto looks at the clock on the wall.
+
+«Bene. La **pausa** **finisce** tra dieci minuti,»{alberto} dice. «E il **compito** per martedì...»{alberto} || “Good. The **break** **finishes** in ten minutes,” he says. “And the **homework** for Tuesday...”
+
+«**Leggere** e **scrivere**?»{donna} chiede Carla. || “**Reading** and **writing**?” Carla asks.
+
+«Esatto. **Leggere** pagina dieci e **scrivere** dieci frasi,»{alberto} dice Alberto. || “Exactly. **Read** page ten and **write** ten sentences,” Alberto says.
+
+«Dieci frasi. Va bene,»{ben} dice Kevin. || “Ten sentences. All right,” Kevin says.
+
+«E attenzione: **finire** la pagina, non solo cominciare,»{alberto} dice Alberto. || “And careful: **finish** the page, not just start,” Alberto says.
+
+«**Finisco** tutto, promesso,»{ben} dice Kevin. || “I **finish** everything, promised,” Kevin says.
+
+Alberto ride. «“Promesso” è già una **frase** italiana,»{alberto} dice. «Bravo!»{alberto} || Alberto laughs. “‘Promised' is already an Italian **sentence**,” he says. “Well done!”
+
+Kevin **apre** la **borsa** e mette dentro il quaderno. || Kevin **opens** the **bag** and puts the notebook inside.
+
+«La **pausa**!»{donna} dice Carla. «Il caffè **finisce**!»{donna} || “The **break**!” Carla says. “The coffee is **finishing**!”
+
+«Arrivo!»{ben} dice Kevin. || “I'm coming!” Kevin says.
+
+_Leggere, scrivere, finire, preferire. E adesso la lavagna è mia amica._{ben} || *Reading, writing, finishing, preferring. And now the blackboard is my friend.*
+
+# SCENE centro-civico | martedì sera, la pausa | ben, franco, lucia
+
+La **pausa** comincia. Kevin esce dalla **sala** con Carla e con il **compagno** di banco. || The **break** begins. Kevin leaves the **room** with Carla and his deskmate.
+
+Il **corridoio** è lungo e stretto, con un lampadario e tre porte. || The **corridor** is long and narrow, with a lamp and three doors.
+
+La prima porta è a sinistra. La seconda è in fondo. La terza è a destra. || The first door is on the left. The second is at the end. The third is on the right.
+
+Carla va verso la porta numero nove. || Carla goes toward door number nine.
+
+«Signor Kevin, Lei **sente** anche Lei la **musica**?»{donna} chiede Carla. || “Mr. Kevin, do you **hear** the **music** too?” Carla asks.
+
+«Sì. È **musica** forte. Ci sono tamburi e violini,»{ben} dice Kevin. || “Yes. It's loud **music**. There are drums and violins,” Kevin says.
+
+«È la **sala** grande. Ogni martedì c'è il **corso** di ballo,»{donna} dice Carla. || “It's the big **room**. Every Tuesday there's the dance **course**,” Carla says.
+
+«Ballo?»{ben} dice Kevin. «Americano?»{ben} || “Dance?” Kevin says. “American?”
+
+«No, no. Tango, valzer, salsa,»{donna} dice Carla ridendo. «Musica italiana e argentina.»{donna} || “No, no. Tango, waltz, salsa,” Carla says, laughing. “Italian and Argentine music.”
+
+«Ah. **Capisco**,»{ben} dice Kevin. || “Ah. I **understand**,” Kevin says.
+
+Carla entra nella porta numero nove. Kevin resta solo nel **corridoio**. || Carla goes in through door number nine. Kevin stays alone in the **corridor**.
+
+Kevin guarda la macchina del caffè. Poi guarda la porta numero otto. || Kevin looks at the coffee machine. Then he looks at door number eight.
+
+Sulla porta numero otto c'è un cartello piccolo con le parole: CORSO DI BALLO — SALA GRANDE. || On door number eight there's a small sign with the words: DANCE COURSE — BIG ROOM.
+
+Kevin non **legge** il cartello. Kevin **apre** la porta numero otto. || Kevin doesn't **read** the sign. Kevin **opens** door number eight.
+
+Dentro c'è una **sala** grande con **finestre** alte e luci gialle. || Inside there's a big **room** with tall **windows** and yellow lights.
+
+La **musica** è forte. Sei coppie **ballano** al centro della **sala**. || The **music** is loud. Six couples are **dancing** in the center of the **room**.
+
+Kevin **sente** il ritmo con i piedi e guarda le coppie. || Kevin **feels** the rhythm with his feet and watches the couples.
+
+Vicino a una **finestra** c'è un signore con la camicia bianca. || Near a **window** there's a gentleman in a white shirt.
+
+Il signore **balla** con una signora in rosso. || The gentleman is **dancing** with a lady in red.
+
+Il signore **balla** il **tango** con le braccia alte. || The gentleman **dances** the **tango** with his arms high.
+
+Kevin guarda la faccia del signore. Poi guarda ancora. || Kevin looks at the gentleman's face. Then he looks again.
+
+_Oddio. È Franco. Franco **balla** il **tango**._{ben} || *Oh no. It's Franco. Franco **dances** the **tango**.*
+
+Kevin **apre** la bocca, ma non parla. || Kevin **opens** his mouth, but he doesn't speak.
+
+Franco **sente** qualcuno vicino alla porta e si gira. || Franco **senses** someone near the door and turns around.
+
+Franco vede Kevin. Franco si ferma. La **musica** continua. || Franco sees Kevin. Franco stops. The **music** continues.
+
+La signora in rosso guarda Kevin e sorride. || The lady in red looks at Kevin and smiles.
+
+«Buonasera!»{lucia} dice la signora. «Tu sei l'americano, vero?»{lucia} || “Good evening!” the lady says. “You're the American, right?”
+
+«Sì. Sono Kevin. Piacere,»{ben} dice Kevin. || “Yes. I'm Kevin. Nice to meet you,” Kevin says.
+
+«Piacere mio! Io sono Lucia,»{lucia} dice la signora. «Io insegno ballo qui.»{lucia} || “The pleasure is mine! I'm Lucia,” the lady says. “I teach dance here.”
+
+«Lei insegna **tango**?»{ben} chiede Kevin. || “You teach **tango**?” Kevin asks.
+
+«**Tango**, valzer, salsa. Tutto!»{lucia} dice Lucia. «E tu **balli**?»{lucia} || “**Tango**, waltz, salsa. Everything!” Lucia says. “And do you **dance**?”
+
+«No. Io **leggo** e **scrivo**. Ma non **ballo**,»{ben} dice Kevin. || “No. I **read** and I **write**. But I don't **dance**,” Kevin says.
+
+Lucia ride forte. «Peccato! Un americano che **balla** il **tango**... che bello!»{lucia} || Lucia laughs loudly. “A shame! An American who **dances** the **tango**... how nice!”
+
+Franco non ride. Franco è bianco in faccia. || Franco doesn't laugh. Franco is white in the face.
+
+«Basta, Lucia,»{franco} dice Franco. || “That's enough, Lucia,” Franco says.
+
+Franco **prende** Kevin per un braccio e va nel **corridoio**. || Franco **takes** Kevin by the arm and goes into the **corridor**.
+
+Lucia guarda i due uomini e ride ancora. Poi **balla** con un altro signore. || Lucia looks at the two men and laughs again. Then she **dances** with another gentleman.
+
+Nel **corridoio** la **musica** è lontana. || In the **corridor** the **music** is far away.
+
+Franco chiude la porta numero otto. || Franco closes door number eight.
+
+«Americano, ascolta bene,»{franco} dice Franco. || “American, listen carefully,” Franco says.
+
+«Sì. Ascolto,»{ben} dice Kevin. || “Yes. I'm listening,” Kevin says.
+
+«Mia figlia non sa. Emma non sa. Leo non sa,»{franco} dice Franco. «Nessuno sa.»{franco} || “My daughter doesn't know. Emma doesn't know. Leo doesn't know,” Franco says. “Nobody knows.”
+
+«Nessuno sa... che Lei **balla** il **tango**?»{ben} chiede Kevin. || “Nobody knows... that you **dance** the **tango**?” Kevin asks.
+
+«Nessuno sa che io **ballo** qui. E nessuno sa di Lucia,»{franco} dice Franco. || “Nobody knows that I **dance** here. And nobody knows about Lucia,” Franco says.
+
+Kevin pensa alla parola giusta. || Kevin thinks of the right word.
+
+«È un **segreto**,»{ben} dice Kevin. || “It's a **secret**,” Kevin says.
+
+Franco chiude gli occhi un momento. «Sì. Un **segreto**.»{franco} || Franco closes his eyes for a moment. “Yes. A **secret**.”
+
+«**Capisco**. È un **segreto**,»{ben} ripete Kevin. || “I **understand**. It's a **secret**,” Kevin repeats.
+
+«**Prometti**?»{franco} chiede Franco. || “Do you **promise**?” Franco asks.
+
+«**Prometto**,»{ben} dice Kevin. || “I **promise**,” Kevin says.
+
+Franco guarda Kevin negli occhi. || Franco looks Kevin in the eyes.
+
+«**Prometti** di non parlare con Chiara? E con Leo?»{franco} || “Do you **promise** not to talk with Chiara? And with Leo?”
+
+«**Prometto**. Non parlo con nessuno,»{ben} dice Kevin. || “I **promise**. I don't talk with anybody,” Kevin says.
+
+«E la mattina al bar? Con Matteo?»{franco} chiede Franco. || “And in the morning at the bar? With Matteo?” Franco asks.
+
+«Al bar parlo solo di calcio e di caffè,»{ben} dice Kevin. || “At the bar I only talk about soccer and coffee,” Kevin says.
+
+Franco quasi sorride. «Milan o Inter?»{franco} || Franco almost smiles. “Milan or Inter?”
+
+«Questa è la Sua **regola** numero uno,»{ben} dice Kevin. || “That's your **rule** number one,” Kevin says.
+
+«Esatto. Questa è la **regola**,»{franco} dice Franco. «E la **regola** è questa: tu non vedi questa **sala**.»{franco} || “Exactly. This is the **rule**,” Franco says. “And the **rule** is this: you don't see this **room**.”
+
+«Non vedo la **sala**,»{ben} ripete Kevin. || “I don't see the **room**,” Kevin repeats.
+
+«Tu non **senti** la **musica**,»{franco} dice Franco. || “You don't **hear** the **music**,” Franco says.
+
+«Io non **sento** la **musica**,»{ben} dice Kevin. || “I don't **hear** the **music**,” Kevin says.
+
+«E tu non **apri** la porta numero otto,»{franco} dice Franco. || “And you don't **open** door number eight,” Franco says.
+
+«Io non **apro** quella porta,»{ben} dice Kevin. «**Apro** la porta numero nove.»{ben} || “I don't **open** that door,” Kevin says. “I **open** door number nine.”
+
+Franco mette una mano sulla spalla di Kevin. || Franco puts a hand on Kevin's shoulder.
+
+«Grazie,»{franco} dice Franco piano. || “Thank you,” Franco says softly.
+
+Kevin resta fermo. Non parla. || Kevin stays still. He doesn't speak.
+
+_Un segreto. Con Franco. Il primo segreto con Franco._{ben} || *A secret. With Franco. The first secret with Franco.*
+
+«Adesso vai,»{franco} dice Franco. «L'insegnante aspetta. La **pausa** **finisce**.»{franco} || “Now go,” Franco says. “The teacher is waiting. The **break** is **finishing**.”
+
+«Sì. Grazie,»{ben} dice Kevin. || “Yes. Thank you,” Kevin says.
+
+«E...»{franco} Franco si ferma. «No. Niente.»{franco} || “And...” Franco stops. “No. Nothing.”
+
+«Niente,»{ben} dice Kevin. || “Nothing,” Kevin says.
+
+Kevin torna nel **corridoio** e guarda la porta numero otto. || Kevin goes back into the **corridor** and looks at door number eight.
+
+Poi guarda la porta numero nove e **prende** la tazzina di caffè. || Then he looks at door number nine and **takes** the little cup of coffee.
+
+Nel **corridoio** c'è ancora la **musica** del **tango**. || In the **corridor** there's still the **tango** **music**.
+
+Kevin **beve** il caffè e non guarda la porta numero otto. || Kevin drinks the coffee and doesn't look at door number eight.
+
+_Quale porta? Io vedo solo la porta numero nove. E la musica? Quale musica?_{ben} || *Which door? I only see door number nine. And the music? Which music?*
+
+La porta numero otto resta chiusa. Kevin entra nella porta numero nove. || Door number eight stays closed. Kevin goes in through door number nine.
+
+# SCENE liceo | mercoledì mattina | emma, tommaso
+
+È mercoledì mattina. Nell'aula di italiano ci sono venti banchi, una **lavagna** bianca e due **finestre** grandi. || It's Wednesday morning. In the Italian classroom there are twenty desks, a white **blackboard** and two big **windows**.
+
+La professoressa Bassi **legge** i voti. «Cinque, Emma,»{donna} dice. || Teacher Bassi **reads** the grades. “Five, Emma,” she says.
+
+Emma guarda il suo **foglio** del **compito**. Il voto è scritto in rosso: 5. || Emma looks at her test **sheet**. The grade is written in red: 5.
+
+_A cinque. Cinque come un pollice._{emma} || *A five. Five like a thumb.*
+
+La professoressa continua. «Otto e mezzo, Tommaso. Bravo,»{donna} dice. || The teacher continues. “Eight and a half, Tommaso. Well done,” she says.
+
+Tommaso è al banco vicino alla **finestra**. Non dice niente. || Tommaso is at the desk near the **window**. He says nothing.
+
+Emma guarda il **foglio** di Tommaso. È pieno di **frasi** e di parole. || Emma looks at Tommaso's **sheet**. It's full of **sentences** and words.
+
+«Il **compito** non è **facile**,»{emma} dice Emma piano. || “The **test** isn't **easy**,” Emma says quietly.
+
+«No,»{tommaso} dice Tommaso. «Ma tu **capisci** tutto.»{tommaso} || “No,” Tommaso says. “But you **understand** everything.”
+
+«Come lo sai?»{emma} chiede Emma. || “How do you know?” Emma asks.
+
+«Perché in classe parli. E parli bene,»{tommaso} dice Tommaso. || “Because you speak in class. And you speak well,” Tommaso says.
+
+«Ma il **compito** è scritto,»{emma} dice Emma. «E io **scrivo** male.»{emma} || “But the **test** is written,” Emma says. “And I **write** badly.”
+
+Suona la campanella. È l'intervallo. || The bell rings. It's the break.
+
+Molti **compagni** escono in **corridoio**. Emma resta al banco. || Many **classmates** go out into the **corridor**. Emma stays at her desk.
+
+Tommaso non esce. **Apre** la **borsa** nera e cerca qualcosa. || Tommaso doesn't leave. He **opens** his black **bag** and looks for something.
+
+«Ecco,»{tommaso} dice Tommaso. Mette quattro **fogli** sul banco di Emma. || “Here,” Tommaso says. He puts four **sheets** on Emma's desk.
+
+Emma guarda i **fogli**. Sono tutti **scritti** a mano. || Emma looks at the **sheets**. They're all **written** by hand.
+
+«Che cosa sono?»{emma} chiede Emma. || “What are they?” Emma asks.
+
+«I miei appunti,»{tommaso} dice Tommaso. || “My notes,” Tommaso says.
+
+«I tuoi appunti?»{emma} || “Your notes?”
+
+«Sì. **Presto** loro a te,»{tommaso} dice Tommaso. «Fino a Natale.»{tommaso} || “Yes. I **lend** them to you,” Tommaso says. “Until Christmas.”
+
+Emma non parla. Guarda i **fogli** uno per uno. || Emma doesn't speak. She looks at the **sheets** one by one.
+
+Su ogni **foglio** ci sono **frasi** lunghe e brevi. || On each **sheet** there are long and short **sentences**.
+
+Le parole **difficili** sono sottolineate in blu. || The **difficult** words are underlined in blue.
+
+«Tu sottolinei le parole **difficili**?»{emma} chiede Emma. || “You underline the **difficult** words?” Emma asks.
+
+«Sì. È una **regola** mia,»{tommaso} dice Tommaso. «Le parole nuove vanno in blu.»{tommaso} || “Yes. It's my **rule**,” Tommaso says. “New words go in blue.”
+
+«E le **frasi**?»{emma} || “And the **sentences**?”
+
+«Le **frasi** vanno in nero. **Leggo** e poi **scrivo** una **frase** mia,»{tommaso} dice Tommaso. || “The **sentences** go in black. I **read** and then I **write** a **sentence** of my own,” Tommaso says.
+
+«Ma tu **preferisci** le **frasi** alle parole?»{emma} || “But you **prefer** **sentences** to words?”
+
+«Sì. **Preferisco** le **frasi**,»{tommaso} dice Tommaso. «Una parola da sola non basta.»{tommaso} || “Yes. I **prefer** **sentences**,” Tommaso says. “One word alone isn't enough.”
+
+Emma assente. È la prima volta che qualcuno le **presta** qualcosa senza ridere. || Emma nods. It's the first time someone **lends** her something without laughing.
+
+«Grazie,»{emma} dice piano. || “Thank you,” she says quietly.
+
+«Prego.»{tommaso} Tommaso mette la **borsa** sulla spalla. || “You're welcome.” Tommaso puts his **bag** on his shoulder.
+
+«Tommaso, aspetta. Io **capisco** tutto in classe. Ma poi **scrivo** come un bambino,»{emma} dice Emma. || “Tommaso, wait. I **understand** everything in class. But then I **write** like a child,” Emma says.
+
+«No,»{tommaso} dice Tommaso. «Tu **scrivi** come una che pensa in inglese.»{tommaso} || “No,” Tommaso says. “You **write** like someone who thinks in English.”
+
+«E adesso che faccio?»{emma} chiede Emma. || “And now what do I do?” Emma asks.
+
+«**Leggi** una **frase** al giorno. E poi **scrivi** una **frase** tua,»{tommaso} dice Tommaso. || “**Read** one **sentence** a day. And then **write** a **sentence** of your own,” Tommaso says.
+
+«Tutti i giorni?»{emma} || “Every day?”
+
+«Tutti i giorni. La **regola** è questa,»{tommaso} dice Tommaso. «E i **fogli** sono tuoi fino a Natale.»{tommaso} || “Every day. The **rule** is this,” Tommaso says. “And the **sheets** are yours until Christmas.”
+
+Emma **apre** il quaderno e **mette** i **fogli** dentro. || Emma **opens** her notebook and **puts** the **sheets** inside.
+
+Un **compagno** di classe passa vicino e guarda. Emma chiude il quaderno. || A **classmate** passes nearby and looks. Emma closes the notebook.
+
+«Grazie,»{emma} dice di nuovo. «Domani ti riporto i **fogli**?»{emma} || “Thank you,” she says again. “Tomorrow do I bring the **sheets** back to you?”
+
+«No. Tienili,»{tommaso} dice Tommaso. «Fino a Natale. Questa è la **regola**.»{tommaso} || “No. Keep them,” Tommaso says. “Until Christmas. This is the **rule**.”
+
+«Va bene,»{emma} dice Emma. || “All right,” Emma says.
+
+Tommaso va verso la porta. Poi si gira. || Tommaso goes toward the door. Then he turns around.
+
+«Emma,»{tommaso} dice. «Il tuo italiano è buono. **Finisci** il quaderno, non la testa.»{tommaso} || “Emma,” he says. “Your Italian is good. **Finish** the notebook, not your head.”
+
+Emma ride, per la prima volta oggi. || Emma laughs, for the first time today.
+
+«Grazie, Tommaso,»{emma} dice. || “Thanks, Tommaso,” she says.
+
+Tommaso esce. Emma resta alla **finestra** con i **fogli** di Tommaso. || Tommaso leaves. Emma stays at the **window** with Tommaso's **sheets**.
+
+Guarda i **fogli**. Cento **frasi**, forse duecento parole. || She looks at the **sheets**. A hundred **sentences**, maybe two hundred words.
+
+_E va bene. Da oggi leggo e scrivo ogni giorno. Come lui._{emma} || *Okay then. From today I read and write every day. Like him.*
+
+La **lavagna** è ancora piena di parole. Emma **legge** e **scrive** la prima **frase** in blu. || The **blackboard** is still full of words. Emma **reads** and **writes** the first **sentence** in blue.
+
+# SCENE casa-carter | mercoledì sera | chiara, ben, emma, leo
+
+Mercoledì sera. In cucina ci sono quattro piatti, il pane e una bottiglia d'acqua. || Wednesday evening. In the kitchen there are four plates, the bread and a bottle of water.
+
+Kevin mangia piano e guarda il piatto. || Kevin eats slowly and looks at his plate.
+
+«Papà, com'è il **corso**?»{leo} chiede Leo. || “Dad, how's the **course**?” Leo asks.
+
+«Bene. Tutto bene,»{ben} dice Kevin. || “Good. All good,” Kevin says.
+
+«Che cosa fai al **corso**?»{leo} chiede Leo. || “What do you do at the **course**?” Leo asks.
+
+«**Leggo**, **scrivo**, ascolto. E l'**insegnante** parla piano,»{ben} dice Kevin. || “I **read**, I **write**, I listen. And the **teacher** speaks slowly,” Kevin says.
+
+«L'**insegnante** è bravo?»{leo} chiede Leo. || “Is the **teacher** good?” Leo asks.
+
+«Sì. Si chiama Alberto. E **scrive** sette verbi sulla **lavagna**,»{ben} dice Kevin. || “Yes. His name is Alberto. And he **writes** seven verbs on the **blackboard**,” Kevin says.
+
+«Sette verbi!»{leo} dice Leo. «Io conosco tre verbi.»{leo} || “Seven verbs!” Leo says. “I know three verbs.”
+
+«E quali?»{ben} chiede Kevin. || “And which ones?” Kevin asks.
+
+«Mangiare, dormire e ridere,»{leo} dice Leo. || “Eating, sleeping and laughing,” Leo says.
+
+Chiara ride. «Anche io conosco quei tre verbi,»{chiara} dice. || Chiara laughs. “I know those three verbs too,” she says.
+
+«Ma io **preferisco** ridere,»{leo} dice Leo. || “But I **prefer** laughing,” Leo says.
+
+«Anche io,»{ben} dice Kevin. || “Me too,” Kevin says.
+
+Emma arriva a tavola con il quaderno in mano. || Emma comes to the table with her notebook in her hand.
+
+«Io ho un **segreto**,»{leo} dice Leo. || “I have a **secret**,” Leo says.
+
+Kevin lascia la forchetta sul piatto. || Kevin leaves his fork on the plate.
+
+«Un **segreto**?»{ben} dice Kevin, rosso in faccia. «Quale **segreto**?»{ben} || “A **secret**?” Kevin says, red in the face. “Which **secret**?”
+
+«Io e Pietro,»{leo} dice Leo. «Pietro mi **presta** la gomma e io gli **presto** la matita.»{leo} || “Me and Pietro,” Leo says. “Pietro **lends** me his eraser and I **lend** him my pencil.”
+
+«Ah,»{ben} dice Kevin. «Un **segreto** piccolo.»{ben} || “Ah,” Kevin says. “A small **secret**.”
+
+Chiara guarda Kevin. «Kevin, stai bene? Sei rosso.»{chiara} || Chiara looks at Kevin. “Kevin, are you okay? You're red.”
+
+«Sì! È la pasta. Piccante,»{ben} dice Kevin. || “Yes! It's the pasta. Spicy,” Kevin says.
+
+«La pasta non è piccante,»{chiara} dice Chiara. || “The pasta isn't spicy,” Chiara says.
+
+«Allora è l'aria. Fa caldo,»{ben} dice Kevin. || “Then it's the air. It's hot,” Kevin says.
+
+Emma mette il **foglio** del **compito** sul tavolo. || Emma puts the test **sheet** on the table.
+
+«Cinque,»{emma} dice. «Il primo **compito** di italiano. Cinque.»{emma} || “Five,” she says. “The first Italian **test**. Five.”
+
+Chiara **legge** il **foglio**. «Cinque non è un bel voto,»{chiara} dice piano. || Chiara **reads** the **sheet**. “Five isn't a good grade,” she says softly.
+
+«Lo so,»{emma} dice Emma. «**Capisco** tutto in classe, ma **scrivo** male.»{emma} || “I know,” Emma says. “I **understand** everything in class, but I **write** badly.”
+
+«E adesso?»{chiara} chiede Chiara. || “And now?” Chiara asks.
+
+Emma **apre** il quaderno e tira fuori quattro **fogli**. || Emma **opens** the notebook and pulls out four **sheets**.
+
+«Tommaso mi **presta** i suoi appunti,»{emma} dice Emma. || “Tommaso **lends** me his notes,” Emma says.
+
+Kevin guarda i **fogli**. «Tommaso Colombo? Il ragazzo del treno?»{ben} || Kevin looks at the **sheets**. “Tommaso Colombo? The boy from the train?”
+
+«Sì. Il suo **compito** è otto e mezzo,»{emma} dice Emma. || “Yes. His **test** is eight and a half,” Emma says.
+
+«Il suo **compito** è otto e mezzo e lui ti **presta** i **fogli**?»{chiara} chiede Chiara. || “His **test** is eight and a half and he **lends** you his **sheets**?” Chiara asks.
+
+«Sì. Fino a Natale,»{emma} dice Emma. «La sua **regola** è una **frase** al giorno.»{emma} || “Yes. Until Christmas,” Emma says. “His **rule** is one **sentence** a day.”
+
+«Una buona **regola**,»{chiara} dice Chiara. || “A good **rule**,” Chiara says.
+
+«Anche io ho una **regola** nuova,»{ben} dice Kevin. || “I have a new **rule** too,” Kevin says.
+
+«Quale?»{emma} chiede Emma. || “Which one?” Emma asks.
+
+«**Leggere** e **scrivere** ogni giorno,»{ben} dice Kevin. || “**Reading** and **writing** every day,” Kevin says.
+
+«**Prometti**?»{leo} chiede Leo. || “Do you **promise**?” Leo asks.
+
+«**Prometto**,»{ben} dice Kevin. || “I **promise**,” Kevin says.
+
+«Nella **pausa** che cosa fai?»{leo} chiede Leo. || “What do you do during the **break**?” Leo asks.
+
+«Prendo un caffè. La macchina del caffè è in fondo al corridoio,»{ben} dice Kevin. || “I have a coffee. The coffee machine is at the end of the corridor,” Kevin says.
+
+«Con il tuo **compagno** di banco?»{chiara} chiede Chiara. || “With your deskmate?” Chiara asks.
+
+«Sì. Il mio **compagno** non ha un **foglio** e io gliene **presto** uno,»{ben} dice Kevin. || “Yes. My **classmate** doesn't have a **sheet** and I **lend** him one,” Kevin says.
+
+«Bene. Sei un bravo **compagno**,»{chiara} dice Chiara. || “Good. You're a good **classmate**,” Chiara says.
+
+«E nella **sala** grande c'è la **musica**?»{leo} chiede Leo. || “And is there **music** in the big **room**?” Leo asks.
+
+Kevin **prende** il bicchiere e beve. || Kevin **takes** the glass and drinks.
+
+«Quale **musica**?»{ben} dice Kevin. «Io non **sento** **musica**.»{ben} || “Which **music**?” Kevin says. “I don't **hear** **music**.”
+
+«Ma tu balli bene?»{leo} chiede Leo. || “But do you dance well?” Leo asks.
+
+«No. Io non ballo,»{ben} dice Kevin. «Mai.»{ben} || “No. I don't dance,” Kevin says. “Never.”
+
+Chiara mette il tovagliolo sul tavolo. || Chiara puts her napkin on the table.
+
+«Kevin, due minuti dopo cena?»{chiara} dice. «In cucina.»{chiara} || “Kevin, two minutes after dinner?” she says. “In the kitchen.”
+
+«Perché?»{ben} chiede Kevin. || “Why?” Kevin asks.
+
+«Per parlare. Solo due minuti,»{chiara} dice Chiara. || “To talk. Only two minutes,” Chiara says.
+
+«Va bene,»{ben} dice Kevin. || “All right,” Kevin says.
+
+Kevin **apre** il quaderno giallo e guarda una pagina. || Kevin **opens** the yellow notebook and looks at a page.
+
+Sulla pagina c'è una parola scritta due volte: TANGO. || On the page there's a word written twice: TANGO.
+
+Kevin chiude il quaderno in fretta e lo mette nella **borsa**. || Kevin closes the notebook quickly and puts it in his **bag**.
+
+_Due minuti con Chiara. Oddio._{ben} || *Two minutes with Chiara. Oh no.*
+
+# SCENE bar-tigli | giovedì mattina | matteo, franco, ben
+
+Giovedì mattina, alle sette e mezza. Al Bar Tigli ci sono due clienti e Matteo dietro al banco. || Thursday morning, at half past seven. At Bar Tigli there are two customers and Matteo behind the counter.
+
+Kevin entra con la **borsa** in mano. || Kevin comes in with his **bag** in his hand.
+
+«Buongiorno, Kevin!»{matteo} dice Matteo. «Un caffè?»{matteo} || “Morning, Kevin!” Matteo says. “A coffee?”
+
+«Buongiorno. Sì, un caffè,»{ben} dice Kevin. || “Morning. Yes, a coffee,” Kevin says.
+
+Matteo **prende** una tazzina e la mette sul banco. || Matteo **takes** a little cup and puts it on the counter.
+
+«Allora, come va il **corso**?»{matteo} chiede Matteo. || “So, how's the **course** going?” Matteo asks.
+
+«Bene. Ieri sera la seconda lezione,»{ben} dice Kevin. || “Good. Last night the second lesson,” Kevin says.
+
+«E l'**insegnante**? È bravo?»{matteo} || “And the **teacher**? Is he good?”
+
+«Sì. **Scrive** sette verbi sulla **lavagna** e parla piano,»{ben} dice Kevin. || “Yes. He **writes** seven verbs on the **blackboard** and speaks slowly,” Kevin says.
+
+«Che lusso! Da noi a scuola la **lavagna** è vecchia,»{matteo} dice Matteo. «E non **sento** mai una parola.»{matteo} || “What luxury! At our school the **blackboard** is old,” Matteo says. “And I never **hear** a word.”
+
+Kevin ride e mette la **borsa** sul banco. || Kevin laughs and puts his **bag** on the counter.
+
+La **borsa** è aperta. Il quaderno giallo è fuori, con la pagina aperta. || The **bag** is open. The yellow notebook is out, with the page open.
+
+Sulla pagina c'è una parola grande: **TANGO**. || On the page there's a big word: **TANGO**.
+
+Matteo guarda la pagina e alza un sopracciglio. || Matteo looks at the page and raises an eyebrow.
+
+«**Tango**?»{matteo} dice Matteo. «Al **corso** di italiano?»{matteo} || “**Tango**?” Matteo says. “At the Italian **course**?”
+
+Kevin chiude il quaderno in fretta. || Kevin closes the notebook quickly.
+
+«È una parola nuova,»{ben} dice Kevin. «Una parola del vocabolario.»{ben} || “It's a new word,” Kevin says. “A word from the vocabulary.”
+
+«Una parola del vocabolario,»{matteo} ripete Matteo. «E chi **balla** il **tango** nel vocabolario?»{matteo} || “A word from the vocabulary,” Matteo repeats. “And who **dances** the **tango** in the vocabulary?”
+
+«Nessuno. È solo una parola,»{ben} dice Kevin. || “Nobody. It's just a word,” Kevin says.
+
+La porta si apre. Entra Franco con il cappello in mano. || The door opens. Franco comes in with his hat in his hand.
+
+«Caffè,»{franco} dice Franco a Matteo. || “Coffee,” Franco says to Matteo.
+
+«Buongiorno, papà,»{matteo} dice Matteo. || “Morning, Dad,” Matteo says.
+
+Franco guarda Kevin e poi guarda Matteo. || Franco looks at Kevin and then looks at Matteo.
+
+«Buongiorno,»{franco} dice Franco a Kevin. || “Morning,” Franco says to Kevin.
+
+«Buongiorno,»{ben} dice Kevin piano. || “Morning,” Kevin says quietly.
+
+Franco **beve** il caffè in piedi, vicino al banco. || Franco **drinks** his coffee standing, near the counter.
+
+Kevin parla senza pensare. «Bella la **sala** grande del Centro civico,»{ben} dice. «E il **corridoio** è lungo.»{ben} || Kevin speaks without thinking. “The big **room** at the Centro civico is nice,” he says. “And the **corridor** is long.”
+
+Franco **finisce** il caffè in un secondo. || Franco **finishes** his coffee in a second.
+
+«Quale **sala**?»{franco} dice Franco. || “Which **room**?” Franco says.
+
+«La **sala** del **corso**. In fondo al **corridoio**,»{ben} dice Kevin. || “The **room** of the **course**. At the end of the **corridor**,” Kevin says.
+
+«E nella **pausa**?»{franco} chiede Franco. || “And during the **break**?” Franco asks.
+
+«Nella **pausa** prendo un caffè. Solo un caffè,»{ben} dice Kevin. || “During the **break** I have a coffee. Only a coffee,” Kevin says.
+
+Franco guarda Kevin negli occhi. «E non **senti** niente dalla **sala** grande?»{franco} || Franco looks Kevin in the eyes. “And don't you **hear** anything from the big **room**?”
+
+«No. Io non **sento** **musica**. E non **ballo** mai,»{ben} dice Kevin. || “No. I don't **hear** **music**. And I never **dance**,” Kevin says.
+
+Franco mette la tazzina sul banco. «Nessuno sa,»{franco} dice piano. || Franco puts the little cup on the counter. “Nobody knows,” he says softly.
+
+«Nessuno sa,»{ben} ripete Kevin. «**Prometto**.»{ben} || “Nobody knows,” Kevin repeats. “I **promise**.”
+
+«Il **segreto** resta un **segreto**,»{franco} dice Franco. || “The **secret** stays a **secret**,” Franco says.
+
+«Il **segreto** resta un **segreto**,»{ben} dice Kevin. || “The **secret** stays a **secret**,” Kevin says.
+
+Franco mette una mano sulla spalla di Kevin. «Grazie,»{franco} dice. || Franco puts a hand on Kevin's shoulder. “Thank you,” he says.
+
+Poi Franco esce dal bar e saluta Matteo con la mano. || Then Franco leaves the bar and waves to Matteo.
+
+Matteo guarda la porta e poi guarda Kevin. || Matteo looks at the door and then looks at Kevin.
+
+«Un caffè e un **tango**?»{matteo} dice Matteo. «Il tuo vocabolario è strano, Kevin.»{matteo} || “A coffee and a **tango**?” Matteo says. “Your vocabulary is strange, Kevin.”
+
+«Sì. Molto strano,»{ben} dice Kevin. Beve il caffè e va verso la porta. || “Yes. Very strange,” Kevin says. He drinks the coffee and heads for the door.
+
+_Qualcosa non va. Quei due hanno un **segreto**._{matteo} || *Something's off. Those two have a **secret**.*
+
+Matteo **prende** la tazzina e la lava piano. || Matteo **takes** the little cup and washes it slowly.
+
+# SCENE casa-franco | giovedì sera | franco, leo
+
+Giovedì sera, a casa di Franco. In cucina c'è la radio accesa. || Thursday evening, at Franco's house. In the kitchen the radio is on.
+
+Franco **balla** il **tango** con una scopa. || Franco is **dancing** the **tango** with a broom.
+
+La scopa ha un cappello sopra. Franco tiene le braccia alte. || The broom has a hat on top. Franco holds his arms high.
+
+Leo passa davanti alla **finestra** con Pavarotti in braccio. || Leo passes in front of the **window** with Pavarotti in his arms.
+
+Leo si ferma e guarda dentro. || Leo stops and looks inside.
+
+«Nonno!»{leo} chiama Leo. «Che cosa fai?»{leo} || “Grandpa!” Leo calls. “What are you doing?”
+
+Franco **apre** la **finestra** con una mano e mette la scopa dietro la porta. || Franco **opens** the **window** with one hand and puts the broom behind the door.
+
+«Pulisco il pavimento,»{franco} dice Franco. «Con la **musica**.»{franco} || “I'm cleaning the floor,” Franco says. “With **music**.”
+
+«Ma tu **balli**!»{leo} dice Leo. || “But you're **dancing**!” Leo says.
+
+«No. Pulisco. Questo pavimento è **difficile**,»{franco} dice Franco. || “No. I'm cleaning. This floor is **difficult**,” Franco says.
+
+«Il pavimento è **difficile**?»{leo} chiede Leo. || “The floor is **difficult**?” Leo asks.
+
+«Sì. Vecchio. Come me,»{franco} dice Franco. || “Yes. Old. Like me,” Franco says.
+
+Leo ride. Il gatto Pavarotti miagola. || Leo laughs. The cat Pavarotti meows.
+
+«E il **tango** è **facile**?»{leo} chiede Leo. || “And is the **tango** **easy**?” Leo asks.
+
+Franco **apre** la bocca. Poi la chiude. || Franco **opens** his mouth. Then he closes it.
+
+«Come conosci questa parola?»{franco} chiede Franco piano. || “How do you know that word?” Franco asks softly.
+
+«Dal quaderno di papà,»{leo} dice Leo. «Stasera scrive TANGO.»{leo} || “From Dad's notebook,” Leo says. “Tonight he's writing TANGO.”
+
+Franco chiude gli occhi. || Franco closes his eyes.
+
+_Mah._{franco} || *Mah.*
+
+@grammar
+# Present tense: -ere and -ire verbs
+
+## What it is
+
+In Italian, verbs come in three big families, named after their endings: **-are** verbs (like *parlare*), **-ere** verbs (like *leggere*, *scrivere*, *prendere*, *vedere*, *vivere*), and **-ire** verbs (like *dormire*, *aprire*, *partire*, *sentire*).
+
+You already know how *-are* verbs work. This lesson adds the other two families. The good news: the pattern is the same idea, only the vowels change. The endings tell you who is doing the action, so Italian usually drops the subject pronoun.
+
+Inside the *-ire* family there is a small subgroup that adds **-isc-** to four of the six forms. These are verbs like *capire*, *finire* and *preferire*. They are very common, so it's worth learning them as their own little group.
+
+## How it works
+
+### -ere verbs: leggere (to read)
+
+| Person | Form |
+|---|---|
+| io | legg**o** |
+| tu | legg**i** |
+| lui / lei | legg**e** |
+| noi | legg**iamo** |
+| voi | legg**ete** |
+| loro | legg**ono** |
+
+The same endings go on *scrivere* (scrivo, scrivi, scrive, scriviamo, scrivono), *prendere* (prendo, prendi, prende, prendono), *vedere* (vedo, vede, vedono), *vivere* (vivo, vivi, vive, vivono).
+
+### -ire verbs: aprire (to open)
+
+| Person | Form |
+|---|---|
+| io | apr**o** |
+| tu | apr**i** |
+| lui / lei | apr**e** |
+| noi | apr**iamo** |
+| voi | apr**ite** |
+| loro | apr**ono** |
+
+Same endings for *dormire* (dormo, dormi, dorme, dormono), *partire* (parto, parti, parte, partono), *sentire* (sento, senti, sente, sentiamo, sentono).
+
+### -isc- verbs: capire, finire, preferire
+
+These add **-isc-** to *io, tu, lui/lei* and *loro*. *Noi* and *voi* stay regular.
+
+| Person | finire | capire | preferire |
+|---|---|---|---|
+| io | fin**isco** | cap**isco** | prefer**isco** |
+| tu | fin**isci** | cap**isci** | prefer**isci** |
+| lui / lei | fin**isce** | cap**isce** | prefer**isce** |
+| noi | fin**iamo** | cap**iamo** | prefer**iamo** |
+| voi | fin**ite** | cap**ite** | prefer**ite** |
+| loro | fin**iscono** | cap**iscono** | prefer**iscono** |
+
+Most *-ire* verbs take **-isc-**; a smaller group does not (aprire, sentire, dormire, partire, seguire). When you meet a new *-ire* verb, check a dictionary for the *io* form: if it ends in *-isco*, it's an *-isc-* verb.
+
+## From the story
+
+[[Prima parola: leggere. Io leggo, tu leggi, lui legge.]]
+The teacher shows the whole pattern for *leggere*: an *-ere* verb, regular in every form.
+
+[[Sì. Leggo il giornale con il vocabolario.]]
+*io leggo*. The ending *-o* already means "I", so the subject pronoun isn't needed.
+
+[[Scrivo una parola al giorno nel quaderno.]]
+*scrivere* behaves exactly like *leggere*: *io scrivo*.
+
+[[Perché "finisco" e non "fino"?]]
+Kevin spots the *-isc-* group with a real question: why does *finire* become *finisco*?
+
+[[Alcuni verbi in -ire prendono -isc-. Capire, finire, preferire.]]
+The rule, stated plainly: *-ire* verbs like these three take *-isc-*.
+
+[[Noi finiamo, voi finite, loro finiscono.]]
+The two regular forms (*finiamo*, *finite*) sit next to the *-isc-* form (*finiscono*).
+
+[[Io preferisco il tè. Il tè è facile da preparare.]]
+*preferire* takes *-isc-*: *io preferisco*, not *prefero*.
+
+[[Apro la porta. E apro la finestra.]]
+*aprire* belongs to the *-ire* group *without* *-isc-*: *io apro*, never *aprisco*.
+
+[[Sento la musica. Dalla sala vicina.]]
+*sentire* behaves like *aprire*: *io sento*, *lui sente*, *loro sentono*.
+
+[[Tu scrivi come una che pensa in inglese.]]
+The *tu* form of *scrivere* is *scrivi*, with the *-i* ending.
+
+## Common mistakes
+
+**Adding -isc- to the wrong verbs.** English speakers hear *capisco* and *finisco* a lot, then invent *aprisco*, *sentisco*, *dormisco* for verbs that don't take it. Learn each *-ire* verb with its *io* form.
+
+**Leaving -isc- out of the right verbs.** The opposite error: *io capo*, *io fino* are wrong. It is *capisco*, *finisco*.
+
+**Using -are endings on -ere verbs.** *Io leggo* is correct, not *io lego* or *io leggio*. The *-ere* family keeps a light *-o*, *-i*, *-e* pattern.
+
+**Putting -isc- in noi and voi.** It is *noi finiamo*, *voi finite*, not *noi finisciamo*.
+
+**Keeping the subject pronoun every time.** *Io leggo* is fine for emphasis, but Italians usually say just *Leggo un libro*. The verb ending does the work.
+
+**Confusing -ere and -ire in the tu form.** Both end in *-i*: *tu leggi*, *tu apri*, *tu finisci*. That's fine — the *noi* and *voi* forms are where they clearly differ (*leggiamo* / *apriamo*).
+
+## Practice
+
+1. Complete: *Io ___ (prendere) un caffè.*
+2. Complete: *Tu ___ (scrivere) una frase.*
+3. Complete: *Noi ___ (capire) la lezione.*
+4. Complete: *Loro ___ (finire) il compito.*
+5. Complete: *Lei ___ (aprire) la finestra.*
+6. Complete: *Io ___ (preferire) il tè.*
+7. Turn into the plural (*noi*): *Io leggo il giornale.*
+8. Turn into the plural (*loro*): *Tu senti la musica.*
+
+### Answer key
+
+1. prendo
+2. scrivi
+3. capiamo
+4. finiscono
+5. apre
+6. preferisco
+7. Noi leggiamo il giornale.
+8. Loro sentono la musica.

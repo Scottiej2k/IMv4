@@ -1,0 +1,5 @@
+### s01e10 · La lezione di italiano
+- **Happened:** Kevin starts a Tuesday-evening Italian course at the Centro civico (room 8), taught by Alberto; classmates Carla and an unnamed desk partner. During the break he opens the wrong door and finds Franco dancing tango in the ballroom course (room 8), taught by Lucia.
+- **New facts:** Alberto teaches the -ere/-ire course in the Centro civico's sala grande, Tuesdays (and dance course Tuesdays/Thursdays, door 8); Lucia is Franco's dance teacher. Coffee machine in the corridor, door 9. Emma's liceo Italian teacher is Professor Bassi; Emma got 5 on her first compito, Tommaso 8½, and Tommaso lends her his hand-written notes until Christmas.
+- **Changed:** Kevin now knows Franco dances tango with Lucia; Franco made him promise secrecy from Chiara, Emma, Leo and Matteo. Matteo saw TANGO in Kevin's notebook and suspects something.
+- **Planted:** Kevin must keep the secret (Chiara asks for a two-minute kitchen talk, unresolved); Emma's daily notes routine; Matteo's suspicion.
