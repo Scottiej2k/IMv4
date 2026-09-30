@@ -61,7 +61,7 @@
       "lemma": "ogni giorno",
       "pos": "expression",
       "en": "every day",
-      "example": "s01e23-1-050",
+      "example": "s01e23-1-049",
       "target": {
         "it": "Ogni giorno",
         "en": "Every day"
@@ -221,7 +221,7 @@
       "lemma": "il cielo",
       "pos": "noun",
       "en": "sky",
-      "example": "s01e23-1-039",
+      "example": "s01e23-1-038",
       "target": {
         "it": "cielo",
         "en": "sky"
@@ -304,7 +304,7 @@
       "lemma": "scivolare",
       "pos": "verb",
       "en": "to slip",
-      "example": "s01e23-1-071",
+      "example": "s01e23-1-070",
       "target": {
         "it": "Scivolo",
         "en": "slip"
@@ -2625,123 +2625,6 @@
           "segments": [
             {
               "id": "s01e23-1-025",
-              "it": "«E io aspetto il treno sulla **neve**» dice Emma.",
-              "en": "“And I wait for the train in the **snow**,” says Emma.",
-              "voice": [
-                [
-                  "emma",
-                  "E io aspetto il treno sulla **neve**",
-                  "dry"
-                ],
-                [
-                  "narrator",
-                  "dice Emma.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "io",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "aspetto",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "treno",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sulla",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "neve",
-                  6,
-                  "b"
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-neve"
-              ]
-            },
-            {
-              "id": "s01e23-1-026",
               "it": "«Oggi non c'è scuola» Emma guarda il telefono.",
               "en": "“Today there's no school.” Emma looks at her phone.",
               "voice": [
@@ -2845,7 +2728,7 @@
               ]
             },
             {
-              "id": "s01e23-1-027",
+              "id": "s01e23-1-026",
               "it": "«I treni non partono. La **neve** è alta» dice Emma.",
               "en": "“The trains don't leave. The **snow** is deep,” says Emma.",
               "voice": [
@@ -2976,7 +2859,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-028",
+              "id": "s01e23-1-027",
               "it": "«Non partono?» chiede Leo.",
               "en": "“They don't leave?” asks Leo.",
               "voice": [
@@ -3044,7 +2927,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-029",
+              "id": "s01e23-1-028",
               "it": "«No»",
               "en": "“No.”",
               "voice": [
@@ -3077,7 +2960,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-030",
+              "id": "s01e23-1-029",
               "it": "«E la scuola di Leo?» chiede Chiara.",
               "en": "“And Leo's school?” asks Chiara.",
               "voice": [
@@ -3175,7 +3058,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-031",
+              "id": "s01e23-1-030",
               "it": "«Chiusa» dice Emma.",
               "en": "“Closed,” says Emma.",
               "voice": [
@@ -3233,7 +3116,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-032",
+              "id": "s01e23-1-031",
               "it": "Alla finestra del numero sedici c'è Ornella.",
               "en": "At the window of number sixteen there's Ornella.",
               "voice": [
@@ -3317,7 +3200,7 @@
               ]
             },
             {
-              "id": "s01e23-1-033",
+              "id": "s01e23-1-032",
               "it": "Guarda la neve e beve il caffè.",
               "en": "She watches the snow and drinks her coffee.",
               "voice": [
@@ -3401,7 +3284,7 @@
               ]
             },
             {
-              "id": "s01e23-1-034",
+              "id": "s01e23-1-033",
               "it": "**Di solito** a quest'ora compra il pane.",
               "en": "**Usually** at this time she buys bread.",
               "voice": [
@@ -3492,7 +3375,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-035",
+              "id": "s01e23-1-034",
               "it": "Franco attraversa la strada con la **pala**.",
               "en": "Franco crosses the street with the **shovel**.",
               "voice": [
@@ -3579,7 +3462,7 @@
               ]
             },
             {
-              "id": "s01e23-1-036",
+              "id": "s01e23-1-035",
               "it": "La **pala** è grande e vecchia.",
               "en": "The **shovel** is big and old.",
               "voice": [
@@ -3656,7 +3539,7 @@
               ]
             },
             {
-              "id": "s01e23-1-037",
+              "id": "s01e23-1-036",
               "it": "«Buongiorno, l'americano» dice Franco.",
               "en": "“Good morning, American,” says Franco.",
               "voice": [
@@ -3724,7 +3607,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-038",
+              "id": "s01e23-1-037",
               "it": "«Buongiorno, signor Ferri!»",
               "en": "“Good morning, Mr. Ferri!”",
               "voice": [
@@ -3777,7 +3660,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-039",
+              "id": "s01e23-1-038",
               "it": "Franco guarda il **cielo** grigio.",
               "en": "Franco looks at the gray **sky**.",
               "voice": [
@@ -3844,7 +3727,7 @@
               ]
             },
             {
-              "id": "s01e23-1-040",
+              "id": "s01e23-1-039",
               "it": "«**Nebbia** a febbraio, freddo a marzo» dice Franco.",
               "en": "“**Fog** in February, cold in March,” says Franco.",
               "voice": [
@@ -3955,7 +3838,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-041",
+              "id": "s01e23-1-040",
               "it": "Kevin non capisce.",
               "en": "Kevin doesn't understand.",
               "voice": [
@@ -3999,7 +3882,7 @@
               ]
             },
             {
-              "id": "s01e23-1-042",
+              "id": "s01e23-1-041",
               "it": "_**Nebbia**? Marzo? Un proverbio. Un altro proverbio._",
               "en": "_**Fog**? March? A proverb. Another proverb._",
               "voice": [
@@ -4086,7 +3969,7 @@
               ]
             },
             {
-              "id": "s01e23-1-043",
+              "id": "s01e23-1-042",
               "it": "«Come?» chiede Kevin.",
               "en": "“What?” asks Kevin.",
               "voice": [
@@ -4144,7 +4027,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-044",
+              "id": "s01e23-1-043",
               "it": "«La **nebbia**, l'americano» dice Franco. «**Prima** la **nebbia**, **poi** il freddo.»",
               "en": "“The **fog**, American,” says Franco. “**First** the **fog**, **then** the cold.”",
               "voice": [
@@ -4292,7 +4175,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-045",
+              "id": "s01e23-1-044",
               "it": "«Ah! La **nebbia** è come la **neve**?»",
               "en": "“Ah! Is **fog** like **snow**?”",
               "voice": [
@@ -4389,7 +4272,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-046",
+              "id": "s01e23-1-045",
               "it": "«No» dice Franco. «La **nebbia** è grigia. La **neve** è bianca.»",
               "en": "“No,” says Franco. “**Fog** is gray. **Snow** is white.”",
               "voice": [
@@ -4536,7 +4419,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-047",
+              "id": "s01e23-1-046",
               "it": "«La **nebbia** è una nuvola sulla strada» dice Leo.",
               "en": "“**Fog** is a cloud on the street,” says Leo.",
               "voice": [
@@ -4657,7 +4540,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-048",
+              "id": "s01e23-1-047",
               "it": "Franco guarda Leo e annuisce.",
               "en": "Franco looks at Leo and nods.",
               "voice": [
@@ -4721,7 +4604,7 @@
               ]
             },
             {
-              "id": "s01e23-1-049",
+              "id": "s01e23-1-048",
               "it": "«Esatto» dice Franco. «E tu, l'americano, guardi il **tempo**?»",
               "en": "“Exactly,” says Franco. “And you, American, do you check the **weather**?”",
               "voice": [
@@ -4847,7 +4730,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-050",
+              "id": "s01e23-1-049",
               "it": "«Sì. **Ogni giorno**» dice Kevin.",
               "en": "“Yes. **Every day**,” says Kevin.",
               "voice": [
@@ -4928,7 +4811,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-051",
+              "id": "s01e23-1-050",
               "it": "«**Ogni giorno**!» Franco ride piano. «Mah.»",
               "en": "“**Every day**!” Franco laughs quietly. “Mah.”",
               "voice": [
@@ -5024,7 +4907,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-052",
+              "id": "s01e23-1-051",
               "it": "«E **fa freddo**!» dice Kevin. «È freddo!»",
               "en": "“And it's **cold**!” says Kevin. “It's cold!”",
               "voice": [
@@ -5130,7 +5013,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-053",
+              "id": "s01e23-1-052",
               "it": "Franco si ferma e alza una mano.",
               "en": "Franco stops and raises a hand.",
               "voice": [
@@ -5214,7 +5097,7 @@
               ]
             },
             {
-              "id": "s01e23-1-054",
+              "id": "s01e23-1-053",
               "it": "«**Fa freddo**» dice Franco. «Non \"è freddo\". **Fa freddo**, l'americano.»",
               "en": "“**It's cold**,” says Franco. “Not 'è freddo'. **It's cold**, American.”",
               "voice": [
@@ -5350,7 +5233,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-055",
+              "id": "s01e23-1-054",
               "it": "«**Fa freddo**» ripete Kevin. «**Fa freddo**.»",
               "en": "“**It's cold**,” repeats Kevin. “**It's cold**.”",
               "voice": [
@@ -5442,7 +5325,7 @@
               ]
             },
             {
-              "id": "s01e23-1-056",
+              "id": "s01e23-1-055",
               "it": "Kevin prende il quaderno giallo dalla tasca.",
               "en": "Kevin takes the yellow notebook from his pocket.",
               "voice": [
@@ -5526,7 +5409,7 @@
               ]
             },
             {
-              "id": "s01e23-1-057",
+              "id": "s01e23-1-056",
               "it": "_**Fa freddo**. Non \"è freddo\". La **nebbia** è una nuvola._",
               "en": "_**It's cold**. Not “è freddo.” **Fog** is a cloud._",
               "voice": [
@@ -5648,7 +5531,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-058",
+              "id": "s01e23-1-057",
               "it": "«Scrivi?» chiede Franco.",
               "en": "“You write?” asks Franco.",
               "voice": [
@@ -5706,7 +5589,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-059",
+              "id": "s01e23-1-058",
               "it": "«Sì. **Ogni giorno** una parola nuova» dice Kevin.",
               "en": "“Yes. **Every day** a new word,” says Kevin.",
               "voice": [
@@ -5817,7 +5700,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-060",
+              "id": "s01e23-1-059",
               "it": "«**Qualche volta** due parole» dice Leo.",
               "en": "“**Sometimes** two words,” says Leo.",
               "voice": [
@@ -5908,7 +5791,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-061",
+              "id": "s01e23-1-060",
               "it": "«**Raramente** due parole» dice Kevin.",
               "en": "“**Rarely** two words,” says Kevin.",
               "voice": [
@@ -5989,7 +5872,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-062",
+              "id": "s01e23-1-061",
               "it": "Franco guarda il quaderno giallo.",
               "en": "Franco looks at the yellow notebook.",
               "voice": [
@@ -6053,7 +5936,7 @@
               ]
             },
             {
-              "id": "s01e23-1-063",
+              "id": "s01e23-1-062",
               "it": "«Mah» dice Franco.",
               "en": "“Mah,” says Franco.",
               "voice": [
@@ -6111,7 +5994,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-064",
+              "id": "s01e23-1-063",
               "it": "«Papà, e l'**ombrello**?» chiede Leo. «**Poi** **piove**.»",
               "en": "“Dad, and the **umbrella**?” asks Leo. “**Then** it **rains**.”",
               "voice": [
@@ -6229,7 +6112,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-065",
+              "id": "s01e23-1-064",
               "it": "«Oggi non **piove**, Leo» dice Chiara. «Oggi **nevica**.»",
               "en": "“Today it doesn't **rain**, Leo,” says Chiara. “Today it **snows**.”",
               "voice": [
@@ -6346,7 +6229,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-066",
+              "id": "s01e23-1-065",
               "it": "«E domani **piove**?»",
               "en": "“And tomorrow does it **rain**?”",
               "voice": [
@@ -6402,7 +6285,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-067",
+              "id": "s01e23-1-066",
               "it": "«**Qualche volta** **piove**, **qualche volta** **nevica**» dice Chiara.",
               "en": "“**Sometimes** it **rains**, **sometimes** it **snows**,” says Chiara.",
               "voice": [
@@ -6515,7 +6398,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-068",
+              "id": "s01e23-1-067",
               "it": "«E **qualche volta** c'è la **nebbia**» dice Leo.",
               "en": "“And **sometimes** there's **fog**,” says Leo.",
               "voice": [
@@ -6627,7 +6510,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-069",
+              "id": "s01e23-1-068",
               "it": "«Bravo, Leo» dice Franco.",
               "en": "“Nice, Leo,” says Franco.",
               "voice": [
@@ -6695,7 +6578,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-070",
+              "id": "s01e23-1-069",
               "it": "Kevin fa un passo e **scivola** anche lui.",
               "en": "Kevin takes a step and **slips** too.",
               "voice": [
@@ -6792,7 +6675,7 @@
               ]
             },
             {
-              "id": "s01e23-1-071",
+              "id": "s01e23-1-070",
               "it": "«Ah!» Kevin ride. «**Scivolo**!»",
               "en": "“Ah!” Kevin laughs. “I **slip**!”",
               "voice": [
@@ -6868,7 +6751,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-072",
+              "id": "s01e23-1-071",
               "it": "«L'americano **scivola** **spesso**» dice Franco.",
               "en": "“The American **slips** **often**,” says Franco.",
               "voice": [
@@ -6946,7 +6829,7 @@
               ]
             },
             {
-              "id": "s01e23-1-073",
+              "id": "s01e23-1-072",
               "it": "Leo **scivola** di nuovo e ride ancora.",
               "en": "Leo **slips** again and laughs again.",
               "voice": [
@@ -7037,7 +6920,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-074",
+              "id": "s01e23-1-073",
               "it": "Chiara guarda la strada bianca e sorride.",
               "en": "Chiara looks at the white street and smiles.",
               "voice": [
@@ -7121,7 +7004,7 @@
               ]
             },
             {
-              "id": "s01e23-1-075",
+              "id": "s01e23-1-074",
               "it": "Kevin prende la **pala** di Franco.",
               "en": "Kevin picks up Franco's **shovel**.",
               "voice": [
@@ -7198,7 +7081,7 @@
               ]
             },
             {
-              "id": "s01e23-1-076",
+              "id": "s01e23-1-075",
               "it": "«Dove vai?» chiede Chiara.",
               "en": "“Where are you going?” asks Chiara.",
               "voice": [
@@ -7266,7 +7149,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-077",
+              "id": "s01e23-1-076",
               "it": "«**Fuori**. La **neve** è alta» dice Kevin. «**Prima** la **pala**, **poi** il caffè.»",
               "en": "“**Outside**. The **snow** is deep,” says Kevin. “**First** the **shovel**, **then** the coffee.”",
               "voice": [
@@ -7436,7 +7319,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-078",
+              "id": "s01e23-1-077",
               "it": "«**Di solito** tu dici il contrario» dice Chiara.",
               "en": "“**Usually** you say the opposite,” says Chiara.",
               "voice": [
@@ -7543,7 +7426,7 @@
               ]
             },
             {
-              "id": "s01e23-1-079",
+              "id": "s01e23-1-078",
               "it": "Leo batte le mani e ride.",
               "en": "Leo claps his hands and laughs.",
               "voice": [
@@ -7621,7 +7504,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-080",
+              "id": "s01e23-1-079",
               "it": "Franco, dalla sua porta, guarda Kevin con la **pala**.",
               "en": "Franco, from his door, watches Kevin with the **shovel**.",
               "voice": [
@@ -7728,7 +7611,7 @@
               ]
             },
             {
-              "id": "s01e23-1-081",
+              "id": "s01e23-1-080",
               "it": "«Bene» dice Franco, e chiude la porta.",
               "en": "“Good,” says Franco, and closes the door.",
               "voice": [
@@ -7826,7 +7709,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-082",
+              "id": "s01e23-1-081",
               "it": "Kevin guarda la **neve** e sorride.",
               "en": "Kevin looks at the **snow** and smiles.",
               "voice": [
@@ -7903,7 +7786,7 @@
               ]
             },
             {
-              "id": "s01e23-1-083",
+              "id": "s01e23-1-082",
               "it": "_**Prima** il caffè. La parola nuova, **poi**._",
               "en": "_**First** the coffee. The new word, **then**._",
               "voice": [
@@ -7995,7 +7878,7 @@
         {
           "segments": [
             {
-              "id": "s01e23-1-084",
+              "id": "s01e23-1-083",
               "it": "«**Prima** il caffè, **poi** la **neve**» dice Chiara, e chiama tutti in casa.",
               "en": "“**First** the coffee, **then** the **snow**,” says Chiara, and calls everyone into the house.",
               "voice": [
@@ -8165,7 +8048,8 @@
         "chiara",
         "ben",
         "emma",
-        "leo"
+        "leo",
+        "marchetti"
       ],
       "paragraphs": [
         {
@@ -36935,12 +36819,12 @@
             },
             {
               "id": "s01e23-6-053",
-              "it": "_La **prima** volta. La **prima** volta in questa casa._",
-              "en": "_The **first** time. The **first** time in this house._",
+              "it": "_La **prima** volta. La **prima** volta senza una domanda._",
+              "en": "_The **first** time. The **first** time without a question._",
               "voice": [
                 [
                   "ben",
-                  "La **prima** volta. La **prima** volta in questa casa.",
+                  "La **prima** volta. La **prima** volta senza una domanda.",
                   "thinking to themself, quiet and close, quiet"
                 ]
               ],
@@ -37006,7 +36890,7 @@
                   "i"
                 ],
                 [
-                  "in",
+                  "senza",
                   6,
                   "i"
                 ],
@@ -37016,7 +36900,7 @@
                   "i"
                 ],
                 [
-                  "questa",
+                  "una",
                   7,
                   "i"
                 ],
@@ -37026,7 +36910,7 @@
                   "i"
                 ],
                 [
-                  "casa",
+                  "domanda",
                   8,
                   "i"
                 ],

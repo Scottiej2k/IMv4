@@ -26,7 +26,7 @@ Emma arriva con lo zaino e il telefono in mano. «Il treno è in ritardo. **Di s
 
 «Emma, quando **nevica** il treno arriva **spesso** in ritardo» dice Chiara.
 
-«E io aspetto il treno sulla **neve**» dice Emma. «Oggi non c'è scuola» Emma guarda il telefono. «I treni non partono. La **neve** è alta» dice Emma.
+«Oggi non c'è scuola» Emma guarda il telefono. «I treni non partono. La **neve** è alta» dice Emma.
 
 «Non partono?» chiede Leo.
 
@@ -468,7 +468,7 @@ Franco apre la porta e chiama dentro. «Entra. **Adesso** la porta è aperta» d
 
 In cucina Franco prende la moka. La moka è piccola e vecchia. Franco mette l'acqua e il caffè. Kevin guarda la finestra. Dalla finestra si vede tutta la strada bianca. Anche Franco guarda la strada. I due uomini stanno alla stessa finestra. Nessuno parla per due minuti. Fuori la **nebbia** è lontana, sopra i campi. **Raramente** si vede la **nebbia** con la **neve**.
 
-La moka fa rumore. Franco prende una **tazza** dal mobile. Poi prende una seconda **tazza**. Poi una terza, piccola, per Leo. Kevin guarda le **tazze**. _Non chiedo niente._ _Lui fa il caffè. Dà la **tazza**. **Senza** domande._ _La **prima** volta. La **prima** volta in questa casa._ Franco mette la **tazza** davanti a Kevin. «Grazie» dice Kevin.
+La moka fa rumore. Franco prende una **tazza** dal mobile. Poi prende una seconda **tazza**. Poi una terza, piccola, per Leo. Kevin guarda le **tazze**. _Non chiedo niente._ _Lui fa il caffè. Dà la **tazza**. **Senza** domande._ _La **prima** volta. La **prima** volta senza una domanda._ Franco mette la **tazza** davanti a Kevin. «Grazie» dice Kevin.
 
 «Il caffè si beve caldo» dice Franco.
 

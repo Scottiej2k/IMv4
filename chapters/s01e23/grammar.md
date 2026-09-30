@@ -63,15 +63,15 @@ In Via dei Tigli la **neve** è una cosa rara. — On Via dei Tigli, **snow** is
 
 «Il treno è in ritardo. **Di solito** è in ritardo» dice Emma. — “The train is late. **Usually** it's late,” says Emma. (`s01e23-1-023`) — *Di solito* used at the start of the second sentence, echoing the first *(in ritardo)*. Repetition is how Italian sounds natural here.
 
-«**Fa freddo**» dice Franco. «Non "è freddo". **Fa freddo**, l'americano.» — “**It's cold**,” says Franco. “Not 'è freddo'. **It's cold**, American.” (`s01e23-1-054`) — The weather rule said out loud: *fa freddo*, never *è freddo*.
+«**Fa freddo**» dice Franco. «Non "è freddo". **Fa freddo**, l'americano.» — “**It's cold**,” says Franco. “Not 'è freddo'. **It's cold**, American.” (`s01e23-1-053`) — The weather rule said out loud: *fa freddo*, never *è freddo*.
 
 _Raramente sono a casa di giorno._ — _I'm **rarely** at home during the day._ (`s01e23-2-017`) — *Raramente* in front of the verb, for emphasis. A private thought, so it sounds like a confession.
 
 «In primavera **piove** **spesso**» dice Chiara. — “In spring it **rains** **often**,” says Chiara. (`s01e23-2-049`) — *Piove* alone, no subject, plus *spesso* after it.
 
-«**Qualche volta** due parole» dice Leo. — “**Sometimes** two words,” says Leo. (`s01e23-1-060`) — *Qualche volta* used as a short, complete answer, with no verb at all.
+«**Qualche volta** due parole» dice Leo. — “**Sometimes** two words,” says Leo. (`s01e23-1-059`) — *Qualche volta* used as a short, complete answer, with no verb at all.
 
-«**Prima** il caffè, **poi** la **neve**» dice Chiara, e chiama tutti in casa. — “**First** the coffee, **then** the **snow**,” says Chiara, and calls everyone into the house. (`s01e23-1-084`) — The *prima… poi* formula that closes the first scene.
+«**Prima** il caffè, **poi** la **neve**» dice Chiara, e chiama tutti in casa. — “**First** the coffee, **then** the **snow**,” says Chiara, and calls everyone into the house. (`s01e23-1-083`) — The *prima… poi* formula that closes the first scene.
 
 «E non capisci **mai**» dice Leo. — “And you **never** understand,” says Leo. (`s01e23-7-023`) — *Non… mai* around the verb: the classic double negative that is perfectly correct in Italian.
 

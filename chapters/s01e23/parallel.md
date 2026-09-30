@@ -32,7 +32,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma arriva con lo zaino e il telefono in mano. | Emma arrives with her backpack and her phone in her hand. |
 | «Il treno è in ritardo. **Di solito** è in ritardo» dice Emma. | “The train is late. **Usually** it's late,” says Emma. |
 | «Emma, quando **nevica** il treno arriva **spesso** in ritardo» dice Chiara. | “Emma, when it **snows** the train **often** arrives late,” says Chiara. |
-| «E io aspetto il treno sulla **neve**» dice Emma. | “And I wait for the train in the **snow**,” says Emma. |
 | «Oggi non c'è scuola» Emma guarda il telefono. | “Today there's no school.” Emma looks at her phone. |
 | «I treni non partono. La **neve** è alta» dice Emma. | “The trains don't leave. The **snow** is deep,” says Emma. |
 | «Non partono?» chiede Leo. | “They don't leave?” asks Leo. |
@@ -433,7 +432,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin guarda le **tazze**. | Kevin looks at the **cups**. |
 | _Non chiedo niente._ | _I don't ask for anything._ |
 | _Lui fa il caffè. Dà la **tazza**. **Senza** domande._ | _He makes the coffee. He gives the **cup**. Without questions._ |
-| _La **prima** volta. La **prima** volta in questa casa._ | _The **first** time. The **first** time in this house._ |
+| _La **prima** volta. La **prima** volta senza una domanda._ | _The **first** time. The **first** time without a question._ |
 | Franco mette la **tazza** davanti a Kevin. | Franco puts the **cup** in front of Kevin. |
 | «Grazie» dice Kevin. | “Thank you,” says Kevin. |
 | «Il caffè si beve caldo» dice Franco. | “Coffee is drunk hot,” says Franco. |
