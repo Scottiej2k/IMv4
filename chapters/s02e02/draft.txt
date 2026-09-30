@@ -1,0 +1,810 @@
+@vocab
+rompere | verb | | to break | rompo, rompe, rompono, rotto, rotta, rotti, rotte
+chiudere | verb | | to close | chiudo, chiude, chiudono, chiuso, chiusa, chiusi
+mettere | verb | | to put | metto, mette, mettono, messo, messa, messi
+perdere | verb | | to lose | perdo, perde, perdono, perso, persa, persi
+fare | verb | | to do; to make | faccio, fa, fanno, fatto, fatta, fatti
+riparare | verb | | to repair; to fix | riparo, ripara, riparano, riparato, riparata
+sistemare | verb | | to fix up; to sort out | sistemo, sistema, sistemano, sistemato, sistemata
+pulire | verb | | to clean | pulisco, pulisce, puliscono, pulito, pulita
+il tubo | noun | m | pipe | tubi
+il guasto | noun | m | breakdown; fault | guasti
+il trapano | noun | m | drill | trapani
+il rubinetto | noun | m | faucet | rubinetti
+la crepa | noun | f | crack | crepe
+il lavoro | noun | m | work; job | lavori
+il progetto | noun | m | plan; project | progetti
+il foglio | noun | m | sheet of paper | fogli
+il disegno | noun | m | drawing | disegni
+la freccia | noun | f | arrow | frecce
+il soffitto | noun | m | ceiling | soffitti
+la polvere | noun | f | dust | 
+sporco | adjective | | dirty | sporca, sporchi, sporche
+bagnato | adjective | | wet | bagnata, bagnati, bagnate
+il secchio | noun | m | bucket | secchi
+la scala | noun | f | ladder; stepladder | scale
+l'idraulico | noun | m | plumber | idraulici, idraulica
+il tecnico | noun | m | technician | tecnici, tecnica
+il metro | noun | m | tape measure; meter | metri
+la matita | noun | f | pencil | matite
+il chiodo | noun | m | nail | chiodi
+@end
+
+# SCENE casa-carter | lunedì mattina | ben, chiara, leo, emma, franco, sergio
+È lunedì mattina in Via dei Tigli 14, il primo giorno dei lavori. || It's Monday morning at Via dei Tigli 14, the first day of the works.
+In casa c'è odore di caffè e di vernice. || In the house there's a smell of coffee and paint.
+Chiara è in piedi davanti al tavolo con un foglio in mano. || Chiara is standing in front of the table with a sheet of paper in her hand.
+
+«Allora. Primo: il muro della cucina resta. Secondo: il tubo è sotto il lavandino. Terzo: il **progetto** è firmato.»{chiara|fast, efficient} || “So. First: the kitchen wall stays. Second: the pipe is under the sink. Third: the **plan** is signed.”
+Kevin arriva dalla cucina con due tazze. || Kevin comes from the kitchen with two cups.
+«Buongiorno, signora Ferri. Caffè?»{ben|cheerful} || “Good morning, Mrs. Ferri. Coffee?”
+«Grazie. Ma adesso mi ascolti, Kevin.»{chiara} || “Thanks. But now you listen to me, Kevin.”
+«Ti ascolto. **Faccio** una lista anch'io, sai?»{ben} || “I'm listening. I **make** a list too, you know?”
+Chiara guarda il tavolo: ci sono fogli, matite e un **metro**. || Chiara looks at the table: there are sheets, pencils and a **tape measure**.
+«Kevin, dove sono le chiavi?»{chiara} || “Kevin, where are the keys?”
+«Le chiavi? Sono nel cassetto, vicino al forno.»{ben} || “The keys? They're in the drawer, near the oven.”
+«No. Nel cassetto ci sono i **chiodi**.»{chiara|dry} || “No. In the drawer there are **nails**.”
+Kevin controlla il cassetto e poi la giacca. || Kevin checks the drawer and then his jacket.
+«Ah. Le ho **perse** di nuovo.»{ben} || “Ah. I've **lost** them again.”
+«Le **perdi** ogni giorno. È un record.»{chiara} || “You **lose** them every day. It's a record.”
+«**Perdo** le chiavi, ma non **perdo** mai il sorriso.»{ben} || “I **lose** my keys, but I never **lose** my smile.”
+Chiara non ride, ma quasi. || Chiara doesn't laugh, but almost.
+
+Leo entra in cucina con i calzini in mano. || Leo comes into the kitchen with his socks in his hand.
+«Perché c'è **polvere** dappertutto?»{leo} || “Why is there **dust** everywhere?”
+«Perché oggi arrivano gli operai, Leo.»{chiara} || “Because the workers are coming today, Leo.”
+«Che cos'è la **polvere**?»{leo} || “What is **dust**?”
+«È quella cosa grigia che adesso è su tutto.»{ben} || “It's that gray stuff that's on everything now.”
+Leo passa un dito sul tavolo. || Leo runs a finger over the table.
+«Il tavolo è **sporco**!»{leo|laughing} || “The table is **dirty**!”
+«Bravo. **Sporco** di polvere.»{chiara} || “Well done. **Dirty** with dust.”
+
+Emma scende le scale con lo zaino. || Emma comes down the stairs with her backpack.
+«Buongiorno. C'è un camion davanti a casa.»{emma} || “Good morning. There's a truck in front of the house.”
+Kevin corre alla finestra come un bambino. || Kevin runs to the window like a little kid.
+«Sono loro! Ho **visto** il furgone!»{ben|excited} || “It's them! I've **seen** the van!”
+Fuori, davanti al cancello, c'è un furgone bianco. || Outside, in front of the gate, there's a white van.
+Tre uomini scaricano **scale**, secchi e casse di attrezzi. || Three men unload **ladders**, buckets and boxes of tools.
+Il capo è un uomo basso con un cappello. || The boss is a short man with a hat.
+
+«Buongiorno. Sergio.»{sergio|calm} || “Good morning. Sergio.”
+Kevin gli stringe la mano due volte. || Kevin shakes his hand twice.
+«Kevin Carter. Piacere! **Faccio** io le foto, per il blog.»{ben} || “Kevin Carter. Nice to meet you! I **take** the photos, for the blog.”
+«Il blog?»{sergio} || “The blog?”
+«Sì. La storia della nostra cucina nuova.»{ben} || “Yes. The story of our new kitchen.”
+Sergio entra in casa e **mette** una **scala** in corridoio. || Sergio comes into the house and **puts** a **ladder** in the hallway.
+Un operaio porta un **trapano** giallo e lo appoggia sul pavimento. || A worker carries in a yellow **drill** and sets it on the floor.
+«Prima guardiamo il bagno. Lì c'è un **guasto** vecchio.»{sergio} || “First we'll look at the bathroom. There's an old **fault** there.”
+«Un **guasto**? Che tipo di **guasto**?»{ben|worried} || “A **fault**? What kind of **fault**?”
+«Piccolo.»{sergio} || “A small one.”
+«Piccolo come...?»{ben} || “Small like...?”
+«Nessun problema.»{sergio} || “No problem.”
+Kevin fa una foto al **trapano**. || Kevin takes a photo of the **drill**.
+«Questo **trapano** è bellissimo.»{ben} || “This **drill** is beautiful.”
+«È un **trapano**.»{sergio} || “It's a **drill**.”
+«Sì, ma è bellissimo.»{ben} || “Yes, but it's beautiful.”
+Leo guarda il trapano con la bocca aperta. || Leo looks at the drill with his mouth open.
+«Posso toccarlo?»{leo} || “Can I touch it?”
+«No.»{chiara|quick} || “No.”
+«Mai?»{leo} || “Never?”
+«Mai.»{chiara} || “Never.”
+
+Emma guarda l'orologio e prende lo zaino. || Emma looks at the clock and picks up her backpack.
+«Io vado. Il treno è alle sette e mezza.»{emma} || “I'm going. The train is at seven thirty.”
+«Emma, il muro della cucina resta, ok?»{chiara} || “Emma, the kitchen wall stays, okay?”
+«Ok. Ma non mi interessa.»{emma} || “Okay. But I don't care.”
+Emma esce e **chiude** la porta con forza. || Emma goes out and **closes** the door hard.
+«Ha **detto** "ok". Per lei è quasi un abbraccio.»{ben|dry} || “She **said** “okay.” For her that's almost a hug.”
+Chiara beve il caffè in due secondi. || Chiara drinks her coffee in two seconds.
+«Kevin, tu resti qui. Il **lavoro** comincia oggi.»{chiara} || “Kevin, you stay here. The **work** starts today.”
+«Lo so. Ho **letto** tutto il **progetto** ieri sera.»{ben} || “I know. I **read** the whole **plan** last night.”
+«Hai **letto** il progetto?»{chiara|surprised} || “You **read** the plan?”
+«Due volte. E ho **fatto** un **disegno** della cucina.»{ben} || “Twice. And I **made** a **drawing** of the kitchen.”
+Kevin mostra un foglio pieno di quadrati e frecce. || Kevin shows a sheet full of squares and arrows.
+«Che cos'è questa?»{chiara} || “What's this?”
+«È la cucina. Con il frigorifero nuovo.»{ben} || “It's the kitchen. With the new fridge.”
+«Kevin, questa sembra una mappa del tesoro.»{chiara} || “Kevin, this looks like a treasure map.”
+Leo si avvicina al foglio. || Leo comes closer to the sheet.
+«Dov'è il tesoro?»{leo} || “Where's the treasure?”
+«Non c'è un tesoro, Leo.»{ben} || “There's no treasure, Leo.”
+«Allora non è una mappa vera.»{leo|disappointed} || “Then it's not a real map.”
+
+Alle sette in punto arriva Franco. || At seven o'clock sharp Franco arrives.
+Ha un **metro** in mano e una faccia seria. || He has a **tape measure** in his hand and a serious face.
+«Buongiorno. Vengo a controllare.»{franco} || “Good morning. I've come to check.”
+«Buongiorno, Franco. Caffè?»{ben} || “Good morning, Franco. Coffee?”
+«No. **Metto** il **metro** qui, sotto la finestra.»{franco} || “No. I'm **putting** the **tape measure** here, under the window.”
+Franco apre il **metro** e lo appoggia al muro. || Franco opens the **tape measure** and leans it against the wall.
+«Perché il **metro**, papà?»{chiara} || “Why the **tape measure**, Dad?”
+«Perché questa casa è vecchia. E le case vecchie parlano.»{franco} || “Because this house is old. And old houses talk.”
+Kevin guarda Chiara con gli occhi grandi. || Kevin looks at Chiara with big eyes.
+«Le case parlano?»{ben} || “Houses talk?”
+«Sì. Una casa vecchia dice sempre dove sono i problemi.»{franco} || “Yes. An old house always says where the problems are.”
+Franco passa la mano sotto la finestra. || Franco runs his hand under the window.
+Poi si ferma. || Then he stops.
+«Qui. C'è una **crepa**.»{franco} || “Here. There's a **crack**.”
+Chiara si avvicina subito. || Chiara comes closer at once.
+«Una **crepa** grande?»{chiara} || “A big **crack**?”
+«No. Vecchia. Ma adesso è il momento di guardarla.»{franco} || “No. An old one. But now it's time to look at it.”
+Kevin prende il suo quaderno giallo e scrive. || Kevin takes his yellow notebook and writes.
+_Ho **scritto** la crepa. Devo **scrivere** tutto._{ben} || *I've **written** down the crack. I have to **write** everything down.*
+«Che cosa hai **scritto**?»{franco} || “What have you **written**?”
+«Le parole nuove. E i problemi nuovi.»{ben} || “New words. And new problems.”
+
+Sergio arriva dal corridoio con il **trapano** in mano. || Sergio comes from the hallway with the **drill** in his hand.
+«Allora, signori. Cominciamo?»{sergio} || “So, gentlemen. Shall we start?”
+«Sì. Ma il pavimento è **sporco**. Chi lo **pulisce**?»{chiara} || “Yes. But the floor is **dirty**. Who **cleans** it?”
+«Adesso **puliamo** il pavimento? Dopo. Prima il muro.»{sergio|calm} || “Do we **clean** the floor now? Later. First the wall.”
+«Io **pulisco** il tavolo. Va bene?»{ben} || “I'll **clean** the table. Is that okay?”
+«Kevin **pulisce** il tavolo, e nessuno tocca il trapano.»{chiara} || “Kevin **cleans** the table, and nobody touches the drill.”
+«Perfetto. Nessun problema.»{ben} || “Perfect. No problem.”
+Poi Sergio preme il pulsante del **trapano**. || Then Sergio presses the button on the **drill**.
+Il rumore riempie la casa come un tuono. || The noise fills the house like thunder.
+La **polvere** vola in cucina e copre tutto. || The **dust** flies through the kitchen and covers everything.
+«Questo rumore è normale?»{ben|worried} || “Is this noise normal?”
+«Nessun problema.»{sergio} || “No problem.”
+
+# SCENE casa-carter | lunedì pomeriggio | ben, leo, sergio, uomo
+È l'una del pomeriggio e la casa è irriconoscibile. || It's one in the afternoon and the house is unrecognizable.
+C'è **polvere** sul tavolo, sulle sedie, sui libri di Leo. || There's **dust** on the table, on the chairs, on Leo's books.
+Il pavimento è **bagnato** e vicino al lavandino c'è un **secchio** pieno d'acqua. || The floor is **wet** and near the sink there's a **bucket** full of water.
+
+Kevin entra in cucina con due sacchi di spesa. || Kevin comes into the kitchen with two bags of groceries.
+Guarda il muro e si ferma di colpo. || He looks at the wall and stops suddenly.
+«No. No, no, no.»{ben|shocked} || “No. No, no, no.”
+Al posto del muro vecchio c'è un buco enorme. || In place of the old wall there's a huge hole.
+Kevin guarda il buco, poi guarda il **foglio** del **progetto**. || Kevin looks at the hole, then at the **sheet** with the **plan**.
+«Questo è il muro sbagliato.»{ben} || “This is the wrong wall.”
+Sergio arriva dal corridoio con il cappello in mano. || Sergio comes from the hallway with his hat in his hand.
+«Ah, signor Carter. Bel buco, vero?»{sergio|calm} || “Ah, Mr. Carter. Nice hole, isn't it?”
+«Bel buco? Sergio, questo muro non è nel progetto!»{ben} || “Nice hole? Sergio, this wall isn't in the plan!”
+«Il muro è aperto adesso. È **aperto** bene.»{sergio} || “The wall is open now. It's **opened** well.”
+«Ma io non ho **chiesto** un muro aperto!»{ben} || “But I didn't **ask** for an open wall!”
+«Nessun problema.»{sergio} || “No problem.”
+«Per me invece è un problema.»{ben} || “For me, though, it's a problem.”
+
+Kevin va al lavandino per bere un bicchiere d'acqua. || Kevin goes to the sink to drink a glass of water.
+Apre il **rubinetto**. || He turns on the **faucet**.
+Niente. Il **rubinetto** è aperto, ma l'acqua non arriva. || Nothing. The **faucet** is open, but no water comes.
+«Sergio! Il rubinetto non **funziona**!»{ben} || “Sergio! The faucet doesn't **work**!”
+«Quale rubinetto?»{sergio} || “Which faucet?”
+«Questo rubinetto. Quello della cucina.»{ben} || “This faucet. The kitchen one.”
+Sergio apre il mobile sotto il lavandino. || Sergio opens the cabinet under the sink.
+Dentro c'è un **tubo** **rotto**, con l'acqua che esce piano. || Inside there's a **broken** **pipe**, with water slowly coming out.
+«Ecco. Un **tubo** rotto. Un **guasto** piccolo.»{sergio} || “There. A **broken** pipe. A small **fault**.”
+«Piccolo? Il pavimento è tutto **bagnato**!»{ben} || “Small? The whole floor is **wet**!”
+«Sì. Ma il **guasto** è sotto il lavandino.»{sergio} || “Yes. But the **fault** is under the sink.”
+Kevin prende il **secchio** e lo **mette** sotto il tubo. || Kevin takes the **bucket** and **puts** it under the pipe.
+«Chi ha **chiuso** l'acqua principale?»{ben} || “Who **closed** the main water?”
+Sergio alza le spalle. || Sergio shrugs.
+«Non io.»{sergio} || “Not me.”
+«E chi?»{ben} || “And who?”
+«Nessun problema.»{sergio} || “No problem.”
+«Questa frase non risponde alla domanda!»{ben} || “That sentence doesn't answer the question!”
+
+Kevin **fa** domande a tutti gli operai. || Kevin **asks** questions to all the workers.
+Un operaio lava il pavimento con un secchio. || One worker washes the floor with a bucket.
+«Scusi. Lei ha **visto** il rubinetto?»{ben} || “Excuse me. Have you **seen** the faucet?”
+L'uomo guarda Kevin e non risponde. || The man looks at Kevin and doesn't answer.
+«Ha **sentito** un rumore strano?»{ben} || “Did you **hear** a strange noise?”
+L'uomo lava il pavimento e canta piano. || The man washes the floor and sings softly.
+«Grazie. Molto gentile.»{ben|dry} || “Thanks. Very kind.”
+Kevin **prende** il telefono e **fa** due chiamate. || Kevin **takes** his phone and **makes** two calls.
+_Ho **chiesto** a tutti. Nessuno ha **detto** niente._{ben} || *I **asked** everyone. Nobody **said** anything.*
+_Però io ho **visto** un tubo **rotto**._{ben} || *But I **saw** a **broken** pipe.*
+Chiama un **idraulico**. || He calls a **plumber**.
+«Buongiorno, signor Fontana? Un tubo rotto, in Via dei Tigli 14.»{ben} || “Hello, Mr. Fontana? A broken pipe, at Via dei Tigli 14.”
+Poi chiama un **tecnico** per la caldaia. || Then he calls a **technician** for the boiler.
+«Sì, la caldaia **fa** un rumore strano.»{ben} || “Yes, the boiler **makes** a strange noise.”
+Riattacca e respira. || He hangs up and breathes.
+_Ho **fatto** tutto. Adesso **faccio** un piano._{ben} || *I've **done** everything. Now I'll **make** a plan.*
+
+Kevin **mette** il suo **foglio** sul tavolo. || Kevin **puts** his **sheet** on the table.
+È il **disegno** della cucina, con i quadrati e le frecce. || It's the **drawing** of the kitchen, with squares and arrows.
+Guarda il disegno, poi guarda il muro. || He looks at the drawing, then at the wall.
+«Il buco non è qui nel disegno.»{ben} || “The hole isn't here in the drawing.”
+Cerca un altro foglio nella borsa. || He looks for another sheet in his bag.
+Niente. Ha **perso** il foglio giusto. || Nothing. He has **lost** the right sheet.
+_Ho **perso** il progetto vero. E **ho perso** anche la pazienza._{ben} || *I've **lost** the real plan. And I've **lost** my patience too.*
+
+Kevin guarda il **soffitto**. || Kevin looks at the **ceiling**.
+Sul soffitto c'è una macchia grigia. || On the ceiling there's a gray stain.
+«Sergio, questa macchia è nuova?»{ben} || “Sergio, is this stain new?”
+«Quale macchia?»{sergio} || “Which stain?”
+«Quella sul **soffitto**.»{ben} || “The one on the **ceiling**.”
+«Ah, quella. Vecchia.»{sergio} || “Ah, that one. Old.”
+«Vecchia come il buco?»{ben} || “As old as the hole?”
+«Nessun problema.»{sergio} || “No problem.”
+
+La **polvere** continua a cadere dal soffitto. || The **dust** keeps falling from the ceiling.
+Il pavimento è **bagnato** e **sporco**. || The floor is **wet** and **dirty**.
+Un operaio **sistema** il **secchio** sotto il tubo. || A worker **fixes** the **bucket** under the pipe.
+«Grazie. Almeno il secchio è a posto.»{ben} || “Thanks. At least the bucket is in place.”
+Kevin cerca una **scala** per guardare il muro da vicino. || Kevin looks for a **ladder** to look at the wall up close.
+La **scala** è in corridoio, ma è piena di **chiodi** e di polvere. || The **ladder** is in the hallway, but it's full of **nails** and dust.
+«Chi **mette** i chiodi sulla scala?»{ben} || “Who **puts** nails on the ladder?”
+Nessuno risponde. || Nobody answers.
+«Ok. Allora **pulisco** io.»{ben} || “Okay. Then I'll **clean** it myself.”
+
+Alle quattro e mezza arriva Leo con lo zaino. || At four thirty Leo arrives with his backpack.
+Leo entra in cucina, vede il buco e apre la bocca. || Leo comes into the kitchen, sees the hole and opens his mouth.
+«Wow! È un passaggio segreto!»{leo|excited} || “Wow! It's a secret passage!”
+«No, Leo. È il muro sbagliato.»{ben} || “No, Leo. It's the wrong wall.”
+«Ma è un buco perfetto per Pavarotti.»{leo} || “But it's a perfect hole for Pavarotti.”
+«Pavarotti è un gatto, Leo.»{ben} || “Pavarotti is a cat, Leo.”
+«E allora? I gatti passano anche nei buchi piccoli.»{leo} || “So what? Cats go through small holes too.”
+Kevin guarda il buco e immagina il gatto di Ornella. || Kevin looks at the hole and imagines Ornella's cat.
+_Meglio non dire niente alla signora Galli._{ben} || *Better not to say anything to Mrs. Galli.*
+
+Leo tocca il muro con un dito. || Leo touches the wall with a finger.
+«Che cos'è questa roba grigia?»{leo} || “What's this gray stuff?”
+«È **polvere**. **Polvere** di muro.»{ben} || “It's **dust**. Wall **dust**.”
+«E perché il pavimento è **bagnato**?»{leo} || “And why is the floor **wet**?”
+«Perché c'è un tubo **rotto**.»{ben} || “Because there's a **broken** pipe.”
+«Un tubo **rotto** fa un **guasto**?»{leo} || “Does a **broken** pipe make a **fault**?”
+«Sì. Bravo, Leo. Hai **detto** la parola giusta.»{ben} || “Yes. Good job, Leo. You **said** the right word.”
+«E chi lo **ripara**?»{leo} || “And who **fixes** it?”
+«L'**idraulico**. Ho **chiesto** a un **idraulico** e a un **tecnico**.»{ben} || “The **plumber**. I **asked** a **plumber** and a **technician**.”
+«E adesso?»{leo} || “And now?”
+«Adesso aspettiamo.»{ben} || “Now we wait.”
+«Che ansia.»{leo|like Emma} || “So stressful.”
+Kevin ride per la prima volta quel giorno. || Kevin laughs for the first time that day.
+
+Sergio passa con il **trapano** in mano. || Sergio walks by with the **drill** in his hand.
+«Signor Carter, tutto bene?»{sergio} || “Mr. Carter, everything okay?”
+«No. Il muro è sbagliato, l'acqua è chiusa, il tubo è **rotto**, il pavimento è **bagnato** e il soffitto perde.»{ben} || “No. The wall is wrong, the water is off, the pipe is **broken**, the floor is **wet** and the ceiling leaks.”
+«Capisco. È un **guasto** normale.»{sergio} || “I understand. It's a normal **fault**.”
+«Normale?»{ben} || “Normal?”
+«Sì. Nelle case vecchie succede sempre.»{sergio} || “Yes. In old houses it always happens.”
+«E chi paga?»{ben} || “And who pays?”
+«Nessun problema.»{sergio} || “No problem.”
+Kevin lo guarda negli occhi. || Kevin looks him in the eye.
+«Sergio, oggi questa frase non è vera.»{ben|dry} || “Sergio, today that sentence isn't true.”
+Sergio **mette** il trapano sul tavolo e **chiude** la porta del corridoio. || Sergio **puts** the drill on the table and **closes** the hallway door.
+«Domani andiamo meglio.»{sergio} || “Tomorrow it'll go better.”
+«Domani è un altro giorno. Ma il buco resta.»{ben} || “Tomorrow is another day. But the hole stays.”
+Leo guarda il buco e sorride. || Leo looks at the hole and smiles.
+«Io domani porto Pavarotti a vedere il passaggio segreto.»{leo} || “Tomorrow I'm bringing Pavarotti to see the secret passage.”
+
+# SCENE via | lunedì pomeriggio | roberto, ben, marina
+Sono le cinque del pomeriggio e in Via dei Tigli c'è ancora il furgone bianco. || It's five in the afternoon and in Via dei Tigli the white van is still there.
+Davanti al cancello del numero 11 c'è Roberto Colombo. || In front of the gate of number 11 there's Roberto Colombo.
+Ha un **quaderno** in una mano e una **matita** nell'altra. || He has a **notebook** in one hand and a **pencil** in the other.
+
+Roberto legge ad alta voce, con calma. || Roberto reads out loud, calmly.
+«Ore sette e trentacinque: arriva il furgone bianco.»{roberto|reading aloud} || “Seven thirty-five: the white van arrives.”
+«Ore sette e quaranta: due operai con una **scala**.»{roberto} || “Seven forty: two workers with a **ladder**.”
+«Ore otto: il rumore del **trapano**. Molto forte.»{roberto} || “Eight o'clock: the noise of the **drill**. Very loud.”
+Kevin arriva di corsa dal numero 14. || Kevin comes running from number 14.
+«Signor Colombo! Buonasera.»{ben|polite} || “Mr. Colombo! Good evening.”
+Roberto non alza gli occhi dal quaderno. || Roberto doesn't look up from the notebook.
+«Signor Carter. Lei ha **visto** questo?»{roberto} || “Mr. Carter. Have you **seen** this?”
+Roberto indica il marciapiede. || Roberto points to the sidewalk.
+Sul marciapiede c'è una striscia **bagnata** e **sporca**. || On the sidewalk there's a **wet** and **dirty** stripe.
+«Sì. È acqua del nostro **tubo**. Un **tubo** rotto.»{ben} || “Yes. It's water from our **pipe**. A broken **pipe**.”
+«Acqua sul marciapiede. È un fatto pubblico.»{roberto} || “Water on the sidewalk. That's a public fact.”
+«Un fatto pubblico?»{ben} || “A public fact?”
+«Sì. Io **ho scritto** tutto, con l'ora e il numero civico.»{roberto} || “Yes. I **have written** everything, with the time and the house number.”
+Kevin guarda il quaderno di Roberto. || Kevin looks at Roberto's notebook.
+«Posso vedere?»{ben} || “May I see?”
+«Prego. Ma non tocchi la **matita**.»{roberto} || “Please. But don't touch the **pencil**.”
+Roberto gira il quaderno verso Kevin. || Roberto turns the notebook toward Kevin.
+Kevin legge: ogni riga ha una data, un'ora e una piccola **freccia**. || Kevin reads: every line has a date, a time and a little **arrow**.
+«Lei **ha messo** una **freccia** su ogni riga?»{ben} || “You **put** an **arrow** on every line?”
+«Sì. La freccia dice: "questo fatto continua".»{roberto} || “Yes. The arrow says: “this fact continues.””
+«Ah. Come un **progetto**.»{ben} || “Ah. Like a **plan**.”
+«No, signor Carter. Questo non è un **progetto**. Questo è un verbale.»{roberto|offended} || “No, Mr. Carter. This is not a **plan**. This is a report.”
+
+Roberto rilegge un'altra riga. || Roberto rereads another line.
+«Ore nove e dieci: due operai **hanno aperto** il muro della cucina.»{roberto} || “Nine ten: two workers **opened** the kitchen wall.”
+«Il muro sbagliato!»{ben} || “The wrong wall!”
+«Questo non **ho scritto**. Io **ho scritto**": il muro è **aperto**." Solo il fatto.»{roberto} || “That I didn't **write**. I **wrote**: the wall is **open**. Just the fact.”
+«Lei **ha visto** tutto, vero?»{ben} || “You **saw** everything, right?”
+«Io **ho visto** tutto. Io **ho scritto** tutto. È il mio dovere.»{roberto} || “I **saw** everything. I **wrote** everything. It's my duty.”
+«E chi **ha chiuso** l'acqua?»{ben} || “And who **closed** the water?”
+Roberto sfoglia il quaderno. || Roberto leafs through the notebook.
+«Ore dieci e venti: qualcuno **ha chiuso** il rubinetto principale.»{roberto} || “Ten twenty: someone **closed** the main faucet.”
+«Qualcuno chi?»{ben} || “Someone who?”
+«"Qualcuno". Non **ho visto** la faccia.»{roberto} || ““Someone.” I didn't **see** the face.”
+«Però **ha scritto** "qualcuno".»{ben} || “But you **wrote** “someone.””
+«Certo. Anche "qualcuno" è un fatto.»{roberto} || “Of course. Even “someone” is a fact.”
+Kevin **mette** una mano nei capelli. || Kevin **puts** a hand in his hair.
+_Un verbale con "qualcuno" dentro. Perfetto._{ben} || *A report with “someone” inside. Perfect.*
+
+Kevin tira fuori il suo **foglio** piegato. || Kevin pulls out his folded **sheet**.
+È il **disegno** della cucina nuova. || It's the **drawing** of the new kitchen.
+«Signor Colombo, guardi qui. C'è una **freccia** rossa su questo **foglio**.»{ben} || “Mr. Colombo, look here. There's a red **arrow** on this **sheet**.”
+Roberto guarda la freccia rossa e poi Kevin. || Roberto looks at the red arrow and then at Kevin.
+«Signor Carter, quella **freccia** è **fatta** con la penna rossa.»{roberto|slow} || “Mr. Carter, that **arrow** is **made** with a red pen.”
+«Sì. Non **l'ho fatta** io.»{ben} || “Yes. I didn't **make** it.”
+«E io non **ho scritto** frecce. Nel mio quaderno ci sono solo righe.»{roberto} || “And I didn't **write** arrows. In my notebook there are only lines.”
+Roberto chiude il quaderno con un colpo secco. || Roberto closes the notebook with a sharp snap.
+«Quindi questa **freccia** è un fatto nuovo.»{roberto} || “So this **arrow** is a new fact.”
+«Un fatto nuovo?»{ben} || “A new fact?”
+«Sì. E io **ho letto** tante cose, ma questa **freccia** non **l'ho letta** prima.»{roberto} || “Yes. And I **have read** many things, but I haven't **read** this **arrow** before.”
+Kevin pensa al **disegno** e alla **freccia** rossa. || Kevin thinks about the **drawing** and the red **arrow**.
+_Ho **perso** il progetto giusto e adesso c'è una freccia rossa sul foglio sbagliato._{ben} || *I **lost** the right plan and now there's a red arrow on the wrong sheet.*
+«Lei **ha preso** il **foglio** giusto?»{roberto} || “Did you **take** the right **sheet**?”
+«Io... credo di no.»{ben} || “I... I don't think so.”
+«Allora **ho fatto** bene a scrivere tutto.»{roberto} || “Then I **did** well to write everything down.”
+
+Dalla finestra del numero 11 arriva una voce. || From the window of number 11 comes a voice.
+«Roberto! Basta con il quaderno!»{marina|calling from the window} || “Roberto! Enough with the notebook!”
+Roberto alza gli occhi al cielo. || Roberto looks up at the sky.
+«Marina, sto lavorando.»{roberto} || “Marina, I'm **working**.”
+«Stai scrivendo. Non è lo stesso **lavoro**.»{marina} || “You're writing. It's not the same **work**.”
+«È un verbale del comitato!»{roberto} || “It's a neighborhood committee report!”
+«Il comitato non paga la cena!»{marina|dry} || “The committee doesn't pay for dinner!”
+Kevin cerca di non ridere. || Kevin tries not to laugh.
+«Signora Colombo, buonasera.»{ben} || “Mrs. Colombo, good evening.”
+«Buonasera, signor Carter. Come va con il muro?»{marina} || “Good evening, Mr. Carter. How's it going with the wall?”
+«Male. Il pavimento è **bagnato** e la casa è **sporca**.»{ben} || “Badly. The floor is **wet** and the house is **dirty**.”
+«Allora venga a cena da noi.»{marina} || “Then come have dinner with us.”
+«Grazie, ma...»{ben} || “Thanks, but...”
+«No. Niente ospiti oggi.»{roberto|quick} || “No. No guests today.”
+Marina chiude la finestra e dice qualcosa che nessuno sente. || Marina closes the window and says something nobody hears.
+
+Roberto **mette** il quaderno sotto il braccio. || Roberto **puts** the notebook under his arm.
+«Signor Carter, una domanda.»{roberto} || “Mr. Carter, one question.”
+«Sì?»{ben} || “Yes?”
+«La prossima volta, **fa** una foto prima e una foto dopo. Le foto sono prove.»{roberto} || “Next time, **take** a photo before and a photo after. Photos are evidence.”
+«Le ho **fatte**! Ho **fatto** dodici foto oggi.»{ben|proud} || “I **did** take them! I **took** twelve photos today.”
+«Dodici? E le ha **lette**?»{roberto} || “Twelve? And did you **read** them?”
+«Le foto non si leggono, signor Colombo.»{ben} || “You don't read photos, Mr. Colombo.”
+«Ah. Questo non **l'ho scritto**.»{roberto} || “Ah. That I didn't **write**.”
+Kevin ride, ma senza rumore. || Kevin laughs, but without noise.
+«Buonasera, signor Colombo. E grazie per il verbale.»{ben} || “Good evening, Mr. Colombo. And thanks for the report.”
+«Prego. È il mio dovere.»{roberto} || “You're welcome. It's my duty.”
+
+Roberto fa due passi verso casa, poi si ferma. || Roberto takes two steps toward home, then stops.
+«Signor Carter?»{roberto} || “Mr. Carter?”
+«Sì?»{ben} || “Yes?”
+«Sul marciapiede c'è anche una **matita**. Non è mia.»{roberto} || “On the sidewalk there's also a **pencil**. It's not mine.”
+Kevin guarda il marciapiede. || Kevin looks at the sidewalk.
+C'è una **matita** rossa, vicino alla striscia **bagnata**. || There's a red **pencil**, near the **wet** stripe.
+_Ho **visto** una **matita** rossa. E adesso? Devo **scrivere** anche questo?_{ben} || *I **saw** a red **pencil**. And now? Do I have to **write** this down too?*
+«Signor Colombo, lei **ha visto** la **matita**?»{ben} || “Mr. Colombo, did you **see** the **pencil**?”
+«Io **ho visto** la **matita** alle undici e un quarto.»{roberto} || “I **saw** the **pencil** at eleven fifteen.”
+«E chi l'**ha messa** lì?»{ben} || “And who **put** it there?”
+«Questo non **ho visto**. Ma **ho messo** la **matita** nel quaderno? No. La **matita** resta lì.»{roberto} || “That I didn't **see**. But did I **put** the **pencil** in the notebook? No. The **pencil** stays there.”
+Roberto entra in casa e chiude il cancello. || Roberto enters the house and closes the gate.
+Kevin resta solo sul marciapiede con la sua **matita** rossa. || Kevin stays alone on the sidewalk with his red **pencil**.
+_Ma la matita è mia. L'ho **persa** stamattina._{ben} || *But the pencil is mine. I **lost** it this morning.*
+Roberto apre di nuovo la finestra. || Roberto opens the window again.
+«Signor Carter, una cosa.»{roberto} || “Mr. Carter, one thing.”
+«Dimmi... dica.»{ben} || “Tell me... I mean, go ahead.”
+«E anche la cena? Devo **scrivere** anche la cena?»{ben|joking} || “And dinner too? Do I have to **write** dinner too?”
+«No. La cena non è un fatto pubblico.»{roberto|serious} || “No. Dinner is not a public fact.”
+La finestra si chiude. || The window closes.
+
+# SCENE bar-tigli | lunedì sera | matteo, nadia, ben
+Sono le sette e mezza di sera e in Bar Tigli c'è poca gente. || It's seven thirty in the evening and there are few people in Bar Tigli.
+Kevin entra con la giacca ancora piena di **polvere**. || Kevin comes in with his jacket still full of **dust**.
+Va dritto al bancone e **mette** le mani sul legno. || He goes straight to the counter and **puts** his hands on the wood.
+
+«Matteo, buonasera. Mi servono sei bottiglie d'acqua.»{ben} || “Matteo, good evening. I need six bottles of water.”
+«Sei? Perché sei?»{matteo} || “Six? Why six?”
+«Perché a casa il **rubinetto** è chiuso.»{ben} || “Because at home the **faucet** is off.”
+«**Chiuso**? Tutto il giorno?»{matteo} || “**Closed**? All day?”
+«Sì. Un **tubo** rotto sotto il lavandino. Un **guasto** serio.»{ben} || “Yes. A broken **pipe** under the sink. A serious **fault**.”
+«E chi **ha chiuso** l'acqua?»{matteo} || “And who **closed** the water?”
+«Nessuno lo sa. E nessuno **ha risposto** alle mie domande.»{ben|tired} || “Nobody knows. And nobody **answered** my questions.”
+Matteo prende sei bottiglie dal frigo. || Matteo takes six bottles from the fridge.
+«Sei bottiglie. Due euro e quaranta.»{matteo} || “Six bottles. Two euros forty.”
+Kevin paga e **mette** le bottiglie nella borsa. || Kevin pays and **puts** the bottles in his bag.
+
+Dietro il bancone c'è una macchina del caffè con un cartello. || Behind the counter there's a coffee machine with a sign.
+Sul cartello c'è **scritto**: GUASTO — NON USARE. || On the sign it says: OUT OF ORDER — DO NOT USE.
+«Matteo, la macchina è **rotta**?»{ben} || “Matteo, is the machine **broken**?”
+«Sì. Ha **fatto** un rumore strano stamattina e poi si è spenta.»{matteo} || “Yes. It **made** a strange noise this morning and then it shut off.”
+«Hai **chiesto** a un tecnico?»{ben} || “Did you **ask** a technician?”
+«Ho **fatto** una telefonata. Il **tecnico** arriva giovedì.»{matteo} || “I **made** a phone call. The **technician** comes Thursday.”
+«E il **tecnico** la **ripara**?»{ben} || “And the **technician** will **fix** it?”
+«Speriamo. Per adesso il caffè lo **faccio** con la macchina piccola.»{matteo} || “Let's hope so. For now I **make** coffee with the small machine.”
+Nadia arriva dalla cucina con un panno in mano. || Nadia comes from the kitchen with a cloth in her hand.
+«Buonasera, Kevin. Ancora **polvere**?»{nadia} || “Good evening, Kevin. Still **dust**?”
+«Ancora **polvere**. E anche **acqua**.»{ben} || “Still **dust**. And also **water**.”
+Nadia guarda il pavimento vicino al bancone. || Nadia looks at the floor near the counter.
+Il pavimento è **bagnato** e c'è già un **secchio** lì. || The floor is **wet** and there's already a **bucket** there.
+«Anche qui c'è un **tubo** che perde. Da una settimana.»{nadia} || “Here too there's a **pipe** leaking. For a week now.”
+«Un altro **guasto**?»{ben} || “Another **fault**?”
+«Un altro **guasto**. Il padrone non **ha fatto** niente.»{nadia|dry} || “Another **fault**. The landlord **hasn't done** anything.”
+«Il padrone è il signor Bertoldi?»{ben} || “Is the landlord Mr. Bertoldi?”
+«No. Il padrone è il signor Colombo. Il padre di Roberto.»{nadia} || “No. The landlord is Mr. Colombo. Roberto's father.”
+«Ah. Allora capisco tutto.»{ben|dry} || “Ah. Then I understand everything.”
+
+Matteo esce da dietro il bancone e si siede al tavolo. || Matteo comes out from behind the counter and sits at the table.
+«Kevin, ti devo parlare di un **progetto**.»{matteo} || “Kevin, I have to talk to you about a **project**.”
+«Un **progetto** per il bar?»{ben} || “A **project** for the bar?”
+«Sì. Voglio **sistemare** tutto: il bancone nuovo, le luci, il pavimento.»{matteo} || “Yes. I want to **fix up** everything: the new counter, the lights, the floor.”
+«**Sistemare** tutto? E quanto costa?»{ben} || “**Fix up** everything? And how much does it cost?”
+«Ho **preso** un preventivo. Poco, secondo me.»{matteo} || “I **got** an estimate. Not much, in my opinion.”
+Nadia smette di pulire il tavolo. || Nadia stops cleaning the table.
+«Poco? Matteo, hai **letto** quel preventivo?»{nadia} || “Not much? Matteo, have you **read** that estimate?”
+«Sì, l'ho **letto**. Due volte.»{matteo} || “Yes, I **read** it. Twice.”
+«E hai **visto** la cifra finale?»{nadia} || “And did you **see** the final number?”
+«Sì. Ma è un investimento, Nadia.»{matteo} || “Yes. But it's an investment, Nadia.”
+«È un investimento. Certo. Come il contratto del caffè.»{nadia|sharp} || “It's an investment. Sure. Like the coffee contract.”
+Matteo non risponde. || Matteo doesn't answer.
+_Ho **detto** la parola sbagliata._{matteo} || *I **said** the wrong word.*
+
+Nadia va dietro il bancone e apre un cassetto. || Nadia goes behind the counter and opens a drawer.
+Tira fuori un **foglio** piegato in quattro. || She pulls out a **sheet** folded in four.
+«Kevin, ti serve un **idraulico**?»{nadia} || “Kevin, do you need a **plumber**?”
+«Sì! Conosci un **idraulico** bravo?»{ben} || “Yes! Do you know a good **plumber**?”
+«Il signor Fontana. È il migliore della zona.»{nadia} || “Mr. Fontana. He's the best in the area.”
+Nadia prende una **matita** e **scrive** il nome. || Nadia takes a **pencil** and **writes** the name.
+«Ecco: Fontana. Via Verdi 8, Borgoverde.»{nadia} || “Here: Fontana. Via Verdi 8, Borgoverde.”
+«Grazie. Il **tecnico** per la caldaia l'ho già chiamato.»{ben} || “Thanks. I already called the **technician** for the boiler.”
+«Bravo. Adesso hai due **idraulici**?»{nadia} || “Good. Now you have two **plumbers**?”
+«No, ho **fatto** un po' di confusione. Ma va bene.»{ben} || “No, I **got** a bit confused. But it's fine.”
+
+Nadia guarda Matteo, poi guarda il **foglio** piegato. || Nadia looks at Matteo, then at the folded **sheet**.
+Lo **mette** nella giacca di Matteo, davanti a tutti. || She **puts** it in Matteo's jacket, in front of everyone.
+«Matteo. Domani alle dieci, dal notaio.»{nadia} || “Matteo. Tomorrow at ten, at the notary's.”
+«Nadia, non adesso.»{matteo|low} || “Nadia, not now.”
+«Sì, adesso. Il **foglio** è nella tua giacca. Così non lo **perdi**.»{nadia} || “Yes, now. The **sheet** is in your jacket. That way you won't **lose** it.”
+«Non **perdo** mai i fogli.»{matteo} || “I never **lose** sheets.”
+«**Perdi** sempre i fogli. Anche quello del contratto del caffè.»{nadia} || “You always **lose** sheets. Even the coffee contract one.”
+Kevin guarda il bancone e cerca di cambiare discorso. || Kevin looks at the counter and tries to change the subject.
+«Ma il **tubo** qui, chi lo **ripara**?»{ben} || “But the **pipe** here, who **fixes** it?”
+«Io, con un **secchio** e un panno, tutte le sere.»{nadia} || “Me, with a **bucket** and a cloth, every evening.”
+«E l'**idraulico**?»{ben} || “And the **plumber**?”
+«Il signor Fontana **ha chiesto** il permesso al padrone. Il permesso non arriva mai.»{nadia} || “Mr. Fontana **asked** the landlord for permission. The permission never arrives.”
+«Un **lavoro** fermo per un **foglio**.»{ben} || “A **job** stopped by a **sheet** of paper.”
+«Benvenuto in Italia, Kevin.»{matteo|small smile} || “Welcome to Italy, Kevin.”
+
+Kevin prende una delle sei bottiglie e la **apre**. || Kevin takes one of the six bottles and **opens** it.
+«Matteo, un bicchiere? Io ho **bevuto** acqua del rubinetto fino a stamattina.»{ben} || “Matteo, a glass? I **drank** tap water until this morning.”
+«Adesso **bevi** quella in bottiglia.»{matteo} || “Now you **drink** the bottled one.”
+«**Bevo** quella in bottiglia. Ma mi manca il rubinetto.»{ben} || “I **drink** the bottled one. But I miss the faucet.”
+Nadia ride piano e **sistema** i bicchieri sul bancone. || Nadia laughs softly and **arranges** the glasses on the counter.
+Il pavimento è ancora **bagnato** e il **secchio** è mezzo pieno. || The floor is still **wet** and the **bucket** is half full.
+«Kevin, il **lavoro** di oggi è difficile, vero?»{nadia} || “Kevin, today's **work** is hard, right?”
+«Difficile. Ho **fatto** foto, ho **chiesto** a tutti, ho **perso** la pazienza.»{ben} || “Hard. I **took** photos, I **asked** everyone, I **lost** my patience.”
+«E hai **trovato** la risposta?»{nadia} || “And did you **find** the answer?”
+«No. Ma ho **scritto** tutto in un **quaderno**. Il mio quaderno giallo.»{ben} || “No. But I **wrote** everything down in a **notebook**. My yellow notebook.”
+«Come il signor Colombo.»{nadia|amused} || “Like Mr. Colombo.”
+«Per favore, non dirlo a nessuno.»{ben} || “Please don't tell anyone.”
+«Non **ho detto** niente a nessuno.»{nadia} || “I **haven't said** anything to anyone.”
+
+Matteo si alza e guarda la macchina del caffè **rotta**. || Matteo gets up and looks at the **broken** coffee machine.
+«Sai, Kevin, oggi ho **perso** due clienti per colpa di questa macchina.»{matteo} || “You know, Kevin, today I **lost** two customers because of this machine.”
+«Due clienti?»{ben} || “Two customers?”
+«Sì. Due clienti: un cappuccino. Io ho **detto**: "Non posso." Loro hanno **detto**: "Allora andiamo."»{matteo} || “Yes. Two customers: a cappuccino. I **said**: “I can't.” They **said**: “Then we're leaving.””
+«Mi dispiace.»{ben} || “I'm sorry.”
+«Giovedì il **tecnico** la **ripara**. Se viene.»{matteo} || “Thursday the **technician** will **fix** it. If he comes.”
+«Il **tecnico** viene. Ho **chiesto** io, no?»{ben} || “The **technician** is coming. I **asked** him, right?”
+«Ah. Allora **ha risposto** a te?»{matteo} || “Ah. So he **answered** you?”
+«Sì. Ha **detto**: "Giovedì alle nove."»{ben} || “Yes. He **said**: “Thursday at nine.””
+«Kevin, sei il mio nuovo segretario.»{matteo|laughing} || “Kevin, you're my new secretary.”
+«Il mio **lavoro** è questo, ormai.»{ben|dry} || “That's my **job** now, apparently.”
+
+Nadia **chiude** la porta del bar e gira il cartello. || Nadia **closes** the bar door and flips the sign.
+Sul bancone c'è un barattolo di vetro. || On the counter there's a glass jar.
+Sul barattolo c'è **scritto**, con la **matita**: FRANCO — NON TOCCARE. || On the jar it's **written**, in **pencil**: FRANCO — DO NOT TOUCH.
+«Kevin, sapevi di questo barattolo?»{nadia} || “Kevin, did you know about this jar?”
+«Sì. È quello con la busta di Franco. Quella che non hai **aperto**.»{ben} || “Yes. It's the one with Franco's envelope. The one you haven't **opened**.”
+«Non l'ho **aperto**. E resta chiuso.»{nadia} || “I haven't **opened** it. And it stays closed.”
+«Nadia, io non ho **detto** niente a Franco.»{ben} || “Nadia, I haven't **said** anything to Franco.”
+«Lo so. **Ho visto** la busta io. E **ho messo** il barattolo qui.»{nadia} || “I know. I **saw** the envelope. And I **put** the jar here.”
+Matteo guarda il barattolo e **perde** il sorriso. || Matteo looks at the jar and **loses** his smile.
+«Quel barattolo è come un esame, ogni sera.»{matteo} || “That jar is like an exam, every evening.”
+«Il barattolo resta qui. Domani tu vai dal notaio.»{nadia} || “The jar stays here. Tomorrow you go to the notary's.”
+«E se io non vado?»{matteo|small voice} || “And if I don't go?”
+«Allora il **foglio** lo **metto** io nel tuo zaino. E vado io al posto tuo.»{nadia|flat} || “Then I **put** the **sheet** in your backpack. And I go in your place.”
+Nadia prende il **secchio** e lo porta in cucina. || Nadia takes the **bucket** and carries it to the kitchen.
+Kevin **beve** l'ultimo sorso d'acqua. || Kevin **drinks** the last sip of water.
+«Buonanotte, raga.»{ben|trying to be Italian} || “Good night, guys.”
+«"Raga" no, Kevin. "Raga" è per i quindicenni.»{nadia} || ““Guys” no, Kevin. “Guys” is for fifteen-year-olds.”
+«Allora buonanotte, signori.»{ben} || “Then good night, ladies and gentlemen.”
+«Meglio.»{nadia|dry} || “Better.”
+
+# SCENE casa-carter | lunedì sera | chiara, ben, leo, emma, franco, roberto, sergio
+Chiara arriva a casa alle sette e mezza, stanca e con la borsa pesante. || Chiara gets home at seven thirty, tired and with a heavy bag.
+Apre la porta e si ferma. || She opens the door and stops.
+Davanti a lei c'è un muro **aperto**, un buco enorme in cucina. || In front of her there's an **open** wall, a huge hole in the kitchen.
+Il pavimento è **sporco**, il **secchio** è pieno e sul **soffitto** c'è una macchia grigia. || The floor is **dirty**, the **bucket** is full and on the **ceiling** there's a gray stain.
+Chiara **mette** la borsa sul tavolo e **chiude** gli occhi. || Chiara **puts** her bag on the table and **closes** her eyes.
+Poi li apre e parla con voce calma. || Then she opens them and speaks in a calm voice.
+«Chi ha **rotto** il muro?»{chiara|very calm} || “Who **broke** the wall?”
+
+In cucina ci sono Kevin, Leo e Franco. || In the kitchen there are Kevin, Leo and Franco.
+Tutti e tre guardano il muro. || All three look at the wall.
+Nessuno risponde. || Nobody answers.
+«Ho **detto**: chi ha **rotto** il muro?»{chiara|slower} || “I **said**: who **broke** the wall?”
+«Io non ho **rotto** niente.»{leo|quick} || “I didn't **break** anything.”
+«Nessuno ha **detto** che il colpevole sei tu, Leo.»{chiara} || “Nobody **said** that the culprit is you, Leo.”
+«Ma tu hai **detto**: chi ha **rotto**. E io ho **detto**: non io.»{leo} || “But you **said**: who **broke** it. And I **said**: not me.”
+«Ok. Buona logica.»{chiara|dry} || “Okay. Good logic.”
+Franco è in piedi vicino al **rubinetto**, con il **metro** in mano. || Franco is standing near the **faucet**, with the **tape measure** in his hand.
+«La crepa sotto la finestra è vecchia. Il buco della cucina è nuovo.»{franco} || “The crack under the window is old. The kitchen hole is new.”
+«Grazie, papà. Molto utile.»{chiara} || “Thanks, Dad. Very helpful.”
+
+Kevin alza una mano come a scuola. || Kevin raises a hand like at school.
+«Signora Ferri, ho **fatto** un'indagine.»{ben} || “Mrs. Ferri, I **did** an investigation.”
+«Un'indagine?»{chiara} || “An investigation?”
+«Sì. Ho **fatto** dodici foto, ho **chiesto** a tutti, ho **scritto** tutto.»{ben} || “Yes. I **took** twelve photos, I **asked** everyone, I **wrote** everything down.”
+Kevin apre il quaderno giallo e legge. || Kevin opens the yellow notebook and reads.
+«Ore sette e trentacinque: arriva il furgone.»{ben} || “Seven thirty-five: the van arrives.”
+«Ore otto: il **trapano** comincia il suo **lavoro**.»{ben} || “Eight o'clock: the **drill** starts its **work**.”
+«Ore dieci e venti: qualcuno **ha chiuso** l'acqua.»{ben} || “Ten twenty: someone **closed** the water.”
+«Ore tredici: il **tubo** sotto il lavandino è **rotto**.»{ben} || “One o'clock: the **pipe** under the sink is **broken**.”
+«E poi ho **fatto** due telefonate: un **idraulico** e un **tecnico**.»{ben|proud} || “And then I **made** two calls: a **plumber** and a **technician**.”
+Chiara lo guarda, quasi impressionata. || Chiara looks at him, almost impressed.
+«Hai **fatto** tutto questo?»{chiara} || “You **did** all this?”
+«Sì. E ho **perso** due ore per la verità.»{ben} || “Yes. And I **lost** two hours looking for the truth.”
+«Due ore e il **foglio** del progetto.»{chiara} || “Two hours and the **sheet** with the plan.”
+«Come lo sai?»{ben|surprised} || “How do you know?”
+«Perché sei tu, Kevin.»{chiara|dry} || “Because it's you, Kevin.”
+
+Emma scende le scale con le cuffie al collo. || Emma comes down the stairs with her headphones around her neck.
+Vede il buco e si ferma. || She sees the hole and stops.
+«Tipo, ma avete **aperto** un muro o è esploso?»{emma} || “Like, did you **open** a wall or did it explode?”
+«**Aperto**. È il muro sbagliato.»{ben} || “**Opened**. It's the wrong wall.”
+«Che ansia. La cucina ora sembra un garage.»{emma} || “So stressful. The kitchen now looks like a garage.”
+«Grazie, Emma.»{chiara|tired} || “Thanks, Emma.”
+«Che ho **detto**? È la verità.»{emma} || “What did I **say**? It's the truth.”
+Emma prende una mela e va in salotto. || Emma takes an apple and goes into the living room.
+
+Kevin **mette** il suo **foglio** sul tavolo. || Kevin **puts** his **sheet** on the table.
+È il **disegno** della cucina, con i quadrati e le frecce. || It's the **drawing** of the kitchen, with squares and arrows.
+«Chiara, guarda qui. Sul **foglio** c'è una **freccia** rossa.»{ben} || “Chiara, look here. On the **sheet** there's a red **arrow**.”
+Chiara si avvicina e guarda il **disegno**. || Chiara comes closer and looks at the **drawing**.
+«Kevin, questo non è il **progetto** nuovo.»{chiara|slow} || “Kevin, this isn't the new **plan**.”
+«No?»{ben} || “No?”
+«Questo è il **disegno** della cucina vecchia. Il **foglio** di marzo.»{chiara} || “This is the **drawing** of the old kitchen. The **sheet** from March.”
+Kevin guarda il foglio, poi guarda il muro. || Kevin looks at the sheet, then at the wall.
+_Ho **preso** il foglio sbagliato. Ho **perso** due ore e ho **preso** il foglio vecchio._{ben} || *I **took** the wrong sheet. I **lost** two hours and I **took** the old sheet.*
+«E allora la **freccia** rossa?»{ben} || “And so the red **arrow**?”
+Chiara prende una **matita** dal tavolo e la guarda. || Chiara takes a **pencil** from the table and looks at it.
+«Questa **matita** non è la mia. È rossa.»{chiara} || “This **pencil** isn't mine. It's red.”
+Leo si avvicina piano al tavolo. || Leo slowly comes closer to the table.
+«La **matita** è mia.»{leo|small voice} || “The **pencil** is mine.”
+Tutti si girano verso Leo. || Everyone turns toward Leo.
+«E la **freccia**?»{chiara} || “And the **arrow**?”
+«Ho **fatto** io la **freccia**. Ho **preso** il **foglio** dal tavolo.»{leo} || “I **made** the **arrow**. I **took** the **sheet** from the table.”
+«Perché, Leo?»{chiara} || “Why, Leo?”
+«Per Pavarotti. È una mappa del tesoro, per il gatto della signora Galli.»{leo} || “For Pavarotti. It's a treasure map, for Mrs. Galli's cat.”
+Kevin guarda la freccia, poi guarda Leo. || Kevin looks at the arrow, then at Leo.
+«Un gatto. Tu hai **fatto** una mappa del tesoro per un gatto.»{ben} || “A cat. You **made** a treasure map for a cat.”
+«Sì. E il tesoro è il buco nel muro.»{leo} || “Yes. And the treasure is the hole in the wall.”
+
+Franco ride piano, dal fondo della cucina. || Franco laughs softly, from the back of the kitchen.
+«Bravo, il piccolo. Ha **fatto** un **disegno** migliore del nostro.»{franco} || “Good job, the little one. He **made** a better **drawing** than ours.”
+«Franco, non aiutarlo.»{chiara} || “Franco, don't help him.”
+«Io ho **detto** la verità. È un **lavoro** da architetto.»{franco|small smile} || “I **said** the truth. It's an architect's **work**.”
+Chiara guarda il **disegno** di Leo e non sa se ridere o piangere. || Chiara looks at Leo's **drawing** and doesn't know whether to laugh or cry.
+
+Qualcuno bussa alla porta. || Someone knocks at the door.
+È Roberto, con il suo quaderno sotto il braccio. || It's Roberto, with his notebook under his arm.
+Entra in cucina e guarda il muro **aperto**. || He comes into the kitchen and looks at the **open** wall.
+«Buonasera. Posso? Sono qui come testimone.»{roberto} || “Good evening. May I? I'm here as a witness.”
+«Un testimone di che cosa?»{chiara} || “A witness to what?”
+«Di tutto. Io **ho visto** il furgone, **ho visto** la **scala**, **ho sentito** il rumore.»{roberto} || “To everything. I **saw** the van, I **saw** the **ladder**, I **heard** the noise.”
+Roberto apre il quaderno e legge con calma. || Roberto opens the notebook and reads calmly.
+«Ore sette e quaranta: una **scala** in corridoio.»{roberto} || “Seven forty: a **ladder** in the hallway.”
+«Ore otto: il **trapano**, rumore forte, **polvere** sul marciapiede.»{roberto} || “Eight o'clock: the **drill**, loud noise, **dust** on the sidewalk.”
+«Ore dieci e venti: acqua sul marciapiede. Pavimento **bagnato**. **Secchio** presente.»{roberto} || “Ten twenty: water on the sidewalk. **Wet** floor. **Bucket** present.”
+Chiara ascolta con le braccia conserte. || Chiara listens with her arms crossed.
+«Signor Colombo, lei **ha scritto** anche il colore della **polvere**?»{chiara|dry} || “Mr. Colombo, did you **write** down the color of the **dust** too?”
+«La **polvere** è grigia. Ma **ho scritto** solo le cose importanti.»{roberto} || “The **dust** is gray. But I **wrote** only the important things.”
+Kevin guarda il quaderno di Roberto e sorride. || Kevin looks at Roberto's notebook and smiles.
+«Signor Colombo, noi siamo colleghi adesso.»{ben} || “Mr. Colombo, we're colleagues now.”
+«No. Lei **ha fatto** un'indagine. Io **ho fatto** un verbale. Non è la stessa cosa.»{roberto} || “No. You **did** an investigation. I **did** a report. It's not the same thing.”
+
+Franco si avvicina al muro e passa la mano sulla **crepa**. || Franco comes closer to the wall and runs his hand over the **crack**.
+«Questa **crepa** è sotto la finestra. Vecchia di vent'anni.»{franco} || “This **crack** is under the window. Twenty years old.”
+Poi guarda il **soffitto**. || Then he looks at the **ceiling**.
+«Il **soffitto** è **sporco**, ma è grande. La cucina adesso è più grande.»{franco} || “The **ceiling** is **dirty**, but it's big. The kitchen is bigger now.”
+Chiara guarda il buco, il soffitto, poi il disegno. || Chiara looks at the hole, the ceiling, then the drawing.
+«Ha ragione, papà. Il muro sbagliato è anche il muro giusto.»{chiara} || “You're right, Dad. The wrong wall is also the right wall.”
+«Come?»{ben} || “What?”
+«Teniamo l'apertura. La cucina diventa grande così.»{chiara} || “We'll keep the opening. The kitchen becomes big this way.”
+«Davvero?»{ben|hopeful} || “Really?”
+«Davvero. Ma tu **chiudi** il **tubo** per bene e chiami l'**idraulico** giovedì.»{chiara} || “Really. But you **shut** the **pipe** properly and call the **plumber** on Thursday.”
+«L'**idraulico** viene mercoledì. E il **tecnico** giovedì.»{ben} || “The **plumber** comes Wednesday. And the **technician** Thursday.”
+«Perfetto. Allora il **lavoro** va avanti.»{chiara} || “Perfect. Then the **work** goes on.”
+
+Kevin **mette** i **chiodi** in una scatola e **pulisce** il tavolo. || Kevin **puts** the **nails** in a box and **cleans** the table.
+Poi **sistema** il **secchio** sotto il **tubo**, con un panno sotto. || Then he **sets** the **bucket** under the **pipe**, with a cloth underneath.
+Prende la **scala** e la **mette** in giardino, lontano dal muro. || He takes the **ladder** and **puts** it in the garden, away from the wall.
+«Leo, la **scala** non è un gioco.»{ben} || “Leo, the **ladder** is not a toy.”
+«Lo so. È per i grandi.»{leo} || “I know. It's for grown-ups.”
+«Esatto.»{ben} || “Exactly.”
+Emma passa con il telefono in mano, senza guardare. || Emma walks by with her phone in her hand, without looking.
+«Se il buco resta, io voglio una porta, non un muro.»{emma} || “If the hole stays, I want a door, not a wall.”
+«Una porta? Perché?»{chiara} || “A door? Why?”
+«Per non sentire la **polvere** e il trapano ogni mattina.»{emma|dry} || “So I don't hear the **dust** and the drill every morning.”
+«La **polvere** non si sente, Emma.»{ben} || “You don't hear **dust**, Emma.”
+«Si sente eccome. Fidati.»{emma} || “You do hear it. Trust me.”
+
+Sergio arriva dall'ingresso con il cappello in mano. || Sergio comes in from the entrance with his hat in his hand.
+Guarda il buco e sorride. || He looks at the hole and smiles.
+«Signora, il muro è **aperto** bene. Bel **lavoro**.»{sergio} || “Ma'am, the wall is **opened** well. Nice **work**.”
+«Sergio, il muro è quello sbagliato.»{chiara} || “Sergio, the wall is the wrong one.”
+«Adesso è il muro giusto. **Sistemiamo** tutto domani.»{sergio} || “Now it's the right wall. We'll **fix** everything tomorrow.”
+«E il **tubo**?»{chiara} || “And the **pipe**?”
+«**Sistemato**? No. Ma mercoledì arriva l'**idraulico**.»{sergio} || “**Fixed**? No. But Wednesday the **plumber** arrives.”
+«E il **soffitto**?»{chiara} || “And the **ceiling**?”
+«Nessun problema.»{sergio} || “No problem.”
+Franco guarda Sergio con il **metro** in mano. || Franco looks at Sergio with the **tape measure** in his hand.
+«Giovane, lei ha **detto** "nessun problema" quattro volte oggi.»{franco} || “Young man, you **said** “no problem” four times today.”
+«Sì. E domani lo dico cinque volte.»{sergio|calm} || “Yes. And tomorrow I'll say it five times.”
+«Io **ho scritto** quattro. E domani scrivo cinque.»{roberto} || “I **wrote** four. And tomorrow I'll write five.”
+Chiara alza le mani. || Chiara raises her hands.
+«Basta. Domani mattina vediamo il **progetto** con calma.»{chiara} || “Enough. Tomorrow morning we'll look at the **plan** calmly.”
+
+Kevin **chiude** il suo quaderno e **mette** la **matita** rossa nella tasca. || Kevin **closes** his notebook and **puts** the red **pencil** in his pocket.
+Guarda Chiara con un sorriso piccolo. || He looks at Chiara with a small smile.
+«Ho **fatto** tutto bene, però.»{ben|hopeful} || “I **did** everything right, though.”
+«Hai **fatto** dodici foto e hai **perso** il **progetto**.»{chiara} || “You **took** twelve photos and you **lost** the **plan**.”
+«Ma ho **trovato** il colpevole.»{ben} || “But I **found** the culprit.”
+«Il colpevole è un gatto di otto anni, Kevin.»{chiara} || “The culprit is an eight-year-old cat, Kevin.”
+«Un gatto con un **progetto** migliore del mio.»{ben} || “A cat with a better **plan** than mine.”
+Chiara ride, finalmente. || Chiara laughs, finally.
+«La prossima volta **metti** il **progetto** giusto sul tavolo.»{chiara} || “Next time **put** the right **plan** on the table.”
+«Lo **metto**. E nascondo la **matita** rossa.»{ben} || “I'll **put** it there. And I'll hide the red **pencil**.”
+«Bravo.»{chiara} || “Good.”
+Sergio **apre** la porta e saluta con la mano. || Sergio **opens** the door and waves goodbye.
+«Buonanotte. Domani mattina alle sette.»{sergio} || “Good night. Tomorrow morning at seven.”
+«Nessun problema.»{ben|dry} || “No problem.”
+Sergio si ferma e guarda Kevin. || Sergio stops and looks at Kevin.
+«Questa è la mia frase.»{sergio} || “That's my line.”
+
+# SCENE casa-carter | martedì mattina | ben, franco, sergio
+Sono le nove di mattina di martedì. || It's nine in the morning on Tuesday.
+In cucina c'è il signor Bertoldi con il suo cappotto grigio. || In the kitchen there's Mr. Bertoldi with his gray coat.
+Kevin prepara il caffè per tutti. || Kevin makes coffee for everyone.
+Franco è già qui dalle sette, con il **metro** in mano. || Franco has been here since seven, with the **tape measure** in his hand.
+
+Bertoldi guarda il muro aperto e poi il foglio. || Bertoldi looks at the open wall and then at the sheet.
+«Allora, signor Carter. Lei ha **fatto** un errore con il muro.»{uomo|serious} || “So, Mr. Carter. You **made** a mistake with the wall.”
+«Io? Il muro l'avete **aperto** voi.»{ben} || “Me? You **opened** the wall.”
+«Noi abbiamo **aperto** quello che c'è sul **disegno**.»{uomo} || “We **opened** what's on the **drawing**.”
+«Ma il disegno è vecchio!»{ben} || “But the drawing is old!”
+«Il disegno è quello che lei ci ha **dato**.»{uomo|calm} || “The drawing is the one you **gave** us.”
+Kevin apre la bocca per rispondere, poi la **chiude**. || Kevin opens his mouth to answer, then **closes** it.
+
+Sergio entra dal corridoio, sereno, con il cappello. || Sergio comes in from the hallway, serene, with his hat.
+«Buongiorno a tutti. Tutto a posto.»{sergio} || “Good morning, everyone. Everything's in order.”
+«Sergio, il muro...»{ben} || “Sergio, the wall...”
+«Nessun problema.»{sergio} || “No problem.”
+In quel momento il **trapano** parte in corridoio. || At that moment the **drill** starts up in the hallway.
+Il rumore è terribile, come un tuono in casa. || The noise is terrible, like thunder in the house.
+E sul **soffitto** appare una **crepa** nuova. || And on the **ceiling** a new **crack** appears.
+Il gesso cade in un piccolo mucchio di **polvere**. || The plaster falls in a small pile of **dust**.
+Kevin guarda il soffitto, poi guarda Sergio. || Kevin looks at the ceiling, then at Sergio.
+«È normale?»{ben|hopeful} || “Is that normal?”
+«Nessun problema.»{sergio} || “No problem.”
+«Sergio, questa è una **crepa** nuova.»{ben} || “Sergio, this is a new **crack**.”
+«È una **crepa** giovane.»{sergio} || “It's a young **crack**.”
+«Una crepa giovane?»{ben} || “A young crack?”
+«Tutto cresce, signor Carter. Anche i muri.»{sergio} || “Everything grows, Mr. Carter. Even walls.”
+
+Franco non dice niente. || Franco says nothing.
+Tira fuori dalla giacca un quaderno piccolo del 1978. || He pulls from his jacket a small notebook from 1978.
+Prende il **metro** e misura la **crepa** sul **soffitto**. || He takes the **tape measure** and measures the **crack** on the **ceiling**.
+Poi **prende** una **matita** e **scrive** una riga nel quaderno. || Then he **takes** a **pencil** and **writes** a line in the notebook.
+«Quaranta centimetri.»{franco} || “Forty centimeters.”
+«Franco, è tanto?»{ben} || “Franco, is that a lot?”
+«Per una **crepa** nuova, sì.»{franco} || “For a new **crack**, yes.”
+«E adesso che cosa **facciamo**?»{ben} || “And now what do we **do**?”
+«Adesso io **scrivo**. E tu **fai** delle domande migliori.»{franco} || “Now I **write**. And you **ask** better questions.”
+
+Kevin prende il suo **disegno** dal tavolo. || Kevin takes his **drawing** from the table.
+Sul **disegno** c'è ancora la **freccia** rossa di Leo. || On the **drawing** there's still Leo's red **arrow**.
+Kevin la guarda e sorride, malgrado tutto. || Kevin looks at it and smiles, despite everything.
+_La freccia del gatto. Il progetto del gatto._{ben} || *The cat's arrow. The cat's plan.*
+_Mi serve un quaderno più grande. E forse anche un casco._{ben} || *I need a bigger notebook. And maybe a helmet too.*
+Sergio **mette** il cappello e va verso la porta. || Sergio **puts** on his hat and heads for the door.
+«Allora, signori. Andiamo avanti. **Sistemiamo** il **soffitto** domani.»{sergio} || “So, gentlemen. Let's keep going. We'll **fix** the **ceiling** tomorrow.”
+«Domani?»{ben} || “Tomorrow?”
+«Nessun problema.»{sergio} || “No problem.”
+Kevin guarda Franco e Franco guarda il quaderno del 1978. || Kevin looks at Franco and Franco looks at the 1978 notebook.
+«Franco, tu **hai scritto** anche ieri?»{ben} || “Franco, did you **write** yesterday too?”
+«Io **ho scritto** quarant'anni di crepe. Questa è la numero trecento.»{franco} || “I've **written** forty years of cracks. This is number three hundred.”
+«Trecento?»{ben} || “Three hundred?”
+«Sì. Le case vecchie parlano, Kevin. Io **ho ascoltato** sempre.»{franco} || “Yes. Old houses talk, Kevin. I always **listened**.”
+Kevin **prende** la **matita** rossa e **mette** un piccolo segno sul **disegno**. || Kevin **takes** the red **pencil** and **puts** a small mark on the **drawing**.
+«Adesso ci sono anch'io nel quaderno.»{ben} || “Now I'm in the notebook too.”
+«Bravo. Ma il numero trecento è mio.»{franco|dry} || “Good. But number three hundred is mine.”
+
+@grammar
+
+# Irregular Past Participles
+
+## What it is
+
+In the passato prossimo, the verb *avere* carries the tense, and the main verb appears as a **past participle**. Most verbs build it regularly: *-are* → *-ato* (*mangiare* → *mangiato*), *-ere* → *-uto* (*credere* → *creduto*), *-ire* → *-ito* (*dormire* → *dormito*).
+
+A small but very common group of verbs does something else. These are the **irregular past participles**, and you simply have to learn them one by one. The good news: there are not many of them, and they are all high-frequency verbs, so you will meet them constantly.
+
+## How it works
+
+The pattern is always the same: *avere* (present) + past participle.
+
+| Infinitive | Past participle | Example |
+|---|---|---|
+| fare | **fatto** | Ho fatto le foto. |
+| dire | **detto** | Ha detto la verità. |
+| prendere | **preso** | Ho preso il foglio sbagliato. |
+| mettere | **messo** | Ho messo la scala in corridoio. |
+| vedere | **visto** | Ho visto tutto. |
+| scrivere | **scritto** | Ho scritto il numero civico. |
+| leggere | **letto** | Hai letto il contratto? |
+| aprire | **aperto** | Abbiamo aperto il muro. |
+| chiudere | **chiuso** | Chi ha chiuso l'acqua? |
+| rompere | **rotto** | Hanno rotto il tubo. |
+| chiedere | **chiesto** | Ho chiesto a tutti. |
+| rispondere | **risposto** | Lei ha risposto subito. |
+| perdere | **perso** | Ho perso le chiavi. |
+| bere | **bevuto** | Ho bevuto due litri d'acqua. |
+
+Three things to notice:
+
+1. Many of these participles end in **-to**, but not all: *perso*, *messo*, *preso*, *chiesto*, *risposto*, *letto*.
+2. The participle never changes for the person doing the action. *Ho messo*, *hai messo*, *abbiamo messo* — the participle stays *messo*. With *avere*, it does not agree with the subject.
+3. Two participles in this list use the *avere* + participle pattern even though the meaning looks "movement-like": *aprire* and *chiudere*. That is normal: **Ho aperto la porta**, **Ha chiuso il negozio**.
+
+## From the story
+
+[[Noi abbiamo aperto quello che c'è sul disegno.]]
+*"Abbiamo aperto" — the participle of *aprire* is open, not "aprito."*
+
+[[Il muro è aperto adesso. È aperto bene.]]
+*Here the same participle works as an adjective describing the wall.*
+
+[[Ah. Le ho perse di nuovo.]]
+*"Perse" — the participle of *perdere*, agreeing with the thing lost (the keys), not with the speaker.*
+
+[[Sì. Io ho scritto tutto, con l'ora e il numero civico.]]
+*"Scritto" from *scrivere*: no regular -uto form here.*
+
+[[Io ho visto tutto. Io ho scritto tutto. È il mio dovere.]]
+*"Visto" and "scritto" in two short parallel sentences — typical of Roberto.*
+
+[[Ho fatto io la freccia. Ho preso il foglio dal tavolo.]]
+*"Fatto" from *fare* and "preso" from *prendere*, side by side.*
+
+[[Chi ha chiuso l'acqua?]]
+*"Chiuso" from *chiudere*, used in a question with *chi*.*
+
+[[E adesso che cosa facciamo?]]
+*Careful: this one is present tense. The same verb gives *fatto* in the past — and *facciamo* in the present.*
+
+[[Ma io non ho chiesto un muro aperto!]]
+*"Chiesto" from *chiedere*: the -d- of the infinitive disappears.*
+
+## Common mistakes English speakers make
+
+- **Adding a regular ending.** Learners say *aprito*, *chiudito*, *romputo*, *prenduto*. These do not exist. It is *aperto*, *chiuso*, *rotto*, *preso*.
+- **Making the participle agree with the person.** With *avere*, it does not: *Kevin ha perso le chiavi*, not *Kevin ha perso* agreeing with Kevin. (Agreement with *avere* only happens with a direct object pronoun in front, later in the course — for now, keep the participle fixed.)
+- **Using the participle alone as a past tense.** *Io fatto* is not a sentence. You always need the helper: *Io ho fatto*.
+- **Confusing *visto* and *veduto*.** Both exist, but *visto* is what Italians actually say. Same for *perso* rather than *perduto* in everyday speech.
+- **Forgetting that *bere* is *bevuto*.** Learners often invent *buvuto* or *beuto*.
+- **Mixing up pairs that look similar.** *Metto / messo*, *prendo / preso*, *chiedo / chiesto*, *rispondo / risposto*. Say them out loud in pairs until the shape feels automatic.
+
+## Practice
+
+Complete each sentence with the correct past participle.
+
+1. Maria ha ______ (fare) una torta.
+2. Chi ha ______ (rompere) il bicchiere?
+3. Io ho ______ (leggere) il giornale stamattina.
+4. Abbiamo ______ (prendere) il treno delle sette.
+5. Perché non hai ______ (rispondere) al telefono?
+6. Ho ______ (mettere) le chiavi nel cassetto.
+7. Loro hanno ______ (chiedere) un preventivo.
+8. Hai ______ (bere) abbastanza acqua oggi?
+
+### Answer key
+
+1. fatto
+2. rotto
+3. letto
+4. preso
+5. risposto
+6. messo
+7. chiesto
+8. bevuto

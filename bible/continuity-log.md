@@ -186,6 +186,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco and Kevin thaw: Franco will inspect daily at 7 a.m. and will come to Tuesday's 9 a.m. meeting with Bertoldi; Nadia says nothing left for Matteo.
 - **Planted:** Matteo must go to the notaio Tuesday; outcome of the Bertoldi meeting; the envelope is still unopened.
 
+### s02e02 · Chi ha rotto il muro?
+- **Happened:** Kitchen renovation starts; crew (capo Sergio) opens the wrong wall and breaks a pipe under the sink, leaving the house without water and the ceiling cracked. Kevin documents everything but loses the real plan; Leo drew the red arrow on an old kitchen sketch as a "treasure map" for Ornella's cat Pavarotti. Chiara decides to keep the opening.
+- **New facts:** Sergio, renovation foreman ("nessun problema"); idraulico Signor Fontana, Via Verdi 8; a tecnico for the boiler comes Thursday (idraulico Wednesday); Leo is 8 here (Pavarotti the cat is 8); Bar Tigli's coffee machine broken, landlord is Signor Bertoldi (Roberto's father), leaking pipe there too; Matteo has a renovation preventivo and a notary appointment Tuesday 10; Kevin's yellow notebook, Franco's notebook of crepe since 1978 (crepa on ceiling ~40 cm).
+- **Changed:** Chiara accepts the wrong wall as the new opening; Kevin and Roberto joke about being "colleghi"; Nadia still keeps Franco's unopened envelope in a jar at the bar and pushes Matteo to the notary.
+- **Planted:** Matteo's notary appointment and bar renovation (payoff later); the jar with Franco's envelope; the new ceiling crack.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
