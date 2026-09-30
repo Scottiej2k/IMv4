@@ -226,9 +226,9 @@ La maestra Paola apre la porta della classe. «Leo, entra. Gli altri sono già a
 
 «Sì, maestra?»
 
-«Leo ha usato la **scusa** del gatto anche l'anno scorso. Non ha mai avuto un gatto.»
+«Leo ha usato la **scusa** del gatto già tre volte quest'anno. Non ha mai avuto un gatto.»
 
-«Anche l'anno scorso?»
+«Già tre volte?»
 
 «Sì. E la stessa **scusa** è arrivata da tre bambini diversi.»
 
@@ -496,7 +496,7 @@ Leo guarda Franco con la bocca aperta. «Nonno, tu vai a **danzare**?»
 
 «Di porta?»
 
-«Sì. Ho voluto andare alla lezione di italiano ma **sono entrato** nella sala di danza.»
+«Sì. Ho voluto andare alla lezione di ginnastica ma **sono entrato** nella sala di danza.»
 
 «E poi?»
 
@@ -534,11 +534,11 @@ In cucina c'è un **silenzio** dolce. Lucia prende la sua **tazza** e beve l'ult
 
 «Dimmi, tesoro.»
 
-«Voi due siete fidanzati?»
+«Voi due siete una coppia?»
 
 Franco **si ferma** con la **tazza** a metà strada. «Mah!»
 
-Lucia ride e prende la **tazza** di Leo. «Sì, tesoro. Siamo fidanzati.»
+Lucia ride e prende la **tazza** di Leo. «Sì, tesoro. Siamo una coppia.»
 
 «Ma dal nonno non si capisce mai niente.»
 
@@ -548,7 +548,7 @@ Lucia ride e prende la **tazza** di Leo. «Sì, tesoro. Siamo fidanzati.»
 
 Alle cinque Kevin entra nel Bar Tigli. Il bar è pieno di **rumore** e di voci. C'è una piccola **coda** al banco. Dietro il banco c'è Matteo con un panno in mano. Vicino a lui c'è Nadia, che guarda un barattolo.
 
-«Signor Carter! Che faccia stanca!»
+«Signor Carter! Ha una faccia stanca!»
 
 «Ciao, Matteo. Ciao, Nadia.»
 
@@ -706,17 +706,13 @@ Matteo apre la porta del bar. Fuori c'è il signor Colombo con il suo **verbale*
 
 «Non è il mio capo.»
 
-«Allora è il tuo segretario. E tu sei il mio segretario.»
-
-«Il mio segretario?»
-
-«Sì. Il mio segretario con il **sonno**, il **portafoglio** vuoto e la **multa**.»
+«Allora è il tuo ispettore. L'ispettore della polvere.»
 
 Kevin guarda il **verbale** di Roberto e la sua **tazza** vuota. «Perfetto. Allora prendo un altro caffè.»
 
 ## 6. Casa Carter, Via dei Tigli 14 · lunedì sera
 
-Alle sette di sera Chiara arriva a casa. Ha la borsa sul braccio e la faccia stanca. In cucina Kevin e Emma sono al tavolo. La cucina è ancora un cantiere, ma oggi è pulita.
+Alle sette di sera Chiara arriva a casa. Ha la borsa sul braccio e la faccia stanca. In cucina Kevin ed Emma sono al tavolo. La cucina è ancora un cantiere, ma oggi è pulita.
 
 «Buonasera. Che giornata!»
 
@@ -814,18 +810,6 @@ Emma ride e prende il **cuscino**. «Papà, il **cuscino** è comodo. L'ho prova
 
 «Grazie, Emma.»
 
-«E la nonna Lucia ha una **danza** nuova. Te la racconto domani.»
-
-«Una **danza** nuova?»
-
-«Sì. Si chiama tango. Lo sai, papà?»
-
-«Sì, lo so.»
-
-Chiara guarda Kevin un secondo. «Lo sai?»
-
-«Ho sentito. In televisione.»
-
 In cucina c'è un **silenzio** lungo. Poi Emma ride, Chiara ride e anche Kevin ride. «Che famiglia!»
 
 «Che lunedì!»
@@ -842,10 +826,6 @@ Kevin prende il suo quaderno dalla tasca. «Che cosa fai?»
 
 «Così non **mi dimentico** le parole belle.»
 
-«E la **coda** per il bagno? È già una **coda** alle sette di sera?»
-
-«Emma, per favore.»
-
 Chiara **si alza** e prende il **verbale** dal tavolo. Lo mette vicino alla **bacheca**, sulla **scrivania** piccola. «Terzo, Kevin: il **verbale** sta qui. Sulla **scrivania**.»
 
 «Sulla **scrivania** piccola. Va bene.»
@@ -854,7 +834,7 @@ Chiara **si alza** e prende il **verbale** dal tavolo. Lo mette vicino alla **ba
 
 «Con la **firma**. E con l'**orologio** giusto.»
 
-Chiara guarda Kevin negli occhi. «Primo: domani ci penso io.»
+Chiara guarda Kevin negli occhi. «Quarto: domani ci penso io.»
 
 «Tu?»
 
@@ -880,7 +860,7 @@ Martedì mattina Kevin arriva a Via dei Tigli 9 alle sei e cinquanta. Ha lo zain
 
 «Sì. Lontano dal letto. **Mi sono alzato** subito.»
 
-Kevin prende una **tazza** e beve un sorso. Poi apre il quaderno giallo e mostra una pagina. «Guardi qui, Franco. "**Mi sono svegliato** tardi".»
+Kevin prende una **tazza** e beve un sorso. Poi apre il quaderno giallo e mostra una pagina. «Guarda qui, Franco. "**Mi sono svegliato** tardi".»
 
 «E anche la parola **ritardo**. Bravo, Kevin.»
 

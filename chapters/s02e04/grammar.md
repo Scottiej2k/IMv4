@@ -60,7 +60,6 @@ Third person plural: *si* + *sono* + participle ending in *-i* for a mixed or al
 
 Lucia explains; the third person singular of a reflexive in the past is *si è* + participle.
 
-«Sì, tesoro. Siamo fidanzati.» — “Yes, sweetheart. We're engaged.” (`s02e04-4-090`)
 Not every past with *essere* is reflexive — but compare it with *ci siamo conosciuti per caso*, where the pronoun *ci* is required.
 
 «Il signor Colombo **si è arrabbiato** con me stamattina.» — “Mr. Colombo **got angry** with me this morning.” (`s02e04-5-034`)

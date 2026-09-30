@@ -4358,7 +4358,7 @@
           "s02e04-2-084:0-1"
         ],
         [
-          "s02e04-2-085:0-15"
+          "s02e04-2-085:0-16"
         ],
         [
           "s02e04-2-086:0-2"
@@ -4403,7 +4403,7 @@
               },
               {
                 "type": "text",
-                "text": "Leo ha usato la scusa del gatto anche l'anno scorso. Non ha mai avuto un gatto.",
+                "text": "Leo ha usato la scusa del gatto già tre volte quest'anno. Non ha mai avuto un gatto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4414,7 +4414,7 @@
               },
               {
                 "type": "text",
-                "text": "Anche l'anno scorso?",
+                "text": "Già tre volte?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9426,7 +9426,7 @@
               },
               {
                 "type": "text",
-                "text": "Sì. Ho voluto andare alla lezione di italiano ma sono entrato nella sala di danza.",
+                "text": "Sì. Ho voluto andare alla lezione di ginnastica ma sono entrato nella sala di danza.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10049,7 +10049,7 @@
           "s02e04-4-085:0-1"
         ],
         [
-          "s02e04-4-086:0-3"
+          "s02e04-4-086:0-4"
         ]
       ],
       "request": {
@@ -10082,7 +10082,7 @@
               },
               {
                 "type": "text",
-                "text": "Voi due siete fidanzati?",
+                "text": "Voi due siete una coppia?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10214,7 +10214,7 @@
       ],
       "words": [
         [
-          "s02e04-4-090:0-3"
+          "s02e04-4-090:0-4"
         ],
         [
           "s02e04-4-091:0-7"
@@ -10228,7 +10228,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì, tesoro. Siamo fidanzati.",
+                "text": "Sì, tesoro. Siamo una coppia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10342,7 +10342,7 @@
           "s02e04-5-005:0-8"
         ],
         [
-          "s02e04-5-006:0-4"
+          "s02e04-5-006:0-5"
         ]
       ],
       "request": {
@@ -10364,7 +10364,7 @@
               },
               {
                 "type": "text",
-                "text": "Signor Carter! Che faccia stanca!",
+                "text": "Signor Carter! Ha una faccia stanca!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13041,9 +13041,7 @@
       "segment_ids": [
         "s02e04-5-111",
         "s02e04-5-112",
-        "s02e04-5-113",
-        "s02e04-5-114",
-        "s02e04-5-115"
+        "s02e04-5-113"
       ],
       "words": [
         [
@@ -13053,13 +13051,7 @@
           "s02e04-5-112:0-4"
         ],
         [
-          "s02e04-5-113:0-10"
-        ],
-        [
-          "s02e04-5-114:0-2"
-        ],
-        [
-          "s02e04-5-115:0-12"
+          "s02e04-5-113:0-7"
         ]
       ],
       "request": {
@@ -13092,34 +13084,12 @@
               },
               {
                 "type": "text",
-                "text": "Allora è il tuo segretario. E tu sei il mio segretario.",
+                "text": "Allora è il tuo ispettore. L'ispettore della polvere.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "matteo",
                     "style": "speaking a little slower than normal, clearly, grinning"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Il mio segretario?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Sì. Il mio segretario con il sonno, il portafoglio vuoto e la multa.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               }
@@ -13155,15 +13125,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e04-5-116",
-        "s02e04-5-117"
+        "s02e04-5-114",
+        "s02e04-5-115"
       ],
       "words": [
         [
-          "s02e04-5-116:0-10"
+          "s02e04-5-114:0-10"
         ],
         [
-          "s02e04-5-117:0-5"
+          "s02e04-5-115:0-5"
         ]
       ],
       "request": {
@@ -13251,7 +13221,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Alle sette di sera Chiara arriva a casa. Ha la borsa sul braccio e la faccia stanca. In cucina Kevin e Emma sono al tavolo. La cucina è ancora un cantiere, ma oggi è pulita.",
+                "text": "Alle sette di sera Chiara arriva a casa. Ha la borsa sul braccio e la faccia stanca. In cucina Kevin ed Emma sono al tavolo. La cucina è ancora un cantiere, ma oggi è pulita.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15200,30 +15170,20 @@
       "scene": 6,
       "speakers": {
         "ben": "ben",
-        "emma": "emma"
+        "narrator": "narrator"
       },
       "segment_ids": [
         "s02e04-6-075",
         "s02e04-6-076",
-        "s02e04-6-077",
-        "s02e04-6-078",
-        "s02e04-6-079"
+        "s02e04-6-077"
       ],
       "words": [
         [
           "s02e04-6-075:0-1"
         ],
         [
-          "s02e04-6-076:0-11"
-        ],
-        [
-          "s02e04-6-077:0-2"
-        ],
-        [
-          "s02e04-6-078:0-6"
-        ],
-        [
-          "s02e04-6-079:0-2"
+          "s02e04-6-076:0-5",
+          "s02e04-6-077:0-8"
         ]
       ],
       "request": {
@@ -15235,183 +15195,6 @@
               {
                 "type": "text",
                 "text": "Grazie, Emma.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "E la nonna Lucia ha una danza nuova. Te la racconto domani.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Una danza nuova?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Sì. Si chiama tango. Lo sai, papà?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Sì, lo so.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, too fast"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "emma",
-                "voice": "Autonoe"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 181,
-      "scene": 6,
-      "speakers": {
-        "narrator": "narrator",
-        "chiara": "chiara"
-      },
-      "segment_ids": [
-        "s02e04-6-080",
-        "s02e04-6-081"
-      ],
-      "words": [
-        [
-          "s02e04-6-080:0-4"
-        ],
-        [
-          "s02e04-6-081:0-1"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Chiara guarda Kevin un secondo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Lo sai?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "chiara",
-                    "style": "speaking a little slower than normal, clearly, curious"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "chiara",
-                "voice": "Callirrhoe"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 182,
-      "scene": 6,
-      "speakers": {
-        "ben": "ben",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s02e04-6-082",
-        "s02e04-6-083",
-        "s02e04-6-084"
-      ],
-      "words": [
-        [
-          "s02e04-6-082:0-3"
-        ],
-        [
-          "s02e04-6-083:0-5",
-          "s02e04-6-084:0-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ho sentito. In televisione.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15456,22 +15239,22 @@
       }
     },
     {
-      "index": 183,
+      "index": 181,
       "scene": 6,
       "speakers": {
         "emma": "emma",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s02e04-6-085",
-        "s02e04-6-086"
+        "s02e04-6-078",
+        "s02e04-6-079"
       ],
       "words": [
         [
-          "s02e04-6-085:0-1"
+          "s02e04-6-078:0-1"
         ],
         [
-          "s02e04-6-086:0-1"
+          "s02e04-6-079:0-1"
         ]
       ],
       "request": {
@@ -15527,22 +15310,22 @@
       }
     },
     {
-      "index": 184,
+      "index": 182,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s02e04-6-087",
-        "s02e04-6-088"
+        "s02e04-6-080",
+        "s02e04-6-081"
       ],
       "words": [
         [
-          "s02e04-6-087:0-6"
+          "s02e04-6-080:0-6"
         ],
         [
-          "s02e04-6-088:0-2"
+          "s02e04-6-081:0-2"
         ]
       ],
       "request": {
@@ -15598,26 +15381,26 @@
       }
     },
     {
-      "index": 185,
+      "index": 183,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s02e04-6-089",
-        "s02e04-6-090",
-        "s02e04-6-091"
+        "s02e04-6-082",
+        "s02e04-6-083",
+        "s02e04-6-084"
       ],
       "words": [
         [
-          "s02e04-6-089:0-5"
+          "s02e04-6-082:0-5"
         ],
         [
-          "s02e04-6-090:0-1"
+          "s02e04-6-083:0-1"
         ],
         [
-          "s02e04-6-091:0-12"
+          "s02e04-6-084:0-12"
         ]
       ],
       "request": {
@@ -15684,22 +15467,22 @@
       }
     },
     {
-      "index": 186,
+      "index": 184,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s02e04-6-092",
-        "s02e04-6-093"
+        "s02e04-6-085",
+        "s02e04-6-086"
       ],
       "words": [
         [
-          "s02e04-6-092:0-7"
+          "s02e04-6-085:0-7"
         ],
         [
-          "s02e04-6-093:0-1"
+          "s02e04-6-086:0-1"
         ]
       ],
       "request": {
@@ -15755,22 +15538,24 @@
       }
     },
     {
-      "index": 187,
+      "index": 185,
       "scene": 6,
       "speakers": {
         "ben": "ben",
-        "emma": "emma"
+        "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e04-6-094",
-        "s02e04-6-095"
+        "s02e04-6-087",
+        "s02e04-6-088",
+        "s02e04-6-089"
       ],
       "words": [
         [
-          "s02e04-6-094:0-6"
+          "s02e04-6-087:0-6"
         ],
         [
-          "s02e04-6-095:0-13"
+          "s02e04-6-088:0-8",
+          "s02e04-6-089:0-7"
         ]
       ],
       "request": {
@@ -15792,12 +15577,12 @@
               },
               {
                 "type": "text",
-                "text": "E la coda per il bagno? È già una coda alle sette di sera?",
+                "text": "Chiara si alza e prende il verbale dal tavolo. Lo mette vicino alla bacheca, sulla scrivania piccola.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly, teasing"
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
                   }
                 ]
               }
@@ -15817,8 +15602,8 @@
                 "voice": "Puck"
               },
               {
-                "speaker": "emma",
-                "voice": "Autonoe"
+                "speaker": "narrator",
+                "voice": "Charon"
               }
             ]
           }
@@ -15826,28 +15611,30 @@
       }
     },
     {
-      "index": 188,
+      "index": 186,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
-        "narrator": "narrator"
+        "ben": "ben"
       },
       "segment_ids": [
-        "s02e04-6-096",
-        "s02e04-6-097",
-        "s02e04-6-098",
-        "s02e04-6-099"
+        "s02e04-6-090",
+        "s02e04-6-091",
+        "s02e04-6-092",
+        "s02e04-6-093"
       ],
       "words": [
         [
-          "s02e04-6-096:0-2"
+          "s02e04-6-090:0-7"
         ],
         [
-          "s02e04-6-097:0-8",
-          "s02e04-6-098:0-7"
+          "s02e04-6-091:0-4"
         ],
         [
-          "s02e04-6-099:0-7"
+          "s02e04-6-092:0-11"
+        ],
+        [
+          "s02e04-6-093:0-6"
         ]
       ],
       "request": {
@@ -15856,28 +15643,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Emma, per favore.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "chiara",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Chiara si alza e prende il verbale dal tavolo. Lo mette vicino alla bacheca, sulla scrivania piccola.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "Terzo, Kevin: il verbale sta qui. Sulla scrivania.",
@@ -15888,60 +15653,7 @@
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "chiara",
-                "voice": "Callirrhoe"
               },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 189,
-      "scene": 6,
-      "speakers": {
-        "ben": "ben",
-        "chiara": "chiara"
-      },
-      "segment_ids": [
-        "s02e04-6-100",
-        "s02e04-6-101",
-        "s02e04-6-102"
-      ],
-      "words": [
-        [
-          "s02e04-6-100:0-4"
-        ],
-        [
-          "s02e04-6-101:0-11"
-        ],
-        [
-          "s02e04-6-102:0-6"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
               {
                 "type": "text",
                 "text": "Sulla scrivania piccola. Va bene.",
@@ -15987,12 +15699,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
                 "speaker": "chiara",
                 "voice": "Callirrhoe"
+              },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
               }
             ]
           }
@@ -16000,22 +15712,22 @@
       }
     },
     {
-      "index": 190,
+      "index": 187,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s02e04-6-103",
-        "s02e04-6-104"
+        "s02e04-6-094",
+        "s02e04-6-095"
       ],
       "words": [
         [
-          "s02e04-6-103:0-4"
+          "s02e04-6-094:0-4"
         ],
         [
-          "s02e04-6-104:0-4"
+          "s02e04-6-095:0-4"
         ]
       ],
       "request": {
@@ -16037,7 +15749,7 @@
               },
               {
                 "type": "text",
-                "text": "Primo: domani ci penso io.",
+                "text": "Quarto: domani ci penso io.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16071,30 +15783,30 @@
       }
     },
     {
-      "index": 191,
+      "index": 188,
       "scene": 6,
       "speakers": {
         "ben": "ben",
         "chiara": "chiara"
       },
       "segment_ids": [
-        "s02e04-6-105",
-        "s02e04-6-106",
-        "s02e04-6-107",
-        "s02e04-6-108"
+        "s02e04-6-096",
+        "s02e04-6-097",
+        "s02e04-6-098",
+        "s02e04-6-099"
       ],
       "words": [
         [
-          "s02e04-6-105:0-0"
+          "s02e04-6-096:0-0"
         ],
         [
-          "s02e04-6-106:0-15"
+          "s02e04-6-097:0-15"
         ],
         [
-          "s02e04-6-107:0-1"
+          "s02e04-6-098:0-1"
         ],
         [
-          "s02e04-6-108:0-5"
+          "s02e04-6-099:0-5"
         ]
       ],
       "request": {
@@ -16172,19 +15884,19 @@
       }
     },
     {
-      "index": 192,
+      "index": 189,
       "scene": 6,
       "speakers": {
         "single": "narrator"
       },
       "segment_ids": [
-        "s02e04-6-109",
-        "s02e04-6-110"
+        "s02e04-6-100",
+        "s02e04-6-101"
       ],
       "words": [
         [
-          "s02e04-6-109:0-3",
-          "s02e04-6-110:0-7"
+          "s02e04-6-100:0-3",
+          "s02e04-6-101:0-7"
         ]
       ],
       "request": {
@@ -16220,7 +15932,7 @@
       }
     },
     {
-      "index": 193,
+      "index": 190,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -16297,7 +16009,7 @@
       }
     },
     {
-      "index": 194,
+      "index": 191,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -16413,7 +16125,7 @@
       }
     },
     {
-      "index": 195,
+      "index": 192,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -16452,7 +16164,7 @@
               },
               {
                 "type": "text",
-                "text": "Guardi qui, Franco. \"Mi sono svegliato tardi\".",
+                "text": "Guarda qui, Franco. \"Mi sono svegliato tardi\".",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16486,7 +16198,7 @@
       }
     },
     {
-      "index": 196,
+      "index": 193,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -16602,7 +16314,7 @@
       }
     },
     {
-      "index": 197,
+      "index": 194,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -16683,7 +16395,7 @@
       }
     },
     {
-      "index": 198,
+      "index": 195,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -16756,7 +16468,7 @@
       }
     },
     {
-      "index": 199,
+      "index": 196,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -16827,7 +16539,7 @@
       }
     },
     {
-      "index": 200,
+      "index": 197,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -16898,7 +16610,7 @@
       }
     },
     {
-      "index": 201,
+      "index": 198,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -16969,7 +16681,7 @@
       }
     },
     {
-      "index": 202,
+      "index": 199,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -17040,7 +16752,7 @@
       }
     },
     {
-      "index": 203,
+      "index": 200,
       "scene": 7,
       "speakers": {
         "single": "ben"

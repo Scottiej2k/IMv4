@@ -232,8 +232,8 @@ Kevin resta sulla porta con l'**orologio** in mano. || Kevin stays at the door w
 «Signor Carter, una cosa.»{maestra-paola} || “Mr. Carter, one thing.”
 
 «Sì, maestra?»{ben} || “Yes, maestra?”
-«Leo ha usato la **scusa** del gatto anche l'anno scorso. Non ha mai avuto un gatto.»{maestra-paola} || “Leo used the cat **excuse** last year too. He has never had a cat.”
-«Anche l'anno scorso?»{ben} || “Last year too?”
+«Leo ha usato la **scusa** del gatto già tre volte quest'anno. Non ha mai avuto un gatto.»{maestra-paola} || “Leo has used the cat **excuse** three times already this year. He has never had a cat.”
+«Già tre volte?»{ben} || “Three times already?”
 «Sì. E la stessa **scusa** è arrivata da tre bambini diversi.»{maestra-paola} || “Yes. And the same **excuse** came from three different children.”
 «Tre bambini? Con lo stesso gatto?»{ben} || “Three children? With the same cat?”
 «Con lo stesso gatto, signor Carter. Il gatto di Ornella lavora molto.»{maestra-paola|dry} || “With the same cat, Mr. Carter. Ornella's cat works hard.”
@@ -453,7 +453,7 @@ Leo guarda Franco con la bocca aperta. || Leo looks at Franco with his mouth ope
 «Nonno, tu vai a **danzare**?»{leo|amazed} || “Grandpa, you go **dancing**?”
 «**Mi sono sbagliato** di porta, Leo.»{franco} || “I **made a mistake** with the door, Leo.”
 «Di porta?»{leo} || “With the door?”
-«Sì. Ho voluto andare alla lezione di italiano ma **sono entrato** nella sala di danza.»{franco} || “Yes. I wanted to go to the Italian lesson but I **went into** the dance room.”
+«Sì. Ho voluto andare alla lezione di ginnastica ma **sono entrato** nella sala di danza.»{franco} || “Yes. I wanted to go to the gym class but I **went into** the dance room.”
 «E poi?»{leo} || “And then?”
 «E poi ho visto Lucia. E la porta non conta più.»{franco|quiet} || “And then I saw Lucia. And the door doesn't matter anymore.”
 Lucia sorride e tocca la **bacheca** con la mano. || Lucia smiles and touches the **bulletin board** with her hand.
@@ -481,11 +481,11 @@ Lucia prende la sua **tazza** e beve l'ultimo caffè. || Lucia takes her **cup**
 Franco guarda la **bacheca** dalla cucina. || Franco looks at the **bulletin board** from the kitchen.
 «Nonna, una domanda.»{leo} || “Grandma, one question.”
 «Dimmi, tesoro.»{lucia} || “Tell me, sweetheart.”
-«Voi due siete fidanzati?»{leo|serious} || “Are you two engaged?”
+«Voi due siete una coppia?»{leo|serious} || “Are you two a couple?”
 Franco **si ferma** con la **tazza** a metà strada. || Franco **stops** with his **cup** halfway.
 «Mah!»{franco} || “Bah!”
 Lucia ride e prende la **tazza** di Leo. || Lucia laughs and takes Leo's **cup**.
-«Sì, tesoro. Siamo fidanzati.»{lucia|warm} || “Yes, sweetheart. We're engaged.”
+«Sì, tesoro. Siamo una coppia.»{lucia|warm} || “Yes, sweetheart. We're a couple.”
 «Ma dal nonno non si capisce mai niente.»{leo} || “But you can never understand anything from grandpa.”
 «Questo è vero, nipote.»{franco|dry} || “That's true, grandson.”
 
@@ -496,7 +496,7 @@ C'è una piccola **coda** al banco. || There's a small **line** at the counter.
 Dietro il banco c'è Matteo con un panno in mano. || Behind the counter there's Matteo with a cloth in his hand.
 Vicino a lui c'è Nadia, che guarda un barattolo. || Next to him there's Nadia, looking at a jar.
 
-«Signor Carter! Che faccia stanca!»{matteo|cheerful} || “Mr. Carter! What a tired face!”
+«Signor Carter! Ha una faccia stanca!»{matteo|cheerful} || “Mr. Carter! You have a tired face!”
 «Ciao, Matteo. Ciao, Nadia.»{ben|tired} || “Hi, Matteo. Hi, Nadia.”
 «Caffè?»{matteo} || “Coffee?”
 «Sì. Un caffè, per favore.»{ben} || “Yes. A coffee, please.”
@@ -615,16 +615,14 @@ Matteo apre la porta del bar. || Matteo opens the bar door.
 Fuori c'è il signor Colombo con il suo **verbale**. || Outside there's Mr. Colombo with his **minutes**.
 «Kevin, il tuo capo è arrivato.»{matteo|whispering} || “Kevin, your boss has arrived.”
 «Non è il mio capo.»{ben} || “He's not my boss.”
-«Allora è il tuo segretario. E tu sei il mio segretario.»{matteo|grinning} || “Then he's your secretary. And you're my secretary.”
-«Il mio segretario?»{ben} || “My secretary?”
-«Sì. Il mio segretario con il **sonno**, il **portafoglio** vuoto e la **multa**.»{matteo} || “Yes. My secretary with the **sleepiness**, the empty **wallet** and the **fine**.”
+«Allora è il tuo ispettore. L'ispettore della polvere.»{matteo|grinning} || “Then he's your inspector. The dust inspector.”
 Kevin guarda il **verbale** di Roberto e la sua **tazza** vuota. || Kevin looks at Roberto's **minutes** and his empty **cup**.
 «Perfetto. Allora prendo un altro caffè.»{ben} || “Perfect. Then I'll have another coffee.”
 
 # SCENE casa-carter | lunedì sera | ben, chiara, emma
 Alle sette di sera Chiara arriva a casa. || At seven in the evening Chiara arrives home.
 Ha la borsa sul braccio e la faccia stanca. || She has her bag on her arm and a tired face.
-In cucina Kevin e Emma sono al tavolo. || In the kitchen Kevin and Emma are at the table.
+In cucina Kevin ed Emma sono al tavolo. || In the kitchen Kevin and Emma are at the table.
 La cucina è ancora un cantiere, ma oggi è pulita. || The kitchen is still a building site, but today it's clean.
 
 «Buonasera. Che giornata!»{chiara} || “Good evening. What a day!”
@@ -707,13 +705,6 @@ Prende un **cuscino** e lo mette sul bracciolo. || She takes a **pillow** and pu
 Emma ride e prende il **cuscino**. || Emma laughs and takes the **pillow**.
 «Papà, il **cuscino** è comodo. L'ho provato io.»{emma} || “Dad, the **pillow** is comfortable. I tried it.”
 «Grazie, Emma.»{ben} || “Thanks, Emma.”
-«E la nonna Lucia ha una **danza** nuova. Te la racconto domani.»{emma} || “And Grandma Lucia has a new **dance**. I'll tell you about it tomorrow.”
-«Una **danza** nuova?»{ben} || “A new **dance**?”
-«Sì. Si chiama tango. Lo sai, papà?»{emma} || “Yes. It's called tango. Do you know it, Dad?”
-«Sì, lo so.»{ben|too fast} || “Yes, I know it.”
-Chiara guarda Kevin un secondo. || Chiara looks at Kevin for a second.
-«Lo sai?»{chiara|curious} || “You know it?”
-«Ho sentito. In televisione.»{ben} || “I heard about it. On TV.”
 
 In cucina c'è un **silenzio** lungo. || In the kitchen there's a long **silence**.
 Poi Emma ride, Chiara ride e anche Kevin ride. || Then Emma laughs, Chiara laughs and Kevin laughs too.
@@ -728,8 +719,6 @@ Kevin prende il suo quaderno dalla tasca. || Kevin takes his notebook from his p
 Kevin scrive e mette il quaderno nel **portafoglio**. || Kevin writes and puts the notebook in his **wallet**.
 «Nel **portafoglio**?»{chiara} || “In the **wallet**?”
 «Così non **mi dimentico** le parole belle.»{ben} || “That way I don't **forget** the good words.”
-«E la **coda** per il bagno? È già una **coda** alle sette di sera?»{emma|teasing} || “And the **line** for the bathroom? Is it already a **line** at seven in the evening?”
-«Emma, per favore.»{chiara} || “Emma, please.”
 
 Chiara **si alza** e prende il **verbale** dal tavolo. || Chiara gets up and takes the **minutes** from the table.
 Lo mette vicino alla **bacheca**, sulla **scrivania** piccola. || She puts it near the **bulletin board**, on the small **desk**.
@@ -739,7 +728,7 @@ Lo mette vicino alla **bacheca**, sulla **scrivania** piccola. || She puts it ne
 «Con la **firma**. E con l'**orologio** giusto.»{ben} || “With the **signature**. And with the right **clock**.”
 
 Chiara guarda Kevin negli occhi. || Chiara looks Kevin in the eyes.
-«Primo: domani ci penso io.»{chiara} || “First: tomorrow I'll handle it.”
+«Quarto: domani ci penso io.»{chiara} || “Fourth: tomorrow I'll handle it.”
 «Tu?»{ben|surprised} || “You?”
 «Io. Sveglia alle sei e mezza di mattina. Colazione alle sette. E **mi alzo** anche io.»{chiara} || “Me. Alarm at six-thirty in the morning. Breakfast at seven. And I **get up** too.”
 «Anche tu?»{ben} || “You too?”
@@ -762,7 +751,7 @@ Vicino al muretto c'è Pavarotti, il gatto, che aspetta il pesce. || By the low 
 
 Kevin prende una **tazza** e beve un sorso. || Kevin takes a **cup** and drinks a sip.
 Poi apre il quaderno giallo e mostra una pagina. || Then he opens the yellow notebook and shows a page.
-«Guardi qui, Franco. "**Mi sono svegliato** tardi".»{ben|proud} || “Look here, Franco. ‘**I woke up** late.'”
+«Guarda qui, Franco. "**Mi sono svegliato** tardi".»{ben|proud} || “Look here, Franco. ‘**I woke up** late.'”
 «E anche la parola **ritardo**. Bravo, Kevin.»{franco} || “And the word **lateness** too. Good, Kevin.”
 «E ieri **mi sono fermato** prima del caffè. Non **mi sono arrabbiato**.»{ben} || “And yesterday I **stopped** before the coffee. I didn't **get angry**.”
 «Bene. Chi va piano va sano e va lontano.»{franco} || “Good. He who goes slowly goes safely and goes far.”

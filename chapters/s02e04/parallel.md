@@ -185,8 +185,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin resta sulla porta con l'**orologio** in mano. | Kevin stays at the door with the **clock** in his hand. |
 | «Signor Carter, una cosa.» | “Mr. Carter, one thing.” |
 | «Sì, maestra?» | “Yes, maestra?” |
-| «Leo ha usato la **scusa** del gatto anche l'anno scorso. Non ha mai avuto un gatto.» | “Leo used the cat **excuse** last year too. He has never had a cat.” |
-| «Anche l'anno scorso?» | “Last year too?” |
+| «Leo ha usato la **scusa** del gatto già tre volte quest'anno. Non ha mai avuto un gatto.» | “Leo has used the cat **excuse** three times already this year. He has never had a cat.” |
+| «Già tre volte?» | “Three times already?” |
 | «Sì. E la stessa **scusa** è arrivata da tre bambini diversi.» | “Yes. And the same **excuse** came from three different children.” |
 | «Tre bambini? Con lo stesso gatto?» | “Three children? With the same cat?” |
 | «Con lo stesso gatto, signor Carter. Il gatto di Ornella lavora molto.» | “With the same cat, Mr. Carter. Ornella's cat works hard.” |
@@ -388,7 +388,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nonno, tu vai a **danzare**?» | “Grandpa, you go **dancing**?” |
 | «**Mi sono sbagliato** di porta, Leo.» | “I **made a mistake** with the door, Leo.” |
 | «Di porta?» | “With the door?” |
-| «Sì. Ho voluto andare alla lezione di italiano ma **sono entrato** nella sala di danza.» | “Yes. I wanted to go to the Italian lesson but I **went into** the dance room.” |
+| «Sì. Ho voluto andare alla lezione di ginnastica ma **sono entrato** nella sala di danza.» | “Yes. I wanted to go to the gym class but I **went into** the dance room.” |
 | «E poi?» | “And then?” |
 | «E poi ho visto Lucia. E la porta non conta più.» | “And then I saw Lucia. And the door doesn't matter anymore.” |
 | Lucia sorride e tocca la **bacheca** con la mano. | Lucia smiles and touches the **bulletin board** with her hand. |
@@ -413,11 +413,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco guarda la **bacheca** dalla cucina. | Franco looks at the **bulletin board** from the kitchen. |
 | «Nonna, una domanda.» | “Grandma, one question.” |
 | «Dimmi, tesoro.» | “Tell me, sweetheart.” |
-| «Voi due siete fidanzati?» | “Are you two engaged?” |
+| «Voi due siete una coppia?» | “Are you two a couple?” |
 | Franco **si ferma** con la **tazza** a metà strada. | Franco **stops** with his **cup** halfway. |
 | «Mah!» | “Bah!” |
 | Lucia ride e prende la **tazza** di Leo. | Lucia laughs and takes Leo's **cup**. |
-| «Sì, tesoro. Siamo fidanzati.» | “Yes, sweetheart. We're engaged.” |
+| «Sì, tesoro. Siamo una coppia.» | “Yes, sweetheart. We're a couple.” |
 | «Ma dal nonno non si capisce mai niente.» | “But you can never understand anything from grandpa.” |
 | «Questo è vero, nipote.» | “That's true, grandson.” |
 
@@ -430,7 +430,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | C'è una piccola **coda** al banco. | There's a small **line** at the counter. |
 | Dietro il banco c'è Matteo con un panno in mano. | Behind the counter there's Matteo with a cloth in his hand. |
 | Vicino a lui c'è Nadia, che guarda un barattolo. | Next to him there's Nadia, looking at a jar. |
-| «Signor Carter! Che faccia stanca!» | “Mr. Carter! What a tired face!” |
+| «Signor Carter! Ha una faccia stanca!» | “Mr. Carter! You have a tired face!” |
 | «Ciao, Matteo. Ciao, Nadia.» | “Hi, Matteo. Hi, Nadia.” |
 | «Caffè?» | “Coffee?” |
 | «Sì. Un caffè, per favore.» | “Yes. A coffee, please.” |
@@ -537,9 +537,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Fuori c'è il signor Colombo con il suo **verbale**. | Outside there's Mr. Colombo with his **minutes**. |
 | «Kevin, il tuo capo è arrivato.» | “Kevin, your boss has arrived.” |
 | «Non è il mio capo.» | “He's not my boss.” |
-| «Allora è il tuo segretario. E tu sei il mio segretario.» | “Then he's your secretary. And you're my secretary.” |
-| «Il mio segretario?» | “My secretary?” |
-| «Sì. Il mio segretario con il **sonno**, il **portafoglio** vuoto e la **multa**.» | “Yes. My secretary with the **sleepiness**, the empty **wallet** and the **fine**.” |
+| «Allora è il tuo ispettore. L'ispettore della polvere.» | “Then he's your inspector. The dust inspector.” |
 | Kevin guarda il **verbale** di Roberto e la sua **tazza** vuota. | Kevin looks at Roberto's **minutes** and his empty **cup**. |
 | «Perfetto. Allora prendo un altro caffè.» | “Perfect. Then I'll have another coffee.” |
 
@@ -549,7 +547,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | Alle sette di sera Chiara arriva a casa. | At seven in the evening Chiara arrives home. |
 | Ha la borsa sul braccio e la faccia stanca. | She has her bag on her arm and a tired face. |
-| In cucina Kevin e Emma sono al tavolo. | In the kitchen Kevin and Emma are at the table. |
+| In cucina Kevin ed Emma sono al tavolo. | In the kitchen Kevin and Emma are at the table. |
 | La cucina è ancora un cantiere, ma oggi è pulita. | The kitchen is still a building site, but today it's clean. |
 | «Buonasera. Che giornata!» | “Good evening. What a day!” |
 | «Ciao, amore. Vuoi una **tazza** di tè?» | “Hi, love. Do you want a **cup** of tea?” |
@@ -622,13 +620,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma ride e prende il **cuscino**. | Emma laughs and takes the **pillow**. |
 | «Papà, il **cuscino** è comodo. L'ho provato io.» | “Dad, the **pillow** is comfortable. I tried it.” |
 | «Grazie, Emma.» | “Thanks, Emma.” |
-| «E la nonna Lucia ha una **danza** nuova. Te la racconto domani.» | “And Grandma Lucia has a new **dance**. I'll tell you about it tomorrow.” |
-| «Una **danza** nuova?» | “A new **dance**?” |
-| «Sì. Si chiama tango. Lo sai, papà?» | “Yes. It's called tango. Do you know it, Dad?” |
-| «Sì, lo so.» | “Yes, I know it.” |
-| Chiara guarda Kevin un secondo. | Chiara looks at Kevin for a second. |
-| «Lo sai?» | “You know it?” |
-| «Ho sentito. In televisione.» | “I heard about it. On TV.” |
 | In cucina c'è un **silenzio** lungo. | In the kitchen there's a long **silence**. |
 | Poi Emma ride, Chiara ride e anche Kevin ride. | Then Emma laughs, Chiara laughs and Kevin laughs too. |
 | «Che famiglia!» | “What a family!” |
@@ -641,8 +632,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin scrive e mette il quaderno nel **portafoglio**. | Kevin writes and puts the notebook in his **wallet**. |
 | «Nel **portafoglio**?» | “In the **wallet**?” |
 | «Così non **mi dimentico** le parole belle.» | “That way I don't **forget** the good words.” |
-| «E la **coda** per il bagno? È già una **coda** alle sette di sera?» | “And the **line** for the bathroom? Is it already a **line** at seven in the evening?” |
-| «Emma, per favore.» | “Emma, please.” |
 | Chiara **si alza** e prende il **verbale** dal tavolo. | Chiara gets up and takes the **minutes** from the table. |
 | Lo mette vicino alla **bacheca**, sulla **scrivania** piccola. | She puts it near the **bulletin board**, on the small **desk**. |
 | «Terzo, Kevin: il **verbale** sta qui. Sulla **scrivania**.» | “Third, Kevin: the **minutes** stay here. On the **desk**.” |
@@ -650,7 +639,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E domani, alle otto, porti il **permesso** a scuola. Con la **firma**.» | “And tomorrow, at eight, you take the permission slip to school. With the **signature**.” |
 | «Con la **firma**. E con l'**orologio** giusto.» | “With the **signature**. And with the right **clock**.” |
 | Chiara guarda Kevin negli occhi. | Chiara looks Kevin in the eyes. |
-| «Primo: domani ci penso io.» | “First: tomorrow I'll handle it.” |
+| «Quarto: domani ci penso io.» | “Fourth: tomorrow I'll handle it.” |
 | «Tu?» | “You?” |
 | «Io. Sveglia alle sei e mezza di mattina. Colazione alle sette. E **mi alzo** anche io.» | “Me. Alarm at six-thirty in the morning. Breakfast at seven. And I **get up** too.” |
 | «Anche tu?» | “You too?” |
@@ -674,7 +663,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Lontano dal letto. **Mi sono alzato** subito.» | “Yes. Far from the bed. I **got up** right away.” |
 | Kevin prende una **tazza** e beve un sorso. | Kevin takes a **cup** and drinks a sip. |
 | Poi apre il quaderno giallo e mostra una pagina. | Then he opens the yellow notebook and shows a page. |
-| «Guardi qui, Franco. "**Mi sono svegliato** tardi".» | “Look here, Franco. ‘**I woke up** late.'” |
+| «Guarda qui, Franco. "**Mi sono svegliato** tardi".» | “Look here, Franco. ‘**I woke up** late.'” |
 | «E anche la parola **ritardo**. Bravo, Kevin.» | “And the word **lateness** too. Good, Kevin.” |
 | «E ieri **mi sono fermato** prima del caffè. Non **mi sono arrabbiato**.» | “And yesterday I **stopped** before the coffee. I didn't **get angry**.” |
 | «Bene. Chi va piano va sano e va lontano.» | “Good. He who goes slowly goes safely and goes far.” |

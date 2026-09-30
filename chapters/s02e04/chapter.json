@@ -263,7 +263,7 @@
       "lemma": "la scrivania",
       "pos": "noun",
       "en": "desk",
-      "example": "s02e04-6-100",
+      "example": "s02e04-6-091",
       "target": {
         "it": "scrivania",
         "en": "desk"
@@ -15232,12 +15232,12 @@
           "segments": [
             {
               "id": "s02e04-2-085",
-              "it": "«Leo ha usato la **scusa** del gatto anche l'anno scorso. Non ha mai avuto un gatto.»",
-              "en": "“Leo used the cat **excuse** last year too. He has never had a cat.”",
+              "it": "«Leo ha usato la **scusa** del gatto già tre volte quest'anno. Non ha mai avuto un gatto.»",
+              "en": "“Leo has used the cat **excuse** three times already this year. He has never had a cat.”",
               "voice": [
                 [
                   "maestra-paola",
-                  "Leo ha usato la **scusa** del gatto anche l'anno scorso. Non ha mai avuto un gatto.",
+                  "Leo ha usato la **scusa** del gatto già tre volte quest'anno. Non ha mai avuto un gatto.",
                   ""
                 ]
               ],
@@ -15318,7 +15318,7 @@
                   ""
                 ],
                 [
-                  "anche",
+                  "già",
                   7,
                   ""
                 ],
@@ -15328,7 +15328,7 @@
                   ""
                 ],
                 [
-                  "l'anno",
+                  "tre",
                   8,
                   ""
                 ],
@@ -15338,8 +15338,18 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "volte",
                   9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "quest'anno",
+                  10,
                   ""
                 ],
                 [
@@ -15349,16 +15359,6 @@
                 ],
                 [
                   "Non",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ha",
                   11,
                   ""
                 ],
@@ -15368,7 +15368,7 @@
                   ""
                 ],
                 [
-                  "mai",
+                  "ha",
                   12,
                   ""
                 ],
@@ -15378,7 +15378,7 @@
                   ""
                 ],
                 [
-                  "avuto",
+                  "mai",
                   13,
                   ""
                 ],
@@ -15388,7 +15388,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "avuto",
                   14,
                   ""
                 ],
@@ -15398,8 +15398,18 @@
                   ""
                 ],
                 [
-                  "gatto",
+                  "un",
                   15,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "gatto",
+                  16,
                   ""
                 ],
                 [
@@ -15418,12 +15428,12 @@
           "segments": [
             {
               "id": "s02e04-2-086",
-              "it": "«Anche l'anno scorso?»",
-              "en": "“Last year too?”",
+              "it": "«Già tre volte?»",
+              "en": "“Three times already?”",
               "voice": [
                 [
                   "ben",
-                  "Anche l'anno scorso?",
+                  "Già tre volte?",
                   ""
                 ]
               ],
@@ -15434,7 +15444,7 @@
                   ""
                 ],
                 [
-                  "Anche",
+                  "Già",
                   0,
                   ""
                 ],
@@ -15444,7 +15454,7 @@
                   ""
                 ],
                 [
-                  "l'anno",
+                  "tre",
                   1,
                   ""
                 ],
@@ -15454,7 +15464,7 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "volte",
                   2,
                   ""
                 ],
@@ -32436,12 +32446,12 @@
           "segments": [
             {
               "id": "s02e04-4-061",
-              "it": "«Sì. Ho voluto andare alla lezione di italiano ma **sono entrato** nella sala di danza.»",
-              "en": "“Yes. I wanted to go to the Italian lesson but I **went into** the dance room.”",
+              "it": "«Sì. Ho voluto andare alla lezione di ginnastica ma **sono entrato** nella sala di danza.»",
+              "en": "“Yes. I wanted to go to the gym class but I **went into** the dance room.”",
               "voice": [
                 [
                   "franco",
-                  "Sì. Ho voluto andare alla lezione di italiano ma **sono entrato** nella sala di danza.",
+                  "Sì. Ho voluto andare alla lezione di ginnastica ma **sono entrato** nella sala di danza.",
                   ""
                 ]
               ],
@@ -32522,7 +32532,7 @@
                   ""
                 ],
                 [
-                  "italiano",
+                  "ginnastica",
                   7,
                   ""
                 ],
@@ -34617,12 +34627,12 @@
           "segments": [
             {
               "id": "s02e04-4-086",
-              "it": "«Voi due siete fidanzati?»",
-              "en": "“Are you two engaged?”",
+              "it": "«Voi due siete una coppia?»",
+              "en": "“Are you two a couple?”",
               "voice": [
                 [
                   "leo",
-                  "Voi due siete fidanzati?",
+                  "Voi due siete una coppia?",
                   "serious"
                 ]
               ],
@@ -34663,8 +34673,18 @@
                   ""
                 ],
                 [
-                  "fidanzati",
+                  "una",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "coppia",
+                  4,
                   ""
                 ],
                 [
@@ -34918,12 +34938,12 @@
             },
             {
               "id": "s02e04-4-090",
-              "it": "«Sì, tesoro. Siamo fidanzati.»",
-              "en": "“Yes, sweetheart. We're engaged.”",
+              "it": "«Sì, tesoro. Siamo una coppia.»",
+              "en": "“Yes, sweetheart. We're a couple.”",
               "voice": [
                 [
                   "lucia",
-                  "Sì, tesoro. Siamo fidanzati.",
+                  "Sì, tesoro. Siamo una coppia.",
                   "warm"
                 ]
               ],
@@ -34964,8 +34984,18 @@
                   ""
                 ],
                 [
-                  "fidanzati",
+                  "una",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "coppia",
+                  4,
                   ""
                 ],
                 [
@@ -35649,12 +35679,12 @@
           "segments": [
             {
               "id": "s02e04-5-006",
-              "it": "«Signor Carter! Che faccia stanca!»",
-              "en": "“Mr. Carter! What a tired face!”",
+              "it": "«Signor Carter! Ha una faccia stanca!»",
+              "en": "“Mr. Carter! You have a tired face!”",
               "voice": [
                 [
                   "matteo",
-                  "Signor Carter! Che faccia stanca!",
+                  "Signor Carter! Ha una faccia stanca!",
                   "cheerful"
                 ]
               ],
@@ -35685,7 +35715,7 @@
                   ""
                 ],
                 [
-                  "Che",
+                  "Ha",
                   2,
                   ""
                 ],
@@ -35695,7 +35725,7 @@
                   ""
                 ],
                 [
-                  "faccia",
+                  "una",
                   3,
                   ""
                 ],
@@ -35705,8 +35735,18 @@
                   ""
                 ],
                 [
-                  "stanca",
+                  "faccia",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "stanca",
+                  5,
                   ""
                 ],
                 [
@@ -45462,12 +45502,12 @@
           "segments": [
             {
               "id": "s02e04-5-113",
-              "it": "«Allora è il tuo segretario. E tu sei il mio segretario.»",
-              "en": "“Then he's your secretary. And you're my secretary.”",
+              "it": "«Allora è il tuo ispettore. L'ispettore della polvere.»",
+              "en": "“Then he's your inspector. The dust inspector.”",
               "voice": [
                 [
                   "matteo",
-                  "Allora è il tuo segretario. E tu sei il mio segretario.",
+                  "Allora è il tuo ispettore. L'ispettore della polvere.",
                   "grinning"
                 ]
               ],
@@ -45518,7 +45558,7 @@
                   ""
                 ],
                 [
-                  "segretario",
+                  "ispettore",
                   4,
                   ""
                 ],
@@ -45528,7 +45568,7 @@
                   ""
                 ],
                 [
-                  "E",
+                  "L'ispettore",
                   5,
                   ""
                 ],
@@ -45538,7 +45578,7 @@
                   ""
                 ],
                 [
-                  "tu",
+                  "della",
                   6,
                   ""
                 ],
@@ -45548,38 +45588,8 @@
                   ""
                 ],
                 [
-                  "sei",
+                  "polvere",
                   7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "segretario",
-                  10,
                   ""
                 ],
                 [
@@ -45595,217 +45605,6 @@
           "segments": [
             {
               "id": "s02e04-5-114",
-              "it": "«Il mio segretario?»",
-              "en": "“My secretary?”",
-              "voice": [
-                [
-                  "ben",
-                  "Il mio segretario?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "segretario",
-                  2,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-5-115",
-              "it": "«Sì. Il mio segretario con il **sonno**, il **portafoglio** vuoto e la **multa**.»",
-              "en": "“Yes. My secretary with the **sleepiness**, the empty **wallet** and the **fine**.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Sì. Il mio segretario con il **sonno**, il **portafoglio** vuoto e la **multa**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "segretario",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sonno",
-                  6,
-                  "b"
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "portafoglio",
-                  8,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vuoto",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "multa",
-                  12,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-sonno",
-                "v-portafoglio",
-                "v-multa"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-5-116",
               "it": "Kevin guarda il **verbale** di Roberto e la sua **tazza** vuota.",
               "en": "Kevin looks at Roberto's **minutes** and his empty **cup**.",
               "voice": [
@@ -45933,7 +45732,7 @@
               ]
             },
             {
-              "id": "s02e04-5-117",
+              "id": "s02e04-5-115",
               "it": "«Perfetto. Allora prendo un altro caffè.»",
               "en": "“Perfect. Then I'll have another coffee.”",
               "voice": [
@@ -46227,12 +46026,12 @@
             },
             {
               "id": "s02e04-6-003",
-              "it": "In cucina Kevin e Emma sono al tavolo.",
+              "it": "In cucina Kevin ed Emma sono al tavolo.",
               "en": "In the kitchen Kevin and Emma are at the table.",
               "voice": [
                 [
                   "narrator",
-                  "In cucina Kevin e Emma sono al tavolo.",
+                  "In cucina Kevin ed Emma sono al tavolo.",
                   ""
                 ]
               ],
@@ -46268,7 +46067,7 @@
                   ""
                 ],
                 [
-                  "e",
+                  "ed",
                   3,
                   ""
                 ],
@@ -52765,524 +52564,6 @@
           "segments": [
             {
               "id": "s02e04-6-076",
-              "it": "«E la nonna Lucia ha una **danza** nuova. Te la racconto domani.»",
-              "en": "“And Grandma Lucia has a new **dance**. I'll tell you about it tomorrow.”",
-              "voice": [
-                [
-                  "emma",
-                  "E la nonna Lucia ha una **danza** nuova. Te la racconto domani.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nonna",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lucia",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ha",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "danza",
-                  6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nuova",
-                  7,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Te",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "racconto",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "domani",
-                  11,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-pp-reflexive"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-077",
-              "it": "«Una **danza** nuova?»",
-              "en": "“A new **dance**?”",
-              "voice": [
-                [
-                  "ben",
-                  "Una **danza** nuova?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Una",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "danza",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nuova",
-                  2,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-pp-reflexive"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-078",
-              "it": "«Sì. Si chiama tango. Lo sai, papà?»",
-              "en": "“Yes. It's called tango. Do you know it, Dad?”",
-              "voice": [
-                [
-                  "emma",
-                  "Sì. Si chiama tango. Lo sai, papà?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Si",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiama",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tango",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lo",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sai",
-                  5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "papà",
-                  6,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-079",
-              "it": "«Sì, lo so.»",
-              "en": "“Yes, I know it.”",
-              "voice": [
-                [
-                  "ben",
-                  "Sì, lo so.",
-                  "too fast"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "so",
-                  2,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-080",
-              "it": "Chiara guarda Kevin un secondo.",
-              "en": "Chiara looks at Kevin for a second.",
-              "voice": [
-                [
-                  "narrator",
-                  "Chiara guarda Kevin un secondo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Chiara",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "secondo",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e04-6-081",
-              "it": "«Lo sai?»",
-              "en": "“You know it?”",
-              "voice": [
-                [
-                  "chiara",
-                  "Lo sai?",
-                  "curious"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sai",
-                  1,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-082",
-              "it": "«Ho sentito. In televisione.»",
-              "en": "“I heard about it. On TV.”",
-              "voice": [
-                [
-                  "ben",
-                  "Ho sentito. In televisione.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ho",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sentito",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "In",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "televisione",
-                  3,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-083",
               "it": "In cucina c'è un **silenzio** lungo.",
               "en": "In the kitchen there's a long **silence**.",
               "voice": [
@@ -53359,7 +52640,7 @@
               ]
             },
             {
-              "id": "s02e04-6-084",
+              "id": "s02e04-6-077",
               "it": "Poi Emma ride, Chiara ride e anche Kevin ride.",
               "en": "Then Emma laughs, Chiara laughs and Kevin laughs too.",
               "voice": [
@@ -53463,7 +52744,7 @@
               ]
             },
             {
-              "id": "s02e04-6-085",
+              "id": "s02e04-6-078",
               "it": "«Che famiglia!»",
               "en": "“What a family!”",
               "voice": [
@@ -53506,7 +52787,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-086",
+              "id": "s02e04-6-079",
               "it": "«Che lunedì!»",
               "en": "“What a Monday!”",
               "voice": [
@@ -53549,7 +52830,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-087",
+              "id": "s02e04-6-080",
               "it": "Kevin prende il suo quaderno dalla tasca.",
               "en": "Kevin takes his notebook from his pocket.",
               "voice": [
@@ -53633,7 +52914,7 @@
               ]
             },
             {
-              "id": "s02e04-6-088",
+              "id": "s02e04-6-081",
               "it": "«Che cosa fai?»",
               "en": "“What are you doing?”",
               "voice": [
@@ -53686,7 +52967,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-089",
+              "id": "s02e04-6-082",
               "it": "«Scrivo una parola nuova. \"Il **ritardo**\".»",
               "en": "“I'm writing a new word. ‘The **lateness**.'”",
               "voice": [
@@ -53772,7 +53053,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-090",
+              "id": "s02e04-6-083",
               "it": "«E perché?»",
               "en": "“And why?”",
               "voice": [
@@ -53815,7 +53096,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-091",
+              "id": "s02e04-6-084",
               "it": "«Perché oggi ho fatto tutto **di corsa** e ho fatto tardi lo stesso.»",
               "en": "“Because today I did everything **in a hurry** and I was late anyway.”",
               "voice": [
@@ -53967,7 +53248,7 @@
               ]
             },
             {
-              "id": "s02e04-6-092",
+              "id": "s02e04-6-085",
               "it": "Kevin scrive e mette il quaderno nel **portafoglio**.",
               "en": "Kevin writes and puts the notebook in his **wallet**.",
               "voice": [
@@ -54068,7 +53349,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-093",
+              "id": "s02e04-6-086",
               "it": "«Nel **portafoglio**?»",
               "en": "“In the **wallet**?”",
               "voice": [
@@ -54114,7 +53395,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-094",
+              "id": "s02e04-6-087",
               "it": "«Così non **mi dimentico** le parole belle.»",
               "en": "“That way I don't **forget** the good words.”",
               "voice": [
@@ -54210,226 +53491,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-095",
-              "it": "«E la **coda** per il bagno? È già una **coda** alle sette di sera?»",
-              "en": "“And the **line** for the bathroom? Is it already a **line** at seven in the evening?”",
-              "voice": [
-                [
-                  "emma",
-                  "E la **coda** per il bagno? È già una **coda** alle sette di sera?",
-                  "teasing"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "coda",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bagno",
-                  5,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "È",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "già",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "coda",
-                  9,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alle",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sette",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sera",
-                  13,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-coda"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-096",
-              "it": "«Emma, per favore.»",
-              "en": "“Emma, please.”",
-              "voice": [
-                [
-                  "chiara",
-                  "Emma, per favore.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Emma",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "favore",
-                  2,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e04-6-097",
+              "id": "s02e04-6-088",
               "it": "Chiara **si alza** e prende il **verbale** dal tavolo.",
               "en": "Chiara gets up and takes the **minutes** from the table.",
               "voice": [
@@ -54537,7 +53599,7 @@
               ]
             },
             {
-              "id": "s02e04-6-098",
+              "id": "s02e04-6-089",
               "it": "Lo mette vicino alla **bacheca**, sulla **scrivania** piccola.",
               "en": "She puts it near the **bulletin board**, on the small **desk**.",
               "voice": [
@@ -54635,7 +53697,7 @@
               ]
             },
             {
-              "id": "s02e04-6-099",
+              "id": "s02e04-6-090",
               "it": "«Terzo, Kevin: il **verbale** sta qui. Sulla **scrivania**.»",
               "en": "“Third, Kevin: the **minutes** stay here. On the **desk**.”",
               "voice": [
@@ -54742,7 +53804,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-100",
+              "id": "s02e04-6-091",
               "it": "«Sulla **scrivania** piccola. Va bene.»",
               "en": "“On the small **desk**. All right.”",
               "voice": [
@@ -54818,7 +53880,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-101",
+              "id": "s02e04-6-092",
               "it": "«E domani, alle otto, porti il **permesso** a scuola. Con la **firma**.»",
               "en": "“And tomorrow, at eight, you take the permission slip to school. With the **signature**.”",
               "voice": [
@@ -54964,7 +54026,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-102",
+              "id": "s02e04-6-093",
               "it": "«Con la **firma**. E con l'**orologio** giusto.»",
               "en": "“With the **signature**. And with the right **clock**.”",
               "voice": [
@@ -55071,7 +54133,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-103",
+              "id": "s02e04-6-094",
               "it": "Chiara guarda Kevin negli occhi.",
               "en": "Chiara looks Kevin in the eyes.",
               "voice": [
@@ -55135,13 +54197,13 @@
               ]
             },
             {
-              "id": "s02e04-6-104",
-              "it": "«Primo: domani ci penso io.»",
-              "en": "“First: tomorrow I'll handle it.”",
+              "id": "s02e04-6-095",
+              "it": "«Quarto: domani ci penso io.»",
+              "en": "“Fourth: tomorrow I'll handle it.”",
               "voice": [
                 [
                   "chiara",
-                  "Primo: domani ci penso io.",
+                  "Quarto: domani ci penso io.",
                   ""
                 ]
               ],
@@ -55152,7 +54214,7 @@
                   ""
                 ],
                 [
-                  "Primo",
+                  "Quarto",
                   0,
                   ""
                 ],
@@ -55208,7 +54270,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-105",
+              "id": "s02e04-6-096",
               "it": "«Tu?»",
               "en": "“You?”",
               "voice": [
@@ -55241,7 +54303,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-106",
+              "id": "s02e04-6-097",
               "it": "«Io. Sveglia alle sei e mezza di mattina. Colazione alle sette. E **mi alzo** anche io.»",
               "en": "“Me. Alarm at six-thirty in the morning. Breakfast at seven. And I **get up** too.”",
               "voice": [
@@ -55427,7 +54489,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-107",
+              "id": "s02e04-6-098",
               "it": "«Anche tu?»",
               "en": "“You too?”",
               "voice": [
@@ -55470,7 +54532,7 @@
         {
           "segments": [
             {
-              "id": "s02e04-6-108",
+              "id": "s02e04-6-099",
               "it": "«Sì. Così stiamo tutti sul sicuro.»",
               "en": "“Yes. That way we're all on the safe side.”",
               "voice": [
@@ -55549,7 +54611,7 @@
               ]
             },
             {
-              "id": "s02e04-6-109",
+              "id": "s02e04-6-100",
               "it": "Emma ride dalla cucina.",
               "en": "Emma laughs from the kitchen.",
               "voice": [
@@ -55603,7 +54665,7 @@
               ]
             },
             {
-              "id": "s02e04-6-110",
+              "id": "s02e04-6-101",
               "it": "Kevin prende il **cuscino** e guarda il divano.",
               "en": "Kevin takes the **pillow** and looks at the sofa.",
               "voice": [
@@ -56994,12 +56056,12 @@
             },
             {
               "id": "s02e04-7-013",
-              "it": "«Guardi qui, Franco. \"**Mi sono svegliato** tardi\".»",
+              "it": "«Guarda qui, Franco. \"**Mi sono svegliato** tardi\".»",
               "en": "“Look here, Franco. ‘**I woke up** late.'”",
               "voice": [
                 [
                   "ben",
-                  "Guardi qui, Franco. \"**Mi sono svegliato** tardi\".",
+                  "Guarda qui, Franco. \"**Mi sono svegliato** tardi\".",
                   "proud"
                 ]
               ],
@@ -57010,7 +56072,7 @@
                   ""
                 ],
                 [
-                  "Guardi",
+                  "Guarda",
                   0,
                   ""
                 ],
