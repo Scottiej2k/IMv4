@@ -210,6 +210,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Samira has guessed Nadia's secret (no eating, morning sickness) and says they'll talk; Nadia still hasn't told Matteo. Franco tells Kevin "non è andata male," nearly a compliment.
 - **Planted:** Nadia's news to Matteo; Matteo's unsigned notary document (he'll rebook); Leo's unopened sixth chocolate egg.
 
+### s02e06 · Lo sai?
+- **Happened:** Nadia tells Matteo she is three months pregnant during the derby; he announces it to the whole bar. Franco and Lucia already knew (from Carla, at the market); the Carters, Ornella and the street all know too, though nobody says it. Matteo promises Nadia he'll stay silent; Nadia plans to tell everyone officially Monday at 8.
+- **New facts:** Nadia is 3 months pregnant; first scan photo kept in her apron pocket; doctor's appointment Thursday at 5, notary Wednesday at 10; Nadia's mother Samira guessed at Pasquetta; Franco offers to buy the *fiocco* and pays for everyone at the bar Monday; Matteo lives above Bar Tigli; Kevin's supermarket cart still unreturned.
+- **Changed:** Nadia's news is now street-wide but unspoken; Franco will become a grandfather.
+- **Planted:** crib shopping in June, baby's name and sex unknown; Matteo's "idea geniale" (payoff pending).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
