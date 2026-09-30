@@ -172,10 +172,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Ornella expects a “pacco”; Lucia sets four glasses for four people and smiles—both unresolved.
 
 ### s01e25 · Buon compleanno, Franco
-- **Happened:** Franco's 72nd birthday lunch is held at Via dei Tigli 9. Lucia is introduced to family and neighbors as Franco's compagna; Chiara welcomes her. Kevin gives a toast; Franco thanks Kevin by name. Ornella gives Franco a bottle of Gino's wine.
-- **New facts:** Franco is 72; lunch had 14 guests. Ornella's gift is a bottle of wine from Gino; one glass is poured for Anna. Kevin uses a yellow notebook/cartoncino for toasts and leaves his jacket at Franco's.
-- **Changed:** Lucia's relationship with Franco is now public to the family and street; Chiara accepts her. Franco calls Kevin by name and thanks him; Franco tells Kevin the next day's lunch is at Kevin's house.
-- **Planted:** Lunch at Kevin's house tomorrow; Lucia now openly part of Franco's family events.
+- **Happened:** Franco's 72nd birthday lunch at Via dei Tigli 9; Leo spills party plans early. Franco introduces Lucia to everyone as "la mia compagna"; Chiara welcomes her. Kevin gives a toast, Franco thanks Kevin by name.
+- **New facts:** Franco is 72. Franco and Lucia are openly a couple to family and neighbors. Ornella brings Franco a bottle of Gino's wine. Tommaso attends the lunch; Roberto and Marina come too. Kevin keeps a yellow notebook and writes Italian words in it. Emma washes, Tommaso dries dishes.
+- **Changed:** Franco and Lucia's relationship now public. Franco says Kevin's name to him and thanks him; Kevin accepts a Monday lunch at the Carters' house.
+- **Planted:** Franco inviting himself to lunch at Kevin and Chiara's "tomorrow" (Monday); Kevin and Franco's warming bond; Ornella's thought that Franco has changed the house.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

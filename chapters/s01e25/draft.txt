@@ -67,7 +67,7 @@ Franco alza il bicchiere. || Franco raises the glass.
 Leo vuole provare. || Leo wants to try.
 Leo sale su una sedia. || Leo climbs onto a chair.
 Adesso Leo è **in piedi** sulla sedia. || Now Leo is **standing** on the chair.
-«Franco, sei un buon nonno!»{leo|proud} dice Leo. || “Franco, you're a good grandpa!” says Leo.
+«Nonno, sei un buon nonno!»{leo|proud} dice Leo. || “Grandpa, you're a good grandpa!” says Leo.
 «**Grazie di cuore**, Leo.»{franco} dice Franco. || “**Thanks from the heart**, Leo,” says Franco.
 Franco è **felice**. || Franco is **happy**.
 «Ma la sedia non è un posto per i piedi.»{franco|dry} || “But the chair is not a place for feet.”
@@ -76,7 +76,7 @@ Leo guarda il bicchiere d'acqua. || Leo looks at the glass of water.
 «E le candele?»{leo} chiede Leo. || “And the candles?” asks Leo.
 «Le candele sono sulla torta.»{franco} || “The candles are on the cake.”
 «Quante candele?»{leo} || “How many candles?”
-«Tante. Quante candele conta Leo?»{franco} || “A lot. How many candles does Leo count?”
+«Tante. Conta tu, Leo.»{franco} || “A lot. You count, Leo.”
 «Settantadue! E il **desiderio**?»{leo} || “Seventy-two! And the **wish**?”
 «Che **desiderio**?»{franco} || “What **wish**?”
 «Quando c'è la torta, c'è il **desiderio**.»{leo} dice Leo. || “When there's a cake, there's a **wish**,” says Leo.
@@ -111,7 +111,7 @@ Anna ha un **sorriso** grande. || Anna has a big **smile**.
 «**Auguri**, Anna.»{franco|soft} || “**Best wishes**, Anna.”
 La **voce** di Franco è bassa. || Franco's **voice** is low.
 «Oggi ci sono tutti a tavola.»{franco} || “Today everyone is at the table.”
-«E c'è Kevin.»{franco|low} || “And there's Kevin.”
+«E c'è l'americano.»{franco|low} || “And the American is there.”
 In cucina c'è **silenzio**. || In the kitchen there's **silence**.
 
 Franco prende la sua giacca buona. || Franco takes out his good jacket.
@@ -174,8 +174,7 @@ Ma Roberto sente tutto. || But Roberto hears everything.
 Roberto alza la **voce**. || Roberto raises his **voice**.
 «Allora vengo anch'io.»{roberto} || “Then I'm coming too.”
 «Con Marina.»{roberto} || “With Marina.”
-«Su Via dei Tigli siamo tutti **in piedi**, tutti insieme!»{roberto|pompous} || “On Via dei Tigli we are all **on our feet**, all together!”
-«Tutti **in piedi** a tavola!»{roberto} || “Everybody **standing** at the table!”
+«Via dei Tigli è una grande famiglia!»{roberto|pompous} || “Via dei Tigli is one big family!”
 
 Emma guarda Tommaso. || Emma looks at Tommaso.
 Tommaso guarda il cielo. || Tommaso looks at the sky.
@@ -183,7 +182,7 @@ _Come una festa ufficiale. Che ansia._{emma} || *Like an official party. So stre
 
 «È un invito ufficiale?»{roberto} chiede Roberto. || “Is it an official invitation?” asks Roberto.
 «Sì, signor Colombo.»{emma} || “Yes, Mr. Colombo.”
-«C'è un **verbal**?»{roberto} || “Is there a **record**?”
+«C'è un **verbale**?»{roberto} || “Is there a **record**?”
 «Un che?»{emma} || “A what?”
 
 «Papà.»{tommaso|dry} dice Tommaso. || “Dad,” says Tommaso.
@@ -203,7 +202,7 @@ Poi Roberto **torna**. || Then Roberto **comes back**.
 Adesso ha una **camicia** azzurra. || Now he has a blue **shirt**.
 «A che ora è il pranzo?»{roberto} chiede Roberto. || “What time is the lunch?” asks Roberto.
 «Dodici e mezza.»{emma} || “Twelve thirty.”
-«E il **verbal**?»{roberto} || “And the **record**?”
+«E il **verbale**?»{roberto} || “And the **record**?”
 
 «Dodici e mezza, papà.»{tommaso} dice Tommaso. || “Twelve thirty, Dad,” says Tommaso.
 Roberto **annuisce** e va via. || Roberto nods and goes away.
@@ -218,8 +217,8 @@ Sul cartoncino c'è il suo brindisi. || On the card there's his toast.
 Kevin legge ad alta **voce**. || Kevin reads out loud.
 «Franco, tu sei un bravo nonno…»{ben|reading} dice Kevin. || “Franco, you're a good grandpa…” says Kevin.
 
-Chiara è al tavolo con il tiramisù. || Chiara is at the table with the tiramisù.
-Il dolce è di Anna. || The dessert is Anna's.
+Chiara è al tavolo con la ricetta di Anna. || Chiara is at the table with Anna's recipe.
+La carta è vecchia e gialla. || The card is old and yellow.
 «Kevin, non leggere.»{chiara} dice Chiara. || “Kevin, don't read,” says Chiara.
 «Parla e basta.»{chiara} || “Just talk.”
 «Ma io **dimentico** tutto!»{ben} dice Kevin. || “But I **forget** everything!” says Kevin.
@@ -259,7 +258,7 @@ Poi cerca di nuovo. || Then he looks again.
 Kevin è **contento**. || Kevin is **glad**.
 «Perfetto!»{ben} || “Perfect!”
 
-Chiara guarda il tiramisù. || Chiara looks at the tiramisù.
+Chiara guarda la ricetta. || Chiara looks at the recipe.
 «Questo dolce è un **pensiero** di Anna.»{chiara|soft} || “This dessert is a **thought** from Anna.”
 «Un **pensiero**?»{ben} chiede Kevin. || “A **thought**?” asks Kevin.
 «Un **pensiero** è un piccolo regalo.»{chiara} || “A **thought** is a small gift.”
@@ -314,7 +313,7 @@ Pensa a un **compleanno** di tanti anni fa. || She thinks about a **birthday** m
 _La **voce** di mia madre la **ricordo** bene._{chiara|soft} || *My mother's **voice** I **remember** well.*
 In cucina c'è **silenzio**. || In the kitchen there's **silence**.
 Chiara è **emozionata**. || Chiara is **moved**.
-Poi prende il dolce e chiude la porta. || Then she takes the dessert and closes the door.
+Poi prende la ricetta e chiude la porta. || Then she takes the recipe and closes the door.
 
 # SCENE casa-franco | domenica, ore dodici e mezza | franco, lucia, chiara, kevin, emma, leo, matteo, nadia, ornella, roberto, marina, tommaso
 Alle dodici e mezza Via dei Tigli è una festa. || At twelve thirty Via dei Tigli is a party.
@@ -389,7 +388,7 @@ Leo conta gli ospiti. || Leo counts the guests.
 «Cinque, sei, sette, otto…»{leo} || “Five, six, seven, eight…”
 «Nove, dieci, undici, dodici…»{leo} || “Nine, ten, eleven, twelve…”
 «Tredici… quattordici!»{leo|proud} || “Thirteen… fourteen!”
-«Quattordici ospiti!»{leo} || “Fourteen guests!”
+«Già quattordici ospiti!»{leo} || “Fourteen guests already!”
 Emma lo guarda male dal giardino. || Emma gives him a look from the garden.
 
 Kevin tiene una **bottiglia**. || Kevin holds a **bottle**.
@@ -425,7 +424,7 @@ Tutti entrano nella casa. || Everyone goes into the house.
 
 # SCENE casa-franco | domenica, a tavola | franco, kevin, chiara, lucia, emma, leo, matteo, nadia, ornella, roberto, marina, tommaso
 La tavola di Franco è lunga e piena. || Franco's table is long and full.
-Ci sono quattordici persone a tavola. || There are fourteen people at the table.
+Ci sono ventidue persone a tavola. || There are twenty-two people at the table.
 Ci sono fiori, bicchieri e due **bottiglie** di vino. || There are flowers, glasses and two **bottles** of wine.
 Lucia porta la pasta. || Lucia brings the pasta.
 Franco taglia il pane. || Franco cuts the bread.
@@ -440,7 +439,7 @@ Kevin cerca nelle tasche. || Kevin looks in his pockets.
 Kevin guarda sotto il piatto. || Kevin looks under his plate.
 Kevin guarda accanto al bicchiere. || Kevin looks next to his glass.
 Niente cartoncino. || No card.
-«L'ho… no, non dico così.»{ben} dice Kevin. || “I have… no, I don't say that,” says Kevin.
+«Io… no. Non dico così.»{ben} dice Kevin. || “I… no. I don't say it like that,” says Kevin.
 «Kevin, **dimentichi** sempre tutto.»{chiara|dry} dice Chiara. || “Kevin, you always **forget** everything,” says Chiara.
 «Non **dimentico**! Solo… non trovo.»{ben} || “I don't **forget**! I just… can't find it.”
 
@@ -566,7 +565,7 @@ Roberto guarda Leo sulla sedia. || Roberto looks at Leo on the chair.
 «No, Leo. Non **in piedi** sulla sedia.»{roberto} || “No, Leo. Not **standing** on the chair.”
 «Ai sensi del regolamento, no.»{roberto} || “Under the rules, no.”
 
-# SCENE casa-franco | domenica, dopo il pranzo | franco, leo, lucia, chiara, ornella, emma, marina, kevin, matteo
+# SCENE casa-franco | domenica, dopo il pranzo | franco, leo, lucia, chiara, ornella, emma, marina, kevin, matteo, nadia, tommaso
 Dopo il pranzo la tavola è piena di piatti. || After lunch the table is full of plates.
 Lucia porta la torta. || Lucia brings the cake.
 Sulla torta ci sono settantadue candele. || On the cake there are seventy-two candles.
@@ -623,7 +622,7 @@ Nessuno **ride**. || Nobody **laughs**.
 Anche la **voce** di Marina è bassa. || Marina's **voice** is low too.
 
 Poi Matteo alza un dito. || Then Matteo raises a finger.
-«Ma quel vino è vecchio.**issimo**?»{matteo} chiede Matteo. || “But is that wine very old?” asks Matteo.
+«Ma quel vino è vecchissimo?»{matteo} chiede Matteo. || “But is that wine very old?” asks Matteo.
 Marina lo guarda male. || Marina gives him a look.
 «Matteo!»{nadia|dry} || “Matteo!”
 Tutti **ridono**. || Everyone **laughs**.
@@ -692,10 +691,10 @@ Kevin è **emozionato**. || Kevin is **moved**.
 
 Kevin prende il quaderno giallo. || Kevin takes the yellow notebook.
 Kevin **dimentica** la giacca sulla sedia. || Kevin **forgets** his jacket on the chair.
-Sul quaderno scrive **Kevin**. || In the notebook he writes **Kevin**.
+Sul quaderno scrive una sola parola: **Kevin**. || In the notebook he writes just one word: **Kevin**.
 Sotto scrive: **grazie di cuore**. || Underneath he writes: **grazie di cuore**.
-«Kevin!!»{ben|happy} || “Kevin!!”
-Un **pensiero** per sempre. || A **thought** forever.
+«Kevin!»{franco} chiama Franco dalla strada. «La giacca!»{franco} || “Kevin!” Franco calls from the street. “The jacket!”
+Kevin ride e corre fuori. || Kevin laughs and runs outside.
 
 @grammar
 # A1 Review: The Present Tense

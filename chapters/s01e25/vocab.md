@@ -9,7 +9,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **grazie di cuore**<br>(expr.) · heartfelt thanks, thanks from the heart | Sotto scrive: **grazie di cuore**. | Underneath he writes: **grazie di cuore**. |
-| **in piedi**<br>(expr.) · standing, on one's feet | «Tutti **in piedi** a tavola!» | “Everybody **standing** at the table!” |
+| **in piedi**<br>(expr.) · standing, on one's feet | È **in piedi** sul marciapiede. | He is **standing** on the sidewalk. |
 
 ## Verbs
 

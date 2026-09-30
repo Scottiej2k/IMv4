@@ -40,7 +40,7 @@ Franco ascolta. Lui sa tutto, ma non dice niente. «Davvero?» dice Franco. «Un
 
 Franco prende un bicchiere d'acqua. «Un brindisi è questo.» dice Franco. Franco alza il bicchiere. «**Alzo** il bicchiere e **dico** una cosa bella.»
 
-Leo vuole provare. Leo sale su una sedia. Adesso Leo è **in piedi** sulla sedia. «Franco, sei un buon nonno!» dice Leo.
+Leo vuole provare. Leo sale su una sedia. Adesso Leo è **in piedi** sulla sedia. «Nonno, sei un buon nonno!» dice Leo.
 
 «**Grazie di cuore**, Leo.» dice Franco. Franco è **felice**. «Ma la sedia non è un posto per i piedi.»
 
@@ -50,7 +50,7 @@ Leo guarda il bicchiere d'acqua. «E le candele?» chiede Leo.
 
 «Quante candele?»
 
-«Tante. Quante candele conta Leo?»
+«Tante. Conta tu, Leo.»
 
 «Settantadue! E il **desiderio**?»
 
@@ -78,7 +78,7 @@ Leo va verso la porta. «Ci vediamo a tavola!»
 
 «A tavola, Leo.» La porta si chiude.
 
-Franco entra in cucina e prende una foto. Nella foto c'è Anna. Anna ha un **sorriso** grande. «Oggi è il mio **compleanno**, Anna.» «**Auguri**, Anna.» La **voce** di Franco è bassa. «Oggi ci sono tutti a tavola.» «E c'è Kevin.» In cucina c'è **silenzio**.
+Franco entra in cucina e prende una foto. Nella foto c'è Anna. Anna ha un **sorriso** grande. «Oggi è il mio **compleanno**, Anna.» «**Auguri**, Anna.» La **voce** di Franco è bassa. «Oggi ci sono tutti a tavola.» «E c'è l'americano.» In cucina c'è **silenzio**.
 
 Franco prende la sua giacca buona. La giacca è vecchia ma bella. Franco **si guarda** allo specchio. «**Sono** pronto.» dice Franco.
 
@@ -122,7 +122,7 @@ Ma Roberto sente tutto. «Un pranzo?» chiede Roberto. «Alle dodici e mezza?»
 
 «Una festa di quartiere!» dice Roberto.
 
-Roberto alza la **voce**. «Allora vengo anch'io.» «Con Marina.» «Su Via dei Tigli siamo tutti **in piedi**, tutti insieme!» «Tutti **in piedi** a tavola!»
+Roberto alza la **voce**. «Allora vengo anch'io.» «Con Marina.» «Via dei Tigli è una grande famiglia!»
 
 Emma guarda Tommaso. Tommaso guarda il cielo. _Come una festa ufficiale. Che ansia._
 
@@ -130,7 +130,7 @@ Emma guarda Tommaso. Tommaso guarda il cielo. _Come una festa ufficiale. Che ans
 
 «Sì, signor Colombo.»
 
-«C'è un **verbal**?»
+«C'è un **verbale**?»
 
 «Un che?»
 
@@ -148,7 +148,7 @@ Poi Roberto **torna**. È **in piedi** sul marciapiede. Adesso ha una **camicia*
 
 «Dodici e mezza.»
 
-«E il **verbal**?»
+«E il **verbale**?»
 
 «Dodici e mezza, papà.» dice Tommaso. Roberto **annuisce** e va via.
 
@@ -160,7 +160,7 @@ Dietro la siepe, Emma e Tommaso **ridono** piano. «Ci vediamo alle dodici e mez
 
 La cucina dei Carter è piccola e piena di cose. Kevin ha un cartoncino giallo. Sul cartoncino c'è il suo brindisi. Kevin legge ad alta **voce**. «Franco, tu sei un bravo nonno…» dice Kevin.
 
-Chiara è al tavolo con il tiramisù. Il dolce è di Anna. «Kevin, non leggere.» dice Chiara. «Parla e basta.»
+Chiara è al tavolo con la ricetta di Anna. La carta è vecchia e gialla. «Kevin, non leggere.» dice Chiara. «Parla e basta.»
 
 «Ma io **dimentico** tutto!» dice Kevin.
 
@@ -200,7 +200,7 @@ Kevin mette il cartoncino nella **camicia**. Poi cerca di nuovo. «E adesso dov'
 
 «Nella **camicia**?» Kevin è **contento**. «Perfetto!»
 
-Chiara guarda il tiramisù. «Questo dolce è un **pensiero** di Anna.»
+Chiara guarda la ricetta. «Questo dolce è un **pensiero** di Anna.»
 
 «Un **pensiero**?» chiede Kevin.
 
@@ -248,7 +248,7 @@ Kevin prende un palloncino. Ma il palloncino scappa. Leo corre e prende il pallo
 
 Poi la famiglia va verso il numero nove. In cucina resta Chiara. Chiara guarda il cartoncino giallo. Sul cartoncino c'è la scrittura di Kevin. Ma nella testa di Chiara c'è un'altra scrittura.
 
-Chiara pensa ad Anna. Pensa alla **voce** di sua madre. Pensa a un **compleanno** di tanti anni fa. _La **voce** di mia madre la **ricordo** bene._ In cucina c'è **silenzio**. Chiara è **emozionata**. Poi prende il dolce e chiude la porta.
+Chiara pensa ad Anna. Pensa alla **voce** di sua madre. Pensa a un **compleanno** di tanti anni fa. _La **voce** di mia madre la **ricordo** bene._ In cucina c'è **silenzio**. Chiara è **emozionata**. Poi prende la ricetta e chiude la porta.
 
 ## 4. Casa di Franco, Via dei Tigli 9 · domenica, ore dodici e mezza
 
@@ -290,7 +290,7 @@ Ornella ha un pacco in mano. «Franco, questo è un **pensiero** per te.» dice 
 
 «Un **pensiero** grande per me.»
 
-Leo sale sul gradino. Adesso Leo è **in piedi** sul gradino. Leo conta gli ospiti. «Uno, due, tre, quattro…» «Cinque, sei, sette, otto…» «Nove, dieci, undici, dodici…» «Tredici… quattordici!» «Quattordici ospiti!» Emma lo guarda male dal giardino.
+Leo sale sul gradino. Adesso Leo è **in piedi** sul gradino. Leo conta gli ospiti. «Uno, due, tre, quattro…» «Cinque, sei, sette, otto…» «Nove, dieci, undici, dodici…» «Tredici… quattordici!» «Già quattordici ospiti!» Emma lo guarda male dal giardino.
 
 Kevin tiene una **bottiglia**. Kevin **versa** il vino. Ma la mano non è ferma. Kevin **versa** un po' sul tavolo. «Ops.» dice Kevin.
 
@@ -306,7 +306,7 @@ Poi la **voce** di Franco è l'unica. «Amici, entrate.» dice Franco. «Il pran
 
 ## 5. Casa di Franco, Via dei Tigli 9 · domenica, a tavola
 
-La tavola di Franco è lunga e piena. Ci sono quattordici persone a tavola. Ci sono fiori, bicchieri e due **bottiglie** di vino. Lucia porta la pasta. Franco taglia il pane.
+La tavola di Franco è lunga e piena. Ci sono ventidue persone a tavola. Ci sono fiori, bicchieri e due **bottiglie** di vino. Lucia porta la pasta. Franco taglia il pane.
 
 Kevin cerca qualcosa. Kevin cerca nella **camicia**. Kevin cerca nelle tasche. «Dov'è il cartoncino?» chiede Kevin.
 
@@ -314,7 +314,7 @@ Kevin cerca qualcosa. Kevin cerca nella **camicia**. Kevin cerca nelle tasche. �
 
 «Il cartoncino con il brindisi.»
 
-Kevin guarda sotto il piatto. Kevin guarda accanto al bicchiere. Niente cartoncino. «L'ho… no, non dico così.» dice Kevin.
+Kevin guarda sotto il piatto. Kevin guarda accanto al bicchiere. Niente cartoncino. «Io… no. Non dico così.» dice Kevin.
 
 «Kevin, **dimentichi** sempre tutto.» dice Chiara.
 
@@ -420,7 +420,7 @@ Franco prende la **bottiglia**. «Grazie, Ornella.» dice Franco. «È un **pens
 
 Marina prende la **bottiglia**. Marina **versa** il vino. **Versa** una goccia in ogni bicchiere. Poi **riempie** l'ultimo bicchiere. «Questo è per Anna.» dice Marina. Per un momento c'è **silenzio**. Nessuno **ride**. Anche la **voce** di Marina è bassa.
 
-Poi Matteo alza un dito. «Ma quel vino è vecchio.**issimo**?» chiede Matteo. Marina lo guarda male.
+Poi Matteo alza un dito. «Ma quel vino è vecchissimo?» chiede Matteo. Marina lo guarda male.
 
 «Matteo!» Tutti **ridono**. Adesso la stanza è **felice** di nuovo.
 
@@ -478,4 +478,4 @@ Poi Franco va verso la porta. «E **spegni** la luce, Kevin.» dice Franco.
 
 Kevin **spegne** la luce. Resta **in piedi** un secondo. In cucina c'è **silenzio**. Kevin è **emozionato**. «**Grazie di cuore**, Franco.» dice Kevin.
 
-Kevin prende il quaderno giallo. Kevin **dimentica** la giacca sulla sedia. Sul quaderno scrive **Kevin**. Sotto scrive: **grazie di cuore**. «Kevin!!» Un **pensiero** per sempre.
+Kevin prende il quaderno giallo. Kevin **dimentica** la giacca sulla sedia. Sul quaderno scrive una sola parola: **Kevin**. Sotto scrive: **grazie di cuore**. «Kevin!» chiama Franco dalla strada. «La giacca!» Kevin ride e corre fuori.

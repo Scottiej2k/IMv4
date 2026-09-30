@@ -907,7 +907,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Franco, sei un buon nonno!",
+                "text": "Nonno, sei un buon nonno!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1146,7 +1146,7 @@
           "s01e25-1-042:0-1"
         ],
         [
-          "s01e25-1-043:0-4"
+          "s01e25-1-043:0-3"
         ],
         [
           "s01e25-1-044:0-3"
@@ -1188,7 +1188,7 @@
               },
               {
                 "type": "text",
-                "text": "Tante. Quante candele conta Leo?",
+                "text": "Tante. Conta tu, Leo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1979,7 +1979,7 @@
               },
               {
                 "type": "text",
-                "text": "E c'è Kevin.",
+                "text": "E c'è l'americano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2934,8 +2934,7 @@
         "s01e25-2-045",
         "s01e25-2-046",
         "s01e25-2-047",
-        "s01e25-2-048",
-        "s01e25-2-049"
+        "s01e25-2-048"
       ],
       "words": [
         [
@@ -2947,14 +2946,11 @@
           "s01e25-2-045:0-1"
         ],
         [
-          "s01e25-2-046:0-9"
+          "s01e25-2-046:0-6"
         ],
         [
-          "s01e25-2-047:0-4"
-        ],
-        [
-          "s01e25-2-048:0-2",
-          "s01e25-2-049:0-3"
+          "s01e25-2-047:0-2",
+          "s01e25-2-048:0-3"
         ]
       ],
       "request": {
@@ -2987,23 +2983,12 @@
               },
               {
                 "type": "text",
-                "text": "Su Via dei Tigli siamo tutti in piedi, tutti insieme!",
+                "text": "Via dei Tigli è una grande famiglia!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "roberto",
                     "style": "speaking a little slower than normal, clearly, pompous"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Tutti in piedi a tavola!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "roberto",
-                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
@@ -3050,15 +3035,15 @@
         "roberto": "roberto"
       },
       "segment_ids": [
-        "s01e25-2-050",
-        "s01e25-2-051"
+        "s01e25-2-049",
+        "s01e25-2-050"
       ],
       "words": [
         [
-          "s01e25-2-050:0-5"
+          "s01e25-2-049:0-5"
         ],
         [
-          "s01e25-2-051:0-3"
+          "s01e25-2-050:0-3"
         ]
       ],
       "request": {
@@ -3121,15 +3106,15 @@
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e25-2-051",
-        "s01e25-2-052"
+        "s01e25-2-050",
+        "s01e25-2-051"
       ],
       "words": [
         [
-          "s01e25-2-051:4-5"
+          "s01e25-2-050:4-5"
         ],
         [
-          "s01e25-2-052:0-2"
+          "s01e25-2-051:0-2"
         ]
       ],
       "request": {
@@ -3192,15 +3177,15 @@
         "emma": "emma"
       },
       "segment_ids": [
-        "s01e25-2-053",
-        "s01e25-2-054"
+        "s01e25-2-052",
+        "s01e25-2-053"
       ],
       "words": [
         [
-          "s01e25-2-053:0-2"
+          "s01e25-2-052:0-2"
         ],
         [
-          "s01e25-2-054:0-1"
+          "s01e25-2-053:0-1"
         ]
       ],
       "request": {
@@ -3211,7 +3196,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "C'è un verbal?",
+                "text": "C'è un verbale?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3263,22 +3248,22 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e25-2-054",
         "s01e25-2-055",
-        "s01e25-2-056",
-        "s01e25-2-057"
+        "s01e25-2-056"
       ],
       "words": [
         [
-          "s01e25-2-055:0-0"
+          "s01e25-2-054:0-0"
         ],
         [
-          "s01e25-2-055:1-2"
+          "s01e25-2-054:1-2"
         ],
         [
-          "s01e25-2-056:0-4"
+          "s01e25-2-055:0-4"
         ],
         [
-          "s01e25-2-057:0-5"
+          "s01e25-2-056:0-5"
         ]
       ],
       "request": {
@@ -3363,24 +3348,24 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e25-2-057",
         "s01e25-2-058",
         "s01e25-2-059",
-        "s01e25-2-060",
-        "s01e25-2-061"
+        "s01e25-2-060"
       ],
       "words": [
         [
-          "s01e25-2-058:0-3"
+          "s01e25-2-057:0-3"
         ],
         [
-          "s01e25-2-058:4-5"
+          "s01e25-2-057:4-5"
         ],
         [
-          "s01e25-2-059:0-4"
+          "s01e25-2-058:0-4"
         ],
         [
-          "s01e25-2-060:0-3",
-          "s01e25-2-061:0-3"
+          "s01e25-2-059:0-3",
+          "s01e25-2-060:0-3"
         ]
       ],
       "request": {
@@ -3465,14 +3450,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e25-2-062"
+        "s01e25-2-061"
       ],
       "words": [
         [
-          "s01e25-2-062:0-4"
+          "s01e25-2-061:0-4"
         ],
         [
-          "s01e25-2-062:5-6"
+          "s01e25-2-061:5-6"
         ]
       ],
       "request": {
@@ -3535,14 +3520,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e25-2-063"
+        "s01e25-2-062"
       ],
       "words": [
         [
-          "s01e25-2-063:0-2"
+          "s01e25-2-062:0-2"
         ],
         [
-          "s01e25-2-063:3-4"
+          "s01e25-2-062:3-4"
         ]
       ],
       "request": {
@@ -3605,19 +3590,19 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e25-2-063",
         "s01e25-2-064",
         "s01e25-2-065",
-        "s01e25-2-066",
-        "s01e25-2-067"
+        "s01e25-2-066"
       ],
       "words": [
         [
-          "s01e25-2-064:0-1"
+          "s01e25-2-063:0-1"
         ],
         [
-          "s01e25-2-065:0-2",
-          "s01e25-2-066:0-4",
-          "s01e25-2-067:0-4"
+          "s01e25-2-064:0-2",
+          "s01e25-2-065:0-4",
+          "s01e25-2-066:0-4"
         ]
       ],
       "request": {
@@ -3680,14 +3665,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s01e25-2-068"
+        "s01e25-2-067"
       ],
       "words": [
         [
-          "s01e25-2-068:0-5"
+          "s01e25-2-067:0-5"
         ],
         [
-          "s01e25-2-068:6-7"
+          "s01e25-2-067:6-7"
         ]
       ],
       "request": {
@@ -3750,15 +3735,15 @@
         "roberto": "roberto"
       },
       "segment_ids": [
-        "s01e25-2-069",
-        "s01e25-2-070"
+        "s01e25-2-068",
+        "s01e25-2-069"
       ],
       "words": [
         [
-          "s01e25-2-069:0-2"
+          "s01e25-2-068:0-2"
         ],
         [
-          "s01e25-2-070:0-2"
+          "s01e25-2-069:0-2"
         ]
       ],
       "request": {
@@ -3780,7 +3765,7 @@
               },
               {
                 "type": "text",
-                "text": "E il verbal?",
+                "text": "E il verbale?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3821,18 +3806,18 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s01e25-2-070",
         "s01e25-2-071",
-        "s01e25-2-072",
-        "s01e25-2-073"
+        "s01e25-2-072"
       ],
       "words": [
         [
-          "s01e25-2-071:0-3"
+          "s01e25-2-070:0-3"
         ],
         [
-          "s01e25-2-071:4-5",
-          "s01e25-2-072:0-4",
-          "s01e25-2-073:0-7"
+          "s01e25-2-070:4-5",
+          "s01e25-2-071:0-4",
+          "s01e25-2-072:0-7"
         ]
       ],
       "request": {
@@ -3895,15 +3880,15 @@
         "tommaso": "tommaso"
       },
       "segment_ids": [
-        "s01e25-2-074",
-        "s01e25-2-075"
+        "s01e25-2-073",
+        "s01e25-2-074"
       ],
       "words": [
         [
-          "s01e25-2-074:0-5"
+          "s01e25-2-073:0-5"
         ],
         [
-          "s01e25-2-075:0-1"
+          "s01e25-2-074:0-1"
         ]
       ],
       "request": {
@@ -3986,8 +3971,8 @@
         ],
         [
           "s01e25-3-005:6-7",
-          "s01e25-3-006:0-6",
-          "s01e25-3-007:0-4"
+          "s01e25-3-006:0-8",
+          "s01e25-3-007:0-5"
         ]
       ],
       "request": {
@@ -4020,7 +4005,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Kevin. Chiara è al tavolo con il tiramisù. Il dolce è di Anna.",
+                "text": "dice Kevin. Chiara è al tavolo con la ricetta di Anna. La carta è vecchia e gialla.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5111,7 +5096,7 @@
               },
               {
                 "type": "text",
-                "text": "Chiara guarda il tiramisù.",
+                "text": "Chiara guarda la ricetta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6256,7 +6241,7 @@
               },
               {
                 "type": "text",
-                "text": "In cucina c'è silenzio. Chiara è emozionata. Poi prende il dolce e chiude la porta.",
+                "text": "In cucina c'è silenzio. Chiara è emozionata. Poi prende la ricetta e chiude la porta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7597,7 +7582,7 @@
           "s01e25-4-062:0-1"
         ],
         [
-          "s01e25-4-063:0-1"
+          "s01e25-4-063:0-2"
         ],
         [
           "s01e25-4-064:0-5",
@@ -7659,7 +7644,7 @@
               },
               {
                 "type": "text",
-                "text": "Quattordici ospiti!",
+                "text": "Già quattordici ospiti!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8185,7 +8170,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La tavola di Franco è lunga e piena. Ci sono quattordici persone a tavola. Ci sono fiori, bicchieri e due bottiglie di vino. Lucia porta la pasta. Franco taglia il pane. Kevin cerca qualcosa. Kevin cerca nella camicia. Kevin cerca nelle tasche.",
+                "text": "La tavola di Franco è lunga e piena. Ci sono ventidue persone a tavola. Ci sono fiori, bicchieri e due bottiglie di vino. Lucia porta la pasta. Franco taglia il pane. Kevin cerca qualcosa. Kevin cerca nella camicia. Kevin cerca nelle tasche.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8370,7 +8355,7 @@
               },
               {
                 "type": "text",
-                "text": "L'ho… no, non dico così.",
+                "text": "Io… no. Non dico così.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12127,10 +12112,10 @@
       ],
       "words": [
         [
-          "s01e25-6-050:0-5"
+          "s01e25-6-050:0-4"
         ],
         [
-          "s01e25-6-050:6-7",
+          "s01e25-6-050:5-6",
           "s01e25-6-051:0-3"
         ]
       ],
@@ -12142,7 +12127,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ma quel vino è vecchio.issimo?",
+                "text": "Ma quel vino è vecchissimo?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13628,9 +13613,7 @@
         "s01e25-7-028",
         "s01e25-7-029",
         "s01e25-7-030",
-        "s01e25-7-031",
-        "s01e25-7-032",
-        "s01e25-7-033"
+        "s01e25-7-031"
       ],
       "words": [
         [
@@ -13650,14 +13633,8 @@
           "s01e25-7-027:4-5",
           "s01e25-7-028:0-4",
           "s01e25-7-029:0-5",
-          "s01e25-7-030:0-3",
+          "s01e25-7-030:0-6",
           "s01e25-7-031:0-4"
-        ],
-        [
-          "s01e25-7-032:0-0"
-        ],
-        [
-          "s01e25-7-033:0-3"
         ]
       ],
       "request": {
@@ -13701,29 +13678,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Kevin. Kevin prende il quaderno giallo. Kevin dimentica la giacca sulla sedia. Sul quaderno scrive Kevin. Sotto scrive: grazie di cuore.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin!!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, happy"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Un pensiero per sempre.",
+                "text": "dice Kevin. Kevin prende il quaderno giallo. Kevin dimentica la giacca sulla sedia. Sul quaderno scrive una sola parola: Kevin. Sotto scrive: grazie di cuore.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13746,6 +13701,105 @@
               {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 157,
+      "scene": 7,
+      "speakers": {
+        "franco": "franco",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s01e25-7-032",
+        "s01e25-7-033"
+      ],
+      "words": [
+        [
+          "s01e25-7-032:0-0"
+        ],
+        [
+          "s01e25-7-032:1-4"
+        ],
+        [
+          "s01e25-7-032:5-6"
+        ],
+        [
+          "s01e25-7-033:0-4"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kevin!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "chiama Franco dalla strada.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "La giacca!",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Kevin ride e corre fuori.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "franco",
+                "voice": "Algenib"
               },
               {
                 "speaker": "narrator",

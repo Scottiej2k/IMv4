@@ -144,7 +144,7 @@
       "lemma": "ridere",
       "pos": "verb",
       "en": "to laugh",
-      "example": "s01e25-2-061",
+      "example": "s01e25-2-060",
       "target": {
         "it": "ridono",
         "en": "laugh"
@@ -281,7 +281,7 @@
       "lemma": "in piedi",
       "pos": "expression",
       "en": "standing, on one's feet",
-      "example": "s01e25-2-047",
+      "example": "s01e25-2-065",
       "target": {
         "it": "in piedi",
         "en": "standing"
@@ -2558,12 +2558,12 @@
             },
             {
               "id": "s01e25-1-035",
-              "it": "«Franco, sei un buon nonno!» dice Leo.",
-              "en": "“Franco, you're a good grandpa!” says Leo.",
+              "it": "«Nonno, sei un buon nonno!» dice Leo.",
+              "en": "“Grandpa, you're a good grandpa!” says Leo.",
               "voice": [
                 [
                   "leo",
-                  "Franco, sei un buon nonno!",
+                  "Nonno, sei un buon nonno!",
                   "proud"
                 ],
                 [
@@ -2579,7 +2579,7 @@
                   ""
                 ],
                 [
-                  "Franco",
+                  "Nonno",
                   0,
                   ""
                 ],
@@ -3171,12 +3171,12 @@
           "segments": [
             {
               "id": "s01e25-1-043",
-              "it": "«Tante. Quante candele conta Leo?»",
-              "en": "“A lot. How many candles does Leo count?”",
+              "it": "«Tante. Conta tu, Leo.»",
+              "en": "“A lot. You count, Leo.”",
               "voice": [
                 [
                   "franco",
-                  "Tante. Quante candele conta Leo?",
+                  "Tante. Conta tu, Leo.",
                   ""
                 ]
               ],
@@ -3197,7 +3197,7 @@
                   ""
                 ],
                 [
-                  "Quante",
+                  "Conta",
                   1,
                   ""
                 ],
@@ -3207,32 +3207,22 @@
                   ""
                 ],
                 [
-                  "candele",
+                  "tu",
                   2,
                   ""
                 ],
                 [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "conta",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
                   "Leo",
-                  4,
+                  3,
                   ""
                 ],
                 [
-                  "?»",
+                  ".»",
                   -1,
                   ""
                 ]
@@ -5308,12 +5298,12 @@
             },
             {
               "id": "s01e25-1-073",
-              "it": "«E c'è Kevin.»",
-              "en": "“And there's Kevin.”",
+              "it": "«E c'è l'americano.»",
+              "en": "“And the American is there.”",
               "voice": [
                 [
                   "franco",
-                  "E c'è Kevin.",
+                  "E c'è l'americano.",
                   "low"
                 ]
               ],
@@ -5344,7 +5334,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "l'americano",
                   2,
                   ""
                 ],
@@ -8547,12 +8537,12 @@
             },
             {
               "id": "s01e25-2-046",
-              "it": "«Su Via dei Tigli siamo tutti **in piedi**, tutti insieme!»",
-              "en": "“On Via dei Tigli we are all **on our feet**, all together!”",
+              "it": "«Via dei Tigli è una grande famiglia!»",
+              "en": "“Via dei Tigli is one big family!”",
               "voice": [
                 [
                   "roberto",
-                  "Su Via dei Tigli siamo tutti **in piedi**, tutti insieme!",
+                  "Via dei Tigli è una grande famiglia!",
                   "pompous"
                 ]
               ],
@@ -8563,18 +8553,8 @@
                   ""
                 ],
                 [
-                  "Su",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Via",
-                  1,
+                  0,
                   ""
                 ],
                 [
@@ -8584,7 +8564,7 @@
                 ],
                 [
                   "dei",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -8594,6 +8574,16 @@
                 ],
                 [
                   "Tigli",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "è",
                   3,
                   ""
                 ],
@@ -8603,7 +8593,7 @@
                   ""
                 ],
                 [
-                  "siamo",
+                  "una",
                   4,
                   ""
                 ],
@@ -8613,7 +8603,7 @@
                   ""
                 ],
                 [
-                  "tutti",
+                  "grande",
                   5,
                   ""
                 ],
@@ -8623,38 +8613,8 @@
                   ""
                 ],
                 [
-                  "in",
+                  "famiglia",
                   6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "piedi",
-                  7,
-                  "b"
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutti",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "insieme",
-                  9,
                   ""
                 ],
                 [
@@ -8662,81 +8622,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-in-piedi"
-              ]
-            },
-            {
-              "id": "s01e25-2-047",
-              "it": "«Tutti **in piedi** a tavola!»",
-              "en": "“Everybody **standing** at the table!”",
-              "voice": [
-                [
-                  "roberto",
-                  "Tutti **in piedi** a tavola!",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tutti",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "in",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "piedi",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tavola",
-                  4,
-                  ""
-                ],
-                [
-                  "!»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-in-piedi"
               ]
             }
           ]
@@ -8744,7 +8629,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-048",
+              "id": "s01e25-2-047",
               "it": "Emma guarda Tommaso.",
               "en": "Emma looks at Tommaso.",
               "voice": [
@@ -8788,7 +8673,7 @@
               ]
             },
             {
-              "id": "s01e25-2-049",
+              "id": "s01e25-2-048",
               "it": "Tommaso guarda il cielo.",
               "en": "Tommaso looks at the sky.",
               "voice": [
@@ -8842,7 +8727,7 @@
               ]
             },
             {
-              "id": "s01e25-2-050",
+              "id": "s01e25-2-049",
               "it": "_Come una festa ufficiale. Che ansia._",
               "en": "_Like an official party. So stressful._",
               "voice": [
@@ -8920,7 +8805,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-051",
+              "id": "s01e25-2-050",
               "it": "«È un invito ufficiale?» chiede Roberto.",
               "en": "“Is it an official invitation?” asks Roberto.",
               "voice": [
@@ -9008,7 +8893,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-052",
+              "id": "s01e25-2-051",
               "it": "«Sì, signor Colombo.»",
               "en": "“Yes, Mr. Colombo.”",
               "voice": [
@@ -9061,13 +8946,13 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-053",
-              "it": "«C'è un **verbal**?»",
+              "id": "s01e25-2-052",
+              "it": "«C'è un **verbale**?»",
               "en": "“Is there a **record**?”",
               "voice": [
                 [
                   "roberto",
-                  "C'è un **verbal**?",
+                  "C'è un **verbale**?",
                   ""
                 ]
               ],
@@ -9098,7 +8983,7 @@
                   ""
                 ],
                 [
-                  "verbal",
+                  "verbale",
                   2,
                   "b"
                 ],
@@ -9117,7 +9002,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-054",
+              "id": "s01e25-2-053",
               "it": "«Un che?»",
               "en": "“A what?”",
               "voice": [
@@ -9160,7 +9045,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-055",
+              "id": "s01e25-2-054",
               "it": "«Papà.» dice Tommaso.",
               "en": "“Dad,” says Tommaso.",
               "voice": [
@@ -9214,7 +9099,7 @@
               ]
             },
             {
-              "id": "s01e25-2-056",
+              "id": "s01e25-2-055",
               "it": "«Tu non inviti. Tu avvisi.»",
               "en": "“You don't invite. You announce.”",
               "voice": [
@@ -9287,7 +9172,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-057",
+              "id": "s01e25-2-056",
               "it": "Roberto è **emozionato** e non ascolta.",
               "en": "Roberto is **excited** and doesn't listen.",
               "voice": [
@@ -9364,7 +9249,7 @@
               ]
             },
             {
-              "id": "s01e25-2-058",
+              "id": "s01e25-2-057",
               "it": "«Devo cambiare la **camicia**.» dice Roberto.",
               "en": "“I have to change my **shirt**,” says Roberto.",
               "voice": [
@@ -9451,7 +9336,7 @@
               ]
             },
             {
-              "id": "s01e25-2-059",
+              "id": "s01e25-2-058",
               "it": "«Questa è per il comitato.»",
               "en": "“This one is for the committee.”",
               "voice": [
@@ -9524,7 +9409,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-060",
+              "id": "s01e25-2-059",
               "it": "Roberto va verso casa.",
               "en": "Roberto goes toward his house.",
               "voice": [
@@ -9578,7 +9463,7 @@
               ]
             },
             {
-              "id": "s01e25-2-061",
+              "id": "s01e25-2-060",
               "it": "Emma e Tommaso **ridono**.",
               "en": "Emma and Tommaso **laugh**.",
               "voice": [
@@ -9635,7 +9520,7 @@
               ]
             },
             {
-              "id": "s01e25-2-062",
+              "id": "s01e25-2-061",
               "it": "«Tu non inviti, tu avvisi!» dice Emma.",
               "en": "“You don't invite, you announce!” says Emma.",
               "voice": [
@@ -9733,7 +9618,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-063",
+              "id": "s01e25-2-062",
               "it": "«È mio papà.» dice Tommaso.",
               "en": "“He's my dad,” says Tommaso.",
               "voice": [
@@ -9811,7 +9696,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-064",
+              "id": "s01e25-2-063",
               "it": "«Lo so.»",
               "en": "“I know.”",
               "voice": [
@@ -9854,7 +9739,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-065",
+              "id": "s01e25-2-064",
               "it": "Poi Roberto **torna**.",
               "en": "Then Roberto **comes back**.",
               "voice": [
@@ -9901,7 +9786,7 @@
               ]
             },
             {
-              "id": "s01e25-2-066",
+              "id": "s01e25-2-065",
               "it": "È **in piedi** sul marciapiede.",
               "en": "He is **standing** on the sidewalk.",
               "voice": [
@@ -9968,7 +9853,7 @@
               ]
             },
             {
-              "id": "s01e25-2-067",
+              "id": "s01e25-2-066",
               "it": "Adesso ha una **camicia** azzurra.",
               "en": "Now he has a blue **shirt**.",
               "voice": [
@@ -10035,7 +9920,7 @@
               ]
             },
             {
-              "id": "s01e25-2-068",
+              "id": "s01e25-2-067",
               "it": "«A che ora è il pranzo?» chiede Roberto.",
               "en": "“What time is the lunch?” asks Roberto.",
               "voice": [
@@ -10143,7 +10028,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-069",
+              "id": "s01e25-2-068",
               "it": "«Dodici e mezza.»",
               "en": "“Twelve thirty.”",
               "voice": [
@@ -10196,13 +10081,13 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-070",
-              "it": "«E il **verbal**?»",
+              "id": "s01e25-2-069",
+              "it": "«E il **verbale**?»",
               "en": "“And the **record**?”",
               "voice": [
                 [
                   "roberto",
-                  "E il **verbal**?",
+                  "E il **verbale**?",
                   ""
                 ]
               ],
@@ -10233,7 +10118,7 @@
                   ""
                 ],
                 [
-                  "verbal",
+                  "verbale",
                   2,
                   "b"
                 ],
@@ -10252,7 +10137,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-071",
+              "id": "s01e25-2-070",
               "it": "«Dodici e mezza, papà.» dice Tommaso.",
               "en": "“Twelve thirty, Dad,” says Tommaso.",
               "voice": [
@@ -10336,7 +10221,7 @@
               ]
             },
             {
-              "id": "s01e25-2-072",
+              "id": "s01e25-2-071",
               "it": "Roberto **annuisce** e va via.",
               "en": "Roberto nods and goes away.",
               "voice": [
@@ -10407,7 +10292,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-073",
+              "id": "s01e25-2-072",
               "it": "Dietro la siepe, Emma e Tommaso **ridono** piano.",
               "en": "Behind the hedge, Emma and Tommaso **laugh** quietly.",
               "voice": [
@@ -10504,7 +10389,7 @@
               ]
             },
             {
-              "id": "s01e25-2-074",
+              "id": "s01e25-2-073",
               "it": "«Ci vediamo alle dodici e mezza.»",
               "en": "“See you at twelve thirty.”",
               "voice": [
@@ -10587,7 +10472,7 @@
         {
           "segments": [
             {
-              "id": "s01e25-2-075",
+              "id": "s01e25-2-074",
               "it": "«Ci vediamo.»",
               "en": "“See you.”",
               "voice": [
@@ -11071,12 +10956,12 @@
           "segments": [
             {
               "id": "s01e25-3-006",
-              "it": "Chiara è al tavolo con il tiramisù.",
-              "en": "Chiara is at the table with the tiramisù.",
+              "it": "Chiara è al tavolo con la ricetta di Anna.",
+              "en": "Chiara is at the table with Anna's recipe.",
               "voice": [
                 [
                   "narrator",
-                  "Chiara è al tavolo con il tiramisù.",
+                  "Chiara è al tavolo con la ricetta di Anna.",
                   ""
                 ]
               ],
@@ -11132,7 +11017,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "la",
                   5,
                   ""
                 ],
@@ -11142,8 +11027,28 @@
                   ""
                 ],
                 [
-                  "tiramisù",
+                  "ricetta",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Anna",
+                  8,
                   ""
                 ],
                 [
@@ -11155,18 +11060,18 @@
             },
             {
               "id": "s01e25-3-007",
-              "it": "Il dolce è di Anna.",
-              "en": "The dessert is Anna's.",
+              "it": "La carta è vecchia e gialla.",
+              "en": "The card is old and yellow.",
               "voice": [
                 [
                   "narrator",
-                  "Il dolce è di Anna.",
+                  "La carta è vecchia e gialla.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Il",
+                  "La",
                   0,
                   ""
                 ],
@@ -11176,7 +11081,7 @@
                   ""
                 ],
                 [
-                  "dolce",
+                  "carta",
                   1,
                   ""
                 ],
@@ -11196,7 +11101,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "vecchia",
                   3,
                   ""
                 ],
@@ -11206,8 +11111,18 @@
                   ""
                 ],
                 [
-                  "Anna",
+                  "e",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "gialla",
+                  5,
                   ""
                 ],
                 [
@@ -13244,12 +13159,12 @@
           "segments": [
             {
               "id": "s01e25-3-041",
-              "it": "Chiara guarda il tiramisù.",
-              "en": "Chiara looks at the tiramisù.",
+              "it": "Chiara guarda la ricetta.",
+              "en": "Chiara looks at the recipe.",
               "voice": [
                 [
                   "narrator",
-                  "Chiara guarda il tiramisù.",
+                  "Chiara guarda la ricetta.",
                   ""
                 ]
               ],
@@ -13275,7 +13190,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "la",
                   2,
                   ""
                 ],
@@ -13285,7 +13200,7 @@
                   ""
                 ],
                 [
-                  "tiramisù",
+                  "ricetta",
                   3,
                   ""
                 ],
@@ -16389,12 +16304,12 @@
             },
             {
               "id": "s01e25-3-090",
-              "it": "Poi prende il dolce e chiude la porta.",
-              "en": "Then she takes the dessert and closes the door.",
+              "it": "Poi prende la ricetta e chiude la porta.",
+              "en": "Then she takes the recipe and closes the door.",
               "voice": [
                 [
                   "narrator",
-                  "Poi prende il dolce e chiude la porta.",
+                  "Poi prende la ricetta e chiude la porta.",
                   ""
                 ]
               ],
@@ -16420,7 +16335,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "la",
                   2,
                   ""
                 ],
@@ -16430,7 +16345,7 @@
                   ""
                 ],
                 [
-                  "dolce",
+                  "ricetta",
                   3,
                   ""
                 ],
@@ -20572,12 +20487,12 @@
             },
             {
               "id": "s01e25-4-063",
-              "it": "«Quattordici ospiti!»",
-              "en": "“Fourteen guests!”",
+              "it": "«Già quattordici ospiti!»",
+              "en": "“Fourteen guests already!”",
               "voice": [
                 [
                   "leo",
-                  "Quattordici ospiti!",
+                  "Già quattordici ospiti!",
                   ""
                 ]
               ],
@@ -20588,7 +20503,7 @@
                   ""
                 ],
                 [
-                  "Quattordici",
+                  "Già",
                   0,
                   ""
                 ],
@@ -20598,8 +20513,18 @@
                   ""
                 ],
                 [
-                  "ospiti",
+                  "quattordici",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ospiti",
+                  2,
                   ""
                 ],
                 [
@@ -22602,12 +22527,12 @@
             },
             {
               "id": "s01e25-5-002",
-              "it": "Ci sono quattordici persone a tavola.",
-              "en": "There are fourteen people at the table.",
+              "it": "Ci sono ventidue persone a tavola.",
+              "en": "There are twenty-two people at the table.",
               "voice": [
                 [
                   "narrator",
-                  "Ci sono quattordici persone a tavola.",
+                  "Ci sono ventidue persone a tavola.",
                   ""
                 ]
               ],
@@ -22633,7 +22558,7 @@
                   ""
                 ],
                 [
-                  "quattordici",
+                  "ventidue",
                   2,
                   ""
                 ],
@@ -23431,12 +23356,12 @@
             },
             {
               "id": "s01e25-5-015",
-              "it": "«L'ho… no, non dico così.» dice Kevin.",
-              "en": "“I have… no, I don't say that,” says Kevin.",
+              "it": "«Io… no. Non dico così.» dice Kevin.",
+              "en": "“I… no. I don't say it like that,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "L'ho… no, non dico così.",
+                  "Io… no. Non dico così.",
                   ""
                 ],
                 [
@@ -23452,7 +23377,7 @@
                   ""
                 ],
                 [
-                  "L'ho",
+                  "Io",
                   0,
                   ""
                 ],
@@ -23467,12 +23392,12 @@
                   ""
                 ],
                 [
-                  ", ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "non",
+                  "Non",
                   2,
                   ""
                 ],
@@ -30701,7 +30626,9 @@
         "emma",
         "marina",
         "ben",
-        "matteo"
+        "matteo",
+        "nadia",
+        "tommaso"
       ],
       "paragraphs": [
         {
@@ -34207,12 +34134,12 @@
             },
             {
               "id": "s01e25-6-050",
-              "it": "«Ma quel vino è vecchio.**issimo**?» chiede Matteo.",
+              "it": "«Ma quel vino è vecchissimo?» chiede Matteo.",
               "en": "“But is that wine very old?” asks Matteo.",
               "voice": [
                 [
                   "matteo",
-                  "Ma quel vino è vecchio.**issimo**?",
+                  "Ma quel vino è vecchissimo?",
                   ""
                 ],
                 [
@@ -34268,19 +34195,9 @@
                   ""
                 ],
                 [
-                  "vecchio",
+                  "vecchissimo",
                   4,
                   ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ],
-                [
-                  "issimo",
-                  5,
-                  "b"
                 ],
                 [
                   "?» ",
@@ -34289,7 +34206,7 @@
                 ],
                 [
                   "chiede",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -34299,7 +34216,7 @@
                 ],
                 [
                   "Matteo",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -34307,9 +34224,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-a1"
               ]
             },
             {
@@ -38345,12 +38259,12 @@
             },
             {
               "id": "s01e25-7-030",
-              "it": "Sul quaderno scrive **Kevin**.",
-              "en": "In the notebook he writes **Kevin**.",
+              "it": "Sul quaderno scrive una sola parola: **Kevin**.",
+              "en": "In the notebook he writes just one word: **Kevin**.",
               "voice": [
                 [
                   "narrator",
-                  "Sul quaderno scrive **Kevin**.",
+                  "Sul quaderno scrive una sola parola: **Kevin**.",
                   ""
                 ]
               ],
@@ -38386,8 +38300,38 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "una",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sola",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "parola",
+                  5,
+                  ""
+                ],
+                [
+                  ": ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  6,
                   "b"
                 ],
                 [
@@ -38469,13 +38413,23 @@
             },
             {
               "id": "s01e25-7-032",
-              "it": "«Kevin!!»",
-              "en": "“Kevin!!”",
+              "it": "«Kevin!» chiama Franco dalla strada. «La giacca!»",
+              "en": "“Kevin!” Franco calls from the street. “The jacket!”",
               "voice": [
                 [
-                  "ben",
-                  "Kevin!!",
-                  "happy"
+                  "franco",
+                  "Kevin!",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "chiama Franco dalla strada.",
+                  ""
+                ],
+                [
+                  "franco",
+                  "La giacca!",
+                  ""
                 ]
               ],
               "tokens": [
@@ -38490,38 +38444,14 @@
                   ""
                 ],
                 [
-                  "!!»",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e25-7-033",
-              "it": "Un **pensiero** per sempre.",
-              "en": "A **thought** forever.",
-              "voice": [
-                [
-                  "narrator",
-                  "Un **pensiero** per sempre.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Un",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
+                  "!» ",
                   -1,
                   ""
                 ],
                 [
-                  "pensiero",
+                  "chiama",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -38529,7 +38459,7 @@
                   ""
                 ],
                 [
-                  "per",
+                  "Franco",
                   2,
                   ""
                 ],
@@ -38539,8 +38469,102 @@
                   ""
                 ],
                 [
-                  "sempre",
+                  "dalla",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "strada",
+                  4,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "La",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "giacca",
+                  6,
+                  ""
+                ],
+                [
+                  "!»",
+                  -1,
+                  ""
+                ]
+              ]
+            },
+            {
+              "id": "s01e25-7-033",
+              "it": "Kevin ride e corre fuori.",
+              "en": "Kevin laughs and runs outside.",
+              "voice": [
+                [
+                  "narrator",
+                  "Kevin ride e corre fuori.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Kevin",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ride",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "corre",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fuori",
+                  4,
                   ""
                 ],
                 [
@@ -38548,9 +38572,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-pensiero"
               ]
             }
           ]

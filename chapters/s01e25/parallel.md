@@ -42,7 +42,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo vuole provare. | Leo wants to try. |
 | Leo sale su una sedia. | Leo climbs onto a chair. |
 | Adesso Leo è **in piedi** sulla sedia. | Now Leo is **standing** on the chair. |
-| «Franco, sei un buon nonno!» dice Leo. | “Franco, you're a good grandpa!” says Leo. |
+| «Nonno, sei un buon nonno!» dice Leo. | “Grandpa, you're a good grandpa!” says Leo. |
 | «**Grazie di cuore**, Leo.» dice Franco. | “**Thanks from the heart**, Leo,” says Franco. |
 | Franco è **felice**. | Franco is **happy**. |
 | «Ma la sedia non è un posto per i piedi.» | “But the chair is not a place for feet.” |
@@ -50,7 +50,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E le candele?» chiede Leo. | “And the candles?” asks Leo. |
 | «Le candele sono sulla torta.» | “The candles are on the cake.” |
 | «Quante candele?» | “How many candles?” |
-| «Tante. Quante candele conta Leo?» | “A lot. How many candles does Leo count?” |
+| «Tante. Conta tu, Leo.» | “A lot. You count, Leo.” |
 | «Settantadue! E il **desiderio**?» | “Seventy-two! And the **wish**?” |
 | «Che **desiderio**?» | “What **wish**?” |
 | «Quando c'è la torta, c'è il **desiderio**.» dice Leo. | “When there's a cake, there's a **wish**,” says Leo. |
@@ -80,7 +80,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Auguri**, Anna.» | “**Best wishes**, Anna.” |
 | La **voce** di Franco è bassa. | Franco's **voice** is low. |
 | «Oggi ci sono tutti a tavola.» | “Today everyone is at the table.” |
-| «E c'è Kevin.» | “And there's Kevin.” |
+| «E c'è l'americano.» | “And the American is there.” |
 | In cucina c'è **silenzio**. | In the kitchen there's **silence**. |
 | Franco prende la sua giacca buona. | Franco takes out his good jacket. |
 | La giacca è vecchia ma bella. | The jacket is old but nice. |
@@ -136,14 +136,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Roberto alza la **voce**. | Roberto raises his **voice**. |
 | «Allora vengo anch'io.» | “Then I'm coming too.” |
 | «Con Marina.» | “With Marina.” |
-| «Su Via dei Tigli siamo tutti **in piedi**, tutti insieme!» | “On Via dei Tigli we are all **on our feet**, all together!” |
-| «Tutti **in piedi** a tavola!» | “Everybody **standing** at the table!” |
+| «Via dei Tigli è una grande famiglia!» | “Via dei Tigli is one big family!” |
 | Emma guarda Tommaso. | Emma looks at Tommaso. |
 | Tommaso guarda il cielo. | Tommaso looks at the sky. |
 | _Come una festa ufficiale. Che ansia._ | _Like an official party. So stressful._ |
 | «È un invito ufficiale?» chiede Roberto. | “Is it an official invitation?” asks Roberto. |
 | «Sì, signor Colombo.» | “Yes, Mr. Colombo.” |
-| «C'è un **verbal**?» | “Is there a **record**?” |
+| «C'è un **verbale**?» | “Is there a **record**?” |
 | «Un che?» | “A what?” |
 | «Papà.» dice Tommaso. | “Dad,” says Tommaso. |
 | «Tu non inviti. Tu avvisi.» | “You don't invite. You announce.” |
@@ -160,7 +159,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Adesso ha una **camicia** azzurra. | Now he has a blue **shirt**. |
 | «A che ora è il pranzo?» chiede Roberto. | “What time is the lunch?” asks Roberto. |
 | «Dodici e mezza.» | “Twelve thirty.” |
-| «E il **verbal**?» | “And the **record**?” |
+| «E il **verbale**?» | “And the **record**?” |
 | «Dodici e mezza, papà.» dice Tommaso. | “Twelve thirty, Dad,” says Tommaso. |
 | Roberto **annuisce** e va via. | Roberto nods and goes away. |
 | Dietro la siepe, Emma e Tommaso **ridono** piano. | Behind the hedge, Emma and Tommaso **laugh** quietly. |
@@ -176,8 +175,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sul cartoncino c'è il suo brindisi. | On the card there's his toast. |
 | Kevin legge ad alta **voce**. | Kevin reads out loud. |
 | «Franco, tu sei un bravo nonno…» dice Kevin. | “Franco, you're a good grandpa…” says Kevin. |
-| Chiara è al tavolo con il tiramisù. | Chiara is at the table with the tiramisù. |
-| Il dolce è di Anna. | The dessert is Anna's. |
+| Chiara è al tavolo con la ricetta di Anna. | Chiara is at the table with Anna's recipe. |
+| La carta è vecchia e gialla. | The card is old and yellow. |
 | «Kevin, non leggere.» dice Chiara. | “Kevin, don't read,” says Chiara. |
 | «Parla e basta.» | “Just talk.” |
 | «Ma io **dimentico** tutto!» dice Kevin. | “But I **forget** everything!” says Kevin. |
@@ -211,7 +210,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nella **camicia**?» | “In my **shirt**?” |
 | Kevin è **contento**. | Kevin is **glad**. |
 | «Perfetto!» | “Perfect!” |
-| Chiara guarda il tiramisù. | Chiara looks at the tiramisù. |
+| Chiara guarda la ricetta. | Chiara looks at the recipe. |
 | «Questo dolce è un **pensiero** di Anna.» | “This dessert is a **thought** from Anna.” |
 | «Un **pensiero**?» chiede Kevin. | “A **thought**?” asks Kevin. |
 | «Un **pensiero** è un piccolo regalo.» | “A **thought** is a small gift.” |
@@ -260,7 +259,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _La **voce** di mia madre la **ricordo** bene._ | _My mother's **voice** I **remember** well._ |
 | In cucina c'è **silenzio**. | In the kitchen there's **silence**. |
 | Chiara è **emozionata**. | Chiara is **moved**. |
-| Poi prende il dolce e chiude la porta. | Then she takes the dessert and closes the door. |
+| Poi prende la ricetta e chiude la porta. | Then she takes the recipe and closes the door. |
 
 ## 4. Casa di Franco, Via dei Tigli 9 · domenica, ore dodici e mezza
 
@@ -328,7 +327,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Cinque, sei, sette, otto…» | “Five, six, seven, eight…” |
 | «Nove, dieci, undici, dodici…» | “Nine, ten, eleven, twelve…” |
 | «Tredici… quattordici!» | “Thirteen… fourteen!” |
-| «Quattordici ospiti!» | “Fourteen guests!” |
+| «Già quattordici ospiti!» | “Fourteen guests already!” |
 | Emma lo guarda male dal giardino. | Emma gives him a look from the garden. |
 | Kevin tiene una **bottiglia**. | Kevin holds a **bottle**. |
 | Kevin **versa** il vino. | Kevin **pours** the wine. |
@@ -363,7 +362,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | La tavola di Franco è lunga e piena. | Franco's table is long and full. |
-| Ci sono quattordici persone a tavola. | There are fourteen people at the table. |
+| Ci sono ventidue persone a tavola. | There are twenty-two people at the table. |
 | Ci sono fiori, bicchieri e due **bottiglie** di vino. | There are flowers, glasses and two **bottles** of wine. |
 | Lucia porta la pasta. | Lucia brings the pasta. |
 | Franco taglia il pane. | Franco cuts the bread. |
@@ -376,7 +375,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin guarda sotto il piatto. | Kevin looks under his plate. |
 | Kevin guarda accanto al bicchiere. | Kevin looks next to his glass. |
 | Niente cartoncino. | No card. |
-| «L'ho… no, non dico così.» dice Kevin. | “I have… no, I don't say that,” says Kevin. |
+| «Io… no. Non dico così.» dice Kevin. | “I… no. I don't say it like that,” says Kevin. |
 | «Kevin, **dimentichi** sempre tutto.» dice Chiara. | “Kevin, you always **forget** everything,” says Chiara. |
 | «Non **dimentico**! Solo… non trovo.» | “I don't **forget**! I just… can't find it.” |
 | Leo vuole aiutare. | Leo wants to help. |
@@ -537,7 +536,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Nessuno **ride**. | Nobody **laughs**. |
 | Anche la **voce** di Marina è bassa. | Marina's **voice** is low too. |
 | Poi Matteo alza un dito. | Then Matteo raises a finger. |
-| «Ma quel vino è vecchio.**issimo**?» chiede Matteo. | “But is that wine very old?” asks Matteo. |
+| «Ma quel vino è vecchissimo?» chiede Matteo. | “But is that wine very old?” asks Matteo. |
 | Marina lo guarda male. | Marina gives him a look. |
 | «Matteo!» | “Matteo!” |
 | Tutti **ridono**. | Everyone **laughs**. |
@@ -600,7 +599,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Grazie di cuore**, Franco.» dice Kevin. | “**Thanks from the heart**, Franco,” says Kevin. |
 | Kevin prende il quaderno giallo. | Kevin takes the yellow notebook. |
 | Kevin **dimentica** la giacca sulla sedia. | Kevin **forgets** his jacket on the chair. |
-| Sul quaderno scrive **Kevin**. | In the notebook he writes **Kevin**. |
+| Sul quaderno scrive una sola parola: **Kevin**. | In the notebook he writes just one word: **Kevin**. |
 | Sotto scrive: **grazie di cuore**. | Underneath he writes: **grazie di cuore**. |
-| «Kevin!!» | “Kevin!!” |
-| Un **pensiero** per sempre. | A **thought** forever. |
+| «Kevin!» chiama Franco dalla strada. «La giacca!» | “Kevin!” Franco calls from the street. “The jacket!” |
+| Kevin ride e corre fuori. | Kevin laughs and runs outside. |
