@@ -180,11 +180,11 @@ Kevin guarda la tazzina vuota. «Nadia, come si dice... quando una cosa non c'è
 
 «Poi **il ritorno** a casa alle sei. Il mio **ufficio** al quarto piano»
 
-«E che cosa facevi in ufficio?»
+«Che lavoro hai fatto in ufficio?»
 
 «Marketing. Dodici anni. Il lunedì le riunioni, il venerdì i numeri»
 
-«E ti piaceva?» chiede.
+«E ti è piaciuto?» chiede.
 
 «Sì. **Mi è piaciuto** molto. Un'altra parola... no, sorry» dice Kevin, e si ferma.
 
@@ -402,7 +402,7 @@ Emma **ride**, piano, con il telefono ancora in mano. «Bianca, non **piango**. 
 
 «Come scusa?» chiede Bianca, con la bocca aperta.
 
-«In settembre **mi mancava** tutto» dice, e subito si corregge: «In settembre **mi è mancato** tutto» «La scuola, le amiche, il prato, la macchina di papà. Tutto»
+«In settembre **mi è mancato** tutto» dice. «La scuola, le amiche, il prato, la macchina di papà. Tutto»
 
 «E adesso?» chiede.
 
@@ -436,11 +436,11 @@ Tommaso, nel corridoio, si sposta un passo verso di loro. «Scusa, Emma» dice.
 
 «Dimmi»
 
-«Anche io ho lasciato una casa. Tre anni fa, con mia madre»
+«Anche io lascio una casa ogni settembre. Quella di mio nonno»
 
 «E ti **manca**?» chiede.
 
-«All'inizio sì. **Mi mancava** la **voce** di mia nonna. Ma poi...» dice, e si ferma.
+«Sì. **Mi è mancata** la **voce** di mia nonna. Ma poi...» dice, e si ferma.
 
 «Ma poi?» chiede.
 
@@ -496,7 +496,7 @@ Kevin si siede e guarda le fotografie. «Chi è?» chiede, indicando la prima **
 
 «Ha una bella **voce**, Gino?» chiede Kevin, piano.
 
-«Una **voce** bassa. La sentivo dalla cucina di casa mia, quando apriva il bar alle sei»
+«Una **voce** bassa. La sento ancora dalla cucina di casa mia, quando il bar apre alle sei»
 
 «E adesso?»
 
@@ -504,11 +504,11 @@ Kevin si siede e guarda le fotografie. «Chi è?» chiede, indicando la prima **
 
 Kevin prende la tazzina, la scalda tra le mani. «Dodici anni di marketing. A Chicago» dice.
 
-«Dodici anni sono tanti. Che lavoro era, esattamente?»
+«Dodici anni sono tanti. Che lavoro è stato, esattamente?»
 
 «Numeri, grafici, riunioni. La mattina alle otto e mezza, la sera alle sei e mezza»
 
-«E le piaceva?» chiede.
+«E le è piaciuto?» chiede.
 
 «**Mi è piaciuto** molto. **Mi è piaciuto** essere utile, essere bravo»
 
@@ -566,7 +566,7 @@ Ornella pensa un momento. Guarda la foto del bar, la foto di Gino. «Gino. Il ba
 
 «Vuota? Perché?» chiede.
 
-«Perché Gino la preparava ogni estate. Con la camicia buona, il rasoio, il biglietto»
+«Perché Gino l'ha preparata ogni estate per dieci anni. Con la camicia buona, il rasoio, il biglietto»
 
 «Per andare dove?»
 
@@ -636,7 +636,7 @@ Kevin si siede, perché Emma non parla così mai. «Dimmi»
 
 «Lo so» dice Kevin.
 
-«In settembre **mi mancava** tutto: la scuola, le **amiche**, il lago» dice, e si corregge: «**Mi è mancato** tutto»
+«In settembre **mi è mancato** tutto: la scuola, le **amiche**, il lago» dice.
 
 «E adesso?» chiede Kevin.
 
@@ -664,7 +664,7 @@ Kevin guarda Chiara. «Anch'io ho una cosa da dirvi» dice.
 
 «Sul **marciapiede**?»
 
-«Dalla finestra. Ha visto che non stavo bene»
+«Dalla finestra. Ha capito che non sto bene»
 
 «E tu le hai parlato?» chiede, sorpresa.
 
@@ -690,11 +690,11 @@ Chiara apre la bocca, poi la chiude, poi la riapre. «Kevin, aspetta. **Mi è pi
 
 «Lavori in casa, il tuo lavoro, i ragazzi... lo so»
 
-«No. Non lo sai. Io non ti ho chiesto niente perché credevo che stessi bene»
+«No. Non lo sai. Io non ti ho chiesto niente perché ho visto un uomo tranquillo»
 
 «E invece?»
 
-«E invece ti **mancava** qualcosa, e non l'ho visto. L'ha visto la signora Ornella»
+«E invece ti **è mancato** qualcosa, e non l'ho visto. L'ha visto la signora Ornella»
 
 «Chiara, non è colpa tua» dice Kevin.
 

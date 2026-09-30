@@ -16543,12 +16543,12 @@
           "segments": [
             {
               "id": "s02e09-2-052",
-              "it": "«E che cosa facevi in ufficio?»",
-              "en": "“And what did you do in the office?”",
+              "it": "«Che lavoro hai fatto in ufficio?»",
+              "en": "“What work did you do in the office?”",
               "voice": [
                 [
                   "nadia",
-                  "E che cosa facevi in ufficio?",
+                  "Che lavoro hai fatto in ufficio?",
                   ""
                 ]
               ],
@@ -16559,7 +16559,7 @@
                   ""
                 ],
                 [
-                  "E",
+                  "Che",
                   0,
                   ""
                 ],
@@ -16569,7 +16569,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "lavoro",
                   1,
                   ""
                 ],
@@ -16579,7 +16579,7 @@
                   ""
                 ],
                 [
-                  "cosa",
+                  "hai",
                   2,
                   ""
                 ],
@@ -16589,7 +16589,7 @@
                   ""
                 ],
                 [
-                  "facevi",
+                  "fatto",
                   3,
                   ""
                 ],
@@ -16759,12 +16759,12 @@
           "segments": [
             {
               "id": "s02e09-2-054",
-              "it": "«E ti piaceva?» chiede.",
+              "it": "«E ti è piaciuto?» chiede.",
               "en": "“And did you like it?”",
               "voice": [
                 [
                   "nadia",
-                  "E ti piaceva?",
+                  "E ti è piaciuto?",
                   ""
                 ],
                 [
@@ -16800,8 +16800,18 @@
                   ""
                 ],
                 [
-                  "piaceva",
+                  "è",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piaciuto",
+                  3,
                   ""
                 ],
                 [
@@ -16811,7 +16821,7 @@
                 ],
                 [
                   "chiede",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -35407,22 +35417,17 @@
           "segments": [
             {
               "id": "s02e09-4-022",
-              "it": "«In settembre **mi mancava** tutto» dice, e subito si corregge: «In settembre **mi è mancato** tutto»",
-              "en": "“In September **I missed** everything,” she says, and immediately corrects herself: “In September **I missed** everything.”",
+              "it": "«In settembre **mi è mancato** tutto» dice.",
+              "en": "“In September **I missed** everything,” she says.",
               "voice": [
                 [
                   "emma",
-                  "In settembre **mi mancava** tutto",
+                  "In settembre **mi è mancato** tutto",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice, e subito si corregge:",
-                  ""
-                ],
-                [
-                  "emma",
-                  "In settembre **mi è mancato** tutto",
+                  "dice.",
                   ""
                 ]
               ],
@@ -35463,108 +35468,8 @@
                   "b"
                 ],
                 [
-                  "mancava",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutto",
-                  4,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "subito",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "corregge",
-                  9,
-                  ""
-                ],
-                [
-                  ": «",
-                  -1,
-                  ""
-                ],
-                [
-                  "In",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "settembre",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mi",
-                  12,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
                   "è",
-                  13,
+                  3,
                   "b"
                 ],
                 [
@@ -35574,7 +35479,7 @@
                 ],
                 [
                   "mancato",
-                  14,
+                  4,
                   "b"
                 ],
                 [
@@ -35584,11 +35489,21 @@
                 ],
                 [
                   "tutto",
-                  15,
+                  5,
                   ""
                 ],
                 [
-                  "»",
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  6,
+                  ""
+                ],
+                [
+                  ".",
                   -1,
                   ""
                 ]
@@ -37905,12 +37820,12 @@
           "segments": [
             {
               "id": "s02e09-4-047",
-              "it": "«Anche io ho lasciato una casa. Tre anni fa, con mia madre»",
-              "en": "“I left a house too. Three years ago, with my mom.”",
+              "it": "«Anche io lascio una casa ogni settembre. Quella di mio nonno»",
+              "en": "“I leave a house every September too. My grandfather's.”",
               "voice": [
                 [
                   "tommaso",
-                  "Anche io ho lasciato una casa. Tre anni fa, con mia madre",
+                  "Anche io lascio una casa ogni settembre. Quella di mio nonno",
                   ""
                 ]
               ],
@@ -37941,7 +37856,7 @@
                   ""
                 ],
                 [
-                  "ho",
+                  "lascio",
                   2,
                   ""
                 ],
@@ -37951,7 +37866,7 @@
                   ""
                 ],
                 [
-                  "lasciato",
+                  "una",
                   3,
                   ""
                 ],
@@ -37961,7 +37876,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "casa",
                   4,
                   ""
                 ],
@@ -37971,18 +37886,8 @@
                   ""
                 ],
                 [
-                  "casa",
+                  "ogni",
                   5,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tre",
-                  6,
                   ""
                 ],
                 [
@@ -37991,7 +37896,17 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "settembre",
+                  6,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Quella",
                   7,
                   ""
                 ],
@@ -38001,17 +37916,17 @@
                   ""
                 ],
                 [
-                  "fa",
+                  "di",
                   8,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "con",
+                  "mio",
                   9,
                   ""
                 ],
@@ -38021,18 +37936,8 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "nonno",
                   10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "madre",
-                  11,
                   ""
                 ],
                 [
@@ -38119,12 +38024,12 @@
           "segments": [
             {
               "id": "s02e09-4-049",
-              "it": "«All'inizio sì. **Mi mancava** la **voce** di mia nonna. Ma poi...» dice, e si ferma.",
-              "en": "“At first yes. **I missed** my grandmother's **voice**. But then...” he says, and stops.",
+              "it": "«Sì. **Mi è mancata** la **voce** di mia nonna. Ma poi...» dice, e si ferma.",
+              "en": "“Yes. **I missed** my grandmother's **voice**. But then...” he says, and stops.",
               "voice": [
                 [
                   "tommaso",
-                  "All'inizio sì. **Mi mancava** la **voce** di mia nonna. Ma poi...",
+                  "Sì. **Mi è mancata** la **voce** di mia nonna. Ma poi...",
                   ""
                 ],
                 [
@@ -38140,18 +38045,8 @@
                   ""
                 ],
                 [
-                  "All'inizio",
+                  "Sì",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sì",
-                  1,
                   ""
                 ],
                 [
@@ -38161,6 +38056,16 @@
                 ],
                 [
                   "Mi",
+                  1,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  "b"
+                ],
+                [
+                  "è",
                   2,
                   "b"
                 ],
@@ -38170,7 +38075,7 @@
                   "b"
                 ],
                 [
-                  "mancava",
+                  "mancata",
                   3,
                   "b"
                 ],
@@ -43749,12 +43654,12 @@
           "segments": [
             {
               "id": "s02e09-5-014",
-              "it": "«Una **voce** bassa. La sentivo dalla cucina di casa mia, quando apriva il bar alle sei»",
-              "en": "“A low **voice**. I heard it from my kitchen, when he opened the bar at six.”",
+              "it": "«Una **voce** bassa. La sento ancora dalla cucina di casa mia, quando il bar apre alle sei»",
+              "en": "“A low **voice**. I still hear it from my kitchen, when the bar opens at six.”",
               "voice": [
                 [
                   "ornella",
-                  "Una **voce** bassa. La sentivo dalla cucina di casa mia, quando apriva il bar alle sei",
+                  "Una **voce** bassa. La sento ancora dalla cucina di casa mia, quando il bar apre alle sei",
                   ""
                 ]
               ],
@@ -43805,7 +43710,7 @@
                   ""
                 ],
                 [
-                  "sentivo",
+                  "sento",
                   4,
                   ""
                 ],
@@ -43815,7 +43720,7 @@
                   ""
                 ],
                 [
-                  "dalla",
+                  "ancora",
                   5,
                   ""
                 ],
@@ -43825,7 +43730,7 @@
                   ""
                 ],
                 [
-                  "cucina",
+                  "dalla",
                   6,
                   ""
                 ],
@@ -43835,7 +43740,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "cucina",
                   7,
                   ""
                 ],
@@ -43845,7 +43750,7 @@
                   ""
                 ],
                 [
-                  "casa",
+                  "di",
                   8,
                   ""
                 ],
@@ -43855,8 +43760,18 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "casa",
                   9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mia",
+                  10,
                   ""
                 ],
                 [
@@ -43866,16 +43781,6 @@
                 ],
                 [
                   "quando",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "apriva",
                   11,
                   ""
                 ],
@@ -43905,7 +43810,7 @@
                   ""
                 ],
                 [
-                  "alle",
+                  "apre",
                   14,
                   ""
                 ],
@@ -43915,8 +43820,18 @@
                   ""
                 ],
                 [
-                  "sei",
+                  "alle",
                   15,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sei",
+                  16,
                   ""
                 ],
                 [
@@ -44513,12 +44428,12 @@
           "segments": [
             {
               "id": "s02e09-5-021",
-              "it": "«Dodici anni sono tanti. Che lavoro era, esattamente?»",
+              "it": "«Dodici anni sono tanti. Che lavoro è stato, esattamente?»",
               "en": "“Twelve years is a lot. What job was it, exactly?”",
               "voice": [
                 [
                   "ornella",
-                  "Dodici anni sono tanti. Che lavoro era, esattamente?",
+                  "Dodici anni sono tanti. Che lavoro è stato, esattamente?",
                   ""
                 ]
               ],
@@ -44589,8 +44504,18 @@
                   ""
                 ],
                 [
-                  "era",
+                  "è",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "stato",
+                  7,
                   ""
                 ],
                 [
@@ -44600,7 +44525,7 @@
                 ],
                 [
                   "esattamente",
-                  7,
+                  8,
                   ""
                 ],
                 [
@@ -44789,12 +44714,12 @@
           "segments": [
             {
               "id": "s02e09-5-023",
-              "it": "«E le piaceva?» chiede.",
+              "it": "«E le è piaciuto?» chiede.",
               "en": "“And did you like it?” she asks.",
               "voice": [
                 [
                   "ornella",
-                  "E le piaceva?",
+                  "E le è piaciuto?",
                   ""
                 ],
                 [
@@ -44830,8 +44755,18 @@
                   ""
                 ],
                 [
-                  "piaceva",
+                  "è",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piaciuto",
+                  3,
                   ""
                 ],
                 [
@@ -44841,7 +44776,7 @@
                 ],
                 [
                   "chiede",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -49082,12 +49017,12 @@
           "segments": [
             {
               "id": "s02e09-5-063",
-              "it": "«Perché Gino la preparava ogni estate. Con la camicia buona, il rasoio, il biglietto»",
-              "en": "“Because Gino packed it every summer. With the good shirt, the razor, the ticket.”",
+              "it": "«Perché Gino l'ha preparata ogni estate per dieci anni. Con la camicia buona, il rasoio, il biglietto»",
+              "en": "“Because Gino packed it every summer for ten years. With the good shirt, the razor, the ticket.”",
               "voice": [
                 [
                   "ornella",
-                  "Perché Gino la preparava ogni estate. Con la camicia buona, il rasoio, il biglietto",
+                  "Perché Gino l'ha preparata ogni estate per dieci anni. Con la camicia buona, il rasoio, il biglietto",
                   ""
                 ]
               ],
@@ -49118,7 +49053,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "l'ha",
                   2,
                   ""
                 ],
@@ -49128,7 +49063,7 @@
                   ""
                 ],
                 [
-                  "preparava",
+                  "preparata",
                   3,
                   ""
                 ],
@@ -49153,12 +49088,12 @@
                   ""
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "Con",
+                  "per",
                   6,
                   ""
                 ],
@@ -49168,7 +49103,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "dieci",
                   7,
                   ""
                 ],
@@ -49178,8 +49113,18 @@
                   ""
                 ],
                 [
-                  "camicia",
+                  "anni",
                   8,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Con",
+                  9,
                   ""
                 ],
                 [
@@ -49188,17 +49133,7 @@
                   ""
                 ],
                 [
-                  "buona",
-                  9,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
+                  "la",
                   10,
                   ""
                 ],
@@ -49208,8 +49143,18 @@
                   ""
                 ],
                 [
-                  "rasoio",
+                  "camicia",
                   11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "buona",
+                  12,
                   ""
                 ],
                 [
@@ -49219,7 +49164,27 @@
                 ],
                 [
                   "il",
-                  12,
+                  13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "rasoio",
+                  14,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  15,
                   ""
                 ],
                 [
@@ -49229,7 +49194,7 @@
                 ],
                 [
                   "biglietto",
-                  13,
+                  16,
                   ""
                 ],
                 [
@@ -55219,22 +55184,17 @@
           "segments": [
             {
               "id": "s02e09-6-030",
-              "it": "«In settembre **mi mancava** tutto: la scuola, le **amiche**, il lago» dice, e si corregge: «**Mi è mancato** tutto»",
-              "en": "“In September **I missed** everything: school, **the friends**, the lake,” she says, and corrects herself: “**I missed** everything.”",
+              "it": "«In settembre **mi è mancato** tutto: la scuola, le **amiche**, il lago» dice.",
+              "en": "“In September **I missed** everything: school, **the friends**, the lake,” she says.",
               "voice": [
                 [
                   "emma",
-                  "In settembre **mi mancava** tutto: la scuola, le **amiche**, il lago",
+                  "In settembre **mi è mancato** tutto: la scuola, le **amiche**, il lago",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice, e si corregge:",
-                  ""
-                ],
-                [
-                  "emma",
-                  "**Mi è mancato** tutto",
+                  "dice.",
                   ""
                 ]
               ],
@@ -55275,138 +55235,8 @@
                   "b"
                 ],
                 [
-                  "mancava",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutto",
-                  4,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scuola",
-                  6,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "amiche",
-                  8,
-                  "b"
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lago",
-                  10,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  11,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "corregge",
-                  14,
-                  ""
-                ],
-                [
-                  ": «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mi",
-                  15,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
                   "è",
-                  16,
+                  3,
                   "b"
                 ],
                 [
@@ -55416,7 +55246,7 @@
                 ],
                 [
                   "mancato",
-                  17,
+                  4,
                   "b"
                 ],
                 [
@@ -55426,11 +55256,81 @@
                 ],
                 [
                   "tutto",
-                  18,
+                  5,
                   ""
                 ],
                 [
-                  "»",
+                  ": ",
+                  -1,
+                  ""
+                ],
+                [
+                  "la",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "scuola",
+                  7,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "le",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "amiche",
+                  9,
+                  "b"
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lago",
+                  11,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  12,
+                  ""
+                ],
+                [
+                  ".",
                   -1,
                   ""
                 ]
@@ -57185,12 +57085,12 @@
           "segments": [
             {
               "id": "s02e09-6-049",
-              "it": "«Dalla finestra. Ha visto che non stavo bene»",
-              "en": "“From the window. She saw that I wasn't well.”",
+              "it": "«Dalla finestra. Ha capito che non sto bene»",
+              "en": "“From the window. She understood I'm not well.”",
               "voice": [
                 [
                   "ben",
-                  "Dalla finestra. Ha visto che non stavo bene",
+                  "Dalla finestra. Ha capito che non sto bene",
                   ""
                 ]
               ],
@@ -57231,7 +57131,7 @@
                   ""
                 ],
                 [
-                  "visto",
+                  "capito",
                   3,
                   ""
                 ],
@@ -57261,7 +57161,7 @@
                   ""
                 ],
                 [
-                  "stavo",
+                  "sto",
                   6,
                   ""
                 ],
@@ -59171,12 +59071,12 @@
           "segments": [
             {
               "id": "s02e09-6-065",
-              "it": "«No. Non lo sai. Io non ti ho chiesto niente perché credevo che stessi bene»",
-              "en": "“No. You don't know. I didn't ask you anything because I thought you were fine.”",
+              "it": "«No. Non lo sai. Io non ti ho chiesto niente perché ho visto un uomo tranquillo»",
+              "en": "“No. You don't know. I didn't ask you anything because I saw a calm man.”",
               "voice": [
                 [
                   "chiara",
-                  "No. Non lo sai. Io non ti ho chiesto niente perché credevo che stessi bene",
+                  "No. Non lo sai. Io non ti ho chiesto niente perché ho visto un uomo tranquillo",
                   ""
                 ]
               ],
@@ -59297,7 +59197,7 @@
                   ""
                 ],
                 [
-                  "credevo",
+                  "ho",
                   11,
                   ""
                 ],
@@ -59307,7 +59207,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "visto",
                   12,
                   ""
                 ],
@@ -59317,7 +59217,7 @@
                   ""
                 ],
                 [
-                  "stessi",
+                  "un",
                   13,
                   ""
                 ],
@@ -59327,8 +59227,18 @@
                   ""
                 ],
                 [
-                  "bene",
+                  "uomo",
                   14,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tranquillo",
+                  15,
                   ""
                 ],
                 [
@@ -59387,12 +59297,12 @@
           "segments": [
             {
               "id": "s02e09-6-067",
-              "it": "«E invece ti **mancava** qualcosa, e non l'ho visto. L'ha visto la signora Ornella»",
+              "it": "«E invece ti **è mancato** qualcosa, e non l'ho visto. L'ha visto la signora Ornella»",
               "en": "“And instead you **missed** something, and I didn't see it. Mrs. Ornella saw it.”",
               "voice": [
                 [
                   "chiara",
-                  "E invece ti **mancava** qualcosa, e non l'ho visto. L'ha visto la signora Ornella",
+                  "E invece ti **è mancato** qualcosa, e non l'ho visto. L'ha visto la signora Ornella",
                   ""
                 ]
               ],
@@ -59433,8 +59343,18 @@
                   ""
                 ],
                 [
-                  "mancava",
+                  "è",
                   3,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  "b"
+                ],
+                [
+                  "mancato",
+                  4,
                   "b"
                 ],
                 [
@@ -59444,7 +59364,7 @@
                 ],
                 [
                   "qualcosa",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -59454,16 +59374,6 @@
                 ],
                 [
                   "e",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
                   6,
                   ""
                 ],
@@ -59473,7 +59383,7 @@
                   ""
                 ],
                 [
-                  "l'ho",
+                  "non",
                   7,
                   ""
                 ],
@@ -59483,8 +59393,18 @@
                   ""
                 ],
                 [
-                  "visto",
+                  "l'ho",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "visto",
+                  9,
                   ""
                 ],
                 [
@@ -59494,16 +59414,6 @@
                 ],
                 [
                   "L'ha",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "visto",
                   10,
                   ""
                 ],
@@ -59513,7 +59423,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "visto",
                   11,
                   ""
                 ],
@@ -59523,7 +59433,7 @@
                   ""
                 ],
                 [
-                  "signora",
+                  "la",
                   12,
                   ""
                 ],
@@ -59533,8 +59443,18 @@
                   ""
                 ],
                 [
-                  "Ornella",
+                  "signora",
                   13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Ornella",
+                  14,
                   ""
                 ],
                 [

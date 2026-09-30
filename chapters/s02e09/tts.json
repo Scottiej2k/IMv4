@@ -4561,7 +4561,7 @@
           "s02e09-2-053:0-10"
         ],
         [
-          "s02e09-2-054:0-2"
+          "s02e09-2-054:0-3"
         ]
       ],
       "request": {
@@ -4572,7 +4572,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "E che cosa facevi in ufficio?",
+                "text": "Che lavoro hai fatto in ufficio?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4594,7 +4594,7 @@
               },
               {
                 "type": "text",
-                "text": "E ti piaceva?",
+                "text": "E ti è piaciuto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4640,7 +4640,7 @@
       ],
       "words": [
         [
-          "s02e09-2-054:3-3"
+          "s02e09-2-054:4-4"
         ],
         [
           "s02e09-2-055:0-8"
@@ -9936,13 +9936,12 @@
       ],
       "words": [
         [
-          "s02e09-4-022:0-4"
+          "s02e09-4-022:0-5"
         ],
         [
-          "s02e09-4-022:5-9"
+          "s02e09-4-022:6-6"
         ],
         [
-          "s02e09-4-022:10-15",
           "s02e09-4-023:0-10"
         ]
       ],
@@ -9954,7 +9953,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "In settembre mi mancava tutto",
+                "text": "In settembre mi è mancato tutto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9965,7 +9964,7 @@
               },
               {
                 "type": "text",
-                "text": "dice, e subito si corregge:",
+                "text": "dice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9976,7 +9975,7 @@
               },
               {
                 "type": "text",
-                "text": "In settembre mi è mancato tutto La scuola, le amiche, il prato, la macchina di papà. Tutto",
+                "text": "La scuola, le amiche, il prato, la macchina di papà. Tutto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10814,7 +10813,7 @@
           "s02e09-4-046:0-0"
         ],
         [
-          "s02e09-4-047:0-11"
+          "s02e09-4-047:0-10"
         ],
         [
           "s02e09-4-048:0-2"
@@ -10839,7 +10838,7 @@
               },
               {
                 "type": "text",
-                "text": "Anche io ho lasciato una casa. Tre anni fa, con mia madre",
+                "text": "Anche io lascio una casa ogni settembre. Quella di mio nonno",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10924,7 +10923,7 @@
               },
               {
                 "type": "text",
-                "text": "All'inizio sì. Mi mancava la voce di mia nonna. Ma poi...",
+                "text": "Sì. Mi è mancata la voce di mia nonna. Ma poi...",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12599,7 +12598,7 @@
       ],
       "words": [
         [
-          "s02e09-5-014:0-15"
+          "s02e09-5-014:0-16"
         ],
         [
           "s02e09-5-015:0-1"
@@ -12616,7 +12615,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Una voce bassa. La sentivo dalla cucina di casa mia, quando apriva il bar alle sei",
+                "text": "Una voce bassa. La sento ancora dalla cucina di casa mia, quando il bar apre alle sei",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12841,13 +12840,13 @@
       ],
       "words": [
         [
-          "s02e09-5-021:0-7"
+          "s02e09-5-021:0-8"
         ],
         [
           "s02e09-5-022:0-14"
         ],
         [
-          "s02e09-5-023:0-2"
+          "s02e09-5-023:0-3"
         ]
       ],
       "request": {
@@ -12858,7 +12857,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Dodici anni sono tanti. Che lavoro era, esattamente?",
+                "text": "Dodici anni sono tanti. Che lavoro è stato, esattamente?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12880,7 +12879,7 @@
               },
               {
                 "type": "text",
-                "text": "E le piaceva?",
+                "text": "E le è piaciuto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12926,7 +12925,7 @@
       ],
       "words": [
         [
-          "s02e09-5-023:3-3"
+          "s02e09-5-023:4-4"
         ],
         [
           "s02e09-5-024:0-10"
@@ -14403,7 +14402,7 @@
           "s02e09-5-062:2-2"
         ],
         [
-          "s02e09-5-063:0-13"
+          "s02e09-5-063:0-16"
         ]
       ],
       "request": {
@@ -14425,7 +14424,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché Gino la preparava ogni estate. Con la camicia buona, il rasoio, il biglietto",
+                "text": "Perché Gino l'ha preparata ogni estate per dieci anni. Con la camicia buona, il rasoio, il biglietto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16472,13 +16471,10 @@
           "s02e09-6-029:2-3"
         ],
         [
-          "s02e09-6-030:0-10"
+          "s02e09-6-030:0-11"
         ],
         [
-          "s02e09-6-030:11-14"
-        ],
-        [
-          "s02e09-6-030:15-18"
+          "s02e09-6-030:12-12"
         ]
       ],
       "request": {
@@ -16500,7 +16496,7 @@
               },
               {
                 "type": "text",
-                "text": "In settembre mi mancava tutto: la scuola, le amiche, il lago",
+                "text": "In settembre mi è mancato tutto: la scuola, le amiche, il lago",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16511,23 +16507,12 @@
               },
               {
                 "type": "text",
-                "text": "dice, e si corregge:",
+                "text": "dice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "narrator",
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Mi è mancato tutto",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "emma",
-                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               }
@@ -17337,7 +17322,7 @@
               },
               {
                 "type": "text",
-                "text": "Dalla finestra. Ha visto che non stavo bene",
+                "text": "Dalla finestra. Ha capito che non sto bene",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -18052,13 +18037,13 @@
           "s02e09-6-064:0-9"
         ],
         [
-          "s02e09-6-065:0-14"
+          "s02e09-6-065:0-15"
         ],
         [
           "s02e09-6-066:0-1"
         ],
         [
-          "s02e09-6-067:0-13"
+          "s02e09-6-067:0-14"
         ],
         [
           "s02e09-6-068:0-4"
@@ -18083,7 +18068,7 @@
               },
               {
                 "type": "text",
-                "text": "No. Non lo sai. Io non ti ho chiesto niente perché credevo che stessi bene",
+                "text": "No. Non lo sai. Io non ti ho chiesto niente perché ho visto un uomo tranquillo",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -18105,7 +18090,7 @@
               },
               {
                 "type": "text",
-                "text": "E invece ti mancava qualcosa, e non l'ho visto. L'ha visto la signora Ornella",
+                "text": "E invece ti è mancato qualcosa, e non l'ho visto. L'ha visto la signora Ornella",
                 "annotations": [
                   {
                     "type": "speech_metadata",

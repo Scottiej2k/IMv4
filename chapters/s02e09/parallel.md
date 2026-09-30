@@ -170,9 +170,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Cinque. Mark, Susan, Peter, Dave, Jenny. Pranzi, partite, compleanni. Tutto lì» | “Five. Mark, Susan, Peter, Dave, Jenny. Lunches, games, birthdays. All there.” |
 | «Poi?» chiede. | “Then?” she asks. |
 | «Poi **il ritorno** a casa alle sei. Il mio **ufficio** al quarto piano» | “Then **the return** home at six. My **office** on the fourth floor.” |
-| «E che cosa facevi in ufficio?» | “And what did you do in the office?” |
+| «Che lavoro hai fatto in ufficio?» | “What work did you do in the office?” |
 | «Marketing. Dodici anni. Il lunedì le riunioni, il venerdì i numeri» | “Marketing. Twelve years. Monday meetings, Friday numbers.” |
-| «E ti piaceva?» chiede. | “And did you like it?” |
+| «E ti è piaciuto?» chiede. | “And did you like it?” |
 | «Sì. **Mi è piaciuto** molto. Un'altra parola... no, sorry» dice Kevin, e si ferma. | “Yes. I liked it a lot. Another word... no, sorry,” Kevin says, and stops. |
 | «Che cosa?» | “What?” |
 | «Una parola difficile. **Mi è piaciuto** essere bravo» | “A difficult word. **I liked** being good at something.” |
@@ -352,7 +352,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | E capisce una cosa: **non le manca** Chicago come prima. | And she understands something: she **doesn't miss** Chicago like before. |
 | «**Non mi manca** Chicago come prima» dice ad alta voce. | “**I don't miss** Chicago like before,” she says out loud. |
 | «Come scusa?» chiede Bianca, con la bocca aperta. | “Come again?” Bianca asks, her mouth open. |
-| «In settembre **mi mancava** tutto» dice, e subito si corregge: «In settembre **mi è mancato** tutto» | “In September **I missed** everything,” she says, and immediately corrects herself: “In September **I missed** everything.” |
+| «In settembre **mi è mancato** tutto» dice. | “In September **I missed** everything,” she says. |
 | «La scuola, le amiche, il prato, la macchina di papà. Tutto» | “School, my friends, the lawn, Dad's car. Everything.” |
 | «E adesso?» chiede. | “And now?” |
 | «Adesso leggo la foto di Mia e **mi sembra** una foto vecchia» | “Now I read Mia's photo and **it seems** like an old photo to me.” |
@@ -377,9 +377,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Tommaso, nel corridoio, si sposta un passo verso di loro. | Tommaso, in the aisle, moves one step toward them. |
 | «Scusa, Emma» dice. | “Sorry, Emma,” he says, quietly. |
 | «Dimmi» | “Tell me.” |
-| «Anche io ho lasciato una casa. Tre anni fa, con mia madre» | “I left a house too. Three years ago, with my mom.” |
+| «Anche io lascio una casa ogni settembre. Quella di mio nonno» | “I leave a house every September too. My grandfather's.” |
 | «E ti **manca**?» chiede. | “And do you **miss** it?” Emma asks. |
-| «All'inizio sì. **Mi mancava** la **voce** di mia nonna. Ma poi...» dice, e si ferma. | “At first yes. **I missed** my grandmother's **voice**. But then...” he says, and stops. |
+| «Sì. **Mi è mancata** la **voce** di mia nonna. Ma poi...» dice, e si ferma. | “Yes. **I missed** my grandmother's **voice**. But then...” he says, and stops. |
 | «Ma poi?» chiede. | “But then?” Emma asks. |
 | «Poi ho imparato che le **voci** restano» dice, e guarda fuori dal finestrino. | “Then I learned that **voices** stay,” he says, and looks out of the window. |
 | Emma non dice niente. Guarda la sua **voce** nel riflesso del vetro: la **voce** è la stessa di sempre. | Emma says nothing. She looks at her **voice** in the reflection of the glass: the **voice** is the same as always. |
@@ -433,16 +433,16 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il bar, nel giorno dell'apertura. Gino dietro il bancone, con il grembiule nuovo» | “The bar, on the opening day. Gino behind the counter, with the new apron.” |
 | Nell'ultima foto Gino è giovane e sorride, con una bottiglia in mano. | In the last photo Gino is young and smiling, with a bottle in his hand. |
 | «Ha una bella **voce**, Gino?» chiede Kevin, piano. | “Did Gino have a nice **voice**?” Kevin asks, quietly. |
-| «Una **voce** bassa. La sentivo dalla cucina di casa mia, quando apriva il bar alle sei» | “A low **voice**. I heard it from my kitchen, when he opened the bar at six.” |
+| «Una **voce** bassa. La sento ancora dalla cucina di casa mia, quando il bar apre alle sei» | “A low **voice**. I still hear it from my kitchen, when the bar opens at six.” |
 | «E adesso?» | “And now?” |
 | «Adesso c'è **silenzio**. Ma io la **voce** la sento lo stesso» | “Now there's **silence**. But I hear the **voice** anyway.” |
 | Ornella versa il caffè nelle due tazzine. | Ornella pours the coffee into the two cups. |
 | «Adesso parli lei, signor Carter. Che cosa le **manca**?» | “Now you talk, Mr. Carter. What do you **miss**?” |
 | Kevin prende la tazzina, la scalda tra le mani. | Kevin picks up the cup, warms it between his hands. |
 | «Dodici anni di marketing. A Chicago» dice. | “Twelve years of marketing. In Chicago,” he says. |
-| «Dodici anni sono tanti. Che lavoro era, esattamente?» | “Twelve years is a lot. What job was it, exactly?” |
+| «Dodici anni sono tanti. Che lavoro è stato, esattamente?» | “Twelve years is a lot. What job was it, exactly?” |
 | «Numeri, grafici, riunioni. La mattina alle otto e mezza, la sera alle sei e mezza» | “Numbers, charts, meetings. Morning at eight thirty, evening at six thirty.” |
-| «E le piaceva?» chiede. | “And did you like it?” she asks. |
+| «E le è piaciuto?» chiede. | “And did you like it?” she asks. |
 | «**Mi è piaciuto** molto. **Mi è piaciuto** essere utile, essere bravo» | “**I liked** it a lot. **I liked** being useful, being good.” |
 | «E qui?» | “And here?” |
 | «Qui cucino, porto i ragazzi a scuola, faccio la **spesa**, scrivo un libro di cucina» | “Here I cook, take the kids to school, do the **shopping**, write a cookbook.” |
@@ -482,7 +482,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Per i viaggi?» chiede Kevin. | “For trips?” Kevin asks. |
 | «No. La **valigia** è vuota. Vuota da quarant'anni» | “No. The **suitcase** is empty. Empty for forty years.” |
 | «Vuota? Perché?» chiede. | “Empty? Why?” Kevin asks. |
-| «Perché Gino la preparava ogni estate. Con la camicia buona, il rasoio, il biglietto» | “Because Gino packed it every summer. With the good shirt, the razor, the ticket.” |
+| «Perché Gino l'ha preparata ogni estate per dieci anni. Con la camicia buona, il rasoio, il biglietto» | “Because Gino packed it every summer for ten years. With the good shirt, the razor, the ticket.” |
 | «Per andare dove?» | “To go where?” |
 | «In America» dice piano. | “To America,” she says quietly. |
 | Kevin si blocca con la tazzina in mano. | Kevin freezes with the cup in his hand. |
@@ -544,7 +544,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Dimmi» | “Tell me.” |
 | «In settembre ho detto a tutti: voglio **tornare** a Chicago» | “In September I told everyone: I want to **go back** to Chicago.” |
 | «Lo so» dice Kevin. | “I know,” Kevin says. |
-| «In settembre **mi mancava** tutto: la scuola, le **amiche**, il lago» dice, e si corregge: «**Mi è mancato** tutto» | “In September **I missed** everything: school, **the friends**, the lake,” she says, and corrects herself: “**I missed** everything.” |
+| «In settembre **mi è mancato** tutto: la scuola, le **amiche**, il lago» dice. | “In September **I missed** everything: school, **the friends**, the lake,” she says. |
 | «E adesso?» chiede Kevin. | “And now?” Kevin asks. |
 | «Adesso ho letto un **messaggio** di Mia e **non mi è mancato** niente» | “Now I read a **message** from Mia and **I didn't miss** anything.” |
 | Kevin non dice niente, perché ha capito. | Kevin says nothing, because he understands. |
@@ -563,7 +563,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Dalla signora Ornella?» chiede, sorpresa. | “To Mrs. Ornella's?” Chiara asks, surprised. |
 | «Sì. Lei mi ha visto sul **marciapiede** tutta la settimana» | “Yes. She watched me on the **sidewalk** all week.” |
 | «Sul **marciapiede**?» | “On the **sidewalk**?” Chiara asks. |
-| «Dalla finestra. Ha visto che non stavo bene» | “From the window. She saw that I wasn't well.” |
+| «Dalla finestra. Ha capito che non sto bene» | “From the window. She understood I'm not well.” |
 | «E tu le hai parlato?» chiede, sorpresa. | “And you talked to her?” Chiara asks, surprised. |
 | «Sì. **Mi è piaciuto** quel pomeriggio. **Mi è piaciuto** stare con lei» | “Yes. **I liked** that afternoon. **I liked** being with her.” |
 | Chiara apre la bocca, poi la chiude, poi la riapre. | Chiara opens her mouth, then closes it, then opens it again. |
@@ -579,9 +579,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi si mette seria, con la tazza in mano. | Then she gets serious, with her cup in her hand. |
 | «Kevin, io non ti ho chiesto niente tutta la settimana» dice. | “Kevin, I haven't asked you anything all week,” she says. |
 | «Lavori in casa, il tuo lavoro, i ragazzi... lo so» | “House works, your job, the kids... I know.” |
-| «No. Non lo sai. Io non ti ho chiesto niente perché credevo che stessi bene» | “No. You don't know. I didn't ask you anything because I thought you were fine.” |
+| «No. Non lo sai. Io non ti ho chiesto niente perché ho visto un uomo tranquillo» | “No. You don't know. I didn't ask you anything because I saw a calm man.” |
 | «E invece?» | “And instead?” |
-| «E invece ti **mancava** qualcosa, e non l'ho visto. L'ha visto la signora Ornella» | “And instead you **missed** something, and I didn't see it. Mrs. Ornella saw it.” |
+| «E invece ti **è mancato** qualcosa, e non l'ho visto. L'ha visto la signora Ornella» | “And instead you **missed** something, and I didn't see it. Mrs. Ornella saw it.” |
 | «Chiara, non è colpa tua» dice Kevin. | “Chiara, it's not your fault,” Kevin says. |
 | «Non è colpa di nessuno. È **sentimento**. Ma il **sentimento** va detto» | “It's nobody's fault. It's **feeling**. But **feeling** has to be said.” |
 | Kevin allunga la mano e prende la sua, sul tavolo. | Kevin reaches out and takes her hand, on the table. |

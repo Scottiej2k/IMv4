@@ -229,10 +229,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Emma and Tommaso's Saturday gelato date at 5 (needs payoff).
 
 ### s02e09 · Mi manca Chicago
-- **Happened:** Kevin is homesick during the second week of the Carter house renovation and finally tells Nadia, then Ornella, that he misses Chicago; he misses being good at something. Ornella invites him for coffee at number 16 and shows him Gino's empty suitcase, packed each summer for a Chicago trip he never made. Emma realizes she no longer misses Chicago, only the lake, and tells Kevin and Chiara.
-- **New facts:** Sergio leads the Carter building crew; his catchphrase is "Nessun problema." Kevin's Chicago friends: Mark, Susan, Peter, Dave, Jenny; Kevin worked twelve years in marketing and is 41. Ornella is 78; Gino died fifteen years ago and had a cousin and job waiting in Chicago, 1968. Kevin's yellow notebook: "Il ricordo è una casa che si porta con sé." Kevin and Ornella plan a Tuesday market outing.
-- **Changed:** Kevin now confesses his homesickness to Nadia and Ornella; Chiara learns of his talks with Ornella and admits she hadn't noticed he was struggling.
-- **Planted:** Kevin's unfinished cookbook and his wish for a job ("Mi serve un lavoro") — payoff later.
+- **Happened:** Kevin spends a week missing Chicago; Nadia texts Ornella about him; Ornella invites him to coffee Thursday 5 pm, and he tells her (and later Chiara) how he feels.
+- **Happened:** Emma gets a photo from her Chicago friend Mia, realizes she no longer misses Chicago, keeps only two photos (the lake, Via dei Tigli) and goes for gelato Saturday at 5 with Tommaso, Bianca watching.
+- **Happened:** Kevin brings Ornella pancakes Sunday and agrees to meet her Tuesdays at the market; the builder Sergio opens the corridor wall and says "nessun problema" three times.
+- **New facts:** Sergio, capo dei muratori, fixing Casa Carter over at least two weeks. Kevin, 41, did 12 years of marketing in Chicago (8:30–6:30, office on the 4th floor); his Chicago friends: Mark, Susan, Peter, Dave, Jenny. Kevin keeps a quaderno giallo and an unfinished cookbook. Ornella is 78; Gino's small brown suitcase, empty 40 years, packed each summer for a never-taken 1968 move to Chicago (a cousin, a job).
+- **Changed:** Kevin's low mood is known to Nadia, Ornella and Chiara; Ornella tells Kevin her house is too big and quiet and "non mi basta restare qui" — her first time saying it.
+- **Planted:** Kevin and Ornella's Tuesday market routine; Ornella's restlessness (payoff TBD); Kevin plans another Chicago phone call, this time greeting everyone by name.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
