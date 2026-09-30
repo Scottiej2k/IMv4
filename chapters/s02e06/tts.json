@@ -11106,10 +11106,10 @@
       ],
       "words": [
         [
-          "s02e06-4-016:0-5"
+          "s02e06-4-016:0-4"
         ],
         [
-          "s02e06-4-016:6-7",
+          "s02e06-4-016:5-6",
           "s02e06-4-017:0-5"
         ]
       ],
@@ -11121,7 +11121,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Chi, io? Non lo so niente.",
+                "text": "Chi, io? Non so niente.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15592,10 +15592,10 @@
       ],
       "words": [
         [
-          "s02e06-4-111:0-5"
+          "s02e06-4-111:0-4"
         ],
         [
-          "s02e06-4-111:6-7"
+          "s02e06-4-111:5-6"
         ]
       ],
       "request": {
@@ -15606,7 +15606,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Oggi sì. È una emozione grande.",
+                "text": "Oggi sì. È un'emozione grande.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20430,10 +20430,10 @@
       ],
       "words": [
         [
-          "s02e06-5-079:0-9"
+          "s02e06-5-079:0-8"
         ],
         [
-          "s02e06-5-079:10-11"
+          "s02e06-5-079:9-10"
         ]
       ],
       "request": {
@@ -20444,7 +20444,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La moglie di Franco. Sì, ma non l' ho conosciuta.",
+                "text": "La moglie di Franco. Sì, ma non l'ho conosciuta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -21969,8 +21969,7 @@
         "s02e06-5-108",
         "s02e06-5-109",
         "s02e06-5-110",
-        "s02e06-5-111",
-        "s02e06-5-112"
+        "s02e06-5-111"
       ],
       "words": [
         [
@@ -21980,8 +21979,7 @@
           "s02e06-5-108:2-3",
           "s02e06-5-109:0-3",
           "s02e06-5-110:0-3",
-          "s02e06-5-111:0-9",
-          "s02e06-5-112:0-5"
+          "s02e06-5-111:0-5"
         ]
       ],
       "request": {
@@ -22003,7 +22001,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ornella. E chiude la finestra. Kevin prende le buste. Leo prende il gatto? No. Il gatto è di Ornella. Leo prende una busta della spesa.",
+                "text": "dice Ornella. E chiude la finestra. Kevin prende le buste. Leo prende una busta della spesa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -22044,16 +22042,16 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-5-113",
-        "s02e06-5-114"
+        "s02e06-5-112",
+        "s02e06-5-113"
       ],
       "words": [
         [
-          "s02e06-5-113:0-1"
+          "s02e06-5-112:0-1"
         ],
         [
-          "s02e06-5-113:2-3",
-          "s02e06-5-114:0-8"
+          "s02e06-5-112:2-3",
+          "s02e06-5-113:0-8"
         ]
       ],
       "request": {
@@ -22116,14 +22114,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-5-115"
+        "s02e06-5-114"
       ],
       "words": [
         [
-          "s02e06-5-115:0-3"
+          "s02e06-5-114:0-3"
         ],
         [
-          "s02e06-5-115:4-5"
+          "s02e06-5-114:4-5"
         ]
       ],
       "request": {
@@ -23044,7 +23042,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. E non lo dico a nessuno fino a oggi.",
+                "text": "Sì. E non l'ho detto a nessuno fino a oggi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -26262,8 +26260,7 @@
       "segment_ids": [
         "s02e06-6-094",
         "s02e06-6-095",
-        "s02e06-6-096",
-        "s02e06-6-097"
+        "s02e06-6-096"
       ],
       "words": [
         [
@@ -26272,8 +26269,7 @@
         [
           "s02e06-6-094:1-2",
           "s02e06-6-095:0-4",
-          "s02e06-6-096:0-4",
-          "s02e06-6-097:0-2"
+          "s02e06-6-096:0-2"
         ]
       ],
       "request": {
@@ -26295,7 +26291,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Kevin. Matteo prende tre tazze pulite. Mette l'acqua nella caffettiera? No. Prende la camomilla.",
+                "text": "dice Kevin. Matteo prende tre tazze pulite. Prende la camomilla.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -26336,14 +26332,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-098"
+        "s02e06-6-097"
       ],
       "words": [
         [
-          "s02e06-6-098:0-2"
+          "s02e06-6-097:0-2"
         ],
         [
-          "s02e06-6-098:3-4"
+          "s02e06-6-097:3-4"
         ]
       ],
       "request": {
@@ -26406,14 +26402,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-099"
+        "s02e06-6-098"
       ],
       "words": [
         [
-          "s02e06-6-099:0-1"
+          "s02e06-6-098:0-1"
         ],
         [
-          "s02e06-6-099:2-3"
+          "s02e06-6-098:2-3"
         ]
       ],
       "request": {
@@ -26476,18 +26472,18 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s02e06-6-099",
         "s02e06-6-100",
-        "s02e06-6-101",
-        "s02e06-6-102"
+        "s02e06-6-101"
       ],
       "words": [
         [
-          "s02e06-6-100:0-1"
+          "s02e06-6-099:0-1"
         ],
         [
-          "s02e06-6-100:2-3",
-          "s02e06-6-101:0-3",
-          "s02e06-6-102:0-4"
+          "s02e06-6-099:2-3",
+          "s02e06-6-100:0-3",
+          "s02e06-6-101:0-4"
         ]
       ],
       "request": {
@@ -26550,23 +26546,23 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s02e06-6-102",
         "s02e06-6-103",
-        "s02e06-6-104",
-        "s02e06-6-105"
+        "s02e06-6-104"
       ],
       "words": [
         [
-          "s02e06-6-103:0-4"
+          "s02e06-6-102:0-4"
         ],
         [
-          "s02e06-6-103:5-6",
-          "s02e06-6-104:0-3"
+          "s02e06-6-102:5-6",
+          "s02e06-6-103:0-3"
         ],
         [
-          "s02e06-6-105:0-5"
+          "s02e06-6-104:0-5"
         ],
         [
-          "s02e06-6-105:6-7"
+          "s02e06-6-104:6-7"
         ]
       ],
       "request": {
@@ -26651,14 +26647,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-106"
+        "s02e06-6-105"
       ],
       "words": [
         [
-          "s02e06-6-106:0-1"
+          "s02e06-6-105:0-1"
         ],
         [
-          "s02e06-6-106:2-3"
+          "s02e06-6-105:2-3"
         ]
       ],
       "request": {
@@ -26721,14 +26717,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-107"
+        "s02e06-6-106"
       ],
       "words": [
         [
-          "s02e06-6-107:0-10"
+          "s02e06-6-106:0-10"
         ],
         [
-          "s02e06-6-107:11-12"
+          "s02e06-6-106:11-12"
         ]
       ],
       "request": {
@@ -26791,20 +26787,20 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s02e06-6-107",
         "s02e06-6-108",
         "s02e06-6-109",
-        "s02e06-6-110",
-        "s02e06-6-111"
+        "s02e06-6-110"
       ],
       "words": [
         [
-          "s02e06-6-108:0-0"
+          "s02e06-6-107:0-0"
         ],
         [
-          "s02e06-6-108:1-2",
-          "s02e06-6-109:0-3",
-          "s02e06-6-110:0-6",
-          "s02e06-6-111:0-7"
+          "s02e06-6-107:1-2",
+          "s02e06-6-108:0-3",
+          "s02e06-6-109:0-6",
+          "s02e06-6-110:0-7"
         ]
       ],
       "request": {
@@ -26867,21 +26863,21 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-112",
-        "s02e06-6-113"
+        "s02e06-6-111",
+        "s02e06-6-112"
       ],
       "words": [
         [
-          "s02e06-6-112:0-4"
+          "s02e06-6-111:0-4"
         ],
         [
-          "s02e06-6-112:5-6"
+          "s02e06-6-111:5-6"
         ],
         [
-          "s02e06-6-113:0-6"
+          "s02e06-6-112:0-6"
         ],
         [
-          "s02e06-6-113:7-8"
+          "s02e06-6-112:7-8"
         ]
       ],
       "request": {
@@ -26966,14 +26962,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-114"
+        "s02e06-6-113"
       ],
       "words": [
         [
-          "s02e06-6-114:0-6"
+          "s02e06-6-113:0-6"
         ],
         [
-          "s02e06-6-114:7-8"
+          "s02e06-6-113:7-8"
         ]
       ],
       "request": {
@@ -27036,23 +27032,23 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s02e06-6-114",
         "s02e06-6-115",
-        "s02e06-6-116",
-        "s02e06-6-117"
+        "s02e06-6-116"
       ],
       "words": [
         [
-          "s02e06-6-115:0-1"
+          "s02e06-6-114:0-1"
         ],
         [
-          "s02e06-6-115:2-3",
-          "s02e06-6-116:0-3"
+          "s02e06-6-114:2-3",
+          "s02e06-6-115:0-3"
         ],
         [
-          "s02e06-6-117:0-2"
+          "s02e06-6-116:0-2"
         ],
         [
-          "s02e06-6-117:3-4"
+          "s02e06-6-116:3-4"
         ]
       ],
       "request": {
@@ -27137,16 +27133,16 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e06-6-118",
-        "s02e06-6-119"
+        "s02e06-6-117",
+        "s02e06-6-118"
       ],
       "words": [
         [
-          "s02e06-6-118:0-0"
+          "s02e06-6-117:0-0"
         ],
         [
-          "s02e06-6-118:1-2",
-          "s02e06-6-119:0-5"
+          "s02e06-6-117:1-2",
+          "s02e06-6-118:0-5"
         ]
       ],
       "request": {
@@ -27838,7 +27834,7 @@
         ],
         [
           "s02e06-7-019:4-5",
-          "s02e06-7-020:0-5"
+          "s02e06-7-020:0-4"
         ]
       ],
       "request": {
@@ -27860,7 +27856,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Franco. Kevin entra e lo saluta tutti.",
+                "text": "dice Franco. Kevin entra e saluta tutti.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

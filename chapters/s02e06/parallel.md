@@ -343,7 +343,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora.» dice Chiara. | "So," Chiara says. |
 | «Allora che cosa?» chiede Kevin. | "So what?" Kevin asks. |
 | «Kevin, **lo** sai.» dice Chiara. | "Kevin, you know **it**," Chiara says. |
-| «Chi, io? Non **lo** so niente.» dice Kevin. | "Me? I don't know anything," Kevin says. |
+| «Chi, io? Non so niente.» dice Kevin. | "Me? I don't know anything," Kevin says. |
 | Emma alza gli occhi al cielo. | Emma rolls her eyes. |
 | «Ornella ha chiamato alle quattro.» dice Chiara. | "Ornella called at four," Chiara says. |
 | «Ah. La signora Galli.» dice Kevin. | "Ah. Signora Galli," Kevin says. |
@@ -438,7 +438,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi ci pensa un secondo. | Then he thinks about it for a second. |
 | «Oggi niente caffè. Facciamo la **camomilla** per tutti.» dice Kevin. | "No coffee today. Let's make **chamomile tea** for everybody," Kevin says. |
 | «Kevin, tu non bevi mai la camomilla.» dice Emma. | "Kevin, you never drink chamomile tea," Emma says. |
-| «Oggi sì. È una **emozione** grande.» dice Kevin. | "Today I do. It's a big **emotion**," Kevin says. |
+| «Oggi sì. È un'**emozione** grande.» dice Kevin. | "Today I do. It's a big **emotion**," Kevin says. |
 | «Si dice: è una bella emozione.» dice Emma. | "You say: it's a good feeling," Emma says. |
 | «Esatto! Una bella emozione.» dice Kevin. | "Exactly! A good feeling," Kevin says. |
 | Nel **cuore** di Kevin c'è una festa. | In Kevin's **heart** there's a party. |
@@ -551,7 +551,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Guarda il numero nove, la casa di Franco. | She looks at number nine, Franco's house. |
 | Ha una luce accesa. | It has a light on. |
 | «Signor Carter, lei conosce Anna?» chiede Ornella. | "Signor Carter, did you know Anna?" Ornella asks. |
-| «La moglie di Franco. Sì, ma non **l'** ho conosciuta.» dice Kevin. | "Franco's wife. Yes, but I never met **her**," Kevin says. |
+| «La moglie di Franco. Sì, ma non **l'**ho conosciuta.» dice Kevin. | "Franco's wife. Yes, but I never met **her**," Kevin says. |
 | «Anna ha avuto due figli.» dice Ornella. | "Anna had two children," Ornella says. |
 | «Chiara e Matteo.» dice Kevin. | "Chiara and Matteo," Kevin says. |
 | «Quando aspettava Matteo, la via aspettava con lei.» dice Ornella. | "When she was expecting Matteo, the street waited with her," Ornella says. |
@@ -583,7 +583,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Buonanotte, signori.» dice Ornella. | "Goodnight, gentlemen," Ornella says. |
 | E chiude la finestra. | And she closes the window. |
 | Kevin prende le buste. | Kevin picks up the bags. |
-| Leo prende il gatto? No. Il gatto è di Ornella. | Leo picks up the cat? No. The cat belongs to Ornella. |
 | Leo prende una busta della **spesa**. | Leo picks up one bag of **groceries**. |
 | «Grazie, Leo.» dice Kevin. | "Thanks, Leo," Kevin says. |
 | Leo dà un **bacio** alla finestra chiusa di Ornella. | Leo blows a **kiss** at Ornella's closed window. |
@@ -619,7 +618,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Matteo **la** guarda. | Matteo looks at **her**. |
 | Ha la **voce** bassa. | He has a low **voice**. |
 | «Tre settimane?» chiede Matteo. | "Three weeks?" Matteo asks. |
-| «Sì. E non **lo** dico a nessuno fino a oggi.» dice Nadia. | "Yes. And I haven't told anyone until today," Nadia says. |
+| «Sì. E non **l'**ho detto a nessuno fino a oggi.» dice Nadia. | "Yes. And I haven't told anyone until today," Nadia says. |
 | «Nemmeno a tua madre?» chiede Matteo. | "Not even your mother?" Matteo asks. |
 | «Mia madre **lo** ha capito a Pasquetta.» dice Nadia. | "My mother figured **it** out at Easter Monday," Nadia says. |
 | «Ah. Samira.» dice Matteo. | "Ah. Samira," Matteo says. |
@@ -688,7 +687,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Kevin, hai una faccia da pubblicità.» dice Nadia. | "Kevin, you have an ad-man face," Nadia says. |
 | «Grazie.» dice Kevin. | "Thanks," Kevin says. |
 | Matteo prende tre **tazze** pulite. | Matteo takes three clean **cups**. |
-| Mette l'acqua nella caffettiera? No. | He puts water in the coffee maker? No. |
 | Prende la **camomilla**. | He takes the **chamomile tea**. |
 | «**Brindisi** di camomilla?» chiede Matteo. | "A **toast** with chamomile tea?" Matteo asks. |
 | «Perché no?» dice Nadia. | "Why not?" Nadia says. |
@@ -736,7 +734,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Una **camomilla**.» dice Franco. | "A **chamomile tea**," Franco says. |
 | «Papà, sono le otto di mattina.» dice Matteo. | "Dad, it's eight in the morning," Matteo says. |
 | «Una camomilla per Nadia.» dice Franco. | "A chamomile tea for Nadia," Franco says. |
-| Kevin entra e **lo** saluta tutti. | Kevin comes in and greets everyone. |
+| Kevin entra e saluta tutti. | Kevin comes in and greets everyone. |
 | «Buongiorno! Un decaffeinato, per favore.» dice Kevin. | "Good morning! A decaf, please," Kevin says. |
 | Matteo **lo** guarda male. | Matteo gives **him** a dirty look. |
 | «Kevin, tu bevi sempre il caffè normale.» dice Matteo. | "Kevin, you always drink normal coffee," Matteo says. |

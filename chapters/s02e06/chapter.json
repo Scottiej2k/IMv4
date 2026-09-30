@@ -138,7 +138,7 @@
       "lemma": "l'emozione",
       "pos": "noun",
       "en": "emotion, feeling",
-      "example": "s02e06-7-043",
+      "example": "s02e06-4-111",
       "target": {
         "it": "emozione",
         "en": "emotion"
@@ -346,7 +346,7 @@
       "lemma": "il bacio",
       "pos": "noun",
       "en": "kiss",
-      "example": "s02e06-6-119",
+      "example": "s02e06-6-118",
       "target": {
         "it": "bacio",
         "en": "kiss"
@@ -27074,12 +27074,12 @@
           "segments": [
             {
               "id": "s02e06-4-016",
-              "it": "«Chi, io? Non **lo** so niente.» dice Kevin.",
+              "it": "«Chi, io? Non so niente.» dice Kevin.",
               "en": "\"Me? I don't know anything,\" Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Chi, io? Non **lo** so niente.",
+                  "Chi, io? Non so niente.",
                   "bad liar"
                 ],
                 [
@@ -27125,18 +27125,8 @@
                   ""
                 ],
                 [
-                  "lo",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "so",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -27146,7 +27136,7 @@
                 ],
                 [
                   "niente",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -27156,7 +27146,7 @@
                 ],
                 [
                   "dice",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -27166,7 +27156,7 @@
                 ],
                 [
                   "Kevin",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -27174,9 +27164,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-dop"
               ]
             },
             {
@@ -35288,12 +35275,12 @@
           "segments": [
             {
               "id": "s02e06-4-111",
-              "it": "«Oggi sì. È una **emozione** grande.» dice Kevin.",
+              "it": "«Oggi sì. È un'**emozione** grande.» dice Kevin.",
               "en": "\"Today I do. It's a big **emotion**,\" Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Oggi sì. È una **emozione** grande.",
+                  "Oggi sì. È un'**emozione** grande.",
                   ""
                 ],
                 [
@@ -35339,12 +35326,12 @@
                   ""
                 ],
                 [
-                  "una",
+                  "un",
                   3,
                   ""
                 ],
                 [
-                  " ",
+                  "'",
                   -1,
                   ""
                 ],
@@ -44263,12 +44250,12 @@
           "segments": [
             {
               "id": "s02e06-5-079",
-              "it": "«La moglie di Franco. Sì, ma non **l'** ho conosciuta.» dice Kevin.",
+              "it": "«La moglie di Franco. Sì, ma non **l'**ho conosciuta.» dice Kevin.",
               "en": "\"Franco's wife. Yes, but I never met **her**,\" Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "La moglie di Franco. Sì, ma non **l'** ho conosciuta.",
+                  "La moglie di Franco. Sì, ma non **l'**ho conosciuta.",
                   ""
                 ],
                 [
@@ -44362,11 +44349,6 @@
                   "'",
                   -1,
                   "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
                 ],
                 [
                   "ho",
@@ -47290,120 +47272,6 @@
             },
             {
               "id": "s02e06-5-111",
-              "it": "Leo prende il gatto? No. Il gatto è di Ornella.",
-              "en": "Leo picks up the cat? No. The cat belongs to Ornella.",
-              "voice": [
-                [
-                  "narrator",
-                  "Leo prende il gatto? No. Il gatto è di Ornella.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Leo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gatto",
-                  3,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  4,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gatto",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ornella",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e06-5-112",
               "it": "Leo prende una busta della **spesa**.",
               "en": "Leo picks up one bag of **groceries**.",
               "voice": [
@@ -47480,7 +47348,7 @@
               ]
             },
             {
-              "id": "s02e06-5-113",
+              "id": "s02e06-5-112",
               "it": "«Grazie, Leo.» dice Kevin.",
               "en": "\"Thanks, Leo,\" Kevin says.",
               "voice": [
@@ -47548,7 +47416,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-5-114",
+              "id": "s02e06-5-113",
               "it": "Leo dà un **bacio** alla finestra chiusa di Ornella.",
               "en": "Leo blows a **kiss** at Ornella's closed window.",
               "voice": [
@@ -47655,7 +47523,7 @@
               ]
             },
             {
-              "id": "s02e06-5-115",
+              "id": "s02e06-5-114",
               "it": "«Buonanotte, nonna del cuore.» dice Leo.",
               "en": "\"Goodnight, grandma of the heart,\" Leo says.",
               "voice": [
@@ -49772,12 +49640,12 @@
           "segments": [
             {
               "id": "s02e06-6-027",
-              "it": "«Sì. E non **lo** dico a nessuno fino a oggi.» dice Nadia.",
+              "it": "«Sì. E non **l'**ho detto a nessuno fino a oggi.» dice Nadia.",
               "en": "\"Yes. And I haven't told anyone until today,\" Nadia says.",
               "voice": [
                 [
                   "nadia",
-                  "Sì. E non **lo** dico a nessuno fino a oggi.",
+                  "Sì. E non **l'**ho detto a nessuno fino a oggi.",
                   ""
                 ],
                 [
@@ -49823,17 +49691,17 @@
                   ""
                 ],
                 [
-                  "lo",
+                  "l",
                   3,
                   "b"
                 ],
                 [
-                  " ",
+                  "'",
                   -1,
-                  ""
+                  "b"
                 ],
                 [
-                  "dico",
+                  "ho",
                   4,
                   ""
                 ],
@@ -49843,7 +49711,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "detto",
                   5,
                   ""
                 ],
@@ -49853,7 +49721,7 @@
                   ""
                 ],
                 [
-                  "nessuno",
+                  "a",
                   6,
                   ""
                 ],
@@ -49863,7 +49731,7 @@
                   ""
                 ],
                 [
-                  "fino",
+                  "nessuno",
                   7,
                   ""
                 ],
@@ -49873,7 +49741,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "fino",
                   8,
                   ""
                 ],
@@ -49883,8 +49751,18 @@
                   ""
                 ],
                 [
-                  "oggi",
+                  "a",
                   9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "oggi",
+                  10,
                   ""
                 ],
                 [
@@ -49894,7 +49772,7 @@
                 ],
                 [
                   "dice",
-                  10,
+                  11,
                   ""
                 ],
                 [
@@ -49904,7 +49782,7 @@
                 ],
                 [
                   "Nadia",
-                  11,
+                  12,
                   ""
                 ],
                 [
@@ -55830,70 +55708,6 @@
             },
             {
               "id": "s02e06-6-096",
-              "it": "Mette l'acqua nella caffettiera? No.",
-              "en": "He puts water in the coffee maker? No.",
-              "voice": [
-                [
-                  "narrator",
-                  "Mette l'acqua nella caffettiera? No.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Mette",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l'acqua",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nella",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffettiera",
-                  3,
-                  ""
-                ],
-                [
-                  "? ",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e06-6-097",
               "it": "Prende la **camomilla**.",
               "en": "He takes the **chamomile tea**.",
               "voice": [
@@ -55940,7 +55754,7 @@
               ]
             },
             {
-              "id": "s02e06-6-098",
+              "id": "s02e06-6-097",
               "it": "«**Brindisi** di camomilla?» chiede Matteo.",
               "en": "\"A **toast** with chamomile tea?\" Matteo asks.",
               "voice": [
@@ -56021,7 +55835,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-099",
+              "id": "s02e06-6-098",
               "it": "«Perché no?» dice Nadia.",
               "en": "\"Why not?\" Nadia says.",
               "voice": [
@@ -56089,7 +55903,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-100",
+              "id": "s02e06-6-099",
               "it": "«Va bene.» dice Kevin.",
               "en": "\"Fine,\" Kevin says.",
               "voice": [
@@ -56157,7 +55971,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-101",
+              "id": "s02e06-6-100",
               "it": "Matteo prepara tre camomille.",
               "en": "Matteo makes three chamomile teas.",
               "voice": [
@@ -56211,7 +56025,7 @@
               ]
             },
             {
-              "id": "s02e06-6-102",
+              "id": "s02e06-6-101",
               "it": "Poi prende una **bottiglia** d'acqua.",
               "en": "Then he takes a **bottle** of water.",
               "voice": [
@@ -56278,7 +56092,7 @@
               ]
             },
             {
-              "id": "s02e06-6-103",
+              "id": "s02e06-6-102",
               "it": "«Anche l'acqua. Per il **brindisi**.» dice Matteo.",
               "en": "\"Water too. For the **toast**,\" Matteo says.",
               "voice": [
@@ -56375,7 +56189,7 @@
               ]
             },
             {
-              "id": "s02e06-6-104",
+              "id": "s02e06-6-103",
               "it": "Alza la sua **tazza**.",
               "en": "He raises his **cup**.",
               "voice": [
@@ -56432,7 +56246,7 @@
               ]
             },
             {
-              "id": "s02e06-6-105",
+              "id": "s02e06-6-104",
               "it": "«A noi tre. E al **bambino**.» dice Matteo.",
               "en": "\"To the three of us. And to the **baby**,\" Matteo says.",
               "voice": [
@@ -56543,7 +56357,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-106",
+              "id": "s02e06-6-105",
               "it": "«Al **bambino**.» dice Nadia.",
               "en": "\"To the **baby**,\" Nadia says.",
               "voice": [
@@ -56614,7 +56428,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-107",
+              "id": "s02e06-6-106",
               "it": "«Al bambino. E a Nadia, che è **incinta** e beve camomilla.» dice Kevin.",
               "en": "\"To the baby. And to Nadia, who is **pregnant** and drinks chamomile tea,\" Kevin says.",
               "voice": [
@@ -56775,7 +56589,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-108",
+              "id": "s02e06-6-107",
               "it": "«Kevin!» dice Nadia.",
               "en": "\"Kevin!\" Nadia says.",
               "voice": [
@@ -56833,7 +56647,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-109",
+              "id": "s02e06-6-108",
               "it": "Bevono tutti e tre.",
               "en": "All three drink.",
               "voice": [
@@ -56887,7 +56701,7 @@
               ]
             },
             {
-              "id": "s02e06-6-110",
+              "id": "s02e06-6-109",
               "it": "Nel **cuore** di Matteo c'è tanta **gioia**.",
               "en": "In Matteo's **heart** there's a lot of **joy**.",
               "voice": [
@@ -56975,7 +56789,7 @@
               ]
             },
             {
-              "id": "s02e06-6-111",
+              "id": "s02e06-6-110",
               "it": "Sul bancone c'è una foto piccola e grigia.",
               "en": "On the counter there's a small, gray photo.",
               "voice": [
@@ -57069,7 +56883,7 @@
               ]
             },
             {
-              "id": "s02e06-6-112",
+              "id": "s02e06-6-111",
               "it": "_Mia figlia o mio figlio?_ pensa Matteo.",
               "en": "_My daughter or my son?_",
               "voice": [
@@ -57163,7 +56977,7 @@
               ]
             },
             {
-              "id": "s02e06-6-113",
+              "id": "s02e06-6-112",
               "it": "_Non **lo** so. Ma **lo** voglio sapere._ pensa Matteo.",
               "en": "_I don't know **it**. But I want to know **it**._",
               "voice": [
@@ -57284,7 +57098,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-114",
+              "id": "s02e06-6-113",
               "it": "«Domani **lo** dico a tutti. Alle otto.» dice Nadia.",
               "en": "\"Tomorrow I'll tell everybody. At eight,\" Nadia says.",
               "voice": [
@@ -57405,7 +57219,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-115",
+              "id": "s02e06-6-114",
               "it": "«Va bene.» dice Matteo.",
               "en": "\"Okay,\" Matteo says.",
               "voice": [
@@ -57469,7 +57283,7 @@
               ]
             },
             {
-              "id": "s02e06-6-116",
+              "id": "s02e06-6-115",
               "it": "Poi Matteo si illumina.",
               "en": "Then Matteo lights up.",
               "voice": [
@@ -57523,7 +57337,7 @@
               ]
             },
             {
-              "id": "s02e06-6-117",
+              "id": "s02e06-6-116",
               "it": "«Ho un'idea geniale!» dice Matteo.",
               "en": "\"I have a brilliant idea!\" Matteo says.",
               "voice": [
@@ -57601,7 +57415,7 @@
         {
           "segments": [
             {
-              "id": "s02e06-6-118",
+              "id": "s02e06-6-117",
               "it": "«No.» dice Nadia.",
               "en": "\"No,\" Nadia says.",
               "voice": [
@@ -57655,7 +57469,7 @@
               ]
             },
             {
-              "id": "s02e06-6-119",
+              "id": "s02e06-6-118",
               "it": "E **lo** dice con un **bacio**.",
               "en": "And she says **it** with a **kiss**.",
               "voice": [
@@ -59237,12 +59051,12 @@
           "segments": [
             {
               "id": "s02e06-7-020",
-              "it": "Kevin entra e **lo** saluta tutti.",
+              "it": "Kevin entra e saluta tutti.",
               "en": "Kevin comes in and greets everyone.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin entra e **lo** saluta tutti.",
+                  "Kevin entra e saluta tutti.",
                   ""
                 ]
               ],
@@ -59278,18 +59092,8 @@
                   ""
                 ],
                 [
-                  "lo",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "saluta",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -59299,7 +59103,7 @@
                 ],
                 [
                   "tutti",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -59307,9 +59111,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-dop"
               ]
             },
             {

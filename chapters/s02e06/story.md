@@ -334,7 +334,7 @@ Leo è seduto al tavolo con un quaderno. Emma arriva con un piatto e **lo** mett
 
 «Kevin, **lo** sai.» dice Chiara.
 
-«Chi, io? Non **lo** so niente.» dice Kevin. Emma alza gli occhi al cielo.
+«Chi, io? Non so niente.» dice Kevin. Emma alza gli occhi al cielo.
 
 «Ornella ha chiamato alle quattro.» dice Chiara.
 
@@ -458,7 +458,7 @@ Kevin prende la caffettiera. Poi ci pensa un secondo. «Oggi niente caffè. Facc
 
 «Kevin, tu non bevi mai la camomilla.» dice Emma.
 
-«Oggi sì. È una **emozione** grande.» dice Kevin.
+«Oggi sì. È un'**emozione** grande.» dice Kevin.
 
 «Si dice: è una bella emozione.» dice Emma.
 
@@ -596,7 +596,7 @@ Kevin non **lo** sa. «Questo non **lo** so, Leo.» dice Kevin.
 
 Ornella guarda la strada. Guarda il numero nove, la casa di Franco. Ha una luce accesa. «Signor Carter, lei conosce Anna?» chiede Ornella.
 
-«La moglie di Franco. Sì, ma non **l'** ho conosciuta.» dice Kevin.
+«La moglie di Franco. Sì, ma non **l'**ho conosciuta.» dice Kevin.
 
 «Anna ha avuto due figli.» dice Ornella.
 
@@ -640,7 +640,7 @@ Ornella ride. «Piano, Leo. Prima la **verità** di Nadia.» dice Ornella.
 
 «Buonanotte, signori.» dice Ornella. E chiude la finestra.
 
-Kevin prende le buste. Leo prende il gatto? No. Il gatto è di Ornella. Leo prende una busta della **spesa**. «Grazie, Leo.» dice Kevin.
+Kevin prende le buste. Leo prende una busta della **spesa**. «Grazie, Leo.» dice Kevin.
 
 Leo dà un **bacio** alla finestra chiusa di Ornella. «Buonanotte, nonna del cuore.» dice Leo.
 
@@ -672,7 +672,7 @@ Nadia prende un panno e asciuga l'ultima **tazza**. Poi tira fuori dalla tasca l
 
 Matteo **la** guarda. Ha la **voce** bassa. «Tre settimane?» chiede Matteo.
 
-«Sì. E non **lo** dico a nessuno fino a oggi.» dice Nadia.
+«Sì. E non **l'**ho detto a nessuno fino a oggi.» dice Nadia.
 
 «Nemmeno a tua madre?» chiede Matteo.
 
@@ -770,7 +770,7 @@ Nadia si mette una mano sulla faccia. Poi ride. «Ma io **lo** dico domani!» di
 
 «Grazie.» dice Kevin.
 
-Matteo prende tre **tazze** pulite. Mette l'acqua nella caffettiera? No. Prende la **camomilla**. «**Brindisi** di camomilla?» chiede Matteo.
+Matteo prende tre **tazze** pulite. Prende la **camomilla**. «**Brindisi** di camomilla?» chiede Matteo.
 
 «Perché no?» dice Nadia.
 
@@ -816,7 +816,7 @@ Franco va al bancone. «Una **camomilla**.» dice Franco.
 
 «Una camomilla per Nadia.» dice Franco.
 
-Kevin entra e **lo** saluta tutti. «Buongiorno! Un decaffeinato, per favore.» dice Kevin.
+Kevin entra e saluta tutti. «Buongiorno! Un decaffeinato, per favore.» dice Kevin.
 
 Matteo **lo** guarda male. «Kevin, tu bevi sempre il caffè normale.» dice Matteo.
 

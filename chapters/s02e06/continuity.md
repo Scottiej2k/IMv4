@@ -1,5 +1,5 @@
 ### s02e06 · Lo sai?
-- **Happened:** Nadia tells Matteo she is three months pregnant during the derby; he announces it to the whole bar. Franco and Lucia already knew (from Carla, at the market); the Carters, Ornella and the street all know too, though nobody says it. Matteo promises Nadia he'll stay silent; Nadia plans to tell everyone officially Monday at 8.
-- **New facts:** Nadia is 3 months pregnant; first scan photo kept in her apron pocket; doctor's appointment Thursday at 5, notary Wednesday at 10; Nadia's mother Samira guessed at Pasquetta; Franco offers to buy the *fiocco* and pays for everyone at the bar Monday; Matteo lives above Bar Tigli; Kevin's supermarket cart still unreturned.
-- **Changed:** Nadia's news is now street-wide but unspoken; Franco will become a grandfather.
-- **Planted:** crib shopping in June, baby's name and sex unknown; Matteo's "idea geniale" (payoff pending).
+- **Happened:** Nadia tells Matteo she is pregnant (3 months) during Sunday's derby at Bar Tigli; he announces it to the whole bar. Sunday evening Matteo tells Franco, who already knew via Carla (at the market, to Lucia). The Carters and Ornella also learn the news; all agree Nadia must announce it herself.
+- **New facts:** Nadia is 3 months pregnant; first visit/ecografia to a male doctor ("il medico") Thursday at 5; notaio appointment Wednesday at 10 (Matteo wrote it on a coaster). Nadia's mother Samira knows since Pasquetta. Matteo and Nadia call each other fidanzati, not married; they live above the bar. The Carters and Nadia plan a fiocco and to buy a culla in June; Kevin returns a supermarket cart.
+- **Changed:** Franco will become a nonno and accepts it ("Complimenti, papà"); Nadia tells everyone Monday at 8, Franco pays for all the drinks.
+- **Planted:** Matteo's new "idea geniale" (not yet revealed); space above the bar for the culla; Nadia's fear about practical matters.

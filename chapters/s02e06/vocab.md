@@ -21,7 +21,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il medico**<br>(n., m) · doctor | «E il **medico**?» chiede. | "And the **doctor**?" Matteo asks. |
 | **l'ecografia**<br>(n., f) · ultrasound scan<br>_The photo the doctor makes to show the baby._ | Guarda l'**ecografia** sul bancone. | He looks at the **ultrasound** on the counter. |
 | **la paura**<br>(n., f) · fear, worry<br>_Avere paura = to be afraid._ | «Con la **paura**.» dice Nadia. | "The **fear**," Nadia says. |
-| **l'emozione**<br>(n., f) · emotion, feeling | Nel suo cuore c'è una bella **emozione**. | In her heart there's a lovely **emotion**. |
+| **l'emozione**<br>(n., f) · emotion, feeling | «Oggi sì. È un'**emozione** grande.» dice Kevin. | "Today I do. It's a big **emotion**," Kevin says. |
 | **la gioia**<br>(n., f) · joy | «Per **gioia**, signor Carter.» dice Ornella. | "Out of **joy**, Signor Carter," Ornella says. |
 | **il brindisi**<br>(n., m) · toast (raising a glass)<br>_Invariable: un brindisi, due brindisi._ | «Per il **brindisi**.» dice Lucia. | "For the **toast**," Lucia says. |
 | **la bottiglia**<br>(n., f) · bottle | Alza una **bottiglia** di aranciata. | He raises a **bottle** of orange soda. |
