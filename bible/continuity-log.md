@@ -171,6 +171,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara now knows about the party; Franco learns of it from Leo before it begins. Ornella suspects and asks to join; Kevin does not confirm.
 - **Planted:** Ornella expects a “pacco”; Lucia sets four glasses for four people and smiles—both unresolved.
 
+### s01e25 · Buon compleanno, Franco
+- **Happened:** Franco's 72nd birthday lunch is held at Via dei Tigli 9. Lucia is introduced to family and neighbors as Franco's compagna; Chiara welcomes her. Kevin gives a toast; Franco thanks Kevin by name. Ornella gives Franco a bottle of Gino's wine.
+- **New facts:** Franco is 72; lunch had 14 guests. Ornella's gift is a bottle of wine from Gino; one glass is poured for Anna. Kevin uses a yellow notebook/cartoncino for toasts and leaves his jacket at Franco's.
+- **Changed:** Lucia's relationship with Franco is now public to the family and street; Chiara accepts her. Franco calls Kevin by name and thanks him; Franco tells Kevin the next day's lunch is at Kevin's house.
+- **Planted:** Lunch at Kevin's house tomorrow; Lucia now openly part of Franco's family events.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
