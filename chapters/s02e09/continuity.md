@@ -1,0 +1,5 @@
+### s02e09 · Mi manca Chicago
+- **Happened:** Kevin is homesick during the second week of the Carter house renovation and finally tells Nadia, then Ornella, that he misses Chicago; he misses being good at something. Ornella invites him for coffee at number 16 and shows him Gino's empty suitcase, packed each summer for a Chicago trip he never made. Emma realizes she no longer misses Chicago, only the lake, and tells Kevin and Chiara.
+- **New facts:** Sergio leads the Carter building crew; his catchphrase is "Nessun problema." Kevin's Chicago friends: Mark, Susan, Peter, Dave, Jenny; Kevin worked twelve years in marketing and is 41. Ornella is 78; Gino died fifteen years ago and had a cousin and job waiting in Chicago, 1968. Kevin's yellow notebook: "Il ricordo è una casa che si porta con sé." Kevin and Ornella plan a Tuesday market outing.
+- **Changed:** Kevin now confesses his homesickness to Nadia and Ornella; Chiara learns of his talks with Ornella and admits she hadn't noticed he was struggling.
+- **Planted:** Kevin's unfinished cookbook and his wish for a job ("Mi serve un lavoro") — payoff later.

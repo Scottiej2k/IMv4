@@ -228,6 +228,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin now knows Franco avoids writing because typing is slow; Tommaso's interest in Emma is open between them.
 - **Planted:** Emma and Tommaso's Saturday gelato date at 5 (needs payoff).
 
+### s02e09 · Mi manca Chicago
+- **Happened:** Kevin is homesick during the second week of the Carter house renovation and finally tells Nadia, then Ornella, that he misses Chicago; he misses being good at something. Ornella invites him for coffee at number 16 and shows him Gino's empty suitcase, packed each summer for a Chicago trip he never made. Emma realizes she no longer misses Chicago, only the lake, and tells Kevin and Chiara.
+- **New facts:** Sergio leads the Carter building crew; his catchphrase is "Nessun problema." Kevin's Chicago friends: Mark, Susan, Peter, Dave, Jenny; Kevin worked twelve years in marketing and is 41. Ornella is 78; Gino died fifteen years ago and had a cousin and job waiting in Chicago, 1968. Kevin's yellow notebook: "Il ricordo è una casa che si porta con sé." Kevin and Ornella plan a Tuesday market outing.
+- **Changed:** Kevin now confesses his homesickness to Nadia and Ornella; Chiara learns of his talks with Ornella and admits she hadn't noticed he was struggling.
+- **Planted:** Kevin's unfinished cookbook and his wish for a job ("Mi serve un lavoro") — payoff later.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
