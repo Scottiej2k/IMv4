@@ -192,6 +192,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara knows about the jar/envelope but not its contents. Kevin talks to Nadia as a friend; Matteo jokes Kevin is his secretary.
 - **Planted:** The broken coffee machine (technician due Friday); Matteo's notary paper and the unopened envelope from Franco; the unattended ceiling crack and Sergio's delayed work.
 
+### s02e03 · Siamo andati a Monza
+- **Happened:** Carter family day trip to Monza by train (10:12 out, 17:40 back); Kevin buys an accidental dog ticket, is official "navigatore," gets them lost; they reach the laghetto, picnic on peanut butter, feed ducks. Emma skips studying, skateboards with Tommaso in the piazza near the church; Ornella saw her and keeps quiet.
+- **New facts:** Monza park has bike rental, a wooden bridge, a small lake with ducks, a white gelato kiosk. Renovation workers return Monday 7 a.m.; Franco is there with house plans. Emma has a blue skateboard, keeps it hidden behind the garden wall; Tommaso's skateboard reads "BASS" (he plays bass; Emma writes songs). Tommaso lives at number 11. Ornella's cat is named Pavarotti; he goes to Franco's garden in the evening. Emma and Tommaso take the Monday train to school together.
+- **Changed:** Ornella knows Emma lied, will not tell Chiara "for now"; Kevin forgot his yellow notebook at home, leaving the plumber Fontana's number inaccessible; Kevin will stay home Monday to supervise workers.
+- **Planted:** Ornella's silence might break when the Carters return; Kevin's phone call to Fontana unresolved.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
