@@ -198,6 +198,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Ornella saw Emma leave and skate with Tommaso, and now knows she lied; she tells Emma she won't inform Chiara "per ora." Leo saw the dusty skateboard behind the garden wall; Emma hides it there.
 - **Planted:** Ornella's silence and her watching window; Kevin alone at home with the workers Monday morning; Emma and Tommaso agreeing to meet Monday at the train.
 
+### s02e04 · Mi sono svegliato tardi
+- **Happened:** Kevin wakes at 8:10 (alarm set for 6:30 p.m.), misses the masons and the 9:00 committee meeting, and forgets Leo's school-trip permission/firma. Roberto fines the masons' van, orders it parked at number four, and sets another meeting Tuesday at 9 with a document. Chiara moves the alarm clock to the kitchen table and puts a pillow on the sofa.
+- **New facts:** Ornella is called Signora Galli; her cat, Pavarotti, rings the Carters' doorbell. Sergio is the masons' foreman. Lucia and Franco are fidanzati; they met at her dance class (tango) and told Leo, who calls her nonna Lucia. Bar Tigli's coffee machine is broken (technician Friday) and its door is broken; Matteo forgot his notary appointment.
+- **Changed:** Leo now knows Franco and Lucia are a couple; Maestra Paola says three children used Ornella's-cat-ate-homework excuse last year.
+- **Planted:** Roberto's Tuesday 9 meeting; plumber Fontana; Matteo's notary; Bertoldi; Franco's envelope/loan; Pavarotti's cushion.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

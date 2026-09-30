@@ -1,0 +1,5 @@
+### s02e04 · Mi sono svegliato tardi
+- **Happened:** Kevin wakes at 8:10 (alarm set for 6:30 p.m.), misses the masons and the 9:00 committee meeting, and forgets Leo's school-trip permission/firma. Roberto fines the masons' van, orders it parked at number four, and sets another meeting Tuesday at 9 with a document. Chiara moves the alarm clock to the kitchen table and puts a pillow on the sofa.
+- **New facts:** Ornella is called Signora Galli; her cat, Pavarotti, rings the Carters' doorbell. Sergio is the masons' foreman. Lucia and Franco are fidanzati; they met at her dance class (tango) and told Leo, who calls her nonna Lucia. Bar Tigli's coffee machine is broken (technician Friday) and its door is broken; Matteo forgot his notary appointment.
+- **Changed:** Leo now knows Franco and Lucia are a couple; Maestra Paola says three children used Ornella's-cat-ate-homework excuse last year.
+- **Planted:** Roberto's Tuesday 9 meeting; plumber Fontana; Matteo's notary; Bertoldi; Franco's envelope/loan; Pavarotti's cushion.
