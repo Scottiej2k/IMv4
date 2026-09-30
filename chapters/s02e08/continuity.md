@@ -1,0 +1,5 @@
+### s02e08 · Gli ho scritto un messaggio
+- **Happened:** Chiara creates a family WhatsApp chat (Kevin, Emma, Leo, Franco, Lucia, Matteo, Nadia); Kevin accidentally sends Franco a red heart, then a thumbs-down, and apologizes by phone. Leo sends a 4-minute voice message to the whole 3ª B parents' group; Kevin deletes it and apologizes to three parents. Bianca sends Tommaso's unsent message to Emma for him; Emma answers in twelve seconds and agrees to gelato Saturday at 5.
+- **New facts:** Maestra Paola teaches Leo's class (3ª B, school Gianni Rodari); Pietro is Leo's classmate and is absent one Tuesday; Ornella does not have the family chat and Leo addresses her as Lei; Emma and Tommaso share a chat; Bianca is in their class at the Monza liceo; Franco's ringtone is his own voice; Franco promises Kevin two tomatoes.
+- **Changed:** Kevin now knows Franco avoids writing because typing is slow; Tommaso's interest in Emma is open between them.
+- **Planted:** Emma and Tommaso's Saturday gelato date at 5 (needs payoff).

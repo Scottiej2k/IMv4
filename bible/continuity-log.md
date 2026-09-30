@@ -222,6 +222,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara and Kevin now know Franco hid the ring for Lucia; Matteo told earlier (says he knew "ieri"). Franco promises not to announce it yet; Chiara keeps the secret.
 - **Planted:** the ring will go to Lucia at an "important moment" — Franco will tell Matteo the full story; Nadia's opinion of the manuals likely re-emerges with the cradle.
 
+### s02e08 · Gli ho scritto un messaggio
+- **Happened:** Chiara creates a family WhatsApp chat (Kevin, Emma, Leo, Franco, Lucia, Matteo, Nadia); Kevin accidentally sends Franco a red heart, then a thumbs-down, and apologizes by phone. Leo sends a 4-minute voice message to the whole 3ª B parents' group; Kevin deletes it and apologizes to three parents. Bianca sends Tommaso's unsent message to Emma for him; Emma answers in twelve seconds and agrees to gelato Saturday at 5.
+- **New facts:** Maestra Paola teaches Leo's class (3ª B, school Gianni Rodari); Pietro is Leo's classmate and is absent one Tuesday; Ornella does not have the family chat and Leo addresses her as Lei; Emma and Tommaso share a chat; Bianca is in their class at the Monza liceo; Franco's ringtone is his own voice; Franco promises Kevin two tomatoes.
+- **Changed:** Kevin now knows Franco avoids writing because typing is slow; Tommaso's interest in Emma is open between them.
+- **Planted:** Emma and Tommaso's Saturday gelato date at 5 (needs payoff).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
