@@ -4,15 +4,15 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Casa Carter, Via dei Tigli 14 · lunedì mattina
+## 1. Casa Carter, Via dei Tigli 14 · mercoledì mattina
 
-È lunedì mattina in Via dei Tigli 14, il primo giorno dei lavori. In casa c'è odore di caffè e di vernice. Chiara è in piedi davanti al tavolo con un foglio in mano.
+È mercoledì mattina in Via dei Tigli 14, il terzo giorno dei lavori. In casa c'è odore di caffè e di vernice. Chiara è in piedi davanti al tavolo con un foglio in mano.
 
 «Allora. Primo: il muro della cucina resta. Secondo: il tubo è sotto il lavandino. Terzo: il **progetto** è firmato.»
 
-Kevin arriva dalla cucina con due tazze. «Buongiorno, signora Ferri. Caffè?»
+Kevin arriva dalla cucina con due tazze. «Buongiorno, Chiara. Caffè?»
 
-«Grazie. Ma adesso mi ascolti, Kevin.»
+«Grazie. Ma adesso ascolta, Kevin.»
 
 «Ti ascolto. **Faccio** una lista anch'io, sai?»
 
@@ -30,7 +30,7 @@ Kevin controlla il cassetto e poi la giacca. «Ah. Le ho **perse** di nuovo.»
 
 Leo entra in cucina con i calzini in mano. «Perché c'è **polvere** dappertutto?»
 
-«Perché oggi arrivano gli operai, Leo.»
+«Perché gli operai lavorano da due giorni, Leo.»
 
 «Che cos'è la **polvere**?»
 
@@ -42,11 +42,11 @@ Leo passa un dito sul tavolo. «Il tavolo è **sporco**!»
 
 Emma scende le scale con lo zaino. «Buongiorno. C'è un camion davanti a casa.»
 
-Kevin corre alla finestra come un bambino. «Sono loro! Ho **visto** il furgone!» Fuori, davanti al cancello, c'è un furgone bianco. Tre uomini scaricano **scale**, secchi e casse di attrezzi. Il capo è un uomo basso con un cappello.
+Kevin corre alla finestra come un bambino. «Sono loro! Ho **visto** il furgone!» Fuori, davanti al cancello, c'è un furgone bianco. Tre uomini scaricano **scale**, secchi e casse di attrezzi. Il caposquadra è un uomo basso con un cappello.
 
-«Buongiorno. Sergio.»
+«Buongiorno, signor Carter. Mi chiamo Sergio. Non "operaio numero uno".»
 
-Kevin gli stringe la mano due volte. «Kevin Carter. Piacere! **Faccio** io le foto, per il blog.»
+Kevin gli stringe la mano due volte. «Scusi, Sergio! **Faccio** io le foto, per il blog.»
 
 «Il blog?»
 
@@ -76,7 +76,7 @@ Leo guarda il trapano con la bocca aperta. «Posso toccarlo?»
 
 «Mai.»
 
-Emma guarda l'orologio e prende lo zaino. «Io vado. Il treno è alle sette e mezza.»
+Emma guarda l'orologio e prende lo zaino. «Io vado. Il treno è alle otto.»
 
 «Emma, il muro della cucina resta, ok?»
 
@@ -84,7 +84,7 @@ Emma guarda l'orologio e prende lo zaino. «Io vado. Il treno è alle sette e me
 
 «Ha **detto** "ok". Per lei è quasi un abbraccio.»
 
-Chiara beve il caffè in due secondi. «Kevin, tu resti qui. Il **lavoro** comincia oggi.»
+Chiara beve il caffè in due secondi. «Kevin, tu resti qui. Il **lavoro** continua oggi.»
 
 «Lo so. Ho **letto** tutto il **progetto** ieri sera.»
 
@@ -104,7 +104,7 @@ Leo si avvicina al foglio. «Dov'è il tesoro?»
 
 «Allora non è una mappa vera.»
 
-Alle sette in punto arriva Franco. Ha un **metro** in mano e una faccia seria. «Buongiorno. Vengo a controllare.»
+Poco dopo arriva Franco. Ha un **metro** in mano e una faccia seria. «Buongiorno. Vengo a controllare.»
 
 «Buongiorno, Franco. Caffè?»
 
@@ -142,7 +142,7 @@ Sergio arriva dal corridoio con il **trapano** in mano. «Allora, signori. Comin
 
 «Nessun problema.»
 
-## 2. Casa Carter, Via dei Tigli 14 · lunedì pomeriggio
+## 2. Casa Carter, Via dei Tigli 14 · mercoledì pomeriggio
 
 È l'una del pomeriggio e la casa è irriconoscibile. C'è **polvere** sul tavolo, sulle sedie, sui libri di Leo. Il pavimento è **bagnato** e vicino al lavandino c'è un **secchio** pieno d'acqua.
 
@@ -256,7 +256,7 @@ Sergio **mette** il trapano sul tavolo e **chiude** la porta del corridoio. «Do
 
 Leo guarda il buco e sorride. «Io domani porto Pavarotti a vedere il passaggio segreto.»
 
-## 3. Via dei Tigli · lunedì pomeriggio
+## 3. Via dei Tigli · mercoledì pomeriggio
 
 Sono le cinque del pomeriggio e in Via dei Tigli c'è ancora il furgone bianco. Davanti al cancello del numero 11 c'è Roberto Colombo. Ha un **quaderno** in una mano e una **matita** nell'altra.
 
@@ -290,7 +290,7 @@ Roberto rilegge un'altra riga. «Ore nove e dieci: due operai **hanno aperto** i
 
 «Il muro sbagliato!»
 
-«Questo non **ho scritto**. Io **ho scritto**": il muro è **aperto**." Solo il fatto.»
+«Questo non **ho scritto**. **Ho scritto**: "il muro è **aperto**." Solo il fatto.»
 
 «Lei **ha visto** tutto, vero?»
 
@@ -392,7 +392,7 @@ Roberto apre di nuovo la finestra. «Signor Carter, una cosa.»
 
 «No. La cena non è un fatto pubblico.» La finestra si chiude.
 
-## 4. Bar Tigli · lunedì sera
+## 4. Bar Tigli · mercoledì sera
 
 Sono le sette e mezza di sera e in Bar Tigli c'è poca gente. Kevin entra con la giacca ancora piena di **polvere**. Va dritto al bancone e **mette** le mani sul legno.
 
@@ -418,7 +418,7 @@ Dietro il bancone c'è una macchina del caffè con un cartello. Sul cartello c'�
 
 «Hai **chiesto** a un tecnico?»
 
-«Ho **fatto** una telefonata. Il **tecnico** arriva giovedì.»
+«Ho **fatto** una telefonata. Il **tecnico** arriva venerdì.»
 
 «E il **tecnico** la **ripara**?»
 
@@ -436,7 +436,7 @@ Nadia arriva dalla cucina con un panno in mano. «Buonasera, Kevin. Ancora **pol
 
 «Il padrone è il signor Bertoldi?»
 
-«No. Il padrone è il signor Colombo. Il padre di Roberto.»
+«No. Il padrone è un signore di Milano. Non risponde mai.»
 
 «Ah. Allora capisco tutto.»
 
@@ -474,7 +474,7 @@ Nadia va dietro il bancone e apre un cassetto. Tira fuori un **foglio** piegato 
 
 «No, ho **fatto** un po' di confusione. Ma va bene.»
 
-Nadia guarda Matteo, poi guarda il **foglio** piegato. Lo **mette** nella giacca di Matteo, davanti a tutti. «Matteo. Domani alle dieci, dal notaio.»
+Nadia guarda Matteo, poi guarda il **foglio** piegato. Lo **mette** nella giacca di Matteo, davanti a tutti. «Matteo. Domani alle dieci, dal notaio. Ieri non hai firmato il foglio.»
 
 «Nadia, non adesso.»
 
@@ -524,13 +524,13 @@ Matteo si alza e guarda la macchina del caffè **rotta**. «Sai, Kevin, oggi ho 
 
 «Mi dispiace.»
 
-«Giovedì il **tecnico** la **ripara**. Se viene.»
+«Venerdì il **tecnico** la **ripara**. Se viene.»
 
 «Il **tecnico** viene. Ho **chiesto** io, no?»
 
 «Ah. Allora **ha risposto** a te?»
 
-«Sì. Ha **detto**: "Giovedì alle nove."»
+«Sì. Ha **detto**: "Venerdì alle nove."»
 
 «Kevin, sei il mio nuovo segretario.»
 
@@ -562,7 +562,7 @@ Kevin **beve** l'ultimo sorso d'acqua. «Buonanotte, raga.»
 
 «Meglio.»
 
-## 5. Casa Carter, Via dei Tigli 14 · lunedì sera
+## 5. Casa Carter, Via dei Tigli 14 · mercoledì sera
 
 Chiara arriva a casa alle sette e mezza, stanca e con la borsa pesante. Apre la porta e si ferma. Davanti a lei c'è un muro **aperto**, un buco enorme in cucina. Il pavimento è **sporco**, il **secchio** è pieno e sul **soffitto** c'è una macchia grigia. Chiara **mette** la borsa sul tavolo e **chiude** gli occhi. Poi li apre e parla con voce calma. «Chi ha **rotto** il muro?»
 
@@ -580,7 +580,7 @@ Franco è in piedi vicino al **rubinetto**, con il **metro** in mano. «La crepa
 
 «Grazie, papà. Molto utile.»
 
-Kevin alza una mano come a scuola. «Signora Ferri, ho **fatto** un'indagine.»
+Kevin alza una mano come a scuola. «Chiara, ho **fatto** un'indagine.»
 
 «Un'indagine?»
 
@@ -654,7 +654,7 @@ Kevin guarda il quaderno di Roberto e sorride. «Signor Colombo, noi siamo colle
 
 Franco si avvicina al muro e passa la mano sulla **crepa**. «Questa **crepa** è sotto la finestra. Vecchia di vent'anni.» Poi guarda il **soffitto**. «Il **soffitto** è **sporco**, ma è grande. La cucina adesso è più grande.»
 
-Chiara guarda il buco, il soffitto, poi il disegno. «Ha ragione, papà. Il muro sbagliato è anche il muro giusto.»
+Chiara guarda il buco, il soffitto, poi il disegno. «Hai ragione, papà. Il muro sbagliato è anche il muro giusto.»
 
 «Come?»
 
@@ -664,7 +664,7 @@ Chiara guarda il buco, il soffitto, poi il disegno. «Ha ragione, papà. Il muro
 
 «Davvero. Ma tu **chiudi** il **tubo** per bene e chiami l'**idraulico** giovedì.»
 
-«L'**idraulico** viene mercoledì. E il **tecnico** giovedì.»
+«L'**idraulico** viene giovedì. E il **tecnico** venerdì.»
 
 «Perfetto. Allora il **lavoro** va avanti.»
 
@@ -692,7 +692,7 @@ Sergio arriva dall'ingresso con il cappello in mano. Guarda il buco e sorride. �
 
 «E il **tubo**?»
 
-«**Sistemato**? No. Ma mercoledì arriva l'**idraulico**.»
+«**Sistemato**? No. Ma giovedì arriva l'**idraulico**.»
 
 «E il **soffitto**?»
 
@@ -712,9 +712,9 @@ Kevin **chiude** il suo quaderno e **mette** la **matita** rossa nella tasca. Gu
 
 «Ma ho **trovato** il colpevole.»
 
-«Il colpevole è un gatto di otto anni, Kevin.»
+«Il colpevole è un bambino di otto anni, Kevin.»
 
-«Un gatto con un **progetto** migliore del mio.»
+«Un bambino con un progetto migliore del mio.»
 
 Chiara ride, finalmente. «La prossima volta **metti** il **progetto** giusto sul tavolo.»
 
@@ -728,9 +728,9 @@ Sergio **apre** la porta e saluta con la mano. «Buonanotte. Domani mattina alle
 
 Sergio si ferma e guarda Kevin. «Questa è la mia frase.»
 
-## 6. Casa Carter, Via dei Tigli 14 · martedì mattina
+## 6. Casa Carter, Via dei Tigli 14 · giovedì mattina
 
-Sono le nove di mattina di martedì. In cucina c'è il signor Bertoldi con il suo cappotto grigio. Kevin prepara il caffè per tutti. Franco è già qui dalle sette, con il **metro** in mano.
+Sono le nove di mattina di giovedì. La riunione di ieri è saltata e il signor Bertoldi arriva solo adesso. In cucina c'è il signor Bertoldi con il suo cappotto grigio. Kevin prepara il caffè per tutti. Franco è già qui dalle sette, con il **metro** in mano.
 
 Bertoldi guarda il muro aperto e poi il foglio. «Allora, signor Carter. Lei ha **fatto** un errore con il muro.»
 

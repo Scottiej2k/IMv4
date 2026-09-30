@@ -22,11 +22,11 @@ la maestra,noun,f,primary-school teacher,A1,s01e01,s01e09 s01e10 s01e12 s01e20 s
 la scuola,noun,f,school,A1,s01e01,s01e07 s01e09 s01e10 s01e11 s01e12 s01e14 s01e16 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s05e03,"la scuola, scuola, scuole"
 la signora,noun,f,"lady, madam",A1,s01e01,s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e02 s05e03,"la signora, signora"
 la strada,noun,f,"street, road",A1,s01e01,s01e02 s01e04 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e13 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e22 s01e23 s01e24 s01e25 s02e01 s05e03,"la strada, strada, strade"
-mi chiamo,expression,,my name is,A1,s01e01,s01e03 s01e07 s01e10 s01e11 s01e12 s01e13 s01e19 s01e23 s02e01,"mi chiamo, si chiama, ti chiami"
+mi chiamo,expression,,my name is,A1,s01e01,s01e03 s01e07 s01e10 s01e11 s01e12 s01e13 s01e19 s01e23 s02e01 s02e02,"mi chiamo, si chiama, ti chiami"
 nuovo,adjective,,new,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s05e03,"nuova, nuove, nuovi, nuovo"
 parlare,verb,,"to speak, to talk",A1,s01e01,s01e02 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s05e03,"parla, parlano, parlare, parli, parliamo, parlo"
 per favore,expression,,please,A1,s01e01,s01e02 s01e04 s01e06 s01e07 s01e11 s01e13 s01e19 s01e21 s01e22 s01e24 s02e02,per favore
-piacere,expression,,pleased to meet you; pleasure,A1,s01e01,s01e08 s01e10 s01e14 s02e02,piacere
+piacere,expression,,pleased to meet you; pleasure,A1,s01e01,s01e08 s01e10 s01e14,piacere
 scusi,expression,,excuse me (formal),A1,s01e01,s01e03 s01e06 s01e07 s01e10 s01e11 s01e17 s01e20 s01e21 s01e22 s02e02 s05e03,scusi
 il bicchiere,noun,m,glass,A1,s01e02,s01e03 s01e05 s01e06 s01e07 s01e09 s01e10 s01e11 s01e12 s01e14 s01e17 s01e18 s01e19 s01e20 s01e21 s01e24 s01e25 s02e01 s02e02,"bicchiere, bicchieri, il bicchiere"
 il caffè,noun,m,coffee,A1,s01e02,s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s05e03,"caffè, il caffè"
@@ -109,7 +109,7 @@ il fratello,noun,m,brother,A1,s01e05,s01e08 s01e12 s02e01,"fratelli, fratello, i
 il marito,noun,m,husband,A1,s01e05,s01e08 s01e11 s01e12 s01e15 s01e17 s05e03,"il marito, mariti, marito"
 il nipote,noun,m,grandchild,A1,s01e05,s01e08 s01e12 s01e19,"il nipote, nipote, nipoti"
 il nonno,noun,m,grandfather,A1,s01e05,s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e23 s01e24 s01e25 s02e01 s05e03,"il nonno, nonni, nonno"
-il padre,noun,m,father,A1,s01e05,s01e07 s01e08 s01e11 s01e12 s01e14 s01e17 s01e18 s01e19 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s05e03,"il padre, padre, padri"
+il padre,noun,m,father,A1,s01e05,s01e07 s01e08 s01e11 s01e12 s01e14 s01e17 s01e18 s01e19 s01e22 s01e23 s01e24 s01e25 s02e01 s05e03,"il padre, padre, padri"
 l'anno,noun,m,year,A1,s01e05,s01e06 s01e08 s01e09 s01e12 s01e13 s01e15 s01e18 s01e19 s01e20 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s05e03,"anni, anno, l'anno"
 la famiglia,noun,f,family,A1,s01e05,s01e06 s01e09 s01e11 s01e12 s01e13 s01e15 s01e16 s01e17 s01e19 s01e22 s01e24 s01e25 s02e01 s05e03,"famiglia, famiglie, la famiglia"
 la figlia,noun,f,daughter,A1,s01e05,s01e06 s01e09 s01e10 s01e12 s01e15 s01e16 s01e17 s01e19 s01e25 s05e03,"figlia, figlie, la figlia"
@@ -159,7 +159,7 @@ i capelli,noun,m,hair,A1,s01e07,s01e10 s01e12 s01e17 s01e18 s01e19 s01e20 s01e22
 il foglio,noun,m,sheet of paper,A1,s01e07,s01e08 s01e09 s01e10 s01e12 s01e16 s01e17 s01e20 s01e22 s01e23 s01e25 s02e01 s02e02 s05e03,"fogli, foglio, il foglio"
 il naso,noun,m,nose,A1,s01e07,s01e13,"il naso, nasi, naso"
 il ragazzo,noun,m,boy,A1,s01e07,s01e10 s01e11 s01e15 s01e19 s01e20 s01e22 s05e03,"il ragazzo, ragazza, ragazze, ragazzi, ragazzo"
-il signore,noun,m,"man, gentleman",A1,s01e07,s01e08 s01e10 s01e11 s01e15 s01e20 s01e21 s01e22 s01e24 s05e03,"il signore, signore"
+il signore,noun,m,"man, gentleman",A1,s01e07,s01e08 s01e10 s01e11 s01e15 s01e20 s01e21 s01e22 s01e24 s02e02 s05e03,"il signore, signore"
 il viaggio,noun,m,"trip, journey",A1,s01e07,s05e03,"il viaggio, viaggi, viaggio"
 intelligente,adjective,,smart,A1,s01e07,s01e21 s05e03,"intelligente, intelligenti"
 l'elenco,noun,m,list,A1,s01e07,s01e23,"elenchi, elenco, l'elenco"
@@ -356,7 +356,7 @@ la mattina,noun,f,morning,A1,s01e15,s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s0
 la sciarpa,noun,f,scarf,A1,s01e15,,"la sciarpa, sciarpa, sciarpe"
 la sera,noun,f,evening,A1,s01e15,s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e23 s01e24 s01e25 s02e01 s02e02 s05e03,"la sera, sera, sere"
 la settimana,noun,f,week,A1,s01e15,s01e21 s01e25 s02e01 s02e02 s05e03,"la settimana, settimana, settimane"
-lunedì,noun,m,Monday,A1,s01e15,s01e16 s01e23 s02e01 s02e02 s05e03,lunedì
+lunedì,noun,m,Monday,A1,s01e15,s01e16 s01e23 s02e01 s05e03,lunedì
 presto,adverb,,"early, soon",A1,s01e15,s01e16 s01e24 s02e01 s05e03,presto
 tardi,adverb,,late,A1,s01e15,s01e19 s02e01 s05e03,tardi
 arrabbiato,adjective,,angry,A1,s01e16,s02e01,"arrabbiata, arrabbiato"
@@ -588,7 +588,7 @@ decidere,verb,,to decide,A2,s02e01,s05e03,"abbiamo deciso, decidere, decido, dec
 i lavori,noun,m,"the works, the renovation",A2,s02e01,s02e02 s05e03,"i lavori, lavori, lavoro"
 ieri,adverb,,yesterday,A2,s02e01,s02e02 s05e03,ieri
 il cantiere,noun,m,building site,A2,s02e01,,"cantiere, cantieri, il cantiere"
-il capo,noun,m,boss; head,A2,s02e01,s02e02 s05e03,"capi, capo, il capo"
+il capo,noun,m,boss; head,A2,s02e01,s05e03,"capi, capo, il capo"
 il consiglio,noun,m,piece of advice,A2,s02e01,,"consigli, consiglio, il consiglio"
 il contratto,noun,m,contract,A2,s02e01,s02e02 s05e03,"contratti, contratto, il contratto"
 il denaro,noun,m,money,A2,s02e01,,"denaro, il denaro"
@@ -603,7 +603,7 @@ l'architetto,noun,m/f,architect,A2,s02e01,s02e02,"architetti, architetto, l'arch
 l'impresa,noun,f,"firm, company",A2,s02e01,,"impresa, imprese, l'impresa"
 l'operaio,noun,m,worker,A2,s02e01,s02e02 s05e03,"l'operaio, operai, operaio"
 la polvere,noun,f,dust,A2,s02e01,s02e02,"la polvere, polvere"
-la riunione,noun,f,meeting,A2,s02e01,,"la riunione, riunione, riunioni"
+la riunione,noun,f,meeting,A2,s02e01,s02e02,"la riunione, riunione, riunioni"
 la settimana scorsa,expression,,last week,A2,s02e01,,"la settimana scorsa, settimana scorsa"
 misurare,verb,,to measure,A2,s02e01,,"abbiamo misurato, ha misurato, ho misurato, misurare, misurato, misuro"
 sporco,adjective,,dirty,A2,s02e01,s02e02 s05e03,"sporca, sporche, sporchi, sporco"

@@ -12,7 +12,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **chiudere**<br>(v.) · to close | «**Chiuso**? Tutto il giorno?» | “**Closed**? All day?” |
 | **mettere**<br>(v.) · to put | «Chi **mette** i chiodi sulla scala?» | “Who **puts** nails on the ladder?” |
 | **perdere**<br>(v.) · to lose | «Non **perdo** mai i fogli.» | “I never **lose** sheets.” |
-| **fare**<br>(v.) · to do; to make | «Hai **fatto** tutto questo?» | “You **did** all this?” |
+| **fare**<br>(v.) · to do; to make | «Chiara, ho **fatto** un'indagine.» | “Chiara, I **did** an investigation.” |
 | **riparare**<br>(v.) · to repair; to fix | «E chi lo **ripara**?» | “And who **fixes** it?” |
 | **sistemare**<br>(v.) · to fix up; to sort out | «**Sistemare** tutto? E quanto costa?» | “**Fix up** everything? And how much does it cost?” |
 | **pulire**<br>(v.) · to clean | «Ok. Allora **pulisco** io.» | “Okay. Then I'll **clean** it myself.” |

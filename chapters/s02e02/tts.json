@@ -38,7 +38,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È lunedì mattina in Via dei Tigli 14, il primo giorno dei lavori. In casa c'è odore di caffè e di vernice. Chiara è in piedi davanti al tavolo con un foglio in mano.",
+                "text": "È mercoledì mattina in Via dei Tigli 14, il terzo giorno dei lavori. In casa c'è odore di caffè e di vernice. Chiara è in piedi davanti al tavolo con un foglio in mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -107,10 +107,10 @@
       ],
       "words": [
         [
-          "s02e02-1-006:0-3"
+          "s02e02-1-006:0-2"
         ],
         [
-          "s02e02-1-007:0-5"
+          "s02e02-1-007:0-4"
         ],
         [
           "s02e02-1-008:0-6"
@@ -124,7 +124,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Buongiorno, signora Ferri. Caffè?",
+                "text": "Buongiorno, Chiara. Caffè?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -135,7 +135,7 @@
               },
               {
                 "type": "text",
-                "text": "Grazie. Ma adesso mi ascolti, Kevin.",
+                "text": "Grazie. Ma adesso ascolta, Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -549,7 +549,7 @@
       ],
       "words": [
         [
-          "s02e02-1-020:0-5"
+          "s02e02-1-020:0-7"
         ],
         [
           "s02e02-1-021:0-3"
@@ -563,7 +563,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Perché oggi arrivano gli operai, Leo.",
+                "text": "Perché gli operai lavorano da due giorni, Leo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -877,7 +877,7 @@
               },
               {
                 "type": "text",
-                "text": "Fuori, davanti al cancello, c'è un furgone bianco. Tre uomini scaricano scale, secchi e casse di attrezzi. Il capo è un uomo basso con un cappello.",
+                "text": "Fuori, davanti al cancello, c'è un furgone bianco. Tre uomini scaricano scale, secchi e casse di attrezzi. Il caposquadra è un uomo basso con un cappello.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -923,7 +923,7 @@
       ],
       "words": [
         [
-          "s02e02-1-033:0-1"
+          "s02e02-1-033:0-9"
         ],
         [
           "s02e02-1-034:0-6"
@@ -937,7 +937,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Buongiorno. Sergio.",
+                "text": "Buongiorno, signor Carter. Mi chiamo Sergio. Non \"operaio numero uno\".",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -995,7 +995,7 @@
       ],
       "words": [
         [
-          "s02e02-1-035:0-9"
+          "s02e02-1-035:0-8"
         ],
         [
           "s02e02-1-036:0-1"
@@ -1012,7 +1012,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin Carter. Piacere! Faccio io le foto, per il blog.",
+                "text": "Scusi, Sergio! Faccio io le foto, per il blog.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1556,7 +1556,7 @@
           "s02e02-1-054:0-6"
         ],
         [
-          "s02e02-1-055:0-8"
+          "s02e02-1-055:0-6"
         ]
       ],
       "request": {
@@ -1578,7 +1578,7 @@
               },
               {
                 "type": "text",
-                "text": "Io vado. Il treno è alle sette e mezza.",
+                "text": "Io vado. Il treno è alle otto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1803,7 +1803,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin, tu resti qui. Il lavoro comincia oggi.",
+                "text": "Kevin, tu resti qui. Il lavoro continua oggi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2167,7 +2167,7 @@
       ],
       "words": [
         [
-          "s02e02-1-073:0-5",
+          "s02e02-1-073:0-3",
           "s02e02-1-074:0-8"
         ],
         [
@@ -2182,7 +2182,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Alle sette in punto arriva Franco. Ha un metro in mano e una faccia seria.",
+                "text": "Poco dopo arriva Franco. Ha un metro in mano e una faccia seria.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6046,7 +6046,7 @@
           "s02e02-3-029:0-2"
         ],
         [
-          "s02e02-3-030:0-13"
+          "s02e02-3-030:0-12"
         ],
         [
           "s02e02-3-031:0-4"
@@ -6077,7 +6077,7 @@
               },
               {
                 "type": "text",
-                "text": "Questo non ho scritto. Io ho scritto\": il muro è aperto.\" Solo il fatto.",
+                "text": "Questo non ho scritto. Ho scritto: \"il muro è aperto.\" Solo il fatto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8405,7 +8405,7 @@
               },
               {
                 "type": "text",
-                "text": "Ho fatto una telefonata. Il tecnico arriva giovedì.",
+                "text": "Ho fatto una telefonata. Il tecnico arriva venerdì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8691,7 +8691,7 @@
               },
               {
                 "type": "text",
-                "text": "No. Il padrone è il signor Colombo. Il padre di Roberto.",
+                "text": "No. Il padrone è un signore di Milano. Non risponde mai.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9428,7 +9428,7 @@
           "s02e02-4-058:0-8"
         ],
         [
-          "s02e02-4-059:0-5"
+          "s02e02-4-059:0-11"
         ]
       ],
       "request": {
@@ -9450,7 +9450,7 @@
               },
               {
                 "type": "text",
-                "text": "Matteo. Domani alle dieci, dal notaio.",
+                "text": "Matteo. Domani alle dieci, dal notaio. Ieri non hai firmato il foglio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10276,7 +10276,7 @@
               },
               {
                 "type": "text",
-                "text": "Giovedì il tecnico la ripara. Se viene.",
+                "text": "Venerdì il tecnico la ripara. Se viene.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10309,7 +10309,7 @@
               },
               {
                 "type": "text",
-                "text": "Sì. Ha detto: \"Giovedì alle nove.\"",
+                "text": "Sì. Ha detto: \"Venerdì alle nove.\"",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11228,7 +11228,7 @@
       ],
       "words": [
         [
-          "s02e02-5-020:0-4"
+          "s02e02-5-020:0-3"
         ],
         [
           "s02e02-5-021:0-0"
@@ -11245,7 +11245,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signora Ferri, ho fatto un'indagine.",
+                "text": "Chiara, ho fatto un'indagine.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13085,7 +13085,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ha ragione, papà. Il muro sbagliato è anche il muro giusto.",
+                "text": "Hai ragione, papà. Il muro sbagliato è anche il muro giusto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13140,7 +13140,7 @@
               },
               {
                 "type": "text",
-                "text": "L'idraulico viene mercoledì. E il tecnico giovedì.",
+                "text": "L'idraulico viene giovedì. E il tecnico venerdì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13692,7 +13692,7 @@
               },
               {
                 "type": "text",
-                "text": "Sistemato? No. Ma mercoledì arriva l'idraulico.",
+                "text": "Sistemato? No. Ma giovedì arriva l'idraulico.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14049,7 +14049,7 @@
               },
               {
                 "type": "text",
-                "text": "Il colpevole è un gatto di otto anni, Kevin.",
+                "text": "Il colpevole è un bambino di otto anni, Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14060,7 +14060,7 @@
               },
               {
                 "type": "text",
-                "text": "Un gatto con un progetto migliore del mio.",
+                "text": "Un bambino con un progetto migliore del mio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14440,7 +14440,7 @@
       ],
       "words": [
         [
-          "s02e02-6-001:0-6",
+          "s02e02-6-001:0-19",
           "s02e02-6-002:0-10",
           "s02e02-6-003:0-5",
           "s02e02-6-004:0-10",
@@ -14458,7 +14458,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sono le nove di mattina di martedì. In cucina c'è il signor Bertoldi con il suo cappotto grigio. Kevin prepara il caffè per tutti. Franco è già qui dalle sette, con il metro in mano. Bertoldi guarda il muro aperto e poi il foglio.",
+                "text": "Sono le nove di mattina di giovedì. La riunione di ieri è saltata e il signor Bertoldi arriva solo adesso. In cucina c'è il signor Bertoldi con il suo cappotto grigio. Kevin prepara il caffè per tutti. Franco è già qui dalle sette, con il metro in mano. Bertoldi guarda il muro aperto e poi il foglio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

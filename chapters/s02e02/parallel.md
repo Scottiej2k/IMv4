@@ -4,17 +4,17 @@
 
 _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
 
-## 1. Casa Carter, Via dei Tigli 14 · lunedì mattina
+## 1. Casa Carter, Via dei Tigli 14 · mercoledì mattina
 
 | Italiano | English |
 |---|---|
-| È lunedì mattina in Via dei Tigli 14, il primo giorno dei lavori. | It's Monday morning at Via dei Tigli 14, the first day of the works. |
+| È mercoledì mattina in Via dei Tigli 14, il terzo giorno dei lavori. | It's Wednesday morning at Via dei Tigli 14, the third day of the works. |
 | In casa c'è odore di caffè e di vernice. | In the house there's a smell of coffee and paint. |
 | Chiara è in piedi davanti al tavolo con un foglio in mano. | Chiara is standing in front of the table with a sheet of paper in her hand. |
 | «Allora. Primo: il muro della cucina resta. Secondo: il tubo è sotto il lavandino. Terzo: il **progetto** è firmato.» | “So. First: the kitchen wall stays. Second: the pipe is under the sink. Third: the **plan** is signed.” |
 | Kevin arriva dalla cucina con due tazze. | Kevin comes from the kitchen with two cups. |
-| «Buongiorno, signora Ferri. Caffè?» | “Good morning, Mrs. Ferri. Coffee?” |
-| «Grazie. Ma adesso mi ascolti, Kevin.» | “Thanks. But now you listen to me, Kevin.” |
+| «Buongiorno, Chiara. Caffè?» | “Good morning, Chiara. Coffee?” |
+| «Grazie. Ma adesso ascolta, Kevin.» | “Thanks. But now listen, Kevin.” |
 | «Ti ascolto. **Faccio** una lista anch'io, sai?» | “I'm listening. I **make** a list too, you know?” |
 | Chiara guarda il tavolo: ci sono fogli, matite e un **metro**. | Chiara looks at the table: there are sheets, pencils and a **tape measure**. |
 | «Kevin, dove sono le chiavi?» | “Kevin, where are the keys?” |
@@ -27,7 +27,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara non ride, ma quasi. | Chiara doesn't laugh, but almost. |
 | Leo entra in cucina con i calzini in mano. | Leo comes into the kitchen with his socks in his hand. |
 | «Perché c'è **polvere** dappertutto?» | “Why is there **dust** everywhere?” |
-| «Perché oggi arrivano gli operai, Leo.» | “Because the workers are coming today, Leo.” |
+| «Perché gli operai lavorano da due giorni, Leo.» | “Because the workers have been working for two days, Leo.” |
 | «Che cos'è la **polvere**?» | “What is **dust**?” |
 | «È quella cosa grigia che adesso è su tutto.» | “It's that gray stuff that's on everything now.” |
 | Leo passa un dito sul tavolo. | Leo runs a finger over the table. |
@@ -39,10 +39,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sono loro! Ho **visto** il furgone!» | “It's them! I've **seen** the van!” |
 | Fuori, davanti al cancello, c'è un furgone bianco. | Outside, in front of the gate, there's a white van. |
 | Tre uomini scaricano **scale**, secchi e casse di attrezzi. | Three men unload **ladders**, buckets and boxes of tools. |
-| Il capo è un uomo basso con un cappello. | The boss is a short man with a hat. |
-| «Buongiorno. Sergio.» | “Good morning. Sergio.” |
+| Il caposquadra è un uomo basso con un cappello. | The foreman is a short man with a hat. |
+| «Buongiorno, signor Carter. Mi chiamo Sergio. Non "operaio numero uno".» | “Good morning, Mr. Carter. My name is Sergio. Not 'worker number one.'” |
 | Kevin gli stringe la mano due volte. | Kevin shakes his hand twice. |
-| «Kevin Carter. Piacere! **Faccio** io le foto, per il blog.» | “Kevin Carter. Nice to meet you! I **take** the photos, for the blog.” |
+| «Scusi, Sergio! **Faccio** io le foto, per il blog.» | “Sorry, Sergio! I **take** the photos, for the blog.” |
 | «Il blog?» | “The blog?” |
 | «Sì. La storia della nostra cucina nuova.» | “Yes. The story of our new kitchen.” |
 | Sergio entra in casa e **mette** una **scala** in corridoio. | Sergio comes into the house and **puts** a **ladder** in the hallway. |
@@ -62,13 +62,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Mai?» | “Never?” |
 | «Mai.» | “Never.” |
 | Emma guarda l'orologio e prende lo zaino. | Emma looks at the clock and picks up her backpack. |
-| «Io vado. Il treno è alle sette e mezza.» | “I'm going. The train is at seven thirty.” |
+| «Io vado. Il treno è alle otto.» | “I'm going. The train is at eight.” |
 | «Emma, il muro della cucina resta, ok?» | “Emma, the kitchen wall stays, okay?” |
 | «Ok. Ma non mi interessa.» | “Okay. But I don't care.” |
 | Emma esce e **chiude** la porta con forza. | Emma goes out and **closes** the door hard. |
 | «Ha **detto** "ok". Per lei è quasi un abbraccio.» | “She **said** “okay.” For her that's almost a hug.” |
 | Chiara beve il caffè in due secondi. | Chiara drinks her coffee in two seconds. |
-| «Kevin, tu resti qui. Il **lavoro** comincia oggi.» | “Kevin, you stay here. The **work** starts today.” |
+| «Kevin, tu resti qui. Il **lavoro** continua oggi.» | “Kevin, you stay here. The **work** goes on today.” |
 | «Lo so. Ho **letto** tutto il **progetto** ieri sera.» | “I know. I **read** the whole **plan** last night.” |
 | «Hai **letto** il progetto?» | “You **read** the plan?” |
 | «Due volte. E ho **fatto** un **disegno** della cucina.» | “Twice. And I **made** a **drawing** of the kitchen.” |
@@ -80,7 +80,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Dov'è il tesoro?» | “Where's the treasure?” |
 | «Non c'è un tesoro, Leo.» | “There's no treasure, Leo.” |
 | «Allora non è una mappa vera.» | “Then it's not a real map.” |
-| Alle sette in punto arriva Franco. | At seven o'clock sharp Franco arrives. |
+| Poco dopo arriva Franco. | Soon after, Franco arrives. |
 | Ha un **metro** in mano e una faccia seria. | He has a **tape measure** in his hand and a serious face. |
 | «Buongiorno. Vengo a controllare.» | “Good morning. I've come to check.” |
 | «Buongiorno, Franco. Caffè?» | “Good morning, Franco. Coffee?” |
@@ -114,7 +114,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Questo rumore è normale?» | “Is this noise normal?” |
 | «Nessun problema.» | “No problem.” |
 
-## 2. Casa Carter, Via dei Tigli 14 · lunedì pomeriggio
+## 2. Casa Carter, Via dei Tigli 14 · mercoledì pomeriggio
 
 | Italiano | English |
 |---|---|
@@ -230,7 +230,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo guarda il buco e sorride. | Leo looks at the hole and smiles. |
 | «Io domani porto Pavarotti a vedere il passaggio segreto.» | “Tomorrow I'm bringing Pavarotti to see the secret passage.” |
 
-## 3. Via dei Tigli · lunedì pomeriggio
+## 3. Via dei Tigli · mercoledì pomeriggio
 
 | Italiano | English |
 |---|---|
@@ -263,7 +263,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Roberto rilegge un'altra riga. | Roberto rereads another line. |
 | «Ore nove e dieci: due operai **hanno aperto** il muro della cucina.» | “Nine ten: two workers **opened** the kitchen wall.” |
 | «Il muro sbagliato!» | “The wrong wall!” |
-| «Questo non **ho scritto**. Io **ho scritto**": il muro è **aperto**." Solo il fatto.» | “That I didn't **write**. I **wrote**: the wall is **open**. Just the fact.” |
+| «Questo non **ho scritto**. **Ho scritto**: "il muro è **aperto**." Solo il fatto.» | “That I didn't **write**. I **wrote**: the wall is **open**. Just the fact.” |
 | «Lei **ha visto** tutto, vero?» | “You **saw** everything, right?” |
 | «Io **ho visto** tutto. Io **ho scritto** tutto. È il mio dovere.» | “I **saw** everything. I **wrote** everything. It's my duty.” |
 | «E chi **ha chiuso** l'acqua?» | “And who **closed** the water?” |
@@ -338,7 +338,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No. La cena non è un fatto pubblico.» | “No. Dinner is not a public fact.” |
 | La finestra si chiude. | The window closes. |
 
-## 4. Bar Tigli · lunedì sera
+## 4. Bar Tigli · mercoledì sera
 
 | Italiano | English |
 |---|---|
@@ -360,7 +360,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Matteo, la macchina è **rotta**?» | “Matteo, is the machine **broken**?” |
 | «Sì. Ha **fatto** un rumore strano stamattina e poi si è spenta.» | “Yes. It **made** a strange noise this morning and then it shut off.” |
 | «Hai **chiesto** a un tecnico?» | “Did you **ask** a technician?” |
-| «Ho **fatto** una telefonata. Il **tecnico** arriva giovedì.» | “I **made** a phone call. The **technician** comes Thursday.” |
+| «Ho **fatto** una telefonata. Il **tecnico** arriva venerdì.» | “I **made** a phone call. The **technician** comes Friday.” |
 | «E il **tecnico** la **ripara**?» | “And the **technician** will **fix** it?” |
 | «Speriamo. Per adesso il caffè lo **faccio** con la macchina piccola.» | “Let's hope so. For now I **make** coffee with the small machine.” |
 | Nadia arriva dalla cucina con un panno in mano. | Nadia comes from the kitchen with a cloth in her hand. |
@@ -372,7 +372,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Un altro **guasto**?» | “Another **fault**?” |
 | «Un altro **guasto**. Il padrone non **ha fatto** niente.» | “Another **fault**. The landlord **hasn't done** anything.” |
 | «Il padrone è il signor Bertoldi?» | “Is the landlord Mr. Bertoldi?” |
-| «No. Il padrone è il signor Colombo. Il padre di Roberto.» | “No. The landlord is Mr. Colombo. Roberto's father.” |
+| «No. Il padrone è un signore di Milano. Non risponde mai.» | “No. The landlord is a man from Milan. He never answers.” |
 | «Ah. Allora capisco tutto.» | “Ah. Then I understand everything.” |
 | Matteo esce da dietro il bancone e si siede al tavolo. | Matteo comes out from behind the counter and sits at the table. |
 | «Kevin, ti devo parlare di un **progetto**.» | “Kevin, I have to talk to you about a **project**.” |
@@ -400,7 +400,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No, ho **fatto** un po' di confusione. Ma va bene.» | “No, I **got** a bit confused. But it's fine.” |
 | Nadia guarda Matteo, poi guarda il **foglio** piegato. | Nadia looks at Matteo, then at the folded **sheet**. |
 | Lo **mette** nella giacca di Matteo, davanti a tutti. | She **puts** it in Matteo's jacket, in front of everyone. |
-| «Matteo. Domani alle dieci, dal notaio.» | “Matteo. Tomorrow at ten, at the notary's.” |
+| «Matteo. Domani alle dieci, dal notaio. Ieri non hai firmato il foglio.» | “Matteo. Tomorrow at ten, at the notary's. Yesterday you didn't sign the paper.” |
 | «Nadia, non adesso.» | “Nadia, not now.” |
 | «Sì, adesso. Il **foglio** è nella tua giacca. Così non lo **perdi**.» | “Yes, now. The **sheet** is in your jacket. That way you won't **lose** it.” |
 | «Non **perdo** mai i fogli.» | “I never **lose** sheets.” |
@@ -430,10 +430,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Due clienti?» | “Two customers?” |
 | «Sì. Due clienti: un cappuccino. Io ho **detto**: "Non posso." Loro hanno **detto**: "Allora andiamo."» | “Yes. Two customers: a cappuccino. I **said**: “I can't.” They **said**: “Then we're leaving.”” |
 | «Mi dispiace.» | “I'm sorry.” |
-| «Giovedì il **tecnico** la **ripara**. Se viene.» | “Thursday the **technician** will **fix** it. If he comes.” |
+| «Venerdì il **tecnico** la **ripara**. Se viene.» | “Friday the **technician** will **fix** it. If he comes.” |
 | «Il **tecnico** viene. Ho **chiesto** io, no?» | “The **technician** is coming. I **asked** him, right?” |
 | «Ah. Allora **ha risposto** a te?» | “Ah. So he **answered** you?” |
-| «Sì. Ha **detto**: "Giovedì alle nove."» | “Yes. He **said**: “Thursday at nine.”” |
+| «Sì. Ha **detto**: "Venerdì alle nove."» | “Yes. He **said**: “Friday at nine.”” |
 | «Kevin, sei il mio nuovo segretario.» | “Kevin, you're my new secretary.” |
 | «Il mio **lavoro** è questo, ormai.» | “That's my **job** now, apparently.” |
 | Nadia **chiude** la porta del bar e gira il cartello. | Nadia **closes** the bar door and flips the sign. |
@@ -456,7 +456,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora buonanotte, signori.» | “Then good night, ladies and gentlemen.” |
 | «Meglio.» | “Better.” |
 
-## 5. Casa Carter, Via dei Tigli 14 · lunedì sera
+## 5. Casa Carter, Via dei Tigli 14 · mercoledì sera
 
 | Italiano | English |
 |---|---|
@@ -479,7 +479,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «La crepa sotto la finestra è vecchia. Il buco della cucina è nuovo.» | “The crack under the window is old. The kitchen hole is new.” |
 | «Grazie, papà. Molto utile.» | “Thanks, Dad. Very helpful.” |
 | Kevin alza una mano come a scuola. | Kevin raises a hand like at school. |
-| «Signora Ferri, ho **fatto** un'indagine.» | “Mrs. Ferri, I **did** an investigation.” |
+| «Chiara, ho **fatto** un'indagine.» | “Chiara, I **did** an investigation.” |
 | «Un'indagine?» | “An investigation?” |
 | «Sì. Ho **fatto** dodici foto, ho **chiesto** a tutti, ho **scritto** tutto.» | “Yes. I **took** twelve photos, I **asked** everyone, I **wrote** everything down.” |
 | Kevin apre il quaderno giallo e legge. | Kevin opens the yellow notebook and reads. |
@@ -550,12 +550,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi guarda il **soffitto**. | Then he looks at the **ceiling**. |
 | «Il **soffitto** è **sporco**, ma è grande. La cucina adesso è più grande.» | “The **ceiling** is **dirty**, but it's big. The kitchen is bigger now.” |
 | Chiara guarda il buco, il soffitto, poi il disegno. | Chiara looks at the hole, the ceiling, then the drawing. |
-| «Ha ragione, papà. Il muro sbagliato è anche il muro giusto.» | “You're right, Dad. The wrong wall is also the right wall.” |
+| «Hai ragione, papà. Il muro sbagliato è anche il muro giusto.» | “You're right, Dad. The wrong wall is also the right wall.” |
 | «Come?» | “What?” |
 | «Teniamo l'apertura. La cucina diventa grande così.» | “We'll keep the opening. The kitchen becomes big this way.” |
 | «Davvero?» | “Really?” |
 | «Davvero. Ma tu **chiudi** il **tubo** per bene e chiami l'**idraulico** giovedì.» | “Really. But you **shut** the **pipe** properly and call the **plumber** on Thursday.” |
-| «L'**idraulico** viene mercoledì. E il **tecnico** giovedì.» | “The **plumber** comes Wednesday. And the **technician** Thursday.” |
+| «L'**idraulico** viene giovedì. E il **tecnico** venerdì.» | “The **plumber** comes Thursday. And the **technician** Friday.” |
 | «Perfetto. Allora il **lavoro** va avanti.» | “Perfect. Then the **work** goes on.” |
 | Kevin **mette** i **chiodi** in una scatola e **pulisce** il tavolo. | Kevin **puts** the **nails** in a box and **cleans** the table. |
 | Poi **sistema** il **secchio** sotto il **tubo**, con un panno sotto. | Then he **sets** the **bucket** under the **pipe**, with a cloth underneath. |
@@ -575,7 +575,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sergio, il muro è quello sbagliato.» | “Sergio, the wall is the wrong one.” |
 | «Adesso è il muro giusto. **Sistemiamo** tutto domani.» | “Now it's the right wall. We'll **fix** everything tomorrow.” |
 | «E il **tubo**?» | “And the **pipe**?” |
-| «**Sistemato**? No. Ma mercoledì arriva l'**idraulico**.» | “**Fixed**? No. But Wednesday the **plumber** arrives.” |
+| «**Sistemato**? No. Ma giovedì arriva l'**idraulico**.» | “**Fixed**? No. But Thursday the **plumber** arrives.” |
 | «E il **soffitto**?» | “And the **ceiling**?” |
 | «Nessun problema.» | “No problem.” |
 | Franco guarda Sergio con il **metro** in mano. | Franco looks at Sergio with the **tape measure** in his hand. |
@@ -589,8 +589,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ho **fatto** tutto bene, però.» | “I **did** everything right, though.” |
 | «Hai **fatto** dodici foto e hai **perso** il **progetto**.» | “You **took** twelve photos and you **lost** the **plan**.” |
 | «Ma ho **trovato** il colpevole.» | “But I **found** the culprit.” |
-| «Il colpevole è un gatto di otto anni, Kevin.» | “The culprit is an eight-year-old cat, Kevin.” |
-| «Un gatto con un **progetto** migliore del mio.» | “A cat with a better **plan** than mine.” |
+| «Il colpevole è un bambino di otto anni, Kevin.» | “The culprit is an eight-year-old child, Kevin.” |
+| «Un bambino con un progetto migliore del mio.» | “A child with a better project than mine.” |
 | Chiara ride, finalmente. | Chiara laughs, finally. |
 | «La prossima volta **metti** il **progetto** giusto sul tavolo.» | “Next time **put** the right **plan** on the table.” |
 | «Lo **metto**. E nascondo la **matita** rossa.» | “I'll **put** it there. And I'll hide the red **pencil**.” |
@@ -601,11 +601,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sergio si ferma e guarda Kevin. | Sergio stops and looks at Kevin. |
 | «Questa è la mia frase.» | “That's my line.” |
 
-## 6. Casa Carter, Via dei Tigli 14 · martedì mattina
+## 6. Casa Carter, Via dei Tigli 14 · giovedì mattina
 
 | Italiano | English |
 |---|---|
-| Sono le nove di mattina di martedì. | It's nine in the morning on Tuesday. |
+| Sono le nove di mattina di giovedì. La riunione di ieri è saltata e il signor Bertoldi arriva solo adesso. | It's nine in the morning on Thursday. Yesterday's meeting was canceled and Mr. Bertoldi is only arriving now. |
 | In cucina c'è il signor Bertoldi con il suo cappotto grigio. | In the kitchen there's Mr. Bertoldi with his gray coat. |
 | Kevin prepara il caffè per tutti. | Kevin makes coffee for everyone. |
 | Franco è già qui dalle sette, con il **metro** in mano. | Franco has been here since seven, with the **tape measure** in his hand. |
