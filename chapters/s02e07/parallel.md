@@ -45,7 +45,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**L'ho cercata** nella **tasca** della giacca.» | “**I've looked for it** in the jacket **pocket**.” |
 | «**L'ho cercata** sotto il letto e nel bagno.» | “**I've looked for it** under the bed and in the bathroom.” |
 | Chiara tocca il pane e non parla. | Chiara touches the bread and doesn't speak. |
-| _Trentacinque anni. La **fede** è sempre stata qui._ | _Thirty-five years. The **ring** has always been here._ |
+| _Quarantacinque anni. La **fede** è sempre stata qui._ | _Forty-five years. The **ring** has always been here._ |
 | Kevin gira la **poltrona** e guarda sotto. | Kevin turns the **armchair** and looks underneath. |
 | «Niente» dice. | “Nothing,” he says. |
 | «**L'hai vista** ieri?» chiede Chiara a Franco. | “**Did you see it** yesterday?” Chiara asks Franco. |
@@ -153,7 +153,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Esatto» dice Kevin. «Bravo, Leo.» | “Exactly,” says Kevin. “Good job, Leo.” |
 | «Forse qualcuno **l'ha nascosta**» dice Leo. | “Maybe someone **hid it**,” says Leo. |
 | Franco guarda Leo e non parla. | Franco looks at Leo and doesn't speak. |
-| **Accanto** alla **siepe**, il gatto bianco **miagola**. | **Beside** the **hedge**, the white cat **meows**. |
+| **Accanto** alla **siepe**, il gatto grigio **miagola**. | **Beside** the **hedge**, the gray cat **meows**. |
 | «Pavarotti **miagola** da mezz'ora» dice Leo. | “Pavarotti has been **meowing** for half an hour,” says Leo. |
 | «**Miagola** perché ha fame» dice Franco. | “He **meows** because he's hungry,” says Franco. |
 | Ma Franco guarda il gatto e non si muove. | But Franco looks at the cat and doesn't move. |
@@ -451,8 +451,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «È l'**anello** di Anna» dice Kevin. | “It's Anna's **ring**,” says Kevin. |
 | «Lo so» dice Franco. «È l'**anello** di Anna.» | “I know,” says Franco. “It's Anna's **ring**.” |
 | Franco accarezza il gatto e continua. | Franco strokes the cat and continues. |
-| «Anna **l'ha portato** trentacinque anni» dice. | “Anna **wore it** for thirty-five years,” he says. |
-| «Con Lucia ho due anni» dice. «E lei merita un **anello**.» | “With Lucia I've had two years,” he says. “And she deserves a **ring**.” |
+| «Anna **l'ha portato** quarantacinque anni» dice. | “Anna **wore it** for forty-five years,” he says. |
+| «Adesso c'è Lucia» dice. «E lei merita un **anello**.» | “Now there's Lucia,” he says. “And she deserves a **ring**.” |
 | «E **l'hai** per Lucia?» chiede Kevin. | “And **you have it** for Lucia?” asks Kevin. |
 | «Sì» dice Franco. «Ma non so come dirlo a Chiara.» | “Yes,” says Franco. “But I don't know how to tell Chiara.” |
 | «E **l'hai nascosto** per questo» dice Kevin. | “And **you hid it** because of that,” says Kevin. |
@@ -506,7 +506,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**L'ha nascosto** lui» dice Chiara piano. | “**He hid it**,” says Chiara quietly. |
 | «**L'ha messo** qui **dietro** le **ricette**.» | “**He put it** here **behind** the **recipes**.” |
 | Chiara guarda la **fede** e poi il giro della cucina. | Chiara looks at the **ring** and then around the kitchen. |
-| _Trentacinque anni al dito di mia madre._ | _Thirty-five years on my mother's finger._ |
+| _Quarantacinque anni al dito di mia madre._ | _Forty-five years on my mother's finger._ |
 | Si sente la porta di casa. | The front door is heard. |
 | Franco entra con Lucia **dietro** di lui. | Franco comes in with Lucia **behind** him. |
 | «Chiara!» dice Lucia. «Che sorpresa!» | “Chiara!” says Lucia. “What a surprise!” |
@@ -560,7 +560,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco guarda Lucia e poi Chiara. | Franco looks at Lucia and then at Chiara. |
 | «Io non dico niente» dice Lucia. «La decisione è di Chiara.» | “I'm not saying anything,” says Lucia. “The decision is Chiara's.” |
 | «No» dice Franco. «La decisione è mia.» | “No,” says Franco. “The decision is mine.” |
-| «Papà» dice Chiara. «Tu **l'hai tenuta** trentacinque anni.» | “Dad,” says Chiara. “**You kept it** for thirty-five years.” |
+| «Papà» dice Chiara. «Tu **l'hai tenuta** quarantacinque anni.» | “Dad,” says Chiara. “**You kept it** for forty-five years.” |
 | «Sì» dice Franco. «**L'ho tenuta** per Anna.» | “Yes,” says Franco. “**I kept it** for Anna.” |
 | «E adesso?» chiede Chiara. | “And now?” asks Chiara. |
 | «Adesso la tengo per un **momento importante**» dice Franco. | “Now I'm keeping it for an **important moment**,” says Franco. |

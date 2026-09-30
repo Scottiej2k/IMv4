@@ -38,7 +38,7 @@ Kevin appoggia la **busta** sul tavolo. «Perfetto» dice. «Questo è un proble
 
 Franco si alza e apre la **credenza**. Dentro ci sono piatti, bicchieri e un **barattolo** vuoto. «**L'ho cercata** dappertutto» dice Franco. «**L'ho cercata** nella **tasca** della giacca.» «**L'ho cercata** sotto il letto e nel bagno.»
 
-Chiara tocca il pane e non parla. _Trentacinque anni. La **fede** è sempre stata qui._
+Chiara tocca il pane e non parla. _Quarantacinque anni. La **fede** è sempre stata qui._
 
 Kevin gira la **poltrona** e guarda sotto. «Niente» dice.
 
@@ -176,7 +176,7 @@ Sul **foglio**, Kevin scrive una parola nuova. «Che parola scrivi?» chiede Leo
 
 «Forse qualcuno **l'ha nascosta**» dice Leo. Franco guarda Leo e non parla.
 
-**Accanto** alla **siepe**, il gatto bianco **miagola**. «Pavarotti **miagola** da mezz'ora» dice Leo.
+**Accanto** alla **siepe**, il gatto grigio **miagola**. «Pavarotti **miagola** da mezz'ora» dice Leo.
 
 «**Miagola** perché ha fame» dice Franco. Ma Franco guarda il gatto e non si muove. Il gatto **miagola** ancora, **accanto** al muro vecchio.
 
@@ -530,7 +530,7 @@ Passa un minuto di silenzio. Poi Franco parla, piano. «Kevin, la **fede** non *
 
 «Lo so» dice Franco. «È l'**anello** di Anna.»
 
-Franco accarezza il gatto e continua. «Anna **l'ha portato** trentacinque anni» dice. «Con Lucia ho due anni» dice. «E lei merita un **anello**.»
+Franco accarezza il gatto e continua. «Anna **l'ha portato** quarantacinque anni» dice. «Adesso c'è Lucia» dice. «E lei merita un **anello**.»
 
 «E **l'hai** per Lucia?» chiede Kevin.
 
@@ -580,7 +580,7 @@ Sono le sette di sera e Chiara è in cucina a casa di suo padre. Franco è uscit
 
 Chiara prende la **ricetta** e la mette sul tavolo. Poi guarda **dietro** i **fogli**, in fondo alla **credenza**. C'è un piccolo **barattolo** di vetro, con un **foglio** intorno. Sul **foglio** c'è una data: 1978. Chiara apre il **barattolo**. Dentro c'è la **fede**. _L'**anello** di mia madre. È qui._
 
-Chiara si siede sulla **poltrona** e tiene il **barattolo** in mano. Il **foglio** dice: *Anna, 14 giugno 1978*. «**L'ha nascosto** lui» dice Chiara piano. «**L'ha messo** qui **dietro** le **ricette**.» Chiara guarda la **fede** e poi il giro della cucina. _Trentacinque anni al dito di mia madre._
+Chiara si siede sulla **poltrona** e tiene il **barattolo** in mano. Il **foglio** dice: *Anna, 14 giugno 1978*. «**L'ha nascosto** lui» dice Chiara piano. «**L'ha messo** qui **dietro** le **ricette**.» Chiara guarda la **fede** e poi il giro della cucina. _Quarantacinque anni al dito di mia madre._
 
 Si sente la porta di casa. Franco entra con Lucia **dietro** di lui. «Chiara!» dice Lucia. «Che sorpresa!» Lucia ha una **busta** di carta in mano. «Ho comprato il pane» dice Lucia. «E i biscotti per Leo.»
 
@@ -650,7 +650,7 @@ Franco guarda Lucia e poi Chiara. «Io non dico niente» dice Lucia. «La decisi
 
 «No» dice Franco. «La decisione è mia.»
 
-«Papà» dice Chiara. «Tu **l'hai tenuta** trentacinque anni.»
+«Papà» dice Chiara. «Tu **l'hai tenuta** quarantacinque anni.»
 
 «Sì» dice Franco. «**L'ho tenuta** per Anna.»
 
