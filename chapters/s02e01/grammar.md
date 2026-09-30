@@ -67,7 +67,7 @@ You can put the time expression first or last. Both are correct:
 «**La settimana scorsa** abbiamo firmato il **contratto**.» — “**Last week** we signed the **contract**.” (`s02e01-2-015`)
 — the *noi* form *abbiamo* + *firmato*. A finished action by two people.
 
-«Tu hai **chiamato**. Io ho **pagato**.» — “You **called**. I **paid**.” (`s02e01-1-064`)
+«Tu hai **chiamato**. Io ho **pagato**.» — “You **called**. I **paid**.” (`s02e01-1-063`)
 — two short sentences, same tense, different people. This is how Italians report who did what.
 
 «Chiara ha **deciso** la cucina. Io ho **chiamato** l'impresa.» — “Chiara **decided** the kitchen. I **called** the firm.” (`s02e01-2-021`)

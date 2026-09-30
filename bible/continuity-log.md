@@ -178,10 +178,13 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Franco inviting himself to lunch at Kevin and Chiara's "tomorrow" (Monday); Kevin and Franco's warming bond; Ornella's thought that Franco has changed the house.
 
 ### s02e01 · Abbiamo comprato una casa
-- **Happened:** The Carters' first day of renovation on Via dei Tigli 14: keys arrived "ieri," works start Monday with Fratelli Bertoldi; the electrician cuts a cable and the lights go out; Tuesday Franco inspects the new kitchen wall, finds it crooked (5 cm), and finds the roof is billed as a separate extra.
-- **New facts:** Bertoldi firm (father quiet and good, tall son is the "capo"), workers arrive with yellow helmets; estimate ~42,000 euros, contractors' work ~20,000; Matteo bought a new coffee supplier, 16 "design" glasses and hid Franco's loan envelope in a jar marked "FRANCO — NON TOCCARE"; Bar Tigli March: 1,100 in, 1,400 out.
-- **Changed:** Franco invites himself to inspect the site daily at 7 a.m. and will go with Kevin to Tuesday 9 a.m. meeting with Bertoldi; he says the kitchen "isn't bad"; Franco doesn't know about the house purchase until Monday — he resents not being called.
-- **Planted:** Five crooked centimeters may force the wall to be redone; the roof's separate payment; Matteo must visit the notaio Tuesday morning (payoff pending).
+- **Happened:** The Carter house at Via dei Tigli 14 is theirs (keys came Sunday); renovation starts Monday with three muratori from Fratelli Bertoldi, whose capo is signor Bertoldi.
+- **Happened:** Franco inspects the works, finds the new kitchen wall crooked (5 cm in 2 m) and the preventivo wrong (€42,000; the roof is a separate extra, line 7); an operaio cuts the light cable and the house goes dark Monday evening.
+- **Happened:** At Bar Tigli Matteo signed a new coffee-supplier contract and bought 16 glasses (€64), spending €300 more than March's income; he still hasn't signed the notary paper for Franco's loan.
+- **New facts:** Franco owns a 1978 notebook and keeps a metro and martello; the house is over 50 years old and Franco knows it well; the preventivo is €42,000.
+- **New facts:** Nadia puts Franco's unopened money envelope in a jar labeled "FRANCO — NON TOCCARE" on the bar counter.
+- **Changed:** Franco and Kevin thaw: Franco will inspect daily at 7 a.m. and will come to Tuesday's 9 a.m. meeting with Bertoldi; Nadia says nothing left for Matteo.
+- **Planted:** Matteo must go to the notaio Tuesday; outcome of the Bertoldi meeting; the envelope is still unopened.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

@@ -40,7 +40,7 @@
       "lemma": "il contratto",
       "pos": "noun",
       "en": "contract",
-      "example": "s02e01-1-076",
+      "example": "s02e01-1-074",
       "target": {
         "it": "contratto",
         "en": "contract"
@@ -64,7 +64,7 @@
       "lemma": "il muratore",
       "pos": "noun",
       "en": "builder, bricklayer",
-      "example": "s02e01-1-100",
+      "example": "s02e01-1-098",
       "target": {
         "it": "muratori",
         "en": "builders"
@@ -145,7 +145,7 @@
       "lemma": "l'operaio",
       "pos": "noun",
       "en": "worker",
-      "example": "s02e01-1-113",
+      "example": "s02e01-1-111",
       "target": {
         "it": "operaio",
         "en": "worker"
@@ -157,7 +157,7 @@
       "lemma": "la riunione",
       "pos": "noun",
       "en": "meeting",
-      "example": "s02e01-3-100",
+      "example": "s02e01-3-098",
       "target": {
         "it": "riunione",
         "en": "meeting"
@@ -181,7 +181,7 @@
       "lemma": "l'architetto",
       "pos": "noun",
       "en": "architect",
-      "example": "s02e01-1-129",
+      "example": "s02e01-1-126",
       "target": {
         "it": "architetto",
         "en": "architect"
@@ -227,7 +227,7 @@
       "lemma": "pagare",
       "pos": "verb",
       "en": "to pay",
-      "example": "s02e01-1-066",
+      "example": "s02e01-1-064",
       "target": {
         "it": "pagato",
         "en": "paid"
@@ -284,7 +284,7 @@
       "lemma": "il capo",
       "pos": "noun",
       "en": "boss; head",
-      "example": "s02e01-1-125",
+      "example": "s02e01-1-123",
       "target": {
         "it": "capo",
         "en": "boss"
@@ -296,7 +296,7 @@
       "lemma": "il martello",
       "pos": "noun",
       "en": "hammer",
-      "example": "s02e01-3-094",
+      "example": "s02e01-3-092",
       "target": {
         "it": "martello",
         "en": "hammer"
@@ -449,12 +449,12 @@
             },
             {
               "id": "s02e01-1-002",
-              "it": "La casa è ancora vuota, ma il sole entra dalla finestra della cucina.",
-              "en": "The house is still empty, but the sun comes in through the kitchen window.",
+              "it": "La casa è piena di scatole, ma il sole entra dalla finestra della cucina.",
+              "en": "The house is full of boxes, but the sun comes in through the kitchen window.",
               "voice": [
                 [
                   "narrator",
-                  "La casa è ancora vuota, ma il sole entra dalla finestra della cucina.",
+                  "La casa è piena di scatole, ma il sole entra dalla finestra della cucina.",
                   ""
                 ]
               ],
@@ -490,7 +490,7 @@
                   ""
                 ],
                 [
-                  "ancora",
+                  "piena",
                   3,
                   ""
                 ],
@@ -500,8 +500,18 @@
                   ""
                 ],
                 [
-                  "vuota",
+                  "di",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "scatole",
+                  5,
                   ""
                 ],
                 [
@@ -511,16 +521,6 @@
                 ],
                 [
                   "ma",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
                   6,
                   ""
                 ],
@@ -530,7 +530,7 @@
                   ""
                 ],
                 [
-                  "sole",
+                  "il",
                   7,
                   ""
                 ],
@@ -540,7 +540,7 @@
                   ""
                 ],
                 [
-                  "entra",
+                  "sole",
                   8,
                   ""
                 ],
@@ -550,7 +550,7 @@
                   ""
                 ],
                 [
-                  "dalla",
+                  "entra",
                   9,
                   ""
                 ],
@@ -560,7 +560,7 @@
                   ""
                 ],
                 [
-                  "finestra",
+                  "dalla",
                   10,
                   ""
                 ],
@@ -570,7 +570,7 @@
                   ""
                 ],
                 [
-                  "della",
+                  "finestra",
                   11,
                   ""
                 ],
@@ -580,8 +580,18 @@
                   ""
                 ],
                 [
-                  "cucina",
+                  "della",
                   12,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cucina",
+                  13,
                   ""
                 ],
                 [
@@ -5761,30 +5771,6 @@
           "segments": [
             {
               "id": "s02e01-1-063",
-              "it": "Hmm.",
-              "en": "Hmm.",
-              "voice": [
-                [
-                  "narrator",
-                  "Hmm.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Hmm",
-                  0,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e01-1-064",
               "it": "«Tu hai **chiamato**. Io ho **pagato**.»",
               "en": "“You **called**. I **paid**.”",
               "voice": [
@@ -5871,41 +5857,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-065",
-              "it": "Hmm. Ehm.",
-              "en": "Hmm. Um.",
-              "voice": [
-                [
-                  "narrator",
-                  "Hmm. Ehm.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Hmm",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ehm",
-                  1,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e01-1-066",
+              "id": "s02e01-1-064",
               "it": "«Va bene. Tu hai **pagato**.»",
               "en": "“All right. You **paid**.”",
               "voice": [
@@ -5981,7 +5933,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-067",
+              "id": "s02e01-1-065",
               "it": "Emma mette lo zaino sulle spalle.",
               "en": "Emma puts her backpack on her shoulders.",
               "voice": [
@@ -6055,13 +6007,13 @@
               ]
             },
             {
-              "id": "s02e01-1-068",
-              "it": "«Io vado. Il treno delle sette e mezza non aspetta. E neanche Bassi.»",
-              "en": "“I'm going. The seven-thirty train doesn't wait. And neither does Bassi.”",
+              "id": "s02e01-1-066",
+              "it": "«Io vado. Il treno delle sette e mezza non aspetta.»",
+              "en": "“I'm going. The seven-thirty train doesn't wait.”",
               "voice": [
                 [
                   "emma",
-                  "Io vado. Il treno delle sette e mezza non aspetta. E neanche Bassi.",
+                  "Io vado. Il treno delle sette e mezza non aspetta.",
                   ""
                 ]
               ],
@@ -6167,36 +6119,6 @@
                   ""
                 ],
                 [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "neanche",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bassi",
-                  12,
-                  ""
-                ],
-                [
                   ".»",
                   -1,
                   ""
@@ -6208,7 +6130,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-069",
+              "id": "s02e01-1-067",
               "it": "«Emma! Oggi torni presto? Ci sono i **muratori**!»",
               "en": "“Emma! Are you coming home early today? The **builders** are here!”",
               "voice": [
@@ -6314,7 +6236,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-070",
+              "id": "s02e01-1-068",
               "it": "«Che gioia.»",
               "en": "“What joy.”",
               "voice": [
@@ -6357,7 +6279,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-071",
+              "id": "s02e01-1-069",
               "it": "«Emma, dì \"che bello\".»",
               "en": "“Emma, say 'how nice'.”",
               "voice": [
@@ -6420,7 +6342,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-072",
+              "id": "s02e01-1-070",
               "it": "«Che bello.» Emma chiude la porta.",
               "en": "“How nice.” Emma closes the door.",
               "voice": [
@@ -6508,7 +6430,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-073",
+              "id": "s02e01-1-071",
               "it": "Chiara ride e beve il caffè.",
               "en": "Chiara laughs and drinks her coffee.",
               "voice": [
@@ -6582,7 +6504,7 @@
               ]
             },
             {
-              "id": "s02e01-1-074",
+              "id": "s02e01-1-072",
               "it": "«Kevin, **la settimana scorsa** abbiamo firmato tutto, e oggi cominciamo.»",
               "en": "“Kevin, **last week** we signed everything, and today we start.”",
               "voice": [
@@ -6708,7 +6630,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-075",
+              "id": "s02e01-1-073",
               "it": "«**La settimana scorsa** ho firmato trenta volte. Ho firmato anche il **contratto** del gas.»",
               "en": "“**Last week** I signed thirty times. I even signed the gas **contract**.”",
               "voice": [
@@ -6875,7 +6797,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-076",
+              "id": "s02e01-1-074",
               "it": "«Il **contratto** del gas?»",
               "en": "“The gas **contract**?”",
               "voice": [
@@ -6941,7 +6863,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-077",
+              "id": "s02e01-1-075",
               "it": "«Sì. Ho firmato subito, senza domande.»",
               "en": "“Yes. I signed right away, without questions.”",
               "voice": [
@@ -7024,7 +6946,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-078",
+              "id": "s02e01-1-076",
               "it": "«Kevin. Il **contratto** del gas è importante.»",
               "en": "“Kevin. The gas **contract** is important.”",
               "voice": [
@@ -7120,7 +7042,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-079",
+              "id": "s02e01-1-077",
               "it": "«Ho **chiamato** l'ufficio e ho domandato. Tutto a posto.»",
               "en": "“I **called** the office and asked. All fine.”",
               "voice": [
@@ -7236,7 +7158,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-080",
+              "id": "s02e01-1-078",
               "it": "Leo apre il frigorifero vuoto.",
               "en": "Leo opens the empty fridge.",
               "voice": [
@@ -7300,7 +7222,7 @@
               ]
             },
             {
-              "id": "s02e01-1-081",
+              "id": "s02e01-1-079",
               "it": "«Perché il frigo è vuoto?»",
               "en": "“Why is the fridge empty?”",
               "voice": [
@@ -7373,7 +7295,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-082",
+              "id": "s02e01-1-080",
               "it": "«Perché la cucina è nuova e compriamo tutto nuovo.»",
               "en": "“Because the kitchen is new and we're buying everything new.”",
               "voice": [
@@ -7486,7 +7408,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-083",
+              "id": "s02e01-1-081",
               "it": "«Anche il gelato?»",
               "en": "“Ice cream too?”",
               "voice": [
@@ -7539,7 +7461,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-084",
+              "id": "s02e01-1-082",
               "it": "«Soprattutto il gelato.»",
               "en": "“Especially the ice cream.”",
               "voice": [
@@ -7592,7 +7514,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-085",
+              "id": "s02e01-1-083",
               "it": "Kevin guarda Chiara.",
               "en": "Kevin looks at Chiara.",
               "voice": [
@@ -7636,7 +7558,7 @@
               ]
             },
             {
-              "id": "s02e01-1-086",
+              "id": "s02e01-1-084",
               "it": "«Sono un po' nervoso.»",
               "en": "“I'm a bit nervous.”",
               "voice": [
@@ -7699,7 +7621,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-087",
+              "id": "s02e01-1-085",
               "it": "«Perché?»",
               "en": "“Why?”",
               "voice": [
@@ -7732,7 +7654,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-088",
+              "id": "s02e01-1-086",
               "it": "«A Chicago ho lavorato in un ufficio. Qui ho **chiamato** l'**impresa**, ho firmato, ho **pagato**...»",
               "en": "“In Chicago I worked in an office. Here I **called** the **firm**, I signed, I **paid**...”",
               "voice": [
@@ -7920,7 +7842,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-089",
+              "id": "s02e01-1-087",
               "it": "«E hai fatto bene.»",
               "en": "“And you did well.”",
               "voice": [
@@ -7983,7 +7905,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-090",
+              "id": "s02e01-1-088",
               "it": "«Lo pensi?»",
               "en": "“You think so?”",
               "voice": [
@@ -8026,7 +7948,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-091",
+              "id": "s02e01-1-089",
               "it": "«Sì.»",
               "en": "“Yes.”",
               "voice": [
@@ -8059,7 +7981,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-092",
+              "id": "s02e01-1-090",
               "it": "Kevin **conta** sulle dita.",
               "en": "Kevin **counts** on his fingers.",
               "voice": [
@@ -8116,7 +8038,7 @@
               ]
             },
             {
-              "id": "s02e01-1-093",
+              "id": "s02e01-1-091",
               "it": "«**Ieri**: le chiavi. Oggi: i **muratori**. Domani: il mondo.»",
               "en": "“**Yesterday**: the keys. Today: the **builders**. Tomorrow: the world.”",
               "voice": [
@@ -8233,7 +8155,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-094",
+              "id": "s02e01-1-092",
               "it": "«Il mondo?»",
               "en": "“The world?”",
               "voice": [
@@ -8276,7 +8198,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-095",
+              "id": "s02e01-1-093",
               "it": "«Il mondo, Leo. O almeno la cucina.»",
               "en": "“The world, Leo. Or at least the kitchen.”",
               "voice": [
@@ -8369,7 +8291,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-096",
+              "id": "s02e01-1-094",
               "it": "Suona il campanello.",
               "en": "The doorbell rings.",
               "voice": [
@@ -8413,7 +8335,7 @@
               ]
             },
             {
-              "id": "s02e01-1-097",
+              "id": "s02e01-1-095",
               "it": "Tutti guardano la porta.",
               "en": "Everyone looks at the door.",
               "voice": [
@@ -8467,7 +8389,7 @@
               ]
             },
             {
-              "id": "s02e01-1-098",
+              "id": "s02e01-1-096",
               "it": "Kevin apre.",
               "en": "Kevin opens it.",
               "voice": [
@@ -8501,7 +8423,7 @@
               ]
             },
             {
-              "id": "s02e01-1-099",
+              "id": "s02e01-1-097",
               "it": "Fuori ci sono tre uomini con caschi gialli e un furgone bianco.",
               "en": "Outside there are three men with yellow helmets and a white van.",
               "voice": [
@@ -8639,7 +8561,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-100",
+              "id": "s02e01-1-098",
               "it": "«Buongiorno! Siamo i **muratori**.»",
               "en": "“Good morning! We're the **builders**.”",
               "voice": [
@@ -8705,7 +8627,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-101",
+              "id": "s02e01-1-099",
               "it": "Kevin si gira verso Chiara con la bocca aperta.",
               "en": "Kevin turns to Chiara with his mouth open.",
               "voice": [
@@ -8809,13 +8731,13 @@
               ]
             },
             {
-              "id": "s02e01-1-102",
-              "it": "«Sono in anticipo di un giorno.»",
-              "en": "“They're a day early.”",
+              "id": "s02e01-1-100",
+              "it": "«Sono in anticipo di un'ora.»",
+              "en": "“They're an hour early.”",
               "voice": [
                 [
                   "ben",
-                  "Sono in anticipo di un giorno.",
+                  "Sono in anticipo di un'ora.",
                   "whispering"
                 ]
               ],
@@ -8866,18 +8788,8 @@
                   ""
                 ],
                 [
-                  "un",
+                  "un'ora",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giorno",
-                  5,
                   ""
                 ],
                 [
@@ -8892,13 +8804,13 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-103",
-              "it": "«Kevin. Oggi è il primo giorno dei **lavori**.»",
-              "en": "“Kevin. Today is the first day of the **works**.”",
+              "id": "s02e01-1-101",
+              "it": "«Meglio così, Kevin. Oggi è il primo giorno dei **lavori**.»",
+              "en": "“All the better, Kevin. Today is the first day of the **works**.”",
               "voice": [
                 [
                   "chiara",
-                  "Kevin. Oggi è il primo giorno dei **lavori**.",
+                  "Meglio così, Kevin. Oggi è il primo giorno dei **lavori**.",
                   ""
                 ]
               ],
@@ -8909,8 +8821,28 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Meglio",
                   0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "così",
+                  1,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  2,
                   ""
                 ],
                 [
@@ -8920,26 +8852,6 @@
                 ],
                 [
                   "Oggi",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
                   3,
                   ""
                 ],
@@ -8949,7 +8861,7 @@
                   ""
                 ],
                 [
-                  "primo",
+                  "è",
                   4,
                   ""
                 ],
@@ -8959,7 +8871,7 @@
                   ""
                 ],
                 [
-                  "giorno",
+                  "il",
                   5,
                   ""
                 ],
@@ -8969,7 +8881,7 @@
                   ""
                 ],
                 [
-                  "dei",
+                  "primo",
                   6,
                   ""
                 ],
@@ -8979,8 +8891,28 @@
                   ""
                 ],
                 [
-                  "lavori",
+                  "giorno",
                   7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dei",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lavori",
+                  9,
                   "b"
                 ],
                 [
@@ -8998,7 +8930,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-104",
+              "id": "s02e01-1-102",
               "it": "«Il primo giorno!» Kevin alza le braccia. «Benvenuti al **cantiere**!»",
               "en": "“The first day!” Kevin raises his arms. “Welcome to the **building site**!”",
               "voice": [
@@ -9134,7 +9066,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-105",
+              "id": "s02e01-1-103",
               "it": "«**Conta** i **muratori**, Leo.»",
               "en": "“**Count** the **builders**, Leo.”",
               "voice": [
@@ -9201,7 +9133,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-106",
+              "id": "s02e01-1-104",
               "it": "«Uno, due, tre.»",
               "en": "“One, two, three.”",
               "voice": [
@@ -9254,7 +9186,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-107",
+              "id": "s02e01-1-105",
               "it": "«Tre **muratori** e un **cantiere**. Perfetto!»",
               "en": "“Three **builders** and one **building site**. Perfect!”",
               "voice": [
@@ -9341,7 +9273,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-108",
+              "id": "s02e01-1-106",
               "it": "Uno degli uomini tende la mano a Kevin.",
               "en": "One of the men offers his hand to Kevin.",
               "voice": [
@@ -9435,7 +9367,7 @@
               ]
             },
             {
-              "id": "s02e01-1-109",
+              "id": "s02e01-1-107",
               "it": "«Lei è il signor Carter?»",
               "en": "“Are you Mr. Carter?”",
               "voice": [
@@ -9508,7 +9440,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-110",
+              "id": "s02e01-1-108",
               "it": "«Sì! Sono io!»",
               "en": "“Yes! That's me!”",
               "voice": [
@@ -9561,7 +9493,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-111",
+              "id": "s02e01-1-109",
               "it": "«Bene. Il **capo** arriva alle nove.»",
               "en": "“Good. The **boss** arrives at nine.”",
               "voice": [
@@ -9647,7 +9579,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-112",
+              "id": "s02e01-1-110",
               "it": "«E Lei chi è?»",
               "en": "“And who are you?”",
               "voice": [
@@ -9710,7 +9642,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-113",
+              "id": "s02e01-1-111",
               "it": "«Sono l'**operaio** numero uno.»",
               "en": "“I'm **worker** number one.”",
               "voice": [
@@ -9786,7 +9718,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-114",
+              "id": "s02e01-1-112",
               "it": "«E gli **operai** numero due e tre?»",
               "en": "“And **workers** number two and three?”",
               "voice": [
@@ -9882,7 +9814,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-115",
+              "id": "s02e01-1-113",
               "it": "«Loro parlano poco.»",
               "en": "“They don't talk much.”",
               "voice": [
@@ -9935,7 +9867,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-116",
+              "id": "s02e01-1-114",
               "it": "Leo esce con il quaderno dei gusti.",
               "en": "Leo comes out with his notebook of likes.",
               "voice": [
@@ -10019,7 +9951,7 @@
               ]
             },
             {
-              "id": "s02e01-1-117",
+              "id": "s02e01-1-115",
               "it": "«Ciao! Io sono Leo. Voi fate molto **rumore**?»",
               "en": "“Hi! I'm Leo. Do you make a lot of **noise**?”",
               "voice": [
@@ -10125,7 +10057,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-118",
+              "id": "s02e01-1-116",
               "it": "«Molto.»",
               "en": "“A lot.”",
               "voice": [
@@ -10158,7 +10090,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-119",
+              "id": "s02e01-1-117",
               "it": "«Perfetto!»",
               "en": "“Perfect!”",
               "voice": [
@@ -10191,7 +10123,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-120",
+              "id": "s02e01-1-118",
               "it": "Kevin guarda il **cantiere** e sorride.",
               "en": "Kevin looks at the **building site** and smiles.",
               "voice": [
@@ -10268,7 +10200,7 @@
               ]
             },
             {
-              "id": "s02e01-1-121",
+              "id": "s02e01-1-119",
               "it": "_Oggi comincia tutto. E io ho **chiamato** l'**impresa** giusta. Spero._",
               "en": "_Today everything begins. And I **called** the right **firm**. I hope._",
               "voice": [
@@ -10400,7 +10332,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-122",
+              "id": "s02e01-1-120",
               "it": "Chiara si avvicina a Kevin.",
               "en": "Chiara comes close to Kevin.",
               "voice": [
@@ -10464,7 +10396,7 @@
               ]
             },
             {
-              "id": "s02e01-1-123",
+              "id": "s02e01-1-121",
               "it": "«**Riunione** alle nove con Bertoldi. Tu vieni?»",
               "en": "“**Meeting** at nine with Bertoldi. Are you coming?”",
               "voice": [
@@ -10560,7 +10492,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-124",
+              "id": "s02e01-1-122",
               "it": "«Sì. E porto anche il caffè.»",
               "en": "“Yes. And I'm bringing coffee too.”",
               "voice": [
@@ -10643,7 +10575,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-125",
+              "id": "s02e01-1-123",
               "it": "«Il caffè per il **capo**?»",
               "en": "“Coffee for the **boss**?”",
               "voice": [
@@ -10719,7 +10651,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-126",
+              "id": "s02e01-1-124",
               "it": "«Il caffè per tutti. È una **riunione** importante.»",
               "en": "“Coffee for everyone. It's an important **meeting**.”",
               "voice": [
@@ -10825,90 +10757,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-127",
-              "it": "«Sì. E il caffè è pronto.»",
-              "en": "“Yes. And the coffee is ready.”",
-              "voice": [
-                [
-                  "ben",
-                  "Sì. E il caffè è pronto.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "pronto",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-1-128",
+              "id": "s02e01-1-125",
               "it": "Chiara sorride e gli sistema il colletto.",
               "en": "Chiara smiles and fixes his collar.",
               "voice": [
@@ -10992,7 +10841,7 @@
               ]
             },
             {
-              "id": "s02e01-1-129",
+              "id": "s02e01-1-126",
               "it": "«Allora andiamo, **architetto** Carter.»",
               "en": "“Then let's go, **architect** Carter.”",
               "voice": [
@@ -11058,7 +10907,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-130",
+              "id": "s02e01-1-127",
               "it": "«**Architetto**? Ma io non sono **architetto**.»",
               "en": "“**Architect**? But I'm not an **architect**.”",
               "voice": [
@@ -11144,7 +10993,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-1-131",
+              "id": "s02e01-1-128",
               "it": "«Oggi sì.»",
               "en": "“Today you are.”",
               "voice": [
@@ -20305,12 +20154,12 @@
           "segments": [
             {
               "id": "s02e01-3-013",
-              "it": "«Millenovecentosettantotto. Prima dei tuoi capelli bianchi.»",
-              "en": "“Nineteen seventy-eight. Before your white hair.”",
+              "it": "«Millenovecentosettantotto. Prima di Chiara.»",
+              "en": "“Nineteen seventy-eight. Before Chiara.”",
               "voice": [
                 [
                   "franco",
-                  "Millenovecentosettantotto. Prima dei tuoi capelli bianchi.",
+                  "Millenovecentosettantotto. Prima di Chiara.",
                   "dry"
                 ]
               ],
@@ -20341,7 +20190,7 @@
                   ""
                 ],
                 [
-                  "dei",
+                  "di",
                   2,
                   ""
                 ],
@@ -20351,28 +20200,8 @@
                   ""
                 ],
                 [
-                  "tuoi",
+                  "Chiara",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "capelli",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bianchi",
-                  5,
                   ""
                 ],
                 [
@@ -24332,12 +24161,12 @@
           "segments": [
             {
               "id": "s02e01-3-060",
-              "it": "«Sì. Tu **paghì** il **tetto** dopo. Non ora.»",
+              "it": "«Sì. Tu **paghi** il **tetto** dopo. Non ora.»",
               "en": "“Yes. You **pay** for the **roof** later. Not now.”",
               "voice": [
                 [
                   "franco",
-                  "Sì. Tu **paghì** il **tetto** dopo. Non ora.",
+                  "Sì. Tu **paghi** il **tetto** dopo. Non ora.",
                   "slow"
                 ]
               ],
@@ -24368,7 +24197,7 @@
                   ""
                 ],
                 [
-                  "paghì",
+                  "paghi",
                   2,
                   "b"
                 ],
@@ -27039,12 +26868,12 @@
           "segments": [
             {
               "id": "s02e01-3-088",
-              "it": "«No. Il pranzo è alle dodici e mezza a casa mia.»",
-              "en": "“No. Lunch is at twelve thirty at my house.”",
+              "it": "«No. Mangio a casa mia. Il pranzo di ieri basta per una settimana.»",
+              "en": "“No. I'll eat at my house. Yesterday's lunch is enough for a week.”",
               "voice": [
                 [
                   "franco",
-                  "No. Il pranzo è alle dodici e mezza a casa mia.",
+                  "No. Mangio a casa mia. Il pranzo di ieri basta per una settimana.",
                   ""
                 ]
               ],
@@ -27065,7 +26894,7 @@
                   ""
                 ],
                 [
-                  "Il",
+                  "Mangio",
                   1,
                   ""
                 ],
@@ -27075,7 +26904,7 @@
                   ""
                 ],
                 [
-                  "pranzo",
+                  "a",
                   2,
                   ""
                 ],
@@ -27085,7 +26914,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "casa",
                   3,
                   ""
                 ],
@@ -27095,17 +26924,17 @@
                   ""
                 ],
                 [
-                  "alle",
+                  "mia",
                   4,
                   ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "dodici",
+                  "Il",
                   5,
                   ""
                 ],
@@ -27115,7 +26944,7 @@
                   ""
                 ],
                 [
-                  "e",
+                  "pranzo",
                   6,
                   ""
                 ],
@@ -27125,7 +26954,7 @@
                   ""
                 ],
                 [
-                  "mezza",
+                  "di",
                   7,
                   ""
                 ],
@@ -27135,7 +26964,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "ieri",
                   8,
                   ""
                 ],
@@ -27145,7 +26974,7 @@
                   ""
                 ],
                 [
-                  "casa",
+                  "basta",
                   9,
                   ""
                 ],
@@ -27155,8 +26984,28 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "per",
                   10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "una",
+                  11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "settimana",
+                  12,
                   ""
                 ],
                 [
@@ -27172,172 +27021,6 @@
           "segments": [
             {
               "id": "s02e01-3-089",
-              "it": "«Ma la casa mia è qui, papà.»",
-              "en": "“But my house is here, Dad.”",
-              "voice": [
-                [
-                  "chiara",
-                  "Ma la casa mia è qui, papà.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ma",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "casa",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mia",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "papà",
-                  6,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-3-090",
-              "it": "«Ah. Sì. La casa nuova.»",
-              "en": "“Ah. Yes. The new house.”",
-              "voice": [
-                [
-                  "franco",
-                  "Ah. Sì. La casa nuova.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "casa",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nuova",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-3-091",
               "it": "Franco mette il metro nella tasca.",
               "en": "Franco puts the tape measure in his pocket.",
               "voice": [
@@ -27411,7 +27094,7 @@
               ]
             },
             {
-              "id": "s02e01-3-092",
+              "id": "s02e01-3-090",
               "it": "«Io torno domani, alle sette.»",
               "en": "“I'm coming back tomorrow, at seven.”",
               "voice": [
@@ -27484,7 +27167,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-093",
+              "id": "s02e01-3-091",
               "it": "«Alle sette di mattina?»",
               "en": "“At seven in the morning?”",
               "voice": [
@@ -27547,7 +27230,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-094",
+              "id": "s02e01-3-092",
               "it": "«Alle sette. Con il **martello**.»",
               "en": "“At seven. With the **hammer**.”",
               "voice": [
@@ -27623,7 +27306,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-095",
+              "id": "s02e01-3-093",
               "it": "«Va bene.»",
               "en": "“All right.”",
               "voice": [
@@ -27666,7 +27349,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-096",
+              "id": "s02e01-3-094",
               "it": "«E domani porto anche il livello.»",
               "en": "“And tomorrow I'm bringing the level too.”",
               "voice": [
@@ -27749,7 +27432,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-097",
+              "id": "s02e01-3-095",
               "it": "«Il livello?»",
               "en": "“The level?”",
               "voice": [
@@ -27792,7 +27475,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-098",
+              "id": "s02e01-3-096",
               "it": "«Sì. Per i **muratori**. Loro hanno il cemento, io ho il livello.»",
               "en": "“Yes. For the **builders**. They have cement, I have the level.”",
               "voice": [
@@ -27938,7 +27621,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-099",
+              "id": "s02e01-3-097",
               "it": "Franco si gira verso la porta.",
               "en": "Franco turns toward the door.",
               "voice": [
@@ -28012,7 +27695,7 @@
               ]
             },
             {
-              "id": "s02e01-3-100",
+              "id": "s02e01-3-098",
               "it": "«Kevin, e la **riunione** con Bertoldi?»",
               "en": "“Kevin, and the **meeting** with Bertoldi?”",
               "voice": [
@@ -28098,7 +27781,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-101",
+              "id": "s02e01-3-099",
               "it": "«Sì. Abbiamo parlato dieci minuti.»",
               "en": "“Yes. We talked for ten minutes.”",
               "voice": [
@@ -28171,7 +27854,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-102",
+              "id": "s02e01-3-100",
               "it": "«Certo. Tu **hai chiamato**, **hai pagato** e lui **ha parlato**.»",
               "en": "“Of course. You **called**, you **paid**, and he **talked**.”",
               "voice": [
@@ -28297,7 +27980,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-103",
+              "id": "s02e01-3-101",
               "it": "«Sì.»",
               "en": "“Yes.”",
               "voice": [
@@ -28330,7 +28013,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-104",
+              "id": "s02e01-3-102",
               "it": "«Bene. Domani lo chiama Chiara.»",
               "en": "“Good. Tomorrow Chiara calls him.”",
               "voice": [
@@ -28403,7 +28086,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-105",
+              "id": "s02e01-3-103",
               "it": "«Papà!»",
               "en": "“Dad!”",
               "voice": [
@@ -28436,7 +28119,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-106",
+              "id": "s02e01-3-104",
               "it": "«Ah, no: domani lo **chiamo** io.»",
               "en": "“Oh, no: tomorrow I'll **call** him.”",
               "voice": [
@@ -28522,7 +28205,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-107",
+              "id": "s02e01-3-105",
               "it": "Franco esce e chiude piano la porta.",
               "en": "Franco goes out and quietly closes the door.",
               "voice": [
@@ -28606,7 +28289,7 @@
               ]
             },
             {
-              "id": "s02e01-3-108",
+              "id": "s02e01-3-106",
               "it": "Kevin guarda Chiara.",
               "en": "Kevin looks at Chiara.",
               "voice": [
@@ -28650,7 +28333,7 @@
               ]
             },
             {
-              "id": "s02e01-3-109",
+              "id": "s02e01-3-107",
               "it": "«**La settimana scorsa** ho **chiamato** io l'**impresa**.»",
               "en": "“**Last week** I **called** the **firm**.”",
               "voice": [
@@ -28758,7 +28441,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-110",
+              "id": "s02e01-3-108",
               "it": "«Lo so, Kevin.»",
               "en": "“I know, Kevin.”",
               "voice": [
@@ -28811,7 +28494,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-111",
+              "id": "s02e01-3-109",
               "it": "«E **ieri** abbiamo riso molto.»",
               "en": "“And **yesterday** we laughed a lot.”",
               "voice": [
@@ -28887,7 +28570,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-112",
+              "id": "s02e01-3-110",
               "it": "«Lo so.»",
               "en": "“I know.”",
               "voice": [
@@ -28930,7 +28613,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-113",
+              "id": "s02e01-3-111",
               "it": "«E adesso?»",
               "en": "“And now?”",
               "voice": [
@@ -28973,7 +28656,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-114",
+              "id": "s02e01-3-112",
               "it": "«Adesso c'è **Franco** alle sette di mattina.»",
               "en": "“Now there's **Franco** at seven in the morning.”",
               "voice": [
@@ -29069,7 +28752,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-115",
+              "id": "s02e01-3-113",
               "it": "«Ah.»",
               "en": "“Ah.”",
               "voice": [
@@ -29102,7 +28785,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-3-116",
+              "id": "s02e01-3-114",
               "it": "Kevin apre il quaderno giallo e scrive una parola nuova.",
               "en": "Kevin opens the yellow notebook and writes a new word.",
               "voice": [
@@ -29216,7 +28899,7 @@
               ]
             },
             {
-              "id": "s02e01-3-117",
+              "id": "s02e01-3-115",
               "it": "La parola è \"sorpresa\", ma adesso ha un altro senso.",
               "en": "The word is “surprise,” but now it has another meaning.",
               "voice": [
@@ -29330,7 +29013,7 @@
               ]
             },
             {
-              "id": "s02e01-3-118",
+              "id": "s02e01-3-116",
               "it": "Kevin la guarda e non dice niente.",
               "en": "Kevin looks at it and says nothing.",
               "voice": [
@@ -31458,12 +31141,12 @@
           "segments": [
             {
               "id": "s02e01-4-023",
-              "it": "«E ho comprato bicchieri nuovi.**Ieri**. Sedici bicchieri belli.»",
+              "it": "«E ho comprato bicchieri nuovi. **Ieri**. Sedici bicchieri belli.»",
               "en": "“And I bought new glasses. **Yesterday**. Sixteen beautiful glasses.”",
               "voice": [
                 [
                   "matteo",
-                  "E ho comprato bicchieri nuovi.**Ieri**. Sedici bicchieri belli.",
+                  "E ho comprato bicchieri nuovi. **Ieri**. Sedici bicchieri belli.",
                   "proud"
                 ]
               ],
@@ -31519,7 +31202,7 @@
                   ""
                 ],
                 [
-                  ".",
+                  ". ",
                   -1,
                   ""
                 ],
@@ -32902,12 +32585,12 @@
           "segments": [
             {
               "id": "s02e01-4-041",
-              "it": "«Sessanta euro.»",
-              "en": "“Sixty euros.”",
+              "it": "«Sessantaquattro euro.»",
+              "en": "“Sixty-four euros.”",
               "voice": [
                 [
                   "matteo",
-                  "Sessanta euro.",
+                  "Sessantaquattro euro.",
                   ""
                 ]
               ],
@@ -32918,7 +32601,7 @@
                   ""
                 ],
                 [
-                  "Sessanta",
+                  "Sessantaquattro",
                   0,
                   ""
                 ],
@@ -32945,12 +32628,12 @@
           "segments": [
             {
               "id": "s02e01-4-042",
-              "it": "«Sessanta euro per sedici bicchieri. Quattro euro a bicchiere.»",
-              "en": "“Sixty euros for sixteen glasses. Four euros a glass.”",
+              "it": "«Sessantaquattro euro per sedici bicchieri. Quattro euro a bicchiere.»",
+              "en": "“Sixty-four euros for sixteen glasses. Four euros a glass.”",
               "voice": [
                 [
                   "nadia",
-                  "Sessanta euro per sedici bicchieri. Quattro euro a bicchiere.",
+                  "Sessantaquattro euro per sedici bicchieri. Quattro euro a bicchiere.",
                   "dry"
                 ]
               ],
@@ -32961,7 +32644,7 @@
                   ""
                 ],
                 [
-                  "Sessanta",
+                  "Sessantaquattro",
                   0,
                   ""
                 ],
@@ -38468,7 +38151,8 @@
         "chiara",
         "ben",
         "emma",
-        "leo"
+        "leo",
+        "franco"
       ],
       "paragraphs": [
         {
@@ -48877,12 +48561,12 @@
           "segments": [
             {
               "id": "s02e01-6-027",
-              "it": "«Solo questo. Tre parole. Come il tram: due binari, un percorso.»",
-              "en": "“That's all. Three words. Like the tram: two tracks, one route.”",
+              "it": "«Solo questo. Poche parole. Come il tram: due binari, un percorso.»",
+              "en": "“That's all. Few words. Like the tram: two tracks, one route.”",
               "voice": [
                 [
                   "franco",
-                  "Solo questo. Tre parole. Come il tram: due binari, un percorso.",
+                  "Solo questo. Poche parole. Come il tram: due binari, un percorso.",
                   ""
                 ]
               ],
@@ -48913,7 +48597,7 @@
                   ""
                 ],
                 [
-                  "Tre",
+                  "Poche",
                   2,
                   ""
                 ],
@@ -52758,12 +52442,12 @@
             },
             {
               "id": "s02e01-6-070",
-              "it": "«Quarantamila? I **muratori** costano ventimila, non venticinquemila.»",
-              "en": "“Forty thousand? The **builders** cost twenty thousand, not twenty-five thousand.”",
+              "it": "«Quarantaduemila? I **muratori** costano ventimila, non venticinquemila.»",
+              "en": "“Forty-two thousand? The **builders** cost twenty thousand, not twenty-five thousand.”",
               "voice": [
                 [
                   "franco",
-                  "Quarantamila? I **muratori** costano ventimila, non venticinquemila.",
+                  "Quarantaduemila? I **muratori** costano ventimila, non venticinquemila.",
                   ""
                 ]
               ],
@@ -52774,7 +52458,7 @@
                   ""
                 ],
                 [
-                  "Quarantamila",
+                  "Quarantaduemila",
                   0,
                   ""
                 ],
@@ -52887,12 +52571,12 @@
           "segments": [
             {
               "id": "s02e01-6-072",
-              "it": "«Sì. Il lavoro è semplice. Rifa il muro, mette il pavimento, e via.»",
-              "en": "“Yes. The work is simple. Redo the wall, put in the floor, and away.”",
+              "it": "«Sì. Il lavoro è semplice. Rifanno il muro, mettono il pavimento, e via.»",
+              "en": "“Yes. The work is simple. They redo the wall, put in the floor, and that's it.”",
               "voice": [
                 [
                   "franco",
-                  "Sì. Il lavoro è semplice. Rifa il muro, mette il pavimento, e via.",
+                  "Sì. Il lavoro è semplice. Rifanno il muro, mettono il pavimento, e via.",
                   ""
                 ]
               ],
@@ -52953,7 +52637,7 @@
                   ""
                 ],
                 [
-                  "Rifa",
+                  "Rifanno",
                   5,
                   ""
                 ],
@@ -52983,7 +52667,7 @@
                   ""
                 ],
                 [
-                  "mette",
+                  "mettono",
                   8,
                   ""
                 ],
@@ -54341,490 +54025,6 @@
           "segments": [
             {
               "id": "s02e01-6-087",
-              "it": "Kevin guarda il quadro.",
-              "en": "Kevin looks at the picture.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda il quadro.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quadro",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e01-6-088",
-              "it": "«Il quadro?»",
-              "en": "“The picture?”",
-              "voice": [
-                [
-                  "franco",
-                  "Il quadro?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quadro",
-                  1,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-6-089",
-              "it": "«No, il **cantiere**. Dico il **cantiere**.»",
-              "en": "“No, the **building site**. I mean the **building site**.”",
-              "voice": [
-                [
-                  "ben",
-                  "No, il **cantiere**. Dico il **cantiere**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cantiere",
-                  2,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Dico",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cantiere",
-                  5,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-cantiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-6-090",
-              "it": "«Ah. Il **cantiere**.»",
-              "en": "“Ah. The **building site**.”",
-              "voice": [
-                [
-                  "franco",
-                  "Ah. Il **cantiere**.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ah",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cantiere",
-                  2,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-cantiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-6-091",
-              "it": "«C'è ancora **polvere** dappertutto, ma l'**impresa** lavora.»",
-              "en": "“There's still **dust** everywhere, but the **firm** is working.”",
-              "voice": [
-                [
-                  "ben",
-                  "C'è ancora **polvere** dappertutto, ma l'**impresa** lavora.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "C'è",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ancora",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "polvere",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dappertutto",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ma",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l",
-                  5,
-                  ""
-                ],
-                [
-                  "'",
-                  -1,
-                  ""
-                ],
-                [
-                  "impresa",
-                  6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lavora",
-                  7,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-polvere",
-                "v-impresa"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-6-092",
-              "it": "«L'**impresa** lavora perché tu **paghi**. Il **denaro** è il motore.»",
-              "en": "“The **firm** works because you **pay**. **Money** is the engine.”",
-              "voice": [
-                [
-                  "franco",
-                  "L'**impresa** lavora perché tu **paghi**. Il **denaro** è il motore.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "L",
-                  0,
-                  ""
-                ],
-                [
-                  "'",
-                  -1,
-                  ""
-                ],
-                [
-                  "impresa",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lavora",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "perché",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tu",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "paghi",
-                  5,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "denaro",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "motore",
-                  10,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-impresa",
-                "g-pp-avere",
-                "v-denaro"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e01-6-093",
               "it": "Franco mette il foglio sul tavolo e prende il martello.",
               "en": "Franco puts the sheet on the table and takes the hammer.",
               "voice": [
@@ -54938,7 +54138,7 @@
               ]
             },
             {
-              "id": "s02e01-6-094",
+              "id": "s02e01-6-088",
               "it": "«Adesso vado. Ci vediamo domani alla stessa ora?»",
               "en": "“Now I'm going. Do we meet tomorrow at the same time?”",
               "voice": [
@@ -55041,7 +54241,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-095",
+              "id": "s02e01-6-089",
               "it": "«Domani ho una **riunione** con l'**impresa**. Con Bertoldi.»",
               "en": "“Tomorrow I have a **meeting** with the **firm**. With Bertoldi.”",
               "voice": [
@@ -55158,7 +54358,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-096",
+              "id": "s02e01-6-090",
               "it": "«Sì?»",
               "en": "“Yes?”",
               "voice": [
@@ -55191,7 +54391,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-097",
+              "id": "s02e01-6-091",
               "it": "«Sì. Alle nove. Vuoi venire?»",
               "en": "“Yes. At nine. Do you want to come?”",
               "voice": [
@@ -55264,7 +54464,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-098",
+              "id": "s02e01-6-092",
               "it": "«Io? No. Il **capo** è tuo, non mio.»",
               "en": "“Me? No. The **boss** is yours, not mine.”",
               "voice": [
@@ -55370,7 +54570,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-099",
+              "id": "s02e01-6-093",
               "it": "«Il **capo** è di Kevin!»",
               "en": "“The **boss** is Kevin's!”",
               "voice": [
@@ -55446,7 +54646,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-100",
+              "id": "s02e01-6-094",
               "it": "«Ah. Allora vengo.»",
               "en": "“Ah. Then I'm coming.”",
               "voice": [
@@ -55499,7 +54699,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-101",
+              "id": "s02e01-6-095",
               "it": "Kevin guarda Chiara con la bocca aperta.",
               "en": "Kevin looks at Chiara with his mouth open.",
               "voice": [
@@ -55583,7 +54783,7 @@
               ]
             },
             {
-              "id": "s02e01-6-102",
+              "id": "s02e01-6-096",
               "it": "_Chi ha vinto adesso?_",
               "en": "_Who won just now?_",
               "voice": [
@@ -55641,7 +54841,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-103",
+              "id": "s02e01-6-097",
               "it": "Franco beve l'ultimo sorso del caffè.",
               "en": "Franco drinks the last sip of coffee.",
               "voice": [
@@ -55715,7 +54915,7 @@
               ]
             },
             {
-              "id": "s02e01-6-104",
+              "id": "s02e01-6-098",
               "it": "Poi, piano, guarda la cucina.",
               "en": "Then, slowly, he looks at the kitchen.",
               "voice": [
@@ -55779,7 +54979,7 @@
               ]
             },
             {
-              "id": "s02e01-6-105",
+              "id": "s02e01-6-099",
               "it": "«Non è male, la tua cucina.»",
               "en": "“It's not bad, your kitchen.”",
               "voice": [
@@ -55862,7 +55062,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-106",
+              "id": "s02e01-6-100",
               "it": "Kevin quasi fa cadere il bicchiere.",
               "en": "Kevin almost drops the cup.",
               "voice": [
@@ -55936,7 +55136,7 @@
               ]
             },
             {
-              "id": "s02e01-6-107",
+              "id": "s02e01-6-101",
               "it": "«Il mio bicchiere...»",
               "en": "“My cup...”",
               "voice": [
@@ -55989,7 +55189,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-108",
+              "id": "s02e01-6-102",
               "it": "«Attento.»",
               "en": "“Careful.”",
               "voice": [
@@ -56022,7 +55222,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-109",
+              "id": "s02e01-6-103",
               "it": "«Sì. Grazie.»",
               "en": "“Yes. Thank you.”",
               "voice": [
@@ -56065,7 +55265,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-110",
+              "id": "s02e01-6-104",
               "it": "«Domani, Kevin.»",
               "en": "“Tomorrow, Kevin.”",
               "voice": [
@@ -56108,7 +55308,7 @@
         {
           "segments": [
             {
-              "id": "s02e01-6-111",
+              "id": "s02e01-6-105",
               "it": "«Domani, Franco.»",
               "en": "“Tomorrow, Franco.”",
               "voice": [
@@ -57666,7 +56866,7 @@
           ]
         }
       ],
-      "time": "martedì sera, tag"
+      "time": "martedì sera"
     }
   ]
 }

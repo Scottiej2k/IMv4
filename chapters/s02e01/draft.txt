@@ -31,7 +31,7 @@ il consiglio | noun | m | piece of advice | consigli, consiglio
 
 # SCENE casa-carter | lunedì mattina | chiara, ben, leo, emma
 È lunedì mattina in Via dei Tigli 14. || It's Monday morning at Via dei Tigli 14.
-La casa è ancora vuota, ma il sole entra dalla finestra della cucina. || The house is still empty, but the sun comes in through the kitchen window.
+La casa è piena di scatole, ma il sole entra dalla finestra della cucina. || The house is full of boxes, but the sun comes in through the kitchen window.
 Kevin è in piedi dalle sei. || Kevin has been up since six.
 Ha un sorriso enorme in faccia. || He has a huge smile on his face.
 
@@ -106,14 +106,12 @@ Chiara controlla l'orologio. || Chiara checks her watch.
 «Con Bertoldi.»{chiara} || “With Bertoldi.”
 «Ma l'**impresa** è mia! Io ho **chiamato**, io ho scelto, io ho firmato!»{ben} || “But the **firm** is mine! I **called**, I chose, I signed!”
 
-Hmm. || Hmm.
 «Tu hai **chiamato**. Io ho **pagato**.»{chiara|fast} || “You **called**. I **paid**.”
 
-Hmm. Ehm. || Hmm. Um.
 «Va bene. Tu hai **pagato**.»{ben|quiet} || “All right. You **paid**.”
 
 Emma mette lo zaino sulle spalle. || Emma puts her backpack on her shoulders.
-«Io vado. Il treno delle sette e mezza non aspetta. E neanche Bassi.»{emma} || “I'm going. The seven-thirty train doesn't wait. And neither does Bassi.”
+«Io vado. Il treno delle sette e mezza non aspetta.»{emma} || “I'm going. The seven-thirty train doesn't wait.”
 «Emma! Oggi torni presto? Ci sono i **muratori**!»{leo} || “Emma! Are you coming home early today? The **builders** are here!”
 «Che gioia.»{emma|flat} || “What joy.”
 «Emma, dì "che bello".»{ben} || “Emma, say 'how nice'.”
@@ -153,8 +151,8 @@ Fuori ci sono tre uomini con caschi gialli e un furgone bianco. || Outside there
 
 «Buongiorno! Siamo i **muratori**.»{uomo|cheerful} || “Good morning! We're the **builders**.”
 Kevin si gira verso Chiara con la bocca aperta. || Kevin turns to Chiara with his mouth open.
-«Sono in anticipo di un giorno.»{ben|whispering} || “They're a day early.”
-«Kevin. Oggi è il primo giorno dei **lavori**.»{chiara} || “Kevin. Today is the first day of the **works**.”
+«Sono in anticipo di un'ora.»{ben|whispering} || “They're an hour early.”
+«Meglio così, Kevin. Oggi è il primo giorno dei **lavori**.»{chiara} || “All the better, Kevin. Today is the first day of the **works**.”
 «Il primo giorno!»{ben|excited} Kevin alza le braccia. «Benvenuti al **cantiere**!» || “The first day!” Kevin raises his arms. “Welcome to the **building site**!”
 
 «**Conta** i **muratori**, Leo.»{ben} || “**Count** the **builders**, Leo.”
@@ -184,7 +182,6 @@ Chiara si avvicina a Kevin. || Chiara comes close to Kevin.
 «Il caffè per il **capo**?»{chiara} || “Coffee for the **boss**?”
 «Il caffè per tutti. È una **riunione** importante.»{ben|serious} || “Coffee for everyone. It's an important **meeting**.”
 
-«Sì. E il caffè è pronto.»{ben} || “Yes. And the coffee is ready.”
 
 Chiara sorride e gli sistema il colletto. || Chiara smiles and fixes his collar.
 «Allora andiamo, **architetto** Carter.»{chiara|warm} || “Then let's go, **architect** Carter.”
@@ -312,7 +309,7 @@ Franco ha un metro in una mano, un **martello** nell'altra e un quaderno vecchio
 «Ah. Nessun problema.»{ben} || “Ah. No problem.”
 «Il quaderno tuo è nuovo. Il mio no.»{franco} Franco apre il quaderno vecchio. «Questo è del 1978.»{franco|proud} || “Your notebook is new. Mine isn't.” Franco opens the old notebook. “This one is from 1978.”
 «Mille...?»{ben} || “Nine...?”
-«Millenovecentosettantotto. Prima dei tuoi capelli bianchi.»{franco|dry} || “Nineteen seventy-eight. Before your white hair.”
+«Millenovecentosettantotto. Prima di Chiara.»{franco|dry} || “Nineteen seventy-eight. Before Chiara.”
 
 Franco entra in casa senza aspettare. || Franco comes into the house without waiting.
 Cammina piano nel corridoio, tocca il muro con la mano. || He walks slowly in the hallway, touches the wall with his hand.
@@ -365,7 +362,7 @@ Poi apre il quaderno vecchio e **conta** con la penna. || Then he opens the old 
 Franco **misura** il foglio con il dito. || Franco **measures** the sheet with his finger.
 «Ma è un'aggiunta a parte.»{franco} || “But it's a separate addition.”
 «Aggiunta?»{ben} || “Addition?”
-«Sì. Tu **paghì** il **tetto** dopo. Non ora.»{franco|slow} || “Yes. You **pay** for the **roof** later. Not now.”
+«Sì. Tu **paghi** il **tetto** dopo. Non ora.»{franco|slow} || “Yes. You **pay** for the **roof** later. Not now.”
 
 Chiara si avvicina e guarda il foglio. || Chiara comes close and looks at the sheet.
 «Papà, hai ragione.»{chiara|quiet} || “Dad, you're right.”
@@ -398,9 +395,7 @@ Leo arriva con un biscotto. || Leo arrives with a cookie.
 
 Chiara prende il computer e lo chiude. || Chiara takes the computer and closes it.
 «Papà, tu resti a pranzo?»{chiara|slow} || “Dad, are you staying for lunch?”
-«No. Il pranzo è alle dodici e mezza a casa mia.»{franco} || “No. Lunch is at twelve thirty at my house.”
-«Ma la casa mia è qui, papà.»{chiara} || “But my house is here, Dad.”
-«Ah. Sì. La casa nuova.»{franco} || “Ah. Yes. The new house.”
+«No. Mangio a casa mia. Il pranzo di ieri basta per una settimana.»{franco} || “No. I'll eat at my house. Yesterday's lunch is enough for a week.”
 
 Franco mette il metro nella tasca. || Franco puts the tape measure in his pocket.
 «Io torno domani, alle sette.»{franco} || “I'm coming back tomorrow, at seven.”
@@ -460,7 +455,7 @@ Nadia prende il quaderno e lo guarda. || Nadia takes the notebook and looks at i
 «E poi?»{nadia} || “And then?”
 «**Ieri** ho **pagato** la luce. Centottanta euro.»{matteo} || “**Yesterday** I **paid** the electricity. One hundred eighty euros.”
 «Bene.»{nadia} || “Good.”
-«E ho comprato bicchieri nuovi.**Ieri**. Sedici bicchieri belli.»{matteo|proud} || “And I bought new glasses. **Yesterday**. Sixteen beautiful glasses.”
+«E ho comprato bicchieri nuovi. **Ieri**. Sedici bicchieri belli.»{matteo|proud} || “And I bought new glasses. **Yesterday**. Sixteen beautiful glasses.”
 «Sedici bicchieri.»{nadia|dry} || “Sixteen glasses.”
 «Sì. Guarda i bicchieri vecchi: sono **sporchi**.»{matteo|proud} || “Yes. Look at the old glasses: they're **dirty**.”
 «I bicchieri vecchi sono **sporchi** o sono vecchi?»{nadia} || “Are the old glasses **dirty** or are they old?”
@@ -480,8 +475,8 @@ Matteo guarda le monetine sul bancone. || Matteo looks at the little coins on th
 «Il caffè nuovo è buono **e** costa trecento euro in più.»{nadia} || “The new coffee is good **and** costs three hundred euros more.”
 «Ah.»{matteo|quiet} || “Ah.”
 «E i bicchieri?»{nadia} || “And the glasses?”
-«Sessanta euro.»{matteo} || “Sixty euros.”
-«Sessanta euro per sedici bicchieri. Quattro euro a bicchiere.»{nadia|dry} || “Sixty euros for sixteen glasses. Four euros a glass.”
+«Sessantaquattro euro.»{matteo} || “Sixty-four euros.”
+«Sessantaquattro euro per sedici bicchieri. Quattro euro a bicchiere.»{nadia|dry} || “Sixty-four euros for sixteen glasses. Four euros a glass.”
 «Sono bicchieri di design!»{matteo|proud} || “They're designer glasses!”
 «Sì. E tu li **paghi**. Con il **denaro** del bar.»{nadia} || “Yes. And you **pay** for them. With the bar's **money**.”
 
@@ -556,7 +551,7 @@ Guarda fuori, verso la piazza vuota. || He looks outside, toward the empty squar
 Poi prende una monetina e la mette nel barattolo. || Then he takes a little coin and puts it in the jar.
 Fa un **rumore** piccolo, ma Matteo lo sente bene. || It makes a small **noise**, but Matteo hears it clearly.
 
-# SCENE casa-carter | lunedì pomeriggio | chiara, ben, emma, leo
+# SCENE casa-carter | lunedì pomeriggio | chiara, ben, emma, leo, franco
 Sono le cinque del pomeriggio in Via dei Tigli 14. || It's five in the afternoon at Via dei Tigli 14.
 I **muratori** **hanno finito** e adesso la casa è vuota. || The **builders** **have finished** and now the house is empty.
 Ma il piano di sotto è un campo di battaglia. || But the ground floor is a battlefield.
@@ -703,7 +698,7 @@ Kevin guarda il muro con molta attenzione. || Kevin looks at the wall very caref
 «E dico che cosa?»{ben} || “And I say what?”
 «Dici: "Il muro è storto. Rifate il muro."»{franco|slow} || “You say: 'The wall is crooked. Redo the wall.'”
 «Solo questo?»{ben} || “That's all?”
-«Solo questo. Tre parole. Come il tram: due binari, un percorso.»{franco} || “That's all. Three words. Like the tram: two tracks, one route.”
+«Solo questo. Poche parole. Come il tram: due binari, un percorso.»{franco} || “That's all. Few words. Like the tram: two tracks, one route.”
 
 Kevin prende il quaderno giallo. || Kevin takes the yellow notebook.
 «Aspetta. Scrivo.»{ben} || “Wait. I'm writing.”
@@ -755,9 +750,9 @@ Poi guarda il tavolo. || Then he looks at the table.
 «Eccolo.»{ben} Kevin gli dà il foglio. || “Here it is.” Kevin gives him the sheet.
 
 Franco apre il foglio e **controlla** le cifre con la penna. || Franco opens the sheet and **checks** the figures with the pen.
-«Quarantamila? I **muratori** costano ventimila, non venticinquemila.»{franco} || “Forty thousand? The **builders** cost twenty thousand, not twenty-five thousand.”
+«Quarantaduemila? I **muratori** costano ventimila, non venticinquemila.»{franco} || “Forty-two thousand? The **builders** cost twenty thousand, not twenty-five thousand.”
 «Ventimila?»{ben} || “Twenty thousand?”
-«Sì. Il lavoro è semplice. Rifa il muro, mette il pavimento, e via.»{franco} || “Yes. The work is simple. Redo the wall, put in the floor, and away.”
+«Sì. Il lavoro è semplice. Rifanno il muro, mettono il pavimento, e via.»{franco} || “Yes. The work is simple. They redo the wall, put in the floor, and that's it.”
 «E l'**operaio**?»{ben} || “And the **worker**?”
 «L'**operaio** è incluso. Forse ti chiedono cinquemila in più per i cavi.»{franco} || “The **worker** is included. Maybe they ask you five thousand more for the cables.”
 «I cavi?»{ben} || “The cables?”
@@ -774,12 +769,6 @@ Sono davanti al muro, come due **operai** veri. || They're in front of the wall,
 «Questo è un **consiglio** o un trucco?»{chiara} || “Is this **advice** or a trick?”
 «È un **consiglio**. I trucchi li tengo per il Milan.»{franco|dry} || “It's **advice**. I keep the tricks for Milan.”
 
-Kevin guarda il quadro. || Kevin looks at the picture.
-«Il quadro?»{franco} || “The picture?”
-«No, il **cantiere**. Dico il **cantiere**.»{ben} || “No, the **building site**. I mean the **building site**.”
-«Ah. Il **cantiere**.»{franco|dry} || “Ah. The **building site**.”
-«C'è ancora **polvere** dappertutto, ma l'**impresa** lavora.»{ben} || “There's still **dust** everywhere, but the **firm** is working.”
-«L'**impresa** lavora perché tu **paghi**. Il **denaro** è il motore.»{franco} || “The **firm** works because you **pay**. **Money** is the engine.”
 
 Franco mette il foglio sul tavolo e prende il martello. || Franco puts the sheet on the table and takes the hammer.
 «Adesso vado. Ci vediamo domani alla stessa ora?»{franco} || “Now I'm going. Do we meet tomorrow at the same time?”
@@ -803,7 +792,7 @@ Kevin quasi fa cadere il bicchiere. || Kevin almost drops the cup.
 «Domani, Kevin.»{franco} || “Tomorrow, Kevin.”
 «Domani, Franco.»{ben|happy} || “Tomorrow, Franco.”
 
-# SCENE casa-carter | martedì sera, tag | ben, chiara, leo
+# SCENE casa-carter | martedì sera | ben, chiara, leo
 Martedì sera, in Via dei Tigli 14. || Tuesday evening, at Via dei Tigli 14.
 La famiglia mangia la pizza seduta su scatole di cartone. || The family eats pizza sitting on cardboard boxes.
 La cucina è quasi vuota. || The kitchen is almost empty.

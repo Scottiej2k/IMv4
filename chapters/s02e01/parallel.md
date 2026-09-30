@@ -9,7 +9,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | È lunedì mattina in Via dei Tigli 14. | It's Monday morning at Via dei Tigli 14. |
-| La casa è ancora vuota, ma il sole entra dalla finestra della cucina. | The house is still empty, but the sun comes in through the kitchen window. |
+| La casa è piena di scatole, ma il sole entra dalla finestra della cucina. | The house is full of boxes, but the sun comes in through the kitchen window. |
 | Kevin è in piedi dalle sei. | Kevin has been up since six. |
 | Ha un sorriso enorme in faccia. | He has a huge smile on his face. |
 | «È nostra!» dice Kevin al soffitto. «La casa è nostra!» | “It's ours!” Kevin says to the ceiling. “The house is ours!” |
@@ -70,12 +70,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Con Bertoldi?» | “With Bertoldi?” |
 | «Con Bertoldi.» | “With Bertoldi.” |
 | «Ma l'**impresa** è mia! Io ho **chiamato**, io ho scelto, io ho firmato!» | “But the **firm** is mine! I **called**, I chose, I signed!” |
-| Hmm. | Hmm. |
 | «Tu hai **chiamato**. Io ho **pagato**.» | “You **called**. I **paid**.” |
-| Hmm. Ehm. | Hmm. Um. |
 | «Va bene. Tu hai **pagato**.» | “All right. You **paid**.” |
 | Emma mette lo zaino sulle spalle. | Emma puts her backpack on her shoulders. |
-| «Io vado. Il treno delle sette e mezza non aspetta. E neanche Bassi.» | “I'm going. The seven-thirty train doesn't wait. And neither does Bassi.” |
+| «Io vado. Il treno delle sette e mezza non aspetta.» | “I'm going. The seven-thirty train doesn't wait.” |
 | «Emma! Oggi torni presto? Ci sono i **muratori**!» | “Emma! Are you coming home early today? The **builders** are here!” |
 | «Che gioia.» | “What joy.” |
 | «Emma, dì "che bello".» | “Emma, say 'how nice'.” |
@@ -109,8 +107,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Fuori ci sono tre uomini con caschi gialli e un furgone bianco. | Outside there are three men with yellow helmets and a white van. |
 | «Buongiorno! Siamo i **muratori**.» | “Good morning! We're the **builders**.” |
 | Kevin si gira verso Chiara con la bocca aperta. | Kevin turns to Chiara with his mouth open. |
-| «Sono in anticipo di un giorno.» | “They're a day early.” |
-| «Kevin. Oggi è il primo giorno dei **lavori**.» | “Kevin. Today is the first day of the **works**.” |
+| «Sono in anticipo di un'ora.» | “They're an hour early.” |
+| «Meglio così, Kevin. Oggi è il primo giorno dei **lavori**.» | “All the better, Kevin. Today is the first day of the **works**.” |
 | «Il primo giorno!» Kevin alza le braccia. «Benvenuti al **cantiere**!» | “The first day!” Kevin raises his arms. “Welcome to the **building site**!” |
 | «**Conta** i **muratori**, Leo.» | “**Count** the **builders**, Leo.” |
 | «Uno, due, tre.» | “One, two, three.” |
@@ -134,7 +132,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. E porto anche il caffè.» | “Yes. And I'm bringing coffee too.” |
 | «Il caffè per il **capo**?» | “Coffee for the **boss**?” |
 | «Il caffè per tutti. È una **riunione** importante.» | “Coffee for everyone. It's an important **meeting**.” |
-| «Sì. E il caffè è pronto.» | “Yes. And the coffee is ready.” |
 | Chiara sorride e gli sistema il colletto. | Chiara smiles and fixes his collar. |
 | «Allora andiamo, **architetto** Carter.» | “Then let's go, **architect** Carter.” |
 | «**Architetto**? Ma io non sono **architetto**.» | “**Architect**? But I'm not an **architect**.” |
@@ -252,7 +249,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah. Nessun problema.» | “Ah. No problem.” |
 | «Il quaderno tuo è nuovo. Il mio no.» Franco apre il quaderno vecchio. «Questo è del 1978.» | “Your notebook is new. Mine isn't.” Franco opens the old notebook. “This one is from 1978.” |
 | «Mille...?» | “Nine...?” |
-| «Millenovecentosettantotto. Prima dei tuoi capelli bianchi.» | “Nineteen seventy-eight. Before your white hair.” |
+| «Millenovecentosettantotto. Prima di Chiara.» | “Nineteen seventy-eight. Before Chiara.” |
 | Franco entra in casa senza aspettare. | Franco comes into the house without waiting. |
 | Cammina piano nel corridoio, tocca il muro con la mano. | He walks slowly in the hallway, touches the wall with his hand. |
 | «Questo muro è troppo sottile.» | “This wall is too thin.” |
@@ -299,7 +296,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco **misura** il foglio con il dito. | Franco **measures** the sheet with his finger. |
 | «Ma è un'aggiunta a parte.» | “But it's a separate addition.” |
 | «Aggiunta?» | “Addition?” |
-| «Sì. Tu **paghì** il **tetto** dopo. Non ora.» | “Yes. You **pay** for the **roof** later. Not now.” |
+| «Sì. Tu **paghi** il **tetto** dopo. Non ora.» | “Yes. You **pay** for the **roof** later. Not now.” |
 | Chiara si avvicina e guarda il foglio. | Chiara comes close and looks at the sheet. |
 | «Papà, hai ragione.» | “Dad, you're right.” |
 | «Certo che ho ragione. Io ho quarant'anni di tram.» | “Of course I'm right. I have forty years of trams.” |
@@ -327,9 +324,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io sono vecchio, Leo. Vecchio e dritto.» | “I'm old, Leo. Old and straight.” |
 | Chiara prende il computer e lo chiude. | Chiara takes the computer and closes it. |
 | «Papà, tu resti a pranzo?» | “Dad, are you staying for lunch?” |
-| «No. Il pranzo è alle dodici e mezza a casa mia.» | “No. Lunch is at twelve thirty at my house.” |
-| «Ma la casa mia è qui, papà.» | “But my house is here, Dad.” |
-| «Ah. Sì. La casa nuova.» | “Ah. Yes. The new house.” |
+| «No. Mangio a casa mia. Il pranzo di ieri basta per una settimana.» | “No. I'll eat at my house. Yesterday's lunch is enough for a week.” |
 | Franco mette il metro nella tasca. | Franco puts the tape measure in his pocket. |
 | «Io torno domani, alle sette.» | “I'm coming back tomorrow, at seven.” |
 | «Alle sette di mattina?» | “At seven in the morning?” |
@@ -385,7 +380,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E poi?» | “And then?” |
 | «**Ieri** ho **pagato** la luce. Centottanta euro.» | “**Yesterday** I **paid** the electricity. One hundred eighty euros.” |
 | «Bene.» | “Good.” |
-| «E ho comprato bicchieri nuovi.**Ieri**. Sedici bicchieri belli.» | “And I bought new glasses. **Yesterday**. Sixteen beautiful glasses.” |
+| «E ho comprato bicchieri nuovi. **Ieri**. Sedici bicchieri belli.» | “And I bought new glasses. **Yesterday**. Sixteen beautiful glasses.” |
 | «Sedici bicchieri.» | “Sixteen glasses.” |
 | «Sì. Guarda i bicchieri vecchi: sono **sporchi**.» | “Yes. Look at the old glasses: they're **dirty**.” |
 | «I bicchieri vecchi sono **sporchi** o sono vecchi?» | “Are the old glasses **dirty** or are they old?” |
@@ -403,8 +398,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il caffè nuovo è buono **e** costa trecento euro in più.» | “The new coffee is good **and** costs three hundred euros more.” |
 | «Ah.» | “Ah.” |
 | «E i bicchieri?» | “And the glasses?” |
-| «Sessanta euro.» | “Sixty euros.” |
-| «Sessanta euro per sedici bicchieri. Quattro euro a bicchiere.» | “Sixty euros for sixteen glasses. Four euros a glass.” |
+| «Sessantaquattro euro.» | “Sixty-four euros.” |
+| «Sessantaquattro euro per sedici bicchieri. Quattro euro a bicchiere.» | “Sixty-four euros for sixteen glasses. Four euros a glass.” |
 | «Sono bicchieri di design!» | “They're designer glasses!” |
 | «Sì. E tu li **paghi**. Con il **denaro** del bar.» | “Yes. And you **pay** for them. With the bar's **money**.” |
 | Matteo mette le mani avanti. | Matteo puts his hands up. |
@@ -608,7 +603,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E dico che cosa?» | “And I say what?” |
 | «Dici: "Il muro è storto. Rifate il muro."» | “You say: 'The wall is crooked. Redo the wall.'” |
 | «Solo questo?» | “That's all?” |
-| «Solo questo. Tre parole. Come il tram: due binari, un percorso.» | “That's all. Three words. Like the tram: two tracks, one route.” |
+| «Solo questo. Poche parole. Come il tram: due binari, un percorso.» | “That's all. Few words. Like the tram: two tracks, one route.” |
 | Kevin prende il quaderno giallo. | Kevin takes the yellow notebook. |
 | «Aspetta. Scrivo.» | “Wait. I'm writing.” |
 | «Scrivi anche **i lavori**. E il **pavimento**.» | “Write **the works** too. And the **floor**.” |
@@ -651,9 +646,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **preventivo**. Dammi il **preventivo**.» | “The **estimate**. Give me the **estimate**.” |
 | «Eccolo.» Kevin gli dà il foglio. | “Here it is.” Kevin gives him the sheet. |
 | Franco apre il foglio e **controlla** le cifre con la penna. | Franco opens the sheet and **checks** the figures with the pen. |
-| «Quarantamila? I **muratori** costano ventimila, non venticinquemila.» | “Forty thousand? The **builders** cost twenty thousand, not twenty-five thousand.” |
+| «Quarantaduemila? I **muratori** costano ventimila, non venticinquemila.» | “Forty-two thousand? The **builders** cost twenty thousand, not twenty-five thousand.” |
 | «Ventimila?» | “Twenty thousand?” |
-| «Sì. Il lavoro è semplice. Rifa il muro, mette il pavimento, e via.» | “Yes. The work is simple. Redo the wall, put in the floor, and away.” |
+| «Sì. Il lavoro è semplice. Rifanno il muro, mettono il pavimento, e via.» | “Yes. The work is simple. They redo the wall, put in the floor, and that's it.” |
 | «E l'**operaio**?» | “And the **worker**?” |
 | «L'**operaio** è incluso. Forse ti chiedono cinquemila in più per i cavi.» | “The **worker** is included. Maybe they ask you five thousand more for the cables.” |
 | «I cavi?» | “The cables?” |
@@ -668,12 +663,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sempre chiedere di più. Poi **decidono** loro.» | “Always ask for more. Then they **decide**.” |
 | «Questo è un **consiglio** o un trucco?» | “Is this **advice** or a trick?” |
 | «È un **consiglio**. I trucchi li tengo per il Milan.» | “It's **advice**. I keep the tricks for Milan.” |
-| Kevin guarda il quadro. | Kevin looks at the picture. |
-| «Il quadro?» | “The picture?” |
-| «No, il **cantiere**. Dico il **cantiere**.» | “No, the **building site**. I mean the **building site**.” |
-| «Ah. Il **cantiere**.» | “Ah. The **building site**.” |
-| «C'è ancora **polvere** dappertutto, ma l'**impresa** lavora.» | “There's still **dust** everywhere, but the **firm** is working.” |
-| «L'**impresa** lavora perché tu **paghi**. Il **denaro** è il motore.» | “The **firm** works because you **pay**. **Money** is the engine.” |
 | Franco mette il foglio sul tavolo e prende il martello. | Franco puts the sheet on the table and takes the hammer. |
 | «Adesso vado. Ci vediamo domani alla stessa ora?» | “Now I'm going. Do we meet tomorrow at the same time?” |
 | «Domani ho una **riunione** con l'**impresa**. Con Bertoldi.» | “Tomorrow I have a **meeting** with the **firm**. With Bertoldi.” |
@@ -694,7 +683,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Domani, Kevin.» | “Tomorrow, Kevin.” |
 | «Domani, Franco.» | “Tomorrow, Franco.” |
 
-## 7. Casa Carter, Via dei Tigli 14 · martedì sera, tag
+## 7. Casa Carter, Via dei Tigli 14 · martedì sera
 
 | Italiano | English |
 |---|---|

@@ -6,7 +6,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 ## 1. Casa Carter, Via dei Tigli 14 · lunedì mattina
 
-È lunedì mattina in Via dei Tigli 14. La casa è ancora vuota, ma il sole entra dalla finestra della cucina. Kevin è in piedi dalle sei. Ha un sorriso enorme in faccia.
+È lunedì mattina in Via dei Tigli 14. La casa è piena di scatole, ma il sole entra dalla finestra della cucina. Kevin è in piedi dalle sei. Ha un sorriso enorme in faccia.
 
 «È nostra!» dice Kevin al soffitto. «La casa è nostra!»
 
@@ -86,11 +86,11 @@ Chiara controlla l'orologio. «Alle nove ho una **riunione** con il **capo** del
 
 «Ma l'**impresa** è mia! Io ho **chiamato**, io ho scelto, io ho firmato!»
 
-Hmm. «Tu hai **chiamato**. Io ho **pagato**.»
+«Tu hai **chiamato**. Io ho **pagato**.»
 
-Hmm. Ehm. «Va bene. Tu hai **pagato**.»
+«Va bene. Tu hai **pagato**.»
 
-Emma mette lo zaino sulle spalle. «Io vado. Il treno delle sette e mezza non aspetta. E neanche Bassi.»
+Emma mette lo zaino sulle spalle. «Io vado. Il treno delle sette e mezza non aspetta.»
 
 «Emma! Oggi torni presto? Ci sono i **muratori**!»
 
@@ -142,9 +142,9 @@ Suona il campanello. Tutti guardano la porta. Kevin apre. Fuori ci sono tre uomi
 
 «Buongiorno! Siamo i **muratori**.»
 
-Kevin si gira verso Chiara con la bocca aperta. «Sono in anticipo di un giorno.»
+Kevin si gira verso Chiara con la bocca aperta. «Sono in anticipo di un'ora.»
 
-«Kevin. Oggi è il primo giorno dei **lavori**.»
+«Meglio così, Kevin. Oggi è il primo giorno dei **lavori**.»
 
 «Il primo giorno!» Kevin alza le braccia. «Benvenuti al **cantiere**!»
 
@@ -183,8 +183,6 @@ Chiara si avvicina a Kevin. «**Riunione** alle nove con Bertoldi. Tu vieni?»
 «Il caffè per il **capo**?»
 
 «Il caffè per tutti. È una **riunione** importante.»
-
-«Sì. E il caffè è pronto.»
 
 Chiara sorride e gli sistema il colletto. «Allora andiamo, **architetto** Carter.»
 
@@ -332,7 +330,7 @@ Sono le undici e mezza. In Via dei Tigli 14 il furgone bianco è ancora davanti 
 
 «Mille...?»
 
-«Millenovecentosettantotto. Prima dei tuoi capelli bianchi.»
+«Millenovecentosettantotto. Prima di Chiara.»
 
 Franco entra in casa senza aspettare. Cammina piano nel corridoio, tocca il muro con la mano. «Questo muro è troppo sottile.»
 
@@ -402,7 +400,7 @@ Kevin arriva con il computer e le carte. «Franco, guarda il **preventivo** dell
 
 «Aggiunta?»
 
-«Sì. Tu **paghì** il **tetto** dopo. Non ora.»
+«Sì. Tu **paghi** il **tetto** dopo. Non ora.»
 
 Chiara si avvicina e guarda il foglio. «Papà, hai ragione.»
 
@@ -444,11 +442,7 @@ Leo arriva con un biscotto. «Nonno, e il **tetto**? È storto anche il **tetto*
 
 Chiara prende il computer e lo chiude. «Papà, tu resti a pranzo?»
 
-«No. Il pranzo è alle dodici e mezza a casa mia.»
-
-«Ma la casa mia è qui, papà.»
-
-«Ah. Sì. La casa nuova.»
+«No. Mangio a casa mia. Il pranzo di ieri basta per una settimana.»
 
 Franco mette il metro nella tasca. «Io torno domani, alle sette.»
 
@@ -528,7 +522,7 @@ Nadia prende il quaderno e lo guarda. «E poi?»
 
 «Bene.»
 
-«E ho comprato bicchieri nuovi.**Ieri**. Sedici bicchieri belli.»
+«E ho comprato bicchieri nuovi. **Ieri**. Sedici bicchieri belli.»
 
 «Sedici bicchieri.»
 
@@ -560,9 +554,9 @@ Matteo guarda le monetine sul bancone. «Ma il caffè nuovo è buono!»
 
 «E i bicchieri?»
 
-«Sessanta euro.»
+«Sessantaquattro euro.»
 
-«Sessanta euro per sedici bicchieri. Quattro euro a bicchiere.»
+«Sessantaquattro euro per sedici bicchieri. Quattro euro a bicchiere.»
 
 «Sono bicchieri di design!»
 
@@ -846,7 +840,7 @@ Kevin guarda il muro con molta attenzione. «E adesso che cosa facciamo?»
 
 «Solo questo?»
 
-«Solo questo. Tre parole. Come il tram: due binari, un percorso.»
+«Solo questo. Poche parole. Come il tram: due binari, un percorso.»
 
 Kevin prende il quaderno giallo. «Aspetta. Scrivo.»
 
@@ -904,11 +898,11 @@ Franco prende il caffè e beve un sorso. Poi guarda il tavolo. «Il **preventivo
 
 «Eccolo.» Kevin gli dà il foglio.
 
-Franco apre il foglio e **controlla** le cifre con la penna. «Quarantamila? I **muratori** costano ventimila, non venticinquemila.»
+Franco apre il foglio e **controlla** le cifre con la penna. «Quarantaduemila? I **muratori** costano ventimila, non venticinquemila.»
 
 «Ventimila?»
 
-«Sì. Il lavoro è semplice. Rifa il muro, mette il pavimento, e via.»
+«Sì. Il lavoro è semplice. Rifanno il muro, mettono il pavimento, e via.»
 
 «E l'**operaio**?»
 
@@ -933,16 +927,6 @@ Chiara beve il caffè e guarda i due uomini. Sono davanti al muro, come due **op
 «Questo è un **consiglio** o un trucco?»
 
 «È un **consiglio**. I trucchi li tengo per il Milan.»
-
-Kevin guarda il quadro. «Il quadro?»
-
-«No, il **cantiere**. Dico il **cantiere**.»
-
-«Ah. Il **cantiere**.»
-
-«C'è ancora **polvere** dappertutto, ma l'**impresa** lavora.»
-
-«L'**impresa** lavora perché tu **paghi**. Il **denaro** è il motore.»
 
 Franco mette il foglio sul tavolo e prende il martello. «Adesso vado. Ci vediamo domani alla stessa ora?»
 
@@ -972,7 +956,7 @@ Kevin quasi fa cadere il bicchiere. «Il mio bicchiere...»
 
 «Domani, Franco.»
 
-## 7. Casa Carter, Via dei Tigli 14 · martedì sera, tag
+## 7. Casa Carter, Via dei Tigli 14 · martedì sera
 
 Martedì sera, in Via dei Tigli 14. La famiglia mangia la pizza seduta su scatole di cartone. La cucina è quasi vuota. C'è ancora **polvere** sul **pavimento**. I **lavori** sono cominciati **ieri** e la casa è già cambiata.
 
