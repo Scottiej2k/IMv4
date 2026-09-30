@@ -159,6 +159,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin knows about Franco and Lucia; Matteo overhears and suspects Kevin has a secret, not its content. Chiara now knows Lucia knows Franco well; no Lei/tu switch.
 - **Planted:** Chiara and Lucia will make tiramisù at Franco’s Sunday; Chiara will search for Anna’s recipe list. Matteo must run the coffee machine next Sunday.
 
+### s01e23 · Che tempo fa?
+- **Happened:** Snow shuts the schools; Kevin shovels snow beside Roberto Colombo, who shovels in silence and then speaks twice. Franco corrects Kevin's "è freddo" to "fa freddo" and stops for coffee. Rain on Thursday melts the snow.
+- **New facts:** Kevin owns a new snow shovel with a red handle; Franco's is old. Kevin writes one new Italian word a day in a yellow notebook. Leo keeps a "quaderno dei gusti" and, with Emma, "l'elenco di papà" (sempre/spesso/qualche volta/mai). Chiara works from home; Marchetti says the Isola bank wants the project before Friday.
+- **Changed:** Franco invites Kevin in, makes him coffee and praises his shoveling ("La neve, tu la pulisci bene") — still calls him l'americano; Kevin still says signor Ferri.
+- **Planted:** Isola bank project, due before Friday.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
