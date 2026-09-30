@@ -95,7 +95,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Se lo rompo, la sorpresa esce?» chiede. | “If I break it, does the surprise come out?” Leo asks. |
 | «Sì,» dice. «Ma non provare.» | “Yes,” Chiara says. “But don't try.” |
 | «Provare è la parola giusta?» chiede Kevin. «Non è "provare" come "assaggiare"?» | “Is 'provare' the right word?” Kevin asks. “Isn't 'provare' like 'to taste'?” |
-| «Anche,» dice. «Provare una torta, provare un'idea, provare un'uovo.» | “Also,” Chiara says. “To try a cake, to try an idea, to try an egg.” |
+| «Anche,» dice. «Provare una torta, provare un'idea, provare un uovo.» | “Also,” Chiara says. “To try a cake, to try an idea, to try an egg.” |
 | «Grazie,» dice Kevin, e scrive nella mente: numero quarantatré. | “Thanks,” Kevin says, and writes in his mind: number forty-three. |
 | Emma guarda fuori dalla finestra. | Emma looks out the window. |
 | In giardino l'erba è bagnata e il muro vecchio è quasi bianco nella luce. | In the garden the grass is wet and the old wall is almost white in the light. |
@@ -223,7 +223,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché una cosa si dimentica sempre,» dice. «E la seconda la porta una vicina.» | “Because one thing is always forgotten,” Ornella says. “And the neighbor brings the second one.” |
 | Kevin **nota** che questa frase è vera e non sa perché. | Kevin **notices** that this sentence is true and doesn't know why. |
 | Chiara intanto cerca qualcosa in macchina. | Meanwhile Chiara is looking for something in the car. |
-| Ha **appena** trovato la mappa dell'anno **scorso**, sotto il sedile. | She has **just** found **last** year's map, under the seat. |
+| Ha **appena** trovato la mappa di Monza, sotto il sedile. | She has **just** found the map of Monza, under the seat. |
 | «Ecco,» dice. «La mappa. Con i segni di Kevin.» | “Here,” she says. “The map. With Kevin's marks on it.” |
 | «Che segni?» chiede Kevin. | “What marks?” Kevin asks. |
 | «Cuori e stelle,» dice. «Sulle strade sbagliate.» | “Hearts and stars,” Chiara says. “On the wrong roads.” |
@@ -257,7 +257,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Secondo, tu guidi con papà, e non prendi autostrade,» dice. «Terzo, ci fermiamo al primo parcheggio del **lago**.» | “Second, you drive with Dad, and you don't take highways,” Chiara says. “Third, we stop at the first parking lot by the **lago**.” |
 | «Perfetto,» dice Kevin. «Sono un navigatore eccellente.» | “Perfect,” Kevin says. “I'm an excellent navigator.” |
 | Emma guarda il cielo, che è azzurro e pulito. | Emma looks at the sky, which is blue and clean. |
-| «Papà, l'anno scorso ti sei perso tre volte,» dice. | “Dad, last year you got lost three times,” Emma says. |
+| «Papà, a Monza ti sei perso tre volte,» dice. | “Dad, in Monza you got lost three times,” Emma says. |
 | «Due volte,» dice Kevin. «E una volta la colpa è della mappa.» | “Twice,” Kevin says. “And one time the fault is the map's.” |
 | «La colpa è tua,» dice Chiara, e sale in macchina. | “The fault is yours,” Chiara says, and gets in the car. |
 | Roberto resta in mezzo alla strada con la cartella in mano. | Roberto stays in the middle of the street with his briefcase in his hand. |
@@ -308,8 +308,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ecco il **picnic** vero!» dice Matteo. «Tavolo e ombrellone. Siamo un ristorante.» | “Here's a real **picnic**!” Matteo says. “Table and umbrella. We're a restaurant.” |
 | «Un ristorante con il tavolo pieghevole,» dice Nadia. | “A restaurant with a folding table,” Nadia says. |
 | «L'anno **scorso** il **picnic** è finito male,» dice. «Vi ricordate? Pioggia dalle due alle cinque.» | “**Last** year the **picnic** ended badly,” Matteo says. “Do you remember? Rain from two to five.” |
-| «Me lo ricordo bene,» dice Chiara. «Kevin ha cantato in macchina per tre ore.» | “I remember it well,” Chiara says. “Kevin sang in the car for three hours.” |
-| «Canzoni italiane,» dice Kevin. «Studio, studio.» | “Italian songs,” Kevin says. “I'm studying, I'm studying.” |
+| «Me lo ricordo bene,» dice Chiara. «Ho perso un ombrello nuovo.» | “I remember it well,” Chiara says. “I lost a new umbrella.” |
+| «Quest'anno niente pioggia,» dice Kevin. «Ho guardato il meteo.» | “No rain this year,” Kevin says. “I checked the weather.” |
 | Franco alza gli occhi al cielo e guarda le nuvole. | Franco raises his eyes to the sky and looks at the clouds. |
 | «Oggi il **vento** arriva alle quattro,» dice. «Sempre alle quattro. Il vento del lago è puntuale.» | “Today the **vento** arrives at four,” Franco says. “Always at four. The lake wind is punctual.” |
 | «Come lo sai?» chiede Leo. | “How do you know?” Leo asks. |
@@ -462,8 +462,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Questo **panorama** è lo stesso di cinquanta anni **fa**,» dice. «Solo le barche sono più piccole.» | “This **panorama** is the same as fifty years **ago**,” Ornella says. “Only the boats are smaller.” |
 | «E una barca come quella, cinquant'anni **fa**?» chiede Chiara. | “And a boat like that one, fifty years **ago**?” Chiara asks. |
 | «La **barca** di Gino,» dice Ornella. «Piccola, verde, con il nome scritto sotto.» | “Gino's **barca**,” Ornella says. “Small, green, with the name written underneath.” |
-| «Come si chiamava?» chiede. | “What was it called?” Chiara asks. |
-| «Anna,» dice Ornella. «Come tua madre. Per questo vi siete conosciute bene.» | “Anna,” Ornella says. “Like your mother. That's why you two got along so well.” |
+| «E il nome?» chiede. | “And the name?” Chiara asks. |
+| «Anna,» dice Ornella. «Come tua madre. Una coincidenza bella.» | “Anna,” Ornella says. “Like your mother. A lovely coincidence.” |
 | Chiara non dice niente per un momento. | Chiara doesn't say anything for a moment. |
 | «Per anni siamo venuti qui, sulla **riva**, ogni **Pasquetta**,» dice Ornella. «Io, Gino, un **ombrellone** e una barca. Tutto il giorno.» | “For years we came here, on the **riva**, every **Pasquetta**,” Ornella says. “Me, Gino, an **ombrellone** and a boat. All day.” |
 | «E adesso?» chiede. | “And now?” Chiara asks. |
@@ -500,7 +500,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non è andata male,» dice Franco, e sale in macchina. | “It didn't go badly,” Franco says, and gets in the car. |
 | Kevin resta fermo per tre secondi con il fiocco giallo in mano. | Kevin stands still for three seconds with the yellow bow in his hand. |
 | Poi apre il quaderno giallo e scrive una riga nuova. | Then he opens the yellow notebook and writes a new line. |
-| _Diciassette. "Non è andata male" = un complimento. Il migliore._ | _Seventeen. "It didn't go badly" = a compliment. The best one._ |
+| _Quarantacinque. "Non è andata male" = un complimento. Il migliore._ | _Forty-five. "It didn't go badly" = a compliment. The best one._ |
 | Ornella, dalla riva, guarda una **barca** che passa piano verso il centro del lago. | Ornella, from the riva, watches a **barca** passing slowly toward the center of the lake. |
 | «Buona Pasquetta, Gino,» dice piano. | “Happy Pasquetta, Gino,” she says softly. |
 | Nessuno la sente, e va bene così. | Nobody hears her, and that's fine. |
@@ -526,7 +526,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quindi il **picnic** è finito **appena** ha cominciato,» dice Leo. | “So the picnic ended **just** as it started,” Leo says. |
 | Kevin si ferma con la borraccia in mano. | Kevin stops with the water bottle in his hand. |
 | _Come si dice questa frase in italiano? Così. Esattamente così._ | _How do you say this sentence in Italian? Like this. Exactly like this._ |
-| «Questa la scrivo,» dice Kevin, e prende il quaderno giallo. «Numero cinquantacinque.» | “I'm writing this one down,” Kevin says, and takes the yellow notebook. “Number fifty-five.” |
+| «Questa la scrivo,» dice Kevin, e prende il quaderno giallo. «Numero quarantasei.» | “I'm writing this one down,” Kevin says, and takes the yellow notebook. “Number forty-six.” |
 | Chiara compare sulla porta con una busta della spesa in mano. | Chiara appears at the door with a shopping bag in her hand. |
 | «Kevin,» dice Chiara. «Questa è la terza volta che porti dentro la stessa **borraccia**.» | “Kevin,” Chiara says. “This is the third time you've brought the same **borraccia** inside.” |
 | «È la prima volta che la porto dentro,» dice Kevin. | “It's the first time I've brought it inside,” Kevin says. |

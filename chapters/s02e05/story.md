@@ -120,7 +120,7 @@ Kevin ci pensa due secondi e decide che è un complimento. «Grazie,» dice. «�
 
 «Provare è la parola giusta?» chiede Kevin. «Non è "provare" come "assaggiare"?»
 
-«Anche,» dice. «Provare una torta, provare un'idea, provare un'uovo.»
+«Anche,» dice. «Provare una torta, provare un'idea, provare un uovo.»
 
 «Grazie,» dice Kevin, e scrive nella mente: numero quarantatré. Emma guarda fuori dalla finestra. In giardino l'erba è bagnata e il muro vecchio è quasi bianco nella luce.
 
@@ -256,7 +256,7 @@ Ornella apre la borsa e tira fuori una **tovaglia** piegata e un **ombrellone** 
 
 «Perché due?» chiede.
 
-«Perché una cosa si dimentica sempre,» dice. «E la seconda la porta una vicina.» Kevin **nota** che questa frase è vera e non sa perché. Chiara intanto cerca qualcosa in macchina. Ha **appena** trovato la mappa dell'anno **scorso**, sotto il sedile.
+«Perché una cosa si dimentica sempre,» dice. «E la seconda la porta una vicina.» Kevin **nota** che questa frase è vera e non sa perché. Chiara intanto cerca qualcosa in macchina. Ha **appena** trovato la mappa di Monza, sotto il sedile.
 
 «Ecco,» dice. «La mappa. Con i segni di Kevin.»
 
@@ -306,7 +306,7 @@ Chiara chiude il bagagliaio con energia. «Primo,» dice. «Io guido con Leo, Em
 
 «Perfetto,» dice Kevin. «Sono un navigatore eccellente.»
 
-Emma guarda il cielo, che è azzurro e pulito. «Papà, l'anno scorso ti sei perso tre volte,» dice.
+Emma guarda il cielo, che è azzurro e pulito. «Papà, a Monza ti sei perso tre volte,» dice.
 
 «Due volte,» dice Kevin. «E una volta la colpa è della mappa.»
 
@@ -360,9 +360,9 @@ Kevin apre il bagagliaio e guarda dentro. «Dove sono le bibite?» chiede. «Le 
 
 «L'anno **scorso** il **picnic** è finito male,» dice. «Vi ricordate? Pioggia dalle due alle cinque.»
 
-«Me lo ricordo bene,» dice Chiara. «Kevin ha cantato in macchina per tre ore.»
+«Me lo ricordo bene,» dice Chiara. «Ho perso un ombrello nuovo.»
 
-«Canzoni italiane,» dice Kevin. «Studio, studio.»
+«Quest'anno niente pioggia,» dice Kevin. «Ho guardato il meteo.»
 
 Franco alza gli occhi al cielo e guarda le nuvole. «Oggi il **vento** arriva alle quattro,» dice. «Sempre alle quattro. Il vento del lago è puntuale.»
 
@@ -540,9 +540,9 @@ Chiara alza la testa, sorpresa. «Papà,» dice. «Hai detto che Kevin ha ragion
 
 «La **barca** di Gino,» dice Ornella. «Piccola, verde, con il nome scritto sotto.»
 
-«Come si chiamava?» chiede.
+«E il nome?» chiede.
 
-«Anna,» dice Ornella. «Come tua madre. Per questo vi siete conosciute bene.» Chiara non dice niente per un momento. «Per anni siamo venuti qui, sulla **riva**, ogni **Pasquetta**,» dice Ornella. «Io, Gino, un **ombrellone** e una barca. Tutto il giorno.»
+«Anna,» dice Ornella. «Come tua madre. Una coincidenza bella.» Chiara non dice niente per un momento. «Per anni siamo venuti qui, sulla **riva**, ogni **Pasquetta**,» dice Ornella. «Io, Gino, un **ombrellone** e una barca. Tutto il giorno.»
 
 «E adesso?» chiede.
 
@@ -580,7 +580,7 @@ Kevin si gira verso di lui, con l'uovo in mano. «Non è andata male?» ripete K
 
 «Non è andata male,» dice Franco, e sale in macchina. Kevin resta fermo per tre secondi con il fiocco giallo in mano. Poi apre il quaderno giallo e scrive una riga nuova.
 
-_Diciassette. "Non è andata male" = un complimento. Il migliore._
+_Quarantacinque. "Non è andata male" = un complimento. Il migliore._
 
 Ornella, dalla riva, guarda una **barca** che passa piano verso il centro del lago. «Buona Pasquetta, Gino,» dice piano. Nessuno la sente, e va bene così.
 
@@ -596,7 +596,7 @@ Sono le nove di sera e la macchina è ancora piena di cose. Kevin fa tre viaggi 
 
 Leo guarda l'uovo sul tavolo per tre secondi. «Quindi il **picnic** è finito **appena** ha cominciato,» dice Leo.
 
-Kevin si ferma con la borraccia in mano. _Come si dice questa frase in italiano? Così. Esattamente così._ «Questa la scrivo,» dice Kevin, e prende il quaderno giallo. «Numero cinquantacinque.»
+Kevin si ferma con la borraccia in mano. _Come si dice questa frase in italiano? Così. Esattamente così._ «Questa la scrivo,» dice Kevin, e prende il quaderno giallo. «Numero quarantasei.»
 
 Chiara compare sulla porta con una busta della spesa in mano. «Kevin,» dice Chiara. «Questa è la terza volta che porti dentro la stessa **borraccia**.»
 

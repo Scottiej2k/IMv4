@@ -10354,7 +10354,7 @@
           "segments": [
             {
               "id": "s02e05-1-088",
-              "it": "«Anche,» dice. «Provare una torta, provare un'idea, provare un'uovo.»",
+              "it": "«Anche,» dice. «Provare una torta, provare un'idea, provare un uovo.»",
               "en": "“Also,” Chiara says. “To try a cake, to try an idea, to try an egg.”",
               "voice": [
                 [
@@ -10369,7 +10369,7 @@
                 ],
                 [
                   "chiara",
-                  "Provare una torta, provare un'idea, provare un'uovo.",
+                  "Provare una torta, provare un'idea, provare un uovo.",
                   ""
                 ]
               ],
@@ -10460,8 +10460,18 @@
                   ""
                 ],
                 [
-                  "un'uovo",
+                  "un",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "uovo",
+                  9,
                   ""
                 ],
                 [
@@ -24858,12 +24868,12 @@
             },
             {
               "id": "s02e05-3-033",
-              "it": "Ha **appena** trovato la mappa dell'anno **scorso**, sotto il sedile.",
-              "en": "She has **just** found **last** year's map, under the seat.",
+              "it": "Ha **appena** trovato la mappa di Monza, sotto il sedile.",
+              "en": "She has **just** found the map of Monza, under the seat.",
               "voice": [
                 [
                   "narrator",
-                  "Ha **appena** trovato la mappa dell'anno **scorso**, sotto il sedile.",
+                  "Ha **appena** trovato la mappa di Monza, sotto il sedile.",
                   ""
                 ]
               ],
@@ -24919,7 +24929,7 @@
                   ""
                 ],
                 [
-                  "dell'anno",
+                  "di",
                   5,
                   ""
                 ],
@@ -24929,9 +24939,9 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "Monza",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -24970,8 +24980,7 @@
                 ]
               ],
               "focus": [
-                "v-appena",
-                "v-scorso"
+                "v-appena"
               ]
             }
           ]
@@ -29067,12 +29076,12 @@
             },
             {
               "id": "s02e05-3-067",
-              "it": "«Papà, l'anno scorso ti sei perso tre volte,» dice.",
-              "en": "“Dad, last year you got lost three times,” Emma says.",
+              "it": "«Papà, a Monza ti sei perso tre volte,» dice.",
+              "en": "“Dad, in Monza you got lost three times,” Emma says.",
               "voice": [
                 [
                   "emma",
-                  "Papà, l'anno scorso ti sei perso tre volte,",
+                  "Papà, a Monza ti sei perso tre volte,",
                   ""
                 ],
                 [
@@ -29098,7 +29107,7 @@
                   ""
                 ],
                 [
-                  "l'anno",
+                  "a",
                   1,
                   ""
                 ],
@@ -29108,7 +29117,7 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "Monza",
                   2,
                   ""
                 ],
@@ -35258,8 +35267,8 @@
           "segments": [
             {
               "id": "s02e05-4-036",
-              "it": "«Me lo ricordo bene,» dice Chiara. «Kevin ha cantato in macchina per tre ore.»",
-              "en": "“I remember it well,” Chiara says. “Kevin sang in the car for three hours.”",
+              "it": "«Me lo ricordo bene,» dice Chiara. «Ho perso un ombrello nuovo.»",
+              "en": "“I remember it well,” Chiara says. “I lost a new umbrella.”",
               "voice": [
                 [
                   "chiara",
@@ -35273,7 +35282,7 @@
                 ],
                 [
                   "chiara",
-                  "Kevin ha cantato in macchina per tre ore.",
+                  "Ho perso un ombrello nuovo.",
                   ""
                 ]
               ],
@@ -35344,7 +35353,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Ho",
                   6,
                   ""
                 ],
@@ -35354,7 +35363,7 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "perso",
                   7,
                   ""
                 ],
@@ -35364,7 +35373,7 @@
                   ""
                 ],
                 [
-                  "cantato",
+                  "un",
                   8,
                   ""
                 ],
@@ -35374,7 +35383,7 @@
                   ""
                 ],
                 [
-                  "in",
+                  "ombrello",
                   9,
                   ""
                 ],
@@ -35384,38 +35393,8 @@
                   ""
                 ],
                 [
-                  "macchina",
+                  "nuovo",
                   10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tre",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ore",
-                  13,
                   ""
                 ],
                 [
@@ -35431,12 +35410,12 @@
           "segments": [
             {
               "id": "s02e05-4-037",
-              "it": "«Canzoni italiane,» dice Kevin. «Studio, studio.»",
-              "en": "“Italian songs,” Kevin says. “I'm studying, I'm studying.”",
+              "it": "«Quest'anno niente pioggia,» dice Kevin. «Ho guardato il meteo.»",
+              "en": "“No rain this year,” Kevin says. “I checked the weather.”",
               "voice": [
                 [
                   "ben",
-                  "Canzoni italiane,",
+                  "Quest'anno niente pioggia,",
                   ""
                 ],
                 [
@@ -35446,7 +35425,7 @@
                 ],
                 [
                   "ben",
-                  "Studio, studio.",
+                  "Ho guardato il meteo.",
                   ""
                 ]
               ],
@@ -35457,7 +35436,7 @@
                   ""
                 ],
                 [
-                  "Canzoni",
+                  "Quest'anno",
                   0,
                   ""
                 ],
@@ -35467,8 +35446,18 @@
                   ""
                 ],
                 [
-                  "italiane",
+                  "niente",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "pioggia",
+                  2,
                   ""
                 ],
                 [
@@ -35478,7 +35467,7 @@
                 ],
                 [
                   "dice",
-                  2,
+                  3,
                   ""
                 ],
                 [
@@ -35488,7 +35477,7 @@
                 ],
                 [
                   "Kevin",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -35497,18 +35486,38 @@
                   ""
                 ],
                 [
-                  "Studio",
-                  4,
+                  "Ho",
+                  5,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "studio",
-                  5,
+                  "guardato",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "meteo",
+                  8,
                   ""
                 ],
                 [
@@ -53787,12 +53796,12 @@
           "segments": [
             {
               "id": "s02e05-6-032",
-              "it": "«Come si chiamava?» chiede.",
-              "en": "“What was it called?” Chiara asks.",
+              "it": "«E il nome?» chiede.",
+              "en": "“And the name?” Chiara asks.",
               "voice": [
                 [
                   "chiara",
-                  "Come si chiamava?",
+                  "E il nome?",
                   ""
                 ],
                 [
@@ -53808,7 +53817,7 @@
                   ""
                 ],
                 [
-                  "Come",
+                  "E",
                   0,
                   ""
                 ],
@@ -53818,7 +53827,7 @@
                   ""
                 ],
                 [
-                  "si",
+                  "il",
                   1,
                   ""
                 ],
@@ -53828,7 +53837,7 @@
                   ""
                 ],
                 [
-                  "chiamava",
+                  "nome",
                   2,
                   ""
                 ],
@@ -53855,8 +53864,8 @@
           "segments": [
             {
               "id": "s02e05-6-033",
-              "it": "«Anna,» dice Ornella. «Come tua madre. Per questo vi siete conosciute bene.»",
-              "en": "“Anna,” Ornella says. “Like your mother. That's why you two got along so well.”",
+              "it": "«Anna,» dice Ornella. «Come tua madre. Una coincidenza bella.»",
+              "en": "“Anna,” Ornella says. “Like your mother. A lovely coincidence.”",
               "voice": [
                 [
                   "ornella",
@@ -53870,7 +53879,7 @@
                 ],
                 [
                   "ornella",
-                  "Come tua madre. Per questo vi siete conosciute bene.",
+                  "Come tua madre. Una coincidenza bella.",
                   ""
                 ]
               ],
@@ -53941,7 +53950,7 @@
                   ""
                 ],
                 [
-                  "Per",
+                  "Una",
                   6,
                   ""
                 ],
@@ -53951,7 +53960,7 @@
                   ""
                 ],
                 [
-                  "questo",
+                  "coincidenza",
                   7,
                   ""
                 ],
@@ -53961,38 +53970,8 @@
                   ""
                 ],
                 [
-                  "vi",
+                  "bella",
                   8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "siete",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "conosciute",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  11,
                   ""
                 ],
                 [
@@ -58605,18 +58584,18 @@
           "segments": [
             {
               "id": "s02e05-6-070",
-              "it": "_Diciassette. \"Non è andata male\" = un complimento. Il migliore._",
-              "en": "_Seventeen. \"It didn't go badly\" = a compliment. The best one._",
+              "it": "_Quarantacinque. \"Non è andata male\" = un complimento. Il migliore._",
+              "en": "_Forty-five. \"It didn't go badly\" = a compliment. The best one._",
               "voice": [
                 [
                   "ben",
-                  "Diciassette. \"Non è andata male\" = un complimento. Il migliore.",
+                  "Quarantacinque. \"Non è andata male\" = un complimento. Il migliore.",
                   "thinking to themself, quiet and close, happy"
                 ]
               ],
               "tokens": [
                 [
-                  "Diciassette",
+                  "Quarantacinque",
                   0,
                   "i"
                 ],
@@ -61248,8 +61227,8 @@
             },
             {
               "id": "s02e05-7-018",
-              "it": "«Questa la scrivo,» dice Kevin, e prende il quaderno giallo. «Numero cinquantacinque.»",
-              "en": "“I'm writing this one down,” Kevin says, and takes the yellow notebook. “Number fifty-five.”",
+              "it": "«Questa la scrivo,» dice Kevin, e prende il quaderno giallo. «Numero quarantasei.»",
+              "en": "“I'm writing this one down,” Kevin says, and takes the yellow notebook. “Number forty-six.”",
               "voice": [
                 [
                   "ben",
@@ -61263,7 +61242,7 @@
                 ],
                 [
                   "ben",
-                  "Numero cinquantacinque.",
+                  "Numero quarantasei.",
                   ""
                 ]
               ],
@@ -61384,7 +61363,7 @@
                   ""
                 ],
                 [
-                  "cinquantacinque",
+                  "quarantasei",
                   11,
                   ""
                 ],

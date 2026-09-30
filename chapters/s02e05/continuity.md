@@ -1,5 +1,5 @@
 ### s02e05 · Pasquetta
-- **Happened:** The Carters host their first Easter, then a thirteen-person Pasquetta picnic at the lake (Parco dei Tigli) with Franco, Lucia, Ornella, Matteo, Nadia, Samira, the Colombos, Tommaso. Kevin forgets chairs; Ornella supplies a colomba and second tablecloth; Franco grudgingly compliments Kevin twice.
-- **New facts:** Samira is Nadia's mother and cooks for the group; Marina Colombo attends; Roberto carries a notebook and often lacks a pen. Ornella's late husband Gino had a green boat named *Anna*, after Chiara's mother — that's how the two women became close. Kevin keeps a yellow notebook numbered to 55. Matteo has a notary document Nadia gave him, still unsigned.
-- **Changed:** Samira suspects Nadia is pregnant; Nadia has known three weeks and hasn't told Matteo.
-- **Planted:** Nadia must tell Matteo; Samira intends to raise it with her; Matteo's missed notary appointment.
+- **Happened:** Easter Sunday breakfast at number 14 (no colomba: the bakery is shut); Kevin hides five chocolate eggs. Easter Monday a 13-person picnic at a lake about half an hour away; Kevin forgets chairs, the lake wind rises at five, Franco loses three rounds of bocce to Ornella. Nadia nearly tells Matteo something twice and doesn't.
+- **New facts:** The lake (parco, bosco, stretto sentiero, riva) is 30 minutes by car, reached by a new road; Tommaso spends summers there, 2 km from his grandfather's. Gino's old boat was small and green, named *Anna*. Franco has gone there for fifty years; wind at four. Kevin keeps a yellow notebook, entries 42–46. Samira's frittata (onion and potato) is her mother's recipe.
+- **Changed:** Samira has guessed Nadia's secret (no eating, morning sickness) and says they'll talk; Nadia still hasn't told Matteo. Franco tells Kevin "non è andata male," nearly a compliment.
+- **Planted:** Nadia's news to Matteo; Matteo's unsigned notary document (he'll rebook); Leo's unopened sixth chocolate egg.
