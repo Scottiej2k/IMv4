@@ -1,0 +1,5 @@
+### s01e22 · Conosci Lucia?
+- **Happened:** First Bar Tigli Sunday brunch: 22 guests, €100, short of Nadia’s 30 target; Matteo’s new 20-button coffee machine yields one good coffee in twenty. Kevin tells Nadia he knows Lucia from the Centro civico and learns sapere vs conoscere. Chiara attends Lucia’s dance class and learns Franco talks about Anna and Anna’s tiramisù hides a secret.
+- **New facts:** Dario is a neighbor with a dog; Leo meets the mayor at Bar Tigli and now claims to know “everyone.” Lucia taught school 35 years; her class is in room 8, Centro civico. Coffee machine labeled NON TOCCARE — MACCHINA ARTISTICA. Kevin’s yellow notebook reaches page 41.
+- **Changed:** Kevin knows about Franco and Lucia; Matteo overhears and suspects Kevin has a secret, not its content. Chiara now knows Lucia knows Franco well; no Lei/tu switch.
+- **Planted:** Chiara and Lucia will make tiramisù at Franco’s Sunday; Chiara will search for Anna’s recipe list. Matteo must run the coffee machine next Sunday.

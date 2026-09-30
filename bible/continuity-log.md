@@ -153,6 +153,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco confirms to Kevin that Sunday dinner is with Lucia (Kevin has known about them since S1E10). Chiara hears that Franco laughed three times with Kevin.
 - **Planted:** the Sunday brunch (next episode) and Franco's Sunday with Lucia; the carrello must go back to the supermarket.
 
+### s01e22 · Conosci Lucia?
+- **Happened:** First Bar Tigli Sunday brunch: 22 guests, €100, short of Nadia’s 30 target; Matteo’s new 20-button coffee machine yields one good coffee in twenty. Kevin tells Nadia he knows Lucia from the Centro civico and learns sapere vs conoscere. Chiara attends Lucia’s dance class and learns Franco talks about Anna and Anna’s tiramisù hides a secret.
+- **New facts:** Dario is a neighbor with a dog; Leo meets the mayor at Bar Tigli and now claims to know “everyone.” Lucia taught school 35 years; her class is in room 8, Centro civico. Coffee machine labeled NON TOCCARE — MACCHINA ARTISTICA. Kevin’s yellow notebook reaches page 41.
+- **Changed:** Kevin knows about Franco and Lucia; Matteo overhears and suspects Kevin has a secret, not its content. Chiara now knows Lucia knows Franco well; no Lei/tu switch.
+- **Planted:** Chiara and Lucia will make tiramisù at Franco’s Sunday; Chiara will search for Anna’s recipe list. Matteo must run the coffee machine next Sunday.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
