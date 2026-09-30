@@ -1,0 +1,5 @@
+### s02e01 · Abbiamo comprato una casa
+- **Happened:** The Carters' first day of renovation on Via dei Tigli 14: keys arrived "ieri," works start Monday with Fratelli Bertoldi; the electrician cuts a cable and the lights go out; Tuesday Franco inspects the new kitchen wall, finds it crooked (5 cm), and finds the roof is billed as a separate extra.
+- **New facts:** Bertoldi firm (father quiet and good, tall son is the "capo"), workers arrive with yellow helmets; estimate ~42,000 euros, contractors' work ~20,000; Matteo bought a new coffee supplier, 16 "design" glasses and hid Franco's loan envelope in a jar marked "FRANCO — NON TOCCARE"; Bar Tigli March: 1,100 in, 1,400 out.
+- **Changed:** Franco invites himself to inspect the site daily at 7 a.m. and will go with Kevin to Tuesday 9 a.m. meeting with Bertoldi; he says the kitchen "isn't bad"; Franco doesn't know about the house purchase until Monday — he resents not being called.
+- **Planted:** Five crooked centimeters may force the wall to be redone; the roof's separate payment; Matteo must visit the notaio Tuesday morning (payoff pending).

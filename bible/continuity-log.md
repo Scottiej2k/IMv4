@@ -177,6 +177,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco and Lucia's relationship now public. Franco says Kevin's name to him and thanks him; Kevin accepts a Monday lunch at the Carters' house.
 - **Planted:** Franco inviting himself to lunch at Kevin and Chiara's "tomorrow" (Monday); Kevin and Franco's warming bond; Ornella's thought that Franco has changed the house.
 
+### s02e01 · Abbiamo comprato una casa
+- **Happened:** The Carters' first day of renovation on Via dei Tigli 14: keys arrived "ieri," works start Monday with Fratelli Bertoldi; the electrician cuts a cable and the lights go out; Tuesday Franco inspects the new kitchen wall, finds it crooked (5 cm), and finds the roof is billed as a separate extra.
+- **New facts:** Bertoldi firm (father quiet and good, tall son is the "capo"), workers arrive with yellow helmets; estimate ~42,000 euros, contractors' work ~20,000; Matteo bought a new coffee supplier, 16 "design" glasses and hid Franco's loan envelope in a jar marked "FRANCO — NON TOCCARE"; Bar Tigli March: 1,100 in, 1,400 out.
+- **Changed:** Franco invites himself to inspect the site daily at 7 a.m. and will go with Kevin to Tuesday 9 a.m. meeting with Bertoldi; he says the kitchen "isn't bad"; Franco doesn't know about the house purchase until Monday — he resents not being called.
+- **Planted:** Five crooked centimeters may force the wall to be redone; the roof's separate payment; Matteo must visit the notaio Tuesday morning (payoff pending).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
