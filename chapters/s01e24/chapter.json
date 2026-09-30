@@ -225,10 +225,10 @@
       "lemma": "il bicchiere",
       "pos": "noun",
       "en": "glass",
-      "example": "s01e24-5-087",
+      "example": "s01e24-5-011",
       "target": {
-        "it": "bicchieri",
-        "en": "glasses"
+        "it": "Bicchieri",
+        "en": "Glasses"
       },
       "gender": "m"
     },
@@ -237,10 +237,10 @@
       "lemma": "il vassoio",
       "pos": "noun",
       "en": "tray",
-      "example": "s01e24-5-088",
+      "example": "s01e24-4-132",
       "target": {
-        "it": "vassoi",
-        "en": "trays"
+        "it": "vassoio",
+        "en": "tray"
       },
       "gender": "m"
     },
@@ -297,7 +297,7 @@
       "lemma": "mescolare",
       "pos": "verb",
       "en": "to stir, to mix",
-      "example": "s01e24-5-104",
+      "example": "s01e24-5-084",
       "target": {
         "it": "Mescolare",
         "en": "Stir"
@@ -347,7 +347,8 @@
         "ben",
         "chiara",
         "matteo",
-        "nadia"
+        "nadia",
+        "emma"
       ],
       "paragraphs": [
         {
@@ -27041,7 +27042,8 @@
       "location": "casa-franco",
       "characters": [
         "chiara",
-        "lucia"
+        "lucia",
+        "franco"
       ],
       "paragraphs": [
         {
@@ -27498,12 +27500,12 @@
             },
             {
               "id": "s01e24-4-005",
-              "it": "Lucia è già lì, con un grembiule e una carta in mano.",
-              "en": "Lucia is already there, with an apron and a card in her hand.",
+              "it": "Lucia è già lì, con un grembiule.",
+              "en": "Lucia is already there, with an apron.",
               "voice": [
                 [
                   "narrator",
-                  "Lucia è già lì, con un grembiule e una carta in mano.",
+                  "Lucia è già lì, con un grembiule.",
                   ""
                 ]
               ],
@@ -27571,56 +27573,6 @@
                 [
                   "grembiule",
                   6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "carta",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "in",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mano",
-                  11,
                   ""
                 ],
                 [
@@ -28666,12 +28618,12 @@
             },
             {
               "id": "s01e24-4-018",
-              "it": "Poi tira fuori la sua carta.",
-              "en": "Then she pulls out her card.",
+              "it": "Poi guarda Chiara.",
+              "en": "Then she looks at Chiara.",
               "voice": [
                 [
                   "narrator",
-                  "Poi tira fuori la sua carta.",
+                  "Poi guarda Chiara.",
                   ""
                 ]
               ],
@@ -28687,7 +28639,7 @@
                   ""
                 ],
                 [
-                  "tira",
+                  "guarda",
                   1,
                   ""
                 ],
@@ -28697,38 +28649,8 @@
                   ""
                 ],
                 [
-                  "fuori",
+                  "Chiara",
                   2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sua",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "carta",
-                  5,
                   ""
                 ],
                 [
@@ -28740,116 +28662,12 @@
             },
             {
               "id": "s01e24-4-019",
-              "it": "La carta è vecchia, gialla, con macchie di caffè.",
-              "en": "The card is old, yellow, with coffee stains.",
-              "voice": [
-                [
-                  "narrator",
-                  "La carta è vecchia, gialla, con macchie di caffè.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "La",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "carta",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vecchia",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gialla",
-                  4,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "macchie",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e24-4-020",
-              "it": "«Ecco la ricetta di tua madre.»",
-              "en": "“Here's your mother's recipe.”",
+              "it": "«Hai la ricetta di tua madre?»",
+              "en": "“Do you have your mother's recipe?”",
               "voice": [
                 [
                   "lucia",
-                  "Ecco la ricetta di tua madre.",
+                  "Hai la ricetta di tua madre?",
                   "quiet"
                 ]
               ],
@@ -28860,7 +28678,7 @@
                   ""
                 ],
                 [
-                  "Ecco",
+                  "Hai",
                   0,
                   ""
                 ],
@@ -28915,7 +28733,151 @@
                   ""
                 ],
                 [
-                  ".»",
+                  "?»",
+                  -1,
+                  ""
+                ]
+              ]
+            },
+            {
+              "id": "s01e24-4-020",
+              "it": "Chiara tira fuori dalla borsa una carta vecchia, gialla, con macchie di caffè.",
+              "en": "Chiara takes an old, yellow card with coffee stains out of her bag.",
+              "voice": [
+                [
+                  "narrator",
+                  "Chiara tira fuori dalla borsa una carta vecchia, gialla, con macchie di caffè.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Chiara",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tira",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fuori",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dalla",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "borsa",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "una",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "carta",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "vecchia",
+                  7,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "gialla",
+                  8,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "con",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "macchie",
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "caffè",
+                  12,
+                  ""
+                ],
+                [
+                  ".",
                   -1,
                   ""
                 ]
@@ -29158,12 +29120,12 @@
           "segments": [
             {
               "id": "s01e24-4-024",
-              "it": "«Sì. La ricetta è di Anna, tanti anni fa, al corso di cucina.»",
-              "en": "“Yes. The recipe is Anna's, many years ago, at the cooking class.”",
+              "it": "«Che bella scrittura, tesoro.»",
+              "en": "“What lovely handwriting, sweetheart.”",
               "voice": [
                 [
                   "lucia",
-                  "Sì. La ricetta è di Anna, tanti anni fa, al corso di cucina.",
+                  "Che bella scrittura, tesoro.",
                   ""
                 ]
               ],
@@ -29174,17 +29136,17 @@
                   ""
                 ],
                 [
-                  "Sì",
+                  "Che",
                   0,
                   ""
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "La",
+                  "bella",
                   1,
                   ""
                 ],
@@ -29194,108 +29156,18 @@
                   ""
                 ],
                 [
-                  "ricetta",
+                  "scrittura",
                   2,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "è",
+                  "tesoro",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Anna",
-                  5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tanti",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anni",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fa",
-                  8,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "corso",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cucina",
-                  12,
                   ""
                 ],
                 [
@@ -38213,7 +38085,10 @@
       "characters": [
         "matteo",
         "nadia",
-        "ben"
+        "ben",
+        "emma",
+        "leo",
+        "chiara"
       ],
       "paragraphs": [
         {
@@ -43877,1707 +43752,15 @@
                   ""
                 ]
               ]
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "id": "s01e24-5-078",
-              "it": "Matteo prende la penna e scrive sul **quaderno** di Kevin.",
-              "en": "Matteo takes the pen and writes in Kevin's **notebook**.",
+              "it": "Kevin guarda il **quaderno** con le liste.",
+              "en": "Kevin looks at the **notebook** with the lists.",
               "voice": [
                 [
                   "narrator",
-                  "Matteo prende la penna e scrive sul **quaderno** di Kevin.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "penna",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scrive",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sul",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-stare-gerundio"
-              ]
-            },
-            {
-              "id": "s01e24-5-079",
-              "it": "«Adesso il menu. Quattro minuti.»",
-              "en": "“Now the menu. Four minutes.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Adesso il menu. Quattro minuti.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Adesso",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "menu",
-                  2,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Quattro",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "minuti",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e24-5-080",
-              "it": "Matteo scrive **veloce**, con la **voce** bassa.",
-              "en": "Matteo writes **fast**, in a low **voice**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Matteo scrive **veloce**, con la **voce** bassa.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scrive",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "veloce",
-                  2,
-                  "b"
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "voce",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bassa",
-                  6,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-veloce",
-                "v-voce"
-              ]
-            },
-            {
-              "id": "s01e24-5-081",
-              "it": "«Primo: lasagne. Secondo: arrosto con patate. Terzo: tiramisù.»",
-              "en": "“First: lasagna. Second: roast with potatoes. Third: tiramisù.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Primo: lasagne. Secondo: arrosto con patate. Terzo: tiramisù.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Primo",
-                  0,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lasagne",
-                  1,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Secondo",
-                  2,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "arrosto",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "patate",
-                  5,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Terzo",
-                  6,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tiramisù",
-                  7,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-082",
-              "it": "«E i **bicchieri** per il vino?»",
-              "en": "“And the **glasses** for the wine?”",
-              "voice": [
-                [
-                  "ben",
-                  "E i **bicchieri** per il vino?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchieri",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vino",
-                  5,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bicchiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-083",
-              "it": "«Kevin, i **bicchieri** per il vino sono **bicchieri** diversi.»",
-              "en": "“Kevin, the wine **glasses** are different **glasses**.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Kevin, i **bicchieri** per il vino sono **bicchieri** diversi.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchieri",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vino",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sono",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchieri",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "diversi",
-                  8,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bicchiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-084",
-              "it": "«**Bicchieri** diversi?»",
-              "en": "“Different **glasses**?”",
-              "voice": [
-                [
-                  "ben",
-                  "**Bicchieri** diversi?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bicchieri",
-                  0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "diversi",
-                  1,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bicchiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-085",
-              "it": "«Sì. **Bicchieri** piccoli per il vino. **Bicchieri** grandi per l'acqua.»",
-              "en": "“Yes. Small **glasses** for wine. Big **glasses** for water.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Sì. **Bicchieri** piccoli per il vino. **Bicchieri** grandi per l'acqua.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sì",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bicchieri",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "piccoli",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vino",
-                  5,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Bicchieri",
-                  6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "grandi",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l'acqua",
-                  9,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bicchiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-086",
-              "it": "Kevin guarda il **quaderno** e chiude gli occhi.",
-              "en": "Kevin looks at the **notebook** and closes his eyes.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda il **quaderno** e chiude gli occhi.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Kevin",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guarda",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiude",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "gli",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "occhi",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-stare-gerundio"
-              ]
-            },
-            {
-              "id": "s01e24-5-087",
-              "it": "«Quanti **bicchieri** in tutto?»",
-              "en": "“How many **glasses** in all?”",
-              "voice": [
-                [
-                  "ben",
-                  "Quanti **bicchieri** in tutto?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Quanti",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchieri",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "in",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutto",
-                  3,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bicchiere"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-088",
-              "it": "«Ottantotto **bicchieri**. E sei **vassoi**.»",
-              "en": "“Eighty-eight **glasses**. And six **trays**.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Ottantotto **bicchieri**. E sei **vassoi**.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ottantotto",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchieri",
-                  1,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sei",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vassoi",
-                  4,
-                  "b"
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-bicchiere",
-                "v-vassoio"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-089",
-              "it": "«Ottantotto?»",
-              "en": "“Eighty-eight?”",
-              "voice": [
-                [
-                  "ben",
-                  "Ottantotto?",
-                  "gasp"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ottantotto",
-                  0,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-090",
-              "it": "«No. Tre **vassoi**. Errore mio.»",
-              "en": "“No. Three **trays**. My mistake.”",
-              "voice": [
-                [
-                  "nadia",
-                  "No. Tre **vassoi**. Errore mio.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tre",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vassoi",
-                  2,
-                  "b"
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Errore",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-vassoio"
-              ]
-            },
-            {
-              "id": "s01e24-5-091",
-              "it": "Nadia prende il **quaderno** e cancella tre cose.",
-              "en": "Nadia takes the **notebook** and crosses out three things.",
-              "voice": [
-                [
-                  "narrator",
-                  "Nadia prende il **quaderno** e cancella tre cose.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quaderno",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cancella",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tre",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cose",
-                  7,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-stare-gerundio"
-              ]
-            },
-            {
-              "id": "s01e24-5-092",
-              "it": "«Via il secondo dolce. Via i biscotti. Via il caffè speciale.»",
-              "en": "“Out with the second dessert. Out with the cookies. Out with the special coffee.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Via il secondo dolce. Via i biscotti. Via il caffè speciale.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Via",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "secondo",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dolce",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Via",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "biscotti",
-                  6,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Via",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caffè",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "speciale",
-                  10,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-093",
-              "it": "«Ma io voglio...»",
-              "en": "“But I want...”",
-              "voice": [
-                [
-                  "matteo",
-                  "Ma io voglio...",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ma",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "io",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "voglio",
-                  2,
-                  ""
-                ],
-                [
-                  "...»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-094",
-              "it": "«Matteo, il bar è piccolo. Siamo ventidue persone. Basta così.»",
-              "en": "“Matteo, the bar is small. We're twenty-two people. That's enough.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Matteo, il bar è piccolo. Siamo ventidue persone. Basta così.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bar",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "piccolo",
-                  4,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Siamo",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ventidue",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "persone",
-                  7,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Basta",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "così",
-                  9,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-095",
-              "it": "Matteo alza le mani.",
-              "en": "Matteo raises his hands.",
-              "voice": [
-                [
-                  "narrator",
-                  "Matteo alza le mani.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "alza",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mani",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e24-5-096",
-              "it": "«Va bene, va bene. Nadia è il capo.»",
-              "en": "“All right, all right. Nadia is the boss.”",
-              "voice": [
-                [
-                  "matteo",
-                  "Va bene, va bene. Nadia è il capo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Va",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  1,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "va",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  3,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Nadia",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "capo",
-                  7,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s01e24-5-097",
-              "it": "«Sempre.»",
-              "en": "“Always.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Sempre.",
-                  "dry"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Sempre",
-                  0,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s01e24-5-098",
-              "it": "Kevin guarda il **quaderno** con le liste, le croci, i **bicchieri**, i **tovaglioli** e i **vassoi**.",
-              "en": "Kevin looks at the **notebook** with the lists, the crosses, the **glasses**, the **napkins**, and the **trays**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Kevin guarda il **quaderno** con le liste, le croci, i **bicchieri**, i **tovaglioli** e i **vassoi**.",
+                  "Kevin guarda il **quaderno** con le liste.",
                   ""
                 ]
               ],
@@ -45648,110 +43831,17 @@
                   ""
                 ],
                 [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "croci",
-                  8,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bicchieri",
-                  10,
-                  "b"
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tovaglioli",
-                  12,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  14,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "vassoi",
-                  15,
-                  "b"
-                ],
-                [
                   ".",
                   -1,
                   ""
                 ]
               ],
               "focus": [
-                "g-stare-gerundio",
-                "v-bicchiere",
-                "v-tovagliolo",
-                "v-vassoio"
+                "g-stare-gerundio"
               ]
             },
             {
-              "id": "s01e24-5-099",
+              "id": "s01e24-5-079",
               "it": "Poi scrive una parola nuova in alto: TIRAMISÙ.",
               "en": "Then he writes a new word at the top: TIRAMISÙ.",
               "voice": [
@@ -45845,7 +43935,7 @@
               ]
             },
             {
-              "id": "s01e24-5-100",
+              "id": "s01e24-5-080",
               "it": "Poi sotto scrive: **ASSAGGIARE** — CON IL **CUCCHIAIO**.",
               "en": "Then under it he writes: **TASTE** — WITH THE **SPOON**.",
               "voice": [
@@ -45937,7 +44027,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-101",
+              "id": "s01e24-5-081",
               "it": "«Kevin, cosa **stai facendo**?»",
               "en": "“Kevin, what **are you doing**?”",
               "voice": [
@@ -46003,7 +44093,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-102",
+              "id": "s01e24-5-082",
               "it": "«**Sto mescolando** le idee.»",
               "en": "“I'm **mixing** ideas.”",
               "voice": [
@@ -46069,7 +44159,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-103",
+              "id": "s01e24-5-083",
               "it": "«**Stai mescolando** le idee?»",
               "en": "“You're **mixing** ideas?”",
               "voice": [
@@ -46135,7 +44225,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-104",
+              "id": "s01e24-5-084",
               "it": "«Sì. Come la **panna**. **Mescolare** piano, poi **mescolare** **veloce**.»",
               "en": "“Yes. Like **cream**. **Stir** slowly, then **stir** **fast**.”",
               "voice": [
@@ -46253,7 +44343,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-105",
+              "id": "s01e24-5-085",
               "it": "Matteo ride. Nadia non ride.",
               "en": "Matteo laughs. Nadia doesn't laugh.",
               "voice": [
@@ -46317,7 +44407,7 @@
               ]
             },
             {
-              "id": "s01e24-5-106",
+              "id": "s01e24-5-086",
               "it": "«Kevin, il problema di domani è uno solo.»",
               "en": "“Kevin, tomorrow's problem is only one.”",
               "voice": [
@@ -46420,7 +44510,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-107",
+              "id": "s01e24-5-087",
               "it": "«Quale?»",
               "en": "“Which one?”",
               "voice": [
@@ -46453,7 +44543,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-108",
+              "id": "s01e24-5-088",
               "it": "«Franco. Lui è fuori, con il giornale, e lui sa qualcosa.»",
               "en": "“Franco. He's outside, with the newspaper, and he knows something.”",
               "voice": [
@@ -46586,7 +44676,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-109",
+              "id": "s01e24-5-089",
               "it": "«Ma come? È tutto segreto!»",
               "en": "“But how? Everything is secret!”",
               "voice": [
@@ -46659,7 +44749,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-110",
+              "id": "s01e24-5-090",
               "it": "«Kevin, il segreto non è un lavoro per uno.»",
               "en": "“Kevin, a secret isn't a job for one person.”",
               "voice": [
@@ -46772,7 +44862,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-111",
+              "id": "s01e24-5-091",
               "it": "«No?»",
               "en": "“No?”",
               "voice": [
@@ -46805,7 +44895,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-112",
+              "id": "s01e24-5-092",
               "it": "«No. Il segreto è uno sport di squadra.»",
               "en": "“No. A secret is a team sport.”",
               "voice": [
@@ -46904,7 +44994,7 @@
               ]
             },
             {
-              "id": "s01e24-5-113",
+              "id": "s01e24-5-093",
               "it": "Kevin scrive sul **quaderno**: IL SEGRETO È UNO SPORT DI SQUADRA.",
               "en": "Kevin writes in the **notebook**: A SECRET IS A TEAM SPORT.",
               "voice": [
@@ -47031,7 +45121,7 @@
               ]
             },
             {
-              "id": "s01e24-5-114",
+              "id": "s01e24-5-094",
               "it": "Poi guarda fuori. Franco è ancora lì, con il giornale.",
               "en": "Then he looks outside. Franco is still there, with the newspaper.",
               "voice": [
@@ -47149,7 +45239,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-115",
+              "id": "s01e24-5-095",
               "it": "_Il segreto è uno sport di squadra._",
               "en": "_A secret is a team sport._",
               "voice": [
@@ -47233,7 +45323,7 @@
               ]
             },
             {
-              "id": "s01e24-5-116",
+              "id": "s01e24-5-096",
               "it": "_Ma la mia squadra **sta giocando** male._",
               "en": "_But my team **is playing** badly._",
               "voice": [
@@ -47320,7 +45410,7 @@
               ]
             },
             {
-              "id": "s01e24-5-117",
+              "id": "s01e24-5-097",
               "it": "Kevin prende il **cellulare** e chiama casa.",
               "en": "Kevin picks up his **cell phone** and calls home.",
               "voice": [
@@ -47411,7 +45501,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-118",
+              "id": "s01e24-5-098",
               "it": "«**Pronto**?»",
               "en": "“**Hello**?”",
               "voice": [
@@ -47447,7 +45537,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-119",
+              "id": "s01e24-5-099",
               "it": "«Chiara, sono io. È tutto a posto?»",
               "en": "“Chiara, it's me. Is everything all right?”",
               "voice": [
@@ -47540,7 +45630,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-120",
+              "id": "s01e24-5-100",
               "it": "«Sì. La torta è nel **frigorifero**. Il **vassoio** è pronto. I **tovaglioli** sono sul tavolo.»",
               "en": "“Yes. The cake is in the **fridge**. The **tray** is ready. The **napkins** are on the table.”",
               "voice": [
@@ -47718,7 +45808,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-121",
+              "id": "s01e24-5-101",
               "it": "«Grazie. Grazie, Chiara.»",
               "en": "“Thank you. Thank you, Chiara.”",
               "voice": [
@@ -47771,7 +45861,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-122",
+              "id": "s01e24-5-102",
               "it": "«Kevin?»",
               "en": "“Kevin?”",
               "voice": [
@@ -47804,7 +45894,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-123",
+              "id": "s01e24-5-103",
               "it": "«Sì?»",
               "en": "“Yes?”",
               "voice": [
@@ -47837,7 +45927,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-124",
+              "id": "s01e24-5-104",
               "it": "«Franco è fuori dal bar con un giornale. Lo vedo dalla finestra.»",
               "en": "“Franco is outside the bar with a newspaper. I can see him from the window.”",
               "voice": [
@@ -47980,7 +46070,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-125",
+              "id": "s01e24-5-105",
               "it": "«Sì. Lo vedo anch'io.»",
               "en": "“Yes. I see him too.”",
               "voice": [
@@ -48043,7 +46133,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-126",
+              "id": "s01e24-5-106",
               "it": "«Kevin, dobbiamo fare piano. Molto piano.»",
               "en": "“Kevin, we have to be quiet. Very quiet.”",
               "voice": [
@@ -48126,7 +46216,7 @@
         {
           "segments": [
             {
-              "id": "s01e24-5-127",
+              "id": "s01e24-5-107",
               "it": "«Sì. Piano.»",
               "en": "“Yes. Quiet.”",
               "voice": [
@@ -48165,13 +46255,13 @@
               ]
             },
             {
-              "id": "s01e24-5-128",
-              "it": "Ma Kevin, nel frattempo, **sta mescolando** nel suo quaderno la lista degli invitati, il nome di Franco e la parola **panna**.",
-              "en": "But Kevin, meanwhile, **is mixing** in his notebook the guest list, Franco's name, and the word **cream**.",
+              "id": "s01e24-5-108",
+              "it": "Ma Kevin non dorme. **Sta scrivendo** ancora nel suo quaderno.",
+              "en": "But Kevin isn't sleeping. He **is** still **writing** in his notebook.",
               "voice": [
                 [
                   "narrator",
-                  "Ma Kevin, nel frattempo, **sta mescolando** nel suo quaderno la lista degli invitati, il nome di Franco e la parola **panna**.",
+                  "Ma Kevin non dorme. **Sta scrivendo** ancora nel suo quaderno.",
                   ""
                 ]
               ],
@@ -48192,12 +46282,12 @@
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "nel",
+                  "non",
                   2,
                   ""
                 ],
@@ -48207,17 +46297,17 @@
                   ""
                 ],
                 [
-                  "frattempo",
+                  "dorme",
                   3,
                   ""
                 ],
                 [
-                  ", ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "sta",
+                  "Sta",
                   4,
                   "b"
                 ],
@@ -48227,7 +46317,7 @@
                   "b"
                 ],
                 [
-                  "mescolando",
+                  "scrivendo",
                   5,
                   "b"
                 ],
@@ -48237,7 +46327,7 @@
                   ""
                 ],
                 [
-                  "nel",
+                  "ancora",
                   6,
                   ""
                 ],
@@ -48247,7 +46337,7 @@
                   ""
                 ],
                 [
-                  "suo",
+                  "nel",
                   7,
                   ""
                 ],
@@ -48257,7 +46347,7 @@
                   ""
                 ],
                 [
-                  "quaderno",
+                  "suo",
                   8,
                   ""
                 ],
@@ -48267,211 +46357,22 @@
                   ""
                 ],
                 [
-                  "la",
+                  "quaderno",
                   9,
                   ""
                 ],
                 [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lista",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "degli",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "invitati",
-                  12,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "nome",
-                  14,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  15,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  16,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  17,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  18,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "parola",
-                  19,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "panna",
-                  20,
-                  "b"
-                ],
-                [
                   ".",
                   -1,
                   ""
                 ]
               ],
               "focus": [
-                "g-stare-gerundio",
-                "v-panna"
+                "g-stare-gerundio"
               ]
             },
             {
-              "id": "s01e24-5-129",
-              "it": "Il suo cervello **sta lavorando** **veloce**.",
-              "en": "His brain **is working** **fast**.",
-              "voice": [
-                [
-                  "narrator",
-                  "Il suo cervello **sta lavorando** **veloce**.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "suo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cervello",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sta",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "lavorando",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "veloce",
-                  5,
-                  "b"
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "g-stare-gerundio",
-                "v-veloce"
-              ]
-            },
-            {
-              "id": "s01e24-5-130",
+              "id": "s01e24-5-109",
               "it": "Fuori, Franco piega il giornale e si alza.",
               "en": "Outside, Franco folds the newspaper and gets up.",
               "voice": [
@@ -48565,7 +46466,7 @@
               ]
             },
             {
-              "id": "s01e24-5-131",
+              "id": "s01e24-5-110",
               "it": "Guarda il bar per un secondo.",
               "en": "He looks at the bar for one second.",
               "voice": [
@@ -48639,7 +46540,7 @@
               ]
             },
             {
-              "id": "s01e24-5-132",
+              "id": "s01e24-5-111",
               "it": "Poi gira e va verso casa.",
               "en": "Then he turns and goes home.",
               "voice": [
@@ -48724,7 +46625,9 @@
         "ben",
         "chiara",
         "emma",
-        "leo"
+        "leo",
+        "matteo",
+        "franco"
       ],
       "paragraphs": [
         {
@@ -50547,12 +48450,12 @@
           "segments": [
             {
               "id": "s01e24-6-023",
-              "it": "«La torta è nel **frigorifero** ed è pronta.»",
-              "en": "“The cake is in the **fridge** and it's ready.”",
+              "it": "«La torta è dal nonno, nel **frigorifero**. È pronta.»",
+              "en": "“The cake is at Grandpa's, in the **fridge**. It's ready.”",
               "voice": [
                 [
                   "chiara",
-                  "La torta è nel **frigorifero** ed è pronta.",
+                  "La torta è dal nonno, nel **frigorifero**. È pronta.",
                   ""
                 ]
               ],
@@ -50593,7 +48496,7 @@
                   ""
                 ],
                 [
-                  "nel",
+                  "dal",
                   3,
                   ""
                 ],
@@ -50603,17 +48506,17 @@
                   ""
                 ],
                 [
-                  "frigorifero",
+                  "nonno",
                   4,
-                  "b"
+                  ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "ed",
+                  "nel",
                   5,
                   ""
                 ],
@@ -50623,8 +48526,18 @@
                   ""
                 ],
                 [
-                  "è",
+                  "frigorifero",
                   6,
+                  "b"
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "È",
+                  7,
                   ""
                 ],
                 [
@@ -50634,7 +48547,7 @@
                 ],
                 [
                   "pronta",
-                  7,
+                  8,
                   ""
                 ],
                 [
@@ -51068,12 +48981,12 @@
             },
             {
               "id": "s01e24-6-029",
-              "it": "Kevin apre il **frigorifero** e prende il **vassoio** con il dolce.",
-              "en": "Kevin opens the **fridge** and takes the **tray** with the dessert.",
+              "it": "Kevin prende la borsa con la panna e il cacao.",
+              "en": "Kevin takes the bag with the cream and the cocoa.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin apre il **frigorifero** e prende il **vassoio** con il dolce.",
+                  "Kevin prende la borsa con la panna e il cacao.",
                   ""
                 ]
               ],
@@ -51089,7 +49002,7 @@
                   ""
                 ],
                 [
-                  "apre",
+                  "prende",
                   1,
                   ""
                 ],
@@ -51099,7 +49012,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "la",
                   2,
                   ""
                 ],
@@ -51109,9 +49022,9 @@
                   ""
                 ],
                 [
-                  "frigorifero",
+                  "borsa",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -51119,7 +49032,7 @@
                   ""
                 ],
                 [
-                  "e",
+                  "con",
                   4,
                   ""
                 ],
@@ -51129,7 +49042,7 @@
                   ""
                 ],
                 [
-                  "prende",
+                  "la",
                   5,
                   ""
                 ],
@@ -51139,7 +49052,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "panna",
                   6,
                   ""
                 ],
@@ -51149,18 +49062,8 @@
                   ""
                 ],
                 [
-                  "vassoio",
+                  "e",
                   7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  8,
                   ""
                 ],
                 [
@@ -51170,7 +49073,7 @@
                 ],
                 [
                   "il",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -51179,8 +49082,8 @@
                   ""
                 ],
                 [
-                  "dolce",
-                  10,
+                  "cacao",
+                  9,
                   ""
                 ],
                 [
@@ -51188,10 +49091,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-frigorifero",
-                "v-vassoio"
               ]
             },
             {
@@ -53731,12 +51630,12 @@
           "segments": [
             {
               "id": "s01e24-6-067",
-              "it": "Leo guarda il dolce sul **vassoio**.",
-              "en": "Leo looks at the dessert on the **tray**.",
+              "it": "Leo apre il **frigorifero** di Franco e guarda il dolce.",
+              "en": "Leo opens Franco's **fridge** and looks at the dessert.",
               "voice": [
                 [
                   "narrator",
-                  "Leo guarda il dolce sul **vassoio**.",
+                  "Leo apre il **frigorifero** di Franco e guarda il dolce.",
                   ""
                 ]
               ],
@@ -53752,7 +51651,7 @@
                   ""
                 ],
                 [
-                  "guarda",
+                  "apre",
                   1,
                   ""
                 ],
@@ -53772,9 +51671,9 @@
                   ""
                 ],
                 [
-                  "dolce",
+                  "frigorifero",
                   3,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -53782,7 +51681,7 @@
                   ""
                 ],
                 [
-                  "sul",
+                  "di",
                   4,
                   ""
                 ],
@@ -53792,9 +51691,49 @@
                   ""
                 ],
                 [
-                  "vassoio",
+                  "Franco",
                   5,
-                  "b"
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "guarda",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dolce",
+                  9,
+                  ""
                 ],
                 [
                   ".",
@@ -53803,7 +51742,7 @@
                 ]
               ],
               "focus": [
-                "v-vassoio"
+                "v-frigorifero"
               ]
             },
             {
@@ -54931,12 +52870,12 @@
             },
             {
               "id": "s01e24-6-084",
-              "it": "Dentro ci sono il latte, il formaggio e le **uova**.",
-              "en": "Inside there's milk, cheese, and the **eggs**.",
+              "it": "Dentro ci sono il latte, il formaggio e il tiramisù.",
+              "en": "Inside there's milk, cheese, and the tiramisù.",
               "voice": [
                 [
                   "narrator",
-                  "Dentro ci sono il latte, il formaggio e le **uova**.",
+                  "Dentro ci sono il latte, il formaggio e il tiramisù.",
                   ""
                 ]
               ],
@@ -55022,7 +52961,7 @@
                   ""
                 ],
                 [
-                  "le",
+                  "il",
                   8,
                   ""
                 ],
@@ -55032,28 +52971,25 @@
                   ""
                 ],
                 [
-                  "uova",
+                  "tiramisù",
                   9,
-                  "b"
+                  ""
                 ],
                 [
                   ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-uovo"
               ]
             },
             {
               "id": "s01e24-6-085",
-              "it": "«Papà ha le **uova** nel **frigorifero**.»",
-              "en": "“Dad has the **eggs** in the **fridge**.”",
+              "it": "«Papà ha un tiramisù nel **frigorifero** e non lo sa.»",
+              "en": "“Dad has a tiramisù in the **fridge** and doesn't know it.”",
               "voice": [
                 [
                   "chiara",
-                  "Papà ha le **uova** nel **frigorifero**.",
+                  "Papà ha un tiramisù nel **frigorifero** e non lo sa.",
                   "quiet"
                 ]
               ],
@@ -55084,7 +53020,7 @@
                   ""
                 ],
                 [
-                  "le",
+                  "un",
                   2,
                   ""
                 ],
@@ -55094,9 +53030,9 @@
                   ""
                 ],
                 [
-                  "uova",
+                  "tiramisù",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -55119,13 +53055,52 @@
                   "b"
                 ],
                 [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "non",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lo",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sa",
+                  9,
+                  ""
+                ],
+                [
                   ".»",
                   -1,
                   ""
                 ]
               ],
               "focus": [
-                "v-uovo",
                 "v-frigorifero"
               ]
             }
@@ -55135,12 +53110,12 @@
           "segments": [
             {
               "id": "s01e24-6-086",
-              "it": "«Le **uova** per il tiramisù di ieri.»",
-              "en": "“The **eggs** for yesterday's tiramisù.”",
+              "it": "«Adesso il **frigorifero** di papà è felice.»",
+              "en": "“Now Dad's **fridge** is happy.”",
               "voice": [
                 [
                   "ben",
-                  "Le **uova** per il tiramisù di ieri.",
+                  "Adesso il **frigorifero** di papà è felice.",
                   ""
                 ]
               ],
@@ -55151,7 +53126,7 @@
                   ""
                 ],
                 [
-                  "Le",
+                  "Adesso",
                   0,
                   ""
                 ],
@@ -55161,8 +53136,18 @@
                   ""
                 ],
                 [
-                  "uova",
+                  "il",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "frigorifero",
+                  2,
                   "b"
                 ],
                 [
@@ -55171,17 +53156,7 @@
                   ""
                 ],
                 [
-                  "per",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
+                  "di",
                   3,
                   ""
                 ],
@@ -55191,7 +53166,7 @@
                   ""
                 ],
                 [
-                  "tiramisù",
+                  "papà",
                   4,
                   ""
                 ],
@@ -55201,7 +53176,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "è",
                   5,
                   ""
                 ],
@@ -55211,7 +53186,7 @@
                   ""
                 ],
                 [
-                  "ieri",
+                  "felice",
                   6,
                   ""
                 ],
@@ -55222,7 +53197,7 @@
                 ]
               ],
               "focus": [
-                "v-uovo"
+                "v-frigorifero"
               ]
             },
             {
@@ -57033,85 +55008,80 @@
           "segments": [
             {
               "id": "s01e24-6-111",
-              "it": "_(Kevin chiude gli occhi e pensa: la squadra **sta perdendo** di nuovo.__)_",
-              "en": "_(Kevin closes his eyes and thinks: the team **is losing** again._)_",
+              "it": "Kevin chiude gli occhi e pensa: _la squadra **sta perdendo** di nuovo._",
+              "en": "Kevin closes his eyes and thinks: _the team **is losing** again._",
               "voice": [
                 [
-                  "ben",
-                  "(Kevin chiude gli occhi e pensa: la squadra **sta perdendo** di nuovo.",
-                  "thinking to themself, quiet and close"
+                  "narrator",
+                  "Kevin chiude gli occhi e pensa:",
+                  ""
                 ],
                 [
-                  "narrator",
-                  "_)_",
-                  ""
+                  "ben",
+                  "la squadra **sta perdendo** di nuovo.",
+                  "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "(",
-                  -1,
-                  "i"
-                ],
-                [
                   "Kevin",
                   0,
-                  "i"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "i"
+                  ""
                 ],
                 [
                   "chiude",
                   1,
-                  "i"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "i"
+                  ""
                 ],
                 [
                   "gli",
                   2,
-                  "i"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "i"
+                  ""
                 ],
                 [
                   "occhi",
                   3,
-                  "i"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "i"
+                  ""
                 ],
                 [
                   "e",
                   4,
-                  "i"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "i"
+                  ""
                 ],
                 [
                   "pensa",
                   5,
-                  "i"
+                  ""
                 ],
                 [
                   ": ",
                   -1,
-                  "i"
+                  ""
                 ],
                 [
                   "la",
@@ -57170,11 +55140,6 @@
                 ],
                 [
                   ".",
-                  -1,
-                  "i"
-                ],
-                [
-                  ")",
                   -1,
                   "i"
                 ]

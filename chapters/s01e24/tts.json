@@ -8750,7 +8750,7 @@
           "s01e24-4-002:0-11",
           "s01e24-4-003:0-12",
           "s01e24-4-004:0-5",
-          "s01e24-4-005:0-11"
+          "s01e24-4-005:0-6"
         ],
         [
           "s01e24-4-006:0-1"
@@ -8764,7 +8764,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La cucina di Franco è piccola e vecchia. C'è un tavolo di legno, quattro sedie e una finestra sul giardino. Sul tavolo c'è un vassoio con tre bicchieri e un piatto di biscotti. Chiara entra dalla porta sul retro. Lucia è già lì, con un grembiule e una carta in mano.",
+                "text": "La cucina di Franco è piccola e vecchia. C'è un tavolo di legno, quattro sedie e una finestra sul giardino. Sul tavolo c'è un vassoio con tre bicchieri e un piatto di biscotti. Chiara entra dalla porta sul retro. Lucia è già lì, con un grembiule.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9034,13 +9034,13 @@
         ],
         [
           "s01e24-4-017:0-8",
-          "s01e24-4-018:0-5",
-          "s01e24-4-019:0-8"
+          "s01e24-4-018:0-2"
         ],
         [
-          "s01e24-4-020:0-5"
+          "s01e24-4-019:0-5"
         ],
         [
+          "s01e24-4-020:0-12",
           "s01e24-4-021:0-5",
           "s01e24-4-022:0-6"
         ]
@@ -9064,7 +9064,7 @@
               },
               {
                 "type": "text",
-                "text": "Lucia mette le uova dentro e chiude lo sportello. Poi tira fuori la sua carta. La carta è vecchia, gialla, con macchie di caffè.",
+                "text": "Lucia mette le uova dentro e chiude lo sportello. Poi guarda Chiara.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9075,7 +9075,7 @@
               },
               {
                 "type": "text",
-                "text": "Ecco la ricetta di tua madre.",
+                "text": "Hai la ricetta di tua madre?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9086,7 +9086,7 @@
               },
               {
                 "type": "text",
-                "text": "Chiara guarda la carta senza parlare. Sopra c'è una scrittura piccola e rotonda.",
+                "text": "Chiara tira fuori dalla borsa una carta vecchia, gialla, con macchie di caffè. Chiara guarda la carta senza parlare. Sopra c'è una scrittura piccola e rotonda.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9135,7 +9135,7 @@
           "s01e24-4-023:0-4"
         ],
         [
-          "s01e24-4-024:0-12"
+          "s01e24-4-024:0-3"
         ]
       ],
       "request": {
@@ -9157,7 +9157,7 @@
               },
               {
                 "type": "text",
-                "text": "Sì. La ricetta è di Anna, tanti anni fa, al corso di cucina.",
+                "text": "Che bella scrittura, tesoro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14070,14 +14070,18 @@
       },
       "segment_ids": [
         "s01e24-5-077",
-        "s01e24-5-078"
+        "s01e24-5-078",
+        "s01e24-5-079",
+        "s01e24-5-080"
       ],
       "words": [
         [
           "s01e24-5-077:0-1"
         ],
         [
-          "s01e24-5-078:0-9"
+          "s01e24-5-078:0-6",
+          "s01e24-5-079:0-7",
+          "s01e24-5-080:0-6"
         ]
       ],
       "request": {
@@ -14099,7 +14103,7 @@
               },
               {
                 "type": "text",
-                "text": "Matteo prende la penna e scrive sul quaderno di Kevin.",
+                "text": "Kevin guarda il quaderno con le liste. Poi scrive una parola nuova in alto: TIRAMISÙ. Poi sotto scrive: ASSAGGIARE — CON IL CUCCHIAIO.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14137,658 +14141,26 @@
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
-        "narrator": "narrator"
+        "ben": "ben"
       },
       "segment_ids": [
-        "s01e24-5-079",
-        "s01e24-5-080",
-        "s01e24-5-081"
-      ],
-      "words": [
-        [
-          "s01e24-5-079:0-4"
-        ],
-        [
-          "s01e24-5-080:0-6"
-        ],
-        [
-          "s01e24-5-081:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Adesso il menu. Quattro minuti.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Matteo scrive veloce, con la voce bassa.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Primo: lasagne. Secondo: arrosto con patate. Terzo: tiramisù.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 167,
-      "scene": 5,
-      "speakers": {
-        "ben": "ben",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
+        "s01e24-5-081",
         "s01e24-5-082",
         "s01e24-5-083",
         "s01e24-5-084"
       ],
       "words": [
         [
-          "s01e24-5-082:0-5"
+          "s01e24-5-081:0-3"
         ],
         [
-          "s01e24-5-083:0-8"
+          "s01e24-5-082:0-3"
         ],
         [
-          "s01e24-5-084:0-1"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "E i bicchieri per il vino?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin, i bicchieri per il vino sono bicchieri diversi.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Bicchieri diversi?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 168,
-      "scene": 5,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e24-5-085",
-        "s01e24-5-086"
-      ],
-      "words": [
-        [
-          "s01e24-5-085:0-9"
+          "s01e24-5-083:0-3"
         ],
         [
-          "s01e24-5-086:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sì. Bicchieri piccoli per il vino. Bicchieri grandi per l'acqua.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin guarda il quaderno e chiude gli occhi.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 169,
-      "scene": 5,
-      "speakers": {
-        "ben": "ben",
-        "nadia": "nadia"
-      },
-      "segment_ids": [
-        "s01e24-5-087",
-        "s01e24-5-088",
-        "s01e24-5-089",
-        "s01e24-5-090"
-      ],
-      "words": [
-        [
-          "s01e24-5-087:0-3"
-        ],
-        [
-          "s01e24-5-088:0-4"
-        ],
-        [
-          "s01e24-5-089:0-0"
-        ],
-        [
-          "s01e24-5-090:0-4"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Quanti bicchieri in tutto?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ottantotto bicchieri. E sei vassoi.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ottantotto?",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, gasp"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "No. Tre vassoi. Errore mio.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 170,
-      "scene": 5,
-      "speakers": {
-        "narrator": "narrator",
-        "nadia": "nadia"
-      },
-      "segment_ids": [
-        "s01e24-5-091",
-        "s01e24-5-092"
-      ],
-      "words": [
-        [
-          "s01e24-5-091:0-7"
-        ],
-        [
-          "s01e24-5-092:0-10"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Nadia prende il quaderno e cancella tre cose.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Via il secondo dolce. Via i biscotti. Via il caffè speciale.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 171,
-      "scene": 5,
-      "speakers": {
-        "matteo": "matteo",
-        "nadia": "nadia"
-      },
-      "segment_ids": [
-        "s01e24-5-093",
-        "s01e24-5-094"
-      ],
-      "words": [
-        [
-          "s01e24-5-093:0-2"
-        ],
-        [
-          "s01e24-5-094:0-9"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ma io voglio...",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Matteo, il bar è piccolo. Siamo ventidue persone. Basta così.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 172,
-      "scene": 5,
-      "speakers": {
-        "narrator": "narrator",
-        "matteo": "matteo"
-      },
-      "segment_ids": [
-        "s01e24-5-095",
-        "s01e24-5-096"
-      ],
-      "words": [
-        [
-          "s01e24-5-095:0-3"
-        ],
-        [
-          "s01e24-5-096:0-7"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Matteo alza le mani.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Va bene, va bene. Nadia è il capo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 173,
-      "scene": 5,
-      "speakers": {
-        "nadia": "nadia",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s01e24-5-097",
-        "s01e24-5-098",
-        "s01e24-5-099",
-        "s01e24-5-100"
-      ],
-      "words": [
-        [
-          "s01e24-5-097:0-0"
-        ],
-        [
-          "s01e24-5-098:0-15",
-          "s01e24-5-099:0-7",
-          "s01e24-5-100:0-6"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sempre.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin guarda il quaderno con le liste, le croci, i bicchieri, i tovaglioli e i vassoi. Poi scrive una parola nuova in alto: TIRAMISÙ. Poi sotto scrive: ASSAGGIARE — CON IL CUCCHIAIO.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 174,
-      "scene": 5,
-      "speakers": {
-        "matteo": "matteo",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s01e24-5-101",
-        "s01e24-5-102",
-        "s01e24-5-103",
-        "s01e24-5-104"
-      ],
-      "words": [
-        [
-          "s01e24-5-101:0-3"
-        ],
-        [
-          "s01e24-5-102:0-3"
-        ],
-        [
-          "s01e24-5-103:0-3"
-        ],
-        [
-          "s01e24-5-104:0-8"
+          "s01e24-5-084:0-8"
         ]
       ],
       "request": {
@@ -14866,22 +14238,22 @@
       }
     },
     {
-      "index": 175,
+      "index": 167,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s01e24-5-105",
-        "s01e24-5-106"
+        "s01e24-5-085",
+        "s01e24-5-086"
       ],
       "words": [
         [
-          "s01e24-5-105:0-4"
+          "s01e24-5-085:0-4"
         ],
         [
-          "s01e24-5-106:0-7"
+          "s01e24-5-086:0-7"
         ]
       ],
       "request": {
@@ -14937,26 +14309,26 @@
       }
     },
     {
-      "index": 176,
+      "index": 168,
       "scene": 5,
       "speakers": {
         "ben": "ben",
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s01e24-5-107",
-        "s01e24-5-108",
-        "s01e24-5-109"
+        "s01e24-5-087",
+        "s01e24-5-088",
+        "s01e24-5-089"
       ],
       "words": [
         [
-          "s01e24-5-107:0-0"
+          "s01e24-5-087:0-0"
         ],
         [
-          "s01e24-5-108:0-10"
+          "s01e24-5-088:0-10"
         ],
         [
-          "s01e24-5-109:0-4"
+          "s01e24-5-089:0-4"
         ]
       ],
       "request": {
@@ -15023,26 +14395,26 @@
       }
     },
     {
-      "index": 177,
+      "index": 169,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e24-5-110",
-        "s01e24-5-111",
-        "s01e24-5-112"
+        "s01e24-5-090",
+        "s01e24-5-091",
+        "s01e24-5-092"
       ],
       "words": [
         [
-          "s01e24-5-110:0-8"
+          "s01e24-5-090:0-8"
         ],
         [
-          "s01e24-5-111:0-0"
+          "s01e24-5-091:0-0"
         ],
         [
-          "s01e24-5-112:0-7"
+          "s01e24-5-092:0-7"
         ]
       ],
       "request": {
@@ -15109,30 +14481,30 @@
       }
     },
     {
-      "index": 178,
+      "index": 170,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e24-5-113",
-        "s01e24-5-114",
-        "s01e24-5-115",
-        "s01e24-5-116",
-        "s01e24-5-117"
+        "s01e24-5-093",
+        "s01e24-5-094",
+        "s01e24-5-095",
+        "s01e24-5-096",
+        "s01e24-5-097"
       ],
       "words": [
         [
-          "s01e24-5-113:0-10",
-          "s01e24-5-114:0-9"
+          "s01e24-5-093:0-10",
+          "s01e24-5-094:0-9"
         ],
         [
-          "s01e24-5-115:0-6",
-          "s01e24-5-116:0-6"
+          "s01e24-5-095:0-6",
+          "s01e24-5-096:0-6"
         ],
         [
-          "s01e24-5-117:0-6"
+          "s01e24-5-097:0-6"
         ]
       ],
       "request": {
@@ -15199,54 +14571,54 @@
       }
     },
     {
-      "index": 179,
+      "index": 171,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
         "ben": "ben"
       },
       "segment_ids": [
-        "s01e24-5-118",
-        "s01e24-5-119",
-        "s01e24-5-120",
-        "s01e24-5-121",
-        "s01e24-5-122",
-        "s01e24-5-123",
-        "s01e24-5-124",
-        "s01e24-5-125",
-        "s01e24-5-126",
-        "s01e24-5-127"
+        "s01e24-5-098",
+        "s01e24-5-099",
+        "s01e24-5-100",
+        "s01e24-5-101",
+        "s01e24-5-102",
+        "s01e24-5-103",
+        "s01e24-5-104",
+        "s01e24-5-105",
+        "s01e24-5-106",
+        "s01e24-5-107"
       ],
       "words": [
         [
-          "s01e24-5-118:0-0"
+          "s01e24-5-098:0-0"
         ],
         [
-          "s01e24-5-119:0-6"
+          "s01e24-5-099:0-6"
         ],
         [
-          "s01e24-5-120:0-14"
+          "s01e24-5-100:0-14"
         ],
         [
-          "s01e24-5-121:0-2"
+          "s01e24-5-101:0-2"
         ],
         [
-          "s01e24-5-122:0-0"
+          "s01e24-5-102:0-0"
         ],
         [
-          "s01e24-5-123:0-0"
+          "s01e24-5-103:0-0"
         ],
         [
-          "s01e24-5-124:0-11"
+          "s01e24-5-104:0-11"
         ],
         [
-          "s01e24-5-125:0-3"
+          "s01e24-5-105:0-3"
         ],
         [
-          "s01e24-5-126:0-5"
+          "s01e24-5-106:0-5"
         ],
         [
-          "s01e24-5-127:0-1"
+          "s01e24-5-107:0-1"
         ]
       ],
       "request": {
@@ -15390,25 +14762,23 @@
       }
     },
     {
-      "index": 180,
+      "index": 172,
       "scene": 5,
       "speakers": {
         "single": "narrator"
       },
       "segment_ids": [
-        "s01e24-5-128",
-        "s01e24-5-129",
-        "s01e24-5-130",
-        "s01e24-5-131",
-        "s01e24-5-132"
+        "s01e24-5-108",
+        "s01e24-5-109",
+        "s01e24-5-110",
+        "s01e24-5-111"
       ],
       "words": [
         [
-          "s01e24-5-128:0-20",
-          "s01e24-5-129:0-5",
-          "s01e24-5-130:0-7",
-          "s01e24-5-131:0-5",
-          "s01e24-5-132:0-5"
+          "s01e24-5-108:0-9",
+          "s01e24-5-109:0-7",
+          "s01e24-5-110:0-5",
+          "s01e24-5-111:0-5"
         ]
       ],
       "request": {
@@ -15419,7 +14789,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ma Kevin, nel frattempo, sta mescolando nel suo quaderno la lista degli invitati, il nome di Franco e la parola panna. Il suo cervello sta lavorando veloce. Fuori, Franco piega il giornale e si alza. Guarda il bar per un secondo. Poi gira e va verso casa.",
+                "text": "Ma Kevin non dorme. Sta scrivendo ancora nel suo quaderno. Fuori, Franco piega il giornale e si alza. Guarda il bar per un secondo. Poi gira e va verso casa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15444,7 +14814,7 @@
       }
     },
     {
-      "index": 181,
+      "index": 173,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15527,7 +14897,7 @@
       }
     },
     {
-      "index": 182,
+      "index": 174,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -15628,7 +14998,7 @@
       }
     },
     {
-      "index": 183,
+      "index": 175,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15701,7 +15071,7 @@
       }
     },
     {
-      "index": 184,
+      "index": 176,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -15772,7 +15142,7 @@
       }
     },
     {
-      "index": 185,
+      "index": 177,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -15847,7 +15217,7 @@
       }
     },
     {
-      "index": 186,
+      "index": 178,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -15867,7 +15237,7 @@
           "s01e24-6-022:0-2"
         ],
         [
-          "s01e24-6-023:0-7"
+          "s01e24-6-023:0-8"
         ],
         [
           "s01e24-6-024:0-3"
@@ -15904,7 +15274,7 @@
               },
               {
                 "type": "text",
-                "text": "La torta è nel frigorifero ed è pronta.",
+                "text": "La torta è dal nonno, nel frigorifero. È pronta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15993,7 +15363,7 @@
       }
     },
     {
-      "index": 187,
+      "index": 179,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16006,7 +15376,7 @@
       ],
       "words": [
         [
-          "s01e24-6-029:0-10",
+          "s01e24-6-029:0-9",
           "s01e24-6-030:0-6"
         ],
         [
@@ -16021,7 +15391,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin apre il frigorifero e prende il vassoio con il dolce. Emma prende i bicchieri e i tovaglioli.",
+                "text": "Kevin prende la borsa con la panna e il cacao. Emma prende i bicchieri e i tovaglioli.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16066,7 +15436,7 @@
       }
     },
     {
-      "index": 188,
+      "index": 180,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -16137,7 +15507,7 @@
       }
     },
     {
-      "index": 189,
+      "index": 181,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -16229,7 +15599,7 @@
       }
     },
     {
-      "index": 190,
+      "index": 182,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -16330,7 +15700,7 @@
       }
     },
     {
-      "index": 191,
+      "index": 183,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16413,7 +15783,7 @@
       }
     },
     {
-      "index": 192,
+      "index": 184,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16486,7 +15856,7 @@
       }
     },
     {
-      "index": 193,
+      "index": 185,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -16587,7 +15957,7 @@
       }
     },
     {
-      "index": 194,
+      "index": 186,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16622,7 +15992,7 @@
           "s01e24-6-064:0-6",
           "s01e24-6-065:0-5",
           "s01e24-6-066:0-5",
-          "s01e24-6-067:0-5"
+          "s01e24-6-067:0-9"
         ]
       ],
       "request": {
@@ -16677,7 +16047,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin mette i tovaglioli accanto ai piatti. Emma mette i bicchieri sul vassoio. Chiara appende i palloncini alla porta. Leo guarda il dolce sul vassoio.",
+                "text": "Kevin mette i tovaglioli accanto ai piatti. Emma mette i bicchieri sul vassoio. Chiara appende i palloncini alla porta. Leo apre il frigorifero di Franco e guarda il dolce.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16711,7 +16081,7 @@
       }
     },
     {
-      "index": 195,
+      "index": 187,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16872,7 +16242,7 @@
       }
     },
     {
-      "index": 196,
+      "index": 188,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16943,7 +16313,7 @@
       }
     },
     {
-      "index": 197,
+      "index": 189,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -17016,7 +16386,7 @@
       }
     },
     {
-      "index": 198,
+      "index": 190,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -17087,7 +16457,7 @@
       }
     },
     {
-      "index": 199,
+      "index": 191,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17104,7 +16474,7 @@
           "s01e24-6-084:0-9"
         ],
         [
-          "s01e24-6-085:0-5"
+          "s01e24-6-085:0-9"
         ]
       ],
       "request": {
@@ -17115,7 +16485,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Chiara apre il frigorifero di Franco. Dentro ci sono il latte, il formaggio e le uova.",
+                "text": "Chiara apre il frigorifero di Franco. Dentro ci sono il latte, il formaggio e il tiramisù.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17126,7 +16496,7 @@
               },
               {
                 "type": "text",
-                "text": "Papà ha le uova nel frigorifero.",
+                "text": "Papà ha un tiramisù nel frigorifero e non lo sa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17160,7 +16530,7 @@
       }
     },
     {
-      "index": 200,
+      "index": 192,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -17190,7 +16560,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Le uova per il tiramisù di ieri.",
+                "text": "Adesso il frigorifero di papà è felice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17246,7 +16616,7 @@
       }
     },
     {
-      "index": 201,
+      "index": 193,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -17317,7 +16687,7 @@
       }
     },
     {
-      "index": 202,
+      "index": 194,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17388,7 +16758,7 @@
       }
     },
     {
-      "index": 203,
+      "index": 195,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -17489,7 +16859,7 @@
       }
     },
     {
-      "index": 204,
+      "index": 196,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17595,11 +16965,11 @@
       }
     },
     {
-      "index": 205,
+      "index": 197,
       "scene": 6,
       "speakers": {
         "leo": "leo",
-        "ben": "ben"
+        "narrator": "narrator"
       },
       "segment_ids": [
         "s01e24-6-110",
@@ -17610,7 +16980,7 @@
           "s01e24-6-110:0-0"
         ],
         [
-          "s01e24-6-111:0-11"
+          "s01e24-6-111:0-5"
         ]
       ],
       "request": {
@@ -17632,12 +17002,12 @@
               },
               {
                 "type": "text",
-                "text": "(Kevin chiude gli occhi e pensa: la squadra sta perdendo di nuovo.",
+                "text": "Kevin chiude gli occhi e pensa:",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
                   }
                 ]
               }
@@ -17657,8 +17027,8 @@
                 "voice": "Puck"
               },
               {
-                "speaker": "ben",
-                "voice": "Puck"
+                "speaker": "narrator",
+                "voice": "Charon"
               }
             ]
           }
@@ -17666,7 +17036,53 @@
       }
     },
     {
-      "index": 206,
+      "index": 198,
+      "scene": 6,
+      "speakers": {
+        "single": "ben"
+      },
+      "segment_ids": [
+        "s01e24-6-111"
+      ],
+      "words": [
+        [
+          "s01e24-6-111:6-11"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "la squadra sta perdendo di nuovo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, thinking to themself, quiet and close"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": [
+            {
+              "voice": "Puck"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "index": 199,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -17747,7 +17163,7 @@
       }
     },
     {
-      "index": 207,
+      "index": 200,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -17833,7 +17249,7 @@
       }
     },
     {
-      "index": 208,
+      "index": 201,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -17904,7 +17320,7 @@
       }
     },
     {
-      "index": 209,
+      "index": 202,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -18035,7 +17451,7 @@
       }
     },
     {
-      "index": 210,
+      "index": 203,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -18108,7 +17524,7 @@
       }
     },
     {
-      "index": 211,
+      "index": 204,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -18194,7 +17610,7 @@
       }
     },
     {
-      "index": 212,
+      "index": 205,
       "scene": 7,
       "speakers": {
         "single": "narrator"

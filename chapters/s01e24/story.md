@@ -440,7 +440,7 @@ Leo guarda i **palloncini** nella borsa. «Kevin?»
 
 ## 4. Casa di Franco, Via dei Tigli 9 · sabato pomeriggio
 
-La cucina di Franco è piccola e vecchia. C'è un tavolo di legno, quattro sedie e una finestra sul giardino. Sul tavolo c'è un **vassoio** con tre **bicchieri** e un piatto di biscotti. Chiara entra dalla porta sul retro. Lucia è già lì, con un grembiule e una carta in mano. «Ciao, Chiara!»
+La cucina di Franco è piccola e vecchia. C'è un tavolo di legno, quattro sedie e una finestra sul giardino. Sul tavolo c'è un **vassoio** con tre **bicchieri** e un piatto di biscotti. Chiara entra dalla porta sul retro. Lucia è già lì, con un grembiule. «Ciao, Chiara!»
 
 «Ciao, Lucia.»
 
@@ -456,11 +456,11 @@ La cucina di Franco è piccola e vecchia. C'è un tavolo di legno, quattro sedie
 
 «Il **frigorifero** di papà è triste.»
 
-«Il **frigorifero** di Franco è sempre triste. Lui mangia al bar.» Lucia mette le **uova** dentro e chiude lo sportello. Poi tira fuori la sua carta. La carta è vecchia, gialla, con macchie di caffè. «Ecco la ricetta di tua madre.» Chiara guarda la carta senza parlare. Sopra c'è una scrittura piccola e rotonda.
+«Il **frigorifero** di Franco è sempre triste. Lui mangia al bar.» Lucia mette le **uova** dentro e chiude lo sportello. Poi guarda Chiara. «Hai la ricetta di tua madre?» Chiara tira fuori dalla borsa una carta vecchia, gialla, con macchie di caffè. Chiara guarda la carta senza parlare. Sopra c'è una scrittura piccola e rotonda.
 
 «È la scrittura di mamma.»
 
-«Sì. La ricetta è di Anna, tanti anni fa, al corso di cucina.»
+«Che bella scrittura, tesoro.»
 
 Chiara tocca la carta con un dito. «Ci sono le dosi?»
 
@@ -692,33 +692,7 @@ Nadia lava un **bicchiere** e lo mette sul **vassoio**. «Kevin, i numeri sono a
 
 «Non tutto. Forse no.»
 
-«Sì. Tutto.»
-
-Matteo prende la penna e scrive sul **quaderno** di Kevin. «Adesso il menu. Quattro minuti.» Matteo scrive **veloce**, con la **voce** bassa. «Primo: lasagne. Secondo: arrosto con patate. Terzo: tiramisù.»
-
-«E i **bicchieri** per il vino?»
-
-«Kevin, i **bicchieri** per il vino sono **bicchieri** diversi.»
-
-«**Bicchieri** diversi?»
-
-«Sì. **Bicchieri** piccoli per il vino. **Bicchieri** grandi per l'acqua.»
-
-Kevin guarda il **quaderno** e chiude gli occhi. «Quanti **bicchieri** in tutto?»
-
-«Ottantotto **bicchieri**. E sei **vassoi**.»
-
-«Ottantotto?»
-
-«No. Tre **vassoi**. Errore mio.» Nadia prende il **quaderno** e cancella tre cose. «Via il secondo dolce. Via i biscotti. Via il caffè speciale.»
-
-«Ma io voglio...»
-
-«Matteo, il bar è piccolo. Siamo ventidue persone. Basta così.»
-
-Matteo alza le mani. «Va bene, va bene. Nadia è il capo.»
-
-«Sempre.» Kevin guarda il **quaderno** con le liste, le croci, i **bicchieri**, i **tovaglioli** e i **vassoi**. Poi scrive una parola nuova in alto: TIRAMISÙ. Poi sotto scrive: **ASSAGGIARE** — CON IL **CUCCHIAIO**.
+«Sì. Tutto.» Kevin guarda il **quaderno** con le liste. Poi scrive una parola nuova in alto: TIRAMISÙ. Poi sotto scrive: **ASSAGGIARE** — CON IL **CUCCHIAIO**.
 
 «Kevin, cosa **stai facendo**?»
 
@@ -762,7 +736,7 @@ _Il segreto è uno sport di squadra._ _Ma la mia squadra **sta giocando** male._
 
 «Kevin, dobbiamo fare piano. Molto piano.»
 
-«Sì. Piano.» Ma Kevin, nel frattempo, **sta mescolando** nel suo quaderno la lista degli invitati, il nome di Franco e la parola **panna**. Il suo cervello **sta lavorando** **veloce**. Fuori, Franco piega il giornale e si alza. Guarda il bar per un secondo. Poi gira e va verso casa.
+«Sì. Piano.» Ma Kevin non dorme. **Sta scrivendo** ancora nel suo quaderno. Fuori, Franco piega il giornale e si alza. Guarda il bar per un secondo. Poi gira e va verso casa.
 
 ## 6. Casa Carter, Via dei Tigli 14 · domenica mattina, presto
 
@@ -786,7 +760,7 @@ Emma prende la **scatola** e la mette in una borsa. «I **palloncini** sono diec
 
 «E la torta?»
 
-«La torta è nel **frigorifero** ed è pronta.»
+«La torta è dal nonno, nel **frigorifero**. È pronta.»
 
 «La **panna** è pronta?»
 
@@ -796,7 +770,7 @@ Emma prende la **scatola** e la mette in una borsa. «I **palloncini** sono diec
 
 «Kevin, nel tiramisù le **uova** non si vedono.»
 
-«Ah. Bene.» Kevin apre il **frigorifero** e prende il **vassoio** con il dolce. Emma prende i **bicchieri** e i **tovaglioli**. «Pronti?»
+«Ah. Bene.» Kevin prende la borsa con la panna e il cacao. Emma prende i **bicchieri** e i **tovaglioli**. «Pronti?»
 
 «Pronti.»
 
@@ -822,7 +796,7 @@ Emma prende la **scatola** e la mette in una borsa. «I **palloncini** sono diec
 
 «Franco dorme e il **citofono** suona. Questo è peggio.» Entrano nella casa di Franco dalla porta sul retro. La cucina è fredda e scura. «Emma, la luce del **cellulare**.» Emma alza il **cellulare** e illumina il tavolo. «Adesso **apparecchiamo** tutto.» Kevin mette i **tovaglioli** accanto ai piatti. Emma mette i **bicchieri** sul **vassoio**. Chiara appende i **palloncini** alla porta.
 
-Leo guarda il dolce sul **vassoio**. «Kevin?»
+Leo apre il **frigorifero** di Franco e guarda il dolce. «Kevin?»
 
 «Cosa?»
 
@@ -844,9 +818,9 @@ Leo mette il **cucchiaio** nel dolce e **assaggia**. «Buono!»
 
 «Chiara, la **panna** va di nuovo nel **frigorifero**.»
 
-«Sì. E anche il **cacao**.» Chiara apre il **frigorifero** di Franco. Dentro ci sono il latte, il formaggio e le **uova**. «Papà ha le **uova** nel **frigorifero**.»
+«Sì. E anche il **cacao**.» Chiara apre il **frigorifero** di Franco. Dentro ci sono il latte, il formaggio e il tiramisù. «Papà ha un tiramisù nel **frigorifero** e non lo sa.»
 
-«Le **uova** per il tiramisù di ieri.» Chiara mette la **panna** dentro e chiude lo sportello. «Adesso il tempo?»
+«Adesso il **frigorifero** di papà è felice.» Chiara mette la **panna** dentro e chiude lo sportello. «Adesso il tempo?»
 
 «Sei e mezza.»
 
@@ -864,7 +838,7 @@ Dalla finestra arriva la **voce** di Franco. «C'è qualcuno?»
 
 E Leo, veloce come un fulmine, risponde per tutti. «**Niente**!»
 
-_(Kevin chiude gli occhi e pensa: la squadra **sta perdendo** di nuovo.__)_
+Kevin chiude gli occhi e pensa: _la squadra **sta perdendo** di nuovo._
 
 ## 7. L'orto di Franco · domenica mattina
 

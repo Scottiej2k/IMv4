@@ -379,7 +379,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | C'è un tavolo di legno, quattro sedie e una finestra sul giardino. | There's a wooden table, four chairs, and a window onto the garden. |
 | Sul tavolo c'è un **vassoio** con tre **bicchieri** e un piatto di biscotti. | On the table there's a **tray** with three **glasses** and a plate of cookies. |
 | Chiara entra dalla porta sul retro. | Chiara comes in through the back door. |
-| Lucia è già lì, con un grembiule e una carta in mano. | Lucia is already there, with an apron and a card in her hand. |
+| Lucia è già lì, con un grembiule. | Lucia is already there, with an apron. |
 | «Ciao, Chiara!» | “Hi, Chiara!” |
 | «Ciao, Lucia.» | “Hi, Lucia.” |
 | «Porti tutto?» | “Are you bringing everything?” |
@@ -392,13 +392,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **frigorifero** di papà è triste.» | “Dad's **fridge** is sad.” |
 | «Il **frigorifero** di Franco è sempre triste. Lui mangia al bar.» | “Franco's **fridge** is always sad. He eats at the bar.” |
 | Lucia mette le **uova** dentro e chiude lo sportello. | Lucia puts the **eggs** inside and closes the door. |
-| Poi tira fuori la sua carta. | Then she pulls out her card. |
-| La carta è vecchia, gialla, con macchie di caffè. | The card is old, yellow, with coffee stains. |
-| «Ecco la ricetta di tua madre.» | “Here's your mother's recipe.” |
+| Poi guarda Chiara. | Then she looks at Chiara. |
+| «Hai la ricetta di tua madre?» | “Do you have your mother's recipe?” |
+| Chiara tira fuori dalla borsa una carta vecchia, gialla, con macchie di caffè. | Chiara takes an old, yellow card with coffee stains out of her bag. |
 | Chiara guarda la carta senza parlare. | Chiara looks at the card without speaking. |
 | Sopra c'è una scrittura piccola e rotonda. | On top there's small, round handwriting. |
 | «È la scrittura di mamma.» | “It's Mom's handwriting.” |
-| «Sì. La ricetta è di Anna, tanti anni fa, al corso di cucina.» | “Yes. The recipe is Anna's, many years ago, at the cooking class.” |
+| «Che bella scrittura, tesoro.» | “What lovely handwriting, sweetheart.” |
 | Chiara tocca la carta con un dito. | Chiara touches the card with a finger. |
 | «Ci sono le dosi?» | “Are there measurements?” |
 | «Qualche dosa. Poca roba. Tua madre scriveva poco.» | “Some measurements. Not much. Your mother wrote little.” |
@@ -591,27 +591,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Kevin, Franco vede tutto.» | “Kevin, Franco sees everything.” |
 | «Non tutto. Forse no.» | “Not everything. Maybe not.” |
 | «Sì. Tutto.» | “Yes. Everything.” |
-| Matteo prende la penna e scrive sul **quaderno** di Kevin. | Matteo takes the pen and writes in Kevin's **notebook**. |
-| «Adesso il menu. Quattro minuti.» | “Now the menu. Four minutes.” |
-| Matteo scrive **veloce**, con la **voce** bassa. | Matteo writes **fast**, in a low **voice**. |
-| «Primo: lasagne. Secondo: arrosto con patate. Terzo: tiramisù.» | “First: lasagna. Second: roast with potatoes. Third: tiramisù.” |
-| «E i **bicchieri** per il vino?» | “And the **glasses** for the wine?” |
-| «Kevin, i **bicchieri** per il vino sono **bicchieri** diversi.» | “Kevin, the wine **glasses** are different **glasses**.” |
-| «**Bicchieri** diversi?» | “Different **glasses**?” |
-| «Sì. **Bicchieri** piccoli per il vino. **Bicchieri** grandi per l'acqua.» | “Yes. Small **glasses** for wine. Big **glasses** for water.” |
-| Kevin guarda il **quaderno** e chiude gli occhi. | Kevin looks at the **notebook** and closes his eyes. |
-| «Quanti **bicchieri** in tutto?» | “How many **glasses** in all?” |
-| «Ottantotto **bicchieri**. E sei **vassoi**.» | “Eighty-eight **glasses**. And six **trays**.” |
-| «Ottantotto?» | “Eighty-eight?” |
-| «No. Tre **vassoi**. Errore mio.» | “No. Three **trays**. My mistake.” |
-| Nadia prende il **quaderno** e cancella tre cose. | Nadia takes the **notebook** and crosses out three things. |
-| «Via il secondo dolce. Via i biscotti. Via il caffè speciale.» | “Out with the second dessert. Out with the cookies. Out with the special coffee.” |
-| «Ma io voglio...» | “But I want...” |
-| «Matteo, il bar è piccolo. Siamo ventidue persone. Basta così.» | “Matteo, the bar is small. We're twenty-two people. That's enough.” |
-| Matteo alza le mani. | Matteo raises his hands. |
-| «Va bene, va bene. Nadia è il capo.» | “All right, all right. Nadia is the boss.” |
-| «Sempre.» | “Always.” |
-| Kevin guarda il **quaderno** con le liste, le croci, i **bicchieri**, i **tovaglioli** e i **vassoi**. | Kevin looks at the **notebook** with the lists, the crosses, the **glasses**, the **napkins**, and the **trays**. |
+| Kevin guarda il **quaderno** con le liste. | Kevin looks at the **notebook** with the lists. |
 | Poi scrive una parola nuova in alto: TIRAMISÙ. | Then he writes a new word at the top: TIRAMISÙ. |
 | Poi sotto scrive: **ASSAGGIARE** — CON IL **CUCCHIAIO**. | Then under it he writes: **TASTE** — WITH THE **SPOON**. |
 | «Kevin, cosa **stai facendo**?» | “Kevin, what **are you doing**?” |
@@ -641,8 +621,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Lo vedo anch'io.» | “Yes. I see him too.” |
 | «Kevin, dobbiamo fare piano. Molto piano.» | “Kevin, we have to be quiet. Very quiet.” |
 | «Sì. Piano.» | “Yes. Quiet.” |
-| Ma Kevin, nel frattempo, **sta mescolando** nel suo quaderno la lista degli invitati, il nome di Franco e la parola **panna**. | But Kevin, meanwhile, **is mixing** in his notebook the guest list, Franco's name, and the word **cream**. |
-| Il suo cervello **sta lavorando** **veloce**. | His brain **is working** **fast**. |
+| Ma Kevin non dorme. **Sta scrivendo** ancora nel suo quaderno. | But Kevin isn't sleeping. He **is** still **writing** in his notebook. |
 | Fuori, Franco piega il giornale e si alza. | Outside, Franco folds the newspaper and gets up. |
 | Guarda il bar per un secondo. | He looks at the bar for one second. |
 | Poi gira e va verso casa. | Then he turns and goes home. |
@@ -673,13 +652,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma prende la **scatola** e la mette in una borsa. | Emma picks up the **box** and puts it in a bag. |
 | «I **palloncini** sono dieci. Dieci **palloncini** rossi.» | “The **balloons** are ten. Ten red **balloons**.” |
 | «E la torta?» | “And the cake?” |
-| «La torta è nel **frigorifero** ed è pronta.» | “The cake is in the **fridge** and it's ready.” |
+| «La torta è dal nonno, nel **frigorifero**. È pronta.» | “The cake is at Grandpa's, in the **fridge**. It's ready.” |
 | «La **panna** è pronta?» | “Is the **cream** ready?” |
 | «La **panna** è pronta. Il **cacao** è pronto. Lo **zucchero** è pronto.» | “The **cream** is ready. The **cocoa** is ready. The **sugar** is ready.” |
 | «E le **uova**?» | “And the **eggs**?” |
 | «Kevin, nel tiramisù le **uova** non si vedono.» | “Kevin, in tiramisù you don't see the **eggs**.” |
 | «Ah. Bene.» | “Oh. Good.” |
-| Kevin apre il **frigorifero** e prende il **vassoio** con il dolce. | Kevin opens the **fridge** and takes the **tray** with the dessert. |
+| Kevin prende la borsa con la panna e il cacao. | Kevin takes the bag with the cream and the cocoa. |
 | Emma prende i **bicchieri** e i **tovaglioli**. | Emma takes the **glasses** and the **napkins**. |
 | «Pronti?» | “Ready?” |
 | «Pronti.» | “Ready.” |
@@ -717,7 +696,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin mette i **tovaglioli** accanto ai piatti. | Kevin puts the **napkins** next to the plates. |
 | Emma mette i **bicchieri** sul **vassoio**. | Emma puts the **glasses** on the **tray**. |
 | Chiara appende i **palloncini** alla porta. | Chiara hangs the **balloons** on the door. |
-| Leo guarda il dolce sul **vassoio**. | Leo looks at the dessert on the **tray**. |
+| Leo apre il **frigorifero** di Franco e guarda il dolce. | Leo opens Franco's **fridge** and looks at the dessert. |
 | «Kevin?» | “Kevin?” |
 | «Cosa?» | “What?” |
 | «Io **sto assaggiando** il dolce?» | “Am I **tasting** the dessert?” |
@@ -734,9 +713,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Chiara, la **panna** va di nuovo nel **frigorifero**.» | “Chiara, the **cream** goes back in the **fridge**.” |
 | «Sì. E anche il **cacao**.» | “Yes. And the **cocoa** too.” |
 | Chiara apre il **frigorifero** di Franco. | Chiara opens Franco's **fridge**. |
-| Dentro ci sono il latte, il formaggio e le **uova**. | Inside there's milk, cheese, and the **eggs**. |
-| «Papà ha le **uova** nel **frigorifero**.» | “Dad has the **eggs** in the **fridge**.” |
-| «Le **uova** per il tiramisù di ieri.» | “The **eggs** for yesterday's tiramisù.” |
+| Dentro ci sono il latte, il formaggio e il tiramisù. | Inside there's milk, cheese, and the tiramisù. |
+| «Papà ha un tiramisù nel **frigorifero** e non lo sa.» | “Dad has a tiramisù in the **fridge** and doesn't know it.” |
+| «Adesso il **frigorifero** di papà è felice.» | “Now Dad's **fridge** is happy.” |
 | Chiara mette la **panna** dentro e chiude lo sportello. | Chiara puts the **cream** inside and closes the door. |
 | «Adesso il tempo?» | “Now what time is it?” |
 | «Sei e mezza.» | “Half past six.” |
@@ -761,7 +740,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «C'è qualcuno?» | “Is somebody there?” |
 | E Leo, veloce come un fulmine, risponde per tutti. | And Leo, fast as lightning, answers for everyone. |
 | «**Niente**!» | “**Nothing**!” |
-| _(Kevin chiude gli occhi e pensa: la squadra **sta perdendo** di nuovo.__)_ | _(Kevin closes his eyes and thinks: the team **is losing** again._)_ |
+| Kevin chiude gli occhi e pensa: _la squadra **sta perdendo** di nuovo._ | Kevin closes his eyes and thinks: _the team **is losing** again._ |
 
 ## 7. L'orto di Franco · domenica mattina
 

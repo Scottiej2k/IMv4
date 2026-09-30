@@ -50,7 +50,7 @@ A few more useful irregulars: essere → essendo, avere → avendo, andare → a
 - «Tesoro, non **stiamo facendo** un esame. **Stiamo facendo** un dolce.» — “Dear, we **aren't taking** an exam. We **are making** a dessert.” (`s01e24-4-030`) — the negative (*non stiamo*) and the affirmative side by side, *noi* form.
 - «Adesso **stai assaggiando**. Prendi un cucchiaino di **panna**.» — “Now you **are tasting**. Take a little spoonful of **cream**.” (`s01e24-4-062`) — the action in progress right now, then a plain present for the instruction.
 - «Ma io **sto assaggiando** solo un **cucchiaio**.» — “But I'm **tasting** just one **spoon**.” (`s01e24-6-072`) — Leo negotiates with the same structure: *sto assaggiando*.
-- «**Sto mescolando** le idee.» — “I'm **mixing** ideas.” (`s01e24-5-102`) — Kevin uses it figuratively; the gerund works with abstract actions too.
+- «**Sto mescolando** le idee.» — “I'm **mixing** ideas.” (`s01e24-5-082`) — Kevin uses it figuratively; the gerund works with abstract actions too.
 - «Kevin, il giornale è aperto ma lui non **sta leggendo**. **Sta aspettando**.» — “Kevin, the newspaper is open but he **isn't reading**. He **is waiting**.” (`s01e24-5-071`) — Matteo contrasts a state (*è aperto*) with two actions in progress.
 - «E tutti **stanno festeggiando** te!» — “And everybody **is celebrating** you!” (`s01e24-7-018`) — *loro* form: *stanno* + *festeggiando*.
 - «Franco, un uomo che non **sta facendo** niente vede tutto.» — “Franco, a man who **isn't doing** anything sees everything.” (`s01e24-2-039`) — Lucia's joke, with *non sta facendo*.

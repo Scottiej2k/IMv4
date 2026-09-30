@@ -35,8 +35,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il pacco**<br>(n., m) · package | «Leo, il **pacco** è...» | “Leo, the **package** is...” |
 | **la scatola**<br>(n., f) · box | Chiara arriva con una **scatola** grande. | Chiara arrives with a big **box**. |
 | **il tovagliolo**<br>(n., m) · napkin | «**Tovaglioli**: ventidue. Più dieci di scorta.» | “**Napkins**: twenty-two. Plus ten extra.” |
-| **il bicchiere**<br>(n., m) · glass | «Quanti **bicchieri** in tutto?» | “How many **glasses** in all?” |
-| **il vassoio**<br>(n., m) · tray | «Ottantotto bicchieri. E sei **vassoi**.» | “Eighty-eight glasses. And six **trays**.” |
+| **il bicchiere**<br>(n., m) · glass | «**Bicchieri**: quarantaquattro. Due per persona.» | “**Glasses**: forty-four. Two per person.” |
+| **il vassoio**<br>(n., m) · tray | Chiara guarda i bicchieri sul **vassoio**. | Chiara looks at the glasses on the **tray**. |
 | **la panna**<br>(n., f) · cream | «La **panna** è fredda?» | “Is the **cream** cold?” |
 | **lo zucchero**<br>(n., m) · sugar | «Quanti grammi di **zucchero**?» | “How many grams of **sugar**?” |
 | **il cacao**<br>(n., m) · cocoa | «Sì. E anche il **cacao**.» | “Yes. And the **cocoa** too.” |
