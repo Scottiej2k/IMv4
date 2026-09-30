@@ -216,6 +216,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco will become a nonno and accepts it ("Complimenti, papà"); Nadia tells everyone Monday at 8, Franco pays for all the drinks.
 - **Planted:** Matteo's new "idea geniale" (not yet revealed); space above the bar for the culla; Nadia's fear about practical matters.
 
+### s02e07 · L'hai vista?
+- **Happened:** Franco's wedding ring (Anna's, gold, 1978, worn 35 years) goes missing; the family searches. Kevin and Leo find Pavarotti asleep in a sack of cement by Franco's hedge. Franco privately tells Kevin he hid the ring two weeks ago to give it to Lucia; Chiara finds it in a jar behind Anna's recipes and Franco tells her too.
+- **New facts:** Pavarotti is Ornella's white cat (absent three days). Franco kept the tram manual 40 years with a photo of Anna inside. Franco paid two months' salary for the ring; Anna's recipe (tiramisù, used at first meeting with the Carters) kept in the credenza. Nadia's mother is Samira. Nadia ordered the crib at the piazza shop and hid Matteo's parenting manuals.
+- **Changed:** Chiara and Matteo now both know about Lucia and the ring; Franco does not know Matteo knows. Franco decides the ring stays in the jar behind the recipes until "an important moment"; Chiara promises not to tell Matteo. Franco approves of Kevin ("Adesso sai parlare").
+- **Planted:** Lucia's ring / Franco telling Matteo properly; Matteo's fourth manual and the crib; Chiara's first meeting with Lucia as Franco's partner.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

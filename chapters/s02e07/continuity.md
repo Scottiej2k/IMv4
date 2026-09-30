@@ -1,0 +1,5 @@
+### s02e07 · L'hai vista?
+- **Happened:** Franco's wedding ring (Anna's, gold, 1978, worn 35 years) goes missing; the family searches. Kevin and Leo find Pavarotti asleep in a sack of cement by Franco's hedge. Franco privately tells Kevin he hid the ring two weeks ago to give it to Lucia; Chiara finds it in a jar behind Anna's recipes and Franco tells her too.
+- **New facts:** Pavarotti is Ornella's white cat (absent three days). Franco kept the tram manual 40 years with a photo of Anna inside. Franco paid two months' salary for the ring; Anna's recipe (tiramisù, used at first meeting with the Carters) kept in the credenza. Nadia's mother is Samira. Nadia ordered the crib at the piazza shop and hid Matteo's parenting manuals.
+- **Changed:** Chiara and Matteo now both know about Lucia and the ring; Franco does not know Matteo knows. Franco decides the ring stays in the jar behind the recipes until "an important moment"; Chiara promises not to tell Matteo. Franco approves of Kevin ("Adesso sai parlare").
+- **Planted:** Lucia's ring / Franco telling Matteo properly; Matteo's fourth manual and the crib; Chiara's first meeting with Lucia as Franco's partner.
