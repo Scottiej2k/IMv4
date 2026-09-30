@@ -349,8 +349,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sette di mattina? Molto presto», dice Kevin piano. | “Seven in the morning? Very early,” says Kevin quietly. |
 | «Papà Franco va sempre presto», dice Leo. | “Grandpa Franco always goes early,” says Leo. |
 | Chiara chiude il telefono e torna alla **panchina**. | Chiara hangs up the phone and comes back to the **bench**. |
-| «Allora: lunedì alle sette i muratori **sono tornati** nel **cantiere**.» | “So: Monday at seven the builders **have come back** to the building site.” |
-| «**Sono tornati**?» | “**They've come back**?” |
+| «Allora: lunedì alle sette i muratori tornano nel **cantiere**.» | “So: Monday at seven the builders come back to the building site.” |
+| «Tornano?» | “They come back?” |
 | «Sì. E mio padre è già là con la **mappa** della casa.» | “Yes. And my father is already there with the **map** of the house.” |
 | «Franco con la **mappa** della casa», dice Kevin. «Come me con la **mappa** del parco.» | “Franco with the **map** of the house,” says Kevin. “Like me with the **map** of the park.” |
 | «Papà Franco conosce la casa», dice Leo. | “Grandpa Franco knows the house,” says Leo. |
@@ -402,8 +402,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No. **Siamo** in orario. Ma **dobbiamo andare**.» | “No. **We're** on time. But **we have to go**.” |
 | **Pedalano** fino all'ingresso del parco e **portano** le **biciclette** al noleggio. | They **pedal** to the park entrance and **bring** the **bikes** back to the rental. |
 | Il **prato** è ancora verde, la **villa** è ancora bianca, il sole è ancora alto. | The **lawn** is still green, the **villa** is still white, the sun is still high. |
-| «Kevin, la **bicicletta** era bella?» | “Kevin, was the **bike** nice?” |
-| «Moltissimo. Ma le mie gambe sono stanche.» | “Very much. But my legs are tired.” |
+| «Kevin, hai **pedalato** bene?» | “Kevin, did you **pedal** well?” |
+| «Benissimo. Ma le mie gambe sono stanche.» | “Very well. But my legs are tired.” |
 | «Le mie no», dice Leo. | “Mine aren't,” says Leo. |
 | «Tu hai otto anni, Leo», dice Kevin. | “You're eight years old, Leo,” says Kevin. |
 | Corrono verso la stazione, con lo **zaino** sulle spalle. | They run toward the station, with the **backpack** on their shoulders. |
@@ -542,7 +542,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Italiano | English |
 |---|---|
-| Alle sette e mezza Via dei Tigli è tranquilla, con le luci accese nelle cucine. | At seven-thirty Via dei Tigli is quiet, with lights on in the kitchens. |
+| Alle sei e un quarto Via dei Tigli è tranquilla, con le luci accese nelle cucine. | At a quarter past six Via dei Tigli is quiet, with lights on in the kitchens. |
 | Emma è seduta nel giardino con un libro di storia sulle ginocchia. | Emma is sitting in the garden with a history book on her knees. |
 | Il libro è aperto a pagina venti, e la pagina venti è sempre la stessa. | The book is open at page twenty, and page twenty is always the same. |
 | _Venti minuti su questa pagina. La storia è lunga._ | _Twenty minutes on this page. History is long._ |
@@ -598,13 +598,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Lei guarda l'orologio?» | “You watch the clock?” |
 | «Io guardo la strada da cinquant'anni, Emma.» | “I've been watching the street for fifty years, Emma.” |
 | Ornella si avvicina al cancello. | Ornella comes close to the gate. |
-| «Ai miei tempi», dice, «le ragazze di quindici anni usavano le scarpe buone.» | “In my day,” she says, “fifteen-year-old girls wore good shoes.” |
+| «Una ragazza di quindici anni, per uscire, mette le scarpe buone» dice. | “A fifteen-year-old girl puts on good shoes to go out,” she says. |
 | «Le scarpe buone?» | “Good shoes?” |
 | «E la testa», dice Ornella. | “And their heads,” says Ornella. |
 | Emma guarda i suoi piedi, con le scarpe da ginnastica. | Emma looks at her feet, in sneakers. |
 | «Le scarpe buone non sono per lo **skateboard**», dice Emma. | “Good shoes aren't for the **skateboard**,” says Emma. |
 | «Appunto», dice Ornella. | “Exactly,” says Ornella. |
-| Emma pensa alla signora, elegante anche adesso, alle sette e mezza, con il gatto vicino. | Emma thinks about the lady, elegant even now, at seven-thirty, with the cat nearby. |
+| Emma pensa alla signora, elegante anche adesso, alle sei e un quarto, con il gatto vicino. | Emma thinks about the lady, elegant even now, at a quarter past six, with the cat nearby. |
 | _Ho un testimone. E il testimone è molto elegante._ | _I have a witness. And the witness is very elegant._ |
 | «Signora Galli, io le devo...» | “Signora Galli, I owe you...” |
 | «Niente. Tu non mi devi niente», dice Ornella. | “Nothing. You don't owe me anything,” says Ornella. |
@@ -649,7 +649,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Italiano | English |
 |---|---|
-| Alle sette i Carter aprono la porta di casa con la polvere ancora sui vestiti. | At seven the Carters open the house door with dust still on their clothes. |
+| Alle sei e mezza i Carter aprono la porta di casa con la polvere ancora sui vestiti. | At six-thirty the Carters open the house door with dust still on their clothes. |
 | Kevin **è entrato** per primo, con lo **zaino** in mano e un sorriso grande. | Kevin **went** in first, with the **backpack** in his hand and a big smile. |
 | «**Siamo tornati**! E con la polvere nei capelli!» | “**We're back**! And with dust in our hair!” |
 | «Papà, **siamo andati** a Monza!» | “Dad, **we went** to Monza!” |

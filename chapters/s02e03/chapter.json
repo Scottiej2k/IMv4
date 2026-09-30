@@ -94,9 +94,9 @@
       "lemma": "pedalare",
       "pos": "verb",
       "en": "to pedal",
-      "example": "s02e03-1-054",
+      "example": "s02e03-4-081",
       "target": {
-        "it": "pedaliamo",
+        "it": "pedalato",
         "en": "pedal"
       }
     },
@@ -34799,12 +34799,12 @@
             },
             {
               "id": "s02e03-4-028",
-              "it": "«Allora: lunedì alle sette i muratori **sono tornati** nel **cantiere**.»",
-              "en": "“So: Monday at seven the builders **have come back** to the building site.”",
+              "it": "«Allora: lunedì alle sette i muratori tornano nel **cantiere**.»",
+              "en": "“So: Monday at seven the builders come back to the building site.”",
               "voice": [
                 [
                   "chiara",
-                  "Allora: lunedì alle sette i muratori **sono tornati** nel **cantiere**.",
+                  "Allora: lunedì alle sette i muratori tornano nel **cantiere**.",
                   ""
                 ]
               ],
@@ -34875,19 +34875,9 @@
                   ""
                 ],
                 [
-                  "sono",
+                  "tornano",
                   6,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "tornati",
-                  7,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -34896,7 +34886,7 @@
                 ],
                 [
                   "nel",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -34906,7 +34896,7 @@
                 ],
                 [
                   "cantiere",
-                  9,
+                  8,
                   "b"
                 ],
                 [
@@ -34925,12 +34915,12 @@
           "segments": [
             {
               "id": "s02e03-4-029",
-              "it": "«**Sono tornati**?»",
-              "en": "“**They've come back**?”",
+              "it": "«Tornano?»",
+              "en": "“They come back?”",
               "voice": [
                 [
                   "ben",
-                  "**Sono tornati**?",
+                  "Tornano?",
                   ""
                 ]
               ],
@@ -34941,28 +34931,15 @@
                   ""
                 ],
                 [
-                  "Sono",
+                  "Tornano",
                   0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "tornati",
-                  1,
-                  "b"
+                  ""
                 ],
                 [
                   "?»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-pp-essere"
               ]
             }
           ]
@@ -40152,12 +40129,12 @@
             },
             {
               "id": "s02e03-4-081",
-              "it": "«Kevin, la **bicicletta** era bella?»",
-              "en": "“Kevin, was the **bike** nice?”",
+              "it": "«Kevin, hai **pedalato** bene?»",
+              "en": "“Kevin, did you **pedal** well?”",
               "voice": [
                 [
                   "chiara",
-                  "Kevin, la **bicicletta** era bella?",
+                  "Kevin, hai **pedalato** bene?",
                   ""
                 ]
               ],
@@ -40178,7 +40155,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "hai",
                   1,
                   ""
                 ],
@@ -40188,7 +40165,7 @@
                   ""
                 ],
                 [
-                  "bicicletta",
+                  "pedalato",
                   2,
                   "b"
                 ],
@@ -40198,18 +40175,8 @@
                   ""
                 ],
                 [
-                  "era",
+                  "bene",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bella",
-                  4,
                   ""
                 ],
                 [
@@ -40219,7 +40186,7 @@
                 ]
               ],
               "focus": [
-                "v-in-bicicletta"
+                "v-pedalare"
               ]
             }
           ]
@@ -40228,12 +40195,12 @@
           "segments": [
             {
               "id": "s02e03-4-082",
-              "it": "«Moltissimo. Ma le mie gambe sono stanche.»",
-              "en": "“Very much. But my legs are tired.”",
+              "it": "«Benissimo. Ma le mie gambe sono stanche.»",
+              "en": "“Very well. But my legs are tired.”",
               "voice": [
                 [
                   "ben",
-                  "Moltissimo. Ma le mie gambe sono stanche.",
+                  "Benissimo. Ma le mie gambe sono stanche.",
                   ""
                 ]
               ],
@@ -40244,7 +40211,7 @@
                   ""
                 ],
                 [
-                  "Moltissimo",
+                  "Benissimo",
                   0,
                   ""
                 ],
@@ -53504,12 +53471,12 @@
           "segments": [
             {
               "id": "s02e03-6-001",
-              "it": "Alle sette e mezza Via dei Tigli è tranquilla, con le luci accese nelle cucine.",
-              "en": "At seven-thirty Via dei Tigli is quiet, with lights on in the kitchens.",
+              "it": "Alle sei e un quarto Via dei Tigli è tranquilla, con le luci accese nelle cucine.",
+              "en": "At a quarter past six Via dei Tigli is quiet, with lights on in the kitchens.",
               "voice": [
                 [
                   "narrator",
-                  "Alle sette e mezza Via dei Tigli è tranquilla, con le luci accese nelle cucine.",
+                  "Alle sei e un quarto Via dei Tigli è tranquilla, con le luci accese nelle cucine.",
                   ""
                 ]
               ],
@@ -53525,7 +53492,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   1,
                   ""
                 ],
@@ -53545,7 +53512,7 @@
                   ""
                 ],
                 [
-                  "mezza",
+                  "un",
                   3,
                   ""
                 ],
@@ -53555,7 +53522,7 @@
                   ""
                 ],
                 [
-                  "Via",
+                  "quarto",
                   4,
                   ""
                 ],
@@ -53565,7 +53532,7 @@
                   ""
                 ],
                 [
-                  "dei",
+                  "Via",
                   5,
                   ""
                 ],
@@ -53575,7 +53542,7 @@
                   ""
                 ],
                 [
-                  "Tigli",
+                  "dei",
                   6,
                   ""
                 ],
@@ -53585,7 +53552,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "Tigli",
                   7,
                   ""
                 ],
@@ -53595,8 +53562,18 @@
                   ""
                 ],
                 [
-                  "tranquilla",
+                  "è",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tranquilla",
+                  9,
                   ""
                 ],
                 [
@@ -53606,16 +53583,6 @@
                 ],
                 [
                   "con",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
                   10,
                   ""
                 ],
@@ -53625,7 +53592,7 @@
                   ""
                 ],
                 [
-                  "luci",
+                  "le",
                   11,
                   ""
                 ],
@@ -53635,7 +53602,7 @@
                   ""
                 ],
                 [
-                  "accese",
+                  "luci",
                   12,
                   ""
                 ],
@@ -53645,7 +53612,7 @@
                   ""
                 ],
                 [
-                  "nelle",
+                  "accese",
                   13,
                   ""
                 ],
@@ -53655,8 +53622,18 @@
                   ""
                 ],
                 [
-                  "cucine",
+                  "nelle",
                   14,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cucine",
+                  15,
                   ""
                 ],
                 [
@@ -58678,22 +58655,17 @@
             },
             {
               "id": "s02e03-6-057",
-              "it": "«Ai miei tempi», dice, «le ragazze di quindici anni usavano le scarpe buone.»",
-              "en": "“In my day,” she says, “fifteen-year-old girls wore good shoes.”",
+              "it": "«Una ragazza di quindici anni, per uscire, mette le scarpe buone» dice.",
+              "en": "“A fifteen-year-old girl puts on good shoes to go out,” she says.",
               "voice": [
                 [
                   "ornella",
-                  "Ai miei tempi",
+                  "Una ragazza di quindici anni, per uscire, mette le scarpe buone",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice",
-                  ""
-                ],
-                [
-                  "ornella",
-                  "le ragazze di quindici anni usavano le scarpe buone.",
+                  "dice.",
                   ""
                 ]
               ],
@@ -58704,7 +58676,7 @@
                   ""
                 ],
                 [
-                  "Ai",
+                  "Una",
                   0,
                   ""
                 ],
@@ -58714,7 +58686,7 @@
                   ""
                 ],
                 [
-                  "miei",
+                  "ragazza",
                   1,
                   ""
                 ],
@@ -58724,48 +58696,8 @@
                   ""
                 ],
                 [
-                  "tempi",
-                  2,
-                  ""
-                ],
-                [
-                  "», ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  ", «",
-                  -1,
-                  ""
-                ],
-                [
-                  "le",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ragazze",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "di",
-                  6,
+                  2,
                   ""
                 ],
                 [
@@ -58775,7 +58707,7 @@
                 ],
                 [
                   "quindici",
-                  7,
+                  3,
                   ""
                 ],
                 [
@@ -58785,7 +58717,17 @@
                 ],
                 [
                   "anni",
-                  8,
+                  4,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "per",
+                  5,
                   ""
                 ],
                 [
@@ -58794,8 +58736,18 @@
                   ""
                 ],
                 [
-                  "usavano",
-                  9,
+                  "uscire",
+                  6,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mette",
+                  7,
                   ""
                 ],
                 [
@@ -58805,7 +58757,7 @@
                 ],
                 [
                   "le",
-                  10,
+                  8,
                   ""
                 ],
                 [
@@ -58815,7 +58767,7 @@
                 ],
                 [
                   "scarpe",
-                  11,
+                  9,
                   ""
                 ],
                 [
@@ -58825,11 +58777,21 @@
                 ],
                 [
                   "buone",
-                  12,
+                  10,
                   ""
                 ],
                 [
-                  ".»",
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  11,
+                  ""
+                ],
+                [
+                  ".",
                   -1,
                   ""
                 ]
@@ -59275,12 +59237,12 @@
           "segments": [
             {
               "id": "s02e03-6-063",
-              "it": "Emma pensa alla signora, elegante anche adesso, alle sette e mezza, con il gatto vicino.",
-              "en": "Emma thinks about the lady, elegant even now, at seven-thirty, with the cat nearby.",
+              "it": "Emma pensa alla signora, elegante anche adesso, alle sei e un quarto, con il gatto vicino.",
+              "en": "Emma thinks about the lady, elegant even now, at a quarter past six, with the cat nearby.",
               "voice": [
                 [
                   "narrator",
-                  "Emma pensa alla signora, elegante anche adesso, alle sette e mezza, con il gatto vicino.",
+                  "Emma pensa alla signora, elegante anche adesso, alle sei e un quarto, con il gatto vicino.",
                   ""
                 ]
               ],
@@ -59366,7 +59328,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   8,
                   ""
                 ],
@@ -59386,8 +59348,18 @@
                   ""
                 ],
                 [
-                  "mezza",
+                  "un",
                   10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "quarto",
+                  11,
                   ""
                 ],
                 [
@@ -59397,16 +59369,6 @@
                 ],
                 [
                   "con",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
                   12,
                   ""
                 ],
@@ -59416,7 +59378,7 @@
                   ""
                 ],
                 [
-                  "gatto",
+                  "il",
                   13,
                   ""
                 ],
@@ -59426,8 +59388,18 @@
                   ""
                 ],
                 [
-                  "vicino",
+                  "gatto",
                   14,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "vicino",
+                  15,
                   ""
                 ],
                 [
@@ -63402,12 +63374,12 @@
           "segments": [
             {
               "id": "s02e03-7-001",
-              "it": "Alle sette i Carter aprono la porta di casa con la polvere ancora sui vestiti.",
-              "en": "At seven the Carters open the house door with dust still on their clothes.",
+              "it": "Alle sei e mezza i Carter aprono la porta di casa con la polvere ancora sui vestiti.",
+              "en": "At six-thirty the Carters open the house door with dust still on their clothes.",
               "voice": [
                 [
                   "narrator",
-                  "Alle sette i Carter aprono la porta di casa con la polvere ancora sui vestiti.",
+                  "Alle sei e mezza i Carter aprono la porta di casa con la polvere ancora sui vestiti.",
                   ""
                 ]
               ],
@@ -63423,7 +63395,7 @@
                   ""
                 ],
                 [
-                  "sette",
+                  "sei",
                   1,
                   ""
                 ],
@@ -63433,7 +63405,7 @@
                   ""
                 ],
                 [
-                  "i",
+                  "e",
                   2,
                   ""
                 ],
@@ -63443,7 +63415,7 @@
                   ""
                 ],
                 [
-                  "Carter",
+                  "mezza",
                   3,
                   ""
                 ],
@@ -63453,7 +63425,7 @@
                   ""
                 ],
                 [
-                  "aprono",
+                  "i",
                   4,
                   ""
                 ],
@@ -63463,7 +63435,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "Carter",
                   5,
                   ""
                 ],
@@ -63473,7 +63445,7 @@
                   ""
                 ],
                 [
-                  "porta",
+                  "aprono",
                   6,
                   ""
                 ],
@@ -63483,7 +63455,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "la",
                   7,
                   ""
                 ],
@@ -63493,7 +63465,7 @@
                   ""
                 ],
                 [
-                  "casa",
+                  "porta",
                   8,
                   ""
                 ],
@@ -63503,7 +63475,7 @@
                   ""
                 ],
                 [
-                  "con",
+                  "di",
                   9,
                   ""
                 ],
@@ -63513,7 +63485,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "casa",
                   10,
                   ""
                 ],
@@ -63523,7 +63495,7 @@
                   ""
                 ],
                 [
-                  "polvere",
+                  "con",
                   11,
                   ""
                 ],
@@ -63533,7 +63505,7 @@
                   ""
                 ],
                 [
-                  "ancora",
+                  "la",
                   12,
                   ""
                 ],
@@ -63543,7 +63515,7 @@
                   ""
                 ],
                 [
-                  "sui",
+                  "polvere",
                   13,
                   ""
                 ],
@@ -63553,8 +63525,28 @@
                   ""
                 ],
                 [
-                  "vestiti",
+                  "ancora",
                   14,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sui",
+                  15,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "vestiti",
+                  16,
                   ""
                 ],
                 [

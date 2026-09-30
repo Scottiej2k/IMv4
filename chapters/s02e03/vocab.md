@@ -21,7 +21,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **venire**<br>(v.) · to come | «Papà, io **vengo** con te», dice Leo. | “Dad, I'm **coming** with you,” says Leo. |
 | **portare**<br>(v.) · to bring, to carry | «Papà... abbiamo **portato** un cane?» | “Dad... did we **bring** a dog?” |
 | **trovare**<br>(v.) · to find | «Dove **troviamo** le biciclette?» | “Where do we **find** the bikes?” |
-| **pedalare**<br>(v.) · to pedal | «Mamma, **pedaliamo** fino al laghetto?» | “Mom, do we **pedal** all the way to the little lake?” |
+| **pedalare**<br>(v.) · to pedal | «Kevin, hai **pedalato** bene?» | “Kevin, did you **pedal** well?” |
 | **spingere**<br>(v.) · to push | «E chi **spinge** la porta?» | “And who **pushes** the door?” |
 | **seguire**<br>(v.) · to follow | «Allora, chi **segue** il piano?» | “So, who's **following** the plan?” |
 

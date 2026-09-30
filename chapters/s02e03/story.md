@@ -460,9 +460,9 @@ Poi il telefono di Chiara suona. Lei guarda lo schermo e si allontana un poco. �
 
 «Papà Franco va sempre presto», dice Leo.
 
-Chiara chiude il telefono e torna alla **panchina**. «Allora: lunedì alle sette i muratori **sono tornati** nel **cantiere**.»
+Chiara chiude il telefono e torna alla **panchina**. «Allora: lunedì alle sette i muratori tornano nel **cantiere**.»
 
-«**Sono tornati**?»
+«Tornano?»
 
 «Sì. E mio padre è già là con la **mappa** della casa.»
 
@@ -546,9 +546,9 @@ Poi vedono il **chiosco** bianco con i **gelati**. «Il **chiosco**!»
 
 «No. **Siamo** in orario. Ma **dobbiamo andare**.»
 
-**Pedalano** fino all'ingresso del parco e **portano** le **biciclette** al noleggio. Il **prato** è ancora verde, la **villa** è ancora bianca, il sole è ancora alto. «Kevin, la **bicicletta** era bella?»
+**Pedalano** fino all'ingresso del parco e **portano** le **biciclette** al noleggio. Il **prato** è ancora verde, la **villa** è ancora bianca, il sole è ancora alto. «Kevin, hai **pedalato** bene?»
 
-«Moltissimo. Ma le mie gambe sono stanche.»
+«Benissimo. Ma le mie gambe sono stanche.»
 
 «Le mie no», dice Leo.
 
@@ -704,7 +704,7 @@ _No, mamma. Sono uscita. Ma tu non lo sai._ Emma apre il libro e guarda la strad
 
 ## 6. Via dei Tigli · sera
 
-Alle sette e mezza Via dei Tigli è tranquilla, con le luci accese nelle cucine. Emma è seduta nel giardino con un libro di storia sulle ginocchia. Il libro è aperto a pagina venti, e la pagina venti è sempre la stessa. _Venti minuti su questa pagina. La storia è lunga._
+Alle sei e un quarto Via dei Tigli è tranquilla, con le luci accese nelle cucine. Emma è seduta nel giardino con un libro di storia sulle ginocchia. Il libro è aperto a pagina venti, e la pagina venti è sempre la stessa. _Venti minuti su questa pagina. La storia è lunga._
 
 Dalla casa del numero sedici esce Ornella Galli, con Pavarotti dietro. Ornella **è uscita** piano, con un golf leggero sulle spalle, e cammina fino al cancello. «Buonasera, Emma», dice Ornella.
 
@@ -770,7 +770,7 @@ Ornella guarda il gatto e sorride. «Io non dico niente a tua madre. Per ora», 
 
 «Io guardo la strada da cinquant'anni, Emma.»
 
-Ornella si avvicina al cancello. «Ai miei tempi», dice, «le ragazze di quindici anni usavano le scarpe buone.»
+Ornella si avvicina al cancello. «Una ragazza di quindici anni, per uscire, mette le scarpe buone» dice.
 
 «Le scarpe buone?»
 
@@ -780,7 +780,7 @@ Emma guarda i suoi piedi, con le scarpe da ginnastica. «Le scarpe buone non son
 
 «Appunto», dice Ornella.
 
-Emma pensa alla signora, elegante anche adesso, alle sette e mezza, con il gatto vicino. _Ho un testimone. E il testimone è molto elegante._ «Signora Galli, io le devo...»
+Emma pensa alla signora, elegante anche adesso, alle sei e un quarto, con il gatto vicino. _Ho un testimone. E il testimone è molto elegante._ «Signora Galli, io le devo...»
 
 «Niente. Tu non mi devi niente», dice Ornella.
 
@@ -834,7 +834,7 @@ Emma va verso la porta di casa con il libro in mano. Prima di entrare, guarda un
 
 ## 7. Casa Carter, Via dei Tigli 14 · sera
 
-Alle sette i Carter aprono la porta di casa con la polvere ancora sui vestiti. Kevin **è entrato** per primo, con lo **zaino** in mano e un sorriso grande. «**Siamo tornati**! E con la polvere nei capelli!»
+Alle sei e mezza i Carter aprono la porta di casa con la polvere ancora sui vestiti. Kevin **è entrato** per primo, con lo **zaino** in mano e un sorriso grande. «**Siamo tornati**! E con la polvere nei capelli!»
 
 «Papà, **siamo andati** a Monza!»
 

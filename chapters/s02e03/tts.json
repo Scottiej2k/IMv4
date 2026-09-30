@@ -12827,10 +12827,10 @@
       ],
       "words": [
         [
-          "s02e03-4-028:0-9"
+          "s02e03-4-028:0-8"
         ],
         [
-          "s02e03-4-029:0-1"
+          "s02e03-4-029:0-0"
         ],
         [
           "s02e03-4-030:0-11"
@@ -12847,7 +12847,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Allora: lunedì alle sette i muratori sono tornati nel cantiere.",
+                "text": "Allora: lunedì alle sette i muratori tornano nel cantiere.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12858,7 +12858,7 @@
               },
               {
                 "type": "text",
-                "text": "Sono tornati?",
+                "text": "Tornano?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14937,7 +14937,7 @@
           "s02e03-4-080:0-14"
         ],
         [
-          "s02e03-4-081:0-4"
+          "s02e03-4-081:0-3"
         ]
       ],
       "request": {
@@ -14959,7 +14959,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin, la bicicletta era bella?",
+                "text": "Kevin, hai pedalato bene?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15019,7 +15019,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Moltissimo. Ma le mie gambe sono stanche.",
+                "text": "Benissimo. Ma le mie gambe sono stanche.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -19126,7 +19126,7 @@
       ],
       "words": [
         [
-          "s02e03-6-001:0-14",
+          "s02e03-6-001:0-15",
           "s02e03-6-002:0-11",
           "s02e03-6-003:0-14"
         ],
@@ -19146,7 +19146,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Alle sette e mezza Via dei Tigli è tranquilla, con le luci accese nelle cucine. Emma è seduta nel giardino con un libro di storia sulle ginocchia. Il libro è aperto a pagina venti, e la pagina venti è sempre la stessa.",
+                "text": "Alle sei e un quarto Via dei Tigli è tranquilla, con le luci accese nelle cucine. Emma è seduta nel giardino con un libro di storia sulle ginocchia. Il libro è aperto a pagina venti, e la pagina venti è sempre la stessa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20754,13 +20754,10 @@
           "s02e03-6-056:0-4"
         ],
         [
-          "s02e03-6-057:0-2"
+          "s02e03-6-057:0-10"
         ],
         [
-          "s02e03-6-057:3-3"
-        ],
-        [
-          "s02e03-6-057:4-12"
+          "s02e03-6-057:11-11"
         ]
       ],
       "request": {
@@ -20793,7 +20790,7 @@
               },
               {
                 "type": "text",
-                "text": "Ai miei tempi",
+                "text": "Una ragazza di quindici anni, per uscire, mette le scarpe buone",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20804,23 +20801,12 @@
               },
               {
                 "type": "text",
-                "text": "dice",
+                "text": "dice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "narrator",
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "le ragazze di quindici anni usavano le scarpe buone.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ornella",
-                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               }
@@ -21023,7 +21009,7 @@
         ],
         [
           "s02e03-6-062:1-2",
-          "s02e03-6-063:0-14"
+          "s02e03-6-063:0-15"
         ]
       ],
       "request": {
@@ -21045,7 +21031,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Ornella. Emma pensa alla signora, elegante anche adesso, alle sette e mezza, con il gatto vicino.",
+                "text": "dice Ornella. Emma pensa alla signora, elegante anche adesso, alle sei e un quarto, con il gatto vicino.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -22415,7 +22401,7 @@
       ],
       "words": [
         [
-          "s02e03-7-001:0-14",
+          "s02e03-7-001:0-16",
           "s02e03-7-002:0-13"
         ],
         [
@@ -22430,7 +22416,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Alle sette i Carter aprono la porta di casa con la polvere ancora sui vestiti. Kevin è entrato per primo, con lo zaino in mano e un sorriso grande.",
+                "text": "Alle sei e mezza i Carter aprono la porta di casa con la polvere ancora sui vestiti. Kevin è entrato per primo, con lo zaino in mano e un sorriso grande.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
