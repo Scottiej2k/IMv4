@@ -195,7 +195,7 @@ Dentro ci sono i **cartelli** con il programma. || Inside are the **signs** with
 Franco prende la scala e la appoggia al **palco**. || Franco takes the ladder and leans it against the **stage**.
 «Kevin, tu tieni la scala. Io salgo con la **corda**.»{franco} || “Kevin, you hold the ladder. I'll go up with the **rope**.”
 «Franco, tu hai settantadue anni.»{ben} || “Franco, you're seventy-two.”
-«E tu quarantuno. Sulle scale sono più bravo io.»{ben|dry} || “And you're forty-one. On ladders I'm better.”
+«E tu quarantuno. Sulle scale sono più bravo io.»{franco|dry} || “And you're forty-one. On ladders I'm better.”
 «Non è una gara.»{ben} || “It's not a competition.”
 «Tutto è una gara.»{franco} || “Everything is a competition.”
 
@@ -548,7 +548,7 @@ Silenzio in piazza. || Silence in the square.
 
 Domenica pomeriggio, quattro. La piazza della chiesa è piena di gente e di **palloncini** bianchi e verdi. || Sunday afternoon, four o'clock. The church square is full of people and white and green **balloons**.
 
-Kevin guarda la piazza dalla **prolunga** del **palco**. || Kevin looks at the square from the **extension cord** of the **stage**.
+Kevin guarda la piazza dal **palco**. || Kevin looks at the square from the **stage**.
 Sei **stand**, tre **gazebo**, un **palco** con le **decorazioni**, una **coda** lunghissima alla **bancarella** del pane. || Six **stands**, three **gazebos**, a **stage** with the **decorations**, a very long **line** at the bread **stall**.
 «Incredibile.»{ben} || “Incredible.”
 «Che cosa è incredibile?»{roberto} || “What's incredible?”
@@ -612,13 +612,13 @@ La piazza **smette di** parlare. || The square **stops** talking.
 «Quale sorpresa?»{matteo} || “What surprise?”
 «La sorpresa è di Kevin.»{franco} || “The surprise is Kevin's.”
 Kevin guarda Franco con gli occhi grandi. || Kevin looks at Franco with big eyes.
-_Franco! Non è la mia sorpresa! È la tua!_{ben} || *Franco! It's not my surprise! It's yours!*
+_Una sorpresa mia? Io non ho una sorpresa. Ma Lucia è qui, con un vestito blu._{ben} || *A surprise from me? I don't have a surprise. But Lucia is here, in a blue dress.*
 
 Kevin va verso il fondo della piazza. || Kevin goes toward the back of the square.
 Lucia è seduta su una sedia, con un vestito blu. || Lucia is sitting on a chair, with a blue dress.
-«Lucia, tocca a te.»{ben} || “Lucia, it's your turn.”
+«Lucia, ho bisogno di un aiuto.»{ben} || “Lucia, I need some help.”
 «Kevin, io non ballo davanti a tutta la piazza.»{lucia} || “Kevin, I don't dance in front of the whole square.”
-«Franco ha detto che la sorpresa è mia. Ma la sorpresa è tua.»{ben} || “Franco said the surprise is mine. But the surprise is yours.”
+«Franco ha detto che la sorpresa è mia. Ma io non ho niente. Solo te.»{ben} || “Franco said the surprise is mine. But I have nothing. Only you.”
 «E lui lo sa?»{lucia} || “And does he know?”
 «No.»{ben} || “No.”
 
@@ -694,7 +694,7 @@ _Il **premio** è per due persone. E lei ha guardato me._{tommaso} || *The **pri
 «**Smetto di** vendere biglietti. Adesso li compro.»{emma|quiet} || “I'll **stop** selling tickets. Now I'm buying them.”
 «Quanti?»{tommaso} || “How many?”
 «Tutti quelli che restano.»{emma} || “All the ones that are left.”
-«Emma, ne restano trenta.»{tommaso} || “Emma, there are thirty left.”
+«Emma, ne restano ottanta.»{tommaso} || “Emma, there are eighty left.”
 «Perfetto.»{emma} || “Perfect.”
 
 # SCENE piazza | domenica sera | ben, roberto, chiara, matteo, nadia, ornella
@@ -702,7 +702,7 @@ _Il **premio** è per due persone. E lei ha guardato me._{tommaso} || *The **pri
 Undici di sera. La piazza è quasi vuota e le luci del **palco** sono ancora accese. || Eleven at night. The square is almost empty and the lights of the **stage** are still on.
 
 Kevin piega le sedie e Roberto scrive sul quaderno. || Kevin folds the chairs and Roberto writes in the notebook.
-«Duecento sedie. Ne abbiamo piegate centonovanta.»{roberto} || “Two hundred chairs. We've folded a hundred and ninety.”
+«Cento sedie. Ne abbiamo piegate novanta.»{roberto} || “One hundred chairs. We've folded ninety.”
 «Dieci le porto io.»{ben} || “I'll carry ten.”
 «Lei **continua a** lavorare troppo.»{roberto} || “You **keep** working too much.”
 «E Lei **smette di** contare?»{ben} || “And you **stop** counting?”
@@ -753,14 +753,14 @@ Kevin lo guarda. || Kevin looks at him.
 Roberto chiude il quaderno nero e resta in silenzio un momento. || Roberto closes the black notebook and stays silent for a moment.
 «Signor Carter.»{roberto} || “Mr. Carter.”
 «Sì?»{ben} || “Yes?”
-«Diamoci del tu.»{roberto} || “Let's use tu.”
+«Lei ha lavorato bene.»{roberto} || “You worked well.”
 Kevin fa un passo indietro e tocca il **gazebo** numero uno. || Kevin takes a step back and touches **gazebo** number one.
 Il **gazebo** si muove e quasi cade. || The **gazebo** moves and almost falls.
 «Attento!»{roberto} || “Careful!”
-«Scusi! Cioè, scusa!»{ben} || “Sorry! I mean, sorry!”
+«Scusi! Roberto, mi scusi!»{ben} || “Sorry! Roberto, I'm sorry!”
 Roberto ride piano, per la prima volta. || Roberto laughs quietly, for the first time.
-«Va bene. Allora “tu”.»{roberto} || “All right. So “tu.””
-«Tu.»{ben} || “Tu.”
+«Va bene. Anche Lei ha lavorato bene.»{roberto|dry} || “All right. You worked well too.”
+«Grazie.»{ben} || “Thank you.”
 
 Ornella arriva con il bastone e un bicchiere d'acqua. || Ornella arrives with her cane and a glass of water.
 «Kevin, hai ballato stasera?»{ornella} || “Kevin, did you dance tonight?”
@@ -775,28 +775,25 @@ Ornella arriva con il bastone e un bicchiere d'acqua. || Ornella arrives with he
 «Sì. Per due.»{ben} || “Yes. For two.”
 
 Roberto prende la giacca. || Roberto takes his jacket.
-«Kevin, una cosa.»{roberto} || “Kevin, one thing.”
+«Signor Carter, una cosa.»{roberto} || “Mr. Carter, one thing.”
 «Sì?»{ben} || “Yes?”
-«Tua figlia ha guardato mio figlio tutto il pomeriggio.»{roberto} || “Your daughter looked at my son all afternoon.”
+«Sua figlia ha guardato mio figlio tutto il pomeriggio.»{roberto} || “Your daughter looked at my son all afternoon.”
 «Emma? No. Non l'ho vista.»{ben} || “Emma? No. I didn't see it.”
 «Neanche io.»{roberto|dry} || “Neither did I.”
 «Ah.»{ben} || “Ah.”
-«Però.**Ricordati di** una cosa.»{roberto} || “Still. **Remember** one thing.”
+«Però. **Si ricordi di** una cosa.»{roberto} || “Still. **Remember** one thing.”
 «Cosa?»{ben} || “What?”
 «La **lotteria** è mia. Il **sorteggio** è mio. E i figli sono nostri.»{roberto} || “The **raffle** is mine. The **draw** is mine. And the kids are ours.”
 «Roberto...»{ben} || “Roberto…”
-«Buonanotte, Kevin.»{roberto} || “Good night, Kevin.”
+«Buonanotte, signor Carter.»{roberto} || “Good night, Mr. Carter.”
 
 Rimangono Kevin, Chiara e Matteo. || Kevin, Chiara and Matteo remain.
 Matteo spegne le luci del **palco**. || Matteo turns off the lights of the **stage**.
 «Allora, l'anno prossimo?»{matteo} || “So, next year?”
 «L'anno prossimo **organizziamo** di nuovo insieme.»{ben} || “Next year we'll **organize** together again.”
 «Con il piano B?»{matteo} || “With Plan B?”
-«Il piano B è migliore.»{ben|dry} || “Plan B is better.”
-«No. Il piano A è meglio.»{roberto|from far} || “No. Plan A is better.”
-Kevin si gira verso la piazza vuota. || Kevin turns toward the empty square.
-«Allora **organizziamo** insieme.»{ben} || “Then we'll **organize** together.”
-«Insieme.»{roberto|from far} || “Together.”
+«Con il piano B. Ma non lo dico a Roberto.»{ben|dry} || “With Plan B. But I'm not telling Roberto.”
+Kevin si gira verso la piazza vuota e sorride. || Kevin turns toward the empty square and smiles.
 
 # SCENE casa-carter | domenica notte | ben, chiara, leo
 

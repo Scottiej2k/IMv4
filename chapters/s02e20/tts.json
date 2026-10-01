@@ -3924,8 +3924,8 @@
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, dry"
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly, dry"
                   }
                 ]
               },
@@ -12229,7 +12229,7 @@
       "words": [
         [
           "s02e20-5-001:0-16",
-          "s02e20-5-002:0-7",
+          "s02e20-5-002:0-5",
           "s02e20-5-003:0-15"
         ],
         [
@@ -12244,7 +12244,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Domenica pomeriggio, quattro. La piazza della chiesa è piena di gente e di palloncini bianchi e verdi. Kevin guarda la piazza dalla prolunga del palco. Sei stand, tre gazebo, un palco con le decorazioni, una coda lunghissima alla bancarella del pane.",
+                "text": "Domenica pomeriggio, quattro. La piazza della chiesa è piena di gente e di palloncini bianchi e verdi. Kevin guarda la piazza dal palco. Sei stand, tre gazebo, un palco con le decorazioni, una coda lunghissima alla bancarella del pane.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13706,14 +13706,14 @@
           "s02e20-5-059:0-6"
         ],
         [
-          "s02e20-5-060:0-8"
+          "s02e20-5-060:0-15"
         ],
         [
           "s02e20-5-061:0-6",
           "s02e20-5-062:0-9"
         ],
         [
-          "s02e20-5-063:0-3"
+          "s02e20-5-063:0-5"
         ]
       ],
       "request": {
@@ -13735,7 +13735,7 @@
               },
               {
                 "type": "text",
-                "text": "Franco! Non è la mia sorpresa! È la tua!",
+                "text": "Una sorpresa mia? Io non ho una sorpresa. Ma Lucia è qui, con un vestito blu.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13757,7 +13757,7 @@
               },
               {
                 "type": "text",
-                "text": "Lucia, tocca a te.",
+                "text": "Lucia, ho bisogno di un aiuto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13808,7 +13808,7 @@
           "s02e20-5-064:0-8"
         ],
         [
-          "s02e20-5-065:0-12"
+          "s02e20-5-065:0-14"
         ],
         [
           "s02e20-5-066:0-3"
@@ -13836,7 +13836,7 @@
               },
               {
                 "type": "text",
-                "text": "Franco ha detto che la sorpresa è mia. Ma la sorpresa è tua.",
+                "text": "Franco ha detto che la sorpresa è mia. Ma io non ho niente. Solo te.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15542,7 +15542,7 @@
               },
               {
                 "type": "text",
-                "text": "Emma, ne restano trenta.",
+                "text": "Emma, ne restano ottanta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15626,7 +15626,7 @@
               },
               {
                 "type": "text",
-                "text": "Duecento sedie. Ne abbiamo piegate centonovanta.",
+                "text": "Cento sedie. Ne abbiamo piegate novanta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16909,7 +16909,7 @@
           "s02e20-6-047:0-0"
         ],
         [
-          "s02e20-6-048:0-2"
+          "s02e20-6-048:0-3"
         ]
       ],
       "request": {
@@ -16931,7 +16931,7 @@
               },
               {
                 "type": "text",
-                "text": "Diamoci del tu.",
+                "text": "Lei ha lavorato bene.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17050,7 +17050,7 @@
       ],
       "words": [
         [
-          "s02e20-6-052:0-2"
+          "s02e20-6-052:0-3"
         ],
         [
           "s02e20-6-053:0-6"
@@ -17064,7 +17064,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Scusi! Cioè, scusa!",
+                "text": "Scusi! Roberto, mi scusi!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17121,7 +17121,7 @@
       ],
       "words": [
         [
-          "s02e20-6-054:0-3"
+          "s02e20-6-054:0-6"
         ],
         [
           "s02e20-6-055:0-0"
@@ -17135,18 +17135,18 @@
             "content": [
               {
                 "type": "text",
-                "text": "Va bene. Allora “tu”.",
+                "text": "Va bene. Anche Lei ha lavorato bene.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "roberto",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, dry"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "Tu.",
+                "text": "Grazie.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17442,7 +17442,7 @@
           "s02e20-6-067:0-3"
         ],
         [
-          "s02e20-6-068:0-2"
+          "s02e20-6-068:0-3"
         ]
       ],
       "request": {
@@ -17464,7 +17464,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin, una cosa.",
+                "text": "Signor Carter, una cosa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17533,7 +17533,7 @@
           "s02e20-6-073:0-0"
         ],
         [
-          "s02e20-6-074:0-4"
+          "s02e20-6-074:0-5"
         ],
         [
           "s02e20-6-075:0-0"
@@ -17545,7 +17545,7 @@
           "s02e20-6-077:0-0"
         ],
         [
-          "s02e20-6-078:0-1"
+          "s02e20-6-078:0-2"
         ]
       ],
       "request": {
@@ -17567,7 +17567,7 @@
               },
               {
                 "type": "text",
-                "text": "Tua figlia ha guardato mio figlio tutto il pomeriggio.",
+                "text": "Sua figlia ha guardato mio figlio tutto il pomeriggio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17611,7 +17611,7 @@
               },
               {
                 "type": "text",
-                "text": "Però.Ricordati di una cosa.",
+                "text": "Però. Si ricordi di una cosa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17655,7 +17655,7 @@
               },
               {
                 "type": "text",
-                "text": "Buonanotte, Kevin.",
+                "text": "Buonanotte, signor Carter.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17781,7 +17781,7 @@
           "s02e20-6-083:0-3"
         ],
         [
-          "s02e20-6-084:0-4"
+          "s02e20-6-084:0-9"
         ]
       ],
       "request": {
@@ -17814,7 +17814,7 @@
               },
               {
                 "type": "text",
-                "text": "Il piano B è migliore.",
+                "text": "Con il piano B. Ma non lo dico a Roberto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17851,19 +17851,14 @@
       "index": 206,
       "scene": 6,
       "speakers": {
-        "roberto": "roberto",
-        "narrator": "narrator"
+        "single": "narrator"
       },
       "segment_ids": [
-        "s02e20-6-085",
-        "s02e20-6-086"
+        "s02e20-6-085"
       ],
       "words": [
         [
-          "s02e20-6-085:0-5"
-        ],
-        [
-          "s02e20-6-086:0-6"
+          "s02e20-6-085:0-8"
         ]
       ],
       "request": {
@@ -17874,22 +17869,10 @@
             "content": [
               {
                 "type": "text",
-                "text": "No. Il piano A è meglio.",
+                "text": "Kevin si gira verso la piazza vuota e sorride.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "roberto",
-                    "style": "speaking a little slower than normal, clearly, from far"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Kevin si gira verso la piazza vuota.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
                   }
                 ]
@@ -17902,95 +17885,16 @@
           "mime_type": "audio/l16"
         },
         "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "roberto",
-                "voice": "Orus"
-              },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
+          "speech_config": [
+            {
+              "voice": "Charon"
+            }
+          ]
         }
       }
     },
     {
       "index": 207,
-      "scene": 6,
-      "speakers": {
-        "ben": "ben",
-        "roberto": "roberto"
-      },
-      "segment_ids": [
-        "s02e20-6-087",
-        "s02e20-6-088"
-      ],
-      "words": [
-        [
-          "s02e20-6-087:0-2"
-        ],
-        [
-          "s02e20-6-088:0-0"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Allora organizziamo insieme.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Insieme.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "roberto",
-                    "style": "speaking a little slower than normal, clearly, from far"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
-                "speaker": "roberto",
-                "voice": "Orus"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 208,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -18078,7 +17982,7 @@
       }
     },
     {
-      "index": 209,
+      "index": 208,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -18254,7 +18158,7 @@
       }
     },
     {
-      "index": 210,
+      "index": 209,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -18325,7 +18229,7 @@
       }
     },
     {
-      "index": 211,
+      "index": 210,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -18456,7 +18360,7 @@
       }
     },
     {
-      "index": 212,
+      "index": 211,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -18527,7 +18431,7 @@
       }
     },
     {
-      "index": 213,
+      "index": 212,
       "scene": 7,
       "speakers": {
         "chiara": "chiara",
@@ -18658,7 +18562,7 @@
       }
     },
     {
-      "index": 214,
+      "index": 213,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -18729,7 +18633,7 @@
       }
     },
     {
-      "index": 215,
+      "index": 214,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -18890,7 +18794,7 @@
       }
     },
     {
-      "index": 216,
+      "index": 215,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -18961,7 +18865,7 @@
       }
     },
     {
-      "index": 217,
+      "index": 216,
       "scene": 7,
       "speakers": {
         "single": "ben"

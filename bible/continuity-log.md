@@ -299,7 +299,7 @@ factual: this file is what keeps 200 chapters consistent.
 ### s02e20 · La Festa dei Tigli
 - **Happened:** Kevin and Roberto co-organized the Festa dei Tigli (six stands, three gazebos, hand-written lottery tickets); the church-roof collection raised €320. Franco and Lucia danced one tango on the stage in front of the square; Emma won the lottery prize, a two-person concert ticket in Milan for Saturday.
 - **New facts:** Nadia announced her pregnancy publicly at the square on Sunday morning ("Io. E il bambino."), and everyone accepted her as in charge. Matteo's own bar speakers and microphone had spent the night in the square, moved by him without permission.
-- **Changed:** Roberto switched from Lei to tu with Kevin ("Diamoci del tu"). Roberto caught Tommaso volunteering at the lottery stand with Emma, said "bravo", and later told Kevin he'd seen Emma watching Tommaso; Kevin denied seeing anything.
+- **Changed:** Roberto and Kevin still use Lei. Roberto found Tommaso volunteering at the lottery stand with Emma, said "bravo", and later hinted to Kevin that Emma had been watching Tommaso all afternoon; Kevin said he hadn't noticed.
 - **Planted:** Ornella's promised Sunday-night "sorpresa" for Kevin is never explained. Emma's ticket is for two and she claims she'll take "un'amica"; Tommaso suspects otherwise.
 
 ### s05e03 · Vogliono che torni

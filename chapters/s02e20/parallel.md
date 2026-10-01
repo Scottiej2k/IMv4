@@ -472,7 +472,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | Domenica pomeriggio, quattro. La piazza della chiesa è piena di gente e di **palloncini** bianchi e verdi. | Sunday afternoon, four o'clock. The church square is full of people and white and green **balloons**. |
-| Kevin guarda la piazza dalla **prolunga** del **palco**. | Kevin looks at the square from the **extension cord** of the **stage**. |
+| Kevin guarda la piazza dal **palco**. | Kevin looks at the square from the **stage**. |
 | Sei **stand**, tre **gazebo**, un **palco** con le **decorazioni**, una **coda** lunghissima alla **bancarella** del pane. | Six **stands**, three **gazebos**, a **stage** with the **decorations**, a very long **line** at the bread **stall**. |
 | «Incredibile.» | “Incredible.” |
 | «Che cosa è incredibile?» | “What's incredible?” |
@@ -530,12 +530,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quale sorpresa?» | “What surprise?” |
 | «La sorpresa è di Kevin.» | “The surprise is Kevin's.” |
 | Kevin guarda Franco con gli occhi grandi. | Kevin looks at Franco with big eyes. |
-| _Franco! Non è la mia sorpresa! È la tua!_ | _Franco! It's not my surprise! It's yours!_ |
+| _Una sorpresa mia? Io non ho una sorpresa. Ma Lucia è qui, con un vestito blu._ | _A surprise from me? I don't have a surprise. But Lucia is here, in a blue dress._ |
 | Kevin va verso il fondo della piazza. | Kevin goes toward the back of the square. |
 | Lucia è seduta su una sedia, con un vestito blu. | Lucia is sitting on a chair, with a blue dress. |
-| «Lucia, tocca a te.» | “Lucia, it's your turn.” |
+| «Lucia, ho bisogno di un aiuto.» | “Lucia, I need some help.” |
 | «Kevin, io non ballo davanti a tutta la piazza.» | “Kevin, I don't dance in front of the whole square.” |
-| «Franco ha detto che la sorpresa è mia. Ma la sorpresa è tua.» | “Franco said the surprise is mine. But the surprise is yours.” |
+| «Franco ha detto che la sorpresa è mia. Ma io non ho niente. Solo te.» | “Franco said the surprise is mine. But I have nothing. Only you.” |
 | «E lui lo sa?» | “And does he know?” |
 | «No.» | “No.” |
 | Lucia prende la mano di Kevin e si alza. | Lucia takes Kevin's hand and stands up. |
@@ -603,7 +603,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Smetto di** vendere biglietti. Adesso li compro.» | “I'll **stop** selling tickets. Now I'm buying them.” |
 | «Quanti?» | “How many?” |
 | «Tutti quelli che restano.» | “All the ones that are left.” |
-| «Emma, ne restano trenta.» | “Emma, there are thirty left.” |
+| «Emma, ne restano ottanta.» | “Emma, there are eighty left.” |
 | «Perfetto.» | “Perfect.” |
 
 ## 6. Piazza della Chiesa · domenica sera
@@ -612,7 +612,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | Undici di sera. La piazza è quasi vuota e le luci del **palco** sono ancora accese. | Eleven at night. The square is almost empty and the lights of the **stage** are still on. |
 | Kevin piega le sedie e Roberto scrive sul quaderno. | Kevin folds the chairs and Roberto writes in the notebook. |
-| «Duecento sedie. Ne abbiamo piegate centonovanta.» | “Two hundred chairs. We've folded a hundred and ninety.” |
+| «Cento sedie. Ne abbiamo piegate novanta.» | “One hundred chairs. We've folded ninety.” |
 | «Dieci le porto io.» | “I'll carry ten.” |
 | «Lei **continua a** lavorare troppo.» | “You **keep** working too much.” |
 | «E Lei **smette di** contare?» | “And you **stop** counting?” |
@@ -657,14 +657,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Roberto chiude il quaderno nero e resta in silenzio un momento. | Roberto closes the black notebook and stays silent for a moment. |
 | «Signor Carter.» | “Mr. Carter.” |
 | «Sì?» | “Yes?” |
-| «Diamoci del tu.» | “Let's use tu.” |
+| «Lei ha lavorato bene.» | “You worked well.” |
 | Kevin fa un passo indietro e tocca il **gazebo** numero uno. | Kevin takes a step back and touches **gazebo** number one. |
 | Il **gazebo** si muove e quasi cade. | The **gazebo** moves and almost falls. |
 | «Attento!» | “Careful!” |
-| «Scusi! Cioè, scusa!» | “Sorry! I mean, sorry!” |
+| «Scusi! Roberto, mi scusi!» | “Sorry! Roberto, I'm sorry!” |
 | Roberto ride piano, per la prima volta. | Roberto laughs quietly, for the first time. |
-| «Va bene. Allora “tu”.» | “All right. So “tu.”” |
-| «Tu.» | “Tu.” |
+| «Va bene. Anche Lei ha lavorato bene.» | “All right. You worked well too.” |
+| «Grazie.» | “Thank you.” |
 | Ornella arriva con il bastone e un bicchiere d'acqua. | Ornella arrives with her cane and a glass of water. |
 | «Kevin, hai ballato stasera?» | “Kevin, did you dance tonight?” |
 | «No. Ha ballato Franco.» | “No. Franco danced.” |
@@ -677,27 +677,24 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Per due.» | “For two.” |
 | «Sì. Per due.» | “Yes. For two.” |
 | Roberto prende la giacca. | Roberto takes his jacket. |
-| «Kevin, una cosa.» | “Kevin, one thing.” |
+| «Signor Carter, una cosa.» | “Mr. Carter, one thing.” |
 | «Sì?» | “Yes?” |
-| «Tua figlia ha guardato mio figlio tutto il pomeriggio.» | “Your daughter looked at my son all afternoon.” |
+| «Sua figlia ha guardato mio figlio tutto il pomeriggio.» | “Your daughter looked at my son all afternoon.” |
 | «Emma? No. Non l'ho vista.» | “Emma? No. I didn't see it.” |
 | «Neanche io.» | “Neither did I.” |
 | «Ah.» | “Ah.” |
-| «Però.**Ricordati di** una cosa.» | “Still. **Remember** one thing.” |
+| «Però. **Si ricordi di** una cosa.» | “Still. **Remember** one thing.” |
 | «Cosa?» | “What?” |
 | «La **lotteria** è mia. Il **sorteggio** è mio. E i figli sono nostri.» | “The **raffle** is mine. The **draw** is mine. And the kids are ours.” |
 | «Roberto...» | “Roberto…” |
-| «Buonanotte, Kevin.» | “Good night, Kevin.” |
+| «Buonanotte, signor Carter.» | “Good night, Mr. Carter.” |
 | Rimangono Kevin, Chiara e Matteo. | Kevin, Chiara and Matteo remain. |
 | Matteo spegne le luci del **palco**. | Matteo turns off the lights of the **stage**. |
 | «Allora, l'anno prossimo?» | “So, next year?” |
 | «L'anno prossimo **organizziamo** di nuovo insieme.» | “Next year we'll **organize** together again.” |
 | «Con il piano B?» | “With Plan B?” |
-| «Il piano B è migliore.» | “Plan B is better.” |
-| «No. Il piano A è meglio.» | “No. Plan A is better.” |
-| Kevin si gira verso la piazza vuota. | Kevin turns toward the empty square. |
-| «Allora **organizziamo** insieme.» | “Then we'll **organize** together.” |
-| «Insieme.» | “Together.” |
+| «Con il piano B. Ma non lo dico a Roberto.» | “With Plan B. But I'm not telling Roberto.” |
+| Kevin si gira verso la piazza vuota e sorride. | Kevin turns toward the empty square and smiles. |
 
 ## 7. Casa Carter, Via dei Tigli 14 · domenica notte
 

@@ -12172,14 +12172,18 @@
                   ""
                 ]
               ]
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "id": "s02e20-2-036",
               "it": "«E tu quarantuno. Sulle scale sono più bravo io.»",
               "en": "“And you're forty-one. On ladders I'm better.”",
               "voice": [
                 [
-                  "ben",
+                  "franco",
                   "E tu quarantuno. Sulle scale sono più bravo io.",
                   "dry"
                 ]
@@ -12281,7 +12285,11 @@
                   ""
                 ]
               ]
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "id": "s02e20-2-037",
               "it": "«Non è una gara.»",
@@ -36988,12 +36996,12 @@
           "segments": [
             {
               "id": "s02e20-5-002",
-              "it": "Kevin guarda la piazza dalla **prolunga** del **palco**.",
-              "en": "Kevin looks at the square from the **extension cord** of the **stage**.",
+              "it": "Kevin guarda la piazza dal **palco**.",
+              "en": "Kevin looks at the square from the **stage**.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin guarda la piazza dalla **prolunga** del **palco**.",
+                  "Kevin guarda la piazza dal **palco**.",
                   ""
                 ]
               ],
@@ -37039,7 +37047,7 @@
                   ""
                 ],
                 [
-                  "dalla",
+                  "dal",
                   4,
                   ""
                 ],
@@ -37049,28 +37057,8 @@
                   ""
                 ],
                 [
-                  "prolunga",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "del",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "palco",
-                  7,
+                  5,
                   "b"
                 ],
                 [
@@ -37080,7 +37068,6 @@
                 ]
               ],
               "focus": [
-                "v-prolunga",
                 "v-palco"
               ]
             },
@@ -41362,59 +41349,19 @@
             },
             {
               "id": "s02e20-5-060",
-              "it": "_Franco! Non è la mia sorpresa! È la tua!_",
-              "en": "_Franco! It's not my surprise! It's yours!_",
+              "it": "_Una sorpresa mia? Io non ho una sorpresa. Ma Lucia è qui, con un vestito blu._",
+              "en": "_A surprise from me? I don't have a surprise. But Lucia is here, in a blue dress._",
               "voice": [
                 [
                   "ben",
-                  "Franco! Non è la mia sorpresa! È la tua!",
+                  "Una sorpresa mia? Io non ho una sorpresa. Ma Lucia è qui, con un vestito blu.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "Franco",
+                  "Una",
                   0,
-                  "i"
-                ],
-                [
-                  "! ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "Non",
-                  1,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "è",
-                  2,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "la",
-                  3,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "mia",
-                  4,
                   "i"
                 ],
                 [
@@ -41424,16 +41371,56 @@
                 ],
                 [
                   "sorpresa",
-                  5,
+                  1,
                   "i"
                 ],
                 [
-                  "! ",
+                  " ",
                   -1,
                   "i"
                 ],
                 [
-                  "È",
+                  "mia",
+                  2,
+                  "i"
+                ],
+                [
+                  "? ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "Io",
+                  3,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "non",
+                  4,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "ho",
+                  5,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "una",
                   6,
                   "i"
                 ],
@@ -41443,8 +41430,18 @@
                   "i"
                 ],
                 [
-                  "la",
+                  "sorpresa",
                   7,
+                  "i"
+                ],
+                [
+                  ". ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "Ma",
+                  8,
                   "i"
                 ],
                 [
@@ -41453,12 +41450,72 @@
                   "i"
                 ],
                 [
-                  "tua",
-                  8,
+                  "Lucia",
+                  9,
                   "i"
                 ],
                 [
-                  "!",
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "è",
+                  10,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "qui",
+                  11,
+                  "i"
+                ],
+                [
+                  ", ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "con",
+                  12,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "un",
+                  13,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "vestito",
+                  14,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "blu",
+                  15,
+                  "i"
+                ],
+                [
+                  ".",
                   -1,
                   "i"
                 ]
@@ -41668,12 +41725,12 @@
             },
             {
               "id": "s02e20-5-063",
-              "it": "«Lucia, tocca a te.»",
-              "en": "“Lucia, it's your turn.”",
+              "it": "«Lucia, ho bisogno di un aiuto.»",
+              "en": "“Lucia, I need some help.”",
               "voice": [
                 [
                   "ben",
-                  "Lucia, tocca a te.",
+                  "Lucia, ho bisogno di un aiuto.",
                   ""
                 ]
               ],
@@ -41694,7 +41751,7 @@
                   ""
                 ],
                 [
-                  "tocca",
+                  "ho",
                   1,
                   ""
                 ],
@@ -41704,7 +41761,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "bisogno",
                   2,
                   ""
                 ],
@@ -41714,8 +41771,28 @@
                   ""
                 ],
                 [
-                  "te",
+                  "di",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "un",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "aiuto",
+                  5,
                   ""
                 ],
                 [
@@ -41844,12 +41921,12 @@
           "segments": [
             {
               "id": "s02e20-5-065",
-              "it": "«Franco ha detto che la sorpresa è mia. Ma la sorpresa è tua.»",
-              "en": "“Franco said the surprise is mine. But the surprise is yours.”",
+              "it": "«Franco ha detto che la sorpresa è mia. Ma io non ho niente. Solo te.»",
+              "en": "“Franco said the surprise is mine. But I have nothing. Only you.”",
               "voice": [
                 [
                   "ben",
-                  "Franco ha detto che la sorpresa è mia. Ma la sorpresa è tua.",
+                  "Franco ha detto che la sorpresa è mia. Ma io non ho niente. Solo te.",
                   ""
                 ]
               ],
@@ -41950,7 +42027,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "io",
                   9,
                   ""
                 ],
@@ -41960,7 +42037,7 @@
                   ""
                 ],
                 [
-                  "sorpresa",
+                  "non",
                   10,
                   ""
                 ],
@@ -41970,7 +42047,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "ho",
                   11,
                   ""
                 ],
@@ -41980,8 +42057,28 @@
                   ""
                 ],
                 [
-                  "tua",
+                  "niente",
                   12,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Solo",
+                  13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "te",
+                  14,
                   ""
                 ],
                 [
@@ -46695,12 +46792,12 @@
           "segments": [
             {
               "id": "s02e20-5-133",
-              "it": "«Emma, ne restano trenta.»",
-              "en": "“Emma, there are thirty left.”",
+              "it": "«Emma, ne restano ottanta.»",
+              "en": "“Emma, there are eighty left.”",
               "voice": [
                 [
                   "tommaso",
-                  "Emma, ne restano trenta.",
+                  "Emma, ne restano ottanta.",
                   ""
                 ]
               ],
@@ -46741,7 +46838,7 @@
                   ""
                 ],
                 [
-                  "trenta",
+                  "ottanta",
                   3,
                   ""
                 ],
@@ -47091,12 +47188,12 @@
             },
             {
               "id": "s02e20-6-003",
-              "it": "«Duecento sedie. Ne abbiamo piegate centonovanta.»",
-              "en": "“Two hundred chairs. We've folded a hundred and ninety.”",
+              "it": "«Cento sedie. Ne abbiamo piegate novanta.»",
+              "en": "“One hundred chairs. We've folded ninety.”",
               "voice": [
                 [
                   "roberto",
-                  "Duecento sedie. Ne abbiamo piegate centonovanta.",
+                  "Cento sedie. Ne abbiamo piegate novanta.",
                   ""
                 ]
               ],
@@ -47107,7 +47204,7 @@
                   ""
                 ],
                 [
-                  "Duecento",
+                  "Cento",
                   0,
                   ""
                 ],
@@ -47157,7 +47254,7 @@
                   ""
                 ],
                 [
-                  "centonovanta",
+                  "novanta",
                   5,
                   ""
                 ],
@@ -50552,12 +50649,12 @@
           "segments": [
             {
               "id": "s02e20-6-048",
-              "it": "«Diamoci del tu.»",
-              "en": "“Let's use tu.”",
+              "it": "«Lei ha lavorato bene.»",
+              "en": "“You worked well.”",
               "voice": [
                 [
                   "roberto",
-                  "Diamoci del tu.",
+                  "Lei ha lavorato bene.",
                   ""
                 ]
               ],
@@ -50568,7 +50665,7 @@
                   ""
                 ],
                 [
-                  "Diamoci",
+                  "Lei",
                   0,
                   ""
                 ],
@@ -50578,7 +50675,7 @@
                   ""
                 ],
                 [
-                  "del",
+                  "ha",
                   1,
                   ""
                 ],
@@ -50588,8 +50685,18 @@
                   ""
                 ],
                 [
-                  "tu",
+                  "lavorato",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bene",
+                  3,
                   ""
                 ],
                 [
@@ -50848,12 +50955,12 @@
           "segments": [
             {
               "id": "s02e20-6-052",
-              "it": "«Scusi! Cioè, scusa!»",
-              "en": "“Sorry! I mean, sorry!”",
+              "it": "«Scusi! Roberto, mi scusi!»",
+              "en": "“Sorry! Roberto, I'm sorry!”",
               "voice": [
                 [
                   "ben",
-                  "Scusi! Cioè, scusa!",
+                  "Scusi! Roberto, mi scusi!",
                   ""
                 ]
               ],
@@ -50874,7 +50981,7 @@
                   ""
                 ],
                 [
-                  "Cioè",
+                  "Roberto",
                   1,
                   ""
                 ],
@@ -50884,8 +50991,18 @@
                   ""
                 ],
                 [
-                  "scusa",
+                  "mi",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "scusi",
+                  3,
                   ""
                 ],
                 [
@@ -50985,13 +51102,13 @@
             },
             {
               "id": "s02e20-6-054",
-              "it": "«Va bene. Allora “tu”.»",
-              "en": "“All right. So “tu.””",
+              "it": "«Va bene. Anche Lei ha lavorato bene.»",
+              "en": "“All right. You worked well too.”",
               "voice": [
                 [
                   "roberto",
-                  "Va bene. Allora “tu”.",
-                  ""
+                  "Va bene. Anche Lei ha lavorato bene.",
+                  "dry"
                 ]
               ],
               "tokens": [
@@ -51021,22 +51138,52 @@
                   ""
                 ],
                 [
-                  "Allora",
+                  "Anche",
                   2,
                   ""
                 ],
                 [
-                  " “",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "tu",
+                  "Lei",
                   3,
                   ""
                 ],
                 [
-                  "”.»",
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ha",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lavorato",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bene",
+                  6,
+                  ""
+                ],
+                [
+                  ".»",
                   -1,
                   ""
                 ]
@@ -51048,12 +51195,12 @@
           "segments": [
             {
               "id": "s02e20-6-055",
-              "it": "«Tu.»",
-              "en": "“Tu.”",
+              "it": "«Grazie.»",
+              "en": "“Thank you.”",
               "voice": [
                 [
                   "ben",
-                  "Tu.",
+                  "Grazie.",
                   ""
                 ]
               ],
@@ -51064,7 +51211,7 @@
                   ""
                 ],
                 [
-                  "Tu",
+                  "Grazie",
                   0,
                   ""
                 ],
@@ -51933,12 +52080,12 @@
             },
             {
               "id": "s02e20-6-068",
-              "it": "«Kevin, una cosa.»",
-              "en": "“Kevin, one thing.”",
+              "it": "«Signor Carter, una cosa.»",
+              "en": "“Mr. Carter, one thing.”",
               "voice": [
                 [
                   "roberto",
-                  "Kevin, una cosa.",
+                  "Signor Carter, una cosa.",
                   ""
                 ]
               ],
@@ -51949,8 +52096,18 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Signor",
                   0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Carter",
+                  1,
                   ""
                 ],
                 [
@@ -51960,7 +52117,7 @@
                 ],
                 [
                   "una",
-                  1,
+                  2,
                   ""
                 ],
                 [
@@ -51970,7 +52127,7 @@
                 ],
                 [
                   "cosa",
-                  2,
+                  3,
                   ""
                 ],
                 [
@@ -52019,12 +52176,12 @@
           "segments": [
             {
               "id": "s02e20-6-070",
-              "it": "«Tua figlia ha guardato mio figlio tutto il pomeriggio.»",
+              "it": "«Sua figlia ha guardato mio figlio tutto il pomeriggio.»",
               "en": "“Your daughter looked at my son all afternoon.”",
               "voice": [
                 [
                   "roberto",
-                  "Tua figlia ha guardato mio figlio tutto il pomeriggio.",
+                  "Sua figlia ha guardato mio figlio tutto il pomeriggio.",
                   ""
                 ]
               ],
@@ -52035,7 +52192,7 @@
                   ""
                 ],
                 [
-                  "Tua",
+                  "Sua",
                   0,
                   ""
                 ],
@@ -52281,12 +52438,12 @@
           "segments": [
             {
               "id": "s02e20-6-074",
-              "it": "«Però.**Ricordati di** una cosa.»",
+              "it": "«Però. **Si ricordi di** una cosa.»",
               "en": "“Still. **Remember** one thing.”",
               "voice": [
                 [
                   "roberto",
-                  "Però.**Ricordati di** una cosa.",
+                  "Però. **Si ricordi di** una cosa.",
                   ""
                 ]
               ],
@@ -52302,12 +52459,12 @@
                   ""
                 ],
                 [
-                  ".",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "Ricordati",
+                  "Si",
                   1,
                   "b"
                 ],
@@ -52317,8 +52474,18 @@
                   "b"
                 ],
                 [
-                  "di",
+                  "ricordi",
                   2,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  "b"
+                ],
+                [
+                  "di",
+                  3,
                   "b"
                 ],
                 [
@@ -52328,7 +52495,7 @@
                 ],
                 [
                   "una",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -52338,7 +52505,7 @@
                 ],
                 [
                   "cosa",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -52580,12 +52747,12 @@
           "segments": [
             {
               "id": "s02e20-6-078",
-              "it": "«Buonanotte, Kevin.»",
-              "en": "“Good night, Kevin.”",
+              "it": "«Buonanotte, signor Carter.»",
+              "en": "“Good night, Mr. Carter.”",
               "voice": [
                 [
                   "roberto",
-                  "Buonanotte, Kevin.",
+                  "Buonanotte, signor Carter.",
                   ""
                 ]
               ],
@@ -52606,8 +52773,18 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "signor",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Carter",
+                  2,
                   ""
                 ],
                 [
@@ -52966,12 +53143,12 @@
           "segments": [
             {
               "id": "s02e20-6-084",
-              "it": "«Il piano B è migliore.»",
-              "en": "“Plan B is better.”",
+              "it": "«Con il piano B. Ma non lo dico a Roberto.»",
+              "en": "“With Plan B. But I'm not telling Roberto.”",
               "voice": [
                 [
                   "ben",
-                  "Il piano B è migliore.",
+                  "Con il piano B. Ma non lo dico a Roberto.",
                   "dry"
                 ]
               ],
@@ -52982,7 +53159,7 @@
                   ""
                 ],
                 [
-                  "Il",
+                  "Con",
                   0,
                   ""
                 ],
@@ -52992,8 +53169,18 @@
                   ""
                 ],
                 [
-                  "piano",
+                  "il",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piano",
+                  2,
                   ""
                 ],
                 [
@@ -53003,60 +53190,7 @@
                 ],
                 [
                   "B",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "migliore",
-                  4,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e20-6-085",
-              "it": "«No. Il piano A è meglio.»",
-              "en": "“No. Plan A is better.”",
-              "voice": [
-                [
-                  "roberto",
-                  "No. Il piano A è meglio.",
-                  "from far"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  0,
                   ""
                 ],
                 [
@@ -53065,37 +53199,7 @@
                   ""
                 ],
                 [
-                  "Il",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "piano",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "A",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
+                  "Ma",
                   4,
                   ""
                 ],
@@ -53105,8 +53209,48 @@
                   ""
                 ],
                 [
-                  "meglio",
+                  "non",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lo",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dico",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Roberto",
+                  9,
                   ""
                 ],
                 [
@@ -53115,19 +53259,15 @@
                   ""
                 ]
               ]
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
-              "id": "s02e20-6-086",
-              "it": "Kevin si gira verso la piazza vuota.",
-              "en": "Kevin turns toward the empty square.",
+              "id": "s02e20-6-085",
+              "it": "Kevin si gira verso la piazza vuota e sorride.",
+              "en": "Kevin turns toward the empty square and smiles.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin si gira verso la piazza vuota.",
+                  "Kevin si gira verso la piazza vuota e sorride.",
                   ""
                 ]
               ],
@@ -53198,92 +53338,27 @@
                   ""
                 ],
                 [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sorride",
+                  8,
+                  ""
+                ],
+                [
                   ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e20-6-087",
-              "it": "«Allora **organizziamo** insieme.»",
-              "en": "“Then we'll **organize** together.”",
-              "voice": [
-                [
-                  "ben",
-                  "Allora **organizziamo** insieme.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Allora",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "organizziamo",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "insieme",
-                  2,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-organizzare"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e20-6-088",
-              "it": "«Insieme.»",
-              "en": "“Together.”",
-              "voice": [
-                [
-                  "roberto",
-                  "Insieme.",
-                  "from far"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Insieme",
-                  0,
-                  ""
-                ],
-                [
-                  ".»",
                   -1,
                   ""
                 ]

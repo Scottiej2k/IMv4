@@ -218,7 +218,11 @@ Kevin apre il furgone e tira fuori una scatola. Dentro ci sono i **cartelli** co
 
 Franco prende la scala e la appoggia al **palco**. «Kevin, tu tieni la scala. Io salgo con la **corda**.»
 
-«Franco, tu hai settantadue anni.» «E tu quarantuno. Sulle scale sono più bravo io.» «Non è una gara.»
+«Franco, tu hai settantadue anni.»
+
+«E tu quarantuno. Sulle scale sono più bravo io.»
+
+«Non è una gara.»
 
 «Tutto è una gara.»
 
@@ -702,7 +706,7 @@ Nadia alza la testa e mette una mano sulla pancia. «Io. E il bambino.» Silenzi
 
 Domenica pomeriggio, quattro. La piazza della chiesa è piena di gente e di **palloncini** bianchi e verdi.
 
-Kevin guarda la piazza dalla **prolunga** del **palco**. Sei **stand**, tre **gazebo**, un **palco** con le **decorazioni**, una **coda** lunghissima alla **bancarella** del pane. «Incredibile.»
+Kevin guarda la piazza dal **palco**. Sei **stand**, tre **gazebo**, un **palco** con le **decorazioni**, una **coda** lunghissima alla **bancarella** del pane. «Incredibile.»
 
 «Che cosa è incredibile?»
 
@@ -784,13 +788,13 @@ Franco sale sul **palco** e prende il **microfono**. «Signori, una cosa.» La p
 
 «La sorpresa è di Kevin.»
 
-Kevin guarda Franco con gli occhi grandi. _Franco! Non è la mia sorpresa! È la tua!_
+Kevin guarda Franco con gli occhi grandi. _Una sorpresa mia? Io non ho una sorpresa. Ma Lucia è qui, con un vestito blu._
 
-Kevin va verso il fondo della piazza. Lucia è seduta su una sedia, con un vestito blu. «Lucia, tocca a te.»
+Kevin va verso il fondo della piazza. Lucia è seduta su una sedia, con un vestito blu. «Lucia, ho bisogno di un aiuto.»
 
 «Kevin, io non ballo davanti a tutta la piazza.»
 
-«Franco ha detto che la sorpresa è mia. Ma la sorpresa è tua.»
+«Franco ha detto che la sorpresa è mia. Ma io non ho niente. Solo te.»
 
 «E lui lo sa?»
 
@@ -878,7 +882,7 @@ Tommaso guarda il biglietto nella mano di Emma. _Il **premio** è per due person
 
 «Tutti quelli che restano.»
 
-«Emma, ne restano trenta.»
+«Emma, ne restano ottanta.»
 
 «Perfetto.»
 
@@ -886,7 +890,7 @@ Tommaso guarda il biglietto nella mano di Emma. _Il **premio** è per due person
 
 Undici di sera. La piazza è quasi vuota e le luci del **palco** sono ancora accese.
 
-Kevin piega le sedie e Roberto scrive sul quaderno. «Duecento sedie. Ne abbiamo piegate centonovanta.»
+Kevin piega le sedie e Roberto scrive sul quaderno. «Cento sedie. Ne abbiamo piegate novanta.»
 
 «Dieci le porto io.»
 
@@ -954,13 +958,13 @@ Roberto chiude il quaderno nero e resta in silenzio un momento. «Signor Carter.
 
 «Sì?»
 
-«Diamoci del tu.» Kevin fa un passo indietro e tocca il **gazebo** numero uno. Il **gazebo** si muove e quasi cade. «Attento!»
+«Lei ha lavorato bene.» Kevin fa un passo indietro e tocca il **gazebo** numero uno. Il **gazebo** si muove e quasi cade. «Attento!»
 
-«Scusi! Cioè, scusa!»
+«Scusi! Roberto, mi scusi!»
 
-Roberto ride piano, per la prima volta. «Va bene. Allora “tu”.»
+Roberto ride piano, per la prima volta. «Va bene. Anche Lei ha lavorato bene.»
 
-«Tu.»
+«Grazie.»
 
 Ornella arriva con il bastone e un bicchiere d'acqua. «Kevin, hai ballato stasera?»
 
@@ -982,11 +986,11 @@ Ornella arriva con il bastone e un bicchiere d'acqua. «Kevin, hai ballato stase
 
 «Sì. Per due.»
 
-Roberto prende la giacca. «Kevin, una cosa.»
+Roberto prende la giacca. «Signor Carter, una cosa.»
 
 «Sì?»
 
-«Tua figlia ha guardato mio figlio tutto il pomeriggio.»
+«Sua figlia ha guardato mio figlio tutto il pomeriggio.»
 
 «Emma? No. Non l'ho vista.»
 
@@ -994,7 +998,7 @@ Roberto prende la giacca. «Kevin, una cosa.»
 
 «Ah.»
 
-«Però.**Ricordati di** una cosa.»
+«Però. **Si ricordi di** una cosa.»
 
 «Cosa?»
 
@@ -1002,7 +1006,7 @@ Roberto prende la giacca. «Kevin, una cosa.»
 
 «Roberto...»
 
-«Buonanotte, Kevin.»
+«Buonanotte, signor Carter.»
 
 Rimangono Kevin, Chiara e Matteo. Matteo spegne le luci del **palco**. «Allora, l'anno prossimo?»
 
@@ -1010,13 +1014,7 @@ Rimangono Kevin, Chiara e Matteo. Matteo spegne le luci del **palco**. «Allora,
 
 «Con il piano B?»
 
-«Il piano B è migliore.»
-
-«No. Il piano A è meglio.»
-
-Kevin si gira verso la piazza vuota. «Allora **organizziamo** insieme.»
-
-«Insieme.»
+«Con il piano B. Ma non lo dico a Roberto.» Kevin si gira verso la piazza vuota e sorride.
 
 ## 7. Casa Carter, Via dei Tigli 14 · domenica notte
 
