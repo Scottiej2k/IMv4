@@ -278,6 +278,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma corrected Kevin's *più meglio* (meglio / più buono). Franco tells Leo he stays in Italy “perché qui ci sono io,” and concedes Kevin's caffè americano “si può bere.” Matteo stops comparing himself to other fathers after Nadia says the best dad is the one who's there.
 - **Planted:** Leo's “scelta doppia,” Italian and American; he refuses to name a winner.
 
+### s02e17 · Il tiramisù più buono del mondo
+- **Happened:** Matteo organizes a tiramisù contest at Bar Tigli. Lucia (using Anna's recipe), Samira, and Kevin compete; Nadia and Ornella are the jury, Franco the sole judge. Franco declares Lucia winner, Samira second, Kevin last but "most original."
+- **New facts:** Silver plaque on Bar Tigli wall: "Il tiramisù più buono del mondo. Ricetta di Anna Ferri." Anna's yellow recipe card (coffee stains, no doses, "quanto basta," ~20 years old) is with Lucia. Anna's small old glass cups, given by Chiara, are with Samira. Samira is Nadia's mother. Kevin's tiramisù uses peanut butter, too much cocoa and sugar, and is heavy and salty.
+- **Changed:** Lucia won and the plaque is now on the bar wall. Kevin's peanut-butter secret is public. Franco asks Kevin to bring his best dessert next Sunday, with less peanut butter. Ornella says "discreto" means "good enough for another piece," almost her best compliment.
+- **Planted:** Ornella promises to make her own "migliore" tiramisù next week; Franco's challenge for Kevin's next dessert.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

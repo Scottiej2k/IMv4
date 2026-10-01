@@ -1,0 +1,5 @@
+### s02e17 · Il tiramisù più buono del mondo
+- **Happened:** Matteo organizes a tiramisù contest at Bar Tigli. Lucia (using Anna's recipe), Samira, and Kevin compete; Nadia and Ornella are the jury, Franco the sole judge. Franco declares Lucia winner, Samira second, Kevin last but "most original."
+- **New facts:** Silver plaque on Bar Tigli wall: "Il tiramisù più buono del mondo. Ricetta di Anna Ferri." Anna's yellow recipe card (coffee stains, no doses, "quanto basta," ~20 years old) is with Lucia. Anna's small old glass cups, given by Chiara, are with Samira. Samira is Nadia's mother. Kevin's tiramisù uses peanut butter, too much cocoa and sugar, and is heavy and salty.
+- **Changed:** Lucia won and the plaque is now on the bar wall. Kevin's peanut-butter secret is public. Franco asks Kevin to bring his best dessert next Sunday, with less peanut butter. Ornella says "discreto" means "good enough for another piece," almost her best compliment.
+- **Planted:** Ornella promises to make her own "migliore" tiramisù next week; Franco's challenge for Kevin's next dessert.
