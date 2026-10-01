@@ -249,10 +249,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** 100 cornetti expire Sunday; milk expires Wednesday; window work Monday with Sergio’s paper; Nadia’s notebook for the baby.
 
 ### s02e12 · Un lavoro per me
-- **Happened:** Kevin starts as barista at Bar Tigli, shift 6:00–11:30 on a tiny stipend; Matteo hands him a green apron and the bar keys to open at six. Franco drinks coffee there twice — standing Monday, queueing and then sitting Tuesday — and gives Kevin advice on reading customers.
-- **New facts:** Chiara works at Studio Marchetti in Milan (Isola) under Marchetti, with colleague Giulia; a bank project with a wood-and-glass staircase, center left free, is due Friday. Franco keeps a notebook of cracks, jobs and money since 1978. Matteo sleeps upstairs during the morning shift.
-- **Changed:** Chiara is first ashamed of Kevin's job (what will her colleagues think), then tells him she is proud; Nadia, tired, says it isn't only her belly, and runs bar, house and accounts alone. Kevin will save part of the tips.
-- **Planted:** Friday bank delivery; Kevin's savings plan; Leo's question of who is the boss.
+- **Happened:** Kevin starts as morning barista at Bar Tigli (6–11:30, apron, tray, till, receipts, tips), his first shift Monday and again Tuesday; he asks that tips go in a small separate box to be counted and saved.
+- **New facts:** Kevin's first broken cup: small, white with a blue line; he finds a 2019 receipt and Nadia tells him to throw it away; Franco has a notebook from 1978 recording cracks, jobs and money; Kevin keeps his first receipt and the tips (€2.40) as souvenirs; Franco drinks his coffee standing at the bar Monday, sitting Tuesday; Nadia hands Kevin a pay as "stipendio"; Matteo gives Kevin the bar keys so Kevin opens at six.
+- **Changed:** Franco comes to the bar and gives Kevin barista advice, which Matteo reads as a prize; Chiara is proud but ashamed of her own worry about her studio colleagues; Nadia appreciates Kevin's suggestion to save part of the tips and to open mornings so she can sleep an extra hour.
+- **Planted:** Matteo's idea that Kevin is a "collega vero" and the savings plan with tips; Chiara's colleagues (Giulia) still unnamed to Kevin.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

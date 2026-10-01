@@ -53,7 +53,7 @@
       "lemma": "il bancone",
       "pos": "noun",
       "en": "counter",
-      "example": "s02e12-3-083",
+      "example": "s02e12-3-082",
       "target": {
         "it": "bancone",
         "en": "counter"
@@ -149,7 +149,7 @@
       "example": "s02e12-5-030",
       "target": {
         "it": "cornetti",
-        "en": "croissant"
+        "en": "croissants"
       },
       "gender": "m"
     },
@@ -158,7 +158,7 @@
       "lemma": "il cappuccino",
       "pos": "noun",
       "en": "cappuccino",
-      "example": "s02e12-3-032",
+      "example": "s02e12-5-030",
       "target": {
         "it": "cappuccino",
         "en": "cappuccino"
@@ -266,7 +266,7 @@
       "lemma": "lo scaffale",
       "pos": "noun",
       "en": "shelf",
-      "example": "s02e12-3-116",
+      "example": "s02e12-3-115",
       "target": {
         "it": "scaffale",
         "en": "shelf"
@@ -346,7 +346,7 @@
       "lemma": "risparmiare",
       "pos": "verb",
       "en": "to save (money)",
-      "example": "s02e12-3-051",
+      "example": "s02e12-3-050",
       "target": {
         "it": "Risparmiare",
         "en": "Save"
@@ -357,7 +357,7 @@
       "lemma": "la pazienza",
       "pos": "noun",
       "en": "patience",
-      "example": "s02e12-3-046",
+      "example": "s02e12-3-045",
       "target": {
         "it": "pazienza",
         "en": "patience"
@@ -415,7 +415,7 @@
       "lemma": "orgoglioso",
       "pos": "adjective",
       "en": "proud",
-      "example": "s02e12-3-093",
+      "example": "s02e12-3-092",
       "target": {
         "it": "Orgoglioso",
         "en": "Proud"
@@ -426,7 +426,7 @@
       "lemma": "stanco",
       "pos": "adjective",
       "en": "tired",
-      "example": "s02e12-3-067",
+      "example": "s02e12-3-066",
       "target": {
         "it": "stanca",
         "en": "tired"
@@ -23507,152 +23507,6 @@
           "segments": [
             {
               "id": "s02e12-3-032",
-              "it": "«Il latte caldo, non freddo. E il **cappuccino** si fa con pazienza.»",
-              "en": "“The milk hot, not cold. And a **cappuccino** is made with patience.”",
-              "voice": [
-                [
-                  "ornella",
-                  "Il latte caldo, non freddo. E il **cappuccino** si fa con pazienza.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "latte",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "caldo",
-                  2,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "freddo",
-                  4,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cappuccino",
-                  7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fa",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "pazienza",
-                  11,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-cappuccino"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e12-3-033",
               "it": "Nadia guarda i fogli e alza le sopracciglia.",
               "en": "Nadia looks at the papers and raises her eyebrows.",
               "voice": [
@@ -23746,7 +23600,7 @@
               ]
             },
             {
-              "id": "s02e12-3-034",
+              "id": "s02e12-3-033",
               "it": "«Kevin, questo **scontrino** è del 2019.»",
               "en": "“Kevin, this **receipt** is from 2019.”",
               "voice": [
@@ -23832,7 +23686,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-035",
+              "id": "s02e12-3-034",
               "it": "«Del 2019?»",
               "en": "“From 2019?”",
               "voice": [
@@ -23875,7 +23729,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-036",
+              "id": "s02e12-3-035",
               "it": "«Sì. È un vecchio **scontrino** del 2019.»",
               "en": "“Yes. It's an old **receipt** from 2019.”",
               "voice": [
@@ -23971,7 +23825,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-037",
+              "id": "s02e12-3-036",
               "it": "«Allora **controllo** male la **scatola**,» dice Kevin.",
               "en": "“Then I **check** the **box** badly,” says Kevin.",
               "voice": [
@@ -24073,7 +23927,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-038",
+              "id": "s02e12-3-037",
               "it": "«No. Adesso la **controlli** bene. Prima nessuno la **controllava**.»",
               "en": "“No. Now you **check** it well. Before, nobody **checked** it.”",
               "voice": [
@@ -24189,7 +24043,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-039",
+              "id": "s02e12-3-038",
               "it": "Kevin prende **coraggio** e si avvicina.",
               "en": "Kevin takes **courage** and comes closer.",
               "voice": [
@@ -24266,7 +24120,7 @@
               ]
             },
             {
-              "id": "s02e12-3-040",
+              "id": "s02e12-3-039",
               "it": "«Nadia, posso dire una cosa?»",
               "en": "“Nadia, can I say something?”",
               "voice": [
@@ -24339,7 +24193,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-041",
+              "id": "s02e12-3-040",
               "it": "«**Per me** sì. Ma con calma, che ho la testa piena.»",
               "en": "“**For me** yes. But slowly, my head is full.”",
               "voice": [
@@ -24475,7 +24329,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-042",
+              "id": "s02e12-3-041",
               "it": "«La **fila** al mattino è sempre lunga,» dice Kevin.",
               "en": "“The **line** in the morning is always long,” says Kevin.",
               "voice": [
@@ -24596,7 +24450,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-043",
+              "id": "s02e12-3-042",
               "it": "«Lo so.»",
               "en": "“I know.”",
               "voice": [
@@ -24639,7 +24493,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-044",
+              "id": "s02e12-3-043",
               "it": "«Ma la **mancia** non sempre va nella **scatola**.»",
               "en": "“But the **tip** doesn't always go in the **box**.”",
               "voice": [
@@ -24746,7 +24600,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-045",
+              "id": "s02e12-3-044",
               "it": "«Come, non va nella **scatola**?»",
               "en": "“What do you mean, it doesn't go in the **box**?”",
               "voice": [
@@ -24822,7 +24676,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-046",
+              "id": "s02e12-3-045",
               "it": "Kevin parla piano, con molta **pazienza**.",
               "en": "Kevin speaks slowly, with a lot of **patience**.",
               "voice": [
@@ -24899,7 +24753,7 @@
               ]
             },
             {
-              "id": "s02e12-3-047",
+              "id": "s02e12-3-046",
               "it": "«Se mettiamo una **scatola** piccola accanto alla cassa, la **mancia** è più facile da contare.»",
               "en": "“If we put a small **box** next to the register, the **tip** is easier to count.”",
               "voice": [
@@ -25076,7 +24930,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-048",
+              "id": "s02e12-3-047",
               "it": "«E **per te** è importante contare la **mancia**?»",
               "en": "“And **for you** is it important to count the **tip**?”",
               "voice": [
@@ -25183,7 +25037,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-049",
+              "id": "s02e12-3-048",
               "it": "«Sì. **Per me** e **per te**,» **risponde** Kevin.",
               "en": "“Yes. **For me** and **for you**,” **answers** Kevin.",
               "voice": [
@@ -25292,7 +25146,7 @@
               ]
             },
             {
-              "id": "s02e12-3-050",
+              "id": "s02e12-3-049",
               "it": "«E poi possiamo **risparmiare** qualcosa ogni mattina.»",
               "en": "“And then we can **save** something every morning.”",
               "voice": [
@@ -25388,7 +25242,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-051",
+              "id": "s02e12-3-050",
               "it": "«**Risparmiare**? Con la **mancia**?»",
               "en": "“**Save**? With the **tip**?”",
               "voice": [
@@ -25455,7 +25309,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-052",
+              "id": "s02e12-3-051",
               "it": "«Sì. Poco alla volta. Come ho fatto a Chicago con i conti.»",
               "en": "“Yes. Little by little. Like I did in Chicago with the accounts.”",
               "voice": [
@@ -25598,7 +25452,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-053",
+              "id": "s02e12-3-052",
               "it": "Nadia ride piano, senza rumore.",
               "en": "Nadia laughs quietly, without noise.",
               "voice": [
@@ -25662,7 +25516,7 @@
               ]
             },
             {
-              "id": "s02e12-3-054",
+              "id": "s02e12-3-053",
               "it": "«Kevin, tu sei un **collega** molto strano,» dice.",
               "en": "“Kevin, you're a very strange **colleague**,” she says.",
               "voice": [
@@ -25773,7 +25627,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-055",
+              "id": "s02e12-3-054",
               "it": "«Lo dicono tutti. Anche Matteo.»",
               "en": "“Everyone says that. Matteo too.”",
               "voice": [
@@ -25846,7 +25700,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-056",
+              "id": "s02e12-3-055",
               "it": "«E Matteo dov'è, adesso?»",
               "en": "“And where is Matteo now?”",
               "voice": [
@@ -25909,7 +25763,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-057",
+              "id": "s02e12-3-056",
               "it": "«Di sopra. Dorme.»",
               "en": "“Upstairs. Asleep.”",
               "voice": [
@@ -25962,7 +25816,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-058",
+              "id": "s02e12-3-057",
               "it": "«Dorme? Con il bar pieno?»",
               "en": "“Asleep? With the bar full?”",
               "voice": [
@@ -26035,7 +25889,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-059",
+              "id": "s02e12-3-058",
               "it": "«Ha detto che io sono il **collega** della mattina.»",
               "en": "“He said I'm the morning **colleague**.”",
               "voice": [
@@ -26151,7 +26005,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-060",
+              "id": "s02e12-3-059",
               "it": "Nadia guarda il soffitto e sospira.",
               "en": "Nadia looks at the ceiling and sighs.",
               "voice": [
@@ -26225,7 +26079,7 @@
               ]
             },
             {
-              "id": "s02e12-3-061",
+              "id": "s02e12-3-060",
               "it": "«L'**orario** di Matteo è un'idea, non un **orario**,» dice.",
               "en": "“Matteo's **schedule** is an idea, not a **schedule**,” she says.",
               "voice": [
@@ -26356,7 +26210,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-062",
+              "id": "s02e12-3-061",
               "it": "«Un'idea?»",
               "en": "“An idea?”",
               "voice": [
@@ -26389,7 +26243,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-063",
+              "id": "s02e12-3-062",
               "it": "«Sì. Un'idea bella che vive solo nella sua testa.»",
               "en": "“Yes. A nice idea that lives only in his head.”",
               "voice": [
@@ -26502,7 +26356,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-064",
+              "id": "s02e12-3-063",
               "it": "«Ah. **Per me** è strano, perché io arrivo sempre in orario.»",
               "en": "“Ah. **For me** it's strange, because I always arrive on time.”",
               "voice": [
@@ -26638,7 +26492,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-065",
+              "id": "s02e12-3-064",
               "it": "«Lo so. E **per me** è una novità grande.»",
               "en": "“I know. And **for me** that's a big novelty.”",
               "voice": [
@@ -26754,7 +26608,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-066",
+              "id": "s02e12-3-065",
               "it": "Nadia si siede su uno sgabello e si mette una mano sulla pancia.",
               "en": "Nadia sits on a stool and puts a hand on her belly.",
               "voice": [
@@ -26898,7 +26752,7 @@
               ]
             },
             {
-              "id": "s02e12-3-067",
+              "id": "s02e12-3-066",
               "it": "«Sei **stanca**?» chiede Kevin.",
               "en": "“Are you **tired**?” asks Kevin.",
               "voice": [
@@ -26969,7 +26823,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-068",
+              "id": "s02e12-3-067",
               "it": "«Molto. E non è solo la pancia,» dice.",
               "en": "“Very. And it's not just my belly,” says Nadia.",
               "voice": [
@@ -27077,7 +26931,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-069",
+              "id": "s02e12-3-068",
               "it": "«E che cos'è?»",
               "en": "“And what is it?”",
               "voice": [
@@ -27130,7 +26984,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-070",
+              "id": "s02e12-3-069",
               "it": "«È che faccio tutto io. Il bar, la casa, i conti, le liste.»",
               "en": "“It's that I do everything. The bar, the house, the accounts, the lists.”",
               "voice": [
@@ -27283,7 +27137,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-071",
+              "id": "s02e12-3-070",
               "it": "«Anche Matteo fa qualcosa,» dice Kevin piano.",
               "en": "“Matteo does something too,” says Kevin quietly.",
               "voice": [
@@ -27381,7 +27235,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-072",
+              "id": "s02e12-3-071",
               "it": "«Sì. Le idee,» dice. «Le idee sono **per lui**. Il lavoro è **per me**.»",
               "en": "“Yes. The ideas,” says Nadia. “The ideas are **for him**. The work is **for me**.”",
               "voice": [
@@ -27558,7 +27412,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-073",
+              "id": "s02e12-3-072",
               "it": "Kevin mette il panno sul **bancone** e la guarda.",
               "en": "Kevin puts the cloth on the **counter** and looks at her.",
               "voice": [
@@ -27665,7 +27519,7 @@
               ]
             },
             {
-              "id": "s02e12-3-074",
+              "id": "s02e12-3-073",
               "it": "«Nadia, io non sono nessuno qui,» dice.",
               "en": "“Nadia, I'm nobody here,” says Kevin.",
               "voice": [
@@ -27763,7 +27617,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-075",
+              "id": "s02e12-3-074",
               "it": "«Ma?»",
               "en": "“But?”",
               "voice": [
@@ -27796,7 +27650,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-076",
+              "id": "s02e12-3-075",
               "it": "«Ma posso **risparmiare** a **te** un po' di mattine.»",
               "en": "“But I can **save** **you** a few mornings.”",
               "voice": [
@@ -27913,7 +27767,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-077",
+              "id": "s02e12-3-076",
               "it": "«Che cosa vuoi dire?»",
               "en": "“What do you mean?”",
               "voice": [
@@ -27976,7 +27830,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-078",
+              "id": "s02e12-3-077",
               "it": "«Vengo io alle sei, ogni giorno. Tu dormi un'ora in più.»",
               "en": "“I'll come at six, every day. You sleep an extra hour.”",
               "voice": [
@@ -28109,7 +27963,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-079",
+              "id": "s02e12-3-078",
               "it": "«E **per te** va bene?»",
               "en": "“And **for you** is that all right?”",
               "voice": [
@@ -28185,7 +28039,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-080",
+              "id": "s02e12-3-079",
               "it": "«**Per me** è perfetto. Lo **stipendio** è piccolo, ma il lavoro è vero.»",
               "en": "“**For me** it's perfect. The **pay** is small, but the work is real.”",
               "voice": [
@@ -28342,7 +28196,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-081",
+              "id": "s02e12-3-080",
               "it": "Nadia lo guarda a lungo, poi annuisce.",
               "en": "Nadia looks at him for a long time, then nods.",
               "voice": [
@@ -28426,7 +28280,7 @@
               ]
             },
             {
-              "id": "s02e12-3-082",
+              "id": "s02e12-3-081",
               "it": "«Sai che cosa sei, Kevin?» chiede.",
               "en": "“Do you know what you are, Kevin?” she asks.",
               "voice": [
@@ -28514,7 +28368,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-083",
+              "id": "s02e12-3-082",
               "it": "«Un americano dietro un **bancone**?»",
               "en": "“An American behind a **counter**?”",
               "voice": [
@@ -28590,7 +28444,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-084",
+              "id": "s02e12-3-083",
               "it": "«No. Sei il **barista** e il prete,» dice.",
               "en": "“No. You're the **bartender** and the priest,” says Nadia.",
               "voice": [
@@ -28701,7 +28555,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-085",
+              "id": "s02e12-3-084",
               "it": "«Il prete?»",
               "en": "“The priest?”",
               "voice": [
@@ -28744,7 +28598,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-086",
+              "id": "s02e12-3-085",
               "it": "«Sì. Tutti ti **raccontano** tutto. E tu **ascolti**.»",
               "en": "“Yes. Everyone **tells** you everything. And you **listen**.”",
               "voice": [
@@ -28850,7 +28704,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-087",
+              "id": "s02e12-3-086",
               "it": "«E **per me** è la parte più bella,» dice Kevin.",
               "en": "“And **for me** that's the best part,” says Kevin.",
               "voice": [
@@ -28981,7 +28835,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-088",
+              "id": "s02e12-3-087",
               "it": "La signora con la borsa rossa si alza dal tavolo due.",
               "en": "The lady with the red bag gets up from table two.",
               "voice": [
@@ -29105,7 +28959,7 @@
               ]
             },
             {
-              "id": "s02e12-3-089",
+              "id": "s02e12-3-088",
               "it": "«Giovanotto, torno domani!» dice.",
               "en": "“Young man, I'll come back tomorrow!” she says.",
               "voice": [
@@ -29173,7 +29027,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-090",
+              "id": "s02e12-3-089",
               "it": "«La aspetto. **Per lei** un caffè e una sedia comoda.»",
               "en": "“I'll be waiting. **For you** a coffee and a comfortable chair.”",
               "voice": [
@@ -29299,7 +29153,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-091",
+              "id": "s02e12-3-090",
               "it": "«E **per te** un po' di riposo,» dice piano a Kevin.",
               "en": "“And **for you** a bit of rest,” Nadia says quietly to Kevin.",
               "voice": [
@@ -29440,7 +29294,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-092",
+              "id": "s02e12-3-091",
               "it": "«Sono un po' **stanco**, sì,» dice Kevin. «Ma sono anche **orgoglioso**.»",
               "en": "“I'm a bit **tired**, yes,” says Kevin. “But I'm also **proud**.”",
               "voice": [
@@ -29587,7 +29441,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-093",
+              "id": "s02e12-3-092",
               "it": "«**Orgoglioso** di che cosa?»",
               "en": "“**Proud** of what?”",
               "voice": [
@@ -29653,7 +29507,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-094",
+              "id": "s02e12-3-093",
               "it": "«Di aver fatto il mio primo **turno**,» dice Kevin.",
               "en": "“Of having done my first **shift**,” says Kevin.",
               "voice": [
@@ -29774,7 +29628,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-095",
+              "id": "s02e12-3-094",
               "it": "Nadia prende la **scatola** con i soldi e la mette sullo **scaffale**.",
               "en": "Nadia takes the **box** with the money and puts it on the **shelf**.",
               "voice": [
@@ -29912,7 +29766,7 @@
               ]
             },
             {
-              "id": "s02e12-3-096",
+              "id": "s02e12-3-095",
               "it": "Poi guarda lo **scontrino** del 2019 e lo butta.",
               "en": "Then she looks at the 2019 **receipt** and throws it away.",
               "voice": [
@@ -30019,7 +29873,7 @@
               ]
             },
             {
-              "id": "s02e12-3-097",
+              "id": "s02e12-3-096",
               "it": "«Quello lo teniamo **per ricordo**,» dice.",
               "en": "“Let's keep that one **as a memento**,” she says.",
               "voice": [
@@ -30110,7 +29964,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-098",
+              "id": "s02e12-3-097",
               "it": "«**Per me** no. **Per me** è una vergogna,» dice Kevin.",
               "en": "“**For me** no. **For me** it's a disgrace,” says Kevin.",
               "voice": [
@@ -30241,7 +30095,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-099",
+              "id": "s02e12-3-098",
               "it": "«Va bene. Allora è **per te** una lezione.»",
               "en": "“All right. Then **for you** it's a lesson.”",
               "voice": [
@@ -30347,7 +30201,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-100",
+              "id": "s02e12-3-099",
               "it": "Sopra il bar, il soffitto fa un piccolo rumore.",
               "en": "Above the bar, the ceiling makes a small noise.",
               "voice": [
@@ -30451,7 +30305,7 @@
               ]
             },
             {
-              "id": "s02e12-3-101",
+              "id": "s02e12-3-100",
               "it": "«Ecco il **collega**,» dice Nadia.",
               "en": "“There's the **colleague**,” says Nadia.",
               "voice": [
@@ -30532,7 +30386,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-102",
+              "id": "s02e12-3-101",
               "it": "«Si è svegliato?»",
               "en": "“Is he awake?”",
               "voice": [
@@ -30585,7 +30439,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-103",
+              "id": "s02e12-3-102",
               "it": "«No. Matteo dorme e sogna il suo **orario**.»",
               "en": "“No. Matteo sleeps and dreams his **schedule**.”",
               "voice": [
@@ -30691,7 +30545,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-104",
+              "id": "s02e12-3-103",
               "it": "«Vuole un caffè anche lui?»",
               "en": "“Does he want a coffee too?”",
               "voice": [
@@ -30764,7 +30618,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-105",
+              "id": "s02e12-3-104",
               "it": "«**Per lui** no. **Per lui** la mattina non esiste.»",
               "en": "“**For him** no. **For him** the morning doesn't exist.”",
               "voice": [
@@ -30880,7 +30734,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-106",
+              "id": "s02e12-3-105",
               "it": "Kevin guarda il **vassoio** vuoto e il **bancone** pulito.",
               "en": "Kevin looks at the empty **tray** and the clean **counter**.",
               "voice": [
@@ -30988,7 +30842,7 @@
               ]
             },
             {
-              "id": "s02e12-3-107",
+              "id": "s02e12-3-106",
               "it": "_Venti caffè. Un segreto. E un lavoro vero. Non è male **per me**._",
               "en": "_Twenty coffees. One secret. And a real job. Not bad **for me**._",
               "voice": [
@@ -31135,7 +30989,7 @@
               ]
             },
             {
-              "id": "s02e12-3-108",
+              "id": "s02e12-3-107",
               "it": "«Alle undici e mezza chiudo,» dice Kevin.",
               "en": "“At eleven thirty I close,” says Kevin.",
               "voice": [
@@ -31233,7 +31087,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-109",
+              "id": "s02e12-3-108",
               "it": "«No, Kevin. Alle undici e mezza **controlli** la **scatola** e poi chiudi.»",
               "en": "“No, Kevin. At eleven thirty you **check** the **box** and then you close.”",
               "voice": [
@@ -31380,7 +31234,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-110",
+              "id": "s02e12-3-109",
               "it": "«Va bene. **Controllo** la **scatola** e poi chiudo.»",
               "en": "“All right. I **check** the **box** and then I close.”",
               "voice": [
@@ -31487,7 +31341,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-111",
+              "id": "s02e12-3-110",
               "it": "«E Kevin?»",
               "en": "“And Kevin?”",
               "voice": [
@@ -31530,7 +31384,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-112",
+              "id": "s02e12-3-111",
               "it": "«Sì?»",
               "en": "“Yes?”",
               "voice": [
@@ -31563,7 +31417,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-113",
+              "id": "s02e12-3-112",
               "it": "«Grazie. **Per me** questa mattina è andata bene.»",
               "en": "“Thank you. **For me** this morning went well.”",
               "voice": [
@@ -31669,7 +31523,7 @@
         {
           "segments": [
             {
-              "id": "s02e12-3-114",
+              "id": "s02e12-3-113",
               "it": "Nadia esce dalla porta sul retro e sale le scale piano.",
               "en": "Nadia goes out the back door and goes up the stairs slowly.",
               "voice": [
@@ -31793,7 +31647,7 @@
               ]
             },
             {
-              "id": "s02e12-3-115",
+              "id": "s02e12-3-114",
               "it": "Kevin resta solo con il **bancone**, il **vassoio** e il panno in mano.",
               "en": "Kevin stays alone with the **counter**, the **tray** and the cloth in his hand.",
               "voice": [
@@ -31941,7 +31795,7 @@
               ]
             },
             {
-              "id": "s02e12-3-116",
+              "id": "s02e12-3-115",
               "it": "Guarda la **fila** vuota, lo **scaffale** pieno di tazze.",
               "en": "He looks at the empty **line**, the **shelf** full of cups.",
               "voice": [
@@ -32049,7 +31903,7 @@
               ]
             },
             {
-              "id": "s02e12-3-117",
+              "id": "s02e12-3-116",
               "it": "Poi prende il quaderno giallo e scrive una parola nuova: prete.",
               "en": "Then he takes the yellow notebook and writes a new word: priest.",
               "voice": [
@@ -32173,7 +32027,7 @@
               ]
             },
             {
-              "id": "s02e12-3-118",
+              "id": "s02e12-3-117",
               "it": "_**Anche lui** lavora dietro un **bancone**? No. **Per me** no._",
               "en": "_**He too** works behind a **counter**? No. **For me** no._",
               "voice": [
@@ -32670,18 +32524,18 @@
             },
             {
               "id": "s02e12-4-004",
-              "it": "il telefono di Chiara fa un piccolo rumore.",
+              "it": "Il telefono di Chiara fa un piccolo rumore.",
               "en": "Chiara's phone makes a small noise.",
               "voice": [
                 [
                   "narrator",
-                  "il telefono di Chiara fa un piccolo rumore.",
+                  "Il telefono di Chiara fa un piccolo rumore.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "il",
+                  "Il",
                   0,
                   ""
                 ],
@@ -43320,12 +43174,12 @@
           "segments": [
             {
               "id": "s02e12-5-030",
-              "it": "«Lo so. È farina di **cornetti**,» dice Kevin.",
-              "en": "“I know. It's **croissant** flour,” says Kevin.",
+              "it": "«Ho servito un **cappuccino** e due **cornetti**, e ho ascoltato,» dice Kevin.",
+              "en": "“I served a **cappuccino** and two **croissants**, and I listened,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "Lo so. È farina di **cornetti**,",
+                  "Ho servito un **cappuccino** e due **cornetti**, e ho ascoltato,",
                   ""
                 ],
                 [
@@ -43341,7 +43195,7 @@
                   ""
                 ],
                 [
-                  "Lo",
+                  "Ho",
                   0,
                   ""
                 ],
@@ -43351,17 +43205,17 @@
                   ""
                 ],
                 [
-                  "so",
+                  "servito",
                   1,
                   ""
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "È",
+                  "un",
                   2,
                   ""
                 ],
@@ -43371,9 +43225,9 @@
                   ""
                 ],
                 [
-                  "farina",
+                  "cappuccino",
                   3,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -43381,7 +43235,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "e",
                   4,
                   ""
                 ],
@@ -43391,9 +43245,49 @@
                   ""
                 ],
                 [
-                  "cornetti",
+                  "due",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cornetti",
+                  6,
                   "b"
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ho",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ascoltato",
+                  9,
+                  ""
                 ],
                 [
                   ",» ",
@@ -43402,7 +43296,7 @@
                 ],
                 [
                   "dice",
-                  6,
+                  10,
                   ""
                 ],
                 [
@@ -43412,7 +43306,7 @@
                 ],
                 [
                   "Kevin",
-                  7,
+                  11,
                   ""
                 ],
                 [
@@ -43422,6 +43316,7 @@
                 ]
               ],
               "focus": [
+                "v-cappuccino",
                 "v-cornetto"
               ]
             }
@@ -50381,18 +50276,18 @@
             },
             {
               "id": "s02e12-5-102",
-              "it": "_Ero bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._",
+              "it": "_Sono stato bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._",
               "en": "_I was good in an office. Now I'm good behind a **counter**. And **for me** that's fine._",
               "voice": [
                 [
                   "ben",
-                  "Ero bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene.",
+                  "Sono stato bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "Ero",
+                  "Sono",
                   0,
                   "i"
                 ],
@@ -50402,7 +50297,7 @@
                   "i"
                 ],
                 [
-                  "bravo",
+                  "stato",
                   1,
                   "i"
                 ],
@@ -50412,7 +50307,7 @@
                   "i"
                 ],
                 [
-                  "in",
+                  "bravo",
                   2,
                   "i"
                 ],
@@ -50422,7 +50317,7 @@
                   "i"
                 ],
                 [
-                  "un",
+                  "in",
                   3,
                   "i"
                 ],
@@ -50432,8 +50327,18 @@
                   "i"
                 ],
                 [
-                  "ufficio",
+                  "un",
                   4,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "ufficio",
+                  5,
                   "i"
                 ],
                 [
@@ -50443,16 +50348,6 @@
                 ],
                 [
                   "Adesso",
-                  5,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "sono",
                   6,
                   "i"
                 ],
@@ -50462,7 +50357,7 @@
                   "i"
                 ],
                 [
-                  "bravo",
+                  "sono",
                   7,
                   "i"
                 ],
@@ -50472,7 +50367,7 @@
                   "i"
                 ],
                 [
-                  "dietro",
+                  "bravo",
                   8,
                   "i"
                 ],
@@ -50482,7 +50377,7 @@
                   "i"
                 ],
                 [
-                  "un",
+                  "dietro",
                   9,
                   "i"
                 ],
@@ -50492,8 +50387,18 @@
                   "i"
                 ],
                 [
-                  "bancone",
+                  "un",
                   10,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "bancone",
+                  11,
                   "bi"
                 ],
                 [
@@ -50503,7 +50408,7 @@
                 ],
                 [
                   "E",
-                  11,
+                  12,
                   "i"
                 ],
                 [
@@ -50513,7 +50418,7 @@
                 ],
                 [
                   "per",
-                  12,
+                  13,
                   "bi"
                 ],
                 [
@@ -50523,7 +50428,7 @@
                 ],
                 [
                   "me",
-                  13,
+                  14,
                   "bi"
                 ],
                 [
@@ -50533,7 +50438,7 @@
                 ],
                 [
                   "va",
-                  14,
+                  15,
                   "i"
                 ],
                 [
@@ -50543,7 +50448,7 @@
                 ],
                 [
                   "bene",
-                  15,
+                  16,
                   "i"
                 ],
                 [
@@ -53338,12 +53243,12 @@
             },
             {
               "id": "s02e12-6-016",
-              "it": "«Franco, lei può passare avanti,» dice Kevin.",
+              "it": "«Franco, puoi passare avanti,» dice Kevin.",
               "en": "“Franco, you can come forward,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "Franco, lei può passare avanti,",
+                  "Franco, puoi passare avanti,",
                   ""
                 ],
                 [
@@ -53369,7 +53274,7 @@
                   ""
                 ],
                 [
-                  "lei",
+                  "puoi",
                   1,
                   ""
                 ],
@@ -53379,7 +53284,7 @@
                   ""
                 ],
                 [
-                  "può",
+                  "passare",
                   2,
                   ""
                 ],
@@ -53389,18 +53294,8 @@
                   ""
                 ],
                 [
-                  "passare",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "avanti",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -53410,7 +53305,7 @@
                 ],
                 [
                   "dice",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -53420,7 +53315,7 @@
                 ],
                 [
                   "Kevin",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -54642,12 +54537,12 @@
             },
             {
               "id": "s02e12-6-030",
-              "it": "«Perché **controlla** la **tazza** prima di dare il caffè?» chiede.",
+              "it": "«Perché **controlli** la **tazza** prima di dare il caffè?» chiede.",
               "en": "“Why do you **check** the **cup** before giving the coffee?” asks Franco.",
               "voice": [
                 [
                   "franco",
-                  "Perché **controlla** la **tazza** prima di dare il caffè?",
+                  "Perché **controlli** la **tazza** prima di dare il caffè?",
                   ""
                 ],
                 [
@@ -54673,7 +54568,7 @@
                   ""
                 ],
                 [
-                  "controlla",
+                  "controlli",
                   1,
                   "b"
                 ],
@@ -54764,7 +54659,7 @@
                 ]
               ],
               "focus": [
-                "v-controllare",
+                "g-stressed-pronouns",
                 "v-tazza"
               ]
             }
@@ -55974,12 +55869,12 @@
             },
             {
               "id": "s02e12-6-042",
-              "it": "«Lei mi **spiega** un **mestiere** vero,» dice Kevin.",
+              "it": "«Tu mi **spieghi** un **mestiere** vero,» dice Kevin.",
               "en": "“You're **explaining** a real **trade** to me,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "Lei mi **spiega** un **mestiere** vero,",
+                  "Tu mi **spieghi** un **mestiere** vero,",
                   ""
                 ],
                 [
@@ -55995,7 +55890,7 @@
                   ""
                 ],
                 [
-                  "Lei",
+                  "Tu",
                   0,
                   ""
                 ],
@@ -56015,7 +55910,7 @@
                   ""
                 ],
                 [
-                  "spiega",
+                  "spieghi",
                   2,
                   "b"
                 ],
@@ -56076,7 +55971,7 @@
                 ]
               ],
               "focus": [
-                "v-spiegare",
+                "g-stressed-pronouns",
                 "v-mestiere"
               ]
             }
@@ -59668,12 +59563,12 @@
           "segments": [
             {
               "id": "s02e12-6-078",
-              "it": "«Buongiorno. Tua padre è venuto,» dice Kevin.",
+              "it": "«Buongiorno. Tuo padre è venuto,» dice Kevin.",
               "en": "“Good morning. Your father came,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "Buongiorno. Tua padre è venuto,",
+                  "Buongiorno. Tuo padre è venuto,",
                   ""
                 ],
                 [
@@ -59699,7 +59594,7 @@
                   ""
                 ],
                 [
-                  "Tua",
+                  "Tuo",
                   1,
                   ""
                 ],
@@ -62682,12 +62577,12 @@
           "segments": [
             {
               "id": "s02e12-6-105",
-              "it": "«Lo so. Adesso vado a dire a mia padre che sei arrivato,» dice.",
+              "it": "«Lo so. Adesso vado a dire a mio padre che sei arrivato,» dice.",
               "en": "“I know. Now I'm going to tell my father you've arrived,” says Matteo.",
               "voice": [
                 [
                   "matteo",
-                  "Lo so. Adesso vado a dire a mia padre che sei arrivato,",
+                  "Lo so. Adesso vado a dire a mio padre che sei arrivato,",
                   ""
                 ],
                 [
@@ -62773,7 +62668,7 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "mio",
                   7,
                   ""
                 ],

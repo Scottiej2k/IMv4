@@ -7067,8 +7067,8 @@
       "index": 87,
       "scene": 3,
       "speakers": {
-        "ornella": "ornella",
-        "narrator": "narrator"
+        "narrator": "narrator",
+        "nadia": "nadia"
       },
       "segment_ids": [
         "s02e12-3-032",
@@ -7076,10 +7076,10 @@
       ],
       "words": [
         [
-          "s02e12-3-032:0-11"
+          "s02e12-3-032:0-7"
         ],
         [
-          "s02e12-3-033:0-7"
+          "s02e12-3-033:0-5"
         ]
       ],
       "request": {
@@ -7090,23 +7090,23 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il latte caldo, non freddo. E il cappuccino si fa con pazienza.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ornella",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
                 "text": "Nadia guarda i fogli e alza le sopracciglia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
                     "speaker": "narrator",
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Kevin, questo scontrino è del 2019.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "nadia",
+                    "style": "speaking a little slower than normal, clearly, dry"
                   }
                 ]
               }
@@ -7122,12 +7122,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ornella",
-                "voice": "Vindemiatrix"
-              },
-              {
                 "speaker": "narrator",
                 "voice": "Charon"
+              },
+              {
+                "speaker": "nadia",
+                "voice": "Aoede"
               }
             ]
           }
@@ -7138,27 +7138,23 @@
       "index": 88,
       "scene": 3,
       "speakers": {
-        "nadia": "nadia",
-        "ben": "ben"
+        "ben": "ben",
+        "nadia": "nadia"
       },
       "segment_ids": [
         "s02e12-3-034",
         "s02e12-3-035",
-        "s02e12-3-036",
-        "s02e12-3-037"
+        "s02e12-3-036"
       ],
       "words": [
         [
-          "s02e12-3-034:0-5"
+          "s02e12-3-034:0-1"
         ],
         [
-          "s02e12-3-035:0-1"
+          "s02e12-3-035:0-6"
         ],
         [
-          "s02e12-3-036:0-6"
-        ],
-        [
-          "s02e12-3-037:0-4"
+          "s02e12-3-036:0-4"
         ]
       ],
       "request": {
@@ -7167,17 +7163,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Kevin, questo scontrino è del 2019.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly, dry"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "Del 2019?",
@@ -7223,12 +7208,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              },
-              {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "nadia",
+                "voice": "Aoede"
               }
             ]
           }
@@ -7243,19 +7228,19 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-036",
         "s02e12-3-037",
-        "s02e12-3-038",
-        "s02e12-3-039"
+        "s02e12-3-038"
       ],
       "words": [
         [
-          "s02e12-3-037:5-6"
+          "s02e12-3-036:5-6"
         ],
         [
-          "s02e12-3-038:0-8"
+          "s02e12-3-037:0-8"
         ],
         [
-          "s02e12-3-039:0-5"
+          "s02e12-3-038:0-5"
         ]
       ],
       "request": {
@@ -7329,19 +7314,19 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-039",
         "s02e12-3-040",
-        "s02e12-3-041",
-        "s02e12-3-042"
+        "s02e12-3-041"
       ],
       "words": [
         [
-          "s02e12-3-040:0-4"
+          "s02e12-3-039:0-4"
         ],
         [
-          "s02e12-3-041:0-10"
+          "s02e12-3-040:0-10"
         ],
         [
-          "s02e12-3-042:0-6"
+          "s02e12-3-041:0-6"
         ]
       ],
       "request": {
@@ -7415,15 +7400,15 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-042",
-        "s02e12-3-043"
+        "s02e12-3-041",
+        "s02e12-3-042"
       ],
       "words": [
         [
-          "s02e12-3-042:7-8"
+          "s02e12-3-041:7-8"
         ],
         [
-          "s02e12-3-043:0-1"
+          "s02e12-3-042:0-1"
         ]
       ],
       "request": {
@@ -7486,15 +7471,15 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-044",
-        "s02e12-3-045"
+        "s02e12-3-043",
+        "s02e12-3-044"
       ],
       "words": [
         [
-          "s02e12-3-044:0-7"
+          "s02e12-3-043:0-7"
         ],
         [
-          "s02e12-3-045:0-4"
+          "s02e12-3-044:0-4"
         ]
       ],
       "request": {
@@ -7557,15 +7542,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-046",
-        "s02e12-3-047"
+        "s02e12-3-045",
+        "s02e12-3-046"
       ],
       "words": [
         [
-          "s02e12-3-046:0-5"
+          "s02e12-3-045:0-5"
         ],
         [
-          "s02e12-3-047:0-14"
+          "s02e12-3-046:0-14"
         ]
       ],
       "request": {
@@ -7628,15 +7613,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-048",
-        "s02e12-3-049"
+        "s02e12-3-047",
+        "s02e12-3-048"
       ],
       "words": [
         [
-          "s02e12-3-048:0-7"
+          "s02e12-3-047:0-7"
         ],
         [
-          "s02e12-3-049:0-5"
+          "s02e12-3-048:0-5"
         ]
       ],
       "request": {
@@ -7699,15 +7684,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-049",
-        "s02e12-3-050"
+        "s02e12-3-048",
+        "s02e12-3-049"
       ],
       "words": [
         [
-          "s02e12-3-049:6-7"
+          "s02e12-3-048:6-7"
         ],
         [
-          "s02e12-3-050:0-6"
+          "s02e12-3-049:0-6"
         ]
       ],
       "request": {
@@ -7770,15 +7755,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-051",
-        "s02e12-3-052"
+        "s02e12-3-050",
+        "s02e12-3-051"
       ],
       "words": [
         [
-          "s02e12-3-051:0-3"
+          "s02e12-3-050:0-3"
         ],
         [
-          "s02e12-3-052:0-11"
+          "s02e12-3-051:0-11"
         ]
       ],
       "request": {
@@ -7841,18 +7826,18 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-053",
-        "s02e12-3-054"
+        "s02e12-3-052",
+        "s02e12-3-053"
       ],
       "words": [
         [
-          "s02e12-3-053:0-4"
+          "s02e12-3-052:0-4"
         ],
         [
-          "s02e12-3-054:0-6"
+          "s02e12-3-053:0-6"
         ],
         [
-          "s02e12-3-054:7-7"
+          "s02e12-3-053:7-7"
         ]
       ],
       "request": {
@@ -7926,27 +7911,27 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-054",
         "s02e12-3-055",
         "s02e12-3-056",
         "s02e12-3-057",
-        "s02e12-3-058",
-        "s02e12-3-059"
+        "s02e12-3-058"
       ],
       "words": [
         [
-          "s02e12-3-055:0-4"
+          "s02e12-3-054:0-4"
         ],
         [
-          "s02e12-3-056:0-3"
+          "s02e12-3-055:0-3"
         ],
         [
-          "s02e12-3-057:0-2"
+          "s02e12-3-056:0-2"
         ],
         [
-          "s02e12-3-058:0-4"
+          "s02e12-3-057:0-4"
         ],
         [
-          "s02e12-3-059:0-8"
+          "s02e12-3-058:0-8"
         ]
       ],
       "request": {
@@ -8042,18 +8027,18 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-060",
-        "s02e12-3-061"
+        "s02e12-3-059",
+        "s02e12-3-060"
       ],
       "words": [
         [
-          "s02e12-3-060:0-5"
+          "s02e12-3-059:0-5"
         ],
         [
-          "s02e12-3-061:0-7"
+          "s02e12-3-060:0-7"
         ],
         [
-          "s02e12-3-061:8-8"
+          "s02e12-3-060:8-8"
         ]
       ],
       "request": {
@@ -8127,23 +8112,23 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-061",
         "s02e12-3-062",
         "s02e12-3-063",
-        "s02e12-3-064",
-        "s02e12-3-065"
+        "s02e12-3-064"
       ],
       "words": [
         [
-          "s02e12-3-062:0-0"
+          "s02e12-3-061:0-0"
         ],
         [
-          "s02e12-3-063:0-8"
+          "s02e12-3-062:0-8"
         ],
         [
-          "s02e12-3-064:0-10"
+          "s02e12-3-063:0-10"
         ],
         [
-          "s02e12-3-065:0-8"
+          "s02e12-3-064:0-8"
         ]
       ],
       "request": {
@@ -8228,18 +8213,18 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-066",
-        "s02e12-3-067"
+        "s02e12-3-065",
+        "s02e12-3-066"
       ],
       "words": [
         [
-          "s02e12-3-066:0-12"
+          "s02e12-3-065:0-12"
         ],
         [
-          "s02e12-3-067:0-1"
+          "s02e12-3-066:0-1"
         ],
         [
-          "s02e12-3-067:2-3"
+          "s02e12-3-066:2-3"
         ]
       ],
       "request": {
@@ -8313,14 +8298,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e12-3-068"
+        "s02e12-3-067"
       ],
       "words": [
         [
-          "s02e12-3-068:0-6"
+          "s02e12-3-067:0-6"
         ],
         [
-          "s02e12-3-068:7-7"
+          "s02e12-3-067:7-7"
         ]
       ],
       "request": {
@@ -8383,19 +8368,19 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-068",
         "s02e12-3-069",
-        "s02e12-3-070",
-        "s02e12-3-071"
+        "s02e12-3-070"
       ],
       "words": [
         [
-          "s02e12-3-069:0-2"
+          "s02e12-3-068:0-2"
         ],
         [
-          "s02e12-3-070:0-12"
+          "s02e12-3-069:0-12"
         ],
         [
-          "s02e12-3-071:0-3"
+          "s02e12-3-070:0-3"
         ]
       ],
       "request": {
@@ -8469,25 +8454,25 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-070",
         "s02e12-3-071",
-        "s02e12-3-072",
-        "s02e12-3-073"
+        "s02e12-3-072"
       ],
       "words": [
         [
-          "s02e12-3-071:4-6"
+          "s02e12-3-070:4-6"
         ],
         [
-          "s02e12-3-072:0-2"
+          "s02e12-3-071:0-2"
         ],
         [
-          "s02e12-3-072:3-3"
+          "s02e12-3-071:3-3"
         ],
         [
-          "s02e12-3-072:4-13"
+          "s02e12-3-071:4-13"
         ],
         [
-          "s02e12-3-073:0-8"
+          "s02e12-3-072:0-8"
         ]
       ],
       "request": {
@@ -8583,14 +8568,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e12-3-074"
+        "s02e12-3-073"
       ],
       "words": [
         [
-          "s02e12-3-074:0-5"
+          "s02e12-3-073:0-5"
         ],
         [
-          "s02e12-3-074:6-6"
+          "s02e12-3-073:6-6"
         ]
       ],
       "request": {
@@ -8653,31 +8638,31 @@
         "ben": "ben"
       },
       "segment_ids": [
+        "s02e12-3-074",
         "s02e12-3-075",
         "s02e12-3-076",
         "s02e12-3-077",
         "s02e12-3-078",
-        "s02e12-3-079",
-        "s02e12-3-080"
+        "s02e12-3-079"
       ],
       "words": [
         [
-          "s02e12-3-075:0-0"
+          "s02e12-3-074:0-0"
         ],
         [
-          "s02e12-3-076:0-8"
+          "s02e12-3-075:0-8"
         ],
         [
-          "s02e12-3-077:0-3"
+          "s02e12-3-076:0-3"
         ],
         [
-          "s02e12-3-078:0-10"
+          "s02e12-3-077:0-10"
         ],
         [
-          "s02e12-3-079:0-4"
+          "s02e12-3-078:0-4"
         ],
         [
-          "s02e12-3-080:0-12"
+          "s02e12-3-079:0-12"
         ]
       ],
       "request": {
@@ -8784,18 +8769,18 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-081",
-        "s02e12-3-082"
+        "s02e12-3-080",
+        "s02e12-3-081"
       ],
       "words": [
         [
-          "s02e12-3-081:0-6"
+          "s02e12-3-080:0-6"
         ],
         [
-          "s02e12-3-082:0-4"
+          "s02e12-3-081:0-4"
         ],
         [
-          "s02e12-3-082:5-5"
+          "s02e12-3-081:5-5"
         ]
       ],
       "request": {
@@ -8869,15 +8854,15 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-083",
-        "s02e12-3-084"
+        "s02e12-3-082",
+        "s02e12-3-083"
       ],
       "words": [
         [
-          "s02e12-3-083:0-4"
+          "s02e12-3-082:0-4"
         ],
         [
-          "s02e12-3-084:0-6"
+          "s02e12-3-083:0-6"
         ]
       ],
       "request": {
@@ -8940,15 +8925,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-084",
-        "s02e12-3-085"
+        "s02e12-3-083",
+        "s02e12-3-084"
       ],
       "words": [
         [
-          "s02e12-3-084:7-7"
+          "s02e12-3-083:7-7"
         ],
         [
-          "s02e12-3-085:0-1"
+          "s02e12-3-084:0-1"
         ]
       ],
       "request": {
@@ -9011,15 +8996,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-086",
-        "s02e12-3-087"
+        "s02e12-3-085",
+        "s02e12-3-086"
       ],
       "words": [
         [
-          "s02e12-3-086:0-7"
+          "s02e12-3-085:0-7"
         ],
         [
-          "s02e12-3-087:0-7"
+          "s02e12-3-086:0-7"
         ]
       ],
       "request": {
@@ -9082,20 +9067,20 @@
         "donna": "donna"
       },
       "segment_ids": [
+        "s02e12-3-086",
         "s02e12-3-087",
-        "s02e12-3-088",
-        "s02e12-3-089"
+        "s02e12-3-088"
       ],
       "words": [
         [
-          "s02e12-3-087:8-9",
-          "s02e12-3-088:0-10"
+          "s02e12-3-086:8-9",
+          "s02e12-3-087:0-10"
         ],
         [
-          "s02e12-3-089:0-2"
+          "s02e12-3-088:0-2"
         ],
         [
-          "s02e12-3-089:3-3"
+          "s02e12-3-088:3-3"
         ]
       ],
       "request": {
@@ -9169,15 +9154,15 @@
         "nadia": "nadia"
       },
       "segment_ids": [
-        "s02e12-3-090",
-        "s02e12-3-091"
+        "s02e12-3-089",
+        "s02e12-3-090"
       ],
       "words": [
         [
-          "s02e12-3-090:0-9"
+          "s02e12-3-089:0-9"
         ],
         [
-          "s02e12-3-091:0-6"
+          "s02e12-3-090:0-6"
         ]
       ],
       "request": {
@@ -9240,21 +9225,21 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-091",
-        "s02e12-3-092"
+        "s02e12-3-090",
+        "s02e12-3-091"
       ],
       "words": [
         [
+          "s02e12-3-090:7-10"
+        ],
+        [
+          "s02e12-3-091:0-4"
+        ],
+        [
+          "s02e12-3-091:5-6"
+        ],
+        [
           "s02e12-3-091:7-10"
-        ],
-        [
-          "s02e12-3-092:0-4"
-        ],
-        [
-          "s02e12-3-092:5-6"
-        ],
-        [
-          "s02e12-3-092:7-10"
         ]
       ],
       "request": {
@@ -9339,15 +9324,15 @@
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e12-3-093",
-        "s02e12-3-094"
+        "s02e12-3-092",
+        "s02e12-3-093"
       ],
       "words": [
         [
-          "s02e12-3-093:0-3"
+          "s02e12-3-092:0-3"
         ],
         [
-          "s02e12-3-094:0-6"
+          "s02e12-3-093:0-6"
         ]
       ],
       "request": {
@@ -9410,22 +9395,22 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-093",
         "s02e12-3-094",
         "s02e12-3-095",
-        "s02e12-3-096",
-        "s02e12-3-097"
+        "s02e12-3-096"
       ],
       "words": [
         [
-          "s02e12-3-094:7-8",
-          "s02e12-3-095:0-11",
-          "s02e12-3-096:0-8"
+          "s02e12-3-093:7-8",
+          "s02e12-3-094:0-11",
+          "s02e12-3-095:0-8"
         ],
         [
-          "s02e12-3-097:0-4"
+          "s02e12-3-096:0-4"
         ],
         [
-          "s02e12-3-097:5-5"
+          "s02e12-3-096:5-5"
         ]
       ],
       "request": {
@@ -9499,14 +9484,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e12-3-098"
+        "s02e12-3-097"
       ],
       "words": [
         [
-          "s02e12-3-098:0-7"
+          "s02e12-3-097:0-7"
         ],
         [
-          "s02e12-3-098:8-9"
+          "s02e12-3-097:8-9"
         ]
       ],
       "request": {
@@ -9569,22 +9554,22 @@
         "narrator": "narrator"
       },
       "segment_ids": [
+        "s02e12-3-098",
         "s02e12-3-099",
-        "s02e12-3-100",
-        "s02e12-3-101"
+        "s02e12-3-100"
       ],
       "words": [
         [
-          "s02e12-3-099:0-7"
+          "s02e12-3-098:0-7"
         ],
         [
-          "s02e12-3-100:0-8"
+          "s02e12-3-099:0-8"
         ],
         [
-          "s02e12-3-101:0-2"
+          "s02e12-3-100:0-2"
         ],
         [
-          "s02e12-3-101:3-4"
+          "s02e12-3-100:3-4"
         ]
       ],
       "request": {
@@ -9669,23 +9654,23 @@
         "nadia": "nadia"
       },
       "segment_ids": [
+        "s02e12-3-101",
         "s02e12-3-102",
         "s02e12-3-103",
-        "s02e12-3-104",
-        "s02e12-3-105"
+        "s02e12-3-104"
       ],
       "words": [
         [
-          "s02e12-3-102:0-2"
+          "s02e12-3-101:0-2"
         ],
         [
-          "s02e12-3-103:0-7"
+          "s02e12-3-102:0-7"
         ],
         [
-          "s02e12-3-104:0-4"
+          "s02e12-3-103:0-4"
         ],
         [
-          "s02e12-3-105:0-8"
+          "s02e12-3-104:0-8"
         ]
       ],
       "request": {
@@ -9770,22 +9755,22 @@
         "ben": "ben"
       },
       "segment_ids": [
+        "s02e12-3-105",
         "s02e12-3-106",
-        "s02e12-3-107",
-        "s02e12-3-108"
+        "s02e12-3-107"
       ],
       "words": [
         [
-          "s02e12-3-106:0-8"
+          "s02e12-3-105:0-8"
         ],
         [
-          "s02e12-3-107:0-12"
+          "s02e12-3-106:0-12"
         ],
         [
-          "s02e12-3-108:0-4"
+          "s02e12-3-107:0-4"
         ],
         [
-          "s02e12-3-108:5-6"
+          "s02e12-3-107:5-6"
         ]
       ],
       "request": {
@@ -9870,27 +9855,27 @@
         "ben": "ben"
       },
       "segment_ids": [
+        "s02e12-3-108",
         "s02e12-3-109",
         "s02e12-3-110",
         "s02e12-3-111",
-        "s02e12-3-112",
-        "s02e12-3-113"
+        "s02e12-3-112"
       ],
       "words": [
         [
-          "s02e12-3-109:0-11"
+          "s02e12-3-108:0-11"
         ],
         [
-          "s02e12-3-110:0-7"
+          "s02e12-3-109:0-7"
         ],
         [
-          "s02e12-3-111:0-1"
+          "s02e12-3-110:0-1"
         ],
         [
-          "s02e12-3-112:0-0"
+          "s02e12-3-111:0-0"
         ],
         [
-          "s02e12-3-113:0-7"
+          "s02e12-3-112:0-7"
         ]
       ],
       "request": {
@@ -9986,21 +9971,21 @@
         "ben": "ben"
       },
       "segment_ids": [
+        "s02e12-3-113",
         "s02e12-3-114",
         "s02e12-3-115",
         "s02e12-3-116",
-        "s02e12-3-117",
-        "s02e12-3-118"
+        "s02e12-3-117"
       ],
       "words": [
         [
-          "s02e12-3-114:0-10",
-          "s02e12-3-115:0-12",
-          "s02e12-3-116:0-8",
-          "s02e12-3-117:0-10"
+          "s02e12-3-113:0-10",
+          "s02e12-3-114:0-12",
+          "s02e12-3-115:0-8",
+          "s02e12-3-116:0-10"
         ],
         [
-          "s02e12-3-118:0-9"
+          "s02e12-3-117:0-9"
         ]
       ],
       "request": {
@@ -10094,7 +10079,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sono le tre del pomeriggio allo Studio Marchetti di Milano. Chiara è al suo tavolo, vicino alla finestra, con il progetto della banca aperto. Fuori piove piano sui tetti della zona Isola. il telefono di Chiara fa un piccolo rumore. È un messaggio di Kevin.",
+                "text": "Sono le tre del pomeriggio allo Studio Marchetti di Milano. Chiara è al suo tavolo, vicino alla finestra, con il progetto della banca aperto. Fuori piove piano sui tetti della zona Isola. Il telefono di Chiara fa un piccolo rumore. È un messaggio di Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13241,7 +13226,7 @@
           "s02e12-5-029:0-5"
         ],
         [
-          "s02e12-5-030:0-5"
+          "s02e12-5-030:0-9"
         ]
       ],
       "request": {
@@ -13285,7 +13270,7 @@
               },
               {
                 "type": "text",
-                "text": "Lo so. È farina di cornetti,",
+                "text": "Ho servito un cappuccino e due cornetti, e ho ascoltato,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13332,7 +13317,7 @@
       ],
       "words": [
         [
-          "s02e12-5-030:6-7",
+          "s02e12-5-030:10-11",
           "s02e12-5-031:0-10"
         ],
         [
@@ -16067,7 +16052,7 @@
           "s02e12-5-101:0-6"
         ],
         [
-          "s02e12-5-102:0-15"
+          "s02e12-5-102:0-16"
         ],
         [
           "s02e12-5-103:0-4"
@@ -16117,7 +16102,7 @@
               },
               {
                 "type": "text",
-                "text": "Ero bravo in un ufficio. Adesso sono bravo dietro un bancone. E per me va bene.",
+                "text": "Sono stato bravo in un ufficio. Adesso sono bravo dietro un bancone. E per me va bene.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16561,10 +16546,10 @@
           "s02e12-6-015:0-9"
         ],
         [
-          "s02e12-6-016:0-4"
+          "s02e12-6-016:0-3"
         ],
         [
-          "s02e12-6-016:5-6"
+          "s02e12-6-016:4-5"
         ]
       ],
       "request": {
@@ -16630,7 +16615,7 @@
               },
               {
                 "type": "text",
-                "text": "Franco, lei può passare avanti,",
+                "text": "Franco, puoi passare avanti,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17118,7 +17103,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché controlla la tazza prima di dare il caffè?",
+                "text": "Perché controlli la tazza prima di dare il caffè?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17657,7 +17642,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Lei mi spiega un mestiere vero,",
+                "text": "Tu mi spieghi un mestiere vero,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -18880,7 +18865,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Buongiorno. Tua padre è venuto,",
+                "text": "Buongiorno. Tuo padre è venuto,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20028,7 +20013,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Lo so. Adesso vado a dire a mia padre che sei arrivato,",
+                "text": "Lo so. Adesso vado a dire a mio padre che sei arrivato,",
                 "annotations": [
                   {
                     "type": "speech_metadata",

@@ -302,8 +302,6 @@ Nadia va dietro il **bancone** e **controlla**. **Controlla** il latte, **contro
 
 «Qui. Tutti, uno per uno.»
 
-«Il latte caldo, non freddo. E il **cappuccino** si fa con pazienza.»
-
 Nadia guarda i fogli e alza le sopracciglia. «Kevin, questo **scontrino** è del 2019.»
 
 «Del 2019?»
@@ -440,7 +438,7 @@ Nadia esce dalla porta sul retro e sale le scale piano. Kevin resta solo con il 
 
 ## 4. Studio Marchetti, Milano · lunedì pomeriggio
 
-Sono le tre del pomeriggio allo Studio Marchetti di Milano. Chiara è al suo tavolo, vicino alla finestra, con il progetto della banca aperto. Fuori piove piano sui tetti della zona Isola. il telefono di Chiara fa un piccolo rumore.
+Sono le tre del pomeriggio allo Studio Marchetti di Milano. Chiara è al suo tavolo, vicino alla finestra, con il progetto della banca aperto. Fuori piove piano sui tetti della zona Isola. Il telefono di Chiara fa un piccolo rumore.
 
 È un messaggio di Kevin. «Ho fatto il mio primo **turno** al bar!»
 
@@ -562,7 +560,7 @@ Kevin si siede e comincia a **raccontare**. E **racconta** tutto, con le mani, c
 
 «E tu che cosa hai fatto?»
 
-«Lo so. È farina di **cornetti**,» dice Kevin.
+«Ho servito un **cappuccino** e due **cornetti**, e ho ascoltato,» dice Kevin.
 
 Chiara mette i piatti sul tavolo e si siede anche lei. «E poi?» chiede.
 
@@ -678,7 +676,7 @@ Chiara prende il telefono e mette la sveglia. «Alle cinque e mezza la sveglia p
 
 «Grazie. **Per me** aiuti molto.»
 
-Kevin guarda il **grembiule** verde sulla sedia. _Ero bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._ «Chiara, e Giulia come sta?» chiede all'improvviso.
+Kevin guarda il **grembiule** verde sulla sedia. _Sono stato bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._ «Chiara, e Giulia come sta?» chiede all'improvviso.
 
 «Quale Giulia?»
 
@@ -706,7 +704,7 @@ Alle sette c'è già una piccola **fila**. Tre persone, con il giornale e i sold
 
 Alle sette e un quarto la porta si apre. Entra Franco, con il cappotto scuro e il giornale piegato. Kevin lo guarda e resta fermo. _Buongiorno, Franco. Non dire “**Tocca a te**.” Non è il momento._
 
-Franco va verso il **bancone** e poi si ferma. Guarda la **fila**, guarda gli altri. Poi fa una cosa strana: va in fondo alla **fila**. «Franco, lei può passare avanti,» dice Kevin.
+Franco va verso il **bancone** e poi si ferma. Guarda la **fila**, guarda gli altri. Poi fa una cosa strana: va in fondo alla **fila**. «Franco, puoi passare avanti,» dice Kevin.
 
 «No,» dice Franco.
 
@@ -722,7 +720,7 @@ Franco arriva al **bancone** dopo tre minuti. «Un caffè,» dice. «E lo bevo q
 
 «**Per me** no. Oggi mi siedo.» dice Franco.
 
-Kevin prepara il caffè con molta **pazienza**. **Controlla** la **tazza**, **controlla** il piattino, **controlla** il cucchiaino. Poi mette la **tazza** sul **bancone**. Franco guarda la **tazza** per un secondo. «Perché **controlla** la **tazza** prima di dare il caffè?» chiede.
+Kevin prepara il caffè con molta **pazienza**. **Controlla** la **tazza**, **controlla** il piattino, **controlla** il cucchiaino. Poi mette la **tazza** sul **bancone**. Franco guarda la **tazza** per un secondo. «Perché **controlli** la **tazza** prima di dare il caffè?» chiede.
 
 «Perché se la **tazza** è sporca, il caffè è brutto,» **risponde** Kevin.
 
@@ -742,7 +740,7 @@ Poi Franco guarda la sala e **spiega** una cosa. «Kevin, tu **guadagni** poco, 
 
 «Se è **orgoglioso**, non gli dici niente. Lo lasci in pace.»
 
-Kevin prende il quaderno giallo e scrive tutto. «Lei mi **spiega** un **mestiere** vero,» dice Kevin.
+Kevin prende il quaderno giallo e scrive tutto. «Tu mi **spieghi** un **mestiere** vero,» dice Kevin.
 
 «Non ti **spiego** niente. Ti dico quello che vedo,» dice Franco.
 
@@ -790,7 +788,7 @@ Dopo la **fila**, Kevin **ricorda** ogni parola di Franco. Mette una **scatola**
 
 Poi, alle undici, arriva Matteo dal retro. Ha i capelli ancora bagnati e la maglietta nuova. «Buongiorno, **collega** **barista**!» dice.
 
-«Buongiorno. Tua padre è venuto,» dice Kevin.
+«Buongiorno. Tuo padre è venuto,» dice Kevin.
 
 «Mio padre? Al bar?» chiede.
 
@@ -828,7 +826,7 @@ Matteo mette le chiavi sul **bancone**, vicino alla cassa. «Sei un **collega** 
 
 «Grazie. **Per me** è una parola importante,» dice Kevin.
 
-«Lo so. Adesso vado a dire a mia padre che sei arrivato,» dice.
+«Lo so. Adesso vado a dire a mio padre che sei arrivato,» dice.
 
 Kevin resta solo con le chiavi in mano. Guarda il **bancone**, il **grembiule**, il **vassoio** sul **tavolo**. Fuori, la signora con la borsa rossa passa davanti al vetro e lo saluta. Kevin è **stanco**, ma alza la mano con un sorriso. _Tre giorni. Un **grembiule**, un **turno**, un **consiglio** di Franco. E **tocca a me** ancora._
 

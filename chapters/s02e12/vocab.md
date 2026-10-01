@@ -37,8 +37,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il collega**<br>(n., m) · colleague | «Buongiorno, **collega** barista!» dice. | “Good morning, **bartender** colleague!” he says. |
 | **il capo**<br>(n., m) · boss | «Ma chi è il **capo** adesso? Matteo o tu?» chiede. | “But who's the **boss** now? Matteo or you?” asks Leo. |
 | **il barista**<br>(n., m/f) · bartender, barista | «Buonanotte, **barista**,» dice Chiara. | “Good night, **bartender**,” says Chiara. |
-| **il cornetto**<br>(n., m) · croissant | «Lo so. È farina di **cornetti**,» dice Kevin. | “I know. It's **croissant** flour,” says Kevin. |
-| **il cappuccino**<br>(n., m) · cappuccino | «Il latte caldo, non freddo. E il **cappuccino** si fa con pazienza.» | “The milk hot, not cold. And a **cappuccino** is made with patience.” |
+| **il cornetto**<br>(n., m) · croissant | «Ho servito un cappuccino e due **cornetti**, e ho ascoltato,» dice Kevin. | “I served a cappuccino and two **croissants**, and I listened,” says Kevin. |
+| **il cappuccino**<br>(n., m) · cappuccino | «Ho servito un **cappuccino** e due cornetti, e ho ascoltato,» dice Kevin. | “I served a **cappuccino** and two croissants, and I listened,” says Kevin. |
 | **il vassoio**<br>(n., m) · tray | «Il caffè. E il **vassoio**.» | “Coffee. And the **tray**.” |
 | **la mancia**<br>(n., f) · tip | «La **mancia** dov'è?» chiede. | “Where's the **tip**?” she asks. |
 | **lo scontrino**<br>(n., m) · receipt | «Bravo. E gli **scontrini**?» | “Good. And the **receipts**?” |

@@ -254,7 +254,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nella **scatola**, con i soldi del bar. Come ha detto Matteo.» | “In the **box**, with the bar's money. Like Matteo said.” |
 | «Bravo. E gli **scontrini**?» | “Good. And the **receipts**?” |
 | «Qui. Tutti, uno per uno.» | “Here. All of them, one by one.” |
-| «Il latte caldo, non freddo. E il **cappuccino** si fa con pazienza.» | “The milk hot, not cold. And a **cappuccino** is made with patience.” |
 | Nadia guarda i fogli e alza le sopracciglia. | Nadia looks at the papers and raises her eyebrows. |
 | «Kevin, questo **scontrino** è del 2019.» | “Kevin, this **receipt** is from 2019.” |
 | «Del 2019?» | “From 2019?” |
@@ -349,7 +348,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sono le tre del pomeriggio allo Studio Marchetti di Milano. | It's three in the afternoon at Studio Marchetti in Milan. |
 | Chiara è al suo tavolo, vicino alla finestra, con il progetto della banca aperto. | Chiara is at her desk, near the window, with the bank project open. |
 | Fuori piove piano sui tetti della zona Isola. | Outside it's raining softly on the rooftops of the Isola district. |
-| il telefono di Chiara fa un piccolo rumore. | Chiara's phone makes a small noise. |
+| Il telefono di Chiara fa un piccolo rumore. | Chiara's phone makes a small noise. |
 | È un messaggio di Kevin. | It's a message from Kevin. |
 | «Ho fatto il mio primo **turno** al bar!» | “I did my first **shift** at the bar!” |
 | Chiara legge e sorride subito, senza pensare. | Chiara reads it and smiles at once, without thinking. |
@@ -459,7 +458,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Tutta?» | “All of it?” |
 | «Tutta. Il figlio a Milano, i nipoti a Roma, la borsa rossa.» | “All of it. Her son in Milan, her grandchildren in Rome, the red bag.” |
 | «E tu che cosa hai fatto?» | “And what did you do?” |
-| «Lo so. È farina di **cornetti**,» dice Kevin. | “I know. It's **croissant** flour,” says Kevin. |
+| «Ho servito un **cappuccino** e due **cornetti**, e ho ascoltato,» dice Kevin. | “I served a **cappuccino** and two **croissants**, and I listened,” says Kevin. |
 | Chiara mette i piatti sul tavolo e si siede anche lei. | Chiara puts the plates on the table and sits down too. |
 | «E poi?» chiede. | “And then?” she asks. |
 | «Poi ho rotto una **tazza**.» | “Then I broke a **cup**.” |
@@ -531,7 +530,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No, Leo lo porto **io**. Tu vai al bar,» dice. | “No, I take Leo **myself**. You go to the bar,” says Chiara. |
 | «Grazie. **Per me** aiuti molto.» | “Thank you. **For me** you help a lot.” |
 | Kevin guarda il **grembiule** verde sulla sedia. | Kevin looks at the green **apron** on the chair. |
-| _Ero bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._ | _I was good in an office. Now I'm good behind a **counter**. And **for me** that's fine._ |
+| _Sono stato bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._ | _I was good in an office. Now I'm good behind a **counter**. And **for me** that's fine._ |
 | «Chiara, e Giulia come sta?» chiede all'improvviso. | “Chiara, how is Giulia?” asks Kevin suddenly. |
 | «Quale Giulia?» | “Which Giulia?” |
 | «La tua **collega**. Quella delle scale di legno.» | “Your **colleague**. The one with the wood staircases.” |
@@ -564,7 +563,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco va verso il **bancone** e poi si ferma. | Franco goes toward the **counter** and then stops. |
 | Guarda la **fila**, guarda gli altri. | He looks at the **line**, looks at the others. |
 | Poi fa una cosa strana: va in fondo alla **fila**. | Then he does a strange thing: he goes to the end of the **line**. |
-| «Franco, lei può passare avanti,» dice Kevin. | “Franco, you can come forward,” says Kevin. |
+| «Franco, puoi passare avanti,» dice Kevin. | “Franco, you can come forward,” says Kevin. |
 | «No,» dice Franco. | “No,” says Franco. |
 | «Perché no?» | “Why not?” |
 | «Perché **per me** la **fila** è la **fila**. E **io** aspetto come gli altri.» | “Because **for me** the **line** is the **line**. And **I** wait like the others.” |
@@ -578,7 +577,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **Controlla** la **tazza**, **controlla** il piattino, **controlla** il cucchiaino. | He **checks** the **cup**, **checks** the saucer, **checks** the little spoon. |
 | Poi mette la **tazza** sul **bancone**. | Then he puts the **cup** on the **counter**. |
 | Franco guarda la **tazza** per un secondo. | Franco looks at the **cup** for a second. |
-| «Perché **controlla** la **tazza** prima di dare il caffè?» chiede. | “Why do you **check** the **cup** before giving the coffee?” asks Franco. |
+| «Perché **controlli** la **tazza** prima di dare il caffè?» chiede. | “Why do you **check** the **cup** before giving the coffee?” asks Franco. |
 | «Perché se la **tazza** è sporca, il caffè è brutto,» **risponde** Kevin. | “Because if the **cup** is dirty, the coffee is bad,” **answers** Kevin. |
 | «Bene. **Per me** è giusto.» dice Franco. | “Good. **For me** that's right,” says Franco. |
 | Poi Franco guarda la sala e **spiega** una cosa. | Then Franco looks at the room and **explains** something. |
@@ -590,7 +589,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E se è **orgoglioso**?» chiede Kevin. | “And if he's **proud**?” asks Kevin. |
 | «Se è **orgoglioso**, non gli dici niente. Lo lasci in pace.» | “If he's **proud**, you don't say anything to him. You leave him alone.” |
 | Kevin prende il quaderno giallo e scrive tutto. | Kevin takes the yellow notebook and writes everything. |
-| «Lei mi **spiega** un **mestiere** vero,» dice Kevin. | “You're **explaining** a real **trade** to me,” says Kevin. |
+| «Tu mi **spieghi** un **mestiere** vero,» dice Kevin. | “You're **explaining** a real **trade** to me,” says Kevin. |
 | «Non ti **spiego** niente. Ti dico quello che vedo,» dice Franco. | “I'm not **explaining** anything to you. I'm telling you what I see,” says Franco. |
 | «**Per me** è la stessa cosa,» dice Kevin. | “**For me** it's the same thing,” says Kevin. |
 | «**Per me** no,» dice Franco, ma sorride un po'. | “**For me** no,” says Franco, but he smiles a little. |
@@ -626,7 +625,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi, alle undici, arriva Matteo dal retro. | Then, at eleven, Matteo arrives from the back. |
 | Ha i capelli ancora bagnati e la maglietta nuova. | His hair is still wet and his shirt is new. |
 | «Buongiorno, **collega** **barista**!» dice. | “Good morning, **bartender** **colleague**!” he says. |
-| «Buongiorno. Tua padre è venuto,» dice Kevin. | “Good morning. Your father came,” says Kevin. |
+| «Buongiorno. Tuo padre è venuto,» dice Kevin. | “Good morning. Your father came,” says Kevin. |
 | «Mio padre? Al bar?» chiede. | “My father? At the bar?” asks Matteo. |
 | Kevin **racconta** tutto: la **fila**, la **tazza**, il bicchiere d'acqua, il quaderno del 1978. | Kevin **tells** everything: the **line**, the **cup**, the glass of water, the 1978 notebook. |
 | Matteo ride e poi si ferma. | Matteo laughs and then stops. |
@@ -653,7 +652,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Matteo mette le chiavi sul **bancone**, vicino alla cassa. | Matteo puts the keys on the **counter**, next to the register. |
 | «Sei un **collega** strano, Kevin. Ma sei un **collega** vero,» dice. | “You're a strange **colleague**, Kevin. But you're a real **colleague**,” says Matteo. |
 | «Grazie. **Per me** è una parola importante,» dice Kevin. | “Thank you. **For me** it's an important word,” says Kevin. |
-| «Lo so. Adesso vado a dire a mia padre che sei arrivato,» dice. | “I know. Now I'm going to tell my father you've arrived,” says Matteo. |
+| «Lo so. Adesso vado a dire a mio padre che sei arrivato,» dice. | “I know. Now I'm going to tell my father you've arrived,” says Matteo. |
 | Kevin resta solo con le chiavi in mano. | Kevin stays alone with the keys in his hand. |
 | Guarda il **bancone**, il **grembiule**, il **vassoio** sul **tavolo**. | He looks at the **counter**, the **apron**, the **tray** on the table. |
 | Fuori, la signora con la borsa rossa passa davanti al vetro e lo saluta. | Outside, the lady with the red bag passes in front of the glass and greets him. |
