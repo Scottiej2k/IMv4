@@ -1,0 +1,5 @@
+### s02e13 · Ci conosciamo?
+- **Happened:** Emma and Tommaso secretly see each other every morning on the 7:30 Monza train; Bianca works it out and says nothing. Franco tells Lucia he's afraid of the neighbors' talk, then promises to walk the street holding her hand. Tuesday at 5pm they do; Ornella announces "che bella coppia" from her window, then Franco brings Lucia to Bar Tigli, where Matteo and Nadia celebrate and Roberto Colombo briefly appears.
+- **New facts:** Franco has been with Lucia since September; Matteo didn't know. Ornella's cat is named Pavarotti. Bianca is Emma's schoolmate on the Borgoverde–Monza train; Lucia has a red dress, Franco a good blue shirt.
+- **Changed:** Franco and Lucia are now public; the whole street and Roberto know. Bianca knows about Emma and Tommaso; Chiara suspects via Leo's drawing but says nothing.
+- **Planted:** Emma and Tommaso's "official" status (unresolved; Bianca calls them a coppia); Chiara's suspicions; Matteo threatening to tell the whole quartiere.

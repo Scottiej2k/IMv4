@@ -254,6 +254,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco comes to the bar and gives Kevin barista advice, which Matteo reads as a prize; Chiara is proud but ashamed of her own worry about her studio colleagues; Nadia appreciates Kevin's suggestion to save part of the tips and to open mornings so she can sleep an extra hour.
 - **Planted:** Matteo's idea that Kevin is a "collega vero" and the savings plan with tips; Chiara's colleagues (Giulia) still unnamed to Kevin.
 
+### s02e13 · Ci conosciamo?
+- **Happened:** Emma and Tommaso secretly see each other every morning on the 7:30 Monza train; Bianca works it out and says nothing. Franco tells Lucia he's afraid of the neighbors' talk, then promises to walk the street holding her hand. Tuesday at 5pm they do; Ornella announces "che bella coppia" from her window, then Franco brings Lucia to Bar Tigli, where Matteo and Nadia celebrate and Roberto Colombo briefly appears.
+- **New facts:** Franco has been with Lucia since September; Matteo didn't know. Ornella's cat is named Pavarotti. Bianca is Emma's schoolmate on the Borgoverde–Monza train; Lucia has a red dress, Franco a good blue shirt.
+- **Changed:** Franco and Lucia are now public; the whole street and Roberto know. Bianca knows about Emma and Tommaso; Chiara suspects via Leo's drawing but says nothing.
+- **Planted:** Emma and Tommaso's "official" status (unresolved; Bianca calls them a coppia); Chiara's suspicions; Matteo threatening to tell the whole quartiere.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
