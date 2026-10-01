@@ -296,6 +296,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Marina asks Roberto to leave the committee; he agrees to a bench in the piazza Saturday after the meeting. Kevin, undecided, promises Chiara he'll decide Thursday.
 - **Planted:** Kevin's yes/no to Sartori, still open; Roberto's written agenda word FUTURO.
 
+### s02e20 · La Festa dei Tigli
+- **Happened:** Kevin and Roberto co-organized the Festa dei Tigli (six stands, three gazebos, hand-written lottery tickets); the church-roof collection raised €320. Franco and Lucia danced one tango on the stage in front of the square; Emma won the lottery prize, a two-person concert ticket in Milan for Saturday.
+- **New facts:** Nadia announced her pregnancy publicly at the square on Sunday morning ("Io. E il bambino."), and everyone accepted her as in charge. Matteo's own bar speakers and microphone had spent the night in the square, moved by him without permission.
+- **Changed:** Roberto switched from Lei to tu with Kevin ("Diamoci del tu"). Roberto caught Tommaso volunteering at the lottery stand with Emma, said "bravo", and later told Kevin he'd seen Emma watching Tommaso; Kevin denied seeing anything.
+- **Planted:** Ornella's promised Sunday-night "sorpresa" for Kevin is never explained. Emma's ticket is for two and she claims she'll take "un'amica"; Tommaso suspects otherwise.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
