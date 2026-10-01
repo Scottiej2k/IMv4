@@ -492,7 +492,7 @@ Lucia è in piedi davanti al suo **vassoio**, con il grembiule di casa. Samira �
 
 Emma, Leo e Chiara sono seduti al tavolo vicino alla finestra. Ornella è alla sua solita sedia, con il bastone accanto. «**Giuria**, siete pronte?»
 
-«Io sono pronta da ottant'anni.»
+«Io sono pronta da settantotto anni.»
 
 Matteo gira il primo tovagliolo e scopre il vassoio di Samira. Dentro il **vassoio** ci sono tre **coppe** piene di crema chiara. Sopra la crema c'è un velo sottile di **cacao**.
 
@@ -670,11 +670,11 @@ Franco beve il primo sorso e guarda fuori dalla vetrina. «Il tiramisù **miglio
 
 Franco posa la tazzina e guarda Kevin negli occhi. «Il tuo è il **peggiore**. L'ho detto anche ieri, davanti a tutti.»
 
-«Lo so. Ma speravo...»
+«Lo so. Ma ho sperato...»
 
-«Speravi di **battere** il tiramisù di Anna?»
+«Hai sperato di **battere** il tiramisù di Anna?»
 
-«No. Speravo di **battere** Samira.»
+«No. Ho sperato di **battere** Samira.»
 
 Franco quasi ride, ma non ride. Beve un altro sorso. «Il **gusto** è tuo, però. E un **gusto** nuovo non è un problema.»
 
@@ -748,7 +748,7 @@ Chiara arriva in quel momento, con la borsa e il cappotto. Vede la targa, vede s
 
 «È la sua ricetta. E il **premio** è suo. Però Lucia lo cucina meglio di tutti.»
 
-Lucia mette una mano sulla targa e poi guarda Franco. «Non lo cucino meglio di tutti. Lo cucino come lo cucinava lei.»
+Lucia mette una mano sulla targa e poi guarda Franco. «Non lo cucino meglio di tutti. Lo cucino con la sua carta.»
 
 «Ed è per questo che vinci.»
 

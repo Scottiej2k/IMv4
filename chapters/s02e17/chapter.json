@@ -33507,12 +33507,12 @@
           "segments": [
             {
               "id": "s02e17-5-017",
-              "it": "«Io sono pronta da ottant'anni.»",
-              "en": "“I've been ready for eighty years.”",
+              "it": "«Io sono pronta da settantotto anni.»",
+              "en": "“I've been ready for seventy-eight years.”",
               "voice": [
                 [
                   "ornella",
-                  "Io sono pronta da ottant'anni.",
+                  "Io sono pronta da settantotto anni.",
                   "dry"
                 ]
               ],
@@ -33563,8 +33563,18 @@
                   ""
                 ],
                 [
-                  "ottant'anni",
+                  "settantotto",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "anni",
+                  5,
                   ""
                 ],
                 [
@@ -46914,12 +46924,12 @@
           "segments": [
             {
               "id": "s02e17-6-022",
-              "it": "«Lo so. Ma speravo...»",
-              "en": "“I know. But I was hoping...”",
+              "it": "«Lo so. Ma ho sperato...»",
+              "en": "“I know. But I hoped...”",
               "voice": [
                 [
                   "ben",
-                  "Lo so. Ma speravo...",
+                  "Lo so. Ma ho sperato...",
                   ""
                 ]
               ],
@@ -46960,8 +46970,18 @@
                   ""
                 ],
                 [
-                  "speravo",
+                  "ho",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sperato",
+                  4,
                   ""
                 ],
                 [
@@ -46977,12 +46997,12 @@
           "segments": [
             {
               "id": "s02e17-6-023",
-              "it": "«Speravi di **battere** il tiramisù di Anna?»",
-              "en": "“You were hoping to **beat** Anna's tiramisu?”",
+              "it": "«Hai sperato di **battere** il tiramisù di Anna?»",
+              "en": "“You hoped to **beat** Anna's tiramisu?”",
               "voice": [
                 [
                   "franco",
-                  "Speravi di **battere** il tiramisù di Anna?",
+                  "Hai sperato di **battere** il tiramisù di Anna?",
                   ""
                 ]
               ],
@@ -46993,7 +47013,7 @@
                   ""
                 ],
                 [
-                  "Speravi",
+                  "Hai",
                   0,
                   ""
                 ],
@@ -47003,7 +47023,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "sperato",
                   1,
                   ""
                 ],
@@ -47013,8 +47033,18 @@
                   ""
                 ],
                 [
-                  "battere",
+                  "di",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "battere",
+                  3,
                   "b"
                 ],
                 [
@@ -47024,16 +47054,6 @@
                 ],
                 [
                   "il",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tiramisù",
                   4,
                   ""
                 ],
@@ -47043,7 +47063,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "tiramisù",
                   5,
                   ""
                 ],
@@ -47053,8 +47073,18 @@
                   ""
                 ],
                 [
-                  "Anna",
+                  "di",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Anna",
+                  7,
                   ""
                 ],
                 [
@@ -47073,12 +47103,12 @@
           "segments": [
             {
               "id": "s02e17-6-024",
-              "it": "«No. Speravo di **battere** Samira.»",
-              "en": "“No. I was hoping to **beat** Samira.”",
+              "it": "«No. Ho sperato di **battere** Samira.»",
+              "en": "“No. I hoped to **beat** Samira.”",
               "voice": [
                 [
                   "ben",
-                  "No. Speravo di **battere** Samira.",
+                  "No. Ho sperato di **battere** Samira.",
                   "small smile"
                 ]
               ],
@@ -47099,7 +47129,7 @@
                   ""
                 ],
                 [
-                  "Speravo",
+                  "Ho",
                   1,
                   ""
                 ],
@@ -47109,7 +47139,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "sperato",
                   2,
                   ""
                 ],
@@ -47119,8 +47149,18 @@
                   ""
                 ],
                 [
-                  "battere",
+                  "di",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "battere",
+                  4,
                   "b"
                 ],
                 [
@@ -47130,7 +47170,7 @@
                 ],
                 [
                   "Samira",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -53009,12 +53049,12 @@
             },
             {
               "id": "s02e17-6-080",
-              "it": "«Non lo cucino meglio di tutti. Lo cucino come lo cucinava lei.»",
-              "en": "“I don't cook it better than anyone. I cook it the way she cooked it.”",
+              "it": "«Non lo cucino meglio di tutti. Lo cucino con la sua carta.»",
+              "en": "“I don't cook it better than anyone. I cook it with her card.”",
               "voice": [
                 [
                   "lucia",
-                  "Non lo cucino meglio di tutti. Lo cucino come lo cucinava lei.",
+                  "Non lo cucino meglio di tutti. Lo cucino con la sua carta.",
                   "soft"
                 ]
               ],
@@ -53105,7 +53145,7 @@
                   ""
                 ],
                 [
-                  "come",
+                  "con",
                   8,
                   ""
                 ],
@@ -53115,7 +53155,7 @@
                   ""
                 ],
                 [
-                  "lo",
+                  "la",
                   9,
                   ""
                 ],
@@ -53125,7 +53165,7 @@
                   ""
                 ],
                 [
-                  "cucinava",
+                  "sua",
                   10,
                   ""
                 ],
@@ -53135,7 +53175,7 @@
                   ""
                 ],
                 [
-                  "lei",
+                  "carta",
                   11,
                   ""
                 ],

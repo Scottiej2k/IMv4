@@ -370,7 +370,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma, Leo e Chiara sono seduti al tavolo vicino alla finestra. | Emma, Leo and Chiara are sitting at the table near the window. |
 | Ornella è alla sua solita sedia, con il bastone accanto. | Ornella is at her usual chair, with her cane beside her. |
 | «**Giuria**, siete pronte?» | “**Judging panel**, are you ready?” |
-| «Io sono pronta da ottant'anni.» | “I've been ready for eighty years.” |
+| «Io sono pronta da settantotto anni.» | “I've been ready for seventy-eight years.” |
 | Matteo gira il primo tovagliolo e scopre il vassoio di Samira. | Matteo turns the first napkin and uncovers Samira's tray. |
 | Dentro il **vassoio** ci sono tre **coppe** piene di crema chiara. | Inside the **tray** there are three **bowls** full of pale cream. |
 | Sopra la crema c'è un velo sottile di **cacao**. | On top of the cream there's a thin veil of **cocoa**. |
@@ -509,9 +509,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E il mio?» | “And mine?” |
 | Franco posa la tazzina e guarda Kevin negli occhi. | Franco sets down the little cup and looks Kevin in the eyes. |
 | «Il tuo è il **peggiore**. L'ho detto anche ieri, davanti a tutti.» | “Yours is the **worst**. I said it yesterday too, in front of everyone.” |
-| «Lo so. Ma speravo...» | “I know. But I was hoping...” |
-| «Speravi di **battere** il tiramisù di Anna?» | “You were hoping to **beat** Anna's tiramisu?” |
-| «No. Speravo di **battere** Samira.» | “No. I was hoping to **beat** Samira.” |
+| «Lo so. Ma ho sperato...» | “I know. But I hoped...” |
+| «Hai sperato di **battere** il tiramisù di Anna?» | “You hoped to **beat** Anna's tiramisu?” |
+| «No. Ho sperato di **battere** Samira.» | “No. I hoped to **beat** Samira.” |
 | Franco quasi ride, ma non ride. Beve un altro sorso. | Franco almost laughs, but doesn't laugh. He takes another sip. |
 | «Il **gusto** è tuo, però. E un **gusto** nuovo non è un problema.» | “The **taste** is yours, though. And a new **taste** isn't a problem.” |
 | «Davvero?» | “Really?” |
@@ -567,7 +567,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, hai scritto il nome di mamma.» | “Dad, you wrote Mom's name.” |
 | «È la sua ricetta. E il **premio** è suo. Però Lucia lo cucina meglio di tutti.» | “It's her recipe. And the **prize** is hers. But Lucia cooks it better than anyone.” |
 | Lucia mette una mano sulla targa e poi guarda Franco. | Lucia puts a hand on the plaque and then looks at Franco. |
-| «Non lo cucino meglio di tutti. Lo cucino come lo cucinava lei.» | “I don't cook it better than anyone. I cook it the way she cooked it.” |
+| «Non lo cucino meglio di tutti. Lo cucino con la sua carta.» | “I don't cook it better than anyone. I cook it with her card.” |
 | «Ed è per questo che vinci.» | “And that's why you win.” |
 | Matteo prende la targa e la mette sul muro, sopra la macchina del caffè. | Matteo takes the plaque and puts it on the wall, above the coffee machine. |
 | Nadia guarda il muro e sorride, con la mano sulla pancia. | Nadia looks at the wall and smiles, with her hand on her belly. |

@@ -279,10 +279,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Leo's “scelta doppia,” Italian and American; he refuses to name a winner.
 
 ### s02e17 · Il tiramisù più buono del mondo
-- **Happened:** Matteo organizes a tiramisù contest at Bar Tigli. Lucia (using Anna's recipe), Samira, and Kevin compete; Nadia and Ornella are the jury, Franco the sole judge. Franco declares Lucia winner, Samira second, Kevin last but "most original."
-- **New facts:** Silver plaque on Bar Tigli wall: "Il tiramisù più buono del mondo. Ricetta di Anna Ferri." Anna's yellow recipe card (coffee stains, no doses, "quanto basta," ~20 years old) is with Lucia. Anna's small old glass cups, given by Chiara, are with Samira. Samira is Nadia's mother. Kevin's tiramisù uses peanut butter, too much cocoa and sugar, and is heavy and salty.
-- **Changed:** Lucia won and the plaque is now on the bar wall. Kevin's peanut-butter secret is public. Franco asks Kevin to bring his best dessert next Sunday, with less peanut butter. Ornella says "discreto" means "good enough for another piece," almost her best compliment.
-- **Planted:** Ornella promises to make her own "migliore" tiramisù next week; Franco's challenge for Kevin's next dessert.
+- **Happened:** Bar Tigli holds a Sunday tiramisù contest with three contestants (Lucia, Samira, Kevin); Nadia and Ornella judge, Franco is sole giudice. Franco declares Lucia's — made from Anna's recipe — the best, Samira second ("leggero"), Kevin last but with an original gusto; he announces Lucia's win Monday morning.
+- **New facts:** Anna's handwritten tiramisù recipe card (yellow, coffee-stained, no quantities, only "quanto basta") is with Lucia; three old glass coppe of Anna's, passed on by Chiara, are now Samira's. Prize: a silver plaque above the coffee machine reading "Il tiramisù più buono del mondo — Ricetta di Anna Ferri", plus a week's free breakfast. Kevin's entry contains peanut butter; Ornella's "discreto" means "good enough for another helping".
+- **Changed:** Franco publicly honors Anna's recipe with Chiara present. No tu/Lei switch.
+- **Planted:** Ornella will make her own tiramisù "la settimana prossima"; Franco asks Kevin to bring his best dessert the following Sunday.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

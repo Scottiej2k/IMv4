@@ -9735,7 +9735,7 @@
           "s02e17-5-016:0-2"
         ],
         [
-          "s02e17-5-017:0-4"
+          "s02e17-5-017:0-5"
         ]
       ],
       "request": {
@@ -9757,7 +9757,7 @@
               },
               {
                 "type": "text",
-                "text": "Io sono pronta da ottant'anni.",
+                "text": "Io sono pronta da settantotto anni.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13101,13 +13101,13 @@
       ],
       "words": [
         [
-          "s02e17-6-022:0-3"
+          "s02e17-6-022:0-4"
         ],
         [
-          "s02e17-6-023:0-6"
+          "s02e17-6-023:0-7"
         ],
         [
-          "s02e17-6-024:0-4"
+          "s02e17-6-024:0-5"
         ]
       ],
       "request": {
@@ -13118,7 +13118,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Lo so. Ma speravo...",
+                "text": "Lo so. Ma ho sperato...",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13129,7 +13129,7 @@
               },
               {
                 "type": "text",
-                "text": "Speravi di battere il tiramisù di Anna?",
+                "text": "Hai sperato di battere il tiramisù di Anna?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13140,7 +13140,7 @@
               },
               {
                 "type": "text",
-                "text": "No. Speravo di battere Samira.",
+                "text": "No. Ho sperato di battere Samira.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14601,7 +14601,7 @@
               },
               {
                 "type": "text",
-                "text": "Non lo cucino meglio di tutti. Lo cucino come lo cucinava lei.",
+                "text": "Non lo cucino meglio di tutti. Lo cucino con la sua carta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
