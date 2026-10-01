@@ -266,6 +266,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara admits to Franco she yells at everyone; Franco says she's like her mother Anna. Franco gives Chiara Anna's handwritten, coffee-stained lemon-cake recipe.
 - **Planted:** The lemon cake waits on a working oven; Roberto's reply still needs the company's signature.
 
+### s02e15 · Diamoci del tu
+- **Happened:** Kevin bakes Anna Ferri's lemon cake and brings it, with a photo of Gino, to Ornella's birthday; she proposes *diamoci del tu* after eight months of *Lei*. Kevin fixes her broken shutter; she gives him Gino's 1968 record and invites him back Sunday. Leo gives *del Lei* to Pietro, who is offended; Maestra Paola and the school director explain *Lei*.
+- **New facts:** Ornella lights 7 candles though Matteo says she is 78; Kevin is 41; Leo is in terza B at Scuola Gianni Rodari, teacher Maestra Paola; Kevin keeps a yellow notebook; Kevin gave *tu* to Lucia after three months of *Lei*.
+- **Changed:** Ornella and Kevin now use *tu* (she proposed it); Franco calls Kevin "Kevin" for the first time; Roberto still uses *Lei* with Kevin but hints they may switch one day.
+- **Planted:** Sunday record-listening visit and daily walks together (doctor's orders); Roberto's possible *tu*; Leo promised Pietro he'll switch back to *tu*.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
