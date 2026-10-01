@@ -130,7 +130,7 @@ Kevin prende la scopa e pulisce i pezzi **lentamente**. «Posso dare un **consig
 
 «Una cosa alla volta,» ripete Nadia.
 
-«Ho imparato questa **regola** domenica,» dice Kevin.
+«Ho imparato questa **regola** sabato,» dice Kevin.
 
 «Da Franco?» chiede Nadia.
 
@@ -654,7 +654,7 @@ Emma esce dalla sua camera con le cuffie. Guarda Kevin, guarda Leo, guarda la bo
 
 «Non è vero,» dice Kevin.
 
-«**Poco**? L'anno scorso ha raccontato tutto della tua colazione americana,» dice Chiara.
+«Non è **poco**: a marzo ha raccontato a tutti la tua colazione americana,» dice Chiara.
 
 «Ah, è vero,» dice Kevin.
 

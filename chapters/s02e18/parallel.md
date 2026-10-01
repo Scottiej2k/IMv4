@@ -133,7 +133,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì,» dice Nadia. | “Yes,” says Nadia. |
 | «Una cosa alla volta,» dice Kevin. | “One thing at a time,” says Kevin. |
 | «Una cosa alla volta,» ripete Nadia. | “One thing at a time,” Nadia repeats. |
-| «Ho imparato questa **regola** domenica,» dice Kevin. | “I learned this **rule** on Sunday,” says Kevin. |
+| «Ho imparato questa **regola** sabato,» dice Kevin. | “I learned this **rule** on Saturday,” says Kevin. |
 | «Da Franco?» chiede Nadia. | “From Franco?” Nadia asks. |
 | «Sì. Con le bocce,» dice Kevin. | “Yes. With bocce,” says Kevin. |
 | «Franco ti ha insegnato qualcosa?» chiede Matteo. | “Franco taught you something?” Matteo asks. |
@@ -551,7 +551,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma torna in camera sua e chiude la porta **lentamente**. | Emma goes back to her room and closes the door **slowly**. |
 | «Domani a scuola lo racconta a tutti,» dice Chiara. | “Tomorrow at school she'll tell everyone,” says Chiara. |
 | «Non è vero,» dice Kevin. | “That's not true,” says Kevin. |
-| «**Poco**? L'anno scorso ha raccontato tutto della tua colazione americana,» dice Chiara. | “**A little**? Last year she told everyone about your American breakfast,” says Chiara. |
+| «Non è **poco**: a marzo ha raccontato a tutti la tua colazione americana,» dice Chiara. | “It's not **a little**: in March she told everyone about your American breakfast,” says Chiara. |
 | «Ah, è vero,» dice Kevin. | “Ah, that's true,” says Kevin. |
 | «Kevin, **ti alleni** **molto** in casa,» dice Chiara. | “Kevin, **you train** **a lot** at home,” says Chiara. |
 | «Ho il torneo a giugno,» dice Kevin. | “I have the tournament in June,” says Kevin. |

@@ -4836,7 +4836,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ho imparato questa regola domenica,",
+                "text": "Ho imparato questa regola sabato,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -24664,10 +24664,10 @@
       ],
       "words": [
         [
-          "s02e18-7-028:0-9"
+          "s02e18-7-028:0-12"
         ],
         [
-          "s02e18-7-028:10-11"
+          "s02e18-7-028:13-14"
         ]
       ],
       "request": {
@@ -24678,7 +24678,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Poco? L'anno scorso ha raccontato tutto della tua colazione americana,",
+                "text": "Non è poco: a marzo ha raccontato a tutti la tua colazione americana,",
                 "annotations": [
                   {
                     "type": "speech_metadata",

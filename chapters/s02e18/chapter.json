@@ -10839,12 +10839,12 @@
           "segments": [
             {
               "id": "s02e18-2-045",
-              "it": "«Ho imparato questa **regola** domenica,» dice Kevin.",
-              "en": "“I learned this **rule** on Sunday,” says Kevin.",
+              "it": "«Ho imparato questa **regola** sabato,» dice Kevin.",
+              "en": "“I learned this **rule** on Saturday,” says Kevin.",
               "voice": [
                 [
                   "ben",
-                  "Ho imparato questa **regola** domenica,",
+                  "Ho imparato questa **regola** sabato,",
                   ""
                 ],
                 [
@@ -10900,7 +10900,7 @@
                   ""
                 ],
                 [
-                  "domenica",
+                  "sabato",
                   4,
                   ""
                 ],
@@ -45549,12 +45549,12 @@
           "segments": [
             {
               "id": "s02e18-7-028",
-              "it": "«**Poco**? L'anno scorso ha raccontato tutto della tua colazione americana,» dice Chiara.",
-              "en": "“**A little**? Last year she told everyone about your American breakfast,” says Chiara.",
+              "it": "«Non è **poco**: a marzo ha raccontato a tutti la tua colazione americana,» dice Chiara.",
+              "en": "“It's not **a little**: in March she told everyone about your American breakfast,” says Chiara.",
               "voice": [
                 [
                   "chiara",
-                  "**Poco**? L'anno scorso ha raccontato tutto della tua colazione americana,",
+                  "Non è **poco**: a marzo ha raccontato a tutti la tua colazione americana,",
                   ""
                 ],
                 [
@@ -45570,17 +45570,17 @@
                   ""
                 ],
                 [
-                  "Poco",
+                  "Non",
                   0,
-                  "b"
+                  ""
                 ],
                 [
-                  "? ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "L'anno",
+                  "è",
                   1,
                   ""
                 ],
@@ -45590,17 +45590,17 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "poco",
                   2,
-                  ""
+                  "b"
                 ],
                 [
-                  " ",
+                  ": ",
                   -1,
                   ""
                 ],
                 [
-                  "ha",
+                  "a",
                   3,
                   ""
                 ],
@@ -45610,7 +45610,7 @@
                   ""
                 ],
                 [
-                  "raccontato",
+                  "marzo",
                   4,
                   ""
                 ],
@@ -45620,7 +45620,7 @@
                   ""
                 ],
                 [
-                  "tutto",
+                  "ha",
                   5,
                   ""
                 ],
@@ -45630,7 +45630,7 @@
                   ""
                 ],
                 [
-                  "della",
+                  "raccontato",
                   6,
                   ""
                 ],
@@ -45640,7 +45640,7 @@
                   ""
                 ],
                 [
-                  "tua",
+                  "a",
                   7,
                   ""
                 ],
@@ -45650,7 +45650,7 @@
                   ""
                 ],
                 [
-                  "colazione",
+                  "tutti",
                   8,
                   ""
                 ],
@@ -45660,17 +45660,17 @@
                   ""
                 ],
                 [
-                  "americana",
+                  "la",
                   9,
                   ""
                 ],
                 [
-                  ",» ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "dice",
+                  "tua",
                   10,
                   ""
                 ],
@@ -45680,8 +45680,38 @@
                   ""
                 ],
                 [
-                  "Chiara",
+                  "colazione",
                   11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "americana",
+                  12,
+                  ""
+                ],
+                [
+                  ",» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Chiara",
+                  14,
                   ""
                 ],
                 [

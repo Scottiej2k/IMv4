@@ -285,10 +285,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Ornella will make her own tiramisù "la settimana prossima"; Franco asks Kevin to bring his best dessert the following Sunday.
 
 ### s02e18 · Piano piano
-- **Happened:** Kevin joins Franco's bocce team at Parco dei Tigli; he trains with Franco and on Sunday wins the gara 5–4 with the last boccia for the Borgoverde team. Nadia comes back from a checkup: the doctor says she must work little and rest, and at the pharmacy she gives Chiara the same advice (breathe, one thing at a time, don't run) on a piece of paper.
-- **New facts:** Franco keeps a 1978 notebook listing problems, with Kevin's name written under KEVIN. Leo is the team's vice allenatore and keeps a points notebook. The team is four: Franco, Kevin, Leo, Matteo. Gara at nine on Sunday; Ornella watched with her cane.
-- **Changed:** Franco accepts Kevin as a real team member ("sei un giocatore della squadra"); Matteo is trying to do one thing at a time, and promises only to carry Nadia's coat.
-- **Planted:** The primavera torneo and finale in June — payoff later. Nadia's pregnancy and her forced slow-down; all well with the baby.
+- **Happened:** Kevin joins Franco’s three-man bocce team after a fourth player is missing; Franco teaches him the “lento” rule at Wednesday practice. In Sunday’s match Kevin lands the winning point (5–4) with his last boccia; Franco calls him a real team player. Nadia returns from a checkup with doctor’s orders to work less and rest more; she coaches Matteo (and Chiara at the pharmacy) to do one thing at a time.
+- **New facts:** Franco’s bocce notebook dates from 1978 and is the “lista dei problemi”; team has four members; practice is Wednesday, tournament June, Sunday nine o’clock games at Parco dei Tigli; Leo is vice allenatore with a “quaderno dei fatti strani”; Nadia worked ten years in a pharmacy.
+- **Changed:** Franco accepts Kevin as a teammate and Leo as vice coach; Kevin and Matteo now see Nadia’s rest as a household rule.
+- **Planted:** June bocce tournament and finale (payoff expected later this season); Matteo’s new “una cosa alla volta” discipline.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

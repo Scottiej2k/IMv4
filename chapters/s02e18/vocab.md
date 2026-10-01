@@ -31,7 +31,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **la gara**<br>(n., f) · competition; game | «Sì, per la **gara**,» dice Kevin. | “Yes, for the **game**,” says Kevin. |
 | **il movimento**<br>(n., m) · movement | «Un **movimento** alla volta,» dice Nadia. | “One **movement** at a time,” says Nadia. |
 | **la forza**<br>(n., f) · strength | «Ma ha **forza**?» chiede Leo. | “But does he have **strength**?” Leo asks. |
-| **la regola**<br>(n., f) · rule | «Ho imparato questa **regola** domenica,» dice Kevin. | “I learned this **rule** on Sunday,” says Kevin. |
+| **la regola**<br>(n., f) · rule | «Ho imparato questa **regola** sabato,» dice Kevin. | “I learned this **rule** on Saturday,” says Kevin. |
 | **il consiglio**<br>(n., m) · tip; piece of advice | «Franco, un **consiglio**,» dice Kevin. | “Franco, a **tip**,” says Kevin. |
 | **la pazienza**<br>(n., f) · patience | «E la **pazienza**?» chiede Franco. | “And **patience**?” Franco asks. |
 
