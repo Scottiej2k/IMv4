@@ -28,7 +28,7 @@
       "lemma": "meglio",
       "pos": "adverb",
       "en": "better",
-      "example": "s02e16-3-050",
+      "example": "s02e16-3-049",
       "target": {
         "it": "meglio",
         "en": "better"
@@ -51,7 +51,7 @@
       "lemma": "la differenza",
       "pos": "noun",
       "en": "difference",
-      "example": "s02e16-3-073",
+      "example": "s02e16-3-072",
       "target": {
         "it": "differenza",
         "en": "difference"
@@ -214,7 +214,7 @@
       "lemma": "il formaggio",
       "pos": "noun",
       "en": "cheese",
-      "example": "s02e16-3-083",
+      "example": "s02e16-3-082",
       "target": {
         "it": "formaggio",
         "en": "cheese"
@@ -12816,12 +12816,12 @@
             },
             {
               "id": "s02e16-2-044",
-              "it": "«Il parmigiano ha tre anni» aggiunge.",
-              "en": "“Parmesan is three years old,” he adds.",
+              "it": "«Il parmigiano ha otto anni» aggiunge.",
+              "en": "“Parmesan is eight years old,” he adds.",
               "voice": [
                 [
                   "franco",
-                  "Il parmigiano ha tre anni",
+                  "Il parmigiano ha otto anni",
                   ""
                 ],
                 [
@@ -12867,7 +12867,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "otto",
                   3,
                   ""
                 ],
@@ -12904,12 +12904,12 @@
           "segments": [
             {
               "id": "s02e16-2-045",
-              "it": "«Tre anni? Come me?» dice Leo.",
-              "en": "“Three years? Like me?” Leo says.",
+              "it": "«Otto anni? Come me?» dice Leo.",
+              "en": "“Eight years? Like me?” Leo says.",
               "voice": [
                 [
                   "leo",
-                  "Tre anni? Come me?",
+                  "Otto anni? Come me?",
                   "surprised"
                 ],
                 [
@@ -12925,7 +12925,7 @@
                   ""
                 ],
                 [
-                  "Tre",
+                  "Otto",
                   0,
                   ""
                 ],
@@ -19165,100 +19165,6 @@
           "segments": [
             {
               "id": "s02e16-3-022",
-              "it": "Aspetta. Leo non è ancora arrivato a scuola?",
-              "en": "Wait. Hasn't Leo left for school yet?",
-              "voice": [
-                [
-                  "narrator",
-                  "Aspetta. Leo non è ancora arrivato a scuola?",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Aspetta",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Leo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ancora",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "arrivato",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scuola",
-                  7,
-                  ""
-                ],
-                [
-                  "?",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e16-3-023",
               "it": "Kevin guarda l'orologio. Sono le sette.",
               "en": "Kevin looks at the clock. It's seven.",
               "voice": [
@@ -19332,7 +19238,7 @@
               ]
             },
             {
-              "id": "s02e16-3-024",
+              "id": "s02e16-3-023",
               "it": "«Leo! La scuola!» dice Kevin.",
               "en": "“Leo! School!” Kevin says.",
               "voice": [
@@ -19410,7 +19316,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-025",
+              "id": "s02e16-3-024",
               "it": "«Ho tempo» dice Leo, e si siede.",
               "en": "“I have time,” Leo says, and sits down.",
               "voice": [
@@ -19508,7 +19414,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-026",
+              "id": "s02e16-3-025",
               "it": "Il signore con il cappello **assaggia** il suo caffè.",
               "en": "The man with the hat **tastes** his coffee.",
               "voice": [
@@ -19615,7 +19521,7 @@
               ]
             },
             {
-              "id": "s02e16-3-027",
+              "id": "s02e16-3-026",
               "it": "«Buono. Ha un **sapore** leggero» dice.",
               "en": "“Good. It has a light **flavor**,” he says.",
               "voice": [
@@ -19706,7 +19612,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-028",
+              "id": "s02e16-3-027",
               "it": "«Leggero come il **tè**» dice Franco.",
               "en": "“Light like **tea**,” Franco says.",
               "voice": [
@@ -19797,7 +19703,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-029",
+              "id": "s02e16-3-028",
               "it": "«No, il **tè** è diverso» dice Kevin.",
               "en": "“No, **tea** is different,” Kevin says.",
               "voice": [
@@ -19898,7 +19804,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-030",
+              "id": "s02e16-3-029",
               "it": "«Il tè ha un sapore, il caffè americano ha acqua» dice.",
               "en": "“Tea has a flavor, American coffee has water,” Franco says.",
               "voice": [
@@ -20032,7 +19938,7 @@
               ]
             },
             {
-              "id": "s02e16-3-031",
+              "id": "s02e16-3-030",
               "it": "«E il **confronto** è finito» aggiunge.",
               "en": "“And the **comparison** is over,” he adds.",
               "voice": [
@@ -20123,7 +20029,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-032",
+              "id": "s02e16-3-031",
               "it": "«Non è finito niente. Io non sono **d'accordo**» dice Kevin.",
               "en": "“Nothing is over. I don't **agree**,” Kevin says.",
               "voice": [
@@ -20254,7 +20160,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-033",
+              "id": "s02e16-3-032",
               "it": "«Kevin, quando vinci tu?» chiede Matteo.",
               "en": "“Kevin, when do you win?” Matteo asks.",
               "voice": [
@@ -20342,7 +20248,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-034",
+              "id": "s02e16-3-033",
               "it": "Matteo prende un panno e pulisce il banco.",
               "en": "Matteo takes a cloth and cleans the counter.",
               "voice": [
@@ -20436,7 +20342,7 @@
               ]
             },
             {
-              "id": "s02e16-3-035",
+              "id": "s02e16-3-034",
               "it": "_Pietro ha un papà che gioca a calcio con lui._",
               "en": "_Pietro has a dad who plays soccer with him._",
               "voice": [
@@ -20550,7 +20456,7 @@
               ]
             },
             {
-              "id": "s02e16-3-036",
+              "id": "s02e16-3-035",
               "it": "_Roberto porta Tommaso al mare ogni estate._",
               "en": "_Roberto takes Tommaso to the sea every summer._",
               "voice": [
@@ -20634,7 +20540,7 @@
               ]
             },
             {
-              "id": "s02e16-3-037",
+              "id": "s02e16-3-036",
               "it": "_Io non ho **vinto** niente, in questo **confronto**._",
               "en": "_I haven't **won** anything in this **comparison**._",
               "voice": [
@@ -20736,7 +20642,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-038",
+              "id": "s02e16-3-037",
               "it": "«Matteo, che hai?» chiede Nadia dalle scale.",
               "en": "“Matteo, what's wrong?” Nadia asks from the stairs.",
               "voice": [
@@ -20830,7 +20736,7 @@
               ]
             },
             {
-              "id": "s02e16-3-039",
+              "id": "s02e16-3-038",
               "it": "Nadia scende piano, con una mano sulla schiena.",
               "en": "Nadia comes down slowly, with a hand on her back.",
               "voice": [
@@ -20928,7 +20834,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-040",
+              "id": "s02e16-3-039",
               "it": "«Niente. Penso» risponde Matteo.",
               "en": "“Nothing. I'm thinking,” Matteo answers.",
               "voice": [
@@ -20996,7 +20902,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-041",
+              "id": "s02e16-3-040",
               "it": "«Tu pensi? Allora è grave» dice Nadia.",
               "en": "“You're thinking? Then it's serious,” Nadia says.",
               "voice": [
@@ -21094,7 +21000,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-042",
+              "id": "s02e16-3-041",
               "it": "«Sto **paragonando** me stesso agli altri papà» dice piano.",
               "en": "“I'm **comparing** myself to the other dads,” Matteo says quietly.",
               "voice": [
@@ -21215,7 +21121,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-043",
+              "id": "s02e16-3-042",
               "it": "«Ah. E chi **perde**?» chiede Nadia.",
               "en": "“Ah. And who **loses**?” Nadia asks.",
               "voice": [
@@ -21306,7 +21212,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-044",
+              "id": "s02e16-3-043",
               "it": "«Io **perdo**. Sempre io» dice Matteo.",
               "en": "“I **lose**. Always me,” Matteo says.",
               "voice": [
@@ -21397,7 +21303,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-045",
+              "id": "s02e16-3-044",
               "it": "Nadia si siede vicino a lui.",
               "en": "Nadia sits down next to him.",
               "voice": [
@@ -21471,7 +21377,7 @@
               ]
             },
             {
-              "id": "s02e16-3-046",
+              "id": "s02e16-3-045",
               "it": "«Matteo, il **confronto** con gli altri papà è una **gara** stupida» dice.",
               "en": "“Matteo, the **comparison** with other dads is a stupid **contest**,” Nadia says.",
               "voice": [
@@ -21623,7 +21529,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-047",
+              "id": "s02e16-3-046",
               "it": "Intanto Kevin porta il caffè a Franco.",
               "en": "Meanwhile Kevin brings coffee to Franco.",
               "voice": [
@@ -21707,7 +21613,7 @@
               ]
             },
             {
-              "id": "s02e16-3-048",
+              "id": "s02e16-3-047",
               "it": "«Ecco. Caffè italiano. Piccolo e forte» dice Kevin.",
               "en": "“Here. Italian coffee. Small and strong.”",
               "voice": [
@@ -21815,7 +21721,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-049",
+              "id": "s02e16-3-048",
               "it": "Franco **assaggia** e chiude gli occhi.",
               "en": "Franco **tastes** it and closes his eyes.",
               "voice": [
@@ -21892,7 +21798,7 @@
               ]
             },
             {
-              "id": "s02e16-3-050",
+              "id": "s02e16-3-049",
               "it": "«Questo è **meglio**» dice.",
               "en": "“This is **better**,” Franco says.",
               "voice": [
@@ -21963,7 +21869,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-051",
+              "id": "s02e16-3-050",
               "it": "«Meglio di cosa?» chiede Kevin.",
               "en": "“Better than what?” Kevin asks.",
               "voice": [
@@ -22041,7 +21947,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-052",
+              "id": "s02e16-3-051",
               "it": "«Meglio di tutto» risponde.",
               "en": "“Better than everything,” Franco answers.",
               "voice": [
@@ -22109,7 +22015,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-053",
+              "id": "s02e16-3-052",
               "it": "«Nonno, il caffè è **meglio** del tè?» chiede Leo.",
               "en": "“Grandpa, is coffee **better** than tea?” Leo asks.",
               "voice": [
@@ -22230,7 +22136,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-054",
+              "id": "s02e16-3-053",
               "it": "«Il caffè è come la vita» dice Franco.",
               "en": "“Coffee is like life,” Franco says.",
               "voice": [
@@ -22334,7 +22240,7 @@
               ]
             },
             {
-              "id": "s02e16-3-055",
+              "id": "s02e16-3-054",
               "it": "«Piccolo e forte» aggiunge.",
               "en": "“Small and strong,” he adds.",
               "voice": [
@@ -22402,7 +22308,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-056",
+              "id": "s02e16-3-055",
               "it": "Kevin prende il quaderno giallo e scrive.",
               "en": "Kevin takes the yellow notebook and writes.",
               "voice": [
@@ -22486,7 +22392,7 @@
               ]
             },
             {
-              "id": "s02e16-3-057",
+              "id": "s02e16-3-056",
               "it": "_Piccolo e forte._",
               "en": "_Small and strong._",
               "voice": [
@@ -22530,7 +22436,7 @@
               ]
             },
             {
-              "id": "s02e16-3-058",
+              "id": "s02e16-3-057",
               "it": "«Bella frase» dice Kevin.",
               "en": "“Nice sentence,” Kevin says.",
               "voice": [
@@ -22598,7 +22504,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-059",
+              "id": "s02e16-3-058",
               "it": "«Kevin, il **panino** con il **formaggio** è pronto?» chiede Matteo.",
               "en": "“Kevin, is the **sandwich** with **cheese** ready?” Matteo asks.",
               "voice": [
@@ -22730,7 +22636,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-060",
+              "id": "s02e16-3-059",
               "it": "«Sì, eccolo» dice Kevin.",
               "en": "“Yes, here it is,” Kevin says.",
               "voice": [
@@ -22798,7 +22704,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-061",
+              "id": "s02e16-3-060",
               "it": "«Anche il pane americano è **diverso**?» chiede Leo.",
               "en": "“Is American bread **different** too?” Leo asks.",
               "voice": [
@@ -22909,7 +22815,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-062",
+              "id": "s02e16-3-061",
               "it": "«Il pane è pane» dice Franco.",
               "en": "“Bread is bread,” Franco says.",
               "voice": [
@@ -22997,7 +22903,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-063",
+              "id": "s02e16-3-062",
               "it": "«Questa è una risposta vera» dice Leo.",
               "en": "“That's a real answer,” Leo says.",
               "voice": [
@@ -23095,7 +23001,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-064",
+              "id": "s02e16-3-063",
               "it": "Il signore con il cappello paga e va via.",
               "en": "The man with the hat pays and leaves.",
               "voice": [
@@ -23199,7 +23105,7 @@
               ]
             },
             {
-              "id": "s02e16-3-065",
+              "id": "s02e16-3-064",
               "it": "«Torno domani. Con un altro caffè americano» dice.",
               "en": "“I'll come back tomorrow. With another American coffee,” he says.",
               "voice": [
@@ -23307,7 +23213,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-066",
+              "id": "s02e16-3-065",
               "it": "Franco alza gli occhi al cielo.",
               "en": "Franco rolls his eyes.",
               "voice": [
@@ -23381,7 +23287,7 @@
               ]
             },
             {
-              "id": "s02e16-3-067",
+              "id": "s02e16-3-066",
               "it": "«Allora domani porto il **tè**» dice.",
               "en": "“Then tomorrow I'll bring **tea**,” Franco says.",
               "voice": [
@@ -23472,7 +23378,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-068",
+              "id": "s02e16-3-067",
               "it": "Leo guarda il nonno e poi il papà.",
               "en": "Leo looks at his grandpa and then at his dad.",
               "voice": [
@@ -23566,7 +23472,7 @@
               ]
             },
             {
-              "id": "s02e16-3-069",
+              "id": "s02e16-3-068",
               "it": "«Chi **vince** questa **gara** del caffè?» chiede.",
               "en": "“Who **wins** this coffee **contest**?” Leo asks.",
               "voice": [
@@ -23668,7 +23574,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-070",
+              "id": "s02e16-3-069",
               "it": "«Nessuno» dice Franco.",
               "en": "“Nobody,” Franco says.",
               "voice": [
@@ -23722,7 +23628,7 @@
               ]
             },
             {
-              "id": "s02e16-3-071",
+              "id": "s02e16-3-070",
               "it": "«Però il caffè italiano costa **meno** e sa di **più**» aggiunge.",
               "en": "“But Italian coffee costs **less** and tastes like **more**,” he adds.",
               "voice": [
@@ -23864,7 +23770,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-072",
+              "id": "s02e16-3-071",
               "it": "«E questa è una vittoria?» chiede ancora.",
               "en": "“And is that a win?” Leo asks again.",
               "voice": [
@@ -23962,7 +23868,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-073",
+              "id": "s02e16-3-072",
               "it": "«Questa è la **differenza**» dice Franco.",
               "en": "“This is the **difference**,” Franco says.",
               "voice": [
@@ -24053,7 +23959,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-074",
+              "id": "s02e16-3-073",
               "it": "Nadia si alza e prende il **panino** di Matteo.",
               "en": "Nadia gets up and takes Matteo's **sandwich**.",
               "voice": [
@@ -24160,7 +24066,7 @@
               ]
             },
             {
-              "id": "s02e16-3-075",
+              "id": "s02e16-3-074",
               "it": "«Adesso mangio. Il bambino ha fame» dice.",
               "en": "“Now I'm eating. The baby is hungry,” she says.",
               "voice": [
@@ -24258,7 +24164,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-076",
+              "id": "s02e16-3-075",
               "it": "Matteo la guarda e sorride un po'.",
               "en": "Matteo looks at her and smiles a little.",
               "voice": [
@@ -24342,7 +24248,7 @@
               ]
             },
             {
-              "id": "s02e16-3-077",
+              "id": "s02e16-3-076",
               "it": "_Forse non **perdo** sempre._",
               "en": "_Maybe I don't always **lose**._",
               "voice": [
@@ -24403,7 +24309,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-078",
+              "id": "s02e16-3-077",
               "it": "Kevin pulisce il banco e guarda il suo quaderno.",
               "en": "Kevin cleans the counter and looks at his notebook.",
               "voice": [
@@ -24507,7 +24413,7 @@
               ]
             },
             {
-              "id": "s02e16-3-079",
+              "id": "s02e16-3-078",
               "it": "«Leo, vai a scuola. Adesso» dice Kevin.",
               "en": "“Leo, go to school. Now,” Kevin says.",
               "voice": [
@@ -24605,7 +24511,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-080",
+              "id": "s02e16-3-079",
               "it": "«Vado, vado» dice Leo.",
               "en": "“I'm going, I'm going,” Leo says.",
               "voice": [
@@ -24669,7 +24575,7 @@
               ]
             },
             {
-              "id": "s02e16-3-081",
+              "id": "s02e16-3-080",
               "it": "«Ma oggi **paragono** l'**Italia** e l'America con la maestra» aggiunge.",
               "en": "“But today I'll **compare** **Italy** and America with my teacher,” he adds.",
               "voice": [
@@ -24811,7 +24717,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-082",
+              "id": "s02e16-3-081",
               "it": "«E il **formaggio**? Lo porti a scuola?» chiede Matteo.",
               "en": "“And the **cheese**? Are you taking it to school?” Matteo asks.",
               "voice": [
@@ -24932,7 +24838,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-083",
+              "id": "s02e16-3-082",
               "it": "«No. Il **formaggio** resta al bar» dice Leo.",
               "en": "“No. The **cheese** stays at the bar,” Leo says.",
               "voice": [
@@ -25043,7 +24949,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-3-084",
+              "id": "s02e16-3-083",
               "it": "«Bravo» dice Franco.",
               "en": "“Good boy,” Franco says.",
               "voice": [
@@ -32857,110 +32763,6 @@
             },
             {
               "id": "s02e16-4-080",
-              "it": "Poi legge la frase di Franco, scritta in grande.",
-              "en": "Then she reads Franco's sentence, written in big letters.",
-              "voice": [
-                [
-                  "narrator",
-                  "Poi legge la frase di Franco, scritta in grande.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Poi",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "legge",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "frase",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  5,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "scritta",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "in",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "grande",
-                  8,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e16-4-081",
               "it": "Poi legge la frase di Franco: “Grande non è meglio”.",
               "en": "Then she reads Franco's sentence: “Big isn't better.”",
               "voice": [
@@ -33078,7 +32880,7 @@
         {
           "segments": [
             {
-              "id": "s02e16-4-082",
+              "id": "s02e16-4-081",
               "it": "Chiara chiude il quaderno e beve l'ultimo sorso di **tè**.",
               "en": "Chiara closes the notebook and drinks the last sip of **tea**.",
               "voice": [
@@ -33195,7 +32997,7 @@
               ]
             },
             {
-              "id": "s02e16-4-083",
+              "id": "s02e16-4-082",
               "it": "_C'è una **differenza** tra i due paesi._",
               "en": "_There's a **difference** between the two countries._",
               "voice": [
@@ -33282,7 +33084,7 @@
               ]
             },
             {
-              "id": "s02e16-4-084",
+              "id": "s02e16-4-083",
               "it": "_Ma io non so chi **vince**, e non è importante._",
               "en": "_But I don't know who **wins**, and it isn't important._",
               "voice": [
@@ -33399,7 +33201,7 @@
               ]
             },
             {
-              "id": "s02e16-4-085",
+              "id": "s02e16-4-084",
               "it": "_Io so solo che sono a casa._",
               "en": "_I only know that I'm home._",
               "voice": [
@@ -35702,12 +35504,12 @@
             },
             {
               "id": "s02e16-5-025",
-              "it": "«Kevin, il caffè di ieri era **diverso**» dice Franco.",
+              "it": "«Kevin, il caffè di ieri è stato **diverso**» dice Franco.",
               "en": "“Kevin, yesterday's coffee was **different**,” Franco says.",
               "voice": [
                 [
                   "franco",
-                  "Kevin, il caffè di ieri era **diverso**",
+                  "Kevin, il caffè di ieri è stato **diverso**",
                   ""
                 ],
                 [
@@ -35773,7 +35575,7 @@
                   ""
                 ],
                 [
-                  "era",
+                  "è",
                   5,
                   ""
                 ],
@@ -35783,8 +35585,18 @@
                   ""
                 ],
                 [
-                  "diverso",
+                  "stato",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "diverso",
+                  7,
                   "b"
                 ],
                 [
@@ -35794,7 +35606,7 @@
                 ],
                 [
                   "dice",
-                  7,
+                  8,
                   ""
                 ],
                 [
@@ -35804,7 +35616,7 @@
                 ],
                 [
                   "Franco",
-                  8,
+                  9,
                   ""
                 ],
                 [
@@ -49356,18 +49168,18 @@
           "segments": [
             {
               "id": "s02e16-7-027",
-              "it": "_E sempre una **gara**._",
+              "it": "_È sempre una **gara**._",
               "en": "_Always a **contest**._",
               "voice": [
                 [
                   "ben",
-                  "E sempre una **gara**.",
+                  "È sempre una **gara**.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "E",
+                  "È",
                   0,
                   "i"
                 ],

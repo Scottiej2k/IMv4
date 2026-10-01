@@ -145,8 +145,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Questa è una frase importante._ | _This is an important sentence._ |
 | «E il **formaggio**? Il **formaggio** italiano è meglio?» chiede. | “And **cheese**? Is Italian **cheese** better?” Leo asks. |
 | «Il **formaggio** italiano è **più vecchio**. E più vecchio è **più buono**» dice. | “Italian **cheese** is **older**. And older is **better**,” Franco says. |
-| «Il parmigiano ha tre anni» aggiunge. | “Parmesan is three years old,” he adds. |
-| «Tre anni? Come me?» dice Leo. | “Three years? Like me?” Leo says. |
+| «Il parmigiano ha otto anni» aggiunge. | “Parmesan is eight years old,” he adds. |
+| «Otto anni? Come me?» dice Leo. | “Eight years? Like me?” Leo says. |
 | «Quasi» dice Franco. | “Almost,” Franco says. |
 | Lucia ride e mette giù la tazza. | Lucia laughs and puts down the cup. |
 | «Leo, il tè qui è caldo. In America è freddo» dice Lucia. | “Leo, tea here is hot. In America it's cold,” Lucia says. |
@@ -215,7 +215,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Diverso** dal caffè» dice Franco. | “**Different** from coffee,” Franco says. |
 | Matteo ride. Kevin prepara l'americano. | Matteo laughs. Kevin makes the americano. |
 | «Io ho fatto un'**intervista** al nonno ieri» dice Leo dalla porta. | “I did an **interview** with Grandpa yesterday,” Leo says from the door. |
-| Aspetta. Leo non è ancora arrivato a scuola? | Wait. Hasn't Leo left for school yet? |
 | Kevin guarda l'orologio. Sono le sette. | Kevin looks at the clock. It's seven. |
 | «Leo! La scuola!» dice Kevin. | “Leo! School!” Kevin says. |
 | «Ho tempo» dice Leo, e si siede. | “I have time,” Leo says, and sits down. |
@@ -362,7 +361,6 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Più tardi, Leo va a letto. | Later, Leo goes to bed. |
 | Chiara resta in cucina e guarda il quaderno di Leo. | Chiara stays in the kitchen and looks at Leo's notebook. |
 | Legge le frasi del padre, di Emma, e le sue. | She reads her father's sentences, Emma's, and her own. |
-| Poi legge la frase di Franco, scritta in grande. | Then she reads Franco's sentence, written in big letters. |
 | Poi legge la frase di Franco: “Grande non è meglio”. | Then she reads Franco's sentence: “Big isn't better.” |
 | Chiara chiude il quaderno e beve l'ultimo sorso di **tè**. | Chiara closes the notebook and drinks the last sip of **tea**. |
 | _C'è una **differenza** tra i due paesi._ | _There's a **difference** between the two countries._ |
@@ -397,7 +395,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. E hai **scelto** bene la squadra» dice Nadia. | “Yes. And you **chose** the right team,” Nadia says. |
 | In quel momento entra Franco. | At that moment Franco comes in. |
 | Va al banco e guarda Kevin con attenzione. | He goes to the counter and looks at Kevin carefully. |
-| «Kevin, il caffè di ieri era **diverso**» dice Franco. | “Kevin, yesterday's coffee was **different**,” Franco says. |
+| «Kevin, il caffè di ieri è stato **diverso**» dice Franco. | “Kevin, yesterday's coffee was **different**,” Franco says. |
 | «**Diverso** in che senso?» chiede Kevin. | “**Different** in what way?” Kevin asks. |
 | «Il **sapore** è **diverso** dal nostro» dice. | “The **flavor** is **different** from ours,” Franco says. |
 | «Ma l'abitudine è **uguale**» | “But the habit is **the same**.” |
@@ -554,4 +552,4 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin apre la bocca, sorpreso. | Kevin opens his mouth, surprised. |
 | Poi Matteo grida dal banco. | Then Matteo shouts from the counter. |
 | «Ehi! Il caffè è mio!» | “Hey! That coffee is mine!” |
-| _E sempre una **gara**._ | _Always a **contest**._ |
+| _È sempre una **gara**._ | _Always a **contest**._ |

@@ -154,9 +154,9 @@ Leo scrive la frase con grande attenzione. _Questa è una frase importante._
 
 «E il **formaggio**? Il **formaggio** italiano è meglio?» chiede.
 
-«Il **formaggio** italiano è **più vecchio**. E più vecchio è **più buono**» dice. «Il parmigiano ha tre anni» aggiunge.
+«Il **formaggio** italiano è **più vecchio**. E più vecchio è **più buono**» dice. «Il parmigiano ha otto anni» aggiunge.
 
-«Tre anni? Come me?» dice Leo.
+«Otto anni? Come me?» dice Leo.
 
 «Quasi» dice Franco.
 
@@ -230,7 +230,7 @@ Matteo si ferma con la tazza in mano. «Un caffè... americano?» ripete.
 
 Matteo ride. Kevin prepara l'americano. «Io ho fatto un'**intervista** al nonno ieri» dice Leo dalla porta.
 
-Aspetta. Leo non è ancora arrivato a scuola? Kevin guarda l'orologio. Sono le sette. «Leo! La scuola!» dice Kevin.
+Kevin guarda l'orologio. Sono le sette. «Leo! La scuola!» dice Kevin.
 
 «Ho tempo» dice Leo, e si siede.
 
@@ -412,7 +412,7 @@ Kevin pensa un momento. «...Forse. Ma il caffè americano è più buono» dice.
 
 «No!» dice Emma, e Chiara dice la stessa cosa. Leo scrive: “Litigio numero nove”.
 
-Più tardi, Leo va a letto. Chiara resta in cucina e guarda il quaderno di Leo. Legge le frasi del padre, di Emma, e le sue. Poi legge la frase di Franco, scritta in grande. Poi legge la frase di Franco: “Grande non è meglio”.
+Più tardi, Leo va a letto. Chiara resta in cucina e guarda il quaderno di Leo. Legge le frasi del padre, di Emma, e le sue. Poi legge la frase di Franco: “Grande non è meglio”.
 
 Chiara chiude il quaderno e beve l'ultimo sorso di **tè**. _C'è una **differenza** tra i due paesi._ _Ma io non so chi **vince**, e non è importante._ _Io so solo che sono a casa._
 
@@ -442,7 +442,7 @@ Matteo la guarda. Poi guarda la pancia. «Non ho **perso** niente?» chiede.
 
 «Sì. E hai **scelto** bene la squadra» dice Nadia.
 
-In quel momento entra Franco. Va al banco e guarda Kevin con attenzione. «Kevin, il caffè di ieri era **diverso**» dice Franco.
+In quel momento entra Franco. Va al banco e guarda Kevin con attenzione. «Kevin, il caffè di ieri è stato **diverso**» dice Franco.
 
 «**Diverso** in che senso?» chiede Kevin.
 
@@ -602,4 +602,4 @@ Leo entra con il quaderno e si siede vicino al nonno. «Nonno, oggi ho letto la 
 
 Kevin apre la bocca, sorpreso. Poi Matteo grida dal banco. «Ehi! Il caffè è mio!»
 
-_E sempre una **gara**._
+_È sempre una **gara**._

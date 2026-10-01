@@ -31,7 +31,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **l'Italia**<br>(n., f) · Italy | «Si chiama: **L'Italia** e l'America» | “It's called: **Italy** and America.” |
 | **il confronto**<br>(n., m) · comparison | _Solo stasera, niente **confronto**._ | _Just tonight, no **comparison**._ |
 | **il parere**<br>(n., m) · opinion | «E il mio **parere**?» chiede Kevin. | “And my **opinion**?” Kevin asks. |
-| **la gara**<br>(n., f) · contest, competition | _E sempre una **gara**._ | _Always a **contest**._ |
+| **la gara**<br>(n., f) · contest, competition | _È sempre una **gara**._ | _Always a **contest**._ |
 | **il sapore**<br>(n., m) · flavor, taste | «Buono! Ha un **sapore** forte» dice. | “Good! It has a strong **flavor**,” Leo says. |
 | **il tè**<br>(n., m) · tea | «Il **tè**?» chiede Kevin. | “**Tea**?” Kevin asks. |
 | **il formaggio**<br>(n., m) · cheese | «No. Il **formaggio** resta al bar» dice Leo. | “No. The **cheese** stays at the bar,” Leo says. |
