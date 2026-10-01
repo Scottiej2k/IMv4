@@ -45,7 +45,7 @@ Matteo arriva dalla cucina con il telefono in mano. || Matteo comes out of the k
 «È la stessa cosa, amico mio.»{matteo} || “It's the same thing, my friend.”
 
 Kevin prende uno straccio e pulisce il bancone. || Kevin takes a cloth and wipes the counter.
-_Due mesi fa non capivo niente di questo lavoro._{ben} || *Two months ago I understood nothing about this job.*
+_Due mesi fa non ho capito niente di questo lavoro._{ben} || *Two months ago I understood nothing about this job.*
 
 Franco entra, senza fretta, e si siede al suo posto. || Franco comes in, unhurried, and sits in his place.
 «Buongiorno.»{franco} || “Good morning.”
@@ -103,7 +103,7 @@ Ornella prende il telefono dalla mano di Matteo e legge, piano. || Ornella takes
 «Venti minuti a piedi. Conosco quella zona.»{ornella} || “Twenty minutes on foot. I know that area.”
 
 Kevin guarda il bancone, le tazze, il caffè. || Kevin looks at the counter, the cups, the coffee.
-_Due mesi fa non capivo nemmeno l'**orario** del bar._{ben} || *Two months ago I couldn't even understand the bar's **hours**.*
+_Due mesi fa non ho capito nemmeno l'**orario** del bar._{ben} || *Two months ago I couldn't even understand the bar's **hours**.*
 _E adesso apro io alle sei. E adesso leggo le offerte di lavoro._{ben} || *And now I open at six. And now I read job ads.*
 «Allora?»{franco} || “So?”
 «Allora che cosa?»{ben} || “So what?”
@@ -145,7 +145,7 @@ Emma legge in silenzio. Poi alza un dito. || Emma reads in silence. Then she rai
 Kevin cancella e riscrive. Emma indica un'altra riga. || Kevin deletes and retypes. Emma points at another line.
 «E "esperienze"? Questa parola è troppo grande. Scrivi l'**esperienza** con i numeri.»{emma} || “And ‘experience’? That word is too big. Write the **experience** with numbers.”
 «Con i numeri?»{ben} || “With numbers?”
-«Sì. Dodici anni in una **azienda** alimentare. Otto mesi in un bar. Così si capisce subito.»{emma} || “Yes. Twelve years at a food **company**. Eight months in a bar. That way they understand right away.”
+«Sì. Dodici anni in una **azienda** alimentare. Due mesi in un bar. Così si capisce subito.»{emma} || “Yes. Twelve years at a food **company**. Two months in a bar. That way they understand right away.”
 
 Kevin scrive, poi si ferma. || Kevin types, then stops.
 «Emma, ho una **paura**.»{ben} || “Emma, I have a **fear**.”
@@ -578,8 +578,8 @@ Kevin ride per la prima volta da tre ore. || Kevin laughs for the first time in 
 Franco è seduto al solito posto, con il caffè. || Franco is sitting in his usual place, with his coffee.
 «Posso dire una cosa anch'io?»{franco} || “Can I say something too?”
 «Certo, Franco.»{ben} || “Of course, Franco.”
-«Io ho guidato il tram **per** trentacinque anni.»{franco} || “I drove the tram **for** thirty-five years.”
-«Trentacinque anni. Come hai fatto?»{ben} || “Thirty-five years. How did you do it?”
+«Io ho guidato il tram **per** quarant'anni.»{franco} || “I drove the tram **for** forty years.”
+«Quarant'anni. Come hai fatto?»{ben} || “Forty years. How did you do it?”
 «Ho **scelto** il lavoro. Il lavoro non ha scelto me.»{franco} || “I **chose** the job. The job didn't choose me.”
 Kevin resta in silenzio. || Kevin stays silent.
 
@@ -596,7 +596,7 @@ La porta si apre piano ed entra Ornella con il bastone. || The door opens quietl
 
 Ornella viene verso il bancone, piano, e si siede. || Ornella comes toward the counter, slowly, and sits down.
 «**Abito** qui **da** cinquantadue anni, Kevin.»{ornella} || “I've lived here **for** fifty-two years, Kevin.”
-«Lo so. Me l'hai detto stamattina.»{ben} || “I know. You told me this morning.”
+«Lo so. Me l'hai detto giovedì.»{ben} || “I know. You told me on Thursday.”
 «E visto tutto, su questa strada.»{ornella} || “And I've seen everything, on this street.”
 «Anche le **decisioni** difficili?»{ben} || “Even the difficult **decisions**?”
 «Soprattutto quelle.»{ornella} || “Especially those.”
@@ -641,9 +641,9 @@ E chiude la porta piano, senza rumore. || And she closes the door quietly, witho
 Kevin rimane solo con il foglio in mano e il **dubbio** nel petto. || Kevin stays alone with the sheet in his hand and the **doubt** in his chest.
 Fuori, in Via dei Tigli, non passa più nessuno. || Outside, on Via dei Tigli, nobody passes anymore.
 
-# SCENE casa-carter | domenica sera | leo, emma, chiara, ben
+# SCENE casa-carter | mercoledì sera | leo, emma, chiara, ben
 
-Domenica sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. || Sunday evening, after dinner, there are still dishes on the kitchen table.
+Mercoledì sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. || Wednesday evening, after dinner, there are still dishes on the kitchen table.
 Kevin guarda il telefono, che è posato accanto al bicchiere. || Kevin looks at his phone, which is resting next to his glass.
 Sul tavolo c'è anche il foglio dell'azienda, piegato in quattro. || On the table there's also the company sheet, folded in four.
 Leo sale sulla sedia e batte le mani. || Leo climbs on the chair and claps his hands.
@@ -659,26 +659,26 @@ Emma alza gli occhi al cielo e prende un piatto. || Emma rolls her eyes and pick
 «Emma, tocca a te!»{leo} || “Emma, your turn!”
 «Leo, io non gioco.»{emma|tired} || “Leo, I'm not playing.”
 «Perché no?»{leo} || “Why not?”
-«Perché ho sedici anni.»{emma} || “Because I'm sixteen.”
+«Perché ho quindici anni.»{emma} || “Because I'm fifteen.”
 «Questo non è un motivo.»{leo} || “That's not a reason.”
 Emma non risponde e porta i piatti al lavandino. || Emma doesn't answer and takes the plates to the sink.
 
 Leo si gira verso Kevin. || Leo turns toward Kevin.
 «Papà, **da quanto tempo** non dormi?»{leo} || “Dad, **how long** haven't you slept?”
-«Ah. Bella domanda. **Da** tre notti.»{ben} || “Ah. Good question. **For** three nights.”
-«Tre notti! E perché?»{leo} || “Three nights! And why?”
+«Ah. Bella domanda. **Da** due notti.»{ben} || “Ah. Good question. **For** two nights.”
+«Due notti! E perché?»{leo} || “Two nights! And why?”
 «**Da** otto mesi sono qui. Otto mesi **fa** ho lasciato l'America.»{ben} || “**For** eight months I've been here. Eight months **ago** I left America.”
 «Sì, ma perché non dormi?»{leo} || “Yes, but why don't you sleep?”
 «Perché ho una **decisione** da prendere. E ho **paura** di sbagliare.»{ben} || “Because I have a **decision** to make. And I'm **afraid** of getting it wrong.”
 
 Leo ci pensa. Poi chiede l'ultima domanda, piano. || Leo thinks about it. Then he asks the last question, quietly.
-«E perché non rispondi all'azienda? **Da** tre giorni!»{leo} || “And why don't you answer the company? **For** three days!”
+«E perché non rispondi all'azienda? **Da** due giorni!»{leo} || “And why don't you answer the company? **For** two days!”
 «Perché non so se **accettare** o **rifiutare**.»{ben} || “Because I don't know whether to **accept** or **refuse**.”
 Leo apre la bocca per un'altra domanda. || Leo opens his mouth for another question.
 Poi appoggia la testa sul tavolo e si addormenta. || Then he rests his head on the table and falls asleep.
 
 Chiara copre Leo con un maglione. || Chiara covers Leo with a sweater.
-«Kevin, la **proposta** è sul tavolo da tre giorni.»{chiara} || “Kevin, the **proposal** has been on the table for three days.”
+«Kevin, la **proposta** è sul tavolo da due giorni.»{chiara} || “Kevin, the **proposal** has been on the table for two days.”
 «Lo so.»{ben} || “I know.”
 «E il **futuro**?»{chiara} || “And the **future**?”
 «Il futuro è domani. Lo **decido** domani.»{ben} || “The future is tomorrow. I'll **decide** tomorrow.”

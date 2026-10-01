@@ -18,7 +18,7 @@ Matteo arriva dalla cucina con il telefono in mano. «Kevin! Guarda qui!»
 
 «È la stessa cosa, amico mio.»
 
-Kevin prende uno straccio e pulisce il bancone. _Due mesi fa non capivo niente di questo lavoro._
+Kevin prende uno straccio e pulisce il bancone. _Due mesi fa non ho capito niente di questo lavoro._
 
 Franco entra, senza fretta, e si siede al suo posto. «Buongiorno.»
 
@@ -90,7 +90,7 @@ Ornella prende il telefono dalla mano di Matteo e legge, piano. «Via Melchiorre
 
 «Venti minuti a piedi. Conosco quella zona.»
 
-Kevin guarda il bancone, le tazze, il caffè. _Due mesi fa non capivo nemmeno l'**orario** del bar._ _E adesso apro io alle sei. E adesso leggo le offerte di lavoro._
+Kevin guarda il bancone, le tazze, il caffè. _Due mesi fa non ho capito nemmeno l'**orario** del bar._ _E adesso apro io alle sei. E adesso leggo le offerte di lavoro._
 
 «Allora?»
 
@@ -134,7 +134,7 @@ Kevin cancella e riscrive. Emma indica un'altra riga. «E "esperienze"? Questa p
 
 «Con i numeri?»
 
-«Sì. Dodici anni in una **azienda** alimentare. Otto mesi in un bar. Così si capisce subito.»
+«Sì. Dodici anni in una **azienda** alimentare. Due mesi in un bar. Così si capisce subito.»
 
 Kevin scrive, poi si ferma. «Emma, ho una **paura**.»
 
@@ -652,9 +652,9 @@ Franco è seduto al solito posto, con il caffè. «Posso dire una cosa anch'io?�
 
 «Certo, Franco.»
 
-«Io ho guidato il tram **per** trentacinque anni.»
+«Io ho guidato il tram **per** quarant'anni.»
 
-«Trentacinque anni. Come hai fatto?»
+«Quarant'anni. Come hai fatto?»
 
 «Ho **scelto** il lavoro. Il lavoro non ha scelto me.» Kevin resta in silenzio.
 
@@ -674,7 +674,7 @@ La porta si apre piano ed entra Ornella con il bastone. «Scusate l'ora. Ho vist
 
 Ornella viene verso il bancone, piano, e si siede. «**Abito** qui **da** cinquantadue anni, Kevin.»
 
-«Lo so. Me l'hai detto stamattina.»
+«Lo so. Me l'hai detto giovedì.»
 
 «E visto tutto, su questa strada.»
 
@@ -726,9 +726,9 @@ Ornella si alza, con il bastone in mano. «Kevin, una **decisione** così non è
 
 Ornella va verso la porta. Nadia le apre. Sulla soglia, Ornella si gira. «**Dormici sopra**.» E chiude la porta piano, senza rumore. Kevin rimane solo con il foglio in mano e il **dubbio** nel petto. Fuori, in Via dei Tigli, non passa più nessuno.
 
-## 7. Casa Carter, Via dei Tigli 14 · domenica sera
+## 7. Casa Carter, Via dei Tigli 14 · mercoledì sera
 
-Domenica sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. Kevin guarda il telefono, che è posato accanto al bicchiere. Sul tavolo c'è anche il foglio dell'azienda, piegato in quattro. Leo sale sulla sedia e batte le mani.
+Mercoledì sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. Kevin guarda il telefono, che è posato accanto al bicchiere. Sul tavolo c'è anche il foglio dell'azienda, piegato in quattro. Leo sale sulla sedia e batte le mani.
 
 «Ho inventato un gioco! Si chiama "**Da quanto tempo**".»
 
@@ -748,15 +748,15 @@ Emma alza gli occhi al cielo e prende un piatto. «Emma, tocca a te!»
 
 «Perché no?»
 
-«Perché ho sedici anni.»
+«Perché ho quindici anni.»
 
 «Questo non è un motivo.» Emma non risponde e porta i piatti al lavandino.
 
 Leo si gira verso Kevin. «Papà, **da quanto tempo** non dormi?»
 
-«Ah. Bella domanda. **Da** tre notti.»
+«Ah. Bella domanda. **Da** due notti.»
 
-«Tre notti! E perché?»
+«Due notti! E perché?»
 
 «**Da** otto mesi sono qui. Otto mesi **fa** ho lasciato l'America.»
 
@@ -764,11 +764,11 @@ Leo si gira verso Kevin. «Papà, **da quanto tempo** non dormi?»
 
 «Perché ho una **decisione** da prendere. E ho **paura** di sbagliare.»
 
-Leo ci pensa. Poi chiede l'ultima domanda, piano. «E perché non rispondi all'azienda? **Da** tre giorni!»
+Leo ci pensa. Poi chiede l'ultima domanda, piano. «E perché non rispondi all'azienda? **Da** due giorni!»
 
 «Perché non so se **accettare** o **rifiutare**.» Leo apre la bocca per un'altra domanda. Poi appoggia la testa sul tavolo e si addormenta.
 
-Chiara copre Leo con un maglione. «Kevin, la **proposta** è sul tavolo da tre giorni.»
+Chiara copre Leo con un maglione. «Kevin, la **proposta** è sul tavolo da due giorni.»
 
 «Lo so.»
 

@@ -226,7 +226,7 @@
           "s02e19-1-011:0-7"
         ],
         [
-          "s02e19-1-012:0-8"
+          "s02e19-1-012:0-9"
         ],
         [
           "s02e19-1-013:0-9"
@@ -251,7 +251,7 @@
               },
               {
                 "type": "text",
-                "text": "Due mesi fa non capivo niente di questo lavoro.",
+                "text": "Due mesi fa non ho capito niente di questo lavoro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1827,7 +1827,7 @@
           "s02e19-1-062:0-7"
         ],
         [
-          "s02e19-1-063:0-8",
+          "s02e19-1-063:0-9",
           "s02e19-1-064:0-12"
         ]
       ],
@@ -1850,7 +1850,7 @@
               },
               {
                 "type": "text",
-                "text": "Due mesi fa non capivo nemmeno l'orario del bar. E adesso apro io alle sei. E adesso leggo le offerte di lavoro.",
+                "text": "Due mesi fa non ho capito nemmeno l'orario del bar. E adesso apro io alle sei. E adesso leggo le offerte di lavoro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2777,7 +2777,7 @@
               },
               {
                 "type": "text",
-                "text": "Sì. Dodici anni in una azienda alimentare. Otto mesi in un bar. Così si capisce subito.",
+                "text": "Sì. Dodici anni in una azienda alimentare. Due mesi in un bar. Così si capisce subito.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12923,10 +12923,10 @@
           "s02e19-6-039:0-1"
         ],
         [
-          "s02e19-6-040:0-7"
+          "s02e19-6-040:0-6"
         ],
         [
-          "s02e19-6-041:0-4"
+          "s02e19-6-041:0-3"
         ],
         [
           "s02e19-6-042:0-9"
@@ -12951,7 +12951,7 @@
               },
               {
                 "type": "text",
-                "text": "Io ho guidato il tram per trentacinque anni.",
+                "text": "Io ho guidato il tram per quarant'anni.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12962,7 +12962,7 @@
               },
               {
                 "type": "text",
-                "text": "Trentacinque anni. Come hai fatto?",
+                "text": "Quarant'anni. Come hai fatto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13426,7 +13426,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Lo so. Me l'hai detto stamattina.",
+                "text": "Lo so. Me l'hai detto giovedì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14475,7 +14475,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Domenica sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. Kevin guarda il telefono, che è posato accanto al bicchiere. Sul tavolo c'è anche il foglio dell'azienda, piegato in quattro. Leo sale sulla sedia e batte le mani.",
+                "text": "Mercoledì sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. Kevin guarda il telefono, che è posato accanto al bicchiere. Sul tavolo c'è anche il foglio dell'azienda, piegato in quattro. Leo sale sulla sedia e batte le mani.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14804,7 +14804,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché ho sedici anni.",
+                "text": "Perché ho quindici anni.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14960,7 +14960,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ah. Bella domanda. Da tre notti.",
+                "text": "Ah. Bella domanda. Da due notti.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14971,7 +14971,7 @@
               },
               {
                 "type": "text",
-                "text": "Tre notti! E perché?",
+                "text": "Due notti! E perché?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15075,7 +15075,7 @@
               },
               {
                 "type": "text",
-                "text": "E perché non rispondi all'azienda? Da tre giorni!",
+                "text": "E perché non rispondi all'azienda? Da due giorni!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15222,7 +15222,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin, la proposta è sul tavolo da tre giorni.",
+                "text": "Kevin, la proposta è sul tavolo da due giorni.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

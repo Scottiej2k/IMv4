@@ -1377,12 +1377,12 @@
             },
             {
               "id": "s02e19-1-012",
-              "it": "_Due mesi fa non capivo niente di questo lavoro._",
+              "it": "_Due mesi fa non ho capito niente di questo lavoro._",
               "en": "_Two months ago I understood nothing about this job._",
               "voice": [
                 [
                   "ben",
-                  "Due mesi fa non capivo niente di questo lavoro.",
+                  "Due mesi fa non ho capito niente di questo lavoro.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -1428,7 +1428,7 @@
                   "i"
                 ],
                 [
-                  "capivo",
+                  "ho",
                   4,
                   "i"
                 ],
@@ -1438,7 +1438,7 @@
                   "i"
                 ],
                 [
-                  "niente",
+                  "capito",
                   5,
                   "i"
                 ],
@@ -1448,7 +1448,7 @@
                   "i"
                 ],
                 [
-                  "di",
+                  "niente",
                   6,
                   "i"
                 ],
@@ -1458,7 +1458,7 @@
                   "i"
                 ],
                 [
-                  "questo",
+                  "di",
                   7,
                   "i"
                 ],
@@ -1468,8 +1468,18 @@
                   "i"
                 ],
                 [
-                  "lavoro",
+                  "questo",
                   8,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "lavoro",
+                  9,
                   "i"
                 ],
                 [
@@ -5595,12 +5605,12 @@
             },
             {
               "id": "s02e19-1-063",
-              "it": "_Due mesi fa non capivo nemmeno l'**orario** del bar._",
+              "it": "_Due mesi fa non ho capito nemmeno l'**orario** del bar._",
               "en": "_Two months ago I couldn't even understand the bar's **hours**._",
               "voice": [
                 [
                   "ben",
-                  "Due mesi fa non capivo nemmeno l'**orario** del bar.",
+                  "Due mesi fa non ho capito nemmeno l'**orario** del bar.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -5646,7 +5656,7 @@
                   "i"
                 ],
                 [
-                  "capivo",
+                  "ho",
                   4,
                   "i"
                 ],
@@ -5656,7 +5666,7 @@
                   "i"
                 ],
                 [
-                  "nemmeno",
+                  "capito",
                   5,
                   "i"
                 ],
@@ -5666,8 +5676,18 @@
                   "i"
                 ],
                 [
-                  "l",
+                  "nemmeno",
                   6,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "l",
+                  7,
                   "i"
                 ],
                 [
@@ -5677,7 +5697,7 @@
                 ],
                 [
                   "orario",
-                  7,
+                  8,
                   "bi"
                 ],
                 [
@@ -5687,7 +5707,7 @@
                 ],
                 [
                   "del",
-                  8,
+                  9,
                   "i"
                 ],
                 [
@@ -5697,7 +5717,7 @@
                 ],
                 [
                   "bar",
-                  9,
+                  10,
                   "i"
                 ],
                 [
@@ -8837,12 +8857,12 @@
           "segments": [
             {
               "id": "s02e19-2-023",
-              "it": "«Sì. Dodici anni in una **azienda** alimentare. Otto mesi in un bar. Così si capisce subito.»",
-              "en": "“Yes. Twelve years at a food **company**. Eight months in a bar. That way they understand right away.”",
+              "it": "«Sì. Dodici anni in una **azienda** alimentare. Due mesi in un bar. Così si capisce subito.»",
+              "en": "“Yes. Twelve years at a food **company**. Two months in a bar. That way they understand right away.”",
               "voice": [
                 [
                   "emma",
-                  "Sì. Dodici anni in una **azienda** alimentare. Otto mesi in un bar. Così si capisce subito.",
+                  "Sì. Dodici anni in una **azienda** alimentare. Due mesi in un bar. Così si capisce subito.",
                   ""
                 ]
               ],
@@ -8923,7 +8943,7 @@
                   ""
                 ],
                 [
-                  "Otto",
+                  "Due",
                   7,
                   ""
                 ],
@@ -41446,12 +41466,12 @@
           "segments": [
             {
               "id": "s02e19-6-040",
-              "it": "«Io ho guidato il tram **per** trentacinque anni.»",
-              "en": "“I drove the tram **for** thirty-five years.”",
+              "it": "«Io ho guidato il tram **per** quarant'anni.»",
+              "en": "“I drove the tram **for** forty years.”",
               "voice": [
                 [
                   "franco",
-                  "Io ho guidato il tram **per** trentacinque anni.",
+                  "Io ho guidato il tram **per** quarant'anni.",
                   ""
                 ]
               ],
@@ -41522,18 +41542,8 @@
                   ""
                 ],
                 [
-                  "trentacinque",
+                  "quarant'anni",
                   6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anni",
-                  7,
                   ""
                 ],
                 [
@@ -41552,12 +41562,12 @@
           "segments": [
             {
               "id": "s02e19-6-041",
-              "it": "«Trentacinque anni. Come hai fatto?»",
-              "en": "“Thirty-five years. How did you do it?”",
+              "it": "«Quarant'anni. Come hai fatto?»",
+              "en": "“Forty years. How did you do it?”",
               "voice": [
                 [
                   "ben",
-                  "Trentacinque anni. Come hai fatto?",
+                  "Quarant'anni. Come hai fatto?",
                   ""
                 ]
               ],
@@ -41568,18 +41578,8 @@
                   ""
                 ],
                 [
-                  "Trentacinque",
+                  "Quarant'anni",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anni",
-                  1,
                   ""
                 ],
                 [
@@ -41589,7 +41589,7 @@
                 ],
                 [
                   "Come",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -41599,7 +41599,7 @@
                 ],
                 [
                   "hai",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -41609,7 +41609,7 @@
                 ],
                 [
                   "fatto",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -42866,12 +42866,12 @@
           "segments": [
             {
               "id": "s02e19-6-055",
-              "it": "«Lo so. Me l'hai detto stamattina.»",
-              "en": "“I know. You told me this morning.”",
+              "it": "«Lo so. Me l'hai detto giovedì.»",
+              "en": "“I know. You told me on Thursday.”",
               "voice": [
                 [
                   "ben",
-                  "Lo so. Me l'hai detto stamattina.",
+                  "Lo so. Me l'hai detto giovedì.",
                   ""
                 ]
               ],
@@ -42932,7 +42932,7 @@
                   ""
                 ],
                 [
-                  "stamattina",
+                  "giovedì",
                   5,
                   ""
                 ],
@@ -46286,18 +46286,18 @@
           "segments": [
             {
               "id": "s02e19-7-001",
-              "it": "Domenica sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo.",
-              "en": "Sunday evening, after dinner, there are still dishes on the kitchen table.",
+              "it": "Mercoledì sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo.",
+              "en": "Wednesday evening, after dinner, there are still dishes on the kitchen table.",
               "voice": [
                 [
                   "narrator",
-                  "Domenica sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo.",
+                  "Mercoledì sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Domenica",
+                  "Mercoledì",
                   0,
                   ""
                 ],
@@ -47576,12 +47576,12 @@
           "segments": [
             {
               "id": "s02e19-7-015",
-              "it": "«Perché ho sedici anni.»",
-              "en": "“Because I'm sixteen.”",
+              "it": "«Perché ho quindici anni.»",
+              "en": "“Because I'm fifteen.”",
               "voice": [
                 [
                   "emma",
-                  "Perché ho sedici anni.",
+                  "Perché ho quindici anni.",
                   ""
                 ]
               ],
@@ -47612,7 +47612,7 @@
                   ""
                 ],
                 [
-                  "sedici",
+                  "quindici",
                   2,
                   ""
                 ],
@@ -47966,12 +47966,12 @@
           "segments": [
             {
               "id": "s02e19-7-020",
-              "it": "«Ah. Bella domanda. **Da** tre notti.»",
-              "en": "“Ah. Good question. **For** three nights.”",
+              "it": "«Ah. Bella domanda. **Da** due notti.»",
+              "en": "“Ah. Good question. **For** two nights.”",
               "voice": [
                 [
                   "ben",
-                  "Ah. Bella domanda. **Da** tre notti.",
+                  "Ah. Bella domanda. **Da** due notti.",
                   ""
                 ]
               ],
@@ -48022,7 +48022,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "due",
                   4,
                   ""
                 ],
@@ -48052,12 +48052,12 @@
           "segments": [
             {
               "id": "s02e19-7-021",
-              "it": "«Tre notti! E perché?»",
-              "en": "“Three nights! And why?”",
+              "it": "«Due notti! E perché?»",
+              "en": "“Two nights! And why?”",
               "voice": [
                 [
                   "leo",
-                  "Tre notti! E perché?",
+                  "Due notti! E perché?",
                   ""
                 ]
               ],
@@ -48068,7 +48068,7 @@
                   ""
                 ],
                 [
-                  "Tre",
+                  "Due",
                   0,
                   ""
                 ],
@@ -48555,12 +48555,12 @@
             },
             {
               "id": "s02e19-7-026",
-              "it": "«E perché non rispondi all'azienda? **Da** tre giorni!»",
-              "en": "“And why don't you answer the company? **For** three days!”",
+              "it": "«E perché non rispondi all'azienda? **Da** due giorni!»",
+              "en": "“And why don't you answer the company? **For** two days!”",
               "voice": [
                 [
                   "leo",
-                  "E perché non rispondi all'azienda? **Da** tre giorni!",
+                  "E perché non rispondi all'azienda? **Da** due giorni!",
                   ""
                 ]
               ],
@@ -48631,7 +48631,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "due",
                   6,
                   ""
                 ],
@@ -49020,12 +49020,12 @@
             },
             {
               "id": "s02e19-7-031",
-              "it": "«Kevin, la **proposta** è sul tavolo da tre giorni.»",
-              "en": "“Kevin, the **proposal** has been on the table for three days.”",
+              "it": "«Kevin, la **proposta** è sul tavolo da due giorni.»",
+              "en": "“Kevin, the **proposal** has been on the table for two days.”",
               "voice": [
                 [
                   "chiara",
-                  "Kevin, la **proposta** è sul tavolo da tre giorni.",
+                  "Kevin, la **proposta** è sul tavolo da due giorni.",
                   ""
                 ]
               ],
@@ -49106,7 +49106,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "due",
                   7,
                   ""
                 ],
@@ -49852,7 +49852,7 @@
           ]
         }
       ],
-      "time": "domenica sera"
+      "time": "mercoledì sera"
     }
   ]
 }

@@ -40,7 +40,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **la busta paga**<br>(n., f) · payslip, pay | «E la **busta paga**? Vuole sapere?» | “And the **payslip**? Do you want to know?” |
 | **il contratto**<br>(n., m) · contract | «C'è scritto busta paga, **contratto** e carriera.» | “It says payslip, **contract** and career.” |
 | **l'offerta**<br>(n., f) · offer, job offer | «Primo: l'**offerta**. Che cosa offrono?» | “First: the **offer**. What are they offering?” |
-| **l'orario**<br>(n., m) · working hours | _Due mesi fa non capivo nemmeno l'**orario** del bar._ | _Two months ago I couldn't even understand the bar's **hours**._ |
+| **l'orario**<br>(n., m) · working hours | _Due mesi fa non ho capito nemmeno l'**orario** del bar._ | _Two months ago I couldn't even understand the bar's **hours**._ |
 | **la carriera**<br>(n., f) · career | «Tremilacinquecento! E **carriera**? C'è scritto carriera?» | “Three thousand five hundred! And a **career**? Does it say career?” |
 | **la proposta**<br>(n., f) · proposal, offer | «È una **proposta** seria!» | “It's a serious **proposal**!” |
 | **la decisione**<br>(n., f) · decision | «Anche le **decisioni** difficili?» | “Even the difficult **decisions**?” |

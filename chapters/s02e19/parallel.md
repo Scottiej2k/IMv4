@@ -19,7 +19,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io non cerco un'azienda. Io **cerco lavoro**.» | “I'm not looking for a company. I'm **looking for a job**.” |
 | «È la stessa cosa, amico mio.» | “It's the same thing, my friend.” |
 | Kevin prende uno straccio e pulisce il bancone. | Kevin takes a cloth and wipes the counter. |
-| _Due mesi fa non capivo niente di questo lavoro._ | _Two months ago I understood nothing about this job._ |
+| _Due mesi fa non ho capito niente di questo lavoro._ | _Two months ago I understood nothing about this job._ |
 | Franco entra, senza fretta, e si siede al suo posto. | Franco comes in, unhurried, and sits in his place. |
 | «Buongiorno.» | “Good morning.” |
 | «Buongiorno, Franco. Caffè?» | “Good morning, Franco. Coffee?” |
@@ -70,7 +70,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Venti minuti?» | “Twenty minutes?” |
 | «Venti minuti a piedi. Conosco quella zona.» | “Twenty minutes on foot. I know that area.” |
 | Kevin guarda il bancone, le tazze, il caffè. | Kevin looks at the counter, the cups, the coffee. |
-| _Due mesi fa non capivo nemmeno l'**orario** del bar._ | _Two months ago I couldn't even understand the bar's **hours**._ |
+| _Due mesi fa non ho capito nemmeno l'**orario** del bar._ | _Two months ago I couldn't even understand the bar's **hours**._ |
 | _E adesso apro io alle sei. E adesso leggo le offerte di lavoro._ | _And now I open at six. And now I read job ads._ |
 | «Allora?» | “So?” |
 | «Allora che cosa?» | “So what?” |
@@ -111,7 +111,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin cancella e riscrive. Emma indica un'altra riga. | Kevin deletes and retypes. Emma points at another line. |
 | «E "esperienze"? Questa parola è troppo grande. Scrivi l'**esperienza** con i numeri.» | “And ‘experience’? That word is too big. Write the **experience** with numbers.” |
 | «Con i numeri?» | “With numbers?” |
-| «Sì. Dodici anni in una **azienda** alimentare. Otto mesi in un bar. Così si capisce subito.» | “Yes. Twelve years at a food **company**. Eight months in a bar. That way they understand right away.” |
+| «Sì. Dodici anni in una **azienda** alimentare. Due mesi in un bar. Così si capisce subito.» | “Yes. Twelve years at a food **company**. Two months in a bar. That way they understand right away.” |
 | Kevin scrive, poi si ferma. | Kevin types, then stops. |
 | «Emma, ho una **paura**.» | “Emma, I have a **fear**.” |
 | «Di che cosa?» | “Of what?” |
@@ -496,8 +496,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco è seduto al solito posto, con il caffè. | Franco is sitting in his usual place, with his coffee. |
 | «Posso dire una cosa anch'io?» | “Can I say something too?” |
 | «Certo, Franco.» | “Of course, Franco.” |
-| «Io ho guidato il tram **per** trentacinque anni.» | “I drove the tram **for** thirty-five years.” |
-| «Trentacinque anni. Come hai fatto?» | “Thirty-five years. How did you do it?” |
+| «Io ho guidato il tram **per** quarant'anni.» | “I drove the tram **for** forty years.” |
+| «Quarant'anni. Come hai fatto?» | “Forty years. How did you do it?” |
 | «Ho **scelto** il lavoro. Il lavoro non ha scelto me.» | “I **chose** the job. The job didn't choose me.” |
 | Kevin resta in silenzio. | Kevin stays silent. |
 | «Kevin, ti dico una parola sola.» | “Kevin, I'll tell you one word only.” |
@@ -511,7 +511,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora spegnete la luce e andiamo a casa tutti.» | “Then turn off the light and let's all go home.” |
 | Ornella viene verso il bancone, piano, e si siede. | Ornella comes toward the counter, slowly, and sits down. |
 | «**Abito** qui **da** cinquantadue anni, Kevin.» | “I've lived here **for** fifty-two years, Kevin.” |
-| «Lo so. Me l'hai detto stamattina.» | “I know. You told me this morning.” |
+| «Lo so. Me l'hai detto giovedì.» | “I know. You told me on Thursday.” |
 | «E visto tutto, su questa strada.» | “And I've seen everything, on this street.” |
 | «Anche le **decisioni** difficili?» | “Even the difficult **decisions**?” |
 | «Soprattutto quelle.» | “Especially those.” |
@@ -550,11 +550,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin rimane solo con il foglio in mano e il **dubbio** nel petto. | Kevin stays alone with the sheet in his hand and the **doubt** in his chest. |
 | Fuori, in Via dei Tigli, non passa più nessuno. | Outside, on Via dei Tigli, nobody passes anymore. |
 
-## 7. Casa Carter, Via dei Tigli 14 · domenica sera
+## 7. Casa Carter, Via dei Tigli 14 · mercoledì sera
 
 | Italiano | English |
 |---|---|
-| Domenica sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. | Sunday evening, after dinner, there are still dishes on the kitchen table. |
+| Mercoledì sera, dopo cena, in cucina ci sono ancora i piatti sul tavolo. | Wednesday evening, after dinner, there are still dishes on the kitchen table. |
 | Kevin guarda il telefono, che è posato accanto al bicchiere. | Kevin looks at his phone, which is resting next to his glass. |
 | Sul tavolo c'è anche il foglio dell'azienda, piegato in quattro. | On the table there's also the company sheet, folded in four. |
 | Leo sale sulla sedia e batte le mani. | Leo climbs on the chair and claps his hands. |
@@ -568,23 +568,23 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Emma, tocca a te!» | “Emma, your turn!” |
 | «Leo, io non gioco.» | “Leo, I'm not playing.” |
 | «Perché no?» | “Why not?” |
-| «Perché ho sedici anni.» | “Because I'm sixteen.” |
+| «Perché ho quindici anni.» | “Because I'm fifteen.” |
 | «Questo non è un motivo.» | “That's not a reason.” |
 | Emma non risponde e porta i piatti al lavandino. | Emma doesn't answer and takes the plates to the sink. |
 | Leo si gira verso Kevin. | Leo turns toward Kevin. |
 | «Papà, **da quanto tempo** non dormi?» | “Dad, **how long** haven't you slept?” |
-| «Ah. Bella domanda. **Da** tre notti.» | “Ah. Good question. **For** three nights.” |
-| «Tre notti! E perché?» | “Three nights! And why?” |
+| «Ah. Bella domanda. **Da** due notti.» | “Ah. Good question. **For** two nights.” |
+| «Due notti! E perché?» | “Two nights! And why?” |
 | «**Da** otto mesi sono qui. Otto mesi **fa** ho lasciato l'America.» | “**For** eight months I've been here. Eight months **ago** I left America.” |
 | «Sì, ma perché non dormi?» | “Yes, but why don't you sleep?” |
 | «Perché ho una **decisione** da prendere. E ho **paura** di sbagliare.» | “Because I have a **decision** to make. And I'm **afraid** of getting it wrong.” |
 | Leo ci pensa. Poi chiede l'ultima domanda, piano. | Leo thinks about it. Then he asks the last question, quietly. |
-| «E perché non rispondi all'azienda? **Da** tre giorni!» | “And why don't you answer the company? **For** three days!” |
+| «E perché non rispondi all'azienda? **Da** due giorni!» | “And why don't you answer the company? **For** two days!” |
 | «Perché non so se **accettare** o **rifiutare**.» | “Because I don't know whether to **accept** or **refuse**.” |
 | Leo apre la bocca per un'altra domanda. | Leo opens his mouth for another question. |
 | Poi appoggia la testa sul tavolo e si addormenta. | Then he rests his head on the table and falls asleep. |
 | Chiara copre Leo con un maglione. | Chiara covers Leo with a sweater. |
-| «Kevin, la **proposta** è sul tavolo da tre giorni.» | “Kevin, the **proposal** has been on the table for three days.” |
+| «Kevin, la **proposta** è sul tavolo da due giorni.» | “Kevin, the **proposal** has been on the table for two days.” |
 | «Lo so.» | “I know.” |
 | «E il **futuro**?» | “And the **future**?” |
 | «Il futuro è domani. Lo **decido** domani.» | “The future is tomorrow. I'll **decide** tomorrow.” |

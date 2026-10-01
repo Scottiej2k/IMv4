@@ -291,10 +291,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** June bocce tournament and finale (payoff expected later this season); Matteo’s new “una cosa alla volta” discipline.
 
 ### s02e19 · Da quanto tempo?
-- **Happened:** Kevin worked two months at Bar Tigli; Matteo found a Sartori Alimentari (Milan) job ad and Kevin sent an online application with Emma's help. Sara Moretti phoned; Kevin interviewed Monday with Elena Ricci (marketing, food sector, Via Melchiorre Gioia). Written offer arrived: junior manager, permanent contract, €3,500/month plus bonuses, from June 1, answer by Thursday.
-- **New facts:** Sartori Alimentari, glass building, reparto marketing; Sara Moretti and Elena Ricci (Sartori staff). Roberto has been committee president twelve years three months; he interviewed at an insurance company twenty years ago, took the first offer, regrets it. Roberto and Marina plan a Saturday bench outing. Ornella at Via dei Tigli 52 years.
-- **Changed:** Kevin unsure whether to accept or refuse; children and Chiara push him to choose; Matteo jokes about losing his barista.
-- **Planted:** Kevin must answer Sartori by Thursday; his choice is unresolved.
+- **Happened:** Kevin has worked at Bar Tigli for exactly two months. Matteo finds a job ad for Sartori Alimentari, Milan (Via Melchiorre Gioia); Emma corrects Kevin's Italian curriculum and he sends it. Kevin interviews in Milan on Monday and gets a written offer.
+- **New facts:** Sartori Alimentari offer: junior manager, marketing, permanent contract, €3,500/month plus bonuses, career path three years, start June 1, answer by Thursday, Mon–Fri 8:30–18:30. Sara Moretti (Sartori) and Elena Ricci (responsabile, Sartori). Ornella: 52 years on the street. Franco: 40 years driving trams. Nadia: 10 years in a pharmacy; once took a job for the salary alone and was miserable. Roberto: committee president 12 years and 3 months; 20 years ago accepted a first offer too fast and regrets it.
+- **Changed:** Marina asks Roberto to leave the committee; he agrees to a bench in the piazza Saturday after the meeting. Kevin, undecided, promises Chiara he'll decide Thursday.
+- **Planted:** Kevin's yes/no to Sartori, still open; Roberto's written agenda word FUTURO.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

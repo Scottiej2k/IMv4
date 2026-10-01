@@ -88,7 +88,6 @@ Here the job is finished, so Kevin uses passato prossimo + **per**.
 «Lavoro in un bar **da** due mesi, ogni mattina. E cerco lavoro **da** marzo.» — “I've been working in a bar **for** two months, every morning. And I've been looking for work **since** March.” (`s02e19-5-031`)
 Two **da** in one sentence: one with a length of time, one with a starting point.
 
-«Io ho guidato il tram **per** trentacinque anni.» — “I drove the tram **for** thirty-five years.” (`s02e19-6-040`)
 Franco's finished career: passato prossimo + **per**, never **da**.
 
 ## Common mistakes
