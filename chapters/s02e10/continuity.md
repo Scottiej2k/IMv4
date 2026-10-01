@@ -1,0 +1,5 @@
+### s02e10 · Ci vuole il permesso
+- **Happened:** Roberto Colombo, as *responsabile* of the quartiere committee, serves Kevin a written notice: the new facade window needs comune authorization, so the window work stops; Kevin is told to bring a *pratica* to the ufficio tecnico. Over three visits Kevin assembles it alone (geometra's drawing and stamp, two marche da bollo, receipts, archive reference); the clerk accepts it on Thursday. Chiara, working late at the studio before a Friday deadline, sends Kevin fifteen messages that go unanswered.
+- **New facts:** Sergio is the *capo del cantiere*; an unnamed woman with glasses is the ufficio tecnico clerk. Chiara's firm is Studio Marchetti (zona Isola, Milan), boss Marchetti; her project is for the banca di Isola, due Friday. Authorization takes about a week, the *via libera* five days.
+- **Changed:** Kevin does the whole bureaucratic task without Chiara and stops answering her; the window waits for the via libera, but the kitchen renovation can continue.
+- **Planted:** Kevin's half-written messages and «Meglio dirglielo a voce» leave the Kevin–Chiara communication gap open.

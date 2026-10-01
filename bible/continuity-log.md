@@ -236,6 +236,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin's low mood is known to Nadia, Ornella and Chiara; Ornella tells Kevin her house is too big and quiet and "non mi basta restare qui" — her first time saying it.
 - **Planted:** Kevin and Ornella's Tuesday market routine; Ornella's restlessness (payoff TBD); Kevin plans another Chicago phone call, this time greeting everyone by name.
 
+### s02e10 · Ci vuole il permesso
+- **Happened:** Roberto Colombo, as *responsabile* of the quartiere committee, serves Kevin a written notice: the new facade window needs comune authorization, so the window work stops; Kevin is told to bring a *pratica* to the ufficio tecnico. Over three visits Kevin assembles it alone (geometra's drawing and stamp, two marche da bollo, receipts, archive reference); the clerk accepts it on Thursday. Chiara, working late at the studio before a Friday deadline, sends Kevin fifteen messages that go unanswered.
+- **New facts:** Sergio is the *capo del cantiere*; an unnamed woman with glasses is the ufficio tecnico clerk. Chiara's firm is Studio Marchetti (zona Isola, Milan), boss Marchetti; her project is for the banca di Isola, due Friday. Authorization takes about a week, the *via libera* five days.
+- **Changed:** Kevin does the whole bureaucratic task without Chiara and stops answering her; the window waits for the via libera, but the kitchen renovation can continue.
+- **Planted:** Kevin's half-written messages and «Meglio dirglielo a voce» leave the Kevin–Chiara communication gap open.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
