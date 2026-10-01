@@ -1,0 +1,715 @@
+@vocab
+lentamente | adverb | | slowly | Lentamente
+velocemente | adverb | | quickly | Velocemente
+facilmente | adverb | | easily | Facilmente
+la squadra | noun | f | team | squadra, squadre
+l'allenamento | noun | m | training; practice | allenamento, allenamenti
+allenarsi | verb | | to train | mi alleno, ti alleni, si allena, ci alleniamo, allenato
+il campo | noun | m | court; field | campo, campi
+la palla | noun | f | ball | palla, palle
+il giocatore | noun | m | player | giocatore, giocatori
+il torneo | noun | m | tournament | torneo, tornei
+il punto | noun | m | point | punto, punti
+piano | adverb | | slowly; quietly | Piano
+forte | adverb | | hard; loudly | Forte
+poco | adverb | | little; not much | poca, pochi, poche
+molto | adverb | | very; a lot | molta, molti, molte
+tanto | adverb | | so much; a lot | tanta, tanti, tante
+riposare | verb | | to rest | riposo, riposi, riposa, riposiamo, riposato
+lento | adjective | | slow | lenta, lenti, lente
+la finale | noun | f | final | finali
+l'allenatore | noun | m | coach | allenatori
+lo sport | noun | m | sport | Sport
+l'arbitro | noun | m | referee | arbitro, arbitri
+il risultato | noun | m | result; score | risultato, risultati
+la gara | noun | f | competition; game | gara, gare
+il movimento | noun | m | movement | movimento, movimenti
+la forza | noun | f | strength | forze
+respirare | verb | | to breathe | respiro, respiri, respira, respiriamo, respirato
+la regola | noun | f | rule | regola, regole
+il consiglio | noun | m | tip; piece of advice | consiglio, consigli
+la pazienza | noun | f | patience | pazienza
+@end
+
+# SCENE parco | sabato mattina | franco, kevin
+È sabato mattina al Parco dei Tigli. || It's Saturday morning at Parco dei Tigli.
+Kevin corre **velocemente** sul sentiero, con le scarpe nuove. || Kevin runs **quickly** along the path, in his new shoes.
+Le scarpe sono bianche e brillano al sole. || The shoes are white and shine in the sun.
+Kevin vuole perdere due chili. || Kevin wants to lose two kilos.
+_Devo fare **molto** sport._{ben} || *I have to do **a lot** of sport.*
+Al parco c'è un **campo** di bocce. || In the park there's a bocce **court**.
+Sul **campo** ci sono tre signori anziani. || On the **court** there are three elderly gentlemen.
+Due signori giocano **lentamente**. || Two gentlemen play **slowly**.
+Il terzo signore è Franco. || The third gentleman is Franco.
+Franco guarda Kevin e non sorride. || Franco looks at Kevin and doesn't smile.
+
+«Buongiorno, Franco!»{ben|cheerful} dice Kevin. «Che bello, **lo sport**!»{ben} || “Good morning, Franco!” says Kevin. “How nice, **sport**!”
+«Mah,»{franco|grumbling} dice Franco. || “Hmm,” says Franco.
+Kevin si ferma e guarda la partita. || Kevin stops and watches the game.
+«Che cos'è questa **palla**?»{ben} chiede Kevin. || “What is this **ball**?” Kevin asks.
+«È una boccia,»{franco} risponde Franco. «Il gioco è **lento**.»{franco} || “It's a boccia,” Franco answers. “The game is **slow**.”
+Kevin prende una boccia in mano. || Kevin takes a boccia in his hand.
+La boccia è pesante, ma Kevin è forte. || The boccia is heavy, but Kevin is strong.
+«Io sono **forte**!»{ben|proud} dice Kevin. || “I'm **strong**!” says Kevin.
+«Sì,»{franco|dry} dice Franco. «Peccato.»{franco} || “Yes,” says Franco. “Too bad.”
+_Perché “peccato”?_{ben} pensa Kevin. || *Why “too bad”?* Kevin thinks.
+
+Franco apre un quaderno vecchio del 1978. || Franco opens an old notebook from 1978.
+Nel quaderno scrive qualcosa. || In the notebook he writes something.
+Kevin legge la parola KEVIN. || Kevin reads the word KEVIN.
+_Sono nella lista dei campioni!_{ben} pensa Kevin. || *I'm on the list of champions!* Kevin thinks.
+«Franco, che lista è?»{ben} chiede Kevin. || “Franco, what list is that?” Kevin asks.
+«È la lista dei problemi,»{franco} dice Franco. || “It's the list of problems,” Franco says.
+Kevin non capisce e sorride. || Kevin doesn't understand and smiles.
+«La mia **squadra** ha un problema,»{franco} dice Franco. || “My **team** has a problem,” Franco says.
+«Che problema?»{ben} chiede Kevin. || “What problem?” Kevin asks.
+«Un **giocatore** non c'è,»{franco} dice Franco. «Siamo in tre.»{franco} || “One **player** isn't here,” Franco says. “There are three of us.”
+«E adesso?»{ben} chiede Kevin. || “And now?” Kevin asks.
+«A giugno c'è il **torneo**,»{franco} dice Franco. || “In June there's the **tournament**,” Franco says.
+«Il torneo di primavera?»{ben} chiede Kevin. || “The spring tournament?” Kevin asks.
+«Sì. E poi c'è la **finale**,»{franco} dice Franco. || “Yes. And then there's the **final**,” Franco says.
+Kevin apre la bocca e sorride **molto**. || Kevin opens his mouth and smiles **a lot**.
+_Una squadra! Un torneo! La finale!_{ben} pensa Kevin. || *A team! A tournament! The final!* Kevin thinks.
+
+«Kevin, una cosa importante,»{franco|tired} dice Franco. || “Kevin, one important thing,” Franco says.
+«Sì, **allenatore**!»{ben|enthusiastic} dice Kevin. || “Yes, **coach**!” says Kevin.
+«Io non sono il tuo allenatore,»{franco} dice Franco. || “I'm not your coach,” Franco says.
+«L'**allenamento** è quando?»{ben} chiede Kevin. || “When is **practice**?” Kevin asks.
+Franco chiude gli occhi **lentamente**. || Franco closes his eyes **slowly**.
+«L'allenamento è mercoledì,»{franco} dice Franco. || “Practice is Wednesday,” Franco says.
+«Perfetto! Mi **alleno** ogni giorno,»{ben} dice Kevin. || “Perfect! I **train** every day,” says Kevin.
+«No, non ti alleni ogni giorno,»{franco} dice Franco. || “No, you don't train every day,” Franco says.
+«Va bene, due giorni,»{ben} dice Kevin. || “Okay, two days,” Kevin says.
+«Kevin, la prima **regola** è questa,»{franco} dice Franco. || “Kevin, the first **rule** is this,” Franco says.
+«Quale?»{ben} chiede Kevin. || “Which one?” Kevin asks.
+«Il braccio è **lento**,»{franco} dice Franco. «Gli occhi sono **lenti**.»{franco} || “The arm is **slow**,” Franco says. “The eyes are **slow**.”
+«E la testa?»{ben} chiede Kevin. || “And the head?” Kevin asks.
+«La testa è **lenta**,»{franco} dice Franco. || “The head is **slow**,” Franco says.
+«Tutto è lento,»{ben} dice Kevin. «Capito.»{ben} || “Everything is slow,” says Kevin. “Got it.”
+
+Kevin prende la boccia e la butta **forte**. || Kevin takes the boccia and throws it **hard**.
+La boccia va **velocemente** nel bosco. || The boccia goes **quickly** into the woods.
+Franco guarda il bosco e non parla. || Franco looks at the woods and doesn't speak.
+I due signori anziani guardano il bosco. || The two elderly gentlemen look at the woods.
+Nessuno parla per **molti** secondi. || Nobody speaks for **many** seconds.
+«Kevin,»{franco|very calm} dice Franco. || “Kevin,” Franco says.
+«Sì?»{ben} dice Kevin. || “Yes?” says Kevin.
+«Nel bosco ci sono **poche** bocce adesso,»{franco} dice Franco. || “There are **few** bocce in the woods now,” Franco says.
+«Scusa,»{ben} dice Kevin. || “Sorry,” says Kevin.
+«Il **risultato** è zero a zero,»{franco} dice Franco. || “The **result** is zero to zero,” Franco says.
+«Zero a zero è bene, no?»{ben} chiede Kevin. || “Zero to zero is good, no?” Kevin asks.
+«No,»{franco} dice Franco. || “No,” Franco says.
+
+Kevin corre nel bosco **facilmente** e trova la boccia. || Kevin runs into the woods **easily** and finds the boccia.
+Torna sul **campo** con un sorriso grande. || He comes back onto the **court** with a big smile.
+«L'ho trovata!»{ben} dice Kevin. || “I found it!” says Kevin.
+«Bene. Adesso un **punto** per me,»{franco} dice Franco. || “Good. Now a **point** for me,” Franco says.
+Franco butta la boccia **piano**, **piano**. || Franco throws the boccia **slowly**, **slowly**.
+La boccia si ferma vicino alla **palla** bianca. || The boccia stops near the white **ball**.
+«Questo è un punto,»{franco} dice Franco. || “That's a point,” Franco says.
+Kevin guarda il **punto** e capisce **poco**. || Kevin looks at the **point** and understands **little**.
+«Domenica alle nove c'è la **gara**,»{franco} dice Franco. || “Sunday at nine there's the **game**,” Franco says.
+«La **regola** più importante è questa: **piano**,»{franco|slowly} dice Franco. || “The most important **rule** is this: **slowly**,” Franco says.
+Franco scrive ancora nel quaderno, sotto la parola KEVIN. || Franco writes in the notebook again, under the word KEVIN.
+_Che bella lista di campioni!_{ben} pensa Kevin. || *What a nice list of champions!* Kevin thinks.
+«È sempre la lista dei problemi,»{franco} dice Franco. || “It's still the list of problems,” Franco says.
+
+# SCENE bar-tigli | martedì mattina | nadia, matteo, kevin
+Sono le undici e mezza al Bar Tigli. || It's half past eleven at Bar Tigli.
+Fuori c'è il sole e dentro c'è **poca** luce. || Outside there's sun and inside there's **little** light.
+Kevin pulisce il bancone **lentamente**. || Kevin wipes the counter **slowly**.
+La porta si apre e entra Nadia. || The door opens and Nadia comes in.
+Nadia è appena tornata dal **medico**. || Nadia has just come back from the doctor.
+Ha fatto la visita di controllo. || She has had her check-up.
+Cammina **lentamente** e si siede su una sedia. || She walks **slowly** and sits on a chair.
+_Tutto bene. Il bambino è bene._{nadia} pensa Nadia. || *Everything's fine. The baby is fine.* Nadia thinks.
+«Come è andata?»{ben} chiede Kevin. || “How did it go?” Kevin asks.
+«Bene,»{nadia} dice Nadia. «Ma il medico ha detto una cosa.»{nadia} || “Fine,” says Nadia. “But the doctor said something.”
+«Cosa?»{ben} chiede Kevin. || “What?” Kevin asks.
+«Devo lavorare **poco**,»{nadia} dice Nadia. «E devo **riposare** **molto**.»{nadia} || “I have to work **little**,” says Nadia. “And I have to **rest** **a lot**.”
+Kevin annuisce e aspetta. || Kevin nods and waits.
+«Tutto **piano**,»{nadia|dry} dice Nadia. «Tutto **lento**.»{nadia} || “Everything **slowly**,” says Nadia. “Everything **slow**.”
+Kevin guarda Nadia e non parla subito. || Kevin looks at Nadia and doesn't speak right away.
+«E tu come stai?»{ben} chiede Kevin. || “And how are you?” Kevin asks.
+«Come una donna che ha lavorato **tanto**,»{nadia} dice Nadia. || “Like a woman who has worked **a lot**,” says Nadia.
+_Ho lavorato in farmacia per dieci anni._{nadia} pensa Nadia. || *I have worked in the pharmacy for ten years.* Nadia thinks.
+_Nessuno mi ha insegnato a riposare._{nadia} pensa Nadia. || *Nobody has taught me how to rest.* Nadia thinks.
+«Devo imparare,»{nadia} dice Nadia. «E non è **facile**.»{nadia} || “I have to learn,” says Nadia. “And it's not **easy**.”
+
+La porta si apre di nuovo. || The door opens again.
+Entra Matteo con due borse della spesa. || Matteo comes in with two shopping bags.
+«Amore! Sei tornata!»{matteo|loud} dice Matteo. || “Love! You're back!” says Matteo.
+Matteo mette le borse sul bancone **velocemente**. || Matteo puts the bags on the counter **quickly**.
+Poi prende un panno e pulisce un tavolo. || Then he takes a cloth and wipes a table.
+Poi sistema tre sedie. || Then he arranges three chairs.
+Poi apre il frigorifero e guarda il latte. || Then he opens the fridge and looks at the milk.
+Poi prende un bicchiere e un altro bicchiere. || Then he takes a glass and another glass.
+«Matteo,»{nadia} dice Nadia. || “Matteo,” says Nadia.
+«Un momento, amore!»{matteo|fast} dice Matteo. || “One moment, love!” says Matteo.
+«Matteo,»{nadia} ripete Nadia **lentamente**. || “Matteo,” Nadia repeats **slowly**.
+Matteo prende **troppe** cose insieme. || Matteo picks up **too many** things at once.
+Un bicchiere cade a terra. || A glass falls to the floor.
+Il bicchiere si rompe. || The glass breaks.
+Kevin guarda i pezzi e sospira. || Kevin looks at the pieces and sighs.
+«Scusa!»{matteo} dice Matteo. «Pulisco subito.»{matteo} || “Sorry!” says Matteo. “I'll clean up right away.”
+«No,»{nadia} dice Nadia. «Tu non pulisci. Tu ti siedi.»{nadia} || “No,” says Nadia. “You don't clean. You sit down.”
+«Ma io voglio aiutare!»{matteo} dice Matteo. || “But I want to help!” says Matteo.
+«Aiuti **male**,»{nadia|dry} dice Nadia. || “You help **badly**,” says Nadia.
+
+Kevin prende la scopa e pulisce i pezzi **lentamente**. || Kevin takes the broom and sweeps the pieces **slowly**.
+«Posso dare un **consiglio**?»{ben} chiede Kevin. || “Can I give a **tip**?” Kevin asks.
+«Sì,»{nadia} dice Nadia. || “Yes,” says Nadia.
+«Una cosa alla volta,»{ben} dice Kevin. || “One thing at a time,” says Kevin.
+«Una cosa alla volta,»{nadia} ripete Nadia. || “One thing at a time,” Nadia repeats.
+«Ho imparato questa **regola** domenica,»{ben} dice Kevin. || “I learned this **rule** on Sunday,” says Kevin.
+«Da Franco?»{nadia} chiede Nadia. || “From Franco?” Nadia asks.
+«Sì. Con le bocce,»{ben} dice Kevin. || “Yes. With bocce,” says Kevin.
+«Franco ti ha insegnato qualcosa?»{matteo|surprised} chiede Matteo. || “Franco taught you something?” Matteo asks.
+«Sì,»{ben} dice Kevin. «Con le bocce.»{ben} || “Yes,” says Kevin. “With bocce.”
+«Incredibile,»{matteo} dice Matteo. || “Unbelievable,” says Matteo.
+«Matteo, **respira**,»{nadia} dice Nadia. || “Matteo, **breathe**,” says Nadia.
+Matteo **respira** **forte**, come un atleta. || Matteo **breathes** **loudly**, like an athlete.
+«Non così,»{nadia|tired} dice Nadia. || “Not like that,” says Nadia.
+«Come?»{matteo} chiede Matteo. || “How?” Matteo asks.
+«**Piano**,»{nadia} dice Nadia. «Devi respirare **piano**.»{nadia} || “**Slowly**,” says Nadia. “You have to breathe **slowly**.”
+«Ah,»{matteo} dice Matteo. || “Ah,” says Matteo.
+«Hai tanta **forza**,»{nadia} dice Nadia. «Ma hai **poca** **pazienza**.»{nadia} || “You have a lot of **strength**,” says Nadia. “But you have **little** **patience**.”
+«Ho molta forza, sì,»{matteo|proud} dice Matteo. || “I have a lot of strength, yes,” says Matteo.
+«E poca pazienza,»{nadia} ripete Nadia. || “And little patience,” Nadia repeats.
+«Anche io?»{ben} chiede Kevin. || “Me too?” Kevin asks.
+«Tu sei **molto** meglio,»{nadia} dice Nadia. || “You're **much** better,” says Nadia.
+Kevin sorride **facilmente** e prende un panno. || Kevin smiles **easily** and takes a cloth.
+«Allora: io pulisco **piano**, tu ti siedi **piano**,»{ben} dice Kevin. || “So: I clean **slowly**, you sit **slowly**,” says Kevin.
+«Sì,»{nadia} dice Nadia. || “Yes,” says Nadia.
+«E Matteo?»{ben} chiede Kevin. || “And Matteo?” Kevin asks.
+«Matteo porta il latte,»{nadia} dice Nadia. «Solo il latte.»{nadia} || “Matteo brings the milk,” says Nadia. “Only the milk.”
+Matteo prende il latte **lentamente** e lo mette nel frigo. || Matteo takes the milk **slowly** and puts it in the fridge.
+«Fatto!»{matteo} dice Matteo. || “Done!” says Matteo.
+«Bene,»{nadia} dice Nadia. «Una cosa alla volta.»{nadia} || “Good,” says Nadia. “One thing at a time.”
+_Nessuno mi ha insegnato a riposare._{nadia} pensa Nadia. || *Nobody has taught me how to rest.* Nadia thinks.
+_Ma forse posso imparare._{nadia} pensa Nadia. || *But maybe I can learn.* Nadia thinks.
+«Il medico ha detto **piano**,»{nadia} dice Nadia. «E Matteo ha capito **veloce**.»{nadia} || “The doctor said **slowly**,” says Nadia. “And Matteo understood **fast**.”
+
+# SCENE parco | mercoledì pomeriggio | franco, kevin, leo
+Mercoledì pomeriggio, alle cinque, al Parco dei Tigli. || Wednesday afternoon, at five, at Parco dei Tigli.
+Il sole è basso e il **campo** di bocce è tranquillo. || The sun is low and the bocce **court** is quiet.
+Franco è già sul campo con una boccia in mano. || Franco is already on the court with a boccia in his hand.
+Kevin arriva correndo con due bottiglie d'acqua. || Kevin arrives running with two bottles of water.
+«Sono pronto per l'**allenamento**!»{ben|enthusiastic} dice Kevin. || “I'm ready for **practice**!” says Kevin.
+«Questo non è un allenamento,»{franco} dice Franco. || “This isn't a training session,” says Franco.
+«E che cos'è?»{ben} chiede Kevin. || “And what is it?” Kevin asks.
+«È una lezione,»{franco} dice Franco. «La prima.»{franco} || “It's a lesson,” says Franco. “The first one.”
+«Ah. Allora sono pronto per la lezione!»{ben} dice Kevin. || “Ah. Then I'm ready for the lesson!” says Kevin.
+Franco sospira e mette la boccia nella mano di Kevin. || Franco sighs and puts the boccia in Kevin's hand.
+«Il braccio,»{franco} dice Franco. «Fai vedere il braccio.»{franco} || “The arm,” says Franco. “Show me the arm.”
+Kevin alza il braccio **velocemente**. || Kevin raises his arm **quickly**.
+«No,»{franco|calm} dice Franco. «**Piano**.»{franco} || “No,” says Franco. “**Slowly**.”
+Kevin alza il braccio **lentamente**. || Kevin raises his arm **slowly**.
+«Meglio,»{franco} dice Franco. «Un **poco** meglio.»{franco} || “Better,” says Franco. “A **little** better.”
+«Un poco meglio è bene!»{ben} dice Kevin. || “A little better is good!” says Kevin.
+«Un poco meglio non è bene,»{franco} dice Franco. «È un poco meglio.»{franco} || “A little better isn't good,” says Franco. “It's a little better.”
+
+Franco prende un'altra boccia e la butta **piano**. || Franco takes another boccia and throws it **slowly**.
+La boccia va **lentamente** e si ferma vicino alla **palla** bianca. || The boccia goes **slowly** and stops near the white **ball**.
+«Vedi?»{franco} dice Franco. «Il **movimento** è lento.»{franco} || “See?” says Franco. “The **movement** is slow.”
+«Sì, vedo,»{ben} dice Kevin. || “Yes, I see,” says Kevin.
+«Adesso **respira**,»{franco} dice Franco. || “Now **breathe**,” says Franco.
+Kevin respira **forte**, come dopo una corsa. || Kevin breathes **loudly**, like after a run.
+«Respiri troppo forte,»{franco} dice Franco. || “You breathe too loudly,” says Franco.
+«Scusa,»{ben} dice Kevin. || “Sorry,” says Kevin.
+«**Respira** piano, e poi butta,»{franco} dice Franco. || “**Breathe** slowly, and then throw,” says Franco.
+Kevin respira piano, chiude un occhio e butta. || Kevin breathes slowly, closes one eye and throws.
+La boccia va **facilmente** vicino alla palla. || The boccia goes **easily** near the ball.
+«Ehi!»{ben|proud} dice Kevin. «Un **punto**?»{ben} || “Hey!” says Kevin. “A **point**?”
+«No,»{franco} dice Franco. «Ma quasi.»{franco} || “No,” says Franco. “But almost.”
+«Quasi è **molto** bene,»{ben} dice Kevin. || “Almost is **very** good,” says Kevin.
+«Quasi non è un punto,»{franco|dry} dice Franco. || “Almost isn't a point,” says Franco.
+
+Arriva Leo con lo zaino della scuola. || Leo arrives with his school backpack.
+«Ciao, nonno Franco!»{leo} dice Leo. || “Hi, Grandpa Franco!” says Leo.
+«Ciao, Leo,»{franco|warm} dice Franco. || “Hi, Leo,” says Franco.
+«Che cosa fate?»{leo} chiede Leo. || “What are you doing?” Leo asks.
+«**Ci alleniamo**,»{ben} dice Kevin. || “**We're training**,” says Kevin.
+«Per che cosa?»{leo} chiede Leo. || “For what?” Leo asks.
+«Per il **torneo** di primavera,»{franco} dice Franco. || “For the spring **tournament**,” says Franco.
+«E poi per la **finale**,»{ben} dice Kevin. «A giugno.»{ben} || “And then for the **final**,” says Kevin. “In June.”
+Leo guarda la palla bianca sul **campo**. || Leo looks at the white ball on the **court**.
+«Che cos'è quella **palla** bianca?»{leo} chiede Leo. || “What's that white **ball**?” Leo asks.
+«È il punto da prendere,»{franco} dice Franco. «Si chiama “boccino”.»{franco} || “It's the point to take,” says Franco. “It's called the ‘boccino’.”
+«Boccino,»{leo} ripete Leo. || “Boccino,” Leo repeats.
+Leo prende il quaderno dei fatti strani e scrive. || Leo takes his notebook of strange facts and writes.
+«E chi decide i punti?»{leo} chiede Leo. || “And who decides the points?” Leo asks.
+«**L'arbitro**,»{franco} dice Franco. || “The **referee**,” says Franco.
+«E tu sei l'arbitro?»{leo} chiede Leo. || “And are you the referee?” Leo asks.
+«No. Io sono un **giocatore**,»{franco} dice Franco. || “No. I'm a **player**,” Franco says.
+«E chi è l'allenatore?»{leo} chiede Leo. || “And who is the **coach**?” Leo asks.
+Franco guarda Kevin. Kevin guarda Franco. || Franco looks at Kevin. Kevin looks at Franco.
+«Nessuno,»{franco} dice Franco. || “Nobody,” says Franco.
+«Allora io posso essere vice allenatore!»{leo|excited} dice Leo. || “Then I can be vice coach!” says Leo.
+Franco pensa **molto** e poi annuisce **lentamente**. || Franco thinks **a lot** and then nods **slowly**.
+«Va bene, vice allenatore,»{franco} dice Franco. || “Okay, vice coach,” says Franco.
+«Perfetto!»{leo} dice Leo. «Il mio primo lavoro: quanti punti ha Kevin?»{leo} || “Perfect!” says Leo. “My first job: how many points does Kevin have?”
+«Zero,»{franco} dice Franco. || “Zero,” says Franco.
+«Zero punti!»{leo|important} dice Leo. || “Zero points!” says Leo.
+Leo scrive tutto nel quaderno. || Leo writes everything in the notebook.
+
+«Adesso la **regola** più importante,»{franco} dice Franco. || “Now the most important **rule**,” says Franco.
+«Quale?»{ben} chiede Kevin. || “Which one?” Kevin asks.
+«Chi va **piano** va **sano** e va lontano,»{franco|slowly} dice Franco. || “Who goes **slowly** goes healthy and goes far,” says Franco.
+«Non capisco,»{ben} dice Kevin. || “I don't understand,” says Kevin.
+«Vuol dire: con **pazienza** vinci **facilmente**,»{franco} dice Franco. || “It means: with **patience** you win **easily**,” says Franco.
+«Con pazienza,»{ben} ripete Kevin. || “With patience,” Kevin repeats.
+«E con **poco** rumore,»{franco} dice Franco. «**Lo sport** è silenzio.»{franco} || “And with **little** noise,” says Franco. “**Sport** is silence.”
+Kevin annuisce e guarda la **squadra**: Franco, Leo, e lui. || Kevin nods and looks at the **team**: Franco, Leo, and him.
+_Siamo in tre, ma siamo una squadra._{ben} pensa Kevin. || *There are three of us, but we're a team.* Kevin thinks.
+«Franco, un **consiglio**,»{ben} dice Kevin. || “Franco, a **tip**,” says Kevin.
+«Dimmi,»{franco} dice Franco. || “Tell me,” says Franco.
+«Il braccio è **lento** o **veloce**?»{ben} chiede Kevin. || “Is the arm **slow** or **fast**?” Kevin asks.
+«Lento,»{franco} dice Franco. «Il braccio è lento. Il piede è lento.»{franco} || “Slow,” says Franco. “The arm is slow. The foot is slow.”
+«E il cuore?»{leo} chiede Leo. || “And the heart?” Leo asks.
+Franco sorride un pochino. || Franco smiles a tiny bit.
+«Il cuore va **forte**. Il braccio va piano,»{franco} dice Franco. || “The heart goes **fast**. The arm goes slowly,” says Franco.
+«Ah! Il cuore forte e il braccio piano,»{leo} dice Leo. «Bello!»{leo} || “Ah! The heart fast and the arm slow,” says Leo. “Nice!”
+Kevin prende l'ultima boccia della lezione. || Kevin takes the last boccia of the lesson.
+Respira piano, alza il braccio piano e butta piano. || He breathes slowly, raises his arm slowly and throws slowly.
+La boccia corre **lentamente** sul campo. || The boccia runs **slowly** on the court.
+Si ferma **molto** vicino al boccino. || It stops **very** near the boccino.
+«**Poco poco**,»{franco} dice Franco. || “**Little by little**,” says Franco.
+«Poco poco!»{ben|happy} dice Kevin. «Mi piace questa frase.»{ben} || “Little by little!” says Kevin. “I like this phrase.”
+«È la frase giusta,»{franco} dice Franco. || “It's the right phrase,” says Franco.
+«Allora è la mia frase preferita,»{ben} dice Kevin. || “Then it's my favorite phrase,” says Kevin.
+Leo scrive nel quaderno dei fatti strani: “Poco poco = Kevin”. || Leo writes in his notebook of strange facts: “Little by little = Kevin”.
+
+# SCENE farmacia | giovedì pomeriggio | nadia, chiara
+Giovedì pomeriggio, alla Farmacia Centrale. || Thursday afternoon, at the Farmacia Centrale.
+La porta si apre **velocemente** e entra Chiara. || The door opens **quickly** and Chiara comes in.
+Ha il telefono in una mano e il computer nell'altra. || She has the phone in one hand and the computer in the other.
+Cammina verso il bancone senza guardare. || She walks toward the counter without looking.
+«Buongiorno,»{nadia|calm} dice Nadia. || “Good morning,” says Nadia.
+«Buongiorno,»{chiara|fast} dice Chiara. «Ho bisogno di qualcosa per la testa.»{chiara} || “Good morning,” says Chiara. “I need something for my head.”
+«Per la testa?»{nadia} chiede Nadia. || “For your head?” Nadia asks.
+«Sì. La testa fa male **tanto**,»{chiara} dice Chiara. || “Yes. My head hurts **a lot**,” says Chiara.
+Nadia guarda Chiara **lentamente**. || Nadia looks at Chiara **slowly**.
+«Chiara,»{nadia} dice Nadia. «Sei tu?»{nadia} || “Chiara,” says Nadia. “Is that you?”
+«Nadia!»{chiara|surprised} dice Chiara. «Che stupida, non ti ho vista.»{chiara} || “Nadia!” says Chiara. “How silly, I didn't see you.”
+«Hai **molto** da fare oggi?»{nadia} chiede Nadia. || “Do you have **a lot** to do today?” Nadia asks.
+«Un **pochino**,»{chiara|dry} dice Chiara. || “A **little**,” says Chiara.
+«Un pochino?»{nadia} chiede Nadia. || “A little?” Nadia asks.
+«Va bene, **molto**,»{chiara} dice Chiara. «Troppo.»{chiara} || “Okay, **a lot**,” says Chiara. “Too much.”
+Nadia prende una scatola di pastiglie **lentamente**. || Nadia takes a box of pills **slowly**.
+«Siediti un momento,»{nadia} dice Nadia. «Parlo io.»{nadia} || “Sit down a moment,” says Nadia. “Let me talk.”
+«Non posso sedermi,»{chiara} dice Chiara. «Ho sei cose da fare.»{chiara} || “I can't sit down,” says Chiara. “I have six things to do.”
+«Sei?»{nadia} chiede Nadia. || “Six?” Nadia asks.
+«Sette,»{chiara} dice Chiara. «Otto.»{chiara} || “Seven,” says Chiara. “Eight.”
+Nadia sorride **facilmente** e aspetta. || Nadia smiles **easily** and waits.
+«Tu come stai?»{chiara|curious} chiede Chiara. || “How are you?” Chiara asks.
+«Sto bene,»{nadia} dice Nadia. «Ma lavoro **tanto** e **riposo** **poco**.»{nadia} || “I'm fine,” says Nadia. “But I work **a lot** and I **rest** **little**.”
+«Come me,»{chiara} dice Chiara. || “Like me,” says Chiara.
+«Sì,»{nadia} dice Nadia. «Come te.»{nadia} || “Yes,” says Nadia. “Like you.”
+Chiara mette il telefono sul bancone. || Chiara puts the phone on the counter.
+_Otto cose. Forse nove._{chiara} pensa Chiara. || *Eight things. Maybe nine.* Chiara thinks.
+
+«Sai, ho fatto la visita,»{nadia} dice Nadia. || “You know, I had my check-up,” says Nadia.
+«Tutto bene?»{chiara} chiede Chiara. || “Everything okay?” Chiara asks.
+«Tutto bene. Ma il medico ha detto una cosa,»{nadia} dice Nadia. || “Everything's fine. But the doctor said something,” says Nadia.
+«Cosa?»{chiara} chiede Chiara. || “What?” Chiara asks.
+«Devo lavorare **poco** e stare **tranquilla**,»{nadia} dice Nadia. || “I have to work **little** and stay **calm**,” says Nadia.
+«Tranquilla,»{chiara} ripete Chiara. || “Calm,” Chiara repeats.
+«Tutto **lento**. Tutto **piano**,»{nadia} dice Nadia. || “Everything **slow**. Everything **slowly**,” says Nadia.
+Chiara guarda Nadia e non parla per un momento. || Chiara looks at Nadia and doesn't speak for a moment.
+«Come si impara?»{chiara|serious} chiede Chiara. || “How do you learn it?” Chiara asks.
+«Che cosa?»{nadia} chiede Nadia. || “What?” Nadia asks.
+«A essere lenta,»{chiara} dice Chiara. «A stare **piano**.»{chiara} || “To be slow,” says Chiara. “To take it **slowly**.”
+Nadia pensa **molto** prima di rispondere. || Nadia thinks **a lot** before answering.
+«Non lo so,»{nadia} dice Nadia. «Anche io sto imparando.»{nadia} || “I don't know,” says Nadia. “I'm learning too.”
+«Tu?»{chiara|surprised} chiede Chiara. || “You?” Chiara asks.
+«Nessuno mi ha insegnato,»{nadia} dice Nadia. «Ma voglio imparare.»{nadia} || “Nobody taught me,” says Nadia. “But I want to learn.”
+Nadia prende una penna e un foglietto **lentamente**. || Nadia takes a pen and a piece of paper **slowly**.
+«Posso darti un **consiglio**,»{nadia} dice Nadia. || “I can give you a **tip**,” says Nadia.
+«Per favore,»{chiara} dice Chiara. || “Please,” says Chiara.
+«Uno: **respira**,»{nadia} dice Nadia. || “One: **breathe**,” says Nadia.
+«Respirare,»{chiara} ripete Chiara. || “Breathe,” Chiara repeats.
+«Due: una cosa alla volta,»{nadia} dice Nadia. || “Two: one thing at a time,” says Nadia.
+«Una cosa alla volta,»{chiara} ripete Chiara. || “One thing at a time,” Chiara repeats.
+«Tre: non correre,»{nadia} dice Nadia. || “Three: don't run,” says Nadia.
+«Non corro,»{chiara|dry} dice Chiara. || “I don't run,” says Chiara.
+«Corri sempre,»{nadia} dice Nadia. || “You always run,” says Nadia.
+«Va bene, corro,»{chiara} dice Chiara. || “Okay, I run,” says Chiara.
+Nadia scrive il consiglio sul foglietto e lo dà a Chiara. || Nadia writes the tip on the paper and gives it to Chiara.
+Chiara legge e sospira **forte**. || Chiara reads and sighs **loudly**.
+«Io non ho **pazienza**,»{chiara} dice Chiara. || “I don't have **patience**,” says Chiara.
+«Neanche io,»{nadia} dice Nadia. || “Me neither,” says Nadia.
+«Allora siamo in due,»{chiara|dry} dice Chiara. || “Then there are two of us,” says Chiara.
+«Siamo in due,»{nadia} dice Nadia. «Ma io ho una **forza** nuova.»{nadia} || “There are two of us,” says Nadia. “But I have a new **strength**.”
+«Quale?»{chiara} chiede Chiara. || “What?” Chiara asks.
+«Il bambino,»{nadia} dice Nadia. || “The baby,” says Nadia.
+Chiara guarda la pancia di Nadia e sorride. || Chiara looks at Nadia's belly and smiles.
+«Hai ragione,»{chiara} dice Chiara. || “You're right,” says Chiara.
+«Prova a fare una cosa **lentamente**,»{nadia} dice Nadia. || “Try to do one thing **slowly**,” says Nadia.
+«Quale cosa?»{chiara} chiede Chiara. || “Which thing?” Chiara asks.
+«Andare a casa,»{nadia} dice Nadia. «Cammina lentamente fino a casa.»{nadia} || “Going home,” says Nadia. “Walk slowly home.”
+Chiara mette il telefono in borsa **lentamente**. || Chiara puts the phone in her bag **slowly**.
+«Grazie, Nadia,»{chiara} dice Chiara. «Ci vediamo domenica.»{chiara} || “Thanks, Nadia,” says Chiara. “See you Sunday.”
+«Ci vediamo,»{nadia} dice Nadia. || “See you,” says Nadia.
+Chiara esce dalla farmacia **lentamente**. || Chiara goes out of the pharmacy **slowly**.
+Nadia guarda la porta e sorride **facilmente**. || Nadia looks at the door and smiles **easily**.
+_Ha capito qualcosa._{nadia} pensa Nadia. || *She understood something.* Nadia thinks.
+_Ma adesso cammina piano e dice che è un caso._{nadia} pensa Nadia. || *But now she walks slowly and says it's an accident.* Nadia thinks.
+
+# SCENE bar-tigli | sabato mattina | matteo, nadia, franco, kevin
+Sabato mattina al Bar Tigli. || Saturday morning at Bar Tigli.
+Kevin ha aperto alle sei e ha già fatto **tanto** caffè. || Kevin opened at six and has already made **a lot** of coffee.
+Nadia è seduta su una sedia, vicino alla finestra. || Nadia is sitting on a chair, near the window.
+Matteo corre **velocemente** da un tavolo all'altro. || Matteo runs **quickly** from one table to another.
+Ha comprato **troppi** cornetti. || He has bought **too many** croissants.
+Ha comprato **troppo** latte. || He has bought **too much** milk.
+Ha preparato un dolce che nessuno ha chiesto. || He has made a dessert that nobody asked for.
+«Amore, guarda!»{matteo|enthusiastic} dice Matteo. || “Love, look!” says Matteo.
+«Guardo,»{nadia|dry} dice Nadia. || “I'm looking,” says Nadia.
+«Ho fatto tre cose insieme!»{matteo} dice Matteo. || “I did three things at once!” says Matteo.
+«Ho visto,»{nadia} dice Nadia. || “I saw,” says Nadia.
+Matteo prende una teglia e la mette sul bancone. || Matteo takes a baking tray and puts it on the counter.
+Poi prende un panno e pulisce. || Then he takes a cloth and cleans.
+Poi prende il telefono e risponde a un messaggio. || Then he takes the phone and answers a message.
+Poi apre il frigorifero e chiude il frigorifero. || Then he opens the fridge and closes the fridge.
+«Matteo,»{nadia} dice Nadia. || “Matteo,” says Nadia.
+«Sì, amore?»{matteo} dice Matteo. || “Yes, love?” says Matteo.
+«Ti siedi?»{nadia} chiede Nadia. || “Will you sit down?” Nadia asks.
+«Non posso, ho **tanto** da fare!»{matteo} dice Matteo. || “I can't, I have **a lot** to do!” says Matteo.
+«Allora fai una cosa sola,»{nadia} dice Nadia. || “Then do only one thing,” says Nadia.
+«Una cosa sola?»{matteo} chiede Matteo. || “Only one thing?” Matteo asks.
+«Sì. **Lentamente**,»{nadia} dice Nadia. || “Yes. **Slowly**,” says Nadia.
+«Ma io aiuto **facilmente** tre volte più di una persona normale!»{matteo} dice Matteo. || “But I help **easily** three times more than a normal person!” says Matteo.
+«No,»{nadia} dice Nadia. «Aiuti **male** tre volte.»{nadia} || “No,” says Nadia. “You help **badly** three times.”
+«Ah,»{matteo} dice Matteo. || “Ah,” says Matteo.
+Kevin arriva dal retro con una scatola vuota. || Kevin comes from the back with an empty box.
+«Che succede?»{ben} chiede Kevin. || “What's happening?” Kevin asks.
+«Matteo aiuta male,»{nadia} dice Nadia. || “Matteo helps badly,” says Nadia.
+«Ho un **consiglio**,»{ben} dice Kevin. || “I have a **tip**,” says Kevin.
+«Ancora un consiglio?»{matteo} chiede Matteo. || “Another tip?” Matteo asks.
+«Una cosa alla volta,»{ben} dice Kevin. «È una **regola** di Franco.»{ben} || “One thing at a time,” says Kevin. “It's one of Franco's **rules**.”
+
+La porta si apre ed entra Franco. || The door opens and Franco comes in.
+«Buongiorno,»{franco|grumbling} dice Franco. || “Good morning,” says Franco.
+«Buongiorno, papà,»{matteo} dice Matteo. || “Good morning, Dad,” says Matteo.
+Franco guarda i cornetti, il latte e il dolce. || Franco looks at the croissants, the milk and the dessert.
+«Mah,»{franco} dice Franco. || “Hmm,” says Franco.
+«Che cosa vuol dire “mah”?»{matteo} chiede Matteo. || “What does ‘hmm’ mean?” Matteo asks.
+«Vuol dire: troppa roba,»{franco} dice Franco. || “It means: too much stuff,” says Franco.
+«Ho voluto aiutare Nadia,»{matteo} dice Matteo. || “I wanted to help Nadia,” says Matteo.
+«Chi fa da sé fa per tre,»{franco|slowly} dice Franco. || “Who does it himself does the work of three,” says Franco.
+«Ma io ho fatto il lavoro di tre!»{matteo} dice Matteo. || “But I did the work of three!” says Matteo.
+«Sì. Tre volte male,»{franco} dice Franco. || “Yes. Three times badly,” says Franco.
+Kevin ride piano dietro il bancone. || Kevin laughs quietly behind the counter.
+«Papà, io voglio solo **riposare** un po',»{nadia} dice Nadia. || “Dad, I just want to **rest** a little,” says Nadia.
+Franco si siede accanto a Nadia. || Franco sits next to Nadia.
+«Nadia, dimmi una cosa,»{franco|slow} dice Franco. || “Nadia, tell me one thing,” says Franco.
+«Quale?»{nadia} chiede Nadia. || “Which?” Nadia asks.
+«Che cosa vuoi tu?»{franco} chiede Franco. || “What do you want?” Franco asks.
+Nadia pensa **molto** e guarda Matteo. || Nadia thinks **a lot** and looks at Matteo.
+_Voglio una cosa **lenta** e **facile**._{nadia} pensa Nadia. || *I want something **slow** and **easy**.* Nadia thinks.
+«Voglio te,»{nadia} dice Nadia. || “I want you,” says Nadia.
+«Me?»{matteo} chiede Matteo. || “Me?” Matteo asks.
+«Sì. Voglio te accanto a me,»{nadia} dice Nadia. «**Piano**.»{nadia} || “Yes. I want you next to me,” says Nadia. “**Slowly**.”
+«Piano,»{matteo} ripete Matteo. || “Slowly,” Matteo repeats.
+«Un **movimento** alla volta,»{nadia} dice Nadia. || “One **movement** at a time,” says Nadia.
+Matteo chiude gli occhi e **respira** piano. || Matteo closes his eyes and **breathes** slowly.
+«Va bene,»{matteo} dice Matteo. «Provo.»{matteo} || “Okay,” says Matteo. “I'll try.”
+Franco annuisce **lentamente**. || Franco nods **slowly**.
+
+«Kevin, domenica viene anche Matteo?»{franco} chiede Franco. || “Kevin, is Matteo coming Sunday too?” Franco asks.
+«Sì, per la **gara**,»{ben} dice Kevin. || “Yes, for the **game**,” says Kevin.
+«Matteo, la domenica è una gara di bocce,»{ben} dice Kevin. || “Matteo, Sunday is a bocce game,” Kevin says.
+«Che cos'è una gara esattamente?»{matteo} chiede Matteo. || “What exactly is a game?” Matteo asks.
+«È una partita con una **squadra** e un'altra squadra,»{ben} dice Kevin. || “It's a match with a **team** and another team,” says Kevin.
+«Capito,»{matteo} dice Matteo. || “Got it,” says Matteo.
+«E c'è **l'arbitro**,»{ben} dice Kevin. || “And there's the **referee**,” says Kevin.
+«Chi decide il **risultato**?»{matteo} chiede Matteo. || “Who decides the **result**?” Matteo asks.
+«L'arbitro,»{ben} dice Kevin. «Lui conta i **punti**.»{ben} || “The referee,” says Kevin. “He counts the **points**.”
+Franco ascolta e non corregge niente. || Franco listens and doesn't correct anything.
+Kevin guarda Franco con un sorriso. || Kevin looks at Franco with a smile.
+«Ho detto bene?»{ben|proud} chiede Kevin. || “Did I say it right?” Kevin asks.
+«Quasi bene,»{franco} dice Franco. || “Almost right,” says Franco.
+«Quasi bene è bene!»{ben} dice Kevin. || “Almost right is good!” says Kevin.
+«No,»{franco|dry} dice Franco. «Ma per **lo sport** va bene.»{franco} || “No,” says Franco. “But for **sport** it's fine.”
+Leo arriva dalla porta con la merenda in mano. || Leo arrives through the door with his snack in his hand.
+«Nonno, domenica vengo anche io!»{leo} dice Leo. || “Grandpa, I'm coming Sunday too!” says Leo.
+«Tu sei il vice allenatore,»{franco} dice Franco. || “You're the vice coach,” says Franco.
+«E porto il quaderno dei punti!»{leo} dice Leo. || “And I'm bringing the points notebook!” says Leo.
+Matteo alza una mano **lentamente**. || Matteo raises a hand **slowly**.
+«Io porto una cosa sola,»{matteo} dice Matteo. || “I'm carrying only one thing,” says Matteo.
+«Una cosa sola?»{nadia} chiede Nadia. || “Only one thing?” Nadia asks.
+«Il tuo cappotto,»{matteo} dice Matteo. «Solo il cappotto.»{matteo} || “Your coat,” says Matteo. “Only the coat.”
+Nadia sorride e mette la mano sulla mano di Matteo. || Nadia smiles and puts her hand on Matteo's hand.
+«Bene,»{nadia} dice Nadia. || “Good,” says Nadia.
+«E la **pazienza**?»{franco} chiede Franco. || “And **patience**?” Franco asks.
+«Sto imparando,»{matteo} dice Matteo. || “I'm learning,” says Matteo.
+«Anch'io,»{nadia} dice Nadia. || “Me too,” says Nadia.
+«Anch'io,»{ben} dice Kevin. || “Me too,” says Kevin.
+Franco prende il suo caffè e beve **lentamente**. || Franco takes his coffee and drinks **slowly**.
+«Il **torneo** è a giugno,»{franco} dice Franco. «E noi siamo in quattro.»{franco} || “The **tournament** is in June,” says Franco. “And there are four of us.”
+«In quattro!»{ben|happy} dice Kevin. «Una squadra vera!»{ben} || “Four of us!” says Kevin. “A real team!”
+«Sì. Una squadra vera,»{franco} dice Franco. || “Yes. A real team,” says Franco.
+
+# SCENE parco | domenica mattina | franco, kevin, leo, nadia, matteo, ornella
+Domenica mattina, alle nove, al Parco dei Tigli. || Sunday morning, at nine, at Parco dei Tigli.
+Il **campo** di bocce è pieno di gente. || The bocce **court** is full of people.
+C'è una **squadra** di signori anziani e una squadra di Borgoverde. || There's a **team** of elderly gentlemen and a team from Borgoverde.
+Franco mette la sua boccia nella borsa. || Franco puts his boccia in his bag.
+Kevin arriva con una maglietta bianca e pulita. || Kevin arrives with a clean white T-shirt.
+«Pronto!»{ben|nervous} dice Kevin. || “Ready!” says Kevin.
+«Respiri **forte**,»{franco} dice Franco. || “You're breathing **loudly**,” says Franco.
+«Sono un **pochino** nervoso,»{ben} dice Kevin. || “I'm a **little** nervous,” says Kevin.
+«Meglio nervoso che lento,»{franco|dry} dice Franco. || “Better nervous than slow,” says Franco.
+«Aspetta, ma io sono lento,»{ben} dice Kevin. || “Wait, but I'm slow,” says Kevin.
+«Sì,»{franco} dice Franco. «Ed è la cosa giusta.»{franco} || “Yes,” says Franco. “And that's the right thing.”
+
+Leo arriva con Nadia e Matteo. || Leo arrives with Nadia and Matteo.
+Nadia cammina **lentamente** e si siede su una panchina. || Nadia walks **slowly** and sits on a bench.
+Matteo tiene un solo cappotto in mano. || Matteo holds a single coat in his hand.
+«Un cappotto solo,»{matteo|proud} dice Matteo. || “Only one coat,” says Matteo.
+«Bravissimo,»{nadia|dry} dice Nadia. || “Very good,” says Nadia.
+«Nonno, ho il quaderno dei **punti**!»{leo} dice Leo. || “Grandpa, I have the points notebook!” says Leo.
+«Bene, vice allenatore,»{franco} dice Franco. || “Good, vice coach,” says Franco.
+Leo apre il quaderno e scrive la data **lentamente**. || Leo opens the notebook and writes the date **slowly**.
+Arriva anche Ornella con il bastone. || Ornella arrives too, with her cane.
+«Buongiorno, Ornella!»{ben} dice Kevin. || “Good morning, Ornella!” says Kevin.
+«Buongiorno, Kevin,»{ornella|warm} dice Ornella. || “Good morning, Kevin,” says Ornella.
+«Come stai?»{ben} chiede Kevin. || “How are you?” Kevin asks.
+«Bene, grazie. Sono venuta a vedere la **gara**,»{ornella} dice Ornella. || “Fine, thanks. I've come to watch the **game**,” says Ornella.
+«Signora Ornella, buongiorno,»{leo|polite} dice Leo. || “Signora Ornella, good morning,” says Leo.
+«Ciao, Leo,»{ornella} dice Ornella. «Sei qui per giocare?»{ornella} || “Hi, Leo,” says Ornella. “Are you here to play?”
+«No, io sono il vice **allenatore**,»{leo|important} dice Leo. || “No, I'm the vice **coach**,” says Leo.
+
+**L'arbitro** fischia e la gara comincia. || The **referee** whistles and the game begins.
+Kevin butta la prima boccia **forte** e va fuori dal campo. || Kevin throws the first boccia **hard** and it goes off the court.
+Kevin guarda la boccia lontana. || Kevin looks at the boccia far away.
+L'arbitro alza la mano. || The referee raises his hand.
+«Fuori!»{uomo|loud} dice l'arbitro. || “Out!” says the referee.
+«Scusa,»{ben} dice Kevin. || “Sorry,” says Kevin.
+«Kevin,»{franco|calm} dice Franco. || “Kevin,” Franco says.
+«Sì?»{ben} dice Kevin. || “Yes?” says Kevin.
+«**Respira** e butta **piano**,»{franco} dice Franco. || “**Breathe** and throw **slowly**,” says Franco.
+Kevin chiude gli occhi e respira. || Kevin closes his eyes and breathes.
+Poi butta la boccia **lentamente**. || Then he throws the boccia **slowly**.
+La **palla** va vicino al boccino. || The **ball** goes near the boccino.
+«Questo è un punto!»{leo|excited} dice Leo. || “That's a point!” says Leo.
+«**Poco** punto,»{franco} dice Franco. || “**A little** point,” says Franco.
+«Ma è un punto,»{ben} dice Kevin. || “But it's a point,” says Kevin.
+«Sì,»{franco} dice Franco. «È un punto.»{franco} || “Yes,” says Franco. “It's a point.”
+
+La gara va avanti per un'ora. || The game goes on for an hour.
+Le due squadre giocano bene. || The two teams play well.
+Nadia guarda dal banco, seduta. || Nadia watches from the bench, sitting.
+«Kevin è migliorato,»{nadia} dice Nadia. || “Kevin has improved,” says Nadia.
+«Lui si **allena** **tanto**,»{matteo} dice Matteo. || “He **trains** **a lot**,” says Matteo.
+«Non si allena tanto,»{franco} dice Franco. «Si allena **poco**.»{franco} || “He doesn't train a lot,” says Franco. “He trains **a little**.”
+«Ma ha **forza**?»{leo} chiede Leo. || “But does he have **strength**?” Leo asks.
+«Sì, ha forza,»{franco} dice Franco. «Ma usa troppo la forza.»{franco} || “Yes, he has strength,” says Franco. “But he uses too much strength.”
+«Ah,»{leo} dice Leo, e scrive nel quaderno. || “Ah,” says Leo, and writes in the notebook.
+
+Adesso il **risultato** è pari: quattro a quattro. || Now the **result** is level: four to four.
+L'ultima boccia è di Kevin. || The last boccia is Kevin's.
+_È la **finale** della partita._{ben} pensa Kevin. || *It's the **final** of the match.* Kevin thinks.
+«Kevin,»{franco|slowly} dice Franco. || “Kevin,” says Franco.
+«Sì, allenatore,»{ben} dice Kevin. || “Yes, coach,” says Kevin.
+«Piano,»{franco} dice Franco. «Solo piano.»{franco} || “Slowly,” says Franco. “Only slowly.”
+Kevin prende la boccia e guarda il boccino. || Kevin takes the boccia and looks at the boccino.
+Respira **lentamente**. || He breathes **slowly**.
+Alza il braccio **lentamente**. || He raises his arm **slowly**.
+Butta **lentamente**. || He throws **slowly**.
+La boccia corre sul **campo** e si ferma vicino al boccino. || The boccia runs on the **court** and stops near the boccino.
+Tutti guardano il **campo**. Nessuno parla. || Everybody looks at the **court**. Nobody speaks.
+«Cinque a quattro!»{uomo|loud} dice l'arbitro. || “Five to four!” says the referee.
+«Abbiamo vinto!»{leo|loud} dice Leo. || “We won!” says Leo.
+«Vinto!»{matteo|loud} dice Matteo. || “Won!” says Matteo.
+Nadia si alza **lentamente** e sorride. || Nadia gets up **slowly** and smiles.
+Matteo prende il cappotto e non prende nient'altro. || Matteo takes the coat and takes nothing else.
+«Un cappotto solo,»{nadia} dice Nadia. «Bravo.»{nadia} || “Only one coat,” says Nadia. “Well done.”
+«Kevin ha giocato **facilmente** oggi,»{ornella} dice Ornella. || “Kevin played **easily** today,” says Ornella.
+«Grazie, Ornella,»{ben} dice Kevin. || “Thanks, Ornella,” says Kevin.
+«Hai giocato piano,»{ornella} dice Ornella. «E hai vinto.»{ornella} || “You played slowly,” says Ornella. “And you won.”
+«È **lo sport** migliore,»{ben} dice Kevin. || “It's the best **sport**,” says Kevin.
+«Mah,»{franco} dice Franco. || “Hmm,” says Franco.
+
+Kevin felice prende la sua boccia. || Happy Kevin picks up his boccia.
+Franco si avvicina **lentamente** e mette una mano sulla spalla di Kevin. || Franco comes closer **slowly** and puts a hand on Kevin's shoulder.
+«Kevin,»{franco|quiet} dice Franco. || “Kevin,” says Franco.
+«Sì?»{ben} dice Kevin. || “Yes?” says Kevin.
+«Sei lento,»{franco} dice Franco. || “You're slow,” says Franco.
+Kevin aspetta. || Kevin waits.
+«Ma sei un **giocatore** della squadra,»{franco} dice Franco. || “But you're a **player** of the team,” says Franco.
+Kevin guarda Franco e non parla subito. || Kevin looks at Franco and doesn't speak right away.
+_Grazie, Franco._{ben} pensa Kevin. || *Thank you, Franco.* Kevin thinks.
+«Grazie,»{ben|warm} dice Kevin. || “Thanks,” says Kevin.
+«Piano piano,»{franco} dice Franco. «E a giugno c'è il **torneo**.»{franco} || “Slowly, slowly,” says Franco. “And in June there's the **tournament**.”
+«E poi la finale,»{ben} dice Kevin. || “And then the final,” says Kevin.
+«E poi la finale,»{franco} ripete Franco. || “And then the final,” Franco repeats.
+Leo scrive nel quaderno: “Kevin = un vero giocatore”. || Leo writes in the notebook: “Kevin = a real player”.
+
+# SCENE casa-carter | domenica sera | kevin, chiara, leo, emma
+Domenica sera, a casa Carter. || Sunday evening, at the Carter house.
+Nel corridoio, Kevin si **allena** con una boccia. || In the corridor, Kevin **trains** with a boccia.
+Leo è seduto a terra con un foglio di carta. || Leo is sitting on the floor with a piece of paper.
+Il foglio è il quaderno dei **punti**. || The paper is the points notebook.
+«Un **punto** per me,»{leo|important} dice Leo. || “One **point** for me,” says Leo.
+«Zero a uno,»{ben} dice Kevin. || “Zero to one,” says Kevin.
+«Aspetta,»{leo} dice Leo. «Zero a zero. Il **movimento** non è giusto.»{leo} || “Wait,” says Leo. “Zero to zero. The **movement** isn't right.”
+«Va bene, zero a zero,»{ben} dice Kevin. || “Okay, zero to zero,” says Kevin.
+Kevin butta la boccia **lentamente** lungo il corridoio. || Kevin throws the boccia **slowly** along the corridor.
+La boccia va verso la porta della cucina. || The boccia goes toward the kitchen door.
+Chiara esce dalla cucina con una tazza di tè. || Chiara comes out of the kitchen with a cup of tea.
+«Kevin,»{chiara|dry} dice Chiara. || “Kevin,” says Chiara.
+«Ciao, amore!»{ben} dice Kevin. || “Hi, love!” says Kevin.
+«Il corridoio è mio,»{chiara} dice Chiara. || “The corridor is mine,” says Chiara.
+«È anche il nostro **campo**,»{ben} dice Kevin. || “It's also our **court**,” says Kevin.
+«Non è un campo,»{chiara} dice Chiara. «È un corridoio.»{chiara} || “It's not a court,” says Chiara. “It's a corridor.”
+«Per la **squadra** è un campo,»{leo} dice Leo. || “For the **team** it's a court,” says Leo.
+«Esatto!»{ben} dice Kevin. || “Exactly!” says Kevin.
+Chiara sospira e guarda la boccia sul pavimento. || Chiara sighs and looks at the boccia on the floor.
+
+Emma esce dalla sua camera con le cuffie. || Emma comes out of her room with her headphones.
+Guarda Kevin, guarda Leo, guarda la boccia. || She looks at Kevin, looks at Leo, looks at the boccia.
+«Che imbarazzo,»{emma|flat} dice Emma. || “How embarrassing,” says Emma.
+«Emma, vuoi giocare?»{ben} chiede Kevin. || “Emma, do you want to play?” Kevin asks.
+«Che imbarazzo,»{emma} ripete Emma. || “How embarrassing,” Emma repeats.
+Emma torna in camera sua e chiude la porta **lentamente**. || Emma goes back to her room and closes the door **slowly**.
+«Domani a scuola lo racconta a tutti,»{chiara} dice Chiara. || “Tomorrow at school she'll tell everyone,” says Chiara.
+«Non è vero,»{ben} dice Kevin. || “That's not true,” says Kevin.
+«**Poco**? L'anno scorso ha raccontato tutto della tua colazione americana,»{chiara} dice Chiara. || “**A little**? Last year she told everyone about your American breakfast,” says Chiara.
+«Ah, è vero,»{ben} dice Kevin. || “Ah, that's true,” says Kevin.
+«Kevin, **ti alleni** **molto** in casa,»{chiara} dice Chiara. || “Kevin, **you train** **a lot** at home,” says Chiara.
+«Ho il torneo a giugno,»{ben} dice Kevin. || “I have the tournament in June,” says Kevin.
+«E sei l'**allenatore** di casa?»{chiara|dry} chiede Chiara. || “And you're the house **coach**?” Chiara asks.
+«No, io sono il giocatore,»{ben} dice Kevin. «L'allenatore è Franco.»{ben} || “No, I'm the player,” says Kevin. “The coach is Franco.”
+Chiara sorride per la prima volta. || Chiara smiles for the first time.
+«Allora va bene,»{chiara} dice Chiara. || “Then it's fine,” says Chiara.
+«Bene,»{ben} dice Kevin. «Due minuti e poi smetto.»{ben} || “Good,” says Kevin. “Two minutes and then I stop.”
+Kevin butta l'ultima boccia **piano**, **piano**. || Kevin throws the last boccia **slowly**, **slowly**.
+La boccia si ferma vicino al muro. || The boccia stops near the wall.
+«Punto!»{leo|excited} dice Leo. || “Point!” says Leo.
+«Punto vero?»{ben} chiede Kevin. || “A real point?” Kevin asks.
+«No,»{leo} dice Leo. «Zero punti.»{leo} || “No,” says Leo. “Zero points.”
+«Zero punti?»{ben} chiede Kevin. || “Zero points?” Kevin asks.
+«Sì. Come sempre,»{leo} dice Leo. || “Yes. Like always,” says Leo.
+Chiara beve il tè **lentamente** e guarda i due. || Chiara drinks her tea **slowly** and looks at the two of them.
+«**Piano piano**, Kevin,»{chiara|smiling} dice Chiara. || “**Slowly, slowly**, Kevin,” says Chiara.
+«Piano piano,»{ben} dice Kevin. «Questa è la frase della nostra famiglia.»{ben} || “Slowly, slowly,” says Kevin. “That's our family motto.”
+«No,»{chiara} dice Chiara. || “No,” says Chiara.
+«Sì,»{leo} dice Leo. «Piano piano!»{leo} || “Yes,” says Leo. “Slowly, slowly!”
+Kevin prende la boccia **lentamente** e la mette in un cesto. || Kevin picks up the boccia **slowly** and puts it in a basket.
+«Domani ti alleni fuori,»{chiara} dice Chiara. || “Tomorrow you train outside,” says Chiara.
+«Va bene,»{ben} dice Kevin. || “Okay,” says Kevin.
+«Nel campo vero,»{chiara} dice Chiara. || “On the real court,” says Chiara.
+«Con Franco,»{ben} dice Kevin. || “With Franco,” says Kevin.
+«Con la squadra,»{leo} dice Leo. || “With the team,” says Leo.
+Leo scrive l'ultima cosa sul foglio: “Kevin = zero punti, ma **poco** importa”. || Leo writes the last thing on the paper: “Kevin = zero points, but it **hardly** matters”.
+
+@grammar
+
+# Adverbs in *-mente*, and *molto / tanto / troppo / poco*
+
+## What it is
+
+An adverb tells you **how**, **how much** or **when** something happens. In Italian, most adverbs of manner are built from an adjective, and they all end in **-mente** — the equivalent of English **-ly**: *lento* → *lentamente* ("slowly"), *veloce* → *velocemente* ("quickly"), *facile* → *facilmente* ("easily").
+
+The words *molto*, *tanto*, *troppo* and *poco* are special: the same word can be an adjective (describing a noun, and changing ending) or an adverb (describing a verb or an adjective, and never changing).
+
+## How it works
+
+### 1. Forming the -mente adverb
+
+Take the **feminine singular** of the adjective and add **-mente**:
+
+| Adjective | Feminine | Adverb | Meaning |
+|---|---|---|---|
+| lento | lenta | **lentamente** | slowly |
+| veloce | veloce | **velocemente** | quickly |
+| facile | facile | **facilmente** | easily |
+| vero | vera | **veramente** | really |
+| chiaro | chiara | **chiaramente** | clearly |
+| perfetto | perfetta | **perfettamente** | perfectly |
+
+Adjectives ending in **-le** or **-re** keep just one *l/r* before -mente: *facile → facilmente*, *regolare → regolarmente*.
+
+If the adjective ends in **-e** (like *veloce*, *semplice*), the feminine is the same as the masculine, so you just add -mente: *velocemente*, *semplicemente*.
+
+### 2. Irregular adverbs you must memorize
+
+Some very common adverbs are not formed with -mente:
+
+- **bene** (well) — *Gioca bene.* ("He plays well.")
+- **male** (badly) — *Aiuti male.* ("You help badly.")
+- **piano** (slowly / quietly) — from *piano* "flat, soft".
+- **forte** (hard / loudly) — from *forte* "strong".
+
+*Bene* and *male* are irregular adverbs of *buono* and *cattivo*.
+
+### 3. *molto, tanto, troppo, poco*: adjective or adverb?
+
+| Role | Agrees? | Example |
+|---|---|---|
+| Adjective (before a noun) | Yes: molto/molti/molta/molte | **molti** amici, **troppa** roba |
+| Adverb (with a verb) | No, always the same form | lavoro **molto**, mangio **poco** |
+| Adverb (with an adjective) | No | **molto** bene, **troppo** forte |
+
+The rule of thumb: if there is a **noun** right after the word, it agrees with it (*molti amici*). If there is a **verb** or an **adjective**, it stays invariable (*lavoro molto*, *molto bene*).
+
+Compare:
+- *Ha comprato **troppi** cornetti.* (adjective, agrees with *cornetti*)
+- *Ha comprato **troppo** latte.* (*latte* is uncountable, so no plural)
+- *Kevin corre **troppo** **velocemente**.* (adverb + adverb)
+- *Ha lavorato **tanto**.* (adverb)
+
+*Tanto* works exactly like *molto*: *tanta forza*, *lavora tanto*.
+
+### 4. Position
+
+The adverb of manner usually goes **after** the verb: *Gioca **lentamente***. In speech, *piano*, *forte*, *molto*, *poco* can also be repeated for rhythm: *piano piano*, *poco poco*.
+
+## From the story
+
+- [[Due signori giocano lentamente.]] — *lentamente* is built from *lenta* + *-mente* and follows the verb.
+- [[Il gioco è lento.]] — here it is an adjective agreeing with *gioco*, not an adverb.
+- [[Kevin butta la prima boccia forte e va fuori dal campo.]] — *forte* is an invariable irregular adverb meaning "hard".
+- [[Devo lavorare poco]] — *poco* is an adverb with the verb *lavorare*, so it does not change.
+- [[E devo riposare molto]] — *molto* works the same way: invariable, after the verb.
+- [[Ha comprato troppi cornetti.]] — *troppo* is now an adjective: it agrees with *cornetti* (masculine plural → *troppi*).
+- [[Ha comprato troppo latte.]] — *latte* is a mass noun (like *too much milk*); *troppo* is used as an adjective but has no plural.
+- [[Sono un pochino nervoso]] — a very common spoken variant of *poco*: *un pochino* = "a little bit".
+- [[Aiuti male]] — irregular adverb *male*, formed from *cattivo*.
+- [[Hai giocato piano]] — *piano* here means "slowly", not "flat"; used as an adverb.
+- [[Abbiamo vinto!]] — from *vincere*; past participle *vinto*. Notice it carries *avere*, not *essere*: *abbiamo vinto*.
+
+## Common mistakes
+
+1. **Agreeing the adverb.** *Lavora molti* ❌ — *molto* with a verb never changes: ***Lavora molto*** ✓.
+2. **Adding -mente to the masculine form.** *lentemente* ❌ (from *lento*); the correct form uses the feminine base: ***lentamente*** ✓.
+3. **Double -mente adverbs.** *Lei parla velocementes lentamente* ❌ — adjectives do not take -mente twice. Only the last word in a series gets it: ***parla lenta e chiaramente*** ✓.
+4. **Using *bene* before the verb.** *Bene gioca* ❌ — like most adverbs, *bene* usually comes after the verb: ***Gioca bene*** ✓.
+5. **Forgetting the -e/-i endings on the adjective version.** *Ho troppa amici* ❌ (masculine plural needed) → ***Ho troppi amici*** ✓.
+6. **Confusing *piano* as "floor/plan".** Context tells you: *Gioco piano* (adverb), *abito al primo piano* (noun).
+
+## Practice
+
+Translate or complete in Italian. Use the -mente adverb or the right form of *molto / tanto / troppo / poco*.
+
+1. She speaks slowly. → Lei parla ______.
+2. He runs quickly. → Lui corre ______.
+3. We have too many problems. → Abbiamo ______ problemi.
+4. I work a lot and sleep little. → Lavoro ______ e dormo ______.
+5. You help badly. → Aiuti ______.
+6. They played easily. → Hanno giocato ______.
+7. There are very few bocce in the woods. → Le bocce nel bosco sono ______ poche.
+8. Drink slowly, please. → Bevi ______, per favore.
+
+### Answer key
+
+1. lentamente
+2. velocemente
+3. troppi
+4. molto / poco
+5. male
+6. facilmente
+7. molto (or *troppo*, but *molto poche* — nota: *molto* with an adjective does not change: *molto poche* ✓)
+8. piano

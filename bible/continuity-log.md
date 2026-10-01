@@ -284,6 +284,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco publicly honors Anna's recipe with Chiara present. No tu/Lei switch.
 - **Planted:** Ornella will make her own tiramisù "la settimana prossima"; Franco asks Kevin to bring his best dessert the following Sunday.
 
+### s02e18 · Piano piano
+- **Happened:** Kevin joins Franco's bocce team at Parco dei Tigli; he trains with Franco and on Sunday wins the gara 5–4 with the last boccia for the Borgoverde team. Nadia comes back from a checkup: the doctor says she must work little and rest, and at the pharmacy she gives Chiara the same advice (breathe, one thing at a time, don't run) on a piece of paper.
+- **New facts:** Franco keeps a 1978 notebook listing problems, with Kevin's name written under KEVIN. Leo is the team's vice allenatore and keeps a points notebook. The team is four: Franco, Kevin, Leo, Matteo. Gara at nine on Sunday; Ornella watched with her cane.
+- **Changed:** Franco accepts Kevin as a real team member ("sei un giocatore della squadra"); Matteo is trying to do one thing at a time, and promises only to carry Nadia's coat.
+- **Planted:** The primavera torneo and finale in June — payoff later. Nadia's pregnancy and her forced slow-down; all well with the baby.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
