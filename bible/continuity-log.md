@@ -255,10 +255,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Matteo's idea that Kevin is a "collega vero" and the savings plan with tips; Chiara's colleagues (Giulia) still unnamed to Kevin.
 
 ### s02e13 · Ci conosciamo?
-- **Happened:** Emma and Tommaso secretly see each other every morning on the 7:30 Monza train; Bianca works it out and says nothing. Franco tells Lucia he's afraid of the neighbors' talk, then promises to walk the street holding her hand. Tuesday at 5pm they do; Ornella announces "che bella coppia" from her window, then Franco brings Lucia to Bar Tigli, where Matteo and Nadia celebrate and Roberto Colombo briefly appears.
-- **New facts:** Franco has been with Lucia since September; Matteo didn't know. Ornella's cat is named Pavarotti. Bianca is Emma's schoolmate on the Borgoverde–Monza train; Lucia has a red dress, Franco a good blue shirt.
-- **Changed:** Franco and Lucia are now public; the whole street and Roberto know. Bianca knows about Emma and Tommaso; Chiara suspects via Leo's drawing but says nothing.
-- **Planted:** Emma and Tommaso's "official" status (unresolved; Bianca calls them a coppia); Chiara's suspicions; Matteo threatening to tell the whole quartiere.
+- **Happened:** Franco promises Lucia they will walk the street hand in hand; they do, and enter Bar Tigli together, where Matteo has gathered family and neighbors; Ornella shouts «Che bella coppia» from her window. Bianca guesses on the Monza train that Emma and Tommaso are secretly together; Emma admits it, but it is still "not official." Roberto drops into the bar during the party and leaves without staying.
+- **New facts:** Kevin opens Bar Tigli at 6 a.m.; Matteo gave him the keys. Bianca is Emma's classmate on the 7:30 Monza train, binario tre. Franco (72) and Lucia have been together since September. Franco's blue shirt is his special-occasion shirt.
+- **Changed:** Franco and Lucia are now public to Ornella, Kevin, Matteo, Nadia and the bar; Chiara learns of them from Leo's drawing. Bianca knows the Emma–Tommaso secret and agrees to keep it.
+- **Planted:** Emma and Tommaso still undeclared («Sono stanco di fingere»). Kevin and Roberto's politeness-only acquaintance — "conoscerci bene è un'altra cosa." Franco plans to come to the bar in the mornings.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

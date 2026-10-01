@@ -1234,7 +1234,7 @@
               },
               {
                 "type": "text",
-                "text": "Certo, fa caldo. A marzo.",
+                "text": "Certo, fa caldo. A maggio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6343,10 +6343,10 @@
           "s02e13-4-029:0-8"
         ],
         [
-          "s02e13-4-030:0-3"
+          "s02e13-4-030:0-4"
         ],
         [
-          "s02e13-4-031:0-1"
+          "s02e13-4-031:0-2"
         ],
         [
           "s02e13-4-032:0-3"
@@ -6385,7 +6385,7 @@
               },
               {
                 "type": "text",
-                "text": "E facevi che cosa?",
+                "text": "E che cosa hai fatto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6396,7 +6396,7 @@
               },
               {
                 "type": "text",
-                "text": "Scrivevo lettere.",
+                "text": "Ho scritto lettere.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7155,7 +7155,7 @@
           "s02e13-4-062:0-7"
         ],
         [
-          "s02e13-4-063:0-8"
+          "s02e13-4-063:0-10"
         ],
         [
           "s02e13-4-064:0-0"
@@ -7180,7 +7180,7 @@
               },
               {
                 "type": "text",
-                "text": "Al bar, una volta. Con la mano nella mano.",
+                "text": "A casa del nonno, una volta. Con la mano nella mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9149,7 +9149,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il treno rallenta e arriva alla stazione di Monza. Gli studenti si alzano e prendono gli zaini. Tommaso passa nel corridoio con la custodia della chitarra. Guarda Emma per un secondo e fa un cenno con la testa.",
+                "text": "Il treno rallenta e arriva alla stazione di Monza. Gli studenti si alzano e prendono gli zaini. Tommaso passa nel corridoio con la custodia del basso. Guarda Emma per un secondo e fa un cenno con la testa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10244,7 +10244,7 @@
           "s02e13-6-046:0-9"
         ],
         [
-          "s02e13-6-047:0-3"
+          "s02e13-6-047:0-1"
         ]
       ],
       "request": {
@@ -10266,7 +10266,7 @@
               },
               {
                 "type": "text",
-                "text": "Signor Franco! Signora Lucia!",
+                "text": "Franco! Lucia!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10423,7 +10423,7 @@
               },
               {
                 "type": "text",
-                "text": "Scusi. Non dico niente a nessuno.",
+                "text": "Scusa. Non dico niente a nessuno.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10663,7 +10663,7 @@
           "s02e13-6-065:0-8"
         ],
         [
-          "s02e13-6-066:0-5"
+          "s02e13-6-066:0-4"
         ],
         [
           "s02e13-6-067:0-2"
@@ -10721,7 +10721,7 @@
               },
               {
                 "type": "text",
-                "text": "È stato un onore, signor Franco.",
+                "text": "È stato un onore, Franco.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11309,7 +11309,7 @@
       ],
       "words": [
         [
-          "s02e13-7-018:0-3"
+          "s02e13-7-018:0-7"
         ],
         [
           "s02e13-7-019:0-6"
@@ -11323,7 +11323,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Papà, hai una fidanzata?",
+                "text": "Papà, hai la mano nella mano di Lucia!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11381,10 +11381,10 @@
       ],
       "words": [
         [
-          "s02e13-7-020:0-3"
+          "s02e13-7-020:0-2"
         ],
         [
-          "s02e13-7-021:0-4"
+          "s02e13-7-021:0-3"
         ],
         [
           "s02e13-7-022:0-2"
@@ -11398,7 +11398,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Mah. Da qualche mese.",
+                "text": "Mah. Oggi sì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11409,7 +11409,7 @@
               },
               {
                 "type": "text",
-                "text": "Da qualche mese? Da settembre!",
+                "text": "Oggi sì? Dopo mesi!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11420,7 +11420,7 @@
               },
               {
                 "type": "text",
-                "text": "Da settembre. Sì.",
+                "text": "Dopo mesi. Sì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11787,7 +11787,7 @@
           "s02e13-7-035:0-9"
         ],
         [
-          "s02e13-7-036:0-3"
+          "s02e13-7-036:0-2"
         ]
       ],
       "request": {
@@ -11809,7 +11809,7 @@
               },
               {
                 "type": "text",
-                "text": "Signor Franco, un bicchiere?",
+                "text": "Franco, un bicchiere?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11858,7 +11858,7 @@
           "s02e13-7-037:0-1"
         ],
         [
-          "s02e13-7-038:0-4"
+          "s02e13-7-038:0-2"
         ]
       ],
       "request": {
@@ -11880,7 +11880,7 @@
               },
               {
                 "type": "text",
-                "text": "E per la signora Lucia?",
+                "text": "E per Lucia?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11951,7 +11951,7 @@
               },
               {
                 "type": "text",
-                "text": "Prego, signora.",
+                "text": "Prego, Lucia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12331,7 +12331,7 @@
           "s02e13-7-052:0-7"
         ],
         [
-          "s02e13-7-053:0-4"
+          "s02e13-7-053:0-3"
         ]
       ],
       "request": {
@@ -12353,7 +12353,7 @@
               },
               {
                 "type": "text",
-                "text": "Signor Franco, beve seduto oggi?",
+                "text": "Franco, bevi seduto oggi?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12561,13 +12561,13 @@
           "s02e13-7-059:0-1"
         ],
         [
-          "s02e13-7-060:0-9"
+          "s02e13-7-060:0-8"
         ],
         [
-          "s02e13-7-061:0-3"
+          "s02e13-7-061:0-4"
         ],
         [
-          "s02e13-7-062:0-3"
+          "s02e13-7-062:0-6"
         ]
       ],
       "request": {
@@ -12589,7 +12589,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché non mi hai rivelato niente? A me, tuo figlio?",
+                "text": "Perché ci hai messo sei mesi per una passeggiata?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12600,7 +12600,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché tu parli troppo.",
+                "text": "Perché sono un uomo lento.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12611,7 +12611,7 @@
               },
               {
                 "type": "text",
-                "text": "È vero. Parlo troppo.",
+                "text": "Lo so. È una cosa di famiglia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12649,93 +12649,22 @@
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
-        "nadia": "nadia"
+        "roberto": "roberto"
       },
       "segment_ids": [
         "s02e13-7-063",
-        "s02e13-7-064"
-      ],
-      "words": [
-        [
-          "s02e13-7-063:0-9"
-        ],
-        [
-          "s02e13-7-064:0-3"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Nadia ride e mette la mano sul braccio di Matteo.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Matteo, lo sanno tutti!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 153,
-      "scene": 7,
-      "speakers": {
-        "matteo": "matteo",
-        "nadia": "nadia"
-      },
-      "segment_ids": [
+        "s02e13-7-064",
         "s02e13-7-065",
-        "s02e13-7-066",
-        "s02e13-7-067"
+        "s02e13-7-066"
       ],
       "words": [
         [
-          "s02e13-7-065:0-2"
+          "s02e13-7-063:0-10",
+          "s02e13-7-064:0-10",
+          "s02e13-7-065:0-8"
         ],
         [
-          "s02e13-7-066:0-5"
-        ],
-        [
-          "s02e13-7-067:0-12"
+          "s02e13-7-066:0-6"
         ]
       ],
       "request": {
@@ -12746,105 +12675,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Tutti tranne me!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Tranquillo. Adesso lo sai anche tu.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "E allora questa è una promessa: adesso lo dico a tutto il quartiere.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "matteo",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "matteo",
-                "voice": "Umbriel"
-              },
-              {
-                "speaker": "nadia",
-                "voice": "Aoede"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 154,
-      "scene": 7,
-      "speakers": {
-        "franco": "franco",
-        "narrator": "narrator"
-      },
-      "segment_ids": [
-        "s02e13-7-068",
-        "s02e13-7-069",
-        "s02e13-7-070",
-        "s02e13-7-071"
-      ],
-      "words": [
-        [
-          "s02e13-7-068:0-0"
-        ],
-        [
-          "s02e13-7-068:1-3",
-          "s02e13-7-069:0-10",
-          "s02e13-7-070:0-10",
-          "s02e13-7-071:0-8"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Matteo!",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "dice Franco, serio. In quel momento la porta si apre ed entra Roberto Colombo. Ha l'ombrello piegato in mano e il giornale sotto il braccio. Vede il bar pieno e si ferma un momento.",
+                "text": "In quel momento la porta si apre ed entra Roberto Colombo. Ha l'ombrello piegato in mano e il giornale sotto il braccio. Vede il bar pieno e si ferma un momento.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12852,60 +12683,7 @@
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
                   }
                 ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
               },
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 155,
-      "scene": 7,
-      "speakers": {
-        "roberto": "roberto",
-        "ben": "ben"
-      },
-      "segment_ids": [
-        "s02e13-7-072",
-        "s02e13-7-073",
-        "s02e13-7-074"
-      ],
-      "words": [
-        [
-          "s02e13-7-072:0-6"
-        ],
-        [
-          "s02e13-7-073:0-2"
-        ],
-        [
-          "s02e13-7-074:0-2"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
               {
                 "type": "text",
                 "text": "Buonasera a tutti. C'è molta gente, stasera.",
@@ -12916,7 +12694,56 @@
                     "style": "speaking a little slower than normal, clearly, formal"
                   }
                 ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
               },
+              {
+                "speaker": "roberto",
+                "voice": "Orus"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 153,
+      "scene": 7,
+      "speakers": {
+        "ben": "ben",
+        "roberto": "roberto"
+      },
+      "segment_ids": [
+        "s02e13-7-067",
+        "s02e13-7-068"
+      ],
+      "words": [
+        [
+          "s02e13-7-067:0-2"
+        ],
+        [
+          "s02e13-7-068:0-2"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
               {
                 "type": "text",
                 "text": "Buonasera, signor Colombo.",
@@ -12951,12 +12778,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "roberto",
-                "voice": "Orus"
-              },
-              {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "roberto",
+                "voice": "Orus"
               }
             ]
           }
@@ -12964,24 +12791,24 @@
       }
     },
     {
-      "index": 156,
+      "index": 154,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
         "roberto": "roberto"
       },
       "segment_ids": [
-        "s02e13-7-075",
-        "s02e13-7-076",
-        "s02e13-7-077"
+        "s02e13-7-069",
+        "s02e13-7-070",
+        "s02e13-7-071"
       ],
       "words": [
         [
-          "s02e13-7-075:0-9",
-          "s02e13-7-076:0-9"
+          "s02e13-7-069:0-9",
+          "s02e13-7-070:0-9"
         ],
         [
-          "s02e13-7-077:0-2"
+          "s02e13-7-071:0-2"
         ]
       ],
       "request": {
@@ -13037,22 +12864,22 @@
       }
     },
     {
-      "index": 157,
+      "index": 155,
       "scene": 7,
       "speakers": {
         "matteo": "matteo",
         "roberto": "roberto"
       },
       "segment_ids": [
-        "s02e13-7-078",
-        "s02e13-7-079"
+        "s02e13-7-072",
+        "s02e13-7-073"
       ],
       "words": [
         [
-          "s02e13-7-078:0-4"
+          "s02e13-7-072:0-4"
         ],
         [
-          "s02e13-7-079:0-4"
+          "s02e13-7-073:0-4"
         ]
       ],
       "request": {
@@ -13108,22 +12935,22 @@
       }
     },
     {
-      "index": 158,
+      "index": 156,
       "scene": 7,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e13-7-080",
-        "s02e13-7-081"
+        "s02e13-7-074",
+        "s02e13-7-075"
       ],
       "words": [
         [
-          "s02e13-7-080:0-4"
+          "s02e13-7-074:0-4"
         ],
         [
-          "s02e13-7-081:0-10"
+          "s02e13-7-075:0-10"
         ]
       ],
       "request": {
@@ -13179,26 +13006,26 @@
       }
     },
     {
-      "index": 159,
+      "index": 157,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
         "ben": "ben"
       },
       "segment_ids": [
-        "s02e13-7-082",
-        "s02e13-7-083",
-        "s02e13-7-084"
+        "s02e13-7-076",
+        "s02e13-7-077",
+        "s02e13-7-078"
       ],
       "words": [
         [
-          "s02e13-7-082:0-4"
+          "s02e13-7-076:0-4"
         ],
         [
-          "s02e13-7-083:0-3"
+          "s02e13-7-077:0-3"
         ],
         [
-          "s02e13-7-084:0-5"
+          "s02e13-7-078:0-5"
         ]
       ],
       "request": {
@@ -13265,26 +13092,26 @@
       }
     },
     {
-      "index": 160,
+      "index": 158,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
         "matteo": "matteo"
       },
       "segment_ids": [
-        "s02e13-7-085",
-        "s02e13-7-086",
-        "s02e13-7-087",
-        "s02e13-7-088"
+        "s02e13-7-079",
+        "s02e13-7-080",
+        "s02e13-7-081",
+        "s02e13-7-082"
       ],
       "words": [
         [
-          "s02e13-7-085:0-8",
-          "s02e13-7-086:0-9",
-          "s02e13-7-087:0-8"
+          "s02e13-7-079:0-8",
+          "s02e13-7-080:0-9",
+          "s02e13-7-081:0-8"
         ],
         [
-          "s02e13-7-088:0-1"
+          "s02e13-7-082:0-1"
         ]
       ],
       "request": {
@@ -13340,22 +13167,22 @@
       }
     },
     {
-      "index": 161,
+      "index": 159,
       "scene": 7,
       "speakers": {
         "ben": "ben",
         "matteo": "matteo"
       },
       "segment_ids": [
-        "s02e13-7-089",
-        "s02e13-7-090"
+        "s02e13-7-083",
+        "s02e13-7-084"
       ],
       "words": [
         [
-          "s02e13-7-089:0-3"
+          "s02e13-7-083:0-3"
         ],
         [
-          "s02e13-7-090:0-6"
+          "s02e13-7-084:0-6"
         ]
       ],
       "request": {
@@ -13411,32 +13238,32 @@
       }
     },
     {
-      "index": 162,
+      "index": 160,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
         "franco": "franco"
       },
       "segment_ids": [
-        "s02e13-7-091",
-        "s02e13-7-092",
-        "s02e13-7-093",
-        "s02e13-7-094",
-        "s02e13-7-095",
-        "s02e13-7-096",
-        "s02e13-7-097"
+        "s02e13-7-085",
+        "s02e13-7-086",
+        "s02e13-7-087",
+        "s02e13-7-088",
+        "s02e13-7-089",
+        "s02e13-7-090",
+        "s02e13-7-091"
       ],
       "words": [
         [
-          "s02e13-7-091:0-7",
-          "s02e13-7-092:0-8",
-          "s02e13-7-093:0-10",
-          "s02e13-7-094:0-8",
-          "s02e13-7-095:0-9"
+          "s02e13-7-085:0-7",
+          "s02e13-7-086:0-8",
+          "s02e13-7-087:0-10",
+          "s02e13-7-088:0-8",
+          "s02e13-7-089:0-9"
         ],
         [
-          "s02e13-7-096:0-7",
-          "s02e13-7-097:0-8"
+          "s02e13-7-090:0-7",
+          "s02e13-7-091:0-8"
         ]
       ],
       "request": {
@@ -13492,7 +13319,7 @@
       }
     },
     {
-      "index": 163,
+      "index": 161,
       "scene": 8,
       "speakers": {
         "narrator": "narrator",
@@ -13569,7 +13396,7 @@
       }
     },
     {
-      "index": 164,
+      "index": 162,
       "scene": 8,
       "speakers": {
         "roberto": "roberto",
@@ -13672,7 +13499,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 163,
       "scene": 8,
       "speakers": {
         "ben": "ben",
@@ -13773,7 +13600,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 164,
       "scene": 8,
       "speakers": {
         "narrator": "narrator",
@@ -13850,7 +13677,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 165,
       "scene": 8,
       "speakers": {
         "ben": "ben",
@@ -13921,7 +13748,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 166,
       "scene": 8,
       "speakers": {
         "narrator": "narrator",
@@ -13992,7 +13819,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 167,
       "scene": 8,
       "speakers": {
         "matteo": "matteo",
@@ -14063,7 +13890,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 168,
       "scene": 8,
       "speakers": {
         "narrator": "narrator",
@@ -14134,7 +13961,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 169,
       "scene": 8,
       "speakers": {
         "ben": "ben",
@@ -14205,7 +14032,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 170,
       "scene": 8,
       "speakers": {
         "narrator": "narrator",
@@ -14278,7 +14105,7 @@
       }
     },
     {
-      "index": 173,
+      "index": 171,
       "scene": 8,
       "speakers": {
         "ben": "ben",

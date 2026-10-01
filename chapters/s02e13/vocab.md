@@ -29,7 +29,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **l'amicizia**<br>(n., f) · friendship | «Quelli sono stati l'inizio della nostra **amicizia**.» | “Those were the start of our **friendship**.” |
-| **il fidanzato**<br>(n., m) · boyfriend; girlfriend | «Papà, hai una **fidanzata**?» | “Dad, do you have a **girlfriend**?” |
+| **il fidanzato**<br>(n., m) · boyfriend; girlfriend | «Emma, è il tuo **fidanzato**?» | “Emma, is he your **boyfriend**?” |
 | **la coppia**<br>(n., f) · couple | «Sì. Sono una **coppia**.» | “Yes. They're a **couple**.” |
 | **la mano**<br>(n., f) · hand | Poi Roberto tende la **mano**. | Then Roberto holds out his **hand**. |
 | **la bugia**<br>(n., f) · lie | «Secondo me è una **bugia**.» | “I think it's a **lie**.” |

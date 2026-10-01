@@ -106,10 +106,10 @@
       "lemma": "il fidanzato",
       "pos": "noun",
       "en": "boyfriend; girlfriend",
-      "example": "s02e13-7-018",
+      "example": "s02e13-1-052",
       "target": {
-        "it": "fidanzata",
-        "en": "girlfriend"
+        "it": "fidanzato",
+        "en": "boyfriend"
       },
       "gender": "m"
     },
@@ -5170,12 +5170,12 @@
           "segments": [
             {
               "id": "s02e13-1-057",
-              "it": "«Certo, fa caldo. A marzo.»",
-              "en": "“Sure, it's hot. In March.”",
+              "it": "«Certo, fa caldo. A maggio.»",
+              "en": "“Sure, it's hot. In May.”",
               "voice": [
                 [
                   "bianca",
-                  "Certo, fa caldo. A marzo.",
+                  "Certo, fa caldo. A maggio.",
                   "dry"
                 ]
               ],
@@ -5226,7 +5226,7 @@
                   ""
                 ],
                 [
-                  "marzo",
+                  "maggio",
                   4,
                   ""
                 ],
@@ -23394,12 +23394,12 @@
           "segments": [
             {
               "id": "s02e13-4-030",
-              "it": "«E facevi che cosa?»",
+              "it": "«E che cosa hai fatto?»",
               "en": "“And what did you do?”",
               "voice": [
                 [
                   "emma",
-                  "E facevi che cosa?",
+                  "E che cosa hai fatto?",
                   ""
                 ]
               ],
@@ -23420,7 +23420,7 @@
                   ""
                 ],
                 [
-                  "facevi",
+                  "che",
                   1,
                   ""
                 ],
@@ -23430,7 +23430,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "cosa",
                   2,
                   ""
                 ],
@@ -23440,8 +23440,18 @@
                   ""
                 ],
                 [
-                  "cosa",
+                  "hai",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fatto",
+                  4,
                   ""
                 ],
                 [
@@ -23457,12 +23467,12 @@
           "segments": [
             {
               "id": "s02e13-4-031",
-              "it": "«Scrivevo lettere.»",
+              "it": "«Ho scritto lettere.»",
               "en": "“I wrote letters.”",
               "voice": [
                 [
                   "chiara",
-                  "Scrivevo lettere.",
+                  "Ho scritto lettere.",
                   ""
                 ]
               ],
@@ -23473,7 +23483,7 @@
                   ""
                 ],
                 [
-                  "Scrivevo",
+                  "Ho",
                   0,
                   ""
                 ],
@@ -23483,8 +23493,18 @@
                   ""
                 ],
                 [
-                  "lettere",
+                  "scritto",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lettere",
+                  2,
                   ""
                 ],
                 [
@@ -26232,12 +26252,12 @@
           "segments": [
             {
               "id": "s02e13-4-063",
-              "it": "«Al bar, una volta. Con la mano nella mano.»",
-              "en": "“At the bar, once. Hand in hand.”",
+              "it": "«A casa del nonno, una volta. Con la mano nella mano.»",
+              "en": "“At Grandpa's house, once. Hand in hand.”",
               "voice": [
                 [
                   "leo",
-                  "Al bar, una volta. Con la mano nella mano.",
+                  "A casa del nonno, una volta. Con la mano nella mano.",
                   ""
                 ]
               ],
@@ -26248,7 +26268,7 @@
                   ""
                 ],
                 [
-                  "Al",
+                  "A",
                   0,
                   ""
                 ],
@@ -26258,17 +26278,17 @@
                   ""
                 ],
                 [
-                  "bar",
+                  "casa",
                   1,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "una",
+                  "del",
                   2,
                   ""
                 ],
@@ -26278,17 +26298,17 @@
                   ""
                 ],
                 [
-                  "volta",
+                  "nonno",
                   3,
                   ""
                 ],
                 [
-                  ". ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "Con",
+                  "una",
                   4,
                   ""
                 ],
@@ -26298,17 +26318,17 @@
                   ""
                 ],
                 [
-                  "la",
+                  "volta",
                   5,
                   ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "mano",
+                  "Con",
                   6,
                   ""
                 ],
@@ -26318,7 +26338,7 @@
                   ""
                 ],
                 [
-                  "nella",
+                  "la",
                   7,
                   ""
                 ],
@@ -26330,6 +26350,26 @@
                 [
                   "mano",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nella",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mano",
+                  10,
                   ""
                 ],
                 [
@@ -33045,12 +33085,12 @@
             },
             {
               "id": "s02e13-5-066",
-              "it": "Tommaso passa nel corridoio con la custodia della chitarra.",
-              "en": "Tommaso passes through the aisle with his guitar case.",
+              "it": "Tommaso passa nel corridoio con la custodia del basso.",
+              "en": "Tommaso passes through the aisle with his bass case.",
               "voice": [
                 [
                   "narrator",
-                  "Tommaso passa nel corridoio con la custodia della chitarra.",
+                  "Tommaso passa nel corridoio con la custodia del basso.",
                   ""
                 ]
               ],
@@ -33126,7 +33166,7 @@
                   ""
                 ],
                 [
-                  "della",
+                  "del",
                   7,
                   ""
                 ],
@@ -33136,7 +33176,7 @@
                   ""
                 ],
                 [
-                  "chitarra",
+                  "basso",
                   8,
                   ""
                 ],
@@ -38356,12 +38396,12 @@
             },
             {
               "id": "s02e13-6-047",
-              "it": "«Signor Franco! Signora Lucia!»",
-              "en": "“Mr. Franco! Signora Lucia!”",
+              "it": "«Franco! Lucia!»",
+              "en": "“Franco! Lucia!”",
               "voice": [
                 [
                   "ben",
-                  "Signor Franco! Signora Lucia!",
+                  "Franco! Lucia!",
                   "excited"
                 ]
               ],
@@ -38372,18 +38412,8 @@
                   ""
                 ],
                 [
-                  "Signor",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Franco",
-                  1,
+                  0,
                   ""
                 ],
                 [
@@ -38392,18 +38422,8 @@
                   ""
                 ],
                 [
-                  "Signora",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Lucia",
-                  3,
+                  1,
                   ""
                 ],
                 [
@@ -38792,12 +38812,12 @@
             },
             {
               "id": "s02e13-6-052",
-              "it": "«Scusi. Non dico niente a nessuno.»",
+              "it": "«Scusa. Non dico niente a nessuno.»",
               "en": "“Sorry. I won't say anything to anyone.”",
               "voice": [
                 [
                   "ben",
-                  "Scusi. Non dico niente a nessuno.",
+                  "Scusa. Non dico niente a nessuno.",
                   "whispering"
                 ]
               ],
@@ -38808,7 +38828,7 @@
                   ""
                 ],
                 [
-                  "Scusi",
+                  "Scusa",
                   0,
                   ""
                 ],
@@ -40018,12 +40038,12 @@
           "segments": [
             {
               "id": "s02e13-6-066",
-              "it": "«È stato un onore, signor Franco.»",
-              "en": "“It was an honor, Mr. Franco.”",
+              "it": "«È stato un onore, Franco.»",
+              "en": "“It was an honor, Franco.”",
               "voice": [
                 [
                   "ben",
-                  "È stato un onore, signor Franco.",
+                  "È stato un onore, Franco.",
                   "formal"
                 ]
               ],
@@ -40074,18 +40094,8 @@
                   ""
                 ],
                 [
-                  "signor",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Franco",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -43178,12 +43188,12 @@
             },
             {
               "id": "s02e13-7-018",
-              "it": "«Papà, hai una **fidanzata**?»",
-              "en": "“Dad, do you have a **girlfriend**?”",
+              "it": "«Papà, hai la mano nella mano di Lucia!»",
+              "en": "“Dad, you're holding Lucia's hand!”",
               "voice": [
                 [
                   "matteo",
-                  "Papà, hai una **fidanzata**?",
+                  "Papà, hai la mano nella mano di Lucia!",
                   ""
                 ]
               ],
@@ -43214,7 +43224,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "la",
                   2,
                   ""
                 ],
@@ -43224,18 +43234,55 @@
                   ""
                 ],
                 [
-                  "fidanzata",
+                  "mano",
                   3,
-                  "b"
+                  ""
                 ],
                 [
-                  "?»",
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nella",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mano",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Lucia",
+                  7,
+                  ""
+                ],
+                [
+                  "!»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-fidanzato"
               ]
             }
           ]
@@ -43328,12 +43375,12 @@
             },
             {
               "id": "s02e13-7-020",
-              "it": "«Mah. Da qualche mese.»",
-              "en": "“Hmm. For a few months.”",
+              "it": "«Mah. Oggi sì.»",
+              "en": "“Hmm. Today, yes.”",
               "voice": [
                 [
                   "franco",
-                  "Mah. Da qualche mese.",
+                  "Mah. Oggi sì.",
                   "dry"
                 ]
               ],
@@ -43354,7 +43401,7 @@
                   ""
                 ],
                 [
-                  "Da",
+                  "Oggi",
                   1,
                   ""
                 ],
@@ -43364,18 +43411,8 @@
                   ""
                 ],
                 [
-                  "qualche",
+                  "sì",
                   2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mese",
-                  3,
                   ""
                 ],
                 [
@@ -43391,12 +43428,12 @@
           "segments": [
             {
               "id": "s02e13-7-021",
-              "it": "«Da qualche mese? Da settembre!»",
-              "en": "“For a few months? Since September!”",
+              "it": "«Oggi sì? Dopo mesi!»",
+              "en": "“Today, yes? After months!”",
               "voice": [
                 [
                   "lucia",
-                  "Da qualche mese? Da settembre!",
+                  "Oggi sì? Dopo mesi!",
                   "loud"
                 ]
               ],
@@ -43407,7 +43444,7 @@
                   ""
                 ],
                 [
-                  "Da",
+                  "Oggi",
                   0,
                   ""
                 ],
@@ -43417,18 +43454,8 @@
                   ""
                 ],
                 [
-                  "qualche",
+                  "sì",
                   1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mese",
-                  2,
                   ""
                 ],
                 [
@@ -43437,8 +43464,8 @@
                   ""
                 ],
                 [
-                  "Da",
-                  3,
+                  "Dopo",
+                  2,
                   ""
                 ],
                 [
@@ -43447,8 +43474,8 @@
                   ""
                 ],
                 [
-                  "settembre",
-                  4,
+                  "mesi",
+                  3,
                   ""
                 ],
                 [
@@ -43464,12 +43491,12 @@
           "segments": [
             {
               "id": "s02e13-7-022",
-              "it": "«Da settembre. Sì.»",
-              "en": "“Since September. Yes.”",
+              "it": "«Dopo mesi. Sì.»",
+              "en": "“After months. Yes.”",
               "voice": [
                 [
                   "franco",
-                  "Da settembre. Sì.",
+                  "Dopo mesi. Sì.",
                   ""
                 ]
               ],
@@ -43480,7 +43507,7 @@
                   ""
                 ],
                 [
-                  "Da",
+                  "Dopo",
                   0,
                   ""
                 ],
@@ -43490,7 +43517,7 @@
                   ""
                 ],
                 [
-                  "settembre",
+                  "mesi",
                   1,
                   ""
                 ],
@@ -44650,12 +44677,12 @@
             },
             {
               "id": "s02e13-7-036",
-              "it": "«Signor Franco, un bicchiere?»",
-              "en": "“Mr. Franco, a glass?”",
+              "it": "«Franco, un bicchiere?»",
+              "en": "“Franco, a glass?”",
               "voice": [
                 [
                   "ben",
-                  "Signor Franco, un bicchiere?",
+                  "Franco, un bicchiere?",
                   "formal"
                 ]
               ],
@@ -44666,18 +44693,8 @@
                   ""
                 ],
                 [
-                  "Signor",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Franco",
-                  1,
+                  0,
                   ""
                 ],
                 [
@@ -44687,7 +44704,7 @@
                 ],
                 [
                   "un",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -44697,7 +44714,7 @@
                 ],
                 [
                   "bicchiere",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -44756,12 +44773,12 @@
           "segments": [
             {
               "id": "s02e13-7-038",
-              "it": "«E per la signora Lucia?»",
-              "en": "“And for Signora Lucia?”",
+              "it": "«E per Lucia?»",
+              "en": "“And for Lucia?”",
               "voice": [
                 [
                   "ben",
-                  "E per la signora Lucia?",
+                  "E per Lucia?",
                   ""
                 ]
               ],
@@ -44792,28 +44809,8 @@
                   ""
                 ],
                 [
-                  "la",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "signora",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Lucia",
-                  4,
+                  2,
                   ""
                 ],
                 [
@@ -44912,12 +44909,12 @@
           "segments": [
             {
               "id": "s02e13-7-040",
-              "it": "«Prego, signora.»",
-              "en": "“You're welcome, ma'am.”",
+              "it": "«Prego, Lucia.»",
+              "en": "“You're welcome, Lucia.”",
               "voice": [
                 [
                   "ben",
-                  "Prego, signora.",
+                  "Prego, Lucia.",
                   "formal"
                 ]
               ],
@@ -44938,7 +44935,7 @@
                   ""
                 ],
                 [
-                  "signora",
+                  "Lucia",
                   1,
                   ""
                 ],
@@ -46087,12 +46084,12 @@
             },
             {
               "id": "s02e13-7-053",
-              "it": "«Signor Franco, beve seduto oggi?»",
-              "en": "“Mr. Franco, are you drinking sitting down today?”",
+              "it": "«Franco, bevi seduto oggi?»",
+              "en": "“Franco, are you drinking sitting down today?”",
               "voice": [
                 [
                   "ben",
-                  "Signor Franco, beve seduto oggi?",
+                  "Franco, bevi seduto oggi?",
                   ""
                 ]
               ],
@@ -46103,18 +46100,8 @@
                   ""
                 ],
                 [
-                  "Signor",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "Franco",
-                  1,
+                  0,
                   ""
                 ],
                 [
@@ -46123,8 +46110,8 @@
                   ""
                 ],
                 [
-                  "beve",
-                  2,
+                  "bevi",
+                  1,
                   ""
                 ],
                 [
@@ -46134,7 +46121,7 @@
                 ],
                 [
                   "seduto",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -46144,7 +46131,7 @@
                 ],
                 [
                   "oggi",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -46612,12 +46599,12 @@
           "segments": [
             {
               "id": "s02e13-7-060",
-              "it": "«Perché non **mi hai rivelato** niente? A me, tuo figlio?»",
-              "en": "“Why didn't you **reveal** anything to me? To me, your son?”",
+              "it": "«Perché ci hai messo sei mesi per una passeggiata?»",
+              "en": "“Why did it take you six months for a walk?”",
               "voice": [
                 [
                   "matteo",
-                  "Perché non **mi hai rivelato** niente? A me, tuo figlio?",
+                  "Perché ci hai messo sei mesi per una passeggiata?",
                   ""
                 ]
               ],
@@ -46638,7 +46625,7 @@
                   ""
                 ],
                 [
-                  "non",
+                  "ci",
                   1,
                   ""
                 ],
@@ -46648,29 +46635,9 @@
                   ""
                 ],
                 [
-                  "mi",
-                  2,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
                   "hai",
-                  3,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "rivelato",
-                  4,
-                  "b"
+                  2,
+                  ""
                 ],
                 [
                   " ",
@@ -46678,17 +46645,37 @@
                   ""
                 ],
                 [
-                  "niente",
+                  "messo",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sei",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mesi",
                   5,
                   ""
                 ],
                 [
-                  "? ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "A",
+                  "per",
                   6,
                   ""
                 ],
@@ -46698,18 +46685,8 @@
                   ""
                 ],
                 [
-                  "me",
+                  "una",
                   7,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tuo",
-                  8,
                   ""
                 ],
                 [
@@ -46718,8 +46695,8 @@
                   ""
                 ],
                 [
-                  "figlio",
-                  9,
+                  "passeggiata",
+                  8,
                   ""
                 ],
                 [
@@ -46727,9 +46704,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-reciprocal"
               ]
             }
           ]
@@ -46738,12 +46712,12 @@
           "segments": [
             {
               "id": "s02e13-7-061",
-              "it": "«Perché tu parli troppo.»",
-              "en": "“Because you talk too much.”",
+              "it": "«Perché sono un uomo lento.»",
+              "en": "“Because I'm a slow man.”",
               "voice": [
                 [
                   "franco",
-                  "Perché tu parli troppo.",
+                  "Perché sono un uomo lento.",
                   "dry"
                 ]
               ],
@@ -46764,7 +46738,7 @@
                   ""
                 ],
                 [
-                  "tu",
+                  "sono",
                   1,
                   ""
                 ],
@@ -46774,7 +46748,7 @@
                   ""
                 ],
                 [
-                  "parli",
+                  "un",
                   2,
                   ""
                 ],
@@ -46784,8 +46758,18 @@
                   ""
                 ],
                 [
-                  "troppo",
+                  "uomo",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lento",
+                  4,
                   ""
                 ],
                 [
@@ -46801,12 +46785,12 @@
           "segments": [
             {
               "id": "s02e13-7-062",
-              "it": "«È vero. Parlo troppo.»",
-              "en": "“That's true. I talk too much.”",
+              "it": "«Lo so. È una cosa di famiglia.»",
+              "en": "“I know. It runs in the family.”",
               "voice": [
                 [
                   "matteo",
-                  "È vero. Parlo troppo.",
+                  "Lo so. È una cosa di famiglia.",
                   ""
                 ]
               ],
@@ -46817,7 +46801,7 @@
                   ""
                 ],
                 [
-                  "È",
+                  "Lo",
                   0,
                   ""
                 ],
@@ -46827,7 +46811,7 @@
                   ""
                 ],
                 [
-                  "vero",
+                  "so",
                   1,
                   ""
                 ],
@@ -46837,7 +46821,7 @@
                   ""
                 ],
                 [
-                  "Parlo",
+                  "È",
                   2,
                   ""
                 ],
@@ -46847,8 +46831,38 @@
                   ""
                 ],
                 [
-                  "troppo",
+                  "una",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cosa",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "famiglia",
+                  6,
                   ""
                 ],
                 [
@@ -46864,543 +46878,6 @@
           "segments": [
             {
               "id": "s02e13-7-063",
-              "it": "Nadia ride e mette la mano sul braccio di Matteo.",
-              "en": "Nadia laughs and puts her hand on Matteo's arm.",
-              "voice": [
-                [
-                  "narrator",
-                  "Nadia ride e mette la mano sul braccio di Matteo.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Nadia",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ride",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mette",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mano",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sul",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "braccio",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  9,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s02e13-7-064",
-              "it": "«Matteo, lo sanno tutti!»",
-              "en": "“Matteo, everyone knows!”",
-              "voice": [
-                [
-                  "nadia",
-                  "Matteo, lo sanno tutti!",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sanno",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutti",
-                  3,
-                  ""
-                ],
-                [
-                  "!»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e13-7-065",
-              "it": "«Tutti tranne me!»",
-              "en": "“Everyone except me!”",
-              "voice": [
-                [
-                  "matteo",
-                  "Tutti tranne me!",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tutti",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tranne",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "me",
-                  2,
-                  ""
-                ],
-                [
-                  "!»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e13-7-066",
-              "it": "«Tranquillo. Adesso lo sai anche tu.»",
-              "en": "“Relax. Now you know too.”",
-              "voice": [
-                [
-                  "nadia",
-                  "Tranquillo. Adesso lo sai anche tu.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Tranquillo",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Adesso",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sai",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anche",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tu",
-                  5,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e13-7-067",
-              "it": "«E allora questa è una **promessa**: adesso lo dico a tutto il quartiere.»",
-              "en": "“And so this is a **promise**: now I'll tell the whole neighborhood.”",
-              "voice": [
-                [
-                  "matteo",
-                  "E allora questa è una **promessa**: adesso lo dico a tutto il quartiere.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "allora",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "questa",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "una",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "promessa",
-                  5,
-                  "b"
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "adesso",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lo",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dico",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tutto",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quartiere",
-                  12,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ],
-              "focus": [
-                "v-promessa"
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e13-7-068",
-              "it": "«Matteo!» dice Franco, serio.",
-              "en": "“Matteo!” says Franco, seriously.",
-              "voice": [
-                [
-                  "franco",
-                  "Matteo!",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Franco, serio.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  0,
-                  ""
-                ],
-                [
-                  "!» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  2,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "serio",
-                  3,
-                  ""
-                ],
-                [
-                  ".",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s02e13-7-069",
               "it": "In quel momento la porta si apre ed entra Roberto Colombo.",
               "en": "At that moment the door opens and Roberto Colombo comes in.",
               "voice": [
@@ -47524,7 +47001,7 @@
               ]
             },
             {
-              "id": "s02e13-7-070",
+              "id": "s02e13-7-064",
               "it": "Ha l'ombrello piegato in mano e il giornale sotto il braccio.",
               "en": "He has his folded umbrella in his hand and the newspaper under his arm.",
               "voice": [
@@ -47648,7 +47125,7 @@
               ]
             },
             {
-              "id": "s02e13-7-071",
+              "id": "s02e13-7-065",
               "it": "Vede il bar pieno e si ferma un momento.",
               "en": "He sees the bar full and stops for a moment.",
               "voice": [
@@ -47752,7 +47229,7 @@
               ]
             },
             {
-              "id": "s02e13-7-072",
+              "id": "s02e13-7-066",
               "it": "«Buonasera a tutti. C'è molta gente, stasera.»",
               "en": "“Good evening, everyone. There are a lot of people tonight.”",
               "voice": [
@@ -47845,7 +47322,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-073",
+              "id": "s02e13-7-067",
               "it": "«Buonasera, signor Colombo.»",
               "en": "“Good evening, Mr. Colombo.”",
               "voice": [
@@ -47898,7 +47375,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-074",
+              "id": "s02e13-7-068",
               "it": "«Buonasera, signor Carter.»",
               "en": "“Good evening, Mr. Carter.”",
               "voice": [
@@ -47951,7 +47428,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-075",
+              "id": "s02e13-7-069",
               "it": "I due uomini **si salutano** con un cenno della testa.",
               "en": "The two men **greet each other** with a nod of the head.",
               "voice": [
@@ -48068,7 +47545,7 @@
               ]
             },
             {
-              "id": "s02e13-7-076",
+              "id": "s02e13-7-070",
               "it": "Roberto guarda il tavolo, i bicchieri, la bottiglia di vino.",
               "en": "Roberto looks at the table, the glasses, the bottle of wine.",
               "voice": [
@@ -48182,7 +47659,7 @@
               ]
             },
             {
-              "id": "s02e13-7-077",
+              "id": "s02e13-7-071",
               "it": "«C'è una festa?»",
               "en": "“Is there a party?”",
               "voice": [
@@ -48235,7 +47712,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-078",
+              "id": "s02e13-7-072",
               "it": "«Una piccola festa di famiglia.»",
               "en": "“A small family party.”",
               "voice": [
@@ -48308,7 +47785,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-079",
+              "id": "s02e13-7-073",
               "it": "«Capisco. Allora non voglio disturbare.»",
               "en": "“I see. Then I don't want to disturb you.”",
               "voice": [
@@ -48381,7 +47858,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-080",
+              "id": "s02e13-7-074",
               "it": "«Vuole un caffè, signor Colombo?»",
               "en": "“Would you like a coffee, Mr. Colombo?”",
               "voice": [
@@ -48454,7 +47931,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-081",
+              "id": "s02e13-7-075",
               "it": "Roberto guarda Kevin per due secondi, molto **educato** e molto freddo.",
               "en": "Roberto looks at Kevin for two seconds, very **polite** and very cold.",
               "voice": [
@@ -48581,7 +48058,7 @@
               ]
             },
             {
-              "id": "s02e13-7-082",
+              "id": "s02e13-7-076",
               "it": "«No, grazie. Sono di passaggio.»",
               "en": "“No, thank you. I'm just passing by.”",
               "voice": [
@@ -48654,7 +48131,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-083",
+              "id": "s02e13-7-077",
               "it": "«Come vuole, signor Colombo.»",
               "en": "“As you wish, Mr. Colombo.”",
               "voice": [
@@ -48717,7 +48194,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-084",
+              "id": "s02e13-7-078",
               "it": "«Buonasera, signor Carter. Buonasera a tutti.»",
               "en": "“Good evening, Mr. Carter. Good evening, everyone.”",
               "voice": [
@@ -48800,7 +48277,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-085",
+              "id": "s02e13-7-079",
               "it": "Roberto esce dal bar e chiude la porta piano.",
               "en": "Roberto leaves the bar and closes the door quietly.",
               "voice": [
@@ -48904,7 +48381,7 @@
               ]
             },
             {
-              "id": "s02e13-7-086",
+              "id": "s02e13-7-080",
               "it": "Nel bar torna il rumore dei bicchieri e delle voci.",
               "en": "In the bar the noise of glasses and voices comes back.",
               "voice": [
@@ -49018,7 +48495,7 @@
               ]
             },
             {
-              "id": "s02e13-7-087",
+              "id": "s02e13-7-081",
               "it": "Matteo guarda Kevin e alza gli occhi al cielo.",
               "en": "Matteo looks at Kevin and rolls his eyes.",
               "voice": [
@@ -49122,7 +48599,7 @@
               ]
             },
             {
-              "id": "s02e13-7-088",
+              "id": "s02e13-7-082",
               "it": "«Amici vostri?»",
               "en": "“Friends of yours?”",
               "voice": [
@@ -49165,7 +48642,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-089",
+              "id": "s02e13-7-083",
               "it": "«Siamo due uomini **educati**.»",
               "en": "“We're two **polite** men.”",
               "voice": [
@@ -49231,7 +48708,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-090",
+              "id": "s02e13-7-084",
               "it": "«Sì. **Educati** e freddi come il frigo.»",
               "en": "“Yes. **Polite** and cold as the fridge.”",
               "voice": [
@@ -49327,7 +48804,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-091",
+              "id": "s02e13-7-085",
               "it": "Franco beve il vino rosso e guarda Lucia.",
               "en": "Franco drinks the red wine and looks at Lucia.",
               "voice": [
@@ -49421,7 +48898,7 @@
               ]
             },
             {
-              "id": "s02e13-7-092",
+              "id": "s02e13-7-086",
               "it": "Lucia parla con Nadia di ricette e di bambini.",
               "en": "Lucia talks with Nadia about recipes and babies.",
               "voice": [
@@ -49525,7 +49002,7 @@
               ]
             },
             {
-              "id": "s02e13-7-093",
+              "id": "s02e13-7-087",
               "it": "Ornella ascolta e sorride, con il gatto Pavarotti lontano a casa.",
               "en": "Ornella listens and smiles, with the cat Pavarotti far away at home.",
               "voice": [
@@ -49649,7 +49126,7 @@
               ]
             },
             {
-              "id": "s02e13-7-094",
+              "id": "s02e13-7-088",
               "it": "Kevin porta patatine e olive a tutti i tavoli.",
               "en": "Kevin brings chips and olives to all the tables.",
               "voice": [
@@ -49753,7 +49230,7 @@
               ]
             },
             {
-              "id": "s02e13-7-095",
+              "id": "s02e13-7-089",
               "it": "Il bar è pieno di voci, di bicchieri, di **amicizia**.",
               "en": "The bar is full of voices, glasses, **friendship**.",
               "voice": [
@@ -49874,7 +49351,7 @@
         {
           "segments": [
             {
-              "id": "s02e13-7-096",
+              "id": "s02e13-7-090",
               "it": "_E adesso lo sanno tutti. Anche Roberto Colombo._",
               "en": "_And now everyone knows. Even Roberto Colombo._",
               "voice": [
@@ -49968,7 +49445,7 @@
               ]
             },
             {
-              "id": "s02e13-7-097",
+              "id": "s02e13-7-091",
               "it": "_Anna, se mi vedi da lassù, non ridere troppo._",
               "en": "_Anna, if you see me from up there, don't laugh too much._",
               "voice": [

@@ -64,7 +64,7 @@ Emma arrossisce fino alle orecchie. «No! Cioè... no. Non è il mio fidanzato.�
 
 «Perché fa caldo in questo treno.»
 
-«Certo, fa caldo. A marzo.»
+«Certo, fa caldo. A maggio.»
 
 Tommaso, due file più avanti, ascolta la musica con gli occhi chiusi. Emma lo guarda con l'**angolo** dell'occhio.
 
@@ -334,9 +334,9 @@ Chiara mette la mano sul braccio di Emma. «Non sono qui per sgridarti.»
 
 «Davvero. Con la porta chiusa e la luce accesa.»
 
-«E facevi che cosa?»
+«E che cosa hai fatto?»
 
-«Scrivevo lettere.»
+«Ho scritto lettere.»
 
 «Lettere? Tipo lettere d'amore?»
 
@@ -374,7 +374,7 @@ Emma e Chiara guardano il disegno. Ci sono due persone con una **mano** nella **
 
 Chiara resta sorpresa e guarda il disegno un'altra volta. «Dove hai visto Franco e Lucia insieme, Leo?»
 
-«Al bar, una volta. Con la mano nella mano.»
+«A casa del nonno, una volta. Con la mano nella mano.»
 
 «Ah.» dice Chiara, con un pensiero in testa.
 
@@ -478,7 +478,7 @@ Bianca guarda Emma e capisce qualcosa. «Emma, è il tuo **fidanzato**? Sì o no
 
 «Ah, non è ufficiale!»
 
-Il treno rallenta e arriva alla stazione di Monza. Gli studenti si alzano e prendono gli zaini. Tommaso passa nel corridoio con la custodia della chitarra. Guarda Emma per un secondo e fa un cenno con la testa. «**Ci vediamo**, Emma.»
+Il treno rallenta e arriva alla stazione di Monza. Gli studenti si alzano e prendono gli zaini. Tommaso passa nel corridoio con la custodia del basso. Guarda Emma per un secondo e fa un cenno con la testa. «**Ci vediamo**, Emma.»
 
 «**Ci vediamo**.»
 
@@ -534,7 +534,7 @@ Franco respira di nuovo. «Ha detto **coppia**. In **pubblico**.»
 
 «Sì. E non è successo niente di male.»
 
-I due camminano ancora e arrivano davanti al bar. Sulla porta c'è Kevin, con il grembiule e uno straccio in **mano**. Kevin li vede e apre la bocca come un bambino. «Signor Franco! Signora Lucia!»
+I due camminano ancora e arrivano davanti al bar. Sulla porta c'è Kevin, con il grembiule e uno straccio in **mano**. Kevin li vede e apre la bocca come un bambino. «Franco! Lucia!»
 
 «Buongiorno, Kevin. Non fare teatro.»
 
@@ -542,7 +542,7 @@ I due camminano ancora e arrivano davanti al bar. Sulla porta c'è Kevin, con il
 
 «Sì, Kevin. Lo vedo anch'io.»
 
-Kevin si mette la mano sulla bocca e abbassa la voce. «Scusi. Non dico niente a nessuno.»
+Kevin si mette la mano sulla bocca e abbassa la voce. «Scusa. Non dico niente a nessuno.»
 
 «Non è più un segreto, Kevin.»
 
@@ -560,7 +560,7 @@ Kevin resta fermo con lo straccio in **mano**. «Per cosa?»
 
 «Non **rivelare** niente a nessuno. Anche nei momenti difficili.»
 
-«È stato un onore, signor Franco.»
+«È stato un onore, Franco.»
 
 «Non esagerare, adesso.»
 
@@ -590,13 +590,13 @@ Kevin si alza e guarda fuori dalla vetrina. «Con la mano nella mano!»
 
 La porta si apre e entrano Franco e Lucia. Franco ha la camicia blu e la faccia rossa. Lucia ha un vestito rosso e un sorriso enorme. I due sono con la **mano** nella mano. Nessuno ride. Nessuno dice una parola sbagliata.
 
-Matteo esce da dietro il bancone e va verso il padre. «Papà, hai una **fidanzata**?»
+Matteo esce da dietro il bancone e va verso il padre. «Papà, hai la mano nella mano di Lucia!»
 
-Franco guarda Matteo e poi guarda Lucia. «Mah. Da qualche mese.»
+Franco guarda Matteo e poi guarda Lucia. «Mah. Oggi sì.»
 
-«Da qualche mese? Da settembre!»
+«Oggi sì? Dopo mesi!»
 
-«Da settembre. Sì.»
+«Dopo mesi. Sì.»
 
 Nadia si alza dal tavolo e va verso Lucia. Le due donne **si abbracciano** forte, come due vecchie amiche. «Benvenuta sulla strada, Lucia.»
 
@@ -614,15 +614,15 @@ Ornella si avvicina appoggiandosi al bastone. Guarda Franco e Lucia con gli occh
 
 «E oggi hai cambiato abitudine.»
 
-Kevin porta un vassoio con i bicchieri e il vino. «Signor Franco, un bicchiere?»
+Kevin porta un vassoio con i bicchieri e il vino. «Franco, un bicchiere?»
 
 «Sì. Rosso.»
 
-«E per la signora Lucia?»
+«E per Lucia?»
 
 «Per me lo stesso. Grazie, Kevin.»
 
-«Prego, signora.»
+«Prego, Lucia.»
 
 Lucia prende il bicchiere e lo alza in alto. «Grazie a tutti! Grazie per **l'amicizia** di questa strada!» Tutti alzano i bicchieri. «Cin cin!» Poi Lucia si gira verso Franco e lo bacia sulla guancia. Lo bacia di nuovo, sulla bocca, davanti a tutti.
 
@@ -634,7 +634,7 @@ Ornella batte le mani tre volte e ride. «Bravo, Franco! Finalmente!»
 
 «Adesso basta, però.»
 
-Franco va verso il tavolo e si siede su una sedia. Kevin gli porta il bicchiere di vino rosso. «Signor Franco, beve seduto oggi?»
+Franco va verso il tavolo e si siede su una sedia. Kevin gli porta il bicchiere di vino rosso. «Franco, bevi seduto oggi?»
 
 «Sì. Oggi bevo seduto.»
 
@@ -646,21 +646,11 @@ Matteo arriva al tavolo e mette un bicchiere davanti a Nadia. «Papà, mi spiegh
 
 «Quale cosa?»
 
-«Perché non **mi hai rivelato** niente? A me, tuo figlio?»
+«Perché ci hai messo sei mesi per una passeggiata?»
 
-«Perché tu parli troppo.»
+«Perché sono un uomo lento.»
 
-«È vero. Parlo troppo.»
-
-Nadia ride e mette la mano sul braccio di Matteo. «Matteo, lo sanno tutti!»
-
-«Tutti tranne me!»
-
-«Tranquillo. Adesso lo sai anche tu.»
-
-«E allora questa è una **promessa**: adesso lo dico a tutto il quartiere.»
-
-«Matteo!» dice Franco, serio.
+«Lo so. È una cosa di famiglia.»
 
 In quel momento la porta si apre ed entra Roberto Colombo. Ha l'ombrello piegato in mano e il giornale sotto il braccio. Vede il bar pieno e si ferma un momento. «Buonasera a tutti. C'è molta gente, stasera.»
 

@@ -64,7 +64,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «No! Cioè... no. Non è il mio fidanzato.» | “No! I mean... no. He's not my boyfriend.” |
 | «Allora perché sei rossa come un pomodoro?» | “Then why are you red like a tomato?” |
 | «Perché fa caldo in questo treno.» | “Because it's hot on this train.” |
-| «Certo, fa caldo. A marzo.» | “Sure, it's hot. In March.” |
+| «Certo, fa caldo. A maggio.» | “Sure, it's hot. In May.” |
 | Tommaso, due file più avanti, ascolta la musica con gli occhi chiusi. | Tommaso, two rows ahead, listens to music with his eyes closed. |
 | Emma lo guarda con l'**angolo** dell'occhio. | Emma watches him out of the **corner** of her eye. |
 | _Lui e io **ci incontriamo** ogni mattina qui. E poi **fingiamo**._ | _He and I **meet each other** every morning here. And then we **pretend**._ |
@@ -280,8 +280,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Alla tua età, ogni sera, la stessa scena: porta chiusa, luce accesa, e le lettere.» | “At your age, every evening, the same scene: closed door, light on, and letters.” |
 | «Davvero?» | “Really?” |
 | «Davvero. Con la porta chiusa e la luce accesa.» | “Really. With the door closed and the light on.” |
-| «E facevi che cosa?» | “And what did you do?” |
-| «Scrivevo lettere.» | “I wrote letters.” |
+| «E che cosa hai fatto?» | “And what did you do?” |
+| «Ho scritto lettere.» | “I wrote letters.” |
 | «Lettere? Tipo lettere d'amore?» | “Letters? Like love letters?” |
 | «Tipo lettere d'amore. Sì.» | “Like love letters. Yes.” |
 | Emma arrossisce e guarda la finestra. | Emma blushes and looks at the window. |
@@ -313,7 +313,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché sono una **coppia**, no?» dice Leo, molto serio. | “Because they're a **couple**, right?” says Leo, very seriously. |
 | Chiara resta sorpresa e guarda il disegno un'altra volta. | Chiara is surprised and looks at the drawing again. |
 | «Dove hai visto Franco e Lucia insieme, Leo?» | “Where did you see Franco and Lucia together, Leo?” |
-| «Al bar, una volta. Con la mano nella mano.» | “At the bar, once. Hand in hand.” |
+| «A casa del nonno, una volta. Con la mano nella mano.» | “At Grandpa's house, once. Hand in hand.” |
 | «Ah.» dice Chiara, con un pensiero in testa. | “Ah,” says Chiara, with a thought in her head. |
 | «Mamma, è vero o no?» | “Mom, is it true or not?” |
 | «Sì, Leo. È vero.» | “Yes, Leo. It's true.” |
@@ -399,7 +399,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah, non è ufficiale!» | “Oh, it's not official!” |
 | Il treno rallenta e arriva alla stazione di Monza. | The train slows down and arrives at the Monza station. |
 | Gli studenti si alzano e prendono gli zaini. | The students get up and take their backpacks. |
-| Tommaso passa nel corridoio con la custodia della chitarra. | Tommaso passes through the aisle with his guitar case. |
+| Tommaso passa nel corridoio con la custodia del basso. | Tommaso passes through the aisle with his bass case. |
 | Guarda Emma per un secondo e fa un cenno con la testa. | He looks at Emma for a second and nods. |
 | «**Ci vediamo**, Emma.» | “**See you**, Emma.” |
 | «**Ci vediamo**.» | “**See you**.” |
@@ -465,12 +465,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | I due camminano ancora e arrivano davanti al bar. | The two of them keep walking and arrive in front of the bar. |
 | Sulla porta c'è Kevin, con il grembiule e uno straccio in **mano**. | At the door there's Kevin, with his apron and a rag in his **hand**. |
 | Kevin li vede e apre la bocca come un bambino. | Kevin sees them and opens his mouth like a child. |
-| «Signor Franco! Signora Lucia!» | “Mr. Franco! Signora Lucia!” |
+| «Franco! Lucia!» | “Franco! Lucia!” |
 | «Buongiorno, Kevin. Non fare teatro.» | “Afternoon, Kevin. Don't make a scene.” |
 | «Ma siete qui! Con la mano nella mano!» | “But you're here! Hand in hand!” |
 | «Sì, Kevin. Lo vedo anch'io.» | “Yes, Kevin. I can see that too.” |
 | Kevin si mette la mano sulla bocca e abbassa la voce. | Kevin puts his hand over his mouth and lowers his voice. |
-| «Scusi. Non dico niente a nessuno.» | “Sorry. I won't say anything to anyone.” |
+| «Scusa. Non dico niente a nessuno.» | “Sorry. I won't say anything to anyone.” |
 | «Non è più un segreto, Kevin.» | “It's not a secret anymore, Kevin.” |
 | «Ah. Allora posso dirlo a tutti?» | “Oh. So I can tell everyone?” |
 | «A tutti no. Ma a chi vuoi tu, sì.» | “Not everyone. But whoever you like, yes.” |
@@ -484,7 +484,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Per il silenzio. Per la **promessa**.» | “For the silence. For the **promise**.” |
 | «Ah. Quella promessa.» | “Oh. That promise.” |
 | «Non **rivelare** niente a nessuno. Anche nei momenti difficili.» | “Not **revealing** anything to anyone. Even in difficult moments.” |
-| «È stato un onore, signor Franco.» | “It was an honor, Mr. Franco.” |
+| «È stato un onore, Franco.» | “It was an honor, Franco.” |
 | «Non esagerare, adesso.» | “Don't exaggerate now.” |
 | Kevin ride e torna dentro il bar. | Kevin laughs and goes back inside the bar. |
 | Franco e Lucia restano sulla porta, uno accanto all'altra. | Franco and Lucia stay at the door, one next to the other. |
@@ -522,11 +522,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | I due sono con la **mano** nella mano. | The two of them have their **hand** in each other's. |
 | Nessuno ride. Nessuno dice una parola sbagliata. | Nobody laughs. Nobody says a wrong word. |
 | Matteo esce da dietro il bancone e va verso il padre. | Matteo comes out from behind the counter and goes toward his father. |
-| «Papà, hai una **fidanzata**?» | “Dad, do you have a **girlfriend**?” |
+| «Papà, hai la mano nella mano di Lucia!» | “Dad, you're holding Lucia's hand!” |
 | Franco guarda Matteo e poi guarda Lucia. | Franco looks at Matteo and then looks at Lucia. |
-| «Mah. Da qualche mese.» | “Hmm. For a few months.” |
-| «Da qualche mese? Da settembre!» | “For a few months? Since September!” |
-| «Da settembre. Sì.» | “Since September. Yes.” |
+| «Mah. Oggi sì.» | “Hmm. Today, yes.” |
+| «Oggi sì? Dopo mesi!» | “Today, yes? After months!” |
+| «Dopo mesi. Sì.» | “After months. Yes.” |
 | Nadia si alza dal tavolo e va verso Lucia. | Nadia gets up from the table and goes toward Lucia. |
 | Le due donne **si abbracciano** forte, come due vecchie amiche. | The two women **hug each other** tightly, like two old friends. |
 | «Benvenuta sulla strada, Lucia.» | “Welcome to the street, Lucia.” |
@@ -540,11 +540,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Un'abitudine di tanti anni.» | “A habit of many years.” |
 | «E oggi hai cambiato abitudine.» | “And today you changed your habit.” |
 | Kevin porta un vassoio con i bicchieri e il vino. | Kevin brings a tray with glasses and wine. |
-| «Signor Franco, un bicchiere?» | “Mr. Franco, a glass?” |
+| «Franco, un bicchiere?» | “Franco, a glass?” |
 | «Sì. Rosso.» | “Yes. Red.” |
-| «E per la signora Lucia?» | “And for Signora Lucia?” |
+| «E per Lucia?» | “And for Lucia?” |
 | «Per me lo stesso. Grazie, Kevin.» | “The same for me. Thank you, Kevin.” |
-| «Prego, signora.» | “You're welcome, ma'am.” |
+| «Prego, Lucia.» | “You're welcome, Lucia.” |
 | Lucia prende il bicchiere e lo alza in alto. | Lucia takes the glass and raises it high. |
 | «Grazie a tutti! Grazie per **l'amicizia** di questa strada!» | “Thank you everyone! Thank you for the **friendship** of this street!” |
 | Tutti alzano i bicchieri. «Cin cin!» | Everyone raises their glasses. “Cheers!” |
@@ -557,22 +557,16 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Adesso basta, però.» | “That's enough now, though.” |
 | Franco va verso il tavolo e si siede su una sedia. | Franco goes to the table and sits down on a chair. |
 | Kevin gli porta il bicchiere di vino rosso. | Kevin brings him the glass of red wine. |
-| «Signor Franco, beve seduto oggi?» | “Mr. Franco, are you drinking sitting down today?” |
+| «Franco, bevi seduto oggi?» | “Franco, are you drinking sitting down today?” |
 | «Sì. Oggi bevo seduto.» | “Yes. Today I'm drinking sitting down.” |
 | «Come mai?» | “How come?” |
 | «Perché oggi sono un uomo con una **fidanzata**.» | “Because today I'm a man with a **girlfriend**.” |
 | Matteo arriva al tavolo e mette un bicchiere davanti a Nadia. | Matteo comes to the table and puts a glass in front of Nadia. |
 | «Papà, mi spieghi una cosa?» | “Dad, will you explain something to me?” |
 | «Quale cosa?» | “What thing?” |
-| «Perché non **mi hai rivelato** niente? A me, tuo figlio?» | “Why didn't you **reveal** anything to me? To me, your son?” |
-| «Perché tu parli troppo.» | “Because you talk too much.” |
-| «È vero. Parlo troppo.» | “That's true. I talk too much.” |
-| Nadia ride e mette la mano sul braccio di Matteo. | Nadia laughs and puts her hand on Matteo's arm. |
-| «Matteo, lo sanno tutti!» | “Matteo, everyone knows!” |
-| «Tutti tranne me!» | “Everyone except me!” |
-| «Tranquillo. Adesso lo sai anche tu.» | “Relax. Now you know too.” |
-| «E allora questa è una **promessa**: adesso lo dico a tutto il quartiere.» | “And so this is a **promise**: now I'll tell the whole neighborhood.” |
-| «Matteo!» dice Franco, serio. | “Matteo!” says Franco, seriously. |
+| «Perché ci hai messo sei mesi per una passeggiata?» | “Why did it take you six months for a walk?” |
+| «Perché sono un uomo lento.» | “Because I'm a slow man.” |
+| «Lo so. È una cosa di famiglia.» | “I know. It runs in the family.” |
 | In quel momento la porta si apre ed entra Roberto Colombo. | At that moment the door opens and Roberto Colombo comes in. |
 | Ha l'ombrello piegato in mano e il giornale sotto il braccio. | He has his folded umbrella in his hand and the newspaper under his arm. |
 | Vede il bar pieno e si ferma un momento. | He sees the bar full and stops for a moment. |

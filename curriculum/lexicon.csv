@@ -27,7 +27,7 @@ nuovo,adjective,,new,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 
 parlare,verb,,"to speak, to talk",A1,s01e01,s01e02 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s05e03,"parla, parlano, parlare, parli, parliamo, parlo"
 per favore,expression,,please,A1,s01e01,s01e02 s01e04 s01e06 s01e07 s01e11 s01e13 s01e19 s01e21 s01e22 s01e24 s02e02 s02e03 s02e04 s02e06 s02e07 s02e08 s02e10 s02e11 s02e12 s02e13,per favore
 piacere,expression,,pleased to meet you; pleasure,A1,s01e01,s01e08 s01e10 s01e14 s02e09 s02e13,piacere
-scusi,expression,,excuse me (formal),A1,s01e01,s01e03 s01e06 s01e07 s01e10 s01e11 s01e17 s01e20 s01e21 s01e22 s02e02 s02e04 s02e06 s02e08 s02e10 s02e11 s02e13 s05e03,scusi
+scusi,expression,,excuse me (formal),A1,s01e01,s01e03 s01e06 s01e07 s01e10 s01e11 s01e17 s01e20 s01e21 s01e22 s02e02 s02e04 s02e06 s02e08 s02e10 s02e11 s05e03,scusi
 il bicchiere,noun,m,glass,A1,s01e02,s01e03 s01e05 s01e06 s01e07 s01e09 s01e10 s01e11 s01e12 s01e14 s01e17 s01e18 s01e19 s01e20 s01e21 s01e24 s01e25 s02e01 s02e02 s02e03 s02e05 s02e06 s02e07 s02e08 s02e10 s02e11 s02e12 s02e13,"bicchiere, bicchieri, il bicchiere"
 il caffè,noun,m,coffee,A1,s01e02,s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s05e03,"caffè, il caffè"
 il cappuccino,noun,m,cappuccino,A1,s01e02,s01e19 s02e02 s02e09 s02e12 s05e03,"cappuccini, cappuccino, il cappuccino"
@@ -104,11 +104,11 @@ avere sonno,expression,,to be sleepy,A1,s01e05,s01e09 s01e18 s02e04,"avere sonno
 i genitori,noun,m,parents,A1,s01e05,s01e12 s02e03 s02e08,"genitori, i genitori"
 i parenti,noun,m,relatives,A1,s01e05,s01e12,"i parenti, parenti"
 il cugino,noun,m,cousin,A1,s01e05,s01e12 s01e14 s02e09,"cugini, cugino, il cugino"
-il figlio,noun,m,son,A1,s01e05,s01e07 s01e12 s01e14 s01e20 s01e22 s01e24 s02e01 s02e06 s02e08 s02e09 s02e12 s02e13,"figli, figlio, il figlio"
+il figlio,noun,m,son,A1,s01e05,s01e07 s01e12 s01e14 s01e20 s01e22 s01e24 s02e01 s02e06 s02e08 s02e09 s02e12,"figli, figlio, il figlio"
 il fratello,noun,m,brother,A1,s01e05,s01e08 s01e12 s02e01 s02e12,"fratelli, fratello, il fratello"
 il marito,noun,m,husband,A1,s01e05,s01e08 s01e11 s01e12 s01e15 s01e17 s02e09 s02e10 s02e12 s05e03,"il marito, mariti, marito"
 il nipote,noun,m,grandchild,A1,s01e05,s01e08 s01e12 s01e19 s02e04 s02e12,"il nipote, nipote, nipoti"
-il nonno,noun,m,grandfather,A1,s01e05,s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e23 s01e24 s01e25 s02e01 s02e04 s02e05 s02e06 s02e08 s02e09 s05e03,"il nonno, nonni, nonno"
+il nonno,noun,m,grandfather,A1,s01e05,s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e23 s01e24 s01e25 s02e01 s02e04 s02e05 s02e06 s02e08 s02e09 s02e13 s05e03,"il nonno, nonni, nonno"
 il padre,noun,m,father,A1,s01e05,s01e07 s01e08 s01e11 s01e12 s01e14 s01e17 s01e18 s01e19 s01e22 s01e23 s01e24 s01e25 s02e01 s02e03 s02e04 s02e05 s02e06 s02e07 s02e09 s02e12 s02e13 s05e03,"il padre, padre, padri"
 l'anno,noun,m,year,A1,s01e05,s01e06 s01e08 s01e09 s01e12 s01e13 s01e15 s01e18 s01e19 s01e20 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e11 s02e13 s05e03,"anni, anno, l'anno"
 la famiglia,noun,f,family,A1,s01e05,s01e06 s01e09 s01e11 s01e12 s01e13 s01e15 s01e16 s01e17 s01e19 s01e22 s01e24 s01e25 s02e01 s02e03 s02e04 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e13 s05e03,"famiglia, famiglie, la famiglia"
@@ -149,7 +149,7 @@ lo sportello,noun,m,"counter, window",A1,s01e06,s01e18 s01e24 s02e05 s02e10 s02e
 alto,adjective,,tall,A1,s01e07,s01e08 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e13 s05e03,"alta, alte, alti, alto"
 anche,adverb,,"also, too",A1,s01e07,s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s05e03,anche
 antipatico,adjective,,"unpleasant, unlikeable",A1,s01e07,,"antipatica, antipatiche, antipatici, antipatico"
-basso,adjective,,short (in height),A1,s01e07,s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e17 s01e18 s01e19 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e05 s02e06 s02e08 s02e09,"bassa, basse, bassi, basso"
+basso,adjective,,short (in height),A1,s01e07,s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e17 s01e18 s01e19 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e05 s02e06 s02e08 s02e09 s02e13,"bassa, basse, bassi, basso"
 bello,adjective,,"good-looking, beautiful",A1,s01e07,s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e16 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e11 s02e12 s02e13 s05e03,"bei, bel, bella, belle, belli, bello"
 descrivere,verb,,to describe,A1,s01e07,,"descrive, descrivere, descrivi, descrivo, descrivono"
 gentile,adjective,,kind,A1,s01e07,s01e08 s01e11 s01e16 s01e20 s01e21 s01e22 s02e02 s02e04 s02e05 s02e09 s02e12 s02e13 s05e03,"gentile, gentili"
@@ -524,7 +524,7 @@ fuori,adverb,,"outside, out",A1,s01e23,s01e24 s01e25 s02e01 s02e02 s02e03 s02e04
 il cielo,noun,m,sky,A1,s01e23,s01e25 s02e02 s02e03 s02e05 s02e06 s02e09 s02e13 s05e03,"cielo, il cielo"
 il fiocco,noun,m,flake,A1,s01e23,s01e24 s02e05 s02e06,"fiocchi, fiocco, il fiocco"
 il ghiaccio,noun,m,ice,A1,s01e23,,"ghiaccio, il ghiaccio"
-il quartiere,noun,m,"neighborhood, district",A1,s01e23,s01e25 s02e04 s02e09 s02e10 s02e13,"il quartiere, quartiere"
+il quartiere,noun,m,"neighborhood, district",A1,s01e23,s01e25 s02e04 s02e09 s02e10,"il quartiere, quartiere"
 il tempo,noun,m,"weather, time",A1,s01e23,s01e24 s02e03 s02e06 s02e08 s02e09 s02e10 s02e11 s02e13 s05e03,"il tempo, tempo"
 l'inverno,noun,m,winter,A1,s01e23,s02e01,"inverno, l'inverno"
 l'ombrello,noun,m,umbrella,A1,s01e23,s02e05 s02e09 s02e13,"l'ombrello, ombrello"
