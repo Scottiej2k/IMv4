@@ -260,6 +260,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco and Lucia are now public to Ornella, Kevin, Matteo, Nadia and the bar; Chiara learns of them from Leo's drawing. Bianca knows the Emma–Tommaso secret and agrees to keep it.
 - **Planted:** Emma and Tommaso still undeclared («Sono stanco di fingere»). Kevin and Roberto's politeness-only acquaintance — "conoscerci bene è un'altra cosa." Franco plans to come to the bar in the mornings.
 
+### s02e14 · Non funziona niente
+- **Happened:** Kevin's new home oven is broken; three days of call-center music, holds and codes leave the *reclamo* unfiled (no receipt). The building site stays empty — builder Sergio has vanished, even his hat — and the delay reaches ten days. Roberto Colombo serves a committee notice about dust and demands a written reply signed by the company; Chiara blows up at work, then apologizes; Franco gives her Anna's recipe.
+- **New facts:** Kevin keeps receipts and codes in a yellow notebook; spare parts (*ricambi*) arrive Thursday and Kevin signs for them. Chiara's boss is Marchetti (Studio Marchetti, Milan), colleagues Davide and Giulia; the bank model is due Thursday.
+- **Changed:** Chiara admits to Franco she yells at everyone; Franco says she's like her mother Anna. Franco gives Chiara Anna's handwritten, coffee-stained lemon-cake recipe.
+- **Planted:** The lemon cake waits on a working oven; Roberto's reply still needs the company's signature.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
