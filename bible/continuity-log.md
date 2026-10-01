@@ -290,6 +290,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco accepts Kevin as a teammate and Leo as vice coach; Kevin and Matteo now see Nadia’s rest as a household rule.
 - **Planted:** June bocce tournament and finale (payoff expected later this season); Matteo’s new “una cosa alla volta” discipline.
 
+### s02e19 · Da quanto tempo?
+- **Happened:** Kevin worked two months at Bar Tigli; Matteo found a Sartori Alimentari (Milan) job ad and Kevin sent an online application with Emma's help. Sara Moretti phoned; Kevin interviewed Monday with Elena Ricci (marketing, food sector, Via Melchiorre Gioia). Written offer arrived: junior manager, permanent contract, €3,500/month plus bonuses, from June 1, answer by Thursday.
+- **New facts:** Sartori Alimentari, glass building, reparto marketing; Sara Moretti and Elena Ricci (Sartori staff). Roberto has been committee president twelve years three months; he interviewed at an insurance company twenty years ago, took the first offer, regrets it. Roberto and Marina plan a Saturday bench outing. Ornella at Via dei Tigli 52 years.
+- **Changed:** Kevin unsure whether to accept or refuse; children and Chiara push him to choose; Matteo jokes about losing his barista.
+- **Planted:** Kevin must answer Sartori by Thursday; his choice is unresolved.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

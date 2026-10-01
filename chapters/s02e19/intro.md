@@ -1,0 +1,1 @@
+It's Kevin's story this week. Two months into his job at Bar Tigli, he spots an ad for a food company in Milan and, with Emma's help, writes his first resume in Italian. The interview goes well, and a real offer lands on the kitchen table—but saying yes would mean leaving the bar, and he has until Thursday. Watch for the resume line Emma catches instantly: "datore di lavoro mio.
