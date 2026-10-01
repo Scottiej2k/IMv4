@@ -1,0 +1,825 @@
+@vocab
+le uova | noun | f | eggs | uovo
+il burro | noun | m | butter | 
+la scorta | noun | f | supply, stock | scorte
+ordinare | verb | | to order | ordina, ordinano, ordiniamo, ordinato
+abbastanza | adverb | | enough | 
+troppo | adverb | | too much, too many | troppa, troppi, troppe
+la consegna | noun | f | delivery | consegne
+il magazzino | noun | m | storeroom | magazzini
+il fornitore | noun | m | supplier | fornitori
+la quantità | noun | f | quantity | 
+pesare | verb | | to weigh | pesa, pesano, pesiamo, pesato
+la dose | noun | f | measure, dose | dosi
+il sacchetto | noun | m | bag | sacchetti
+la merce | noun | f | goods | 
+la cassa | noun | f | checkout, cash register | casse
+lo scontrino | noun | m | receipt | scontrini
+lo scaffale | noun | m | shelf | scaffali
+l'ordine | noun | m | order | ordini
+la scadenza | noun | f | expiry date | scadenze
+il cartone | noun | m | cardboard box | cartoni
+il cucchiaio | noun | m | spoon | cucchiai
+la teglia | noun | f | baking pan | teglie
+impastare | verb | | to knead | impasta, impastiamo, impastato
+la spezia | noun | f | spice | spezie
+la porzione | noun | f | portion | porzioni
+il lievito | noun | m | yeast | 
+la busta | noun | f | bag, envelope | buste
+il litro | noun | m | liter | litri
+@end
+
+# SCENE bar-tigli | lunedì mattina | matteo, nadia, kevin, leo
+
+È lunedì mattina e in Piazza della Chiesa c'è ancora poca gente. || It's Monday morning and there are still few people in Piazza della Chiesa.
+Al Bar Tigli la porta è già aperta e davanti al banco c'è un uomo con un carrello. || At Bar Tigli the door is already open and in front of the counter there's a man with a cart.
+È il fattorino del **fornitore**. || He's the **supplier**'s delivery man.
+Porta tre **cartoni** grandi e un **sacchetto** piccolo. || He's carrying three big **boxes** and a small **bag**.
+
+«Buongiorno. La **consegna** del lunedì»{uomo} dice l'uomo. || “Good morning. The Monday **delivery**,” says the man.
+Matteo arriva dal retro con un panno in mano e un sorriso enorme. || Matteo comes from the back with a cloth in his hand and a huge smile.
+«Perfetto! Finalmente! Metti tutto qui, accanto alla **cassa**»{matteo} dice Matteo. || “Perfect! Finally! Put everything here, next to the **register**,” says Matteo.
+L'uomo mette i **cartoni** sul pavimento e dà a Matteo un foglio. || The man puts the **boxes** on the floor and hands Matteo a sheet of paper.
+
+«Ecco lo **scontrino**. Firma qui»{uomo} dice il fattorino. || “Here's the **receipt**. Sign here,” says the delivery man.
+Matteo firma senza leggere e senza guardare niente. || Matteo signs without reading and without looking at anything.
+«Grazie, ciao!»{matteo} dice Matteo, e l'uomo esce con il carrello. || “Thanks, bye!” says Matteo, and the man leaves with the cart.
+_La **merce** è arrivata. Tutto sotto controllo._{matteo} || *The **goods** have arrived. Everything under control.*
+
+Nadia scende dalle scale con la borsa della farmacia. || Nadia comes down the stairs with her pharmacy bag.
+«Hai firmato lo **scontrino** senza guardare?»{nadia} chiede Nadia. || “Did you sign the **receipt** without looking?” Nadia asks.
+«Certo. È lunedì, il **fornitore** è sempre lo stesso»{matteo} risponde Matteo. || “Of course. It's Monday, the **supplier** is always the same,” Matteo answers.
+Nadia apre il primo **cartone** senza dire una parola. || Nadia opens the first **box** without saying a word.
+Dentro ci sono solo cornetti. || Inside there are only croissants.
+«Cornetti? Trecento cornetti?»{nadia} chiede Nadia. || “Croissants? Three hundred croissants?” Nadia asks.
+
+«Ho **ordinato** cornetti, sì. Per il brunch»{matteo} dice Matteo. || “I **ordered** croissants, yes. For brunch,” says Matteo.
+Nadia apre il secondo **cartone**. || Nadia opens the second **box**.
+Anche questo è pieno di cornetti. || This one is full of croissants too.
+«Matteo. Dove sono il caffè e il latte?»{nadia} chiede Nadia. || “Matteo. Where are the coffee and the milk?” Nadia asks.
+Matteo guarda il primo **cartone**, poi il secondo. || Matteo looks at the first **box**, then the second.
+Apre il **sacchetto** piccolo: dentro c'è un pacchetto di tovaglioli. || He opens the small **bag**: inside there's a packet of napkins.
+
+«Non c'è caffè. Non c'è un **litro** di latte. Non c'è niente»{nadia} dice Nadia. || “There's no coffee. There's not one **liter** of milk. There's nothing,” says Nadia.
+«Ma io ho **ordinato** tutto!»{matteo} protesta Matteo. || “But I **ordered** everything!” Matteo protests.
+«Hai **ordinato** trecento cornetti e zero caffè»{nadia} dice Nadia. || “You **ordered** three hundred croissants and zero coffee,” says Nadia.
+«Beh... i cornetti sono buoni. Ne vendo trecento, no?»{matteo} dice Matteo. || “Well... croissants are good. I'll sell three hundred of them, right?” says Matteo.
+Nadia lo guarda come si guarda un bambino che ha rotto un vaso. || Nadia looks at him the way you look at a child who has broken a vase.
+
+«Quanti clienti hai il lunedì mattina?»{nadia} chiede Nadia. || “How many customers do you have on Monday morning?” Nadia asks.
+«Dieci. Forse dodici»{matteo} dice Matteo. || “Ten. Maybe twelve,” says Matteo.
+«E quanti cornetti sono **abbastanza**?»{nadia} chiede Nadia. || “And how many croissants are **enough**?” Nadia asks.
+«Trenta?»{matteo} dice Matteo, piano. || “Thirty?” says Matteo, quietly.
+«Trenta. Non trecento. Hai **ordinato** dieci volte **troppo**»{nadia} dice Nadia. || “Thirty. Not three hundred. You **ordered** ten times **too many**,” says Nadia.
+Matteo si mette una mano sulla fronte. || Matteo puts a hand on his forehead.
+_Bene. La mia **scorta** di cornetti è per un anno._{matteo} || *Great. My **supply** of croissants is for a year.*
+
+«E la **scorta** di caffè?»{nadia} chiede Nadia. || “And the **supply** of coffee?” Nadia asks.
+«La **scorta** di caffè è zero»{matteo} dice Matteo, senza guardarla. || “The **supply** of coffee is zero,” says Matteo, without looking at her.
+Nadia apre un altro **cartone** e guarda le **scadenze** sulla **merce**. || Nadia opens another **box** and looks at the **expiry dates** on the **goods**.
+«Questi cornetti scadono giovedì. Trecento cornetti fino a giovedì»{nadia} dice Nadia. || “These croissants expire Thursday. Three hundred croissants until Thursday,” says Nadia.
+«È un problema?»{matteo} chiede Matteo. || “Is that a problem?” asks Matteo.
+«Sì, è un problema»{nadia} dice Nadia, secca. || “Yes, it's a problem,” says Nadia, dryly.
+
+In quel momento la porta si apre e arriva Kevin. || Just then the door opens and Kevin arrives.
+Con lui c'è Leo, che ha ancora lo zaino della scuola. || With him is Leo, who still has his school backpack.
+«Buongiorno! Leo non ha scuola oggi, c'è lo sciopero»{ben} dice Kevin. || “Good morning! Leo doesn't have school today, there's a strike,” says Kevin.
+«Ciao Kevin. Ciao Leo»{matteo} dice Matteo, e Nadia saluta con la mano. || “Hi Kevin. Hi Leo,” says Matteo, and Nadia waves.
+Leo guarda i **cartoni** aperti sul pavimento. || Leo looks at the **boxes** open on the floor.
+«Cornetti!»{leo} dice Leo, felice. || “Croissants!” says Leo, happy.
+
+«Leo, conta i cornetti. Per favore»{matteo} dice Matteo, stanco. || “Leo, count the croissants. Please,” says Matteo, tired.
+Leo comincia a contare a voce alta. || Leo starts counting out loud.
+«Uno, due, tre, quattro... dieci... venti...»{leo} dice Leo a voce alta. || “One, two, three, four... ten... twenty...” says Leo out loud.
+Kevin prende il suo quaderno giallo dalla tasca. || Kevin takes his yellow notebook from his pocket.
+«Posso aiutare? A Chicago ho lavorato per un'azienda di cibo, con **magazzini** e scorte»{ben} dice Kevin. || “Can I help? In Chicago I worked for a food company, with **storerooms** and stock,” says Kevin.
+Nadia alza un sopracciglio. || Nadia raises an eyebrow.
+«Tu hai lavorato con i **magazzini**?»{nadia} chiede Nadia. || “You worked with **storerooms**?” Nadia asks.
+
+«Sì! Con **scaffali**, **scorte**, tutto. Ho fatto le campagne»{ben} dice Kevin. || “Yes! With **shelves**, **supplies**, everything. I've run campaigns,” says Kevin.
+«Le campagne?»{matteo} chiede Matteo, confuso. || “Campaigns?” asks Matteo, confused.
+«Sì, come una **consegna** ma con un piano»{ben} dice Kevin. || “Yes, like a **delivery** but with a plan,” says Kevin.
+Nadia sorride per la prima volta. || Nadia smiles for the first time.
+«Allora, signor Carter, questo **magazzino** ha bisogno di un piano»{nadia} dice Nadia. || “So, Mr. Carter, this **storeroom** needs a plan,” says Nadia.
+Kevin apre il quaderno e scrive una parola: **ORDINE**. || Kevin opens the notebook and writes one word: **ORDER**.
+
+«Primo: guardiamo la **merce** e le **scadenze**. Secondo: guardiamo lo **scaffale**. Terzo: facciamo l'**ordine** giusto»{ben} dice Kevin. || “First: we look at the **goods** and the **expiry dates**. Second: we look at the **shelf**. Third: we make the right **order**,” says Kevin.
+Matteo lo guarda con la bocca aperta. || Matteo looks at him with his mouth open.
+«Kevin, sei il mio magazziniere preferito»{matteo} dice Matteo. || “Kevin, you're my favorite storeroom guy,” says Matteo.
+Nadia mette i **cartoni** uno sopra l'altro. || Nadia puts the **boxes** one on top of the other.
+«Prima di tutto, mettiamo tutto nel **magazzino**»{nadia} dice Nadia. || “First of all, let's put everything in the **storeroom**,” says Nadia.
+Kevin guarda uno **scaffale** vuoto dietro il banco. || Kevin looks at an empty **shelf** behind the counter.
+
+«Sullo **scaffale** non c'è niente. Quanti pacchi di caffè ci sono?»{ben} chiede Kevin. || “On the **shelf** there's nothing. How many packets of coffee are there?” asks Kevin.
+«Zero. Ce ne sono zero»{matteo} dice Matteo. || “Zero. There are zero of them,” says Matteo.
+«E quanti cornetti?»{ben} chiede Kevin. || “And how many croissants?” asks Kevin.
+«Trecento. Ce ne sono trecento»{matteo} dice Matteo. || “Three hundred. There are three hundred of them,” says Matteo.
+Kevin scrive i due numeri nel quaderno. || Kevin writes the two numbers in the notebook.
+«Capito. **Troppo** di uno, niente dell'altro»{ben} dice Kevin. || “Got it. **Too much** of one, none of the other,” says Kevin.
+«**Troppi** cornetti. **Troppo** di tutto»{nadia} dice Nadia, e sospira. || “**Too many** croissants. **Too much** of everything,” says Nadia, and she sighs.
+
+Leo arriva dal **magazzino** con un **sacchetto** in mano. || Leo comes from the **storeroom** with a **bag** in his hand.
+«Ho contato i cornetti!»{leo} dice Leo, trionfante. || “I counted the croissants!” says Leo, triumphant.
+«Quanti?»{matteo} chiede Matteo. || “How many?” asks Matteo.
+«Trecento! Ce ne sono trecento!»{leo} dice Leo. || “Three hundred! There are three hundred of them!” says Leo.
+«Grazie, Leo. Adesso lo sappiamo»{nadia} dice Nadia, senza ridere. || “Thanks, Leo. Now we know,” says Nadia, without laughing.
+Kevin chiude il quaderno. || Kevin closes the notebook.
+Lo **scontrino** è ancora sul banco, firmato e piegato in due. || The **receipt** is still on the counter, signed and folded in half.
+
+«Ok. Domani chiamiamo il **fornitore**, **ordiniamo** caffè e latte e mettiamo tutto in **ordine**»{ben} dice Kevin. || “OK. Tomorrow we call the **supplier**, we **order** coffee and milk and we put everything in **order**,” says Kevin.
+«E i trecento cornetti?»{matteo} chiede Matteo. || “And the three hundred croissants?” asks Matteo.
+«Li vendiamo. O li regaliamo ai clienti»{ben} dice Kevin. || “We sell them. Or we give them away to the customers,” says Kevin.
+«E il latte? Ne ordiniamo due **litri**?»{matteo} chiede Matteo. || “And the milk? Do we order two **liters** of it?” asks Matteo.
+«Ne ordiniamo dieci»{nadia} dice Nadia. || “We order ten of them,” says Nadia.
+_Ai clienti. Trecento cornetti ai clienti._{matteo} || *To the customers. Three hundred croissants to the customers.*
+
+Nadia prende l'ultimo **cartone** e lo porta in **magazzino**. || Nadia takes the last **box** and carries it into the **storeroom**.
+«Kevin, hai **abbastanza** tempo domani?»{nadia} chiede Nadia. || “Kevin, do you have **enough** time tomorrow?” Nadia asks.
+«Ho tutto il tempo. E il quaderno»{ben} dice Kevin, e alza il quaderno in aria. || “I have all the time. And the notebook,” says Kevin, and he raises the notebook in the air.
+Matteo va verso la **cassa** e guarda il suo bar. || Matteo goes toward the **register** and looks at his bar.
+**Cartoni**, cornetti, un **sacchetto** di tovaglioli: non è **abbastanza** per un lunedì. || **Boxes**, croissants, a **bag** of napkins: it's not **enough** for a Monday.
+
+«Ho un'idea geniale! Cornetto party!»{matteo} dice Matteo. || “I have a brilliant idea! Croissant party!” says Matteo.
+«No»{nadia} dice Nadia, e Kevin annuisce. || “No,” says Nadia, and Kevin nods.
+Leo conta i cornetti un'altra volta, piano piano. || Leo counts the croissants one more time, very slowly.
+Nadia prende la sua borsa e va verso la porta. || Nadia takes her bag and heads toward the door.
+«Kevin, alle nove. E porta il quaderno»{nadia} dice Nadia. || “Kevin, at nine. And bring the notebook,” says Nadia.
+«Perfetto!»{ben} dice Kevin. || “Perfect!” says Kevin.
+Nadia esce. Matteo resta solo con i suoi trecento cornetti. || Nadia leaves. Matteo is left alone with his three hundred croissants.
+_Questo bar non ha un **ordine**. Ha un caos._{nadia} || *This bar doesn't have an **order**. It has a chaos.*
+
+# SCENE bar-tigli | lunedì pomeriggio | matteo, kevin
+
+Sono le due del pomeriggio e il Bar Tigli è chiuso. || It's two in the afternoon and Bar Tigli is closed.
+Nella sala le sedie sono sopra i tavoli e la luce è accesa solo dietro il banco. || In the room the chairs are on top of the tables and the light is on only behind the counter.
+Matteo apre la porta del **magazzino** e accende la lampadina. || Matteo opens the **storeroom** door and turns on the bulb.
+Kevin arriva dietro di lui con il quaderno giallo e una penna. || Kevin comes in behind him with the yellow notebook and a pen.
+
+«Allora, questo è il **magazzino**»{matteo} dice Matteo. || “So, this is the **storeroom**,” says Matteo.
+Il **magazzino** è piccolo e pieno di cose. || The **storeroom** is small and full of things.
+C'è uno **scaffale** di metallo a destra, con tre **cartoni** sopra. || There's a metal **shelf** on the right, with three **boxes** on it.
+Sul pavimento ci sono **sacchetti**, **buste** e una scatola di tovaglioli. || On the floor there are **bags**, **bags** and a box of napkins.
+In un angolo ci sono i **cartoni** di questa mattina, tutti aperti. || In a corner there are this morning's **boxes**, all open.
+
+«È tutto qui?»{ben} chiede Kevin. || “Is it all here?” Kevin asks.
+«Tutto qui. Il **magazzino** è questo»{matteo} dice Matteo. || “All here. The **storeroom** is this,” says Matteo.
+Kevin guarda lo **scaffale** e poi i **cartoni**. || Kevin looks at the **shelf** and then at the **boxes**.
+_Sembra il magazzino di un ristorante piccolo. Ma senza numeri._{kevin} || *It looks like the storeroom of a small restaurant. But without numbers.*
+«Prima cosa: contiamo e **pesiamo** tutto»{ben} dice Kevin. || “First thing: we count and **weigh** everything,” says Kevin.
+Matteo prende un **cartone** e lo mette sul tavolo. || Matteo takes a **box** and puts it on the table.
+«Contiamo i cornetti? Ci sono voluti venti minuti stamattina»{matteo} dice Matteo. || “Do we count the croissants? It took twenty minutes this morning,” says Matteo.
+
+«No, i cornetti li conosciamo. **Trecento**. Adesso contiamo il resto»{ben} dice Kevin. || “No, we know the croissants. **Three hundred**. Now let's count the rest,” says Kevin.
+Kevin apre il primo **sacchetto** e guarda dentro. || Kevin opens the first **bag** and looks inside.
+«Tovaglioli. Quanti **sacchetti** di tovaglioli?»{ben} chiede Kevin. || “Napkins. How many **bags** of napkins?” he asks.
+«Due. Forse tre»{matteo} dice Matteo, senza sicurezza. || “Two. Maybe three,” says Matteo, uncertain.
+Kevin conta i **sacchetti** a voce alta. || Kevin counts the **bags** out loud.
+«Uno, due, tre. Tre **sacchetti** di tovaglioli»{ben} dice Kevin. || “One, two, three. Three **bags** of napkins,” says Kevin.
+Poi apre una **busta** di plastica con dentro dei bicchieri. || Then he opens a plastic **bag** with glasses inside.
+
+«E questa **busta**?»{ben} chiede Kevin. || “And this **bag**?” Kevin asks.
+«Bicchieri. Sedici bicchieri, li ho comprati a marzo»{matteo} dice Matteo. || “Glasses. Sixteen glasses, I bought them in March,” says Matteo.
+«Sedici. Nel quaderno. E il caffè?»{ben} chiede Kevin. || “Sixteen. In the notebook. And the coffee?” Kevin asks.
+Matteo apre lo **scaffale** in alto e cerca. || Matteo opens the top of the **shelf** and looks.
+Sullo **scaffale** ci sono solo due tazze e una macchina del caffè rotta. || On the **shelf** there are only two cups and a broken coffee machine.
+«Zero pacchi di caffè. Ce ne sono zero»{matteo} dice Matteo. || “Zero packets of coffee. There are zero of them,” says Matteo.
+«E il latte?»{ben} chiede Kevin. || “And the milk?” Kevin asks.
+«Zero **litri**. Ce ne sono zero»{matteo} dice Matteo, piano. || “Zero **liters**. There are zero of them,” says Matteo, quietly.
+
+Kevin scrive nel quaderno: CAFFÈ — 0. LATTE — 0 **LITRI**. || Kevin writes in the notebook: COFFEE — 0. MILK — 0 **LITERS**.
+Poi scrive: CORNETTI — 300. TOVAGLIOLI — 3. BICCHIERI — 16. || Then he writes: CROISSANTS — 300. NAPKINS — 3. GLASSES — 16.
+«Perfetto. Queste sono le **quantità**»{ben} dice Kevin. || “Perfect. These are the **quantities**,” says Kevin.
+«Le **quantità**?»{matteo} chiede Matteo, curioso. || “The **quantities**?” Matteo asks, curious.
+«Sì. Quanto c'è di ogni cosa. Poi guardiamo le **scadenze**»{ben} dice Kevin. || “Yes. How much there is of each thing. Then we look at the **expiry dates**,” says Kevin.
+Matteo prende un **cartone** di cornetti e legge l'etichetta. || Matteo takes a **box** of croissants and reads the label.
+«Scade giovedì. Tutta la **merce** scade giovedì»{matteo} dice Matteo. || “It expires Thursday. All the **goods** expire Thursday,” says Matteo.
+
+Kevin scrive le **scadenze** accanto alle **quantità**. || Kevin writes the **expiry dates** next to the **quantities**.
+«Giovedì. Quindi i cornetti sono **troppo** e il tempo è poco»{ben} dice Kevin. || “Thursday. So the croissants are **too many** and the time is short,” says Kevin.
+«**Troppo** per una settimana. **Troppa** **merce**, zero caffè»{matteo} dice Matteo. || “**Too much** for one week. **Too much** **goods**, zero coffee,” says Matteo.
+«Adesso pesiamo il caffè. Voglio sapere quanto ne teniamo»{ben} dice Kevin. || “Now let's weigh the coffee. I want to know how much of it we keep,” says Kevin.
+«Il caffè? Ce n'è zero!»{matteo} dice Matteo, ridendo. || “The coffee? There's zero of it!” says Matteo, laughing.
+«Ah, giusto. Allora **pesiamo** i cornetti»{ben} dice Kevin. || “Ah, right. Then let's **weigh** the croissants,” says Kevin.
+Kevin mette un **cartone** sulla bilancia del bar. || Kevin puts a **box** on the bar's scale.
+«Un **cartone** sono cinque chili. Tre **cartoni**, quindici chili di cornetti»{ben} dice Kevin. || “One **box** is five kilos. Three **boxes**, fifteen kilos of croissants,” says Kevin.
+
+Matteo guarda il quaderno e poi Kevin. || Matteo looks at the notebook and then at Kevin.
+«Kevin, ma tu fai tutto questo anche a casa?»{matteo} chiede Matteo. || “Kevin, but do you do all this at home too?” Matteo asks.
+«A casa faccio le **liste** della spesa. Con le **quantità**. È la stessa cosa»{ben} dice Kevin. || “At home I make shopping **lists**. With the **quantities**. It's the same thing,” says Kevin.
+«E la **dose**?»{matteo} chiede Matteo. || “And the **measure**?” Matteo asks.
+«La **dose** è per cucinare. Le **dosi** sono nel quaderno delle ricette»{ben} dice Kevin. || “The **measure** is for cooking. The **measures** are in the recipe notebook,” says Kevin.
+Matteo prende il telefono e chiama il **fornitore**. || Matteo takes the phone and calls the **supplier**.
+«Pronto? Sì, Bar Tigli. Sì, per la **consegna** di oggi»{matteo} dice Matteo al telefono. || “Hello? Yes, Bar Tigli. Yes, about today's **delivery**,” says Matteo on the phone.
+
+Kevin ascolta e scrive sul quaderno la parola **ORDINE**. || Kevin listens and writes the word **ORDER** in the notebook.
+«Sì, allora, per domani... **ne** voglio cento»{matteo} dice Matteo. || “Yes, so, for tomorrow... I want a hundred **of them**,” says Matteo.
+Kevin alza la testa di colpo. || Kevin jerks his head up.
+«Cento?»{ben} dice Kevin, e prende il telefono. || “A hundred?” says Kevin, and he takes the phone.
+«Scusi, buongiorno. Sono Kevin, lavoro con Matteo»{ben} dice Kevin al **fornitore**. || “Excuse me, good morning. I'm Kevin, I work with Matteo,” says Kevin to the **supplier**.
+«Allora: **ne** abbiamo contati **trecento** e **ne** teniamo cento. Sì, cento cornetti»{ben} dice Kevin. || “So: we counted **three hundred** of them and we're keeping a hundred of them. Yes, a hundred croissants,” says Kevin.
+
+Matteo lo guarda senza parlare. || Matteo looks at him without speaking.
+«E **ne** ordiniamo dieci **litri** di latte. E cinque pacchi di caffè»{ben} dice Kevin al telefono. || “And we're ordering ten **liters** of milk of it. And five packets of coffee,” says Kevin on the phone.
+«Perfetto. Grazie. Arrivederci»{ben} dice Kevin, e chiude. || “Perfect. Thank you. Goodbye,” says Kevin, and hangs up.
+Poi guarda Matteo. || Then he looks at Matteo.
+«Tu hai detto “**ne** voglio cento”. Ma di cosa? Di cornetti o di caffè?»{ben} chiede Kevin. || “You said 'I want a hundred **of them**.' But of what? Of croissants or of coffee?” Kevin asks.
+Matteo apre la bocca e non risponde. || Matteo opens his mouth and doesn't answer.
+«Il **fornitore** non lo sa. Io ho detto: **ne** ho contati trecento, **ne** teniamo cento»{ben} dice Kevin. || “The **supplier** doesn't know. I said: we counted three hundred of them, we keep a hundred of them,” says Kevin.
+
+«Kevin, sei un genio»{matteo} dice Matteo. || “Kevin, you're a genius,” says Matteo.
+«No. Sono un ex responsabile marketing con un quaderno»{ben} dice Kevin. || “No. I'm a former marketing manager with a notebook,” says Kevin.
+Matteo va verso la **cassa** e apre il cassetto. || Matteo goes toward the **register** and opens the drawer.
+«Guarda, stamattina ho firmato lo **scontrino** e non ho guardato niente»{matteo} dice Matteo. || “Look, this morning I signed the **receipt** and I didn't look at anything,” says Matteo.
+«Lo **scontrino** è la prova di quello che hai **ordinato**»{ben} dice Kevin. || “The **receipt** is the proof of what you **ordered**,” says Kevin.
+Matteo prende lo **scontrino** piegato sul banco. || Matteo takes the **receipt** folded on the counter.
+«Trecento cornetti. È scritto qui. E io ho firmato»{matteo} dice Matteo. || “Three hundred croissants. It's written here. And I signed,” says Matteo.
+
+Kevin prende un foglio e scrive una nuova riga. || Kevin takes a sheet of paper and writes a new line.
+«Allora facciamo così: uno **scontrino** nuovo con la **merce** giusta»{ben} dice Kevin. || “So let's do this: a new **receipt** with the right **goods**,” says Kevin.
+«Uno **scontrino** nuovo? Per domani?»{matteo} chiede Matteo. || “A new **receipt**? For tomorrow?” Matteo asks.
+«Sì. Con le **quantità** vere: cento cornetti, dieci **litri** di latte, cinque pacchi di caffè»{ben} dice Kevin. || “Yes. With the real **quantities**: a hundred croissants, ten **liters** of milk, five packets of coffee,” says Kevin.
+Matteo scrive con la penna di Kevin. || Matteo writes with Kevin's pen.
+«E le **scadenze**?»{matteo} chiede Matteo. || “And the **expiry dates**?” Matteo asks.
+«Le **scadenze** sono sulla **merce**. Guardiamo sempre quelle»{ben} dice Kevin. || “The **expiry dates** are on the **goods**. We always look at those,” says Kevin.
+«Sempre. Ok»{matteo} dice Matteo. || “Always. OK,” says Matteo.
+
+Kevin guarda il **magazzino** intorno a sé. || Kevin looks at the **storeroom** around him.
+«Questo **magazzino** può funzionare bene. Basta un **ordine** al giorno»{ben} dice Kevin. || “This **storeroom** can work well. One **order** a day is enough,” says Kevin.
+«Un **ordine** al giorno. E il caffè **abbastanza** per una settimana»{matteo} dice Matteo. || “One **order** a day. And **enough** coffee for a week,” says Matteo.
+«E niente **troppa** **merce**. Solo quella che vendi»{ben} dice Kevin. || “And no **too much** **goods**. Only what you sell,” says Kevin.
+«Solo quella che vendo. Chiaro»{matteo} dice Matteo. || “Only what I sell. Clear,” says Matteo.
+Kevin chiude il quaderno e mette la penna in tasca. || Kevin closes the notebook and puts the pen in his pocket.
+«Allora, domani alle nove. Mettiamo tutto sullo **scaffale** in **ordine**»{ben} dice Kevin. || “So, tomorrow at nine. We put everything on the **shelf** in **order**,” says Kevin.
+
+«Kevin, una cosa»{matteo} dice Matteo, serio. || “Kevin, one thing,” says Matteo, serious.
+«Sì?»{ben} dice Kevin. || “Yes?” says Kevin.
+«Da oggi tu sei il capo **magazzino** ufficiale del Bar Tigli»{matteo} dice Matteo. || “From today you're the official **storeroom** manager of Bar Tigli,” says Matteo.
+Kevin ride. || Kevin laughs.
+«Ufficiale? E quanto guadagno?»{ben} chiede Kevin. || “Official? And how much do I earn?” Kevin asks.
+«Dieci cornetti al giorno. **Ne** abbiamo trecento»{matteo} dice Matteo. || “Ten croissants a day. We have three hundred of them,” says Matteo.
+«Va bene. **Ne** prendo due. Una **dose** giusta»{ben} dice Kevin. || “Fine. I'll take two of them. A reasonable **measure**,” says Kevin.
+
+Matteo spegne la lampadina del **magazzino**. || Matteo turns off the **storeroom** bulb.
+I due escono e chiudono la porta. || The two go out and close the door.
+La **cassa** suona una volta quando Matteo la chiude. || The **register** rings once when Matteo closes it.
+«A domani, capo»{matteo} dice Matteo. || “See you tomorrow, boss,” says Matteo.
+«A domani»{ben} dice Kevin, e va verso casa con il quaderno in mano. || “See you tomorrow,” says Kevin, and he heads home with the notebook in his hand.
+_Domani: caffè, latte, cento cornetti. Adesso c'è un **ordine**._{kevin} || *Tomorrow: coffee, milk, a hundred croissants. Now there's an **order**.*
+_Solo che il capo **magazzino** sono io._{kevin} || *Except that the **storeroom** manager is me.*
+
+# SCENE casa-franco | mercoledì pomeriggio | nadia, samira, lucia, franco
+
+È mercoledì pomeriggio e nella cucina di Franco c'è odore di burro e di cannella. || It's Wednesday afternoon and in Franco's kitchen there's a smell of butter and cinnamon.
+Sul tavolo c'è la farina, ci sono le **uova** e c'è un pacco di **burro**. || On the table there's the flour, there are the **eggs** and there's a package of **butter**.
+Samira apre il frigo di Franco come a casa sua. || Samira opens Franco's fridge as if it were her own home.
+«Franco, il **burro** è qui. Va bene»{samira} dice Samira. || “Franco, the **butter** is here. It's fine,” says Samira.
+Franco è seduto in un angolo con il giornale. || Franco is sitting in a corner with the newspaper.
+
+Nadia arriva con un quaderno nuovo, con la copertina rossa. || Nadia arrives with a new notebook, with a red cover.
+«Mamma, ho il quaderno. Il **quaderno delle ricette della nonna**»{nadia} dice Nadia. || “Mom, I have the notebook. The **grandmother's recipe notebook**,” says Nadia.
+Samira prende il quaderno e lo guarda. || Samira takes the notebook and looks at it.
+«Bello. Allora: il msemen. Prima le **dosi**, poi le mani»{samira} dice Samira. || “Nice. So: msemen. First the **measures**, then the hands,” says Samira.
+«Quanta farina?»{nadia} chiede Nadia, con la penna in mano. || “How much flour?” Nadia asks, pen in hand.
+«Mezzo chilo. **Ne** prendiamo mezzo chilo»{samira} dice Samira. || “Half a kilo. We take half a kilo **of it**,” says Samira.
+
+Nadia mette la farina in una ciotola grande. || Nadia puts the flour in a big bowl.
+«E le **uova**? Quante **ne** vogliamo?»{nadia} chiede Nadia. || “And the **eggs**? How many **of them** do we want?” Nadia asks.
+«Due. **Ne** mettiamo due»{samira} dice Samira. || “Two. We put two **of them** in,” says Samira.
+Nadia rompe le **uova** nella ciotola, una per una. || Nadia breaks the **eggs** into the bowl, one by one.
+Poi Samira mette il sale, l'acqua e un po' di **burro** fuso. || Then Samira adds the salt, the water and a little melted **butter**.
+«Adesso si **impasta**. Con le mani, con calma»{samira} dice Samira. || “Now we **knead**. With your hands, calmly,” says Samira.
+Nadia comincia a **impastare** e la farina va dappertutto. || Nadia starts to **knead** and the flour goes everywhere.
+
+«Serve il **lievito**?»{nadia} chiede Nadia. || “Do we need the **yeast**?” Nadia asks.
+«No. Per il msemen no. Il **lievito** è per il pane»{samira} dice Samira. || “No. Not for msemen. **Yeast** is for bread,” says Samira.
+In quel momento suona il campanello e Franco si alza. || Just then the doorbell rings and Franco gets up.
+Dalla porta arriva la voce di Lucia, allegra come sempre. || From the door comes Lucia's voice, cheerful as always.
+«C'è nessuno? Ho portato tutto!»{lucia} dice Lucia. || “Is anyone there? I brought everything!” says Lucia.
+Lucia entra in cucina con una **busta** di carta in mano. || Lucia comes into the kitchen with a paper **bag** in her hand.
+Dentro la **busta** ci sono il caffè, i savoiardi e il mascarpone. || Inside the **bag** there's the coffee, the ladyfingers and the mascarpone.
+
+«Che profumo! Cosa fate?»{lucia} chiede Lucia. || “What a smell! What are you making?” Lucia asks.
+«Il msemen. E tu?»{nadia} chiede Nadia. || “Msemen. And you?” Nadia asks.
+«Il tiramisù! Per il quaderno delle ricette»{lucia} dice Lucia. || “Tiramisu! For the recipe notebook,” says Lucia.
+_Due nonne, un quaderno. E io sono nel mezzo._{nadia} || *Two grandmothers, one notebook. And I'm in the middle.*
+Samira e Lucia si guardano per un secondo. || Samira and Lucia look at each other for a second.
+«Il tiramisù è **abbastanza** semplice. **Ne** faccio uno per volta»{lucia} dice Lucia. || “Tiramisu is **enough**-simple. I make one **of them** at a time,” says Lucia.
+
+«Anche il msemen è semplice. **Ne** facciamo dieci e **ne** mangiamo dieci»{samira} dice Samira. || “Msemen is simple too. We make ten **of them** and we eat ten **of them**,” says Samira.
+«Le **uova**! Quante **ne** usa il tiramisù?»{nadia} chiede Nadia. || “The **eggs**! How many **of them** does tiramisu use?” Nadia asks.
+«Quattro. **Ne** uso quattro»{lucia} dice Lucia. || “Four. I use four **of them**,” says Lucia.
+«Nel msemen **ne** mettiamo due. Le **uova** sono meno»{samira} dice Samira. || “In msemen we put two **of them**. There are fewer **eggs**,” says Samira.
+«Il tiramisù non ha **lievito**. Non ha **spezie**. È puro»{lucia} dice Lucia. || “Tiramisu has no **yeast**. It has no **spices**. It's pure,” says Lucia.
+«Il msemen ha la **spezia**. La cannella»{samira} dice Samira, e mette la cannella sul tavolo. || “Msemen has the **spice**. Cinnamon,” says Samira, and she puts the cinnamon on the table.
+
+Franco torna a sedersi, ma adesso non legge più. || Franco sits down again, but now he isn't reading anymore.
+«Ci sono tre cose sul tavolo e io ho fame»{franco} dice Franco. || “There are three things on the table and I'm hungry,” says Franco.
+«Aspetta, Franco. Prima cuociamo»{nadia} dice Nadia. || “Wait, Franco. First we cook,” says Nadia.
+Nadia prende la bilancia e **pesa** la farina un'altra volta. || Nadia takes the scale and **weighs** the flour one more time.
+«Peso tutto. Così le **dosi** sono giuste»{nadia} dice Nadia. || “I weigh everything. This way the **measures** are right,” says Nadia.
+
+Samira prende un **cucchiaio** e mescola l'acqua nel msemen. || Samira takes a **spoon** and mixes the water into the msemen.
+«Un **cucchiaio** di olio, non di più»{samira} dice Samira. || “One **spoon** of oil, no more,” says Samira.
+«Nel tiramisù il caffè è tutto. Si sente il caffè o niente»{lucia} dice Lucia. || “In tiramisu the coffee is everything. You taste the coffee or nothing,” says Lucia.
+Lucia apre una seconda **busta** piccola e tira fuori lo zucchero. || Lucia opens a second small **bag** and takes out the sugar.
+«Quanto zucchero?»{nadia} chiede Nadia. || “How much sugar?” Nadia asks.
+«Tre **cucchiai**. Grandi»{lucia} dice Lucia. || “Three **spoons**. Big ones,” says Lucia.
+«Troppo. Due **cucchiai** sono **abbastanza**»{samira} dice Samira. || “Too much. Two **spoons** are **enough**,” says Samira.
+«Nel tiramisù tre. Nel msemen zero»{lucia} dice Lucia, con un sorriso. || “In tiramisu, three. In msemen, zero,” says Lucia, with a smile.
+
+Nadia scrive sul quaderno rosso: MSEMEN — 2 **UOVA**, NO **LIEVITO**, CANNELLA. || Nadia writes in the red notebook: MSEMEN — 2 **EGGS**, NO **YEAST**, CINNAMON.
+Poi scrive: TIRAMISÙ — CAFFÈ, 4 **UOVA**, 3 **CUCCHIAI** DI ZUCCHERO. || Then she writes: TIRAMISÙ — COFFEE, 4 **EGGS**, 3 **SPOONS** OF SUGAR.
+«Mamma, **ne** abbiamo due di ricette. Va bene così»{nadia} dice Nadia. || “Mom, we have two **of them**, recipes. That's fine like that,” says Nadia.
+Nadia mette l'impasto del msemen su una **teglia** grande. || Nadia puts the msemen dough onto a big **pan**.
+«Sulla **teglia** ci va l'olio. Poco»{samira} dice Samira. || “The oil goes on the **pan**. A little,” says Samira.
+«Quanti pezzi **ne** facciamo?»{nadia} chiede Nadia. || “How many pieces **of it** do we make?” Nadia asks.
+«Sedici. **Ne** facciamo sedici, uno per ognuno»{samira} dice Samira. || “Sixteen. We make sixteen **of them**, one for each person,” says Samira.
+
+Lucia prepara il tiramisù in una **teglia** quadrata e lo copre. || Lucia prepares the tiramisu in a square **pan** and covers it.
+«Questo riposa in frigo tre ore. Poi si mangia»{lucia} dice Lucia. || “This rests in the fridge for three hours. Then we eat it,” says Lucia.
+«Tre ore? E il msemen è pronto subito»{samira} dice Samira. || “Three hours? And msemen is ready right away,” says Samira.
+«Ma il tiramisù è **abbastanza** famoso»{lucia} dice Lucia. || “But tiramisu is **enough**-famous,” says Lucia.
+«Anche il msemen. In casa mia, ogni giorno»{samira} dice Samira. || “Msemen too. In my house, every day,” says Samira.
+Nadia mette la **teglia** del msemen nel forno e guarda l'ora. || Nadia puts the **pan** of msemen in the oven and looks at the time.
+
+«Venti minuti e sono pronti»{nadia} dice Nadia. || “Twenty minutes and they're ready,” says Nadia.
+Franco si alza e va verso il forno. || Franco gets up and goes toward the oven.
+«Venti minuti sono lunghi»{franco} dice Franco. || “Twenty minutes is long,” says Franco.
+«Franco, siediti. Adesso c'è il **burro** per te»{lucia} dice Lucia. || “Franco, sit down. Now there's **butter** for you,” says Lucia.
+Franco si siede e aspetta con le mani sul tavolo. || Franco sits down and waits with his hands on the table.
+Quando il msemen è pronto, Nadia taglia una **porzione** per Franco. || When the msemen is ready, Nadia cuts a **portion** for Franco.
+Poi prende il tiramisù dal frigo e taglia una **porzione** piccola. || Then she takes the tiramisu from the fridge and cuts a small **portion**.
+«Assaggia tutti e due»{nadia} dice Nadia a Franco. || “Taste both of them,” Nadia says to Franco.
+
+Franco assaggia il msemen, poi il tiramisù, poi ancora il msemen. || Franco tastes the msemen, then the tiramisu, then the msemen again.
+«Buono»{franco} dice Franco. || “Good,” says Franco.
+«Buono quale?»{lucia} chiede Lucia. || “Good, which one?” Lucia asks.
+«Buono tutto»{franco} dice Franco, e torna al giornale. || “Good, all of it,” says Franco, and he goes back to the newspaper.
+«Franco, non si dice “buono tutto”. Si dice quale»{lucia} dice Lucia. || “Franco, you don't say 'good, all of it.' You say which one,” says Lucia.
+«Per me sono uguali. Mangio tutto»{franco} dice Franco. || “For me they're the same. I eat everything,” says Franco.
+Samira ride e guarda Nadia. || Samira laughs and looks at Nadia.
+
+«Nadia, hai scritto tutto?»{samira} chiede Samira. || “Nadia, did you write everything down?” Samira asks.
+«Tutto. Le **dosi**, le **porzioni**, i **cucchiai**»{nadia} dice Nadia. || “Everything. The **measures**, the **portions**, the **spoons**,” says Nadia.
+«E il tiramisù?»{lucia} chiede Lucia. || “And the tiramisu?” Lucia asks.
+«Anche il tiramisù. Nel quaderno **ne** ho due, adesso»{nadia} dice Nadia. || “Tiramisu too. In the notebook I have two **of them**, now,” says Nadia.
+Lucia e Samira mettono a posto il tavolo insieme. || Lucia and Samira tidy the table together.
+Samira mette la farina nella **busta** grande. || Samira puts the flour in the big **bag**.
+Lucia mette il caffè nella **busta** piccola. || Lucia puts the coffee in the small **bag**.
+
+«Nadia, il quaderno è bello. Ma la copertina è rossa»{lucia} dice Lucia. || “Nadia, the notebook is nice. But the cover is red,” says Lucia.
+«Rossa come il pomodoro. Come Napoli»{samira} dice Samira. || “Red like a tomato. Like Naples,” says Samira.
+«Rossa come il caffè? No, il caffè è nero»{lucia} dice Lucia. || “Red like coffee? No, coffee is black,” says Lucia.
+Nadia chiude il quaderno rosso con le mani piene di farina. || Nadia closes the red notebook with her hands full of flour.
+«Il quaderno è per il bambino»{nadia} dice Nadia. || “The notebook is for the baby,” says Nadia.
+«Appunto. Le **porzioni** del bambino»{lucia} dice Lucia. || “Exactly. The baby's **portions**,” says Lucia.
+
+«No. Il quaderno è per il bambino, non per voi due»{nadia} dice Nadia. || “No. The notebook is for the baby, not for you two,” says Nadia.
+Samira e Lucia si guardano e non dicono niente. || Samira and Lucia look at each other and say nothing.
+Poi Lucia prende un **cucchiaio** di tiramisù e lo mette in bocca. || Then Lucia takes a **spoon** of tiramisu and puts it in her mouth.
+«Però questo tiramisù è buono»{lucia} dice Lucia. || “This tiramisu is good though,” says Lucia.
+«Anche il msemen. **Ne** vuoi un pezzo?»{samira} chiede Samira. || “Msemen too. Do you want a piece **of it**?” Samira asks.
+«**Ne** voglio due»{lucia} dice Lucia, seria. || “I want two **of them**,” says Lucia, seriously.
+Franco guarda le due donne dal tavolo e sorride dietro il giornale. || Franco looks at the two women from the table and smiles behind the newspaper.
+«Il quaderno delle ricette è una guerra»{franco} dice Franco. || “The recipe notebook is a war,” says Franco.
+«No, è una famiglia»{nadia} dice Nadia. || “No, it's a family,” says Nadia.
+
+# SCENE casa-carter | mercoledì sera | kevin, chiara, leo
+
+È mercoledì sera e in casa Carter la cucina è in ordine. || It's Wednesday evening and in the Carter house the kitchen is tidy.
+Leo è seduto al tavolo con un bicchiere di latte. || Leo is sitting at the table with a glass of milk.
+Kevin ha il quaderno giallo aperto e scrive con calma. || Kevin has the yellow notebook open and writes calmly.
+Chiara arriva dal treno con la borsa ancora in mano. || Chiara arrives from the train with her bag still in her hand.
+
+«Ciao. Cosa fai?»{chiara} chiede Chiara, e appoggia la borsa sulla sedia. || “Hi. What are you doing?” Chiara asks, and she sets the bag on the chair.
+«Copio le ricette di Samira e di Lucia»{ben} dice Kevin, senza alzare la testa. || “I'm copying Samira's and Lucia's recipes,” says Kevin, without lifting his head.
+Chiara si avvicina al tavolo e guarda il quaderno. || Chiara comes closer to the table and looks at the notebook.
+«Hai scritto tutto in colonna?»{chiara} chiede Chiara. || “You wrote everything in a column?” Chiara asks.
+
+«Sì. Le **quantità**, le **dosi**, i minuti»{ben} dice Kevin, e gira il quaderno. || “Yes. The **quantities**, the **measures**, the minutes,” says Kevin, and he turns the notebook around.
+Nel quaderno si legge: MSEMEN — **UOVA** 2, **BURRO** 50 GRAMMI, NIENTE **LIEVITO**. || In the notebook you can read: MSEMEN — **EGGS** 2, **BUTTER** 50 GRAMS, NO **YEAST**.
+Sotto c'è scritto: TIRAMISÙ — **UOVA** 4, **CUCCHIAI** DI ZUCCHERO 3, CAFFÈ. || Below it says: TIRAMISÙ — **EGGS** 4, **SPOONS** OF SUGAR 3, COFFEE.
+«Bello. Sembra un progetto»{chiara} dice Chiara. || “Nice. It looks like a project,” says Chiara.
+«È un progetto. Ma di cucina»{ben} dice Kevin, e sorride. || “It is a project. But a cooking one,” says Kevin, and he smiles.
+
+Leo finisce il latte e va verso il frigo. || Leo finishes his milk and goes toward the fridge.
+Apre lo sportello e guarda dentro. || He opens the door and looks inside.
+«Quante **uova** ci sono?»{leo} chiede Leo. || “How many **eggs** are there?” Leo asks.
+«Guarda tu. Conta»{ben} dice Kevin. || “You look. Count,” says Kevin.
+Leo conta le **uova** nel portauova, una per una. || Leo counts the **eggs** in the egg holder, one by one.
+«Ce **ne** sono dodici!»{leo} dice Leo, trionfante. || “There are twelve **of them**!” says Leo, triumphant.
+«Dodici. E quanto **burro**?»{ben} chiede Kevin. || “Twelve. And how much **butter**?” Kevin asks.
+«Ce **ne** sono due pacchi. Uno aperto e uno chiuso»{leo} dice Leo. || “There are two packages **of it**. One open and one closed,” says Leo.
+
+«Perfetto. Adesso guardiamo la **scorta**»{ben} dice Kevin. || “Perfect. Now let's look at the **supply**,” says Kevin.
+Leo apre l'armadio della cucina e guarda gli **scaffali**. || Leo opens the kitchen cupboard and looks at the shelves.
+«Farina, pasta, riso, zucchero»{leo} dice Leo, leggendo le scatole. || “Flour, pasta, rice, sugar,” says Leo, reading the boxes.
+«E **abbastanza** per la settimana?»{ben} chiede Kevin. || “And is it **enough** for the week?” Kevin asks.
+«Sì. Ma lo zucchero è **troppo**»{leo} dice Leo, serio. || “Yes. But the sugar is **too much**,” says Leo, serious.
+Chiara ride e si siede al tavolo accanto a loro. || Chiara laughs and sits at the table next to them.
+«Leo, sei diventato il responsabile della **scorta**»{chiara} dice Chiara. || “Leo, you've become the **supply** manager,” says Chiara.
+
+Kevin prende il quaderno e legge alcune parole. || Kevin takes the notebook and reads some words.
+«Le parole nuove di oggi: **impastare**, **pesare**, **dose**»{ben} dice Kevin. || “Today's new words: **to knead**, **to weigh**, **measure**,” says Kevin.
+«**Impastare**?»{chiara} chiede Chiara. || “**To knead**?” Chiara asks.
+«Sì. Come si fa il pane. Con le mani»{ben} dice Kevin, e fa il gesto. || “Yes. How you make bread. With your hands,” says Kevin, and he makes the gesture.
+«Con le mani e con la farina dappertutto»{chiara} dice Chiara. || “With your hands and with flour everywhere,” says Chiara.
+«Esatto. E **pesare** vuol dire usare la bilancia»{ben} dice Kevin. || “Exactly. And **to weigh** means to use the scale,” says Kevin.
+«Lo so, Kevin. Sono italiana»{chiara} dice Chiara, e lo guarda. || “I know, Kevin. I'm Italian,” says Chiara, and she looks at him.
+«Giusto. Scusa»{ben} dice Kevin, rosso in viso. || “Right. Sorry,” says Kevin, red in the face.
+
+Leo prende il quaderno di Kevin e lo apre. || Leo takes Kevin's notebook and opens it.
+«Quante righe ci sono?»{leo} chiede Leo. || “How many lines are there?” Leo asks.
+«Contale tu»{ben} dice Kevin. || “You count them,” says Kevin.
+Leo conta le righe con il dito, una per una. || Leo counts the lines with his finger, one by one.
+«Ce **ne** sono trenta!»{leo} dice Leo. || “There are thirty **of them**!” says Leo.
+«Trenta righe di ricette»{ben} dice Kevin, e chiude il quaderno. || “Thirty lines of recipes,” says Kevin, and he closes the notebook.
+Poi guarda Chiara e mette le mani sul tavolo. || Then he looks at Chiara and puts his hands on the table.
+«Chiara, una cosa. A voce, non per messaggio»{ben} dice Kevin. || “Chiara, one thing. Out loud, not by message,” says Kevin.
+
+Chiara alza la testa e lo guarda. || Chiara lifts her head and looks at him.
+«Dimmi»{chiara} dice Chiara, piano. || “Tell me,” says Chiara, quietly.
+«È arrivato il via libera. La finestra si può fare»{ben} dice Kevin. || “The go-ahead has arrived. The window can be done,” says Kevin.
+Chiara resta un secondo in silenzio. || Chiara stays silent for a second.
+«Quando?»{chiara} chiede Chiara. || “When?” Chiara asks.
+«Lunedì. Sergio ha già il foglio»{ben} dice Kevin. || “Monday. Sergio already has the paper,” says Kevin.
+«E non me l'hai scritto?»{chiara} chiede Chiara. || “And you didn't write it to me?” Chiara asks.
+
+«Ho preferito dirlo a voce. Come adesso»{ben} dice Kevin. || “I preferred to say it out loud. Like now,” says Kevin.
+Chiara guarda il quaderno giallo aperto tra loro due. || Chiara looks at the yellow notebook open between the two of them.
+_Prima i messaggi. Adesso la voce. Meglio._{chiara} || *Before, the messages. Now, the voice. Better.*
+«Va bene. Grazie»{chiara} dice Chiara, e gli mette una mano sul braccio. || “All right. Thank you,” says Chiara, and she puts a hand on his arm.
+Leo guarda i due e non capisce, ma è contento. || Leo looks at the two of them and doesn't understand, but he's happy.
+«Allora la finestra si può fare e le **uova** sono dodici»{leo} dice Leo. || “So the window can be done and the **eggs** are twelve,” says Leo.
+
+«Esatto. Tutto in **ordine**»{ben} dice Kevin. || “Exactly. Everything in **order**,” says Kevin.
+Chiara guarda ancora il quaderno, con le colonne e i numeri. || Chiara looks at the notebook again, with the columns and the numbers.
+«Sai che ti invidio un po'?»{chiara} dice Chiara. || “You know I envy you a little?” says Chiara.
+«Perché?»{ben} chiede Kevin. || “Why?” Kevin asks.
+«Perché tu scrivi le cose e le cose funzionano»{chiara} dice Chiara. || “Because you write things down and things work,” says Chiara.
+«Non sempre. Oggi Matteo ha **ordinato** trecento cornetti»{ben} dice Kevin. || “Not always. Today Matteo **ordered** three hundred croissants,” says Kevin.
+«Trecento?»{chiara} chiede Chiara. || “Three hundred?” Chiara asks.
+«Trecento. E zero caffè. Adesso c'è un **ordine** nuovo»{ben} dice Kevin. || “Three hundred. And zero coffee. Now there's a new **order**,” says Kevin.
+
+Leo va al frigo un'altra volta e guarda dentro. || Leo goes to the fridge one more time and looks inside.
+«Quante **uova** ci sono ancora?»{leo} chiede Leo. || “How many **eggs** are there still?” Leo asks.
+«Dodici. Le hai contate due minuti fa»{chiara} dice Chiara. || “Twelve. You counted them two minutes ago,” says Chiara.
+«Ce **ne** sono sempre dodici»{leo} dice Leo, soddisfatto. || “There are always twelve **of them**,” says Leo, satisfied.
+Chiara chiude il frigo e manda Leo a lavarsi i denti. || Chiara closes the fridge and sends Leo to brush his teeth.
+Kevin resta al tavolo con il quaderno e il suo caffè. || Kevin stays at the table with the notebook and his coffee.
+_Lunedì la finestra. E domani il magazzino. Una cosa per volta._{kevin} || *Monday the window. And tomorrow the storeroom. One thing at a time.*
+
+# SCENE casa-franco | giovedì pomeriggio | nadia, samira, lucia, franco, kevin, leo
+
+Giovedì pomeriggio la cucina di Franco è piena di gente. || Thursday afternoon Franco's kitchen is full of people.
+Sul tavolo ci sono due **teglie**: una con il msemen e una con il tiramisù. || On the table there are two **pans**: one with msemen and one with tiramisu.
+Samira taglia il msemen in pezzi uguali. || Samira cuts the msemen into equal pieces.
+Lucia mette il tiramisù su un piatto grande, con cura. || Lucia puts the tiramisu on a big plate, carefully.
+
+Kevin arriva con Leo e con il quaderno giallo in mano. || Kevin arrives with Leo and with the yellow notebook in his hand.
+«Buongiorno! Siamo qui per l'assaggio»{ben} dice Kevin. || “Good morning! We're here for the tasting,” says Kevin.
+«Buonasera, Kevin. Sono le cinque»{nadia} dice Nadia, e ride. || “Good evening, Kevin. It's five o'clock,” says Nadia, and she laughs.
+«Ah. Buonasera»{ben} dice Kevin. || “Ah. Good evening,” says Kevin.
+Leo va subito verso il tavolo. || Leo goes straight to the table.
+«Che cos'è quello?»{leo} chiede Leo, indicando il msemen. || “What's that?” Leo asks, pointing at the msemen.
+
+«È il msemen. È come il pane, ma piatto»{samira} dice Samira. || “It's msemen. It's like bread, but flat,” says Samira.
+«E quello è il tiramisù. È un dolce freddo»{lucia} dice Lucia. || “And that's tiramisu. It's a cold dessert,” says Lucia.
+«Freddo come il gelato?»{leo} chiede Leo. || “Cold like ice cream?” Leo asks.
+«No. Freddo come il frigo»{lucia} dice Lucia. || “No. Cold like the fridge,” says Lucia.
+Nadia apre il quaderno rosso sul tavolo. || Nadia opens the red notebook on the table.
+«Prima di mangiare, scriviamo le due ricette»{nadia} dice Nadia. || “Before eating, let's write the two recipes,” says Nadia.
+«Ma io ho già fame»{leo} dice Leo. || “But I'm already hungry,” says Leo.
+
+«Cinque minuti e mangiamo tutto»{nadia} dice Nadia. || “Five minutes and we eat everything,” says Nadia.
+Kevin apre il suo quaderno e scrive anche lui. || Kevin opens his notebook and writes too.
+«Quante **uova** ci sono in tutto?»{ben} chiede Kevin. || “How many **eggs** are there in all?” Kevin asks.
+«Nel msemen due, nel tiramisù quattro. Sei **uova**»{samira} dice Samira. || “In the msemen two, in the tiramisu four. Six **eggs**,” says Samira.
+«Sei. E quanto **burro**?»{ben} chiede Kevin. || “Six. And how much **butter**?” Kevin asks.
+«Nel msemen c'è il **burro** fuso. Nel tiramisù no»{samira} dice Samira. || “In msemen there's melted **butter**. In tiramisu, no,” says Samira.
+
+«Allora nel tiramisù **ne** mettiamo zero di **burro**»{ben} dice Kevin. || “So in the tiramisu we put zero **of it**, **butter**,” says Kevin.
+«Bravo. Zero **ne** mettiamo»{lucia} dice Lucia. || “Well done. We put zero **of it**,” says Lucia.
+Kevin prende la bilancia di Franco e **pesa** un pezzo di msemen. || Kevin takes Franco's scale and **weighs** a piece of msemen.
+«Un pezzo **pesa** cento grammi»{ben} dice Kevin. || “One piece **weighs** a hundred grams,” says Kevin.
+«Non importa il peso. Importa il sapore»{lucia} dice Lucia. || “The weight doesn't matter. The flavor matters,” says Lucia.
+«Per me importano tutti e due»{ben} dice Kevin. || “For me they both matter,” says Kevin.
+
+Nadia scrive le **quantità** nel quaderno rosso. || Nadia writes the **quantities** in the red notebook.
+«MSEMEN: farina mezzo chilo, **uova** due, **burro** cinquanta grammi, niente **lievito**»{nadia} dice Nadia, leggendo. || “MSEMEN: flour half a kilo, **eggs** two, **butter** fifty grams, no **yeast**,” says Nadia, reading.
+«E una **spezia**: la cannella»{samira} dice Samira. || “And one **spice**: cinnamon,” says Samira.
+«TIRAMISÙ: **uova** quattro, zucchero tre **cucchiai**, caffè, savoiardi»{nadia} dice Nadia. || “TIRAMISÙ: **eggs** four, sugar three **spoons**, coffee, ladyfingers,” says Nadia.
+«E niente **lievito** anche qui?»{ben} chiede Kevin. || “And no **yeast** here too?” Kevin asks.
+«Niente **lievito**. Il tiramisù non cresce»{lucia} dice Lucia. || “No **yeast**. Tiramisu doesn't rise,” says Lucia.
+«Solo il msemen cresce, ma poco»{samira} dice Samira. || “Only msemen rises, but a little,” says Samira.
+
+Leo guarda dentro un **sacchetto** di carta sul tavolo. || Leo looks inside a paper **bag** on the table.
+«Cosa c'è qui?»{leo} chiede Leo. || “What's in here?” Leo asks.
+«Noci e mandorle. Per il msemen»{samira} dice Samira. || “Walnuts and almonds. For the msemen,” says Samira.
+Nella **busta** accanto ci sono i savoiardi. || In the **bag** next to it there are the ladyfingers.
+«E questa **busta**?»{leo} chiede Leo. || “And this **bag**?” Leo asks.
+«Savoiardi. Sono biscotti secchi»{lucia} dice Lucia. || “Ladyfingers. They're dry cookies,” says Lucia.
+«**Ne** posso assaggiare uno?»{leo} chiede Leo. || “Can I taste one **of them**?” Leo asks.
+
+«Prima l'assaggio vero. Poi la **busta**»{nadia} dice Nadia. || “First the real tasting. Then the **bag**,” says Nadia.
+Kevin si mette il grembiule di Franco e si avvicina al tavolo. || Kevin puts on Franco's apron and comes up to the table.
+«Posso **impastare** io il msemen?»{ben} chiede Kevin. || “Can I **knead** the msemen myself?” Kevin asks.
+Samira lo guarda e poi annuisce. || Samira looks at him and then nods.
+«Sì. Ma non troppo forte. Il msemen è delicato»{samira} dice Samira. || “Yes. But not too hard. Msemen is delicate,” says Samira.
+Kevin comincia a **impastare** e la farina va sulle sue mani. || Kevin starts to **knead** and the flour goes on his hands.
+
+«Kevin, così non va. **Ne** metti troppa di farina»{nadia} dice Nadia. || “Kevin, that's not right. You're putting too much flour **of it** in,” says Nadia.
+«Ah. Troppa farina. Scusa»{ben} dice Kevin. || “Ah. Too much flour. Sorry,” says Kevin.
+«Non è **troppa**. È **troppa** per l'impasto. La farina va pesata»{nadia} dice Nadia. || “It's not **too much**. It's **too much** for the dough. The flour needs to be weighed,” says Nadia.
+«Capito. **Troppa** di farina, poca di acqua»{ben} dice Kevin, e sorride. || “Got it. **Too much** flour, little water,” says Kevin, and he smiles.
+«Esatto. Va bene»{nadia} dice Nadia. || “Exactly. It's fine,” says Nadia.
+
+Franco entra dalla porta di dietro con le mani sporche di terra. || Franco comes in from the back door with his hands dirty with soil.
+«Che succede qui? Mangiate senza di me?»{franco} chiede Franco. || “What's happening here? Eating without me?” Franco asks.
+«Aspettiamo te. Sei il primo assaggiatore»{lucia} dice Lucia. || “We're waiting for you. You're the first taster,” says Lucia.
+Franco si lava le mani e si siede al posto d'onore. || Franco washes his hands and sits in the place of honor.
+Nadia taglia una **porzione** di msemen per lui. || Nadia cuts a **portion** of msemen for him.
+Poi taglia una **porzione** piccola di tiramisù. || Then she cuts a small **portion** of tiramisu.
+«Assaggia tutti e due, papà»{nadia} dice Nadia. || “Taste both of them, Dad,” says Nadia.
+
+Franco assaggia il msemen con calma. || Franco tastes the msemen calmly.
+Poi assaggia il tiramisù e chiude gli occhi per un secondo. || Then he tastes the tiramisu and closes his eyes for a second.
+«Buono»{franco} dice Franco. || “Good,” says Franco.
+«Buono quale?»{lucia} chiede Lucia, con le mani sui fianchi. || “Good, which one?” Lucia asks, hands on her hips.
+«Buono tutto. L'ho già detto ieri»{franco} dice Franco. || “Good, all of it. I said that yesterday,” says Franco.
+«Ieri e oggi non sono la stessa cosa»{lucia} dice Lucia. || “Yesterday and today aren't the same thing,” says Lucia.
+«Per me sì»{franco} dice Franco, e prende un altro pezzo di msemen. || “For me they are,” says Franco, and he takes another piece of msemen.
+
+Kevin prende una **porzione** di tiramisù e l'assaggia per primo. || Kevin takes a **portion** of tiramisu and tastes it first.
+«Buonissimo! Il caffè... il caffè è **abbastanza** forte»{ben} dice Kevin. || “Very good! The coffee... the coffee is **enough**-strong,” says Kevin.
+«**Abbastanza** forte o **troppo** forte?»{lucia} chiede Lucia. || “**Enough**-strong or **too** strong?” Lucia asks.
+«**Troppo** forte per me. Ma **abbastanza** buono»{ben} dice Kevin. || “**Too** strong for me. But **enough**-good,” says Kevin.
+«Kevin, non si dice “abbastanza buono”. Si dice “buonissimo”»{nadia} dice Nadia. || “Kevin, you don't say 'enough good.' You say 'very good',” says Nadia.
+«Ah. Buonissimo. Grazie, Nadia»{ben} dice Kevin. || “Ah. Very good. Thanks, Nadia,” says Kevin.
+«Prego. E usa anche il **cucchiaio**, non solo la forchetta»{nadia} dice Nadia. || “You're welcome. And use the **spoon** too, not just the fork,” says Nadia.
+
+Samira prende un **cucchiaio** di zucchero e lo mette nel caffè di Franco. || Samira takes a **spoon** of sugar and puts it in Franco's coffee.
+«**Troppo** zucchero, Samira»{lucia} dice Lucia. || “**Too much** sugar, Samira,” says Lucia.
+«Due **cucchiai** sono la **dose** giusta»{samira} dice Samira. || “Two **spoons** are the right **measure**,” says Samira.
+«Nel tiramisù **ne** ho messi tre di **cucchiai**. È un segreto di famiglia»{lucia} dice Lucia. || “In the tiramisu I put three **of them**, **spoons**. It's a family secret,” says Lucia.
+«Anche il msemen ha il suo segreto. La **spezia** giusta»{samira} dice Samira. || “Msemen has its secret too. The right **spice**,” says Samira.
+«Cioè troppa cannella?»{nadia} chiede Nadia. || “Meaning too much cinnamon?” Nadia asks.
+«Cioè **abbastanza** cannella»{samira} dice Samira, e ride. || “Meaning **enough** cinnamon,” says Samira, and she laughs.
+
+Nadia chiude il quaderno rosso con la penna dentro. || Nadia closes the red notebook with the pen inside.
+«Allora: due ricette nel quaderno. **Ne** tengo due»{nadia} dice Nadia. || “So: two recipes in the notebook. I'm keeping two **of them**,” says Nadia.
+«Solo due? Ce **ne** sono molte di ricette»{ben} dice Kevin. || “Only two? There are many recipes **of them**,” says Kevin.
+«Sì. Ma queste due sono della nonna»{nadia} dice Nadia. || “Yes. But these two are from the grandmother,” says Nadia.
+«Quale nonna?»{ben} chiede Kevin. || “Which grandmother?” Kevin asks.
+«Tutte e due. Per il bambino»{nadia} dice Nadia. || “Both of them. For the baby,” says Nadia.
+Leo mangia il suo secondo pezzo di msemen e conta i pezzi rimasti. || Leo eats his second piece of msemen and counts the pieces left.
+«Ce **ne** sono cinque ancora»{leo} dice Leo, con la bocca piena. || “There are five **of them** left,” says Leo, with his mouth full.
+
+Lucia mette il tiramisù nel frigo di Franco, ma solo per poco. || Lucia puts the tiramisu in Franco's fridge, but only for a little while.
+«Quanti **ne** vuoi, Nadia?»{lucia} chiede Lucia. || “How many **of them** do you want, Nadia?” Lucia asks.
+Nadia guarda il msemen, poi il tiramisù, poi le due donne. || Nadia looks at the msemen, then the tiramisu, then the two women.
+«Quanti **ne** voglio? Tutti e due»{nadia} dice Nadia. || “How many **of them** do I want? Both of them,” says Nadia.
+Franco alza il suo bicchiere d'acqua come per un brindisi. || Franco raises his glass of water as if for a toast.
+«A tutte le nonne»{franco} dice Franco. || “To all the grandmothers,” says Franco.
+
+# SCENE bar-tigli | venerdì mattina | matteo, nadia, kevin, ornella
+
+Venerdì mattina al Bar Tigli c'è il sole e la porta è aperta. || Friday morning at Bar Tigli it's sunny and the door is open.
+Il fattorino del **fornitore** arriva alle nove con un carrello piccolo. || The **supplier**'s delivery man arrives at nine with a small cart.
+Questa volta porta un solo **cartone** e due **buste**. || This time he's carrying only one **box** and two **bags**.
+Matteo firma lo **scontrino** solo dopo aver guardato tutto. || Matteo signs the **receipt** only after looking at everything.
+
+«La **consegna** è giusta?»{ben} chiede Kevin, arrivando dal **magazzino**. || “Is the **delivery** right?” Kevin asks, coming from the **storeroom**.
+Matteo apre il **cartone** e conta. || Matteo opens the **box** and counts.
+«Cento cornetti. Esatto»{matteo} dice Matteo. || “A hundred croissants. Exactly,” says Matteo.
+Poi guarda dentro una busta. || Then he looks inside a bag.
+«Cinque pacchi di caffè. E dieci **litri** di latte»{matteo} dice Matteo, soddisfatto. || “Five packets of coffee. And ten **liters** of milk,” says Matteo, satisfied.
+«E le **scadenze**?»{ben} chiede Kevin. || “And the **expiry dates**?” Kevin asks.
+
+Matteo guarda la **merce** e legge le etichette. || Matteo looks at the **goods** and reads the labels.
+«I cornetti scadono domenica. Il latte mercoledì»{matteo} dice Matteo. || “The croissants expire Sunday. The milk Wednesday,” says Matteo.
+«Bene. La **merce** va sugli **scaffali** subito»{ben} dice Kevin. || “Good. The **goods** go on the **shelves** right away,” says Kevin.
+I due mettono tutto sullo **scaffale** dietro il banco. || The two put everything on the **shelf** behind the counter.
+Il **magazzino** adesso è vuoto e pulito. || The **storeroom** is now empty and clean.
+«Guarda, Kevin. Nessun **cartone** in più»{matteo} dice Matteo. || “Look, Kevin. No extra **box**,” says Matteo.
+«Nessun **cartone** in più»{ben} ripete Kevin. || “No extra **box**,” Kevin repeats.
+
+Nadia scende dalle scale con il camice della farmacia. || Nadia comes down the stairs in her pharmacy coat.
+Guarda lo **scaffale**, poi il **magazzino**, poi la **cassa**. || She looks at the **shelf**, then the **storeroom**, then the **register**.
+«Bene. Molto bene»{nadia} dice Nadia. || “Good. Very good,” says Nadia.
+Poi prende lo **scontrino** dal banco e lo legge. || Then she takes the **receipt** from the counter and reads it.
+«Kevin, hai controllato tu l'**ordine**?»{nadia} chiede Nadia. || “Kevin, did you check the **order**?” Nadia asks.
+«Sì. E il **fornitore** ha detto che va tutto bene»{ben} dice Kevin. || “Yes. And the **supplier** said everything's fine,” says Kevin.
+«Allora il bar ha una **scorta** giusta per la settimana»{nadia} dice Nadia. || “So the bar has the right **supply** for the week,” says Nadia.
+
+Kevin prende il quaderno e legge l'**ordine** ad alta voce. || Kevin takes the notebook and reads the **order** out loud.
+«Cento cornetti, dieci **litri** di latte, cinque pacchi di caffè»{ben} dice Kevin. || “A hundred croissants, ten **liters** of milk, five packets of coffee,” says Kevin.
+«Perfetto. E niente **troppo**»{nadia} dice Nadia. || “Perfect. And nothing **too much**,” says Nadia.
+«Niente **troppa** **merce**»{matteo} dice Matteo, come una lezione. || “No **too much** **goods**,” says Matteo, like a lesson.
+In quel momento entra Ornella, con la sua borsa e il cappello. || Just then Ornella comes in, with her bag and her hat.
+«Buongiorno. Un caffè, per favore»{ornella} dice Ornella. || “Good morning. A coffee, please,” says Ornella.
+
+Matteo prepara il caffè e lo mette sul banco. || Matteo makes the coffee and puts it on the counter.
+Ornella guarda lo **scaffale** pieno di pacchi e di bottiglie. || Ornella looks at the **shelf** full of packets and bottles.
+«Signor Carter, il **magazzino** è in **ordine**»{ornella} dice Ornella. || “Mr. Carter, the **storeroom** is in **order**,” says Ornella.
+«Grazie, Signora Galli»{ben} dice Kevin, e diventa rosso. || “Thank you, Signora Galli,” says Kevin, and he turns red.
+«Lo dico sul serio. Prima ho visto **troppi** **cartoni** qui»{ornella} dice Ornella. || “I mean it. Before, I saw **too many** **boxes** here,” says Ornella.
+«Sì. Trecento cornetti. Adesso **ne** abbiamo cento»{ben} dice Kevin. || “Yes. Three hundred croissants. Now we have a hundred **of them**,” says Kevin.
+
+«Cento **ne** bastano»{ornella} dice Ornella, e prende il caffè. || “A hundred are **enough**,” says Ornella, and she takes the coffee.
+Nadia mette a posto la **cassa** e apre il cassetto. || Nadia tidies the **register** and opens the drawer.
+Dentro il cassetto ci sono gli **scontrini** del giorno. || Inside the drawer are the day's **receipts**.
+«Quanti **ne** abbiamo oggi?»{nadia} chiede Nadia. || “How many **of them** do we have today?” Nadia asks.
+«Sei. **Ne** abbiamo sei»{matteo} dice Matteo. || “Six. We have six **of them**,” says Matteo.
+«E quanto latte c'è in frigo?»{nadia} chiede Nadia. || “And how much milk is in the fridge?” Nadia asks.
+«Dieci **litri**. Ne abbiamo dieci»{matteo} dice Matteo. || “Ten **liters**. We have ten **of them**,” says Matteo.
+
+Nadia guarda Matteo con attenzione. || Nadia looks at Matteo carefully.
+«Dieci **litri**? L'**ordine** dice dieci **litri**?»{nadia} chiede Nadia. || “Ten **liters**? The **order** says ten **liters**?” Nadia asks.
+«Sì. **Ne** ho ordinati dieci»{matteo} dice Matteo, e guarda Kevin. || “Yes. I **ordered** ten **of them**,” says Matteo, and he looks at Kevin.
+«Matteo, perché dieci?»{nadia} chiede Nadia. || “Matteo, why ten?” Nadia asks.
+«Per il quaderno delle ricette»{matteo} dice Matteo. || “For the recipe notebook,” says Matteo.
+Nadia resta un secondo in silenzio. || Nadia stays silent for a second.
+«Matteo, il latte del bar non è per le ricette»{nadia} dice Nadia. || “Matteo, the bar's milk isn't for recipes,” says Nadia.
+
+«Ma Kevin ha il quaderno delle ricette. E io ho pensato...»{matteo} dice Matteo. || “But Kevin has the recipe notebook. And I thought...” says Matteo.
+«Hai pensato **troppo**, come sempre»{nadia} dice Nadia. || “You thought **too much**, as always,” says Nadia.
+Ornella finisce il caffè e mette la tazzina sul banco. || Ornella finishes her coffee and puts the cup on the counter.
+«Dieci **litri** sono tanti, ma non **troppi** per un bar»{ornella} dice Ornella. || “Ten **liters** are a lot, but not **too many** for a bar,” says Ornella.
+«Grazie, Signora Galli»{matteo} dice Matteo, sollevato. || “Thank you, Signora Galli,” says Matteo, relieved.
+
+«Però il latte scade mercoledì»{nadia} dice Nadia, severa. || “But the milk expires Wednesday,” says Nadia, stern.
+«Allora **ne** vendiamo molto. Latte e caffè per tutti»{matteo} dice Matteo. || “Then we sell a lot **of it**. Milk and coffee for everyone,” says Matteo.
+«Latte e caffè?»{ben} chiede Kevin. || “Milk and coffee?” Kevin asks.
+«Sì. È un'idea geniale!»{matteo} dice Matteo. || “Yes. It's a brilliant idea!” says Matteo.
+«No»{nadia} dice Nadia, e Kevin la guarda. || “No,” says Nadia, and Kevin looks at her.
+Ornella ride piano e prende la sua borsa. || Ornella laughs quietly and takes her bag.
+«Signor Carter, lei ha messo in **ordine** questo bar»{ornella} dice Ornella, e va verso la porta. || “Mr. Carter, you put this bar in **order**,” says Ornella, and she heads for the door.
+
+«Grazie, Signora Galli. Arrivederci»{ben} dice Kevin. || “Thank you, Signora Galli. Goodbye,” says Kevin.
+Nadia guarda l'**ordine** nel quaderno di Kevin e annuisce. || Nadia looks at the **order** in Kevin's notebook and nods.
+«Kevin, adesso c'è una **scorta** giusta e un **ordine** chiaro»{nadia} dice Nadia. || “Kevin, now there's a right **supply** and a clear **order**,” says Nadia.
+«E la **merce** è sugli **scaffali**, non sul pavimento»{ben} dice Kevin. || “And the **goods** are on the **shelves**, not on the floor,” says Kevin.
+Matteo prende il **quaderno** delle ricette dal banco. || Matteo takes the recipe **notebook** from the counter.
+Lo mette accanto alla **cassa**, vicino al telefono. || He puts it next to the **register**, near the phone.
+
+«Perché lì?»{nadia} chiede Nadia. || “Why there?” Nadia asks.
+«Così lo vedo sempre»{matteo} dice Matteo. || “So I always see it,” says Matteo.
+«E così controlli l'**ordine** ogni giorno»{nadia} dice Nadia. || “And so you check the **order** every day,” says Nadia.
+«Sì. Prima il quaderno delle ricette, poi l'**ordine** del bar»{matteo} dice Matteo. || “Yes. First the recipe notebook, then the bar's **order**,” says Matteo.
+«Piano piano impari»{nadia} dice Nadia, e sorride. || “Little by little you're learning,” says Nadia, and she smiles.
+Kevin chiude il quaderno giallo e lo mette in tasca. || Kevin closes the yellow notebook and puts it in his pocket.
+_Dieci litri di latte. Matteo è Matteo. Ma il magazzino funziona._{kevin} || *Ten liters of milk. Matteo is Matteo. But the storeroom works.*
+
+# SCENE casa-carter | sabato mattina | leo, kevin, matteo
+
+È sabato mattina e in casa Carter c'è odore di caffè. || It's Saturday morning and in the Carter house there's a smell of coffee.
+Matteo è seduto al tavolo con Kevin, arrivato per portare il quaderno delle ricette. || Matteo is sitting at the table with Kevin, who came to bring the recipe notebook.
+Leo apre il frigo e conta tutto, come sempre. || Leo opens the fridge and counts everything, as always.
+
+«Quante **uova** ci sono?»{leo} chiede Leo. || “How many **eggs** are there?” Leo asks.
+«Ce **ne** sono dodici»{ben} dice Kevin. || “There are twelve **of them**,” says Kevin.
+«E quanto **burro**?»{leo} chiede Leo. || “And how much **butter**?” Leo asks.
+«Ce **ne** sono due pacchi»{ben} dice Kevin. || “There are two packages **of it**,” says Kevin.
+«Quanti cornetti?»{leo} chiede Leo, ridendo. || “How many croissants?” Leo asks, laughing.
+«Nessuno»{matteo} dice Matteo. || “None,” says Matteo.
+
+Matteo prende il latte e lo mette nel bicchiere di Leo. || Matteo takes the milk and puts it in Leo's glass.
+«Vuoi lo zucchero?»{matteo} chiede Matteo. || “Do you want sugar?” Matteo asks.
+«Sì. **Ne** voglio. Quanti **cucchiai**?»{leo} chiede Leo. || “Yes. I want some **of it**. How many **spoons**?” Leo asks.
+«**Ne** metti uno. Una **dose** piccola»{ben} dice Kevin. || “Put one **of them** in. A small **measure**,” says Kevin.
+Leo **ne** mette sei di **cucchiai** e mescola. || Leo puts six **of them**, **spoons**, and stirs.
+«Leo, sei è **troppo**!»{ben} dice Kevin. || “Leo, six is **too much**!” says Kevin.
+«Ce **ne** sono troppi?»{leo} chiede Leo. || “Are there **too many of them**?” Leo asks.
+«**Abbastanza**»{ben} dice Kevin, e sospira. || “**Enough**,” says Kevin, and he sighs.
+
+Leo guarda la **scorta** nel frigo, **porzione** per **porzione**. || Leo looks at the **supply** in the fridge, **portion** by **portion**.
+«Quante **porzioni** ci sono?»{leo} chiede Leo. || “How many **portions** are there?” Leo asks.
+«Tre di formaggio, due di prosciutto»{ben} dice Kevin. || “Three of cheese, two of ham,” says Kevin.
+«Allora la **quantità** è giusta»{leo} dice Leo, serio. || “So the **quantity** is right,” says Leo, serious.
+Matteo ride e beve il suo caffè. || Matteo laughs and drinks his coffee.
+«Kevin, il bambino conta meglio di me»{matteo} dice Matteo. || “Kevin, the kid counts better than me,” says Matteo.
+«Lo so. E ha anche l'**ordine** giusto»{ben} dice Kevin. || “I know. And he also has the right **order**,” says Kevin.
+Leo sorride, soddisfatto, e beve il suo latte troppo dolce. || Leo smiles, satisfied, and drinks his too-sweet milk.
+
+@grammar
+
+# Ne: the little word for "of it" and "of them"
+
+## What it is
+
+In English you say *I have three of them* or *I want two*. In Italian, the phrase "of them" / "of it" is usually a tiny word: **ne**. It comes before the verb, and it replaces a quantity phrase like *di cornetti*, *di latte*, *di uova*.
+
+> Non ci sono cornetto → **Non ne** ci sono. (There aren't any **of them**.)
+
+**Ne** never means a person or a single object on its own — it means "some / any / a number **of** something already mentioned."
+
+## How it works
+
+### 1. Ne replaces "di + thing" when a number or quantity is present
+
+The number can be exact (due, tre, cento), vague (molto, poco, abbastanza), or absent altogether (some / any).
+
+| Without ne | With ne |
+|---|---|
+| Vuoi **dei cornetti**? | Ne vuoi? |
+| Ne voglio **due** di cornetti. | **Ne** voglio due. |
+| Ci sono **dodici uova**. | Ce **ne** sono dodici. |
+| Abbiamo **cento cornetti**. | **Ne** abbiamo cento. |
+| Non c'è **caffè**. | Non **ne** c'è. |
+
+Notice that the number or quantity (**due**, **dodici**, **cento**) stays in the sentence. **Ne** only replaces the *di + noun* part.
+
+### 2. Position
+
+Like other short pronouns, **ne** goes **directly before the verb** (or before the infinitive, or attached to it):
+
+- **Ne** voglio due. — I want two of them.
+- Ce **ne** sono dodici. — There are twelve of them. (*ci* + *ne* → **ce ne**)
+- Vorrei comprar**ne** due. — I'd like to buy two of them.
+
+Note **ce ne**: *ci* (there) plus *ne* become **ce ne**. This is the most common way to say "there are some / there are X of them."
+
+### 3. Ne with the passato prossimo
+
+With a past participle, **ne** still comes before the whole verb. And when **ne** refers to something already counted, the participle agrees with the thing counted — masculine **-i** or feminine **-e**:
+
+- Ho comprato **tre cornetti**. → **Ne** ho comprat**i** tre.
+- Ho ordinato **dieci litri** di latte. → **Ne** ho ordinat**i** dieci.
+- Ho contato **trecento** cornetti. → **Ne** ho contat**i** trecento.
+- Ho mangiato **due uova**. → **Ne** ho mangiat**e** due.
+
+This agreement is the same rule you already know from *l'ho vista* / *li ho visti*: the participle follows the object when a short pronoun comes first.
+
+## From the story
+
+[[Ne vendo trecento, no?]]
+→ Matteo replaces *di cornetti* with **ne**: "I'll sell three hundred **of them**."
+
+[[Zero. Ce ne sono zero]]
+→ **ce ne sono** = "there are (some) of them." Here it means there are none.
+
+[[Mezzo chilo. Ne prendiamo mezzo chilo]]
+→ **Ne** replaces *di farina*; the quantity *mezzo chilo* stays.
+
+[[Quattro. Ne uso quattro]]
+→ **Ne** replaces *di uova*: "I use four **of them**."
+
+[[Allora: ne abbiamo contati trecento e ne teniamo cento]]
+→ Two **ne** in one sentence; past participle **contati** agrees with *cornetti* (masculine plural).
+
+[[Ce ne sono dodici!]]
+→ Leo's counting formula: *ci* + *ne* + *sono* + number.
+
+[[Sì. Ne ho ordinati dieci]]
+→ **Ne ho ordinati dieci** = "I ordered ten **of them**." Hi, that's the past participle rule in action.
+
+[[Nel msemen ne mettiamo due]]
+→ **Ne** with a present-tense verb, replacing *di uova*.
+
+[[Quanti ne voglio? Tutti e due]]
+→ Nadia answers her own question, reusing **ne** before **voglio**.
+
+[[Ce ne sono troppi?]]
+→ **ne** + quantity word *troppi*, agreeing in gender and number with the hidden noun.
+
+[[Ne metti uno. Una dose piccola]]
+→ **Ne** with an informal command ("put one **of them** in").
+
+## Common mistakes English speakers make
+
+1. **Putting the noun in anyway.** *Ne voglio due cornetti* is wrong — if you use **ne**, you don't repeat the noun. Say *Ne voglio due.*
+2. **Forgetting the number.** *Ne voglio* is fine only when the quantity is vague ("I want some"). If you mean two, you must say *Ne voglio due.*
+3. **Word order.** **Ne** is not English "of them" at the end. *Voglio due ne* is wrong. It goes before the verb: *Ne voglio due.*
+4. **Confusing ne with ci.** *Ci* = "there / in it / to it"; *ne* = "of it / of them." Together they become **ce ne**: *Ce ne sono due.*
+5. **No agreement in the past.** If you've counted something, the participle ends in **-i** (m.) or **-e** (f.): *Ne ho comprati tre*, *Ne ho comprate tre*. Don't leave it as *comprato*.
+6. **Using ne where you need a direct object pronoun.** *Lo voglio* (I want **it** — the whole thing) vs *Ne voglio* (I want some **of it**). Different jobs.
+
+## Practice
+
+Rewrite each sentence, replacing the underlined part with **ne**. Keep the number.
+
+1. Vuoi **dei cornetti**?
+2. Abbiamo **dieci litri di latte** in frigo.
+3. Ci sono **dodici uova**.
+4. Ho ordinato **tre pacchi di caffè**. (past participle!)
+5. Ho comprato **due bottiglie d'acqua**. (past participle!)
+6. Quanti **cucchiai di zucchero** metti?
+7. Nel tiramisù uso **quattro uova**.
+
+Then translate into Italian:
+
+8. There are three of them. (cornetti)
+9. I want two of them. (litri)
+
+## Answer key
+
+1. **Ne** vuoi?
+2. **Ne** abbiamo dieci in frigo.
+3. Ce **ne** sono dodici.
+4. **Ne** ho ordinat**i** tre.
+5. **Ne** ho comprat**e** due.
+6. Quanti **ne** metti?
+7. Nel tiramisù **ne** uso quattro.
+8. Ce **ne** sono tre.
+9. **Ne** voglio due.
