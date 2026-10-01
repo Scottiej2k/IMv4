@@ -1,0 +1,940 @@
+@vocab
+il lavoro | noun | m | job, work | lavoro, lavori
+il turno | noun | m | shift | turno, turni
+il cliente | noun | m | customer | cliente, clienti
+il bancone | noun | m | counter | bancone
+servire | verb | | to serve | servo, servi, serve, servito
+lo stipendio | noun | m | salary, pay | stipendio
+il collega | noun | m | colleague | collega, colleghi
+il capo | noun | m | boss | capo
+tocca a te | expression | | it's your turn | tocca a te, tocca a me
+per me | expression | | for me | per me
+il barista | noun | m/f | bartender, barista | barista, baristi
+il cornetto | noun | m | croissant | cornetto, cornetti
+il cappuccino | noun | m | cappuccino | cappuccino, cappuccini
+il vassoio | noun | m | tray | vassoio, vassoi
+la mancia | noun | f | tip | mancia, mance
+lo scontrino | noun | m | receipt | scontrino, scontrini
+il cameriere | noun | m | waiter | cameriere, camerieri
+il mestiere | noun | m | trade, line of work | mestiere, mestieri
+l'orario | noun | m | schedule, working hours | orario, orari
+il colloquio | noun | m | job interview | colloquio, colloqui
+la fila | noun | f | line, queue | fila, file
+lo scaffale | noun | m | shelf | scaffale, scaffali
+la scatola | noun | f | box, tin | scatola, scatole
+la tazza | noun | f | cup | tazza, tazze
+spiegare | verb | | to explain | spiego, spiega, spiegato
+controllare | verb | | to check | controllo, controlla, controllato
+raccontare | verb | | to tell, recount | racconto, racconta, raccontato
+rispondere | verb | | to answer | rispondo, risponde, risposto
+risparmiare | verb | | to save (money) | risparmio, risparmia, risparmiato
+la pazienza | noun | f | patience | pazienza
+il coraggio | noun | m | courage | coraggio
+ricordare | verb | | to remember | ricordo, ricorda, ricordato
+il grembiule | noun | m | apron | grembiule
+guadagnare | verb | | to earn | guadagno, guadagna, guadagnato
+orgoglioso | adjective | | proud | orgoglioso, orgogliosa
+stanco | adjective | | tired | stanco, stanca
+ascoltare | verb | | to listen | ascolto, ascolta, ascoltato
+@end
+
+# SCENE bar-tigli | lunedì mattina, presto | matteo, ben
+
+Sono le sei e mezza di lunedì mattina, e Via dei Tigli è ancora scura. || It's six thirty on Monday morning, and Via dei Tigli is still dark.
+Solo una luce è accesa: quella del Bar Tigli. || Only one light is on: the one at Bar Tigli.
+Dentro, Matteo mette le sedie a posto e canta piano. || Inside, Matteo puts the chairs in place and sings quietly.
+«Io non sono un **cliente** normale,»{franco} dice Franco. || “I'm not a normal **customer**,” says Franco.
+
+«Buongiorno!»{matteo|surprised} dice Matteo verso la porta. || “Good morning!” says Matteo toward the door.
+
+Kevin è davanti al vetro, con una giacca blu e il quaderno giallo in mano. || Kevin is in front of the glass, with a blue jacket and the yellow notebook in his hand.
+«Kevin? Sono le sei e mezza!»{matteo} || “Kevin? It's six thirty!”
+«Lo so. Sono pronto per il **colloquio**.»{ben|proud} || “I know. I'm ready for the **interview**.”
+«Per quale **colloquio**?»{matteo} || “For which **interview**?”
+
+Matteo apre la porta e guarda la giacca di Kevin. || Matteo opens the door and looks at Kevin's jacket.
+Poi guarda il quaderno giallo. || Then he looks at the yellow notebook.
+Poi ride. || Then he laughs.
+«Kevin, non c'è nessun **colloquio**.»{matteo} || “Kevin, there's no **interview**.”
+«Ma mi ha chiamato lei!»{ben} || “But you called me!”
+«Ti ho chiamato per offrirti un lavoro, non un **colloquio**.»{matteo} || “I called you to offer you a job, not an **interview**.”
+
+Kevin abbassa il quaderno e pensa. || Kevin lowers the notebook and thinks.
+_Un colloquio. Io ho preparato un colloquio. E lui ha preparato il caffè._{ben} || *An interview. I prepared an interview. And he prepared the coffee.*
+«Allora che cosa sono io, adesso?»{ben} || “So what am I now?”
+«Adesso entri e lo scopri.»{matteo} || “Now you come in and find out.”
+
+Dentro c'è odore di caffè, di latte e di pane caldo. || Inside there's the smell of coffee, milk and warm bread.
+Matteo chiude la porta e va dietro il **bancone**. || Matteo closes the door and goes behind the **counter**.
+«Prima regola: la giacca non serve.»{matteo} || “First rule: the jacket isn't needed.”
+«Non serve?»{ben} || “It isn't needed?”
+«No. Qui c'è un **bancone**, non una scrivania.»{matteo} || “No. Here there's a **counter**, not a desk.”
+
+Kevin si toglie la giacca con calma e la piega. || Kevin takes off his jacket calmly and folds it.
+Matteo prende qualcosa da sotto il **bancone**. || Matteo takes something from under the **counter**.
+È un **grembiule** verde, lungo e un po' vecchio. || It's a green **apron**, long and a bit old.
+«Questo è il tuo **colloquio**,»{matteo|dry} dice Matteo. || “This is your **interview**,” says Matteo.
+
+Kevin mette il **grembiule** subito, con molta serietà. || Kevin puts on the **apron** at once, very seriously.
+«Come sto?»{ben} || “How do I look?”
+«Come un **barista**.»{matteo} || “Like a **bartender**.”
+«Un **barista**?»{ben|happy} || “A **bartender**?”
+«Sì. Un **barista** con un **grembiule** verde e una giacca piegata.»{matteo} || “Yes. A **bartender** with a green **apron** and a folded jacket.”
+
+Kevin si guarda nello specchio dietro il **bancone**. || Kevin looks at himself in the mirror behind the **counter**.
+_Un **barista**. Va bene. Sono un professionista con un **grembiule**._{ben} || *A **bartender**. All right. I'm a professional with an **apron**.*
+
+Matteo prende una **scatola** di zucchero e una penna. || Matteo takes a **box** of sugar and a pen.
+«Adesso il **turno**,»{matteo} dice. «Dalle sei alle undici e mezza.» || “Now the **shift**,” says Matteo. “From six to eleven thirty.”
+«Cinque ore e mezza?»{ben} || “Five and a half hours?”
+«Cinque e mezza. La mattina è il **turno** importante.»{matteo} || “Five and a half. The morning is the important **shift**.”
+
+Matteo scrive l'**orario** sulla **scatola** di zucchero, con una penna rossa. || Matteo writes the **schedule** on the **box** of sugar, with a red pen.
+«L'**orario** è sulla **scatola**. La **scatola** resta qua.»{matteo} || “The **schedule** is on the **box**. The **box** stays here.”
+«E perché sulla **scatola**?»{ben} || “And why on the **box**?”
+«Perché la **scatola** non va mai via.»{matteo} || “Because the **box** never goes away.”
+
+Kevin copia l'**orario** nel quaderno giallo. || Kevin copies the **schedule** into the yellow notebook.
+«E quanto **guadagno**?»{ben} || “And how much do I **earn**?”
+«Poco. Lo **stipendio** è piccolo,»{matteo} dice Matteo, «ma è uno **stipendio**.» || “Little. The **pay** is small,” says Matteo, “but it's **pay**.”
+«Quanto piccolo?»{ben} || “How small?”
+«Molto piccolo. Però **guadagni** qualcosa, e **per me** è importante.»{matteo} || “Very small. But you **earn** something, and **for me** that matters.”
+
+Kevin scrive anche questa frase. || Kevin writes this sentence too.
+«**Guadagno** poco e sono contento,»{ben} dice piano. || “I **earn** little and I'm happy,” he says quietly.
+«Non dirlo troppo forte. Nadia sente tutto.»{matteo|dry} || “Don't say it too loud. Nadia hears everything.”
+
+Matteo prende un **vassoio** e mette sopra tre tazze vuote. || Matteo takes a **tray** and puts three empty cups on it.
+«Questo è il **vassoio**. Un buon **barista** lo porta con una mano sola.»{matteo} || “This is the **tray**. A good **bartender** carries it with one hand.”
+«Con una mano sola?»{ben} || “With one hand?”
+«Sì. L'altra mano è libera per la porta.»{matteo} || “Yes. The other hand is free for the door.”
+
+Kevin prende il **vassoio**. Le tre tazze tremano subito. || Kevin takes the **tray**. The three cups shake at once.
+«Piano. Con calma,»{matteo} dice. || “Slowly. Calmly,” says Matteo.
+«**Per me** è facile,»{ben} dice Kevin, e una tazza balla pericolosamente. || “**For me** it's easy,” says Kevin, and a cup wobbles dangerously.
+«Certo. Per **te** è facilissimo.»{matteo|dry} || “Sure. **For you** it's very easy.”
+
+Kevin mette il **vassoio** sul **bancone** e respira. || Kevin puts the **tray** on the **counter** and breathes.
+«E poi c'è la **mancia**,»{matteo} dice. || “And then there's the **tip**,” says Matteo.
+«La **mancia**? I soldi in più?»{ben} || “The **tip**? The extra money?”
+«Sì. La **mancia** non è tua: va nella scatola con i soldi del bar.»{matteo} || “Yes. The **tip** isn't yours: it goes in the box with the bar's money.”
+«Va bene. E **per me**?»{ben} || “All right. And **for me**?”
+«**Per te** resta il **grembiule**.»{matteo|dry} || “**For you** the **apron** stays.”
+
+Kevin annuisce e scrive: **mancia** = soldi del cliente. || Kevin nods and writes: **tip** = customer's money.
+«E se un cliente mi dà uno **scontrino**?»{ben} || “And if a customer gives me a **receipt**?”
+«No, Kevin. Lo **scontrino** non si dà: si fa.»{matteo} || “No, Kevin. The **receipt** isn't given: it's made.”
+«Come si fa uno **scontrino**?»{ben} || “How do you make a **receipt**?”
+«Con la cassa. Ma la cassa la vediamo domani.»{matteo} || “With the register. But we'll look at the register tomorrow.”
+«E lo **scontrino** è importante?»{ben} || “And is the **receipt** important?”
+«È importante **per me**, perché pago le tasse.»{matteo} || “It's important **for me**, because I pay taxes.”
+
+Kevin scrive: **scontrino** = ricevuta, e **per** Matteo è importante. || Kevin writes: **receipt** = receipt, and **for** Matteo it's important.
+_Non è il mio ufficio di Chicago. È un altro **mestiere**._{ben} || *It's not my office in Chicago. It's another **trade**.*
+«Matteo, **per me** questo è un **mestiere** vero,»{ben} dice Kevin. || “Matteo, **for me** this is a real **trade**,” says Kevin.
+«Un **mestiere**? Kevin, stai servendo caffè,»{matteo} dice. || “A **trade**? Kevin, you're serving coffee,” says Matteo.
+«Sì. E **per me** è un **mestiere** come un altro.»{ben} || “Yes. And **for me** it's a **trade** like any other.”
+
+Matteo lo guarda per un momento senza parlare. || Matteo looks at him for a moment without speaking.
+Poi prende la sua giacca da sotto il **bancone**. || Then he takes his jacket from under the **counter**.
+«Va bene, **barista**. Allora **tocca a te**.»{matteo} || “All right, **bartender**. So it's **your turn**.”
+«**Tocca a te**? Che cosa vuol dire?»{ben} || “**Your turn**? What does that mean?”
+«Vuol dire che adesso il bar è tuo. Io vado di sopra.»{matteo} || “It means the bar is yours now. I'm going upstairs.”
+
+Kevin guarda il **bancone**, il **vassoio**, la porta. || Kevin looks at the **counter**, the **tray**, the door.
+«Come, vai di sopra? E io resto qua da solo?»{ben|nervous} || “What, you're going upstairs? And I stay here alone?”
+«Da solo. Sei un **barista**, no?»{matteo} || “Alone. You're a **bartender**, aren't you?”
+«Sì, ma... e se arriva un problema?»{ben} || “Yes, but... what if a problem comes?”
+«Il telefono è per i problemi veri, **collega**. Non per il latte.»{matteo} || “The phone is for real problems, **colleague**. Not for milk.”
+«Per il latte non chiamo,»{ben} dice Kevin. «Ma per **te** sì.» || “I won't call for milk,” says Kevin. “But **for you** I will.”
+
+Matteo ride e apre la porta. || Matteo laughs and opens the door.
+«Tu sei un **collega** strano, Kevin. Ciao!»{matteo|laughing} || “You're a strange **colleague**, Kevin. Bye!”
+La porta si chiude. || The door closes.
+
+Kevin è solo dietro il **bancone**, con il **grembiule** verde. || Kevin is alone behind the **counter**, with the green **apron**.
+Guarda il **vassoio**, la **scatola** di zucchero, l'**orario** in penna rossa. || He looks at the **tray**, the **box** of sugar, the **schedule** in red pen.
+Fuori, la strada è ancora silenziosa. || Outside, the street is still silent.
+Poi Kevin apre la porta e accende la luce del Bar Tigli. || Then Kevin opens the door and turns on the light at Bar Tigli.
+_**Per me** è un **mestiere**. Un **mestiere** vero. E **tocca a te**, Kevin._{ben} || ***For me** it's a **trade**. A real **trade**. And it's **your turn**, Kevin.*
+
+# SCENE bar-tigli | lunedì mattina | ben, ornella, franco, uomo
+
+Alle sette meno un quarto la porta si apre. || At a quarter to seven the door opens.
+Entra la signora Ornella Galli, con la borsa in mano e il cappotto grigio. || Signora Ornella Galli comes in, with her bag in her hand and her grey coat.
+Kevin si sistema il **grembiule** e sorride. || Kevin adjusts his **apron** and smiles.
+«Buongiorno, signora Galli!»{ben|too loud} || “Good morning, Signora Galli!”
+
+Ornella si ferma a metà della stanza. || Ornella stops in the middle of the room.
+Guarda il bancone, guarda il **vassoio**, guarda Kevin. || She looks at the counter, looks at the **tray**, looks at Kevin.
+«Signor Carter... lei è dietro il bancone?»{ornella|cool, formal} || “Mr. Carter... you're behind the counter?”
+«Sì! Sono il nuovo... cioè, io sono...»{ben} || “Yes! I'm the new... I mean, I am...”
+«Il nuovo che cosa?»{ornella} || “The new what?”
+«Il nuovo **cameriere**?»{ben|unsure} || “The new **waiter**?”
+«Un **cameriere** porta i piatti ai tavoli. Lei che cosa porta?»{ornella} || “A **waiter** carries plates to the tables. What do you carry?”
+«Il caffè. E il **vassoio**.»{ben} || “Coffee. And the **tray**.”
+«Allora lei non è un **cameriere**. Lei è un **barista**.»{ornella} || “Then you're not a **waiter**. You're a **bartender**.”
+
+Kevin scrive subito nel quaderno giallo: **cameriere** = ai tavoli. || Kevin writes at once in the yellow notebook: **waiter** = at the tables.
+_E lei ha ragione. Io sono un **barista**._{ben} || *And she's right. I'm a **bartender**.*
+«Grazie, signora. È importante **per me**.»{ben} || “Thank you, signora. It's important **for me**.”
+«Non mi ringrazi ancora. Prima faccia il caffè.»{ornella|dry} || “Don't thank me yet. First make the coffee.”
+
+Kevin prende una **tazza** dallo scaffale. || Kevin takes a **cup** from the shelf.
+La **tazza** è piccola, bianca, con una riga blu. || The **cup** is small, white, with a blue line.
+«Questa **tazza**?»{ben} || “This **cup**?”
+«No. **Per me** una **tazza** grande, di vetro,»{ornella} dice Ornella. || “No. **For me** a big **cup**, glass,” says Ornella.
+«Il caffè è piccolo, ma la **tazza** è grande?»{ben} || “The coffee is small, but the **cup** is big?”
+«Il caffè **per me** è piccolo. Il bicchiere d'acqua **per me** è grande.»{ornella} || “The coffee **for me** is small. The glass of water **for me** is big.”
+
+Kevin prende la **tazza** di vetro e la mette sul **vassoio**. || Kevin takes the glass **cup** and puts it on the **tray**.
+Poi Ornella gli **spiega** il latte. || Then Ornella **explains** the milk to him.
+«Il latte caldo, non freddo. E il cappuccino si fa con pazienza.»{ornella} || “The milk hot, not cold. And a cappuccino is made with patience.”
+«Con **pazienza**?»{ben} || “With **patience**?”
+«Sì. Se lei ha fretta, il latte urla.»{ornella} || “Yes. If you're in a hurry, the milk screams.”
+«Il latte urla?»{ben|confused} || “The milk screams?”
+«È un modo di dire, signor Carter.»{ornella|dry} || “It's a figure of speech, Mr. Carter.”
+
+Kevin fa il cappuccino piano, piano. || Kevin makes the cappuccino very, very slowly.
+Il latte fa un rumore forte, come una piccola nave. || The milk makes a loud noise, like a little ship.
+«Il latte sta urlando,»{ben} dice Kevin. || “The milk is screaming,” says Kevin.
+«Un po'. Ma **per me** va bene così.»{ornella} || “A bit. But **for me** it's fine like this.”
+
+Ornella beve, chiude gli occhi e non dice niente. || Ornella drinks, closes her eyes and says nothing.
+«Buono?»{ben|hopeful} || “Good?”
+«Mah!»{ornella} || “Hmm!”
+_Un “Mah” è meglio di un “No”. Forse._{ben} || *A “Hmm” is better than a “No.” Maybe.*
+
+Adesso c'è una piccola **fila** davanti al bancone. || Now there's a small **line** in front of the counter.
+Tre persone, il giornale, il telefono, i soldi in mano. || Three people, the newspaper, the phone, the money in hand.
+Kevin guarda la **fila** e sente caldo. || Kevin looks at the **line** and feels hot.
+_Una **fila**. Devo **controllare** la **fila**._{ben} || *A **line**. I have to **check** the **line**.*
+
+Il primo della **fila** è un uomo con il giornale e la barba bianca. || First in the **line** is a man with the newspaper and a white beard.
+«Un caffè, per favore,»{uomo} dice l'uomo. || “A coffee, please,” says the man.
+«Subito!»{ben} || “Right away!”
+«Lei è nuovo, vero?»{uomo} || “You're new, right?”
+«Sì. Sono americano.»{ben} || “Yes. I'm American.”
+
+L'uomo si avvicina al **bancone** e parla piano. || The man leans toward the **counter** and speaks quietly.
+«Lo sa che il fratello del sindaco ha comprato la casa del dottore?»{uomo|whispering} || “Do you know that the mayor's brother bought the doctor's house?”
+«Ah. E **per me**?»{ben} || “Ah. And **for me**?”
+«**Per lei** niente. **Per lei** è un segreto.»{uomo} || “**For you** nothing. **For you** it's a secret.”
+«Un segreto. Capito. Non lo dico a **loro**,»{ben} dice Kevin, e indica la **fila**. || “A secret. Got it. I won't tell **them**,” says Kevin, and points at the **line**.
+«Bravo. Ma il caffè lo bevo qui.»{uomo} || “Good. But I drink the coffee here.”
+
+Kevin **ascolta** tutti, uno per uno. || Kevin **listens** to everyone, one by one.
+Una signora parla del figlio a Milano. || A lady talks about her son in Milan.
+Un signore parla della partita di domenica. || A gentleman talks about Sunday's game.
+Kevin non capisce tutto, ma **ascolta** e annuisce. || Kevin doesn't understand everything, but he **listens** and nods.
+
+Poi la porta si apre di nuovo, e l'aria cambia. || Then the door opens again, and the air changes.
+Entra Franco, con il giornale sotto il braccio e il cappello in testa. || Franco comes in, with the newspaper under his arm and his hat on his head.
+Vede Kevin dietro il bancone. || He sees Kevin behind the counter.
+Vede il **vassoio** in mano a Kevin. || He sees the **tray** in Kevin's hand.
+«No,»{franco|flat} dice Franco. || “No,” says Franco.
+
+Kevin mette giù il **vassoio**. || Kevin puts down the **tray**.
+«Buongiorno, Franco. Un caffè?»{ben} || “Good morning, Franco. A coffee?”
+«Io non sono un cliente normale,»{franco} dice Franco. || “I'm not a normal customer,” says Franco.
+«No?»{ben} || “No?”
+«Io sono il padre di tua moglie. E nessuno mi ha mai **servito** a casa.»{franco} || “I'm your wife's father. And nobody has ever **served** me at home.”
+«Ma al bar è diverso,»{ben} dice. || “But at the bar it's different,” he says.
+«Al bar è diverso **per te**. **Per me** è lo stesso bar di Gino.»{franco} || “At the bar it's different **for you**. **For me** it's the same bar as Gino's.”
+
+Franco resta fermo davanti al **bancone** per dieci secondi. || Franco stands still in front of the **counter** for ten seconds.
+Poi sospira e guarda il caffè della macchina. || Then he sighs and looks at the coffee machine.
+«Va bene. Un caffè. Ma lo bevo in piedi.»{franco|grumbling} || “All right. One coffee. But I drink it standing up.”
+«In piedi, come tutti gli italiani veri,»{ben|happy} dice Kevin. || “Standing, like all real Italians,” says Kevin.
+«Come tutti, punto,»{franco} dice Franco. || “Like everyone, period,” says Franco.
+
+Kevin prepara il caffè e **controlla** la macchina. || Kevin makes the coffee and **checks** the machine.
+Poi **controlla** la **tazza**, il piattino, il cucchiaino. || Then he **checks** the **cup**, the saucer, the little spoon.
+Infine **controlla** lo **scontrino** sulla cassa. || Finally he **checks** the **receipt** on the register.
+«Che cosa **controlla**, signor Carter?»{ornella|curious} chiede Ornella dal tavolo. || “What are you **checking**, Mr. Carter?” asks Ornella from the table.
+«Tutto. **Controllo** tutto,»{ben} **risponde** Kevin. || “Everything. I **check** everything,” **answers** Kevin.
+«E **controlla** anche lo **scontrino**?»{ornella} || “And you **check** the **receipt** too?”
+«Sì. Matteo paga le tasse,»{ben} **risponde** Kevin. || “Yes. Matteo pays taxes,” **answers** Kevin.
+«Allora lei ha capito il mestiere,»{ornella} dice piano. || “Then you've understood the job,” says Ornella quietly.
+
+Franco beve il caffè in tre secondi. || Franco drinks the coffee in three seconds.
+Poi guarda Kevin e dice una parola sola. || Then he looks at Kevin and says one word only.
+«Mah.»{franco} || “Hmm.”
+«Grazie?»{ben|unsure} || “Thank you?”
+«Non ho detto grazie,»{franco} dice Franco. «Ho detto “Mah”.»{franco} || “I didn't say thank you,” says Franco. “I said ‘Hmm.’”
+«E “Mah” che cosa vuol dire?»{ben} || “And what does ‘Hmm’ mean?”
+«Vuol dire “Mah”.»{franco|dry} || “It means ‘Hmm.’”
+
+Franco mette due euro sul **bancone** e va verso la porta. || Franco puts two euros on the **counter** and goes toward the door.
+Kevin **risponde** con la voce più gentile che ha. || Kevin **answers** in the kindest voice he has.
+«A domani, Franco.»{ben} || “See you tomorrow, Franco.”
+«A domani,»{franco} dice Franco, senza girarsi. || “See you tomorrow,” says Franco, without turning around.
+
+Un signore della **fila** guarda Kevin e sorride. || A gentleman in the **line** looks at Kevin and smiles.
+«Lei **ricorda** il mio caffè?»{uomo} chiede. || “Do you **remember** my coffee?” he asks.
+«Certo. Macchiato, **tazza** piccola,»{ben} **risponde** Kevin. || “Of course. Macchiato, small **cup**,” **answers** Kevin.
+«Ma lei **ricorda** anche il mio nome?»{uomo} || “But do you also **remember** my name?”
+«Il nome no. Ma il caffè sì,»{ben} dice Kevin. || “The name, no. But the coffee, yes,” says Kevin.
+«Allora **per me** va bene lo stesso.»{uomo|laughing} || “Then **for me** it's fine anyway.”
+
+Ornella si alza, con calma, e mette i soldi sul **vassoio**. || Ornella gets up calmly and puts the money on the **tray**.
+«Signor Carter, lei ha molta **pazienza**,»{ornella} dice Ornella. || “Mr. Carter, you have a lot of **patience**,” says Ornella.
+«Grazie, signora Galli!»{ben|proud} || “Thank you, Signora Galli!”
+«È un complimento?»{ben} chiede Kevin. || “Is that a compliment?” asks Kevin.
+«Non ancora. Ma non è un insulto.»{ornella|smiling} || “Not yet. But it isn't an insult.”
+«Allora **per me** basta così.»{ben} || “Then **for me** that's enough.”
+
+Ornella esce e la porta si chiude piano. || Ornella goes out and the door closes softly.
+Kevin guarda il quaderno giallo, poi il **vassoio**, poi la **fila**. || Kevin looks at the yellow notebook, then the **tray**, then the **line**.
+_Venti minuti di lavoro e già un colloquio._{ben} || *Twenty minutes of work and already an interview.*
+«Prossimo!»{ben|too loud} dice Kevin alla **fila**. || “Next!” says Kevin to the **line**.
+
+# SCENE bar-tigli | lunedì, tarda mattina | ben, nadia, donna
+
+Alle dieci il Bar Tigli è pieno di gente. || At ten o'clock Bar Tigli is full of people.
+La **fila** arriva fino alla porta, e Kevin non si ferma un secondo. || The **line** reaches the door, and Kevin doesn't stop for a second.
+Prepara caffè, mette bicchieri sul **vassoio**, **controlla** la cassa. || He makes coffee, puts glasses on the **tray**, **checks** the register.
+Sul **bancone** ci sono già tre **tazze** e due **scontrini**. || On the **counter** there are already three **cups** and two **receipts**.
+
+Al tavolo due c'è una signora con la borsa rossa. || At table two there's a lady with a red bag.
+Lei parla da venti minuti e non prende mai fiato. || She has been talking for twenty minutes and never takes a breath.
+«Mio figlio è a Milano, ma non gli piace Milano,»{donna} dice la signora. || “My son is in Milan, but he doesn't like Milan,” says the lady.
+«Ah, no?»{ben} dice Kevin, e **ascolta**. || “Ah, no?” says Kevin, and **listens**.
+«No. Lui vuole tornare qui, ma sua moglie no.»{donna} || “No. He wants to come back here, but his wife doesn't.”
+«Capisco,»{ben} dice Kevin. || “I see,” says Kevin.
+«E i nipoti? I nipoti sono a Roma!»{donna|dramatic} || “And the grandchildren? The grandchildren are in Rome!”
+«Sì. Le idee sono **per lui**. Il **lavoro** è **per me**.»{nadia|tired} || “Yes. The ideas are **for him**. The **work** is **for me**.”
+
+La signora **racconta** tutta la sua vita. || The lady **tells** him her whole life.
+Kevin pulisce i tavoli, porta il **vassoio**, ma **ascolta** ogni parola. || Kevin cleans the tables, carries the **tray**, but **listens** to every word.
+_Anche per lei è importante parlare._{ben} || *For her too, talking matters.*
+«Lei ha **pazienza**, giovanotto,»{donna} dice la signora. || “You have **patience**, young man,” says the lady.
+«Grazie. **Per me** ascoltare è la parte facile.»{ben} || “Thank you. **For me** listening is the easy part.”
+
+Poi, verso le undici, la porta sul retro si apre. || Then, around eleven, the back door opens.
+Entra Nadia con il maglione grigio e i capelli legati. || Nadia comes in with her grey sweater and her hair tied back.
+Guarda la sala, la **fila**, il **bancone**. || She looks at the room, the **line**, the **counter**.
+«Buongiorno, Kevin. Come va?»{nadia|calm} || “Good morning, Kevin. How's it going?”
+«Va bene! Venti caffè, un cappuccino e molti segreti.»{ben|proud} || “Good! Twenty coffees, one cappuccino and lots of secrets.”
+«Segreti?»{nadia} || “Secrets?”
+«Sì. Ma non li dico a **loro**.»{ben} dice Kevin, e indica i clienti. || “Yes. But I won't tell **them**,” says Kevin, and points at the customers.
+
+Nadia va dietro il **bancone** e **controlla**. || Nadia goes behind the **counter** and **checks**.
+**Controlla** il latte, **controlla** lo zucchero, **controlla** le **tazze**. || She **checks** the milk, **checks** the sugar, **checks** the **cups**.
+Poi apre la **scatola** con i soldi. || Then she opens the **box** with the money.
+«La **mancia** dov'è?»{nadia} chiede. || “Where's the **tip**?” she asks.
+«Nella **scatola**, con i soldi del bar. Come ha detto Matteo.»{ben} || “In the **box**, with the bar's money. Like Matteo said.”
+«Bravo. E gli **scontrini**?»{nadia} || “Good. And the **receipts**?”
+«Qui. Tutti, uno per uno.»{ben} || “Here. All of them, one by one.”
+«Il latte caldo, non freddo. E il **cappuccino** si fa con pazienza.»{ornella} || “The milk hot, not cold. And a **cappuccino** is made with patience.”
+Nadia guarda i fogli e alza le sopracciglia. || Nadia looks at the papers and raises her eyebrows.
+«Kevin, questo **scontrino** è del 2019.»{nadia|dry} || “Kevin, this **receipt** is from 2019.”
+«Del 2019?»{ben} || “From 2019?”
+«Sì. È un vecchio **scontrino** del 2019.»{nadia} || “Yes. It's an old **receipt** from 2019.”
+«Allora **controllo** male la **scatola**,»{ben} dice Kevin. || “Then I **check** the **box** badly,” says Kevin.
+«No. Adesso la **controlli** bene. Prima nessuno la **controllava**.»{nadia} || “No. Now you **check** it well. Before, nobody **checked** it.”
+
+Kevin prende **coraggio** e si avvicina. || Kevin takes **courage** and comes closer.
+«Nadia, posso dire una cosa?»{ben} || “Nadia, can I say something?”
+«**Per me** sì. Ma con calma, che ho la testa piena.»{nadia} || “**For me** yes. But slowly, my head is full.”
+«La **fila** al mattino è sempre lunga,»{ben} dice Kevin. || “The **line** in the morning is always long,” says Kevin.
+«Lo so.»{nadia} || “I know.”
+«Ma la **mancia** non sempre va nella **scatola**.»{ben} || “But the **tip** doesn't always go in the **box**.”
+«Come, non va nella **scatola**?»{nadia} || “What do you mean, it doesn't go in the **box**?”
+
+Kevin parla piano, con molta **pazienza**. || Kevin speaks slowly, with a lot of **patience**.
+«Se mettiamo una **scatola** piccola accanto alla cassa, la **mancia** è più facile da contare.»{ben} || “If we put a small **box** next to the register, the **tip** is easier to count.”
+«E **per te** è importante contare la **mancia**?»{nadia} || “And **for you** is it important to count the **tip**?”
+«Sì. **Per me** e **per te**,»{ben} **risponde** Kevin. || “Yes. **For me** and **for you**,” **answers** Kevin.
+«E poi possiamo **risparmiare** qualcosa ogni mattina.»{ben} || “And then we can **save** something every morning.”
+«**Risparmiare**? Con la **mancia**?»{nadia} || “**Save**? With the **tip**?”
+«Sì. Poco alla volta. Come ho fatto a Chicago con i conti.»{ben} || “Yes. Little by little. Like I did in Chicago with the accounts.”
+
+Nadia ride piano, senza rumore. || Nadia laughs quietly, without noise.
+«Kevin, tu sei un **collega** molto strano,»{nadia} dice. || “Kevin, you're a very strange **colleague**,” she says.
+«Lo dicono tutti. Anche Matteo.»{ben} || “Everyone says that. Matteo too.”
+«E Matteo dov'è, adesso?»{nadia} || “And where is Matteo now?”
+«Di sopra. Dorme.»{ben} || “Upstairs. Asleep.”
+«Dorme? Con il bar pieno?»{nadia} || “Asleep? With the bar full?”
+«Ha detto che io sono il **collega** della mattina.»{ben} || “He said I'm the morning **colleague**.”
+
+Nadia guarda il soffitto e sospira. || Nadia looks at the ceiling and sighs.
+«L'**orario** di Matteo è un'idea, non un **orario**,»{nadia} dice. || “Matteo's **schedule** is an idea, not a **schedule**,” she says.
+«Un'idea?»{ben} || “An idea?”
+«Sì. Un'idea bella che vive solo nella sua testa.»{nadia} || “Yes. A nice idea that lives only in his head.”
+«Ah. **Per me** è strano, perché io arrivo sempre in orario.»{ben} || “Ah. **For me** it's strange, because I always arrive on time.”
+«Lo so. E **per me** è una novità grande.»{nadia} || “I know. And **for me** that's a big novelty.”
+
+Nadia si siede su uno sgabello e si mette una mano sulla pancia. || Nadia sits on a stool and puts a hand on her belly.
+«Sei **stanca**?»{ben} chiede Kevin. || “Are you **tired**?” asks Kevin.
+«Molto. E non è solo la pancia,»{nadia} dice. || “Very. And it's not just my belly,” says Nadia.
+«E che cos'è?»{ben} || “And what is it?”
+«È che faccio tutto io. Il bar, la casa, i conti, le liste.»{nadia} || “It's that I do everything. The bar, the house, the accounts, the lists.”
+«Anche Matteo fa qualcosa,»{ben} dice Kevin piano. || “Matteo does something too,” says Kevin quietly.
+«Sì. Le idee,»{nadia} dice. «Le idee sono **per lui**. Il lavoro è **per me**.»{nadia|tired} || “Yes. The ideas,” says Nadia. “The ideas are **for him**. The work is **for me**.”
+
+Kevin mette il panno sul **bancone** e la guarda. || Kevin puts the cloth on the **counter** and looks at her.
+«Nadia, io non sono nessuno qui,»{ben} dice. || “Nadia, I'm nobody here,” says Kevin.
+«Ma?»{nadia} || “But?”
+«Ma posso **risparmiare** a **te** un po' di mattine.»{ben} || “But I can **save** **you** a few mornings.”
+«Che cosa vuoi dire?»{nadia} || “What do you mean?”
+«Vengo io alle sei, ogni giorno. Tu dormi un'ora in più.»{ben} || “I'll come at six, every day. You sleep an extra hour.”
+«E **per te** va bene?»{nadia} || “And **for you** is that all right?”
+«**Per me** è perfetto. Lo **stipendio** è piccolo, ma il lavoro è vero.»{ben} || “**For me** it's perfect. The **pay** is small, but the work is real.”
+
+Nadia lo guarda a lungo, poi annuisce. || Nadia looks at him for a long time, then nods.
+«Sai che cosa sei, Kevin?»{nadia} chiede. || “Do you know what you are, Kevin?” she asks.
+«Un americano dietro un **bancone**?»{ben} || “An American behind a **counter**?”
+«No. Sei il **barista** e il prete,»{nadia} dice. || “No. You're the **bartender** and the priest,” says Nadia.
+«Il prete?»{ben|surprised} || “The priest?”
+«Sì. Tutti ti **raccontano** tutto. E tu **ascolti**.»{nadia} || “Yes. Everyone **tells** you everything. And you **listen**.”
+«E **per me** è la parte più bella,»{ben} dice Kevin. || “And **for me** that's the best part,” says Kevin.
+
+La signora con la borsa rossa si alza dal tavolo due. || The lady with the red bag gets up from table two.
+«Giovanotto, torno domani!»{donna|happy} dice. || “Young man, I'll come back tomorrow!” she says.
+«La aspetto. **Per lei** un caffè e una sedia comoda.»{ben} || “I'll be waiting. **For you** a coffee and a comfortable chair.”
+«E **per te** un po' di riposo,»{nadia} dice piano a Kevin. || “And **for you** a bit of rest,” Nadia says quietly to Kevin.
+«Sono un po' **stanco**, sì,»{ben} dice Kevin. «Ma sono anche **orgoglioso**.»{ben} || “I'm a bit **tired**, yes,” says Kevin. “But I'm also **proud**.”
+«**Orgoglioso** di che cosa?»{nadia} || “**Proud** of what?”
+«Di aver fatto il mio primo **turno**,»{ben} dice Kevin. || “Of having done my first **shift**,” says Kevin.
+
+Nadia prende la **scatola** con i soldi e la mette sullo **scaffale**. || Nadia takes the **box** with the money and puts it on the **shelf**.
+Poi guarda lo **scontrino** del 2019 e lo butta. || Then she looks at the 2019 **receipt** and throws it away.
+«Quello lo teniamo **per ricordo**,»{nadia|dry} dice. || “Let's keep that one **as a memento**,” she says.
+«**Per me** no. **Per me** è una vergogna,»{ben} dice Kevin. || “**For me** no. **For me** it's a disgrace,” says Kevin.
+«Va bene. Allora è **per te** una lezione.»{nadia} || “All right. Then **for you** it's a lesson.”
+
+Sopra il bar, il soffitto fa un piccolo rumore. || Above the bar, the ceiling makes a small noise.
+«Ecco il **collega**,»{nadia|dry} dice Nadia. || “There's the **colleague**,” says Nadia.
+«Si è svegliato?»{ben} || “Is he awake?”
+«No. Matteo dorme e sogna il suo **orario**.»{nadia} || “No. Matteo sleeps and dreams his **schedule**.”
+«Vuole un caffè anche lui?»{ben} || “Does he want a coffee too?”
+«**Per lui** no. **Per lui** la mattina non esiste.»{nadia} || “**For him** no. **For him** the morning doesn't exist.”
+
+Kevin guarda il **vassoio** vuoto e il **bancone** pulito. || Kevin looks at the empty **tray** and the clean **counter**.
+_Venti caffè. Un segreto. E un lavoro vero. Non è male **per me**._{ben} || *Twenty coffees. One secret. And a real job. Not bad **for me**.*
+«Alle undici e mezza chiudo,»{ben} dice Kevin. || “At eleven thirty I close,” says Kevin.
+«No, Kevin. Alle undici e mezza **controlli** la **scatola** e poi chiudi.»{nadia} || “No, Kevin. At eleven thirty you **check** the **box** and then you close.”
+«Va bene. **Controllo** la **scatola** e poi chiudo.»{ben} || “All right. I **check** the **box** and then I close.”
+«E Kevin?»{nadia} || “And Kevin?”
+«Sì?»{ben} || “Yes?”
+«Grazie. **Per me** questa mattina è andata bene.»{nadia|warm} || “Thank you. **For me** this morning went well.”
+
+Nadia esce dalla porta sul retro e sale le scale piano. || Nadia goes out the back door and goes up the stairs slowly.
+Kevin resta solo con il **bancone**, il **vassoio** e il panno in mano. || Kevin stays alone with the **counter**, the **tray** and the cloth in his hand.
+Guarda la **fila** vuota, lo **scaffale** pieno di tazze. || He looks at the empty **line**, the **shelf** full of cups.
+Poi prende il quaderno giallo e scrive una parola nuova: prete. || Then he takes the yellow notebook and writes a new word: priest.
+_**Anche lui** lavora dietro un **bancone**? No. **Per me** no._{ben} || ***He too** works behind a **counter**? No. **For me** no.*
+
+# SCENE studio-marchetti | lunedì pomeriggio | chiara, marchetti
+
+Sono le tre del pomeriggio allo Studio Marchetti di Milano. || It's three in the afternoon at Studio Marchetti in Milan.
+Chiara è al suo tavolo, vicino alla finestra, con il progetto della banca aperto. || Chiara is at her desk, near the window, with the bank project open.
+Fuori piove piano sui tetti della zona Isola. || Outside it's raining softly on the rooftops of the Isola district.
+il telefono di Chiara fa un piccolo rumore. || Chiara's phone makes a small noise.
+
+È un messaggio di Kevin. || It's a message from Kevin.
+«Ho fatto il mio primo **turno** al bar!»{ben} || “I did my first **shift** at the bar!”
+Chiara legge e sorride subito, senza pensare. || Chiara reads it and smiles at once, without thinking.
+«Ha trovato un lavoro. Un lavoro vero,»{chiara} dice piano a se stessa. || “He found a job. A real job,” she says quietly to herself.
+_Sono **orgogliosa** di **lui**. Molto **orgogliosa**._{chiara} || *I'm **proud** of **him**. Very **proud**.*
+
+Poi legge la seconda parte del messaggio. || Then she reads the second part of the message.
+«Faccio il **barista** dalle sei alle undici e mezza. **Per me** è bellissimo.»{ben} || “I'm a **bartender** from six to eleven thirty. **For me** it's wonderful.”
+Chiara smette di sorridere. || Chiara stops smiling.
+Il sorriso resta a metà, come una cosa dimenticata. || The smile stays halfway, like a forgotten thing.
+
+_E i miei **colleghi**? Che cosa dicono **loro**?_{chiara} || *And my **colleagues**? What do **they** say?*
+_Mio marito fa il **barista** e **guadagna** poco. E **per loro** io sono una partner._{chiara} || *My husband is a **bartender** and **earns** little. And **for them** I'm a partner.*
+Chiara chiude gli occhi per un secondo. || Chiara closes her eyes for a second.
+_Che cosa orribile. **Per me** è una cosa orribile._{chiara} || *What a horrible thing. **For me** it's a horrible thing.*
+
+Guarda il messaggio di nuovo. || She looks at the message again.
+Lo **controlla** una volta: tre parole, un punto esclamativo. || She **checks** it once: three words, one exclamation point.
+Lo **controlla** una seconda volta, e poi una terza. || She **checks** it a second time, and then a third.
+Scrive una risposta. La cancella. Scrive un'altra risposta. || She writes a reply. She deletes it. She writes another reply.
+Non **risponde**. || She doesn't **answer**.
+_Che cosa **rispondo**? “Bravo, amore, hai un lavoro da **barista**”?_{chiara} || *What do I **answer**? “Good job, love, you have a **bartender**'s job”?*
+
+Alla porta del suo ufficio compare Marchetti, con la giacca grigia. || At the door of her office appears Marchetti, in his grey jacket.
+È il capo dello studio e parla sempre con calma. || He's the head of the studio and always speaks calmly.
+«Ferri, un momento?»{marchetti} chiede. || “Ferri, a moment?” he asks.
+«Certo, dottore,»{chiara} dice Chiara. || “Of course, dottore,” says Chiara.
+
+Marchetti si siede davanti a lei e apre il progetto sul tavolo. || Marchetti sits in front of her and opens the project on the table.
+«La banca vuole la scala di legno e vetro,»{marchetti} dice. || “The bank wants the wood-and-glass staircase,” says Marchetti.
+«Sì, lo so.»{chiara} || “Yes, I know.”
+«Le **spiego** la cosa importante: il centro resta libero.»{marchetti} dice. || “Let me **explain** the important thing: the center stays free.”
+«Il centro libero e le scale ai lati. Perfetto **per me**.»{chiara} || “The center free and the staircases at the sides. Perfect **for me**.”
+«**Per me** anche. Venerdì consegniamo. Tu e Giulia lavorate **insieme**.»{marchetti} || “**For me** too. We deliver on Friday. You and Giulia work **together**.”
+«Va bene, dottore.»{chiara} || “All right, dottore.”
+
+Marchetti chiude il progetto e la guarda. || Marchetti closes the project and looks at her.
+«Come è andato il tuo **weekend**?»{marchetti} chiede. || “How was your **weekend**?” he asks.
+«Bene. Molto bene. La casa è ancora un cantiere.»{chiara} || “Fine. Very well. The house is still a construction site.”
+«Ah, il cantiere. E **tuo marito**?»{marchetti} || “Ah, the construction site. And **your husband**?”
+«Perché me lo chiede?»{chiara} || “Why do you ask?”
+«Perché **per me** il **weekend** esiste, e **per te** forse no.»{marchetti|dry} || “Because **for me** the weekend exists, and **for you** maybe not.”
+
+Chiara mette la mano sul telefono. || Chiara puts her hand on the phone.
+«Kevin ha trovato un lavoro,»{chiara} dice. || “Kevin found a job,” says Chiara.
+«Ah, bene. Che **mestiere**?»{marchetti} || “Ah, good. What **trade**?”
+«Fa il **barista**. Al Bar Tigli, qui a Borgoverde.»{chiara} dice piano. || “He's a **bartender**. At Bar Tigli, here in Borgoverde,” she says quietly.
+«Un **mestiere** onesto,»{marchetti} dice Marchetti. || “An honest **trade**,” says Marchetti.
+«Sì. Ma **per me** è...»{chiara} || “Yes. But **for me** it's...”
+
+Chiara si ferma e non finisce la frase. || Chiara stops and doesn't finish the sentence.
+«È che cosa, Ferri?»{marchetti} chiede. || “It's what, Ferri?” he asks.
+«È che **per i miei colleghi** è strano. Un partner dello studio e un **barista**.»{chiara} || “It's that **for my colleagues** it's strange. A partner at the studio and a **bartender**.”
+«Che cosa è strano **per loro**?»{marchetti} || “What's strange **for them**?”
+«Che lui **guadagna** poco. Che ha un **orario** duro, dalle sei del mattino.»{chiara} || “That he **earns** little. That he has a hard **schedule**, from six in the morning.”
+
+Marchetti si alza e mette la sedia a posto. || Marchetti gets up and puts the chair back.
+«Ferri, ascoltami bene,»{marchetti} dice. || “Ferri, listen to me carefully,” says Marchetti.
+«Sì, dottore.»{chiara} || “Yes, dottore.”
+«Un **mestiere** è un **mestiere**. E **per me** conta la persona, non l'**orario**.»{marchetti} || “A **trade** is a **trade**. And **for me** the person matters, not the **schedule**.”
+«Quindi **per lei** va bene?»{chiara} chiede. || “So **for you** it's fine?” she asks.
+«**Per me** va bene. **Per te** è un problema, e questo è un problema tuo.»{marchetti} || “**For me** it's fine. **For you** it's a problem, and that's your problem.”
+
+Marchetti esce dall'ufficio e chiude la porta piano. || Marchetti leaves the office and closes the door softly.
+Chiara guarda il telefono per un minuto intero. || Chiara looks at the phone for a whole minute.
+_Un **mestiere** è un **mestiere**. Ha ragione **lui**._{chiara} || *A **trade** is a **trade**. **He** is right.*
+_Il problema sono **io**, non Kevin. E **per me** è peggio._{chiara} || *The problem is **me**, not Kevin. And **for me** that's worse.*
+
+Apre il messaggio di Kevin e **controlla** ancora una volta. || She opens Kevin's message and **checks** it once more.
+Poi scrive una parola sola. || Then she writes one word only.
+«Bravo.»{chiara} || “Good job.”
+E preme invio, con il pollice, piano piano. || And she presses send, with her thumb, very slowly.
+
+In un secondo arriva una risposta. || In one second a reply arrives.
+«Grazie! Ti **spiego** tutto stasera. **Per me** sei la prima persona.»{ben} || “Thanks! I'll **explain** everything tonight. **For me** you're the first person.”
+Chiara legge e ride da sola, con gli occhi un po' lucidi. || Chiara reads and laughs to herself, with slightly shiny eyes.
+_Sono **orgogliosa** di **te**, Kevin. Davvero._{chiara} || *I'm **proud** of **you**, Kevin. Really.*
+_Ma sono anche una donna che pensa cose **orribili**. E lo so._{chiara} || *But I'm also a woman who thinks **horrible** things. And I know it.*
+
+Marchetti passa davanti alla porta e guarda dentro per caso. || Marchetti passes in front of the door and looks in by chance.
+«Tutto bene, Ferri?»{marchetti} chiede. || “Everything all right, Ferri?” he asks.
+«Tutto bene. È **lui**,»{chiara} dice Chiara. || “Everything's fine. It's **him**,” says Chiara.
+«Chi, **lui**?»{marchetti} || “Who, **him**?”
+«Kevin. Mio marito.»{chiara} || “Kevin. My husband.”
+
+Marchetti annuisce e va via, senza altre domande. || Marchetti nods and goes away, without more questions.
+Chiara mette il telefono nella borsa e apre il progetto della banca. || Chiara puts the phone in her bag and opens the bank project.
+Prima di lavorare, però, guarda la finestra e la pioggia. || Before working, though, she looks at the window and the rain.
+_Non è un **colloquio** di lavoro. È mio marito. **Per me** è solo mio marito._{chiara} || *It's not a job **interview**. It's my husband. **For me** he's just my husband.*
+
+# SCENE casa-carter | lunedì sera | ben, chiara
+
+Sono le sette di sera a Via dei Tigli 14. || It's seven in the evening at Via dei Tigli 14.
+In cucina Chiara scalda la cena e aspetta. || In the kitchen Chiara heats up dinner and waits.
+Poi la porta si apre e arriva una voce forte. || Then the door opens and a loud voice arrives.
+«Buonasera! Sono a casa!»{ben|too loud} || “Good evening! I'm home!”
+
+Kevin entra in cucina con il **grembiule** in mano. || Kevin comes into the kitchen with the **apron** in his hand.
+Ha la farina nei capelli e monete in tasca. || He has flour in his hair and coins in his pocket.
+Mette il **grembiule** verde sulla sedia, con molta cura. || He puts the green **apron** on the chair, very carefully.
+«Che cosa è quello?»{chiara|curious} chiede Chiara. || “What is that?” asks Chiara.
+«Il mio **grembiule**. Il mio primo **grembiule** da **barista**.»{ben|proud} || “My **apron**. My first **apron** as a **bartender**.”
+
+Chiara lo guarda e sorride. || Chiara looks at him and smiles.
+«Hai la farina nei capelli,»{chiara} dice. || “You have flour in your hair,” she says.
+«Lo so. È farina di cornetti,»{ben} dice Kevin. || “I know. It's croissant flour,” says Kevin.
+«E le monete in tasca?»{chiara} || “And the coins in your pocket?”
+«È la **mancia**!»{ben|happy} dice Kevin, e mette le monete sul tavolo. || “It's the **tip**!” says Kevin, and puts the coins on the table.
+
+Chiara conta le monete con un dito. || Chiara counts the coins with one finger.
+«Due euro e quaranta?»{chiara} || “Two euros and forty?”
+«Sì. La **mancia** va nella **scatola**, ma Matteo mi ha dato una parte.»{ben} || “Yes. The **tip** goes in the **box**, but Matteo gave me a share.”
+«E quanto **guadagni** in tutto?»{chiara} chiede. || “And how much do you **earn** in all?” asks Chiara.
+«Poco. Lo **stipendio** è piccolo,»{ben} **risponde** Kevin. «Ma **per me** è uno **stipendio** vero.»{ben} || “Little. The **pay** is small,” **answers** Kevin. “But **for me** it's real **pay**.”
+
+Poi tira fuori dalla tasca uno **scontrino** piegato in quattro. || Then he pulls from his pocket a **receipt** folded in four.
+«Guarda. Il mio primo **scontrino**.»{ben|proud} || “Look. My first **receipt**.”
+«Kevin, lo **scontrino** lo fai tu, non lo tieni tu,»{chiara|dry} dice Chiara. || “Kevin, you make the **receipt**, you don't keep it,” says Chiara dryly.
+«Lo so. Ma **per me** è un ricordo. Come una foto.»{ben} || “I know. But **for me** it's a souvenir. Like a photo.”
+
+Kevin si siede e comincia a **raccontare**. || Kevin sits down and starts to **tell** the story.
+E **racconta** tutto, con le mani, come sempre. || And he **tells** everything, with his hands, as always.
+«Prima una signora mi ha **raccontato** tutta la sua vita.»{ben} || “First a lady **told** me her whole life.”
+«Tutta?»{chiara} || “All of it?”
+«Tutta. Il figlio a Milano, i nipoti a Roma, la borsa rossa.»{ben} || “All of it. Her son in Milan, her grandchildren in Rome, the red bag.”
+«E tu che cosa hai fatto?»{chiara} || “And what did you do?”
+«Lo so. È farina di **cornetti**,»{ben} dice Kevin. || “I know. It's **croissant** flour,” says Kevin.
+
+Chiara mette i piatti sul tavolo e si siede anche lei. || Chiara puts the plates on the table and sits down too.
+«E poi?»{chiara} chiede. || “And then?” she asks.
+«Poi ho rotto una **tazza**.»{ben} || “Then I broke a **cup**.”
+«Una **tazza**?»{chiara} || “A **cup**?”
+«Sì. Una **tazza** piccola, bianca, con una riga blu.»{ben} dice Kevin. || “Yes. A small **cup**, white, with a blue line,” says Kevin.
+«E Matteo che cosa ha detto?»{chiara} || “And what did Matteo say?”
+«Ha detto: “Succede **a tutti**.”»{ben} || “He said: ‘It happens **to everyone**.’”
+
+Chiara ride e prende un po' di pasta. || Chiara laughs and takes some pasta.
+«E la signora Galli?»{chiara} chiede. || “And Signora Galli?” she asks.
+«La signora Galli è arrivata alle sette meno un quarto,»{ben} **racconta** Kevin. || “Signora Galli arrived at a quarter to seven,” **tells** Kevin.
+«Per bere un caffè?»{chiara} || “To drink a coffee?”
+«No. **Per me** è arrivata per **controllare** me.»{ben} || “No. **For me** she came to **check** on me.”
+«E ha **controllato** bene?»{chiara} || “And did she **check** well?”
+«Molto bene. Mi ha **spiegato** il latte, la **tazza**, tutto.»{ben} || “Very well. She **explained** the milk, the **cup**, everything.”
+
+Kevin prende il quaderno giallo dalla tasca. || Kevin takes the yellow notebook from his pocket.
+«Ho imparato anche che cosa è “Mah”,»{ben} dice. || “I also learned what ‘Hmm’ is,” says Kevin.
+«E che cosa è?»{chiara} || “And what is it?”
+«Non è un sì e non è un no. È **per lui** un modo di parlare.»{ben} || “It's not a yes and not a no. It's **for him** a way of speaking.”
+«**Per lui** chi?»{chiara} || “**For him** who?”
+«Franco. È venuto al bar,»{ben} dice Kevin. || “Franco. He came to the bar,” says Kevin.
+
+Chiara alza la testa di colpo. || Chiara raises her head suddenly.
+«Mio padre è venuto al bar? E ti ha parlato?»{chiara} chiede. || “My father came to the bar? And he talked to you?”
+«Sì. Ha detto che non vuole essere servito da me.»{ben} || “Yes. He said he doesn't want to be served by me.”
+«Ah. Questo è mio padre,»{chiara|dry} dice Chiara. || “Ah. That's my father,” says Chiara.
+«Ma poi il caffè l'ha bevuto. In piedi.»{ben} || “But then he drank the coffee. Standing up.”
+«In piedi?»{chiara} || “Standing up?”
+«In piedi, come tutti gli italiani veri,»{ben} dice Kevin, e sorride. || “Standing up, like all real Italians,” says Kevin, and smiles.
+
+Chiara mette giù la forchetta. || Chiara puts down her fork.
+«Kevin, devo dirti una cosa,»{chiara} dice. || “Kevin, I have to tell you something,” says Chiara.
+«Dimmi.»{ben} || “Tell me.”
+«Sono **orgogliosa** di **te**. Davvero **orgogliosa**.»{chiara} || “I'm **proud** of **you**. Really **proud**.”
+«Grazie. **Per me** è importante sentirlo da **te**.»{ben} || “Thank you. **For me** it's important to hear it from **you**.”
+
+Chiara guarda il tavolo e continua. || Chiara looks at the table and continues.
+«Ma oggi, al lavoro, ho pensato una cosa brutta,»{chiara} dice piano. || “But today, at work, I thought an ugly thing,” she says quietly.
+«Che cosa?»{ben} || “What?”
+«Ho pensato: e i miei **colleghi**? Che cosa dicono **loro**?»{chiara} || “I thought: and my **colleagues**? What do **they** say?”
+«Ah,»{ben} dice Kevin. || “Ah,” says Kevin.
+«E **per me** è stato orribile pensarlo. **Per me** è una vergogna.»{chiara} || “And **for me** it was horrible to think it. **For me** it's a disgrace.”
+
+Kevin resta in silenzio per un momento. || Kevin stays silent for a moment.
+Poi mette la forchetta e guarda Chiara negli occhi. || Then he puts down his fork and looks Chiara in the eyes.
+«Chiara, voglio dirti una cosa vera,»{ben} dice. || “Chiara, I want to tell you something true,” says Kevin.
+«Ti **ascolto**.»{chiara} || “I'm **listening** to you.”
+«A Chicago ho fatto bene molte cose. Qui no,»{ben} dice. || “In Chicago I did many things well. Here, no,” says Kevin.
+«Kevin...»{chiara} || “Kevin...”
+«Ma dietro quel **bancone** sono bravo in qualcosa.»{ben} || “But behind that **counter** I'm good at something.”
+«Che cosa?»{chiara} chiede. || “What?” asks Chiara.
+«**Ascoltare**. E **ricordare** il caffè di tutti.»{ben} || “**Listening**. And **remembering** everyone's coffee.”
+
+Chiara sorride e si asciuga un occhio con il dito. || Chiara smiles and wipes an eye with her finger.
+«E il nome di tutti?»{chiara} chiede. || “And everyone's name?” she asks.
+«No. **Ricordo** il caffè, il nome no.»{ben} dice Kevin. || “No. I **remember** the coffee, not the name,” says Kevin.
+«Allora **per me** va bene lo stesso,»{chiara} dice. || “Then **for me** it's fine anyway,” says Chiara.
+«Come la signora Galli?»{ben} || “Like Signora Galli?”
+«Sì. Come **lei**. Anche **lei** è dura, ma è giusta.»{chiara} || “Yes. Like **her**. **She** is also tough, but fair.”
+
+Kevin prende la sua **tazza** di latte e beve. || Kevin takes his **tazza** of milk and drinks.
+Poi si ricorda di una cosa. || Then he remembers something.
+«Ah, e ho parlato con Nadia. Voglio **risparmiare** un po' di soldi ogni mattina.»{ben} || “Ah, and I talked with Nadia. I want to **save** a bit of money every morning.”
+«**Risparmiare**? Con la **mancia**?»{chiara} chiede. || “**Save**? With the **tip**?” asks Chiara.
+«Sì. Poco alla volta, ma è un inizio.»{ben} || “Yes. Little by little, but it's a start.”
+«**Per me** va bene. Ma prima **risparmia** il tuo **coraggio**.»{chiara|warm} dice Chiara. || “**For me** that's fine. But first **save** your **courage**,” says Chiara warmly.
+«Il **coraggio**? Perché?»{ben} || “**Courage**? Why?”
+
+Chiara ride e mette una mano sul tavolo. || Chiara laughs and puts a hand on the table.
+«Perché domani ti **tocca** di nuovo la sveglia alle sei,»{chiara} dice. || “Because tomorrow it's **your turn** again for the six o'clock alarm,” says Chiara.
+«Ah, giusto. Domani **tocca a me** di nuovo.»{ben} || “Ah, right. Tomorrow it's **my turn** again.”
+«**Per me** è un problema, sai. Tu alle sei e io alle sette.»{chiara} || “**For me** it's a problem, you know. You at six and me at seven.”
+«Lo so. Ma **per me** è bellissimo,»{ben} dice Kevin. || “I know. But **for me** it's wonderful,” says Kevin.
+
+Chiara prende il telefono e mette la sveglia. || Chiara takes the phone and sets the alarm.
+«Alle cinque e mezza la sveglia per **te**, alle sei quella per **me**.»{chiara} || “The alarm at five thirty **for you**, the one at six **for me**.”
+«Va bene. E poi porto Leo a scuola?»{ben} || “All right. And then I take Leo to school?”
+«No, Leo lo porto **io**. Tu vai al bar,»{chiara} dice. || “No, I take Leo **myself**. You go to the bar,” says Chiara.
+«Grazie. **Per me** aiuti molto.»{ben} || “Thank you. **For me** you help a lot.”
+
+Kevin guarda il **grembiule** verde sulla sedia. || Kevin looks at the green **apron** on the chair.
+_Ero bravo in un ufficio. Adesso sono bravo dietro un **bancone**. E **per me** va bene._{ben} || *I was good in an office. Now I'm good behind a **counter**. And **for me** that's fine.*
+«Chiara, e Giulia come sta?»{ben} chiede all'improvviso. || “Chiara, how is Giulia?” asks Kevin suddenly.
+«Quale Giulia?»{chiara|confused} || “Which Giulia?”
+«La tua **collega**. Quella delle scale di legno.»{ben} || “Your **colleague**. The one with the wood staircases.”
+«Ah. Kevin, tu **ricordi** i caffè di tutti e non sai il nome dei miei **colleghi**?»{chiara} || “Ah. Kevin, you **remember** everyone's coffee and you don't know my **colleagues**' names?”
+«No. **Per me** è terribile,»{ben} dice Kevin. || “No. **For me** it's terrible,” says Kevin.
+«**Per me** è normale. Andiamo a dormire,»{chiara} dice. || “**For me** it's normal. Let's go to sleep,” says Chiara.
+
+In cucina restano solo il **grembiule**, lo **scontrino** e le monete. || In the kitchen only the **apron**, the **receipt** and the coins remain.
+Kevin spegne la luce e va verso la camera. || Kevin turns off the light and heads toward the bedroom.
+«Chiara?»{ben} || “Chiara?”
+«Sì?»{chiara} || “Yes?”
+«Domani, quando comincio il **turno**, **tocca a me** di nuovo. E **per me** è la cosa più bella.»{ben} || “Tomorrow, when I start my **shift**, it's **my turn** again. And **for me** it's the best thing.”
+«Buonanotte, **barista**,»{chiara|warm} dice Chiara. || “Good night, **bartender**,” says Chiara.
+
+# SCENE bar-tigli | martedì mattina | ben, franco, matteo, donna
+
+Martedì mattina, sei e mezza. || Tuesday morning, six thirty.
+Kevin apre il Bar Tigli e accende tutte le luci. || Kevin opens Bar Tigli and turns on all the lights.
+Mette il **grembiule** verde e **controlla** la macchina del caffè. || He puts on the green **apron** and **checks** the coffee machine.
+Poi **controlla** il latte, le **tazze**, il **vassoio**. || Then he **checks** the milk, the **cups**, the **tray**.
+
+Alle sette c'è già una piccola **fila**. || At seven there's already a small **line**.
+Tre persone, con il giornale e i soldi in mano. || Three people, with the newspaper and money in hand.
+Kevin **controlla** la **fila** e comincia a lavorare. || Kevin **checks** the **line** and starts working.
+_Un **barista** conta anche i clienti. Non solo i caffè._{ben} || *A **bartender** counts customers too. Not just coffees.*
+
+Alle sette e un quarto la porta si apre. || At a quarter past seven the door opens.
+Entra Franco, con il cappotto scuro e il giornale piegato. || Franco comes in, with his dark coat and his folded newspaper.
+Kevin lo guarda e resta fermo. || Kevin looks at him and stays still.
+_Buongiorno, Franco. Non dire “**Tocca a te**.” Non è il momento._{ben} || *Good morning, Franco. Don't say “**Your turn**.” It's not the moment.*
+
+Franco va verso il **bancone** e poi si ferma. || Franco goes toward the **counter** and then stops.
+Guarda la **fila**, guarda gli altri. || He looks at the **line**, looks at the others.
+Poi fa una cosa strana: va in fondo alla **fila**. || Then he does a strange thing: he goes to the end of the **line**.
+«Franco, lei può passare avanti,»{ben} dice Kevin. || “Franco, you can come forward,” says Kevin.
+«No,»{franco|flat} dice Franco. || “No,” says Franco.
+«Perché no?»{ben} || “Why not?”
+«Perché **per me** la **fila** è la **fila**. E **io** aspetto come gli altri.»{franco} || “Because **for me** the **line** is the **line**. And **I** wait like the others.”
+
+Kevin **ascolta** e non dice niente. || Kevin **listens** and says nothing.
+_Anche **lui** aspetta. E **lui** è il padre di mia moglie._{ben} || ***He too** waits. And **he** is my wife's father.*
+
+Franco arriva al **bancone** dopo tre minuti. || Franco reaches the **counter** after three minutes.
+«Un caffè,»{franco} dice. «E lo bevo qui.» || “One coffee,” he says. “And I drink it here.”
+«In piedi?»{ben} chiede Kevin. || “Standing up?” asks Kevin.
+«**Per me** no. Oggi mi siedo.»{franco} dice Franco. || “**For me** no. Today I sit down.”
+
+Kevin prepara il caffè con molta **pazienza**. || Kevin makes the coffee with a lot of **patience**.
+**Controlla** la **tazza**, **controlla** il piattino, **controlla** il cucchiaino. || He **checks** the **cup**, **checks** the saucer, **checks** the little spoon.
+Poi mette la **tazza** sul **bancone**. || Then he puts the **cup** on the **counter**.
+Franco guarda la **tazza** per un secondo. || Franco looks at the **cup** for a second.
+«Perché **controlla** la **tazza** prima di dare il caffè?»{franco} chiede. || “Why do you **check** the **cup** before giving the coffee?” asks Franco.
+«Perché se la **tazza** è sporca, il caffè è brutto,»{ben} **risponde** Kevin. || “Because if the **cup** is dirty, the coffee is bad,” **answers** Kevin.
+«Bene. **Per me** è giusto.»{franco} dice Franco. || “Good. **For me** that's right,” says Franco.
+
+Poi Franco guarda la sala e **spiega** una cosa. || Then Franco looks at the room and **explains** something.
+«Kevin, tu **guadagni** poco, ma hai una cosa importante.»{franco} || “Kevin, you **earn** little, but you have one important thing.”
+«Che cosa?»{ben} chiede Kevin. || “What?” asks Kevin.
+«Gli occhi. Un **barista** guarda sempre **loro**,»{franco} dice, e indica i clienti. || “Eyes. A **bartender** always watches **them**,” says Franco, and points at the customers.
+«**Loro**?»{ben} || “**Them**?”
+«Sì. **Loro**. Se un cliente è **stanco**, gli dai un bicchiere d'acqua.»{franco} || “Yes. **Them**. If a customer is **tired**, you give him a glass of water.”
+«E se è **orgoglioso**?»{ben} chiede Kevin. || “And if he's **proud**?” asks Kevin.
+«Se è **orgoglioso**, non gli dici niente. Lo lasci in pace.»{franco|dry} || “If he's **proud**, you don't say anything to him. You leave him alone.”
+
+Kevin prende il quaderno giallo e scrive tutto. || Kevin takes the yellow notebook and writes everything.
+«Lei mi **spiega** un **mestiere** vero,»{ben} dice Kevin. || “You're **explaining** a real **trade** to me,” says Kevin.
+«Non ti **spiego** niente. Ti dico quello che vedo,»{franco} dice Franco. || “I'm not **explaining** anything to you. I'm telling you what I see,” says Franco.
+«**Per me** è la stessa cosa,»{ben} dice Kevin. || “**For me** it's the same thing,” says Kevin.
+«**Per me** no,»{franco} dice Franco, ma sorride un po'. || “**For me** no,” says Franco, but he smiles a little.
+
+Franco beve il caffè e guarda un signore al tavolo tre. || Franco drinks the coffee and looks at a gentleman at table three.
+«Vedi **lui**? Quel signore con la cravatta?»{franco} chiede. || “Do you see **him**? That gentleman with the tie?”
+«Sì. È un **cameriere**?»{ben} || “Yes. Is he a **waiter**?”
+«No. È un cliente. Ma è **stanco**, lo vedi dalla faccia.»{franco} || “No. He's a customer. But he's **tired**, you can see it in his face.”
+«Che cosa faccio **per lui**?»{ben} || “What do I do **for him**?”
+«Un bicchiere d'acqua, senza parlare. **Tu** non chiedi niente.»{franco} || “A glass of water, without talking. **You** don't ask anything.”
+
+Kevin porta l'acqua al signore con la cravatta. || Kevin brings the water to the gentleman with the tie.
+Il signore beve e lo guarda con un piccolo sorriso. || The gentleman drinks and looks at him with a small smile.
+«Grazie,»{uomo} dice il signore. || “Thank you,” says the gentleman.
+«**Per lei** è gratis,»{ben} **risponde** Kevin. || “**For you** it's free,” **answers** Kevin.
+Franco **ascolta** dal **bancone** e annuisce piano. || Franco **listens** from the **counter** and nods slowly.
+
+Dopo il caffè, Franco mette i soldi sul **bancone**. || After the coffee, Franco puts the money on the **counter**.
+«Kevin, una cosa,»{franco} dice. || “Kevin, one thing,” says Franco.
+«Sì?»{ben} || “Yes?”
+«A casa ho un quaderno del 1978. Scrivo le crepe, i lavori, i soldi.»{franco} || “At home I have a 1978 notebook. I write down the cracks, the work, the money.”
+«E **per me**?»{ben} || “And **for me**?”
+«**Per te** è la stessa cosa: **risparmia** il **coraggio** per i giorni difficili.»{franco} || “**For you** it's the same: **save** your **courage** for the hard days.”
+«Il **coraggio**?»{ben} chiede Kevin. || “**Courage**?” asks Kevin.
+«Sì. Perché il bar ogni giorno è diverso,»{franco} dice. || “Yes. Because the bar is different every day,” says Franco.
+
+Kevin scrive anche questa frase nel quaderno. || Kevin writes this sentence in the notebook too.
+«Grazie, Franco. **Per me** questa è una cosa importante.»{ben} || “Thank you, Franco. **For me** this is an important thing.”
+«Mah!»{franco} dice Franco, e va verso la porta. || “Hmm!” says Franco, and heads for the door.
+«A domani, Franco,»{ben} dice Kevin. || “See you tomorrow, Franco,” says Kevin.
+«A domani,»{franco} **risponde** Franco, e non si gira. || “See you tomorrow,” **answers** Franco, and doesn't turn around.
+
+Dopo la **fila**, Kevin **ricorda** ogni parola di Franco. || After the **line**, Kevin **remembers** every word of Franco.
+Mette una **scatola** sullo **scaffale** e prende il **vassoio** grande. || He puts a **box** on the **shelf** and takes the big **tray**.
+Adesso la sala è vuota e fuori c'è il sole. || Now the room is empty and outside there's sun.
+Kevin è **stanco**, ma guarda il **bancone** con calma. || Kevin is **tired**, but he looks at the **counter** calmly.
+_Ho **guadagnato** poco. Ho **ascoltato** molto. E **per me** è un **mestiere**._{ben} || *I **earned** little. I **listened** a lot. And **for me** it's a **trade**.*
+
+Poi, alle undici, arriva Matteo dal retro. || Then, at eleven, Matteo arrives from the back.
+Ha i capelli ancora bagnati e la maglietta nuova. || His hair is still wet and his shirt is new.
+«Buongiorno, **collega** **barista**!»{matteo|happy} dice. || “Good morning, **bartender** **colleague**!” he says.
+«Buongiorno. Tua padre è venuto,»{ben} dice Kevin. || “Good morning. Your father came,” says Kevin.
+«Mio padre? Al bar?»{matteo} chiede. || “My father? At the bar?” asks Matteo.
+
+Kevin **racconta** tutto: la **fila**, la **tazza**, il bicchiere d'acqua, il quaderno del 1978. || Kevin **tells** everything: the **line**, the **cup**, the glass of water, the 1978 notebook.
+Matteo ride e poi si ferma. || Matteo laughs and then stops.
+«Mio padre è venuto **per te**,»{matteo} dice. || “My father came **for you**,” says Matteo.
+«**Per me**? No, è venuto per il caffè,»{ben} dice Kevin. || “**For me**? No, he came for the coffee,” says Kevin.
+«No, Kevin. È venuto per **te**,»{matteo} dice. || “No, Kevin. He came **for you**,” says Matteo.
+
+Kevin **controlla** la cassa e non capisce. || Kevin **checks** the register and doesn't understand.
+«Che cosa vuol dire?»{ben} || “What does that mean?”
+«Vuol dire che mio padre **per me** non parla mai di niente,»{matteo} dice. || “It means that my father **for me** never talks about anything,” says Matteo.
+«E **per te**?»{ben} || “And **for you**?”
+«**Per me** un consiglio di Franco è come un premio. E lui ha dato un consiglio a **te**.»{matteo} || “**For me** a piece of advice from Franco is like a prize. And he gave advice to **you**.”
+
+Kevin mette il panno sul **bancone** e sorride. || Kevin puts the cloth on the **counter** and smiles.
+«**Risparmio** il consiglio per domani,»{ben} dice. || “I'll **save** the advice for tomorrow,” says Kevin.
+«Bravo. E adesso muovi quella **scatola** dallo **scaffale**,»{matteo} dice. || “Good. And now move that **box** off the **shelf**,” says Matteo.
+«Perché?»{ben} || “Why?”
+«Perché domani arriva il latte e serve spazio,»{matteo} dice. || “Because tomorrow the milk arrives and we need space,” says Matteo.
+
+Kevin sposta la **scatola** e il **vassoio**. || Kevin moves the **box** and the **tray**.
+Poi prende il quaderno giallo e legge la pagina. || Then he takes the yellow notebook and reads the page.
+_Lo **stipendio** è piccolo. Il **mestiere** è grande. E domani **tocca a me** di nuovo._{ben} || *The **pay** is small. The **trade** is big. And tomorrow it's **my turn** again.*
+«Matteo, **per me** domani è già il terzo giorno. E **tocca a me** alle sei.»{ben} || “Matteo, **for me** tomorrow is already the third day. And it's **my turn** at six.”
+«Alle sei **tocca a te**?»{matteo} chiede. || “At six it's **your turn**?” asks Matteo.
+«Sì. **Tocca a me** aprire il bar,»{ben} dice Kevin. || “Yes. It's **my turn** to open the bar,” says Kevin.
+«Va bene. Allora ti do io le chiavi,»{matteo} dice. || “All right. Then I'll give you the keys,” says Matteo.
+
+Matteo mette le chiavi sul **bancone**, vicino alla cassa. || Matteo puts the keys on the **counter**, next to the register.
+«Sei un **collega** strano, Kevin. Ma sei un **collega** vero,»{matteo} dice. || “You're a strange **colleague**, Kevin. But you're a real **colleague**,” says Matteo.
+«Grazie. **Per me** è una parola importante,»{ben} dice Kevin. || “Thank you. **For me** it's an important word,” says Kevin.
+«Lo so. Adesso vado a dire a mia padre che sei arrivato,»{matteo} dice. || “I know. Now I'm going to tell my father you've arrived,” says Matteo.
+
+Kevin resta solo con le chiavi in mano. || Kevin stays alone with the keys in his hand.
+Guarda il **bancone**, il **grembiule**, il **vassoio** sul **tavolo**. || He looks at the **counter**, the **apron**, the **tray** on the table.
+Fuori, la signora con la borsa rossa passa davanti al vetro e lo saluta. || Outside, the lady with the red bag passes in front of the glass and greets him.
+Kevin è **stanco**, ma alza la mano con un sorriso. || Kevin is **tired**, but he raises his hand with a smile.
+_Tre giorni. Un **grembiule**, un **turno**, un **consiglio** di Franco. E **tocca a me** ancora._{ben} || *Three days. An **apron**, a **shift**, a piece of advice from Franco. And it's **my turn** again.*
+
+# SCENE via | martedì pomeriggio | leo, ben
+
+Sono le cinque del pomeriggio in Via dei Tigli. || It's five in the afternoon on Via dei Tigli.
+Kevin cammina verso casa con il **grembiule** verde in mano. || Kevin walks home with the green **apron** in his hand.
+La porta del numero 14 si apre di colpo. || The door of number 14 flies open.
+«Papà! Papà!»{leo|too loud} || “Dad! Dad!”
+
+Leo corre sulla strada e si ferma davanti a Kevin. || Leo runs into the street and stops in front of Kevin.
+Guarda il **grembiule** negli occhi di suo padre. || He looks at the **apron** in his father's hands.
+«È il tuo?»{leo} chiede. || “Is it yours?” he asks.
+«Sì. Sono il nuovo **barista** del Bar Tigli,»{ben} dice Kevin. || “Yes. I'm Bar Tigli's new **bartender**,” says Kevin.
+«Un **barista** vero?»{leo} || “A real **bartender**?”
+«Un **barista** vero,»{ben} dice Kevin. || “A real **bartender**,” says Kevin.
+
+Leo prende il **grembiule** e se lo mette subito. || Leo takes the **apron** and puts it on at once.
+Il **grembiule** arriva fino ai piedi. || The **apron** reaches down to his feet.
+«Sono un **barista** anch'io!»{leo|happy} || “I'm a **bartender** too!”
+«Quasi. Sei un **barista** piccolo,»{ben} dice Kevin. || “Almost. You're a small **bartender**,” says Kevin.
+«Piccolo ma forte,»{leo} dice Leo. || “Small but strong,” says Leo.
+
+Leo cammina avanti e indietro sul marciapiede. || Leo walks back and forth on the sidewalk.
+«Papà, io ti aiuto al bar,»{leo} dice. || “Dad, I'll help you at the bar,” says Leo.
+«Ah, sì?»{ben} || “Oh, yes?”
+«Sì. Io pulisco i tavoli e il **bancone**,»{leo} dice. || “Yes. I clean the tables and the **counter**,” says Leo.
+«Il **bancone**? E perché?»{ben} chiede Kevin. || “The **counter**? And why?” asks Kevin.
+«Così tu **guadagni** di più,»{leo} dice. || “So you **earn** more,” says Leo.
+«Io **guadagno** di più?»{ben} || “I **earn** more?”
+«Sì. **Per me** tu lavori tanto,»{leo} dice Leo. «E **per me** lavori bene.» || “Yes. **For me** you work a lot,” says Leo. “And **for me** you work well.”
+
+Kevin si siede sul muretto e ride. || Kevin sits on the low wall and laughs.
+«Leo, i soldi del bar sono di Matteo,»{ben} dice. || “Leo, the bar's money is Matteo's,” says Kevin.
+«Di Matteo? Tutti?»{leo} || “Matteo's? All of it?”
+«Tutti. Io prendo solo un piccolo stipendio.»{ben} || “All of it. I only take a small salary.”
+«Ah. Allora **tocca a te** chiedere a Matteo,»{leo} dice. || “Ah. Then it's **your turn** to ask Matteo,” says Leo.
+«**Tocca a me**?»{ben} || “**My turn**?”
+«Sì. **Per me** tu chiedi, e lui dice sì,»{leo} dice Leo. || “Yes. **For me** you ask, and he says yes,” says Leo.
+«E se dice no?»{ben} || “And if he says no?”
+«Allora **per me** è un capo cattivo,»{leo} dice. || “Then **for me** he's a bad boss,” says Leo.
+
+Kevin ride ancora e si alza dal muretto. || Kevin laughs again and gets up from the low wall.
+«Leo, **per me** tu sei un **barista** vero,»{ben} dice. || “Leo, **for me** you're a real **bartender**,” says Kevin.
+«Davvero?»{leo|proud} || “Really?”
+«Davvero. Ma adesso il **grembiule** lo prendo io.»{ben} || “Really. But now I'll take the **apron**.”
+«Va bene. Ma domani lo metto ancora,»{leo} dice. || “All right. But tomorrow I'll put it on again,” says Leo.
+
+Kevin apre la porta di casa, e Leo lo segue. || Kevin opens the house door, and Leo follows him.
+Poi Leo si ferma sulla soglia e guarda suo padre. || Then Leo stops on the threshold and looks at his father.
+«Papà, una domanda,»{leo} dice. || “Dad, one question,” says Leo.
+«Dimmi,»{ben} dice Kevin. || “Tell me,” says Kevin.
+«Ma chi è il **capo** adesso? Matteo o tu?»{leo} chiede. || “But who's the **boss** now? Matteo or you?” asks Leo.
+
+Kevin apre la bocca e poi la chiude. || Kevin opens his mouth and then closes it.
+_**Per me** è una domanda molto difficile._{ben} || ***For me** that's a very difficult question.*
+«Buona domanda, Leo,»{ben} dice Kevin. || “Good question, Leo,” says Kevin.
+«E allora?»{leo} || “So?”
+«E allora **tocca a te** decidere,»{ben} dice Kevin. || “So it's **your turn** to decide,” says Kevin.
+
+@grammar
+# Stressed Pronouns: *per me*, *con te*, *anche lui*
+
+## What they are
+
+Italian has two families of object pronouns. The **unstressed** ones (*mi, ti, lo, la, ci, vi, li, le*) are short and cling to the verb: *ti aiuto*, *lo vedo*. The **stressed** ones — also called **tonic** or **disjunctive** — are the same words as the subject pronouns: *me, te, lui, lei, Lei, noi, voi, loro*.
+
+They are "stressed" because you say them with more force, and they stand on their own. You use them in three main situations:
+
+1. **After a preposition**: *per me*, *con te*, *a lui*, *da lei*, *senza di noi*, *secondo me*.
+2. **For emphasis or contrast**: *Lo faccio io, non tu.* — *Anche lui lavora.* — *A me piace, a lei no.*
+3. **When the object is "heavy"** or when two objects of the same kind appear: *Vedo lui, non lei.*
+
+Their great advantage for a learner is this: unlike *mi/ti/lo*, they never change shape and never attach to the verb. *Per me* is always *per me*.
+
+## How it works
+
+**The forms**
+
+| Person | Form | Example |
+|---|---|---|
+| io | **me** | questo è per **me** |
+| tu | **te** | vengo con **te** |
+| lui | **lui** | parlo di **lui** |
+| lei | **lei** | un consiglio per **lei** |
+| Lei (formal) | **Lei** | questo è per **Lei**, signora |
+| noi | **noi** | senza **noi** non parte niente |
+| voi | **voi** | questo lavoro è per **voi** |
+| loro | **loro** | lo dico a **loro** |
+
+**Preposition + stressed pronoun** is the everyday pattern. The commonest combinations in speech are *per me* ("in my opinion", "for me"), *secondo me* ("in my opinion"), *con te*, *a lui*, *da loro*.
+
+- *Per me va bene.* — In my opinion it's fine.
+- *Secondo me è tardi.* — I think it's late.
+
+**Emphasis and contrast.** Put the stressed pronoun at the front or end of the sentence to single someone out:
+
+- ***Io** aspetto come gli altri.* — I wait like the others.
+- ***Anche lui** è stanco.* — He's tired too.
+- *Il problema sono **io**.* — The problem is me.
+
+**With *anche*, *neanche*, *pure*:** *anche lui*, *anche a me*, *neanche a loro*. Note that *anche a me* means "to me too": the *a* is needed because *piacere*-type verbs take *a*.
+
+**A warning about *Lei*.** The stressed formal pronoun is written with a capital letter when it means "you": *Questo è per **Lei**, signora Galli.* Without the capital, *lei* means "she".
+
+**Stress, at last.** Some verbs need the stressed pronoun because there is no unstressed one to use: *pensare a* → *penso a te* (never *ti penso* in modern standard Italian), *contare su* → *conto su di te*. When the preposition is *con*, *su* or *per* with *noi/voi*, you often add *di*: *con noi* → *con noi* or *con **di** noi*, *su di voi*.
+
+## From the story
+
+[[Per me è importante sentirlo da te.]] — Preposition + stressed pronoun, twice: *per me*, *da te*.
+[[I miei colleghi? Che cosa dicono loro?]] — *loro* after *dicono* singles out the colleagues.
+[[Perché per me la fila è la fila. E io aspetto come gli altri.]] — *Per me* = "in my opinion"; *io* is emphatic.
+[[Se un cliente è stanco, gli dai un bicchiere d'acqua.]] — Contrast with the unstressed *gli* in the same sentence.
+[[E lui ha dato un consiglio a te.]] — *a te*, not *ti*, because the speaker is contrasting two people.
+[[Quel signore con la cravatta?]] — *lui/lei/loro* also appear as subjects when the speaker points at someone.
+[[Per lui chi?]] — Question form: preposition + stressed pronoun, no verb needed.
+[[Ma per te è facile, vero?]] — "For you" as the person affected, not the grammatical subject.
+[[Anche loro ascoltano.]] — *anche* + stressed pronoun, so the pronoun comes after the adverb.
+[[Un mestiere è un mestiere, signora Ferri.]] — Not a pronoun, but the sentence that fixes *per me* in context: the person's *per me* can differ from everyone else's.
+
+## Common mistakes English speakers make
+
+- **Using *mi/ti* after a preposition.** *Per mi* and *con ti* do not exist. Say *per me*, *con te*.
+- **Forgetting *a*** with *piacere*: *Anche io piace* is wrong; say *Anche **a me** piace*.
+- **Dropping the stressed pronoun when you need emphasis.** *Parlo con te* is not the same as *Ti parlo*; the first means "you're the one I'm talking with".
+- **Leaving *Lui/Lei* out of the subject slot too soon.** At this level, the stressed pronoun often replaces a plain subject: *Lui aspetta* is more emphatic than *Aspetta*, but both are correct. Just don't say *Lui è* before the verb when you mean the neutral *È*.
+- **Confusing *lei* and *Lei*.** In writing, the capital tells your reader whether you mean "she" or formal "you".
+- **Adding *di* everywhere.** *Su di te* and *con di noi* are common, but *per di me* is not Italian: it is simply *per me*.
+
+## Practice
+
+1. Complete with the right stressed pronoun: *Questo caffè è per ___ (io).*
+2. Complete: *Vengo al mercato con ___ (tu).*
+3. Complete with *a* and a pronoun: *Anche ___ (io) piace il caffè lungo.*
+4. Make it emphatic: *Anche lui lavora* → change *lui* into the formal *Lei*: *Anche ___ lavora, signore.*
+5. Answer with a stressed pronoun: *Per chi è l'acqua?* — *È per ___ (noi).*
+6. Choose the right form: *Penso a (ti / te) ogni giorno.*
+7. Choose the right form: *Dico a (loro / li) la verità.*
+8. Turn into a contrast sentence: *Io aspetto qui. Tu vai dentro.* → *Io aspetto qui, ___ vai dentro.*
+
+### Answer key
+
+1. *per me*
+2. *con te*
+3. *Anche a me piace il caffè lungo.*
+4. *Anche Lei lavora, signore.*
+5. *È per noi.*
+6. *te*
+7. *loro*
+8. *Io aspetto qui, **tu** vai dentro.*

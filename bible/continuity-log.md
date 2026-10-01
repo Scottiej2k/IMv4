@@ -248,6 +248,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Nadia learned Matteo’s ten liters of milk were for the recipe notebook, not the bar; Chiara learned in person the window work can start Monday. No tu/Lei switch.
 - **Planted:** 100 cornetti expire Sunday; milk expires Wednesday; window work Monday with Sergio’s paper; Nadia’s notebook for the baby.
 
+### s02e12 · Un lavoro per me
+- **Happened:** Kevin starts as barista at Bar Tigli, shift 6:00–11:30 on a tiny stipend; Matteo hands him a green apron and the bar keys to open at six. Franco drinks coffee there twice — standing Monday, queueing and then sitting Tuesday — and gives Kevin advice on reading customers.
+- **New facts:** Chiara works at Studio Marchetti in Milan (Isola) under Marchetti, with colleague Giulia; a bank project with a wood-and-glass staircase, center left free, is due Friday. Franco keeps a notebook of cracks, jobs and money since 1978. Matteo sleeps upstairs during the morning shift.
+- **Changed:** Chiara is first ashamed of Kevin's job (what will her colleagues think), then tells him she is proud; Nadia, tired, says it isn't only her belly, and runs bar, house and accounts alone. Kevin will save part of the tips.
+- **Planted:** Friday bank delivery; Kevin's savings plan; Leo's question of who is the boss.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
