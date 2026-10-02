@@ -354,8 +354,8 @@
       "en": "to apologize, to say sorry",
       "example": "s02e21-2-050",
       "target": {
-        "it": "Chiede scusa",
-        "en": "You apologize"
+        "it": "chiede scusa",
+        "en": "apologize"
       }
     }
   ],
@@ -969,7 +969,7 @@
                 [
                   "ben",
                   "Il primo capitolo del libro di cucina",
-                  ""
+                  "proud"
                 ],
                 [
                   "narrator",
@@ -4814,7 +4814,7 @@
                 [
                   "chiara",
                   "Capito",
-                  ""
+                  "soft"
                 ],
                 [
                   "narrator",
@@ -7270,7 +7270,7 @@
                 [
                   "leo",
                   "Ah",
-                  ""
+                  "serious"
                 ],
                 [
                   "narrator",
@@ -13784,12 +13784,12 @@
             },
             {
               "id": "s02e21-2-049",
-              "it": "«Sette: se fai un errore, **chiede scusa**. Non serve una lettera. Due parole bastano.»",
-              "en": "\"Seven: if you make a mistake, **you apologize**. You don't need a letter. Two words are enough.\"",
+              "it": "«Sette: se fai un errore, si **chiede scusa**. Non serve una lettera. Due parole bastano.»",
+              "en": "\"Seven: if you make a mistake, you **apologize**. You don't need a letter. Two words are enough.\"",
               "voice": [
                 [
                   "franco",
-                  "Sette: se fai un errore, **chiede scusa**. Non serve una lettera. Due parole bastano.",
+                  "Sette: se fai un errore, si **chiede scusa**. Non serve una lettera. Due parole bastano.",
                   ""
                 ]
               ],
@@ -13850,8 +13850,18 @@
                   ""
                 ],
                 [
-                  "chiede",
+                  "si",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chiede",
+                  6,
                   "b"
                 ],
                 [
@@ -13861,7 +13871,7 @@
                 ],
                 [
                   "scusa",
-                  6,
+                  7,
                   "b"
                 ],
                 [
@@ -13871,16 +13881,6 @@
                 ],
                 [
                   "Non",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "serve",
                   8,
                   ""
                 ],
@@ -13890,7 +13890,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "serve",
                   9,
                   ""
                 ],
@@ -13900,8 +13900,18 @@
                   ""
                 ],
                 [
-                  "lettera",
+                  "una",
                   10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lettera",
+                  11,
                   ""
                 ],
                 [
@@ -13911,16 +13921,6 @@
                 ],
                 [
                   "Due",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "parole",
                   12,
                   ""
                 ],
@@ -13930,8 +13930,18 @@
                   ""
                 ],
                 [
-                  "bastano",
+                  "parole",
                   13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bastano",
+                  14,
                   ""
                 ],
                 [
@@ -13950,12 +13960,12 @@
           "segments": [
             {
               "id": "s02e21-2-050",
-              "it": "«**Chiede scusa**?» ripete Kevin, confuso.",
-              "en": "\"**You apologize**?\" repeats Kevin, confused.",
+              "it": "«Si **chiede scusa**?» ripete Kevin, confuso.",
+              "en": "\"You **apologize**?\" repeats Kevin, confused.",
               "voice": [
                 [
                   "ben",
-                  "**Chiede scusa**?",
+                  "Si **chiede scusa**?",
                   ""
                 ],
                 [
@@ -13971,8 +13981,18 @@
                   ""
                 ],
                 [
-                  "Chiede",
+                  "Si",
                   0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chiede",
+                  1,
                   "b"
                 ],
                 [
@@ -13982,7 +14002,7 @@
                 ],
                 [
                   "scusa",
-                  1,
+                  2,
                   "b"
                 ],
                 [
@@ -13992,7 +14012,7 @@
                 ],
                 [
                   "ripete",
-                  2,
+                  3,
                   ""
                 ],
                 [
@@ -14002,7 +14022,7 @@
                 ],
                 [
                   "Kevin",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -14012,7 +14032,7 @@
                 ],
                 [
                   "confuso",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -14031,12 +14051,12 @@
           "segments": [
             {
               "id": "s02e21-2-051",
-              "it": "«**Si chiede scusa**, Kevin. **Si chiede scusa**: “Scusa, ho sbagliato”. Così.»",
-              "en": "\"**You apologize**, Kevin. **You apologize**: 'Sorry, I made a mistake.' Like that.\"",
+              "it": "«Sì, Kevin. “Scusa, ho sbagliato”. Così.»",
+              "en": "\"Yes, Kevin. 'Sorry, I made a mistake.' Like that.\"",
               "voice": [
                 [
                   "franco",
-                  "**Si chiede scusa**, Kevin. **Si chiede scusa**: “Scusa, ho sbagliato”. Così.",
+                  "Sì, Kevin. “Scusa, ho sbagliato”. Così.",
                   ""
                 ]
               ],
@@ -14047,29 +14067,9 @@
                   ""
                 ],
                 [
-                  "Si",
+                  "Sì",
                   0,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "chiede",
-                  1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "scusa",
-                  2,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -14078,47 +14078,17 @@
                 ],
                 [
                   "Kevin",
-                  3,
+                  1,
                   ""
                 ],
                 [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Si",
-                  4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "chiede",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "scusa",
-                  6,
-                  "b"
-                ],
-                [
-                  ": “",
+                  ". “",
                   -1,
                   ""
                 ],
                 [
                   "Scusa",
-                  7,
+                  2,
                   ""
                 ],
                 [
@@ -14128,7 +14098,7 @@
                 ],
                 [
                   "ho",
-                  8,
+                  3,
                   ""
                 ],
                 [
@@ -14138,7 +14108,7 @@
                 ],
                 [
                   "sbagliato",
-                  9,
+                  4,
                   ""
                 ],
                 [
@@ -14148,7 +14118,7 @@
                 ],
                 [
                   "Così",
-                  10,
+                  5,
                   ""
                 ],
                 [
@@ -14156,9 +14126,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-si-impersonal"
               ]
             }
           ]
@@ -14167,12 +14134,12 @@
           "segments": [
             {
               "id": "s02e21-2-052",
-              "it": "«Ah. **Si chiede scusa**. Con la i.»",
-              "en": "\"Ah. **You apologize**. With an i.\"",
+              "it": "«Ah. **Si chiede scusa**. Facile.»",
+              "en": "\"Ah. **One apologizes**. Easy.\"",
               "voice": [
                 [
                   "ben",
-                  "Ah. **Si chiede scusa**. Con la i.",
+                  "Ah. **Si chiede scusa**. Facile.",
                   ""
                 ]
               ],
@@ -14223,28 +14190,8 @@
                   ""
                 ],
                 [
-                  "Con",
+                  "Facile",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "la",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "i",
-                  6,
                   ""
                 ],
                 [
@@ -14263,17 +14210,12 @@
           "segments": [
             {
               "id": "s02e21-2-053",
-              "it": "«Con la i» dice Franco.",
-              "en": "\"With an i,\" says Franco.",
+              "it": "«Facile a dirsi.»",
+              "en": "\"Easy to say.\"",
               "voice": [
                 [
                   "franco",
-                  "Con la i",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice Franco.",
+                  "Facile a dirsi.",
                   ""
                 ]
               ],
@@ -14284,7 +14226,7 @@
                   ""
                 ],
                 [
-                  "Con",
+                  "Facile",
                   0,
                   ""
                 ],
@@ -14294,7 +14236,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "a",
                   1,
                   ""
                 ],
@@ -14304,32 +14246,12 @@
                   ""
                 ],
                 [
-                  "i",
+                  "dirsi",
                   2,
                   ""
                 ],
                 [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Franco",
-                  4,
-                  ""
-                ],
-                [
-                  ".",
+                  ".»",
                   -1,
                   ""
                 ]
@@ -38069,7 +37991,7 @@
                 [
                   "nadia",
                   "Perfetto",
-                  ""
+                  "dry"
                 ],
                 [
                   "narrator",
@@ -39171,12 +39093,12 @@
           "segments": [
             {
               "id": "s02e21-5-001",
-              "it": "Alle cinque e mezza Leo esce di casa con il quaderno di Kevin in tasca.",
-              "en": "At half past five Leo leaves the house with Kevin's notebook in his pocket.",
+              "it": "Alle cinque e mezza Leo esce di casa con un foglietto in tasca.",
+              "en": "At half past five Leo leaves the house with a slip of paper in his pocket.",
               "voice": [
                 [
                   "narrator",
-                  "Alle cinque e mezza Leo esce di casa con il quaderno di Kevin in tasca.",
+                  "Alle cinque e mezza Leo esce di casa con un foglietto in tasca.",
                   ""
                 ]
               ],
@@ -39272,7 +39194,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "un",
                   9,
                   ""
                 ],
@@ -39282,7 +39204,7 @@
                   ""
                 ],
                 [
-                  "quaderno",
+                  "foglietto",
                   10,
                   ""
                 ],
@@ -39292,7 +39214,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "in",
                   11,
                   ""
                 ],
@@ -39302,28 +39224,8 @@
                   ""
                 ],
                 [
-                  "Kevin",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "in",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "tasca",
-                  14,
+                  12,
                   ""
                 ],
                 [
@@ -39335,12 +39237,12 @@
             },
             {
               "id": "s02e21-5-002",
-              "it": "Ha copiato la lista su un foglietto e ha scritto una X accanto a ogni regola.",
-              "en": "He has copied the list onto a slip of paper and written an X next to each rule.",
+              "it": "Ha copiato la lista di Kevin e ha scritto una X accanto a ogni regola.",
+              "en": "He has copied Kevin's list and written an X next to each rule.",
               "voice": [
                 [
                   "narrator",
-                  "Ha copiato la lista su un foglietto e ha scritto una X accanto a ogni regola.",
+                  "Ha copiato la lista di Kevin e ha scritto una X accanto a ogni regola.",
                   ""
                 ]
               ],
@@ -39386,7 +39288,7 @@
                   ""
                 ],
                 [
-                  "su",
+                  "di",
                   4,
                   ""
                 ],
@@ -39396,7 +39298,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "Kevin",
                   5,
                   ""
                 ],
@@ -39406,7 +39308,7 @@
                   ""
                 ],
                 [
-                  "foglietto",
+                  "e",
                   6,
                   ""
                 ],
@@ -39416,7 +39318,7 @@
                   ""
                 ],
                 [
-                  "e",
+                  "ha",
                   7,
                   ""
                 ],
@@ -39426,7 +39328,7 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "scritto",
                   8,
                   ""
                 ],
@@ -39436,7 +39338,7 @@
                   ""
                 ],
                 [
-                  "scritto",
+                  "una",
                   9,
                   ""
                 ],
@@ -39446,7 +39348,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "X",
                   10,
                   ""
                 ],
@@ -39456,7 +39358,7 @@
                   ""
                 ],
                 [
-                  "X",
+                  "accanto",
                   11,
                   ""
                 ],
@@ -39466,7 +39368,7 @@
                   ""
                 ],
                 [
-                  "accanto",
+                  "a",
                   12,
                   ""
                 ],
@@ -39476,7 +39378,7 @@
                   ""
                 ],
                 [
-                  "a",
+                  "ogni",
                   13,
                   ""
                 ],
@@ -39486,18 +39388,8 @@
                   ""
                 ],
                 [
-                  "ogni",
-                  14,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "regola",
-                  15,
+                  14,
                   ""
                 ],
                 [
@@ -40775,12 +40667,12 @@
             },
             {
               "id": "s02e21-5-014",
-              "it": "«Ciao, Anna! Come stai?»",
-              "en": "\"Hi, Anna! How are you?\"",
+              "it": "«Ciao, Rosa! Come stai?»",
+              "en": "\"Hi, Rosa! How are you?\"",
               "voice": [
                 [
                   "leo",
-                  "Ciao, Anna! Come stai?",
+                  "Ciao, Rosa! Come stai?",
                   "friendly"
                 ]
               ],
@@ -40801,7 +40693,7 @@
                   ""
                 ],
                 [
-                  "Anna",
+                  "Rosa",
                   1,
                   ""
                 ],
@@ -40938,7 +40830,7 @@
                 [
                   "donna",
                   "Buongiorno",
-                  ""
+                  "dry"
                 ],
                 [
                   "narrator",
@@ -41643,7 +41535,7 @@
                 [
                   "leo",
                   "Buonasera, signora Ornella",
-                  ""
+                  "polite"
                 ],
                 [
                   "narrator",
@@ -43883,12 +43775,12 @@
             },
             {
               "id": "s02e21-5-045",
-              "it": "«Qui la punizione è una sola. **Non si fa** uscire senza **salutare**. Il resto si perdona.»",
-              "en": "\"Here there's only one punishment. **You don't** leave without **greeting** people. The rest is forgiven.\"",
+              "it": "«Qui la punizione è una sola. **Non si esce** senza **salutare**. Il resto si perdona.»",
+              "en": "\"Here there's only one punishment. **You don't leave** without **greeting** people. The rest is forgiven.\"",
               "voice": [
                 [
                   "ornella",
-                  "Qui la punizione è una sola. **Non si fa** uscire senza **salutare**. Il resto si perdona.",
+                  "Qui la punizione è una sola. **Non si esce** senza **salutare**. Il resto si perdona.",
                   ""
                 ]
               ],
@@ -43979,7 +43871,7 @@
                   "b"
                 ],
                 [
-                  "fa",
+                  "esce",
                   8,
                   "b"
                 ],
@@ -43989,7 +43881,7 @@
                   ""
                 ],
                 [
-                  "uscire",
+                  "senza",
                   9,
                   ""
                 ],
@@ -43999,18 +43891,8 @@
                   ""
                 ],
                 [
-                  "senza",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "salutare",
-                  11,
+                  10,
                   "b"
                 ],
                 [
@@ -44020,7 +43902,7 @@
                 ],
                 [
                   "Il",
-                  12,
+                  11,
                   ""
                 ],
                 [
@@ -44030,7 +43912,7 @@
                 ],
                 [
                   "resto",
-                  13,
+                  12,
                   ""
                 ],
                 [
@@ -44040,7 +43922,7 @@
                 ],
                 [
                   "si",
-                  14,
+                  13,
                   ""
                 ],
                 [
@@ -44050,7 +43932,7 @@
                 ],
                 [
                   "perdona",
-                  15,
+                  14,
                   ""
                 ],
                 [
@@ -44060,7 +43942,7 @@
                 ]
               ],
               "focus": [
-                "v-non-si-fa",
+                "g-si-impersonal",
                 "v-salutare"
               ]
             }
@@ -45910,7 +45792,7 @@
                 [
                   "leo",
                   "Prima di mangiare devo dire una cosa",
-                  ""
+                  "serious"
                 ],
                 [
                   "narrator",
@@ -51026,12 +50908,12 @@
           "segments": [
             {
               "id": "s02e21-6-058",
-              "it": "«L'anno scorso ho fatto uno **sbaglio** grande a una cena» dice Franco. «Ho parlato di soldi **a tavola**.»",
-              "en": "\"Last year I made a big **mistake** at a dinner,\" says Franco. \"I talked about money **at the table**.\"",
+              "it": "«Tanti anni fa ho fatto uno **sbaglio** grande a una cena» dice Franco. «Ho parlato di soldi **a tavola**.»",
+              "en": "\"Many years ago I made a big **mistake** at a dinner,\" says Franco. \"I talked about money **at the table**.\"",
               "voice": [
                 [
                   "franco",
-                  "L'anno scorso ho fatto uno **sbaglio** grande a una cena",
+                  "Tanti anni fa ho fatto uno **sbaglio** grande a una cena",
                   ""
                 ],
                 [
@@ -51052,7 +50934,7 @@
                   ""
                 ],
                 [
-                  "L'anno",
+                  "Tanti",
                   0,
                   ""
                 ],
@@ -51062,7 +50944,7 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "anni",
                   1,
                   ""
                 ],
@@ -51072,7 +50954,7 @@
                   ""
                 ],
                 [
-                  "ho",
+                  "fa",
                   2,
                   ""
                 ],
@@ -51082,7 +50964,7 @@
                   ""
                 ],
                 [
-                  "fatto",
+                  "ho",
                   3,
                   ""
                 ],
@@ -51092,7 +50974,7 @@
                   ""
                 ],
                 [
-                  "uno",
+                  "fatto",
                   4,
                   ""
                 ],
@@ -51102,8 +50984,18 @@
                   ""
                 ],
                 [
-                  "sbaglio",
+                  "uno",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sbaglio",
+                  6,
                   "b"
                 ],
                 [
@@ -51113,16 +51005,6 @@
                 ],
                 [
                   "grande",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
                   7,
                   ""
                 ],
@@ -51132,7 +51014,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "a",
                   8,
                   ""
                 ],
@@ -51142,8 +51024,18 @@
                   ""
                 ],
                 [
-                  "cena",
+                  "una",
                   9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cena",
+                  10,
                   ""
                 ],
                 [
@@ -51153,7 +51045,7 @@
                 ],
                 [
                   "dice",
-                  10,
+                  11,
                   ""
                 ],
                 [
@@ -51163,7 +51055,7 @@
                 ],
                 [
                   "Franco",
-                  11,
+                  12,
                   ""
                 ],
                 [
@@ -51173,16 +51065,6 @@
                 ],
                 [
                   "Ho",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "parlato",
                   13,
                   ""
                 ],
@@ -51192,7 +51074,7 @@
                   ""
                 ],
                 [
-                  "di",
+                  "parlato",
                   14,
                   ""
                 ],
@@ -51202,7 +51084,7 @@
                   ""
                 ],
                 [
-                  "soldi",
+                  "di",
                   15,
                   ""
                 ],
@@ -51212,8 +51094,18 @@
                   ""
                 ],
                 [
-                  "a",
+                  "soldi",
                   16,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
+                  17,
                   "b"
                 ],
                 [
@@ -51223,7 +51115,7 @@
                 ],
                 [
                   "tavola",
-                  17,
+                  18,
                   "b"
                 ],
                 [
@@ -58579,12 +58471,12 @@
           "segments": [
             {
               "id": "s02e21-7-043",
-              "it": "«Perché a scuola i **sbagli** costano. Al bar no.»",
+              "it": "«Perché a scuola gli **sbagli** costano. Al bar no.»",
               "en": "\"Because at school **mistakes** cost you. At the bar, no.\"",
               "voice": [
                 [
                   "franco",
-                  "Perché a scuola i **sbagli** costano. Al bar no.",
+                  "Perché a scuola gli **sbagli** costano. Al bar no.",
                   ""
                 ]
               ],
@@ -58625,7 +58517,7 @@
                   ""
                 ],
                 [
-                  "i",
+                  "gli",
                   3,
                   ""
                 ],

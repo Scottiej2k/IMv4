@@ -139,11 +139,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sacra?» | "Sacred?" |
 | «Sacra. In **fila** si pensa. Non si urla.» | "Sacred. **In line** you think. You don't shout." |
 | Franco si mette a sedere su una cassa di legno. | Franco sits down on a wooden crate. |
-| «Sette: se fai un errore, **chiede scusa**. Non serve una lettera. Due parole bastano.» | "Seven: if you make a mistake, **you apologize**. You don't need a letter. Two words are enough." |
-| «**Chiede scusa**?» ripete Kevin, confuso. | "**You apologize**?" repeats Kevin, confused. |
-| «**Si chiede scusa**, Kevin. **Si chiede scusa**: “Scusa, ho sbagliato”. Così.» | "**You apologize**, Kevin. **You apologize**: 'Sorry, I made a mistake.' Like that." |
-| «Ah. **Si chiede scusa**. Con la i.» | "Ah. **You apologize**. With an i." |
-| «Con la i» dice Franco. | "With an i," says Franco. |
+| «Sette: se fai un errore, si **chiede scusa**. Non serve una lettera. Due parole bastano.» | "Seven: if you make a mistake, you **apologize**. You don't need a letter. Two words are enough." |
+| «Si **chiede scusa**?» ripete Kevin, confuso. | "You **apologize**?" repeats Kevin, confused. |
+| «Sì, Kevin. “Scusa, ho sbagliato”. Così.» | "Yes, Kevin. 'Sorry, I made a mistake.' Like that." |
+| «Ah. **Si chiede scusa**. Facile.» | "Ah. **One apologizes**. Easy." |
+| «Facile a dirsi.» | "Easy to say." |
 | «Otto: quando ti invitano, porti qualcosa. Un vino, un dolce, dei fiori. Non arrivi mai con le mani vuote.» | "Eight: when they invite you, you bring something. Wine, a dessert, flowers. You never arrive empty-handed." |
 | «Anche se l'**invito** è di famiglia?» | "Even if the **invitation** is from family?" |
 | «Soprattutto se è di famiglia. La domenica mia figlia porta sempre il vino.» | "Especially if it's from family. On Sunday my daughter always brings the wine." |
@@ -383,8 +383,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 
 | Italiano | English |
 |---|---|
-| Alle cinque e mezza Leo esce di casa con il quaderno di Kevin in tasca. | At half past five Leo leaves the house with Kevin's notebook in his pocket. |
-| Ha copiato la lista su un foglietto e ha scritto una X accanto a ogni regola. | He has copied the list onto a slip of paper and written an X next to each rule. |
+| Alle cinque e mezza Leo esce di casa con un foglietto in tasca. | At half past five Leo leaves the house with a slip of paper in his pocket. |
+| Ha copiato la lista di Kevin e ha scritto una X accanto a ogni regola. | He has copied Kevin's list and written an X next to each rule. |
 | Il signor Dario passa con il cane e lo saluta con la mano. | Signor Dario walks past with his dog and waves at him. |
 | Leo guarda per terra e non **saluta**. | Leo looks at the ground and doesn't **greet** him. |
 | «Una X» dice piano. | "One X," he says quietly. |
@@ -396,7 +396,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo abbassa la voce e sorride. «Ho fatto uno **sbaglio**?» | Leo lowers his voice and smiles. "Did I make a **mistake**?" |
 | Nel forno c'è la signora con gli occhiali che lavora al banco. | In the bakery there's the woman with glasses who works at the counter. |
 | Leo legge il suo nome sul cartellino e le dà del tu. | Leo reads her name on the badge and uses tu with her. |
-| «Ciao, Anna! Come stai?» | "Hi, Anna! How are you?" |
+| «Ciao, Rosa! Come stai?» | "Hi, Rosa! How are you?" |
 | La signora resta con il pane in mano. | The woman is left with the bread in her hand. |
 | «Buongiorno» dice. «E a me **si dice** buongiorno, non ciao. Ho cinquant'anni.» | "Good morning," she says. "And **you say** good morning to me, not hi. I'm fifty." |
 | «Ah. Scusi.» | "Ah. Sorry." |
@@ -427,7 +427,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Oggi no» dice Ornella. «Oggi hai fatto la lezione. Domani **chiedi scusa** a tutti.» | "Not today," says Ornella. "Today you had the lesson. Tomorrow **you apologize** to everyone." |
 | «E la punizione?» | "And the punishment?" |
 | Ornella sorride e chiude il libro. | Ornella smiles and closes the book. |
-| «Qui la punizione è una sola. **Non si fa** uscire senza **salutare**. Il resto si perdona.» | "Here there's only one punishment. **You don't** leave without **greeting** people. The rest is forgiven." |
+| «Qui la punizione è una sola. **Non si esce** senza **salutare**. Il resto si perdona.» | "Here there's only one punishment. **You don't leave** without **greeting** people. The rest is forgiven." |
 | «E le altre regole?» | "And the other rules?" |
 | «Le altre sono **usanze**. Cambiano da casa a casa. La **cortesia** no.» | "The others are **customs**. They change from house to house. **Courtesy** doesn't." |
 | Ornella si alza e prende il bastone. | Ornella gets up and takes her cane. |
@@ -499,7 +499,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Se faccio uno **sbaglio** a cena, come lo correggo?» | "If I make a **mistake** at dinner, how do I fix it?" |
 | «Con due parole. **Si chiede scusa**. E poi si continua a mangiare.» | "With two words. **You apologize**. And then you keep eating." |
 | «Solo due parole?» | "Only two words?" |
-| «L'anno scorso ho fatto uno **sbaglio** grande a una cena» dice Franco. «Ho parlato di soldi **a tavola**.» | "Last year I made a big **mistake** at a dinner," says Franco. "I talked about money **at the table**." |
+| «Tanti anni fa ho fatto uno **sbaglio** grande a una cena» dice Franco. «Ho parlato di soldi **a tavola**.» | "Many years ago I made a big **mistake** at a dinner," says Franco. "I talked about money **at the table**." |
 | Chiara smette di mangiare. | Chiara stops eating. |
 | «Papà, quando?» | "Dad, when?" |
 | «Trent'anni fa. Ma me lo ricordo ancora.» | "Thirty years ago. But I still remember it." |
@@ -577,7 +577,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco paga il caffè e va verso la porta. | Franco pays for his coffee and heads for the door. |
 | «Leo, a scuola non provare altre regole.» | "Leo, at school don't try any more rules." |
 | «Perché?» | "Why?" |
-| «Perché a scuola i **sbagli** costano. Al bar no.» | "Because at school **mistakes** cost you. At the bar, no." |
+| «Perché a scuola gli **sbagli** costano. Al bar no.» | "Because at school **mistakes** cost you. At the bar, no." |
 | Leo prende il latte e beve un sorso. | Leo takes the milk and takes a sip. |
 | «Va bene. Oggi niente regole.» | "All right. No rules today." |
 | «Bravo. E domani?» | "Good. And tomorrow?" |

@@ -137,7 +137,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent, proud"
                   }
                 ]
               }
@@ -1717,7 +1717,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "chiara",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, soft"
                   }
                 ]
               },
@@ -2731,7 +2731,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, serious"
                   }
                 ]
               },
@@ -4580,7 +4580,7 @@
           "s02e21-2-048:0-9"
         ],
         [
-          "s02e21-2-049:0-13"
+          "s02e21-2-049:0-14"
         ]
       ],
       "request": {
@@ -4602,7 +4602,7 @@
               },
               {
                 "type": "text",
-                "text": "Sette: se fai un errore, chiede scusa. Non serve una lettera. Due parole bastano.",
+                "text": "Sette: se fai un errore, si chiede scusa. Non serve una lettera. Due parole bastano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4647,10 +4647,10 @@
       ],
       "words": [
         [
-          "s02e21-2-050:0-1"
+          "s02e21-2-050:0-2"
         ],
         [
-          "s02e21-2-050:2-4"
+          "s02e21-2-050:3-5"
         ]
       ],
       "request": {
@@ -4661,7 +4661,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Chiede scusa?",
+                "text": "Si chiede scusa?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4715,161 +4715,8 @@
       "segment_ids": [
         "s02e21-2-051",
         "s02e21-2-052",
-        "s02e21-2-053"
-      ],
-      "words": [
-        [
-          "s02e21-2-051:0-10"
-        ],
-        [
-          "s02e21-2-052:0-6"
-        ],
-        [
-          "s02e21-2-053:0-2"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "Si chiede scusa, Kevin. Si chiede scusa: “Scusa, ho sbagliato”. Così.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Ah. Si chiede scusa. Con la i.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Con la i",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              },
-              {
-                "speaker": "ben",
-                "voice": "Puck"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 56,
-      "scene": 2,
-      "speakers": {
-        "narrator": "narrator",
-        "franco": "franco"
-      },
-      "segment_ids": [
         "s02e21-2-053",
-        "s02e21-2-054"
-      ],
-      "words": [
-        [
-          "s02e21-2-053:3-4"
-        ],
-        [
-          "s02e21-2-054:0-18"
-        ]
-      ],
-      "request": {
-        "model": "gemini-3.8-flash-tts",
-        "input": [
-          {
-            "type": "user_input",
-            "content": [
-              {
-                "type": "text",
-                "text": "dice Franco.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "narrator",
-                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "Otto: quando ti invitano, porti qualcosa. Un vino, un dolce, dei fiori. Non arrivi mai con le mani vuote.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "franco",
-                    "style": "speaking a little slower than normal, clearly"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "response_format": {
-          "type": "audio",
-          "mime_type": "audio/l16"
-        },
-        "generation_config": {
-          "speech_config": {
-            "mode": "conversational",
-            "speakers": [
-              {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
-                "speaker": "franco",
-                "voice": "Algenib"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "index": 57,
-      "scene": 2,
-      "speakers": {
-        "ben": "ben",
-        "franco": "franco"
-      },
-      "segment_ids": [
+        "s02e21-2-054",
         "s02e21-2-055",
         "s02e21-2-056",
         "s02e21-2-057",
@@ -4877,6 +4724,16 @@
         "s02e21-2-059"
       ],
       "words": [
+        [
+          "s02e21-2-051:0-5"
+        ],
+        [
+          "s02e21-2-052:0-4"
+        ],
+        [
+          "s02e21-2-053:0-2",
+          "s02e21-2-054:0-18"
+        ],
         [
           "s02e21-2-055:0-5"
         ],
@@ -4897,6 +4754,39 @@
           {
             "type": "user_input",
             "content": [
+              {
+                "type": "text",
+                "text": "Sì, Kevin. “Scusa, ho sbagliato”. Così.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Ah. Si chiede scusa. Facile.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Facile a dirsi. Otto: quando ti invitano, porti qualcosa. Un vino, un dolce, dei fiori. Non arrivi mai con le mani vuote.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "franco",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
               {
                 "type": "text",
                 "text": "Anche se l'invito è di famiglia?",
@@ -4953,12 +4843,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
                 "speaker": "franco",
                 "voice": "Algenib"
+              },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
               }
             ]
           }
@@ -4966,7 +4856,7 @@
       }
     },
     {
-      "index": 58,
+      "index": 56,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
@@ -5037,7 +4927,7 @@
       }
     },
     {
-      "index": 59,
+      "index": 57,
       "scene": 2,
       "speakers": {
         "ben": "ben",
@@ -5108,7 +4998,7 @@
       }
     },
     {
-      "index": 60,
+      "index": 58,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
@@ -5179,7 +5069,7 @@
       }
     },
     {
-      "index": 61,
+      "index": 59,
       "scene": 2,
       "speakers": {
         "franco": "franco",
@@ -5250,7 +5140,7 @@
       }
     },
     {
-      "index": 62,
+      "index": 60,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
@@ -5321,7 +5211,7 @@
       }
     },
     {
-      "index": 63,
+      "index": 61,
       "scene": 2,
       "speakers": {
         "ben": "ben",
@@ -5392,7 +5282,7 @@
       }
     },
     {
-      "index": 64,
+      "index": 62,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
@@ -5467,7 +5357,7 @@
       }
     },
     {
-      "index": 65,
+      "index": 63,
       "scene": 2,
       "speakers": {
         "franco": "franco",
@@ -5551,7 +5441,7 @@
       }
     },
     {
-      "index": 66,
+      "index": 64,
       "scene": 2,
       "speakers": {
         "lucia": "lucia",
@@ -5665,7 +5555,7 @@
       }
     },
     {
-      "index": 67,
+      "index": 65,
       "scene": 2,
       "speakers": {
         "ben": "ben",
@@ -5735,7 +5625,7 @@
       }
     },
     {
-      "index": 68,
+      "index": 66,
       "scene": 2,
       "speakers": {
         "lucia": "lucia",
@@ -5821,7 +5711,7 @@
       }
     },
     {
-      "index": 69,
+      "index": 67,
       "scene": 2,
       "speakers": {
         "franco": "franco",
@@ -5891,7 +5781,7 @@
       }
     },
     {
-      "index": 70,
+      "index": 68,
       "scene": 2,
       "speakers": {
         "lucia": "lucia",
@@ -5962,7 +5852,7 @@
       }
     },
     {
-      "index": 71,
+      "index": 69,
       "scene": 2,
       "speakers": {
         "ben": "ben",
@@ -6063,7 +5953,7 @@
       }
     },
     {
-      "index": 72,
+      "index": 70,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
@@ -6148,7 +6038,7 @@
       }
     },
     {
-      "index": 73,
+      "index": 71,
       "scene": 2,
       "speakers": {
         "lucia": "lucia",
@@ -6218,7 +6108,7 @@
       }
     },
     {
-      "index": 74,
+      "index": 72,
       "scene": 2,
       "speakers": {
         "franco": "franco",
@@ -6289,7 +6179,7 @@
       }
     },
     {
-      "index": 75,
+      "index": 73,
       "scene": 2,
       "speakers": {
         "ben": "ben",
@@ -6373,7 +6263,7 @@
       }
     },
     {
-      "index": 76,
+      "index": 74,
       "scene": 2,
       "speakers": {
         "franco": "franco",
@@ -6457,7 +6347,7 @@
       }
     },
     {
-      "index": 77,
+      "index": 75,
       "scene": 2,
       "speakers": {
         "ben": "ben",
@@ -6558,7 +6448,7 @@
       }
     },
     {
-      "index": 78,
+      "index": 76,
       "scene": 2,
       "speakers": {
         "narrator": "narrator",
@@ -6674,7 +6564,7 @@
       }
     },
     {
-      "index": 79,
+      "index": 77,
       "scene": 2,
       "speakers": {
         "single": "ben"
@@ -6720,7 +6610,7 @@
       }
     },
     {
-      "index": 80,
+      "index": 78,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -6816,7 +6706,7 @@
       }
     },
     {
-      "index": 81,
+      "index": 79,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -6887,7 +6777,7 @@
       }
     },
     {
-      "index": 82,
+      "index": 80,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -6977,7 +6867,7 @@
       }
     },
     {
-      "index": 83,
+      "index": 81,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -7061,7 +6951,7 @@
       }
     },
     {
-      "index": 84,
+      "index": 82,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -7132,7 +7022,7 @@
       }
     },
     {
-      "index": 85,
+      "index": 83,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -7252,7 +7142,7 @@
       }
     },
     {
-      "index": 86,
+      "index": 84,
       "scene": 3,
       "speakers": {
         "uomo": "uomo",
@@ -7322,7 +7212,7 @@
       }
     },
     {
-      "index": 87,
+      "index": 85,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -7406,7 +7296,7 @@
       }
     },
     {
-      "index": 88,
+      "index": 86,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -7490,7 +7380,7 @@
       }
     },
     {
-      "index": 89,
+      "index": 87,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -7561,7 +7451,7 @@
       }
     },
     {
-      "index": 90,
+      "index": 88,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -7631,7 +7521,7 @@
       }
     },
     {
-      "index": 91,
+      "index": 89,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -7701,7 +7591,7 @@
       }
     },
     {
-      "index": 92,
+      "index": 90,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -7847,7 +7737,7 @@
       }
     },
     {
-      "index": 93,
+      "index": 91,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -7932,7 +7822,7 @@
       }
     },
     {
-      "index": 94,
+      "index": 92,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -8016,7 +7906,7 @@
       }
     },
     {
-      "index": 95,
+      "index": 93,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -8086,7 +7976,7 @@
       }
     },
     {
-      "index": 96,
+      "index": 94,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -8157,7 +8047,7 @@
       }
     },
     {
-      "index": 97,
+      "index": 95,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -8242,7 +8132,7 @@
       }
     },
     {
-      "index": 98,
+      "index": 96,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -8313,7 +8203,7 @@
       }
     },
     {
-      "index": 99,
+      "index": 97,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -8384,7 +8274,7 @@
       }
     },
     {
-      "index": 100,
+      "index": 98,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -8468,7 +8358,7 @@
       }
     },
     {
-      "index": 101,
+      "index": 99,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -8552,7 +8442,7 @@
       }
     },
     {
-      "index": 102,
+      "index": 100,
       "scene": 3,
       "speakers": {
         "uomo": "uomo",
@@ -8636,7 +8526,7 @@
       }
     },
     {
-      "index": 103,
+      "index": 101,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -8707,7 +8597,7 @@
       }
     },
     {
-      "index": 104,
+      "index": 102,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -8780,7 +8670,7 @@
       }
     },
     {
-      "index": 105,
+      "index": 103,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -8850,7 +8740,7 @@
       }
     },
     {
-      "index": 106,
+      "index": 104,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -8934,7 +8824,7 @@
       }
     },
     {
-      "index": 107,
+      "index": 105,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -9033,7 +8923,7 @@
       }
     },
     {
-      "index": 108,
+      "index": 106,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -9117,7 +9007,7 @@
       }
     },
     {
-      "index": 109,
+      "index": 107,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9188,7 +9078,7 @@
       }
     },
     {
-      "index": 110,
+      "index": 108,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -9272,7 +9162,7 @@
       }
     },
     {
-      "index": 111,
+      "index": 109,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -9356,7 +9246,7 @@
       }
     },
     {
-      "index": 112,
+      "index": 110,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9440,7 +9330,7 @@
       }
     },
     {
-      "index": 113,
+      "index": 111,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -9541,7 +9431,7 @@
       }
     },
     {
-      "index": 114,
+      "index": 112,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -9628,7 +9518,7 @@
       }
     },
     {
-      "index": 115,
+      "index": 113,
       "scene": 3,
       "speakers": {
         "ornella": "ornella",
@@ -9712,7 +9602,7 @@
       }
     },
     {
-      "index": 116,
+      "index": 114,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9798,7 +9688,7 @@
       }
     },
     {
-      "index": 117,
+      "index": 115,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -9869,7 +9759,7 @@
       }
     },
     {
-      "index": 118,
+      "index": 116,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9968,7 +9858,7 @@
       }
     },
     {
-      "index": 119,
+      "index": 117,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -10052,7 +9942,7 @@
       }
     },
     {
-      "index": 120,
+      "index": 118,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -10136,7 +10026,7 @@
       }
     },
     {
-      "index": 121,
+      "index": 119,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -10207,7 +10097,7 @@
       }
     },
     {
-      "index": 122,
+      "index": 120,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -10278,7 +10168,7 @@
       }
     },
     {
-      "index": 123,
+      "index": 121,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -10394,7 +10284,7 @@
       }
     },
     {
-      "index": 124,
+      "index": 122,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -10464,7 +10354,7 @@
       }
     },
     {
-      "index": 125,
+      "index": 123,
       "scene": 3,
       "speakers": {
         "matteo": "matteo",
@@ -10563,7 +10453,7 @@
       }
     },
     {
-      "index": 126,
+      "index": 124,
       "scene": 3,
       "speakers": {
         "single": "ben"
@@ -10609,7 +10499,7 @@
       }
     },
     {
-      "index": 127,
+      "index": 125,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -10686,7 +10576,7 @@
       }
     },
     {
-      "index": 128,
+      "index": 126,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -10756,7 +10646,7 @@
       }
     },
     {
-      "index": 129,
+      "index": 127,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -10840,7 +10730,7 @@
       }
     },
     {
-      "index": 130,
+      "index": 128,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -10924,7 +10814,7 @@
       }
     },
     {
-      "index": 131,
+      "index": 129,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -11008,7 +10898,7 @@
       }
     },
     {
-      "index": 132,
+      "index": 130,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -11078,7 +10968,7 @@
       }
     },
     {
-      "index": 133,
+      "index": 131,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -11177,7 +11067,7 @@
       }
     },
     {
-      "index": 134,
+      "index": 132,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -11248,7 +11138,7 @@
       }
     },
     {
-      "index": 135,
+      "index": 133,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -11318,7 +11208,7 @@
       }
     },
     {
-      "index": 136,
+      "index": 134,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -11402,7 +11292,7 @@
       }
     },
     {
-      "index": 137,
+      "index": 135,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -11486,7 +11376,7 @@
       }
     },
     {
-      "index": 138,
+      "index": 136,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -11570,7 +11460,7 @@
       }
     },
     {
-      "index": 139,
+      "index": 137,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -11640,7 +11530,7 @@
       }
     },
     {
-      "index": 140,
+      "index": 138,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -11712,7 +11602,7 @@
       }
     },
     {
-      "index": 141,
+      "index": 139,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -11796,7 +11686,7 @@
       }
     },
     {
-      "index": 142,
+      "index": 140,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -11880,7 +11770,7 @@
       }
     },
     {
-      "index": 143,
+      "index": 141,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -11951,7 +11841,7 @@
       }
     },
     {
-      "index": 144,
+      "index": 142,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -12021,7 +11911,7 @@
       }
     },
     {
-      "index": 145,
+      "index": 143,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -12120,7 +12010,7 @@
       }
     },
     {
-      "index": 146,
+      "index": 144,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -12191,7 +12081,7 @@
       }
     },
     {
-      "index": 147,
+      "index": 145,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -12290,7 +12180,7 @@
       }
     },
     {
-      "index": 148,
+      "index": 146,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -12361,7 +12251,7 @@
       }
     },
     {
-      "index": 149,
+      "index": 147,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -12462,7 +12352,7 @@
       }
     },
     {
-      "index": 150,
+      "index": 148,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -12561,7 +12451,7 @@
       }
     },
     {
-      "index": 151,
+      "index": 149,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -12632,7 +12522,7 @@
       }
     },
     {
-      "index": 152,
+      "index": 150,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -12703,7 +12593,7 @@
       }
     },
     {
-      "index": 153,
+      "index": 151,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -12788,7 +12678,7 @@
       }
     },
     {
-      "index": 154,
+      "index": 152,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -12872,7 +12762,7 @@
       }
     },
     {
-      "index": 155,
+      "index": 153,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -12942,7 +12832,7 @@
       }
     },
     {
-      "index": 156,
+      "index": 154,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13026,7 +12916,7 @@
       }
     },
     {
-      "index": 157,
+      "index": 155,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -13097,7 +12987,7 @@
       }
     },
     {
-      "index": 158,
+      "index": 156,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -13168,7 +13058,7 @@
       }
     },
     {
-      "index": 159,
+      "index": 157,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -13252,7 +13142,7 @@
       }
     },
     {
-      "index": 160,
+      "index": 158,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -13336,7 +13226,7 @@
       }
     },
     {
-      "index": 161,
+      "index": 159,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -13406,7 +13296,7 @@
       }
     },
     {
-      "index": 162,
+      "index": 160,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -13479,7 +13369,7 @@
       }
     },
     {
-      "index": 163,
+      "index": 161,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13550,7 +13440,7 @@
       }
     },
     {
-      "index": 164,
+      "index": 162,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -13621,7 +13511,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 163,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -13705,7 +13595,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 164,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -13806,7 +13696,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 165,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -13877,7 +13767,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 166,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -13947,7 +13837,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 167,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -14019,7 +13909,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 168,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -14089,7 +13979,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 169,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -14159,7 +14049,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 170,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -14244,7 +14134,7 @@
       }
     },
     {
-      "index": 173,
+      "index": 171,
       "scene": 4,
       "speakers": {
         "samira": "samira",
@@ -14316,7 +14206,7 @@
       }
     },
     {
-      "index": 174,
+      "index": 172,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -14349,7 +14239,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "nadia",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, dry"
                   }
                 ]
               },
@@ -14400,7 +14290,7 @@
       }
     },
     {
-      "index": 175,
+      "index": 173,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -14471,7 +14361,7 @@
       }
     },
     {
-      "index": 176,
+      "index": 174,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -14544,7 +14434,7 @@
       }
     },
     {
-      "index": 177,
+      "index": 175,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -14614,7 +14504,7 @@
       }
     },
     {
-      "index": 178,
+      "index": 176,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -14685,7 +14575,7 @@
       }
     },
     {
-      "index": 179,
+      "index": 177,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -14755,7 +14645,7 @@
       }
     },
     {
-      "index": 180,
+      "index": 178,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -14839,7 +14729,7 @@
       }
     },
     {
-      "index": 181,
+      "index": 179,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -14909,7 +14799,7 @@
       }
     },
     {
-      "index": 182,
+      "index": 180,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -14928,8 +14818,8 @@
       ],
       "words": [
         [
-          "s02e21-5-001:0-14",
-          "s02e21-5-002:0-15",
+          "s02e21-5-001:0-12",
+          "s02e21-5-002:0-14",
           "s02e21-5-003:0-12",
           "s02e21-5-004:0-6"
         ],
@@ -14952,7 +14842,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Alle cinque e mezza Leo esce di casa con il quaderno di Kevin in tasca. Ha copiato la lista su un foglietto e ha scritto una X accanto a ogni regola. Il signor Dario passa con il cane e lo saluta con la mano. Leo guarda per terra e non saluta.",
+                "text": "Alle cinque e mezza Leo esce di casa con un foglietto in tasca. Ha copiato la lista di Kevin e ha scritto una X accanto a ogni regola. Il signor Dario passa con il cane e lo saluta con la mano. Leo guarda per terra e non saluta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15008,7 +14898,7 @@
       }
     },
     {
-      "index": 183,
+      "index": 181,
       "scene": 5,
       "speakers": {
         "donna": "donna",
@@ -15080,7 +14970,7 @@
       }
     },
     {
-      "index": 184,
+      "index": 182,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -15138,7 +15028,7 @@
               },
               {
                 "type": "text",
-                "text": "Ciao, Anna! Come stai?",
+                "text": "Ciao, Rosa! Come stai?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15183,7 +15073,7 @@
       }
     },
     {
-      "index": 185,
+      "index": 183,
       "scene": 5,
       "speakers": {
         "donna": "donna",
@@ -15216,7 +15106,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "donna",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, dry"
                   }
                 ]
               },
@@ -15267,7 +15157,7 @@
       }
     },
     {
-      "index": 186,
+      "index": 184,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -15368,7 +15258,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, polite"
                   }
                 ]
               },
@@ -15430,7 +15320,7 @@
       }
     },
     {
-      "index": 187,
+      "index": 185,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -15529,7 +15419,7 @@
       }
     },
     {
-      "index": 188,
+      "index": 186,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -15615,7 +15505,7 @@
       }
     },
     {
-      "index": 189,
+      "index": 187,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -15700,7 +15590,7 @@
       }
     },
     {
-      "index": 190,
+      "index": 188,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -15801,7 +15691,7 @@
       }
     },
     {
-      "index": 191,
+      "index": 189,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -15872,7 +15762,7 @@
       }
     },
     {
-      "index": 192,
+      "index": 190,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -15988,7 +15878,7 @@
       }
     },
     {
-      "index": 193,
+      "index": 191,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -16058,7 +15948,7 @@
       }
     },
     {
-      "index": 194,
+      "index": 192,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -16129,7 +16019,7 @@
       }
     },
     {
-      "index": 195,
+      "index": 193,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -16142,7 +16032,7 @@
       ],
       "words": [
         [
-          "s02e21-5-045:0-15"
+          "s02e21-5-045:0-14"
         ],
         [
           "s02e21-5-046:0-3"
@@ -16159,7 +16049,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Qui la punizione è una sola. Non si fa uscire senza salutare. Il resto si perdona.",
+                "text": "Qui la punizione è una sola. Non si esce senza salutare. Il resto si perdona.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16215,7 +16105,7 @@
       }
     },
     {
-      "index": 196,
+      "index": 194,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -16333,7 +16223,7 @@
       }
     },
     {
-      "index": 197,
+      "index": 195,
       "scene": 5,
       "speakers": {
         "single": "leo"
@@ -16393,7 +16283,7 @@
       }
     },
     {
-      "index": 198,
+      "index": 196,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16494,7 +16384,7 @@
       }
     },
     {
-      "index": 199,
+      "index": 197,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -16578,7 +16468,7 @@
       }
     },
     {
-      "index": 200,
+      "index": 198,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -16653,7 +16543,7 @@
       }
     },
     {
-      "index": 201,
+      "index": 199,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16690,7 +16580,7 @@
                   {
                     "type": "speech_metadata",
                     "speaker": "leo",
-                    "style": "speaking a little slower than normal, clearly"
+                    "style": "speaking a little slower than normal, clearly, serious"
                   }
                 ]
               },
@@ -16752,7 +16642,7 @@
       }
     },
     {
-      "index": 202,
+      "index": 200,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -16823,7 +16713,7 @@
       }
     },
     {
-      "index": 203,
+      "index": 201,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -16894,7 +16784,7 @@
       }
     },
     {
-      "index": 204,
+      "index": 202,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -16982,7 +16872,7 @@
       }
     },
     {
-      "index": 205,
+      "index": 203,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -17053,7 +16943,7 @@
       }
     },
     {
-      "index": 206,
+      "index": 204,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17182,7 +17072,7 @@
       }
     },
     {
-      "index": 207,
+      "index": 205,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -17253,7 +17143,7 @@
       }
     },
     {
-      "index": 208,
+      "index": 206,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -17324,7 +17214,7 @@
       }
     },
     {
-      "index": 209,
+      "index": 207,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17409,7 +17299,7 @@
       }
     },
     {
-      "index": 210,
+      "index": 208,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -17480,7 +17370,7 @@
       }
     },
     {
-      "index": 211,
+      "index": 209,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17550,7 +17440,7 @@
       }
     },
     {
-      "index": 212,
+      "index": 210,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -17621,7 +17511,7 @@
       }
     },
     {
-      "index": 213,
+      "index": 211,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17720,7 +17610,7 @@
       }
     },
     {
-      "index": 214,
+      "index": 212,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -17792,7 +17682,7 @@
       }
     },
     {
-      "index": 215,
+      "index": 213,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -17863,7 +17753,7 @@
       }
     },
     {
-      "index": 216,
+      "index": 214,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -17934,7 +17824,7 @@
       }
     },
     {
-      "index": 217,
+      "index": 215,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -18004,7 +17894,7 @@
       }
     },
     {
-      "index": 218,
+      "index": 216,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -18075,7 +17965,7 @@
       }
     },
     {
-      "index": 219,
+      "index": 217,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18145,7 +18035,7 @@
       }
     },
     {
-      "index": 220,
+      "index": 218,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -18216,7 +18106,7 @@
       }
     },
     {
-      "index": 221,
+      "index": 219,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18287,7 +18177,7 @@
       }
     },
     {
-      "index": 222,
+      "index": 220,
       "scene": 6,
       "speakers": {
         "leo": "leo",
@@ -18357,7 +18247,7 @@
       }
     },
     {
-      "index": 223,
+      "index": 221,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -18428,7 +18318,7 @@
       }
     },
     {
-      "index": 224,
+      "index": 222,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18498,7 +18388,7 @@
       }
     },
     {
-      "index": 225,
+      "index": 223,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -18569,7 +18459,7 @@
       }
     },
     {
-      "index": 226,
+      "index": 224,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -18600,7 +18490,7 @@
           "s02e21-6-057:0-2"
         ],
         [
-          "s02e21-6-058:0-9"
+          "s02e21-6-058:0-10"
         ]
       ],
       "request": {
@@ -18666,7 +18556,7 @@
               },
               {
                 "type": "text",
-                "text": "L'anno scorso ho fatto uno sbaglio grande a una cena",
+                "text": "Tanti anni fa ho fatto uno sbaglio grande a una cena",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -18700,7 +18590,7 @@
       }
     },
     {
-      "index": 227,
+      "index": 225,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18712,10 +18602,10 @@
       ],
       "words": [
         [
-          "s02e21-6-058:10-11"
+          "s02e21-6-058:11-12"
         ],
         [
-          "s02e21-6-058:12-17"
+          "s02e21-6-058:13-18"
         ],
         [
           "s02e21-6-059:0-3"
@@ -18785,7 +18675,7 @@
       }
     },
     {
-      "index": 228,
+      "index": 226,
       "scene": 6,
       "speakers": {
         "chiara": "chiara",
@@ -18886,7 +18776,7 @@
       }
     },
     {
-      "index": 229,
+      "index": 227,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18959,7 +18849,7 @@
       }
     },
     {
-      "index": 230,
+      "index": 228,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -19058,7 +18948,7 @@
       }
     },
     {
-      "index": 231,
+      "index": 229,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -19128,7 +19018,7 @@
       }
     },
     {
-      "index": 232,
+      "index": 230,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -19200,7 +19090,7 @@
       }
     },
     {
-      "index": 233,
+      "index": 231,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -19286,7 +19176,7 @@
       }
     },
     {
-      "index": 234,
+      "index": 232,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -19374,7 +19264,7 @@
       }
     },
     {
-      "index": 235,
+      "index": 233,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -19445,7 +19335,7 @@
       }
     },
     {
-      "index": 236,
+      "index": 234,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -19515,7 +19405,7 @@
       }
     },
     {
-      "index": 237,
+      "index": 235,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -19586,7 +19476,7 @@
       }
     },
     {
-      "index": 238,
+      "index": 236,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -19663,7 +19553,7 @@
       }
     },
     {
-      "index": 239,
+      "index": 237,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -19735,7 +19625,7 @@
       }
     },
     {
-      "index": 240,
+      "index": 238,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -19828,7 +19718,7 @@
       }
     },
     {
-      "index": 241,
+      "index": 239,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -19899,7 +19789,7 @@
       }
     },
     {
-      "index": 242,
+      "index": 240,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -19985,7 +19875,7 @@
       }
     },
     {
-      "index": 243,
+      "index": 241,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -20084,7 +19974,7 @@
       }
     },
     {
-      "index": 244,
+      "index": 242,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -20155,7 +20045,7 @@
       }
     },
     {
-      "index": 245,
+      "index": 243,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -20226,7 +20116,7 @@
       }
     },
     {
-      "index": 246,
+      "index": 244,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -20297,7 +20187,7 @@
       }
     },
     {
-      "index": 247,
+      "index": 245,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -20382,7 +20272,7 @@
       }
     },
     {
-      "index": 248,
+      "index": 246,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -20469,7 +20359,7 @@
       }
     },
     {
-      "index": 249,
+      "index": 247,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -20540,7 +20430,7 @@
       }
     },
     {
-      "index": 250,
+      "index": 248,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -20626,7 +20516,7 @@
       }
     },
     {
-      "index": 251,
+      "index": 249,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -20697,7 +20587,7 @@
       }
     },
     {
-      "index": 252,
+      "index": 250,
       "scene": 7,
       "speakers": {
         "matteo": "matteo",
@@ -20768,7 +20658,7 @@
       }
     },
     {
-      "index": 253,
+      "index": 251,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -20853,7 +20743,7 @@
       }
     },
     {
-      "index": 254,
+      "index": 252,
       "scene": 7,
       "speakers": {
         "matteo": "matteo",
@@ -20937,7 +20827,7 @@
       }
     },
     {
-      "index": 255,
+      "index": 253,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -21109,7 +20999,7 @@
       }
     },
     {
-      "index": 256,
+      "index": 254,
       "scene": 7,
       "speakers": {
         "matteo": "matteo",
@@ -21208,7 +21098,7 @@
       }
     },
     {
-      "index": 257,
+      "index": 255,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -21260,7 +21150,7 @@
               },
               {
                 "type": "text",
-                "text": "Perché a scuola i sbagli costano. Al bar no.",
+                "text": "Perché a scuola gli sbagli costano. Al bar no.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -21294,7 +21184,7 @@
       }
     },
     {
-      "index": 258,
+      "index": 256,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -21365,7 +21255,7 @@
       }
     },
     {
-      "index": 259,
+      "index": 257,
       "scene": 7,
       "speakers": {
         "franco": "franco",

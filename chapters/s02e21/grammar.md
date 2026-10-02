@@ -82,7 +82,6 @@ At this level, don't worry about choosing between them. Just recognize that afte
 «Dieci: in Italia non si scrivono le **regole** in un quaderno. **Si imparano** guardando. E **così si fa** da sempre.» — "Ten: in Italy people don't write **rules** in a notebook. **You learn** them by watching. And **that's how it's always done**." (`s02e21-2-061`) — Same pattern in one short sentence.
 «**Si può** mettere anche a destra» dice Lucia. «Ma poi tutti guardano il tavolo.» — "**You can** put it on the right too," says Lucia. "But then everybody looks at the table." (`s02e21-4-029`) — Permission, politely generalized.
 «Signora Ornella, **si può** rompere una regola di proposito?» — "Signora Ornella, **can** you break a rule on purpose?" (`s02e21-5-037`) — A question of principle, with *si può* + infinitive.
-«Qui la punizione è una sola. **Non si fa** uscire senza **salutare**. Il resto si perdona.» — "Here there's only one punishment. **You don't** leave without **greeting** people. The rest is forgiven." (`s02e21-5-045`) — *Non si fa* = that is not done, a flat prohibition.
 
 ## Common mistakes English speakers make
 

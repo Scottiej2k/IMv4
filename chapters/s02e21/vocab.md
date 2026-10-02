@@ -16,7 +16,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **si aspetta**<br>(expr.) · people wait, you wait | «“Uno: **si aspetta** tutti a tavola.”» | "'One: **you wait** for everyone at the table.'" |
 | **si beve**<br>(expr.) · people drink, you drink | «“Quattro: **si beve** quello che beve l'ospite.”» | "'Four: **you drink** what the guest drinks.'" |
 | **così si fa**<br>(expr.) · that's how it's done | «Allora **così si fa**» dice Kevin. «Aspetto le otto.» | "Then **that's how it's done**," says Kevin. "I'll wait for eight." |
-| **chiedere scusa**<br>(expr.) · to apologize, to say sorry | «**Chiede scusa**?» ripete Kevin, confuso. | "**You apologize**?" repeats Kevin, confused. |
+| **chiedere scusa**<br>(expr.) · to apologize, to say sorry | «Si **chiede scusa**?» ripete Kevin, confuso. | "You **apologize**?" repeats Kevin, confused. |
 
 ## Verbs
 

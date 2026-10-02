@@ -304,9 +304,9 @@ factual: this file is what keeps 200 chapters consistent.
 
 ### s02e21 · In Italia si fa così
 - **Happened:** Kevin fills a yellow notebook with Italian rules, corrected by Chiara and Franco; Leo tests them around town, ordering a noon cappuccino and skipping greetings; Nadia, Lucia and Samira plan Nadia’s baby shower.
-- **New facts:** Samira is Nadia’s mother; Leo invents “a colazione si può mangiare tutto”; Ornella’s cat Pavarotti; bakery clerk Anna (50), signor Dario and dog, signora Marina; Kevin opens Bar Tigli weekday mornings (six).
-- **Changed:** At dinner Kevin tells Franco, with Chiara and Leo present, he has a written Sartori offer in Milan, answer due Thursday; undecided. Ornella uses tu with Kevin.
-- **Planted:** Kevin’s Thursday decision; Sunday pancake breakfast at Franco’s; Nadia’s shower (22 guests, handwritten invitations, brindisi before cake, mint tea); Leo to apologize Wednesday for missed greetings.
+- **New facts:** Samira is Nadia’s mother; Leo invents “a colazione si può mangiare tutto”; Ornella’s cat Pavarotti; bakery clerk Rosa (50), signor Dario and dog, signora Marina; Kevin opens Bar Tigli weekday mornings (six).
+- **Changed:** At dinner Kevin tells Franco, with Chiara and Leo present, he has a written Sartori offer in Milan, answer due Thursday; undecided. Kevin's yellow notebook now has a coffee stain.
+- **Planted:** Kevin’s Thursday decision; Sunday pancake breakfast at Franco’s; Nadia’s shower (22 guests, handwritten invitations, brindisi before cake, mint tea); Ornella told Leo to apologize on Wednesday for missed greetings.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

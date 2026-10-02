@@ -178,15 +178,15 @@ Kevin alza gli occhi. «Anche al barista» ripete. «Allora io devo **ringraziar
 
 «Sacra. In **fila** si pensa. Non si urla.»
 
-Franco si mette a sedere su una cassa di legno. «Sette: se fai un errore, **chiede scusa**. Non serve una lettera. Due parole bastano.»
+Franco si mette a sedere su una cassa di legno. «Sette: se fai un errore, si **chiede scusa**. Non serve una lettera. Due parole bastano.»
 
-«**Chiede scusa**?» ripete Kevin, confuso.
+«Si **chiede scusa**?» ripete Kevin, confuso.
 
-«**Si chiede scusa**, Kevin. **Si chiede scusa**: “Scusa, ho sbagliato”. Così.»
+«Sì, Kevin. “Scusa, ho sbagliato”. Così.»
 
-«Ah. **Si chiede scusa**. Con la i.»
+«Ah. **Si chiede scusa**. Facile.»
 
-«Con la i» dice Franco.
+«Facile a dirsi.»
 
 «Otto: quando ti invitano, porti qualcosa. Un vino, un dolce, dei fiori. Non arrivi mai con le mani vuote.»
 
@@ -530,13 +530,13 @@ Kevin torna al frigorifero e prende una bottiglia d'acqua. _E le posate di carta
 
 ## 5. Via dei Tigli · martedì, 17:30
 
-Alle cinque e mezza Leo esce di casa con il quaderno di Kevin in tasca. Ha copiato la lista su un foglietto e ha scritto una X accanto a ogni regola. Il signor Dario passa con il cane e lo saluta con la mano. Leo guarda per terra e non **saluta**. «Una X» dice piano.
+Alle cinque e mezza Leo esce di casa con un foglietto in tasca. Ha copiato la lista di Kevin e ha scritto una X accanto a ogni regola. Il signor Dario passa con il cane e lo saluta con la mano. Leo guarda per terra e non **saluta**. «Una X» dice piano.
 
 Al forno della piazza c'è una **fila** di sei persone. Leo si mette in **fila** e tira fuori il telefono del papà. Parla forte di dinosauri con Pietro, che è a casa. La signora davanti a lui si gira due volte. «**Si può** parlare piano, per favore?» dice.
 
 Leo abbassa la voce e sorride. «Ho fatto uno **sbaglio**?»
 
-Nel forno c'è la signora con gli occhiali che lavora al banco. Leo legge il suo nome sul cartellino e le dà del tu. «Ciao, Anna! Come stai?» La signora resta con il pane in mano.
+Nel forno c'è la signora con gli occhiali che lavora al banco. Leo legge il suo nome sul cartellino e le dà del tu. «Ciao, Rosa! Come stai?» La signora resta con il pane in mano.
 
 «Buongiorno» dice. «E a me **si dice** buongiorno, non ciao. Ho cinquant'anni.»
 
@@ -576,7 +576,7 @@ Leo pensa un momento. «Signora Ornella, **si può** rompere una regola di propo
 
 «E la punizione?»
 
-Ornella sorride e chiude il libro. «Qui la punizione è una sola. **Non si fa** uscire senza **salutare**. Il resto si perdona.»
+Ornella sorride e chiude il libro. «Qui la punizione è una sola. **Non si esce** senza **salutare**. Il resto si perdona.»
 
 «E le altre regole?»
 
@@ -668,7 +668,7 @@ Kevin mette giù la penna e beve un po' d'acqua. «Franco, una domanda. Non ride
 
 «Solo due parole?»
 
-«L'anno scorso ho fatto uno **sbaglio** grande a una cena» dice Franco. «Ho parlato di soldi **a tavola**.»
+«Tanti anni fa ho fatto uno **sbaglio** grande a una cena» dice Franco. «Ho parlato di soldi **a tavola**.»
 
 Chiara smette di mangiare. «Papà, quando?»
 
@@ -756,7 +756,7 @@ Franco paga il caffè e va verso la porta. «Leo, a scuola non provare altre reg
 
 «Perché?»
 
-«Perché a scuola i **sbagli** costano. Al bar no.»
+«Perché a scuola gli **sbagli** costano. Al bar no.»
 
 Leo prende il latte e beve un sorso. «Va bene. Oggi niente regole.»
 
