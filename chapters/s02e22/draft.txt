@@ -1,0 +1,660 @@
+@vocab
+qualcosa | pronoun | | something | | Use it for a thing you don't name: qualcosa non va.
+qualcuno | pronoun | | someone; somebody | | Always singular: qualcuno ha mangiato il gelato.
+ognuno | pronoun | | each one; everyone | ognuno, ognuna | Always singular: ognuno ha la sua idea.
+ogni | adjective | | every; each | | ogni + singular noun: ogni estate, ogni anno.
+alcuni | pronoun | | some; a few | alcuni, alcune | Plural: alcuni giorni, alcune settimane.
+qualche | adjective | | some; a few | | qualche + singular noun: qualche giorno = a few days.
+molti | adjective | | many | molti, molte |
+pochi | adjective | | few; not many | pochi, poche |
+altro | adjective | | other; another | altro, altra, altri, altre |
+le vacanze | noun | f | vacation; holidays | vacanza, vacanze |
+l'estate | noun | f | summer | estate |
+il mare | noun | m | sea; beach | mare |
+la spiaggia | noun | f | beach | spiaggia, spiagge |
+la montagna | noun | f | mountain; mountains | montagna, montagne |
+la sabbia | noun | f | sand | sabbia |
+l'onda | noun | f | wave | onda, onde |
+il cono | noun | m | cone; ice cream cone | cono, coni |
+il congelatore | noun | m | freezer | congelatore, congelatori |
+il furto | noun | m | theft | furto, furti |
+il colpevole | noun | m | culprit; guilty one | colpevole, colpevoli |
+sospettare | verb | | to suspect | sospetto, sospetta, sospettano, sospettato |
+assaggiare | verb | | to taste; to try food | assaggio, assaggia, assaggiato |
+l'albergo | noun | m | hotel | albergo, alberghi |
+prenotare | verb | | to book; to reserve | prenoto, prenota, prenotato, prenotare |
+la pausa | noun | f | break; pause | pausa, pause |
+la ditta | noun | f | company; firm | ditta, ditte |
+riaprire | verb | | to reopen | riapre, riaprono, riaprire, riaperto |
+scegliere | verb | | to choose | scelgo, sceglie, scegliamo, scegliere, scelto |
+l'accordo | noun | m | agreement; deal | accordo, accordi |
+lo zaino | noun | m | backpack | zaino, zaini |
+@end
+
+# SCENE casa-carter | sabato mattina | ben, chiara, leo
+È sabato mattina in Via dei Tigli 14, e in casa c'è silenzio. || It's Saturday morning on Via dei Tigli 14, and the house is quiet.
+I muratori non sono arrivati, e Kevin ha una brutta sensazione. || The builders haven't arrived, and Kevin has a bad feeling.
+Kevin apre il **congelatore** della cucina e guarda dentro. || Kevin opens the kitchen **freezer** and looks inside.
+Dentro non c'è niente. Zero. || Inside there's nothing. Zero.
+«Ma non c'è niente!»{ben|shocked} dice Kevin. «Il **congelatore** è vuoto!»{ben} || “But there's nothing in here!” Kevin says. “The **freezer** is empty!”
+«Ieri ho visto cinque gelati qui dentro. Cinque!»{ben} || “Yesterday I saw five gelato in here. Five!”
+_Cinque gelati sono spariti. Questo non è un caso._{ben} || *Five gelato have disappeared. This is not an accident.*
+_Questo è un **furto**. Un **furto** con un **colpevole**._{ben} || *This is a **theft**. A **theft** with a **culprit**.*
+
+In quel momento entra Leo, con un **cono** vuoto in mano. || Just then Leo comes in, with an empty **cone** in his hand.
+«Buongiorno, papà. Questo **cono** è mio, ma è vuoto.»{leo} || “Morning, Dad. This **cone** is mine, but it's empty.”
+«Leo, hai mangiato tu il gelato del **congelatore**?»{ben} || “Leo, did you eat the gelato from the **freezer**?”
+«Io? No!»{leo|offended} dice Leo. «Io mangio solo il gelato del bar.»{leo} || “Me? No!” Leo says. “I only eat the gelato from the bar.”
+Kevin guarda il **cono** vuoto e non è convinto. || Kevin looks at the empty **cone** and isn't convinced.
+«**Qualcuno** ha mangiato tutto il gelato.»{ben} || “**Someone** ate all the gelato.”
+«**Qualcuno** o **qualcosa**?»{leo} chiede Leo. «Forse un mostro.»{leo} || “**Someone** or **something**?” Leo asks. “Maybe a monster.”
+«Non c'è nessun mostro in questa casa,»{ben} dice Kevin. || “There's no monster in this house,” Kevin says.
+«Ma c'è **qualcosa** di strano, questo è sicuro.»{ben} || “But there's **something** strange, that's for sure.”
+
+Chiara entra in cucina con il telefono in mano e la voce da ufficio. || Chiara comes into the kitchen with her phone in her hand and her office voice.
+«Buongiorno. Ho guardato **qualche** **albergo** in **montagna**.»{chiara|fast} || “Morning. I looked at **a few** **hotels** in the **mountains**.”
+«**Qualche** **albergo**? Perché?»{ben} || “**A few** **hotels**? Why?”
+«Per le **vacanze**, Kevin. Le **vacanze** d'**estate**.»{chiara} || “For the **vacation**, Kevin. The summer **vacation**.”
+«Tre notti in **montagna**, mezza pensione, un prezzo onesto.»{chiara} || “Three nights in the **mountains**, half board, a fair price.”
+«In **montagna**?»{ben} dice Kevin. «Chiara, l'**estate** è fatta per il **mare**!»{ben} || “In the **mountains**?” Kevin says. “Chiara, **summer** is made for the **sea**!”
+«Perché il **mare**?»{chiara} chiede Chiara, già stanca. || “Why the **sea**?” Chiara asks, already tired.
+«Perché il **mare** ha la **spiaggia**, la **sabbia**, le **onde**.»{ben} || “Because the **sea** has the **beach**, the **sand**, the **waves**.”
+«E tu sei un esperto di **spiagge**?»{chiara|dry} || “And you're an expert on **beaches**?”
+«Ho lavorato dodici anni nel marketing alimentare,» dice Kevin. «So riconoscere una buona **spiaggia**.»{ben|proud} || “I worked twelve years in food marketing,” Kevin says. “I can recognize a good **beach**.”
+
+Leo alza la mano, come a scuola. || Leo raises his hand, like at school.
+«Io **scelgo** tutto!»{leo} annuncia. «**Montagna**, **mare**, **sabbia**, **onda** e un **cono** grande!»{leo} || “I **choose** everything!” Leo announces. “**Mountains**, **sea**, **sand**, **waves**, and a big **cone**!”
+«**Ognuno** ha la sua idea,» dice Chiara. «Ma le **vacanze** sono una cosa sola.»{chiara} || “**Everyone** has their own idea,” Chiara says. “But a **vacation** is one thing.”
+«Allora **scegliamo** insieme,» dice Kevin. «Facciamo un **accordo**.»{ben} || “Then let's **choose** together,” Kevin says. “Let's make a **deal**.”
+Chiara appoggia il telefono sul tavolo e guarda suo marito. || Chiara sets the phone on the table and looks at her husband.
+«Un **accordo** è facile, Kevin. Il problema è un altro.»{chiara} || “A **deal** is easy, Kevin. The problem is something else.”
+«Quale problema?»{ben} || “What problem?”
+«La tua decisione. Sartori Alimentari. Risposta entro giovedì.»{chiara} || “Your decision. Sartori Alimentari. Answer by Thursday.”
+Kevin si siede e guarda il soffitto. || Kevin sits down and looks at the ceiling.
+_In America è tutto più semplice._{ben} || *In America everything is simpler.*
+_Scegli un posto, l'**albergo** è prenotato, e **ognuno** è contento._{ben} || *You choose a place, the **hotel** is booked, and **everyone** is happy.*
+_Qui **ognuno** **sceglie** una cosa diversa. E io non **scelgo** niente._{ben} || *Here **everyone** **chooses** something different. And I **choose** nothing.*
+«Kevin, mi ascolti?»{chiara} || “Kevin, are you listening to me?”
+«Sì. Sto pensando alle **vacanze**.»{ben} || “Yes. I'm thinking about the **vacation**.”
+«E **ogni** anno pensi alla stessa cosa,» dice Chiara. «**Ogni** **estate** la stessa storia.»{chiara} || “And **every** year you think about the same thing,” Chiara says. “**Every** **summer** the same story.”
+«Non è vero. Una volta ho proposto la Florida.»{ben} || “That's not true. Once I suggested Florida.”
+«La Florida è **mare**, Kevin. Come sempre.»{chiara} || “Florida is **sea**, Kevin. Like always.”
+
+Leo, intanto, è sparito dalla cucina. || Meanwhile, Leo has disappeared from the kitchen.
+Kevin lo sente nella sua camera, che apre e chiude cassetti. || Kevin hears him in his room, opening and closing drawers.
+«Che cosa fa?»{ben} chiede Kevin. || “What's he doing?” Kevin asks.
+«Non lo so. Va a vedere.»{chiara} || “I don't know. Go and see.”
+Kevin si alza, e in quel momento Leo ritorna in cucina. || Kevin gets up, and just then Leo comes back into the kitchen.
+Ha lo **zaino** sulle spalle e un cappello in testa. || He has his **backpack** on his shoulders and a hat on his head.
+«Sono pronto!»{leo} annuncia. «Ho già preparato lo **zaino**!»{leo} || “I'm ready!” Leo announces. “I've already packed my **backpack**!”
+«Pronto per cosa?»{ben} || “Ready for what?”
+«Per le **vacanze**!»{leo} || “For the **vacation**!”
+«Leo, non abbiamo ancora deciso le **vacanze**.»{chiara} || “Leo, we haven't decided the **vacation** yet.”
+«Ma io ho già messo tutto!»{leo} dice Leo, e apre lo **zaino**. || “But I've already put everything in!” Leo says, and he opens the **backpack**.
+Dentro ci sono un costume, la crema solare, un sasso e una foto di Pavarotti. || Inside there's a swimsuit, the sunscreen, a rock and a photo of Pavarotti.
+«Il sasso è per Ornella,» spiega Leo. «Le piace la **sabbia**?»{leo} || “The rock is for Ornella,” Leo explains. “Does she like **sand**?”
+«Non lo so, Leo. Ma il sasso pesa,»{ben} dice Kevin. || “I don't know, Leo. But the rock is heavy,” Kevin says.
+Chiara prende il telefono e cerca un **albergo**, poi un altro. || Chiara picks up the phone and looks for a **hotel**, then another.
+«In **montagna** ci sono **pochi** posti liberi,» dice. «In **mare**, forse.»{chiara} || “In the **mountains** there are **few** free spots,” she says. “At the **sea**, maybe.”
+«**Alcuni** **alberghi** sono già pieni,» dice Chiara. «Ma **qualche** camera libera c'è.»{chiara} || “**Some** **hotels** are already full,” Chiara says. “But there are **a few** rooms free.”
+«**Pochi** posti e **molti** turisti,» dice Kevin. «Come in **spiaggia** ad agosto.»{ben} || “**Few** spots and **many** tourists,” Kevin says. “Like on the **beach** in August.”
+«Allora **scegliamo** oggi,» dice Chiara. «Io **scelgo** la **montagna**.»{chiara} || “Then let's **choose** today,” Chiara says. “I **choose** the **mountains**.”
+«E io **scelgo** il **mare**,» dice Kevin. «Con la **sabbia** e le **onde**.»{ben} || “And I **choose** the **sea**,” Kevin says. “With **sand** and **waves**.”
+«E io **scelgo** tutto!»{leo|too loud} ripete Leo. || “And I **choose** everything!” Leo repeats.
+Chiara sospira e mette i capelli dietro le orecchie. || Chiara sighs and tucks her hair behind her ears.
+«Va bene. Facciamo così,» dice. «**Alcuni** giorni al **mare**, **qualche** giorno in **montagna**.»{chiara} || “OK. Let's do this,” she says. “**Some** days at the **sea**, **a few** days in the **mountains**.”
+«E il resto a casa,» dice Kevin. «Però il **congelatore** è vuoto.»{ben} || “And the rest at home,” Kevin says. “But the **freezer** is empty.”
+«Quello è il **furto**,» dice Leo, serio. «Dobbiamo trovare il **colpevole**.»{leo} || “That's the **theft**,” Leo says, serious. “We have to find the **culprit**.”
+«Il **colpevole** è **qualcuno** in questa casa,»{ben} dice Kevin, e guarda Leo. || “The **culprit** is **someone** in this house,” Kevin says, and he looks at Leo.
+«Io no!»{leo|offended} || “Not me!”
+«Va bene, non sei tu il **colpevole**,»{ben} dice Kevin. || “OK, you're not the **culprit**,” Kevin says.
+«Il **colpevole** è il gatto di Ornella,» dice Leo. «Pavarotti ama il gelato.»{leo} || “The **culprit** is Ornella's cat,” Leo says. “Pavarotti loves gelato.”
+«Pavarotti è un gatto serio,» dice Chiara. «E poi il **congelatore** è chiuso bene.»{chiara} || “Pavarotti is a serious cat,” Chiara says. “And besides, the **freezer** is closed properly.”
+Kevin non è convinto, e guarda il **congelatore** ancora una volta. || Kevin isn't convinced, and he looks at the **freezer** one more time.
+_Un **furto** senza **colpevole**. Per ora._{ben} || *A **theft** without a **culprit**. For now.*
+«Comunque, per le **vacanze**, **ognuno** ha la sua idea,» dice Chiara. «E questo è il vero problema.»{chiara} || “Anyway, about the **vacation**, **everyone** has their own idea,” Chiara says. “And that's the real problem.”
+Leo alza lo **zaino** sopra la testa, trionfante. || Leo lifts the **backpack** over his head, triumphant.
+«Ma io ho già preparato lo **zaino**!»{leo} || “But I've already packed my **backpack**!”
+
+# SCENE bar-tigli | sabato mattina | ben, matteo, nadia
+Kevin apre il Bar Tigli alle sei e mezza e accende la luce. || Kevin opens Bar Tigli at six thirty and turns on the light.
+La strada è vuota, la piazza è vuota, e in casa sua c'è un silenzio strano. || The street is empty, the piazza is empty, and in his house there's a strange silence.
+Matteo arriva con il pane e la chiave della cantina. || Matteo arrives with the bread and the cellar key.
+«Buongiorno, Kevin. Hai una faccia strana,»{matteo} dice Matteo. || “Morning, Kevin. You've got a strange face,” Matteo says.
+«La casa è silenziosa,» dice Kevin. «Nessun rumore. Nessuno. Nemmeno i muratori.»{ben} || “The house is silent,” Kevin says. “No noise. Nobody. Not even the builders.”
+«Ah, i muratori,» dice Matteo, e sorride. «Kevin, siamo in agosto.»{matteo} || “Ah, the builders,” Matteo says, and smiles. “Kevin, it's August.”
+«E allora?»{ben} || “So what?”
+«Allora **ogni** **ditta** chiude,» dice Matteo. «La **ditta** edile, la **ditta** del gas, **molte** **ditte** di Milano.»{matteo} || “So **every** **company** closes,” Matteo says. “The construction **company**, the gas **company**, **many** **companies** in Milan.”
+«La **ditta** edile **riapre** a settembre,»{nadia} dice Nadia, entrando dal retro. || “The construction **company** **reopens** in September,” Nadia says, coming in from the back.
+Nadia mette il grembiule e guarda Kevin con pazienza. || Nadia puts on her apron and looks at Kevin with patience.
+«**Ogni** anno è così,» dice Nadia. «È la **pausa** di agosto.»{nadia} || “**Every** year it's like this,” Nadia says. “It's the August **break**.”
+«Ma è il primo agosto,» dice Kevin. «Il cantiere è fermo da dieci giorni.»{ben} || “But it's the first of August,” Kevin says. “The site has been stopped for ten days.”
+«E **riapre** a settembre,»{nadia} ripete Nadia. || “And it **reopens** in September,” Nadia repeats.
+«**Alcuni** operai partono per un mese,» dice Matteo. «**Alcuni** per **molti** giorni, altri per **pochi**.»{matteo} || “**Some** workers leave for a month,” Matteo says. “**Some** for **many** days, others for **few**.”
+«E **alcuni** spariti,» dice Nadia. «Sergio, per esempio.»{nadia} || “And **some** vanished,” Nadia says. “Sergio, for example.”
+«Sergio non è sparito,» dice Kevin. «Sergio ha mandato un messaggio.»{ben} || “Sergio hasn't vanished,” Kevin says. “Sergio sent a message.”
+Kevin prende il telefono e legge ad alta voce. || Kevin takes his phone and reads out loud.
+«Nessun problema. Ci vediamo a settembre.»{ben|reading} || “No problem. See you in September.”
+Matteo ride e batte la mano sul bancone. || Matteo laughs and slaps his hand on the counter.
+«Ecco! Il classico messaggio di agosto,» dice Matteo. «**Ogni** anno lo stesso.»{matteo} || “There! The classic August message,” Matteo says. “**Every** year the same.”
+«Ma io ho una cucina senza muro,» dice Kevin. «E **molte** cose da fare.»{ben} || “But I have a kitchen without a wall,” Kevin says. “And **many** things to do.”
+«Kevin, in agosto nessuno lavora,» dice Nadia. «**Molti** italiani sono al mare.»{nadia} || “Kevin, in August nobody works,” Nadia says. “**Many** Italians are at the sea.”
+«Anche tu?»{ben} || “You too?”
+«Io lavoro. Ho una farmacia,» dice Nadia. «E aspetto un bambino.»{nadia} || “I work. I have a pharmacy,” Nadia says. “And I'm expecting a baby.”
+«Però il bar è aperto,»{ben} dice Kevin. || “But the bar is open,” Kevin says.
+«Il bar è sempre aperto,» dice Matteo. «È l'unica **ditta** che non chiude mai.»{matteo} || “The bar is always open,” Matteo says. “It's the only **company** that never closes.”
+Kevin prende una bottiglia d'acqua dal **congelatore** piccolo del bar. || Kevin takes a bottle of water from the bar's small **freezer**.
+Apre lo sportello e resta fermo. || He opens the door and stands still.
+«Matteo,» dice Kevin, lentamente. «Il gelato è finito.»{ben} || “Matteo,” Kevin says, slowly. “The gelato is gone.”
+Matteo si avvicina e guarda dentro il **congelatore**. || Matteo comes closer and looks inside the **freezer**.
+Dentro c'è solo ghiaccio e una scatola vuota. || Inside there's only ice and an empty box.
+«Impossibile,» dice Matteo. «Ieri ho visto **molti** gelati. Almeno dieci.»{matteo} || “Impossible,” Matteo says. “Yesterday I saw **many** gelato. At least ten.”
+«Dieci?»{ben|gasping} || “Ten?”
+«Dieci. Con i **coni**. E adesso niente,» dice Matteo. «Questo è un **furto**!»{matteo} || “Ten. With **cones**. And now nothing,” Matteo says. “This is a **theft**!”
+«Un **furto** al bar e un **furto** a casa mia,» dice Kevin. «Due **furti** in un giorno.»{ben} || “A **theft** at the bar and a **theft** at my house,” Kevin says. “Two **thefts** in one day.”
+Nadia asciuga un bicchiere e li guarda tutti e due. || Nadia dries a glass and looks at both of them.
+«Due **furti** di gelato,» dice. «Che mistero terribile.»{nadia|dry} || “Two gelato **thefts**,” she says. “What a terrible mystery.”
+«Tu non capisci,» dice Matteo. «Il gelato del bar è della **ditta**? No, è mio.»{matteo} || “You don't understand,” Matteo says. “Is the bar's gelato the **company's**? No, it's mine.”
+Kevin guarda Matteo con sospetto, e Matteo guarda Kevin allo stesso modo. || Kevin looks at Matteo with suspicion, and Matteo looks at Kevin the same way.
+«Tu **sospetti** me?»{ben} chiede Kevin. || “You **suspect** me?” Kevin asks.
+«Io **sospetto** te,» dice Matteo. «Sei l'unico che apre il **congelatore** alle sei e mezza.»{matteo} || “I **suspect** you,” Matteo says. “You're the only one who opens the **freezer** at six thirty.”
+«E io **sospetto** te,» dice Kevin. «Sei l'unico che **assaggia** il gelato tutti i giorni.»{ben} || “And I **suspect** you,” Kevin says. “You're the only one who **tastes** the gelato every day.”
+«Io non **assaggio** il gelato,» dice Matteo, offeso. «Io lo controllo, professionalmente.»{matteo} || “I don't **taste** the gelato,” Matteo says, offended. “I check it, professionally.”
+«E io **sospetto** tutti e due,» dice Nadia, calma. «E **sospetto** **qualcuno** in questa strada.»{nadia} || “And I **suspect** both of you,” Nadia says, calmly. “And I **suspect** **someone** on this street.”
+Kevin pensa alla sua cucina, al **congelatore** vuoto, al **cono** di Leo. || Kevin thinks about his kitchen, the empty **freezer**, Leo's **cone**.
+_Due **furti**. E **qualcuno** mangia il gelato e non lo dice._{ben} || *Two **thefts**. And **someone** eats the gelato and doesn't say so.*
+_Ma chi è il **colpevole**?_{ben} || *But who is the **culprit**?*
+«Il **colpevole** di casa mia ha mangiato cinque gelati,» dice Kevin. «Cinque!»{ben} || “The **culprit** at my house ate five gelato,” Kevin says. “Five!”
+«Il **colpevole** del bar ne ha mangiati dieci,» dice Matteo. «Dieci **coni**!»{matteo} || “The **culprit** at the bar ate ten,” Matteo says. “Ten **cones**!”
+«Forse è la stessa persona,» dice Nadia. «Un **colpevole** molto goloso.»{nadia|dry} || “Maybe it's the same person,” Nadia says. “A very greedy **culprit**.”
+Matteo si gratta la testa e pensa. || Matteo scratches his head and thinks.
+«Sai una cosa? Offro una ricompensa,» dice. «Un **cono** gratis al bar a chi trova il **colpevole**.»{matteo} || “You know what? I'm offering a reward,” he says. “A free **cone** at the bar for whoever finds the **culprit**.”
+«Un **cono** gratis?»{leo|excited} dice una voce dalla porta. || “A free **cone**?” a voice says from the door.
+Leo è sulla soglia con lo zaino in spalla. || Leo is in the doorway with his backpack on his shoulders.
+«Leo, che cosa ci fai qui?»{ben} || “Leo, what are you doing here?”
+«Cerco il **colpevole**,» dice Leo, serissimo. «E il **cono** gratis.»{leo} || “I'm looking for the **culprit**,” Leo says, very serious. “And the free **cone**.”
+«**Qualcuno** ha già iniziato le indagini,»{nadia} dice Nadia, e ride. || “**Someone** has already started the investigation,” Nadia says, and laughs.
+«Ma io **assaggio** solo il gelato che trovo,» dice Leo. «E se non lo trovo, non **assaggio**.»{leo} || “But I only **taste** the gelato I find,” Leo says. “And if I don't find it, I don't **taste**.”
+«Logico,» dice Matteo. «Perfettamente logico.»{matteo|dry} || “Logical,” Matteo says. “Perfectly logical.”
+«In **estate** tutti cercano il gelato,» dice Kevin. «E a casa mia non c'è più.»{ben} || “In **summer** everyone looks for gelato,” Kevin says. “And at my house there isn't any left.”
+«Anche al bar non c'è più,» dice Matteo. «**Molti** **coni**, zero gelato.»{matteo} || “At the bar there isn't any left either,” Matteo says. “**Many** **cones**, zero gelato.”
+«Allora il **colpevole** ama **molto** il gelato,» dice Leo. «**Molto** **molto**.»{leo} || “Then the **culprit** loves gelato **a lot**,” Leo says. “**A lot** **a lot**.”
+Nadia mette due caffè sul bancone e guarda fuori dalla vetrina. || Nadia puts two coffees on the counter and looks out the window.
+«Sapete una cosa?» dice. «In agosto, qui, **ogni** cosa succede lentamente.»{nadia} || “You know something?” she says. “In August, here, **every** thing happens slowly.”
+«Tranne i **furti** di gelato,»{ben} dice Kevin. || “Except the gelato **thefts**,” Kevin says.
+«Tranne i **furti** di gelato,»{nadia} ripete Nadia, e sorride. || “Except the gelato **thefts**,” Nadia repeats, and smiles.
+«E la **pausa** di agosto,» dice Matteo. «La **pausa** fa sparire tutto. Anche il gelato.»{matteo} || “And the August **break**,” Matteo says. “The **break** makes everything disappear. Even the gelato.”
+Kevin beve il caffè in piedi, come un italiano vero. || Kevin drinks his coffee standing up, like a real Italian.
+_Pausa di agosto. **Ditta** chiusa. **Congelatore** vuoto._{ben} || *August **break**. **Company** closed. **Freezer** empty.*
+_Però il caffè è buono. Questo è già **qualcosa**._{ben} || *But the coffee is good. That's already **something**.*
+«Allora, domani riapro il bar alle sei,» dice Kevin. «E controllo il **congelatore** ogni ora.»{ben} || “So, tomorrow I reopen the bar at six,” Kevin says. “And I check the **freezer** every hour.”
+«Bravo,» dice Matteo. «Così il **colpevole** non ha scampo.»{matteo} || “Good,” Matteo says. “That way the **culprit** has no escape.”
+«E io prendo il **cono** gratis quando lo trovo,» dice Leo. «Affare fatto.»{leo} || “And I'll take the free **cone** when I find him,” Leo says. “Deal.”
+«Affare fatto,»{matteo} dice Matteo, e gli stringe la mano. || “Deal,” Matteo says, and shakes his hand.
+
+# SCENE casa-carter | sabato pomeriggio | ben, chiara, leo
+Dopo pranzo, Chiara si siede al tavolo della cucina con il computer. || After lunch, Chiara sits at the kitchen table with her laptop.
+Ha i capelli bagnati e una tazza di tè accanto alla tastiera. || Her hair is wet and there's a cup of tea next to the keyboard.
+«Ho chiamato **qualche** **albergo** in **montagna**,» dice Chiara. «E ho una brutta notizia.»{chiara} || “I called **a few** **hotels** in the **mountains**,” Chiara says. “And I have bad news.”
+«Cioè?»{ben} chiede Kevin, dalla porta. || “Namely?” Kevin asks from the doorway.
+«**Poche** camere libere, e le più belle sono già **prenotate**,» dice Chiara. «Tutte.»{chiara} || “**Few** rooms free, and the nicest ones are already **booked**,” Chiara says. “All of them.”
+«Tutte?»{ben} || “All of them?”
+«**Alcuni** **alberghi** hanno una **pausa** di dieci giorni,» dice Chiara. «E poi **riaprono**.»{chiara} || “**Some** **hotels** have a ten-day **break**,” Chiara says. “And then they **reopen**.”
+«Quindi non possiamo **prenotare**,»{ben} dice Kevin. || “So we can't **book**,” Kevin says.
+«Possiamo **prenotare** **qualcosa** di semplice. Una camera, tre notti,» dice Chiara. «Ma non ci sono **molte** possibilità.»{chiara} || “We can **book** **something** simple. One room, three nights,” Chiara says. “But there aren't **many** options.”
+Kevin prende il telefono e chiama la **ditta** edile. || Kevin takes his phone and calls the construction **company**.
+Aspetta due minuti, poi parla con una voce registrata. || He waits two minutes, then speaks with a recorded voice.
+«Buongiorno. La **ditta** Bertoldi **riapre** il ventisei agosto,»{donna} dice la voce. || “Good morning. The Bertoldi **company** **reopens** on August twenty-sixth,” the voice says.
+Kevin chiude la chiamata e appoggia il telefono sul tavolo. || Kevin ends the call and puts the phone down on the table.
+«La **ditta** **riapre** il ventisei agosto,» dice. «La casa resta mezza aperta tutta l'**estate**.»{ben} || “The **company** **reopens** on August twenty-sixth,” he says. “The house stays half-open all **summer**.”
+«Certo,»{chiara} dice Chiara, senza alzare gli occhi. || “Of course,” Chiara says, without looking up.
+«E **qualcosa** mi dice che anche gli altri lavori sono fermi,» dice Kevin. «La **pausa** è dappertutto.»{ben} || “And **something** tells me the other jobs are stopped too,” Kevin says. “The **break** is everywhere.”
+Chiara chiude il computer e lo guarda. || Chiara closes the laptop and looks at him.
+«Kevin, hai deciso? Sartori?»{chiara} || “Kevin, have you decided? Sartori?”
+«No,» dice Kevin. «Non ho deciso.»{ben} || “No,” Kevin says. “I haven't decided.”
+«Ecco perché voglio **prenotare** **qualcosa**,» dice Chiara. «Un **accordo** è meglio di niente.»{chiara} || “That's why I want to **book** **something**,” Chiara says. “A **deal** is better than nothing.”
+«Un **accordo** sulle **vacanze**?»{ben} || “A **deal** about the **vacation**?”
+«Un **accordo** su tutto,» dice Chiara. «Sartori, la casa, l'**estate**. Tutto.»{chiara} || “A **deal** about everything,” Chiara says. “Sartori, the house, the **summer**. Everything.”
+Kevin si siede e guarda la mappa d'Italia sul muro. || Kevin sits and looks at the map of Italy on the wall.
+_Se non **scelgo** niente, non **scelgo** nemmeno le **vacanze**._{ben} || *If I don't **choose** anything, I don't **choose** the **vacation** either.*
+_Ma **qualcosa** devo **scegliere**. Anche solo per l'**estate**._{ben} || *But I have to **choose** **something**. Even just for the **summer**.*
+
+In quel momento Leo entra in cucina con lo **zaino**. || Just then Leo comes into the kitchen with his **backpack**.
+Lo mette sul tavolo e apre la cerniera. || He puts it on the table and opens the zipper.
+«Guardate! Ho preparato tutto,» dice Leo. «C'è la crema solare e i sandali.»{leo} || “Look! I've packed everything,” Leo says. “There's sunscreen and sandals.”
+«Bravissimo,» dice Chiara. «E quello che cos'è?»{chiara} || “Very good,” Chiara says. “And what's that?”
+«Un sasso,» dice Leo. «Per Ornella. Le piace la **sabbia**, e un sasso è quasi la stessa cosa.»{leo} || “A rock,” Leo says. “For Ornella. She likes **sand**, and a rock is almost the same thing.”
+«Quasi,»{ben} dice Kevin, dubbioso. || “Almost,” Kevin says, doubtful.
+«E questa?»{chiara} chiede Chiara, prendendo una foto. || “And this?” Chiara asks, picking up a photo.
+«È Pavarotti. Il gatto di Ornella,» dice Leo. «Se non posso portare il gatto, porto la foto.»{leo} || “It's Pavarotti. Ornella's cat,” Leo says. “If I can't bring the cat, I bring the photo.”
+Kevin guarda la foto del gatto e poi guarda il **congelatore**. || Kevin looks at the photo of the cat and then looks at the **freezer**.
+«Leo,» dice. «Il gatto di Ornella entra in casa nostra?»{ben} || “Leo,” he says. “Does Ornella's cat come into our house?”
+«A volte,» dice Leo. «Se la finestra è aperta.»{leo} || “Sometimes,” Leo says. “If the window is open.”
+«E va vicino al **congelatore**?»{ben} || “And does he go near the **freezer**?”
+«Certo,» dice Leo. «Perché lì c'è il gelato.»{leo} || “Of course,” Leo says. “Because the gelato is there.”
+Chiara posa la foto e incrocia le braccia. || Chiara puts the photo down and crosses her arms.
+«Allora il **colpevole** è il gatto,» dice Kevin. «E lo **sospetto** da stamattina.»{ben} || “Then the **culprit** is the cat,” Kevin says. “And I've **suspected** him since this morning.”
+«Kevin, un gatto non apre un **congelatore**,»{chiara} dice Chiara. || “Kevin, a cat doesn't open a **freezer**,” Chiara says.
+«Bè, **qualcuno** lo ha aperto,» dice Kevin. «E il gatto è **qualcuno**.»{ben} || “Well, **someone** opened it,” Kevin says. “And the cat is **someone**.”
+«Il gatto non è **qualcuno**. È un gatto,»{chiara} dice Chiara. || “The cat isn't **someone**. He's a cat,” Chiara says.
+Leo alza la mano. || Leo raises his hand.
+«Io **sospetto** una cosa **altra**,» dice. «Anche nel frigo è sparito **qualcosa**.»{leo} || “I **suspect** **another** thing,” he says. “Something disappeared from the fridge too.”
+«Che cosa?»{chiara} || “What?”
+«Prosciutto. Ieri l'ho visto, adesso non c'è,»{leo} dice Leo. «E non l'ho mangiato io.»{leo} || “Ham. I saw it yesterday, now it isn't there,” Leo says. “And I didn't eat it.”
+Chiara lo guarda con attenzione. || Chiara looks at him closely.
+«Leo, sei sicuro?»{chiara} || “Leo, are you sure?”
+«Sicurissimo,» dice Leo. «Però il prosciutto con il pane è buono.»{leo} || “Absolutely sure,” Leo says. “Though ham with bread is good.”
+«Quindi il **furto** cresce,» dice Kevin. «Gelato, prosciutto. E domani?»{ben} || “So the **theft** is growing,” Kevin says. “Gelato, ham. And tomorrow?”
+«Domani il formaggio,» dice Leo. «**Qualcosa** sparisce **ogni** giorno.»{leo} || “Tomorrow the cheese,” Leo says. “**Something** disappears **every** day.”
+«E io **sospetto** te,» dice Chiara, guardando Leo. «Lo sai, vero?»{chiara} || “And I **suspect** you,” Chiara says, looking at Leo. “You know that, right?”
+«Io? No!» dice Leo. «Io **sospetto** papà.»{leo} || “Me? No!” Leo says. “I **suspect** Dad.”
+«Io?»{ben|surprised} || “Me?”
+«Tu sei sempre in cucina,» dice Leo. «E **scegli** sempre il gelato più grande.»{leo} || “You're always in the kitchen,” Leo says. “And you always **choose** the biggest gelato.”
+«Non è vero!» dice Kevin. «Io **scelgo** quello medio.»{ben} || “That's not true!” Kevin says. “I **choose** the medium one.”
+«Papà, hai un **altro** **zaino** pieno di gelato?»{leo} || “Dad, do you have **another** backpack full of gelato?”
+«No!»{ben} || “No!”
+«Allora non sei il **colpevole**,»{leo} dice Leo, deluso. || “Then you're not the **culprit**,” Leo says, disappointed.
+Chiara prende un foglio e una penna dal cassetto. || Chiara takes a sheet of paper and a pen from the drawer.
+«Basta. Facciamo un piano,» dice. «Scrivo tutto sulla porta della cucina.»{chiara} || “Enough. Let's make a plan,” she says. “I'll write everything on the kitchen door.”
+«Un piano per il **colpevole**?»{ben} || “A plan for the **culprit**?”
+«Un piano per le **vacanze**,» dice Chiara, e scrive. «**Montagna**: tre giorni. **Mare**: **qualche** giorno.»{chiara} || “A plan for the **vacation**,” Chiara says, and writes. “**Mountains**: three days. **Sea**: **a few** days.”
+«E abbiamo deciso le **vacanze**?»{ben} || “And have we decided the **vacation**?”
+«Abbiamo quasi deciso le **vacanze**,»{chiara} dice Chiara. «**Prenotiamo** lunedì.»{chiara} || “We've almost decided the **vacation**,” Chiara says. “We **book** Monday.”
+«E l'**albergo**?»{ben} || “And the **hotel**?”
+«L'**albergo** lo **scegli** tu,» dice Chiara. «È un **accordo**.»{chiara} || “You **choose** the **hotel**,” Chiara says. “It's a **deal**.”
+Kevin guarda il foglio sulla porta e sorride un po'. || Kevin looks at the paper on the door and smiles a little.
+_Un **accordo** sulle **vacanze**. Finalmente **qualcosa** di chiaro._{ben} || *A **deal** about the **vacation**. Finally **something** clear.*
+_Ma il **furto** resta un mistero. E il **congelatore** è ancora vuoto._{ben} || *But the **theft** is still a mystery. And the **freezer** is still empty.*
+«Io aggiungo una cosa al piano,»{leo} dice Leo, e prende la penna. || “I'll add something to the plan,” Leo says, and takes the pen.
+Sotto la parola **mare**, scrive con lettere grandi: GELATO. || Under the word **sea**, he writes in big letters: GELATO.
+«Così il **colpevole** sa che il gelato è nostro,»{leo} dice Leo, soddisfatto. || “That way the **culprit** knows the gelato is ours,” Leo says, satisfied.
+«Geniale,» dice Kevin, e guarda Chiara. «La **pausa** di agosto, la **ditta** chiusa, un **furto** di gelato.»{ben} || “Brilliant,” Kevin says, and looks at Chiara. “The August **break**, the closed **company**, a gelato **theft**.”
+«E una **vacanza** da **scegliere**,» dice Chiara. «Come sempre.»{chiara} || “And a **vacation** to **choose**,” Chiara says. “Like always.”
+«Come sempre,»{ben} ripete Kevin, e pensa a un **albergo** vicino al mare. || “Like always,” Kevin repeats, and thinks of a **hotel** near the sea.
+_Un **albergo** con **qualche** stella, la **sabbia** e un **cono** per Leo._{ben} || *A **hotel** with **a few** stars, the **sand** and a **cone** for Leo.*
+_E **qualcosa** per me: una decisione. Prima di giovedì._{ben} || *And **something** for me: a decision. Before Thursday.*
+
+# SCENE bar-tigli | sabato pomeriggio | emma, tommaso, ben
+Nel pomeriggio il Bar Tigli è quasi vuoto, e il ventilatore gira piano. || In the afternoon Bar Tigli is almost empty, and the fan turns slowly.
+Emma e Tommaso sono al tavolo vicino alla finestra. || Emma and Tommaso are at the table near the window.
+Ognuno ha un **cono** in mano, e parlano a voce bassa. || Each of them has a **cone** in hand, and they speak in low voices.
+Kevin è dietro il bancone e li guarda. || Kevin is behind the counter and watches them.
+_Hanno due **coni** grandi. E il **congelatore** del bar è vuoto._{ben} || *They have two big **cones**. And the bar's **freezer** is empty.*
+«Emma! Tommaso!»{ben|too loud} chiama Kevin. «Che buoni quei **coni**!»{ben} || “Emma! Tommaso!” Kevin calls. “Those **cones** look good!”
+Emma si gira lentamente, con la faccia di chi vuole sparire. || Emma turns slowly, with the face of someone who wants to disappear.
+«Ciao, papà,» dice. «Siamo qui, come vedi.»{emma|dry} || “Hi, Dad,” she says. “We're here, as you can see.”
+«Da dove arrivano quei **coni**?»{ben} || “Where do those **cones** come from?”
+«Dalla gelateria in piazza,» dice Tommaso. «Quella nuova.»{tommaso} || “From the gelateria in the piazza,” Tommaso says. “The new one.”
+«Ah, la gelateria nuova,» dice Kevin. «Interessante.»{ben} || “Ah, the new gelateria,” Kevin says. “Interesting.”
+Kevin prende uno straccio e pulisce lo stesso punto del bancone tre volte. || Kevin takes a cloth and cleans the same spot on the counter three times.
+«Posso **assaggiare**?»{ben} chiede. «Solo un **assaggio** piccolo.»{ben} || “Can I **taste**?” he asks. “Just a small **taste**.”
+«No,» dice Emma. «È il mio **cono**.»{emma} || “No,” Emma says. “It's my **cone**.”
+«E il mio è quasi finito,»{tommaso} dice Tommaso, e lecca il **cono**. || “And mine is almost finished,” Tommaso says, and licks the **cone**.
+Kevin si avvicina al tavolo e si siede sulla sedia accanto. || Kevin comes over to the table and sits down on the chair next to them.
+«Allora, ragazzi. Dove siete andati oggi?»{ben} || “So, kids. Where did you go today?”
+«In piazza,» dice Emma, troppo veloce. «Poi a casa.»{emma} || “To the piazza,” Emma says, too fast. “Then home.”
+«In piazza e a casa,» ripete Kevin. «Con lo skate, immagino.»{ben} || “To the piazza and home,” Kevin repeats. “With the skateboard, I imagine.”
+«Papà, perché tutte queste domande?»{emma|annoyed} || “Dad, why all these questions?”
+«Perché **qualcuno** mangia il gelato di casa nostra,» dice Kevin. «**Qualcuno** con un **cono** in mano.»{ben} || “Because **someone** eats the gelato at our house,” Kevin says. “**Someone** with a **cone** in hand.”
+Tommaso smette di leccare il **cono** e guarda Emma. || Tommaso stops licking the **cone** and looks at Emma.
+«Noi il gelato lo compriamo,» dice Tommaso, calmo. «Non lo prendiamo.»{tommaso} || “We buy gelato,” Tommaso says, calmly. “We don't take it.”
+«Tommaso, tu sei un ragazzo serio,» dice Kevin. «Ti credo.»{ben} || “Tommaso, you're a serious guy,” Kevin says. “I believe you.”
+«Grazie,»{tommaso} dice Tommaso. || “Thanks,” Tommaso says.
+Emma appoggia i gomiti sul tavolo e cambia discorso. || Emma rests her elbows on the table and changes the subject.
+«Papà, sai che cosa penso delle **vacanze**?»{emma} || “Dad, do you know what I think about the **vacation**?”
+«No. Dimmi,»{ben} dice Kevin. || “No. Tell me,” Kevin says.
+«Io voglio restare a casa,» dice Emma. «Tutta l'**estate**.»{emma} || “I want to stay home,” Emma says. “All **summer**.”
+«Tutta l'**estate**?»{ben} || “All **summer**?”
+«Sì. La **montagna** non mi piace, il **mare** è pieno di gente,» dice Emma. «E l'**albergo** è un posto noioso.»{emma} || “Yes. I don't like the **mountains**, the **sea** is full of people,” Emma says. “And a **hotel** is a boring place.”
+«La **spiaggia**, Emma. La **sabbia**, le **onde**,» dice Kevin. «Come Chicago?»{ben} || “The **beach**, Emma. The **sand**, the **waves**,” Kevin says. “Like Chicago?”
+«A Chicago è diverso,»{emma} dice Emma. «Qui la **spiaggia** è lontana, e non conosco nessuno là.»{emma} || “In Chicago it's different,” Emma says. “Here the **beach** is far away, and I don't know anyone there.”
+«Ma **molti** vanno al **mare** in agosto,» dice Kevin. «**Molti**!»{ben} || “But **many** go to the **sea** in August,” Kevin says. “**Many**!”
+«Appunto,» dice Emma. «Troppa gente. Io non voglio **molta** gente.»{emma} || “Exactly,” Emma says. “Too many people. I don't want **many** people.”
+Tommaso finisce il **cono** e lo mette nel tovagliolo. || Tommaso finishes the **cone** and puts it in the napkin.
+«**Pochi** restano in città in agosto,» dice. «Ma io resto qui. E Marco resta.»{tommaso} || “**Few** stay in the city in August,” he says. “But I stay here. And Marco stays.”
+«Vedi?»{emma} dice Emma, trionfante. «Anche Tommaso resta.»{emma} || “See?” Emma says, triumphant. “Tommaso stays too.”
+«E che cosa fate, tutto il giorno?»{ben} || “And what do you do, all day?”
+«Andiamo al parco, in piazza, e qualche volta al lago,» dice Tommaso. «Il lago di Pasquetta.»{tommaso} || “We go to the park, to the piazza, and sometimes to the lake,” Tommaso says. “The lake from Pasquetta.”
+«Ah, il lago,» dice Kevin. «Quello con la barca.»{ben} || “Ah, the lake,” Kevin says. “The one with the boat.”
+«Quello,» dice Tommaso. «È grande, e ci sono **pochi** ombrelloni.»{tommaso} || “That one,” Tommaso says. “It's big, and there are **few** beach umbrellas.”
+«E **poca** **sabbia**?»{ben} || “And **little** **sand**?”
+«**Poca** **sabbia**, **poche** **onde**,» dice Tommaso. «Ma tanta acqua.»{tommaso} || “**Little** **sand**, **few** **waves**,” Tommaso says. “But lots of water.”
+«Però in agosto il lago è pieno di turisti,» dice Emma. «No?»{emma} || “But in August the lake is full of tourists,” Emma says. “No?”
+«No,» dice Tommaso. «In agosto è quasi vuoto. La gente va al **mare**.»{tommaso} || “No,” Tommaso says. “In August it's almost empty. People go to the **sea**.”
+Emma sorride, e Kevin lo vede. || Emma smiles, and Kevin sees it.
+_Ha sorriso troppo in fretta._{ben} || *She smiled too quickly.*
+_C'è un piano. E non è il piano di famiglia._{ben} || *There's a plan. And it's not the family plan.*
+«Comunque, il lago è un buon posto,» dice Tommaso. «Con lo **zaino** si arriva in mezz'ora.»{tommaso} || “Anyway, the lake is a good place,” Tommaso says. “With a **backpack** you get there in half an hour.”
+«Con lo **zaino**?»{ben} || “With a **backpack**?”
+«Un **altro** **zaino**, non quello di scuola,» dice Tommaso. «Quello piccolo.»{tommaso} || “**Another** **backpack**, not the school one,” Tommaso says. “The small one.”
+«La barca è piccola,» dice Emma. «Con uno **zaino** e una chitarra siamo già in due.»{emma} || “The boat is small,” Emma says. “With one **backpack** and a guitar we're already two.”
+Kevin la guarda e alza le sopracciglia. || Kevin looks at her and raises his eyebrows.
+«Chitarra?»{ben} || “Guitar?”
+«Il basso, papà,» dice Emma. «Il basso di Tommaso.»{emma} || “The bass, Dad,” Emma says. “Tommaso's bass.”
+«Ah. Il basso,» dice Kevin. «Certo.»{ben} || “Ah. The bass,” Kevin says. “Of course.”
+Emma si alza e prende il suo **zaino** da sotto il tavolo. || Emma gets up and takes her **backpack** from under the table.
+«Dobbiamo andare,» dice. «Bianca ci aspetta in piazza.»{emma} || “We have to go,” she says. “Bianca is waiting for us in the piazza.”
+«Va bene,» dice Kevin. «Però attenzione: a casa il gelato è un **altro** **furto**, e io controllo.»{ben} || “OK,” Kevin says. “But careful: at home the gelato is **another** **theft**, and I'm checking.”
+«Papà, il **furto** del gelato non è mio,» dice Emma. «Davvero.»{emma} || “Dad, the gelato **theft** isn't mine,” Emma says. “Really.”
+«**Qualcuno** è il colpevole,» dice Kevin. «E io lo trovo.»{ben} || “**Someone** is the culprit,” Kevin says. “And I'll find him.”
+Tommaso prende il portafoglio e va al bancone. || Tommaso takes his wallet and goes to the counter.
+«Pago io,» dice. «Due **coni**, uno per me e uno per Emma.»{tommaso} || “I'll pay,” he says. “Two **cones**, one for me and one for Emma.”
+Kevin batte lo scontrino e guarda i due ragazzi. || Kevin rings up the receipt and looks at the two kids.
+«Siete **molto** gentili, oggi,» dice Kevin. «**Molto** gentili tutti e due.»{ben} || “You're both **very** kind today,” Kevin says. “**Very** kind, both of you.”
+«È sabato,»{tommaso} dice Tommaso, e mette via il portafoglio. || “It's Saturday,” Tommaso says, and puts away his wallet.
+Emma spinge Tommaso verso la porta e saluta con la mano. || Emma pushes Tommaso toward the door and waves her hand.
+«Ciao, papà! A cena!»{emma} || “Bye, Dad! See you at dinner!”
+La porta si chiude e il ventilatore gira ancora piano. || The door closes and the fan still turns slowly.
+Kevin guarda i due bicchieri vuoti sul tavolo. || Kevin looks at the two empty glasses on the table.
+_Ha detto “a cena” in un modo strano._{ben} || *She said “at dinner” in a strange way.*
+_Ma io non voglio fare il padre detective. Voglio solo capire._{ben} || *But I don't want to be a detective dad. I just want to understand.*
+Raccoglie i tovaglioli e trova due **coni** vuoti. || He gathers the napkins and finds two empty **cones**.
+_Però dieci **coni** sono **molti** gelati. **Molti**._{ben} || *Though ten **cones** are **many** gelato. **Many**.*
+_Emma e Tommaso hanno comprato due **coni**. Non dieci._{ben} || *Emma and Tommaso bought two **cones**. Not ten.*
+Kevin getta i tovaglioli e sorride da solo, dietro il bancone vuoto. || Kevin throws away the napkins and smiles to himself, behind the empty counter.
+«Buona idea, il lago,» dice a voce alta, al bar vuoto. «**Pochi** turisti, **poche** **onde**.»{ben} || “Good idea, the lake,” he says out loud, to the empty bar. “**Few** tourists, **few** **waves**.”
+Poi prende il telefono e guarda la foto di un **albergo** con la **spiaggia** davanti. || Then he picks up his phone and looks at a photo of a **hotel** with the **beach** in front.
+**Molti** **alberghi** sono pieni, ma **qualcuno** è ancora libero. || **Many** **hotels** are full, but **someone** is still free.
+Kevin salva la foto e chiude il telefono. || Kevin saves the photo and closes his phone.
+«Prima o poi **qualcuno** deve **scegliere**,» dice piano. «Anche io.»{ben} || “Sooner or later **someone** has to **choose**,” he says quietly. “Me too.”
+
+# SCENE orto | domenica mattina | ben, franco
+Domenica mattina l'orto di Franco è pieno di luce e di pomodori rossi. || Sunday morning Franco's garden is full of light and red tomatoes.
+Franco è in ginocchio tra le piante, con un cesto di vimini accanto. || Franco is on his knees among the plants, with a wicker basket beside him.
+Kevin arriva con un caffè in una mano e il telefono nell'altra. || Kevin arrives with a coffee in one hand and his phone in the other.
+«Buongiorno, Franco,» dice Kevin. «Posso aiutarti?»{ben} || “Morning, Franco,” Kevin says. “Can I help you?”
+«Puoi stare fermo e non calpestare l'insalata,» dice Franco. «È già **qualcosa**.»{franco|dry} || “You can stand still and not step on the lettuce,” Franco says. “That's already **something**.”
+Kevin si siede su una cassetta di legno, attento ai piedi. || Kevin sits on a wooden crate, careful with his feet.
+«La **ditta** edile non **riapre** fino al ventisei agosto,» dice Kevin. «E la casa è ancora aperta.»{ben} || “The construction **company** doesn't **reopen** until August twenty-sixth,” Kevin says. “And the house is still open.”
+«Certo,» dice Franco. «È la **pausa** di agosto. **Ogni** anno la stessa storia.»{franco} || “Of course,” Franco says. “It's the August **break**. **Every** year the same story.”
+«Ma sono dieci giorni di silenzio, Franco,» dice Kevin. «**Molti** giorni.»{ben} || “But it's ten days of silence, Franco,” Kevin says. “**Many** days.”
+«In agosto **molti** non lavorano,» dice Franco. «E **molti** di quelli che lavorano stanno a casa e non fanno niente.»{franco} || “In August **many** don't work,” Franco says. “And **many** of those who do work stay home and do nothing.”
+«Però le **vacanze** sono care, e gli **alberghi** sono pieni,» dice Kevin. «Chiara ieri ha provato a **prenotare** **qualcosa** in **montagna**.»{ben} || “But the **vacation** is expensive, and the **hotels** are full,” Kevin says. “Yesterday Chiara tried to **book** **something** in the **mountains**.”
+«E ha trovato **poche** camere, immagino,»{franco} dice Franco. || “And she found **few** rooms, I imagine,” Franco says.
+«**Pochissime**,» dice Kevin. «E gli **alberghi** buoni sono tutti **prenotati**.»{ben} || “**Very few**,” Kevin says. “And the good **hotels** are all **booked**.”
+Franco mette due pomodori nel cesto e si pulisce le mani sul grembiule. || Franco puts two tomatoes in the basket and wipes his hands on his apron.
+«In **estate** tutti vogliono la stessa cosa,» dice. «Il **mare**.»{franco} || “In **summer** everyone wants the same thing,” he says. “The **sea**.”
+«E tu? Tu vuoi il **mare**?»{ben} || “And you? Do you want the **sea**?”
+Franco guarda le piante e poi guarda lontano, verso la strada. || Franco looks at the plants and then looks far away, toward the street.
+«Io e Anna abbiamo sempre scelto lo stesso **albergo**,» dice. «Per trent'anni.»{franco} || “Anna and I always chose the same **hotel**,” he says. “For thirty years.”
+Kevin resta in silenzio, con il caffè in mano. || Kevin stays silent, with the coffee in his hand.
+«La **spiaggia** presto la mattina,» dice Franco. «Poca gente, la **sabbia** fredda.»{franco} || “The **beach** early in the morning,” Franco says. “Few people, cold **sand**.”
+«E il rumore?»{ben} || “And the noise?”
+«Una **onda**, due **onde**, e basta,» dice Franco. «Poi un libro e un caffè.»{franco} || “One **wave**, two **waves**, and that's it,” Franco says. “Then a book and a coffee.”
+«Sembra perfetto,»{ben} dice Kevin, piano. || “Sounds perfect,” Kevin says, quietly.
+«È semplice, il **mare**,» dice Franco. «**Alcune** cose, **poche** parole, un **accordo** con la famiglia.»{franco} || “The **sea** is simple,” Franco says. “**A few** things, **few** words, a **deal** with the family.”
+«Un **accordo**?»{ben} || “A **deal**?”
+«**Ognuno** dice che cosa vuole, e poi si **sceglie** insieme,» dice Franco. «Con te questo non funziona mai.»{franco|dry} || “**Everyone** says what they want, and then you **choose** together,” Franco says. “With you this never works.”
+«Perché io voglio il **mare** e Chiara vuole la **montagna**,» dice Kevin. «E Leo vuole tutto.»{ben} || “Because I want the **sea** and Chiara wants the **mountains**,” Kevin says. “And Leo wants everything.”
+«E tu che cosa fai?»{franco} || “And what do you do?”
+«Faccio un piano,» dice Kevin. «**Qualche** giorno qua, **qualche** giorno là.»{ben} || “I make a plan,” Kevin says. “**A few** days here, **a few** days there.”
+Franco ride, una risata breve e secca. || Franco laughs, a short, dry laugh.
+«E l'**albergo**?»{franco} chiede. || “And the **hotel**?” Franco asks.
+«Cerco **qualcosa** semplice, vicino al **mare**,» dice Kevin. «Con la **spiaggia** davanti.»{ben} || “I'm looking for **something** simple, near the **sea**,” Kevin says. “With the **beach** in front.”
+«Dammi un nome,» dice Franco. «Un **albergo** di tanti anni fa.»{franco} || “Give me a name,” Franco says. “A **hotel** from many years ago.”
+Franco pensa un momento, con gli occhi socchiusi. || Franco thinks for a moment, his eyes half-closed.
+«C'è stato un **albergo** a Marina di Massa,» dice. «Ma ha chiuso dieci anni fa.»{franco} || “There was a **hotel** in Marina di Massa,” he says. “But it closed ten years ago.”
+«Un **altro**?»{ben} || “**Another** one?”
+«**Alcuni** **alberghi** di una volta non ci sono più,» dice Franco. «E gli altri sono pieni.»{franco} || “**Some** **hotels** from back then aren't there anymore,” Franco says. “And the others are full.”
+«Chi è il **colpevole**?»{ben} || “Who's the **culprit**?”
+«Agosto,» dice Franco. «Agosto è il **colpevole** delle camere piccole.»{franco} || “August,” Franco says. “August is the **culprit** of the small rooms.”
+Kevin scrive sul quaderno giallo e poi chiude la penna. || Kevin writes in the yellow notebook and then closes the pen.
+«Allora **prenoto** io,» dice. «Una camera, quattro letti.»{ben} || “Then I'll **book** it,” he says. “One room, four beds.”
+Franco lo guarda con attenzione, come un perito che controlla un muro. || Franco looks at him closely, like a surveyor checking a wall.
+«Quattro persone in una camera?»{franco} || “Four people in one room?”
+«Sì,» dice Kevin. «Per qualche notte.»{ben} || “Yes,” Kevin says. “For a few nights.”
+«Emma è d'accordo?»{franco} || “Does Emma agree?”
+«Emma vuole restare a casa,» dice Kevin. «Tutta l'**estate**.»{ben} || “Emma wants to stay home,” Kevin says. “All **summer**.”
+«E tu che cosa rispondi?»{franco} || “And what do you answer?”
+«Rispondo che siamo una famiglia,» dice Kevin. «E che in **estate** si sta insieme.»{ben} || “I answer that we're a family,” Kevin says. “And that in **summer** we stay together.”
+Franco annuisce lentamente, e poi fa la domanda che Kevin non si aspetta. || Franco nods slowly, and then asks the question Kevin doesn't expect.
+«Voi due sapete dividere una camera?»{franco|dry} «Tu e Chiara?»{franco} || “Do you two know how to share a room?” “You and Chiara?”
+Kevin apre la bocca e non risponde subito. || Kevin opens his mouth and doesn't answer right away.
+«Penso di sì,» dice. «Perché?»{ben} || “I think so,” he says. “Why?”
+«Perché in **vacanza** si litiga per niente,» dice Franco. «Per la **spiaggia**, per l'**onda**, per il caffè.»{franco} || “Because on **vacation** you argue over nothing,” Franco says. “About the **beach**, about the **wave**, about the coffee.”
+«Noi non litighiamo,»{ben} dice Kevin. || “We don't argue,” Kevin says.
+«No?»{franco} || “No?”
+«Bè. Qualche volta,» dice Kevin. «Ma per **poche** cose.»{ben} || “Well. Sometimes,” Kevin says. “But about **few** things.”
+Franco prende un pomodoro e lo mette nella mano di Kevin. || Franco takes a tomato and puts it in Kevin's hand.
+«Quello è per Leo,» dice. «E questo è per Emma.»{franco} || “That one is for Leo,” he says. “And this one is for Emma.”
+Kevin guarda i due pomodori e sorride. || Kevin looks at the two tomatoes and smiles.
+«Grazie. Ma sono due pomodori,» dice. «E in famiglia siamo in quattro.»{ben} || “Thanks. But it's two tomatoes,” he says. “And in the family we're four.”
+«Allora due li mangi tu,» dice Franco. «Uno per te e uno per la strada.»{franco} || “Then you eat two,” Franco says. “One for you and one for the street.”
+«E per il viaggio?»{ben} || “And for the trip?”
+«Per il viaggio hai lo **zaino** di Leo,» dice Franco. «Con il sasso dentro.»{franco} || “For the trip you have Leo's **backpack**,” Franco says. “With the rock inside.”
+Kevin ride e mette i pomodori nella tasca del giubbotto. || Kevin laughs and puts the tomatoes in his jacket pocket.
+«Franco, sai una cosa?» dice. «**Ognuno** in questa famiglia vuole una cosa diversa.»{ben} || “Franco, you know something?” he says. “**Everyone** in this family wants something different.”
+«Certo,» dice Franco. «È una famiglia.»{franco} || “Of course,” Franco says. “It's a family.”
+«E **ogni** **estate** la stessa storia,» dice Kevin. «Come la **ditta** che **riapre** a settembre.»{ben} || “And **every** **summer** the same story,” Kevin says. “Like the **company** that **reopens** in September.”
+«Come la **pausa** di agosto,» dice Franco. «Tutto fermo, tutto uguale.»{franco} || “Like the August **break**,” Franco says. “Everything stopped, everything the same.”
+Kevin si alza dalla cassetta e si sistema il giubbotto. || Kevin gets up from the crate and adjusts his jacket.
+«Io **prenoto** l'**albergo** domani,» dice. «E poi vediamo.»{ben} || “I'll **book** the **hotel** tomorrow,” he says. “And then we'll see.”
+«Bravo,» dice Franco. «E se **qualcosa** non funziona, porta i pomodori.»{franco} || “Good,” Franco says. “And if **something** doesn't work, bring the tomatoes.”
+Kevin esce dall'orto con i due pomodori in tasca. || Kevin leaves the garden with the two tomatoes in his pocket.
+Alla porta si gira un'ultima volta. || At the gate he turns around one last time.
+«Franco, una volta andavi al **mare** ogni anno?»{ben} || “Franco, did you used to go to the **sea** every year?”
+«**Ogni** anno, in **estate**, con Anna,»{franco} dice Franco, e guarda il cesto. || “**Every** year, in **summer**, with Anna,” Franco says, and looks at the basket.
+«E adesso?»{ben} || “And now?”
+«Adesso annaffio i pomodori,» dice Franco. «**Qualcuno** deve pur farlo.»{franco} || “Now I water the tomatoes,” Franco says. “**Someone** has to do it.”
+
+# SCENE casa-carter | domenica sera | ben, chiara, emma, leo
+Dopo cena, Chiara mette una grande mappa d'Italia sul tavolo della cucina. || After dinner, Chiara puts a big map of Italy on the kitchen table.
+Ci sono bicchieri, briciole e una matita rossa. || There are glasses, crumbs and a red pencil.
+Kevin spegne la televisione e si siede. || Kevin turns off the television and sits down.
+Leo arriva con lo zaino e lo mette sotto la sedia. || Leo arrives with his backpack and puts it under the chair.
+Emma arriva per ultima, con le cuffie al collo e la faccia di chi vuole finire presto. || Emma arrives last, with her headphones around her neck and the face of someone who wants to finish quickly.
+«Riunione di famiglia,» dice Chiara. «Parliamo delle **vacanze**.»{chiara} || “Family meeting,” Chiara says. “Let's talk about the **vacation**.”
+«Ancora?»{emma|dry} || “Again?” Emma says.
+«Ancora,» dice Chiara. «Perché **ognuno** qui vuole una cosa diversa.»{chiara} || “Again,” Chiara says. “Because **everyone** here wants something different.”
+«Va bene,» dice Emma. «Io parlo per prima.»{emma} || “Fine,” Emma says. “I'll speak first.”
+«Prego,»{chiara} dice Chiara. || “Go ahead,” Chiara says.
+«Io voglio restare a casa,» dice Emma. «A casa ci sono i miei amici, la piazza, il parco.»{emma} || “I want to stay home,” Emma says. “At home there are my friends, the piazza, the park.”
+«E la **spiaggia**?»{ben} chiede Kevin. || “And the **beach**?” Kevin asks.
+«La **spiaggia** è piena di gente,» dice Emma. «E poi non conosco nessuno là.»{emma} || “The **beach** is full of people,” Emma says. “And besides, I don't know anyone there.”
+«Io invece voglio il **mare**,» dice Kevin. «Tutti i giorni, dal mattino alla sera.»{ben} || “I want the **sea** instead,” Kevin says. “Every day, from morning to evening.”
+«E perché?»{chiara} || “And why?”
+«Perché il **mare** è **qualcosa** di semplice,» dice Kevin. «La **sabbia**, le **onde**, un **cono** per Leo.»{ben} || “Because the **sea** is **something** simple,” Kevin says. “The **sand**, the **waves**, a **cone** for Leo.”
+«E io voglio la **montagna**,» dice Chiara. «Aria fresca, un **albergo** tranquillo, qualche camminata.»{chiara} || “And I want the **mountains**,” Chiara says. “Fresh air, a quiet **hotel**, a few walks.”
+«Ma in **montagna** non ci sono i **coni**!»{leo|too loud} dice Leo. || “But in the **mountains** there are no **cones**!” Leo says.
+«Ci sono i gelati di montagna,» dice Chiara. «Alla crema.»{chiara} || “There are mountain gelato,” Chiara says. “Cream ones.”
+«Non è la stessa cosa,»{leo} dice Leo, serio. || “That's not the same thing,” Leo says, serious.
+«E tu, Leo? Che cosa vuoi tu?»{ben} || “And you, Leo? What do you want?”
+«Io voglio tutto,» dice Leo. «**Montagna**, **mare**, **spiaggia**, **sabbia** e un **cono** grande.»{leo} || “I want everything,” Leo says. “**Mountains**, **sea**, **beach**, **sand** and a big **cone**.”
+«Tutto non si può,»{chiara} dice Chiara. || “Everything isn't possible,” Chiara says.
+«Perché no?»{leo} || “Why not?”
+«Perché le **vacanze** sono **poche** settimane,» dice Chiara. «E le settimane hanno **pochi** giorni.»{chiara} || “Because the **vacation** is **a few** weeks,” Chiara says. “And weeks have **few** days.”
+Emma guarda il telefono sotto il tavolo e non dice niente. || Emma looks at her phone under the table and says nothing.
+Kevin la vede e pensa. || Kevin sees her and thinks.
+_Ha accettato di parlare e adesso sta zitta._{ben} || *She agreed to talk and now she's quiet.*
+_Strano. **Molto** strano._{ben} || *Strange. **Very** strange.*
+
+Chiara prende la matita rossa e fa tre cerchi sulla mappa. || Chiara takes the red pencil and draws three circles on the map.
+«Allora, ecco il mio **accordo**,» dice. «Primo: **alcuni** giorni al **mare**.»{chiara} || “So, here's my **deal**,” she says. “First: **some** days at the **sea**.”
+«Bene,»{ben} dice Kevin. || “Good,” Kevin says.
+«Secondo: **qualche** giorno in **montagna**,» dice Chiara. «Terzo: il resto a casa.»{chiara} || “Second: **a few** days in the **mountains**,” Chiara says. “Third: the rest at home.”
+«E chi **sceglie** dove andiamo per primi?»{ben} || “And who **chooses** where we go first?”
+«Il primo giorno si **sceglie** insieme,» dice Chiara. «Poi **ognuno** sceglie una cosa sua.»{chiara} || “The first day we **choose** together,” Chiara says. “Then **everyone** chooses one thing of their own.”
+«Un **accordo** giusto,» dice Kevin. «A me piace.»{ben} || “A fair **deal**,” Kevin says. “I like it.”
+Emma alza gli occhi dal telefono. || Emma raises her eyes from her phone.
+«Va bene,» dice. «Però l'**estate** io la passo qui. A casa.»{emma} || “Fine,” she says. “But the **summer**, I'm spending it here. At home.”
+Kevin la guarda e alza le sopracciglia. || Kevin looks at her and raises his eyebrows.
+«Tutto il resto dell'**estate** a casa?»{ben} || “The whole rest of the **summer** at home?”
+«Sì,»{emma} dice Emma, e rimette il telefono al collo. || “Yes,” Emma says, and puts the phone back around her neck.
+_Ha detto sì troppo in fretta._{ben} || *She said yes too quickly.*
+_Quando dice sì in fretta, **qualcosa** non funziona._{ben} || *When she says yes quickly, **something** doesn't work.*
+«Emma, sei sicura?»{chiara} chiede Chiara. || “Emma, are you sure?” Chiara asks.
+«Sicurissima,» dice Emma. «Ho già **qualche** impegno qui.»{emma} || “Absolutely sure,” Emma says. “I already have **a few** commitments here.”
+«Che impegni?»{ben} || “What commitments?”
+«Cose,» dice Emma. «Bianca, la chitarra, il lago.»{emma} || “Things,” Emma says. “Bianca, the guitar, the lake.”
+«Il lago con Bianca?»{ben} || “The lake with Bianca?”
+Emma prende il bicchiere e beve un sorso d'acqua. || Emma picks up the glass and takes a sip of water.
+«Sì. Con Bianca e con **altri** amici,» dice. «**Alcuni** amici del liceo.»{emma} || “Yes. With Bianca and with **other** friends,” she says. “**Some** friends from school.”
+«Bene,»{ben} dice Kevin, e non chiede **altro**. || “Good,” Kevin says, and he doesn't ask **anything else**.
+_Non chiedo **altro**. Però lo penso._{ben} || *I won't ask **anything else**. But I'm thinking it.*
+Kevin prende la penna e scrive una piccola lista. || Kevin takes the pen and writes a small list.
+«Allora io **prenoto** l'**albergo** domani mattina,» dice. «Una camera, quattro letti.»{ben} || “So I'll **book** the **hotel** tomorrow morning,” he says. “One room, four beds.”
+«Quattro letti in una camera?»{emma} chiede Emma, con una faccia nuova. || “Four beds in one room?” Emma asks, with a new face.
+«Tre notti,» dice Kevin. «Poche notti insieme.»{ben} || “Three nights,” Kevin says. “A few nights together.”
+«Va bene,»{emma} dice Emma, piano. || “OK,” Emma says, quietly.
+«E la **pausa** di agosto?»{leo} chiede Leo. «La **ditta** è chiusa, la casa è aperta.»{leo} || “And the August **break**?” Leo asks. “The **company** is closed, the house is open.”
+«La **pausa** non finisce per noi,» dice Chiara. «La **pausa** è solo per i muratori.»{chiara} || “The **break** doesn't end for us,” Chiara says. “The **break** is only for the builders.”
+«Ah,» dice Leo. «Allora è **altra** cosa.»{leo} || “Ah,” Leo says. “Then it's **another** thing.”
+Kevin chiude la penna e guarda tutti e tre. || Kevin closes the pen and looks at all three of them.
+«Però c'è ancora un problema,» dice. «Il **furto** del gelato.»{ben} || “But there's still a problem,” he says. “The gelato **theft**.”
+«Ancora?»{chiara} || “Still?” Chiara says.
+«Ancora,» dice Kevin. «Il **congelatore** è vuoto e **qualcuno** ha mangiato dieci **coni** al bar.»{ben} || “Still,” Kevin says. “The **freezer** is empty and **someone** ate ten **cones** at the bar.”
+«Dieci?»{leo|gasping} dice Leo. «Il **colpevole** è forte.»{leo} || “Ten?” Leo says. “The **culprit** is strong.”
+«Io **sospetto** un animale,»{emma} dice Emma, e sorride. || “I **suspect** an animal,” Emma says, and smiles.
+«Io **sospetto** il gatto di Ornella,» dice Kevin. «E lo dico anche a lei.»{ben} || “I **suspect** Ornella's cat,” Kevin says. “And I'll tell her too.”
+«Papà, il gatto di Ornella non apre il **congelatore**,»{emma} dice Emma. || “Dad, Ornella's cat doesn't open the **freezer**,” Emma says.
+«Allora **qualcuno** lo apre per lui,»{ben} dice Kevin. || “Then **someone** opens it for him,” Kevin says.
+«**Qualcuno**, ma non si sa chi,» dice Chiara. «Come i misteri di agosto.»{chiara} || “**Someone**, but we don't know who,” Chiara says. “Like August mysteries.”
+Leo alza la mano con decisione. || Leo raises his hand decisively.
+«Io ho una soluzione!»{leo} annuncia. «Domattina vado da Ornella e chiedo al gatto.»{leo} || “I have a solution!” Leo announces. “Tomorrow morning I'll go to Ornella and ask the cat.”
+«Al gatto?»{ben} || “The cat?”
+«Sì. Io le dico **qualcosa** e lui risponde,» dice Leo. «Se è il **colpevole**, capisco.»{leo} || “Yes. I say **something** to him and he answers,” Leo says. “If he's the **culprit**, I'll understand.”
+«Leo, con la signora Ornella si dà del Lei,» dice Chiara. «E con il gatto si dà del tu.»{chiara|dry} || “Leo, with Signora Ornella you use **Lei**,” Chiara says. “And with the cat you use **tu**.”
+«Ma al gatto dico sempre tu,» dice Leo. «Non sa niente di Lei.»{leo} || “But I always use **tu** with the cat,” Leo says. “He knows nothing about **Lei**.”
+«Giusto,»{ben} dice Kevin, e ride. || “Fair,” Kevin says, and laughs.
+Chiara piega la mappa e la mette in un cassetto. || Chiara folds the map and puts it in a drawer.
+«Ricapitoliamo,» dice. «**Alcuni** giorni al **mare**, **qualche** giorno in **montagna**, il resto a casa.»{chiara} || “Let's recap,” she says. “**Some** days at the **sea**, **a few** days in the **mountains**, the rest at home.”
+«E il **congelatore**?»{ben} || “And the **freezer**?”
+«Il **congelatore** resta vuoto,» dice Chiara. «Fino a quando **qualcuno** parla.»{chiara} || “The **freezer** stays empty,” Chiara says. “Until **someone** talks.”
+Leo prende lo zaino e cerca dentro. || Leo takes his backpack and looks inside.
+«Però io una cosa la voglio portare a casa,»{leo} dice. || “But there's one thing I want to bring home,” he says.
+«Che cosa?»{chiara} || “What?”
+«Un'**onda**,» dice Leo. «In una bottiglia.»{leo} || “A **wave**,” Leo says. “In a bottle.”
+«Un'**onda** in una bottiglia?»{ben} || “A **wave** in a bottle?”
+«Sì. Così a casa c'è sempre un po' di **mare**,» dice Leo, e chiude lo zaino. «Anche in **montagna**.»{leo} || “Yes. That way at home there's always a bit of **sea**,” Leo says, and closes his backpack. “Even in the **mountains**.”
+Kevin guarda Chiara e sorride. || Kevin looks at Chiara and smiles.
+_Un'**onda** in una bottiglia. E il **furto** senza **colpevole**._{ben} || *A **wave** in a bottle. And the **theft** without a **culprit**.*
+_Questa è la mia famiglia. **Ognuno** con la sua idea._{ben} || *This is my family. **Everyone** with their own idea.*
+
+# SCENE casa-franco | domenica sera | franco, lucia
+Lucia arriva alle nove con una borsa di stoffa e la chiave di casa. || Lucia arrives at nine with a cloth bag and the house key.
+Franco è in cucina, seduto, con un bicchiere di vino e la finestra aperta. || Franco is in the kitchen, sitting, with a glass of wine and the window open.
+«Buonasera,» dice Lucia. «Sai le novità della strada?»{lucia} || “Evening,” Lucia says. “Do you know the news on the street?”
+«Quale novità?»{franco} chiede Franco, tranquillo. || “What news?” Franco asks, calm.
+«C'è un **furto** in Via dei Tigli,» dice Lucia. «Un **furto** di gelato.»{lucia} || “There's a **theft** on Via dei Tigli,” Lucia says. “A gelato **theft**.”
+«Ah, sì?»{franco|too calm} || “Ah, really?” Franco says.
+«Il **congelatore** dei Carter è vuoto,» dice Lucia. «E adesso **qualcuno** cerca il **colpevole**.»{lucia} || “The Carters' **freezer** is empty,” Lucia says. “And now **someone** is looking for the **culprit**.”
+«**Qualcuno**? Chi?»{franco} || “**Someone**? Who?”
+«Kevin. E anche Leo,» dice Lucia. «**Sospettano** il gatto di Ornella.»{lucia} || “Kevin. And Leo too,” Lucia says. “They **suspect** Ornella's cat.”
+Franco beve un sorso di vino e non risponde. || Franco takes a sip of wine and doesn't answer.
+Lucia lo guarda con attenzione, poi apre il **congelatore**. || Lucia looks at him closely, then opens the **freezer**.
+Dentro c'è solo ghiaccio e una vaschetta vuota. || Inside there's only ice and an empty little tub.
+«Franco, io ti **sospetto**,»{lucia} dice Lucia, piano. || “Franco, I **suspect** you,” Lucia says, quietly.
+«Me? E perché?»{franco} || “Me? And why?”
+Lucia prende un tovagliolo dal tavolo: c'è un involucro del Bar Tigli, con un po' di **sabbia**. || Lucia picks up a napkin from the table: there's a Bar Tigli wrapper, with a bit of **sabbia** — **sand**.
+«E questo?»{lucia} chiede Lucia. || “And this?” Lucia asks.
+Franco guarda il tovagliolo e capisce che è finita. || Franco looks at the napkin and understands it's over.
+«Va bene,» dice. «Ho **assaggiato** un **cono**. Poi un **altro** **cono**.»{franco} || “All right,” he says. “I **tasted** one **cone**. Then **another** **cone**.”
+«E poi?»{lucia} || “And then?”
+«E poi è finito tutto,»{franco} dice Franco. «In **estate** il gelato è **qualcosa** di pericoloso.»{franco|dry} || “And then everything was gone,” Franco says. “In **summer** gelato is **something** dangerous.”
+Lucia si siede e ride, con la testa tra le mani. || Lucia sits down and laughs, her head in her hands.
+«Il **colpevole** sei tu,» dice. «E **ognuno** in strada **sospetta** il gatto.»{lucia} || “The **culprit** is you,” she says. “And **everyone** on the street **suspects** the cat.”
+«**Nessuno** deve saperlo,»{franco} dice Franco. || “**Nobody** must know,” Franco says.
+«**Nessuno**, tranne Kevin,» dice Lucia. «E lo sai anche tu.»{lucia} || “**Nobody**, except Kevin,” Lucia says. “And you know it too.”
+Franco sospira e guarda il **congelatore** vuoto. || Franco sighs and looks at the empty **freezer**.
+«Allora domani compro i **coni** per tutta la strada,» dice. «E per il gatto.»{franco} || “Then tomorrow I'll buy **cones** for the whole street,” he says. “And for the cat.”
+
+@grammar
+# Indefinite Adjectives and Pronouns
+
+## What it is
+
+In Italian, some words don't name a person or a thing exactly. They talk about people and things in a vague, general way: *someone*, *something*, *everyone*, *every*, *some*, *a few*, *many*, *few*, *nobody*, *other*. These are **indefinite adjectives and pronouns**.
+
+Some of them go **before a noun** (*ogni giorno*, *alcuni amici*, *qualche camera*) — then they are adjectives. Others **replace** the noun (*qualcuno*, *qualcosa*, *ognuno*) — then they are pronouns. This chapter uses them all over the place, because nobody in Via dei Tigli can agree on the summer holidays.
+
+## How it works
+
+### Invariable words (one form only)
+
+| Italian | English | Note |
+|---|---|---|
+| **qualcuno** | someone, somebody | always singular, for people |
+| **qualcosa** | something | always singular, for things |
+| **ogni** | every, each | + **singular** noun: *ogni anno*, *ogni estate* |
+| **qualche** | some, a few | + **singular** noun, but plural meaning: *qualche giorno* = a few days |
+
+*Qualcuno* and *qualcosa* never change: *qualcuno arriva*, *qualcosa è sparito*.
+
+**Careful:** *qualche* is followed by a singular noun, even though the meaning is plural. *Qualche amico* = "a few friends."
+
+### Words that change (agreement)
+
+| Singular | Plural | English |
+|---|---|---|
+| tutto / tutta | tutti / tutte | all, everyone, everything |
+| alcuni / alcune | (only plural) | some, a few |
+| molto / molta | molti / molte | much, many |
+| poco / poca | pochi / poche | little, few |
+| altro / altra | altri / altre | other, another |
+| nessuno / nessuna | (rare) | no one, not any |
+
+They agree with the noun they describe: *molti turisti* (m), *molte camere* (f), *pochi posti* (m), *poche parole* (f).
+
+### ognuno
+
+**Ognuno** (each one, everyone) is a pronoun, always singular: *ognuno ha la sua idea*. For all-female groups, *ognuna* exists, but it is rare and you can nearly always use *ognuno*.
+
+### Double negative with nessuno
+
+Italian loves the double negative. When *nessuno* comes **after** the verb, you keep *non*:
+
+- *Non c'è nessun mostro in questa casa.* (There's no monster in this house.)
+- *Nessuno deve saperlo.* — here *nessuno* is at the start, so *non* is not needed.
+- *Non ho visto nessuno.* (I didn't see anybody.)
+
+*Nessuno* can also drop its final **-o** before a masculine noun: *nessun problema*, *nessun mostro*.
+
+### tutto, tutti
+
+*Tutto/tutta* + noun means "all of": *tutto il gelato* (all the gelato), *tutta l'estate* (the whole summer). *Tutti/tutte* alone means "everyone": *tutti vogliono il mare*.
+
+## From the story
+
+- [[Qualcuno ha mangiato tutto il gelato.]] — *Qualcuno* is singular, and *tutto il gelato* is the "all of" use.
+- [[Ognuno ha la sua idea,]] — *Ognuno* is a pronoun, singular, and takes a singular verb.
+- [[E ogni anno pensi alla stessa cosa,]] — *ogni* is invariable and needs a singular noun: *anno*.
+- [[Alcuni alberghi sono già pieni,]] — *alcuni* agrees with the masculine plural *alberghi*.
+- [[Ma qualche camera libera c'è.]] — *qualche* + singular *camera*, but the meaning is plural.
+- [[Pochi posti e molti turisti,]] — *pochi* and *molti* both agree with their nouns.
+- [[Non c'è nessun mostro in questa casa,]] — *nessun* loses the -o before a masculine noun; *non* stays before the verb.
+- [[Nessuno deve saperlo.]] — here *nessuno* is the subject at the start, so there is no *non*.
+- [[In estate tutti vogliono la stessa cosa,]] — *tutti* alone means "everyone."
+- [[E ognuno in strada sospetta il gatto.]] — *ognuno* + singular verb *sospetta*.
+
+## Common mistakes
+
+1. **Qualche + plural.** English speakers say *qualche amici*. Wrong: *qualche amico* (singular noun, plural meaning).
+2. **Ogni + plural.** *Ogni anni* is wrong. *Ogni anno*, always singular.
+3. **Alcuni/alcune mixed up.** *Alcuni* is masculine, *alcune* feminine: *alcuni giorni*, *alcune settimane*.
+4. **Nessuno with a second *non* in the wrong place.** *Nessuno non lo sa* is wrong. Either *Nessuno lo sa* or *Non lo sa nessuno*.
+5. **Tutto vs tutti.** *Tutto il gelato* (all the gelato) but *tutti vogliono il gelato* (everyone wants gelato). Use *tutto* with a noun, *tutti* alone for people.
+6. **Qualcuno with a plural verb.** *Qualcuno hanno mangiato* is wrong. *Qualcuno ha mangiato.*
+
+## Practice
+
+Choose the right word, or put the verb in the right form.
+
+1. ______ (Ogni / Tutti) mattina vado al bar.
+2. Ho comprato ______ (qualche / alcuni) mele al mercato.
+3. ______ (Qualcuno / Alcuni) ha lasciato la porta aperta.
+4. In agosto ______ (molti / molto) negozi sono chiusi.
+5. Non conosco ______ (nessuno / nessun) in questa città.
+6. ______ (Ognuno / Ogni) dice la sua idea.
+7. Ci sono ______ (pochi / poco) posti in albergo.
+8. Voglio ______ (qualcosa / qualcuno) di dolce.
+
+### Answer key
+
+1. **Ogni** — invariable, + singular *mattina*.
+2. **qualche** — with a singular noun: *qualche mela*. (You could also say *alcune mele*.)
+3. **Qualcuno** — singular pronoun + singular verb *ha lasciato*.
+4. **molti** — agrees with masculine plural *negozi*.
+5. **nessuno** — after the verb, with *non* before it.
+6. **Ognuno** — pronoun + singular verb *dice*.
+7. **pochi** — agrees with masculine plural *posti*.
+8. **qualcosa** — a thing, not a person.

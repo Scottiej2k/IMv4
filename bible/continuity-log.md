@@ -308,6 +308,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** At dinner Kevin tells Franco, with Chiara and Leo present, he has a written Sartori offer in Milan, answer due Thursday; undecided. Kevin's yellow notebook now has a coffee stain.
 - **Planted:** Kevin’s Thursday decision; Sunday pancake breakfast at Franco’s; Nadia’s shower (22 guests, handwritten invitations, brindisi before cake, mint tea); Ornella told Leo to apologize on Wednesday for missed greetings.
 
+### s02e22 · Qualcosa per l'estate
+- **Happened:** The Carters' freezer is empty and so is Bar Tigli's: Kevin and Matteo each suspect the other, then Ornella's cat Pavarotti, and Matteo offers a free cone as a reward. The family agrees on a holiday split — some days at the sea, a few in the mountains, the rest at home.
+- **New facts:** Kevin's builder is **ditta Bertoldi**, whose recorded message says it reopens **August 26**; the worker Sergio leaves August messages. Franco and Anna spent thirty years at one hotel at Marina di Massa, closed ten years ago. Lucia has a key to Franco's house. Emma's friends include Bianca and Marco; Tommaso plays bass.
+- **Changed:** Franco is the gelato thief; only Lucia knows, and she says Kevin must be told. Emma secretly plans to spend the summer at home near Tommaso and the lake.
+- **Planted:** Franco's confession to Kevin; Emma's hidden summer plans. Kevin books a hotel Monday (one room, four beds, three nights).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
