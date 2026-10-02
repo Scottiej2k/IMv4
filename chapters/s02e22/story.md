@@ -46,7 +46,7 @@ Chiara appoggia il telefono sul tavolo e guarda suo marito. «Un **accordo** è 
 
 «Quale problema?»
 
-«La tua decisione. Sartori Alimentari. Risposta entro giovedì.»
+«La tua decisione. Sartori Alimentari ha dato una settimana in più. Risposta entro mercoledì.»
 
 Kevin si siede e guarda il soffitto. _In America è tutto più semplice._ _Scegli un posto, l'**albergo** è prenotato, e **ognuno** è contento._ _Qui **ognuno** **sceglie** una cosa diversa. E io non **scelgo** niente._
 
@@ -120,17 +120,17 @@ Kevin apre il Bar Tigli alle sei e mezza e accende la luce. La strada è vuota, 
 
 «Allora **ogni** **ditta** chiude,» dice Matteo. «La **ditta** edile, la **ditta** del gas, **molte** **ditte** di Milano.»
 
-«La **ditta** edile **riapre** a settembre,» dice Nadia, entrando dal retro. Nadia mette il grembiule e guarda Kevin con pazienza. «**Ogni** anno è così,» dice Nadia. «È la **pausa** di agosto.»
+«La **ditta** edile **riapre** a metà agosto,» dice Nadia, entrando dal retro. Nadia mette il grembiule e guarda Kevin con pazienza. «**Ogni** anno è così,» dice Nadia. «È la **pausa** di agosto.»
 
-«Ma è il primo agosto,» dice Kevin. «Il cantiere è fermo da dieci giorni.»
+«Ma è il primo agosto,» dice Kevin. «Il cantiere è fermo da una settimana.»
 
-«E **riapre** a settembre,» ripete Nadia.
+«E **riapre** a metà agosto,» ripete Nadia.
 
 «**Alcuni** operai partono per un mese,» dice Matteo. «**Alcuni** per **molti** giorni, altri per **pochi**.»
 
 «E **alcuni** spariti,» dice Nadia. «Sergio, per esempio.»
 
-«Sergio non è sparito,» dice Kevin. «Sergio ha mandato un messaggio.» Kevin prende il telefono e legge ad alta voce. «Nessun problema. Ci vediamo a settembre.»
+«Sergio non è sparito,» dice Kevin. «Sergio ha mandato un messaggio.» Kevin prende il telefono e legge ad alta voce. «Nessun problema. Ci vediamo a metà agosto.»
 
 Matteo ride e batte la mano sul bancone. «Ecco! Il classico messaggio di agosto,» dice Matteo. «**Ogni** anno lo stesso.»
 
@@ -140,7 +140,7 @@ Matteo ride e batte la mano sul bancone. «Ecco! Il classico messaggio di agosto
 
 «Anche tu?»
 
-«Io lavoro. Ho una farmacia,» dice Nadia. «E aspetto un bambino.»
+«Io lavoro. Sono in farmacia,» dice Nadia. «E aspetto un bambino.»
 
 «Però il bar è aperto,» dice Kevin.
 
@@ -228,9 +228,9 @@ Dopo pranzo, Chiara si siede al tavolo della cucina con il computer. Ha i capell
 
 «Possiamo **prenotare** **qualcosa** di semplice. Una camera, tre notti,» dice Chiara. «Ma non ci sono **molte** possibilità.» Kevin prende il telefono e chiama la **ditta** edile. Aspetta due minuti, poi parla con una voce registrata.
 
-«Buongiorno. La **ditta** Bertoldi **riapre** il ventisei agosto,» dice la voce.
+«Buongiorno. La **ditta** Bertoldi **riapre** il dodici agosto,» dice la voce.
 
-Kevin chiude la chiamata e appoggia il telefono sul tavolo. «La **ditta** **riapre** il ventisei agosto,» dice. «La casa resta mezza aperta tutta l'**estate**.»
+Kevin chiude la chiamata e appoggia il telefono sul tavolo. «La **ditta** **riapre** il dodici agosto,» dice. «La casa resta mezza aperta fino a Ferragosto.»
 
 «Certo,» dice Chiara, senza alzare gli occhi.
 
@@ -276,7 +276,7 @@ Kevin guarda la foto del gatto e poi guarda il **congelatore**. «Leo,» dice. �
 
 «Il gatto non è **qualcuno**. È un gatto,» dice Chiara.
 
-Leo alza la mano. «Io **sospetto** una cosa **altra**,» dice. «Anche nel frigo è sparito **qualcosa**.»
+Leo alza la mano. «Io **sospetto** un'**altra** cosa,» dice. «Anche nel frigo è sparito **qualcosa**.»
 
 «Che cosa?»
 
@@ -328,7 +328,7 @@ Kevin guarda il foglio sulla porta e sorride un po'. _Un **accordo** sulle **vac
 
 «E una **vacanza** da **scegliere**,» dice Chiara. «Come sempre.»
 
-«Come sempre,» ripete Kevin, e pensa a un **albergo** vicino al mare. _Un **albergo** con **qualche** stella, la **sabbia** e un **cono** per Leo._ _E **qualcosa** per me: una decisione. Prima di giovedì._
+«Come sempre,» ripete Kevin, e pensa a un **albergo** vicino al mare. _Un **albergo** con **qualche** stella, la **sabbia** e un **cono** per Leo._ _E **qualcosa** per me: una decisione. Prima di mercoledì._
 
 ## 4. Bar Tigli · sabato pomeriggio
 
@@ -412,9 +412,9 @@ Emma sorride, e Kevin lo vede. _Ha sorriso troppo in fretta._ _C'è un piano. E 
 
 Kevin la guarda e alza le sopracciglia. «Chitarra?»
 
-«Il basso, papà,» dice Emma. «Il basso di Tommaso.»
+«La chitarra, papà,» dice Emma. «La chitarra di Tommaso.»
 
-«Ah. Il basso,» dice Kevin. «Certo.»
+«Ah. La chitarra,» dice Kevin. «Certo.»
 
 Emma si alza e prende il suo **zaino** da sotto il tavolo. «Dobbiamo andare,» dice. «Bianca ci aspetta in piazza.»
 
@@ -440,11 +440,11 @@ Domenica mattina l'orto di Franco è pieno di luce e di pomodori rossi. Franco �
 
 «Puoi stare fermo e non calpestare l'insalata,» dice Franco. «È già **qualcosa**.»
 
-Kevin si siede su una cassetta di legno, attento ai piedi. «La **ditta** edile non **riapre** fino al ventisei agosto,» dice Kevin. «E la casa è ancora aperta.»
+Kevin si siede su una cassetta di legno, attento ai piedi. «La **ditta** edile non **riapre** fino al dodici agosto,» dice Kevin. «E la casa è ancora aperta.»
 
 «Certo,» dice Franco. «È la **pausa** di agosto. **Ogni** anno la stessa storia.»
 
-«Ma sono dieci giorni di silenzio, Franco,» dice Kevin. «**Molti** giorni.»
+«Ma è una settimana di silenzio, Franco,» dice Kevin. «**Molti** giorni.»
 
 «In agosto **molti** non lavorano,» dice Franco. «E **molti** di quelli che lavorano stanno a casa e non fanno niente.»
 
@@ -462,7 +462,7 @@ Franco guarda le piante e poi guarda lontano, verso la strada. «Io e Anna abbia
 
 «E il rumore?»
 
-«Una **onda**, due **onde**, e basta,» dice Franco. «Poi un libro e un caffè.»
+«Un'**onda**, due **onde**, e basta,» dice Franco. «Poi un libro e un caffè.»
 
 «Sembra perfetto,» dice Kevin, piano.
 
@@ -480,7 +480,7 @@ Franco guarda le piante e poi guarda lontano, verso la strada. «Io e Anna abbia
 
 Franco ride, una risata breve e secca. «E l'**albergo**?» chiede.
 
-«Cerco **qualcosa** semplice, vicino al **mare**,» dice Kevin. «Con la **spiaggia** davanti.»
+«Cerco **qualcosa** di semplice, vicino al **mare**,» dice Kevin. «Con la **spiaggia** davanti.»
 
 «Dammi un nome,» dice Franco. «Un **albergo** di tanti anni fa.» Franco pensa un momento, con gli occhi socchiusi. «C'è stato un **albergo** a Marina di Massa,» dice. «Ma ha chiuso dieci anni fa.»
 
@@ -488,7 +488,7 @@ Franco ride, una risata breve e secca. «E l'**albergo**?» chiede.
 
 «**Alcuni** **alberghi** di una volta non ci sono più,» dice Franco. «E gli altri sono pieni.»
 
-«Chi è il **colpevole**?»
+«Perché è tutto pieno?»
 
 «Agosto,» dice Franco. «Agosto è il **colpevole** delle camere piccole.»
 
@@ -532,7 +532,7 @@ Kevin ride e mette i pomodori nella tasca del giubbotto. «Franco, sai una cosa?
 
 «Certo,» dice Franco. «È una famiglia.»
 
-«E **ogni** **estate** la stessa storia,» dice Kevin. «Come la **ditta** che **riapre** a settembre.»
+«E **ogni** **estate** la stessa storia,» dice Kevin. «Come la **ditta** che **riapre** a metà agosto.»
 
 «Come la **pausa** di agosto,» dice Franco. «Tutto fermo, tutto uguale.»
 
@@ -662,9 +662,9 @@ Leo alza la mano con decisione. «Io ho una soluzione!» annuncia. «Domattina v
 
 «Sì. Io le dico **qualcosa** e lui risponde,» dice Leo. «Se è il **colpevole**, capisco.»
 
-«Leo, con la signora Ornella si dà del Lei,» dice Chiara. «E con il gatto si dà del tu.»
+«Leo, a un gatto non si fa un interrogatorio,» dice Chiara. «Neanche a Pavarotti.»
 
-«Ma al gatto dico sempre tu,» dice Leo. «Non sa niente di Lei.»
+«Non è un interrogatorio,» dice Leo. «Gli dico tu e lui mi dice la verità.»
 
 «Giusto,» dice Kevin, e ride.
 

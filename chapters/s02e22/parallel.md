@@ -42,7 +42,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara appoggia il telefono sul tavolo e guarda suo marito. | Chiara sets the phone on the table and looks at her husband. |
 | «Un **accordo** è facile, Kevin. Il problema è un altro.» | “A **deal** is easy, Kevin. The problem is something else.” |
 | «Quale problema?» | “What problem?” |
-| «La tua decisione. Sartori Alimentari. Risposta entro giovedì.» | “Your decision. Sartori Alimentari. Answer by Thursday.” |
+| «La tua decisione. Sartori Alimentari ha dato una settimana in più. Risposta entro mercoledì.» | “Your decision. Sartori Alimentari gave you one more week. Answer by Wednesday.” |
 | Kevin si siede e guarda il soffitto. | Kevin sits down and looks at the ceiling. |
 | _In America è tutto più semplice._ | _In America everything is simpler._ |
 | _Scegli un posto, l'**albergo** è prenotato, e **ognuno** è contento._ | _You choose a place, the **hotel** is booked, and **everyone** is happy._ |
@@ -100,22 +100,22 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah, i muratori,» dice Matteo, e sorride. «Kevin, siamo in agosto.» | “Ah, the builders,” Matteo says, and smiles. “Kevin, it's August.” |
 | «E allora?» | “So what?” |
 | «Allora **ogni** **ditta** chiude,» dice Matteo. «La **ditta** edile, la **ditta** del gas, **molte** **ditte** di Milano.» | “So **every** **company** closes,” Matteo says. “The construction **company**, the gas **company**, **many** **companies** in Milan.” |
-| «La **ditta** edile **riapre** a settembre,» dice Nadia, entrando dal retro. | “The construction **company** **reopens** in September,” Nadia says, coming in from the back. |
+| «La **ditta** edile **riapre** a metà agosto,» dice Nadia, entrando dal retro. | “The construction **company** **reopens** in mid-August,” Nadia says, coming in from the back. |
 | Nadia mette il grembiule e guarda Kevin con pazienza. | Nadia puts on her apron and looks at Kevin with patience. |
 | «**Ogni** anno è così,» dice Nadia. «È la **pausa** di agosto.» | “**Every** year it's like this,” Nadia says. “It's the August **break**.” |
-| «Ma è il primo agosto,» dice Kevin. «Il cantiere è fermo da dieci giorni.» | “But it's the first of August,” Kevin says. “The site has been stopped for ten days.” |
-| «E **riapre** a settembre,» ripete Nadia. | “And it **reopens** in September,” Nadia repeats. |
+| «Ma è il primo agosto,» dice Kevin. «Il cantiere è fermo da una settimana.» | “But it's the first of August,” Kevin says. “The site has been stopped for a week.” |
+| «E **riapre** a metà agosto,» ripete Nadia. | “And it **reopens** in mid-August,” Nadia repeats. |
 | «**Alcuni** operai partono per un mese,» dice Matteo. «**Alcuni** per **molti** giorni, altri per **pochi**.» | “**Some** workers leave for a month,” Matteo says. “**Some** for **many** days, others for **few**.” |
 | «E **alcuni** spariti,» dice Nadia. «Sergio, per esempio.» | “And **some** vanished,” Nadia says. “Sergio, for example.” |
 | «Sergio non è sparito,» dice Kevin. «Sergio ha mandato un messaggio.» | “Sergio hasn't vanished,” Kevin says. “Sergio sent a message.” |
 | Kevin prende il telefono e legge ad alta voce. | Kevin takes his phone and reads out loud. |
-| «Nessun problema. Ci vediamo a settembre.» | “No problem. See you in September.” |
+| «Nessun problema. Ci vediamo a metà agosto.» | “No problem. See you in mid-August.” |
 | Matteo ride e batte la mano sul bancone. | Matteo laughs and slaps his hand on the counter. |
 | «Ecco! Il classico messaggio di agosto,» dice Matteo. «**Ogni** anno lo stesso.» | “There! The classic August message,” Matteo says. “**Every** year the same.” |
 | «Ma io ho una cucina senza muro,» dice Kevin. «E **molte** cose da fare.» | “But I have a kitchen without a wall,” Kevin says. “And **many** things to do.” |
 | «Kevin, in agosto nessuno lavora,» dice Nadia. «**Molti** italiani sono al mare.» | “Kevin, in August nobody works,” Nadia says. “**Many** Italians are at the sea.” |
 | «Anche tu?» | “You too?” |
-| «Io lavoro. Ho una farmacia,» dice Nadia. «E aspetto un bambino.» | “I work. I have a pharmacy,” Nadia says. “And I'm expecting a baby.” |
+| «Io lavoro. Sono in farmacia,» dice Nadia. «E aspetto un bambino.» | “I work. I'm at the pharmacy,” Nadia says. “And I'm expecting a baby.” |
 | «Però il bar è aperto,» dice Kevin. | “But the bar is open,” Kevin says. |
 | «Il bar è sempre aperto,» dice Matteo. «È l'unica **ditta** che non chiude mai.» | “The bar is always open,” Matteo says. “It's the only **company** that never closes.” |
 | Kevin prende una bottiglia d'acqua dal **congelatore** piccolo del bar. | Kevin takes a bottle of water from the bar's small **freezer**. |
@@ -182,9 +182,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Possiamo **prenotare** **qualcosa** di semplice. Una camera, tre notti,» dice Chiara. «Ma non ci sono **molte** possibilità.» | “We can **book** **something** simple. One room, three nights,” Chiara says. “But there aren't **many** options.” |
 | Kevin prende il telefono e chiama la **ditta** edile. | Kevin takes his phone and calls the construction **company**. |
 | Aspetta due minuti, poi parla con una voce registrata. | He waits two minutes, then speaks with a recorded voice. |
-| «Buongiorno. La **ditta** Bertoldi **riapre** il ventisei agosto,» dice la voce. | “Good morning. The Bertoldi **company** **reopens** on August twenty-sixth,” the voice says. |
+| «Buongiorno. La **ditta** Bertoldi **riapre** il dodici agosto,» dice la voce. | “Good morning. The Bertoldi **company** **reopens** on August twelfth,” the voice says. |
 | Kevin chiude la chiamata e appoggia il telefono sul tavolo. | Kevin ends the call and puts the phone down on the table. |
-| «La **ditta** **riapre** il ventisei agosto,» dice. «La casa resta mezza aperta tutta l'**estate**.» | “The **company** **reopens** on August twenty-sixth,” he says. “The house stays half-open all **summer**.” |
+| «La **ditta** **riapre** il dodici agosto,» dice. «La casa resta mezza aperta fino a Ferragosto.» | “The **company** **reopens** on August twelfth,” he says. “The house stays half-open until Ferragosto.” |
 | «Certo,» dice Chiara, senza alzare gli occhi. | “Of course,” Chiara says, without looking up. |
 | «E **qualcosa** mi dice che anche gli altri lavori sono fermi,» dice Kevin. «La **pausa** è dappertutto.» | “And **something** tells me the other jobs are stopped too,” Kevin says. “The **break** is everywhere.” |
 | Chiara chiude il computer e lo guarda. | Chiara closes the laptop and looks at him. |
@@ -215,7 +215,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Bè, **qualcuno** lo ha aperto,» dice Kevin. «E il gatto è **qualcuno**.» | “Well, **someone** opened it,” Kevin says. “And the cat is **someone**.” |
 | «Il gatto non è **qualcuno**. È un gatto,» dice Chiara. | “The cat isn't **someone**. He's a cat,” Chiara says. |
 | Leo alza la mano. | Leo raises his hand. |
-| «Io **sospetto** una cosa **altra**,» dice. «Anche nel frigo è sparito **qualcosa**.» | “I **suspect** **another** thing,” he says. “Something disappeared from the fridge too.” |
+| «Io **sospetto** un'**altra** cosa,» dice. «Anche nel frigo è sparito **qualcosa**.» | “I **suspect** **another** thing,” he says. “Something disappeared from the fridge too.” |
 | «Che cosa?» | “What?” |
 | «Prosciutto. Ieri l'ho visto, adesso non c'è,» dice Leo. «E non l'ho mangiato io.» | “Ham. I saw it yesterday, now it isn't there,” Leo says. “And I didn't eat it.” |
 | Chiara lo guarda con attenzione. | Chiara looks at him closely. |
@@ -249,7 +249,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E una **vacanza** da **scegliere**,» dice Chiara. «Come sempre.» | “And a **vacation** to **choose**,” Chiara says. “Like always.” |
 | «Come sempre,» ripete Kevin, e pensa a un **albergo** vicino al mare. | “Like always,” Kevin repeats, and thinks of a **hotel** near the sea. |
 | _Un **albergo** con **qualche** stella, la **sabbia** e un **cono** per Leo._ | _A **hotel** with **a few** stars, the **sand** and a **cone** for Leo._ |
-| _E **qualcosa** per me: una decisione. Prima di giovedì._ | _And **something** for me: a decision. Before Thursday._ |
+| _E **qualcosa** per me: una decisione. Prima di mercoledì._ | _And **something** for me: a decision. Before Wednesday._ |
 
 ## 4. Bar Tigli · sabato pomeriggio
 
@@ -310,8 +310,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «La barca è piccola,» dice Emma. «Con uno **zaino** e una chitarra siamo già in due.» | “The boat is small,” Emma says. “With one **backpack** and a guitar we're already two.” |
 | Kevin la guarda e alza le sopracciglia. | Kevin looks at her and raises his eyebrows. |
 | «Chitarra?» | “Guitar?” |
-| «Il basso, papà,» dice Emma. «Il basso di Tommaso.» | “The bass, Dad,” Emma says. “Tommaso's bass.” |
-| «Ah. Il basso,» dice Kevin. «Certo.» | “Ah. The bass,” Kevin says. “Of course.” |
+| «La chitarra, papà,» dice Emma. «La chitarra di Tommaso.» | “The guitar, Dad,” Emma says. “Tommaso's guitar.” |
+| «Ah. La chitarra,» dice Kevin. «Certo.» | “Ah. The guitar,” Kevin says. “Of course.” |
 | Emma si alza e prende il suo **zaino** da sotto il tavolo. | Emma gets up and takes her **backpack** from under the table. |
 | «Dobbiamo andare,» dice. «Bianca ci aspetta in piazza.» | “We have to go,” she says. “Bianca is waiting for us in the piazza.” |
 | «Va bene,» dice Kevin. «Però attenzione: a casa il gelato è un **altro** **furto**, e io controllo.» | “OK,” Kevin says. “But careful: at home the gelato is **another** **theft**, and I'm checking.” |
@@ -348,9 +348,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Buongiorno, Franco,» dice Kevin. «Posso aiutarti?» | “Morning, Franco,” Kevin says. “Can I help you?” |
 | «Puoi stare fermo e non calpestare l'insalata,» dice Franco. «È già **qualcosa**.» | “You can stand still and not step on the lettuce,” Franco says. “That's already **something**.” |
 | Kevin si siede su una cassetta di legno, attento ai piedi. | Kevin sits on a wooden crate, careful with his feet. |
-| «La **ditta** edile non **riapre** fino al ventisei agosto,» dice Kevin. «E la casa è ancora aperta.» | “The construction **company** doesn't **reopen** until August twenty-sixth,” Kevin says. “And the house is still open.” |
+| «La **ditta** edile non **riapre** fino al dodici agosto,» dice Kevin. «E la casa è ancora aperta.» | “The construction **company** doesn't **reopen** until August twelfth,” Kevin says. “And the house is still open.” |
 | «Certo,» dice Franco. «È la **pausa** di agosto. **Ogni** anno la stessa storia.» | “Of course,” Franco says. “It's the August **break**. **Every** year the same story.” |
-| «Ma sono dieci giorni di silenzio, Franco,» dice Kevin. «**Molti** giorni.» | “But it's ten days of silence, Franco,” Kevin says. “**Many** days.” |
+| «Ma è una settimana di silenzio, Franco,» dice Kevin. «**Molti** giorni.» | “But it's a week of silence, Franco,” Kevin says. “**Many** days.” |
 | «In agosto **molti** non lavorano,» dice Franco. «E **molti** di quelli che lavorano stanno a casa e non fanno niente.» | “In August **many** don't work,” Franco says. “And **many** of those who do work stay home and do nothing.” |
 | «Però le **vacanze** sono care, e gli **alberghi** sono pieni,» dice Kevin. «Chiara ieri ha provato a **prenotare** **qualcosa** in **montagna**.» | “But the **vacation** is expensive, and the **hotels** are full,” Kevin says. “Yesterday Chiara tried to **book** **something** in the **mountains**.” |
 | «E ha trovato **poche** camere, immagino,» dice Franco. | “And she found **few** rooms, I imagine,” Franco says. |
@@ -363,7 +363,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin resta in silenzio, con il caffè in mano. | Kevin stays silent, with the coffee in his hand. |
 | «La **spiaggia** presto la mattina,» dice Franco. «Poca gente, la **sabbia** fredda.» | “The **beach** early in the morning,” Franco says. “Few people, cold **sand**.” |
 | «E il rumore?» | “And the noise?” |
-| «Una **onda**, due **onde**, e basta,» dice Franco. «Poi un libro e un caffè.» | “One **wave**, two **waves**, and that's it,” Franco says. “Then a book and a coffee.” |
+| «Un'**onda**, due **onde**, e basta,» dice Franco. «Poi un libro e un caffè.» | “One **wave**, two **waves**, and that's it,” Franco says. “Then a book and a coffee.” |
 | «Sembra perfetto,» dice Kevin, piano. | “Sounds perfect,” Kevin says, quietly. |
 | «È semplice, il **mare**,» dice Franco. «**Alcune** cose, **poche** parole, un **accordo** con la famiglia.» | “The **sea** is simple,” Franco says. “**A few** things, **few** words, a **deal** with the family.” |
 | «Un **accordo**?» | “A **deal**?” |
@@ -373,13 +373,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Faccio un piano,» dice Kevin. «**Qualche** giorno qua, **qualche** giorno là.» | “I make a plan,” Kevin says. “**A few** days here, **a few** days there.” |
 | Franco ride, una risata breve e secca. | Franco laughs, a short, dry laugh. |
 | «E l'**albergo**?» chiede. | “And the **hotel**?” Franco asks. |
-| «Cerco **qualcosa** semplice, vicino al **mare**,» dice Kevin. «Con la **spiaggia** davanti.» | “I'm looking for **something** simple, near the **sea**,” Kevin says. “With the **beach** in front.” |
+| «Cerco **qualcosa** di semplice, vicino al **mare**,» dice Kevin. «Con la **spiaggia** davanti.» | “I'm looking for **something** simple, near the **sea**,” Kevin says. “With the **beach** in front.” |
 | «Dammi un nome,» dice Franco. «Un **albergo** di tanti anni fa.» | “Give me a name,” Franco says. “A **hotel** from many years ago.” |
 | Franco pensa un momento, con gli occhi socchiusi. | Franco thinks for a moment, his eyes half-closed. |
 | «C'è stato un **albergo** a Marina di Massa,» dice. «Ma ha chiuso dieci anni fa.» | “There was a **hotel** in Marina di Massa,” he says. “But it closed ten years ago.” |
 | «Un **altro**?» | “**Another** one?” |
 | «**Alcuni** **alberghi** di una volta non ci sono più,» dice Franco. «E gli altri sono pieni.» | “**Some** **hotels** from back then aren't there anymore,” Franco says. “And the others are full.” |
-| «Chi è il **colpevole**?» | “Who's the **culprit**?” |
+| «Perché è tutto pieno?» | “Why is everything full?” |
 | «Agosto,» dice Franco. «Agosto è il **colpevole** delle camere piccole.» | “August,” Franco says. “August is the **culprit** of the small rooms.” |
 | Kevin scrive sul quaderno giallo e poi chiude la penna. | Kevin writes in the yellow notebook and then closes the pen. |
 | «Allora **prenoto** io,» dice. «Una camera, quattro letti.» | “Then I'll **book** it,” he says. “One room, four beds.” |
@@ -408,7 +408,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin ride e mette i pomodori nella tasca del giubbotto. | Kevin laughs and puts the tomatoes in his jacket pocket. |
 | «Franco, sai una cosa?» dice. «**Ognuno** in questa famiglia vuole una cosa diversa.» | “Franco, you know something?” he says. “**Everyone** in this family wants something different.” |
 | «Certo,» dice Franco. «È una famiglia.» | “Of course,” Franco says. “It's a family.” |
-| «E **ogni** **estate** la stessa storia,» dice Kevin. «Come la **ditta** che **riapre** a settembre.» | “And **every** **summer** the same story,” Kevin says. “Like the **company** that **reopens** in September.” |
+| «E **ogni** **estate** la stessa storia,» dice Kevin. «Come la **ditta** che **riapre** a metà agosto.» | “And **every** **summer** the same story,” Kevin says. “Like the **company** that **reopens** in mid-August.” |
 | «Come la **pausa** di agosto,» dice Franco. «Tutto fermo, tutto uguale.» | “Like the August **break**,” Franco says. “Everything stopped, everything the same.” |
 | Kevin si alza dalla cassetta e si sistema il giubbotto. | Kevin gets up from the crate and adjusts his jacket. |
 | «Io **prenoto** l'**albergo** domani,» dice. «E poi vediamo.» | “I'll **book** the **hotel** tomorrow,” he says. “And then we'll see.” |
@@ -498,8 +498,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io ho una soluzione!» annuncia. «Domattina vado da Ornella e chiedo al gatto.» | “I have a solution!” Leo announces. “Tomorrow morning I'll go to Ornella and ask the cat.” |
 | «Al gatto?» | “The cat?” |
 | «Sì. Io le dico **qualcosa** e lui risponde,» dice Leo. «Se è il **colpevole**, capisco.» | “Yes. I say **something** to him and he answers,” Leo says. “If he's the **culprit**, I'll understand.” |
-| «Leo, con la signora Ornella si dà del Lei,» dice Chiara. «E con il gatto si dà del tu.» | “Leo, with Signora Ornella you use **Lei**,” Chiara says. “And with the cat you use **tu**.” |
-| «Ma al gatto dico sempre tu,» dice Leo. «Non sa niente di Lei.» | “But I always use **tu** with the cat,” Leo says. “He knows nothing about **Lei**.” |
+| «Leo, a un gatto non si fa un interrogatorio,» dice Chiara. «Neanche a Pavarotti.» | “Leo, you don't interrogate a cat,” Chiara says. “Not even Pavarotti.” |
+| «Non è un interrogatorio,» dice Leo. «Gli dico tu e lui mi dice la verità.» | “It's not an interrogation,” Leo says. “I say tu to him and he tells me the truth.” |
 | «Giusto,» dice Kevin, e ride. | “Fair,” Kevin says, and laughs. |
 | Chiara piega la mappa e la mette in un cassetto. | Chiara folds the map and puts it in a drawer. |
 | «Ricapitoliamo,» dice. «**Alcuni** giorni al **mare**, **qualche** giorno in **montagna**, il resto a casa.» | “Let's recap,” she says. “**Some** days at the **sea**, **a few** days in the **mountains**, the rest at home.” |
@@ -533,7 +533,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Dentro c'è solo ghiaccio e una vaschetta vuota. | Inside there's only ice and an empty little tub. |
 | «Franco, io ti **sospetto**,» dice Lucia, piano. | “Franco, I **suspect** you,” Lucia says, quietly. |
 | «Me? E perché?» | “Me? And why?” |
-| Lucia prende un tovagliolo dal tavolo: c'è un involucro del Bar Tigli, con un po' di **sabbia**. | Lucia picks up a napkin from the table: there's a Bar Tigli wrapper, with a bit of **sabbia** — **sand**. |
+| Lucia prende un tovagliolo dal tavolo: c'è un involucro del Bar Tigli, con un po' di **sabbia**. | Lucia picks up a napkin from the table: there's a Bar Tigli wrapper, with a bit of **sand**. |
 | «E questo?» chiede Lucia. | “And this?” Lucia asks. |
 | Franco guarda il tovagliolo e capisce che è finita. | Franco looks at the napkin and understands it's over. |
 | «Va bene,» dice. «Ho **assaggiato** un **cono**. Poi un **altro** **cono**.» | “All right,” he says. “I **tasted** one **cone**. Then **another** **cone**.” |

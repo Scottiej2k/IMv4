@@ -1255,7 +1255,7 @@
           "s02e22-1-034:0-1"
         ],
         [
-          "s02e22-1-035:0-7"
+          "s02e22-1-035:0-13"
         ]
       ],
       "request": {
@@ -1288,7 +1288,7 @@
               },
               {
                 "type": "text",
-                "text": "La tua decisione. Sartori Alimentari. Risposta entro giovedì.",
+                "text": "La tua decisione. Sartori Alimentari ha dato una settimana in più. Risposta entro mercoledì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3825,10 +3825,10 @@
       ],
       "words": [
         [
-          "s02e22-2-009:0-5"
+          "s02e22-2-009:0-6"
         ],
         [
-          "s02e22-2-009:6-10",
+          "s02e22-2-009:7-11",
           "s02e22-2-010:0-8"
         ],
         [
@@ -3849,7 +3849,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La ditta edile riapre a settembre,",
+                "text": "La ditta edile riapre a metà agosto,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3977,7 +3977,7 @@
               },
               {
                 "type": "text",
-                "text": "Il cantiere è fermo da dieci giorni.",
+                "text": "Il cantiere è fermo da una settimana.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4022,10 +4022,10 @@
       ],
       "words": [
         [
-          "s02e22-2-013:0-3"
+          "s02e22-2-013:0-4"
         ],
         [
-          "s02e22-2-013:4-5"
+          "s02e22-2-013:5-6"
         ]
       ],
       "request": {
@@ -4036,7 +4036,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "E riapre a settembre,",
+                "text": "E riapre a metà agosto,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4275,7 +4275,7 @@
           "s02e22-2-017:0-8"
         ],
         [
-          "s02e22-2-018:0-5"
+          "s02e22-2-018:0-6"
         ],
         [
           "s02e22-2-019:0-7"
@@ -4333,7 +4333,7 @@
               },
               {
                 "type": "text",
-                "text": "Nessun problema. Ci vediamo a settembre.",
+                "text": "Nessun problema. Ci vediamo a metà agosto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4667,7 +4667,7 @@
               },
               {
                 "type": "text",
-                "text": "Io lavoro. Ho una farmacia,",
+                "text": "Io lavoro. Sono in farmacia,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8313,7 +8313,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Buongiorno. La ditta Bertoldi riapre il ventisei agosto,",
+                "text": "Buongiorno. La ditta Bertoldi riapre il dodici agosto,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8375,7 +8375,7 @@
           "s02e22-3-014:6-6"
         ],
         [
-          "s02e22-3-014:7-13"
+          "s02e22-3-014:7-14"
         ]
       ],
       "request": {
@@ -8386,7 +8386,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La ditta riapre il ventisei agosto,",
+                "text": "La ditta riapre il dodici agosto,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8408,7 +8408,7 @@
               },
               {
                 "type": "text",
-                "text": "La casa resta mezza aperta tutta l'estate.",
+                "text": "La casa resta mezza aperta fino a Ferragosto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10203,13 +10203,13 @@
       ],
       "words": [
         [
-          "s02e22-3-045:0-4"
+          "s02e22-3-045:0-3"
         ],
         [
-          "s02e22-3-045:5-5"
+          "s02e22-3-045:4-4"
         ],
         [
-          "s02e22-3-045:6-11"
+          "s02e22-3-045:5-10"
         ]
       ],
       "request": {
@@ -10220,7 +10220,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Io sospetto una cosa altra,",
+                "text": "Io sospetto un'altra cosa,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12140,7 +12140,7 @@
               },
               {
                 "type": "text",
-                "text": "Un albergo con qualche stella, la sabbia e un cono per Leo. E qualcosa per me: una decisione. Prima di giovedì.",
+                "text": "Un albergo con qualche stella, la sabbia e un cono per Leo. E qualcosa per me: una decisione. Prima di mercoledì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15336,7 +15336,7 @@
               },
               {
                 "type": "text",
-                "text": "Il basso, papà,",
+                "text": "La chitarra, papà,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15406,7 +15406,7 @@
               },
               {
                 "type": "text",
-                "text": "Il basso di Tommaso.",
+                "text": "La chitarra di Tommaso.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15472,7 +15472,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ah. Il basso,",
+                "text": "Ah. La chitarra,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16658,7 +16658,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La ditta edile non riapre fino al ventisei agosto,",
+                "text": "La ditta edile non riapre fino al dodici agosto,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16826,7 +16826,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ma sono dieci giorni di silenzio, Franco,",
+                "text": "Ma è una settimana di silenzio, Franco,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17531,7 +17531,7 @@
           "s02e22-5-021:0-2"
         ],
         [
-          "s02e22-5-022:0-5"
+          "s02e22-5-022:0-4"
         ]
       ],
       "request": {
@@ -17553,7 +17553,7 @@
               },
               {
                 "type": "text",
-                "text": "Una onda, due onde, e basta,",
+                "text": "Un'onda, due onde, e basta,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17598,10 +17598,10 @@
       ],
       "words": [
         [
-          "s02e22-5-022:6-7"
+          "s02e22-5-022:5-6"
         ],
         [
-          "s02e22-5-022:8-13"
+          "s02e22-5-022:7-12"
         ]
       ],
       "request": {
@@ -18273,13 +18273,13 @@
       ],
       "words": [
         [
-          "s02e22-5-032:0-5"
+          "s02e22-5-032:0-6"
         ],
         [
-          "s02e22-5-032:6-7"
+          "s02e22-5-032:7-8"
         ],
         [
-          "s02e22-5-032:8-11"
+          "s02e22-5-032:9-12"
         ]
       ],
       "request": {
@@ -18290,7 +18290,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Cerco qualcosa semplice, vicino al mare,",
+                "text": "Cerco qualcosa di semplice, vicino al mare,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -18655,7 +18655,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Chi è il colpevole?",
+                "text": "Perché è tutto pieno?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20409,7 +20409,7 @@
           "s02e22-5-067:6-7"
         ],
         [
-          "s02e22-5-067:8-14"
+          "s02e22-5-067:8-15"
         ]
       ],
       "request": {
@@ -20442,7 +20442,7 @@
               },
               {
                 "type": "text",
-                "text": "Come la ditta che riapre a settembre.",
+                "text": "Come la ditta che riapre a metà agosto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -25350,7 +25350,7 @@
           "s02e22-6-075:9-10"
         ],
         [
-          "s02e22-6-075:11-18"
+          "s02e22-6-075:11-13"
         ]
       ],
       "request": {
@@ -25361,7 +25361,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Leo, con la signora Ornella si dà del Lei,",
+                "text": "Leo, a un gatto non si fa un interrogatorio,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -25383,7 +25383,7 @@
               },
               {
                 "type": "text",
-                "text": "E con il gatto si dà del tu.",
+                "text": "Neanche a Pavarotti.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -25428,13 +25428,13 @@
       ],
       "words": [
         [
-          "s02e22-6-076:0-5"
+          "s02e22-6-076:0-3"
         ],
         [
-          "s02e22-6-076:6-7"
+          "s02e22-6-076:4-5"
         ],
         [
-          "s02e22-6-076:8-12"
+          "s02e22-6-076:6-14"
         ]
       ],
       "request": {
@@ -25445,7 +25445,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ma al gatto dico sempre tu,",
+                "text": "Non è un interrogatorio,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -25467,7 +25467,7 @@
               },
               {
                 "type": "text",
-                "text": "Non sa niente di Lei.",
+                "text": "Gli dico tu e lui mi dice la verità.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

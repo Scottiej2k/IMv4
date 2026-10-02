@@ -11,7 +11,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **sospettare**<br>(v.) · to suspect | «Io? No!» dice Leo. «Io **sospetto** papà.» | “Me? No!” Leo says. “I **suspect** Dad.” |
 | **assaggiare**<br>(v.) · to taste; to try food | «Posso **assaggiare**?» chiede. «Solo un assaggio piccolo.» | “Can I **taste**?” he asks. “Just a small taste.” |
 | **prenotare**<br>(v.) · to book; to reserve | «Quindi non possiamo **prenotare**,» dice Kevin. | “So we can't **book**,” Kevin says. |
-| **riaprire**<br>(v.) · to reopen | «E **riapre** a settembre,» ripete Nadia. | “And it **reopens** in September,” Nadia repeats. |
+| **riaprire**<br>(v.) · to reopen | «E **riapre** a metà agosto,» ripete Nadia. | “And it **reopens** in mid-August,” Nadia repeats. |
 | **scegliere**<br>(v.) · to choose | «E io **scelgo** tutto!» ripete Leo. | “And I **choose** everything!” Leo repeats. |
 
 ## Nouns
@@ -28,7 +28,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **il cono**<br>(n., m) · cone; ice cream cone | «Da dove arrivano quei **coni**?» | “Where do those **cones** come from?” |
 | **il congelatore**<br>(n., m) · freezer | «E va vicino al **congelatore**?» | “And does he go near the **freezer**?” |
 | **il furto**<br>(n., m) · theft | _Un **furto** senza colpevole. Per ora._ | _A **theft** without a culprit. For now._ |
-| **il colpevole**<br>(n., m) · culprit; guilty one | «Chi è il **colpevole**?» | “Who's the **culprit**?” |
+| **il colpevole**<br>(n., m) · culprit; guilty one | _Ma chi è il **colpevole**?_ | _But who is the **culprit**?_ |
 | **l'albergo**<br>(n., m) · hotel | «Buongiorno. Ho guardato qualche **albergo** in montagna.» | “Morning. I looked at a few **hotels** in the mountains.” |
 | **la pausa**<br>(n., f) · break; pause | «Ogni anno è così,» dice Nadia. «È la **pausa** di agosto.» | “Every year it's like this,” Nadia says. “It's the August **break**.” |
 | **la ditta**<br>(n., f) · company; firm | Kevin prende il telefono e chiama la **ditta** edile. | Kevin takes his phone and calls the construction **company**. |

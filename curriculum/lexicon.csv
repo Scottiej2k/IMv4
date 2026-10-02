@@ -20,7 +20,7 @@ la classe,noun,f,class,A1,s01e01,s01e06 s01e07 s01e09 s01e10 s01e22 s02e04 s02e0
 la finestra,noun,f,window,A1,s01e01,s01e02 s01e03 s01e04 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e09 s02e10 s02e11 s02e12 s02e13 s02e15 s02e16 s02e17 s02e18 s02e19 s02e22 s05e03,"finestra, finestre, la finestra"
 la maestra,noun,f,primary-school teacher,A1,s01e01,s01e09 s01e10 s01e12 s01e20 s01e22 s02e04 s02e06 s02e08 s02e15 s02e16,"la maestra, maestra, maestre"
 la scuola,noun,f,school,A1,s01e01,s01e07 s01e09 s01e10 s01e11 s01e12 s01e14 s01e16 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e08 s02e09 s02e11 s02e12 s02e13 s02e14 s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,"la scuola, scuola, scuole"
-la signora,noun,f,"lady, madam",A1,s01e01,s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,"la signora, signora"
+la signora,noun,f,"lady, madam",A1,s01e01,s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e18 s02e19 s02e20 s02e21 s05e03,"la signora, signora"
 la strada,noun,f,"street, road",A1,s01e01,s01e02 s01e04 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e13 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e22 s01e23 s01e24 s01e25 s02e01 s02e03 s02e04 s02e05 s02e06 s02e07 s02e09 s02e12 s02e13 s02e14 s02e15 s02e16 s02e19 s02e21 s02e22 s05e03,"la strada, strada, strade"
 mi chiamo,expression,,my name is,A1,s01e01,s01e03 s01e07 s01e10 s01e11 s01e12 s01e13 s01e19 s01e23 s02e01 s02e02 s02e05 s02e07 s02e13 s02e15 s02e16 s02e18 s02e19 s02e21,"mi chiamo, si chiama, ti chiami"
 nuovo,adjective,,new,A1,s01e01,s01e02 s01e03 s01e04 s01e05 s01e06 s01e07 s01e08 s01e09 s01e10 s01e11 s01e12 s01e13 s01e14 s01e15 s01e16 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,"nuova, nuove, nuovi, nuovo"
@@ -269,7 +269,7 @@ la bugia,noun,f,lie,A1,s01e11,s01e13 s01e14 s01e15 s01e23 s01e24 s02e06 s02e08 s
 la macchina fotografica,noun,f,camera,A1,s01e11,,"la macchina fotografica, macchina fotografica"
 la metropolitana,noun,f,"subway, metro",A1,s01e11,s02e19,"la metropolitana, metropolitana"
 la scusa,noun,f,excuse,A1,s01e11,s01e12 s01e13 s01e14 s01e19 s01e20 s01e21 s01e22 s01e24 s02e03 s02e04 s02e06 s02e08 s02e09 s02e11 s02e13 s02e14 s02e15 s02e18 s02e20 s02e21 s05e03,"la scusa, scusa, scuse"
-la verità,noun,f,truth,A1,s01e11,s01e15 s01e17 s01e19 s01e24 s01e25 s02e02 s02e06 s02e13 s05e03,"la verità, verità"
+la verità,noun,f,truth,A1,s01e11,s01e15 s01e17 s01e19 s01e24 s01e25 s02e02 s02e06 s02e13 s02e22 s05e03,"la verità, verità"
 nascondere,verb,,to hide,A1,s01e11,s01e13 s02e02 s02e03 s02e07,"nasconde, nascondere, nascondo, nascondono"
 ridere,verb,,to laugh,A1,s01e11,s01e12 s01e13 s01e14 s01e15 s01e17 s01e18 s01e19 s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,"ride, ridere, rido, ridono"
 salire,verb,,"to get on, to board",A1,s01e11,s01e12 s01e17 s01e18 s01e19 s01e25 s02e01 s02e03 s02e04 s02e05 s02e07 s02e11 s02e12 s02e13 s02e15 s02e19 s02e20 s05e03,"sale, salgo, salgono, saliamo, salire"
@@ -283,7 +283,7 @@ il giornalista,noun,m,journalist,A1,s01e12,,"giornalista, giornalisti, il giorna
 il matrimonio,noun,m,"wedding, marriage",A1,s01e12,s02e09 s02e17,"il matrimonio, matrimoni, matrimonio"
 il punto interrogativo,expression,,question mark,A1,s01e12,s01e15,"il punto interrogativo, punti interrogativi, punto interrogativo"
 il ramo,noun,m,branch,A1,s01e12,s01e13,"il ramo, rami, ramo"
-in più,expression,,"extra, one more",A1,s01e12,s02e01 s02e05 s02e09 s02e11 s02e12 s05e03,in più
+in più,expression,,"extra, one more",A1,s01e12,s02e01 s02e05 s02e09 s02e11 s02e12 s02e22 s05e03,in più
 l'albero genealogico,expression,,family tree,A1,s01e12,,"alberi genealogici, albero genealogico, l'albero genealogico"
 la foglia,noun,f,leaf,A1,s01e12,s02e05 s02e07 s02e09 s02e13 s05e03,"foglia, foglie, la foglia"
 la prozia,noun,f,great-aunt,A1,s01e12,,"la prozia, prozia, prozie"
@@ -427,7 +427,7 @@ prepararsi,verb,,to get ready,A1,s01e18,,"ci prepariamo, mi preparo, prepararsi,
 svegliarsi,verb,,to wake up,A1,s01e18,s01e23 s01e24 s05e03,"ci svegliamo, mi sveglio, si sveglia, si svegliano, svegliarsi, ti svegli"
 vestirsi,verb,,to get dressed,A1,s01e18,s02e09,"ci vestiamo, mi vesto, si veste, si vestono, ti vesti, vestirsi"
 bere,verb,,to drink,A1,s01e19,s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e16 s02e17 s02e18 s02e19 s02e21 s02e22 s05e03,"bere, beve, bevete, bevi, beviamo, bevo, bevono"
-dare,verb,,to give,A1,s01e19,s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e03 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e15 s02e17 s02e18 s02e19 s02e21 s02e22 s05e03,"dai, danno, dare, date, diamo, do, dà"
+dare,verb,,to give,A1,s01e19,s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e03 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e15 s02e17 s02e18 s02e19 s02e21 s05e03,"dai, danno, dare, date, diamo, do, dà"
 dire,verb,,"to say, to tell",A1,s01e19,s01e20 s01e21 s01e22 s01e23 s01e24 s01e25 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,"dice, dici, diciamo, dico, dicono, dire, dite"
 il coprifuoco,noun,m,curfew,A1,s01e19,,"coprifuoco, il coprifuoco"
 il locale,noun,m,"venue, place to go out",A1,s01e19,s02e07,"il locale, locale, locali"
@@ -855,7 +855,7 @@ la ditta,noun,f,"company, firm",A2,s02e14,s02e22,"ditta, ditte, la ditta"
 la garanzia,noun,f,warranty,A2,s02e14,,"garanzia, garanzie, la garanzia"
 la linea,noun,f,(phone) line,A2,s02e14,s05e03,"la linea, linea, linee"
 la riparazione,noun,f,repair,A2,s02e14,,"la riparazione, riparazione, riparazioni"
-neanche,adverb,,not even; neither,A2,s02e14,s02e15 s02e18 s02e20,neanche
+neanche,adverb,,not even; neither,A2,s02e14,s02e15 s02e18 s02e20 s02e22,neanche
 nessuno,pronoun,,nobody; anybody,A2,s02e14,s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,"nessun, nessuna, nessuno"
 niente,pronoun,,nothing; anything,A2,s02e14,s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,niente
 più,adverb,,any more; more,A2,s02e14,s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s05e03,più
@@ -864,8 +864,8 @@ sbuffare,verb,,"to huff, to puff",A2,s02e14,s02e21,"sbuffa, sbuffano, sbuffare, 
 urlare,verb,,"to shout, to yell",A2,s02e14,s02e21,"urla, urlano, urlare, urlato, urlo"
 annotare,verb,,"to note down, to write down",A2,s02e15,,"annota, annotare, annotato, annoto"
 cortese,adjective,,"kind, courteous",A2,s02e15,,"cortese, cortesi"
-dare del lei,expression,,"to use formal ""Lei"" with someone",A2,s02e15,s02e22,"dare del lei, del lei, dà del lei"
-dare del tu,expression,,"to use ""tu"" with someone",A2,s02e15,s02e21 s02e22,"dare del tu, darsi del tu, del tu, diamoci del tu, dà del tu"
+dare del lei,expression,,"to use formal ""Lei"" with someone",A2,s02e15,,"dare del lei, del lei, dà del lei"
+dare del tu,expression,,"to use ""tu"" with someone",A2,s02e15,s02e21,"dare del tu, darsi del tu, del tu, diamoci del tu, dà del tu"
 gentilissimo,adjective,,extremely kind,A2,s02e15,,"gentilissima, gentilissimo"
 il direttore,noun,m,"headmaster, principal",A2,s02e15,s05e03,"direttore, il direttore"
 il dottore,noun,m,doctor; (title of respect),A2,s02e15,,"dottor, dottore, dottoressa, il dottore"
@@ -998,7 +998,7 @@ l'usanza,noun,f,custom,A2,s02e21,,"l'usanza, usanza, usanze"
 la posata,noun,f,piece of cutlery,A2,s02e21,,"la posata, posata, posate"
 la puntualità,noun,f,punctuality,A2,s02e21,,"la puntualità, puntualità"
 lo sbaglio,noun,m,mistake,A2,s02e21,,"lo sbaglio, sbagli, sbaglio"
-non si fa,expression,,you don't do that,A2,s02e21,,non si fa
+non si fa,expression,,you don't do that,A2,s02e21,s02e22,non si fa
 normale,adjective,,normal,A2,s02e21,s05e03,"normale, normali"
 puntuale,adjective,,"punctual, on time",A2,s02e21,,"puntuale, puntuali"
 ringraziare,verb,,to thank,A2,s02e21,,"ringrazia, ringraziano, ringraziare"
