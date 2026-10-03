@@ -490,7 +490,7 @@ Alle otto in punto suona il campanello. Kevin apre la porta con un sorriso grand
 
 «Grazie. È **pesce** al forno. Con limone,» dice Kevin.
 
-Chiara arriva e stringe la mano ai due **invitati**. «Buonasera, signor Marchetti. Buonasera, signora. Vogliate scusare il disordine,»
+Chiara arriva e stringe la mano ai due **invitati**. «Buonasera, signor Marchetti. Buonasera, signora. Scusate il disordine,»
 
 «Nessun disordine. È tutto molto bello,» dice Marchetti.
 
@@ -590,7 +590,7 @@ Emma guarda il papà e poi guarda Marchetti. «Papà ha fatto il dolce americano
 
 «Sì, certo,» dice Chiara.
 
-«In studio Lei è precisa e silenziosa. Qui è un'altra persona,» dice Marchetti. Chiara guarda la tavola e non dice niente.
+«In studio sei precisa e silenziosa. Qui è un'altra persona,» dice Marchetti. Chiara guarda la tavola e non dice niente.
 
 «Non è una brutta cosa. È una cosa buona,» dice Marchetti.
 
@@ -612,7 +612,7 @@ _E questa è la lezione più importante della serata._
 
 Alle dieci e mezza Marchetti e sua moglie si alzano. «Grazie. È stata una serata vera,» dice Marchetti.
 
-«Grazie a Lei. È stato un piacere,» dice Chiara. Adesso Chiara è **rilassata** davvero.
+«Grazie a te. È stato un piacere,» dice Chiara. Adesso Chiara è **rilassata** davvero.
 
 Kevin accompagna i Marchetti alla porta. «Signor Marchetti, una domanda. La prossima volta, caffè o caffettino?» chiede Kevin.
 
@@ -668,7 +668,7 @@ Chiara arriva da dietro e prende Kevin per un braccio. «Come va il quaderno?» 
 
 _Una cena perfetta non esiste. Ma una cena vera sì._ E la strada, con tutte le luci accese, è **sincera** come loro.
 
-## 6. Parco dei Tigli · domenica mattina
+## 6. Parco dei Tigli · domenica pomeriggio
 
 Domenica mattina, Parco dei Tigli. La **pista** è aperta e ci sono cinque o sei ragazzi. Tommaso arriva alle tre in punto con due paia di pattini. Emma è già lì, con le mani in tasca.
 
@@ -754,7 +754,7 @@ Dopo mezz'ora escono dalla pista con i pattini ancora ai piedi. Il pomeriggio è
 
 Lunedì mattina, Bar Tigli. Sono le sei e mezza e il bar è ancora vuoto. Kevin pulisce il bancone e Matteo scrive sulla lavagna nera. Fuori è ancora buio e la strada è bagnata.
 
-Kevin apre il quaderno giallo e scrive piano. «Regola cinquantanove. La **bella figura** non è un lavoro: è una cosa che sei,» dice Kevin.
+Kevin apre il quaderno giallo e scrive piano. «Regola sessantasette. La **bella figura** non è un lavoro: è una cosa che sei,» dice Kevin.
 
 Matteo si gira e lo guarda con la testa di lato. «Scusa? Ripeti,» dice Matteo.
 

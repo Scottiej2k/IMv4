@@ -369,7 +369,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Che bella casa. E che **odore** buono,» dice. | “What a lovely house. And what a good **smell**,” she says. |
 | «Grazie. È **pesce** al forno. Con limone,» dice Kevin. | “Thanks. It's baked **fish**. With lemon,” says Kevin. |
 | Chiara arriva e stringe la mano ai due **invitati**. | Chiara arrives and shakes hands with the two **guests**. |
-| «Buonasera, signor Marchetti. Buonasera, signora. Vogliate scusare il disordine,» | “Good evening, Mr. Marchetti. Good evening, ma'am. Please excuse the mess,” says Chiara, formally. |
+| «Buonasera, signor Marchetti. Buonasera, signora. Scusate il disordine,» | “Good evening, Mr. Marchetti. Good evening, ma'am. Please excuse the mess,” says Chiara, formally. |
 | «Nessun disordine. È tutto molto bello,» dice Marchetti. | “No mess. It's all very nice,” says Marchetti. |
 | Kevin pensa che è un buon inizio. | Kevin thinks it's a good start. |
 | _Otto minuti di conversazione perfetta. La campagna funziona._ | _Eight minutes of perfect conversation. The campaign is working._ |
@@ -456,7 +456,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Volete sapere la mia **impressione**?» chiede Marchetti. | “Do you want to know my **impression**?” asks Marchetti. |
 | Tutti smettono di parlare. | Everyone stops talking. |
 | «Sì, certo,» dice Chiara. | “Yes, of course,” says Chiara, nervously. |
-| «In studio Lei è precisa e silenziosa. Qui è un'altra persona,» dice Marchetti. | “At the studio you are precise and quiet. Here you are a different person,” says Marchetti. |
+| «In studio sei precisa e silenziosa. Qui è un'altra persona,» dice Marchetti. | “At the studio you are precise and quiet. Here you are a different person,” says Marchetti. |
 | Chiara guarda la tavola e non dice niente. | Chiara looks at the table and says nothing. |
 | «Non è una brutta cosa. È una cosa buona,» dice Marchetti. | “It isn't a bad thing. It's a good thing,” says Marchetti. |
 | «Perché?» chiede Chiara. | “Why?” asks Chiara. |
@@ -471,7 +471,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _E questa è la lezione più importante della serata._ | _And this is the most important lesson of the evening._ |
 | Alle dieci e mezza Marchetti e sua moglie si alzano. | At ten thirty Marchetti and his wife get up. |
 | «Grazie. È stata una serata vera,» dice Marchetti. | “Thank you. It was a real evening,” says Marchetti. |
-| «Grazie a Lei. È stato un piacere,» dice Chiara. | “Thank you. It was a pleasure,” says Chiara, **relaxed**. |
+| «Grazie a te. È stato un piacere,» dice Chiara. | “Thank you. It was a pleasure,” says Chiara, **relaxed**. |
 | Adesso Chiara è **rilassata** davvero. | Now Chiara is truly **relaxed**. |
 | Kevin accompagna i Marchetti alla porta. | Kevin walks the Marchettis to the door. |
 | «Signor Marchetti, una domanda. La prossima volta, caffè o caffettino?» chiede Kevin. | “Mr. Marchetti, one question. Next time, coffee or little coffee?” asks Kevin. |
@@ -519,7 +519,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _Una cena perfetta non esiste. Ma una cena vera sì._ | _A perfect dinner doesn't exist. But a real dinner does._ |
 | E la strada, con tutte le luci accese, è **sincera** come loro. | And the street, with all the lights on, is **sincere** like them. |
 
-## 6. Parco dei Tigli · domenica mattina
+## 6. Parco dei Tigli · domenica pomeriggio
 
 | Italiano | English |
 |---|---|
@@ -593,7 +593,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin pulisce il bancone e Matteo scrive sulla lavagna nera. | Kevin wipes the counter and Matteo writes on the blackboard. |
 | Fuori è ancora buio e la strada è bagnata. | Outside it's still dark and the street is wet. |
 | Kevin apre il quaderno giallo e scrive piano. | Kevin opens the yellow notebook and writes slowly. |
-| «Regola cinquantanove. La **bella figura** non è un lavoro: è una cosa che sei,» dice Kevin. | “Rule fifty-nine. A **good impression** isn't a job: it's something you are,” says Kevin, solemnly. |
+| «Regola sessantasette. La **bella figura** non è un lavoro: è una cosa che sei,» dice Kevin. | “Rule sixty-seven. A **good impression** isn't a job: it's something you are,” says Kevin, solemnly. |
 | Matteo si gira e lo guarda con la testa di lato. | Matteo turns around and looks at him with his head tilted. |
 | «Scusa? Ripeti,» dice Matteo. | “Sorry? Repeat that,” says Matteo. |
 | «La bella figura non è un lavoro. È una cosa che sei,» dice Kevin. | “A good impression isn't a job. It's something you are,” says Kevin. |

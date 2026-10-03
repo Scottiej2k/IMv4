@@ -37004,12 +37004,12 @@
             },
             {
               "id": "s03e20-5-023",
-              "it": "«Buonasera, signor Marchetti. Buonasera, signora. Vogliate scusare il disordine,»",
+              "it": "«Buonasera, signor Marchetti. Buonasera, signora. Scusate il disordine,»",
               "en": "“Good evening, Mr. Marchetti. Good evening, ma'am. Please excuse the mess,” says Chiara, formally.",
               "voice": [
                 [
                   "chiara",
-                  "Buonasera, signor Marchetti. Buonasera, signora. Vogliate scusare il disordine,",
+                  "Buonasera, signor Marchetti. Buonasera, signora. Scusate il disordine,",
                   "formale"
                 ]
               ],
@@ -37070,7 +37070,7 @@
                   ""
                 ],
                 [
-                  "Vogliate",
+                  "Scusate",
                   5,
                   ""
                 ],
@@ -37080,7 +37080,7 @@
                   ""
                 ],
                 [
-                  "scusare",
+                  "il",
                   6,
                   ""
                 ],
@@ -37090,18 +37090,8 @@
                   ""
                 ],
                 [
-                  "il",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "disordine",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -46003,12 +45993,12 @@
           "segments": [
             {
               "id": "s03e20-5-110",
-              "it": "«In studio Lei è precisa e silenziosa. Qui è un'altra persona,» dice Marchetti.",
+              "it": "«In studio sei precisa e silenziosa. Qui è un'altra persona,» dice Marchetti.",
               "en": "“At the studio you are precise and quiet. Here you are a different person,” says Marchetti.",
               "voice": [
                 [
                   "marchetti",
-                  "In studio Lei è precisa e silenziosa. Qui è un'altra persona,",
+                  "In studio sei precisa e silenziosa. Qui è un'altra persona,",
                   ""
                 ],
                 [
@@ -46044,7 +46034,7 @@
                   ""
                 ],
                 [
-                  "Lei",
+                  "sei",
                   2,
                   ""
                 ],
@@ -46054,7 +46044,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "precisa",
                   3,
                   ""
                 ],
@@ -46064,7 +46054,7 @@
                   ""
                 ],
                 [
-                  "precisa",
+                  "e",
                   4,
                   ""
                 ],
@@ -46074,18 +46064,8 @@
                   ""
                 ],
                 [
-                  "e",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "silenziosa",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -46095,7 +46075,7 @@
                 ],
                 [
                   "Qui",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -46105,7 +46085,7 @@
                 ],
                 [
                   "è",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -46115,7 +46095,7 @@
                 ],
                 [
                   "un'altra",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -46125,7 +46105,7 @@
                 ],
                 [
                   "persona",
-                  10,
+                  9,
                   ""
                 ],
                 [
@@ -46135,7 +46115,7 @@
                 ],
                 [
                   "dice",
-                  11,
+                  10,
                   ""
                 ],
                 [
@@ -46145,7 +46125,7 @@
                 ],
                 [
                   "Marchetti",
-                  12,
+                  11,
                   ""
                 ],
                 [
@@ -47718,12 +47698,12 @@
           "segments": [
             {
               "id": "s03e20-5-125",
-              "it": "«Grazie a Lei. È stato un piacere,» dice Chiara.",
+              "it": "«Grazie a te. È stato un piacere,» dice Chiara.",
               "en": "“Thank you. It was a pleasure,” says Chiara, **relaxed**.",
               "voice": [
                 [
                   "chiara",
-                  "Grazie a Lei. È stato un piacere,",
+                  "Grazie a te. È stato un piacere,",
                   "rilassata"
                 ],
                 [
@@ -47759,7 +47739,7 @@
                   ""
                 ],
                 [
-                  "Lei",
+                  "te",
                   2,
                   ""
                 ],
@@ -59415,7 +59395,7 @@
           ]
         }
       ],
-      "time": "domenica mattina"
+      "time": "domenica pomeriggio"
     },
     {
       "n": 7,
@@ -59923,12 +59903,12 @@
             },
             {
               "id": "s03e20-7-006",
-              "it": "«Regola cinquantanove. La **bella figura** non è un lavoro: è una cosa che sei,» dice Kevin.",
-              "en": "“Rule fifty-nine. A **good impression** isn't a job: it's something you are,” says Kevin, solemnly.",
+              "it": "«Regola sessantasette. La **bella figura** non è un lavoro: è una cosa che sei,» dice Kevin.",
+              "en": "“Rule sixty-seven. A **good impression** isn't a job: it's something you are,” says Kevin, solemnly.",
               "voice": [
                 [
                   "ben",
-                  "Regola cinquantanove. La **bella figura** non è un lavoro: è una cosa che sei,",
+                  "Regola sessantasette. La **bella figura** non è un lavoro: è una cosa che sei,",
                   "solennemente"
                 ],
                 [
@@ -59954,7 +59934,7 @@
                   ""
                 ],
                 [
-                  "cinquantanove",
+                  "sessantasette",
                   1,
                   ""
                 ],
