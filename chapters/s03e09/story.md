@@ -482,7 +482,7 @@ Chiara mette una mano sulla spalla di Kevin.
 
 «Con la **metropolitana**» dice Chiara.
 
-Leo guarda la **metropolitana**... no, guarda la mappa di una signorina. Una turista con una mappa si avvicina.
+Leo guarda la **metropolitana** e poi la mappa di una signora. Una turista con una mappa si avvicina.
 
 «Scusate, cercate il **Castello**?» chiede.
 
@@ -546,7 +546,7 @@ Doug guarda. Non capisce le parole, ma capisce il gesto. Franco prende un annaff
 
 «Questo serve per **innaffiare**» dice Franco.
 
-Doug prende l'annafficiatoio... no, l'annafficiatoio no: prende l'annafficiatoio con le mani. Franco ride.
+Doug prende l'annaffiatoio con tutte e due le mani. Franco ride.
 
 «Così» dice Franco, e mostra il movimento, piano piano.
 
@@ -728,7 +728,7 @@ Franco ride.
 
 «Ancora!» dice Doug, e si alza.
 
-_Due americani: uno parla troppo, l'altro non parla mai. Però con questo si sta bene._
+_Suo figlio parla troppo. Lui non parla mai. Però con questo americano si sta bene._
 
 Doug prende la **pallina** dal campo.
 
@@ -868,7 +868,7 @@ Emma racconta anche del **ponte** e del **canale**.
 
 «Solo un negozio chiuso con gli **ombrelli**» dice Kevin.
 
-«Gli **ombrelli**? Ma non pioveva» dice Chiara.
+«Gli ombrelli? Ma non pioveva» dice Chiara.
 
 «Appunto» dice Kevin.
 
@@ -950,7 +950,7 @@ Chiara si ferma con il piatto in mano.
 
 «Lo so» dice. «Lo so da un po'.»
 
-Kevin prende una forchetta e la **abbraccia**... no: prende una forchetta e sorride.
+Kevin prende una forchetta. Vorrebbe **abbracciare** Chiara, ma ha le mani occupate.
 
 «Oggi tuo padre ha **abbracciato** il mio» dice Kevin.
 
@@ -1018,7 +1018,7 @@ Matteo apre la bocca e non parla per tre secondi.
 
 «Una parola» ripete Matteo.
 
-_Prima mio zio parlava solo milanese. Adesso qui parlano tutti. Guardate questi due._
+_Prima mio padre non parlava con nessuno. Adesso abbraccia gli americani. **Guardate** questi due._
 
 Doug prende il caffè e beve. Fa una faccia contenta.
 

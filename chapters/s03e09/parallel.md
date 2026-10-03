@@ -276,7 +276,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Va bene» dice. «Adesso troviamo il **Castello**.» | “It's fine,” she says. “Now let's find the **Castello**.” |
 | «Con la **metropolitana**?» chiede. | “With the **subway**?” Emma asks. |
 | «Con la **metropolitana**» dice Chiara. | “With the **subway**,” says Chiara. |
-| Leo guarda la **metropolitana**... no, guarda la mappa di una signorina. | Leo looks at the **subway**... no, he looks at a young woman's map. |
+| Leo guarda la **metropolitana** e poi la mappa di una signora. | Leo looks at the **subway** and then at a lady's map. |
 | Una turista con una mappa si avvicina. | A tourist with a map comes closer. |
 | «Scusate, cercate il **Castello**?» chiede. | “Excuse me, are you looking for the **Castello**?” she asks. |
 | «Sì!» dice Leo. | “Yes!” says Leo. |
@@ -323,7 +323,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Doug guarda. Non capisce le parole, ma capisce il gesto. | Doug looks. He doesn't understand the words, but he understands the gesture. |
 | Franco prende un annaffiatoio. | Franco picks up a watering can. |
 | «Questo serve per **innaffiare**» dice Franco. | “This is for **watering**,” says Franco. |
-| Doug prende l'annafficiatoio... no, l'annafficiatoio no: prende l'annafficiatoio con le mani. | Doug picks up the watering can... no, the watering can no: he picks up the watering can with his hands. |
+| Doug prende l'annaffiatoio con tutte e due le mani. | Doug picks up the watering can with both hands. |
 | Franco ride. | Franco laughs. |
 | «Così» dice Franco, e mostra il movimento, piano piano. | “Like this,” says Franco, and he shows the movement, slowly. |
 | Doug fa lo stesso movimento sulle piante. | Doug makes the same movement over the plants. |
@@ -441,7 +441,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco ride. | Franco laughs. |
 | «Ancora?» chiede. | “Again?” Franco asks. |
 | «Ancora!» dice Doug, e si alza. | “Again!” says Doug, and he gets up. |
-| _Due americani: uno parla troppo, l'altro non parla mai. Però con questo si sta bene._ | _Two Americans: one talks too much, the other never talks. But with this one it feels good._ |
+| _Suo figlio parla troppo. Lui non parla mai. Però con questo americano si sta bene._ | _His son talks too much. He never talks. But with this American it feels good._ |
 | Doug prende la **pallina** dal campo. | Doug picks up the **pallina** from the court. |
 | «**Dimmi**» dice Doug. «**Bersaglio**?» | “**Tell me**,” says Doug. “**Bersaglio**?” |
 | «Il **bersaglio** è là» dice Franco, e indica con il dito. | “The **bersaglio** is there,” says Franco, and he points with his finger. |
@@ -526,7 +526,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E il **panorama**?» chiede Franco. | “And the **panorama**?” Franco asks. |
 | «Nessun **panorama**» dice Emma. | “No **panorama**,” says Emma. |
 | «Solo un negozio chiuso con gli **ombrelli**» dice Kevin. | “Only a closed shop with **umbrellas**,” says Kevin. |
-| «Gli **ombrelli**? Ma non pioveva» dice Chiara. | “Umbrellas? But it wasn't raining,” says Chiara. |
+| «Gli ombrelli? Ma non pioveva» dice Chiara. | “Umbrellas? But it wasn't raining,” says Chiara. |
 | «Appunto» dice Kevin. | “Exactly,” says Kevin. |
 | Poi Linda racconta la **vetrina**. | Then Linda tells about the **shop window**. |
 | «Ho visto una **vetrina** piccola, con le borse» dice Linda. | “I saw a small **shop window**, with bags,” says Linda. |
@@ -572,7 +572,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Posso vivere qui» dice Kevin. «Davvero.» | “I can live here,” says Kevin. “Really.” |
 | Chiara si ferma con il piatto in mano. | Chiara stops with the plate in her hand. |
 | «Lo so» dice. «Lo so da un po'.» | “I know,” she says. “I've known for a while.” |
-| Kevin prende una forchetta e la **abbraccia**... no: prende una forchetta e sorride. | Kevin takes a fork and **hugs** it... no: he takes a fork and smiles. |
+| Kevin prende una forchetta. Vorrebbe **abbracciare** Chiara, ma ha le mani occupate. | Kevin picks up a fork. He would like to **hug** Chiara, but his hands are full. |
 | «Oggi tuo padre ha **abbracciato** il mio» dice Kevin. | “Today your father **hugged** mine,” says Kevin. |
 | «Cosa?» chiede Chiara. | “What?” Chiara asks. |
 | «Si sono **abbracciati** al parco. Dopo le bocce» dice Kevin. | “They **hugged** at the park. After bocce,” says Kevin. |
@@ -614,7 +614,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Tu parli inglese?» chiede Matteo. | “You speak English?” Matteo asks. |
 | «No» dice Franco. «Una parola.» | “No,” says Franco. “One word.” |
 | «Una parola» ripete Matteo. | “One word,” Matteo repeats. |
-| _Prima mio zio parlava solo milanese. Adesso qui parlano tutti. Guardate questi due._ | _Before, my uncle only spoke Milanese. Now here everyone speaks. **Look** at these two._ |
+| _Prima mio padre non parlava con nessuno. Adesso abbraccia gli americani. **Guardate** questi due._ | _Before, my father didn't talk to anyone. Now he hugs Americans. **Look** at these two._ |
 | Doug prende il caffè e beve. Fa una faccia contenta. | Doug takes the coffee and drinks. He makes a happy face. |
 | «Buono!» dice Doug. | “Good!” says Doug. |
 | «Buono?» chiede Matteo. | “Good?” Matteo asks. |

@@ -396,7 +396,8 @@
         "chiara",
         "emma",
         "leo",
-        "ben-parents",
+        "uomo",
+        "donna",
         "franco"
       ],
       "paragraphs": [
@@ -10209,7 +10210,8 @@
         "chiara",
         "emma",
         "leo",
-        "ben-parents"
+        "uomo",
+        "donna"
       ],
       "paragraphs": [
         {
@@ -18013,7 +18015,8 @@
         "chiara",
         "emma",
         "leo",
-        "ben-parents"
+        "uomo",
+        "donna"
       ],
       "paragraphs": [
         {
@@ -24246,12 +24249,12 @@
           "segments": [
             {
               "id": "s03e09-3-071",
-              "it": "Leo guarda la **metropolitana**... no, guarda la mappa di una signorina.",
-              "en": "Leo looks at the **subway**... no, he looks at a young woman's map.",
+              "it": "Leo guarda la **metropolitana** e poi la mappa di una signora.",
+              "en": "Leo looks at the **subway** and then at a lady's map.",
               "voice": [
                 [
                   "narrator",
-                  "Leo guarda la **metropolitana**... no, guarda la mappa di una signorina.",
+                  "Leo guarda la **metropolitana** e poi la mappa di una signora.",
                   ""
                 ]
               ],
@@ -24292,22 +24295,22 @@
                   "b"
                 ],
                 [
-                  "... ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "no",
+                  "e",
                   4,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "guarda",
+                  "poi",
                   5,
                   ""
                 ],
@@ -24357,7 +24360,7 @@
                   ""
                 ],
                 [
-                  "signorina",
+                  "signora",
                   10,
                   ""
                 ],
@@ -27325,7 +27328,8 @@
       "location": "orto",
       "characters": [
         "franco",
-        "ben-parents"
+        "uomo",
+        "donna"
       ],
       "paragraphs": [
         {
@@ -28136,12 +28140,12 @@
           "segments": [
             {
               "id": "s03e09-4-009",
-              "it": "Doug prende l'annafficiatoio... no, l'annafficiatoio no: prende l'annafficiatoio con le mani.",
-              "en": "Doug picks up the watering can... no, the watering can no: he picks up the watering can with his hands.",
+              "it": "Doug prende l'annaffiatoio con tutte e due le mani.",
+              "en": "Doug picks up the watering can with both hands.",
               "voice": [
                 [
                   "narrator",
-                  "Doug prende l'annafficiatoio... no, l'annafficiatoio no: prende l'annafficiatoio con le mani.",
+                  "Doug prende l'annaffiatoio con tutte e due le mani.",
                   ""
                 ]
               ],
@@ -28167,58 +28171,8 @@
                   ""
                 ],
                 [
-                  "l'annafficiatoio",
+                  "l'annaffiatoio",
                   2,
-                  ""
-                ],
-                [
-                  "... ",
-                  -1,
-                  ""
-                ],
-                [
-                  "no",
-                  3,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l'annafficiatoio",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "no",
-                  5,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l'annafficiatoio",
-                  7,
                   ""
                 ],
                 [
@@ -28228,7 +28182,37 @@
                 ],
                 [
                   "con",
-                  8,
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tutte",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "due",
+                  6,
                   ""
                 ],
                 [
@@ -28238,7 +28222,7 @@
                 ],
                 [
                   "le",
-                  9,
+                  7,
                   ""
                 ],
                 [
@@ -28248,7 +28232,7 @@
                 ],
                 [
                   "mani",
-                  10,
+                  8,
                   ""
                 ],
                 [
@@ -34334,7 +34318,8 @@
       "location": "parco",
       "characters": [
         "franco",
-        "ben-parents"
+        "uomo",
+        "donna"
       ],
       "paragraphs": [
         {
@@ -37910,18 +37895,18 @@
           "segments": [
             {
               "id": "s03e09-5-042",
-              "it": "_Due americani: uno parla troppo, l'altro non parla mai. Però con questo si sta bene._",
-              "en": "_Two Americans: one talks too much, the other never talks. But with this one it feels good._",
+              "it": "_Suo figlio parla troppo. Lui non parla mai. Però con questo americano si sta bene._",
+              "en": "_His son talks too much. He never talks. But with this American it feels good._",
               "voice": [
                 [
                   "franco",
-                  "Due americani: uno parla troppo, l'altro non parla mai. Però con questo si sta bene.",
+                  "Suo figlio parla troppo. Lui non parla mai. Però con questo americano si sta bene.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "Due",
+                  "Suo",
                   0,
                   "i"
                 ],
@@ -37931,17 +37916,17 @@
                   "i"
                 ],
                 [
-                  "americani",
+                  "figlio",
                   1,
                   "i"
                 ],
                 [
-                  ": ",
+                  " ",
                   -1,
                   "i"
                 ],
                 [
-                  "uno",
+                  "parla",
                   2,
                   "i"
                 ],
@@ -37951,28 +37936,18 @@
                   "i"
                 ],
                 [
-                  "parla",
+                  "troppo",
                   3,
                   "i"
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   "i"
                 ],
                 [
-                  "troppo",
+                  "Lui",
                   4,
-                  "i"
-                ],
-                [
-                  ", ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "l'altro",
-                  5,
                   "i"
                 ],
                 [
@@ -37982,7 +37957,7 @@
                 ],
                 [
                   "non",
-                  6,
+                  5,
                   "i"
                 ],
                 [
@@ -37992,7 +37967,7 @@
                 ],
                 [
                   "parla",
-                  7,
+                  6,
                   "i"
                 ],
                 [
@@ -38002,7 +37977,7 @@
                 ],
                 [
                   "mai",
-                  8,
+                  7,
                   "i"
                 ],
                 [
@@ -38012,7 +37987,7 @@
                 ],
                 [
                   "Però",
-                  9,
+                  8,
                   "i"
                 ],
                 [
@@ -38022,7 +37997,7 @@
                 ],
                 [
                   "con",
-                  10,
+                  9,
                   "i"
                 ],
                 [
@@ -38032,6 +38007,16 @@
                 ],
                 [
                   "questo",
+                  10,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "americano",
                   11,
                   "i"
                 ],
@@ -40946,7 +40931,8 @@
         "chiara",
         "emma",
         "leo",
-        "ben-parents",
+        "uomo",
+        "donna",
         "franco"
       ],
       "paragraphs": [
@@ -45202,12 +45188,12 @@
           "segments": [
             {
               "id": "s03e09-6-049",
-              "it": "«Gli **ombrelli**? Ma non pioveva» dice Chiara.",
+              "it": "«Gli ombrelli? Ma non pioveva» dice Chiara.",
               "en": "“Umbrellas? But it wasn't raining,” says Chiara.",
               "voice": [
                 [
                   "chiara",
-                  "Gli **ombrelli**? Ma non pioveva",
+                  "Gli ombrelli? Ma non pioveva",
                   ""
                 ],
                 [
@@ -45235,7 +45221,7 @@
                 [
                   "ombrelli",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   "? ",
@@ -45292,9 +45278,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-ombrello"
               ]
             }
           ]
@@ -48978,12 +48961,12 @@
           "segments": [
             {
               "id": "s03e09-6-095",
-              "it": "Kevin prende una forchetta e la **abbraccia**... no: prende una forchetta e sorride.",
-              "en": "Kevin takes a fork and **hugs** it... no: he takes a fork and smiles.",
+              "it": "Kevin prende una forchetta. Vorrebbe **abbracciare** Chiara, ma ha le mani occupate.",
+              "en": "Kevin picks up a fork. He would like to **hug** Chiara, but his hands are full.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin prende una forchetta e la **abbraccia**... no: prende una forchetta e sorride.",
+                  "Kevin prende una forchetta. Vorrebbe **abbracciare** Chiara, ma ha le mani occupate.",
                   ""
                 ]
               ],
@@ -49024,12 +49007,12 @@
                   ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "e",
+                  "Vorrebbe",
                   4,
                   ""
                 ],
@@ -49039,8 +49022,28 @@
                   ""
                 ],
                 [
-                  "la",
+                  "abbracciare",
                   5,
+                  "b"
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Chiara",
+                  6,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ma",
+                  7,
                   ""
                 ],
                 [
@@ -49049,27 +49052,7 @@
                   ""
                 ],
                 [
-                  "abbraccia",
-                  6,
-                  "b"
-                ],
-                [
-                  "... ",
-                  -1,
-                  ""
-                ],
-                [
-                  "no",
-                  7,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "prende",
+                  "ha",
                   8,
                   ""
                 ],
@@ -49079,7 +49062,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "le",
                   9,
                   ""
                 ],
@@ -49089,7 +49072,7 @@
                   ""
                 ],
                 [
-                  "forchetta",
+                  "mani",
                   10,
                   ""
                 ],
@@ -49099,18 +49082,8 @@
                   ""
                 ],
                 [
-                  "e",
+                  "occupate",
                   11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "sorride",
-                  12,
                   ""
                 ],
                 [
@@ -50342,7 +50315,8 @@
         "ben",
         "franco",
         "matteo",
-        "ben-parents"
+        "uomo",
+        "donna"
       ],
       "paragraphs": [
         {
@@ -52499,12 +52473,12 @@
           "segments": [
             {
               "id": "s03e09-7-023",
-              "it": "_Prima mio zio parlava solo milanese. Adesso qui parlano tutti. Guardate questi due._",
-              "en": "_Before, my uncle only spoke Milanese. Now here everyone speaks. **Look** at these two._",
+              "it": "_Prima mio padre non parlava con nessuno. Adesso abbraccia gli americani. **Guardate** questi due._",
+              "en": "_Before, my father didn't talk to anyone. Now he hugs Americans. **Look** at these two._",
               "voice": [
                 [
                   "matteo",
-                  "Prima mio zio parlava solo milanese. Adesso qui parlano tutti. Guardate questi due.",
+                  "Prima mio padre non parlava con nessuno. Adesso abbraccia gli americani. **Guardate** questi due.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -52530,7 +52504,7 @@
                   "i"
                 ],
                 [
-                  "zio",
+                  "padre",
                   2,
                   "i"
                 ],
@@ -52540,7 +52514,7 @@
                   "i"
                 ],
                 [
-                  "parlava",
+                  "non",
                   3,
                   "i"
                 ],
@@ -52550,7 +52524,7 @@
                   "i"
                 ],
                 [
-                  "solo",
+                  "parlava",
                   4,
                   "i"
                 ],
@@ -52560,8 +52534,18 @@
                   "i"
                 ],
                 [
-                  "milanese",
+                  "con",
                   5,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "nessuno",
+                  6,
                   "i"
                 ],
                 [
@@ -52571,16 +52555,6 @@
                 ],
                 [
                   "Adesso",
-                  6,
-                  "i"
-                ],
-                [
-                  " ",
-                  -1,
-                  "i"
-                ],
-                [
-                  "qui",
                   7,
                   "i"
                 ],
@@ -52590,7 +52564,7 @@
                   "i"
                 ],
                 [
-                  "parlano",
+                  "abbraccia",
                   8,
                   "i"
                 ],
@@ -52600,8 +52574,18 @@
                   "i"
                 ],
                 [
-                  "tutti",
+                  "gli",
                   9,
+                  "i"
+                ],
+                [
+                  " ",
+                  -1,
+                  "i"
+                ],
+                [
+                  "americani",
+                  10,
                   "i"
                 ],
                 [
@@ -52611,8 +52595,8 @@
                 ],
                 [
                   "Guardate",
-                  10,
-                  "i"
+                  11,
+                  "bi"
                 ],
                 [
                   " ",
@@ -52621,7 +52605,7 @@
                 ],
                 [
                   "questi",
-                  11,
+                  12,
                   "i"
                 ],
                 [
@@ -52631,7 +52615,7 @@
                 ],
                 [
                   "due",
-                  12,
+                  13,
                   "i"
                 ],
                 [
@@ -52639,6 +52623,9 @@
                   -1,
                   "i"
                 ]
+              ],
+              "focus": [
+                "v-guardate"
               ]
             }
           ]

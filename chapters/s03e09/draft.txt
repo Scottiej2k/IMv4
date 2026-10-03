@@ -33,7 +33,7 @@ la fila | noun | f | line; queue | file
 la moneta | noun | f | coin | monete
 @end
 
-# SCENE casa-carter | sabato mattina | ben, chiara, emma, leo, ben-parents, franco
+# SCENE casa-carter | sabato mattina | ben, chiara, emma, leo, uomo, donna, franco
 
 È sabato mattina in casa Carter e c'è molto movimento. || It's Saturday morning in the Carter house and there's a lot of movement.
 
@@ -243,7 +243,7 @@ Kevin è la **guida** in casa sua. || Kevin is the **guide** in his own house.
 
 _Milano aspetta. O forse no._{ben} || *Milan is waiting. Or maybe not.*
 
-# SCENE treno | sabato, mattina | ben, chiara, emma, leo, ben-parents
+# SCENE treno | sabato, mattina | ben, chiara, emma, leo, uomo, donna
 
 Il treno per Milano è pieno di gente. || The train to Milan is full of people.
 
@@ -413,7 +413,7 @@ _Milano è bellissima. E io sono la **guida**. Purtroppo._{ben} || *Milan is bea
 
 Chiara sorride, ma non dice niente. || Chiara smiles, but says nothing.
 
-# SCENE milano-centro | sabato, pomeriggio | ben, chiara, emma, leo, ben-parents
+# SCENE milano-centro | sabato, pomeriggio | ben, chiara, emma, leo, uomo, donna
 
 La **Galleria** è alta, bianca e piena di luce. || The **Galleria** is tall, white and full of light.
 
@@ -555,7 +555,7 @@ Chiara mette una mano sulla spalla di Kevin. || Chiara puts a hand on Kevin's sh
 
 «Con la **metropolitana**»{chiara} dice Chiara. || “With the **subway**,” says Chiara.
 
-Leo guarda la **metropolitana**... no, guarda la mappa di una signorina. || Leo looks at the **subway**... no, he looks at a young woman's map.
+Leo guarda la **metropolitana** e poi la mappa di una signora. || Leo looks at the **subway** and then at a lady's map.
 
 Una turista con una mappa si avvicina. || A tourist with a map comes closer.
 
@@ -623,7 +623,7 @@ _La **guida** si è persa. Ma Milano è bellissima._{ben} || *The **guide** got 
 
 «Sì, capo»{ben} dice Kevin. «**Seguitemi**.»{ben} || “Yes, boss,” says Kevin. “**Follow me**.”
 
-# SCENE orto | sabato, mattina | franco, ben-parents
+# SCENE orto | sabato, mattina | franco, uomo, donna
 
 L'orto di Franco è dietro casa, piccolo e ordinato. || Franco's garden is behind the house, small and tidy.
 
@@ -641,7 +641,7 @@ Franco prende un annaffiatoio. || Franco picks up a watering can.
 
 «Questo serve per **innaffiare**»{franco} dice Franco. || “This is for **watering**,” says Franco.
 
-Doug prende l'annafficiatoio... no, l'annafficiatoio no: prende l'annafficiatoio con le mani. || Doug picks up the watering can... no, the watering can no: he picks up the watering can with his hands.
+Doug prende l'annaffiatoio con tutte e due le mani. || Doug picks up the watering can with both hands.
 
 Franco ride. || Franco laughs.
 
@@ -785,7 +785,7 @@ Franco non dice niente. Ma non si sposta. || Franco says nothing. But he doesn't
 
 Escono dall'orto insieme, piano piano. || They leave the garden together, slowly.
 
-# SCENE parco | sabato, pomeriggio | franco, ben-parents
+# SCENE parco | sabato, pomeriggio | franco, uomo, donna
 
 Il Parco dei Tigli è tranquillo nel pomeriggio. || Parco dei Tigli is quiet in the afternoon.
 
@@ -869,7 +869,7 @@ Franco ride. || Franco laughs.
 
 «Ancora!»{uomo} dice Doug, e si alza. || “Again!” says Doug, and he gets up.
 
-_Due americani: uno parla troppo, l'altro non parla mai. Però con questo si sta bene._{franco} || *Two Americans: one talks too much, the other never talks. But with this one it feels good.*
+_Suo figlio parla troppo. Lui non parla mai. Però con questo americano si sta bene._{franco} || *His son talks too much. He never talks. But with this American it feels good.*
 
 Doug prende la **pallina** dal campo. || Doug picks up the **pallina** from the court.
 
@@ -933,7 +933,7 @@ Poi si staccano subito e guardano tutti e due l'erba. || Then they break apart r
 
 E tornano a casa **sempre dritto**, piano piano. || And they go home **straight ahead**, slowly.
 
-# SCENE casa-carter | sabato, sera | ben, chiara, emma, leo, ben-parents, franco
+# SCENE casa-carter | sabato, sera | ben, chiara, emma, leo, uomo, donna, franco
 
 Sono le sette di sera e in Via dei Tigli le luci sono accese. || It's seven in the evening and on Via dei Tigli the lights are on.
 
@@ -1031,7 +1031,7 @@ Emma racconta anche del **ponte** e del **canale**. || Emma also tells about the
 
 «Solo un negozio chiuso con gli **ombrelli**»{ben} dice Kevin. || “Only a closed shop with **umbrellas**,” says Kevin.
 
-«Gli **ombrelli**? Ma non pioveva»{chiara} dice Chiara. || “Umbrellas? But it wasn't raining,” says Chiara.
+«Gli ombrelli? Ma non pioveva»{chiara} dice Chiara. || “Umbrellas? But it wasn't raining,” says Chiara.
 
 «Appunto»{ben} dice Kevin. || “Exactly,” says Kevin.
 
@@ -1123,7 +1123,7 @@ Chiara si ferma con il piatto in mano. || Chiara stops with the plate in her han
 
 «Lo so»{chiara} dice. «Lo so da un po'.»{chiara} || “I know,” she says. “I've known for a while.”
 
-Kevin prende una forchetta e la **abbraccia**... no: prende una forchetta e sorride. || Kevin takes a fork and **hugs** it... no: he takes a fork and smiles.
+Kevin prende una forchetta. Vorrebbe **abbracciare** Chiara, ma ha le mani occupate. || Kevin picks up a fork. He would like to **hug** Chiara, but his hands are full.
 
 «Oggi tuo padre ha **abbracciato** il mio»{ben} dice Kevin. || “Today your father **hugged** mine,” says Kevin.
 
@@ -1153,7 +1153,7 @@ Ma Franco è già sulla porta. || But Franco is already at the door.
 
 La porta si chiude. || The door closes.
 
-# SCENE bar-tigli | domenica, mattina | ben, franco, matteo, ben-parents
+# SCENE bar-tigli | domenica, mattina | ben, franco, matteo, uomo, donna
 
 Domenica mattina, Bar Tigli, nove e mezza. || Sunday morning, Bar Tigli, half past nine.
 
@@ -1199,7 +1199,7 @@ Matteo apre la bocca e non parla per tre secondi. || Matteo opens his mouth and 
 
 «Una parola»{matteo} ripete Matteo. || “One word,” Matteo repeats.
 
-_Prima mio zio parlava solo milanese. Adesso qui parlano tutti. Guardate questi due._{matteo} || *Before, my uncle only spoke Milanese. Now here everyone speaks. **Look** at these two.*
+_Prima mio padre non parlava con nessuno. Adesso abbraccia gli americani. **Guardate** questi due._{matteo} || *Before, my father didn't talk to anyone. Now he hugs Americans. **Look** at these two.*
 
 Doug prende il caffè e beve. Fa una faccia contenta. || Doug takes the coffee and drinks. He makes a happy face.
 
