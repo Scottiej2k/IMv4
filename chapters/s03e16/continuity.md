@@ -1,0 +1,5 @@
+### s03e16 · È mio o è tuo?
+- **Happened:** Lucia moves into Franco's house; 13 boxes total. Chiara divides Anna's things: keeps the gloves, gives Franco the stopped wristwatch, takes four flowered cups to Lucia, leaves four at Franco's and four at her own house. Franco shifts the two chairs ten centimeters apart and places the basement coffee table between them; Chiara gets the top shelf in the left wardrobe door, kept empty.
+- **New facts:** Franco and Lucia now live together at Via dei Tigli 9; the last two boxes arrive Monday. Emma and Leo share one new room at Via dei Tigli 14 (shelves built by ditta Bertoldi): Leo's half holds stones, Emma's quaderni, the middle shelf is shared; Ornella's gray cat Pavarotti sleeps on that middle shelf. Emma's friends include Bianca and Tommaso; Leo keeps "quaderno dei fatti strani" (facts 40–42).
+- **Changed:** Chiara accepts Lucia living with Franco; the flowered cups are now shared with Lucia (Sundays). Kevin and Franco plan to work "insieme." Franco admits he is happy and afraid.
+- **Planted:** Leo's question "di chi è la forchetta?" left for tomorrow; Pavarotti living in the kids' shelf needs a payoff.
