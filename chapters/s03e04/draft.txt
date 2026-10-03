@@ -1,0 +1,733 @@
+@vocab
+innamorarsi | verb | | to fall in love | innamorato, innamorata, innamorati | Reflexive: mi sono innamorato / mi sono innamorata.
+incontrare | verb | | to meet | incontrati, incontrato, incontrava
+il ballo | noun | m | ball, dance | balli
+il tram | noun | m | tram | tram
+il primo appuntamento | expression | | the first date | primo appuntamento, appuntamento, appuntamenti
+bellissima | adjective | | very beautiful | bellissimo, bellissimi
+all'improvviso | adverb | | suddenly |
+un giorno | expression | | one day |
+il passeggero | noun | m | passenger | passeggera, passeggeri
+malato | adjective | | sick | malata, malati
+fare finta | expression | | to pretend | faceva finta, facevo finta, fatto finta | "Fare finta di..." = to pretend to...
+l'amore | noun | m | love | amori | amore di... = love for...
+sorridere | verb | | to smile | sorride, sorridevo, sorriso
+il capolinea | noun | m | (tram) terminus | capolinea
+arrossire | verb | | to blush | arrossisco, arrossiva, arrossito
+il ricordo | noun | m | memory | ricordi
+rivelare | verb | | to reveal | rivela, rivelato, rivelava
+la ricerca | noun | f | assignment, research | ricerche
+il taccuino | noun | m | notebook | taccuini
+il camice | noun | m | white coat | camici
+il conducente | noun | m | driver | conducenti
+domandare | verb | | to ask | domanda, domandava, domandato
+annuire | verb | | to nod | annuisce, annuiva, annuito
+fare la fila | expression | | to stand in line | faceva la fila, faccio la fila, fatto la fila
+il battito | noun | m | heartbeat | battiti
+confondere | verb | | to mix up, to confuse | confonde, confondevo, confuso
+la memoria | noun | f | memory (faculty) | memorie
+nascondere | verb | | to hide | nasconde, nascondeva, nascosto
+la calma | noun | f | calm | calme
+@end
+
+# SCENE casa-carter | martedì pomeriggio | emma, chiara, kevin, leo
+Emma entra in casa e butta lo zaino sul divano. || Emma comes into the house and throws her backpack on the sofa.
+«Mamma! Hai cinque minuti?»{emma} || “Mom! Do you have five minutes?”
+Chiara esce dalla cucina con un panno in mano. || Chiara comes out of the kitchen with a cloth in her hand.
+«Cinque minuti? Dipende. Cosa è successo?»{chiara} || “Five minutes? It depends. What happened?”
+«Niente. Ho una **ricerca** per la professoressa Bassi.»{emma} || “Nothing. I have an **assignment** for Professor Bassi.”
+Emma apre lo zaino e tira fuori un foglio. || Emma opens her backpack and pulls out a sheet of paper.
+«Il titolo è: “Come vi siete conosciuti?”»{emma} || “The title is: “How did you meet?””
+Chiara si siede sul bracciolo del divano. || Chiara sits on the arm of the sofa.
+«Devi **incontrare** una persona anziana e parlare del suo **amore**.»{emma} || “You have to **meet** an older person and talk about their **love**.”
+«In italiano, naturalmente.»{emma|dry} || “In Italian, of course.”
+Leo arriva correndo dalla sua camera. || Leo comes running from his room.
+«Chi ha **incontrato** chi?»{leo|excited} || “Who **met** who?”
+«Nessuno, Leo. È un compito.»{emma} || “Nobody, Leo. It's homework.”
+«Ah. Peccato.»{leo} || “Oh. Too bad.”
+Leo si siede per terra con il gatto immaginario. || Leo sits on the floor with the imaginary cat.
+Kevin entra dalla porta sul retro con due buste della spesa. || Kevin comes in through the back door with two shopping bags.
+«Ho sentito la parola “compito”. Che cosa c'è?»{ben} || “I heard the word “homework.” What's going on?”
+«Emma deve intervistare una coppia anziana.»{chiara} || “Emma has to interview an older couple.”
+Kevin posa le buste e si illumina. || Kevin puts down the bags and lights up.
+«Perfetto! Io ho una storia. Due frasi, ma è una storia.»{ben|proud} || “Perfect! I have a story. Two sentences, but it's a story.”
+«Papà, no.»{emma} || “Dad, no.”
+«Un barbecue a Chicago. Tu **eri** lì con un piatto di insalata.»{ben} || “A barbecue in Chicago. You **were** there with a plate of salad.”
+«E io **ho capito** subito che era lei.»{ben} || “And I **understood** right away that it was her.”
+Kevin guarda Chiara con un sorriso enorme. || Kevin looks at Chiara with a huge smile.
+Chiara **arrossisce** e guarda il panno. || Chiara **blushes** and looks at the cloth.
+«Due frasi. L'ho detto.»{ben|dry} || “Two sentences. I told you.”
+Kevin si asciuga le mani sul maglione. || Kevin dries his hands on his sweater.
+«Vuoi intervistare me? Ho anche una foto.»{ben} || “Do you want to interview me? I even have a photo.”
+«Papà, la tua storia è: barbecue, insalata, fine.»{emma} || “Dad, your story is: barbecue, salad, the end.”
+«E i fuochi d'artificio.»{ben} || “And the fireworks.”
+«I fuochi d'artificio erano a Chicago, papà.»{emma|dry} || “The fireworks were in Chicago, Dad.”
+«Papà, la professoressa vuole una storia vera, con i dettagli.»{emma} || “Dad, the professor wants a real story, with details.”
+«E dove sono i tuoi nonni? In Ohio.»{emma} || “And where are your grandparents? In Ohio.”
+«Allora intervisto il nonno.»{emma} || “So I'll interview Grandpa.”
+Silenzio in cucina. || Silence in the kitchen.
+Chiara alza la testa di colpo. || Chiara raises her head suddenly.
+«Il nonno? Tuo nonno Franco?»{chiara} || “Grandpa? Your grandpa Franco?”
+«Sì. Vive qui, no?»{emma} || “Yes. He lives here, right?”
+«Sì, ma... tuo nonno non parla di queste cose.»{chiara} || “Yes, but... your grandpa doesn't talk about these things.”
+«Di quale cosa?»{emma} || “About what thing?”
+«Di tua nonna Anna.»{chiara} || “About your grandma Anna.”
+Chiara piega il panno e lo posa sul tavolo. || Chiara folds the cloth and puts it on the table.
+«Quando ero piccola, io **chiedevo** sempre. Lui **rispondeva** sempre “mah”.»{chiara} || “When I was little, I **always asked**. He **always answered** “mah.””
+«**Una volta** io **ho chiesto** della foto sul mobile e lui **è uscito** in giardino.»{chiara} || “**Once** I **asked** about the photo on the sideboard and he **went out** into the garden.”
+Emma scrive questa frase nel suo **taccuino**. || Emma writes this sentence in her **notebook**.
+«Quindi non parla mai di lei?»{emma} || “So he never talks about her?”
+«Non con me.»{chiara} || “Not with me.”
+Kevin si avvicina al tavolo con calma. || Kevin comes closer to the table calmly.
+«Forse con te è diverso. Sei la nipote.»{ben} || “Maybe with you it's different. You're the granddaughter.”
+«E poi tu porti il **taccuino** e fai le domande giuste.»{ben} || “And besides, you bring the **notebook** and ask the right questions.”
+Emma **annuisce** lentamente. || Emma **nods** slowly.
+«Giusto. Il nonno parla con Leo, non con la mamma.»{emma} || “Right. Grandpa talks with Leo, not with Mom.”
+Leo alza la mano come a scuola. || Leo raises his hand like at school.
+«Io vengo con te! Io so tutto del nonno.»{leo} || “I'm coming with you! I know everything about Grandpa.”
+«Tu sai tutto del suo orto.»{emma|dry} || “You know everything about his vegetable garden.”
+«E anche del suo pallone di cuoio.»{leo|proud} || “And about his leather ball, too.”
+Emma prende il telefono per scrivere a Franco. || Emma takes her phone to text Franco.
+_Mia madre non ha mai usato la parola “**amore**” per i suoi genitori._{emma} || *My mother has never used the word “**love**” for her parents.*
+_E io ho quindici anni e non l'ho mai sentita._{emma} || *And I'm fifteen and I've never heard it.*
+_Adesso la storia la racconto io._{emma} || *Now I'm the one telling the story.*
+Poi guarda il foglio della professoressa. || Then she looks at the professor's sheet.
+«C'è scritto: “portare una foto”.»{emma} || “It says: “bring a photo.””
+«Allora chiedi al nonno anche la foto.»{chiara} || “Then ask Grandpa for the photo, too.”
+«Ci vado domani, dopo scuola.»{emma} || “I'll go tomorrow, after school.”
+«Ti accompagno?»{ben} || “Shall I walk you over?”
+«No. Ma grazie, papà.»{emma} || “No. But thanks, Dad.”
+Kevin prende una busta e tira fuori un pomodoro. || Kevin takes a bag and pulls out a tomato.
+«Allora portagli questo. È del suo orto, ma è un gesto.»{ben} || “Then take him this. It's from his garden, but it's a gesture.”
+«Un pomodoro. Per l'**amore**. Perfetto.»{emma|dry} || “A tomato. For **love**. Perfect.”
+
+# SCENE bar-tigli | mercoledì mattina | kevin, matteo, nadia
+Mercoledì mattina al Bar Tigli. Fuori piove piano. || Wednesday morning at Bar Tigli. Outside it's raining softly.
+Kevin apre alle sei e pulisce il bancone. || Kevin opens at six and cleans the counter.
+Nadia scende dalle scale alle sette e mezza. || Nadia comes down the stairs at seven thirty.
+Ha il cappotto ancora aperto e la borsa in mano. || Her coat is still open and her bag is in her hand.
+«Buongiorno. Caffè?»{ben} || “Morning. Coffee?”
+«Decaffeinato. Il bambino ha fame, ma non di caffeina.»{nadia|dry} || “Decaf. The baby is hungry, but not for caffeine.”
+Kevin prepara il caffè e guarda il bancone vuoto. || Kevin makes the coffee and looks at the empty counter.
+«Mattina lenta oggi.»{ben} || “Slow morning today.”
+«La mattina lenta è la mia preferita.»{nadia} || “A slow morning is my favorite.”
+Matteo arriva dalle scale con i capelli ancora bagnati. || Matteo comes down the stairs with his hair still wet.
+«Ho dormito otto ore! Otto!»{matteo|proud} || “I slept eight hours! Eight!”
+«Sei un padre responsabile.»{nadia|dry} || “You're a responsible father.”
+Kevin asciuga un bicchiere con **calma**. || Kevin dries a glass with **calm**.
+«Posso **domandare** una cosa?»{ben} || “Can I **ask** something?”
+«Costa?»{matteo} || “Does it cost anything?”
+«No. È per Emma. Ha un compito sui nonni.»{ben} || “No. It's for Emma. She has homework about grandparents.”
+«E allora?»{matteo} || “So?”
+«Come vi siete **incontrati** voi due?»{ben} || “How did you two **meet**?”
+Nadia posa la tazza e **sorride** piano. || Nadia puts down the cup and **smiles** softly.
+«Questa è una storia lunga.»{nadia} || “That's a long story.”
+«Ho tempo. La mattina è lenta.»{ben} || “I have time. The morning is slow.”
+«Va bene. Lui arrivava in farmacia tutte le mattine.»{nadia} || “All right. He used to come into the pharmacy every morning.”
+Matteo alza subito la mano. || Matteo immediately raises his hand.
+«Attenzione. Non è la storia vera.»{matteo} || “Careful. That's not the real story.”
+«Sì, è la storia vera. Lui **faceva finta** di essere **malato**.»{nadia} || “Yes, it is the real story. He **pretended** to be **sick**.”
+«Non **facevo finta**. Ero **malato** davvero.»{matteo|hurt} || “I **wasn't pretending**. I was **really sick**.”
+«Ogni giorno? Per una settimana?»{nadia} || “Every day? For a week?”
+«È stata una settimana difficile.»{matteo} || “It was a difficult week.”
+Kevin ride e prende il suo **taccuino** giallo. || Kevin laughs and takes his yellow **notebook**.
+«Aspettate. Scrivo.»{ben} || “Wait. I'm writing.”
+Nadia lo guarda con curiosità. || Nadia looks at him with curiosity.
+«Scrivi tutto, Kevin?»{nadia} || “Do you write everything, Kevin?”
+«Tutto quello che dimentico.»{ben} || “Everything I forget.”
+«Il **taccuino** lo usi anche per Emma?»{nadia} || “Do you use the **notebook** for Emma too?”
+«Emma ha il suo. Il mio è pieno di errori.»{ben} || “Emma has her own. Mine is full of mistakes.”
+«Un **taccuino** di errori. Geniale.»{matteo} || “A **notebook** of mistakes. Brilliant.”
+«Grazie. Allora: tu arrivavi in farmacia...»{ben} || “Thanks. So: you used to come into the pharmacy...”
+«E lui **faceva la fila** alla mia cassa.»{nadia} || “And he **stood in line** at my register.”
+«Alla tua cassa? Non c'erano altre casse?»{ben} || “At your register? Weren't there other registers?”
+«C'erano. Ma lui **faceva la fila** sempre alla mia.»{nadia} || “There were. But he **always stood in line** at mine.”
+Matteo incrocia le braccia. || Matteo crosses his arms.
+«Anche gli altri clienti lo facevano.»{matteo} || “The other customers did it too.”
+«Gli altri clienti non venivano con un **camice**.»{nadia} || “The other customers didn't come with a **white coat**.”
+Kevin alza la testa di colpo. || Kevin raises his head suddenly.
+«Un **camice**? Come i medici?»{ben} || “A **white coat**? Like doctors?”
+«Come i medici. Bianco, lungo, bellissimo.»{nadia|dry} || “Like doctors. White, long, beautiful.”
+«Era un **camice** da farmacista. Un regalo.»{matteo} || “It was a pharmacist's **coat**. A gift.”
+«Un regalo di chi?»{ben} || “A gift from whom?”
+«Di mia zia. Lei lavorava in farmacia a Milano.»{matteo} || “From my aunt. She worked in a pharmacy in Milan.”
+Nadia appoggia il gomito sul bancone. || Nadia rests her elbow on the counter.
+«E lui entrava con quel **camice**, guardava gli scaffali e tossiva.»{nadia} || “And he used to come in with that **coat**, look at the shelves and cough.”
+«Tossivo davvero.»{matteo} || “I really coughed.”
+«Tossivi vicino a me. Sempre vicino a me.»{nadia} || “You coughed near me. Always near me.”
+«E tu cosa facevi?»{ben} || “And what did you do?”
+«Io lavoravo. Lui tossiva. Poi lui **domandava** una crema.»{nadia} || “I worked. He coughed. Then he **asked** for a cream.”
+«Una crema. Sempre la stessa?»{ben} || “A cream. Always the same one?”
+«Sempre la stessa. Per la gola.»{nadia} || “Always the same one. For the throat.”
+Matteo guarda Kevin con orgoglio. || Matteo looks at Kevin with pride.
+«Una crema seria. Non una crema inventata.»{matteo} || “A serious cream. Not an invented cream.”
+«E poi?»{ben} || “And then?”
+«E poi **un giorno** gli ho chiesto: “Perché viene sempre qui?”»{nadia} || “And then **one day** I asked him: “Why do you always come here?””
+«E tu?»{ben} || “And you?”
+«Io **ho arrossito** e **ho annuito**. Come un pesce.»{matteo} || “I **blushed** and **nodded**. Like a fish.”
+Kevin ride forte e scrive veloce. || Kevin laughs loudly and writes fast.
+«E il **primo appuntamento**?»{ben} || “And the **first date**?”
+Silenzio. Nadia e Matteo si guardano. || Silence. Nadia and Matteo look at each other.
+«Tre mazzi di fiori.»{nadia} || “Three bouquets of flowers.”
+«Due mazzi di fiori.»{matteo} || “Two bouquets of flowers.”
+«Tre.»{nadia} || “Three.”
+«Due. Uno era di mia madre.»{matteo} || “Two. One was from my mother.”
+«Tuo madre non era alla cena.»{nadia} || “Your mother wasn't at dinner.”
+«Ai fiori però sì.»{matteo|proud} || “At the flowers though, yes.”
+Kevin alza le mani. || Kevin raises his hands.
+«Non importa. Siete una coppia **innamorata**?»{ben} || “It doesn't matter. Are you two an **in-love** couple?”
+«**Innamorati** da sei anni.»{nadia} || “**In love** for six years.”
+«E **innamorati** anche nei giorni lenti.»{matteo} || “And **in love** on the slow days too.”
+«E chi ha parlato prima?»{ben} || “And who spoke first?”
+«Io.»{nadia} || “Me.”
+«Io.»{matteo} || “Me.”
+Kevin scrive una riga e poi la cancella. || Kevin writes a line and then crosses it out.
+«È un po' **confuso** tutto questo.»{ben} || “This is all a bit **confused**.”
+«No, lui **confonde** sempre i dettagli.»{nadia} || “No, he always **mixes up** the details.”
+«Io non **confondevo** niente. Tu **confondevi** i fiori.»{matteo} || “I didn't **mix up** anything. You **mixed up** the flowers.”
+«Vedi?»{nadia|dry} || “You see?”
+«Nadia, una domanda seria.»{ben} || “Nadia, a serious question.”
+«Sì?»{nadia} || “Yes?”
+«Dove ti sei **innamorata** di lui? Con quel **camice**?»{ben} || “Where did you **fall in love** with him? In that **coat**?”
+«In farmacia, davanti al bancone, alle nove di mattina.»{nadia} || “At the pharmacy, in front of the counter, at nine in the morning.”
+«E lui?»{ben} || “And him?”
+«Io **mi sono innamorato** in farmacia, ma di sera.»{matteo} || “I **fell in love** at the pharmacy, but in the evening.”
+«Di sera la farmacia era chiusa.»{nadia} || “In the evening the pharmacy was closed.”
+«Appunto. Io ti aspettavo fuori.»{matteo} || “Exactly. I waited for you outside.”
+Nadia abbassa gli occhi per un secondo. || Nadia lowers her eyes for a second.
+«Questo è vero.»{nadia|soft} || “That part is true.”
+«E quanto aspettavi?»{ben} || “And how long did you wait?”
+«Sempre un'ora, con **calma**. Mai sotto l'ora.»{matteo} || “Always an hour, **calmly**. Never less than an hour.”
+«**La calma** non era il suo problema.»{nadia|dry} || “**Calm** was not his problem.”
+Kevin scrive: **nascondere** i fiori, aspettare un'ora. || Kevin writes: **hide** the flowers, wait an hour.
+«Posso scrivere tutto nel **taccuino**?»{ben} || “Can I write everything in the **notebook**?”
+«Sì, ma senza nomi. Il paese è piccolo.»{nadia} || “Yes, but no names. The town is small.”
+«Va bene. “N” e “M”.»{ben} || “All right. “N” and “M.””
+«E allora perché questa storia?»{matteo} || “So why this story?”
+«Emma intervista Franco sulla nonna Anna.»{ben} || “Emma is interviewing Franco about Grandma Anna.”
+«Ah. La storia vera della famiglia.»{nadia} || “Ah. The real family story.”
+«Nonno Franco e nonna Anna **si sono incontrati** su un tram.»{ben} || “Grandpa Franco and Grandma Anna **met** on a tram.”
+Matteo sgrana gli occhi. || Matteo's eyes widen.
+«Su un tram? Mio padre non dice mai niente.»{matteo} || “On a tram? My father never says anything.”
+«Io lo so perché Emma lo dice stasera.»{ben} || “I know because Emma is saying it tonight.”
+«Povera Emma. Buona fortuna.»{nadia} || “Poor Emma. Good luck.”
+«Nadia, io voglio una storia come la vostra.»{ben} || “Nadia, I want a story like yours.”
+«Tu hai due frasi e un'insalata.»{nadia} || “You have two sentences and a salad.”
+«È poco, lo so.»{ben} || “It's not much, I know.”
+«No. È corto, non è poco.»{nadia} || “No. It's short, not small.”
+Kevin **arrossisce** e guarda il caffè. || Kevin **blushes** and looks at the coffee.
+«Grazie. Il **taccuino** è pieno anche di frasi così.»{ben} || “Thanks. The **notebook** is full of sentences like that too.”
+«E l'**amore**? Ce l'hai una pagina per l'**amore**?»{matteo|playful} || “And **love**? Do you have a page for **love**?”
+«Ho una pagina con tre parole: “salad”, “fireworks”, “wow”.»{ben} || “I have a page with three words: “salad,” “fireworks,” “wow.””
+«Questo è l'**amore** americano.»{matteo|dry} || “That's American **love**.”
+Nadia ride e prende la sua borsa. || Nadia laughs and picks up her bag.
+«Andiamo, **conducente** del bambino. La farmacia apre alle otto.»{nadia} || “Let's go, **driver** of the baby. The pharmacy opens at eight.”
+«Non sono un **conducente**. Guido solo il motorino.»{matteo} || “I'm not a **driver**. I only ride a scooter.”
+«E qual è il tuo **capolinea**?»{nadia|dry} || “And what's your **terminus**?”
+«La farmacia. Sempre la farmacia.»{matteo} || “The pharmacy. Always the pharmacy.”
+«Bene. Allora ci vediamo alle sei.»{nadia} || “Good. Then see you at six.”
+Matteo la guarda uscire e **sorride**. || Matteo watches her leave and **smiles**.
+«Kevin, la prossima volta ti racconto come ci siamo fidanzati.»{matteo} || “Kevin, next time I'll tell you how we got engaged.”
+«Guarda che la storia la racconta sempre lei.»{ben} || “You know she's always the one who tells the story.”
+«Appunto. Mi alleno.»{matteo} || “Exactly. I'm practicing.”
+Kevin **annuisce** e scrive un'ultima riga. || Kevin **nods** and writes one last line.
+_Tre mazzi o due: non importa. Importa il camice._{ben} || *Three bouquets or two: it doesn't matter. The coat matters.*
+
+# SCENE casa-franco | mercoledì pomeriggio | emma, franco
+Mercoledì pomeriggio, casa di Franco. || Wednesday afternoon, Franco's house.
+La cucina è in ordine e la finestra è aperta. || The kitchen is tidy and the window is open.
+Sul tavolo c'è un piatto di mele e un coltello piccolo. || On the table there's a plate of apples and a small knife.
+Emma entra con lo zaino e il **taccuino** nuovo. || Emma comes in with her backpack and the new **notebook**.
+«Nonno, ho un compito. Cinque domande, niente di difficile.»{emma} || “Grandpa, I have an assignment. Five questions, nothing difficult.”
+Franco non alza gli occhi dalle mele. || Franco doesn't raise his eyes from the apples.
+«Di che materia?»{franco} || “What subject?”
+«Italiano. La professoressa Bassi dice: intervista una persona anziana.»{emma} || “Italian. Professor Bassi says: interview an older person.”
+«E sul tema?»{franco} || “And on what topic?”
+Emma si siede e apre il **taccuino**. || Emma sits down and opens the **notebook**.
+«Come vi siete conosciuti tu e la nonna.»{emma} || “How you and Grandma met.”
+Silenzio. Franco taglia una mela in quattro. || Silence. Franco cuts an apple into four pieces.
+«Mah.»{franco} || “Hmm.”
+«Nonno, è per la scuola.»{emma} || “Grandpa, it's for school.”
+«La scuola. Sempre la scuola.»{franco|dry} || “School. Always school.”
+Franco le offre un pezzo di mela. || Franco offers her a piece of apple.
+«Mangia. Poi vediamo.»{franco} || “Eat. Then we'll see.”
+Emma mangia e aspetta con **calma**. || Emma eats and waits with **calm**.
+«Sei come tua madre. Aspetti e non parli.»{franco} || “You're like your mother. You wait and you don't talk.”
+«La mamma dice che tu non parli mai della nonna.»{emma} || “Mom says you never talk about Grandma.”
+«Tua madre dice tante cose.»{franco} || “Your mother says a lot of things.”
+«Solo una storia, nonno. Poi ti lascio in pace.»{emma} || “Just one story, Grandpa. Then I'll leave you in peace.”
+Franco si asciuga le mani e si siede. || Franco dries his hands and sits down.
+«Va bene. Ma la scrivi bene, senza **confondere** le date.»{franco} || “All right. But write it properly, without **mixing up** the dates.”
+«Scrivo tutto. Data, luogo, nomi.»{emma} || “I'll write everything. Date, place, names.”
+«Nel 1975 io avevo vent'anni e **guidavo** il tram a Milano.»{franco} || “In 1975 I was twenty and I **drove** the tram in Milan.”
+Emma scrive subito la prima riga. || Emma immediately writes the first line.
+«Il numero quattro. Da San Siro al **capolinea** sud.»{franco} || “Number four. From San Siro to the south **terminus**.”
+«Eri **conducente**?»{emma} || “You were a **driver**?”
+«**Conducente**. Un lavoro serio, con la divisa.»{franco|proud} || “**Driver**. A serious job, with a uniform.”
+«E la nonna?»{emma} || “And Grandma?”
+«Tua nonna **prendeva** il **tram** tutte le mattine. Stessa **fermata**, alle sette e dieci.»{franco} || “Your grandma **took** the **tram** every morning. Same **stop**, at ten past seven.”
+«Tutte le mattine?»{emma} || “Every morning?”
+«Tutte. E poi c'era **la fila**. Io **facevo la fila** di passeggeri e lei era sempre l'ultima.»{franco} || “Every single one. And then there was the line. I **stood in line** with the passengers and she was always last.”
+«Perché l'ultima?»{emma} || “Why last?”
+«Perché **leggeva** e non guardava l'ora.»{franco} || “Because she **read** and didn't look at the time.”
+Emma ride piano. || Emma laughs softly.
+«E tu la guardavi?»{emma} || “And you watched her?”
+«Io **guidavo** e **guardavo** la strada.»{franco} || “I **drove** and **watched** the road.”
+«Nonno, dai.»{emma} || “Grandpa, come on.”
+«Va bene. La **guardavo**. Ma solo nello specchio.»{franco} || “All right. I **watched** her. But only in the mirror.”
+Franco prende il **taccuino** di Emma e legge una parola. || Franco takes Emma's **notebook** and reads a word.
+«“**Passeggero**”. Scrivi bene.»{franco} || ““**Passenger**.” You write well.”
+«Grazie. E lei cosa faceva?»{emma} || “Thanks. And what did she do?”
+«**Dimenticava** sempre la **fermata**. Tutti i giorni.»{franco} || “She **always forgot** the **stop**. Every single day.”
+«Sempre?»{emma} || “Always?”
+«Sempre. Arrivava al **capolinea** con il libro in mano.»{franco} || “Always. She arrived at the **terminus** with the book in her hand.”
+Emma scrive veloce, poi alza la testa. || Emma writes fast, then raises her head.
+«E parlava con te?»{emma} || “And did she talk with you?”
+«No. Io **ero** timido. Con lei non **parlavo** mai.»{franco} || “No. I **was** shy. With her I **never talked**.”
+«Per quanto tempo?»{emma} || “For how long?”
+«Due mesi. Due mesi di silenzio e di sguardi.»{franco} || “Two months. Two months of silence and glances.”
+«Due mesi? Nonno!»{emma} || “Two months? Grandpa!”
+«Io **aspettavo**. Sempre.»{franco} || “I **waited**. Always.”
+«E poi?»{emma} || “And then?”
+«E poi **un giorno** lei non è scesa alla sua fermata.»{franco} || “And then **one day** she didn't get off at her stop.”
+Emma smette di scrivere. || Emma stops writing.
+«E io **ho chiamato**: “Signorina, la sua fermata.”»{franco} || “And I **called out**: “Miss, your stop.””
+«E lei?»{emma} || “And her?”
+«Lei **ha risposto** solo: “Grazie.” E **ha arrossito**.»{franco} || “She **answered** only: “Thank you.” And she **blushed**.”
+«Ha **arrossito**?»{emma} || “She **blushed**?”
+«Tutta rossa. Come una mela.»{franco|soft} || “All red. Like an apple.”
+Franco tocca il piatto con un dito. || Franco touches the plate with a finger.
+«E poi è **scesa**. E il giorno dopo, uguale.»{franco} || “And then she **got off**. And the next day, the same.”
+Emma scrive l'ultima frase e **annuisce** lentamente. || Emma writes the last sentence and **nods** slowly.
+«Nonno, questa è una storia vera.»{emma} || “Grandpa, this is a real story.”
+«È l'inizio di una storia.»{franco} || “It's the beginning of a story.”
+«E il resto?»{emma} || “And the rest?”
+«Il resto è lungo. Poi **un giorno** è successo qualcosa.»{franco} || “The rest is long. Then **one day** something happened.”
+Franco si ferma e guarda la finestra. || Franco stops and looks at the window.
+_Se le dico tutto adesso, domani non torna._{franco} || *If I tell her everything now, she won't come back tomorrow.*
+_Un **ricordo** è come il vino: va aperto piano._{franco} || *A **memory** is like wine: it should be opened slowly.*
+_Sto **nascondendo** solo la parte migliore._{franco} || *I'm only **hiding** the best part.*
+«Domani alle quattro. Qui.»{franco} || “Tomorrow at four. Here.”
+«Domani ho scuola fino alle tre e mezza.»{emma} || “Tomorrow I have school until three thirty.”
+«Allora alle quattro e un quarto.»{franco} || “Then at a quarter past four.”
+«Va bene. Nonno, una cosa.»{emma} || “All right. Grandpa, one thing.”
+«**Domanda**.»{franco} || “**Ask**.”
+«Perché **sorridi** così?»{emma} || “Why are you **smiling** like that?”
+«Io non sorrido.»{franco} || “I'm not smiling.”
+«Sì, sorridi. Con gli occhi.»{emma} || “Yes, you are. With your eyes.”
+Franco si alza e mette il piatto nel lavandino. || Franco gets up and puts the plate in the sink.
+«Domani. E porta il **taccuino** pulito.»{franco} || “Tomorrow. And bring a clean **notebook**.”
+«Perché? Quante pagine servono?»{emma} || “Why? How many pages do I need?”
+«Tante. E forse ti **rivelo** una foto.»{franco} || “Many. And maybe I'll **reveal** a photo to you.”
+«Una foto di chi?»{emma} || “A photo of whom?”
+«Di una ragazza **bellissima** con un libro in mano.»{franco} || “Of a **very beautiful** girl with a book in her hand.”
+Emma **annuisce** e chiude il **taccuino**. || Emma **nods** and closes the **notebook**.
+_Il nonno ha detto “**bellissima**” e ha guardato per terra._{emma} || *Grandpa said “**very beautiful**” and looked at the floor.*
+_Adesso capisco perché non parla._{emma} || *Now I understand why he doesn't talk.*
+«Nonno, ti voglio bene.»{emma} || “Grandpa, I love you.”
+«Anche io. Ma non lo scrivere nel compito.»{franco|dry} || “Me too. But don't write that in the assignment.”
+Emma mette il **taccuino** nello zaino e va alla porta. || Emma puts the **notebook** in her backpack and goes to the door.
+«Alle quattro e un quarto. Con la mela.»{franco} || “At a quarter past four. With an apple.”
+«Con la mela.»{emma} || “With an apple.”
+_Se penso a lei, mi **innamoro** di nuovo. E ho settantadue anni._{franco} || *If I think about her, I **fall in love** again. And I'm seventy-two.*
+
+# SCENE orto | giovedì pomeriggio | emma, franco
+Giovedì pomeriggio, l'orto di Franco. || Thursday afternoon, Franco's vegetable garden.
+Il cielo è chiaro e l'aria sa di terra bagnata. || The sky is clear and the air smells of wet earth.
+Franco è in ginocchio tra i pomodori con un piccolo rastrello. || Franco is on his knees among the tomatoes with a small rake.
+Emma arriva con il **taccuino** e una mela in mano. || Emma arrives with the **notebook** and an apple in her hand.
+«Nonno, ho portato la mela.»{emma} || “Grandpa, I brought the apple.”
+«Brava. Mettila lì, sul secchio.»{franco} || “Good. Put it there, on the bucket.”
+«Ti aiuto?»{emma} || “Shall I help you?”
+«No. Tu scrivi. Io raccolgo.»{franco} || “No. You write. I pick.”
+Emma si siede su una cassetta di legno. || Emma sits on a wooden crate.
+«Ieri ci siamo fermati a: “Poi un giorno è successo qualcosa”.»{emma} || “Yesterday we stopped at: “Then one day something happened.””
+«Lo so. Ci ho pensato tutta la notte.»{franco} || “I know. I thought about it all night.”
+«E allora?»{emma} || “So?”
+Franco si alza, si pulisce le mani sui pantaloni e guarda la strada. || Franco stands up, wipes his hands on his pants and looks at the street.
+«Era giugno. Faceva caldo. Lei **leggeva** e io **guidavo**.»{franco} || “It was June. It was hot. She **read** and I **drove**.”
+«E poi?»{emma} || “And then?”
+«E poi **un giorno** lei non è **scesa** alla fermata. Non una volta: due.»{franco} || “And then **one day** she didn't **get off** at the stop. Not once: twice.”
+«Due volte di fila?»{emma} || “Twice in a row?”
+«Due volte di fila. E alla terza si è alzata e **è venuta** verso di me.»{franco} || “Twice in a row. And the third time she got up and **came** toward me.”
+«Verso di te? Al posto del **conducente**?»{emma} || “Toward you? To the **driver's** seat?”
+«Sì. Con il libro in mano e gli occhiali sul naso.»{franco} || “Yes. With the book in her hand and glasses on her nose.”
+Emma smette di respirare per un secondo. || Emma stops breathing for a second.
+«E cosa ha detto?»{emma} || “And what did she say?”
+«Mi **ha domandato**: “Scusi, lei sa dove si beve un buon caffè?”»{franco} || “She **asked** me: “Excuse me, do you know where one drinks a good coffee?””
+«E tu?»{emma} || “And you?”
+«Io **ho risposto** con le mani. La bocca non funzionava.»{franco} || “I **answered** with my hands. My mouth wasn't working.”
+«Con le mani?»{emma} || “With your hands?”
+«Ho indicato la piazza, il bar, il ponte. Tre gesti e niente parole.»{franco} || “I pointed at the square, the bar, the bridge. Three gestures and no words.”
+«E lei?»{emma} || “And her?”
+«Lei **ha sorriso**. E **ha arrossito** di nuovo.»{franco} || “She **smiled**. And she **blushed** again.”
+Franco imita il gesto con la mano destra. || Franco imitates the gesture with his right hand.
+«Poi **si è seduta** dietro, come sempre. Ma quella sera mi **aspettava** al **capolinea**.»{franco} || “Then she **sat down** in the back, as always. But that evening she **waited** for me at the **terminus**.”
+«Al **capolinea**?»{emma} || “At the **terminus**?”
+«Al **capolinea** sud. Con due caffè in mano.»{franco} || “The south **terminus**. With two coffees in her hand.”
+«Due caffè. Quindi il primo appuntamento è stato al capolinea?»{emma} || “Two coffees. So the first date was at the terminus?”
+«No. Quello era l'inizio. Il **primo appuntamento** è stato dopo, a giugno.»{franco} || “No. That was the beginning. The **first date** was later, in June.”
+«A giugno dove?»{emma} || “In June where?”
+«Al **ballo** della piazza. La festa di San Giovanni.»{franco} || “At the **dance** in the square. The Saint John's festival.”
+Emma scrive veloce e poi alza la testa. || Emma writes fast and then raises her head.
+«Tu ballavi?»{emma} || “You danced?”
+«Io non **ballavo**. Lei non **ballava**. Abbiamo **ballato** tutta la sera.»{franco} || “I didn't **dance**. She didn't **dance**. We **danced** all evening.”
+«Tutta la sera? Con la musica?»{emma} || “All evening? With music?”
+«Con la musica. E lei rideva perché io **contavo** i passi ad alta voce.»{franco} || “With music. And she laughed because I **counted** the steps out loud.”
+«Uno, due, tre?»{emma} || “One, two, three?”
+«Uno, due, tre. E poi quattro, cinque. Sempre sbagliato.»{franco} || “One, two, three. And then four, five. Always wrong.”
+Franco appoggia il rastrello alla staccionata. || Franco leans the rake against the fence.
+«E lì **ci siamo incontrati** davvero. Non sul **tram**: sulla pista.»{franco} || “And that's where we **really met**. Not on the **tram**: on the dance floor.”
+«Nonno, questa è la parte migliore.»{emma} || “Grandpa, this is the best part.”
+«La parte migliore è un'altra.»{franco} || “The best part is another one.”
+«Quale?»{emma} || “Which one?”
+Franco si siede sulla cassetta accanto a lei. || Franco sits on the crate next to her.
+«Una sera **siamo andati** al cinema, in centro. Film italiano, noioso.»{franco} || “One evening **we went** to the cinema, downtown. Italian film, boring.”
+«E?»{emma} || “And?”
+«E io non **guardavo** il film. **Guardavo** lei.»{franco} || “And I didn't **watch** the film. I **watched** her.”
+«**All'improvviso**?»{emma} || “**Suddenly**?”
+«**All'improvviso**. In mezzo al film, con la musica triste.»{franco} || “**Suddenly**. In the middle of the film, with the sad music.”
+«E cosa hai pensato?»{emma} || “And what did you think?”
+«Ho pensato: “**Mi sono innamorato**”. E il **battito** andava forte.»{franco} || “I thought: “**I've fallen in love**.” And my **heartbeat** was racing.”
+«Per tutto il film?»{emma} || “For the whole film?”
+«Per tutto il film. E anche dopo, sul **tram** numero nove.»{franco} || “For the whole film. And even after, on **tram** number nine.”
+Emma scrive la parola “**battito**” e la sottolinea due volte. || Emma writes the word “**heartbeat**” and underlines it twice.
+«E il **passenger**... scusa, il **passeggero**?»{emma} || “And the **passenger**... sorry, the **passenger**?”
+«Quale passeggero?»{franco} || “Which passenger?”
+«Niente. Sto scegliendo le parole.»{emma} || “Nothing. I'm choosing the words.”
+Franco si alza e va verso la piccola serra. || Franco gets up and goes toward the small greenhouse.
+«Aspetta qui. Un minuto.»{franco} || “Wait here. One minute.”
+Torna con una scatola di latta e la apre **con calma**. || He comes back with a tin box and opens it **with calm**.
+Dentro ci sono foto piccole, in bianco e nero. || Inside there are small photos, in black and white.
+«Guarda questa.»{franco} || “Look at this one.”
+Emma prende la foto con due dita. || Emma takes the photo with two fingers.
+Una ragazza con gli occhiali e un libro è davanti a un **tram**. || A girl with glasses and a book is in front of a **tram**.
+«È la nonna?»{emma} || “Is that Grandma?”
+«Diciotto anni. Prima che **ci incontravamo** io e lei.»{franco} || “Eighteen years old. Before she and I **met**.”
+«Nonno, è **bellissima**.»{emma} || “Grandpa, she's **very beautiful**.”
+«Lo so. L'ho pensato quel giorno e l'ho pensato per quarant'anni.»{franco|soft} || “I know. I thought it that day and I thought it for forty years.”
+Emma **annuisce** e tiene la foto contro il petto. || Emma **nods** and holds the photo against her chest.
+«Posso fotografarla per la **ricerca**?»{emma} || “Can I photograph it for the **assignment**?”
+«Puoi fotografarla. Ma la foto resta qui.»{franco} || “You can photograph it. But the photo stays here.”
+«Promesso. Nonno, una domanda seria.»{emma} || “Promise. Grandpa, a serious question.”
+«**Domanda**.»{franco} || “**Ask**.”
+«Perché non l'hai mai raccontata a noi?»{emma} || “Why did you never tell it to us?”
+Franco mette le mani in tasca e guarda i pomodori. || Franco puts his hands in his pockets and looks at the tomatoes.
+«Perché **la memoria** fa **la calma** quando vuole lei.»{franco} || “Because **memory** takes its **time** when it wants to.”
+«Cioè?»{emma} || “Meaning?”
+«Cioè **i ricordi** arrivano piano. E alcuni arrivano dopo cinquant'anni.»{franco} || “Meaning **memories** arrive slowly. And some arrive after fifty years.”
+«E adesso sono arrivati?»{emma} || “And now they've arrived?”
+Franco **sorride** senza guardarla. || Franco **smiles** without looking at her.
+«Adesso li ho **rivelati** a te. A te sola.»{franco} || “Now I've **revealed** them to you. To you alone.”
+«E alla mamma?»{emma} || “And to Mom?”
+«Tua madre **faceva la fila** come me. Aspettava e non domandava.»{franco} || “Your mother **stood in line** like me. She waited and didn't ask.”
+«Ma io ho domandato.»{emma} || “But I asked.”
+«Appunto. Per questo sei qui.»{franco|dry} || “Exactly. That's why you're here.”
+Franco prende un pomodoro e glielo mette in mano. || Franco takes a tomato and puts it in her hand.
+«Questo è per tua madre. Il racconto lo tieni tu, per ora.»{franco} || “This is for your mother. You keep the story, for now.”
+Emma **annuisce** e mette il pomodoro nello zaino. || Emma **nods** and puts the tomato in her backpack.
+«Nonno, grazie.»{emma} || “Grandpa, thanks.”
+«Va' a casa. E scrivi bene le date.»{franco} || “Go home. And write the dates properly.”
+Emma esce dall'orto e si volta un'ultima volta. || Emma leaves the garden and turns around one last time.
+_Mio nonno ha aspettato cinquant'anni per dire “**bellissima**”._{emma} || *My grandpa waited fifty years to say “**very beautiful**.”*
+_E adesso quella parola è anche mia._{emma} || *And now that word is mine too.*
+
+# SCENE casa-carter | giovedì sera | emma, chiara, leo, kevin
+Giovedì sera, la cucina dei Carter. || Thursday evening, the Carters' kitchen.
+Fuori è buio e piove di nuovo. || Outside it's dark and raining again.
+Emma è al tavolo con il **taccuino** aperto e due foto stampate. || Emma is at the table with the open **notebook** and two printed photos.
+Scrive la **ricerca** a mano, come vuole la professoressa. || She's writing the **assignment** by hand, the way the professor wants.
+Chiara entra dalla porta con la borsa del lavoro. || Chiara comes in the door with her work bag.
+«Ancora sveglia?»{chiara} || “Still awake?”
+«Sto finendo. Titolo: “Come si sono **incontrati** i miei nonni”.»{emma} || “I'm finishing. Title: “How my grandparents **met**.””
+Chiara si avvicina al tavolo e legge in silenzio. || Chiara comes to the table and reads in silence.
+Legge per trenta secondi, poi si siede. || She reads for thirty seconds, then sits down.
+«Il **primo appuntamento** è stato al **ballo** della piazza?»{chiara} || “The **first date** was at the **dance** in the square?”
+«Al ballo di San Giovanni. Nessuno dei due sapeva ballare.»{emma} || “At the Saint John's dance. Neither of them knew how to dance.”
+«Ho vissuto in quella casa per diciotto anni.»{chiara} || “I lived in that house for eighteen years.”
+«E lo sapevi?»{emma} || “And did you know?”
+Chiara posa la mano sul foglio. || Chiara rests her hand on the sheet.
+«Sapevo che guidava i **tram**. Sapevo il numero quattro e la divisa.»{chiara} || “I knew he drove **trams**. I knew number four and the uniform.”
+«E il caffè al **capolinea**?»{emma} || “And the coffee at the **terminus**?”
+«Il caffè al **capolinea** no. Questo non l'ho mai sentito.»{chiara} || “The coffee at the **terminus**, no. I've never heard that one.”
+Kevin arriva dal salotto con una tazza di tè. || Kevin comes from the living room with a cup of tea.
+«Come va?»{ben} || “How's it going?”
+«Mamma ha scoperto che il nonno ha una storia vera.»{emma} || “Mom has discovered that Grandpa has a real story.”
+«Lo sapevo!»{ben|proud} || “I knew it!”
+«Tu cosa sapevi?»{chiara} || “What did you know?”
+«Che un uomo tranquillo ha sempre una storia. Io, per esempio.»{ben} || “That a quiet man always has a story. Me, for example.”
+«Papà, no.»{emma} || “Dad, no.”
+«Un barbecue, un piatto di insalata e **all'improvviso**...»{ben} || “A barbecue, a plate of salad and **suddenly**...”
+«Papà!»{emma} || “Dad!”
+«**Mi sono innamorato** **all'improvviso**, ho **confuso** il mio nome con il tuo.»{ben} || “**I fell in love** **suddenly**, I **mixed up** my name with yours.”
+Silenzio in cucina. || Silence in the kitchen.
+Chiara guarda il tavolo e non parla. || Chiara looks at the table and doesn't say anything.
+«Era il 2006, Kevin.»{chiara|soft} || “It was 2006, Kevin.”
+«Lo so. Ti ho chiamato Marco per tre minuti.»{ben} || “I know. I called you Marco for three minutes.”
+«Il mio collega si chiamava Mark.»{ben} || “My colleague's name was Mark.”
+«E adesso lo scrivi nei **ricordi**?»{chiara} || “And now do you write it in your **memories**?”
+«Nel **taccuino** sì. Il **taccuino** è pieno di **ricordi** corti.»{ben} || “In the **notebook**, yes. The **notebook** is full of short **memories**.”
+«Il nonno invece **nasconde** tutto.»{emma} || “Grandpa instead **hides** everything.”
+«No. Il nonno conserva tutto.»{chiara} || “No. Grandpa keeps everything.”
+«È diverso?»{emma} || “Is that different?”
+«È diverso. **Nascondere** è una cosa, aspettare è un'altra.»{chiara} || “It's different. **Hiding** is one thing, waiting is another.”
+«Però ha aspettato cinquant'anni.»{emma} || “But he waited fifty years.”
+«**La memoria** è lenta. E il nonno ha **la calma** di aspettare.»{chiara} || “**Memory** is slow. And Grandpa has the **calm** to wait.”
+Leo arriva in pigiama e si arrampica su una sedia. || Leo comes in his pajamas and climbs onto a chair.
+«Di chi parlate?»{leo} || “Who are you talking about?”
+«Del nonno Franco e della nonna Anna.»{emma} || “About Grandpa Franco and Grandma Anna.”
+«Erano **innamorati**?»{leo} || “Were they **in love**?”
+«Molto.»{emma} || “Very much.”
+«E tu sei **innamorata**?»{leo} || “And are you **in love**?”
+Emma alza gli occhi di colpo. || Emma raises her eyes suddenly.
+«Che domande fai, Leo?»{emma} || “What kind of questions do you ask, Leo?”
+«Domande normali.»{leo|innocent} || “Normal questions.”
+«Vai a letto.»{emma} || “Go to bed.”
+«Prima rispondi.»{leo} || “Answer first.”
+«A letto, Leonardo.»{chiara} || “Bed, Leonardo.”
+Leo esce ridendo e Kevin lo accompagna. || Leo goes out laughing and Kevin walks him out.
+Emma scrive l'ultima riga e chiude il **taccuino**. || Emma writes the last line and closes the **notebook**.
+_Mio nonno ha aspettato cinquant'anni. Mia madre ha aspettato tutta la vita._{emma} || *My grandpa waited fifty years. My mom waited her whole life.*
+_La storia adesso è mia, e va bene così._{emma} || *The story is mine now, and that's fine.*
+Kevin torna in cucina e si stropiccia un occhio. || Kevin comes back into the kitchen and rubs one eye.
+«Kevin, stai piangendo?»{chiara|dry} || “Kevin, are you crying?”
+«No. Ho qualcosa nell'occhio.»{ben} || “No. I have something in my eye.”
+«In tutti e due?»{leo|from the stairs} || “In both of them?”
+«A letto!»{ben} || “Bed!”
+Chiara **sorride** e spegne la luce del tavolo. || Chiara **smiles** and turns off the table lamp.
+«Emma, domani me lo leggi tutto.»{chiara} || “Emma, tomorrow you'll read it all to me.”
+«Va bene. Ma il **battito** lo leggi piano.»{emma} || “All right. But read the **heartbeat** part slowly.”
+
+# SCENE bar-tigli | venerdì mattina | kevin, matteo, nadia, franco, emma
+Venerdì mattina, Bar Tigli. || Friday morning, Bar Tigli.
+Il cielo è chiaro e la porta è aperta. || The sky is clear and the door is open.
+Franco entra alle sette e mezza, come sempre. || Franco comes in at seven thirty, as always.
+«Caffè. In piedi.»{franco} || “Coffee. Standing up.”
+«Subito, signor Ferri.»{ben} || “Right away, Mr. Ferri.”
+Kevin mette la tazzina sul bancone. || Kevin puts the little cup on the counter.
+«Ieri Emma mi **ha domandato** delle cose.»{franco} || “Yesterday Emma **asked** me some things.”
+«Ah sì?»{ben|careful} || “Oh yes?”
+Matteo arriva dalle scale con la camicia storta. || Matteo comes down the stairs with his shirt crooked.
+«Buongiorno, papà. Anche tu hai una storia vera?»{matteo} || “Morning, Dad. Do you have a real story too?”
+«Io e tua madre **ci siamo incontrati** su un **tram**.»{franco} || “Your mother and I **met** on a **tram**.”
+Silenzio nel bar. Matteo posa la camicia. || Silence in the bar. Matteo puts down the shirt.
+«Su un tram? Non in farmacia?»{matteo} || “On a tram? Not in a pharmacy?”
+«In farmacia ci siete voi. E nessuno **ha fatto finta** di niente.»{franco} || “In the pharmacy there's you two. And nobody **pretended** anything.”
+«Papà, io ero **malato**.»{matteo} || “Dad, I was **sick**.”
+«Con un **camice** bianco?»{franco|dry} || “In a white **coat**?”
+«Era un dettaglio di stile.»{matteo} || “It was a stylish detail.”
+Nadia scende le scale con il cappotto già chiuso. || Nadia comes down the stairs with her coat already buttoned.
+«Buongiorno. Di che parlate?»{nadia} || “Morning. What are you talking about?”
+«Del **primo appuntamento** vostro.»{ben} || “About your **first date**.”
+«Quattro ore al ristorante.»{nadia} || “Four hours at the restaurant.”
+«Quattro ore e mezza.»{matteo} || “Four and a half hours.”
+«Quattro. E poi siamo andati a piedi fino a casa.»{nadia} || “Four. And then we walked home.”
+«E il conto?»{franco} || “And the bill?”
+Matteo guarda il soffitto. || Matteo looks at the ceiling.
+«Ho **confuso** il conto con quello di un'altra coppia.»{matteo} || “I **mixed up** the bill with another couple's.”
+«Hai pagato per due famiglie?»{franco} || “You paid for two families?”
+«Ho pagato per due famiglie. Ma ho fatto bella figura.»{matteo} || “I paid for two families. But I made a good impression.”
+«Con chi?»{franco} || “With whom?”
+«Con Nadia, no? L'ho fatto per **amore**.»{matteo} || “With Nadia, right? I did it for **love**.”
+«Il tuo amore è costoso.»{nadia|dry} || “Your love is expensive.”
+Kevin ride e prende il **taccuino**. || Kevin laughs and takes the **notebook**.
+«Posso scrivere anche questa?»{ben} || “Can I write this one down too?”
+«Scrivi, scrivi. Il bar è aperto anche ai **ricordi**.»{nadia} || “Write, write. The bar is open to **memories** too.”
+Franco finisce il caffè in tre sorsi. || Franco finishes the coffee in three sips.
+«Emma invece scrive bene. Ha la testa di sua madre.»{franco} || “Emma writes well, though. She has her mother's head.”
+«E tu cosa le hai detto?»{matteo} || “And what did you tell her?”
+«Le ho detto del **tram**, del **ballo**. E le ho dato una foto.»{franco} || “I told her about the **tram**, about the **dance**. And I gave her a photo.”
+«La foto della mamma a diciotto anni?»{matteo} || “The photo of Mom at eighteen?”
+«Con il libro in mano. **Bellissima**.»{franco} || “With the book in her hand. **Very beautiful**.”
+La porta si apre e entra Emma con lo zaino. || The door opens and Emma comes in with her backpack.
+«Buongiorno. Prendo un cappuccino e vado a scuola.»{emma} || “Morning. I'll have a cappuccino and go to school.”
+«Emma, leggi quella riga al nonno.»{ben} || “Emma, read that line to Grandpa.”
+Emma apre il **taccuino** e legge ad alta voce. || Emma opens the **notebook** and reads out loud.
+«“**Un giorno** lei non è scesa alla fermata. E lui l'ha chiamata.”»{emma} || ““**One day** she didn't get off at the stop. And he called her back.””
+Il bar va in silenzio. Nadia smette di asciugare la tazza. || The bar goes quiet. Nadia stops drying the cup.
+Franco guarda il bancone e **sorride** piano. || Franco looks at the counter and **smiles** softly.
+«Leggi bene. Hai scritto “**passeggero**” o “signorina”?»{franco} || “Read it properly. Did you write “**passenger**” or “miss”?”
+«Ho scritto “signorina”. Nel **taccuino** c'è tutto.»{emma} || “I wrote “miss.” Everything is in the **notebook**.”
+«Non **nascondere** niente, però.»{franco} || “Don't **hide** anything, though.”
+«Il **battito** l'ho messo. E i caffè al capolinea.»{emma} || “I put the **heartbeat** in. And the coffees at the terminus.”
+Kevin **annuisce** e scrive in fretta. || Kevin **nods** and writes quickly.
+_Nadia ha ragione: le storie vere sono quelle che ricordi con qualcuno._{ben} || *Nadia is right: true stories are the ones you remember with someone.*
+«Kevin, cos'è quella faccia?»{nadia} || “Kevin, what's that face?”
+«Sto scrivendo una frase. **La memoria** è meglio in compagnia.»{ben} || “I'm writing a sentence. **Memory** is better in company.”
+«Bella frase. La rubo.»{nadia} || “Nice sentence. I'm stealing it.”
+Franco si mette il cappello e va verso la porta. || Franco puts on his hat and goes toward the door.
+«Emma, domenica ti **rivelo** l'ultima parte.»{franco} || “Emma, on Sunday I'll **reveal** the last part to you.”
+«Quale parte?»{emma} || “Which part?”
+«Il matrimonio. E la torta al limone.»{franco} || “The wedding. And the lemon cake.”
+Matteo apre la bocca e la chiude due volte. || Matteo opens his mouth and closes it twice.
+«Il matrimonio? Papà, io non lo sapevo!»{matteo} || “The wedding? Dad, I didn't know that!”
+«Adesso lo sai.»{franco} || “Now you know.”
+Franco esce e la porta si chiude piano. || Franco leaves and the door closes softly.
+Matteo guarda Kevin con le mani in aria. || Matteo looks at Kevin with his hands in the air.
+«Tu hai una storia di due frasi e hai vinto.»{matteo} || “You have a two-sentence story and you won.”
+«Non ho vinto niente. Ho solo **incontrato** la donna giusta.»{ben} || “I didn't win anything. I just **met** the right woman.”
+«E lo scrivi?»{matteo} || “And are you writing that down?”
+«No. Questa la tengo in testa.»{ben} || “No. This one I keep in my head.”
+
+# SCENE casa-franco | domenica mattina | franco, lucia
+Domenica mattina, casa di Franco. || Sunday morning, Franco's house.
+C'è odore di caffè e di pane caldo. || There's a smell of coffee and warm bread.
+Lucia è al tavolo con la foto di Anna in mano. || Lucia is at the table with Anna's photo in her hand.
+«È **bellissima**. Con gli occhiali e il libro.»{lucia} || “She's **very beautiful**. With glasses and a book.”
+«Lo so.»{franco} || “I know.”
+Lucia posa la foto accanto alla tazzina. || Lucia puts the photo next to the little cup.
+«Le hai raccontato tutto a Emma?»{lucia} || “Did you tell Emma everything?”
+«Quasi tutto.»{franco} || “Almost everything.”
+«Anche che non sai ballare?»{lucia|dry} || “Even that you can't dance?”
+«Tante. E forse posso **rivelare** una foto.»{franco} || “Many. And maybe I can **reveal** a photo.”
+«Franco, quella ragazza ha scritto una cosa bella.»{lucia} || “Franco, that girl wrote something beautiful.”
+«Ha scritto bene. Le date sono giuste.»{franco} || “She wrote well. The dates are right.”
+«Non parlo delle date. Parlo del **ricordo**.»{lucia} || “I'm not talking about the dates. I'm talking about the **memory**.”
+Franco prende la foto e la guarda controluce. || Franco takes the photo and looks at it against the light.
+«Cinquant'anni in un cassetto.»{franco} || “Fifty years in a drawer.”
+«E adesso è fuori dal cassetto. È una cosa buona.»{lucia} || “And now it's out of the drawer. That's a good thing.”
+«Tua nonna ballava come me. Male.»{franco|soft} || “Your... she danced like me. Badly.”
+Lucia **sorride** e versa il caffè. || Lucia **smiles** and pours the coffee.
+«Il **ballo** di San Giovanni. Me l'hai raccontato una volta.»{lucia} || “The Saint John's **dance**. You told me about it once.”
+«Una volta sola. E senza dettagli.»{franco} || “Only once. And without details.”
+«Oggi ci sono i dettagli. Grazie a Emma.»{lucia} || “Today there are details. Thanks to Emma.”
+Franco appoggia la foto sul mobile, vicino alla foto di Lucia. || Franco sets the photo on the sideboard, next to Lucia's photo.
+_Anna si ricordava tutto. Il **tram**, il **capolinea**, il mio **battito**._{franco} || *Anna remembered everything. The **tram**, the **terminus**, my **heartbeat**.*
+_Solo la sua fermata la dimenticava sempre._{franco} || *Only her own stop she always forgot.*
+_Forse non era distrazione. Forse era un modo per restare._{franco} || *Maybe it wasn't distraction. Maybe it was a way of staying.*
+«Franco, stai parlando da solo?»{lucia} || “Franco, are you talking to yourself?”
+«No. Sto sistemando la **memoria**.»{franco} || “No. I'm tidying up **memory**.”
+«E non **nascondere** di nuovo la foto.»{lucia} || “And don't **hide** the photo again.”
+«Non la nascondo. Adesso è qui, con te.»{franco} || “I'm not hiding it. It's here now, with you.”
+«Bene. Allora beviamo il caffè.»{lucia} || “Good. Then let's drink the coffee.”
+Franco si siede e **sorride** alla foto. || Franco sits down and **smiles** at the photo.
+_La fermata è quella giusta. Ci siamo arrivati tutti._{franco} || *This is the right stop. We all got here.*
+
+@grammar
+# Imperfetto vs passato prossimo: background and events
+
+## What it is
+
+Italian has two past tenses that English speakers often mix up, because English uses one simple past for both jobs.
+
+The **imperfetto** describes how things were: scenes, habits, feelings, repeated actions, things that went on for a while. The **passato prossimo** reports what happened: single events, completed actions, things that moved the story forward.
+
+Think of a photograph and the click of the camera. The imperfetto is the photograph — the light, the street, the routine. The passato prossimo is the click — one thing happened.
+
+In this episode Franco uses both to tell the story of how he met Anna:
+
+[[Nel 1975 io avevo vent'anni e guidavo il tram a Milano.]]
+[[Tua nonna prendeva il tram tutte le mattine. Stessa fermata, alle sette e dieci.]]
+[[E poi un giorno lei non è scesa alla sua fermata.]]
+
+The first two lines are the world of 1975, repeated every morning. The third line is the event that started everything.
+
+## How it works
+
+### The imperfetto: forms
+
+| | parlare | credere | dormire | essere | avere | fare |
+|---|---|---|---|---|---|---|
+| io | parlavo | credevo | dormivo | ero | avevo | facevo |
+| tu | parlavi | credevi | dormivi | eri | avevi | facevi |
+| lui/lei | parlava | credeva | dormiva | era | aveva | faceva |
+| noi | parlavamo | credevamo | dormivamo | eravamo | avevamo | facevamo |
+| voi | parlavate | credevate | dormivate | eravate | avevate | facevate |
+| loro | parlavano | credevano | dormivano | erano | avevano | facevano |
+
+The endings are regular except for *essere*, and the stress always falls on the same syllable: *par-LA-vo*, *cre-DE-vo*, *dor-MI-vo*. The imperfetto never changes for gender.
+
+### When to use the imperfetto
+
+- **Description:** *La cucina era in ordine e la finestra era aperta.*
+- **Habits and routines:** *Lei dimenticava sempre la fermata.*
+- **Feelings and states:** *Ero timido. Avevo il cuore veloce.*
+- **Actions in progress in the background:** *Lei leggeva e io la guardavo.*
+
+### When to use the passato prossimo
+
+- **One single event:** *Un giorno lei non è scesa.*
+- **An event that interrupts the background:** *Io aspettavo, e quel giorno lei è venuta verso di me.*
+- **A finished period with a result:** *Ho aspettato tre giorni.*
+- **Reactions and dialogue:** *Lei ha risposto: “Grazie.”*
+
+### Signal words that help
+
+| Imperfetto | Passato prossimo |
+|---|---|
+| sempre, ogni giorno, tutte le mattine | un giorno, una volta, quel giorno |
+| di solito, spesso, a volte | all'improvviso, subito, poi |
+| ogni volta che | per la prima volta, ieri, l'anno scorso |
+| da giovane, quando ero piccolo | nel 1975, tre giorni fa |
+
+### The two together
+
+This is the most useful pattern of all: imperfetto for the scene, passato prossimo for the event.
+
+*Io **guidavo** e **guardavo** la strada. **Un giorno** lei **non è scesa**.*
+
+*Lei **leggeva** sempre. Quel giorno **ha alzato** gli occhi.*
+
+## From the story
+
+[[Dimenticava sempre la fermata. Tutti i giorni.]]
+A repeated action with *sempre* and *tutti i giorni*: pure imperfetto.
+
+[[No. Io ero timido. Con lei non parlavo mai.]]
+States and feelings: *ero*, *non parlavo* describe a personality, not an event.
+
+[[E poi un giorno lei non è scesa alla sua fermata.]]
+One single event, opened by *un giorno*: passato prossimo.
+
+[[Lei ha sorriso. E ha arrossito di nuovo.]]
+Two finished reactions, one after the other.
+
+[[Io non ballavo. Lei non ballava. Abbiamo ballato tutta la sera.]]
+The contrast in three lines: two habits (*non ballavo*) and then one evening that happened.
+
+[[Io non guardavo il film. Guardavo lei.]]
+Background action in progress: he was not watching the film, he was watching her.
+
+[[Ho pensato: “Mi sono innamorato”. E il battito andava forte.]]
+The thought is one event; the heartbeat is the background that went on all evening.
+
+[[Perché la memoria fa la calma quando vuole lei.]]
+A present-tense proverb to close a past story — very common in Italian.
+
+## Common mistakes
+
+**1. Using the passato prossimo for everything.** English says “I drove the tram in 1975” and “I was driving the tram when…”. If you translate both with *ho guidato*, the description disappears. Ask yourself: is this the photograph or the click?
+
+**2. Using the imperfetto for one-time events.** *Un giorno sono andato al cinema* — not *andavo*. If you can put “once” in front of it, it is passato prossimo.
+
+**3. Forgetting the agreement with *essere*.** The passato prossimo with *essere* agrees with the subject: *lei è rimasta*, *loro sono andati*, *io mi sono innamorata*. The imperfetto never changes for gender.
+
+**4. Translating “used to” with a special verb.** Italian has no separate “used to”: the imperfetto does that job on its own. *Da giovane andavo in tram ogni mattina.*
+
+**5. Mixing up *ero* and *sono stato*.** *Ero timido* describes a personality at that time. *Sono stato male* means “I was sick” for a specific period. Both are correct — they answer different questions.
+
+**6. Putting *sempre* with the passato prossimo.** *Dimenticava sempre la fermata* — with *sempre*, you almost always want the imperfetto.
+
+## Practice
+
+Choose the correct form: imperfetto (I) or passato prossimo (PP).
+
+1. Quando ero giovane, ___ (guidare) il tram numero quattro.
+2. Un giorno lei ___ (non scendere) alla sua fermata.
+3. Tutte le mattine Anna ___ (leggere) un libro sul tram.
+4. Ieri io ___ (incontrare) Nadia in farmacia.
+5. Lui ___ (essere) timido, quindi non parlava mai.
+6. All'improvviso lei ___ (alzare) gli occhi e ___ (sorridere).
+7. Ogni volta che Matteo ___ (entrare) in farmacia, comprava una crema.
+8. Noi ___ (aspettare) tre giorni, poi ___ (andare) al ballo in piazza.
+
+### Answer key
+
+1. guidavo (I) — a habit in the past, opened by *quando ero giovane*.
+2. non è scesa (PP) — one single event, opened by *un giorno*.
+3. leggeva (I) — *tutte le mattine* marks a routine.
+4. ho incontrato (PP) — *ieri* is a finished moment.
+5. era (I) — description of a personality.
+6. ha alzato (PP), ha sorriso (PP) — *all'improvviso* introduces two events.
+7. entrava (I) — *ogni volta che* means “every time”: a repeated action.
+8. abbiamo aspettato (PP), siamo andati (PP) — two completed actions in sequence.
