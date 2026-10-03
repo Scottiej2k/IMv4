@@ -458,6 +458,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma’s exam result is “non bene, non male” (medio); Chiara’s Marchetti meeting went well. Franco and Kevin are warmer: Franco calls Kevin a “buon autista” but teases his “coda.” Ornella and Kevin agree on a future Monza trip.
 - **Planted:** Ornella wants Kevin to drive her to Monza “un giorno”; Gino’s promised station biglietteria remains an open thread.
 
+### s03e22 · I conti
+- **Happened:** Nadia finds Bar Tigli accounts healthy but flat (€14k in, €12k out; €2k/month); in the ledger she finds Franco's note and learns he lent Matteo €30k interest-free two years ago; Franco comes to the bar and openly records the remaining €10k at €500/month for 20 months.
+- **New facts:** Bar Tigli currently licensed in Nadia's name with partita IVA (Matteo didn't know); bar cost €60k (€30k Franco, rest Matteo's savings); rent €900, utilities €300, Kevin's wage €600, mortgage on flat above €400; €20k already repaid (€10k left). Franco's 1978 work ledger now holds the signed debt page (Franco, Nadia; Matteo to sign later).
+- **Changed:** Nadia now knows about Franco's loan, and so does the bar's regulars; the Franco–Matteo loan is now public and formalized.
+- **Planted:** Matteo must sign the debt page and learn to save; Anna Yasmin will learn "everything" one day.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
