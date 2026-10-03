@@ -49,7 +49,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché di giorno tutti lavorano.» | “Because during the day everyone is working.” |
 | «Ah. Allora è gentile.» | “Oh. Then she's kind.” |
 | Franco si ferma davanti alla porta. | Franco stops in front of the door. |
-| «Anche per Matteo ho aspettato così. Trentasei anni fa.» | “I waited like this for Matteo too. Thirty-six years ago.” |
+| «Anche per Matteo ho aspettato così. Quarant'anni fa.» | “I waited like this for Matteo too. Forty years ago.” |
 | «E per Chiara?» | “And for Chiara?” |
 | «Due volte. Ogni volta la stessa **attesa**.» | “Twice. Every time the same **wait**.” |
 | «E la stessa **commozione**?» | “And the same **emotion**?” |
@@ -87,7 +87,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco torna a camminare. Sente il suo **battito** veloce. | Franco goes back to walking. He feels his **heartbeat** racing. |
 | _La terza volta. La stessa **attesa**, la stessa **promessa**._ | _The third time. The same **wait**, the same **promise**._ |
 | Leo scrive un'altra riga nel quaderno. | Leo writes another line in his notebook. |
-| «Fatto numero ventitré: i **nipoti** arrivano quando vogliono.» | “Fact number twenty-three: **grandchildren** arrive when they want to.” |
+| «Fatto numero ventinove: i **nipoti** arrivano quando vogliono.» | “Fact number twenty-nine: **grandchildren** arrive when they want to.” |
 | «Bravo, Leo.» | “Good, Leo.” |
 
 ## 2. Ospedale di Monza · 25 dicembre, mattina presto
@@ -252,7 +252,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non è una discussione. È una **abitudine**.» | “It's not an argument. It's a **habit**.” |
 | «Esatto.» | “Exactly.” |
 | «Leo, scrivi questa **abitudine** nel quaderno?» | “Leo, are you writing this **habit** in your notebook?” |
-| «Sì, papà. Fatto numero ventiquattro: i nonni discutono sempre sui nomi.» | “Yes, Dad. Fact number twenty-four: grandparents always argue about names.” |
+| «Sì, papà. Fatto numero trenta: i nonni discutono sempre sui nomi.» | “Yes, Dad. Fact number thirty: grandparents always argue about names.” |
 | «È un fatto vero.» | “It's a true fact.” |
 | «Lo sapevo!» | “I knew it!” |
 | Lucia guarda Franco e poi guarda Samira. | Lucia looks at Franco and then at Samira. |
@@ -268,7 +268,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non lo so. Ma Nadia è forte.» | “I don't know. But Nadia is strong.” |
 | «Lo so che è forte. È mia cognata.» | “I know she's strong. She's my sister-in-law.” |
 | «Cognata?» | “Sister-in-law?” |
-| «La **persona che** è la compagna di mio fratello si chiama cognata.» | “The **person** **who** is my brother's partner is called a sister-in-law.” |
+| «La persona che è la compagna di mio fratello si chiama cognata.» | “The person who is my brother's partner is called a sister-in-law.” |
 | «Ah. È complicato.» | “Oh. It's complicated.” |
 | «In italiano spesso è complicato.» | “In Italian it's often complicated.” |
 | «Dove sono **i parenti** di Nadia?» | “Where are Nadia's **relatives**?” |
@@ -280,7 +280,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sono tanti?» | “Are there many?” |
 | «Troppi.» | “Too many.” |
 | Leo scrive un altro fatto nel quaderno. | Leo writes another fact in his notebook. |
-| «Fatto numero venticinque: **i parenti** ci sono sempre.» | “Fact number twenty-five: **relatives** are always there.” |
+| «Fatto numero trentuno: **i parenti** ci sono sempre.» | “Fact number thirty-one: **relatives** are always there.” |
 | «Allora è un fatto vero.» | “Then it's a true fact.” |
 | Franco si avvicina a Samira. | Franco comes closer to Samira. |
 | «Il **destino** ha deciso per noi due.» | “**Destiny** decided for both of us.” |
@@ -288,7 +288,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Certo.» | “Of course.” |
 | «Certo.» | “Of course.” |
 | Tra loro c'è un silenzio lungo. | Between them there's a long silence. |
-| «La **persona che** decide è Nadia.» | “The **person** **who** decides is Nadia.” |
+| «La persona che decide è Nadia.» | “The person who decides is Nadia.” |
 | «Sì. Nadia e Matteo.» | “Yes. Nadia and Matteo.” |
 | Matteo guarda tutti e alza le mani. | Matteo looks at everyone and raises his hands. |
 | «Basta con i nomi. Adesso andiamo a conoscerla.» | “Enough with the names. Now let's go meet her.” |
@@ -360,7 +360,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Anna** Yasmin Ferri Benali.» | “**Anna** Yasmin Ferri Benali.” |
 | Per un momento nessuno parla. | For a moment nobody speaks. |
 | «**Anna**...» | “**Anna**...” |
-| «È per la nonna Anna. E Yasmin è per la nonna di mia madre.» | “It's for Grandma Anna. And Yasmin is for my mother's grandmother.” |
+| «È per la nonna Anna. E Yasmin è per la nonna di Samira.» | “It's for Grandma Anna. And Yasmin is for Samira's grandmother.” |
 | «Due nonne, due nomi, una bambina.» | “Two grandmas, two names, one baby.” |
 | «Il **cognome** invece è doppio: Ferri e Benali.» | “The **surname** is double instead: Ferri and Benali.” |
 | «Ferri Benali. Suona bene.» | “Ferri Benali. It sounds good.” |
@@ -416,8 +416,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Grazie, Lucia.» | “Thank you, Lucia.” |
 | Lucia esce piano. | Lucia leaves quietly. |
 | Matteo si avvicina a Nadia e alla bambina. | Matteo comes closer to Nadia and the baby. |
-| «La tua **figlia** è nata oggi.» | “Your **daughter** was **born** today.” |
-| «La tua **figlia** è nata oggi.» | “Your **daughter** was **born** today.” |
+| «La tua figlia è nata oggi.» | “Your daughter was born today.” |
+| «La tua figlia è nata oggi.» | “Your daughter was born today.” |
 | «Il giorno di Natale.» | “On Christmas Day.” |
 | «Sì. È **venuta al mondo** oggi.» | “Yes. She **came into the world** today.” |
 | «Il più bel regalo **che** ho ricevuto.» | “The most beautiful gift **that** I've received.” |
@@ -432,7 +432,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. E anche tuo fratello.» | “Yes. And your brother too.” |
 | «Non ci credo.» | “I don't believe it.” |
 | Leo guarda il suo quaderno. | Leo looks at his notebook. |
-| «Fatto numero ventisei: le bambine **vengono al mondo** sempre a Natale?» | “Fact number twenty-six: do little girls always **come into the world** at Christmas?” |
+| «Fatto numero trentadue: le bambine **vengono al mondo** sempre a Natale?» | “Fact number thirty-two: do little girls always **come into the world** at Christmas?” |
 | «No, Leo.» | “No, Leo.” |
 | «Peccato.» | “Too bad.” |
 | «Perché peccato?» | “Why too bad?” |
@@ -496,11 +496,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Poi parla piano, solo per lei. | Then she speaks softly, only for her. |
 | «Anna Yasmin. Adesso ti racconto una cosa.» | “Anna Yasmin. Now I'm going to tell you something.” |
 | Kevin si siede e non parla. | Kevin sits down and doesn't speak. |
-| «La **persona che** ti ha dato il nome sono io e mio fratello.» | “The **person** **who** gave you your name is me and my brother.” |
+| «Il nome che porti è di una donna molto speciale.» | “The name you carry belongs to a very special woman.” |
 | «Mamma...» | “Mom...” |
 | «Aspetta, Emma. Lasciami parlare.» | “Wait, Emma. Let me talk.” |
 | Emma annuisce e resta in silenzio. | Emma nods and stays silent. |
-| «La **persona che** ti dà il nome è la nonna Anna. La madre di mio fratello e mia.» | “The **person** **who** gave you your name is Grandma Anna. My brother's mother and mine.” |
+| «La persona che ti dà il nome è la nonna Anna. La madre di mio fratello e mia.» | “The person who gave you your name is Grandma Anna. My brother's mother and mine.” |
 | «Era tua madre?» | “Was she your mother?” |
 | «Sì, Leo.» | “Yes, Leo.” |
 | «Dov'è adesso?» | “Where is she now?” |
@@ -546,7 +546,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Lo so!» | “I know!” |
 | Chiara guarda Nadia. | Chiara looks at Nadia. |
 | «Nadia, avete già pensato alla **madrina** e al **padrino**?» | “Nadia, have you already thought about the **godmother** and the **godfather**?” |
-| «Ancora no. Matteo vuole suo fratello... cioè, non ha fratelli.» | “Not yet. Matteo wants his brother... I mean, he doesn't have brothers.” |
+| «Ancora no. Ma Matteo ha un'idea per il padrino.» | “Not yet. But Matteo has an idea for the godfather.” |
 | «Vuole Kevin?» | “He wants Kevin?” |
 | «Forse.» | “Maybe.” |
 | «Kevin come **padrino**?» | “Kevin as **godfather**?” |
@@ -606,7 +606,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Ma fa male.» | “Yes. But it hurts.” |
 | Una **lacrima** scende sulla guancia di Franco. | A **tear** slides down Franco's cheek. |
 | Non la asciuga. | He doesn't wipe it away. |
-| «La **persona che** ho amato per cinquant'anni non è qui.» | “The **person** **who** I loved for fifty years isn't here.” |
+| «La persona che ho amato per cinquant'anni non è qui.» | “The person who I loved for fifty years isn't here.” |
 | «Ma tu sei qui.» | “But you are here.” |
 | «Sì. Sono qui.» | “Yes. I'm here.” |
 | Lucia **stringe** la mano di Franco. | Lucia **squeezes** Franco's hand. |
@@ -686,10 +686,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sentiamo.» | “Let's hear it.” |
 | «Una bambina **che** viene al mondo a Natale è un regalo di Natale.» | “A little girl **who** comes into the world at Christmas is a Christmas present.” |
 | «È un bel fatto.» | “That's a nice fact.” |
-| «Leo, adesso sei zio.» | “Leo, now you're an uncle.” |
-| «No. Lei è la mia **nipote**.» | “No. She's my **nipote**.” |
+| «Leo, adesso hai una cugina.» | “Leo, now you have a cousin.” |
+| «Una cugina? Allora non è la mia **nipote**.» | “A cousin? Then she's not my **nipote**.” |
 | «Giusto.» | “Right.” |
-| «E io sono la **figlia** di Nadia. No...» | “And I'm Nadia's **figlia**. No...” |
+| «Io non sono suo padre, e lei non è mia **figlia**.» | “I'm not her father, and she's not my **figlia**.” |
 | «Sei il **nipote** di Franco.» | “You're Franco's **nipote**.” |
 | «Ah! Ho troppi nomi.» | “Oh! I have too many names.” |
 | Ornella guarda la bambina e sorride. | Ornella looks at the baby and smiles. |

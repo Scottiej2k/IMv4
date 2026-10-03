@@ -4227,12 +4227,12 @@
             },
             {
               "id": "s03e14-1-042",
-              "it": "«Anche per Matteo ho aspettato così. Trentasei anni fa.»",
-              "en": "“I waited like this for Matteo too. Thirty-six years ago.”",
+              "it": "«Anche per Matteo ho aspettato così. Quarant'anni fa.»",
+              "en": "“I waited like this for Matteo too. Forty years ago.”",
               "voice": [
                 [
                   "franco",
-                  "Anche per Matteo ho aspettato così. Trentasei anni fa.",
+                  "Anche per Matteo ho aspettato così. Quarant'anni fa.",
                   "quiet"
                 ]
               ],
@@ -4303,7 +4303,7 @@
                   ""
                 ],
                 [
-                  "Trentasei",
+                  "Quarant'anni",
                   6,
                   ""
                 ],
@@ -4313,18 +4313,8 @@
                   ""
                 ],
                 [
-                  "anni",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "fa",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -7303,12 +7293,12 @@
             },
             {
               "id": "s03e14-1-080",
-              "it": "«Fatto numero ventitré: i **nipoti** arrivano quando vogliono.»",
-              "en": "“Fact number twenty-three: **grandchildren** arrive when they want to.”",
+              "it": "«Fatto numero ventinove: i **nipoti** arrivano quando vogliono.»",
+              "en": "“Fact number twenty-nine: **grandchildren** arrive when they want to.”",
               "voice": [
                 [
                   "leo",
-                  "Fatto numero ventitré: i **nipoti** arrivano quando vogliono.",
+                  "Fatto numero ventinove: i **nipoti** arrivano quando vogliono.",
                   "proud"
                 ]
               ],
@@ -7339,7 +7329,7 @@
                   ""
                 ],
                 [
-                  "ventitré",
+                  "ventinove",
                   2,
                   ""
                 ],
@@ -19257,12 +19247,12 @@
           "segments": [
             {
               "id": "s03e14-3-062",
-              "it": "«Sì, papà. <short pause> Fatto numero ventiquattro: i nonni discutono sempre sui nomi.»",
-              "en": "“Yes, Dad. Fact number twenty-four: grandparents always argue about names.”",
+              "it": "«Sì, papà. <short pause> Fatto numero trenta: i nonni discutono sempre sui nomi.»",
+              "en": "“Yes, Dad. Fact number thirty: grandparents always argue about names.”",
               "voice": [
                 [
                   "leo",
-                  "Sì, papà. <short pause> Fatto numero ventiquattro: i nonni discutono sempre sui nomi.",
+                  "Sì, papà. <short pause> Fatto numero trenta: i nonni discutono sempre sui nomi.",
                   "proud"
                 ]
               ],
@@ -19313,7 +19303,7 @@
                   ""
                 ],
                 [
-                  "ventiquattro",
+                  "trenta",
                   4,
                   ""
                 ],
@@ -20490,12 +20480,12 @@
           "segments": [
             {
               "id": "s03e14-3-078",
-              "it": "«La **persona che** è la compagna di mio fratello si chiama cognata.»",
-              "en": "“The **person** **who** is my brother's partner is called a sister-in-law.”",
+              "it": "«La persona che è la compagna di mio fratello si chiama cognata.»",
+              "en": "“The person who is my brother's partner is called a sister-in-law.”",
               "voice": [
                 [
                   "chiara",
-                  "La **persona che** è la compagna di mio fratello si chiama cognata.",
+                  "La persona che è la compagna di mio fratello si chiama cognata.",
                   ""
                 ]
               ],
@@ -20518,17 +20508,17 @@
                 [
                   "persona",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "che",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -20625,9 +20615,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-persona-che"
               ]
             }
           ]
@@ -21379,12 +21366,12 @@
             },
             {
               "id": "s03e14-3-090",
-              "it": "«Fatto numero venticinque: **i parenti** ci sono sempre.»",
-              "en": "“Fact number twenty-five: **relatives** are always there.”",
+              "it": "«Fatto numero trentuno: **i parenti** ci sono sempre.»",
+              "en": "“Fact number thirty-one: **relatives** are always there.”",
               "voice": [
                 [
                   "leo",
-                  "Fatto numero venticinque: **i parenti** ci sono sempre.",
+                  "Fatto numero trentuno: **i parenti** ci sono sempre.",
                   "proud"
                 ]
               ],
@@ -21415,7 +21402,7 @@
                   ""
                 ],
                 [
-                  "venticinque",
+                  "trentuno",
                   2,
                   ""
                 ],
@@ -21921,12 +21908,12 @@
           "segments": [
             {
               "id": "s03e14-3-098",
-              "it": "«La **persona che** decide è Nadia.»",
-              "en": "“The **person** **who** decides is Nadia.”",
+              "it": "«La persona che decide è Nadia.»",
+              "en": "“The person who decides is Nadia.”",
               "voice": [
                 [
                   "chiara",
-                  "La **persona che** decide è Nadia.",
+                  "La persona che decide è Nadia.",
                   "firm"
                 ]
               ],
@@ -21949,17 +21936,17 @@
                 [
                   "persona",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "che",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -21996,9 +21983,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-persona-che"
               ]
             }
           ]
@@ -26515,12 +26499,12 @@
           "segments": [
             {
               "id": "s03e14-4-044",
-              "it": "«È per la nonna Anna. <short pause> E Yasmin è per la nonna di mia madre.»",
-              "en": "“It's for Grandma Anna. And Yasmin is for my mother's grandmother.”",
+              "it": "«È per la nonna Anna. <short pause> E Yasmin è per la nonna di Samira.»",
+              "en": "“It's for Grandma Anna. And Yasmin is for Samira's grandmother.”",
               "voice": [
                 [
                   "matteo",
-                  "È per la nonna Anna. <short pause> E Yasmin è per la nonna di mia madre.",
+                  "È per la nonna Anna. <short pause> E Yasmin è per la nonna di Samira.",
                   ""
                 ]
               ],
@@ -26651,18 +26635,8 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "Samira",
                   12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "madre",
-                  13,
                   ""
                 ],
                 [
@@ -30607,12 +30581,12 @@
             },
             {
               "id": "s03e14-4-100",
-              "it": "«La tua **figlia** è nata oggi.»",
-              "en": "“Your **daughter** was **born** today.”",
+              "it": "«La tua figlia è nata oggi.»",
+              "en": "“Your daughter was born today.”",
               "voice": [
                 [
                   "nadia",
-                  "La tua **figlia** è nata oggi.",
+                  "La tua figlia è nata oggi.",
                   "soft"
                 ]
               ],
@@ -30645,7 +30619,7 @@
                 [
                   "figlia",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -30682,9 +30656,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-figlia"
               ]
             }
           ]
@@ -30693,12 +30664,12 @@
           "segments": [
             {
               "id": "s03e14-4-101",
-              "it": "«La tua **figlia** è nata oggi.»",
-              "en": "“Your **daughter** was **born** today.”",
+              "it": "«La tua figlia è nata oggi.»",
+              "en": "“Your daughter was born today.”",
               "voice": [
                 [
                   "matteo",
-                  "La tua **figlia** è nata oggi.",
+                  "La tua figlia è nata oggi.",
                   "soft"
                 ]
               ],
@@ -30731,7 +30702,7 @@
                 [
                   "figlia",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -30768,9 +30739,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-figlia"
               ]
             }
           ]
@@ -31693,12 +31661,12 @@
             },
             {
               "id": "s03e14-4-116",
-              "it": "«Fatto numero ventisei: le bambine **vengono al mondo** sempre a Natale?»",
-              "en": "“Fact number twenty-six: do little girls always **come into the world** at Christmas?”",
+              "it": "«Fatto numero trentadue: le bambine **vengono al mondo** sempre a Natale?»",
+              "en": "“Fact number thirty-two: do little girls always **come into the world** at Christmas?”",
               "voice": [
                 [
                   "leo",
-                  "Fatto numero ventisei: le bambine **vengono al mondo** sempre a Natale?",
+                  "Fatto numero trentadue: le bambine **vengono al mondo** sempre a Natale?",
                   ""
                 ]
               ],
@@ -31729,7 +31697,7 @@
                   ""
                 ],
                 [
-                  "ventisei",
+                  "trentadue",
                   2,
                   ""
                 ],
@@ -35857,12 +35825,12 @@
             },
             {
               "id": "s03e14-5-021",
-              "it": "«La **persona che** ti ha dato il nome sono io e mio fratello.»",
-              "en": "“The **person** **who** gave you your name is me and my brother.”",
+              "it": "«Il nome che porti è di una donna molto speciale.»",
+              "en": "“The name you carry belongs to a very special woman.”",
               "voice": [
                 [
                   "chiara",
-                  "La **persona che** ti ha dato il nome sono io e mio fratello.",
+                  "Il nome che porti è di una donna molto speciale.",
                   ""
                 ]
               ],
@@ -35873,7 +35841,7 @@
                   ""
                 ],
                 [
-                  "La",
+                  "Il",
                   0,
                   ""
                 ],
@@ -35883,19 +35851,9 @@
                   ""
                 ],
                 [
-                  "persona",
+                  "nome",
                   1,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "che",
-                  2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -35903,7 +35861,17 @@
                   ""
                 ],
                 [
-                  "ti",
+                  "che",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "porti",
                   3,
                   ""
                 ],
@@ -35913,7 +35881,7 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "è",
                   4,
                   ""
                 ],
@@ -35923,7 +35891,7 @@
                   ""
                 ],
                 [
-                  "dato",
+                  "di",
                   5,
                   ""
                 ],
@@ -35933,7 +35901,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "una",
                   6,
                   ""
                 ],
@@ -35943,7 +35911,7 @@
                   ""
                 ],
                 [
-                  "nome",
+                  "donna",
                   7,
                   ""
                 ],
@@ -35953,7 +35921,7 @@
                   ""
                 ],
                 [
-                  "sono",
+                  "molto",
                   8,
                   ""
                 ],
@@ -35963,38 +35931,8 @@
                   ""
                 ],
                 [
-                  "io",
+                  "speciale",
                   9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fratello",
-                  12,
                   ""
                 ],
                 [
@@ -36002,9 +35940,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-persona-che"
               ]
             }
           ]
@@ -36183,12 +36118,12 @@
           "segments": [
             {
               "id": "s03e14-5-025",
-              "it": "«La **persona che** ti dà il nome è la nonna Anna. <short pause> La madre di mio fratello e mia.»",
-              "en": "“The **person** **who** gave you your name is Grandma Anna. My brother's mother and mine.”",
+              "it": "«La persona che ti dà il nome è la nonna Anna. <short pause> La madre di mio fratello e mia.»",
+              "en": "“The person who gave you your name is Grandma Anna. My brother's mother and mine.”",
               "voice": [
                 [
                   "chiara",
-                  "La **persona che** ti dà il nome è la nonna Anna. <short pause> La madre di mio fratello e mia.",
+                  "La persona che ti dà il nome è la nonna Anna. <short pause> La madre di mio fratello e mia.",
                   "soft"
                 ]
               ],
@@ -36211,17 +36146,17 @@
                 [
                   "persona",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "che",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36378,9 +36313,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-persona-che"
               ]
             }
           ]
@@ -39499,12 +39431,12 @@
           "segments": [
             {
               "id": "s03e14-5-071",
-              "it": "«Ancora no. <short pause> Matteo vuole suo fratello... cioè, non ha fratelli.»",
-              "en": "“Not yet. Matteo wants his brother... I mean, he doesn't have brothers.”",
+              "it": "«Ancora no. <short pause> Ma Matteo ha un'idea per il padrino.»",
+              "en": "“Not yet. But Matteo has an idea for the godfather.”",
               "voice": [
                 [
                   "nadia",
-                  "Ancora no. <short pause> Matteo vuole suo fratello... cioè, non ha fratelli.",
+                  "Ancora no. <short pause> Ma Matteo ha un'idea per il padrino.",
                   ""
                 ]
               ],
@@ -39535,7 +39467,7 @@
                   ""
                 ],
                 [
-                  "Matteo",
+                  "Ma",
                   2,
                   ""
                 ],
@@ -39545,7 +39477,7 @@
                   ""
                 ],
                 [
-                  "vuole",
+                  "Matteo",
                   3,
                   ""
                 ],
@@ -39555,7 +39487,7 @@
                   ""
                 ],
                 [
-                  "suo",
+                  "ha",
                   4,
                   ""
                 ],
@@ -39565,27 +39497,27 @@
                   ""
                 ],
                 [
-                  "fratello",
+                  "un'idea",
                   5,
                   ""
                 ],
                 [
-                  "... ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "cioè",
+                  "per",
                   6,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "non",
+                  "il",
                   7,
                   ""
                 ],
@@ -39595,18 +39527,8 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "padrino",
                   8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fratelli",
-                  9,
                   ""
                 ],
                 [
@@ -43409,12 +43331,12 @@
             },
             {
               "id": "s03e14-6-018",
-              "it": "«La **persona che** ho amato per cinquant'anni non è qui.»",
-              "en": "“The **person** **who** I loved for fifty years isn't here.”",
+              "it": "«La persona che ho amato per cinquant'anni non è qui.»",
+              "en": "“The person who I loved for fifty years isn't here.”",
               "voice": [
                 [
                   "franco",
-                  "La **persona che** ho amato per cinquant'anni non è qui.",
+                  "La persona che ho amato per cinquant'anni non è qui.",
                   ""
                 ]
               ],
@@ -43437,17 +43359,17 @@
                 [
                   "persona",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "che",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -43524,9 +43446,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-persona-che"
               ]
             }
           ]
@@ -49209,12 +49128,12 @@
           "segments": [
             {
               "id": "s03e14-7-033",
-              "it": "«Leo, adesso sei zio.»",
-              "en": "“Leo, now you're an uncle.”",
+              "it": "«Leo, adesso hai una cugina.»",
+              "en": "“Leo, now you have a cousin.”",
               "voice": [
                 [
                   "matteo",
-                  "Leo, adesso sei zio.",
+                  "Leo, adesso hai una cugina.",
                   ""
                 ]
               ],
@@ -49245,7 +49164,7 @@
                   ""
                 ],
                 [
-                  "sei",
+                  "hai",
                   2,
                   ""
                 ],
@@ -49255,8 +49174,18 @@
                   ""
                 ],
                 [
-                  "zio",
+                  "una",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cugina",
+                  4,
                   ""
                 ],
                 [
@@ -49272,12 +49201,12 @@
           "segments": [
             {
               "id": "s03e14-7-034",
-              "it": "«No. <short pause> Lei è la mia **nipote**.»",
-              "en": "“No. She's my **nipote**.”",
+              "it": "«Una cugina? <short pause> Allora non è la mia **nipote**.»",
+              "en": "“A cousin? Then she's not my **nipote**.”",
               "voice": [
                 [
                   "leo",
-                  "No. <short pause> Lei è la mia **nipote**.",
+                  "Una cugina? <short pause> Allora non è la mia **nipote**.",
                   "proud"
                 ]
               ],
@@ -49288,18 +49217,8 @@
                   ""
                 ],
                 [
-                  "No",
+                  "Una",
                   0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lei",
-                  1,
                   ""
                 ],
                 [
@@ -49308,7 +49227,17 @@
                   ""
                 ],
                 [
-                  "è",
+                  "cugina",
+                  1,
+                  ""
+                ],
+                [
+                  "? ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Allora",
                   2,
                   ""
                 ],
@@ -49318,7 +49247,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "non",
                   3,
                   ""
                 ],
@@ -49328,7 +49257,7 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "è",
                   4,
                   ""
                 ],
@@ -49338,8 +49267,28 @@
                   ""
                 ],
                 [
-                  "nipote",
+                  "la",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mia",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nipote",
+                  7,
                   "b"
                 ],
                 [
@@ -49391,12 +49340,12 @@
           "segments": [
             {
               "id": "s03e14-7-036",
-              "it": "«E io sono la **figlia** di Nadia. No...»",
-              "en": "“And I'm Nadia's **figlia**. No...”",
+              "it": "«Io non sono suo padre, e lei non è mia **figlia**.»",
+              "en": "“I'm not her father, and she's not my **figlia**.”",
               "voice": [
                 [
                   "leo",
-                  "E io sono la **figlia** di Nadia. No...",
+                  "Io non sono suo padre, e lei non è mia **figlia**.",
                   ""
                 ]
               ],
@@ -49407,7 +49356,7 @@
                   ""
                 ],
                 [
-                  "E",
+                  "Io",
                   0,
                   ""
                 ],
@@ -49417,7 +49366,7 @@
                   ""
                 ],
                 [
-                  "io",
+                  "non",
                   1,
                   ""
                 ],
@@ -49437,7 +49386,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "suo",
                   3,
                   ""
                 ],
@@ -49447,17 +49396,17 @@
                   ""
                 ],
                 [
-                  "figlia",
+                  "padre",
                   4,
-                  "b"
+                  ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "di",
+                  "e",
                   5,
                   ""
                 ],
@@ -49467,22 +49416,52 @@
                   ""
                 ],
                 [
-                  "Nadia",
+                  "lei",
                   6,
                   ""
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "No",
+                  "non",
                   7,
                   ""
                 ],
                 [
-                  "...»",
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "è",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mia",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "figlia",
+                  10,
+                  "b"
+                ],
+                [
+                  ".»",
                   -1,
                   ""
                 ]

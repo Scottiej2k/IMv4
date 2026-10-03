@@ -56,7 +56,7 @@ Leo si avvicina a Kevin con il quaderno. «Papà, che cos'è una **neonata**?»
 
 «Ah. Allora è gentile.»
 
-Franco si ferma davanti alla porta. «Anche per Matteo ho aspettato così. Trentasei anni fa.»
+Franco si ferma davanti alla porta. «Anche per Matteo ho aspettato così. Quarant'anni fa.»
 
 «E per Chiara?»
 
@@ -110,7 +110,7 @@ Una donna in camice bianco esce dalla porta. «La famiglia di Nadia Benali?»
 
 Franco torna a camminare. Sente il suo **battito** veloce. _La terza volta. La stessa **attesa**, la stessa **promessa**._
 
-Leo scrive un'altra riga nel quaderno. «Fatto numero ventitré: i **nipoti** arrivano quando vogliono.»
+Leo scrive un'altra riga nel quaderno. «Fatto numero ventinove: i **nipoti** arrivano quando vogliono.»
 
 «Bravo, Leo.»
 
@@ -344,7 +344,7 @@ Ornella chiude il lavoro a maglia e guarda la sala. «Kevin, la **tenerezza** di
 
 «Leo, scrivi questa **abitudine** nel quaderno?»
 
-«Sì, papà. Fatto numero ventiquattro: i nonni discutono sempre sui nomi.»
+«Sì, papà. Fatto numero trenta: i nonni discutono sempre sui nomi.»
 
 «È un fatto vero.»
 
@@ -370,7 +370,7 @@ Chiara guarda l'orologio e sospira. «Quanto dura ancora questa **attesa**?»
 
 «Cognata?»
 
-«La **persona che** è la compagna di mio fratello si chiama cognata.»
+«La persona che è la compagna di mio fratello si chiama cognata.»
 
 «Ah. È complicato.»
 
@@ -392,7 +392,7 @@ Chiara guarda l'orologio e sospira. «Quanto dura ancora questa **attesa**?»
 
 «Troppi.»
 
-Leo scrive un altro fatto nel quaderno. «Fatto numero venticinque: **i parenti** ci sono sempre.»
+Leo scrive un altro fatto nel quaderno. «Fatto numero trentuno: **i parenti** ci sono sempre.»
 
 «Allora è un fatto vero.»
 
@@ -404,7 +404,7 @@ Franco si avvicina a Samira. «Il **destino** ha deciso per noi due.»
 
 «Certo.» Tra loro c'è un silenzio lungo.
 
-«La **persona che** decide è Nadia.»
+«La persona che decide è Nadia.»
 
 «Sì. Nadia e Matteo.»
 
@@ -492,7 +492,7 @@ Nadia e Matteo si guardano. Poi Nadia parla, piano e chiara. «**Anna** Yasmin.�
 
 «**Anna**...»
 
-«È per la nonna Anna. E Yasmin è per la nonna di mia madre.»
+«È per la nonna Anna. E Yasmin è per la nonna di Samira.»
 
 «Due nonne, due nomi, una bambina.»
 
@@ -566,9 +566,9 @@ Lucia prende la mano di Franco... ma Franco non c'è più nella stanza. «Chiara
 
 «Grazie, Lucia.» Lucia esce piano.
 
-Matteo si avvicina a Nadia e alla bambina. «La tua **figlia** è nata oggi.»
+Matteo si avvicina a Nadia e alla bambina. «La tua figlia è nata oggi.»
 
-«La tua **figlia** è nata oggi.»
+«La tua figlia è nata oggi.»
 
 «Il giorno di Natale.»
 
@@ -592,7 +592,7 @@ Emma tocca piano la mano della bambina. «È piccolissima.»
 
 «Non ci credo.»
 
-Leo guarda il suo quaderno. «Fatto numero ventisei: le bambine **vengono al mondo** sempre a Natale?»
+Leo guarda il suo quaderno. «Fatto numero trentadue: le bambine **vengono al mondo** sempre a Natale?»
 
 «No, Leo.»
 
@@ -670,13 +670,13 @@ Nadia le mette la **neonata** tra le braccia. Chiara la tiene piano, senza respi
 
 «Niente, per una madre.»
 
-Chiara guarda la bambina a lungo. Poi parla piano, solo per lei. «Anna Yasmin. Adesso ti racconto una cosa.» Kevin si siede e non parla. «La **persona che** ti ha dato il nome sono io e mio fratello.»
+Chiara guarda la bambina a lungo. Poi parla piano, solo per lei. «Anna Yasmin. Adesso ti racconto una cosa.» Kevin si siede e non parla. «Il nome che porti è di una donna molto speciale.»
 
 «Mamma...»
 
 «Aspetta, Emma. Lasciami parlare.» Emma annuisce e resta in silenzio.
 
-«La **persona che** ti dà il nome è la nonna Anna. La madre di mio fratello e mia.»
+«La persona che ti dà il nome è la nonna Anna. La madre di mio fratello e mia.»
 
 «Era tua madre?»
 
@@ -750,7 +750,7 @@ Nella stanza c'è **tenerezza**, e nessuno ha fretta. Emma prende il telefono e 
 
 Chiara guarda Nadia. «Nadia, avete già pensato alla **madrina** e al **padrino**?»
 
-«Ancora no. Matteo vuole suo fratello... cioè, non ha fratelli.»
+«Ancora no. Ma Matteo ha un'idea per il padrino.»
 
 «Vuole Kevin?»
 
@@ -838,7 +838,7 @@ Lucia arriva piano e si ferma accanto a lui. «Franco.»
 
 «Sì. Ma fa male.»
 
-Una **lacrima** scende sulla guancia di Franco. Non la asciuga. «La **persona che** ho amato per cinquant'anni non è qui.»
+Una **lacrima** scende sulla guancia di Franco. Non la asciuga. «La persona che ho amato per cinquant'anni non è qui.»
 
 «Ma tu sei qui.»
 
@@ -936,13 +936,13 @@ Leo guarda la **neonata** e poi Ornella. «Come sta, Ornella?»
 
 «È un bel fatto.»
 
-«Leo, adesso sei zio.»
+«Leo, adesso hai una cugina.»
 
-«No. Lei è la mia **nipote**.»
+«Una cugina? Allora non è la mia **nipote**.»
 
 «Giusto.»
 
-«E io sono la **figlia** di Nadia. No...»
+«Io non sono suo padre, e lei non è mia **figlia**.»
 
 «Sei il **nipote** di Franco.»
 

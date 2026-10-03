@@ -59,8 +59,8 @@ For places, both work: *la casa in cui vivo* or *la casa dove vivo*.
 - «Una **neonata** è una bambina **che** **viene al mondo** da poco.» — “A **newborn baby** is a girl **who** has just **come into the world**.” (`s03e14-1-035`) — *che* as subject, with a person.
 - «Un fiore bianco **che** profuma di notte.» — “A white flower **that** smells sweet at night.” (`s03e14-3-019`) — *che* as subject, with a thing.
 - «La **madrina** è la donna **che** aiuta i genitori, alla nascita e al battesimo.» — “The **godmother** is the woman **who** helps the parents, at the birth and at the baptism.” (`s03e14-3-033`) — a definition built with *che*.
-- «La **persona che** decide è Nadia.» — “The **person** **who** decides is Nadia.” (`s03e14-3-098`) — the fixed pattern *la persona che*.
-- «La **persona che** ti dà il nome è la nonna Anna. La madre di mio fratello e mia.» — “The **person** **who** gave you your name is Grandma Anna. My brother's mother and mine.” (`s03e14-5-025`) — *che* as subject after a person.
+- «La persona che decide è Nadia.» — “The person who decides is Nadia.” (`s03e14-3-098`) — the fixed pattern *la persona che*.
+- «La persona che ti dà il nome è la nonna Anna. La madre di mio fratello e mia.» — “The person who gave you your name is Grandma Anna. My brother's mother and mine.” (`s03e14-5-025`) — *che* as subject after a person.
 - «Nel corridoio **in cui** aspetto ci sono le stesse sedie di trent'anni fa.» — “In the corridor **in which** I'm waiting there are the same chairs as thirty years ago.” (`s03e14-1-058`) — preposition + *cui* for a place.
 - «Sì. La coperta **in cui** l'ho avvolta è di mia madre.» — “Yes. The blanket **in which** I wrapped her is my mother's.” (`s03e14-4-053`) — *in cui* with a thing.
 - «Il **motivo per cui** piango non è la tristezza.» — “The **reason why** I'm crying isn't sadness.” (`s03e14-6-009`) — the fixed pattern *il motivo per cui*.

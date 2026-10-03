@@ -29,7 +29,7 @@ la promessa | noun | f | promise | promessa, promesse
 l'attesa | noun | f | wait, waiting | attesa
 @end
 
-# SCENE ospedale | la vigilia di Natale, sera | franco, lucia, samira, chiara, kevin, emma, leo, ornella
+# SCENE ospedale | la vigilia di Natale, sera | franco, lucia, samira, chiara, ben, emma, leo, ornella
 È la vigilia di Natale all'ospedale di Monza. || It's Christmas Eve at the hospital in Monza.
 Nella **sala d'attesa** ci sono sette persone, un albero piccolo e una stella **che** non si accende. || In the **waiting room** there are seven people, a small tree and a star **that** doesn't light up.
 Fuori la neve cade piano e i vetri sono freddi. || Outside the snow falls slowly and the windows are cold.
@@ -78,7 +78,7 @@ Leo si avvicina a Kevin con il quaderno. || Leo comes over to Kevin with his not
 «Ah. <yawn> Allora è gentile.»{leo} || “Oh. Then she's kind.”
 
 Franco si ferma davanti alla porta. || Franco stops in front of the door.
-«Anche per Matteo ho aspettato così. Trentasei anni fa.»{franco|quiet} || “I waited like this for Matteo too. Thirty-six years ago.”
+«Anche per Matteo ho aspettato così. Quarant'anni fa.»{franco|quiet} || “I waited like this for Matteo too. Forty years ago.”
 «E per Chiara?»{lucia} || “And for Chiara?”
 «Due volte. <short pause> Ogni volta la stessa **attesa**.»{franco} || “Twice. Every time the same **wait**.”
 «E la stessa **commozione**?»{lucia} || “And the same **emotion**?”
@@ -121,10 +121,10 @@ La donna ride e rientra. || The woman laughs and goes back in.
 Franco torna a camminare. Sente il suo **battito** veloce. || Franco goes back to walking. He feels his **heartbeat** racing.
 _La terza volta. La stessa **attesa**, la stessa **promessa**._{franco|sigh} || *The third time. The same **wait**, the same **promise**.*
 Leo scrive un'altra riga nel quaderno. || Leo writes another line in his notebook.
-«Fatto numero ventitré: i **nipoti** arrivano quando vogliono.»{leo|proud} || “Fact number twenty-three: **grandchildren** arrive when they want to.”
+«Fatto numero ventinove: i **nipoti** arrivano quando vogliono.»{leo|proud} || “Fact number twenty-nine: **grandchildren** arrive when they want to.”
 «Bravo, Leo.»{ornella|dry} || “Good, Leo.”
 
-# SCENE ospedale | 25 dicembre, mattina presto | matteo, franco, kevin
+# SCENE ospedale | 25 dicembre, mattina presto | matteo, franco, ben
 Sono le quattro del mattino. || It's four in the morning.
 Il corridoio è vuoto e le luci sono basse. || The corridor is empty and the lights are low.
 Kevin e Franco sono seduti sulle sedie **in cui** hanno aspettato tutta la notte. || Kevin and Franco are sitting on the chairs **in which** they've waited all night.
@@ -229,7 +229,7 @@ _Natale, quattro del mattino. La mia terza **nipote**._{franco} || *Christmas, f
 Franco resta nel corridoio ancora un po'. || Franco stays in the corridor a little longer.
 Poi apre la porta piano. || Then he opens the door slowly.
 
-# SCENE ospedale | 25 dicembre, mattina | franco, samira, lucia, chiara, kevin, leo, emma, ornella, matteo
+# SCENE ospedale | 25 dicembre, mattina | franco, samira, lucia, chiara, ben, leo, emma, ornella, matteo
 Matteo è rientrato in sala. Adesso tutti parlano insieme. || Matteo has come back into the room. Now everyone is talking at once.
 Nella sala d'attesa il **rumore** delle voci è forte. || In the waiting room the **noise** of the voices is loud.
 Una **carrozzina** nuova è parcheggiata vicino alla porta. || A new **stroller** is parked near the door.
@@ -299,7 +299,7 @@ Ornella chiude il lavoro a maglia e guarda la sala. || Ornella puts down her kni
 «Non è una discussione. <short pause> È una **abitudine**.»{kevin} || “It's not an argument. It's a **habit**.”
 «Esatto.»{ornella|dry} || “Exactly.”
 «Leo, scrivi questa **abitudine** nel quaderno?»{kevin} || “Leo, are you writing this **habit** in your notebook?”
-«Sì, papà. <short pause> Fatto numero ventiquattro: i nonni discutono sempre sui nomi.»{leo|proud} || “Yes, Dad. Fact number twenty-four: grandparents always argue about names.”
+«Sì, papà. <short pause> Fatto numero trenta: i nonni discutono sempre sui nomi.»{leo|proud} || “Yes, Dad. Fact number thirty: grandparents always argue about names.”
 «È un fatto vero.»{ornella} || “It's a true fact.”
 «Lo sapevo!»{leo|proud} || “I knew it!”
 
@@ -317,7 +317,7 @@ Chiara guarda l'orologio e sospira. || Chiara looks at the clock and sighs.
 «Non lo so. <short pause> Ma Nadia è forte.»{matteo} || “I don't know. But Nadia is strong.”
 «Lo so che è forte. <short pause> È mia cognata.»{chiara} || “I know she's strong. She's my sister-in-law.”
 «Cognata?»{leo} || “Sister-in-law?”
-«La **persona che** è la compagna di mio fratello si chiama cognata.»{chiara} || “The **person** **who** is my brother's partner is called a sister-in-law.”
+«La persona che è la compagna di mio fratello si chiama cognata.»{chiara} || “The person who is my brother's partner is called a sister-in-law.”
 «Ah. <short pause> È complicato.»{leo} || “Oh. It's complicated.”
 «In italiano spesso è complicato.»{chiara|dry} || “In Italian it's often complicated.”
 
@@ -330,7 +330,7 @@ Chiara guarda l'orologio e sospira. || Chiara looks at the clock and sighs.
 «Sono tanti?»{leo} || “Are there many?”
 «Troppi.»{samira|dry} || “Too many.”
 Leo scrive un altro fatto nel quaderno. || Leo writes another fact in his notebook.
-«Fatto numero venticinque: **i parenti** ci sono sempre.»{leo|proud} || “Fact number twenty-five: **relatives** are always there.”
+«Fatto numero trentuno: **i parenti** ci sono sempre.»{leo|proud} || “Fact number thirty-one: **relatives** are always there.”
 «Allora è un fatto vero.»{ornella|dry} || “Then it's a true fact.”
 
 Franco si avvicina a Samira. || Franco comes closer to Samira.
@@ -339,7 +339,7 @@ Franco si avvicina a Samira. || Franco comes closer to Samira.
 «Certo.»{franco} || “Of course.”
 «Certo.»{samira} || “Of course.”
 Tra loro c'è un silenzio lungo. || Between them there's a long silence.
-«La **persona che** decide è Nadia.»{chiara|firm} || “The **person** **who** decides is Nadia.”
+«La persona che decide è Nadia.»{chiara|firm} || “The person who decides is Nadia.”
 «Sì. <short pause> Nadia e Matteo.»{franco|gruff} || “Yes. Nadia and Matteo.”
 
 Matteo guarda tutti e alza le mani. || Matteo looks at everyone and raises his hands.
@@ -367,7 +367,7 @@ Guarda l'albero piccolo e la stella spenta. || He looks at the small tree and th
 _Promessa mantenuta._{franco} || *Promise kept.*
 Poi entra nella stanza. || Then he goes into the room.
 
-# SCENE ospedale | 25 dicembre, pomeriggio | nadia, matteo, franco, samira, lucia, chiara, kevin, leo, emma
+# SCENE ospedale | 25 dicembre, pomeriggio | nadia, matteo, franco, samira, lucia, chiara, ben, leo, emma
 La stanza è piccola e luminosa. || The room is small and bright.
 Fuori continua a nevicare. || Outside it keeps snowing.
 Nadia è seduta sulla sedia a rotelle, con la bambina in braccio. || Nadia is sitting in the wheelchair, with the baby in her arms.
@@ -417,7 +417,7 @@ Poi Nadia parla, piano e chiara. || Then Nadia speaks, softly and clearly.
 Per un momento nessuno parla. || For a moment nobody speaks.
 «**Anna**...»{franco|whisper} || “**Anna**...”
 
-«È per la nonna Anna. <short pause> E Yasmin è per la nonna di mia madre.»{matteo} || “It's for Grandma Anna. And Yasmin is for my mother's grandmother.”
+«È per la nonna Anna. <short pause> E Yasmin è per la nonna di Samira.»{matteo} || “It's for Grandma Anna. And Yasmin is for Samira's grandmother.”
 «Due nonne, due nomi, una bambina.»{nadia} || “Two grandmas, two names, one baby.”
 «Il **cognome** invece è doppio: Ferri e Benali.»{matteo} || “The **surname** is double instead: Ferri and Benali.”
 «Ferri Benali. <short pause> Suona bene.»{chiara|soft} || “Ferri Benali. It sounds good.”
@@ -480,8 +480,8 @@ ma Franco non c'è più nella stanza. || but Franco isn't in the room anymore.
 Lucia esce piano. || Lucia leaves quietly.
 
 Matteo si avvicina a Nadia e alla bambina. || Matteo comes closer to Nadia and the baby.
-«La tua **figlia** è nata oggi.»{nadia|soft} || “Your **daughter** was **born** today.”
-«La tua **figlia** è nata oggi.»{matteo|soft} || “Your **daughter** was **born** today.”
+«La tua figlia è nata oggi.»{nadia|soft} || “Your daughter was born today.”
+«La tua figlia è nata oggi.»{matteo|soft} || “Your daughter was born today.”
 «Il giorno di Natale.»{nadia} || “On Christmas Day.”
 «Sì. <short pause> È **venuta al mondo** oggi.»{matteo} || “Yes. She **came into the world** today.”
 «Il più bel regalo **che** ho ricevuto.»{nadia} || “The most beautiful gift **that** I've received.”
@@ -498,7 +498,7 @@ Emma tocca piano la mano della bambina. || Emma softly touches the baby's hand.
 «Non ci credo.»{emma|dry} || “I don't believe it.”
 
 Leo guarda il suo quaderno. || Leo looks at his notebook.
-«Fatto numero ventisei: le bambine **vengono al mondo** sempre a Natale?»{leo} || “Fact number twenty-six: do little girls always **come into the world** at Christmas?”
+«Fatto numero trentadue: le bambine **vengono al mondo** sempre a Natale?»{leo} || “Fact number thirty-two: do little girls always **come into the world** at Christmas?”
 «No, Leo.»{nadia|dry} || “No, Leo.”
 «Peccato.»{leo} || “Too bad.”
 «Perché peccato?»{nadia} || “Why too bad?”
@@ -542,7 +542,7 @@ _Papà è uscito. Ma non è andato lontano._{matteo} || *Dad left. But he didn't
 «Perché un uomo **che** piange ha bisogno di stare solo.»{nadia} || “Because a man **who** cries needs to be alone.”
 Matteo annuisce e resta fermo. || Matteo nods and stays still.
 
-# SCENE ospedale | 25 dicembre, pomeriggio | chiara, kevin, nadia, emma, leo
+# SCENE ospedale | 25 dicembre, pomeriggio | chiara, ben, nadia, emma, leo
 Nadia è stanca e la stanza è calda. || Nadia is tired and the room is warm.
 Matteo è uscito un minuto con Samira. || Matteo has stepped out for a minute with Samira.
 Nella stanza restano Chiara, Kevin, Emma e Leo. || Chiara, Kevin, Emma and Leo stay in the room.
@@ -565,12 +565,12 @@ Chiara guarda la bambina a lungo. || Chiara looks at the baby for a long time.
 Poi parla piano, solo per lei. || Then she speaks softly, only for her.
 «Anna Yasmin. <short pause> Adesso ti racconto una cosa.»{chiara|soft} || “Anna Yasmin. Now I'm going to tell you something.”
 Kevin si siede e non parla. || Kevin sits down and doesn't speak.
-«La **persona che** ti ha dato il nome sono io e mio fratello.»{chiara} || “The **person** **who** gave you your name is me and my brother.”
+«Il nome che porti è di una donna molto speciale.»{chiara} || “The name you carry belongs to a very special woman.”
 «Mamma...»{emma|quiet} || “Mom...”
 «Aspetta, Emma. <short pause> Lasciami parlare.»{chiara} || “Wait, Emma. Let me talk.”
 Emma annuisce e resta in silenzio. || Emma nods and stays silent.
 
-«La **persona che** ti dà il nome è la nonna Anna. <short pause> La madre di mio fratello e mia.»{chiara|soft} || “The **person** **who** gave you your name is Grandma Anna. My brother's mother and mine.”
+«La persona che ti dà il nome è la nonna Anna. <short pause> La madre di mio fratello e mia.»{chiara|soft} || “The person who gave you your name is Grandma Anna. My brother's mother and mine.”
 «Era tua madre?»{leo} || “Was she your mother?”
 «Sì, Leo.»{chiara} || “Yes, Leo.”
 «Dov'è adesso?»{leo} || “Where is she now?”
@@ -622,7 +622,7 @@ Emma fotografa la mano piccola della bambina. || Emma photographs the baby's tin
 
 Chiara guarda Nadia. || Chiara looks at Nadia.
 «Nadia, avete già pensato alla **madrina** e al **padrino**?»{chiara} || “Nadia, have you already thought about the **godmother** and the **godfather**?”
-«Ancora no. <short pause> Matteo vuole suo fratello... cioè, non ha fratelli.»{nadia} || “Not yet. Matteo wants his brother... I mean, he doesn't have brothers.”
+«Ancora no. <short pause> Ma Matteo ha un'idea per il padrino.»{nadia} || “Not yet. But Matteo has an idea for the godfather.”
 «Vuole Kevin?»{chiara} || “He wants Kevin?”
 «Forse.»{nadia|dry} || “Maybe.”
 «Kevin come **padrino**?»{chiara} || “Kevin as **godfather**?”
@@ -665,7 +665,7 @@ Poi la mette piano nelle braccia di Nadia. || Then she gently puts her into Nadi
 «Sì. <short pause> Purtroppo sì.»{chiara} || “Yes. Unfortunately yes.”
 Emma ride e mette via il telefono. || Emma laughs and puts her phone away.
 
-# SCENE ospedale | 25 dicembre, sera | franco, lucia, kevin
+# SCENE ospedale | 25 dicembre, sera | franco, lucia, ben
 Nel corridoio c'è una luce bassa e gialla. || In the corridor there's a low, yellow light.
 Franco è appoggiato al muro fuori dalla **sala d'attesa**. || Franco is leaning against the wall outside the **waiting room**.
 Ha le mani in tasca e guarda il pavimento. || His hands are in his pockets and he's looking at the floor.
@@ -685,7 +685,7 @@ Lucia arriva piano e si ferma accanto a lui. || Lucia comes over quietly and sto
 
 Una **lacrima** scende sulla guancia di Franco. || A **tear** slides down Franco's cheek.
 Non la asciuga. || He doesn't wipe it away.
-«La **persona che** ho amato per cinquant'anni non è qui.»{franco} || “The **person** **who** I loved for fifty years isn't here.”
+«La persona che ho amato per cinquant'anni non è qui.»{franco} || “The person who I loved for fifty years isn't here.”
 «Ma tu sei qui.»{lucia} || “But you are here.”
 «Sì. <short pause> Sono qui.»{franco} || “Yes. I'm here.”
 
@@ -773,10 +773,10 @@ Leo guarda la **neonata** e poi Ornella. || Leo looks at the **neonata** and the
 «Una bambina **che** viene al mondo a Natale è un regalo di Natale.»{leo} || “A little girl **who** comes into the world at Christmas is a Christmas present.”
 «È un bel fatto.»{ornella|soft} || “That's a nice fact.”
 
-«Leo, adesso sei zio.»{matteo} || “Leo, now you're an uncle.”
-«No. <short pause> Lei è la mia **nipote**.»{leo|proud} || “No. She's my **nipote**.”
+«Leo, adesso hai una cugina.»{matteo} || “Leo, now you have a cousin.”
+«Una cugina? <short pause> Allora non è la mia **nipote**.»{leo|proud} || “A cousin? Then she's not my **nipote**.”
 «Giusto.»{matteo} || “Right.”
-«E io sono la **figlia** di Nadia. No...»{leo} || “And I'm Nadia's **figlia**. No...”
+«Io non sono suo padre, e lei non è mia **figlia**.»{leo} || “I'm not her father, and she's not my **figlia**.”
 «Sei il **nipote** di Franco.»{nadia|dry} || “You're Franco's **nipote**.”
 «Ah! <short pause> Ho troppi nomi.»{leo} || “Oh! I have too many names.”
 
