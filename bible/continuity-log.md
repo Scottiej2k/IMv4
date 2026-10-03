@@ -500,6 +500,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco and Gennaro switch to tu ("chiamami Franco"). Lucia's worry ends; Gennaro now knows about the June wedding.
 - **Planted:** Comune inspection at Bar Tigli, Thursday 9 a.m.; Gennaro's Sunday lunch arrival.
 
+### s04e04 · Quando avrò finito
+- **Happened:** Chiara takes on Studio Marchetti's big Rome bank project, three days a week in Rome with a June draft deadline and a Thursday client meeting; Kevin runs the house. Franco's fiancée Lucia's son Gennaro arrives from London two hours late, bag lost, without his wallet. Sunday lunch at Franco's: Gennaro proposes wedding plans on the back of a hotel reservation.
+- **New facts:** Studio Marchetti boss is Marchetti; colleagues Davide and Giulia; Rome site near Ostiense, office near Termini. Gennaro works nights in a London restaurant, has five euros and a lost suitcase. Franco's wedding is June 21; Chiara's draft deadline June 15. Franco has two watches and offers Kevin one.
+- **Changed:** Franco warms to Kevin; Gennaro and Kevin plan to be business partners after the wedding; Chiara and Kevin have a June family trip to Rome planned.
+- **Planted:** Kevin and Gennaro's "Buongiorno, Borgoverde" partnership; Emma's unfinished theme on surnames; Franco's promised watch.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
