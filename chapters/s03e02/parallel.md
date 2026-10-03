@@ -128,7 +128,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Roberto la guarda, sorpreso. | Roberto looks at her, surprised. |
 | «Come, no?» chiede. | “What do you mean, no?” he asks. |
 | «No» ripete. «Non **descrivo** la **memoria** della strada per un comitato.» | “No,” she repeats. “I don't **describe** the **memory** of the street for a committee.” |
-| «La **memoria** si **racconta**, non si **descrive** come un modulo.» | “**Memory** is told, not **described** like a form.” |
+| «La memoria si racconta, non si descrive come un modulo.» | “Memory is told, not described like a form.” |
 | Roberto resta senza parole per due secondi. | Roberto is speechless for two seconds. |
 | «Ma il giornalino è per tutto il **vicinato**» dice. | “But the newsletter is for the whole **neighborhood**,” Roberto says. |
 | «Il **vicinato** conosce la strada» dice Ornella. | “The **neighborhood** knows the street,” Ornella says. |
@@ -163,7 +163,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quale **scatola**?» chiede Kevin. | “Which **box**?” Kevin asks. |
 | Ornella non risponde. | Ornella doesn't answer. |
 | Roberto guarda l'album sul tavolo. | Roberto looks at the album on the table. |
-| «Nel 1962 qui c'era la **cascina**» dice. «Mia moglie lo **sa** bene.» | “In 1962 there was the **farmhouse** here,” Roberto says. “My wife knows it well.” |
+| «Nel 1962 qui c'era la cascina» dice. «Mia moglie lo sa bene.» | “In 1962 there was the farmhouse here,” Roberto says. “My wife knows it well.” |
 | «Anche il **marciapiede** non c'era» dice Ornella. | “The **sidewalk** wasn't there either,” Ornella says. |
 | «E c'era un **lampione** solo». | “And there was only one **streetlamp**,” Ornella says. |
 | Roberto **scrive** anche questo. | Roberto **writes** this too. |
@@ -189,7 +189,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Lunedì mattina, Bar Tigli. | Monday morning, Bar Tigli. |
 | Kevin apre la porta alle sei e accende le luci. | Kevin opens the door at six and turns on the lights. |
 | Matteo arriva alle sette con il pane. | Matteo arrives at seven with the bread. |
-| «Buongiorno, capo magazzino» dice Matteo. | “Good morning, warehouse chief,” Matteo says. |
+| «Buongiorno, barista» dice Matteo. | “Good morning, barista,” Matteo says. |
 | «Buongiorno» dice Kevin. «Ma oggi sono anche **scrittore**.» | “Good morning,” Kevin says. “But today I'm also a **writer**.” |
 | Matteo mette il pane sul banco. | Matteo puts the bread on the counter. |
 | «**Scrittore**? Tu?» chiede. | “**Writer**? You?” he asks. |
@@ -210,7 +210,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Buongiorno. Di che cosa parlate?» chiede. | “Good morning. What are you talking about?” she asks. |
 | «Del **sogno** di Gino» dice Kevin. «E delle **mucche** in Via dei Tigli.» | “About Gino's **dream**,” Kevin says. “And the **cows** on Via dei Tigli.” |
 | Nadia ride piano e si siede. | Nadia laughs quietly and sits down. |
-| «Mia suocera mi ha raccontato che qui **c'era** la **campagna**» dice. | “My mother-in-law told me that here there **was** the **countryside**,” Nadia says. |
+| «Franco mi ha raccontato che qui **c'era** la **campagna**» dice. | “Franco told me that here there **was** the **countryside**,” Nadia says. |
 | «E ora **cambia** tutto ogni anno.» | “And now everything **changes** every year.” |
 | «Anche il bar **cambia**» dice. «Prima due tavoli, ora otto.» | “The bar **changes** too,” Matteo says. “Two tables before, eight now.” |
 | «Il bar **ha aperto** nel 1970» dice. | “The bar **opened** in 1970,” Nadia says. |
@@ -276,7 +276,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nel 1962 qui **c'erano** i **campi**» dice. | “In 1962 there **were** the **fields** here,” she says. |
 | «**Campi** fino all'orizzonte, e solo tre case.» | “**Fields** to the horizon, and only three houses.” |
 | «E la **cascina**?» chiede Kevin. | “And the **farmhouse**?” Kevin asks. |
-| «La **cascina** era dei Rinaldi» dice Ornella. | “The **farmhouse** belonged to the Rinaldis,” Ornella says. |
+| «La **cascina** era dei Brambilla» dice Ornella. | “The **farmhouse** belonged to the Brambilla family,” Ornella says. |
 | «Una **cascina** grande, con il **cortile** in mezzo.» | “A big **farmhouse**, with the **courtyard** in the middle.” |
 | «Nel **cortile** c'erano due **mucche** e un **cavallo**.» | “In the **courtyard** there were two **cows** and a **horse**.” |
 | Kevin **scrive** veloce. | Kevin **writes** quickly. |
@@ -308,7 +308,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Che cosa manca?» chiede Kevin. | “What's missing?” Kevin asks. |
 | «La **gente**» dice Ornella. | “The **people**,” Ornella says. |
 | Ornella indica una foto con un dito. | Ornella points at a photo with a finger. |
-| «Guarda. Questi sono i Rinaldi, davanti alla **cascina**.» | “Look. These are the Rinaldis, in front of the **farmhouse**.” |
+| «Guarda. Questi sono i Brambilla, davanti alla **cascina**.» | “Look. These are the Brambillas, in front of the **farmhouse**.” |
 | «E questa è la **latteria**» dice. «Latte, burro, uova.» | “And this is the **dairy shop**,” she says. “Milk, butter, eggs.” |
 | «E il pane?» chiede. | “And the bread?” he asks. |
 | «Il pane arrivava dal **forno** in piazza ogni mattina» dice. | “The bread came from the **bakery** in the square every morning,” Ornella says. |
@@ -358,99 +358,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Le **mucche** le metto, Leo» dice Kevin. | “I'm putting in the **cows**, Leo,” Kevin says. |
 | Leo è contento e alza il pollice. | Leo is happy and gives a thumbs-up. |
 
-## 5. Casa di Franco, Via dei Tigli 9 · domenica
-
-| Italiano | English |
-|---|---|
-| Domenica, casa di Franco. | Sunday, Franco's house. |
-| In cucina c'è profumo di pasta al forno. | In the kitchen there's the smell of baked pasta. |
-| Nel corridoio, vicino alla porta, ci sono sette **scatole**. | In the hallway, near the door, there are seven **boxes**. |
-| Chiara le guarda e le conta con gli occhi. | Chiara looks at them and counts them with her eyes. |
-| _Una, due, tre… sette. Sette scatole in casa di papà._ pensa. | _One, two, three… seven. Seven boxes in Dad's house,_ Chiara thinks. |
-| Non dice niente e porta il vino in tavola. | She says nothing and takes the wine to the table. |
-| Lucia arriva dalla cucina con il piatto caldo. | Lucia comes from the kitchen with the hot dish. |
-| «Buon appetito a tutti» dice Lucia. | “Enjoy your meal, everyone,” Lucia says. |
-| Franco si siede al suo posto, come sempre. | Franco sits in his usual place, as always. |
-| Kevin versa l'acqua nei bicchieri. | Kevin pours the water into the glasses. |
-| Leo ha già la forchetta in mano. | Leo already has his fork in his hand. |
-| «Nonna Ornella mi ha raccontato delle **mucche** in Via dei Tigli» dice Leo. | “Grandma Ornella told me about the **cows** on Via dei Tigli,” Leo says. |
-| Franco alza la testa. | Franco looks up. |
-| «Le **mucche**?» chiede. | “The **cows**?” he asks. |
-| «Sì! Nel **cortile** della **cascina**» dice. «E le **galline** dormivano nel fienile.» | “Yes! In the **courtyard** of the **farmhouse**,” Leo says. “And the **hens** slept in the barn.” |
-| «E c'era un **cavallo** anche». | “And there was a **horse** too.” |
-| Lucia sorride e serve il primo piatto. | Lucia smiles and serves the first course. |
-| «Bello, Leo. La **campagna** di una volta» dice. | “Nice, Leo. The **countryside** of the old days,” Lucia says. |
-| «E non c'erano telefoni, Lucia! Nessun telefono!» dice Leo. | “And there were no phones, Lucia! No phone!” Leo says. |
-| «Nessuno?» chiede. | “None?” Lucia asks. |
-| «Nessuno. Si camminava e si chiamava dalla finestra» dice. | “None. You walked and you called from the window.” |
-| Franco mangia piano e guarda suo nipote. | Franco eats slowly and looks at his grandson. |
-| «Nel 1975 la strada era ancora così» dice. | “In 1975 the street was still like that,” Franco says. |
-| «Nel 1975? Tu sei arrivato nel 1975?» chiede Kevin. | “In 1975? You arrived in 1975?” Kevin asks. |
-| «Sì. Io e Anna, con due valigie» dice. | “Yes. Anna and I, with two suitcases,” Franco says. |
-| Franco mette giù la forchetta e racconta. | Franco puts down his fork and tells the story. |
-| «La strada era **stretta**. Era **stretta** e piena di **polvere**» dice. | “The street was **narrow**. It was **narrow** and full of **dust**,” Franco says. |
-| «In estate la **polvere** entrava in casa dalla finestra.» | “In summer the **dust** came into the house through the window.” |
-| Kevin ascolta senza parlare. | Kevin listens without speaking. |
-| «E a ovest c'era ancora la **campagna**» dice. | “And to the west there was still the **countryside**,” Franco says. |
-| «**Campi** fino al **bosco**, e dietro il **bosco** niente.» | “**Fields** up to the **woods**, and behind the **woods**, nothing.” |
-| «E la **nebbia**, papà?» chiede. | “And the **fog**, Dad?” Chiara asks. |
-| «In inverno la **nebbia** era forte» dice. | “In winter the **fog** was thick,” Franco says. |
-| «Una volta non vedevo la casa di fronte dalla mia finestra.» | “Once I couldn't see the house across from my window.” |
-| «Papà, ma qui c'erano i negozi?» chiede. | “Dad, but were there shops here?” Chiara asks. |
-| «Pochi. Una **latteria** e il **forno** in piazza» dice. | “Few. A **dairy shop** and the **bakery** in the square,” Franco says. |
-| «E la **vetrina** della latteria era piccola, come una finestra». | “And the **shop window** of the dairy was small, like a window.” |
-| Leo ascolta tutto con gli occhi aperti. | Leo listens to everything with his eyes wide open. |
-| «E avevi una bicicletta, nonno?» chiede. | “And did you have a bicycle, Grandpa?” Leo asks. |
-| «Sì. Una **bicicletta** rossa» dice. «Ma non la potevo usare.» | “Yes. A red **bicycle**,” Franco says. “But I couldn't use it.” |
-| «Perché no?» chiede. | “Why not?” Leo asks. |
-| «Perché con la pioggia la strada diventava fango» dice. | “Because with the rain the street turned into mud,” Franco says. |
-| «Una **bicicletta** rossa e niente strada per usarla.» | “A red **bicycle** and no road to use it on.” |
-| «Che peccato» dice Leo. | “What a shame,” Leo says. |
-| Lucia ride piano. | Lucia laughs quietly. |
-| «Anche io ero **giovane** in un posto così» dice. | “I was **young** in a place like that too,” Lucia says. |
-| «Tu, Lucia? Dove?» chiede. | “You, Lucia? Where?” Chiara asks. |
-| «A Napoli, in un **cortile** grande» dice. | “In Naples, in a big **courtyard**,” Lucia says. |
-| «La **gente** si conosceva tutta, come qui.» | “**People** all knew each other, like here.” |
-| «E d'inverno tutti al **camino** della nonna» dice. | “And in winter everyone at Grandma's **fireplace**,” Lucia says. |
-| «Il **camino** era il centro del mondo.» | “The **fireplace** was the center of the world.” |
-| Chiara guarda Lucia e poi guarda le scatole nel corridoio. | Chiara looks at Lucia and then at the boxes in the hallway. |
-| «Quante scatole hai portato, papà?» chiede. | “How many boxes have you brought, Dad?” Chiara asks. |
-| Franco finisce il suo piatto senza fretta. | Franco finishes his plate without hurrying. |
-| «Non le ho portate io. Le ha portate Lucia, piano piano» dice. | “I didn't bring them. Lucia brought them, little by little,” Franco says. |
-| «Piano piano» ripete. | “Little by little,” Chiara repeats. |
-| «Sì. Una alla volta» dice Lucia. | “Yes. One at a time,” Lucia says. |
-| Kevin cerca di parlare di qualcosa di normale. | Kevin tries to talk about something normal. |
-| «La pagina per il comitato è pronta» dice. «Giovedì sera l'ho data a Roberto.» | “The page for the committee is ready,” he says. “Thursday evening I gave it to Roberto.” |
-| «Bravo» dice Franco. «Così la **gente** **sa com'era** la strada.» | “Good,” Franco says. “So **people** **know what the street was like**.” |
-| «E nella pagina ci sono le **mucche**?» chiede. | “And are the **cows** in the page?” Leo asks. |
-| «Ci sono le **mucche** e ci sono le **galline**» dice Kevin. | “The **cows** are in it and the **hens** are in it,” Kevin says. |
-| «E il **cavallo**?» chiede. | “And the **horse**?” Leo asks. |
-| «E anche il **cavallo**» dice Kevin. | “And the **horse** too,” Kevin says. |
-| Leo è soddisfatto e torna a mangiare. | Leo is satisfied and goes back to eating. |
-| Chiara si alza e prende il telefono. | Chiara gets up and takes her phone. |
-| «**Scatto** una foto alle scatole» dice. | “I'll **snap** a photo of the boxes,” she says. |
-| Franco la guarda, sorpreso. | Franco looks at her, surprised. |
-| «Alle scatole? E perché?» chiede. | “Of the boxes? And why?” Franco asks. |
-| «Per la storia» dice Chiara. «Per il **passato** della famiglia.» | “For history,” Chiara says. “For the family's **past**.” |
-| «Così restano anche le scatole» dice. | “So the boxes stay too.” |
-| Franco non risponde subito. | Franco doesn't answer right away. |
-| Poi guarda le scatole e poi sua figlia. | Then he looks at the boxes and then at his daughter. |
-| «La **storia** è anche **polvere** e scatole» dice. | “**History** is also **dust** and boxes,” Franco says. |
-| «E le scatole non si buttano via» dice. | “And boxes don't get thrown away,” he says. |
-| Lucia mette la frutta sul tavolo e sorride. | Lucia puts the fruit on the table and smiles. |
-| «Le **scatole** restano dove sono» dice Lucia. | “The **boxes** stay where they are,” Lucia says. |
-| Chiara **scatta** la foto senza dire altro. | Chiara **snaps** the photo without saying anything else. |
-| Kevin guarda la scena dall'altra parte del tavolo. | Kevin watches the scene from the other side of the table. |
-| _Tre donne due parole e sette scatole. Questa è la mia famiglia._ pensa Kevin. | _Three women, two words and seven boxes. This is my family,_ Kevin thinks. |
-| Leo alza la forchetta come una bandiera. | Leo raises his fork like a flag. |
-| «Nonna Ornella dice che nel 1962 si poteva bere il latte della latteria» dice. | “Grandma Ornella says that in 1962 you could drink the milk from the dairy shop,” Leo says. |
-| «Certo. Latte vero» dice Franco. | “Of course. Real milk,” Franco says. |
-| «Allora io voglio bere latte vero» dice Leo. | “Then I want to drink real milk,” Leo says. |
-| «Ma tu bevi il latte dal cartone, Leo» dice Chiara. | “But you drink milk from a carton, Leo,” Chiara says. |
-| «Appunto» dice Leo, serio. | “Exactly,” Leo says, seriously. |
-| Tutti ridono, anche Franco. | Everyone laughs, even Franco. |
-
-## 6. Bar Tigli · giovedì sera
+## 5. Bar Tigli · giovedì sera
 
 | Italiano | English |
 |---|---|
@@ -464,7 +372,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Legge piano, riga dopo riga, e ogni tanto scrive. | He reads slowly, line after line, and every now and then writes. |
 | «“Nel 1962 qui **c'erano** i **campi**”» legge. | “‘In 1962 there **were** the **fields** here,’” Roberto reads. |
 | «Sì» dice Kevin. | “Yes,” Kevin says. |
-| «“**C'era** la **cascina** dei Rinaldi, con due **mucche** nel cortile”» legge. | “‘There **was** the Rinaldis' **farmhouse**, with two **cows** in the courtyard,’” Roberto reads. |
+| «“**C'era** la **cascina** dei Brambilla, con due **mucche** nel cortile”» legge. | “‘There **was** the Brambillas' **farmhouse**, with two **cows** in the courtyard,’” Roberto reads. |
 | «Due **mucche**. E un cavallo» dice Kevin. | “Two **cows**. And a horse,” Kevin says. |
 | Roberto annuisce e scrive un numero a margine. | Roberto nods and writes a number in the margin. |
 | «Il comitato ha i suoi numeri» dice. «Nel 1962 la strada **aveva** tre case e una **latteria**.» | “The committee has its own numbers,” Roberto says. “In 1962 the street **had** three houses and a **dairy shop**.” |
@@ -529,12 +437,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Scrive in fondo all'ultima pagina. | He writes at the bottom of the last page. |
 | _La memoria di una strada è la gente della strada._ pensa Kevin. | _The memory of a street is the people of the street,_ Kevin thinks. |
 
-## 7. Casa Carter, Via dei Tigli 14 · venerdì sera
+## 6. Casa Carter, Via dei Tigli 14 · venerdì sera
 
 | Italiano | English |
 |---|---|
 | Venerdì sera, in cucina. | Friday evening, in the kitchen. |
-| Sul tavolo c'è il giornalino del comitato. | On the table is the committee newsletter. |
+| Sul tavolo c'è la bozza del giornalino del comitato, stampata da Roberto. | On the table is the draft of the committee newsletter, printed by Roberto. |
 | Emma lo prende e cerca il nome di Kevin. | Emma picks it up and looks for Kevin's name. |
 | «Eccolo: “Testo di Kevin Carter”» dice Emma. | “Here it is: ‘Text by Kevin Carter,’” Emma says. |
 | «Leggilo forte» dice Kevin. | “Read it aloud,” Kevin says. |
@@ -551,7 +459,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «La **gente** è singolare». | “**People** is singular,” Emma says. |
 | Kevin prende il quaderno giallo e scrive. | Kevin takes the yellow notebook and writes. |
 | «**Gente** è singolare. Numero cinquantasette» dice. | “**People** is singular. Number fifty-seven,” he says. |
-| Leo indica una foto nel giornalino. | Leo points at a photo in the newsletter. |
+| Leo indica una foto nella bozza. | Leo points at a photo in the draft. |
 | «Guarda, c'è la **bicicletta** di Gino» dice. | “Look, there's Gino's **bicycle**,” Leo says. |
 | «E c'è la **polvere** della strada nella foto?» chiede. | “And is the **dust** of the street in the photo?” he asks. |
 | «Un po' si vede» dice Emma. | “You can see a bit of it,” Emma says. |
@@ -559,7 +467,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Emma, nel 1962 nessuno aveva il telefono» dice. | “Emma, in 1962 nobody had a phone,” Leo says. |
 | «Lo so, Leo» dice Emma. | “I know, Leo,” Emma says. |
 | «Nessuno! Si camminava per parlare» dice Leo. | “Nobody! You walked to talk,” Leo says. |
-| Emma prende il telefono e **scatta** una foto al giornalino. | Emma takes her phone and **snaps** a photo of the newsletter. |
+| Emma prende il telefono e **scatta** una foto alla bozza. | Emma takes her phone and **snaps** a photo of the draft. |
 | «Perché la foto?» chiede Kevin. | “Why the photo?” Kevin asks. |
 | «Per la **memoria** di famiglia» dice Emma. | “For the family **memory**,” Emma says. |
 | _Papà ha scritto una pagina in italiano. La tengo._ pensa Emma. | _Dad wrote a page in Italian. I'm keeping it,_ Emma thinks. |
@@ -567,12 +475,104 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì, in gita» dice Emma. | “Yes, on a school trip,” Emma says. |
 | Leo si gira verso Kevin. | Leo turns to Kevin. |
 | «Papà, e a Columbus c'erano le **mucche**?» chiede. | “Dad, and were there **cows** in Columbus?” Leo asks. |
-| «No, Leo» dice Kevin. «C'era un supermercato grande.» | “No, Leo,” Kevin says. “There **was** a big supermarket.” |
+| «No, Leo» dice Kevin. «C'era un supermercato grande.» | “No, Leo,” Kevin says. “There was a big supermarket.” |
 | «E niente **mucche**?» chiede. | “And no **cows**?” Leo asks. |
 | «Niente **mucche**» dice Kevin. | “No **cows**,” Kevin says. |
 | Leo ci pensa un momento. | Leo thinks about it for a moment. |
 | «Che peccato» dice Leo. | “What a shame,” Leo says. |
 | «Perché?» chiede Kevin. | “Why?” Kevin asks. |
-| «Perché le mucche sono meglio del supermercato» dice. | “Because **cows** are better than the supermarket,” Leo says. |
+| «Perché le mucche sono meglio del supermercato» dice. | “Because cows are better than the supermarket,” Leo says. |
 | Kevin ride e chiude il quaderno. | Kevin laughs and closes the notebook. |
 | «Hai ragione, Leo» dice. «Le **mucche** sono meglio.» | “You're right, Leo,” he says. “**Cows** are better.” |
+
+## 7. Casa di Franco, Via dei Tigli 9 · domenica
+
+| Italiano | English |
+|---|---|
+| Domenica, casa di Franco. | Sunday, Franco's house. |
+| In cucina c'è profumo di pasta al forno. | In the kitchen there's the smell of baked pasta. |
+| Nel corridoio, vicino alla porta, ci sono sette **scatole**. | In the hallway, near the door, there are seven **boxes**. |
+| Chiara le guarda e le conta con gli occhi. | Chiara looks at them and counts them with her eyes. |
+| _Una, due, tre… sette. Sette scatole in casa di papà._ pensa. | _One, two, three… seven. Seven boxes in Dad's house,_ Chiara thinks. |
+| Non dice niente e porta il vino in tavola. | She says nothing and takes the wine to the table. |
+| Lucia arriva dalla cucina con il piatto caldo. | Lucia comes from the kitchen with the hot dish. |
+| «Buon appetito a tutti» dice Lucia. | “Enjoy your meal, everyone,” Lucia says. |
+| Franco si siede al suo posto, come sempre. | Franco sits in his usual place, as always. |
+| Kevin versa l'acqua nei bicchieri. | Kevin pours the water into the glasses. |
+| Leo ha già la forchetta in mano. | Leo already has his fork in his hand. |
+| «Nonna Ornella mi ha raccontato delle **mucche** in Via dei Tigli» dice Leo. | “Grandma Ornella told me about the **cows** on Via dei Tigli,” Leo says. |
+| Franco alza la testa. | Franco looks up. |
+| «Le **mucche**?» chiede. | “The **cows**?” he asks. |
+| «Sì! Nel **cortile** della **cascina**» dice. «E le **galline** dormivano nel fienile.» | “Yes! In the **courtyard** of the **farmhouse**,” Leo says. “And the **hens** slept in the barn.” |
+| «E c'era un **cavallo** anche». | “And there was a **horse** too.” |
+| Lucia sorride e serve il primo piatto. | Lucia smiles and serves the first course. |
+| «Bello, Leo. La **campagna** di una volta» dice. | “Nice, Leo. The **countryside** of the old days,” Lucia says. |
+| «E non c'erano telefoni, Lucia! Nessun telefono!» dice Leo. | “And there were no phones, Lucia! No phone!” Leo says. |
+| «Nessuno?» chiede. | “None?” Lucia asks. |
+| «Nessuno. Si camminava e si chiamava dalla finestra» dice. | “None. You walked and you called from the window.” |
+| Franco mangia piano e guarda suo nipote. | Franco eats slowly and looks at his grandson. |
+| «Quando ero ragazzo la strada era ancora così» dice. | “When I was a boy the street was still like that,” Franco says. |
+| «Eri già qui, da ragazzo?» chiede Kevin. | “You were already here, as a boy?” Kevin asks. |
+| «Sì. Io e Anna, due ragazzi con una bicicletta» dice. | “Yes. Anna and I, two kids with a bicycle,” Franco says. |
+| Franco mette giù la forchetta e racconta. | Franco puts down his fork and tells the story. |
+| «La strada era **stretta**. Era **stretta** e piena di **polvere**» dice. | “The street was **narrow**. It was **narrow** and full of **dust**,” Franco says. |
+| «In estate la **polvere** entrava in casa dalla finestra.» | “In summer the **dust** came into the house through the window.” |
+| Kevin ascolta senza parlare. | Kevin listens without speaking. |
+| «E a ovest c'era ancora la **campagna**» dice. | “And to the west there was still the **countryside**,” Franco says. |
+| «**Campi** fino al **bosco**, e dietro il **bosco** niente.» | “**Fields** up to the **woods**, and behind the **woods**, nothing.” |
+| «E la **nebbia**, papà?» chiede. | “And the **fog**, Dad?” Chiara asks. |
+| «In inverno la **nebbia** era forte» dice. | “In winter the **fog** was thick,” Franco says. |
+| «Una volta non vedevo la casa di fronte dalla mia finestra.» | “Once I couldn't see the house across from my window.” |
+| «Papà, ma qui c'erano i negozi?» chiede. | “Dad, but were there shops here?” Chiara asks. |
+| «Pochi. Una **latteria** e il **forno** in piazza» dice. | “Few. A **dairy shop** and the **bakery** in the square,” Franco says. |
+| «E la **vetrina** della latteria era piccola, come una finestra». | “And the **shop window** of the dairy was small, like a window.” |
+| Leo ascolta tutto con gli occhi aperti. | Leo listens to everything with his eyes wide open. |
+| «E avevi una bicicletta, nonno?» chiede. | “And did you have a bicycle, Grandpa?” Leo asks. |
+| «Sì. Una **bicicletta** rossa» dice. «Ma non la potevo usare.» | “Yes. A red **bicycle**,” Franco says. “But I couldn't use it.” |
+| «Perché no?» chiede. | “Why not?” Leo asks. |
+| «Perché con la pioggia la strada diventava fango» dice. | “Because with the rain the street turned into mud,” Franco says. |
+| «Una **bicicletta** rossa e niente strada per usarla.» | “A red **bicycle** and no road to use it on.” |
+| «Che peccato» dice Leo. | “What a shame,” Leo says. |
+| Lucia ride piano. | Lucia laughs quietly. |
+| «Anche io ero **giovane** in un posto così» dice. | “I was **young** in a place like that too,” Lucia says. |
+| «Tu, Lucia? Dove?» chiede. | “You, Lucia? Where?” Chiara asks. |
+| «A Napoli, in un **cortile** grande» dice. | “In Naples, in a big **courtyard**,” Lucia says. |
+| «La **gente** si conosceva tutta, come qui.» | “**People** all knew each other, like here.” |
+| «E d'inverno tutti al **camino** della nonna» dice. | “And in winter everyone at Grandma's **fireplace**,” Lucia says. |
+| «Il **camino** era il centro del mondo.» | “The **fireplace** was the center of the world.” |
+| Chiara guarda Lucia e poi guarda le scatole nel corridoio. | Chiara looks at Lucia and then at the boxes in the hallway. |
+| «Quante scatole hai portato, papà?» chiede. | “How many boxes have you brought, Dad?” Chiara asks. |
+| Franco finisce il suo piatto senza fretta. | Franco finishes his plate without hurrying. |
+| «Non le ho portate io. Le ha portate Lucia, piano piano» dice. | “I didn't bring them. Lucia brought them, little by little,” Franco says. |
+| «Piano piano» ripete. | “Little by little,” Chiara repeats. |
+| «Sì. Una alla volta» dice Lucia. | “Yes. One at a time,” Lucia says. |
+| Kevin cerca di parlare di qualcosa di normale. | Kevin tries to talk about something normal. |
+| «La pagina per il comitato è pronta» dice. «Giovedì sera l'ho data a Roberto.» | “The page for the committee is ready,” he says. “Thursday evening I gave it to Roberto.” |
+| «Bravo» dice Franco. «Così la **gente** **sa com'era** la strada.» | “Good,” Franco says. “So **people** **know what the street was like**.” |
+| «E nella pagina ci sono le **mucche**?» chiede. | “And are the **cows** in the page?” Leo asks. |
+| «Ci sono le **mucche** e ci sono le **galline**» dice Kevin. | “The **cows** are in it and the **hens** are in it,” Kevin says. |
+| «E il **cavallo**?» chiede. | “And the **horse**?” Leo asks. |
+| «E anche il **cavallo**» dice Kevin. | “And the **horse** too,” Kevin says. |
+| Leo è soddisfatto e torna a mangiare. | Leo is satisfied and goes back to eating. |
+| Chiara si alza e prende il telefono. | Chiara gets up and takes her phone. |
+| «**Scatto** una foto alle scatole» dice. | “I'll **snap** a photo of the boxes,” she says. |
+| Franco la guarda, sorpreso. | Franco looks at her, surprised. |
+| «Alle scatole? E perché?» chiede. | “Of the boxes? And why?” Franco asks. |
+| «Per la storia» dice Chiara. «Per il **passato** della famiglia.» | “For history,” Chiara says. “For the family's **past**.” |
+| «Così restano anche le scatole» dice. | “So the boxes stay too.” |
+| Franco non risponde subito. | Franco doesn't answer right away. |
+| Poi guarda le scatole e poi sua figlia. | Then he looks at the boxes and then at his daughter. |
+| «La **storia** è anche **polvere** e scatole» dice. | “**History** is also **dust** and boxes,” Franco says. |
+| «E le scatole non si buttano via» dice. | “And boxes don't get thrown away,” he says. |
+| Lucia mette la frutta sul tavolo e sorride. | Lucia puts the fruit on the table and smiles. |
+| «Le **scatole** restano dove sono» dice Lucia. | “The **boxes** stay where they are,” Lucia says. |
+| Chiara **scatta** la foto senza dire altro. | Chiara **snaps** the photo without saying anything else. |
+| Kevin guarda la scena dall'altra parte del tavolo. | Kevin watches the scene from the other side of the table. |
+| _Tre donne due parole e sette scatole. Questa è la mia famiglia._ pensa Kevin. | _Three women, two words and seven boxes. This is my family,_ Kevin thinks. |
+| Leo alza la forchetta come una bandiera. | Leo raises his fork like a flag. |
+| «Nonna Ornella dice che nel 1962 si poteva bere il latte della latteria» dice. | “Grandma Ornella says that in 1962 you could drink the milk from the dairy shop,” Leo says. |
+| «Certo. Latte vero» dice Franco. | “Of course. Real milk,” Franco says. |
+| «Allora io voglio bere latte vero» dice Leo. | “Then I want to drink real milk,” Leo says. |
+| «Ma tu bevi il latte dal cartone, Leo» dice Chiara. | “But you drink milk from a carton, Leo,” Chiara says. |
+| «Appunto» dice Leo, serio. | “Exactly,” Leo says, seriously. |
+| Tutti ridono, anche Franco. | Everyone laughs, even Franco. |

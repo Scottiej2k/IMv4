@@ -1,5 +1,5 @@
 ### s03e02 · Com'era la strada
-- **Happened:** Ornella shows Kevin and Leo her 1962 photo album; Kevin refuses at first, then writes the Christmas committee page about the street's past, interviewed by Ornella. Roberto edits it, has him sign it ("Testo di Kevin Carter"), and reads it in the December *giornalino*. Chiara silently counts seven boxes in Franco's hallway and photographs them; Lucia says she brought them one at a time.
-- **New facts:** The 1962 *cascina* on Via dei Tigli belonged to the Rinaldi family, with cows, a horse, hens, fienile, mulino, latteria and forno in piazza; Gino was 28 in 1962, opened Bar Tigli in 1970, used the same bicycle 30 years. Franco and Anna arrived in 1975. Kevin's yellow notebook now has entries 56–57.
-- **Changed:** Kevin publicly credited in the committee newsletter; Roberto warms to Kevin and to Ornella's view of memory.
-- **Planted:** The seven boxes in Franco's house (Lucia's presence), unresolved for Chiara.
+- **Happened:** Ornella shows Leo and Kevin her old photo album of Via dei Tigli in 1962; Roberto Colombo asks for a page on the street's past for the neighborhood committee's Christmas newsletter; Kevin writes it, Roberto signs it off as a draft for the December newsletter with the credit "Testo di Kevin Carter".
+- **New facts:** In 1962 the street had campi, three houses, the Cascina dei Brambilla (cortile, two mucche, a cavallo, galline in the fienile), a mulino at the end, bosco behind, one lampione, a latteria, bread from the forno in piazza; Bar Tigli opened in 1970; Gino used his bicicletta for thirty years; Lucia grew up in a large cortile in Naples; Franco had a red bicicletta as a boy.
+- **Changed:** Chiara silently counts seven scatole in Franco's hallway; Lucia says she carried them there one at a time, and Chiara photographs them. Kevin's quaderno giallo is at entry 57.
+- **Planted:** The scatole in Franco's house remain unexplained in detail (open thread).

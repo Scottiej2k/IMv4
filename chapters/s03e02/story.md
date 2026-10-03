@@ -124,7 +124,7 @@ Ornella incrocia le braccia. «No» dice Ornella.
 
 Roberto la guarda, sorpreso. «Come, no?» chiede.
 
-«No» ripete. «Non **descrivo** la **memoria** della strada per un comitato.» «La **memoria** si **racconta**, non si **descrive** come un modulo.»
+«No» ripete. «Non **descrivo** la **memoria** della strada per un comitato.» «La memoria si racconta, non si descrive come un modulo.»
 
 Roberto resta senza parole per due secondi. «Ma il giornalino è per tutto il **vicinato**» dice.
 
@@ -158,7 +158,7 @@ Roberto apre il quaderno e **scrive** una data. «Allora: tre giorni» dice. «G
 
 «Quale **scatola**?» chiede Kevin. Ornella non risponde.
 
-Roberto guarda l'album sul tavolo. «Nel 1962 qui c'era la **cascina**» dice. «Mia moglie lo **sa** bene.»
+Roberto guarda l'album sul tavolo. «Nel 1962 qui c'era la cascina» dice. «Mia moglie lo sa bene.»
 
 «Anche il **marciapiede** non c'era» dice Ornella. «E c'era un **lampione** solo».
 
@@ -178,7 +178,7 @@ Roberto prende la borsa. «Giovedì alle sei. La aspetto, signor Carter» dice. 
 
 ## 3. Bar Tigli · lunedì mattina
 
-Lunedì mattina, Bar Tigli. Kevin apre la porta alle sei e accende le luci. Matteo arriva alle sette con il pane. «Buongiorno, capo magazzino» dice Matteo.
+Lunedì mattina, Bar Tigli. Kevin apre la porta alle sei e accende le luci. Matteo arriva alle sette con il pane. «Buongiorno, barista» dice Matteo.
 
 «Buongiorno» dice Kevin. «Ma oggi sono anche **scrittore**.»
 
@@ -206,7 +206,7 @@ Nadia arriva dalle scale con una mano sulla schiena. «Buongiorno. Di che cosa p
 
 «Del **sogno** di Gino» dice Kevin. «E delle **mucche** in Via dei Tigli.»
 
-Nadia ride piano e si siede. «Mia suocera mi ha raccontato che qui **c'era** la **campagna**» dice. «E ora **cambia** tutto ogni anno.»
+Nadia ride piano e si siede. «Franco mi ha raccontato che qui **c'era** la **campagna**» dice. «E ora **cambia** tutto ogni anno.»
 
 «Anche il bar **cambia**» dice. «Prima due tavoli, ora otto.»
 
@@ -274,7 +274,7 @@ Ornella versa il tè e guarda fuori dalla finestra. «Nel 1962 qui **c'erano** i
 
 «E la **cascina**?» chiede Kevin.
 
-«La **cascina** era dei Rinaldi» dice Ornella. «Una **cascina** grande, con il **cortile** in mezzo.» «Nel **cortile** c'erano due **mucche** e un **cavallo**.»
+«La **cascina** era dei Brambilla» dice Ornella. «Una **cascina** grande, con il **cortile** in mezzo.» «Nel **cortile** c'erano due **mucche** e un **cavallo**.»
 
 Kevin **scrive** veloce. «Due mucche e un cavallo» ripete. «E le **galline**?» chiede.
 
@@ -306,7 +306,7 @@ Kevin guarda la foto della strada. «Posso **descrivere** la strada così?» chi
 
 «Che cosa manca?» chiede Kevin.
 
-«La **gente**» dice Ornella. Ornella indica una foto con un dito. «Guarda. Questi sono i Rinaldi, davanti alla **cascina**.» «E questa è la **latteria**» dice. «Latte, burro, uova.»
+«La **gente**» dice Ornella. Ornella indica una foto con un dito. «Guarda. Questi sono i Brambilla, davanti alla **cascina**.» «E questa è la **latteria**» dice. «Latte, burro, uova.»
 
 «E il pane?» chiede.
 
@@ -366,99 +366,7 @@ Kevin chiude il quaderno e sorride. «Ho tutto quello che mi serve» dice. «Anc
 
 «Le **mucche** le metto, Leo» dice Kevin. Leo è contento e alza il pollice.
 
-## 5. Casa di Franco, Via dei Tigli 9 · domenica
-
-Domenica, casa di Franco. In cucina c'è profumo di pasta al forno. Nel corridoio, vicino alla porta, ci sono sette **scatole**. Chiara le guarda e le conta con gli occhi. _Una, due, tre… sette. Sette scatole in casa di papà._ pensa. Non dice niente e porta il vino in tavola.
-
-Lucia arriva dalla cucina con il piatto caldo. «Buon appetito a tutti» dice Lucia. Franco si siede al suo posto, come sempre. Kevin versa l'acqua nei bicchieri.
-
-Leo ha già la forchetta in mano. «Nonna Ornella mi ha raccontato delle **mucche** in Via dei Tigli» dice Leo.
-
-Franco alza la testa. «Le **mucche**?» chiede.
-
-«Sì! Nel **cortile** della **cascina**» dice. «E le **galline** dormivano nel fienile.» «E c'era un **cavallo** anche».
-
-Lucia sorride e serve il primo piatto. «Bello, Leo. La **campagna** di una volta» dice.
-
-«E non c'erano telefoni, Lucia! Nessun telefono!» dice Leo.
-
-«Nessuno?» chiede.
-
-«Nessuno. Si camminava e si chiamava dalla finestra» dice.
-
-Franco mangia piano e guarda suo nipote. «Nel 1975 la strada era ancora così» dice.
-
-«Nel 1975? Tu sei arrivato nel 1975?» chiede Kevin.
-
-«Sì. Io e Anna, con due valigie» dice. Franco mette giù la forchetta e racconta. «La strada era **stretta**. Era **stretta** e piena di **polvere**» dice. «In estate la **polvere** entrava in casa dalla finestra.» Kevin ascolta senza parlare. «E a ovest c'era ancora la **campagna**» dice. «**Campi** fino al **bosco**, e dietro il **bosco** niente.»
-
-«E la **nebbia**, papà?» chiede.
-
-«In inverno la **nebbia** era forte» dice. «Una volta non vedevo la casa di fronte dalla mia finestra.»
-
-«Papà, ma qui c'erano i negozi?» chiede.
-
-«Pochi. Una **latteria** e il **forno** in piazza» dice. «E la **vetrina** della latteria era piccola, come una finestra».
-
-Leo ascolta tutto con gli occhi aperti. «E avevi una bicicletta, nonno?» chiede.
-
-«Sì. Una **bicicletta** rossa» dice. «Ma non la potevo usare.»
-
-«Perché no?» chiede.
-
-«Perché con la pioggia la strada diventava fango» dice. «Una **bicicletta** rossa e niente strada per usarla.»
-
-«Che peccato» dice Leo.
-
-Lucia ride piano. «Anche io ero **giovane** in un posto così» dice.
-
-«Tu, Lucia? Dove?» chiede.
-
-«A Napoli, in un **cortile** grande» dice. «La **gente** si conosceva tutta, come qui.» «E d'inverno tutti al **camino** della nonna» dice. «Il **camino** era il centro del mondo.»
-
-Chiara guarda Lucia e poi guarda le scatole nel corridoio. «Quante scatole hai portato, papà?» chiede.
-
-Franco finisce il suo piatto senza fretta. «Non le ho portate io. Le ha portate Lucia, piano piano» dice.
-
-«Piano piano» ripete.
-
-«Sì. Una alla volta» dice Lucia.
-
-Kevin cerca di parlare di qualcosa di normale. «La pagina per il comitato è pronta» dice. «Giovedì sera l'ho data a Roberto.»
-
-«Bravo» dice Franco. «Così la **gente** **sa com'era** la strada.»
-
-«E nella pagina ci sono le **mucche**?» chiede.
-
-«Ci sono le **mucche** e ci sono le **galline**» dice Kevin.
-
-«E il **cavallo**?» chiede.
-
-«E anche il **cavallo**» dice Kevin. Leo è soddisfatto e torna a mangiare.
-
-Chiara si alza e prende il telefono. «**Scatto** una foto alle scatole» dice.
-
-Franco la guarda, sorpreso. «Alle scatole? E perché?» chiede.
-
-«Per la storia» dice Chiara. «Per il **passato** della famiglia.» «Così restano anche le scatole» dice. Franco non risponde subito. Poi guarda le scatole e poi sua figlia.
-
-«La **storia** è anche **polvere** e scatole» dice. «E le scatole non si buttano via» dice.
-
-Lucia mette la frutta sul tavolo e sorride. «Le **scatole** restano dove sono» dice Lucia. Chiara **scatta** la foto senza dire altro.
-
-Kevin guarda la scena dall'altra parte del tavolo. _Tre donne due parole e sette scatole. Questa è la mia famiglia._ pensa Kevin.
-
-Leo alza la forchetta come una bandiera. «Nonna Ornella dice che nel 1962 si poteva bere il latte della latteria» dice.
-
-«Certo. Latte vero» dice Franco.
-
-«Allora io voglio bere latte vero» dice Leo.
-
-«Ma tu bevi il latte dal cartone, Leo» dice Chiara.
-
-«Appunto» dice Leo, serio. Tutti ridono, anche Franco.
-
-## 6. Bar Tigli · giovedì sera
+## 5. Bar Tigli · giovedì sera
 
 Giovedì sera, Bar Tigli. Kevin chiude la porta e gira il cartello su CHIUSO. Roberto è seduto al tavolo vicino alla finestra. Davanti a lui c'è il foglio con la pagina di Kevin. «Buonasera, signor Carter» dice Roberto.
 
@@ -468,7 +376,7 @@ Giovedì sera, Bar Tigli. Kevin chiude la porta e gira il cartello su CHIUSO. Ro
 
 «Sì» dice Kevin.
 
-«“**C'era** la **cascina** dei Rinaldi, con due **mucche** nel cortile”» legge.
+«“**C'era** la **cascina** dei Brambilla, con due **mucche** nel cortile”» legge.
 
 «Due **mucche**. E un cavallo» dice Kevin.
 
@@ -540,9 +448,9 @@ Roberto annuisce e apre la porta. «Buonanotte, signor Carter» dice.
 
 «Buonanotte, signor Colombo» dice Kevin. La porta si chiude e Kevin resta solo nel bar. Guarda il foglio firmato sul banco. _Primo: **c'era** la **cascina**. Secondo: **c'era** il **mulino**. Terzo: la **gente** resta._ pensa Kevin. Kevin prende il quaderno giallo e lo apre. Scrive in fondo all'ultima pagina. _La memoria di una strada è la gente della strada._ pensa Kevin.
 
-## 7. Casa Carter, Via dei Tigli 14 · venerdì sera
+## 6. Casa Carter, Via dei Tigli 14 · venerdì sera
 
-Venerdì sera, in cucina. Sul tavolo c'è il giornalino del comitato. Emma lo prende e cerca il nome di Kevin. «Eccolo: “Testo di Kevin Carter”» dice Emma.
+Venerdì sera, in cucina. Sul tavolo c'è la bozza del giornalino del comitato, stampata da Roberto. Emma lo prende e cerca il nome di Kevin. «Eccolo: “Testo di Kevin Carter”» dice Emma.
 
 «Leggilo forte» dice Kevin.
 
@@ -558,7 +466,7 @@ Emma continua a leggere. «“La **gente** erano poche, ma si conosceva tutta”
 
 Kevin prende il quaderno giallo e scrive. «**Gente** è singolare. Numero cinquantasette» dice.
 
-Leo indica una foto nel giornalino. «Guarda, c'è la **bicicletta** di Gino» dice. «E c'è la **polvere** della strada nella foto?» chiede.
+Leo indica una foto nella bozza. «Guarda, c'è la **bicicletta** di Gino» dice. «E c'è la **polvere** della strada nella foto?» chiede.
 
 «Un po' si vede» dice Emma.
 
@@ -566,7 +474,7 @@ Leo racconta ancora la sua storia. «Emma, nel 1962 nessuno aveva il telefono» 
 
 «Lo so, Leo» dice Emma.
 
-«Nessuno! Si camminava per parlare» dice Leo. Emma prende il telefono e **scatta** una foto al giornalino.
+«Nessuno! Si camminava per parlare» dice Leo. Emma prende il telefono e **scatta** una foto alla bozza.
 
 «Perché la foto?» chiede Kevin.
 
@@ -591,3 +499,95 @@ Leo ci pensa un momento. «Che peccato» dice Leo.
 «Perché le mucche sono meglio del supermercato» dice.
 
 Kevin ride e chiude il quaderno. «Hai ragione, Leo» dice. «Le **mucche** sono meglio.»
+
+## 7. Casa di Franco, Via dei Tigli 9 · domenica
+
+Domenica, casa di Franco. In cucina c'è profumo di pasta al forno. Nel corridoio, vicino alla porta, ci sono sette **scatole**. Chiara le guarda e le conta con gli occhi. _Una, due, tre… sette. Sette scatole in casa di papà._ pensa. Non dice niente e porta il vino in tavola.
+
+Lucia arriva dalla cucina con il piatto caldo. «Buon appetito a tutti» dice Lucia. Franco si siede al suo posto, come sempre. Kevin versa l'acqua nei bicchieri.
+
+Leo ha già la forchetta in mano. «Nonna Ornella mi ha raccontato delle **mucche** in Via dei Tigli» dice Leo.
+
+Franco alza la testa. «Le **mucche**?» chiede.
+
+«Sì! Nel **cortile** della **cascina**» dice. «E le **galline** dormivano nel fienile.» «E c'era un **cavallo** anche».
+
+Lucia sorride e serve il primo piatto. «Bello, Leo. La **campagna** di una volta» dice.
+
+«E non c'erano telefoni, Lucia! Nessun telefono!» dice Leo.
+
+«Nessuno?» chiede.
+
+«Nessuno. Si camminava e si chiamava dalla finestra» dice.
+
+Franco mangia piano e guarda suo nipote. «Quando ero ragazzo la strada era ancora così» dice.
+
+«Eri già qui, da ragazzo?» chiede Kevin.
+
+«Sì. Io e Anna, due ragazzi con una bicicletta» dice. Franco mette giù la forchetta e racconta. «La strada era **stretta**. Era **stretta** e piena di **polvere**» dice. «In estate la **polvere** entrava in casa dalla finestra.» Kevin ascolta senza parlare. «E a ovest c'era ancora la **campagna**» dice. «**Campi** fino al **bosco**, e dietro il **bosco** niente.»
+
+«E la **nebbia**, papà?» chiede.
+
+«In inverno la **nebbia** era forte» dice. «Una volta non vedevo la casa di fronte dalla mia finestra.»
+
+«Papà, ma qui c'erano i negozi?» chiede.
+
+«Pochi. Una **latteria** e il **forno** in piazza» dice. «E la **vetrina** della latteria era piccola, come una finestra».
+
+Leo ascolta tutto con gli occhi aperti. «E avevi una bicicletta, nonno?» chiede.
+
+«Sì. Una **bicicletta** rossa» dice. «Ma non la potevo usare.»
+
+«Perché no?» chiede.
+
+«Perché con la pioggia la strada diventava fango» dice. «Una **bicicletta** rossa e niente strada per usarla.»
+
+«Che peccato» dice Leo.
+
+Lucia ride piano. «Anche io ero **giovane** in un posto così» dice.
+
+«Tu, Lucia? Dove?» chiede.
+
+«A Napoli, in un **cortile** grande» dice. «La **gente** si conosceva tutta, come qui.» «E d'inverno tutti al **camino** della nonna» dice. «Il **camino** era il centro del mondo.»
+
+Chiara guarda Lucia e poi guarda le scatole nel corridoio. «Quante scatole hai portato, papà?» chiede.
+
+Franco finisce il suo piatto senza fretta. «Non le ho portate io. Le ha portate Lucia, piano piano» dice.
+
+«Piano piano» ripete.
+
+«Sì. Una alla volta» dice Lucia.
+
+Kevin cerca di parlare di qualcosa di normale. «La pagina per il comitato è pronta» dice. «Giovedì sera l'ho data a Roberto.»
+
+«Bravo» dice Franco. «Così la **gente** **sa com'era** la strada.»
+
+«E nella pagina ci sono le **mucche**?» chiede.
+
+«Ci sono le **mucche** e ci sono le **galline**» dice Kevin.
+
+«E il **cavallo**?» chiede.
+
+«E anche il **cavallo**» dice Kevin. Leo è soddisfatto e torna a mangiare.
+
+Chiara si alza e prende il telefono. «**Scatto** una foto alle scatole» dice.
+
+Franco la guarda, sorpreso. «Alle scatole? E perché?» chiede.
+
+«Per la storia» dice Chiara. «Per il **passato** della famiglia.» «Così restano anche le scatole» dice. Franco non risponde subito. Poi guarda le scatole e poi sua figlia.
+
+«La **storia** è anche **polvere** e scatole» dice. «E le scatole non si buttano via» dice.
+
+Lucia mette la frutta sul tavolo e sorride. «Le **scatole** restano dove sono» dice Lucia. Chiara **scatta** la foto senza dire altro.
+
+Kevin guarda la scena dall'altra parte del tavolo. _Tre donne due parole e sette scatole. Questa è la mia famiglia._ pensa Kevin.
+
+Leo alza la forchetta come una bandiera. «Nonna Ornella dice che nel 1962 si poteva bere il latte della latteria» dice.
+
+«Certo. Latte vero» dice Franco.
+
+«Allora io voglio bere latte vero» dice Leo.
+
+«Ma tu bevi il latte dal cartone, Leo» dice Chiara.
+
+«Appunto» dice Leo, serio. Tutti ridono, anche Franco.

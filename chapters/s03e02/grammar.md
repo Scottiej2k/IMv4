@@ -80,7 +80,7 @@ Weather is very often imperfetto: *faceva freddo* (it was cold), *faceva caldo* 
 «In inverno **faceva freddo**» dice. — “In winter **it was cold**,” Ornella says. (`s03e02-4-028`)
 *Weather in the past is almost always imperfetto.*
 
-«Anche io ero **giovane** in un posto così» dice. — “I was **young** in a place like that too,” Lucia says. (`s03e02-5-046`)
+«Anche io ero **giovane** in un posto così» dice. — “I was **young** in a place like that too,” Lucia says. (`s03e02-7-046`)
 *Ero + adjective: describing a person.*
 
 ## Common mistakes
