@@ -1,0 +1,701 @@
+# S03E12 · Vorrei una culla
+
+*I'd Like a Cot* · A2 · Testo parallelo / Parallel text
+
+_Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand._
+
+## 1. Bar Tigli · sabato mattina, dicembre
+
+| Italiano | English |
+|---|---|
+| È sabato mattina al Bar Tigli. | It's Saturday morning at Bar Tigli. |
+| Fuori fa freddo e la vetrina è piena di vapore. | Outside it's cold, and the window is full of steam. |
+| Kevin è dietro il banco e asciuga i bicchieri. | Kevin is behind the counter, drying glasses. |
+| Matteo scende le scale con un foglio in mano. | Matteo comes down the stairs with a sheet of paper in his hand. |
+| «Buongiorno, soci!» dice Matteo. «Oggi parliamo di cose importanti.» | “Good morning, partners!” says Matteo. “Today we talk about important things.” |
+| Nadia scende dietro di lui, piano, con una mano sulla schiena. | Nadia comes down behind him, slowly, with a hand on her back. |
+| «Sono le sette e mezza» dice Nadia. «E la mia schiena vuole dormire.» | “It's seven thirty,” says Nadia. “And my back wants to sleep.” |
+| Matteo apre il foglio sul banco come una mappa. | Matteo opens the sheet on the counter like a map. |
+| «Servono tre cose» dice. «Un **passeggino**, dei **pannolini** e un **seggiolino** per la macchina.» | “We need three things,” he says. “A **stroller**, some **diapers**, and a **car seat** for the car.” |
+| «Tre cose» ripete Nadia. «E tu ne hai scritte venti.» | “Three things,” Nadia repeats. “And you've written down twenty.” |
+| «Il **passeggino** deve essere **morbido** e deve **piegare** in due secondi» dice Matteo. | “The **stroller** has to be **soft** and has to **fold** in two seconds,” says Matteo. |
+| «E deve essere **robusto**» aggiunge Nadia. «Qui nessuno è delicato.» | “And it has to be **sturdy**,” Nadia adds. “Nobody here is gentle.” |
+| «Esatto! **Robusto**, ma **morbido**. E con una **garanzia** di due anni» dice. | “Exactly! **Sturdy**, but **soft**. And with a two-year **warranty**,” says Matteo. |
+| Nadia lo guarda senza parlare per tre secondi. | Nadia looks at him without speaking for three seconds. |
+| «Matteo, non stiamo traslocando» dice Nadia. «Servono tre cartoni, non trenta.» | “Matteo, we're not moving house,” says Nadia. “We need three boxes, not thirty.” |
+| «I **cartoni** li metto nel **corridoio**, sopra il bar» aggiunge. «Uno alla volta.» | “The **boxes** go in the **hallway**, above the bar,” Nadia adds. “One at a time.” |
+| Matteo alza le mani, come un arbitro. | Matteo raises his hands, like a referee. |
+| «Va bene. Ma la **misura** è importante» dice. | “All right. But the **size** is important,” he says. |
+| «La **misura** di cosa?» chiede Kevin. | “The **size** of what?” Kevin asks. |
+| «Del **seggiolino**. Deve essere **adatto** alla macchina» spiega Matteo. | “Of the **car seat**. It has to be **suitable** for the car,” Matteo explains. |
+| «Allora ho una notizia» dice Nadia. «Per lo shopping viene mia madre.» | “So, I have news,” says Nadia. “My mother is coming shopping.” |
+| «Samira?» chiede Matteo. | “Samira?” Matteo asks. |
+| «Samira. Lei sa tutto dei **pannolini**» dice Nadia. «E io mi fido di lei.» | “Samira. She knows everything about **diapers**,” says Nadia. “And I trust her.” |
+| Matteo ci pensa due secondi. | Matteo thinks about it for two seconds. |
+| «Perfetto. Allora io porto Lucia» dice. | “Perfect. Then I'm bringing Lucia,” he says. |
+| «Lucia? Perché?» chiede Nadia, con gli occhi stretti. | “Lucia? Why?” Nadia asks, with narrowed eyes. |
+| «Perché Lucia ha cresciuto un figlio. E ha **pareri** forti» dice Matteo. | “Because Lucia raised a son. And she has strong **opinions**,” says Matteo. |
+| Nadia chiude gli occhi. | Nadia closes her eyes. |
+| «Due donne, due **pareri**, un bambino» dice piano. «Matteo, questa è una guerra.» | “Two women, two **opinions**, one baby,” Nadia says quietly. “Matteo, this is a war.” |
+| «No, è una squadra» dice Matteo. «Una squadra forte.» | “No, it's a team,” says Matteo. “A strong team.” |
+| In quel momento la porta si apre ed entra Franco. | At that moment the door opens and Franco comes in. |
+| Ha il cappello in testa e le mani in tasca. | He has his hat on his head and his hands in his pockets. |
+| «Caffè» dice Franco. | “Coffee,” says Franco. |
+| Kevin prepara il caffè. | Kevin makes the coffee. |
+| «Franco, **potresti** insegnarmi le bocce?» chiede Kevin. «Sul serio, non per gioco.» | “Franco, **could you** teach me bocce?” Kevin asks. “Seriously, not for fun.” |
+| Franco beve il caffè in due secondi. | Franco drinks the coffee in two seconds. |
+| «No» dice. | “No,” he says. |
+| «**Dovresti** solo guardarmi una volta» insiste Kevin. «Cinque minuti.» | “**You should** just watch me once,” Kevin insists. “Five minutes.” |
+| «Il **campo** non è una scuola» dice Franco. «E tu **lanci** come un turista.» | “The **court** isn't a school,” says Franco. “And you **throw** like a tourist.” |
+| «Come un turista?» chiede Kevin. | “Like a tourist?” Kevin asks. |
+| «Con il braccio, non con la **mira**» dice Franco. «E il **boccino** non si guarda. Si sente.» | “With your arm, not with your **aim**,” says Franco. “And you don't look at the **jack**. You feel it.” |
+| Kevin scrive tutto sul quaderno giallo. | Kevin writes it all in the yellow notebook. |
+| «Il **boccino** si sente» ripete piano. | “You feel the **jack**,” he repeats quietly. |
+| «Non scrivere. Gioca» dice Franco. | “Don't write. Play,” says Franco. |
+| Nadia ride piano, dietro il banco. | Nadia laughs quietly behind the counter. |
+| «Kevin, quanti **punti** hai nel quaderno?» chiede. | “Kevin, how many **points** do you have in the notebook?” she asks. |
+| «Tanti» risponde Kevin. «Ma pochi **punti** veri.» | “Lots,” Kevin answers. “But few real **points**.” |
+| Al tavolo vicino alla finestra c'è Ornella. | At the table near the window there's Ornella. |
+| Sul tavolo, davanti a lei, ci sono **lana** e un **gomitolo** rosso. | On the table in front of her there are **wool** and a red **ball of yarn**. |
+| Ornella **lavora a maglia** con le dita veloci. | Ornella **knits** with fast fingers. |
+| «Buongiorno, Ornella» dice Kevin. «Come stai?» | “Good morning, Ornella,” says Kevin. “How are you?” |
+| «Bene, grazie, Kevin» risponde Ornella. | “Fine, thank you, Kevin,” Ornella answers. |
+| «Che cosa fai?» chiede Kevin. | “What are you making?” Kevin asks. |
+| «**Lavoro a maglia**» dice Ornella. «Questo è chiaro.» | “I'm **knitting**,” says Ornella. “That part is clear.” |
+| «Sì. Ma che cosa è?» chiede Kevin. | “Yes. But what is it?” Kevin asks. |
+| «Questo non lo so ancora» dice Ornella. | “That I don't know yet,” says Ornella. |
+| Nadia guarda la **lana**. | Nadia looks at the **wool**. |
+| «Ornella, lo fai da tre settimane» dice. «E non lo sai ancora?» | “Ornella, you've been doing it for three weeks,” she says. “And you still don't know?” |
+| «Aspetto l'ispirazione» dice Ornella. | “I'm waiting for inspiration,” says Ornella. |
+| Matteo torna al suo foglio. | Matteo goes back to his sheet. |
+| _Due donne, due pareri, un solo bambino. Sarà una giornata lunga._ | _Two women, two opinions, only one baby. It will be a long day._ |
+| «**Mi piacerebbe** dire di no» dice Nadia. | “**I'd like** to say no,” says Nadia. |
+| «Ma?» chiede Matteo. | “But?” Matteo asks. |
+| «Ma il **seggiolino** non si compra da solo» dice Nadia. | “But the **car seat** doesn't buy itself,” says Nadia. |
+| Kevin chiude il quaderno. | Kevin closes the notebook. |
+| «Posso venire anch'io?» chiede Kevin. «Solo per imparare le parole.» | “Can I come too?” Kevin asks. “Just to learn the words.” |
+| «No» dice Matteo. | “No,” says Matteo. |
+| «No» dice Nadia. | “No,” says Nadia. |
+| «Perché?» chiede Kevin. | “Why?” Kevin asks. |
+| «Perché tu scrivi tutto. E poi lo dicono a Franco» dice Matteo. | “Because you write everything down. And then they tell Franco,” says Matteo. |
+| Franco prende il giornale e va al tavolo di Ornella. | Franco takes the newspaper and goes to Ornella's table. |
+| «Ornella, che cosa fai?» chiede Franco. | “Ornella, what are you making?” Franco asks. |
+| «**Lavoro a maglia**, Franco» dice Ornella. | “I'm **knitting**, Franco,” says Ornella. |
+| «Lo vedo. Ma che cosa è?» chiede Franco. | “I can see that. But what is it?” Franco asks. |
+| «Una cosa **morbida**» dice Ornella. | “Something **soft**,” says Ornella. |
+| Franco apre il giornale e non chiede più. | Franco opens the newspaper and doesn't ask again. |
+| Nadia si siede accanto a Ornella. | Nadia sits down next to Ornella. |
+| «Ornella, per il mio bambino, una cosa così?» chiede Nadia. | “Ornella, for my baby, something like this?” Nadia asks. |
+| «Forse» dice Ornella. «Se il **gomitolo** basta.» | “Maybe,” says Ornella. “If the **ball of yarn** is enough.” |
+| Kevin prende il quaderno e scrive la frase del giorno. | Kevin takes the notebook and writes the phrase of the day. |
+| «Troppi **pareri**, un bambino solo» legge ad alta voce. | “Too many **opinions**, just one baby,” he reads aloud. |
+| «Questa è buona» dice Nadia. | “That one's good,” says Nadia. |
+| «L'ho scritta io» dice Kevin. | “I wrote it,” says Kevin. |
+| «Allora è la prima volta» dice Nadia. | “Then it's the first time,” says Nadia. |
+| Matteo **piega** il foglio in quattro **misure** diverse. | Matteo **folds** the sheet into four different **sizes**. |
+| «Sabato. Ore quattro. Davanti al negozio» dice. «Puntuali.» | “Saturday. Four o'clock. In front of the shop,” he says. “On time.” |
+| Nadia beve un sorso d'acqua. | Nadia takes a sip of water. |
+| «Matteo, io arrivo alle quattro e un minuto» dice. «E ci metto dieci minuti a scendere dalla macchina.» | “Matteo, I get there at four and one minute,” says Nadia. “And it takes me ten minutes to get out of the car.” |
+| Ornella sorride e continua a **lavorare a maglia**. | Ornella smiles and keeps **knitting**. |
+| Il **gomitolo** rotola piano sul tavolo. | The **ball of yarn** rolls slowly on the table. |
+| Fuori, sulla strada, passa il camioncino del pane. | Outside, on the street, the bread van goes by. |
+| Kevin guarda la **lana** e poi il suo quaderno. | Kevin looks at the **wool**, then at his notebook. |
+| «Anche questo lo scrivo» dice Kevin. | “I'll write this down too,” says Kevin. |
+
+## 2. L'orto di Franco · sabato, mezzogiorno
+
+| Italiano | English |
+|---|---|
+| È mezzogiorno e l'orto di Franco è tutto marrone. | It's noon and Franco's garden is all brown. |
+| Le piante dormono sotto una coperta di foglie. | The plants are sleeping under a blanket of leaves. |
+| Franco è in piedi vicino al muretto, con le mani sporche. | Franco is standing near the low wall, his hands dirty. |
+| Kevin arriva dal cancello con il quaderno giallo in mano. | Kevin comes in through the gate with his yellow notebook in his hand. |
+| «Franco, **potresti** insegnarmi le bocce?» chiede Kevin. «Sul serio.» | “Franco, **could you** teach me bocce?” Kevin asks. “Seriously.” |
+| Franco non alza la testa. | Franco doesn't raise his head. |
+| «No» dice Franco. | “No,” says Franco. |
+| «**Dovresti** solo spiegarmi il **campo**» insiste Kevin. «Dove **lanciare**, dove stare.» | “**You should** just explain the **court** to me,” Kevin insists. “Where to **throw**, where to stand.” |
+| «Il **campo** non è una scuola» dice Franco. «E io non sono la maestra.» | “The **court** isn't a school,” says Franco. “And I'm not the teacher.” |
+| Kevin apre il quaderno. | Kevin opens the notebook. |
+| «**Mi piacerebbe** capire la mano, la **mira**, il **punto** giusto» dice Kevin. | “**I'd like** to understand the hand, the **aim**, the right **point**,” says Kevin. |
+| Franco guarda il quaderno con sospetto. | Franco looks at the notebook with suspicion. |
+| «Le bocce non sono un esame» dice Franco. «Si gioca e basta.» | “Bocce isn't an exam,” says Franco. “You play, that's all.” |
+| «Ma il **boccino**? Come si guarda?» chiede Kevin. | “But the **jack**? How do you look at it?” Kevin asks. |
+| «Non si guarda. Si sente» dice Franco. «Te l'ho già detto stamattina.» | “You don't look at it. You feel it,” says Franco. “I already told you this morning.” |
+| Kevin scrive la frase. | Kevin writes down the sentence. |
+| «Si sente» ripete Kevin. | “You feel it,” Kevin repeats. |
+| Franco sospira e guarda il cielo. | Franco sighs and looks at the sky. |
+| «Kevin, tu **lanci** sempre con il braccio destro, ma guardi a sinistra» dice. | “Kevin, you always **throw** with your right arm, but you look to the left,” says Franco. |
+| «È vero?» chiede Kevin, sorpreso. | “Is that true?” Kevin asks, surprised. |
+| «È vero» dice Franco. | “It's true,” says Franco. |
+| Kevin è contento per tre secondi. | Kevin is happy for three seconds. |
+| «Allora mi insegni?» chiede Kevin. | “So will you teach me?” Kevin asks. |
+| «No» dice Franco. | “No,” says Franco. |
+| Kevin chiude il quaderno e non capisce niente. | Kevin closes the notebook and understands nothing. |
+| _Un momento. Ha detto "è vero". Questo è un punto._ | _Wait a moment. He said "that's true." That's a point._ |
+| In quel momento si sente una voce dalla strada. | At that moment a voice comes from the street. |
+| «Franco! Amore mio! Aiutami!» grida Lucia. | “Franco! My love! Help me!” Lucia shouts. |
+| Lucia è al cancello con un **cartone** grande tra le braccia. | Lucia is at the gate with a big **cardboard box** in her arms. |
+| Il **cartone** è pesante e Lucia non vede i piedi. | The **box** is heavy and Lucia can't see her feet. |
+| «Ecco la nona» dice Franco, piano. | “Here's the ninth,” says Franco, quietly. |
+| «Come, la nona?» chiede Kevin. | “What do you mean, the ninth?” Kevin asks. |
+| «Niente» dice Franco. «Porta dentro quel **cartone**.» | “Nothing,” says Franco. “Take that **box** inside.” |
+| Kevin prende il **cartone**. | Kevin takes the **box**. |
+| È pesante davvero, e sa di carta vecchia. | It really is heavy, and it smells of old paper. |
+| «Che cosa c'è dentro, Lucia?» chiede Kevin. | “What's inside, Lucia?” Kevin asks. |
+| «Libri, piatti, e una macchina da cucire» dice Lucia. | “Books, plates, and a sewing machine,” says Lucia. |
+| «Una macchina da cucire?» chiede Kevin. | “A sewing machine?” Kevin asks. |
+| «La mia. La uso poco, ma non la lascio» dice Lucia. | “Mine. I rarely use it, but I don't leave it behind,” says Lucia. |
+| Kevin entra in casa con il **cartone**. | Kevin goes into the house with the **box**. |
+| Nel **corridoio** ci sono altri **cartoni**. | In the **hallway** there are other **boxes**. |
+| Uno, due, tre, quattro, cinque, sei, sette, otto. | One, two, three, four, five, six, seven, eight. |
+| Kevin li conta e poi mette il nono accanto al muro. | Kevin counts them and puts the ninth next to the wall. |
+| _Nove. Nove cartoni non sono una cosa temporanea._ | _Nine. Nine boxes are not a temporary thing._ |
+| «Franco, dove lo metto?» chiede Kevin a Franco. | “Franco, where do I put it?” Kevin asks Franco. |
+| Franco arriva nel **corridoio** e guarda i **cartoni**. | Franco comes into the **hallway** and looks at the **boxes**. |
+| «Mettilo lì, dove c'è spazio» dice Franco. | “Put it there, where there's space,” says Franco. |
+| «Ma non c'è spazio» dice Kevin. | “But there's no space,” says Kevin. |
+| Franco non risponde. | Franco doesn't answer. |
+| Apre una porta e guarda dentro. | He opens a door and looks inside. |
+| «Allora **sistemare** è difficile» dice Kevin, piano. | “So **sorting this out** is hard,” says Kevin, quietly. |
+| «**Sistemare** è la parola sbagliata» dice Franco. | “**Sorting out** is the wrong word,” says Franco. |
+| Lucia entra nel **corridoio** e sorride ai **cartoni**. | Lucia comes into the **hallway** and smiles at the **boxes**. |
+| «Piano piano, Kevin. Le cose si portano una alla volta» dice Lucia. | “Little by little, Kevin. Things get carried one at a time,” she says. |
+| «Come?» chiede Kevin. | “How?” Kevin asks. |
+| «Una alla volta» ripete Lucia. «Come si deve.» | “One at a time,” Lucia repeats. “The way it should be.” |
+| Kevin vuole dire una parola. | Kevin wants to say one word. |
+| La parola è **traslocare**. | The word is **to move house**. |
+| «Lucia, tu **traslochi** qui?» chiede Kevin. | “Lucia, are you **moving** here?” Kevin asks. |
+| Lucia ride e mette una mano sul braccio di Kevin. | Lucia laughs and puts a hand on Kevin's arm. |
+| «Che domande, tesoro. Porto solo delle cose» dice Lucia. | “What questions, dear. I'm only bringing a few things,” says Lucia. |
+| In quel momento arriva anche Chiara. | At that moment Chiara arrives too. |
+| Ha ancora la borsa del lavoro e gli occhi stanchi. | She still has her work bag and tired eyes. |
+| Guarda il **corridoio** e conta i **cartoni** con lo sguardo. | She looks at the **hallway** and counts the **boxes** with her eyes. |
+| Non dice niente per cinque secondi. | She says nothing for five seconds. |
+| «Ancora una cosa temporanea» dice Chiara. | “Another temporary thing,” says Chiara. |
+| «Sì, temporanea» dice Lucia. | “Yes, temporary,” says Lucia. |
+| Chiara non sorride e non fotografa niente. | Chiara doesn't smile and doesn't photograph anything. |
+| «Papà, ti aiuto io con i **cartoni**?» chiede Chiara. | “Dad, should I help you with the **boxes**?” Chiara asks. |
+| «No» dice Franco. «Sto bene così.» | “No,” says Franco. “I'm fine like this.” |
+| _Questo non è temporaneo. Questo è un traslocare._ | _This is not temporary. This is a move._ |
+| _E nessuno vuole dire la parola._ | _And nobody wants to say the word._ |
+| Lucia prende la sua borsa. | Lucia picks up her bag. |
+| Prima di uscire, guarda Franco e poi Chiara. | Before leaving, she looks at Franco and then at Chiara. |
+| «Franco, stasera ti porto la **lana** che ho promesso a Ornella» dice Lucia. | “Franco, tonight I'll bring you the **wool** I promised Ornella,” says Lucia. |
+| «A me? Perché?» chiede Franco. | “To me? Why?” Franco asks. |
+| «Perché tu la porti a lei. Io **lavoro a maglia** male» dice Lucia. | “Because you take it to her. I **knit** badly,” says Lucia. |
+| Franco non risponde e guarda il cancello. | Franco doesn't answer and looks at the gate. |
+| Chiara guarda i **cartoni** ancora una volta. | Chiara looks at the **boxes** one more time. |
+| «Io vado» dice Chiara. «A casa ci sono le lasagne.» | “I'm going,” says Chiara. “There's lasagna at home.” |
+| Kevin chiude il **corridoio** con il piede. | Kevin closes the **hallway** with his foot. |
+| _Anche le lasagne sono una risposta. Ma non è quella giusta._ | _Lasagna is an answer too. But it's not the right one._ |
+| Nel corridoio resta il cartone numero nove, con la sua macchina da cucire. | In the hallway, box number nine stays, with its sewing machine. |
+
+## 3. Piazza della Chiesa · sabato pomeriggio
+
+| Italiano | English |
+|---|---|
+| Il negozio di cose per bambini è in Piazza della Chiesa. | The baby shop is in Piazza della Chiesa. |
+| Nella vetrina c'è un **passeggino** verde con un fiocco giallo. | In the window there's a green **stroller** with a yellow bow. |
+| Matteo arriva alle quattro in punto e guarda la vetrina. | Matteo arrives at four o'clock sharp and looks at the window. |
+| «Guarda che bello. Tutto per il nostro bambino» dice Matteo. | “Look how nice. All for our baby,” says Matteo. |
+| Samira arriva alle quattro e due con una borsa grande. | Samira arrives at four and two with a big bag. |
+| Nadia cammina piano, con una mano sulla schiena. | Nadia walks slowly, with a hand on her back. |
+| «Ciao, amore» dice Samira e abbraccia Matteo. | “Hi, love,” says Samira, and she hugs Matteo. |
+| «Ciao, Samira. Siamo tutti» dice Matteo. | “Hi, Samira. We're all here,” says Matteo. |
+| «Manca Lucia» dice Nadia. | “Lucia's missing,” says Nadia. |
+| «Ah. Già» dice Matteo. | “Ah. Right,” says Matteo. |
+| Lucia arriva alle quattro e cinque con un cappotto rosso. | Lucia arrives at four and five in a red coat. |
+| «Eccomi! Scusate» dice Lucia. | “Here I am! Sorry,” says Lucia. |
+| «Non sei in ritardo» dice Matteo. | “You're not late,” says Matteo. |
+| «Sei gentile come sempre» dice Lucia. | “You're kind as always,” says Lucia. |
+| Dentro c'è una signora con gli occhiali dietro il banco. | Inside there's a lady with glasses behind the counter. |
+| «Buonasera. **Potrei** aiutarvi?» chiede la signora. | “Good evening. **Could I** help you?” asks the lady. |
+| «Sì, grazie» dice Nadia. «Cerchiamo tre cose.» | “Yes, thank you,” says Nadia. “We're looking for three things.” |
+| «Un **passeggino**, dei **pannolini** e un **seggiolino**» dice Matteo. | “A **stroller**, some **diapers**, and a **car seat**,” says Matteo. |
+| La signora fa un cenno con la testa. | The lady nods her head. |
+| «Perfetto. Cominciamo dal **passeggino**» dice. | “Perfect. Let's start with the **stroller**,” she says. |
+| Samira va subito verso il **modello** verde. | Samira goes straight to the green **model**. |
+| «Questo. Questo è quello giusto» dice Samira. | “This one. This is the right one,” says Samira. |
+| «È **robusto** e ha una **garanzia** lunga» aggiunge. | “It's **sturdy** and it has a long **warranty**,” Samira adds. |
+| Lucia guarda il **modello** verde e poi guarda Matteo. | Lucia looks at the green **model**, then looks at Matteo. |
+| «Sì, è **robusto**. Ma è anche pesante» dice Lucia. | “Yes, it's **sturdy**. But it's heavy too,” says Lucia. |
+| «Pesante?» chiede Samira. | “Heavy?” Samira asks. |
+| «Per portarlo in macchina serve forza» dice Lucia. | “To get it into the car you need strength,” says Lucia. |
+| «E chi lo porta in macchina? Matteo» dice Samira. | “And who gets it into the car? Matteo,” says Samira. |
+| Matteo alza le sopracciglia. | Matteo raises his eyebrows. |
+| «Io?» chiede Matteo. | “Me?” Matteo asks. |
+| «Tu» dice Samira. | “You,” says Samira. |
+| «Allora **dovresti** guardare questo» dice Lucia. | “Then **you should** look at this one,” says Lucia. |
+| Indica un **modello** grigio, piccolo e chiaro. | She points to a gray **model**, small and light. |
+| «Questo **piega** con una mano sola» dice Lucia. | “This one **folds** with one hand,” says Lucia. |
+| «Una mano sola?» chiede Matteo. | “One hand?” Matteo asks. |
+| «Una mano sola» ripete Lucia. | “One hand,” Lucia repeats. |
+| Samira non è convinta. | Samira isn't convinced. |
+| «Quello è **economico**, ma è piccolo» dice Samira. | “That one is **inexpensive**, but it's small,” says Samira. |
+| «È **economico** e anche **morbido**» dice Lucia. | “It's **inexpensive** and **soft** too,” says Lucia. |
+| «Il **passeggino** deve essere **morbido**?» chiede Matteo. | “Does the **stroller** have to be **soft**?” Matteo asks. |
+| Nadia è in piedi in mezzo al negozio. | Nadia is standing in the middle of the shop. |
+| «Io ne ho un **parere** su tutto questo» dice Nadia. | “I have an **opinion** about all this,” says Nadia. |
+| «Quale?» chiede Matteo. | “What is it?” Matteo asks. |
+| «Che il bambino non ha ancora un nome e ha già due **passeggini**» dice Nadia. | “That the baby doesn't have a name yet and already has two **strollers**,” says Nadia. |
+| La signora ride piano, dietro il banco. | The lady laughs quietly behind the counter. |
+| «Posso dire una cosa?» chiede. | “May I say something?” she asks. |
+| «Prego» dice Nadia. | “Please do,” says Nadia. |
+| «Il **passeggino** giusto dipende dalla **misura** della macchina» dice. | “The right **stroller** depends on the **size** of the car,” she says. |
+| «E dalla **misura** della nonna» dice Matteo. | “And on the **size** of the grandma,” says Matteo. |
+| Nessuno ride. | Nobody laughs. |
+| Poi arrivano i **pannolini**. | Then come the **diapers**. |
+| Sul muro ci sono cinque **marche** diverse. | On the wall there are five different **brands**. |
+| «La **marca** non è importante» dice Samira. | “The **brand** isn't important,” says Samira. |
+| «La **marca** è tutto» dice Lucia. | “The **brand** is everything,” says Lucia. |
+| «Come, la **marca** è tutto?» chiede Samira. | “What do you mean, the **brand** is everything?” Samira asks. |
+| «La **marca** giusta non fa male alla pelle» dice Lucia. | “The right **brand** doesn't hurt the skin,” says Lucia. |
+| «Tutte le **marche** sono uguali» dice Samira. | “All **brands** are the same,” says Samira. |
+| Matteo prende un pacchetto e legge. | Matteo picks up a package and reads. |
+| «Questi sono per la **misura** tre» dice Matteo. | “These are for **size** three,” says Matteo. |
+| «Ma la **misura** tre è per i bambini di sette chili» dice Nadia. | “But **size** three is for babies of seven kilos,” says Nadia. |
+| «E il nostro bambino quanti chili pesa?» chiede Matteo. | “And how many kilos does our baby weigh?” Matteo asks. |
+| «Non è ancora nato» dice Nadia. | “He isn't born yet,” says Nadia. |
+| «Ah. Già» dice Matteo, di nuovo. | “Ah. Right,” says Matteo, again. |
+| Samira prende un pacchetto e lo mette nel carrello. | Samira picks up a package and puts it in the cart. |
+| Lucia lo rimette sullo scaffale. | Lucia puts it back on the shelf. |
+| Samira lo prende di nuovo. | Samira picks it up again. |
+| Lucia lo rimette di nuovo. | Lucia puts it back again. |
+| Nadia guarda la scena senza dire niente. | Nadia watches the scene without saying anything. |
+| «**Mi piacerebbe** sparire qui» dice alla fine. | “**I would like** to disappear here,” she says at last. |
+| «Amore, non dire così» dice Matteo. | “Love, don't say that,” says Matteo. |
+| «È uno scherzo» dice Nadia. «Forse.» | “It's a joke,” says Nadia. “Maybe.” |
+| Poi arriva la parte difficile: il **seggiolino**. | Then comes the hard part: the **car seat**. |
+| La signora mostra un **modello** nero con le cinghie rosse. | The lady shows a black **model** with red straps. |
+| «Questo è **adatto** fino a tre mesi» spiega. | “This one is **suitable** up to three months,” she explains. |
+| «Solo tre mesi?» chiede Nadia. | “Only three months?” Nadia asks. |
+| «Poi serve un altro **modello**, più grande» dice. | “Then you need another **model**, a bigger one,” says the lady. |
+| «Quindi è **adatto** per tre mesi e poi è inutile» dice Nadia. | “So it's **suitable** for three months and then it's useless,” says Nadia. |
+| «Esatto» dice la signora. | “Exactly,” says the lady. |
+| «Allora è **costoso** per niente» dice Nadia. | “Then it's **expensive** for nothing,” says Nadia. |
+| «È **costoso**, ma è sicuro» dice Lucia. | “It's **expensive**, but it's safe,” says Lucia. |
+| «La sicurezza non ha prezzo» dice Samira. | “Safety has no price,” says Samira. |
+| «Ha un prezzo. Qui c'è scritto» dice Nadia, e indica. | “It has a price. It's written here,” says Nadia, and she points. |
+| Matteo guarda il prezzo e diventa bianco. | Matteo looks at the price and goes white. |
+| «Quaranta?» chiede Matteo. | “Forty?” Matteo asks. |
+| «Centoquaranta» dice Nadia. | “One hundred and forty,” says Nadia. |
+| «Ah» dice Matteo. | “Ah,” says Matteo. |
+| «**Potresti** provare quello là» dice Lucia alla signora. | “**Could you** try that one there,” says Lucia to the lady. |
+| «Quale?» chiede la signora. | “Which one?” the lady asks. |
+| «Quello con la **garanzia** di cinque anni» dice Lucia. | “The one with the five-year **warranty**,” says Lucia. |
+| «Quello è **costoso** il doppio» dice la signora. | “That one is twice as **expensive**,” says the lady. |
+| Samira alza una mano. | Samira raises a hand. |
+| «Io preferisco questo. È il mio **parere**» dice Samira. | “I prefer this one. That's my **opinion**,” says Samira. |
+| «E io preferisco quell'altro. È il mio **parere**» dice Lucia. | “And I prefer the other one. That's my **opinion**,” says Lucia. |
+| Matteo guarda Nadia. | Matteo looks at Nadia. |
+| Nadia guarda una sedia vicino alla porta. | Nadia looks at a chair near the door. |
+| Si siede piano, con le mani sulla pancia. | She sits down slowly, with her hands on her belly. |
+| «Io **vorrei** solo sedermi un momento» dice Nadia. | “I **would just like** to sit down for a moment,” says Nadia. |
+| «Amore...» dice Matteo. | “Love...” says Matteo. |
+| «Un momento» ripete Nadia. | “A moment,” Nadia repeats. |
+| Samira e Lucia si guardano. | Samira and Lucia look at each other. |
+| «Forse abbiamo parlato troppo» dice Samira. | “Maybe we talked too much,” says Samira. |
+| «Forse un pochino» ammette Lucia. | “Maybe a little bit,” Lucia admits. |
+| Matteo alza tutte e due le mani in aria. | Matteo raises both hands in the air. |
+| «Allora. Il **punto** è questo» dice Matteo. | “So. The **point** is this,” says Matteo. |
+| «Il **punto** è che non compriamo niente oggi» dice Nadia dalla sedia. | “The **point** is that we're not buying anything today,” says Nadia from the chair. |
+| «Niente?» chiede Matteo. | “Nothing?” Matteo asks. |
+| «Niente. Torniamo a casa e pensiamo» dice Nadia. | “Nothing. We go home and think,” says Nadia. |
+| La signora è molto gentile. | The lady is very kind. |
+| «**Potrei** darvi un catalogo» dice la signora. | “**I could** give you a catalogue,” says the lady. |
+| «Grazie» dice Nadia. | “Thank you,” says Nadia. |
+| «Con i prezzi e le **misure**» aggiunge. | “With the prices and the **sizes**,” the lady adds. |
+| «Perfetto» dice Nadia. | “Perfect,” says Nadia. |
+| Escono tutti nel freddo della piazza. | They all go out into the cold of the square. |
+| Matteo porta il catalogo come un trofeo. | Matteo carries the catalogue like a trophy. |
+| «Non male, però» dice. «Abbiamo un catalogo.» | “Not bad, though,” he says. “We have a catalogue.” |
+| «Abbiamo **pareri**. Due grandi **pareri**» dice Nadia. | “We have **opinions**. Two big **opinions**,” says Nadia. |
+| «E un bambino in arrivo» dice Lucia. | “And a baby on the way,” says Lucia. |
+| «Quello c'era già prima» dice Nadia. | “That was already there before,” says Nadia. |
+| Samira prende il braccio di Nadia. | Samira takes Nadia's arm. |
+| «Amore, stai bene?» chiede Samira. | “Love, are you all right?” Samira asks. |
+| «Sto bene. Sono solo stanca» dice Nadia. | “I'm fine. I'm just tired,” says Nadia. |
+| «Allora a casa. Subito» dice Samira. | “Then home. Right now,” says Samira. |
+| Lucia saluta con la mano e va verso il centro. | Lucia waves goodbye and heads toward the center. |
+| Matteo guarda il catalogo ancora una volta. | Matteo looks at the catalogue one more time. |
+| «Secondo me il verde era meglio» dice. | “In my opinion the green one was better,” says Matteo. |
+| «Secondo me stai zitto» dice Nadia. | “In my opinion you be quiet,” says Nadia. |
+| «Sì» dice Matteo. | “Yes,” says Matteo. |
+
+## 4. Bar Tigli · sabato sera
+
+| Italiano | English |
+|---|---|
+| Alle nove il Bar Tigli è pieno e le luci sono accese. | At nine, Bar Tigli is full and the lights are on. |
+| Kevin asciuga i bicchieri e guarda la scena. | Kevin dries the glasses and watches the scene. |
+| Nadia è seduta al tavolo con un bicchiere d'acqua. | Nadia is sitting at the table with a glass of water. |
+| Samira e Lucia sono in piedi, una a destra e una a sinistra. | Samira and Lucia are standing, one on the right and one on the left. |
+| Matteo entra dalla porta con il catalogo in mano. | Matteo comes in through the door with the catalogue in his hand. |
+| «Allora, il **passeggino**?» chiede Matteo. | “So, the **stroller**?” Matteo asks. |
+| Nadia mette giù il bicchiere. | Nadia puts down the glass. |
+| «Il **passeggino** lo scelgo io» dice Nadia. | “I'm choosing the **stroller**,” says Nadia. |
+| Samira fa un sorriso dolce. | Samira gives a sweet smile. |
+| «Certo, amore. Tu scegli» dice Samira. | “Of course, love. You choose,” says Samira. |
+| «Grazie, mamma» dice Nadia. | “Thank you, Mom,” says Nadia. |
+| «Però il **modello** verde era **robusto**» aggiunge Samira. | “But the green **model** was **sturdy**,” Samira adds. |
+| Nadia chiude gli occhi per un secondo. | Nadia closes her eyes for a second. |
+| «Mamma, il **modello** verde pesa dodici chili» dice Nadia. | “Mom, the green **model** weighs twelve kilos,” says Nadia. |
+| «Dodici? Esagerata» dice Samira. | “Twelve? You're exaggerating,” says Samira. |
+| «L'ho letto. C'è scritto» dice Nadia. | “I read it. It's written there,” says Nadia. |
+| Lucia interviene con voce gentile. | Lucia steps in with a gentle voice. |
+| «Io ho un **parere** semplice» dice Lucia. | “I have a simple **opinion**,” she says. |
+| «Sentiamo» dice Nadia. | “Let's hear it,” says Nadia. |
+| «Un **passeggino** deve **piegare** con una mano» dice Lucia. | “A **stroller** has to **fold** with one hand,” says Lucia. |
+| «Questo è un **parere** giusto» dice Nadia. | “That's a fair **opinion**,” says Nadia. |
+| «Grazie, tesoro» dice Lucia. | “Thank you, dear,” says Lucia. |
+| «Ma deve anche essere **robusto**» dice Samira. | “But it also has to be **sturdy**,” says Samira. |
+| «**Robusto** e leggero insieme?» chiede Nadia. | “**Sturdy** and light together?” Nadia asks. |
+| «Esiste» dice Samira. | “It exists,” says Samira. |
+| «Certo che esiste» dice Lucia. «Costa il doppio.» | “Of course it exists,” says Lucia. “It costs twice as much.” |
+| Matteo apre il catalogo sul tavolo. | Matteo opens the catalogue on the table. |
+| «Qui c'è un **modello** **economico**» dice Matteo. | “Here there's an **inexpensive** **model**,” says Matteo. |
+| «**Economico** quanto?» chiede Nadia. | “**Inexpensive** how much?” Nadia asks. |
+| «Novanta» dice Matteo. | “Ninety,” says Matteo. |
+| «E l'altro?» chiede Nadia. | “And the other one?” Nadia asks. |
+| «Duecentodieci» dice Matteo. | “Two hundred and ten,” says Matteo. |
+| «Ecco. Il **costoso** è **costoso** per un motivo» dice Nadia. | “There. The **expensive** one is **expensive** for a reason,” says Nadia. |
+| Samira alza una mano. | Samira raises a hand. |
+| «Io penso ai **pannolini**» dice Samira. | “I'll take care of the **diapers**,” says Samira. |
+| «Grazie, mamma» dice Nadia. | “Thank you, Mom,” says Nadia. |
+| «Però la **marca** è importante» aggiunge. | “But the **brand** is important,” she adds. |
+| «Prima dicevi che la **marca** non è importante» dice Nadia. | “Before you said the **brand** isn't important,” says Nadia. |
+| «Ho cambiato **parere**» dice Samira. | “I changed my **opinion**,” says Samira. |
+| Lucia ride piano, dietro il banco. | Lucia laughs quietly behind the counter. |
+| «Anch'io ho cambiato **parere**» dice Lucia. | “I changed my **opinion** too,” she says. |
+| «Ah, sì?» chiede Nadia. | “Oh, yes?” Nadia asks. |
+| «Sì. La **marca** non conta. Conta la **misura**» dice Lucia. | “Yes. The **brand** doesn't matter. The **size** matters,” says Lucia. |
+| Nadia guarda Matteo. | Nadia looks at Matteo. |
+| Matteo alza le mani. | Matteo raises his hands. |
+| «E il **seggiolino**?» chiede Matteo. | “And the **car seat**?” Matteo asks. |
+| «Il **seggiolino** è una cosa seria» dice Nadia. | “The **car seat** is a serious thing,” says Nadia. |
+| «Allora andiamo a provarlo in macchina» dice Matteo. | “Then let's go try it in the car,” says Matteo. |
+| «Bravo. Questa è una buona idea» dice Nadia. | “Good. That's a good idea,” says Nadia. |
+| Matteo sorride per un secondo. | Matteo smiles for a second. |
+| «Però serve una **garanzia** vera» dice Nadia. | “But we need a real **warranty**,” says Nadia. |
+| «Vera come?» chiede Matteo. | “Real how?” Matteo asks. |
+| «Vera come cinque anni. Non come una parola» dice Nadia. | “Real like five years. Not like a word,” says Nadia. |
+| «Ma la **garanzia** non è tutto» dice Lucia. | “But the **warranty** isn't everything,” says Lucia. |
+| «Secondo me sì» dice Nadia. | “In my opinion it is,” says Nadia. |
+| Kevin ascolta tutto e scrive. | Kevin listens to everything and writes. |
+| «Kevin, che cosa scrivi?» chiede Matteo. | “Kevin, what are you writing?” Matteo asks. |
+| «Una frase nuova» dice Kevin. | “A new sentence,” says Kevin. |
+| «Quale?» chiede Matteo. | “Which one?” Matteo asks. |
+| «**Dovresti** ascoltare Nadia» dice Kevin. | “**You should** listen to Nadia,” says Kevin. |
+| Matteo non è contento. | Matteo isn't happy. |
+| «Io ascolto sempre Nadia» dice Matteo. | “I always listen to Nadia,” says Matteo. |
+| «Quando?» chiede Nadia. | “When?” Nadia asks. |
+| «Sempre» dice Matteo. | “Always,” says Matteo. |
+| «Ieri?» chiede Nadia. | “Yesterday?” Nadia asks. |
+| «Ieri no» ammette. | “Yesterday no,” Matteo admits. |
+| Samira prende la borsa. | Samira picks up her bag. |
+| «Amore, io vado. È tardi» dice Samira. | “Love, I'm going. It's late,” says Samira. |
+| «Grazie, mamma» dice Nadia. | “Thank you, Mom,” says Nadia. |
+| «Per il **seggiolino**, **potresti** chiamarmi prima» dice Samira. | “About the **car seat**, **could you** call me first,” says Samira. |
+| «Certo» dice Nadia. | “Of course,” says Nadia. |
+| «Così ti dico il mio **parere**» dice Samira. | “So I can give you my **opinion**,” says Samira. |
+| «Certo» ripete Nadia. | “Of course,” Nadia repeats. |
+| Lucia prende il cappotto rosso. | Lucia picks up her red coat. |
+| «Anch'io vado» dice Lucia. | “I'm going too,” says Lucia. |
+| «Grazie, Lucia» dice Nadia. | “Thank you, Lucia,” says Nadia. |
+| «Per il **passeggino**, aspettate un mese» dice Lucia. | “About the **stroller**, wait a month,” she says. |
+| «Perché?» chiede Nadia. | “Why?” Nadia asks. |
+| «Perché poi ci sono gli sconti» dice Lucia. | “Because then there are discounts,” says Lucia. |
+| «Questo è un buon **parere**» dice Nadia. | “That's a good **opinion**,” says Nadia. |
+| Le due donne escono e la porta si chiude. | The two women leave and the door closes. |
+| Matteo si siede accanto a Nadia. | Matteo sits down next to Nadia. |
+| «Allora. Abbiamo un piano?» chiede Matteo. | “So. Do we have a plan?” Matteo asks. |
+| «Abbiamo tre **pareri** e niente **passeggino**» dice Nadia. | “We have three **opinions** and no **stroller**,” says Nadia. |
+| Kevin arriva al tavolo con un panno in mano. | Kevin comes to the table with a cloth in his hand. |
+| «Posso dire una cosa?» chiede Kevin. | “Can I say something?” Kevin asks. |
+| «Solo una» dice Nadia. | “Just one,” says Nadia. |
+| «Nel **corridoio** di Franco ci sono nove **cartoni**» dice Kevin. | “In Franco's **hallway** there are nine **boxes**,” says Kevin. |
+| «Nove?» chiede Matteo. | “Nine?” Matteo asks. |
+| «Nove. E nessuno li **sistema**» dice Kevin. | “Nine. And nobody **sorts** them out,” says Kevin. |
+| Nadia lo guarda a lungo. | Nadia looks at him for a long time. |
+| «Kevin, questa è la cosa più intelligente della giornata» dice Nadia. | “Kevin, that's the smartest thing today,” says Nadia. |
+| «Grazie» dice Kevin. | “Thank you,” says Kevin. |
+| «Ma non è il momento» aggiunge. | “But it's not the moment,” she adds. |
+| «Ah» dice Kevin. | “Ah,” says Kevin. |
+| Matteo chiude il catalogo. | Matteo closes the catalogue. |
+| «Allora: **passeggino** e **pannolini** li sceglie Nadia» dice. | “So: **stroller** and **diapers**, Nadia chooses,” says Matteo. |
+| «Sì» dice Nadia. | “Yes,” says Nadia. |
+| «Il **seggiolino** lo proviamo in macchina» dice. | “The **car seat**, we try it in the car,” he says. |
+| «Sì» dice Nadia. | “Yes,” says Nadia. |
+| «E la **garanzia** deve essere vera» dice. | “And the **warranty** must be real,” he says. |
+| «Sì» dice Nadia. | “Yes,” says Nadia. |
+| Kevin scrive l'ultima frase della sera. | Kevin writes the last sentence of the evening. |
+| «Troppi **pareri**, un bambino solo» legge. | “Too many **opinions**, just one baby,” he reads. |
+| Nadia sorride, finalmente. | Nadia smiles, finally. |
+| «Questa la dico a mia madre» dice. | “I'll say that one to my mother,” she says. |
+| «E a Lucia» dice Matteo. | “And to Lucia,” says Matteo. |
+| «A tutte e due» dice Nadia. | “To both of them,” says Nadia. |
+| Fuori piove piano sui vetri. | Outside the rain falls softly on the windows. |
+| Kevin chiude il quaderno e spegne la luce del banco. | Kevin closes the notebook and turns off the counter light. |
+| _Questa sera ho capito una cosa: due nonne sono **troppo**._ | _Tonight I understood one thing: two grandmas are **too many**._ |
+| Poi guarda Nadia e capisce anche l'altra cosa. | Then he looks at Nadia and understands the other thing too. |
+| _Ma Nadia le vuole bene lo stesso._ | _But Nadia loves them anyway._ |
+
+## 5. Parco dei Tigli · domenica mattina
+
+| Italiano | English |
+|---|---|
+| Il Parco dei Tigli è quasi vuoto la domenica mattina. | Parco dei Tigli is almost empty on Sunday morning. |
+| C'è la nebbia bassa e l'erba è bagnata. | There's low fog and the grass is wet. |
+| Franco è già sul **campo** con le bocce in una borsa di cuoio. | Franco is already on the **court** with the balls in a leather bag. |
+| Kevin arriva correndo con Leo dietro. | Kevin arrives running with Leo behind him. |
+| «Buongiorno, Franco!» dice Kevin, senza fiato. | “Good morning, Franco!” says Kevin, out of breath. |
+| Franco non risponde e guarda le bocce. | Franco doesn't answer and looks at the balls. |
+| «Leo, tu sei il vice allenatore» dice Franco. «Stai qui e guarda.» | “Leo, you're the assistant coach,” says Franco. “Stay here and watch.” |
+| «Sì, mister» dice Leo. | “Yes, coach,” says Leo. |
+| Kevin prende una boccia in mano. | Kevin picks up a ball. |
+| «**Potresti** dirmi come si tiene?» chiede Kevin. | “**Could you** tell me how to hold it?” Kevin asks. |
+| «No» dice Franco. | “No,” says Franco. |
+| «**Dovresti** solo guardarmi» insiste Kevin. | “**You should** just watch me,” Kevin insists. |
+| Kevin **lancia** la boccia verso il **boccino**. | Kevin **throws** the ball toward the **jack**. |
+| La boccia va a sinistra, molto lontana. | The ball goes to the left, very far away. |
+| Franco sospira e mette le mani in tasca. | Franco sighs and puts his hands in his pockets. |
+| «Ecco. Hai visto?» dice Franco. | “There. Did you see?” says Franco. |
+| «Ho visto. Ho sbagliato» dice Kevin. | “I saw. I got it wrong,” says Kevin. |
+| «Non hai sbagliato. Hai guardato male» dice Franco. | “You didn't get it wrong. You looked wrong,” says Franco. |
+| «Che differenza c'è?» chiede Kevin. | “What's the difference?” Kevin asks. |
+| «Tutta» dice Franco. | “Everything,” says Franco. |
+| Leo apre il suo quaderno dei fatti strani. | Leo opens his notebook of strange facts. |
+| «Posso leggere un consiglio?» chiede Leo. | “Can I read a tip?” Leo asks. |
+| «Leggi» dice Franco. | “Read,” says Franco. |
+| «"Il **boccino** è piccolo, ma è il capo"» legge Leo. | “The **jack** is small, but it's the boss,” reads Leo. |
+| Franco lo guarda per un secondo. | Franco looks at him for a second. |
+| «Questo l'ho detto io» dice Franco. | “I said that,” says Franco. |
+| «L'ho scritto io» dice Leo. | “I wrote it down,” says Leo. |
+| Kevin prende la seconda boccia. | Kevin picks up the second ball. |
+| «**Mi piacerebbe** capire la **mira**» dice Kevin. «Solo la **mira**.» | “**I'd like** to understand the **aim**,” says Kevin. “Just the **aim**.” |
+| «La **mira** non è il braccio» dice Franco. | “The **aim** isn't the arm,” says Franco. |
+| «E che cosa è?» chiede Kevin. | “And what is it?” Kevin asks. |
+| «È il piede» dice Franco. | “It's the foot,” says Franco. |
+| Kevin guarda i propri piedi, sorpreso. | Kevin looks at his own feet, surprised. |
+| «Il piede?» chiede Kevin. | “The foot?” Kevin asks. |
+| «Il piede destro. Sempre. Senza muoverlo» dice Franco. | “The right foot. Always. Without moving it,” says Franco. |
+| Kevin mette il piede destro avanti. | Kevin puts his right foot forward. |
+| «Così?» chiede Kevin. | “Like this?” Kevin asks. |
+| «Così» dice Franco. | “Like this,” says Franco. |
+| Kevin **lancia** di nuovo. | Kevin **throws** again. |
+| Questa volta la boccia arriva vicino al **boccino**. | This time the ball lands near the **jack**. |
+| Leo batte le mani. | Leo claps his hands. |
+| «Bravo!» dice Leo. | “Nice!” says Leo. |
+| «Non era male» dice Franco. | “That wasn't bad,” says Franco. |
+| Sulla panchina vicino al campo c'è Ornella. | On the bench near the court there's Ornella. |
+| Ha un cappotto grigio e un **gomitolo** di **lana** azzurra sulle ginocchia. | She has a grey coat and a **ball of yarn** of blue **wool** on her knees. |
+| Ornella **lavora a maglia** piano, senza fretta. | Ornella **knits** slowly, without hurry. |
+| Leo corre verso di lei con il quaderno in mano. | Leo runs toward her with the notebook in his hand. |
+| «Buongiorno, signora Ornella» dice Leo. | “Good morning, Signora Ornella,” says Leo. |
+| «Buongiorno, Leo. Come sta il braccio?» chiede Ornella. | “Good morning, Leo. How's your arm?” she asks. |
+| «Bene. Il gesso è andato via» dice Leo. | “Good. The cast is gone,” says Leo. |
+| «Meglio così» dice Ornella. | “Better that way,” says Ornella. |
+| «Che cosa sta facendo?» chiede Leo. | “What are you doing?” Leo asks. |
+| «**Lavoro a maglia**» dice Ornella. | “I'm **knitting**,” says Ornella. |
+| «Con la **lana** azzurra?» chiede Leo. | “With the blue **wool**?” Leo asks. |
+| «Con la **lana** azzurra» conferma Ornella. | “With the blue **wool**,” Ornella confirms. |
+| «Posso tenere il **gomitolo**?» chiede Leo. | “Can I hold the **ball of yarn**?” Leo asks. |
+| «Prego, tesoro» dice Ornella. | “Please, dear,” says Ornella. |
+| Leo si siede sulla panchina e tiene il **gomitolo** con due mani. | Leo sits on the bench and holds the **ball of yarn** with both hands. |
+| «Signora Ornella, che **misura** è?» chiede Leo. | “Signora Ornella, what **size** is it?” Leo asks. |
+| «Una **misura** piccola» dice Ornella. | “A small **size**,” says Ornella. |
+| «Per un bambino?» chiede Leo. | “For a baby?” Leo asks. |
+| Ornella non risponde subito. | Ornella doesn't answer right away. |
+| «Forse» dice alla fine. | “Maybe,” she says at last. |
+| «Forse come mia madre con le scatole?» chiede Leo. | “Maybe like my mom with the boxes?” Leo asks. |
+| «Che scatole?» chiede Ornella. | “What boxes?” Ornella asks. |
+| «Quelle di Lucia, a casa del nonno Franco» dice Leo. | “Lucia's, at Grandpa Franco's house,” says Leo. |
+| Ornella abbassa gli occhi sul lavoro. | Ornella lowers her eyes to her work. |
+| «Nove» dice Leo. «Le ho contate io.» | “Nine,” says Leo. “I counted them.” |
+| «Nove sono tante» dice Ornella, piano. | “Nine is a lot,” says Ornella, quietly. |
+| «Lo penso anch'io» dice Leo. | “I think so too,” says Leo. |
+| Ornella non dice altro e **lavora a maglia**. | Ornella says nothing else and **knits**. |
+| Intanto Kevin prova ancora. | Meanwhile Kevin tries again. |
+| Tre bocce vicino al **boccino**, una lontana. | Three balls near the **jack**, one far away. |
+| Franco conta i **punti** con le dita. | Franco counts the **points** with his fingers. |
+| «Tre su quattro. Ma con la mano sbagliata» dice Franco. | “Three out of four. But with the wrong hand,” says Franco. |
+| «Con la mano sbagliata?» chiede Kevin. | “With the wrong hand?” Kevin asks. |
+| «Il piede destro e la mano sinistra» dice Franco. «È la regola.» | “The right foot and the left hand,” says Franco. “That's the rule.” |
+| «E perché?» chiede Kevin. | “And why?” Kevin asks. |
+| «Perché sì» dice Franco. | “Because that's how it is,” says Franco. |
+| Kevin ride e prende l'ultima boccia. | Kevin laughs and picks up the last ball. |
+| «**Potresti** solo dirmi se è meglio» dice Kevin. «Un sì o un no.» | “**Could you** just tell me if it's better,” says Kevin. “A yes or a no.” |
+| Franco lo guarda a lungo. | Franco looks at him for a long time. |
+| «Tira» dice Franco. | “Throw it,” says Franco. |
+| Kevin tira. | Kevin throws. |
+| La boccia corre sull'erba bagnata e si ferma accanto al **boccino**. | The ball runs over the wet grass and stops next to the **jack**. |
+| Silenzio per tre secondi. | Silence for three seconds. |
+| «Questo è un **punto**» dice Franco. | “That's a **point**,” says Franco. |
+| Leo arriva correndo dalla panchina. | Leo comes running from the bench. |
+| «Mister, ha detto un **punto**!» dice Leo. | “Coach, he said a **point**!” says Leo. |
+| «Ho detto un **punto**. Non ho detto bravo» dice Franco. | “I said a **point**. I didn't say well done,” says Franco. |
+| «Però l'ha detto» dice Leo. | “But he said it,” says Leo. |
+| Franco raccoglie le bocce e le mette nella borsa. | Franco gathers the balls and puts them in the bag. |
+| «Mercoledì» dice Franco. «Alle cinque. Qui.» | “Wednesday,” says Franco. “At five. Here.” |
+| Kevin non capisce subito. | Kevin doesn't understand right away. |
+| «Mercoledì? Vuoi dire che...» chiede Kevin. | “Wednesday? Do you mean that...” Kevin asks. |
+| «Alle cinque. Sii puntuale» dice Franco. «Il **campo** è piccolo e la nebbia arriva alle sei.» | “At five. Be on time,” says Franco. “The **court** is small and the fog comes at six.” |
+| Kevin resta con la boccia in mano. | Kevin stays there with the ball in his hand. |
+| «Grazie, Franco» dice Kevin. | “Thank you, Franco,” says Kevin. |
+| «Ho detto mercoledì. Non ho detto grazie» dice Franco. | “I said Wednesday. I didn't say thank you,” says Franco. |
+| «Va bene» dice Kevin, e sorride lo stesso. | “All right,” says Kevin, and he smiles anyway. |
+| Ornella chiude il lavoro e mette la **lana** nella borsa. | Ornella closes her work and puts the **wool** in her bag. |
+| «Leo, il **gomitolo**» dice Ornella. | “Leo, the **ball of yarn**,” says Ornella. |
+| «Ecco. Grazie, signora Ornella» dice Leo. | “Here you go. Thank you, Signora Ornella,” says Leo. |
+| «Bravo bambino» dice Ornella. | “Good boy,” says Ornella. |
+| Kevin guarda la **lana** azzurra e poi Ornella. | Kevin looks at the blue **wool** and then at Ornella. |
+| «Ornella, **mi piacerebbe** sapere che cosa stai facendo» dice Kevin. | “Ornella, **I'd like** to know what you're making,” says Kevin. |
+| «Anch'io» dice Ornella. | “So would I,” says Ornella. |
+| «Ah» dice Kevin. | “Ah,” says Kevin. |
+| «Aspetto» dice Ornella. «La **lana** sa quando è pronta.» | “I'm waiting,” says Ornella. “The **wool** knows when it's ready.” |
+| Leo prende la mano di Kevin. | Leo takes Kevin's hand. |
+| «Papà, mercoledì devo venire anch'io» dice Leo. | “Dad, I have to come Wednesday too,” says Leo. |
+| «Sei il vice allenatore» dice Kevin. | “You're the assistant coach,” says Kevin. |
+| «E il vice allenatore conta i **punti**» dice Leo. | “And the assistant coach counts the **points**,” says Leo. |
+| Kevin ride e guarda Franco davanti a loro. | Kevin laughs and looks at Franco ahead of them. |
+| Franco cammina piano nella nebbia con la borsa di cuoio. | Franco walks slowly in the fog with the leather bag. |
+| _Un punto. Tre parole in un anno. Ma è un inizio._ | _One point. Three words in a year. But it's a start._ |
+| _Forse il campo non è una scuola. Ma qualcosa si impara lo stesso._ | _Maybe the court isn't a school. But you learn something anyway._ |
+
+## 6. Casa Carter, Via dei Tigli 14 · domenica sera
+
+| Italiano | English |
+|---|---|
+| Fuori piove forte sui vetri della cucina. | Outside the rain beats hard on the kitchen windows. |
+| Sul tavolo ci sono tre tazze di tè e un piatto di biscotti. | On the table there are three cups of tea and a plate of cookies. |
+| Leo è in pigiama e disegna su un foglio. | Leo is in his pajamas and drawing on a sheet of paper. |
+| Chiara è seduta con la schiena contro la sedia. | Chiara is sitting with her back against the chair. |
+| «Oggi sono passata da papà» dice Chiara. | “Today I stopped by Dad's,” says Chiara. |
+| «E com'è andata?» chiede Kevin. | “And how did it go?” Kevin asks. |
+| «Come sempre. Nove **cartoni**» dice Chiara. | “As always. Nine **boxes**,” says Chiara. |
+| «Nove?» chiede Kevin, ma lo sa già. | “Nine?” Kevin asks, but he already knows. |
+| «Nove. Nel **corridoio**, uno sopra l'altro» dice Chiara. | “Nine. In the **hallway**, one on top of the other,” says Chiara. |
+| Kevin beve il tè e non dice niente. | Kevin drinks his tea and says nothing. |
+| «E lei dice che è una cosa temporanea» dice Chiara. | “And she says it's a temporary thing,” says Chiara. |
+| «Anche tu l'hai detto» dice Kevin. | “You said it too,” says Kevin. |
+| «Sì. L'ho detto io» ammette. | “Yes. I said it,” Chiara admits. |
+| Chiara guarda la finestra e la pioggia. | Chiara looks at the window and the rain. |
+| «Kevin, questa non è una cosa temporanea» dice Chiara. | “Kevin, this isn't a temporary thing,” says Chiara. |
+| «No» dice Kevin. | “No,” says Kevin. |
+| «Questa è una donna che **trasloca** in casa di mio padre» dice Chiara. | “This is a woman who is **moving** into my father's house,” says Chiara. |
+| È la prima volta che Chiara dice la parola. | It's the first time Chiara says the word. |
+| Kevin aspetta due secondi prima di rispondere. | Kevin waits two seconds before answering. |
+| «È vera questa parola?» chiede Kevin. | “Is that word true?” Kevin asks. |
+| «È vera» dice Chiara. | “It's true,” says Chiara. |
+| «E allora perché nessuno la dice?» chiede Kevin. | “And then why does nobody say it?” Kevin asks. |
+| «Perché se la dico, è finita» dice Chiara. | “Because if I say it, it's over,” says Chiara. |
+| «Finita che cosa?» chiede Kevin. | “Over, what?” Kevin asks. |
+| Chiara non risponde subito. | Chiara doesn't answer right away. |
+| «Finita l'idea che lui sta bene da solo» dice piano. | “Over, the idea that he's fine on his own,” says Chiara. |
+| Leo alza la testa dal foglio. | Leo raises his head from the paper. |
+| «Ma il nonno non sta mai da solo» dice Leo. | “But Grandpa is never on his own,” says Leo. |
+| «Appunto» dice Chiara. | “Exactly,” says Chiara. |
+| «Che cos'è appunto?» chiede Leo. | “What does exactly mean?” Leo asks. |
+| «Vuol dire che hai ragione tu» dice Kevin. | “It means you're right,” says Kevin. |
+| «Ah. Allora ho ragione io» dice Leo, e torna a disegnare. | “Ah. So I'm right,” says Leo, and he goes back to drawing. |
+| Chiara sorride per un secondo. | Chiara smiles for a second. |
+| «Il problema non sono i **cartoni**» dice Chiara. | “The problem isn't the **boxes**,” says Chiara. |
+| «Che cos'è?» chiede Kevin. | “What is it?” Kevin asks. |
+| «Il problema è che **mi piacerebbe** vederlo felice» dice Chiara. | “The problem is that **I'd like** to see him happy,” says Chiara. |
+| «E non lo vedi felice?» chiede Kevin. | “And you don't see him happy?” Kevin asks. |
+| «Sì. E questo è il **punto**» dice Chiara. | “Yes. And that's the **point**,” says Chiara. |
+| Kevin mette giù la tazza. | Kevin sets down his cup. |
+| «Oggi ho fatto lezione di bocce» dice Kevin. | “Today I had a bocce lesson,” he says. |
+| «Lezione? Con papà?» chiede Chiara. | “A lesson? With Dad?” Chiara asks. |
+| «Mercoledì alle cinque» dice Kevin. «Ha detto lui.» | “Wednesday at five,” says Kevin. “He said it.” |
+| «Ha detto lui?» chiede Chiara. | “He said it?” Chiara asks. |
+| «Ha detto lui» conferma Kevin. | “He said it,” Kevin confirms. |
+| Chiara lo guarda con la bocca aperta, davanti a un miracolo. | Chiara looks at him with her mouth open, in front of a miracle. |
+| «Kevin, io non ci credo» dice Chiara. | “Kevin, I don't believe it,” says Chiara. |
+| «Neanch'io. Ma è vero» dice Kevin. | “Me neither. But it's true,” says Kevin. |
+| «E come hai fatto?» chiede Chiara. | “And how did you do it?” Chiara asks. |
+| «Ho tirato bene una volta» dice Kevin. «Un **punto**. Un solo **punto**.» | “I threw well once,” says Kevin. “One **point**. Just one **point**.” |
+| Chiara ride piano nel tè. | Chiara laughs quietly into her tea. |
+| «Un **punto** e sei dentro» dice Chiara. | “One **point** and you're in,” says Chiara. |
+| «Sì. E non ho capito niente» dice Kevin. | “Yes. And I understood nothing,” says Kevin. |
+| «Che cosa non hai capito?» chiede Chiara. | “What didn't you understand?” Chiara asks. |
+| Kevin ci pensa un momento. | Kevin thinks for a moment. |
+| «Che non tutto si può **sistemare**» dice Kevin. | “That not everything can be **sorted out**,” says Kevin. |
+| «Cioè?» chiede Chiara. | “Meaning?” Chiara asks. |
+| «Cioè i **cartoni** di Lucia non li sistemo io» dice Kevin. | “Meaning I'm not the one who sorts out Lucia's **boxes**,” says Kevin. |
+| «E chi li sistema?» chiede Chiara. | “And who sorts them out?” Chiara asks. |
+| «Nessuno. Si sistemano da soli» dice Kevin. | “Nobody. They sort themselves out,” says Kevin. |
+| «Questo è un buon **parere**» dice Chiara. | “That's a good **opinion**,” says Chiara. |
+| «Ma i **pareri** sono gratis» dice Kevin. | “But **opinions** are free,” says Kevin. |
+| «Vero» dice Chiara. | “True,” says Chiara. |
+| Chiara guarda la pioggia e poi Kevin. | Chiara looks at the rain and then at Kevin. |
+| «Kevin, l'idea **economica** è dire a papà che va tutto bene» dice. | “Kevin, the **inexpensive** idea is to tell Dad everything's fine,” says Chiara. |
+| «E l'idea **costosa**?» chiede Kevin. | “And the **expensive** idea?” Kevin asks. |
+| «L'idea **costosa** è chiedergli la verità» dice Chiara. | “The **expensive** idea is to ask him the truth,” says Chiara. |
+| Kevin annuisce piano. | Kevin nods slowly. |
+| «E tu quale scegli?» chiede Kevin. | “And which one do you choose?” Kevin asks. |
+| Chiara non risponde. | Chiara doesn't answer. |
+| Guarda Leo che disegna un campo da bocce con tre nuvole sopra. | She looks at Leo drawing a bocce court with three clouds above it. |
+| _Questa è la domanda giusta. E neanche lei ha una risposta._ | _This is the right question. And even she doesn't have an answer._ |
+| _Forse nessuno sistema i cartoni degli altri._ | _Maybe nobody sorts out other people's boxes._ |
+| _Forse si sistemano quando è il momento._ | _Maybe they sort themselves out when the time comes._ |
+
+## 7. Casa di Ornella, Via dei Tigli 16 · domenica sera
+
+| Italiano | English |
+|---|---|
+| Sono le otto e mezza e Leo attraversa la strada con un piatto in mano. | It's eight thirty, and Leo crosses the street with a plate in his hand. |
+| Sul piatto c'è una fetta di torta al limone. | On the plate there's a slice of lemon cake. |
+| Suona il campanello della casa al numero sedici. | He rings the bell of the house at number sixteen. |
+| Ornella apre la porta con un maglione grigio sulle spalle. | Ornella opens the door with a gray sweater over her shoulders. |
+| «Buonasera, signora Ornella» dice Leo. | “Good evening, Signora Ornella,” says Leo. |
+| «Leo! Che sorpresa» dice Ornella. | “Leo! What a surprise,” says Ornella. |
+| «Le ho portato la torta» dice Leo. | “I brought you the cake,” says Leo. |
+| «Sei un signore» dice Ornella. | “You're a gentleman,” says Ornella. |
+| In salotto ci sono il divano verde e una lampada accesa. | In the living room there are the green sofa and a lit lamp. |
+| Sulla poltrona ci sono la **lana** azzurra e il **gomitolo**. | On the armchair there are the blue **wool** and the **ball of yarn**. |
+| Ornella **lavora a maglia** ogni sera, dopo cena. | Ornella **knits** every evening, after dinner. |
+| «Lei **lavora a maglia** ancora?» chiede Leo. | “Are you still **knitting**?” Leo asks. |
+| «Sì, un pochino» dice Ornella. | “Yes, a little,” says Ornella. |
+| «Posso guardare?» chiede Leo. | “Can I watch?” Leo asks. |
+| «Prego» dice Ornella. | “Please do,” says Ornella. |
+| Leo si siede sul tappeto e guarda le mani di Ornella. | Leo sits on the rug and watches Ornella's hands. |
+| Le mani si muovono veloci, avanti e indietro. | The hands move fast, back and forth. |
+| «È **morbido**» dice Leo, e tocca la lana. | “It's **soft**,” says Leo, and he touches the wool. |
+| «È **morbido** come il cotone» dice Ornella. | “It's **soft** like cotton,” says Ornella. |
+| «Ma non è una coperta» dice Leo. | “But it isn't a blanket,” says Leo. |
+| «No, non è una coperta» ammette Ornella. | “No, it isn't a blanket,” Ornella admits. |
+| «Allora che cos'è?» chiede Leo. | “Then what is it?” Leo asks. |
+| Ornella guarda il lavoro per un momento. | Ornella looks at the work for a moment. |
+| «Aspetto di saperlo» dice Ornella. | “I'm waiting to find out,” says Ornella. |
+| «Lei non lo sa?» chiede Leo. | “You don't know?” Leo asks. |
+| «Non ancora» dice Ornella. | “Not yet,” says Ornella. |
+| Leo apre il quaderno dei fatti strani. | Leo opens the notebook of strange facts. |
+| «Posso scrivere questo fatto?» chiede Leo. | “Can I write down this fact?” Leo asks. |
+| «Quale fatto?» chiede Ornella. | “Which fact?” Ornella asks. |
+| «Che nessuno sa che cosa fa» dice Leo. | “That nobody knows what you're making,” says Leo. |
+| «Neanche tu?» chiede. | “Not even you?” he asks. |
+| «Neanche io» dice Ornella. | “Not even me,” says Ornella. |
+| In quel momento arriva Pavarotti dal corridoio. | At that moment Pavarotti comes in from the hallway. |
+| Il gatto grigio salta sulla poltrona. | The gray cat jumps onto the armchair. |
+| Si siede proprio sul **gomitolo**. | He sits right on the **ball of yarn**. |
+| Il **gomitolo** rotola sul pavimento e la **lana** si allunga. | The **ball of yarn** rolls across the floor and the **wool** stretches out. |
+| «Pavarotti!» dice Ornella. | “Pavarotti!” says Ornella. |
+| Leo ride e corre dietro alla **lana**. | Leo laughs and runs after the **wool**. |
+| «Signora Ornella, **mi piacerebbe** imparare» dice Leo. | “Signora Ornella, **I'd like** to learn,” says Leo. |
+| «A **lavorare a maglia**?» chiede Ornella. | “To **knit**?” Ornella asks. |
+| «Sì. Un **punto** solo» dice Leo. | “Yes. Just one **stitch**,” says Leo. |
+| «Sei **adatto**. Hai le mani piccole» dice Ornella. | “You're **suitable**. You have small hands,” says Ornella. |
+| Kevin arriva alla porta aperta. | Kevin arrives at the open door. |
+| «Leo, è tardi» dice Kevin. | “Leo, it's late,” says Kevin. |
+| «Papà, Ornella non sa che cosa fa» dice Leo. | “Dad, Ornella doesn't know what she's making,” says Leo. |
+| «Neanche io lo so» dice Ornella. | “I don't know either,” says Ornella. |
+| Kevin guarda la **lana** e poi il **cartone** vicino alla porta. | Kevin looks at the **wool** and then at the **cardboard box** near the door. |
+| Dentro il **cartone** ci sono altri **gomitoli**. | Inside the **box** there are other **balls of yarn**. |
+| «Ornella, **mi piacerebbe** capire» dice Kevin. | “Ornella, **I'd like** to understand,” says Kevin. |
+| «Aspetta» dice Ornella. «Come aspetto io.» | “Wait,” says Ornella. “Like I'm waiting.” |
+| Leo scrive sul quaderno con la matita. | Leo writes in the notebook with his pencil. |
+| «Fatto strano numero ventotto» dice piano. | “Strange fact number twenty-eight,” he says quietly. |
+| «Che cosa hai scritto?» chiede Ornella. | “What did you write?” Ornella asks. |
+| «Che nessuno sa che cosa fa Ornella» dice Leo. «Neanche Ornella.» | “That nobody knows what Ornella is making,” says Leo. “Not even Ornella.” |
+| Ornella sorride e **lavora a maglia** ancora un **punto**. | Ornella smiles and **knits** one more **stitch**. |

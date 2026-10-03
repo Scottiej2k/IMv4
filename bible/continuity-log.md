@@ -398,6 +398,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco and Doug call each other "amico".
 - **Planted:** Matteo wants to mail the €200 back (refused for now); the two packages go to the post office Monday; Leo hides a drawing in one package; the suitcase must come back next year.
 
+### s03e12 · Vorrei una culla
+- **Happened:** Nadia, Matteo, Samira and Lucia shop for stroller, diapers and car seat; they buy nothing, only take a catalog, after Samira and Lucia clash. Kevin makes one good boccia throw; Franco invites him to practice Wednesday at 5 at Parco dei Tigli, with Leo as vice coach.
+- **New facts:** Samira is Nadia's mother. Franco's hallway holds nine boxes from Lucia, including her sewing machine; Lucia calls them temporary. Ornella is knitting an unnamed blue wool item; Leo wants to learn, and has small hands. Ornella's cat Pavarotti is grey. Nadia's baby has no name yet.
+- **Changed:** Chiara calls Lucia's boxes a "trasloco" to Kevin and admits Franco may not be fine alone, but will not ask him. Franco-Kevin relationship warms slightly.
+- **Planted:** Lucia's move into Franco's house, unresolved; Chiara's confrontation pending. Ornella's blue knitting may be for Nadia's baby. Wednesday bocce lesson; Leo's knitting lesson.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
