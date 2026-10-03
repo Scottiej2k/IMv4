@@ -548,6 +548,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Emma now thinks and explains in Italian without translating; Chiara notices. Franco accepts Kevin's teaching attempt and says he'll attend the real Saturday lesson. Kevin's doubts about having a method turn into a four-point plan (calm, consistency, no shame, let students talk).
 - **Planted:** Franco promising to attend the real foreign-student lesson (next chapter). Kevin's fear it will go worse than the family trial.
 
+### s04e12 · La prima lezione
+- **Happened:** Kevin's first paid cooking class at Bar Tigli (Sat morning) with three students: Ute (German), Kenji (Japanese engineer in Milan), Megan (American student from Cleveland, Ohio, in Italy one month). Franco watched from under the awning, then stayed, ate, and said "non è male"; he left a piegato grembiule and will come Saturday "to check the cottura."
+- **New facts:** Students pay €20 each; Kevin took €60, spent €48, kept €12. Ute teaches/attends cooking classes in Monaco; Kenji brings his own zenzero, curcuma, and wants two lessons; Megan writes instead of speaking and calls Kevin "maestro."
+- **Changed:** Ute and Kenji use tu with Kevin; Kevin's class now known to Chiara (who suggested a logo to Marchetti without telling him first); Franco's approval of Kevin begins.
+- **Planted:** Franco's basil ("quello vero") to arrive; grembiule and teglia left for Saturday's class; Chiara's Marchetti logo proposal unresolved.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
