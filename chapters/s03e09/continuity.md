@@ -1,0 +1,5 @@
+### s03e09 · Seguitemi!
+- **Happened:** Kevin takes the family on a DIY Milan tour (Duomo, Galleria, Castello) with a yellow notebook; they get lost near a canal, and a tourist redirects them. Doug claims to be tired and stays home, then spends Saturday with Franco: the orto, the Parco dei Tigli, bocce, and coffee; they call each other "amico" and hug. Sunday morning at Bar Tigli, Doug orders a caffè americano and Franco says "coffee"; Matteo serves them.
+- **New facts:** Linda and Doug are visiting the Carters in Borgoverde; Kevin keeps a yellow notebook; Doug collects coins from all countries (a box at home); Leo has a "quaderno dei fatti strani"; Chiara names the giraffe statue "il campanile" — no, Leo thinks the Duomo has a campanile.
+- **Changed:** Doug and Franco have become friends (bocce, orto, "amico", hugs); Kevin admits to Chiara he can live here; Franco says he'll be the guide Sunday ("Domani la guida sono io").
+- **Planted:** Franco's Sunday outing as guide (needs payoff); Pavarotti steals tomatoes from Franco's orto; Doug's coin box.
