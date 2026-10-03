@@ -446,6 +446,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco now has a doctor; Chiara, Lucia and Nadia are a standing "alleanza" over his health, and Kevin has invited himself in; Franco still blames Kevin's crooked bocce throws.
 - **Planted:** the vacant bocce vice-allenatore role; Kevin's yellow notebook.
 
+### s03e20 · Fare finta
+- **Happened:** Chiara's boss Marchetti and wife dine at the Carters'; the Ferri family (Lucia, Franco, Matteo, Nadia, baby) arrive with torta and wine; dinner works despite burnt fish and caffettino. Marchetti praises Chiara and plans to return with his children. Emma and Tommaso confess faking (skating, jazz) and agree she'll listen to jazz while he teaches her to skate, secretly.
+- **New facts:** Marchetti lives in Porta Venezia, Milan; his project is in zona Isola; he likes jazz and burnt-lemon fish (his mother's cooking). Franco says he drove tram 4 for 40 years, six hours a day. Nadia's baby is Anna Yasmin (Anna = nonna, Yasmin = bisnonna). Parco dei Tigli has a new roller rink; Tommaso plays bass (rock/funk); Kevin's yellow notebook holds rules 58–66.
+- **Changed:** Chiara sees Marchetti as a person, not an exam. Emma and Tommaso share a mutual secret (“silenzio”) about their fake tastes.
+- **Planted:** Marchetti's return dinner with his kids; Emma's skating lessons and jazz pact with Tommaso; Kevin's rules.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
