@@ -1,0 +1,944 @@
+@vocab
+il metodo | noun | m | method | metodo, metodi
+sbagliando s'impara | expression | | you learn by making mistakes | sbagliando s'impara
+migliorare | verb | | to improve | miglioro, migliora, migliori, migliorando, migliorare
+l'allievo | noun | m | pupil | allievo, allievi, l'allievo
+la correzione | noun | f | correction | correzione, correzioni
+il trucco | noun | m | trick | trucco, trucchi
+la pronuncia | noun | f | pronunciation | pronuncia
+la conversazione | noun | f | conversation | conversazione, conversazioni
+il consiglio | noun | m | piece of advice | consiglio, consigli
+la costanza | noun | f | persistence | costanza
+la curiosità | noun | f | curiosity | curiosità
+la calma | noun | f | calm | calma
+la fretta | noun | f | hurry, rush | fretta
+la paura | noun | f | fear | paura, paure
+il dubbio | noun | m | doubt | dubbio, dubbi
+la vergogna | noun | f | shame | vergogna
+l'orgoglio | noun | m | pride | orgoglio
+la sfida | noun | f | challenge | sfida, sfide
+la prova | noun | f | test, trial | prova, prove
+il maestro | noun | m | teacher (primary) | maestro, maestri
+lo studente | noun | m | student | studente, studenti
+la classe | noun | f | class | classe, classi
+il compagno | noun | m | classmate | compagno, compagni
+la frase | noun | f | sentence | frase, frasi
+la matita | noun | f | pencil | matita, matite
+il foglio | noun | m | sheet of paper | foglio, fogli
+la materia | noun | f | school subject | materia, materie
+il tema | noun | m | essay | tema, temi
+la lettura | noun | f | reading | lettura, letture
+il significato | noun | m | meaning | significato, significati
+la traduzione | noun | f | translation | traduzione, traduzioni
+l'abitudine | noun | f | habit | abitudine, abitudini
+la padella | noun | f | frying pan | padella, padelle
+la pentola | noun | f | pot | pentola, pentole
+il mestolo | noun | m | ladle | mestolo, mestoli
+il basilico | noun | m | basil | basilico
+@end
+
+# SCENE bar-tigli | martedì mattina | ben, matteo, franco
+È martedì mattina al Bar Tigli, e fuori piove piano sulla piazza. || It's Tuesday morning at Bar Tigli, and outside it's raining softly on the piazza.
+Kevin ha aperto il bar alle sei e mezza, come sempre, e alle sette è già dietro il bancone con il quaderno giallo aperto. || Kevin opened the bar at six thirty, as always, and by seven he's already behind the counter with the yellow notebook open.
+
+Matteo arriva alle sette e trova Kevin che scrive, invece di preparare i cornetti. || Matteo arrives at seven and finds Kevin writing, instead of preparing the cornetti.
+«Buongiorno. Che fai?»{matteo|assonnato} chiede Matteo, togliendosi la giacca bagnata. || “Morning. What are you doing?” asks Matteo, taking off his wet jacket.
+
+«Sto preparando il **metodo**.»{ben|serio} risponde Kevin, senza alzare lo sguardo. || “I'm preparing the **method**,” answers Kevin, without looking up.
+
+Matteo si avvicina al bancone e legge il quaderno giallo. || Matteo comes closer to the counter and reads the yellow notebook.
+«"Metodo per il corso di cucina per stranieri". Kevin, che cos'è questa roba?»{matteo} || “'Method for the cooking course for foreigners.' Kevin, what is this stuff?”
+
+Kevin chiude il quaderno e lo guarda, con gli occhi lucidi di entusiasmo. || Kevin closes the notebook and looks at him, his eyes bright with enthusiasm.
+«Il corso comincia sabato. Una lezione di **prova**, poi vediamo.»{ben} || “The course starts Saturday. A **trial** lesson, then we'll see.”
+
+«Sabato? Qui? Nel mio bar?»{matteo|incredulo} || “Saturday? Here? In my bar?”
+
+«Nel tuo bar, sì. La cucina è piccola, ma noi siamo pochi. Quattro o cinque persone al massimo.»{ben} || “In your bar, yes. The kitchen is small, but there are few of us. Four or five people at most.”
+
+Matteo ride e indica il retro del bar con il pollice. || Matteo laughs and points to the back of the bar with his thumb.
+«Kevin, tu hai una **padella** e mezza **pentola**. E basta.»{matteo} || “Kevin, you have one **frying pan** and half a **pot**. And that's it.”
+
+«Ho anche il mestolo, il tagliere e il forno del bar.»{ben} || “I also have the ladle, the cutting board, and the bar's oven.”
+
+«Il forno è per i cornetti, non per chissà cosa.»{matteo|secco} || “The oven is for cornetti, not for who knows what.”
+
+Kevin prende la penna e scrive una frase nel quaderno, con calma. || Kevin takes the pen and writes a sentence in the notebook, calmly.
+
+In quel momento entra Franco, con l'ombrello chiuso e gocciolante. || At that moment Franco comes in, with his umbrella closed and dripping.
+«Buongiorno. Un caffè, come sempre.»{franco|brusco} dice, e si siede al bancone. || “Morning. A coffee, as always,” he says, and sits at the counter.
+
+Kevin prepara il caffè con gesti veloci e precisi. || Kevin makes the coffee with quick, precise gestures.
+«Franco, sabato qui faccio un corso di cucina per stranieri.»{ben} dice Kevin, con un po' di **orgoglio** nella voce. || “Franco, Saturday I'm doing a cooking course here for foreigners,” says Kevin, with a little **pride** in his voice.
+
+Franco alza la testa e lo guarda, stupito. || Franco raises his head and looks at him, surprised.
+«Tu? Insegnare? Ma se stai ancora imparando a fare il caffè.»{franco} || “You? Teaching? But you're still learning to make coffee.”
+
+«Lo so. Per questo voglio fare bene. Con **costanza**, con calma, senza **fretta**.»{ben} || “I know. That's why I want to do it well. With **persistence**, calmly, without **hurry**.”
+
+Franco beve il caffè in due sorsi e mette giù la tazza. || Franco drinks the coffee in two sips and puts down the cup.
+«**Sbagliando s'impara**.»{franco|filosofico} || “**You learn by making mistakes**.”
+
+«Questo lo dico sempre anch'io.»{ben} || “I always say that too.”
+
+«Sì. Ma tu lo dici e poi sbagli lo stesso.»{franco} || “Yes. But you say it and then you make mistakes anyway.”
+
+Dietro la macchina del caffè, Matteo alza una mano come a scuola. || Behind the coffee machine, Matteo raises a hand like at school.
+«Posso dire una cosa? Quando ho imparato a usare questa macchina, ho usato un **trucco**.»{matteo} || “Can I say something? When I learned to use this machine, I used a **trick**.”
+
+«Che trucco?»{ben|curioso} chiede Kevin. || “What trick?” asks Kevin.
+
+«Ho scritto i passaggi su un foglio e l'ho attaccato qui. Uno, due, tre. E ogni volta che sbagliavo, correggevo il foglio.»{matteo} || “I wrote the steps on a sheet of paper and stuck it here. One, two, three. And every time I made a mistake, I corrected the paper.”
+
+Kevin scrive subito: "**Trucco** di Matteo: tre passaggi su un foglio." || Kevin writes immediately: “**Matteo's trick**: three steps on a sheet of paper.”
+«Bene. Questo è un buon **consiglio**.»{ben} || “Good. That's good **advice**.”
+
+«Non è un consiglio, è un'**abitudine**. Lo faccio da due anni.»{matteo|ridendo} || “It's not advice, it's a **habit**. I've been doing it for two years.”
+
+Franco finisce il caffè e guarda Kevin con attenzione, come un arbitro. || Franco finishes his coffee and watches Kevin carefully, like a referee.
+«E i tuoi allievi? Come li scegli?»{franco} || “And your pupils? How do you choose them?”
+
+«Ho messo un avviso in piazza. Tre persone hanno risposto: una signora tedesca, un ingegnere giapponese e uno studente americano.»{ben} || “I put a notice up in the piazza. Three people answered: a German lady, a Japanese engineer, and an American student.”
+
+«E loro parlano italiano?»{franco} || “And do they speak Italian?”
+
+«Quasi niente. Come me, due anni fa.»{ben|sorridendo} || “Almost nothing. Like me, two years ago.”
+
+Franco fa un cenno con la testa, come chi ha capito tutto. || Franco nods, like someone who has understood everything.
+«Ah. Allora tu devi spiegare la cucina italiana a gente che non capisce niente.»{franco} || “Ah. So you have to explain Italian cooking to people who understand nothing.”
+
+«Esatto. Ma li capisco, perché ero io quello che non capiva.»{ben} || “Exactly. But I understand them, because I was the one who didn't understand.”
+
+«**Sbagliando s'impara**.»{franco|severo} ripete Franco, per la seconda volta. || “**You learn by making mistakes**,” Franco repeats, for the second time.
+
+Matteo, che sta asciugando i bicchieri, ride piano. || Matteo, who is drying the glasses, laughs quietly.
+«Papà, l'hai detto cinque minuti fa.»{matteo} || “Dad, you said it five minutes ago.”
+
+«È un proverbio. I proverbi si possono dire due volte.»{franco|seccato} || “It's a proverb. Proverbs can be said twice.”
+
+Kevin, intanto, guarda il quaderno e smette di scrivere. || Kevin, meanwhile, looks at the notebook and stops writing.
+C'è una riga vuota, e sopra la riga vuota ha scritto: "Il mio **metodo**?" || There's an empty line, and above the empty line he has written: “My **method**?”
+«Che vuol dire quel punto interrogativo?»{matteo} chiede, indicando la pagina. || “What does that question mark mean?” asks Matteo, pointing at the page.
+
+Kevin esita un momento, poi dice la verità, piano. || Kevin hesitates a moment, then tells the truth, quietly.
+«Vuol dire che non ho un metodo. Ho solo **dubbi**.»{ben} || “It means I don't have a method. I only have **doubts**.”
+
+Matteo posa lo straccio sul bancone e si avvicina davvero. || Matteo puts the cloth down on the counter and comes closer for real.
+«Tutti hanno dei dubbi, Kevin. Anche io ne avevo, quando ho aperto questo bar.»{matteo} || “Everyone has doubts, Kevin. I had them too, when I opened this bar.”
+
+«Tu però avevi Nadia, un progetto e una macchina del caffè. Io ho solo una **padella** e tanta voglia.»{ben} || “But you had Nadia, a plan, and a coffee machine. I only have a **frying pan** and a lot of wanting.”
+
+«E ti basta per cominciare. La **prova** è sabato, non fra un anno.»{matteo} || “And that's enough to start. The **trial** is Saturday, not in a year.”
+
+Kevin annuisce, ma non è ancora convinto del tutto. || Kevin nods, but he isn't quite convinced yet.
+«E poi c'è la vera **sfida**: non cucinare. Spiegare in italiano a chi non capisce l'italiano.»{ben} || “And then there's the real **challenge**: not the cooking. Explaining in Italian to someone who doesn't understand Italian.”
+
+«**Essendo** straniero anche tu, li capisci meglio di me.»{matteo} || “**Being** a foreigner yourself, you understand them better than I do.”
+
+«Forse. **Parlando** con loro, imparo anch'io. Ma mi serve un metodo vero.»{ben} || “Maybe. **By talking** with them, I learn too. But I need a real method.”
+
+Franco li guarda tutti e due, poi parla con la sua voce lenta. || Franco looks at both of them, then speaks in his slow voice.
+«Sentite, io non capisco niente di corsi e di stranieri. Ma una cosa la so.»{franco} || “Listen, I don't understand anything about courses and foreigners. But one thing I know.”
+
+«Che cosa?»{ben} chiede Kevin. || “What?” asks Kevin.
+
+«Che chi non prova non **migliora**. E chi non sbaglia non ha mai provato niente.»{franco} || “That whoever doesn't try doesn't **improve**. And whoever doesn't make mistakes has never tried anything.”
+
+Matteo annuisce, sorpreso, e smette di asciugare i bicchieri. || Matteo nods, surprised, and stops drying the glasses.
+«Questa è quasi una frase da mettere sul muro, papà.»{matteo} || “That's almost a sentence to put on the wall, dad.”
+
+Matteo ride e torna ai bicchieri, ma la frase gli è piaciuta davvero. || Matteo laughs and goes back to the glasses, but he really liked that sentence.
+
+Kevin riapre il quaderno e comincia una pagina nuova. || Kevin reopens the notebook and starts a new page.
+Sopra scrive: "Un passo alla volta. Senza **fretta**." || On top he writes: “One step at a time. Without **hurry**.”
+«Ecco. Questo è già un **metodo**.»{ben|convinto} dice a voce alta, e si sente meglio. || “There. This is already a **method**,” he says out loud, and feels better.
+
+Franco prende l'ombrello e si alza dallo sgabello. || Franco picks up his umbrella and gets up from the stool.
+Prima di uscire, guarda Kevin un'ultima volta. || Before leaving, he looks at Kevin one last time.
+«Kevin, una cosa: la **padella** bruciata si sente da lontano. La **pentola** pure.»{franco} || “Kevin, one thing: a burnt **frying pan** can be smelled from far away. The **pot** too.”
+
+«Quindi?»{ben} chiede Kevin. || “So?” asks Kevin.
+
+«Quindi se sbagli, io lo sento dal profumo.»{franco|secco} dice Franco, e apre l'ombrello. || “So if you make a mistake, I'll smell it,” says Franco, and opens his umbrella.
+
+La porta si chiude e in sala resta solo il rumore della pioggia. || The door closes and only the sound of the rain is left in the room.
+Matteo guarda Kevin e scuote la testa, divertito. || Matteo looks at Kevin and shakes his head, amused.
+«Non ci credo. Ti ha dato un consiglio e un avvertimento nello stesso minuto.»{matteo} || “I don't believe it. He gave you advice and a warning in the same minute.”
+
+«Lo so. Ed è la cosa più gentile che mi ha detto questa settimana.»{ben} || “I know. And it's the kindest thing he's said to me this week.”
+
+Kevin guarda la lista degli ingredienti e sorride. || Kevin looks at the ingredient list and smiles.
+_Franco verrà a sentire il profumo. Allora il corso è già cominciato._{ben} || *Franco will come to smell it. So the course has already started.*
+
+«Matteo, sabato porto io la pasta, il pomodoro e il basilico. Tu porta solo la **padella**.»{ben|deciso} || “Matteo, Saturday I'll bring the pasta, the tomato, and the basil. You just bring the **frying pan**.”
+
+«La padella la porto io, ma il mestolo lo tengo d'occhio. Se sparisce, lo paghi tu.»{matteo} || “I'll bring the frying pan, but I'm keeping an eye on the ladle. If it disappears, you pay for it.”
+
+# SCENE casa-carter | mercoledì pomeriggio | ben, emma, leo
+È mercoledì pomeriggio e in casa Carter c'è silenzio. || It's Wednesday afternoon and there's silence in the Carter house.
+Emma è seduta al tavolo della cucina con il libro di italiano di Leo aperto davanti a sé. || Emma is sitting at the kitchen table with Leo's Italian book open in front of her.
+Leo è accanto a lei, con una **matita** in mano e la faccia di chi vorrebbe essere altrove. || Leo is next to her, with a **pencil** in his hand and the face of someone who'd rather be elsewhere.
+
+«Allora, Leo. Domani hai la verifica di italiano.»{emma} dice Emma, sottolineando una pagina. || “So, Leo. Tomorrow you have the Italian test,” says Emma, underlining a page.
+Leo guarda il libro come si guarda un temporale. || Leo looks at the book the way you look at a storm.
+«Lo so. E io non capisco niente. È la **materia** più difficile del mondo.»{leo} || “I know. And I don't understand anything. It's the hardest **subject** in the world.”
+«Non è difficile. È solo lunga.»{emma} || “It's not hard. It's just long.”
+
+Kevin è in fondo alla cucina, dietro il bancone, e finge di sistemare le tazze. || Kevin is at the back of the kitchen, behind the counter, pretending to arrange the cups.
+In realtà ha il quaderno giallo aperto sul ginocchio. || In reality he has the yellow notebook open on his knee.
+
+«Cominciamo dalle **frasi**. Qui c'è una **frase** semplice: “Io vado a scuola”. Leggi.»{emma} || “Let's start with **sentences**. Here's a simple **sentence**: 'Io vado a scuola.' Read it.”
+Leo legge lentamente, con l'accento americano che gli resta su ogni parola. || Leo reads slowly, with the American accent that stays on every word.
+«Io... vado... a... scuola.»{leo} || “Io... vado... a... scuola.”
+«Bene. Ma devi mettere la **pronuncia** giusta. Prova di nuovo, ma più piano.»{emma} || “Good. But you have to put the right **pronunciation**. Try again, but more slowly.”
+
+«Io vado a scuola.»{leo} ripete Leo, senza guardare il libro. || “Io vado a scuola,” Leo repeats, without looking at the book.
+Emma annuisce e prende la **matita**. || Emma nods and picks up the **pencil**.
+«Vedi? **Migliori** già. La prima volta ci hai messo dieci secondi, adesso tre.»{emma} || “See? You're already **improving**. The first time it took you ten seconds, now three.”
+
+Leo però non è convinto. || Leo, however, isn't convinced.
+«Emma, perché in italiano le parole cambiano sempre? Io dico “io vado”, ma poi è “noi andiamo”, “loro vanno”...»{leo|disperato} || “Emma, why do Italian words always change? I say 'io vado,' but then it's 'noi andiamo,' 'loro vanno'...”
+«Perché l'italiano è una **materia** viva. Le parole si muovono.»{emma} || “Because Italian is a living **subject**. The words move.”
+«Le parole non devono muoversi. Devono stare ferme.»{leo} || “Words must not move. They must stay still.”
+
+Kevin, dietro il bancone, scrive una parola nel quaderno: “**correzione**”. || Kevin, behind the counter, writes a word in the notebook: “**correction**.”
+Poi ne scrive un'altra: “**calma**”. || Then he writes another: “**calm**.”
+
+«Allora, facciamo un **trucco**. Quando una **frase** è troppo lunga, la tagli in due.»{emma} || “So, let's do a **trick**. When a **sentence** is too long, you cut it in two.”
+«Un **trucco**? Tipo i trucchi dei maghi?»{leo|curioso} || “A **trick**? Like magicians' tricks?”
+«Tipo i **trucchi** dei maghi. Solo che questo funziona.»{emma} || “Like magicians' **tricks**. Only this one works.”
+
+Leo ride per la prima volta da quando si è seduto. || Leo laughs for the first time since he sat down.
+Emma prende un **foglio** e ci scrive sopra tre parole: soggetto, verbo, resto. || Emma takes a **sheet of paper** and writes three words on it: subject, verb, rest.
+«Guarda. “Marco mangia la mela”. Chi? Marco. Che cosa fa? Mangia. Che cosa? La mela.»{emma} || “Look. 'Marco mangia la mela.' Who? Marco. What does he do? Eats. What? The apple.”
+«È facile così.»{leo} || “It's easy like that.”
+«Certo che è facile. Devi solo andare con **calma** e senza **fretta**.»{emma} || “Of course it's easy. You just have to go with **calm** and without **hurry**.”
+
+Kevin scrive: “**trucco** di Emma: soggetto, verbo, resto”. || Kevin writes: “**Emma's trick**: subject, verb, rest.”
+Poi alza gli occhi e guarda i due ragazzi al tavolo. || Then he raises his eyes and looks at the two kids at the table.
+
+«Emma, tu spieghi meglio di me.»{ben|sorpreso} dice Kevin dal fondo della cucina. || “Emma, you explain better than I do,” says Kevin from the back of the kitchen.
+Emma si gira, imbarazzata di essere stata ascoltata. || Emma turns around, embarrassed to have been overheard.
+«Che vuoi dire?»{emma} || “What do you mean?”
+«Spieghi con le parole giuste. Io, quando spiego, mi perdo.»{ben} || “You explain with the right words. When I explain, I get lost.”
+«Tu spieghi in inglese, papà. Io spiego in italiano.»{emma} || “You explain in English, dad. I explain in Italian.”
+
+Kevin scrive ancora, ma questa volta non è una parola del corso. || Kevin writes again, but this time it isn't a word for the course.
+È solo un pensiero, che tiene per sé. || It's just a thought, which he keeps to himself.
+_Emma non traduce più. Pensa in italiano._{ben} || *Emma doesn't translate anymore. She thinks in Italian.*
+
+«Continuiamo. Ora un esercizio di **lettura**.»{emma} dice Emma, girando pagina. || “Let's continue. Now a **reading** exercise,” says Emma, turning the page.
+Leo legge un brano breve su una gita al lago, con le parole attaccate l'una all'altra. || Leo reads a short passage about a trip to the lake, with the words stuck to each other.
+«“I bambini vanno al lago e portano il pane”.»{leo} || “'I bambini vanno al lago e portano il pane.'”
+«Bravo. Adesso dimmi: qual è il **significato** di questa **frase**?»{emma} || “Good. Now tell me: what's the **meaning** of this **sentence**?”
+
+Leo ci pensa su, con la **matita** che gira tra le dita. || Leo thinks about it, with the **pencil** twirling between his fingers.
+«Che i bambini hanno fame?»{leo|speranzoso} || “That the kids are hungry?”
+Emma ride, ma non lo prende in giro. || Emma laughs, but she doesn't make fun of him.
+«Quasi. Il **significato** è che vanno al lago e portano da mangiare.»{emma} || “Almost. The **meaning** is that they go to the lake and bring food.”
+«Allora perché non lo scrivono direttamente?»{leo} || “Then why don't they write it directly?”
+
+«Perché gli italiani scrivono così. Con le immagini.»{emma} || “Because Italians write like that. With images.”
+«Gli italiani sono strani.»{leo} || “Italians are strange.”
+«Noi siamo italiani, Leo. O quasi.»{emma|pensierosa} || “We're Italian, Leo. Or almost.”
+
+Quella **frase** resta un momento sospesa nell'aria della cucina. || That **sentence** hangs in the kitchen air for a moment.
+Kevin la sente e non scrive niente. || Kevin hears it and writes nothing.
+
+«Allora, un altro esercizio. Questa volta di **traduzione**.»{emma} || “So, another exercise. This time a **translation**.”
+«**Traduzione**? Non mi piace la **traduzione**.»{leo|preoccupato} || “**Translation**? I don't like **translation**.”
+«Perché no?»{emma} || “Why not?”
+«Perché mi confonde. Io penso in inglese, poi cambio tutto, e poi sbaglio.»{leo} || “Because it confuses me. I think in English, then I change everything, and then I make mistakes.”
+
+Emma gli mette una mano sulla spalla, come fanno i bravi **maestri**. || Emma puts a hand on his shoulder, the way good **teachers** do.
+«**Sbagliando s'impara**.»{emma} dice piano. || “**You learn by making mistakes**,” she says quietly.
+«Questo lo dice sempre il nonno Franco.»{leo} || “Grandpa Franco always says that.”
+«Perché è vero. E vale anche per me.»{emma} || “Because it's true. And it goes for me too.”
+
+Kevin, dietro il bancone, si ferma con la tazza in mano. || Kevin, behind the counter, stops with a cup in his hand.
+Sente la **frase** e capisce che Emma non la sta dicendo solo a Leo. || He hears the **sentence** and understands that Emma isn't saying it only to Leo.
+
+«Anche per me. L'anno scorso ho preso cinque in un **tema**. E poi sette.»{emma} aggiunge, quasi tra sé. || “For me too. Last year I got a five on an **essay**. And then a seven,” she adds, almost to herself.
+«Cinque? Tu?»{leo|incredulo} || “A five? You?”
+«Sì. Ho imparato anch'io, sbagliando.»{emma} || “Yes. I learned too, by making mistakes.”
+
+«Ragazzi, posso dire una cosa?»{ben} chiede Kevin, uscendo dal fondo della cucina. || “Guys, can I say something?” asks Kevin, coming out from the back of the kitchen.
+«Che cosa?»{emma} || “What?”
+«Io sto preparando un corso di cucina. E tu, Emma, stai facendo la stessa cosa con Leo.»{ben} || “I'm preparing a cooking course. And you, Emma, are doing the same thing with Leo.”
+«Non capisco.»{emma} || “I don't understand.”
+«Tu insegni. Io insegno. Tutti e due impariamo nello stesso modo.»{ben} || “You teach. I teach. We both learn the same way.”
+
+Emma incrocia le braccia e lo guarda, con un po' di **curiosità** adesso, non solo di fastidio. || Emma crosses her arms and looks at him, with a bit of **curiosity** now, not just annoyance.
+«E come sarebbe questo modo?»{emma} || “And what way would that be?”
+«Con la **correzione**, la **calma** e un po' di pazienza. E senza **vergogna** di sbagliare.»{ben} || “With **correction**, **calm**, and a bit of patience. And without **shame** in making mistakes.”
+«La **paura** di sbagliare è la cosa peggiore.»{emma|seria} || “The **fear** of making mistakes is the worst thing.”
+«Esatto. La **paura** blocca tutto. La **vergogna** ti fa stare zitto.»{ben} || “Exactly. **Fear** blocks everything. **Shame** makes you keep quiet.”
+
+Leo ascolta, poi alza la **matita** come a scuola. || Leo listens, then raises his **pencil** like at school.
+«Quindi se io sbaglio la **pronuncia**, va bene lo stesso?»{leo} || “So if I get the **pronunciation** wrong, it's still okay?”
+«Non va bene, ma non è la fine del mondo. Rifai la **frase** e **migliori**.»{emma} || “It's not okay, but it's not the end of the world. You redo the **sentence** and you **improve**.”
+«E la maestra Paola mi dà un voto basso.»{leo} || “And Maestra Paola gives me a low grade.”
+«E poi la rifai e prendi un voto più alto. Si chiama **migliorare**.»{emma} || “And then you redo it and get a higher grade. It's called **improving**.”
+
+Kevin scrive sul quaderno: “**Conversazione** con la **classe** di casa mia”. || Kevin writes in the notebook: “**Conversation** with the **class** of my own house.”
+Poi aggiunge: “**compagno** di banco: un americano di quarantun anni”. || Then he adds: “**classmate**: an American of forty-one.”
+
+«Adesso un'ultima cosa e poi basta. La **lettura** ad alta voce.»{emma} || “Now one last thing and then we're done. **Reading** out loud.”
+«Ancora?»{leo|lamentoso} || “Again?”
+«Sì. Perché **leggendo** ad alta voce impari la **pronuncia** che ti serve di più.»{emma} || “Yes. Because **by reading** out loud you learn the **pronunciation** you need most.”
+
+Leo legge ancora, e questa volta solo due parole sono sbagliate. || Leo reads again, and this time only two words are wrong.
+Emma non corregge subito: lo lascia arrivare in fondo, e poi ripete la **frase** con la **pronuncia** giusta. || Emma doesn't correct him right away: she lets him get to the end, and then repeats the **sentence** with the right **pronunciation**.
+«Sei uno **studente** bravo, Leo. Visto? Ogni giorno va meglio.»{emma} || “You're a good **student**, Leo. See? Every day it goes better.”
+
+Kevin chiude il quaderno e sorride. || Kevin closes the notebook and smiles.
+_Anche io leggo ancora due parole sbagliate. Ma nessuno mi lascia arrivare in fondo._{ben} || *I still read two words wrong too. But nobody lets me get to the end.*
+
+«Papà, che fai lì dietro?»{emma|sospettosa} chiede Emma, girandosi di scatto. || “Dad, what are you doing back there?” asks Emma, spinning around.
+«Prendo note per il corso di sabato.»{ben} || “I'm taking notes for Saturday's course.”
+«Prendi note su noi?»{emma|indignata} || “You're taking notes on us?”
+«Solo su me stesso. Promesso.»{ben} || “Only on myself. Promise.”
+Emma non ci crede, ma non lo dice. || Emma doesn't believe him, but she doesn't say so.
+«Allora vieni qui e fai l'esercizio anche tu. Se sbagli, Leo ti corregge.»{emma} || “Then come here and do the exercise too. If you make a mistake, Leo corrects you.”
+
+Kevin posa la **matita** e si siede con loro, senza **fretta**. || Kevin puts down the **pencil** and sits with them, without **hurry**.
+
+# SCENE casa-franco | mercoledì sera | ben, franco, lucia
+Mercoledì sera, e in casa Ferri c'è odore di biscotti. || Wednesday evening, and in the Ferri house there's the smell of cookies.
+Lucia tira fuori dal forno una teglia calda e la posa sul tavolo, sopra due strofinacci. || Lucia pulls a hot tray out of the oven and sets it on the table, over two dish towels.
+Franco è seduto in cucina con il giornale, e Kevin è arrivato dieci minuti fa con il quaderno giallo. || Franco is sitting in the kitchen with the newspaper, and Kevin arrived ten minutes ago with the yellow notebook.
+
+«Kevin, assaggia. Ma aspetta un momento, scottano.»{lucia|materna} dice Lucia, soffiando sui biscotti. || “Kevin, taste one. But wait a moment, they're hot,” says Lucia, blowing on the cookies.
+Kevin aspetta, come gli è stato detto, e intanto guarda Lucia armeggiare con la teglia, il **mestolo** e un panno. || Kevin waits, as he was told, and meanwhile watches Lucia handle the tray, the **ladle**, and a cloth.
+«Lucia, posso chiederti una cosa seria?»{ben} || “Lucia, can I ask you something serious?”
+
+«Certo. Ma se è sui biscotti, la risposta è: burro, non margarina.»{lucia|ridendo} || “Of course. But if it's about the cookies, the answer is: butter, not margarine.”
+«Non è sui biscotti. È sul **metodo**.»{ben} || “It's not about the cookies. It's about the **method**.”
+«Ah. Allora è più difficile.»{lucia} dice Lucia, e si siede di fronte a lui. || “Ah. Then it's more difficult,” says Lucia, and sits down across from him.
+
+Franco abbassa il giornale di due centimetri, solo per ascoltare. || Franco lowers the newspaper by two centimeters, just to listen.
+«Ho trentacinque anni di scuola, Kevin. Ho visto **studenti** di ogni tipo. Cosa vuoi sapere?»{lucia} || “I have thirty-five years of school, Kevin. I've seen every kind of **student**. What do you want to know?”
+«Voglio sapere come si insegna davvero. Non la teoria. La **sfida** vera.»{ben} || “I want to know how you really teach. Not the theory. The real **challenge**.”
+
+Lucia prende un biscotto, lo spezza in due e ne offre metà a Kevin. || Lucia takes a cookie, breaks it in two, and offers half to Kevin.
+«La prima cosa è la **calma**. Nessun **allievo** impara se tu hai **fretta**.»{lucia} || “The first thing is **calm**. No **pupil** learns if you're in a **hurry**.”
+«La **fretta** è il mio problema numero uno.»{ben} || “**Hurry** is my problem number one.”
+«Lo so. Si sente dal modo in cui parli.»{lucia} || “I know. You can hear it in the way you talk.”
+
+Kevin scrive su un **foglio**: "Uno: calma." || Kevin writes on a **sheet of paper**: “One: calm.”
+«La seconda cosa è la **costanza**. Non una lezione lunga, ma tante lezioni corte.»{lucia} || “The second thing is **persistence**. Not one long lesson, but many short ones.”
+«Come con la **lettura**. Ogni giorno un po'.»{ben} || “Like with **reading**. A little every day.”
+«Esatto. E poi c'è la terza cosa, che è la più importante.»{lucia} || “Exactly. And then there's the third thing, which is the most important.”
+
+Franco posa il giornale sul tavolo, perché la terza cosa non se la vuole perdere. || Franco puts the newspaper on the table, because he doesn't want to miss the third thing.
+«E qual è?»{ben} || “And what is it?”
+«La **vergogna** non deve entrare in classe.»{lucia} || “**Shame** must not enter the classroom.”
+«In che senso?»{ben} || “In what sense?”
+«Nel senso che se un **allievo** ha **paura** di sbagliare, non alza la mano. E se non alza la mano, non impara.»{lucia} || “In the sense that if a **pupil** is **afraid** of making mistakes, he doesn't raise his hand. And if he doesn't raise his hand, he doesn't learn.”
+
+Kevin scrive su un secondo **foglio**: "Tre: nessuna vergogna." || Kevin writes on a second **sheet of paper**: “Three: no shame.”
+«Ma io non posso spiegare le cose come te. Tu hai trentacinque anni di esperienza.»{ben} || “But I can't explain things like you. You have thirty-five years of experience.”
+«E tu hai un'altra cosa che io non ho.»{lucia} || “And you have another thing that I don't have.”
+«Che cosa?»{ben} || “What?”
+«Sei stato **allievo** fino a due anni fa. Ti ricordi come ci si sente.»{lucia} || “You were a **pupil** until two years ago. You remember how it feels.”
+
+Da dietro il tavolo, Franco borbotta qualcosa senza alzare la testa. || From behind the table, Franco mutters something without raising his head.
+«**Sbagliando s'impara**.»{franco|brusco} || “**You learn by making mistakes**.”
+«Franco, l'hai già detto stamattina.»{ben|paziente} || “Franco, you already said it this morning.”
+«E lo ripeto. I proverbi non scadono.»{franco} || “And I'll say it again. Proverbs don't expire.”
+
+Lucia sorride e prende il quaderno giallo di Kevin dalle sue mani. || Lucia smiles and takes Kevin's yellow notebook from his hands.
+«Posso vedere?»{lucia} || “May I see?”
+«Certo. È tutto scritto lì dentro. Anche le cose stupide.»{ben} || “Of course. Everything's written in there. Even the stupid things.”
+Lucia sfoglia alcune pagine, leggendo le **frasi** che Kevin ha scritto. || Lucia leafs through a few pages, reading the **sentences** Kevin has written.
+«Qui hai scritto: "Il **basilico** va aggiunto alla fine". È vero.»{lucia} || “Here you wrote: 'The **basil** goes in at the end.' That's true.”
+«L'ho imparato da Franco. L'anno scorso.»{ben} || “I learned it from Franco. Last year.”
+
+Franco si alza e si avvicina al fornello, per controllare una **pentola** sul fuoco. || Franco gets up and goes to the stove, to check a **pot** on the fire.
+«Sì, ma tu hai sbagliato il sale, l'anno scorso. Due volte.»{franco|severo} || “Yes, but you got the salt wrong last year. Twice.”
+«Franco, quella è una cosa vecchia.»{lucia|gentile} || “Franco, that's an old story.”
+«Ma è successa. E se lo faccio entrare in cucina sabato con gli stranieri, sbaglia il sale davanti a tutti.»{franco} || “But it happened. And if I let him into the kitchen Saturday with the foreigners, he'll get the salt wrong in front of everyone.”
+
+Lucia mette giù il quaderno e guarda Franco con **calma**, non con rabbia. || Lucia sets the notebook down and looks at Franco with **calm**, not anger.
+«Franco, il **basilico** di sabato lo deve mettere Kevin. Con la sua mano.»{lucia} || “Franco, Saturday's **basil** has to be put in by Kevin. With his own hand.”
+«E perché?»{franco} || “And why?”
+«Perché è lui che sta imparando. Tu hai già imparato cinquant'anni fa.»{lucia} || “Because he's the one who's learning. You learned fifty years ago.”
+
+Franco non risponde, ma torna al tavolo e si siede di nuovo. || Franco doesn't answer, but he goes back to the table and sits down again.
+Kevin, intanto, scrive velocemente su un terzo **foglio**. || Kevin, meanwhile, writes quickly on a third **sheet of paper**.
+«Che scrivi adesso?»{lucia} chiede, curiosa. || “What are you writing now?” she asks, curious.
+«Un **consiglio** di Franco: non sbagliare il sale davanti agli ospiti.»{ben|sorridendo} || “Advice from Franco: don't get the salt wrong in front of the guests.”
+
+Lucia prende il foglio e lo legge, e ride. || Lucia takes the paper and reads it, and laughs.
+«Kevin, questo non è un **consiglio**. È una **regola** di casa Ferri.»{lucia} || “Kevin, this isn't **advice**. It's a **rule** of the Ferri house.”
+«Allora lo metto nel corso.»{ben} || “Then I'll put it in the course.”
+«No. Nel corso ci metti i tuoi **consigli**, non i miei.»{franco|seccato} || “No. In the course you put your **advice**, not mine.”
+
+Il forno fa un piccolo rumore metallico e Lucia si alza a controllare. || The oven makes a small metallic noise and Lucia gets up to check.
+Kevin guarda i tre **fogli** sul tavolo e li mette in ordine. || Kevin looks at the three **sheets of paper** on the table and puts them in order.
+«Lucia, un'ultima cosa. Come faccio a sapere se una lezione è andata bene?»{ben} || “Lucia, one last thing. How do I know if a lesson went well?”
+Lucia chiude il forno e si gira verso di lui. || Lucia closes the oven and turns toward him.
+«**Parlando** con loro alla fine. Se ti fanno domande, è andata bene. Se non ti chiedono niente, è andata male.»{lucia} || “**By talking** with them at the end. If they ask you questions, it went well. If they ask you nothing, it went badly.”
+
+Kevin scrive sulla quarta pagina: "Domande = successo." || Kevin writes on the fourth page: “Questions = success.”
+«Ma io faccio fatica a parlare con loro. Ho una **conversazione** sempre uguale.»{ben} || “But I struggle to talk with them. I always have the same **conversation**.”
+«Allora prepara delle domande prima. La **curiosità** si può anche allenare.»{lucia} || “Then prepare some questions in advance. **Curiosity** can be trained too.”
+«Come la **lettura**?»{ben} || “Like **reading**?”
+«Come tutto, Kevin. Con l'**abitudine**.»{lucia} || “Like everything, Kevin. With **habit**.”
+
+Franco, che finge di leggere il giornale, parla senza alzare gli occhi. || Franco, who's pretending to read the newspaper, speaks without raising his eyes.
+«E con la **padella** pronta sul fuoco, invece di parlare tanto.»{franco} || “And with the **frying pan** ready on the fire, instead of talking so much.”
+«Franco!»{lucia|severa} || “Franco!”
+
+«Che ho detto? È vero. Se il corso è di cucina, la **padella** è la prima cosa.»{franco|innocente} || “What did I say? It's true. If the course is about cooking, the **frying pan** is the first thing.”
+«Non è quello che hai detto. È il tono.»{lucia} || “It's not what you said. It's the tone.”
+Kevin alza le mani, come per fermare la discussione prima che cominci. || Kevin raises his hands, as if to stop the argument before it starts.
+«Va bene, va bene. La **padella** la porto io. La **pentola** la porta Matteo.»{ben} || “All right, all right. I'll bring the **frying pan**. Matteo is bringing the **pot**.”
+
+Lucia prende uno dei tre **fogli** e lo legge tutto. || Lucia takes one of the three **sheets of paper** and reads it all.
+Poi lo rimette sul tavolo, davanti a Kevin, e lo tiene fermo con un dito. || Then she puts it back on the table, in front of Kevin, and holds it still with one finger.
+«Kevin, hai scritto dieci cose in un'ora. Va bene. Ma il **metodo** non è una lista. È tre cose: calma, costanza, e nessuna vergogna.»{lucia} || “Kevin, you've written ten things in an hour. Fine. But the **method** isn't a list. It's three things: calm, persistence, and no shame.”
+
+«Tre cose. Le ricordo.»{ben|deciso} || “Three things. I'll remember them.”
+«E non dimenticare la quarta.»{lucia} || “And don't forget the fourth.”
+«C'è anche una quarta?»{ben} || “Is there a fourth too?”
+«Sì. Divertiti. Se tu ti diverti, loro si divertono.»{lucia} || “Yes. Have fun. If you have fun, they have fun.”
+
+Kevin raccoglie i **fogli**, li piega in tre e li infila nel quaderno giallo. || Kevin gathers the **sheets of paper**, folds them in three, and tucks them into the yellow notebook.
+«Grazie, Lucia. Sabato ti racconto com'è andata.»{ben} || “Thank you, Lucia. Saturday I'll tell you how it went.”
+«Verrò a sentire, se Franco mi lascia entrare in cucina.»{lucia|sorridendo} || “I'll come to listen, if Franco lets me into the kitchen.”
+
+Franco si alza e prende il caffè dalla moka, che è ormai fredda da mezz'ora. || Franco gets up and takes the coffee from the moka pot, which has been cold for half an hour now.
+«Franco, lascialo provare.»{lucia|gentile} dice Lucia, indicando Kevin. || “Franco, let him try,” says Lucia, pointing at Kevin.
+«Perché?»{franco} || “Why?”
+«Perché **sbagliando s'impara**. E tu, con i tuoi proverbi, lo sai meglio di me.»{lucia} || “Because **you learn by making mistakes**. And you, with your proverbs, know it better than I do.”
+
+Franco mette la moka sul fuoco, senza rispondere. || Franco puts the moka pot on the fire, without answering.
+Ma non protesta. || But he doesn't protest.
+Kevin lo guarda e capisce che quello, per Franco, è già un modo di dire sì. || Kevin looks at him and understands that that, for Franco, is already a way of saying yes.
+_Lucia ha ragione. Devo solo cominciare._{ben} || *Lucia is right. I just have to begin.*
+
+# SCENE centro-civico | martedì sera | ben, alberto
+Martedì sera, al Centro civico, la porta della stanza nove è socchiusa. || Tuesday evening, at the Centro civico, the door of room nine is ajar.
+Kevin arriva con dieci minuti di ritardo, con il quaderno giallo sotto il braccio e una scatola di biscotti in mano. || Kevin arrives ten minutes late, with the yellow notebook under his arm and a box of cookies in his hand.
+Dentro, Alberto sta spiegando qualcosa alla sua **classe** di adulti. || Inside, Alberto is explaining something to his adult **class**.
+
+Alberto si gira verso la porta e lo vede. || Alberto turns toward the door and sees him.
+«Kevin! Sei in ritardo di dieci minuti e hai portato dei biscotti. Sei promosso.»{alberto|divertito} || “Kevin! You're ten minutes late and you brought cookies. You pass.”
+«Scusa. Li ha fatti Lucia, la fidanzata di Franco.»{ben} || “Sorry. Lucia, Franco's fiancée, made them.”
+«Allora ti perdono due volte.»{alberto} || “Then I forgive you twice.”
+
+Gli altri **studenti** ridono e lo salutano con la mano. || The other **students** laugh and wave at him.
+Kevin mette la scatola sul tavolo e si siede in fondo, accanto a una signora con gli occhiali. || Kevin puts the box on the table and sits at the back, next to a woman with glasses.
+
+Dopo la lezione, quando la **classe** si svuota, Kevin si avvicina alla cattedra. || After the lesson, when the **class** empties out, Kevin goes up to the teacher's desk.
+«Alberto, sono venuto apposta. Ho bisogno di un **consiglio** vero.»{ben} || “Alberto, I came on purpose. I need real **advice**.”
+«Vero? Allora è grave. Dimmi.»{alberto} dice Alberto, e si siede su uno sgabello. || “Real? Then it's serious. Tell me,” says Alberto, and sits on a stool.
+
+Kevin prende una sedia e si mette di fronte a lui, con il quaderno sulle ginocchia. || Kevin takes a chair and sits facing him, with the notebook on his knees.
+«Sabato faccio una lezione di cucina italiana per stranieri. Una **prova**. Ma non so se ho un **metodo**.»{ben} || “Saturday I'm giving an Italian cooking lesson for foreigners. A **trial**. But I don't know if I have a **method**.”
+«E che problema c'è?»{alberto} || “And what's the problem?”
+«Che non ho mai insegnato niente in vita mia. Ho il **dubbio** di non essere abbastanza bravo.»{ben} || “That I've never taught anything in my life. I have the **doubt** of not being good enough.”
+
+Alberto prende un biscotto e lo spezza in due, con calma. || Alberto takes a cookie and breaks it in two, calmly.
+«Kevin, il **dubbio** è normale. Anche io, la prima volta che ho insegnato, ho sbagliato tutto.»{alberto} || “Kevin, **doubt** is normal. Even I, the first time I taught, got everything wrong.”
+«Tu?»{ben|incredulo} || “You?”
+«Io. Ho spiegato il **significato** di dieci parole e poi non ne ho ricordata nemmeno una.»{alberto} || “Me. I explained the **meaning** of ten words and then didn't remember a single one.”
+«E come hai risolto?»{ben} || “And how did you solve it?”
+«Ho **migliorato** lentamente. Alla fine ho capito il **trucco** dell'insegnamento.»{alberto} || “I **improved** slowly. In the end I understood the **trick** of teaching.”
+
+«Quale trucco?»{ben} chiede Kevin, e apre il quaderno. || “What trick?” asks Kevin, and opens the notebook.
+«Uno: non parlare tu per tutto il tempo.»{alberto} || “One: don't talk the whole time yourself.”
+Kevin alza la **matita** e lo ferma. || Kevin raises the **pencil** and stops him.
+«Aspetta, questo lo scrivo.»{ben} || “Wait, I'm writing this down.”
+
+Alberto aspetta, e intanto guarda il quaderno giallo di Kevin, pieno di **frasi** e di appunti. || Alberto waits, and meanwhile looks at Kevin's yellow notebook, full of **sentences** and notes.
+«Due. Dai sempre un **trucco**, non solo una regola.»{alberto} dice dopo un momento. || “Two. Always give a **trick**, not just a rule,” he says after a moment.
+«Un trucco? Tipo quello di Emma?»{ben} || “A trick? Like Emma's?”
+«Chi è Emma?»{alberto} || “Who's Emma?”
+«Mia figlia. Insegna italiano a mio figlio di otto anni.»{ben} || “My daughter. She teaches Italian to my eight-year-old son.”
+«Ah. Allora hai già un **maestro** in casa.»{alberto|ridendo} || “Ah. Then you already have a **teacher** at home.”
+
+Kevin non sorride: prende un **foglio** dal quaderno e scrive "Uno, due" con la matita. || Kevin doesn't smile: he takes a **sheet of paper** from the notebook and writes “One, two” with the pencil.
+«E tre?»{ben} || “And three?”
+«Tre. Il **compagno** di banco è più utile dell'insegnante, ogni volta.»{alberto} || “Three. The **classmate** is more useful than the teacher, every time.”
+«Perché?»{ben} || “Why?”
+«Perché un **compagno** sta alla tua altezza. L'insegnante è seduto troppo in alto.»{alberto} || “Because a **classmate** is at your height. The teacher sits too far up.”
+
+Kevin scrive anche quello, poi posa la matita sul **foglio**. || Kevin writes that too, then puts the pencil down on the **sheet of paper**.
+«Alberto, e se sbaglio tutto davanti a loro?»{ben|preoccupato} || “Alberto, what if I get everything wrong in front of them?”
+«**Sbagliando s'impara**, Kevin. Quante volte te l'ho detto in due anni?»{alberto} || “**You learn by making mistakes**, Kevin. How many times have I said it to you in two years?”
+«Molte. Ma il proverbio è di Franco, non tuo.»{ben} || “Many times. But the proverb is Franco's, not yours.”
+«I proverbi sono di tutti. Non hanno copyright.»{alberto|secco} || “Proverbs belong to everyone. They don't have copyright.”
+
+Kevin ride, e si sente un po' meglio. || Kevin laughs, and feels a little better.
+Poi guarda il quaderno e prende una decisione: fa la **prova** adesso, davanti ad Alberto. || Then he looks at the notebook and makes a decision: he does the **trial** now, in front of Alberto.
+«Posso provare a spiegarti una ricetta, qui, adesso?»{ben} || “Can I try to explain a recipe to you, here, now?”
+«Certo. Facciamo finta: io sono uno straniero.»{alberto} || “Of course. Let's pretend: I'm a foreigner.”
+«Va bene. Allora: si prende una **padella** e si mette l'olio, **scaldando** a fuoco basso.»{ben} || “Okay. So: you take a **frying pan** and put in the oil, **heating** it on low heat.”
+
+Alberto alza una mano. || Alberto raises a hand.
+«Fermati. "**Scaldando**" non va bene qui.»{alberto} || “Stop. '**Heating**' doesn't work here.”
+«Perché no? È il gerundio. Il gerundio è sempre giusto.»{ben} || “Why not? It's the gerund. The gerund is always right.”
+«Il gerundio è giusto quando esprime il modo o la causa. Qui non esprime niente, perché l'azione non è contemporanea.»{alberto} || “The gerund is right when it expresses manner or cause. Here it expresses nothing, because the action isn't simultaneous.”
+
+«Quindi come lo dico?»{ben} || “So how do I say it?”
+«"Si mette l'olio e si scalda a fuoco basso". Oppure "**scaldando** l'olio, il profumo arriva". Adesso sì.»{alberto} || “'You put in the oil and heat it on low heat.' Or '**by heating** the oil, the smell comes.' Now yes.”
+
+Kevin scrive la **correzione** sul **foglio**, in lettere grandi. || Kevin writes the **correction** on the **sheet of paper**, in big letters.
+«Va bene. Ricomincio. "Si mette l'olio e si scalda a fuoco basso".»{ben} || “Okay. I'll start again. 'You put in the oil and heat it on low heat.'”
+«Bene. Continua.»{alberto} || “Good. Continue.”
+
+«Poi si aggiunge il pomodoro e, **mescolando** piano, si aspetta dieci minuti.»{ben} || “Then you add the tomato and, **stirring** slowly, you wait ten minutes.”
+«Questo va bene. Vedi? Il gerundio ti serve per spiegare *come* fare una cosa.»{alberto} || “That's fine. See? The gerund helps you explain *how* to do something.”
+«E per la **pronuncia**? Devo parlare piano o forte?»{ben} || “And for **pronunciation**? Should I speak slowly or loudly?”
+«Piano, e con **calma**. I tuoi ospiti non hanno **fretta**. Ci pensi tu a mettergli fretta.»{alberto} || “Slowly, and with **calm**. Your guests aren't in a **hurry**. You're the one who gives them a hurry.”
+
+Kevin ride. || Kevin laughs.
+«È vero. È la mia **abitudine** più brutta.»{ben} || “It's true. It's my worst **habit**.”
+«E la quarta cosa, Kevin, è questa: lascia parlare loro.»{alberto} || “And the fourth thing, Kevin, is this: let them talk.”
+
+«In che senso?»{ben} || “In what sense?”
+«La **conversazione** deve venire da loro, non da te. Tu prepari le domande, e loro rispondono.»{alberto} || “The **conversation** must come from them, not from you. You prepare the questions, and they answer.”
+«E se non rispondono?»{ben} || “And if they don't answer?”
+«Allora aspetti. In silenzio. Il silenzio è la tua arma migliore.»{alberto} || “Then you wait. In silence. Silence is your best weapon.”
+
+Kevin scrive sul **foglio**: "Quattro: lasciar parlare, aspettare." || Kevin writes on the **sheet of paper**: “Four: let them talk, wait.”
+«E per la **lettura**? Posso far leggere una ricetta?»{ben} || “And for **reading**? Can I have them read a recipe?”
+«Puoi. Ma attento: la **lettura** è difficile. Un testo scritto non si sente come una voce.»{alberto} || “You can. But careful: **reading** is difficult. Written text doesn't sound like a voice.”
+«Quindi la ricetta la leggo io, ad alta voce.»{ben} || “So I'll read the recipe out loud myself.”
+«Meglio. Io la leggo, loro la rifanno. È un buon esercizio.»{alberto} || “Better. I read it, they redo it. It's a good exercise.”
+
+Kevin si alza e raccoglie i **fogli** dal tavolo. || Kevin gets up and gathers the **sheets of paper** from the table.
+«Alberto, un'ultima cosa. La **traduzione**? La uso o no?»{ben} || “Alberto, one last thing. **Translation**? Do I use it or not?”
+«Solo se è strettamente necessaria. Altrimenti loro **traducono** dentro la testa e non imparano a parlare.»{alberto} || “Only if it's strictly necessary. Otherwise they **translate** inside their heads and don't learn to speak.”
+«Come facevo io, all'inizio.»{ben} || “Like I did, at the beginning.”
+«Come facevi tu. E poi hai smesso, e sei **migliorato** di colpo.»{alberto} || “Like you did. And then you stopped, and you **improved** all at once.”
+
+Kevin si ferma con i **fogli** in mano, colpito dalla frase. || Kevin stops with the **sheets of paper** in his hand, struck by the sentence.
+«È vero. Non me n'ero accorto.»{ben} || “It's true. I hadn't noticed.”
+«È sempre così. Le cose importanti succedono mentre pensi ad altro.»{alberto} || “It's always like that. Important things happen while you're thinking about something else.”
+
+Alberto si alza e comincia a mettere a posto le sedie della **classe**. || Alberto gets up and starts putting the **class** chairs back in place.
+Kevin lo aiuta, senza parlare, e per un minuto non pensa a niente. || Kevin helps him, without speaking, and for a minute he thinks about nothing.
+Poi prende la scatola dei biscotti e ne offre uno ad Alberto. || Then he takes the cookie box and offers one to Alberto.
+
+«Grazie, Kevin. E per sabato, un'ultima cosa.»{alberto} || “Thanks, Kevin. And for Saturday, one last thing.”
+«Dimmi.»{ben} || “Tell me.”
+«Quando insegni, insegna come tu hai imparato: per tentativi.»{alberto|grave} || “When you teach, teach the way you learned: by attempts.”
+«Per tentativi?»{ben} || “By attempts?”
+«Sì. Un tentativo, una correzione, un altro tentativo. Questo è il **metodo** più antico del mondo.»{alberto} || “Yes. An attempt, a correction, another attempt. This is the oldest **method** in the world.”
+
+Kevin chiude il quaderno e lo mette sotto il braccio. || Kevin closes the notebook and puts it under his arm.
+«Grazie, Alberto. Sabato ti racconto com'è andata.»{ben} || “Thanks, Alberto. Saturday I'll tell you how it went.”
+«Se non mi racconti niente, capisco lo stesso che è andata male.»{alberto|ridendo} || “If you tell me nothing, I'll understand anyway that it went badly.”
+
+«E se ti racconto tutto?»{ben} || “And if I tell you everything?”
+«Allora è andata bene. **Parlandone** si capisce sempre.»{alberto} || “Then it went well. **By talking about it**, you always understand.”
+_Alberto ha ragione. La lezione è già cominciata._{ben} || *Alberto is right. The lesson has already begun.*
+
+# SCENE bar-tigli | sabato pomeriggio | ben, matteo, franco, emma, leo
+Sabato pomeriggio, e il Bar Tigli è chiuso. || Saturday afternoon, and Bar Tigli is closed.
+Sul vetro c'è un cartello scritto a mano da Kevin: "CHIUSO PER **PROVA** — CORSO DI CUCINA". || On the glass there's a sign handwritten by Kevin: “CLOSED FOR **TRIAL** — COOKING COURSE.”
+Dentro, quattro persone sono sedute su quattro sgabelli, e nessuna di loro è straniera. || Inside, four people are sitting on four stools, and none of them is a foreigner.
+
+Matteo è dietro il bancone, con le braccia conserte e la faccia di chi sta per divertirsi. || Matteo is behind the counter, with his arms crossed and the face of someone about to enjoy himself.
+Franco è seduto all'estremità, con il cappello in mano. || Franco is sitting at the end, with his hat in his hand.
+Emma e Leo sono al centro, e Leo ha portato anche il quaderno dei fatti strani. || Emma and Leo are in the center, and Leo has also brought his notebook of strange facts.
+
+Kevin esce dalla cucina con una **padella**, una **pentola** e un mazzo di **basilico** in mano. || Kevin comes out of the kitchen with a **frying pan**, a **pot**, and a bunch of **basil** in his hand.
+«Buongiorno a tutti. Benvenuti alla prima lezione del corso.»{ben|solenne} || “Good afternoon, everyone. Welcome to the first lesson of the course.”
+«È pomeriggio, Kevin.»{matteo} || “It's afternoon, Kevin.”
+«Buon pomeriggio a tutti. Benvenuti.»{ben} || “Good afternoon, everyone. Welcome.”
+
+Emma alza gli occhi al cielo, ma sorride. || Emma rolls her eyes, but she smiles.
+«Papà, dobbiamo fare finta di essere stranieri?»{emma} || “Dad, do we have to pretend to be foreigners?”
+«Sì. Da adesso siete quattro **allievi** stranieri e non capite quasi niente di italiano.»{ben} || “Yes. From now on you are four foreign **pupils** and you understand almost nothing of Italian.”
+«Io non capisco niente anche adesso.»{leo|onesto} || “I don't understand anything right now either.”
+«Perfetto. Tu sei già pronto.»{ben} || “Perfect. You're already ready.”
+
+Kevin mette la **padella** sul fuoco, poi prende il **mestolo** e lo agita come una bacchetta. || Kevin puts the **frying pan** on the fire, then takes the **ladle** and waves it like a wand.
+«Allora. Oggi facciamo la pasta al **basilico**. È una ricetta semplice, ma ha tre passaggi.»{ben} || “So. Today we're making pasta with **basil**. It's a simple recipe, but it has three steps.”
+«Tre passaggi. Come la macchina del caffè.»{matteo} || “Three steps. Like the coffee machine.”
+«Esatto, Matteo. **Parlando** di macchine, il primo passaggio è l'acqua.»{ben} || “Exactly, Matteo. **Speaking** of machines, the first step is the water.”
+
+Kevin prende la **pentola** e la riempie d'acqua al rubinetto. || Kevin takes the **pot** and fills it with water at the tap.
+Franco alza la mano, come a scuola. || Franco raises his hand, like at school.
+«Domanda. Quanta acqua?»{franco} || “Question. How much water?”
+«Abbastanza per la pasta. Una **pentola** grande, acqua fino a metà.»{ben} || “Enough for the pasta. A big **pot**, water up to halfway.”
+«Questo non è un numero.»{franco|severo} || “That's not a number.”
+«Non è un numero, è un'occhiata. Gli italiani cucinano a occhio.»{ben} || “It's not a number, it's a glance. Italians cook by eye.”
+
+Franco borbotta qualcosa, ma non discute. || Franco mutters something, but doesn't argue.
+Kevin mette la **pentola** sul fuoco, accanto alla **padella**. || Kevin puts the **pot** on the fire, next to the **frying pan**.
+«Passaggio due: l'olio. Si mette l'olio nella **padella** e si scalda a fuoco basso.»{ben} || “Step two: the oil. You put the oil in the **frying pan** and heat it on low heat.”
+
+Emma prende la **matita** dal tavolo e scrive qualcosa su un foglietto. || Emma takes the **pencil** from the table and writes something on a little sheet.
+«Che scrivi?»{ben} chiede Kevin, senza girare la testa. || “What are you writing?” asks Kevin, without turning his head.
+«Faccio come te. Prendo appunti sulle tue **frasi**.»{emma} || “I'm doing like you. I'm taking notes on your **sentences**.”
+«Bene. Anzi, brava. La **correzione** è un lavoro di squadra.»{ben} || “Good. Actually, good job. **Correction** is a team effort.”
+
+Leo alza la mano con due dita. || Leo raises his hand with two fingers.
+«Domanda! Perché il **mestolo** ha un buco in mezzo?»{leo} || “Question! Why does the **ladle** have a hole in the middle?”
+Kevin si blocca e guarda il **mestolo**. || Kevin freezes and looks at the **ladle**.
+«Perché... perché serve per scolare.»{ben} || “Because... because it's used for draining.”
+«E allora perché non lo chiamano “scolatoio”?»{leo} || “Then why don't they call it 'drainer'?”
+«Leo, questa è una domanda difficile anche per me.»{ben} || “Leo, that's a hard question for me too.”
+
+Matteo ride dal bancone. || Matteo laughs from the counter.
+«Kevin, sta andando bene. Il tuo primo **allievo** ti ha già messo in difficoltà.»{matteo} || “Kevin, it's going well. Your first **pupil** has already put you in difficulty.”
+«Non è in difficoltà. Sta imparando anche lui.»{franco} dice Franco, con l'aria di chi dice una cosa ovvia. || “He's not in difficulty. He's learning too,” says Franco, with the air of someone stating the obvious.
+Kevin si gira verso Franco, sorpreso. || Kevin turns toward Franco, surprised.
+
+«Grazie, Franco.»{ben} || “Thanks, Franco.”
+«Non ti ho fatto un complimento. Ho detto una cosa vera.»{franco|secco} || “I didn't compliment you. I said something true.”
+«Va bene. Allora è una verità che mi fa piacere.»{ben} || “All right. Then it's a truth that makes me happy.”
+
+Kevin prende i pomodori e comincia a tagliarli. || Kevin takes the tomatoes and starts cutting them.
+«Passaggio tre: il **basilico**. Ma il **basilico** non va cotto. Va messo alla fine, a fuoco spento.»{ben} || “Step three: the **basil**. But the **basil** must not be cooked. It goes in at the end, with the fire off.”
+Franco annuisce, senza dire niente. || Franco nods, without saying anything.
+
+Matteo si avvicina al tavolo e prende una foglia di **basilico**. || Matteo comes over to the table and takes a leaf of **basil**.
+«Una per assaggio.»{matteo} dice, e la mangia. || “One for tasting,” he says, and eats it.
+«Matteo! Quello era per la ricetta!»{ben} || “Matteo! That was for the recipe!”
+«Per imparare serve assaggiare. L'hai detto tu.»{matteo|innocente} || “To learn you have to taste. You said it yourself.”
+
+Emma e Leo ridono. || Emma and Leo laugh.
+Kevin scuote la testa e prende il **mestolo**, poi lo infila nella **pentola** per girare la pasta. || Kevin shakes his head and takes the **ladle**, then puts it into the **pot** to stir the pasta.
+Ma il **mestolo** entra al contrario, e la pasta si attacca al fondo. || But the **ladle** goes in the wrong way, and the pasta sticks to the bottom.
+
+«Papà, il **mestolo** è girato.»{emma} || “Dad, the **ladle** is turned around.”
+«Lo so. L'ho fatto apposta, per mostrare come non si fa.»{ben|imbarazzato} || “I know. I did it on purpose, to show how not to do it.”
+«Non è vero, l'hai sbagliato.»{leo} || “That's not true, you got it wrong.”
+«Non è vero, hai ragione.»{ben} || “That's not true, you're right.”
+
+Franco guarda la scena, e per un attimo sembra divertirsi davvero. || Franco watches the scene, and for a moment he seems to genuinely enjoy himself.
+«Kevin, la **sfida** non è il **mestolo**. La **sfida** è spiegare e cucinare insieme.»{franco} || “Kevin, the **challenge** isn't the **ladle**. The **challenge** is explaining and cooking at the same time.”
+«Lo so. E sto sbagliando entrambe le cose.»{ben} || “I know. And I'm getting both wrong.”
+«**Sbagliando s'impara**.»{franco} dice Franco, per la terza volta in quattro giorni. || “**You learn by making mistakes**,” says Franco, for the third time in four days.
+
+Emma alza una mano con la **matita**. || Emma raises a hand with the **pencil**.
+«Papà, posso correggere una tua **frase**?»{emma} || “Dad, can I correct one of your **sentences**?”
+«Certo. È il tuo lavoro qui.»{ben} || “Of course. It's your job here.”
+«Hai detto "si mette l'olio e si scalda". Ma prima hai detto "**scaldando** l'olio". Solo una delle due va bene.»{emma} || “You said 'you put in the oil and heat it.' But before you said '**heating** the oil.' Only one of the two works.”
+
+Kevin si ferma con il **mestolo** in aria. || Kevin stops with the **ladle** in the air.
+«Ho sbagliato il gerundio?»{ben} || “Did I get the gerund wrong?”
+«Sì. Il gerundio va bene per spiegare il modo, non per dire l'azione principale.»{emma} || “Yes. The gerund works to explain manner, not to state the main action.”
+
+Kevin scrive subito la **correzione** su un foglio, con la **matita** di Emma. || Kevin immediately writes the **correction** on a sheet, with Emma's **pencil**.
+«Grazie. **Parlando** con voi, imparo le cose che avevo dimenticato.»{ben} || “Thanks. **By talking** with you, I learn the things I had forgotten.”
+
+Leo alza di nuovo la mano. || Leo raises his hand again.
+«Domanda! Che vuol dire "**pronuncia**"?»{leo} || “Question! What does '**pronunciation**' mean?”
+«Vuol dire come si dice una parola. Il **significato** è come si dice, non che cosa vuol dire.»{ben} || “It means how you say a word. The **meaning** is how you say it, not what it means.”
+«Adesso capisco tutto.»{leo|raggiante} || “Now I understand everything.”
+«Non hai capito niente, ma va bene lo stesso.»{emma} || “You didn't understand anything, but it's fine anyway.”
+
+Kevin toglie il **basilico** dal mazzo e lo spezza con le mani, come gli ha insegnato Franco l'anno prima. || Kevin takes the **basil** from the bunch and breaks it with his hands, the way Franco taught him the year before.
+Poi spegne il fuoco e mette il **basilico** nella **padella**, piano. || Then he turns off the fire and puts the **basil** into the **frying pan**, slowly.
+«Ecco. **Spegnendo** il fuoco prima, il **basilico** non perde il profumo.»{ben} || “There. **By turning off the fire** first, the **basil** doesn't lose its smell.”
+
+Franco si alza dallo sgabello e si avvicina alla **padella**. || Franco gets up from the stool and comes closer to the **frying pan**.
+Annusa, una volta sola, con gli occhi chiusi. || He sniffs, just once, with his eyes closed.
+«Il **basilico** è giusto.»{franco} dice, piano. || “The **basil** is right,” he says, quietly.
+«Grazie, Franco.»{ben} || “Thanks, Franco.”
+«Il sale però lo sento poco.»{franco} || “The salt, though, I can barely smell.”
+
+Kevin prende il sale e ne mette un pizzico, senza dire niente. || Kevin takes the salt and puts in a pinch, without saying anything.
+Franco annuisce, come un ispettore che firma un documento. || Franco nods, like an inspector signing a document.
+
+Matteo prende il **mestolo** dalla **pentola** e lo tiene in alto, come un trofeo. || Matteo takes the **ladle** from the **pot** and holds it up high, like a trophy.
+«Allora, Kevin. Il corso è andato bene. Posso tenere il **mestolo** come socio?»{matteo} || “So, Kevin. The course went well. Can I keep the **ladle** as a partner?”
+«Il **mestolo** resta al bar. Ha già lavorato abbastanza oggi.»{ben} || “The **ladle** stays at the bar. It's worked enough today.”
+«Il **mestolo** ha lavorato più di te. Sei stato tu a girarlo al contrario.»{matteo} || “The **ladle** worked harder than you. You're the one who turned it the wrong way.”
+
+Emma prende un piatto e serve quattro porzioni piccole. || Emma takes a plate and serves four small portions.
+Leo mangia per primo e si sporca la maglietta di sugo. || Leo eats first and gets sauce on his shirt.
+«Buonissimo! Posso essere **allievo** ogni sabato?»{leo} || “Delicious! Can I be a **pupil** every Saturday?”
+«Puoi. Ma il sabato prossimo ci sono gli stranieri veri.»{ben} || “You can. But next Saturday there are the real foreigners.”
+«Meglio. Loro non capiscono niente, io almeno capisco il **basilico**.»{leo} || “Better. They understand nothing, I at least understand **basil**.”
+
+Kevin si siede su uno sgabello e guarda i quattro "allievi" che mangiano. || Kevin sits on a stool and watches the four “pupils” eating.
+Per la prima volta, non sente la **paura** di sbagliare. || For the first time, he doesn't feel the **fear** of making mistakes.
+Sente solo un po' di **orgoglio**, e un po' di **vergogna** per il **mestolo**. || He feels only a bit of **pride**, and a bit of **shame** about the **ladle**.
+
+«Allora, com'è andata?»{ben} chiede Kevin, con il quaderno in mano. || “So, how did it go?” asks Kevin, with the notebook in his hand.
+«**Parlando** chiaro: tre errori gravi e due piccoli.»{franco} || “**Speaking** clearly: three serious mistakes and two small ones.”
+«Ma si capiva tutto.»{emma} || “But you could understand everything.”
+«Sì, si capiva tutto.»{franco} conferma, e si rimette il cappello. || “Yes, you could understand everything,” Franco confirms, and puts his hat back on.
+
+Prima di uscire, Franco si ferma sulla porta e parla senza girarsi. || Before leaving, Franco stops at the door and speaks without turning around.
+«Per essere un americano, non è andata male.»{franco} || “For an American, it didn't go badly.”
+La porta si chiude. || The door closes.
+Kevin resta immobile con il **mestolo** in mano, e non sa se ridere o piangere. || Kevin stands still with the **ladle** in his hand, and doesn't know whether to laugh or cry.
+
+«Kevin, ti ha fatto un complimento.»{matteo} dice Matteo, asciugando il bancone. || “Kevin, he complimented you,” says Matteo, wiping the counter.
+«Lo so. Ma adesso ho una **paura** nuova.»{ben} || “I know. But now I have a new **fear**.”
+«Quale?»{matteo} || “Which one?”
+«Che sabato prossimo, con gli stranieri veri, vada peggio che con la mia famiglia.»{ben} || “That next Saturday, with the real foreigners, it goes worse than with my family.”
+«Impossibile. Con la famiglia non si **migliora** mai al primo tentativo.»{matteo} || “Impossible. With family you never **improve** on the first try.”
+
+Emma raccoglie i piatti e li porta in cucina. || Emma collects the plates and takes them to the kitchen.
+Leo lecca il piatto, e nessuno lo vede. || Leo licks the plate, and nobody sees him.
+Kevin scrive l'ultima **frase** della giornata sul quaderno giallo: "Ho insegnato. Ho sbagliato. Sono andato avanti." || Kevin writes the last **sentence** of the day in the yellow notebook: “I taught. I made mistakes. I kept going.”
+_Questo è il **metodo**. Davvero._{ben} || *This is the **method**. Really.*
+
+# SCENE casa-carter | domenica mattina | ben, chiara, emma, leo
+Domenica mattina, e in casa Carter c'è odore di caffè e di pane tostato. || Sunday morning, and in the Carter house there's the smell of coffee and toast.
+Chiara è tornata da Roma la sera prima, con la valigia ancora in corridoio, e adesso è seduta al tavolo in vestaglia. || Chiara came back from Rome the night before, with her suitcase still in the hallway, and now she's sitting at the table in her bathrobe.
+Kevin sta preparando la colazione, e Leo entra in cucina correndo. || Kevin is making breakfast, and Leo runs into the kitchen.
+
+«Mamma! Mamma! Guarda!»{leo|raggiante} grida Leo, con un foglio in mano. || “Mom! Mom! Look!” shouts Leo, with a sheet of paper in his hand.
+Chiara prende il foglio e lo legge, e le si illumina la faccia. || Chiara takes the paper and reads it, and her face lights up.
+«Leo! Otto! Hai preso otto nella verifica di italiano!»{chiara} || “Leo! Eight! You got eight on the Italian test!”
+
+«E la maestra ha scritto "bravo" in grande!»{leo} dice Leo, saltando su una sedia. || “And the teacher wrote 'good' in big letters!” says Leo, jumping onto a chair.
+«Otto in italiano, Leo. Tu, che due mesi fa non sapevi nemmeno dire "buongiorno".»{chiara} || “Eight in Italian, Leo. You, who two months ago didn't even know how to say 'good morning.'”
+«Adesso dico anche "arrivederci"!»{leo} || “Now I can even say 'goodbye'!”
+
+Emma entra in cucina con il telefono in mano e i capelli ancora bagnati. || Emma comes into the kitchen with her phone in her hand and her hair still wet.
+Vede Chiara con il foglio in mano e capisce subito di che cosa si sta parlando. || She sees Chiara with the paper in her hand and immediately understands what they're talking about.
+«Ah, sì. Il voto di Leo.»{emma} dice, e versa il succo d'arancia, senza guardare nessuno. || “Ah, yes. Leo's grade,” she says, and pours the orange juice, without looking at anyone.
+
+«Emma, hai visto? Otto!»{chiara} || “Emma, did you see? Eight!”
+«Ho visto. L'ho aiutato io.»{emma} || “I saw. I helped him.”
+«Tu?»{chiara|sorpresa} || “You?”
+«Per tre pomeriggi. Con la **grammatica**, la **pronuncia** e la **traduzione**.»{emma} || “For three afternoons. With the **grammar**, the **pronunciation**, and the **translation**.”
+
+Leo si avvicina al tavolo e prende la cartella, che è ancora aperta. || Leo comes over to the table and takes his backpack, which is still open.
+Tira fuori un foglio fotocopiato e lo mette davanti a Chiara. || He pulls out a photocopied sheet and puts it in front of Chiara.
+«E questo l'ha dato la **maestra** a tutta la **classe**.»{leo} || “And the **teacher** gave this to the whole **class**.”
+
+Chiara prende il foglio e lo guarda. || Chiara takes the sheet and looks at it.
+Sul foglio c'è una lista di correzioni, scritte a mano, con una calligrafia che lei conosce bene. || On the sheet there's a list of corrections, handwritten, in a handwriting she knows well.
+In alto, con la penna rossa, la maestra ha scritto: "Modello per la **classe**. Grazie, Emma." || At the top, in red pen, the teacher has written: “Model for the **class**. Thank you, Emma.”
+
+Chiara alza gli occhi e guarda la figlia. || Chiara raises her eyes and looks at her daughter.
+«Emma, queste sono le tue correzioni?»{chiara} || “Emma, are these your corrections?”
+«Sì. La maestra Paola le ha trovate nel quaderno di Leo e le ha fotocopiate.»{emma|imbarazzata} || “Yes. Maestra Paola found them in Leo's notebook and photocopied them.”
+«Hai scritto delle correzioni che sono diventate un modello per una **classe** intera.»{chiara} || “You wrote corrections that became a model for a whole **class**.”
+
+«Non è niente di speciale. Ho solo spiegato le cose con parole semplici.»{emma} || “It's nothing special. I just explained things in simple words.”
+«Una **compagna** di classe aiuta un **compagno** di classe. E la maestra ringrazia.»{chiara} || “A **classmate** helps a **classmate**. And the teacher says thank you.”
+«Le correzioni erano cinque. Le ho scritte con la matita, poi le ho ricopiate.»{emma} || “There were five corrections. I wrote them in pencil, then copied them over.”
+
+Leo prende il foglio dalle mani di Chiara e lo rimette nella cartella. || Leo takes the sheet from Chiara's hands and puts it back in his backpack.
+«Emma mi ha anche detto una cosa importante.»{leo} || “Emma also told me something important.”
+«Che cosa?»{chiara} || “What?”
+«Che se sbaglio non è la fine del mondo. Basta rifare la frase e **migliorare**.»{leo} || “That if I make a mistake it's not the end of the world. I just have to redo the sentence and **improve**.”
+«E tu l'hai fatto.»{chiara} || “And you did it.”
+«L'ho fatto cinque volte. La prima volta avevo un cinque.»{leo} || “I did it five times. The first time I had a five.”
+«Un cinque? E non me l'hai detto?»{chiara} || “A five? And you didn't tell me?”
+«Non era una cosa da dire.»{leo|sincero} || “It wasn't something to say.”
+
+Kevin porta i piatti in tavola, e si siede senza dire niente, ma ascolta tutto. || Kevin brings the plates to the table, and sits down without saying anything, but he hears everything.
+Chiara posa la mano sul tavolo, di fronte a Emma. || Chiara rests her hand on the table, in front of Emma.
+«Emma, posso dirti una cosa?»{chiara} || “Emma, can I tell you something?”
+«Che cosa?»{emma|sospettosa} || “What?”
+«Ti ho sentito parlare in italiano con Leo, prima, dalla stanza.»{chiara} || “I heard you speaking Italian with Leo earlier, from the room.”
+
+Emma arrossisce e guarda il succo d'arancia. || Emma blushes and looks at the orange juice.
+«Ti sembravo strana?»{emma} || “Did I sound strange?”
+«No. Mi sembravi italiana.»{chiara} || “No. You sounded Italian.”
+«Non è vero.»{emma} || “That's not true.”
+«È vero. Non hai tradotto nemmeno una volta. Hai spiegato direttamente in italiano.»{chiara} || “It's true. You didn't translate even once. You explained directly in Italian.”
+
+Emma tace per un momento, e poi alza le spalle, come fanno i quindicenni quando non vogliono ammettere una cosa. || Emma stays quiet for a moment, and then shrugs, the way fifteen-year-olds do when they don't want to admit something.
+«Boh. Forse perché Leo non capisce l'inglese abbastanza bene.»{emma} || “Whatever. Maybe because Leo doesn't understand English well enough.”
+«Forse. O forse perché per te l'italiano è diventato normale.»{chiara} || “Maybe. Or maybe because Italian has become normal for you.”
+
+Kevin sorride dietro la sua tazza di caffè. || Kevin smiles behind his cup of coffee.
+Poi prende il quaderno giallo dalla credenza e scrive una riga, in fondo alla pagina. || Then he takes the yellow notebook from the sideboard and writes a line, at the bottom of the page.
+Emma si gira di scatto e lo vede scrivere. || Emma spins around and sees him writing.
+«Papà, che cosa stai scrivendo?»{emma} || “Dad, what are you writing?”
+
+«Una nota per il corso di cucina.»{ben|troppo serio} || “A note for the cooking course.”
+«Su che cosa?»{emma} || “About what?”
+«Sul mio primo **allievo**.»{ben} || “About my first **pupil**.”
+«Chi è il tuo primo allievo?»{emma} chiede, e strizza gli occhi. || “Who's your first pupil?” asks Emma, and squints.
+
+Kevin chiude il quaderno e lo tiene sul petto. || Kevin closes the notebook and holds it against his chest.
+«Non te lo dico.»{ben} || “I'm not telling you.”
+«Dai!»{emma} || “Come on!”
+«Va bene. Ho scritto: "Allievo numero uno: mia figlia Emma."»{ben} || “All right. I wrote: 'Pupil number one: my daughter Emma.'”
+
+Emma apre la bocca per protestare, e poi la richiude. || Emma opens her mouth to protest, and then closes it again.
+Chiara ride piano, con la tazza in mano. || Chiara laughs quietly, with the cup in her hand.
+Leo batte le mani sul tavolo. || Leo claps his hands on the table.
+
+«Allora anche io sono un allievo!»{leo} || “Then I'm a pupil too!”
+«Tu sei l'allievo numero due.»{ben} || “You're pupil number two.”
+«E la mamma?»{leo} || “And Mom?”
+«La mamma è un caso difficile. Non ha mai sbagliato niente in vita sua.»{ben|ridendo} || “Mom is a difficult case. She's never gotten anything wrong in her life.”
+«Falso. Sbaglio tutto, da quando sono tornata.»{chiara} || “False. I get everything wrong, since I came back.”
+«Tranne spiegare l'italiano a Leo.»{ben} || “Except explaining Italian to Leo.”
+
+Emma si alza, prende la tazza e va verso la cucina. || Emma gets up, takes her cup, and heads to the kitchen.
+A metà strada, si ferma e si gira verso Kevin. || Halfway there, she stops and turns toward Kevin.
+«Papà, se scrivi quella frase nel quaderno, non farla leggere a nessuno.»{emma} || “Dad, if you write that sentence in the notebook, don't let anyone read it.”
+«Perché?»{ben} || “Why?”
+«Perché poi tutti pensano che sono una **maestra** e mi chiedono lezioni.»{emma} || “Because then everyone thinks I'm a **teacher** and asks me for lessons.”
+
+Chiara si alza anche lei e prende i piatti vuoti. || Chiara gets up too and takes the empty plates.
+Passa accanto a Emma e le mette una mano sulla spalla, di sfuggita. || She passes by Emma and puts a hand on her shoulder, in passing.
+«Se ti chiedono lezioni, tu digli di no. Hai già una **materia** difficile.»{chiara} || “If they ask you for lessons, tell them no. You already have a hard **subject**.”
+«Quale?»{emma} || “Which one?”
+«Le altre otto. La matematica, la fisica, la storia...»{chiara} || “The other eight. Math, physics, history...”
+
+Emma ride e prende i piatti dalle mani di Chiara. || Emma laughs and takes the plates from Chiara's hands.
+«Ho capito. Ma il prossimo **tema** di italiano lo scrivo da sola.»{emma} || “I get it. But I'll write the next Italian **essay** by myself.”
+«Bene. E se prendi sette, com'è giusto, non lo dire a papà.»{chiara} || “Good. And if you get a seven, which is only fair, don't tell dad.”
+«Perché?»{emma} || “Why?”
+«Perché lo scriverebbe nel quaderno giallo, con l'**orgoglio** di un allenatore di calcio.»{chiara|ridendo} || “Because he'd write it in the yellow notebook, with the **pride** of a soccer coach.”
+
+Kevin alza il quaderno come uno scudo. || Kevin raises the notebook like a shield.
+«Non è vero. Io scrivo solo i fatti.»{ben} || “That's not true. I only write the facts.”
+«Quali fatti?»{emma} || “Which facts?”
+«Che mia figlia ha spiegato la **grammatica** italiana a suo fratello meglio di me che ho spiegato la pasta a quattro persone contemporaneamente.»{ben} || “That my daughter explained Italian **grammar** to her brother better than I explained pasta to four people at the same time.”
+«È vero, questo è un fatto.»{emma} ammette, senza girarsi. || “It's true, that's a fact,” Emma admits, without turning around.
+
+Leo prende il foglio delle correzioni dalla cartella e lo attacca al frigorifero con una calamita. || Leo takes the correction sheet from his backpack and sticks it to the fridge with a magnet.
+Nessuno dice niente per un momento. || Nobody says anything for a moment.
+Poi Chiara prende il quaderno giallo dalle mani di Kevin e legge la pagina in silenzio. || Then Chiara takes the yellow notebook from Kevin's hands and reads the page in silence.
+«Kevin, questa pagina la voglio fotocopiare.»{chiara} || “Kevin, I want to photocopy this page.”
+«Perché?»{ben} || “Why?”
+«Perché è la storia di questa casa, dal giorno in cui siamo arrivati.»{chiara} || “Because it's the story of this house, since the day we arrived.”
+
+Kevin si mette a sedere e guarda il quaderno nelle mani di sua moglie. || Kevin sits down and looks at the notebook in his wife's hands.
+_Ha ragione. Questa è la storia di tutti noi._{ben} || *She's right. This is the story of all of us.*
+Emma, dalla porta, alza una mano in aria, come un'allieva che chiede il permesso. || Emma, from the doorway, raises a hand in the air, like a pupil asking permission.
+«Fotocopiala, ma censura la parte su di me.»{emma} || “Photocopy it, but censor the part about me.”
+«La parte su di te è la più bella.»{chiara} || “The part about you is the best one.”
+«Appunto. Censura quella.»{emma|secca} || “Exactly. Censor that one.”
+
+# SCENE bar-tigli | lunedì mattina | ben, matteo, franco
+Lunedì mattina, sette e mezza. || Monday morning, half past seven.
+Franco entra nel Bar Tigli con il giornale sotto il braccio e si siede al solito sgabello. || Franco comes into Bar Tigli with the newspaper under his arm and sits on his usual stool.
+
+«Un caffè.»{franco|brusco} || “A coffee.”
+Kevin lo prepara con calma, senza **fretta**, e glielo mette davanti. || Kevin makes it calmly, without **hurry**, and sets it in front of him.
+«Quando comincia il corso per stranieri?»{franco} chiede Franco, con la voce di chi parla del tempo. || “When does the course for foreigners start?” asks Franco, in the voice of someone talking about the weather.
+
+«Sabato, alle quattro.»{ben|sorpreso} || “Saturday, at four.”
+«Allora vengo anche io.»{franco} || “Then I'll come too.”
+«Tu?»{ben} || “You?”
+«Per controllare.»{franco} dice Franco, e beve un sorso. || “To check,” says Franco, and takes a sip.
+
+Matteo, dal fondo del bancone, alza gli occhi dal giornale. || Matteo, from the back of the counter, looks up from the newspaper.
+«Papà, tu non sei uno straniero.»{matteo} || “Dad, you're not a foreigner.”
+«Non importa. Farò finta di essere uno straniero che sa già tutto.»{franco} || “It doesn't matter. I'll pretend to be a foreigner who already knows everything.”
+
+Kevin ride, ma scrive la cosa nel quaderno giallo. || Kevin laughs, but writes it in the yellow notebook.
+«Va bene. Porto anche il **basilico**, che mi hai insegnato a mettere alla fine.»{ben} || “All right. I'll bring the **basil** too, which you taught me to add at the end.”
+«E il **mestolo**?»{franco} || “And the **ladle**?”
+«Il **mestolo** resta qui, al bar. È di Matteo.»{ben} || “The **ladle** stays here, at the bar. It's Matteo's.”
+
+Franco finisce il caffè, mette giù la tazza e si alza. || Franco finishes the coffee, puts down the cup, and gets up.
+«Kevin, una cosa sola. Il tuo **metodo** è buono, ma ci vuole **costanza**.»{franco} || “Kevin, just one thing. Your **method** is good, but it takes **persistence**.”
+«Quanto?»{ben} || “How much?”
+«Quanto basta.»{franco} || “As much as needed.”
+
+Franco prende il giornale e va verso la porta, senza pagare. || Franco takes the newspaper and heads for the door, without paying.
+Sulla soglia si gira un'ultima volta. || On the threshold he turns one last time.
+«**Sbagliando s'impara**. Ma tu sbaglia piano, che il profumo arriva fin qui.»{franco} || “**You learn by making mistakes**. But make your mistakes slowly, because the smell reaches all the way here.”
+
+La porta si chiude. || The door closes.
+Matteo guarda Kevin, poi guarda la porta, poi guarda il bancone. || Matteo looks at Kevin, then at the door, then at the counter.
+«Kevin, sono tre mesi che aspetto che papà paghi un caffè.»{matteo|rassegnato} || “Kevin, I've been waiting three months for dad to pay for a coffee.”
+«E io sono un mese che aspetto un suo consiglio.»{ben} || “And I've been waiting a month for one piece of advice from him.”
+«Beh, almeno uno dei due ha avuto qualcosa.»{matteo} || “Well, at least one of the two got something.”
+
+Kevin chiude il quaderno e comincia a preparare i cornetti. || Kevin closes the notebook and starts preparing the cornetti.
+_Penso che sabato verrà davvero. E stavolta non sbaglierò il sale._{ben} || *I think he'll really come on Saturday. And this time I won't get the salt wrong.*
+
+@grammar
+# Uses of the gerund: *sbagliando s'impara*
+
+## What it is
+
+The **gerundio** is the Italian *-ing* form: *parlando* (speaking), *essendo* (being), *leggendo* (reading). In English, *-ing* words do many jobs — they can be the main verb (*I am reading*), a noun (*reading is fun*), or an adverbial (*by reading, while reading, because of reading*). In Italian, the gerund does **only the last job**: it is never the main verb of a sentence and never a noun on its own.
+
+That's why the gerund is so useful for explaining things: it tells your listener **how**, **why**, **when** or **by what means** something happens. It's the grammar of instructions, recipes and proverbs — which is exactly why this chapter is full of it.
+
+## How it works: forms
+
+| Verb type | Gerund | Example |
+|---|---|---|
+| *-are* verbs | **-ando** | parlare → **parlando** |
+| *-ere* verbs | **-endo** | leggere → **leggendo** |
+| *-ire* verbs | **-endo** | capire → **capendo** |
+
+Common irregulars: *essere* → **essendo**, *avere* → **avendo**, *fare* → **facendo**, *dire* → **dicendo**, *bere* → **bevendo**, *stare* → **stando**.
+
+Note: the gerund has no subject of its own. It has one form for everybody: *io parlando, tu parlando, noi parlando* — the form never changes.
+
+## The four main uses
+
+**1. Means / manner — *how?* by doing what?**
+*Sbagliando s'impara.* — You learn **by making mistakes**.
+*Leggendo ad alta voce, impari la pronuncia.* — **By reading** aloud, you learn pronunciation.
+
+**2. Cause — *why?* because of what?**
+*Essendo straniero anch'io, capisco le loro difficoltà.* — **Being** a foreigner too, I understand their difficulties.
+*Essendo tardi, siamo andati via.* — **Since it was** late, we left.
+
+**3. Time — *when?* while doing what?**
+*Mescolando piano, si aspetta dieci minuti.* — **While stirring** gently, you wait ten minutes.
+
+**4. Topic / framing — *speaking of…***
+*Parlando di macchine, il primo passaggio è l'acqua.* — **Speaking of** machines, the first step is the water.
+
+## Pronouns attach to the gerund
+
+Object pronouns glue onto the end of the gerund: *parlandone* (talking about it), *vedendolo* (seeing him/it), *dandoglielo* (giving it to him).
+*Parlandone si capisce sempre.* — **By talking about it**, you always understand.
+
+## The subject rule
+
+The gerund's subject must normally be **the same as the main clause's**:
+*Parlando con loro, imparo anch'io.* — **I** talk, and **I** learn. One subject, fine.
+If the subjects are different, you cannot use the gerund; use a real clause: *Mentre io parlavo, lui ascoltava.*
+
+## From the story
+
+- [[Sbagliando s'impara.]] — The proverb: means ("by making mistakes") with a general subject. It's the chapter in one line.
+- [[Essendo straniero anche tu, li capisci meglio di me.]] — Cause: *because you are* a foreigner.
+- [[Parlando con loro, imparo anch'io.]] — Means/manner, and a single shared subject.
+- [[Parlando di macchine, il primo passaggio è l'acqua.]] — Framing a topic: *speaking of* machines.
+- [[Sì. Perché leggendo ad alta voce impari la pronuncia che ti serve di più.]] — Means: *by reading* aloud.
+- [[Poi si aggiunge il pomodoro e, mescolando piano, si aspetta dieci minuti.]] — Time: *while stirring* slowly.
+- [[Ecco. Spegnendo il fuoco prima, il basilico non perde il profumo.]] — Cause: *by turning off* the fire first, the result follows.
+- [[Parlandone si capisce sempre.]] — A pronoun attached to the gerund: *parlandone* = talking about it.
+
+## Common mistakes English speakers make
+
+1. **Using the gerund as the main verb.** *Sto cucinando* is correct — that's *stare* + gerund (present progressive). But *Cucinando la pasta* alone is not a sentence. The gerund never carries the tense.
+2. **Using the gerund where Italian wants the infinitive.** After prepositions and many verbs, use the infinitive: *invece di parlare* (not *invece di parlando*), *prima di mangiare*, *senza capire*.
+3. **Mixing subjects.** *Parlando lui, io ascoltavo* is wrong. If the subjects differ, use *mentre* + a finite verb.
+4. **Negative gerunds.** "Not knowing" is *non sapendo* — the *non* goes before the gerund.
+5. **Piling them up.** English loves chains (*having been reading, being asked to explain*). Italian prefers one gerund per sentence, and the compound gerund (*avendo fatto*) belongs to a later level.
+
+## Practice
+
+Translate, complete or correct as indicated.
+
+1. Translate: *You learn by trying.* → *Si impara ______.*
+2. Translate: *Being tired, I stayed home.* → *______ stanco, sono rimasto a casa.*
+3. Translate: *By reading every day, you improve.* → *______ ogni giorno, si migliora.*
+4. Complete with the right gerund of *fare*: *______ la spesa, ho incontrato Nadia.*
+5. Complete with the right gerund of *bere*: *______ il caffè, ha letto il giornale.*
+6. Attach the pronoun: *Parlare di questo* → *______ si capisce molto.*
+7. Correct the mistake: *Invece di parlando, dovresti ascoltare.*
+8. Correct the mistake: *Parlando io, lui ascoltava la radio.*
+
+### Answer key
+
+1. *Si impara **provando**.*
+2. ***Essendo** stanco, sono rimasto a casa.*
+3. ***Leggendo** ogni giorno, si migliora.*
+4. ***Facendo** la spesa, ho incontrato Nadia.*
+5. ***Bevendo** il caffè, ha letto il giornale.*
+6. ***Parlandone** si capisce molto.*
+7. *Invece di **parlare**, dovresti ascoltare.* (After *invece di*, use the infinitive.)
+8. *Mentre io parlavo, lui ascoltava la radio.* (Different subjects: no gerund.)

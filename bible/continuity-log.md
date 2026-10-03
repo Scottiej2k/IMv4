@@ -542,6 +542,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco accepts the salon and compliments on his hair/beard; Ornella witnessed it. Chiara now sees Lucia's private wedding preparations.
 - **Planted:** The cake, hidden under a cloth, to be revealed "sabato" (next episode). Kevin's su misura window adhesive for the bar.
 
+### s04e11 · Imparando si sbaglia
+- **Happened:** Kevin runs a trial cooking lesson at Bar Tigli on Saturday for family members posing as foreign students; he plans a real course next Saturday for three foreigners (German woman, Japanese engineer, American student). Leo gets 8 on his Italian test; Emma's handwritten grammar corrections, found in Leo's notebook by teacher Paola, are photocopied as a class model.
+- **New facts:** Kevin's Italian-course teacher at the Centro civico is Alberto, an adult class. Kevin keeps a yellow notebook of teaching notes; his first entry names Emma as "allievo numero uno." Matteo's Bar Tigli has a scarred pan, one pot, one ladle, and a small oven. Lucia bakes biscuits; Kevin calls her Franco's fiancée in front of Alberto.
+- **Changed:** Emma now thinks and explains in Italian without translating; Chiara notices. Franco accepts Kevin's teaching attempt and says he'll attend the real Saturday lesson. Kevin's doubts about having a method turn into a four-point plan (calm, consistency, no shame, let students talk).
+- **Planted:** Franco promising to attend the real foreign-student lesson (next chapter). Kevin's fear it will go worse than the family trial.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
