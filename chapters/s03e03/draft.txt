@@ -27,7 +27,7 @@ la piscina | noun | f | swimming pool | piscina, piscine
 il gesso | noun | m | chalk | gesso, gessi
 @end
 
-# SCENE casa-franco | domenica, ora di pranzo | franco, lucia, chiara, matteo, kevin, leo
+# SCENE casa-franco | domenica, ora di pranzo | franco, lucia, chiara, matteo, ben, leo
 È domenica, e nella casa di Franco c'è odore di ragù. || It's Sunday, and in Franco's house there's the smell of ragù.
 La tavola è apparecchiata per sei persone. || The table is set for six people.
 Leo arriva per primo e si siede accanto al nonno. || Leo arrives first and sits next to his grandfather.
@@ -61,7 +61,7 @@ _Registro. Pagella. Cattedra._{ben} pensa Kevin. _Tre parole nuove in tre minuti
 «Nel **cortile** sì, ma solo dieci minuti»{lucia} dice lei. «E poi di nuovo in classe.»{lucia} || “In the **courtyard**, yes, but only ten minutes,” she says. “And then back to class.”
 Chiara taglia il pane e sorride, ma non a Lucia. || Chiara cuts the bread and smiles, but not at Lucia.
 «Scusate, ma io una cosa la ricordo bene»{chiara} dice Chiara. || “Sorry, but there's one thing I remember well,” says Chiara.
-«**Ogni estate**, in macchina, verso la Liguria, io e Matteo **dovevamo** **imparare a memoria** una **poesia**.»{chiara} || “**Every summer**, in the car, toward Liguria, Matteo and I **had to** **learn a poem by heart**.”
+«Ogni estate, in macchina, verso la Liguria, io e Matteo dovevamo imparare a memoria una poesia.»{chiara} || “Every summer, in the car, toward Liguria, Matteo and I had to learn a poem by heart.”
 «Una **poesia**?»{matteo} chiede Matteo. «Io ricordo una **filastrocca**.»{matteo} || “A **poem**?” asks Matteo. “I remember a **nursery rhyme**.”
 «Una **poesia**»{chiara|firm} ripete Chiara. «La mamma aveva il libro sul cruscotto.»{chiara} || “A **poem**,” repeats Chiara. “Mom had the book on the dashboard.”
 «No, era una **filastrocca** sui mesi»{matteo} dice Matteo. «E io la dicevo tutta, anche a luglio.»{matteo} || “No, it was a **nursery rhyme** about the months,” says Matteo. “And I recited the whole thing, even in July.”
@@ -109,7 +109,7 @@ Leo finisce il pane e chiede ancora una volta: «Ma il nonno viene giovedì?»{l
 «Il nonno viene»{franco} dice Franco. || “Grandpa is coming,” says Franco.
 Leo alza il bicchiere e brinda con l'acqua. || Leo raises his glass and toasts with water.
 
-# SCENE bar-tigli | lunedì mattina, sei e mezza | matteo, kevin, nadia
+# SCENE bar-tigli | lunedì mattina, sei e mezza | matteo, ben, nadia
 Sono le sei e mezza di lunedì mattina. || It's six thirty on Monday morning.
 Kevin apre il Bar Tigli e accende la luce. || Kevin opens Bar Tigli and turns on the light.
 Fuori è ancora buio, e la strada è silenziosa. || Outside it's still dark, and the street is silent.
@@ -155,7 +155,7 @@ Nadia si siede su uno sgabello e appoggia le mani sulla pancia. || Nadia sits on
 «Non litighiamo, discutiamo»{matteo} dice Matteo. || “We're not arguing, we're discussing,” says Matteo.
 «Discutete»{nadia|dry} dice Nadia. «Come i bambini di mio cugino.»{nadia} || “You discuss,” says Nadia. “Like my cousin's kids.”
 «E tu, **ogni estate**, dove andavi?»{ben} chiede Kevin. || “And you, **every summer**, where did you go?” asks Kevin.
-«In Tunisia, dai miei nonni»{nadia} dice Nadia. «**Ogni estate**, sempre.»{nadia} || “To Tunisia, to my grandparents,” says Nadia. “**Every summer**, always.”
+«In Marocco, dai miei nonni»{nadia} dice Nadia. «**Ogni estate**, sempre.»{nadia} || “To Morocco, to my grandparents,” says Nadia. “**Every summer**, always.”
 «E c'era una **piscina**?»{ben} chiede Kevin. || “And was there a swimming **pool**?” asks Kevin.
 «No, mai una **piscina**»{nadia} dice Nadia. «Il mare, e basta.»{nadia} || “No, never a **pool**,” says Nadia. “The sea, and that's it.”
 «**Facevamo il bagno** alle sei del mattino»{nadia} dice. «Prima di colazione.»{nadia} || “**We went in the water** at six in the morning,” she says. “Before breakfast.”
@@ -163,7 +163,7 @@ Nadia si siede su uno sgabello e appoggia le mani sulla pancia. || Nadia sits on
 «Alle sei. Alle otto il sole era troppo forte»{nadia} dice Nadia. || “At six. By eight the sun was too strong,” says Nadia.
 «Io **facevo il bagno** **ogni estate** in un lago»{ben} dice Kevin. || “I **went in the water** **every summer** in a lake,” says Kevin.
 Nadia lo guarda e aspetta. || Nadia looks at him and waits.
-«Al lago»{matteo} corregge Matteo. «Si dice **al lago**, non in un lago.»{matteo} || “**To the lake**,” corrects Matteo. “You say **al lago**, not *in un lago*.”
+«Al lago»{matteo} corregge Matteo. «Si dice al lago, non in un lago.»{matteo} || “To the lake,” corrects Matteo. “You say al lago, not *in un lago*.”
 «Al lago. **Facevo il bagno** al lago»{ben|careful} ripete Kevin. || “To the lake. I **went in the water** at the lake,” repeats Kevin.
 _Al lago. Al lago. Non in un lago._{ben} || *Al lago. Al lago. Not in un lago.*
 Kevin prende il quaderno giallo e scrive. || Kevin takes the yellow notebook and writes.
@@ -206,9 +206,9 @@ Franco si siede su una sedia piccola, vicino alla **cattedra**. || Franco sits o
 La maestra Paola batte le mani e i bambini si mettono a sedere. || Teacher Paola claps her hands and the children sit down.
 «Oggi abbiamo un ospite speciale»{maestra-paola|warm} dice la maestra. «Il signor Ferri, il nonno di Leo.»{maestra-paola} || “Today we have a special guest,” says the teacher. “Mr. Ferri, Leo's grandfather.”
 Franco si alza un po' e tutti battono le mani. || Franco half stands up and everyone claps.
-«Grazie»{franco|gruff} dice Franco. «Io sono del 1950.»{franco} || “Thank you,” says Franco. “I was born in 1950.”
+«Grazie»{franco|gruff} dice Franco. «Io sono del 1955.»{franco} || “Thank you,” says Franco. “I was born in 1955.”
 «Ohhh»{bambino|surprised} dice un bambino. || “Ohhh,” says a child.
-«E nel 1960 andavo a scuola come voi»{franco} dice Franco. «Ma era una scuola diversa.»{franco} || “And in 1960 I went to school like you,” says Franco. “But it was a different school.”
+«E nel 1961 andavo a scuola come voi»{franco} dice Franco. «Ma era una scuola diversa.»{franco} || “And in 1961 I went to school like you,” says Franco. “But it was a different school.”
 «Diversa come?»{leo} chiede Leo. || “Different how?” asks Leo.
 «Primo: la **cartella**»{franco} dice Franco. || “First: the **schoolbag**,” says Franco.
 Franco disegna una forma nell'aria con le mani. || Franco draws a shape in the air with his hands.
@@ -292,14 +292,14 @@ I bambini ridono di nuovo, e Franco quasi sorride. || The children laugh again, 
 Leo prende lo **zaino** e lo apre davanti al nonno. || Leo takes his **backpack** and opens it in front of his grandfather.
 «Guarda, nonno. C'è un astuccio nuovo»{leo} dice Leo. || “Look, Grandpa. There's a new pencil case,” says Leo.
 Franco guarda dentro lo **zaino** e scuote la testa. || Franco looks inside the **backpack** and shakes his head.
-«Un astuccio?»{franco} dice. «Nel 1960 nessuno aveva un astuccio.»{franco} || “A pencil case?” he says. “In 1960 nobody had a pencil case.”
+«Un astuccio?»{franco} dice. «Nel 1961 nessuno aveva un astuccio.»{franco} || “A pencil case?” he says. “In 1961 nobody had a pencil case.”
 «E come portavi la penna?»{leo} chiede Leo. || “And how did you carry your pen?” asks Leo.
 «In tasca. Con l'**inchiostro** che usciva»{franco} dice Franco. || “In my pocket. With the **ink** leaking out,” says Franco.
 Leo chiude lo **zaino** e lo mette sulle spalle. || Leo closes his **backpack** and puts it on his shoulders.
 «Allora sei vecchio»{leo} dice Leo, molto serio. || “Then you're old,” says Leo, very serious.
 «Grazie, Leo»{franco|dry} dice Franco. || “Thank you, Leo,” says Franco.
 
-# SCENE casa-carter | giovedì sera | chiara, matteo, kevin, leo
+# SCENE casa-carter | giovedì sera | chiara, matteo, ben, leo
 Giovedì sera, nella cucina dei Carter c'è la luce accesa e la tavola sparecchiata. || Thursday evening, in the Carters' kitchen the light is on and the table is cleared.
 Leo disegna su un foglio, seduto al tavolo. || Leo draws on a sheet of paper, sitting at the table.
 Kevin lava i piatti e Chiara asciuga. || Kevin washes the dishes and Chiara dries.
@@ -365,7 +365,7 @@ Matteo mette una mano nella scatola e prende la **conchiglia**. || Matteo puts a
 «Guarda qui»{matteo} dice. «C'è ancora la **sabbia** dentro.»{matteo} || “Look here,” he says. “There's still **sand** inside.”
 Chiara prende la **conchiglia** e la gira tra le dita. || Chiara takes the **seashell** and turns it in her fingers.
 Poi la mette sul tavolo, molto piano. || Then she puts it on the table, very slowly.
-«Ogni estate portavamo un po' di **sabbia** a casa»{chiara} dice Chiara. || “**Every summer** we brought a little **sand** home,” says Chiara.
+«Ogni estate portavamo un po' di sabbia a casa»{chiara} dice Chiara. || “Every summer we brought a little sand home,” says Chiara.
 «E **facevamo il bagno** anche alle sette di sera»{matteo} dice Matteo. «Ti ricordi?»{matteo} || “And **we went in the water** even at seven in the evening,” says Matteo. “Do you remember?”
 «Mi ricordo. Con il costume bagnato e i capelli duri»{chiara} dice Chiara. || “I remember. With a wet swimsuit and stiff hair,” says Chiara.
 Kevin scrive nel quaderno giallo, sopra lo **zaino** di Leo. || Kevin writes in the yellow notebook, on top of Leo's **backpack**.
@@ -402,11 +402,11 @@ Poi Kevin prende la scatola e guarda la fotografia in bianco e nero. || Then Kev
 Leo conta le fotografie e le mette in fila sul tavolo. || Leo counts the photographs and lines them up on the table.
 «Il nonno oggi ha detto una cosa importante»{leo} dice Leo. || “Grandpa said something important today,” says Leo.
 «Che cosa?»{chiara} chiede Chiara. || “What?” asks Chiara.
-«Che nel 1960 si doveva sempre **obbedire**»{leo|serious} dice Leo. «Sempre.»{leo} || “That in 1960 you always had to **obey**,” says Leo. “Always.”
+«Che nel 1961 si doveva sempre **obbedire**»{leo|serious} dice Leo. «Sempre.»{leo} || “That in 1961 you always had to **obey**,” says Leo. “Always.”
 «Sempre?»{matteo} chiede Matteo. || “Always?” asks Matteo.
 «Sempre. E se uno non **obbediva**, non poteva nemmeno dirlo a casa»{leo} dice Leo. || “Always. And if someone didn't **obey**, he couldn't even say it at home,” says Leo.
 «Non poteva?»{ben} chiede Kevin. || “He couldn't?” asks Kevin.
-«No»{leo|very serious} dice Leo. «Nel 1960 non si poteva **obbedire** male.»{leo} || “No,” says Leo. “In 1960 you couldn't **obey** badly.”
+«No»{leo|very serious} dice Leo. «Nel 1961 non si poteva **obbedire** male.»{leo} || “No,” says Leo. “In 1961 you couldn't **obey** badly.”
 Tutti si fermano e lo guardano. || Everyone stops and looks at him.
 «Che cosa?»{chiara} chiede Chiara. || “What?” asks Chiara.
 «Si poteva **obbedire** o non **obbedire**»{leo} dice Leo. «Non c'erano altre possibilità.»{leo} || “You could **obey** or not **obey**,” says Leo. “There were no other possibilities.”
@@ -416,7 +416,7 @@ Chiara mette la fotografia nella scatola e chiude il coperchio. || Chiara puts t
 «Domani portiamo la scatola al nonno»{chiara} dice Chiara. || “Tomorrow we'll take the box to Grandpa,” says Chiara.
 «E chiediamo a lui»{matteo} dice Matteo. «Basta con le discussioni.»{matteo} || “And we'll ask him,” says Matteo. “Enough with the arguments.”
 
-# SCENE casa-franco | venerdì pomeriggio | franco, chiara, matteo
+# SCENE casa-franco | venerdì pomeriggio | franco, chiara, matteo, ben
 Venerdì pomeriggio Franco è nel suo **cortile** con la zappa in mano. || Friday afternoon Franco is in his **courtyard** with the hoe in his hand.
 L'orto dorme, ma lui guarda lo stesso le piante. || The vegetable garden is asleep, but he still looks at the plants.
 Chiara e Matteo arrivano insieme, con la scatola di scarpe. || Chiara and Matteo arrive together, with the shoe box.
@@ -441,9 +441,9 @@ Franco si siede sul gradino accanto a loro. || Franco sits on the step next to t
 «Era lungo perché tu piangevi»{chiara} dice Chiara. || “It was long because you were crying,” says Chiara.
 «Piangevo perché era lungo»{matteo} dice Matteo. || “I was crying because it was long,” says Matteo.
 Franco alza una mano e loro si fermano. || Franco raises a hand and they stop.
-«La **pensione** era a Levanto»{franco} dice Franco. «La stessa **pensione**, trent'anni.»{franco} || “The **guesthouse** was in Levanto,” says Franco. “The same **guesthouse**, for thirty years.”
+«La **pensione** era a Levanto»{franco} dice Franco. «La stessa **pensione**, vent'anni.»{franco} || “The **guesthouse** was in Levanto,” says Franco. “The same **guesthouse**, for twenty years.”
 «Trent'anni?»{chiara} chiede Chiara. || “Thirty years?” asks Chiara.
-«Trent'anni. Con la signora Elena e il cane»{franco} dice Franco. || “Thirty years. With signora Elena and the dog,” says Franco.
+«Vent'anni. Con la signora Elena e il cane»{franco} dice Franco. || “Twenty years. With signora Elena and the dog,” says Franco.
 «E avevamo sempre lo stesso tavolo?»{chiara} chiede Chiara. || “And did we always have the same table?” asks Chiara.
 «Lo stesso tavolo, **ogni estate**, vicino alla finestra»{franco} dice Franco. || “The same table, **every summer**, near the window,” says Franco.
 «Lo sapevo»{chiara|quiet} dice Chiara. || “I knew it,” says Chiara.
@@ -462,7 +462,7 @@ Chiara prende la **conchiglia** dalla scatola. || Chiara takes the **seashell** 
 «E perché l'abbiamo tenuta?»{chiara} chiede Chiara. || “And why did we keep it?” asks Chiara.
 «Perché la **sabbia** era diversa»{franco} dice Franco. || “Because the **sand** was different,” says Franco.
 Franco prende la **conchiglia** e la guarda contro la luce. || Franco takes the **seashell** and looks at it against the light.
-«La **sabbia** di quella spiaggia era scura»{franco} dice Franco. «Più scura di quella della **piscina**.»{franco} || “The **sand** of that beach was dark,” says Franco. “Darker than the **sand** of the **pool**.”
+«La sabbia di quella spiaggia era scura»{franco} dice Franco. «Più scura di quella della piscina.»{franco} || “The sand of that beach was dark,” says Franco. “Darker than the sand of the pool.”
 «C'era una **piscina** a Levanto?»{matteo} chiede Matteo. || “Was there a **pool** in Levanto?” asks Matteo.
 «Nella **pensione**, sì. Piccola»{franco} dice Franco. «Ma voi **facevate** il bagno dentro solo quando pioveva.»{franco} || “In the **guesthouse**, yes. A small one,” says Franco. “But you only **went in the water** there when it rained.”
 «E nel mare?»{chiara} chiede Chiara. || “And in the sea?” asks Chiara.
@@ -512,7 +512,7 @@ Franco lo guarda e gli fa un cenno con la testa. || Franco looks at him and nods
 «Kevin, tre caffè»{franco} dice Franco. || “Kevin, three coffees,” says Franco.
 «Tre caffè. Perfetto»{ben} dice Kevin, e va verso la cucina. || “Three coffees. Perfect,” says Kevin, and heads toward the kitchen.
 
-# SCENE bar-tigli | sabato mattina | chiara, matteo, nadia, kevin
+# SCENE bar-tigli | sabato mattina | chiara, matteo, nadia, ben
 Sabato mattina il Bar Tigli è pieno di gente e di rumore. || Saturday morning Bar Tigli is full of people and noise.
 Kevin è dietro il bancone e prepara i caffè. || Kevin is behind the counter making the coffees.
 Chiara e Matteo sono seduti al banco, uno accanto all'altro. || Chiara and Matteo are sitting at the counter, one next to the other.
@@ -522,8 +522,8 @@ Nadia arriva dalla cucina con una sedia e si siede anche lei. || Nadia comes fro
 Bevono in silenzio per un momento. || They drink in silence for a moment.
 «Sai che ti dico?»{matteo} dice Matteo. «Le estati erano belle.»{matteo} || “You know what?” says Matteo. “The summers were good.”
 «Erano belle»{chiara} dice Chiara. «E la **pensione** non era male.»{chiara} || “They were good,” says Chiara. “And the **guesthouse** wasn't bad.”
-«Non era male per niente»{matteo} dice Matteo. «Trent'anni, la stessa signora Elena.»{matteo} || “It wasn't bad at all,” says Matteo. “Thirty years, the same signora Elena.”
-«Trent'anni di **agosto**»{chiara} dice Chiara. || “Thirty years of **August**,” says Chiara.
+«Non era male per niente»{matteo} dice Matteo. «Vent'anni, la stessa signora Elena.»{matteo} || “It wasn't bad at all,” says Matteo. “Twenty years, the same signora Elena.”
+«Vent'anni di **agosto**»{chiara} dice Chiara. || “Twenty years of **August**,” says Chiara.
 «**Ogni estate**, sempre lo stesso tavolo»{matteo} dice Matteo. || “**Every summer**, always the same table,” says Matteo.
 Nadia appoggia la tazza sul bancone. || Nadia rests her cup on the counter.
 «Adesso le regole arrivano a casa nostra»{nadia} dice Nadia. «Con il bambino.»{nadia} || “Now the rules are coming to our house,” says Nadia. “With the baby.”
@@ -567,7 +567,7 @@ Leo mette giù l'innaffiatoio e racconta la sua settimana. || Leo puts down the 
 «E avevate venti minuti di ricreazione?»{leo} chiede Leo. || “And did you have twenty minutes of recess?” asks Leo.
 «Dieci»{franco} dice Franco. || “Ten,” says Franco.
 Leo pensa un momento e poi fa la domanda importante. || Leo thinks for a moment and then asks the important question.
-«Nonno, la merenda nel 1960 era più buona?»{leo} chiede Leo. || “Grandpa, was the snack in 1960 better?” asks Leo.
+«Nonno, la merenda nel 1961 era più buona?»{leo} chiede Leo. || “Grandpa, was the snack in 1961 better?” asks Leo.
 «Era diversa»{franco} dice Franco. «Non migliore. Diversa, come tutto.»{franco} || “It was different,” says Franco. “Not better. Different, like everything.”
 «E le **tabelline** le sai ancora?»{leo} chiede Leo. || “And do you still know the **times tables**?” asks Leo.
 «Le ho **imparate a memoria** a scuola»{franco} dice Franco. «E le ho ancora in testa.»{franco} || “I **learned them by heart** at school,” says Franco. “And I still have them in my head.”

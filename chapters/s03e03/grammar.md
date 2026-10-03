@@ -52,10 +52,10 @@ The imperfetto contrasts with what you do *now*. To talk about a present habit, 
 
 ## From the story
 
-«**Ogni estate**, in macchina, verso la Liguria, io e Matteo **dovevamo** **imparare a memoria** una **poesia**.» — “**Every summer**, in the car, toward Liguria, Matteo and I **had to** **learn a poem by heart**.” (`s03e03-1-034`) — *ogni estate* + imperfetto: a habit repeated for years.
+«Ogni estate, in macchina, verso la Liguria, io e Matteo dovevamo imparare a memoria una poesia.» — “Every summer, in the car, toward Liguria, Matteo and I had to learn a poem by heart.” (`s03e03-1-034`) — *ogni estate* + imperfetto: a habit repeated for years.
 «Quasi tutti» dice Lucia. «Qualcuno, **ogni estate**, tornava a settembre e dimenticava tutto.» — “Almost all of them,” says Lucia. “Someone, **every summer**, came back in September and forgot everything.” (`s03e03-1-025`) — the same pattern, with a third-person subject.
 «Da bambino ci **andavo** **ogni estate** con mia madre» dice Franco, all'improvviso. — “As a boy I **used to go** there **every summer** with my mother,” says Franco, suddenly. (`s03e03-1-066`) — *da bambino* + *ogni estate* + *andavo*: the classic "used to" sentence.
-«Ogni estate portavamo un po' di **sabbia** a casa» dice Chiara. — “**Every summer** we brought a little **sand** home,” says Chiara. (`s03e03-4-066`) — *portavamo*: we did this every single year.
+«Ogni estate portavamo un po' di sabbia a casa» dice Chiara. — “Every summer we brought a little sand home,” says Chiara. (`s03e03-4-066`) — *portavamo*: we did this every single year.
 «**Facevamo il bagno** alle sei del mattino» dice. «Prima di colazione.» — “**We went in the water** at six in the morning,” she says. “Before breakfast.” (`s03e03-2-049`) — Nadia's Tunisian summers: a repeated habit, not one swim.
 «Io **ogni estate**, da bambino, mettevo le conchiglie nello **zaino**» dice Kevin. — “I, **every summer**, as a boy, put the shells in my **backpack**,” says Kevin. (`s03e03-2-077`) — Kevin, in his Italian, uses the imperfetto correctly here.
 «**Ogni estate**, l'ultimo giorno, vostra madre piangeva» dice Franco. — “**Every summer**, on the last day, your mother cried,” says Franco. (`s03e03-5-064`) — Anna's yearly tears: habit and emotion together.

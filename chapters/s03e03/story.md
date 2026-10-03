@@ -48,7 +48,7 @@ Kevin ascolta e scrive piano sul suo quaderno giallo. _Registro. Pagella. Catted
 
 «Nel **cortile** sì, ma solo dieci minuti» dice lei. «E poi di nuovo in classe.»
 
-Chiara taglia il pane e sorride, ma non a Lucia. «Scusate, ma io una cosa la ricordo bene» dice Chiara. «**Ogni estate**, in macchina, verso la Liguria, io e Matteo **dovevamo** **imparare a memoria** una **poesia**.»
+Chiara taglia il pane e sorride, ma non a Lucia. «Scusate, ma io una cosa la ricordo bene» dice Chiara. «Ogni estate, in macchina, verso la Liguria, io e Matteo dovevamo imparare a memoria una poesia.»
 
 «Una **poesia**?» chiede Matteo. «Io ricordo una **filastrocca**.»
 
@@ -170,7 +170,7 @@ In quel momento scendono i passi di Nadia. Nadia è incinta di cinque mesi e cam
 
 «E tu, **ogni estate**, dove andavi?» chiede Kevin.
 
-«In Tunisia, dai miei nonni» dice Nadia. «**Ogni estate**, sempre.»
+«In Marocco, dai miei nonni» dice Nadia. «**Ogni estate**, sempre.»
 
 «E c'era una **piscina**?» chiede Kevin.
 
@@ -182,7 +182,7 @@ In quel momento scendono i passi di Nadia. Nadia è incinta di cinque mesi e cam
 
 «Io **facevo il bagno** **ogni estate** in un lago» dice Kevin. Nadia lo guarda e aspetta.
 
-«Al lago» corregge Matteo. «Si dice **al lago**, non in un lago.»
+«Al lago» corregge Matteo. «Si dice al lago, non in un lago.»
 
 «Al lago. **Facevo il bagno** al lago» ripete Kevin. _Al lago. Al lago. Non in un lago._ Kevin prende il quaderno giallo e scrive. Scrive la parola **villeggiatura** con una riga sotto.
 
@@ -232,11 +232,11 @@ Giovedì mattina, nella classe di Leo c'è un'aria speciale. I banchi sono in fi
 
 «Oggi abbiamo un ospite speciale» dice la maestra. «Il signor Ferri, il nonno di Leo.»
 
-Franco si alza un po' e tutti battono le mani. «Grazie» dice Franco. «Io sono del 1950.»
+Franco si alza un po' e tutti battono le mani. «Grazie» dice Franco. «Io sono del 1955.»
 
 «Ohhh» dice un bambino.
 
-«E nel 1960 andavo a scuola come voi» dice Franco. «Ma era una scuola diversa.»
+«E nel 1961 andavo a scuola come voi» dice Franco. «Ma era una scuola diversa.»
 
 «Diversa come?» chiede Leo.
 
@@ -366,7 +366,7 @@ Franco pensa un momento e poi risponde. «No. Era più **severa**» dice Franco.
 
 Leo prende lo **zaino** e lo apre davanti al nonno. «Guarda, nonno. C'è un astuccio nuovo» dice Leo.
 
-Franco guarda dentro lo **zaino** e scuote la testa. «Un astuccio?» dice. «Nel 1960 nessuno aveva un astuccio.»
+Franco guarda dentro lo **zaino** e scuote la testa. «Un astuccio?» dice. «Nel 1961 nessuno aveva un astuccio.»
 
 «E come portavi la penna?» chiede Leo.
 
@@ -462,7 +462,7 @@ Kevin si ferma con il bicchiere in mano. «Sulla **sabbia**?» chiede Kevin.
 
 Matteo mette una mano nella scatola e prende la **conchiglia**. «Guarda qui» dice. «C'è ancora la **sabbia** dentro.» Chiara prende la **conchiglia** e la gira tra le dita. Poi la mette sul tavolo, molto piano.
 
-«Ogni estate portavamo un po' di **sabbia** a casa» dice Chiara.
+«Ogni estate portavamo un po' di sabbia a casa» dice Chiara.
 
 «E **facevamo il bagno** anche alle sette di sera» dice Matteo. «Ti ricordi?»
 
@@ -508,7 +508,7 @@ Leo conta le fotografie e le mette in fila sul tavolo. «Il nonno oggi ha detto 
 
 «Che cosa?» chiede Chiara.
 
-«Che nel 1960 si doveva sempre **obbedire**» dice Leo. «Sempre.»
+«Che nel 1961 si doveva sempre **obbedire**» dice Leo. «Sempre.»
 
 «Sempre?» chiede Matteo.
 
@@ -516,7 +516,7 @@ Leo conta le fotografie e le mette in fila sul tavolo. «Il nonno oggi ha detto 
 
 «Non poteva?» chiede Kevin.
 
-«No» dice Leo. «Nel 1960 non si poteva **obbedire** male.» Tutti si fermano e lo guardano.
+«No» dice Leo. «Nel 1961 non si poteva **obbedire** male.» Tutti si fermano e lo guardano.
 
 «Che cosa?» chiede Chiara.
 
@@ -560,11 +560,11 @@ Chiara e Matteo si guardano. «Perché non ce l'hai detto prima?» chiede Matteo
 
 «Piangevo perché era lungo» dice Matteo.
 
-Franco alza una mano e loro si fermano. «La **pensione** era a Levanto» dice Franco. «La stessa **pensione**, trent'anni.»
+Franco alza una mano e loro si fermano. «La **pensione** era a Levanto» dice Franco. «La stessa **pensione**, vent'anni.»
 
 «Trent'anni?» chiede Chiara.
 
-«Trent'anni. Con la signora Elena e il cane» dice Franco.
+«Vent'anni. Con la signora Elena e il cane» dice Franco.
 
 «E avevamo sempre lo stesso tavolo?» chiede Chiara.
 
@@ -594,7 +594,7 @@ Chiara prende la **conchiglia** dalla scatola. «E questa?» chiede Chiara.
 
 «E perché l'abbiamo tenuta?» chiede Chiara.
 
-«Perché la **sabbia** era diversa» dice Franco. Franco prende la **conchiglia** e la guarda contro la luce. «La **sabbia** di quella spiaggia era scura» dice Franco. «Più scura di quella della **piscina**.»
+«Perché la **sabbia** era diversa» dice Franco. Franco prende la **conchiglia** e la guarda contro la luce. «La sabbia di quella spiaggia era scura» dice Franco. «Più scura di quella della piscina.»
 
 «C'era una **piscina** a Levanto?» chiede Matteo.
 
@@ -676,9 +676,9 @@ Sabato mattina il Bar Tigli è pieno di gente e di rumore. Kevin è dietro il ba
 
 «Erano belle» dice Chiara. «E la **pensione** non era male.»
 
-«Non era male per niente» dice Matteo. «Trent'anni, la stessa signora Elena.»
+«Non era male per niente» dice Matteo. «Vent'anni, la stessa signora Elena.»
 
-«Trent'anni di **agosto**» dice Chiara.
+«Vent'anni di **agosto**» dice Chiara.
 
 «**Ogni estate**, sempre lo stesso tavolo» dice Matteo.
 
@@ -744,7 +744,7 @@ Leo mette giù l'innaffiatoio e racconta la sua settimana. «A scuola abbiamo un
 
 «Dieci» dice Franco.
 
-Leo pensa un momento e poi fa la domanda importante. «Nonno, la merenda nel 1960 era più buona?» chiede Leo.
+Leo pensa un momento e poi fa la domanda importante. «Nonno, la merenda nel 1961 era più buona?» chiede Leo.
 
 «Era diversa» dice Franco. «Non migliore. Diversa, come tutto.»
 

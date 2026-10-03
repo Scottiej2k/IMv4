@@ -4061,12 +4061,12 @@
             },
             {
               "id": "s03e03-1-034",
-              "it": "«**Ogni estate**, in macchina, verso la Liguria, io e Matteo **dovevamo** **imparare a memoria** una **poesia**.»",
-              "en": "“**Every summer**, in the car, toward Liguria, Matteo and I **had to** **learn a poem by heart**.”",
+              "it": "«Ogni estate, in macchina, verso la Liguria, io e Matteo dovevamo imparare a memoria una poesia.»",
+              "en": "“Every summer, in the car, toward Liguria, Matteo and I had to learn a poem by heart.”",
               "voice": [
                 [
                   "chiara",
-                  "**Ogni estate**, in macchina, verso la Liguria, io e Matteo **dovevamo** **imparare a memoria** una **poesia**.",
+                  "Ogni estate, in macchina, verso la Liguria, io e Matteo dovevamo imparare a memoria una poesia.",
                   ""
                 ]
               ],
@@ -4079,17 +4079,17 @@
                 [
                   "Ogni",
                   0,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "estate",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -4179,7 +4179,7 @@
                 [
                   "dovevamo",
                   10,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -4189,27 +4189,27 @@
                 [
                   "imparare",
                   11,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "a",
                   12,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "memoria",
                   13,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -4229,19 +4229,13 @@
                 [
                   "poesia",
                   15,
-                  "b"
+                  ""
                 ],
                 [
                   ".»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-ogni-estate",
-                "g-imperfetto-habits",
-                "v-imparare-a-memoria",
-                "v-poesia"
               ]
             }
           ]
@@ -14529,12 +14523,12 @@
           "segments": [
             {
               "id": "s03e03-2-046",
-              "it": "«In Tunisia, dai miei nonni» dice Nadia. «**Ogni estate**, sempre.»",
-              "en": "“To Tunisia, to my grandparents,” says Nadia. “**Every summer**, always.”",
+              "it": "«In Marocco, dai miei nonni» dice Nadia. «**Ogni estate**, sempre.»",
+              "en": "“To Morocco, to my grandparents,” says Nadia. “**Every summer**, always.”",
               "voice": [
                 [
                   "nadia",
-                  "In Tunisia, dai miei nonni",
+                  "In Marocco, dai miei nonni",
                   ""
                 ],
                 [
@@ -14565,7 +14559,7 @@
                   ""
                 ],
                 [
-                  "Tunisia",
+                  "Marocco",
                   1,
                   ""
                 ],
@@ -15446,8 +15440,8 @@
           "segments": [
             {
               "id": "s03e03-2-054",
-              "it": "«Al lago» corregge Matteo. «Si dice **al lago**, non in un lago.»",
-              "en": "“**To the lake**,” corrects Matteo. “You say **al lago**, not _in un lago_.”",
+              "it": "«Al lago» corregge Matteo. «Si dice al lago, non in un lago.»",
+              "en": "“To the lake,” corrects Matteo. “You say al lago, not _in un lago_.”",
               "voice": [
                 [
                   "matteo",
@@ -15461,7 +15455,7 @@
                 ],
                 [
                   "matteo",
-                  "Si dice **al lago**, non in un lago.",
+                  "Si dice al lago, non in un lago.",
                   ""
                 ]
               ],
@@ -15534,17 +15528,17 @@
                 [
                   "al",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "lago",
                   7,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -15591,9 +15585,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-imperfetto-habits"
               ]
             }
           ]
@@ -20023,8 +20014,8 @@
             },
             {
               "id": "s03e03-3-010",
-              "it": "«Grazie» dice Franco. «Io sono del 1950.»",
-              "en": "“Thank you,” says Franco. “I was born in 1950.”",
+              "it": "«Grazie» dice Franco. «Io sono del 1955.»",
+              "en": "“Thank you,” says Franco. “I was born in 1955.”",
               "voice": [
                 [
                   "franco",
@@ -20038,7 +20029,7 @@
                 ],
                 [
                   "franco",
-                  "Io sono del 1950.",
+                  "Io sono del 1955.",
                   ""
                 ]
               ],
@@ -20109,7 +20100,7 @@
                   ""
                 ],
                 [
-                  "1950",
+                  "1955",
                   6,
                   ""
                 ],
@@ -20194,12 +20185,12 @@
           "segments": [
             {
               "id": "s03e03-3-012",
-              "it": "«E nel 1960 andavo a scuola come voi» dice Franco. «Ma era una scuola diversa.»",
-              "en": "“And in 1960 I went to school like you,” says Franco. “But it was a different school.”",
+              "it": "«E nel 1961 andavo a scuola come voi» dice Franco. «Ma era una scuola diversa.»",
+              "en": "“And in 1961 I went to school like you,” says Franco. “But it was a different school.”",
               "voice": [
                 [
                   "franco",
-                  "E nel 1960 andavo a scuola come voi",
+                  "E nel 1961 andavo a scuola come voi",
                   ""
                 ],
                 [
@@ -20240,7 +20231,7 @@
                   ""
                 ],
                 [
-                  "1960",
+                  "1961",
                   2,
                   ""
                 ],
@@ -29748,8 +29739,8 @@
             },
             {
               "id": "s03e03-3-096",
-              "it": "«Un astuccio?» dice. «Nel 1960 nessuno aveva un astuccio.»",
-              "en": "“A pencil case?” he says. “In 1960 nobody had a pencil case.”",
+              "it": "«Un astuccio?» dice. «Nel 1961 nessuno aveva un astuccio.»",
+              "en": "“A pencil case?” he says. “In 1961 nobody had a pencil case.”",
               "voice": [
                 [
                   "franco",
@@ -29763,7 +29754,7 @@
                 ],
                 [
                   "franco",
-                  "Nel 1960 nessuno aveva un astuccio.",
+                  "Nel 1961 nessuno aveva un astuccio.",
                   ""
                 ]
               ],
@@ -29814,7 +29805,7 @@
                   ""
                 ],
                 [
-                  "1960",
+                  "1961",
                   4,
                   ""
                 ],
@@ -37249,12 +37240,12 @@
           "segments": [
             {
               "id": "s03e03-4-066",
-              "it": "«Ogni estate portavamo un po' di **sabbia** a casa» dice Chiara.",
-              "en": "“**Every summer** we brought a little **sand** home,” says Chiara.",
+              "it": "«Ogni estate portavamo un po' di sabbia a casa» dice Chiara.",
+              "en": "“Every summer we brought a little sand home,” says Chiara.",
               "voice": [
                 [
                   "chiara",
-                  "Ogni estate portavamo un po' di **sabbia** a casa",
+                  "Ogni estate portavamo un po' di sabbia a casa",
                   ""
                 ],
                 [
@@ -37332,7 +37323,7 @@
                 [
                   "sabbia",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -37379,9 +37370,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sabbia"
               ]
             }
           ]
@@ -41098,12 +41086,12 @@
           "segments": [
             {
               "id": "s03e03-4-103",
-              "it": "«Che nel 1960 si doveva sempre **obbedire**» dice Leo. «Sempre.»",
-              "en": "“That in 1960 you always had to **obey**,” says Leo. “Always.”",
+              "it": "«Che nel 1961 si doveva sempre **obbedire**» dice Leo. «Sempre.»",
+              "en": "“That in 1961 you always had to **obey**,” says Leo. “Always.”",
               "voice": [
                 [
                   "leo",
-                  "Che nel 1960 si doveva sempre **obbedire**",
+                  "Che nel 1961 si doveva sempre **obbedire**",
                   "serious"
                 ],
                 [
@@ -41144,7 +41132,7 @@
                   ""
                 ],
                 [
-                  "1960",
+                  "1961",
                   2,
                   ""
                 ],
@@ -41531,8 +41519,8 @@
           "segments": [
             {
               "id": "s03e03-4-107",
-              "it": "«No» dice Leo. «Nel 1960 non si poteva **obbedire** male.»",
-              "en": "“No,” says Leo. “In 1960 you couldn't **obey** badly.”",
+              "it": "«No» dice Leo. «Nel 1961 non si poteva **obbedire** male.»",
+              "en": "“No,” says Leo. “In 1961 you couldn't **obey** badly.”",
               "voice": [
                 [
                   "leo",
@@ -41546,7 +41534,7 @@
                 ],
                 [
                   "leo",
-                  "Nel 1960 non si poteva **obbedire** male.",
+                  "Nel 1961 non si poteva **obbedire** male.",
                   ""
                 ]
               ],
@@ -41597,7 +41585,7 @@
                   ""
                 ],
                 [
-                  "1960",
+                  "1961",
                   4,
                   ""
                 ],
@@ -42606,7 +42594,8 @@
       "characters": [
         "franco",
         "chiara",
-        "matteo"
+        "matteo",
+        "ben"
       ],
       "paragraphs": [
         {
@@ -45109,8 +45098,8 @@
             },
             {
               "id": "s03e03-5-025",
-              "it": "«La **pensione** era a Levanto» dice Franco. «La stessa **pensione**, trent'anni.»",
-              "en": "“The **guesthouse** was in Levanto,” says Franco. “The same **guesthouse**, for thirty years.”",
+              "it": "«La **pensione** era a Levanto» dice Franco. «La stessa **pensione**, vent'anni.»",
+              "en": "“The **guesthouse** was in Levanto,” says Franco. “The same **guesthouse**, for twenty years.”",
               "voice": [
                 [
                   "franco",
@@ -45124,7 +45113,7 @@
                 ],
                 [
                   "franco",
-                  "La stessa **pensione**, trent'anni.",
+                  "La stessa **pensione**, vent'anni.",
                   ""
                 ]
               ],
@@ -45235,7 +45224,7 @@
                   ""
                 ],
                 [
-                  "trent'anni",
+                  "vent'anni",
                   10,
                   ""
                 ],
@@ -45313,12 +45302,12 @@
           "segments": [
             {
               "id": "s03e03-5-027",
-              "it": "«Trent'anni. Con la signora Elena e il cane» dice Franco.",
-              "en": "“Thirty years. With signora Elena and the dog,” says Franco.",
+              "it": "«Vent'anni. Con la signora Elena e il cane» dice Franco.",
+              "en": "“Twenty years. With signora Elena and the dog,” says Franco.",
               "voice": [
                 [
                   "franco",
-                  "Trent'anni. Con la signora Elena e il cane",
+                  "Vent'anni. Con la signora Elena e il cane",
                   ""
                 ],
                 [
@@ -45334,7 +45323,7 @@
                   ""
                 ],
                 [
-                  "Trent'anni",
+                  "Vent'anni",
                   0,
                   ""
                 ],
@@ -47267,12 +47256,12 @@
             },
             {
               "id": "s03e03-5-046",
-              "it": "«La **sabbia** di quella spiaggia era scura» dice Franco. «Più scura di quella della **piscina**.»",
-              "en": "“The **sand** of that beach was dark,” says Franco. “Darker than the **sand** of the **pool**.”",
+              "it": "«La sabbia di quella spiaggia era scura» dice Franco. «Più scura di quella della piscina.»",
+              "en": "“The sand of that beach was dark,” says Franco. “Darker than the sand of the pool.”",
               "voice": [
                 [
                   "franco",
-                  "La **sabbia** di quella spiaggia era scura",
+                  "La sabbia di quella spiaggia era scura",
                   ""
                 ],
                 [
@@ -47282,7 +47271,7 @@
                 ],
                 [
                   "franco",
-                  "Più scura di quella della **piscina**.",
+                  "Più scura di quella della piscina.",
                   ""
                 ]
               ],
@@ -47305,7 +47294,7 @@
                 [
                   "sabbia",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -47435,17 +47424,13 @@
                 [
                   "piscina",
                   14,
-                  "b"
+                  ""
                 ],
                 [
                   ".»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sabbia",
-                "v-piscina"
               ]
             }
           ]
@@ -53341,8 +53326,8 @@
           "segments": [
             {
               "id": "s03e03-6-010",
-              "it": "«Non era male per niente» dice Matteo. «Trent'anni, la stessa signora Elena.»",
-              "en": "“It wasn't bad at all,” says Matteo. “Thirty years, the same signora Elena.”",
+              "it": "«Non era male per niente» dice Matteo. «Vent'anni, la stessa signora Elena.»",
+              "en": "“It wasn't bad at all,” says Matteo. “Twenty years, the same signora Elena.”",
               "voice": [
                 [
                   "matteo",
@@ -53356,7 +53341,7 @@
                 ],
                 [
                   "matteo",
-                  "Trent'anni, la stessa signora Elena.",
+                  "Vent'anni, la stessa signora Elena.",
                   ""
                 ]
               ],
@@ -53437,7 +53422,7 @@
                   ""
                 ],
                 [
-                  "Trent'anni",
+                  "Vent'anni",
                   7,
                   ""
                 ],
@@ -53494,12 +53479,12 @@
           "segments": [
             {
               "id": "s03e03-6-011",
-              "it": "«Trent'anni di **agosto**» dice Chiara.",
-              "en": "“Thirty years of **August**,” says Chiara.",
+              "it": "«Vent'anni di **agosto**» dice Chiara.",
+              "en": "“Twenty years of **August**,” says Chiara.",
               "voice": [
                 [
                   "chiara",
-                  "Trent'anni di **agosto**",
+                  "Vent'anni di **agosto**",
                   ""
                 ],
                 [
@@ -53515,7 +53500,7 @@
                   ""
                 ],
                 [
-                  "Trent'anni",
+                  "Vent'anni",
                   0,
                   ""
                 ],
@@ -57895,12 +57880,12 @@
             },
             {
               "id": "s03e03-7-015",
-              "it": "«Nonno, la merenda nel 1960 era più buona?» chiede Leo.",
-              "en": "“Grandpa, was the snack in 1960 better?” asks Leo.",
+              "it": "«Nonno, la merenda nel 1961 era più buona?» chiede Leo.",
+              "en": "“Grandpa, was the snack in 1961 better?” asks Leo.",
               "voice": [
                 [
                   "leo",
-                  "Nonno, la merenda nel 1960 era più buona?",
+                  "Nonno, la merenda nel 1961 era più buona?",
                   ""
                 ],
                 [
@@ -57956,7 +57941,7 @@
                   ""
                 ],
                 [
-                  "1960",
+                  "1961",
                   4,
                   ""
                 ],

@@ -41,7 +41,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Nel **cortile** sì, ma solo dieci minuti» dice lei. «E poi di nuovo in classe.» | “In the **courtyard**, yes, but only ten minutes,” she says. “And then back to class.” |
 | Chiara taglia il pane e sorride, ma non a Lucia. | Chiara cuts the bread and smiles, but not at Lucia. |
 | «Scusate, ma io una cosa la ricordo bene» dice Chiara. | “Sorry, but there's one thing I remember well,” says Chiara. |
-| «**Ogni estate**, in macchina, verso la Liguria, io e Matteo **dovevamo** **imparare a memoria** una **poesia**.» | “**Every summer**, in the car, toward Liguria, Matteo and I **had to** **learn a poem by heart**.” |
+| «Ogni estate, in macchina, verso la Liguria, io e Matteo dovevamo imparare a memoria una poesia.» | “Every summer, in the car, toward Liguria, Matteo and I had to learn a poem by heart.” |
 | «Una **poesia**?» chiede Matteo. «Io ricordo una **filastrocca**.» | “A **poem**?” asks Matteo. “I remember a **nursery rhyme**.” |
 | «Una **poesia**» ripete Chiara. «La mamma aveva il libro sul cruscotto.» | “A **poem**,” repeats Chiara. “Mom had the book on the dashboard.” |
 | «No, era una **filastrocca** sui mesi» dice Matteo. «E io la dicevo tutta, anche a luglio.» | “No, it was a **nursery rhyme** about the months,” says Matteo. “And I recited the whole thing, even in July.” |
@@ -138,7 +138,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non litighiamo, discutiamo» dice Matteo. | “We're not arguing, we're discussing,” says Matteo. |
 | «Discutete» dice Nadia. «Come i bambini di mio cugino.» | “You discuss,” says Nadia. “Like my cousin's kids.” |
 | «E tu, **ogni estate**, dove andavi?» chiede Kevin. | “And you, **every summer**, where did you go?” asks Kevin. |
-| «In Tunisia, dai miei nonni» dice Nadia. «**Ogni estate**, sempre.» | “To Tunisia, to my grandparents,” says Nadia. “**Every summer**, always.” |
+| «In Marocco, dai miei nonni» dice Nadia. «**Ogni estate**, sempre.» | “To Morocco, to my grandparents,” says Nadia. “**Every summer**, always.” |
 | «E c'era una **piscina**?» chiede Kevin. | “And was there a swimming **pool**?” asks Kevin. |
 | «No, mai una **piscina**» dice Nadia. «Il mare, e basta.» | “No, never a **pool**,” says Nadia. “The sea, and that's it.” |
 | «**Facevamo il bagno** alle sei del mattino» dice. «Prima di colazione.» | “**We went in the water** at six in the morning,” she says. “Before breakfast.” |
@@ -146,7 +146,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Alle sei. Alle otto il sole era troppo forte» dice Nadia. | “At six. By eight the sun was too strong,” says Nadia. |
 | «Io **facevo il bagno** **ogni estate** in un lago» dice Kevin. | “I **went in the water** **every summer** in a lake,” says Kevin. |
 | Nadia lo guarda e aspetta. | Nadia looks at him and waits. |
-| «Al lago» corregge Matteo. «Si dice **al lago**, non in un lago.» | “**To the lake**,” corrects Matteo. “You say **al lago**, not _in un lago_.” |
+| «Al lago» corregge Matteo. «Si dice al lago, non in un lago.» | “To the lake,” corrects Matteo. “You say al lago, not _in un lago_.” |
 | «Al lago. **Facevo il bagno** al lago» ripete Kevin. | “To the lake. I **went in the water** at the lake,” repeats Kevin. |
 | _Al lago. Al lago. Non in un lago._ | _Al lago. Al lago. Not in un lago._ |
 | Kevin prende il quaderno giallo e scrive. | Kevin takes the yellow notebook and writes. |
@@ -192,9 +192,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | La maestra Paola batte le mani e i bambini si mettono a sedere. | Teacher Paola claps her hands and the children sit down. |
 | «Oggi abbiamo un ospite speciale» dice la maestra. «Il signor Ferri, il nonno di Leo.» | “Today we have a special guest,” says the teacher. “Mr. Ferri, Leo's grandfather.” |
 | Franco si alza un po' e tutti battono le mani. | Franco half stands up and everyone claps. |
-| «Grazie» dice Franco. «Io sono del 1950.» | “Thank you,” says Franco. “I was born in 1950.” |
+| «Grazie» dice Franco. «Io sono del 1955.» | “Thank you,” says Franco. “I was born in 1955.” |
 | «Ohhh» dice un bambino. | “Ohhh,” says a child. |
-| «E nel 1960 andavo a scuola come voi» dice Franco. «Ma era una scuola diversa.» | “And in 1960 I went to school like you,” says Franco. “But it was a different school.” |
+| «E nel 1961 andavo a scuola come voi» dice Franco. «Ma era una scuola diversa.» | “And in 1961 I went to school like you,” says Franco. “But it was a different school.” |
 | «Diversa come?» chiede Leo. | “Different how?” asks Leo. |
 | «Primo: la **cartella**» dice Franco. | “First: the **schoolbag**,” says Franco. |
 | Franco disegna una forma nell'aria con le mani. | Franco draws a shape in the air with his hands. |
@@ -278,7 +278,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo prende lo **zaino** e lo apre davanti al nonno. | Leo takes his **backpack** and opens it in front of his grandfather. |
 | «Guarda, nonno. C'è un astuccio nuovo» dice Leo. | “Look, Grandpa. There's a new pencil case,” says Leo. |
 | Franco guarda dentro lo **zaino** e scuote la testa. | Franco looks inside the **backpack** and shakes his head. |
-| «Un astuccio?» dice. «Nel 1960 nessuno aveva un astuccio.» | “A pencil case?” he says. “In 1960 nobody had a pencil case.” |
+| «Un astuccio?» dice. «Nel 1961 nessuno aveva un astuccio.» | “A pencil case?” he says. “In 1961 nobody had a pencil case.” |
 | «E come portavi la penna?» chiede Leo. | “And how did you carry your pen?” asks Leo. |
 | «In tasca. Con l'**inchiostro** che usciva» dice Franco. | “In my pocket. With the **ink** leaking out,” says Franco. |
 | Leo chiude lo **zaino** e lo mette sulle spalle. | Leo closes his **backpack** and puts it on his shoulders. |
@@ -354,7 +354,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Guarda qui» dice. «C'è ancora la **sabbia** dentro.» | “Look here,” he says. “There's still **sand** inside.” |
 | Chiara prende la **conchiglia** e la gira tra le dita. | Chiara takes the **seashell** and turns it in her fingers. |
 | Poi la mette sul tavolo, molto piano. | Then she puts it on the table, very slowly. |
-| «Ogni estate portavamo un po' di **sabbia** a casa» dice Chiara. | “**Every summer** we brought a little **sand** home,” says Chiara. |
+| «Ogni estate portavamo un po' di sabbia a casa» dice Chiara. | “Every summer we brought a little sand home,” says Chiara. |
 | «E **facevamo il bagno** anche alle sette di sera» dice Matteo. «Ti ricordi?» | “And **we went in the water** even at seven in the evening,” says Matteo. “Do you remember?” |
 | «Mi ricordo. Con il costume bagnato e i capelli duri» dice Chiara. | “I remember. With a wet swimsuit and stiff hair,” says Chiara. |
 | Kevin scrive nel quaderno giallo, sopra lo **zaino** di Leo. | Kevin writes in the yellow notebook, on top of Leo's **backpack**. |
@@ -391,11 +391,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo conta le fotografie e le mette in fila sul tavolo. | Leo counts the photographs and lines them up on the table. |
 | «Il nonno oggi ha detto una cosa importante» dice Leo. | “Grandpa said something important today,” says Leo. |
 | «Che cosa?» chiede Chiara. | “What?” asks Chiara. |
-| «Che nel 1960 si doveva sempre **obbedire**» dice Leo. «Sempre.» | “That in 1960 you always had to **obey**,” says Leo. “Always.” |
+| «Che nel 1961 si doveva sempre **obbedire**» dice Leo. «Sempre.» | “That in 1961 you always had to **obey**,” says Leo. “Always.” |
 | «Sempre?» chiede Matteo. | “Always?” asks Matteo. |
 | «Sempre. E se uno non **obbediva**, non poteva nemmeno dirlo a casa» dice Leo. | “Always. And if someone didn't **obey**, he couldn't even say it at home,” says Leo. |
 | «Non poteva?» chiede Kevin. | “He couldn't?” asks Kevin. |
-| «No» dice Leo. «Nel 1960 non si poteva **obbedire** male.» | “No,” says Leo. “In 1960 you couldn't **obey** badly.” |
+| «No» dice Leo. «Nel 1961 non si poteva **obbedire** male.» | “No,” says Leo. “In 1961 you couldn't **obey** badly.” |
 | Tutti si fermano e lo guardano. | Everyone stops and looks at him. |
 | «Che cosa?» chiede Chiara. | “What?” asks Chiara. |
 | «Si poteva **obbedire** o non **obbedire**» dice Leo. «Non c'erano altre possibilità.» | “You could **obey** or not **obey**,” says Leo. “There were no other possibilities.” |
@@ -433,9 +433,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Era lungo perché tu piangevi» dice Chiara. | “It was long because you were crying,” says Chiara. |
 | «Piangevo perché era lungo» dice Matteo. | “I was crying because it was long,” says Matteo. |
 | Franco alza una mano e loro si fermano. | Franco raises a hand and they stop. |
-| «La **pensione** era a Levanto» dice Franco. «La stessa **pensione**, trent'anni.» | “The **guesthouse** was in Levanto,” says Franco. “The same **guesthouse**, for thirty years.” |
+| «La **pensione** era a Levanto» dice Franco. «La stessa **pensione**, vent'anni.» | “The **guesthouse** was in Levanto,” says Franco. “The same **guesthouse**, for twenty years.” |
 | «Trent'anni?» chiede Chiara. | “Thirty years?” asks Chiara. |
-| «Trent'anni. Con la signora Elena e il cane» dice Franco. | “Thirty years. With signora Elena and the dog,” says Franco. |
+| «Vent'anni. Con la signora Elena e il cane» dice Franco. | “Twenty years. With signora Elena and the dog,” says Franco. |
 | «E avevamo sempre lo stesso tavolo?» chiede Chiara. | “And did we always have the same table?” asks Chiara. |
 | «Lo stesso tavolo, **ogni estate**, vicino alla finestra» dice Franco. | “The same table, **every summer**, near the window,” says Franco. |
 | «Lo sapevo» dice Chiara. | “I knew it,” says Chiara. |
@@ -454,7 +454,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E perché l'abbiamo tenuta?» chiede Chiara. | “And why did we keep it?” asks Chiara. |
 | «Perché la **sabbia** era diversa» dice Franco. | “Because the **sand** was different,” says Franco. |
 | Franco prende la **conchiglia** e la guarda contro la luce. | Franco takes the **seashell** and looks at it against the light. |
-| «La **sabbia** di quella spiaggia era scura» dice Franco. «Più scura di quella della **piscina**.» | “The **sand** of that beach was dark,” says Franco. “Darker than the **sand** of the **pool**.” |
+| «La sabbia di quella spiaggia era scura» dice Franco. «Più scura di quella della piscina.» | “The sand of that beach was dark,” says Franco. “Darker than the sand of the pool.” |
 | «C'era una **piscina** a Levanto?» chiede Matteo. | “Was there a **pool** in Levanto?” asks Matteo. |
 | «Nella **pensione**, sì. Piccola» dice Franco. «Ma voi **facevate** il bagno dentro solo quando pioveva.» | “In the **guesthouse**, yes. A small one,” says Franco. “But you only **went in the water** there when it rained.” |
 | «E nel mare?» chiede Chiara. | “And in the sea?” asks Chiara. |
@@ -517,8 +517,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Bevono in silenzio per un momento. | They drink in silence for a moment. |
 | «Sai che ti dico?» dice Matteo. «Le estati erano belle.» | “You know what?” says Matteo. “The summers were good.” |
 | «Erano belle» dice Chiara. «E la **pensione** non era male.» | “They were good,” says Chiara. “And the **guesthouse** wasn't bad.” |
-| «Non era male per niente» dice Matteo. «Trent'anni, la stessa signora Elena.» | “It wasn't bad at all,” says Matteo. “Thirty years, the same signora Elena.” |
-| «Trent'anni di **agosto**» dice Chiara. | “Thirty years of **August**,” says Chiara. |
+| «Non era male per niente» dice Matteo. «Vent'anni, la stessa signora Elena.» | “It wasn't bad at all,” says Matteo. “Twenty years, the same signora Elena.” |
+| «Vent'anni di **agosto**» dice Chiara. | “Twenty years of **August**,” says Chiara. |
 | «**Ogni estate**, sempre lo stesso tavolo» dice Matteo. | “**Every summer**, always the same table,” says Matteo. |
 | Nadia appoggia la tazza sul bancone. | Nadia rests her cup on the counter. |
 | «Adesso le regole arrivano a casa nostra» dice Nadia. «Con il bambino.» | “Now the rules are coming to our house,” says Nadia. “With the baby.” |
@@ -565,7 +565,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E avevate venti minuti di ricreazione?» chiede Leo. | “And did you have twenty minutes of recess?” asks Leo. |
 | «Dieci» dice Franco. | “Ten,” says Franco. |
 | Leo pensa un momento e poi fa la domanda importante. | Leo thinks for a moment and then asks the important question. |
-| «Nonno, la merenda nel 1960 era più buona?» chiede Leo. | “Grandpa, was the snack in 1960 better?” asks Leo. |
+| «Nonno, la merenda nel 1961 era più buona?» chiede Leo. | “Grandpa, was the snack in 1961 better?” asks Leo. |
 | «Era diversa» dice Franco. «Non migliore. Diversa, come tutto.» | “It was different,” says Franco. “Not better. Different, like everything.” |
 | «E le **tabelline** le sai ancora?» chiede Leo. | “And do you still know the **times tables**?” asks Leo. |
 | «Le ho **imparate a memoria** a scuola» dice Franco. «E le ho ancora in testa.» | “I **learned them by heart** at school,” says Franco. “And I still have them in my head.” |
