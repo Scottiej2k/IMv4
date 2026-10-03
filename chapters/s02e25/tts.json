@@ -3059,7 +3059,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "L'anno scorso hai bruciato tutto",
+                "text": "L'ultima volta hai bruciato tutto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4467,16 +4467,14 @@
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-026",
-        "s02e25-2-027"
+        "s02e25-2-026"
       ],
       "words": [
         [
           "s02e25-2-026:0-5"
         ],
         [
-          "s02e25-2-026:6-6",
-          "s02e25-2-027:0-9"
+          "s02e25-2-026:6-6"
         ]
       ],
       "request": {
@@ -4498,7 +4496,7 @@
               },
               {
                 "type": "text",
-                "text": "dice. La porta si apre e entra Franco con il giornale.",
+                "text": "dice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4535,20 +4533,316 @@
       "index": 57,
       "scene": 2,
       "speakers": {
-        "franco": "franco",
+        "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-028",
+        "s02e25-2-027"
+      ],
+      "words": [
+        [
+          "s02e25-2-027:0-2"
+        ],
+        [
+          "s02e25-2-027:3-4"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kevin, e Sartori?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "matteo",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "chiede piano.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "matteo",
+                "voice": "Umbriel"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 58,
+      "scene": 2,
+      "speakers": {
+        "ben": "ben",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s02e25-2-028"
+      ],
+      "words": [
+        [
+          "s02e25-2-028:0-4"
+        ],
+        [
+          "s02e25-2-028:5-6"
+        ],
+        [
+          "s02e25-2-028:7-14"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mercoledì ho risposto: no, grazie",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice Kevin.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Qui ho il bar, la famiglia, i tavolini.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 59,
+      "scene": 2,
+      "speakers": {
+        "nadia": "nadia",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
         "s02e25-2-029"
       ],
       "words": [
         [
-          "s02e25-2-028:0-3"
+          "s02e25-2-029:0-2"
         ],
         [
-          "s02e25-2-028:4-4",
-          "s02e25-2-029:0-6"
+          "s02e25-2-029:3-3"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "E sei contento?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "nadia",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "chiede.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "nadia",
+                "voice": "Aoede"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 60,
+      "scene": 2,
+      "speakers": {
+        "ben": "ben",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s02e25-2-030",
+        "s02e25-2-031"
+      ],
+      "words": [
+        [
+          "s02e25-2-030:0-6"
+        ],
+        [
+          "s02e25-2-030:7-7",
+          "s02e25-2-031:0-9"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sì. Per una volta ho scelto io",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "dice. La porta si apre e entra Franco con il giornale.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 61,
+      "scene": 2,
+      "speakers": {
+        "franco": "franco",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s02e25-2-032",
+        "s02e25-2-033"
+      ],
+      "words": [
+        [
+          "s02e25-2-032:0-3"
+        ],
+        [
+          "s02e25-2-032:4-4",
+          "s02e25-2-033:0-6"
         ]
       ],
       "request": {
@@ -4604,21 +4898,21 @@
       }
     },
     {
-      "index": 58,
+      "index": 62,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-030"
+        "s02e25-2-034"
       ],
       "words": [
         [
-          "s02e25-2-030:0-4"
+          "s02e25-2-034:0-4"
         ],
         [
-          "s02e25-2-030:5-5"
+          "s02e25-2-034:5-5"
         ]
       ],
       "request": {
@@ -4674,51 +4968,51 @@
       }
     },
     {
-      "index": 59,
+      "index": 63,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-031",
-        "s02e25-2-032",
-        "s02e25-2-033",
-        "s02e25-2-034",
         "s02e25-2-035",
-        "s02e25-2-036"
+        "s02e25-2-036",
+        "s02e25-2-037",
+        "s02e25-2-038",
+        "s02e25-2-039",
+        "s02e25-2-040"
       ],
       "words": [
         [
-          "s02e25-2-031:0-3"
+          "s02e25-2-035:0-3"
         ],
         [
-          "s02e25-2-031:4-4"
+          "s02e25-2-035:4-4"
         ],
         [
-          "s02e25-2-031:5-6"
+          "s02e25-2-035:5-6"
         ],
         [
-          "s02e25-2-032:0-6"
+          "s02e25-2-036:0-6"
         ],
         [
-          "s02e25-2-033:0-8"
+          "s02e25-2-037:0-8"
         ],
         [
-          "s02e25-2-033:9-9"
+          "s02e25-2-037:9-9"
         ],
         [
-          "s02e25-2-034:0-8"
+          "s02e25-2-038:0-8"
         ],
         [
-          "s02e25-2-034:9-9"
+          "s02e25-2-038:9-9"
         ],
         [
-          "s02e25-2-035:0-9"
+          "s02e25-2-039:0-9"
         ],
         [
-          "s02e25-2-035:10-10",
-          "s02e25-2-036:0-8"
+          "s02e25-2-039:10-10",
+          "s02e25-2-040:0-8"
         ]
       ],
       "request": {
@@ -4862,28 +5156,28 @@
       }
     },
     {
-      "index": 60,
+      "index": 64,
       "scene": 2,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-037",
-        "s02e25-2-038"
+        "s02e25-2-041",
+        "s02e25-2-042"
       ],
       "words": [
         [
-          "s02e25-2-037:0-7"
+          "s02e25-2-041:0-7"
         ],
         [
-          "s02e25-2-037:8-8"
+          "s02e25-2-041:8-8"
         ],
         [
-          "s02e25-2-038:0-11"
+          "s02e25-2-042:0-11"
         ],
         [
-          "s02e25-2-038:12-12"
+          "s02e25-2-042:12-12"
         ]
       ],
       "request": {
@@ -4961,21 +5255,21 @@
       }
     },
     {
-      "index": 61,
+      "index": 65,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-039"
+        "s02e25-2-043"
       ],
       "words": [
         [
-          "s02e25-2-039:0-1"
+          "s02e25-2-043:0-1"
         ],
         [
-          "s02e25-2-039:2-2"
+          "s02e25-2-043:2-2"
         ]
       ],
       "request": {
@@ -5031,24 +5325,24 @@
       }
     },
     {
-      "index": 62,
+      "index": 66,
       "scene": 2,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-040"
+        "s02e25-2-044"
       ],
       "words": [
         [
-          "s02e25-2-040:0-6"
+          "s02e25-2-044:0-6"
         ],
         [
-          "s02e25-2-040:7-7"
+          "s02e25-2-044:7-7"
         ],
         [
-          "s02e25-2-040:8-18"
+          "s02e25-2-044:8-18"
         ]
       ],
       "request": {
@@ -5115,33 +5409,33 @@
       }
     },
     {
-      "index": 63,
+      "index": 67,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-041",
-        "s02e25-2-042",
-        "s02e25-2-043"
+        "s02e25-2-045",
+        "s02e25-2-046",
+        "s02e25-2-047"
       ],
       "words": [
         [
-          "s02e25-2-041:0-6"
+          "s02e25-2-045:0-6"
         ],
         [
-          "s02e25-2-041:7-7",
-          "s02e25-2-042:0-4"
+          "s02e25-2-045:7-7",
+          "s02e25-2-046:0-4"
         ],
         [
-          "s02e25-2-043:0-1"
+          "s02e25-2-047:0-1"
         ],
         [
-          "s02e25-2-043:2-2"
+          "s02e25-2-047:2-2"
         ],
         [
-          "s02e25-2-043:3-9"
+          "s02e25-2-047:3-9"
         ]
       ],
       "request": {
@@ -5230,21 +5524,21 @@
       }
     },
     {
-      "index": 64,
+      "index": 68,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-044"
+        "s02e25-2-048"
       ],
       "words": [
         [
-          "s02e25-2-044:0-3"
+          "s02e25-2-048:0-3"
         ],
         [
-          "s02e25-2-044:4-4"
+          "s02e25-2-048:4-4"
         ]
       ],
       "request": {
@@ -5300,21 +5594,21 @@
       }
     },
     {
-      "index": 65,
+      "index": 69,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-045"
+        "s02e25-2-049"
       ],
       "words": [
         [
-          "s02e25-2-045:0-2"
+          "s02e25-2-049:0-2"
         ],
         [
-          "s02e25-2-045:3-3"
+          "s02e25-2-049:3-3"
         ]
       ],
       "request": {
@@ -5370,21 +5664,21 @@
       }
     },
     {
-      "index": 66,
+      "index": 70,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-046"
+        "s02e25-2-050"
       ],
       "words": [
         [
-          "s02e25-2-046:0-3"
+          "s02e25-2-050:0-3"
         ],
         [
-          "s02e25-2-046:4-4"
+          "s02e25-2-050:4-4"
         ]
       ],
       "request": {
@@ -5440,21 +5734,21 @@
       }
     },
     {
-      "index": 67,
+      "index": 71,
       "scene": 2,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-047"
+        "s02e25-2-051"
       ],
       "words": [
         [
-          "s02e25-2-047:0-6"
+          "s02e25-2-051:0-4"
         ],
         [
-          "s02e25-2-047:7-7"
+          "s02e25-2-051:5-5"
         ]
       ],
       "request": {
@@ -5465,7 +5759,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "L'anno scorso hai bruciato la grigliata intera",
+                "text": "L'ultima grigliata l'hai bruciata intera",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5510,23 +5804,23 @@
       }
     },
     {
-      "index": 68,
+      "index": 72,
       "scene": 2,
       "speakers": {
         "nadia": "nadia",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-048",
-        "s02e25-2-049"
+        "s02e25-2-052",
+        "s02e25-2-053"
       ],
       "words": [
         [
-          "s02e25-2-048:0-5"
+          "s02e25-2-052:0-5"
         ],
         [
-          "s02e25-2-048:6-6",
-          "s02e25-2-049:0-8"
+          "s02e25-2-052:6-6",
+          "s02e25-2-053:0-8"
         ]
       ],
       "request": {
@@ -5582,21 +5876,21 @@
       }
     },
     {
-      "index": 69,
+      "index": 73,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-050"
+        "s02e25-2-054"
       ],
       "words": [
         [
-          "s02e25-2-050:0-2"
+          "s02e25-2-054:0-2"
         ],
         [
-          "s02e25-2-050:3-3"
+          "s02e25-2-054:3-3"
         ]
       ],
       "request": {
@@ -5652,21 +5946,21 @@
       }
     },
     {
-      "index": 70,
+      "index": 74,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-051"
+        "s02e25-2-055"
       ],
       "words": [
         [
-          "s02e25-2-051:0-2"
+          "s02e25-2-055:0-2"
         ],
         [
-          "s02e25-2-051:3-3"
+          "s02e25-2-055:3-3"
         ]
       ],
       "request": {
@@ -5722,21 +6016,21 @@
       }
     },
     {
-      "index": 71,
+      "index": 75,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-052"
+        "s02e25-2-056"
       ],
       "words": [
         [
-          "s02e25-2-052:0-7"
+          "s02e25-2-056:0-7"
         ],
         [
-          "s02e25-2-052:8-8"
+          "s02e25-2-056:8-8"
         ]
       ],
       "request": {
@@ -5792,21 +6086,21 @@
       }
     },
     {
-      "index": 72,
+      "index": 76,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-053"
+        "s02e25-2-057"
       ],
       "words": [
         [
-          "s02e25-2-053:0-4"
+          "s02e25-2-057:0-4"
         ],
         [
-          "s02e25-2-053:5-5"
+          "s02e25-2-057:5-5"
         ]
       ],
       "request": {
@@ -5862,23 +6156,23 @@
       }
     },
     {
-      "index": 73,
+      "index": 77,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-054",
-        "s02e25-2-055"
+        "s02e25-2-058",
+        "s02e25-2-059"
       ],
       "words": [
         [
-          "s02e25-2-054:0-2"
+          "s02e25-2-058:0-2"
         ],
         [
-          "s02e25-2-054:3-3",
-          "s02e25-2-055:0-7"
+          "s02e25-2-058:3-3",
+          "s02e25-2-059:0-7"
         ]
       ],
       "request": {
@@ -5934,21 +6228,21 @@
       }
     },
     {
-      "index": 74,
+      "index": 78,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-056"
+        "s02e25-2-060"
       ],
       "words": [
         [
-          "s02e25-2-056:0-4"
+          "s02e25-2-060:0-4"
         ],
         [
-          "s02e25-2-056:5-5"
+          "s02e25-2-060:5-5"
         ]
       ],
       "request": {
@@ -6004,23 +6298,23 @@
       }
     },
     {
-      "index": 75,
+      "index": 79,
       "scene": 2,
       "speakers": {
         "franco": "franco",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-057",
-        "s02e25-2-058"
+        "s02e25-2-061",
+        "s02e25-2-062"
       ],
       "words": [
         [
-          "s02e25-2-057:0-4"
+          "s02e25-2-061:0-4"
         ],
         [
-          "s02e25-2-057:5-6",
-          "s02e25-2-058:0-6"
+          "s02e25-2-061:5-6",
+          "s02e25-2-062:0-6"
         ]
       ],
       "request": {
@@ -6076,23 +6370,23 @@
       }
     },
     {
-      "index": 76,
+      "index": 80,
       "scene": 2,
       "speakers": {
         "nadia": "nadia",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-059",
-        "s02e25-2-060"
+        "s02e25-2-063",
+        "s02e25-2-064"
       ],
       "words": [
         [
-          "s02e25-2-059:0-4"
+          "s02e25-2-063:0-4"
         ],
         [
-          "s02e25-2-059:5-5",
-          "s02e25-2-060:0-6"
+          "s02e25-2-063:5-5",
+          "s02e25-2-064:0-6"
         ]
       ],
       "request": {
@@ -6148,21 +6442,21 @@
       }
     },
     {
-      "index": 77,
+      "index": 81,
       "scene": 2,
       "speakers": {
         "matteo": "matteo",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-061"
+        "s02e25-2-065"
       ],
       "words": [
         [
-          "s02e25-2-061:0-1"
+          "s02e25-2-065:0-1"
         ],
         [
-          "s02e25-2-061:2-2"
+          "s02e25-2-065:2-2"
         ]
       ],
       "request": {
@@ -6218,25 +6512,25 @@
       }
     },
     {
-      "index": 78,
+      "index": 82,
       "scene": 2,
       "speakers": {
         "ben": "ben",
         "narrator": "narrator"
       },
       "segment_ids": [
-        "s02e25-2-062",
-        "s02e25-2-063",
-        "s02e25-2-064"
+        "s02e25-2-066",
+        "s02e25-2-067",
+        "s02e25-2-068"
       ],
       "words": [
         [
-          "s02e25-2-062:0-4"
+          "s02e25-2-066:0-4"
         ],
         [
-          "s02e25-2-062:5-5",
-          "s02e25-2-063:0-7",
-          "s02e25-2-064:0-8"
+          "s02e25-2-066:5-5",
+          "s02e25-2-067:0-7",
+          "s02e25-2-068:0-8"
         ]
       ],
       "request": {
@@ -6292,17 +6586,17 @@
       }
     },
     {
-      "index": 79,
+      "index": 83,
       "scene": 2,
       "speakers": {
         "single": "franco"
       },
       "segment_ids": [
-        "s02e25-2-065"
+        "s02e25-2-069"
       ],
       "words": [
         [
-          "s02e25-2-065:0-8"
+          "s02e25-2-069:0-8"
         ]
       ],
       "request": {
@@ -6338,7 +6632,7 @@
       }
     },
     {
-      "index": 80,
+      "index": 84,
       "scene": 3,
       "speakers": {
         "narrator": "narrator",
@@ -6427,7 +6721,7 @@
       }
     },
     {
-      "index": 81,
+      "index": 85,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -6497,7 +6791,7 @@
       }
     },
     {
-      "index": 82,
+      "index": 86,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -6567,7 +6861,7 @@
       }
     },
     {
-      "index": 83,
+      "index": 87,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -6639,7 +6933,7 @@
       }
     },
     {
-      "index": 84,
+      "index": 88,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -6709,7 +7003,7 @@
       }
     },
     {
-      "index": 85,
+      "index": 89,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -6779,7 +7073,7 @@
       }
     },
     {
-      "index": 86,
+      "index": 90,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -6849,7 +7143,7 @@
       }
     },
     {
-      "index": 87,
+      "index": 91,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -6952,7 +7246,7 @@
       }
     },
     {
-      "index": 88,
+      "index": 92,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7022,7 +7316,7 @@
       }
     },
     {
-      "index": 89,
+      "index": 93,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7092,7 +7386,7 @@
       }
     },
     {
-      "index": 90,
+      "index": 94,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7164,7 +7458,7 @@
       }
     },
     {
-      "index": 91,
+      "index": 95,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7234,7 +7528,7 @@
       }
     },
     {
-      "index": 92,
+      "index": 96,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7304,7 +7598,7 @@
       }
     },
     {
-      "index": 93,
+      "index": 97,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7374,7 +7668,7 @@
       }
     },
     {
-      "index": 94,
+      "index": 98,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7446,7 +7740,7 @@
       }
     },
     {
-      "index": 95,
+      "index": 99,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7516,7 +7810,7 @@
       }
     },
     {
-      "index": 96,
+      "index": 100,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7586,7 +7880,7 @@
       }
     },
     {
-      "index": 97,
+      "index": 101,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7656,7 +7950,7 @@
       }
     },
     {
-      "index": 98,
+      "index": 102,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7726,7 +8020,7 @@
       }
     },
     {
-      "index": 99,
+      "index": 103,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7796,7 +8090,7 @@
       }
     },
     {
-      "index": 100,
+      "index": 104,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -7866,7 +8160,7 @@
       }
     },
     {
-      "index": 101,
+      "index": 105,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -7936,7 +8230,7 @@
       }
     },
     {
-      "index": 102,
+      "index": 106,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -8006,7 +8300,7 @@
       }
     },
     {
-      "index": 103,
+      "index": 107,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -8078,7 +8372,7 @@
       }
     },
     {
-      "index": 104,
+      "index": 108,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -8148,7 +8442,7 @@
       }
     },
     {
-      "index": 105,
+      "index": 109,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -8218,7 +8512,7 @@
       }
     },
     {
-      "index": 106,
+      "index": 110,
       "scene": 3,
       "speakers": {
         "tommaso": "tommaso",
@@ -8290,7 +8584,7 @@
       }
     },
     {
-      "index": 107,
+      "index": 111,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -8379,7 +8673,7 @@
       }
     },
     {
-      "index": 108,
+      "index": 112,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -8484,7 +8778,7 @@
       }
     },
     {
-      "index": 109,
+      "index": 113,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -8554,7 +8848,7 @@
       }
     },
     {
-      "index": 110,
+      "index": 114,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -8624,7 +8918,7 @@
       }
     },
     {
-      "index": 111,
+      "index": 115,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -8696,7 +8990,7 @@
       }
     },
     {
-      "index": 112,
+      "index": 116,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -8766,7 +9060,7 @@
       }
     },
     {
-      "index": 113,
+      "index": 117,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -8836,7 +9130,7 @@
       }
     },
     {
-      "index": 114,
+      "index": 118,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -8914,7 +9208,7 @@
       }
     },
     {
-      "index": 115,
+      "index": 119,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -8984,7 +9278,7 @@
       }
     },
     {
-      "index": 116,
+      "index": 120,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9056,7 +9350,7 @@
       }
     },
     {
-      "index": 117,
+      "index": 121,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -9126,7 +9420,7 @@
       }
     },
     {
-      "index": 118,
+      "index": 122,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9196,7 +9490,7 @@
       }
     },
     {
-      "index": 119,
+      "index": 123,
       "scene": 3,
       "speakers": {
         "leo": "leo",
@@ -9221,7 +9515,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "L'anno scorso hai bruciato tutto e io l'ho scritto",
+                "text": "L'ultima volta hai bruciato tutto e io l'ho scritto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9266,7 +9560,7 @@
       }
     },
     {
-      "index": 120,
+      "index": 124,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9336,7 +9630,7 @@
       }
     },
     {
-      "index": 121,
+      "index": 125,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -9406,7 +9700,7 @@
       }
     },
     {
-      "index": 122,
+      "index": 126,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9505,7 +9799,7 @@
       }
     },
     {
-      "index": 123,
+      "index": 127,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -9575,7 +9869,7 @@
       }
     },
     {
-      "index": 124,
+      "index": 128,
       "scene": 3,
       "speakers": {
         "ben": "ben",
@@ -9645,7 +9939,7 @@
       }
     },
     {
-      "index": 125,
+      "index": 129,
       "scene": 3,
       "speakers": {
         "chiara": "chiara",
@@ -9752,7 +10046,7 @@
       }
     },
     {
-      "index": 126,
+      "index": 130,
       "scene": 3,
       "speakers": {
         "emma": "emma",
@@ -9837,7 +10131,7 @@
       }
     },
     {
-      "index": 127,
+      "index": 131,
       "scene": 4,
       "speakers": {
         "narrator": "narrator",
@@ -9932,7 +10226,7 @@
       }
     },
     {
-      "index": 128,
+      "index": 132,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -10006,7 +10300,7 @@
       }
     },
     {
-      "index": 129,
+      "index": 133,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -10076,7 +10370,7 @@
       }
     },
     {
-      "index": 130,
+      "index": 134,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -10148,7 +10442,7 @@
       }
     },
     {
-      "index": 131,
+      "index": 135,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -10218,7 +10512,7 @@
       }
     },
     {
-      "index": 132,
+      "index": 136,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -10288,7 +10582,7 @@
       }
     },
     {
-      "index": 133,
+      "index": 137,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -10358,7 +10652,7 @@
       }
     },
     {
-      "index": 134,
+      "index": 138,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -10428,7 +10722,7 @@
       }
     },
     {
-      "index": 135,
+      "index": 139,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -10500,7 +10794,7 @@
       }
     },
     {
-      "index": 136,
+      "index": 140,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -10528,7 +10822,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Anche quest'anno!",
+                "text": "Anche stavolta!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10550,7 +10844,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin ha bruciato tutto come l'anno scorso!",
+                "text": "Kevin ha bruciato tutto come l'altra volta!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10584,7 +10878,7 @@
       }
     },
     {
-      "index": 137,
+      "index": 141,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -10654,7 +10948,7 @@
       }
     },
     {
-      "index": 138,
+      "index": 142,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -10728,7 +11022,7 @@
       }
     },
     {
-      "index": 139,
+      "index": 143,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -10798,7 +11092,7 @@
       }
     },
     {
-      "index": 140,
+      "index": 144,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -10870,7 +11164,7 @@
       }
     },
     {
-      "index": 141,
+      "index": 145,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -10940,7 +11234,7 @@
       }
     },
     {
-      "index": 142,
+      "index": 146,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -11012,7 +11306,7 @@
       }
     },
     {
-      "index": 143,
+      "index": 147,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -11140,7 +11434,7 @@
       }
     },
     {
-      "index": 144,
+      "index": 148,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -11210,7 +11504,7 @@
       }
     },
     {
-      "index": 145,
+      "index": 149,
       "scene": 4,
       "speakers": {
         "matteo": "matteo",
@@ -11280,7 +11574,7 @@
       }
     },
     {
-      "index": 146,
+      "index": 150,
       "scene": 4,
       "speakers": {
         "nadia": "nadia",
@@ -11352,7 +11646,7 @@
       }
     },
     {
-      "index": 147,
+      "index": 151,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -11422,7 +11716,7 @@
       }
     },
     {
-      "index": 148,
+      "index": 152,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -11492,7 +11786,7 @@
       }
     },
     {
-      "index": 149,
+      "index": 153,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -11620,7 +11914,7 @@
       }
     },
     {
-      "index": 150,
+      "index": 154,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -11690,7 +11984,7 @@
       }
     },
     {
-      "index": 151,
+      "index": 155,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -11762,7 +12056,7 @@
       }
     },
     {
-      "index": 152,
+      "index": 156,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -11921,7 +12215,7 @@
       }
     },
     {
-      "index": 153,
+      "index": 157,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -11991,7 +12285,7 @@
       }
     },
     {
-      "index": 154,
+      "index": 158,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -12061,7 +12355,7 @@
       }
     },
     {
-      "index": 155,
+      "index": 159,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -12131,7 +12425,7 @@
       }
     },
     {
-      "index": 156,
+      "index": 160,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -12203,7 +12497,7 @@
       }
     },
     {
-      "index": 157,
+      "index": 161,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -12303,7 +12597,7 @@
       }
     },
     {
-      "index": 158,
+      "index": 162,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -12373,7 +12667,7 @@
       }
     },
     {
-      "index": 159,
+      "index": 163,
       "scene": 4,
       "speakers": {
         "leo": "leo",
@@ -12447,7 +12741,7 @@
       }
     },
     {
-      "index": 160,
+      "index": 164,
       "scene": 4,
       "speakers": {
         "tommaso": "tommaso",
@@ -12517,7 +12811,7 @@
       }
     },
     {
-      "index": 161,
+      "index": 165,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -12587,7 +12881,7 @@
       }
     },
     {
-      "index": 162,
+      "index": 166,
       "scene": 4,
       "speakers": {
         "tommaso": "tommaso",
@@ -12659,7 +12953,7 @@
       }
     },
     {
-      "index": 163,
+      "index": 167,
       "scene": 4,
       "speakers": {
         "emma": "emma",
@@ -12729,7 +13023,7 @@
       }
     },
     {
-      "index": 164,
+      "index": 168,
       "scene": 4,
       "speakers": {
         "tommaso": "tommaso",
@@ -12803,7 +13097,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 169,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -12966,7 +13260,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 170,
       "scene": 4,
       "speakers": {
         "chiara": "chiara",
@@ -13037,7 +13331,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 171,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -13121,7 +13415,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 172,
       "scene": 4,
       "speakers": {
         "lucia": "lucia",
@@ -13191,7 +13485,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 173,
       "scene": 4,
       "speakers": {
         "ornella": "ornella",
@@ -13290,7 +13584,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 174,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13360,7 +13654,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 175,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -13430,7 +13724,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 176,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13545,7 +13839,7 @@
       }
     },
     {
-      "index": 173,
+      "index": 177,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -13615,7 +13909,7 @@
       }
     },
     {
-      "index": 174,
+      "index": 178,
       "scene": 4,
       "speakers": {
         "ben": "ben",
@@ -13687,7 +13981,7 @@
       }
     },
     {
-      "index": 175,
+      "index": 179,
       "scene": 4,
       "speakers": {
         "franco": "franco",
@@ -13819,7 +14113,7 @@
       }
     },
     {
-      "index": 176,
+      "index": 180,
       "scene": 4,
       "speakers": {
         "single": "ben"
@@ -13865,7 +14159,7 @@
       }
     },
     {
-      "index": 177,
+      "index": 181,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -13956,7 +14250,7 @@
       }
     },
     {
-      "index": 178,
+      "index": 182,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -14026,7 +14320,7 @@
       }
     },
     {
-      "index": 179,
+      "index": 183,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -14096,7 +14390,7 @@
       }
     },
     {
-      "index": 180,
+      "index": 184,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -14166,7 +14460,7 @@
       }
     },
     {
-      "index": 181,
+      "index": 185,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -14240,7 +14534,7 @@
       }
     },
     {
-      "index": 182,
+      "index": 186,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -14310,7 +14604,7 @@
       }
     },
     {
-      "index": 183,
+      "index": 187,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -14380,7 +14674,7 @@
       }
     },
     {
-      "index": 184,
+      "index": 188,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -14452,7 +14746,7 @@
       }
     },
     {
-      "index": 185,
+      "index": 189,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -14523,7 +14817,7 @@
       }
     },
     {
-      "index": 186,
+      "index": 190,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -14595,7 +14889,7 @@
       }
     },
     {
-      "index": 187,
+      "index": 191,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -14665,7 +14959,7 @@
       }
     },
     {
-      "index": 188,
+      "index": 192,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -14735,7 +15029,7 @@
       }
     },
     {
-      "index": 189,
+      "index": 193,
       "scene": 5,
       "speakers": {
         "emma": "emma",
@@ -14809,7 +15103,7 @@
       }
     },
     {
-      "index": 190,
+      "index": 194,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -14879,7 +15173,7 @@
       }
     },
     {
-      "index": 191,
+      "index": 195,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -14949,7 +15243,7 @@
       }
     },
     {
-      "index": 192,
+      "index": 196,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -15050,7 +15344,7 @@
       }
     },
     {
-      "index": 193,
+      "index": 197,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -15120,7 +15414,7 @@
       }
     },
     {
-      "index": 194,
+      "index": 198,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -15308,7 +15602,7 @@
       }
     },
     {
-      "index": 195,
+      "index": 199,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -15465,7 +15759,7 @@
       }
     },
     {
-      "index": 196,
+      "index": 200,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -15535,7 +15829,7 @@
       }
     },
     {
-      "index": 197,
+      "index": 201,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -15607,7 +15901,7 @@
       }
     },
     {
-      "index": 198,
+      "index": 202,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -15824,7 +16118,7 @@
       }
     },
     {
-      "index": 199,
+      "index": 203,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -15894,7 +16188,7 @@
       }
     },
     {
-      "index": 200,
+      "index": 204,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -15964,7 +16258,7 @@
       }
     },
     {
-      "index": 201,
+      "index": 205,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16034,7 +16328,7 @@
       }
     },
     {
-      "index": 202,
+      "index": 206,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -16106,7 +16400,7 @@
       }
     },
     {
-      "index": 203,
+      "index": 207,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -16263,7 +16557,7 @@
       }
     },
     {
-      "index": 204,
+      "index": 208,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16333,7 +16627,7 @@
       }
     },
     {
-      "index": 205,
+      "index": 209,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -16403,7 +16697,7 @@
       }
     },
     {
-      "index": 206,
+      "index": 210,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -16473,7 +16767,7 @@
       }
     },
     {
-      "index": 207,
+      "index": 211,
       "scene": 5,
       "speakers": {
         "ornella": "ornella",
@@ -16547,7 +16841,7 @@
       }
     },
     {
-      "index": 208,
+      "index": 212,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -16675,7 +16969,7 @@
       }
     },
     {
-      "index": 209,
+      "index": 213,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -16745,7 +17039,7 @@
       }
     },
     {
-      "index": 210,
+      "index": 214,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -16846,7 +17140,7 @@
       }
     },
     {
-      "index": 211,
+      "index": 215,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -16945,7 +17239,7 @@
       }
     },
     {
-      "index": 212,
+      "index": 216,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -17015,7 +17309,7 @@
       }
     },
     {
-      "index": 213,
+      "index": 217,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -17143,7 +17437,7 @@
       }
     },
     {
-      "index": 214,
+      "index": 218,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17213,7 +17507,7 @@
       }
     },
     {
-      "index": 215,
+      "index": 219,
       "scene": 5,
       "speakers": {
         "matteo": "matteo",
@@ -17285,7 +17579,7 @@
       }
     },
     {
-      "index": 216,
+      "index": 220,
       "scene": 5,
       "speakers": {
         "nadia": "nadia",
@@ -17359,7 +17653,7 @@
       }
     },
     {
-      "index": 217,
+      "index": 221,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -17429,7 +17723,7 @@
       }
     },
     {
-      "index": 218,
+      "index": 222,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17499,7 +17793,7 @@
       }
     },
     {
-      "index": 219,
+      "index": 223,
       "scene": 5,
       "speakers": {
         "franco": "franco",
@@ -17718,7 +18012,7 @@
       }
     },
     {
-      "index": 220,
+      "index": 224,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -17793,7 +18087,7 @@
       }
     },
     {
-      "index": 221,
+      "index": 225,
       "scene": 5,
       "speakers": {
         "emma": "emma",
@@ -17849,7 +18143,7 @@
               },
               {
                 "type": "text",
-                "text": "dice. Pasando vicino alla mensola, tocca il biglietto del concerto. È ancora lì, dietro il barattolo di vernice.",
+                "text": "dice. Passando vicino alla mensola, tocca il biglietto del concerto. È ancora lì, dietro il barattolo di vernice.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17905,7 +18199,7 @@
       }
     },
     {
-      "index": 222,
+      "index": 226,
       "scene": 5,
       "speakers": {
         "ben": "ben",
@@ -17922,7 +18216,7 @@
           "s02e25-5-108:0-8"
         ],
         [
-          "s02e25-5-109:0-6",
+          "s02e25-5-109:0-7",
           "s02e25-5-110:0-7",
           "s02e25-5-111:0-6"
         ]
@@ -17946,7 +18240,7 @@
               },
               {
                 "type": "text",
-                "text": "Sentire come un abbraccio senza toccare nessuno. Apre il quaderno giallo, cerca la pagina nuova. Poi lo chiude e non scrive niente.",
+                "text": "Si sente come un abbraccio senza toccare nessuno. Apre il quaderno giallo, cerca la pagina nuova. Poi lo chiude e non scrive niente.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17980,7 +18274,7 @@
       }
     },
     {
-      "index": 223,
+      "index": 227,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18071,7 +18365,7 @@
       }
     },
     {
-      "index": 224,
+      "index": 228,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -18153,7 +18447,7 @@
       }
     },
     {
-      "index": 225,
+      "index": 229,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -18224,7 +18518,7 @@
       }
     },
     {
-      "index": 226,
+      "index": 230,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -18309,7 +18603,7 @@
       }
     },
     {
-      "index": 227,
+      "index": 231,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -18441,7 +18735,7 @@
       }
     },
     {
-      "index": 228,
+      "index": 232,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -18556,7 +18850,7 @@
       }
     },
     {
-      "index": 229,
+      "index": 233,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -18632,7 +18926,7 @@
       }
     },
     {
-      "index": 230,
+      "index": 234,
       "scene": 6,
       "speakers": {
         "roberto": "roberto",
@@ -18735,7 +19029,7 @@
       }
     },
     {
-      "index": 231,
+      "index": 235,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -18805,7 +19099,7 @@
       }
     },
     {
-      "index": 232,
+      "index": 236,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -18875,7 +19169,7 @@
       }
     },
     {
-      "index": 233,
+      "index": 237,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -18945,7 +19239,7 @@
       }
     },
     {
-      "index": 234,
+      "index": 238,
       "scene": 6,
       "speakers": {
         "tommaso": "tommaso",
@@ -19050,7 +19344,7 @@
       }
     },
     {
-      "index": 235,
+      "index": 239,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -19133,7 +19427,7 @@
       }
     },
     {
-      "index": 236,
+      "index": 240,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -19222,7 +19516,7 @@
       }
     },
     {
-      "index": 237,
+      "index": 241,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
@@ -19292,7 +19586,7 @@
       }
     },
     {
-      "index": 238,
+      "index": 242,
       "scene": 7,
       "speakers": {
         "marina": "marina",
@@ -19362,7 +19656,7 @@
       }
     },
     {
-      "index": 239,
+      "index": 243,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
@@ -19387,7 +19681,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Tommaso e Emma. Fuori, vicino alla siepe",
+                "text": "Tommaso ed Emma. Fuori, vicino alla siepe",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -19432,7 +19726,7 @@
       }
     },
     {
-      "index": 240,
+      "index": 244,
       "scene": 7,
       "speakers": {
         "marina": "marina",
@@ -19504,7 +19798,7 @@
       }
     },
     {
-      "index": 241,
+      "index": 245,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
@@ -19576,7 +19870,7 @@
       }
     },
     {
-      "index": 242,
+      "index": 246,
       "scene": 7,
       "speakers": {
         "marina": "marina",
@@ -19646,7 +19940,7 @@
       }
     },
     {
-      "index": 243,
+      "index": 247,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
@@ -19716,7 +20010,7 @@
       }
     },
     {
-      "index": 244,
+      "index": 248,
       "scene": 7,
       "speakers": {
         "marina": "marina",
@@ -19788,7 +20082,7 @@
       }
     },
     {
-      "index": 245,
+      "index": 249,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
@@ -19858,7 +20152,7 @@
       }
     },
     {
-      "index": 246,
+      "index": 250,
       "scene": 7,
       "speakers": {
         "marina": "marina",
@@ -19928,7 +20222,7 @@
       }
     },
     {
-      "index": 247,
+      "index": 251,
       "scene": 7,
       "speakers": {
         "roberto": "roberto",
@@ -20000,7 +20294,7 @@
       }
     },
     {
-      "index": 248,
+      "index": 252,
       "scene": 7,
       "speakers": {
         "single": "marina"

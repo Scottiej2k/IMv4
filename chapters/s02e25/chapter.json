@@ -29,7 +29,7 @@
       "lemma": "la grigliata",
       "pos": "noun",
       "en": "barbecue, cookout",
-      "example": "s02e25-1-058",
+      "example": "s02e25-2-051",
       "target": {
         "it": "grigliata",
         "en": "cookout"
@@ -97,7 +97,7 @@
       "lemma": "la salsiccia",
       "pos": "noun",
       "en": "sausage",
-      "example": "s02e25-2-044",
+      "example": "s02e25-2-048",
       "target": {
         "it": "salsicce",
         "en": "sausages"
@@ -109,7 +109,7 @@
       "lemma": "bruciare",
       "pos": "verb",
       "en": "to burn; to be burnt",
-      "example": "s02e25-2-045",
+      "example": "s02e25-2-049",
       "target": {
         "it": "bruciare",
         "en": "burn"
@@ -287,7 +287,7 @@
       "lemma": "la fine",
       "pos": "noun",
       "en": "end",
-      "example": "s02e25-2-041",
+      "example": "s02e25-2-045",
       "target": {
         "it": "la fine",
         "en": "the end"
@@ -373,7 +373,8 @@
       "characters": [
         "ben",
         "chiara",
-        "leo"
+        "leo",
+        "emma"
       ],
       "paragraphs": [
         {
@@ -4969,12 +4970,12 @@
           "segments": [
             {
               "id": "s02e25-1-046",
-              "it": "«**Com'è andata** la finestra?» chiede.",
-              "en": "“**How did** the window **go**?” Chiara asks.",
+              "it": "«Com'è andata la finestra?» chiede.",
+              "en": "“How did the window go?” Chiara asks.",
               "voice": [
                 [
                   "chiara",
-                  "**Com'è andata** la finestra?",
+                  "Com'è andata la finestra?",
                   ""
                 ],
                 [
@@ -4992,17 +4993,17 @@
                 [
                   "Com'è",
                   0,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "andata",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -5039,9 +5040,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-com-e-andata"
               ]
             }
           ]
@@ -7214,12 +7212,12 @@
           "segments": [
             {
               "id": "s02e25-1-069",
-              "it": "«L'anno scorso hai **bruciato** tutto» dice.",
-              "en": "“Last year you **burnt** everything,” Chiara says.",
+              "it": "«L'ultima volta hai **bruciato** tutto» dice.",
+              "en": "“Last time you **burnt** everything,” Chiara says.",
               "voice": [
                 [
                   "chiara",
-                  "L'anno scorso hai **bruciato** tutto",
+                  "L'ultima volta hai **bruciato** tutto",
                   ""
                 ],
                 [
@@ -7235,7 +7233,7 @@
                   ""
                 ],
                 [
-                  "L'anno",
+                  "L'ultima",
                   0,
                   ""
                 ],
@@ -7245,7 +7243,7 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "volta",
                   1,
                   ""
                 ],
@@ -9872,12 +9870,12 @@
             },
             {
               "id": "s02e25-2-019",
-              "it": "«Il **racconto** vero è questo: il **tubo** sotto il lavandino ha perso acqua per una settimana» dice.",
-              "en": "“The real **story** is this: the pipe under the sink leaked water for a week,” Nadia says.",
+              "it": "«Il racconto vero è questo: il tubo sotto il lavandino ha perso acqua per una settimana» dice.",
+              "en": "“The real story is this: the pipe under the sink leaked water for a week,” Nadia says.",
               "voice": [
                 [
                   "nadia",
-                  "Il **racconto** vero è questo: il **tubo** sotto il lavandino ha perso acqua per una settimana",
+                  "Il racconto vero è questo: il tubo sotto il lavandino ha perso acqua per una settimana",
                   ""
                 ],
                 [
@@ -9905,7 +9903,7 @@
                 [
                   "racconto",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -9955,7 +9953,7 @@
                 [
                   "tubo",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -10062,10 +10060,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-racconto",
-                "g-review-pp"
               ]
             },
             {
@@ -10364,12 +10358,12 @@
           "segments": [
             {
               "id": "s02e25-2-022",
-              "it": "«La **vernice** l'ha **dipinta** Chiara, alle undici di sera» dice.",
-              "en": "“The **paint** was applied by Chiara, at eleven at night,” Nadia says.",
+              "it": "«La vernice l'ha dipinta Chiara, alle undici di sera» dice.",
+              "en": "“The paint was applied by Chiara, at eleven at night,” Nadia says.",
               "voice": [
                 [
                   "nadia",
-                  "La **vernice** l'ha **dipinta** Chiara, alle undici di sera",
+                  "La vernice l'ha dipinta Chiara, alle undici di sera",
                   ""
                 ],
                 [
@@ -10397,7 +10391,7 @@
                 [
                   "vernice",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -10417,7 +10411,7 @@
                 [
                   "dipinta",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -10484,10 +10478,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-vernice",
-                "v-dipingere"
               ]
             },
             {
@@ -10678,12 +10668,12 @@
             },
             {
               "id": "s02e25-2-025",
-              "it": "«La mia **versione** è stata più... corta» dice.",
+              "it": "«La mia versione è stata più... corta» dice.",
               "en": "“My version was more... short,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "La mia **versione** è stata più... corta",
+                  "La mia versione è stata più... corta",
                   ""
                 ],
                 [
@@ -10721,7 +10711,7 @@
                 [
                   "versione",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -10778,9 +10768,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             }
           ]
@@ -10789,12 +10776,12 @@
           "segments": [
             {
               "id": "s02e25-2-026",
-              "it": "«La tua **versione** è un film» dice.",
+              "it": "«La tua versione è un film» dice.",
               "en": "“Your version is a movie,” Nadia says.",
               "voice": [
                 [
                   "nadia",
-                  "La tua **versione** è un film",
+                  "La tua versione è un film",
                   "dry"
                 ],
                 [
@@ -10832,7 +10819,7 @@
                 [
                   "versione",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -10879,9 +10866,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             }
           ]
@@ -10890,6 +10874,443 @@
           "segments": [
             {
               "id": "s02e25-2-027",
+              "it": "«Kevin, e Sartori?» chiede piano.",
+              "en": "“Kevin, what about Sartori?” Matteo asks quietly.",
+              "voice": [
+                [
+                  "matteo",
+                  "Kevin, e Sartori?",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "chiede piano.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  0,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Sartori",
+                  2,
+                  ""
+                ],
+                [
+                  "?» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chiede",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "piano",
+                  4,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s02e25-2-028",
+              "it": "«Mercoledì ho risposto: no, grazie» dice Kevin. «Qui ho il bar, la famiglia, i tavolini.»",
+              "en": "“On Wednesday I answered: no, thank you,” Kevin says. “Here I have the bar, the family, the tables.”",
+              "voice": [
+                [
+                  "ben",
+                  "Mercoledì ho risposto: no, grazie",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice Kevin.",
+                  ""
+                ],
+                [
+                  "ben",
+                  "Qui ho il bar, la famiglia, i tavolini.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Mercoledì",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ho",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "risposto",
+                  2,
+                  ""
+                ],
+                [
+                  ": ",
+                  -1,
+                  ""
+                ],
+                [
+                  "no",
+                  3,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "grazie",
+                  4,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Kevin",
+                  6,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "Qui",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ho",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bar",
+                  10,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "la",
+                  11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "famiglia",
+                  12,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "i",
+                  13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tavolini",
+                  14,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s02e25-2-029",
+              "it": "«E sei contento?» chiede.",
+              "en": "“And are you happy?” Nadia asks.",
+              "voice": [
+                [
+                  "nadia",
+                  "E sei contento?",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "chiede.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "E",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sei",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "contento",
+                  2,
+                  ""
+                ],
+                [
+                  "?» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chiede",
+                  3,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s02e25-2-030",
+              "it": "«Sì. Per una volta ho scelto io» dice.",
+              "en": "“Yes. For once I chose.”",
+              "voice": [
+                [
+                  "ben",
+                  "Sì. Per una volta ho scelto io",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Sì",
+                  0,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Per",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "una",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "volta",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ho",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "scelto",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "io",
+                  6,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  7,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s02e25-2-031",
               "it": "La porta si apre e entra Franco con il giornale.",
               "en": "The door opens and Franco comes in with the newspaper.",
               "voice": [
@@ -11003,7 +11424,7 @@
               ]
             },
             {
-              "id": "s02e25-2-028",
+              "id": "s02e25-2-032",
               "it": "«Buongiorno, Kevin. Buongiorno, ragazzi» dice.",
               "en": "“Good morning, Kevin. Good morning, everybody,” Franco says.",
               "voice": [
@@ -11081,7 +11502,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-029",
+              "id": "s02e25-2-033",
               "it": "Kevin gli porta il caffè senza chiedere.",
               "en": "Kevin brings him coffee without asking.",
               "voice": [
@@ -11165,13 +11586,13 @@
               ]
             },
             {
-              "id": "s02e25-2-030",
-              "it": "«Franco, **com'è andata** la casa?» chiede.",
-              "en": "“Franco, **how did** the house **go**?” Kevin asks.",
+              "id": "s02e25-2-034",
+              "it": "«Franco, com'è andata la casa?» chiede.",
+              "en": "“Franco, how did the house go?” Kevin asks.",
               "voice": [
                 [
                   "ben",
-                  "Franco, **com'è andata** la casa?",
+                  "Franco, com'è andata la casa?",
                   ""
                 ],
                 [
@@ -11199,17 +11620,17 @@
                 [
                   "com'è",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "andata",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -11246,9 +11667,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-com-e-andata"
               ]
             }
           ]
@@ -11256,7 +11674,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-031",
+              "id": "s02e25-2-035",
               "it": "«Vuoi la mia **versione**?» chiede. «Allora siediti.»",
               "en": "“Do you want my **version**?” Franco asks. “Then sit down.”",
               "voice": [
@@ -11358,7 +11776,7 @@
               ]
             },
             {
-              "id": "s02e25-2-032",
+              "id": "s02e25-2-036",
               "it": "Franco apre il suo quaderno del 1978.",
               "en": "Franco opens his 1978 notebook.",
               "voice": [
@@ -11442,7 +11860,7 @@
               ]
             },
             {
-              "id": "s02e25-2-033",
+              "id": "s02e25-2-037",
               "it": "«Il **muro** è storto. Cinque centimetri in due metri» dice.",
               "en": "“The **wall** is crooked. Five centimeters over two meters,” Franco says.",
               "voice": [
@@ -11569,7 +11987,7 @@
               ]
             },
             {
-              "id": "s02e25-2-034",
+              "id": "s02e25-2-038",
               "it": "«Il **soffitto** ha una crepa nuova, la numero trecento» continua.",
               "en": "“The **ceiling** has a new crack, number three hundred,” Franco continues.",
               "voice": [
@@ -11696,7 +12114,7 @@
               ]
             },
             {
-              "id": "s02e25-2-035",
+              "id": "s02e25-2-039",
               "it": "«E il **permesso** è arrivato tardi. Tutto è arrivato tardi» dice.",
               "en": "“And the **permit** arrived late. Everything arrived late,” Franco says.",
               "voice": [
@@ -11837,7 +12255,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-036",
+              "id": "s02e25-2-040",
               "it": "Matteo mette giù la tazzina e alza le mani.",
               "en": "Matteo puts down the cup and raises his hands.",
               "voice": [
@@ -11941,7 +12359,7 @@
               ]
             },
             {
-              "id": "s02e25-2-037",
+              "id": "s02e25-2-041",
               "it": "«Basta! In questa famiglia ogni **racconto** è diverso!» dice.",
               "en": "“Enough! In this family every **story** is different!” Matteo says.",
               "voice": [
@@ -12058,7 +12476,7 @@
               ]
             },
             {
-              "id": "s02e25-2-038",
+              "id": "s02e25-2-042",
               "it": "«Kevin dice tutto perfetto. Nadia dice tutto allagato. Papà dice tutto storto» continua.",
               "en": "“Kevin says everything perfect. Nadia says everything flooded. Dad says everything crooked,” Matteo continues.",
               "voice": [
@@ -12216,7 +12634,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-039",
+              "id": "s02e25-2-043",
               "it": "«E poi?» chiede.",
               "en": "“And then?” Kevin asks.",
               "voice": [
@@ -12274,7 +12692,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-040",
+              "id": "s02e25-2-044",
               "it": "«E poi è **l'inizio** di una tradizione» dice. «Da oggi raccontiamo tutti la stessa storia, ognuno a modo suo.»",
               "en": "“And then it's the **beginning** of a tradition,” Matteo says. “From today we all tell the same story, each in his own way.”",
               "voice": [
@@ -12500,7 +12918,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-041",
+              "id": "s02e25-2-045",
               "it": "«Questa è **la fine** della mia giornata» dice.",
               "en": "“This is **the end** of my day,” Franco says.",
               "voice": [
@@ -12607,7 +13025,7 @@
               ]
             },
             {
-              "id": "s02e25-2-042",
+              "id": "s02e25-2-046",
               "it": "Nadia ride e beve l'acqua.",
               "en": "Nadia laughs and drinks her water.",
               "voice": [
@@ -12675,7 +13093,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-043",
+              "id": "s02e25-2-047",
               "it": "«Ultima cosa» dice. «Domani è **Ferragosto**. Il **carbone** l'hai preso?»",
               "en": "“One last thing,” Franco says. “Tomorrow is **Ferragosto**. Did you get the **charcoal**?”",
               "voice": [
@@ -12812,8 +13230,8 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-044",
-              "it": "«Sì. E le **salsicce** » dice.",
+              "id": "s02e25-2-048",
+              "it": "«Sì. E le **salsicce**» dice.",
               "en": "“Yes. And the **sausages**,” Kevin says.",
               "voice": [
                 [
@@ -12869,7 +13287,7 @@
                   "b"
                 ],
                 [
-                  " » ",
+                  "» ",
                   -1,
                   ""
                 ],
@@ -12893,7 +13311,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-045",
+              "id": "s02e25-2-049",
               "it": "«Non **bruciare** niente» dice.",
               "en": "“Don't **burn** anything,” Franco says.",
               "voice": [
@@ -12964,7 +13382,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-046",
+              "id": "s02e25-2-050",
               "it": "«Io non **brucio** mai» dice.",
               "en": "“I never **burn** anything,” Kevin says.",
               "voice": [
@@ -13045,13 +13463,13 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-047",
-              "it": "«L'anno scorso hai **bruciato** la **grigliata** intera» dice.",
-              "en": "“Last year you **burnt** the whole **cookout**,” Matteo says.",
+              "id": "s02e25-2-051",
+              "it": "«L'ultima **grigliata** l'hai **bruciata** intera» dice.",
+              "en": "“The last **cookout** you **burnt** whole,” Matteo says.",
               "voice": [
                 [
                   "matteo",
-                  "L'anno scorso hai **bruciato** la **grigliata** intera",
+                  "L'ultima **grigliata** l'hai **bruciata** intera",
                   ""
                 ],
                 [
@@ -13067,7 +13485,7 @@
                   ""
                 ],
                 [
-                  "L'anno",
+                  "L'ultima",
                   0,
                   ""
                 ],
@@ -13077,9 +13495,9 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "grigliata",
                   1,
-                  ""
+                  "b"
                 ],
                 [
                   " ",
@@ -13087,7 +13505,7 @@
                   ""
                 ],
                 [
-                  "hai",
+                  "l'hai",
                   2,
                   ""
                 ],
@@ -13097,7 +13515,7 @@
                   ""
                 ],
                 [
-                  "bruciato",
+                  "bruciata",
                   3,
                   "b"
                 ],
@@ -13107,28 +13525,8 @@
                   ""
                 ],
                 [
-                  "la",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "grigliata",
-                  5,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "intera",
-                  6,
+                  4,
                   ""
                 ],
                 [
@@ -13138,7 +13536,7 @@
                 ],
                 [
                   "dice",
-                  7,
+                  5,
                   ""
                 ],
                 [
@@ -13148,8 +13546,8 @@
                 ]
               ],
               "focus": [
-                "v-bruciare",
-                "v-grigliata"
+                "v-grigliata",
+                "v-bruciare"
               ]
             }
           ]
@@ -13157,7 +13555,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-048",
+              "id": "s02e25-2-052",
               "it": "«E la **crosta** è diventata nera» aggiunge.",
               "en": "“And the **crust** turned black,” Nadia adds.",
               "voice": [
@@ -13258,7 +13656,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-049",
+              "id": "s02e25-2-053",
               "it": "Franco prende tre bicchieri e li mette sul bancone.",
               "en": "Franco takes three glasses and puts them on the counter.",
               "voice": [
@@ -13362,7 +13760,7 @@
               ]
             },
             {
-              "id": "s02e25-2-050",
+              "id": "s02e25-2-054",
               "it": "«Vino. Non acqua» dice.",
               "en": "“Wine. Not water,” Franco says.",
               "voice": [
@@ -13430,7 +13828,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-051",
+              "id": "s02e25-2-055",
               "it": "«Per il **brindisi**?» chiede.",
               "en": "“For the **toast**?” Kevin asks.",
               "voice": [
@@ -13501,7 +13899,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-052",
+              "id": "s02e25-2-056",
               "it": "«Il **brindisi** si fa con il vino. Sempre» dice.",
               "en": "“A **toast** is made with wine. Always,” Franco says.",
               "voice": [
@@ -13622,7 +14020,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-053",
+              "id": "s02e25-2-057",
               "it": "«Io **brindo** con il succo» dice.",
               "en": "“I **toast** with juice,” Kevin says.",
               "voice": [
@@ -13713,7 +14111,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-054",
+              "id": "s02e25-2-058",
               "it": "«Allora non **brindi**» dice.",
               "en": "“Then you don't **toast**,” Franco says.",
               "voice": [
@@ -13784,7 +14182,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-055",
+              "id": "s02e25-2-059",
               "it": "Matteo e Nadia ridono. Kevin prende il bicchiere.",
               "en": "Matteo and Nadia laugh. Kevin takes the glass.",
               "voice": [
@@ -13878,7 +14276,7 @@
               ]
             },
             {
-              "id": "s02e25-2-056",
+              "id": "s02e25-2-060",
               "it": "«Domani **brindiamo** alla casa nuova» dice.",
               "en": "“Tomorrow we **toast** to the new house,” Kevin says.",
               "voice": [
@@ -13969,7 +14367,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-057",
+              "id": "s02e25-2-061",
               "it": "«E a chi non c'è» dice piano.",
               "en": "“And to those who aren't here,” Franco says softly.",
               "voice": [
@@ -14067,7 +14465,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-058",
+              "id": "s02e25-2-062",
               "it": "Nadia porta un piatto di cornetti vecchi.",
               "en": "Nadia brings a plate of old croissants.",
               "voice": [
@@ -14151,13 +14549,13 @@
               ]
             },
             {
-              "id": "s02e25-2-059",
-              "it": "«Prima **colazione**: cornetti in offerta» dice.",
+              "id": "s02e25-2-063",
+              "it": "«Prima colazione: cornetti in offerta» dice.",
               "en": "“First breakfast: croissants on sale,” Nadia says.",
               "voice": [
                 [
                   "nadia",
-                  "Prima **colazione**: cornetti in offerta",
+                  "Prima colazione: cornetti in offerta",
                   ""
                 ],
                 [
@@ -14185,7 +14583,7 @@
                 [
                   "colazione",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   ": ",
@@ -14232,13 +14630,10 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             },
             {
-              "id": "s02e25-2-060",
+              "id": "s02e25-2-064",
               "it": "Kevin prende il quaderno giallo e scrive.",
               "en": "Kevin takes the yellow notebook and writes.",
               "voice": [
@@ -14326,7 +14721,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-061",
+              "id": "s02e25-2-065",
               "it": "«Che scrivi?» chiede.",
               "en": "“What are you writing?” Matteo asks.",
               "voice": [
@@ -14384,7 +14779,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-062",
+              "id": "s02e25-2-066",
               "it": "«**Brindisi**: solo con il vino» dice.",
               "en": "“**Toast**: only with wine,” Kevin says.",
               "voice": [
@@ -14471,7 +14866,7 @@
               ]
             },
             {
-              "id": "s02e25-2-063",
+              "id": "s02e25-2-067",
               "it": "Franco legge la pagina e non dice niente.",
               "en": "Franco reads the page and says nothing.",
               "voice": [
@@ -14565,7 +14960,7 @@
               ]
             },
             {
-              "id": "s02e25-2-064",
+              "id": "s02e25-2-068",
               "it": "Poi annuisce, una volta sola, e beve il caffè.",
               "en": "Then he nods, just once, and drinks his coffee.",
               "voice": [
@@ -14673,7 +15068,7 @@
         {
           "segments": [
             {
-              "id": "s02e25-2-065",
+              "id": "s02e25-2-069",
               "it": "_Domani sera lo dice a tavola. Davanti a tutti._",
               "en": "_Tomorrow evening he says it at the table. In front of everyone._",
               "voice": [
@@ -14910,12 +15305,12 @@
             },
             {
               "id": "s02e25-3-002",
-              "it": "Emma è in **giardino**, appoggiata al muretto, vicino alla **siepe**.",
-              "en": "Emma is in the garden, leaning on the low wall, near the **hedge**.",
+              "it": "Emma è in giardino, appoggiata al muretto, vicino alla siepe.",
+              "en": "Emma is in the garden, leaning on the low wall, near the hedge.",
               "voice": [
                 [
                   "narrator",
-                  "Emma è in **giardino**, appoggiata al muretto, vicino alla **siepe**.",
+                  "Emma è in giardino, appoggiata al muretto, vicino alla siepe.",
                   ""
                 ]
               ],
@@ -14953,7 +15348,7 @@
                 [
                   "giardino",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -15013,16 +15408,13 @@
                 [
                   "siepe",
                   9,
-                  "b"
+                  ""
                 ],
                 [
                   ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             },
             {
@@ -18988,12 +19380,12 @@
           "segments": [
             {
               "id": "s02e25-3-049",
-              "it": "«Sei **arrossita**» dice.",
+              "it": "«Sei arrossita» dice.",
               "en": "“You've gone red,” Chiara says.",
               "voice": [
                 [
                   "chiara",
-                  "Sei **arrossita**",
+                  "Sei arrossita",
                   ""
                 ],
                 [
@@ -19021,7 +19413,7 @@
                 [
                   "arrossita",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   "» ",
@@ -19038,9 +19430,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             }
           ]
@@ -20397,12 +20786,12 @@
           "segments": [
             {
               "id": "s02e25-3-064",
-              "it": "«L'anno scorso hai **bruciato** tutto e io l'ho scritto» dice.",
-              "en": "“Last year you **burnt** everything and I wrote it down,” Leo says.",
+              "it": "«L'ultima volta hai **bruciato** tutto e io l'ho scritto» dice.",
+              "en": "“Last time you **burnt** everything and I wrote it down,” Leo says.",
               "voice": [
                 [
                   "leo",
-                  "L'anno scorso hai **bruciato** tutto e io l'ho scritto",
+                  "L'ultima volta hai **bruciato** tutto e io l'ho scritto",
                   ""
                 ],
                 [
@@ -20418,7 +20807,7 @@
                   ""
                 ],
                 [
-                  "L'anno",
+                  "L'ultima",
                   0,
                   ""
                 ],
@@ -20428,7 +20817,7 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "volta",
                   1,
                   ""
                 ],
@@ -21017,12 +21406,12 @@
           "segments": [
             {
               "id": "s02e25-3-070",
-              "it": "«Il **rubinetto** funziona. Il **tubo** è nuovo» dice.",
-              "en": "“The **faucet** works. The pipe is new,” Kevin says.",
+              "it": "«Il rubinetto funziona. Il tubo è nuovo» dice.",
+              "en": "“The faucet works. The pipe is new,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Il **rubinetto** funziona. Il **tubo** è nuovo",
+                  "Il rubinetto funziona. Il tubo è nuovo",
                   ""
                 ],
                 [
@@ -21050,7 +21439,7 @@
                 [
                   "rubinetto",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -21080,7 +21469,7 @@
                 [
                   "tubo",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -21117,10 +21506,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-rubinetto",
-                "g-review-pp"
               ]
             }
           ]
@@ -23774,12 +24159,12 @@
             },
             {
               "id": "s02e25-4-020",
-              "it": "«Anche quest'anno!» dice. «Kevin ha **bruciato** tutto come l'anno scorso!»",
-              "en": "“Again this year!” he says. “Kevin **burnt** everything like last year!”",
+              "it": "«Anche stavolta!» dice. «Kevin ha **bruciato** tutto come l'altra volta!»",
+              "en": "“Again!” he says. “Kevin **burnt** everything just like last time!”",
               "voice": [
                 [
                   "matteo",
-                  "Anche quest'anno!",
+                  "Anche stavolta!",
                   "laughing"
                 ],
                 [
@@ -23789,7 +24174,7 @@
                 ],
                 [
                   "matteo",
-                  "Kevin ha **bruciato** tutto come l'anno scorso!",
+                  "Kevin ha **bruciato** tutto come l'altra volta!",
                   ""
                 ]
               ],
@@ -23810,7 +24195,7 @@
                   ""
                 ],
                 [
-                  "quest'anno",
+                  "stavolta",
                   1,
                   ""
                 ],
@@ -23880,7 +24265,7 @@
                   ""
                 ],
                 [
-                  "l'anno",
+                  "l'altra",
                   8,
                   ""
                 ],
@@ -23890,7 +24275,7 @@
                   ""
                 ],
                 [
-                  "scorso",
+                  "volta",
                   9,
                   ""
                 ],
@@ -29955,12 +30340,12 @@
           "segments": [
             {
               "id": "s02e25-4-080",
-              "it": "«Un'altra **fetta**?» chiede.",
+              "it": "«Un'altra fetta?» chiede.",
               "en": "“Another slice?” Lucia asks.",
               "voice": [
                 [
                   "lucia",
-                  "Un'altra **fetta**?",
+                  "Un'altra fetta?",
                   ""
                 ],
                 [
@@ -29988,7 +30373,7 @@
                 [
                   "fetta",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   "?» ",
@@ -30005,9 +30390,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             }
           ]
@@ -35125,12 +35507,12 @@
             },
             {
               "id": "s02e25-5-033",
-              "it": "«Poi il **tubo** ha perso acqua e il **rubinetto** non ha funzionato più» continua.",
-              "en": "“Then the pipe leaked water and the **faucet** stopped working,” Chiara continues.",
+              "it": "«Poi il tubo ha perso acqua e il rubinetto non ha funzionato più» continua.",
+              "en": "“Then the pipe leaked water and the faucet stopped working,” Chiara continues.",
               "voice": [
                 [
                   "chiara",
-                  "Poi il **tubo** ha perso acqua e il **rubinetto** non ha funzionato più",
+                  "Poi il tubo ha perso acqua e il rubinetto non ha funzionato più",
                   ""
                 ],
                 [
@@ -35168,7 +35550,7 @@
                 [
                   "tubo",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -35228,7 +35610,7 @@
                 [
                   "rubinetto",
                   8,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -35285,10 +35667,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp",
-                "v-rubinetto"
               ]
             },
             {
@@ -35754,12 +36132,12 @@
             },
             {
               "id": "s02e25-5-038",
-              "it": "«**È successo** tutto bene. Il **permesso** è arrivato, la finestra è arrivata» dice.",
-              "en": "“**Everything happened** well. The permit arrived, the window arrived,” Kevin says.",
+              "it": "«È successo tutto bene. Il permesso è arrivato, la finestra è arrivata» dice.",
+              "en": "“Everything happened well. The permit arrived, the window arrived,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "**È successo** tutto bene. Il **permesso** è arrivato, la finestra è arrivata",
+                  "È successo tutto bene. Il permesso è arrivato, la finestra è arrivata",
                   ""
                 ],
                 [
@@ -35777,17 +36155,17 @@
                 [
                   "È",
                   0,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "successo",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -35827,7 +36205,7 @@
                 [
                   "permesso",
                   5,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -35904,10 +36282,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-e-successo",
-                "g-review-pp"
               ]
             },
             {
@@ -36030,12 +36404,12 @@
             },
             {
               "id": "s02e25-5-040",
-              "it": "«E io **l'ho preso** io, il **permesso**, da solo» dice.",
-              "en": "“And **I got** it myself, the permit, alone,” Kevin says.",
+              "it": "«E io l'ho preso io, il permesso, da solo» dice.",
+              "en": "“And I got it myself, the permit, alone,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "E io **l'ho preso** io, il **permesso**, da solo",
+                  "E io l'ho preso io, il permesso, da solo",
                   ""
                 ],
                 [
@@ -36073,17 +36447,17 @@
                 [
                   "l'ho",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "preso",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36113,7 +36487,7 @@
                 [
                   "permesso",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -36150,9 +36524,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             }
           ]
@@ -36806,12 +37177,12 @@
             },
             {
               "id": "s02e25-5-047",
-              "it": "«E il **permesso** è arrivato tardi, dopo cinque settimane» dice.",
+              "it": "«E il permesso è arrivato tardi, dopo cinque settimane» dice.",
               "en": "“And the permit arrived late, after five weeks,” Franco says.",
               "voice": [
                 [
                   "franco",
-                  "E il **permesso** è arrivato tardi, dopo cinque settimane",
+                  "E il permesso è arrivato tardi, dopo cinque settimane",
                   ""
                 ],
                 [
@@ -36849,7 +37220,7 @@
                 [
                   "permesso",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36926,9 +37297,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             },
             {
@@ -39529,12 +39897,12 @@
             },
             {
               "id": "s02e25-5-074",
-              "it": "«Il **tubo** ha perso acqua per due mesi» dice.",
+              "it": "«Il tubo ha perso acqua per due mesi» dice.",
               "en": "“The pipe leaked water for two months,” Matteo says.",
               "voice": [
                 [
                   "matteo",
-                  "Il **tubo** ha perso acqua per due mesi",
+                  "Il tubo ha perso acqua per due mesi",
                   ""
                 ],
                 [
@@ -39562,7 +39930,7 @@
                 [
                   "tubo",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -39639,9 +40007,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             }
           ]
@@ -42130,18 +42495,18 @@
             },
             {
               "id": "s02e25-5-100",
-              "it": "Pasando vicino alla **mensola**, tocca il biglietto del concerto.",
+              "it": "Passando vicino alla **mensola**, tocca il biglietto del concerto.",
               "en": "Passing near the **shelf**, she touches the concert ticket.",
               "voice": [
                 [
                   "narrator",
-                  "Pasando vicino alla **mensola**, tocca il biglietto del concerto.",
+                  "Passando vicino alla **mensola**, tocca il biglietto del concerto.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Pasando",
+                  "Passando",
                   0,
                   ""
                 ],
@@ -42421,12 +42786,12 @@
             },
             {
               "id": "s02e25-5-103",
-              "it": "Esce in **giardino** senza dire niente a nessuno.",
+              "it": "Esce in giardino senza dire niente a nessuno.",
               "en": "She goes out into the garden without saying anything to anyone.",
               "voice": [
                 [
                   "narrator",
-                  "Esce in **giardino** senza dire niente a nessuno.",
+                  "Esce in giardino senza dire niente a nessuno.",
                   ""
                 ]
               ],
@@ -42454,7 +42819,7 @@
                 [
                   "giardino",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -42511,9 +42876,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             },
             {
@@ -42649,12 +43011,12 @@
           "segments": [
             {
               "id": "s02e25-5-105",
-              "it": "Kevin resta solo un momento in **cucina**.",
+              "it": "Kevin resta solo un momento in cucina.",
               "en": "Kevin stays alone for a moment in the kitchen.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin resta solo un momento in **cucina**.",
+                  "Kevin resta solo un momento in cucina.",
                   ""
                 ]
               ],
@@ -42722,16 +43084,13 @@
                 [
                   "cucina",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-review-pp"
               ]
             },
             {
@@ -43052,18 +43411,18 @@
             },
             {
               "id": "s02e25-5-109",
-              "it": "Sentire come un **abbraccio** senza toccare nessuno.",
-              "en": "He feels like a **hug** without touching anyone.",
+              "it": "Si sente come un **abbraccio** senza toccare nessuno.",
+              "en": "It feels like a **hug** without touching anyone.",
               "voice": [
                 [
                   "narrator",
-                  "Sentire come un **abbraccio** senza toccare nessuno.",
+                  "Si sente come un **abbraccio** senza toccare nessuno.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Sentire",
+                  "Si",
                   0,
                   ""
                 ],
@@ -43073,7 +43432,7 @@
                   ""
                 ],
                 [
-                  "come",
+                  "sente",
                   1,
                   ""
                 ],
@@ -43083,7 +43442,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "come",
                   2,
                   ""
                 ],
@@ -43093,8 +43452,18 @@
                   ""
                 ],
                 [
-                  "abbraccio",
+                  "un",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "abbraccio",
+                  4,
                   "b"
                 ],
                 [
@@ -43104,16 +43473,6 @@
                 ],
                 [
                   "senza",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "toccare",
                   5,
                   ""
                 ],
@@ -43123,8 +43482,18 @@
                   ""
                 ],
                 [
-                  "nessuno",
+                  "toccare",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "nessuno",
+                  7,
                   ""
                 ],
                 [
@@ -45426,7 +45795,7 @@
             {
               "id": "s02e25-6-026",
               "it": "Non è successo niente di strano.",
-              "en": "Nothing strange **happened**.",
+              "en": "Nothing strange happened.",
               "voice": [
                 [
                   "narrator",
@@ -48564,12 +48933,12 @@
           "segments": [
             {
               "id": "s02e25-7-007",
-              "it": "«Tommaso e Emma. Fuori, vicino alla **siepe**» dice.",
+              "it": "«Tommaso ed Emma. Fuori, vicino alla **siepe**» dice.",
               "en": "“Tommaso and Emma. Outside, near the **hedge**,” Roberto says.",
               "voice": [
                 [
                   "roberto",
-                  "Tommaso e Emma. Fuori, vicino alla **siepe**",
+                  "Tommaso ed Emma. Fuori, vicino alla **siepe**",
                   ""
                 ],
                 [
@@ -48595,7 +48964,7 @@
                   ""
                 ],
                 [
-                  "e",
+                  "ed",
                   1,
                   ""
                 ],

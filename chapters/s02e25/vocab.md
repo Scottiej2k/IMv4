@@ -25,9 +25,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Parola | Italiano | English |
 |---|---|---|
 | **Ferragosto**<br>(n., m) · Ferragosto (the big Italian summer holiday, August 15) | «**Ferragosto** è domani?» chiede. | “Is **Ferragosto** tomorrow?” Leo asks. |
-| **la grigliata**<br>(n., f) · barbecue, cookout | «Ma prima la **grigliata** da papà» aggiunge. | “But first the **cookout** at Dad's,” Chiara adds. |
+| **la grigliata**<br>(n., f) · barbecue, cookout | «L'ultima **grigliata** l'hai bruciata intera» dice. | “The last **cookout** you burnt whole,” Matteo says. |
 | **l'anguria**<br>(n., f) · watermelon | «C'è anche l'**anguria**» dice. «Ne porta una Lucia.» | “There's **watermelon** too,” Chiara says. “Lucia is bringing one.” |
-| **la salsiccia**<br>(n., f) · sausage | «Sì. E le **salsicce** » dice. | “Yes. And the **sausages**,” Kevin says. |
+| **la salsiccia**<br>(n., f) · sausage | «Sì. E le **salsicce**» dice. | “Yes. And the **sausages**,” Kevin says. |
 | **la crosta**<br>(n., f) · crust; the burnt layer | «La **crosta** è nera» dice. | “The **crust** is black,” Franco says. |
 | **il carbone**<br>(n., m) · charcoal; coal | «Il **carbone** è rimasto nell'orto?» chiede. | “Is the **charcoal** still in the garden?” Matteo asks. |
 | **il pavimento**<br>(n., m) · floor | Il **pavimento** è pieno di polvere bianca. | The **floor** is full of white dust. |

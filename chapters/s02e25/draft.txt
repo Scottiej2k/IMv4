@@ -31,7 +31,7 @@ arrossire | verb | | to blush | arrossisce, arrossito, arrossire
 la promessa | noun | f | promise | promessa, promesse
 @end
 
-# SCENE casa-carter | 14 agosto, mattina | ben, chiara, leo
+# SCENE casa-carter | 14 agosto, mattina | ben, chiara, leo, emma
 È il quattordici agosto e in Via dei Tigli 14 non c'è nessun rumore. || It's August fourteenth and at Via dei Tigli 14 there is no noise.
 Niente martelli, niente trapano: **finalmente** niente muratori. || No hammers, no drill: **finally** no builders.
 Kevin apre gli occhi e sorride al **soffitto**. || Kevin opens his eyes and smiles at the **ceiling**.
@@ -83,7 +83,7 @@ Kevin ride e scrive sul quaderno. || Kevin laughs and writes in the notebook.
 «Kevin, **com'è andata** quest'anno?»{chiara} chiede. || “Kevin, **how did it go** this year?” Chiara asks.
 «È **successo** tutto in otto mesi»{ben} dice. || “**Everything happened** in eight months,” Kevin says.
 «**È successo** che abbiamo comprato la casa e aperto un muro.»{ben} || “**What happened** is that we bought the house and opened a wall.”
-«**Com'è andata** la finestra?»{chiara} chiede. || “**How did** the window **go**?” Chiara asks.
+«Com'è andata la finestra?»{chiara} chiede. || “How did the window go?” Chiara asks.
 «L'ho presa io, la finestra. Con il permesso e tutto»{ben} dice. || “I took care of it, the window. With the permit and everything,” Kevin says.
 «**Com'è andata** davvero?»{chiara} chiede ancora. || “**How did it really go**?” Chiara asks again.
 «Davvero? Bene. Più o meno. Ma **è successo** tutto qui»{ben} ammette. || “Really? Well. More or less. But **it all happened** here,” Kevin admits.
@@ -109,7 +109,7 @@ Sul legno è rimasta una **crosta** di **vernice**. || On the wood a **crust** o
 «La **crosta** non va via»{ben} dice. || “The **crust** won't come off,” Kevin says.
 «Perché non è **vernice**. È legno»{chiara} dice. || “Because it isn't **paint**. It's wood,” Chiara says.
 «Allora domani non **brucio** le **salsicce**»{ben} dice. || “Then tomorrow I won't **burn** the **sausages**,” Kevin says.
-«L'anno scorso hai **bruciato** tutto»{chiara} dice. || “Last year you **burnt** everything,” Chiara says.
+«L'ultima volta hai **bruciato** tutto»{chiara} dice. || “Last time you **burnt** everything,” Chiara says.
 «Ma io **brucio** sempre qualcosa»{ben} dice. || “But I always **burn** something,” Kevin says.
 Leo ride e prende la **scopa**. || Leo laughs and takes the **broom**.
 «Io pulisco le **mattonelle** grigie»{leo} dice. || “I'll clean the gray **tiles**,” Leo says.
@@ -141,19 +141,24 @@ Nadia arriva con la pancia e un bicchiere d'acqua. || Nadia comes in with her be
 
 Nadia si siede al tavolino vicino alla porta. || Nadia sits at the little table near the door.
 «Vuoi il **racconto** vero?»{nadia} chiede. || “Do you want the real **story**?” she asks.
-«Il **racconto** vero è questo: il **tubo** sotto il lavandino ha perso acqua per una settimana»{nadia} dice. || “The real **story** is this: the pipe under the sink leaked water for a week,” Nadia says.
+«Il racconto vero è questo: il tubo sotto il lavandino ha perso acqua per una settimana»{nadia} dice. || “The real story is this: the pipe under the sink leaked water for a week,” Nadia says.
 «Il **pavimento** è diventato un lago. Il **rubinetto** non ha funzionato più. Il **secchio** è sempre stato pieno»{nadia} continua. || “The **floor** became a lake. The **faucet** stopped working. The **bucket** was always full,” Nadia continues.
 «E la **vernice**?»{matteo} chiede. || “And the **paint**?” Matteo asks.
-«La **vernice** l'ha **dipinta** Chiara, alle undici di sera»{nadia} dice. || “The **paint** was applied by Chiara, at eleven at night,” Nadia says.
+«La vernice l'ha dipinta Chiara, alle undici di sera»{nadia} dice. || “The paint was applied by Chiara, at eleven at night,” Nadia says.
 «Con lo **straccio** e la **scopa** in mano»{nadia} aggiunge. || “With the **cloth** and the **broom** in her hand,” Nadia adds.
 Kevin ascolta e diventa rosso. || Kevin listens and turns red.
-«La mia **versione** è stata più... corta»{ben} dice. || “My version was more... short,” Kevin says.
-«La tua **versione** è un film»{nadia|dry} dice. || “Your version is a movie,” Nadia says.
+«La mia versione è stata più... corta»{ben} dice. || “My version was more... short,” Kevin says.
+«La tua versione è un film»{nadia|dry} dice. || “Your version is a movie,” Nadia says.
+«Kevin, e Sartori?»{matteo} chiede piano. || “Kevin, what about Sartori?” Matteo asks quietly.
+«Mercoledì ho risposto: no, grazie»{ben} dice Kevin. «Qui ho il bar, la famiglia, i tavolini.» || “On Wednesday I answered: no, thank you,” Kevin says. “Here I have the bar, the family, the tables.”
+«E sei contento?»{nadia} chiede. || “And are you happy?” Nadia asks.
+«Sì. Per una volta ho scelto io»{ben} dice. || “Yes. For once I chose.”
+
 
 La porta si apre e entra Franco con il giornale. || The door opens and Franco comes in with the newspaper.
 «Buongiorno, Kevin. Buongiorno, ragazzi»{franco} dice. || “Good morning, Kevin. Good morning, everybody,” Franco says.
 Kevin gli porta il caffè senza chiedere. || Kevin brings him coffee without asking.
-«Franco, **com'è andata** la casa?»{ben} chiede. || “Franco, **how did** the house **go**?” Kevin asks.
+«Franco, com'è andata la casa?»{ben} chiede. || “Franco, how did the house go?” Kevin asks.
 «Vuoi la mia **versione**?»{franco} chiede. «Allora siediti.» || “Do you want my **version**?” Franco asks. “Then sit down.”
 Franco apre il suo quaderno del 1978. || Franco opens his 1978 notebook.
 «Il **muro** è storto. Cinque centimetri in due metri»{franco} dice. || “The **wall** is crooked. Five centimeters over two meters,” Franco says.
@@ -169,10 +174,10 @@ Matteo mette giù la tazzina e alza le mani. || Matteo puts down the cup and rai
 Nadia ride e beve l'acqua. || Nadia laughs and drinks her water.
 
 «Ultima cosa»{franco} dice. «Domani è **Ferragosto**. Il **carbone** l'hai preso?» || “One last thing,” Franco says. “Tomorrow is **Ferragosto**. Did you get the **charcoal**?”
-«Sì. E le **salsicce** »{ben} dice. || “Yes. And the **sausages**,” Kevin says.
+«Sì. E le **salsicce**»{ben} dice. || “Yes. And the **sausages**,” Kevin says.
 «Non **bruciare** niente»{franco} dice. || “Don't **burn** anything,” Franco says.
 «Io non **brucio** mai»{ben} dice. || “I never **burn** anything,” Kevin says.
-«L'anno scorso hai **bruciato** la **grigliata** intera»{matteo} dice. || “Last year you **burnt** the whole **cookout**,” Matteo says.
+«L'ultima **grigliata** l'hai **bruciata** intera»{matteo} dice. || “The last **cookout** you **burnt** whole,” Matteo says.
 «E la **crosta** è diventata nera»{nadia} aggiunge. || “And the **crust** turned black,” Nadia adds.
 
 Franco prende tre bicchieri e li mette sul bancone. || Franco takes three glasses and puts them on the counter.
@@ -186,7 +191,7 @@ Matteo e Nadia ridono. Kevin prende il bicchiere. || Matteo and Nadia laugh. Kev
 «E a chi non c'è»{franco} dice piano. || “And to those who aren't here,” Franco says softly.
 
 Nadia porta un piatto di cornetti vecchi. || Nadia brings a plate of old croissants.
-«Prima **colazione**: cornetti in offerta»{nadia} dice. || “First breakfast: croissants on sale,” Nadia says.
+«Prima colazione: cornetti in offerta»{nadia} dice. || “First breakfast: croissants on sale,” Nadia says.
 Kevin prende il quaderno giallo e scrive. || Kevin takes the yellow notebook and writes.
 «Che scrivi?»{matteo} chiede. || “What are you writing?” Matteo asks.
 «**Brindisi**: solo con il vino»{ben} dice. || “**Toast**: only with wine,” Kevin says.
@@ -196,7 +201,7 @@ _Domani sera lo dice a tavola. Davanti a tutti._{franco} || *Tomorrow evening he
 
 # SCENE casa-carter | 14 agosto, sera | emma, tommaso, chiara, ben, leo
 Sono le nove di sera e l'aria è ancora calda. || It's nine in the evening and the air is still warm.
-Emma è in **giardino**, appoggiata al muretto, vicino alla **siepe**. || Emma is in the garden, leaning on the low wall, near the **hedge**.
+Emma è in giardino, appoggiata al muretto, vicino alla siepe. || Emma is in the garden, leaning on the low wall, near the hedge.
 Dall'altra parte della **siepe** arriva una voce bassa. || From the other side of the **hedge** comes a low voice.
 «Emma? Ci sei?»{tommaso|low} chiede Tommaso. || “Emma? Are you there?” Tommaso asks.
 «Sì. Sono qui»{emma} dice Emma. || “Yes. I'm here,” Emma says.
@@ -247,7 +252,7 @@ La **cucina nuova** è ancora calda di **vernice**. || The **new kitchen** is st
 Le **mattonelle** bianche brillano sotto la luce. || The white **tiles** shine under the light.
 «Perché hai quella faccia?»{chiara} chiede Chiara. || “Why do you have that face?” Chiara asks.
 «Niente. Ho corso»{emma} dice. || “Nothing. I ran,” Emma says.
-«Sei **arrossita**»{chiara} dice. || “You've gone red,” Chiara says.
+«Sei arrossita»{chiara} dice. || “You've gone red,” Chiara says.
 «Fa caldo. È **Ferragosto**»{emma} dice. || “It's hot. It's **Ferragosto**,” Emma says.
 
 Kevin arriva con un piatto in mano. || Kevin comes in with a plate in his hand.
@@ -264,13 +269,13 @@ Emma lo tocca con un dito e lo rimette giù. || Emma touches it with a finger an
 Leo entra in cucina con il quaderno dei fatti strani. || Leo comes into the kitchen with his notebook of strange facts.
 «Papà, domani alla **grigliata** **bruci** le **salsicce**?»{leo} chiede. || “Dad, tomorrow at the **cookout**, will you **burn** the **sausages**?” Leo asks.
 «Non **brucio** niente»{ben} dice. || “I'm not **burning** anything,” Kevin says.
-«L'anno scorso hai **bruciato** tutto e io l'ho scritto»{leo} dice. || “Last year you **burnt** everything and I wrote it down,” Leo says.
+«L'ultima volta hai **bruciato** tutto e io l'ho scritto»{leo} dice. || “Last time you **burnt** everything and I wrote it down,” Leo says.
 «Quest'anno è diverso»{ben} dice. || “This year is different,” Kevin says.
 «Kevin, **com'è andata** ieri con la finestra?»{chiara} chiede. || “Kevin, **how did it go** yesterday with the window?” Chiara asks.
 «**Com'è andata**? Benissimo»{ben} dice. || “**How did it go**? Great,” Kevin says.
 «Il vetro è nuovo, il **soffitto** è a posto, il **pavimento** è pulito»{ben} continua. || “The glass is new, the **ceiling** is fine, the **floor** is clean,” Kevin continues.
 «E il **rubinetto**?»{chiara} chiede. || “And the **faucet**?” Chiara asks.
-«Il **rubinetto** funziona. Il **tubo** è nuovo»{ben} dice. || “The **faucet** works. The pipe is new,” Kevin says.
+«Il rubinetto funziona. Il tubo è nuovo»{ben} dice. || “The faucet works. The pipe is new,” Kevin says.
 «Allora **è successo** davvero. La casa è finita»{chiara} dice. || “Then **it really happened**. The house is finished,” Chiara says.
 
 Emma prende il pane dalla **mensola**. || Emma takes the bread from the **shelf**.
@@ -302,7 +307,7 @@ Sulla griglia le prime **salsicce** cominciano a **bruciare**. || On the grill t
 «No. È solo... la **crosta**. La **crosta** è normale»{ben} dice. || “No. It's just... the **crust**. The **crust** is normal,” Kevin says.
 «La **crosta** è nera»{franco} dice. || “The **crust** is black,” Franco says.
 Matteo arriva con la forchetta e guarda la griglia. || Matteo arrives with the fork and looks at the grill.
-«Anche quest'anno!»{matteo|laughing} dice. «Kevin ha **bruciato** tutto come l'anno scorso!» || “Again this year!” he says. “Kevin **burnt** everything like last year!”
+«Anche stavolta!»{matteo|laughing} dice. «Kevin ha **bruciato** tutto come l'altra volta!» || “Again!” he says. “Kevin **burnt** everything just like last time!”
 «Non tutto. Solo due»{ben} dice. || “Not everything. Only two,” Kevin says.
 «Tre. Ho contato»{leo} dice. || “Three. I counted,” Leo says.
 
@@ -370,7 +375,7 @@ _Lo dice per mamma. Lo so._{chiara} || *He says it for Mom. I know.*
 
 Lucia taglia una fetta di **anguria** per Ornella. || Lucia cuts a slice of **watermelon** for Ornella.
 «Non ne prendo più»{ornella} dice. «Ne ho già tre.» || “I won't take more,” Ornella says. “I already have three.”
-«Un'altra **fetta**?»{lucia} chiede. || “Another slice?” Lucia asks.
+«Un'altra fetta?»{lucia} chiede. || “Another slice?” Lucia asks.
 «Discreta»{ornella|dry} dice Ornella. «Ne prendo una.» || “Not bad,” Ornella says. “I'll have one.”
 Kevin prende le **salsicce** bruciate e le mette da parte. || Kevin takes the burnt **sausages** and puts them aside.
 «Queste le mangio io»{ben} dice. || “I'll eat these myself,” Kevin says.
@@ -432,15 +437,15 @@ Tutti si siedono e Chiara alza il bicchiere. || Everyone sits down and Chiara ra
 «Il **racconto** tuo?»{matteo} chiede. || “Your **story**?” Matteo asks.
 «Sì. **Com'è andata** la casa, secondo me»{chiara} dice. || “Yes. **How the house went**, according to me,” Chiara says.
 «Il **muro** l'abbiamo aperto noi, il giorno sbagliato»{chiara} dice. || “We opened the **wall** ourselves, on the wrong day,” Chiara says.
-«Poi il **tubo** ha perso acqua e il **rubinetto** non ha funzionato più»{chiara} continua. || “Then the pipe leaked water and the **faucet** stopped working,” Chiara continues.
+«Poi il tubo ha perso acqua e il rubinetto non ha funzionato più»{chiara} continua. || “Then the pipe leaked water and the faucet stopped working,” Chiara continues.
 «Io ho preso la **scopa**, tu hai preso il **secchio**»{chiara} dice. || “I took the **broom**, you took the **bucket**,” Chiara says.
 «E **l'abbiamo asciugato** insieme, il **pavimento**»{chiara} dice. || “And **we dried** it together, the **floor**,” Chiara says.
 Kevin la guarda e non si ricorda niente di quella sera. || Kevin looks at her and doesn't remember anything about that evening.
 
 «La mia **versione** è diversa»{ben|proud} dice Kevin. || “My **version** is different,” Kevin says.
-«**È successo** tutto bene. Il **permesso** è arrivato, la finestra è arrivata»{ben} dice. || “**Everything happened** well. The permit arrived, the window arrived,” Kevin says.
+«È successo tutto bene. Il permesso è arrivato, la finestra è arrivata»{ben} dice. || “Everything happened well. The permit arrived, the window arrived,” Kevin says.
 «La **vernice** è arrivata, la **mensola** è arrivata»{ben} continua. || “The **paint** arrived, the **shelf** arrived,” Kevin continues.
-«E io **l'ho preso** io, il **permesso**, da solo»{ben} dice. || “And **I got** it myself, the permit, alone,” Kevin says.
+«E io l'ho preso io, il permesso, da solo»{ben} dice. || “And I got it myself, the permit, alone,” Kevin says.
 «Da solo?»{chiara} chiede. || “Alone?” Chiara asks.
 «Da solo. Con il geometra e le marche da bollo»{ben} dice. || “Alone. With the surveyor and the stamps,” Kevin says.
 Franco beve il vino e guarda fuori dalla finestra. || Franco drinks his wine and looks out the window.
@@ -448,7 +453,7 @@ Franco beve il vino e guarda fuori dalla finestra. || Franco drinks his wine and
 
 «Il **muro** è storto. L'ho detto a Kevin a marzo»{franco} dice. || “The **wall** is crooked. I told Kevin in March,” Franco says.
 «Il **soffitto** ha una crepa nuova, la numero trecento»{franco} continua. || “The **ceiling** has a new crack, number three hundred,” Franco continues.
-«E il **permesso** è arrivato tardi, dopo cinque settimane»{franco} dice. || “And the permit arrived late, after five weeks,” Franco says.
+«E il permesso è arrivato tardi, dopo cinque settimane»{franco} dice. || “And the permit arrived late, after five weeks,” Franco says.
 «Ma io l'ho controllato ogni mattina alle sette»{franco} dice. || “But I checked it every morning at seven,” Franco says.
 «Per otto mesi. Anche a gennaio»{franco} continua. || “For eight months. Even in January,” Franco continues.
 Kevin mette giù il bicchiere. || Kevin puts down his glass.
@@ -478,7 +483,7 @@ Leo apre il quaderno dei fatti strani e legge. || Leo opens his notebook of stra
 
 Matteo si alza e alza le braccia. || Matteo stands up and raises his arms.
 «E adesso il **racconto** mio, il migliore»{matteo|grand} dice. || “And now my **story**, the best one,” Matteo says.
-«Il **tubo** ha perso acqua per due mesi»{matteo} dice. || “The pipe leaked water for two months,” Matteo says.
+«Il tubo ha perso acqua per due mesi»{matteo} dice. || “The pipe leaked water for two months,” Matteo says.
 «No. Una settimana»{nadia} dice. || “No. One week,” Nadia says.
 «Una settimana, ma **è successo** in agosto»{matteo} dice. || “One week, but it **happened** in August,” Matteo says.
 «E il **pavimento** è diventato una piscina»{matteo} continua. || “And the **floor** became a swimming pool,” Matteo continues.
@@ -506,17 +511,17 @@ Emma guarda Tommaso in fondo al tavolo. || Emma looks at Tommaso at the end of t
 Tommaso guarda l'orologio e poi lei. || Tommaso looks at the clock and then at her.
 Emma si alza piano con il piatto in mano. || Emma gets up slowly with her plate in her hand.
 «Vado a prendere la frutta»{emma} dice. || “I'm going to get the fruit,” Emma says.
-Pasando vicino alla **mensola**, tocca il biglietto del concerto. || Passing near the **shelf**, she touches the concert ticket.
+Passando vicino alla **mensola**, tocca il biglietto del concerto. || Passing near the **shelf**, she touches the concert ticket.
 È ancora lì, dietro il barattolo di **vernice**. || It's still there, behind the can of **paint**.
 _Tre ore. Poi **mezzanotte**. Uno, due, tre._{emma} || *Three hours. Then **midnight**. One, two, three.*
-Esce in **giardino** senza dire niente a nessuno. || She goes out into the garden without saying anything to anyone.
+Esce in giardino senza dire niente a nessuno. || She goes out into the garden without saying anything to anyone.
 Ha la **promessa** in bocca e una piccola ansia nello stomaco. || She has the **promise** on her lips and a small anxiety in her stomach.
 
-Kevin resta solo un momento in **cucina**. || Kevin stays alone for a moment in the kitchen.
+Kevin resta solo un momento in cucina. || Kevin stays alone for a moment in the kitchen.
 Prende lo **straccio** e pulisce l'ultima polvere dalla **mensola**. || He takes the **cloth** and cleans the last dust from the **shelf**.
 Guarda il tavolo, i piatti, il vino, la gente. || He looks at the table, the plates, the wine, the people.
 _Pochi passi, molti anni. Sei arrivato e sei rimasto._{ben} || *A few steps, many years. You arrived and you stayed.*
-Sentire come un **abbraccio** senza toccare nessuno. || He feels like a **hug** without touching anyone.
+Si sente come un **abbraccio** senza toccare nessuno. || It feels like a **hug** without touching anyone.
 Apre il quaderno giallo, cerca la pagina nuova. || He opens the yellow notebook, looks for the new page.
 Poi lo chiude e non scrive niente. || Then he closes it and writes nothing.
 
@@ -548,7 +553,7 @@ Tommaso la guarda e non dice niente. || Tommaso looks at her and says nothing.
 Emma non dice niente neanche lei. || Emma says nothing either.
 Allora arriva il **bacio**. || Then the **kiss** arrives.
 Un **bacio** piccolo, sotto la **luna**, con la **siepe** dietro. || A small **kiss**, under the **moon**, with the **hedge** behind.
-Non è successo niente di strano. || Nothing strange **happened**.
+Non è successo niente di strano. || Nothing strange happened.
 **È successo** solo che adesso sono qui, uno davanti all'altra. || **What happened** is just that now they're here, one in front of the other.
 Poi viene anche un piccolo **abbraccio**. || Then a small **hug** comes too.
 Emma sente il cuore battere forte e le mani fredde. || Emma feels her heart beating hard and her hands cold.
@@ -587,7 +592,7 @@ Marina entra e lo guarda. || Marina comes in and looks at him.
 «Perché sei ancora sveglio?»{marina} chiede. || “Why are you still awake?” she asks.
 «Ho visto qualcosa»{roberto} dice. || “I saw something,” Roberto says.
 «Cosa hai visto?»{marina} chiede. || “What did you see?” Marina asks.
-«Tommaso e Emma. Fuori, vicino alla **siepe**»{roberto} dice. || “Tommaso and Emma. Outside, near the **hedge**,” Roberto says.
+«Tommaso ed Emma. Fuori, vicino alla **siepe**»{roberto} dice. || “Tommaso and Emma. Outside, near the **hedge**,” Roberto says.
 «E che cosa hanno fatto?»{marina} chiede. || “And what did they do?” Marina asks.
 Roberto mette giù il bicchiere. || Roberto puts down the glass.
 «Si sono dati un **bacio**»{roberto} dice. || “They gave each other a **kiss**,” Roberto says.

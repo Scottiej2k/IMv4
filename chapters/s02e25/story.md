@@ -54,7 +54,7 @@ Kevin ride e scrive sul quaderno. «Kevin, **com'è andata** quest'anno?» chied
 
 «È **successo** tutto in otto mesi» dice. «**È successo** che abbiamo comprato la casa e aperto un muro.»
 
-«**Com'è andata** la finestra?» chiede.
+«Com'è andata la finestra?» chiede.
 
 «L'ho presa io, la finestra. Con il permesso e tutto» dice.
 
@@ -86,7 +86,7 @@ Kevin finisce di pulire con lo **straccio**. Sul legno è rimasta una **crosta**
 
 «Allora domani non **brucio** le **salsicce**» dice.
 
-«L'anno scorso hai **bruciato** tutto» dice.
+«L'ultima volta hai **bruciato** tutto» dice.
 
 «Ma io **brucio** sempre qualcosa» dice.
 
@@ -114,19 +114,27 @@ Nadia arriva con la pancia e un bicchiere d'acqua. «**È successo** tutto bene?
 
 «Ah. Sì. Anche quello **è successo**» ammette.
 
-Nadia si siede al tavolino vicino alla porta. «Vuoi il **racconto** vero?» chiede. «Il **racconto** vero è questo: il **tubo** sotto il lavandino ha perso acqua per una settimana» dice. «Il **pavimento** è diventato un lago. Il **rubinetto** non ha funzionato più. Il **secchio** è sempre stato pieno» continua.
+Nadia si siede al tavolino vicino alla porta. «Vuoi il **racconto** vero?» chiede. «Il racconto vero è questo: il tubo sotto il lavandino ha perso acqua per una settimana» dice. «Il **pavimento** è diventato un lago. Il **rubinetto** non ha funzionato più. Il **secchio** è sempre stato pieno» continua.
 
 «E la **vernice**?» chiede.
 
-«La **vernice** l'ha **dipinta** Chiara, alle undici di sera» dice. «Con lo **straccio** e la **scopa** in mano» aggiunge.
+«La vernice l'ha dipinta Chiara, alle undici di sera» dice. «Con lo **straccio** e la **scopa** in mano» aggiunge.
 
-Kevin ascolta e diventa rosso. «La mia **versione** è stata più... corta» dice.
+Kevin ascolta e diventa rosso. «La mia versione è stata più... corta» dice.
 
-«La tua **versione** è un film» dice.
+«La tua versione è un film» dice.
+
+«Kevin, e Sartori?» chiede piano.
+
+«Mercoledì ho risposto: no, grazie» dice Kevin. «Qui ho il bar, la famiglia, i tavolini.»
+
+«E sei contento?» chiede.
+
+«Sì. Per una volta ho scelto io» dice.
 
 La porta si apre e entra Franco con il giornale. «Buongiorno, Kevin. Buongiorno, ragazzi» dice.
 
-Kevin gli porta il caffè senza chiedere. «Franco, **com'è andata** la casa?» chiede.
+Kevin gli porta il caffè senza chiedere. «Franco, com'è andata la casa?» chiede.
 
 «Vuoi la mia **versione**?» chiede. «Allora siediti.» Franco apre il suo quaderno del 1978. «Il **muro** è storto. Cinque centimetri in due metri» dice. «Il **soffitto** ha una crepa nuova, la numero trecento» continua. «E il **permesso** è arrivato tardi. Tutto è arrivato tardi» dice.
 
@@ -140,13 +148,13 @@ Matteo mette giù la tazzina e alza le mani. «Basta! In questa famiglia ogni **
 
 «Ultima cosa» dice. «Domani è **Ferragosto**. Il **carbone** l'hai preso?»
 
-«Sì. E le **salsicce** » dice.
+«Sì. E le **salsicce**» dice.
 
 «Non **bruciare** niente» dice.
 
 «Io non **brucio** mai» dice.
 
-«L'anno scorso hai **bruciato** la **grigliata** intera» dice.
+«L'ultima **grigliata** l'hai **bruciata** intera» dice.
 
 «E la **crosta** è diventata nera» aggiunge.
 
@@ -164,7 +172,7 @@ Matteo e Nadia ridono. Kevin prende il bicchiere. «Domani **brindiamo** alla ca
 
 «E a chi non c'è» dice piano.
 
-Nadia porta un piatto di cornetti vecchi. «Prima **colazione**: cornetti in offerta» dice. Kevin prende il quaderno giallo e scrive.
+Nadia porta un piatto di cornetti vecchi. «Prima colazione: cornetti in offerta» dice. Kevin prende il quaderno giallo e scrive.
 
 «Che scrivi?» chiede.
 
@@ -174,7 +182,7 @@ _Domani sera lo dice a tavola. Davanti a tutti._
 
 ## 3. Casa Carter, Via dei Tigli 14 · 14 agosto, sera
 
-Sono le nove di sera e l'aria è ancora calda. Emma è in **giardino**, appoggiata al muretto, vicino alla **siepe**. Dall'altra parte della **siepe** arriva una voce bassa. «Emma? Ci sei?» chiede Tommaso.
+Sono le nove di sera e l'aria è ancora calda. Emma è in giardino, appoggiata al muretto, vicino alla siepe. Dall'altra parte della **siepe** arriva una voce bassa. «Emma? Ci sei?» chiede Tommaso.
 
 «Sì. Sono qui» dice Emma.
 
@@ -236,7 +244,7 @@ Dalla **cucina nuova** arriva la voce di Chiara. «Emma! Vieni ad apparecchiare!
 
 «Niente. Ho corso» dice.
 
-«Sei **arrossita**» dice.
+«Sei arrossita» dice.
 
 «Fa caldo. È **Ferragosto**» dice.
 
@@ -254,7 +262,7 @@ Leo entra in cucina con il quaderno dei fatti strani. «Papà, domani alla **gri
 
 «Non **brucio** niente» dice.
 
-«L'anno scorso hai **bruciato** tutto e io l'ho scritto» dice.
+«L'ultima volta hai **bruciato** tutto e io l'ho scritto» dice.
 
 «Quest'anno è diverso» dice.
 
@@ -264,7 +272,7 @@ Leo entra in cucina con il quaderno dei fatti strani. «Papà, domani alla **gri
 
 «E il **rubinetto**?» chiede.
 
-«Il **rubinetto** funziona. Il **tubo** è nuovo» dice.
+«Il rubinetto funziona. Il tubo è nuovo» dice.
 
 «Allora **è successo** davvero. La casa è finita» dice.
 
@@ -292,7 +300,7 @@ Sulla griglia le prime **salsicce** cominciano a **bruciare**. «Kevin!» dice F
 
 «La **crosta** è nera» dice.
 
-Matteo arriva con la forchetta e guarda la griglia. «Anche quest'anno!» dice. «Kevin ha **bruciato** tutto come l'anno scorso!»
+Matteo arriva con la forchetta e guarda la griglia. «Anche stavolta!» dice. «Kevin ha **bruciato** tutto come l'altra volta!»
 
 «Non tutto. Solo due» dice.
 
@@ -356,7 +364,7 @@ Chiara guarda Franco e poi guarda il suo bicchiere. _Lo dice per mamma. Lo so._
 
 Lucia taglia una fetta di **anguria** per Ornella. «Non ne prendo più» dice. «Ne ho già tre.»
 
-«Un'altra **fetta**?» chiede.
+«Un'altra fetta?» chiede.
 
 «Discreta» dice Ornella. «Ne prendo una.»
 
@@ -414,9 +422,9 @@ Tutti si siedono e Chiara alza il bicchiere. «Prima di mangiare, io voglio racc
 
 «Il **racconto** tuo?» chiede.
 
-«Sì. **Com'è andata** la casa, secondo me» dice. «Il **muro** l'abbiamo aperto noi, il giorno sbagliato» dice. «Poi il **tubo** ha perso acqua e il **rubinetto** non ha funzionato più» continua. «Io ho preso la **scopa**, tu hai preso il **secchio**» dice. «E **l'abbiamo asciugato** insieme, il **pavimento**» dice. Kevin la guarda e non si ricorda niente di quella sera.
+«Sì. **Com'è andata** la casa, secondo me» dice. «Il **muro** l'abbiamo aperto noi, il giorno sbagliato» dice. «Poi il tubo ha perso acqua e il rubinetto non ha funzionato più» continua. «Io ho preso la **scopa**, tu hai preso il **secchio**» dice. «E **l'abbiamo asciugato** insieme, il **pavimento**» dice. Kevin la guarda e non si ricorda niente di quella sera.
 
-«La mia **versione** è diversa» dice Kevin. «**È successo** tutto bene. Il **permesso** è arrivato, la finestra è arrivata» dice. «La **vernice** è arrivata, la **mensola** è arrivata» continua. «E io **l'ho preso** io, il **permesso**, da solo» dice.
+«La mia **versione** è diversa» dice Kevin. «È successo tutto bene. Il permesso è arrivato, la finestra è arrivata» dice. «La **vernice** è arrivata, la **mensola** è arrivata» continua. «E io l'ho preso io, il permesso, da solo» dice.
 
 «Da solo?» chiede.
 
@@ -424,7 +432,7 @@ Tutti si siedono e Chiara alza il bicchiere. «Prima di mangiare, io voglio racc
 
 Franco beve il vino e guarda fuori dalla finestra. «La **verità** è un'altra» dice.
 
-«Il **muro** è storto. L'ho detto a Kevin a marzo» dice. «Il **soffitto** ha una crepa nuova, la numero trecento» continua. «E il **permesso** è arrivato tardi, dopo cinque settimane» dice. «Ma io l'ho controllato ogni mattina alle sette» dice. «Per otto mesi. Anche a gennaio» continua.
+«Il **muro** è storto. L'ho detto a Kevin a marzo» dice. «Il **soffitto** ha una crepa nuova, la numero trecento» continua. «E il permesso è arrivato tardi, dopo cinque settimane» dice. «Ma io l'ho controllato ogni mattina alle sette» dice. «Per otto mesi. Anche a gennaio» continua.
 
 Kevin mette giù il bicchiere. «Anche a gennaio?» chiede.
 
@@ -450,7 +458,7 @@ Leo apre il quaderno dei fatti strani e legge. «Il **racconto** mio è il più 
 
 «No. Non mi è piaciuta» dice. «Ma **l'ho mangiata** lo stesso» dice.
 
-Matteo si alza e alza le braccia. «E adesso il **racconto** mio, il migliore» dice. «Il **tubo** ha perso acqua per due mesi» dice.
+Matteo si alza e alza le braccia. «E adesso il **racconto** mio, il migliore» dice. «Il tubo ha perso acqua per due mesi» dice.
 
 «No. Una settimana» dice.
 
@@ -470,9 +478,9 @@ Franco si alza in piedi con il bicchiere alto. La **cucina nuova** diventa silen
 
 Chiara abbassa gli occhi e beve. _Lo dice per mamma. Lo so io._
 
-Emma guarda Tommaso in fondo al tavolo. Tommaso guarda l'orologio e poi lei. Emma si alza piano con il piatto in mano. «Vado a prendere la frutta» dice. Pasando vicino alla **mensola**, tocca il biglietto del concerto. È ancora lì, dietro il barattolo di **vernice**. _Tre ore. Poi **mezzanotte**. Uno, due, tre._ Esce in **giardino** senza dire niente a nessuno. Ha la **promessa** in bocca e una piccola ansia nello stomaco.
+Emma guarda Tommaso in fondo al tavolo. Tommaso guarda l'orologio e poi lei. Emma si alza piano con il piatto in mano. «Vado a prendere la frutta» dice. Passando vicino alla **mensola**, tocca il biglietto del concerto. È ancora lì, dietro il barattolo di **vernice**. _Tre ore. Poi **mezzanotte**. Uno, due, tre._ Esce in giardino senza dire niente a nessuno. Ha la **promessa** in bocca e una piccola ansia nello stomaco.
 
-Kevin resta solo un momento in **cucina**. Prende lo **straccio** e pulisce l'ultima polvere dalla **mensola**. Guarda il tavolo, i piatti, il vino, la gente. _Pochi passi, molti anni. Sei arrivato e sei rimasto._ Sentire come un **abbraccio** senza toccare nessuno. Apre il quaderno giallo, cerca la pagina nuova. Poi lo chiude e non scrive niente.
+Kevin resta solo un momento in cucina. Prende lo **straccio** e pulisce l'ultima polvere dalla **mensola**. Guarda il tavolo, i piatti, il vino, la gente. _Pochi passi, molti anni. Sei arrivato e sei rimasto._ Si sente come un **abbraccio** senza toccare nessuno. Apre il quaderno giallo, cerca la pagina nuova. Poi lo chiude e non scrive niente.
 
 ## 6. Via dei Tigli · 15 agosto, notte
 
@@ -514,7 +522,7 @@ Roberto è seduto sul letto con il bicchiere d'acqua. Dalla **finestra** arriva 
 
 «Cosa hai visto?» chiede.
 
-«Tommaso e Emma. Fuori, vicino alla **siepe**» dice.
+«Tommaso ed Emma. Fuori, vicino alla **siepe**» dice.
 
 «E che cosa hanno fatto?» chiede.
 
