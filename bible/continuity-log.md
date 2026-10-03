@@ -410,6 +410,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Matteo and Nadia are partners, not married (Matteo corrects “moglie” to “compagna”); Matteo arrives very late; Samira and Lucia briefly agree about this. Franco says he waited twice, for Matteo and Chiara.
 - **Planted:** The birth itself, the baby’s sex/name, and the blue bow/blanket; Bar Tigli’s door and closure note; Matteo’s unpicked cradle/passeggino.
 
+### s03e14 · Benvenuta, Anna
+- **Happened:** Matteo and Nadia's daughter is born at Ospedale di Monza at 4 a.m. on Christmas Day, after a twelve-and-a-half-hour labor; the family waited in the sala d'attesa from Christmas Eve. Named on Dec 25: Anna Yasmin, Franco's third grandchild. On Dec 26 Matteo hangs a "Benvenuta Anna Yasmin" sign on the closed Bar Tigli.
+- **New facts:** Anna Yasmin Ferri Benali, 3.2 kg, black hair, Nadia's nose; Anna for Franco's late wife, Yasmin (jasmine) for Nadia's maternal grandmother. Ornella is madrina (Nadia's choice); padrino still undecided, Matteo's candidate is Kevin. Ornella knit a blue wool blanket and two blue ribbons for the stroller. Samira's mother's Moroccan blanket wraps the baby. Leo's notebook of strange facts is now at fact 26.
+- **Changed:** Kevin now grasps that nipote has both meanings and calls himself "zio Kevin." Franco keeps his promise to Anna that every child carries a family name; he cries, leaves the room, and is comforted by Lucia.
+- **Planted:** the choice of padrino needs a payoff; Leo suggests the next baby arrive in June, for his birthday.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

@@ -1,0 +1,5 @@
+### s03e14 · Benvenuta, Anna
+- **Happened:** Matteo and Nadia's daughter is born at Ospedale di Monza at 4 a.m. on Christmas Day, after a twelve-and-a-half-hour labor; the family waited in the sala d'attesa from Christmas Eve. Named on Dec 25: Anna Yasmin, Franco's third grandchild. On Dec 26 Matteo hangs a "Benvenuta Anna Yasmin" sign on the closed Bar Tigli.
+- **New facts:** Anna Yasmin Ferri Benali, 3.2 kg, black hair, Nadia's nose; Anna for Franco's late wife, Yasmin (jasmine) for Nadia's maternal grandmother. Ornella is madrina (Nadia's choice); padrino still undecided, Matteo's candidate is Kevin. Ornella knit a blue wool blanket and two blue ribbons for the stroller. Samira's mother's Moroccan blanket wraps the baby. Leo's notebook of strange facts is now at fact 26.
+- **Changed:** Kevin now grasps that nipote has both meanings and calls himself "zio Kevin." Franco keeps his promise to Anna that every child carries a family name; he cries, leaves the room, and is comforted by Lucia.
+- **Planted:** the choice of padrino needs a payoff; Leo suggests the next baby arrive in June, for his birthday.
