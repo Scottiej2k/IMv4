@@ -386,6 +386,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Doug and Franco call each other "amico" and hug; Doug says he'll go out with Franco again tomorrow, and Franco will be the guide. Kevin tells Chiara he can truly live here.
 - **Planted:** Franco as guide on Sunday (potential next episode); Doug and Franco's outing.
 
+### s03e10 · Mi scusi, signore
+- **Happened:** Kevin books the grandparents' anniversary dinner at Il Glicine, a restaurant near the Duomo in Milan (green door, "dal 1968"), and translates all evening for Doug and Linda. Sunday lunch at Franco's: Emma introduces Tommaso to Franco as her boyfriend; Franco takes it well. Monday at Bar Tigli Matteo starts writing a "MENÙ DEL GIORNO" on the blackboard.
+- **New facts:** Tommaso is Roberto Colombo's son, lives at Via dei Tigli 11, and Roberto has known about him and Emma since August. Lucia was at Franco's lunch; she uses Lei with American guests, while Franco uses tu with Doug. Kevin keeps a yellow notebook. Franco's Sunday table uses Anna's white tablecloth.
+- **Changed:** Franco now knows about Tommaso (and met him), so the secret is out inside the family; Chiara knows too. Kevin stops wanting to book his parents into a hotel.
+- **Planted:** Kevin and Franco agree to eat out together at a restaurant "one of these days" (unplanned episode); Matteo's daily blackboard menu at the bar.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
