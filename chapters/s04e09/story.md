@@ -10,7 +10,7 @@ Sono le sei e quaranta di lunedì mattina. Kevin è sveglio da un'ora: ha dormit
 
 _Cinque giorni. Solo cinque giorni. **Ce la faccio**._
 
-Chiara è partita ieri sera per Roma e torna giovedì notte. Davanti a Kevin ci sono i bambini, il bar, le consegne e il progetto della colazione americana. Scende in cucina e accende la macchina del caffè. Sul tavolo c'è la lista: otto indirizzi, otto ordini, otto persone. Il caffè esce troppo in fretta e una **goccia** cade sul pavimento. Poi un'altra **goccia**, e un'altra ancora. Kevin prende uno straccio e pulisce.
+Chiara è partita ieri sera per Roma e torna venerdì. Davanti a Kevin ci sono i bambini, il bar, le consegne e il progetto della colazione americana. Scende in cucina e accende la macchina del caffè. Sul tavolo c'è la lista: otto indirizzi, otto ordini, otto persone. Il caffè esce troppo in fretta e una **goccia** cade sul pavimento. Poi un'altra **goccia**, e un'altra ancora. Kevin prende uno straccio e pulisce.
 
 «Papà?»
 
@@ -78,7 +78,7 @@ Lucia entra, appoggia il **cesto** sul tavolo e guarda la cucina.
 
 «E Chiara?»
 
-«A Roma. Torna giovedì notte.»
+«A Roma. Torna venerdì.»
 
 «E tu sei solo con i bambini, il bar e la colazione americana.»
 
@@ -168,7 +168,7 @@ Matteo mette la bambina sul seggiolone e si avvicina al bancone.
 
 Matteo apre le braccia come un uomo che ha tempo.
 
-«Perfetto. Rispondi domani. O dopodomani. Io aspetto da due anni, posso aspettare due giorni.»
+«Perfetto. Rispondi domani. O dopodomani. Io aspetto da due settimane, posso aspettare due giorni.»
 
 _Non me la sento di dirgli sì. **Non me la sento** di dirgli no. E allora non dico niente._
 
@@ -194,7 +194,7 @@ Kevin **si sfoga** con un gesto largo della mano: vuole indicare una cosa enorme
 
 Nadia lo guarda per un momento e poi parla piano.
 
-«Kevin, io **me la cavo** con una bambina di tre mesi, un bar e una decisione che non ho ancora preso. Non è una gara.»
+«Kevin, io **me la cavo** con una bambina di cinque mesi, un bar e una decisione che non ho ancora preso. Non è una gara.»
 
 «**Me la cavo** anch'io.»
 
@@ -380,7 +380,7 @@ Ornella entra, appoggia il vassoio e guarda la cucina. Ci sono gusci d'uovo sul 
 
 «Kevin, dove è Chiara?»
 
-«A Roma. Torna domani notte.»
+«A Roma. Torna venerdì.»
 
 «E tu **te la cavi** da solo, con i bambini e il bar?»
 
@@ -932,7 +932,7 @@ Kevin apre il **cancello** e fa un passo verso la strada. Poi si gira.
 
 Franco alza le spalle e non risponde. Ma prima di chiudere la porta si ferma.
 
-_È la prima volta in quattro anni che Franco mi dà un consiglio. E il consiglio è perfetto._
+_È la prima volta in otto mesi che Franco mi dà un consiglio. E il consiglio è perfetto._
 
 «Kevin!»
 
@@ -1024,7 +1024,7 @@ Kevin prende il giubbotto e le chiavi. Le **promesse** piccole sono quelle che c
 
 «**Ce la fai**.»
 
-Kevin si gira. È la prima volta che qualcuno glielo dice in quattro anni.
+Kevin si gira. È la prima volta che qualcuno glielo dice in otto mesi.
 
 «Grazie, Emma.»
 

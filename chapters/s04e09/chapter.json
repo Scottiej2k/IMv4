@@ -923,12 +923,12 @@
           "segments": [
             {
               "id": "s04e09-1-005",
-              "it": "Chiara è partita ieri sera per Roma e torna giovedì notte.",
-              "en": "Chiara left for Rome last night and comes back Thursday night.",
+              "it": "Chiara è partita ieri sera per Roma e torna venerdì.",
+              "en": "Chiara left for Rome last night and comes back Friday.",
               "voice": [
                 [
                   "narrator",
-                  "Chiara è partita ieri sera per Roma e torna giovedì notte.",
+                  "Chiara è partita ieri sera per Roma e torna venerdì.",
                   ""
                 ]
               ],
@@ -1024,18 +1024,8 @@
                   ""
                 ],
                 [
-                  "giovedì",
+                  "venerdì",
                   9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "notte",
-                  10,
                   ""
                 ],
                 [
@@ -5322,12 +5312,12 @@
           "segments": [
             {
               "id": "s04e09-1-048",
-              "it": "«A Roma. Torna giovedì notte.»",
-              "en": "“In Rome. She's back Thursday night.”",
+              "it": "«A Roma. Torna venerdì.»",
+              "en": "“In Rome. She's back Friday.”",
               "voice": [
                 [
                   "ben",
-                  "A Roma. Torna giovedì notte.",
+                  "A Roma. Torna venerdì.",
                   ""
                 ]
               ],
@@ -5368,18 +5358,8 @@
                   ""
                 ],
                 [
-                  "giovedì",
+                  "venerdì",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "notte",
-                  4,
                   ""
                 ],
                 [
@@ -11180,12 +11160,12 @@
           "segments": [
             {
               "id": "s04e09-2-020",
-              "it": "«Perfetto. Rispondi domani. O dopodomani. Io aspetto da due anni, posso aspettare due giorni.»",
-              "en": "“Perfect. Answer tomorrow. Or the day after. I've waited two years, I can wait two days.”",
+              "it": "«Perfetto. Rispondi domani. O dopodomani. Io aspetto da due settimane, posso aspettare due giorni.»",
+              "en": "“Perfect. Answer tomorrow. Or the day after. I've waited two weeks, I can wait two days.”",
               "voice": [
                 [
                   "matteo",
-                  "Perfetto. Rispondi domani. O dopodomani. Io aspetto da due anni, posso aspettare due giorni.",
+                  "Perfetto. Rispondi domani. O dopodomani. Io aspetto da due settimane, posso aspettare due giorni.",
                   ""
                 ]
               ],
@@ -11286,7 +11266,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "settimane",
                   9,
                   ""
                 ],
@@ -12728,12 +12708,12 @@
           "segments": [
             {
               "id": "s04e09-2-034",
-              "it": "«Kevin, io **me la cavo** con una bambina di tre mesi, un bar e una decisione che non ho ancora preso. Non è una gara.»",
-              "en": "“Kevin, I **get by** with a three-month-old baby, a bar and a decision I still haven't made. It's not a competition.”",
+              "it": "«Kevin, io **me la cavo** con una bambina di cinque mesi, un bar e una decisione che non ho ancora preso. Non è una gara.»",
+              "en": "“Kevin, I **get by** with a five-month-old baby, a bar and a decision I still haven't made. It's not a competition.”",
               "voice": [
                 [
                   "nadia",
-                  "Kevin, io **me la cavo** con una bambina di tre mesi, un bar e una decisione che non ho ancora preso. Non è una gara.",
+                  "Kevin, io **me la cavo** con una bambina di cinque mesi, un bar e una decisione che non ho ancora preso. Non è una gara.",
                   ""
                 ]
               ],
@@ -12834,7 +12814,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "cinque",
                   9,
                   ""
                 ],
@@ -24164,12 +24144,12 @@
           "segments": [
             {
               "id": "s04e09-3-034",
-              "it": "«A Roma. Torna domani notte.»",
-              "en": "“In Rome. She's back tomorrow night.”",
+              "it": "«A Roma. Torna venerdì.»",
+              "en": "“In Rome. She's back Friday.”",
               "voice": [
                 [
                   "ben",
-                  "A Roma. Torna domani notte.",
+                  "A Roma. Torna venerdì.",
                   ""
                 ]
               ],
@@ -24210,18 +24190,8 @@
                   ""
                 ],
                 [
-                  "domani",
+                  "venerdì",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "notte",
-                  4,
                   ""
                 ],
                 [
@@ -60995,12 +60965,12 @@
           "segments": [
             {
               "id": "s04e09-6-118",
-              "it": "_È la prima volta in quattro anni che Franco mi dà un consiglio. E il consiglio è perfetto._",
-              "en": "_It's the first time in four years that Franco has given me advice. And the advice is perfect._",
+              "it": "_È la prima volta in otto mesi che Franco mi dà un consiglio. E il consiglio è perfetto._",
+              "en": "_It's the first time in eight months that Franco has given me advice. And the advice is perfect._",
               "voice": [
                 [
                   "ben",
-                  "È la prima volta in quattro anni che Franco mi dà un consiglio. E il consiglio è perfetto.",
+                  "È la prima volta in otto mesi che Franco mi dà un consiglio. E il consiglio è perfetto.",
                   "thinking to themself, quiet and close"
                 ]
               ],
@@ -61056,7 +61026,7 @@
                   "i"
                 ],
                 [
-                  "quattro",
+                  "otto",
                   5,
                   "i"
                 ],
@@ -61066,7 +61036,7 @@
                   "i"
                 ],
                 [
-                  "anni",
+                  "mesi",
                   6,
                   "i"
                 ],
@@ -66533,12 +66503,12 @@
           "segments": [
             {
               "id": "s04e09-7-036",
-              "it": "Kevin si gira. È la prima volta che qualcuno glielo dice in quattro anni.",
-              "en": "Kevin turns around. It's the first time anyone has said it to him in four years.",
+              "it": "Kevin si gira. È la prima volta che qualcuno glielo dice in otto mesi.",
+              "en": "Kevin turns around. It's the first time anyone has said it to him in eight months.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin si gira. È la prima volta che qualcuno glielo dice in quattro anni.",
+                  "Kevin si gira. È la prima volta che qualcuno glielo dice in otto mesi.",
                   ""
                 ]
               ],
@@ -66664,7 +66634,7 @@
                   ""
                 ],
                 [
-                  "quattro",
+                  "otto",
                   12,
                   ""
                 ],
@@ -66674,7 +66644,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "mesi",
                   13,
                   ""
                 ],

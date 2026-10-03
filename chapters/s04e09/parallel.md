@@ -12,7 +12,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Nel **buio** della camera sente solo il **rumore** della sveglia sul comodino. | In the **dark** of the bedroom he hears only the **noise** of the alarm clock on the nightstand. |
 | Allunga la mano e la spegne. | He reaches out his hand and turns it off. |
 | _Cinque giorni. Solo cinque giorni. **Ce la faccio**._ | _Five days. Just five days. I can do it._ |
-| Chiara è partita ieri sera per Roma e torna giovedì notte. | Chiara left for Rome last night and comes back Thursday night. |
+| Chiara è partita ieri sera per Roma e torna venerdì. | Chiara left for Rome last night and comes back Friday. |
 | Davanti a Kevin ci sono i bambini, il bar, le consegne e il progetto della colazione americana. | Ahead of Kevin are the kids, the bar, the deliveries and the American breakfast project. |
 | Scende in cucina e accende la macchina del caffè. | He goes down to the kitchen and turns on the coffee machine. |
 | Sul tavolo c'è la lista: otto indirizzi, otto ordini, otto persone. | On the table there's the list: eight addresses, eight orders, eight people. |
@@ -55,7 +55,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Tutto bene?» | “Everything okay?” |
 | «Tutto bene.» | “Everything fine.” |
 | «E Chiara?» | “And Chiara?” |
-| «A Roma. Torna giovedì notte.» | “In Rome. She's back Thursday night.” |
+| «A Roma. Torna venerdì.» | “In Rome. She's back Friday.” |
 | «E tu sei solo con i bambini, il bar e la colazione americana.» | “And you're alone with the kids, the bar and the American breakfast.” |
 | «Sì.» | “Yes.” |
 | Lucia lo guarda un momento di troppo. Kevin guarda l'orologio due volte. | Lucia looks at him a moment too long. Kevin looks at the clock twice. |
@@ -115,7 +115,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E?» | “And?” |
 | «E **non me la sento** di rispondere oggi.» | “And **I don't feel up to** answering today.” |
 | Matteo apre le braccia come un uomo che ha tempo. | Matteo opens his arms like a man who has time. |
-| «Perfetto. Rispondi domani. O dopodomani. Io aspetto da due anni, posso aspettare due giorni.» | “Perfect. Answer tomorrow. Or the day after. I've waited two years, I can wait two days.” |
+| «Perfetto. Rispondi domani. O dopodomani. Io aspetto da due settimane, posso aspettare due giorni.» | “Perfect. Answer tomorrow. Or the day after. I've waited two weeks, I can wait two days.” |
 | _Non me la sento di dirgli sì. **Non me la sento** di dirgli no. E allora non dico niente._ | _I don't feel up to telling him yes. **I don't feel up to** telling him no. And so I say nothing._ |
 | Nadia scende dalla scala con un vassoio di cornetti appena cotti. | Nadia comes down the stairs with a tray of freshly baked croissants. |
 | Ha le occhiaie ma l'aria decisa di sempre. | She has dark circles under her eyes but the determined look she always has. |
@@ -129,7 +129,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E delle zucchine.» | “And the zucchini.” |
 | «E delle zucchine.» | “And the zucchini.” |
 | Nadia lo guarda per un momento e poi parla piano. | Nadia looks at him for a moment and then speaks softly. |
-| «Kevin, io **me la cavo** con una bambina di tre mesi, un bar e una decisione che non ho ancora preso. Non è una gara.» | “Kevin, I **get by** with a three-month-old baby, a bar and a decision I still haven't made. It's not a competition.” |
+| «Kevin, io **me la cavo** con una bambina di cinque mesi, un bar e una decisione che non ho ancora preso. Non è una gara.» | “Kevin, I **get by** with a five-month-old baby, a bar and a decision I still haven't made. It's not a competition.” |
 | «**Me la cavo** anch'io.» | “I **get by** too.” |
 | Nadia appoggia il vassoio e incrocia le braccia. | Nadia sets down the tray and crosses her arms. |
 | «Ah sì? E allora perché Leo mi ha detto che hai messo le zucchine nel congelatore?» | “Oh yeah? Then why did Leo tell me you put the zucchini in the freezer?” |
@@ -240,7 +240,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ornella entra, appoggia il vassoio e guarda la cucina. | Ornella comes in, sets down the tray and looks at the kitchen. |
 | Ci sono gusci d'uovo sul piano, un **cesto** di **zucchine** accanto al lavandino, fogli per terra. | There are eggshells on the counter, a **basket** of **zucchini** next to the sink, papers on the floor. |
 | «Kevin, dove è Chiara?» | “Kevin, where is Chiara?” |
-| «A Roma. Torna domani notte.» | “In Rome. She's back tomorrow night.” |
+| «A Roma. Torna venerdì.» | “In Rome. She's back Friday.” |
 | «E tu **te la cavi** da solo, con i bambini e il bar?» | “And you **get by** alone, with the kids and the bar?” |
 | «**Me la cavo**.» Kevin dice la frase troppo in fretta. | “I **get by**.” Kevin says the sentence too fast. |
 | Ornella lo guarda con calma, come si guarda un quadro storto. | Ornella looks at him calmly, the way you look at a crooked painting. |
@@ -577,7 +577,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non dirlo. Non l'ho fatto per te.» | “Don't say it. I didn't do it for you.” |
 | «Per chi l'hai fatto?» | “Who did you do it for?” |
 | Franco alza le spalle e non risponde. Ma prima di chiudere la porta si ferma. | Franco shrugs and doesn't answer. But before closing the door he stops. |
-| _È la prima volta in quattro anni che Franco mi dà un consiglio. E il consiglio è perfetto._ | _It's the first time in four years that Franco has given me advice. And the advice is perfect._ |
+| _È la prima volta in otto mesi che Franco mi dà un consiglio. E il consiglio è perfetto._ | _It's the first time in eight months that Franco has given me advice. And the advice is perfect._ |
 | «Kevin!» | “Kevin!” |
 | «Sì?» | “Yes?” |
 | «Aspetta.» | “Wait.” |
@@ -634,7 +634,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Otto consegne, poi il bar.» Emma lo segue con lo sguardo fino alla porta. «Papà?» | “Eight deliveries, then the bar.” Emma follows him with her eyes to the door. “Dad?” |
 | «Sì?» | “Yes?” |
 | «**Ce la fai**.» | “**You can do it**.” |
-| Kevin si gira. È la prima volta che qualcuno glielo dice in quattro anni. | Kevin turns around. It's the first time anyone has said it to him in four years. |
+| Kevin si gira. È la prima volta che qualcuno glielo dice in otto mesi. | Kevin turns around. It's the first time anyone has said it to him in eight months. |
 | «Grazie, Emma.» | “Thanks, Emma.” |
 | Esce. Fuori il sole sale appena sopra i tetti di Via dei Tigli. | He goes out. Outside the sun rises **barely** above the roofs of Via dei Tigli. |
 | _Ce la faccio. Non so se è vero, ma **me la dico** anch'io._ | _I can do it. I don't know if it's true, but **I say it to myself** too._ |

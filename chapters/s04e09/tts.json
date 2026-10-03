@@ -33,7 +33,7 @@
           "s04e09-1-004:0-7"
         ],
         [
-          "s04e09-1-005:0-10",
+          "s04e09-1-005:0-9",
           "s04e09-1-006:0-16",
           "s04e09-1-007:0-8",
           "s04e09-1-008:0-10",
@@ -72,7 +72,7 @@
               },
               {
                 "type": "text",
-                "text": "Chiara è partita ieri sera per Roma e torna giovedì notte. Davanti a Kevin ci sono i bambini, il bar, le consegne e il progetto della colazione americana. Scende in cucina e accende la macchina del caffè. Sul tavolo c'è la lista: otto indirizzi, otto ordini, otto persone. Il caffè esce troppo in fretta e una goccia cade sul pavimento. Poi un'altra goccia, e un'altra ancora. Kevin prende uno straccio e pulisce.",
+                "text": "Chiara è partita ieri sera per Roma e torna venerdì. Davanti a Kevin ci sono i bambini, il bar, le consegne e il progetto della colazione americana. Scende in cucina e accende la macchina del caffè. Sul tavolo c'è la lista: otto indirizzi, otto ordini, otto persone. Il caffè esce troppo in fretta e una goccia cade sul pavimento. Poi un'altra goccia, e un'altra ancora. Kevin prende uno straccio e pulisce.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1146,7 +1146,7 @@
           "s04e09-1-047:0-1"
         ],
         [
-          "s04e09-1-048:0-4"
+          "s04e09-1-048:0-3"
         ],
         [
           "s04e09-1-049:0-12"
@@ -1185,7 +1185,7 @@
               },
               {
                 "type": "text",
-                "text": "A Roma. Torna giovedì notte.",
+                "text": "A Roma. Torna venerdì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2463,7 +2463,7 @@
               },
               {
                 "type": "text",
-                "text": "Perfetto. Rispondi domani. O dopodomani. Io aspetto da due anni, posso aspettare due giorni.",
+                "text": "Perfetto. Rispondi domani. O dopodomani. Io aspetto da due settimane, posso aspettare due giorni.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2865,7 +2865,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin, io me la cavo con una bambina di tre mesi, un bar e una decisione che non ho ancora preso. Non è una gara.",
+                "text": "Kevin, io me la cavo con una bambina di cinque mesi, un bar e una decisione che non ho ancora preso. Non è una gara.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5883,7 +5883,7 @@
       ],
       "words": [
         [
-          "s04e09-3-034:0-4"
+          "s04e09-3-034:0-3"
         ],
         [
           "s04e09-3-035:0-12"
@@ -5900,7 +5900,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "A Roma. Torna domani notte.",
+                "text": "A Roma. Torna venerdì.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13560,7 +13560,7 @@
               },
               {
                 "type": "text",
-                "text": "È la prima volta in quattro anni che Franco mi dà un consiglio. E il consiglio è perfetto.",
+                "text": "È la prima volta in otto mesi che Franco mi dà un consiglio. E il consiglio è perfetto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15031,7 +15031,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin si gira. È la prima volta che qualcuno glielo dice in quattro anni.",
+                "text": "Kevin si gira. È la prima volta che qualcuno glielo dice in otto mesi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
