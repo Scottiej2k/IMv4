@@ -4588,12 +4588,12 @@
           "segments": [
             {
               "id": "s03e19-1-045",
-              "it": "«È agosto, Franco» dice Lucia.",
-              "en": "“It's August, Franco,” says Lucia.",
+              "it": "«Sono sei mesi, Franco» dice Lucia.",
+              "en": "“It's been six months, Franco,” says Lucia.",
               "voice": [
                 [
                   "lucia",
-                  "È agosto, Franco",
+                  "Sono sei mesi, Franco",
                   ""
                 ],
                 [
@@ -4609,7 +4609,7 @@
                   ""
                 ],
                 [
-                  "È",
+                  "Sono",
                   0,
                   ""
                 ],
@@ -4619,8 +4619,18 @@
                   ""
                 ],
                 [
-                  "agosto",
+                  "sei",
                   1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mesi",
+                  2,
                   ""
                 ],
                 [
@@ -4630,7 +4640,7 @@
                 ],
                 [
                   "Franco",
-                  2,
+                  3,
                   ""
                 ],
                 [
@@ -4640,7 +4650,7 @@
                 ],
                 [
                   "dice",
-                  3,
+                  4,
                   ""
                 ],
                 [
@@ -4650,7 +4660,7 @@
                 ],
                 [
                   "Lucia",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -27826,12 +27836,12 @@
           "segments": [
             {
               "id": "s03e19-4-046",
-              "it": "«Bene. La pomata la sera, l'impacco dopo la bocce» dice Nadia.",
+              "it": "«Bene. La pomata la sera, l'impacco dopo le bocce» dice Nadia.",
               "en": "“Good. The ointment in the evening, the compress after bocce,” says Nadia.",
               "voice": [
                 [
                   "nadia",
-                  "Bene. La pomata la sera, l'impacco dopo la bocce",
+                  "Bene. La pomata la sera, l'impacco dopo le bocce",
                   ""
                 ],
                 [
@@ -27917,7 +27927,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "le",
                   7,
                   ""
                 ],
@@ -51094,12 +51104,12 @@
           "segments": [
             {
               "id": "s03e19-7-032",
-              "it": "«No. Brava persona» dice il dottore.",
-              "en": "“No. Good person,” says the doctor.",
+              "it": "«No. Bravo» dice il dottore.",
+              "en": "“No. Good,” says the doctor.",
               "voice": [
                 [
                   "uomo",
-                  "No. Brava persona",
+                  "No. Bravo",
                   ""
                 ],
                 [
@@ -51125,18 +51135,8 @@
                   ""
                 ],
                 [
-                  "Brava",
+                  "Bravo",
                   1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "persona",
-                  2,
                   ""
                 ],
                 [
@@ -51146,7 +51146,7 @@
                 ],
                 [
                   "dice",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -51156,7 +51156,7 @@
                 ],
                 [
                   "il",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -51166,7 +51166,7 @@
                 ],
                 [
                   "dottore",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -55025,8 +55025,8 @@
           "segments": [
             {
               "id": "s03e19-7-073",
-              "it": "«Già li ho» dice Franco, guardando Nadia assente.",
-              "en": "“I already have them,” says Franco, thinking of absent Nadia.",
+              "it": "«Già li ho» dice Franco, e pensa a Nadia.",
+              "en": "“I already have them,” says Franco, and thinks of Nadia.",
               "voice": [
                 [
                   "franco",
@@ -55035,7 +55035,7 @@
                 ],
                 [
                   "narrator",
-                  "dice Franco, guardando Nadia assente.",
+                  "dice Franco, e pensa a Nadia.",
                   ""
                 ]
               ],
@@ -55096,7 +55096,7 @@
                   ""
                 ],
                 [
-                  "guardando",
+                  "e",
                   5,
                   ""
                 ],
@@ -55106,7 +55106,7 @@
                   ""
                 ],
                 [
-                  "Nadia",
+                  "pensa",
                   6,
                   ""
                 ],
@@ -55116,8 +55116,18 @@
                   ""
                 ],
                 [
-                  "assente",
+                  "a",
                   7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Nadia",
+                  8,
                   ""
                 ],
                 [

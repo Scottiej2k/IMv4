@@ -52,7 +52,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Da qualche settimana» dice Franco. «Da agosto, forse». | “For a few weeks,” says Franco. “Since August, maybe.” |
 | «Da agosto?» dice Lucia, con **le labbra** aperte. | “Since August?” says Lucia, with her **lips** open. |
 | «Non è niente» dice Franco. | “It's nothing,” says Franco. |
-| «È agosto, Franco» dice Lucia. | “It's August, Franco,” says Lucia. |
+| «Sono sei mesi, Franco» dice Lucia. | “It's been six months, Franco,” says Lucia. |
 | «Ad agosto fa caldo. Le ginocchia sentono il tempo» dice Franco. | “In August it's hot. Knees feel the weather,” says Franco. |
 | Lucia ride piano. | Lucia laughs quietly. |
 | «Non ridere» dice Franco. | “Don't laugh,” says Franco. |
@@ -318,7 +318,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Lucia apre la borsa e tira fuori due cose. | Lucia opens her bag and takes out two things. |
 | Una **pomata** piccola e un **impacco** freddo. | A small **ointment** and a cold **compress**. |
 | «Questi li ho già» dice Lucia. | “I already have these,” says Lucia. |
-| «Bene. La pomata la sera, l'impacco dopo la bocce» dice Nadia. | “Good. The ointment in the evening, the compress after bocce,” says Nadia. |
+| «Bene. La pomata la sera, l'impacco dopo le bocce» dice Nadia. | “Good. The ointment in the evening, the compress after bocce,” says Nadia. |
 | «E la **ricetta**?» chiede Lucia. | “And the **prescription**?” asks Lucia. |
 | «La ricetta arriva dopo la visita» dice Nadia. | “The prescription comes after the visit,” says Nadia. |
 | «E la visita chi gliela fa?» chiede Chiara. | “And who gives him the visit?” asks Chiara. |
@@ -593,7 +593,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Franco si siede con **il cuscino** che ha portato da casa. | Franco sits down with the **cushion** he brought from home. |
 | «Ha portato **il cuscino**?» chiede il dottore. | “You brought the **cushion**?” asks the doctor. |
 | «Sì. Problemi?» chiede Franco. | “Yes. A problem?” asks Franco. |
-| «No. Brava persona» dice il dottore. | “No. Good person,” says the doctor. |
+| «No. Bravo» dice il dottore. | “No. Good,” says the doctor. |
 | Il dottore guarda **la lastra** con calma. | The doctor looks at the **X-ray** calmly. |
 | Poi prende **le dita** di Franco e le piega. | Then he takes Franco's **fingers** and bends them. |
 | «Qui sente **dolore**?» chiede il dottore. | “Do you feel **pain** here?” asks the doctor. |
@@ -634,7 +634,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **bastone** è per chi cade» dice il dottore. | “A **cane** is for people who fall,” says the doctor. |
 | Franco non risponde. | Franco doesn't answer. |
 | «La sera: **la pomata** e **l'impacco** freddo» dice il dottore. | “In the evening: the **ointment** and the cold **compress**,” says the doctor. |
-| «Già li ho» dice Franco, guardando Nadia assente. | “I already have them,” says Franco, thinking of absent Nadia. |
+| «Già li ho» dice Franco, e pensa a Nadia. | “I already have them,” says Franco, and thinks of Nadia. |
 | «Bene. E quando si alza dalla **poltrona**…» dice il dottore. | “Good. And when you get up from the **armchair**…” says the doctor. |
 | «Come mi alzo?» chiede Franco. | “How should I get up?” asks Franco. |
 | «Con **le mani** sulle ginocchia. Piano» dice il dottore. | “With your **hands** on your knees. Slowly,” says the doctor. |

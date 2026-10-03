@@ -1842,10 +1842,10 @@
       ],
       "words": [
         [
-          "s03e19-1-045:0-2"
+          "s03e19-1-045:0-3"
         ],
         [
-          "s03e19-1-045:3-4"
+          "s03e19-1-045:4-5"
         ]
       ],
       "request": {
@@ -1856,7 +1856,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "È agosto, Franco",
+                "text": "Sono sei mesi, Franco",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14037,7 +14037,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Bene. La pomata la sera, l'impacco dopo la bocce",
+                "text": "Bene. La pomata la sera, l'impacco dopo le bocce",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -25705,10 +25705,10 @@
       ],
       "words": [
         [
-          "s03e19-7-032:0-2"
+          "s03e19-7-032:0-1"
         ],
         [
-          "s03e19-7-032:3-5",
+          "s03e19-7-032:2-4",
           "s03e19-7-033:0-6",
           "s03e19-7-034:0-8"
         ],
@@ -25727,7 +25727,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "No. Brava persona",
+                "text": "No. Bravo",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -27676,7 +27676,7 @@
           "s03e19-7-073:0-2"
         ],
         [
-          "s03e19-7-073:3-7"
+          "s03e19-7-073:3-8"
         ]
       ],
       "request": {
@@ -27698,7 +27698,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Franco, guardando Nadia assente.",
+                "text": "dice Franco, e pensa a Nadia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

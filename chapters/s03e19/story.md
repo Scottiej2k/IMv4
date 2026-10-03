@@ -56,7 +56,7 @@ Lucia sospira e si siede vicino a lui. «Franco, hai settantadue anni» dice Luc
 
 «Non è niente» dice Franco.
 
-«È agosto, Franco» dice Lucia.
+«Sono sei mesi, Franco» dice Lucia.
 
 «Ad agosto fa caldo. Le ginocchia sentono il tempo» dice Franco. Lucia ride piano. «Non ridere» dice Franco.
 
@@ -406,7 +406,7 @@ Chiara guarda il foglio e non parla. _Vecchiaia. La parola che papà odia._
 
 Lucia apre la borsa e tira fuori due cose. Una **pomata** piccola e un **impacco** freddo. «Questi li ho già» dice Lucia.
 
-«Bene. La pomata la sera, l'impacco dopo la bocce» dice Nadia.
+«Bene. La pomata la sera, l'impacco dopo le bocce» dice Nadia.
 
 «E la **ricetta**?» chiede Lucia.
 
@@ -742,7 +742,7 @@ Il dottore è giovane, con gli occhiali. Sul tavolo c'è **la lastra** delle **g
 
 «Sì. Problemi?» chiede Franco.
 
-«No. Brava persona» dice il dottore.
+«No. Bravo» dice il dottore.
 
 Il dottore guarda **la lastra** con calma. Poi prende **le dita** di Franco e le piega. «Qui sente **dolore**?» chiede il dottore.
 
@@ -796,7 +796,7 @@ Il dottore guarda **la lastra** con calma. Poi prende **le dita** di Franco e le
 
 «La sera: **la pomata** e **l'impacco** freddo» dice il dottore.
 
-«Già li ho» dice Franco, guardando Nadia assente.
+«Già li ho» dice Franco, e pensa a Nadia.
 
 «Bene. E quando si alza dalla **poltrona**…» dice il dottore.
 
