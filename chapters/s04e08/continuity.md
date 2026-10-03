@@ -1,0 +1,5 @@
+### s04e08 · Non l'avevo mai detto
+- **Happened:** Gennaro tells Chiara about his parents' five-year divorce and his father's abandonment; Chiara admits she misjudged Lucia. Nadia tells Matteo she applied for a Milan pharmacy job in September, got a written offer in October, never answered it. Lucia and Chiara reconcile; Gennaro's lost suitcase finally arrives with a photo of young Lucia.
+- **New facts:** Gennaro's father left when Gennaro was 12; divorce came 5 years later, father refused to sign/pay; Gennaro went to London at 24. Lucia was alone 10 years. Nadia's offer: Porta Romana pharmacy, 9 employees, €600/month more, for November. Matteo/Nadia plan to talk Monday 9am. Emma got 7 on a theme on Bassi's advice.
+- **Changed:** Chiara now knows Lucia's past and no longer resents her; Nadia's secret is known to Matteo; Kevin suspects something. Open: will Nadia call the pharmacy?
+- **Planted:** Gennaro promises the suitcase to a June wedding (future wedding episode); Nadia's unanswered offer needs resolution.

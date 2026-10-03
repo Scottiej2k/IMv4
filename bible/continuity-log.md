@@ -524,6 +524,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco chose his own orto (Via dei Tigli 9) for the June 21 wedding, ~34 seats, with three conditions; Chiara gave up measuring; Franco left Kevin's cooking-course request at "Vedremo."
 - **Planted:** Kevin's foreigner cooking course still needs a home — possibly Franco's orto; Roberto sends the low-number form and will help Kevin with modules.
 
+### s04e08 · Non l'avevo mai detto
+- **Happened:** Gennaro tells Chiara about his parents' five-year divorce and his father's abandonment; Chiara admits she misjudged Lucia. Nadia tells Matteo she applied for a Milan pharmacy job in September, got a written offer in October, never answered it. Lucia and Chiara reconcile; Gennaro's lost suitcase finally arrives with a photo of young Lucia.
+- **New facts:** Gennaro's father left when Gennaro was 12; divorce came 5 years later, father refused to sign/pay; Gennaro went to London at 24. Lucia was alone 10 years. Nadia's offer: Porta Romana pharmacy, 9 employees, €600/month more, for November. Matteo/Nadia plan to talk Monday 9am. Emma got 7 on a theme on Bassi's advice.
+- **Changed:** Chiara now knows Lucia's past and no longer resents her; Nadia's secret is known to Matteo; Kevin suspects something. Open: will Nadia call the pharmacy?
+- **Planted:** Gennaro promises the suitcase to a June wedding (future wedding episode); Nadia's unanswered offer needs resolution.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
