@@ -434,6 +434,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara accepts limited help; Franco suggests she rest Sunday, unresolved. Kevin and Emma share a secret: Emma trusts Kevin's judgment over Tommaso's; Chiara knows only that a secret exists. Kevin covers Wednesday mornings at Bar Tigli free.
 - **Planted:** Thursday doctor visit; Friday facade deadline; Chiara's burnout; Emma/Tommaso; Kevin tells Chiara he ordered the car seat (with Matteo's money) on Monday, yet Nadia orders one on Wednesday: unresolved inconsistency, can be a payoff.
 
+### s03e18 · Cara Chiara
+- **Happened:** Chiara finds an unsigned letter from Anna, dated 12 March, in the tin box; reads it aloud at Franco's, with Lucia present. It reveals Anna danced at the Centro civico two years without telling Franco and asked Lucia to watch over him. Franco and Chiara forgive Lucia; Chiara tells Kevin «Ti voglio bene».
+- **New facts:** Lucia has taught at the Centro civico for 35 years and is Neapolitan-born; keeps Anna's postcard in her bag. Anna's letter was written four years ago, a few weeks before she died. Kevin collected stamps as a boy; album in a drawer at grandma Linda's in Ohio. Leo writes a letter a day (Pietro, Marta, Ornella, baby Anna Yasmin) and stamps a francobollo as his signature.
+- **Changed:** Chiara and Franco both now know Anna arranged Lucia's role; Emma knows the letter's last line. Chiara knows Emma writes songs but stays silent.
+- **Planted:** Emma's hidden songs and Leo's letter to Anna Yasmin (none planned).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
