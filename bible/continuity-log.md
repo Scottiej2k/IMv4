@@ -332,6 +332,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin turned down the Sartori job on Wednesday and is staying at Bar Tigli ("for once I chose"). Roberto knows about Emma and Tommaso; Marina approves and wants to invite the Carters to dinner. Roberto's condition: the hedge stays untouched. Emma and Tommaso's relationship is now a kiss.
 - **Planted:** Roberto and Marina's dinner invitation to the Carters (episode unknown); Roberto catching the two at the hedge may bring new committee friction.
 
+### s03e01 · Quando ero piccola
+- **Happened:** First day of school; Chiara opens Anna's tin in Franco's kitchen; Lucia brings boxes to Franco's all week; Sunday Franco gives Leo his old leather ball.
+- **New facts:** Anna's tin — with her album, her cloth doll and photos — was found by Kevin two years ago inside the wall of Via dei Tigli 14; Franco hid it in his attic. Chiara now keeps tin, album, doll and three glass marbles (Franco's father's) at no. 14. Leo's teacher is maestra Paola; classmates Pietro; Emma's friend Bianca. Kevin's childhood teddy was "Bob", still in Ohio; he hid snacks under his bed. Franco had five siblings, no toys, one leather ball. Lucia is Neapolitan, keeps her mother's doll and a courtyard-photo album, and has put three vases in Franco's garden. Franco's keys are in the freezer. Emma says she is 15.
+- **Changed:** Chiara learns Franco hid the tin from her for two years and that Kevin knew; she meets Lucia and lets her stay for dinner (wary).
+- **Planted:** Lucia's "non ancora" — whether she moves in; Franco's memory lapses (names, dates).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

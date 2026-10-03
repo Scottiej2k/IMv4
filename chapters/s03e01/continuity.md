@@ -1,0 +1,5 @@
+### s03e01 · Quando ero piccola
+- **Happened:** First day of school; Chiara opens Anna's tin in Franco's kitchen; Lucia brings boxes to Franco's all week; Sunday Franco gives Leo his old leather ball.
+- **New facts:** Anna's tin — with her album, her cloth doll and photos — was found by Kevin two years ago inside the wall of Via dei Tigli 14; Franco hid it in his attic. Chiara now keeps tin, album, doll and three glass marbles (Franco's father's) at no. 14. Leo's teacher is maestra Paola; classmates Pietro; Emma's friend Bianca. Kevin's childhood teddy was "Bob", still in Ohio; he hid snacks under his bed. Franco had five siblings, no toys, one leather ball. Lucia is Neapolitan, keeps her mother's doll and a courtyard-photo album, and has put three vases in Franco's garden. Franco's keys are in the freezer. Emma says she is 15.
+- **Changed:** Chiara learns Franco hid the tin from her for two years and that Kevin knew; she meets Lucia and lets her stay for dinner (wary).
+- **Planted:** Lucia's "non ancora" — whether she moves in; Franco's memory lapses (names, dates).
