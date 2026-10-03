@@ -452,6 +452,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara sees Marchetti as a person, not an exam. Emma and Tommaso share a mutual secret (“silenzio”) about their fake tastes.
 - **Planted:** Marchetti's return dinner with his kids; Emma's skating lessons and jazz pact with Tommaso; Kevin's rules.
 
+### s03e21 · Sciopero!
+- **Happened:** A one-day national rail strike cancels trains; Kevin drives Emma and Tommaso to Emma’s 9am exam at the Liceo Linguistico in Monza, Chiara to Milan for her 10:30 meeting with Marchetti, and Leo to school. At Bar Tigli, Franco holds court about the 1973 tram strike, then praises Kevin as a driver; Chiara returns via a Porta Garibaldi connection.
+- **New facts:** Emma attends the Liceo Linguistico in Monza; Bianca is her classmate. Tommaso has a skateboard. Kevin keeps a yellow notebook for Italian phrases; Leo has a “quaderno dei fatti strani.” Ornella’s late husband Gino promised Borgoverde station a new biglietteria that never arrived.
+- **Changed:** Emma’s exam result is “non bene, non male” (medio); Chiara’s Marchetti meeting went well. Franco and Kevin are warmer: Franco calls Kevin a “buon autista” but teases his “coda.” Ornella and Kevin agree on a future Monza trip.
+- **Planted:** Ornella wants Kevin to drive her to Monza “un giorno”; Gino’s promised station biglietteria remains an open thread.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
