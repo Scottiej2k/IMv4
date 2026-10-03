@@ -29,7 +29,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «È quando uno parla e gli altri ascoltano» dice Kevin. «Con le slide.» | “It's when one person talks and the others listen,” says Kevin. “With slides.” |
 | «Papà, a scuola non si portano le slide» dice Leo. «Si portano le merende.» | “Dad, you don't bring slides to school,” says Leo. “You bring snacks.” |
 | Emma ride dentro la tazza. | Emma laughs into her cup. |
-| _Mio figlio ha nove anni e parla come un professore dell'**università**._ | _My son is nine and talks like a **university** professor._ |
+| _Mio figlio ha otto anni e parla come un professore dell'**università**._ | _My son is eight and talks like a **university** professor._ |
 | «E io che cosa racconto?» chiede Kevin. «Che faccio il caffè?» | “And what do I talk about?” asks Kevin. “That I make coffee?” |
 | «Racconti il tuo lavoro» dice Chiara. «Il bar, la colazione, i clienti.» | “You talk about your job,” says Chiara. “The bar, the breakfast, the customers.” |
 | «Però non ho un **curriculum** vero» dice Kevin. «Ho un quaderno con le parole.» | “But I don't have a real **résumé**,” says Kevin. “I have a notebook with words.” |
@@ -142,12 +142,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Racconto il bar. E racconto Leo» dice Kevin. «Vuole fare il **cameriere** **da grande**. Come me.» | “I'll talk about the bar. And I'll talk about Leo,” says Kevin. “He wants to be a **waiter** **when he grows up**. Like me.” |
 | Matteo smette di sistemare i cornetti. | Matteo stops arranging the croissants. |
 | «Il **cameriere**? Leo vuole fare il **cameriere**?» chiede. «Allora **avrò** un dipendente gratis.» | “A **waiter**? Leo wants to be a **waiter**?” he asks. “Then **I'll have** a free employee.” |
-| «Matteo, ha nove anni» dice Kevin. | “Matteo, he's nine,” says Kevin. |
+| «Matteo, ha otto anni» dice Kevin. | “Matteo, he's eight,” says Kevin. |
 | «Peccato. Il sabato mattina qui c'è il caos» dice Matteo. «E il sabato Leo **sarà** libero da scuola.» | “Too bad. Saturday mornings here are chaos,” says Matteo. “And on Saturdays Leo **will be** free from school.” |
 | Nadia arriva dal retro con la giacca della farmacia già addosso. | Nadia comes from the back with her pharmacy jacket already on. |
 | «Di che cosa parlate?» chiede Nadia. | “What are you talking about?” asks Nadia. |
 | «Di Leo. Vuole fare il **cameriere**» dice Matteo. «Il suo **piano** è chiaro: il bar.» | “About Leo. He wants to be a **waiter**,” says Matteo. “His **plan** is clear: the bar.” |
-| «Il **piano** di un bambino di nove anni» dice Nadia. «Un **piano** molto flessibile.» | “A nine-year-old's **plan**,” says Nadia. “A very flexible **plan**.” |
+| «Il **piano** di un bambino di otto anni» dice Nadia. «Un **piano** molto flessibile.» | “An eight-year-old's **plan**,” says Nadia. “A very flexible **plan**.” |
 | Nadia prende un caffè e resta in piedi accanto al bancone. | Nadia takes a coffee and stays standing next to the counter. |
 | «Anche mia madre voleva fare la sarta, **da grande**» dice. «Poi ha aperto un negozio di tappeti.» | “My mother wanted to be a seamstress too, **when she grew up**,” she says. “Then she opened a carpet shop.” |
 | «Quindi il **piano** cambia» dice Kevin. | “So the **plan** changes,” says Kevin. |
@@ -238,7 +238,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perfetto. E se tutto va bene, l'**azienda** **crescerà**» dice Kevin. | “Perfect. And if all goes well, the **company** **will grow**,” says Kevin. |
 | «Piano piano» dice Nadia. «Come dice sempre tuo suocero.» | “Little by little,” says Nadia. “As your father-in-law always says.” |
 | «Piano piano» ripete Kevin. «E con un **obiettivo** solo: un **esempio** decente.» | “Little by little,” repeats Kevin. “And with one **goal** only: a decent **example**.” |
-| «L'**esempio** è già buono» dice Nadia. «Il **cameriere** di nove anni lo ha già scelto.» | “The **example** is already good,” says Nadia. “The nine-year-old **waiter** has already chosen it.” |
+| «L'**esempio** è già buono» dice Nadia. «Il **cameriere** di otto anni lo ha già scelto.» | “The **example** is already good,” says Nadia. “The eight-year-old **waiter** has already chosen it.” |
 | Kevin prende il quaderno giallo e scrive una parola. | Kevin takes the yellow notebook and writes a word. |
 | _Il **coraggio** non è parlare in quarta B. Il **coraggio** è dire che cosa piace davvero._ | _The **courage** isn't talking in 4B. The **courage** is saying what you really like._ |
 | _Mio figlio lo ha già detto, con cinque parole._ | _My son has already said it, in five words._ |
@@ -320,7 +320,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E il **talento**?» chiede Marta. | “And **talent**?” asks Marta. |
 | «Il **talento** è un regalo» dice la maestra Paola. «L'**arte** è il lavoro che ci metti sopra.» | “**Talent** is a gift,” says teacher Paola. “**Art** is the work you put on top of it.” |
 | Kevin guarda il pavimento e sente la faccia calda. | Kevin looks at the floor and feels his face hot. |
-| _Mio figlio ha capito in nove anni quello che io ho capito in quarantuno._ | _My son understood in nine years what I understood in forty-one._ |
+| _Mio figlio ha capito in otto anni quello che io ho capito in quarantuno._ | _My son understood in eight years what I understood in forty-one._ |
 | _Il suo **esempio** sono io, e non è un **esempio** perfetto._ | _His **example** is me, and it's not a perfect **example**._ |
 | _Però lui lo dice forte e io lo **dirò** piano, un giorno._ | _But he says it loud, and **I'll** say it quietly, one day._ |
 | Ahmed alza la mano e si alza senza aspettare. | Ahmed raises his hand and stands up without waiting. |

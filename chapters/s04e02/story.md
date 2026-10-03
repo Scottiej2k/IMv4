@@ -32,7 +32,7 @@ Kevin posa la matita e guarda il figlio. «Certo che vengo. **Farò** una presen
 
 «Papà, a scuola non si portano le slide» dice Leo. «Si portano le merende.» Emma ride dentro la tazza.
 
-_Mio figlio ha nove anni e parla come un professore dell'**università**._
+_Mio figlio ha otto anni e parla come un professore dell'**università**._
 
 «E io che cosa racconto?» chiede Kevin. «Che faccio il caffè?»
 
@@ -190,7 +190,7 @@ Al Bar Tigli ci sono poche persone e molto odore di caffè. Kevin asciuga un bic
 
 Matteo smette di sistemare i cornetti. «Il **cameriere**? Leo vuole fare il **cameriere**?» chiede. «Allora **avrò** un dipendente gratis.»
 
-«Matteo, ha nove anni» dice Kevin.
+«Matteo, ha otto anni» dice Kevin.
 
 «Peccato. Il sabato mattina qui c'è il caos» dice Matteo. «E il sabato Leo **sarà** libero da scuola.»
 
@@ -198,7 +198,7 @@ Nadia arriva dal retro con la giacca della farmacia già addosso. «Di che cosa 
 
 «Di Leo. Vuole fare il **cameriere**» dice Matteo. «Il suo **piano** è chiaro: il bar.»
 
-«Il **piano** di un bambino di nove anni» dice Nadia. «Un **piano** molto flessibile.»
+«Il **piano** di un bambino di otto anni» dice Nadia. «Un **piano** molto flessibile.»
 
 Nadia prende un caffè e resta in piedi accanto al bancone. «Anche mia madre voleva fare la sarta, **da grande**» dice. «Poi ha aperto un negozio di tappeti.»
 
@@ -348,7 +348,7 @@ Nadia mette la tazza nella lavastoviglie e si sistema la giacca. «Kevin, comunq
 
 «Piano piano» ripete Kevin. «E con un **obiettivo** solo: un **esempio** decente.»
 
-«L'**esempio** è già buono» dice Nadia. «Il **cameriere** di nove anni lo ha già scelto.»
+«L'**esempio** è già buono» dice Nadia. «Il **cameriere** di otto anni lo ha già scelto.»
 
 Kevin prende il quaderno giallo e scrive una parola. _Il **coraggio** non è parlare in quarta B. Il **coraggio** è dire che cosa piace davvero._ _Mio figlio lo ha già detto, con cinque parole._
 
@@ -458,7 +458,7 @@ La maestra Paola posa il gesso e guarda la classe. «In questa classe nessuno de
 
 «Il **talento** è un regalo» dice la maestra Paola. «L'**arte** è il lavoro che ci metti sopra.»
 
-Kevin guarda il pavimento e sente la faccia calda. _Mio figlio ha capito in nove anni quello che io ho capito in quarantuno._ _Il suo **esempio** sono io, e non è un **esempio** perfetto._ _Però lui lo dice forte e io lo **dirò** piano, un giorno._
+Kevin guarda il pavimento e sente la faccia calda. _Mio figlio ha capito in otto anni quello che io ho capito in quarantuno._ _Il suo **esempio** sono io, e non è un **esempio** perfetto._ _Però lui lo dice forte e io lo **dirò** piano, un giorno._
 
 Ahmed alza la mano e si alza senza aspettare. «Io **avrò** un ristorante» dice. «Di pesce, con i tavoli fuori.»
 
