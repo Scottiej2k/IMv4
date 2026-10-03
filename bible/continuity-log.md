@@ -530,6 +530,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara now knows Lucia's past and no longer resents her; Nadia's secret is known to Matteo; Kevin suspects something. Open: will Nadia call the pharmacy?
 - **Planted:** Gennaro promises the suitcase to a June wedding (future wedding episode); Nadia's unanswered offer needs resolution.
 
+### s04e09 · Non ce la faccio più
+- **Happened:** Chiara is in Rome for work until Thursday night; Kevin runs the kids and Bar Tigli alone and breaks down in the kitchen at Emma Wednesday night. Thursday night he tells Chiara on the phone "Non ce la faccio più"; both admit they hide their own weakness. He then walks to Franco's orto at midnight, where Franco reveals he barely ate, slept or spoke for the eight months of Anna's illness and that Anna once told him "Io non ho bisogno di un eroe. Ho bisogno di te qui."
+- **New facts:** Kevin is forty-one; Nadia and Matteo's daughter is named Anna Yasmin, three months old; Chiara's client contact is Marchetti; Franco's tram was green and white; Franco claims he cried once, in front of the oven.
+- **Changed:** Kevin agrees to give Matteo a real yes/no on the Bar Tigli partnership Friday; Kevin has been opening the bar mornings and doing eight deliveries a day; he and Emma have a truce; Kevin will cook Franco's zucchini.
+- **Planted:** Kevin's Friday answer about being Matteo's partner (Zucchine in Ornella's kitchen), Kevin cooking Franco's zucchini without burning them, and Chiara's Friday-night family dinner in Via dei Tigli 14 (Via dei Tigli 14).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
