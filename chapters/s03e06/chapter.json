@@ -2896,18 +2896,18 @@
           "segments": [
             {
               "id": "s03e06-1-027",
-              "it": "_Tre mesi. Io lo sapevo da tre mesi. E mio figlio di otto anni lo sapeva da giugno._",
-              "en": "_Three months. I knew it three months ago. And my eight-year-old son knew it since June._",
+              "it": "_Un mese. Io lo sapevo da un mese. E mio figlio di otto anni lo sapeva da giugno._",
+              "en": "_One month. I had known for a month. And my eight-year-old son had known since June._",
               "voice": [
                 [
                   "ben",
-                  "Tre mesi. Io lo sapevo da tre mesi. E mio figlio di otto anni lo sapeva da giugno.",
+                  "Un mese. Io lo sapevo da un mese. E mio figlio di otto anni lo sapeva da giugno.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "Tre",
+                  "Un",
                   0,
                   "i"
                 ],
@@ -2917,7 +2917,7 @@
                   "i"
                 ],
                 [
-                  "mesi",
+                  "mese",
                   1,
                   "i"
                 ],
@@ -2967,7 +2967,7 @@
                   "i"
                 ],
                 [
-                  "tre",
+                  "un",
                   6,
                   "i"
                 ],
@@ -2977,7 +2977,7 @@
                   "i"
                 ],
                 [
-                  "mesi",
+                  "mese",
                   7,
                   "i"
                 ],
@@ -5757,12 +5757,12 @@
           "segments": [
             {
               "id": "s03e06-1-056",
-              "it": "«Sì. Da tre anni» dice Kevin.",
-              "en": "\"Yes. For three years,\" Kevin says.",
+              "it": "«Sì. Da un anno» dice Kevin.",
+              "en": "\"Yes. For a year,\" Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Sì. Da tre anni",
+                  "Sì. Da un anno",
                   ""
                 ],
                 [
@@ -5798,7 +5798,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "un",
                   2,
                   ""
                 ],
@@ -5808,7 +5808,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "anno",
                   3,
                   ""
                 ],
@@ -11454,8 +11454,8 @@
           "segments": [
             {
               "id": "s03e06-2-021",
-              "it": "«Sì» dice Kevin. «Da giugno.»",
-              "en": "\"Yes,\" Kevin says. \"Since June.\"",
+              "it": "«Sì» dice Kevin. «Da agosto.»",
+              "en": "\"Yes,\" Kevin says. \"Since August.\"",
               "voice": [
                 [
                   "ben",
@@ -11469,7 +11469,7 @@
                 ],
                 [
                   "ben",
-                  "Da giugno.",
+                  "Da agosto.",
                   ""
                 ]
               ],
@@ -11520,7 +11520,7 @@
                   ""
                 ],
                 [
-                  "giugno",
+                  "agosto",
                   4,
                   ""
                 ],
@@ -11618,8 +11618,8 @@
           "segments": [
             {
               "id": "s03e06-2-023",
-              "it": "«Io **l'ho saputo** ad agosto» dice. «**Dopo** il taglio della siepe.»",
-              "en": "\"I **found out** in August,\" he says. \"**After** the hedge trimming.\"",
+              "it": "«Io **l'ho saputo** ad agosto» dice. «**Dopo** Ferragosto, di notte.»",
+              "en": "\"I **found out** in August,\" he says. \"**After** Ferragosto, at night.\"",
               "voice": [
                 [
                   "roberto",
@@ -11633,7 +11633,7 @@
                 ],
                 [
                   "roberto",
-                  "**Dopo** il taglio della siepe.",
+                  "**Dopo** Ferragosto, di notte.",
                   ""
                 ]
               ],
@@ -11714,17 +11714,17 @@
                   ""
                 ],
                 [
-                  "il",
+                  "Ferragosto",
                   7,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "taglio",
+                  "di",
                   8,
                   ""
                 ],
@@ -11734,18 +11734,8 @@
                   ""
                 ],
                 [
-                  "della",
+                  "notte",
                   9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "siepe",
-                  10,
                   ""
                 ],
                 [
@@ -13637,12 +13627,12 @@
           "segments": [
             {
               "id": "s03e06-2-044",
-              "it": "«Signor Colombo, io lo sapevo da un anno» dice Matteo.",
-              "en": "\"Mr. Colombo, I knew for a year,\" Matteo says.",
+              "it": "«Signor Colombo, io lo sapevo da giugno» dice Matteo.",
+              "en": "\"Mr. Colombo, I knew since June,\" Matteo says.",
               "voice": [
                 [
                   "matteo",
-                  "Signor Colombo, io lo sapevo da un anno",
+                  "Signor Colombo, io lo sapevo da giugno",
                   ""
                 ],
                 [
@@ -13718,18 +13708,8 @@
                   ""
                 ],
                 [
-                  "un",
+                  "giugno",
                   6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "anno",
-                  7,
                   ""
                 ],
                 [
@@ -13739,7 +13719,7 @@
                 ],
                 [
                   "dice",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -13749,7 +13729,7 @@
                 ],
                 [
                   "Matteo",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -13833,12 +13813,12 @@
           "segments": [
             {
               "id": "s03e06-2-046",
-              "it": "«Un anno?» chiede.",
-              "en": "\"A year?\" he asks.",
+              "it": "«Da giugno?» chiede.",
+              "en": "\"Since June?\" he asks.",
               "voice": [
                 [
                   "roberto",
-                  "Un anno?",
+                  "Da giugno?",
                   ""
                 ],
                 [
@@ -13854,7 +13834,7 @@
                   ""
                 ],
                 [
-                  "Un",
+                  "Da",
                   0,
                   ""
                 ],
@@ -13864,7 +13844,7 @@
                   ""
                 ],
                 [
-                  "anno",
+                  "giugno",
                   1,
                   ""
                 ],
@@ -13891,12 +13871,12 @@
           "segments": [
             {
               "id": "s03e06-2-047",
-              "it": "«Sì. Da prima dell'estate» dice Matteo. «Nessuno mi ha chiesto niente.»",
-              "en": "\"Yes. Since before the summer,\" Matteo says. \"Nobody asked me anything.\"",
+              "it": "«Sì. Da prima di Ferragosto» dice Matteo. «Nessuno mi ha chiesto niente.»",
+              "en": "\"Yes. Since before Ferragosto,\" Matteo says. \"Nobody asked me anything.\"",
               "voice": [
                 [
                   "matteo",
-                  "Sì. Da prima dell'estate",
+                  "Sì. Da prima di Ferragosto",
                   ""
                 ],
                 [
@@ -13947,8 +13927,18 @@
                   ""
                 ],
                 [
-                  "dell'estate",
+                  "di",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Ferragosto",
+                  4,
                   ""
                 ],
                 [
@@ -13958,7 +13948,7 @@
                 ],
                 [
                   "dice",
-                  4,
+                  5,
                   ""
                 ],
                 [
@@ -13968,7 +13958,7 @@
                 ],
                 [
                   "Matteo",
-                  5,
+                  6,
                   ""
                 ],
                 [
@@ -13978,16 +13968,6 @@
                 ],
                 [
                   "Nessuno",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mi",
                   7,
                   ""
                 ],
@@ -13997,7 +13977,7 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "mi",
                   8,
                   ""
                 ],
@@ -14007,7 +13987,7 @@
                   ""
                 ],
                 [
-                  "chiesto",
+                  "ha",
                   9,
                   ""
                 ],
@@ -14017,8 +13997,18 @@
                   ""
                 ],
                 [
-                  "niente",
+                  "chiesto",
                   10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "niente",
+                  11,
                   ""
                 ],
                 [
@@ -17794,8 +17784,8 @@
           "segments": [
             {
               "id": "s03e06-2-089",
-              "it": "«Ragazzo mio» dice Matteo. «Io **lo sapevo** un anno fa.»",
-              "en": "\"My boy,\" Matteo says. \"I **knew** it a year ago.\"",
+              "it": "«Ragazzo mio» dice Matteo. «Io **lo sapevo** da giugno.»",
+              "en": "\"My boy,\" Matteo says. \"I **knew** it since June.\"",
               "voice": [
                 [
                   "matteo",
@@ -17809,7 +17799,7 @@
                 ],
                 [
                   "matteo",
-                  "Io **lo sapevo** un anno fa.",
+                  "Io **lo sapevo** da giugno.",
                   ""
                 ]
               ],
@@ -17890,7 +17880,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "da",
                   7,
                   ""
                 ],
@@ -17900,18 +17890,8 @@
                   ""
                 ],
                 [
-                  "anno",
+                  "giugno",
                   8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fa",
-                  9,
                   ""
                 ],
                 [
@@ -17963,12 +17943,12 @@
           "segments": [
             {
               "id": "s03e06-2-091",
-              "it": "«Io **ho conosciuto** Leo quando aveva cinque anni» dice Matteo. «Lui sa tutto.»",
-              "en": "\"I **met** Leo when he was five,\" Matteo says. \"He knows everything.\"",
+              "it": "«Me l'ha detto Leo» dice Matteo. «Leo **sa** tutto.»",
+              "en": "\"Leo told me,\" Matteo says. \"Leo **knows** everything.\"",
               "voice": [
                 [
                   "matteo",
-                  "Io **ho conosciuto** Leo quando aveva cinque anni",
+                  "Me l'ha detto Leo",
                   ""
                 ],
                 [
@@ -17978,7 +17958,7 @@
                 ],
                 [
                   "matteo",
-                  "Lui sa tutto.",
+                  "Leo **sa** tutto.",
                   ""
                 ]
               ],
@@ -17989,7 +17969,7 @@
                   ""
                 ],
                 [
-                  "Io",
+                  "Me",
                   0,
                   ""
                 ],
@@ -17999,19 +17979,19 @@
                   ""
                 ],
                 [
-                  "ho",
+                  "l'ha",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
-                  "conosciuto",
+                  "detto",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -18024,12 +18004,12 @@
                   ""
                 ],
                 [
-                  " ",
+                  "» ",
                   -1,
                   ""
                 ],
                 [
-                  "quando",
+                  "dice",
                   4,
                   ""
                 ],
@@ -18039,17 +18019,17 @@
                   ""
                 ],
                 [
-                  "aveva",
+                  "Matteo",
                   5,
                   ""
                 ],
                 [
-                  " ",
+                  ". «",
                   -1,
                   ""
                 ],
                 [
-                  "cinque",
+                  "Leo",
                   6,
                   ""
                 ],
@@ -18059,49 +18039,9 @@
                   ""
                 ],
                 [
-                  "anni",
-                  7,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  9,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Lui",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "sa",
-                  11,
-                  ""
+                  7,
+                  "b"
                 ],
                 [
                   " ",
@@ -18110,7 +18050,7 @@
                 ],
                 [
                   "tutto",
-                  12,
+                  8,
                   ""
                 ],
                 [
@@ -22563,12 +22503,12 @@
           "segments": [
             {
               "id": "s03e06-3-051",
-              "it": "«Sei mesi» dice. «Sei mesi e non mi hai detto niente.»",
-              "en": "\"Six months,\" she says. \"Six months and you didn't tell me anything.\"",
+              "it": "«Un mese» dice. «Un mese e non mi hai detto niente.»",
+              "en": "\"One month,\" she says. \"One month and you didn't tell me anything.\"",
               "voice": [
                 [
                   "chiara",
-                  "Sei mesi",
+                  "Un mese",
                   ""
                 ],
                 [
@@ -22578,7 +22518,7 @@
                 ],
                 [
                   "chiara",
-                  "Sei mesi e non mi hai detto niente.",
+                  "Un mese e non mi hai detto niente.",
                   ""
                 ]
               ],
@@ -22589,7 +22529,7 @@
                   ""
                 ],
                 [
-                  "Sei",
+                  "Un",
                   0,
                   ""
                 ],
@@ -22599,7 +22539,7 @@
                   ""
                 ],
                 [
-                  "mesi",
+                  "mese",
                   1,
                   ""
                 ],
@@ -22619,7 +22559,7 @@
                   ""
                 ],
                 [
-                  "Sei",
+                  "Un",
                   3,
                   ""
                 ],
@@ -22629,7 +22569,7 @@
                   ""
                 ],
                 [
-                  "mesi",
+                  "mese",
                   4,
                   ""
                 ],
@@ -22706,7 +22646,7 @@
           "segments": [
             {
               "id": "s03e06-3-052",
-              "it": "«Non è una cosa mia» dice Kevin. «Non era la mia **storia**.»",
+              "it": "«Non è una cosa mia» dice Kevin. «Non era la mia storia.»",
               "en": "\"It's not my thing,\" Kevin says. \"It wasn't my story.\"",
               "voice": [
                 [
@@ -22721,7 +22661,7 @@
                 ],
                 [
                   "ben",
-                  "Non era la mia **storia**.",
+                  "Non era la mia storia.",
                   ""
                 ]
               ],
@@ -22844,16 +22784,13 @@
                 [
                   "storia",
                   11,
-                  "b"
+                  ""
                 ],
                 [
                   ".»",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-sapere-conoscere-past"
               ]
             }
           ]
@@ -25158,22 +25095,17 @@
           "segments": [
             {
               "id": "s03e06-3-075",
-              "it": "«Ma io **conoscevo** l'altra cosa» dice Chiara. «La cosa del babbo e Lucia.»",
-              "en": "\"But I **knew** the other thing,\" Chiara says. \"The thing about Dad and Lucia.\"",
+              "it": "«Con la cosa di papà e Lucia hai fatto lo stesso» dice Chiara.",
+              "en": "\"You did the same with the thing about Dad and Lucia,\" Chiara says.",
               "voice": [
                 [
                   "chiara",
-                  "Ma io **conoscevo** l'altra cosa",
+                  "Con la cosa di papà e Lucia hai fatto lo stesso",
                   ""
                 ],
                 [
                   "narrator",
                   "dice Chiara.",
-                  ""
-                ],
-                [
-                  "chiara",
-                  "La cosa del babbo e Lucia.",
                   ""
                 ]
               ],
@@ -25184,7 +25116,7 @@
                   ""
                 ],
                 [
-                  "Ma",
+                  "Con",
                   0,
                   ""
                 ],
@@ -25194,7 +25126,7 @@
                   ""
                 ],
                 [
-                  "io",
+                  "la",
                   1,
                   ""
                 ],
@@ -25204,9 +25136,9 @@
                   ""
                 ],
                 [
-                  "conoscevo",
+                  "cosa",
                   2,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -25214,7 +25146,7 @@
                   ""
                 ],
                 [
-                  "l'altra",
+                  "di",
                   3,
                   ""
                 ],
@@ -25224,68 +25156,8 @@
                   ""
                 ],
                 [
-                  "cosa",
+                  "papà",
                   4,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Chiara",
-                  6,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "La",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "del",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "babbo",
-                  10,
                   ""
                 ],
                 [
@@ -25295,7 +25167,7 @@
                 ],
                 [
                   "e",
-                  11,
+                  5,
                   ""
                 ],
                 [
@@ -25305,17 +25177,74 @@
                 ],
                 [
                   "Lucia",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "hai",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fatto",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lo",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "stesso",
+                  10,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Chiara",
                   12,
                   ""
                 ],
                 [
-                  ".»",
+                  ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-sapere-conoscere-past"
               ]
             }
           ]
@@ -25324,7 +25253,7 @@
           "segments": [
             {
               "id": "s03e06-3-076",
-              "it": "«Sì» dice Kevin. «Lo **sapevo** anche io.»",
+              "it": "«Sì» dice Kevin. «Lo **sapevo** anche allora.»",
               "en": "\"Yes,\" Kevin says. \"I **knew** that too.\"",
               "voice": [
                 [
@@ -25339,7 +25268,7 @@
                 ],
                 [
                   "ben",
-                  "Lo **sapevo** anche io.",
+                  "Lo **sapevo** anche allora.",
                   ""
                 ]
               ],
@@ -25410,7 +25339,7 @@
                   ""
                 ],
                 [
-                  "io",
+                  "allora",
                   6,
                   ""
                 ],
@@ -25430,12 +25359,12 @@
           "segments": [
             {
               "id": "s03e06-3-077",
-              "it": "«Nessuno dei due mi **ha conosciuto** bene» dice Chiara con tristezza.",
-              "en": "\"Neither of you **met** me well,\" Chiara says sadly.",
+              "it": "«Nessuno dei due mi ha detto niente» dice Chiara con tristezza.",
+              "en": "\"Neither of you told me anything,\" Chiara says sadly.",
               "voice": [
                 [
                   "chiara",
-                  "Nessuno dei due mi **ha conosciuto** bene",
+                  "Nessuno dei due mi ha detto niente",
                   ""
                 ],
                 [
@@ -25493,17 +25422,7 @@
                 [
                   "ha",
                   4,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  "b"
-                ],
-                [
-                  "conosciuto",
-                  5,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -25511,7 +25430,17 @@
                   ""
                 ],
                 [
-                  "bene",
+                  "detto",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "niente",
                   6,
                   ""
                 ],
@@ -25560,9 +25489,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-sapere-conoscere-past"
               ]
             }
           ]
@@ -25619,12 +25545,12 @@
           "segments": [
             {
               "id": "s03e06-3-079",
-              "it": "«Questa frase non è giusta» dice. «Credo che devi dire un'altra cosa.»",
-              "en": "\"That sentence isn't right,\" he says. \"I think you need to say something else.\"",
+              "it": "«Hai ragione a essere arrabbiata» dice. «Davvero.»",
+              "en": "\"You're right to be angry,\" he says. \"Really.\"",
               "voice": [
                 [
                   "ben",
-                  "Questa frase non è giusta",
+                  "Hai ragione a essere arrabbiata",
                   ""
                 ],
                 [
@@ -25634,218 +25560,7 @@
                 ],
                 [
                   "ben",
-                  "Credo che devi dire un'altra cosa.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Questa",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "frase",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "giusta",
-                  4,
-                  ""
-                ],
-                [
-                  "» ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dice",
-                  5,
-                  ""
-                ],
-                [
-                  ". «",
-                  -1,
-                  ""
-                ],
-                [
-                  "Credo",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "che",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "devi",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dire",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un'altra",
-                  10,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
-                  11,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s03e06-3-080",
-              "it": "Chiara ride un po'.",
-              "en": "Chiara laughs a little.",
-              "voice": [
-                [
-                  "narrator",
-                  "Chiara ride un po'.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "Chiara",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "ride",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "un",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "po",
-                  3,
-                  ""
-                ],
-                [
-                  "'.",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s03e06-3-081",
-              "it": "«Hai ragione. Mi sono espresso male» dice. «Volevo dire: la **fiducia** non è facile per me.»",
-              "en": "\"You're right. I expressed myself badly,\" she says. \"I meant: **trust** isn't easy for me.\"",
-              "voice": [
-                [
-                  "chiara",
-                  "Hai ragione. Mi sono espresso male",
-                  ""
-                ],
-                [
-                  "narrator",
-                  "dice.",
-                  ""
-                ],
-                [
-                  "chiara",
-                  "Volevo dire: la **fiducia** non è facile per me.",
+                  "Davvero.",
                   ""
                 ]
               ],
@@ -25871,12 +25586,12 @@
                   ""
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "Mi",
+                  "a",
                   2,
                   ""
                 ],
@@ -25886,7 +25601,7 @@
                   ""
                 ],
                 [
-                  "sono",
+                  "essere",
                   3,
                   ""
                 ],
@@ -25896,18 +25611,8 @@
                   ""
                 ],
                 [
-                  "espresso",
+                  "arrabbiata",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "male",
-                  5,
                   ""
                 ],
                 [
@@ -25917,7 +25622,7 @@
                 ],
                 [
                   "dice",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -25926,8 +25631,36 @@
                   ""
                 ],
                 [
-                  "Volevo",
-                  7,
+                  "Davvero",
+                  6,
+                  ""
+                ],
+                [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s03e06-3-080",
+              "it": "Chiara sospira.",
+              "en": "Chiara sighs.",
+              "voice": [
+                [
+                  "narrator",
+                  "Chiara sospira.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Chiara",
+                  0,
                   ""
                 ],
                 [
@@ -25936,18 +25669,91 @@
                   ""
                 ],
                 [
-                  "dire",
-                  8,
+                  "sospira",
+                  1,
                   ""
                 ],
                 [
-                  ": ",
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s03e06-3-081",
+              "it": "«Non sono arrabbiata» dice. «La **fiducia** non è facile per me.»",
+              "en": "\"I'm not angry,\" she says. \"**Trust** isn't easy for me.\"",
+              "voice": [
+                [
+                  "chiara",
+                  "Non sono arrabbiata",
+                  ""
+                ],
+                [
+                  "narrator",
+                  "dice.",
+                  ""
+                ],
+                [
+                  "chiara",
+                  "La **fiducia** non è facile per me.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
                   -1,
                   ""
                 ],
                 [
-                  "la",
-                  9,
+                  "Non",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sono",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "arrabbiata",
+                  2,
+                  ""
+                ],
+                [
+                  "» ",
+                  -1,
+                  ""
+                ],
+                [
+                  "dice",
+                  3,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "La",
+                  4,
                   ""
                 ],
                 [
@@ -25957,7 +25763,7 @@
                 ],
                 [
                   "fiducia",
-                  10,
+                  5,
                   "b"
                 ],
                 [
@@ -25967,7 +25773,7 @@
                 ],
                 [
                   "non",
-                  11,
+                  6,
                   ""
                 ],
                 [
@@ -25977,7 +25783,7 @@
                 ],
                 [
                   "è",
-                  12,
+                  7,
                   ""
                 ],
                 [
@@ -25987,7 +25793,7 @@
                 ],
                 [
                   "facile",
-                  13,
+                  8,
                   ""
                 ],
                 [
@@ -25997,7 +25803,7 @@
                 ],
                 [
                   "per",
-                  14,
+                  9,
                   ""
                 ],
                 [
@@ -26007,7 +25813,7 @@
                 ],
                 [
                   "me",
-                  15,
+                  10,
                   ""
                 ],
                 [
@@ -33036,8 +32842,8 @@
           "segments": [
             {
               "id": "s03e06-4-058",
-              "it": "«No» dice. «Io **ho conosciuto** Franco due anni fa.»",
-              "en": "\"No,\" she says. \"I **met** Franco two years ago.\"",
+              "it": "«No» dice. «Io **ho conosciuto** Franco più di un anno fa.»",
+              "en": "\"No,\" she says. \"I **met** Franco more than a year ago.\"",
               "voice": [
                 [
                   "lucia",
@@ -33051,7 +32857,7 @@
                 ],
                 [
                   "lucia",
-                  "Io **ho conosciuto** Franco due anni fa.",
+                  "Io **ho conosciuto** Franco più di un anno fa.",
                   ""
                 ]
               ],
@@ -33122,7 +32928,7 @@
                   ""
                 ],
                 [
-                  "due",
+                  "più",
                   6,
                   ""
                 ],
@@ -33132,7 +32938,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "di",
                   7,
                   ""
                 ],
@@ -33142,8 +32948,28 @@
                   ""
                 ],
                 [
-                  "fa",
+                  "un",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "anno",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "fa",
+                  10,
                   ""
                 ],
                 [
@@ -33205,8 +33031,8 @@
           "segments": [
             {
               "id": "s03e06-4-060",
-              "it": "«Anna non l'ho **conosciuta**» dice Lucia. «È morta tre anni prima del mio arrivo qui.»",
-              "en": "\"I never **met** Anna,\" Lucia says. \"She died three years before my arrival here.\"",
+              "it": "«Anna non l'ho **conosciuta**» dice Lucia. «È morta prima che io conoscessi Franco.»",
+              "en": "\"I never **met** Anna,\" Lucia says. \"She died before I knew Franco.\"",
               "voice": [
                 [
                   "lucia",
@@ -33220,7 +33046,7 @@
                 ],
                 [
                   "lucia",
-                  "È morta tre anni prima del mio arrivo qui.",
+                  "È morta prima che io conoscessi Franco.",
                   ""
                 ]
               ],
@@ -33311,7 +33137,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "prima",
                   8,
                   ""
                 ],
@@ -33321,7 +33147,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "che",
                   9,
                   ""
                 ],
@@ -33331,7 +33157,7 @@
                   ""
                 ],
                 [
-                  "prima",
+                  "io",
                   10,
                   ""
                 ],
@@ -33341,7 +33167,7 @@
                   ""
                 ],
                 [
-                  "del",
+                  "conoscessi",
                   11,
                   ""
                 ],
@@ -33351,28 +33177,8 @@
                   ""
                 ],
                 [
-                  "mio",
+                  "Franco",
                   12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "arrivo",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  14,
                   ""
                 ],
                 [
@@ -33631,8 +33437,8 @@
           "segments": [
             {
               "id": "s03e06-4-064",
-              "it": "«**Ammetto** che è bella» dice. «Ma non è la mia **scrittura**, e non è quella di Anna.»",
-              "en": "\"I **admit** it's nice,\" she says. \"But it's not my **handwriting**, and it's not Anna's.\"",
+              "it": "«**Ammetto** che è bella» dice. «Ma non è la mia **scrittura**.»",
+              "en": "\"I **admit** it's nice,\" she says. \"But it's not my **handwriting**.\"",
               "voice": [
                 [
                   "lucia",
@@ -33646,7 +33452,7 @@
                 ],
                 [
                   "lucia",
-                  "Ma non è la mia **scrittura**, e non è quella di Anna.",
+                  "Ma non è la mia **scrittura**.",
                   ""
                 ]
               ],
@@ -33760,66 +33566,6 @@
                   "scrittura",
                   10,
                   "b"
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "non",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "quella",
-                  14,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  15,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Anna",
-                  16,
-                  ""
                 ],
                 [
                   ".»",
@@ -49393,12 +49139,12 @@
           "segments": [
             {
               "id": "s03e06-6-013",
-              "it": "Camminano un po' in **silenzio**.",
+              "it": "Camminano un po' in silenzio.",
               "en": "They walk a little in silence.",
               "voice": [
                 [
                   "narrator",
-                  "Camminano un po' in **silenzio**.",
+                  "Camminano un po' in silenzio.",
                   ""
                 ]
               ],
@@ -49446,16 +49192,13 @@
                 [
                   "silenzio",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-silenzio"
               ]
             },
             {
@@ -50707,12 +50450,12 @@
           "segments": [
             {
               "id": "s03e06-6-027",
-              "it": "«E **tu** la **conoscevi** bene?» chiede Kevin.",
-              "en": "\"And **did you** know her well?\" Kevin asks.",
+              "it": "«E tu la conoscevi bene?» chiede Kevin.",
+              "en": "\"And did you know her well?\" Kevin asks.",
               "voice": [
                 [
                   "ben",
-                  "E **tu** la **conoscevi** bene?",
+                  "E tu la conoscevi bene?",
                   ""
                 ],
                 [
@@ -50740,7 +50483,7 @@
                 [
                   "tu",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -50760,7 +50503,7 @@
                 [
                   "conoscevi",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -50797,9 +50540,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-sapere-conoscere-past"
               ]
             }
           ]
@@ -50906,12 +50646,12 @@
           "segments": [
             {
               "id": "s03e06-6-029",
-              "it": "«Io **ho conosciuto** Ornella due anni fa» dice Kevin.",
-              "en": "\"I **met** Ornella two years ago,\" Kevin says.",
+              "it": "«Io **ho conosciuto** Ornella un anno fa» dice Kevin.",
+              "en": "\"I **met** Ornella a year ago,\" Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Io **ho conosciuto** Ornella due anni fa",
+                  "Io **ho conosciuto** Ornella un anno fa",
                   ""
                 ],
                 [
@@ -50967,7 +50707,7 @@
                   ""
                 ],
                 [
-                  "due",
+                  "un",
                   4,
                   ""
                 ],
@@ -50977,7 +50717,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "anno",
                   5,
                   ""
                 ],
@@ -51075,8 +50815,8 @@
           "segments": [
             {
               "id": "s03e06-6-031",
-              "it": "«Lo so» dice. «E lei ti ha dato del tu in un giorno solo.»",
-              "en": "\"I know,\" she says. \"And she gave you the tu in one day.\"",
+              "it": "«Lo so» dice. «E lei ti ha dato del tu dopo otto mesi.»",
+              "en": "\"I know,\" she says. \"And she gave you the tu after eight months.\"",
               "voice": [
                 [
                   "chiara",
@@ -51090,7 +50830,7 @@
                 ],
                 [
                   "chiara",
-                  "E lei ti ha dato del tu in un giorno solo.",
+                  "E lei ti ha dato del tu dopo otto mesi.",
                   ""
                 ]
               ],
@@ -51201,7 +50941,7 @@
                   ""
                 ],
                 [
-                  "in",
+                  "dopo",
                   10,
                   ""
                 ],
@@ -51211,7 +50951,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "otto",
                   11,
                   ""
                 ],
@@ -51221,18 +50961,8 @@
                   ""
                 ],
                 [
-                  "giorno",
+                  "mesi",
                   12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "solo",
-                  13,
                   ""
                 ],
                 [

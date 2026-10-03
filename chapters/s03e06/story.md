@@ -48,7 +48,7 @@ Kevin mette giù la tazza.
 
 Kevin non risponde subito.
 
-_Tre mesi. Io lo sapevo da tre mesi. E mio figlio di otto anni lo sapeva da giugno._
+_Un mese. Io lo sapevo da un mese. E mio figlio di otto anni lo sapeva da giugno._
 
 «Anch'io lo sapevo» dice Kevin piano.
 
@@ -98,7 +98,7 @@ Kevin prende il suo quaderno giallo.
 
 «Papà, hai **ancora** quel quaderno?» chiede Leo.
 
-«Sì. Da tre anni» dice Kevin.
+«Sì. Da un anno» dice Kevin.
 
 Leo chiude il quaderno dei fatti. Poi guarda Kevin con occhi seri.
 
@@ -210,11 +210,11 @@ Roberto apre gli occhi.
 
 «**Lo sapeva**?» ripete. «Davvero?»
 
-«Sì» dice Kevin. «Da giugno.»
+«Sì» dice Kevin. «Da agosto.»
 
 Roberto mette il **foglio** sul banco.
 
-«Io **l'ho saputo** ad agosto» dice. «**Dopo** il taglio della siepe.»
+«Io **l'ho saputo** ad agosto» dice. «**Dopo** Ferragosto, di notte.»
 
 «Ah» dice Kevin. «Capisco.»
 
@@ -256,13 +256,13 @@ Kevin annuisce lentamente.
 
 Matteo si avvicina.
 
-«Signor Colombo, io lo sapevo da un anno» dice Matteo.
+«Signor Colombo, io lo sapevo da giugno» dice Matteo.
 
 Roberto si gira di scatto.
 
-«Un anno?» chiede.
+«Da giugno?» chiede.
 
-«Sì. Da prima dell'estate» dice Matteo. «Nessuno mi ha chiesto niente.»
+«Sì. Da prima di Ferragosto» dice Matteo. «Nessuno mi ha chiesto niente.»
 
 «Ma questa è una vergogna» dice Roberto.
 
@@ -334,11 +334,11 @@ Kevin si gira di scatto.
 
 «Come sai della lettera L?» chiede.
 
-«Ragazzo mio» dice Matteo. «Io **lo sapevo** un anno fa.»
+«Ragazzo mio» dice Matteo. «Io **lo sapevo** da giugno.»
 
 «Cosa?»
 
-«Io **ho conosciuto** Leo quando aveva cinque anni» dice Matteo. «Lui sa tutto.»
+«Me l'ha detto Leo» dice Matteo. «Leo **sa** tutto.»
 
 Kevin appoggia la testa sul banco.
 
@@ -426,9 +426,9 @@ Chiara non si muove.
 
 Chiara chiude gli occhi per un secondo.
 
-«Sei mesi» dice. «Sei mesi e non mi hai detto niente.»
+«Un mese» dice. «Un mese e non mi hai detto niente.»
 
-«Non è una cosa mia» dice Kevin. «Non era la mia **storia**.»
+«Non è una cosa mia» dice Kevin. «Non era la mia storia.»
 
 «Ma Emma è mia figlia» dice Chiara.
 
@@ -474,19 +474,19 @@ Chiara lo guarda ancora.
 
 «Grazie» dice Kevin piano.
 
-«Ma io **conoscevo** l'altra cosa» dice Chiara. «La cosa del babbo e Lucia.»
+«Con la cosa di papà e Lucia hai fatto lo stesso» dice Chiara.
 
-«Sì» dice Kevin. «Lo **sapevo** anche io.»
+«Sì» dice Kevin. «Lo **sapevo** anche allora.»
 
-«Nessuno dei due mi **ha conosciuto** bene» dice Chiara con tristezza.
+«Nessuno dei due mi ha detto niente» dice Chiara con tristezza.
 
 Kevin la guarda.
 
-«Questa frase non è giusta» dice. «Credo che devi dire un'altra cosa.»
+«Hai ragione a essere arrabbiata» dice. «Davvero.»
 
-Chiara ride un po'.
+Chiara sospira.
 
-«Hai ragione. Mi sono espresso male» dice. «Volevo dire: la **fiducia** non è facile per me.»
+«Non sono arrabbiata» dice. «La **fiducia** non è facile per me.»
 
 «Lo capisco» dice Kevin. «E ho un **sospetto** su di me.»
 
@@ -608,11 +608,11 @@ Chiara la guarda dritta negli occhi.
 
 Lucia si siede su una sedia.
 
-«No» dice. «Io **ho conosciuto** Franco due anni fa.»
+«No» dice. «Io **ho conosciuto** Franco più di un anno fa.»
 
 «E Anna?»
 
-«Anna non l'ho **conosciuta**» dice Lucia. «È morta tre anni prima del mio arrivo qui.»
+«Anna non l'ho **conosciuta**» dice Lucia. «È morta prima che io conoscessi Franco.»
 
 Chiara ascolta con calma.
 
@@ -620,7 +620,7 @@ Chiara ascolta con calma.
 
 Lucia guarda la **pagina** sul tavolo.
 
-«**Ammetto** che è bella» dice. «Ma non è la mia **scrittura**, e non è quella di Anna.»
+«**Ammetto** che è bella» dice. «Ma non è la mia **scrittura**.»
 
 «E la persona L?» chiede Chiara. «La **conoscevi**?»
 
@@ -892,7 +892,7 @@ Passano davanti alla siepe di Roberto. La siepe è perfetta, come sempre. Kevin 
 
 «Non tocco» dice Kevin. «Ho **promesso** anche io.»
 
-Camminano un po' in **silenzio**. Poi Chiara parla di nuovo.
+Camminano un po' in silenzio. Poi Chiara parla di nuovo.
 
 «Kevin, ti devo dire il mio **sospetto** vero» dice.
 
@@ -918,15 +918,15 @@ Kevin ci pensa.
 
 «Sì» dice Chiara. «Ornella vive qui dal 1974.»
 
-«E **tu** la **conoscevi** bene?» chiede Kevin.
+«E tu la conoscevi bene?» chiede Kevin.
 
 «Sì. Ma io ero piccola» dice Chiara.
 
-«Io **ho conosciuto** Ornella due anni fa» dice Kevin.
+«Io **ho conosciuto** Ornella un anno fa» dice Kevin.
 
 Chiara ride piano.
 
-«Lo so» dice. «E lei ti ha dato del tu in un giorno solo.»
+«Lo so» dice. «E lei ti ha dato del tu dopo otto mesi.»
 
 «Con te come parla?» chiede Kevin.
 

@@ -70,13 +70,11 @@ Leo sorride. «Io **lo sapevo prima**» dice. «Prima di tutti.» — Leo smiles
 
 «Tu **conoscevi** questa persona?» chiede Chiara. — "**Did you know** this person?" Chiara asks. (`s03e06-4-028`) — *Conoscevi* in the imperfetto: were you acquainted with her at that time?
 
-«No» dice. «Io **ho conosciuto** Franco due anni fa.» — "No," she says. "I **met** Franco two years ago." (`s03e06-4-058`) — *Ho conosciuto*: the precise moment Lucia met Franco for the first time.
+«No» dice. «Io **ho conosciuto** Franco più di un anno fa.» — "No," she says. "I **met** Franco more than a year ago." (`s03e06-4-058`) — *Ho conosciuto*: the precise moment Lucia met Franco for the first time.
 
-«Anna non l'ho **conosciuta**» dice Lucia. «È morta tre anni prima del mio arrivo qui.» — "I never **met** Anna," Lucia says. "She died three years before my arrival here." (`s03e06-4-060`) — The direct object pronoun *l'* with the passato prossimo: "I never met Anna", a single event that never happened.
+«Anna non l'ho **conosciuta**» dice Lucia. «È morta prima che io conoscessi Franco.» — "I never **met** Anna," Lucia says. "She died before I knew Franco." (`s03e06-4-060`) — The direct object pronoun *l'* with the passato prossimo: "I never met Anna", a single event that never happened.
 
 Poi dice con voce bassa: «No. Non **conoscevo** nessuna L.» — Then she says in a low voice: "No. I **didn't know** any L." (`s03e06-4-067`) — Back to the imperfetto: she had no acquaintance at all with anyone called L.
-
-«Io **ho conosciuto** Leo quando aveva cinque anni» dice Matteo. «Lui sa tutto.» — "I **met** Leo when he was five," Matteo says. "He knows everything." (`s03e06-2-091`) — Two tenses in one line: *ho conosciuto* (the meeting, an event) and *aveva* (his age, a description).
 
 ## Common mistakes English speakers make
 

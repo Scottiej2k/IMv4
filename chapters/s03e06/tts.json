@@ -1271,7 +1271,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Tre mesi. Io lo sapevo da tre mesi. E mio figlio di otto anni lo sapeva da giugno.",
+                "text": "Un mese. Io lo sapevo da un mese. E mio figlio di otto anni lo sapeva da giugno.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -2579,7 +2579,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Da tre anni",
+                "text": "Sì. Da un anno",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5354,7 +5354,7 @@
               },
               {
                 "type": "text",
-                "text": "Da giugno.",
+                "text": "Da agosto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5416,7 +5416,7 @@
           "s03e06-2-023:5-5"
         ],
         [
-          "s03e06-2-023:6-10"
+          "s03e06-2-023:6-9"
         ]
       ],
       "request": {
@@ -5449,7 +5449,7 @@
               },
               {
                 "type": "text",
-                "text": "Dopo il taglio della siepe.",
+                "text": "Dopo Ferragosto, di notte.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6555,10 +6555,10 @@
       ],
       "words": [
         [
-          "s03e06-2-044:0-7"
+          "s03e06-2-044:0-6"
         ],
         [
-          "s03e06-2-044:8-9",
+          "s03e06-2-044:7-8",
           "s03e06-2-045:0-4"
         ]
       ],
@@ -6570,7 +6570,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Colombo, io lo sapevo da un anno",
+                "text": "Signor Colombo, io lo sapevo da giugno",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6640,7 +6640,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Un anno?",
+                "text": "Da giugno?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6696,13 +6696,13 @@
       ],
       "words": [
         [
-          "s03e06-2-047:0-3"
+          "s03e06-2-047:0-4"
         ],
         [
-          "s03e06-2-047:4-5"
+          "s03e06-2-047:5-6"
         ],
         [
-          "s03e06-2-047:6-10"
+          "s03e06-2-047:7-11"
         ]
       ],
       "request": {
@@ -6713,7 +6713,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Da prima dell'estate",
+                "text": "Sì. Da prima di Ferragosto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8787,7 +8787,7 @@
           "s03e06-2-089:2-3"
         ],
         [
-          "s03e06-2-089:4-9"
+          "s03e06-2-089:4-8"
         ]
       ],
       "request": {
@@ -8820,7 +8820,7 @@
               },
               {
                 "type": "text",
-                "text": "Io lo sapevo un anno fa.",
+                "text": "Io lo sapevo da giugno.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8869,7 +8869,7 @@
           "s03e06-2-090:0-0"
         ],
         [
-          "s03e06-2-091:0-7"
+          "s03e06-2-091:0-3"
         ]
       ],
       "request": {
@@ -8891,7 +8891,7 @@
               },
               {
                 "type": "text",
-                "text": "Io ho conosciuto Leo quando aveva cinque anni",
+                "text": "Me l'ha detto Leo",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8937,10 +8937,10 @@
       ],
       "words": [
         [
-          "s03e06-2-091:8-9"
+          "s03e06-2-091:4-5"
         ],
         [
-          "s03e06-2-091:10-12"
+          "s03e06-2-091:6-8"
         ],
         [
           "s03e06-2-092:0-5"
@@ -8965,7 +8965,7 @@
               },
               {
                 "type": "text",
-                "text": "Lui sa tutto.",
+                "text": "Leo sa tutto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11141,7 +11141,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sei mesi",
+                "text": "Un mese",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11163,7 +11163,7 @@
               },
               {
                 "type": "text",
-                "text": "Sei mesi e non mi hai detto niente.",
+                "text": "Un mese e non mi hai detto niente.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12616,13 +12616,10 @@
       ],
       "words": [
         [
-          "s03e06-3-075:0-4"
+          "s03e06-3-075:0-10"
         ],
         [
-          "s03e06-3-075:5-6"
-        ],
-        [
-          "s03e06-3-075:7-12"
+          "s03e06-3-075:11-12"
         ]
       ],
       "request": {
@@ -12633,7 +12630,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Ma io conoscevo l'altra cosa",
+                "text": "Con la cosa di papà e Lucia hai fatto lo stesso",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12650,17 +12647,6 @@
                     "type": "speech_metadata",
                     "speaker": "narrator",
                     "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "La cosa del babbo e Lucia.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "chiara",
-                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               }
@@ -12739,7 +12725,7 @@
               },
               {
                 "type": "text",
-                "text": "Lo sapevo anche io.",
+                "text": "Lo sapevo anche allora.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12800,7 +12786,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Nessuno dei due mi ha conosciuto bene",
+                "text": "Nessuno dei due mi ha detto niente",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12863,10 +12849,10 @@
           "s03e06-3-079:5-5"
         ],
         [
-          "s03e06-3-079:6-11"
+          "s03e06-3-079:6-6"
         ],
         [
-          "s03e06-3-080:0-3"
+          "s03e06-3-080:0-1"
         ]
       ],
       "request": {
@@ -12877,7 +12863,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Questa frase non è giusta",
+                "text": "Hai ragione a essere arrabbiata",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12899,7 +12885,7 @@
               },
               {
                 "type": "text",
-                "text": "Credo che devi dire un'altra cosa.",
+                "text": "Davvero.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12910,7 +12896,7 @@
               },
               {
                 "type": "text",
-                "text": "Chiara ride un po'.",
+                "text": "Chiara sospira.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12955,13 +12941,13 @@
       ],
       "words": [
         [
-          "s03e06-3-081:0-5"
+          "s03e06-3-081:0-2"
         ],
         [
-          "s03e06-3-081:6-6"
+          "s03e06-3-081:3-3"
         ],
         [
-          "s03e06-3-081:7-15"
+          "s03e06-3-081:4-10"
         ]
       ],
       "request": {
@@ -12972,7 +12958,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Hai ragione. Mi sono espresso male",
+                "text": "Non sono arrabbiata",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12994,7 +12980,7 @@
               },
               {
                 "type": "text",
-                "text": "Volevo dire: la fiducia non è facile per me.",
+                "text": "La fiducia non è facile per me.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16181,7 +16167,7 @@
           "s03e06-4-058:1-1"
         ],
         [
-          "s03e06-4-058:2-8"
+          "s03e06-4-058:2-10"
         ]
       ],
       "request": {
@@ -16214,7 +16200,7 @@
               },
               {
                 "type": "text",
-                "text": "Io ho conosciuto Franco due anni fa.",
+                "text": "Io ho conosciuto Franco più di un anno fa.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16334,7 +16320,7 @@
           "s03e06-4-060:4-5"
         ],
         [
-          "s03e06-4-060:6-14"
+          "s03e06-4-060:6-12"
         ],
         [
           "s03e06-4-061:0-3"
@@ -16359,7 +16345,7 @@
               },
               {
                 "type": "text",
-                "text": "È morta tre anni prima del mio arrivo qui.",
+                "text": "È morta prima che io conoscessi Franco.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16493,7 +16479,7 @@
           "s03e06-4-064:4-4"
         ],
         [
-          "s03e06-4-064:5-16"
+          "s03e06-4-064:5-10"
         ]
       ],
       "request": {
@@ -16526,7 +16512,7 @@
               },
               {
                 "type": "text",
-                "text": "Ma non è la mia scrittura, e non è quella di Anna.",
+                "text": "Ma non è la mia scrittura.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -24239,7 +24225,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Io ho conosciuto Ornella due anni fa",
+                "text": "Io ho conosciuto Ornella un anno fa",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -24301,7 +24287,7 @@
           "s03e06-6-031:2-2"
         ],
         [
-          "s03e06-6-031:3-13"
+          "s03e06-6-031:3-12"
         ]
       ],
       "request": {
@@ -24334,7 +24320,7 @@
               },
               {
                 "type": "text",
-                "text": "E lei ti ha dato del tu in un giorno solo.",
+                "text": "E lei ti ha dato del tu dopo otto mesi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

@@ -34,7 +34,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Aspetta» dice. «Tu lo sapevi da giugno?» | "Wait," he says. "You knew it since June?" |
 | «Sì» dice Leo. «E tu?» | "Yes," Leo says. "And you?" |
 | Kevin non risponde subito. | Kevin doesn't answer right away. |
-| _Tre mesi. Io lo sapevo da tre mesi. E mio figlio di otto anni lo sapeva da giugno._ | _Three months. I knew it three months ago. And my eight-year-old son knew it since June._ |
+| _Un mese. Io lo sapevo da un mese. E mio figlio di otto anni lo sapeva da giugno._ | _One month. I had known for a month. And my eight-year-old son had known since June._ |
 | «Anch'io lo sapevo» dice Kevin piano. | "I knew too," Kevin says quietly. |
 | «Lo so» dice Leo. «Ma io prima.» | "I know," Leo says. "But me first." |
 | Kevin ride. | Kevin laughs. |
@@ -63,7 +63,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Che scrivi?» chiede Leo. | "What are you writing?" Leo asks. |
 | «Scrivo le parole nuove» dice Kevin. «**Ancora** una parola per oggi.» | "I'm writing the new words," Kevin says. "**One more** word for today." |
 | «Papà, hai **ancora** quel quaderno?» chiede Leo. | "Dad, do you **still** have that notebook?" Leo asks. |
-| «Sì. Da tre anni» dice Kevin. | "Yes. For three years," Kevin says. |
+| «Sì. Da un anno» dice Kevin. | "Yes. For a year," Kevin says. |
 | Leo chiude il quaderno dei fatti. | Leo closes the notebook of facts. |
 | Poi guarda Kevin con occhi seri. | Then he looks at Kevin with serious eyes. |
 | «Papà, ti devo **promettere** una cosa» dice. | "Dad, I need you to **promise** me something," he says. |
@@ -131,9 +131,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ah» dice Kevin. «Sì. **Lo sapevo**.» | "Ah," Kevin says. "Yes. **I knew**." |
 | Roberto apre gli occhi. | Roberto opens his eyes wide. |
 | «**Lo sapeva**?» ripete. «Davvero?» | "**You knew**?" he repeats. "Really?" |
-| «Sì» dice Kevin. «Da giugno.» | "Yes," Kevin says. "Since June." |
+| «Sì» dice Kevin. «Da agosto.» | "Yes," Kevin says. "Since August." |
 | Roberto mette il **foglio** sul banco. | Roberto puts the **sheet** on the counter. |
-| «Io **l'ho saputo** ad agosto» dice. «**Dopo** il taglio della siepe.» | "I **found out** in August," he says. "**After** the hedge trimming." |
+| «Io **l'ho saputo** ad agosto» dice. «**Dopo** Ferragosto, di notte.» | "I **found out** in August," he says. "**After** Ferragosto, at night." |
 | «Ah» dice Kevin. «Capisco.» | "Ah," Kevin says. "I see." |
 | «Ma lei non ha detto niente a sua moglie» dice Roberto. | "But you didn't say anything to your wife," Roberto says. |
 | Kevin non risponde. | Kevin doesn't answer. |
@@ -154,10 +154,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non è una **bugia**» dice Kevin. «È... un **silenzio**.» | "It's not a **lie**," Kevin says. "It's... a **silence**." |
 | «Ah, il **silenzio**» dice Roberto. «Il **silenzio** è come una **bugia**, signor Carter.» | "Ah, **silence**," Roberto says. "**Silence** is like a **lie**, Mr. Carter." |
 | Matteo si avvicina. | Matteo comes closer. |
-| «Signor Colombo, io lo sapevo da un anno» dice Matteo. | "Mr. Colombo, I knew for a year," Matteo says. |
+| «Signor Colombo, io lo sapevo da giugno» dice Matteo. | "Mr. Colombo, I knew since June," Matteo says. |
 | Roberto si gira di scatto. | Roberto turns around quickly. |
-| «Un anno?» chiede. | "A year?" he asks. |
-| «Sì. Da prima dell'estate» dice Matteo. «Nessuno mi ha chiesto niente.» | "Yes. Since before the summer," Matteo says. "Nobody asked me anything." |
+| «Da giugno?» chiede. | "Since June?" he asks. |
+| «Sì. Da prima di Ferragosto» dice Matteo. «Nessuno mi ha chiesto niente.» | "Yes. Since before Ferragosto," Matteo says. "Nobody asked me anything." |
 | «Ma questa è una vergogna» dice Roberto. | "But this is a disgrace," Roberto says. |
 | «No, è un bar» dice Matteo. «Qui tutti sanno tutto.» | "No, it's a bar," Matteo says. "Here everybody knows everything." |
 | Roberto guarda Kevin. | Roberto looks at Kevin. |
@@ -199,9 +199,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Kevin» dice. «Tu hai un bel **sospetto** sulla lettera L?» | "Kevin," he says. "Do you have a good **suspicion** about the letter L?" |
 | Kevin si gira di scatto. | Kevin turns around quickly. |
 | «Come sai della lettera L?» chiede. | "How do you know about the letter L?" he asks. |
-| «Ragazzo mio» dice Matteo. «Io **lo sapevo** un anno fa.» | "My boy," Matteo says. "I **knew** it a year ago." |
+| «Ragazzo mio» dice Matteo. «Io **lo sapevo** da giugno.» | "My boy," Matteo says. "I **knew** it since June." |
 | «Cosa?» | "What?" |
-| «Io **ho conosciuto** Leo quando aveva cinque anni» dice Matteo. «Lui sa tutto.» | "I **met** Leo when he was five," Matteo says. "He knows everything." |
+| «Me l'ha detto Leo» dice Matteo. «Leo **sa** tutto.» | "Leo told me," Matteo says. "Leo **knows** everything." |
 | Kevin appoggia la testa sul banco. | Kevin leans his head on the counter. |
 | _Vorrei essere un detective come Leo. Lui almeno sta in silenzio._ | _I'd like to be a detective like Leo. At least he stays silent._ |
 
@@ -259,8 +259,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Da quando?» chiede. | "Since when?" she asks. |
 | «Da giugno» dice Kevin. | "Since June," Kevin says. |
 | Chiara chiude gli occhi per un secondo. | Chiara closes her eyes for a second. |
-| «Sei mesi» dice. «Sei mesi e non mi hai detto niente.» | "Six months," she says. "Six months and you didn't tell me anything." |
-| «Non è una cosa mia» dice Kevin. «Non era la mia **storia**.» | "It's not my thing," Kevin says. "It wasn't my story." |
+| «Un mese» dice. «Un mese e non mi hai detto niente.» | "One month," she says. "One month and you didn't tell me anything." |
+| «Non è una cosa mia» dice Kevin. «Non era la mia storia.» | "It's not my thing," Kevin says. "It wasn't my story." |
 | «Ma Emma è mia figlia» dice Chiara. | "But Emma is my daughter," Chiara says. |
 | «Lo so» dice Kevin. «Per questo ho aspettato.» | "I know," Kevin says. "That's why I waited." |
 | Chiara alza la voce un po'. | Chiara raises her voice a little. |
@@ -283,13 +283,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara lo guarda ancora. | Chiara looks at him again. |
 | «Kevin, tu hai **saputo** una cosa di Emma e non me l'hai detta» dice. «Questo lo capisco.» | "Kevin, you **found out** a thing about Emma and you didn't tell me," she says. "I understand that." |
 | «Grazie» dice Kevin piano. | "Thank you," Kevin says quietly. |
-| «Ma io **conoscevo** l'altra cosa» dice Chiara. «La cosa del babbo e Lucia.» | "But I **knew** the other thing," Chiara says. "The thing about Dad and Lucia." |
-| «Sì» dice Kevin. «Lo **sapevo** anche io.» | "Yes," Kevin says. "I **knew** that too." |
-| «Nessuno dei due mi **ha conosciuto** bene» dice Chiara con tristezza. | "Neither of you **met** me well," Chiara says sadly. |
+| «Con la cosa di papà e Lucia hai fatto lo stesso» dice Chiara. | "You did the same with the thing about Dad and Lucia," Chiara says. |
+| «Sì» dice Kevin. «Lo **sapevo** anche allora.» | "Yes," Kevin says. "I **knew** that too." |
+| «Nessuno dei due mi ha detto niente» dice Chiara con tristezza. | "Neither of you told me anything," Chiara says sadly. |
 | Kevin la guarda. | Kevin looks at her. |
-| «Questa frase non è giusta» dice. «Credo che devi dire un'altra cosa.» | "That sentence isn't right," he says. "I think you need to say something else." |
-| Chiara ride un po'. | Chiara laughs a little. |
-| «Hai ragione. Mi sono espresso male» dice. «Volevo dire: la **fiducia** non è facile per me.» | "You're right. I expressed myself badly," she says. "I meant: **trust** isn't easy for me." |
+| «Hai ragione a essere arrabbiata» dice. «Davvero.» | "You're right to be angry," he says. "Really." |
+| Chiara sospira. | Chiara sighs. |
+| «Non sono arrabbiata» dice. «La **fiducia** non è facile per me.» | "I'm not angry," she says. "**Trust** isn't easy for me." |
 | «Lo capisco» dice Kevin. «E ho un **sospetto** su di me.» | "I understand," Kevin says. "And I have a **suspicion** about myself." |
 | «Quale **sospetto**?» | "What **suspicion**?" |
 | «Che tengo troppe cose in **silenzio**» dice Kevin. «E il **silenzio** è come una **bugia**.» | "That I keep too many things in **silence**," Kevin says. "And **silence** is like a **lie**." |
@@ -372,13 +372,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara la guarda dritta negli occhi. | Chiara looks her straight in the eyes. |
 | «Lucia, tu **conoscevi** Anna?» chiede. | "Lucia, **did you know** Anna?" she asks. |
 | Lucia si siede su una sedia. | Lucia sits down on a chair. |
-| «No» dice. «Io **ho conosciuto** Franco due anni fa.» | "No," she says. "I **met** Franco two years ago." |
+| «No» dice. «Io **ho conosciuto** Franco più di un anno fa.» | "No," she says. "I **met** Franco more than a year ago." |
 | «E Anna?» | "And Anna?" |
-| «Anna non l'ho **conosciuta**» dice Lucia. «È morta tre anni prima del mio arrivo qui.» | "I never **met** Anna," Lucia says. "She died three years before my arrival here." |
+| «Anna non l'ho **conosciuta**» dice Lucia. «È morta prima che io conoscessi Franco.» | "I never **met** Anna," Lucia says. "She died before I knew Franco." |
 | Chiara ascolta con calma. | Chiara listens calmly. |
 | «Ma questa **scrittura** ti dice qualcosa» dice. | "But this **handwriting** says something to you," she says. |
 | Lucia guarda la **pagina** sul tavolo. | Lucia looks at the **page** on the table. |
-| «**Ammetto** che è bella» dice. «Ma non è la mia **scrittura**, e non è quella di Anna.» | "I **admit** it's nice," she says. "But it's not my **handwriting**, and it's not Anna's." |
+| «**Ammetto** che è bella» dice. «Ma non è la mia **scrittura**.» | "I **admit** it's nice," she says. "But it's not my **handwriting**." |
 | «E la persona L?» chiede Chiara. «La **conoscevi**?» | "And the person L?" Chiara asks. "**Did you know** her?" |
 | Lucia non risponde subito. | Lucia doesn't answer right away. |
 | Poi dice con voce bassa: «No. Non **conoscevo** nessuna L.» | Then she says in a low voice: "No. I **didn't know** any L." |
@@ -559,7 +559,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin la guarda con attenzione. | Kevin looks at it carefully. |
 | «Non toccare» dice Chiara ridendo. | "Don't touch," Chiara says, laughing. |
 | «Non tocco» dice Kevin. «Ho **promesso** anche io.» | "I'm not touching," Kevin says. "I **promised** too." |
-| Camminano un po' in **silenzio**. | They walk a little in silence. |
+| Camminano un po' in silenzio. | They walk a little in silence. |
 | Poi Chiara parla di nuovo. | Then Chiara speaks again. |
 | «Kevin, ti devo dire il mio **sospetto** vero» dice. | "Kevin, I have to tell you my real **suspicion**," she says. |
 | «Quale?» chiede Kevin. | "Which one?" Kevin asks. |
@@ -573,11 +573,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin ci pensa. | Kevin thinks about it. |
 | «Ornella» dice. «Ornella **conosceva** tutti.» | "Ornella," he says. "Ornella **knew** everyone." |
 | «Sì» dice Chiara. «Ornella vive qui dal 1974.» | "Yes," Chiara says. "Ornella has lived here since 1974." |
-| «E **tu** la **conoscevi** bene?» chiede Kevin. | "And **did you** know her well?" Kevin asks. |
+| «E tu la conoscevi bene?» chiede Kevin. | "And did you know her well?" Kevin asks. |
 | «Sì. Ma io ero piccola» dice Chiara. | "Yes. But I was little," Chiara says. |
-| «Io **ho conosciuto** Ornella due anni fa» dice Kevin. | "I **met** Ornella two years ago," Kevin says. |
+| «Io **ho conosciuto** Ornella un anno fa» dice Kevin. | "I **met** Ornella a year ago," Kevin says. |
 | Chiara ride piano. | Chiara laughs quietly. |
-| «Lo so» dice. «E lei ti ha dato del tu in un giorno solo.» | "I know," she says. "And she gave you the tu in one day." |
+| «Lo so» dice. «E lei ti ha dato del tu dopo otto mesi.» | "I know," she says. "And she gave you the tu after eight months." |
 | «Con te come parla?» chiede Kevin. | "How does she speak with you?" Kevin asks. |
 | «Con me parla come con Emma» dice Chiara. «Come con la figlia di Anna.» | "With me she speaks like with Emma," Chiara says. "Like with Anna's daughter." |
 | Camminano ancora un po'. | They walk a little more. |

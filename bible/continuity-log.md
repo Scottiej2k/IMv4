@@ -363,10 +363,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Tommaso's skateboard and helmet are stored behind the Carters' door "per una settimana"; Tommaso will walk Leo to school Monday; visit promised "domenica pomeriggio."
 
 ### s03e06 · Lo sapevi?
-- **Happened:** Leo reveals he knew about Emma and Tommaso since June; Kevin admits he also knew. Roberto invites the Carters to dinner and schedules a committee meeting about the “couple.” Chiara confronts Kevin, then takes the jar’s eight letters to Franco; Lucia reacts strangely to a page.
-- **New facts:** Leo has a cast on his right arm covered in signatures and keeps a “quaderno dei fatti strani.” Kevin’s yellow vocabulary notebook is three years old. The wall jar held eight 1975 letters signed “L,” handwriting not Anna’s. Roberto’s wife is Marina; dinner condition: hedge untouched. Roberto learned in August; Matteo knew a year.
-- **Changed:** Chiara knows Kevin hid the Emma/Tommaso secret since June; Kevin knows about the letters. Lucia hides knowledge of the letters; Franco also has a secret. Chiara plans to ask Ornella alone.
-- **Planted:** identity of L and the jar mystery; Lucia’s and Franco’s hidden knowledge; Roberto’s committee meeting and dinner.
+- **Happened:** Leo (arm in cast) reveals he knew Emma–Tommaso since June, before Kevin (August); Chiara confronts Kevin for hiding it. Roberto knew since after Ferragosto and invites the Carters to dinner with Marina, writing a committee verbale. Chiara finds eight 1975 letters signed "L" in Anna's tin; Lucia reads one and hides something.
+- **New facts:** Leo's "quaderno dei fatti strani"; tin was in the Carter house wall. Letters all 1975, handwriting not Anna's, signature L; Franco never saw them and doesn't know L. Ornella has lived on the street since 1974. Roberto's wife Marina; hedge untouched condition.
+- **Changed:** Emma–Tommaso now known to Chiara, Kevin, Matteo, Leo, Roberto. Kevin promises Chiara to tell her first, not after. Lucia denies knowing L but recognizes something; Chiara suspects Anna knew someone the family never met.
+- **Planted:** Identity of L; Lucia's secret; Chiara to ask Ornella alone. Roberto's committee meeting and dinner at his house remain open; Franco hints at a mystery of his own.
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
