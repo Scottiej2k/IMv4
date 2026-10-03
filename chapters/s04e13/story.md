@@ -310,9 +310,9 @@ Matteo si mette le mani in tasca. «Sai che cosa penso?» dice. «Che i clienti 
 
 È sabato mattina, dieci e mezza. Bar Tigli è aperto, ma la sala grande è vuota. Sul **bancone** c'è una tazza di caffè e una lista di nomi.
 
-Kevin legge la lista ad alta voce, anche se non c'è nessuno. «Ute è a Monaco, Kenji è in Giappone, Megan ha un esame» dice. «Oggi due studenti su tre non vengono» aggiunge.
+Kevin legge la lista ad alta voce, anche se non c'è nessuno. «Ute è a Monaco e Kenji è in Giappone» dice. «Oggi due studenti su tre non vengono. Viene solo Megan» aggiunge.
 
-Il tavolo grande è pronto con farina, uova, pomodori e una padella. Kevin mette i pomodori in fila, poi li rimette in fila un'altra volta. Fuori dalla porta passa un cane, poi più niente. _Due studenti sono pochi. Ma due è **migliore** di zero._
+Il tavolo grande è pronto con farina, uova, pomodori e una padella. Kevin mette i pomodori in fila, poi li rimette in fila un'altra volta. Fuori dalla porta passa un cane, poi più niente. _Uno studente è poco. Ma uno è **migliore** di zero._
 
 Poi arriva Franco, con un mazzo di basilico in mano. Ha le mani sporche di terra e un sorriso piccolo. «Buongiorno» dice. «Sono venuto a controllare la cottura.»
 
@@ -328,11 +328,11 @@ Kevin lo prende e lo annusa, con gli occhi chiusi. «Grazie» dice.
 
 Franco guarda il tavolo, la farina, la padella vuota. «Dove sono gli studenti?» chiede.
 
-«Uno a Monaco, uno in Giappone, uno con un esame» dice Kevin.
+«Una a Monaco e uno in Giappone» dice Kevin.
 
-«Quindi hai due studenti» dice Franco.
+«Quindi hai una studentessa» dice Franco.
 
-«Due» dice Kevin. «Sette giorni fa erano tre.»
+«Una» dice Kevin. «Sette giorni fa erano tre.»
 
 Franco si siede sullo sgabello vicino al **bancone**. «E come è l'**inizio**?» chiede.
 
@@ -802,7 +802,7 @@ Kevin finisce di asciugare un bicchiere e si siede. «Io invece ho avuto la sett
 
 «Il Sunny Side?» chiede Chiara.
 
-«Il Sunny Side, il corso con due studenti, Matteo al bancone con il telefono» dice Kevin.
+«Il Sunny Side, il corso con una studentessa, Matteo al bancone con il telefono» dice Kevin.
 
 «E come **confronti** il tuo corso con il loro?» chiede.
 
@@ -840,7 +840,7 @@ Kevin sorride e guarda la cucina. «La **moda**» dice. «La **moda** in questa 
 
 «E anche tuo marito» dice Chiara.
 
-«Anche tuo marito» dice Kevin. «Da undici anni.»
+«Anche tuo marito» dice Kevin. «Da otto mesi.»
 
 Chiara ride e prende un biscotto dal piatto. «La **moda** dura poco» dice. «La **qualità** dura molto.»
 
@@ -906,7 +906,7 @@ Chiara guarda Kevin e alza le sopracciglia. «Il **consiglio** è **migliore** d
 
 Leo chiude il quaderno e sbadiglia. «Il corso di sabato prossimo lo fai?» chiede.
 
-«Non lo so» dice Kevin. «Due studenti sono pochi.»
+«Non lo so» dice Kevin. «Una studentessa è poca.»
 
 «Io vengo» dice Leo. «E porto Pietro.»
 
@@ -916,7 +916,7 @@ Leo chiude il quaderno e sbadiglia. «Il corso di sabato prossimo lo fai?» chie
 
 Chiara ride e chiude il computer per davvero. «Kevin, secondo me il corso vale un altro sabato» dice.
 
-«Anche con due studenti?»
+«Anche con una studentessa?»
 
 «Anche con uno» dice Chiara. «L'**obiettivo** non è il numero.»
 

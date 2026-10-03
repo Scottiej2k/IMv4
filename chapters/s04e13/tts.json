@@ -11186,16 +11186,16 @@
           "s04e13-3-004:0-11"
         ],
         [
-          "s04e13-3-005:0-11"
+          "s04e13-3-005:0-8"
         ],
         [
-          "s04e13-3-005:12-12"
+          "s04e13-3-005:9-9"
         ],
         [
-          "s04e13-3-006:0-6"
+          "s04e13-3-006:0-9"
         ],
         [
-          "s04e13-3-006:7-7",
+          "s04e13-3-006:10-10",
           "s04e13-3-007:0-11",
           "s04e13-3-008:0-12",
           "s04e13-3-009:0-8"
@@ -11227,7 +11227,7 @@
               },
               {
                 "type": "text",
-                "text": "Ute è a Monaco, Kenji è in Giappone, Megan ha un esame",
+                "text": "Ute è a Monaco e Kenji è in Giappone",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11249,7 +11249,7 @@
               },
               {
                 "type": "text",
-                "text": "Oggi due studenti su tre non vengono",
+                "text": "Oggi due studenti su tre non vengono. Viene solo Megan",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11271,7 +11271,7 @@
               },
               {
                 "type": "text",
-                "text": "Due studenti sono pochi. Ma due è migliore di zero.",
+                "text": "Uno studente è poco. Ma uno è migliore di zero.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11782,10 +11782,10 @@
       ],
       "words": [
         [
-          "s04e13-3-023:0-9"
+          "s04e13-3-023:0-6"
         ],
         [
-          "s04e13-3-023:10-11"
+          "s04e13-3-023:7-8"
         ]
       ],
       "request": {
@@ -11796,7 +11796,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Uno a Monaco, uno in Giappone, uno con un esame",
+                "text": "Una a Monaco e uno in Giappone",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11866,7 +11866,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Quindi hai due studenti",
+                "text": "Quindi hai una studentessa",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11943,7 +11943,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Due",
+                "text": "Una",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -29521,7 +29521,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Il Sunny Side, il corso con due studenti, Matteo al bancone con il telefono",
+                "text": "Il Sunny Side, il corso con una studentessa, Matteo al bancone con il telefono",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -30976,7 +30976,7 @@
               },
               {
                 "type": "text",
-                "text": "Da undici anni.",
+                "text": "Da otto mesi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -33455,7 +33455,7 @@
               },
               {
                 "type": "text",
-                "text": "Due studenti sono pochi.",
+                "text": "Una studentessa è poca.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -33811,7 +33811,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Anche con due studenti?",
+                "text": "Anche con una studentessa?",
                 "annotations": [
                   {
                     "type": "speech_metadata",

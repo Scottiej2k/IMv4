@@ -226,12 +226,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Bar Tigli è aperto, ma la sala grande è vuota. | Bar Tigli is open, but the big room is empty. |
 | Sul **bancone** c'è una tazza di caffè e una lista di nomi. | On the **counter** there's a cup of coffee and a list of names. |
 | Kevin legge la lista ad alta voce, anche se non c'è nessuno. | Kevin reads the list out loud, even though there's nobody there. |
-| «Ute è a Monaco, Kenji è in Giappone, Megan ha un esame» dice. | "Ute is in Monaco, Kenji is in Japan, Megan has an exam," he says. |
-| «Oggi due studenti su tre non vengono» aggiunge. | "Today two students out of three aren't coming," he adds. |
+| «Ute è a Monaco e Kenji è in Giappone» dice. | "Ute is in Munich and Kenji is in Japan," he says. |
+| «Oggi due studenti su tre non vengono. Viene solo Megan» aggiunge. | "Today two students out of three aren't coming. Only Megan is," he adds. |
 | Il tavolo grande è pronto con farina, uova, pomodori e una padella. | The big table is ready with flour, eggs, tomatoes and a pan. |
 | Kevin mette i pomodori in fila, poi li rimette in fila un'altra volta. | Kevin lines the tomatoes up, then lines them up again. |
 | Fuori dalla porta passa un cane, poi più niente. | Outside the door a dog walks past, then nothing more. |
-| _Due studenti sono pochi. Ma due è **migliore** di zero._ | _Two students are few. But two is **better** than zero._ |
+| _Uno studente è poco. Ma uno è **migliore** di zero._ | _One student is few. But one is **better** than zero._ |
 | Poi arriva Franco, con un mazzo di basilico in mano. | Then Franco arrives, with a bunch of basil in his hand. |
 | Ha le mani sporche di terra e un sorriso piccolo. | His hands are dirty with soil and he has a small smile. |
 | «Buongiorno» dice. «Sono venuto a controllare la cottura.» | "Good morning," he says. "I've come to check the cooking." |
@@ -244,9 +244,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non ringraziare. È per la **qualità**» dice Franco. | "Don't thank me. It's for **quality**," Franco says. |
 | Franco guarda il tavolo, la farina, la padella vuota. | Franco looks at the table, the flour, the empty pan. |
 | «Dove sono gli studenti?» chiede. | "Where are the students?" he asks. |
-| «Uno a Monaco, uno in Giappone, uno con un esame» dice Kevin. | "One in Monaco, one in Japan, one with an exam," Kevin says. |
-| «Quindi hai due studenti» dice Franco. | "So you have two students," Franco says. |
-| «Due» dice Kevin. «Sette giorni fa erano tre.» | "Two," Kevin says. "Seven days ago there were three." |
+| «Una a Monaco e uno in Giappone» dice Kevin. | "One in Munich and one in Japan," Kevin says. |
+| «Quindi hai una studentessa» dice Franco. | "So you have one student," Franco says. |
+| «Una» dice Kevin. «Sette giorni fa erano tre.» | "One," Kevin says. "Seven days ago there were three." |
 | Franco si siede sullo sgabello vicino al **bancone**. | Franco sits on the stool near the **counter**. |
 | «E come è l'**inizio**?» chiede. | "And how's the **beginning**?" Franco asks. |
 | «L'**inizio** è sempre difficile» dice Kevin. | "The **beginning** is always difficult," Kevin says. |
@@ -581,7 +581,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin finisce di asciugare un bicchiere e si siede. | Kevin finishes drying a glass and sits down. |
 | «Io invece ho avuto la settimana più strana della mia vita» dice. | "Meanwhile I've had the strangest week of my life," Kevin says. |
 | «Il Sunny Side?» chiede Chiara. | "Sunny Side?" Chiara asks. |
-| «Il Sunny Side, il corso con due studenti, Matteo al bancone con il telefono» dice Kevin. | "Sunny Side, the class with two students, Matteo at the counter with his phone," Kevin says. |
+| «Il Sunny Side, il corso con una studentessa, Matteo al bancone con il telefono» dice Kevin. | "Sunny Side, the class with one student, Matteo at the counter with his phone," Kevin says. |
 | «E come **confronti** il tuo corso con il loro?» chiede. | "And how do you **compare** your class with theirs?" |
 | «Non lo **confronto**» dice Kevin. «Me l'ha detto Franco.» | "I don't **compare** it," Kevin says. "Franco told me." |
 | «Franco?» dice Chiara, e sorride. | "Franco?" Chiara says, and smiles. |
@@ -606,7 +606,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché?» chiede. | "Why?" |
 | «Perché va di **moda** tutto quello che è americano» dice Kevin. «Il pancake, il brunch, il bacon.» | "Because everything American is in **fashion**," Kevin says. "Pancakes, brunch, bacon." |
 | «E anche tuo marito» dice Chiara. | "And your husband too," Chiara says. |
-| «Anche tuo marito» dice Kevin. «Da undici anni.» | "And your husband too," Kevin says. "For eleven years." |
+| «Anche tuo marito» dice Kevin. «Da otto mesi.» | "And your husband too," Kevin says. "For eight months." |
 | Chiara ride e prende un biscotto dal piatto. | Chiara laughs and takes a biscuit from the plate. |
 | «La **moda** dura poco» dice. «La **qualità** dura molto.» | "**Fashion** doesn't last long," Chiara says. "**Quality** lasts a long time." |
 | «Questa è la frase di Franco» dice Kevin. | "That's Franco's sentence," Kevin says. |
@@ -650,13 +650,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora lo metto in fondo» dice Kevin. | "Then I'll put it at the end," Kevin says. |
 | Leo chiude il quaderno e sbadiglia. | Leo closes the notebook and yawns. |
 | «Il corso di sabato prossimo lo fai?» chiede. | "Are you doing next Saturday's class?" Leo asks. |
-| «Non lo so» dice Kevin. «Due studenti sono pochi.» | "I don't know," Kevin says. "Two students are few." |
+| «Non lo so» dice Kevin. «Una studentessa è poca.» | "I don't know," Kevin says. "One student is few." |
 | «Io vengo» dice Leo. «E porto Pietro.» | "I'll come," Leo says. "And I'll bring Pietro." |
 | «Pietro non è straniero» dice Kevin. | "Pietro isn't a foreigner," Kevin says. |
 | «Allora è uno studente segreto» dice Leo. | "Then he's a secret student," Leo says. |
 | Chiara ride e chiude il computer per davvero. | Chiara laughs and closes the laptop for real. |
 | «Kevin, secondo me il corso vale un altro sabato» dice. | "Kevin, in my opinion the class is worth another Saturday," Chiara says. |
-| «Anche con due studenti?» | "Even with two students?" |
+| «Anche con una studentessa?» | "Even with one student?" |
 | «Anche con uno» dice Chiara. «L'**obiettivo** non è il numero.» | "Even with one," Chiara says. "The **goal** isn't the number." |
 | «E qual è l'**obiettivo**?» chiede Kevin. | "And what's the **goal**?" Kevin asks. |
 | «Che uno dei due torni» dice. «E porti un amico.» | "That one of the two comes back," Chiara says. "And brings a friend." |
