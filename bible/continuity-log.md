@@ -314,6 +314,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco is the gelato thief; only Lucia knows, and she says Kevin must be told. Emma secretly plans to spend the summer at home near Tommaso and the lake.
 - **Planted:** Lucia wants Franco to confess to Kevin; Emma's hidden summer plans. Sartori gave Kevin one more week (answer due Wednesday). Kevin books a hotel Monday (one room, four beds, three nights).
 
+### s02e23 · In farmacia
+- **Happened:** Kevin falls asleep in the sun at Parco dei Tigli on Sunday and gets a bad sunburn; the family doses him with cream, ointment, syrup and band-aids. Monday he queues at Farmacia Centrale, where Nadia explains that a *ricetta* comes from the *medico*, not the pharmacy. Tuesday Matteo brings a blue notebook of thirty questions to Nadia's prenatal check-up at the Monza hospital; eleven get answered. Wednesday Franco feeds Kevin pasta as "medicine."
+- **New facts:** Nadia works at Borgoverde's Farmacia Centrale; her pregnancy check-ups are monthly at the Monza hospital. Matteo's blue question notebook (11 of 30 asked) and Kevin's yellow notebook of advice are recurring props. Kevin spent €32 at the pharmacy; his new blue swimsuit is unworn; a towel is lost at the park.
+- **Changed:** Franco paid for Kevin's coffee, which Matteo reads as "today you're one of us." Kevin tells Chiara that the pharmacy queue treated him like a neighbor, and that it matters.
+- **Planted:** Kevin has still not decided about Sartori (answer due Wednesday; Chiara reminds him Tuesday evening). Franco refuses to give Kevin his pasta recipe.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

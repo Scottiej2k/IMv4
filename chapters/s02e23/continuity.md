@@ -1,0 +1,5 @@
+### s02e23 · In farmacia
+- **Happened:** Kevin falls asleep in the sun at Parco dei Tigli on Sunday and gets a bad sunburn; the family doses him with cream, ointment, syrup and band-aids. Monday he queues at Farmacia Centrale, where Nadia explains that a *ricetta* comes from the *medico*, not the pharmacy. Tuesday Matteo brings a blue notebook of thirty questions to Nadia's prenatal check-up at the Monza hospital; eleven get answered. Wednesday Franco feeds Kevin pasta as "medicine."
+- **New facts:** Nadia works at Borgoverde's Farmacia Centrale; her pregnancy check-ups are monthly at the Monza hospital. Matteo's blue question notebook (11 of 30 asked) and Kevin's yellow notebook of advice are recurring props. Kevin spent €32 at the pharmacy; his new blue swimsuit is unworn; a towel is lost at the park.
+- **Changed:** Franco paid for Kevin's coffee, which Matteo reads as "today you're one of us." Kevin tells Chiara that the pharmacy queue treated him like a neighbor, and that it matters.
+- **Planted:** Kevin has still not decided about Sartori (answer due Wednesday; Chiara reminds him Tuesday evening). Franco refuses to give Kevin his pasta recipe.
