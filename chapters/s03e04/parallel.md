@@ -152,7 +152,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Due mazzi di fiori.» | “Two bouquets of flowers.” |
 | «Tre.» | “Three.” |
 | «Due. Uno era di mia madre.» | “Two. One was from my mother.” |
-| «Tuo madre non era alla cena.» | “Your mother wasn't at dinner.” |
+| «Tua madre non era alla cena.» | “Your mother wasn't at dinner.” |
 | «Ai fiori però sì.» | “At the flowers though, yes.” |
 | Kevin alza le mani. | Kevin raises his hands. |
 | «Non importa. Siete una coppia **innamorata**?» | “It doesn't matter. Are you two an **in-love** couple?” |
@@ -250,7 +250,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E la nonna?» | “And Grandma?” |
 | «Tua nonna **prendeva** il **tram** tutte le mattine. Stessa **fermata**, alle sette e dieci.» | “Your grandma **took** the **tram** every morning. Same **stop**, at ten past seven.” |
 | «Tutte le mattine?» | “Every morning?” |
-| «Tutte. E poi c'era **la fila**. Io **facevo la fila** di passeggeri e lei era sempre l'ultima.» | “Every single one. And then there was the line. I **stood in line** with the passengers and she was always last.” |
+| «Tutte. E poi c'era la fila. Io facevo la fila di passeggeri e lei era sempre l'ultima.» | “Every single one. And then there was the line. I stood in line with the passengers and she was always last.” |
 | «Perché l'ultima?» | “Why last?” |
 | «Perché **leggeva** e non guardava l'ora.» | “Because she **read** and didn't look at the time.” |
 | Emma ride piano. | Emma laughs softly. |
@@ -376,7 +376,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E cosa hai pensato?» | “And what did you think?” |
 | «Ho pensato: “**Mi sono innamorato**”. E il **battito** andava forte.» | “I thought: “**I've fallen in love**.” And my **heartbeat** was racing.” |
 | «Per tutto il film?» | “For the whole film?” |
-| «Per tutto il film. E anche dopo, sul **tram** numero nove.» | “For the whole film. And even after, on **tram** number nine.” |
+| «Per tutto il film. E anche dopo, sul **tram** numero quattro.» | “For the whole film. And even after, on **tram** number four.” |
 | Emma scrive la parola “**battito**” e la sottolinea due volte. | Emma writes the word “**heartbeat**” and underlines it twice. |
 | «E il **passenger**... scusa, il **passeggero**?» | “And the **passenger**... sorry, the **passenger**?” |
 | «Quale passeggero?» | “Which passenger?” |
@@ -389,7 +389,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma prende la foto con due dita. | Emma takes the photo with two fingers. |
 | Una ragazza con gli occhiali e un libro è davanti a un **tram**. | A girl with glasses and a book is in front of a **tram**. |
 | «È la nonna?» | “Is that Grandma?” |
-| «Diciotto anni. Prima che **ci incontravamo** io e lei.» | “Eighteen years old. Before she and I **met**.” |
+| «Diciotto anni. Ancora non **ci conoscevamo**.» | “Eighteen years old. We hadn't **met** yet.” |
 | «Nonno, è **bellissima**.» | “Grandpa, she's **very beautiful**.” |
 | «Lo so. L'ho pensato quel giorno e l'ho pensato per quarant'anni.» | “I know. I thought it that day and I thought it for forty years.” |
 | Emma **annuisce** e tiene la foto contro il petto. | Emma **nods** and holds the photo against her chest. |
@@ -448,12 +448,12 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, no.» | “Dad, no.” |
 | «Un barbecue, un piatto di insalata e **all'improvviso**...» | “A barbecue, a plate of salad and **suddenly**...” |
 | «Papà!» | “Dad!” |
-| «**Mi sono innamorato** **all'improvviso**, ho **confuso** il mio nome con il tuo.» | “**I fell in love** **suddenly**, I **mixed up** my name with yours.” |
+| «**Mi sono innamorato** **all'improvviso**, e ho **confuso** il piatto con il bicchiere.» | “**I fell in love** **suddenly**, and I **mixed up** the plate with the glass.” |
 | Silenzio in cucina. | Silence in the kitchen. |
 | Chiara guarda il tavolo e non parla. | Chiara looks at the table and doesn't say anything. |
-| «Era il 2006, Kevin.» | “It was 2006, Kevin.” |
-| «Lo so. Ti ho chiamato Marco per tre minuti.» | “I know. I called you Marco for three minutes.” |
-| «Il mio collega si chiamava Mark.» | “My colleague's name was Mark.” |
+| «Era un'estate calda, Kevin.» | “It was a hot summer, Kevin.” |
+| «Lo so. Ti ho versato la limonata sull'insalata.» | “I know. I poured lemonade on your salad.” |
+| Chiara sorride e guarda il tavolo. | Chiara smiles and looks at the table. |
 | «E adesso lo scrivi nei **ricordi**?» | “And now do you write it in your **memories**?” |
 | «Nel **taccuino** sì. Il **taccuino** è pieno di **ricordi** corti.» | “In the **notebook**, yes. The **notebook** is full of short **memories**.” |
 | «Il nonno invece **nasconde** tutto.» | “Grandpa instead **hides** everything.” |
@@ -473,7 +473,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Domande normali.» | “Normal questions.” |
 | «Vai a letto.» | “Go to bed.” |
 | «Prima rispondi.» | “Answer first.” |
-| «A letto, Leonardo.» | “Bed, Leonardo.” |
+| «A letto, Leo.» | “Bed, Leo.” |
 | Leo esce ridendo e Kevin lo accompagna. | Leo goes out laughing and Kevin walks him out. |
 | Emma scrive l'ultima riga e chiude il **taccuino**. | Emma writes the last line and closes the **notebook**. |
 | _Mio nonno ha aspettato cinquant'anni. Mia madre ha aspettato tutta la vita._ | _My grandpa waited fifty years. My mom waited her whole life._ |
@@ -504,7 +504,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Io e tua madre **ci siamo incontrati** su un **tram**.» | “Your mother and I **met** on a **tram**.” |
 | Silenzio nel bar. Matteo posa la camicia. | Silence in the bar. Matteo puts down the shirt. |
 | «Su un tram? Non in farmacia?» | “On a tram? Not in a pharmacy?” |
-| «In farmacia ci siete voi. E nessuno **ha fatto finta** di niente.» | “In the pharmacy there's you two. And nobody **pretended** anything.” |
+| «In farmacia ci siete voi due. Voi avete **fatto finta**, noi no.» | “At the pharmacy there's you two. You **pretended**, we didn't.” |
 | «Papà, io ero **malato**.» | “Dad, I was **sick**.” |
 | «Con un **camice** bianco?» | “In a white **coat**?” |
 | «Era un dettaglio di stile.» | “It was a stylish detail.” |
@@ -552,7 +552,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quale parte?» | “Which part?” |
 | «Il matrimonio. E la torta al limone.» | “The wedding. And the lemon cake.” |
 | Matteo apre la bocca e la chiude due volte. | Matteo opens his mouth and closes it twice. |
-| «Il matrimonio? Papà, io non lo sapevo!» | “The wedding? Dad, I didn't know that!” |
+| «Il matrimonio? Papà, di questa non mi hai mai parlato!» | “The wedding? Dad, you never told me about this!” |
 | «Adesso lo sai.» | “Now you know.” |
 | Franco esce e la porta si chiude piano. | Franco leaves and the door closes softly. |
 | Matteo guarda Kevin con le mani in aria. | Matteo looks at Kevin with his hands in the air. |
@@ -574,14 +574,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Le hai raccontato tutto a Emma?» | “Did you tell Emma everything?” |
 | «Quasi tutto.» | “Almost everything.” |
 | «Anche che non sai ballare?» | “Even that you can't dance?” |
-| «Tante. E forse posso **rivelare** una foto.» | “Many. And maybe I can **reveal** a photo.” |
+| «Anche quello. E ha riso molto. Forse posso **rivelare** una foto anche a te.» | “That too. She laughed a lot. Maybe I can **reveal** a photo to you as well.” |
 | «Franco, quella ragazza ha scritto una cosa bella.» | “Franco, that girl wrote something beautiful.” |
 | «Ha scritto bene. Le date sono giuste.» | “She wrote well. The dates are right.” |
 | «Non parlo delle date. Parlo del **ricordo**.» | “I'm not talking about the dates. I'm talking about the **memory**.” |
 | Franco prende la foto e la guarda controluce. | Franco takes the photo and looks at it against the light. |
 | «Cinquant'anni in un cassetto.» | “Fifty years in a drawer.” |
 | «E adesso è fuori dal cassetto. È una cosa buona.» | “And now it's out of the drawer. That's a good thing.” |
-| «Tua nonna ballava come me. Male.» | “Your... she danced like me. Badly.” |
+| «Anna ballava come me. Male.» | “Anna danced like me. Badly.” |
 | Lucia **sorride** e versa il caffè. | Lucia **smiles** and pours the coffee. |
 | «Il **ballo** di San Giovanni. Me l'hai raccontato una volta.» | “The Saint John's **dance**. You told me about it once.” |
 | «Una volta sola. E senza dettagli.» | “Only once. And without details.” |

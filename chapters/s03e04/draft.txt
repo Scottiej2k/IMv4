@@ -30,7 +30,7 @@ nascondere | verb | | to hide | nasconde, nascondeva, nascosto
 la calma | noun | f | calm | calme
 @end
 
-# SCENE casa-carter | martedì pomeriggio | emma, chiara, kevin, leo
+# SCENE casa-carter | martedì pomeriggio | emma, chiara, ben, leo
 Emma entra in casa e butta lo zaino sul divano. || Emma comes into the house and throws her backpack on the sofa.
 «Mamma! Hai cinque minuti?»{emma} || “Mom! Do you have five minutes?”
 Chiara esce dalla cucina con un panno in mano. || Chiara comes out of the kitchen with a cloth in her hand.
@@ -101,7 +101,7 @@ Kevin prende una busta e tira fuori un pomodoro. || Kevin takes a bag and pulls 
 «Allora portagli questo. È del suo orto, ma è un gesto.»{ben} || “Then take him this. It's from his garden, but it's a gesture.”
 «Un pomodoro. Per l'**amore**. Perfetto.»{emma|dry} || “A tomato. For **love**. Perfect.”
 
-# SCENE bar-tigli | mercoledì mattina | kevin, matteo, nadia
+# SCENE bar-tigli | mercoledì mattina | ben, matteo, nadia
 Mercoledì mattina al Bar Tigli. Fuori piove piano. || Wednesday morning at Bar Tigli. Outside it's raining softly.
 Kevin apre alle sei e pulisce il bancone. || Kevin opens at six and cleans the counter.
 Nadia scende dalle scale alle sette e mezza. || Nadia comes down the stairs at seven thirty.
@@ -172,7 +172,7 @@ Silenzio. Nadia e Matteo si guardano. || Silence. Nadia and Matteo look at each 
 «Due mazzi di fiori.»{matteo} || “Two bouquets of flowers.”
 «Tre.»{nadia} || “Three.”
 «Due. Uno era di mia madre.»{matteo} || “Two. One was from my mother.”
-«Tuo madre non era alla cena.»{nadia} || “Your mother wasn't at dinner.”
+«Tua madre non era alla cena.»{nadia} || “Your mother wasn't at dinner.”
 «Ai fiori però sì.»{matteo|proud} || “At the flowers though, yes.”
 Kevin alza le mani. || Kevin raises his hands.
 «Non importa. Siete una coppia **innamorata**?»{ben} || “It doesn't matter. Are you two an **in-love** couple?”
@@ -267,7 +267,7 @@ Emma scrive subito la prima riga. || Emma immediately writes the first line.
 «E la nonna?»{emma} || “And Grandma?”
 «Tua nonna **prendeva** il **tram** tutte le mattine. Stessa **fermata**, alle sette e dieci.»{franco} || “Your grandma **took** the **tram** every morning. Same **stop**, at ten past seven.”
 «Tutte le mattine?»{emma} || “Every morning?”
-«Tutte. E poi c'era **la fila**. Io **facevo la fila** di passeggeri e lei era sempre l'ultima.»{franco} || “Every single one. And then there was the line. I **stood in line** with the passengers and she was always last.”
+«Tutte. E poi c'era la fila. Io facevo la fila di passeggeri e lei era sempre l'ultima.»{franco} || “Every single one. And then there was the line. I stood in line with the passengers and she was always last.”
 «Perché l'ultima?»{emma} || “Why last?”
 «Perché **leggeva** e non guardava l'ora.»{franco} || “Because she **read** and didn't look at the time.”
 Emma ride piano. || Emma laughs softly.
@@ -390,7 +390,7 @@ Franco si siede sulla cassetta accanto a lei. || Franco sits on the crate next t
 «E cosa hai pensato?»{emma} || “And what did you think?”
 «Ho pensato: “**Mi sono innamorato**”. E il **battito** andava forte.»{franco} || “I thought: “**I've fallen in love**.” And my **heartbeat** was racing.”
 «Per tutto il film?»{emma} || “For the whole film?”
-«Per tutto il film. E anche dopo, sul **tram** numero nove.»{franco} || “For the whole film. And even after, on **tram** number nine.”
+«Per tutto il film. E anche dopo, sul **tram** numero quattro.»{franco} || “For the whole film. And even after, on **tram** number four.”
 Emma scrive la parola “**battito**” e la sottolinea due volte. || Emma writes the word “**heartbeat**” and underlines it twice.
 «E il **passenger**... scusa, il **passeggero**?»{emma} || “And the **passenger**... sorry, the **passenger**?”
 «Quale passeggero?»{franco} || “Which passenger?”
@@ -403,7 +403,7 @@ Dentro ci sono foto piccole, in bianco e nero. || Inside there are small photos,
 Emma prende la foto con due dita. || Emma takes the photo with two fingers.
 Una ragazza con gli occhiali e un libro è davanti a un **tram**. || A girl with glasses and a book is in front of a **tram**.
 «È la nonna?»{emma} || “Is that Grandma?”
-«Diciotto anni. Prima che **ci incontravamo** io e lei.»{franco} || “Eighteen years old. Before she and I **met**.”
+«Diciotto anni. Ancora non **ci conoscevamo**.»{franco} || “Eighteen years old. We hadn't **met** yet.”
 «Nonno, è **bellissima**.»{emma} || “Grandpa, she's **very beautiful**.”
 «Lo so. L'ho pensato quel giorno e l'ho pensato per quarant'anni.»{franco|soft} || “I know. I thought it that day and I thought it for forty years.”
 Emma **annuisce** e tiene la foto contro il petto. || Emma **nods** and holds the photo against her chest.
@@ -432,7 +432,7 @@ Emma esce dall'orto e si volta un'ultima volta. || Emma leaves the garden and tu
 _Mio nonno ha aspettato cinquant'anni per dire “**bellissima**”._{emma} || *My grandpa waited fifty years to say “**very beautiful**.”*
 _E adesso quella parola è anche mia._{emma} || *And now that word is mine too.*
 
-# SCENE casa-carter | giovedì sera | emma, chiara, leo, kevin
+# SCENE casa-carter | giovedì sera | emma, chiara, leo, ben
 Giovedì sera, la cucina dei Carter. || Thursday evening, the Carters' kitchen.
 Fuori è buio e piove di nuovo. || Outside it's dark and raining again.
 Emma è al tavolo con il **taccuino** aperto e due foto stampate. || Emma is at the table with the open **notebook** and two printed photos.
@@ -459,12 +459,12 @@ Kevin arriva dal salotto con una tazza di tè. || Kevin comes from the living ro
 «Papà, no.»{emma} || “Dad, no.”
 «Un barbecue, un piatto di insalata e **all'improvviso**...»{ben} || “A barbecue, a plate of salad and **suddenly**...”
 «Papà!»{emma} || “Dad!”
-«**Mi sono innamorato** **all'improvviso**, ho **confuso** il mio nome con il tuo.»{ben} || “**I fell in love** **suddenly**, I **mixed up** my name with yours.”
+«**Mi sono innamorato** **all'improvviso**, e ho **confuso** il piatto con il bicchiere.»{ben} || “**I fell in love** **suddenly**, and I **mixed up** the plate with the glass.”
 Silenzio in cucina. || Silence in the kitchen.
 Chiara guarda il tavolo e non parla. || Chiara looks at the table and doesn't say anything.
-«Era il 2006, Kevin.»{chiara|soft} || “It was 2006, Kevin.”
-«Lo so. Ti ho chiamato Marco per tre minuti.»{ben} || “I know. I called you Marco for three minutes.”
-«Il mio collega si chiamava Mark.»{ben} || “My colleague's name was Mark.”
+«Era un'estate calda, Kevin.»{chiara|soft} || “It was a hot summer, Kevin.”
+«Lo so. Ti ho versato la limonata sull'insalata.»{ben} || “I know. I poured lemonade on your salad.”
+Chiara sorride e guarda il tavolo. || Chiara smiles and looks at the table.
 «E adesso lo scrivi nei **ricordi**?»{chiara} || “And now do you write it in your **memories**?”
 «Nel **taccuino** sì. Il **taccuino** è pieno di **ricordi** corti.»{ben} || “In the **notebook**, yes. The **notebook** is full of short **memories**.”
 «Il nonno invece **nasconde** tutto.»{emma} || “Grandpa instead **hides** everything.”
@@ -484,7 +484,7 @@ Emma alza gli occhi di colpo. || Emma raises her eyes suddenly.
 «Domande normali.»{leo|innocent} || “Normal questions.”
 «Vai a letto.»{emma} || “Go to bed.”
 «Prima rispondi.»{leo} || “Answer first.”
-«A letto, Leonardo.»{chiara} || “Bed, Leonardo.”
+«A letto, Leo.»{chiara} || “Bed, Leo.”
 Leo esce ridendo e Kevin lo accompagna. || Leo goes out laughing and Kevin walks him out.
 Emma scrive l'ultima riga e chiude il **taccuino**. || Emma writes the last line and closes the **notebook**.
 _Mio nonno ha aspettato cinquant'anni. Mia madre ha aspettato tutta la vita._{emma} || *My grandpa waited fifty years. My mom waited her whole life.*
@@ -498,7 +498,7 @@ Chiara **sorride** e spegne la luce del tavolo. || Chiara **smiles** and turns o
 «Emma, domani me lo leggi tutto.»{chiara} || “Emma, tomorrow you'll read it all to me.”
 «Va bene. Ma il **battito** lo leggi piano.»{emma} || “All right. But read the **heartbeat** part slowly.”
 
-# SCENE bar-tigli | venerdì mattina | kevin, matteo, nadia, franco, emma
+# SCENE bar-tigli | venerdì mattina | ben, matteo, nadia, franco, emma
 Venerdì mattina, Bar Tigli. || Friday morning, Bar Tigli.
 Il cielo è chiaro e la porta è aperta. || The sky is clear and the door is open.
 Franco entra alle sette e mezza, come sempre. || Franco comes in at seven thirty, as always.
@@ -512,7 +512,7 @@ Matteo arriva dalle scale con la camicia storta. || Matteo comes down the stairs
 «Io e tua madre **ci siamo incontrati** su un **tram**.»{franco} || “Your mother and I **met** on a **tram**.”
 Silenzio nel bar. Matteo posa la camicia. || Silence in the bar. Matteo puts down the shirt.
 «Su un tram? Non in farmacia?»{matteo} || “On a tram? Not in a pharmacy?”
-«In farmacia ci siete voi. E nessuno **ha fatto finta** di niente.»{franco} || “In the pharmacy there's you two. And nobody **pretended** anything.”
+«In farmacia ci siete voi due. Voi avete **fatto finta**, noi no.»{franco} || “At the pharmacy there's you two. You **pretended**, we didn't.”
 «Papà, io ero **malato**.»{matteo} || “Dad, I was **sick**.”
 «Con un **camice** bianco?»{franco|dry} || “In a white **coat**?”
 «Era un dettaglio di stile.»{matteo} || “It was a stylish detail.”
@@ -560,7 +560,7 @@ Franco si mette il cappello e va verso la porta. || Franco puts on his hat and g
 «Quale parte?»{emma} || “Which part?”
 «Il matrimonio. E la torta al limone.»{franco} || “The wedding. And the lemon cake.”
 Matteo apre la bocca e la chiude due volte. || Matteo opens his mouth and closes it twice.
-«Il matrimonio? Papà, io non lo sapevo!»{matteo} || “The wedding? Dad, I didn't know that!”
+«Il matrimonio? Papà, di questa non mi hai mai parlato!»{matteo} || “The wedding? Dad, you never told me about this!”
 «Adesso lo sai.»{franco} || “Now you know.”
 Franco esce e la porta si chiude piano. || Franco leaves and the door closes softly.
 Matteo guarda Kevin con le mani in aria. || Matteo looks at Kevin with his hands in the air.
@@ -579,14 +579,14 @@ Lucia posa la foto accanto alla tazzina. || Lucia puts the photo next to the lit
 «Le hai raccontato tutto a Emma?»{lucia} || “Did you tell Emma everything?”
 «Quasi tutto.»{franco} || “Almost everything.”
 «Anche che non sai ballare?»{lucia|dry} || “Even that you can't dance?”
-«Tante. E forse posso **rivelare** una foto.»{franco} || “Many. And maybe I can **reveal** a photo.”
+«Anche quello. E ha riso molto. Forse posso **rivelare** una foto anche a te.»{franco} || “That too. She laughed a lot. Maybe I can **reveal** a photo to you as well.”
 «Franco, quella ragazza ha scritto una cosa bella.»{lucia} || “Franco, that girl wrote something beautiful.”
 «Ha scritto bene. Le date sono giuste.»{franco} || “She wrote well. The dates are right.”
 «Non parlo delle date. Parlo del **ricordo**.»{lucia} || “I'm not talking about the dates. I'm talking about the **memory**.”
 Franco prende la foto e la guarda controluce. || Franco takes the photo and looks at it against the light.
 «Cinquant'anni in un cassetto.»{franco} || “Fifty years in a drawer.”
 «E adesso è fuori dal cassetto. È una cosa buona.»{lucia} || “And now it's out of the drawer. That's a good thing.”
-«Tua nonna ballava come me. Male.»{franco|soft} || “Your... she danced like me. Badly.”
+«Anna ballava come me. Male.»{franco|soft} || “Anna danced like me. Badly.”
 Lucia **sorride** e versa il caffè. || Lucia **smiles** and pours the coffee.
 «Il **ballo** di San Giovanni. Me l'hai raccontato una volta.»{lucia} || “The Saint John's **dance**. You told me about it once.”
 «Una volta sola. E senza dettagli.»{franco} || “Only once. And without details.”

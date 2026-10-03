@@ -180,7 +180,7 @@ Silenzio. Nadia e Matteo si guardano. «Tre mazzi di fiori.»
 
 «Due. Uno era di mia madre.»
 
-«Tuo madre non era alla cena.»
+«Tua madre non era alla cena.»
 
 «Ai fiori però sì.»
 
@@ -322,7 +322,7 @@ Franco si asciuga le mani e si siede. «Va bene. Ma la scrivi bene, senza **conf
 
 «Tutte le mattine?»
 
-«Tutte. E poi c'era **la fila**. Io **facevo la fila** di passeggeri e lei era sempre l'ultima.»
+«Tutte. E poi c'era la fila. Io facevo la fila di passeggeri e lei era sempre l'ultima.»
 
 «Perché l'ultima?»
 
@@ -500,7 +500,7 @@ Franco si siede sulla cassetta accanto a lei. «Una sera **siamo andati** al cin
 
 «Per tutto il film?»
 
-«Per tutto il film. E anche dopo, sul **tram** numero nove.»
+«Per tutto il film. E anche dopo, sul **tram** numero quattro.»
 
 Emma scrive la parola “**battito**” e la sottolinea due volte. «E il **passenger**... scusa, il **passeggero**?»
 
@@ -512,7 +512,7 @@ Franco si alza e va verso la piccola serra. «Aspetta qui. Un minuto.» Torna co
 
 «È la nonna?»
 
-«Diciotto anni. Prima che **ci incontravamo** io e lei.»
+«Diciotto anni. Ancora non **ci conoscevamo**.»
 
 «Nonno, è **bellissima**.»
 
@@ -588,13 +588,13 @@ Kevin arriva dal salotto con una tazza di tè. «Come va?»
 
 «Papà!»
 
-«**Mi sono innamorato** **all'improvviso**, ho **confuso** il mio nome con il tuo.» Silenzio in cucina.
+«**Mi sono innamorato** **all'improvviso**, e ho **confuso** il piatto con il bicchiere.» Silenzio in cucina.
 
-Chiara guarda il tavolo e non parla. «Era il 2006, Kevin.»
+Chiara guarda il tavolo e non parla. «Era un'estate calda, Kevin.»
 
-«Lo so. Ti ho chiamato Marco per tre minuti.» «Il mio collega si chiamava Mark.»
+«Lo so. Ti ho versato la limonata sull'insalata.»
 
-«E adesso lo scrivi nei **ricordi**?»
+Chiara sorride e guarda il tavolo. «E adesso lo scrivi nei **ricordi**?»
 
 «Nel **taccuino** sì. Il **taccuino** è pieno di **ricordi** corti.»
 
@@ -628,7 +628,7 @@ Emma alza gli occhi di colpo. «Che domande fai, Leo?»
 
 «Prima rispondi.»
 
-«A letto, Leonardo.» Leo esce ridendo e Kevin lo accompagna.
+«A letto, Leo.» Leo esce ridendo e Kevin lo accompagna.
 
 Emma scrive l'ultima riga e chiude il **taccuino**. _Mio nonno ha aspettato cinquant'anni. Mia madre ha aspettato tutta la vita._ _La storia adesso è mia, e va bene così._ Kevin torna in cucina e si stropiccia un occhio.
 
@@ -660,7 +660,7 @@ Matteo arriva dalle scale con la camicia storta. «Buongiorno, papà. Anche tu h
 
 Silenzio nel bar. Matteo posa la camicia. «Su un tram? Non in farmacia?»
 
-«In farmacia ci siete voi. E nessuno **ha fatto finta** di niente.»
+«In farmacia ci siete voi due. Voi avete **fatto finta**, noi no.»
 
 «Papà, io ero **malato**.»
 
@@ -734,7 +734,7 @@ Franco si mette il cappello e va verso la porta. «Emma, domenica ti **rivelo** 
 
 «Il matrimonio. E la torta al limone.»
 
-Matteo apre la bocca e la chiude due volte. «Il matrimonio? Papà, io non lo sapevo!»
+Matteo apre la bocca e la chiude due volte. «Il matrimonio? Papà, di questa non mi hai mai parlato!»
 
 «Adesso lo sai.» Franco esce e la porta si chiude piano.
 
@@ -758,7 +758,7 @@ Lucia posa la foto accanto alla tazzina. «Le hai raccontato tutto a Emma?»
 
 «Anche che non sai ballare?»
 
-«Tante. E forse posso **rivelare** una foto.»
+«Anche quello. E ha riso molto. Forse posso **rivelare** una foto anche a te.»
 
 «Franco, quella ragazza ha scritto una cosa bella.»
 
@@ -770,7 +770,7 @@ Franco prende la foto e la guarda controluce. «Cinquant'anni in un cassetto.»
 
 «E adesso è fuori dal cassetto. È una cosa buona.»
 
-«Tua nonna ballava come me. Male.»
+«Anna ballava come me. Male.»
 
 Lucia **sorride** e versa il caffè. «Il **ballo** di San Giovanni. Me l'hai raccontato una volta.»
 

@@ -21,7 +21,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | **incontrare**<br>(v.) · to meet | «Chi ha **incontrato** chi?» | “Who **met** who?” |
 | **sorridere**<br>(v.) · to smile | Franco **sorride** senza guardarla. | Franco **smiles** without looking at her. |
 | **arrossire**<br>(v.) · to blush | «Ha **arrossito**?» | “She **blushed**?” |
-| **rivelare**<br>(v.) · to reveal | «Tante. E forse posso **rivelare** una foto.» | “Many. And maybe I can **reveal** a photo.” |
+| **rivelare**<br>(v.) · to reveal | «Anche quello. E ha riso molto. Forse posso **rivelare** una foto anche a te.» | “That too. She laughed a lot. Maybe I can **reveal** a photo to you as well.” |
 | **domandare**<br>(v.) · to ask | «Posso **domandare** una cosa?» | “Can I **ask** something?” |
 | **annuire**<br>(v.) · to nod | Kevin **annuisce** e scrive un'ultima riga. | Kevin **nods** and writes one last line. |
 | **confondere**<br>(v.) · to mix up, to confuse | «È un po' **confuso** tutto questo.» | “This is all a bit **confused**.” |

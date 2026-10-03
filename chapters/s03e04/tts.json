@@ -3822,7 +3822,7 @@
               },
               {
                 "type": "text",
-                "text": "Tuo madre non era alla cena.",
+                "text": "Tua madre non era alla cena.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9617,7 +9617,7 @@
               },
               {
                 "type": "text",
-                "text": "Per tutto il film. E anche dopo, sul tram numero nove.",
+                "text": "Per tutto il film. E anche dopo, sul tram numero quattro.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9930,7 +9930,7 @@
           "s03e04-4-071:0-2"
         ],
         [
-          "s03e04-4-072:0-8"
+          "s03e04-4-072:0-5"
         ],
         [
           "s03e04-4-073:0-2"
@@ -9958,7 +9958,7 @@
               },
               {
                 "type": "text",
-                "text": "Diciotto anni. Prima che ci incontravamo io e lei.",
+                "text": "Diciotto anni. Ancora non ci conoscevamo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11420,7 +11420,7 @@
               },
               {
                 "type": "text",
-                "text": "Mi sono innamorato all'improvviso, ho confuso il mio nome con il tuo.",
+                "text": "Mi sono innamorato all'improvviso, e ho confuso il piatto con il bicchiere.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11493,7 +11493,7 @@
               },
               {
                 "type": "text",
-                "text": "Era il 2006, Kevin.",
+                "text": "Era un'estate calda, Kevin.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -11531,19 +11531,84 @@
       "scene": 5,
       "speakers": {
         "ben": "ben",
-        "chiara": "chiara"
+        "narrator": "narrator"
       },
       "segment_ids": [
         "s03e04-5-031",
-        "s03e04-5-032",
+        "s03e04-5-032"
+      ],
+      "words": [
+        [
+          "s03e04-5-031:0-7"
+        ],
+        [
+          "s03e04-5-032:0-5"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "Lo so. Ti ho versato la limonata sull'insalata.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "ben",
+                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Chiara sorride e guarda il tavolo.",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "narrator",
+                    "style": "speaking clearly at a calm, unhurried pace, standard Italian pronunciation, smooth and natural"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "ben",
+                "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 137,
+      "scene": 5,
+      "speakers": {
+        "chiara": "chiara",
+        "ben": "ben"
+      },
+      "segment_ids": [
         "s03e04-5-033",
         "s03e04-5-034"
       ],
       "words": [
-        [
-          "s03e04-5-031:0-8",
-          "s03e04-5-032:0-5"
-        ],
         [
           "s03e04-5-033:0-5"
         ],
@@ -11557,17 +11622,6 @@
           {
             "type": "user_input",
             "content": [
-              {
-                "type": "text",
-                "text": "Lo so. Ti ho chiamato Marco per tre minuti. Il mio collega si chiamava Mark.",
-                "annotations": [
-                  {
-                    "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
-                  }
-                ]
-              },
               {
                 "type": "text",
                 "text": "E adesso lo scrivi nei ricordi?",
@@ -11602,12 +11656,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "ben",
-                "voice": "Puck"
-              },
-              {
                 "speaker": "chiara",
                 "voice": "Callirrhoe"
+              },
+              {
+                "speaker": "ben",
+                "voice": "Puck"
               }
             ]
           }
@@ -11615,7 +11669,7 @@
       }
     },
     {
-      "index": 137,
+      "index": 138,
       "scene": 5,
       "speakers": {
         "emma": "emma",
@@ -11746,7 +11800,7 @@
       }
     },
     {
-      "index": 138,
+      "index": 139,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -11817,7 +11871,7 @@
       }
     },
     {
-      "index": 139,
+      "index": 140,
       "scene": 5,
       "speakers": {
         "emma": "emma",
@@ -11918,7 +11972,7 @@
       }
     },
     {
-      "index": 140,
+      "index": 141,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -11989,7 +12043,7 @@
       }
     },
     {
-      "index": 141,
+      "index": 142,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -12075,7 +12129,7 @@
       }
     },
     {
-      "index": 142,
+      "index": 143,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -12103,7 +12157,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "A letto, Leonardo.",
+                "text": "A letto, Leo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12148,7 +12202,7 @@
       }
     },
     {
-      "index": 143,
+      "index": 144,
       "scene": 5,
       "speakers": {
         "emma": "emma",
@@ -12221,7 +12275,7 @@
       }
     },
     {
-      "index": 144,
+      "index": 145,
       "scene": 5,
       "speakers": {
         "chiara": "chiara",
@@ -12292,7 +12346,7 @@
       }
     },
     {
-      "index": 145,
+      "index": 146,
       "scene": 5,
       "speakers": {
         "leo": "leo",
@@ -12363,7 +12417,7 @@
       }
     },
     {
-      "index": 146,
+      "index": 147,
       "scene": 5,
       "speakers": {
         "narrator": "narrator",
@@ -12434,7 +12488,7 @@
       }
     },
     {
-      "index": 147,
+      "index": 148,
       "scene": 5,
       "speakers": {
         "single": "emma"
@@ -12480,7 +12534,7 @@
       }
     },
     {
-      "index": 148,
+      "index": 149,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12555,7 +12609,7 @@
       }
     },
     {
-      "index": 149,
+      "index": 150,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -12626,7 +12680,7 @@
       }
     },
     {
-      "index": 150,
+      "index": 151,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -12697,7 +12751,7 @@
       }
     },
     {
-      "index": 151,
+      "index": 152,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -12768,7 +12822,7 @@
       }
     },
     {
-      "index": 152,
+      "index": 153,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -12839,7 +12893,7 @@
       }
     },
     {
-      "index": 153,
+      "index": 154,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -12888,7 +12942,7 @@
               },
               {
                 "type": "text",
-                "text": "In farmacia ci siete voi. E nessuno ha fatto finta di niente.",
+                "text": "In farmacia ci siete voi due. Voi avete fatto finta, noi no.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12955,7 +13009,7 @@
       }
     },
     {
-      "index": 154,
+      "index": 155,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13026,7 +13080,7 @@
       }
     },
     {
-      "index": 155,
+      "index": 156,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -13097,7 +13151,7 @@
       }
     },
     {
-      "index": 156,
+      "index": 157,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -13168,7 +13222,7 @@
       }
     },
     {
-      "index": 157,
+      "index": 158,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -13239,7 +13293,7 @@
       }
     },
     {
-      "index": 158,
+      "index": 159,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -13355,7 +13409,7 @@
       }
     },
     {
-      "index": 159,
+      "index": 160,
       "scene": 6,
       "speakers": {
         "nadia": "nadia",
@@ -13426,7 +13480,7 @@
       }
     },
     {
-      "index": 160,
+      "index": 161,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -13497,7 +13551,7 @@
       }
     },
     {
-      "index": 161,
+      "index": 162,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13568,7 +13622,7 @@
       }
     },
     {
-      "index": 162,
+      "index": 163,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -13669,7 +13723,7 @@
       }
     },
     {
-      "index": 163,
+      "index": 164,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -13740,7 +13794,7 @@
       }
     },
     {
-      "index": 164,
+      "index": 165,
       "scene": 6,
       "speakers": {
         "ben": "ben",
@@ -13811,7 +13865,7 @@
       }
     },
     {
-      "index": 165,
+      "index": 166,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -13884,7 +13938,7 @@
       }
     },
     {
-      "index": 166,
+      "index": 167,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -13985,7 +14039,7 @@
       }
     },
     {
-      "index": 167,
+      "index": 168,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -14056,7 +14110,7 @@
       }
     },
     {
-      "index": 168,
+      "index": 169,
       "scene": 6,
       "speakers": {
         "nadia": "nadia",
@@ -14142,7 +14196,7 @@
       }
     },
     {
-      "index": 169,
+      "index": 170,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -14213,7 +14267,7 @@
       }
     },
     {
-      "index": 170,
+      "index": 171,
       "scene": 6,
       "speakers": {
         "emma": "emma",
@@ -14284,7 +14338,7 @@
       }
     },
     {
-      "index": 171,
+      "index": 172,
       "scene": 6,
       "speakers": {
         "narrator": "narrator",
@@ -14299,7 +14353,7 @@
           "s03e04-6-061:0-8"
         ],
         [
-          "s03e04-6-062:0-6"
+          "s03e04-6-062:0-9"
         ]
       ],
       "request": {
@@ -14321,7 +14375,7 @@
               },
               {
                 "type": "text",
-                "text": "Il matrimonio? Papà, io non lo sapevo!",
+                "text": "Il matrimonio? Papà, di questa non mi hai mai parlato!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14355,7 +14409,7 @@
       }
     },
     {
-      "index": 172,
+      "index": 173,
       "scene": 6,
       "speakers": {
         "franco": "franco",
@@ -14428,7 +14482,7 @@
       }
     },
     {
-      "index": 173,
+      "index": 174,
       "scene": 6,
       "speakers": {
         "matteo": "matteo",
@@ -14529,7 +14583,7 @@
       }
     },
     {
-      "index": 174,
+      "index": 175,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -14604,7 +14658,7 @@
       }
     },
     {
-      "index": 175,
+      "index": 176,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -14675,7 +14729,7 @@
       }
     },
     {
-      "index": 176,
+      "index": 177,
       "scene": 7,
       "speakers": {
         "lucia": "lucia",
@@ -14701,7 +14755,7 @@
           "s03e04-7-009:0-4"
         ],
         [
-          "s03e04-7-010:0-6"
+          "s03e04-7-010:0-13"
         ],
         [
           "s03e04-7-011:0-7"
@@ -14754,7 +14808,7 @@
               },
               {
                 "type": "text",
-                "text": "Tante. E forse posso rivelare una foto.",
+                "text": "Anche quello. E ha riso molto. Forse posso rivelare una foto anche a te.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14821,7 +14875,7 @@
       }
     },
     {
-      "index": 177,
+      "index": 178,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -14892,7 +14946,7 @@
       }
     },
     {
-      "index": 178,
+      "index": 179,
       "scene": 7,
       "speakers": {
         "lucia": "lucia",
@@ -14907,7 +14961,7 @@
           "s03e04-7-016:0-9"
         ],
         [
-          "s03e04-7-017:0-5"
+          "s03e04-7-017:0-4"
         ]
       ],
       "request": {
@@ -14929,7 +14983,7 @@
               },
               {
                 "type": "text",
-                "text": "Tua nonna ballava come me. Male.",
+                "text": "Anna ballava come me. Male.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -14963,7 +15017,7 @@
       }
     },
     {
-      "index": 179,
+      "index": 180,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -15034,7 +15088,7 @@
       }
     },
     {
-      "index": 180,
+      "index": 181,
       "scene": 7,
       "speakers": {
         "franco": "franco",
@@ -15105,7 +15159,7 @@
       }
     },
     {
-      "index": 181,
+      "index": 182,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
@@ -15180,7 +15234,7 @@
       }
     },
     {
-      "index": 182,
+      "index": 183,
       "scene": 7,
       "speakers": {
         "lucia": "lucia",
@@ -15296,7 +15350,7 @@
       }
     },
     {
-      "index": 183,
+      "index": 184,
       "scene": 7,
       "speakers": {
         "narrator": "narrator",

@@ -12274,12 +12274,12 @@
           "segments": [
             {
               "id": "s03e04-2-071",
-              "it": "«Tuo madre non era alla cena.»",
+              "it": "«Tua madre non era alla cena.»",
               "en": "“Your mother wasn't at dinner.”",
               "voice": [
                 [
                   "nadia",
-                  "Tuo madre non era alla cena.",
+                  "Tua madre non era alla cena.",
                   ""
                 ]
               ],
@@ -12290,7 +12290,7 @@
                   ""
                 ],
                 [
-                  "Tuo",
+                  "Tua",
                   0,
                   ""
                 ],
@@ -20193,12 +20193,12 @@
           "segments": [
             {
               "id": "s03e04-3-034",
-              "it": "«Tutte. E poi c'era **la fila**. Io **facevo la fila** di passeggeri e lei era sempre l'ultima.»",
-              "en": "“Every single one. And then there was the line. I **stood in line** with the passengers and she was always last.”",
+              "it": "«Tutte. E poi c'era la fila. Io facevo la fila di passeggeri e lei era sempre l'ultima.»",
+              "en": "“Every single one. And then there was the line. I stood in line with the passengers and she was always last.”",
               "voice": [
                 [
                   "franco",
-                  "Tutte. E poi c'era **la fila**. Io **facevo la fila** di passeggeri e lei era sempre l'ultima.",
+                  "Tutte. E poi c'era la fila. Io facevo la fila di passeggeri e lei era sempre l'ultima.",
                   ""
                 ]
               ],
@@ -20251,17 +20251,17 @@
                 [
                   "la",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "fila",
                   5,
-                  "b"
+                  ""
                 ],
                 [
                   ". ",
@@ -20281,27 +20281,27 @@
                 [
                   "facevo",
                   7,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "la",
                   8,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "fila",
                   9,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -20378,9 +20378,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-imp-vs-pp"
               ]
             }
           ]
@@ -30902,12 +30899,12 @@
           "segments": [
             {
               "id": "s03e04-4-059",
-              "it": "«Per tutto il film. E anche dopo, sul **tram** numero nove.»",
-              "en": "“For the whole film. And even after, on **tram** number nine.”",
+              "it": "«Per tutto il film. E anche dopo, sul **tram** numero quattro.»",
+              "en": "“For the whole film. And even after, on **tram** number four.”",
               "voice": [
                 [
                   "franco",
-                  "Per tutto il film. E anche dopo, sul **tram** numero nove.",
+                  "Per tutto il film. E anche dopo, sul **tram** numero quattro.",
                   ""
                 ]
               ],
@@ -31018,7 +31015,7 @@
                   ""
                 ],
                 [
-                  "nove",
+                  "quattro",
                   10,
                   ""
                 ],
@@ -32079,12 +32076,12 @@
           "segments": [
             {
               "id": "s03e04-4-072",
-              "it": "«Diciotto anni. Prima che **ci incontravamo** io e lei.»",
-              "en": "“Eighteen years old. Before she and I **met**.”",
+              "it": "«Diciotto anni. Ancora non **ci conoscevamo**.»",
+              "en": "“Eighteen years old. We hadn't **met** yet.”",
               "voice": [
                 [
                   "franco",
-                  "Diciotto anni. Prima che **ci incontravamo** io e lei.",
+                  "Diciotto anni. Ancora non **ci conoscevamo**.",
                   ""
                 ]
               ],
@@ -32115,7 +32112,7 @@
                   ""
                 ],
                 [
-                  "Prima",
+                  "Ancora",
                   2,
                   ""
                 ],
@@ -32125,7 +32122,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "non",
                   3,
                   ""
                 ],
@@ -32145,39 +32142,9 @@
                   "b"
                 ],
                 [
-                  "incontravamo",
+                  "conoscevamo",
                   5,
                   "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "io",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "e",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "lei",
-                  8,
-                  ""
                 ],
                 [
                   ".»",
@@ -36953,12 +36920,12 @@
           "segments": [
             {
               "id": "s03e04-5-027",
-              "it": "«**Mi sono innamorato** **all'improvviso**, ho **confuso** il mio nome con il tuo.»",
-              "en": "“**I fell in love** **suddenly**, I **mixed up** my name with yours.”",
+              "it": "«**Mi sono innamorato** **all'improvviso**, e ho **confuso** il piatto con il bicchiere.»",
+              "en": "“**I fell in love** **suddenly**, and I **mixed up** the plate with the glass.”",
               "voice": [
                 [
                   "ben",
-                  "**Mi sono innamorato** **all'improvviso**, ho **confuso** il mio nome con il tuo.",
+                  "**Mi sono innamorato** **all'improvviso**, e ho **confuso** il piatto con il bicchiere.",
                   ""
                 ]
               ],
@@ -37009,7 +36976,7 @@
                   ""
                 ],
                 [
-                  "ho",
+                  "e",
                   4,
                   ""
                 ],
@@ -37019,8 +36986,18 @@
                   ""
                 ],
                 [
-                  "confuso",
+                  "ho",
                   5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "confuso",
+                  6,
                   "b"
                 ],
                 [
@@ -37030,16 +37007,6 @@
                 ],
                 [
                   "il",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
                   7,
                   ""
                 ],
@@ -37049,7 +37016,7 @@
                   ""
                 ],
                 [
-                  "nome",
+                  "piatto",
                   8,
                   ""
                 ],
@@ -37079,7 +37046,7 @@
                   ""
                 ],
                 [
-                  "tuo",
+                  "bicchiere",
                   11,
                   ""
                 ],
@@ -37229,12 +37196,12 @@
             },
             {
               "id": "s03e04-5-030",
-              "it": "«Era il 2006, Kevin.»",
-              "en": "“It was 2006, Kevin.”",
+              "it": "«Era un'estate calda, Kevin.»",
+              "en": "“It was a hot summer, Kevin.”",
               "voice": [
                 [
                   "chiara",
-                  "Era il 2006, Kevin.",
+                  "Era un'estate calda, Kevin.",
                   "soft"
                 ]
               ],
@@ -37255,7 +37222,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "un'estate",
                   1,
                   ""
                 ],
@@ -37265,7 +37232,7 @@
                   ""
                 ],
                 [
-                  "2006",
+                  "calda",
                   2,
                   ""
                 ],
@@ -37292,12 +37259,12 @@
           "segments": [
             {
               "id": "s03e04-5-031",
-              "it": "«Lo so. Ti ho chiamato Marco per tre minuti.»",
-              "en": "“I know. I called you Marco for three minutes.”",
+              "it": "«Lo so. Ti ho versato la limonata sull'insalata.»",
+              "en": "“I know. I poured lemonade on your salad.”",
               "voice": [
                 [
                   "ben",
-                  "Lo so. Ti ho chiamato Marco per tre minuti.",
+                  "Lo so. Ti ho versato la limonata sull'insalata.",
                   ""
                 ]
               ],
@@ -37348,7 +37315,7 @@
                   ""
                 ],
                 [
-                  "chiamato",
+                  "versato",
                   4,
                   ""
                 ],
@@ -37358,7 +37325,7 @@
                   ""
                 ],
                 [
-                  "Marco",
+                  "la",
                   5,
                   ""
                 ],
@@ -37368,7 +37335,7 @@
                   ""
                 ],
                 [
-                  "per",
+                  "limonata",
                   6,
                   ""
                 ],
@@ -37378,97 +37345,8 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "sull'insalata",
                   7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "minuti",
-                  8,
-                  ""
-                ],
-                [
-                  ".»",
-                  -1,
-                  ""
-                ]
-              ]
-            },
-            {
-              "id": "s03e04-5-032",
-              "it": "«Il mio collega si chiamava Mark.»",
-              "en": "“My colleague's name was Mark.”",
-              "voice": [
-                [
-                  "ben",
-                  "Il mio collega si chiamava Mark.",
-                  ""
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "Il",
-                  0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mio",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "collega",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "si",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "chiamava",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Mark",
-                  5,
                   ""
                 ],
                 [
@@ -37482,6 +37360,80 @@
         },
         {
           "segments": [
+            {
+              "id": "s03e04-5-032",
+              "it": "Chiara sorride e guarda il tavolo.",
+              "en": "Chiara smiles and looks at the table.",
+              "voice": [
+                [
+                  "narrator",
+                  "Chiara sorride e guarda il tavolo.",
+                  ""
+                ]
+              ],
+              "tokens": [
+                [
+                  "Chiara",
+                  0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sorride",
+                  1,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "guarda",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "il",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "tavolo",
+                  5,
+                  ""
+                ],
+                [
+                  ".",
+                  -1,
+                  ""
+                ]
+              ]
+            },
             {
               "id": "s03e04-5-033",
               "it": "«E adesso lo scrivi nei **ricordi**?»",
@@ -38896,12 +38848,12 @@
           "segments": [
             {
               "id": "s03e04-5-052",
-              "it": "«A letto, Leonardo.»",
-              "en": "“Bed, Leonardo.”",
+              "it": "«A letto, Leo.»",
+              "en": "“Bed, Leo.”",
               "voice": [
                 [
                   "chiara",
-                  "A letto, Leonardo.",
+                  "A letto, Leo.",
                   ""
                 ]
               ],
@@ -38932,7 +38884,7 @@
                   ""
                 ],
                 [
-                  "Leonardo",
+                  "Leo",
                   2,
                   ""
                 ],
@@ -41060,12 +41012,12 @@
           "segments": [
             {
               "id": "s03e04-6-014",
-              "it": "«In farmacia ci siete voi. E nessuno **ha fatto finta** di niente.»",
-              "en": "“In the pharmacy there's you two. And nobody **pretended** anything.”",
+              "it": "«In farmacia ci siete voi due. Voi avete **fatto finta**, noi no.»",
+              "en": "“At the pharmacy there's you two. You **pretended**, we didn't.”",
               "voice": [
                 [
                   "franco",
-                  "In farmacia ci siete voi. E nessuno **ha fatto finta** di niente.",
+                  "In farmacia ci siete voi due. Voi avete **fatto finta**, noi no.",
                   ""
                 ]
               ],
@@ -41121,22 +41073,22 @@
                   ""
                 ],
                 [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "E",
-                  5,
-                  ""
-                ],
-                [
                   " ",
                   -1,
                   ""
                 ],
                 [
-                  "nessuno",
+                  "due",
+                  5,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Voi",
                   6,
                   ""
                 ],
@@ -41146,14 +41098,14 @@
                   ""
                 ],
                 [
-                  "ha",
+                  "avete",
                   7,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
                   -1,
-                  "b"
+                  ""
                 ],
                 [
                   "fatto",
@@ -41171,12 +41123,12 @@
                   "b"
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "di",
+                  "noi",
                   10,
                   ""
                 ],
@@ -41186,7 +41138,7 @@
                   ""
                 ],
                 [
-                  "niente",
+                  "no",
                   11,
                   ""
                 ],
@@ -41197,7 +41149,7 @@
                 ]
               ],
               "focus": [
-                "g-imp-vs-pp"
+                "v-fare-finta"
               ]
             }
           ]
@@ -45451,12 +45403,12 @@
             },
             {
               "id": "s03e04-6-062",
-              "it": "«Il matrimonio? Papà, io non lo sapevo!»",
-              "en": "“The wedding? Dad, I didn't know that!”",
+              "it": "«Il matrimonio? Papà, di questa non mi hai mai parlato!»",
+              "en": "“The wedding? Dad, you never told me about this!”",
               "voice": [
                 [
                   "matteo",
-                  "Il matrimonio? Papà, io non lo sapevo!",
+                  "Il matrimonio? Papà, di questa non mi hai mai parlato!",
                   ""
                 ]
               ],
@@ -45497,7 +45449,7 @@
                   ""
                 ],
                 [
-                  "io",
+                  "di",
                   3,
                   ""
                 ],
@@ -45507,7 +45459,7 @@
                   ""
                 ],
                 [
-                  "non",
+                  "questa",
                   4,
                   ""
                 ],
@@ -45517,7 +45469,7 @@
                   ""
                 ],
                 [
-                  "lo",
+                  "non",
                   5,
                   ""
                 ],
@@ -45527,8 +45479,38 @@
                   ""
                 ],
                 [
-                  "sapevo",
+                  "mi",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "hai",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mai",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "parlato",
+                  9,
                   ""
                 ],
                 [
@@ -46895,12 +46877,12 @@
           "segments": [
             {
               "id": "s03e04-7-010",
-              "it": "«Tante. E forse posso **rivelare** una foto.»",
-              "en": "“Many. And maybe I can **reveal** a photo.”",
+              "it": "«Anche quello. E ha riso molto. Forse posso **rivelare** una foto anche a te.»",
+              "en": "“That too. She laughed a lot. Maybe I can **reveal** a photo to you as well.”",
               "voice": [
                 [
                   "franco",
-                  "Tante. E forse posso **rivelare** una foto.",
+                  "Anche quello. E ha riso molto. Forse posso **rivelare** una foto anche a te.",
                   ""
                 ]
               ],
@@ -46911,8 +46893,18 @@
                   ""
                 ],
                 [
-                  "Tante",
+                  "Anche",
                   0,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "quello",
+                  1,
                   ""
                 ],
                 [
@@ -46922,16 +46914,6 @@
                 ],
                 [
                   "E",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "forse",
                   2,
                   ""
                 ],
@@ -46941,7 +46923,7 @@
                   ""
                 ],
                 [
-                  "posso",
+                  "ha",
                   3,
                   ""
                 ],
@@ -46951,8 +46933,48 @@
                   ""
                 ],
                 [
-                  "rivelare",
+                  "riso",
                   4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "molto",
+                  5,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Forse",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "posso",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "rivelare",
+                  8,
                   "b"
                 ],
                 [
@@ -46962,7 +46984,7 @@
                 ],
                 [
                   "una",
-                  5,
+                  9,
                   ""
                 ],
                 [
@@ -46972,7 +46994,37 @@
                 ],
                 [
                   "foto",
-                  6,
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "anche",
+                  11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
+                  12,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "te",
+                  13,
                   ""
                 ],
                 [
@@ -47563,12 +47615,12 @@
           "segments": [
             {
               "id": "s03e04-7-017",
-              "it": "«Tua nonna ballava come me. Male.»",
-              "en": "“Your... she danced like me. Badly.”",
+              "it": "«Anna ballava come me. Male.»",
+              "en": "“Anna danced like me. Badly.”",
               "voice": [
                 [
                   "franco",
-                  "Tua nonna ballava come me. Male.",
+                  "Anna ballava come me. Male.",
                   "soft"
                 ]
               ],
@@ -47579,7 +47631,7 @@
                   ""
                 ],
                 [
-                  "Tua",
+                  "Anna",
                   0,
                   ""
                 ],
@@ -47589,7 +47641,7 @@
                   ""
                 ],
                 [
-                  "nonna",
+                  "ballava",
                   1,
                   ""
                 ],
@@ -47599,7 +47651,7 @@
                   ""
                 ],
                 [
-                  "ballava",
+                  "come",
                   2,
                   ""
                 ],
@@ -47609,18 +47661,8 @@
                   ""
                 ],
                 [
-                  "come",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "me",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -47630,7 +47672,7 @@
                 ],
                 [
                   "Male",
-                  5,
+                  4,
                   ""
                 ],
                 [
