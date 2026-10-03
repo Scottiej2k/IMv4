@@ -512,6 +512,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco still won't name the testimone but hints it may be "un americano" (Kevin), promising to say it before 21 giugno.
 - **Planted:** The testimone announcement (due by 20 giugno); Kevin's course/brunch needs Matteo's agreement.
 
+### s04e06 · Avrei dovuto dirtelo
+- **Happened:** Chiara leaves Monday 6:45 for her Rome project and returns Thursday night; Kevin alone runs Bar Tigli and the eight daily breakfast deliveries. Thursday night they argue about Rome and reconcile; a family dinner together is fixed for Friday, 7:30.
+- **New facts:** Rome project deadline June 15, site reopens Monday, Chiara away Mon–Thu weekly. Kevin keeps a yellow notebook (page 68). Nadia: municipal inspector plus technician at the bar Thursday 9:00 for licenses; Matteo offers Kevin a partnership as “secondo socio,” answer promised Monday. Franco dances at the Centro civico Tuesday, Thursday and Sunday, where he met Lucia.
+- **Changed:** Ornella is now tu and first-name with Kevin. Franco admits to Gennaro that he dated Lucia for two years; gives him Lucia’s unsent letter, written two months earlier, to read alone. Gennaro’s mother (Lucia) is said to live in London eight years; he visited only Christmas and Easter; promises June and July visits. Ornella and Gino never emigrated: a 1968 Chicago suitcase sat empty in the attic forty years.
+- **Planted:** Kevin’s answer on the bar partnership is still open. The family Rome trip for June is promised. Lucia’s letter to Gennaro is unread.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
