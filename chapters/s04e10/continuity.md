@@ -1,0 +1,5 @@
+### s04e10 · Me lo faccio fare
+- **Happened:** Kevin commissions a logo; Emma draws it free (paid with dinner), Leo adds a tiny tram, and the finished logo hangs above Bar Tigli's coffee machine. Franco orders his wedding suit from his old sarto and gets his first haircut in four years. Lucia hides her wedding cake from everyone.
+- **New facts:** Signor Aldo runs Sartoria Aldo (dal 1961), vicolo behind the church; he still keeps Franco's 1975 measurements. Franco is 72; the wedding is 21 June, about 30 guests. Salone Maria (Uomo e Donna) is in piazza. Lucia's dress comes from a sarta in Monza; she bakes the cake herself, her mother's recipe, and sews the hem by hand. Three white-rose bouquets from the piazza fiorista; one small one is for Lucia's mother's grave in Naples. Kevin works at Bar Tigli from 6:30.
+- **Changed:** Franco accepts the salon and compliments on his hair/beard; Ornella witnessed it. Chiara now sees Lucia's private wedding preparations.
+- **Planted:** The cake, hidden under a cloth, to be revealed "sabato" (next episode). Kevin's su misura window adhesive for the bar.

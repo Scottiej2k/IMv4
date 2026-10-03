@@ -536,6 +536,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Kevin agrees to give Matteo a real yes/no on the Bar Tigli partnership Friday; Kevin has been opening the bar mornings and doing eight deliveries a day; he and Emma have a truce; Kevin will cook Franco's zucchini.
 - **Planted:** Kevin's Friday answer to Matteo on the Bar Tigli partnership; Kevin cooking Franco's zucchini without burning them; a family dinner for the four Carters on Friday evening.
 
+### s04e10 · Me lo faccio fare
+- **Happened:** Kevin commissions a logo; Emma draws it free (paid with dinner), Leo adds a tiny tram, and the finished logo hangs above Bar Tigli's coffee machine. Franco orders his wedding suit from his old sarto and gets his first haircut in four years. Lucia hides her wedding cake from everyone.
+- **New facts:** Signor Aldo runs Sartoria Aldo (dal 1961), vicolo behind the church; he still keeps Franco's 1975 measurements. Franco is 72; the wedding is 21 June, about 30 guests. Salone Maria (Uomo e Donna) is in piazza. Lucia's dress comes from a sarta in Monza; she bakes the cake herself, her mother's recipe, and sews the hem by hand. Three white-rose bouquets from the piazza fiorista; one small one is for Lucia's mother's grave in Naples. Kevin works at Bar Tigli from 6:30.
+- **Changed:** Franco accepts the salon and compliments on his hair/beard; Ornella witnessed it. Chiara now sees Lucia's private wedding preparations.
+- **Planted:** The cake, hidden under a cloth, to be revealed "sabato" (next episode). Kevin's su misura window adhesive for the bar.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

@@ -1,0 +1,939 @@
+@vocab
+il sarto | noun | m | tailor | sarto, sarti
+la sartoria | noun | f | tailor's shop | sartoria, sartorie
+il fiorista | noun | m | florist | fiorista, fioristi
+il parrucchiere | noun | m | hairdresser, barber | parrucchiere, parrucchieri
+la prova | noun | f | fitting; try | prova, prove
+l'orlo | noun | m | hem | orlo, orli
+su misura | expression | | made to measure, custom-made | su misura
+far vedere | expression | | to show | far vedere, faccio vedere, fa vedere, facciamo vedere
+far sapere | expression | | to let know | far sapere, faccio sapere, fa sapere, facciamo sapere
+farsi fare | expression | | to have something made for oneself | farsi fare, mi faccio fare, si fa fare, ti fai fare, ci facciamo fare
+farsi tagliare | expression | | to have one's hair cut | farsi tagliare, mi faccio tagliare, si fa tagliare
+la stoffa | noun | f | fabric, cloth | stoffa, stoffe
+il taglio | noun | m | cut, haircut | taglio, tagli
+il mazzo | noun | m | bunch, bouquet | mazzo, mazzi
+il filo | noun | m | thread | filo, fili
+l'ago | noun | m | needle | ago, aghi
+cucire | verb | | to sew | cucire, cuce, cucio
+il logo | noun | m | logo | logo, loghi
+l'abito | noun | m | suit; gown | abito, abiti
+la bottega | noun | f | little shop, workshop | bottega, botteghe
+il completo | noun | m | suit, outfit | completo, completi
+il colletto | noun | m | collar | colletto, colletti
+il centimetro | noun | m | tape measure | centimetro, centimetri
+la barba | noun | f | beard | barba, barbe
+il salone | noun | m | salon, parlor | salone, saloni
+la rosa | noun | f | rose | rosa, rose
+la crema | noun | f | cream, filling | crema, creme
+il bozzetto | noun | m | sketch, rough design | bozzetto, bozzetti
+indossare | verb | | to wear, try on | indossare, indossa, indosso
+coprire | verb | | to cover | coprire, copre, copro
+la tinta | noun | f | dye, color rinse | tinta, tinte
+la panna | noun | f | cream (dairy) | panna
+la seta | noun | f | silk | seta, sete
+@end
+
+# SCENE bar-tigli | martedì mattina | kevin, matteo, nadia
+È martedì mattina al Bar Tigli, e fuori piove piano. || It's Tuesday morning at Bar Tigli, and outside it's raining softly.
+Kevin apre alle sei e mezza, come sempre, e accende tutte le luci. || Kevin opens at six thirty, as always, and turns on all the lights.
+Sul bancone c'è un vassoio di cornetti ancora caldi. || On the counter there's a tray of still-warm croissants.
+
+«Buongiorno, Borgoverde!»{ben} dice Kevin alla strada vuota. || “Good morning, Borgoverde!” Kevin says to the empty street.
+_Oggi è il giorno giusto. Oggi lo dico a tutti._{ben} || *Today is the right day. Today I tell everyone.*
+
+Matteo arriva alle sette con il giornale sotto il braccio. || Matteo arrives at seven with the newspaper under his arm.
+**Indossa** il grembiule blu del bar e si mette dietro il bancone. || He **wears** the bar's blue apron and takes his place behind the counter.
+«Sei molto allegro stamattina»{matteo} dice Matteo, sospettoso. || “You're very cheerful this morning,” Matteo says, suspicious.
+«Ho un'idea»{ben} risponde Kevin. «Un'idea grande.»{ben} || “I have an idea,” Kevin answers. “A big idea.”
+
+Nadia entra con la giacca bagnata e si siede al tavolo vicino alla finestra. || Nadia comes in with a wet jacket and sits at the table by the window.
+«Che idea?»{nadia} chiede Nadia, senza guardarlo. «Ho cinque minuti.»{nadia} || “What idea?” Nadia asks, without looking at him. “I have five minutes.”
+
+Kevin prende il quaderno giallo e lo apre sulla pagina settantuno. || Kevin takes the yellow notebook and opens it to page seventy-one.
+«**Mi faccio fare** un **logo**!»{ben} annuncia. «Per Buongiorno, Borgoverde.»{ben} || “**I'm having a logo made**!” he announces. “For Buongiorno, Borgoverde.”
+_Un **logo** vero, professionale, come in America._{ben} || *A real **logo**, professional, like in America.*
+
+Matteo smette di asciugare i bicchieri e lo guarda. || Matteo stops drying the glasses and looks at him.
+«Un **logo**»{matteo} ripete. «Hai otto clienti e vuoi un **logo**.»{matteo} || “A **logo**,” he repeats. “You have eight customers and you want a **logo**.”
+«Otto clienti oggi, trenta a giugno»{ben} dice Kevin. || “Eight customers today, thirty in June,” Kevin says.
+
+Nadia alza gli occhi dal giornale. || Nadia looks up from the newspaper.
+«E chi te lo fa?»{nadia} chiede. || “And who's making it for you?” she asks.
+«Una **bottega** qui in piazza»{ben} dice Kevin. «Ci sono passato ieri.»{ben} || “A little **shop** here in the piazza,” Kevin says. “I stopped by yesterday.”
+«Quale **bottega**?»{nadia} chiede Nadia. «In piazza c'è la merceria, il forno e il fioraio.»{nadia} || “Which **shop**?” Nadia asks. “In the piazza there's the haberdasher, the bakery and the florist.”
+«Quella con la vetrina piccola, vicino al forno»{ben} dice Kevin. || “The one with the small window, next to the bakery,” Kevin says.
+«Ah»{nadia} dice Nadia. «La tipografia.»{nadia} || “Ah,” Nadia says. “The print shop.”
+«Sì, la tipografia»{ben} dice Kevin, contento. «**Faccio fare** tutto lì.»{ben} || “Yes, the print shop,” Kevin says, pleased. “I'm **having** everything **done** there.”
+
+Matteo appoggia il bicchiere e ride piano. || Matteo sets down the glass and laughs quietly.
+«Kevin, il tuo **completo** è il grembiule di questo bar»{matteo} dice. || “Kevin, your **suit** is this bar's apron,” he says.
+«Il mio che?»{ben} chiede Kevin. || “My what?” Kevin asks.
+«Il **completo**»{matteo} ripete Matteo. «Giacca e pantaloni. L'abito.»{matteo} || “The **suit**,” Matteo repeats. “Jacket and pants. The outfit.”
+«Ah, il suit»{ben} dice Kevin. «No, io **indosso** sempre jeans.»{ben} || “Ah, the suit,” Kevin says. “No, I always **wear** jeans.”
+«**Indossi** jeans e vuoi un **logo**»{matteo} dice Matteo. || “You **wear** jeans and you want a **logo**,” Matteo says.
+
+Nadia chiude il giornale e guarda Kevin con calma. || Nadia closes the newspaper and looks at Kevin calmly.
+«Quanto costa?»{nadia} chiede. || “How much does it cost?” she asks.
+Kevin apre la bocca e poi la chiude. || Kevin opens his mouth and then closes it.
+_Quanto costa? Non lo so. Non ho chiesto._{ben} || *How much does it cost? I don't know. I didn't ask.*
+«Poco»{ben} dice. «Credo poco.»{ben} || “A little,” he says. “I think a little.”
+«Poco quanto?»{nadia} insiste Nadia. || “A little how much?” Nadia insists.
+«Dipende»{ben} dice Kevin. || “It depends,” Kevin says.
+«Dipende da cosa?»{nadia} chiede Nadia. || “Depends on what?” Nadia asks.
+«Dal **bozzetto**»{ben} dice Kevin. «Prima si fa il **bozzetto**, poi il logo.»{ben} || “On the **sketch**,” Kevin says. “First you do the **sketch**, then the logo.”
+
+Nadia e Matteo si guardano. || Nadia and Matteo look at each other.
+«E il **bozzetto** lo sai leggere?»{matteo} chiede Matteo. || “And can you read the **sketch**?” Matteo asks.
+«Certo che lo so leggere»{ben} dice Kevin, offeso. || “Of course I can read it,” Kevin says, offended.
+_Forse. Un po'. Vediamo._{ben} || *Maybe. A little. We'll see.*
+
+«E chi lo disegna?»{nadia} chiede ancora Nadia. || “And who draws it?” Nadia asks again.
+«La **bottega**»{ben} dice Kevin. «Loro **fanno vedere** e io scelgo.»{ben} || “The **shop**,” Kevin says. “They **show** me and I choose.”
+«E quando è pronto?»{nadia} chiede Nadia. || “And when is it ready?” Nadia asks.
+«Presto»{ben} dice Kevin. «Prestissimo.»{ben} || “Soon,” Kevin says. “Very soon.”
+
+Nadia sospira e si alza. || Nadia sighs and stands up.
+«Tu non sai niente»{nadia} dice. «Ti **faccio sapere** io quando sai qualcosa.»{nadia} || “You don't know anything,” she says. “I'll **let** you **know** when you know something.”
+«Ti **faccio sapere** domani»{ben} dice Kevin. «Dopo l'appuntamento.»{ben} || “I'll **let** you **know** tomorrow,” Kevin says. “After the appointment.”
+
+Matteo **copre** il bancone con un panno e scuote la testa. || Matteo **covers** the counter with a cloth and shakes his head.
+«C'è un'altra cosa»{ben} dice Kevin, e sorride. || “There's another thing,” Kevin says, and smiles.
+«Sentiamo»{matteo} dice Matteo. || “Let's hear it,” Matteo says.
+«Emma mi disegna il **logo**»{ben} dice Kevin. «Gratis.»{ben} || “Emma is drawing the **logo** for me,” Kevin says. “For free.”
+
+Nadia si ferma sulla porta e si gira. || Nadia stops at the door and turns around.
+«Gratis?»{nadia} chiede. «Tua figlia ti fa un **logo** gratis?»{nadia} || “For free?” she asks. “Your daughter is making you a **logo** for free?”
+«Emma è brava»{ben} dice Kevin. «Disegna bene.»{ben} || “Emma is good,” Kevin says. “She draws well.”
+«Quindi niente **bottega**?»{matteo} chiede Matteo. || “So no **shop**?” Matteo asks.
+«La **bottega** mi fa il **bozzetto**… no»{ben} dice Kevin. «Forse no.»{ben} || “The **shop** makes me the **sketch**… no,” Kevin says. “Maybe not.”
+
+Nadia ride, per la prima volta stamattina. || Nadia laughs, for the first time this morning.
+«Allora **ti fai fare** un **logo** da tua figlia»{matteo} dice Matteo. || “So **you're having a logo made** by your daughter,” Matteo says.
+«Sì»{ben} dice Kevin. «**Mi faccio fare** un **logo** in famiglia.»{ben} || “Yes,” Kevin says. “**I'm having a logo made** in the family.”
+
+Sul bancone c'è ancora la **crema** per i cornetti, e Kevin ne mette un po' su un dito. || On the counter there's still the **cream** for the croissants, and Kevin puts a little on his finger.
+«Emma ha quindici anni»{matteo} dice Matteo. «E tu la paghi con un caffè?»{matteo} || “Emma is fifteen,” Matteo says. “And you're paying her with a coffee?”
+«Con la cena»{ben} dice Kevin. «Cucino io.»{ben} || “With dinner,” Kevin says. “I'll cook.”
+
+Matteo guarda il muro vuoto sopra la macchina del caffè. || Matteo looks at the empty wall above the coffee machine.
+«Questo bar è aperto da quarant'anni»{matteo} dice, «e non ha mai avuto un **logo**.»{matteo} || “This bar has been open for forty years,” he says, “and it has never had a **logo**.”
+Kevin guarda anche lui il muro vuoto. || Kevin looks at the empty wall too.
+_Ha ragione. Ma il mio **logo** sarà bellissimo._{ben} || *He's right. But my **logo** will be beautiful.*
+
+# SCENE casa-franco | martedì pomeriggio | franco, lucia, chiara
+Nel pomeriggio il cielo si apre e il giardino di Franco è pieno di luce. || In the afternoon the sky clears and Franco's garden is full of light.
+Sul tavolo della cucina ci sono un foglio, una penna e due tazze di caffè. || On the kitchen table there's a sheet of paper, a pen and two cups of coffee.
+Lucia **indossa** il golfino rosso e legge il foglio con gli occhiali in mano. || Lucia **wears** her red cardigan and reads the sheet with her glasses in her hand.
+«Allora, la lista»{lucia} dice. «Trenta persone, più o meno.»{lucia} || “So, the list,” she says. “Thirty people, more or less.”
+
+Chiara arriva alle quattro con il computer sotto il braccio. || Chiara arrives at four with her laptop under her arm.
+Si siede, guarda il foglio e comincia subito. || She sits down, looks at the sheet and starts right away.
+«Primo: la lista degli invitati. Secondo: il menu. Terzo: i vestiti.»{chiara} || “First: the guest list. Second: the menu. Third: the clothes.”
+«I vestiti»{franco} dice Franco dal lavandino. «Ecco, appunto.»{franco} || “The clothes,” Franco says from the sink. “Right, exactly.”
+
+Franco si asciuga le mani e si siede. || Franco dries his hands and sits down.
+«Io non compro un **abito**»{franco} dice. || “I'm not buying a **suit**,” he says.
+Chiara alza gli occhi dal computer. || Chiara looks up from her laptop.
+«Papà»{chiara} dice. «Il matrimonio è il ventuno giugno.»{chiara} || “Dad,” she says. “The wedding is June twenty-first.”
+«Lo so»{franco} dice Franco. «**Mi faccio fare** un **abito** dal mio **sarto**.»{franco} || “I know,” Franco says. “**I'm having a suit made** by my **tailor**.”
+
+Lucia appoggia la tazza e sorride. || Lucia sets down her cup and smiles.
+«Il tuo **sarto**»{lucia} ripete. «Franco, quanti anni ha?»{lucia} || “Your **tailor**,” she repeats. “Franco, how old is he?”
+«Ottantadue»{franco} dice Franco. «Ma le mani sono buone.»{franco} || “Eighty-two,” Franco says. “But his hands are good.”
+«E ti conosce ancora?»{lucia} chiede Lucia. || “And does he still remember you?” Lucia asks.
+«Signor Aldo»{franco} dice Franco. «Ha la mia misura dal 1975.»{franco} || “Mr. Aldo,” Franco says. “He's had my measurements since 1975.”
+
+Chiara chiude il computer e respira. || Chiara closes her laptop and breathes.
+«Un **abito** **su misura** in tre mesi?»{chiara} chiede. «Papà, è impossibile.»{chiara} || “A **custom-made suit** in three months?” she asks. “Dad, that's impossible.”
+«Perché?»{franco} dice Franco. «Nel 1975 l'ha fatto in due mesi.»{franco} || “Why?” Franco says. “In 1975 he made it in two months.”
+«Nel 1975 eri magro»{lucia} dice Lucia. || “In 1975 you were thin,” Lucia says.
+«Sono ancora magro»{franco} dice Franco. || “I'm still thin,” Franco says.
+
+Chiara scrive qualcosa sul telefono e legge ad alta voce. || Chiara types something on her phone and reads it aloud.
+«Negozio in piazza: due settimane, quattrocento euro, taglia quarantotto.»{chiara} || “Shop in the piazza: two weeks, four hundred euros, size forty-eight.”
+«No»{franco} dice Franco. || “No,” Franco says.
+«Cinquanta euro in più e ti danno anche la camicia»{chiara} insiste Chiara. || “Fifty euros more and they give you the shirt too,” Chiara insists.
+«No»{franco} ripete Franco. «La camicia la scelgo io.»{franco} || “No,” Franco repeats. “I choose the shirt.”
+
+Lucia si alza e mette la mano sulla spalla di Chiara. || Lucia stands up and puts her hand on Chiara's shoulder.
+«Chiara, lascia perdere»{lucia} dice. «Quest'uomo è fatto così.»{lucia} || “Chiara, let it go,” she says. “This man is made like that.”
+«Ma non c'è tempo»{chiara} dice Chiara. || “But there's no time,” Chiara says.
+«Il tempo c'è sempre»{franco} dice Franco. «Chi va piano va sano e va lontano.»{franco} || “There's always time,” Franco says. “Slow and steady wins the race.”
+
+Lucia prende il telefono di Chiara dalle sue mani. || Lucia takes Chiara's phone from her hands.
+«Senti, facciamo così»{lucia} dice. «Scrivo io l'appuntamento.»{lucia} || “Listen, let's do this,” she says. “I'll write the appointment.”
+«Con il **sarto**?»{chiara} chiede Chiara. || “With the **tailor**?” Chiara asks.
+«Con il **sarto**»{lucia} dice Lucia. «Mercoledì mattina, alle dieci.»{lucia} || “With the **tailor**,” Lucia says. “Wednesday morning, at ten.”
+Franco annuisce, soddisfatto, e beve il suo caffè. || Franco nods, satisfied, and drinks his coffee.
+
+Chiara riapre il computer, ma non scrive niente. || Chiara reopens her laptop, but doesn't type anything.
+«E tu, Lucia?»{chiara} chiede. «Il tuo **abito**?»{chiara} || “And you, Lucia?” she asks. “Your dress?”
+«Io **mi faccio fare** tutto»{lucia} dice Lucia. «Non ho tempo per cucire.»{lucia} || “I'm **having everything made**,” Lucia says. “I don't have time to sew.”
+«Tutto?»{chiara} chiede Chiara. || “Everything?” Chiara asks.
+«Tutto»{lucia} dice Lucia. «Il **fiorista**, il **parrucchiere**, la sarta.»{lucia} || “Everything,” Lucia says. “The **florist**, the **hairdresser**, the seamstress.”
+
+Franco la guarda con la tazza a mezz'aria. || Franco looks at her with his cup halfway up.
+«Anche il **parrucchiere**?»{franco} chiede. || “The **hairdresser** too?” he asks.
+«Certo»{lucia} dice Lucia. «Venerdì **mi faccio tagliare** i capelli.»{lucia} || “Of course,” Lucia says. “Friday I'm **getting my hair cut**.”
+«Io non ci vado»{franco} dice Franco. «Mai stato.»{franco} || “I don't go there,” Franco says. “Never been.”
+«Mai?»{lucia} chiede Lucia, e ride. «Franco, hai settantadue anni.»{lucia} || “Never?” Lucia asks, and laughs. “Franco, you're seventy-two.”
+«I capelli me li taglio da solo»{franco} dice Franco. || “I cut my own hair,” Franco says.
+
+Chiara alza una mano. || Chiara raises a hand.
+«Fermi tutti»{chiara} dice. «Questo lo scrivo.»{chiara} || “Everybody stop,” she says. “I'm writing this down.”
+«Scrivi cosa?»{franco} chiede Franco. || “Writing what?” Franco asks.
+«Che il **parrucchiere** lo paghiamo noi»{chiara} dice Chiara. «È un regalo.»{chiara} || “That we're paying for the **hairdresser**,” Chiara says. “It's a gift.”
+«No»{franco} dice Franco. || “No,” Franco says.
+
+Lucia apre un cassetto e prende un pezzo di stoffa color crema. || Lucia opens a drawer and takes a piece of cream-colored fabric.
+«Guarda che **stoffa**»{lucia} dice a Chiara. «Per il mio **abito**. **Seta**, leggera.»{lucia} || “Look at this **fabric**,” she says to Chiara. “For my dress. **Silk**, light.”
+Chiara tocca la stoffa con due dita. || Chiara touches the fabric with two fingers.
+«È bellissima»{chiara} dice. «E il **colletto**?»{chiara} || “It's beautiful,” she says. “And the **collar**?”
+«Il **colletto** lo faccio io»{lucia} dice Lucia. «A mano.»{lucia} || “I'll do the **collar** myself,” Lucia says. “By hand.”
+
+Franco guarda la stoffa e poi guarda Lucia. || Franco looks at the fabric and then looks at Lucia.
+«Anche tu, allora»{franco} dice. «Anche tu cuci.»{franco} || “You too, then,” he says. “You sew too.”
+«Qualcosa sì»{lucia} dice Lucia. «L'**orlo**, per esempio.»{lucia} || “Some things, yes,” Lucia says. “The **hem**, for example.”
+«Con ago e filo»{franco} dice Franco. || “With needle and thread,” Franco says.
+«Con ago e filo»{lucia} ripete Lucia. || “With needle and thread,” Lucia repeats.
+
+Chiara prende il foglio della lista e scrive in fondo. || Chiara takes the list sheet and writes at the bottom.
+«**Fiorista**: chi?»{chiara} legge. «Dove?»{chiara} || “**Florist**: who?” she reads. “Where?”
+«Quello in piazza, vicino alla chiesa»{lucia} dice Lucia. «Giovedì.»{lucia} || “The one in the piazza, near the church,” Lucia says. “Thursday.”
+«E cosa vuoi?»{chiara} chiede Chiara. «Rose? Girasoli?»{chiara} || “And what do you want?” Chiara asks. “Roses? Sunflowers?”
+«**Rose** bianche»{lucia} dice Lucia. «Un **mazzo** per il tavolo, uno per la chiesa.»{lucia} || “White **roses**,” Lucia says. “One **bouquet** for the table, one for the church.”
+«Due **mazzi**»{chiara} scrive Chiara. || “Two **bouquets**,” Chiara writes.
+«Tre»{lucia} dice Lucia. «Anche uno piccolo per Anna.»{lucia} || “Three,” Lucia says. “Also a small one for Anna.”
+
+Franco si alza e va alla finestra. || Franco stands up and goes to the window.
+«E la torta?»{chiara} chiede Chiara. «La ordini in pasticceria?»{chiara} || “And the cake?” Chiara asks. “Are you ordering it at the bakery?”
+Lucia non risponde subito. || Lucia doesn't answer right away.
+«La torta la faccio io»{lucia} dice alla fine. || “I'm making the cake myself,” she says at last.
+
+Chiara segna sul foglio. || Chiara notes it on the sheet.
+«Per trenta persone»{chiara} dice. «Quanta **crema**? Quanta **panna**?»{chiara} || “For thirty people,” she says. “How much **cream**? How much **whipped cream**?”
+«Non lo so ancora»{lucia} dice Lucia. «Dipende.»{lucia} || “I don't know yet,” Lucia says. “It depends.”
+«Dipende da cosa?»{chiara} chiede Chiara. || “Depends on what?” Chiara asks.
+«Dalla **prova**»{lucia} dice Lucia. «Prima **faccio** una **prova**, poi decido.»{lucia} || “On the **test**,” Lucia says. “First I **do** a **test**, then I decide.”
+
+Franco torna al tavolo e mette una mano sul foglio. || Franco comes back to the table and puts a hand on the sheet.
+«Questo foglio è **coperto** di cose»{franco} dice. «Torte, fiori, capelli.»{franco} || “This sheet is **covered** with things,” he says. “Cakes, flowers, hair.”
+«È la lista»{chiara} dice Chiara. || “It's the list,” Chiara says.
+«La lista è tua»{franco} dice Franco. «L'**abito** è mio.»{franco} || “The list is yours,” Franco says. “The **suit** is mine.”
+
+Chiara lo guarda e chiude il computer, piano. || Chiara looks at him and closes the laptop, slowly.
+«Va bene»{chiara} dice. «Ma una cosa me la devi dire.»{chiara} || “Fine,” she says. “But you have to tell me one thing.”
+«Cosa?»{franco} chiede Franco. || “What?” Franco asks.
+«Il **taglio**»{chiara} dice Chiara. «Classico o moderno?»{chiara} || “The **cut**,” Chiara says. “Classic or modern?”
+«Classico»{franco} dice Franco. «Come nel 1975.»{franco} || “Classic,” Franco says. “Like in 1975.”
+
+Lucia ride e prende il metro dalla borsa. || Lucia laughs and takes the tape measure from her bag.
+«Tieni, Franco»{lucia} dice. «Portalo al **sarto**.»{lucia} || “Here, Franco,” she says. “Take it to the **tailor**.”
+«Ho la mia misura»{franco} dice Franco. «Il **centimetro** ce l'ha lui.»{franco} || “I have my measurement,” Franco says. “He's got the **tape measure**.”
+«E la **barba**?»{lucia} chiede Lucia. «La fai anche quella?»{lucia} || “And your **beard**?” Lucia asks. “Are you doing that too?”
+Franco si tocca la barba con la mano. || Franco touches his beard with his hand.
+«Forse»{franco} dice. «Ci penso.»{franco} || “Maybe,” he says. “I'll think about it.”
+
+Chiara si alza e mette il computer nella borsa. || Chiara stands up and puts the laptop in her bag.
+«Allora: mercoledì il **sarto**, giovedì la sarta, venerdì il **parrucchiere**»{chiara} dice. || “So: Wednesday the **tailor**, Thursday the seamstress, Friday the **hairdresser**,” she says.
+«E la **tinta**?»{lucia} chiede Lucia, seria. «Quando la **tinta**?»{lucia} || “And the **rinse**?” Lucia asks, serious. “When's the **rinse**?”
+«Quale **tinta**?»{franco} chiede Franco, allarmato. || “What **rinse**?” Franco asks, alarmed.
+«Scherzo»{lucia} dice Lucia. || “I'm joking,” Lucia says.
+
+Chiara ride e apre la porta. || Chiara laughs and opens the door.
+«Vi **faccio sapere** io gli orari»{chiara} dice. || “I'll **let** you **know** the times,” she says.
+«No»{franco} dice Franco, tranquillo. «Non ci **fai sapere** niente.»{franco} || “No,” Franco says, calmly. “You're not **letting** us **know** anything.”
+«Papà…»{chiara} dice Chiara. || “Dad…” Chiara says.
+«L'**abito** è affare mio»{franco} dice Franco. «Vi **faccio sapere** io, quando è pronto.»{franco} || “The **suit** is my business,” Franco says. “I'll **let** you **know**, when it's ready.”
+
+Lucia accompagna Chiara alla porta e le sorride. || Lucia walks Chiara to the door and smiles at her.
+«Mercoledì alle dieci»{lucia} dice piano. «Ci vediamo là.»{lucia} || “Wednesday at ten,” she says softly. “See you there.”
+«Ci vediamo là»{chiara} ripete Chiara. || “See you there,” Chiara repeats.
+
+Dietro di loro, Franco chiude il cassetto della stoffa. || Behind them, Franco closes the fabric drawer.
+_Classico. Come nel 1975. E con lo stesso **sarto**._{franco} || *Classic. Like in 1975. And with the same **tailor**.*
+Fuori, in giardino, il gatto di Ornella attraversa il prato. || Outside, in the garden, Ornella's cat crosses the lawn.
+
+# SCENE piazza | mercoledì mattina | franco, lucia, kevin, uomo
+La **sartoria** di signor Aldo è in un vicolo dietro la chiesa, tra il forno e una merceria chiusa. || Signor Aldo's **tailor's shop** is in an alley behind the church, between the bakery and a closed haberdasher's.
+La vetrina è piccola e dentro c'è poca luce. || The window is small and inside there's little light.
+Sulla porta c'è un cartello scritto a mano: SARTORIA ALDO — DAL 1961. || On the door there's a handwritten sign: ALDO'S TAILOR SHOP — SINCE 1961.
+
+Franco arriva alle dieci in punto, con Lucia e Chiara dietro. || Franco arrives at ten sharp, with Lucia and Chiara behind him.
+Kevin arriva subito dopo, con il quaderno giallo in mano. || Kevin arrives right after, with the yellow notebook in his hand.
+«Posso venire anch'io?»{ben} chiede Kevin. «Imparo le parole nuove.»{ben} || “Can I come too?” Kevin asks. “I'm learning new words.”
+«Vieni»{franco} dice Franco. «Ma non toccare niente.»{franco} || “Come,” Franco says. “But don't touch anything.”
+
+Dentro, la **bottega** sa di legno, di **stoffa** e di ferro da stiro. || Inside, the little **shop** smells of wood, **fabric** and iron.
+Ci sono tre **specchi**, un tavolo grande e cassetti di legno alle pareti. || There are three mirrors, a big table and wooden drawers on the walls.
+«Che profumo»{lucia} dice Lucia, e chiude gli occhi. || “What a smell,” Lucia says, and closes her eyes.
+Franco resta fermo sulla porta. || Franco stands still in the doorway.
+_C'è lo stesso odore. Come nel 1975._{franco} || *It's the same smell. Like in 1975.*
+
+Signor Aldo esce dal retro con gli occhiali sulla testa. || Signor Aldo comes out from the back with his glasses on his head.
+È piccolo, curvo, con le mani grosse e due dita macchiate di gessetto bianco. || He's small, stooped, with big hands and two fingers stained with white chalk.
+«Signor Ferri»{uomo} dice. «Sono quarantacinque anni e lei è sempre lo stesso.»{uomo} || “Signor Ferri,” he says. “It's been forty-five years and you're always the same.”
+«Lei invece è invecchiato»{franco} dice Franco. || “You, on the other hand, have aged,” Franco says.
+«Grazie»{uomo} dice il **sarto**. «Anche lei, un pochino.»{uomo} || “Thank you,” the **tailor** says. “You too, a little.”
+
+Lucia si presenta con la mano. || Lucia introduces herself with her hand.
+«Lucia Bernardi»{lucia} dice. «La futura moglie.»{lucia} || “Lucia Bernardi,” she says. “The future wife.”
+«Piacere»{uomo} dice il **sarto**. «Lei ha scelto un uomo difficile.»{uomo} || “Pleased to meet you,” the **tailor** says. “You've chosen a difficult man.”
+«Lo so»{lucia} dice Lucia. «Ci ho messo due anni.»{lucia} || “I know,” Lucia says. “It took me two years.”
+
+Il **sarto** prende il **centimetro** da una tasca e glielo mette intorno al collo. || The **tailor** takes the **tape measure** from a pocket and puts it around his neck.
+«Allora, signor Ferri»{uomo} dice. «Che cosa **facciamo fare**?»{uomo} || “So, signor Ferri,” he says. “What are we **having made**?”
+«Un **abito**»{franco} dice Franco. «Per il matrimonio.»{franco} || “A **suit**,” Franco says. “For the wedding.”
+«Un **abito** per il matrimonio»{uomo} ripete il **sarto**. «Bene. Bene.»{uomo} || “A **suit** for the wedding,” the **tailor** repeats. “Good. Good.”
+
+Kevin alza una mano come a scuola. || Kevin raises his hand like at school.
+«Scusi»{ben} dice. «Io non capisco una cosa.»{ben} || “Excuse me,” he says. “I don't understand one thing.”
+«Dimmi»{uomo} dice il **sarto**. || “Tell me,” the **tailor** says.
+«Se io voglio un **completo**, lo posso comprare a **completo**?»{ben} chiede Kevin. || “If I want a **suit**, can I buy it as a **suit**?” Kevin asks.
+Il **sarto** lo guarda senza capire. || The **tailor** looks at him without understanding.
+«Comprare a **completo**?»{uomo} dice. «Che vuol dire?»{uomo} || “Buy it as a **suit**?” he says. “What does that mean?”
+
+«Vuol dire che…»{ben} comincia Kevin, e si ferma. || “It means that…” Kevin starts, and stops.
+Lucia interviene, piano, come una maestra. || Lucia intervenes, softly, like a teacher.
+«Kevin, **completo** è una parola per l'**abito**»{lucia} dice. «C'è il **completo** giacca e pantaloni.»{lucia} || “Kevin, **suit** is a word for the **outfit**,” she says. “There's the jacket-and-pants **suit**.”
+«E poi c'è completo nel senso di finito»{chiara} dice Chiara. «Il lavoro è completo.»{chiara} || “And then there's *completo* meaning finished,” Chiara says. “The work is *completo*.”
+«Ah»{ben} dice Kevin. «Due parole, un suono.»{ben} || “Ah,” Kevin says. “Two words, one sound.”
+
+«E **farsi fare** un **completo**»{lucia} continua Lucia, «vuol dire pagare qualcuno per farlo.»{lucia} || “And **having a suit made**,” Lucia continues, “means paying someone to make it.”
+«Come **mi faccio tagliare** i capelli»{ben} dice Kevin. «Io pago il **parrucchiere** e lui taglia.»{ben} || “Like **getting my hair cut**,” Kevin says. “I pay the **hairdresser** and he cuts.”
+«Bravo»{lucia} dice Lucia. «Hai capito.»{lucia} || “Good,” Lucia says. “You understood.”
+«Finalmente»{franco} dice Franco. || “Finally,” Franco says.
+
+Il **sarto** apre un cassetto e tira fuori una scatola di latta. || The **tailor** opens a drawer and pulls out a tin box.
+Dentro ci sono schede di cartone, legate con un filo, una per cliente. || Inside there are cardboard cards, tied with string, one per customer.
+«Ferri»{uomo} legge. «Franco Ferri. 1975.»{uomo} || “Ferri,” he reads. “Franco Ferri. 1975.”
+E **fa vedere** la scheda a tutti, tenendola in alto. || And he **shows** the card to everyone, holding it up high.
+
+Sulla scheda c'è una scritta vecchia, a matita, quasi sbiadita. || On the card there's old writing, in pencil, almost faded.
+«Spalle quarantasei, vita ottanta, manica cinquantotto»{uomo} legge il **sarto**. || “Shoulders forty-six, waist eighty, sleeve fifty-eight,” the **tailor** reads.
+«Quarantasei?»{chiara} chiede Chiara, incuriosita. || “Forty-six?” Chiara asks, curious.
+«Ero giovane»{franco} dice Franco. || “I was young,” Franco says.
+«E la vita?»{ben} chiede Kevin. «Ottanta o più?»{ben} || “And the waist?” Kevin asks. “Eighty or more?”
+Franco guarda Kevin senza dire niente. || Franco looks at Kevin without saying anything.
+Kevin capisce e chiude la bocca. || Kevin understands and shuts his mouth.
+_Perfetto. Silenzio._{ben} || *Perfect. Silence.*
+
+Il **sarto** riprende il **centimetro** e comincia a misurare. || The **tailor** takes the **tape measure** again and starts measuring.
+Gli passa intorno alle spalle, poi alle braccia, poi alla vita. || He passes it around his shoulders, then his arms, then his waist.
+«Respiri»{uomo} dice il **sarto**. || “Breathe,” the **tailor** says.
+«Respiro»{franco} dice Franco. || “I'm breathing,” Franco says.
+«Non si muova»{uomo} dice il **sarto**. || “Don't move,” the **tailor** says.
+«Non mi muovo»{franco} dice Franco, e sorride, che è raro. || “I'm not moving,” Franco says, and smiles, which is rare.
+
+Poi il **sarto** va alla parete e apre un armadio alto. || Then the **tailor** goes to the wall and opens a tall wardrobe.
+Dentro ci sono rotoli di **stoffa**, chiari e scuri, alcuni molto vecchi. || Inside there are rolls of **fabric**, light and dark, some very old.
+«Vediamo»{uomo} dice. «Che **stoffa** le piace?»{uomo} || “Let's see,” he says. “What **fabric** do you like?”
+«Come nel 1975»{franco} dice Franco. || “Like in 1975,” Franco says.
+
+Il **sarto** tira fuori tre rotoli e li appoggia sul tavolo. || The **tailor** pulls out three rolls and sets them on the table.
+Uno è grigio, uno è blu scuro, uno è nero. || One is gray, one is dark blue, one is black.
+«Nel 1975 avevamo fatto il grigio»{uomo} dice il **sarto**. || “In 1975 we made the gray one,” the **tailor** says.
+«E il matrimonio è di giorno»{lucia} dice Lucia. «Il grigio va bene.»{lucia} || “And the wedding is in the daytime,” Lucia says. “Gray works well.”
+«Il grigio»{franco} dice Franco. || “The gray,” Franco says.
+
+Kevin si avvicina e tocca un angolo del rotolo. || Kevin comes closer and touches a corner of the roll.
+«È pesante»{ben} dice. «Non è come la **seta** di Lucia.»{ben} || “It's heavy,” he says. “It's not like Lucia's **silk**.”
+«Questa è lana»{uomo} dice il **sarto**. «Per un uomo, la lana è meglio.»{uomo} || “This is wool,” the **tailor** says. “For a man, wool is better.”
+«La **seta** è per le donne?»{ben} chiede Kevin. || “Is **silk** for women?” Kevin asks.
+«No»{uomo} dice il **sarto**. «La **seta** è per chi vuole brillare.»{uomo} || “No,” the **tailor** says. “**Silk** is for whoever wants to shine.”
+«Allora lui vuole brillare»{lucia} dice Lucia, e indica Franco. || “Then he wants to shine,” Lucia says, and points at Franco.
+
+Franco non risponde e guarda la **stoffa** grigia. || Franco doesn't answer and looks at the gray **fabric**.
+«Facciamo il **colletto** così»{uomo} dice il **sarto**, e disegna con il gessetto sul tavolo. || “Let's do the **collar** like this,” the **tailor** says, and draws with chalk on the table.
+È un **taglio** classico, senza niente di moderno. || It's a classic **cut**, with nothing modern.
+«Il **colletto** deve stare fermo»{uomo} dice il **sarto**. «Lei si muove molto.»{uomo} || “The **collar** has to stay still,” the **tailor** says. “You move a lot.”
+«Mi muovo poco»{franco} dice Franco. || “I move little,” Franco says.
+«Vedremo»{uomo} dice il **sarto**. || “We'll see,” the **tailor** says.
+
+Poi prende una vecchia **giacca** e la mette sulle spalle di Franco. || Then he takes an old jacket and puts it on Franco's shoulders.
+La **giacca** è grigia, un po' consumata, ma della misura giusta. || The jacket is gray, a little worn, but the right size.
+«Questa è la **prova** numero zero»{uomo} dice il **sarto**. «Solo per vedere.»{uomo} || “This is **fitting** number zero,” the **tailor** says. “Just to see.”
+Franco **indossa** la **giacca** e si guarda allo specchio. || Franco **wears** the jacket and looks at himself in the mirror.
+Kevin guarda anche lui, senza parlare. || Kevin looks too, without speaking.
+
+«Troppo lunga»{uomo} dice il **sarto**. «Di due centimetri.»{uomo} || “Too long,” the **tailor** says. “By two centimeters.”
+«Due centimetri»{chiara} ripete Chiara. «E si vede?»{chiara} || “Two centimeters,” Chiara repeats. “And you can see it?”
+«Si vede»{uomo} dice il **sarto**, serio. «Io lo vedo.»{uomo} || “You can see it,” the **tailor** says, serious. “I see it.”
+Lucia fa un passo avanti e guarda l'**orlo**. || Lucia takes a step forward and looks at the **hem**.
+«L'**orlo** è troppo basso»{lucia} dice. «Sì, si vede.»{lucia} || “The **hem** is too low,” she says. “Yes, you can see it.”
+
+Il **sarto** prende uno spillo e segna la **stoffa**. || The **tailor** takes a pin and marks the **fabric**.
+«La **prova** vera la facciamo in maggio»{uomo} dice. «Prima la **giacca**, poi i pantaloni.»{uomo} || “The real **fitting** we'll do in May,” he says. “First the jacket, then the pants.”
+«E l'**orlo**?»{ben} chiede Kevin. «Chi lo fa?»{ben} || “And the **hem**?” Kevin asks. “Who does it?”
+L'uomo sorride e mostra le mani. || The man smiles and shows his hands.
+«L'**orlo** lo **cucisco** io»{uomo} dice. «A mano.»{uomo} || “I **sew** the **hem** myself,” he says. “By hand.”
+
+Sul tavolo c'è un cuscinetto rosso con dentro aghi e spilli. || On the table there's a red cushion with needles and pins inside.
+Il **sarto** prende un **ago** e un **filo** grigio e li **fa vedere** a Kevin. || The **tailor** takes a **needle** and a gray **thread** and **shows** them to Kevin.
+«Ago, **filo**, pazienza»{uomo} dice. «Tre cose, una sola mano.»{uomo} || “Needle, **thread**, patience,” he says. “Three things, one hand.”
+«Io non so **cucire**»{ben} dice Kevin. «Non ho mai imparato.»{ben} || “I don't know how to **sew**,” Kevin says. “I never learned.”
+«Neanche io»{franco} dice Franco. «Ma lui sì.»{franco} || “Neither did I,” Franco says. “But he did.”
+
+Il **sarto** infila il **filo** nell'**ago** in due secondi, senza guardare. || The **tailor** threads the **thread** into the **needle** in two seconds, without looking.
+Kevin lo guarda a bocca aperta. || Kevin watches him open-mouthed.
+«Come fa?»{ben} chiede. || “How do you do it?” he asks.
+«Quarant'anni di **ago** e **filo**»{uomo} dice il **sarto**. «La mano impara da sola.»{uomo} || “Forty years of **needle** and **thread**,” the **tailor** says. “The hand learns by itself.”
+«Lo scrivo»{ben} dice Kevin, e prende il quaderno. || “I'm writing that down,” Kevin says, and takes his notebook.
+
+Lucia guarda il rotolo grigio e poi Franco. || Lucia looks at the gray roll and then at Franco.
+«Quanto tempo ci vuole?»{lucia} chiede. «Il matrimonio è il ventuno giugno.»{lucia} || “How long does it take?” she asks. “The wedding is June twenty-first.”
+«Un **abito** così vuole sei settimane»{uomo} dice il **sarto**. «Più la **prova**, più l'**orlo** a mano.»{uomo} || “A **suit** like this takes six weeks,” the **tailor** says. “Plus the **fitting**, plus the hand **hem**.”
+«E quindi?»{chiara} chiede Chiara, con il telefono già in mano. || “And so?” Chiara asks, with her phone already in her hand.
+«Quindi è pronto per fine maggio»{uomo} dice il **sarto**. || “So it'll be ready by the end of May,” the **tailor** says.
+
+Chiara scrive la data nel telefono e respira. || Chiara types the date into her phone and breathes.
+«Fine maggio»{chiara} dice. «Va bene. Va bene.»{chiara} || “End of May,” she says. “Okay. Okay.”
+«Ma»{uomo} aggiunge il **sarto**, e alza un dito, «c'è una condizione»{uomo}. || “But,” the **tailor** adds, and raises a finger, “there's one condition.”
+«Quale?»{franco} chiede Franco. || “Which one?” Franco asks.
+«Se il signor Franco non cambia idea tre volte»{uomo} dice il **sarto**, «l'**abito** è pronto.»{uomo} || “If signor Franco doesn't change his mind three times,” the **tailor** says, “the **suit** is ready.”
+Lucia scoppia a ridere. || Lucia bursts out laughing.
+«Tre volte?»{lucia} dice. «Lui cambia idea anche quattro.»{lucia} || “Three times?” she says. “He changes his mind four times.”
+
+Franco non ride, ma non protesta. || Franco doesn't laugh, but he doesn't protest.
+«Una sola»{franco} dice. «**Faccio fare** una cosa sola e la tengo.»{franco} || “Just one,” he says. “I'm **having** one thing **made** and I'm keeping it.”
+Il **sarto** segna la **stoffa**, chiude il rotolo e lo rimette nell'armadio. || The **tailor** marks the **fabric**, closes the roll and puts it back in the wardrobe.
+«Ci vediamo in maggio, signor Ferri»{uomo} dice. «E porti la signora.»{uomo} || “See you in May, signor Ferri,” he says. “And bring your lady.”
+«La porto»{franco} dice Franco. || “I'll bring her,” Franco says.
+
+Fuori, in piazza, il sole scalda la pietra e il forno manda fuori odore di pane. || Outside, in the piazza, the sun warms the stone and the bakery sends out the smell of bread.
+Kevin cammina dietro a Lucia e Chiara, e scrive nel quaderno. || Kevin walks behind Lucia and Chiara, and writes in his notebook.
+_Ago, filo, pazienza. Prova. Orlo. Sarto._{ben} || *Needle, thread, patience. Fitting. Hem. Tailor.*
+
+# SCENE piazza | giovedì mattina | franco, lucia, ornella, donna, uomo
+Giovedì mattina in piazza c'è il mercato, e le bancarelle occupano metà della piazza. || Thursday morning in the piazza there's the market, and the stalls take up half the square.
+Il **fiorista** ha il negozio all'angolo, con i secchi fuori sulla porta. || The **florist** has his shop on the corner, with the buckets outside the door.
+Lucia arriva alle nove e mezza, e Franco arriva alle nove e trentaquattro. || Lucia arrives at nine thirty, and Franco arrives at nine thirty-four.
+«Sei in ritardo»{lucia} dice Lucia. || “You're late,” Lucia says.
+«Ho fatto il giro lungo»{franco} dice Franco. || “I took the long way around,” Franco says.
+
+Dentro il negozio c'è un odore forte di **rosa** e di foglie bagnate. || Inside the shop there's a strong smell of **rose** and wet leaves.
+Una signora con le mani rosse sta legando un **mazzo** di tulipani. || A woman with red hands is tying a **bouquet** of tulips.
+«Buongiorno»{donna} dice la **donna**. «Per il matrimonio?»{donna} || “Good morning,” the **woman** says. “For the wedding?”
+«Come lo sa?»{franco} chiede Franco, sospettoso. || “How do you know?” Franco asks, suspicious.
+«Perché lo sa tutta Borgoverde»{lucia} dice Lucia. || “Because all of Borgoverde knows,” Lucia says.
+
+La **donna** mette i tulipani da parte e si asciuga le mani sul grembiule. || The **woman** sets the tulips aside and dries her hands on her apron.
+«Vi **faccio vedere** tre cose»{donna} dice. «Poi scegliete.»{donna} || “I'll **show** you three things,” she says. “Then you choose.”
+«Tre cose»{franco} dice Franco. «Ne basta una.»{franco} || “Three things,” Franco says. “One is enough.”
+«Franco»{lucia} dice Lucia, e lo guarda. || “Franco,” Lucia says, and looks at him.
+«Va bene, tre»{franco} dice Franco. || “Fine, three,” Franco says.
+
+La prima cosa è un **mazzo** grande di rose bianche e verdi. || The first thing is a big **bouquet** of white and green roses.
+La seconda è una composizione bassa, con i fiori dentro una cesta di legno. || The second is a low arrangement, with the flowers in a wooden basket.
+La terza è solo verde: foglie, rami e niente fiori. || The third is green only: leaves, branches and no flowers.
+«Quest'ultima è moderna»{donna} dice la **donna**. «Molto di moda.»{donna} || “This last one is modern,” the **woman** says. “Very fashionable.”
+«Moderna no»{franco} dice Franco. || “Modern, no,” Franco says.
+
+Lucia tocca i petali della prima **rosa** e annuisce. || Lucia touches the petals of the first **rose** and nods.
+«La prima»{lucia} dice. «Rose bianche, un po' di verde.»{lucia} || “The first one,” she says. “White roses, a little green.”
+«Quante?»{donna} chiede la **donna**. «Per il tavolo, per la chiesa, per la sposa?»{donna} || “How many?” the **woman** asks. “For the table, for the church, for the bride?”
+«Tre **mazzi**»{lucia} dice Lucia. «Uno per il tavolo, uno per la chiesa, uno piccolo per mia madre.»{lucia} || “Three **bouquets**,” Lucia says. “One for the table, one for the church, one small one for my mother.”
+
+Franco alza la testa. || Franco lifts his head.
+«Tua madre?»{franco} chiede. «Tua madre è a Napoli.»{franco} || “Your mother?” he asks. “Your mother is in Naples.”
+«Al cimitero»{lucia} dice Lucia, piano. «Le porto i fiori ogni anno.»{lucia} || “At the cemetery,” Lucia says, softly. “I bring her flowers every year.”
+Franco non dice niente e guarda il pavimento. || Franco says nothing and looks at the floor.
+
+La **donna** prende il blocco e scrive. || The **woman** takes the pad and writes.
+«Tre **mazzi** di rose bianche»{donna} dice. «E per i tavoli in giardino?»{donna} || “Three **bouquets** of white roses,” she says. “And for the tables in the garden?”
+«Cosa?»{franco} chiede Franco. || “What?” Franco asks.
+«I tavoli in giardino»{donna} ripete la **donna**. «Quanti sono?»{donna} || “The tables in the garden,” the **woman** repeats. “How many are there?”
+«Sei»{lucia} dice Lucia. «Sei tavoli lunghi.»{lucia} || “Six,” Lucia says. “Six long tables.”
+
+«Allora ci vuole altro verde»{donna} dice la **donna**. «Foglie, un po' di **seta**, e niente rose.»{donna} || “Then we need more green,” the **woman** says. “Leaves, a bit of **silk**, and no roses.”
+«**Seta**?»{franco} chiede Franco. «Sui tavoli?»{franco} || “**Silk**?” Franco asks. “On the tables?”
+«Un nastro di **seta** intorno al vaso»{donna} dice la **donna**. «Costa poco.»{donna} || “A **silk** ribbon around the vase,” the **woman** says. “It costs little.”
+«Quanto poco?»{franco} chiede Franco. || “How little?” Franco asks.
+
+La **donna** scrive un numero sul blocco e gira il foglio. || The **woman** writes a number on the pad and turns the sheet around.
+Franco guarda il numero e poi guarda Lucia. || Franco looks at the number and then looks at Lucia.
+«Troppo»{franco} dice. || “Too much,” he says.
+«È il prezzo»{donna} dice la **donna**, tranquilla. «Non è un mercato.»{donna} || “That's the price,” the **woman** says, calmly. “This isn't a market.”
+«Nel 1975 con quella cifra…»{franco} comincia Franco. || “In 1975, with that amount…” Franco begins.
+«Nel 1975 c'erano ancora le lire»{lucia} dice Lucia. || “In 1975 there were still lire,” Lucia says.
+
+Franco prova un'altra strada. || Franco tries another way.
+«E se prendiamo meno rose?»{franco} chiede. «Più verde, meno fiori.»{franco} || “And if we take fewer roses?” he asks. “More green, fewer flowers.”
+«Si può fare»{donna} dice la **donna**. «Le rose costano più del verde.»{donna} || “It can be done,” the **woman** says. “Roses cost more than greenery.”
+«Vedi?»{franco} dice Franco a Lucia. «Si può risparmiare.»{franco} || “See?” Franco says to Lucia. “You can save.”
+«Si può risparmiare venti euro»{lucia} dice Lucia. «E la chiesa resta senza fiori.»{lucia} || “You can save twenty euros,” Lucia says. “And the church stays without flowers.”
+
+Franco resta in silenzio per qualche secondo. || Franco stays silent for a few seconds.
+«Va bene»{franco} dice alla fine. «Come dice lei.»{franco} || “Fine,” he says at last. “As she says.”
+La **donna** scrive ancora sul blocco e poi guarda Franco. || The **woman** writes on the pad again and then looks at Franco.
+«Il primo maggio torno dal vivaio»{donna} dice. «Le **faccio sapere** la settimana prima.»{donna} || “On the first of May I'm back from the nursery,” she says. “I'll **let** you **know** the week before.”
+«Grazie»{lucia} dice Lucia. || “Thank you,” Lucia says.
+
+Escono dal negozio e Franco cammina in silenzio per dieci passi. || They leave the shop and Franco walks in silence for ten steps.
+«Sessanta euro per il verde»{franco} dice. «Sessanta.»{franco} || “Sixty euros for greenery,” he says. “Sixty.”
+«Franco, ti sposi»{lucia} dice Lucia. «Non muori.»{lucia} || “Franco, you're getting married,” Lucia says. “You're not dying.”
+Franco sbuffa e non risponde. || Franco huffs and doesn't answer.
+
+Poi Lucia si ferma davanti a una vetrina con un grande **specchio** dentro. || Then Lucia stops in front of a window with a big **mirror** inside.
+Sopra la porta c'è una scritta rossa: **SALONE** MARIA — UOMO E DONNA. || Above the door there's red writing: **SALON** MARIA — MEN AND WOMEN.
+«No»{franco} dice Franco, subito. || “No,” Franco says, right away.
+«Sì»{lucia} dice Lucia. «**Faccio fare** una **prova** anche a te.»{lucia} || “Yes,” Lucia says. “I'm **having** a **test** done on you too.”
+«Quale **prova**?»{franco} chiede Franco. «La **prova** dell'**abito** è in maggio.»{franco} || “What **test**?” Franco asks. “The suit **fitting** is in May.”
+«La **prova** dei capelli»{lucia} dice Lucia. «Entra.»{lucia} || “The hair **test**,” Lucia says. “Get in.”
+
+Dentro il **salone** c'è musica e odore di lacca. || Inside the **salon** there's music and the smell of hairspray.
+Un **parrucchiere** magro, con una camicia nera, sta asciugando i capelli a una signora. || A thin **hairdresser**, in a black shirt, is drying a lady's hair.
+«Buongiorno»{uomo} dice l'**uomo**. «Per lei?»{uomo} || “Good morning,” the **man** says. “For you?”
+«Prenotato»{lucia} dice Lucia. «Bernardi, dieci e mezza.»{lucia} || “Booked,” Lucia says. “Bernardi, ten thirty.”
+«Perfetto»{uomo} dice l'**uomo**. «Si sieda qui.»{uomo} || “Perfect,” the **man** says. “Sit here.”
+
+Lucia si siede e il **parrucchiere** prende forbici e pettine. || Lucia sits down and the **hairdresser** takes scissors and comb.
+Franco resta in piedi vicino alla porta, con le braccia conserte. || Franco stays standing near the door, with his arms crossed.
+«Signore, si sieda»{uomo} dice l'**uomo**. «Anche lei.»{uomo} || “Sir, sit down,” the **man** says. “You too.”
+«Io non **mi faccio tagliare** i capelli qui»{franco} dice Franco. || “I'm not **getting my hair cut** here,” Franco says.
+«E dove se li fa tagliare?»{uomo} chiede l'**uomo**, curioso. || “And where do you get it cut?” the **man** asks, curious.
+«A casa»{franco} dice Franco. «Con le forbici di mia moglie.»{franco} || “At home,” Franco says. “With my wife's scissors.”
+
+L'**uomo** appoggia il pettine e lo guarda nello **specchio**. || The **man** puts down the comb and looks at him in the **mirror**.
+«Da quanto tempo?»{uomo} chiede. || “How long has it been?” he asks.
+«Da quando è morta»{franco} dice Franco. «Quattro anni.»{franco} || “Since she died,” Franco says. “Four years.”
+Nel **salone** per un momento nessuno parla. || In the **salon** for a moment nobody speaks.
+«Allora è ora di cambiare»{lucia} dice Lucia, piano. || “Then it's time for a change,” Lucia says, softly.
+
+Franco si siede, lentamente, e si toglie il cappello. || Franco sits down, slowly, and takes off his hat.
+Il **parrucchiere** gli mette intorno al collo un panno azzurro. || The **hairdresser** puts a light blue cloth around his neck.
+«Che **taglio** facciamo?»{uomo} chiede l'**uomo**. || “What **cut** shall we do?” the **man** asks.
+«Il mio»{franco} dice Franco. «Non cambiare niente.»{franco} || “Mine,” Franco says. “Don't change anything.”
+«Allora non serve»{uomo} dice l'**uomo**, e sorride. || “Then it's not needed,” the **man** says, and smiles.
+
+Lucia alza la mano dal giornale. || Lucia raises her hand from the magazine.
+«Fagli il **taglio** del 1975»{lucia} dice. «Corto ai lati, un po' più lungo sopra.»{lucia} || “Give him the **cut** from 1975,” she says. “Short at the sides, a little longer on top.”
+«Va bene»{uomo} dice l'**uomo**. «E la **barba**?»{uomo} || “Fine,” the **man** says. “And the **beard**?”
+«La **barba** no»{franco} dice Franco. || “Not the **beard**,” Franco says.
+«La **barba** sì»{lucia} dice Lucia. «Un po' più corta, non rasa.»{lucia} || “The **beard** yes,” Lucia says. “A bit shorter, not shaved.”
+
+L'**uomo** comincia a tagliare, e le forbici fanno un rumore leggero. || The **man** starts cutting, and the scissors make a light sound.
+Franco si guarda nello **specchio** e poi guarda il **filo** di capelli che cade sul panno. || Franco looks at himself in the **mirror** and then looks at the **strand** of hair falling on the cloth.
+_Troppi. Sono troppi._{franco} || *Too many. It's too many.*
+«Stia tranquillo»{uomo} dice l'**uomo**. «Il **filo** cade, non è niente.»{uomo} || “Stay calm,” the **man** says. “The **strand** falls, it's nothing.”
+
+In quel momento la porta si apre e entra Ornella con la borsa della spesa. || At that moment the door opens and Ornella comes in with her shopping bag.
+Vede Franco seduto davanti allo **specchio** e si ferma di colpo. || She sees Franco sitting in front of the **mirror** and stops dead.
+«Madonna santa»{ornella} dice Ornella. «Il signor Ferri in un **salone**.»{ornella} || “Good heavens,” Ornella says. “Signor Ferri in a **salon**.”
+«Buongiorno, Ornella»{franco} dice Franco, senza girarsi. || “Good morning, Ornella,” Franco says, without turning.
+«**Faccio fare** una **tinta** anche a lui?»{uomo} chiede l'**uomo**, scherzando. || “Shall I **have** a **rinse** done on him too?” the **man** asks, joking.
+«La **tinta** no»{franco} dice Franco, allarmato. || “No **rinse**,” Franco says, alarmed.
+
+Ornella appoggia la borsa e si avvicina allo **specchio**. || Ornella sets down her bag and comes closer to the **mirror**.
+«Che bel **taglio**»{ornella} dice. «Sembra un altro uomo.»{ornella} || “What a nice **cut**,” she says. “He looks like another man.”
+«Sembra lo stesso uomo»{franco} dice Franco. || “He looks like the same man,” Franco says.
+«Con i capelli in ordine»{ornella} dice Ornella. «E quella **seta** al collo?»{ornella} || “With his hair in order,” Ornella says. “And that **silk** around his neck?”
+«Quale **seta**?»{franco} chiede Franco, e si tocca il colletto. || “What **silk**?” Franco asks, and touches his collar.
+«Non ha la **seta**»{lucia} dice Lucia, e ride. «Non ancora.»{lucia} || “He doesn't have the **silk**,” Lucia says, and laughs. “Not yet.”
+
+L'**uomo** finisce il lavoro e prende un piccolo **specchio** per mostrare il dietro. || The **man** finishes the work and takes a small **mirror** to show the back.
+«Vede?»{uomo} dice. «Pulito. Moderno?»{uomo} || “See?” he says. “Clean. Modern?”
+«Classico»{franco} dice Franco. || “Classic,” Franco says.
+«Classico»{uomo} ripete l'**uomo**. «Come nel 1975, allora.»{uomo} || “Classic,” the **man** repeats. “Like in 1975, then.”
+
+Franco si guarda ancora, a lungo, e nessuno parla. || Franco looks at himself again, for a long time, and nobody speaks.
+Poi passa una mano sulla **barba** nuova, più corta, e sulla nuca. || Then he passes a hand over his new **beard**, shorter, and over the back of his neck.
+«Bah»{franco} dice. || “Bah,” he says.
+Solo questo: «Bah»{franco}. || Just that: “Bah.”
+
+Lucia paga e Ornella resta accanto a Franco. || Lucia pays and Ornella stays beside Franco.
+Ornella guarda Lucia, e Lucia guarda Ornella. || Ornella looks at Lucia, and Lucia looks at Ornella.
+Tutte e due hanno capito la stessa cosa. || Both of them have understood the same thing.
+«Ti piace»{ornella} dice Ornella, piano. || “You like it,” Ornella says, softly.
+«Bah»{franco} ripete Franco, e si rimette il cappello sopra i capelli nuovi. || “Bah,” Franco repeats, and puts his hat back on over his new hair.
+
+Lucia prende il braccio di Franco e lo porta fuori. || Lucia takes Franco's arm and leads him outside.
+«Grazie, Ornella»{lucia} dice dalla porta. || “Thank you, Ornella,” she says from the doorway.
+«Ci vediamo sabato»{ornella} dice Ornella. «E portate il cappello anche sabato.»{ornella} || “See you Saturday,” Ornella says. “And bring the hat on Saturday too.”
+Fuori, la piazza è piena di gente e di sole, e Franco cammina un po' più dritto. || Outside, the piazza is full of people and sun, and Franco walks a little straighter.
+
+# SCENE casa-franco | venerdì pomeriggio | lucia, chiara, nadia
+Venerdì pomeriggio la casa di Franco sa di zucchero e di burro. || Friday afternoon Franco's house smells of sugar and butter.
+Chiara arriva con Nadia e con la piccola Anna Yasmin nel passeggino. || Chiara arrives with Nadia and little Anna Yasmin in the stroller.
+Nadia entra per prima e si ferma in corridoio. || Nadia comes in first and stops in the hallway.
+«Che profumo»{nadia} dice Nadia. «Che cosa sta cucinando?»{nadia} || “What a smell,” Nadia says. “What is she cooking?”
+
+Lucia appare dalla cucina con un grembiule rosa e le mani piene di farina. || Lucia appears from the kitchen with a pink apron and her hands full of flour.
+«Niente»{lucia} dice subito, troppo in fretta. «Un dolce qualunque.»{lucia} || “Nothing,” she says right away, too quickly. “Just any dessert.”
+Chiara alza un sopracciglio. || Chiara raises an eyebrow.
+«Un dolce qualunque»{chiara} ripete. «Con la **crema**?»{chiara} || “Just any dessert,” she repeats. “With **cream**?”
+«Forse»{lucia} dice Lucia. «Un caffettino?»{lucia} || “Maybe,” Lucia says. “A little coffee?”
+«Sì»{nadia} dice Nadia. «E anche una fetta di quel “dolce qualunque”.»{nadia} || “Yes,” Nadia says. “And also a slice of that ‘any dessert.’”
+
+Lucia ride e chiude la porta della cucina con il piede. || Lucia laughs and closes the kitchen door with her foot.
+«Quella porta la chiudo sempre»{lucia} dice. «Per il caldo.»{lucia} || “I always close that door,” she says. “Because of the heat.”
+«Per il caldo»{chiara} dice Chiara. «Certo. In aprile.»{chiara} || “Because of the heat,” Chiara says. “Sure. In April.”
+Nadia mette il passeggino vicino al tavolo. || Nadia parks the stroller next to the table.
+
+«Com'è andata con il **fiorista**?»{nadia} chiede Nadia, e si siede. || “How did it go with the **florist**?” Nadia asks, and sits down.
+«Bene»{lucia} dice Lucia. «Tre **mazzi** di **rose** bianche.»{lucia} || “Well,” Lucia says. “Three **bouquets** of white **roses**.”
+«Tre?»{chiara} chiede Chiara. «Non erano due?»{chiara} || “Three?” Chiara asks. “Weren't there two?”
+«Uno piccolo per mia madre»{lucia} dice Lucia. «Al cimitero.»{lucia} || “A small one for my mother,” Lucia says. “At the cemetery.”
+Chiara annuisce e non dice niente. || Chiara nods and says nothing.
+
+«E i tavoli?»{nadia} chiede Nadia. «Quanti fiori in giardino?»{nadia} || “And the tables?” Nadia asks. “How many flowers in the garden?”
+«Poco verde, niente **rose**»{lucia} dice Lucia. «Il signor Ferri ha fatto i conti.»{lucia} || “A little greenery, no **roses**,” Lucia says. “Signor Ferri did the math.”
+«Ha risparmiato venti euro»{chiara} dice Chiara. || “He saved twenty euros,” Chiara says.
+«E la chiesa è rimasta senza fiori»{lucia} dice Lucia. «Poi ha cambiato idea.»{lucia} || “And the church was left without flowers,” Lucia says. “Then he changed his mind.”
+
+Nadia ride e prende in braccio la bambina. || Nadia laughs and picks up the baby.
+«E il vestito?»{nadia} chiede. «La **prova**?»{nadia} || “And the dress?” she asks. “The **fitting**?”
+«La **prova** dell'**abito** è in maggio»{lucia} dice Lucia. «Il mio **abito** è quasi pronto.»{lucia} || “The **fitting** of the suit is in May,” Lucia says. “My dress is almost ready.”
+«Quasi pronto?»{chiara} chiede Chiara. «Chi te lo fa?»{chiara} || “Almost ready?” Chiara asks. “Who's making it for you?”
+«Una sarta di Monza»{lucia} dice Lucia. «Io **mi faccio fare** tutto, ormai.»{lucia} || “A seamstress in Monza,” Lucia says. “I **have everything made** now.”
+
+«Tutto?»{nadia} chiede Nadia. || “Everything?” Nadia asks.
+«Il **fiorista**, la sarta, il **parrucchiere**»{lucia} dice Lucia. «E venerdì scorso **mi sono fatta tagliare** i capelli.»{lucia} || “The **florist**, the seamstress, the **hairdresser**,” Lucia says. “And last Friday I **got my hair cut**.”
+«Quindi non fai niente con le tue mani»{chiara} dice Chiara. || “So you're not doing anything with your own hands,” Chiara says.
+Lucia sorride. || Lucia smiles.
+«Ho detto quasi»{lucia} dice. «Non tutto.»{lucia} || “I said almost,” she says. “Not everything.”
+
+E in quel momento, dalla cucina, arriva un odore preciso di **crema** e di **panna**. || And at that moment, from the kitchen, comes a precise smell of **cream** and **whipped cream**.
+Nadia alza il naso come un cane da caccia. || Nadia lifts her nose like a hunting dog.
+«Quello è un dolce grande»{nadia} dice. «Grande e bianco.»{nadia} || “That's a big dessert,” she says. “Big and white.”
+«Non è niente»{lucia} dice Lucia. || “It's nothing,” Lucia says.
+
+Chiara si alza piano e fa un passo verso la cucina. || Chiara stands up slowly and takes a step toward the kitchen.
+«Vado a prendere i bicchieri»{chiara} dice. || “I'll go get the glasses,” she says.
+«I bicchieri sono qui»{lucia} dice Lucia, e li indica sul tavolo. || “The glasses are here,” Lucia says, and points to them on the table.
+«Allora vado a prendere… il pane»{chiara} dice Chiara. || “Then I'll go get… the bread,” Chiara says.
+«Il pane è sul tavolo»{lucia} dice Lucia. || “The bread is on the table,” Lucia says.
+
+Nadia si alza anche lei, con la bambina in braccio. || Nadia stands up too, with the baby in her arms.
+«La bambina ha bisogno di… di vedere la cucina»{nadia} dice Nadia. || “The baby needs to… to see the kitchen,” Nadia says.
+«La bambina ha cinque mesi»{lucia} dice Lucia. || “The baby is five months old,” Lucia says.
+«È molto curiosa»{nadia} dice Nadia. || “She's very curious,” Nadia says.
+
+Lucia si mette davanti alla porta della cucina, le braccia aperte. || Lucia stands in front of the kitchen door, her arms open.
+«Fermi tutte e due»{lucia} dice. «Si può **far sapere** una cosa senza **far vedere** una cosa.»{lucia} || “Stop, both of you,” she says. “You can **let someone know** something without **showing** them something.”
+«E allora **facci sapere**»{chiara} dice Chiara. || “Then **let us know**,” Chiara says.
+«Ve lo **faccio sapere** sabato»{lucia} dice Lucia. || “I'll **let you know** on Saturday,” Lucia says.
+
+Nadia guarda Chiara e Chiara guarda Nadia. || Nadia looks at Chiara and Chiara looks at Nadia.
+_Non ce lo dirà mai._{chiara} || *She'll never tell us.*
+_Mai._{nadia} || *Never.*
+Lucia non si muove dalla porta. || Lucia doesn't move from the door.
+
+Poi, di colpo, Lucia apre la porta un pochino. || Then, suddenly, Lucia opens the door a little bit.
+Dentro, sul tavolo, c'è una **torta** alta **coperta** da un panno bianco. || Inside, on the table, there's a tall **cake** **covered** by a white cloth.
+Accanto, un foglio con un disegno a matita: un **bozzetto**. || Next to it, a sheet with a pencil drawing: a **sketch**.
+«Vedete?»{lucia} dice Lucia. «Non si vede niente.»{lucia} || “See?” Lucia says. “You can't see anything.”
+
+Chiara si avvicina di un passo. || Chiara moves one step closer.
+«E quel foglio?»{chiara} chiede. «È un **bozzetto**?»{chiara} || “And that sheet?” she asks. “Is it a **sketch**?”
+«È la **prova** della **torta**»{lucia} dice Lucia. «Prima disegno, poi faccio.»{lucia} || “It's the **test** of the **cake**,” Lucia says. “First I draw, then I make it.”
+«Quindi l'hai già fatta»{nadia} dice Nadia. «La **torta** è lì.»{nadia} || “So you've already made it,” Nadia says. “The **cake** is there.”
+«È una **prova**»{lucia} ripete Lucia. «Una **prova** piccola.»{lucia} || “It's a **test**,” Lucia repeats. “A small **test**.”
+
+Ma la **torta** sul tavolo non è piccola per niente. || But the **cake** on the table isn't small at all.
+È alta, rotonda, e sotto il panno si intuiscono tre piani. || It's tall, round, and under the cloth you can make out three layers.
+«Quella non è una **prova**»{chiara} dice Chiara. «Quella è la **torta** vera.»{chiara} || “That's not a **test**,” Chiara says. “That's the real **cake**.”
+Lucia copre tutto di nuovo con il panno, in fretta. || Lucia covers everything again with the cloth, quickly.
+
+«È la **torta** del matrimonio»{chiara} dice Chiara. «E non ce la fai vedere.»{chiara} || “It's the wedding **cake**,” Chiara says. “And you won't show it to us.”
+«No»{lucia} dice Lucia, semplice. || “No,” Lucia says, simply.
+«Perché?»{nadia} chiede Nadia. || “Why?” Nadia asks.
+Lucia pensa un momento prima di rispondere. || Lucia thinks a moment before answering.
+
+«Perché questa è mia»{lucia} dice alla fine. «Tutto il resto lo **faccio fare** agli altri.»{lucia} || “Because this one is mine,” she says at last. “Everything else I **have done** by others.”
+«Il **fiorista** fa i fiori»{lucia} continua. «La sarta fa il vestito. Il **parrucchiere** fa i capelli.»{lucia} || “The **florist** does the flowers,” she continues. “The seamstress does the dress. The **hairdresser** does the hair.”
+«E la torta?»{chiara} chiede Chiara, piano. || “And the cake?” Chiara asks, softly.
+«La **torta** la faccio io»{lucia} dice Lucia. «Con le mie mani. Come faceva mia madre.»{lucia} || “The **cake** I make myself,” Lucia says. “With my own hands. Like my mother did.”
+
+Nadia guarda la bambina e poi Lucia. || Nadia looks at the baby and then at Lucia.
+«Va bene»{nadia} dice Nadia. «Capisco.»{nadia} || “All right,” Nadia says. “I understand.”
+«Anch'io»{chiara} dice Chiara. «Mia madre faceva il tiramisù e nessuno poteva guardare.»{chiara} || “Me too,” Chiara says. “My mother made tiramisù and nobody could watch.”
+Lucia annuisce. || Lucia nods.
+
+Poi va al tavolo e prende una scatola di legno. || Then she goes to the table and picks up a wooden box.
+Dentro c'è un abito color crema, quasi finito, con il **colletto** ancora aperto. || Inside there's a cream-colored dress, almost finished, with the **collar** still open.
+«E questa è l'altra cosa mia»{lucia} dice. «L'**orlo** lo faccio a mano.»{lucia} || “And this is my other thing,” she says. “I do the **hem** by hand.”
+Chiara tocca la stoffa. || Chiara touches the fabric.
+«Ancora a mano?»{chiara} chiede. «Non **ti fai fare** l'**orlo** dalla sarta?»{chiara} || “By hand still?” she asks. “Aren't you **having** the **hem** **done** by the seamstress?”
+
+«Me lo **farei fare** volentieri»{lucia} dice Lucia. «Ma l'**orlo** è l'ultima cosa.»{lucia} || “I'd gladly **have** it **done**,” Lucia says. “But the **hem** is the last thing.”
+«L'ultima cosa?»{nadia} chiede Nadia. || “The last thing?” Nadia asks.
+«Quando cuci l'**orlo**, il vestito è finito»{lucia} dice Lucia. «E allora è vero.»{lucia} || “When you sew the **hem**, the dress is finished,” Lucia says. “And then it's real.”
+«È vero cosa?»{chiara} chiede Chiara. || “What's real?” Chiara asks.
+«Che mi sposo»{lucia} dice Lucia. || “That I'm getting married,” Lucia says.
+
+Nadia ride e si siede di nuovo con la bambina. || Nadia laughs and sits down again with the baby.
+Lucia apre la scatola del cucito: **aghi**, **fili**, forbici piccole e un ditale d'argento. || Lucia opens the sewing box: **needles**, **threads**, small scissors and a silver thimble.
+Prende un **ago** e un **filo** color crema. || She takes a **needle** and a cream-colored **thread**.
+«Guardate»{lucia} dice. «Così.»{lucia} || “Watch,” she says. “Like this.”
+
+Infila il **filo** nell'**ago** in due secondi. || She threads the **thread** into the **needle** in two seconds.
+Poi comincia a **cucire** l'**orlo** con punti piccolissimi. || Then she starts to **sew** the **hem** with tiny stitches.
+Le mani si muovono veloci, senza guardare il lavoro. || Her hands move fast, without looking at the work.
+«Come fai?»{nadia} chiede Nadia, stupita. || “How do you do it?” Nadia asks, amazed.
+«Cinquant'anni di **ago** e **filo**»{lucia} dice Lucia. «La mano sa.»{lucia} || “Fifty years of **needle** and **thread**,” Lucia says. “The hand knows.”
+
+Chiara guarda le mani di Lucia e poi guarda le sue. || Chiara watches Lucia's hands and then looks at her own.
+_Potrei farlo anch'io. Forse._{chiara} || *I could do it too. Maybe.*
+«Posso provare?»{chiara} chiede Chiara. || “Can I try?” Chiara asks.
+«Certo»{lucia} dice Lucia, e le passa l'**ago**. || “Of course,” Lucia says, and passes her the **needle**.
+Chiara fa tre punti e il **filo** si annoda subito. || Chiara makes three stitches and the **thread** knots right away.
+
+«Non è facile»{chiara} dice Chiara. || “It's not easy,” Chiara says.
+«Nessuno ha detto che è facile»{lucia} dice Lucia. «Ho detto che è mio.»{lucia} || “Nobody said it was easy,” Lucia says. “I said it was mine.”
+Nadia prende la bambina e la mette sul tavolo, piano. || Nadia takes the baby and lays her on the table, gently.
+«Anche la bambina è tua»{nadia} dice Nadia. «Ma la culla l'hai comprata.»{nadia} || “The baby is yours too,” Nadia says. “But you bought the crib.”
+«La culla sì»{lucia} dice Lucia, e ride. «Per fortuna.»{lucia} || “The crib, yes,” Lucia says, and laughs. “Thankfully.”
+
+Lucia finisce l'ultimo punto e taglia il **filo** con i denti. || Lucia finishes the last stitch and cuts the **thread** with her teeth.
+Poi alza l'abito e lo guarda controluce. || Then she lifts the dress and looks at it against the light.
+L'**orlo** è dritto, pulito, perfetto. || The **hem** is straight, clean, perfect.
+«Fatto»{lucia} dice. «**Coperto**, **cucito**, finito.»{lucia} || “Done,” she says. “**Covered**, **sewn**, finished.”
+
+Chiara si alza e prende il **mazzo** di **rose** che è arrivato stamattina. || Chiara stands up and takes the **bouquet** of **roses** that arrived this morning.
+È il **mazzo** piccolo, quello per la madre di Lucia. || It's the small **bouquet**, the one for Lucia's mother.
+«Questo lo porti tu al cimitero?»{chiara} chiede. || “Are you taking this to the cemetery?” she asks.
+«Sì»{lucia} dice Lucia. «Domani mattina.»{lucia} || “Yes,” Lucia says. “Tomorrow morning.”
+«Vengo anch'io»{chiara} dice Chiara. || “I'll come too,” Chiara says.
+
+Lucia la guarda a lungo, senza dire niente. || Lucia looks at her for a long time, without saying anything.
+Poi annuisce, una volta sola. || Then she nods, once.
+«Alle otto»{lucia} dice. «Porta le scarpe comode.»{lucia} || “At eight,” she says. “Wear comfortable shoes.”
+«Va bene»{chiara} dice Chiara. || “All right,” Chiara says.
+
+Nadia si alza e mette la bambina nel passeggino. || Nadia stands up and puts the baby in the stroller.
+«Allora»{nadia} dice. «La **torta**. Sabato ce la fai vedere?»{nadia} || “So,” she says. “The **cake**. Will you show it to us on Saturday?”
+«Sabato ve lo **faccio sapere**»{lucia} dice Lucia. || “On Saturday I'll **let** you **know**,” Lucia says.
+«Che vuol dire?»{nadia} chiede Nadia. || “What does that mean?” Nadia asks.
+«Vuol dire che ve lo **faccio sapere**»{lucia} ripete Lucia. || “It means I'll **let** you **know**,” Lucia repeats.
+
+Chiara e Nadia escono e chiudono la porta. || Chiara and Nadia leave and close the door.
+Sul marciapiede si fermano tutte e due. || On the sidewalk they both stop.
+«Non ce lo farà mai vedere»{nadia} dice Nadia. || “She'll never let us see it,” Nadia says.
+«Mai»{chiara} dice Chiara. «E lo sa anche lei.»{chiara} || “Never,” Chiara says. “And she knows it too.”
+Nel corridoio, dietro la porta, Lucia **copre** di nuovo la **torta** con il panno bianco. || In the hallway, behind the door, Lucia **covers** the **cake** again with the white cloth.
+
+# SCENE casa-carter | venerdì sera | kevin, emma, leo, chiara
+Sono le sette e mezza di sera e in cucina c'è odore di cena. || It's seven thirty in the evening and in the kitchen there's the smell of dinner.
+Kevin **indossa** il grembiule blu e mescola il sugo con un cucchiaio di legno. || Kevin **wears** the blue apron and stirs the sauce with a wooden spoon.
+Sul fuoco, in una pentola piccola, scalda la **panna** per il dolce. || On the stove, in a small pot, the **cream** for the dessert is warming.
+Emma ha **coperto** metà del tavolo con fogli bianchi e matite. || Emma has **covered** half the table with white sheets and pencils.
+
+«Papà, vieni qui»{emma} dice Emma. «È pronto.»{emma} || “Dad, come here,” Emma says. “It's ready.”
+«Pronto cosa?»{ben} chiede Kevin, senza girarsi. || “Ready, what?” Kevin asks, without turning around.
+«**Il logo**»{emma} dice Emma. || “**The logo**,” Emma says.
+
+Kevin si gira di colpo e lascia il cucchiaio nel sugo. || Kevin turns around suddenly and leaves the spoon in the sauce.
+_Il **logo**. Finalmente._{ben} || *The **logo**. Finally.*
+Apre il frigo e prende la **crema** per il dolce. || He opens the fridge and takes the **cream** for the dessert.
+Poi si asciuga le mani sul grembiule e si avvicina al tavolo. || Then he dries his hands on his apron and comes closer to the table.
+Leo è seduto sul pavimento con i colori intorno. || Leo is sitting on the floor with the colors around him.
+
+«Prima **faccio vedere** il **bozzetto**»{emma} dice Emma. || “First I'll **show** you the **sketch**,” Emma says.
+Prende un foglio e lo mette davanti a Kevin. || She takes a sheet and puts it in front of Kevin.
+Sul foglio c'è una tazza di caffè, disegnata a matita. || On the sheet there's a coffee cup, drawn in pencil.
+«Questo è il primo, il più semplice»{emma} dice. || “This is the first one, the simplest,” she says.
+«Bello»{ben} dice Kevin. «Ma…»{ben} || “Nice,” Kevin says. “But…”
+
+«Aspetta»{emma} dice Emma. «Questo era solo una **prova**.»{emma} || “Wait,” Emma says. “This was only a **test**.”
+Prende un secondo foglio e lo gira verso di lui. || She takes a second sheet and turns it toward him.
+Sul secondo foglio c'è la tazza, ma dentro la tazza c'è una foglia di tiglio. || On the second sheet there's the cup, but inside the cup there's a linden leaf.
+«Buongiorno, Borgoverde»{emma} dice Emma. «Il tiglio è la strada, il caffè è il bar.»{emma} || “Buongiorno, Borgoverde,” Emma says. “The linden is the street, the coffee is the bar.”
+
+Kevin resta fermo e guarda il foglio per dieci secondi. || Kevin stays still and looks at the sheet for ten seconds.
+«È perfetto»{ben} dice alla fine. || “It's perfect,” he says at last.
+«Non è perfetto»{emma} dice Emma. «Ma è buono.»{emma} || “It's not perfect,” Emma says. “But it's good.”
+«È perfetto»{ben} ripete Kevin. || “It's perfect,” Kevin repeats.
+
+Chiara entra dalla porta con la borsa e si ferma. || Chiara comes in through the door with her bag and stops.
+«Cosa è perfetto?»{chiara} chiede. || “What's perfect?” she asks.
+«Il **logo** di Emma»{ben} dice Kevin. «Guarda.»{ben} || “Emma's **logo**,” Kevin says. “Look.”
+E **fa vedere** il foglio a Chiara, tenendolo alto. || And he **shows** Chiara the sheet, holding it up.
+
+Chiara si avvicina e guarda il disegno. || Chiara comes closer and looks at the drawing.
+«Emma, è molto bello»{chiara} dice. «Davvero.»{chiara} || “Emma, it's very beautiful,” she says. “Really.”
+Emma alza le spalle, ma è contenta. || Emma shrugs, but she's pleased.
+«È una cosa semplice»{emma} dice. «Due colori: verde e nero.»{emma} || “It's a simple thing,” she says. “Two colors: green and black.”
+
+Kevin prende il portafoglio dalla tasca. || Kevin takes his wallet from his pocket.
+«Quanto ti devo?»{ben} chiede. «Trenta? Cinquanta?»{ben} || “How much do I owe you?” he asks. “Thirty? Fifty?”
+Emma lo guarda come se fosse matto. || Emma looks at him as if he were crazy.
+«Zero»{emma} dice. «Non voglio soldi.»{emma} || “Zero,” she says. “I don't want money.”
+«Ma hai lavorato due sere»{ben} dice Kevin. || “But you worked two evenings,” Kevin says.
+
+«La cena è il pagamento»{emma} dice Emma. || “Dinner is the payment,” Emma says.
+«La cena?»{ben} chiede Kevin. || “Dinner?” Kevin asks.
+«Sì. Cucini tu, e io ho il **logo** gratis»{emma} dice Emma. «Affare fatto.»{emma} || “Yes. You cook, and I get the **logo** for free,” Emma says. “Deal done.”
+«Affare fatto»{ben} ripete Kevin. || “Deal done,” Kevin repeats.
+_Questa è la cosa più bella che ho fatto da quando vivo qui._{ben} || *This is the nicest thing I've done since I've lived here.*
+
+Leo si alza dal pavimento e prende una matita nera. || Leo gets up from the floor and takes a black pencil.
+«Manca una cosa»{leo} dice. || “One thing is missing,” he says.
+«Cosa manca?»{emma} chiede Emma. || “What's missing?” Emma asks.
+«Il tram»{leo} dice Leo. || “The tram,” Leo says.
+«Il tram?»{ben} chiede Kevin. || “The tram?” Kevin asks.
+«Come quello del nonno Franco»{leo} dice Leo. «Piccolo piccolo.»{leo} || “Like Grandpa Franco's,” Leo says. “Very small.”
+
+Emma guarda Kevin e Kevin guarda Emma. || Emma looks at Kevin and Kevin looks at Emma.
+«Fallo piccolo»{emma} dice Emma. || “Make it small,” Emma says.
+Leo disegna un tram piccolissimo sotto la tazza. || Leo draws a very small tram under the cup.
+Ci mette dieci secondi e poi alza il foglio. || He takes ten seconds and then lifts the sheet.
+«Ecco»{leo} dice. || “There,” he says.
+
+Kevin guarda i tre disegni sul tavolo. || Kevin looks at the three drawings on the table.
+«Lo teniamo»{emma} dice. «Il tram resta.»{emma} || “We're keeping it,” he says. “The tram stays.”
+«Davvero?»{leo} chiede Leo, felice. || “Really?” Leo asks, happy.
+«Davvero»{ben} dice Kevin. «Il tram è la parte migliore.»{ben} || “Really,” Kevin says. “The tram is the best part.”
+Emma ride e non protesta. || Emma laughs and doesn't protest.
+
+Chiara si siede e guarda Kevin con il foglio in mano. || Chiara sits down and looks at Kevin with the sheet in his hand.
+_Prima voleva pagare una **bottega**. Adesso è contento così._{chiara} || *Before he wanted to pay a **shop**. Now he's happy like this.*
+Kevin mette il **logo** sul frigorifero con una calamita. || Kevin puts the **logo** on the fridge with a magnet.
+
+«Allora»{ben} dice Kevin. «Adesso **mi faccio fare** l'adesivo per la vetrina, **su misura**.»{ben} || “So,” Kevin says. “Now I'm **having** the sticker for the window **made**, **custom-sized**.”
+«Sul vetro?»{emma} chiede Emma. || “On the glass?” Emma asks.
+«Sulla vetrina del bar»{ben} dice Kevin. «Un adesivo grande.»{ben} || “On the bar's window,” Kevin says. “A big sticker.”
+«E chi lo fa?»{chiara} chiede Chiara. || “And who makes it?” Chiara asks.
+«La **bottega** in piazza»{ben} dice Kevin. «**Mi faccio fare** l'adesivo.»{ben} || “The little **shop** in the piazza,” Kevin says. “I'm **having** the sticker **made**.”
+
+Emma si alza e guarda il **logo** sul frigorifero. || Emma gets up and looks at the **logo** on the fridge.
+«Papà»{emma} dice. «L'adesivo lo puoi fare **su misura** per la vetrina.»{emma} || “Dad,” she says. “You can make the sticker **custom-sized** for the window.”
+«Sì, appunto»{ben} dice Kevin. «**Su misura**.»{ben} || “Yes, exactly,” Kevin says. “**Custom-made**.”
+
+Emma prende il foglio dal frigorifero e lo rimette sul tavolo. || Emma takes the sheet from the fridge and puts it back on the table.
+Poi prende la matita e scrive due parole sotto il disegno. || Then she takes the pencil and writes two words under the drawing.
+«Cosa scrivi?»{ben} chiede Kevin. || “What are you writing?” Kevin asks.
+«Il nome»{emma} dice Emma. «Buongiorno, Borgoverde.»{emma} || “The name,” Emma says. “Buongiorno, Borgoverde.”
+
+Kevin guarda la scritta e poi guarda Emma. || Kevin looks at the writing and then looks at Emma.
+«È già **su misura**»{emma} dice Emma. «È tuo, papà.»{emma} || “It's already **custom-made**,” Emma says. “It's yours, Dad.”
+Kevin non dice niente per un momento. || Kevin says nothing for a moment.
+Poi annuisce e torna al sugo sul fuoco. || Then he nods and goes back to the sauce on the stove.
+La **panna** è ancora lì, il dolce aspetta, e sul tavolo c'è il **bozzetto** con il tram. || The **cream** is still there, the dessert is waiting, and on the table there's the **sketch** with the tram.
+
+# SCENE bar-tigli | sabato mattina | matteo, nadia, kevin, franco
+Sabato mattina il Bar Tigli è pieno e Kevin è dietro il bancone. || Saturday morning Bar Tigli is full and Kevin is behind the counter.
+La porta si apre e entra Franco. || The door opens and Franco comes in.
+**Indossa** un **completo** grigio, vecchio ma perfetto, con il **colletto** della camicia ben dritto. || He **wears** a gray **suit**, old but perfect, with his shirt **collar** straight.
+I capelli sono corti ai lati e la **barba** è più corta di ieri. || His hair is short at the sides and his **beard** is shorter than yesterday.
+
+Tutti si girano a guardarlo. || Everyone turns to look at him.
+Franco fa finta di niente e va verso il bancone. || Franco pretends not to notice and goes toward the counter.
+«Buongiorno»{franco} dice. «Un caffè.»{franco} || “Good morning,” he says. “A coffee.”
+«Buongiorno, signor Ferri»{nadia} dice Nadia, e sorride. «Bel **taglio**.»{nadia} || “Good morning, signor Ferri,” Nadia says, and smiles. “Nice **haircut**.”
+«Questo **taglio** è di quarantacinque anni fa»{franco} dice Franco. || “This **haircut** is forty-five years old,” Franco says.
+
+Matteo esce dalla cucina e si ferma. || Matteo comes out of the kitchen and stops.
+«Papà, sei stato dal **parrucchiere**?»{matteo} chiede. || “Dad, have you been to the **hairdresser**?” he asks.
+«In un **salone**»{franco} dice Franco. «Con la musica.»{franco} || “In a **salon**,” Franco says. “With music.”
+«E la **tinta**?»{matteo} chiede Matteo. || “And a **rinse**?” Matteo asks.
+«Mai»{franco} dice Franco. || “Never,” Franco says.
+
+Matteo indica il muro sopra la macchina del caffè. || Matteo points at the wall above the coffee machine.
+Sopra la macchina c'è un cartoncino nuovo con il **logo** di Kevin. || Above the machine there's a new card with Kevin's **logo**.
+«Guarda, **socio**»{matteo} dice. «Il **logo** del bar.»{matteo} || “Look, **partner**,” he says. “The bar's **logo**.”
+Franco guarda il cartoncino per un momento lungo. || Franco looks at the card for a long moment.
+
+«Il Bar Tigli non ha mai avuto un **logo** in quarant'anni»{franco} dice. || “Bar Tigli has never had a **logo** in forty years,” he says.
+«Lo so»{matteo} dice Matteo. «Adesso ce l'ha.»{matteo} || “I know,” Matteo says. “Now it has one.”
+Franco guarda ancora la tazza e la foglia di tiglio. || Franco looks again at the cup and the linden leaf.
+«Chi l'ha fatto?»{franco} chiede. || “Who made it?” he asks.
+«Emma»{ben} dice Kevin. «Disegna lei.»{ben} || “Emma,” Kevin says. “She draws it.”
+
+Franco prende il telefono dalla tasca. || Franco takes his phone from his pocket.
+«Le telefono»{franco} dice. «Per ringraziarla.»{franco} || “I'll call her,” he says. “To thank her.”
+Nadia e Matteo si guardano e non dicono niente. || Nadia and Matteo look at each other and say nothing.
+Kevin **cuoce** l'ultimo cornetto e finge di lavorare. || Kevin **bakes** the last croissant and pretends to work.
+Nessuno nel bar respira. || Nobody in the bar breathes.
+
+@grammar
+# Fare + infinitive: "to have something done"
+
+## What it is
+
+Italian has a very useful pattern: **fare + infinitive**. Instead of doing something yourself, you *make* or *have* someone else do it. English often uses "have" or "get":
+
+- *Mi faccio fare un vestito.* — I'm having a suit made.
+- *Faccio riparare la macchina.* — I'm having the car fixed.
+
+In this episode everyone is having things done by other people: Franco has a suit made by his old tailor, he has his hair cut in a salon, Lucia has flowers, hair and dress done by professionals — and only the cake she makes herself.
+
+## How it works
+
+**1. fare + infinitive = "to have something done"**
+
+| Italian | English |
+|---|---|
+| Faccio riparare il tetto. | I'm having the roof fixed. |
+| Faccio cucire l'orlo. | I'm having the hem sewn. |
+| Facciamo vedere il disegno. | We're showing the design. |
+
+Here *fare* means "to arrange, to order", and the action is done by somebody else. If you want to say **who** does the work, use **da** + person: *Faccio cucire l'orlo dal sarto.* — I'm having the hem sewn by the tailor.
+
+**2. farsi + infinitive = "to have something done for oneself"**
+
+When the person who benefits is the same as the subject, Italian adds the reflexive pronoun **si** (or **mi, ti, ci, vi**):
+
+- *Mi faccio fare un abito.* — I'm having a suit made (for me).
+- *Si fa tagliare i capelli.* — He's having his hair cut.
+- *Ti fai fare un logo?* — Are you having a logo made?
+
+| Person | Form | Example |
+|---|---|---|
+| io | mi faccio | mi faccio tagliare i capelli |
+| tu | ti fai | ti fai fare il vestito |
+| lui/lei | si fa | si fa fare le scarpe |
+| noi | ci facciamo | ci facciamo portare il caffè |
+| voi | vi fate | vi fate cucire l'orlo |
+| loro | si fanno | si fanno fare le foto |
+
+**3. Far vedere, far sapere**
+
+Two expressions from this chapter are causatives you'll hear every day: **far vedere** ("to show", literally "to make someone see") and **far sapere** ("to let someone know"). With pronouns they become one word: *Mi fa vedere il disegno. Ti faccio sapere domani. Ve lo faccio sapere sabato.*
+
+**Note the pronoun order:** with *fare*, the indirect pronoun (*mi, ti, ci, vi, gli, le*) comes before the verb. Before another pronoun, *mi, ti, ci, vi* become **me, te, ce, ve**: *Ve lo faccio sapere* (I'll let you know it).
+
+## From the story
+
+[[Mi faccio fare un logo!]] — The whole pattern in one line: *fare* + infinitive, with *mi* = for himself.
+[[Faccio fare tutto lì.]] — *Faccio fare* = I'm having it all done, no reflexive, no named doer.
+[[Mi faccio fare un abito dal mio sarto.]] — Adds **da** + person: who actually makes the suit.
+[[Venerdì mi faccio tagliare i capelli.]] — *farsi tagliare*: having something done to your own body.
+[[E farsi fare un completo vuol dire pagare qualcuno per farlo.]] — Lucia explains the meaning: paying someone else to do it.
+[[Ti faccio sapere domani]] — *far sapere* = to let someone know, with the pronoun in front.
+[[Vi faccio sapere io, quando è pronto.]] — *Vi* + *faccio sapere*: I'll let you know, when it's ready.
+[[Sì. Faccio fare una prova anche a te.]] — *fare* used for arranging a fitting for someone else.
+
+## Common mistakes
+
+- **"Faccio fare un vestito a me"** → say *Mi faccio fare un vestito*. The reflexive pronoun is what makes it "for myself".
+- **"Mi faccio un vestito"** (without *fare*) means "I make myself a dress" — you are sewing it! If the tailor does it, you need two verbs: *mi faccio fare*.
+- **"Faccio fare da sarto"** → the person is *dal sarto*, not *da sarto*.
+- **"Ti faccio sapere a te"** → redundant. *Ti faccio sapere* is enough; *a te* is added only for emphasis.
+- **Word order with two pronouns:** *Ti lo faccio sapere* is wrong. Say *Te lo faccio sapere*.
+- Don't confuse *fare* with *lasciare* ("to let"). *Lascio cucire l'orlo* means "I let (someone) sew the hem", a different meaning.
+
+## Practice
+
+Rewrite or complete each sentence.
+
+1. (io / tagliare i capelli) — Domani ______ i capelli dal parrucchiere.
+2. (noi / fare la torta da Lucia) — ______ fare la torta da Lucia.
+3. (lui / riparare la macchina) — Si ______ riparare la macchina.
+4. Choose: *ti faccio vedere* or *ti faccio vedere a te*? — Il disegno ______ domani.
+5. Turn into a causative: *La sarta cuce l'orlo.* → *______ cucire l'orlo dalla sarta.*
+6. (voi / far sapere) — Quando è pronto, ______ lo ______.
+7. Translate: "I'm having a suit made by my tailor."
+8. Correct: *Mi faccio un completo dal sarto.*
+
+### Answer key
+
+1. mi faccio tagliare
+2. Ci facciamo
+3. fa
+4. ti faccio vedere
+5. Faccio
+6. ve lo fate sapere (or: ve lo farete sapere)
+7. Mi faccio fare un abito dal mio sarto.
+8. Mi faccio fare un completo dal sarto. (Without *fare*, it sounds like you sew it yourself.)
