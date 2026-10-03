@@ -344,6 +344,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara silently counts seven scatole in Franco's hallway; Lucia says she carried them there one at a time, and Chiara photographs them. Kevin's quaderno giallo is at entry 57.
 - **Planted:** The scatole in Franco's house remain unexplained in detail (open thread).
 
+### s03e03 · Ogni estate
+- **Happened:** Sunday lunch at Franco's turns into a Ferri siblings' argument over childhood summers; Matteo finds a shoebox of photos, a shell with sand, and a receipt reading "Pensione Aurora, agosto"; Chiara and Matteo take it to Franco, who settles it. Franco is guest of honor at Leo's school Grandparents' Day (Thursday) and talks about 1960s school. Franco gives the shoebox to Chiara.
+- **New facts:** Family summers were at Pensione Aurora, Levanto, for thirty years, same table by the window, with Signora Elena and her small dog; Franco's first car blue, second red; two trips by corriera in 1989; zia Rita and the cugini joined the last ten days in a rented house; Chiara found the shell aged four; Anna kept sand and shells in a jar near the stove; Franco born 1950, Leo 2017; Leo's teacher is maestra Paola.
+- **Changed:** Chiara now owns Anna's shoebox; Franco reveals Anna cried each last day.
+- **Planted:** none.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
