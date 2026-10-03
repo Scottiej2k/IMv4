@@ -135,7 +135,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara mette giù la penna. | Chiara puts down the pen. |
 | «Perché era la sua **abitudine**» dice. «Cucinava a occhio.» | “Because it was her **habit**,” she says. “She cooked by eye.” |
 | «A occhio?» chiede Leo. «Con gli occhi?» | “By eye?” Leo asks. “With her eyes?” |
-| «Vuol dire senza misurare» dice Chiara. «Sentiva il **sapore** e basta.» | “It means without measuring,” Chiara says. “She just felt the taste.” |
+| «Vuol dire senza misurare» dice Chiara. «Sentiva il sapore e basta.» | “It means without measuring,” Chiara says. “She just felt the taste.” |
 | Kevin scrive anche questo nel quaderno giallo. | Kevin writes this in the yellow notebook too. |
 | «Cucinava a occhio» ripete piano. «Bello.» | “She cooked by eye,” he repeats quietly. “Nice.” |
 | Leo prende il quaderno dei fatti strani dalla sedia. | Leo takes the notebook of strange facts from the chair. |
@@ -146,7 +146,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Domani faccio le lasagne della mamma» dice Chiara. | “Tomorrow I'm making Mom's lasagna,” Chiara says. |
 | «Posso aiutare?» chiede Kevin. «Mi piace cucinare. E faccio anche i pancakes.» | “Can I help?” Kevin asks. “I like cooking. And I also make pancakes.” |
 | «No, grazie» dice Chiara. «Faccio da sola.» | “No, thanks,” Chiara says. “I'll do it alone.” |
-| «Da sola? Con nove persone a pranzo?» | “Alone? With nine people at lunch?” |
+| «Da sola? Con otto persone a pranzo?» | “Alone? With eight people at lunch?” |
 | «Sì» dice Chiara. «Da sola.» | “Yes,” Chiara says. “Alone.” |
 | Kevin alza le mani, come per dire: va bene. | Kevin raises his hands, as if to say: all right. |
 | Poi va all'armadio e prende una **ciotola** grande. | Then he goes to the cupboard and takes a big **bowl**. |
@@ -353,20 +353,20 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara la guarda. | Chiara looks at her. |
 | «Come fai a saperlo?» chiede. | “How do you know that?” she asks. |
 | Lucia **versa** il sugo nella pentola, piano. | Lucia **pours** the sauce into the pot, slowly. |
-| «Perché me l'ha dato lei» dice. «Tanti anni fa, al mercato.» | “Because she gave it to me,” she says. “Many years ago, at the market.” |
+| «Perché me l'ha data Franco» dice. «Una sera, con un foglietto.» | “Because Franco gave it to me,” she says. “One evening, on a little slip of paper.” |
 | Chiara non dice niente. | Chiara says nothing. |
-| «Ero nuova qui» continua Lucia. «Tu eri a scuola, tuo padre lavorava.» | “I was new here,” Lucia continues. “You were at school, your father was working.” |
-| «E mia madre?» | “And my mother?” |
-| «Tua madre era al mercato, come me, il martedì» dice Lucia. «Ci siamo conosciute così.» | “Your mother was at the market, like me, on Tuesdays,” Lucia says. “That's how we met.” |
+| «Ho chiesto a tuo padre come cucinava Anna» continua Lucia. «Lui ha scritto questo sugo, a memoria.» | “I asked your father how Anna cooked,” Lucia continues. “He wrote this sauce down, from memory.” |
+| «E ti ha detto altre cose di lei?» | “And did he tell you other things about her?” |
+| «Poche. Ma abbastanza» dice Lucia. «Sette strati e un pizzico in più.» | “A few. But enough,” Lucia says. “Seven layers and a pinch extra.” |
 | Chiara mescola il sugo con il **mestolo**. | Chiara stirs the sauce with the **mestolo**. |
-| «E lei ti ha dato questa ricetta» dice. | “And she gave you this recipe,” she says. |
-| «Sì» dice Lucia. «Scritta su un foglietto. Io l'ho ancora.» | “Yes,” Lucia says. “Written on a little slip of paper. I still have it.” |
+| «E papà ti ha dato questa ricetta» dice. | “And Dad gave you this recipe,” she says. |
+| «Sì» dice Lucia. «Con la sua scrittura storta. Io l'ho ancora.» | “Yes,” Lucia says. “In his crooked handwriting. I still have it.” |
 | «Perché non me l'hai mai detto?» chiede Chiara. | “Why did you never tell me?” Chiara asks. |
 | «Perché non era il momento» dice Lucia. «E perché certe cose si dicono in cucina.» | “Because it wasn't the moment,” Lucia says. “And because some things you say in the kitchen.” |
 | Chiara continua a mescolare. Il sugo è denso e rosso. | Chiara keeps stirring. The sauce is thick and red. |
 | «Adesso **copri** il fondo della **teglia**» legge Chiara. | “Now **cover** the bottom of the **baking dish**,” Chiara reads. |
 | Versa un mestolo di sugo nella teglia. | She pours a ladle of sauce into the dish. |
-| «Poi le lasagne» dice Lucia. | “Then the **lasagna**,” Lucia says. |
+| «Poi le lasagne» dice Lucia. | “Then the lasagna,” Lucia says. |
 | Chiara mette le strisce una accanto all'altra. | Chiara lays the strips side by side. |
 | «**Aggiungi** il parmigiano» dice Lucia. «E poi ancora sugo.» | “**Add** the parmesan,” Lucia says. “And then more sauce.” |
 | Strati, uno sopra l'altro. Pasta, sugo, parmigiano. | Layers, one on top of another. Pasta, sauce, parmesan. |
@@ -406,8 +406,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | A mezzogiorno e mezza la casa di Franco è piena di gente. | At half past twelve Franco's house is full of people. |
-| In cucina ci sono nove piatti e nove bicchieri. | In the kitchen there are nine plates and nine glasses. |
-| Al centro del tavolo c'è la **teglia** con le **lasagne**. | In the center of the table is the baking dish with the **lasagna**. |
+| In cucina ci sono otto piatti e otto bicchieri. | In the kitchen there are eight plates and eight glasses. |
+| Al centro del tavolo c'è la teglia con le lasagne. | In the center of the table is the baking dish with the lasagna. |
 | Il profumo di **sugo** e **parmigiano** riempie tutta la stanza. | The smell of **sauce** and **parmesan** fills the whole room. |
 | Franco si siede in fondo al tavolo. Guarda la teglia. | Franco sits at the head of the table. He looks at the dish. |
 | Nessuno parla. Tutti aspettano. | Nobody speaks. Everyone waits. |
@@ -486,14 +486,14 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Lucia lo **copre** con un coperchio. | Lucia **covers** it with a lid. |
 | «Questo lo teniamo per stasera» dice. «Si **cuoce** ancora un po' e diventa più buono.» | “We'll keep this for tonight,” she says. “It **cooks** a little more and gets better.” |
 | «Basta con il **pizzico** di sale» dice Chiara. «La mamma ne metteva sempre uno in più.» | “Enough with the **pinch** of salt,” Chiara says. “Mom always put in one extra.” |
-| «Lo so» dice Lucia. «Me lo diceva sempre anche a me.» | “I know,” Lucia says. “She always told me that too.” |
+| «Lo so» dice Lucia. «Me lo dice sempre anche Franco.» | “I know,” Lucia says. “Franco always tells me that too.” |
 | Chiara guarda Lucia. Poi guarda la pentola. | Chiara looks at Lucia. Then she looks at the pentola. |
 | «Allora è una **tradizione**» dice. «Anche il pizzico in più.» | “Then it's a **tradition**,” she says. “Even the extra pinch.” |
 | «È un'**abitudine** di famiglia» dice Lucia. | “It's a family **habit**,” Lucia says. |
 | Franco si alza e comincia a sparecchiare i piatti. | Franco gets up and starts clearing the plates. |
 | Emma prende i bicchieri. Leo porta i tovaglioli. | Emma takes the glasses. Leo carries the napkins. |
 | Chiara resta seduta un momento, con il caffè in mano. | Chiara stays seated for a moment, with her coffee in her hand. |
-| Guarda il padre, Lucia, i ragazzi, sua cognata. | She looks at her father, Lucia, the kids, her sister-in-law. |
+| Guarda il padre, Lucia, i ragazzi, Nadia. | She looks at her father, Lucia, the kids, Nadia. |
 | Pensa: _La cucina di papà è di nuovo piena._ | She thinks: _Dad's kitchen is full again._ |
 | Pensa: _Come quella di prima, forse. Ma con una cosa nuova._ | She thinks: _Like the one before, maybe. But with something new._ |
 | Poi si alza anche lei e porta il vassoio in cucina. | Then she gets up too and carries the tray into the kitchen. |

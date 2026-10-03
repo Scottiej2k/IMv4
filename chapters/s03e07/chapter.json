@@ -12600,7 +12600,7 @@
           "segments": [
             {
               "id": "s03e07-2-047",
-              "it": "«Vuol dire senza misurare» dice Chiara. «Sentiva il **sapore** e basta.»",
+              "it": "«Vuol dire senza misurare» dice Chiara. «Sentiva il sapore e basta.»",
               "en": "“It means without measuring,” Chiara says. “She just felt the taste.”",
               "voice": [
                 [
@@ -12615,7 +12615,7 @@
                 ],
                 [
                   "chiara",
-                  "Sentiva il **sapore** e basta.",
+                  "Sentiva il sapore e basta.",
                   ""
                 ]
               ],
@@ -12708,7 +12708,7 @@
                 [
                   "sapore",
                   8,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -12735,9 +12735,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-imperative-tu"
               ]
             }
           ]
@@ -13824,12 +13821,12 @@
           "segments": [
             {
               "id": "s03e07-2-058",
-              "it": "«Da sola? Con nove persone a pranzo?»",
-              "en": "“Alone? With nine people at lunch?”",
+              "it": "«Da sola? Con otto persone a pranzo?»",
+              "en": "“Alone? With eight people at lunch?”",
               "voice": [
                 [
                   "ben",
-                  "Da sola? Con nove persone a pranzo?",
+                  "Da sola? Con otto persone a pranzo?",
                   ""
                 ]
               ],
@@ -13870,7 +13867,7 @@
                   ""
                 ],
                 [
-                  "nove",
+                  "otto",
                   3,
                   ""
                 ],
@@ -32589,12 +32586,12 @@
             },
             {
               "id": "s03e07-4-048",
-              "it": "«Perché me l'ha dato lei» dice. «Tanti anni fa, al mercato.»",
-              "en": "“Because she gave it to me,” she says. “Many years ago, at the market.”",
+              "it": "«Perché me l'ha data Franco» dice. «Una sera, con un foglietto.»",
+              "en": "“Because Franco gave it to me,” she says. “One evening, on a little slip of paper.”",
               "voice": [
                 [
                   "lucia",
-                  "Perché me l'ha dato lei",
+                  "Perché me l'ha data Franco",
                   ""
                 ],
                 [
@@ -32604,7 +32601,7 @@
                 ],
                 [
                   "lucia",
-                  "Tanti anni fa, al mercato.",
+                  "Una sera, con un foglietto.",
                   ""
                 ]
               ],
@@ -32645,7 +32642,7 @@
                   ""
                 ],
                 [
-                  "dato",
+                  "data",
                   3,
                   ""
                 ],
@@ -32655,7 +32652,7 @@
                   ""
                 ],
                 [
-                  "lei",
+                  "Franco",
                   4,
                   ""
                 ],
@@ -32675,7 +32672,7 @@
                   ""
                 ],
                 [
-                  "Tanti",
+                  "Una",
                   6,
                   ""
                 ],
@@ -32685,18 +32682,8 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "sera",
                   7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "fa",
-                  8,
                   ""
                 ],
                 [
@@ -32705,7 +32692,17 @@
                   ""
                 ],
                 [
-                  "al",
+                  "con",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "un",
                   9,
                   ""
                 ],
@@ -32715,7 +32712,7 @@
                   ""
                 ],
                 [
-                  "mercato",
+                  "foglietto",
                   10,
                   ""
                 ],
@@ -32782,12 +32779,12 @@
             },
             {
               "id": "s03e07-4-050",
-              "it": "«Ero nuova qui» continua Lucia. «Tu eri a scuola, tuo padre lavorava.»",
-              "en": "“I was new here,” Lucia continues. “You were at school, your father was working.”",
+              "it": "«Ho chiesto a tuo padre come cucinava Anna» continua Lucia. «Lui ha scritto questo sugo, a memoria.»",
+              "en": "“I asked your father how Anna cooked,” Lucia continues. “He wrote this sauce down, from memory.”",
               "voice": [
                 [
                   "lucia",
-                  "Ero nuova qui",
+                  "Ho chiesto a tuo padre come cucinava Anna",
                   ""
                 ],
                 [
@@ -32797,7 +32794,7 @@
                 ],
                 [
                   "lucia",
-                  "Tu eri a scuola, tuo padre lavorava.",
+                  "Lui ha scritto questo sugo, a memoria.",
                   ""
                 ]
               ],
@@ -32808,7 +32805,7 @@
                   ""
                 ],
                 [
-                  "Ero",
+                  "Ho",
                   0,
                   ""
                 ],
@@ -32818,7 +32815,7 @@
                   ""
                 ],
                 [
-                  "nuova",
+                  "chiesto",
                   1,
                   ""
                 ],
@@ -32828,17 +32825,17 @@
                   ""
                 ],
                 [
-                  "qui",
+                  "a",
                   2,
                   ""
                 ],
                 [
-                  "» ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "continua",
+                  "tuo",
                   3,
                   ""
                 ],
@@ -32848,17 +32845,17 @@
                   ""
                 ],
                 [
-                  "Lucia",
+                  "padre",
                   4,
                   ""
                 ],
                 [
-                  ". «",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "Tu",
+                  "come",
                   5,
                   ""
                 ],
@@ -32868,7 +32865,7 @@
                   ""
                 ],
                 [
-                  "eri",
+                  "cucinava",
                   6,
                   ""
                 ],
@@ -32878,37 +32875,37 @@
                   ""
                 ],
                 [
-                  "a",
+                  "Anna",
                   7,
                   ""
                 ],
                 [
-                  " ",
+                  "» ",
                   -1,
                   ""
                 ],
                 [
-                  "scuola",
+                  "continua",
                   8,
                   ""
                 ],
                 [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "tuo",
-                  9,
-                  ""
-                ],
-                [
                   " ",
                   -1,
                   ""
                 ],
                 [
-                  "padre",
+                  "Lucia",
+                  9,
+                  ""
+                ],
+                [
+                  ". «",
+                  -1,
+                  ""
+                ],
+                [
+                  "Lui",
                   10,
                   ""
                 ],
@@ -32918,8 +32915,58 @@
                   ""
                 ],
                 [
-                  "lavorava",
+                  "ha",
                   11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "scritto",
+                  12,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "questo",
+                  13,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sugo",
+                  14,
+                  ""
+                ],
+                [
+                  ", ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
+                  15,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "memoria",
+                  16,
                   ""
                 ],
                 [
@@ -32935,12 +32982,12 @@
           "segments": [
             {
               "id": "s03e07-4-051",
-              "it": "«E mia madre?»",
-              "en": "“And my mother?”",
+              "it": "«E ti ha detto altre cose di lei?»",
+              "en": "“And did he tell you other things about her?”",
               "voice": [
                 [
                   "chiara",
-                  "E mia madre?",
+                  "E ti ha detto altre cose di lei?",
                   ""
                 ]
               ],
@@ -32961,7 +33008,7 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "ti",
                   1,
                   ""
                 ],
@@ -32971,8 +33018,58 @@
                   ""
                 ],
                 [
-                  "madre",
+                  "ha",
                   2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "detto",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "altre",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "cose",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "di",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "lei",
+                  7,
                   ""
                 ],
                 [
@@ -32988,12 +33085,12 @@
           "segments": [
             {
               "id": "s03e07-4-052",
-              "it": "«Tua madre era al mercato, come me, il martedì» dice Lucia. «Ci siamo conosciute così.»",
-              "en": "“Your mother was at the market, like me, on Tuesdays,” Lucia says. “That's how we met.”",
+              "it": "«Poche. Ma abbastanza» dice Lucia. «Sette strati e un pizzico in più.»",
+              "en": "“A few. But enough,” Lucia says. “Seven layers and a pinch extra.”",
               "voice": [
                 [
                   "lucia",
-                  "Tua madre era al mercato, come me, il martedì",
+                  "Poche. Ma abbastanza",
                   ""
                 ],
                 [
@@ -33003,7 +33100,7 @@
                 ],
                 [
                   "lucia",
-                  "Ci siamo conosciute così.",
+                  "Sette strati e un pizzico in più.",
                   ""
                 ]
               ],
@@ -33014,17 +33111,17 @@
                   ""
                 ],
                 [
-                  "Tua",
+                  "Poche",
                   0,
                   ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "madre",
+                  "Ma",
                   1,
                   ""
                 ],
@@ -33034,68 +33131,8 @@
                   ""
                 ],
                 [
-                  "era",
+                  "abbastanza",
                   2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "al",
-                  3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mercato",
-                  4,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "come",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "me",
-                  6,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "martedì",
-                  8,
                   ""
                 ],
                 [
@@ -33105,7 +33142,7 @@
                 ],
                 [
                   "dice",
-                  9,
+                  3,
                   ""
                 ],
                 [
@@ -33115,7 +33152,7 @@
                 ],
                 [
                   "Lucia",
-                  10,
+                  4,
                   ""
                 ],
                 [
@@ -33124,38 +33161,68 @@
                   ""
                 ],
                 [
-                  "Ci",
+                  "Sette",
+                  5,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "strati",
+                  6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "e",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "un",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "pizzico",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "in",
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "più",
                   11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "siamo",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "conosciute",
-                  13,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "così",
-                  14,
                   ""
                 ],
                 [
@@ -33258,12 +33325,12 @@
             },
             {
               "id": "s03e07-4-054",
-              "it": "«E lei ti ha dato questa ricetta» dice.",
-              "en": "“And she gave you this recipe,” she says.",
+              "it": "«E papà ti ha dato questa ricetta» dice.",
+              "en": "“And Dad gave you this recipe,” she says.",
               "voice": [
                 [
                   "chiara",
-                  "E lei ti ha dato questa ricetta",
+                  "E papà ti ha dato questa ricetta",
                   ""
                 ],
                 [
@@ -33289,7 +33356,7 @@
                   ""
                 ],
                 [
-                  "lei",
+                  "papà",
                   1,
                   ""
                 ],
@@ -33366,8 +33433,8 @@
           "segments": [
             {
               "id": "s03e07-4-055",
-              "it": "«Sì» dice Lucia. «Scritta su un foglietto. Io l'ho ancora.»",
-              "en": "“Yes,” Lucia says. “Written on a little slip of paper. I still have it.”",
+              "it": "«Sì» dice Lucia. «Con la sua scrittura storta. Io l'ho ancora.»",
+              "en": "“Yes,” Lucia says. “In his crooked handwriting. I still have it.”",
               "voice": [
                 [
                   "lucia",
@@ -33381,7 +33448,7 @@
                 ],
                 [
                   "lucia",
-                  "Scritta su un foglietto. Io l'ho ancora.",
+                  "Con la sua scrittura storta. Io l'ho ancora.",
                   ""
                 ]
               ],
@@ -33422,7 +33489,7 @@
                   ""
                 ],
                 [
-                  "Scritta",
+                  "Con",
                   3,
                   ""
                 ],
@@ -33432,7 +33499,7 @@
                   ""
                 ],
                 [
-                  "su",
+                  "la",
                   4,
                   ""
                 ],
@@ -33442,7 +33509,7 @@
                   ""
                 ],
                 [
-                  "un",
+                  "sua",
                   5,
                   ""
                 ],
@@ -33452,8 +33519,18 @@
                   ""
                 ],
                 [
-                  "foglietto",
+                  "scrittura",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "storta",
+                  7,
                   ""
                 ],
                 [
@@ -33463,16 +33540,6 @@
                 ],
                 [
                   "Io",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "l'ho",
                   8,
                   ""
                 ],
@@ -33482,8 +33549,18 @@
                   ""
                 ],
                 [
-                  "ancora",
+                  "l'ho",
                   9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ancora",
+                  10,
                   ""
                 ],
                 [
@@ -34101,7 +34178,7 @@
             {
               "id": "s03e07-4-061",
               "it": "«Poi le lasagne» dice Lucia.",
-              "en": "“Then the **lasagna**,” Lucia says.",
+              "en": "“Then the lasagna,” Lucia says.",
               "voice": [
                 [
                   "lucia",
@@ -37475,12 +37552,12 @@
             },
             {
               "id": "s03e07-5-002",
-              "it": "In cucina ci sono nove piatti e nove bicchieri.",
-              "en": "In the kitchen there are nine plates and nine glasses.",
+              "it": "In cucina ci sono otto piatti e otto bicchieri.",
+              "en": "In the kitchen there are eight plates and eight glasses.",
               "voice": [
                 [
                   "narrator",
-                  "In cucina ci sono nove piatti e nove bicchieri.",
+                  "In cucina ci sono otto piatti e otto bicchieri.",
                   ""
                 ]
               ],
@@ -37526,7 +37603,7 @@
                   ""
                 ],
                 [
-                  "nove",
+                  "otto",
                   4,
                   ""
                 ],
@@ -37556,7 +37633,7 @@
                   ""
                 ],
                 [
-                  "nove",
+                  "otto",
                   7,
                   ""
                 ],
@@ -37579,12 +37656,12 @@
             },
             {
               "id": "s03e07-5-003",
-              "it": "Al centro del tavolo c'è la **teglia** con le **lasagne**.",
-              "en": "In the center of the table is the baking dish with the **lasagna**.",
+              "it": "Al centro del tavolo c'è la teglia con le lasagne.",
+              "en": "In the center of the table is the baking dish with the lasagna.",
               "voice": [
                 [
                   "narrator",
-                  "Al centro del tavolo c'è la **teglia** con le **lasagne**.",
+                  "Al centro del tavolo c'è la teglia con le lasagne.",
                   ""
                 ]
               ],
@@ -37652,7 +37729,7 @@
                 [
                   "teglia",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -37682,17 +37759,13 @@
                 [
                   "lasagne",
                   9,
-                  "b"
+                  ""
                 ],
                 [
                   ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-teglia",
-                "v-lasagna"
               ]
             },
             {
@@ -45465,8 +45538,8 @@
           "segments": [
             {
               "id": "s03e07-5-082",
-              "it": "«Lo so» dice Lucia. «Me lo diceva sempre anche a me.»",
-              "en": "“I know,” Lucia says. “She always told me that too.”",
+              "it": "«Lo so» dice Lucia. «Me lo dice sempre anche Franco.»",
+              "en": "“I know,” Lucia says. “Franco always tells me that too.”",
               "voice": [
                 [
                   "lucia",
@@ -45480,7 +45553,7 @@
                 ],
                 [
                   "lucia",
-                  "Me lo diceva sempre anche a me.",
+                  "Me lo dice sempre anche Franco.",
                   ""
                 ]
               ],
@@ -45551,7 +45624,7 @@
                   ""
                 ],
                 [
-                  "diceva",
+                  "dice",
                   6,
                   ""
                 ],
@@ -45581,18 +45654,8 @@
                   ""
                 ],
                 [
-                  "a",
+                  "Franco",
                   9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "me",
-                  10,
                   ""
                 ],
                 [
@@ -46241,12 +46304,12 @@
             },
             {
               "id": "s03e07-5-089",
-              "it": "Guarda il padre, Lucia, i ragazzi, sua cognata.",
-              "en": "She looks at her father, Lucia, the kids, her sister-in-law.",
+              "it": "Guarda il padre, Lucia, i ragazzi, Nadia.",
+              "en": "She looks at her father, Lucia, the kids, Nadia.",
               "voice": [
                 [
                   "narrator",
-                  "Guarda il padre, Lucia, i ragazzi, sua cognata.",
+                  "Guarda il padre, Lucia, i ragazzi, Nadia.",
                   ""
                 ]
               ],
@@ -46312,18 +46375,8 @@
                   ""
                 ],
                 [
-                  "sua",
+                  "Nadia",
                   6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cognata",
-                  7,
                   ""
                 ],
                 [

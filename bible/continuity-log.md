@@ -369,10 +369,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Identity of L; Lucia's secret; Chiara to ask Ornella alone. Roberto's committee meeting and dinner at his house remain open; Franco hints at a mystery of his own.
 
 ### s03e07 · Il quaderno della mamma
-- **Happened:** Chiara finds her mother Anna's handwritten recipe notebook in Franco's kitchen drawer and copies every page. On Sunday she cooks Anna's lasagne alone at Via dei Tigli 14, then serves them at Franco's Sunday lunch. Franco refuses to keep the notebook and tells Chiara to keep it.
-- **New facts:** Lucia is moving boxes of her things into Franco's house ("una cosa temporanea", 8+ boxes). Lucia met Anna at the Tuesday market years ago; Anna gave her the sugo recipe on a foglietto Lucia still has. Anna always made seven layers and an extra pinch of salt. Leo has a cast on his right arm. Nadia is pregnant; Matteo jokes about eating for the baby.
-- **Changed:** Chiara accepts Lucia's help and her place in Anna's kitchen; the notebook now lives with Chiara's family. Nadia's pregnancy is now openly referred to at the family table.
-- **Planted:** Lucia's boxes and her slow move into Franco's house — unresolved (Chiara has not asked).
+- **Happened:** Chiara finds her mother Anna's handwritten recipe notebook in Franco's kitchen drawer; eight boxes of Lucia's things are already in Franco's house. Sunday she makes Anna's lasagne with Lucia's help; Franco says it tastes exactly like Anna's.
+- **New facts:** Anna's notebook: yellow cover, old sauce stain, recipes with no quantities ("quanto basta", "a occhio"), always seven layers and an extra pinch of salt. Franco gave Lucia his own handwritten sugo recipe on a slip of paper; Lucia still has it. Lucia brought her own sugo and parmigiano. Franco leaves the notebook with Chiara.
+- **Changed:** Chiara accepts Lucia in Anna's kitchen and cooks with her; Lucia's boxes in Franco's house are openly temporary. Chiara now owns the notebook.
+- **Planted:** Lucia moving into Via dei Tigli 9 ("solo una cosa temporanea") — needs a payoff; Leo's "quaderno dei fatti strani" is now at fact 23, and he writes his own recipe ("quanto basta").
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

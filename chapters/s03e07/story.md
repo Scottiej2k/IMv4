@@ -126,7 +126,7 @@ Chiara mette giù la penna. «Perché era la sua **abitudine**» dice. «Cucinav
 
 «A occhio?» chiede Leo. «Con gli occhi?»
 
-«Vuol dire senza misurare» dice Chiara. «Sentiva il **sapore** e basta.»
+«Vuol dire senza misurare» dice Chiara. «Sentiva il sapore e basta.»
 
 Kevin scrive anche questo nel quaderno giallo. «Cucinava a occhio» ripete piano. «Bello.»
 
@@ -142,7 +142,7 @@ Leo prende il quaderno dei fatti strani dalla sedia. «Allora scrivo un fatto st
 
 «No, grazie» dice Chiara. «Faccio da sola.»
 
-«Da sola? Con nove persone a pranzo?»
+«Da sola? Con otto persone a pranzo?»
 
 «Sì» dice Chiara. «Da sola.» Kevin alza le mani, come per dire: va bene.
 
@@ -338,15 +338,15 @@ Chiara mette la pentola sul **fornello**. «**Accendi** il fuoco» dice Lucia. �
 
 Chiara la guarda. «Come fai a saperlo?» chiede.
 
-Lucia **versa** il sugo nella pentola, piano. «Perché me l'ha dato lei» dice. «Tanti anni fa, al mercato.» Chiara non dice niente. «Ero nuova qui» continua Lucia. «Tu eri a scuola, tuo padre lavorava.»
+Lucia **versa** il sugo nella pentola, piano. «Perché me l'ha data Franco» dice. «Una sera, con un foglietto.» Chiara non dice niente. «Ho chiesto a tuo padre come cucinava Anna» continua Lucia. «Lui ha scritto questo sugo, a memoria.»
 
-«E mia madre?»
+«E ti ha detto altre cose di lei?»
 
-«Tua madre era al mercato, come me, il martedì» dice Lucia. «Ci siamo conosciute così.»
+«Poche. Ma abbastanza» dice Lucia. «Sette strati e un pizzico in più.»
 
-Chiara mescola il sugo con il **mestolo**. «E lei ti ha dato questa ricetta» dice.
+Chiara mescola il sugo con il **mestolo**. «E papà ti ha dato questa ricetta» dice.
 
-«Sì» dice Lucia. «Scritta su un foglietto. Io l'ho ancora.»
+«Sì» dice Lucia. «Con la sua scrittura storta. Io l'ho ancora.»
 
 «Perché non me l'hai mai detto?» chiede Chiara.
 
@@ -372,7 +372,7 @@ Chiara si alza e prende la caffettiera. «Il caffè della mamma» dice. «Con la
 
 ## 5. Casa di Franco, Via dei Tigli 9 · domenica, ora di pranzo
 
-A mezzogiorno e mezza la casa di Franco è piena di gente. In cucina ci sono nove piatti e nove bicchieri. Al centro del tavolo c'è la **teglia** con le **lasagne**. Il profumo di **sugo** e **parmigiano** riempie tutta la stanza. Franco si siede in fondo al tavolo. Guarda la teglia. Nessuno parla. Tutti aspettano. Franco prende la forchetta e ne prende un pezzo.
+A mezzogiorno e mezza la casa di Franco è piena di gente. In cucina ci sono otto piatti e otto bicchieri. Al centro del tavolo c'è la teglia con le lasagne. Il profumo di **sugo** e **parmigiano** riempie tutta la stanza. Franco si siede in fondo al tavolo. Guarda la teglia. Nessuno parla. Tutti aspettano. Franco prende la forchetta e ne prende un pezzo.
 
 Mangia piano. Mastica. Chiude gli occhi un secondo. Poi posa la forchetta. «È lei» dice.
 
@@ -474,13 +474,13 @@ Dopo il caffè, la tavola è quasi vuota. Nella **pentola** sul fornello è rima
 
 «Basta con il **pizzico** di sale» dice Chiara. «La mamma ne metteva sempre uno in più.»
 
-«Lo so» dice Lucia. «Me lo diceva sempre anche a me.»
+«Lo so» dice Lucia. «Me lo dice sempre anche Franco.»
 
 Chiara guarda Lucia. Poi guarda la pentola. «Allora è una **tradizione**» dice. «Anche il pizzico in più.»
 
 «È un'**abitudine** di famiglia» dice Lucia.
 
-Franco si alza e comincia a sparecchiare i piatti. Emma prende i bicchieri. Leo porta i tovaglioli. Chiara resta seduta un momento, con il caffè in mano. Guarda il padre, Lucia, i ragazzi, sua cognata. Pensa: _La cucina di papà è di nuovo piena._ Pensa: _Come quella di prima, forse. Ma con una cosa nuova._ Poi si alza anche lei e porta il vassoio in cucina.
+Franco si alza e comincia a sparecchiare i piatti. Emma prende i bicchieri. Leo porta i tovaglioli. Chiara resta seduta un momento, con il caffè in mano. Guarda il padre, Lucia, i ragazzi, Nadia. Pensa: _La cucina di papà è di nuovo piena._ Pensa: _Come quella di prima, forse. Ma con una cosa nuova._ Poi si alza anche lei e porta il vassoio in cucina.
 
 ## 6. Casa Carter, Via dei Tigli 14 · domenica sera
 
