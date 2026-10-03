@@ -11776,8 +11776,8 @@
           "segments": [
             {
               "id": "s04e12-1-101",
-              "it": "Kevin chiude la porta e torna dentro. «Era papà,» dice a Matteo.",
-              "en": "Kevin closes the door and goes back inside. “It was Dad,” he says to Matteo.",
+              "it": "Kevin chiude la porta e torna dentro. «Era tuo padre,» dice a Matteo.",
+              "en": "Kevin closes the door and goes back inside. “It was your father,” he says to Matteo.",
               "voice": [
                 [
                   "narrator",
@@ -11786,7 +11786,7 @@
                 ],
                 [
                   "ben",
-                  "Era papà,",
+                  "Era tuo padre,",
                   ""
                 ],
                 [
@@ -11877,8 +11877,18 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "tuo",
                   8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "padre",
+                  9,
                   ""
                 ],
                 [
@@ -11888,16 +11898,6 @@
                 ],
                 [
                   "dice",
-                  9,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "a",
                   10,
                   ""
                 ],
@@ -11907,8 +11907,18 @@
                   ""
                 ],
                 [
-                  "Matteo",
+                  "a",
                   11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Matteo",
+                  12,
                   ""
                 ],
                 [
@@ -45749,12 +45759,12 @@
           "segments": [
             {
               "id": "s04e12-4-074",
-              "it": "«Papà, sono le undici e mezza. E piove da stamattina,» dice Kevin.",
-              "en": "“Dad, it's half past eleven. And it's been raining since this morning,” Kevin says.",
+              "it": "«Franco, sono le undici e mezza. E piove da stamattina,» dice Kevin.",
+              "en": "“Franco, it's half past eleven. And it's been raining since this morning,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Papà, sono le undici e mezza. E piove da stamattina,",
+                  "Franco, sono le undici e mezza. E piove da stamattina,",
                   ""
                 ],
                 [
@@ -45770,7 +45780,7 @@
                   ""
                 ],
                 [
-                  "Papà",
+                  "Franco",
                   0,
                   ""
                 ],
@@ -49259,12 +49269,12 @@
           "segments": [
             {
               "id": "s04e12-4-109",
-              "it": "«Sì, papà, è americano anche il **peperoncino**,» dice Kevin.",
-              "en": "“Yes, Dad, the **chili pepper** is American too,” Kevin says.",
+              "it": "«Sì, Franco, è americano anche il **peperoncino**,» dice Kevin.",
+              "en": "“Yes, Franco, the **chili pepper** is American too,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Sì, papà, è americano anche il **peperoncino**,",
+                  "Sì, Franco, è americano anche il **peperoncino**,",
                   ""
                 ],
                 [
@@ -49290,7 +49300,7 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "Franco",
                   1,
                   ""
                 ],
@@ -54362,12 +54372,12 @@
             },
             {
               "id": "s04e12-5-029",
-              "it": "«Papà, vieni qui,» dice Kevin.",
-              "en": "“Dad, come here,” Kevin says.",
+              "it": "«Franco, vieni qui,» dice Kevin.",
+              "en": "“Franco, come here,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Papà, vieni qui,",
+                  "Franco, vieni qui,",
                   ""
                 ],
                 [
@@ -54383,7 +54393,7 @@
                   ""
                 ],
                 [
-                  "Papà",
+                  "Franco",
                   0,
                   ""
                 ],
@@ -56498,12 +56508,12 @@
           "segments": [
             {
               "id": "s04e12-5-049",
-              "it": "«Papà, sei seduto da mezz'ora,» dice Kevin.",
-              "en": "“Dad, you've been sitting here for half an hour,” Kevin says.",
+              "it": "«Franco, sei seduto da mezz'ora,» dice Kevin.",
+              "en": "“Franco, you've been sitting here for half an hour,” Kevin says.",
               "voice": [
                 [
                   "ben",
-                  "Papà, sei seduto da mezz'ora,",
+                  "Franco, sei seduto da mezz'ora,",
                   ""
                 ],
                 [
@@ -56519,7 +56529,7 @@
                   ""
                 ],
                 [
-                  "Papà",
+                  "Franco",
                   0,
                   ""
                 ],
@@ -61712,12 +61722,12 @@
           "segments": [
             {
               "id": "s04e12-5-098",
-              "it": "«È lo stesso, papà. Fidati.»",
-              "en": "“It's the same, Dad. Trust me.”",
+              "it": "«È lo stesso, Franco. Fidati.»",
+              "en": "“It's the same, Franco. Trust me.”",
               "voice": [
                 [
                   "ben",
-                  "È lo stesso, papà. Fidati.",
+                  "È lo stesso, Franco. Fidati.",
                   ""
                 ]
               ],
@@ -61758,7 +61768,7 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "Franco",
                   3,
                   ""
                 ],
@@ -63771,12 +63781,12 @@
           "segments": [
             {
               "id": "s04e12-5-115",
-              "it": "«Sì, papà,» dice Kevin. «Dopo averlo usato, lo lavo.»",
-              "en": "“Yes, Dad,” Kevin says. “**After** using it, I wash it.”",
+              "it": "«Sì, Franco,» dice Kevin. «Dopo averlo usato, lo lavo.»",
+              "en": "“Yes, Franco,” Kevin says. “**After** using it, I wash it.”",
               "voice": [
                 [
                   "ben",
-                  "Sì, papà,",
+                  "Sì, Franco,",
                   ""
                 ],
                 [
@@ -63807,7 +63817,7 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "Franco",
                   1,
                   ""
                 ],
@@ -70181,12 +70191,12 @@
           "segments": [
             {
               "id": "s04e12-6-009",
-              "it": "«Quarantotto. Ma ne ho mangiati dodici qui, con Matteo.»",
-              "en": "“Forty-eight. But I ate twelve here, with Matteo.”",
+              "it": "«Quarantotto, tra ingredienti e gas.»",
+              "en": "“Forty-eight, between ingredients and gas.”",
               "voice": [
                 [
                   "ben",
-                  "Quarantotto. Ma ne ho mangiati dodici qui, con Matteo.",
+                  "Quarantotto, tra ingredienti e gas.",
                   ""
                 ]
               ],
@@ -70202,12 +70212,12 @@
                   ""
                 ],
                 [
-                  ". ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "Ma",
+                  "tra",
                   1,
                   ""
                 ],
@@ -70217,7 +70227,7 @@
                   ""
                 ],
                 [
-                  "ne",
+                  "ingredienti",
                   2,
                   ""
                 ],
@@ -70227,7 +70237,7 @@
                   ""
                 ],
                 [
-                  "ho",
+                  "e",
                   3,
                   ""
                 ],
@@ -70237,48 +70247,8 @@
                   ""
                 ],
                 [
-                  "mangiati",
+                  "gas",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dodici",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "qui",
-                  6,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "con",
-                  7,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Matteo",
-                  8,
                   ""
                 ],
                 [
@@ -70294,12 +70264,12 @@
           "segments": [
             {
               "id": "s04e12-6-010",
-              "it": "«Quindi hai guadagnato zero?»",
-              "en": "“So you earned zero?”",
+              "it": "«Quindi hai guadagnato dodici euro.»",
+              "en": "“So you earned twelve euros.”",
               "voice": [
                 [
                   "chiara",
-                  "Quindi hai guadagnato zero?",
+                  "Quindi hai guadagnato dodici euro.",
                   ""
                 ]
               ],
@@ -70340,69 +70310,6 @@
                   ""
                 ],
                 [
-                  "zero",
-                  3,
-                  ""
-                ],
-                [
-                  "?»",
-                  -1,
-                  ""
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "id": "s04e12-6-011",
-              "it": "«No. Ho guadagnato dodici euro di cibo.»",
-              "en": "“No. I earned twelve euros of food.”",
-              "voice": [
-                [
-                  "ben",
-                  "No. Ho guadagnato dodici euro di cibo.",
-                  "sorridendo"
-                ]
-              ],
-              "tokens": [
-                [
-                  "«",
-                  -1,
-                  ""
-                ],
-                [
-                  "No",
-                  0,
-                  ""
-                ],
-                [
-                  ". ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Ho",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "guadagnato",
-                  2,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "dodici",
                   3,
                   ""
@@ -70418,12 +70325,85 @@
                   ""
                 ],
                 [
+                  ".»",
+                  -1,
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "id": "s04e12-6-011",
+              "it": "«Sì. E Matteo ha già chiesto la sua parte.»",
+              "en": "“Yes. And Matteo has already asked for his share.”",
+              "voice": [
+                [
+                  "ben",
+                  "Sì. E Matteo ha già chiesto la sua parte.",
+                  "sorridendo"
+                ]
+              ],
+              "tokens": [
+                [
+                  "«",
+                  -1,
+                  ""
+                ],
+                [
+                  "Sì",
+                  0,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "E",
+                  1,
+                  ""
+                ],
+                [
                   " ",
                   -1,
                   ""
                 ],
                 [
-                  "di",
+                  "Matteo",
+                  2,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "ha",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "già",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chiesto",
                   5,
                   ""
                 ],
@@ -70433,8 +70413,28 @@
                   ""
                 ],
                 [
-                  "cibo",
+                  "la",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sua",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "parte",
+                  8,
                   ""
                 ],
                 [
@@ -73670,12 +73670,12 @@
             },
             {
               "id": "s04e12-6-039",
-              "it": "«Senta,» dice Chiara. «Io martedì ho parlato del tuo corso a Marchetti.»",
+              "it": "«Senti,» dice Chiara. «Io martedì ho parlato del tuo corso a Marchetti.»",
               "en": "“Listen,” Chiara says. “On Tuesday I told Marchetti about your course.”",
               "voice": [
                 [
                   "chiara",
-                  "Senta,",
+                  "Senti,",
                   ""
                 ],
                 [
@@ -73696,7 +73696,7 @@
                   ""
                 ],
                 [
-                  "Senta",
+                  "Senti",
                   0,
                   ""
                 ],
@@ -76053,8 +76053,8 @@
           "segments": [
             {
               "id": "s04e12-6-061",
-              "it": "«Lo so. È solo che... questa cosa è mia,» dice Kevin. «Per la prima volta in due anni, una cosa è mia.»",
-              "en": "“I know. It's just that... this thing is mine,” Kevin says. “For the first time in two years, something is mine.”",
+              "it": "«Lo so. È solo che... questa cosa è mia,» dice Kevin. «Per la prima volta da quando sono qui, una cosa è mia.»",
+              "en": "“I know. It's just that... this thing is mine,” Kevin says. “For the first time since I got here, something is mine.”",
               "voice": [
                 [
                   "ben",
@@ -76068,7 +76068,7 @@
                 ],
                 [
                   "ben",
-                  "Per la prima volta in due anni, una cosa è mia.",
+                  "Per la prima volta da quando sono qui, una cosa è mia.",
                   ""
                 ]
               ],
@@ -76229,7 +76229,7 @@
                   ""
                 ],
                 [
-                  "in",
+                  "da",
                   15,
                   ""
                 ],
@@ -76239,7 +76239,7 @@
                   ""
                 ],
                 [
-                  "due",
+                  "quando",
                   16,
                   ""
                 ],
@@ -76249,8 +76249,18 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "sono",
                   17,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "qui",
+                  18,
                   ""
                 ],
                 [
@@ -76260,16 +76270,6 @@
                 ],
                 [
                   "una",
-                  18,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "cosa",
                   19,
                   ""
                 ],
@@ -76279,7 +76279,7 @@
                   ""
                 ],
                 [
-                  "è",
+                  "cosa",
                   20,
                   ""
                 ],
@@ -76289,8 +76289,18 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "è",
                   21,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "mia",
+                  22,
                   ""
                 ],
                 [
@@ -81684,12 +81694,12 @@
           "segments": [
             {
               "id": "s04e12-7-037",
-              "it": "«Sì, papà.»",
-              "en": "“Yes, Dad.”",
+              "it": "«Sì, Franco.»",
+              "en": "“Yes, Franco.”",
               "voice": [
                 [
                   "ben",
-                  "Sì, papà.",
+                  "Sì, Franco.",
                   ""
                 ]
               ],
@@ -81710,7 +81720,7 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "Franco",
                   1,
                   ""
                 ],

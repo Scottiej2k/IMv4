@@ -71,7 +71,7 @@ Watch out: when *senza* is followed by a **noun**, no infinitive is involved: *s
 - «Non lo so,» dice Kevin. «Gli ho lasciato un grembiule sulla sedia, **senza** dirgli niente.» — “I don't know,” Kevin says. “I left him an apron on the chair, **without** telling him anything.” (`s04e12-6-032`) — *senza* + infinitive with an attached pronoun (*dirgli*).
 - «**Invece di** tagliare la **cipolla** grande, tagliatela fine,» dice Kevin. — “**Instead of** cutting the **onion** big, cut it fine,” Kevin says. (`s04e12-3-052`) — *invece di* + infinitive, followed by an imperative.
 - «**Invece di** tagliarla fine, mia nonna la tagliava grande,» dice Matteo. — “**Instead of** cutting it fine, my grandmother cut it big,” Matteo says. (`s04e12-1-052`) — with the pronoun *la* attached to *tagliare*.
-- «Sì, papà,» dice Kevin. «Dopo averlo usato, lo lavo.» — “Yes, Dad,” Kevin says. “**After** using it, I wash it.” (`s04e12-5-115`) — *averlo*: pronoun inside the past infinitive.
+- «Sì, Franco,» dice Kevin. «Dopo averlo usato, lo lavo.» — “Yes, Franco,” Kevin says. “**After** using it, I wash it.” (`s04e12-5-115`) — *averlo*: pronoun inside the past infinitive.
 - «Le ricette vere cambiano sempre,» dice Kevin. «**Prima di** capirlo, ci ho messo dieci anni.» — “Real recipes always change,” Kevin says. “**Before** I understood that, it took me ten years.” (`s04e12-6-023`) — *prima di* + infinitive with an attached pronoun (*capirlo*).
 
 ## Common mistakes English speakers make

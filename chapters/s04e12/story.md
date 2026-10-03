@@ -128,7 +128,7 @@ Fuori la pioggia continua, e sotto la tettoia del bar c'è un uomo con un cappel
 
 «Alle nove esatte.» Franco annuisce e non dice altro.
 
-Kevin chiude la porta e torna dentro. «Era papà,» dice a Matteo.
+Kevin chiude la porta e torna dentro. «Era tuo padre,» dice a Matteo.
 
 «Te l'avevo detto: papà non passa mai per caso,» risponde Matteo.
 
@@ -492,7 +492,7 @@ Kevin prende il **cucchiaio** e assaggia il sugo dalla padella. «Il sugo è pro
 
 In quel momento la porta del bar si apre e entra Franco. Ha ancora il cappello in mano e le scarpe bagnate. «Passavo di qua,» dice, sempre con la stessa voce.
 
-«Papà, sono le undici e mezza. E piove da stamattina,» dice Kevin.
+«Franco, sono le undici e mezza. E piove da stamattina,» dice Kevin.
 
 «Cammino. Fa bene alle ginocchia,» risponde.
 
@@ -530,7 +530,7 @@ Ute guarda Kevin, con gli occhi larghi. «Ha detto "non è male",» dice piano.
 
 Franco intanto prende il **peperoncino** dal tavolo e lo guarda. «Questo è buono,» dice. «Il **peperoncino** non è americano, almeno.»
 
-«Sì, papà, è americano anche il **peperoncino**,» dice Kevin.
+«Sì, Franco, è americano anche il **peperoncino**,» dice Kevin.
 
 «No. Il **peperoncino** è del sud.»
 
@@ -568,7 +568,7 @@ Megan intanto scrive ancora una riga sul suo blocco. Poi strappa il foglio, lo p
 
 Poi Megan prende il telefono e alza la mano. «Foto?» chiede, indicando il tavolo.
 
-«Sì, foto,» dice Kevin. Kevin si mette in mezzo, con il **coperchio** della teglia in mano come un trofeo. Ute a sinistra, Kenji a destra, Megan davanti. Franco resta seduto e non si alza. «Papà, vieni qui,» dice Kevin.
+«Sì, foto,» dice Kevin. Kevin si mette in mezzo, con il **coperchio** della teglia in mano come un trofeo. Ute a sinistra, Kenji a destra, Megan davanti. Franco resta seduto e non si alza. «Franco, vieni qui,» dice Kevin.
 
 «No. Io non sono un allievo,» dice Franco.
 
@@ -592,7 +592,7 @@ Chiara guarda i tre allievi, poi il tavolo, poi Franco. «E papà che cosa ci fa
 
 Franco si alza, con calma, pronto ad andare via subito. «Passavo di qua,» dice Franco, con la sua solita voce.
 
-«Papà, sei seduto da mezz'ora,» dice Kevin.
+«Franco, sei seduto da mezz'ora,» dice Kevin.
 
 «Avevo fame.»
 
@@ -664,7 +664,7 @@ Kevin decide di non approfittare. «Ha detto che la **cottura** era giusta,» di
 
 «Non è lo stesso.»
 
-«È lo stesso, papà. Fidati.»
+«È lo stesso, Franco. Fidati.»
 
 Leo guarda Franco con attenzione, poi tira la manica di Chiara. «Mamma, ma il nonno è venuto per la lezione o per la strada?» chiede Leo.
 
@@ -682,7 +682,7 @@ Franco si alza e prende il cappello. «Adesso vado. La prossima volta porto la *
 
 «Di basilico. Quello vero,» dice Franco, e va verso la porta. Sulla porta si ferma e guarda il **coltello** sul tavolo. «Kevin,» dice Franco. «Il **coltello** va lavato subito, dopo. Non domani.»
 
-«Sì, papà,» dice Kevin. «Dopo averlo usato, lo lavo.» Franco annuisce e esce sotto la pioggia. Leo lo guarda dalla finestra e conta i passi fino a casa Ferri.
+«Sì, Franco,» dice Kevin. «Dopo averlo usato, lo lavo.» Franco annuisce e esce sotto la pioggia. Leo lo guarda dalla finestra e conta i passi fino a casa Ferri.
 
 Chiara si avvicina a Kevin e gli mette una mano sul braccio. «Che cosa hai fatto per farlo restare?» chiede, piano.
 
@@ -752,11 +752,11 @@ Alle sette e mezza la cucina di casa Carter profuma di sugo. Kevin ha portato a 
 
 «E quanto hai speso?»
 
-«Quarantotto. Ma ne ho mangiati dodici qui, con Matteo.»
+«Quarantotto, tra ingredienti e gas.»
 
-«Quindi hai guadagnato zero?»
+«Quindi hai guadagnato dodici euro.»
 
-«No. Ho guadagnato dodici euro di cibo.»
+«Sì. E Matteo ha già chiesto la sua parte.»
 
 Emma alza gli occhi al cielo, ma sorride. «Papà, sei un insegnante,» dice Emma. «Adesso ti chiamano maestro anche gli stranieri.»
 
@@ -796,7 +796,7 @@ Leo mette giù la forchetta e guarda Kevin. «Papà, ma la prossima volta il non
 
 «Che forse torna.»
 
-Emma guarda Kevin per la prima volta senza ironia, ma non dice niente. Chiara mette giù la forchetta e si asciuga la bocca. «Senta,» dice Chiara. «Io martedì ho parlato del tuo corso a Marchetti.»
+Emma guarda Kevin per la prima volta senza ironia, ma non dice niente. Chiara mette giù la forchetta e si asciuga la bocca. «Senti,» dice Chiara. «Io martedì ho parlato del tuo corso a Marchetti.»
 
 Kevin la guarda. «Tu hai fatto che cosa?» chiede Kevin.
 
@@ -828,7 +828,7 @@ Kevin sorride e prende l'ultima **fetta** di pane. «Senti, Chiara,» dice Kevin
 
 «Pensavo di farti un piacere,» dice Chiara.
 
-«Lo so. È solo che... questa cosa è mia,» dice Kevin. «Per la prima volta in due anni, una cosa è mia.»
+«Lo so. È solo che... questa cosa è mia,» dice Kevin. «Per la prima volta da quando sono qui, una cosa è mia.»
 
 Chiara resta in silenzio per un secondo. «Hai ragione,» dice Chiara. «Scusa.»
 
@@ -880,7 +880,7 @@ Kevin non si muove. Matteo non si muove. «Kevin,» dice Franco, senza alzare la
 
 «Non scusarti. Impara.»
 
-«Sì, papà.» Franco prende la tazzina del caffè e resta in piedi.
+«Sì, Franco.» Franco prende la tazzina del caffè e resta in piedi.
 
 Matteo guarda i due, poi guarda la padella coperta sul tavolo. «Papà, e la **cottura**?» chiede Matteo. «L'hai controllata?»
 

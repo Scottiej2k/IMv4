@@ -108,7 +108,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Kevin. La lezione comincia alle nove?» | “Kevin. Does the class start at nine?” |
 | «Alle nove esatte.» | “At nine sharp.” |
 | Franco annuisce e non dice altro. | Franco nods and says nothing else. |
-| Kevin chiude la porta e torna dentro. «Era papà,» dice a Matteo. | Kevin closes the door and goes back inside. “It was Dad,” he says to Matteo. |
+| Kevin chiude la porta e torna dentro. «Era tuo padre,» dice a Matteo. | Kevin closes the door and goes back inside. “It was your father,” he says to Matteo. |
 | «Te l'avevo detto: papà non passa mai per caso,» risponde Matteo. | “I told you: Dad never just happens to pass by,” Matteo answers. |
 | «Lo so. Vuole vedere se sono capace.» | “I know. He wants to see if I'm up to it.” |
 | «E tu sei capace?» | “And are you up to it?” |
@@ -422,7 +422,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | In quel momento la porta del bar si apre e entra Franco. | At that moment the bar door opens and Franco comes in. |
 | Ha ancora il cappello in mano e le scarpe bagnate. | He still has his hat in his hand and wet shoes. |
 | «Passavo di qua,» dice, sempre con la stessa voce. | “I was just passing by,” Franco says, always in the same voice. |
-| «Papà, sono le undici e mezza. E piove da stamattina,» dice Kevin. | “Dad, it's half past eleven. And it's been raining since this morning,” Kevin says. |
+| «Franco, sono le undici e mezza. E piove da stamattina,» dice Kevin. | “Franco, it's half past eleven. And it's been raining since this morning,” Kevin says. |
 | «Cammino. Fa bene alle ginocchia,» risponde. | “I walk. It's good for the knees,” Franco answers. |
 | Franco si avvicina al tavolo e guarda la pasta gialla. | Franco comes close to the table and looks at the yellow dough. |
 | «Che cos'è questa roba?» chiede, con la faccia schifata. | “What is this stuff?” Franco asks, with a disgusted face. |
@@ -457,7 +457,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Megan scrive una parola sul blocco e la mostra a Kevin: *Wow*. | Megan writes a word on the pad and shows it to Kevin: _Wow_. |
 | Franco intanto prende il **peperoncino** dal tavolo e lo guarda. | Franco meanwhile takes the **chili pepper** from the table and looks at it. |
 | «Questo è buono,» dice. «Il **peperoncino** non è americano, almeno.» | “This is good,” Franco says. “The **chili pepper** isn't American, at least.” |
-| «Sì, papà, è americano anche il **peperoncino**,» dice Kevin. | “Yes, Dad, the **chili pepper** is American too,” Kevin says. |
+| «Sì, Franco, è americano anche il **peperoncino**,» dice Kevin. | “Yes, Franco, the **chili pepper** is American too,” Kevin says. |
 | «No. Il **peperoncino** è del sud.» | “No. The **chili pepper** is from the south.” |
 | «Anche l'America ha un sud.» | “America has a south too.” |
 | «Non è lo stesso sud.» | “It's not the same south.” |
@@ -506,7 +506,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin si mette in mezzo, con il **coperchio** della teglia in mano come un trofeo. | Kevin stands in the middle, with the tray's **lid** in his hand like a trophy. |
 | Ute a sinistra, Kenji a destra, Megan davanti. | Ute on the left, Kenji on the right, Megan in front. |
 | Franco resta seduto e non si alza. | Franco stays seated and doesn't get up. |
-| «Papà, vieni qui,» dice Kevin. | “Dad, come here,” Kevin says. |
+| «Franco, vieni qui,» dice Kevin. | “Franco, come here,” Kevin says. |
 | «No. Io non sono un allievo,» dice Franco. | “No. I'm not a student,” Franco says. |
 | «Per la foto, sì.» dice Kevin, e gli mette una mano sulla spalla. | “For the photo, you are,” Kevin says, and puts a hand on his shoulder. |
 | Franco sbuffa, ma non si sposta. | Franco huffs, but doesn't move. |
@@ -526,7 +526,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E papà che cosa ci fa qui?» chiede. | “And what's Dad doing here?” Chiara asks. |
 | Franco si alza, con calma, pronto ad andare via subito. | Franco gets up, calmly, ready to leave right away. |
 | «Passavo di qua,» dice Franco, con la sua solita voce. | “I was just passing by,” Franco says, in his usual voice. |
-| «Papà, sei seduto da mezz'ora,» dice Kevin. | “Dad, you've been sitting here for half an hour,” Kevin says. |
+| «Franco, sei seduto da mezz'ora,» dice Kevin. | “Franco, you've been sitting here for half an hour,” Kevin says. |
 | «Avevo fame.» | “I was hungry.” |
 | «Avevi fame alle undici?» | “You were hungry at eleven?” |
 | «La fame non ha orari.» | “Hunger has no schedule.” |
@@ -575,7 +575,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Non ho detto questo,» dice Franco. | “I didn't say that,” Franco says. |
 | «Hai detto "non è male". È quasi lo stesso.» | “You said 'it's not bad.' It's almost the same.” |
 | «Non è lo stesso.» | “It's not the same.” |
-| «È lo stesso, papà. Fidati.» | “It's the same, Dad. Trust me.” |
+| «È lo stesso, Franco. Fidati.» | “It's the same, Franco. Trust me.” |
 | Leo guarda Franco con attenzione, poi tira la manica di Chiara. | Leo watches Franco carefully, then pulls Chiara's sleeve. |
 | «Mamma, ma il nonno è venuto per la lezione o per la strada?» chiede Leo. | “Mom, but did Grandpa come for the class or for the street?” Leo asks. |
 | «Ha detto che passava di qua,» dice Chiara, guardando Franco. | “He said he was passing by,” Chiara says, looking at Franco. |
@@ -592,7 +592,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Di basilico. Quello vero,» dice Franco, e va verso la porta. | “Of basil. The real one,” Franco says, and heads for the door. |
 | Sulla porta si ferma e guarda il **coltello** sul tavolo. | At the door he stops and looks at the **knife** on the table. |
 | «Kevin,» dice Franco. «Il **coltello** va lavato subito, dopo. Non domani.» | “Kevin,” Franco says. “The **knife** must be washed right away, afterward. Not tomorrow.” |
-| «Sì, papà,» dice Kevin. «Dopo averlo usato, lo lavo.» | “Yes, Dad,” Kevin says. “**After** using it, I wash it.” |
+| «Sì, Franco,» dice Kevin. «Dopo averlo usato, lo lavo.» | “Yes, Franco,” Kevin says. “**After** using it, I wash it.” |
 | Franco annuisce e esce sotto la pioggia. | Franco nods and goes out into the rain. |
 | Leo lo guarda dalla finestra e conta i passi fino a casa Ferri. | Leo watches him from the window and counts the steps to casa Ferri. |
 | Chiara si avvicina a Kevin e gli mette una mano sul braccio. | Chiara comes close to Kevin and puts a hand on his arm. |
@@ -654,9 +654,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora, com'è andata la **lezione di cucina**?» chiede Chiara, servendo il sugo. | “So, how did the **cooking class** go?” Chiara asks, serving the sauce. |
 | «Bene. Tre paganti, non due,» dice Kevin. «Venti euro a testa, sessanta in totale.» | “Well. Three paying students, not two,” Kevin says. “Twenty euros each, sixty in total.” |
 | «E quanto hai speso?» | “And how much did you spend?” |
-| «Quarantotto. Ma ne ho mangiati dodici qui, con Matteo.» | “Forty-eight. But I ate twelve here, with Matteo.” |
-| «Quindi hai guadagnato zero?» | “So you earned zero?” |
-| «No. Ho guadagnato dodici euro di cibo.» | “No. I earned twelve euros of food.” |
+| «Quarantotto, tra ingredienti e gas.» | “Forty-eight, between ingredients and gas.” |
+| «Quindi hai guadagnato dodici euro.» | “So you earned twelve euros.” |
+| «Sì. E Matteo ha già chiesto la sua parte.» | “Yes. And Matteo has already asked for his share.” |
 | Emma alza gli occhi al cielo, ma sorride. | Emma rolls her eyes, but smiles. |
 | «Papà, sei un insegnante,» dice Emma. «Adesso ti chiamano maestro anche gli stranieri.» | “Dad, you're a teacher,” Emma says. “Now even foreigners call you teacher.” |
 | «Anche tu, una volta,» dice Kevin. «Con la grammatica di Leo.» | “You too, once,” Kevin says. “With Leo's grammar.” |
@@ -684,7 +684,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Che forse torna.» | “That maybe he'll come back.” |
 | Emma guarda Kevin per la prima volta senza ironia, ma non dice niente. | Emma looks at Kevin for the first time without irony, but says nothing. |
 | Chiara mette giù la forchetta e si asciuga la bocca. | Chiara puts down her fork and wipes her mouth. |
-| «Senta,» dice Chiara. «Io martedì ho parlato del tuo corso a Marchetti.» | “Listen,” Chiara says. “On Tuesday I told Marchetti about your course.” |
+| «Senti,» dice Chiara. «Io martedì ho parlato del tuo corso a Marchetti.» | “Listen,” Chiara says. “On Tuesday I told Marchetti about your course.” |
 | Kevin la guarda. | Kevin looks at her. |
 | «Tu hai fatto che cosa?» chiede Kevin. | “You did what?” Kevin asks. |
 | «Ho detto che fai **lezioni di cucina** per stranieri al bar. Gli è piaciuta l'idea,» dice Chiara. «Ci penso io, se vuoi un piccolo logo nuovo.» | “I said you run **cooking classes** for foreigners at the bar. He liked the idea,” Chiara says. “I'll handle it, if you want a small new logo.” |
@@ -706,7 +706,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin sorride e prende l'ultima **fetta** di pane. | Kevin smiles and takes the last **slice** of bread. |
 | «Senti, Chiara,» dice Kevin, alla fine. «Ti ringrazio per Marchetti. Ma la prossima volta dimmelo prima.» | “Listen, Chiara,” Kevin says, at last. “Thank you for Marchetti. But next time tell me first.” |
 | «Pensavo di farti un piacere,» dice Chiara. | “I thought I was doing you a favor,” Chiara says. |
-| «Lo so. È solo che... questa cosa è mia,» dice Kevin. «Per la prima volta in due anni, una cosa è mia.» | “I know. It's just that... this thing is mine,” Kevin says. “For the first time in two years, something is mine.” |
+| «Lo so. È solo che... questa cosa è mia,» dice Kevin. «Per la prima volta da quando sono qui, una cosa è mia.» | “I know. It's just that... this thing is mine,” Kevin says. “For the first time since I got here, something is mine.” |
 | Chiara resta in silenzio per un secondo. | Chiara stays silent for a second. |
 | «Hai ragione,» dice Chiara. «Scusa.» | “You're right,” Chiara says. “Sorry.” |
 | Kevin annuisce e prende il **cucchiaio** per finire il sugo nel piatto. | Kevin nods and takes the **spoon** to finish the sauce on his plate. |
@@ -764,7 +764,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Dopo aver** soffritto, l'olio si mette via. Non si lascia sul **fornello**.» | “**After** sautéing, the oil is put away. You don't leave it on the **burner**.” |
 | «Hai ragione. Scusa.» | “You're right. Sorry.” |
 | «Non scusarti. Impara.» | “Don't apologize. Learn.” |
-| «Sì, papà.» | “Yes, Dad.” |
+| «Sì, Franco.» | “Yes, Franco.” |
 | Franco prende la tazzina del caffè e resta in piedi. | Franco takes his coffee cup and stays standing. |
 | Matteo guarda i due, poi guarda la padella coperta sul tavolo. | Matteo looks at the two of them, then at the covered pan on the table. |
 | «Papà, e la **cottura**?» chiede Matteo. «L'hai controllata?» | “Dad, and the **cooking**?” Matteo asks. “Did you check it?” |
