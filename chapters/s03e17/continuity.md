@@ -1,0 +1,5 @@
+### s03e17 · Ci penso io
+- **Happened:** Chiara admits to Franco she can't carry everyone's responsibilities; Franco says they are the family's, not only hers. Kevin takes over Franco's Thursday 5pm knee-doctor visit and the next dinner. Nadia discovers Matteo bought a blue bicycle baby seat, then orders the car seat herself.
+- **New facts:** Chiara's boss is Marchetti at Studio Marchetti, Milan; bank facade job wants glass by Friday, Chiara prefers wood. Franco says he is 72 and drove trams 40 years, six hours daily. Anna Yasmin is three weeks old.
+- **Changed:** Chiara accepts limited help; Franco suggests she rest Sunday, unresolved. Kevin and Emma share a secret: Emma trusts Kevin's judgment over Tommaso's; Chiara knows only that a secret exists. Kevin covers Wednesday mornings at Bar Tigli free.
+- **Planted:** Thursday doctor visit; Friday facade deadline; Chiara's burnout; Emma/Tommaso; Kevin tells Chiara he ordered the car seat (with Matteo's money) on Monday, yet Nadia orders one on Wednesday: unresolved inconsistency, can be a payoff.

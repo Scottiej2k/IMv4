@@ -428,6 +428,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara accepts Lucia living with Franco; the flowered cups are now shared with Lucia (Sundays). Kevin and Franco plan to work "insieme." Franco admits he is happy and afraid.
 - **Planted:** Leo's question "di chi è la forchetta?" left for tomorrow; Pavarotti living in the kids' shelf needs a payoff.
 
+### s03e17 · Ci penso io
+- **Happened:** Chiara admits to Franco she can't carry everyone's responsibilities; Franco says they are the family's, not only hers. Kevin takes over Franco's Thursday 5pm knee-doctor visit and the next dinner. Nadia discovers Matteo bought a blue bicycle baby seat, then orders the car seat herself.
+- **New facts:** Chiara's boss is Marchetti at Studio Marchetti, Milan; bank facade job wants glass by Friday, Chiara prefers wood. Franco says he is 72 and drove trams 40 years, six hours daily. Anna Yasmin is three weeks old.
+- **Changed:** Chiara accepts limited help; Franco suggests she rest Sunday, unresolved. Kevin and Emma share a secret: Emma trusts Kevin's judgment over Tommaso's; Chiara knows only that a secret exists. Kevin covers Wednesday mornings at Bar Tigli free.
+- **Planted:** Thursday doctor visit; Friday facade deadline; Chiara's burnout; Emma/Tommaso; Kevin tells Chiara he ordered the car seat (with Matteo's money) on Monday, yet Nadia orders one on Wednesday: unresolved inconsistency, can be a payoff.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
