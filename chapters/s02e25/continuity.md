@@ -1,0 +1,5 @@
+### s02e25 · Ferragosto
+- **Happened:** The renovation ends; Kevin and Chiara each tell a different version of it at Bar Tigli, at Franco's Ferragosto lunch and at the first dinner in the new kitchen. Emma and Tommaso meet at midnight by the Colombo hedge; they kiss. Roberto sees them from his window.
+- **New facts:** First meal cooked/eaten in the Carters' finished kitchen (15 August, evening). The crooked wall is five centimeters off over two meters; the ceiling has a new crack, "number three hundred." Franco checked the building permit every morning at seven for eight months, including in the January snow. Marco is a friend of Tommaso's. Emma's unused concert ticket is still on the kitchen shelf behind the paint jar.
+- **Changed:** Roberto now knows about Emma and Tommaso, and has told Marina; Marina approves and wants to invite the Carters to dinner. Roberto's condition: the hedge must not be touched.
+- **Planted:** The Roberto–Marina dinner invitation and Roberto's "the hedge doesn't move" rule; Emma and Tommaso's secret now half-known.
