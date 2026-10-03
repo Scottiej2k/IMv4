@@ -554,6 +554,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Ute and Kenji use tu with Kevin; Chiara has told Marchetti about Kevin's cooking course without asking him first; Franco's approval of Kevin begins.
 - **Planted:** Franco's basil ("quello vero") to arrive; grembiule and teglia left for Saturday's class; what Marchetti will make of Kevin's course (Chiara said she'd see to it).
 
+### s04e13 · Sempre più clienti
+- **Happened:** Sunny Side opens in the piazza; Matteo panics over its 5€ American breakfast, then visits with Kevin and Leo and finds the food "flat"; he sets a new goal: the best coffee and the cleanest bathroom in the piazza. By the hedge, Emma and Tommaso talk about comparison and Emma finishes a new song. Monday morning a customer comes to Bar Tigli because the bathroom has four stars.
+- **New facts:** Sunny Side: opened Wednesday, the mayor came to the inauguration, sign lit day and night, free samples from an unnamed waitress, owner from Milan has three locations and arrives in the evening. Bar Tigli has 34 reviews, 26 good. Chiara was in Rome for the studio project, back Thursday. Kevin's cooking class is down to two students (Ute/Monaco, Kenji/Japan, Megan/an exam).
+- **Changed:** Matteo settles: one review a day, supplier stays, no Sunday opening; Kevin adopts Franco's rule to compare only with yesterday. No Lei/tu switch.
+- **Planted:** Leo will bring Pietro to Saturday's cooking class; Sunny Side's possible promotion and Sunday-afternoon opening; Chiara's Rome project.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

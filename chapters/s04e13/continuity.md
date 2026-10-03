@@ -1,0 +1,5 @@
+### s04e13 · Sempre più clienti
+- **Happened:** Sunny Side opens in the piazza; Matteo panics over its 5€ American breakfast, then visits with Kevin and Leo and finds the food "flat"; he sets a new goal: the best coffee and the cleanest bathroom in the piazza. By the hedge, Emma and Tommaso talk about comparison and Emma finishes a new song. Monday morning a customer comes to Bar Tigli because the bathroom has four stars.
+- **New facts:** Sunny Side: opened Wednesday, the mayor came to the inauguration, sign lit day and night, free samples from an unnamed waitress, owner from Milan has three locations and arrives in the evening. Bar Tigli has 34 reviews, 26 good. Chiara was in Rome for the studio project, back Thursday. Kevin's cooking class is down to two students (Ute/Monaco, Kenji/Japan, Megan/an exam).
+- **Changed:** Matteo settles: one review a day, supplier stays, no Sunday opening; Kevin adopts Franco's rule to compare only with yesterday. No Lei/tu switch.
+- **Planted:** Leo will bring Pietro to Saturday's cooking class; Sunny Side's possible promotion and Sunday-afternoon opening; Chiara's Rome project.
