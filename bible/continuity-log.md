@@ -404,6 +404,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara calls Lucia's boxes a "trasloco" to Kevin and admits Franco may not be fine alone, but will not ask him. Franco-Kevin relationship warms slightly.
 - **Planted:** Lucia's move into Franco's house, unresolved; Chiara's confrontation pending. Ornella's blue knitting may be for Nadia's baby. Wednesday bocce lesson; Leo's knitting lesson.
 
+### s03e13 · Sta per nascere!
+- **Happened:** Nadia's labor starts on the morning of 24 December; Kevin drives her through snow, ice and a train strike to the Ospedale di Monza, where she enters the delivery room around 2 p.m. Matteo stays at Bar Tigli with a slow customer, then drives over alone.
+- **New facts:** Lucia has a son who lives in England. The baby's cradle, stroller and diapers are in boxes at Bar Tigli; Matteo brings only the diaper box and a blue bow. Ornella brings a small knitted blanket and a second blue bow. Bar Tigli's door is broken and frozen shut; Matteo leaves a note on it. The baby's sex is not revealed ("Non lo dico").
+- **Changed:** Samira, Lucia and Chiara all call Matteo late; Samira and Lucia agree on it.
+- **Planted:** The birth itself (sex, name) is still pending — the chapter ends with the delivery-room door closed; cradle and stroller remain at the bar.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
