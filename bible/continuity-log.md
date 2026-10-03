@@ -356,6 +356,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco talks about Anna for the first time, to Emma alone. Lucia sees the photo, now displayed next to hers.
 - **Planted:** Franco's Sunday telling (wedding, lemon cake); Matteo's engagement story; Emma to read the research to Chiara.
 
+### s03e05 · Mentre dormivo
+- **Happened:** Leo falls off Tommaso's skateboard in Via dei Tigli and breaks one small forearm bone; he is treated at Ospedale di Monza's pronto soccorso and gets four weeks in a cast. Roberto blames Tommaso at the hospital; Kevin defends him, and Roberto backs down, later signing the cast with the word *pazienza*.
+- **New facts:** Dottoressa Bruni, ER doctor at Monza. Dario, a neighbor, has a dog; Marina, Roberto's wife, spread the news. Franco's pen is from 1978. Pavarotti the cat sleeps on Leo's cast at Bar Tigli. Kevin keeps a yellow notebook of new Italian words (ghiaccio, radiografia, colpa/incidente, amico, osso).
+- **Changed:** Kevin and Tommaso switch to *tu* (Tommaso calls him Kevin, and calls Chiara "Chiara"). Emma sees Kevin defend Tommaso and respects him more. Roberto admits nine years ago he wrongly shouted at a neighbor after Tommaso fell off a bicycle.
+- **Planted:** Emma's video of the fall still exists. Tommaso leaves his skateboard and helmet at the Carters' for a week and will walk Leo to school Monday.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).

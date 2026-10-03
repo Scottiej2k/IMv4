@@ -1,0 +1,5 @@
+### s03e05 · Mentre dormivo
+- **Happened:** Leo falls off Tommaso's skateboard in Via dei Tigli and breaks one small forearm bone; he is treated at Ospedale di Monza's pronto soccorso and gets four weeks in a cast. Roberto blames Tommaso at the hospital; Kevin defends him, and Roberto backs down, later signing the cast with the word *pazienza*.
+- **New facts:** Dottoressa Bruni, ER doctor at Monza. Dario, a neighbor, has a dog; Marina, Roberto's wife, spread the news. Franco's pen is from 1978. Pavarotti the cat sleeps on Leo's cast at Bar Tigli. Kevin keeps a yellow notebook of new Italian words (ghiaccio, radiografia, colpa/incidente, amico, osso).
+- **Changed:** Kevin and Tommaso switch to *tu* (Tommaso calls him Kevin, and calls Chiara "Chiara"). Emma sees Kevin defend Tommaso and respects him more. Roberto admits nine years ago he wrongly shouted at a neighbor after Tommaso fell off a bicycle.
+- **Planted:** Emma's video of the fall still exists. Tommaso leaves his skateboard and helmet at the Carters' for a week and will walk Leo to school Monday.
