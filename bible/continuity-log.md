@@ -518,6 +518,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Ornella is now tu and first-name with Kevin. Franco admits to Gennaro that he dated Lucia for two years; gives him Lucia’s unsent letter, written two months earlier, to read alone. Gennaro has lived in London eight years and visited his mother (Lucia) only at Christmas and Easter this year; he promises June and July visits. Ornella and Gino never emigrated: a 1968 Chicago suitcase sat empty in the attic forty years.
 - **Planted:** Kevin’s answer on the bar partnership is still open. The family Rome trip for June is promised. Lucia’s letter to Gennaro is unread.
 
+### s04e07 · Il posto giusto
+- **Happened:** Chiara prepared three wedding-venue options for Franco and Lucia but Franco rejected all three; Lucia joined the search. Kevin's Saturday foreigner cooking course was set aside for the day.
+- **New facts:** Custode of the Monza villa (thin, ~60s, big key ring) and owner of Da Vittorio in piazza (short, gray-haired, Sunday lunch sacred, spring 1959 grandfather opened it); Da Vittorio closed Sunday mornings, seats 40, 1,800–2,000 euros; Centro civico seats 120, tablecloths/draping need a deroga, no kitchen concession.
+- **Changed:** Franco chose his own orto (Via dei Tigli 9) for the June 21 wedding, ~34 seats, with three conditions; Chiara gave up measuring; Franco left Kevin's cooking-course request at "Vedremo."
+- **Planted:** Kevin's foreigner cooking course still needs a home — possibly Franco's orto; Roberto sends the low-number form and will help Kevin with modules.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
