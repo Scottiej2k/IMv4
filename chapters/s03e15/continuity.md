@@ -1,0 +1,5 @@
+### s03e15 · Un nasino piccolino
+- **Happened:** Anna Yasmin is a newborn; family gathers around her. Kevin covers Matteo's bar mornings for a week; Leo counts Lucia's diminutives (307). Ornella gives Anna a knitted blue golfino with a white manina.
+- **New facts:** Anna Yasmin born Dec 25, year 2; age in days. Signor Dario (hat, dog) calls Matteo's "Caffettino" "una parolaccia in tazza", now street gossip. Kevin coins "cappuccinone" for a red-coated customer. Ornella has cat Pavarotti and knits a blue golfino with white manina; Gino had holey socks she mended Sundays. Lucia invents "nipottino"; Ornella accepts Leo's "nonnina".
+- **Changed:** Franco praises Kevin ("sei bravo") and holds Anna; blames Lucia for his diminutives. Matteo offers Kevin mornings "per sempre" and calls him a fratellino for the bar; Nadia calls it a favor. Open: Ornella's gift, its reveal.
+- **Planted:** Ornella's unfinished gift and "prima il caffè" reveal; Leo's knitting lessons; red-coated customer returns tomorrow; Kevin's drawing of Anna.
