@@ -29,7 +29,7 @@ il ritardo | noun | m | delay | ritardo, ritardi
 l'ingresso | noun | m | entrance | ingresso, ingressi
 @end
 
-# SCENE bar-tigli | 24 dicembre, mattina | nadia, matteo, kevin, samira, lucia
+# SCENE bar-tigli | 24 dicembre, mattina | nadia, matteo, ben, samira, lucia
 È la mattina della vigilia di Natale. || It's Christmas Eve morning.
 Fuori nevica forte, e il cielo è bianco. || Outside it's snowing hard, and the sky is white.
 Nadia cammina piano verso Bar Tigli. || Nadia walks slowly toward Bar Tigli.
@@ -103,14 +103,14 @@ Matteo guarda la caffettiera e poi guarda Nadia. || Matteo looks at the coffee p
 Nadia apre la porta. Fuori la neve è alta. || Nadia opens the door. Outside the snow is deep.
 «Non **sto per** stare qui»{nadia} dice Nadia. «Andiamo!»{nadia} || “I'm not **about to** stay here,” says Nadia. “Let's go!”
 
-# SCENE via | 24 dicembre, mattina | franco, chiara, kevin, nadia, samira, lucia, emma, leo
+# SCENE via | 24 dicembre, mattina | franco, chiara, ben, nadia, samira, lucia, emma, leo
 In Via dei Tigli la neve copre tutto. || On Via dei Tigli the snow covers everything.
 Sotto la neve c'è il **ghiaccio**, e il **ghiaccio** è pericoloso. || Under the snow there's **ice**, and **ice** is dangerous.
 La **bufera** continua, e il vento è forte. || The **blizzard** goes on, and the wind is strong.
 Fa molto **freddo**. Tutti hanno il cappello e la sciarpa. || It's very **cold**. Everyone has a hat and a scarf.
 Kevin arriva con la macchina e si ferma davanti al numero due. || Kevin arrives with the car and stops in front of number two.
 Chiara è già fuori, con il telefono in mano. || Chiara is already outside, phone in hand.
-«Primo: la macchina è piccola»{chiara} dice Chiara. «Secondo: guidi tu?»{chiara} || “First: the car is small,” says Chiara. “Second: you're driving?”
+«Primo: la macchina è grande»{chiara} dice Chiara. «Secondo: guidi tu?»{chiara} || “First: the car is big,” says Chiara. “Second: you're driving?”
 «Sì, guido io. **Sto per** aprire lo **sportello**»{ben} dice Kevin. || “Yes, I'm driving. I'm **about to** open the **door**,” says Kevin.
 «Terzo: piano. C'è il **ghiaccio**»{chiara} dice Chiara. || “Third: slowly. There's **ice**,” says Chiara.
 «Lo so. Guido piano»{ben} dice Kevin. || “I know. I drive slowly,” says Kevin.
@@ -126,15 +126,15 @@ Franco guarda la strada, la neve, la macchina. || Franco looks at the street, th
 Emma esce di casa con Leo. || Emma comes out of the house with Leo.
 Leo ha il cappello di traverso e gli stivali sbagliati. || Leo has his hat crooked and the wrong boots.
 «Andiamo in ospedale?»{leo} chiede Leo. «È per il bambino?»{leo} || “Are we going to the hospital?” asks Leo. “Is it for the baby?”
-«Sì, Leo»{chiara} dice Chiara. «Adesso sali in macchina.»{chiara} || “Yes, Leo,” says Chiara. “Now get in the car.”
+«Sì, Leo»{chiara} dice Chiara. «Ma voi due restate a casa. Vi chiamo io.»{chiara} || “Yes, Leo,” says Chiara. “But you two stay home. I'll call you.”
 «Il bambino è un **fiocco** di Natale?»{leo} chiede Leo. || “Is the baby a Christmas **bow**?” asks Leo.
 «Un **fiocco**?»{emma} chiede Emma. «Leo, il bambino non è un regalo.»{emma} || “A **bow**?” asks Emma. “Leo, the baby isn't a gift.”
 «Ma è Natale»{leo} dice Leo. «A Natale ci sono i regali.»{leo} || “But it's Christmas,” says Leo. “At Christmas there are gifts.”
 «Il **fiocco** è azzurro»{samira} dice Samira, arrivando con la borsa. || “The **bow** is blue,” says Samira, arriving with the bag.
 Samira apre lo **sportello** e guarda dentro. || Samira opens the **door** and looks inside.
 «Quanti **sedili** ci sono?»{samira} chiede Samira. || “How many **seats** are there?” asks Samira.
-«Cinque»{ben} dice Kevin. «Ma uno è pieno di cose.»{ben} || “Five,” says Kevin. “But one is full of things.”
-Sul **sedile** dietro ci sono la **culla** piegata e il **passeggino**. || On the back **seat** there are the folded **crib** and the **stroller**.
+«Sette»{ben} dice Kevin. «Ma uno è pieno di cose.»{ben} || “Seven,” says Kevin. “But one is full of things.”
+Sul **sedile** dietro c'è una borsa grande con i vestiti del bambino. || On the back **seat** there is a big bag with the baby's clothes.
 «E il **passeggino**?»{lucia} chiede Lucia, arrivando anche lei. || “And the **stroller**?” asks Lucia, arriving too.
 «Il **passeggino** è a casa, in scatola»{nadia} dice Nadia, piano. || “The **stroller** is at home, in a box,” says Nadia, quietly.
 «E i **pannolini**?»{lucia} chiede Lucia. || “And the **diapers**?” asks Lucia.
@@ -157,9 +157,9 @@ Kevin tocca il **volante** con due mani. || Kevin touches the **steering wheel**
 «Metti la **cintura**»{chiara} dice Chiara. || “Put on your **seat belt**,” says Chiara.
 Kevin mette la **cintura**. || Kevin puts on his **seat belt**.
 «Tutti con la **cintura**?»{ben} chiede Kevin. || “Everyone with their **seat belt**?” asks Kevin.
-«Sì»{emma} dice Emma, dietro. «Leo, la **cintura**.»{emma} || “Yes,” says Emma, in back. “Leo, your **seat belt**.”
-«Ce l'ho»{leo} dice Leo. «Ma è al contrario?»{leo} || “I have it,” says Leo. “But is it backwards?”
-«No, va bene»{emma} dice Emma, e sistema la **cintura**. || “No, it's fine,” says Emma, and fixes the **seat belt**.
+«Sì»{chiara} dice Chiara. «Tutti con la **cintura**.»{chiara} || “Yes,” says Chiara. “Everyone with a **seat belt**.”
+«Ce l'ho»{nadia} dice Nadia. «Ma è scomoda.»{nadia} || “I have it,” says Nadia. “But it's uncomfortable.”
+«Tienila»{samira} dice Samira, e sistema la **cintura**. || “Keep it on,” says Samira, and adjusts the **seat belt**.
 Nadia chiude gli occhi e conta di nuovo. || Nadia closes her eyes and counts again.
 «Un'altra **contrazione**»{nadia} dice Nadia. «Forte.»{nadia} || “Another **contraction**,” says Nadia. “A strong one.”
 «Respira, amore»{samira} dice Samira. || “Breathe, love,” says Samira.
@@ -210,7 +210,7 @@ Dietro, Samira e Lucia parlano insieme, forte. || In back, Samira and Lucia talk
 «Basta!»{nadia} dice Nadia. «Non parlate più del **passeggino**!»{nadia} || “Enough!” says Nadia. “Don't talk about the **stroller** anymore!”
 E la macchina va avanti, piano, nel **ghiaccio**. || And the car moves forward, slowly, in the **ice**.
 
-# SCENE via | 24 dicembre, tarda mattina | kevin, franco, nadia, samira, lucia, chiara
+# SCENE via | 24 dicembre, tarda mattina | ben, franco, nadia, samira, lucia, chiara, matteo
 Sono le undici e mezza, e la macchina è ferma in mezzo al **traffico**. || It's half past eleven, and the car is stuck in the middle of the **traffic**.
 Davanti a loro c'è una **coda** lunghissima. || Ahead of them there's a very long **line**.
 Dietro di loro c'è un'altra **coda**. || Behind them there's another **line**.
@@ -324,7 +324,7 @@ Kevin lo guarda. || Kevin looks at him.
 Kevin guarda la **coda**, la **bufera**, il **ghiaccio**. || Kevin looks at the **line**, the **blizzard**, the **ice**.
 E mette le due mani sul **volante**. || And he puts both hands on the **steering wheel**.
 
-# SCENE bar-tigli | 24 dicembre, mezzogiorno | matteo, uomo
+# SCENE bar-tigli | 24 dicembre, mezzogiorno | matteo, uomo, ben, samira
 È mezzogiorno, e Matteo è ancora al bar. || It's noon, and Matteo is still at the bar.
 Fuori nevica, e dentro il bar c'è una luce gialla. || Outside it's snowing, and inside the bar there's a yellow light.
 Matteo ha il telefono in una mano e un panno nell'altra. || Matteo has the phone in one hand and a cloth in the other.
@@ -335,8 +335,8 @@ L'uomo beve il caffè molto piano. || The man drinks his coffee very slowly.
 «Un momento»{uomo} dice l'uomo. «**Sto per** finire.»{uomo} || “One moment,” says the man. “I'm **about to** finish.”
 «Lo **sto per** dire da venti minuti»{matteo} dice Matteo. || “I've been **about to** say that for twenty minutes,” says Matteo.
 L'uomo sorride e beve un altro sorso. || The man smiles and takes another sip.
-Matteo guarda la porta del bar: lo **sportello** è aperto da stamattina. || Matteo looks at the bar door: the **door** has been open since this morning.
-Vuole chiudere, ma lo **sportello** è rotto. || He wants to close it, but the **door** is broken.
+Matteo guarda la porta del bar: è aperta da stamattina. || Matteo looks at the bar door: it has been open since this morning.
+Vuole chiudere, ma la porta è rotta. || He wants to close it, but the door is broken.
 «Anche la porta non funziona oggi»{matteo} dice Matteo. || “The door isn't working today either,” says Matteo.
 «Oggi niente funziona»{uomo} dice l'uomo. «C'è lo **sciopero**.»{uomo} || “Nothing works today,” says the man. “There's a **strike**.”
 «Lo **sciopero** dei treni»{matteo} dice Matteo. «E io ho la macchina.»{matteo} || “The train **strike**,” says Matteo. “And I have a car.”
@@ -362,10 +362,10 @@ L'uomo guarda Matteo con calma. || The man looks at Matteo calmly.
 «Il **traffico** c'è sempre, il 24 dicembre»{uomo} dice l'uomo. || “There's always **traffic** on December 24,” says the man.
 «Lo so»{matteo} dice Matteo. «Per questo devo andare.»{matteo} || “I know,” says Matteo. “That's why I have to go.”
 L'uomo beve l'ultimo sorso. || The man drinks the last sip.
-Matteo corre verso la porta, ma lo **sportello** non si chiude. || Matteo runs to the door, but the **door** won't close.
+Matteo corre verso la porta, ma la porta non si chiude. || Matteo runs to the door, but the door won't close.
 «Perché non si chiude?»{matteo} chiede Matteo. || “Why won't it close?” asks Matteo.
 «Perché c'è il **ghiaccio** in basso»{uomo} dice l'uomo. || “Because there's **ice** at the bottom,” says the man.
-Matteo guarda la parte bassa dello **sportello**. || Matteo looks at the bottom of the **door**.
+Matteo guarda la parte bassa della porta. || Matteo looks at the bottom of the door.
 C'è **ghiaccio**, sì, e un po' di neve. || There's **ice**, yes, and a bit of snow.
 «Adesso capisco»{matteo} dice Matteo. || “Now I understand,” says Matteo.
 Il telefono suona di nuovo. || The phone rings again.
@@ -397,7 +397,7 @@ Matteo prende la scatola dei **pannolini** e il **fiocco** azzurro. || Matteo ta
 «Di niente. E auguri per la **nascita**»{uomo} dice l'uomo. || “Don't mention it. And best wishes for the **birth**,” says the man.
 Matteo cerca un foglio e una penna. || Matteo looks for a sheet of paper and a pen.
 Scrive quattro parole su un foglio, e le mette sulla porta. || He writes four words on a sheet of paper, and puts it on the door.
-Mette il foglio sullo **sportello** del bar. || He puts the paper on the bar **door**.
+Mette il foglio sulla porta del bar. || He puts the paper on the bar door.
 «Non è molto gentile per i clienti»{uomo} dice l'uomo. || “It's not very kind to the customers,” says the man.
 «Oggi non c'è tempo per essere gentile»{matteo} dice Matteo. || “Today there's no time to be kind,” says Matteo.
 Matteo prende la giacca e le chiavi. || Matteo takes his jacket and the keys.
@@ -408,7 +408,7 @@ Matteo lo prende e lo mette in tasca. || Matteo grabs it and puts it in his pock
 «Il **fiocco** dopo»{matteo} dice Matteo. «Prima Nadia.»{matteo} || “The **bow** later,” says Matteo. “Nadia first.”
 E corre nella **bufera**. || And he runs into the **blizzard**.
 
-# SCENE ospedale | 24 dicembre, pomeriggio | nadia, kevin, franco, samira, lucia, chiara, donna
+# SCENE ospedale | 24 dicembre, pomeriggio | nadia, ben, franco, samira, lucia, chiara, donna
 Finalmente la macchina arriva all'ospedale. || Finally the car arrives at the hospital.
 Sono le due del pomeriggio, e fuori c'è ancora la **bufera**. || It's two in the afternoon, and outside there's still the **blizzard**.
 C'è **ghiaccio** nel parcheggio, e Kevin non vede bene. || There's **ice** in the parking lot, and Kevin can't see well.
@@ -518,7 +518,7 @@ Kevin, Franco, Samira, Lucia e Chiara si guardano. || Kevin, Franco, Samira, Luc
 Matteo non c'è ancora. || Matteo still isn't there.
 E fuori la neve continua a cadere. || And outside the snow keeps falling.
 
-# SCENE ospedale | 24 dicembre, pomeriggio | matteo, franco, samira, lucia, chiara, kevin, donna
+# SCENE ospedale | 24 dicembre, pomeriggio | matteo, franco, samira, lucia, chiara, ben, donna
 All'**ingresso** dell'ospedale arriva un uomo bagnato. || At the hospital **entrance** a wet man arrives.
 È Matteo. Ha la giacca fradicia e una scatola in braccio. || It's Matteo. His jacket is soaked and he has a box in his arms.
 Corre verso il **corridoio** senza guardare nessuno. || He runs toward the **corridor** without looking at anyone.
@@ -589,7 +589,7 @@ Franco si alza e mette una mano sulla spalla di Matteo. || Franco stands up and 
 «Allora aspettiamo qui»{franco} dice Franco. «Tutti insieme.»{franco} || “Then we wait here,” says Franco. “All together.”
 E in fondo al **corridoio** la porta della **sala parto** resta chiusa. || And at the end of the **corridor** the door of the **delivery room** stays closed.
 
-# SCENE ospedale | 24 dicembre, sera | leo, ornella, franco, kevin, chiara, donna
+# SCENE ospedale | 24 dicembre, sera | leo, ornella, franco, ben, chiara, donna
 È sera, e la neve cade ancora. || It's evening, and the snow is still falling.
 All'**ingresso** dell'ospedale arriva Ornella, con Leo. || At the hospital **entrance** Ornella arrives, with Leo.
 Fuori fa **freddo**, e Leo ha le mani rosse. || Outside it's **cold**, and Leo has red hands.

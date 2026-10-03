@@ -3316,7 +3316,7 @@
               },
               {
                 "type": "text",
-                "text": "Primo: la macchina è piccola",
+                "text": "Primo: la macchina è grande",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4250,7 +4250,7 @@
           "s03e13-2-023:2-3"
         ],
         [
-          "s03e13-2-023:4-7"
+          "s03e13-2-023:4-12"
         ]
       ],
       "request": {
@@ -4283,7 +4283,7 @@
               },
               {
                 "type": "text",
-                "text": "Adesso sali in macchina.",
+                "text": "Ma voi due restate a casa. Vi chiamo io.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4677,7 +4677,7 @@
           "s03e13-2-030:3-8"
         ],
         [
-          "s03e13-2-031:0-10"
+          "s03e13-2-031:0-11"
         ]
       ],
       "request": {
@@ -4688,7 +4688,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Cinque",
+                "text": "Sette",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4721,7 +4721,7 @@
               },
               {
                 "type": "text",
-                "text": "Sul sedile dietro ci sono la culla piegata e il passeggino.",
+                "text": "Sul sedile dietro c'è una borsa grande con i vestiti del bambino.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6054,7 +6054,7 @@
       "index": 78,
       "scene": 2,
       "speakers": {
-        "emma": "emma",
+        "chiara": "chiara",
         "narrator": "narrator"
       },
       "segment_ids": [
@@ -6065,10 +6065,10 @@
           "s03e13-2-054:0-0"
         ],
         [
-          "s03e13-2-054:1-3"
+          "s03e13-2-054:1-2"
         ],
         [
-          "s03e13-2-054:4-6"
+          "s03e13-2-054:3-6"
         ]
       ],
       "request": {
@@ -6083,14 +6083,14 @@
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "emma",
+                    "speaker": "chiara",
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "dice Emma, dietro.",
+                "text": "dice Chiara.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6101,11 +6101,11 @@
               },
               {
                 "type": "text",
-                "text": "Leo, la cintura.",
+                "text": "Tutti con la cintura.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "emma",
+                    "speaker": "chiara",
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
@@ -6122,8 +6122,8 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "emma",
-                "voice": "Autonoe"
+                "speaker": "chiara",
+                "voice": "Callirrhoe"
               },
               {
                 "speaker": "narrator",
@@ -6138,7 +6138,7 @@
       "index": 79,
       "scene": 2,
       "speakers": {
-        "leo": "leo",
+        "nadia": "nadia",
         "narrator": "narrator"
       },
       "segment_ids": [
@@ -6152,7 +6152,7 @@
           "s03e13-2-055:2-3"
         ],
         [
-          "s03e13-2-055:4-7"
+          "s03e13-2-055:4-6"
         ]
       ],
       "request": {
@@ -6167,14 +6167,14 @@
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "leo",
+                    "speaker": "nadia",
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "dice Leo.",
+                "text": "dice Nadia.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6185,11 +6185,11 @@
               },
               {
                 "type": "text",
-                "text": "Ma è al contrario?",
+                "text": "Ma è scomoda.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "leo",
+                    "speaker": "nadia",
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
@@ -6206,8 +6206,8 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "leo",
-                "voice": "Puck"
+                "speaker": "nadia",
+                "voice": "Aoede"
               },
               {
                 "speaker": "narrator",
@@ -6222,7 +6222,7 @@
       "index": 80,
       "scene": 2,
       "speakers": {
-        "emma": "emma",
+        "samira": "samira",
         "narrator": "narrator"
       },
       "segment_ids": [
@@ -6231,10 +6231,10 @@
       ],
       "words": [
         [
-          "s03e13-2-056:0-2"
+          "s03e13-2-056:0-0"
         ],
         [
-          "s03e13-2-056:3-8",
+          "s03e13-2-056:1-6",
           "s03e13-2-057:0-7"
         ]
       ],
@@ -6246,18 +6246,18 @@
             "content": [
               {
                 "type": "text",
-                "text": "No, va bene",
+                "text": "Tienila",
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "emma",
+                    "speaker": "samira",
                     "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "dice Emma, e sistema la cintura. Nadia chiude gli occhi e conta di nuovo.",
+                "text": "dice Samira, e sistema la cintura. Nadia chiude gli occhi e conta di nuovo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6278,8 +6278,8 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "emma",
-                "voice": "Autonoe"
+                "speaker": "samira",
+                "voice": "Sulafat"
               },
               {
                 "speaker": "narrator",
@@ -14349,7 +14349,7 @@
         [
           "s03e13-4-009:7-8",
           "s03e13-4-010:0-6",
-          "s03e13-4-011:0-11",
+          "s03e13-4-011:0-9",
           "s03e13-4-012:0-6"
         ],
         [
@@ -14378,7 +14378,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Matteo. L'uomo sorride e beve un altro sorso. Matteo guarda la porta del bar: lo sportello è aperto da stamattina. Vuole chiudere, ma lo sportello è rotto.",
+                "text": "dice Matteo. L'uomo sorride e beve un altro sorso. Matteo guarda la porta del bar: è aperta da stamattina. Vuole chiudere, ma la porta è rotta.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15640,7 +15640,7 @@
               },
               {
                 "type": "text",
-                "text": "L'uomo beve l'ultimo sorso. Matteo corre verso la porta, ma lo sportello non si chiude.",
+                "text": "L'uomo beve l'ultimo sorso. Matteo corre verso la porta, ma la porta non si chiude.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15736,7 +15736,7 @@
               },
               {
                 "type": "text",
-                "text": "dice l'uomo. Matteo guarda la parte bassa dello sportello. C'è ghiaccio, sì, e un po' di neve.",
+                "text": "dice l'uomo. Matteo guarda la parte bassa della porta. C'è ghiaccio, sì, e un po' di neve.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -16852,7 +16852,7 @@
               },
               {
                 "type": "text",
-                "text": "dice l'uomo. Matteo cerca un foglio e una penna. Scrive quattro parole su un foglio, e le mette sulla porta. Mette il foglio sullo sportello del bar.",
+                "text": "dice l'uomo. Matteo cerca un foglio e una penna. Scrive quattro parole su un foglio, e le mette sulla porta. Mette il foglio sulla porta del bar.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

@@ -91,7 +91,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Fa molto **freddo**. Tutti hanno il cappello e la sciarpa. | It's very **cold**. Everyone has a hat and a scarf. |
 | Kevin arriva con la macchina e si ferma davanti al numero due. | Kevin arrives with the car and stops in front of number two. |
 | Chiara è già fuori, con il telefono in mano. | Chiara is already outside, phone in hand. |
-| «Primo: la macchina è piccola» dice Chiara. «Secondo: guidi tu?» | “First: the car is small,” says Chiara. “Second: you're driving?” |
+| «Primo: la macchina è grande» dice Chiara. «Secondo: guidi tu?» | “First: the car is big,” says Chiara. “Second: you're driving?” |
 | «Sì, guido io. **Sto per** aprire lo **sportello**» dice Kevin. | “Yes, I'm driving. I'm **about to** open the **door**,” says Kevin. |
 | «Terzo: piano. C'è il **ghiaccio**» dice Chiara. | “Third: slowly. There's **ice**,” says Chiara. |
 | «Lo so. Guido piano» dice Kevin. | “I know. I drive slowly,” says Kevin. |
@@ -107,15 +107,15 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma esce di casa con Leo. | Emma comes out of the house with Leo. |
 | Leo ha il cappello di traverso e gli stivali sbagliati. | Leo has his hat crooked and the wrong boots. |
 | «Andiamo in ospedale?» chiede Leo. «È per il bambino?» | “Are we going to the hospital?” asks Leo. “Is it for the baby?” |
-| «Sì, Leo» dice Chiara. «Adesso sali in macchina.» | “Yes, Leo,” says Chiara. “Now get in the car.” |
+| «Sì, Leo» dice Chiara. «Ma voi due restate a casa. Vi chiamo io.» | “Yes, Leo,” says Chiara. “But you two stay home. I'll call you.” |
 | «Il bambino è un **fiocco** di Natale?» chiede Leo. | “Is the baby a Christmas **bow**?” asks Leo. |
 | «Un **fiocco**?» chiede Emma. «Leo, il bambino non è un regalo.» | “A **bow**?” asks Emma. “Leo, the baby isn't a gift.” |
 | «Ma è Natale» dice Leo. «A Natale ci sono i regali.» | “But it's Christmas,” says Leo. “At Christmas there are gifts.” |
 | «Il **fiocco** è azzurro» dice Samira, arrivando con la borsa. | “The **bow** is blue,” says Samira, arriving with the bag. |
 | Samira apre lo **sportello** e guarda dentro. | Samira opens the **door** and looks inside. |
 | «Quanti **sedili** ci sono?» chiede Samira. | “How many **seats** are there?” asks Samira. |
-| «Cinque» dice Kevin. «Ma uno è pieno di cose.» | “Five,” says Kevin. “But one is full of things.” |
-| Sul **sedile** dietro ci sono la **culla** piegata e il **passeggino**. | On the back **seat** there are the folded **crib** and the **stroller**. |
+| «Sette» dice Kevin. «Ma uno è pieno di cose.» | “Seven,” says Kevin. “But one is full of things.” |
+| Sul **sedile** dietro c'è una borsa grande con i vestiti del bambino. | On the back **seat** there is a big bag with the baby's clothes. |
 | «E il **passeggino**?» chiede Lucia, arrivando anche lei. | “And the **stroller**?” asks Lucia, arriving too. |
 | «Il **passeggino** è a casa, in scatola» dice Nadia, piano. | “The **stroller** is at home, in a box,” says Nadia, quietly. |
 | «E i **pannolini**?» chiede Lucia. | “And the **diapers**?” asks Lucia. |
@@ -138,9 +138,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Metti la **cintura**» dice Chiara. | “Put on your **seat belt**,” says Chiara. |
 | Kevin mette la **cintura**. | Kevin puts on his **seat belt**. |
 | «Tutti con la **cintura**?» chiede Kevin. | “Everyone with their **seat belt**?” asks Kevin. |
-| «Sì» dice Emma, dietro. «Leo, la **cintura**.» | “Yes,” says Emma, in back. “Leo, your **seat belt**.” |
-| «Ce l'ho» dice Leo. «Ma è al contrario?» | “I have it,” says Leo. “But is it backwards?” |
-| «No, va bene» dice Emma, e sistema la **cintura**. | “No, it's fine,” says Emma, and fixes the **seat belt**. |
+| «Sì» dice Chiara. «Tutti con la **cintura**.» | “Yes,” says Chiara. “Everyone with a **seat belt**.” |
+| «Ce l'ho» dice Nadia. «Ma è scomoda.» | “I have it,” says Nadia. “But it's uncomfortable.” |
+| «Tienila» dice Samira, e sistema la **cintura**. | “Keep it on,” says Samira, and adjusts the **seat belt**. |
 | Nadia chiude gli occhi e conta di nuovo. | Nadia closes her eyes and counts again. |
 | «Un'altra **contrazione**» dice Nadia. «Forte.» | “Another **contraction**,” says Nadia. “A strong one.” |
 | «Respira, amore» dice Samira. | “Breathe, love,” says Samira. |
@@ -322,8 +322,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Un momento» dice l'uomo. «**Sto per** finire.» | “One moment,” says the man. “I'm **about to** finish.” |
 | «Lo **sto per** dire da venti minuti» dice Matteo. | “I've been **about to** say that for twenty minutes,” says Matteo. |
 | L'uomo sorride e beve un altro sorso. | The man smiles and takes another sip. |
-| Matteo guarda la porta del bar: lo **sportello** è aperto da stamattina. | Matteo looks at the bar door: the **door** has been open since this morning. |
-| Vuole chiudere, ma lo **sportello** è rotto. | He wants to close it, but the **door** is broken. |
+| Matteo guarda la porta del bar: è aperta da stamattina. | Matteo looks at the bar door: it has been open since this morning. |
+| Vuole chiudere, ma la porta è rotta. | He wants to close it, but the door is broken. |
 | «Anche la porta non funziona oggi» dice Matteo. | “The door isn't working today either,” says Matteo. |
 | «Oggi niente funziona» dice l'uomo. «C'è lo **sciopero**.» | “Nothing works today,” says the man. “There's a **strike**.” |
 | «Lo **sciopero** dei treni» dice Matteo. «E io ho la macchina.» | “The train **strike**,” says Matteo. “And I have a car.” |
@@ -349,10 +349,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **traffico** c'è sempre, il 24 dicembre» dice l'uomo. | “There's always **traffic** on December 24,” says the man. |
 | «Lo so» dice Matteo. «Per questo devo andare.» | “I know,” says Matteo. “That's why I have to go.” |
 | L'uomo beve l'ultimo sorso. | The man drinks the last sip. |
-| Matteo corre verso la porta, ma lo **sportello** non si chiude. | Matteo runs to the door, but the **door** won't close. |
+| Matteo corre verso la porta, ma la porta non si chiude. | Matteo runs to the door, but the door won't close. |
 | «Perché non si chiude?» chiede Matteo. | “Why won't it close?” asks Matteo. |
 | «Perché c'è il **ghiaccio** in basso» dice l'uomo. | “Because there's **ice** at the bottom,” says the man. |
-| Matteo guarda la parte bassa dello **sportello**. | Matteo looks at the bottom of the **door**. |
+| Matteo guarda la parte bassa della porta. | Matteo looks at the bottom of the door. |
 | C'è **ghiaccio**, sì, e un po' di neve. | There's **ice**, yes, and a bit of snow. |
 | «Adesso capisco» dice Matteo. | “Now I understand,” says Matteo. |
 | Il telefono suona di nuovo. | The phone rings again. |
@@ -384,7 +384,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Di niente. E auguri per la **nascita**» dice l'uomo. | “Don't mention it. And best wishes for the **birth**,” says the man. |
 | Matteo cerca un foglio e una penna. | Matteo looks for a sheet of paper and a pen. |
 | Scrive quattro parole su un foglio, e le mette sulla porta. | He writes four words on a sheet of paper, and puts it on the door. |
-| Mette il foglio sullo **sportello** del bar. | He puts the paper on the bar **door**. |
+| Mette il foglio sulla porta del bar. | He puts the paper on the bar door. |
 | «Non è molto gentile per i clienti» dice l'uomo. | “It's not very kind to the customers,” says the man. |
 | «Oggi non c'è tempo per essere gentile» dice Matteo. | “Today there's no time to be kind,” says Matteo. |
 | Matteo prende la giacca e le chiavi. | Matteo takes his jacket and the keys. |

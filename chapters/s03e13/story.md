@@ -94,7 +94,7 @@ Matteo guarda la caffettiera e poi guarda Nadia. Nadia apre la porta. Fuori la n
 
 ## 2. Via dei Tigli · 24 dicembre, mattina
 
-In Via dei Tigli la neve copre tutto. Sotto la neve c'è il **ghiaccio**, e il **ghiaccio** è pericoloso. La **bufera** continua, e il vento è forte. Fa molto **freddo**. Tutti hanno il cappello e la sciarpa. Kevin arriva con la macchina e si ferma davanti al numero due. Chiara è già fuori, con il telefono in mano. «Primo: la macchina è piccola» dice Chiara. «Secondo: guidi tu?»
+In Via dei Tigli la neve copre tutto. Sotto la neve c'è il **ghiaccio**, e il **ghiaccio** è pericoloso. La **bufera** continua, e il vento è forte. Fa molto **freddo**. Tutti hanno il cappello e la sciarpa. Kevin arriva con la macchina e si ferma davanti al numero due. Chiara è già fuori, con il telefono in mano. «Primo: la macchina è grande» dice Chiara. «Secondo: guidi tu?»
 
 «Sì, guido io. **Sto per** aprire lo **sportello**» dice Kevin.
 
@@ -118,7 +118,7 @@ Franco guarda la strada, la neve, la macchina. «Io vengo» dice Franco. «Conos
 
 Emma esce di casa con Leo. Leo ha il cappello di traverso e gli stivali sbagliati. «Andiamo in ospedale?» chiede Leo. «È per il bambino?»
 
-«Sì, Leo» dice Chiara. «Adesso sali in macchina.»
+«Sì, Leo» dice Chiara. «Ma voi due restate a casa. Vi chiamo io.»
 
 «Il bambino è un **fiocco** di Natale?» chiede Leo.
 
@@ -128,7 +128,7 @@ Emma esce di casa con Leo. Leo ha il cappello di traverso e gli stivali sbagliat
 
 «Il **fiocco** è azzurro» dice Samira, arrivando con la borsa. Samira apre lo **sportello** e guarda dentro. «Quanti **sedili** ci sono?» chiede Samira.
 
-«Cinque» dice Kevin. «Ma uno è pieno di cose.» Sul **sedile** dietro ci sono la **culla** piegata e il **passeggino**.
+«Sette» dice Kevin. «Ma uno è pieno di cose.» Sul **sedile** dietro c'è una borsa grande con i vestiti del bambino.
 
 «E il **passeggino**?» chiede Lucia, arrivando anche lei.
 
@@ -164,11 +164,11 @@ Kevin si siede al **volante**. Kevin tocca il **volante** con due mani. «Il **p
 
 Kevin mette la **cintura**. «Tutti con la **cintura**?» chiede Kevin.
 
-«Sì» dice Emma, dietro. «Leo, la **cintura**.»
+«Sì» dice Chiara. «Tutti con la **cintura**.»
 
-«Ce l'ho» dice Leo. «Ma è al contrario?»
+«Ce l'ho» dice Nadia. «Ma è scomoda.»
 
-«No, va bene» dice Emma, e sistema la **cintura**.
+«Tienila» dice Samira, e sistema la **cintura**.
 
 Nadia chiude gli occhi e conta di nuovo. «Un'altra **contrazione**» dice Nadia. «Forte.»
 
@@ -376,7 +376,7 @@ Kevin lo guarda. «In zona che?» chiede Kevin.
 
 «Un momento» dice l'uomo. «**Sto per** finire.»
 
-«Lo **sto per** dire da venti minuti» dice Matteo. L'uomo sorride e beve un altro sorso. Matteo guarda la porta del bar: lo **sportello** è aperto da stamattina. Vuole chiudere, ma lo **sportello** è rotto. «Anche la porta non funziona oggi» dice Matteo.
+«Lo **sto per** dire da venti minuti» dice Matteo. L'uomo sorride e beve un altro sorso. Matteo guarda la porta del bar: è aperta da stamattina. Vuole chiudere, ma la porta è rotta. «Anche la porta non funziona oggi» dice Matteo.
 
 «Oggi niente funziona» dice l'uomo. «C'è lo **sciopero**.»
 
@@ -408,9 +408,9 @@ Matteo tiene il telefono lontano dall'orecchio. «Sono al bar, Samira» dice Mat
 
 «Il **traffico** c'è sempre, il 24 dicembre» dice l'uomo.
 
-«Lo so» dice Matteo. «Per questo devo andare.» L'uomo beve l'ultimo sorso. Matteo corre verso la porta, ma lo **sportello** non si chiude. «Perché non si chiude?» chiede Matteo.
+«Lo so» dice Matteo. «Per questo devo andare.» L'uomo beve l'ultimo sorso. Matteo corre verso la porta, ma la porta non si chiude. «Perché non si chiude?» chiede Matteo.
 
-«Perché c'è il **ghiaccio** in basso» dice l'uomo. Matteo guarda la parte bassa dello **sportello**. C'è **ghiaccio**, sì, e un po' di neve.
+«Perché c'è il **ghiaccio** in basso» dice l'uomo. Matteo guarda la parte bassa della porta. C'è **ghiaccio**, sì, e un po' di neve.
 
 «Adesso capisco» dice Matteo. Il telefono suona di nuovo.
 
@@ -438,7 +438,7 @@ Matteo tiene il telefono lontano dall'orecchio. «Sono al bar, Samira» dice Mat
 
 Matteo prende la scatola dei **pannolini** e il **fiocco** azzurro. «Grazie» dice Matteo.
 
-«Di niente. E auguri per la **nascita**» dice l'uomo. Matteo cerca un foglio e una penna. Scrive quattro parole su un foglio, e le mette sulla porta. Mette il foglio sullo **sportello** del bar. «Non è molto gentile per i clienti» dice l'uomo.
+«Di niente. E auguri per la **nascita**» dice l'uomo. Matteo cerca un foglio e una penna. Scrive quattro parole su un foglio, e le mette sulla porta. Mette il foglio sulla porta del bar. «Non è molto gentile per i clienti» dice l'uomo.
 
 «Oggi non c'è tempo per essere gentile» dice Matteo. Matteo prende la giacca e le chiavi. Fuori la neve è alta, e fa **freddo**. Matteo corre verso la macchina, con la scatola in braccio. Il **fiocco** azzurro vola via con il vento. Matteo lo prende e lo mette in tasca. «Il **fiocco** dopo» dice Matteo. «Prima Nadia.» E corre nella **bufera**.
 

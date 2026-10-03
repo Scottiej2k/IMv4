@@ -8435,12 +8435,12 @@
             },
             {
               "id": "s03e13-2-007",
-              "it": "«Primo: la macchina è piccola» dice Chiara. «Secondo: guidi tu?»",
-              "en": "“First: the car is small,” says Chiara. “Second: you're driving?”",
+              "it": "«Primo: la macchina è grande» dice Chiara. «Secondo: guidi tu?»",
+              "en": "“First: the car is big,” says Chiara. “Second: you're driving?”",
               "voice": [
                 [
                   "chiara",
-                  "Primo: la macchina è piccola",
+                  "Primo: la macchina è grande",
                   ""
                 ],
                 [
@@ -8501,7 +8501,7 @@
                   ""
                 ],
                 [
-                  "piccola",
+                  "grande",
                   4,
                   ""
                 ],
@@ -10123,8 +10123,8 @@
           "segments": [
             {
               "id": "s03e13-2-023",
-              "it": "«Sì, Leo» dice Chiara. «Adesso sali in macchina.»",
-              "en": "“Yes, Leo,” says Chiara. “Now get in the car.”",
+              "it": "«Sì, Leo» dice Chiara. «Ma voi due restate a casa. Vi chiamo io.»",
+              "en": "“Yes, Leo,” says Chiara. “But you two stay home. I'll call you.”",
               "voice": [
                 [
                   "chiara",
@@ -10138,7 +10138,7 @@
                 ],
                 [
                   "chiara",
-                  "Adesso sali in macchina.",
+                  "Ma voi due restate a casa. Vi chiamo io.",
                   ""
                 ]
               ],
@@ -10189,7 +10189,7 @@
                   ""
                 ],
                 [
-                  "Adesso",
+                  "Ma",
                   4,
                   ""
                 ],
@@ -10199,7 +10199,7 @@
                   ""
                 ],
                 [
-                  "sali",
+                  "voi",
                   5,
                   ""
                 ],
@@ -10209,7 +10209,7 @@
                   ""
                 ],
                 [
-                  "in",
+                  "due",
                   6,
                   ""
                 ],
@@ -10219,8 +10219,58 @@
                   ""
                 ],
                 [
-                  "macchina",
+                  "restate",
                   7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
+                  8,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "casa",
+                  9,
+                  ""
+                ],
+                [
+                  ". ",
+                  -1,
+                  ""
+                ],
+                [
+                  "Vi",
+                  10,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "chiamo",
+                  11,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "io",
+                  12,
                   ""
                 ],
                 [
@@ -10951,12 +11001,12 @@
           "segments": [
             {
               "id": "s03e13-2-030",
-              "it": "«Cinque» dice Kevin. «Ma uno è pieno di cose.»",
-              "en": "“Five,” says Kevin. “But one is full of things.”",
+              "it": "«Sette» dice Kevin. «Ma uno è pieno di cose.»",
+              "en": "“Seven,” says Kevin. “But one is full of things.”",
               "voice": [
                 [
                   "ben",
-                  "Cinque",
+                  "Sette",
                   ""
                 ],
                 [
@@ -10977,7 +11027,7 @@
                   ""
                 ],
                 [
-                  "Cinque",
+                  "Sette",
                   0,
                   ""
                 ],
@@ -11070,12 +11120,12 @@
             },
             {
               "id": "s03e13-2-031",
-              "it": "Sul **sedile** dietro ci sono la **culla** piegata e il **passeggino**.",
-              "en": "On the back **seat** there are the folded **crib** and the **stroller**.",
+              "it": "Sul **sedile** dietro c'è una borsa grande con i vestiti del bambino.",
+              "en": "On the back **seat** there is a big bag with the baby's clothes.",
               "voice": [
                 [
                   "narrator",
-                  "Sul **sedile** dietro ci sono la **culla** piegata e il **passeggino**.",
+                  "Sul **sedile** dietro c'è una borsa grande con i vestiti del bambino.",
                   ""
                 ]
               ],
@@ -11111,7 +11161,7 @@
                   ""
                 ],
                 [
-                  "ci",
+                  "c'è",
                   3,
                   ""
                 ],
@@ -11121,7 +11171,7 @@
                   ""
                 ],
                 [
-                  "sono",
+                  "una",
                   4,
                   ""
                 ],
@@ -11131,7 +11181,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "borsa",
                   5,
                   ""
                 ],
@@ -11141,9 +11191,9 @@
                   ""
                 ],
                 [
-                  "culla",
+                  "grande",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -11151,7 +11201,7 @@
                   ""
                 ],
                 [
-                  "piegata",
+                  "con",
                   7,
                   ""
                 ],
@@ -11161,7 +11211,7 @@
                   ""
                 ],
                 [
-                  "e",
+                  "i",
                   8,
                   ""
                 ],
@@ -11171,7 +11221,7 @@
                   ""
                 ],
                 [
-                  "il",
+                  "vestiti",
                   9,
                   ""
                 ],
@@ -11181,9 +11231,19 @@
                   ""
                 ],
                 [
-                  "passeggino",
+                  "del",
                   10,
-                  "b"
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "bambino",
+                  11,
+                  ""
                 ],
                 [
                   ".",
@@ -11192,9 +11252,7 @@
                 ]
               ],
               "focus": [
-                "v-sedile",
-                "v-culla",
-                "v-passeggino"
+                "v-sedile"
               ]
             }
           ]
@@ -13373,22 +13431,22 @@
           "segments": [
             {
               "id": "s03e13-2-054",
-              "it": "«Sì» dice Emma, dietro. «Leo, la **cintura**.»",
-              "en": "“Yes,” says Emma, in back. “Leo, your **seat belt**.”",
+              "it": "«Sì» dice Chiara. «Tutti con la **cintura**.»",
+              "en": "“Yes,” says Chiara. “Everyone with a **seat belt**.”",
               "voice": [
                 [
-                  "emma",
+                  "chiara",
                   "Sì",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice Emma, dietro.",
+                  "dice Chiara.",
                   ""
                 ],
                 [
-                  "emma",
-                  "Leo, la **cintura**.",
+                  "chiara",
+                  "Tutti con la **cintura**.",
                   ""
                 ]
               ],
@@ -13419,18 +13477,8 @@
                   ""
                 ],
                 [
-                  "Emma",
+                  "Chiara",
                   2,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dietro",
-                  3,
                   ""
                 ],
                 [
@@ -13439,12 +13487,22 @@
                   ""
                 ],
                 [
-                  "Leo",
+                  "Tutti",
+                  3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "con",
                   4,
                   ""
                 ],
                 [
-                  ", ",
+                  " ",
                   -1,
                   ""
                 ],
@@ -13479,22 +13537,22 @@
           "segments": [
             {
               "id": "s03e13-2-055",
-              "it": "«Ce l'ho» dice Leo. «Ma è al contrario?»",
-              "en": "“I have it,” says Leo. “But is it backwards?”",
+              "it": "«Ce l'ho» dice Nadia. «Ma è scomoda.»",
+              "en": "“I have it,” says Nadia. “But it's uncomfortable.”",
               "voice": [
                 [
-                  "leo",
+                  "nadia",
                   "Ce l'ho",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice Leo.",
+                  "dice Nadia.",
                   ""
                 ],
                 [
-                  "leo",
-                  "Ma è al contrario?",
+                  "nadia",
+                  "Ma è scomoda.",
                   ""
                 ]
               ],
@@ -13535,7 +13593,7 @@
                   ""
                 ],
                 [
-                  "Leo",
+                  "Nadia",
                   3,
                   ""
                 ],
@@ -13565,22 +13623,12 @@
                   ""
                 ],
                 [
-                  "al",
+                  "scomoda",
                   6,
                   ""
                 ],
                 [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "contrario",
-                  7,
-                  ""
-                ],
-                [
-                  "?»",
+                  ".»",
                   -1,
                   ""
                 ]
@@ -13592,17 +13640,17 @@
           "segments": [
             {
               "id": "s03e13-2-056",
-              "it": "«No, va bene» dice Emma, e sistema la **cintura**.",
-              "en": "“No, it's fine,” says Emma, and fixes the **seat belt**.",
+              "it": "«Tienila» dice Samira, e sistema la **cintura**.",
+              "en": "“Keep it on,” says Samira, and adjusts the **seat belt**.",
               "voice": [
                 [
-                  "emma",
-                  "No, va bene",
+                  "samira",
+                  "Tienila",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice Emma, e sistema la **cintura**.",
+                  "dice Samira, e sistema la **cintura**.",
                   ""
                 ]
               ],
@@ -13613,28 +13661,8 @@
                   ""
                 ],
                 [
-                  "No",
+                  "Tienila",
                   0,
-                  ""
-                ],
-                [
-                  ", ",
-                  -1,
-                  ""
-                ],
-                [
-                  "va",
-                  1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bene",
-                  2,
                   ""
                 ],
                 [
@@ -13644,7 +13672,7 @@
                 ],
                 [
                   "dice",
-                  3,
+                  1,
                   ""
                 ],
                 [
@@ -13653,8 +13681,8 @@
                   ""
                 ],
                 [
-                  "Emma",
-                  4,
+                  "Samira",
+                  2,
                   ""
                 ],
                 [
@@ -13664,7 +13692,7 @@
                 ],
                 [
                   "e",
-                  5,
+                  3,
                   ""
                 ],
                 [
@@ -13674,7 +13702,7 @@
                 ],
                 [
                   "sistema",
-                  6,
+                  4,
                   ""
                 ],
                 [
@@ -13684,7 +13712,7 @@
                 ],
                 [
                   "la",
-                  7,
+                  5,
                   ""
                 ],
                 [
@@ -13694,7 +13722,7 @@
                 ],
                 [
                   "cintura",
-                  8,
+                  6,
                   "b"
                 ],
                 [
@@ -18411,7 +18439,8 @@
         "nadia",
         "samira",
         "lucia",
-        "chiara"
+        "chiara",
+        "matteo"
       ],
       "paragraphs": [
         {
@@ -29411,7 +29440,9 @@
       "location": "bar-tigli",
       "characters": [
         "matteo",
-        "uomo"
+        "uomo",
+        "ben",
+        "samira"
       ],
       "paragraphs": [
         {
@@ -30407,12 +30438,12 @@
             },
             {
               "id": "s03e13-4-011",
-              "it": "Matteo guarda la porta del bar: lo **sportello** è aperto da stamattina.",
-              "en": "Matteo looks at the bar door: the **door** has been open since this morning.",
+              "it": "Matteo guarda la porta del bar: è aperta da stamattina.",
+              "en": "Matteo looks at the bar door: it has been open since this morning.",
               "voice": [
                 [
                   "narrator",
-                  "Matteo guarda la porta del bar: lo **sportello** è aperto da stamattina.",
+                  "Matteo guarda la porta del bar: è aperta da stamattina.",
                   ""
                 ]
               ],
@@ -30478,7 +30509,7 @@
                   ""
                 ],
                 [
-                  "lo",
+                  "è",
                   6,
                   ""
                 ],
@@ -30488,28 +30519,8 @@
                   ""
                 ],
                 [
-                  "sportello",
+                  "aperta",
                   7,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "è",
-                  8,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "aperto",
-                  9,
                   ""
                 ],
                 [
@@ -30519,7 +30530,7 @@
                 ],
                 [
                   "da",
-                  10,
+                  8,
                   ""
                 ],
                 [
@@ -30529,7 +30540,7 @@
                 ],
                 [
                   "stamattina",
-                  11,
+                  9,
                   ""
                 ],
                 [
@@ -30537,19 +30548,16 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sportello"
               ]
             },
             {
               "id": "s03e13-4-012",
-              "it": "Vuole chiudere, ma lo **sportello** è rotto.",
-              "en": "He wants to close it, but the **door** is broken.",
+              "it": "Vuole chiudere, ma la porta è rotta.",
+              "en": "He wants to close it, but the door is broken.",
               "voice": [
                 [
                   "narrator",
-                  "Vuole chiudere, ma lo **sportello** è rotto.",
+                  "Vuole chiudere, ma la porta è rotta.",
                   ""
                 ]
               ],
@@ -30585,7 +30593,7 @@
                   ""
                 ],
                 [
-                  "lo",
+                  "la",
                   3,
                   ""
                 ],
@@ -30595,9 +30603,9 @@
                   ""
                 ],
                 [
-                  "sportello",
+                  "porta",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -30615,7 +30623,7 @@
                   ""
                 ],
                 [
-                  "rotto",
+                  "rotta",
                   6,
                   ""
                 ],
@@ -30624,9 +30632,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sportello"
               ]
             },
             {
@@ -32960,12 +32965,12 @@
             },
             {
               "id": "s03e13-4-038",
-              "it": "Matteo corre verso la porta, ma lo **sportello** non si chiude.",
-              "en": "Matteo runs to the door, but the **door** won't close.",
+              "it": "Matteo corre verso la porta, ma la porta non si chiude.",
+              "en": "Matteo runs to the door, but the door won't close.",
               "voice": [
                 [
                   "narrator",
-                  "Matteo corre verso la porta, ma lo **sportello** non si chiude.",
+                  "Matteo corre verso la porta, ma la porta non si chiude.",
                   ""
                 ]
               ],
@@ -33031,7 +33036,7 @@
                   ""
                 ],
                 [
-                  "lo",
+                  "la",
                   6,
                   ""
                 ],
@@ -33041,9 +33046,9 @@
                   ""
                 ],
                 [
-                  "sportello",
+                  "porta",
                   7,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -33080,9 +33085,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sportello"
               ]
             },
             {
@@ -33282,12 +33284,12 @@
             },
             {
               "id": "s03e13-4-041",
-              "it": "Matteo guarda la parte bassa dello **sportello**.",
-              "en": "Matteo looks at the bottom of the **door**.",
+              "it": "Matteo guarda la parte bassa della porta.",
+              "en": "Matteo looks at the bottom of the door.",
               "voice": [
                 [
                   "narrator",
-                  "Matteo guarda la parte bassa dello **sportello**.",
+                  "Matteo guarda la parte bassa della porta.",
                   ""
                 ]
               ],
@@ -33343,7 +33345,7 @@
                   ""
                 ],
                 [
-                  "dello",
+                  "della",
                   5,
                   ""
                 ],
@@ -33353,18 +33355,15 @@
                   ""
                 ],
                 [
-                  "sportello",
+                  "porta",
                   6,
-                  "b"
+                  ""
                 ],
                 [
                   ".",
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sportello"
               ]
             },
             {
@@ -36254,12 +36253,12 @@
             },
             {
               "id": "s03e13-4-073",
-              "it": "Mette il foglio sullo **sportello** del bar.",
-              "en": "He puts the paper on the bar **door**.",
+              "it": "Mette il foglio sulla porta del bar.",
+              "en": "He puts the paper on the bar door.",
               "voice": [
                 [
                   "narrator",
-                  "Mette il foglio sullo **sportello** del bar.",
+                  "Mette il foglio sulla porta del bar.",
                   ""
                 ]
               ],
@@ -36295,7 +36294,7 @@
                   ""
                 ],
                 [
-                  "sullo",
+                  "sulla",
                   3,
                   ""
                 ],
@@ -36305,9 +36304,9 @@
                   ""
                 ],
                 [
-                  "sportello",
+                  "porta",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36334,9 +36333,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-sportello"
               ]
             },
             {
