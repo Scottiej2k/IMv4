@@ -488,6 +488,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara now knows about Kevin's attività. Ornella is formally invited to the wedding, at the comune.
 - **Planted:** Franco's testimone choice; Kevin's first delivery next Sunday; Tuesday numbers talk; Leo's TRAM note in Kevin's notebook (tram-shaped cake idea).
 
+### s04e02 · Cosa farai da grande?
+- **Happened:** Leo’s quarta B held its professioni day; Kevin spoke in his bar apron, and Leo said he wants to be a cameriere. Emma went to the Monza orientamento with Bianca and Tommaso; Tommaso asked for her song notebook before his conservatorio meeting Thursday at 4. At Sunday lunch, Franco predicted everyone’s future and said he will marry Lucia in June.
+- **New facts:** Maestra Paola; classmates Pietro (father ingegnere), Marta (mother avvocata), Ahmed (plans a fish restaurant). Kevin was a marketing direttore in America for 12 years; his brand “Buongiorno, Borgoverde” starts Sunday deliveries, eight orders, about €32/week. Tommaso has played bass eight years, conservatorio exam in June. Nadia’s daughter Anna Yasmin.
+- **Changed:** Chiara mentions Emma’s song notebook; Emma denies it at home, but Bianca and Tommaso know, and Emma agrees to go with Tommaso. Franco approves Tommaso’s music plan; Franco told Kevin, Matteo and Nadia he lied at his 1975 tram interview. Franco calls Kevin’s business “piccolo ma tuo.”
+- **Planted:** Tommaso’s conservatorio admission; Emma’s notebook/songs; Kevin’s delivery service; Leo’s cappuccino/bar dream; Franco–Lucia June wedding; Franco’s San Siro trip with Leo.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
