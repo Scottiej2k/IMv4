@@ -10163,18 +10163,18 @@
             },
             {
               "id": "s03e24-2-002",
-              "it": "L'assembla di classe è giovedì e ogni coppia deve raccontare una storia vera.",
+              "it": "L'assemblea di classe è giovedì e ogni coppia deve raccontare una storia vera.",
               "en": "The class assembly is on Thursday and each pair has to tell a true story.",
               "voice": [
                 [
                   "narrator",
-                  "L'assembla di classe è giovedì e ogni coppia deve raccontare una storia vera.",
+                  "L'assemblea di classe è giovedì e ogni coppia deve raccontare una storia vera.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "L'assembla",
+                  "L'assemblea",
                   0,
                   ""
                 ],
@@ -33871,8 +33871,8 @@
             },
             {
               "id": "s03e24-4-052",
-              "it": "«“Ti ho vista la prima volta al corso di ballo...”» Nessuna vocale: allarga gli occhi e cerca il fazzoletto. Sta per piangere.",
-              "en": "“‘I saw you the first time at the dance class...’” No vowel: she widens her eyes and looks for a tissue. She's about to cry.",
+              "it": "«“Ti ho vista la prima volta al corso di ballo...”» Allarga gli occhi e cerca il fazzoletto. Sta per piangere.",
+              "en": "“‘I saw you the first time at the dance class...’” She widens her eyes and looks for a tissue. She's about to cry.",
               "voice": [
                 [
                   "nadia",
@@ -33881,7 +33881,7 @@
                 ],
                 [
                   "narrator",
-                  "Nessuna vocale: allarga gli occhi e cerca il fazzoletto. Sta per piangere.",
+                  "Allarga gli occhi e cerca il fazzoletto. Sta per piangere.",
                   ""
                 ]
               ],
@@ -33992,7 +33992,7 @@
                   ""
                 ],
                 [
-                  "Nessuna",
+                  "Allarga",
                   10,
                   ""
                 ],
@@ -34002,28 +34002,8 @@
                   ""
                 ],
                 [
-                  "vocale",
-                  11,
-                  ""
-                ],
-                [
-                  ": ",
-                  -1,
-                  ""
-                ],
-                [
-                  "allarga",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "gli",
-                  13,
+                  11,
                   ""
                 ],
                 [
@@ -34033,7 +34013,7 @@
                 ],
                 [
                   "occhi",
-                  14,
+                  12,
                   ""
                 ],
                 [
@@ -34043,7 +34023,7 @@
                 ],
                 [
                   "e",
-                  15,
+                  13,
                   ""
                 ],
                 [
@@ -34053,7 +34033,7 @@
                 ],
                 [
                   "cerca",
-                  16,
+                  14,
                   ""
                 ],
                 [
@@ -34063,7 +34043,7 @@
                 ],
                 [
                   "il",
-                  17,
+                  15,
                   ""
                 ],
                 [
@@ -34073,7 +34053,7 @@
                 ],
                 [
                   "fazzoletto",
-                  18,
+                  16,
                   ""
                 ],
                 [
@@ -34083,7 +34063,7 @@
                 ],
                 [
                   "Sta",
-                  19,
+                  17,
                   ""
                 ],
                 [
@@ -34093,7 +34073,7 @@
                 ],
                 [
                   "per",
-                  20,
+                  18,
                   ""
                 ],
                 [
@@ -34103,7 +34083,7 @@
                 ],
                 [
                   "piangere",
-                  21,
+                  19,
                   ""
                 ],
                 [
@@ -35460,12 +35440,12 @@
           "segments": [
             {
               "id": "s03e24-4-072",
-              "it": "«È gennaio.»",
-              "en": "“It's January.”",
+              "it": "«È febbraio.»",
+              "en": "“It's February.”",
               "voice": [
                 [
                   "chiara",
-                  "È gennaio.",
+                  "È febbraio.",
                   ""
                 ]
               ],
@@ -35486,7 +35466,7 @@
                   ""
                 ],
                 [
-                  "gennaio",
+                  "febbraio",
                   1,
                   ""
                 ],
@@ -35503,12 +35483,12 @@
           "segments": [
             {
               "id": "s03e24-4-073",
-              "it": "«Il forno è caldo in gennaio.»",
-              "en": "“The oven is hot in January.”",
+              "it": "«Il forno è caldo in febbraio.»",
+              "en": "“The oven is hot in February.”",
               "voice": [
                 [
                   "ben",
-                  "Il forno è caldo in gennaio.",
+                  "Il forno è caldo in febbraio.",
                   ""
                 ]
               ],
@@ -35569,7 +35549,7 @@
                   ""
                 ],
                 [
-                  "gennaio",
+                  "febbraio",
                   5,
                   ""
                 ],
@@ -36869,12 +36849,12 @@
           "segments": [
             {
               "id": "s03e24-4-090",
-              "it": "«Comunque, giovedì c'è l'assembla di Emma.»",
+              "it": "«Comunque, giovedì c'è l'assemblea di Emma.»",
               "en": "“Anyway, Emma's assembly is on Thursday.”",
               "voice": [
                 [
                   "chiara",
-                  "Comunque, giovedì c'è l'assembla di Emma.",
+                  "Comunque, giovedì c'è l'assemblea di Emma.",
                   ""
                 ]
               ],
@@ -36915,7 +36895,7 @@
                   ""
                 ],
                 [
-                  "l'assembla",
+                  "l'assemblea",
                   3,
                   ""
                 ],
@@ -36952,12 +36932,12 @@
           "segments": [
             {
               "id": "s03e24-4-091",
-              "it": "«L'assembla?»",
+              "it": "«L'assemblea?»",
               "en": "“The assembly?”",
               "voice": [
                 [
                   "ben",
-                  "L'assembla?",
+                  "L'assemblea?",
                   ""
                 ]
               ],
@@ -36968,7 +36948,7 @@
                   ""
                 ],
                 [
-                  "L'assembla",
+                  "L'assemblea",
                   0,
                   ""
                 ],
@@ -38651,12 +38631,12 @@
           "segments": [
             {
               "id": "s03e24-4-112",
-              "it": "«All'assembla. Dopo la storia. C'è l'**applauso**?»",
+              "it": "«All'assemblea. Dopo la storia. C'è l'**applauso**?»",
               "en": "“At the assembly. After the story. Is there **applause**?”",
               "voice": [
                 [
                   "matteo",
-                  "All'assembla. Dopo la storia. C'è l'**applauso**?",
+                  "All'assemblea. Dopo la storia. C'è l'**applauso**?",
                   ""
                 ]
               ],
@@ -38667,7 +38647,7 @@
                   ""
                 ],
                 [
-                  "All'assembla",
+                  "All'assemblea",
                   0,
                   ""
                 ],

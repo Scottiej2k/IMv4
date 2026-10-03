@@ -135,7 +135,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Italiano | English |
 |---|---|
 | È lunedì mattina e nell'aula magna del liceo c'è odore di vernice. | It's Monday morning and in the school's big hall there's a smell of paint. |
-| L'assembla di classe è giovedì e ogni coppia deve raccontare una storia vera. | The class assembly is on Thursday and each pair has to tell a true story. |
+| L'assemblea di classe è giovedì e ogni coppia deve raccontare una storia vera. | The class assembly is on Thursday and each pair has to tell a true story. |
 | Emma, Tommaso e Bianca sono arrivati presto e provano il discorso vicino al palco. | Emma, Tommaso and Bianca arrived early and are rehearsing the speech near the stage. |
 | Sul palco c'è un **microfono** nuovo, ancora nella scatola. | On the stage there's a new **microphone**, still in its box. |
 | «Allora, come cominci?» chiede Bianca, seduta sulla prima fila. | “So, how do you start?” asks Bianca, sitting in the first row. |
@@ -453,7 +453,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Matteo, tu **inventi** sempre tutto.» | “Matteo, you always make everything up.” |
 | «Io racconto. È diverso.» | “I tell stories. That's different.” |
 | Nadia legge il quaderno sopra la spalla di Kevin. | Nadia reads the notebook over Kevin's shoulder. |
-| «“Ti ho vista la prima volta al corso di ballo...”» Nessuna vocale: allarga gli occhi e cerca il fazzoletto. Sta per piangere. | “‘I saw you the first time at the dance class...’” No vowel: she widens her eyes and looks for a tissue. She's about to cry. |
+| «“Ti ho vista la prima volta al corso di ballo...”» Allarga gli occhi e cerca il fazzoletto. Sta per piangere. | “‘I saw you the first time at the dance class...’” She widens her eyes and looks for a tissue. She's about to cry. |
 | «Nadia?» | “Nadia?” |
 | «Niente. Sono le donne. Dopo il parto si piange anche per il meteo.» | “Nothing. It's women. After giving birth you cry even about the weather.” |
 | «Non piove.» | “It's not raining.” |
@@ -473,8 +473,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin **arrossisce** fino alle orecchie. | Kevin **blushes** up to his ears. |
 | «Kevin, sei rosso.» | “Kevin, you're red.” |
 | «È il forno. C'è caldo oggi.» | “It's the oven. It's hot today.” |
-| «È gennaio.» | “It's January.” |
-| «Il forno è caldo in gennaio.» | “The oven is hot in January.” |
+| «È febbraio.» | “It's February.” |
+| «Il forno è caldo in febbraio.» | “The oven is hot in February.” |
 | Kevin prende il quaderno e lo **nasconde** sotto la cassa. | Kevin takes the notebook and **hides** it under the till. |
 | Chiara guarda il gesto, ma non dice niente. | Chiara sees the gesture, but says nothing. |
 | «E il **segreto**?» | “And the **secret**?” |
@@ -491,8 +491,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ha le **bugie** scritte in faccia.» | “He has **lies** written all over his face.” |
 | «Sì, lo vedo.» | “Yes, I can see that.” |
 | Chiara beve il caffè in piedi e lascia i soldi sul bancone. | Chiara drinks the coffee standing and leaves the money on the counter. |
-| «Comunque, giovedì c'è l'assembla di Emma.» | “Anyway, Emma's assembly is on Thursday.” |
-| «L'assembla?» | “The assembly?” |
+| «Comunque, giovedì c'è l'assemblea di Emma.» | “Anyway, Emma's assembly is on Thursday.” |
+| «L'assemblea?» | “The assembly?” |
 | «Alle dieci, al liceo. Emma e Tommaso raccontano la loro storia davanti al **pubblico**.» | “At ten, at the high school. Emma and Tommaso tell their story in front of an **audience**.” |
 | «Davanti al **pubblico**?» | “In front of an **audience**?” |
 | «Sì. Bravo Kevin. Ripeti tutto, oggi.» | “Yes. Good job, Kevin. You repeat everything today.” |
@@ -513,7 +513,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin si siede sullo sgabello e mette la testa tra le mani. | Kevin sits on the stool and puts his head in his hands. |
 | «E l'**applauso**?» | “And the **applause**?” |
 | «Quale **applauso**?» | “Which **applause**?” |
-| «All'assembla. Dopo la storia. C'è l'**applauso**?» | “At the assembly. After the story. Is there **applause**?” |
+| «All'assemblea. Dopo la storia. C'è l'**applauso**?» | “At the assembly. After the story. Is there **applause**?” |
 | «Non lo so. Chiedi a Emma.» | “I don't know. Ask Emma.” |
 | «Ma tu hai detto che l'**applauso**...» | “But you said the **applause**...” |
 | «L'**applauso** è per Franco!» | “The **applause** is for Franco!” |

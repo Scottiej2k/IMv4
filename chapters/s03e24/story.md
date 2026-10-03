@@ -210,7 +210,7 @@ Kevin guarda la saliera, poi Franco, poi il quaderno giallo. _Non è vero. Volev
 
 ## 2. Liceo linguistico, Monza · lunedì mattina
 
-È lunedì mattina e nell'aula magna del liceo c'è odore di vernice. L'assembla di classe è giovedì e ogni coppia deve raccontare una storia vera. Emma, Tommaso e Bianca sono arrivati presto e provano il discorso vicino al palco. Sul palco c'è un **microfono** nuovo, ancora nella scatola.
+È lunedì mattina e nell'aula magna del liceo c'è odore di vernice. L'assemblea di classe è giovedì e ogni coppia deve raccontare una storia vera. Emma, Tommaso e Bianca sono arrivati presto e provano il discorso vicino al palco. Sul palco c'è un **microfono** nuovo, ancora nella scatola.
 
 «Allora, come cominci?» chiede Bianca, seduta sulla prima fila.
 
@@ -692,7 +692,7 @@ Kevin prende il quaderno e scrive. «Non **inventare** niente. Le parole devono 
 
 «Io racconto. È diverso.»
 
-Nadia legge il quaderno sopra la spalla di Kevin. «“Ti ho vista la prima volta al corso di ballo...”» Nessuna vocale: allarga gli occhi e cerca il fazzoletto. Sta per piangere.
+Nadia legge il quaderno sopra la spalla di Kevin. «“Ti ho vista la prima volta al corso di ballo...”» Allarga gli occhi e cerca il fazzoletto. Sta per piangere.
 
 «Nadia?»
 
@@ -722,9 +722,9 @@ Chiara si siede e guarda i tre. «Che facce avete?»
 
 «È il forno. C'è caldo oggi.»
 
-«È gennaio.»
+«È febbraio.»
 
-«Il forno è caldo in gennaio.»
+«Il forno è caldo in febbraio.»
 
 Kevin prende il quaderno e lo **nasconde** sotto la cassa. Chiara guarda il gesto, ma non dice niente. «E il **segreto**?»
 
@@ -750,9 +750,9 @@ Nadia guarda Kevin e poi Chiara. «La **verità** è che Kevin è un pessimo bug
 
 «Sì, lo vedo.» Chiara beve il caffè in piedi e lascia i soldi sul bancone.
 
-«Comunque, giovedì c'è l'assembla di Emma.»
+«Comunque, giovedì c'è l'assemblea di Emma.»
 
-«L'assembla?»
+«L'assemblea?»
 
 «Alle dieci, al liceo. Emma e Tommaso raccontano la loro storia davanti al **pubblico**.»
 
@@ -786,7 +786,7 @@ Chiara esce e la porta si chiude. Matteo si avvicina a Kevin con un sorriso larg
 
 «Quale **applauso**?»
 
-«All'assembla. Dopo la storia. C'è l'**applauso**?»
+«All'assemblea. Dopo la storia. C'è l'**applauso**?»
 
 «Non lo so. Chiedi a Emma.»
 
