@@ -27,7 +27,7 @@ il casco | noun | m | helmet | casco
 la radiografia | noun | f | X-ray | radiografia
 @end
 
-# SCENE via | sabato pomeriggio | leo, tommaso, emma, ben
+# SCENE via | sabato pomeriggio | leo, tommaso, emma, ben, chiara, franco
 È sabato pomeriggio in Via dei Tigli. || It's Saturday afternoon on Via dei Tigli.
 Il sole è basso e le ombre sono lunghe. || The sun is low and the shadows are long.
 Davanti al numero quattordici c'è Leo, seduto sul muretto. || In front of number fourteen there's Leo, sitting on the low wall.
@@ -124,12 +124,12 @@ Poi Kevin chiama anche Franco. Due volte. || Then Kevin also calls Franco. Twice
 «Dallo skateboard. Forse il **braccio** **si è rotto**.»{ben} || "Off the skateboard. Maybe his **arm** **is broken**."
 «L'**ambulanza** non serve?»{ben} || "There's no need for the **ambulance**?"
 «No. Parla, respira, piange un po'.»{franco} || "No. He talks, he breathes, he cries a little."
-«Allora portalo qui con la macchina.»{franco} || "Then bring him here by car."
+«Allora portatelo subito in macchina.»{franco} || "Then take him by car right away."
 «Kevin, gli **incidenti** succedono.»{franco} || "Kevin, **accidents** happen."
 Kevin guarda Leo. Leo parla. Leo respira. || Kevin looks at Leo. Leo talks. Leo breathes.
 
 «Niente **ambulanza**. Andiamo in macchina.»{ben} || "No **ambulance**. We're going by car."
-_Uno **braccio** può **rompersi** in un secondo._{ben} || *An **arm** can **break** in a second.*
+_Un **braccio** può **rompersi** in un secondo._{ben} || *An **arm** can **break** in a second.*
 Emma aiuta Leo ad alzarsi. Tommaso prende lo skateboard. || Emma helps Leo get up. Tommaso picks up the skateboard.
 **Mentre** Tommaso **raccoglie** il **casco** dal muretto, le sue mani tremano. || **While** Tommaso **picks up** the **helmet** from the low wall, his hands shake.
 _Una **caduta** stupida. Una **caduta** stupida._{tommaso} || *A stupid **fall**. A stupid **fall**.*
@@ -345,7 +345,7 @@ Roberto ascolta con la bocca stretta. || Roberto listens with his mouth tight.
 
 «La **colpa** non è di suo figlio.»{ben} || "The **fault** isn't your son's."
 «E non è mia e non è di Leo.»{ben} || "And it isn't mine and it isn't Leo's."
-«È uno **incidente**. Succede. Anche a lei, signor Colombo.»{ben} || "It's an **accident**. It happens. To you too, Mr. Colombo."
+«È un **incidente**. Succede. Anche a lei, signor Colombo.»{ben} || "It's an **accident**. It happens. To you too, Mr. Colombo."
 
 Roberto resta in silenzio. || Roberto stays silent.
 Poi guarda Tommaso, che ha ancora gli occhi per terra. || Then he looks at Tommaso, who still has his eyes on the floor.
@@ -385,8 +385,8 @@ Roberto, in fondo alla **sala d'attesa**, non parla. || Roberto, at the far end 
 Ma non va via. || But he doesn't leave.
 Kevin si siede a due sedie da lui. || Kevin sits two chairs away from him.
 «Lei resta?»{ben} chiede Kevin. || "Are you staying?" Kevin asks.
-«Resta mia moglie qui per il bambino.»{roberto|formal} || "My wife is staying here for the child."
-Poi aggiunge, quasi tra sé: «Resto anch'io.»{roberto} || Then he adds, almost to himself: "I'm staying too."
+«Resto qui per mio figlio.»{roberto|formal} || "I'm staying here for my son."
+Poi aggiunge, quasi tra sé: «Anche se non serve.»{roberto} || Then he adds, almost to himself: "Even if it doesn't help."
 
 Nella **sala d'attesa** si sente solo il rumore delle sedie. || In the **waiting room** you only hear the noise of the chairs.
 Emma si siede vicino a Tommaso. Non dice niente. || Emma sits next to Tommaso. She says nothing.
@@ -545,7 +545,7 @@ Fuori c'è una bicicletta contro il muro. || Outside there's a bicycle against t
 Alle dieci e un quarto suona il campanello. || At a quarter past ten the doorbell rings.
 
 Kevin apre. Davanti alla porta c'è Tommaso. || Kevin opens. In front of the door is Tommaso.
-Ha lo skateboard sotto il **braccio** e il **casco** in mano. || He has the skateboard under his arm and the **helmet** in his hand.
+Ha lo skateboard sotto il braccio e il casco in mano. || He has the skateboard under his arm and the helmet in his hand.
 «Buonasera, signor Carter.»{tommaso|formal and quiet} || "Good evening, Mr. Carter."
 «Tommaso. Entra.»{ben} || "Tommaso. Come in."
 
@@ -596,7 +596,7 @@ Posa il **casco** accanto allo skateboard. || He sets the **helmet** next to the
 «**Mentre** dormi, Leo sogna lo skateboard.»{ben} || "**While** you sleep, Leo dreams about the skateboard."
 «Lo so. Sogna sempre lo skateboard.»{tommaso|small smile} || "I know. He always dreams about the skateboard."
 
-Chiara arriva dal cucina con la tazza in mano. || Chiara comes from the kitchen with her cup in her hand.
+Chiara arriva dalla cucina con la tazza in mano. || Chiara comes from the kitchen with her cup in her hand.
 «Tommaso, hai fatto bene a venire.»{chiara} || "Tommaso, you did well to come."
 «Grazie, signora Ferri... Chiara.»{tommaso} || "Thank you, Mrs. Ferri... Chiara."
 «Domenica pomeriggio, se vuoi, Leo è a casa.»{chiara} || "Sunday afternoon, if you want, Leo is home."
@@ -646,7 +646,7 @@ Kevin spegne la luce del salotto. || Kevin turns off the living room light.
 Il **braccio** di Leo è sul cuscino, con l'**ingessatura** bianca. || Leo's **arm** is on the cushion, with the white **cast**.
 Fuori, in Via dei Tigli, c'è silenzio. || Outside, on Via dei Tigli, there is silence.
 
-# SCENE bar-tigli | domenica mattina | ben, roberto, franco, leo
+# SCENE bar-tigli | domenica mattina | ben, roberto, franco, leo, matteo
 Domenica mattina al Bar Tigli. || Sunday morning at Bar Tigli.
 Fuori piove piano e dentro c'è odore di caffè. || Outside it's raining lightly and inside there's the smell of coffee.
 Kevin è dietro il banco e apre alle sette. || Kevin is behind the counter and opens at seven.
@@ -733,8 +733,8 @@ Sette firme, un sorriso, e un gatto sul **braccio**. || Seven signatures, a smil
 # SCENE casa-carter | domenica sera | leo, emma, ben
 Domenica sera, in salotto, Leo conta le firme. || Sunday evening, in the living room, Leo counts the signatures.
 Il **braccio** è sul tavolo, con l'**ingessatura** bianca. || His **arm** is on the table, with the white **cast**.
-«Diciannove!»{leo|proud} dice Leo. «Diciannove firme!»{leo} || "Nineteen!" says Leo. "Nineteen signatures!"
-«Nessuno in classe mia ha diciannove firme.»{leo} || "Nobody in my class has nineteen signatures."
+«Nove!»{leo|proud} dice Leo. «Nove firme!»{leo} || "Nine!" says Leo. "Nine signatures!"
+«Nessuno in classe mia ha nove firme.»{leo} || "Nobody in my class has nine signatures."
 
 Emma è sul divano, con il telefono. || Emma is on the sofa, with her phone.
 Guarda la **ingessatura** e ride un po'. || She looks at the **cast** and laughs a little.

@@ -1518,7 +1518,7 @@
         ],
         [
           "s03e05-1-078:0-5",
-          "s03e05-1-079:0-5",
+          "s03e05-1-079:0-4",
           "s03e05-1-080:0-3"
         ]
       ],
@@ -1552,7 +1552,7 @@
               },
               {
                 "type": "text",
-                "text": "No. Parla, respira, piange un po'. Allora portalo qui con la macchina. Kevin, gli incidenti succedono.",
+                "text": "No. Parla, respira, piange un po'. Allora portatelo subito in macchina. Kevin, gli incidenti succedono.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -1644,7 +1644,7 @@
               },
               {
                 "type": "text",
-                "text": "Uno braccio può rompersi in un secondo.",
+                "text": "Un braccio può rompersi in un secondo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -5924,7 +5924,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Il braccio, non la testa. Un incidente, non una colpa. Niente ambulanza, niente pericolo. Per fortuna. La colpa non è di suo figlio. E non è mia e non è di Leo. È uno incidente. Succede. Anche a lei, signor Colombo.",
+                "text": "Sì. Il braccio, non la testa. Un incidente, non una colpa. Niente ambulanza, niente pericolo. Per fortuna. La colpa non è di suo figlio. E non è mia e non è di Leo. È un incidente. Succede. Anche a lei, signor Colombo.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6773,13 +6773,13 @@
       ],
       "words": [
         [
-          "s03e05-3-086:0-6"
+          "s03e05-3-086:0-4"
         ],
         [
           "s03e05-3-087:0-4"
         ],
         [
-          "s03e05-3-087:5-6"
+          "s03e05-3-087:5-8"
         ],
         [
           "s03e05-3-088:0-9",
@@ -6796,7 +6796,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Resta mia moglie qui per il bambino.",
+                "text": "Resto qui per mio figlio.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6818,7 +6818,7 @@
               },
               {
                 "type": "text",
-                "text": "Resto anch'io.",
+                "text": "Anche se non serve.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10471,7 +10471,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Chiara arriva dal cucina con la tazza in mano.",
+                "text": "Chiara arriva dalla cucina con la tazza in mano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13188,7 +13188,7 @@
               },
               {
                 "type": "text",
-                "text": "Diciannove!",
+                "text": "Nove!",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13210,7 +13210,7 @@
               },
               {
                 "type": "text",
-                "text": "Diciannove firme! Nessuno in classe mia ha diciannove firme.",
+                "text": "Nove firme! Nessuno in classe mia ha nove firme.",
                 "annotations": [
                   {
                     "type": "speech_metadata",

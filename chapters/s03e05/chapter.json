@@ -323,7 +323,9 @@
         "leo",
         "tommaso",
         "emma",
-        "ben"
+        "ben",
+        "chiara",
+        "franco"
       ],
       "paragraphs": [
         {
@@ -7081,12 +7083,12 @@
             },
             {
               "id": "s03e05-1-079",
-              "it": "«Allora portalo qui con la macchina.»",
-              "en": "\"Then bring him here by car.\"",
+              "it": "«Allora portatelo subito in macchina.»",
+              "en": "\"Then take him by car right away.\"",
               "voice": [
                 [
                   "franco",
-                  "Allora portalo qui con la macchina.",
+                  "Allora portatelo subito in macchina.",
                   ""
                 ]
               ],
@@ -7107,7 +7109,7 @@
                   ""
                 ],
                 [
-                  "portalo",
+                  "portatelo",
                   1,
                   ""
                 ],
@@ -7117,7 +7119,7 @@
                   ""
                 ],
                 [
-                  "qui",
+                  "subito",
                   2,
                   ""
                 ],
@@ -7127,7 +7129,7 @@
                   ""
                 ],
                 [
-                  "con",
+                  "in",
                   3,
                   ""
                 ],
@@ -7137,18 +7139,8 @@
                   ""
                 ],
                 [
-                  "la",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "macchina",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -7382,18 +7374,18 @@
             },
             {
               "id": "s03e05-1-083",
-              "it": "_Uno **braccio** può **rompersi** in un secondo._",
+              "it": "_Un **braccio** può **rompersi** in un secondo._",
               "en": "_An **arm** can **break** in a second._",
               "voice": [
                 [
                   "ben",
-                  "Uno **braccio** può **rompersi** in un secondo.",
+                  "Un **braccio** può **rompersi** in un secondo.",
                   "thinking to themself, quiet and close"
                 ]
               ],
               "tokens": [
                 [
-                  "Uno",
+                  "Un",
                   0,
                   "i"
                 ],
@@ -22474,12 +22466,12 @@
             },
             {
               "id": "s03e05-3-053",
-              "it": "«È uno **incidente**. Succede. Anche a lei, signor Colombo.»",
+              "it": "«È un **incidente**. Succede. Anche a lei, signor Colombo.»",
               "en": "\"It's an **accident**. It happens. To you too, Mr. Colombo.\"",
               "voice": [
                 [
                   "ben",
-                  "È uno **incidente**. Succede. Anche a lei, signor Colombo.",
+                  "È un **incidente**. Succede. Anche a lei, signor Colombo.",
                   ""
                 ]
               ],
@@ -22500,7 +22492,7 @@
                   ""
                 ],
                 [
-                  "uno",
+                  "un",
                   1,
                   ""
                 ],
@@ -25295,12 +25287,12 @@
           "segments": [
             {
               "id": "s03e05-3-086",
-              "it": "«Resta mia moglie qui per il bambino.»",
-              "en": "\"My wife is staying here for the child.\"",
+              "it": "«Resto qui per mio figlio.»",
+              "en": "\"I'm staying here for my son.\"",
               "voice": [
                 [
                   "roberto",
-                  "Resta mia moglie qui per il bambino.",
+                  "Resto qui per mio figlio.",
                   "formal"
                 ]
               ],
@@ -25311,7 +25303,7 @@
                   ""
                 ],
                 [
-                  "Resta",
+                  "Resto",
                   0,
                   ""
                 ],
@@ -25321,7 +25313,7 @@
                   ""
                 ],
                 [
-                  "mia",
+                  "qui",
                   1,
                   ""
                 ],
@@ -25331,7 +25323,7 @@
                   ""
                 ],
                 [
-                  "moglie",
+                  "per",
                   2,
                   ""
                 ],
@@ -25341,7 +25333,7 @@
                   ""
                 ],
                 [
-                  "qui",
+                  "mio",
                   3,
                   ""
                 ],
@@ -25351,28 +25343,8 @@
                   ""
                 ],
                 [
-                  "per",
+                  "figlio",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "il",
-                  5,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "bambino",
-                  6,
                   ""
                 ],
                 [
@@ -25384,8 +25356,8 @@
             },
             {
               "id": "s03e05-3-087",
-              "it": "Poi aggiunge, quasi tra sé: «Resto anch'io.»",
-              "en": "Then he adds, almost to himself: \"I'm staying too.\"",
+              "it": "Poi aggiunge, quasi tra sé: «Anche se non serve.»",
+              "en": "Then he adds, almost to himself: \"Even if it doesn't help.\"",
               "voice": [
                 [
                   "narrator",
@@ -25394,7 +25366,7 @@
                 ],
                 [
                   "roberto",
-                  "Resto anch'io.",
+                  "Anche se non serve.",
                   ""
                 ]
               ],
@@ -25450,7 +25422,7 @@
                   ""
                 ],
                 [
-                  "Resto",
+                  "Anche",
                   5,
                   ""
                 ],
@@ -25460,8 +25432,28 @@
                   ""
                 ],
                 [
-                  "anch'io",
+                  "se",
                   6,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "non",
+                  7,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "serve",
+                  8,
                   ""
                 ],
                 [
@@ -36330,12 +36322,12 @@
             },
             {
               "id": "s03e05-5-017",
-              "it": "Ha lo skateboard sotto il **braccio** e il **casco** in mano.",
-              "en": "He has the skateboard under his arm and the **helmet** in his hand.",
+              "it": "Ha lo skateboard sotto il braccio e il casco in mano.",
+              "en": "He has the skateboard under his arm and the helmet in his hand.",
               "voice": [
                 [
                   "narrator",
-                  "Ha lo skateboard sotto il **braccio** e il **casco** in mano.",
+                  "Ha lo skateboard sotto il braccio e il casco in mano.",
                   ""
                 ]
               ],
@@ -36393,7 +36385,7 @@
                 [
                   "braccio",
                   5,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36423,7 +36415,7 @@
                 [
                   "casco",
                   8,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -36450,10 +36442,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-braccio",
-                "v-casco"
               ]
             },
             {
@@ -39963,12 +39951,12 @@
           "segments": [
             {
               "id": "s03e05-5-058",
-              "it": "Chiara arriva dal cucina con la tazza in mano.",
+              "it": "Chiara arriva dalla cucina con la tazza in mano.",
               "en": "Chiara comes from the kitchen with her cup in her hand.",
               "voice": [
                 [
                   "narrator",
-                  "Chiara arriva dal cucina con la tazza in mano.",
+                  "Chiara arriva dalla cucina con la tazza in mano.",
                   ""
                 ]
               ],
@@ -39994,7 +39982,7 @@
                   ""
                 ],
                 [
-                  "dal",
+                  "dalla",
                   2,
                   ""
                 ],
@@ -43540,7 +43528,8 @@
         "ben",
         "roberto",
         "franco",
-        "leo"
+        "leo",
+        "matteo"
       ],
       "paragraphs": [
         {
@@ -49731,12 +49720,12 @@
             },
             {
               "id": "s03e05-7-003",
-              "it": "«Diciannove!» dice Leo. «Diciannove firme!»",
-              "en": "\"Nineteen!\" says Leo. \"Nineteen signatures!\"",
+              "it": "«Nove!» dice Leo. «Nove firme!»",
+              "en": "\"Nine!\" says Leo. \"Nine signatures!\"",
               "voice": [
                 [
                   "leo",
-                  "Diciannove!",
+                  "Nove!",
                   "proud"
                 ],
                 [
@@ -49746,7 +49735,7 @@
                 ],
                 [
                   "leo",
-                  "Diciannove firme!",
+                  "Nove firme!",
                   ""
                 ]
               ],
@@ -49757,7 +49746,7 @@
                   ""
                 ],
                 [
-                  "Diciannove",
+                  "Nove",
                   0,
                   ""
                 ],
@@ -49787,7 +49776,7 @@
                   ""
                 ],
                 [
-                  "Diciannove",
+                  "Nove",
                   3,
                   ""
                 ],
@@ -49810,12 +49799,12 @@
             },
             {
               "id": "s03e05-7-004",
-              "it": "«Nessuno in classe mia ha diciannove firme.»",
-              "en": "\"Nobody in my class has nineteen signatures.\"",
+              "it": "«Nessuno in classe mia ha nove firme.»",
+              "en": "\"Nobody in my class has nine signatures.\"",
               "voice": [
                 [
                   "leo",
-                  "Nessuno in classe mia ha diciannove firme.",
+                  "Nessuno in classe mia ha nove firme.",
                   ""
                 ]
               ],
@@ -49876,7 +49865,7 @@
                   ""
                 ],
                 [
-                  "diciannove",
+                  "nove",
                   5,
                   ""
                 ],

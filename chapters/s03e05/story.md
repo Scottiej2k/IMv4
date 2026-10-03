@@ -70,9 +70,9 @@ Poi Kevin chiama anche Franco. Due volte. «Franco? Sono Kevin. Leo **è caduto*
 
 «Dallo skateboard. Forse il **braccio** **si è rotto**.» «L'**ambulanza** non serve?»
 
-«No. Parla, respira, piange un po'.» «Allora portalo qui con la macchina.» «Kevin, gli **incidenti** succedono.» Kevin guarda Leo. Leo parla. Leo respira.
+«No. Parla, respira, piange un po'.» «Allora portatelo subito in macchina.» «Kevin, gli **incidenti** succedono.» Kevin guarda Leo. Leo parla. Leo respira.
 
-«Niente **ambulanza**. Andiamo in macchina.» _Uno **braccio** può **rompersi** in un secondo._
+«Niente **ambulanza**. Andiamo in macchina.» _Un **braccio** può **rompersi** in un secondo._
 
 Emma aiuta Leo ad alzarsi. Tommaso prende lo skateboard. **Mentre** Tommaso **raccoglie** il **casco** dal muretto, le sue mani tremano. _Una **caduta** stupida. Una **caduta** stupida._
 
@@ -246,7 +246,7 @@ Roberto ascolta con la bocca stretta. «Il bambino **si è fatto male** al **bra
 
 «Sì. Il **braccio**, non la testa. Un **incidente**, non una **colpa**.» «Niente **ambulanza**, niente pericolo. **Per fortuna**.»
 
-«La **colpa** non è di suo figlio.» «E non è mia e non è di Leo.» «È uno **incidente**. Succede. Anche a lei, signor Colombo.»
+«La **colpa** non è di suo figlio.» «E non è mia e non è di Leo.» «È un **incidente**. Succede. Anche a lei, signor Colombo.»
 
 Roberto resta in silenzio. Poi guarda Tommaso, che ha ancora gli occhi per terra. «Nove anni fa,» dice, «Tommaso **è caduto** dalla bicicletta.» «Ho gridato con il vicino. Il vicino non era colpevole.» Kevin non dice niente. Aspetta.
 
@@ -270,7 +270,7 @@ Chiara prende Emma per un braccio. «Emma, tutto bene?»
 
 Roberto, in fondo alla **sala d'attesa**, non parla. Ma non va via. Kevin si siede a due sedie da lui. «Lei resta?» chiede Kevin.
 
-«Resta mia moglie qui per il bambino.» Poi aggiunge, quasi tra sé: «Resto anch'io.»
+«Resto qui per mio figlio.» Poi aggiunge, quasi tra sé: «Anche se non serve.»
 
 Nella **sala d'attesa** si sente solo il rumore delle sedie. Emma si siede vicino a Tommaso. Non dice niente. Gli dà un pezzo di cioccolata, senza guardarlo. Tommaso la prende. «Grazie.» Emma annuisce.
 
@@ -376,7 +376,7 @@ Chiara ride e lo abbraccia con un **braccio** solo. «Sì, Leo. Lunedì torni a 
 
 Sono le dieci di sera a Via dei Tigli 14. In salotto la luce è bassa e la TV è spenta. Leo dorme sul divano. Il **braccio** è su un cuscino. Sull'**ingessatura** ci sono cinque firme e un sorriso. Sopra l'**ingessatura** c'è un panno con il **ghiaccio**. Leo dorme con la bocca aperta **tranquillo**. Chiara è in cucina con una tazza. **Mentre** beve il tè, guarda il corridoio. Prima ha messo il **ghiaccio** di nuovo sul **braccio**. Adesso il **dolore** non c'è più. Leo dorme. Emma è sulle scale, seduta. Kevin è sulla porta e guarda la strada buia. Fuori c'è una bicicletta contro il muro. Alle dieci e un quarto suona il campanello.
 
-Kevin apre. Davanti alla porta c'è Tommaso. Ha lo skateboard sotto il **braccio** e il **casco** in mano. «Buonasera, signor Carter.»
+Kevin apre. Davanti alla porta c'è Tommaso. Ha lo skateboard sotto il braccio e il casco in mano. «Buonasera, signor Carter.»
 
 «Tommaso. Entra.»
 
@@ -416,7 +416,7 @@ Tommaso posa lo skateboard sul pavimento. Posa il **casco** accanto allo skatebo
 
 «Lo so. Sogna sempre lo skateboard.»
 
-Chiara arriva dal cucina con la tazza in mano. «Tommaso, hai fatto bene a venire.»
+Chiara arriva dalla cucina con la tazza in mano. «Tommaso, hai fatto bene a venire.»
 
 «Grazie, signora Ferri... Chiara.»
 
@@ -528,7 +528,7 @@ Roberto firma con il nome completo: *Roberto Colombo*. Poi aggiunge una parola s
 
 ## 7. Casa Carter, Via dei Tigli 14 · domenica sera
 
-Domenica sera, in salotto, Leo conta le firme. Il **braccio** è sul tavolo, con l'**ingessatura** bianca. «Diciannove!» dice Leo. «Diciannove firme!» «Nessuno in classe mia ha diciannove firme.»
+Domenica sera, in salotto, Leo conta le firme. Il **braccio** è sul tavolo, con l'**ingessatura** bianca. «Nove!» dice Leo. «Nove firme!» «Nessuno in classe mia ha nove firme.»
 
 Emma è sul divano, con il telefono. Guarda la **ingessatura** e ride un po'. «Leo, hai contato Tommaso due volte.»
 

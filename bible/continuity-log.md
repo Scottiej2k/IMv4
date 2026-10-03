@@ -357,10 +357,10 @@ factual: this file is what keeps 200 chapters consistent.
 - **Planted:** Franco's Sunday telling (wedding, lemon cake); Matteo's engagement story; Emma to read the research to Chiara.
 
 ### s03e05 · Mentre dormivo
-- **Happened:** Leo falls off Tommaso's skateboard in Via dei Tigli and breaks one small forearm bone; he is treated at Ospedale di Monza's pronto soccorso and gets four weeks in a cast. Roberto blames Tommaso at the hospital; Kevin defends him, and Roberto backs down, later signing the cast with the word *pazienza*.
-- **New facts:** Dottoressa Bruni, ER doctor at Monza. Dario, a neighbor, has a dog; Marina, Roberto's wife, spread the news. Franco's pen is from 1978. Pavarotti the cat sleeps on Leo's cast at Bar Tigli. Kevin keeps a yellow notebook of new Italian words (ghiaccio, radiografia, colpa/incidente, amico, osso).
-- **Changed:** Kevin and Tommaso switch to *tu* (Tommaso calls him Kevin, and calls Chiara "Chiara"). Emma sees Kevin defend Tommaso and respects him more. Roberto admits nine years ago he wrongly shouted at a neighbor after Tommaso fell off a bicycle.
-- **Planted:** Emma's video of the fall still exists. Tommaso leaves his skateboard and helmet at the Carters' for a week and will walk Leo to school Monday.
+- **Happened:** Leo falls off Tommaso's skateboard on Via dei Tigli and breaks a small bone in his right arm; the Carters drive him to the pronto soccorso in Monza, where he gets a cast for four weeks. At the hospital Roberto publicly blames Tommaso; Kevin defends him until Roberto backs down. Kevin tells Tommaso "ci diamo del tu" and invites him to walk Leo to school Monday.
+- **New facts:** Dario has a dog (barks in Via dei Tigli); Pavarotti (Ornella's cat) visits Bar Tigli; Marina is a resident of Via dei Tigli; Dr. Bruni works at the Monza hospital; Leo's cast has signatures from Emma, Tommaso, the nurse, doctor, Franco and Roberto (Leo claims nine); Kevin keeps a yellow notebook; Franco has used the same pen since 1978.
+- **Changed:** Roberto thanks Kevin and signs Leo's cast, adding "pazienza"; Tommaso and Kevin now use tu (Tommaso drops "signor Carter"); Tommaso and Chiara use tu; Emma sees Kevin defend Tommaso and says "oggi sei stato bravo."
+- **Planted:** Tommaso's skateboard and helmet are stored behind the Carters' door "per una settimana"; Tommaso will walk Leo to school Monday; visit promised "domenica pomeriggio."
 
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.

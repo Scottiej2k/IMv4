@@ -86,11 +86,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Dallo skateboard. Forse il **braccio** **si è rotto**.» | "Off the skateboard. Maybe his **arm** **is broken**." |
 | «L'**ambulanza** non serve?» | "There's no need for the **ambulance**?" |
 | «No. Parla, respira, piange un po'.» | "No. He talks, he breathes, he cries a little." |
-| «Allora portalo qui con la macchina.» | "Then bring him here by car." |
+| «Allora portatelo subito in macchina.» | "Then take him by car right away." |
 | «Kevin, gli **incidenti** succedono.» | "Kevin, **accidents** happen." |
 | Kevin guarda Leo. Leo parla. Leo respira. | Kevin looks at Leo. Leo talks. Leo breathes. |
 | «Niente **ambulanza**. Andiamo in macchina.» | "No **ambulance**. We're going by car." |
-| _Uno **braccio** può **rompersi** in un secondo._ | _An **arm** can **break** in a second._ |
+| _Un **braccio** può **rompersi** in un secondo._ | _An **arm** can **break** in a second._ |
 | Emma aiuta Leo ad alzarsi. Tommaso prende lo skateboard. | Emma helps Leo get up. Tommaso picks up the skateboard. |
 | **Mentre** Tommaso **raccoglie** il **casco** dal muretto, le sue mani tremano. | **While** Tommaso **picks up** the **helmet** from the low wall, his hands shake. |
 | _Una **caduta** stupida. Una **caduta** stupida._ | _A stupid **fall**. A stupid **fall**._ |
@@ -276,7 +276,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Niente **ambulanza**, niente pericolo. **Per fortuna**.» | "No **ambulance**, no danger. **Luckily**." |
 | «La **colpa** non è di suo figlio.» | "The **fault** isn't your son's." |
 | «E non è mia e non è di Leo.» | "And it isn't mine and it isn't Leo's." |
-| «È uno **incidente**. Succede. Anche a lei, signor Colombo.» | "It's an **accident**. It happens. To you too, Mr. Colombo." |
+| «È un **incidente**. Succede. Anche a lei, signor Colombo.» | "It's an **accident**. It happens. To you too, Mr. Colombo." |
 | Roberto resta in silenzio. | Roberto stays silent. |
 | Poi guarda Tommaso, che ha ancora gli occhi per terra. | Then he looks at Tommaso, who still has his eyes on the floor. |
 | «Nove anni fa,» dice, «Tommaso **è caduto** dalla bicicletta.» | "Nine years ago," he says, "Tommaso **fell** off his bicycle." |
@@ -309,8 +309,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ma non va via. | But he doesn't leave. |
 | Kevin si siede a due sedie da lui. | Kevin sits two chairs away from him. |
 | «Lei resta?» chiede Kevin. | "Are you staying?" Kevin asks. |
-| «Resta mia moglie qui per il bambino.» | "My wife is staying here for the child." |
-| Poi aggiunge, quasi tra sé: «Resto anch'io.» | Then he adds, almost to himself: "I'm staying too." |
+| «Resto qui per mio figlio.» | "I'm staying here for my son." |
+| Poi aggiunge, quasi tra sé: «Anche se non serve.» | Then he adds, almost to himself: "Even if it doesn't help." |
 | Nella **sala d'attesa** si sente solo il rumore delle sedie. | In the **waiting room** you only hear the noise of the chairs. |
 | Emma si siede vicino a Tommaso. Non dice niente. | Emma sits next to Tommaso. She says nothing. |
 | Gli dà un pezzo di cioccolata, senza guardarlo. | She gives him a piece of chocolate, without looking at him. |
@@ -451,7 +451,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Fuori c'è una bicicletta contro il muro. | Outside there's a bicycle against the wall. |
 | Alle dieci e un quarto suona il campanello. | At a quarter past ten the doorbell rings. |
 | Kevin apre. Davanti alla porta c'è Tommaso. | Kevin opens. In front of the door is Tommaso. |
-| Ha lo skateboard sotto il **braccio** e il **casco** in mano. | He has the skateboard under his arm and the **helmet** in his hand. |
+| Ha lo skateboard sotto il braccio e il casco in mano. | He has the skateboard under his arm and the helmet in his hand. |
 | «Buonasera, signor Carter.» | "Good evening, Mr. Carter." |
 | «Tommaso. Entra.» | "Tommaso. Come in." |
 | Tommaso entra e resta in piedi, vicino alla porta. | Tommaso comes in and stays standing, near the door. |
@@ -492,7 +492,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Leo te li darà.» | "Leo will give them back to you." |
 | «**Mentre** dormi, Leo sogna lo skateboard.» | "**While** you sleep, Leo dreams about the skateboard." |
 | «Lo so. Sogna sempre lo skateboard.» | "I know. He always dreams about the skateboard." |
-| Chiara arriva dal cucina con la tazza in mano. | Chiara comes from the kitchen with her cup in her hand. |
+| Chiara arriva dalla cucina con la tazza in mano. | Chiara comes from the kitchen with her cup in her hand. |
 | «Tommaso, hai fatto bene a venire.» | "Tommaso, you did well to come." |
 | «Grazie, signora Ferri... Chiara.» | "Thank you, Mrs. Ferri... Chiara." |
 | «Domenica pomeriggio, se vuoi, Leo è a casa.» | "Sunday afternoon, if you want, Leo is home." |
@@ -616,8 +616,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 |---|---|
 | Domenica sera, in salotto, Leo conta le firme. | Sunday evening, in the living room, Leo counts the signatures. |
 | Il **braccio** è sul tavolo, con l'**ingessatura** bianca. | His **arm** is on the table, with the white **cast**. |
-| «Diciannove!» dice Leo. «Diciannove firme!» | "Nineteen!" says Leo. "Nineteen signatures!" |
-| «Nessuno in classe mia ha diciannove firme.» | "Nobody in my class has nineteen signatures." |
+| «Nove!» dice Leo. «Nove firme!» | "Nine!" says Leo. "Nine signatures!" |
+| «Nessuno in classe mia ha nove firme.» | "Nobody in my class has nine signatures." |
 | Emma è sul divano, con il telefono. | Emma is on the sofa, with her phone. |
 | Guarda la **ingessatura** e ride un po'. | She looks at the **cast** and laughs a little. |
 | «Leo, hai contato Tommaso due volte.» | "Leo, you counted Tommaso twice." |
