@@ -1,0 +1,5 @@
+### s04e05 · Al posto tuo
+- **Happened:** Ornella brings her 1968 wedding tin and its rules (five confetti, odd numbers, bomboniere, a vassoio, brindisi only after the ceremony); Kevin learns *mandorla*, not *noce*. Franco and Lucia settle on a "medium" wedding: comune, chiesa, then the giardino di casa Ferri, thirty guests, long tables, white lights; Lucia refuses the lista nozze, Chiara accepts a small one. Franco, Kevin and Leo order 151 confetti at the pasticceria in Piazza della Chiesa. Kevin writes a three-page business plan for "Buongiorno, Borgoverde" (Saturday cooking course for foreigners, Sunday brunch); Emma takes the Instagram page; Gennaro is asked to a Saturday 9 a.m. meeting.
+- **New facts:** Wedding date 21 giugno; reception in Franco's garden; pasticceria on Piazza della Chiesa; Kevin is 41; Leo secretly ate nine confetti.
+- **Changed:** Franco still won't name the testimone but hints it may be "un americano" (Kevin), promising to say it before 21 giugno.
+- **Planted:** The testimone announcement (due by 20 giugno); Kevin's course/brunch needs Matteo's agreement.

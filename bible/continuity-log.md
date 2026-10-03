@@ -506,6 +506,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco warms to Kevin; Gennaro and Kevin plan to be business partners after the wedding; Chiara and Kevin have a June family trip to Rome planned.
 - **Planted:** Kevin and Gennaro's "Buongiorno, Borgoverde" partnership; Emma's unfinished theme on surnames; Franco's promised watch.
 
+### s04e05 · Al posto tuo
+- **Happened:** Ornella brings her 1968 wedding tin and its rules (five confetti, odd numbers, bomboniere, a vassoio, brindisi only after the ceremony); Kevin learns *mandorla*, not *noce*. Franco and Lucia settle on a "medium" wedding: comune, chiesa, then the giardino di casa Ferri, thirty guests, long tables, white lights; Lucia refuses the lista nozze, Chiara accepts a small one. Franco, Kevin and Leo order 151 confetti at the pasticceria in Piazza della Chiesa. Kevin writes a three-page business plan for "Buongiorno, Borgoverde" (Saturday cooking course for foreigners, Sunday brunch); Emma takes the Instagram page; Gennaro is asked to a Saturday 9 a.m. meeting.
+- **New facts:** Wedding date 21 giugno; reception in Franco's garden; pasticceria on Piazza della Chiesa; Kevin is 41; Leo secretly ate nine confetti.
+- **Changed:** Franco still won't name the testimone but hints it may be "un americano" (Kevin), promising to say it before 21 giugno.
+- **Planted:** The testimone announcement (due by 20 giugno); Kevin's course/brunch needs Matteo's agreement.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
