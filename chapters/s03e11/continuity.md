@@ -1,0 +1,5 @@
+### s03e11 · Te lo regalo
+- **Happened:** Doug and Linda's last weekend in Borgoverde: packing 27 gifts, two postal packages, farewell lunch at Franco's, an afternoon at Bar Tigli, tea at Ornella's, and the Sunday train from Borgoverde.
+- **New facts:** Franco gives Doug his 40-year tram cap (a *regalo*, he insists, not a *prestito*), plus oil, honey and cheese "apposta"; Matteo lends Doug a bar apron and gives him Kevin's first, broken cup; Nadia gives Linda her mother's handwritten msemen recipe; Linda gives Nadia American baby socks; Ornella gives Linda an embroidered handkerchief and lends Gino's small brown suitcase for Doug and Linda to return next year; Gino bought that suitcase for a 1980 Chicago trip they never took, and Ornella keeps his 1972 letters and stamps. Doug leaves at least €200 in a jar at Bar Tigli for the baby. Kevin tells Linda he is happy in Italy.
+- **Changed:** Franco and Doug call each other "amico".
+- **Planted:** Matteo wants to mail the €200 back (refused for now); the two packages go to the post office Monday; Leo hides a drawing in one package; the suitcase must come back next year.

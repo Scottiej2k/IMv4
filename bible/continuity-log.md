@@ -392,6 +392,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco now knows about Tommaso (and met him), so the secret is out inside the family; Chiara knows too. Kevin stops wanting to book his parents into a hotel.
 - **Planted:** Kevin and Franco agree to eat out together at a restaurant "one of these days" (unplanned episode); Matteo's daily blackboard menu at the bar.
 
+### s03e11 · Te lo regalo
+- **Happened:** Doug and Linda's last weekend in Borgoverde: packing 27 gifts, two postal packages, farewell lunch at Franco's, an afternoon at Bar Tigli, tea at Ornella's, and the Sunday train from Borgoverde.
+- **New facts:** Franco gives Doug his 40-year tram cap (a *regalo*, he insists, not a *prestito*), plus oil, honey and cheese "apposta"; Matteo lends Doug a bar apron and gives him Kevin's first, broken cup; Nadia gives Linda her mother's handwritten msemen recipe; Linda gives Nadia American baby socks; Ornella gives Linda an embroidered handkerchief and lends Gino's small brown suitcase for Doug and Linda to return next year; Gino bought that suitcase for a 1980 Chicago trip they never took, and Ornella keeps his 1972 letters and stamps. Doug leaves at least €200 in a jar at Bar Tigli for the baby. Kevin tells Linda he is happy in Italy.
+- **Changed:** Franco and Doug call each other "amico".
+- **Planted:** Matteo wants to mail the €200 back (refused for now); the two packages go to the post office Monday; Leo hides a drawing in one package; the suitcase must come back next year.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
