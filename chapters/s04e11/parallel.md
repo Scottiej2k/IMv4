@@ -46,7 +46,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E i tuoi allievi? Come li scegli?» | “And your pupils? How do you choose them?” |
 | «Ho messo un avviso in piazza. Tre persone hanno risposto: una signora tedesca, un ingegnere giapponese e uno studente americano.» | “I put a notice up in the piazza. Three people answered: a German lady, a Japanese engineer, and an American student.” |
 | «E loro parlano italiano?» | “And do they speak Italian?” |
-| «Quasi niente. Come me, due anni fa.» | “Almost nothing. Like me, two years ago.” |
+| «Quasi niente. Come me, otto mesi fa.» | “Almost nothing. Like me, eight months ago.” |
 | Franco fa un cenno con la testa, come chi ha capito tutto. | Franco nods, like someone who has understood everything. |
 | «Ah. Allora tu devi spiegare la cucina italiana a gente che non capisce niente.» | “Ah. So you have to explain Italian cooking to people who understand nothing.” |
 | «Esatto. Ma li capisco, perché ero io quello che non capiva.» | “Exactly. But I understand them, because I was the one who didn't understand.” |
@@ -228,7 +228,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ma io non posso spiegare le cose come te. Tu hai trentacinque anni di esperienza.» | “But I can't explain things like you. You have thirty-five years of experience.” |
 | «E tu hai un'altra cosa che io non ho.» | “And you have another thing that I don't have.” |
 | «Che cosa?» | “What?” |
-| «Sei stato **allievo** fino a due anni fa. Ti ricordi come ci si sente.» | “You were a **pupil** until two years ago. You remember how it feels.” |
+| «Sei stato **allievo** fino a pochi mesi fa. Ti ricordi come ci si sente.» | “You were a **pupil** until a few months ago. You remember how it feels.” |
 | Da dietro il tavolo, Franco borbotta qualcosa senza alzare la testa. | From behind the table, Franco mutters something without raising his head. |
 | «**Sbagliando s'impara**.» | “**You learn by making mistakes**.” |
 | «Franco, l'hai già detto stamattina.» | “Franco, you already said it this morning.” |
@@ -291,7 +291,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin lo guarda e capisce che quello, per Franco, è già un modo di dire sì. | Kevin looks at him and understands that that, for Franco, is already a way of saying yes. |
 | _Lucia ha ragione. Devo solo cominciare._ | _Lucia is right. I just have to begin._ |
 
-## 4. Centro civico · martedì sera
+## 4. Centro civico · giovedì sera
 
 | Italiano | English |
 |---|---|
@@ -334,7 +334,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché un **compagno** sta alla tua altezza. L'insegnante è seduto troppo in alto.» | “Because a **classmate** is at your height. The teacher sits too far up.” |
 | Kevin scrive anche quello, poi posa la matita sul **foglio**. | Kevin writes that too, then puts the pencil down on the **sheet of paper**. |
 | «Alberto, e se sbaglio tutto davanti a loro?» | “Alberto, what if I get everything wrong in front of them?” |
-| «**Sbagliando s'impara**, Kevin. Quante volte te l'ho detto in due anni?» | “**You learn by making mistakes**, Kevin. How many times have I said it to you in two years?” |
+| «**Sbagliando s'impara**, Kevin. Quante volte te l'ho detto in otto mesi?» | “**You learn by making mistakes**, Kevin. How many times have I said it to you in eight months?” |
 | «Molte. Ma il proverbio è di Franco, non tuo.» | “Many times. But the proverb is Franco's, not yours.” |
 | «I proverbi sono di tutti. Non hanno copyright.» | “Proverbs belong to everyone. They don't have copyright.” |
 | Kevin ride, e si sente un po' meglio. | Kevin laughs, and feels a little better. |

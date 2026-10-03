@@ -58,7 +58,7 @@ Franco finisce il caffè e guarda Kevin con attenzione, come un arbitro. «E i t
 
 «E loro parlano italiano?»
 
-«Quasi niente. Come me, due anni fa.»
+«Quasi niente. Come me, otto mesi fa.»
 
 Franco fa un cenno con la testa, come chi ha capito tutto. «Ah. Allora tu devi spiegare la cucina italiana a gente che non capisce niente.»
 
@@ -304,7 +304,7 @@ Kevin scrive su un secondo **foglio**: "Tre: nessuna vergogna." «Ma io non poss
 
 «Che cosa?»
 
-«Sei stato **allievo** fino a due anni fa. Ti ricordi come ci si sente.»
+«Sei stato **allievo** fino a pochi mesi fa. Ti ricordi come ci si sente.»
 
 Da dietro il tavolo, Franco borbotta qualcosa senza alzare la testa. «**Sbagliando s'impara**.»
 
@@ -386,7 +386,7 @@ Franco si alza e prende il caffè dalla moka, che è ormai fredda da mezz'ora. �
 
 Franco mette la moka sul fuoco, senza rispondere. Ma non protesta. Kevin lo guarda e capisce che quello, per Franco, è già un modo di dire sì. _Lucia ha ragione. Devo solo cominciare._
 
-## 4. Centro civico · martedì sera
+## 4. Centro civico · giovedì sera
 
 Martedì sera, al Centro civico, la porta della stanza nove è socchiusa. Kevin arriva con dieci minuti di ritardo, con il quaderno giallo sotto il braccio e una scatola di biscotti in mano. Dentro, Alberto sta spiegando qualcosa alla sua **classe** di adulti.
 
@@ -444,7 +444,7 @@ Kevin non sorride: prende un **foglio** dal quaderno e scrive "Uno, due" con la 
 
 Kevin scrive anche quello, poi posa la matita sul **foglio**. «Alberto, e se sbaglio tutto davanti a loro?»
 
-«**Sbagliando s'impara**, Kevin. Quante volte te l'ho detto in due anni?»
+«**Sbagliando s'impara**, Kevin. Quante volte te l'ho detto in otto mesi?»
 
 «Molte. Ma il proverbio è di Franco, non tuo.»
 
