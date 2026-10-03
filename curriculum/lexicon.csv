@@ -345,7 +345,7 @@ gennaio,noun,m,January,A1,s01e15,s02e25 s03e03,gennaio
 il biscotto,noun,m,"cookie, biscuit",A1,s01e15,s01e17 s01e18 s01e20 s01e24 s01e25 s02e01 s02e06 s02e07 s02e08 s02e09 s02e11 s02e13 s02e16 s03e07 s03e12 s03e15 s03e17 s05e03,"biscotti, biscotto, il biscotto"
 il calendario,noun,m,calendar,A1,s01e15,s01e16 s02e05 s02e10 s02e19 s03e19,"calendari, calendario, il calendario"
 il cioccolato,noun,m,chocolate,A1,s01e15,s02e05 s02e13 s03e10,"cioccolato, il cioccolato"
-il mese,noun,m,month,A1,s01e15,s01e16 s01e19 s02e01 s02e05 s02e06 s02e07 s02e10 s02e13 s02e15 s02e19 s02e22 s02e23 s02e25 s03e03 s03e04 s03e06 s03e08 s03e12 s03e15 s03e18 s03e19 s03e20 s05e03,"il mese, mese, mesi"
+il mese,noun,m,month,A1,s01e15,s01e16 s01e19 s02e01 s02e05 s02e06 s02e07 s02e10 s02e13 s02e15 s02e19 s02e22 s02e23 s02e25 s03e03 s03e04 s03e06 s03e08 s03e12 s03e15 s03e18 s03e19 s03e20 s03e21 s05e03,"il mese, mese, mesi"
 il pomeriggio,noun,m,afternoon,A1,s01e15,s01e16 s01e17 s01e18 s01e20 s01e21 s01e22 s01e23 s01e24 s02e01 s02e02 s02e03 s02e04 s02e05 s02e06 s02e07 s02e08 s02e09 s02e10 s02e11 s02e12 s02e13 s02e14 s02e15 s02e16 s02e17 s02e18 s02e19 s02e20 s02e21 s02e22 s02e23 s02e24 s03e01 s03e02 s03e03 s03e04 s03e05 s03e06 s03e07 s03e09 s03e13 s03e15 s03e16 s03e17 s03e18 s03e20 s03e21 s05e03,"il pomeriggio, pomeriggi, pomeriggio"
 il sabato,noun,m,Saturday,A1,s01e15,s01e16 s01e17 s01e19 s01e20 s01e24 s02e03 s02e05 s02e08 s02e09 s02e11 s02e13 s02e15 s02e17 s02e18 s02e19 s02e20 s02e22 s02e24 s03e02 s03e03 s03e05 s03e06 s03e07 s03e08 s03e09 s03e10 s03e11 s03e12 s03e16 s03e17 s03e20 s03e21 s05e03,"il sabato, sabati, sabato"
 l'appuntamento,noun,m,appointment,A1,s01e15,s02e04 s02e05 s02e10 s02e15 s03e04 s03e19,"appuntamenti, appuntamento, l'appuntamento"
@@ -657,7 +657,7 @@ spingere,verb,,to push,A2,s02e03,s02e22 s03e05 s03e15,"spinge, spingere, spingia
 trovare,verb,,to find,A2,s02e03,s02e05 s02e07 s02e08 s02e12 s02e13 s02e14 s02e15 s02e16 s02e18 s02e19 s02e20 s02e22 s02e23 s02e24 s03e01 s03e03 s03e05 s03e06 s03e09 s03e11 s03e16 s03e18 s03e19 s05e03,"trova, trovare, trovata, trovate, trovati, trovato, troviamo, trovo"
 venire,verb,,to come,A2,s02e03,s02e05 s02e06 s02e07 s02e09 s02e12 s02e13 s02e15 s02e18 s02e19 s02e20 s02e21 s02e24 s02e25 s03e03 s03e04 s03e05 s03e06 s03e07 s03e10 s03e11 s03e12 s03e13 s03e14 s03e15 s03e17 s03e19 s03e20 s03e21 s05e03,"vengo, veniamo, venire, venuta, venute, venuti, venuto, viene"
 arrabbiarsi,verb,,to get angry,A2,s02e04,s02e14,"arrabbiarsi, mi sono arrabbiata, mi sono arrabbiato, si è arrabbiata, si è arrabbiato, ti sei arrabbiato"
-di corsa,expression,,"at a run, in a hurry",A2,s02e04,s02e05 s02e07 s02e08 s02e16 s02e17 s02e20 s03e05 s03e19,di corsa
+di corsa,expression,,"at a run, in a hurry",A2,s02e04,s02e05 s02e07 s02e08 s02e16 s02e17 s02e20 s03e05 s03e19 s03e21,di corsa
 dimenticarsi,verb,,to forget,A2,s02e04,,"ci siamo dimenticati, dimenticarsi, mi sono dimenticata, mi sono dimenticato, si è dimenticato, ti sei dimenticato"
 fermarsi,verb,,to stop,A2,s02e04,s02e06 s02e09 s02e10 s02e23 s03e18 s05e03,"fermarsi, mi sono fermata, mi sono fermato, si è fermata, si è fermato, ti sei fermato"
 il cassetto,noun,m,drawer,A2,s02e04,s02e07 s02e08 s02e11 s02e14 s02e15 s02e22 s02e23 s02e24 s03e01 s03e04 s03e06 s03e07 s03e10 s03e11 s03e13 s03e15 s03e16 s03e17 s03e18 s03e20,"cassetti, cassetto, il cassetto"
@@ -1028,7 +1028,7 @@ ogni,adjective,,every; each,A2,s02e22,s02e23 s02e24 s02e25 s03e02 s03e03 s03e04 
 ognuno,pronoun,,each one; everyone,A2,s02e22,s02e25 s03e10,"ognuna, ognuno"
 pochi,adjective,,few; not many,A2,s02e22,s02e23 s02e24 s03e01 s03e02 s03e07 s03e08 s03e12 s03e15 s03e16 s05e03,"poche, pochi"
 prenotare,verb,,to book; to reserve,A2,s02e22,s03e10 s03e17,"prenota, prenotare, prenotato, prenoto"
-qualche,adjective,,some; a few,A2,s02e22,s02e24 s03e01 s03e03 s03e06 s03e07 s03e19 s05e03,qualche
+qualche,adjective,,some; a few,A2,s02e22,s02e24 s03e01 s03e03 s03e06 s03e07 s03e19 s03e21 s05e03,qualche
 qualcosa,pronoun,,something,A2,s02e22,s02e23 s02e24 s02e25 s03e01 s03e02 s03e04 s03e05 s03e06 s03e07 s03e08 s03e09 s03e10 s03e12 s03e13 s03e14 s03e15 s03e16 s03e17 s03e18 s03e21 s05e03,qualcosa
 qualcuno,pronoun,,someone; somebody,A2,s02e22,s02e25 s03e02 s03e03 s03e04 s03e09 s03e10 s03e17 s03e18 s03e21 s05e03,qualcuno
 riaprire,verb,,to reopen,A2,s02e22,s03e21 s05e03,"riaperto, riapre, riaprire, riaprono"

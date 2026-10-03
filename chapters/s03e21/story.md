@@ -60,7 +60,7 @@ Emma lo guarda, sorpresa. «Prima Monza?» chiede Emma.
 
 «Ah. Giusto,» dice Kevin. «Noi **ci mettiamo** un'ora.»
 
-Tommaso fa un passo avanti. «Signor Carter,» dice Tommaso, «io **prendo** un **passaggio**?»
+Tommaso fa un passo avanti. «Kevin,» dice Tommaso, «io **prendo** un **passaggio**?»
 
 «Certo che sì,» dice Kevin. «**Vieni** con noi.»
 
@@ -116,7 +116,7 @@ Chiara prende la borsa e il cappotto. «Allora, **andiamo**,» dice Chiara. «Tu
 
 «**Arrivi** sempre,» dice Chiara. «Solo che arrivi tardi.»
 
-Tommaso raccoglie lo skateboard. «Signor Carter,» dice Tommaso, «grazie per il **passaggio**.»
+Tommaso raccoglie lo skateboard. «Kevin,» dice Tommaso, «grazie per il **passaggio**.»
 
 «Figurati,» dice Kevin. «**Vieni**, **vieni**.»
 
@@ -226,7 +226,7 @@ Ma Chiara guarda Kevin e diventa seria. «Kevin, ora ti dico una cosa,» dice Ch
 
 «Con la coda **ci vuole** un'ora,» dice Kevin. «Ma noi **ci mettiamo** un'ora. Tutto qui.»
 
-Chiara beve il caffè in piedi, in due sorsi. È la sua seconda tazza. Poi chiude il computer e prende la borsa. «Leo, prendi il giubbotto,» dice Chiara. «Papà ti **porta** a scuola prima di Monza.»
+Chiara beve il caffè in piedi, in due sorsi. È la sua seconda tazza. Poi chiude il computer e prende la borsa. «Leo, prendi il giubbotto,» dice Chiara. «Tu vai a scuola a piedi.»
 
 «Il giubbotto è bagnato,» dice Leo.
 
@@ -248,7 +248,7 @@ Leo guarda Chiara. Poi guarda Kevin che prende le chiavi della macchina. Pensa u
 
 «E io?» chiede Leo.
 
-«Tu **vai** a scuola,» dice Chiara. «Con papà. Per ultimo.»
+«Tu **vai** a scuola,» dice Chiara. «A piedi. Come sempre.»
 
 «Ah,» dice Leo. «Allora tutti **andiamo** con papà.»
 
@@ -258,7 +258,7 @@ Leo guarda Chiara. Poi guarda Kevin che prende le chiavi della macchina. Pensa u
 
 «Il **passaggio** per te è a piedi,» dice Chiara. «Scuola dietro l'angolo.»
 
-Kevin apre la porta di casa. «Allora, gente, si parte,» dice Kevin. «Prima scuola, poi Monza.»
+Kevin apre la porta di casa. «Allora, gente, si parte,» dice Kevin. «Prima Monza, poi Milano.»
 
 «Kevin,» dice Chiara. «La riunione è alle dieci e mezza. Non dimenticare.»
 
@@ -268,7 +268,7 @@ Kevin apre la porta di casa. «Allora, gente, si parte,» dice Kevin. «Prima sc
 
 «Speriamo **in orario**, non "speriamo" così,» dice Kevin.
 
-«Kevin,» dice Chiara. «**Adesso** basta. Muoviti.» Kevin fugge con Leo per mano. Chiara resta in cucina per un secondo. Guarda la pioggia fuori dalla finestra. Pensa: _Se tutto va bene, in due ore sono a Milano._ Ma sa che "tutto va bene" non è **un'abitudine** di questa famiglia. E poi esce anche lei, con la borsa in mano.
+«Kevin,» dice Chiara. «**Adesso** basta. Muoviti.» Kevin esce di corsa. Chiara resta in cucina per un secondo. Guarda la pioggia fuori dalla finestra. Pensa: _Se tutto va bene, in due ore sono a Milano._ Ma sa che "tutto va bene" non è **un'abitudine** di questa famiglia. E poi esce anche lei, con la borsa in mano.
 
 ## 3. Via dei Tigli · mercoledì mattina, otto e venti
 
@@ -290,7 +290,7 @@ Emma guarda il telefono. «Papà, sono le otto e mezza,» dice Emma.
 
 «L'hai detto cinque minuti fa,» dice Emma.
 
-Tommaso guarda fuori dal finestrino. «Signor Carter,» dice Tommaso, «noi **torniamo** a Borgoverde?»
+Tommaso guarda fuori dal finestrino. «Kevin,» dice Tommaso, «noi **torniamo** a Borgoverde?»
 
 «No, perché?» chiede Kevin.
 
@@ -322,7 +322,7 @@ Emma guarda il **percorso** sul telefono. «Il **percorso** dice trentacinque mi
 
 «Lo dici di nuovo,» dice Emma.
 
-Tommaso ride piano, con la testa bassa. «Signor Carter, per l'**esame** ci vuole **pazienza**,» dice Tommaso.
+Tommaso ride piano, con la testa bassa. «Kevin, per l'**esame** ci vuole **pazienza**,» dice Tommaso.
 
 «E per **l'arrivo**?» chiede Kevin.
 
@@ -358,7 +358,7 @@ Al **capolinea** c'è un **pullman** fermo. Alcuni **pendolari** scendono e guar
 
 «Quelli che **prendono** il **pullman** e arrivano,» dice Emma.
 
-Tommaso guarda il **pullman** e poi guarda Kevin. «Signor Carter,» dice Tommaso, «per il ritorno posso avere anch'io un **passaggio**?»
+Tommaso guarda il **pullman** e poi guarda Kevin. «Kevin,» dice Tommaso, «per il ritorno posso avere anch'io un **passaggio**?»
 
 «Certo che sì,» dice Kevin. «**Vieni** con noi anche al ritorno.»
 
@@ -408,7 +408,7 @@ Scende dalla macchina e guarda Kevin dal finestrino. «Papà,» dice Emma, «tu 
 
 Kevin resta con la bocca aperta. «Cosa ho fatto di male?» chiede Kevin.
 
-Tommaso scende anche lui. «Niente, signor Carter,» dice Tommaso. «Lei è **l'autista**. Emma è **la passeggera**.»
+Tommaso scende anche lui. «Niente, Kevin,» dice Tommaso. «Tu sei **l'autista**. Emma è **la passeggera**.»
 
 «E va bene così?» chiede Kevin.
 
@@ -472,7 +472,7 @@ Kevin guarda l'orologio e poi la figlia. «Emma,» dice Kevin. «**L'esame** è 
 
 «Prego,» dice Kevin, ridendo.
 
-Tommaso guarda Kevin e poi guarda la strada. «Signor Carter, lei **viene** anche al ritorno?» chiede Tommaso.
+Tommaso guarda Kevin e poi guarda la strada. «Kevin, tu **vieni** anche al ritorno?» chiede Tommaso.
 
 «**Vengo** alle cinque,» dice Kevin. «Con la macchina grande.»
 
@@ -548,7 +548,7 @@ Un **pendolare** con il cappello si gira verso Franco. «Scusi, signore,» dice 
 
 Tutti al bar si girano verso di lui. Anche Nadia smette di asciugare i bicchieri. «Racconti, signor Franco,» dice l'uomo.
 
-Franco beve un sorso di caffè, lentamente. «Era il 1973,» dice Franco. «Un altro **sciopero**. Uguale a questo.»
+Franco beve un sorso di caffè, lentamente. «Era il 1975,» dice Franco. «Un altro **sciopero**. Uguale a questo.»
 
 «E lei che faceva?» chiede una signora al banco.
 
@@ -696,11 +696,11 @@ La porta si apre e entra Chiara con la borsa in mano. Ha la faccia stanca ma gli
 
 «In orario?» chiede Kevin, dalla cucina.
 
-«In orario,» dice Chiara. «Ho preso una **coincidenza** a Porta Garibaldi.»
+«In orario,» dice Chiara. «Ho preso un pullman a Porta Garibaldi.»
 
-«Una **coincidenza**?» chiede Kevin, sorpreso.
+«Un pullman?» chiede Kevin, sorpreso.
 
-«Sì. Un treno per Borgoverde alle sei e dieci,» dice Chiara. «**Ci ho messo** un'ora e mezza.»
+«Sì. Un pullman per Borgoverde alle sei e dieci,» dice Chiara. «**Ci ho messo** un'ora e mezza.»
 
 Kevin esce dalla cucina con il mestolo in mano. Ha ancora la cravatta storta di stamattina. «E Marchetti?» chiede Kevin.
 
@@ -764,7 +764,7 @@ Chiara ride piano, per la prima volta oggi. «Otto chilometri di **coda**,» dic
 
 «Quando eri piccola?» chiede Kevin.
 
-«Sì,» dice Chiara. «Negli anni Ottanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.»
+«Sì,» dice Chiara. «Negli anni Novanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.»
 
 «E facevi che cosa?» chiede Kevin.
 
@@ -808,7 +808,7 @@ Kevin si alza per servire la minestra. «Domani **torno** a fare il barista,» d
 
 «Alle sei?» chiede Leo.
 
-«Alle sei,» dice Kevin. «È **l'abitudine** mia. Da due anni.»
+«Alle sei,» dice Kevin. «È **l'abitudine** mia. Da qualche mese.»
 
 «Anche io voglio **l'abitudine** delle sei,» dice Leo.
 
@@ -872,13 +872,15 @@ Kevin si siede con il piatto in mano. Guarda la sua famiglia intorno al tavolo. 
 
 «Sì,» dice Kevin. «Domani niente **protesta**. Solo caffè.»
 
-Fuori, la strada è silenziosa. In lontananza si sente un treno che passa. I treni sono tornati. E in casa Carter la cena continua, piano.
+Fuori, la strada è silenziosa. In lontananza si sente un camion che passa. Domani, forse, tutto torna normale. E in casa Carter la cena continua, piano.
 
 ## 7. Casa Carter, Via dei Tigli 14 · mercoledì, dieci e mezza di sera
 
 La casa è silenziosa. In cucina c'è ancora una luce accesa, ma bassa. Nella camera dei ragazzi c'è il buio e un po' di chiaro di luna sul muro. Leo è sul letto di sopra, in pigiama, con le mani fuori dalle coperte.
 
-Kevin entra piano e si avvicina al letto. Si siede sul bordo e sistema la coperta. «Allora,» dice Kevin, piano. «Domani c'è ancora lo **sciopero**?» «No,» dice Kevin. «Solo oggi. Domani il **sindacato** e le aziende parlano.»
+Kevin entra piano e si avvicina al letto. Si siede sul bordo e sistema la coperta. «Allora,» dice Leo, piano. «Domani c'è ancora lo **sciopero**?»
+
+«No,» dice Kevin. «Solo oggi. Domani il **sindacato** e le aziende parlano.»
 
 «Parlano di che cosa?» chiede Leo.
 

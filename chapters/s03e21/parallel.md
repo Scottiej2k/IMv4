@@ -52,7 +52,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Ci mettiamo** un'ora,» dice Chiara. «Non "ci vuole". Noi **ci mettiamo** un'ora.» | “We **take** an hour,” says Chiara. “Not 'it takes.' We **take** an hour.” |
 | «Ah. Giusto,» dice Kevin. «Noi **ci mettiamo** un'ora.» | “Ah. Right,” says Kevin. “We **take** an hour.” |
 | Tommaso fa un passo avanti. | Tommaso takes a step forward. |
-| «Signor Carter,» dice Tommaso, «io **prendo** un **passaggio**?» | “Mr. Carter,” says Tommaso, “can I get a **ride**?” |
+| «Kevin,» dice Tommaso, «io **prendo** un **passaggio**?» | “Kevin,” says Tommaso, “can I get a **ride**?” |
 | «Certo che sì,» dice Kevin. «**Vieni** con noi.» | “Of course,” says Kevin. “**Come** with us.” |
 | «Grazie,» dice Tommaso. | “Thank you,” says Tommaso. |
 | «E io?» chiede Chiara. «Tu mi **passi a prendere** alle dieci, vero?» | “And me?” asks Chiara. “You **pick me up** at ten, right?” |
@@ -95,7 +95,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Arrivo**!» dice Kevin. | “I'll **arrive**!” says Kevin. |
 | «**Arrivi** sempre,» dice Chiara. «Solo che arrivi tardi.» | “You always **arrive**,” says Chiara. “Only you arrive late.” |
 | Tommaso raccoglie lo skateboard. | Tommaso picks up his skateboard. |
-| «Signor Carter,» dice Tommaso, «grazie per il **passaggio**.» | “Mr. Carter,” says Tommaso, “thanks for the **ride**.” |
+| «Kevin,» dice Tommaso, «grazie per il **passaggio**.» | “Kevin,” says Tommaso, “thanks for the **ride**.” |
 | «Figurati,» dice Kevin. «**Vieni**, **vieni**.» | “Don't mention it,” says Kevin. “**Come** on, **come** on.” |
 | Emma guarda Kevin e poi guarda la strada. | Emma looks at Kevin and then at the road. |
 | «Papà,» dice Emma, «guidare bene, per favore.» | “Dad,” says Emma, “drive well, please.” |
@@ -185,7 +185,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara beve il caffè in piedi, in due sorsi. | Chiara drinks her coffee standing, in two sips. |
 | È la sua seconda tazza. | It's her second cup. |
 | Poi chiude il computer e prende la borsa. | Then she closes the laptop and takes her bag. |
-| «Leo, prendi il giubbotto,» dice Chiara. «Papà ti **porta** a scuola prima di Monza.» | “Leo, get your jacket,” says Chiara. “Dad will **take** you to school before Monza.” |
+| «Leo, prendi il giubbotto,» dice Chiara. «Tu vai a scuola a piedi.» | “Leo, get your jacket,” says Chiara. “You walk to school.” |
 | «Il giubbotto è bagnato,» dice Leo. | “The jacket is wet,” says Leo. |
 | «Pazienza,» dice Chiara. «Lo metti lo stesso.» | “Patience,” says Chiara. “You wear it anyway.” |
 | «Che cos'è **la pazienza**?» chiede Leo. | “What's **patience**?” asks Leo. |
@@ -200,19 +200,19 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «E **l'esame** di Emma?» chiede Leo. | “And Emma's **exam**?” asks Leo. |
 | «Emma **va** a fare l'esame a Monza,» dice Chiara. «Con papà. Anche lei.» | “Emma **goes** to take the exam in Monza,” says Chiara. “With Dad. Her too.” |
 | «E io?» chiede Leo. | “And me?” asks Leo. |
-| «Tu **vai** a scuola,» dice Chiara. «Con papà. Per ultimo.» | “You **go** to school,” says Chiara. “With Dad. Last of all.” |
+| «Tu **vai** a scuola,» dice Chiara. «A piedi. Come sempre.» | “You **go** to school,” says Chiara. “On foot. As always.” |
 | «Ah,» dice Leo. «Allora tutti **andiamo** con papà.» | “Ah,” says Leo. “So we're all **going** with Dad.” |
 | «Tutti tranne la mamma,» dice Chiara. «Finché non mi **passa a prendere**.» | “Everyone except Mom,” says Chiara. “Until he **picks me up**.” |
 | «E **il passaggio** per me?» chiede Leo. | “And a **ride** for me?” asks Leo. |
 | «Il **passaggio** per te è a piedi,» dice Chiara. «Scuola dietro l'angolo.» | “Your **ride** is on foot,” says Chiara. “School around the corner.” |
 | Kevin apre la porta di casa. | Kevin opens the house door. |
-| «Allora, gente, si parte,» dice Kevin. «Prima scuola, poi Monza.» | “All right, everybody, off we go,” says Kevin. “First school, then Monza.” |
+| «Allora, gente, si parte,» dice Kevin. «Prima Monza, poi Milano.» | “All right, everybody, off we go,” says Kevin. “First Monza, then Milan.” |
 | «Kevin,» dice Chiara. «La riunione è alle dieci e mezza. Non dimenticare.» | “Kevin,” says Chiara. “The meeting is at ten thirty. Don't forget.” |
 | «Non dimentico niente,» dice Kevin. «**Passo a prendere** te alle dieci davanti a casa. In **orario**.» | “I don't forget anything,” says Kevin. “I **pick you up** at ten in front of the house. **On time**.” |
 | «Speriamo,» dice Chiara. | “Let's hope,” says Chiara. |
 | «Speriamo **in orario**, non "speriamo" così,» dice Kevin. | “Let's hope **on time**, not just 'let's hope',” says Kevin. |
 | «Kevin,» dice Chiara. «**Adesso** basta. Muoviti.» | “Kevin,” says Chiara. “**Now** that's enough. Move.” |
-| Kevin fugge con Leo per mano. | Kevin runs off with Leo by the hand. |
+| Kevin esce di corsa. | Kevin runs out. |
 | Chiara resta in cucina per un secondo. | Chiara stays in the kitchen for a second. |
 | Guarda la pioggia fuori dalla finestra. | She looks at the rain outside the window. |
 | Pensa: _Se tutto va bene, in due ore sono a Milano._ | She thinks: _If all goes well, in two hours I'm in Milan._ |
@@ -242,7 +242,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «**Ci mettiamo** un'ora,» ripete Kevin. | “We **take** an hour,” Kevin repeats. |
 | «L'hai detto cinque minuti fa,» dice Emma. | “You said that five minutes ago,” says Emma. |
 | Tommaso guarda fuori dal finestrino. | Tommaso looks out the window. |
-| «Signor Carter,» dice Tommaso, «noi **torniamo** a Borgoverde?» | “Mr. Carter,” says Tommaso, “are we **going back** to Borgoverde?” |
+| «Kevin,» dice Tommaso, «noi **torniamo** a Borgoverde?» | “Kevin,” says Tommaso, “are we **going back** to Borgoverde?” |
 | «No, perché?» chiede Kevin. | “No, why?” asks Kevin. |
 | «Perché ho visto la chiesa due volte,» dice Tommaso. | “Because I've seen the church twice,” says Tommaso. |
 | «Ah. Ho **preso** un'altra strada,» dice Kevin. «Una scorciatoia.» | “Ah. I **took** another road,” says Kevin. “A shortcut.” |
@@ -267,7 +267,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora **ci mettiamo** un'ora,» dice Kevin. | “Then we **take** an hour,” says Kevin. |
 | «Lo dici di nuovo,» dice Emma. | “You're saying it again,” says Emma. |
 | Tommaso ride piano, con la testa bassa. | Tommaso laughs quietly, head down. |
-| «Signor Carter, per l'**esame** ci vuole **pazienza**,» dice Tommaso. | “Mr. Carter, for the **exam** you need **patience**,” says Tommaso. |
+| «Kevin, per l'**esame** ci vuole **pazienza**,» dice Tommaso. | “Kevin, for the **exam** you need **patience**,” says Tommaso. |
 | «E per **l'arrivo**?» chiede Kevin. | “And for the **arrival**?” asks Kevin. |
 | «Per **l'arrivo** ci vuole un miracolo,» dice Tommaso. | “For the **arrival** you need a miracle,” says Tommaso. |
 | Emma lo guarda, poi guarda Kevin. | Emma looks at him, then at Kevin. |
@@ -294,7 +294,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «I furbi?» chiede Kevin. | “The clever ones?” asks Kevin. |
 | «Quelli che **prendono** il **pullman** e arrivano,» dice Emma. | “The ones who **take** the **bus** and arrive,” says Emma. |
 | Tommaso guarda il **pullman** e poi guarda Kevin. | Tommaso looks at the **bus** and then at Kevin. |
-| «Signor Carter,» dice Tommaso, «per il ritorno posso avere anch'io un **passaggio**?» | “Mr. Carter,” says Tommaso, “for the way back can I have a **ride** too?” |
+| «Kevin,» dice Tommaso, «per il ritorno posso avere anch'io un **passaggio**?» | “Kevin,” says Tommaso, “for the way back can I have a **ride** too?” |
 | «Certo che sì,» dice Kevin. «**Vieni** con noi anche al ritorno.» | “Of course,” says Kevin. “**Come** with us on the way back too.” |
 | «No,» dice Emma. «Al ritorno **prendo** il **pullman**.» | “No,” says Emma. “On the way back I'm **taking** the **bus**.” |
 | «Perché?» chiede Tommaso. | “Why?” asks Tommaso. |
@@ -328,7 +328,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin resta con la bocca aperta. | Kevin is left with his mouth open. |
 | «Cosa ho fatto di male?» chiede Kevin. | “What did I do wrong?” asks Kevin. |
 | Tommaso scende anche lui. | Tommaso gets out too. |
-| «Niente, signor Carter,» dice Tommaso. «Lei è **l'autista**. Emma è **la passeggera**.» | “Nothing, Mr. Carter,” says Tommaso. “You're the **driver**. Emma is the **passenger**.” |
+| «Niente, Kevin,» dice Tommaso. «Tu sei **l'autista**. Emma è **la passeggera**.» | “Nothing, Kevin,” says Tommaso. “You're the **driver**. Emma is the **passenger**.” |
 | «E va bene così?» chiede Kevin. | “And is that how it should be?” asks Kevin. |
 | «Un po' sì,» dice Tommaso. | “A bit, yes,” says Tommaso. |
 | «E la **partenza** di stasera?» chiede Kevin. | “And tonight's **departure**?” asks Kevin. |
@@ -375,7 +375,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Grazie a Dio,» dice Emma. | “Thank God,” says Emma. |
 | «Prego,» dice Kevin, ridendo. | “You're welcome,” says Kevin, laughing. |
 | Tommaso guarda Kevin e poi guarda la strada. | Tommaso looks at Kevin and then at the road. |
-| «Signor Carter, lei **viene** anche al ritorno?» chiede Tommaso. | “Mr. Carter, are you **coming** back too?” asks Tommaso. |
+| «Kevin, tu **vieni** anche al ritorno?» chiede Tommaso. | “Kevin, are you **coming** back too?” asks Tommaso. |
 | «**Vengo** alle cinque,» dice Kevin. «Con la macchina grande.» | “I'm **coming** at five,” says Kevin. “With the big car.” |
 | «Perché la macchina grande?» chiede Tommaso. | “Why the big car?” asks Tommaso. |
 | «Perché **porto** anche la mamma, forse,» dice Kevin. | “Because I'm **taking** Mom too, maybe,” says Kevin. |
@@ -452,7 +452,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Anche Nadia smette di asciugare i bicchieri. | Nadia stops drying the glasses too. |
 | «Racconti, signor Franco,» dice l'uomo. | “Tell us, Mr. Franco,” says the man. |
 | Franco beve un sorso di caffè, lentamente. | Franco takes a sip of coffee, slowly. |
-| «Era il 1973,» dice Franco. «Un altro **sciopero**. Uguale a questo.» | “It was 1973,” says Franco. “Another **strike**. The same as this one.” |
+| «Era il 1975,» dice Franco. «Un altro **sciopero**. Uguale a questo.» | “It was 1975,” says Franco. “Another **strike**. The same as this one.” |
 | «E lei che faceva?» chiede una signora al banco. | “And what were you doing?” asks a lady at the counter. |
 | «Avevo vent'anni,» dice Franco. «Capelli neri. Bocca chiusa.» | “I was twenty,” says Franco. “Black hair. Mouth shut.” |
 | «E il tram?» chiede Matteo. | “And the tram?” asks Matteo. |
@@ -573,9 +573,9 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Ha la faccia stanca ma gli occhi contenti. | Her face is tired but her eyes are happy. |
 | «Sono a casa!» dice Chiara. «E sono **arrivata** in **orario**.» | “I'm home!” says Chiara. “And I **arrived** **on time**.” |
 | «In orario?» chiede Kevin, dalla cucina. | “On time?” asks Kevin, from the kitchen. |
-| «In orario,» dice Chiara. «Ho preso una **coincidenza** a Porta Garibaldi.» | “On time,” says Chiara. “I took a **connection** at Porta Garibaldi.” |
-| «Una **coincidenza**?» chiede Kevin, sorpreso. | “A **connection**?” asks Kevin, surprised. |
-| «Sì. Un treno per Borgoverde alle sei e dieci,» dice Chiara. «**Ci ho messo** un'ora e mezza.» | “Yes. A train to Borgoverde at six ten,” says Chiara. “It **took** me an hour and a half.” |
+| «In orario,» dice Chiara. «Ho preso un pullman a Porta Garibaldi.» | “On time,” says Chiara. “I took a coach at Porta Garibaldi.” |
+| «Un pullman?» chiede Kevin, sorpreso. | “A coach?” asks Kevin, surprised. |
+| «Sì. Un pullman per Borgoverde alle sei e dieci,» dice Chiara. «**Ci ho messo** un'ora e mezza.» | “Yes. A coach to Borgoverde at six ten,” says Chiara. “It **took** me an hour and a half.” |
 | Kevin esce dalla cucina con il mestolo in mano. | Kevin comes out of the kitchen with the ladle in his hand. |
 | Ha ancora la cravatta storta di stamattina. | He still has this morning's crooked tie. |
 | «E Marchetti?» chiede Kevin. | “And Marchetti?” asks Kevin. |
@@ -617,7 +617,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara ride piano, per la prima volta oggi. | Chiara laughs quietly, for the first time today. |
 | «Otto chilometri di **coda**,» dice Chiara. «Come quando ero piccola.» | “Eight kilometers of **tailback**,” says Chiara. “Like when I was little.” |
 | «Quando eri piccola?» chiede Kevin. | “When you were little?” asks Kevin. |
-| «Sì,» dice Chiara. «Negli anni Ottanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.» | “Yes,” says Chiara. “In the eighties, when there was a truck **protest**, we stayed in the car for hours.” |
+| «Sì,» dice Chiara. «Negli anni Novanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.» | “Yes,” says Chiara. “In the nineties, when there was a truck **protest**, we stayed in the car for hours.” |
 | «E facevi che cosa?» chiede Kevin. | “And what did you do?” asks Kevin. |
 | «Aspettavo,» dice Chiara. «Con **pazienza**. Mia madre aveva sempre **pazienza**.» | “I waited,” says Chiara. “With **patience**. My mother always had **patience**.” |
 | La cucina resta in silenzio per un momento. | The kitchen stays silent for a moment. |
@@ -648,7 +648,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Kevin si alza per servire la minestra. | Kevin gets up to serve the soup. |
 | «Domani **torno** a fare il barista,» dice Kevin. «Alle sei in piedi.» | “Tomorrow I **go back** to being the barista,” says Kevin. “Up at six.” |
 | «Alle sei?» chiede Leo. | “At six?” asks Leo. |
-| «Alle sei,» dice Kevin. «È **l'abitudine** mia. Da due anni.» | “At six,” says Kevin. “That's my **habit**. For two years.” |
+| «Alle sei,» dice Kevin. «È **l'abitudine** mia. Da qualche mese.» | “At six,” says Kevin. “That's my **habit**. For a few months.” |
 | «Anche io voglio **l'abitudine** delle sei,» dice Leo. | “I want the six o'clock **habit** too,” says Leo. |
 | «Tu non hai sei anni,» dice Emma. | “You're not six,” says Emma. |
 | «Ho otto anni,» dice Leo. «È quasi sei.» | “I'm eight,” says Leo. “That's almost six.” |
@@ -691,8 +691,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Allora è valsa la pena,» dice Chiara. | “Then it was worth it,” says Chiara. |
 | «Sì,» dice Kevin. «Domani niente **protesta**. Solo caffè.» | “Yes,” says Kevin. “Tomorrow no **protest**. Just coffee.” |
 | Fuori, la strada è silenziosa. | Outside, the street is silent. |
-| In lontananza si sente un treno che passa. | In the distance a train can be heard going by. |
-| I treni sono tornati. | The trains are back. |
+| In lontananza si sente un camion che passa. | In the distance a truck can be heard going by. |
+| Domani, forse, tutto torna normale. | Tomorrow, maybe, everything goes back to normal. |
 | E in casa Carter la cena continua, piano. | And in the Carter house dinner goes on, slowly. |
 
 ## 7. Casa Carter, Via dei Tigli 14 · mercoledì, dieci e mezza di sera
@@ -705,7 +705,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Leo è sul letto di sopra, in pigiama, con le mani fuori dalle coperte. | Leo is on the top bunk, in pajamas, his hands outside the blankets. |
 | Kevin entra piano e si avvicina al letto. | Kevin comes in quietly and goes up to the bed. |
 | Si siede sul bordo e sistema la coperta. | He sits on the edge and fixes the blanket. |
-| «Allora,» dice Kevin, piano. «Domani c'è ancora lo **sciopero**?» | “So,” says Kevin, quietly. “Is there still the **strike** tomorrow?” |
+| «Allora,» dice Leo, piano. «Domani c'è ancora lo **sciopero**?» | “So,” says Leo, quietly. “Is there still the **strike** tomorrow?” |
 | «No,» dice Kevin. «Solo oggi. Domani il **sindacato** e le aziende parlano.» | “No,” says Kevin. “Only today. Tomorrow the **union** and the companies talk.” |
 | «Parlano di che cosa?» chiede Leo. | “They talk about what?” asks Leo. |
 | «Parlano di soldi e di lavoro,» dice Kevin. «E forse si mettono d'accordo.» | “They talk about money and work,” says Kevin. “And maybe they agree.” |

@@ -2130,13 +2130,13 @@
       ],
       "words": [
         [
-          "s03e21-1-045:0-1"
+          "s03e21-1-045:0-0"
         ],
         [
-          "s03e21-1-045:2-3"
+          "s03e21-1-045:1-2"
         ],
         [
-          "s03e21-1-045:4-7"
+          "s03e21-1-045:3-6"
         ]
       ],
       "request": {
@@ -2147,7 +2147,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Carter,",
+                "text": "Kevin,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -4489,13 +4489,13 @@
       ],
       "words": [
         [
-          "s03e21-1-088:0-1"
+          "s03e21-1-088:0-0"
         ],
         [
-          "s03e21-1-088:2-3"
+          "s03e21-1-088:1-2"
         ],
         [
-          "s03e21-1-088:4-7"
+          "s03e21-1-088:3-6"
         ]
       ],
       "request": {
@@ -4506,7 +4506,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Carter,",
+                "text": "Kevin,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8655,7 +8655,7 @@
           "s03e21-2-064:4-5"
         ],
         [
-          "s03e21-2-064:6-13"
+          "s03e21-2-064:6-11"
         ]
       ],
       "request": {
@@ -8688,7 +8688,7 @@
               },
               {
                 "type": "text",
-                "text": "Papà ti porta a scuola prima di Monza.",
+                "text": "Tu vai a scuola a piedi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9494,7 +9494,7 @@
               },
               {
                 "type": "text",
-                "text": "Con papà. Per ultimo.",
+                "text": "A piedi. Come sempre.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -9915,7 +9915,7 @@
               },
               {
                 "type": "text",
-                "text": "Prima scuola, poi Monza.",
+                "text": "Prima Monza, poi Milano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10283,7 +10283,7 @@
           "s03e21-2-090:3-5"
         ],
         [
-          "s03e21-2-091:0-5",
+          "s03e21-2-091:0-3",
           "s03e21-2-092:0-6",
           "s03e21-2-093:0-5",
           "s03e21-2-094:0-0"
@@ -10337,7 +10337,7 @@
               },
               {
                 "type": "text",
-                "text": "Kevin fugge con Leo per mano. Chiara resta in cucina per un secondo. Guarda la pioggia fuori dalla finestra. Pensa:",
+                "text": "Kevin esce di corsa. Chiara resta in cucina per un secondo. Guarda la pioggia fuori dalla finestra. Pensa:",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10999,13 +10999,13 @@
       ],
       "words": [
         [
-          "s03e21-3-020:0-1"
+          "s03e21-3-020:0-0"
         ],
         [
-          "s03e21-3-020:2-3"
+          "s03e21-3-020:1-2"
         ],
         [
-          "s03e21-3-020:4-7"
+          "s03e21-3-020:3-6"
         ]
       ],
       "request": {
@@ -11016,7 +11016,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Carter,",
+                "text": "Kevin,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -12245,10 +12245,10 @@
       ],
       "words": [
         [
-          "s03e21-3-045:0-6"
+          "s03e21-3-045:0-5"
         ],
         [
-          "s03e21-3-045:7-8"
+          "s03e21-3-045:6-7"
         ]
       ],
       "request": {
@@ -12259,7 +12259,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Carter, per l'esame ci vuole pazienza,",
+                "text": "Kevin, per l'esame ci vuole pazienza,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -13457,13 +13457,13 @@
       ],
       "words": [
         [
-          "s03e21-3-072:0-1"
+          "s03e21-3-072:0-0"
         ],
         [
-          "s03e21-3-072:2-3"
+          "s03e21-3-072:1-2"
         ],
         [
-          "s03e21-3-072:4-11"
+          "s03e21-3-072:3-10"
         ]
       ],
       "request": {
@@ -13474,7 +13474,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Carter,",
+                "text": "Kevin,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15295,13 +15295,13 @@
       ],
       "words": [
         [
-          "s03e21-3-106:0-2"
+          "s03e21-3-106:0-1"
         ],
         [
-          "s03e21-3-106:3-4"
+          "s03e21-3-106:2-3"
         ],
         [
-          "s03e21-3-106:5-11"
+          "s03e21-3-106:4-10"
         ]
       ],
       "request": {
@@ -15312,7 +15312,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Niente, signor Carter,",
+                "text": "Niente, Kevin,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15334,7 +15334,7 @@
               },
               {
                 "type": "text",
-                "text": "Lei è l'autista. Emma è la passeggera.",
+                "text": "Tu sei l'autista. Emma è la passeggera.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -17588,10 +17588,10 @@
       ],
       "words": [
         [
-          "s03e21-4-033:0-6"
+          "s03e21-4-033:0-5"
         ],
         [
-          "s03e21-4-033:7-8"
+          "s03e21-4-033:6-7"
         ]
       ],
       "request": {
@@ -17602,7 +17602,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Signor Carter, lei viene anche al ritorno?",
+                "text": "Kevin, tu vieni anche al ritorno?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20412,7 +20412,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Era il 1973,",
+                "text": "Era il 1975,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -26246,7 +26246,7 @@
               },
               {
                 "type": "text",
-                "text": "Ho preso una coincidenza a Porta Garibaldi.",
+                "text": "Ho preso un pullman a Porta Garibaldi.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -26305,7 +26305,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Una coincidenza?",
+                "text": "Un pullman?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -26384,7 +26384,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Sì. Un treno per Borgoverde alle sei e dieci,",
+                "text": "Sì. Un pullman per Borgoverde alle sei e dieci,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -28934,7 +28934,7 @@
               },
               {
                 "type": "text",
-                "text": "Negli anni Ottanta, quando c'era una protesta dei camion, restavamo in macchina per ore.",
+                "text": "Negli anni Novanta, quando c'era una protesta dei camion, restavamo in macchina per ore.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -30641,7 +30641,7 @@
               },
               {
                 "type": "text",
-                "text": "È l'abitudine mia. Da due anni.",
+                "text": "È l'abitudine mia. Da qualche mese.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -33097,7 +33097,7 @@
         [
           "s03e21-6-126:0-4",
           "s03e21-6-127:0-7",
-          "s03e21-6-128:0-3",
+          "s03e21-6-128:0-4",
           "s03e21-6-129:0-7"
         ]
       ],
@@ -33142,7 +33142,7 @@
               },
               {
                 "type": "text",
-                "text": "Fuori, la strada è silenziosa. In lontananza si sente un treno che passa. I treni sono tornati. E in casa Carter la cena continua, piano.",
+                "text": "Fuori, la strada è silenziosa. In lontananza si sente un camion che passa. Domani, forse, tutto torna normale. E in casa Carter la cena continua, piano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -33180,7 +33180,7 @@
       "scene": 7,
       "speakers": {
         "narrator": "narrator",
-        "ben": "ben"
+        "leo": "leo"
       },
       "segment_ids": [
         "s03e21-7-001",
@@ -33189,8 +33189,7 @@
         "s03e21-7-004",
         "s03e21-7-005",
         "s03e21-7-006",
-        "s03e21-7-007",
-        "s03e21-7-008"
+        "s03e21-7-007"
       ],
       "words": [
         [
@@ -33208,14 +33207,7 @@
           "s03e21-7-007:1-3"
         ],
         [
-          "s03e21-7-007:4-8",
-          "s03e21-7-008:0-0"
-        ],
-        [
-          "s03e21-7-008:1-2"
-        ],
-        [
-          "s03e21-7-008:3-11"
+          "s03e21-7-007:4-8"
         ]
       ],
       "request": {
@@ -33241,14 +33233,14 @@
                 "annotations": [
                   {
                     "type": "speech_metadata",
-                    "speaker": "ben",
-                    "style": "speaking a little slower than normal, clearly, speaking Italian with a noticeable American accent"
+                    "speaker": "leo",
+                    "style": "speaking a little slower than normal, clearly"
                   }
                 ]
               },
               {
                 "type": "text",
-                "text": "dice Kevin, piano.",
+                "text": "dice Leo, piano.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -33259,7 +33251,69 @@
               },
               {
                 "type": "text",
-                "text": "Domani c'è ancora lo sciopero? No,",
+                "text": "Domani c'è ancora lo sciopero?",
+                "annotations": [
+                  {
+                    "type": "speech_metadata",
+                    "speaker": "leo",
+                    "style": "speaking a little slower than normal, clearly"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "response_format": {
+          "type": "audio",
+          "mime_type": "audio/l16"
+        },
+        "generation_config": {
+          "speech_config": {
+            "mode": "conversational",
+            "speakers": [
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
+              },
+              {
+                "speaker": "leo",
+                "voice": "Puck"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "index": 410,
+      "scene": 7,
+      "speakers": {
+        "ben": "ben",
+        "narrator": "narrator"
+      },
+      "segment_ids": [
+        "s03e21-7-008"
+      ],
+      "words": [
+        [
+          "s03e21-7-008:0-0"
+        ],
+        [
+          "s03e21-7-008:1-2"
+        ],
+        [
+          "s03e21-7-008:3-11"
+        ]
+      ],
+      "request": {
+        "model": "gemini-3.8-flash-tts",
+        "input": [
+          {
+            "type": "user_input",
+            "content": [
+              {
+                "type": "text",
+                "text": "No,",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -33302,12 +33356,12 @@
             "mode": "conversational",
             "speakers": [
               {
-                "speaker": "narrator",
-                "voice": "Charon"
-              },
-              {
                 "speaker": "ben",
                 "voice": "Puck"
+              },
+              {
+                "speaker": "narrator",
+                "voice": "Charon"
               }
             ]
           }
@@ -33315,7 +33369,7 @@
       }
     },
     {
-      "index": 410,
+      "index": 411,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -33385,7 +33439,7 @@
       }
     },
     {
-      "index": 411,
+      "index": 412,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -33484,7 +33538,7 @@
       }
     },
     {
-      "index": 412,
+      "index": 413,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -33556,7 +33610,7 @@
       }
     },
     {
-      "index": 413,
+      "index": 414,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -33640,7 +33694,7 @@
       }
     },
     {
-      "index": 414,
+      "index": 415,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -33710,7 +33764,7 @@
       }
     },
     {
-      "index": 415,
+      "index": 416,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -33794,7 +33848,7 @@
       }
     },
     {
-      "index": 416,
+      "index": 417,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -33878,7 +33932,7 @@
       }
     },
     {
-      "index": 417,
+      "index": 418,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -33962,7 +34016,7 @@
       }
     },
     {
-      "index": 418,
+      "index": 419,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -34032,7 +34086,7 @@
       }
     },
     {
-      "index": 419,
+      "index": 420,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -34116,7 +34170,7 @@
       }
     },
     {
-      "index": 420,
+      "index": 421,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -34217,7 +34271,7 @@
       }
     },
     {
-      "index": 421,
+      "index": 422,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -34301,7 +34355,7 @@
       }
     },
     {
-      "index": 422,
+      "index": 423,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -34371,7 +34425,7 @@
       }
     },
     {
-      "index": 423,
+      "index": 424,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -34455,7 +34509,7 @@
       }
     },
     {
-      "index": 424,
+      "index": 425,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -34525,7 +34579,7 @@
       }
     },
     {
-      "index": 425,
+      "index": 426,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -34626,7 +34680,7 @@
       }
     },
     {
-      "index": 426,
+      "index": 427,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -34696,7 +34750,7 @@
       }
     },
     {
-      "index": 427,
+      "index": 428,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -34780,7 +34834,7 @@
       }
     },
     {
-      "index": 428,
+      "index": 429,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -34850,7 +34904,7 @@
       }
     },
     {
-      "index": 429,
+      "index": 430,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -34934,7 +34988,7 @@
       }
     },
     {
-      "index": 430,
+      "index": 431,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35004,7 +35058,7 @@
       }
     },
     {
-      "index": 431,
+      "index": 432,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -35103,7 +35157,7 @@
       }
     },
     {
-      "index": 432,
+      "index": 433,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35187,7 +35241,7 @@
       }
     },
     {
-      "index": 433,
+      "index": 434,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -35271,7 +35325,7 @@
       }
     },
     {
-      "index": 434,
+      "index": 435,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35341,7 +35395,7 @@
       }
     },
     {
-      "index": 435,
+      "index": 436,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -35425,7 +35479,7 @@
       }
     },
     {
-      "index": 436,
+      "index": 437,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35495,7 +35549,7 @@
       }
     },
     {
-      "index": 437,
+      "index": 438,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -35567,7 +35621,7 @@
       }
     },
     {
-      "index": 438,
+      "index": 439,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35651,7 +35705,7 @@
       }
     },
     {
-      "index": 439,
+      "index": 440,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -35721,7 +35775,7 @@
       }
     },
     {
-      "index": 440,
+      "index": 441,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35791,7 +35845,7 @@
       }
     },
     {
-      "index": 441,
+      "index": 442,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -35875,7 +35929,7 @@
       }
     },
     {
-      "index": 442,
+      "index": 443,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -35945,7 +35999,7 @@
       }
     },
     {
-      "index": 443,
+      "index": 444,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36044,7 +36098,7 @@
       }
     },
     {
-      "index": 444,
+      "index": 445,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -36128,7 +36182,7 @@
       }
     },
     {
-      "index": 445,
+      "index": 446,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36198,7 +36252,7 @@
       }
     },
     {
-      "index": 446,
+      "index": 447,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -36268,7 +36322,7 @@
       }
     },
     {
-      "index": 447,
+      "index": 448,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36338,7 +36392,7 @@
       }
     },
     {
-      "index": 448,
+      "index": 449,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -36408,7 +36462,7 @@
       }
     },
     {
-      "index": 449,
+      "index": 450,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36507,7 +36561,7 @@
       }
     },
     {
-      "index": 450,
+      "index": 451,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -36591,7 +36645,7 @@
       }
     },
     {
-      "index": 451,
+      "index": 452,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36661,7 +36715,7 @@
       }
     },
     {
-      "index": 452,
+      "index": 453,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -36731,7 +36785,7 @@
       }
     },
     {
-      "index": 453,
+      "index": 454,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36801,7 +36855,7 @@
       }
     },
     {
-      "index": 454,
+      "index": 455,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -36885,7 +36939,7 @@
       }
     },
     {
-      "index": 455,
+      "index": 456,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -36969,7 +37023,7 @@
       }
     },
     {
-      "index": 456,
+      "index": 457,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -37068,7 +37122,7 @@
       }
     },
     {
-      "index": 457,
+      "index": 458,
       "scene": 7,
       "speakers": {
         "ben": "ben",
@@ -37138,7 +37192,7 @@
       }
     },
     {
-      "index": 458,
+      "index": 459,
       "scene": 7,
       "speakers": {
         "leo": "leo",
@@ -37218,7 +37272,7 @@
       }
     },
     {
-      "index": 459,
+      "index": 460,
       "scene": 7,
       "speakers": {
         "ben": "ben",

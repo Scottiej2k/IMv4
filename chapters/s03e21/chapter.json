@@ -5197,12 +5197,12 @@
             },
             {
               "id": "s03e21-1-045",
-              "it": "«Signor Carter,» dice Tommaso, «io **prendo** un **passaggio**?»",
-              "en": "“Mr. Carter,” says Tommaso, “can I get a **ride**?”",
+              "it": "«Kevin,» dice Tommaso, «io **prendo** un **passaggio**?»",
+              "en": "“Kevin,” says Tommaso, “can I get a **ride**?”",
               "voice": [
                 [
                   "tommaso",
-                  "Signor Carter,",
+                  "Kevin,",
                   ""
                 ],
                 [
@@ -5223,18 +5223,8 @@
                   ""
                 ],
                 [
-                  "Signor",
+                  "Kevin",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  1,
                   ""
                 ],
                 [
@@ -5244,7 +5234,7 @@
                 ],
                 [
                   "dice",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -5254,7 +5244,7 @@
                 ],
                 [
                   "Tommaso",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -5264,7 +5254,7 @@
                 ],
                 [
                   "io",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -5274,7 +5264,7 @@
                 ],
                 [
                   "prendo",
-                  5,
+                  4,
                   "b"
                 ],
                 [
@@ -5284,7 +5274,7 @@
                 ],
                 [
                   "un",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -5294,7 +5284,7 @@
                 ],
                 [
                   "passaggio",
-                  7,
+                  6,
                   "b"
                 ],
                 [
@@ -9629,12 +9619,12 @@
             },
             {
               "id": "s03e21-1-088",
-              "it": "«Signor Carter,» dice Tommaso, «grazie per il **passaggio**.»",
-              "en": "“Mr. Carter,” says Tommaso, “thanks for the **ride**.”",
+              "it": "«Kevin,» dice Tommaso, «grazie per il **passaggio**.»",
+              "en": "“Kevin,” says Tommaso, “thanks for the **ride**.”",
               "voice": [
                 [
                   "tommaso",
-                  "Signor Carter,",
+                  "Kevin,",
                   ""
                 ],
                 [
@@ -9655,18 +9645,8 @@
                   ""
                 ],
                 [
-                  "Signor",
+                  "Kevin",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  1,
                   ""
                 ],
                 [
@@ -9676,7 +9656,7 @@
                 ],
                 [
                   "dice",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -9686,7 +9666,7 @@
                 ],
                 [
                   "Tommaso",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -9696,7 +9676,7 @@
                 ],
                 [
                   "grazie",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -9706,7 +9686,7 @@
                 ],
                 [
                   "per",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -9716,7 +9696,7 @@
                 ],
                 [
                   "il",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -9726,7 +9706,7 @@
                 ],
                 [
                   "passaggio",
-                  7,
+                  6,
                   "b"
                 ],
                 [
@@ -18392,8 +18372,8 @@
             },
             {
               "id": "s03e21-2-064",
-              "it": "«Leo, prendi il giubbotto,» dice Chiara. «Papà ti **porta** a scuola prima di Monza.»",
-              "en": "“Leo, get your jacket,” says Chiara. “Dad will **take** you to school before Monza.”",
+              "it": "«Leo, prendi il giubbotto,» dice Chiara. «Tu vai a scuola a piedi.»",
+              "en": "“Leo, get your jacket,” says Chiara. “You walk to school.”",
               "voice": [
                 [
                   "chiara",
@@ -18407,7 +18387,7 @@
                 ],
                 [
                   "chiara",
-                  "Papà ti **porta** a scuola prima di Monza.",
+                  "Tu vai a scuola a piedi.",
                   ""
                 ]
               ],
@@ -18478,7 +18458,7 @@
                   ""
                 ],
                 [
-                  "Papà",
+                  "Tu",
                   6,
                   ""
                 ],
@@ -18488,7 +18468,7 @@
                   ""
                 ],
                 [
-                  "ti",
+                  "vai",
                   7,
                   ""
                 ],
@@ -18498,18 +18478,8 @@
                   ""
                 ],
                 [
-                  "porta",
-                  8,
-                  "b"
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "a",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -18519,6 +18489,16 @@
                 ],
                 [
                   "scuola",
+                  9,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "a",
                   10,
                   ""
                 ],
@@ -18528,28 +18508,8 @@
                   ""
                 ],
                 [
-                  "prima",
+                  "piedi",
                   11,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "di",
-                  12,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Monza",
-                  13,
                   ""
                 ],
                 [
@@ -18557,9 +18517,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "g-movement-verbs"
               ]
             }
           ]
@@ -19962,8 +19919,8 @@
           "segments": [
             {
               "id": "s03e21-2-079",
-              "it": "«Tu **vai** a scuola,» dice Chiara. «Con papà. Per ultimo.»",
-              "en": "“You **go** to school,” says Chiara. “With Dad. Last of all.”",
+              "it": "«Tu **vai** a scuola,» dice Chiara. «A piedi. Come sempre.»",
+              "en": "“You **go** to school,” says Chiara. “On foot. As always.”",
               "voice": [
                 [
                   "chiara",
@@ -19977,7 +19934,7 @@
                 ],
                 [
                   "chiara",
-                  "Con papà. Per ultimo.",
+                  "A piedi. Come sempre.",
                   ""
                 ]
               ],
@@ -20048,7 +20005,7 @@
                   ""
                 ],
                 [
-                  "Con",
+                  "A",
                   6,
                   ""
                 ],
@@ -20058,7 +20015,7 @@
                   ""
                 ],
                 [
-                  "papà",
+                  "piedi",
                   7,
                   ""
                 ],
@@ -20068,7 +20025,7 @@
                   ""
                 ],
                 [
-                  "Per",
+                  "Come",
                   8,
                   ""
                 ],
@@ -20078,7 +20035,7 @@
                   ""
                 ],
                 [
-                  "ultimo",
+                  "sempre",
                   9,
                   ""
                 ],
@@ -20701,8 +20658,8 @@
             },
             {
               "id": "s03e21-2-085",
-              "it": "«Allora, gente, si parte,» dice Kevin. «Prima scuola, poi Monza.»",
-              "en": "“All right, everybody, off we go,” says Kevin. “First school, then Monza.”",
+              "it": "«Allora, gente, si parte,» dice Kevin. «Prima Monza, poi Milano.»",
+              "en": "“All right, everybody, off we go,” says Kevin. “First Monza, then Milan.”",
               "voice": [
                 [
                   "ben",
@@ -20716,7 +20673,7 @@
                 ],
                 [
                   "ben",
-                  "Prima scuola, poi Monza.",
+                  "Prima Monza, poi Milano.",
                   ""
                 ]
               ],
@@ -20797,7 +20754,7 @@
                   ""
                 ],
                 [
-                  "scuola",
+                  "Monza",
                   7,
                   ""
                 ],
@@ -20817,7 +20774,7 @@
                   ""
                 ],
                 [
-                  "Monza",
+                  "Milano",
                   9,
                   ""
                 ],
@@ -21445,12 +21402,12 @@
             },
             {
               "id": "s03e21-2-091",
-              "it": "Kevin fugge con Leo per mano.",
-              "en": "Kevin runs off with Leo by the hand.",
+              "it": "Kevin esce di corsa.",
+              "en": "Kevin runs out.",
               "voice": [
                 [
                   "narrator",
-                  "Kevin fugge con Leo per mano.",
+                  "Kevin esce di corsa.",
                   ""
                 ]
               ],
@@ -21466,7 +21423,7 @@
                   ""
                 ],
                 [
-                  "fugge",
+                  "esce",
                   1,
                   ""
                 ],
@@ -21476,7 +21433,7 @@
                   ""
                 ],
                 [
-                  "con",
+                  "di",
                   2,
                   ""
                 ],
@@ -21486,28 +21443,8 @@
                   ""
                 ],
                 [
-                  "Leo",
+                  "corsa",
                   3,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "per",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "mano",
-                  5,
                   ""
                 ],
                 [
@@ -23809,12 +23746,12 @@
             },
             {
               "id": "s03e21-3-020",
-              "it": "«Signor Carter,» dice Tommaso, «noi **torniamo** a Borgoverde?»",
-              "en": "“Mr. Carter,” says Tommaso, “are we **going back** to Borgoverde?”",
+              "it": "«Kevin,» dice Tommaso, «noi **torniamo** a Borgoverde?»",
+              "en": "“Kevin,” says Tommaso, “are we **going back** to Borgoverde?”",
               "voice": [
                 [
                   "tommaso",
-                  "Signor Carter,",
+                  "Kevin,",
                   ""
                 ],
                 [
@@ -23835,18 +23772,8 @@
                   ""
                 ],
                 [
-                  "Signor",
+                  "Kevin",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  1,
                   ""
                 ],
                 [
@@ -23856,7 +23783,7 @@
                 ],
                 [
                   "dice",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -23866,7 +23793,7 @@
                 ],
                 [
                   "Tommaso",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -23876,7 +23803,7 @@
                 ],
                 [
                   "noi",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -23886,7 +23813,7 @@
                 ],
                 [
                   "torniamo",
-                  5,
+                  4,
                   "b"
                 ],
                 [
@@ -23896,7 +23823,7 @@
                 ],
                 [
                   "a",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -23906,7 +23833,7 @@
                 ],
                 [
                   "Borgoverde",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -26196,12 +26123,12 @@
             },
             {
               "id": "s03e21-3-045",
-              "it": "«Signor Carter, per l'**esame** ci vuole **pazienza**,» dice Tommaso.",
-              "en": "“Mr. Carter, for the **exam** you need **patience**,” says Tommaso.",
+              "it": "«Kevin, per l'**esame** ci vuole **pazienza**,» dice Tommaso.",
+              "en": "“Kevin, for the **exam** you need **patience**,” says Tommaso.",
               "voice": [
                 [
                   "tommaso",
-                  "Signor Carter, per l'**esame** ci vuole **pazienza**,",
+                  "Kevin, per l'**esame** ci vuole **pazienza**,",
                   ""
                 ],
                 [
@@ -26217,18 +26144,8 @@
                   ""
                 ],
                 [
-                  "Signor",
+                  "Kevin",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  1,
                   ""
                 ],
                 [
@@ -26238,7 +26155,7 @@
                 ],
                 [
                   "per",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -26248,7 +26165,7 @@
                 ],
                 [
                   "l",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -26258,7 +26175,7 @@
                 ],
                 [
                   "esame",
-                  4,
+                  3,
                   "b"
                 ],
                 [
@@ -26268,7 +26185,7 @@
                 ],
                 [
                   "ci",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -26278,7 +26195,7 @@
                 ],
                 [
                   "vuole",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -26288,7 +26205,7 @@
                 ],
                 [
                   "pazienza",
-                  7,
+                  6,
                   "b"
                 ],
                 [
@@ -26298,7 +26215,7 @@
                 ],
                 [
                   "dice",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -26308,7 +26225,7 @@
                 ],
                 [
                   "Tommaso",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -28695,12 +28612,12 @@
             },
             {
               "id": "s03e21-3-072",
-              "it": "«Signor Carter,» dice Tommaso, «per il ritorno posso avere anch'io un **passaggio**?»",
-              "en": "“Mr. Carter,” says Tommaso, “for the way back can I have a **ride** too?”",
+              "it": "«Kevin,» dice Tommaso, «per il ritorno posso avere anch'io un **passaggio**?»",
+              "en": "“Kevin,” says Tommaso, “for the way back can I have a **ride** too?”",
               "voice": [
                 [
                   "tommaso",
-                  "Signor Carter,",
+                  "Kevin,",
                   ""
                 ],
                 [
@@ -28721,18 +28638,8 @@
                   ""
                 ],
                 [
-                  "Signor",
+                  "Kevin",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  1,
                   ""
                 ],
                 [
@@ -28742,7 +28649,7 @@
                 ],
                 [
                   "dice",
-                  2,
+                  1,
                   ""
                 ],
                 [
@@ -28752,7 +28659,7 @@
                 ],
                 [
                   "Tommaso",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -28762,7 +28669,7 @@
                 ],
                 [
                   "per",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -28772,7 +28679,7 @@
                 ],
                 [
                   "il",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -28782,7 +28689,7 @@
                 ],
                 [
                   "ritorno",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -28792,7 +28699,7 @@
                 ],
                 [
                   "posso",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -28802,7 +28709,7 @@
                 ],
                 [
                   "avere",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -28812,7 +28719,7 @@
                 ],
                 [
                   "anch'io",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -28822,7 +28729,7 @@
                 ],
                 [
                   "un",
-                  10,
+                  9,
                   ""
                 ],
                 [
@@ -28832,7 +28739,7 @@
                 ],
                 [
                   "passaggio",
-                  11,
+                  10,
                   "b"
                 ],
                 [
@@ -31848,12 +31755,12 @@
             },
             {
               "id": "s03e21-3-106",
-              "it": "«Niente, signor Carter,» dice Tommaso. «Lei è **l'autista**. Emma è **la passeggera**.»",
-              "en": "“Nothing, Mr. Carter,” says Tommaso. “You're the **driver**. Emma is the **passenger**.”",
+              "it": "«Niente, Kevin,» dice Tommaso. «Tu sei **l'autista**. Emma è **la passeggera**.»",
+              "en": "“Nothing, Kevin,” says Tommaso. “You're the **driver**. Emma is the **passenger**.”",
               "voice": [
                 [
                   "tommaso",
-                  "Niente, signor Carter,",
+                  "Niente, Kevin,",
                   ""
                 ],
                 [
@@ -31863,7 +31770,7 @@
                 ],
                 [
                   "tommaso",
-                  "Lei è **l'autista**. Emma è **la passeggera**.",
+                  "Tu sei **l'autista**. Emma è **la passeggera**.",
                   ""
                 ]
               ],
@@ -31884,18 +31791,8 @@
                   ""
                 ],
                 [
-                  "signor",
+                  "Kevin",
                   1,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  2,
                   ""
                 ],
                 [
@@ -31905,7 +31802,7 @@
                 ],
                 [
                   "dice",
-                  3,
+                  2,
                   ""
                 ],
                 [
@@ -31915,7 +31812,7 @@
                 ],
                 [
                   "Tommaso",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -31924,7 +31821,17 @@
                   ""
                 ],
                 [
-                  "Lei",
+                  "Tu",
+                  4,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "sei",
                   5,
                   ""
                 ],
@@ -31934,18 +31841,8 @@
                   ""
                 ],
                 [
-                  "è",
-                  6,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "l'autista",
-                  7,
+                  6,
                   "b"
                 ],
                 [
@@ -31955,7 +31852,7 @@
                 ],
                 [
                   "Emma",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -31965,7 +31862,7 @@
                 ],
                 [
                   "è",
-                  9,
+                  8,
                   ""
                 ],
                 [
@@ -31975,7 +31872,7 @@
                 ],
                 [
                   "la",
-                  10,
+                  9,
                   "b"
                 ],
                 [
@@ -31985,7 +31882,7 @@
                 ],
                 [
                   "passeggera",
-                  11,
+                  10,
                   "b"
                 ],
                 [
@@ -35990,12 +35887,12 @@
             },
             {
               "id": "s03e21-4-033",
-              "it": "«Signor Carter, lei **viene** anche al ritorno?» chiede Tommaso.",
-              "en": "“Mr. Carter, are you **coming** back too?” asks Tommaso.",
+              "it": "«Kevin, tu **vieni** anche al ritorno?» chiede Tommaso.",
+              "en": "“Kevin, are you **coming** back too?” asks Tommaso.",
               "voice": [
                 [
                   "tommaso",
-                  "Signor Carter, lei **viene** anche al ritorno?",
+                  "Kevin, tu **vieni** anche al ritorno?",
                   ""
                 ],
                 [
@@ -36011,18 +35908,8 @@
                   ""
                 ],
                 [
-                  "Signor",
+                  "Kevin",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "Carter",
-                  1,
                   ""
                 ],
                 [
@@ -36031,8 +35918,8 @@
                   ""
                 ],
                 [
-                  "lei",
-                  2,
+                  "tu",
+                  1,
                   ""
                 ],
                 [
@@ -36041,8 +35928,8 @@
                   ""
                 ],
                 [
-                  "viene",
-                  3,
+                  "vieni",
+                  2,
                   "b"
                 ],
                 [
@@ -36052,7 +35939,7 @@
                 ],
                 [
                   "anche",
-                  4,
+                  3,
                   ""
                 ],
                 [
@@ -36062,7 +35949,7 @@
                 ],
                 [
                   "al",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -36072,7 +35959,7 @@
                 ],
                 [
                   "ritorno",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -36082,7 +35969,7 @@
                 ],
                 [
                   "chiede",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -36092,7 +35979,7 @@
                 ],
                 [
                   "Tommaso",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -43330,12 +43217,12 @@
             },
             {
               "id": "s03e21-5-032",
-              "it": "«Era il 1973,» dice Franco. «Un altro **sciopero**. Uguale a questo.»",
-              "en": "“It was 1973,” says Franco. “Another **strike**. The same as this one.”",
+              "it": "«Era il 1975,» dice Franco. «Un altro **sciopero**. Uguale a questo.»",
+              "en": "“It was 1975,” says Franco. “Another **strike**. The same as this one.”",
               "voice": [
                 [
                   "franco",
-                  "Era il 1973,",
+                  "Era il 1975,",
                   ""
                 ],
                 [
@@ -43376,7 +43263,7 @@
                   ""
                 ],
                 [
-                  "1973",
+                  "1975",
                   2,
                   ""
                 ],
@@ -55572,8 +55459,8 @@
           "segments": [
             {
               "id": "s03e21-6-009",
-              "it": "«In orario,» dice Chiara. «Ho preso una **coincidenza** a Porta Garibaldi.»",
-              "en": "“On time,” says Chiara. “I took a **connection** at Porta Garibaldi.”",
+              "it": "«In orario,» dice Chiara. «Ho preso un pullman a Porta Garibaldi.»",
+              "en": "“On time,” says Chiara. “I took a coach at Porta Garibaldi.”",
               "voice": [
                 [
                   "chiara",
@@ -55587,7 +55474,7 @@
                 ],
                 [
                   "chiara",
-                  "Ho preso una **coincidenza** a Porta Garibaldi.",
+                  "Ho preso un pullman a Porta Garibaldi.",
                   ""
                 ]
               ],
@@ -55658,7 +55545,7 @@
                   ""
                 ],
                 [
-                  "una",
+                  "un",
                   6,
                   ""
                 ],
@@ -55668,9 +55555,9 @@
                   ""
                 ],
                 [
-                  "coincidenza",
+                  "pullman",
                   7,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -55707,9 +55594,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-coincidenza"
               ]
             }
           ]
@@ -55718,12 +55602,12 @@
           "segments": [
             {
               "id": "s03e21-6-010",
-              "it": "«Una **coincidenza**?» chiede Kevin, sorpreso.",
-              "en": "“A **connection**?” asks Kevin, surprised.",
+              "it": "«Un pullman?» chiede Kevin, sorpreso.",
+              "en": "“A coach?” asks Kevin, surprised.",
               "voice": [
                 [
                   "ben",
-                  "Una **coincidenza**?",
+                  "Un pullman?",
                   ""
                 ],
                 [
@@ -55739,7 +55623,7 @@
                   ""
                 ],
                 [
-                  "Una",
+                  "Un",
                   0,
                   ""
                 ],
@@ -55749,9 +55633,9 @@
                   ""
                 ],
                 [
-                  "coincidenza",
+                  "pullman",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   "?» ",
@@ -55788,9 +55672,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-coincidenza"
               ]
             }
           ]
@@ -55799,12 +55680,12 @@
           "segments": [
             {
               "id": "s03e21-6-011",
-              "it": "«Sì. Un treno per Borgoverde alle sei e dieci,» dice Chiara. «**Ci ho messo** un'ora e mezza.»",
-              "en": "“Yes. A train to Borgoverde at six ten,” says Chiara. “It **took** me an hour and a half.”",
+              "it": "«Sì. Un pullman per Borgoverde alle sei e dieci,» dice Chiara. «**Ci ho messo** un'ora e mezza.»",
+              "en": "“Yes. A coach to Borgoverde at six ten,” says Chiara. “It **took** me an hour and a half.”",
               "voice": [
                 [
                   "chiara",
-                  "Sì. Un treno per Borgoverde alle sei e dieci,",
+                  "Sì. Un pullman per Borgoverde alle sei e dieci,",
                   ""
                 ],
                 [
@@ -55845,7 +55726,7 @@
                   ""
                 ],
                 [
-                  "treno",
+                  "pullman",
                   2,
                   ""
                 ],
@@ -60380,8 +60261,8 @@
           "segments": [
             {
               "id": "s03e21-6-053",
-              "it": "«Sì,» dice Chiara. «Negli anni Ottanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.»",
-              "en": "“Yes,” says Chiara. “In the eighties, when there was a truck **protest**, we stayed in the car for hours.”",
+              "it": "«Sì,» dice Chiara. «Negli anni Novanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.»",
+              "en": "“Yes,” says Chiara. “In the nineties, when there was a truck **protest**, we stayed in the car for hours.”",
               "voice": [
                 [
                   "chiara",
@@ -60395,7 +60276,7 @@
                 ],
                 [
                   "chiara",
-                  "Negli anni Ottanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.",
+                  "Negli anni Novanta, quando c'era una **protesta** dei camion, restavamo in macchina per ore.",
                   ""
                 ]
               ],
@@ -60456,7 +60337,7 @@
                   ""
                 ],
                 [
-                  "Ottanta",
+                  "Novanta",
                   5,
                   ""
                 ],
@@ -63588,8 +63469,8 @@
           "segments": [
             {
               "id": "s03e21-6-084",
-              "it": "«Alle sei,» dice Kevin. «È **l'abitudine** mia. Da due anni.»",
-              "en": "“At six,” says Kevin. “That's my **habit**. For two years.”",
+              "it": "«Alle sei,» dice Kevin. «È **l'abitudine** mia. Da qualche mese.»",
+              "en": "“At six,” says Kevin. “That's my **habit**. For a few months.”",
               "voice": [
                 [
                   "ben",
@@ -63603,7 +63484,7 @@
                 ],
                 [
                   "ben",
-                  "È **l'abitudine** mia. Da due anni.",
+                  "È **l'abitudine** mia. Da qualche mese.",
                   ""
                 ]
               ],
@@ -63694,7 +63575,7 @@
                   ""
                 ],
                 [
-                  "due",
+                  "qualche",
                   8,
                   ""
                 ],
@@ -63704,7 +63585,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "mese",
                   9,
                   ""
                 ],
@@ -68256,12 +68137,12 @@
             },
             {
               "id": "s03e21-6-127",
-              "it": "In lontananza si sente un treno che passa.",
-              "en": "In the distance a train can be heard going by.",
+              "it": "In lontananza si sente un camion che passa.",
+              "en": "In the distance a truck can be heard going by.",
               "voice": [
                 [
                   "narrator",
-                  "In lontananza si sente un treno che passa.",
+                  "In lontananza si sente un camion che passa.",
                   ""
                 ]
               ],
@@ -68317,7 +68198,7 @@
                   ""
                 ],
                 [
-                  "treno",
+                  "camion",
                   5,
                   ""
                 ],
@@ -68350,38 +68231,38 @@
             },
             {
               "id": "s03e21-6-128",
-              "it": "I treni sono tornati.",
-              "en": "The trains are back.",
+              "it": "Domani, forse, tutto torna normale.",
+              "en": "Tomorrow, maybe, everything goes back to normal.",
               "voice": [
                 [
                   "narrator",
-                  "I treni sono tornati.",
+                  "Domani, forse, tutto torna normale.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "I",
+                  "Domani",
                   0,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "treni",
+                  "forse",
                   1,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "sono",
+                  "tutto",
                   2,
                   ""
                 ],
@@ -68391,8 +68272,18 @@
                   ""
                 ],
                 [
-                  "tornati",
+                  "torna",
                   3,
+                  ""
+                ],
+                [
+                  " ",
+                  -1,
+                  ""
+                ],
+                [
+                  "normale",
+                  4,
                   ""
                 ],
                 [
@@ -69191,21 +69082,21 @@
             },
             {
               "id": "s03e21-7-007",
-              "it": "«Allora,» dice Kevin, piano. «Domani c'è ancora lo **sciopero**?»",
-              "en": "“So,” says Kevin, quietly. “Is there still the **strike** tomorrow?”",
+              "it": "«Allora,» dice Leo, piano. «Domani c'è ancora lo **sciopero**?»",
+              "en": "“So,” says Leo, quietly. “Is there still the **strike** tomorrow?”",
               "voice": [
                 [
-                  "ben",
+                  "leo",
                   "Allora,",
                   ""
                 ],
                 [
                   "narrator",
-                  "dice Kevin, piano.",
+                  "dice Leo, piano.",
                   ""
                 ],
                 [
-                  "ben",
+                  "leo",
                   "Domani c'è ancora lo **sciopero**?",
                   ""
                 ]
@@ -69237,7 +69128,7 @@
                   ""
                 ],
                 [
-                  "Kevin",
+                  "Leo",
                   2,
                   ""
                 ],
@@ -69310,7 +69201,11 @@
               "focus": [
                 "g-movement-verbs"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "id": "s03e21-7-008",
               "it": "«No,» dice Kevin. «Solo oggi. Domani il **sindacato** e le aziende parlano.»",
