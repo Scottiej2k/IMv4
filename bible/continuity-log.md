@@ -338,6 +338,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara knows Kevin kept the August discovery secret from her; Chiara is wary of Lucia's growing pile of boxes.
 - **Planted:** Whether Lucia actually moves in; Chiara's unresolved feeling about Kevin's secret.
 
+### s03e02 · Com'era la strada
+- **Happened:** Ornella shows Kevin and Leo her 1962 photo album; Kevin refuses at first, then writes the Christmas committee page about the street's past, interviewed by Ornella. Roberto edits it, has him sign it ("Testo di Kevin Carter"), and reads it in the December *giornalino*. Chiara silently counts seven boxes in Franco's hallway and photographs them; Lucia says she brought them one at a time.
+- **New facts:** The 1962 *cascina* on Via dei Tigli belonged to the Rinaldi family, with cows, a horse, hens, fienile, mulino, latteria and forno in piazza; Gino was 28 in 1962, opened Bar Tigli in 1970, used the same bicycle 30 years. Franco and Anna arrived in 1975. Kevin's yellow notebook now has entries 56–57.
+- **Changed:** Kevin publicly credited in the committee newsletter; Roberto warms to Kevin and to Ornella's view of memory.
+- **Planted:** The seven boxes in Franco's house (Lucia's presence), unresolved for Chiara.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
