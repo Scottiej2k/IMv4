@@ -320,6 +320,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Franco paid for Kevin's coffee, which Matteo reads as "today you're one of us." Kevin tells Chiara that the pharmacy queue treated him like a neighbor, and that it matters.
 - **Planted:** Kevin has still not decided about Sartori (answer due Wednesday; Chiara reminds him Tuesday evening). Franco refuses to give Kevin his pasta recipe.
 
+### s02e24 · Nel muro
+- **Happened:** Builders find a metal box in the kitchen wall at Via dei Tigli 14, with letters and photos dated 1975. Ornella identifies the handwriting as Anna Ferri’s; Franco confirms it and keeps the box.
+- **New facts:** Ornella is 78, arrived on the street in 1974; Giovanna Rinaldi, Anna’s best friend, left for Germany in 1975; the Rinaldis owned no. 14 from 1965 for twenty years. No. 2 was built in 1962, no. 9 in 1963; in 1975 Franco was 20 and Anna 18. Leo keeps a “cassetto dei ricordi” and “quaderno dei fatti strani.”
+- **Changed:** Kevin, Leo, Ornella, Lucia and Franco know the box is Anna’s; Franco asks Kevin not to tell Chiara yet, and keeps the box. Chiara suspects the handwriting is her mother’s but says nothing.
+- **Planted:** Franco hints at a well in the courtyard and at another secret for “the right day”; Chiara has not yet seen the box’s contents.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
