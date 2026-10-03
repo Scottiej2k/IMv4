@@ -362,6 +362,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Roberto thanks Kevin and signs Leo's cast, adding "pazienza"; Tommaso and Kevin now use tu (Tommaso drops "signor Carter"); Tommaso and Chiara use tu; Emma sees Kevin defend Tommaso and says "oggi sei stato bravo."
 - **Planted:** Tommaso's skateboard and helmet are stored behind the Carters' door "per una settimana"; Tommaso will walk Leo to school Monday; visit promised "domenica pomeriggio."
 
+### s03e06 · Lo sapevi?
+- **Happened:** Leo reveals he knew about Emma and Tommaso since June; Kevin admits he also knew. Roberto invites the Carters to dinner and schedules a committee meeting about the “couple.” Chiara confronts Kevin, then takes the jar’s eight letters to Franco; Lucia reacts strangely to a page.
+- **New facts:** Leo has a cast on his right arm covered in signatures and keeps a “quaderno dei fatti strani.” Kevin’s yellow vocabulary notebook is three years old. The wall jar held eight 1975 letters signed “L,” handwriting not Anna’s. Roberto’s wife is Marina; dinner condition: hedge untouched. Roberto learned in August; Matteo knew a year.
+- **Changed:** Chiara knows Kevin hid the Emma/Tommaso secret since June; Kevin knows about the letters. Lucia hides knowledge of the letters; Franco also has a secret. Chiara plans to ask Ornella alone.
+- **Planted:** identity of L and the jar mystery; Lucia’s and Franco’s hidden knowledge; Roberto’s committee meeting and dinner.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
