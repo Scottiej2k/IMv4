@@ -374,6 +374,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Chiara accepts Lucia in Anna's kitchen and cooks with her; Lucia's boxes in Franco's house are openly temporary. Chiara now owns the notebook.
 - **Planted:** Lucia moving into Via dei Tigli 9 ("solo una cosa temporanea") — needs a payoff; Leo's "quaderno dei fatti strani" is now at fact 23, and he writes his own recipe ("quanto basta").
 
+### s03e08 · Arrivano i Carter
+- **Happened:** Doug and Linda Carter arrive at Borgoverde station, are met by Kevin, Chiara, Emma and Leo, and settle at Via dei Tigli 14. Franco, coached by Lucia, delivers a prepared English speech to them at a Carter dinner and again at Sunday lunch at Via dei Tigli 9.
+- **New facts:** Doug and Linda are Kevin's parents, from near Columbus, Ohio; Leo calls Linda "nonna Linda". Their return flight ("partenza") is in two weeks. Doug carries a small Italian phrasebook. Nadia is six months pregnant and works/lives with Matteo. Kevin returns to work Tuesday at 6 a.m.
+- **Changed:** Lucia now appears openly at family meals with the Carters.
+- **Planted:** Kevin's secret "progetto" for the week (payoff unknown).
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
