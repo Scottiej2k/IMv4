@@ -96,9 +96,9 @@ Sono le cinque del pomeriggio. Nella cucina di Franco c'è una **latta** vecchia
 
 Chiara entra senza bussare, come sempre. Vede la **latta** e si ferma. «Papà, che cos'è questa?» chiede.
 
-Franco è al lavandino e non si gira. «È la **latta** di tua madre» dice. «L'ha trovata Kevin due anni fa, nella **parete** del numero quattordici.»
+Franco è al lavandino e non si gira. «È la **latta** di tua madre» dice. «L'ha trovata Kevin ad agosto, nella **parete** del numero quattordici.»
 
-Chiara appoggia la borsa sulla sedia. «Due anni fa?» dice. «E tu non hai detto niente?»
+Chiara appoggia la borsa sulla sedia. «Ad agosto?» dice. «E tu non hai detto niente?»
 
 «L'ho messa nella **soffitta**» dice Franco. «E ho **nascosto** la cosa a tutti.»
 
@@ -106,7 +106,7 @@ Chiara appoggia la borsa sulla sedia. «Due anni fa?» dice. «E tu non hai dett
 
 Franco si asciuga le mani e si siede. «Anche a te» dice piano.
 
-Chiara apre il **coperchio** della **latta**. Dentro è tutto **impolverato**. C'è **polvere** sui bordi e sulle fotografie. «È tutto **impolverato**, papà» dice.
+Chiara apre il **coperchio** della **latta**. Dentro è tutto **impolverato**. C'è polvere sui bordi e sulle fotografie. «È tutto **impolverato**, papà» dice.
 
 «La polvere non fa male» risponde Franco. «La polvere è tempo.»
 
@@ -190,9 +190,9 @@ Franco guarda la **latta**, poi guarda la porta. «È **impolverata**, sì. Ma n
 
 «Che cosa?» chiede.
 
-«L'ha trovata Kevin due anni fa, nella **parete**» dice. «Era **nascosta** nella **parete**, dietro il muro vecchio.» «Kevin l'ha portata a me e non ha detto niente a nessuno» dice. «Neanche a te, che sei sua moglie» aggiunge.
+«L'ha trovata Kevin ad agosto, nella **parete**» dice. «Era **nascosta** nella **parete**, dietro il muro vecchio.» «Kevin l'ha portata a me e non ha detto niente a nessuno» dice. «Neanche a te, che sei sua moglie» aggiunge.
 
-Chiara è zitta per un momento. «Kevin lo sa da due anni e io no» dice. «Non è per la **latta**. È per il **segreto**» aggiunge piano.
+Chiara è zitta per un momento. «Kevin lo sa da agosto e io no» dice. «Non è per la latta. È per il segreto» aggiunge piano.
 
 _Sono andata a Chicago per allontanarmi da questa strada._ _E adesso voglio tutta la **latta**. Tutta la strada. Tutta la **soffitta**._
 
@@ -208,7 +208,7 @@ Franco si alza e prende la **latta** in mano. Pesa poco. Sembra vuota, ma non lo
 
 Chiara prende la **latta** e la mette nella sua borsa. «Grazie, papà» dice.
 
-«La **bambola** sta bene con te» dice Franco. Chiara non corregge il tempo. Sorride soltanto.
+«La **bambola** sta bene con te» dice Franco. Chiara sorride soltanto.
 
 ## 3. Casa di Franco, Via dei Tigli 9 · martedì mattina
 
@@ -224,7 +224,7 @@ Franco apre la porta in pigiama. «Lucia?» dice. «Che cos'è questa roba?»
 
 «E nella valigia?» chiede Franco.
 
-«La **bambola** di mia madre» dice Lucia piano. «Era mia **quando ero piccola**.»
+«La mia vecchia **bambola**» dice Lucia piano. «Era mia **quando ero piccola**.»
 
 Franco guarda la valigia e poi guarda Lucia. «Lucia, **lasciare** è una cosa» dice. «**Traslocare** è un'altra.» «Chi **trasloca** porta anche il letto. E le pentole.»
 
@@ -274,19 +274,19 @@ _Lei ha capito tutto._
 
 Franco mette il biglietto in tasca. Poi guarda la cucina dalla finestra. Lucia è ancora lì, con le sue scatole e la sua **bambola**. «Franco! Il caffè è pronto!» Franco chiude la porta del giardino e rientra.
 
-_La casa era troppo silenziosa._ _E adesso c'è una **latta** sul tavolo e una voce in cucina._ _Un **trasloco** è una cosa seria. Ma il silenzio è peggio._ «Lucia, il caffè **lo bevo** in cucina» dice.
+_La casa era troppo silenziosa._ _E adesso c'è una **latta** sul tavolo e una voce in cucina._ _Un **trasloco** è una cosa seria. Ma il silenzio è peggio._ «Lucia, il caffè lo bevo in cucina» dice.
 
 «Certo, amore mio» dice Lucia. «Il caffè si beve in cucina.»
 
 «E la **soffitta**?» chiede Franco. «Che cosa metto nella **soffitta**?»
 
-«Niente, Franco. Nella **soffitta** ci sono i **ricordi**» dice Lucia.
+«Niente, Franco. Nella soffitta ci sono i ricordi» dice Lucia.
 
 ## 4. Casa Carter, Via dei Tigli 14 · martedì sera
 
 Martedì sera, otto e mezza. Sul tavolo della cucina c'è una **latta** vecchia.
 
-Chiara apre il **coperchio** e guarda i suoi figli. «Questa **latta** è della nonna Anna» dice. «Il nonno l'ha trovata nella **parete** due anni fa.» «E dentro c'è un **album** di fotografie antiche.» aggiunge.
+Chiara apre il **coperchio** e guarda i suoi figli. «Questa **latta** è della nonna Anna» dice. «Kevin l'ha trovata nella **parete** ad agosto.» «E dentro c'è un **album** di fotografie antiche.» aggiunge.
 
 Leo si alza sulla sedia per vedere meglio. «Che cos'è questa cosa?» chiede, toccando qualcosa di stoffa.
 
@@ -302,7 +302,7 @@ Leo si ferma e guarda sua madre. «Aspetta. La nonna Anna giocava con la **bambo
 
 «Ma la nonna è vecchia!» dice Leo.
 
-Emma alza gli occhi dal telefono. «Leo, la nonna **quando era piccola** era una bambina» dice. «Anche il **nonno** era un bambino» aggiunge. «Tutti erano bambini.»
+Emma alza gli occhi dal telefono. «Leo, la nonna **quando era piccola** era una bambina» dice. «Anche il nonno era un bambino» aggiunge. «Tutti erano bambini.»
 
 «Anche tu, papà?» chiede.
 
@@ -382,7 +382,7 @@ Leo prende la **bambola** e la mette sotto il braccio. «Adesso la **bambola** d
 
 «Ma il **ricordo** di chi?» chiede.
 
-«Della **nonna**. E del **nonno**. E di me» dice. «Un **ricordo** è un **racconto** che resta» aggiunge.
+«Della nonna. E del nonno. E di me» dice. «Un **ricordo** è un **racconto** che resta» aggiunge.
 
 «E io sono il **nipote**!» dice Leo. «Il **nipote** vuole il **racconto**!»
 
@@ -424,7 +424,7 @@ Alle sei e mezza arriva Franco. Si mette al banco e non dice niente. «Buongiorn
 
 «Quale notizia?» chiede Kevin.
 
-«La **latta** adesso è a casa tua» dice Franco. «Chiara l'ha presa ieri. Con l'**album** e la **bambola**.»
+«La **latta** adesso è a casa tua» dice Franco. «Chiara l'ha presa lunedì. Con l'**album** e la **bambola**.»
 
 «Ah! E come sta?» chiede Kevin.
 
@@ -462,7 +462,7 @@ Matteo smette di asciugare i bicchieri. «Come?» dice.
 
 «Brava Emma» dice Franco.
 
-«**Una volta** tu raccontavi le stesse cose, papà» dice. «**Raccontavi** sempre del cortile. E del **nascondino**.»
+«**Una volta** tu raccontavi le stesse cose, papà» dice. «Raccontavi sempre del cortile. E del nascondino.»
 
 «Adesso **dimentico** i nomi» dice Franco. «E **dimentico** le date. Ma i **giochi** li **ricordo**.»
 
@@ -532,7 +532,7 @@ Leo prende un cornetto dal banco. «Oggi a scuola c'è la **ricreazione** alle d
 
 «E le **biglie**?» chiede.
 
-«Le **biglie** le ho ancora» dice.
+«Le **biglie**? Un momento» dice.
 
 «Le **biglie** sono a casa nostra» dice Kevin.
 
@@ -580,7 +580,7 @@ Nadia guarda Kevin e alza un sopracciglio. «Kevin, perché sorridi?» chiede.
 
 Giovedì pomeriggio, cinque e mezza. Chiara arriva a casa di suo padre con una borsa di pane.
 
-Davanti alla porta ci sono quattro scatole. Dentro, in cucina, c'è Lucia. E c'è **polvere** sul tavolo e sulla **parete**. «Buonasera, Chiara» dice Lucia.
+Davanti alla porta ci sono quattro scatole. Dentro, in cucina, c'è Lucia. E c'è polvere sul tavolo e sulla parete. «Buonasera, Chiara» dice Lucia.
 
 Chiara appoggia il pane sul tavolo. «Buonasera» dice. «Vedo che ci sono quattro scatole.»
 
@@ -618,7 +618,7 @@ Chiara alza la testa. «Anche tu hai una foto sotto un albero?» chiede.
 
 «Sì. La stessa **bambola**» dice. «L'ho tenuta tutta la vita.»
 
-Franco si siede al tavolo. «Nella **latta** di Anna c'è un'**album** con le foto» dice. «E c'è la **bambola** di Anna» aggiunge.
+Franco si siede al tavolo. «Nella **latta** di Anna c'è un **album** con le foto» dice. «E c'è la **bambola** di Anna» aggiunge.
 
 «Due **bambole** in due **latte** diverse» dice piano.
 
@@ -638,7 +638,7 @@ Chiara prende il **coperchio** della **latta** e lo guarda. «Questo **coperchio
 
 Chiara sorride senza volere. «Mia madre aveva una **bambola** sola» dice.
 
-«Anch'io» dice Lucia. «Una **bambola** e tanti **ricordi**.» «La mia **infanzia** non era ricca» aggiunge. «Ma era piena di **giochi** e di voci.»
+«Anch'io» dice Lucia. «Una bambola e tanti ricordi.» «La mia **infanzia** non era ricca» aggiunge. «Ma era piena di **giochi** e di voci.»
 
 Franco guarda il tavolo. «**Ricordo** mia madre che cantava» dice. «**Ricordo** la sua voce, non le parole» aggiunge. «**Ricordo** tutto il **racconto** tranne i nomi.»
 
@@ -646,7 +646,7 @@ Chiara mette la foto sul tavolo e guarda suo padre. «Papà, una domanda» dice.
 
 «Dimmi» dice Franco.
 
-«Perché non mi hai detto niente per due anni?» chiede. «La **latta** era nella **soffitta** due anni» aggiunge.
+«Perché non mi hai detto niente da agosto?» chiede. «La **latta** era nella **soffitta** da settimane» aggiunge.
 
 Franco non risponde subito. «**Una volta** avevo paura» dice piano.
 
@@ -696,7 +696,7 @@ Nella cucina di Franco ci sono ora tre voci. E una **latta** sul tavolo, con il 
 
 «E adesso?» chiede.
 
-«Adesso ci sono le **scatole** di Lucia» dice. «E le **bambole** di tutti.»
+«Adesso ci sono le scatole di Lucia» dice. «E le bambole di tutti.»
 
 ## 7. Casa Carter, Via dei Tigli 14 · domenica mattina
 

@@ -91,16 +91,16 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Papà, che cos'è questa?» chiede. | “Dad, what is this?” she asks. |
 | Franco è al lavandino e non si gira. | Franco is at the sink and doesn't turn around. |
 | «È la **latta** di tua madre» dice. | “It's your mother's **tin**,” he says. |
-| «L'ha trovata Kevin due anni fa, nella **parete** del numero quattordici.» | “Kevin found it two years ago, in the **wall** of number fourteen.” |
+| «L'ha trovata Kevin ad agosto, nella **parete** del numero quattordici.» | “Kevin found it in August, in the **wall** of number fourteen.” |
 | Chiara appoggia la borsa sulla sedia. | Chiara rests her bag on the chair. |
-| «Due anni fa?» dice. «E tu non hai detto niente?» | “Two years ago?” she says. “And you didn't say anything?” |
+| «Ad agosto?» dice. «E tu non hai detto niente?» | “In August?” she says. “And you didn't say anything?” |
 | «L'ho messa nella **soffitta**» dice Franco. «E ho **nascosto** la cosa a tutti.» | “I put it in the **attic**,” Franco says. “And I **hid** it from everyone.” |
 | «Anche a me» dice Chiara. | “From me too,” Chiara says. |
 | Franco si asciuga le mani e si siede. | Franco dries his hands and sits down. |
 | «Anche a te» dice piano. | “From you too,” he says quietly. |
 | Chiara apre il **coperchio** della **latta**. | Chiara opens the **lid** of the **tin**. |
 | Dentro è tutto **impolverato**. | Inside everything is **dusty**. |
-| C'è **polvere** sui bordi e sulle fotografie. | There's dust on the edges and on the photographs. |
+| C'è polvere sui bordi e sulle fotografie. | There's dust on the edges and on the photographs. |
 | «È tutto **impolverato**, papà» dice. | “It's all **dusty**, Dad,” she says. |
 | «La polvere non fa male» risponde Franco. «La polvere è tempo.» | “Dust doesn't hurt,” Franco answers. “Dust is time.” |
 | Chiara appoggia la **latta** sul tavolo. | Chiara sets the **tin** on the table. |
@@ -178,13 +178,13 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «È **impolverata**, sì. Ma non è vuota» dice. | “It's **dusty**, yes. But it isn't empty,” he says. |
 | «Senti, Chiara. C'è una cosa che non ho detto» aggiunge. | “Listen, Chiara. There's one thing I haven't said.” |
 | «Che cosa?» chiede. | “What?” Chiara asks. |
-| «L'ha trovata Kevin due anni fa, nella **parete**» dice. | “Kevin found it two years ago, in the **wall**,” Franco says. |
+| «L'ha trovata Kevin ad agosto, nella **parete**» dice. | “Kevin found it in August, in the **wall**,” Franco says. |
 | «Era **nascosta** nella **parete**, dietro il muro vecchio.» | “It was **hidden** in the **wall**, behind the old wall.” |
 | «Kevin l'ha portata a me e non ha detto niente a nessuno» dice. | “Kevin brought it to me and didn't say anything to anyone.” |
 | «Neanche a te, che sei sua moglie» aggiunge. | “Not even to you, who are his wife,” he adds. |
 | Chiara è zitta per un momento. | Chiara is silent for a moment. |
-| «Kevin lo sa da due anni e io no» dice. | “Kevin has known for two years and I haven't,” she says. |
-| «Non è per la **latta**. È per il **segreto**» aggiunge piano. | “It's not about the **tin**. It's about the secret,” she adds quietly. |
+| «Kevin lo sa da agosto e io no» dice. | “Kevin has known since August and I haven't,” she says. |
+| «Non è per la latta. È per il segreto» aggiunge piano. | “It's not about the tin. It's about the secret,” she adds quietly. |
 | _Sono andata a Chicago per allontanarmi da questa strada._ | _I went to Chicago to get away from this street._ |
 | _E adesso voglio tutta la **latta**. Tutta la strada. Tutta la **soffitta**._ | _And now I want the whole **tin**. The whole street. The whole **attic**._ |
 | Franco si alza e prende la **latta** in mano. | Franco gets up and takes the **tin** in his hand. |
@@ -199,7 +199,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara prende la **latta** e la mette nella sua borsa. | Chiara takes the **tin** and puts it in her bag. |
 | «Grazie, papà» dice. | “Thank you, Dad,” she says. |
 | «La **bambola** sta bene con te» dice Franco. | “The **doll** will be fine with you,” Franco says. |
-| Chiara non corregge il tempo. Sorride soltanto. | Chiara doesn't correct the tense. She just smiles. |
+| Chiara sorride soltanto. | Chiara just smiles. |
 
 ## 3. Casa di Franco, Via dei Tigli 9 · martedì mattina
 
@@ -214,7 +214,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Qualche cosa?» dice Franco. «Ci sono due scatole e una valigia.» | “A few things?” Franco says. “There are two boxes and a suitcase.” |
 | «Sono libri» dice Lucia. «E un **album** di fotografie.» | “They're books,” Lucia says. “And an **album** of photographs.” |
 | «E nella valigia?» chiede Franco. | “And in the suitcase?” Franco asks. |
-| «La **bambola** di mia madre» dice Lucia piano. | “My mother's **doll**,” Lucia says quietly. |
+| «La mia vecchia **bambola**» dice Lucia piano. | “My old **doll**,” Lucia says quietly. |
 | «Era mia **quando ero piccola**.» | “It was mine **when I was little**.” |
 | Franco guarda la valigia e poi guarda Lucia. | Franco looks at the suitcase and then at Lucia. |
 | «Lucia, **lasciare** è una cosa» dice. «**Traslocare** è un'altra.» | “Lucia, **leaving** something is one thing,” he says. “**Moving house** is another.” |
@@ -274,10 +274,10 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | _La casa era troppo silenziosa._ | _The house was too quiet._ |
 | _E adesso c'è una **latta** sul tavolo e una voce in cucina._ | _And now there's a **tin** on the table and a voice in the kitchen._ |
 | _Un **trasloco** è una cosa seria. Ma il silenzio è peggio._ | _A **move** is a serious thing. But silence is worse._ |
-| «Lucia, il caffè **lo bevo** in cucina» dice. | “Lucia, I'm drinking the coffee in the kitchen,” Franco says. |
+| «Lucia, il caffè lo bevo in cucina» dice. | “Lucia, I'm drinking the coffee in the kitchen,” Franco says. |
 | «Certo, amore mio» dice Lucia. «Il caffè si beve in cucina.» | “Of course, my love,” Lucia says. “Coffee is drunk in the kitchen.” |
 | «E la **soffitta**?» chiede Franco. «Che cosa metto nella **soffitta**?» | “And the **attic**?” Franco asks. “What do I put in the **attic**?” |
-| «Niente, Franco. Nella **soffitta** ci sono i **ricordi**» dice Lucia. | “Nothing, Franco. In the **attic** there are memories,” Lucia says. |
+| «Niente, Franco. Nella soffitta ci sono i ricordi» dice Lucia. | “Nothing, Franco. In the attic there are memories,” Lucia says. |
 
 ## 4. Casa Carter, Via dei Tigli 14 · martedì sera
 
@@ -287,7 +287,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Sul tavolo della cucina c'è una **latta** vecchia. | On the kitchen table there's an old **tin**. |
 | Chiara apre il **coperchio** e guarda i suoi figli. | Chiara opens the **lid** and looks at her kids. |
 | «Questa **latta** è della nonna Anna» dice. | “This **tin** belongs to Grandma Anna,” she says. |
-| «Il nonno l'ha trovata nella **parete** due anni fa.» | “Grandpa found it in the **wall** two years ago.” |
+| «Kevin l'ha trovata nella **parete** ad agosto.» | “Kevin found it in the **wall** in August.” |
 | «E dentro c'è un **album** di fotografie antiche.» aggiunge. | “And inside there's an **album** of old photographs,” she adds. |
 | Leo si alza sulla sedia per vedere meglio. | Leo gets up on his chair to see better. |
 | «Che cos'è questa cosa?» chiede, toccando qualcosa di stoffa. | “What is this thing?” he asks, touching something made of cloth. |
@@ -301,7 +301,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ma la nonna è vecchia!» dice Leo. | “But Grandma is old!” Leo says. |
 | Emma alza gli occhi dal telefono. | Emma raises her eyes from her phone. |
 | «Leo, la nonna **quando era piccola** era una bambina» dice. | “Leo, Grandma **when she was little** was a child,” Emma says. |
-| «Anche il **nonno** era un bambino» aggiunge. «Tutti erano bambini.» | “Grandpa was a child too,” she adds. “Everyone was a child.” |
+| «Anche il nonno era un bambino» aggiunge. «Tutti erano bambini.» | “Grandpa was a child too,” she adds. “Everyone was a child.” |
 | «Anche tu, papà?» chiede. | “You too, Dad?” Leo asks. |
 | «Anch'io» dice Kevin. «**Da bambino** ero piccolo come te.» | “Me too,” Kevin says. “**As a child** I was little like you.” |
 | Leo guarda la **bambola** e poi guarda Kevin. | Leo looks at the **doll** and then looks at Kevin. |
@@ -344,7 +344,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **nascondino**!» dice Leo. «Con il **pallone** vecchio!» | “**Hide-and-seek**!” Leo says. “With the old **ball**!” |
 | «Ma è buio, Leo» dice Chiara. | “But it's dark, Leo,” Chiara says. |
 | «Il **nascondino** si gioca anche in casa» dice. | “You can play **hide-and-seek** inside too,” Leo says. |
-| «Una volta lo giocavamo in cortile» dice piano. | “**Once** we played it in the yard,” Chiara says quietly. |
+| «Una volta lo giocavamo in cortile» dice piano. | “Once we played it in the yard,” Chiara says quietly. |
 | «Era lo stesso **gioco** di adesso» aggiunge. | “It was the same **game** as now,” she adds. |
 | «Lo stesso **gioco** di tanti anni fa.» | “The same **game** as many years ago.” |
 | Emma guarda sua madre con attenzione. | Emma looks at her mother carefully. |
@@ -360,7 +360,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Perché?» chiede. | “Why?” Leo asks. |
 | «Perché è un **ricordo**, non un **giocattolo**» dice. | “Because it's a **memory**, not a **toy**,” Chiara says. |
 | «Ma il **ricordo** di chi?» chiede. | “But whose **memory**?” Leo asks. |
-| «Della **nonna**. E del **nonno**. E di me» dice. | “Grandma's. And **Grandpa**'s. And mine,” Chiara says. |
+| «Della nonna. E del nonno. E di me» dice. | “Grandma's. And Grandpa's. And mine,” Chiara says. |
 | «Un **ricordo** è un **racconto** che resta» aggiunge. | “A **memory** is a **story** that stays,” she adds. |
 | «E io sono il **nipote**!» dice Leo. «Il **nipote** vuole il **racconto**!» | “And I'm the **grandson**!” Leo says. “The **grandson** wants the **story**!” |
 | Chiara ride e prende la **bambola**. | Chiara laughs and takes the **doll**. |
@@ -402,7 +402,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì» dice Franco. «E ho una notizia.» | “Yes,” Franco says. “And I have news.” |
 | «Quale notizia?» chiede Kevin. | “What news?” Kevin asks. |
 | «La **latta** adesso è a casa tua» dice Franco. | “The **tin** is at your house now,” Franco says. |
-| «Chiara l'ha presa ieri. Con l'**album** e la **bambola**.» | “Chiara took it yesterday. With the **album** and the **doll**.” |
+| «Chiara l'ha presa lunedì. Con l'**album** e la **bambola**.» | “Chiara took it on Monday. With the **album** and the **doll**.” |
 | «Ah! E come sta?» chiede Kevin. | “Ah! And how is she?” Kevin asks. |
 | «Ha pianto un po'. Poi ha sorriso» dice. «Va bene.» | “She cried a little. Then she smiled,” Franco says. “It's fine.” |
 | Kevin mette il caffè sul banco e sorride. | Kevin puts the coffee on the counter and smiles. |
@@ -431,7 +431,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Anche Emma mi corregge sempre» dice. «Con la "a".» | “Emma corrects me too,” Kevin says. “With the ‘a.’” |
 | «Brava Emma» dice Franco. | “Good for Emma,” Franco says. |
 | «**Una volta** tu raccontavi le stesse cose, papà» dice. | “**Once** you told the same things, Dad,” Matteo says. |
-| «**Raccontavi** sempre del cortile. E del **nascondino**.» | “You always told about the yard. And **hide-and-seek**.” |
+| «Raccontavi sempre del cortile. E del nascondino.» | “You always told about the yard. And hide-and-seek.” |
 | «Adesso **dimentico** i nomi» dice Franco. | “Now I **forget** names,” Franco says. |
 | «E **dimentico** le date. Ma i **giochi** li **ricordo**.» | “And I **forget** dates. But the **games** I **remember**.” |
 | Nadia entra dalla porta sul retro con una busta. | Nadia comes in through the back door with a bag. |
@@ -479,7 +479,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Il **pallone** è di tutti» dice Franco. | “Yes. The **ball** belongs to everyone,” Franco says. |
 | «**Una volta** giocavo con un **pallone** di stracci» aggiunge. | “**Once** I played with a rag **ball**,” he adds. |
 | «E le **biglie**?» chiede. | “And the **marbles**?” Leo asks. |
-| «Le **biglie** le ho ancora» dice. | “I still have the **marbles**,” Franco says. |
+| «Le **biglie**? Un momento» dice. | “The **marbles**? One moment,” Franco says. |
 | «Le **biglie** sono a casa nostra» dice Kevin. | “The **marbles** are at our house,” Kevin says. |
 | «Sì. Le ho date a Chiara» dice Franco. | “Yes. I gave them to Chiara,” Franco says. |
 | «Tre **biglie** di vetro. Erano di mio padre.» | “Three glass **marbles**. They were my father's.” |
@@ -522,7 +522,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara arriva a casa di suo padre con una borsa di pane. | Chiara arrives at her father's house with a bag of bread. |
 | Davanti alla porta ci sono quattro scatole. | In front of the door there are four boxes. |
 | Dentro, in cucina, c'è Lucia. | Inside, in the kitchen, there's Lucia. |
-| E c'è **polvere** sul tavolo e sulla **parete**. | And there's dust on the table and on the **wall**. |
+| E c'è polvere sul tavolo e sulla parete. | And there's dust on the table and on the wall. |
 | «Buonasera, Chiara» dice Lucia. | “Good evening, Chiara,” Lucia says. |
 | Chiara appoggia il pane sul tavolo. | Chiara sets the bread on the table. |
 | «Buonasera» dice. «Vedo che ci sono quattro scatole.» | “Good evening,” she says. “I see there are four boxes.” |
@@ -558,7 +558,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «La **bambola** della valigia?» chiede. | “The **doll** from the suitcase?” Chiara asks. |
 | «Sì. La stessa **bambola**» dice. «L'ho tenuta tutta la vita.» | “Yes. The same **doll**,” Lucia says. “I kept it my whole life.” |
 | Franco si siede al tavolo. | Franco sits down at the table. |
-| «Nella **latta** di Anna c'è un'**album** con le foto» dice. | “In Anna's **tin** there's an **album** with photos,” Franco says. |
+| «Nella **latta** di Anna c'è un **album** con le foto» dice. | “In Anna's **tin** there's an **album** with photos,” Franco says. |
 | «E c'è la **bambola** di Anna» aggiunge. | “And there's Anna's **doll**,” he adds. |
 | «Due **bambole** in due **latte** diverse» dice piano. | “Two **dolls** in two different **tins**,” Lucia says quietly. |
 | Chiara prende il **coperchio** della **latta** e lo guarda. | Chiara takes the **lid** of the **tin** and looks at it. |
@@ -574,7 +574,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Il **pallone** era di stracci» dice Lucia. «Come qui.» | “The **ball** was made of rags,” Lucia says. “Like here.” |
 | Chiara sorride senza volere. | Chiara smiles without wanting to. |
 | «Mia madre aveva una **bambola** sola» dice. | “My mother had only one **doll**,” Chiara says. |
-| «Anch'io» dice Lucia. «Una **bambola** e tanti **ricordi**.» | “Me too,” Lucia says. “One **doll** and lots of memories.” |
+| «Anch'io» dice Lucia. «Una bambola e tanti ricordi.» | “Me too,” Lucia says. “One doll and lots of memories.” |
 | «La mia **infanzia** non era ricca» aggiunge. | “My **childhood** wasn't rich,” she adds. |
 | «Ma era piena di **giochi** e di voci.» | “But it was full of **games** and voices.” |
 | Franco guarda il tavolo. | Franco looks at the table. |
@@ -584,8 +584,8 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara mette la foto sul tavolo e guarda suo padre. | Chiara puts the photo on the table and looks at her father. |
 | «Papà, una domanda» dice. | “Dad, one question,” Chiara says. |
 | «Dimmi» dice Franco. | “Go on,” Franco says. |
-| «Perché non mi hai detto niente per due anni?» chiede. | “Why didn't you tell me anything for two years?” Chiara asks. |
-| «La **latta** era nella **soffitta** due anni» aggiunge. | “The **tin** was in the **attic** for two years,” she adds. |
+| «Perché non mi hai detto niente da agosto?» chiede. | “Why didn't you tell me anything since August?” Chiara asks. |
+| «La **latta** era nella **soffitta** da settimane» aggiunge. | “The **tin** was in the **attic** for weeks,” she adds. |
 | Franco non risponde subito. | Franco doesn't answer right away. |
 | «**Una volta** avevo paura» dice piano. | “**Once** I was afraid,” Franco says quietly. |
 | «Paura di che cosa?» chiede. | “Afraid of what?” Chiara asks. |
@@ -640,7 +640,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Fuori, in giardino, tre vasi aspettano la pioggia. | Outside, in the garden, three pots wait for the rain. |
 | «**Una volta** questa casa era silenziosa» dice piano. | “**Once** this house was quiet,” Franco says quietly. |
 | «E adesso?» chiede. | “And now?” Chiara asks. |
-| «Adesso ci sono le **scatole** di Lucia» dice. «E le **bambole** di tutti.» | “Now there are Lucia's boxes,” Franco says. “And everyone's **dolls**.” |
+| «Adesso ci sono le scatole di Lucia» dice. «E le bambole di tutti.» | “Now there are Lucia's boxes,” Franco says. “And everyone's dolls.” |
 
 ## 7. Casa Carter, Via dei Tigli 14 · domenica mattina
 

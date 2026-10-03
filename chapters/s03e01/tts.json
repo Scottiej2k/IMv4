@@ -3219,7 +3219,7 @@
           "s03e01-2-007:6-6"
         ],
         [
-          "s03e01-2-008:0-10"
+          "s03e01-2-008:0-9"
         ],
         [
           "s03e01-2-009:0-5"
@@ -3255,7 +3255,7 @@
               },
               {
                 "type": "text",
-                "text": "L'ha trovata Kevin due anni fa, nella parete del numero quattordici.",
+                "text": "L'ha trovata Kevin ad agosto, nella parete del numero quattordici.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -3311,13 +3311,13 @@
       ],
       "words": [
         [
-          "s03e01-2-010:0-2"
+          "s03e01-2-010:0-1"
         ],
         [
-          "s03e01-2-010:3-3"
+          "s03e01-2-010:2-2"
         ],
         [
-          "s03e01-2-010:4-9"
+          "s03e01-2-010:3-8"
         ]
       ],
       "request": {
@@ -3328,7 +3328,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Due anni fa?",
+                "text": "Ad agosto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -6881,10 +6881,10 @@
       ],
       "words": [
         [
-          "s03e01-2-095:0-7"
+          "s03e01-2-095:0-6"
         ],
         [
-          "s03e01-2-095:8-8"
+          "s03e01-2-095:7-7"
         ],
         [
           "s03e01-2-096:0-7",
@@ -6909,7 +6909,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "L'ha trovata Kevin due anni fa, nella parete",
+                "text": "L'ha trovata Kevin ad agosto, nella parete",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7014,10 +7014,10 @@
       ],
       "words": [
         [
-          "s03e01-2-100:0-8"
+          "s03e01-2-100:0-7"
         ],
         [
-          "s03e01-2-100:9-9"
+          "s03e01-2-100:8-8"
         ],
         [
           "s03e01-2-101:0-8"
@@ -7042,7 +7042,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Kevin lo sa da due anni e io no",
+                "text": "Kevin lo sa da agosto e io no",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -7600,7 +7600,7 @@
         ],
         [
           "s03e01-2-115:6-7",
-          "s03e01-2-116:0-6"
+          "s03e01-2-116:0-2"
         ]
       ],
       "request": {
@@ -7622,7 +7622,7 @@
               },
               {
                 "type": "text",
-                "text": "dice Franco. Chiara non corregge il tempo. Sorride soltanto.",
+                "text": "dice Franco. Chiara sorride soltanto.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -8109,10 +8109,10 @@
       ],
       "words": [
         [
-          "s03e01-3-010:0-4"
+          "s03e01-3-010:0-3"
         ],
         [
-          "s03e01-3-010:5-7"
+          "s03e01-3-010:4-6"
         ],
         [
           "s03e01-3-011:0-4"
@@ -8129,7 +8129,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "La bambola di mia madre",
+                "text": "La mia vecchia bambola",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -10450,7 +10450,7 @@
           "s03e01-4-004:6-6"
         ],
         [
-          "s03e01-4-005:0-8",
+          "s03e01-4-005:0-6",
           "s03e01-4-006:0-7"
         ],
         [
@@ -10499,7 +10499,7 @@
               },
               {
                 "type": "text",
-                "text": "Il nonno l'ha trovata nella parete due anni fa. E dentro c'è un album di fotografie antiche.",
+                "text": "Kevin l'ha trovata nella parete ad agosto. E dentro c'è un album di fotografie antiche.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -15822,7 +15822,7 @@
               },
               {
                 "type": "text",
-                "text": "Chiara l'ha presa ieri. Con l'album e la bambola.",
+                "text": "Chiara l'ha presa lunedì. Con l'album e la bambola.",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -20014,10 +20014,10 @@
       ],
       "words": [
         [
-          "s03e01-5-087:0-4"
+          "s03e01-5-087:0-3"
         ],
         [
-          "s03e01-5-087:5-5"
+          "s03e01-5-087:4-4"
         ]
       ],
       "request": {
@@ -20028,7 +20028,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Le biglie le ho ancora",
+                "text": "Le biglie? Un momento",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -23285,10 +23285,10 @@
       ],
       "words": [
         [
-          "s03e01-6-041:0-8"
+          "s03e01-6-041:0-9"
         ],
         [
-          "s03e01-6-041:9-9"
+          "s03e01-6-041:10-10"
         ],
         [
           "s03e01-6-042:0-5"
@@ -23305,7 +23305,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Nella latta di Anna c'è un'album con le foto",
+                "text": "Nella latta di Anna c'è un album con le foto",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -24491,10 +24491,10 @@
       ],
       "words": [
         [
-          "s03e01-6-067:0-8"
+          "s03e01-6-067:0-7"
         ],
         [
-          "s03e01-6-067:9-9"
+          "s03e01-6-067:8-8"
         ],
         [
           "s03e01-6-068:0-6"
@@ -24512,7 +24512,7 @@
             "content": [
               {
                 "type": "text",
-                "text": "Perché non mi hai detto niente per due anni?",
+                "text": "Perché non mi hai detto niente da agosto?",
                 "annotations": [
                   {
                     "type": "speech_metadata",
@@ -24534,7 +24534,7 @@
               },
               {
                 "type": "text",
-                "text": "La latta era nella soffitta due anni",
+                "text": "La latta era nella soffitta da settimane",
                 "annotations": [
                   {
                     "type": "speech_metadata",
