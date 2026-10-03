@@ -1113,12 +1113,12 @@
             },
             {
               "id": "s03e15-1-008",
-              "it": "«Ma guarda questo **nasino** **piccolino**!» esclama Lucia.",
-              "en": "\"Just look at this **tiny little nose**!\" exclaims Lucia.",
+              "it": "«Ma guarda questo nasino piccolino!» esclama Lucia.",
+              "en": "\"Just look at this tiny little nose!\" exclaims Lucia.",
               "voice": [
                 [
                   "lucia",
-                  "Ma guarda questo **nasino** **piccolino**!",
+                  "Ma guarda questo nasino piccolino!",
                   "delighted"
                 ],
                 [
@@ -1166,7 +1166,7 @@
                 [
                   "nasino",
                   3,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -1176,7 +1176,7 @@
                 [
                   "piccolino",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   "!» ",
@@ -1203,10 +1203,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-nasino",
-                "v-piccolino"
               ]
             },
             {
@@ -35637,7 +35633,7 @@
             {
               "id": "s03e15-3-113",
               "it": "«Questa non è una parolina» dice Leo. «È una parolona.»",
-              "en": "\"This isn't a **little word**,\" says Leo. \"It's a **big word**.\"",
+              "en": "\"This isn't a little word,\" says Leo. \"It's a big word.\"",
               "voice": [
                 [
                   "leo",
@@ -39222,18 +39218,18 @@
             },
             {
               "id": "s03e15-4-010",
-              "it": "_Sei voci. Non è una lista lunga. Ma è la mia lista._",
-              "en": "_Six items. It's not a long list. But it's my list._",
+              "it": "_Cinque voci. Non è una lista lunga. Ma è la mia lista._",
+              "en": "_Five items. It's not a long list. But it's my list._",
               "voice": [
                 [
                   "ben",
-                  "Sei voci. Non è una lista lunga. Ma è la mia lista.",
+                  "Cinque voci. Non è una lista lunga. Ma è la mia lista.",
                   "thinking to themself, quiet and close, quiet"
                 ]
               ],
               "tokens": [
                 [
-                  "Sei",
+                  "Cinque",
                   0,
                   "i"
                 ],
@@ -54899,12 +54895,12 @@
           "segments": [
             {
               "id": "s03e15-5-049",
-              "it": "«I **ditini**, non le **ditini**» corregge Ornella.",
-              "en": "\"**Little fingers** is masculine, not feminine,\" Ornella corrects.",
+              "it": "«I ditini, non le ditini» corregge Ornella.",
+              "en": "\"Little fingers is masculine, not feminine,\" Ornella corrects.",
               "voice": [
                 [
                   "ornella",
-                  "I **ditini**, non le **ditini**",
+                  "I ditini, non le ditini",
                   ""
                 ],
                 [
@@ -54932,7 +54928,7 @@
                 [
                   "ditini",
                   1,
-                  "b"
+                  ""
                 ],
                 [
                   ", ",
@@ -54962,7 +54958,7 @@
                 [
                   "ditini",
                   4,
-                  "b"
+                  ""
                 ],
                 [
                   "» ",
@@ -54989,9 +54985,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-ditino"
               ]
             }
           ]
@@ -55738,12 +55731,12 @@
             },
             {
               "id": "s03e15-5-057",
-              "it": "Mette i ferri nelle mani di Leo e sistema le sue **ditini**.",
+              "it": "Mette i ferri nelle mani di Leo e sistema i suoi **ditini**.",
               "en": "She puts the needles in Leo's hands and fixes his **little fingers**.",
               "voice": [
                 [
                   "narrator",
-                  "Mette i ferri nelle mani di Leo e sistema le sue **ditini**.",
+                  "Mette i ferri nelle mani di Leo e sistema i suoi **ditini**.",
                   ""
                 ]
               ],
@@ -55839,7 +55832,7 @@
                   ""
                 ],
                 [
-                  "le",
+                  "i",
                   9,
                   ""
                 ],
@@ -55849,7 +55842,7 @@
                   ""
                 ],
                 [
-                  "sue",
+                  "suoi",
                   10,
                   ""
                 ],
@@ -67126,12 +67119,12 @@
             },
             {
               "id": "s03e15-6-063",
-              "it": "«Leo, hai scritto anche il **lettino**?» chiede Chiara.",
+              "it": "«Leo, hai scritto anche il lettino?» chiede Chiara.",
               "en": "\"Leo, did you also write down little bed?\" Chiara asks.",
               "voice": [
                 [
                   "chiara",
-                  "Leo, hai scritto anche il **lettino**?",
+                  "Leo, hai scritto anche il lettino?",
                   ""
                 ],
                 [
@@ -67199,7 +67192,7 @@
                 [
                   "lettino",
                   5,
-                  "b"
+                  ""
                 ],
                 [
                   "?» ",
@@ -67226,9 +67219,6 @@
                   -1,
                   ""
                 ]
-              ],
-              "focus": [
-                "v-lettino"
               ]
             }
           ]
@@ -70541,12 +70531,12 @@
             },
             {
               "id": "s03e15-6-099",
-              "it": "Poi sente un rumore in cucina: è Chiara che prepara un **sonnellino** per la bambina? No. È il frigo.",
-              "en": "Then he hears a noise in the kitchen: is it Chiara making a **little nap** for the baby? No. It's the fridge.",
+              "it": "Poi sente un rumore in cucina: no, è solo il frigo. Ma pensa a un **sonnellino** lungo, lungo.",
+              "en": "Then he hears a noise in the kitchen: no, it's just the fridge. But he thinks of a long, long **little nap**.",
               "voice": [
                 [
                   "narrator",
-                  "Poi sente un rumore in cucina: è Chiara che prepara un **sonnellino** per la bambina? No. È il frigo.",
+                  "Poi sente un rumore in cucina: no, è solo il frigo. Ma pensa a un **sonnellino** lungo, lungo.",
                   ""
                 ]
               ],
@@ -70612,17 +70602,17 @@
                   ""
                 ],
                 [
-                  "è",
+                  "no",
                   6,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "Chiara",
+                  "è",
                   7,
                   ""
                 ],
@@ -70632,7 +70622,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "solo",
                   8,
                   ""
                 ],
@@ -70642,7 +70632,7 @@
                   ""
                 ],
                 [
-                  "prepara",
+                  "il",
                   9,
                   ""
                 ],
@@ -70652,19 +70642,19 @@
                   ""
                 ],
                 [
-                  "un",
+                  "frigo",
                   10,
                   ""
                 ],
                 [
-                  " ",
+                  ". ",
                   -1,
                   ""
                 ],
                 [
-                  "sonnellino",
+                  "Ma",
                   11,
-                  "b"
+                  ""
                 ],
                 [
                   " ",
@@ -70672,7 +70662,7 @@
                   ""
                 ],
                 [
-                  "per",
+                  "pensa",
                   12,
                   ""
                 ],
@@ -70682,7 +70672,7 @@
                   ""
                 ],
                 [
-                  "la",
+                  "a",
                   13,
                   ""
                 ],
@@ -70692,48 +70682,38 @@
                   ""
                 ],
                 [
-                  "bambina",
+                  "un",
                   14,
                   ""
                 ],
                 [
-                  "? ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "No",
+                  "sonnellino",
                   15,
-                  ""
+                  "b"
                 ],
                 [
-                  ". ",
+                  " ",
                   -1,
                   ""
                 ],
                 [
-                  "È",
+                  "lungo",
                   16,
                   ""
                 ],
                 [
-                  " ",
+                  ", ",
                   -1,
                   ""
                 ],
                 [
-                  "il",
+                  "lungo",
                   17,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "frigo",
-                  18,
                   ""
                 ],
                 [

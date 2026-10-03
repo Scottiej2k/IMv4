@@ -32,7 +32,7 @@ The suffix does two things at once: it tells you the **size**, and it tells you 
 
 ## From the story
 
-«Ma guarda questo **nasino** **piccolino**!» esclama Lucia. — "Just look at this **tiny little nose**!" exclaims Lucia. (`s03e15-1-008`)
+«Ma guarda questo nasino piccolino!» esclama Lucia. — "Just look at this tiny little nose!" exclaims Lucia. (`s03e15-1-008`)
 Lucia takes the plain word *naso* and makes it tiny and loving in the same breath.
 
 «E le **manine**... che **carine**!» dice. — "And the **little hands**... how **cute**!" (`s03e15-1-009`)
@@ -56,7 +56,7 @@ The same suffix *-one* that makes *ragazzone* makes an enormous cappuccino.
 «Un **bacino** non è un bacio piccolo» dice Kevin. «È un bacio importante.» — "A **little kiss** isn't a small kiss," says Kevin. "It's an important kiss." (`s03e15-6-037`)
 Kevin's insight: in Italian, the diminutive often makes a thing *bigger* in feeling, not smaller.
 
-«Le mie **ditini** sono piccoli» dice Leo. — "My **little fingers** are small," says Leo. (`s03e15-5-048`) / «I **ditini**, non le **ditini**» corregge Ornella. — "**Little fingers** is masculine, not feminine," Ornella corrects. (`s03e15-5-049`)
+«Le mie **ditini** sono piccoli» dice Leo. — "My **little fingers** are small," says Leo. (`s03e15-5-048`) / «I ditini, non le ditini» corregge Ornella. — "Little fingers is masculine, not feminine," Ornella corrects. (`s03e15-5-049`)
 Leo uses the wrong gender; Ornella corrects him in the same scene. *ditino* is masculine.
 
 ## Common mistakes English speakers make

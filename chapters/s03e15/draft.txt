@@ -29,7 +29,7 @@ il neonato | noun | m | newborn | neonata, neonate, neonati
 il piattino | noun | m | little plate | piattini
 @end
 
-# SCENE casa-franco | il 27 dicembre, pomeriggio | franco, lucia, chiara, kevin, leo, emma
+# SCENE casa-franco | il 27 dicembre, pomeriggio | franco, lucia, chiara, ben, leo, emma
 
 È il pomeriggio del ventisette dicembre, due giorni dopo il Natale. || It's the afternoon of December 27th, two days after Christmas.
 In casa di Franco fa caldo e c'è odore di caffè. || Franco's house is warm and it smells of coffee.
@@ -40,7 +40,7 @@ Lucia entra dalla cucina con un vassoio. || Lucia comes in from the kitchen with
 «Grazie, Lucia»{chiara} dice Chiara. || "Thanks, Lucia," says Chiara.
 
 Lucia si avvicina alla carrozzina e guarda dentro. || Lucia walks over to the pram and looks inside.
-«Ma guarda questo **nasino** **piccolino**!»{lucia|delighted} esclama Lucia. || "Just look at this **tiny little nose**!" exclaims Lucia.
+«Ma guarda questo nasino piccolino!»{lucia|delighted} esclama Lucia. || "Just look at this tiny little nose!" exclaims Lucia.
 «E le **manine**... che **carine**!»{lucia} dice. || "And the **little hands**... how **cute**!"
 
 Leo è seduto sul divano con il **quadernino** sulle ginocchia. || Leo is sitting on the sofa with his **little notebook** on his knees.
@@ -153,7 +153,7 @@ Leo alza il **quadernino** e mostra la pagina a Emma. || Leo lifts his **little 
 Nella **carrozzina**, Anna Yasmin dorme con la bocca aperta. || In the **pram**, Anna Yasmin sleeps with her mouth open.
 Fuori il cielo è grigio, ma in casa c'è luce. || Outside the sky is grey, but inside the house there's light.
 
-# SCENE bar-tigli | il 28 dicembre, mattina presto | matteo, kevin, nadia
+# SCENE bar-tigli | il 28 dicembre, mattina presto | matteo, ben, nadia
 
 Sono le sei e mezza del **mattino** e fuori è ancora buio. || It's six thirty in the **morning** and outside it's still dark.
 Nel Bar Tigli c'è una sola luce accesa, dietro il banco. || In Bar Tigli there's only one light on, behind the counter.
@@ -274,7 +274,7 @@ _Mi hanno dato una settimana di **mattini**. Nessuno mi ha mai dato niente così
 Il primo cliente entra alle sette meno un quarto. || The first customer comes in at quarter to seven.
 Kevin dice: «Buongiorno!»{ben|bright} e nessuno si lamenta. || Kevin says, "Good morning!" and nobody complains.
 
-# SCENE casa-franco | domenica, pranzo | franco, lucia, chiara, kevin, leo, emma, matteo, nadia
+# SCENE casa-franco | domenica, pranzo | franco, lucia, chiara, ben, leo, emma, matteo, nadia
 
 È domenica e in casa di Franco ci sono undici persone a tavola. || It's Sunday and at Franco's house there are eleven people at the table.
 Sulla tavola bianca di Anna ci sono due pentole, il pane e una bottiglia d'acqua. || On Anna's white tablecloth there are two pots, the bread and a bottle of water.
@@ -406,7 +406,7 @@ Lucia si siede accanto al **lettino** e guarda Leo. || Lucia sits next to the **
 
 Tutta la tavola dice insieme: «Oh, no»{chiara|groaning}. || The whole table says together: "Oh, no."
 Anche Leo scrive **nipottino** nel **quadernino**. || Leo writes **little grandkid** in his **little notebook** too.
-«Questa non è una parolina»{leo|serious} dice Leo. «È una parolona.» || "This isn't a **little word**," says Leo. "It's a **big word**."
+«Questa non è una parolina»{leo|serious} dice Leo. «È una parolona.» || "This isn't a little word," says Leo. "It's a big word."
 «Lo vedi? Il bambino capisce»{franco} dice Franco. || "You see? The kid understands," says Franco.
 Lucia guarda Franco con gli occhi stretti. || Lucia looks at Franco with narrow eyes.
 «Franco, tu parli troppo»{lucia} dice Lucia. || "Franco, you talk too much," says Lucia.
@@ -435,7 +435,7 @@ Franco si alza, va al **lettino** e guarda la bambina per un minuto intero. || F
 «**Carina**? Hai detto **carina**?»{lucia|teasing} chiede Lucia dalla cucina. || "**Cute**? You said **cute**?" Lucia asks from the kitchen.
 «Non ho detto niente»{franco} dice Franco. || "I didn't say anything," says Franco.
 
-# SCENE bar-tigli | mercoledì mattina | kevin, franco, ornella, donna
+# SCENE bar-tigli | mercoledì mattina | ben, franco, ornella, donna
 
 Sono le sei del **mattino** e Kevin apre il Bar Tigli da solo. || It's six in the **morning** and Kevin is opening Bar Tigli alone.
 Fuori fa freddo e la strada è ancora buia. || Outside it's cold and the street is still dark.
@@ -447,7 +447,7 @@ Kevin legge la pagina ad alta voce. || Kevin reads the page out loud.
 «Quattro: non bruciare il latte»{ben} aggiunge. || "Four: don't burn the milk," he adds.
 «Cinque: sorridere anche se sono **assonnato**.»{ben} || "Five: smile even if I'm **sleepy**."
 Kevin chiude il **quadernino** e accende la macchina del caffè. || Kevin closes the **little notebook** and turns on the coffee machine.
-_Sei voci. Non è una lista lunga. Ma è la mia lista._{ben|quiet} || *Six items. It's not a long list. But it's my list.*
+_Cinque voci. Non è una lista lunga. Ma è la mia lista._{ben|quiet} || *Five items. It's not a long list. But it's my list.*
 
 La porta si apre alle sei e un quarto. || The door opens at quarter past six.
 Entra Franco con il cappotto blu e il giornale sotto il braccio. || Franco comes in with his blue coat and the newspaper under his arm.
@@ -627,7 +627,7 @@ Ornella lega il **fiocchetto** intorno ai due pezzi di lana. || Ornella ties the
 «Sì!»{leo} dice Leo, e prende il nastro. || "Yes!" says Leo, and takes the ribbon.
 Le sue dita sono corte e il nastro cade due volte. || His fingers are short and the ribbon falls twice.
 «Le mie **ditini** sono piccoli»{leo} dice Leo. || "My **little fingers** are small," says Leo.
-«I **ditini**, non le **ditini**»{ornella} corregge Ornella. || "**Little fingers** is masculine, not feminine," Ornella corrects.
+«I ditini, non le ditini»{ornella} corregge Ornella. || "Little fingers is masculine, not feminine," Ornella corrects.
 «I **ditini** sono piccoli»{leo} ripete Leo. || "The **little fingers** are small," Leo repeats.
 «E i tuoi **ditini** crescono ogni giorno»{ornella} dice Ornella. || "And your **little fingers** grow every day," says Ornella.
 
@@ -637,7 +637,7 @@ Leo la guarda. «Signora Ornella, mi insegna?»{leo} chiede Leo. || Leo looks at
 «Va bene. Ma con calma»{ornella} dice Ornella. || "All right. But slowly," says Ornella.
 
 Ornella prende due ferri e un gomitolo piccolo. || Ornella takes two needles and a small ball of yarn.
-Mette i ferri nelle mani di Leo e sistema le sue **ditini**. || She puts the needles in Leo's hands and fixes his **little fingers**.
+Mette i ferri nelle mani di Leo e sistema i suoi **ditini**. || She puts the needles in Leo's hands and fixes his **little fingers**.
 «Così. Piano piano»{ornella} dice Ornella. || "Like this. Slowly slowly," says Ornella.
 Leo comincia. Dopo due minuti si muove sulla sedia. || Leo starts. After two minutes he moves on the chair.
 «Sto seduto da tanto»{leo} dice Leo. || "I've been sitting for a long time," says Leo.
@@ -692,7 +692,7 @@ Pavarotti apre un occhio, guarda Leo e lo richiude. || Pavarotti opens one eye, 
 Fuori è già quasi buio e in casa c'è una luce gialla. || Outside it's almost dark and in the house there's a yellow light.
 _Un **golfino** dura più di una bambina. Ma è la stessa cosa._{ornella|quiet} || *A **little cardigan** lasts longer than a baby. But it's the same thing.*
 
-# SCENE casa-carter | domenica sera | chiara, kevin, leo, emma
+# SCENE casa-carter | domenica sera | chiara, ben, leo, emma
 
 È domenica sera e in casa Carter c'è silenzio. || It's Sunday evening and in the Carter house there's silence.
 Chiara è sul divano con un bicchiere d'acqua e il telefono in mano. || Chiara is on the sofa with a glass of water and her phone in her hand.
@@ -765,7 +765,7 @@ Kevin legge il messaggio e sorride. || Kevin reads the message and smiles.
 «Allora sei un **fratellino** vecchio»{leo} dice Leo. || "Then you're an old **little brother**," says Leo.
 
 Chiara ride e mette la testa sulla spalla di Kevin. || Chiara laughs and puts her head on Kevin's shoulder.
-«Leo, hai scritto anche il **lettino**?»{chiara} chiede Chiara. || "Leo, did you also write down little bed?" Chiara asks.
+«Leo, hai scritto anche il lettino?»{chiara} chiede Chiara. || "Leo, did you also write down little bed?" Chiara asks.
 «Sì. E la **carrozzina**»{leo} dice Leo. || "Yes. And the **pram**," says Leo.
 «La **carrozzina** non è una parolina»{emma} dice Emma. || "The **pram** isn't a little word," says Emma.
 «Ma è **piccolina**»{leo|serious} dice Leo. || "But it's **tiny**," says Leo.
@@ -806,7 +806,7 @@ Emma ride e lascia un **bacino** sulla testa di Leo. || Emma laughs and leaves a
 
 Kevin resta solo sul divano con il disegno in mano. || Kevin stays alone on the sofa with the drawing in his hand.
 Guarda il **nasino**, le **manine** e il **golfino** blu di lana. || He looks at the **little nose**, the **little hands** and the blue wool **little cardigan**.
-Poi sente un rumore in cucina: è Chiara che prepara un **sonnellino** per la bambina? No. È il frigo. || Then he hears a noise in the kitchen: is it Chiara making a **little nap** for the baby? No. It's the fridge.
+Poi sente un rumore in cucina: no, è solo il frigo. Ma pensa a un **sonnellino** lungo, lungo. || Then he hears a noise in the kitchen: no, it's just the fridge. But he thinks of a long, long **little nap**.
 _Mi hanno dato un **mattino** per sempre. E un **fratellino** in regalo._{ben|warm} || *They gave me a **morning** forever. And a **little brother** as a gift.*
 Kevin spegne la luce e sorride al soffitto. || Kevin turns off the light and smiles at the ceiling.
 _Assonnato, sì. Ma questa settimana ho fatto qualcosa di buono._{ben|soft} || *Sleepy, yes. But this week I did something good.*

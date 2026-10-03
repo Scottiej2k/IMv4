@@ -15,7 +15,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Ecco qua: un **caffettino** per tutti!» dice Lucia. «Piccolo piccolo, ma buono.» | "Here you go: a **little coffee** for everyone!" says Lucia. "Tiny tiny, but good." |
 | «Grazie, Lucia» dice Chiara. | "Thanks, Lucia," says Chiara. |
 | Lucia si avvicina alla carrozzina e guarda dentro. | Lucia walks over to the pram and looks inside. |
-| «Ma guarda questo **nasino** **piccolino**!» esclama Lucia. | "Just look at this **tiny little nose**!" exclaims Lucia. |
+| «Ma guarda questo nasino piccolino!» esclama Lucia. | "Just look at this tiny little nose!" exclaims Lucia. |
 | «E le **manine**... che **carine**!» dice. | "And the **little hands**... how **cute**!" |
 | Leo è seduto sul divano con il **quadernino** sulle ginocchia. | Leo is sitting on the sofa with his **little notebook** on his knees. |
 | Scrive una parola, poi guarda Lucia e scrive ancora. | He writes a word, then looks at Lucia and writes again. |
@@ -339,7 +339,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Si dice oggi» dice Lucia. «L'ho inventata io.» | "You say it today," says Lucia. "I invented it." |
 | Tutta la tavola dice insieme: «Oh, no». | The whole table says together: "Oh, no." |
 | Anche Leo scrive **nipottino** nel **quadernino**. | Leo writes **little grandkid** in his **little notebook** too. |
-| «Questa non è una parolina» dice Leo. «È una parolona.» | "This isn't a **little word**," says Leo. "It's a **big word**." |
+| «Questa non è una parolina» dice Leo. «È una parolona.» | "This isn't a little word," says Leo. "It's a big word." |
 | «Lo vedi? Il bambino capisce» dice Franco. | "You see? The kid understands," says Franco. |
 | Lucia guarda Franco con gli occhi stretti. | Lucia looks at Franco with narrow eyes. |
 | «Franco, tu parli troppo» dice Lucia. | "Franco, you talk too much," says Lucia. |
@@ -378,7 +378,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quattro: non bruciare il latte» aggiunge. | "Four: don't burn the milk," he adds. |
 | «Cinque: sorridere anche se sono **assonnato**.» | "Five: smile even if I'm **sleepy**." |
 | Kevin chiude il **quadernino** e accende la macchina del caffè. | Kevin closes the **little notebook** and turns on the coffee machine. |
-| _Sei voci. Non è una lista lunga. Ma è la mia lista._ | _Six items. It's not a long list. But it's my list._ |
+| _Cinque voci. Non è una lista lunga. Ma è la mia lista._ | _Five items. It's not a long list. But it's my list._ |
 | La porta si apre alle sei e un quarto. | The door opens at quarter past six. |
 | Entra Franco con il cappotto blu e il giornale sotto il braccio. | Franco comes in with his blue coat and the newspaper under his arm. |
 | «Buongiorno, Kevin» dice Franco. | "Good morning, Kevin," says Franco. |
@@ -539,7 +539,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì!» dice Leo, e prende il nastro. | "Yes!" says Leo, and takes the ribbon. |
 | Le sue dita sono corte e il nastro cade due volte. | His fingers are short and the ribbon falls twice. |
 | «Le mie **ditini** sono piccoli» dice Leo. | "My **little fingers** are small," says Leo. |
-| «I **ditini**, non le **ditini**» corregge Ornella. | "**Little fingers** is masculine, not feminine," Ornella corrects. |
+| «I ditini, non le ditini» corregge Ornella. | "Little fingers is masculine, not feminine," Ornella corrects. |
 | «I **ditini** sono piccoli» ripete Leo. | "The **little fingers** are small," Leo repeats. |
 | «E i tuoi **ditini** crescono ogni giorno» dice Ornella. | "And your **little fingers** grow every day," says Ornella. |
 | Leo la guarda. «Signora Ornella, mi insegna?» chiede Leo. | Leo looks at her. "Signora Ornella, will you teach me?" Leo asks. |
@@ -547,7 +547,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Sì. Voglio fare una cosa per la bambina» dice Leo. | "Yes. I want to make something for the baby," says Leo. |
 | «Va bene. Ma con calma» dice Ornella. | "All right. But slowly," says Ornella. |
 | Ornella prende due ferri e un gomitolo piccolo. | Ornella takes two needles and a small ball of yarn. |
-| Mette i ferri nelle mani di Leo e sistema le sue **ditini**. | She puts the needles in Leo's hands and fixes his **little fingers**. |
+| Mette i ferri nelle mani di Leo e sistema i suoi **ditini**. | She puts the needles in Leo's hands and fixes his **little fingers**. |
 | «Così. Piano piano» dice Ornella. | "Like this. Slowly slowly," says Ornella. |
 | Leo comincia. Dopo due minuti si muove sulla sedia. | Leo starts. After two minutes he moves on the chair. |
 | «Sto seduto da tanto» dice Leo. | "I've been sitting for a long time," says Leo. |
@@ -663,7 +663,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Vuol dire che sono della famiglia» dice Kevin. | "It means I'm part of the family," says Kevin. |
 | «Allora sei un **fratellino** vecchio» dice Leo. | "Then you're an old **little brother**," says Leo. |
 | Chiara ride e mette la testa sulla spalla di Kevin. | Chiara laughs and puts her head on Kevin's shoulder. |
-| «Leo, hai scritto anche il **lettino**?» chiede Chiara. | "Leo, did you also write down little bed?" Chiara asks. |
+| «Leo, hai scritto anche il lettino?» chiede Chiara. | "Leo, did you also write down little bed?" Chiara asks. |
 | «Sì. E la **carrozzina**» dice Leo. | "Yes. And the **pram**," says Leo. |
 | «La **carrozzina** non è una parolina» dice Emma. | "The **pram** isn't a little word," says Emma. |
 | «Ma è **piccolina**» dice Leo. | "But it's **tiny**," says Leo. |
@@ -699,7 +699,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Emma ride e lascia un **bacino** sulla testa di Leo. | Emma laughs and leaves a **little kiss** on Leo's head. |
 | Kevin resta solo sul divano con il disegno in mano. | Kevin stays alone on the sofa with the drawing in his hand. |
 | Guarda il **nasino**, le **manine** e il **golfino** blu di lana. | He looks at the **little nose**, the **little hands** and the blue wool **little cardigan**. |
-| Poi sente un rumore in cucina: è Chiara che prepara un **sonnellino** per la bambina? No. È il frigo. | Then he hears a noise in the kitchen: is it Chiara making a **little nap** for the baby? No. It's the fridge. |
+| Poi sente un rumore in cucina: no, è solo il frigo. Ma pensa a un **sonnellino** lungo, lungo. | Then he hears a noise in the kitchen: no, it's just the fridge. But he thinks of a long, long **little nap**. |
 | _Mi hanno dato un **mattino** per sempre. E un **fratellino** in regalo._ | _They gave me a **morning** forever. And a **little brother** as a gift._ |
 | Kevin spegne la luce e sorride al soffitto. | Kevin turns off the light and smiles at the ceiling. |
 | _Assonnato, sì. Ma questa settimana ho fatto qualcosa di buono._ | _Sleepy, yes. But this week I did something good._ |

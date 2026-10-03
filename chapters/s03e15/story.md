@@ -12,7 +12,7 @@ Lucia entra dalla cucina con un vassoio. «Ecco qua: un **caffettino** per tutti
 
 «Grazie, Lucia» dice Chiara.
 
-Lucia si avvicina alla carrozzina e guarda dentro. «Ma guarda questo **nasino** **piccolino**!» esclama Lucia. «E le **manine**... che **carine**!» dice.
+Lucia si avvicina alla carrozzina e guarda dentro. «Ma guarda questo nasino piccolino!» esclama Lucia. «E le **manine**... che **carine**!» dice.
 
 Leo è seduto sul divano con il **quadernino** sulle ginocchia. Scrive una parola, poi guarda Lucia e scrive ancora. «Che fai, Leo?» chiede Emma.
 
@@ -456,7 +456,7 @@ In casa c'è silenzio per un momento. Fuori il cielo è grigio e la strada è ba
 
 Sono le sei del **mattino** e Kevin apre il Bar Tigli da solo. Fuori fa freddo e la strada è ancora buia. Sul banco c'è il suo **quadernino** giallo, aperto su una pagina nuova.
 
-Kevin legge la pagina ad alta voce. «Cose che so fare al bar» dice Kevin. «Uno: fare il caffè. Due: fare il cappuccino. Tre: salutare tutti per nome.» «Quattro: non bruciare il latte» aggiunge. «Cinque: sorridere anche se sono **assonnato**.» Kevin chiude il **quadernino** e accende la macchina del caffè. _Sei voci. Non è una lista lunga. Ma è la mia lista._
+Kevin legge la pagina ad alta voce. «Cose che so fare al bar» dice Kevin. «Uno: fare il caffè. Due: fare il cappuccino. Tre: salutare tutti per nome.» «Quattro: non bruciare il latte» aggiunge. «Cinque: sorridere anche se sono **assonnato**.» Kevin chiude il **quadernino** e accende la macchina del caffè. _Cinque voci. Non è una lista lunga. Ma è la mia lista._
 
 La porta si apre alle sei e un quarto. Entra Franco con il cappotto blu e il giornale sotto il braccio. «Buongiorno, Kevin» dice Franco.
 
@@ -654,7 +654,7 @@ Ornella lega il **fiocchetto** intorno ai due pezzi di lana. «Leo, vuoi darmi i
 
 «Sì!» dice Leo, e prende il nastro. Le sue dita sono corte e il nastro cade due volte. «Le mie **ditini** sono piccoli» dice Leo.
 
-«I **ditini**, non le **ditini**» corregge Ornella.
+«I ditini, non le ditini» corregge Ornella.
 
 «I **ditini** sono piccoli» ripete Leo.
 
@@ -668,7 +668,7 @@ Leo la guarda. «Signora Ornella, mi insegna?» chiede Leo.
 
 «Va bene. Ma con calma» dice Ornella.
 
-Ornella prende due ferri e un gomitolo piccolo. Mette i ferri nelle mani di Leo e sistema le sue **ditini**. «Così. Piano piano» dice Ornella.
+Ornella prende due ferri e un gomitolo piccolo. Mette i ferri nelle mani di Leo e sistema i suoi **ditini**. «Così. Piano piano» dice Ornella.
 
 Leo comincia. Dopo due minuti si muove sulla sedia. «Sto seduto da tanto» dice Leo.
 
@@ -834,7 +834,7 @@ Emma guarda il disegno per un momento. «Papà, questo è **carino**» dice Emma
 
 «Allora sei un **fratellino** vecchio» dice Leo.
 
-Chiara ride e mette la testa sulla spalla di Kevin. «Leo, hai scritto anche il **lettino**?» chiede Chiara.
+Chiara ride e mette la testa sulla spalla di Kevin. «Leo, hai scritto anche il lettino?» chiede Chiara.
 
 «Sì. E la **carrozzina**» dice Leo.
 
@@ -886,7 +886,7 @@ Leo chiude il **quadernino** e si alza. «Buonanotte. Un **bacino** a tutti» di
 
 «Sì. Sei la mia sorellina grande» dice Leo. Emma ride e lascia un **bacino** sulla testa di Leo.
 
-Kevin resta solo sul divano con il disegno in mano. Guarda il **nasino**, le **manine** e il **golfino** blu di lana. Poi sente un rumore in cucina: è Chiara che prepara un **sonnellino** per la bambina? No. È il frigo. _Mi hanno dato un **mattino** per sempre. E un **fratellino** in regalo._ Kevin spegne la luce e sorride al soffitto. _Assonnato, sì. Ma questa settimana ho fatto qualcosa di buono._
+Kevin resta solo sul divano con il disegno in mano. Guarda il **nasino**, le **manine** e il **golfino** blu di lana. Poi sente un rumore in cucina: no, è solo il frigo. Ma pensa a un **sonnellino** lungo, lungo. _Mi hanno dato un **mattino** per sempre. E un **fratellino** in regalo._ Kevin spegne la luce e sorride al soffitto. _Assonnato, sì. Ma questa settimana ho fatto qualcosa di buono._
 
 ## 7. Casa di Franco, Via dei Tigli 9 · lunedì mattina
 
