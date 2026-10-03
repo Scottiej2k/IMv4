@@ -1,0 +1,5 @@
+### s04e01 · Ci sposeremo a giugno
+- **Happened:** Fidanzamento lunch at Franco's (14 guests; Ornella invites herself). Three date plans collide (Lucia: giugno; Franco: comune; Chiara: settembre); Franco and Lucia end by agreeing on giugno, part comune, part chiesa. Sunday morning Chiara discovers Kevin's secret breakfast business and sets a family budget talk for Tuesday evening.
+- **New facts:** Kevin's venture "Buongiorno, Borgoverde": American breakfast delivered before 8am, ~€32/week, looking for a socio. Nadia is his first client (two breakfasts, next Sunday). Lucia's son Gennaro lives in London, will come to the wedding, and is her chosen testimone. Ornella's grey cat is named Pavarotti. Franco will choose his testimone "domenica."
+- **Changed:** Chiara now knows about Kevin's attività. Ornella is formally invited to the wedding, at the comune.
+- **Planted:** Franco's testimone choice; Kevin's first delivery next Sunday; Tuesday numbers talk; Leo's TRAM note in Kevin's notebook (tram-shaped cake idea).
