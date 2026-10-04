@@ -302,11 +302,11 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Non è una bella frase. La cancella tutta. | It's not a good sentence. He crosses out the whole thing. |
 | Poi chiude il quaderno e spegne la luce. Domani è un altro giorno. | Then he closes the notebook and turns off the light. Tomorrow is another day. |
 
-## 4. Studio Marchetti, Milano · giovedì pomeriggio, sede di Roma
+## 4. Studio Marchetti, Milano · mercoledì pomeriggio, sede di Roma
 
 | Italiano | English |
 |---|---|
-| Giovedì pomeriggio alla **sede** di Roma. Fuori piove da tre ore. | Thursday afternoon at the Rome **office**. Outside it's been raining for three hours. |
+| Mercoledì pomeriggio alla **sede** di Roma. Fuori piove da tre ore. | Wednesday afternoon at the Rome **office**. Outside it's been raining for three hours. |
 | Le persiane sono chiuse e sul **finestrino** dell'ufficio scorrono gocce lente, come piccoli treni. | The blinds are closed and slow drops run down the office **window**, like tiny trains. |
 | Chiara lavora alla sua **scrivania** da tre ore senza alzarsi. | Chiara has been working at her **desk** for three hours without getting up. |
 | Sul tavolo ci sono due bicchieri di plastica vuoti e mezzo panino abbandonato su un tovagliolo. | On the table there are two empty plastic cups and half a sandwich abandoned on a napkin. |
@@ -328,15 +328,15 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara chiude gli occhi un secondo. | Chiara closes her eyes for a second. |
 | Fuori la pioggia continua. | Outside the rain keeps falling. |
 | «Sono contenta. Grazie.» | “I'm glad. Thank you.” |
-| «Senta, Chiara. C'è una cosa.» | “Listen, Chiara. There's something.” |
+| «Senti, Chiara. C'è una cosa.» | “Listen, Chiara. There's something.” |
 | Sandro dall'altra scrivania alza la testa. Sulle prime non dice niente. | Sandro at the other desk raises his head. At first he says nothing. |
-| «Mi dica.» | “Tell me.” |
-| «Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole lei.» | “The **client** wants to open a second site in Rome in the autumn. And he wants you.” |
+| «Dimmi.» | “Tell me.” |
+| «Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole te.» | “The **client** wants to open a second site in Rome in the autumn. And he wants you.” |
 | Silenzio. Chiara guarda il **finestrino** e le gocce che non si fermano mai. | Silence. Chiara looks at the **window** and the drops that never stop. |
 | «In autunno? Per quanto tempo?» | “In the autumn? For how long?” |
 | «Un anno, forse due. Con un **orario** tutto suo e uno **stipendio** diverso.» | “A year, maybe two. With a schedule of your own and a different **salary**.” |
 | «Un altro **incarico**? Qui a Roma?» | “Another **assignment**? Here in Rome?” |
-| «Esatto. Non risponda adesso. Ci pensi.» | “Exactly. Don't answer now. Think about it.” |
+| «Esatto. Non rispondere adesso. Pensaci.» | “Exactly. Don't answer now. Think about it.” |
 | Chiara appoggia il telefono e resta immobile. Sandro aspetta un momento prima di parlare. | Chiara puts the phone down and stays still. Sandro waits a moment before speaking. |
 | «Ti ha offerto Roma, vero?» | “He offered you Rome, didn't he?” |
 | «Un altro **incarico**. Un anno. Forse due.» | “Another **assignment**. A year. Maybe two.” |
@@ -374,7 +374,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | Chiara non risponde. Salva il file. Lo **consegna** al cliente con una mail. | Chiara doesn't answer. She saves the file. She **hands** it **in** to the client by email. |
 | Poi chiude il computer e prende la sciarpa. | Then she closes the computer and takes her scarf. |
 | Il telefono vibra ancora. È un messaggio di Lucia: una foto del giardino di Franco, con i tavoli già in fila e le luci bianche appese. | Her phone buzzes again. It's a message from Lucia: a photo of Franco's garden, with the tables already in rows and white lights hanging. |
-| Sotto la foto c'è scritto: “Mancano sessanta giorni. Io preparo la torta. Tu porta te stessa.” | Under the photo it says: “Sixty days to go. I'm making the cake. You just bring yourself.” |
+| Sotto la foto c'è scritto: “Mancano poche settimane. Io preparo la torta. Tu porta te stessa.” | Under the photo it says: “A few weeks to go. I'm making the cake. You just bring yourself.” |
 | Chiara guarda la foto per dieci secondi senza parlare. | Chiara looks at the photo for ten seconds without speaking. |
 | _Mi mancano i tavoli del giardino. Mi manca il rumore della casa. Mi manca anche la **calma** vera, quella di Borgoverde._ | _I miss the tables in the garden. I miss the noise of the house. I even miss the real **calm**, the Borgoverde kind._ |
 | _Sandro dice che **ci si abitua** a tutto. Ma io non voglio che Roma diventi la mia casa._ | _Sandro says **you get used to** everything. But I don't want Rome to become my home._ |
@@ -463,7 +463,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Parlavi veloce, senza pause. Come quando vuoi finire una cosa e non ci riesci.» | “You talked fast, without pauses. Like when you want to finish something and can't.” |
 | Chiara ride. Questa volta la risata è vera. | Chiara laughs. This time the laugh is real. |
 | «Tu mi conosci troppo bene.» | “You know me too well.” |
-| «Sono quattro anni che ti guardo. È il mio **mestiere** preferito.» | “I've been watching you for four years. It's my favorite **trade**.” |
+| «Sono vent'anni che ti guardo. È il mio **mestiere** preferito.» | “I've been watching you for twenty years. It's my favorite **trade**.” |
 | Kevin si alza, prende la pentola e la mette nel lavandino. Poi si gira verso di lei. | Kevin gets up, takes the pot and puts it in the sink. Then he turns to her. |
 | «Chiara, che cosa hai deciso per il matrimonio?» | “Chiara, what have you decided about the wedding?” |
 | «Il 20 giugno prendo l'ultimo treno. Il 21 è il matrimonio di papà. Non posso mancare.» | “On June 20 I'll take the last train. The 21st is Dad's wedding. I can't miss it.” |
@@ -538,7 +538,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Qui nessuno è puntuale, e nessuno sembra infelice. Le chiedo: come si fa ad **adattarsi**? Come **ci si abitua**?» | “Here nobody is on time, and nobody seems unhappy. I'm asking you: how do you **adapt**? How do you **get used to** it?” |
 | Kevin resta in silenzio. Leo smette di scrivere. Anche Klara aspetta. | Kevin goes quiet. Leo stops writing. Klara waits too. |
 | Kevin appoggia il mestolo sul bancone e si asciuga le mani nel grembiule. | Kevin rests the ladle on the counter and wipes his hands on his apron. |
-| «Ute, io sono straniero qui. Sono arrivato quattro anni fa e non sapevo dire niente.» | “Ute, I'm a foreigner here. I arrived four years ago and couldn't say anything.” |
+| «Ute, io sono straniero qui. Sono arrivato otto mesi fa e non sapevo dire niente.» | “Ute, I'm a foreigner here. I arrived eight months ago and couldn't say anything.” |
 | «E adesso?» | “And now?” |
 | «Adesso ti insegno a tagliare le cipolle. Ma non è perché sono bravo. È perché ho **sbagliato** tanto.» | “Now I'm teaching you to cut onions. But it's not because I'm good. It's because I **made mistakes** a lot.” |
 | Kevin fa un passo verso il tavolo e si siede su uno sgabello, per stare più comodo. | Kevin takes a step toward the table and sits on a stool, to be more comfortable. |
@@ -568,7 +568,7 @@ _Generated from `chapter.json` by `scripts/build_chapter.py`. Don't edit by hand
 | «Quale è sbagliata?» | “Which one is wrong?” |
 | «Che a Roma **ci si abitua** a tutto. A Roma no. A Roma **ci si ambienta** e basta.» | “That in Rome **you get used to** everything. In Rome, no. In Rome **you just settle in**.” |
 | «E qual è quella giusta?» | “And which one is right?” |
-| «Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da tre anni.» | “That you don't have to become Italian. Everyone in Borgoverde has known that for three years.” |
+| «Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da otto mesi.» | “That you don't have to become Italian. Everyone in Borgoverde has known that for eight months.” |
 | Ute prende il suo quaderno dalla borsa e scrive la frase di Franco. Klara guarda anche lei. | Ute takes her notebook out of her bag and writes Franco's sentence. Klara watches too. |
 | «Come si dice in italiano “settle in”?» | “How do you say “settle in” in Italian?” |
 | «**Ambientarsi**. Ma non è la stessa cosa di **integrarsi**.» | “**Settle in**. But it isn't the same as **integrating**.” |

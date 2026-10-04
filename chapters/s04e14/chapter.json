@@ -36871,18 +36871,18 @@
           "segments": [
             {
               "id": "s04e14-4-001",
-              "it": "Giovedì pomeriggio alla **sede** di Roma. Fuori piove da tre ore.",
-              "en": "Thursday afternoon at the Rome **office**. Outside it's been raining for three hours.",
+              "it": "Mercoledì pomeriggio alla **sede** di Roma. Fuori piove da tre ore.",
+              "en": "Wednesday afternoon at the Rome **office**. Outside it's been raining for three hours.",
               "voice": [
                 [
                   "narrator",
-                  "Giovedì pomeriggio alla **sede** di Roma. Fuori piove da tre ore.",
+                  "Mercoledì pomeriggio alla **sede** di Roma. Fuori piove da tre ore.",
                   ""
                 ]
               ],
               "tokens": [
                 [
-                  "Giovedì",
+                  "Mercoledì",
                   0,
                   ""
                 ],
@@ -39440,12 +39440,12 @@
           "segments": [
             {
               "id": "s04e14-4-023",
-              "it": "«Senta, Chiara. C'è una cosa.»",
+              "it": "«Senti, Chiara. C'è una cosa.»",
               "en": "“Listen, Chiara. There's something.”",
               "voice": [
                 [
                   "marchetti",
-                  "Senta, Chiara. C'è una cosa.",
+                  "Senti, Chiara. C'è una cosa.",
                   ""
                 ]
               ],
@@ -39456,7 +39456,7 @@
                   ""
                 ],
                 [
-                  "Senta",
+                  "Senti",
                   0,
                   ""
                 ],
@@ -39637,12 +39637,12 @@
           "segments": [
             {
               "id": "s04e14-4-025",
-              "it": "«Mi dica.»",
+              "it": "«Dimmi.»",
               "en": "“Tell me.”",
               "voice": [
                 [
                   "chiara",
-                  "Mi dica.",
+                  "Dimmi.",
                   ""
                 ]
               ],
@@ -39653,18 +39653,8 @@
                   ""
                 ],
                 [
-                  "Mi",
+                  "Dimmi",
                   0,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "dica",
-                  1,
                   ""
                 ],
                 [
@@ -39680,12 +39670,12 @@
           "segments": [
             {
               "id": "s04e14-4-026",
-              "it": "«Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole lei.»",
+              "it": "«Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole te.»",
               "en": "“The **client** wants to open a second site in Rome in the autumn. And he wants you.”",
               "voice": [
                 [
                   "marchetti",
-                  "Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole lei.",
+                  "Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole te.",
                   ""
                 ]
               ],
@@ -39826,7 +39816,7 @@
                   ""
                 ],
                 [
-                  "lei",
+                  "te",
                   13,
                   ""
                 ],
@@ -40308,12 +40298,12 @@
           "segments": [
             {
               "id": "s04e14-4-031",
-              "it": "«Esatto. Non risponda adesso. Ci pensi.»",
+              "it": "«Esatto. Non rispondere adesso. Pensaci.»",
               "en": "“Exactly. Don't answer now. Think about it.”",
               "voice": [
                 [
                   "marchetti",
-                  "Esatto. Non risponda adesso. Ci pensi.",
+                  "Esatto. Non rispondere adesso. Pensaci.",
                   ""
                 ]
               ],
@@ -40344,7 +40334,7 @@
                   ""
                 ],
                 [
-                  "risponda",
+                  "rispondere",
                   2,
                   ""
                 ],
@@ -40364,18 +40354,8 @@
                   ""
                 ],
                 [
-                  "Ci",
+                  "Pensaci",
                   4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
-                  "pensi",
-                  5,
                   ""
                 ],
                 [
@@ -45572,12 +45552,12 @@
             },
             {
               "id": "s04e14-4-069",
-              "it": "Sotto la foto c'è scritto: “Mancano sessanta giorni. Io preparo la torta. Tu porta te stessa.”",
-              "en": "Under the photo it says: “Sixty days to go. I'm making the cake. You just bring yourself.”",
+              "it": "Sotto la foto c'è scritto: “Mancano poche settimane. Io preparo la torta. Tu porta te stessa.”",
+              "en": "Under the photo it says: “A few weeks to go. I'm making the cake. You just bring yourself.”",
               "voice": [
                 [
                   "narrator",
-                  "Sotto la foto c'è scritto: “Mancano sessanta giorni. Io preparo la torta. Tu porta te stessa.”",
+                  "Sotto la foto c'è scritto: “Mancano poche settimane. Io preparo la torta. Tu porta te stessa.”",
                   ""
                 ]
               ],
@@ -45643,7 +45623,7 @@
                   ""
                 ],
                 [
-                  "sessanta",
+                  "poche",
                   6,
                   ""
                 ],
@@ -45653,7 +45633,7 @@
                   ""
                 ],
                 [
-                  "giorni",
+                  "settimane",
                   7,
                   ""
                 ],
@@ -47936,7 +47916,7 @@
           ]
         }
       ],
-      "time": "giovedì pomeriggio, sede di Roma"
+      "time": "mercoledì pomeriggio, sede di Roma"
     },
     {
       "n": 5,
@@ -56580,12 +56560,12 @@
           "segments": [
             {
               "id": "s04e14-5-071",
-              "it": "«Sono quattro anni che ti guardo. È il mio **mestiere** preferito.»",
-              "en": "“I've been watching you for four years. It's my favorite **trade**.”",
+              "it": "«Sono vent'anni che ti guardo. È il mio **mestiere** preferito.»",
+              "en": "“I've been watching you for twenty years. It's my favorite **trade**.”",
               "voice": [
                 [
                   "ben",
-                  "Sono quattro anni che ti guardo. È il mio **mestiere** preferito.",
+                  "Sono vent'anni che ti guardo. È il mio **mestiere** preferito.",
                   "soft"
                 ]
               ],
@@ -56606,7 +56586,7 @@
                   ""
                 ],
                 [
-                  "quattro",
+                  "vent'anni",
                   1,
                   ""
                 ],
@@ -56616,7 +56596,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "che",
                   2,
                   ""
                 ],
@@ -56626,7 +56606,7 @@
                   ""
                 ],
                 [
-                  "che",
+                  "ti",
                   3,
                   ""
                 ],
@@ -56636,18 +56616,8 @@
                   ""
                 ],
                 [
-                  "ti",
-                  4,
-                  ""
-                ],
-                [
-                  " ",
-                  -1,
-                  ""
-                ],
-                [
                   "guardo",
-                  5,
+                  4,
                   ""
                 ],
                 [
@@ -56657,7 +56627,7 @@
                 ],
                 [
                   "È",
-                  6,
+                  5,
                   ""
                 ],
                 [
@@ -56667,7 +56637,7 @@
                 ],
                 [
                   "il",
-                  7,
+                  6,
                   ""
                 ],
                 [
@@ -56677,7 +56647,7 @@
                 ],
                 [
                   "mio",
-                  8,
+                  7,
                   ""
                 ],
                 [
@@ -56687,7 +56657,7 @@
                 ],
                 [
                   "mestiere",
-                  9,
+                  8,
                   "b"
                 ],
                 [
@@ -56697,7 +56667,7 @@
                 ],
                 [
                   "preferito",
-                  10,
+                  9,
                   ""
                 ],
                 [
@@ -65980,12 +65950,12 @@
             },
             {
               "id": "s04e14-6-045",
-              "it": "«Ute, io sono straniero qui. Sono arrivato quattro anni fa e non sapevo dire niente.»",
-              "en": "“Ute, I'm a foreigner here. I arrived four years ago and couldn't say anything.”",
+              "it": "«Ute, io sono straniero qui. Sono arrivato otto mesi fa e non sapevo dire niente.»",
+              "en": "“Ute, I'm a foreigner here. I arrived eight months ago and couldn't say anything.”",
               "voice": [
                 [
                   "ben",
-                  "Ute, io sono straniero qui. Sono arrivato quattro anni fa e non sapevo dire niente.",
+                  "Ute, io sono straniero qui. Sono arrivato otto mesi fa e non sapevo dire niente.",
                   ""
                 ]
               ],
@@ -66066,7 +66036,7 @@
                   ""
                 ],
                 [
-                  "quattro",
+                  "otto",
                   7,
                   ""
                 ],
@@ -66076,7 +66046,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "mesi",
                   8,
                   ""
                 ],
@@ -70074,12 +70044,12 @@
           "segments": [
             {
               "id": "s04e14-6-075",
-              "it": "«Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da tre anni.»",
-              "en": "“That you don't have to become Italian. Everyone in Borgoverde has known that for three years.”",
+              "it": "«Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da otto mesi.»",
+              "en": "“That you don't have to become Italian. Everyone in Borgoverde has known that for eight months.”",
               "voice": [
                 [
                   "franco",
-                  "Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da tre anni.",
+                  "Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da otto mesi.",
                   "shrugging"
                 ]
               ],
@@ -70210,7 +70180,7 @@
                   ""
                 ],
                 [
-                  "tre",
+                  "otto",
                   12,
                   ""
                 ],
@@ -70220,7 +70190,7 @@
                   ""
                 ],
                 [
-                  "anni",
+                  "mesi",
                   13,
                   ""
                 ],

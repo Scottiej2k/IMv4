@@ -314,9 +314,9 @@ Nessuno parla per un momento. Regola numero tre: a casa **si sta bene**. Kevin s
 
 Per la strada passa solo una bicicletta. Kevin guarda il quaderno giallo e scrive una nuova frase sotto le altre. Poi la rilegge due volte e la lascia lì. "Roma è lontana, ma il cane resta davanti alla casa." Poi cancella "cane". Non è una bella frase. La cancella tutta. Poi chiude il quaderno e spegne la luce. Domani è un altro giorno.
 
-## 4. Studio Marchetti, Milano · giovedì pomeriggio, sede di Roma
+## 4. Studio Marchetti, Milano · mercoledì pomeriggio, sede di Roma
 
-Giovedì pomeriggio alla **sede** di Roma. Fuori piove da tre ore. Le persiane sono chiuse e sul **finestrino** dell'ufficio scorrono gocce lente, come piccoli treni. Chiara lavora alla sua **scrivania** da tre ore senza alzarsi. Sul tavolo ci sono due bicchieri di plastica vuoti e mezzo panino abbandonato su un tovagliolo. Sandro passa dietro di lei e guarda lo schermo. «Chiara, sono le quattro. Hai mangiato?»
+Mercoledì pomeriggio alla **sede** di Roma. Fuori piove da tre ore. Le persiane sono chiuse e sul **finestrino** dell'ufficio scorrono gocce lente, come piccoli treni. Chiara lavora alla sua **scrivania** da tre ore senza alzarsi. Sul tavolo ci sono due bicchieri di plastica vuoti e mezzo panino abbandonato su un tovagliolo. Sandro passa dietro di lei e guarda lo schermo. «Chiara, sono le quattro. Hai mangiato?»
 
 «Ho mangiato. Quel panino.»
 
@@ -334,11 +334,11 @@ Chiara ride per la prima volta in tre giorni. «Sandro, domani c'è la **riunion
 
 Fuori la pioggia continua. «Sono contenta. Grazie.»
 
-«Senta, Chiara. C'è una cosa.» Sandro dall'altra scrivania alza la testa. Sulle prime non dice niente.
+«Senti, Chiara. C'è una cosa.» Sandro dall'altra scrivania alza la testa. Sulle prime non dice niente.
 
-«Mi dica.»
+«Dimmi.»
 
-«Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole lei.»
+«Il **cliente** vuole aprire un secondo cantiere a Roma in autunno. E vuole te.»
 
 Silenzio. Chiara guarda il **finestrino** e le gocce che non si fermano mai. «In autunno? Per quanto tempo?»
 
@@ -346,7 +346,7 @@ Silenzio. Chiara guarda il **finestrino** e le gocce che non si fermano mai. «I
 
 «Un altro **incarico**? Qui a Roma?»
 
-«Esatto. Non risponda adesso. Ci pensi.» Chiara appoggia il telefono e resta immobile. Sandro aspetta un momento prima di parlare.
+«Esatto. Non rispondere adesso. Pensaci.» Chiara appoggia il telefono e resta immobile. Sandro aspetta un momento prima di parlare.
 
 «Ti ha offerto Roma, vero?»
 
@@ -400,7 +400,7 @@ Chiara guarda il computer. Sulle tavole del progetto c'è il nome del **cliente*
 
 «E se non voglio **adattarmi**?»
 
-«Non c'è una legge che ti obbliga. Ma un giorno ti svegli e non hai più voglia di tornare indietro.» Chiara non risponde. Salva il file. Lo **consegna** al cliente con una mail. Poi chiude il computer e prende la sciarpa. Il telefono vibra ancora. È un messaggio di Lucia: una foto del giardino di Franco, con i tavoli già in fila e le luci bianche appese. Sotto la foto c'è scritto: “Mancano sessanta giorni. Io preparo la torta. Tu porta te stessa.”
+«Non c'è una legge che ti obbliga. Ma un giorno ti svegli e non hai più voglia di tornare indietro.» Chiara non risponde. Salva il file. Lo **consegna** al cliente con una mail. Poi chiude il computer e prende la sciarpa. Il telefono vibra ancora. È un messaggio di Lucia: una foto del giardino di Franco, con i tavoli già in fila e le luci bianche appese. Sotto la foto c'è scritto: “Mancano poche settimane. Io preparo la torta. Tu porta te stessa.”
 
 Chiara guarda la foto per dieci secondi senza parlare. _Mi mancano i tavoli del giardino. Mi manca il rumore della casa. Mi manca anche la **calma** vera, quella di Borgoverde._ _Sandro dice che **ci si abitua** a tutto. Ma io non voglio che Roma diventi la mia casa._ «Sandro, domani, dopo la **riunione**, io prendo il treno delle sette. Torno a casa giovedì notte.»
 
@@ -502,7 +502,7 @@ Chiara finisce la minestra in due cucchiai. Poi guarda il quaderno di Leo un'alt
 
 Chiara ride. Questa volta la risata è vera. «Tu mi conosci troppo bene.»
 
-«Sono quattro anni che ti guardo. È il mio **mestiere** preferito.» Kevin si alza, prende la pentola e la mette nel lavandino. Poi si gira verso di lei. «Chiara, che cosa hai deciso per il matrimonio?»
+«Sono vent'anni che ti guardo. È il mio **mestiere** preferito.» Kevin si alza, prende la pentola e la mette nel lavandino. Poi si gira verso di lei. «Chiara, che cosa hai deciso per il matrimonio?»
 
 «Il 20 giugno prendo l'ultimo treno. Il 21 è il matrimonio di papà. Non posso mancare.»
 
@@ -584,7 +584,7 @@ Kevin si gira verso di lui. «E quale sarebbe?»
 
 «Qui nessuno è puntuale, e nessuno sembra infelice. Le chiedo: come si fa ad **adattarsi**? Come **ci si abitua**?»
 
-Kevin resta in silenzio. Leo smette di scrivere. Anche Klara aspetta. Kevin appoggia il mestolo sul bancone e si asciuga le mani nel grembiule. «Ute, io sono straniero qui. Sono arrivato quattro anni fa e non sapevo dire niente.»
+Kevin resta in silenzio. Leo smette di scrivere. Anche Klara aspetta. Kevin appoggia il mestolo sul bancone e si asciuga le mani nel grembiule. «Ute, io sono straniero qui. Sono arrivato otto mesi fa e non sapevo dire niente.»
 
 «E adesso?»
 
@@ -630,7 +630,7 @@ Franco prende un pezzo di pane dal cesto, lo intinge nella padella e lo assaggia
 
 «E qual è quella giusta?»
 
-«Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da tre anni.» Ute prende il suo quaderno dalla borsa e scrive la frase di Franco. Klara guarda anche lei.
+«Che non devi diventare italiano. Quello lo sanno tutti, a Borgoverde, da otto mesi.» Ute prende il suo quaderno dalla borsa e scrive la frase di Franco. Klara guarda anche lei.
 
 «Come si dice in italiano “settle in”?»
 
