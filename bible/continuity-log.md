@@ -560,6 +560,12 @@ factual: this file is what keeps 200 chapters consistent.
 - **Changed:** Matteo settles: one review a day, supplier stays, no Sunday opening; Kevin adopts Franco's rule to compare only with yesterday. No Lei/tu switch.
 - **Planted:** Leo will bring Pietro to Saturday's cooking class; Sunny Side's possible promotion and Sunday-afternoon opening; Chiara's Rome project.
 
+### s04e14 · Ci si abitua
+- **Happened:** Chiara spends the week at Studio Marchetti's Rome office; Marchetti phones to offer her a second **incarico** in Rome (a year, maybe two) from autumn — she says she'll think about it. She tells Sandro she'll take the last train on 20 June and attend Franco's wedding on 21 June. At a closed Bar Tigli, Kevin cooks onion soup for Ute and her cousin Klara and talks about settling in; Franco tastes the soup, approves, and refuses a Carter family trip to Rome in June.
+- **New facts:** Rome office is on the third floor near Termini; colleague **Sandro**, informal, Roman, ten years there, knows about the wedding. **Klara**, Ute's cousin, German, three weeks in Italy, learning Italian and cooking. Leo's blue notebook *Regole di Roma*; Kevin's yellow notebook of Italian phrases. Lucia is baking the wedding cake; Franco's garden tables are already set out (sixty days to go).
+- **Changed:** Chiara and Kevin agree on "piccole cose" vs "cose grandi"; Chiara postpones deciding. No secrets change; no tu/Lei switch.
+- **Planted:** Chiara's Rome offer and autumn second site are unresolved; her 20–21 June travel is fixed.
+
 ### s05e03 · Vogliono che torni
 - **Happened:** Dave Miller, Kevin's old Chicago boss, emails a job offer: promotion to marketing director, double salary, three-year contract, relocation in March, reply by February. Kevin tells Ornella, who advises telling Chiara; he doesn't, and sends Dave only a request for a week. Chiara has been asked to work in Rome three days a week for two months, starting Monday.
 - **New facts:** Dave Miller (Kevin's former boss, two daughters, a dog) and Marchetti (Chiara's colleague) are named. Franco is 74 and drove the same tram line 35 years; he refused an office job. Ornella's husband Gino refused a Turin transfer before buying the bar (1968).
